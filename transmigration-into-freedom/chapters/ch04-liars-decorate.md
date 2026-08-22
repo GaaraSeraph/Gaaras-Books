@@ -188,7 +188,7 @@ He laughed. It came out short and ugly.
 
 "What," she said.
 
-"Nothing. It's just familiar." He shifted the bundle. "The work exists. The people who could authorise it are busy having a more important argument in another building."
+"It's just familiar." He shifted the bundle. "The work exists. The people who could authorise it are busy having a more important argument in another building."
 
 She gave him a sideways look.
 
@@ -226,4 +226,4 @@ Including him. Especially him.
 
 "What," said Marit.
 
-"Nothing," he said, and started walking again. "Thought I saw something."
+"I saw something," he said, and started walking again.

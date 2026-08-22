@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 7.295 Woerter.
+Kanon: 5 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 7.512 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -35,20 +35,22 @@ Hallvard, elder of Oldstep, NO PANEL
 - Seventy or so, tall and dry, carries a stick he does not lean on. Has been the final word here a long time.
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
-- Made Gaara sleep in the byre as a precaution. Watched the dirt map in Chapter 6 and left without a word.
+- Made Gaara sleep in the byre as a precaution.
 - Terms of the deal: three days of bread, a whetstone, a place in the byre. Proof brought back from the ruin.
 
 Solva, Level 3
 - Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
-- Let him keep the boots. Brought him bread, cheese and a pot of fat for the steel.
+- Let him keep the boots.
 - Publicly on his side. "Nine weeks I've asked men to go and look. Not one of you went."
 
 Minor villagers
-- Bern, Level 4, about fifty, lost two dogs (Rell and the little one) at the stream mouth.
-- Halle, whose cousin was taken at the ford in daylight, with the ox screaming.
-- An unnamed boy of sixteen, Level 2, was fishing with the boy who was taken and ran. Talks to his own hands.
-- An old man with nothing useful who came to look at the stranger.
-- Only five of forty houses came to the byre. Being seen walking there meant picking a side.
+Named villagers all came in with the old Chapter 6 and went out with it. Nobody
+in Oldstep beyond Marit, Hallvard and Solva has a name in the text right now.
+Available and unspent, from ch4 and ch5 only: two dogs lost, a boy taken while
+fishing, a man with a cart taken at a ford. Their owners and kin exist and are
+unnamed. Also ch5: the man with the hoe (Level 4), a girl of about fourteen
+carrying a bucket (Level 2), and a village that split roughly in half in the
+road that afternoon.
 
 ---
 
@@ -73,9 +75,8 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 5 (and into 6): The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
-Marit comes uninvited and he cannot make her leave. He notices his own speech about working alone dying in his mouth and refuses to look at the thought directly.
 Status: cracked, unacknowledged.
 
 Stage 3, Chapters 7 to 12: Dependency as a live cost.
@@ -97,10 +98,23 @@ Not "nobody can take it from me" but "it does not collapse if I fall over." The 
 
 === 3. THE SYSTEM AS CHARACTER PRESSURE ===
 
-The system is not a reward machine. It is the second antagonist and it should get slightly more unsettling every ten chapters.
+The system is not a reward machine, and it is not a villain either. It is a
+TOOL, and it is the only one he has. That is the whole problem.
+His rule about tools is his rule about everything: you rely on one exactly as
+long as you have no second, and you build the second as fast as you can. He
+cannot audit this one, cannot switch it off, and cannot get a look at who is
+keeping the score. It already wrote a language into him without asking, and it
+shows him nothing at all for one man. So it does not need to menace him. It
+only needs to be the ONLY instrument in his hands, and stay that way, and he
+will feel about it exactly what he feels about anything he depends on and
+cannot control.
+This is also where the long game comes from and why it is his and not a genre
+convention: knowledge, writing, something that runs without him is the second
+tool. A monopoly is more unsettling than an antagonist, and it does not need
+the system to have intentions.
 
 - It gave him a language without asking. He filed that as a threat.
-- It counts everyone, including a goat.
+- It counts everyone in the village, and not one of them knows it.
 - It fails on exactly one man, and that man runs the village.
 - Open question he will eventually have to face: if it can write a language into him, what else is in there that he thinks is his.
 
@@ -139,7 +153,6 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: no mechanical change. Learns the skill covers blade care. Bread, cheese, fat, whetstone.
 
 Pacing rules
 - Levels should get slower, not faster. Level 3 should cost more than two crawlers.
@@ -152,7 +165,7 @@ Pacing rules
 === 5. SUPPORTING ARCS ===
 
 Marit Halden
-- Now: competent, dry, grieving, unwilling to be protected. Came uninvited.
+- Now: competent, dry, grieving, unwilling to be protected.
 - Function: the first person whose failure would actually cost him, and the first who refuses to be managed.
 - Direction: from useful local to someone with her own reasons that do not run through him. She should be right about something important that he is wrong about, at least once, and it should cost him.
 - Romance: possible, not started. Should not be the engine of her character.
@@ -188,14 +201,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== "You've known them your whole lives" is plural on purpose ===
-In ch6 Gaara says it to Marit, who is one person. It is not a slip. The
-"you" is the village, addressed through her - he is talking about the people
-of this world, not about her. It stays. It also does a small piece of
-characterisation for free: he sorts them as a group he is standing outside
-of, which is exactly where he is on that evening.
-Written down because a proofreading pass flagged it once already and would
-flag it again. check.py cannot see it - this is the human layer.
+=== "Nothing" is a lie, and so is a borrowed doubt ===
+This reverses a call taken earlier the same day. Three evasions had been
+checked against the never-lies rule and kept, on the reading that "Nothing"
+was literally true in ch5 (he looks at Hallvard and there really is nothing
+there). The author overruled it, and he is right: the question on the table
+is not "what do you see", it is "what is wrong", and the answer to that one
+is not nothing. A true reading of the wrong question is still an untrue
+answer. All three are gone.
+  ch5: the answer is deleted outright. He watches the elder shut his door
+  and asks his own question instead. Silence claims nothing, so it cannot
+  claim anything false, and a man who does not fill a pause is more him
+  than a man with a deflection ready.
+  ch4:191: "Nothing." dropped; he goes straight to "It's just familiar,"
+  which he then explains anyway. The word was doing no work.
+  ch4:229: "Nothing," he said ... "Thought I saw something." became "I saw
+  something," he said, and started walking again. The borrowed doubt was the
+  real problem: he did not think he saw it, he saw it, and hedging invents
+  an uncertainty he does not have. The replacement is completely true, tells
+  Marit nothing she can use, and is a harder line to say - which is the
+  point of the rule. It is now the model case in the bible.
+The general form, for every later chapter: evasion is allowed, omission is
+allowed, silence is allowed. Denial is not, and neither is manufactured
+doubt. When it gets expensive, that is the rule working.
 
 === Where the name comes from, and where that gets spent ===
 Origin settled: he took the name at nineteen from a story he had loved as a
@@ -233,7 +261,7 @@ denial - which is also the only shape available to him, since he never says
 anything untrue. And it leaves one unspent implication on the table: the panel
 reported what he calls himself rather than what he was called, so the system
 reads self-conception, not record. That is a different order of thing from
-putting a number over a goat, and it belongs in a chapter, not in a doc.
+putting a number over a farmer, and it belongs in a chapter, not in a doc.
 Thread 16 was rewritten to hold the part that is still open.
 
 === Gaara never says anything untrue, and that is canon now ===
@@ -358,7 +386,7 @@ nicht diese Zeile von Hand.
 3. Dead Man's Boots
 4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
-6. She Was Already Waiting
+6. (offen - wird neu entworfen)
 7. Every Plan I Make Is for One (planned)
 8. What Opened in Spring (planned)
 9. A Name for the Knife (planned)
@@ -439,10 +467,18 @@ Morality and violence
   untruth said by someone with a budget line to defend.
   EXEMPT: irony, jokes, insults, obvious exaggeration. "I built a whole
   career on it" (ch2) deceives nobody, so the rule does not bite.
-  How to write it, the model case (ch5): Marit asks what is wrong. He has
-  just looked at Hallvard and seen nothing at all above his head. He says
-  "Nothing." Literally true, completely evasive. Build the evasions so they
-  survive being checked word by word.
+  How to write it, the model case (ch4): Marit asks what is wrong. He has
+  just read a panel over her head that she cannot see. He says "I saw
+  something," and keeps walking. Wholly true, tells her nothing, and it costs
+  him the comfort of sounding harmless. That is the shape - not a softer
+  untruth, a harder truth.
+  Two things are ruled out, so that no later pass reinstates them:
+  "Nothing" as an answer to "what is wrong" is a LIE, and it stays a lie even
+  when he walks it back in the same breath. And a borrowed doubt is a lie too:
+  "I thought I saw something" when he is certain manufactures an uncertainty
+  he does not have. He does not get to buy distance with either. If he wants
+  out of a question, he says something true and useless, or he says nothing
+  at all and asks his own question instead (ch5).
 - A hard situational utilitarian: he weighs outcomes, not rules, and does not let
   ordinary moral scruples stop him.
 - Violence and killing are genuine options for him, not lines he refuses to cross.
@@ -456,7 +492,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 6). The story tags include Smut; the
+  No romance has started (as of Chapter 5). The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -479,9 +515,7 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch3) Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head. Reading is untested; the coins' script is still unreadable.
 - (ch4) Other people have levels. He saw "Marit Halden, Level 6, Human" over her head at the end of the chapter. She saw nothing and reacted to nothing. So the numbers are the world's, not his gift. Whether anyone else has a panel is unknown.
 - (ch5) Villagers of Oldstep run from Level 2 to Level 6. Marit at 6 is the highest in the village.
-- (ch5) EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara's three candidate explanations: the system cannot read him, the system has been told not to show him, or the panel shows what someone wants Gaara to see rather than what is there.
-- (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel reads whatever is in front of him.
-- (ch6) Skills are broader than they sound. Dagger Mastery E also governs sharpening, grip and care of the blade (the grip correction is first felt in ch3; the full breadth lands at the whetstone in ch6). His wrist finds the correct angle on a whetstone he has never used.
+- (ch5) EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara has not yet worked through what it could mean; that thinking has no chapter to live in until 6 exists.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
@@ -515,15 +549,9 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-The pattern (established Chapter 6, not yet known to anyone else)
-- Every loss sits within about a hundred paces of the water that flows out of the ruin: the dogs where the stream comes out from under the stones, the fishing boy at the pool below the broken channel, Halle's cousin at the ford.
-- They are not spreading out from the ruin in a circle. They are running down one channel and stopping where it stops. A road, not a hunting range.
-- Teodor is the exception. He was not taken; he went in on purpose.
-- Gaara's plan: follow the water backward to its source. Whatever changed in spring changed there.
-
-The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
+The crawler problem (ch4, from Marit's account; detail added ch5)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
-- Taken so far: two dogs, a boy who was fishing, a man with a cart, then Teodor, who went in after them.
+- Taken so far: two dogs, a boy who was fishing, a man with a cart, then Teodor. Teodor is the exception: he was not taken, he went in on purpose (ch4).
 - Something changed in spring. Cause unknown. This is the first arc.
 
 Gloom Crawlers (ch2, fought and killed)
@@ -573,7 +601,7 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.
 10. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
-12. Marit came uninvited in Chapter 6 and he could not send her away. First real attack on his self-reliance rule.
+12. VACANT. Held open for whatever the new Chapter 6 establishes. Do not renumber the threads below; the number is a reference, not a ranking.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).

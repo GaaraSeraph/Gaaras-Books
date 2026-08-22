@@ -3,14 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
-=== "You've known them your whole lives" is plural on purpose ===
-In ch6 Gaara says it to Marit, who is one person. It is not a slip. The
-"you" is the village, addressed through her - he is talking about the people
-of this world, not about her. It stays. It also does a small piece of
-characterisation for free: he sorts them as a group he is standing outside
-of, which is exactly where he is on that evening.
-Written down because a proofreading pass flagged it once already and would
-flag it again. check.py cannot see it - this is the human layer.
+=== "Nothing" is a lie, and so is a borrowed doubt ===
+This reverses a call taken earlier the same day. Three evasions had been
+checked against the never-lies rule and kept, on the reading that "Nothing"
+was literally true in ch5 (he looks at Hallvard and there really is nothing
+there). The author overruled it, and he is right: the question on the table
+is not "what do you see", it is "what is wrong", and the answer to that one
+is not nothing. A true reading of the wrong question is still an untrue
+answer. All three are gone.
+  ch5: the answer is deleted outright. He watches the elder shut his door
+  and asks his own question instead. Silence claims nothing, so it cannot
+  claim anything false, and a man who does not fill a pause is more him
+  than a man with a deflection ready.
+  ch4:191: "Nothing." dropped; he goes straight to "It's just familiar,"
+  which he then explains anyway. The word was doing no work.
+  ch4:229: "Nothing," he said ... "Thought I saw something." became "I saw
+  something," he said, and started walking again. The borrowed doubt was the
+  real problem: he did not think he saw it, he saw it, and hedging invents
+  an uncertainty he does not have. The replacement is completely true, tells
+  Marit nothing she can use, and is a harder line to say - which is the
+  point of the rule. It is now the model case in the bible.
+The general form, for every later chapter: evasion is allowed, omission is
+allowed, silence is allowed. Denial is not, and neither is manufactured
+doubt. When it gets expensive, that is the rule working.
 
 === Where the name comes from, and where that gets spent ===
 Origin settled: he took the name at nineteen from a story he had loved as a
@@ -48,7 +63,7 @@ denial - which is also the only shape available to him, since he never says
 anything untrue. And it leaves one unspent implication on the table: the panel
 reported what he calls himself rather than what he was called, so the system
 reads self-conception, not record. That is a different order of thing from
-putting a number over a goat, and it belongs in a chapter, not in a doc.
+putting a number over a farmer, and it belongs in a chapter, not in a doc.
 Thread 16 was rewritten to hold the part that is still open.
 
 === Gaara never says anything untrue, and that is canon now ===

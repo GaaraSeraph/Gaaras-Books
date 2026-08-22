@@ -3,9 +3,8 @@
 ch01    2499 Woerter  ch01-awakening-in-ash.md
 ch02    2511 Woerter  ch02-first-blood-first-skill.md
 ch03    2466 Woerter  ch03-dead-mans-boots.md
-ch04    2175 Woerter  ch04-liars-decorate.md
-ch05    1700 Woerter  ch05-the-lamp-goes-out.md
-ch06    1900 Woerter  ch06-she-was-already-waiting.md
+ch04    2172 Woerter  ch04-liars-decorate.md
+ch05    1697 Woerter  ch05-the-lamp-goes-out.md
 
-Gesamt: 6 Kapitel, 13251 Woerter
+Gesamt: 5 Kapitel, 11345 Woerter
 Handbuch: 4 Dokumente

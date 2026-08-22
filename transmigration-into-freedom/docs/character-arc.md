@@ -19,9 +19,8 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 5 (and into 6): The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
-Marit comes uninvited and he cannot make her leave. He notices his own speech about working alone dying in his mouth and refuses to look at the thought directly.
 Status: cracked, unacknowledged.
 
 Stage 3, Chapters 7 to 12: Dependency as a live cost.
@@ -43,10 +42,23 @@ Not "nobody can take it from me" but "it does not collapse if I fall over." The 
 
 === 3. THE SYSTEM AS CHARACTER PRESSURE ===
 
-The system is not a reward machine. It is the second antagonist and it should get slightly more unsettling every ten chapters.
+The system is not a reward machine, and it is not a villain either. It is a
+TOOL, and it is the only one he has. That is the whole problem.
+His rule about tools is his rule about everything: you rely on one exactly as
+long as you have no second, and you build the second as fast as you can. He
+cannot audit this one, cannot switch it off, and cannot get a look at who is
+keeping the score. It already wrote a language into him without asking, and it
+shows him nothing at all for one man. So it does not need to menace him. It
+only needs to be the ONLY instrument in his hands, and stay that way, and he
+will feel about it exactly what he feels about anything he depends on and
+cannot control.
+This is also where the long game comes from and why it is his and not a genre
+convention: knowledge, writing, something that runs without him is the second
+tool. A monopoly is more unsettling than an antagonist, and it does not need
+the system to have intentions.
 
 - It gave him a language without asking. He filed that as a threat.
-- It counts everyone, including a goat.
+- It counts everyone in the village, and not one of them knows it.
 - It fails on exactly one man, and that man runs the village.
 - Open question he will eventually have to face: if it can write a language into him, what else is in there that he thinks is his.
 
@@ -85,7 +97,6 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: no mechanical change. Learns the skill covers blade care. Bread, cheese, fat, whetstone.
 
 Pacing rules
 - Levels should get slower, not faster. Level 3 should cost more than two crawlers.
@@ -98,7 +109,7 @@ Pacing rules
 === 5. SUPPORTING ARCS ===
 
 Marit Halden
-- Now: competent, dry, grieving, unwilling to be protected. Came uninvited.
+- Now: competent, dry, grieving, unwilling to be protected.
 - Function: the first person whose failure would actually cost him, and the first who refuses to be managed.
 - Direction: from useful local to someone with her own reasons that do not run through him. She should be right about something important that he is wrong about, at least once, and it should cost him.
 - Romance: possible, not started. Should not be the engine of her character.
