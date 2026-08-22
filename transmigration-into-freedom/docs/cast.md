@@ -53,6 +53,8 @@ Osvald, Level 4 (ch5 as a face, ch6 named and dead)
   and gives it, and the narration uses it from that line on. Gaara fought beside
   him and never asked; Bern gave his own name unprompted before the fighting, in
   case. That pair is the point and must not be flattened.
+- His widow is Ingrid (ch6, offstage). Solva has undertaken to sit with her
+  every night she wants it.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
