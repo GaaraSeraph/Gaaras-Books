@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 7.189 Woerter.
+Alle 4 Dokumente am Stueck. 7.295 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -187,6 +187,15 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== "You've known them your whole lives" is plural on purpose ===
+In ch6 Gaara says it to Marit, who is one person. It is not a slip. The
+"you" is the village, addressed through her - he is talking about the people
+of this world, not about her. It stays. It also does a small piece of
+characterisation for free: he sorts them as a group he is standing outside
+of, which is exactly where he is on that evening.
+Written down because a proofreading pass flagged it once already and would
+flag it again. check.py cannot see it - this is the human layer.
 
 === Where the name comes from, and where that gets spent ===
 Origin settled: he took the name at nineteen from a story he had loved as a
