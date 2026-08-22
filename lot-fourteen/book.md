@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 79.916 Woerter.
+27 Kapitel. 80.600 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.6 | 3.642 |
+| 27 | v1.7 | 4.326 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8228,7 +8228,7 @@ Annie looked at him for a moment.
 
 "You want to put Woo on her land."
 
-"I want him on it from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value is not a designation any more. It is an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
+"I want him on it from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value stops being a designation and starts being an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
 
 "And she stops being the soft part of my arrangement."
 
@@ -8366,7 +8366,47 @@ She got to the end of it before he did.
 
 Hana did not touch the folder.
 
-"Why," she said.
+She looked at it for a while without opening it, and when she spoke it was not the question he had prepared for.
+
+"He has been looking for the east side since 2019."
+
+"He said so."
+
+"And I have owned it since 2014." She said it flatly, the way she read out figures. "So say the obvious thing, because it is going to sit in this room until somebody does."
+
+---
+
+"You never offered it."
+
+"I never offered it." Hana put both hands on the arms of the chair. "That ground has not been for rent one single day since I bought it, and it was never going to be, because it was the only thing I had that anybody powerful wanted. You do not let out the thing you are going to bring to the table. You sit on it and you pay the interest and you wait for the right room."
+
+"And in November you got the room."
+
+"In November I got the room."
+
+---
+
+She let a moment go past.
+
+"And then I signed a lease with your employer and I stopped thinking about it," she said. "Twenty years, rent fixed, and I have been reading it since the seventeenth as the thing that saves me. I have not once put it next to a site plan."
+
+"No."
+
+"Because it does not say sixteen thousand anywhere in it. It says four buildings." She was not being kind to herself about it. "Which I wrote. In my own conditions, at your table, in front of you both."
+
+---
+
+Georgij said nothing, which was correct.
+
+"So the answer to your obvious thing is that I have been sitting on empty hardstanding for four weeks and have not noticed, because I was looking at the part of the page that had my rescue on it." Hana finally pulled the folder across. "And Chairman Woo has been asking the wrong people for six years, and neither of us was ever going to put an advertisement in a paper, and he does not take brokers and I do not take introductions."
+
+"That is the whole of it."
+
+"That is the whole of it, and it is not clever of you, and I would like you to know that I know that as well." She opened it. "It is only that you were the one man alive who had both pages on the same desk."
+
+---
+
+"Why," she said, a minute later.
 
 "Because it takes the designation out of the middle of your life."
 
@@ -8583,6 +8623,36 @@ Georgij stood in the doorway for a second.
 "May I say one thing that is not business?"
 
 "You may say one."
+
+"You said earlier that there was nothing in this for me, and I agreed with you, and that was accurate about money." He had his coat over his arm. "There is a personal part and I have not said it, and you are owed it, because you have spent this afternoon being very careful not to ask."
+
+Hana did not say anything.
+
+---
+
+"On the twenty-first you offered me something in this hall and you did not put it into words," said Georgij. "I answered it before you had to, and I did that so that you would not have to stand there having said it out loud, and I would do the same thing again.
+
+"What I did not say, because there was no way to say it that afternoon, is what it was.
+
+"In seventeen years, nobody in a house I was working in has wanted anything from me that was not work."
+
+---
+
+He looked at the floor for a second and then back up.
+
+"I have been paid for, argued over, insured, transferred, and complimented by a great many people. Nobody had ever been flattering before, and you were, and you did it knowing exactly what I am, which is the only reason it was worth anything." He inclined his head. "That is the personal part. It is not why I did this, and it is why I noticed there was something to do."
+
+---
+
+Hana looked at him for a long moment.
+
+"That was two things," she said.
+
+"It was."
+
+"Then I will take both, and neither of us will mention it again, and you will not say it in front of her."
+
+"No."
 
 "You are going to be the most solvent person in that room on Tuesday night," he said, "and none of them are going to know it, and you and I are going to be the only two people there who do."
 
