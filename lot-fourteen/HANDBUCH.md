@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.976 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 68.131 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -120,8 +120,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kim Ye-rin](#kim-ye-rin)
   - [Ji-won](#ji-won)
   - [Kim Do-yun](#kim-do-yun)
-  - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
+  - [Mr Ku](#mr-ku)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
@@ -1548,7 +1548,21 @@ Daraus, für alles Weitere:
 | **Sa 15.11 - Fr 21.11** | **Pyo** (Kapitel 16, 17, 20, 21) |
 | Sa 22.11 - Fr 28.11 | Ku (Kapitel 22) |
 | Sa 29.11 - Fr 5.12 | Pyo |
-| Sa 13.12 - Fr 19.12 | Ku (Hanas Abend am 16.) |
+| Sa 6.12 - Fr 12.12 | Ku (Kapitel 27, Donnerstag der 11.) |
+| **Sa 13.12 - Fr 19.12** | **Pyo** (Kapitel 28, 29, Hanas Abend am 16.) |
+
+**Und einmal hat diese Tabelle selbst den Fehler gemacht.** Sie liess die Woche
+vom 6. bis 12. Dezember aus und schrieb die folgende auf Ku. Kapitel 29 stand
+darum am Dienstag, dem 16., auf *"Mr Ku had him at the gate at six, which was
+his week"* - und Kapitel 28 hatte drei Tage vorher, am **Samstag dem 13.**,
+also am Wechseltag selbst, schon Mr Pyo fahren lassen. Zwei Kapitel
+nebeneinander, zwei verschiedene Fahrer in derselben Woche. Korrigiert am
+23.08.: 29 faehrt Pyo, weil 28 und die Alternation aus beiden Ankern es sagen
+und weil dort eine Zaehlung gegen zwei steht.
+
+**Die Lehre daraus ist nicht die Rota.** Ein Hilfsmittel, das gegen den Text
+gehalten wird, muss selbst geprueft werden, sonst schreibt es den Fehler in den
+Text, statt ihn zu finden. Diese Tabelle hat genau das getan.
 
 **Warum das hier steht.** In Kapitel 21 stand zuerst Mr Ku, an einem Freitag in
 Pyos Woche. Das ist der Fehler aus `doc/01-craft.md`, Punkt 2: ein Fahrer, der
@@ -1634,7 +1648,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 
   **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
-- **Kapitel 29** *The ones who came at seven* (v1.1) - Der Abend, sechs bis neun.
+- **Kapitel 29** *The ones who came at seven* (v1.2) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
 
@@ -3773,8 +3787,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Ye-rin | 29 | 7 (14-30) | 31 | 74 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Kim Do-yun | 20 | 6 (14-30) | 6 | 74 |
-| Mr Ku | 8 | 7 (05-29) | 6 | 74 |
-| Mr Pyo | 8 | 5 (05-28) | 1 | 49 |
+| Mr Pyo | 9 | 6 (05-29) | 1 | 74 |
+| Mr Ku | 7 | 6 (05-27) | 6 | 55 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
@@ -5055,34 +5069,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Ku
-
-8 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | ch24:346 | Mr Ku had the heater on. |
-| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| 74 | ch29:16 | Mr Ku had him at the gate at six, which was his week. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
-- `ch27:100` (Tag 7) - one
-- `ch29:16` (Tag 74) - six
-
----
-
 ### Mr Pyo
 
-8 Nennungen in 5 Kapiteln.
+9 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5094,6 +5083,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
 | 49 | ch21:422 | Mr Pyo brought the car round. |
 | 1 | ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
+| 74 | ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
@@ -5102,6 +5092,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:80` (Tag 46) - four, two
 - `ch17:136` (Tag 46) - three, two
 - `ch28:244` (Tag 1) - eleven, one
+- `ch29:16` (Tag 74) - six
+
+---
+
+### Mr Ku
+
+7 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | ch24:346 | Mr Ku had the heater on. |
+| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
+- `ch27:100` (Tag 7) - one
 
 ---
 

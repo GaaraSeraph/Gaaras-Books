@@ -37,7 +37,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 26 | v1.1 | 2.419 |
 | 27 | v3.1 | 3.107 |
 | 28 | v1.1 | 2.687 |
-| 29 | v1.1 | 2.007 |
+| 29 | v1.2 | 2.007 |
 | 30 | v1.3 | 3.498 |
 
 ---
@@ -8851,7 +8851,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 ---
 
 # Chapter 29: The ones who came at seven
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8865,7 +8865,7 @@ Annie did not come, and they had settled that on the Sunday in about ninety seco
 
 ---
 
-Mr Ku had him at the gate at six, which was his week.
+Mr Pyo had him at the gate at six, which was his week.
 
 The house was already warm and already lit. There was a van at the side entrance and two men carrying trays up the service corridor behind the dining room, which is the corridor that keeps food and staff out of the hall.
 

@@ -70,7 +70,21 @@ Daraus, für alles Weitere:
 | **Sa 15.11 - Fr 21.11** | **Pyo** (Kapitel 16, 17, 20, 21) |
 | Sa 22.11 - Fr 28.11 | Ku (Kapitel 22) |
 | Sa 29.11 - Fr 5.12 | Pyo |
-| Sa 13.12 - Fr 19.12 | Ku (Hanas Abend am 16.) |
+| Sa 6.12 - Fr 12.12 | Ku (Kapitel 27, Donnerstag der 11.) |
+| **Sa 13.12 - Fr 19.12** | **Pyo** (Kapitel 28, 29, Hanas Abend am 16.) |
+
+**Und einmal hat diese Tabelle selbst den Fehler gemacht.** Sie liess die Woche
+vom 6. bis 12. Dezember aus und schrieb die folgende auf Ku. Kapitel 29 stand
+darum am Dienstag, dem 16., auf *"Mr Ku had him at the gate at six, which was
+his week"* - und Kapitel 28 hatte drei Tage vorher, am **Samstag dem 13.**,
+also am Wechseltag selbst, schon Mr Pyo fahren lassen. Zwei Kapitel
+nebeneinander, zwei verschiedene Fahrer in derselben Woche. Korrigiert am
+23.08.: 29 faehrt Pyo, weil 28 und die Alternation aus beiden Ankern es sagen
+und weil dort eine Zaehlung gegen zwei steht.
+
+**Die Lehre daraus ist nicht die Rota.** Ein Hilfsmittel, das gegen den Text
+gehalten wird, muss selbst geprueft werden, sonst schreibt es den Fehler in den
+Text, statt ihn zu finden. Diese Tabelle hat genau das getan.
 
 **Warum das hier steht.** In Kapitel 21 stand zuerst Mr Ku, an einem Freitag in
 Pyos Woche. Das ist der Fehler aus `doc/01-craft.md`, Punkt 2: ein Fahrer, der
@@ -156,7 +170,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 
   **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
-- **Kapitel 29** *The ones who came at seven* (v1.1) - Der Abend, sechs bis neun.
+- **Kapitel 29** *The ones who came at seven* (v1.2) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
 
