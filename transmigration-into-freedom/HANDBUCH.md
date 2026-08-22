@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 3.896 Woerter.
+Alle 4 Dokumente am Stueck. 3.983 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -178,6 +178,14 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Canon-number watchlist in check.py ===
+A short list of numbers with a fixed canon value and a distinctive subject:
+forty houses, thirty-nine companies, eleven coins, Marit at Level 6. check.py
+errors if the subject appears with a different number. It is a watchlist, not a
+stoplist - it never counts bare numbers, so harmless numbers do not trip it, and
+a legitimate other subject is booked with --baseline. Gaara's own level and
+attributes are NOT on the list; they change and live in character-arc.md section 4.
 
 === Cast has one source ===
 The cast lived in both cast.md and the story bible's section 4, word for word.

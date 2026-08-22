@@ -39,6 +39,21 @@ TONE_LABEL = [
 ]
 QWORD = r"(?:Why|What|Who|When|Where|How|May I|Do you|Does|Can|Is|Are|Did|Would you|Then why|Have you|Will you)"
 
+# Kanon-Zahlen-Watchlist: feste Werte mit EINDEUTIGEM Subjekt (Watchlist, keine
+# Stoppliste - keine harte Konstante auf ein nacktes Substantiv). Trifft der Regex
+# ein anderes Subjekt ("third house"), faengt die Basislinie es auf. Nur Zahlen,
+# die sich NICHT aendern - Gaaras eigene Level/Werte stehen in character-arc.md.
+NUMWORD = (r"(?:thirty-nine|thirty-eight|thirty-five|\d+|one|two|three|four|five|"
+           r"six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|"
+           r"sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|"
+           r"seventy|eighty|ninety)")
+CANON_NUMBERS = [
+    (re.compile(rf"\b({NUMWORD})\s+houses\b", re.I), {"forty", "40"}, "Oldstep hat vierzig Haeuser"),
+    (re.compile(rf"\b({NUMWORD})\s+companies\b", re.I), {"thirty-nine", "39"}, "Gaara: 39 Firmen im alten Leben"),
+    (re.compile(rf"\b({NUMWORD})\s+coins\b", re.I), {"eleven", "11"}, "elf Muenzen aus Teodors Beutel"),
+    (re.compile(r"Marit[^.\n]{0,40}?\b(?:Level\s+|at\s+)(\d+)\b", re.I), {"6"}, "Marit ist Level 6"),
+]
+
 
 def check(path):
     with open(path, encoding="utf-8") as fh:
@@ -58,6 +73,13 @@ def check(path):
     if ma:
         errs.append(f"Verbotenes Attribut '{ma.group(1)}' - es gibt nur "
                     f"STR/DEX/CON/INT/WIS (kein Charisma/Glueck/Aussehen).")
+
+    for rx, allowed, why in CANON_NUMBERS:
+        for mm in rx.finditer(t):
+            if mm.group(1).lower() not in allowed:
+                errs.append(f"Kanon-Zahl '{mm.group(0).strip()}' - {why} "
+                            f"({' / '.join(sorted(allowed))}). Anderes Subjekt? "
+                            f"Dann mit --baseline verbuchen.")
 
     # Kein Markdown im Prosatext. [ SYSTEM ]-Klammern und Bindestriche sind erlaubt.
     md_hits = [ln.strip() for ln in body.split("\n")
@@ -117,6 +139,55 @@ def read_baseline(root):
                 k, v = line.rsplit(None, 1)
                 out[k.strip()] = int(v)
     return out
+
+
+STAT_KEYS = ["STR", "DEX", "CON", "INT", "WIS"]
+RANKVAL = {"E": 1, "D": 2, "C": 3, "B": 4, "A": 5, "S": 6}
+
+
+def _chapters_in_order(root):
+    return [f for f in sorted(glob.glob(os.path.join(root, "chapters", "ch*.md")))
+            if NAME.match(os.path.basename(f))]
+
+
+def progression(root):
+    """Rekonstruiert Status und Skills Kapitel fuer Kapitel aus den System-Bloecken
+    ([ STATUS ], [ LEVEL UP ], [ ATTRIBUTES UPDATED ], [ SKILL ACQUIRED ]) und
+    meldet, wenn ein Wert sich zurueckentwickelt oder ein Skill im Rang faellt.
+    Diese Labels stehen nur in den Bloecken, nicht in der Prosa - darum robust.
+    Nachvollziehen (Verlauf) und durchsetzen (keine Regression) in einem."""
+    state = {k: None for k in ("Level", "HPmax", "MPmax", *STAT_KEYS, "Class", "Race")}
+    skills = {}
+    rows, viols = [], []
+    for path in _chapters_in_order(root):
+        ch = os.path.basename(path)[:4]
+        with open(path, encoding="utf-8") as fh:
+            t = fh.read()
+        upd = []
+        for m in re.finditer(r"^Level:\s*(\d+)", t, re.M):
+            upd.append(("Level", int(m.group(1))))
+        for key, lbl in (("HPmax", "HP"), ("MPmax", "MP")):
+            for m in re.finditer(rf"^{lbl}:\s*(\d+)\s*(?:/|to)\s*(\d+)", t, re.M):
+                upd.append((key, int(m.group(2))))
+        for k in STAT_KEYS:
+            for m in re.finditer(rf"^{k}:\s*(\d+)(?:\s*to\s*(\d+))?", t, re.M):
+                upd.append((k, int(m.group(2) or m.group(1))))
+        for k in ("Class", "Race"):
+            m = re.search(rf"^{k}:\s*([A-Za-z][A-Za-z ]*)$", t, re.M)
+            if m:
+                upd.append((k, m.group(1).strip()))
+        for m in re.finditer(r"\[ SKILL ACQUIRED \][^\[]*?\n([A-Z][A-Za-z ]+?), Rank ([A-Z])", t):
+            name, rank = m.group(1).strip(), m.group(2)
+            if name in skills and RANKVAL.get(rank, 0) < RANKVAL.get(skills[name], 0):
+                viols.append(f"{ch}: Skill {name} faellt {skills[name]} -> {rank}")
+            skills[name] = rank
+        for key, v in upd:
+            old = state.get(key)
+            if isinstance(v, int) and isinstance(old, int) and v < old:
+                viols.append(f"{ch}: {key} faellt {old} -> {v} (darf nicht sinken)")
+            state[key] = v
+        rows.append((ch, dict(state), dict(skills)))
+    return rows, viols
 
 
 def main():
@@ -180,6 +251,19 @@ def main():
             print("Keine neue Verschuldung gegenueber der Basislinie.")
         if better:
             print("Basislinie nachziehen mit: python3 check.py --baseline")
+
+    if not args:
+        rows, viols = progression(root)
+        print("\nStatus- und Skill-Verlauf (aus den Kapitel-Bloecken rekonstruiert):")
+        for ch, st, sk in rows:
+            attrs = " ".join(f"{k}{st[k]}" for k in STAT_KEYS if st[k] is not None)
+            skl = ", ".join(f"{n} {r}" for n, r in sk.items()) or "-"
+            print(f"  {ch}  L{st['Level']}  HP{st['HPmax']} MP{st['MPmax']}  "
+                  f"{attrs}  Class:{st['Class']}  Skills: {skl}")
+        if viols:
+            print("\nREGEL VERLETZT (Status/Skills duerfen sich nicht zurueckentwickeln):")
+            for v in viols:
+                print("  " + v)
 
     if "--ratchet" in flags:
         sys.exit(1 if worse else 0)

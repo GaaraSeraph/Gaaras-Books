@@ -66,6 +66,27 @@ Target under 2500 words per chapter. Chapters 5 and 6 run shorter and that is fi
 3. Present both files, then summarise what changed and why, in German.
 4. Update `docs/story-bible.md` and the progression tracker in `docs/character-arc.md`.
 
+## System rules, and making the story stick to them
+
+Established system and world rules live in ONE place: `docs/story-bible.md`
+section 2 (the system) and section 3 (the world). When the story establishes a
+new rule, write it there and note the chapter it was established in, so a later
+chapter can be held to it. This is the thing that most often goes wrong in this
+genre: a rule is found, then quietly ignored.
+
+Enforcement, in layers:
+- Mechanical (`check.py`): attributes are only STR/DEX/CON/INT/WIS; the
+  canon-number watchlist (forty houses, thirty-nine companies, eleven coins,
+  Marit at 6); and the status/skill progression is reconstructed from the chapter
+  blocks and flagged if any value regresses or a skill drops rank. Run
+  `python3 check.py` to see the full status/skill history per chapter.
+- Semantic (a standing agent pass before a release, because a regex cannot judge
+  it). Prompt: "Read docs/story-bible.md sections 2 and 3 as the rulebook, then
+  read every chapter in order. List every place where an established rule is later
+  broken or quietly ignored. Quote the rule with its location and the breaking
+  line with its location. Read-only, do not change anything." That catches the
+  class the author cares about most.
+
 ## Continuity traps that have already bitten
 
 - Charisma was removed from the stat block. Attributes are STR, DEX, CON, INT, WIS only.

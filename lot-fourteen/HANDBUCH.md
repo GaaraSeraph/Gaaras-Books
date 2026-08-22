@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.331 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.370 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1842,8 +1842,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 168 | 17 (01-17) | 1 | 46 |
-| Hana | 73 | 7 (09-17) | 22 | 46 |
+| Annie | 169 | 17 (01-17) | 1 | 46 |
+| Hana | 74 | 7 (09-17) | 22 | 46 |
 | Park Sang-hoon | 45 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 36 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
@@ -1874,7 +1874,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-168 Nennungen in 17 Kapiteln.
+169 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1974,7 +1974,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:146 | Annie did not move at all. |
 | 22 | ch11:162 | Annie was quiet for a long moment. |
 | 22 | ch11:178 | Annie turned her head. |
-| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." He kept his voice exactly where it.. |
+| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
 | 22 | ch11:198 | Annie did not say anything for perhaps two hundred metres. |
 | 22 | ch11:206 | "Now say the other thing," said Annie. |
 | 22 | ch11:216 | Annie looked at him. |
@@ -2023,6 +2023,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:322 | "Probably," said Annie. |
 | 41 | ch15:326 | Annie looked at the pages. |
 | 41 | ch15:346 | Annie looked at her. |
+| 41 | ch15:366 | "It says that in November two women had an arrangement about Incheon, four months before.. |
 | 41 | ch15:372 | Annie was quiet for what felt like a considerable time. |
 | 41 | ch15:378 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
 | 41 | ch15:388 | "Yes," said Annie. "You would." |
@@ -2086,6 +2087,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:126` (Tag 41) - twenty, two
 - `ch15:148` (Tag 41) - one
 - `ch15:176` (Tag 41) - three
+- `ch15:366` (Tag 41) - four, one, two
 - `ch15:426` (Tag 41) - four thousand two hundred
 - `ch16:12` (Tag 46) - two
 - `ch16:122` (Tag 46) - five, sixteen thousand
@@ -2099,7 +2101,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-73 Nennungen in 7 Kapiteln.
+74 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2137,7 +2139,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:70 | "Hong. And Hana warned me about it thirty minutes before I did it, in those words, and I.. |
 | 22 | ch11:94 | "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she .. |
 | 22 | ch11:98 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
-| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." He kept his voice exactly where it.. |
+| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
 | 34 | ch14:120 | "The third is the only one that is urgent, and it is the one nobody has mentioned in thi.. |
 | 34 | ch14:198 | "I need Hana in a room, and my preference is that she comes here." |
 | 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
@@ -2159,6 +2161,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:186 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
 | 41 | ch15:198 | Hana put the paper down. |
 | 41 | ch15:224 | Hana waited. |
+| 41 | ch15:232 | He looked at Hana. |
 | 41 | ch15:240 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
 | 41 | ch15:266 | Hana was very still. |
 | 41 | ch15:272 | Hana put her glass down. |

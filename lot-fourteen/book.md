@@ -2,35 +2,35 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.384 Woerter.
+17 Kapitel. 50.389 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.2 | 2.409 |
-| 02 | v11.5 | 3.174 |
-| 03 | v2.5 | 3.378 |
-| 04 | v1.6 | 2.453 |
+| 01 | v6.3 | 2.412 |
+| 02 | v11.6 | 3.174 |
+| 03 | v2.6 | 3.380 |
+| 04 | v1.7 | 2.456 |
 | 05 | v5.6 | 4.331 |
-| 06 | v1.3 | 2.090 |
-| 07 | v6.2 | 3.874 |
+| 06 | v1.4 | 2.092 |
+| 07 | v6.3 | 3.875 |
 | 08 | v3.3 | 2.689 |
-| 09 | v3.1 | 3.132 |
+| 09 | v3.2 | 3.129 |
 | 10 | v2.1 | 2.981 |
-| 11 | v2.5 | 2.407 |
+| 11 | v2.6 | 2.391 |
 | 12 | v1.2 | 2.325 |
 | 13 | v2.3 | 2.839 |
-| 14 | v7.2 | 2.607 |
-| 15 | v2.0 | 3.997 |
-| 16 | v1.9 | 3.133 |
-| 17 | v12.1 | 2.565 |
+| 14 | v7.3 | 2.609 |
+| 15 | v2.1 | 4.008 |
+| 16 | v1.10 | 3.135 |
+| 17 | v12.2 | 2.563 |
 
 ---
 
 # Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.2 · EN
+*Lot Fourteen* · Version 6.3 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -166,7 +166,7 @@ Annie's expression didn't move.
 
 "I'm aware. I'm telling you what most people say." She turned her head. "Why don't you?"
 
-"Because it's expensive." He settled back into the seat. "You have to remember who heard it, and what it touched, and you have to keep feeding it for as long as that person is alive." He turned his hand over. "I've never had a door that locked from my side. A man with no privacy can't afford to own anything that has to be maintained in secret. So I stopped."
+"Because it's expensive." He settled back into the seat. "You have to remember who heard it, and what it touched, and you have to keep feeding it for as long as that person is alive." He put both hands flat on his knees. "I've never had a door that locked from my side. A man with no privacy can't afford to own anything that has to be maintained in secret. So I stopped."
 
 "That isn't a moral position."
 
@@ -255,7 +255,7 @@ Annie didn't turn her head.
 ---
 
 # Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.5 · EN
+*Lot Fourteen* · Version 11.6 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -337,7 +337,7 @@ Annie let a hundred metres of cypress go past before she answered, and Georgij u
 
 "Two things. Neither of them is the boy."
 
-He turned his hand over.
+He put a finger up.
 
 "The first is a name. The house can't re-list a returned lot without accounting for the return, and there is one true reason, which is that they let a man bid two hundred million on money he didn't have and never asked whose it was. He read a figure off his phone before every raise. Somebody set that figure and somebody stood behind him in the room tonight. That somebody has money and no face, and he isn't buying one boy for himself."
 
@@ -594,7 +594,7 @@ Then he decided not to look at it again.
 ---
 
 # Chapter 3: Dead angles
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -832,7 +832,7 @@ He said it lightly, the way you name the day of the week, and did not put anythi
 
 "You'd have built it differently."
 
-"I'd have built it uglier." He turned his hand over. "Two in the long room at ceiling height and no columns. A door in the south glass, because a wall with no door in it is a wall people die against. And a second man in the house at night, on the inside, not at the gate, awake, with nothing to do but be awake." A pause. "It would be a worse house to live in and it would be a much duller one to be a guest in, and you would hate all of it inside a week."
+"I'd have built it uglier." He put both hands behind his back. "Two in the long room at ceiling height and no columns. A door in the south glass, because a wall with no door in it is a wall people die against. And a second man in the house at night, on the inside, not at the gate, awake, with nothing to do but be awake." A pause. "It would be a worse house to live in and it would be a much duller one to be a guest in, and you would hate all of it inside a week."
 
 "Yes," Annie said. "I would."
 
@@ -885,7 +885,7 @@ He left the key where it was.
 ---
 
 # Chapter 4: Count again
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 2 · Sunday 5 October*
 
@@ -1103,7 +1103,7 @@ He waited. She let the lamp hum.
 
 "Then what?"
 
-"Nothing. It's a good place for a camera. Anybody who comes through that door either puts something on that shelf or takes something off it." He turned his hand over. "I'd have wanted the same picture."
+"Nothing. It's a good place for a camera. Anybody who comes through that door either puts something on that shelf or takes something off it." He looked at the desk for a moment. "I'd have wanted the same picture."
 
 That was true, and it was also not the whole of what he had stood in the hall thinking about, and he did not offer her the rest of it because she had not paid for the rest of it.
 
@@ -1495,7 +1495,7 @@ He stopped.
 ---
 
 # Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1573,7 +1573,7 @@ He had asked her in the car on the first night, and again across this desk befor
 
 Nothing moved in her face.
 
-"The gentleman in the fourth row who settled inside the quarter hour. The lady by the pillar. And one of the seven at the front with a notebook, who was spending somebody else's money that night and will be spending his own tonight." He turned his hand over. "All three are on the list for the Grand Hotel. All three will be in that room. Two of them will be within forty feet of you at some point in the evening, because the tables are laid to a plan and I have the plan."
+"The gentleman in the fourth row who settled inside the quarter hour. The lady by the pillar. And one of the seven at the front with a notebook, who was spending somebody else's money that night and will be spending his own tonight." He looked at her across the desk. "All three are on the list for the Grand Hotel. All three will be in that room. Two of them will be within forty feet of you at some point in the evening, because the tables are laid to a plan and I have the plan."
 
 "And?"
 
@@ -1704,7 +1704,7 @@ Outside, the car came round onto the gravel and stopped.
 ---
 
 # Chapter 7: Where were you educated
-*Lot Fourteen* · Version 6.2 · EN
+*Lot Fourteen* · Version 6.3 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1738,7 +1738,7 @@ Georgij turned his head and waited.
 
 "Go on."
 
-"All three of those are sorted by what they want from you. That's the correct axis for you and it's the wrong one for me, because nobody in that room wants anything from me and I'd be waiting all night." He turned his hand over. "I'll sort them by what they're afraid of. It's a shorter list and it doesn't move, and a man will tell you what he wants in the first minute and never tell you the other thing at all, which is exactly why it's worth the evening."
+"All three of those are sorted by what they want from you. That's the correct axis for you and it's the wrong one for me, because nobody in that room wants anything from me and I'd be waiting all night." He turned round in the seat. "I'll sort them by what they're afraid of. It's a shorter list and it doesn't move, and a man will tell you what he wants in the first minute and never tell you the other thing at all, which is exactly why it's worth the evening."
 
 Annie was quiet for a moment.
 
@@ -2318,7 +2318,7 @@ It was the only thing anybody had done for him all evening, and nobody in the ro
 ---
 
 # Chapter 9: The friendly ones
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2448,7 +2448,7 @@ Hana did not laugh at him, which he noted.
 
 "Photographs," she said.
 
-"There are photographs of two of them. The rest of that family has never been in a room where anybody was pointing a camera. Paper gives you names." He turned his hand over. "It does not give you faces, and I have been in this building for three hours looking at faces."
+"There are photographs of two of them. The rest of that family has never been in a room where anybody was pointing a camera. Paper gives you names." He stopped. "It does not give you faces, and I have been in this building for three hours looking at faces."
 
 "It is a great many Kims." She was pleased with him for not asking the next question, which meant she was going to answer it anyway, which is what people do on terraces. "Their logistics people have had customs in the building for six days. Six days is not an inspection. Nobody out here has said a word about it and every single person out here knows."
 
@@ -3008,7 +3008,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -3032,7 +3032,7 @@ Neither of them said anything until the ramp.
 
 "That's what the evening was for."
 
-"Then I'll give it to you in the order it arrived and not in the order it matters, because those are different and I'd rather you sorted it yourself."
+"Then I'll give it to you in the order it arrived and not in the order it matters, because those are different, and the sorting is yours."
 
 "Go on."
 
@@ -3040,7 +3040,7 @@ Neither of them said anything until the ramp.
 
 He gave it to her from seven twenty-two.
 
-He did not shape it. He did not lead with the good part or hold the bad part for the end, and twice he said that he did not know what something meant and left it lying there without a theory on top of it.
+He did not shape it. He did not lead with the good part or hold the bad part for the end. Twice he said that he did not know what something meant, and left it lying there without a theory on top of it.
 
 It took fourteen minutes.
 
@@ -3060,7 +3060,7 @@ And the dinner.
 
 "You've thought of one."
 
-"I've thought of one, and it fits, and things that fit at half past midnight are exactly what I ought to be frightened of." He let it go there and did not say it. "I'll get it properly. His terminal took ten months and there was a bank in it, and banks leave a syndicate, and a syndicate is eleven or twelve people who all had to sign something. One of them will have talked to somebody, and I would rather have it out of a document than out of a mood."
+"I've thought of one, and it fits, and things that fit at half past midnight are exactly what I ought to be frightened of." He let it go there and did not say it. "I'll get it properly. His terminal took ten months and there was a bank in it, and banks leave a syndicate, and a syndicate is eleven or twelve people who all had to sign something. One of them will have talked to somebody, and I want it out of a document, not out of a mood."
 
 "How long?"
 
@@ -3072,7 +3072,7 @@ And the dinner.
 
 Then Kang.
 
-"I went to him. He didn't come to me." He said it plainly. "I asked him for guidance on land and zoning and port status, because it's a real gap and I'd rather have somebody to ask than pretend. It was the second time I'd used that tonight and the first time had worked extremely well."
+"I went to him. He didn't come to me." He said it plainly. "I asked him for guidance on land and zoning and port status, because it's a real gap and asking is cheaper than covering it. It was the second time I'd used that tonight and the first time had worked extremely well."
 
 "Hong."
 
@@ -3080,7 +3080,7 @@ Then Kang.
 
 "Say the rest."
 
-"Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling him where the hole was." Georgij turned his hand over. "He asked how he could reach me. I declined to give him anything, which was the only sound thing I did in the whole exchange, and it will not matter, because he has a ministry and I have a face."
+"Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling him where the hole was." He kept his chin level. "He asked how he could reach me. I declined to give him anything, which was the only sound thing I did in the whole exchange, and it will not matter, because he has a ministry and I have a face."
 
 "He'll call."
 
@@ -3088,7 +3088,7 @@ Then Kang.
 
 He stopped.
 
-"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on, and I would rather you had it tonight than in a fortnight, when the telephone goes and you work out for yourself who made the call worth making."
+"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on. You are getting it tonight and not in a fortnight, when the telephone goes and you work out for yourself who made the call worth making."
 
 "Yes," said Annie. "You would."
 
@@ -3114,7 +3114,7 @@ Annie turned her head.
 
 "So you have a description."
 
-"Late thirties, the shortest of the men, fetched drinks twice in four minutes, laughed a quarter of a beat behind the room. And four names it could be." He turned his hand over. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
+"Late thirties, the shortest of the men, fetched drinks twice in four minutes, laughed a quarter of a beat behind the room. And four names it could be." He turned his head. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
 
 "So how do you close it?"
 
@@ -3142,11 +3142,11 @@ Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's conven
 
 "Which is what you want."
 
-"Which is exactly what I want, and I've been trying since a quarter past eleven to find the part of that which is a trap, and I can't, and that bothers me a great deal more than finding one would have."
+"Which is exactly what I want. I've been trying since a quarter past eleven to find the part of that which is a trap, and I can't, and that bothers me a great deal more than finding one would have."
 
 The car came off the expressway.
 
-"There's one more thing at that table," said Georgij, "and I'd rather say it while we're still moving."
+"There's one more thing at that table," said Georgij, "and I want to say it while we're still moving."
 
 "Say it."
 
@@ -3188,7 +3188,7 @@ Annie turned her head.
 
 "Which rule?"
 
-"Annie in public, and the other word nowhere at all." He kept his voice exactly where it had been for the previous eleven minutes. "I used the other word to Hana. Once, on the floor, just before eleven. She had been kind to me for ten minutes and I had just told her something true that I had not intended to say, and it came out of me before I heard it going."
+"Annie in public, and the other word nowhere at all." His hands stayed where they were on his knees. "I used the other word to Hana. Once, on the floor, just before eleven. She had been kind to me for ten minutes and I had just told her something true that I had not intended to say, and it came out of me before I heard it going."
 
 The cypresses started.
 
@@ -3216,11 +3216,11 @@ That was all of it. She did not say it warmly and she did not say it coldly, and
 
 "Mistress?"
 
-"You've been holding something since the tunnel. You've given me fourteen minutes of everything you have and most of it was against your own interest. So say the last one, because I would rather not sit through you deciding whether you're allowed to."
+"You've been holding something since the tunnel. You've given me fourteen minutes of everything you have and most of it was against your own interest. So say the last one. I am not sitting through you deciding whether you're allowed to."
 
 Georgij inclined his head.
 
-"On the first night I told you the auction house would talk for about three weeks and then agree a version between them. It's been three weeks and a day." He said it evenly and without any pressure anywhere in it. "You are not a woman who lets a window shut. I think you have the name of whoever stood behind the man in the second row. I think you've had it for most of the time I've been in your house."
+"On the first night I told you the auction house would talk for about three weeks and then agree a version between them. It's been three weeks and a day." The bag was still lying between them with its catch resting shut. "You are not a woman who lets a window shut. I think you have the name of whoever stood behind the man in the second row. I think you've had it for most of the time I've been in your house."
 
 Annie looked at him.
 
@@ -3823,7 +3823,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.2 · EN
+*Lot Fourteen* · Version 7.3 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3917,7 +3917,7 @@ Annie turned the first page over and did not read it.
 
 "How much?"
 
-"Between four hundred and six hundred billion for control, and it will not be the purchase that costs him. It will be what comes after." He turned his hand over. "Four routes with berths he cannot let go idle, in a group with no working board. He will spend the first three months finding out that nobody at Hanseong can sign anything, and while he is finding that out he will be paying slot fees on lanes that are running at sixty per cent."
+"Between four hundred and six hundred billion for control, and it will not be the purchase that costs him. It will be what comes after." He took his hands out from behind his back. "Four routes with berths he cannot let go idle, in a group with no working board. He will spend the first three months finding out that nobody at Hanseong can sign anything, and while he is finding that out he will be paying slot fees on lanes that are running at sixty per cent."
 
 "And Incheon?"
 
@@ -3941,7 +3941,7 @@ A second finger.
 
 "And the third?"
 
-"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." Georgij turned his hand over. "Customs has been sitting in that building for eighteen days. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, which Hana had on a terrace and did not think was the interesting part."
+"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." A third finger. "Customs has been sitting in that building for eighteen days. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, which Hana had on a terrace and did not think was the interesting part."
 
 He put one hand flat.
 
@@ -4056,7 +4056,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4140,7 +4140,7 @@ Hana stopped.
 
 "And you have sat on it since Tuesday."
 
-"A name on a plot tells you nothing about what somebody means to do with it. You could have owned it since 2013 and thought about it twice a year." He turned his hand over. "So I put it with the other things I cannot read yet, and I waited to see whether you would say it at this table."
+"A name on a plot tells you nothing about what somebody means to do with it. You could have owned it since 2013 and thought about it twice a year." He left his hands where he had put them. "So I put it with the other things I cannot read yet, and I waited to see whether you would say it at this table."
 
 "And if I hadn't?"
 
@@ -4286,13 +4286,13 @@ Hana waited.
 
 "Because you pull the second section on somebody when you are about to rely on them, and until an hour ago I was not." He said it entirely without apology. "Now I am. On Monday I will look at what is charged against that land and who holds the paper."
 
-He turned his hand over.
+He looked at Hana.
 
 "I would do the same for anybody who put a number on this table, including her. I have already done it for two of the Kims."
 
 "Most people would have simply done it."
 
-"They would, and on Monday they would be holding exactly the same pages I will be holding." He turned his hand over. "What they would not have is you knowing they had them, and that is the whole of the difference."
+"They would, and on Monday they would be holding exactly the same pages I will be holding." He put one finger down and left it there. "What they would not have is you knowing they had them, and that is the whole of the difference."
 
 Hana laughed, and it was the real one, the one she had given him once before on a cold terrace.
 
@@ -4318,7 +4318,7 @@ He gave them the whole of it in eight minutes. Six months of outflow, a board in
 
 "He corrects you by doing it better."
 
-"He corrects you by doing it. He will not tell me I am wrong about Hanseong. He will show me." He turned his hand over. "And then his money is in four shipping routes and a board that hates itself, at the precise moment when he needs to be liquid enough to take a logistics company away from a family under customs investigation."
+"He corrects you by doing it. He will not tell me I am wrong about Hanseong. He will show me." He put one hand flat on the document. "And then his money is in four shipping routes and a board that hates itself, at the precise moment when he needs to be liquid enough to take a logistics company away from a family under customs investigation."
 
 Hana was very still.
 
@@ -4346,7 +4346,7 @@ Hana put her glass down.
 
 He let that stand for a moment before he filled it in.
 
-"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Hyeonjin takes about a fifth of one lane. The Yun operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He turned his hand over. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
+"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Hyeonjin takes about a fifth of one lane. The Yun operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He did not look away from her. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
 
 Hana had stopped moving.
 
@@ -4420,7 +4420,7 @@ Nobody said anything for a moment.
 
 "And what does it say to whoever asks?"
 
-"It says that in November two women had an arrangement about Incheon, four months before anything happened, and that one of them was already sure enough of the other to write down what the rent would be." He turned his hand over. "That will not kill anybody. It gives away a great deal more than a handshake does, and if I told you which of the two carried the worse risk I would be inventing it, because I do not know."
+"It says that in November two women had an arrangement about Incheon, four months before anything happened, and that one of them was already sure enough of the other to write down what the rent would be." He looked at Annie. "That will not kill anybody. It gives away a great deal more than a handshake does, and if I told you which of the two carried the worse risk I would be inventing it, because I do not know."
 
 "So you would advise against it," said Hana.
 
@@ -4485,7 +4485,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4543,7 +4543,7 @@ Something happened at the corner of Sang-hoon's mouth.
 
 "Go on."
 
-"Three things." He turned his hand over. "The first is that I will not say anything to you that is untrue. Not this evening and not afterwards. If I am guessing I will say I am guessing."
+"Three things." He put both hands on the table. "The first is that I will not say anything to you that is untrue. Not this evening and not afterwards. If I am guessing I will say I am guessing."
 
 "Everybody says that."
 
@@ -4830,7 +4830,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: Who holds the paper
-*Lot Fourteen* · Version 12.1 · EN
+*Lot Fourteen* · Version 12.2 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4880,7 +4880,7 @@ It did not take its time now.
 
 "And then."
 
-"Then he is bound. He will have paid for four routes and bought a company that cannot authorise anything afterwards, including selling him the rest of it." Georgij turned his hand over. "He asked me about a disposal by a board that has stopped meeting. He is already standing in front of that wall. He will go over it anyway, because he has decided he wants what is behind it."
+"Then he is bound. He will have paid for four routes and bought a company that cannot authorise anything afterwards, including selling him the rest of it." He sat back. "He asked me about a disposal by a board that has stopped meeting. He is already standing in front of that wall. He will go over it anyway, because he has decided he wants what is behind it."
 
 ---
 
