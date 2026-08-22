@@ -153,7 +153,10 @@ def _chapters_in_order(root):
 def progression(root):
     """Rekonstruiert Status und Skills Kapitel fuer Kapitel aus den System-Bloecken
     ([ STATUS ], [ LEVEL UP ], [ ATTRIBUTES UPDATED ], [ SKILL ACQUIRED ]) und
-    meldet, wenn ein Wert sich zurueckentwickelt oder ein Skill im Rang faellt.
+    meldet, wenn ein Wert sich zurueckentwickelt, ein Skill im Rang faellt, oder
+    ein "X: a to b"-Block bei einem anderen a anfaengt als dem, wo das vorige
+    Kapitel aufgehoert hat (so ist "CON: 5 to 8" nach einem Kapitel mit CON 6
+    monatelang durchgerutscht - der Endwert stimmte, die Rechnung nicht).
     Diese Labels stehen nur in den Bloecken, nicht in der Prosa - darum robust.
     Nachvollziehen (Verlauf) und durchsetzen (keine Regression) in einem."""
     state = {k: None for k in ("Level", "HPmax", "MPmax", *STAT_KEYS, "Class", "Race")}
@@ -166,11 +169,31 @@ def progression(root):
         upd = []
         for m in re.finditer(r"^Level:\s*(\d+)", t, re.M):
             upd.append(("Level", int(m.group(1))))
+        def prev(key):
+            """Letzter bekannter Wert: erst was in DIESEM Kapitel schon stand,
+            sonst der Stand aus dem Kapitel davor."""
+            for kk, vv in reversed(upd):
+                if kk == key:
+                    return vv
+            return state.get(key)
+
         for key, lbl in (("HPmax", "HP"), ("MPmax", "MP")):
-            for m in re.finditer(rf"^{lbl}:\s*(\d+)\s*(?:/|to)\s*(\d+)", t, re.M):
-                upd.append((key, int(m.group(2))))
+            # Gruppe 2 ist das Trennzeichen: "100/100" ist cur/max, "120 to 165"
+            # ist eine Rechnung und hat darum einen pruefbaren Startwert.
+            for m in re.finditer(rf"^{lbl}:\s*(\d+)\s*(/|to)\s*(\d+)", t, re.M):
+                if m.group(2) == "to":
+                    frm, p = int(m.group(1)), prev(key)
+                    if isinstance(p, int) and frm != p:
+                        viols.append(f"{ch}: {lbl}-Block rechnet ab {frm}, "
+                                     f"zuletzt stand {p}")
+                upd.append((key, int(m.group(3))))
         for k in STAT_KEYS:
             for m in re.finditer(rf"^{k}:\s*(\d+)(?:\s*to\s*(\d+))?", t, re.M):
+                if m.group(2):
+                    frm, p = int(m.group(1)), prev(k)
+                    if isinstance(p, int) and frm != p:
+                        viols.append(f"{ch}: {k}-Block rechnet ab {frm}, "
+                                     f"zuletzt stand {p}")
                 upd.append((k, int(m.group(2) or m.group(1))))
         for k in ("Class", "Race"):
             m = re.search(rf"^{k}:\s*([A-Za-z][A-Za-z ]*)$", t, re.M)
@@ -261,7 +284,7 @@ def main():
             print(f"  {ch}  L{st['Level']}  HP{st['HPmax']} MP{st['MPmax']}  "
                   f"{attrs}  Class:{st['Class']}  Skills: {skl}")
         if viols:
-            print("\nREGEL VERLETZT (Status/Skills duerfen sich nicht zurueckentwickeln):")
+            print("\nREGEL VERLETZT (Status/Skills: keine Rueckentwicklung, und ein Rechenblock muss dort anfangen, wo das vorige Kapitel aufhoert):")
             for v in viols:
                 print("  " + v)
 

@@ -79,8 +79,10 @@ Changes render as [ LEVEL UP ] / [ ATTRIBUTES UPDATED ] / [ SKILL ACQUIRED ]
 blocks with the same field names.
 
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
-Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON 6. HP 120. Skill: Dagger Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
-Chapter 3: 3 points into CON. CON 8, HP 165. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
+Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON stays 5 - the
+level raised only what he used. HP 120, MP 60, 3 unspent points. Skill: Dagger
+Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
+Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
 Chapter 6: no mechanical change. Learns the skill covers blade care. Bread, cheese, fat, whetstone.
@@ -117,3 +119,7 @@ Solva
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.
 - The old illnesses are gone from the body. Whether they are gone from him is an open question the text keeps open.
+- He never says anything untrue. The evasions have to hold up word by word;
+  see the bible, section 1. Jokes and exaggeration are exempt.
+- The old life is 19 years long. The chapters say nineteen years, every time.
+  Fifteen and sixteen both drifted in once and had to be pulled back.

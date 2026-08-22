@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 5.121 Woerter.
+Alle 4 Dokumente am Stueck. 6.133 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -36,7 +36,7 @@ Hallvard, elder of Oldstep, NO PANEL
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution. Watched the dirt map in Chapter 6 and left without a word.
-- Terms of the deal: three days of bread, a whetstone, no blanket. Proof brought back from the ruin.
+- Terms of the deal: three days of bread, a whetstone, a place in the byre. Proof brought back from the ruin.
 
 Solva, Level 3
 - Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
@@ -133,8 +133,10 @@ Changes render as [ LEVEL UP ] / [ ATTRIBUTES UPDATED ] / [ SKILL ACQUIRED ]
 blocks with the same field names.
 
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
-Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON 6. HP 120. Skill: Dagger Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
-Chapter 3: 3 points into CON. CON 8, HP 165. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
+Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON stays 5 - the
+level raised only what he used. HP 120, MP 60, 3 unspent points. Skill: Dagger
+Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
+Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
 Chapter 6: no mechanical change. Learns the skill covers blade care. Bread, cheese, fat, whetstone.
@@ -171,6 +173,10 @@ Solva
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.
 - The old illnesses are gone from the body. Whether they are gone from him is an open question the text keeps open.
+- He never says anything untrue. The evasions have to hold up word by word;
+  see the bible, section 1. Jokes and exaggeration are exempt.
+- The old life is 19 years long. The chapters say nineteen years, every time.
+  Fifteen and sixteen both drifted in once and had to be pulled back.
 
 ---
 
@@ -178,6 +184,48 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Gaara never says anything untrue, and that is canon now ===
+The author decided it: Gaara does not lie. He omits, deflects, answers a
+narrower question and stays silent, but he never states a falsehood. The
+reason was already on the page and only needed writing down (bible, section 1):
+a lie needs a world behind it and he has none, so the truth is the only
+version he will not have to remember. Two things were settled with it.
+First, an exemption for irony, jokes and exaggeration, because without it
+"I built a whole career on it" (ch2) becomes a lie and the rule eats his
+humour. Second, the two "Nothing" answers in ch4 and ch5 were checked against
+the rule and kept: in ch5 he has just looked at Hallvard and seen nothing at
+all, so the evasion is literally true, and that is the model for how to write
+the others.
+
+=== The old working life is 19 years ===
+It stood as sixteen in ch1, fifteen in ch4, ch5 and ch6, and "roughly 16" in
+the bible. The author set it at nineteen: he is 38, he started at 19, and the
+figure now says so in all five places. Nothing in the story hangs off the exact
+number, but four chapters disagreeing about the same span is the drift the
+canon-number watchlist exists to prevent, and this one slipped past it because
+"years" has no distinctive subject to watch.
+
+=== Workplace jokes go up to four, narration metaphors stay banned ===
+The old rule was one corporate joke per chapter, which ch2 already broke twice
+over. The author raised it: one or two per chapter is the normal dose, four is
+the ceiling. The other half of the rule did NOT move - corporate metaphors in
+the narration remain banned outright. Five had crept in ("bill him in days",
+"walked a factory floor", "Assets:/Liabilities:", "a bad quarterly", "no
+filing category") and were rewritten as concrete memory or plain description.
+The split is the point: the jokes are HIS and they characterise him; the
+metaphors are the narrator's and they make the book sound like a business book.
+
+=== Level 2 raises only what he used ===
+ch2's level-up block granted +1 CON, and ch3's [ ATTRIBUTES UPDATED ] then
+computed from CON 5. Both cannot be true. Fixed at the ch2 end: the level
+raises STR and DEX, the two he actually used, and leaves CON alone, plus 3 free
+points. Chosen over correcting ch3 because ch3's whole decision scene leans on
+the number five ("the number that had run his life"), and because it turns a
+bookkeeping error into a system rule worth having: the system pays out on use,
+not on need, which is exactly why he has to spend his own points on endurance.
+check.py now verifies that an "X: a to b" block starts where the previous
+chapter ended, so this class cannot recur silently.
 
 === World laws are discovered in-story, not pre-legislated ===
 The bible had claimed a hard world law - "technology stays medieval, permanently,
@@ -247,7 +295,7 @@ cannot know it.
 ---
 
 STORY BIBLE
-Working title: (untitled isekai)
+Working title: Transmigration into Freedom
 35 Kapitel geplant. Wie viele geschrieben sind, sagt HANDBUCH.md (vom Build),
 nicht diese Zeile von Hand.
 
@@ -257,7 +305,7 @@ nicht diese Zeile von Hand.
 1. Awakening in Ash (alt: A Cut in the Tape)
 2. First Blood, First Skill (alt: Avoid Bone)
 3. Dead Man's Boots
-4. What the Boots Were Worth (alt: Liars Decorate)
+4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
 6. She Was Already Waiting
 7. Every Plan I Make Is for One (planned)
@@ -269,12 +317,16 @@ Titles from Chapter 5 on should promise something rather than describe it.
 
 === 1. PROTAGONIST ===
 
-Name in this world: Gaara. It is the name the system gave him and the only one he uses. Marit's reaction: "That's not a name." His: "It is now."
+Name: Gaara. He brought it with him. The panel in ch1 already had it and
+spelled it correctly, so the system did not hand it to him - it read it off him.
+It is the only name he uses here. Whether it is the name on his old documents
+or one he took for himself back there is NOT on the page yet (thread 16).
+Marit's reaction: "That's not a name." His: "It is now."
 
 Old life
 - Age at transition: 38.
 - Did NOT die. No accident, no truck, no hospital. He lay down on a tatami mat in his office and woke up under a slab. He calls it "a cut in the tape." Nobody has explained it. Neither has the system.
-- Career: roughly 16 years, 39 companies, 35 of them corporations, one big enough to be known abroad. Employee, contractor, consultant, interim. Has seen those buildings from the mailroom floor, from the head of the table, and from the seat where you present to a board.
+- Career: 19 years, 39 companies, 35 of them corporations, one big enough to be known abroad. Employee, contractor, consultant, interim. Has seen those buildings from the mailroom floor, from the head of the table, and from the seat where you present to a board.
 - Why he left: politics ate results everywhere, not in one bad company. The example that stuck: 18 months of finished, tested, signed-off work filed away because two directors were at war over a budget line and the project was born in the wrong department. Nobody said it was bad. Nobody looked at it. "Results were not the currency. Proximity was."
 - Own company: founded with his corporate payout. Ran well for two years. Growth flattened, costs did not. He cut, put his own money back in, cut again, told himself next quarter would turn. Debt.
 - Lost his flat in spring. Slept in the office, mat rolled out between desk and wall where the glass front did not show it. Told two people; both assumed he was joking.
@@ -298,6 +350,23 @@ Core drives
 
 Morality and violence
 - He hates betrayal more than anything else.
+- He never says anything untrue. CANON, and it holds in every chapter so far.
+  He omits, deflects, answers a narrower question, lets people finish the
+  thought themselves, or says nothing. He does not state a falsehood.
+  Why, in his own terms (worked out on the page in ch4): a lie needs a world
+  behind it. Say you came from the east and the next question is which road,
+  and the road has a name he does not know. Every lie would need a hundred
+  facts he does not have. The truth has exactly one advantage and it is the
+  one he needs: he never has to remember it.
+  Under that sits the older reason. Betrayal is the thing he hates most, and
+  nineteen years of rooms taught him that it starts as a small convenient
+  untruth said by someone with a budget line to defend.
+  EXEMPT: irony, jokes, insults, obvious exaggeration. "I built a whole
+  career on it" (ch2) deceives nobody, so the rule does not bite.
+  How to write it, the model case (ch5): Marit asks what is wrong. He has
+  just looked at Hallvard and seen nothing at all above his head. He says
+  "Nothing." Literally true, completely evasive. Build the evasions so they
+  survive being checked word by word.
 - A hard situational utilitarian: he weighs outcomes, not rules, and does not let
   ordinary moral scruples stop him.
 - Violence and killing are genuine options for him, not lines he refuses to cross.
@@ -325,7 +394,10 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch1) Attributes: STR, DEX, CON, INT, WIS. There is NO charisma, luck or appearance stat. He notices the absence and approves: whether people like him is his business, not the system's.
 - (ch1) Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Load-bearing for all future numbers.
 - (ch1) MP exists (50, later 60) and has never been used. No magic seen yet.
-- (ch2) Levels come from kills. Level 2 gave 3 attribute points.
+- (ch2) Levels come from kills. Level 2 gave 3 free attribute points, and on
+  top of that raised STR and DEX by one each - the two he had actually used.
+  CON did not move. Gaara reads it as a payout on use, not on need, and that
+  is why he spends all three free points on the number the system ignored.
 - (ch2) Skills are earned by meeting conditions, not chosen. Ranks are lettered; E is stated as "the lowest recorded proficiency," which tells him someone is keeping score for an entire world.
 - (ch3) Item assessment comes through the relevant skill (Dagger Mastery reads a blade's material, wear, and what it can be trusted to cut).
 - (ch3) Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head. Reading is untested; the coins' script is still unreadable.
@@ -403,7 +475,12 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 - System output is set in plain brackets, e.g. [ LEVEL UP ], [ TRANSLATION ACTIVE ].
 - Target length: under 2500 words per chapter.
 - Voice: short paragraphs, sentence fragments, concrete sensory detail, close third person.
-- Humour: sarcastic and suggestive, aimed at monsters, danger and himself. An occasional corporate joke is fine. Corporate metaphors in the narration are NOT.
+- Humour: sarcastic and suggestive, aimed at monsters, danger and himself.
+  Corporate and workplace jokes IN HIS MOUTH: one or two per chapter is the
+  normal dose, four is the ceiling.
+  Corporate metaphors in the NARRATION stay banned. His old life enters as
+  concrete memory, never as simile. No bills, no assets and liabilities, no
+  quarterlies, no factory floors, no filing categories.
 - Story tags include Smut. No romance has started yet.
 
 
@@ -424,6 +501,13 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
+16. Where the name Gaara comes from. The panel had it before he said it, so it
+    is his and not the system's. Birth name or a name he took for himself in
+    the old world is still open, and Marit has already put the question in the
+    room once ("That's not a name").
+17. Whether anything stands above Gaara's own head, and who could read it. He
+    sees everyone else's panel and has never once asked the obvious next
+    question. The moment he does is worth spending deliberately.
 
 
 === 7. LONG GAME (author's intent, not yet canon) ===

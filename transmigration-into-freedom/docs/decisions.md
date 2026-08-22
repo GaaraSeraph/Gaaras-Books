@@ -3,6 +3,48 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Gaara never says anything untrue, and that is canon now ===
+The author decided it: Gaara does not lie. He omits, deflects, answers a
+narrower question and stays silent, but he never states a falsehood. The
+reason was already on the page and only needed writing down (bible, section 1):
+a lie needs a world behind it and he has none, so the truth is the only
+version he will not have to remember. Two things were settled with it.
+First, an exemption for irony, jokes and exaggeration, because without it
+"I built a whole career on it" (ch2) becomes a lie and the rule eats his
+humour. Second, the two "Nothing" answers in ch4 and ch5 were checked against
+the rule and kept: in ch5 he has just looked at Hallvard and seen nothing at
+all, so the evasion is literally true, and that is the model for how to write
+the others.
+
+=== The old working life is 19 years ===
+It stood as sixteen in ch1, fifteen in ch4, ch5 and ch6, and "roughly 16" in
+the bible. The author set it at nineteen: he is 38, he started at 19, and the
+figure now says so in all five places. Nothing in the story hangs off the exact
+number, but four chapters disagreeing about the same span is the drift the
+canon-number watchlist exists to prevent, and this one slipped past it because
+"years" has no distinctive subject to watch.
+
+=== Workplace jokes go up to four, narration metaphors stay banned ===
+The old rule was one corporate joke per chapter, which ch2 already broke twice
+over. The author raised it: one or two per chapter is the normal dose, four is
+the ceiling. The other half of the rule did NOT move - corporate metaphors in
+the narration remain banned outright. Five had crept in ("bill him in days",
+"walked a factory floor", "Assets:/Liabilities:", "a bad quarterly", "no
+filing category") and were rewritten as concrete memory or plain description.
+The split is the point: the jokes are HIS and they characterise him; the
+metaphors are the narrator's and they make the book sound like a business book.
+
+=== Level 2 raises only what he used ===
+ch2's level-up block granted +1 CON, and ch3's [ ATTRIBUTES UPDATED ] then
+computed from CON 5. Both cannot be true. Fixed at the ch2 end: the level
+raises STR and DEX, the two he actually used, and leaves CON alone, plus 3 free
+points. Chosen over correcting ch3 because ch3's whole decision scene leans on
+the number five ("the number that had run his life"), and because it turns a
+bookkeeping error into a system rule worth having: the system pays out on use,
+not on need, which is exactly why he has to spend his own points on endurance.
+check.py now verifies that an "X: a to b" block starts where the previous
+chapter ended, so this class cannot recur silently.
+
 === World laws are discovered in-story, not pre-legislated ===
 The bible had claimed a hard world law - "technology stays medieval, permanently,
 no machinery" - that NO chapter established. The chapters only show a medieval

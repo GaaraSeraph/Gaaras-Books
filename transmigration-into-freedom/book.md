@@ -2,18 +2,18 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-6 Kapitel. 13.287 Woerter.
+6 Kapitel. 13.251 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
 | Kap | Titel | Woerter |
 |---|---|---|
-| 01 | Chapter 1: Awakening in Ash | 2.587 |
-| 02 | Chapter 2: First Blood. First Skill | 2.447 |
-| 03 | Chapter 3: Dead Man's Boots | 2.441 |
-| 04 | Chapter 4: Liars Decorate | 2.178 |
-| 05 | Chapter 5: The Lamp Goes Out | 1.728 |
-| 06 | Chapter 6: She Was Already Waiting | 1.906 |
+| 01 | Chapter 1: Awakening in Ash | 2.499 |
+| 02 | Chapter 2: First Blood. First Skill | 2.511 |
+| 03 | Chapter 3: Dead Man's Boots | 2.466 |
+| 04 | Chapter 4: Liars Decorate | 2.175 |
+| 05 | Chapter 5: The Lamp Goes Out | 1.700 |
+| 06 | Chapter 6: She Was Already Waiting | 1.900 |
 
 ---
 
@@ -41,9 +41,9 @@ Dust poured down and stung his eyes. He sucked in a breath through his teeth, an
 
 He almost let go of the slab.
 
-Twenty years of half breaths, of measuring stairs, of the machine on the nightstand hissing at him all night, and his lungs had just filled up like it cost nothing.
+Twenty years of half breaths, of measuring stairs, of the machine on the nightstand hissing all night, and his lungs had just filled up like it cost nothing.
 
-"Fuck my life. Where the hell am I? This office wasn't so old it should collapse."
+"Fuck my life. Where am I? This office wasn't old enough to fall down."
 
 His voice came out wrong. Too deep, too clear, no gravel in it. He filed it and kept pushing.
 
@@ -55,13 +55,13 @@ He lay there breathing.
 
 The last thing he remembered was the tatami mat. Three weeks old, the good kind, and the most expensive thing he still owned, because by then it was also his bed. The flat had gone in spring. He had told exactly two people, and both had assumed he was joking, which told him something about the two people.
 
-So: the office. Lights off, blinds down, mat rolled out between the desk and the wall where nobody could see it through the glass. Lie down at an hour that no longer counted as night, and set an alarm, because there was a call, and after the call another call, and at the end of all of them a number with a minus in front of it that had been gaining on him for two years.
+So: the office. Lights off, blinds down, mat rolled out between the desk and the wall where nobody could see it through the glass. Lie down at an hour that no longer counted as night. Set an alarm, because there was a call, and after the call another call. And at the end of all of them a number with a minus in front of it that had been gaining on him for two years.
 
 Then the mat. Then dust.
 
 He sat up.
 
-And that was the part that would not sit still in his head later. No crash. No horn, no chest pain, no long slide into a white ceiling with people shouting over him. He had gone to sleep at thirty-eight on a mat in his own office, in a body that was closing down but was not finished yet, and he had woken up here.
+And that was the part that would not sit still in his head later. No crash. No horn, no chest pain, no long slide into a white ceiling with people shouting over him. He had gone to sleep at thirty-eight on a mat in his own office, and he had woken up here.
 
 No death. Just a cut in the tape.
 
@@ -71,11 +71,11 @@ Grey stone, half of it fallen in, walls climbing up and stopping in jagged teeth
 
 "Okay," he said. "That's not my office."
 
-He got his feet under him and stood up, and the standing worked on the first attempt, which was somehow the most alarming thing that had happened so far.
+He got his feet under him and stood up, and the standing worked on the first attempt, which was the most alarming thing that had happened so far.
 
 Then he looked down at himself.
 
-Bare feet on cold stone. A rough undyed shirt tied at the waist, trousers of the same. No shoes. No phone. No watch.
+Bare feet on cold stone. A rough undyed shirt tied at the waist, trousers of the same. No phone. No watch.
 
 And under the shirt, a stomach. Flat. Not smaller. Flat, with muscle under his hand where for years there had been a soft heavy swell he could not look at in shop windows.
 
@@ -97,7 +97,7 @@ For thoroughness, and because there was nobody around to be dignified in front o
 
 The laugh cracked in the middle and stopped, because the fear arrived properly, and it arrived cold.
 
-He was not himself. He was not the man who had been quietly disassembled over ten years by his own ambition and his own organs, who had wanted to help everyone and had watched it come apart while lying on his back listening to a machine breathe for him. The humiliation had been the worst part. Not the pain. The being handled.
+He was not himself. He was not the man who had been quietly disassembled over ten years by his own ambition and his own organs. That man had wanted to help everyone. That man had watched it come apart while lying on his back, listening to a machine breathe for him. The humiliation had been the worst part. Not the pain. The being handled.
 
 That man was gone. Somebody had thrown him away and left this in his place.
 
@@ -111,11 +111,11 @@ He tried to wave it off like an insect.
 
 It stayed.
 
-His mind, still the only piece of his old life that had come with him, started producing explanations. Light refraction. A stroke. A very expensive holographic rig operated by someone with a hostage plan and poor priorities.
+His mind, the only piece of his old life that had come with him, started producing explanations. Light refraction. A stroke. A very expensive holographic rig operated by someone with a hostage plan and poor priorities.
 
 Every one of them died on contact with the fact that he could feel the ash on his tongue.
 
-"I did dream of this. This feels too real to be a dream. Can I really...?"
+"I have dreamed about this. It is too real to be a dream."
 
 He reached out. His hand went straight through it, and the text sharpened as his eyes settled on it, like it had been waiting for him to pay attention.
 
@@ -143,9 +143,9 @@ CON 5.
 
 He looked at that one for a long time.
 
-Five. Half of average, if ten was average. The lowest thing on the board by a clear margin.
+Five. The lowest thing on the board by a clear margin.
 
-And it was correct. That was the obscene part. It had always been correct. He could put on strength like other people put on a coat, ten kilos on the bar in a fortnight, while the men beside him ground away for a year and got nowhere. Endurance never came at all. Two sessions a day at nineteen and he still lost his wind on a long flight of stairs, still caught every virus in the building, still woke up wrecked after a full night. His body would take load and would not take time.
+It was correct. That was the obscene part. He could put on strength like other people put on a coat, ten kilos on the bar in a fortnight, while the men beside him ground away for a year and got nowhere. Endurance never came at all. Two sessions a day at nineteen, and he still lost his wind on a flight of stairs and still woke up wrecked after a full night. His body would take load and would not take time.
 
 Then his eyes went one line up, and the whole thing stopped making sense.
 
@@ -159,7 +159,7 @@ Whatever that was, it was not one point better than the man who delivered his po
 
 So ten was not the average man.
 
-He stood very still in the ash and worked it forward. If eleven covered him, then ten was not a person at all. Ten was a floor. The scale started somewhere above human and ran up from there, and the numbers would get small and mean the higher he looked.
+He stood very still in the ash and worked it forward. Ten was not a person at all. Ten was a floor. The scale started somewhere above human and ran up from there, and the higher it ran, the more each single point would be hiding.
 
 He had no idea what a bear scored on this thing.
 
@@ -167,7 +167,7 @@ He had no idea what was scratching around in the next room.
 
 "Great," he said. "The bar is not where I left it."
 
-His knees, for the record, were operated on four months after that summer. Both of them. He had walked out of the second surgery with a sheet of printed exercises and a permanent low grinding objection every time he ran, which was the beginning of the long argument his body eventually won.
+His knees, for the record, were operated on four months after that summer. Both of them. He had walked out of the second surgery with a sheet of printed exercises and a low grinding objection every time he ran. That was the beginning of the long argument his body eventually won.
 
 He looked down. Nineteen-year-old knees, unopened, unscarred.
 
@@ -179,35 +179,35 @@ No charisma. No luck. No appearance. Whatever this thing was, it had gone throug
 
 Then the rest of it landed, and the cold came back up through his feet.
 
-This was transmigration. Isekai. He had read an embarrassing volume of it at three in the morning, on his phone, on nights when breathing was work and sleeping was worse. Second chances. A world with rules you could see.
+This was transmigration. Isekai. He had read an embarrassing volume of it at three in the morning, on his phone, on nights when breathing was work and sleeping was worse. A world with rules you could see.
 
 He was in one.
 
-The pain in his shoulder said so. The ash said so. The 5 in his constitution said so, because it meant a system existed and it had looked at him and rated him.
+The pain in his shoulder said so. The ash said so. The 5 in his constitution said so, because it meant a system existed and had rated him.
 
 His old life came back all at once, in the wrong order.
 
 The corporate years first, because that was where it started.
 
-Thirty-nine companies. He had counted them once, on a bad night, the way other people count ex-partners. Thirty-five of them corporations, some with names you saw on stadiums. Employee, contractor, consultant, interim. He had seen those buildings from the mailroom floor and from the top of the table and from the seat where you present to the board and watch six faces decide nothing.
+Thirty-nine companies. He had counted them once, on a bad night, the way other people count ex-partners. Thirty-five of them corporations, some with names you saw on stadiums. Employee, contractor, consultant, interim. He had seen those buildings from the mailroom floor, from the top of the table, and from the seat where you present to the board and watch six faces decide nothing.
 
 Different logos. Different industries. Different countries, twice.
 
 Same machine. Every single time.
 
-He could have picked any example out of sixteen years. The one that stuck was eighteen months of work, finished, tested, signed off, quietly filed away because two directors were at war over a budget line and the project had been born in the wrong department. Nobody said it was bad. Nobody looked at it at all. It belonged to the losing side, and losing sides do not ship.
+He could have picked any example out of nineteen years. The one that stuck was eighteen months of work, finished, tested, signed off, quietly filed away because two directors were at war over a budget line and the project was born in the wrong department. Nobody looked at it at all. It belonged to the losing side, and losing sides do not ship.
 
-Results were not the currency. Proximity was. He had watched people fail upward past him with a competence he could only describe as artistic, and after enough companies to constitute a study, he stopped hoping the next one would be different, handed in his notice, and walked out with a payout and a plan.
+Results were not the currency. Proximity was. He had watched people fail upward past him with a competence he could only describe as artistic. After enough companies to constitute a study, he stopped hoping the next one would be different. He handed in his notice and walked out with a payout and a plan.
 
-The plan even worked, for a while. His own company, his own rules, his own money in it, and for two years it ran the way he had always known it could when nobody was allowed to sabotage it out of spite. Then the growth flattened. The costs did not. Costs never do. He cut, put his own money back in, cut again, and told himself each quarter that the next one would turn.
+The plan even worked, for a while. His own company, his own rules, his own money in it, running for two years the way he had always known it could when nobody was allowed to sabotage it. Then the growth flattened. The costs did not. He cut, put his own money back in, cut again, and told himself each quarter that the next one would turn.
 
-Then the doctors, one after another, with the same expression on the way in and a worse one on the way out. Nothing more we can do. You have used yourself up. Said politely, over a desk, while he nodded like a professional.
+Then the doctors, one after another, the same expression on the way in and a worse one on the way out. Nothing more we can do. Said politely, over a desk, while he nodded like a professional.
 
-Control. That was all he had ever wanted and the exact thing he had never had. He had tried to build something so solid that no illness and no partner and no market could take it off him, and it had come down anyway, and his body had come down with it.
+Control. That was all he had ever wanted and the exact thing he had never had. He had tried to build something so solid that no illness and no partner and no market could take it off him. It had come down anyway, and his body had come down with it.
 
 And now here he was, standing in a dead building in a dead city, nineteen years old, with a window in the air telling him he was Level 1.
 
-"Level 1," he said. A dry laugh got out. "Starting from scratch, indeed."
+"Level 1," he said, and a dry laugh got out.
 
 It was terrifying.
 
@@ -221,29 +221,29 @@ Arms out, ash in his hair, blood running down one arm, laughing like an idiot, a
 
 The echo faded. Silence came back in and sat down.
 
-He wiped his face with the back of his wrist and breathed out, long and slow.
+He dragged a forearm across his face and breathed out, long and slow.
 
 "Crippling depression. Borderline disorder. PTSD. ADHD. Too many body illnesses to count."
 
 He listened to how the words sounded out loud, in this voice, in this air.
 
-"Nothing of these matters anymore."
+"None of that matters anymore."
 
 He said it firmly, the way you sign something.
 
 Whether it was true was a question for later.
 
-He flexed his hand and thought about what he actually had. No allies. No money. No language, probably. No idea what year it was or whether years were the unit here. One body he had not earned, one window full of numbers, and a lifetime of being let down by everyone he had ever relied on, which had taught him the only lesson he had ever fully absorbed.
+He thought about what he actually had. No allies. No money. No language, probably. No idea what year it was or whether years were the unit here. One body he had not earned, one window full of numbers, and a lifetime of being let down by everyone he had ever relied on, which had taught him the only lesson he ever fully absorbed.
 
 Do it yourself. Then nobody can drop it.
 
 He turned to the gap in the wall, where the chamber opened into deeper dark.
 
-The air coming through it was cold and smelled of wet earth, and under that of something musky and alive that his brain had no filing category for and disliked immediately.
+The air coming through it was cold and smelled of wet earth, and under that of something musky and alive that his brain had no name for and disliked immediately.
 
 Every instinct he owned said go the other way. The other way was a hole in a roof forty feet up.
 
-His bare feet made no sound in the ash. The panel travelled with him, hanging politely at the edge of his vision, a glowing receipt for a life he had not asked for.
+His bare feet made no sound in the ash. The panel travelled with him, hanging politely at the edge of his vision, lit from inside, patient as a lamp nobody had asked for.
 
 He put his back to the cold stone beside the opening and looked through.
 
@@ -265,7 +265,7 @@ Then the roar came out of the blackness, and it went through his bones like a st
 
 # Chapter 2: First Blood, First Skill
 
-Guttural roar ripped through the ruin. The sound hit Gaara in the sternum before it reached his ears, a low pressure that rattled loose grit from the walls.
+The roar ripped through the ruin. The sound hit Gaara in the sternum before it reached his ears, a low pressure that rattled loose grit from the walls.
 
 His head snapped up. Shapes moved in the dark beyond the collapsed support beam. Not one.
 
@@ -303,7 +303,7 @@ Collapsed slabs. Iron pins, rusted through, standing out of the stone like broke
 
 Obsidian.
 
-One piece was the length of his forearm, broken to a wicked taper, glinting dull and greasy in the light. His fingers closed around the rough end and the weight of it settled into his palm like it had been waiting.
+One piece was as long as his shin, broken to a wicked taper, glinting dull and greasy in the light. His fingers closed around the rough end and the weight of it settled into his palm like it had been waiting.
 
 "Nice. That would definitely beautify you guys."
 
@@ -411,7 +411,7 @@ He planted his foot on a canted slab and threw himself sideways under the hangin
 
 The Crawler followed him into the gap.
 
-He came up on one knee with the obsidian reversed in his fist and drove it not into the creature but upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
+He came up on one knee with the obsidian reversed in his fist. Not into the creature. Upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
 
 Metal shrieked. Snapped.
 
@@ -468,7 +468,7 @@ HP: 120/120
 MP: 60/60
 STR: 12 (+1)
 DEX: 8 (+1)
-CON: 6 (+1)
+CON: 5
 INT: 12
 WIS: 10
 
@@ -484,6 +484,8 @@ Rank E is the lowest recorded proficiency. Advancement through use.
 
 
 He read it three times.
+
+Strength and speed had moved on their own. The five had not moved at all. He had swung and dodged and hauled himself over rubble in there, and the only thing he had asked of his endurance was that it hold out, which it had barely done. So the thing paid out on what you were good at. It did not pay out on what you ran short of.
 
 Three free points. A number attached to his own body that went up when he did something correctly. And a rank. The lowest recorded proficiency, the system had been careful to specify, which meant there were others above it, which meant that someone, somewhere, was keeping score for an entire world.
 
@@ -523,7 +525,7 @@ The grip came out of the nest with a dry sucking sound, like pulling a spoon out
 
 Gaara sat back on his heels and turned it over.
 
-A knife. A real one, made by a person who had known what they were doing. Steel, the length of his forearm from pommel to point, single edged, with a shallow fuller running most of the way down. The leather wrap on the handle had rotted into black crumbs that came away on his palm, leaving bare tang underneath, and the whole blade wore a coat of rust like orange fur.
+A knife. A real one, made by a person who had known what they were doing. Steel, thirty centimetres from pommel to point, single edged, with a shallow fuller running most of the way down. The leather wrap on the handle had rotted into black crumbs that came away on his palm, leaving bare tang underneath, and the whole blade wore a coat of rust like orange fur.
 
 Under the rust the edge was still there. He could feel it catch on his thumbnail.
 
@@ -567,7 +569,7 @@ His eyes stung. He put that down to the dust.
 
 "Thank you," he said, to the ribcage. "Sincerely."
 
-The belt came too. So did a small pouch that had been under the hip, with a stone in it that struck sparks off the knife spine, and eleven coins, dull grey, stamped with a face he did not know and letters he could not read.
+The belt came too. So did a small pouch that had been under the hip. A stone in it struck sparks off the knife spine. Eleven coins as well, dull grey, stamped with a face he did not know and letters he could not read.
 
 He weighed the coins in his palm. Money existed. Money meant trade, trade meant towns, towns meant people, and people meant food, which had just become a problem with a clock on it, because he had not eaten in this body once.
 
@@ -587,7 +589,7 @@ Then he checked the reflex, because he had learned the hard way to distrust any 
 
 What does this place actually charge me for?
 
-Not sprint speed. That was the fight talking, and fights were minutes. This world was going to bill him in days. Walking, and then walking further, because there were no cars and no trains and the smoke on the horizon was hours away on foot. Sleeping on ground. Carrying his own water. Wounds that had to close on their own, in a world with no antibiotics, while he kept moving anyway.
+Not sprint speed. That was the fight talking, and fights were minutes. What this place took from him, it would take in days. Walking, and then walking further, because there were no cars and no trains and the smoke on the horizon was hours away on foot. Sleeping on ground. Carrying his own water. Wounds that had to close on their own, in a world with no antibiotics, while he kept moving anyway.
 
 His old life had been built so that a fragile man could still function. Chairs everywhere. A lift in every building. Food that arrived at the door, a pharmacy on the corner, a bed always within twenty minutes. He had run a company on four hours of sleep with a body that was quietly failing, and it had worked for years, because the whole world was padded.
 
@@ -627,7 +629,7 @@ It never came.
 
 Then he went to find the way out.
 
-It took him the better part of an hour. The far end of the chamber had come down completely, so he backtracked, past the slab and the black stain under it, through the gap he had first crawled out of, and along a corridor that ran straight for sixty metres and had once had a ceiling.
+It took him the better part of an hour. The far end of the chamber had come down completely, so he backtracked. Past the slab and the black stain under it. Through the gap he had first crawled out of, and along a corridor that ran straight for sixty metres and had once had a ceiling.
 
 Roots had come through the walls. Not thin ones. Roots the thickness of his thigh, splitting worked stone with the patience of something that had all the time in the world, and the stone had let them.
 
@@ -639,17 +641,17 @@ And stopped.
 
 The ruin was not a building.
 
-It went on. From up here he could see it running away from him in every direction, street after street of it, broken walls standing in rows under a green tide of growth, avenues wide enough to drive four trucks abreast, all of it drowning slowly in forest. A stone thing that might have been an aqueduct crossed the middle distance on legs a hundred feet high, snapped clean in two, both ends reaching for each other over a gap the length of a football pitch.
+It went on. From up here he could see it running away from him in every direction. Street after street of it, broken walls standing in rows under a green tide of growth, avenues wide enough to drive four trucks abreast. All of it drowning slowly in forest. A stone thing that might have been an aqueduct crossed the middle distance on legs a hundred feet high, snapped clean in two, both ends reaching for each other over a gap the length of a football pitch.
 
 He had crawled out of one room of a city.
 
-He made himself look at it properly, the way he would have walked a factory floor. Stone on stone, cut and fitted, arch on arch. Lime mortar. Iron pins holding what the mortar could not. No rail, no pipe, no chimney stack, nothing anywhere in that whole drowned spread that a competent Roman would have found surprising.
+He made himself stop looking at it as a view and start looking at it as work somebody had done. Stone on stone, cut and fitted, arch on arch. Lime mortar. Iron pins holding what the mortar could not. No rail, no pipe, no chimney stack, nothing anywhere in that whole drowned spread that a competent Roman would have found surprising.
 
 Which meant these people had built all of this with hands, rope and patience.
 
 Which raised the question he did not like.
 
-Because the city had not simply fallen down. The aqueduct had a bite out of it, a clean gap with both ends still reaching, and the roof of the chamber he had woken in had come in the way roofs come in when they are hit from the side. That was not weather and not time.
+Because the city had not simply fallen down. The aqueduct had a bite out of it, and the edges of the bite were clean. The roof of the chamber he had woken in had come in the way roofs come in when they are hit from the side. That was not weather and not time.
 
 Nothing these people owned could have done that to them.
 
@@ -659,7 +661,7 @@ Beyond the last of the walls, hills. Beyond the hills, mountains, blue with dist
 
 That, somehow, was the thing that got him. Not the aqueduct. The bird.
 
-Because the sky being normal meant this was not a hallucination and not a simulation dressed for his benefit. It was a place. It had weather and birds and people who minted coins and people who went into ruins and did not come out, and it had been getting on with all of that for a very long time before something dropped a thirty-eight year old man into the basement.
+Because the sky being normal meant this was not a hallucination and not a simulation dressed for his benefit. It was a place. It had weather and birds and people who minted coins and people who went into ruins and did not come out. It had been getting on with all of that for a very long time before something dropped a thirty-eight-year-old man into the basement.
 
 "Okay," he said. The word went out over the rooftops and did not come back. "Okay."
 
@@ -673,9 +675,9 @@ He looked at his hands. Black ichor dried into the creases. Blood, his own, crus
 
 "Fantastic," he said. "First impression of my life."
 
-He got up and started walking anyway, because the alternative was a city full of holes and whatever else lived in them, and because his stomach had begun a conversation with him that was not going to be talked out of anything.
+He got up and started walking anyway. The alternative was a city full of holes and whatever else lived in them, and his stomach had begun a conversation with him that was not going to be talked out of anything.
 
-It took two hours to get down and out, and every step of it his mind ran inventory the way it always had. Assets: one knife, one firestone, eleven coins, boots, a body that could work. Liabilities: no language, no map, no name he could give anyone, no idea what a person here would do with a stranger who came out of the dead city.
+It took two hours to get down and out, and every step of it his mind ran the list the way it always had. What he had: one knife, one firestone, eleven coins, boots, a body that could work. What he did not: no language, no map, no name he could give anyone, no idea what a person here would do with a stranger who came out of the dead city.
 
 He was so far into that loop that he almost walked into her.
 
@@ -701,13 +703,13 @@ Then the sound arrived in his head a second time, and it had words in it.
 
 He felt the moment it happened. It was not like learning. There was no effort in it, no reaching for meaning. Something had opened her language, taken it apart, and laid it into him while she was still finishing the sentence, and it had not asked him first.
 
-A cold thought went through him, small and clear: whatever this system is, it can put things into my head.
+A cold thought went through him, small and clear. It had done this once already, in the dark, when the name Gloom Crawler arrived in his skull fully formed and he had been too busy to be disturbed by it. Whatever this system was, it could write into his head.
 
 He filed it. He would be taking that one out again later.
 
 "Say something," she said. Her voice was steady, which was somehow worse than shaking. Her eyes went over him piece by piece. The blood. The ichor. The knife. The boots. "Say something or I'll take it that you can't."
 
-He looked at her, and at the hatchet, and at the seven metres between them, and he thought about the fact that the first human being he had met in a new world had just pointed a weapon at him.
+He looked at her, and at the hatchet, and at the seven metres between them. The first human being he had met in a new world had just pointed a weapon at him.
 
 "Charming," he said. "Usually people at least buy me a drink first."
 
@@ -731,9 +733,9 @@ He crouched, slowly, and laid the rusted blade on the stones. He did not put it 
 
 "No."
 
-The word came out flat, and he heard himself say it with a kind of distant interest. Old Gaara had spent fifteen years saying yes in rooms like this.
+The word came out flat, and he heard himself say it with a kind of distant interest. Old Gaara had spent nineteen years saying yes in rooms like this.
 
-"The belt has my food money in it," he said. "You can kill me for it if you want. I'd rather you didn't, and I'd rather not spend the next hour pretending I have nothing to lose. The knife's on the ground. That's what you actually asked for."
+"The belt has my food money in it," he said. "You can kill me for it if you want. I'd rather you didn't, and I don't intend to spend the next hour pretending I have nothing to lose. The knife's on the ground. That's what you actually asked for."
 
 Seven metres of silence.
 
@@ -745,7 +747,7 @@ Seven metres of silence.
 
 And there it was.
 
-He had turned the question over for the last two hours of walking, out of habit, the way he used to prepare for a board meeting on the drive in. There were three good lies available. Amnesia was clean and closed off follow-up questions. A traveller from far away was flexible. Saying nothing at all was the safest of the three.
+He had turned the question over for the last two hours of walking, out of habit. He used to do it on the drive in, before a board. The habit had outlived the boards. There were three good lies available. Amnesia was clean and closed off follow-up questions. A traveller from far away was flexible. Saying nothing at all was the safest of the three.
 
 He had discarded all of them for the same reason.
 
@@ -839,7 +841,7 @@ Ah.
 
 He lifted it.
 
-She crossed the seven metres faster than he liked and went down on one knee in front of him, close enough that he could have driven a heel into her jaw, and he understood that she knew that and had come anyway.
+She crossed the seven metres faster than he liked and went down on one knee in front of him, close enough that he could have driven a heel into her jaw. She knew that. She had come anyway.
 
 Her hand closed around his ankle and turned it. She was looking at the outside of the heel, where the leather had been cut open and stitched shut again in a coarse cross pattern by somebody who had been in a hurry.
 
@@ -847,15 +849,15 @@ She looked at that stitching for a long time.
 
 When she stood up her eyes were wet and her voice was completely level.
 
-"His name was Teodor," she said. "He went in at the start of harvest. He had a bad ankle, so he had the heel built out, twice, because he wore through it." She wiped her face with the back of her wrist, briskly, the way you deal with rain. "His mother has been leaving a lamp out. Every night. Since harvest."
+"His name was Teodor," she said. "He went in at the start of harvest. He had a bad ankle, so he had the heel built out, twice, because he wore through it." She wiped her face with the back of her wrist, briskly, the way you deal with rain. "His mother has been keeping a lamp lit. Day and night. Since harvest."
 
 Gaara said nothing.
 
-He had a dozen things available. Condolences. A qualifier about not having known. In his old life he had been very good at the noise you make in a room when something bad has happened to somebody else, the professional murmur, and he could feel the whole practised sequence waiting at the back of his teeth.
+He had a dozen things available. Condolences. A qualifier about not having known. In his old life he had been very good at the noise you make in a room when something bad has happened to somebody else. The professional murmur. He could feel the whole practised sequence waiting at the back of his teeth.
 
 He did not use it, and he was not sure he was right not to.
 
-He had no idea what these people did with grief. In some places you say the name. In some places you never say it again. In some places a stranger who offers sympathy is claiming a share of something that is not his. He did not know which of those he was standing in, and he had learned exactly one useful thing about unfamiliar rooms in fifteen years of walking into them: when you cannot read the code, the cheapest mistake is usually the quiet one.
+He had no idea what these people did with grief. In some places you say the name. In some places you never say it again. In some places a stranger who offers sympathy is claiming a share of something that is not his. He did not know which of those he was standing in. Nineteen years of walking into unfamiliar rooms had taught him exactly one useful thing: when you cannot read the code, the cheapest mistake is usually the quiet one.
 
 So he stood in a dead man's boots and kept his mouth shut, and let her have the silence, and privately noted that he might be getting this wrong too.
 
@@ -917,7 +919,7 @@ She gave him a sideways look.
 
 "Those aren't opposites where I come from. Some of the worst cowards I ever met had extremely good posture."
 
-The road came out of the trees onto a shallow rise, and there was Oldstep below them, forty houses of stone and thatch strung along a paved road far too grand for it, a road that came out of the forest, went through the village, and disappeared into the forest again, going somewhere that no longer existed.
+The road came out of the trees onto a shallow rise, and there was Oldstep below them. Forty houses of stone and thatch, strung along a paved road far too grand for it. The road came out of the forest, went through the village, and disappeared into the forest again, going somewhere that no longer existed.
 
 Smoke. Goats. A woman beating a rug. Two children who saw them coming and ran, and he could not tell whether they ran toward the village to tell or away because of him.
 
@@ -935,7 +937,7 @@ Human
 
 He stopped walking.
 
-She got three steps further before she noticed and turned around, one eyebrow up, entirely ordinary, a woodcutter's daughter with a bundle on her back and a dead friend in a ruin behind her.
+She got three steps further before she noticed and turned around, one eyebrow up, entirely ordinary, a woman with a bundle of wood on her back and a dead friend in a ruin behind her.
 
 There was no panel in front of her face. Nothing hung in her air at all. She was not looking at anything.
 
@@ -961,7 +963,7 @@ Gaara saw it before anyone spoke to him and knew exactly what it was, and someth
 
 By then there were eleven people in the road.
 
-Eleven, out of forty houses. He counted them without deciding to, the way he had counted everything for fifteen years, and the number told him something before anybody opened their mouth. It was afternoon at the end of harvest. The fields were full. These were the ones who had been close enough to the houses to hear a boy running, and they were mostly women, mostly older, and two of them had come out with children on their hips and then thought better of it and sent the children back in.
+Eleven, out of forty houses. He counted them without deciding to, the way he had counted everything for nineteen years, and the number told him something before anybody opened their mouth. It was afternoon at the end of harvest. The fields were full. These were the ones who had been close enough to the houses to hear a boy running. Mostly women, mostly older. Two of them had come out with children on their hips, then thought better of it and sent the children back in.
 
 They had come out of doorways and from behind the goat pens, and they had come without hurrying, which was worse than a mob. A man with a hoe held it the way you hold a tool, not a weapon, and then adjusted his hands.
 
@@ -981,11 +983,11 @@ Gaara set the bundle of wood down, slowly, and stood with his hands loose and op
 
 Then the crowd opened, and a woman came through it.
 
-She was perhaps sixty, small, with flour on her forearms, and she was already walking wrong, too fast and too straight, the way people walk when they have been braced for a thing for months and it has finally come.
+She was perhaps sixty, small, with flour on her forearms. She was already walking wrong, too fast and too straight, the way people walk when they have been braced for a thing for months and it has finally come.
 
 She stopped in front of him and looked down at the boots.
 
-Gaara had spent the last hour arranging the sentence. He had built it the way he used to build the first line of a bad quarterly, and then he had taken all the cleverness out of it, because cleverness in a sentence like that is a thing you do for yourself.
+Gaara had spent the last hour arranging the sentence. Then he had taken all the cleverness out of it, because cleverness in a sentence like that is a thing you do for yourself.
 
 "I found your son's remains in a nest inside the ruin," he said. "There were others with him. He was dead a long time before I got there and there was nothing left to bring back. I took his boots because I had none. I am sorry. If you want them, they are yours."
 
@@ -1011,7 +1013,7 @@ Someone in the crowd made a noise that was almost a laugh, and cut it off.
 
 Solva's face did something complicated. Then she turned and walked back to her door, and she bent down, and she blew out the lamp.
 
-She stayed crouched there with her hand around the cold bowl for a while, and nobody in that road moved a muscle, and Gaara understood that whatever else happened to him today, he had done the one useful thing available to him.
+She stayed crouched there with her hand around the cold bowl for a while, and nobody in that road moved a muscle. Whatever else happened to him today, he had done the one useful thing available to him.
 
 They had been coming in from the near fields for a while by then, in ones and twos, wiping their hands, saying nothing. By the time the road went quiet there were forty or fifty people in it, and more standing back at the field gate where they could see without being part of it.
 
@@ -1145,7 +1147,7 @@ That was the strange part. He had never sharpened anything in his life beyond a 
 
 Which meant the skill was not only for stabbing. It covered the whole relationship with the blade. Care, grip, how to carry it.
 
-He filed that. It suggested things about the other ranks that he did not have enough information to enjoy yet.
+That was worth knowing. It suggested things about the other ranks that he did not have enough information to enjoy yet.
 
 Rust came off in a grey slurry. Underneath, the steel was better than he had any right to expect.
 
@@ -1167,7 +1169,7 @@ They came one at a time over the next hour, which was longer than the half hour 
 
 Four of them. Five, counting the old man who came to stare.
 
-Out of forty houses, five. He noted that too. It was not that the rest had nothing to say; it was that coming to the byre meant being seen walking to the byre, and the road had split that afternoon and everyone in Oldstep knew exactly which side of it their neighbours had gone home on.
+Out of forty houses, five. He noted that too. The rest had plenty to say. But coming to the byre meant being seen walking to the byre, and the road had split that afternoon. Everyone in Oldstep knew exactly which side of it their neighbours had gone home on.
 
 A woman named Halle, whose cousin had the cart. Taken at the ford, in daylight, with the ox screaming loud enough to be heard in the village. They found the cart. They did not find her cousin.
 
@@ -1179,7 +1181,7 @@ By the time the light was going, Gaara had a stick in his hand and a patch of sw
 
 The village. The road. The ruin, north. The stream. The ford. The pool. The place where the water came out from under the stones.
 
-He drew the aqueduct as two dashes with a gap between them, and he put a cross where each person had been taken, and then he sat back on his heels and looked at what he had made, and the back of his neck went cold.
+He drew the aqueduct as two dashes with a gap between them, and he put a cross where each person had been taken. Then he sat back on his heels and looked at what he had made, and the back of his neck went cold.
 
 They were all on one line.
 
@@ -1241,7 +1243,7 @@ The panel hung where it always hung.
 
 Level 2. HP 165. CON 8. A skill that could sharpen a knife better than he could.
 
-Two days ago he had been thirty-eight years old, in debt, sleeping on a mat behind his own desk. Now he was nineteen, fed, armed with a rusty knife, and about to walk into a ruin that had eaten four people, on behalf of a village that had voted roughly half and half on whether he was the cause.
+Yesterday he had been thirty-eight years old, in debt, sleeping on a mat behind his own desk. Now he was nineteen, fed, and armed with a rusty knife. In the morning he would walk into a ruin that had eaten four people, on behalf of a village that had voted roughly half and half on whether he was the cause.
 
 He thought about that until he found the thing that was actually bothering him, which was not the ruin.
 
@@ -1298,7 +1300,7 @@ Gaara stopped.
 
 He stood there for a second with a whole speech in his mouth.
 
-It was a good speech. He had been giving versions of it for fifteen years, to co-founders, to investors, to a woman who had eventually stopped asking. Help is unreliable. Other people's failures become your failures. Carry it yourself and nobody can put it down.
+It was a good speech. He had been giving versions of it for nineteen years, to co-founders, to investors, to a woman who had eventually stopped asking. Help is unreliable. Other people's failures become your failures. Carry it yourself and nobody can put it down.
 
 And every version of it had been true, and every version of it had ended with him alone on a mat behind a desk at four in the morning owing money to people he had never met.
 

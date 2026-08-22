@@ -1,4 +1,4 @@
-# Project: Isekai novel (untitled)
+# Project: Transmigration into Freedom (working title)
 
 An isekai novel in English. Working discussion with the author happens in German.
 The prose is always English.
@@ -53,10 +53,14 @@ Target under 2500 words per chapter. Chapters 5 and 6 run shorter and that is fi
 - Concrete sensory detail over abstraction. Show the body, the smell, the weight.
 - The humour is dry, sarcastic, and often crude or suggestive. It belongs to Gaara.
   Other characters mostly speak plainly. If everyone is witty, nobody is.
-- At most one corporate or workplace joke per chapter. Corporate metaphors in the
-  narration are banned outright; his old life shows up as concrete memory, not as simile.
+- Corporate or workplace jokes in his mouth: one or two per chapter is the normal
+  dose, four is the ceiling. Corporate metaphors in the NARRATION are still banned
+  outright; his old life shows up as concrete memory, not as simile.
 - He is analytical and blunt. He reads people well. What he lacks is the cultural
   dictionary of this world, never the skill itself.
+- He never says anything untrue. He omits, deflects and stays silent instead, and
+  the evasions are built so they hold up word by word. Jokes and exaggeration are
+  exempt. The reasoning is in the bible, section 1, and it is his own.
 
 ## Workflow with the author
 
@@ -99,6 +103,14 @@ Enforcement, in layers:
   comes, comes deliberately and on the page as hand-tools plus magic.
 - He did not die. There was no accident. He went to sleep and woke up here.
 - Oldstep has forty houses, so roughly 150 to 200 people. Crowd sizes must match that.
+- His old working life is 19 years long. Not fifteen, not sixteen. Both drifted in
+  once and had to be pulled back out of four chapters.
+- The level in chapter 2 raised STR and DEX only. CON is 5 until he spends the
+  three free points on it in chapter 3. An [ ATTRIBUTES UPDATED ] block that reads
+  "X: a to b" must start at the value the previous chapter ended on; check.py now
+  says so out loud.
+- Everything after chapter 1 happens on ONE day, up to and including the night in
+  the byre. He walks into the ruin on the morning of day two.
 
 ## Build und Pruefung (Repo-Automatik)
 

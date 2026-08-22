@@ -19,7 +19,7 @@ Hallvard, elder of Oldstep, NO PANEL
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution. Watched the dirt map in Chapter 6 and left without a word.
-- Terms of the deal: three days of bread, a whetstone, no blanket. Proof brought back from the ruin.
+- Terms of the deal: three days of bread, a whetstone, a place in the byre. Proof brought back from the ruin.
 
 Solva, Level 3
 - Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
