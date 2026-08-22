@@ -1,0 +1,55 @@
+#!/bin/sh
+# Pusht nach jedem Commit, wenn eingeschaltet.
+#
+# Einschalten:   git config hooks.autopush true
+# Ausschalten:   git config hooks.autopush false
+# Einmalig aus:  NOPUSH=1 git commit -m "..."
+#
+# Der Hook kann einen Commit nicht rueckgaengig machen und soll das auch nicht.
+# Schlaegt der Push fehl, bleibt der Commit lokal und der Hook sagt, was zu tun
+# ist. Es geht nie Arbeit verloren.
+#
+# Warum ein Wiederholungsversuch: Die GitHub Action baut bei jedem Push und
+# schreibt Erzeugtes zurueck. Findet sie etwas, ist der lokale Zweig danach
+# hinterher, und der naechste Push wird abgelehnt. Einmal rebasen und noch
+# einmal versuchen loest genau diesen Fall. Bei einem echten Konflikt bricht
+# der Hook ab und ueberlaesst die Entscheidung einem Menschen.
+
+[ "$(git config --bool hooks.autopush)" = "true" ] || exit 0
+[ -z "$NOPUSH" ] || { echo "autopush: uebersprungen (NOPUSH gesetzt)."; exit 0; }
+
+branch="$(git rev-parse --abbrev-ref HEAD)"
+
+if ! git rev-parse --abbrev-ref --symbolic-full-name '@{u}' >/dev/null 2>&1; then
+  echo "autopush: kein Upstream fuer $branch. Nichts gepusht."
+  echo "  git push -u origin $branch"
+  exit 0
+fi
+
+err="$(git push 2>&1)" && { echo "autopush: $branch gepusht."; exit 0; }
+
+# Erster Versuch abgelehnt. Wenn der Arbeitsbaum sauber ist, einmal rebasen
+# und noch einmal versuchen.
+if ! git diff --quiet || ! git diff --staged --quiet; then
+  echo "autopush FEHLGESCHLAGEN, und der Arbeitsbaum ist nicht sauber."
+  echo "$err" | sed 's/^/  /'
+  echo "  Der Commit ist lokal. Von Hand: git pull --rebase && git push"
+  exit 0
+fi
+
+echo "autopush: abgelehnt, versuche einmal zu rebasen."
+if ! rb="$(git pull --rebase 2>&1)"; then
+  echo "autopush FEHLGESCHLAGEN beim Rebase. Der Commit ist lokal."
+  echo "$rb" | sed 's/^/  /'
+  git rebase --abort 2>/dev/null
+  echo "  Von Hand aufloesen: git pull --rebase && git push"
+  exit 0
+fi
+
+if err2="$(git push 2>&1)"; then
+  echo "autopush: $branch nach Rebase gepusht."
+else
+  echo "autopush FEHLGESCHLAGEN auch nach dem Rebase. Der Commit ist lokal."
+  echo "$err2" | sed 's/^/  /'
+fi
+exit 0
