@@ -32,7 +32,23 @@ nicht abgehakt.
 
     **Damit liegt das eine Gespräch frühestens im Januar**, also genau in den drei Wochen des Fensters.
 
-    **Und daraus entsteht der Konflikt mit Woos Bedingung**, der eine Szene wert ist: Woo will seinen Raum mit der Familie **vor Jahresende**, also im Dezember, nachdem Sang-hoon unterschrieben hat. Ye-rin sitzt dann möglicherweise darin. Georgij muss durch ein ganzes Treffen kommen, ohne den einen Zugang auszugeben, den er hat - während die einzige Person, auf die es ankommt, im Raum ist.
+    **Es ist ein Gespräch zu zweit, und das ist erzwungen, nicht gewählt.**
+
+    Erstens hat sie nichts zu unterschreiben. Sie hält 1,4 Prozent; die Unterschriften kommen von den sechs. Zweitens, und entscheidend: Der Satz, den Georgij ihr sagen muss, steht in `doc/04-world.md` und lautet, dass die Familie die Firma behält, Annie die Kontrolle bekommt, und **Ye-rin dafür ihre informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört.**
+
+    Das vor den sechs auszusprechen, wäre ihre Vernichtung. Ihre Macht funktioniert, weil sie unbeschrieben ist - *"She tells other people what to sign."* Wer sie in einem Raum benennt, beendet sie in demselben Satz. Deshalb steht in `doc/04-world.md`, dass dieser Satz ihn den Zugang kosten kann, und deshalb geht er nur unter vier Augen.
+
+    **Es sind also drei Termine und nicht einer:**
+
+    | Wann | Wer | Was |
+    |---|---|---|
+    | Dezember | Woo und die Familie | Woos Bedingung. Er prüft, neben wen er seinen Namen stellt. Ye-rin sitzt vermutlich dabei und sagt nichts. **Georgij gibt seinen Zugang nicht aus.** |
+    | Januar | **Ye-rin allein** | Der eine Versuch. Der Satz über ihre Macht, der nirgendwo sonst fallen darf. |
+    | danach | die sechs | Die Unterschriften. Anteile und Stimmbindung. |
+
+    **Zwei verschiedene Sätze, nicht einer.** An die sechs geht der, den Georgij Annie in Kapitel 14 versprochen hat: *"They keep the name. You get the control, and they will be told that in those words, by me, before anybody signs anything."* Der handelt von der Firma. Der an Ye-rin handelt von ihr.
+
+    **Und Woos Raum im Dezember wird dadurch schärfer.** Woo hat einundfünfzig Jahre und liest Räume. Er findet die Frau, nach der sich zweimal jemand umsieht, bevor er weiterredet, ohne es zu merken. Und er sagt Georgij hinterher, dass er sie gefunden hat und dass Georgij nicht mit ihr gesprochen hat.
 4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, vor Jahresende.
 
     **Sein Preis, von ihm selbst genannt:** sieben Jahre statt zehn, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
