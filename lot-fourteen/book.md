@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 59.222 Woerter.
+20 Kapitel. 59.342 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -23,12 +23,12 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 12 | v1.7 | 2.350 |
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
-| 15 | v2.4 | 4.210 |
+| 15 | v2.5 | 4.232 |
 | 16 | v1.15 | 3.200 |
 | 17 | v12.8 | 2.694 |
-| 18 | v2.4 | 2.966 |
+| 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
-| 20 | v1.0 | 2.003 |
+| 20 | v1.0 | 2.076 |
 
 ---
 
@@ -4093,7 +4093,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4350,6 +4350,8 @@ He looked at Hana.
 "They would, and on Monday they would be holding exactly the same pages I will be holding." He put one finger down and left it there. "What they would not have is you knowing they had them, and that is the whole of the difference."
 
 Hana laughed, and it was the real one, the one she had given him once before on a cold terrace.
+
+Georgij gave her a face back that was not built for anything, and did not take it off until she had finished.
 
 "None of my business how you work," she said. "Pull it."
 
@@ -5154,7 +5156,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5170,7 +5172,7 @@ Jang brought it up himself.
 
 "There is nothing in it but the pages. I looked." He put the envelope on the desk. "I would tell you if I had not."
 
-"I know you would."
+"I know you would." Georgij smiled at him, briefly and without any work in it, because the man had told him a thing nobody had asked him to tell.
 
 ---
 
@@ -5812,9 +5814,11 @@ Ji-won brought coffee up to the east room at half past seven and did not ask why
 
 "Thank you."
 
-"Mrs Seo says the gardeners are coming at nine and it will be loud."
+"Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "She said to tell you and not to apologise for it."
 
 "Then I will be finished by nine."
+
+Georgij smiled at her, and meant it, and it got nothing at all and was not meant to.
 
 She went. He looked at the door for a moment and then went back to the second page.
 
@@ -5830,7 +5834,7 @@ She read it the way she read everything, which was quickly and twice, and she st
 
 "You had ten."
 
-"I had ten and I did not need them." Georgij stayed at the corner of the desk. "He does not want to tie an estate to something longer than a bank will look at. He said it in about twenty seconds and he had thought about it for years."
+"I had ten and I did not need them." Georgij shrugged. "He does not want to tie an estate to something longer than a bank will look at. He said it in about twenty seconds and he had thought about it for years."
 
 "And the rate is his."
 
@@ -6027,6 +6031,8 @@ And a reason has to be one that explains itself. He had said so himself over her
 He stood by the shelf and worked at that for a while, and the answer was so ordinary that he went through it twice looking for what was wrong with it.
 
 People give parties in December.
+
+One corner of his mouth went up, at nobody, in an empty hall. It was the first thing his face had done all morning that he had not decided on. Nobody in the house could see it, and that was the only reason it was allowed to happen.
 
 ---
 

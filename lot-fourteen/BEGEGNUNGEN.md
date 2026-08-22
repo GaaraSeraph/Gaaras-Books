@@ -26,7 +26,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 35 | 10 (05-18) | 4 | 48 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 22 | 5 (09-17) | 22 | 46 |
-| Ji-won | 19 | 7 (03-20) | 1 | 49 |
+| Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Kim Ye-rin | 7 | 4 (14-18) | 31 | 48 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -196,18 +196,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:194 | He gave her the three that meant nothing to him. He gave her the fourth. Because it was .. |
 | 41 | ch15:196 | Annie's face did nothing at all. |
 | 41 | ch15:234 | Annie said nothing whatsoever. |
-| 41 | ch15:276 | "And what is it for?" said Annie. |
-| 41 | ch15:320 | "That is what I am buying," said Annie. "Yes." |
-| 41 | ch15:326 | "And the third thing," said Annie. |
-| 41 | ch15:340 | "Probably," said Annie. |
-| 41 | ch15:344 | Annie looked at the pages. |
-| 41 | ch15:364 | Annie looked at her. |
-| 41 | ch15:384 | "It says that in November two women had an arrangement about Incheon, four months before.. |
-| 41 | ch15:390 | Annie was quiet for what felt like a considerable time. |
-| 41 | ch15:396 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
-| 41 | ch15:406 | "Yes," said Annie. "You would." |
-| 41 | ch15:432 | "The eighteenth," said Annie, when the door had closed. |
-| 41 | ch15:444 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
+| 41 | ch15:278 | "And what is it for?" said Annie. |
+| 41 | ch15:322 | "That is what I am buying," said Annie. "Yes." |
+| 41 | ch15:328 | "And the third thing," said Annie. |
+| 41 | ch15:342 | "Probably," said Annie. |
+| 41 | ch15:346 | Annie looked at the pages. |
+| 41 | ch15:366 | Annie looked at her. |
+| 41 | ch15:386 | "It says that in November two women had an arrangement about Incheon, four months before.. |
+| 41 | ch15:392 | Annie was quiet for what felt like a considerable time. |
+| 41 | ch15:398 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
+| 41 | ch15:408 | "Yes," said Annie. "You would." |
+| 41 | ch15:434 | "The eighteenth," said Annie, when the door had closed. |
+| 41 | ch15:446 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
 | 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
 | 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
 | 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
@@ -241,17 +241,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:272 | Annie picked the pen up. |
 | 48 | ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
 | 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
-| 49 | ch20:24 | Annie read the contract before she said anything at all. |
-| 49 | ch20:40 | Annie put the pages down and squared them. |
-| 49 | ch20:60 | Annie almost did something with her mouth and then did not. |
-| 49 | ch20:68 | Annie stopped. |
-| 49 | ch20:82 | Annie put two fingers on the corner of the contract. |
-| 49 | ch20:102 | Annie looked at him for slightly longer than the sentence needed. |
-| 49 | ch20:118 | Annie's hand stopped on the edge of the desk. |
-| 49 | ch20:138 | Annie was quiet for the length of the gardeners arriving. |
-| 49 | ch20:152 | Annie sat back in the chair. |
-| 49 | ch20:168 | Annie did not say anything. |
-| 49 | ch20:192 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
+| 49 | ch20:26 | Annie read the contract before she said anything at all. |
+| 49 | ch20:42 | Annie put the pages down and squared them. |
+| 49 | ch20:62 | Annie almost did something with her mouth and then did not. |
+| 49 | ch20:70 | Annie stopped. |
+| 49 | ch20:84 | Annie put two fingers on the corner of the contract. |
+| 49 | ch20:104 | Annie looked at him for slightly longer than the sentence needed. |
+| 49 | ch20:120 | Annie's hand stopped on the edge of the desk. |
+| 49 | ch20:140 | Annie was quiet for the length of the gardeners arriving. |
+| 49 | ch20:154 | Annie sat back in the chair. |
+| 49 | ch20:170 | Annie did not say anything. |
+| 49 | ch20:194 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -292,8 +292,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:126` (Tag 41) - twenty, two
 - `ch15:166` (Tag 41) - one
 - `ch15:194` (Tag 41) - three
-- `ch15:384` (Tag 41) - four, one, two
-- `ch15:444` (Tag 41) - four thousand two hundred
+- `ch15:386` (Tag 41) - four, one, two
+- `ch15:446` (Tag 41) - four thousand two hundred
 - `ch16:12` (Tag 46) - two
 - `ch16:122` (Tag 46) - five, sixteen thousand
 - `ch16:142` (Tag 46) - one, two
@@ -304,7 +304,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
 - `ch18:282` (Tag 48) - one
-- `ch20:82` (Tag 49) - two
+- `ch20:84` (Tag 49) - two
 
 ---
 
@@ -373,19 +373,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:242 | Hana waited. |
 | 41 | ch15:250 | He looked at Hana. |
 | 41 | ch15:258 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
-| 41 | ch15:284 | Hana was very still. |
-| 41 | ch15:290 | Hana put her glass down. |
-| 41 | ch15:294 | "A poisoned apple," said Hana. |
-| 41 | ch15:312 | Hana had stopped moving. |
-| 41 | ch15:346 | "Will he take it?" she said, to Hana. |
-| 41 | ch15:348 | Hana did not answer straight away, which Georgij noticed and was glad of. |
-| 41 | ch15:360 | Hana put both hands on the table. |
-| 41 | ch15:368 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
-| 41 | ch15:372 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
-| 41 | ch15:386 | "So you would advise against it," said Hana. |
-| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 41 | ch15:412 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
-| 41 | ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
+| 41 | ch15:286 | Hana was very still. |
+| 41 | ch15:292 | Hana put her glass down. |
+| 41 | ch15:296 | "A poisoned apple," said Hana. |
+| 41 | ch15:314 | Hana had stopped moving. |
+| 41 | ch15:348 | "Will he take it?" she said, to Hana. |
+| 41 | ch15:350 | Hana did not answer straight away, which Georgij noticed and was glad of. |
+| 41 | ch15:362 | Hana put both hands on the table. |
+| 41 | ch15:370 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
+| 41 | ch15:374 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
+| 41 | ch15:388 | "So you would advise against it," said Hana. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | ch15:414 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
+| 41 | ch15:428 | "You told me tonight that you were wrong about a man's character and you told me before .. |
 | 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | ch17:94 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
@@ -413,8 +413,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:122` (Tag 41) - ten
 - `ch15:160` (Tag 41) - one
 - `ch15:258` (Tag 41) - one
-- `ch15:368` (Tag 41) - twenty
-- `ch15:372` (Tag 41) - ten
+- `ch15:370` (Tag 41) - twenty
+- `ch15:374` (Tag 41) - ten
 - `ch16:120` (Tag 46) - three
 - `ch17:94` (Tag 46) - one, sixteen thousand
 
@@ -493,7 +493,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
 | 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
-| 49 | ch20:206 | "Then find Chairman Woo a house." |
+| 49 | ch20:208 | "Then find Chairman Woo a house." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -557,7 +557,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
 | 34 | ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
 | 41 | ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
+| 41 | ch15:280 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
 | 46 | ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
 | 46 | ch16:16 | Sang-hoon was already there. |
 | 46 | ch16:34 | "You ask people to guide you," said Sang-hoon. |
@@ -659,7 +659,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
 | 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
-| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." |
+| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -719,7 +719,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
-| 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
+| 41 | ch15:438 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
 | 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
 | 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
@@ -787,7 +787,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
 | 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 | 48 | ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
-| 49 | ch20:72 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
+| 49 | ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -852,7 +852,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Ji-won
 
-19 Nennungen in 7 Kapiteln.
+20 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -875,6 +875,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 49 | ch20:12 | Ji-won brought coffee up to the east room at half past seven and did not ask why he was .. |
+| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
 
 ### Zahlen in der Naehe von Ji-won
 
@@ -888,6 +889,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:8` (Tag 27) - nine, seven, twenty-seven, two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch20:12` (Tag 49) - seven
+- `ch20:16` (Tag 49) - nine
 
 ---
 
@@ -922,8 +924,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
 | 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
 | 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
 | 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
 | 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
 
