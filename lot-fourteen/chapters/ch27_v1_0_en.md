@@ -1,0 +1,298 @@
+# Chapter 27: Not out of your account
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Sixty-Seven · Tuesday 9 December
+
+"There is a thing I would like to do this week," said Georgij, "and it is not for you."
+
+Annie looked up.
+
+It was ten past eight in the morning and she had been at the desk since seven.
+
+The sentence had come out without any preparation, which was becoming a habit, and he had not yet decided how he felt about that.
+
+"Say it."
+
+"An afternoon. Perhaps two. Your car, your driver, your telephone, and about six hours of a man you are paying for." He stayed at the corner of the desk. "I am asking, because all of that is yours."
+
+---
+
+"For whom."
+
+"Hana."
+
+Annie put the pen down.
+
+"Go on."
+
+---
+
+"On the eleventh of November I pulled the second section on her sixteen thousand square metres, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
+
+"On the one thing she is asking us to protect."
+
+"On the one thing she cannot survive losing." He did not move. "Which means the whole of her sits on a designation that one department can look at again. And you and I have a woman on our side of this whose entire position depends on nobody in that ministry having a bad month."
+
+---
+
+Annie was quiet for a second.
+
+"You are not asking me for a favour for a friend."
+
+"No, Mistress."
+
+"Say what you are asking me for."
+
+"Six hours to take a hole out of your own arrangement." He said it flatly. "I am also fond of her, and I am telling you that so that you have it, and it is not the reason."
+
+---
+
+Annie sat back.
+
+"How much does it cost me."
+
+"Nothing. That is most of why I want to do it."
+
+"Say the rest of that sentence."
+
+"It does not cost you anything because it is not your money and it is not your land," said Georgij. "Chairman Woo signed seven years of anchor cargo on the twentieth. That cargo comes through Incheon. Cargo needs floor before the ship and floor after the ship, and he has been renting it in three places from two people since 2019, and he complains about one of them at every meal.
+
+"She has sixteen thousand square metres on the eastern side and a tenancy that does not begin until April."
+
+---
+
+Annie looked at him for a moment.
+
+"You want to put Woo on her land."
+
+"I want to put Woo's cargo on her land from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value is not a designation any more. It is an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
+
+"And she stops being the soft part of my arrangement."
+
+"Yes."
+
+---
+
+Annie did not say anything for a while.
+
+"You worked this out in the car on Monday."
+
+"In the lobby, actually. There were eight minutes and I was not going to spend them being nervous."
+
+---
+
+She picked the pen up again, which meant it was decided, and did not say so, which meant something else.
+
+"Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short pause. "And Georgij."
+
+"Mistress."
+
+"Do not do it as a gift."
+
+"No."
+
+"I mean it. Not because it is beneath her." She was already looking at the page again. "Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."
+
+"I know exactly how I am going to put it," said Georgij.
+
+"Yes," said Annie. "That is what worries me."
+
+---
+
+## Day Sixty-Nine · Thursday 11 December
+
+Chairman Woo said yes in about four minutes, which was three and a half minutes longer than Georgij had expected.
+
+"East side at Incheon."
+
+"Sixteen thousand, one owner, held eleven years, and the second section is clean apart from three charges that are none of your business and do not touch possession."
+
+"You have read her register."
+
+"In November, and not for this."
+
+Woo made a noise that was not a word.
+
+"I pay a family in Yeonan for twelve thousand and I have hated it since the day I signed it," he said. "Their gate is on the wrong side and I lose forty minutes a load in January because of it. Whose side is her gate on?"
+
+"The east."
+
+"Then send me the drawing and do not send me a broker."
+
+---
+
+"There will not be a broker," said Georgij. "There will not be anybody. You will deal with her directly and I will not be in the room, and nobody is taking a commission out of this anywhere, including my employer, and especially not me."
+
+"Why not you?"
+
+"Because I do not have an account for one to go into."
+
+Woo laughed, badly, the way he had laughed at his own crane in October.
+
+"You are a very strange young man," he said. "Send the drawing."
+
+---
+
+## Day Seventy · Friday 12 December
+
+He went out to her at four and it was already going dark.
+
+Hana had the fire lit in the long room at the back and a stack of cards on the table beside her, forty of them, addressed in her own hand.
+
+"Four days," she said. "Tell me nothing is broken."
+
+"Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except one brother-in-law, and I have been told not to ask why."
+
+"Ye-rin."
+
+"That is your part and I am not going to ask you about it twice in a week."
+
+---
+
+Hana looked at the cards.
+
+"I asked her on Tuesday," she said. "Badly, in the middle of something else, exactly the way I told you I would. She said she would let me know, which is what she has said fourteen times."
+
+"And the two times she came?"
+
+"She said the same thing." Hana turned one of the cards over and put it back. "That is the entire science of it. Twelve years."
+
+---
+
+Georgij put the folder on the table.
+
+"This is the other thing," he said, "and it is not about the sixteenth, and I would like you to hear all of it before you decide what it is."
+
+---
+
+He laid it out the way he had laid out Woo's contract on the Kim table, which is to say without any decoration and in the order that a person needs it.
+
+Chairman Woo has seven years of anchor cargo running through Incheon from January. He is currently renting twelve thousand square metres in Yeonan on the wrong side of the road and loses forty minutes a load in winter. He has been complaining about it since 2019 and everybody in the trade has heard him do it.
+
+She has sixteen thousand on the east side, standing empty until April.
+
+"He will deal with you directly. There is no broker, no introduction fee, no commission to anybody, and the rate is yours to name in the same way his rate was his to name." Georgij kept his hands where they were. "He asked for the drawing. That is all he asked for."
+
+---
+
+Hana did not touch the folder.
+
+"Why," she said.
+
+"Because it takes the designation out of the middle of your life."
+
+"Say that properly."
+
+---
+
+"At the moment everything you have is worth what a department says it is worth," said Georgij. "One meeting in one building and you are a woman with a lot of land and a third charge that has come loose. There is nothing you can do about that in March except be very charming to men who do not care.
+
+"With a signed tenancy and a chairman paying rent into it every month, the same land is an income. Income is valued by people with spreadsheets and no opinions. Your third charge stops being a cliff and turns into a line item, and any bank in this city will take it off the one that is holding it now."
+
+He stopped there, which he had promised himself he would.
+
+---
+
+Hana was quiet for a long time.
+
+"You did this because you saw my gutter," she said.
+
+"I saw your gutter in November and I did not do anything about it in November."
+
+"Then say what changed."
+
+---
+
+"You did," said Georgij. "On the twenty-first, in that chair, when you asked me what the evening was for and then took the question back because of a man on your own guest list. You gave up the only thing you have never given anybody, which is knowing what your own sentences are doing.
+
+"I have thought about it for three weeks and I have not been able to put it anywhere, because there is nothing on my side of the table to put it against. I do not have anything. I have never had anything and I am not going to."
+
+He looked at the fire and not at her.
+
+"What I have is this. I know two people who each need a thing the other one has, and neither of them knows it, and I have sat in both of those rooms."
+
+---
+
+"That is not a gift," said Hana.
+
+"No."
+
+"You are quite sure about that."
+
+"It is not a gift, it is arbitrage," said Georgij, "and there is nothing in it for me at all, and I would like both of those to be true at the same time, because they are."
+
+---
+
+Hana laughed.
+
+It was the real one, and it went on for a while, and at the end of it she pressed the back of her wrist against her eye once and was entirely herself again.
+
+"Arbitrage," she said.
+
+"Yes."
+
+"You have been in this country nine weeks."
+
+"Ten on Saturday."
+
+---
+
+She pulled the folder across the table at last and opened it and read the first page the way she read everything, which was fast.
+
+"His rate on the terminal is inside the market."
+
+"Well inside. He wrote it himself in the margin and then in the box."
+
+"Then he is not going to enjoy paying mine."
+
+"No," said Georgij. "He is going to argue with you for a fortnight and get about six per cent of it. Then he is going to tell people for the rest of his life that a woman took him apart over floor space at Incheon."
+
+---
+
+Hana put the page down.
+
+"Does she know?"
+
+"She knows. I asked her for the afternoon and she gave me two and told me not to do it as a gift, because you would not be able to take it."
+
+"She said that."
+
+"In those words."
+
+---
+
+Hana looked at the fire for a moment.
+
+"Twelve years I have known that woman," she said. "She has never once asked me how I am."
+
+"No."
+
+"And she has just spent six hours of a man she paid a great deal of money for on making sure nobody can lean on me."
+
+She turned one of the cards over again and left it face down.
+
+"Do not tell her I said any of that."
+
+"I have nothing to tell her," said Georgij. "You have not said anything."
+
+---
+
+He was in the hall with his coat when she came out after him.
+
+"The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on a ladder, and it has been broken for two years, and I have walked under it perhaps four hundred times."
+
+"Good."
+
+"That was the part I could do without anybody's help and I did not do it." She had her arms folded. "I am telling you because you will notice on Tuesday, and I would rather you heard it from me than counted it."
+
+---
+
+Georgij stood in the doorway for a second.
+
+"May I say one thing that is not business."
+
+"You may say one."
+
+"You are going to be the most solvent person in that room on Tuesday night," he said, "and none of them are going to know it, and you and I are going to be the only two people there who do."
+
+Then he went out to the car, and the lamp over the step came on as he passed under it, because it was five o'clock in December and it was dark.

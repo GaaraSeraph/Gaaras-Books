@@ -25,7 +25,7 @@ She waited.
 
 ---
 
-"He has eaten the apple," said Georgij. "All of it, in twelve days, from seven people at a price that was neither clever nor stupid, and every single thing in those nineteen pages was true, and he checked most of it himself. He is not going to find a bad line in there in March, because there is not one." He kept his hands where they were. "He has bought four shipping routes with real berths and a fight he can win. He will win it, and it will take him a quarter." He kept his hands where they were. "There is nothing in the world he can do about the calendar."
+"He has eaten the apple," said Georgij. "All of it, in twelve days, from seven people at a price that was neither clever nor stupid, and every single thing in those nineteen pages was true, and he checked most of it himself. He is not going to find a bad line in there in March, because there is not one." He kept his hands where they were. "He has bought four shipping routes with real berths and a fight he can win. He will win it, and it will take him a quarter." A short pause. "There is nothing in the world he can do about the calendar."
 
 Annie turned the page over so that it lay face down.
 
@@ -159,9 +159,9 @@ Sung-ho put his hand flat on the page.
 
 ---
 
-Georgij did not sit down and had not been asked to.
+"The cancellations are what is killing you," he said. "Not the investigation. Nobody in this room needs me to explain that, so I am going to say the shape and then the price and then I am going to stop talking."
 
-"The cancellations are what is killing you," he said. "Not the investigation. Nobody in this room needs me to explain that, so I am going to say the shape and then the price and then I am going to stop talking.
+He did not sit down and had not been asked to.
 
 "You need money to get to March and you need somebody standing next to you in public before then. My employer has both. What she is offering is capital, security over the routes, and her name in the same photograph as yours, in December, at an address that is not hers and not yours."
 
@@ -181,7 +181,9 @@ The cousin put the legal pad down.
 
 ---
 
-"You keep the name," said Georgij. "The building says Kim on it in March the way it says Kim on it today. Your brother is chairman, your family is on the register, and every customer you have ever had deals with the same three people they dealt with in September. Nobody outside this room is told anything, and there is no announcement, because there is nothing to announce.
+"You keep the name," said Georgij. "The building says Kim on it in March the way it says Kim on it today. Your brother is chairman, your family is on the register, and every customer you have ever had deals with the same three people they dealt with in September. Nobody outside this room is told anything, and there is no announcement, because there is nothing to announce."
+
+He let that sit for exactly as long as it needed.
 
 "And she gets the control."
 
@@ -203,9 +205,15 @@ Sung-ho had not moved during any of it.
 
 "You said December," he said. "At an address that is not hers and not mine."
 
-"The sixteenth. A house north of the river that belongs to a woman your sister has known for twenty years." Georgij took the second page out of the folder and did not push it across. "Forty people. Chairman Woo will be there from seven. There is a photographer until nine and he goes home at nine, and between eight and half past there will be one picture of him standing with your family, and it will be in two papers on the Thursday.
+"The sixteenth. A house north of the river that belongs to a woman your sister has known for twenty years."
 
-"That picture is worth more to you than the money and I want you to hear me say that out loud."
+Georgij took the second page out of the folder and did not push it across.
+
+"Forty people. Chairman Woo will be there from seven. There is a photographer until nine and he goes home at nine. Between eight and half past there will be one picture of him standing with your family, and it will be in two papers on the Thursday."
+
+He put one finger on the page and left it there.
+
+"That picture is worth more to you than the money, and I want you to hear me say that out loud."
 
 ---
 

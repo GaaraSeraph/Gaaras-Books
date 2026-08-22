@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 60.797 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 61.676 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -113,11 +113,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Ji-won](#ji-won)
-  - [Kim Do-yun](#kim-do-yun)
   - [Kim Ye-rin](#kim-ye-rin)
+  - [Kim Do-yun](#kim-do-yun)
+  - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
-  - [Mr Ku](#mr-ku)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
@@ -1359,6 +1359,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 62, Do 4. Dezember: Sang-hoon kauft die vierzig Prozent von Hanseong (Schluss von Kapitel 25)
 - Tag 63, Fr 5. Dezember: der Apfelsatz faellt (Kapitel 26)
 - Tag 66, Mo 8. Dezember: Georgij bei den Kims, im eigenen Gebaeude (Kapitel 26)
+- Tag 67 bis 70, Di 9. bis Fr 12. Dezember: der Mietvertrag Woo/Hana (Kapitel 27)
 
 ### Die Fahrerwoche
 
@@ -1403,6 +1404,17 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 27** *Not out of your account* (v1.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+
+  **Der Zug selbst kostet niemanden etwas.** Woo faehrt ab Januar sieben Jahre Ankerladung durch Incheon und mietet Flaeche auf der falschen Strassenseite. Hana hat sechzehntausend Quadratmeter, die bis April leer stehen. Kein Makler, keine Provision, kein Anteil fuer Annie und keiner fuer Georgij - *"Because I do not have an account for one to go into."*
+
+  **Und die Wirkung ist strukturell:** Aus *Grundstueck mit Widmung* wird *Grundstueck mit Ertrag*. Damit ist die dritte Grundschuld gegen den Uplift kein Abgrund im Fruehjahr mehr, sondern eine Zeile in einem Tilgungsplan - und Hana ist ueber das Ministerium nicht mehr kippbar. Das schliesst ihren offenen Faden aus `doc/03-cast.md`.
+
+  **Sie nimmt es an, weil er es richtig benennt:** *"It is not a gift, it is arbitrage, and there is nothing in it for me at all, and I would like both of those to be true at the same time, because they are."* Und weil sein Grund nicht die Dachrinne ist, sondern der 21. November - sie hat die Frage nach dem Abend zurueckgenommen und damit das Einzige aufgegeben, was sie nie hergibt.
+
+  **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
+
+  **Ye-rin hat nicht zugesagt.** Sie hat gesagt, sie lasse es wissen - so wie vierzehn Mal davor, und so wie bei den zwei Malen, an denen sie kam.
 - **Kapitel 26** *The name and the control* (v1.0) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
@@ -3461,20 +3473,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 248 | 24 (01-26) | 1 | 59 |
-| Hana | 103 | 10 (09-26) | 6 | 55 |
-| Chairman Woo | 87 | 16 (07-26) | 3 | 59 |
+| Annie | 255 | 25 (01-27) | 1 | 59 |
+| Hana | 114 | 11 (09-27) | 6 | 55 |
+| Chairman Woo | 96 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
+| Kim Ye-rin | 16 | 6 (14-27) | 9 | 49 |
 | Kim Do-yun | 15 | 4 (14-26) | 6 | 46 |
-| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
+| Mr Ku | 7 | 6 (05-27) | 6 | 55 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
-| Mr Ku | 6 | 5 (05-24) | 6 | 55 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
@@ -3493,7 +3505,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-248 Nennungen in 24 Kapiteln.
+255 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3745,6 +3757,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | ch26:8 | "Say it," said Annie. |
 | 3 | ch26:30 | Annie turned the page over so that it lay face down. |
 | 3 | ch26:62 | Annie looked at him for a second longer than the sentence needed. |
+| 7 | ch27:8 | Annie looked up. |
+| 7 | ch27:24 | Annie put the pen down. |
+| 7 | ch27:38 | Annie was quiet for a second. |
+| 7 | ch27:50 | Annie sat back. |
+| 7 | ch27:64 | Annie looked at him for a moment. |
+| 7 | ch27:76 | Annie did not say anything for a while. |
+| 7 | ch27:98 | "Yes," said Annie. "That is what worries me." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3812,7 +3831,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-103 Nennungen in 10 Kapiteln.
+114 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3918,7 +3937,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:400 | Hana's face did not do anything. |
 | 49 | ch21:410 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 | 55 | ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
-| 6 | ch26:254 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
+| 6 | ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
+| 7 | ch27:22 | "Hana." |
+| 9 | ch27:140 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
+| 9 | ch27:152 | Hana looked at the cards. |
+| 9 | ch27:158 | "She said the same thing." Hana turned one of the cards over and put it back. "That is t.. |
+| 9 | ch27:178 | Hana did not touch the folder. |
+| 9 | ch27:196 | Hana was quiet for a long time. |
+| 9 | ch27:216 | "That is not a gift," said Hana. |
+| 9 | ch27:226 | Hana laughed. |
+| 9 | ch27:252 | Hana put the page down. |
+| 9 | ch27:264 | Hana looked at the fire for a moment. |
+| 9 | ch27:282 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3958,12 +3988,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:380` (Tag 49) - fifty-one, one
 - `ch21:410` (Tag 49) - one
 - `ch23:224` (Tag 55) - nineteen
+- `ch27:140` (Tag 9) - forty
+- `ch27:158` (Tag 9) - one, twelve
+- `ch27:282` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
 ### Chairman Woo
 
-87 Nennungen in 16 Kapiteln.
+96 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4052,8 +4085,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
 | 6 | ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
 | 6 | ch26:126 | "Woo does not sign these," said the cousin. |
-| 6 | ch26:206 | "The sixteenth. A house north of the river that belongs to a woman your sister has known.. |
-| 6 | ch26:302 | He put his hand back on Woo's contract. |
+| 6 | ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
+| 6 | ch26:310 | He put his hand back on Woo's contract. |
+| 7 | ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
+| 7 | ch27:66 | "You want to put Woo on her land." |
+| 7 | ch27:68 | "I want to put Woo's cargo on her land from January, at a market rate she sets herself, .. |
+| 9 | ch27:104 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
+| 9 | ch27:114 | Woo made a noise that was not a word. |
+| 9 | ch27:130 | Woo laughed, badly, the way he had laughed at his own crane in October. |
+| 9 | ch27:144 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
+| 9 | ch27:168 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
+| 9 | ch27:170 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4099,7 +4141,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:264` (Tag 59) - nine
 - `ch26:50` (Tag 3) - one, two
 - `ch26:118` (Tag 6) - seven
-- `ch26:206` (Tag 6) - eight, forty, nine, one, seven, twenty, two
+- `ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
+- `ch27:58` (Tag 7) - one, seven, three, two
+- `ch27:104` (Tag 9) - four, three
+- `ch27:144` (Tag 9) - one, seven
+- `ch27:170` (Tag 9) - forty, seven, twelve thousand
 
 ---
 
@@ -4536,40 +4582,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Kim Do-yun
-
-15 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
-| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
-| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:152 | "And Do-yun," said Georgij. |
-| 41 | ch15:184 | "Do-yun." |
-| 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 6 | ch26:92 | The third was Kim Do-yun. |
-| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
-| 6 | ch26:148 | Do-yun's face did nothing at all. |
-| 6 | ch26:196 | "You are unusually direct," said Do-yun. |
-| 6 | ch26:236 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | ch26:258 | Kim Do-yun got up and went to the window. |
-| 6 | ch26:268 | Do-yun turned round. |
-| 6 | ch26:278 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
-
-### Zahlen in der Naehe von Kim Do-yun
-
-- `ch14:22` (Tag 31) - one
-- `ch14:26` (Tag 31) - forty
-- `ch16:190` (Tag 46) - four hundred, one
-- `ch26:278` (Tag 6) - one
-
----
-
 ### Kim Ye-rin
 
-15 Nennungen in 5 Kapiteln.
+16 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4588,6 +4603,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:214 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
 | 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:238 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 9 | ch27:146 | "Ye-rin." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -4600,6 +4616,60 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:214` (Tag 49) - three
 - `ch21:218` (Tag 49) - eight, nine, one, seven
 - `ch21:238` (Tag 49) - nine
+
+---
+
+### Kim Do-yun
+
+15 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | ch15:152 | "And Do-yun," said Georgij. |
+| 41 | ch15:184 | "Do-yun." |
+| 41 | ch15:186 | "Do-yun." |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 6 | ch26:92 | The third was Kim Do-yun. |
+| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
+| 6 | ch26:148 | Do-yun's face did nothing at all. |
+| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
+| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
+| 6 | ch26:276 | Do-yun turned round. |
+| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+
+### Zahlen in der Naehe von Kim Do-yun
+
+- `ch14:22` (Tag 31) - one
+- `ch14:26` (Tag 31) - forty
+- `ch16:190` (Tag 46) - four hundred, one
+- `ch26:286` (Tag 6) - one
+
+---
+
+### Mr Ku
+
+7 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | ch24:346 | Mr Ku had the heater on. |
+| 7 | ch27:86 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
+- `ch27:86` (Tag 7) - one
 
 ---
 
@@ -4644,27 +4714,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:150` (Tag 1) - forty
 - `ch05:128` (Tag 4) - one, three, two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Mr Ku
-
-6 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | ch24:346 | Mr Ku had the heater on. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
 
 ---
 
