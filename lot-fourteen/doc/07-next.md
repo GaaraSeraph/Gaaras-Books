@@ -83,7 +83,7 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
   | Sorte | Stand |
   |---|---|
-  | Das am Telefon | ~~offen~~ **gesetzt**, Kapitel 12 v1.6, hinter *"Then it's a test," said Georgij pleasantly* |
+  | Das am Telefon | ~~offen~~ **gesetzt**, Kapitel 12 v1.7, hinter *"Then it's a test," said Georgij pleasantly* |
   | Das ans Publikum | offen, und die Stelle ist die Gala in Kapitel 8 und 9; das Prinzip steht schon in Kapitel 11 |
   | Das kalte | offen, gehoert ins Kim-Gespraech, an Do-yun |
   | Das zu fruehe | offen; Kapitel 16 geprueft und verworfen, braucht Do-yun statt Sang-hoon |
