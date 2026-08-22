@@ -255,6 +255,40 @@ Kuendigung, Urlaub, Vertrag im arbeitsrechtlichen Sinn. Was zwischen den beiden
 gilt, ist eine Schuldübernahme und ein Halsband, und die Sprache darf das nicht
 weichzeichnen.
 
+### 2g. Was ein Beat ist, und was keiner ist
+
+**Ein Beat ist eine kleine koerperliche Handlung zwischen zwei Redebloecken.**
+Er ist kein Schmuck. Er ist die Sprecherkennzeichnung, und er ersetzt das
+*sagte er*, das dieses Buch fast nie benutzt.
+
+> "I have not asked her."
+>
+> **Georgij put his coat over the back of the chair, which he had not intended
+> to do.**
+>
+> "You said a Tuesday."
+
+Ohne die mittlere Zeile liest man beide Repliken als Wechsel. Mit ihr ist klar,
+wer spricht, und man erfaehrt nebenbei etwas ueber den, der spricht.
+
+**Erlaubt:** Handlungen, Blicke, Haende, Gegenstaende, ein Gesicht, das sich
+nicht bewegt, ein Raum, der weitergeht. *"She turned her glass a quarter turn
+and left it there."* *"Annie did not move."* *"The fire did something and
+settled."*
+
+**Nicht erlaubt:** Kommentare ueber die Art des Sprechens. *"He kept his voice
+level"*, *"she let it be the size it was"*, *"without any pressure anywhere"*.
+Das etikettiert den Ton, statt etwas zu tun, und `check.py` meldet die
+bekannten Formeln.
+
+**Das Musterbeispiel** steht in Kapitel 17, Annies Rede an der Flurkreuzung:
+vier Bloecke, vier Beats, kein einziger Sprechertag noetig. Nichts bewegt sich
+im Gesicht, dann der Blick vom Stuhl weg, dann zwei Finger auf der Lehne, dann
+*Her hand stayed where it was*.
+
+**Wo Beats fehlen, siehe Punkt 2e** - es passiert fast immer beim Teilen von
+Bandwurmsaetzen in direkter Rede.
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**
@@ -318,6 +352,22 @@ Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.
 Dann noch einmal lesen.
 
 ---
+
+## Werkzeuge
+
+**Kein Heredoc fuer Python mit Backslashes.** Die Shell frisst den Backslash,
+bevor Python ihn sieht: Aus `r"\n\s*\n"` wird in der Datei ein echter
+Zeilenumbruch und damit ein SyntaxError, und im schlimmeren Fall ein Regex, der
+klaglos etwas anderes trifft. Das ist am 22. August zweimal passiert, einmal in
+`check.py` und einmal bei einer Absatzteilung.
+
+**Die Regel:** Alles mit Regex, `\n`, `\t` oder sonstigen Escapes geht ueber das
+Datei-Werkzeug oder ueber eine eigene `.py`-Datei. Heredoc bleibt fuer reine
+Textersetzung ohne einen einzigen Backslash.
+
+**Und die Gegenprobe dazu**, weil ein SyntaxError laut ist, ein falscher Regex
+aber nicht: Nach jedem Eingriff in `check.py` einmal absichtlich etwas
+kaputtmachen und nachsehen, ob es feuert. Ein stiller Lauf beweist nichts.
 
 ## Prosaregeln
 

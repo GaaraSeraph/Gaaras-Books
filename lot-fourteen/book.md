@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.963 Woerter.
+27 Kapitel. 80.966 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v2.0 | 4.689 |
+| 27 | v2.1 | 4.692 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8254,7 +8254,7 @@ She picked the pen up again, which meant it was decided, and did not say so, whi
 
 "No."
 
-"I mean it. Not because it is beneath her." She was already looking at the page again. "Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."
+"I mean it. Not because it is beneath her." She was already looking at the page again. "Because she will not be able to accept it, and she will still have nothing, and she will have learned to be careful with you. And then I will have lost the only person in this city who tells me things."
 
 "I know exactly how I am going to put it," said Georgij.
 

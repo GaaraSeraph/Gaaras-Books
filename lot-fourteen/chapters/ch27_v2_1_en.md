@@ -1,5 +1,5 @@
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -105,7 +105,7 @@ She picked the pen up again, which meant it was decided, and did not say so, whi
 
 "No."
 
-"I mean it. Not because it is beneath her." She was already looking at the page again. "Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."
+"I mean it. Not because it is beneath her." She was already looking at the page again. "Because she will not be able to accept it, and she will still have nothing, and she will have learned to be careful with you. And then I will have lost the only person in this city who tells me things."
 
 "I know exactly how I am going to put it," said Georgij.
 

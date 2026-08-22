@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.244 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.594 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -17,6 +17,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [2d. Die Stiftshuette](#2d-die-stiftshuette)
   - [2e. Wer spricht gerade](#2e-wer-spricht-gerade)
   - [2f. Gekauft, nicht angestellt](#2f-gekauft-nicht-angestellt)
+  - [2g. Was ein Beat ist, und was keiner ist](#2g-was-ein-beat-ist-und-was-keiner-ist)
   - [3. Rueckbezug](#3-rueckbezug)
   - [4. Die Laecheln](#4-die-laecheln)
   - [5. Satzzeichen](#5-satzzeichen)
@@ -394,6 +395,40 @@ Kuendigung, Urlaub, Vertrag im arbeitsrechtlichen Sinn. Was zwischen den beiden
 gilt, ist eine Schuldübernahme und ein Halsband, und die Sprache darf das nicht
 weichzeichnen.
 
+### 2g. Was ein Beat ist, und was keiner ist
+
+**Ein Beat ist eine kleine koerperliche Handlung zwischen zwei Redebloecken.**
+Er ist kein Schmuck. Er ist die Sprecherkennzeichnung, und er ersetzt das
+*sagte er*, das dieses Buch fast nie benutzt.
+
+> "I have not asked her."
+>
+> **Georgij put his coat over the back of the chair, which he had not intended
+> to do.**
+>
+> "You said a Tuesday."
+
+Ohne die mittlere Zeile liest man beide Repliken als Wechsel. Mit ihr ist klar,
+wer spricht, und man erfaehrt nebenbei etwas ueber den, der spricht.
+
+**Erlaubt:** Handlungen, Blicke, Haende, Gegenstaende, ein Gesicht, das sich
+nicht bewegt, ein Raum, der weitergeht. *"She turned her glass a quarter turn
+and left it there."* *"Annie did not move."* *"The fire did something and
+settled."*
+
+**Nicht erlaubt:** Kommentare ueber die Art des Sprechens. *"He kept his voice
+level"*, *"she let it be the size it was"*, *"without any pressure anywhere"*.
+Das etikettiert den Ton, statt etwas zu tun, und `check.py` meldet die
+bekannten Formeln.
+
+**Das Musterbeispiel** steht in Kapitel 17, Annies Rede an der Flurkreuzung:
+vier Bloecke, vier Beats, kein einziger Sprechertag noetig. Nichts bewegt sich
+im Gesicht, dann der Blick vom Stuhl weg, dann zwei Finger auf der Lehne, dann
+*Her hand stayed where it was*.
+
+**Wo Beats fehlen, siehe Punkt 2e** - es passiert fast immer beim Teilen von
+Bandwurmsaetzen in direkter Rede.
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**
@@ -457,6 +492,22 @@ Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.
 Dann noch einmal lesen.
 
 ---
+
+## Werkzeuge
+
+**Kein Heredoc fuer Python mit Backslashes.** Die Shell frisst den Backslash,
+bevor Python ihn sieht: Aus `r"\n\s*\n"` wird in der Datei ein echter
+Zeilenumbruch und damit ein SyntaxError, und im schlimmeren Fall ein Regex, der
+klaglos etwas anderes trifft. Das ist am 22. August zweimal passiert, einmal in
+`check.py` und einmal bei einer Absatzteilung.
+
+**Die Regel:** Alles mit Regex, `\n`, `\t` oder sonstigen Escapes geht ueber das
+Datei-Werkzeug oder ueber eine eigene `.py`-Datei. Heredoc bleibt fuer reine
+Textersetzung ohne einen einzigen Backslash.
+
+**Und die Gegenprobe dazu**, weil ein SyntaxError laut ist, ein falscher Regex
+aber nicht: Nach jedem Eingriff in `check.py` einmal absichtlich etwas
+kaputtmachen und nachsehen, ob es feuert. Ein stiller Lauf beweist nichts.
 
 ## Prosaregeln
 
@@ -1492,7 +1543,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v2.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v2.1) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
