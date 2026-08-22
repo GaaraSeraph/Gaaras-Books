@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 47.448 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 47.861 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1759,21 +1759,58 @@ Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt
 
 **Nichts blosser Kraenkung.** Sie liest sein Notizbuch, sie sagt etwas Hartes, sie erniedrigt ihn: Das alles absorbiert er. Er hat siebzehn Jahre in elf Haeusern absorbiert. **Was ihn gehen laesst, muss sein Bleiben zur Unfaehigkeit erklaeren**, denn genau das widerlegt er mit dem Weggehen.
 
-#### Der Anlass: sie prueft ihn mit etwas Unwahrem
+#### Der Anlass: Sang-hoon fragt, was er kostet
 
-Block J nennt ihr Motiv im Voraus: *"Ich wollte sehen, ob du zerbrechen wuerdest."* Sie testet. Bei diesem Mann funktioniert genau ein Test.
+**Entschieden am 22.08. vom Autor.** Verworfen ist die Fassung, in der Annie ihm
+etwas Unwahres unterschiebt: Georgij wuerde nicht luegen, sondern ihr Ergebnis
+ohne Luege liefern, so wie er es im ganzen Buch tut. Sie haette nichts erfahren.
 
-**Sie gibt ihm etwas Unwahres.** Klein und ueberpruefbar, eine Zahl oder ein Datum. Er traegt es in gutem Glauben weiter, und dann findet er es heraus. Damit ist er zu einer Unwahrheit gebracht worden, ohne es zu wissen, und das ist das Einzige, worauf er gebaut ist.
+**Der Ort: Sang-hoon kommt auf das Anwesen.** Das zahlt die geladenste Stelle aus
+Kapitel 16 aus, die vierte Wand: *"Do you sleep in her house?"* Er hat keine
+Antwort bekommen, also kommt er und sieht nach. Und auf ihrem Boden gehoert die
+Vorfuehrung ihr; in einem neutralen Raum waere es eine Szene, in ihrem Haus ist
+es eine Feststellung. Die beiden Prinzipale sitzen zum ersten Mal in einem Raum,
+und Georgij ist dabei.
 
-**Warum sie es tut, ist der eigentliche Bruch.** Um zu sehen, ob er sie noch nachrechnet, so wie er jeden anderen Menschen in dieser Stadt nachrechnet. Er hat nicht nachgerechnet, weil er aufgehoert hat, und er hat ihr das in Kapitel 17 selbst gesagt:
+**Sang-hoon fragt vor ihr, was Georgij kosten wuerde.** Er will nicht kaufen. Er
+will wissen, was Georgij **ihr** wert ist. An der Tuer in Kapitel 16 hat er
+gesagt, Georgij sei entweder genau das, wonach er aussieht, oder das bestgemachte
+Ding, das ihm je jemand vorgesetzt hat. Die Preisfrage vor der Besitzerin ist die
+billigste Art, das zu klaeren, und sie kostet ihn nichts.
 
-> "I did not decide to stop. It stopped being the first thing I did in a room and I did not notice it stopping."
+**Annie benutzt die Fernbedienung. Einmal.**
 
-**Sie hat den einen aufrichtigen Satz seines Lebens ueberprueft, indem sie ihn gegen ihn selbst gestellt hat.** Er faellt durch, weil der Satz wahr war.
+**Der Vorwand traegt, weil er wahr ist.** Es gibt keine sprachliche Erwiderung,
+die funktioniert: Jede Zahl ist eine Zahl, keine Zahl zu nennen ist kokett, und
+Sang-hoon haette monatelang weitersondiert - er hat in Kapitel 18 gerade eine
+Abschlagszahlung geleistet, um das Konto offen zu halten. Sie beendet es in der
+einen Sekunde, nach der niemand mehr fragt.
 
-**Noch zu bestimmen:** welche unwahre Sache. Sie muss klein genug sein, um niemanden zu beschaedigen, und gross genug, dass er sie in zehn Minuten haette pruefen koennen und es nicht getan hat. Nichts, was Woo, Ye-rin oder die Kims trifft.
+**Was darunter liegt und erst auf der Bruecke herauskommt:** Sie hat gedrueckt,
+damit Georgij nicht antworten muss. Er hatte ihr acht Tage vorher im Wagen
+gesagt, dass er es meint. Sang-hoons Frage war der einzige verfuegbare Test
+dafuer, und sie hat die Antwort nicht abgewartet, weil sie sie nicht wissen
+wollte. **Sie hat ihm die Wahl abgenommen.**
+
+**Und genau deshalb geht er.** Nicht wegen der Schmerzen, er hat siebzehn Jahre
+Akte. Weil sie vor einem Zeugen vorgefuehrt hat, dass er nicht waehlen kann. Die
+einzige Widerlegung ist, einmal zu waehlen.
+
+**Das Detail, das die Szene vor der Kaelte rettet:** Annie bricht damit ihre
+eigene Regel. Kapitel 12 ueber das Halsband, aus ihrem Mund: *"Not shown. Not
+announced. Found."* Sie hat es selbst so angeordnet, und dann fuehrt sie es vor.
+Daran erkennt man, dass es keine Strategie war.
+
+**Was sie dabei ausdruecklich nicht tut:** Sie gibt es nicht der Sicherung. Sie
+weiss aus Kapitel 1 und 2, was aus dem Geraet herauskommt - ein Mann kam durch
+ihren eigenen Korridor an ihren Leuten vorbei, und einer hat ein Auge verloren.
+Sie tut es selbst und bleibt danach stehen. Und es kommt nichts heraus. Er ruehrt
+sie nicht an. Das ist erschreckender, als wenn er es getan haette, und es ist die
+Antwort auf ihre Frage aus Block J.
 
 #### Der Ablauf
+
+**Der zweite Teil spielt spaeter, wenn sie allein auf dem Anwesen sind.**
 
 1. Er benennt es, praezise und ohne ein unwahres Wort: **"We had a deal. Quid pro quo. You broke it."** Das ist die Klausel aus Kapitel 1, die greift: *"Give me respect and you'll have my obedience. Give me the other thing, the way the four houses before you did, and I'll be exactly what my file says I am."* Es ist keine Auflehnung, sondern der Vertrag, der wie geschrieben funktioniert. Deshalb darf er gehen, und deshalb kann er zurueckkommen, ohne ihn zu erneuern.
 2. Sie kommt zu ihm und legt **zwei Finger unter die Vorderkante des Halsbands.** Das ist die Geste des Schneiders aus Kapitel 5 - *"put two fingers under the front edge of the collar to find where it sat against the throat"* - einmal zum Massnehmen und einmal zum Erinnern. Dritter Auftritt des Motivs, veraendert.
@@ -1782,6 +1819,25 @@ Block J nennt ihr Motiv im Voraus: *"Ich wollte sehen, ob du zerbrechen wuerdest
 5. Er wartet, bis sie draussen ist. **Dann geht er, am selben Tag.**
 
 **Kein Auftritt und keine Tuer.** Er wartet, bis der Raum leer ist, und entfernt sich.
+
+**Zwei Stuecke aus dem gestrichenen Block H kommen hier unter:**
+
+- **Die Peitschen-Replik**, und an dieser Stelle wird sie brutal, weil sie es
+  gerade getan hat:
+
+  > "Mein Vater haette dich dafuer auspeitschen lassen."
+  > "**Tu Dir keinen Zwang an.**"
+
+- **Die Zigarette.** Bevor er geht, bittet er jemanden vom Personal um eine
+  Packung und Feuer - Jang oder wen sonst. Damit ist die Herkunftsschuld erledigt,
+  an der die Geste in Block H haengengeblieben ist, und zwar in einer halben
+  Zeile am Ort selbst statt in einem frueheren Kapitel. Ausserdem ist es der
+  letzte Auftritt des Haushalts vor dem Schluss, und `doc/07-next.md` verzeichnet
+  dessen Verschwinden seit Kapitel 13 als offene Baustelle.
+
+  **Es ist ausserdem das Einzige, worum er im ganzen Buch fuer sich selbst
+  bittet**, und er bittet einen Bediensteten und nicht seine Besitzerin. Auf dem
+  Beton nimmt Annie sie ihm dann weg, raucht einen Zug und drueckt sie aus.
 
 #### Warum am selben Tag
 
