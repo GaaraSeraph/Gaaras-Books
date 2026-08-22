@@ -1,5 +1,5 @@
 Chapter 12: You are better when you don't know
-Lot Fourteen · Version 1.4 · EN
+Lot Fourteen · Version 1.5 · EN
 
 Day Twenty-Three · Sunday 26 October
 
@@ -65,7 +65,7 @@ Not on the twenty-third and not on the twenty-fourth. He saw her twice, once in 
 
 So he worked.
 
-The syndicate on Woo's terminal turned out to be nine institutions, which meant nine sets of filings, and by the second evening he had reduced the nine to three that had taken a position large enough to require an internal approval, and an approval requires a name at the bottom.
+The syndicate on Woo's terminal turned out to be nine institutions, which meant nine sets of filings. By the second evening he had reduced the nine to three that had taken a position large enough to require an internal approval. An approval requires a name at the bottom.
 
 It was slow and it was extremely dull and it was exactly the kind of work he had been doing since he was seventeen.
 
@@ -193,7 +193,7 @@ He sat down.
 
 "Why not?"
 
-"Because if I say it, you will spend the next two weeks deciding how to behave in a room, and you will get it exactly right, and getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment. It should not be true and it is."
+"Because if I say it, you will spend the next two weeks deciding how to behave in a room. You will get it exactly right. Getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment. It should not be true and it is."
 
 Georgij did not say anything.
 
@@ -275,4 +275,4 @@ Annie looked at him across the desk for what felt like a considerable time.
 
 "No," she said.
 
-And it was true, and both of them knew it was true, and Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word unverifiable.
+And it was true, and both of them knew it was true. Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word unverifiable.

@@ -193,7 +193,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:158 | Annie did not say anything. |
 | 41 | ch15:166 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
 | 41 | ch15:168 | "He does," said Annie. |
-| 41 | ch15:194 | He gave her the three that meant nothing to him and he gave her the fourth, because it w.. |
+| 41 | ch15:194 | He gave her the three that meant nothing to him. He gave her the fourth. Because it was .. |
 | 41 | ch15:196 | Annie's face did nothing at all. |
 | 41 | ch15:234 | Annie said nothing whatsoever. |
 | 41 | ch15:276 | "And what is it for?" said Annie. |

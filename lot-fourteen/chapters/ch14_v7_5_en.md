@@ -1,13 +1,13 @@
-Chapter 14: In the same size type
-Lot Fourteen · Version 7.4 · EN
+# Chapter 14: In the same size type
+*Lot Fourteen* · Version 7.5 · EN
 
-Day Thirty-One · Monday 3 November
+## Day Thirty-One · Monday 3 November
 
 He closed the faces with photographers.
 
 It should have occurred to him in the ballroom and it had not, which annoyed him for two days. Four consecutive years of the same evening, two firms covering all four, and neither of them had ever deleted anything, because no photographer in the history of the trade has ever deleted anything.
 
-He bought a licence for the whole of that year's set from the smaller of the two firms, as an adviser buying pictures of an event his employer had attended, which is a boring and entirely ordinary thing to do.
+He bought a licence for the whole of that year's set from the smaller of the two firms. An adviser buying pictures of an event his employer had attended, which is a boring and entirely ordinary thing to do.
 
 Two thousand one hundred and six frames.
 
@@ -21,7 +21,7 @@ And in sixteen of the twenty-three frames in which the family appeared, she was 
 
 The one who kept fetching drinks was Kim Do-yun.
 
-* * *
+---
 
 He had been wrong about Kim Do-yun and it took him about forty seconds with the photographs to find out.
 
@@ -47,13 +47,13 @@ It was the second time in a fortnight that his reading of a person had been hand
 
 He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it.
 
-* * *
+---
 
-Day Thirty-Three · Wednesday 5 November
+## Day Thirty-Three · Wednesday 5 November
 
 Hanseong came out of the wrong drawer.
 
-He had been mapping shipping routes for ten days, because the Kims' logistics arm ran seven of them and he wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
+He had been mapping shipping routes for ten days, because the Kims' logistics arm ran seven of them. He wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
 
 Route work means looking at everybody else on the same water.
 
@@ -69,9 +69,9 @@ Georgij read the whole thing twice and then sat very still.
 
 Then he began to write.
 
-* * *
+---
 
-Day Thirty-Four · Thursday 6 November
+## Day Thirty-Four · Thursday 6 November
 
 He went to her on the second day of the writing, with eight pages of it done and nothing in his hands.
 
@@ -129,7 +129,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "Go on."
 
-"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again, and underneath every one of your supply contracts there is a delivery clause with a number in it, and the number is not there to be reasonable."
+"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again, Underneath every one of your supply contracts there is a delivery clause with a number in it. The number is not there to be reasonable."
 
 "You have read my contracts."
 
@@ -163,13 +163,13 @@ It was not one he had built. It came up slowly, from somewhere behind the courte
 
 It was also the first time in thirty-four days that he had aimed anything of the kind at her.
 
-He was aware of it about a second after it was on him, and he did not put it away, because putting it away would have been a second lie in a room where he had just refused the first one.
+He was aware of it about a second after it was on him, and he did not put it away. Putting it away would have been a second lie in a room where he had just refused the first one.
 
 Annie looked at him for rather longer than a moment.
 
 "Does it work because it is true?"
 
-"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says this is a guess in the middle of it."
+"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says *this is a guess* in the middle of it."
 
 "Could you have written it if it had not been true?"
 
@@ -189,7 +189,7 @@ Then she squared them and put them down.
 
 "Finish it," she said.
 
-* * *
+---
 
 "There's a second thing."
 
@@ -228,3 +228,4 @@ Annie looked at him for a moment.
 "That's the whole of the cost."
 
 "Next Thursday," said Annie.
+

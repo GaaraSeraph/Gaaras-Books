@@ -1,22 +1,22 @@
 # Erzeugt von build.py. Ergebnis, nicht Eingabe.
 
-ch01  v6.3       2412 Woerter  ch01_v6_3_en.md
-ch02  v11.6       3174 Woerter  ch02_v11_6_en.md
-ch03  v2.6       3380 Woerter  ch03_v2_6_en.md
-ch04  v1.8       2456 Woerter  ch04_v1_8_en.md
+ch01  v6.4       2410 Woerter  ch01_v6_4_en.md
+ch02  v11.7       3167 Woerter  ch02_v11_7_en.md
+ch03  v2.7       3374 Woerter  ch03_v2_7_en.md
+ch04  v1.9       2443 Woerter  ch04_v1_9_en.md
 ch05  v5.8       4340 Woerter  ch05_v5_8_en.md
-ch06  v1.5       2083 Woerter  ch06_v1_5_en.md
+ch06  v1.6       2069 Woerter  ch06_v1_6_en.md
 ch07  v6.4       3856 Woerter  ch07_v6_4_en.md
 ch08  v3.5       2677 Woerter  ch08_v3_5_en.md
 ch09  v3.3       3119 Woerter  ch09_v3_3_en.md
-ch10  v2.2       2984 Woerter  ch10_v2_2_en.md
+ch10  v2.3       2980 Woerter  ch10_v2_3_en.md
 ch11  v2.7       2724 Woerter  ch11_v2_7_en.md
-ch12  v1.4       2317 Woerter  ch12_v1_4_en.md
+ch12  v1.5       2312 Woerter  ch12_v1_5_en.md
 ch13  v2.4       2828 Woerter  ch13_v2_4_en.md
-ch14  v7.4       2609 Woerter  ch14_v7_4_en.md
-ch15  v2.2       4212 Woerter  ch15_v2_2_en.md
+ch14  v7.5       2604 Woerter  ch14_v7_5_en.md
+ch15  v2.3       4210 Woerter  ch15_v2_3_en.md
 ch16  v1.10      3135 Woerter  ch16_v1_10_en.md
 ch17  v12.2       2568 Woerter  ch17_v12_2_en.md
 
-Gesamt: 17 Kapitel, 50874 Woerter
+Gesamt: 17 Kapitel, 50816 Woerter
 Handbuch: 9 Dokumente

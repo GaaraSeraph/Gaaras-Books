@@ -1,7 +1,7 @@
-Chapter 4: Count again
-Lot Fourteen · Version 1.8 · EN
+# Chapter 4: Count again
+*Lot Fourteen* · Version 1.9 · EN
 
-Day 2 · Sunday 5 October
+*Day 2 · Sunday 5 October*
 
 He woke at ten past five because the light came in from the east, and he lay still for a while and listened to a house he did not know yet.
 
@@ -13,13 +13,13 @@ The clothes were folded on the floor in the corridor. A grey shirt, dark trouser
 
 The shirt was too wide across the shoulders and the trousers were exactly right in the leg, which meant they had belonged to somebody who was not exactly his shape and who was not in the house any more. He did not ask, then or later.
 
-He dressed and turned his own collar down, and looked at what the mirror gave him back, which was a man in borrowed clothing with a band of black steel sitting close under the jaw and nothing at all in his face.
+He dressed and turned his own collar down, and looked at what the mirror gave him back. A man in borrowed clothing, with a band of black steel sitting close under the jaw. Nothing at all in his face.
 
-Then he sat in the chair by the window for twenty minutes and watched the east lawn come up out of the dark, the flat grass and the wall at the end of it and the roses along the base of the wall going from black to green.
+Then he sat in the chair by the window for twenty minutes and watched the east lawn come up out of the dark. The flat grass, and the wall at the end of it, and the roses along the base of the wall going from black to green.
 
 He went down at five to seven, because Mrs Seo had said seven.
 
-* * *
+---
 
 The kitchen was at the north end and it had one long scrubbed table in it and a smaller one by the window with three chairs.
 
@@ -43,7 +43,7 @@ He had watched a man do a version of that six hours earlier and had taken his ey
 
 So he sat where she put him, and he was still sitting there when a gardener came in for coffee, looked at his throat for slightly too long, and took the coffee outside.
 
-* * *
+---
 
 At two minutes past seven Annie came into the kitchen.
 
@@ -51,7 +51,7 @@ Ji-won stopped with a plate in each hand.
 
 Annie was dressed for the day, jacket on, and she came in the way somebody comes into a room they own and had until that morning not particularly used. She took a cup off the hook by the window herself. She poured her own coffee. Nobody got there first, because nobody had worked out that they were supposed to.
 
-She went past the small table by the window, which was where anybody in that kitchen would have put her if she had asked, and sat down at the far end of the long one, with her back to the glass and the whole length of scrubbed wood between herself and Georgij.
+She went past the small table by the window, which was where anybody in that kitchen would have put her if she had asked, and sat down at the far end of the long one. Her back to the glass, and the whole length of scrubbed wood between herself and Georgij.
 
 "Good morning," she said, to the room.
 
@@ -59,7 +59,7 @@ She went past the small table by the window, which was where anybody in that kit
 
 Nobody explained anything. Nobody asked.
 
-Ji-won put the plates down and then had to be told twice where the second one went. Mrs Seo produced eggs, and toast, and a small dish of something pickled, and did all of it at exactly the speed she would have done it anyway, which was the most impressive thing Georgij had seen since the gavel.
+Ji-won put the plates down and then had to be told twice where the second one went. Mrs Seo produced eggs, and toast, and a small dish of something pickled. She did all of it at exactly the speed she would have done it anyway. The most impressive thing Georgij had seen since the gavel.
 
 Annie ate about a third of what was in front of her, drank all of the coffee, and read nothing while she did it.
 
@@ -85,9 +85,9 @@ Mrs Seo wiped the same part of the counter twice. Then she said, without turning
 
 Georgij smiled at her. He was not after anything with it, and she would have known if he had been.
 
-* * *
+---
 
-She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study, and the study turned out to be the room on the right off the hall, the one that had been shut on the first night.
+She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study. The study turned out to be the room on the right off the hall. It was the one that had been shut on the first night.
 
 Two things were lying on the desk. A laptop, closed, and a telephone, face down.
 
@@ -141,23 +141,23 @@ He was at the door when she spoke again.
 
 "I'd count again before the tailor comes."
 
-* * *
+---
 
 He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brought without being asked and left just outside his reach, which he decided was an accident.
 
 By four he had the hotel, the date, the charity that was nominally hosting the thing, its board, its four previous years of the same evening, and the two photographers who had covered all four. Photographers keep everything. Nobody has ever once told a photographer to delete anything.
 
-By six he had a shape but not a list, and he had learned enough to know that the list was going to come out of a florist or a car service and not out of anything with a name on the door.
+By six he had a shape but not a list. He had learned enough to know that the list was going to come out of a florist or a car service. Not out of anything with a name on the door.
 
 He shut the laptop at nine.
 
 Then he waited until the house had gone quiet, and at half past eleven he went round turning off lights.
 
-* * *
+---
 
 Twenty-two he already had.
 
-He stood in the dark of the long room with the telephone held up in front of his face, using the camera on the front of it, because the one on the back had a filter behind the lens that ate most of what he was looking for.
+He stood in the dark of the long room with the telephone held up in front of his face, using the camera on the front of it. The one on the back had a filter behind the lens that ate most of what he was looking for.
 
 The room came back to him on the screen in grey and grain. In the upper corner, where he knew the lens was, there was a small hard cluster of white that was not there when he lowered the phone.
 
@@ -167,7 +167,7 @@ He walked the ground floor in the dark, room by room, and confirmed each of the 
 
 Then he stood in the hall and lifted the phone, and the hall gave him a bloom of white above the front door, where he had not once thought to look.
 
-The twenty-third was over the front door. Not in the upper corner of the room, which was where all the others were, but flush in the moulding above the doorframe, tilted down at something much shallower than forty-five degrees, and looking at a strip of the hall perhaps two metres long.
+The twenty-third was over the front door. Not in the upper corner of the room, which was where all the others were, but flush in the moulding above the doorframe. Tilted down at something much shallower than forty-five degrees. Looking at a strip of the hall perhaps two metres long.
 
 Georgij lowered the phone and looked at what was in that strip with his own eyes.
 
@@ -175,7 +175,7 @@ The stone shelf. The bowl for the keys. And the remote, still lying next to the 
 
 He stood there for a while.
 
-That shelf had been photographed for years and would go on being photographed every day he lived in this house. Nobody in Yeouido was ever going to look at any of it. She would. That was the whole of the difference, and what it meant was that there would eventually be a file showing a man in a collar reaching for the thing on that shelf, or a file showing him not reaching for it, and there was no third file.
+That shelf had been photographed for years and would go on being photographed every day he lived in this house. Nobody in Yeouido was ever going to look at any of it. She would. That was the whole of the difference. What it meant was that there would eventually be a file showing a man in a collar reaching for the thing on that shelf, or a file showing him not reaching for it. There was no third file.
 
 Then he went up to the landing window on the first floor, put the lens flat against the cold glass to kill the reflection, and looked east.
 
@@ -183,7 +183,7 @@ The twenty-fourth was in the eaves above the ground-floor windows on that side, 
 
 He put the phone in his pocket and went to find her.
 
-* * *
+---
 
 She was in the study with one lamp on.
 
@@ -219,7 +219,7 @@ He waited. She let the lamp hum.
 
 "Nothing. It's a good place for a camera. Anybody who comes through that door either puts something on that shelf or takes something off it." He looked at the desk for a moment. "I'd have wanted the same picture."
 
-That was true, and it was also not the whole of what he had stood in the hall thinking about, and he did not offer her the rest of it because she had not paid for the rest of it.
+That was true. It was also not the whole of what he had stood in the hall thinking about. He did not offer her the rest of it, because she had not paid for the rest of it.
 
 He asked the only question he had actually come to ask.
 

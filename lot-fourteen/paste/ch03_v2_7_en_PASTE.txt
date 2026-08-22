@@ -1,5 +1,5 @@
 Chapter 3: Dead angles
-Lot Fourteen · Version 2.6 · EN
+Lot Fourteen · Version 2.7 · EN
 
 Day 1 · Saturday 4 October
 
@@ -11,7 +11,7 @@ Annie's footsteps went away down the hall and stopped, and a door closed somewhe
 
 He stood where she had left him and did what he always did, which took about nine seconds and had never once been a decision.
 
-Two doors off the hall, the left one open onto dark and the right one shut. A staircase going up along the far wall with nothing on the inner side to hold. At the end of the hall a wall of glass from floor to ceiling, and behind it the hill going down and the city a long way off, which meant the glass faced south and the drive he had come up faced north.
+Two doors off the hall, the left one open onto dark and the right one shut. A staircase going up along the far wall with nothing on the inner side to hold. At the end of the hall a wall of glass from floor to ceiling, and behind it the hill going down and the city a long way off. That meant the glass faced south and the drive he had come up faced north.
 
 Four ways out of the hall, counting the stairs. The only one he had ever used was behind him.
 
@@ -59,7 +59,7 @@ Mrs Seo looked at him for a moment.
 
 The girl was about twenty and had been standing on the third step for the whole of it.
 
-She went up ahead of him with a torch she didn't need, because every second light in the house was on, and she kept turning round to check that he was still there, and each time she did it she apologised.
+She went up ahead of him with a torch she didn't need, because every second light in the house was on, and she kept turning round to check that he was still there. Each time she did it she apologised.
 
 "It's a nice house," Georgij said.
 
@@ -109,7 +109,7 @@ She had told him in the car that he would not be kept in a room that locked. She
 
 He did not turn it.
 
-He sat on the edge of the bed with the coat still on, because it was the only thing anybody had given him to keep and he had not yet decided how to feel about that, and he sat there a while.
+He sat on the edge of the bed with the coat still on, because it was the only thing anybody had given him to keep and he had not yet decided how to feel about that. And he sat there a while.
 
 Then he went to have a look at the house.
 
@@ -131,7 +131,7 @@ Below it the ground went out flat for about twenty metres to a wall, and along t
 
 Georgij stood at the window for some time.
 
-Then he counted the exits, and there were three of them, and one of them was the front door he had come in through, and one of them was the garage, and the third one was a door off the kitchen that would put him out on the north side in front of the gatehouse.
+Then he counted the exits. There were three of them. One of them was the front door he had come in through, and one of them was the garage. The third one was a door off the kitchen that would put him out on the north side in front of the gatehouse.
 
 * * *
 
@@ -187,7 +187,7 @@ He stopped at a courteous distance and waited to be spoken to.
 
 "Say the thing you've come up here to say."
 
-"You have twenty-two cameras and they're all in the same place." He said it without any particular emphasis, because it did not need one. "Upper corner, tilted down at about forty-five. That angle is for a man coming in through a window. It gives you a clean picture of anyone crossing the middle of a room and it gives you nothing at all about anyone standing under it, and there's a metre and a half of dead floor beneath every single one. Behind the columns you have the same again, and the columns are in the room you'd put people in."
+"You have twenty-two cameras and they're all in the same place." He said it without any particular emphasis, because it did not need one. "Upper corner, tilted down at about forty-five. That angle is for a man coming in through a window. It gives you a clean picture of anyone crossing the middle of a room and it gives you nothing at all about anyone standing under it. There's a metre and a half of dead floor beneath every single one. Behind the columns you have the same again, and the columns are in the room you'd put people in."
 
 "Go on."
 
@@ -217,7 +217,7 @@ Georgij was quiet for a moment. He had come up the corridor expecting to be tole
 
 "That's a great deal of trouble to go to for somewhere to sit."
 
-"It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie said. "The recordings go to a company in Yeouido. A man I have never met looks at them if I ask him to, and once a quarter he sends an invoice with the number of hours on it, and the number has been the same for four years, which means he is not looking at them and is not even troubling to lie about it well." She turned her head. "Nobody watches this house except me."
+"It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie said. "The recordings go to a company in Yeouido. A man I have never met looks at them if I ask him to, and once a quarter he sends an invoice with the number of hours on it, and the number has been the same for four years. Which means he is not looking at them and is not even troubling to lie about it well." She turned her head. "Nobody watches this house except me."
 
 "And tonight you were watching."
 
@@ -229,7 +229,7 @@ He inclined his head, and meant it.
 
 "Quid pro quo."
 
-He said it lightly, the way you name the day of the week, and did not put anything on top of it, and Annie let it go past without picking it up, which he thought was probably the correct handling.
+He said it lightly, the way you name the day of the week, and did not put anything on top of it. Annie let it go past without picking it up, which he thought was probably the correct handling.
 
 "The system isn't wrong," she said. "It's a house, not a facility. If I built it against the people who live in it, I would have to live in it."
 
@@ -281,7 +281,7 @@ She went west along the corridor. The door that closed behind her was at the far
 
 She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywhere at any time except breakfast, which had been Mrs Seo's instruction and not hers.
 
-She had used his name. He worked out, standing at the crossing after she had gone, that it was the first time anybody in the house had said it to him, and that somewhere in the last five hours he had stopped being told and started being watched instead, and he was not yet sure which of the two was more expensive.
+She had used his name. He worked out, standing at the crossing after she had gone, that it was the first time anybody in the house had said it to him. And that somewhere in the last five hours he had stopped being told and started being watched instead, and he was not yet sure which of the two was more expensive.
 
 He went down the east corridor to the room with the good window and the brass key.
 

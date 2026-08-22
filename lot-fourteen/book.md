@@ -2,35 +2,35 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.874 Woerter.
+17 Kapitel. 50.816 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.3 | 2.412 |
-| 02 | v11.6 | 3.174 |
-| 03 | v2.6 | 3.380 |
-| 04 | v1.8 | 2.456 |
+| 01 | v6.4 | 2.410 |
+| 02 | v11.7 | 3.167 |
+| 03 | v2.7 | 3.374 |
+| 04 | v1.9 | 2.443 |
 | 05 | v5.8 | 4.340 |
-| 06 | v1.5 | 2.083 |
+| 06 | v1.6 | 2.069 |
 | 07 | v6.4 | 3.856 |
 | 08 | v3.5 | 2.677 |
 | 09 | v3.3 | 3.119 |
-| 10 | v2.2 | 2.984 |
+| 10 | v2.3 | 2.980 |
 | 11 | v2.7 | 2.724 |
-| 12 | v1.4 | 2.317 |
+| 12 | v1.5 | 2.312 |
 | 13 | v2.4 | 2.828 |
-| 14 | v7.4 | 2.609 |
-| 15 | v2.2 | 4.212 |
+| 14 | v7.5 | 2.604 |
+| 15 | v2.3 | 4.210 |
 | 16 | v1.10 | 3.135 |
 | 17 | v12.2 | 2.568 |
 
 ---
 
 # Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.3 · EN
+*Lot Fourteen* · Version 6.4 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -48,7 +48,7 @@ Lot eleven was a boy. The file said sixteen. He was fourteen at the outside, and
 
 He went for eighty million won to a man in the second row.
 
-Georgij watched the man raise his hand for the bid, and watched what his face did while the boy was brought down off the platform, and after that he stopped thinking about the auction at all and started thinking about something else entirely.
+Georgij watched the man raise his hand for the bid, and watched what his face did while the boy was brought down off the platform. After that he stopped thinking about the auction at all and started thinking about something else entirely.
 
 Lot twelve was a woman who didn't cry. She went for twice as much.
 
@@ -78,7 +78,7 @@ The middle started at forty and died at a hundred and ten. The front dropped out
 
 At two hundred there was one left. Second row. The man who had bought the boy.
 
-He had leaned back. He was smiling, and Georgij had been in this trade since he was nine and had seen that smile often enough to know approximately what the inside of that van would be like, and to know that it would not be the worst thing happening in it tonight.
+He had leaned back. He was smiling. Georgij had been in this trade since he was nine and had seen that smile often enough to know approximately what the inside of that van would be like. And to know that it would not be the worst thing happening in it tonight.
 
 "Two hundred. Going once."
 
@@ -255,7 +255,7 @@ Annie didn't turn her head.
 ---
 
 # Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.6 · EN
+*Lot Fourteen* · Version 11.7 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -339,7 +339,7 @@ Annie let a hundred metres of cypress go past before she answered, and Georgij u
 
 He put a finger up.
 
-"The first is a name. The house can't re-list a returned lot without accounting for the return, and there is one true reason, which is that they let a man bid two hundred million on money he didn't have and never asked whose it was. He read a figure off his phone before every raise. Somebody set that figure and somebody stood behind him in the room tonight. That somebody has money and no face, and he isn't buying one boy for himself."
+"The first is a name. The house can't re-list a returned lot without accounting for the return. There is one true reason. They let a man bid two hundred million on money he didn't have and never asked whose it was. He read a figure off his phone before every raise. Somebody set that figure and somebody stood behind him in the room tonight. That somebody has money and no face, and he isn't buying one boy for himself."
 
 "That's a guess."
 
@@ -423,9 +423,9 @@ Four seconds to get it back. Two more than he liked.
 
 The thumb came off the button. In the mirror the man's eyes were wet at the corners with something that had nothing to do with shame.
 
-Nobody spoke again. The car came up the last of the drive at the speed of a car with nowhere else to be, and the light off the house got into it and lay across the seats, and Annie set her handbag down on the leather between them and did not close it.
+Nobody spoke again. The car came up the last of the drive at the speed of a car with nowhere else to be. The light off the house got into it and lay across the seats. Annie set her handbag down on the leather between them and did not close it.
 
-Georgij sat with his hands flat on his knees and his face perfectly still, and with the part of his mind that had never once stopped counting he took an inventory of what he could see in the open mouth of the bag. A phone. A card case. A flat leather roll with a press stud on it, which was a manicure set or a sewing kit, and either would do.
+Georgij sat with his hands flat on his knees and his face perfectly still. With the part of his mind that had never once stopped counting he took an inventory of what he could see in the open mouth of the bag. A phone. A card case. A flat leather roll with a press stud on it, which was a manicure set or a sewing kit, and either would do.
 
 Then the distance from his left hand to the mouth of the bag.
 
@@ -533,7 +533,7 @@ She turned back.
 
 "You could have taken the throat and it would have cost you nothing extra. You chose the eye. Say why."
 
-"Because a body would have been yours." He said it pleasantly. "You'd have been carrying it in a month and in a year and in front of people you hadn't chosen. He carries this one himself, into every interview he ever sits for." A small courteous gesture. "Whoever you hire next will have heard all of it before he arrives. I'd rather not have this evening twice."
+"Because a body would have been yours." He said it pleasantly. "You'd have been carrying it in a month and in a year and in front of people you hadn't chosen. He carries this one himself, into every interview he ever sits for." A small courteous gesture. "Whoever you hire next will have heard all of it before he arrives. I am not having this evening twice."
 
 Something moved behind Annie's face and was gone before it arrived.
 
@@ -594,7 +594,7 @@ Then he decided not to look at it again.
 ---
 
 # Chapter 3: Dead angles
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -606,7 +606,7 @@ Annie's footsteps went away down the hall and stopped, and a door closed somewhe
 
 He stood where she had left him and did what he always did, which took about nine seconds and had never once been a decision.
 
-Two doors off the hall, the left one open onto dark and the right one shut. A staircase going up along the far wall with nothing on the inner side to hold. At the end of the hall a wall of glass from floor to ceiling, and behind it the hill going down and the city a long way off, which meant the glass faced south and the drive he had come up faced north.
+Two doors off the hall, the left one open onto dark and the right one shut. A staircase going up along the far wall with nothing on the inner side to hold. At the end of the hall a wall of glass from floor to ceiling, and behind it the hill going down and the city a long way off. That meant the glass faced south and the drive he had come up faced north.
 
 Four ways out of the hall, counting the stairs. The only one he had ever used was behind him.
 
@@ -654,7 +654,7 @@ Mrs Seo looked at him for a moment.
 
 The girl was about twenty and had been standing on the third step for the whole of it.
 
-She went up ahead of him with a torch she didn't need, because every second light in the house was on, and she kept turning round to check that he was still there, and each time she did it she apologised.
+She went up ahead of him with a torch she didn't need, because every second light in the house was on, and she kept turning round to check that he was still there. Each time she did it she apologised.
 
 "It's a nice house," Georgij said.
 
@@ -704,7 +704,7 @@ She had told him in the car that he would not be kept in a room that locked. She
 
 He did not turn it.
 
-He sat on the edge of the bed with the coat still on, because it was the only thing anybody had given him to keep and he had not yet decided how to feel about that, and he sat there a while.
+He sat on the edge of the bed with the coat still on, because it was the only thing anybody had given him to keep and he had not yet decided how to feel about that. And he sat there a while.
 
 Then he went to have a look at the house.
 
@@ -726,7 +726,7 @@ Below it the ground went out flat for about twenty metres to a wall, and along t
 
 Georgij stood at the window for some time.
 
-Then he counted the exits, and there were three of them, and one of them was the front door he had come in through, and one of them was the garage, and the third one was a door off the kitchen that would put him out on the north side in front of the gatehouse.
+Then he counted the exits. There were three of them. One of them was the front door he had come in through, and one of them was the garage. The third one was a door off the kitchen that would put him out on the north side in front of the gatehouse.
 
 ---
 
@@ -782,7 +782,7 @@ He stopped at a courteous distance and waited to be spoken to.
 
 "Say the thing you've come up here to say."
 
-"You have twenty-two cameras and they're all in the same place." He said it without any particular emphasis, because it did not need one. "Upper corner, tilted down at about forty-five. That angle is for a man coming in through a window. It gives you a clean picture of anyone crossing the middle of a room and it gives you nothing at all about anyone standing under it, and there's a metre and a half of dead floor beneath every single one. Behind the columns you have the same again, and the columns are in the room you'd put people in."
+"You have twenty-two cameras and they're all in the same place." He said it without any particular emphasis, because it did not need one. "Upper corner, tilted down at about forty-five. That angle is for a man coming in through a window. It gives you a clean picture of anyone crossing the middle of a room and it gives you nothing at all about anyone standing under it. There's a metre and a half of dead floor beneath every single one. Behind the columns you have the same again, and the columns are in the room you'd put people in."
 
 "Go on."
 
@@ -812,7 +812,7 @@ Georgij was quiet for a moment. He had come up the corridor expecting to be tole
 
 "That's a great deal of trouble to go to for somewhere to sit."
 
-"It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie said. "The recordings go to a company in Yeouido. A man I have never met looks at them if I ask him to, and once a quarter he sends an invoice with the number of hours on it, and the number has been the same for four years, which means he is not looking at them and is not even troubling to lie about it well." She turned her head. "Nobody watches this house except me."
+"It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie said. "The recordings go to a company in Yeouido. A man I have never met looks at them if I ask him to, and once a quarter he sends an invoice with the number of hours on it, and the number has been the same for four years. Which means he is not looking at them and is not even troubling to lie about it well." She turned her head. "Nobody watches this house except me."
 
 "And tonight you were watching."
 
@@ -824,7 +824,7 @@ He inclined his head, and meant it.
 
 "Quid pro quo."
 
-He said it lightly, the way you name the day of the week, and did not put anything on top of it, and Annie let it go past without picking it up, which he thought was probably the correct handling.
+He said it lightly, the way you name the day of the week, and did not put anything on top of it. Annie let it go past without picking it up, which he thought was probably the correct handling.
 
 "The system isn't wrong," she said. "It's a house, not a facility. If I built it against the people who live in it, I would have to live in it."
 
@@ -876,7 +876,7 @@ She went west along the corridor. The door that closed behind her was at the far
 
 She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywhere at any time except breakfast, which had been Mrs Seo's instruction and not hers.
 
-She had used his name. He worked out, standing at the crossing after she had gone, that it was the first time anybody in the house had said it to him, and that somewhere in the last five hours he had stopped being told and started being watched instead, and he was not yet sure which of the two was more expensive.
+She had used his name. He worked out, standing at the crossing after she had gone, that it was the first time anybody in the house had said it to him. And that somewhere in the last five hours he had stopped being told and started being watched instead, and he was not yet sure which of the two was more expensive.
 
 He went down the east corridor to the room with the good window and the brass key.
 
@@ -885,7 +885,7 @@ He left the key where it was.
 ---
 
 # Chapter 4: Count again
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 2 · Sunday 5 October*
 
@@ -899,9 +899,9 @@ The clothes were folded on the floor in the corridor. A grey shirt, dark trouser
 
 The shirt was too wide across the shoulders and the trousers were exactly right in the leg, which meant they had belonged to somebody who was not exactly his shape and who was not in the house any more. He did not ask, then or later.
 
-He dressed and turned his own collar down, and looked at what the mirror gave him back, which was a man in borrowed clothing with a band of black steel sitting close under the jaw and nothing at all in his face.
+He dressed and turned his own collar down, and looked at what the mirror gave him back. A man in borrowed clothing, with a band of black steel sitting close under the jaw. Nothing at all in his face.
 
-Then he sat in the chair by the window for twenty minutes and watched the east lawn come up out of the dark, the flat grass and the wall at the end of it and the roses along the base of the wall going from black to green.
+Then he sat in the chair by the window for twenty minutes and watched the east lawn come up out of the dark. The flat grass, and the wall at the end of it, and the roses along the base of the wall going from black to green.
 
 He went down at five to seven, because Mrs Seo had said seven.
 
@@ -937,7 +937,7 @@ Ji-won stopped with a plate in each hand.
 
 Annie was dressed for the day, jacket on, and she came in the way somebody comes into a room they own and had until that morning not particularly used. She took a cup off the hook by the window herself. She poured her own coffee. Nobody got there first, because nobody had worked out that they were supposed to.
 
-She went past the small table by the window, which was where anybody in that kitchen would have put her if she had asked, and sat down at the far end of the long one, with her back to the glass and the whole length of scrubbed wood between herself and Georgij.
+She went past the small table by the window, which was where anybody in that kitchen would have put her if she had asked, and sat down at the far end of the long one. Her back to the glass, and the whole length of scrubbed wood between herself and Georgij.
 
 "Good morning," she said, to the room.
 
@@ -945,7 +945,7 @@ She went past the small table by the window, which was where anybody in that kit
 
 Nobody explained anything. Nobody asked.
 
-Ji-won put the plates down and then had to be told twice where the second one went. Mrs Seo produced eggs, and toast, and a small dish of something pickled, and did all of it at exactly the speed she would have done it anyway, which was the most impressive thing Georgij had seen since the gavel.
+Ji-won put the plates down and then had to be told twice where the second one went. Mrs Seo produced eggs, and toast, and a small dish of something pickled. She did all of it at exactly the speed she would have done it anyway. The most impressive thing Georgij had seen since the gavel.
 
 Annie ate about a third of what was in front of her, drank all of the coffee, and read nothing while she did it.
 
@@ -973,7 +973,7 @@ Georgij smiled at her. He was not after anything with it, and she would have kno
 
 ---
 
-She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study, and the study turned out to be the room on the right off the hall, the one that had been shut on the first night.
+She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study. The study turned out to be the room on the right off the hall. It was the one that had been shut on the first night.
 
 Two things were lying on the desk. A laptop, closed, and a telephone, face down.
 
@@ -1033,7 +1033,7 @@ He spent the day on the ground floor with the laptop and a pot of tea that Ji-wo
 
 By four he had the hotel, the date, the charity that was nominally hosting the thing, its board, its four previous years of the same evening, and the two photographers who had covered all four. Photographers keep everything. Nobody has ever once told a photographer to delete anything.
 
-By six he had a shape but not a list, and he had learned enough to know that the list was going to come out of a florist or a car service and not out of anything with a name on the door.
+By six he had a shape but not a list. He had learned enough to know that the list was going to come out of a florist or a car service. Not out of anything with a name on the door.
 
 He shut the laptop at nine.
 
@@ -1043,7 +1043,7 @@ Then he waited until the house had gone quiet, and at half past eleven he went r
 
 Twenty-two he already had.
 
-He stood in the dark of the long room with the telephone held up in front of his face, using the camera on the front of it, because the one on the back had a filter behind the lens that ate most of what he was looking for.
+He stood in the dark of the long room with the telephone held up in front of his face, using the camera on the front of it. The one on the back had a filter behind the lens that ate most of what he was looking for.
 
 The room came back to him on the screen in grey and grain. In the upper corner, where he knew the lens was, there was a small hard cluster of white that was not there when he lowered the phone.
 
@@ -1053,7 +1053,7 @@ He walked the ground floor in the dark, room by room, and confirmed each of the 
 
 Then he stood in the hall and lifted the phone, and the hall gave him a bloom of white above the front door, where he had not once thought to look.
 
-The twenty-third was over the front door. Not in the upper corner of the room, which was where all the others were, but flush in the moulding above the doorframe, tilted down at something much shallower than forty-five degrees, and looking at a strip of the hall perhaps two metres long.
+The twenty-third was over the front door. Not in the upper corner of the room, which was where all the others were, but flush in the moulding above the doorframe. Tilted down at something much shallower than forty-five degrees. Looking at a strip of the hall perhaps two metres long.
 
 Georgij lowered the phone and looked at what was in that strip with his own eyes.
 
@@ -1061,7 +1061,7 @@ The stone shelf. The bowl for the keys. And the remote, still lying next to the 
 
 He stood there for a while.
 
-That shelf had been photographed for years and would go on being photographed every day he lived in this house. Nobody in Yeouido was ever going to look at any of it. She would. That was the whole of the difference, and what it meant was that there would eventually be a file showing a man in a collar reaching for the thing on that shelf, or a file showing him not reaching for it, and there was no third file.
+That shelf had been photographed for years and would go on being photographed every day he lived in this house. Nobody in Yeouido was ever going to look at any of it. She would. That was the whole of the difference. What it meant was that there would eventually be a file showing a man in a collar reaching for the thing on that shelf, or a file showing him not reaching for it. There was no third file.
 
 Then he went up to the landing window on the first floor, put the lens flat against the cold glass to kill the reflection, and looked east.
 
@@ -1105,7 +1105,7 @@ He waited. She let the lamp hum.
 
 "Nothing. It's a good place for a camera. Anybody who comes through that door either puts something on that shelf or takes something off it." He looked at the desk for a moment. "I'd have wanted the same picture."
 
-That was true, and it was also not the whole of what he had stood in the hall thinking about, and he did not offer her the rest of it because she had not paid for the rest of it.
+That was true. It was also not the whole of what he had stood in the hall thinking about. He did not offer her the rest of it, because she had not paid for the rest of it.
 
 He asked the only question he had actually come to ask.
 
@@ -1495,7 +1495,7 @@ He stopped.
 ---
 
 # Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1503,7 +1503,7 @@ The envelope came at nine in the morning by a courier who did not ask anybody to
 
 It sat in exactly the place the remote had lain for the first eight days he was in the house.
 
-Georgij went past it four times before eleven. He did not touch it, and he did not need to, because it was the size and thickness of the thing he had been expecting for three weeks and because a house that sends you a plain envelope by a courier with no signature is a house that has decided you are a buyer of record.
+Georgij went past it four times before eleven. He did not touch it, and he did not need to. It was the size and thickness of the thing he had been expecting for three weeks. A house that sends you a plain envelope by a courier with no signature is a house that has decided you are a buyer of record.
 
 ---
 
@@ -1523,7 +1523,7 @@ The envelope was open on the desk. So was what had been inside it, face up, at t
 
 "I have several."
 
-He was standing at the corner of the desk and the catalogue was forty centimetres from his hand, and she went on reading and did not move it, and after a moment he understood that she was not going to.
+He was standing at the corner of the desk, and the catalogue was forty centimetres from his hand. She went on reading and did not move it. After a moment he understood that she was not going to.
 
 So he read it upside down, which he could do, and had been able to do since a house in Busan when he was twenty.
 
@@ -1557,7 +1557,7 @@ She did not ask him what he had been looking for. She turned the catalogue round
 
 He waited.
 
-She let him wait, and went on looking at him, and there was nothing in her face at all, and it went on long enough that he understood he had been given the whole of the answer he was going to get and that it consisted of the word no.
+She let him wait, and went on looking at him, and there was nothing in her face at all. It went on long enough that he understood he had been given the whole of the answer he was going to get. And that it consisted of the word no.
 
 Withdrawn or sold. A catalogue prints neither, and both of those words fit inside the same silence, and there is no way in the world to tell them apart from the outside of it.
 
@@ -1587,7 +1587,7 @@ Annie sat back.
 
 "Say how differently."
 
-"If it's been handled, then the three of them are furniture and I spend my night on the twelve who matter." A small pause. "If it hasn't, then the three of them are the only people in that building who know what I am, and one of them will say it to somebody before midnight, out of nothing worse than boredom, and my evening is about being in a different part of the room to whichever one of them has been drinking."
+"If it's been handled, then the three of them are furniture and I spend my night on the twelve who matter." A small pause. "If it hasn't, then the three of them are the only people in that building who know what I am. One of them will say it to somebody before midnight, out of nothing worse than boredom. And my evening is about being in a different part of the room to whichever one of them has been drinking."
 
 Annie looked at him for a moment.
 
@@ -1595,7 +1595,7 @@ Annie looked at him for a moment.
 
 "Thank you."
 
-"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it, and you dressed it up as a question in order to hand it to me without it looking like a gift. You don't do that in this house. It's expensive to keep track of."
+"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it. And you dressed it up as a question in order to hand it to me without it looking like a gift. You don't do that in this house. It's expensive to keep track of."
 
 Georgij inclined his head, and did not apologise, because she had not asked him to and because apologising would have been the same manoeuvre a third time.
 
@@ -1607,7 +1607,7 @@ Georgij inclined his head, and did not apologise, because she had not asked him 
 
 The suit came at two.
 
-The old man did not come with it. His assistant did, and he stood with his hands behind his back while Georgij put it on, and then he knelt and did something to the left trouser cuff with two pins and a piece of chalk and did not speak for nine minutes.
+The old man did not come with it. His assistant did. He stood with his hands behind his back while Georgij put it on. Then he knelt and did something to the left trouser cuff with two pins and a piece of chalk, and did not speak for nine minutes.
 
 The collar of the shirt stood four centimetres higher than a collar stands.
 
@@ -1615,7 +1615,7 @@ It closed at the throat with a hook and an eye, which meant it closed flat and c
 
 The steel did not show.
 
-Georgij stood in front of the glass in the east room for slightly longer than the fitting required, and looked at a man in a black dinner jacket with a white shirt and a high collar and no visible reason for the collar to be high.
+Georgij stood in front of the glass in the east room for slightly longer than the fitting required. He looked at a man in a black dinner jacket with a white shirt and a high collar. No visible reason for the collar to be high.
 
 He kept his chin level.
 
@@ -1679,7 +1679,7 @@ Annie came down at nine minutes to seven.
 
 He had been at the foot of the stairs for four of those minutes and had spent them looking at the front door and not at the shelf beside it.
 
-She was in dark green. No jewellery except the ring on the wrong hand, and her hair up, and in her left hand a clutch about the size of a paperback, which is a bag with room in it for a telephone, a lipstick and nothing else at all.
+She was in dark green. No jewellery except the ring on the wrong hand, and her hair up. In her left hand a clutch about the size of a paperback. A bag with room in it for a telephone, a lipstick and nothing else at all.
 
 She stopped on the second step, which put her eyes level with his.
 
@@ -1689,13 +1689,13 @@ He turned round.
 
 "That's better than I expected," she said, "and I paid enough to expect a good deal."
 
-Then she came down the last two steps, and she opened the clutch in front of him, without any ceremony and without looking away from his face, and took out the lipstick and put it in the pocket of her coat.
+Then she came down the last two steps, and she opened the clutch in front of him, without any ceremony and without looking away from his face. She took out the lipstick and put it in the pocket of her coat.
 
 The remote went into the space where the lipstick had been.
 
 She closed the bag.
 
-Neither of them said anything about it, then or at any point in the seven hours that followed, and Georgij, who had spent four minutes at the foot of those stairs not looking at a shelf, found that he now knew precisely which compartment of which bag, and which side of the room it was standing on, and that he was going to know it every minute until they came home.
+Neither of them said anything about it, then or at any point in the seven hours that followed. Georgij, who had spent four minutes at the foot of those stairs not looking at a shelf, found that he now knew precisely which compartment of which bag. And which side of the room it was standing on, and that he was going to know it every minute until they came home.
 
 Outside, the car came round onto the gravel and stopped.
 
@@ -2639,7 +2639,7 @@ He stopped.
 ---
 
 # Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2749,7 +2749,7 @@ It was not a long pause and there was nothing in it that a reasonable person wou
 
 "How would I reach you?"
 
-"That's kind of you. I'd rather not put you to the trouble."
+"That's kind of you. I won't put you to the trouble."
 
 "It isn't trouble."
 
@@ -2767,7 +2767,7 @@ Hana had told him thirty minutes ago, holding a glass, being kind about it: *It'
 
 Three hours.
 
-He had used it twice in three hours, on two men who were nothing like each other, and the second one had been forty-three years old and had answered a request for guidance with a request for a telephone number.
+He had used it twice in three hours, on two men who were nothing like each other. The second one had been forty-three years old and had answered a request for guidance with a request for a telephone number.
 
 Georgij took a cold glass off a tray and did not drink from it.
 
@@ -2821,7 +2821,7 @@ Hana walked another three paces.
 
 "I do."
 
-"You could have done what I asked, and I would have learned one thing, and you would have paid one price." She was still not looking at him and her face was entirely pleasant for the benefit of the room. "Instead you have made it impossible for me to say anything to her that you don't hear, and you did it in front of about two hundred people, in a way that nobody in this building will be able to describe afterwards as anything at all."
+"You could have done what I asked, and I would have learned one thing, and you would have paid one price." She was still not looking at him and her face was entirely pleasant for the benefit of the room. "Instead you have made it impossible for me to say anything to her that you don't hear, and you did it in front of about two hundred people. In a way that nobody in this building will be able to describe afterwards as anything at all."
 
 "Yes."
 
@@ -2913,7 +2913,7 @@ Georgij, who had spent seventeen years learning what a man looks at, put both of
 
 There it was, on a tablecloth, at a quarter past eleven, from a man who did not know what he was asking.
 
-He did not know. That was the whole of it and Georgij went over it twice while he was drawing breath and it held both times. Sang-hoon had a woman who had never brought anybody anywhere and who had suddenly brought somebody, and he had the word *adviser* coming at him from six directions since nine o'clock, and he was a man who bought companies and kept the directors and thought of both as line items.
+He did not know. That was the whole of it and Georgij went over it twice while he was drawing breath and it held both times. Sang-hoon had a woman who had never brought anybody anywhere and who had suddenly brought somebody. He had the word *adviser* coming at him from six directions since nine o'clock. He was a man who bought companies and kept the directors and thought of both as line items.
 
 To him it was a question about a salary. It was rude in the way very rich men are rude, which is to say it was almost a compliment.
 
@@ -3301,7 +3301,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3367,7 +3367,7 @@ Not on the twenty-third and not on the twenty-fourth. He saw her twice, once in 
 
 So he worked.
 
-The syndicate on Woo's terminal turned out to be nine institutions, which meant nine sets of filings, and by the second evening he had reduced the nine to three that had taken a position large enough to require an internal approval, and an approval requires a name at the bottom.
+The syndicate on Woo's terminal turned out to be nine institutions, which meant nine sets of filings. By the second evening he had reduced the nine to three that had taken a position large enough to require an internal approval. An approval requires a name at the bottom.
 
 It was slow and it was extremely dull and it was exactly the kind of work he had been doing since he was seventeen.
 
@@ -3495,7 +3495,7 @@ He sat down.
 
 "Why not?"
 
-"Because if I say it, you will spend the next two weeks deciding how to behave in a room, and you will get it exactly right, and getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment. It should not be true and it is."
+"Because if I say it, you will spend the next two weeks deciding how to behave in a room. You will get it exactly right. Getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment. It should not be true and it is."
 
 Georgij did not say anything.
 
@@ -3577,7 +3577,7 @@ Annie looked at him across the desk for what felt like a considerable time.
 
 "No," she said.
 
-And it was true, and both of them knew it was true, and Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word *unverifiable*.
+And it was true, and both of them knew it was true. Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word *unverifiable*.
 
 ---
 
@@ -3855,7 +3855,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.4 · EN
+*Lot Fourteen* · Version 7.5 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3863,7 +3863,7 @@ He closed the faces with photographers.
 
 It should have occurred to him in the ballroom and it had not, which annoyed him for two days. Four consecutive years of the same evening, two firms covering all four, and neither of them had ever deleted anything, because no photographer in the history of the trade has ever deleted anything.
 
-He bought a licence for the whole of that year's set from the smaller of the two firms, as an adviser buying pictures of an event his employer had attended, which is a boring and entirely ordinary thing to do.
+He bought a licence for the whole of that year's set from the smaller of the two firms. An adviser buying pictures of an event his employer had attended, which is a boring and entirely ordinary thing to do.
 
 Two thousand one hundred and six frames.
 
@@ -3909,7 +3909,7 @@ He wrote Kim Do-yun's name at the top of a clean page and did not put anything u
 
 Hanseong came out of the wrong drawer.
 
-He had been mapping shipping routes for ten days, because the Kims' logistics arm ran seven of them and he wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
+He had been mapping shipping routes for ten days, because the Kims' logistics arm ran seven of them. He wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
 
 Route work means looking at everybody else on the same water.
 
@@ -3985,7 +3985,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "Go on."
 
-"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again, and underneath every one of your supply contracts there is a delivery clause with a number in it, and the number is not there to be reasonable."
+"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again, Underneath every one of your supply contracts there is a delivery clause with a number in it. The number is not there to be reasonable."
 
 "You have read my contracts."
 
@@ -4019,7 +4019,7 @@ It was not one he had built. It came up slowly, from somewhere behind the courte
 
 It was also the first time in thirty-four days that he had aimed anything of the kind at her.
 
-He was aware of it about a second after it was on him, and he did not put it away, because putting it away would have been a second lie in a room where he had just refused the first one.
+He was aware of it about a second after it was on him, and he did not put it away. Putting it away would have been a second lie in a room where he had just refused the first one.
 
 Annie looked at him for rather longer than a moment.
 
@@ -4088,13 +4088,13 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Forty-One · Thursday 13 November
 
 Hana came at seven and did not bring anybody with her.
 
-She stopped in the hall for a moment beside the stone shelf with the shallow bowl on it, the way people do in a house they have been in before, and then she looked at Georgij and said:
+She stopped in the hall for a moment beside the stone shelf with the shallow bowl on it, the way people do in a house they have been in before. Then she looked at Georgij and said:
 
 "You didn't do what I told you to do."
 
@@ -4280,7 +4280,7 @@ The hire car in the ramp. Three hours forty, nobody in the back, nobody collecte
 
 "Give me the dates," said Hana.
 
-He gave her the three that meant nothing to him and he gave her the fourth, because it was on the same page and because he had told Annie in a car that he would not sort things before handing them over.
+He gave her the three that meant nothing to him. He gave her the fourth. Because it was on the same page and because he had told Annie in a car that he would not sort things before handing them over.
 
 Annie's face did nothing at all.
 
@@ -4354,7 +4354,7 @@ Then he put the document on the table.
 
 It had taken him six days and it ran to nineteen pages and it was the best thing he had produced since he came into the house.
 
-Every figure in it was published. Every claim in it was true. Where something was a rumour it said so, and said how many mouths it had come through. Where he was guessing it said *this is a guess*, in the same size type as everything else, which is a thing almost nobody does, because it makes a document look weaker and makes it worth a great deal more.
+Every figure in it was published. Every claim in it was true. Where something was a rumour it said so, and said how many mouths it had come through. Where he was guessing it said *this is a guess*, in the same size type as everything else. Which is a thing almost nobody does, because it makes a document look weaker and makes it worth a great deal more.
 
 It was the most honest piece of work he had ever done and he had written all of it for one reader.
 
