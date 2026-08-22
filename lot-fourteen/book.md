@@ -2,14 +2,14 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.816 Woerter.
+17 Kapitel. 50.809 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.4 | 2.410 |
+| 01 | v6.5 | 2.403 |
 | 02 | v11.7 | 3.167 |
 | 03 | v2.7 | 3.374 |
 | 04 | v1.9 | 2.443 |
@@ -30,7 +30,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 ---
 
 # Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.4 · EN
+*Lot Fourteen* · Version 6.5 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -102,7 +102,7 @@ He didn't hurry it. He had eleven houses' worth of this and he laid it out the w
 
 The guard at the foot of the platform put his thumb on the remote.
 
-He didn't press it. Nobody had told him to, and there were three hundred people watching, and a man who shocks the merchandise without instruction in front of nineteen buyers has a difficult conversation ahead of him. Georgij had spent a considerable portion of the last two hours working precisely that out.
+He didn't press it. Nobody had told him to, and a man who shocks the merchandise without instruction in front of nineteen buyers has a difficult conversation ahead of him. Georgij had spent a considerable portion of the last two hours working precisely that out.
 
 "Ask him when he settled eleven," he said, to nobody in particular. "Ask him whether he has collected her."
 

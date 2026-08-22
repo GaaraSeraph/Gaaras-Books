@@ -49,6 +49,41 @@ anything out loud."* Ein Schild mit `NO NAMES` ist Kanon, `NO PHONES` nicht.
 
 ---
 
+### Im Keller sitzen neunzehn, und sonst niemand
+
+**Entschieden: die dreihundert Zuschauer sind gestrichen.**
+
+`ch01:74` maß den Saal ein zweites Mal: *"there were three hundred people
+watching, and a man who shocks the merchandise without instruction in front of
+nineteen buyers has a difficult conversation ahead of him."* Zwei Zahlen für
+denselben Raum, im selben Satz.
+
+Die neunzehn sind tragend, die dreihundert waren es nie:
+
+- `ch01:40` setzt die Sitzordnung, Platz für Platz: *"Nineteen buyers. Seven at
+  the front with notebooks and no drinks... Nine in the middle, drinking... Three
+  at the back."*
+- `ch01:78`, vier Zeilen unter der gestrichenen Stelle, handelt der Text danach:
+  *"Nineteen people turned to look at him at once."*
+- `ch06:84` ist Georgijs eigene Rechnung: *"after it had opened its mouth in
+  front of nineteen people."*
+- `ch06:94` ist der Grund, warum es keine Ermessensfrage ist. Er sagt über die
+  drei Kellergäste auf der Gala: *"the three of them are the only people in that
+  building who know what I am."* Drei von neunzehn ist eine Belastung, die man
+  tragen kann. Drei von dreihundert ist keine Aussage.
+
+Der Faden über Kapitel 6 — die drei Namen auf den einundneunzig, Annies
+*"it's been handled"* — setzt voraus, dass der Keller abzählbar war. Gestrichen
+wurde deshalb nur die Zwischenklausel, ohne Ersatz: die Sitzordnung vier
+Absätze früher setzt den Maßstab besser, als eine Zahl es könnte.
+
+**Nicht angetastet:** *"in a room where everything else was full"* (`ch01:42`).
+Ein kleiner voller Raum ist genau der Punkt, und er macht die zwei leeren Plätze
+neben Annie erst sichtbar. Die achthundert der Gala sind ein anderer Saal und
+bleiben.
+
+---
+
 ### "Thank you" ist ein Mittel und keine Wiederholung
 
 **Entschieden: bleibt, wie es ist. Nicht ausdünnen.**

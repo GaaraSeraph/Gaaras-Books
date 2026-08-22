@@ -6,6 +6,7 @@ Aufruf:  python3 check.py                   prueft alle aktuellen Kapitel
          python3 check.py chapters/chNN_...  prueft eines
          python3 check.py --baseline         schreibt die Basislinie neu
          python3 check.py --ratchet          Rueckgabewert 1 nur bei Verschlechterung
+         python3 check.py --sync-state       zieht die Kapitelliste in doc/ nach
 
 Die Sperrklinke: Der Stilrueckstand aus alten Kapiteln soll nicht jeden Lauf
 rot faerben, denn eine Warnung, die immer feuert, liest niemand mehr. Mit
@@ -319,6 +320,53 @@ def numbers_report(files):
     print(f"\n{len(index)} Groessen verfolgt, {len(multi)} davon mit mehr als einer Zahl.")
 
 
+CONTINUITY = ("doc", "05-continuity.md")
+STATE = re.compile(r"^(- \*\*Kapitel (\d+)\*\*[^()\n]*\()v(\d+)\.(\d+)(\))")
+
+
+def chapter_state(root, best, fix=False):
+    """Die Kapitelliste in doc/05-continuity.md gegen die Dateien halten.
+
+    Die Liste wird von Hand gepflegt, und genau deshalb stand am 22. August
+    jede einzelne der siebzehn Zeilen auf einer alten Nummer. Das ist die
+    Regel aus CLAUDE.md an einem Beispiel: was geprueft wird, stimmt, was
+    nicht geprueft wird, driftet.
+
+    Laeuft nur im vollen Lauf. Bekommt check.py einzelne Dateien uebergeben,
+    ist die Menge unvollstaendig und jede Aussage ueber die Liste waere
+    falsch - deshalb ruft main() das hier gar nicht erst auf.
+    """
+    p = os.path.join(root, *CONTINUITY)
+    if not os.path.exists(p) or not best:
+        return []
+    lines = open(p, encoding="utf-8").read().replace("\r\n", "\n").split("\n")
+    out, seen, changed = [], set(), False
+    for i, line in enumerate(lines):
+        m = STATE.match(line)
+        if not m:
+            continue
+        n = int(m.group(2))
+        seen.add(n)
+        if n not in best:
+            out.append(f"Kapitel {n} steht in der Liste, hat aber keine Datei.")
+            continue
+        have, want = (int(m.group(3)), int(m.group(4))), best[n][0]
+        if have == want:
+            continue
+        soll = "v%d.%d" % want
+        out.append("Kapitel %d: Liste sagt v%d.%d, Datei ist %s."
+                   % (n, have[0], have[1], soll))
+        if fix:
+            lines[i] = m.group(1) + soll + m.group(5) + line[m.end():]
+            changed = True
+    for n in sorted(set(best) - seen):
+        out.append(f"Kapitel {n} fehlt in der Liste.")
+    if fix and changed:
+        with open(p, "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("\n".join(lines))
+    return out
+
+
 BASELINE = ".check-baseline"
 
 
@@ -339,22 +387,20 @@ def main():
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
     root = os.path.dirname(os.path.abspath(__file__))
 
-    if args:
-        files = args
-    else:
-        best = {}
-        # Relativ zum Skript, nicht zum aktuellen Verzeichnis: sonst findet der
-        # Hook (der aus der Repo-Wurzel laeuft) keine Kapitel und die Sperrklinke
-        # prueft ins Leere.
-        for p in (glob.glob(os.path.join(root, "chapters", "ch*_en.md"))
-                  or glob.glob(os.path.join(root, "ch*_en.md"))):
-            m = NAME.match(os.path.basename(p))
-            if not m:
-                continue
-            k, v = int(m.group(1)), (int(m.group(2)), int(m.group(3)))
-            if k not in best or v > best[k][0]:
-                best[k] = (v, p)
-        files = [p for _, p in sorted(best.values(), key=lambda x: x[1])]
+    best = {}
+    # Relativ zum Skript, nicht zum aktuellen Verzeichnis: sonst findet der
+    # Hook (der aus der Repo-Wurzel laeuft) keine Kapitel und die Sperrklinke
+    # prueft ins Leere.
+    for p in (glob.glob(os.path.join(root, "chapters", "ch*_en.md"))
+              or glob.glob(os.path.join(root, "ch*_en.md"))):
+        m = NAME.match(os.path.basename(p))
+        if not m:
+            continue
+        k, v = int(m.group(1)), (int(m.group(2)), int(m.group(3)))
+        if k not in best or v > best[k][0]:
+            best[k] = (v, p)
+
+    files = args or [p for _, p in sorted(best.values(), key=lambda x: x[1])]
 
     if "--numbers" in flags:
         numbers_report(sorted(files))
@@ -396,7 +442,16 @@ def main():
         elif n < b:
             better.append(f"{k}: {b} auf {n}")
 
+    fix = "--sync-state" in flags
+    drift = [] if args else chapter_state(root, best, fix=fix)
+
     print(f"\n{len(files)} Kapitel geprueft, {bad} mit Fehlern.")
+    if drift:
+        print("Kapitelliste in doc/05-continuity.md:")
+        for d in drift:
+            print(("  nachgezogen  " if fix else "  FEHLER   ") + d)
+        if not fix:
+            print("  Nachziehen mit: python3 check.py --sync-state")
     if base:
         if better:
             print("Besser geworden:")
@@ -411,9 +466,12 @@ def main():
         if better:
             print("Basislinie nachziehen mit: python3 check.py --baseline")
 
+    # Die Drift zaehlt in beide Rueckgabewerte. Der Hook ruft --ratchet auf,
+    # und das ist der einzige Aufruf, der wirklich blockiert.
+    stale = bool(drift) and not fix
     if "--ratchet" in flags:
-        sys.exit(1 if worse else 0)
-    sys.exit(1 if bad else 0)
+        sys.exit(1 if (worse or stale) else 0)
+    sys.exit(1 if (bad or stale) else 0)
 
 
 if __name__ == "__main__":

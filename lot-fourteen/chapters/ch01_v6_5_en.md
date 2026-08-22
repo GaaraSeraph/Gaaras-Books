@@ -1,7 +1,7 @@
-Chapter 1: Merchandise doesn't talk
-Lot Fourteen · Version 6.4 · EN
+# Chapter 1: Merchandise doesn't talk
+*Lot Fourteen* · Version 6.5 · EN
 
-Day 1 · Saturday 4 October
+*Day 1 · Saturday 4 October*
 
 The room smelled of concrete and perfume. Georgij had been down here two hours and still hadn't worked out where the perfume was coming from.
 
@@ -9,7 +9,7 @@ Three floors under a shopping complex in Gangnam that had been empty since the d
 
 There was no slavery in the Republic of Korea. There was debt, and there were people whose papers had never quite existed, and between those two facts was a gap wide enough to drive a van through. Georgij had been nine years old when somebody worked out what his mother owed and decided the arithmetic included him. He had no memory of the sum. He had never seen it written down. It had been following him for seventeen years and had grown every time he changed hands, the way these things do.
 
-Transfer of obligation. That was the phrase on the form. A notary signed it. A bank recorded it. Nobody had to say anything out loud.
+*Transfer of obligation.* That was the phrase on the form. A notary signed it. A bank recorded it. Nobody had to say anything out loud.
 
 The collar had been on him since the second house. It sat close under the jaw, and after the first month you stopped noticing the weight and started noticing only its absence, on the rare occasions somebody adjusted it and you got four seconds of air on your throat.
 
@@ -25,7 +25,7 @@ Lot thirteen was withdrawn without explanation.
 
 Georgij stood before anybody touched him and walked the four steps up on his own.
 
-* * *
+---
 
 "Lot fourteen. Male, twenty-six. Nationality unverifiable. Four languages. No medical history." The auctioneer paused, because the next line was the one they came for. "Prior placements: eleven. Prior returns: four. Reason recorded in each case: complex character. Violent."
 
@@ -35,7 +35,7 @@ Eleven houses, and only the last four had ever bothered to record a reason. Befo
 
 It was not true, and it was not exactly false either. In two of those four houses a man had put hands on him and discovered afterward that this had been a poor decision. When a collared man gets past your people in your own corridor, there are only two lines you can write. One of them costs the house its reputation.
 
-They had never once chosen that line. And complex character raised his price, so nobody had ever felt the urge to correct it.
+They had never once chosen that line. And *complex character* raised his price, so nobody had ever felt the urge to correct it.
 
 Nineteen buyers. Seven at the front with notebooks and no drinks, spending someone else's money. Nine in the middle, drinking, who would bid loudly and quit early. Three at the back.
 
@@ -71,7 +71,7 @@ He didn't hurry it. He had eleven houses' worth of this and he laid it out the w
 
 The guard at the foot of the platform put his thumb on the remote.
 
-He didn't press it. Nobody had told him to, and there were three hundred people watching, and a man who shocks the merchandise without instruction in front of nineteen buyers has a difficult conversation ahead of him. Georgij had spent a considerable portion of the last two hours working precisely that out.
+He didn't press it. Nobody had told him to, and a man who shocks the merchandise without instruction in front of nineteen buyers has a difficult conversation ahead of him. Georgij had spent a considerable portion of the last two hours working precisely that out.
 
 "Ask him when he settled eleven," he said, to nobody in particular. "Ask him whether he has collected her."
 
@@ -89,7 +89,7 @@ The man in the second row was already being spoken to, quietly, by somebody from
 
 It was a better one.
 
-* * *
+---
 
 The car was black and boxy with a dent in the passenger door that nobody had bothered to fix. That told him more than anything else had all night, though he could not have said what.
 
@@ -183,7 +183,7 @@ The lights of Gangnam went past. Georgij, who had owned nothing in seventeen yea
 
 The guard's eyes came up in the mirror.
 
-"Listen to it," he said. "Contract." He was speaking to Annie without turning round, in the tone men use for a dog that has got onto the furniture. "Ma'am, it's got a collar on and it's using the word contract. Four houses sent that back. Four. You want to know what a thing like that is doing right now, it's counting how many of us are in the car."
+"Listen to it," he said. "*Contract.*" He was speaking to Annie without turning round, in the tone men use for a dog that has got onto the furniture. "Ma'am, it's got a collar on and it's using the word contract. Four houses sent that back. Four. You want to know what a thing like that is doing right now, it's counting how many of us are in the car."
 
 "Three," Georgij said pleasantly. "Including the woman who pays you."
 
