@@ -1,7 +1,7 @@
-Chapter 23: Have you eaten
-Lot Fourteen · Version 2.7 · EN
+# Chapter 23: Nobody weighs a door handle
+*Lot Fourteen* · Version 3.0 · EN
 
-Day 55 · Thursday 27 November
+*Day 55 · Thursday 27 November*
 
 He walked for about an hour and did not choose a direction until the ground gave him one, which it does in that city, because everything runs downhill to the same water.
 
@@ -9,7 +9,7 @@ Then there was the river, and a footway along it, and further along the footway 
 
 He went up onto it because it was the only thing in front of him that was not more river.
 
-* * *
+---
 
 It was a Thursday evening and the city was going home, and he went down through it against most of the direction of it, past lit windows and the queues outside the places worth queueing for.
 
@@ -17,7 +17,7 @@ His hands had stopped about twenty minutes after it happened. They started again
 
 He noted it the way he noted everything, and filed it, and had nowhere to file it to.
 
-* * *
+---
 
 He tried three times to do the work.
 
@@ -25,13 +25,13 @@ There was a call to make to a man of seventy-eight about half an hour on the six
 
 That last one was the whole of tomorrow and he could not get near it.
 
-He got as far as Sang-hoon saw it four separate times and stopped there four separate times, and the fourth time he understood that he was not failing to solve it. He did not want to.
+He got as far as *Sang-hoon saw it* four separate times and stopped there four separate times, and the fourth time he understood that he was not failing to solve it. He did not want to.
 
 At a door in Yeouido on the eighteenth, a man had looked at him for slightly too long. Then he had said he was either exactly what he looked like, or the best-made thing anybody had ever put in front of him.
 
 Tonight the man had got his answer, in under a second, for nothing, and had not enjoyed any part of it. Georgij had watched him not enjoy it. That was somehow the worst of it and he could not have explained why to anybody.
 
-* * *
+---
 
 He had no money.
 
@@ -43,13 +43,13 @@ He had known that on the lawn. He had gone over the wall anyway.
 
 A man who demonstrates that he can leave, and cannot, has demonstrated one thing only, and it is not the thing he meant.
 
-* * *
+---
 
 Nobody was looking for him, which had not been true at any point in seventeen years.
 
-It turned out not to be freedom. It was quiet, and quieter than he liked.
+He had expected that to feel like something. It was quiet, and quieter than he liked.
 
-* * *
+---
 
 Halfway across he stopped and put his forearms on the rail.
 
@@ -61,7 +61,7 @@ He had a lighter in one pocket and another man's cigarettes in the other, and a 
 
 That was the whole of it, and it had been the whole of it for seventeen years, and tonight was the first night the arithmetic had come anywhere near him.
 
-* * *
+---
 
 He smoked two more and put both ends in his pocket with the first one.
 
@@ -69,17 +69,17 @@ At some point he noticed there was writing on the rail.
 
 It was in Korean, low down and set into the metal, and it was not advertising and it was not a warning.
 
-Have you eaten?
+*Have you eaten?*
 
-How have you been?
+*How have you been?*
 
-The best is still coming.
+*The best is still coming.*
 
 He took his forearms off the rail and stood back from it.
 
 Twelve houses, four languages, and he had put himself on that bridge like a tourist.
 
-* * *
+---
 
 Jang got there six minutes later.
 
@@ -93,7 +93,7 @@ He came up the walkway at a pace he would have been embarrassed to have describe
 
 Jang stood there.
 
-* * *
+---
 
 After a while he came the four metres and put both hands on the rail.
 
@@ -103,7 +103,7 @@ After a while he came the four metres and put both hands on the rail.
 
 "I know what you have," said Jang. "I read the file before I took the job."
 
-* * *
+---
 
 He came back with a bottle and two paper cups.
 
@@ -119,7 +119,7 @@ Jang looked at the cup and then at the man holding the bottle.
 
 Jang drank it.
 
-* * *
+---
 
 "I telephoned the house from the shop," he said. "Before I bought this."
 
@@ -135,7 +135,7 @@ Georgij turned his head.
 
 "No," said Georgij. "You did not."
 
-* * *
+---
 
 Jang refilled his own cup and did not offer the bottle.
 
@@ -149,7 +149,7 @@ Jang refilled his own cup and did not offer the bottle.
 
 "She read it and said no."
 
-* * *
+---
 
 Georgij turned his head.
 
@@ -163,7 +163,7 @@ He finished the cup.
 
 "And you went over the east lawn instead," said Jang, "in front of the one camera in that house that nobody looks at except her."
 
-* * *
+---
 
 Neither of them said anything for a moment.
 
@@ -173,7 +173,7 @@ Neither of them said anything for a moment.
 
 "Right." He put the cup down on the rail. "Nineteen years, and I have seen four men go over a wall. Three took the dark way. The fourth was a boy in Ulsan who wanted his mother to see him do it, and he stood under the light until she came out."
 
-* * *
+---
 
 The car came onto the bridge from the far side and stopped where cars do not stop.
 
@@ -185,7 +185,11 @@ Jang picked up the bottle and put his cup in his pocket.
 
 Then he went.
 
-* * *
+---
+
+The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and nothing about either of them was going to move for as long as it took.
+
+---
 
 She came along the walkway on her own.
 
@@ -199,7 +203,7 @@ There was no version of that woman anywhere in this country that sat down on any
 
 After a moment Georgij sat down beside her.
 
-* * *
+---
 
 The traffic went over the joint in the roadway above them, one axle at a time.
 
@@ -209,7 +213,7 @@ The traffic went over the joint in the roadway above them, one axle at a time.
 
 "I have four versions and I would rather have the one that is true."
 
-* * *
+---
 
 Annie took her time with it.
 
@@ -219,7 +223,7 @@ Annie took her time with it.
 
 "I have been looking since the fourth of October."
 
-* * *
+---
 
 "So you looked for it in front of a witness."
 
@@ -233,7 +237,7 @@ Georgij let that be as small as it was, which was not very.
 
 "Did I break?"
 
-* * *
+---
 
 Annie did not answer straight away, and when she did she said it flatly, like a figure being read off a page.
 
@@ -247,17 +251,17 @@ Annie did not answer straight away, and when she did she said it flatly, like a 
 
 "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I found that out tonight, it cost me a great deal, and I did not enjoy one second of it."
 
-* * *
+---
 
 "Haven't you been holding me just fine?"
 
 It came out of him with nothing in front of it, in the accent of a man who had not chosen the words, which had happened to him twice in seventeen years and both times in this country.
 
-"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." He was not raising his voice and it was getting worse rather than better. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
+"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." His voice came up for the first time since the fourth of October, not far, and enough. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
 
 Annie did not answer.
 
-* * *
+---
 
 "I don't feel like calling you Mistress right now."
 
@@ -269,19 +273,19 @@ He looked straight at her, which he almost never did.
 
 "Tonight she was none of them."
 
-* * *
+---
 
 The traffic went over the joint above them four or five times.
 
 "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time since she had told him he could use it in public. "Why in God's name did you do it?"
 
-* * *
+---
 
 She did not answer straight away, and he filled it, which he had not done in a room in nine years.
 
 "I have had four hours with that and I have got one sentence out of it," he said. "A man weighs the things he thinks are close to him. Nobody weighs a door handle."
 
-* * *
+---
 
 Annie put her head back against the rail and looked at the underside of the roadway.
 
@@ -295,7 +299,7 @@ She brought her head forward again.
 
 "He asked what you would cost, and for about one second I did not know the answer."
 
-* * *
+---
 
 Georgij did not say anything at all.
 
@@ -305,7 +309,7 @@ Georgij did not say anything at all.
 
 "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a better sentence, and I have been saying it to you for twenty minutes."
 
-* * *
+---
 
 He sat with that.
 
@@ -320,267 +324,3 @@ Twice in one night, with the same woman, on facts he was holding.
 "I have had it backwards twice since Friday."
 
 "I know," said Annie. "I was there for the other one."
-
-* * *
-
-"You went over the east wall."
-
-"Yes."
-
-"There is a corner by the garages with eleven seconds in it."
-
-"There is."
-
-Annie looked at the water through the rail.
-
-"Then you did not leave."
-
-"No."
-
-"Because it is not finished."
-
-"That is part of it."
-
-* * *
-
-"Say the other part."
-
-"You have believed since October that nobody is anywhere except for what you pay them."
-
-"It has been reliable."
-
-"I am not paid." He said it to the water. "There is no arrangement anywhere in the world under which I receive one won of yours. You wrote it, so you know it better than I do."
-
-Annie did not answer that.
-
-"And there is a corner by the garages," said Georgij, "and I have known about it since my second night in your house."
-
-Annie did not answer that either.
-
-"Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do that, and you would call it her wage." He was not pressing it. "Mr Baek has been in that kitchen nine years and cooks angry at people who are rude to you. A man ran up a bridge tonight for somebody he has known eight weeks."
-
-"He is paid to follow."
-
-"Nobody is paid to run."
-
-* * *
-
-"Say what you came out here for."
-
-"The same thing I said in your car on the first night."
-
-"Say it anyway."
-
-"Treat me like a person. Respectfully."
-
-He said it with none of what had been in it the first time.
-
-He was also aware, saying it, that it was the identical sentence he had used in the back of her car on the fourth of October. He had owned nothing then either, except the sentence.
-
-Fifty-five days, four contracts, a terminal at Yeongjong and a chairman's signature, and he was asking for the same thing in the same words and had no more to put behind it than he had then.
-
-Annie did not answer, and the traffic went on going over the joint, and after a while it became clear that she was not going to.
-
-* * *
-
-"On your gravel on the first night I took a man's eye out," said Georgij.
-
-"I was there."
-
-"He had pressed it twice and he had no authority of his own, so by the terms it was you. I said that standing over him." He was looking at the water. "You did not argue with one word of it, and you paid for it before we went inside."
-
-"I remember what I paid in."
-
-* * *
-
-"I took the hand off and left the rest of you where it was. Those were my words."
-
-He turned his head.
-
-"Tonight there is no hand."
-
-* * *
-
-Annie did not look away from him.
-
-"No," she said. "There is not."
-
-"You have the authority, and it was inside the terms, and I have read them more carefully than anybody alive." Nothing in his voice had moved anywhere. "So there is nothing for me to take. There is only the half you owe."
-
-"Say what you want."
-
-"What you paid me in on the gravel. Something you have got and I have not."
-
-* * *
-
-"Go on."
-
-"Something to sign with."
-
-Annie went still in a way he had seen twice before and had never yet been able to price.
-
-"On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to sign with and that it was the arrangement." He kept his hands where they were. "It was true, and it cost me nothing, because he had already decided he liked me. It will cost me the next one."
-
-"How many next ones?"
-
-"Four rooms between now and February. In two of them I will be asked a question that can only be answered with a name on a line, and the answer will have to be that I telephone a woman from a shed."
-
-* * *
-
-Annie looked at the water for a while.
-
-"You want an authority to sign."
-
-"I want the smallest one that works. Named counterparties and nobody else. A ceiling low enough that you can sleep. And a date on it, after which it is dead and I ask you again."
-
-"You have thought about the shape of it."
-
-"Since about the second junction," said Georgij, "and I would have thought about it eventually anyway, and tonight is when I stopped being able to do without it."
-
-* * *
-
-Annie was quiet long enough for a lorry to go over the joint above them and be gone.
-
-"Monday," she said. "Named, capped, and it dies on the first of March. Mr Chae will not be told why and he will not enjoy it."
-
-"Thank you."
-
-"Do not thank me for that. It is what it costs."
-
-* * *
-
-"There is a second thing and it is smaller."
-
-"Say it."
-
-"Never in front of anybody." He said it in the same voice he used for numbers. "Do it in a corridor. Do it in that study with the door shut. Do it while I am asleep, and you will not hear one word about it from me, because you own the thing round my neck and I have never once pretended otherwise. Not in a room with a third man in it."
-
-"And if I do it anyway."
-
-"Nothing," he said. "I have no money, no name, no house, and nobody in this country to telephone. I could not make you regret it if I spent a year on it."
-
-"Then it is a request and not a term."
-
-"It is a request. I know the difference. I am making it anyway." He looked at her properly for the first time since she had sat down. "Tonight a man I have worked in front of twice found out in under a second what I am. Tomorrow I have to walk back into a room and be worth something to you. I can still do that, and I will, and I can do it about four more times."
-
-* * *
-
-Annie did not say anything for a while.
-
-"That is the first thing you have ever asked me for," she said. "And the second."
-
-"Fifty-five days."
-
-"Yes."
-
-* * *
-
-She reached into the pocket of her coat.
-
-She put the remote down on the concrete between them, at the same distance from each of them. It was where she had put it on the stone shelf beside the key bowl, at one o'clock in the morning, fifty-four nights ago.
-
-She did not say anything about it.
-
-Georgij looked at it lying there and did not reach for it, and understood in the same moment that this was not a test, and that it would have been one if he had.
-
-Under the collar of his shirt the steel sat where it always sat.
-
-Neither of them pretended otherwise.
-
-* * *
-
-Then she picked it up again.
-
-She got her feet under her and stood, in one movement and without using the rail, and Georgij was still on the concrete when she put both hands on the top of it and leaned out over the water.
-
-He was up by the time she opened her hand.
-
-It went down without any noise that got back up to them, and the river took it east at the speed the river was going.
-
-* * *
-
-Neither of them said anything for a while.
-
-A man who fits collars can key a new one in about twenty minutes. Both of them knew that, and neither of them said it.
-
-He had read faces for seventeen years and had been paid for the accuracy.
-
-He could not read this one.
-
-He did not know whether he had just watched a woman disarm herself, or a woman who had proved four hours ago that she could do it and no longer needed the thing in her hand to say so.
-
-* * *
-
-"You are still wearing it," said Annie.
-
-"Yes, Mistress."
-
-He heard himself do it, and so did she, and neither of them made anything of it.
-
-"That does not come off tonight."
-
-"No."
-
-"Say why not, so that I know you know."
-
-* * *
-
-"Because it is the only thing standing between me and a room with nineteen other people in it," said Georgij.
-
-"Yes."
-
-"A man who belongs to somebody is expensive to touch. A man who belongs to nobody is stock." He said it as flatly as she had. "There were four in that cellar with no mark on them at all and every one of them went for under a third of what I did. The collar is not what holds me. It is what makes it too much trouble to take me off you."
-
-* * *
-
-Annie looked out at the water where the other thing had gone.
-
-"That was mine to throw," she said. "This is not mine to give back. There is a register with your number in it in a building I do not own, and until that is dealt with, taking it off you would be the most dangerous thing anybody has ever done to you."
-
-"I know."
-
-"Good," said Annie. "Then neither of us has to be brave about it."
-
-* * *
-
-Georgij stood at the rail beside her.
-
-There was a version of the next minute in which he asked her what that had cost her, and both of them knew the shape of it, and it went past without either of them touching it.
-
-"The car is at the end," said Annie.
-
-They walked back along the walkway with about a hand's width between them.
-
-Behind them, low down on the rail, the small set letters went on saying what they had said to everybody who stopped there for years, and neither of them mentioned it.
-
-* * *
-
-Mr Ku had the heater on.
-
-The car came down off the bridge and turned east along the river, and the lights on the far bank went past in the window at the speed lights go past.
-
-Annie looked out of her side of it.
-
-"Have you eaten?"
-
-Georgij did not answer straight away.
-
-"No, Mistress."
-
-"No," she said. "Neither have I."
-
-She did not say anything else the whole way up the hill, and neither did he.
-
-* * *
-
-Mrs Seo had the small room off the long one laid for two.
-
-Nobody had asked her to and nobody had told her when they would be back. She had put the hall lamp on and left the passage one off, which is what that woman does instead of speaking.
-
-Georgij came in past the stone shelf.
-
-The bowl was where it had always been, and beside it was the flat empty place where a small dark object had lain for eight days at the start of October, and where nothing at all had lain since. He had walked past that space every day for seven weeks and had known the shape of it the way you know a step.
-
-He stopped for a moment, which he had not done once in fifty-five days.
-
-Then he went in and sat down opposite her and they ate, at ten past eleven at night, and neither of them said one word about any part of it.

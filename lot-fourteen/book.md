@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 69.757 Woerter.
+24 Kapitel. 70.400 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v2.7 | 4.356 |
+| 23 | v3.0 | 2.510 |
+| 24 | v1.0 | 2.489 |
 
 ---
 
@@ -6717,8 +6718,8 @@ Then he found the place where the ground comes up, in full view of a lens that r
 
 ---
 
-# Chapter 23: Have you eaten
-*Lot Fourteen* · Version 2.7 · EN
+# Chapter 23: Nobody weighs a door handle
+*Lot Fourteen* · Version 3.0 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6766,7 +6767,7 @@ A man who demonstrates that he can leave, and cannot, has demonstrated one thing
 
 Nobody was looking for him, which had not been true at any point in seventeen years.
 
-It turned out not to be freedom. It was quiet, and quieter than he liked.
+He had expected that to feel like something. It was quiet, and quieter than he liked.
 
 ---
 
@@ -6906,6 +6907,10 @@ Then he went.
 
 ---
 
+The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and nothing about either of them was going to move for as long as it took.
+
+---
+
 She came along the walkway on her own.
 
 She was in the coat she had been wearing at four o'clock and had not changed anything else either. She did not stop opposite him and she did not stand in front of him.
@@ -6972,7 +6977,7 @@ Annie did not answer straight away, and when she did she said it flatly, like a 
 
 It came out of him with nothing in front of it, in the accent of a man who had not chosen the words, which had happened to him twice in seventeen years and both times in this country.
 
-"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." He was not raising his voice and it was getting worse rather than better. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
+"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." His voice came up for the first time since the fourth of October, not far, and enough. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
 
 Annie did not answer.
 
@@ -7039,6 +7044,16 @@ Twice in one night, with the same woman, on facts he was holding.
 "I have had it backwards twice since Friday."
 
 "I know," said Annie. "I was there for the other one."
+
+---
+
+# Chapter 24: Have you eaten
+*Lot Fourteen* · Version 1.0 · EN
+
+*Day 55 · Thursday 27 November*
+
+Below them the river went on going east, and the car stood on the bridge with its
+lights on, and Mr Ku by the front wing had not moved at all.
 
 ---
 
@@ -7165,6 +7180,76 @@ Annie was quiet long enough for a lorry to go over the joint above them and be g
 "Thank you."
 
 "Do not thank me for that. It is what it costs."
+
+---
+
+"It is not, though."
+
+Annie turned her head.
+
+"It is a good instrument and I will use it properly," said Georgij. "I will sign your counterparties, inside your ceiling, on your business, and on the second of March I will hand it back to you. Every hour of that is yours."
+
+"You asked me for it."
+
+"I asked you for it because I cannot do the work without it, and the work is yours as well." He was looking at the water again. "I have been sitting here calling it payment for four minutes. It is a better tool for your house and nothing else. You have just paid me by making me more useful to you, and I nearly took it."
+
+---
+
+Annie did not say anything for a moment.
+
+"Then say what you want."
+
+"I do not know."
+
+"Say it anyway."
+
+"That was me saying it." He did not turn round. "I do not know."
+
+---
+
+He tried, and she let him.
+
+He went at it the way he went at everything, which was to break it into parts and price each one, and there were no parts. There was nothing on the other side of the question at all. He had wanted things at nine years old and had stopped, because a boy in that trade who wants something has told somebody where to press, and by nineteen it had gone from a discipline to a fact.
+
+Seventeen years, eleven houses, four languages. Ask him what any of those employers needed and he would have it costed inside a minute.
+
+Ask him what he wanted and there was a flat place where the answer goes.
+
+"I am sorry," he said. "I am not being modest and I am not managing you. There is nothing there. I have looked."
+
+---
+
+Annie was quiet for a long time.
+
+Then she said something in Korean, four syllables, in a voice she had not used in front of him before.
+
+Georgij turned round.
+
+"Say that again."
+
+She said it again.
+
+"That is my name," said Annie. "It is on nothing. My mother used it and my brother used it and both of them are dead. Everybody else in this country has called me Annie since I was twenty-three, including the men who work for me and including the man I married."
+
+---
+
+He did not say anything.
+
+"You cannot spend it, you cannot sign with it, and it will not get you through a single door in Seoul," she said. "It is the only thing I have got that is not for something."
+
+"Why?"
+
+"Because you cannot want anything, and I am not going to leave you sitting on a bridge with nothing, and I have been thinking about it since you said *door handle*." She looked away again. "And because you gave me one on the fourth of October in the back of a car and I did not give you anything back."
+
+---
+
+Georgij sat with it.
+
+He did not say it out loud, then or later. He had a place to put it, which was the same place he put a face at a door and a number in a margin, and it went in there and stayed.
+
+"Thank you," he said.
+
+"That one you may thank me for."
 
 ---
 

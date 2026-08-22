@@ -23,6 +23,20 @@ Abend am 16. Dezember kann Georgij selbst zeichnen, solange die Gegenpartei
 benannt ist. Wer das vergisst, schreibt eine Szene, in der er aus einem Raum
 telefonieren muss, obwohl er es nicht mehr muesste.
 
+**Und Georgij weiss ihren Namen.** Vier Silben, auf Koreanisch, seit Kapitel 24.
+Er hat ihn nicht ausgesprochen, weder in der Nacht noch danach, und der Text hat
+ihn noch nicht gezeigt.
+
+**Zwei Dinge daran sind offen und gehoeren entschieden:**
+
+1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt. Annie hat im
+   ganzen Buch keinen Nachnamen und ist die einzige Figur ohne koreanischen
+   Namen - was nie erklaert war und ab Kapitel 24 Absicht ist.
+2. **Wann er faellt.** Er benutzt ihn nicht, und das ist richtig: Ein Wort, das
+   nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
+   der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
+   kostet, es zu benutzen, und nicht die, an der es sie ruehrt.
+
 **Und der zweite offene Punkt aus derselben Nacht:** Er hat sie gebeten, es nie
 vor Zeugen zu tun. Sie hat nicht zugesagt. Sie hat die Fernbedienung in den Han
 geworfen und nichts dazu gesagt, und das ist keine Zusage, sondern eine
