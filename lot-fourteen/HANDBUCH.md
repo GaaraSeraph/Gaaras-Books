@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 41.194 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 41.556 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -85,6 +85,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Das Halsband in der festgelegten Zeile von Kapitel 17](#das-halsband-in-der-festgelegten-zeile-von-kapitel-17)
   - [Februar ist die Frist, Januar ist das Fenster](#februar-ist-die-frist-januar-ist-das-fenster)
   - [Der Container hat einen Urheber, und der Text nennt ihn jetzt](#der-container-hat-einen-urheber-und-der-text-nennt-ihn-jetzt)
+  - [Kapitel 17 heisst jetzt "I have never put it down"](#kapitel-17-heisst-jetzt-i-have-never-put-it-down)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -296,7 +297,7 @@ Der Titel kommt aus der Sprache des Gewerbes oder aus einem Satz, der im Kapitel
 
 **Reihenfolge:** erst schreiben, dann den Titel aus dem fertigen Text ziehen. Nie umgekehrt. Bei Kapitel 11 war der Titel zuerst da und der Satz wurde danach ins Kapitel gebaut, und man hat es gemerkt: Die Wendung stand weit vorn und wurde nie eingelöst. Ersetzt durch *Thank you for telling me*, das über der Überschrift wie Höflichkeit klingt und nach dem Kapitel wie eine Strafe.
 
-Bisher: *Merchandise doesn't talk* (die Zeile des Auktionators, die das Kapitel widerlegt), *Quid pro Quo*, *Dead angles*, *Count again* (ihre Provokation an der Tür), *Seven Letters* (sie tippt sie mit einem Finger), *Withdrawn or sold* (Katalogsprache für die Frage, die er nicht stellen darf), *Where were you educated*, *Something to do with my hands* (ihr Satz über das Glas, und seine Antwort darauf), *The friendly ones* (Annies dritte Kategorie), *What did she pay for you*, *Thank you for telling me*, *You are better when you don't know*, *The man with the open hand* (Woos Satz über die sechs Wochen), *In the same size type*, *Four thousand two hundred*, *Where the walls are* (Georgijs eigener Satz an Sang-hoon), *Who holds the paper* (Grundbuchsprache, und sie gilt auch für ihn).
+Bisher: *Merchandise doesn't talk* (die Zeile des Auktionators, die das Kapitel widerlegt), *Quid pro Quo*, *Dead angles*, *Count again* (ihre Provokation an der Tür), *Seven Letters* (sie tippt sie mit einem Finger), *Withdrawn or sold* (Katalogsprache für die Frage, die er nicht stellen darf), *Where were you educated*, *Something to do with my hands* (ihr Satz über das Glas, und seine Antwort darauf), *The friendly ones* (Annies dritte Kategorie), *What did she pay for you*, *Thank you for telling me*, *You are better when you don't know*, *The man with the open hand* (Woos Satz über die sechs Wochen), *In the same size type*, *Four thousand two hundred*, *Where the walls are* (Georgijs eigener Satz an Sang-hoon), *I have never put it down* (Annies Satz am Stuhl, der sein Geständnis überbietet).
 
 Kandidaten für später: *Lot nine*, *In the order it arrived*, *That's why I didn't*, *A quarter of a beat behind*, *What I didn't give her*, *By the terms*, *Chin level*, *Pointed outward*, *No third file*, *Three and a half*.
 
@@ -1010,7 +1011,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.4) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *I have never put it down* (v12.5) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -2230,6 +2231,50 @@ gekauft werden muss, der sie liefert.
 
 **Unveraendert bleibt:** die Zollakte kommt nie als Szene vor, nur als Zeile.
 Das steht so in `doc/07-next.md` und gilt weiter.
+
+---
+
+### Kapitel 17 heisst jetzt "I have never put it down"
+
+**Entschieden am 22.08. vom Autor**, nachdem der alte Titel beim Lesen nicht
+getragen hat.
+
+**Warum *Who holds the paper* weg ist.** Er war Grundbuchsprache und sollte laut
+`doc/01-craft.md` "auch fuer ihn" gelten - wer das Papier ueber Georgij haelt.
+Diese zweite Bedeutung wird im Kapitel **nie aktiviert.** Im Text meint der Satz
+ausschliesslich die drei Belastungen auf Hanas Land, also den Nebenstrang, und
+er kommt aus Georgijs eigenem Mund ueber eine dritte Person. Das Ereignis des
+Kapitels findet zwischen den beiden statt.
+
+**Warum der neue traegt.** Die sechzehn anderen Titel sind ueberwiegend zitierte
+Repliken aus fremdem Mund, und meist solche, die ihn bepreisen: *Merchandise
+doesn't talk*, *What did she pay for you*, *You are better when you don't know*.
+Annies Zeile gehoert in diese Reihe. Sie beantwortet sein Gestaendnis nicht,
+sondern ueberbietet es:
+
+> "In this one you put it down and did not notice you had put it down."
+>
+> Annie put two fingers on the back of the chair and left them there.
+>
+> "I have never put it down. Not one night." Her hand stayed where it was. "And this is my house."
+
+**Er deckt beide Haelften.** Im Wagen legt Georgij die Waffe hin, ohne es zu
+beschliessen. Im Korridor sagt sie, dass sie ihre nie hingelegt hat, in ihrem
+eigenen Haus. Und seit derselben Fassung steht die Geste auf beiden Seiten
+(siehe die festgelegte Zeile ueber die zwei Haende in `doc/05-continuity.md`).
+
+**Er erfuellt die Titelregel.** Vor dem Kapitel klingt er nach Sturheit oder
+nach einer Trotzhaltung. Danach ist er der einsamste Satz im Buch. Genau das
+verlangt `doc/01-craft.md`: erst im Rueckblick aufgehen und vorher nicht
+verraten, worum es geht.
+
+**Verworfen:** *They were yours* (staerkster Satz, aber allein stehend
+raetselhaft - der Leser weiss vor dem Kapitel nicht, was "they" ist),
+*The cameras do not go to bed* (der klangvollste, benennt aber einen Zustand
+des Hauses statt des Vorgangs zwischen den beiden), und den alten Titel zu
+behalten und das Wortspiel einzuloesen (haette Georgij dazu gebracht, ueber
+seinen eigenen Status nachzudenken, statt ihn festzustellen - das Buch tut das
+nirgends).
 
 ---
 

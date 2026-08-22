@@ -290,3 +290,47 @@ gekauft werden muss, der sie liefert.
 
 **Unveraendert bleibt:** die Zollakte kommt nie als Szene vor, nur als Zeile.
 Das steht so in `doc/07-next.md` und gilt weiter.
+
+---
+
+### Kapitel 17 heisst jetzt "I have never put it down"
+
+**Entschieden am 22.08. vom Autor**, nachdem der alte Titel beim Lesen nicht
+getragen hat.
+
+**Warum *Who holds the paper* weg ist.** Er war Grundbuchsprache und sollte laut
+`doc/01-craft.md` "auch fuer ihn" gelten - wer das Papier ueber Georgij haelt.
+Diese zweite Bedeutung wird im Kapitel **nie aktiviert.** Im Text meint der Satz
+ausschliesslich die drei Belastungen auf Hanas Land, also den Nebenstrang, und
+er kommt aus Georgijs eigenem Mund ueber eine dritte Person. Das Ereignis des
+Kapitels findet zwischen den beiden statt.
+
+**Warum der neue traegt.** Die sechzehn anderen Titel sind ueberwiegend zitierte
+Repliken aus fremdem Mund, und meist solche, die ihn bepreisen: *Merchandise
+doesn't talk*, *What did she pay for you*, *You are better when you don't know*.
+Annies Zeile gehoert in diese Reihe. Sie beantwortet sein Gestaendnis nicht,
+sondern ueberbietet es:
+
+> "In this one you put it down and did not notice you had put it down."
+>
+> Annie put two fingers on the back of the chair and left them there.
+>
+> "I have never put it down. Not one night." Her hand stayed where it was. "And this is my house."
+
+**Er deckt beide Haelften.** Im Wagen legt Georgij die Waffe hin, ohne es zu
+beschliessen. Im Korridor sagt sie, dass sie ihre nie hingelegt hat, in ihrem
+eigenen Haus. Und seit derselben Fassung steht die Geste auf beiden Seiten
+(siehe die festgelegte Zeile ueber die zwei Haende in `doc/05-continuity.md`).
+
+**Er erfuellt die Titelregel.** Vor dem Kapitel klingt er nach Sturheit oder
+nach einer Trotzhaltung. Danach ist er der einsamste Satz im Buch. Genau das
+verlangt `doc/01-craft.md`: erst im Rueckblick aufgehen und vorher nicht
+verraten, worum es geht.
+
+**Verworfen:** *They were yours* (staerkster Satz, aber allein stehend
+raetselhaft - der Leser weiss vor dem Kapitel nicht, was "they" ist),
+*The cameras do not go to bed* (der klangvollste, benennt aber einen Zustand
+des Hauses statt des Vorgangs zwischen den beiden), und den alten Titel zu
+behalten und das Wortspiel einzuloesen (haette Georgij dazu gebracht, ueber
+seinen eigenen Status nachzudenken, statt ihn festzustellen - das Buch tut das
+nirgends).

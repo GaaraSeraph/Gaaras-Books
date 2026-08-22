@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.986 Woerter.
+17 Kapitel. 50.988 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -25,7 +25,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
 | 16 | v1.13 | 3.196 |
-| 17 | v12.4 | 2.684 |
+| 17 | v12.5 | 2.686 |
 
 ---
 
@@ -4885,8 +4885,8 @@ He put the notebook back in his pocket and turned his head.
 
 ---
 
-# Chapter 17: Who holds the paper
-*Lot Fourteen* · Version 12.4 · EN
+# Chapter 17: I have never put it down
+*Lot Fourteen* · Version 12.5 · EN
 
 *Day 46 · Tuesday 18 November*
 
