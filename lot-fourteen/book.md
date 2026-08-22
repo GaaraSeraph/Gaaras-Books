@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.912 Woerter.
+27 Kapitel. 80.964 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.8 | 4.638 |
+| 27 | v1.9 | 4.690 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8454,7 +8454,9 @@ Georgij said nothing, which was correct.
 
 ---
 
-"At the moment everything you have is worth what a department says it is worth," said Georgij. "One meeting in one building and you are a woman with a lot of land and a third charge that has come loose. There is nothing you can do about that in March except be very charming to men who do not care.
+"At the moment everything you have is worth what a department says it is worth," said Georgij. "One meeting in one building and you are a woman with a lot of land and a third charge that has come loose. There is nothing you can do about that in March except be very charming to men who do not care."
+
+The fire did something and settled.
 
 "With a signed tenancy and a chairman paying rent into it every month, the same land is an income. Income is valued by people with spreadsheets and no opinions. Your third charge stops being a cliff and turns into a line item, and any bank in this city will take it off the one that is holding it now."
 
@@ -8472,7 +8474,9 @@ Hana was quiet for a long time.
 
 ---
 
-"You did," said Georgij. "On the twenty-first, in that chair, when you asked me what the evening was for and then took the question back because of a man on your own guest list. You gave up the only thing you have never given anybody, which is knowing what your own sentences are doing.
+"You did," said Georgij. "On the twenty-first, in that chair, when you asked me what the evening was for and then took the question back because of a man on your own guest list. You gave up the only thing you have never given anybody, which is knowing what your own sentences are doing."
+
+He looked at the fire and not at her.
 
 "I have thought about it for three weeks and I have not been able to put it anywhere, because there is nothing on my side of the table to put it against. I do not have anything. I have never had anything and I am not going to."
 
@@ -8546,7 +8550,9 @@ She turned one of the cards over again and left it face down.
 
 ---
 
-"What is left is that she has all of the facts and none of the reasons," said Georgij, "and no fact in that list is going to move a woman who has already looked at it once and decided to stay home.
+"What is left is that she has all of the facts and none of the reasons," said Georgij, "and no fact in that list is going to move a woman who has already looked at it once and decided to stay home."
+
+Hana had stopped moving.
 
 "She does not need to be told. She needs to be asked, by somebody who is not part of the arrangement, on her own doorstep, and there is exactly one person alive who qualifies."
 
@@ -8572,7 +8578,9 @@ Hana turned the card over that she had turned over twice already.
 
 "And she may say no for the fifteenth time and mean it for good."
 
-"She may," said Georgij. "That is why I said it is yours to decide, and I am going to say the rest of it and then leave.
+"She may," said Georgij. "That is why I said it is yours to decide, and I am going to say the rest of it and then leave."
+
+He put the folder flat under his arm.
 
 "If she comes without knowing who is in the room, she is in a room she did not choose, and she will hold that against you and against me and she will be right. If she comes knowing, she came anyway. Those are two different women walking through your door and only one of them is any use to anybody."
 
@@ -8618,7 +8626,9 @@ He thought about it for longer than he had thought about anything since the brid
 
 ---
 
-"It will exist," said Georgij. "Somebody will have written it and somebody will have carried it. If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together.
+"It will exist," said Georgij. "Somebody will have written it and somebody will have carried it. If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together."
+
+Neither of them said anything for a second.
 
 "Nothing in it will be untrue. That does not help. There is no version of that letter that reads well in March if somebody has decided in advance what it means."
 
@@ -8668,9 +8678,13 @@ Hana did not say anything.
 
 ---
 
-"On the twenty-first you offered me something in this hall and you did not put it into words," said Georgij. "I answered it before you had to, and I did that so that you would not have to stand there having said it out loud, and I would do the same thing again.
+"On the twenty-first you offered me something in this hall and you did not put it into words," said Georgij. "I answered it before you had to, and I did that so that you would not have to stand there having said it out loud, and I would do the same thing again."
 
-"What I did not say, because there was no way to say it that afternoon, is what it was.
+Hana did not say anything.
+
+"What I did not say, because there was no way to say it that afternoon, is what it was."
+
+He looked at the floor for a second and then back up.
 
 "In seventeen years, nobody in a house I was working in has wanted anything from me that was not work."
 

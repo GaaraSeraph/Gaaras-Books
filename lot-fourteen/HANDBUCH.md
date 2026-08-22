@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 63.754 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.042 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -15,6 +15,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [2b. Wer haette es getan](#2b-wer-haette-es-getan)
   - [2c. Die zwei Kontraktionen](#2c-die-zwei-kontraktionen)
   - [2d. Die Stiftshuette](#2d-die-stiftshuette)
+  - [2e. Wer spricht gerade](#2e-wer-spricht-gerade)
   - [3. Rueckbezug](#3-rueckbezug)
   - [4. Die Laecheln](#4-die-laecheln)
   - [5. Satzzeichen](#5-satzzeichen)
@@ -336,6 +337,38 @@ dreimal, *sixteen thousand* dreimal.
 steht, ist fast immer die zweite Stiftshuette. Suchen laesst sich das mechanisch,
 und es lohnt sich bei jedem Kapitel, in dem dieselbe Sache zwei Raeume weit
 getragen wird.
+
+### 2e. Wer spricht gerade
+
+**Zwischen zwei Bloecken derselben Figur steht immer etwas Koerperliches.** Die
+Regel steht unten bei den Dialogregeln; hier steht, wie man ihre Verletzung
+findet, denn zwei von drei Faellen sind mechanisch entscheidbar und `check.py`
+meldet sie seit dem 22. August.
+
+**Fall 1, fortgesetzte Rede.** Ein Absatz mit **ungerader** Zahl
+Anfuehrungszeichen laesst das Zitat offen; der naechste Absatz gehoert derselben
+Figur. Das ist formal erlaubt, und ohne Beat dazwischen liest es sich trotzdem
+wie ein Sprecherwechsel - der Leser kommt vier Zeilen weiter, merkt, dass es
+nicht aufgeht, und zaehlt zurueck.
+
+**Fall 2, lange Ketten nackter Repliken.** Absaetze, die nur aus Rede bestehen,
+ohne Sprechertag und ohne Beat. Der Leser liest sie abwechselnd, und das traegt
+vier oder fuenf weit. Ab sieben meldet die Pruefung. Steht in so einer Kette
+**doch** zweimal dieselbe Figur, ist alles Folgende falsch zugeordnet.
+
+**Fall 3 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
+sauber geschlossen, ohne Tag und ohne Beat, liest ein Programm als
+Sprecherwechsel und kann es nicht anders. Dafuer gibt es nur das Lesen.
+
+**Der Befund vom 22. August, ueber alle siebenundzwanzig Kapitel:** dreizehn
+Stellen, davon **sieben allein in Kapitel 27** und alle aus einer einzigen
+Woche. Kapitel 17 hat drei, Kapitel 21 und 24 je eine, Kapitel 2 eine Kette.
+
+**Und der Grund, warum es sich haeuft:** Es passiert beim *Teilen* von
+Bandwurmsaetzen. Ein Redeblock wird an einem Punkt aufgetrennt, die zweite
+Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
+der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
+in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
 
 ### 3. Rueckbezug
 
@@ -1435,7 +1468,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.8) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.9) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -3549,7 +3582,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
-| Hana | 132 | 11 (09-27) | 6 | 55 |
+| Hana | 134 | 11 (09-27) | 6 | 55 |
 | Chairman Woo | 98 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
@@ -3906,7 +3939,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-132 Nennungen in 11 Kapiteln.
+134 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4025,23 +4058,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:258 | Hana did not touch the folder. |
 | 9 | ch27:272 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
 | 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:316 | Hana was quiet for a long time. |
-| 9 | ch27:336 | "That is not a gift," said Hana. |
-| 9 | ch27:346 | Hana laughed. |
-| 9 | ch27:372 | Hana put the page down. |
-| 9 | ch27:384 | Hana looked at the fire for a moment. |
-| 9 | ch27:406 | Hana looked at him. |
-| 9 | ch27:418 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:432 | Hana was quiet for a while. |
-| 9 | ch27:442 | Hana was quiet for a moment. |
-| 9 | ch27:456 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| 9 | ch27:468 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| 9 | ch27:482 | "Why," said Hana. |
-| 9 | ch27:488 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| 9 | ch27:496 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| 9 | ch27:502 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| 9 | ch27:518 | Hana did not say anything. |
-| 9 | ch27:536 | Hana looked at him for a long moment. |
+| 9 | ch27:318 | Hana was quiet for a long time. |
+| 9 | ch27:340 | "That is not a gift," said Hana. |
+| 9 | ch27:350 | Hana laughed. |
+| 9 | ch27:376 | Hana put the page down. |
+| 9 | ch27:388 | Hana looked at the fire for a moment. |
+| 9 | ch27:406 | Hana had stopped moving. |
+| 9 | ch27:412 | Hana looked at him. |
+| 9 | ch27:424 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:440 | Hana was quiet for a while. |
+| 9 | ch27:450 | Hana was quiet for a moment. |
+| 9 | ch27:464 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| 9 | ch27:476 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| 9 | ch27:492 | "Why," said Hana. |
+| 9 | ch27:498 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| 9 | ch27:506 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| 9 | ch27:512 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:528 | Hana did not say anything. |
+| 9 | ch27:534 | Hana did not say anything. |
+| 9 | ch27:550 | Hana looked at him for a long moment. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4087,9 +4122,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:232` (Tag 9) - twenty
 - `ch27:272` (Tag 9) - one
 - `ch27:292` (Tag 9) - four, six
-- `ch27:456` (Tag 9) - ten, two
-- `ch27:488` (Tag 9) - one, two
-- `ch27:502` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:464` (Tag 9) - ten, two
+- `ch27:498` (Tag 9) - one, two
+- `ch27:512` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
@@ -4195,8 +4230,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:160 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
 | 9 | ch27:182 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:408 | "Woo at seven," she said. "And the Kims." |
-| 9 | ch27:484 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 9 | ch27:414 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:494 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4248,8 +4283,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:160` (Tag 9) - one, seven
 - `ch27:182` (Tag 9) - four, ninety, seven, three
 - `ch27:292` (Tag 9) - four, six
-- `ch27:408` (Tag 9) - seven
-- `ch27:484` (Tag 9) - four, one, two
+- `ch27:414` (Tag 9) - seven
+- `ch27:494` (Tag 9) - four, one, two
 
 ---
 

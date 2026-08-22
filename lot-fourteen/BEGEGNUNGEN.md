@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
-| Hana | 132 | 11 (09-27) | 6 | 55 |
+| Hana | 134 | 11 (09-27) | 6 | 55 |
 | Chairman Woo | 98 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
@@ -376,7 +376,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Hana
 
-132 Nennungen in 11 Kapiteln.
+134 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -495,23 +495,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:258 | Hana did not touch the folder. |
 | 9 | ch27:272 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
 | 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:316 | Hana was quiet for a long time. |
-| 9 | ch27:336 | "That is not a gift," said Hana. |
-| 9 | ch27:346 | Hana laughed. |
-| 9 | ch27:372 | Hana put the page down. |
-| 9 | ch27:384 | Hana looked at the fire for a moment. |
-| 9 | ch27:406 | Hana looked at him. |
-| 9 | ch27:418 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:432 | Hana was quiet for a while. |
-| 9 | ch27:442 | Hana was quiet for a moment. |
-| 9 | ch27:456 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| 9 | ch27:468 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| 9 | ch27:482 | "Why," said Hana. |
-| 9 | ch27:488 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| 9 | ch27:496 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| 9 | ch27:502 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| 9 | ch27:518 | Hana did not say anything. |
-| 9 | ch27:536 | Hana looked at him for a long moment. |
+| 9 | ch27:318 | Hana was quiet for a long time. |
+| 9 | ch27:340 | "That is not a gift," said Hana. |
+| 9 | ch27:350 | Hana laughed. |
+| 9 | ch27:376 | Hana put the page down. |
+| 9 | ch27:388 | Hana looked at the fire for a moment. |
+| 9 | ch27:406 | Hana had stopped moving. |
+| 9 | ch27:412 | Hana looked at him. |
+| 9 | ch27:424 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:440 | Hana was quiet for a while. |
+| 9 | ch27:450 | Hana was quiet for a moment. |
+| 9 | ch27:464 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| 9 | ch27:476 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| 9 | ch27:492 | "Why," said Hana. |
+| 9 | ch27:498 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| 9 | ch27:506 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| 9 | ch27:512 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:528 | Hana did not say anything. |
+| 9 | ch27:534 | Hana did not say anything. |
+| 9 | ch27:550 | Hana looked at him for a long moment. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -557,9 +559,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:232` (Tag 9) - twenty
 - `ch27:272` (Tag 9) - one
 - `ch27:292` (Tag 9) - four, six
-- `ch27:456` (Tag 9) - ten, two
-- `ch27:488` (Tag 9) - one, two
-- `ch27:502` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:464` (Tag 9) - ten, two
+- `ch27:498` (Tag 9) - one, two
+- `ch27:512` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
@@ -665,8 +667,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:160 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
 | 9 | ch27:182 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:408 | "Woo at seven," she said. "And the Kims." |
-| 9 | ch27:484 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 9 | ch27:414 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:494 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -718,8 +720,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:160` (Tag 9) - one, seven
 - `ch27:182` (Tag 9) - four, ninety, seven, three
 - `ch27:292` (Tag 9) - four, six
-- `ch27:408` (Tag 9) - seven
-- `ch27:484` (Tag 9) - four, one, two
+- `ch27:414` (Tag 9) - seven
+- `ch27:494` (Tag 9) - four, one, two
 
 ---
 

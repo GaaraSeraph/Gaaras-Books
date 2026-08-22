@@ -137,6 +137,37 @@ def check(path):
     for q in re.findall(rf'^"{QWORD}[^?"]{{0,70}}\."$', t, flags=re.M):
         warns.append(f"Fragezeichen pruefen: {q}")
 
+    # Wer spricht gerade. Zwei Faelle, die mechanisch entscheidbar sind, und
+    # ein dritter, der es nicht ist.
+    #
+    #   (1) Fortgesetzte Rede. Ein Absatz mit UNGERADER Zahl Anfuehrungszeichen
+    #       laesst das Zitat offen; der naechste Absatz gehoert derselben Figur.
+    #       Formal erlaubt (doc/01-craft.md, Punkt 5), aber ohne etwas
+    #       Koerperliches dazwischen liest es sich wie ein Sprecherwechsel.
+    #       Genau das ist am 22. August in Kapitel 22 und 26 passiert.
+    #
+    #   (2) Lange Ketten nackter Repliken. Absaetze, die nur aus Rede bestehen,
+    #       ohne Sprechertag und ohne Beat. Der Leser liest sie abwechselnd.
+    #       Das traegt vier oder fuenf weit; danach zaehlt er zurueck, und wenn
+    #       irgendwo doch dieselbe Figur zweimal spricht, ist alles Folgende
+    #       falsch zugeordnet.
+    #
+    #   (3) Zwei getrennte Bloecke derselben Figur ohne jede Markierung sind
+    #       NICHT mechanisch findbar. Dafuer gibt es nur das Lesen.
+    paras = [x.strip() for x in re.split(r"\n\s*\n", body) if x.strip()]
+    kette = 0
+    for i, para in enumerate(paras):
+        ist_rede = para.startswith('"')
+        nackt = ist_rede and not re.sub(r'"[^"]*"', "", para).strip(" ,.")
+        if ist_rede and para.count('"') % 2 == 1:
+            nxt = paras[i + 1] if i + 1 < len(paras) else ""
+            if nxt.startswith('"'):
+                warns.append("Fortgesetzte Rede ohne Beat dazwischen: "
+                             + para[-58:].replace("\n", " "))
+        kette = kette + 1 if nackt else 0
+        if kette == 7:
+            warns.append(f"Sieben nackte Repliken am Stueck ab: {paras[i-6][:52]}")
+
     days = []
     # Spannen zuerst: "Days 27 to 28 · Thursday 30 to Friday 31 October".
     # Die Schleife darunter kann sie nicht lesen, weil words_to_int an

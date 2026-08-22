@@ -200,6 +200,38 @@ steht, ist fast immer die zweite Stiftshuette. Suchen laesst sich das mechanisch
 und es lohnt sich bei jedem Kapitel, in dem dieselbe Sache zwei Raeume weit
 getragen wird.
 
+### 2e. Wer spricht gerade
+
+**Zwischen zwei Bloecken derselben Figur steht immer etwas Koerperliches.** Die
+Regel steht unten bei den Dialogregeln; hier steht, wie man ihre Verletzung
+findet, denn zwei von drei Faellen sind mechanisch entscheidbar und `check.py`
+meldet sie seit dem 22. August.
+
+**Fall 1, fortgesetzte Rede.** Ein Absatz mit **ungerader** Zahl
+Anfuehrungszeichen laesst das Zitat offen; der naechste Absatz gehoert derselben
+Figur. Das ist formal erlaubt, und ohne Beat dazwischen liest es sich trotzdem
+wie ein Sprecherwechsel - der Leser kommt vier Zeilen weiter, merkt, dass es
+nicht aufgeht, und zaehlt zurueck.
+
+**Fall 2, lange Ketten nackter Repliken.** Absaetze, die nur aus Rede bestehen,
+ohne Sprechertag und ohne Beat. Der Leser liest sie abwechselnd, und das traegt
+vier oder fuenf weit. Ab sieben meldet die Pruefung. Steht in so einer Kette
+**doch** zweimal dieselbe Figur, ist alles Folgende falsch zugeordnet.
+
+**Fall 3 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
+sauber geschlossen, ohne Tag und ohne Beat, liest ein Programm als
+Sprecherwechsel und kann es nicht anders. Dafuer gibt es nur das Lesen.
+
+**Der Befund vom 22. August, ueber alle siebenundzwanzig Kapitel:** dreizehn
+Stellen, davon **sieben allein in Kapitel 27** und alle aus einer einzigen
+Woche. Kapitel 17 hat drei, Kapitel 21 und 24 je eine, Kapitel 2 eine Kette.
+
+**Und der Grund, warum es sich haeuft:** Es passiert beim *Teilen* von
+Bandwurmsaetzen. Ein Redeblock wird an einem Punkt aufgetrennt, die zweite
+Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
+der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
+in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**
