@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 45.996 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 47.166 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1746,6 +1746,52 @@ Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt
 
 **Wichtig:** Er ist verletzt, und der Text sagt es nicht. Er sagt nur, dass er in den Garten geht und die Fluchtwege durchgeht, die er in der ersten Nacht kartiert hat.
 
+---
+
+#### Der Anlass, und was er nicht sein darf
+
+**Entschieden am 22.08.** Der Block hatte immer die Form und nie den Grund.
+
+**Zwei ganze Klassen sind ausgeschlossen:**
+
+**Nichts Geschaeftliches.** Wenn Annie das Vetorecht so benutzt, dass Georgijs Zusagen an Woo und Ye-rin hinfaellig werden, verliert er nicht ihr Vertrauen, sondern sein Instrument. Sein Verfahren ruht darauf, dass sein Wort in dieser Stadt gilt. Ist es einmal wertlos, ist er es auch, und nach dem Bruch gaebe es keine Geschichte mehr. **Der Bruch bleibt privat, ohne Zeugen und ohne Folgen fuer sein Wort.** Er verliert genau eine Sache, und die hat ihm nie gehoert.
+
+**Nichts blosser Kraenkung.** Sie liest sein Notizbuch, sie sagt etwas Hartes, sie erniedrigt ihn: Das alles absorbiert er. Er hat siebzehn Jahre in elf Haeusern absorbiert. **Was ihn gehen laesst, muss sein Bleiben zur Unfaehigkeit erklaeren**, denn genau das widerlegt er mit dem Weggehen.
+
+#### Der Anlass: sie prueft ihn mit etwas Unwahrem
+
+Block J nennt ihr Motiv im Voraus: *"Ich wollte sehen, ob du zerbrechen wuerdest."* Sie testet. Bei diesem Mann funktioniert genau ein Test.
+
+**Sie gibt ihm etwas Unwahres.** Klein und ueberpruefbar, eine Zahl oder ein Datum. Er traegt es in gutem Glauben weiter, und dann findet er es heraus. Damit ist er zu einer Unwahrheit gebracht worden, ohne es zu wissen, und das ist das Einzige, worauf er gebaut ist.
+
+**Warum sie es tut, ist der eigentliche Bruch.** Um zu sehen, ob er sie noch nachrechnet, so wie er jeden anderen Menschen in dieser Stadt nachrechnet. Er hat nicht nachgerechnet, weil er aufgehoert hat, und er hat ihr das in Kapitel 17 selbst gesagt:
+
+> "I did not decide to stop. It stopped being the first thing I did in a room and I did not notice it stopping."
+
+**Sie hat den einen aufrichtigen Satz seines Lebens ueberprueft, indem sie ihn gegen ihn selbst gestellt hat.** Er faellt durch, weil der Satz wahr war.
+
+**Noch zu bestimmen:** welche unwahre Sache. Sie muss klein genug sein, um niemanden zu beschaedigen, und gross genug, dass er sie in zehn Minuten haette pruefen koennen und es nicht getan hat. Nichts, was Woo, Ye-rin oder die Kims trifft.
+
+#### Der Ablauf
+
+1. Er benennt es, praezise und ohne ein unwahres Wort: **"We had a deal. Quid pro quo. You broke it."** Das ist die Klausel aus Kapitel 1, die greift: *"Give me respect and you'll have my obedience. Give me the other thing, the way the four houses before you did, and I'll be exactly what my file says I am."* Es ist keine Auflehnung, sondern der Vertrag, der wie geschrieben funktioniert. Deshalb darf er gehen, und deshalb kann er zurueckkommen, ohne ihn zu erneuern.
+2. Sie kommt zu ihm und legt **zwei Finger unter die Vorderkante des Halsbands.** Das ist die Geste des Schneiders aus Kapitel 5 - *"put two fingers under the front edge of the collar to find where it sat against the throat"* - einmal zum Massnehmen und einmal zum Erinnern. Dritter Auftritt des Motivs, veraendert.
+3. Sie macht klar, dass sie bezahlt hat, mit oder ohne Worte, und dass Herausfinden, was man gekauft hat, dazugehoert.
+4. **Sie geht hinaus.** Nicht er.
+5. Er wartet, bis sie draussen ist. **Dann geht er, am selben Tag.**
+
+**Kein Auftritt und keine Tuer.** Er wartet, bis der Raum leer ist, und entfernt sich.
+
+#### Warum am selben Tag
+
+Er beweist die Wahlfreiheit, indem er sie einmal benutzt: *er kann jederzeit gehen, und er hat sich bisher entschieden zu bleiben.* Wer geht, um zu zeigen, dass er gehen kann, muss dabei gesehen werden, sonst hat er nichts bewiesen.
+
+Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von der er weiss, dass **sie** es sieht und sonst niemand. Er zeigt ihr den Weg, bevor er ihn nimmt.
+
+**Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
+
+**Offene Ablauffrage:** Block H, der Garten, mit dem Safe-Angebot und seinem Gegenvorschlag - vor dem Weggehen oder nach der Rueckkehr? Beides traegt und es sind zwei verschiedene Buecher. Davor ist es ihr Versuch, ihn zu halten. Danach ist es ein Verhandeln zwischen zweien, die beide wissen, dass er gehen kann. Nach dem Bruch liest sich ihr Angebot, das Halsband in den Safe zu legen, ohnehin als die Entschuldigung, die sie nicht aussprechen kann.
+
 ### Block H - Der Garten **[OFFEN]**
 
 Rohmaterial Szene 10. Die stärkste Szene der Vorlage, aber überlang und mit zu vielen Runden.
@@ -1878,7 +1924,30 @@ nicht abgehakt.
 
     **Das Geschenk, ungefragt und danach:** wer den Container hingestellt hat. Wie die drei Daten bei Woo kommt es **nach** der Einigung, damit es nichts bezahlt. Und es kommt als Vermutung gekennzeichnet, weil Georgij es nicht beweisen kann und in Kapitel 19 selbst gesagt hat, dass er es nicht kann.
 
-    **Offen und verhandelbar:** eine geschriebene Grenze für das Vetorecht - wie lange es gilt, wofür nicht, was beim Rückkauf geschieht. Das bekommt sie nicht umsonst. Was sie dafür gibt, ist noch nicht entschieden.
+    **Wie Georgij herausfindet, was sie will.** Zwei getrennte Dinge, die ich zuerst vermischt hatte.
+
+    *Das Papier verschafft nur den Zutritt.* Sie hat jeden der sechs einmal getragen - sechs Vorgänge in zwanzig Jahren, eine abgelöste Schuld, ein Schulgeld, eine Bürgschaft, und unter jedem steht der Name eines anderen. Er kann sechs Fälle finden, in denen sie offensichtlich gehandelt hat und in keinem einzigen vorkommt. Das sagt ihm **nicht**, was sie will. Es beweist ihr, dass er nachgesehen hat, und bei einer Frau, die niemanden empfängt, ist das die einzige Eintrittskarte.
+
+    *Herausfinden tut er es im Raum, mit einer Frage.* Das Instrument hat er in Kapitel 13 von Woo gelernt: *"He asked me one question and I have never forgotten it, because nobody had ever asked it and everybody should."* Woos Frage galt einem **Gegenstand**. Ye-rin hat keinen, sie hat eine Funktion. Dieselbe Frage lautet bei ihr:
+
+    > **"Wen rufen sie an, wenn Sie nicht mehr rangehen?"**
+
+    Zwanzig Jahre telefonieren sechs Leute vor jeder Unterschrift mit ihr, und niemand hat je gefragt, was am Tag danach geschieht. Ihre Antwort sagt ihm, was sie will - **er muss es vorher nicht wissen.** Damit ist der eine Versuch auch kein Angebot mehr, das treffen oder danebengehen kann, sondern eine Frage ohne höfliche Antwort.
+
+    Und es hält die Regel: Alle anderen bekommen Papier. Sie bekommt einen Satz.
+
+    **Die Veto-Grenze wird vertagt, nicht abgelehnt.** Scheitern kostet zu viel - der ganze Plan hängt an diesem Gespräch. Also **wird der Handel abgeschlossen**: ihr Name kommt ins Dokument, die sechs unterschreiben.
+
+    Die Grenze wird trotzdem angesprochen, weil sie die Szene trägt. Sie bietet zwei Dinge an, und beide sind wertlos, und Georgij sagt es ihr geradeheraus:
+
+    - **Zeit**, persönlich verbürgt: bringt nichts und macht sie in der Zwischenzeit haftbar, statt zu nützen.
+    - **Do-yun**: wertlos, sobald man sie hat, denn wer sie hat, hat ihn ohnehin.
+
+    Er sagt das an einer Stelle, an der Lügen ihm das Ganze glatt geschlossen hätte. Das ist das Einzige, was ihr von ihm im Gedächtnis bleibt. Und dann sagt er, dass es etwas gibt, das reichen würde, und **nennt es nicht**, weil sie es nicht zahlen soll, solange sie nicht muss.
+
+    **Das dritte Ding, das keiner ausspricht:** dass sie sich selbst verpfändet. Eine Funktion in Annies Struktur, die Annie antwortet und nicht der Familie. Dafür ist eine Klausel zu klein - **es kauft, dass es die Familie in zwanzig Jahren noch gibt.** Ein anderer Handel und ein grösserer.
+
+    **Wann sie darauf zurückkommt:** nicht wenn ihre Lage sich ändert, sondern wenn sich zeigt, dass Woo recht hatte. Wenn das Vetorecht anfängt zu beissen und die Kims merken, dass sie Personal geworden sind, kommt sie von sich aus. Und wenn Georgij bis dahin mit Annie gebrochen hat, sieht er zu, wie in einem Raum ein zweiter Mensch gekauft wird, und hat kein Wort dagegen, weil er der Präzedenzfall ist.
 
     ---
 

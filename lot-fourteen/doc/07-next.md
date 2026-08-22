@@ -68,7 +68,30 @@ nicht abgehakt.
 
     **Das Geschenk, ungefragt und danach:** wer den Container hingestellt hat. Wie die drei Daten bei Woo kommt es **nach** der Einigung, damit es nichts bezahlt. Und es kommt als Vermutung gekennzeichnet, weil Georgij es nicht beweisen kann und in Kapitel 19 selbst gesagt hat, dass er es nicht kann.
 
-    **Offen und verhandelbar:** eine geschriebene Grenze für das Vetorecht - wie lange es gilt, wofür nicht, was beim Rückkauf geschieht. Das bekommt sie nicht umsonst. Was sie dafür gibt, ist noch nicht entschieden.
+    **Wie Georgij herausfindet, was sie will.** Zwei getrennte Dinge, die ich zuerst vermischt hatte.
+
+    *Das Papier verschafft nur den Zutritt.* Sie hat jeden der sechs einmal getragen - sechs Vorgänge in zwanzig Jahren, eine abgelöste Schuld, ein Schulgeld, eine Bürgschaft, und unter jedem steht der Name eines anderen. Er kann sechs Fälle finden, in denen sie offensichtlich gehandelt hat und in keinem einzigen vorkommt. Das sagt ihm **nicht**, was sie will. Es beweist ihr, dass er nachgesehen hat, und bei einer Frau, die niemanden empfängt, ist das die einzige Eintrittskarte.
+
+    *Herausfinden tut er es im Raum, mit einer Frage.* Das Instrument hat er in Kapitel 13 von Woo gelernt: *"He asked me one question and I have never forgotten it, because nobody had ever asked it and everybody should."* Woos Frage galt einem **Gegenstand**. Ye-rin hat keinen, sie hat eine Funktion. Dieselbe Frage lautet bei ihr:
+
+    > **"Wen rufen sie an, wenn Sie nicht mehr rangehen?"**
+
+    Zwanzig Jahre telefonieren sechs Leute vor jeder Unterschrift mit ihr, und niemand hat je gefragt, was am Tag danach geschieht. Ihre Antwort sagt ihm, was sie will - **er muss es vorher nicht wissen.** Damit ist der eine Versuch auch kein Angebot mehr, das treffen oder danebengehen kann, sondern eine Frage ohne höfliche Antwort.
+
+    Und es hält die Regel: Alle anderen bekommen Papier. Sie bekommt einen Satz.
+
+    **Die Veto-Grenze wird vertagt, nicht abgelehnt.** Scheitern kostet zu viel - der ganze Plan hängt an diesem Gespräch. Also **wird der Handel abgeschlossen**: ihr Name kommt ins Dokument, die sechs unterschreiben.
+
+    Die Grenze wird trotzdem angesprochen, weil sie die Szene trägt. Sie bietet zwei Dinge an, und beide sind wertlos, und Georgij sagt es ihr geradeheraus:
+
+    - **Zeit**, persönlich verbürgt: bringt nichts und macht sie in der Zwischenzeit haftbar, statt zu nützen.
+    - **Do-yun**: wertlos, sobald man sie hat, denn wer sie hat, hat ihn ohnehin.
+
+    Er sagt das an einer Stelle, an der Lügen ihm das Ganze glatt geschlossen hätte. Das ist das Einzige, was ihr von ihm im Gedächtnis bleibt. Und dann sagt er, dass es etwas gibt, das reichen würde, und **nennt es nicht**, weil sie es nicht zahlen soll, solange sie nicht muss.
+
+    **Das dritte Ding, das keiner ausspricht:** dass sie sich selbst verpfändet. Eine Funktion in Annies Struktur, die Annie antwortet und nicht der Familie. Dafür ist eine Klausel zu klein - **es kauft, dass es die Familie in zwanzig Jahren noch gibt.** Ein anderer Handel und ein grösserer.
+
+    **Wann sie darauf zurückkommt:** nicht wenn ihre Lage sich ändert, sondern wenn sich zeigt, dass Woo recht hatte. Wenn das Vetorecht anfängt zu beissen und die Kims merken, dass sie Personal geworden sind, kommt sie von sich aus. Und wenn Georgij bis dahin mit Annie gebrochen hat, sieht er zu, wie in einem Raum ein zweiter Mensch gekauft wird, und hat kein Wort dagegen, weil er der Präzedenzfall ist.
 
     ---
 

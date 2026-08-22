@@ -229,6 +229,52 @@ Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt
 
 **Wichtig:** Er ist verletzt, und der Text sagt es nicht. Er sagt nur, dass er in den Garten geht und die Fluchtwege durchgeht, die er in der ersten Nacht kartiert hat.
 
+---
+
+#### Der Anlass, und was er nicht sein darf
+
+**Entschieden am 22.08.** Der Block hatte immer die Form und nie den Grund.
+
+**Zwei ganze Klassen sind ausgeschlossen:**
+
+**Nichts Geschaeftliches.** Wenn Annie das Vetorecht so benutzt, dass Georgijs Zusagen an Woo und Ye-rin hinfaellig werden, verliert er nicht ihr Vertrauen, sondern sein Instrument. Sein Verfahren ruht darauf, dass sein Wort in dieser Stadt gilt. Ist es einmal wertlos, ist er es auch, und nach dem Bruch gaebe es keine Geschichte mehr. **Der Bruch bleibt privat, ohne Zeugen und ohne Folgen fuer sein Wort.** Er verliert genau eine Sache, und die hat ihm nie gehoert.
+
+**Nichts blosser Kraenkung.** Sie liest sein Notizbuch, sie sagt etwas Hartes, sie erniedrigt ihn: Das alles absorbiert er. Er hat siebzehn Jahre in elf Haeusern absorbiert. **Was ihn gehen laesst, muss sein Bleiben zur Unfaehigkeit erklaeren**, denn genau das widerlegt er mit dem Weggehen.
+
+#### Der Anlass: sie prueft ihn mit etwas Unwahrem
+
+Block J nennt ihr Motiv im Voraus: *"Ich wollte sehen, ob du zerbrechen wuerdest."* Sie testet. Bei diesem Mann funktioniert genau ein Test.
+
+**Sie gibt ihm etwas Unwahres.** Klein und ueberpruefbar, eine Zahl oder ein Datum. Er traegt es in gutem Glauben weiter, und dann findet er es heraus. Damit ist er zu einer Unwahrheit gebracht worden, ohne es zu wissen, und das ist das Einzige, worauf er gebaut ist.
+
+**Warum sie es tut, ist der eigentliche Bruch.** Um zu sehen, ob er sie noch nachrechnet, so wie er jeden anderen Menschen in dieser Stadt nachrechnet. Er hat nicht nachgerechnet, weil er aufgehoert hat, und er hat ihr das in Kapitel 17 selbst gesagt:
+
+> "I did not decide to stop. It stopped being the first thing I did in a room and I did not notice it stopping."
+
+**Sie hat den einen aufrichtigen Satz seines Lebens ueberprueft, indem sie ihn gegen ihn selbst gestellt hat.** Er faellt durch, weil der Satz wahr war.
+
+**Noch zu bestimmen:** welche unwahre Sache. Sie muss klein genug sein, um niemanden zu beschaedigen, und gross genug, dass er sie in zehn Minuten haette pruefen koennen und es nicht getan hat. Nichts, was Woo, Ye-rin oder die Kims trifft.
+
+#### Der Ablauf
+
+1. Er benennt es, praezise und ohne ein unwahres Wort: **"We had a deal. Quid pro quo. You broke it."** Das ist die Klausel aus Kapitel 1, die greift: *"Give me respect and you'll have my obedience. Give me the other thing, the way the four houses before you did, and I'll be exactly what my file says I am."* Es ist keine Auflehnung, sondern der Vertrag, der wie geschrieben funktioniert. Deshalb darf er gehen, und deshalb kann er zurueckkommen, ohne ihn zu erneuern.
+2. Sie kommt zu ihm und legt **zwei Finger unter die Vorderkante des Halsbands.** Das ist die Geste des Schneiders aus Kapitel 5 - *"put two fingers under the front edge of the collar to find where it sat against the throat"* - einmal zum Massnehmen und einmal zum Erinnern. Dritter Auftritt des Motivs, veraendert.
+3. Sie macht klar, dass sie bezahlt hat, mit oder ohne Worte, und dass Herausfinden, was man gekauft hat, dazugehoert.
+4. **Sie geht hinaus.** Nicht er.
+5. Er wartet, bis sie draussen ist. **Dann geht er, am selben Tag.**
+
+**Kein Auftritt und keine Tuer.** Er wartet, bis der Raum leer ist, und entfernt sich.
+
+#### Warum am selben Tag
+
+Er beweist die Wahlfreiheit, indem er sie einmal benutzt: *er kann jederzeit gehen, und er hat sich bisher entschieden zu bleiben.* Wer geht, um zu zeigen, dass er gehen kann, muss dabei gesehen werden, sonst hat er nichts bewiesen.
+
+Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von der er weiss, dass **sie** es sieht und sonst niemand. Er zeigt ihr den Weg, bevor er ihn nimmt.
+
+**Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
+
+**Offene Ablauffrage:** Block H, der Garten, mit dem Safe-Angebot und seinem Gegenvorschlag - vor dem Weggehen oder nach der Rueckkehr? Beides traegt und es sind zwei verschiedene Buecher. Davor ist es ihr Versuch, ihn zu halten. Danach ist es ein Verhandeln zwischen zweien, die beide wissen, dass er gehen kann. Nach dem Bruch liest sich ihr Angebot, das Halsband in den Safe zu legen, ohnehin als die Entschuldigung, die sie nicht aussprechen kann.
+
 ### Block H - Der Garten **[OFFEN]**
 
 Rohmaterial Szene 10. Die stärkste Szene der Vorlage, aber überlang und mit zu vielen Runden.
