@@ -37,7 +37,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 41, Do 13. November: das Essen zu dritt
 - Tag 45, Mo 17. November: Annie unterschreibt den Mietvorvertrag, Georgij zieht die zweite Abteilung
 - Tag 46, Di 18. November: das Essen mit Sang-hoon, die Heimfahrt, die festgelegte Zeile
-- Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück
+- Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück, das Mandat, Yeongjong (Kapitel 18)
 
 **Prüfregel:** Jeder Tag mit Rest 1 bei Teilung durch sieben ist ein Samstag. Sang-hoon hat "after the fifteenth" gesagt, der Sechzehnte wäre ein Sonntag, deshalb der Achtzehnte.
 
@@ -45,6 +45,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 18** *What happens on the Tuesday* (v1.0) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, das erste Mal, dass er Annie um etwas bittet, Yeongjong, die offene Hand, und was Woo ihm ungefragt sagt.
 - **Kapitel 17** *I have never put it down* (v12.5) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
@@ -250,8 +251,24 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
     des Nachtpostens geändert und es nicht gesagt hat. Darauf: *which he did not
     have to do and got nothing for.*
 
-  **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
-  selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
+  **Dritte Fundstelle: Kapitel 18, an Chairman Woo.** *Then he smiled at him,
+  and meant it.* Es ist die erste Stelle, an der es jemandem gilt, von dem er
+  etwas will - und es holt trotzdem nichts, weil er ihm im selben Termin bringt,
+  was der andere seit einem Jahr sucht. Beide gewinnen, und deshalb ist nichts
+  zu holen. Es folgt ausserdem der Regel der ersten zwei: der andere hat zuerst
+  etwas gegeben, und zwar etwas, das ihn teuer zu stehen kommt.
+
+  **Korrigiert am 22.08.: die Behauptung, es werde häufiger, war falsch.** Hier
+  stand: *In Kapitel 3 bis 6 selten und knapp, im Schluss selbstverständlich.*
+  Nachgezählt über alle Kapitel steht *and he meant it* in dieser Bedeutung in
+  Kapitel 3 (zweimal), 6, 7 und 9 - **und danach in acht Kapiteln nicht mehr.**
+  Es wurde nicht häufiger, es riss ab, und zwar genau dort, wo der Haushalt aus
+  dem Buch verschwindet. Kapitel 18 ist die erste Wiederaufnahme.
+
+  **Was daraus folgt:** Es ist das einzige Lächeln, das nichts holt, und es fiel
+  in dem Abschnitt weg, in dem er gut in der Arbeit wird. Das darf eine Tragödie
+  sein, aber dann muss der Text sie tragen. Bis dahin gilt: wo eine Szene einen
+  Menschen enthält, den er mag, gehört es hin. Das ist dieselbe Bewegung wie *I have not looked once
   since I came here*, nur im Gesicht statt in der Erzählung. Er hat aufgehört,
   die Stelle zu suchen, an der es weh tut, und gleichzeitig angefangen, Leute
   anzulächeln, von denen er nichts will, und keines von beidem hat er

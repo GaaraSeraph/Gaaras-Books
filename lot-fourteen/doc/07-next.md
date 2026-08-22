@@ -13,10 +13,10 @@ nicht abgehakt.
 
 **Als Nächstes, in dieser Reihenfolge:**
 
-1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
-2. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
+1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben. **Weiterhin offen** - Kapitel 18 war dafür vorgesehen und hat es nicht aufgenommen, weil das Kapitel schon vier Bewegungen trug.
+2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
 3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
-4. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
+4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 18.** Er hat zugesagt, öffentlich und auf Papier, gegen zwei Dinge: die zwanzig Prozent aus Hongkong werden ihm abgekauft, und das Terminal geht bei seinem Tod an einen statt an drei. Seine zwei Bedingungen stehen im Text und sind Aufgaben: **ein Raum mit der Familie darin und jemandem, der wirklich unterschreiben kann**, und kein Foto mit einem Politiker darauf.
 5. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
 6. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
 7. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.

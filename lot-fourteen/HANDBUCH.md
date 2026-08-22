@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 41.651 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 42.768 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -90,16 +90,16 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
   - [Hana](#hana)
-  - [Park Sang-hoon](#park-sang-hoon)
   - [Chairman Woo](#chairman-woo)
+  - [Park Sang-hoon](#park-sang-hoon)
   - [Mrs Seo](#mrs-seo)
   - [Jang](#jang)
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Ji-won](#ji-won)
   - [Kim Do-yun](#kim-do-yun)
-  - [Bae](#bae)
   - [Kim Ye-rin](#kim-ye-rin)
+  - [Bae](#bae)
   - [Mr Noh](#mr-noh)
   - [Mr Pyo](#mr-pyo)
   - [Chef Bang](#chef-bang)
@@ -1003,7 +1003,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 41, Do 13. November: das Essen zu dritt
 - Tag 45, Mo 17. November: Annie unterschreibt den Mietvorvertrag, Georgij zieht die zweite Abteilung
 - Tag 46, Di 18. November: das Essen mit Sang-hoon, die Heimfahrt, die festgelegte Zeile
-- Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück
+- Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück, das Mandat, Yeongjong (Kapitel 18)
 
 **Prüfregel:** Jeder Tag mit Rest 1 bei Teilung durch sieben ist ein Samstag. Sang-hoon hat "after the fifteenth" gesagt, der Sechzehnte wäre ein Sonntag, deshalb der Achtzehnte.
 
@@ -1011,6 +1011,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 18** *What happens on the Tuesday* (v1.0) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, das erste Mal, dass er Annie um etwas bittet, Yeongjong, die offene Hand, und was Woo ihm ungefragt sagt.
 - **Kapitel 17** *I have never put it down* (v12.5) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
@@ -1216,8 +1217,24 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
     des Nachtpostens geändert und es nicht gesagt hat. Darauf: *which he did not
     have to do and got nothing for.*
 
-  **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
-  selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
+  **Dritte Fundstelle: Kapitel 18, an Chairman Woo.** *Then he smiled at him,
+  and meant it.* Es ist die erste Stelle, an der es jemandem gilt, von dem er
+  etwas will - und es holt trotzdem nichts, weil er ihm im selben Termin bringt,
+  was der andere seit einem Jahr sucht. Beide gewinnen, und deshalb ist nichts
+  zu holen. Es folgt ausserdem der Regel der ersten zwei: der andere hat zuerst
+  etwas gegeben, und zwar etwas, das ihn teuer zu stehen kommt.
+
+  **Korrigiert am 22.08.: die Behauptung, es werde häufiger, war falsch.** Hier
+  stand: *In Kapitel 3 bis 6 selten und knapp, im Schluss selbstverständlich.*
+  Nachgezählt über alle Kapitel steht *and he meant it* in dieser Bedeutung in
+  Kapitel 3 (zweimal), 6, 7 und 9 - **und danach in acht Kapiteln nicht mehr.**
+  Es wurde nicht häufiger, es riss ab, und zwar genau dort, wo der Haushalt aus
+  dem Buch verschwindet. Kapitel 18 ist die erste Wiederaufnahme.
+
+  **Was daraus folgt:** Es ist das einzige Lächeln, das nichts holt, und es fiel
+  in dem Abschnitt weg, in dem er gut in der Arbeit wird. Das darf eine Tragödie
+  sein, aber dann muss der Text sie tragen. Bis dahin gilt: wo eine Szene einen
+  Menschen enthält, den er mag, gehört es hin. Das ist dieselbe Bewegung wie *I have not looked once
   since I came here*, nur im Gesicht statt in der Erzählung. Er hat aufgehört,
   die Stelle zu suchen, an der es weh tut, und gleichzeitig angefangen, Leute
   anzulächeln, von denen er nichts will, und keines von beidem hat er
@@ -1784,10 +1801,10 @@ nicht abgehakt.
 
 **Als Nächstes, in dieser Reihenfolge:**
 
-1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
-2. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
+1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben. **Weiterhin offen** - Kapitel 18 war dafür vorgesehen und hat es nicht aufgenommen, weil das Kapitel schon vier Bewegungen trug.
+2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
 3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
-4. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
+4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 18.** Er hat zugesagt, öffentlich und auf Papier, gegen zwei Dinge: die zwanzig Prozent aus Hongkong werden ihm abgekauft, und das Terminal geht bei seinem Tod an einen statt an drei. Seine zwei Bedingungen stehen im Text und sind Aufgaben: **ein Raum mit der Familie darin und jemandem, der wirklich unterschreiben kann**, und kein Foto mit einem Politiker darauf.
 5. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
 6. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
 7. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
@@ -2307,18 +2324,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 173 | 17 (01-17) | 1 | 46 |
+| Annie | 177 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 47 | 7 (10-17) | 22 | 46 |
-| Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
+| Chairman Woo | 56 | 9 (07-18) | 22 | 48 |
+| Park Sang-hoon | 53 | 8 (10-18) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
-| Jang | 33 | 9 (05-17) | 4 | 46 |
-| Mr Hong | 27 | 6 (07-17) | 22 | 46 |
+| Jang | 35 | 10 (05-18) | 4 | 48 |
+| Mr Hong | 30 | 7 (07-18) | 22 | 48 |
 | Kang Ji-hoon | 22 | 5 (09-17) | 22 | 46 |
 | Ji-won | 18 | 6 (03-14) | 1 | 34 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
+| Kim Ye-rin | 7 | 4 (14-18) | 31 | 48 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
-| Kim Ye-rin | 6 | 3 (14-17) | 31 | 46 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
 | Mr Pyo | 5 | 3 (05-17) | 6 | 46 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
@@ -2339,7 +2356,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-173 Nennungen in 17 Kapiteln.
+177 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2516,6 +2533,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:230 | Annie put two fingers on the back of the chair and left them there. |
 | 46 | ch17:238 | Annie said nothing. |
 | 46 | ch17:242 | "I know," said Annie. "He came to me with it in his first week." |
+| 48 | ch18:78 | He found Annie in the study at eleven. |
+| 48 | ch18:86 | Annie turned her chair a quarter turn. |
+| 48 | ch18:116 | Annie put down the pen she had not been using. |
+| 48 | ch18:136 | Annie looked at him for a while. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -2565,6 +2586,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:296` (Tag 46) - one, two
 - `ch16:346` (Tag 46) - ten
 - `ch17:230` (Tag 46) - two
+- `ch18:78` (Tag 48) - eleven
 
 ---
 
@@ -2680,9 +2702,105 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Chairman Woo
+
+56 Nennungen in 9 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
+| 22 | ch07:104 | Chairman Woo's face did what faces do. |
+| 22 | ch07:112 | "Ten," said Chairman Woo. |
+| 22 | ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
+| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 22 | ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
+| 22 | ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
+| 22 | ch08:174 | "There you are," said Chairman Woo, thrilled. |
+| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
+| 22 | ch10:14 | "There he is," said Chairman Woo. |
+| 22 | ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
+| 22 | ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
+| 22 | ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
+| 22 | ch10:56 | "Somebody at a dinner," said Chairman Woo. |
+| 22 | ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
+| 22 | ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
+| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
+| 23 | ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
+| 25 | ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 27 | ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
+| 27 | ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
+| 27 | ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
+| 27 | ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
+| 27 | ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
+| 27 | ch13:164 | Chairman Woo looked at him for a moment. |
+| 27 | ch13:182 | Woo said nothing for a while. |
+| 27 | ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
+| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 27 | ch13:202 | Woo looked up. |
+| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
+| 27 | ch13:228 | Chairman Woo put his chopsticks down. |
+| 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
+| 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
+| 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
+| 48 | ch18:110 | "Chairman Woo will stand next to the Kims. He will do it in public and he will do it on .. |
+| 48 | ch18:162 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
+| 48 | ch18:182 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
+| 48 | ch18:188 | "Well," said Woo. |
+| 48 | ch18:202 | Chairman Woo looked out at the water. |
+| 48 | ch18:210 | "You want something," said Woo. |
+| 48 | ch18:228 | Woo sat down heavily, the way a man does when his back has an opinion. |
+| 48 | ch18:246 | Woo said nothing at all. |
+| 48 | ch18:252 | "You have come with an open hand," said Chairman Woo. |
+| 48 | ch18:270 | Chairman Woo laughed. |
+| 48 | ch18:282 | "You offered twice as much as you needed to, and I have been buying men for fifty years .. |
+| 48 | ch18:288 | The tea came, and it was terrible, and Woo drank two cups of it. |
+| 48 | ch18:302 | Chairman Woo nodded slowly, and did not look pleased, and did not look unkind either. |
+| 48 | ch18:312 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
+| 48 | ch18:324 | "That is how it is always done. Nobody builds a wall. Everybody lays one brick and goes .. |
+| 48 | ch18:340 | "Don't." Woo was already standing up. "I have given you a bad afternoon. Now walk back w.. |
+| 48 | ch18:344 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
+
+### Zahlen in der Naehe von Chairman Woo
+
+- `ch07:92` (Tag 22) - four, ninety
+- `ch07:112` (Tag 22) - ten
+- `ch07:124` (Tag 22) - four
+- `ch07:274` (Tag 22) - forty, one
+- `ch07:292` (Tag 22) - twelve
+- `ch08:154` (Tag 22) - four, nine, ten
+- `ch08:156` (Tag 22) - one
+- `ch09:48` (Tag 22) - four, nine
+- `ch11:38` (Tag 22) - four, six, two
+- `ch11:214` (Tag 22) - eleven, twenty-five
+- `ch11:242` (Tag 22) - fourteen, one
+- `ch12:68` (Tag 23) - nine, three
+- `ch12:138` (Tag 25) - four
+- `ch13:104` (Tag 27) - eight
+- `ch13:114` (Tag 27) - forty, one
+- `ch13:136` (Tag 27) - eighty, one, twenty
+- `ch13:190` (Tag 27) - one
+- `ch13:194` (Tag 27) - one, three
+- `ch13:246` (Tag 27) - six
+- `ch14:144` (Tag 34) - fifty-one
+- `ch18:110` (Tag 48) - fifty
+- `ch18:162` (Tag 48) - fifty
+- `ch18:282` (Tag 48) - fifty
+- `ch18:288` (Tag 48) - two
+- `ch18:312` (Tag 48) - nineteen, two
+- `ch18:324` (Tag 48) - one
+- `ch18:340` (Tag 48) - five
+- `ch18:344` (Tag 48) - two
+
+---
+
 ### Park Sang-hoon
 
-47 Nennungen in 7 Kapiteln.
+53 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2733,6 +2851,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:66 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
+| 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first. A man who .. |
+| 48 | ch18:68 | Sang-hoon had not owed him this. |
+| 48 | ch18:114 | "He is seventy-eight and he owns one thing he cares about, and he has told me exactly wh.. |
+| 48 | ch18:236 | "You told me what happens then," said Georgij. "It is sold within a year and split three.. |
+| 48 | ch18:240 | "I am not going to lend you anything, Chairman. I have nothing." He said it plainly, bec.. |
+| 48 | ch18:248 | "The second is that if you die on a Tuesday, this goes to one person, at a price fixed n.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -2754,77 +2878,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:326` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:66` (Tag 46) - one
-
----
-
-### Chairman Woo
-
-39 Nennungen in 8 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
-| 22 | ch07:104 | Chairman Woo's face did what faces do. |
-| 22 | ch07:112 | "Ten," said Chairman Woo. |
-| 22 | ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
-| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
-| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 22 | ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
-| 22 | ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
-| 22 | ch08:174 | "There you are," said Chairman Woo, thrilled. |
-| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
-| 22 | ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
-| 22 | ch10:14 | "There he is," said Chairman Woo. |
-| 22 | ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
-| 22 | ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
-| 22 | ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
-| 22 | ch10:56 | "Somebody at a dinner," said Chairman Woo. |
-| 22 | ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
-| 22 | ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
-| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
-| 23 | ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
-| 25 | ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
-| 27 | ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
-| 27 | ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
-| 27 | ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
-| 27 | ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
-| 27 | ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
-| 27 | ch13:164 | Chairman Woo looked at him for a moment. |
-| 27 | ch13:182 | Woo said nothing for a while. |
-| 27 | ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
-| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
-| 27 | ch13:202 | Woo looked up. |
-| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
-| 27 | ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
-| 27 | ch13:228 | Chairman Woo put his chopsticks down. |
-| 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
-| 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
-| 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-
-### Zahlen in der Naehe von Chairman Woo
-
-- `ch07:92` (Tag 22) - four, ninety
-- `ch07:112` (Tag 22) - ten
-- `ch07:124` (Tag 22) - four
-- `ch07:274` (Tag 22) - forty, one
-- `ch07:292` (Tag 22) - twelve
-- `ch08:154` (Tag 22) - four, nine, ten
-- `ch08:156` (Tag 22) - one
-- `ch09:48` (Tag 22) - four, nine
-- `ch11:38` (Tag 22) - four, six, two
-- `ch11:214` (Tag 22) - eleven, twenty-five
-- `ch11:242` (Tag 22) - fourteen, one
-- `ch12:68` (Tag 23) - nine, three
-- `ch12:138` (Tag 25) - four
-- `ch13:104` (Tag 27) - eight
-- `ch13:114` (Tag 27) - forty, one
-- `ch13:136` (Tag 27) - eighty, one, twenty
-- `ch13:190` (Tag 27) - one
-- `ch13:194` (Tag 27) - one, three
-- `ch13:246` (Tag 27) - six
-- `ch14:144` (Tag 34) - fifty-one
+- `ch18:34` (Tag 48) - fourteen
+- `ch18:114` (Tag 48) - one, seventy-eight, three
+- `ch18:236` (Tag 48) - one, three
+- `ch18:240` (Tag 48) - two
+- `ch18:248` (Tag 48) - one
 
 ---
 
@@ -2895,7 +2953,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-33 Nennungen in 9 Kapiteln.
+35 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2932,6 +2990,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
 | 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
 | 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 48 | ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
+| 48 | ch18:10 | Jang brought it up himself. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2956,12 +3016,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:10` (Tag 46) - two
 - `ch17:236` (Tag 46) - nine, three
 - `ch17:254` (Tag 46) - six
+- `ch18:8` (Tag 48) - one
 
 ---
 
 ### Mr Hong
 
-27 Nennungen in 6 Kapiteln.
+30 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2992,6 +3053,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
 | 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
+| 48 | ch18:184 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
+| 48 | ch18:244 | "The first is that the twenty per cent you could not fund in that year, and have owed to.. |
+| 48 | ch18:278 | "I will stand next to them. Get me a room with the family in it and one of them who can .. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -3011,6 +3075,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:38` (Tag 46) - one, seventeen, two
 - `ch17:108` (Tag 46) - three, two
+- `ch18:244` (Tag 48) - twenty
+- `ch18:278` (Tag 48) - nine, one, twenty
 
 ---
 
@@ -3115,6 +3181,29 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Kim Ye-rin
+
+7 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | ch18:94 | "No, Mistress. If he signs in the first week of December he is short from December and c.. |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:72` (Tag 46) - four, six, twenty
+- `ch18:94` (Tag 48) - one, three
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -3133,27 +3222,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:150` (Tag 1) - forty
 - `ch05:128` (Tag 4) - one, three, two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Kim Ye-rin
-
-6 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-
-### Zahlen in der Naehe von Kim Ye-rin
-
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:72` (Tag 46) - four, six, twenty
 
 ---
 

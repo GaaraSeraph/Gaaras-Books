@@ -78,7 +78,16 @@ def check(path):
     if re.search(r"[\u2014\u2013]", t):
         errs.append("Gedankenstrich gefunden. Nur Bindestriche.")
 
-    for s in re.split(r'(?<=[.!?"])\s+', body):
+    # Erst in Absaetze, dann in Saetze. Ein Satz laeuft nie ueber eine
+    # Leerzeile. Vorher wurde der ganze Text am Stueck geteilt, und weil der
+    # Teiler nur nach . ! ? und " trennt, klebte jede kursive Zeile am
+    # folgenden Absatz: "*Later.*" endet auf einem Stern. In Kapitel 18 ergab
+    # das einen gemeldeten Satz mit 43 Woertern, den es nicht gibt. Betroffen
+    # waren alle Datumszeilen und die Notizbuchzeilen in Kapitel 16.
+    saetze = []
+    for absatz in re.split(r"\n\s*\n", body):
+        saetze.extend(re.split(r'(?<=[.!?"])\s+', absatz))
+    for s in saetze:
         n = len(s.split())
         if n >= 40:
             errs.append(f"Satz mit {n} Woertern: {s.strip()[:70]}...")
