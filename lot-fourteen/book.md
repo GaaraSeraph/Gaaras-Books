@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.696 Woerter.
+24 Kapitel. 70.711 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -32,7 +32,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.4 | 2.657 |
-| 24 | v1.4 | 2.638 |
+| 24 | v1.4 | 2.653 |
 
 ---
 
@@ -7064,8 +7064,7 @@ Twice in one night, with the same woman, on facts he was holding.
 
 *Day 55 · Thursday 27 November*
 
-Below them the river went on going east, and the car stood on the bridge with its
-lights on, and Mr Ku by the front wing had not moved at all.
+Below them the river went on going east, and the car stood on the bridge with its lights on, and Mr Ku by the front wing had not moved at all.
 
 ---
 
@@ -7237,7 +7236,7 @@ Ask him what he wanted and there was a flat place where the answer goes.
 
 Annie was quiet for a long time.
 
-Then she said something in Korean, four syllables, in a voice she had not used in front of him before.
+Then she said something in Korean, two syllables, in a voice she had not used in front of him before.
 
 Georgij turned round.
 
@@ -7261,7 +7260,9 @@ He did not say anything.
 
 Georgij sat with it.
 
-He did not say it out loud, then or later. He had a place to put it, which was the same place he put a face at a door and a number in a margin, and it went in there and stayed.
+He did not say it out loud, then or later.
+
+He had a place to put a thing like that, which was the same place he put a face at a door and a number in a margin. *Hye-jin* went in there and stayed, and he did not take it out again for a very long time.
 
 "Thank you," he said.
 

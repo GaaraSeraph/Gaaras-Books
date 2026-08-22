@@ -54,6 +54,18 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
 *Kanon, Kapitel 3 und 5.*
 
+**Mr Chae** - **Annies Mann fuer das Papier.** Kein Hausangestellter, kein Vertrauter, kein Freund: der Jurist, der die Strukturen baut, in denen ihr Geld sich bewegt. Ende fuenfzig. Er hat noch nie in diesem Haus uebernachtet und wird nie zum Essen bleiben.
+
+**Was er ist:** exzellent, langsam auf die richtige Art, und vollstaendig korrekt. *"The offer had gone out on the Monday, in the careful and entirely correct way that Mr Chae did everything."* Er baut, was verlangt wird, in der Form, die haelt, und er baut es besser als noetig.
+
+**Und was mit ihm gemacht wird, und das ist sein ganzer Wert im Buch: Er wird systematisch nicht eingeweiht.** Annies stehende Anweisung, dreimal im Wortlaut: *"Build the bid with Mr Chae and do not let him see the reason for it"* (Kapitel 18), *"Mr Chae has the structure and he does not have the reason, and he is not going to get it"* (Kapitel 20), *"Mr Chae will not be told why and he will not enjoy it"* (Kapitel 24).
+
+**Der letzte Halbsatz ist der Faden.** Er merkt es. Ein Mann, der ein Gebot fuer ein ganzes Unternehmen aufsetzt, das an einem Vorstand scheitern muss, den er selbst auf Seite sechzehn beschrieben hat - und der drei Wochen spaeter eine gedeckelte Vollmacht fuer einen Angestellten ohne Titel aufsetzen soll, mit Verfallsdatum und ohne Begruendung - **rechnet das zusammen.** Er ist nicht dumm, er ist nur nicht gefragt. Wann ihm das zu viel wird und was er dann tut, ist offen.
+
+**Warum er ueberhaupt existiert.** Georgij sagt in Kapitel 19 zu Woo: *"I have nothing to sign with, and that is not modesty. It is the arrangement."* Damit muss es jemanden geben, der unterschreibt und aufsetzt, und dieser Jemand hat ab Kapitel 24 einen Grund, sich zu wundern. **Er ist die einzige Figur im Buch, die auf Annies Seite steht und trotzdem eine Gefahr ist**, und zwar nicht aus Illoyalitaet, sondern aus Kompetenz.
+
+**Herkunft der Figur, ehrlich vermerkt:** Er ist in Kapitel 18 als bequemer Name fuer *"ihre Leute"* entstanden und wurde vier Kapitel lang benutzt, bevor er hier stand. Der Autor hat entschieden, ihn zu behalten. *Kanon ab Kapitel 18.*
+
 **Mrs Ahn** - Kommt sechs Morgen die Woche und macht ausschließlich Wäsche, seit 2009.
 *Kanon, Kapitel 5.*
 
