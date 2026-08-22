@@ -529,3 +529,39 @@ bittet nirgends darum, freigelassen zu werden. Der Gegenvorschlag aus Block H wa
 die einzige Stelle, an der er es getan haette. Ein Mann, der um seine Freiheit
 bittet, hat einen Preis fuer sich genannt, und das ist genau das, was diese Figur
 nicht tut.
+
+---
+
+### Die Frage nach der Veraeusserung steht NICHT im Bericht
+
+**Entschieden am 22.08. vom Autor.** Sang-hoon soll aus Georgijs neunzehn Seiten
+nur erfahren, welche Vorstandshaelfte verkaufen will. Die Frage, ob ein Vorstand,
+der nicht mehr tagt, eine Veraeusserung genehmigen kann, bringt er selbst mit.
+
+**Warum das besser ist.** Ein Dokument, das einem Fremden den genauen Mechanismus
+seines eigenen Ruins mitliefert, riecht. Sang-hoon ist die vorsichtigste Figur
+des Buches, und er wuerde es riechen. So gibt Georgij ihm nichts in die Hand.
+
+**Und es dreht die Information um.** Wenn die Frage nicht auf dem Papier steht,
+dann hat Sang-hoon sie mitten in einem Gespraech ueber eine Decke aus eigenem
+Antrieb gestellt - und damit verraten, dass er nicht mehr prueft, sondern
+rechnet. Georgijs Satz dazu in Kapitel 18: *"A man who is still deciding does not
+ask what will be in his way afterwards."*
+
+**Drei Stellen mussten nachgezogen werden**, und die dritte hat erst die
+Gegenprobe ueber alle aktuellen Fassungen gefunden:
+
+- **Kapitel 17** (v12.6): aus *"which is page fourteen"* wird *"and that is not in
+  the document anywhere. He brought it with him."*
+- **Kapitel 18** (v2.2): oben liegt jetzt **Seite sechzehn**, die Seite ueber den
+  im Maerz gespaltenen Vorstand und darueber, welche Haelfte aufgehoert hat zu
+  kommen. Die vierte Bleistiftnotiz steht dort und lautet **"Which."** - ein Mann,
+  der seinen Vertragspartner auswaehlt. *"Later."* faellt weg.
+- **Kapitel 16** (v1.14): die Notizbuchzeile im Wagen sagte *"Disposal by a board
+  that has stopped meeting, page fourteen."* Jetzt: *"...which is nowhere in the
+  pages."*
+
+**Die Falle bleibt unveraendert und wird sogar sauberer.** Sie war nie, dass er
+den Hinweis uebersieht. Sie ist, dass er ihn kennt und fuer Papierkram haelt.
+Woos Satz aus Kapitel 13 traegt sie weiter: einmal entschieden, dass jemand die
+Muehe wert ist, ist der Rest Papierkram.

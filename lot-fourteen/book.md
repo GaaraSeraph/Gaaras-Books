@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.054 Woerter.
+19 Kapitel. 57.112 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -24,9 +24,9 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
-| 16 | v1.13 | 3.196 |
-| 17 | v12.5 | 2.686 |
-| 18 | v2.1 | 2.825 |
+| 16 | v1.14 | 3.200 |
+| 17 | v12.6 | 2.685 |
+| 18 | v2.2 | 2.880 |
 | 19 | v1.2 | 3.203 |
 
 ---
@@ -4539,7 +4539,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4857,7 +4857,7 @@ It was paper and it lived in his own pocket, and it was the only thing he wrote 
 
 *Two years for a family. Eighteen months if somebody frightens them.*
 
-*Slot fees, page seven. Disposal by a board that has stopped meeting, page fourteen.*
+*Slot fees, page seven. Disposal by a board that has stopped meeting, which is nowhere in the pages.*
 
 *He read the first page twice.*
 
@@ -4890,7 +4890,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.5 · EN
+*Lot Fourteen* · Version 12.6 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4912,7 +4912,7 @@ The car went under a bridge. The lights crossed her face and left it.
 
 "He kept the report. I get it back on Thursday." Georgij looked out at the expressway going past. "He read the first page, then the second, then the first again, and nothing happened to his face.
 
-"Twenty minutes later we were talking about the ceiling at the Grand Hotel. He asked me about slot fees on a lane that is on page seven, and then whether a board that has stopped meeting can still authorise a disposal, which is page fourteen. He did not look at the pages for either of them."
+"Twenty minutes later we were talking about the ceiling at the Grand Hotel. He asked me about slot fees on a lane that is on page seven. Then he asked whether a board that has stopped meeting can still authorise a disposal, and that is not in the document anywhere. He brought it with him."
 
 "He has bitten."
 
@@ -5153,7 +5153,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5179,13 +5179,13 @@ Then he squared them and saw that the order was wrong.
 
 He had written them in the order a man reads a thing in. Background, then the money going out, then the board, then the rumours, then the four routes at the end, because the routes were the answer and you do not put the answer on the first page.
 
-Page fourteen was on top.
+Page sixteen was on top.
 
-Page fourteen was the one about whether a board that has stopped meeting can still authorise a disposal.
+Page sixteen was the one about the board that split in March, and which half of it had stopped coming.
 
 He sat looking at that for rather longer than it takes to look at a page.
 
-A man who is deciding whether to buy a shipping group reads the routes first. A man who has already decided reads the paperwork that will stop him signing. Sang-hoon had not put page fourteen on top to be clever. He had put it on top last, when he finished with it, and he had not bothered to put it back.
+A man who is deciding whether to buy a shipping group reads the routes first, because the routes are what he would be buying. A man who has already decided reads the page that tells him who to sit down with. Sang-hoon had not put it on top to be clever. He had put it on top last, when he finished with it, and he had not bothered to put it back.
 
 ---
 
@@ -5197,13 +5197,13 @@ On page eleven, beside a paragraph that said *this is a guess* in the middle of 
 
 *No.*
 
-On page sixteen, beside a sentence about the Hanseong board and the March split, another one.
-
-*Later.*
-
-And on page nine, beside the two rumours from two mouths that had no reason to know each other:
+On page nine, beside the two rumours from two mouths that had no reason to know each other, another one.
 
 *Same.*
+
+And on page sixteen, beside the sentence naming the four men who had stopped coming to the board in March:
+
+*Which.*
 
 ---
 
@@ -5249,11 +5249,11 @@ That was worth more than the corrections, and the corrections were worth a great
 
 He found Annie in the study at eleven.
 
-"He has read it twice and corrected it in four places, and he has put page fourteen on top."
+"He has read it twice and corrected it in four places, and he has put page sixteen on top."
 
-"Which is fourteen."
+"Which is sixteen."
 
-"Whether a board that has stopped meeting can still authorise a disposal." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read to find out what will be in your way."
+"The board that split in March, and the four men who stopped coming." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read when you have decided and you are choosing which of them to telephone."
 
 Annie turned her chair a quarter turn.
 
@@ -5321,17 +5321,21 @@ Annie looked at him.
 
 Annie turned the pen over once.
 
-"And page fourteen."
+"And the disposal."
 
-"Page fourteen is not his way in. It is what is waiting for him after he is in." Georgij put one hand flat. "He will hold half of a company whose board still cannot meet. He cannot have the routes assigned to him. He cannot sell what he does not want. He cannot resolve any of it, because the deadlock he bought into is the deadlock."
+"That is not his way in. It is what is waiting for him after he is in." Georgij put one hand flat. "He will hold half of a company whose board still cannot meet. He cannot have the routes assigned to him. He cannot sell what he does not want. He cannot resolve any of it, because the deadlock he bought into is the deadlock."
 
 "He will have paid for four berths he cannot move."
 
 "Yes."
 
-"He read that page twice."
+"Is it in your pages?"
 
-"He did, and he asked me about it over a conversation about a ceiling, and I answered him accurately." Georgij did not look away. "He will treat it as something to be dealt with afterwards. Chairman Woo told me in October that once somebody decides you are worth the trouble, the rest is paperwork. He was talking about money. Sang-hoon applies it to everything."
+"No. I did not put it there and I would not have." Georgij did not look away. "He asked me about it himself, over a conversation about a ceiling, and I answered him accurately. That is how I know he has stopped weighing it. A man who is still deciding does not ask what will be in his way afterwards."
+
+"And he thinks he can deal with it."
+
+"Chairman Woo told me in October that once somebody decides you are worth the trouble, the rest is paperwork. He was talking about money. Sang-hoon applies it to everything."
 
 ---
 

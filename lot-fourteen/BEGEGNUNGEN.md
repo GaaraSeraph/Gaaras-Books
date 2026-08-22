@@ -234,12 +234,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:142 | Annie looked at him. |
 | 48 | ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
 | 48 | ch18:168 | Annie turned the pen over once. |
-| 48 | ch18:184 | Annie sat with that. |
-| 48 | ch18:220 | Annie stopped. |
-| 48 | ch18:232 | Annie was quiet for a while. |
-| 48 | ch18:258 | Annie picked the pen up. |
-| 48 | ch18:268 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
-| 48 | ch18:294 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:188 | Annie sat with that. |
+| 48 | ch18:224 | Annie stopped. |
+| 48 | ch18:236 | Annie was quiet for a while. |
+| 48 | ch18:262 | Annie picked the pen up. |
+| 48 | ch18:272 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
+| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -291,7 +291,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:230` (Tag 46) - two
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
-- `ch18:268` (Tag 48) - one
+- `ch18:272` (Tag 48) - one
 
 ---
 
@@ -452,11 +452,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
 | 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
 | 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
-| 48 | ch18:204 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | ch18:274 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | ch18:284 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | ch18:294 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
+| 48 | ch18:208 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | ch18:278 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | ch18:288 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 | 48 | ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
 | 48 | ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
 | 48 | ch19:42 | "Well," said Woo. |
@@ -504,7 +504,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch13:246` (Tag 27) - six
 - `ch14:144` (Tag 34) - fifty-one
-- `ch18:274` (Tag 48) - nine, one, three
+- `ch18:278` (Tag 48) - nine, one, three
 - `ch19:16` (Tag 48) - fifty
 - `ch19:162` (Tag 48) - three, twenty
 - `ch19:176` (Tag 48) - fifty-one
@@ -571,12 +571,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:66 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
-| 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first. A man who .. |
+| 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
 | 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
 | 48 | ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
-| 48 | ch18:212 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
-| 48 | ch18:236 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
+| 48 | ch18:216 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
+| 48 | ch18:240 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -599,10 +599,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:326` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:66` (Tag 46) - one
-- `ch18:34` (Tag 48) - fourteen
 - `ch18:70` (Tag 48) - four
-- `ch18:212` (Tag 48) - one, three
-- `ch18:236` (Tag 48) - ten, three
+- `ch18:216` (Tag 48) - one, three
+- `ch18:240` (Tag 48) - ten, three
 - `ch19:290` (Tag 48) - one
 
 ---
