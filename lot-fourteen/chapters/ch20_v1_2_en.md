@@ -1,13 +1,13 @@
-Chapter 20: I came back with a favour
-Lot Fourteen · Version 1.1 · EN
+# Chapter 20: I came back with a favour
+*Lot Fourteen* · Version 1.2 · EN
 
-Day 49 · Friday 21 November
+*Day 49 · Friday 21 November*
 
 He wrote it out that night and slept on it, which he had learned to do at nineteen and had never once regretted.
 
 In the morning it was four pages and he cut it to two.
 
-* * *
+---
 
 Ji-won brought coffee up to the east room at half past seven and did not ask why he was already at the desk. She put the cup down on the side away from the papers, without being told, which she had not done in October.
 
@@ -21,7 +21,7 @@ Georgij smiled at her, and meant it, and it got nothing at all and was not meant
 
 She went. He looked at the door for a moment and then went back to the second page.
 
-* * *
+---
 
 Annie read the contract before she said anything at all.
 
@@ -45,7 +45,7 @@ Annie put the pages down and squared them.
 
 "Comfortably." He stayed where he was. "Your people will have it before I say it out loud. You should read that number with the throughput beside it and not with me standing here."
 
-* * *
+---
 
 "His conditions."
 
@@ -61,7 +61,7 @@ Annie put the pages down and squared them.
 
 Annie almost did something with her mouth and then did not.
 
-* * *
+---
 
 "How did you get in the door?"
 
@@ -87,7 +87,7 @@ Annie put two fingers on the corner of the contract.
 
 "No, Mistress."
 
-* * *
+---
 
 "The twenty per cent," she said.
 
@@ -105,7 +105,7 @@ Annie looked at him for slightly longer than the sentence needed.
 
 She did not say whether that was right.
 
-* * *
+---
 
 "Then the other thing," said Georgij.
 
@@ -129,7 +129,7 @@ Annie's hand stopped on the edge of the desk.
 
 The fourth was the fourth of October, and neither of them said so, and neither of them had to.
 
-* * *
+---
 
 "He recognised the seventeenth of September," said Georgij. "Two men came to that office on that day and asked what he would take for the terminal and would not say who they were asking for. He threw them out in about four minutes, because the second crane was down and he was in a filthy temper, and that is why he remembers the date."
 
@@ -141,7 +141,7 @@ Annie was quiet for the length of the gardeners arriving.
 
 She had had the name since his first week in the house. She did not offer it, and he did not ask for it, and both of those things had been true for forty-nine days.
 
-* * *
+---
 
 "Anything else."
 
@@ -165,7 +165,7 @@ The room went on being a room.
 
 "He is in that trade," said Georgij. "He said so. He said he had just signed seven years of it, and that he would like me to notice that he signed it anyway."
 
-* * *
+---
 
 Annie did not say anything.
 
@@ -177,7 +177,7 @@ Georgij stood at the corner of the desk and waited, and found that he did not kn
 
 He had been in eleven houses and had never once been unable to read a woman across a desk, and the difference now was not that she had become harder to read. It was that he had stopped assuming he could.
 
-* * *
+---
 
 "And what did you say?"
 
@@ -195,7 +195,7 @@ Annie nodded once, the way you do when a figure comes out where you expected it 
 
 Then she went back to the second page.
 
-* * *
+---
 
 "The Hanseong offer goes out on Monday," she said. "Mr Chae has the structure and he does not have the reason, and he is not going to get it. Build the ceiling with him this afternoon and do not let him admire it."
 
@@ -207,7 +207,7 @@ Then she went back to the second page.
 
 "Then find Chairman Woo a house."
 
-* * *
+---
 
 He went down through the hall at ten past nine with the gardeners already at the east side and the noise coming in through the glass.
 
@@ -233,6 +233,6 @@ People give parties in December.
 
 One corner of his mouth went up, at nobody, in an empty hall. It was the first thing his face had done all morning that he had not decided on. Nobody in the house could see it, and that was the only reason it was allowed to happen.
 
-* * *
+---
 
-Then he went to find a telephone that was not the one in the east room. That one was billed monthly to a company in Yeouido, and this was going to be a conversation about who was invited.
+Then he went back up to the east room and picked up the telephone, which was hers, in a house that was hers, to arrange an evening in somebody else's.

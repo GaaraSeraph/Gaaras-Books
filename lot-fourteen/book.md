@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 59.336 Woerter.
+20 Kapitel. 59.328 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -28,7 +28,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 17 | v12.8 | 2.694 |
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
-| 20 | v1.1 | 2.070 |
+| 20 | v1.2 | 2.062 |
 
 ---
 
@@ -5800,7 +5800,7 @@ At the gate he stopped.
 ---
 
 # Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6036,4 +6036,4 @@ One corner of his mouth went up, at nobody, in an empty hall. It was the first t
 
 ---
 
-Then he went to find a telephone that was not the one in the east room. That one was billed monthly to a company in Yeouido, and this was going to be a conversation about who was invited.
+Then he went back up to the east room and picked up the telephone, which was hers, in a house that was hers, to arrange an evening in somebody else's.
