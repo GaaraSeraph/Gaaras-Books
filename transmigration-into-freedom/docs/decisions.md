@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Where the name comes from, and where that gets spent ===
+Origin settled: he took the name at nineteen from a story he had loved as a
+boy, from a character who had been kept apart from everyone and concluded he
+needed nobody. It is the central argument of this book worn as a name, chosen
+before his life made it true and then lived into for nineteen years. That is
+worth more than any explanation he could give a character, which is why he
+never gives one.
+The source work is NOT named on the page, ever. Discussed and rejected on three
+grounds: it dates the book to a decade, it pulls a licensed property into
+something meant for publication, and a reader who recognises it gets an in-joke
+where the wound should be. The permitted vocabulary is "a story he read as a
+boy". Whoever knows it will know it.
+Placement chosen by the author out of three options: it lands the first time
+somebody here writes the name down. Rejected were Marit using it casually about
+him (too close to ch7, where she is already the cost) and the system naming him
+a second time at a formal moment (right idea, but it must not arrive before
+stage 3 of the arc has actually hurt). The written-down version wins because it
+runs on machinery that is already standing - the elder's unanswered monthly
+letter and the proof Gaara owes him - and because it collects thread 9 (reading
+is untested) and thread 13 (he has not seen a book) in the same scene. Details
+in thread 16.
+
 === The name Gaara is self-chosen, and the system read it off him ===
 Decided by the author: Gaara is not a birth name. He took it for himself in the
 old world, it established itself as what people called him, and it never

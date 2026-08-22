@@ -21,10 +21,19 @@ Titles from Chapter 5 on should promise something rather than describe it.
 
 === 1. PROTAGONIST ===
 
-Name: Gaara. He picked it himself, back there. It started as something he was
-called and then it stuck, until it was simply what people used without
-thinking about it - and it was never on a document, a contract or a payslip in
-his life. He brought it with him. The panel in ch1 already had it and spelled
+Name: Gaara. He picked it himself, back there, at nineteen. He took it from a
+story he had loved as a boy, from a character in it: a child who had been kept
+apart from everyone for what he carried, and who decided from that that he
+would need nobody. He chose that name BEFORE his own life made it true, and
+then spent nineteen years walking into it. He has never said this out loud to
+anyone and he is not going to.
+DO NOT NAME THE SOURCE WORK ON THE PAGE. No title, no author, no quotable
+allusion. "A story he read as a boy" and "a boy in it who was kept apart" is
+the whole permitted vocabulary. Naming it dates the book, drags someone else's
+property into a published novel, and turns a wound into an in-joke.
+The name started as something he was called and then it stuck, until it was
+simply what people used without thinking about it - and it was never on a
+document, a contract or a payslip in his life. He brought it with him. The panel in ch1 already had it and spelled
 it correctly, so the system did not hand it to him; it read it off him.
 Here it stops being a nickname and becomes the thing itself. There is no other
 name underneath it in this world, nobody who knew the first one, no paper to
@@ -34,8 +43,14 @@ knows she is right, and that is why the answer is a claim rather than a
 correction. Do not let a later chapter soften that exchange.
 UNSPENT, and worth spending on purpose: the panel showed the name he calls
 himself, not the name he was given. So the thing reads self-conception, not
-record. Nothing on the page says this yet. It sits next to thread 1 (it can
-write into his head) and thread 11 (Hallvard shows nothing at all).
+record - and what it read off him was a borrowed fiction, which it then made
+his true name without asking. Nothing on the page says this yet. It sits next
+to thread 1 (it can write into his head) and thread 11 (Hallvard shows nothing
+at all).
+RESERVED BEAT, do not spend it anywhere else: the origin lands the first time
+somebody in this world WRITES THE NAME DOWN. See thread 16 for the shape of
+that scene and what else it has to carry. Until then, nothing about where the
+name comes from appears in any chapter.
 
 Old life
 - Age at transition: 38.
@@ -215,11 +230,24 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
-16. What the system read when it read his name. Settled: the name is one he
-    chose for himself in the old world (section 1). Still open, and unspent:
-    that means the panel showed self-conception and not record, which is a
-    different kind of thing from counting a goat. Also open: whether anyone
-    here ever hears the name he was born with, and what it would cost him.
+16. The name, and the first time it becomes a record. Settled (section 1): he
+    took it at nineteen from a story he loved as a boy, from a child who was
+    kept apart and decided he needed nobody. Nothing of that is on the page,
+    and it is RESERVED for one scene: the first time somebody in this world
+    writes the name down. He carried it for nineteen years without it ever
+    touching paper; here it becomes an entry.
+    The scene needs no new machinery, everything is already standing: Hallvard
+    writes to the lord every month (ch4, ch5) and Gaara owes him proof out of
+    the ruin (ch5). So the vehicle is the monthly letter.
+    It has to carry three things at once, which is why it is worth waiting for:
+    the origin, in narration only, never as an explanation to another person;
+    thread 9, because this is where reading finally gets tested and he watches
+    his own name go down in letters he may not be able to check; and thread 13,
+    because it is the first writing he has seen in this world at all.
+    Decide at the moment of writing, not before: which script the panel renders
+    in, and therefore whether he can read the letter over the elder's shoulder.
+    NOT in chapter 7 - that chapter is carrying the dependency cost, and two
+    heavy things in one chapter devalue both.
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.
