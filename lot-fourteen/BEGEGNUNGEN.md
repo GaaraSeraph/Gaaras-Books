@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 184 | 18 (01-18) | 1 | 48 |
+| Annie | 186 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 52 | 8 (10-18) | 22 | 48 |
-| Chairman Woo | 43 | 9 (07-18) | 22 | 48 |
+| Park Sang-hoon | 53 | 8 (10-18) | 22 | 48 |
+| Chairman Woo | 44 | 9 (07-18) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
 | Mr Hong | 27 | 6 (07-17) | 22 | 46 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-184 Nennungen in 18 Kapiteln.
+186 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -232,12 +232,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:104 | Annie turned her chair a quarter turn. |
 | 48 | ch18:126 | Annie put down the pen she had not been using. |
 | 48 | ch18:142 | Annie looked at him. |
-| 48 | ch18:158 | Annie sat with that. |
-| 48 | ch18:194 | Annie stopped. |
-| 48 | ch18:206 | Annie was quiet for a while. |
-| 48 | ch18:232 | Annie picked the pen up. |
-| 48 | ch18:242 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
-| 48 | ch18:268 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
+| 48 | ch18:168 | Annie turned the pen over once. |
+| 48 | ch18:184 | Annie sat with that. |
+| 48 | ch18:220 | Annie stopped. |
+| 48 | ch18:232 | Annie was quiet for a while. |
+| 48 | ch18:258 | Annie picked the pen up. |
+| 48 | ch18:268 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
+| 48 | ch18:294 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -289,7 +291,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:230` (Tag 46) - two
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
-- `ch18:242` (Tag 48) - one
+- `ch18:268` (Tag 48) - one
 
 ---
 
@@ -407,7 +409,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-52 Nennungen in 8 Kapiteln.
+53 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -461,8 +463,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first. A man who .. |
 | 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
 | 48 | ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | ch18:186 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
-| 48 | ch18:210 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
+| 48 | ch18:212 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
+| 48 | ch18:236 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -486,14 +489,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:66` (Tag 46) - one
 - `ch18:34` (Tag 48) - fourteen
 - `ch18:70` (Tag 48) - four
-- `ch18:186` (Tag 48) - one, three
-- `ch18:210` (Tag 48) - ten, three
+- `ch18:212` (Tag 48) - one, three
+- `ch18:236` (Tag 48) - ten, three
 
 ---
 
 ## Chairman Woo
 
-43 Nennungen in 9 Kapiteln.
+44 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -536,10 +539,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
 | 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
 | 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | ch18:178 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | ch18:248 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | ch18:258 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | ch18:268 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
+| 48 | ch18:204 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | ch18:274 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | ch18:284 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | ch18:294 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -563,7 +567,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch13:246` (Tag 27) - six
 - `ch14:144` (Tag 34) - fifty-one
-- `ch18:248` (Tag 48) - nine, one, three
+- `ch18:274` (Tag 48) - nine, one, three
 
 ---
 

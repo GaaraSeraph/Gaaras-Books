@@ -408,32 +408,52 @@ haelt Georgij kalt an einer Stelle, an der die erste Fassung ihn geruehrt hat.
 
 ### Das Scheingebot auf Hanseong
 
-**Entschieden am 22.08. vom Autor.** Zur Wahrung des Scheins versucht Annie
-selbst, Hanseong zu kaufen, damit der Verdacht bestaetigt wird, dass es ein
-lohnendes Ziel ist.
+**Entschieden am 22.08. vom Autor**, und einmal korrigiert, weil die erste
+Mechanik nicht funktionierte.
 
-**Der Mechanismus, der es sicher macht:** Das Gebot ergeht **unter dem Vorbehalt
-eines Vorstandsbeschlusses.** Der Hanseong-Vorstand tagt seit Maerz nicht mehr,
-weil die eine Haelfte nicht mit der anderen in einem Raum sitzt. Damit ist die
-Bedingung das, was jeder ernsthafte Kaeufer und jeder Anwalt ohnehin
-hineinschreiben wuerde, sie ist unauffaellig, und sie ist nicht erfuellbar.
+**Der Zweck.** Zur Wahrung des Scheins versucht Annie selbst, Hanseong zu
+kaufen, damit der Verdacht bestaetigt wird, dass es ein lohnendes Ziel ist. Ein
+Mann, der gebissen hat, prueft weiter, und das Einzige, was einen Mann am
+Pruefen hindert, ist zuzusehen, wie jemand anders nach demselben Teller greift.
 
-**Annie kann also nicht gewinnen**, ihr Scheitern steht schriftlich, mit Datum
-und einem Grund, den jeder nachlesen kann, und niemand kann es als Absicht
-konstruieren.
+**Verworfen: das Gebot unter dem Vorbehalt eines Vorstandsbeschlusses.** Die
+erste Fassung liess Annie so bieten und schloss daraus, Sang-hoon lerne daraus,
+"ueber einen Beschluss hinwegzugehen, den es nicht geben wird". **Das geht
+nicht.** Ohne wirksamen Beschluss ist eine Veraeusserung nichtig, und Sang-hoon
+ist die vorsichtigste Figur des Buches. Ein Beschluss kann ihm nicht egal sein.
 
-**Und die Lehre, die Sang-hoon daraus zieht, ist die eigentliche Waffe.** Er hat
-gerade zwei Tage auf Seite vierzehn verbracht, also auf der Frage, ob ein
-Vorstand, der nicht mehr tagt, noch eine Veraeusserung genehmigen kann. Aus
-Annies Scheitern liest er, dass der einzige Weg hinein ueber einen Beschluss
-fuehrt, den es nicht geben wird, und dass er dazu bereit ist und sie nicht.
-Georgij erfindet dabei nichts: es ist dieselbe Tatsache von der anderen Seite.
+Ausserdem widersprach es Kapitel 17, wo der Weg laengst steht: *Half that board
+wants out badly enough to sign anything, and will sign cheaply, and that is the
+half he will sit down with.*
 
-**Das Restrisiko steht im Text und wird Annie vorgelegt**, bevor sie zustimmt:
-Wenn der Vorstand doch zusammentritt, hat sie eine Reederei ohne
-arbeitsfaehigen Vorstand gekauft. Gegenmittel ist eine Untergrenze im Gebot,
-niedrig genug zum Abgelehntwerden und hoch genug zum Geglaubtwerden, und
-Georgij baut sie **mit** ihren Leuten und nicht fuer sie.
+**Wie es wirklich laeuft.** Er braucht ueberhaupt keinen Beschluss, um
+hineinzukommen. Er kauft die **Anteile der Haelfte, die raus will**, und Anteile
+verkaufen die, denen sie gehoeren. Seite vierzehn ist nicht sein Hindernis,
+sondern die **Falle danach**: Er haelt dann die Haelfte einer Firma, deren
+Vorstand weiterhin nicht tagen kann, kann sich die Routen nicht uebertragen
+lassen, kann nicht verkaufen, was er nicht will, und kann nichts davon aufloesen,
+weil die Blockade, in die er hineingekauft hat, die Blockade ist. Genau das sagt
+Kapitel 17 bereits.
+
+**Die richtige Mechanik: Annie bietet fuer das Ganze.** Ein Gebot auf eine ganze
+Firma wird von denen angenommen, denen sie gehoert, und die sitzen seit Maerz
+nicht mehr zusammen in einem Raum. Ihre Anwaelte bauen es sorgfaeltig, ordentlich
+und voellig korrekt, und es braucht beide Haelften auf einem Blatt Papier. Sie
+bekommen es nicht einmal in derselben Woche zu sehen.
+
+**Was Sang-hoon daraus lernt, ist nicht Kuehnheit, sondern dass die Vordertuer
+zu ist.** Ein ernsthafter Kaeufer ist mit Geld hingegangen und wieder abgezogen,
+aus einem Grund, ueber den er selbst schon zweimal gelesen hat. Wer das sieht,
+sucht keinen dritten Weg mehr. **Er hoert auf zu suchen und hoert auf, Leute zu
+fragen**, und Leute fragen ist die einzige Art, wie jemand herausfindet, was
+Georgij tut.
+
+**Das Restrisiko** steht im Text und liegt Annie vor, bevor sie zustimmt: Wenn
+die beiden Haelften sich doch einigen, kauft sie eine Reederei ohne
+arbeitsfaehigen Vorstand. Gegenmittel ist eine **Obergrenze** im Gebot, niedrig
+genug zum Abgelehntwerden und hoch genug zum Geglaubtwerden. (In der ersten
+Fassung stand dort "floor", also eine Untergrenze, und das war das Gegenteil des
+Gemeinten.) Georgij baut sie **mit** ihren Leuten und nicht fuer sie.
 
 ---
 

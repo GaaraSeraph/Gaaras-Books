@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-18 Kapitel. 53.640 Woerter.
+18 Kapitel. 53.851 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -26,7 +26,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 15 | v2.3 | 4.210 |
 | 16 | v1.13 | 3.196 |
 | 17 | v12.5 | 2.686 |
-| 18 | v2.0 | 2.614 |
+| 18 | v2.1 | 2.825 |
 
 ---
 
@@ -5152,7 +5152,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5290,21 +5290,47 @@ Annie put down the pen she had not been using.
 
 "How does it lose."
 
-"You make the offer conditional on a board resolution."
+"You bid for the whole of it."
 
 Annie looked at him.
 
-"There is no board."
+"Go on."
 
-"There is a board. It has not met since March and it will not meet, because half of it will not sit in a room with the other half." He did not move. "Every serious buyer in this country would put that condition in. It is what your lawyers would insist on if I had never existed. It is careful, it is ordinary, and it cannot be signed."
+"An offer for all of a company is agreed by the people who own it, and the people who own that one have not sat in a room together since March." He did not move. "Your lawyers will do it the way they do everything. It will be careful and ordinary and entirely correct, and it will need both halves of that board to put their names on one sheet of paper."
+
+"And they will not."
+
+"They will not. They will not even receive it in the same week."
+
+---
 
 "So I am seen to want it, and I am seen to be sensible, and I fail."
 
-"You fail in writing, at a date, with a reason anybody can read." He let that sit for a second. "And the man who has just spent two days on page fourteen reads it and learns exactly one thing from it. He learns that the only way into that company is over the top of a resolution that cannot be obtained, and that he is willing to do that and you were not."
+"You fail in writing, at a date, with a reason anybody can read."
 
-"You are teaching him to be reckless."
+"And what does that teach him." Annie had not moved. "He was never going to buy it that way."
 
-"I am confirming to him that he is the only person prepared to be." Georgij said it without any weight anywhere. "It is the same fact from the other side, and it is true, and I would not be telling him anything I invented."
+"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." Georgij turned his hand over. "Nobody needs a resolution for that, and he knew it before I wrote a word."
+
+"Then you have told him nothing."
+
+"I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason he has already read about twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."
+
+---
+
+Annie turned the pen over once.
+
+"And page fourteen."
+
+"Page fourteen is not his way in. It is what is waiting for him after he is in." Georgij put one hand flat. "He will hold half of a company whose board still cannot meet. He cannot have the routes assigned to him. He cannot sell what he does not want. He cannot resolve any of it, because the deadlock he bought into is the deadlock."
+
+"He will have paid for four berths he cannot move."
+
+"Yes."
+
+"He read that page twice."
+
+"He did, and he asked me about it over a conversation about a ceiling, and I answered him accurately." Georgij did not look away. "He will treat it as something to be dealt with afterwards. Chairman Woo told me in October that once somebody decides you are worth the trouble, the rest is paperwork. He was talking about money. Sang-hoon applies it to everything."
 
 ---
 
@@ -5318,7 +5344,7 @@ Annie sat with that.
 
 There it was.
 
-"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a floor under the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
+"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
 
 "You have thought about this since the envelope arrived."
 

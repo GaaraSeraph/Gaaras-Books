@@ -1,7 +1,7 @@
-Chapter 18: On account
-Lot Fourteen · Version 2.0 · EN
+# Chapter 18: On account
+*Lot Fourteen* · Version 2.1 · EN
 
-Day 48 · Thursday 20 November
+*Day 48 · Thursday 20 November*
 
 The document came back at ten past nine in the morning.
 
@@ -17,7 +17,7 @@ Jang brought it up himself.
 
 "I know you would."
 
-* * *
+---
 
 Georgij counted them before he read anything. Nineteen.
 
@@ -33,31 +33,31 @@ He sat looking at that for rather longer than it takes to look at a page.
 
 A man who is deciding whether to buy a shipping group reads the routes first. A man who has already decided reads the paperwork that will stop him signing. Sang-hoon had not put page fourteen on top to be clever. He had put it on top last, when he finished with it, and he had not bothered to put it back.
 
-* * *
+---
 
 There were four marks in the whole nineteen pages, and all four were in pencil.
 
 On page seven, beside his slot fee for the Busan lane, a figure. It was higher than his own by about a fifth, and it was written in the margin without a comment.
 
-On page eleven, beside a paragraph that said this is a guess in the middle of it, a single word.
+On page eleven, beside a paragraph that said *this is a guess* in the middle of it, a single word.
 
-No.
+*No.*
 
 On page sixteen, beside a sentence about the Hanseong board and the March split, another one.
 
-Later.
+*Later.*
 
 And on page nine, beside the two rumours from two mouths that had no reason to know each other:
 
-Same.
+*Same.*
 
-* * *
+---
 
 Georgij put that page down and stood up and walked to the window, which he did not often do.
 
 Two sources that corroborate each other are worth ten times one source. That was the whole reason the rumour was in the document. It had come to him twice, from a man in a shipping agency and from a woman who audits nobody that man has ever met.
 
-Same.
+*Same.*
 
 One mouth, dressed as two. Somebody had walked it round the long way and back again, and Georgij had received it at both ends and counted it twice, and had felt rather good about it for four days.
 
@@ -65,7 +65,7 @@ He went back to the desk and wrote the correction on the inside cover of the fil
 
 Then he did the other sum, which took longer and was less pleasant.
 
-* * *
+---
 
 He had given Park Sang-hoon four walls and a map of where they stood. He had given him confirmation, on the record, that Annie's side already held part of the Kim family. He had said out loud in the room what that cost him, because saying it was worth more than hiding it.
 
@@ -81,7 +81,7 @@ A man who owes a great deal and pays a little of it quickly is not a man clearin
 
 The car had left Yeouido at half past seven for exactly that reason.
 
-* * *
+---
 
 Georgij sat back.
 
@@ -91,7 +91,7 @@ Which meant there would be another evening.
 
 That was worth more than the corrections, and the corrections were worth a great deal.
 
-* * *
+---
 
 He found Annie in the study at eleven.
 
@@ -115,7 +115,7 @@ She did not say anything to that for a moment.
 
 "Say what you want."
 
-* * *
+---
 
 "Two things, Mistress, and the first one will sound like the opposite of what we agreed."
 
@@ -133,27 +133,53 @@ Annie put down the pen she had not been using.
 
 "I want a rival bid that loses," he said. "And I would like it to lose for a reason that is written down, and that has nothing to do with either of us."
 
-* * *
+---
 
 "How does it lose."
 
-"You make the offer conditional on a board resolution."
+"You bid for the whole of it."
 
 Annie looked at him.
 
-"There is no board."
+"Go on."
 
-"There is a board. It has not met since March and it will not meet, because half of it will not sit in a room with the other half." He did not move. "Every serious buyer in this country would put that condition in. It is what your lawyers would insist on if I had never existed. It is careful, it is ordinary, and it cannot be signed."
+"An offer for all of a company is agreed by the people who own it, and the people who own that one have not sat in a room together since March." He did not move. "Your lawyers will do it the way they do everything. It will be careful and ordinary and entirely correct, and it will need both halves of that board to put their names on one sheet of paper."
+
+"And they will not."
+
+"They will not. They will not even receive it in the same week."
+
+---
 
 "So I am seen to want it, and I am seen to be sensible, and I fail."
 
-"You fail in writing, at a date, with a reason anybody can read." He let that sit for a second. "And the man who has just spent two days on page fourteen reads it and learns exactly one thing from it. He learns that the only way into that company is over the top of a resolution that cannot be obtained, and that he is willing to do that and you were not."
+"You fail in writing, at a date, with a reason anybody can read."
 
-"You are teaching him to be reckless."
+"And what does that teach him." Annie had not moved. "He was never going to buy it that way."
 
-"I am confirming to him that he is the only person prepared to be." Georgij said it without any weight anywhere. "It is the same fact from the other side, and it is true, and I would not be telling him anything I invented."
+"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." Georgij turned his hand over. "Nobody needs a resolution for that, and he knew it before I wrote a word."
 
-* * *
+"Then you have told him nothing."
+
+"I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason he has already read about twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."
+
+---
+
+Annie turned the pen over once.
+
+"And page fourteen."
+
+"Page fourteen is not his way in. It is what is waiting for him after he is in." Georgij put one hand flat. "He will hold half of a company whose board still cannot meet. He cannot have the routes assigned to him. He cannot sell what he does not want. He cannot resolve any of it, because the deadlock he bought into is the deadlock."
+
+"He will have paid for four berths he cannot move."
+
+"Yes."
+
+"He read that page twice."
+
+"He did, and he asked me about it over a conversation about a ceiling, and I answered him accurately." Georgij did not look away. "He will treat it as something to be dealt with afterwards. Chairman Woo told me in October that once somebody decides you are worth the trouble, the rest is paperwork. He was talking about money. Sang-hoon applies it to everything."
+
+---
 
 Annie sat with that.
 
@@ -165,13 +191,13 @@ Annie sat with that.
 
 There it was.
 
-"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a floor under the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
+"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
 
 "You have thought about this since the envelope arrived."
 
 "I thought about it while I was standing at the window being pleased with a man for correcting my work." Georgij put both hands behind his back. "The pleasure was the useful part. It told me what he wants me to feel, and a man does not spend a car journey at half past seven in the morning on a feeling he does not want."
 
-* * *
+---
 
 "The second thing."
 
@@ -185,7 +211,7 @@ There it was.
 
 "It is sold within a year and split three ways, and one of the three is Sang-hoon." Georgij turned his hand over. "He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
 
-* * *
+---
 
 "You want me to buy a terminal."
 
@@ -201,7 +227,7 @@ Annie stopped.
 
 "Ten years, minimum volumes, with a number in it that means something." He did not soften it. "That is the most valuable single thing anybody in this city could hand him, and no part of it is a favour. There is no version of it that does not cost you real money if I have judged the throughput wrong."
 
-* * *
+---
 
 Annie was quiet for a while.
 
@@ -213,7 +239,7 @@ Annie was quiet for a while.
 
 "He will take a third of shares in a business under a contract he cannot alter and did not write." Georgij did not move. "That is a different terminal, and very nearly a different trade."
 
-* * *
+---
 
 "What does it cost me."
 
@@ -227,7 +253,7 @@ Annie was quiet for a while.
 
 "Because he is seventy-eight and he does not do business on Mondays with people who had to ask."
 
-* * *
+---
 
 Annie picked the pen up.
 
@@ -241,7 +267,7 @@ Annie picked the pen up.
 
 "Then take something with you that he has not asked for," said Annie, "because a man who is enjoying himself gives away the wrong things by accident, and I would rather you gave away the right one on purpose."
 
-* * *
+---
 
 He went down to the east room and got out the file.
 
