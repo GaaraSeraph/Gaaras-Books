@@ -1,0 +1,3 @@
+# Keep line endings stable (LF) in the repo across Windows/macOS/Linux,
+# so chapter edits don't produce spurious whole-file diffs.
+* text=auto eol=lf
