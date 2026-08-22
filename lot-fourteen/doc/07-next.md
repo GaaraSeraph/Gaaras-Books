@@ -11,6 +11,25 @@ nicht abgehakt.
 
 **Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet. **Die Heimfahrt nach Sang-hoon**, geschrieben als Kapitel 17 (v12.1, Tag 46, derselbe Abend wie Kapitel 16). Sie endet nicht auf "I enjoy this": darauf folgt *He had meant to stop there.* und das Geständnis über das Wort *Mistress*, und danach gibt Annie im Korridor die elf Häuser zurück. Der Wortlaut in `doc/05-continuity.md` unter "Festgelegte Zeile" reicht nur bis "I enjoy this." und beschreibt den ersten Teil.
 
+**NEU ab Kapitel 23, und es betrifft alles Weitere: Georgij kann unterschreiben.**
+Ab Montag, dem 1. Dezember, hat er eine Vollmacht mit benannten Gegenparteien,
+einer Obergrenze und einem Verfallsdatum am 1. Maerz. Er hat sie sich als
+Bezahlung fuer den Schock geben lassen, nicht als Vertrauensbeweis, und Mr Chae
+erfaehrt den Grund nicht.
+
+**Was daran zu beachten ist:** Der Satz *"I have nothing to sign with"* aus
+Kapitel 19 gilt ab Dezember nicht mehr und darf nicht mehr fallen. Bei Hanas
+Abend am 16. Dezember kann Georgij selbst zeichnen, solange die Gegenpartei
+benannt ist. Wer das vergisst, schreibt eine Szene, in der er aus einem Raum
+telefonieren muss, obwohl er es nicht mehr muesste.
+
+**Und der zweite offene Punkt aus derselben Nacht:** Er hat sie gebeten, es nie
+vor Zeugen zu tun. Sie hat nicht zugesagt. Sie hat die Fernbedienung in den Han
+geworfen und nichts dazu gesagt, und das ist keine Zusage, sondern eine
+Bezahlung. Die Bitte steht weiter offen.
+
+---
+
 **Als Nächstes, in dieser Reihenfolge:**
 
 1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben. **Weiterhin offen** - Kapitel 18 war dafür vorgesehen und hat es nicht aufgenommen, weil das Kapitel schon vier Bewegungen trug.

@@ -18,9 +18,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 230 | 21 (01-23) | 1 | 55 |
+| Annie | 235 | 21 (01-23) | 1 | 55 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
-| Chairman Woo | 75 | 13 (07-23) | 22 | 55 |
+| Chairman Woo | 76 | 13 (07-23) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 44 | 14 (03-23) | 1 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-230 Nennungen in 21 Kapiteln.
+235 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -275,15 +275,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:282 | Annie did not answer that. |
 | 55 | ch23:286 | Annie did not answer that either. |
 | 55 | ch23:310 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
-| 55 | ch23:328 | Annie laughed. |
-| 55 | ch23:352 | Annie turned her head. |
-| 55 | ch23:368 | Annie was quiet for a moment. |
-| 55 | ch23:380 | Annie did not say anything for a while. |
-| 55 | ch23:430 | "You are still wearing it," said Annie. |
-| 55 | ch23:450 | Annie looked out at the water where the other thing had gone. |
-| 55 | ch23:456 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch23:464 | "The car is at the end," said Annie. |
-| 55 | ch23:476 | Annie looked out of her side of it. |
+| 55 | ch23:326 | Annie took a while over that one. |
+| 55 | ch23:338 | "Say what you are thinking," said Annie. "You have got that face on." |
+| 55 | ch23:348 | Annie did not say anything. |
+| 55 | ch23:368 | Annie laughed. |
+| 55 | ch23:408 | Annie did not look away from him. |
+| 55 | ch23:424 | Annie went still in a way he had seen twice before and had never yet been able to price. |
+| 55 | ch23:434 | Annie looked at the water for a while. |
+| 55 | ch23:446 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
+| 55 | ch23:472 | Annie did not say anything for a while. |
+| 55 | ch23:518 | "You are still wearing it," said Annie. |
+| 55 | ch23:538 | Annie looked out at the water where the other thing had gone. |
+| 55 | ch23:544 | "Good," said Annie. "Then neither of us has to be brave about it." |
+| 55 | ch23:552 | "The car is at the end," said Annie. |
+| 55 | ch23:564 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -341,6 +346,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:148` (Tag 55) - one
 - `ch23:250` (Tag 55) - one
+- `ch23:326` (Tag 55) - one
 
 ---
 
@@ -493,7 +499,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-75 Nennungen in 13 Kapiteln.
+76 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -572,6 +578,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 | 55 | ch23:186 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 55 | ch23:426 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -610,6 +617,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:218` (Tag 49) - eight, nine, one, seven
 - `ch21:354` (Tag 49) - six
 - `ch23:186` (Tag 55) - four
+- `ch23:426` (Tag 55) - one
 
 ---
 
@@ -862,7 +870,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch23:288 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch23:490 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch23:578 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -888,7 +896,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
 - `ch23:288` (Tag 55) - eight, nine, one
-- `ch23:490` (Tag 55) - one, two
+- `ch23:578` (Tag 55) - one, two
 
 ---
 
@@ -1231,7 +1239,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:472 | Mr Ku had the heater on. |
+| 55 | ch23:560 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -1304,7 +1312,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
 | 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
-| 55 | ch23:324 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
+| 55 | ch23:364 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
 
 ### Zahlen in der Naehe von Tae-min
 
