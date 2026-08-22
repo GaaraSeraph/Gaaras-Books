@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.259 Woerter.
+17 Kapitel. 50.329 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -11,9 +11,9 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 |---|---|---|
 | 01 | v6.2 | 2.409 |
 | 02 | v11.5 | 3.174 |
-| 03 | v2.4 | 3.342 |
+| 03 | v2.5 | 3.378 |
 | 04 | v1.5 | 2.433 |
-| 05 | v5.5 | 4.297 |
+| 05 | v5.6 | 4.331 |
 | 06 | v1.2 | 2.072 |
 | 07 | v6.1 | 3.874 |
 | 08 | v3.1 | 2.672 |
@@ -594,7 +594,7 @@ Then he decided not to look at it again.
 ---
 
 # Chapter 3: Dead angles
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -663,6 +663,8 @@ She went up ahead of him with a torch she didn't need, because every second ligh
 "How long have you been in it?"
 
 "Fourteen months." She looked back again. "Sorry."
+
+Georgij smiled at her. He kept it small, because a large one at one in the morning from a man with a collar on would have been a second thing for her to be frightened of.
 
 "You don't need to keep saying that. Is it just the two of you?"
 
@@ -1120,7 +1122,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.5 · EN
+*Lot Fourteen* · Version 5.6 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1341,6 +1343,10 @@ The old man looked at him for the first time.
 "You'll want to keep your chin level," he said. "Not up. Level. Men lift the chin when there's something at the throat and then everybody looks at the throat."
 
 "Yes."
+
+Georgij smiled at him, and most of it was in the chin.
+
+The old man did not acknowledge it, which was the correct handling and the second courtesy he had done in fifty minutes.
 
 That was the whole of it. The assistant packed the case, the old man wrote one more line in his book, and they were gone at ten to twelve.
 

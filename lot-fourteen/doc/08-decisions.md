@@ -19,6 +19,30 @@ und warum, nicht nur was gilt.
 
 ---
 
+### "Thank you" ist ein Mittel und keine Wiederholung
+
+**Entschieden: bleibt, wie es ist. Nicht ausdünnen.**
+
+Der Satz steht siebzehnmal im Prosatext, achtzehnmal, wenn man die Überschrift
+von Kapitel 11 mitzählt. Sechzehn der siebzehn sind Georgijs, genau eines ist
+Annies, und das ist die Zeile, die dem Kapitel den Titel gibt.
+
+Das ist keine Formel, die sich abnutzt, sondern eine Figureneigenschaft. Es ist
+das Einzige, was er zu geben hat: an Ji-won für eine Lampe, an den Schneider, an
+Jang, an Hong für den dritten Namen, an Kang. Wer nichts besitzt, dankt oft.
+
+**Und der Ausfall trägt.** In Kapitel 14 bis 17 steht kein einziges. Das letzte
+im Buch ist Kapitel 13 an Chairman Woo. `doc/05-continuity.md` begründet die
+Wortlosigkeit für die festgelegte Zeile in Kapitel 17 ausdrücklich, aber sie
+reicht über vier Kapitel und nicht über eine Szene. Zweimal wird das Danken im
+Text zusätzlich abgewiesen: "Don't thank me yet" (Hana) und "Don't thank me. I
+have not given you a name." (Woo).
+
+Wer die Zahl in einem Durchgang für einen Tic hält, streicht das Mittel und den
+Ausfall in derselben Bewegung.
+
+---
+
 ---
 
 ### Was in Fassung 1.9 repariert wurde

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck. 22.770 Woerter.
+Alle 8 Dokumente am Stueck. 22.953 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -73,6 +73,7 @@ Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
   - [Bekannte Baustellen, Stand nach Kapitel 17](#bekannte-baustellen-stand-nach-kapitel-17)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
+  - ["Thank you" ist ein Mittel und keine Wiederholung](#thank-you-ist-ein-mittel-und-keine-wiederholung)
   - [Was in Fassung 1.9 repariert wurde](#was-in-fassung-1-9-repariert-wurde)
   - [Was aus dem Rohverlauf nicht übernommen wird](#was-aus-dem-rohverlauf-nicht-bernommen-wird)
   - [Offene Ausstattungsfrage: der Laptop](#offene-ausstattungsfrage-der-laptop)
@@ -1545,6 +1546,30 @@ und warum, nicht nur was gilt.
 - **Die Protokollszene.** Annie kann ihm keinen Regelbruch vorwerfen, den es noch nicht gibt, und tut es auch nicht. Sie verweigert ihm stattdessen die Regel.
 - **Der Wachmann als Menschenkenner.** Er analysiert Georgij nicht und bekommt von Annie kein Lob.
 - **Der Brieföffner.** Ersetzt durch die Nagelschere aus dem Maniküre-Etui.
+
+---
+
+### "Thank you" ist ein Mittel und keine Wiederholung
+
+**Entschieden: bleibt, wie es ist. Nicht ausdünnen.**
+
+Der Satz steht siebzehnmal im Prosatext, achtzehnmal, wenn man die Überschrift
+von Kapitel 11 mitzählt. Sechzehn der siebzehn sind Georgijs, genau eines ist
+Annies, und das ist die Zeile, die dem Kapitel den Titel gibt.
+
+Das ist keine Formel, die sich abnutzt, sondern eine Figureneigenschaft. Es ist
+das Einzige, was er zu geben hat: an Ji-won für eine Lampe, an den Schneider, an
+Jang, an Hong für den dritten Namen, an Kang. Wer nichts besitzt, dankt oft.
+
+**Und der Ausfall trägt.** In Kapitel 14 bis 17 steht kein einziges. Das letzte
+im Buch ist Kapitel 13 an Chairman Woo. `doc/05-continuity.md` begründet die
+Wortlosigkeit für die festgelegte Zeile in Kapitel 17 ausdrücklich, aber sie
+reicht über vier Kapitel und nicht über eine Szene. Zweimal wird das Danken im
+Text zusätzlich abgewiesen: "Don't thank me yet" (Hana) und "Don't thank me. I
+have not given you a name." (Woo).
+
+Wer die Zahl in einem Durchgang für einen Tic hält, streicht das Mittel und den
+Ausfall in derselben Bewegung.
 
 ---
 
