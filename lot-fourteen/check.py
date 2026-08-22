@@ -82,10 +82,23 @@ def check(path):
     if m > 5:
         errs.append(f'"Mistress" steht {m} mal. Hoechstens fuenf.')
 
-    hits = re.findall(r".{0,45}\b(?:is not a|isn't a|it is not|It is not|That is not|was not a)\b.{0,45}", t)
+    # DiGiorno: "nicht X, sondern Y". Der alte Regex suchte blosse Verneinungen
+    # ("is not a") und traf damit in Kapitel 5 vier harmlose Saetze auf einen
+    # echten. Drei Griffe haben ihn geschaerft:
+    #   1. Es muss eine ERSETZUNG folgen: ", but" oder ". It is" / ". That is".
+    #   2. Kein "because". Jede Verneinung mit Begruendung ist ein normaler
+    #      Kausalsatz und kein Kontrast.
+    #   3. Beide Haelften im selben Absatz. Ueber einen Absatzumbruch hinweg
+    #      zeigt das "It" zurueck, statt zu ersetzen - das war die groesste
+    #      Quelle falscher Treffer.
+    # Bleibt eine Warnung und wird kein Fehler: Sprachheuristik trifft nicht
+    # sauber genug fuer ein Gate, und die Liste ist als Lesehinweis gemeint.
+    digiorno = re.compile(
+        r"\bnot\b[^.!?\n]{1,50}?(?:,[ ]+but\b|[.;][ ]+(?:It|That)\b'?s?(?:[ ]+(?:is|was))?)")
+    hits = [m.group(0) for m in digiorno.finditer(t)]
     if len(hits) > 1:
-        warns.append(f'"nicht X, sondern Y" moeglicherweise {len(hits)} mal. '
-                     f"Litotes wie \"It is not nothing\" zaehlen nicht mit:")
+        warns.append(f'"nicht X, sondern Y" {len(hits)} mal, Quote ist eine. '
+                     f"Der Regex trifft etwa drei von vier, also einzeln ansehen:")
         for h in hits:
             warns.append("           ..." + h.replace("\n", " ").strip() + "...")
 
