@@ -22,6 +22,31 @@ never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
 
+=== The gate is a plug, and magic arrives by being stolen ===
+Two decisions carry chapter 9.
+First: the room behind the gate was full of water on purpose. The gate is not a
+drain gate, it is a stopper, and the dead city kept something under twenty-five
+feet of standing water and shut the door on it. Raise the door eighteen inches
+and the room empties over a spring. That makes the whole first arc a plumbing
+problem, which is far more frightening than a bigger monster, and it puts the
+solution in reach and out of reach at once: drop the gate, with gear they do not
+have, from a position where failing traps them.
+It also lets Gaara be wrong out loud. He told Marit at the gate in ch8 that you
+do not gate a drain to keep water in. In ch9 he says "I was wrong" in four
+words and keeps walking, which is the only way this character is allowed to be
+corrected.
+Second: magic arrives as a theft. He has hoarded 60 MP for nine chapters without
+spending a point, and the first thing that ever happens to that number is that
+something in the dark takes nineteen of it while his panel comes apart. He feels
+it leave, and the feeling is not pain, it is a draught in a house he thought was
+sealed. The arc document asked for magic as a problem rather than a present.
+This is the strongest version of that: he is not a wizard, he is a supply.
+Whether the nineteen come back is deliberately not decided.
+Pacing note, on the author's instruction to move faster: ch9 is 2032 words
+against roughly 2500 for its neighbours, with short paragraphs and no
+investigative monologues. Discoveries land in one or two lines and the chapter
+spends the saved room on the run.
+
 === Chapter 8 answers the crawler question by making it worse ===
 The first arc asked why the crawlers started coming out in spring. Answering it
 with a bigger monster would have been the cheap version. Instead the answer is

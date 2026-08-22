@@ -1,0 +1,241 @@
+# Chapter 9: What Opened in Spring
+
+Eighteen inches is enough for a crawler.
+
+It was not much for a man.
+
+Gaara went under the gate on his back, in the water, with the iron a hand's width above his nose and the knife held flat on his chest, and he did not enjoy any part of it.
+
+"If it comes down while I am under here," he said, "tell my creditors I died solvent."
+
+"You want me to lie."
+
+"I want you to try it once and see how it suits you."
+
+He came out the other side, stood up, and stopped talking.
+
+The tube ended six paces further on.
+
+Beyond it was air.
+
+He could not see the far wall. He could not see the roof. What he could see was a floor going away from him into the dark. A vault springing off somewhere above his head. A scatter of light coming down from four or five holes a very long way up.
+
+And running around the walls, level and unmistakable, a stain.
+
+He put his eyes on it and followed it and felt his stomach go.
+
+"Marit."
+
+She came out from under the gate wet to the shoulder and looked where he was looking.
+
+"That's a water line," she said.
+
+"That is a water line." He pointed up, and up. "Twenty feet. Maybe twenty-five. This whole room was full."
+
+"And now it isn't."
+
+"No."
+
+He turned around and looked back at the gate he had just crawled under. At the frame. At the wear line cut into the stone by something that had sat shut a very long time.
+
+He had stood in front of that gate yesterday and told her, in his best voice, that you do not put gates in a drain to keep water in.
+
+"I was wrong," he said.
+
+"About what."
+
+"Everything I said at the gate." He was already walking. "It is not a drain. It is a plug. Somebody built this room, filled it, and shut the gate to keep it filled, and then they wore a line into the frame because it stayed shut for eight hundred years."
+
+He heard her working it out behind him and he did not slow down for it, because she did not need him to.
+
+"Raise the gate," Marit said, "and the room empties."
+
+"Raise the gate eighteen inches and the room empties slowly. Over a spring."
+
+The nests started forty paces in.
+
+They were built up out of the floor in mounds of chitin and silt and bone. There were more of them than he could count from where he stood, going away into the dark in every direction like a town.
+
+All of them empty.
+
+"How many," Marit said.
+
+"Do not."
+
+"How many."
+
+"Hundreds." He did not look at her while he said it. "This was full of water and full of them and they were down here the whole time. Then the water went and they walked out."
+
+"Through the gate."
+
+"Through the only hole in the room." He crouched by the nearest mound and did not touch it. "Four people out of your village. Two dogs. That is what came out of here in one spring. That is nothing. That is the ones that got as far as your fields."
+
+Somewhere out in the dark, a long way off, water dripped into water.
+
+They found the line of dead ones a hundred paces further in.
+
+Six of them, then nine, then more than he bothered counting, laid out in a rough line going deeper, each one opened at the seam behind the skull, each one left whole.
+
+Not a fight. A route.
+
+"He came in this way," Gaara said. "Over months. Killing his way in a straight line and going home afterwards and burying his fire."
+
+"Towards what?"
+
+Gaara looked along the line of bodies into the dark where it went, and the answer was obvious and he said it anyway, because saying it made it something they had both agreed to.
+
+"Towards the middle of the room."
+
+They went along it.
+
+The floor sloped. The dripping got louder. The nests stopped, which he liked considerably less than the nests.
+
+Then his boot came down on stone that was wrong.
+
+He crouched. Ran his hand over it. The floor here was not laid, it was carved, and the carving went on in both directions, and he could not see enough of it at once to know what it was.
+
+"Marit. Give me the rope."
+
+She gave him the rope one-handed and he paid it out along the carved line, forty feet of it, and stood back, and the shape was still too big.
+
+"It's a circle," she said. She had gone the other way with her eyes, up and along. "It's a circle and we're standing on it."
+
+The dripping stopped.
+
+Not softened. Stopped, the way a room stops when somebody in it decides to hold their breath.
+
+"Back," Gaara said.
+
+Then the water in the dark ahead of them moved, and it did not move like water with something swimming in it. It moved like water with something standing up out of it.
+
+He did not see all of it. He never saw all of it.
+
+He saw a wet edge come up past the reach of the light, higher than the vault should have allowed. It crossed the beam from one of the holes in the roof. The shadow it threw ran over them, over the nests, and out into the dark behind.
+
+He saw something open. Not a mouth. An opening.
+
+Then his panel came apart.
+
+It did not vanish. It went wrong, the letters sliding off themselves, the whole translucent thing shivering like a reflection in a bucket somebody has kicked, and behind his sternum something pulled.
+
+He felt it leave him. That was the part he would keep.
+
+Not pain. A withdrawal, low down and cold, as if a hand he could not see had put itself into his chest and taken out something he had never once spent and did not know he had been keeping warm.
+
+The panel steadied.
+
+MP: 41/60
+
+"Run," he said.
+
+They ran.
+
+It came behind them without hurrying, which was the worst of it. There was no charge. There was a sound of water being displaced in enormous quantities, and stone giving somewhere off to the left. The shadow kept arriving over them from a new angle each time. None of it was fast. All of it was closer.
+
+"Left," Marit shouted. "The dead ones. Follow the dead ones."
+
+She was right. The line of corpses was a map, and the map went out.
+
+"How is the arm."
+
+"Run."
+
+"That is a poor clinical summary."
+
+They went up the slope with the nests going past on both sides, and he counted paces the way he had counted everything for nineteen years. At three hundred he began to think they might reach the tube.
+
+At three hundred and forty the vault came down.
+
+Not on them. Forty feet to their right, a whole section of it went, and the sound arrived as a punch, and the dark filled with grit and the beam from the roof hole went out.
+
+Marit went down.
+
+He got to her before he had decided to. She was up on one knee with her good hand flat on the floor and her strapped arm hanging, and there was blood on her face from something, and she was not getting up quickly enough.
+
+Behind them the water moved again.
+
+Gaara put the knife in his teeth, got his shoulder into her middle and stood up with her, and his thighs told him exactly what they thought of it, and he ignored them and ran.
+
+He got eighty paces like that. It was the hardest eighty paces of either of his lives.
+
+Then she hit him twice on the back and he put her down and she ran on her own, and neither of them said anything about it, then or later.
+
+The tube mouth came out of the dark and they went into it, and the gate came up in front of them, eighteen inches of black gap over cold water.
+
+"You first," he said. "Left arm out ahead of you, on your back, and do not stop halfway to think about it."
+
+"You'll be behind me."
+
+"I will be behind you."
+
+"Say it properly."
+
+"I will be behind you," Gaara said. "I have not lied since I got here and I am not starting eighteen inches from the end."
+
+She went under.
+
+He stood in the water in the mouth of the tube with a rusty knife and looked back into the room at something he could not see the shape of, and it stopped.
+
+It stopped a long way off, and it stayed stopped.
+
+He waited.
+
+It did not come any further.
+
+Then he went under the gate on his back with the iron a hand's width from his face, and came up on the far side, and Marit hauled him out of the water by the collar with one arm.
+
+They sat on the wet stone.
+
+"It stopped," she said.
+
+"Yes."
+
+"Why?"
+
+"Because it does not come out." He was breathing hard and had to say it in pieces. "It has had a hole open since spring. Every crawler in that room has walked out of it. It has not. It stopped at a line and it has been stopping at that line for eight months."
+
+"So it can't."
+
+"Or it will not, and I do not have a way to tell those apart from here." He turned his head and looked at the gate. "But it wants that room full again about as much as I want to be in it, and it is emptying, and it is emptying because of eighteen inches of iron and two blocks of stone."
+
+Marit looked at the two squared blocks holding the gate up.
+
+"Then we knock them out."
+
+"With what, and standing where?" He shook his head. "That gate weighs more than your house. It came up on gear that somebody brought in here, used, and took away again. If we hit those blocks and it does not fall, we are two people in a stone tube with no gear. If it does fall, we have shut the only door we can get out through and we are on the wrong side."
+
+She thought about that for a while.
+
+"So we go home," she said, "and get gear."
+
+"So we go home and get gear."
+
+He looked at the panel because he could not help it. It hung there the way it always hung there, and it was as calm as a shopfront, and it said MP 41 out of 60, and it did not explain, because it never explained.
+
+Nineteen units of something he had never used, gone into something in the dark that had reached out and taken them while he was busy running away.
+
+"You've gone quiet again," Marit said.
+
+"Yes."
+
+"Was it the thing or the arithmetic?"
+
+"The arithmetic." He got up and put a hand down for her. "Something in there took something out of me, and I did not feel it going the way you feel a cut. I felt it the way you feel a draught in a house you thought was sealed."
+
+She took the hand and came up.
+
+"Right," she said. "Say the other thing now."
+
+"What other thing?"
+
+"The one you say. About my arse." She was wringing her sleeve out and she did not look at him while she said it. "You've done it every hour since the gate and you didn't do it once in there, and I'd like to know we're both out."
+
+Gaara looked at her.
+
+"You have a magnificent arse," he said, "and I carried it eighty paces in a collapsing room, which I want counted."
+
+"It's counted."
+
+"I would like it counted twice."
+
+"Ask me again when I've two arms," Marit said, and started walking south, down the channel, towards the village that was sitting on top of it.

@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 8 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 12.303 Woerter.
+Kanon: 9 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 13.572 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -21,6 +21,18 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- ch9: goes down when the vault comes in, and he carries her eighty paces with
+  the knife in his teeth. Then she hits him twice on the back and runs on her
+  own, and neither of them ever mentions it. Before the gate she makes him say
+  he will be behind her, properly, and he answers with the only currency he has:
+  I have not lied since I got here and I am not starting eighteen inches from
+  the end.
+- AND SHE ANSWERS ONE. Out on the far side she asks him for the line about her
+  arse, because he did not make it once in that room and she wants to know they
+  are both out. He gives it and asks for the carry to be counted twice. She says
+  "ask me again when I've two arms" and walks south. That is the first time she
+  has played rather than deflected, it is conditional on her healing, and it is
+  a date. Do not cash it early.
 - Carries the chapter she is hurt in (ch8). One-armed, slower, every step
   costing, and still the one who reads the ground: she stops him twice over
   holes hidden under moss ("colour of the moss - you'll learn it in about eleven
@@ -225,6 +237,9 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 9: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
+The only number that has moved in four chapters moved because something else
+reached in and moved it.
 Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
 HP 165, CON 9, MP 60 untouched, Dagger Mastery E. Three chapters now without a
 number moving, on purpose: the ladder does not go up in that road, it goes in.
@@ -238,7 +253,10 @@ Pacing rules
   It nearly shipped that way in ch6. Level 3 must cost something of a different
   order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
-- MP 60 stays untouched until Chapter 8 at the earliest. Magic should arrive as a problem, not a present.
+- PAID, ch9, and in the strongest available form: he still has not spent a single
+  point. Something took nineteen of them off him in the dark and he felt them go.
+  Magic entered this book as a theft. Keep it that way for a while - the first
+  time he SPENDS any should cost him a decision, not a discovery.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
 
@@ -325,6 +343,31 @@ Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
 never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
+
+=== The gate is a plug, and magic arrives by being stolen ===
+Two decisions carry chapter 9.
+First: the room behind the gate was full of water on purpose. The gate is not a
+drain gate, it is a stopper, and the dead city kept something under twenty-five
+feet of standing water and shut the door on it. Raise the door eighteen inches
+and the room empties over a spring. That makes the whole first arc a plumbing
+problem, which is far more frightening than a bigger monster, and it puts the
+solution in reach and out of reach at once: drop the gate, with gear they do not
+have, from a position where failing traps them.
+It also lets Gaara be wrong out loud. He told Marit at the gate in ch8 that you
+do not gate a drain to keep water in. In ch9 he says "I was wrong" in four
+words and keeps walking, which is the only way this character is allowed to be
+corrected.
+Second: magic arrives as a theft. He has hoarded 60 MP for nine chapters without
+spending a point, and the first thing that ever happens to that number is that
+something in the dark takes nineteen of it while his panel comes apart. He feels
+it leave, and the feeling is not pain, it is a draught in a house he thought was
+sealed. The arc document asked for magic as a problem rather than a present.
+This is the strongest version of that: he is not a wizard, he is a supply.
+Whether the nineteen come back is deliberately not decided.
+Pacing note, on the author's instruction to move faster: ch9 is 2032 words
+against roughly 2500 for its neighbours, with short paragraphs and no
+investigative monologues. Discoveries land in one or two lines and the chapter
+spends the saved room on the run.
 
 === Chapter 8 answers the crawler question by making it worse ===
 The first arc asked why the crawlers started coming out in spring. Answering it
@@ -610,7 +653,7 @@ nicht diese Zeile von Hand.
 6. Every Plan I Make Is for One
 7. How Did You Know
 8. They Were Running Too
-9. What Opened in Spring (planned)
+9. What Opened in Spring
 10. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
@@ -714,7 +757,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 8), but the first pass has been made and
+  No romance has started (as of Chapter 9), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
   magnificent arse and says outright that the timing is deliberate, because in a
   fight it is only noise and later it would be a move. She says "mind your own
@@ -753,6 +796,20 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
+- (ch9) MAGIC ARRIVES, AND NOT AS A GIFT. He has still never used a point of MP.
+  Something in the drained room took it. The panel came apart for a moment, the
+  letters sliding off themselves, and he felt a withdrawal behind the sternum
+  that was not pain: a hand he could not see taking out something he had never
+  spent and did not know he had been keeping warm. Then it steadied and read
+  MP: 41/60. Nineteen points, gone, in about two seconds.
+  He has no idea what it was used for, or whether he was the only one it was
+  taken from. The panel does not explain, because it never explains.
+  OPEN AND UNDECIDED: whether that MP comes back. Do not answer it by accident
+  in a later chapter - if it regenerates, that is a fact about the world, and if
+  it does not, he has been permanently robbed of something he never owned in any
+  meaningful sense. Both are good. Pick one on the page.
+  NOTE for checking: check.py's progression tracker follows MP MAX, not current,
+  so it reads ch9 as MP60 and cannot see the drain at all.
 - (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel
   reads whatever stands in front of him, which is what makes the panel over the
   dead man later in the same chapter land: it is the same size, the same colour,
@@ -828,6 +885,38 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
+
+Behind the gate (ch9)
+- A vaulted room too big to see across, with holes in the roof a very long way
+  up, and a water line stained round the walls at twenty to twenty-five feet.
+  The room was FULL. It is not full now.
+- So the gate is not a drain gate. It is a PLUG. Somebody built the room, filled
+  it, and shut the gate to keep it filled, and it stayed shut long enough to
+  wear a line into the frame. Gaara said the opposite at the gate in ch8 and
+  says "I was wrong" out loud in ch9, which is the correct way for him to be
+  wrong: fast, in public, and moving while he says it.
+- Raised eighteen inches, the room empties over a season. That is spring.
+- HUNDREDS of crawler nests on the floor, all empty. They lived down there
+  submerged the whole time. What reached Oldstep - four people and two dogs - is
+  only what got as far as the fields.
+- A line of dead crawlers leads inward, dozens of them, each opened at the seam
+  and left whole. The stick-carrier has been killing his way towards the middle
+  of the room over months, and going home afterwards, and burying his fire.
+- Carved into the floor near the middle: a circle far too big to take in from
+  the ground. Forty feet of rope laid along it does not reach a bend. NOT
+  EXPLAINED. Do not explain it cheaply.
+- THE THING. Never seen whole, and it should stay that way for a long time. It
+  stands up out of standing water. A wet edge going higher than the vault should
+  allow. Something opening that is not a mouth. It does not charge and it never
+  hurries, and everything about it arrives from a new angle each time.
+- IT DOES NOT LEAVE THE ROOM. It stopped a long way short of the tube and stayed
+  stopped. It has had an eighteen-inch hole and eight months and has not used
+  them, while every crawler in the room walked out. Cannot, or will not, is not
+  established and Gaara says so.
+- The fix is obvious and impossible with what they have: drop the gate. It
+  weighs more than a house and was raised with gear that somebody brought in,
+  used and took away again. Knocking out the two blocks either fails, or shuts
+  the only door with them on the wrong side of it. So they go back for gear.
 
 The channel (ch8) - the biggest single find so far
 - The stream out of the ruin is not a stream. It is a built drain: dressed stone
@@ -943,7 +1032,14 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
    and propped open. The remaining question is not why they left. It is what
    they left, and who opened the door.
 5. Class is still None. No trigger seen yet.
-6. MP 60 unused. Magic unencountered.
+6. ANSWERED BADLY, ch9. Magic is encountered by being on the receiving end of
+   it, and the MP he has hoarded for nine chapters turns out to be something
+   another party can simply take. 41 of 60 left. What it was taken FOR is the
+   open half, and it is the better half.
+20. The circle carved into the floor of the drained room (ch9). Too big to read
+    from the ground. Nobody has said anything about it.
+21. Whether the thing in the room cannot leave it or chooses not to, and what
+    the difference would mean.
 7. The war in the east, and a lord who does not answer letters.
 8. Teodor's mother and her lamp.
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.

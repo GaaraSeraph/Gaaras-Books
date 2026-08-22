@@ -14,7 +14,7 @@ nicht diese Zeile von Hand.
 6. Every Plan I Make Is for One
 7. How Did You Know
 8. They Were Running Too
-9. What Opened in Spring (planned)
+9. What Opened in Spring
 10. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
@@ -118,7 +118,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 8), but the first pass has been made and
+  No romance has started (as of Chapter 9), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
   magnificent arse and says outright that the timing is deliberate, because in a
   fight it is only noise and later it would be a move. She says "mind your own
@@ -157,6 +157,20 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
+- (ch9) MAGIC ARRIVES, AND NOT AS A GIFT. He has still never used a point of MP.
+  Something in the drained room took it. The panel came apart for a moment, the
+  letters sliding off themselves, and he felt a withdrawal behind the sternum
+  that was not pain: a hand he could not see taking out something he had never
+  spent and did not know he had been keeping warm. Then it steadied and read
+  MP: 41/60. Nineteen points, gone, in about two seconds.
+  He has no idea what it was used for, or whether he was the only one it was
+  taken from. The panel does not explain, because it never explains.
+  OPEN AND UNDECIDED: whether that MP comes back. Do not answer it by accident
+  in a later chapter - if it regenerates, that is a fact about the world, and if
+  it does not, he has been permanently robbed of something he never owned in any
+  meaningful sense. Both are good. Pick one on the page.
+  NOTE for checking: check.py's progression tracker follows MP MAX, not current,
+  so it reads ch9 as MP60 and cannot see the drain at all.
 - (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel
   reads whatever stands in front of him, which is what makes the panel over the
   dead man later in the same chapter land: it is the same size, the same colour,
@@ -232,6 +246,38 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
+
+Behind the gate (ch9)
+- A vaulted room too big to see across, with holes in the roof a very long way
+  up, and a water line stained round the walls at twenty to twenty-five feet.
+  The room was FULL. It is not full now.
+- So the gate is not a drain gate. It is a PLUG. Somebody built the room, filled
+  it, and shut the gate to keep it filled, and it stayed shut long enough to
+  wear a line into the frame. Gaara said the opposite at the gate in ch8 and
+  says "I was wrong" out loud in ch9, which is the correct way for him to be
+  wrong: fast, in public, and moving while he says it.
+- Raised eighteen inches, the room empties over a season. That is spring.
+- HUNDREDS of crawler nests on the floor, all empty. They lived down there
+  submerged the whole time. What reached Oldstep - four people and two dogs - is
+  only what got as far as the fields.
+- A line of dead crawlers leads inward, dozens of them, each opened at the seam
+  and left whole. The stick-carrier has been killing his way towards the middle
+  of the room over months, and going home afterwards, and burying his fire.
+- Carved into the floor near the middle: a circle far too big to take in from
+  the ground. Forty feet of rope laid along it does not reach a bend. NOT
+  EXPLAINED. Do not explain it cheaply.
+- THE THING. Never seen whole, and it should stay that way for a long time. It
+  stands up out of standing water. A wet edge going higher than the vault should
+  allow. Something opening that is not a mouth. It does not charge and it never
+  hurries, and everything about it arrives from a new angle each time.
+- IT DOES NOT LEAVE THE ROOM. It stopped a long way short of the tube and stayed
+  stopped. It has had an eighteen-inch hole and eight months and has not used
+  them, while every crawler in the room walked out. Cannot, or will not, is not
+  established and Gaara says so.
+- The fix is obvious and impossible with what they have: drop the gate. It
+  weighs more than a house and was raised with gear that somebody brought in,
+  used and took away again. Knocking out the two blocks either fails, or shuts
+  the only door with them on the wrong side of it. So they go back for gear.
 
 The channel (ch8) - the biggest single find so far
 - The stream out of the ruin is not a stream. It is a built drain: dressed stone
@@ -347,7 +393,14 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
    and propped open. The remaining question is not why they left. It is what
    they left, and who opened the door.
 5. Class is still None. No trigger seen yet.
-6. MP 60 unused. Magic unencountered.
+6. ANSWERED BADLY, ch9. Magic is encountered by being on the receiving end of
+   it, and the MP he has hoarded for nine chapters turns out to be something
+   another party can simply take. 41 of 60 left. What it was taken FOR is the
+   open half, and it is the better half.
+20. The circle carved into the floor of the drained room (ch9). Too big to read
+    from the ground. Nobody has said anything about it.
+21. Whether the thing in the room cannot leave it or chooses not to, and what
+    the difference would mean.
 7. The war in the east, and a lord who does not answer letters.
 8. Teodor's mother and her lamp.
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.

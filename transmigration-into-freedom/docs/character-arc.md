@@ -117,6 +117,9 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 9: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
+The only number that has moved in four chapters moved because something else
+reached in and moved it.
 Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
 HP 165, CON 9, MP 60 untouched, Dagger Mastery E. Three chapters now without a
 number moving, on purpose: the ladder does not go up in that road, it goes in.
@@ -130,7 +133,10 @@ Pacing rules
   It nearly shipped that way in ch6. Level 3 must cost something of a different
   order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
-- MP 60 stays untouched until Chapter 8 at the earliest. Magic should arrive as a problem, not a present.
+- PAID, ch9, and in the strongest available form: he still has not spent a single
+  point. Something took nineteen of them off him in the dark and he felt them go.
+  Magic entered this book as a theft. Keep it that way for a while - the first
+  time he SPENDS any should cost him a decision, not a discovery.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
 
