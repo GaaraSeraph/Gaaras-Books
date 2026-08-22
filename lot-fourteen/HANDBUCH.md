@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.230 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.331 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1106,12 +1106,23 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 - **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
   Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
   (Kapitel 3, Ji-won auf der Treppe)
-- **Das ehrlich freundliche.** *Offen, und der Angelpunkt.* Für Mrs Seo, Ji-won,
-  Bae, Jang. Nicht gebaut, sondern **entschieden** - und es holt nichts. Der
-  Text sagt mehrfach *and he meant it* und hängt kein Gesicht daran; genau dort
-  gehört es hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she
-  could hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt
-  ihm trotzdem sechs Minuten.
+- **Das ehrlich freundliche.** Für Mrs Seo, Ji-won, Bae, Jang. Nicht gebaut,
+  sondern **entschieden** - und es holt nichts. Der Text sagt an mehreren
+  Stellen *and he meant it* und hängt kein Gesicht daran; genau dort gehört es
+  hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she could
+  hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt ihm
+  trotzdem sechs Minuten.
+
+  **Zweimal gesetzt, beide Male an einer Stelle, an der der andere zuerst etwas
+  gegeben hat:**
+
+  - *Kapitel 4, Mrs Seo in der Küche.* Sie sagt ihm, dass sie sein Schweigen
+    bemerkt hat und ihn deshalb länger höflich behandeln wird als geplant.
+    Darauf: *He was not after anything with it, and she would have known if he
+    had been.* Die zweite Hälfte ist zugleich das Kompliment an sie.
+  - *Kapitel 6, Jang vor der Gala.* Jang meldet von sich aus, dass er die Route
+    des Nachtpostens geändert und es nicht gesagt hat. Darauf: *which he did not
+    have to do and got nothing for.*
 
   **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
   selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
@@ -1906,13 +1917,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | ch04:48 | At two minutes past seven Annie came into the kitchen. |
 | 2 | ch04:52 | Annie was dressed for the day, jacket on, and she came in the way somebody comes into a .. |
 | 2 | ch04:64 | Annie ate about a third of what was in front of her, drank all of the coffee, and read n.. |
-| 2 | ch04:92 | "Yours," Annie said. "Which is to say mine, and you will use them." |
-| 2 | ch04:100 | Annie looked at him for a moment. |
-| 2 | ch04:128 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
-| 2 | ch04:190 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
-| 2 | ch04:198 | "Would you," Annie said. |
-| 2 | ch04:204 | Annie did not say anything. |
-| 2 | ch04:226 | Annie looked at him across the desk. |
+| 2 | ch04:94 | "Yours," Annie said. "Which is to say mine, and you will use them." |
+| 2 | ch04:102 | Annie looked at him for a moment. |
+| 2 | ch04:130 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
+| 2 | ch04:192 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
+| 2 | ch04:200 | "Would you," Annie said. |
+| 2 | ch04:206 | Annie did not say anything. |
+| 2 | ch04:228 | Annie looked at him across the desk. |
 | 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
 | 9 | ch05:194 | Annie had come into the kitchen at seven on the first morning, and on the second, and no.. |
 | 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
@@ -1929,8 +1940,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch06:86 | Annie sat back. |
 | 22 | ch06:96 | Annie looked at him for a moment. |
 | 22 | ch06:108 | "Quid pro quo," said Annie, and went back to her page. |
-| 22 | ch06:180 | Annie came down at nine minutes to seven. |
-| 22 | ch06:204 | "Well," said Annie. "Let's go and be looked at." |
+| 22 | ch06:182 | Annie came down at nine minutes to seven. |
+| 22 | ch06:206 | "Well," said Annie. "Let's go and be looked at." |
 | 22 | ch07:18 | "There are three sorts of people in that room," Annie said. |
 | 22 | ch07:38 | Annie was quiet for a moment. |
 | 22 | ch07:94 | "Annie." |
@@ -2049,14 +2060,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:184` (Tag 1) - four, one
 - `ch03:220` (Tag 1) - four
 - `ch04:48` (Tag 2) - seven, two
-- `ch04:190` (Tag 2) - fifteen, three
+- `ch04:192` (Tag 2) - fifteen, three
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:194` (Tag 9) - seven
 - `ch05:196` (Tag 9) - nine, seven
 - `ch05:198` (Tag 9) - eight, two
 - `ch05:368` (Tag 19) - nine
 - `ch06:18` (Tag 22) - seven, six
-- `ch06:180` (Tag 22) - nine, seven
+- `ch06:182` (Tag 22) - nine, seven
 - `ch07:18` (Tag 22) - three
 - `ch07:214` (Tag 22) - four, three
 - `ch08:144` (Tag 22) - one, ten, two
@@ -2366,10 +2377,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
 | 22 | ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
 | 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
-| 22 | ch06:158 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
-| 22 | ch06:164 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
-| 22 | ch06:168 | Mrs Seo stepped back. |
-| 22 | ch06:172 | "Yes, Mrs Seo." |
+| 22 | ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
+| 22 | ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
+| 22 | ch06:170 | Mrs Seo stepped back. |
+| 22 | ch06:174 | "Yes, Mrs Seo." |
 | 22 | ch11:248 | Mrs Seo had left the hall light on and gone to bed. |
 | 23 | ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
 | 27 | ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
@@ -2392,8 +2403,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch05:198` (Tag 9) - eight, two
 - `ch06:6` (Tag 22) - nine
 - `ch06:18` (Tag 22) - seven, six
-- `ch06:158` (Tag 22) - six, twenty
-- `ch06:164` (Tag 22) - nine, one
+- `ch06:160` (Tag 22) - six, twenty
+- `ch06:166` (Tag 22) - nine, one
 - `ch12:8` (Tag 23) - four, nine
 - `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
 - `ch15:22` (Tag 41) - one, three
@@ -2575,8 +2586,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
 | 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
 | 2 | ch04:72 | Ji-won went. |
-| 2 | ch04:88 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
-| 2 | ch04:144 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
+| 2 | ch04:90 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
+| 2 | ch04:146 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
 | 4 | ch05:126 | Ji-won came out of the kitchen twice to see it. |
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
@@ -2590,7 +2601,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch03:40` (Tag 1) - seven
 - `ch04:62` (Tag 2) - one
-- `ch04:88` (Tag 2) - nine, one
+- `ch04:90` (Tag 2) - nine, one
 - `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:196` (Tag 9) - nine, seven

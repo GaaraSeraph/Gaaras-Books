@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.346 Woerter.
+17 Kapitel. 50.384 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -12,9 +12,9 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 01 | v6.2 | 2.409 |
 | 02 | v11.5 | 3.174 |
 | 03 | v2.5 | 3.378 |
-| 04 | v1.5 | 2.433 |
+| 04 | v1.6 | 2.453 |
 | 05 | v5.6 | 4.331 |
-| 06 | v1.2 | 2.072 |
+| 06 | v1.3 | 2.090 |
 | 07 | v6.2 | 3.874 |
 | 08 | v3.3 | 2.689 |
 | 09 | v3.1 | 3.132 |
@@ -885,7 +885,7 @@ He left the key where it was.
 ---
 
 # Chapter 4: Count again
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 2 · Sunday 5 October*
 
@@ -968,6 +968,8 @@ Mrs Seo wiped the same part of the counter twice. Then she said, without turning
 "No."
 
 "I know." She put the cloth down. "That is why I am going to be polite to you for a while longer than I had planned."
+
+Georgij smiled at her. He was not after anything with it, and she would have known if he had been.
 
 ---
 
@@ -1493,7 +1495,7 @@ He stopped.
 ---
 
 # Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1645,7 +1647,9 @@ Jang stood in the doorway for a moment.
 
 "He's on a different one since Tuesday. I wrote it and I didn't tell you." A shrug that was not quite an apology and was not meant to be. "You'll want to do it again."
 
-"I will," said Georgij, and meant it, and was pleased in a way he did not examine.
+"I will," said Georgij, and meant it.
+
+He smiled at him as well, which he did not have to do and got nothing for, and he was pleased in a way he did not examine.
 
 ---
 

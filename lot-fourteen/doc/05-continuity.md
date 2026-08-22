@@ -150,12 +150,23 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 - **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
   Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
   (Kapitel 3, Ji-won auf der Treppe)
-- **Das ehrlich freundliche.** *Offen, und der Angelpunkt.* Für Mrs Seo, Ji-won,
-  Bae, Jang. Nicht gebaut, sondern **entschieden** - und es holt nichts. Der
-  Text sagt mehrfach *and he meant it* und hängt kein Gesicht daran; genau dort
-  gehört es hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she
-  could hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt
-  ihm trotzdem sechs Minuten.
+- **Das ehrlich freundliche.** Für Mrs Seo, Ji-won, Bae, Jang. Nicht gebaut,
+  sondern **entschieden** - und es holt nichts. Der Text sagt an mehreren
+  Stellen *and he meant it* und hängt kein Gesicht daran; genau dort gehört es
+  hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she could
+  hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt ihm
+  trotzdem sechs Minuten.
+
+  **Zweimal gesetzt, beide Male an einer Stelle, an der der andere zuerst etwas
+  gegeben hat:**
+
+  - *Kapitel 4, Mrs Seo in der Küche.* Sie sagt ihm, dass sie sein Schweigen
+    bemerkt hat und ihn deshalb länger höflich behandeln wird als geplant.
+    Darauf: *He was not after anything with it, and she would have known if he
+    had been.* Die zweite Hälfte ist zugleich das Kompliment an sie.
+  - *Kapitel 6, Jang vor der Gala.* Jang meldet von sich aus, dass er die Route
+    des Nachtpostens geändert und es nicht gesagt hat. Darauf: *which he did not
+    have to do and got nothing for.*
 
   **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
   selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
@@ -172,11 +183,19 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 
 #### V. Was er bekommt
 
-- **Das wiedererkannte.** *Halb im Text.* Chef Bang steht in Kapitel 8 während
-  der Gebote in Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man
-  ihm gesagt hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
-  Er erkennt das Lächeln, weil es seins ist. Der Text kommentiert nichts, und
-  das bleibt so. Es fehlt nur die halbe Zeile, die sagt, warum es teuer ist.
+- **Das wiedererkannte.** Chef Bang steht in Kapitel 8 während der Gebote in
+  Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man ihm gesagt
+  hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
+
+  Gesetzt ist eine halbe Zeile bei der ersten Sicht: *Georgij knew the smile.
+  It is the one you put on at the door and leave there.* Das ist wörtlich der
+  Satz aus Kapitel 7 über sein eigenes breites Lächeln (*He put it on at the
+  door and left it there*), und damit steht sein Werkzeug auf dem Gesicht
+  eines Mannes, der gerade verkauft wird.
+
+  **Der Text kommentiert nichts weiter, und das bleibt so.** Was es kostet,
+  tragen die Rechnung und Annies Nichthinsehen während der ganzen
+  Versteigerung. Wer hier erklärt, nimmt beiden das Gewicht.
 
 ---
 

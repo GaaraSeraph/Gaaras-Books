@@ -93,13 +93,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | ch04:48 | At two minutes past seven Annie came into the kitchen. |
 | 2 | ch04:52 | Annie was dressed for the day, jacket on, and she came in the way somebody comes into a .. |
 | 2 | ch04:64 | Annie ate about a third of what was in front of her, drank all of the coffee, and read n.. |
-| 2 | ch04:92 | "Yours," Annie said. "Which is to say mine, and you will use them." |
-| 2 | ch04:100 | Annie looked at him for a moment. |
-| 2 | ch04:128 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
-| 2 | ch04:190 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
-| 2 | ch04:198 | "Would you," Annie said. |
-| 2 | ch04:204 | Annie did not say anything. |
-| 2 | ch04:226 | Annie looked at him across the desk. |
+| 2 | ch04:94 | "Yours," Annie said. "Which is to say mine, and you will use them." |
+| 2 | ch04:102 | Annie looked at him for a moment. |
+| 2 | ch04:130 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
+| 2 | ch04:192 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
+| 2 | ch04:200 | "Would you," Annie said. |
+| 2 | ch04:206 | Annie did not say anything. |
+| 2 | ch04:228 | Annie looked at him across the desk. |
 | 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
 | 9 | ch05:194 | Annie had come into the kitchen at seven on the first morning, and on the second, and no.. |
 | 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
@@ -116,8 +116,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch06:86 | Annie sat back. |
 | 22 | ch06:96 | Annie looked at him for a moment. |
 | 22 | ch06:108 | "Quid pro quo," said Annie, and went back to her page. |
-| 22 | ch06:180 | Annie came down at nine minutes to seven. |
-| 22 | ch06:204 | "Well," said Annie. "Let's go and be looked at." |
+| 22 | ch06:182 | Annie came down at nine minutes to seven. |
+| 22 | ch06:206 | "Well," said Annie. "Let's go and be looked at." |
 | 22 | ch07:18 | "There are three sorts of people in that room," Annie said. |
 | 22 | ch07:38 | Annie was quiet for a moment. |
 | 22 | ch07:94 | "Annie." |
@@ -127,7 +127,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
 | 22 | ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
 | 22 | ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
-| 22 | ch08:250 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
+| 22 | ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
 | 22 | ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
 | 22 | ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
 | 22 | ch10:6 | He did not go and stand near Annie. |
@@ -236,14 +236,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:184` (Tag 1) - four, one
 - `ch03:220` (Tag 1) - four
 - `ch04:48` (Tag 2) - seven, two
-- `ch04:190` (Tag 2) - fifteen, three
+- `ch04:192` (Tag 2) - fifteen, three
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:194` (Tag 9) - seven
 - `ch05:196` (Tag 9) - nine, seven
 - `ch05:198` (Tag 9) - eight, two
 - `ch05:368` (Tag 19) - nine
 - `ch06:18` (Tag 22) - seven, six
-- `ch06:180` (Tag 22) - nine, seven
+- `ch06:182` (Tag 22) - nine, seven
 - `ch07:18` (Tag 22) - three
 - `ch07:214` (Tag 22) - four, three
 - `ch08:144` (Tag 22) - one, ten, two
@@ -553,10 +553,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
 | 22 | ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
 | 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
-| 22 | ch06:158 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
-| 22 | ch06:164 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
-| 22 | ch06:168 | Mrs Seo stepped back. |
-| 22 | ch06:172 | "Yes, Mrs Seo." |
+| 22 | ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
+| 22 | ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
+| 22 | ch06:170 | Mrs Seo stepped back. |
+| 22 | ch06:174 | "Yes, Mrs Seo." |
 | 22 | ch11:248 | Mrs Seo had left the hall light on and gone to bed. |
 | 23 | ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
 | 27 | ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
@@ -579,8 +579,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch05:198` (Tag 9) - eight, two
 - `ch06:6` (Tag 22) - nine
 - `ch06:18` (Tag 22) - seven, six
-- `ch06:158` (Tag 22) - six, twenty
-- `ch06:164` (Tag 22) - nine, one
+- `ch06:160` (Tag 22) - six, twenty
+- `ch06:166` (Tag 22) - nine, one
 - `ch12:8` (Tag 23) - four, nine
 - `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
 - `ch15:22` (Tag 41) - one, three
@@ -762,8 +762,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
 | 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
 | 2 | ch04:72 | Ji-won went. |
-| 2 | ch04:88 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
-| 2 | ch04:144 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
+| 2 | ch04:90 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
+| 2 | ch04:146 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
 | 4 | ch05:126 | Ji-won came out of the kitchen twice to see it. |
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
@@ -777,7 +777,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch03:40` (Tag 1) - seven
 - `ch04:62` (Tag 2) - one
-- `ch04:88` (Tag 2) - nine, one
+- `ch04:90` (Tag 2) - nine, one
 - `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:196` (Tag 9) - nine, seven
@@ -880,13 +880,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 22 | ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
 | 22 | ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
-| 22 | ch08:226 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
-| 22 | ch08:246 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
+| 22 | ch08:228 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
+| 22 | ch08:248 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
 
 ### Zahlen in der Naehe von Chef Bang
 
 - `ch08:218` (Tag 22) - eight, one, two
-- `ch08:226` (Tag 22) - eight hundred, sixty, sixty-two
+- `ch08:228` (Tag 22) - eight hundred, sixty, sixty-two
 
 ---
 
