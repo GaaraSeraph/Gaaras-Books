@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.400 Woerter.
+24 Kapitel. 70.466 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,8 +31,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.0 | 2.510 |
-| 24 | v1.0 | 2.489 |
+| 23 | v3.1 | 2.555 |
+| 24 | v1.1 | 2.510 |
 
 ---
 
@@ -6719,7 +6719,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6749,6 +6749,8 @@ He got as far as *Sang-hoon saw it* four separate times and stopped there four s
 
 At a door in Yeouido on the eighteenth, a man had looked at him for slightly too long. Then he had said he was either exactly what he looked like, or the best-made thing anybody had ever put in front of him.
 
+It was a compliment with a hook in it, and he had enjoyed both halves.
+
 Tonight the man had got his answer, in under a second, for nothing, and had not enjoyed any part of it. Georgij had watched him not enjoy it. That was somehow the worst of it and he could not have explained why to anybody.
 
 ---
@@ -6765,9 +6767,11 @@ A man who demonstrates that he can leave, and cannot, has demonstrated one thing
 
 ---
 
-Nobody was looking for him, which had not been true at any point in seventeen years.
+Nobody in four kilometres knew there was surgical steel under his collar. Nobody was looking for him either, and neither of those had been true at any point in seventeen years.
 
-He had expected that to feel like something. It was quiet, and quieter than he liked.
+He had expected that to feel like something.
+
+It was quiet, and it was a good deal quieter than he liked.
 
 ---
 
@@ -7023,7 +7027,7 @@ She brought her head forward again.
 
 Georgij did not say anything at all.
 
-"Not the number. I could have said one and he would have believed it." Her hands were flat on her knees. "I did not know whether there was one. I went through a man who has been mine for eight weeks and could not find a price on him, and my hand was in my pocket before I got to the end of it."
+"Not the number. I could have said a number and he would have believed it and we would have gone on to something else." Her hands were flat on her knees. "I did not know whether there was one. I went through a man who has been mine for eight weeks and could not find a price on him, and my hand was in my pocket before I got to the end of it."
 
 "That is not looking for where I break."
 
@@ -7048,7 +7052,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7305,7 +7309,7 @@ It went down without any noise that got back up to them, and the river took it e
 
 Neither of them said anything for a while.
 
-A man who fits collars can key a new one in about twenty minutes. Both of them knew that, and neither of them said it.
+There would be another one in a drawer in Yeouido, or there would not be. A man who fits collars can key a new one in about twenty minutes. Both of them knew every part of that, and neither of them said any of it either.
 
 He had read faces for seventeen years and had been paid for the accuracy.
 

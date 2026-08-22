@@ -16,6 +16,31 @@ regelmaessig noch etwas.
 
 ---
 
+### 0. Die Wortzahl ist keine Schere
+
+**Erst fertig schreiben, dann teilen. Nie kuerzen, um unter 4300 zu kommen.**
+
+Die Spanne in `doc/05-continuity.md` sagt, wann ein Kapitel **zwei** Kapitel ist.
+Sie sagt nicht, dass Text weg soll. Wer sie als Obergrenze fuer die Schere liest,
+streicht am Ende genau das, was ein Kapitel gewichtig macht, und behaelt das
+Mittelmass, weil Mittelmass sich leichter streichen laesst.
+
+**Am 22. August passiert und rueckgaengig gemacht.** Kapitel 23 stand bei 4914
+Woertern. Statt zu teilen wurde an vier Stellen gekuerzt, und alle vier waren
+Substanz: das Halsband an der vierten Wand mitten in der Stadt, der Haken in
+Sang-hoons Kompliment, die zweite Fernbedienung in einer Schublade in Yeouido,
+und die Haelfte von Annies Erklaerung. Danach war das Kapitel kuerzer und
+schlechter, und geteilt werden musste es trotzdem.
+
+**Die Reihenfolge, die gilt:**
+
+1. Schreiben, bis die Szene fertig ist. Die Zahl waehrenddessen nicht ansehen.
+2. Erst dann `check.py` und die Spanne.
+3. Ueber 4300: an einer Naht teilen, an der beide Haelften ein eigenes Gewicht
+   haben. Kapitel 23 wurde an Annies Antwort getrennt, 2555 und 2510.
+4. Gestrichen wird nur, was nach den Punkten 1 bis 6 dieser Liste ohnehin weg
+   muesste. Die Wortzahl ist dafuer nie der Grund.
+
 ### 1. Bandwurmsaetze
 
 Kein Satz ueber vierzig Woerter. `python3 check.py` findet sie alle.
