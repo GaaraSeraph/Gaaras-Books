@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-30 Kapitel. 87.081 Woerter.
+30 Kapitel. 87.381 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -38,7 +38,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 27 | v3.0 | 3.110 |
 | 28 | v1.0 | 2.692 |
 | 29 | v1.0 | 2.018 |
-| 30 | v1.0 | 2.956 |
+| 30 | v1.1 | 3.256 |
 
 ---
 
@@ -9094,9 +9094,31 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 74 · Tuesday 16 December*
+
+The look lasted about two seconds and he could not read one thing in it.
+
+That was not surprising and he had told himself so in advance. He had never been in a room with her. He had four days of a card she had not answered and twenty-three frames of a woman standing where she could see the doors, and nobody reads a stranger across twenty metres of other people's conversation.
+
+What he did read was smaller and it was enough to stand on.
+
+She had looked at the corner nearest the hall before she had looked at anything else in that half of the room. Which meant she had gone through the four lines at some point in the last four days and had kept the part about where he would be, and had come in and checked it.
+
+The card had said a true thing and she had verified it from the door.
+
+That was the whole of the report and he made himself be satisfied with it, because there was not going to be another one for a while.
+
+---
+
+Then she did nothing at all for twelve minutes.
+
+He knew it was twelve because he counted, which he had not done since the auction, and because there was nothing else available to him. He could not cross the room. He could not stand somewhere she would have to walk past. Every single instrument he had was the wrong size for a woman who had been managing rooms since before he could read.
+
+So he stood in his corner and was pleasant to a man from a bank in Myeongdong for eight of those minutes, and did it well, and could not afterwards remember one word of it.
+
+---
 
 She did not come over to him and he did not go to her.
 
@@ -9392,7 +9414,7 @@ Georgij stood very still for a second.
 
 "You did not think about it."
 
-"I thought about Kim Do-yun for four weeks in November and I have not stopped since." He kept his voice exactly where it had been. "I will tell you the truth about it, and you are not going to enjoy it either."
+"I thought about Kim Do-yun for four weeks in November and I have not stopped since." He was standing close enough now to see her breath and he did not step back. "I will tell you the truth about it, and you are not going to enjoy it either."
 
 He did not look away from her.
 
