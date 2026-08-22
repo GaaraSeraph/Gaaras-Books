@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-7 Kapitel. 15.113 Woerter.
+7 Kapitel. 15.265 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -14,7 +14,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
 | 06 | Chapter 6: Every Plan I Make Is for One | 2.367 |
-| 07 | Chapter 7: How Did You Know | 1.412 |
+| 07 | Chapter 7: How Did You Know | 1.564 |
 
 ---
 
@@ -1321,7 +1321,7 @@ The thing screamed and kept working. He had known it would.
 
 Then Marit came in on his left with the hatchet up in both hands and put it into a leg joint, and the thing went half down and dragged itself along the wall out of reach.
 
-"Well struck," Gaara said. "And for the record, the timing of this is deliberate, because you have a magnificent arse and I am never going to get a safer moment to mention it."
+"Well struck," Gaara said. "And for the record, the timing of this is deliberate, because you have a magnificent ass and I am never going to get a safer moment to mention it."
 
 "Mind your own side."
 
@@ -1437,9 +1437,23 @@ He filed it. There had been no time for it then and there was none now.
 
 "And in that chamber you did what?"
 
-He could feel the shape of the next thirty seconds. There was one honest road through it and it went straight downhill.
+"You already know. I told Marit at the edge of the ruin before I had eaten anything, and I told Solva in this road with the whole village standing in it. The boots are on my feet."
 
-"I killed two of them. Then I found the nest at the back and I dug through it and took what was in there. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought a ceiling down on the second one." He let it sit. "Their kills go home with them. I emptied the place where they put what they take, killed two of the ones who put it there, and walked here."
+"Say it again anyway."
+
+And there it was, and he recognised it, because it had been done to him once already. Marit had made him repeat the part about the glass city with a hatchet in her hand, and had listened to the second telling against the first, and had decided he was not lying because the two matched. Liars decorate.
+
+So he said it again, and he took some care to say it the same.
+
+"I killed two of them. I found the nest at the back of the chamber and I dug through it with my hands and I took what was in it. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought a ceiling down on the second one."
+
+"He says it the same," somebody said, further back, not loudly.
+
+"He does," said Hallvard.
+
+He could have stopped there. Everything he had said so far already belonged to them.
+
+"There is one piece none of you have," Gaara said, "and I only have it because I have been inside. Their kills go home with them. That nest is where they put what they take. I emptied it, I killed two of the ones who fill it, and then I walked down that road to your houses."
 
 Nobody said anything for a moment. Then everybody did.
 

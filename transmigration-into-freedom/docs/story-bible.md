@@ -204,6 +204,19 @@ The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - Gaara's open question: whatever did it either left, or did not.
 - Roots the thickness of a thigh have split worked stone, so it has been empty a very long time.
 
+How people here test a man (ch4, confirmed ch7)
+- They make him say it twice and listen to the second telling against the first.
+  Marit does it to Gaara at the edge of the ruin with a hatchet in her hand -
+  "say it again, the part about the glass" - and concludes he is honest because
+  the two match. "Liars decorate."
+- Hallvard runs the same test in front of the whole village in ch7, and this
+  time Gaara recognises it and answers it deliberately, saying it the same on
+  purpose. Somebody in the crowd says so out loud.
+- IMPORTANT for writing: this is why he may repeat himself and it is not the
+  author forgetting. If a later chapter has him restate something the room
+  already knows, either it is this test and must be visible as this test, or it
+  is a mistake. He does not brief people who were standing there.
+
 Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.

@@ -6,7 +6,7 @@ ch03    2481 Woerter  ch03-dead-mans-boots.md
 ch04    2172 Woerter  ch04-liars-decorate.md
 ch05    1697 Woerter  ch05-the-lamp-goes-out.md
 ch06    2367 Woerter  ch06-every-plan-i-make-is-for-one.md
-ch07    1412 Woerter  ch07-how-did-you-know.md
+ch07    1564 Woerter  ch07-how-did-you-know.md
 
-Gesamt: 7 Kapitel, 15113 Woerter
+Gesamt: 7 Kapitel, 15265 Woerter
 Handbuch: 4 Dokumente

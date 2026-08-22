@@ -181,7 +181,7 @@ The thing screamed and kept working. He had known it would.
 
 Then Marit came in on his left with the hatchet up in both hands and put it into a leg joint, and the thing went half down and dragged itself along the wall out of reach.
 
-"Well struck," Gaara said. "And for the record, the timing of this is deliberate, because you have a magnificent arse and I am never going to get a safer moment to mention it."
+"Well struck," Gaara said. "And for the record, the timing of this is deliberate, because you have a magnificent ass and I am never going to get a safer moment to mention it."
 
 "Mind your own side."
 

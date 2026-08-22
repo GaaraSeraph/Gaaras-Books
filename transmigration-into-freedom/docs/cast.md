@@ -14,7 +14,8 @@ Marit Halden, Level 6
   doors to wake hers because of it. A reason only he can have. Her alarm cry
   then opened every door in the village, which his shouting had not.
 - Cuts wood at the ruin's edge because someone has to.
-- Tests honesty by making people repeat themselves: "Liars decorate."
+- Tests honesty by making people repeat themselves: "Liars decorate." It is not
+  only hers - Hallvard runs the same test in ch7. It is how Oldstep does it.
 - Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
 - Not romantic so far. Wary, dry, competent.
 

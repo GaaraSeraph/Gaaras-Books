@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 7 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 10.818 Woerter.
+Alle 4 Dokumente am Stueck. 10.994 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -31,7 +31,8 @@ Marit Halden, Level 6
   doors to wake hers because of it. A reason only he can have. Her alarm cry
   then opened every door in the village, which his shouting had not.
 - Cuts wood at the ruin's edge because someone has to.
-- Tests honesty by making people repeat themselves: "Liars decorate."
+- Tests honesty by making people repeat themselves: "Liars decorate." It is not
+  only hers - Hallvard runs the same test in ch7. It is how Oldstep does it.
 - Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
 - Not romantic so far. Wary, dry, competent.
 
@@ -751,6 +752,19 @@ The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - It was not brought down by weather or time. The aqueduct has a bite out of it; the chamber roof was hit from the side. Nothing these people built could have done that.
 - Gaara's open question: whatever did it either left, or did not.
 - Roots the thickness of a thigh have split worked stone, so it has been empty a very long time.
+
+How people here test a man (ch4, confirmed ch7)
+- They make him say it twice and listen to the second telling against the first.
+  Marit does it to Gaara at the edge of the ruin with a hatchet in her hand -
+  "say it again, the part about the glass" - and concludes he is honest because
+  the two match. "Liars decorate."
+- Hallvard runs the same test in front of the whole village in ch7, and this
+  time Gaara recognises it and answers it deliberately, saying it the same on
+  purpose. Somebody in the crowd says so out loud.
+- IMPORTANT for writing: this is why he may repeat himself and it is not the
+  author forgetting. If a later chapter has him restate something the room
+  already knows, either it is this test and must be visible as this test, or it
+  is a mistake. He does not brief people who were standing there.
 
 Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
