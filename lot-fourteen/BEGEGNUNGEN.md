@@ -18,19 +18,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 258 | 26 (01-28) | 1 | 59 |
-| Hana | 141 | 12 (09-28) | 1 | 55 |
-| Chairman Woo | 98 | 18 (07-28) | 3 | 59 |
+| Annie | 260 | 27 (01-29) | 1 | 74 |
+| Hana | 152 | 13 (09-29) | 1 | 74 |
+| Chairman Woo | 107 | 19 (07-29) | 3 | 74 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 46 | 16 (03-28) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
-| Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
+| Kang Ji-hoon | 29 | 7 (09-29) | 22 | 74 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Do-yun | 15 | 4 (14-26) | 6 | 46 |
-| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
+| Kim Do-yun | 17 | 5 (14-29) | 6 | 74 |
+| Kim Ye-rin | 16 | 6 (14-29) | 31 | 74 |
+| Mr Ku | 8 | 7 (05-29) | 6 | 74 |
 | Mr Pyo | 8 | 5 (05-28) | 1 | 49 |
-| Mr Ku | 7 | 6 (05-27) | 6 | 55 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-258 Nennungen in 26 Kapiteln.
+260 Nennungen in 27 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -312,6 +312,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch27:112 | "Yes," said Annie. "That is what worries me." |
 | 2 | ch28:288 | On the Monday evening Annie put her pen down and looked at him across the desk for sligh.. |
 | 2 | ch28:306 | Annie picked the pen back up, which meant the conversation was finished, and then did no.. |
+| 74 | ch29:6 | Annie did not come, and they had settled that on the Sunday in about ninety seconds. |
+| 74 | ch29:12 | "She does not come. She does not go anywhere that has a purpose she can see from the dri.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -374,12 +376,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:322` (Tag 55) - four, twenty
 - `ch23:338` (Tag 55) - one
 - `ch24:186` (Tag 55) - twenty-three
+- `ch29:6` (Tag 74) - ninety
+- `ch29:12` (Tag 74) - twenty
 
 ---
 
 ## Hana
 
-141 Nennungen in 12 Kapiteln.
+152 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -524,6 +528,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch28:264 | "That was her telling me she had understood every single thing about why I was standing .. |
 | 1 | ch28:268 | "We know she took her gloves off," said Hana. "I have been doing this for twenty years a.. |
 | 2 | ch28:276 | No card, no telephone, no message through Sung-ho, no line from anybody in that family. .. |
+| 74 | ch29:20 | Hana came out of the kitchen with her sleeves pushed up. |
+| 74 | ch29:54 | Hana's father had gone out on his own ships for thirty years with a camera he did not un.. |
+| 74 | ch29:64 | Hana came and stood with him and let him do it, and did not once mention that she had kn.. |
+| 74 | ch29:86 | Hana did it, because it was her house and because it had to look like her house. |
+| 74 | ch29:120 | Hana came past him at twenty past eight with an empty tray she had no business carrying. |
+| 74 | ch29:138 | Hana waited. |
+| 74 | ch29:162 | Hana put the tray down after all. |
+| 74 | ch29:174 | Hana was quiet. |
+| 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
+| 74 | ch29:202 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
+| 74 | ch29:232 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -575,12 +590,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch28:236` (Tag 1) - twenty
 - `ch28:246` (Tag 1) - four, twenty
 - `ch28:268` (Tag 1) - twenty
+- `ch29:54` (Tag 74) - eleven, thirty
+- `ch29:64` (Tag 74) - one, six
+- `ch29:120` (Tag 74) - eight, twenty
+- `ch29:202` (Tag 74) - twenty
+- `ch29:232` (Tag 74) - twenty
 
 ---
 
 ## Chairman Woo
 
-98 Nennungen in 18 Kapiteln.
+107 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -682,6 +702,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
 | - | ch28:66 | "Woo at seven," she said. "And the Kims." |
 | - | ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 74 | ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
+| 74 | ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
+| 74 | ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
+| 74 | ch29:92 | "Chairman Woo. This is Kim Sung-ho, whose father you used to shout at." |
+| 74 | ch29:94 | "His father deserved it," said Woo. |
+| 74 | ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
+| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
+| 74 | ch29:210 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -735,6 +764,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:294` (Tag 9) - four, six
 - `ch28:66` (Tag ?) - seven
 - `ch28:146` (Tag ?) - four, one, two
+- `ch29:40` (Tag 74) - four, seven
+- `ch29:46` (Tag 74) - seventy-eight
+- `ch29:56` (Tag 74) - forty
+- `ch29:104` (Tag 74) - two
+- `ch29:134` (Tag 74) - nine
+- `ch29:158` (Tag 74) - two
 
 ---
 
@@ -1084,7 +1119,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kang Ji-hoon
 
-27 Nennungen in 6 Kapiteln.
+29 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1115,6 +1150,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:148 | "Nothing is wrong with Kang." |
 | 49 | ch21:190 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
 | 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -1127,6 +1164,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:134` (Tag 49) - forty, nine, one, three, two
 - `ch21:190` (Tag 49) - forty
 - `ch21:220` (Tag 49) - eight, nine, one, seven
+- `ch29:134` (Tag 74) - nine
+- `ch29:158` (Tag 74) - two
 
 ---
 
@@ -1175,7 +1214,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kim Do-yun
 
-15 Nennungen in 4 Kapiteln.
+17 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1194,6 +1233,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:266 | Kim Do-yun got up and went to the window. |
 | 6 | ch26:276 | Do-yun turned round. |
 | 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
+| 74 | ch29:212 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
@@ -1201,12 +1242,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:26` (Tag 31) - forty
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
+- `ch29:78` (Tag 74) - two
 
 ---
 
 ## Kim Ye-rin
 
-15 Nennungen in 5 Kapiteln.
+16 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1225,6 +1267,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
 | 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 74 | ch29:234 | Kim Ye-rin looked at the room. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1237,6 +1280,31 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:216` (Tag 49) - three
 - `ch21:220` (Tag 49) - eight, nine, one, seven
 - `ch21:240` (Tag 49) - nine
+
+---
+
+## Mr Ku
+
+8 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | ch24:346 | Mr Ku had the heater on. |
+| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| 74 | ch29:16 | Mr Ku had him at the gate at six, which was his week. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
+- `ch27:100` (Tag 7) - one
+- `ch29:16` (Tag 74) - six
 
 ---
 
@@ -1262,29 +1330,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:80` (Tag 46) - four, two
 - `ch17:136` (Tag 46) - three, two
 - `ch28:244` (Tag 1) - eleven, one
-
----
-
-## Mr Ku
-
-7 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | ch24:346 | Mr Ku had the heater on. |
-| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
-- `ch27:100` (Tag 7) - one
 
 ---
 

@@ -49,6 +49,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
 - Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
 - Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
+- Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29)
 
 ### Die Fahrerwoche
 
@@ -125,6 +126,21 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 29** *The ones who came at seven* (v1.0) - Der Abend, sechs bis neun.
+
+  **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
+
+  **Das Bild entsteht um elf nach acht und dauert vier Sekunden**, und niemand stellt es. Woo zeigt mit dem Stock auf eine schlechte Aufnahme von 1974, Sung-ho steht an seiner Schulter, zwei Neffen sind mitgekommen, weil ihr Onkel mitgekommen ist. Danach die Leere, die Georgij aus Yeongjong kennt: *"It is not disappointment. It is the sudden absence of the load."*
+
+  **Und die Kang-Frage loest sich auf, waehrend er sie stellt.** Er geht zu Hana, um sie zu bitten, die beiden Maenner in der Halle auseinanderzuhalten, und hoert sich mitten im Satz zu: **Es ist vier Wochen alt.** Kang war in zwei Rollen gefaehrlich, und beide sind weg. Als Kanal zu Sang-hoon wird er nicht gebraucht, weil das Foto Donnerstag ohnehin in zwei Zeitungen steht - *"he is a day early with something I am paying a man to print."* Und als Drohung gegen Hana ist er entwertet, seit ihr Wert nicht mehr allein an der Widmung haengt.
+
+  **Wichtig fuer die Genauigkeit:** Am 16. ist **nichts unterschrieben**. Woo feilscht noch, wie in Kapitel 27 angekuendigt. Was schon weg ist, ist nicht die Unsicherheit, sondern der Zustand, in dem eine einzige Akte in einem einzigen Gebaeude ihr ganzer Wert war.
+
+  Hana: *"So he is just a man who comes at Christmas. That is nine years and I had stopped noticing that I count him. Do you know how long I have been careful in my own hall?"*
+
+  **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
+
+  **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
 - **Kapitel 28** *A woman in a room can be asked* (v1.0) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
