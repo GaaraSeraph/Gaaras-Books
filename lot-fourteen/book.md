@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.997 Woerter.
+27 Kapitel. 81.008 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v2.1 | 4.692 |
+| 27 | v2.2 | 4.703 |
 
 ---
 
@@ -8156,7 +8156,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8289,6 +8289,8 @@ Woo made a noise that was not a word.
 "The east."
 
 "Then I will take eleven and stack them properly." Something went across the line that was almost cheerful. "A thousand metres is nothing. Forty minutes a load in January is four hundred hours a winter, and I have been paying it since 2019 because nobody would sell me the east side."
+
+Something moved on his end that might have been a chair.
 
 "Then send me the drawing and do not send me a broker."
 

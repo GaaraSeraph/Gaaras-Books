@@ -1,5 +1,5 @@
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -132,6 +132,8 @@ Woo made a noise that was not a word.
 "The east."
 
 "Then I will take eleven and stack them properly." Something went across the line that was almost cheerful. "A thousand metres is nothing. Forty minutes a load in January is four hundred hours a winter, and I have been paying it since 2019 because nobody would sell me the east side."
+
+Something moved on his end that might have been a chair.
 
 "Then send me the drawing and do not send me a broker."
 
