@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.168 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.230 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1128,11 +1128,19 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 
 #### V. Was er bekommt
 
-- **Das wiedererkannte.** *Halb im Text.* Chef Bang steht in Kapitel 8 während
-  der Gebote in Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man
-  ihm gesagt hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
-  Er erkennt das Lächeln, weil es seins ist. Der Text kommentiert nichts, und
-  das bleibt so. Es fehlt nur die halbe Zeile, die sagt, warum es teuer ist.
+- **Das wiedererkannte.** Chef Bang steht in Kapitel 8 während der Gebote in
+  Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man ihm gesagt
+  hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
+
+  Gesetzt ist eine halbe Zeile bei der ersten Sicht: *Georgij knew the smile.
+  It is the one you put on at the door and leave there.* Das ist wörtlich der
+  Satz aus Kapitel 7 über sein eigenes breites Lächeln (*He put it on at the
+  door and left it there*), und damit steht sein Werkzeug auf dem Gesicht
+  eines Mannes, der gerade verkauft wird.
+
+  **Der Text kommentiert nichts weiter, und das bleibt so.** Was es kostet,
+  tragen die Rechnung und Annies Nichthinsehen während der ganzen
+  Versteigerung. Wer hier erklärt, nimmt beiden das Gewicht.
 
 ---
 
@@ -1932,7 +1940,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
 | 22 | ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
 | 22 | ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
-| 22 | ch08:250 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
+| 22 | ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
 | 22 | ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
 | 22 | ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
 | 22 | ch10:6 | He did not go and stand near Annie. |
@@ -2685,13 +2693,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 22 | ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
 | 22 | ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
-| 22 | ch08:226 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
-| 22 | ch08:246 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
+| 22 | ch08:228 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
+| 22 | ch08:248 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
 
 ### Zahlen in der Naehe von Chef Bang
 
 - `ch08:218` (Tag 22) - eight, one, two
-- `ch08:226` (Tag 22) - eight hundred, sixty, sixty-two
+- `ch08:228` (Tag 22) - eight hundred, sixty, sixty-two
 
 ---
 

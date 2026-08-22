@@ -129,7 +129,7 @@ def main():
                "\n".join(head) + "\n\n---\n\n"
                + "\n\n---\n\n".join(full for *_, full in chapters) + "\n")
 
-    ndocs = build_handbook(root)
+    ndocs = build_handbook(root, len(chapters))
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
     for n, fn, title, body, full in chapters:
@@ -146,7 +146,7 @@ def main():
     warn_dead_refs(root)
 
 
-def build_handbook(root):
+def build_handbook(root, nchapters):
     docdir = os.path.join(root, "docs")
     files = sorted(glob.glob(os.path.join(docdir, "*.md")))
     if not files:
@@ -164,6 +164,7 @@ def build_handbook(root):
         "",
         "*Erzeugt aus `docs/`. Wird nicht bearbeitet.*",
         "",
+        f"Kanon: {nchapters} Kapitel geschrieben (Stand aus dem Build, nicht von Hand).",
         f"Alle {len(files)} Dokumente am Stueck, {total:,} Woerter.".replace(",", "."),
         "Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.",
         "",

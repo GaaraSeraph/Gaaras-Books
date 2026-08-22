@@ -50,11 +50,14 @@ def check(path):
     if re.search(r"[—–]", t):
         errs.append("Gedankenstrich gefunden. Nur Bindestriche.")
 
-    # Continuity-Falle aus CLAUDE.md: Charisma wurde gestrichen, Attribute sind
-    # nur STR/DEX/CON/INT/WIS. Ein Rueckfall (auch im [ STATUS ]-Block) faellt so auf.
-    if re.search(r"\bCHA\b|\bCharisma\b", t):
-        errs.append("Charisma/CHA im Text - Attribut wurde gestrichen "
-                    "(nur STR/DEX/CON/INT/WIS).")
+    # Continuity-Falle aus der Bibel: Attribute sind nur STR/DEX/CON/INT/WIS.
+    # Es gibt KEIN Charisma, Glueck oder Aussehen (story-bible S2). Watchlist der
+    # verbotenen Namen, nicht generisches Raten -> ein Rueckfall faellt auf,
+    # harmlose Woerter nicht.
+    ma = re.search(r"\b(CHA|Charisma|LUK|LUCK|Luck|APP|Appearance)\b", t)
+    if ma:
+        errs.append(f"Verbotenes Attribut '{ma.group(1)}' - es gibt nur "
+                    f"STR/DEX/CON/INT/WIS (kein Charisma/Glueck/Aussehen).")
 
     # Kein Markdown im Prosatext. [ SYSTEM ]-Klammern und Bindestriche sind erlaubt.
     md_hits = [ln.strip() for ln in body.split("\n")

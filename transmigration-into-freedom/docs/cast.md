@@ -1,5 +1,6 @@
 CAST
-Companion to the story bible. Last updated: after Chapter 6.
+Fuehrendes Dokument fuer den Cast (hier pflegen, nicht in der Bibel doppeln).
+Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.

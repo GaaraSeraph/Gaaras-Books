@@ -1,7 +1,7 @@
 STORY BIBLE
 Working title: (untitled isekai)
-Status: 6 chapters written, 35 planned
-Last updated: after Chapter 6 v2
+35 Kapitel geplant. Wie viele geschrieben sind, sagt HANDBUCH.md (vom Build),
+nicht diese Zeile von Hand.
 
 
 === 0. CHAPTERS ===
@@ -48,6 +48,15 @@ Core drives
 - He distrusts fast answers, including his own, and re-runs them cold before acting.
 - He is not a coward and not polite. He says no flatly when it counts.
 
+Morality and violence
+- He hates betrayal more than anything else.
+- A hard situational utilitarian: he weighs outcomes, not rules, and does not let
+  ordinary moral scruples stop him.
+- Violence and killing are genuine options for him, not lines he refuses to cross.
+  In his old world only legal consequence prevented it, never conscience.
+- He believes people can change if they want to. He just does not believe most of
+  them really want to.
+
 
 === 2. THE SYSTEM ===
 
@@ -65,12 +74,10 @@ Core drives
 - Skills are broader than they sound. Dagger Mastery E also governs sharpening, grip and care of the blade. His wrist finds the correct angle on a whetstone he has never used.
 - MP exists (60) and has never been used. No magic seen yet.
 
-Current sheet (end of Chapter 4)
-Level 2, HP 165/165, MP 60/60
-STR 12, DEX 8, CON 8, INT 12, WIS 10
-Class: None
-Skill: Dagger Mastery, Rank E
-Unspent points: 0
+Current sheet
+Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
+Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
+duplizieren - zwei handgepflegte Kopien laufen sonst auseinander.
 
 Inventory
 - Rusted steel field knife from the nest. Corroded, edge intact, "adequate for soft targets, avoid bone." Unnamed so far.
@@ -115,42 +122,16 @@ Gloom Crawlers
 
 === 4. CAST ===
 
-Marit Halden, Level 6
-- Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
-- Cuts wood at the ruin's edge because someone has to.
-- Tests honesty by making people repeat themselves: "Liars decorate."
-- Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
-- Not romantic so far. Wary, dry, competent.
-
-Teodor (dead, offstage)
-- Went into the ruin at the start of harvest, after the others who had vanished, because somebody had to and he was the sort who went.
-- Bad ankle; his heel was built out and restitched twice in a coarse cross pattern. That stitching is how Marit identified his boots on Gaara's feet.
-- His mother has left a lamp out every night since harvest. Gaara has agreed to tell her what he found, in front of the elder, in plain words.
-
-Hallvard, elder of Oldstep, NO PANEL
-- Seventy or so, tall and dry, carries a stick he does not lean on. Has been the final word here a long time.
-- Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
-- "I'm counting because I have forty houses and you have one."
-- Made Gaara sleep in the byre as a precaution. Watched the dirt map in Chapter 6 and left without a word.
-- Terms of the deal: three days of bread, a whetstone, no blanket. Proof brought back from the ruin.
-
-Solva, Level 3
-- Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
-- Let him keep the boots. Brought him bread, cheese and a pot of fat for the steel.
-- Publicly on his side. "Nine weeks I've asked men to go and look. Not one of you went."
-
-Minor villagers
-- Bern, Level 4, about fifty, lost two dogs (Rell and the little one) at the stream mouth.
-- Halle, whose cousin was taken at the ford in daylight, with the ox screaming.
-- An unnamed boy of sixteen, Level 2, was fishing with the boy who was taken and ran. Talks to his own hands.
-- An old man with nothing useful who came to look at the stranger.
-- Only five of forty houses came to the byre. Being seen walking there meant picking a side.
+Der Cast ist fuehrend in cast.md - dort pflegen, hier nicht duplizieren.
+Kurzindex: Marit Halden (Level 6), Teodor (tot, offstage), Hallvard (elder,
+NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.md.
 
 
 === 5. STYLE RULES ===
 
 - Written in English. Working discussion in German.
-- Deliver every chapter as .txt AND .md, versioned: chNN-slug-vN.
+- Formatierung, Dateinamen und Versionierung sind fuehrend in CLAUDE.md. Kurz:
+  .txt UND .md pro Kapitel, Dateiname chNN-slug OHNE Versions-Suffix (git versioniert).
 - NO markdown inside the prose. No asterisks, hashes, underscores. The writing app strips them.
 - NO em dashes. Ever. Plain hyphens.
 - No chapter title inside the chapter file.

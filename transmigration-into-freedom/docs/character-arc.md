@@ -1,5 +1,5 @@
 CHARACTER ARC AND PROGRESSION
-Companion to the story bible. Last updated: after Chapter 6.
+Companion to the story bible. Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 
 === 1. THE CENTRAL ARGUMENT ===
@@ -54,6 +54,29 @@ Rule for writing it: the system reports, it never answers. It has no personality
 
 
 === 4. PROGRESSION TRACKER ===
+
+This section is the SINGLE SOURCE for the status window: its format and its
+per-chapter values. The story bible points here. Do not keep a second sheet.
+
+Status window format, exactly as it renders in the chapters. Attributes are
+STR, DEX, CON, INT, WIS only - no charisma, luck or appearance stat.
+
+[ STATUS ]
+
+Name: <name>
+Level: <n>
+Race: <race>
+Class: <class or None>
+HP: <cur>/<max>
+MP: <cur>/<max>
+STR: <n>
+DEX: <n>
+CON: <n>
+INT: <n>
+WIS: <n>
+
+Changes render as [ LEVEL UP ] / [ ATTRIBUTES UPDATED ] / [ SKILL ACQUIRED ]
+blocks with the same field names.
 
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
 Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON 6. HP 120. Skill: Dagger Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.

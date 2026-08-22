@@ -2,19 +2,22 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Alle 3 Dokumente am Stueck. 3.845 Woerter.
+Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 3.896 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
 
 - [CAST](#cast)  ·  `docs/cast.md`
 - [CHARACTER ARC AND PROGRESSION](#character-arc-and-progression)  ·  `docs/character-arc.md`
+- [DECISIONS AND WHAT WAS DISCARDED](#decisions-and-what-was-discarded)  ·  `docs/decisions.md`
 - [STORY BIBLE](#story-bible)  ·  `docs/story-bible.md`
 
 ---
 
 CAST
-Companion to the story bible. Last updated: after Chapter 6.
+Fuehrendes Dokument fuer den Cast (hier pflegen, nicht in der Bibel doppeln).
+Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
@@ -50,7 +53,7 @@ Minor villagers
 ---
 
 CHARACTER ARC AND PROGRESSION
-Companion to the story bible. Last updated: after Chapter 6.
+Companion to the story bible. Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 
 === 1. THE CENTRAL ARGUMENT ===
@@ -106,6 +109,29 @@ Rule for writing it: the system reports, it never answers. It has no personality
 
 === 4. PROGRESSION TRACKER ===
 
+This section is the SINGLE SOURCE for the status window: its format and its
+per-chapter values. The story bible points here. Do not keep a second sheet.
+
+Status window format, exactly as it renders in the chapters. Attributes are
+STR, DEX, CON, INT, WIS only - no charisma, luck or appearance stat.
+
+[ STATUS ]
+
+Name: <name>
+Level: <n>
+Race: <race>
+Class: <class or None>
+HP: <cur>/<max>
+MP: <cur>/<max>
+STR: <n>
+DEX: <n>
+CON: <n>
+INT: <n>
+WIS: <n>
+
+Changes render as [ LEVEL UP ] / [ ATTRIBUTES UPDATED ] / [ SKILL ACQUIRED ]
+blocks with the same field names.
+
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
 Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON 6. HP 120. Skill: Dagger Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 8, HP 165. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
@@ -148,10 +174,44 @@ Solva
 
 ---
 
+DECISIONS AND WHAT WAS DISCARDED
+Each entry says WHAT was decided and WHY, so a later pass does not undo it by
+accident. Newest on top.
+
+
+=== Cast has one source ===
+The cast lived in both cast.md and the story bible's section 4, word for word.
+cast.md is now the leading document; the bible keeps a short index and points to
+it. Two copies of the same character notes drift.
+
+=== Status window has one source ===
+The running status window (its format and its per-chapter values) lives only in
+character-arc.md, section 4. The story bible used to carry a second "Current
+sheet"; two hand-maintained copies drift - the bible's was already stamped "end
+of Chapter 4" while six chapters existed, and it omitted the Race field that the
+chapters actually render. The bible now points to the tracker.
+
+=== Versioning is git, not filename suffixes ===
+Chapter files are named chNN-slug (no vN suffix); versioning is git's job. The
+story bible briefly said "chNN-slug-vN", which contradicted CLAUDE.md. CLAUDE.md
+is the leading document for formatting and naming; the bible now defers to it.
+
+=== Attributes are STR, DEX, CON, INT, WIS only ===
+No charisma, luck or appearance stat. Gaara notices the absence and approves it.
+check.py errors on CHA/Charisma/LUK/LUCK/Luck/APP/Appearance, so a relapse cannot
+slip in unnoticed, including inside a [ STATUS ] block. Baseline was 0.
+
+=== Hand-maintained counts moved to the build ===
+"N chapters written" / "last updated" stamps drift. HANDBUCH.md now carries the
+chapter count from the build. "35 planned" stays in the bible, because the build
+cannot know it.
+
+---
+
 STORY BIBLE
 Working title: (untitled isekai)
-Status: 6 chapters written, 35 planned
-Last updated: after Chapter 6 v2
+35 Kapitel geplant. Wie viele geschrieben sind, sagt HANDBUCH.md (vom Build),
+nicht diese Zeile von Hand.
 
 
 === 0. CHAPTERS ===
@@ -198,6 +258,15 @@ Core drives
 - He distrusts fast answers, including his own, and re-runs them cold before acting.
 - He is not a coward and not polite. He says no flatly when it counts.
 
+Morality and violence
+- He hates betrayal more than anything else.
+- A hard situational utilitarian: he weighs outcomes, not rules, and does not let
+  ordinary moral scruples stop him.
+- Violence and killing are genuine options for him, not lines he refuses to cross.
+  In his old world only legal consequence prevented it, never conscience.
+- He believes people can change if they want to. He just does not believe most of
+  them really want to.
+
 
 === 2. THE SYSTEM ===
 
@@ -215,12 +284,10 @@ Core drives
 - Skills are broader than they sound. Dagger Mastery E also governs sharpening, grip and care of the blade. His wrist finds the correct angle on a whetstone he has never used.
 - MP exists (60) and has never been used. No magic seen yet.
 
-Current sheet (end of Chapter 4)
-Level 2, HP 165/165, MP 60/60
-STR 12, DEX 8, CON 8, INT 12, WIS 10
-Class: None
-Skill: Dagger Mastery, Rank E
-Unspent points: 0
+Current sheet
+Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
+Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
+duplizieren - zwei handgepflegte Kopien laufen sonst auseinander.
 
 Inventory
 - Rusted steel field knife from the nest. Corroded, edge intact, "adequate for soft targets, avoid bone." Unnamed so far.
@@ -265,42 +332,16 @@ Gloom Crawlers
 
 === 4. CAST ===
 
-Marit Halden, Level 6
-- Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
-- Cuts wood at the ruin's edge because someone has to.
-- Tests honesty by making people repeat themselves: "Liars decorate."
-- Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
-- Not romantic so far. Wary, dry, competent.
-
-Teodor (dead, offstage)
-- Went into the ruin at the start of harvest, after the others who had vanished, because somebody had to and he was the sort who went.
-- Bad ankle; his heel was built out and restitched twice in a coarse cross pattern. That stitching is how Marit identified his boots on Gaara's feet.
-- His mother has left a lamp out every night since harvest. Gaara has agreed to tell her what he found, in front of the elder, in plain words.
-
-Hallvard, elder of Oldstep, NO PANEL
-- Seventy or so, tall and dry, carries a stick he does not lean on. Has been the final word here a long time.
-- Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
-- "I'm counting because I have forty houses and you have one."
-- Made Gaara sleep in the byre as a precaution. Watched the dirt map in Chapter 6 and left without a word.
-- Terms of the deal: three days of bread, a whetstone, no blanket. Proof brought back from the ruin.
-
-Solva, Level 3
-- Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
-- Let him keep the boots. Brought him bread, cheese and a pot of fat for the steel.
-- Publicly on his side. "Nine weeks I've asked men to go and look. Not one of you went."
-
-Minor villagers
-- Bern, Level 4, about fifty, lost two dogs (Rell and the little one) at the stream mouth.
-- Halle, whose cousin was taken at the ford in daylight, with the ox screaming.
-- An unnamed boy of sixteen, Level 2, was fishing with the boy who was taken and ran. Talks to his own hands.
-- An old man with nothing useful who came to look at the stranger.
-- Only five of forty houses came to the byre. Being seen walking there meant picking a side.
+Der Cast ist fuehrend in cast.md - dort pflegen, hier nicht duplizieren.
+Kurzindex: Marit Halden (Level 6), Teodor (tot, offstage), Hallvard (elder,
+NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.md.
 
 
 === 5. STYLE RULES ===
 
 - Written in English. Working discussion in German.
-- Deliver every chapter as .txt AND .md, versioned: chNN-slug-vN.
+- Formatierung, Dateinamen und Versionierung sind fuehrend in CLAUDE.md. Kurz:
+  .txt UND .md pro Kapitel, Dateiname chNN-slug OHNE Versions-Suffix (git versioniert).
 - NO markdown inside the prose. No asterisks, hashes, underscores. The writing app strips them.
 - NO em dashes. Ever. Plain hyphens.
 - No chapter title inside the chapter file.

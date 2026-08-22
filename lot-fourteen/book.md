@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.329 Woerter.
+17 Kapitel. 50.346 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -16,7 +16,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 05 | v5.6 | 4.331 |
 | 06 | v1.2 | 2.072 |
 | 07 | v6.2 | 3.874 |
-| 08 | v3.2 | 2.672 |
+| 08 | v3.3 | 2.689 |
 | 09 | v3.1 | 3.132 |
 | 10 | v2.1 | 2.981 |
 | 11 | v2.5 | 2.407 |
@@ -2051,7 +2051,7 @@ He had six.
 ---
 
 # Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2272,6 +2272,8 @@ The screen changed.
 Chef Bang was standing to the left of the lectern in his whites.
 
 He was about forty and he had his hands folded in front of him, and he was smiling, and he had clearly been told where to stand and when to come out, and he did all of it perfectly well.
+
+Georgij knew the smile. It is the one you put on at the door and leave there.
 
 The bidding started at ten and went up the room in fives.
 

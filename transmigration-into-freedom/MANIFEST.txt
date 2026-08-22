@@ -8,4 +8,4 @@ ch05    1728 Woerter  ch05-the-lamp-goes-out.md
 ch06    1906 Woerter  ch06-she-was-already-waiting.md
 
 Gesamt: 6 Kapitel, 13287 Woerter
-Handbuch: 3 Dokumente
+Handbuch: 4 Dokumente

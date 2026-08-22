@@ -1,12 +1,31 @@
 # Project: Isekai novel (untitled)
 
-An isekai novel in English. 6 chapters written, 35 planned.
-Working discussion with the author happens in German. The prose is always English.
+An isekai novel in English. Working discussion with the author happens in German.
+The prose is always English.
+
+The chapter files are canon. Everything else (docs/, this file) describes them or
+plans ahead. Where a planning document contradicts a chapter, the chapter is right
+and the document gets changed. How many chapters exist: see HANDBUCH.md.
 
 ## Read first
 
 - `docs/story-bible.md` - all established canon: protagonist, system rules, world, cast, open threads. Check it before writing anything, and update it after every new chapter.
 - `docs/character-arc.md` - the long arc, the progression tracker, pacing rules, and the things that must not drift.
+
+## Leading documents - one source each
+
+Each topic has exactly one authoritative file. Collect it there, link from
+elsewhere, never copy. A second hand-maintained copy always drifts.
+
+| Topic | Leading file |
+|---|---|
+| Formatting, file naming, versioning, workflow | `CLAUDE.md` (this file) |
+| Status window: format + values per chapter | `docs/character-arc.md`, section 4 |
+| The long arc, pacing, what must not drift | `docs/character-arc.md` |
+| Cast: characters, levels, quotes | `docs/cast.md` |
+| System rules, world, protagonist, threads | `docs/story-bible.md` |
+| Decisions and what was discarded, with reasons | `docs/decisions.md` |
+| Reading/paste versions (generated, never edit) | `book.md`, `HANDBUCH.md`, `MANIFEST.txt`, `chapters/*.txt` |
 
 ## Hard formatting rules
 
