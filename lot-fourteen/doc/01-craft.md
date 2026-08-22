@@ -232,6 +232,29 @@ Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
 der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
 in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
 
+### 2f. Gekauft, nicht angestellt
+
+**Es heisst *paid for*, nie *paying for*.** Annie hat Georgij einmal gekauft, im
+Oktober, fuer 220 Millionen Won. Sie zahlt ihm keinen Lohn, und das ist keine
+Nebensaechlichkeit, sondern die Achse des Buches: In Kapitel 24 sagt er es ihr
+auf einer Bruecke ins Gesicht, *"I am not paid. There is no arrangement anywhere
+in the world under which I receive one won of yours"*, und es ist der einzige
+Beweis, den er dafuer hat, dass er nicht wegen des Geldes bleibt.
+
+Eine Verlaufsform behauptet ein laufendes Verhaeltnis und macht aus einem
+gekauften Mann einen Angestellten. Damit faellt der Beweis weg.
+
+**Gezaehlt am 22. August:** ueber vierzig Stellen im Buch benutzen *paid for*.
+Drei benutzen die Verlaufsform, und zwei davon zu Recht - Woo ueber einen
+Vorgang (*"you were not paying for the signature"*) und Hana ueber laufende
+Instandhaltung (*"a woman who was paying for exactly the parts that people see
+from the road"*). Die dritte stand in Kapitel 27 und war falsch.
+
+**Dieselbe Wachsamkeit gilt fuer alles, was nach Anstellung klingt:** Gehalt,
+Kuendigung, Urlaub, Vertrag im arbeitsrechtlichen Sinn. Was zwischen den beiden
+gilt, ist eine Schuldübernahme und ein Halsband, und die Sprache darf das nicht
+weichzeichnen.
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**

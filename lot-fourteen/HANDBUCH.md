@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.042 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.244 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -16,6 +16,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [2c. Die zwei Kontraktionen](#2c-die-zwei-kontraktionen)
   - [2d. Die Stiftshuette](#2d-die-stiftshuette)
   - [2e. Wer spricht gerade](#2e-wer-spricht-gerade)
+  - [2f. Gekauft, nicht angestellt](#2f-gekauft-nicht-angestellt)
   - [3. Rueckbezug](#3-rueckbezug)
   - [4. Die Laecheln](#4-die-laecheln)
   - [5. Satzzeichen](#5-satzzeichen)
@@ -369,6 +370,29 @@ Bandwurmsaetzen. Ein Redeblock wird an einem Punkt aufgetrennt, die zweite
 Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
 der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
 in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
+
+### 2f. Gekauft, nicht angestellt
+
+**Es heisst *paid for*, nie *paying for*.** Annie hat Georgij einmal gekauft, im
+Oktober, fuer 220 Millionen Won. Sie zahlt ihm keinen Lohn, und das ist keine
+Nebensaechlichkeit, sondern die Achse des Buches: In Kapitel 24 sagt er es ihr
+auf einer Bruecke ins Gesicht, *"I am not paid. There is no arrangement anywhere
+in the world under which I receive one won of yours"*, und es ist der einzige
+Beweis, den er dafuer hat, dass er nicht wegen des Geldes bleibt.
+
+Eine Verlaufsform behauptet ein laufendes Verhaeltnis und macht aus einem
+gekauften Mann einen Angestellten. Damit faellt der Beweis weg.
+
+**Gezaehlt am 22. August:** ueber vierzig Stellen im Buch benutzen *paid for*.
+Drei benutzen die Verlaufsform, und zwei davon zu Recht - Woo ueber einen
+Vorgang (*"you were not paying for the signature"*) und Hana ueber laufende
+Instandhaltung (*"a woman who was paying for exactly the parts that people see
+from the road"*). Die dritte stand in Kapitel 27 und war falsch.
+
+**Dieselbe Wachsamkeit gilt fuer alles, was nach Anstellung klingt:** Gehalt,
+Kuendigung, Urlaub, Vertrag im arbeitsrechtlichen Sinn. Was zwischen den beiden
+gilt, ist eine Schuldübernahme und ein Halsband, und die Sprache darf das nicht
+weichzeichnen.
 
 ### 3. Rueckbezug
 
@@ -1468,7 +1492,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.9) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v2.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.964 Woerter.
+27 Kapitel. 80.963 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.9 | 4.690 |
+| 27 | v2.0 | 4.689 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8162,7 +8162,7 @@ The sentence had come out without any preparation, which was becoming a habit, a
 
 "Say it."
 
-"An afternoon. Perhaps two. Your car, your driver, your telephone, and about six hours of a man you are paying for." He stayed at the corner of the desk. "I am asking, because all of that is yours."
+"An afternoon. Perhaps two. Your car, your driver, your telephone, and about six hours of a man you paid for." He stayed at the corner of the desk. "I am asking, because all of that is yours."
 
 ---
 
