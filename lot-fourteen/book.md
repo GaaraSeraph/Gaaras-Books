@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.280 Woerter.
+17 Kapitel. 50.259 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -13,7 +13,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 02 | v11.5 | 3.174 |
 | 03 | v2.4 | 3.342 |
 | 04 | v1.5 | 2.433 |
-| 05 | v5.4 | 4.318 |
+| 05 | v5.5 | 4.297 |
 | 06 | v1.2 | 2.072 |
 | 07 | v6.1 | 3.874 |
 | 08 | v3.1 | 2.672 |
@@ -1120,7 +1120,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.4 · EN
+*Lot Fourteen* · Version 5.5 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1138,11 +1138,11 @@ Then he came in.
 
 ---
 
-He was not a replacement for the man on the gravel. He was the interim head of security, and he was interim because Mr Noh, who had held the post for twenty-two years, went at the end of the month and had been drawing down his accumulated leave since March and came in on Tuesdays.
+He was not a replacement for the man on the gravel. He was the interim head of security. He was interim because Mr Noh had held the post for twenty-two years, went at the end of the month, had been drawing down his leave since March, and came in on Tuesdays.
 
 That was most of what was wrong with the house explained in one sentence, and Georgij had worked it out in three days without anybody telling him any of it.
 
-They gave Jang the security office off the garage passage, which had a wall of eight screens in it that cycled the gate, the drive, the two approaches and four rooms, and which Mr Noh had left with a chair in it that faced away from all of them.
+They gave Jang the security office off the garage passage. It had a wall of eight screens in it that cycled the gate, the drive, the two approaches and four rooms. Mr Noh had left a chair in it that faced away from all of them.
 
 By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a written one. By eleven there was.
 
@@ -1242,11 +1242,11 @@ Jang squared the nine sheets on the desk.
 
 He walked the house with Jang for two hours and told him what he had and answered what he was asked and volunteered nothing that was not about the building.
 
-By the end of it Jang had stopped calling him nothing at all and had started calling him Georgij, and Georgij was calling him Mr Jang, and it was the second of those that went round the house by lunch.
+By the end of it Jang had stopped calling him nothing at all and had started calling him Georgij. Georgij was calling him Mr Jang. It was the second of those that went round the house by lunch.
 
 Ji-won came out of the kitchen twice to see it.
 
-Bae, who had spent three days as one of two men on a gate that had been built for three and had not slept properly in any of them, came up in the afternoon to hand over a key and stood in the passage listening to a collared man tell his new chief where the blind spots were, and could not work out from either of their faces which of the two of them was in charge of the conversation.
+Bae had spent three days as one of two men on a gate that had been built for three, and had not slept properly in any of them. He came up in the afternoon to hand over a key and stood in the passage, listening to a collared man tell his new chief where the blind spots were. He could not work out from either of their faces which of the two of them was in charge of the conversation.
 
 That evening Mrs Seo sent a fresh pot down to the small office off the garage passage without anybody having asked her for it, and said nothing about it to anyone.
 
@@ -1256,17 +1256,17 @@ That evening Mrs Seo sent a fresh pot down to the small office off the garage pa
 
 He had the household by the sixth morning, and he had not asked anybody a single question to get it.
 
-He got it because he ate at the end of the long table at seven, and people talk over food, and because a man who is helpful with a heavy tray on a Tuesday finds out on Wednesday who is on which rota.
+He got it because he ate at the end of the long table at seven, and people talk over food. He got it because a man who is helpful with a heavy tray on a Tuesday finds out on Wednesday who is on which rota.
 
 Twenty-nine people drew money from the estate. Fourteen of them were security.
 
 ---
 
-**The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten: Ji-won, who lives in above the kitchen; Eun-ju, who comes from Nowon and goes home at four; and two more on the upper floors whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
+**The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten. Ji-won, who lives in above the kitchen. Eun-ju, who comes from Nowon and goes home at four. And two more on the upper floors, whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
 
 Breakfast was the one place the money did not show, and only because Mrs Seo had taken that woman's tray up herself for nine years and would go on doing it until she was carried out.
 
-**Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above all of it, on paper. Three shift supervisors. The gate manned around the clock on a three-man post, which is the post Ji-won had counted for him on the first night and the only one she had ever seen. Two on the perimeter by day and one at night. The monitor room covered on nights. Two more who went out with the cars whenever Annie went anywhere at all, and who had not gone out with her on the night of the auction, which Georgij had understood on the third day and had said nothing about to anybody.
+**Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above all of it, on paper. Three shift supervisors. The gate manned around the clock on a three-man post, which is the post Ji-won had counted for him on the first night and the only one she had ever seen. Two on the perimeter by day and one at night. The monitor room covered on nights. Two more who went out with the cars whenever Annie went anywhere at all, and who had not gone out with her on the night of the auction. Georgij had understood that on the third day and had said nothing about it to anybody.
 
 The money had never been the problem. Nobody had ever economised on the security of that house, and nobody ever would.
 
@@ -1276,13 +1276,13 @@ What she had was this.
 
 The chair in the monitor room faced away from the screens, and it had faced away from them long enough for the carpet to have gone flat under it in that position.
 
-The night man on the perimeter walked the same route at eleven, at one, at three and at five, and it took him nineteen minutes each time, and Georgij had the whole of it inside two nights from a first-floor window without leaving the house.
+The night man on the perimeter walked the same route at eleven, at one, at three and at five, and it took him nineteen minutes each time. Georgij had the whole of it inside two nights, from a first-floor window, without leaving the house.
 
 Two of the three shift supervisors had never been given a key to the security office and had stopped asking.
 
 The archive nobody reviewed. The schedule nobody had written down. The two cameras nobody knew about.
 
-And fourteen men, none of whom was permitted through the front door after ten at night, because the woman who paid all fourteen of them had said years ago that she would not live in a bank, and nobody had ever asked her to say it again.
+And fourteen men, none of whom was permitted through the front door after ten at night. The woman who paid all fourteen of them had said years ago that she would not live in a bank, and nobody had ever asked her to say it again.
 
 Everything she bought was outside the house. Everything that mattered was in it.
 
@@ -1304,7 +1304,7 @@ Georgij was pleasant to her both times and told her nothing either time, and put
 
 **The glass.** A firm from Yeongdeungpo does the south wall on the second Wednesday of the month, on a cradle off the roof anchors. Four men. One of the four has never been the same man twice.
 
-Georgij stood at the landing window on the sixth day and thought about four strangers on ropes coming down the outside of a wall that has no door in it, once a month, for as long as anybody in the house could remember, and about how not one of the fourteen had ever been given a list of their names.
+Georgij stood at the landing window on the sixth day and thought about it. Four strangers on ropes, coming down the outside of a wall that has no door in it, once a month, for as long as anybody in the house could remember. And not one of the fourteen had ever been given a list of their names.
 
 He put it at the top of what he was keeping for Jang, above the night man and above everything else.
 
@@ -1314,9 +1314,9 @@ He put it at the top of what he was keeping for Jang, above the night man and ab
 
 Annie had come into the kitchen at seven on the first morning, and on the second, and not since.
 
-Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the end of the long table at seven for Georgij, and on the mornings Annie wanted him she sent Ji-won down to fetch him and he ate whatever was in front of her when he got there.
+Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the end of the long table at seven for Georgij. On the mornings Annie wanted him she sent Ji-won down to fetch him, and he ate whatever was in front of her when he got there.
 
-Nobody had said a word about any of it. Annie had made her point in front of the whole staff and then stopped making it, and Mrs Seo had lost the argument and kept the kitchen, and Georgij watched the two of them arrive at that over eight days without either of them speaking to the other about it once.
+Nobody had said a word about any of it. Annie had made her point in front of the whole staff and then stopped making it. Mrs Seo had lost the argument and kept the kitchen. Georgij watched the two of them arrive at that over eight days, without either of them speaking to the other about it once.
 
 He had settled a great many things with a great many people over seventeen years, and he had never once settled one without somebody having to say out loud who had given way. Those two had done it in eight days without a word, and neither of them had lost her footing. It was the first thing in the house he did not think he could have done himself.
 
@@ -1350,7 +1350,7 @@ There was a stone shelf beside the front door with a shallow bowl on it for keys
 
 The bowl was where it had always been. The small dark thing that had lain beside it since one o'clock on the first morning was not.
 
-He did not go over to it, and he did not slow down, and he did not lift his eyes to the moulding above the door, because there was a camera in the moulding above the door and it had a picture of whoever had come and taken the thing away, and a picture of him noticing would be a separate file and would be worth something to somebody.
+He did not go over to it. He did not slow down. He did not lift his eyes to the moulding above the door, because there was a camera in the moulding above the door, and it had a picture of whoever had come and taken the thing away. A picture of him noticing would be a separate file, and would be worth something to somebody.
 
 He went up the stairs at the speed he always went up the stairs.
 
@@ -1360,13 +1360,13 @@ He went up the stairs at the speed he always went up the stairs.
 
 It did not come out of the hotel, or the charity, or the four years of photographs.
 
-It came out of a car service in Jung-gu that had held the contract for the same evening since before the charity had changed its name, and out of a florist who did sixteen tables and needed to know how many wheelchairs, and out of a woman in a hotel accounts office who had been given a name to invoice for the corkage and had put it in an email with two hundred and twelve other people copied on it.
+It came out of a car service in Jung-gu that had held the contract for the same evening since before the charity had changed its name. It came out of a florist who did sixteen tables and needed to know how many wheelchairs. And it came out of a woman in a hotel accounts office who had been given a name to invoice for the corkage. She put it in an email with two hundred and twelve other people copied on it.
 
 By the eleventh day he had four hundred and thirty names, and ninety-one of them were worth the time it took to look at them.
 
 By the sixteenth he had stopped adding names and started adding the other thing, which took longer and did not go into any file that ran through a machine she paid for.
 
-A man's second mortgage. A daughter at a school in Switzerland that costs more than the man's declared income. Two directors of the same company who had each separately booked the same hotel in Busan on the same four nights. A hospital in Gangnam that quietly does not put certain admissions through the insurance system. He sat with that one for rather longer than it needed, and put no note against it, and did not mention it afterwards to anybody at all. A man who had given the same speech about his father in three consecutive years, and whose father, according to a court file in Daegu that nobody had ever bothered to seal, had been convicted of something rather different from what the speech said.
+A man's second mortgage. A daughter at a school in Switzerland that costs more than the man's declared income. Two directors of the same company who had each separately booked the same hotel in Busan on the same four nights. A hospital in Gangnam that quietly does not put certain admissions through the insurance system. He sat with that one for rather longer than it needed, and put no note against it, and did not mention it afterwards to anybody at all. A man who had given the same speech about his father in three consecutive years. His father, according to a court file in Daegu that nobody had ever bothered to seal, had been convicted of something rather different from what the speech said.
 
 Twelve of the ninety-one mattered.
 
@@ -1384,9 +1384,9 @@ There was nothing on it to break. He had understood that in the first three days
 
 He was in at nine minutes past nine, on the second attempt.
 
-The file went in off a memory stick out of her own second drawer, where there was a box of them, and the copy of it would sit in this evening's log on the laptop that a company in Yeouido billed her monthly to keep the log of, and he did not clear that and had never intended to.
+The file went in off a memory stick out of her own second drawer, where there was a box of them. The copy of it would sit in this evening's log on the laptop that a company in Yeouido billed her monthly to keep the log of. He did not clear that, and had never intended to.
 
-He put back the two small things on the desk that had been left in a particular way on purpose, so that she would know if anybody had been in there, and he put them back exactly as they had been.
+There were two small things on the desk that had been left in a particular way on purpose, so that she would know if anybody had been in there. He put them back exactly as they had been.
 
 The desk had four drawers and three of them opened. He left the fourth alone.
 
@@ -1432,7 +1432,7 @@ Then she closed it, and sat back, and looked at him.
 
 "That machine has never been on a network."
 
-"No, Mistress. So I never went at the machine." He said it exactly as levelly as he had said everything else that evening. "You typed it in front of me twice in three weeks. The first time I had my back to you at that window and got about half of it. The second was eleven days later, and I was standing at the corner of this desk with a folder in my hands, and I was watching your shoulder rather than your hands, because people feel it when you watch their hands."
+"No, Mistress. So I never went at the machine." He said it exactly as levelly as he had said everything else that evening. "You typed it in front of me twice in three weeks. The first time I had my back to you at that window and got about half of it. The second was eleven days later. I was standing at the corner of this desk with a folder in my hands, and I was watching your shoulder rather than your hands, because people feel it when you watch their hands."
 
 Annie sat very still.
 
@@ -1446,7 +1446,7 @@ Annie sat very still.
 
 She let that be the whole of it.
 
-She did not ask how he had got the ninety-one. She did not ask how he had got into the machine or how long it had taken. She did not ask what else was on the machine, or what he had opened before he wrote to the desktop, and she did not turn to the laptop on the side table and pull the log, which would have taken her under a minute and which she had paid a company in Yeouido specifically so that she could do.
+She did not ask how he had got the ninety-one. She did not ask how he had got into the machine or how long it had taken. She did not ask what else was on the machine, or what he had opened before he wrote to the desktop. She did not turn to the laptop on the side table and pull the log. It would have taken her under a minute, and she had paid a company in Yeouido specifically so that she could.
 
 She did not ask what the password was, either. She had typed it.
 
@@ -1456,7 +1456,7 @@ She did not ask what the password was, either. She had typed it.
 
 "And you're not going to tell me which nine."
 
-"They're in the file, Mistress. Pages fourteen to nineteen." He paused for exactly the length of a breath. "I'm not going to tell you which of them I'd start with. You'd rather find that out on the night."
+"They're in the file, Mistress. Pages fourteen to nineteen." He paused for exactly the length of a breath. "I'm not going to tell you which of them I'd start with. You will want to see that one on the night."
 
 Something moved behind Annie's face and stayed a little longer than usual before it went.
 
