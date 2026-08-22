@@ -319,6 +319,31 @@ def build_handbook(root, register=None):
     return len(files) + nreg
 
 
+def build_reader(root, chapters):
+    """read/ neu schreiben: je Kapitel eine Seite, dazu das ganze Buch.
+
+    reader.py liegt neben build.py, nicht zwingend im uebergebenen root -
+    der Hook ruft build.py mit dem Projektordner als Argument auf, und aus
+    der Repo-Wurzel heraus faende ein Import ueber root nichts.
+    """
+    here = os.path.dirname(os.path.abspath(__file__))
+    if here not in sys.path:
+        sys.path.insert(0, here)
+    import reader
+
+    readdir = os.path.join(root, "read")
+    os.makedirs(readdir, exist_ok=True)
+    for old in glob.glob(os.path.join(readdir, "*.html")):
+        os.remove(old)
+
+    pairs = [(fname, text + "\n") for _, _, fname, text in chapters]
+    for fname, text in pairs:
+        write_text(os.path.join(readdir, fname.replace(".md", ".html")),
+                   reader.render(text, fname))
+    write_text(os.path.join(readdir, "book.html"), reader.render_book(pairs))
+    return len(pairs)
+
+
 def main():
     root = sys.argv[1] if len(sys.argv) > 1 else "."
     chapdir = os.path.join(root, "chapters")
@@ -360,6 +385,11 @@ def main():
         out = os.path.join(pastedir, fname.replace(".md", "_PASTE.txt"))
         write_text(out, to_paste(text + "\n"))
 
+    # Lesefassungen. Eine md-Datei bekommt man zum Herunterladen, eine
+    # HTML-Seite kann man aufmachen. read/ ist nicht versioniert, es wird
+    # bei jedem Build neu geschrieben.
+    nread = build_reader(root, chapters)
+
     total = sum(len(c[3].split()) for c in chapters)
     rows = [f"| {n:02d} | v{v[0]}.{v[1]} | {len(t.split()):,} |".replace(",", ".")
             for n, v, f, t in chapters]
@@ -395,6 +425,7 @@ def main():
     print(f"HANDBUCH.md    {ndocs} Dokumente")
     print(f"BEGEGNUNGEN.md {nfig} Figuren im Text")
     print(f"paste/         {len(chapters)} Einfuegefassungen")
+    print(f"read/          {nread} Lesefassungen und book.html")
 
     warn_dead_refs(root)
 

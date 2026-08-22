@@ -7,3 +7,13 @@ desktop.ini
 *~
 .vscode/
 .idea/
+
+# Lesefassungen aus build.py. Werden bei jedem Lauf neu geschrieben, und
+# book.html wird komplett neu geschrieben, sobald sich ein Kapitel aendert.
+# Das waeren rund 300 KB Rauschen je Commit fuer etwas, das aus chapters/
+# jederzeit wieder entsteht. GitHub zeigt HTML aus einem Repo ohnehin nicht an.
+*/read/
+
+# build.py importiert reader.py, seither legt Python hier Bytecode ab.
+__pycache__/
+*.pyc

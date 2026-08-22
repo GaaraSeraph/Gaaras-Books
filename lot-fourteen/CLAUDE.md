@@ -30,9 +30,14 @@ python3 build.py
 ```
 
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
-Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `book.md`,
+Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
 auseinanderlaufen.
+
+`read/` ist die Fassung zum Anschauen: `reader.py` setzt jedes Kapitel als
+HTML-Seite, dazu `read/book.html` mit allen siebzehn und einem
+Inhaltsverzeichnis. Eine md-Datei bekommt man im Chat zum Herunterladen, eine
+HTML-Seite kann man aufmachen und lesen. Kanon bleibt `chapters/`.
 
 Beides laeuft ausserdem von selbst: als Hook vor jedem Commit und als GitHub
 Action bei jedem Push. Der Hook baut und **blockiert bei einem Build-Fehler**,
@@ -53,6 +58,7 @@ die Kapitelpruefung warnt nur.
 | `chapters/` | Die Kapitel. Kanon |
 | `doc/` | Die acht Quelldokumente |
 | `paste/` | Einfuegefassungen. **Erzeugt**, nie bearbeiten |
+| `read/` | Lesefassungen als HTML, je Kapitel eine und `book.html` fuer alles. **Erzeugt**, nicht versioniert |
 
 **Die Regel dahinter:** Was oben liegt, liest man. Was in einem Ordner liegt,
 bearbeitet man. Von dem, was oben liegt, wird nur `CLAUDE.md` angefasst.

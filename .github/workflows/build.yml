@@ -41,7 +41,15 @@ jobs:
           git config user.email "build@users.noreply.github.com"
           # Nur Erzeugtes. Ein "git add -A" wuerde eine versehentlich
           # veraenderte Quelldatei stillschweigend mitcommitten.
-          git add '*/book.md' '*/HANDBUCH.md' '*/MANIFEST.txt' '*/paste' 2>/dev/null || true
+          #
+          # Jeden Pfad einzeln: in einem gemeinsamen Aufruf laesst eine
+          # Angabe, die auf nichts passt, den ganzen add scheitern, und das
+          # || true verschluckt es. So sah es lange aus wie ein Erfolg,
+          # waehrend BEGEGNUNGEN.md - hier bis heute gar nicht genannt -
+          # nie zurueckgeschrieben wurde.
+          for gen in book.md HANDBUCH.md MANIFEST.txt BEGEGNUNGEN.md paste; do
+            git add "*/$gen" 2>/dev/null || true
+          done
           git add '*/chapters/*.txt' 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Build: erzeugte Dateien aktualisiert"
           git pull --rebase --autostash origin main
