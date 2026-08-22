@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 81.008 Woerter.
+27 Kapitel. 81.182 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v2.2 | 4.703 |
+| 27 | v2.3 | 4.877 |
 
 ---
 
@@ -8156,7 +8156,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8508,7 +8508,7 @@ He looked at the fire and not at her.
 
 Hana laughed.
 
-It was the real one, and it went on for a while, and at the end of it she pressed the back of her wrist against her eye once and was entirely herself again.
+It was the real one, and it went on for a while. At the end of it she pressed the back of her wrist against her eye once and was entirely herself again.
 
 "Arbitrage," she said.
 
@@ -8560,11 +8560,29 @@ She turned one of the cards over again and left it face down.
 
 ---
 
-"What is left is that she has all of the facts and none of the reasons," said Georgij, "and no fact in that list is going to move a woman who has already looked at it once and decided to stay home."
+"What is left is the reason she does not go anywhere," said Georgij.
+
+"Say it, then. I have known her for twenty-four years and I have never heard anybody say it out loud."
+
+---
+
+"A woman in a room can be asked."
 
 Hana had stopped moving.
 
-"She does not need to be told. She needs to be asked, by somebody who is not part of the arrangement, on her own doorstep, and there is exactly one person alive who qualifies."
+"Her brother has the title and can be asked, and he says he will look into it, and everyone knows what that means." Georgij did not raise his voice. "She has no title, so nothing protects her from a direct question. If she is standing in your long room and somebody puts one to her, she has two seconds to answer, and either answer costs her something."
+
+"And if she is at home."
+
+"Then he telephones, and she takes it or she does not, and she answers on Thursday if she answers at all." He turned his hand over. "That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."
+
+---
+
+Hana sat with that.
+
+"So she cannot come."
+
+"She cannot come to a room where she might be asked. Nobody has ever offered her a different kind." He let that sit. "That is what is left, and it is not a fact and it is not an argument. It is a promise about what will not happen to her, and it has to come from the person who would otherwise be the one asking."
 
 ---
 
@@ -8592,7 +8610,7 @@ Hana turned the card over that she had turned over twice already.
 
 He put the folder flat under his arm.
 
-"If she comes without knowing who is in the room, she is in a room she did not choose, and she will hold that against you and against me and she will be right. If she comes knowing, she came anyway. Those are two different women walking through your door and only one of them is any use to anybody."
+"If she comes without knowing who is in the room, she is in a room she did not choose. She will hold that against you and against me, and she will be right. If she comes knowing, she came anyway. Those are two different women walking through your door and only one of them is any use to anybody."
 
 ---
 
@@ -8600,7 +8618,7 @@ Hana was quiet for a while.
 
 "You would tell her."
 
-"I would tell her the two names and nothing else, and I would do it badly, and not on a Tuesday." He put his coat over his arm. "But I have never met her, and you have known her since you were both thirty-four, and the whole of this has always been that I do not get to be in that part."
+"I would tell her the two names and nothing else, and I would do it badly, and not on a Tuesday." He put his coat over his arm. "But I have never met her. You have known her since you were both thirty-four, and the whole of this has always been that I do not get to be in that part."
 
 ---
 
@@ -8620,11 +8638,11 @@ Georgij did not answer immediately.
 
 "That is not a small thing to offer."
 
-"It is not an offer, it is the only way it works." Hana put both hands flat on the table. "You have just spent ten minutes telling me the difference between a woman who is in a room she did not choose and a woman who came anyway. I am not able to make that difference. I can carry two names to her and I cannot tell her what they are for, because I have made sure I do not know."
+"It is not an offer, it is the only way it works." Hana put both hands flat on the table. "You have just spent ten minutes telling me the difference between a woman who is in a room she did not choose and a woman who came anyway. I am not able to make that difference. I can carry two names to her and I cannot tell her what they are for, because I have made sure I do not know. And I cannot promise her what you have just described, because I would be promising it for you, and I do not know whether you would keep it."
 
 "No."
 
-"So either she walks in on the sixteenth with a guest list in her head and works it out standing up, in my hall, with her family across the room" - she left it there for a second - "or the man who is responsible for it puts it in front of her in his own words four days early and lets her decide in her own house."
+"So either she walks in on the sixteenth and works it out standing up, in my hall, with her family across the room" - she left it there for a second - "or the man who is responsible for it puts it in front of her in his own words four days early and lets her decide in her own house."
 
 ---
 
@@ -8650,7 +8668,7 @@ Neither of them said anything for a second.
 
 "Why," said Hana.
 
-"Because everybody in this has had the worst part first except her." He said it without any weight on it. "Woo got it in a shed before he signed anything. Sung-ho got it standing up in his own boardroom, in the first four minutes, and he threw nothing at me. She is the only one who has been handled, and she is the only one who has never been in a room with me, and those two facts are the same fact."
+"Because everybody in this has had the worst part first except her." He said it without any weight on it. "Woo got it in a shed before he signed anything. Sung-ho got it standing up in his own boardroom, in the first four minutes, and he threw nothing at me. She is the only one who has been handled. She is also the only one who has never been in a room with me, and those two facts are the same fact."
 
 ---
 
@@ -8688,7 +8706,7 @@ Hana did not say anything.
 
 ---
 
-"On the twenty-first you offered me something in this hall and you did not put it into words," said Georgij. "I answered it before you had to, and I did that so that you would not have to stand there having said it out loud, and I would do the same thing again."
+"On the twenty-first you offered me something in this hall and you did not put it into words," said Georgij. "I answered it before you had to, so that you would not have to stand there having said it out loud. I would do the same thing again."
 
 Hana did not say anything.
 
@@ -8718,4 +8736,6 @@ Hana looked at him for a long moment.
 
 "You are going to be the most solvent person in that room on Tuesday night," he said, "and none of them are going to know it, and you and I are going to be the only two people there who do."
 
-Then he went out to the car, and the lamp over the step came on as he passed under it, because it was five o'clock in December and it was dark.
+Then he went out to the car.
+
+The lamp over the step came on as he passed under it, because it was five o'clock in December and it was dark.

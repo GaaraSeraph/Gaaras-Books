@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.857 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.867 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1576,7 +1576,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v2.2) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v2.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -3690,7 +3690,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 256 | 25 (01-27) | 1 | 59 |
-| Hana | 134 | 11 (09-27) | 6 | 55 |
+| Hana | 135 | 11 (09-27) | 6 | 55 |
 | Chairman Woo | 98 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
@@ -4048,7 +4048,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-134 Nennungen in 11 Kapiteln.
+135 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4172,20 +4172,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:352 | Hana laughed. |
 | 9 | ch27:378 | Hana put the page down. |
 | 9 | ch27:390 | Hana looked at the fire for a moment. |
-| 9 | ch27:408 | Hana had stopped moving. |
-| 9 | ch27:414 | Hana looked at him. |
-| 9 | ch27:426 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:442 | Hana was quiet for a while. |
-| 9 | ch27:452 | Hana was quiet for a moment. |
-| 9 | ch27:466 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| 9 | ch27:478 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| 9 | ch27:494 | "Why," said Hana. |
-| 9 | ch27:500 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| 9 | ch27:508 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| 9 | ch27:514 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| 9 | ch27:530 | Hana did not say anything. |
-| 9 | ch27:536 | Hana did not say anything. |
-| 9 | ch27:552 | Hana looked at him for a long moment. |
+| 9 | ch27:414 | Hana had stopped moving. |
+| 9 | ch27:424 | Hana sat with that. |
+| 9 | ch27:432 | Hana looked at him. |
+| 9 | ch27:444 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:460 | Hana was quiet for a while. |
+| 9 | ch27:470 | Hana was quiet for a moment. |
+| 9 | ch27:484 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| 9 | ch27:496 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| 9 | ch27:512 | "Why," said Hana. |
+| 9 | ch27:518 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| 9 | ch27:526 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| 9 | ch27:532 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:548 | Hana did not say anything. |
+| 9 | ch27:554 | Hana did not say anything. |
+| 9 | ch27:570 | Hana looked at him for a long moment. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4231,9 +4232,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:234` (Tag 9) - twenty
 - `ch27:274` (Tag 9) - one
 - `ch27:294` (Tag 9) - four, six
-- `ch27:466` (Tag 9) - ten, two
-- `ch27:500` (Tag 9) - one, two
-- `ch27:514` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:484` (Tag 9) - ten, two
+- `ch27:518` (Tag 9) - one, two
+- `ch27:532` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
@@ -4339,8 +4340,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
 | 9 | ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:416 | "Woo at seven," she said. "And the Kims." |
-| 9 | ch27:496 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 9 | ch27:434 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:514 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4392,8 +4393,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:162` (Tag 9) - one, seven
 - `ch27:184` (Tag 9) - four, ninety, seven, three
 - `ch27:294` (Tag 9) - four, six
-- `ch27:416` (Tag 9) - seven
-- `ch27:496` (Tag 9) - four, one, two
+- `ch27:434` (Tag 9) - seven
+- `ch27:514` (Tag 9) - four, one, two
 
 ---
 
