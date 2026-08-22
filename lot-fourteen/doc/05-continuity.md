@@ -72,7 +72,11 @@ der nicht zurückblättert.
 
 - Mo 24. November (Tag 52): Annies Gebot auf Hanseong geht raus
 - erste Dezemberwoche: Sang-hoon unterschreibt bei der Haelfte, die aussteigen will
-- **Di 16. Dezember: Hanas Abend.** Woo um sieben, die Kims um acht, Ye-rin um neun, Kang um halb zehn. Georgij um sechs
+- **Di 16. Dezember: Hanas Abend.** Georgij um sechs, Woo um sieben, die Kims um acht, Ye-rin um neun, Kang um halb zehn. **Der Fotograf ist von sieben bis neun da und dann nicht mehr**, und daran hängt alles Weitere: das Bild von Woo neben der Familie entsteht gegen zehn nach acht und steht am Donnerstag in zwei Zeitungen.
+
+  **Woo bleibt bis halb zehn, und das ist eine Bitte, die Georgij noch stellen muss.** Der Grund steht in `doc/07-next.md`: Ye-rin braucht einen Beweis und keine Hoffnung, sie steht auf keinem Bild und liest keine Zeitung über einen Fremden, also muss sie den Mann im Raum stehen sehen. Damit begegnen Woo und Kang sich für etwa vier Minuten in Hanas Halle. **Das bricht Woos Bedingung nicht**, denn die lautet wörtlich *"no photograph with a politician in it"* und nicht: keine Begegnung. Zu diesem Zeitpunkt ist kein Fotograf mehr im Haus.
+
+  **Und der Punkt, an dem das Kapitel hängt:** Hana konnte diesen Fehler nicht selbst vermeiden, weil sie sich zwei Absätze vorher verboten hat zu wissen, wofür der Abend ist. Sie stellt Georgij die Rechnung dafür im selben Gespräch, ohne Vorwurf.
 - Februar: Ye-rin bricht, wenn bis dahin nichts steht
 
 **Prüfregel:** Jeder Tag mit Rest 1 bei Teilung durch sieben ist ein Samstag. Sang-hoon hat "after the fifteenth" gesagt, der Sechzehnte wäre ein Sonntag, deshalb der Achtzehnte.
@@ -81,8 +85,12 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 22** *Not shown* (v1.0) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie antwortet mit der Fernbedienung, die seit der ersten Nacht auf der Steinablage in der Halle liegt, und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
-- **Kapitel 21** *The ones who come at nine* (v1.0) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, und das Fotoverbot, das Woos zweite Bedingung aus Kapitel 19 beantwortet. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und leiht ihm damit das Einzige, was ihr gehoert. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
+
+  **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in drei Kapiteln festgelegt: Kapitel 2, Tag 1, Annie legt sie neben die Schale. Kapitel 6, erste Zeile, *"the place the remote had lain for the first eight days he was in the house"* - sie verschwindet also an Tag 9. Kapitel 6 am Fuss der Treppe, Tag 22: Annie oeffnet vor ihm die Clutch, nimmt den Lippenstift heraus und legt die Fernbedienung an dessen Stelle, wortlos, und der Text schliesst mit *"he was going to know it every minute until they came home."*
+
+  **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
+- **Kapitel 21** *The ones who come at nine* (v1.1) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und stellt ihm die Rechnung fuer ihr Nichtwissen noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.5) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.

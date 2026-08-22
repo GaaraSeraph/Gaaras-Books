@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 64.686 Woerter.
+22 Kapitel. 65.414 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,8 +29,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.0 | 3.018 |
-| 22 | v1.0 | 2.340 |
+| 21 | v1.1 | 3.703 |
+| 22 | v1.1 | 2.383 |
 
 ---
 
@@ -6043,7 +6043,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6061,7 +6061,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 ---
 
-Mr Pyo drove him. It was his week, and the address was one he had not been given before.
+Mr Pyo drove him. It was his week, and he did not need the address.
 
 The house was north of the river and up, on a road that stopped being a road about forty metres past her gate. Old money, old trees, a wall built when walls were built out of stone by men who were paid by the day.
 
@@ -6293,6 +6293,74 @@ Georgij sat with that for a second longer than he meant to.
 
 ---
 
+Georgij went back through the running order in the order she had given it, and found the hole on the third pass.
+
+"There is a problem, and it is mine and not yours."
+
+"Say it."
+
+"Your chairman leaves at nine. Ye-rin arrives at nine."
+
+"He is seventy-eight."
+
+"I know what he is." He put one hand flat on his knee. "The photograph goes into two papers on Thursday and it is worth exactly what it is worth. But the woman I need will not read a paper about a man she has never met, and she will not be standing in the picture, because that woman does not stand next to anybody."
+
+Hana got there about a second before he finished.
+
+"She has to see him."
+
+"She has to see him."
+
+---
+
+"Then he stays until half past nine." Hana was already somewhere else with it, and her voice had gone entirely flat and quick. "The photographer is gone by then, so your chairman keeps his condition. And the man from the ministry will be coming up my drive at about the same time, so the two of them will be standing in my hall together for perhaps four minutes."
+
+"Four minutes with no camera in the building is not the thing he asked me to prevent."
+
+"No. It is the thing you would prevent if you could, and you cannot." She let that sit for a moment. "And that is what it costs, by the way. If you had told me what the evening was for, I would have built it differently on Wednesday and you would not have to go back to a man of seventy-eight and ask him for another half an hour."
+
+Georgij did not say anything to that.
+
+"I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the invoice so that you do not go home thinking it was free."
+
+---
+
+"One more, and then I will let you have your afternoon back."
+
+"Go on."
+
+"When she comes, I have one conversation with her and I will not get a second." Georgij said it without any weight on it at all. "It cannot happen in a room with thirty people in it, and it cannot happen anywhere that looks like it was arranged."
+
+"There is no such room in this house." Hana said it flatly and immediately, the way you answer a question you have answered before. "There is no such room in any house. Put forty people in it and two of them go through a door together, and by Thursday four of the other thirty-eight know which door and how long."
+
+"I know."
+
+"Then you have thought about it and you want me to say the same thing you have already decided, so say it and let me disagree with you."
+
+---
+
+"The terrace," said Georgij.
+
+Hana looked at him for a moment.
+
+"It will be eight below."
+
+"That is the reason." He turned his hand over. "Nobody follows two people out of doors in December, and nobody stands near the glass to see how long they are gone, because everybody assumes the answer is a cigarette. And she will be able to see the room the whole time she is out there."
+
+"Which matters."
+
+"It matters more than anything else about the place. She has spent her life standing where she can see the doors, and I am not going to be the man who takes her somewhere she cannot."
+
+Hana was quiet for a second.
+
+"There is a heater out there and it has not been lit in four years. I will have it lit."
+
+"Thank you."
+
+"Do not thank me, I am going to be cold in December for you." She stood up. "And that was the first thing you have asked me today that you had already worked out before you came. I noticed the difference."
+
+---
+
 Georgij smiled at her then, and meant it, and did not do anything with it.
 
 "Thank you."
@@ -6359,6 +6427,8 @@ He had gone up that drive for a house and an evening. He had come down with a da
 
 And a woman had agreed to say one sentence without being allowed to know what it was for, and had been quite clear that this was the part that cost her.
 
+He had also come down with a telephone call to make. He would ask a man of seventy-eight to stand in a room for another half an hour, and he would not say why.
+
 Every one of those was work, and every one of them had gone the way work goes.
 
 Then there was the hall.
@@ -6372,7 +6442,7 @@ He was still holding his gloves.
 ---
 
 # Chapter 22: Not shown
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6470,15 +6540,17 @@ So he sat with his hands on his knees and kept his chin level, and waited for he
 
 ---
 
-Annie stood up.
+Annie did not stand up and she did not send for anything.
 
-She crossed to the doorway, and Georgij thought she was going to send for something, and in the two seconds it took him to think it she had already come back.
+Her hand went into the pocket of her jacket, and what came out of it was the remote.
 
-She had the remote in her hand.
+It had lain on the stone shelf in the hall beside the shallow bowl for the first eight days he was in the house, and it had not been there since. On the night of the gala she had opened her bag at the foot of the stairs, in front of him, and taken out the lipstick, and put the remote where the lipstick had been. Neither of them had said one word about it then, or in the five weeks after it.
 
-It had been on the stone shelf in the hall since the first night, next to the shallow bowl, where she had put it down in front of him and left it. He had walked past it every day since. He had stood beside it last Friday in an empty hall and let one corner of his mouth go up at nobody.
+He had known which bag and which pocket every minute of every day since.
 
-He had watched Park Sang-hoon look straight at it four minutes after coming through the door, and had thought nothing whatsoever about it.
+He had watched her put that jacket on at four o'clock.
+
+He had not thought about it once.
 
 ---
 
@@ -6550,21 +6622,15 @@ His voice was where it always was.
 
 Annie did not move.
 
-"You put it on the shelf in the hall on the first night, in front of me, and you left it there. I have walked past it every day since. I thought I understood what that was, and this evening I found out that I had understood something else."
+"You opened your bag in front of me at the foot of the stairs on the night of the gala, and you did it slowly, and you have never said a word about it since." He kept his chin level. "You wanted me to know where it was. I have known every day for five weeks, and in five weeks you did not touch it once."
 
-"Say what you think it was."
+"And you read that."
 
-"I thought it meant you would not use it."
+"I read it as the whole of the arrangement, and I was pleased with myself for reading it." He let one breath go by. "I thought it meant you would not use it."
 
-He let one breath go by.
+"That is not what it meant."
 
-"It meant you did not have to."
-
----
-
-"That is not what it meant," said Annie.
-
-"Then I have it wrong, and I would still be standing here."
+"No." He did not move anywhere. "It meant you had not needed to."
 
 ---
 

@@ -1,7 +1,7 @@
-Chapter 22: Not shown
-Lot Fourteen · Version 1.0 · EN
+# Chapter 22: Not shown
+*Lot Fourteen* · Version 1.1 · EN
 
-Day 55 · Thursday 27 November
+*Day 55 · Thursday 27 November*
 
 The offer had gone out on the Monday, in the careful and entirely correct way that Mr Chae did everything, and by Tuesday afternoon two people had telephoned the house about it who had no business knowing.
 
@@ -9,7 +9,7 @@ On Wednesday a third one telephoned, and this one did have business knowing, and
 
 He telephoned Annie's office and asked for twenty minutes.
 
-* * *
+---
 
 "He is coming here," she said.
 
@@ -25,7 +25,7 @@ He had thought it through as a negotiation and had made a list, and every item o
 
 Park Sang-hoon had asked him a question at a door on the eighteenth of November and had not been given an answer.
 
-* * *
+---
 
 He came at half past five with one man, and the man stayed in the car.
 
@@ -37,7 +37,7 @@ He looked at the ceiling, and at the length of the floor, and at the stone shelf
 
 Then he went through to the long room, and Annie stood up, and the two of them were in the same room for the first time in eleven years.
 
-* * *
+---
 
 Georgij took the chair nearest the door, which is where a shadow sits, and did not say anything for eighteen minutes.
 
@@ -57,7 +57,7 @@ Annie let that stand.
 
 "And it will not be answered," he said, "because you have asked forty per cent of that board to sign something in the same fortnight as the other sixty. They have not been in a room together since March, and you know that. It is on page sixteen of a document I have read."
 
-* * *
+---
 
 There it was, at the nineteenth minute, and it was not even hostile.
 
@@ -69,7 +69,7 @@ There it was, at the nineteenth minute, and it was not even hostile.
 
 "Not to Hanseong. Hanseong is done either way." He turned his glass a quarter turn on the table and left it there. "It matters to me because in both of them there is somebody on the other side of the table who finds things. I have been in this trade thirty-one years and I know what that is worth, and until Monday I did not know whether you knew."
 
-* * *
+---
 
 Annie said nothing.
 
@@ -81,7 +81,7 @@ Georgij, in the chair by the door, was aware that his own name had been in the r
 
 "What would he cost me?"
 
-* * *
+---
 
 The room did what rooms do.
 
@@ -95,23 +95,25 @@ What he could not do was look across at her, because a man who looks at his owne
 
 So he sat with his hands on his knees and kept his chin level, and waited for her to say a number or refuse to, and either of those would have ended it.
 
-* * *
+---
 
-Annie stood up.
+Annie did not stand up and she did not send for anything.
 
-She crossed to the doorway, and Georgij thought she was going to send for something, and in the two seconds it took him to think it she had already come back.
+Her hand went into the pocket of her jacket, and what came out of it was the remote.
 
-She had the remote in her hand.
+It had lain on the stone shelf in the hall beside the shallow bowl for the first eight days he was in the house, and it had not been there since. On the night of the gala she had opened her bag at the foot of the stairs, in front of him, and taken out the lipstick, and put the remote where the lipstick had been. Neither of them had said one word about it then, or in the five weeks after it.
 
-It had been on the stone shelf in the hall since the first night, next to the shallow bowl, where she had put it down in front of him and left it. He had walked past it every day since. He had stood beside it last Friday in an empty hall and let one corner of his mouth go up at nobody.
+He had known which bag and which pocket every minute of every day since.
 
-He had watched Park Sang-hoon look straight at it four minutes after coming through the door, and had thought nothing whatsoever about it.
+He had watched her put that jacket on at four o'clock.
 
-* * *
+He had not thought about it once.
+
+---
 
 She pressed it once.
 
-* * *
+---
 
 Under the high collar of the shirt, the steel did what it was built to do.
 
@@ -123,7 +125,7 @@ It lasted under a second.
 
 Then he was sitting in the chair again with his hands back on his knees, and his breathing was wrong, and there was nothing at all he could do about that for about thirty seconds.
 
-* * *
+---
 
 Nobody moved.
 
@@ -139,7 +141,7 @@ He picked his glass up and put it down again without drinking from it.
 
 "That is an answer."
 
-* * *
+---
 
 He left four minutes later, and he was correct all the way to the door, and at the door he did not offer his hand.
 
@@ -149,13 +151,13 @@ He said one thing, to Annie, in the flattest voice he had used all evening.
 
 Then he went out to his car, and the car went down the drive, and the gate did what the gate does.
 
-* * *
+---
 
 Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and went out again without having been in it.
 
 Then it was the two of them in the long room, and the lamps, and the noise the house makes.
 
-* * *
+---
 
 "You may go up," said Annie.
 
@@ -167,7 +169,7 @@ He found that he had to do it in one movement or not at all, and he did it in on
 
 "Say it."
 
-* * *
+---
 
 "You had two answers," he said. "You could have named a number, and he would have believed it, and it would have cost you nothing but a number. Or you could have refused, and refusing in that room would have been the same sentence in a better coat."
 
@@ -177,23 +179,17 @@ His voice was where it always was.
 
 Annie did not move.
 
-"You put it on the shelf in the hall on the first night, in front of me, and you left it there. I have walked past it every day since. I thought I understood what that was, and this evening I found out that I had understood something else."
+"You opened your bag in front of me at the foot of the stairs on the night of the gala, and you did it slowly, and you have never said a word about it since." He kept his chin level. "You wanted me to know where it was. I have known every day for five weeks, and in five weeks you did not touch it once."
 
-"Say what you think it was."
+"And you read that."
 
-"I thought it meant you would not use it."
+"I read it as the whole of the arrangement, and I was pleased with myself for reading it." He let one breath go by. "I thought it meant you would not use it."
 
-He let one breath go by.
+"That is not what it meant."
 
-"It meant you did not have to."
+"No." He did not move anywhere. "It meant you had not needed to."
 
-* * *
-
-"That is not what it meant," said Annie.
-
-"Then I have it wrong, and I would still be standing here."
-
-* * *
+---
 
 He looked at the table for a moment, at the two glasses that had already been taken away, and then he looked back up.
 
@@ -207,7 +203,7 @@ He looked at the table for a moment, at the two glasses that had already been ta
 
 "The answer was not taken from me," said Georgij. "The giving of it was."
 
-* * *
+---
 
 Annie's face did not do anything anywhere.
 
@@ -215,7 +211,7 @@ Annie's face did not do anything anywhere.
 
 "You did not want to know whether I would say a number. You wanted it to be a thing that could not be said. So you made it one."
 
-* * *
+---
 
 The house went on making its noise.
 
@@ -225,7 +221,7 @@ He said the next word exactly the way he had said it in the car in Gangnam, befo
 
 "You broke it tonight, Mistress."
 
-* * *
+---
 
 Annie said nothing.
 
@@ -237,13 +233,13 @@ There was a long moment in which the only thing that happened was that she did n
 
 "Out."
 
-* * *
+---
 
 He did not wait to be told he could.
 
 That was the whole of it, and it took about four seconds, and afterwards neither of them could have said which of the two of them was more surprised by it.
 
-* * *
+---
 
 He went down through the hall.
 
@@ -263,7 +259,7 @@ Jang took the packet out of his coat and a lighter out of the same pocket and pu
 
 "Keep the lighter," said Jang.
 
-* * *
+---
 
 The garden at eight in the evening in the last week of November is a cold, black, entirely honest place.
 

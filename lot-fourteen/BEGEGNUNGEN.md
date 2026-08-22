@@ -18,16 +18,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 217 | 21 (01-22) | 1 | 55 |
-| Hana | 97 | 8 (09-21) | 22 | 49 |
+| Annie | 216 | 21 (01-22) | 1 | 55 |
+| Hana | 103 | 8 (09-21) | 22 | 49 |
 | Chairman Woo | 74 | 12 (07-21) | 22 | 49 |
-| Park Sang-hoon | 64 | 11 (10-22) | 22 | 55 |
+| Park Sang-hoon | 63 | 11 (10-22) | 22 | 55 |
 | Jang | 42 | 11 (05-22) | 4 | 55 |
 | Mrs Seo | 40 | 13 (03-22) | 1 | 55 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
+| Kim Ye-rin | 16 | 5 (14-21) | 31 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-217 Nennungen in 21 Kapiteln.
+216 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -263,14 +263,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:64 | "You have read it," said Annie. |
 | 55 | ch22:74 | Annie said nothing. |
 | 55 | ch22:92 | He could have said nothing at all, and let Annie carry it, which is what a shadow is for. |
-| 55 | ch22:100 | Annie stood up. |
-| 55 | ch22:130 | Annie stood where she was with the remote in her hand, in the open, at the height of her.. |
-| 55 | ch22:146 | He said one thing, to Annie, in the flattest voice he had used all evening. |
-| 55 | ch22:160 | "You may go up," said Annie. |
-| 55 | ch22:178 | Annie did not move. |
-| 55 | ch22:192 | "That is not what it meant," said Annie. |
-| 55 | ch22:212 | Annie's face did not do anything anywhere. |
-| 55 | ch22:230 | Annie said nothing. |
+| 55 | ch22:100 | Annie did not stand up and she did not send for anything. |
+| 55 | ch22:132 | Annie stood where she was with the remote in her hand, in the open, at the height of her.. |
+| 55 | ch22:148 | He said one thing, to Annie, in the flattest voice he had used all evening. |
+| 55 | ch22:162 | "You may go up," said Annie. |
+| 55 | ch22:180 | Annie did not move. |
+| 55 | ch22:208 | Annie's face did not do anything anywhere. |
+| 55 | ch22:226 | Annie said nothing. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -326,13 +325,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch20:84` (Tag 49) - two
 - `ch22:10` (Tag 55) - twenty
 - `ch22:38` (Tag 55) - eleven, two
-- `ch22:146` (Tag 55) - one
+- `ch22:148` (Tag 55) - one
 
 ---
 
 ## Hana
 
-97 Nennungen in 8 Kapiteln.
+103 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -428,11 +427,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:200 | "Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me .. |
 | 49 | ch21:214 | "Something smaller than your speech, and worse." Hana looked at the trees for a moment. .. |
 | 49 | ch21:242 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
-| 49 | ch21:256 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
-| 49 | ch21:270 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
-| 49 | ch21:278 | "Hana." |
-| 49 | ch21:290 | Hana's face did not do anything. |
-| 49 | ch21:300 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
+| 49 | ch21:264 | Hana got there about a second before he finished. |
+| 49 | ch21:272 | "Then he stays until half past nine." Hana was already somewhere else with it, and her v.. |
+| 49 | ch21:280 | "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the inv.. |
+| 49 | ch21:290 | "There is no such room in this house." Hana said it flatly and immediately, the way you .. |
+| 49 | ch21:300 | Hana looked at him for a moment. |
+| 49 | ch21:310 | Hana was quiet for a second. |
+| 49 | ch21:324 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | ch21:338 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
+| 49 | ch21:346 | "Hana." |
+| 49 | ch21:358 | Hana's face did not do anything. |
+| 49 | ch21:368 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -470,9 +475,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:200` (Tag 49) - one
 - `ch21:214` (Tag 49) - twenty-five
 - `ch21:242` (Tag 49) - eight, nine, seven, ten, two
-- `ch21:256` (Tag 49) - four
-- `ch21:270` (Tag 49) - fifty-one, one
-- `ch21:300` (Tag 49) - one
+- `ch21:272` (Tag 49) - four, nine, two
+- `ch21:280` (Tag 49) - four
+- `ch21:290` (Tag 49) - forty, four, thirty-eight, two
+- `ch21:324` (Tag 49) - four
+- `ch21:338` (Tag 49) - fifty-one, one
+- `ch21:368` (Tag 49) - one
 
 ---
 
@@ -555,7 +563,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:106 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
 | 49 | ch21:236 | "Woo at seven." |
 | 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:306 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
+| 49 | ch21:374 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -592,13 +600,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:106` (Tag 49) - nine, seven, seventy-eight
 - `ch21:236` (Tag 49) - seven
 - `ch21:238` (Tag 49) - eight, nine, one, seven
-- `ch21:306` (Tag 49) - six
+- `ch21:374` (Tag 49) - six
 
 ---
 
 ## Park Sang-hoon
 
-64 Nennungen in 11 Kapiteln.
+63 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -663,9 +671,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
 | 55 | ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
 | 55 | ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
-| 55 | ch22:108 | He had watched Park Sang-hoon look straight at it four minutes after coming through the .. |
-| 55 | ch22:132 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
-| 55 | ch22:136 | "Well," said Sang-hoon. |
+| 55 | ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
+| 55 | ch22:138 | "Well," said Sang-hoon. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -693,7 +700,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:290` (Tag 48) - one
 - `ch22:54` (Tag 55) - fifteen
 - `ch22:66` (Tag 55) - six, two
-- `ch22:108` (Tag 55) - four
 
 ---
 
@@ -739,12 +745,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
 | 48 | ch18:10 | Jang brought it up himself. |
 | 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
-| 55 | ch22:154 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
-| 55 | ch22:252 | Jang was at the inner door, and had been at the inner door for the whole of it, and had .. |
-| 55 | ch22:256 | "Yes," said Jang. |
-| 55 | ch22:260 | Jang took the packet out of his coat and a lighter out of the same pocket and put both o.. |
-| 55 | ch22:264 | "Keep the lighter," said Jang. |
-| 55 | ch22:276 | He stood in front of it and smoked one of Jang's cigarettes all the way down, and did no.. |
+| 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | ch22:248 | Jang was at the inner door, and had been at the inner door for the whole of it, and had .. |
+| 55 | ch22:252 | "Yes," said Jang. |
+| 55 | ch22:256 | Jang took the packet out of his coat and a lighter out of the same pocket and put both o.. |
+| 55 | ch22:260 | "Keep the lighter," said Jang. |
+| 55 | ch22:272 | He stood in front of it and smoked one of Jang's cigarettes all the way down, and did no.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -770,7 +776,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:236` (Tag 46) - nine, three
 - `ch17:254` (Tag 46) - six
 - `ch18:8` (Tag 48) - one
-- `ch22:276` (Tag 55) - one
+- `ch22:272` (Tag 55) - one
 
 ---
 
@@ -819,7 +825,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
 | 49 | ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
 | 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
-| 55 | ch22:154 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -995,7 +1001,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kim Ye-rin
 
-15 Nennungen in 5 Kapiteln.
+16 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1014,6 +1020,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:194 | "You have just given me something that is not in your arrangement with her," he said. "T.. |
 | 49 | ch21:234 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
 | 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:258 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1025,6 +1032,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:118` (Tag 49) - nine
 - `ch21:234` (Tag 49) - three
 - `ch21:238` (Tag 49) - eight, nine, one, seven
+- `ch21:258` (Tag 49) - nine
 
 ---
 
@@ -1061,8 +1069,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
 | 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
 | 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-| 49 | ch21:20 | Mr Pyo drove him. It was his week, and the address was one he had not been given before. |
-| 49 | ch21:310 | Mr Pyo brought the car round. |
+| 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
+| 49 | ch21:378 | Mr Pyo brought the car round. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
@@ -1070,7 +1078,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:296` (Tag 46) - one, two
 - `ch17:76` (Tag 46) - four, two
 - `ch17:130` (Tag 46) - three, two
-- `ch21:20` (Tag 49) - one
 
 ---
 
