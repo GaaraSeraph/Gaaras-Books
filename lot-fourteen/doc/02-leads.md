@@ -122,6 +122,32 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 
 **Bei Frauen** nicht das Kleid, sondern die Entscheidung, und zwar auf derselben Höhe, auf der man sonst das Aussehen lobt.
 
+### Das Achselzucken
+
+**Bis Kapitel 20 zuckt Georgij in zwanzig Kapiteln kein einziges Mal mit den
+Schultern.** Es gehört im ganzen Buch fünf Leuten: Jang zweimal, Woo, Hana,
+Sang-hoon. Also Menschen, die in ihrer Lage sicher sind und nichts zu
+verteidigen haben. **Annie zuckt ebenfalls nie**, und aus demselben Grund. Ein
+Achselzucken heißt *ich weiß es nicht* oder *es ist egal*, und beides räumt
+keiner von beiden ein.
+
+**Ab Kapitel 20 zuckt er, und nur vor ihr.** Auf ihr *"You had ten"* antwortet er
+*"I had ten and I did not need them"* mit einem Achselzucken. Die drei übrigen
+Jahre sind ihm gleich, und er braucht keine Anerkennung dafür, sie nicht
+ausgegeben zu haben.
+
+**Warum es zählt:** Es ist die körperliche Form dessen, was er ihr in Kapitel 17
+gesagt hat. Er ist in genau einem Raum unbewacht, und das ist ihrer. Nach zwanzig
+Kapiteln kontrollierter Miene ist die erste unwillkürliche Geste seines Lebens
+eine, die niemand außer ihr zu sehen bekommt.
+
+**Der Text kommentiert es nicht**, und Annie sagt nichts dazu. Wer mitgezählt
+hat, bekommt es umsonst; wer nicht, verliert nichts.
+
+**Regel ab hier:** Vor anderen zuckt er weiterhin nicht. Fällt es ein zweites
+Mal, dann wieder vor ihr — und beim Bruch wird es teuer, weil sie dann weiß, was
+es bedeutet.
+
 ### Bei Verbündeten läuft kein Verfahren
 
 **Das Verfahren zielt auf Leute, die noch entscheiden, was er ist.** Wo jemand das nicht mehr entscheidet, hört es auf. Bisher ist das genau eine Figur: Chairman Woo.
