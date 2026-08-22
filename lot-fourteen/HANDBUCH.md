@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 54.830 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 54.846 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -915,7 +915,9 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Sie ist keine Plaudertasche, und das ist die wichtigste Regel zu ihr.** Kapitel 11, Georgij an Annies Tisch, im Wortlaut: *"Hana talked. **Not carelessly.**"* Ihre Straflosigkeit macht sie **lauter**, nicht unvorsichtiger - drei Prozent, und die sind gewählt. Sie streut seit fünfundzwanzig Jahren gezielt und sagt es in Kapitel 21 selbst: *"Half of what I say on a terrace I say on purpose."*
 
-**Daraus folgt, was man mit ihr nicht schreiben darf.** Keine Szene, in der jemand ihr erklärt, was ihr eigenes Reden wert ist, und keine, in der sie versehentlich etwas ausplaudert. In der ersten Fassung von Kapitel 21 stand beides, und sie schneidet es dort inzwischen ab. **Was sie in Kapitel 21 tatsächlich hergibt, ist kleiner und teurer:** Sie sagt zum ersten Mal in fünfundzwanzig Jahren einen Satz, ohne zu wissen, was er tut, und sie hat sich dieses Nichtwissen selbst auferlegt. Es steht auf keinem Papier und darf auf keines.
+**Daraus folgt, was man mit ihr nicht schreiben darf.** Keine Szene, in der jemand ihr erklärt, was ihr eigenes Reden wert ist, und keine, in der sie versehentlich etwas ausplaudert. In der ersten Fassung von Kapitel 21 stand beides, und sie schneidet es dort inzwischen ab.
+
+**Was sie in Kapitel 21 tatsächlich hergibt:** Sie fragt, wofür der Abend ist, und nimmt die Frage selbst zurück, bevor Georgij antworten kann. Der Grund ist Kang - er sitzt seit Jahrzehnten an ihrem Tisch und würde eine Gastgeberin, die etwas weiss, an der Stimme hören. Also gibt sie vier Stunden auf, in denen sie zum ersten Mal seit fünfundzwanzig Jahren reden wird, ohne zu wissen, was ihre Sätze tun. Es steht auf keinem Papier und darf auf keines. **Die Rechnung stellt sie ihm im selben Gespräch**, ohne Vorwurf, als das Loch in der Laufordnung auffällt, das sie ohne dieses Nichtwissen selbst gestopft hätte.
 
 **Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala geredet, nicht unvorsichtig, aber etwa drei Prozent lauter als nötig, und Georgij hat daraus Incheon fünfmal, den östlichen Abschnitt und ein Datum im Frühjahr mitgenommen. Er weiß das und sagt es ihr nicht. **Kangs Anruf gehört dagegen nicht ihr, sondern ihm:** Er hat den Griff an einem Abend zweimal benutzt und Kang dabei gezeigt, wo sein Loch ist. Kapitel 11 sagt es aus seinem Mund: *I walked across a room and showed it to him.*
 *Kanon ab Kapitel 9.*
@@ -1284,10 +1286,22 @@ der nicht zurückblättert.
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 
-  **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in drei Kapiteln festgelegt: Kapitel 2, Tag 1, Annie legt sie neben die Schale. Kapitel 6, erste Zeile, *"the place the remote had lain for the first eight days he was in the house"* - sie verschwindet also an Tag 9. Kapitel 6 am Fuss der Treppe, Tag 22: Annie oeffnet vor ihm die Clutch, nimmt den Lippenstift heraus und legt die Fernbedienung an dessen Stelle, wortlos, und der Text schliesst mit *"he was going to know it every minute until they came home."*
+  **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in vier Stellen festgelegt und laeuft so:
+
+  | Wann | Wo |
+  |---|---|
+  | Tag 1, ein Uhr nachts (Kap. 2) | Annie legt sie neben die Schluesselschale |
+  | Tag 2 (Kap. 4) | liegt noch dort, *"where she had put it at one o'clock that morning"* |
+  | **Tag 9 (Kap. 5, der Schneider)** | **weg.** Er sieht es und hebt den Blick nicht zur Kamera im Tuersturz |
+  | Tag 19 (Kap. 5, Arbeitszimmer) | sie spricht ihn darauf an. *"I know," he said. "Day nine."* - *"I went back and watched you not do it nine times."* |
+  | **Tag 22 (Kap. 6, Fuss der Treppe)** | sie oeffnet vor ihm die Clutch, nimmt den Lippenstift heraus und legt die Fernbedienung an dessen Stelle. Wortlos |
+
+  Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.1) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und stellt ihm die Rechnung fuer ihr Nichtwissen noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.2) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+
+  **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.5) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
@@ -3211,16 +3225,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 216 | 21 (01-22) | 1 | 55 |
-| Hana | 103 | 8 (09-21) | 22 | 49 |
+| Annie | 213 | 20 (01-22) | 1 | 55 |
+| Hana | 98 | 8 (09-21) | 22 | 49 |
 | Chairman Woo | 74 | 12 (07-21) | 22 | 49 |
-| Park Sang-hoon | 63 | 11 (10-22) | 22 | 55 |
+| Park Sang-hoon | 62 | 10 (10-22) | 22 | 55 |
 | Jang | 42 | 11 (05-22) | 4 | 55 |
 | Mrs Seo | 40 | 13 (03-22) | 1 | 55 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Ye-rin | 16 | 5 (14-21) | 31 | 49 |
+| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -3243,7 +3257,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-216 Nennungen in 21 Kapiteln.
+213 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3445,9 +3459,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch20:154 | Annie sat back in the chair. |
 | 49 | ch20:170 | Annie did not say anything. |
 | 49 | ch20:194 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
-| 49 | ch21:138 | "Annie is bidding for Hanseong. It goes out on Monday." |
-| 49 | ch21:154 | "I would like you to mention it," said Georgij. "Not to me. In December, or before Decem.. |
-| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
 | 55 | ch22:10 | He telephoned Annie's office and asked for twenty minutes. |
 | 55 | ch22:18 | "He asked for the office and I said the house." Annie did not look up from the page. "A .. |
 | 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
@@ -3524,7 +3535,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-103 Nennungen in 8 Kapiteln.
+98 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3611,26 +3622,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:88 | "It costs you your house on an evening when nine people under customs investigation are .. |
 | 49 | ch21:94 | Hana put her chin down for a second. |
 | 49 | ch21:122 | "I said *if*, and I am going to go on saying *if*, because I have asked that woman to fo.. |
-| 49 | ch21:128 | "Now the other thing," said Hana. |
-| 49 | ch21:140 | Hana did not move at all for about two seconds. |
-| 49 | ch21:148 | "You sat at that table eight days ago and told me what that document was for, and you us.. |
-| 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
-| 49 | ch21:170 | Hana looked at him for a long moment. |
-| 49 | ch21:178 | "Hana." |
-| 49 | ch21:200 | "Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me .. |
-| 49 | ch21:214 | "Something smaller than your speech, and worse." Hana looked at the trees for a moment. .. |
-| 49 | ch21:242 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
-| 49 | ch21:264 | Hana got there about a second before he finished. |
-| 49 | ch21:272 | "Then he stays until half past nine." Hana was already somewhere else with it, and her v.. |
-| 49 | ch21:280 | "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the inv.. |
-| 49 | ch21:290 | "There is no such room in this house." Hana said it flatly and immediately, the way you .. |
-| 49 | ch21:300 | Hana looked at him for a moment. |
-| 49 | ch21:310 | Hana was quiet for a second. |
-| 49 | ch21:324 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
-| 49 | ch21:338 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
-| 49 | ch21:346 | "Hana." |
-| 49 | ch21:358 | Hana's face did not do anything. |
-| 49 | ch21:368 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
+| 49 | ch21:128 | "Now the list," said Hana. "Not the whole of it, you would be here until Tuesday. The on.. |
+| 49 | ch21:140 | "There," said Hana. |
+| 49 | ch21:164 | Hana sat back and looked at him properly for the first time since the hall. |
+| 49 | ch21:222 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
+| 49 | ch21:244 | Hana got there about a second before he finished. |
+| 49 | ch21:252 | "Then he stays until half past nine." Hana was already somewhere else with it, and her v.. |
+| 49 | ch21:260 | "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the inv.. |
+| 49 | ch21:270 | "There is no such room in this house." Hana said it flatly and immediately, the way you .. |
+| 49 | ch21:280 | Hana looked at him for a moment. |
+| 49 | ch21:290 | Hana was quiet for a second. |
+| 49 | ch21:304 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | ch21:318 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
+| 49 | ch21:326 | "Hana." |
+| 49 | ch21:338 | Hana's face did not do anything. |
+| 49 | ch21:348 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3662,18 +3668,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:36` (Tag 49) - four
 - `ch21:88` (Tag 49) - nine
 - `ch21:122` (Tag 49) - fourteen, two
-- `ch21:140` (Tag 49) - two
-- `ch21:148` (Tag 49) - eight
-- `ch21:160` (Tag 49) - nine, one, twenty
-- `ch21:200` (Tag 49) - one
-- `ch21:214` (Tag 49) - twenty-five
-- `ch21:242` (Tag 49) - eight, nine, seven, ten, two
-- `ch21:272` (Tag 49) - four, nine, two
-- `ch21:280` (Tag 49) - four
-- `ch21:290` (Tag 49) - forty, four, thirty-eight, two
-- `ch21:324` (Tag 49) - four
-- `ch21:338` (Tag 49) - fifty-one, one
-- `ch21:368` (Tag 49) - one
+- `ch21:222` (Tag 49) - eight, nine, seven, ten, two
+- `ch21:252` (Tag 49) - four, nine, two
+- `ch21:260` (Tag 49) - four
+- `ch21:270` (Tag 49) - forty, four, thirty-eight, two
+- `ch21:304` (Tag 49) - four
+- `ch21:318` (Tag 49) - fifty-one, one
+- `ch21:348` (Tag 49) - one
 
 ---
 
@@ -3754,9 +3755,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
 | 49 | ch21:60 | "Woo signed." |
 | 49 | ch21:106 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
-| 49 | ch21:236 | "Woo at seven." |
-| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:374 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
+| 49 | ch21:216 | "Woo at seven." |
+| 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -3791,15 +3792,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
 - `ch21:106` (Tag 49) - nine, seven, seventy-eight
-- `ch21:236` (Tag 49) - seven
-- `ch21:238` (Tag 49) - eight, nine, one, seven
-- `ch21:374` (Tag 49) - six
+- `ch21:216` (Tag 49) - seven
+- `ch21:218` (Tag 49) - eight, nine, one, seven
+- `ch21:354` (Tag 49) - six
 
 ---
 
 ### Park Sang-hoon
 
-63 Nennungen in 11 Kapiteln.
+62 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3856,7 +3857,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
 | 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
-| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
 | 55 | ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
 | 55 | ch22:34 | Sang-hoon stopped in the hall. |
 | 55 | ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
@@ -4129,11 +4129,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
 | 25 | ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
 | 46 | ch17:10 | "Kang," said Annie. |
-| 49 | ch21:156 | "To Kang." |
-| 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
-| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
-| 49 | ch21:184 | "Do not tell me. I have just heard myself ask, and I would like both of us to notice tha.. |
-| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:132 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
+| 49 | ch21:144 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
+| 49 | ch21:146 | "Nothing is wrong with Kang." |
+| 49 | ch21:188 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
+| 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -4143,9 +4143,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:124` (Tag 25) - one
 - `ch12:168` (Tag 25) - two
 - `ch12:170` (Tag 25) - two
-- `ch21:160` (Tag 49) - nine, one, twenty
-- `ch21:184` (Tag 49) - three
-- `ch21:238` (Tag 49) - eight, nine, one, seven
+- `ch21:132` (Tag 49) - forty, nine, one, three, two
+- `ch21:188` (Tag 49) - forty
+- `ch21:218` (Tag 49) - eight, nine, one, seven
 
 ---
 
@@ -4194,7 +4194,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kim Ye-rin
 
-16 Nennungen in 5 Kapiteln.
+15 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4210,10 +4210,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:108 | "And Ye-rin?" |
 | 49 | ch21:110 | "Ye-rin comes at nine, if she comes." |
 | 49 | ch21:118 | "Ye-rin comes at nine." |
-| 49 | ch21:194 | "You have just given me something that is not in your arrangement with her," he said. "T.. |
-| 49 | ch21:234 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:258 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 49 | ch21:214 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:238 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -4223,9 +4222,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:112` (Tag 48) - one, three
 - `ch21:110` (Tag 49) - nine
 - `ch21:118` (Tag 49) - nine
-- `ch21:234` (Tag 49) - three
-- `ch21:238` (Tag 49) - eight, nine, one, seven
-- `ch21:258` (Tag 49) - nine
+- `ch21:214` (Tag 49) - three
+- `ch21:218` (Tag 49) - eight, nine, one, seven
+- `ch21:238` (Tag 49) - nine
 
 ---
 
@@ -4263,7 +4262,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
 | 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
 | 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
-| 49 | ch21:378 | Mr Pyo brought the car round. |
+| 49 | ch21:358 | Mr Pyo brought the car round. |
 
 ### Zahlen in der Naehe von Mr Pyo
 

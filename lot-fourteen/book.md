@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 65.414 Woerter.
+22 Kapitel. 65.200 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,7 +29,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.1 | 3.703 |
+| 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.383 |
 
 ---
@@ -6043,7 +6043,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6169,97 +6169,77 @@ Georgij did not say anything for a moment, because a thing had just gone past hi
 
 ---
 
-"Now the other thing," said Hana.
+"Now the list," said Hana. "Not the whole of it, you would be here until Tuesday. The ones you will care about."
 
-"There is no other thing."
+She did not count them on her fingers.
 
-"There is, and you have been sitting on it since you took your coat off, and it is making you tidy." She put the glass down. "You keep looking at the third door."
+"Two shipping families who are not the Kims, because forty people out of one trade is a meeting and not a party. Three from the bank in Myeongdong. A woman who writes about houses and will write about mine. My cousin, who is a bore and comes anyway." A small pause that was not for effect. "And Kang Ji-hoon, who has been coming here at Christmas for nine years, and whose wife sat the same examinations I did."
 
----
+Georgij said nothing at all.
 
-He had been going to build up to it, and there was no longer any point.
-
-"Annie is bidding for Hanseong. It goes out on Monday."
-
-Hana did not move at all for about two seconds.
-
-Then she laughed, once, and it was not the real one.
-
-"She is buying the apple."
-
-"She is bidding for it."
-
-"You sat at that table eight days ago and told me what that document was for, and you used the word yourself, and now you are telling me she is buying it." Hana had not raised her voice anywhere. "So either I did not understand you on Thursday, or you are about to tell me something."
+He had been saying nothing all afternoon and had been good at it, and this was the one she caught.
 
 ---
 
-He had the sentence ready and he had had it ready since the hall that morning.
+"There," said Hana.
 
-"I would like you to mention it," said Georgij. "Not to me. In December, or before December if it comes up, to people who talk. That Annie went for Hanseong and that it did not come off."
+"There is what?"
 
-"To Kang."
+"You went somewhere for about a quarter of a second." She was entirely pleasant about it. "Say what is wrong with Kang."
 
-"I did not say a name."
+"Nothing is wrong with Kang."
 
-"You did not have to say a name. You have been sitting in my sitting room for twenty minutes not saying one." Hana leaned back. "Kang Ji-hoon has come to this house at Christmas for nine years. His wife and I sat the same examinations. He will be on that list whether you want him there or not, and you know it, because you looked at me on that terrace and worked out what I was for."
+"That is true, and it is not an answer, and you know the difference better than anybody I have ever had in this room."
+
+Georgij looked at the trees for a moment.
+
+"It is your list and your house," he said, "and he has been coming for nine years."
+
+"Also true."
 
 "Yes."
 
-"Say the rest."
+"And that is going to be all of it."
 
-"He talks to Sang-hoon's people. He told me so himself in October, near enough, and Annie put the timing on it. What goes to Kang is in Yeouido inside a week."
-
----
-
-Hana looked at him for a long moment.
-
-"Is your bid going to lose?"
-
-That was the question, and it had come at the third minute instead of the fortieth, because she was quicker than the people he was used to.
-
-He did not answer it.
-
-"Hana."
-
-"No," she said. "Stop."
-
-She held up one hand, flat, and it was not a hand that was asking for anything.
-
-"Do not tell me. I have just heard myself ask, and I would like both of us to notice that I stopped." She put the hand back down on her knee. "Tell me what to say and do not tell me why. If I know why, I will say it three per cent differently, and Kang has been listening to me across a table since before you could find this country on a map. He would hear it. He would not know what he had heard, and it would sit in him, and in April he would work it out."
-
-"That is the reason I came here instead of telephoning."
-
-"That is the reason you came here with your coat on."
+"That is going to be all of it."
 
 ---
 
-Georgij was quiet, and then he said it, because it was true and because she had earned it.
+Hana sat back and looked at him properly for the first time since the hall.
 
-"You have just given me something that is not in your arrangement with her," he said. "The lease covers Incheon and the ministry and the door to Ye-rin. It does not cover this."
+Then she asked the thing that had been under the whole afternoon.
 
-"No, it does not."
-
-He was going to say the rest of it, and she did not let him.
-
-"Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me what my own talk is worth. Don't."
-
-"I was."
-
-"I know you were. You had the face on for it." She turned the glass a quarter turn and left it there. "I have been putting things into rooms since I was twenty-six and taking them out again the same evening. Half of what I say on a terrace I say on purpose. You worked that out in October and told her so, and you were right, and I did not mind."
-
-Georgij inclined his head and said nothing at all.
-
-"So no. You are not asking a careless woman to be careless for you." She sat back. "That would be worth nothing to anybody, and least of all to you."
+"What is the evening for?"
 
 ---
 
-"Then say what I am asking."
+He did not answer, and it was not a technique. He was still working out how much of it he could give her when she put one hand up, flat, and it was not a hand that was asking for anything.
 
-"Something smaller than your speech, and worse." Hana looked at the trees for a moment. "In twenty-five years I have not once put a sentence into a room without knowing what it would do when it got there. That is the trade. You place it, you watch it land, and you take the credit in private."
+"Don't."
 
-She looked back at him.
+"You are entitled to it."
 
-"You have just asked me to say something and not know. I am the one who made you keep it from me, and I would do it again this afternoon, and it is still the first time."
+"I am entirely entitled to it and I am not going to have it." She put the hand back down on her knee. "I heard myself ask, and I would like us both to notice that I stopped."
+
+"Say why you stopped."
+
+"Because of the man you just refused to say anything about."
+
+---
+
+She turned the glass a quarter turn and left it there.
+
+"Kang Ji-hoon has been sitting across tables from me since before you could have found this country on a map. On the sixteenth I am going to be a woman giving a party, which I have been about forty times, and I can do it without thinking about it at all." Her voice did not go anywhere. "If I am also a woman who knows what the party is for, he will hear it. He will not know what he has heard. It will sit in him, and some time in April he will work it out."
+
+Georgij did not say anything for a moment.
+
+"That is better than anything I had."
+
+"Of course it is. It is my trade and not yours." She looked at him. "And do not sit in my house and think you have got away with something. I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there. That is the whole of what I am. You place it, you watch it land, and you take the credit in private."
+
+She let that be as flat as it was.
+
+"On the sixteenth I am going to talk for four hours and not know what any of it is doing. I chose that at four o'clock and I would choose it again, and it is still the first time."
 
 ---
 
@@ -6425,7 +6405,7 @@ Georgij sat in the back of it going down the hill, with the trees going past on 
 
 He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves, and with a photographer who goes home at nine, which had been true before he was born and had nothing whatever to do with him.
 
-And a woman had agreed to say one sentence without being allowed to know what it was for, and had been quite clear that this was the part that cost her.
+And a woman had agreed to give an evening without being allowed to know what it was for, and had been entirely clear about which part of that cost her something.
 
 He had also come down with a telephone call to make. He would ask a man of seventy-eight to stand in a room for another half an hour, and he would not say why.
 
