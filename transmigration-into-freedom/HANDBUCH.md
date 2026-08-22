@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 9 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 13.031 Woerter.
+Alle 4 Dokumente am Stueck. 13.323 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -381,6 +381,31 @@ still paying the reader. And the stick in the silt puts thread 18 in front of
 the reader without Gaara reaching it, because he has known Hallvard for two days
 and has no reason to think about a walking stick.
 What is behind the gate is deliberately not established. That is chapter 9.
+
+=== This is a LitRPG, and the system layer starved for six chapters ===
+The author asked, in four words, whether we were still writing a LitRPG.
+The count answered him: Level 2 since ch2, one skill since ch2, Class None
+since ch1, attributes allocated once in ch3, and two chapters in a row with
+zero system output. What had been produced was a literary mystery with a
+status window as a prop.
+The cause is worth naming because it will recur. The pacing rules in
+character-arc.md say levels get slower, MP stays untouched, class stays None.
+Those were implemented as WITHHOLDING instead of as DESIGN. Slower is not
+absent, and "not a reward machine" is not "no mechanics".
+The larger miss was character, not genre. Gaara takes systems apart for a
+living. In nine chapters he never once ran an experiment on the panel. He
+suffered it and never interrogated it, which is the least likely thing this
+particular man would do.
+The repair, from ch8 on: he tests it deliberately and the results are canon
+(it reads living things unasked, objects only through a skill). He reads his
+own status block line by line and finds a kill counter that was always
+there. He reads twenty corpses as a table and the levels climb. And the
+panel refuses something for the first time.
+The rule that follows: EVERY CHAPTER NEEDS A LEGIBLE SYSTEM BEAT, and the
+numbers have to be derivable by the reader. Where a number does not move,
+the reason must be countable rather than asserted. The line in ch6 claiming
+two kills were "not worth one now" was invented to excuse an absent level
+and made the economy unreadable; it is gone, and he does arithmetic instead.
 
 === Gaara does not shut up, and the silence has to be earned ===
 The author: too few remarks, too few asides, too little crudeness - he would
