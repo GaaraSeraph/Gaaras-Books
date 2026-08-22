@@ -1,7 +1,7 @@
-Chapter 8: Something to do with my hands
-Lot Fourteen · Version 3.1 · EN
+# Chapter 8: Something to do with my hands
+*Lot Fourteen* · Version 3.2 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 The glass was the first problem and it took him about ninety seconds to solve.
 
@@ -15,7 +15,7 @@ He carried it in his left hand.
 
 A cold wet palm in a handshake is a thing men remember afterwards without knowing why they remember it, and he was going to be shaking a great many hands.
 
-* * *
+---
 
 The girl at the edge of the group near the bar was still there at twenty past eight, and she was still holding the same glass.
 
@@ -37,7 +37,7 @@ He did not smile at her.
 
 He had decided against it in the car and he decided against it again standing there. A smile from a stranger is one more thing a person has to have an opinion about, and she had been having opinions about things at the edge of that group for the best part of an hour.
 
-"Ten of the fourteen sites spent it on staff," she said, after a moment. "Which everyone here would tell you is the wrong answer."
+"Eleven of the fourteen sites spent it on staff," she said, after a moment. "Which everyone here would tell you is the wrong answer."
 
 "Is it the wrong answer?"
 
@@ -79,7 +79,7 @@ Which was true, as far as it went.
 
 It was also the first thing he had said in six hours that he had not decided on before he said it, and he heard that happen, and he went away from her carrying it.
 
-* * *
+---
 
 At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular, with two people between himself and the two men he was listening to.
 
@@ -115,7 +115,7 @@ Georgij, who was looking at a wall, did not move at all.
 
 He had heard that name for the first time in his life sixty-three minutes ago, out of the mouth of a cheerful man of sixty-one who had thought he was being kind.
 
-He gives dinners.
+*He gives dinners.*
 
 Two directors of the same company. The same hotel, the same four nights. Neither of them told that the other was coming.
 
@@ -137,7 +137,7 @@ Georgij stood at the wall for another forty seconds, because leaving immediately
 
 Then he put a warm glass on a tray and took a cold one.
 
-* * *
+---
 
 He saw the woman in the dark red at a quarter to nine, and she was looking at him.
 
@@ -149,7 +149,7 @@ She let him see that she had been looking, and then she went back to the convers
 
 He did not have to put her on any list. She had been on the twelve since the second week, and she was one of the nine that were tied to each other in ways the room did not know about.
 
-* * *
+---
 
 Chairman Woo found him at ten to nine, and he had four people with him.
 
@@ -197,7 +197,7 @@ Not a toast. An acknowledgement. The sort of thing one professional gives anothe
 
 Georgij inclined his head a fraction, and did not smile, and went to find his table.
 
-* * *
+---
 
 The auction was between the main course and the speeches.
 

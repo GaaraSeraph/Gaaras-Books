@@ -15,14 +15,14 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 04 | v1.5 | 2.433 |
 | 05 | v5.6 | 4.331 |
 | 06 | v1.2 | 2.072 |
-| 07 | v6.1 | 3.874 |
-| 08 | v3.1 | 2.672 |
+| 07 | v6.2 | 3.874 |
+| 08 | v3.2 | 2.672 |
 | 09 | v3.1 | 3.132 |
 | 10 | v2.1 | 2.981 |
 | 11 | v2.5 | 2.407 |
 | 12 | v1.2 | 2.325 |
 | 13 | v2.3 | 2.839 |
-| 14 | v7.1 | 2.607 |
+| 14 | v7.2 | 2.607 |
 | 15 | v2.0 | 3.997 |
 | 16 | v1.9 | 3.133 |
 | 17 | v12.1 | 2.565 |
@@ -1700,7 +1700,7 @@ Outside, the car came round onto the gravel and stopped.
 ---
 
 # Chapter 7: Where were you educated
-*Lot Fourteen* · Version 6.1 · EN
+*Lot Fourteen* · Version 6.2 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2042,7 +2042,7 @@ Ninety-one names. Twelve that mattered. Nine of the twelve tied to each other in
 
 And eight hundred people who had never in their lives had to keep an eye on a door.
 
-The basement had been harder. Nineteen men in a room with no windows, all of whom knew exactly what they were doing, and every one of them watching the exit while they bid.
+The basement had been harder. Nineteen buyers in a room with no windows, all of whom knew exactly what they were doing, and every one of them watching the exit while they bid.
 
 This was going to take him three hours.
 
@@ -2051,7 +2051,7 @@ He had six.
 ---
 
 # Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2089,7 +2089,7 @@ He did not smile at her.
 
 He had decided against it in the car and he decided against it again standing there. A smile from a stranger is one more thing a person has to have an opinion about, and she had been having opinions about things at the edge of that group for the best part of an hour.
 
-"Ten of the fourteen sites spent it on staff," she said, after a moment. "Which everyone here would tell you is the wrong answer."
+"Eleven of the fourteen sites spent it on staff," she said, after a moment. "Which everyone here would tell you is the wrong answer."
 
 "Is it the wrong answer?"
 
@@ -3817,7 +3817,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.1 · EN
+*Lot Fourteen* · Version 7.2 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3959,7 +3959,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "And customers come back for money."
 
-"Customers never come back for money. They come back because somebody they trust is standing next to you." He let that sit. "Which is Chairman Woo. Sixty years in that trade, a terminal at Yeongjong, and the last man in this city anybody would suspect of being anywhere he had not thought about first. If he puts his name next to theirs, on anything, for any reason, the cancellations stop that week."
+"Customers never come back for money. They come back because somebody they trust is standing next to you." He let that sit. "Which is Chairman Woo. Fifty-one years in that trade, a terminal at Yeongjong, and the last man in this city anybody would suspect of being anywhere he had not thought about first. If he puts his name next to theirs, on anything, for any reason, the cancellations stop that week."
 
 "And why would he?"
 

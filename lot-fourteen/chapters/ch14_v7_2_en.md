@@ -1,7 +1,7 @@
-Chapter 14: In the same size type
-Lot Fourteen · Version 7.1 · EN
+# Chapter 14: In the same size type
+*Lot Fourteen* · Version 7.2 · EN
 
-Day Thirty-One · Monday 3 November
+## Day Thirty-One · Monday 3 November
 
 He closed the faces with photographers.
 
@@ -21,7 +21,7 @@ And in sixteen of the twenty-three frames in which the family appeared, she was 
 
 The one who kept fetching drinks was Kim Do-yun.
 
-* * *
+---
 
 He had been wrong about Kim Do-yun and it took him about forty seconds with the photographs to find out.
 
@@ -47,9 +47,9 @@ It was the second time in a fortnight that his reading of a person had been hand
 
 He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it.
 
-* * *
+---
 
-Day Thirty-Three · Wednesday 5 November
+## Day Thirty-Three · Wednesday 5 November
 
 Hanseong came out of the wrong drawer.
 
@@ -69,9 +69,9 @@ Georgij read the whole thing twice and then sat very still.
 
 Then he began to write.
 
-* * *
+---
 
-Day Thirty-Four · Thursday 6 November
+## Day Thirty-Four · Thursday 6 November
 
 He went to her on the second day of the writing, with eight pages of it done and nothing in his hands.
 
@@ -141,7 +141,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "And customers come back for money."
 
-"Customers never come back for money. They come back because somebody they trust is standing next to you." He let that sit. "Which is Chairman Woo. Sixty years in that trade, a terminal at Yeongjong, and the last man in this city anybody would suspect of being anywhere he had not thought about first. If he puts his name next to theirs, on anything, for any reason, the cancellations stop that week."
+"Customers never come back for money. They come back because somebody they trust is standing next to you." He let that sit. "Which is Chairman Woo. Fifty-one years in that trade, a terminal at Yeongjong, and the last man in this city anybody would suspect of being anywhere he had not thought about first. If he puts his name next to theirs, on anything, for any reason, the cancellations stop that week."
 
 "And why would he?"
 
@@ -169,7 +169,7 @@ Annie looked at him for rather longer than a moment.
 
 "Does it work because it is true?"
 
-"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says this is a guess in the middle of it."
+"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says *this is a guess* in the middle of it."
 
 "Could you have written it if it had not been true?"
 
@@ -189,7 +189,7 @@ Then she squared them and put them down.
 
 "Finish it," she said.
 
-* * *
+---
 
 "There's a second thing."
 
@@ -228,3 +228,4 @@ Annie looked at him for a moment.
 "That's the whole of the cost."
 
 "Next Thursday," said Annie.
+

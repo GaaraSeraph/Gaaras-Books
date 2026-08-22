@@ -518,7 +518,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:190` (Tag 27) - one
 - `ch13:194` (Tag 27) - one, three
 - `ch13:246` (Tag 27) - six
-- `ch14:144` (Tag 34) - sixty
+- `ch14:144` (Tag 34) - fifty-one
 
 ---
 
