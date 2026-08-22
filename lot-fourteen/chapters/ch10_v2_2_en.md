@@ -1,0 +1,366 @@
+# Chapter 10: What did she pay for you
+*Lot Fourteen* · Version 2.2 · EN
+
+*Day 22 · Saturday 25 October*
+
+He did not go and stand near Annie.
+
+Hana had given him twenty minutes and an instruction, and the instruction was designed so that anything Annie did with it would be worth something to Hana. Standing there would have paid her whatever happened. Not standing there paid nobody, which made it the only move on the board that was his.
+
+He went and found Chairman Woo instead, and he did it in the open, across the middle of the floor, where anybody watching could see exactly how hard he was working.
+
+---
+
+"There he is," said Chairman Woo.
+
+The old man had reached the stage of the evening where he had stopped moving and was letting the room come to him, which for Chairman Woo was a considerable concession.
+
+"Chairman. May I ask you for something."
+
+"You may ask."
+
+"Dinner. Whenever suits you, wherever suits you, and I'll come to you." Georgij gave him the wide one and did not dress it up any further, because the man had been generous with him twice already and would notice if it were dressed up. "You told me four minutes' worth about Yeongjong and I have thought about it all evening, and four minutes was not enough."
+
+Chairman Woo looked extremely pleased and made a determined effort not to.
+
+"You want the harbour board story."
+
+"I want the whole thing from before the harbour board."
+
+"That takes an hour."
+
+"I have several."
+
+"Thursday," said Chairman Woo, immediately, having clearly not intended to say anything of the kind. "No. Thursday is the thing at the golf club. Friday."
+
+"Friday."
+
+"You'll have to eat what I eat. I'm eighty per cent salt and my doctor has opinions."
+
+"I'll eat what you eat."
+
+The chairman laughed, and then, in the way of a man who has decided the evening is going well and has therefore stopped being careful, he said:
+
+"You know what nobody asks me? Twice this year I have been asked to sell that terminal. Twice. Once in April and once six weeks ago, and both times by somebody who did not want to say who was behind him."
+
+Georgij's face did nothing at all.
+
+"And you said no."
+
+"I built it in ten months. What would I want with the money?" He waved it away. "The first one was clumsy. The second one had done his homework and knew my numbers better than my own finance man, and I did not enjoy that."
+
+"Who introduced you to the man who financed it?"
+
+He asked it in exactly the same tone as everything else, and it came out sounding like small talk, and it very nearly was.
+
+"Somebody at a dinner," said Chairman Woo.
+
+Then he looked over Georgij's shoulder at a woman he had known for forty years, and raised a hand at her, and was finished.
+
+Georgij did not ask whose dinner.
+
+There would have been no point. A man of that age does not accidentally answer a question in five words and then find somebody across a room. He had been told no, and he had been told it courteously, and asking a second time would have cost him Friday and bought him nothing.
+
+So he let it go, and he did it easily, and he was pleased with himself for about three hours.
+
+It would be one in the morning, in the dark, in the back of a car, before it occurred to him that a man who deflects a harmless question is not being private.
+
+He is covering somebody.
+
+---
+
+Kang Ji-hoon was standing near the north bar with a glass of water and had been for some time.
+
+He had not moved from the general area of the terrace doors all evening. He had spoken to four people, all of them briefly, and all four of them had come to him.
+
+Georgij went over.
+
+"Mr Kang."
+
+The man turned round without hurrying and looked at him with an entirely pleasant expression, and did not say anything, which is a technique.
+
+"Georgij. I'm with Annie."
+
+"I know who you are."
+
+"Then you're ahead of me, and that's the position I've been in all evening." He gave him the wide one. "Land and Infrastructure?"
+
+"Yes."
+
+"Then I'd like to ask you something, and I've no business asking it, and I've asked one man for something similar tonight already and it went well enough that I'm going to risk it twice."
+
+Kang Ji-hoon waited.
+
+He did not smile and he did not fail to smile. He held the glass of water and he looked at Georgij with polite attention, and the attention was not on Georgij's face.
+
+"I'm three weeks into this and there is a whole subject I know nothing about," said Georgij. "Land. Zoning, designation, port status, all of it. I can read a balance sheet in the dark and I cannot tell you what a change of use application actually costs a company in months. If I ever needed to ask somebody a stupid question about that, may I ask you?"
+
+There was a pause.
+
+It was not a long pause and there was nothing in it that a reasonable person would have found remarkable.
+
+"Of course," said Kang Ji-hoon.
+
+"Thank you."
+
+"It isn't a stupid subject. It's a boring one, which is different, and it is why nobody in this room can tell you anything about it." He turned the water glass a quarter turn. "You'd be surprised how often people are surprised."
+
+"I'm sure I would."
+
+"How would I reach you?"
+
+"That's kind of you. I'd rather not put you to the trouble."
+
+"It isn't trouble."
+
+"Then I'm sure you'll manage it," said Georgij, pleasantly. "You have a ministry."
+
+Kang laughed, and it was the first thing his face had done all evening, and it was over quickly.
+
+"Enjoy the rest of your night."
+
+---
+
+He was six paces away before he understood what he had done.
+
+Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good tool. You've used it once. Be careful how many times it fits.*
+
+Three hours.
+
+He had used it twice in three hours, on two men who were nothing like each other, and the second one had been forty-three years old and had answered a request for guidance with a request for a telephone number.
+
+Georgij took a cold glass off a tray and did not drink from it.
+
+There was nothing to be done about it now. A man who goes back to correct that sort of thing does it twice as much damage, and the only thing he had going for him was that he had declined to give Kang anything to write down.
+
+It would have to be enough.
+
+It was not going to be enough, and he knew it was not going to be enough, and he put it where he put things.
+
+---
+
+At three minutes to eleven, on the far side of the room, Annie looked up.
+
+She was at the west end with two people who had been talking at her for a while. She looked up and across about thirty metres of floor, over the heads of a great many people, and she found Hana without appearing to search.
+
+Hana was already looking at her.
+
+Georgij, standing where he was standing, saw both ends of it.
+
+It lasted under two seconds and there was nothing in it that anybody else in that room would have registered, and it told him two things.
+
+The first was that they had not spoken to each other tonight. Not once, not in three and a half hours, in a building they were both working. Two women who had known each other for twelve years and were about to need each other badly had gone an entire evening without exchanging a word, and that is not neglect. That is a decision, taken in advance, by both of them.
+
+The second was that it was over now.
+
+Hana put her glass down and started walking.
+
+---
+
+Georgij was moving before he had finished deciding to.
+
+He had been going north and he swung the line without breaking it, the way you change your mind about a door, and he came up on Hana's left about eight paces along and simply fell into step.
+
+She did not look at him.
+
+"I told you to go and stand near her twenty minutes ago."
+
+"You did."
+
+"And you didn't."
+
+"No."
+
+"And now you're coming with me."
+
+"Yes."
+
+Hana walked another three paces.
+
+"You understand that this is worse."
+
+"I do."
+
+"You could have done what I asked, and I would have learned one thing, and you would have paid one price." She was still not looking at him and her face was entirely pleasant for the benefit of the room. "Instead you have made it impossible for me to say anything to her that you don't hear, and you did it in front of about two hundred people, in a way that nobody in this building will be able to describe afterwards as anything at all."
+
+"Yes."
+
+"That was expensive."
+
+"It was cheaper than the other one."
+
+Hana was quiet for the last four paces.
+
+"Yes," she said. "It was."
+
+---
+
+They arrived together.
+
+The two people who had been talking at Annie found somewhere else to be within about fifteen seconds, which is what happens when two of those three people arrive at once.
+
+Annie looked at Hana.
+
+Then she looked at Georgij, and then at the space between his shoulder and Hana's, which was a shoulder's width and had been the same width for the whole of the walk.
+
+"Well," said Annie.
+
+"He came with me," said Hana.
+
+"I can see that."
+
+"He didn't come when I sent him and he came when I didn't."
+
+"Yes," said Annie. "He does that."
+
+That was the whole of it.
+
+They talked for perhaps two minutes about a man at table three, and about the ceiling, and about whether the speeches had been shorter than last year, and Georgij stood on Annie's left and said nothing whatsoever.
+
+Nobody mentioned Incheon. Nobody mentioned the Kims. Nobody mentioned customs, or the spring, or the eastern parcel, and the two of them did it so smoothly and so completely that it was the loudest thing he heard all evening.
+
+Then Hana said goodnight and went, and Annie turned back to the room, and did not say anything to him about any of it.
+
+Not then. Not in the car.
+
+---
+
+Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in that room was sitting down.
+
+He was on his own at it. There were eight chairs and he was in one of them, side-on to the table with one arm along the back of the next chair, watching the floor the way a man watches a field.
+
+Georgij had known where he was since twenty past seven.
+
+He went over because it was the last thing on the list and because there was nothing to be gained by making it look like anything else.
+
+"Mr Park."
+
+"Sit down."
+
+He sat down.
+
+---
+
+The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enjoy understanding, was that none of it worked.
+
+He gave him the wide one and it went nowhere. He asked him a question about a route into Vladivostok that he had spent an hour and a half preparing and the answer was accurate and complete and fourteen words long. He offered him the most recent achievement, the one nobody else had mentioned, and Sang-hoon said "Mm" and did not take it.
+
+He was perfectly courteous throughout.
+
+He asked four questions of his own. Where Georgij had been that afternoon. Whether he had eaten. What he thought of the wine, which Georgij had not drunk. Whether the hotel had put them at four or at five.
+
+None of them were about business and none of them were conversation. They were the questions you ask to watch somebody answer, and Sang-hoon watched him answer all four, and he was not looking at Georgij's face while he did it.
+
+He was looking at his hands.
+
+Georgij, who had spent seventeen years learning what a man looks at, put both of them flat on the tablecloth where they could be seen, and left them there, and went on being delightful about the wine.
+
+"You're the adviser," Sang-hoon said, eventually.
+
+"I am."
+
+"Everybody's told me."
+
+"I'm sorry about that."
+
+"Don't be. I've been here since seven and you're the only interesting thing anybody has said to me." He said it without any warmth at all, as a statement about the evening. "She hasn't had one in twelve years. She's had lawyers and she's had a man in Yeouido who reads the same three newspapers I do, and she has never had an adviser."
+
+"I've been extremely lucky."
+
+"No." Sang-hoon looked at the floor for a moment. "What did she pay for you?"
+
+---
+
+There it was, on a tablecloth, at a quarter past eleven, from a man who did not know what he was asking.
+
+He did not know. That was the whole of it and Georgij went over it twice while he was drawing breath and it held both times. Sang-hoon had a woman who had never brought anybody anywhere and who had suddenly brought somebody, and he had the word *adviser* coming at him from six directions since nine o'clock, and he was a man who bought companies and kept the directors and thought of both as line items.
+
+To him it was a question about a salary. It was rude in the way very rich men are rude, which is to say it was almost a compliment.
+
+Georgij could say four things.
+
+He could decline, which would be interesting.
+
+He could deflect, which this man would notice and file.
+
+He could give a number that was not the number, which was not available to him.
+
+Or.
+
+"Two hundred and twenty million," said Georgij.
+
+Sang-hoon's eyebrows went up about a millimetre.
+
+"Won."
+
+"Won."
+
+"For the year?"
+
+"No," said Georgij.
+
+He said it exactly as he had said everything else at that table, and he did not elaborate, and he let the single syllable be the whole of the answer, and every part of it was true.
+
+Sang-hoon laughed.
+
+It was a short laugh and it was the first thing he had done all evening that was not measured, and two people at the next table turned round.
+
+"She doesn't waste money," he said. "She never has. If she paid that, she believes it."
+
+"I hope she's right."
+
+"So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary."
+
+---
+
+He was still open. He would be open for about another forty seconds and then he would go back to whatever he had been doing since seven o'clock, and there would not be another one of these.
+
+"Then may I ask you for something, before you close."
+
+"Ask."
+
+"You bought two companies this year." Georgij said it the way you would compliment a man on his garden. "I have read everything that was printed about both of them, and everything that was printed is about money, and none of it tells me anything at all about how it was actually done."
+
+"It's usually about money."
+
+"It's never about money." He let a small pause sit there. "Have dinner with me and tell me how you did it. I'll listen, I won't take notes, and I'll pay for it myself so that it doesn't have to appear on anybody's expenses."
+
+Park Sang-hoon looked at him for slightly longer than he had looked at him all evening.
+
+Then something happened at the corner of his mouth which was not a smile and was in the same family.
+
+"You want to know how a man takes something that isn't his."
+
+"Yes."
+
+"Everybody wants to know that. Nobody asks."
+
+"Look around this room, Mr Park." Georgij did not look around it himself, because he had done that at twenty past seven and had not needed to since. "There are eight hundred people in it. Every one of them is a family, or a company, or a seat on something. I am the only nobody in the building."
+
+Sang-hoon considered that.
+
+"You're the only one who says so."
+
+"I'm the only one it's true of."
+
+"No," said Sang-hoon. "There are about ninety of them. You're the only one who has worked it out."
+
+He took his arm off the back of the chair and sat forward for the first time, and the movement was small and the effect was not.
+
+"After the fifteenth. My office will find you, and don't give me a number, because you were not going to."
+
+"I wasn't."
+
+"I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rather see it over food than have it slid under a door."
+
+Then he went, on his own, out across the floor and through the far doors and into the cold, at twenty past eleven, and did not look back.
+
+---
+
+Georgij sat at table two for a moment longer, with both hands still flat on the cloth.
+
+*Bring whatever it is you're going to bring.*
+
+It was not a warning. It was not a challenge either, and it was certainly not an invitation, and he turned it over four times before he understood that it was none of those things.
+
+It was an instruction from a man who intended to be given something and had decided in advance that he would take it anyway.

@@ -1,7 +1,7 @@
-Chapter 12: You are better when you don't know
-Lot Fourteen · Version 1.2 · EN
+# Chapter 12: You are better when you don't know
+*Lot Fourteen* · Version 1.3 · EN
 
-Day Twenty-Three · Sunday 26 October
+## Day Twenty-Three · Sunday 26 October
 
 He was in the kitchen at seven, in the clothes that had been left outside his door on the first morning, and nobody said anything about the night before.
 
@@ -21,9 +21,9 @@ Ji-won came in at ten past and said good morning and then said, in the manner of
 
 Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly too long, and took the coffee outside.
 
-Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in six hours, which Georgij found considerably more interesting than if she had.
+Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in eight hours, which Georgij found considerably more interesting than if she had.
 
-* * *
+---
 
 Jang came up from the security office at nine with two sheets of paper.
 
@@ -57,7 +57,7 @@ Jang collected his two sheets, and squared them, and did not look particularly p
 
 "I'll leave you the plates," he said, and went back downstairs.
 
-* * *
+---
 
 Annie did not send for him.
 
@@ -73,9 +73,9 @@ He did not enjoy it.
 
 He had noticed at the auction, and again in the ballroom, that he was becoming a man who preferred rooms to documents, and he did not think that was a good thing to be becoming.
 
-* * *
+---
 
-Day Twenty-Five · Tuesday 28 October
+## Day Twenty-Five · Tuesday 28 October
 
 The telephone rang at twenty past four in the afternoon.
 
@@ -99,13 +99,13 @@ Kang laughed, the same short one, over in a moment.
 
 "There has been some interest in a change of designation on the eastern side at Incheon. Port land. It would be a fairly technical thing." Kang's voice did not go anywhere at all. "What is your side's position on it?"
 
-* * *
+---
 
 There it was, on a Tuesday afternoon, four days after he had walked across a room and shown a man exactly where to put it.
 
-He could not say I don't know, because he did know four fragments and I don't know was not true.
+He could not say *I don't know*, because he did know five fragments and *I don't know* was not true.
 
-He could not say we have no position, because he had no idea whether that was true and would have been guessing.
+He could not say *we have no position*, because he had no idea whether that was true and would have been guessing.
 
 He could not deflect, because Kang was listening for a deflection and would have heard it in the shape of the breath.
 
@@ -169,9 +169,9 @@ Georgij did not know which of those two Kang would carry, and he could not corre
 
 He also did not know whether the line had been recorded. He assumed it had, which cost nothing, and which he had assumed from the second the number came up.
 
-* * *
+---
 
-Day Twenty-Six · Wednesday 29 October
+## Day Twenty-Six · Wednesday 29 October
 
 She sent for him at eight in the evening, which she had never done.
 
@@ -199,7 +199,7 @@ Georgij did not say anything.
 
 "Now the other part," said Annie.
 
-* * *
+---
 
 "There is a man I need in a room with me. He does not go to rooms. He has not stood in one with more than six people in it for as long as I have known he exists, and there are two people in this city who could describe his face."
 
@@ -233,7 +233,7 @@ Georgij looked at the desk for a moment.
 
 "No," said Annie. "It isn't."
 
-* * *
+---
 
 She let that stand there for a while, and did not soften it, and did not take it back, and did not explain it.
 
@@ -263,7 +263,7 @@ He was also aware that she had told him he could refuse, in advance, in a room w
 
 "I know why," said Annie.
 
-* * *
+---
 
 He stood up.
 
@@ -275,4 +275,4 @@ Annie looked at him across the desk for what felt like a considerable time.
 
 "No," she said.
 
-And it was true, and both of them knew it was true, and Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word unverifiable.
+And it was true, and both of them knew it was true, and Georgij went up the stairs understanding perfectly well that it was also the most carefully constructed sentence he had heard since the auctioneer said the word *unverifiable*.

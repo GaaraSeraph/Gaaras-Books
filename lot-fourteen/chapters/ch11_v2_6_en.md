@@ -1,7 +1,7 @@
-Chapter 11: Thank you for telling me
-Lot Fourteen · Version 2.6 · EN
+# Chapter 11: Thank you for telling me
+*Lot Fourteen* · Version 2.6 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 The car came round at seventeen minutes past midnight and Mr Ku had the heater on already, which he had not been asked to do.
 
@@ -27,7 +27,7 @@ Neither of them said anything until the ramp.
 
 "Go on."
 
-* * *
+---
 
 He gave it to her from seven twenty-two.
 
@@ -39,7 +39,7 @@ Woo first, because Woo was first: four minutes on Yeongjong, the tonnage finance
 
 And the dinner.
 
-"I asked him who introduced him to his financier. He said somebody at a dinner, and then he waved at a woman across the room, and that was the end of it."
+"I asked him who introduced him to his financier. He said *somebody at a dinner*, and then he waved at a woman across the room, and that was the end of it."
 
 "You didn't push."
 
@@ -59,7 +59,7 @@ And the dinner.
 
 "Take three," said Annie. "Go on."
 
-* * *
+---
 
 Then Kang.
 
@@ -83,11 +83,11 @@ He stopped.
 
 "Yes," said Annie. "You would."
 
-* * *
+---
 
 He gave her the girl from the foundation and the fourteen sites and the three that had not spent it on staff. He gave her the two directors at the Paradise, and the February sale, and the March dinners a month afterwards, one man at a time, four hundred kilometres from where either of them worked.
 
-He gave her the word container, on its own, off a terrace, in the middle of a sentence about something else.
+He gave her the word *container*, on its own, off a terrace, in the middle of a sentence about something else.
 
 He told her he could make nothing of it.
 
@@ -115,7 +115,7 @@ Annie turned her head.
 
 "Yes."
 
-* * *
+---
 
 Then Sang-hoon, because Sang-hoon had been last.
 
@@ -167,7 +167,7 @@ Annie was quiet for a long moment.
 
 "No, Mistress." He said it without any performance in it at all. "I gave a man the exact figure. He put it in the wrong column, and he'll keep it in the wrong column for as long as nothing else lands next to it, and I have no control at all over what lands next to it. That was the cheapest available answer and it was not a safe one."
 
-* * *
+---
 
 They were on the road up when he gave her the last of it.
 
@@ -183,7 +183,7 @@ The cypresses started.
 
 "What did she do?"
 
-"Nothing. She said yes, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
+"Nothing. She said *yes*, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
 
 "What did you tell her that was true?"
 
@@ -199,7 +199,7 @@ Annie did not say anything for perhaps two hundred metres.
 
 That was all of it. She did not say it warmly and she did not say it coldly, and there was nothing after it, and Georgij discovered that he would very much rather have been shouted at.
 
-* * *
+---
 
 "Now say the other thing," said Annie.
 
@@ -239,7 +239,7 @@ The car slowed for the turn.
 
 She said it looking straight ahead, in exactly the tone she had used for the seating and the coat and the tailor, and she did not add anything to it, and the car came onto the gravel and stopped.
 
-* * *
+---
 
 He got out and went round and held her door, and she got out, and she took the clutch with her.
 

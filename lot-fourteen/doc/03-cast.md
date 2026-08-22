@@ -188,7 +188,9 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 **Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
 *Kanon, Kapitel 8.*
 
-**Yun-seo** - Vierundzwanzig, Stiftung, macht die Berichterstattung für das Förderprogramm in Daegu. In Kapitel 7 steht sie am Rand einer Gruppe an der Bar mit einem Glas, aus dem sie nicht getrunken hat, und ist seit Georgijs Ankunft niemandem vorgestellt worden. Er lächelt sie ausdrücklich **nicht** an, weil ein fremdes Lächeln quer durch den Raum für sie eine weitere Entscheidung wäre und sie seit vierzig Minuten Entscheidungen trifft. Er merkt sie vor. Gehört in Kapitel 8.
-*Halbkanon, Kapitel 7.*
+**Die junge Frau von der Stiftung** - Vierundzwanzig, macht die Berichterstattung für das Förderprogramm in Daegu. In Kapitel 7 steht sie am Rand einer Gruppe an der Bar mit einem Glas, aus dem sie nicht getrunken hat, und ist seit Georgijs Ankunft niemandem vorgestellt worden. Er lächelt sie ausdrücklich **nicht** an, weil ein fremdes Lächeln quer durch den Raum für sie eine weitere Entscheidung wäre und sie seit vierzig Minuten Entscheidungen trifft. Er merkt sie vor. Die neun Minuten stehen in Kapitel 8.
+
+**Sie bleibt im ganzen Buch namenlos, und das ist Absicht.** Sie stellt sich nicht vor, er fragt nicht, und er hat neun Minuten mit ihr geredet, ohne nach ihrem Namen zu fragen - was ueber ihn mehr sagt als ein Name ueber sie. Der Bericht in Kapitel 11 nennt sie deshalb "the girl from the foundation". Der Name Yun-seo stand einmal dort und ist gestrichen: Georgij konnte ihn nicht haben.
+*Kanon, Kapitel 7, 8 und 11. Namenlos.*
 
 ---

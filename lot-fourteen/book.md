@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.389 Woerter.
+17 Kapitel. 50.384 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -13,19 +13,19 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 02 | v11.6 | 3.174 |
 | 03 | v2.6 | 3.380 |
 | 04 | v1.7 | 2.456 |
-| 05 | v5.6 | 4.331 |
+| 05 | v5.7 | 4.334 |
 | 06 | v1.4 | 2.092 |
 | 07 | v6.3 | 3.875 |
-| 08 | v3.3 | 2.689 |
+| 08 | v3.4 | 2.689 |
 | 09 | v3.2 | 3.129 |
-| 10 | v2.1 | 2.981 |
-| 11 | v2.6 | 2.391 |
-| 12 | v1.2 | 2.325 |
+| 10 | v2.2 | 2.984 |
+| 11 | v2.6 | 2.375 |
+| 12 | v1.3 | 2.325 |
 | 13 | v2.3 | 2.839 |
 | 14 | v7.3 | 2.609 |
 | 15 | v2.1 | 4.008 |
 | 16 | v1.10 | 3.135 |
-| 17 | v12.2 | 2.563 |
+| 17 | v12.2 | 2.568 |
 
 ---
 
@@ -517,7 +517,7 @@ He glanced back down the drive, without much interest.
 
 "And him?"
 
-"A guard's wages and a rented flat, and none of it was ever in this." A small pause. "He put a current twice through two hundred and twenty million of yours, in the fourth hour of owning it, on a guess about your mood. If that had gone badly there'd have been nothing on his side of the table to take it out of."
+"A guard's wages and a rented flat, and none of it was ever in this." A small pause. "He put a current twice through two hundred and twenty million of yours, in the first hour of owning it, on a guess about your mood. If that had gone badly there'd have been nothing on his side of the table to take it out of."
 
 Annie was quiet for a moment.
 
@@ -1124,7 +1124,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.6 · EN
+*Lot Fourteen* · Version 5.7 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1368,7 +1368,7 @@ He went up the stairs at the speed he always went up the stairs.
 
 It did not come out of the hotel, or the charity, or the four years of photographs.
 
-It came out of a car service in Jung-gu that had held the contract for the same evening since before the charity had changed its name. It came out of a florist who did sixteen tables and needed to know how many wheelchairs. And it came out of a woman in a hotel accounts office who had been given a name to invoice for the corkage. She put it in an email with two hundred and twelve other people copied on it.
+It came out of a car service in Jung-gu that had held the contract for the same evening since before the charity had changed its name. It came out of a florist who did a hundred and four tables and needed to know how many wheelchairs. And it came out of a woman in a hotel accounts office who had been given a name to invoice for the corkage. She put it in an email with two hundred and twelve other people copied on it.
 
 By the eleventh day he had four hundred and thirty names, and ninety-one of them were worth the time it took to look at them.
 
@@ -1948,7 +1948,7 @@ Mr Hong laughed. Then he stopped laughing, which took him about a second and a h
 
 He had *three weeks* most of the way to his teeth before he heard it.
 
-A number like that is a date, and a date can be laid alongside another date. There were three people under this ceiling who had a date of their own, and one of them had shaken his hand eight minutes ago and told him the ceiling was hideous.
+A number like that is a date, and a date can be laid alongside another date. There were three people under this ceiling who had a date of their own, and one of them had shaken his hand two minutes ago and told him the ceiling was hideous.
 
 "Not long," he said.
 
@@ -2004,7 +2004,7 @@ His four hundred and thirty had come out of a car service, a florist and an invo
 
 A man who drives himself, sits at no table and does not drink is not in a car service, a florist's count or an accounts email, and would not have been in any of the four previous years of photographs either, because photographers point at whoever is being photographed.
 
-He had spent three weeks building an instrument, and he had been inside the building fourteen minutes when somebody handed him, in one sentence and by accident, the exact shape of the thing it could not see.
+He had spent three weeks building an instrument, and he had been inside the building seventeen minutes when somebody handed him, in one sentence and by accident, the exact shape of the thing it could not see.
 
 ---
 
@@ -2050,12 +2050,12 @@ The basement had been harder. Nineteen buyers in a room with no windows, all of 
 
 This was going to take him three hours.
 
-He had six.
+He had five.
 
 ---
 
 # Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2133,7 +2133,7 @@ It was the first sentence anybody had said to him all evening that he had not st
 
 Which was true, as far as it went.
 
-It was also the first thing he had said in six hours that he had not decided on before he said it, and he heard that happen, and he went away from her carrying it.
+It was also the first thing he had said in seventy minutes that he had not decided on before he said it, and he heard that happen, and he went away from her carrying it.
 
 ---
 
@@ -2528,7 +2528,7 @@ He did not.
 
 He stood there.
 
-It lasted about a second and a half, which is nothing, and which is also roughly a second longer than any pause he had allowed himself in six hours in that building.
+It lasted about a second and a half, which is nothing, and which is also roughly a second longer than any pause he had allowed himself in three hours in that building.
 
 Hana did not fill it. She waited exactly as long as it took, with her face entirely friendly, and let the gap sit between them and become a fact.
 
@@ -2639,7 +2639,7 @@ He stopped.
 ---
 
 # Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2765,9 +2765,9 @@ He was six paces away before he understood what he had done.
 
 Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good tool. You've used it once. Be careful how many times it fits.*
 
-Fifteen minutes.
+Three hours.
 
-He had used it twice in fifteen minutes, on two men who were nothing like each other, and the second one had been forty-three years old and had answered a request for guidance with a request for a telephone number.
+He had used it twice in three hours, on two men who were nothing like each other, and the second one had been forty-three years old and had answered a request for guidance with a request for a telephone number.
 
 Georgij took a cold glass off a tray and did not drink from it.
 
@@ -2789,7 +2789,7 @@ Georgij, standing where he was standing, saw both ends of it.
 
 It lasted under two seconds and there was nothing in it that anybody else in that room would have registered, and it told him two things.
 
-The first was that they had not spoken to each other tonight. Not once, not in five hours, in a building they were both working. Two women who had known each other for twelve years and were about to need each other badly had gone an entire evening without exchanging a word, and that is not neglect. That is a decision, taken in advance, by both of them.
+The first was that they had not spoken to each other tonight. Not once, not in three and a half hours, in a building they were both working. Two women who had known each other for twelve years and were about to need each other badly had gone an entire evening without exchanging a word, and that is not neglect. That is a decision, taken in advance, by both of them.
 
 The second was that it was over now.
 
@@ -3020,7 +3020,7 @@ There was a second car waiting at the top of the ramp with two of Jang's people 
 
 Annie put the clutch down on the seat between them.
 
-Third time. The same last three miles as the first time, in the same direction, three weeks and a day later.
+The third time up this road. The same last five kilometres as the first time, in the same direction, three weeks and a day later.
 
 She did not open the bag and she did not close it either, and it lay there with the catch resting shut and not fastened, which he noticed and did not look at.
 
@@ -3056,7 +3056,7 @@ And the dinner.
 
 "And now?"
 
-"Now I think a man who deflects a harmless question isn't being private. He's covering somebody." Georgij looked out at the tunnel lights going over. "That's all I have and I want to be clear that it is all I have. I don't have a name. There was no name to be had in that building tonight and I'm not going to invent one on the way home because it would be convenient."
+"Now I think a man who deflects a harmless question isn't being private. He's covering somebody." Georgij looked out at the expressway lights going over. "That's all I have. I have a name in my head and nothing at all that puts it behind Woo's money, and I am not going to make that connection on the way home because it would be convenient."
 
 "You've thought of one."
 
@@ -3076,7 +3076,7 @@ Then Kang.
 
 "Hong."
 
-"Hong. And Hana warned me about it thirty minutes before I did it, in those words, and I did it anyway."
+"Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I should be careful how many times it fit, and I did it anyway."
 
 "Say the rest."
 
@@ -3084,7 +3084,7 @@ Then Kang.
 
 "He'll call."
 
-"He'll call. I don't know what he wants and I don't know what he'll ask." Georgij said it flatly. "But I know where he'll aim it. Land, permissions, port status. That is the one subject in the world I told him I was empty on, and I told him myself, standing at the north bar, in about nine seconds."
+"He'll call. I don't know what he wants and I don't know what he'll ask." Georgij said it flatly. "But I know where he'll aim it. Land, permissions, port status. That is the one subject in the world I told him I was empty on, and I told him myself, standing at the north bar, in about half a minute."
 
 He stopped.
 
@@ -3094,11 +3094,11 @@ He stopped.
 
 ---
 
-He gave her Yun-seo and the fourteen sites and the three that had not spent it on staff. He gave her the two directors at the Paradise, and the February sale, and the March dinners a month afterwards, one man at a time, four hundred kilometres from where either of them worked.
+He gave her the girl from the foundation and the fourteen sites and the three that had not spent it on staff. He gave her the two directors at the Paradise, and the February sale, and the March dinners a month afterwards, one man at a time, four hundred kilometres from where either of them worked.
 
 He gave her the word *container*, on its own, off a terrace, in the middle of a sentence about something else.
 
-He told her he had nothing to do with it.
+He told her he could make nothing of it.
 
 "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she has said on a terrace and it has made her about three per cent louder than she would otherwise be. I got Incheon five times, the eastern parcel, a date in the spring, an approach she thinks was a discourtesy and not a threat, and a minister who already knew and did not perform surprise."
 
@@ -3138,13 +3138,11 @@ Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's conven
 
 "That's a good sentence."
 
-"It's a better one than it sounds. It isn't a warning and it isn't a challenge. It's an instruction from a man who has decided in advance that he'll take whatever I bring him and has therefore stopped caring what it is."
+"It's an instruction. He has decided in advance that he will take whatever I bring him, and he has therefore stopped caring what it is."
 
-"Which is what you want."
+"Which is exactly what I want. I've been trying since twenty past eleven to find the part of that which is a trap, and I can't, and that bothers me a great deal more than finding one would have."
 
-"Which is exactly what I want. I've been trying since a quarter past eleven to find the part of that which is a trap, and I can't, and that bothers me a great deal more than finding one would have."
-
-The car came off the expressway.
+The car came off the expressway and into the tunnel.
 
 "There's one more thing at that table," said Georgij, "and I want to say it while we're still moving."
 
@@ -3156,9 +3154,9 @@ Annie did not move at all.
 
 "He doesn't know," said Georgij.
 
-"No. He wouldn't." She said it almost before he had finished, which told him she had got there faster than he had. "He has had the word adviser at him since nine o'clock and he prices people for a living. He was asking about a wage."
+"No. He wouldn't." She said it almost before he had finished, and she had not been at the table when it was asked. "He has had the word adviser at him since nine o'clock and he prices people for a living. He was asking about a wage."
 
-"Yes. I went over it twice before I answered and it held both times."
+"Yes."
 
 "What did you tell him?"
 
@@ -3188,7 +3186,7 @@ Annie turned her head.
 
 "Which rule?"
 
-"Annie in public, and the other word nowhere at all." His hands stayed where they were on his knees. "I used the other word to Hana. Once, on the floor, just before eleven. She had been kind to me for ten minutes and I had just told her something true that I had not intended to say, and it came out of me before I heard it going."
+"Annie in public, and the other word nowhere at all." His hands stayed where they were on his knees. "I used the other word to Hana. Once, on the floor, at about twenty-five to eleven, before I went to Woo. She had been kind to me for eleven minutes and I had just told her something true that I had not intended to say, and it came out of me before I heard it going."
 
 The cypresses started.
 
@@ -3216,7 +3214,7 @@ That was all of it. She did not say it warmly and she did not say it coldly, and
 
 "Mistress?"
 
-"You've been holding something since the tunnel. You've given me fourteen minutes of everything you have and most of it was against your own interest. So say the last one. I am not sitting through you deciding whether you're allowed to."
+"You've been holding something since Woo. You've given me fourteen minutes of everything you have and most of it was against your own interest. So say the last one. I am not sitting through you deciding whether you're allowed to."
 
 Georgij inclined his head.
 
@@ -3269,7 +3267,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3291,7 +3289,7 @@ Ji-won came in at ten past and said good morning and then said, in the manner of
 
 Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly too long, and took the coffee outside.
 
-Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in six hours, which Georgij found considerably more interesting than if she had.
+Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in eight hours, which Georgij found considerably more interesting than if she had.
 
 ---
 
@@ -3373,7 +3371,7 @@ Kang laughed, the same short one, over in a moment.
 
 There it was, on a Tuesday afternoon, four days after he had walked across a room and shown a man exactly where to put it.
 
-He could not say *I don't know*, because he did know four fragments and *I don't know* was not true.
+He could not say *I don't know*, because he did know five fragments and *I don't know* was not true.
 
 He could not say *we have no position*, because he had no idea whether that was true and would have been guessing.
 
@@ -3881,7 +3879,7 @@ He had been mapping shipping routes for ten days, because the Kims' logistics ar
 
 Route work means looking at everybody else on the same water.
 
-And on the third day of it, working down a list of operators who held berths on the same two lanes, he found a group that owned four routes and could not pay for them.
+And on the tenth day of it, working down a list of operators who held berths on the same two lanes, he found a group that owned four routes and could not pay for them.
 
 Hanseong.
 
@@ -4045,7 +4043,7 @@ Annie looked at him for a moment.
 
 "Say it."
 
-"At the gala you and she did not exchange one word in five hours," said Georgij. "Both of you had arranged that in advance. Anybody who was watching that room and can count has that. If she comes up this drive on Thursday, then whatever the two of you were not doing at the Grand Hotel, you have stopped not doing."
+"At the gala you and she did not exchange one word until eleven o’clock," said Georgij. "Both of you had arranged that in advance. Anybody who was watching that room and can count has that. If she comes up this drive on Thursday, then whatever the two of you were not doing at the Grand Hotel, you have stopped not doing."
 
 "Yes."
 
@@ -4176,7 +4174,7 @@ Hana looked at him for a moment.
 
 "You didn't say so on the terrace."
 
-"You were four hours old to me on that terrace," said Hana, "and you were standing at my elbow being enchanting at a minister."
+"You were ten minutes old to me on that terrace," said Hana, "and you were standing at my elbow being enchanting at a minister."
 
 "That's fair."
 
@@ -4264,7 +4262,7 @@ Hana put the paper down.
 
 "That is not enough to do anything with."
 
-"No. It is a parked car and a company that exists in order not to be a name." Georgij put the page flat. "Jang has had all four dates since the Wednesday and they have been worth precisely nothing since. There has never been anybody in a room with me who might have been able to place the other three."
+"No. It is a parked car and a company that exists in order not to be a name." Georgij put the page flat. "Jang has had all four dates since the Friday and they have been worth precisely nothing since. There has never been anybody in a room with me who might have been able to place the other three."
 
 He looked at the two of them.
 
@@ -4862,7 +4860,7 @@ Georgij was smiling. He knew he was doing it and he did not take it off.
 
 He owned a great many smiles and could have told you what every one of them was for.
 
-The wide one that goes all the way up and arrives a quarter of a second late, which is what makes people believe it, built in a house in Daejeon when he was twenty-one. The one held precisely as warm as the one it answers and not a degree warmer. The one you let go out for a second, which is rarer than any smile and worth more. The warm and entirely pleasant one he had put on a woman in a corridor under a building in Gangnam, about forty minutes after she bought him. And the one you keep off your face on purpose, in front of somebody who is still deciding what you are.
+The wide one that goes all the way up and arrives a quarter of a second late, which is what makes people believe it, built in a house in Daejeon when he was twenty-one. The one held precisely as warm as the one it answers and not a degree warmer. The one you let go out for a second, which is rarer than any smile and worth more. The warm and entirely pleasant one he had put on a woman in the back of her own car on the way out of Gangnam, about forty minutes after she bought him. And the one you keep off your face on purpose, in front of somebody who is still deciding what you are.
 
 Every one of them curated for a situation, aimed at a face, pointed at a result. He could have named the house each came out of and roughly what it had cost to learn.
 
