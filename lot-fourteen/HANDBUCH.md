@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 38.279 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 38.606 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -54,6 +54,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Hammer](#der-hammer)
   - [Festgelegte Zeile: die Heimfahrt nach dem Essen mit Sang-hoon](#festgelegte-zeile-die-heimfahrt-nach-dem-essen-mit-sang-hoon)
   - [Festgelegte Zeile: das best-made thing](#festgelegte-zeile-das-best-made-thing)
+  - [Festgelegte Zeile: was nicht Arbeit war](#festgelegte-zeile-was-nicht-arbeit-war)
 - [Stoffbloecke](#stoffbloecke)  ·  `doc/06-plot.md`
   - [Blockübersicht gegen den Kanon](#block-bersicht-gegen-den-kanon)
   - [Block A - Das Haus bei Nacht **[GESCHRIEBEN, Kapitel 3]**](#block-a-das-haus-bei-nacht-geschrieben-kapitel-3)
@@ -1307,6 +1308,46 @@ Im Wagen, unter vier Augen, unmittelbar nachdem er zum ersten Mal einen Menschen
 
 ---
 
+### Festgelegte Zeile: was nicht Arbeit war
+
+Drei Woerter, zweimal, drei Kapitel auseinander. **Beide Stellen sind Wortlaut.**
+
+**Kapitel 13, ueber Georgij.** Erzaehlung, nicht Rede:
+
+> At some point Woo told a story about a shipping agent in Busan in 1994 that was very funny, and Georgij laughed properly at it, **which was not work**.
+
+**Kapitel 16, aus Sang-hoons Mund.** Nach der vierten Wand, der Frage, wo Georgij schlaeft:
+
+> Then he laughed, and it was the second time Georgij had heard it, and it was not longer than the first.
+>
+> **"That one was not work,"** he said. "I wanted to know."
+
+**Warum das haelt.** Beide Male markieren dieselben drei Woerter den einen
+Augenblick eines durchgearbeiteten Abends, in dem jemand aufgehoert hat zu
+arbeiten. Die Asymmetrie ist der Punkt: Georgijs Version ist Erzaehlung, weil er
+den Satz ueber sich selbst nicht sagen wuerde und ihn auch gar nicht bemerkt.
+Sang-hoon sagt ihn laut, weil ein Mann in seiner Lage sich leisten kann, seine
+eigene Dienstpause zu benennen. Der eine bekommt es zugeschrieben, der andere
+spricht es aus.
+
+**Und seit Fassung 1.11 traegt es doppelt.** Sang-hoons einziger unbezahlter
+Moment des Abends ist ausgerechnet die Frage nach dem Halsband, das er nicht
+sehen kann.
+
+**Regeln fuer den Umgang damit:**
+
+- **Beide Saetze sind Wortlaut.** Wer eine der beiden Stellen umformuliert,
+  toetet den Reim, ohne ihn zu sehen: es sind drei gewoehnliche Woerter, und
+  keine Suche findet sie von selbst. Deshalb stehen sie hier.
+- **Kein drittes Mal.** Zweimal ist ein Reim, dreimal ist ein Tic.
+- **Kein Kommentar, in keine Richtung.** Georgij bemerkt es nicht, der
+  Erzaehler zeigt nicht darauf, und keine Figur greift es auf.
+- **Die eine erlaubte Zukunft:** dass Georgij ihn selbst laut sagt. Das waere
+  ein Zustandswechsel und keine Formulierungsfrage, gehoert also vorher nach
+  `doc/08-decisions.md`.
+
+---
+
 # Stoffbloecke
 
 Kein Kanon. A bis C sind geschrieben und stehen als Herkunftsnotiz da, D bis J kommen noch.
@@ -1700,6 +1741,10 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   ergibt ueberhaupt nur Sinn, weil der Vergleichsfall existiert - und er stand
   bisher nirgends verbucht, was den einen echten Lacher billiger gemacht hat,
   als er ist.
+
+  **Dieselben drei Woerter fallen ein zweites Mal**, in Kapitel 16 aus
+  Sang-hoons Mund: *"That one was not work."* Beide Stellen sind jetzt als
+  festgelegte Zeile in `doc/05-continuity.md` verbucht.
 
 - **Der Zahltag von quid pro quo.** Ab Kapitel 17 faellt der Satz nicht mehr
   beilaeufig. Die naechste Verwendung ist die im Bruch. Eine Ausnahme ist bereits

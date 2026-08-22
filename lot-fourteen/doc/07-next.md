@@ -99,6 +99,10 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   bisher nirgends verbucht, was den einen echten Lacher billiger gemacht hat,
   als er ist.
 
+  **Dieselben drei Woerter fallen ein zweites Mal**, in Kapitel 16 aus
+  Sang-hoons Mund: *"That one was not work."* Beide Stellen sind jetzt als
+  festgelegte Zeile in `doc/05-continuity.md` verbucht.
+
 - **Der Zahltag von quid pro quo.** Ab Kapitel 17 faellt der Satz nicht mehr
   beilaeufig. Die naechste Verwendung ist die im Bruch. Eine Ausnahme ist bereits
   verbraucht: In Kapitel 17 benutzt Georgij ihn gewichtet, um ihr etwas zu geben.
