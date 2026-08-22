@@ -378,3 +378,91 @@ Aufgefallen, weil der Kontrolllauf danach **gar nichts** ausgab statt einer
 Meldung - ein leeres Ergebnis ist kein gruenes Ergebnis. Wer Backslashes in
 diese Datei bringt, baut sie mit `chr(92)` zusammen oder schreibt die Datei
 direkt, statt sie durch eine Shell zu schicken.
+
+---
+
+### Wer wem was schuldet: die Rueckgabe ist keine Gefaelligkeit
+
+**Entschieden am 22.08. vom Autor**, gegen die erste Fassung von Kapitel 18.
+
+**Die erste Fassung hatte es falsch herum.** Dort las Georgij die vier
+Bleistiftnotizen als Geschenk: *Sang-hoon had not owed him this... von einem
+Mann, der nichts umsonst tut.* Das ignoriert das Konto. Georgij hat ihm in
+Kapitel 16 vier Waende gegeben, dazu die Bestaetigung ueber die Kims, deren
+Preis er im Raum laut genannt hat, und neunzehn Seiten, auf die ein Mann in
+seiner Lage handeln kann. Dagegen stehen drei Woerter und eine Zahl.
+
+**Sang-hoon steht weiter tief in der Schuld**, auch nach der Durchsicht. Die
+Rueckgabe ist eine **Abschlagszahlung**, und die Uhrzeit gehoert dazu: Der Wagen
+ist um halb acht in Yeouido losgefahren, damit die Seiten am Vormittag da sind.
+
+> A man who owes a great deal and pays a little of it quickly is not a man
+> clearing his debts. He is a man who intends to go on borrowing and would like
+> the account to stay open.
+
+**Was daraus folgt, ist besser als das Geschenk.** Es sagt, dass es einen
+zweiten Abend geben wird, und das ist mehr wert als die Korrekturen. Und es
+haelt Georgij kalt an einer Stelle, an der die erste Fassung ihn geruehrt hat.
+
+---
+
+### Das Scheingebot auf Hanseong
+
+**Entschieden am 22.08. vom Autor.** Zur Wahrung des Scheins versucht Annie
+selbst, Hanseong zu kaufen, damit der Verdacht bestaetigt wird, dass es ein
+lohnendes Ziel ist.
+
+**Der Mechanismus, der es sicher macht:** Das Gebot ergeht **unter dem Vorbehalt
+eines Vorstandsbeschlusses.** Der Hanseong-Vorstand tagt seit Maerz nicht mehr,
+weil die eine Haelfte nicht mit der anderen in einem Raum sitzt. Damit ist die
+Bedingung das, was jeder ernsthafte Kaeufer und jeder Anwalt ohnehin
+hineinschreiben wuerde, sie ist unauffaellig, und sie ist nicht erfuellbar.
+
+**Annie kann also nicht gewinnen**, ihr Scheitern steht schriftlich, mit Datum
+und einem Grund, den jeder nachlesen kann, und niemand kann es als Absicht
+konstruieren.
+
+**Und die Lehre, die Sang-hoon daraus zieht, ist die eigentliche Waffe.** Er hat
+gerade zwei Tage auf Seite vierzehn verbracht, also auf der Frage, ob ein
+Vorstand, der nicht mehr tagt, noch eine Veraeusserung genehmigen kann. Aus
+Annies Scheitern liest er, dass der einzige Weg hinein ueber einen Beschluss
+fuehrt, den es nicht geben wird, und dass er dazu bereit ist und sie nicht.
+Georgij erfindet dabei nichts: es ist dieselbe Tatsache von der anderen Seite.
+
+**Das Restrisiko steht im Text und wird Annie vorgelegt**, bevor sie zustimmt:
+Wenn der Vorstand doch zusammentritt, hat sie eine Reederei ohne
+arbeitsfaehigen Vorstand gekauft. Gegenmittel ist eine Untergrenze im Gebot,
+niedrig genug zum Abgelehntwerden und hoch genug zum Geglaubtwerden, und
+Georgij baut sie **mit** ihren Leuten und nicht fuer sie.
+
+---
+
+### Woos Preis ist Ladung, nicht Geld und nicht ein Name
+
+**Entschieden am 22.08. vom Autor**, gegen die erste Fassung, in der Woo fuer
+den Namen des Terminal-Interessenten und einen Rueckkauf der Hongkong-Anteile
+zusagte. **Das war zu billig fuer das, worum er gebeten wird.**
+
+**Was nur Annie hat:** Ladung. Ein Terminal ist nicht wert, was der Beton
+gekostet hat, sondern was woechentlich und fahrplanmaessig darueber geht. Ihre
+Spezialchemie laeuft seit elf Jahren nach Fahrplan ueber irgendeinen Hafen.
+
+**Der Handel:** zehn Jahre, Mindestmengen, mit einer Zahl darin, die etwas
+bedeutet. Es kostet sie echtes Geld, wenn Georgij den Durchsatz falsch
+geschaetzt hat, und genau das macht es zu einem Preis und nicht zu einer Geste.
+
+**Es loest den Dienstag von selbst.** Ein Terminal mit zehn Jahren kontrahierter
+Menge zerlegen drei Erben nicht, sie betreiben es, weil es laufend mehr
+abwirft als zerschlagen. Sang-hoon bekommt hoechstens ein Drittel an einem
+Geschaeft unter einem Vertrag, den er nicht aendern kann und nicht geschrieben
+hat. Niemand muss ihn auskaufen, weil dort nichts mehr zu wollen ist.
+
+**Der Name kommt obendrauf und ungefragt**, damit Woo wieder in der Schuld
+steht. Genauer: Georgij hat den Namen nicht und wird nicht so tun, als haette
+er ihn. Was er mitnimmt, ist die Kontonummer der Firma in Jung-gu und die drei
+Daten von der Innenseite des Aktendeckels aus Kapitel 13. Das ist die Form der
+Tuer, durch die der Name geht.
+
+**Annie gibt den Auftrag dazu selbst**, und ihre Begruendung ist keine
+Grosszuegigkeit: *a man who is enjoying himself gives away the wrong things by
+accident, and I would rather you gave away the right one on purpose.*

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-18 Kapitel. 54.586 Woerter.
+18 Kapitel. 53.640 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -26,7 +26,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 15 | v2.3 | 4.210 |
 | 16 | v1.13 | 3.196 |
 | 17 | v12.5 | 2.686 |
-| 18 | v1.0 | 3.560 |
+| 18 | v2.0 | 2.614 |
 
 ---
 
@@ -5151,8 +5151,8 @@ He did not turn round and look at the chair.
 
 ---
 
-# Chapter 18: What happens on the Tuesday
-*Lot Fourteen* · Version 1.0 · EN
+# Chapter 18: On account
+*Lot Fourteen* · Version 2.0 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5206,31 +5206,49 @@ And on page nine, beside the two rumours from two mouths that had no reason to k
 
 ---
 
-Georgij put that page down on the desk and stood up and walked to the window, which he did not often do.
+Georgij put that page down and stood up and walked to the window, which he did not often do.
 
-Two sources that corroborate each other are worth ten times one source. That was the whole reason the rumour was in the document at all. He had put it in because it had come to him twice, from a man in a shipping agency and from a woman who audits nobody that man has ever met.
+Two sources that corroborate each other are worth ten times one source. That was the whole reason the rumour was in the document. It had come to him twice, from a man in a shipping agency and from a woman who audits nobody that man has ever met.
 
 *Same.*
 
-One mouth, dressed as two. Somebody had walked it round the long way and back again, and Georgij had received it at both ends and counted it twice.
+One mouth, dressed as two. Somebody had walked it round the long way and back again, and Georgij had received it at both ends and counted it twice, and had felt rather good about it for four days.
 
-It was the strongest thing in the document and it was worth nothing, and he had spent four days feeling rather good about it.
+He went back to the desk and wrote the correction on the inside cover of the file.
 
-He went back to the desk and wrote the correction on the inside cover of the file, and then he sat with the other thing.
+Then he did the other sum, which took longer and was less pleasant.
 
-Sang-hoon had not owed him this.
+---
 
-The arrangement was that the pages came back on Thursday. The pages had come back on Thursday. Nobody had said anything about a pencil. A man who marks a document he is about to act on has left evidence in somebody else's house, in his own hand. He had done it because he was asked a question and he answered it.
+He had given Park Sang-hoon four walls and a map of where they stood. He had given him confirmation, on the record, that Annie's side already held part of the Kim family. He had said out loud in the room what that cost him, because saying it was worth more than hiding it.
 
-*I want you to tell me where I am wrong.*
+And he had given him nineteen pages that were worth several hundred billion won to a man in a position to act on them, written in his own hand, for nothing.
 
-He had asked for that on Tuesday, and he had asked for it because it was true, and he had not expected to get it.
+Against that: three words and a figure.
+
+It was not a gift and it was not a kindness, and Georgij was faintly annoyed with himself for having spent ten minutes at a window thinking that it might be.
+
+It was a payment on account.
+
+A man who owes a great deal and pays a little of it quickly is not a man clearing his debts. He is a man who intends to go on borrowing and would like the account to stay open. The cheapest way to keep a lender warm is to pay a little of it early, and to let him notice that it was early.
+
+The car had left Yeouido at half past seven for exactly that reason.
+
+---
+
+Georgij sat back.
+
+The debt was still there and both of them knew the size of it, and Sang-hoon had just told him, in pencil, that he intended to draw on it again.
+
+Which meant there would be another evening.
+
+That was worth more than the corrections, and the corrections were worth a great deal.
 
 ---
 
 He found Annie in the study at eleven.
 
-"He has read it," said Georgij. "He has read it twice and he has corrected it in four places, and he has put page fourteen on top."
+"He has read it twice and corrected it in four places, and he has put page fourteen on top."
 
 "Which is fourteen."
 
@@ -5244,7 +5262,7 @@ Annie turned her chair a quarter turn.
 
 "Then January is not four weeks."
 
-"No, Mistress. If he signs in the first week of December he is short from December and clear again by March, and Ye-rin does not break until February." He put one hand flat. "It is three weeks, and they are the three weeks over the New Year, when nobody in this country signs anything."
+"No. If he signs in the first week of December he is short from December and clear again by March, and Ye-rin does not break until February." He put one hand flat. "It is three weeks, and they are the three weeks over the New Year, when nobody in this country signs anything."
 
 She did not say anything to that for a moment.
 
@@ -5252,246 +5270,152 @@ She did not say anything to that for a moment.
 
 ---
 
-"I am going to ask you for something," said Georgij. "It is the first time, and I would like to say so out loud before I say the rest, because you noticed the last time that I had not."
+"Two things, Mistress, and the first one will sound like the opposite of what we agreed."
 
-"I remember what I said."
+"Say it anyway."
 
-"You said everybody asks for something, and that the four before me had asked, and that they had a great deal less to lose than I do." He put his hands behind his back. "This is not for me. I want to say that as well, because you would work it out in an hour and I would rather you had it now."
-
-"Go on."
-
-"Chairman Woo will stand next to the Kims. He will do it in public and he will do it on paper, and the cancellations stop the week he does it." He turned his hand over. "He will not do it for money. He has money and he has had it for fifty years and it has never once made him do anything."
-
-"Then what."
-
-"He is seventy-eight and he owns one thing he cares about, and he has told me exactly what happens to it. It gets sold within a year and split three ways and one of the three is Sang-hoon." A small pause. "I would like your authority to tell him that it does not have to."
+"I want you to try to buy Hanseong."
 
 Annie put down the pen she had not been using.
 
-"You want me to underwrite a terminal on Yeongjong."
-
-"I want your authority to offer it. I do not want a decision from you tonight about what it costs, because I do not know yet what he will take."
-
----
-
-"How much."
-
-"That is the part you will not like." He said it without any weight anywhere. "I am going to ask you for more than I expect to spend, and I am telling you that I am doing it, because you would find it out afterwards and then it would be a different conversation."
-
-"How much more."
-
-"Twice." Georgij did not look away. "I expect to spend half of what I am asking for. I want the other half in my hand because of the room I am walking into. He has been in this trade for fifty-one years. If he asks me for something I have not thought of, I would like to say yes in the room and not on Monday."
-
-"And if he asks for all of it?"
-
-"Then he gets all of it and I come back and tell you what I did." He said it immediately. "I will not tell you I spent less than I spent."
-
-Annie looked at him for a while.
-
-"You like him."
-
-"I do."
-
-"Then you will pay too much."
-
-"Probably," said Georgij. "I have thought about that and I have not found a version of this where somebody who does not like him gets it cheaper. Men he is indifferent to do not get to buy from him, and that is most of why he still owns it."
-
-She turned back to the desk and picked the pen up.
-
-"You have it," she said. "All of it. And Georgij."
-
-"Mistress."
-
-"He is the only person outside this house who has ever done you a favour without being asked." She was already reading. "Do not come back and tell me he did you another one."
-
----
-
-The invitation had been sitting there since the seventh of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.
-
-Georgij made it into a date at half past eleven, in one telephone call, and was told to come that afternoon and to wear something he did not mind ruining.
-
-Yeongjong in November is a flat cold place with the sea on three sides of it and nothing at all to stand behind.
-
-Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had on, and walked him out along the quay at a speed that would have embarrassed a man of fifty.
-
-"Ten months," he said. "From that fence to the second crane. Ten. Everybody writes eleven."
-
-"I have read eleven twice."
-
-"Both of them had it from the same press office and the press office had it from a man who was not here." He stopped and pointed with his whole hand, the way old men do. "The concrete went in during a wet March. Do you know what that costs you?"
-
-"No."
-
-"Nothing, if you have the right man. Four months, if you have the wrong one." He started walking again. "I had the right one and he is dead now as well."
-
----
-
-They went out to the end of it.
-
-Georgij looked at the water and the cranes and the stacks and the long grey shed with the number on it, and understood two things almost at once.
-
-The first was that this was not very large. He had expected something larger. Set against what the man was worth it was a small thing, and it had taken ten months and two years of argument and most of a decade of being told no.
-
-The second was that Chairman Woo was watching him look at it, and had been since the gate.
-
-Mr Hong had said this would happen. He had said it in a ballroom with a glass in his hand, and had been delighted with himself. The chairman would invite Georgij to Yeongjong, and would then be deeply offended by anything Georgij said about it.
-
-So there was going to be a sentence, and it was going to have to be true.
-
-"Well," said Woo.
-
-"The apron is short on the north side."
-
-The old man's head came round.
-
-"It is fourteen metres short," said Georgij. "You built it that way on purpose. The alternative was buying a strip from the port authority in the same year you were arguing with them about the committees, and you took the terminal in ten months and left the argument." He looked at the shed and not at the man. "The argument is still standing there, and it is still fourteen metres, and one day somebody who buys this from your estate will call it a defect and get it cheap."
-
-Nobody said anything for a moment.
-
-"Who told you that?"
-
-"Nobody. It is in the harbour authority's own drawings, which are public, and I looked at them last night because I was coming here today." Georgij turned round. "You asked me what I thought. That is what I thought. The rest of it is a good terminal built by a man who was told for nine years that it could not be done, and you know that already and do not need it from me."
-
-Chairman Woo looked out at the water.
-
-"Fourteen metres," he said. "In fifty-one years two people have said that to my face and the other one was my wife."
-
----
-
-They went into the office at the end of the shed, which had a heater, one desk, and a photograph of a ship on the wall.
-
-"You want something," said Woo.
-
-"I do."
-
-"Say it before the tea comes. Tea makes it polite and then it takes an hour."
-
-"I want you to stand next to the Kim family." Georgij put both hands on the table. "In public, on paper, and before the end of the year. Not money. Your name beside theirs on something ordinary, so that the people who have left them can see it and come back."
-
-"They are under customs investigation."
-
-"They are, and the container was not theirs, and I can tell you who put it there but not prove it to you today." He did not slow down. "The cancellations are the thing that is actually killing them. Three last week. Customers do not come back for money. They come back because somebody they trust is standing next to you."
-
-"That is my own sentence."
-
-"It is. You said it over soup and I have used it four times since, twice to my employer." Georgij inclined his head. "I did not tell her it was mine."
-
----
-
-Woo sat down heavily, the way a man does when his back has an opinion.
-
-"And what do I get for standing in the road?"
-
-"You die on a Tuesday."
-
-The old man's eyes came up.
-
-"You told me what happens then," said Georgij. "It is sold within a year and split three ways and one of the three is Sang-hoon. You have told one other person that and he lent you the money."
-
-"He did."
-
-"I am not going to lend you anything, Chairman. I have nothing." He said it plainly, because it was true and because the man would hear anything else. "What I have is authority from a woman who does not want this terminal and never will, and who has more reason than anybody in this city to want it out of Park Sang-hoon's hands. I am authorised to offer you two things."
-
 "Go on."
 
-"The first is that the twenty per cent you could not fund in that year, and have owed to a fund in Hong Kong ever since, gets bought out at whatever it takes. You would owe it to her instead, on terms written down where you can read them, with a name at the bottom."
+"He has bitten. He has not swallowed." Georgij turned his hand over. "A man who has bitten still checks, and there is exactly one thing on earth that stops a man checking, and it is watching somebody else reach for the same plate."
 
-Woo said nothing at all.
+"You want a rival bid."
 
-"The second is that if you die on a Tuesday, this goes to one person, at a price fixed now, in a document your lawyers write and mine do not." Georgij turned his hand over. "Sang-hoon gets none of it, and no option on any of it. I am here to give you that, and I would like you to take more of it than you were going to."
-
----
-
-"You have come with an open hand," said Chairman Woo.
-
-"I have."
-
-"Do you know what I said to you about that?"
-
-"You said it is always the man with the open hand." Georgij did not look away. "You said the interesting question is not who put the container there. It is who is standing there six weeks later offering to make it all go away."
-
-"And here you are."
-
-"Here I am, six weeks later, and I am the same shape as him." He said it without any decoration anywhere. "I am not going to tell you I am a different shape. I would be telling you something you can check by looking at me."
-
-"Then tell me the difference."
-
-"He would not have told you it was fourteen metres."
+"I want a rival bid that loses," he said. "And I would like it to lose for a reason that is written down, and that has nothing to do with either of us."
 
 ---
 
-Chairman Woo laughed.
+"How does it lose."
 
-It was a short one and it went on slightly longer than his short one usually did, and it stopped the way a tap stops.
+"You make the offer conditional on a board resolution."
 
-"No," he said. "He would have told me it was the finest thing on this coast, and then he would have priced it at what a defect is worth."
+Annie looked at him.
 
-He put both hands on his knees.
+"There is no board."
 
-"I will stand next to them. Get me a room with the family in it and one of them who can actually sign, and do not put me in a photograph with a politician in it." He held up one finger. "And I will take the Hong Kong twenty. I have wanted that off my books for nine years and I was not going to ask a woman I have met twice."
+"There is a board. It has not met since March and it will not meet, because half of it will not sit in a room with the other half." He did not move. "Every serious buyer in this country would put that condition in. It is what your lawyers would insist on if I had never existed. It is careful, it is ordinary, and it cannot be signed."
 
-"You did not ask. I offered."
+"So I am seen to want it, and I am seen to be sensible, and I fail."
 
-"You offered twice as much as you needed to, and I have been buying men for fifty years and I know what that is." Woo looked at him. "That is a man making certain he does not have to come back and ask again."
+"You fail in writing, at a date, with a reason anybody can read." He let that sit for a second. "And the man who has just spent two days on page fourteen reads it and learns exactly one thing from it. He learns that the only way into that company is over the top of a resolution that cannot be obtained, and that he is willing to do that and you were not."
 
-"It is both," said Georgij.
+"You are teaching him to be reckless."
 
----
-
-The tea came, and it was terrible, and Woo drank two cups of it.
-
-"Now," he said. "The part you did not ask for."
-
-"Chairman."
-
-"Sit down. It costs you nothing and it will cost you a great deal later, and I am seventy-eight and I do not have time to give things to people twice." He set the cup down. "What does she get. Your employer. When the Kims are saved and the family keeps the name and everybody shakes hands. What does she take."
-
-"A veto over routes."
-
-"Say it slower."
-
-"She takes shares, security and a veto over routes," said Georgij. "She does not want the lorries. She wants the two permits that took eleven years to get and that nobody is issuing again."
-
-Chairman Woo nodded slowly, and did not look pleased, and did not look unkind either.
-
-"A veto over routes decides which box goes on which sailing when a sailing is full." He said it the way a man reads out a delivery note. "Those lanes are full nine months of the year. Hyeonjin comes in on them. The Yun group in Ulsan comes in on them and has nothing else. Two smaller ones split the rest."
-
-"I know."
-
-"You know it as a fact. Sit with it as a shape." He put one finger on the table. "She never has to refuse anybody. She never has to explain why a man's cargo went on the Thursday sailing instead of the Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it. Two weeks late in this trade is a broken contract and a cold reactor."
-
-The heater went on making its noise.
-
-"You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does not get a company, so that the woman who owns you ends up with her hand on the throat of everybody else in her own industry. Including two of them who have done nothing to anyone."
+"I am confirming to him that he is the only person prepared to be." Georgij said it without any weight anywhere. "It is the same fact from the other side, and it is true, and I would not be telling him anything I invented."
 
 ---
 
-Georgij did not answer straight away.
+Annie sat with that.
 
-"Yes," he said.
+"And if he does not read it that way."
 
-"You had worked that out."
+"Then you have made a bid you could not complete on a company you did not want, and it cost you legal fees and one afternoon of looking foolish in a small trade." He inclined his head. "That is the whole downside, and you are getting it from me before you find it."
 
-"I had worked out every step of it separately." He was looking at the photograph of the ship. "I had not put them in a row and read them from one end to the other. I have been reading them from the middle."
+"And if the board meets."
 
-"That is how it is always done. Nobody builds a wall. Everybody lays one brick and goes home." Woo poured the last of the tea. "I am not telling you to stop. You are not going to stop and it is not my business, and the Kims are worth saving whatever else comes with it."
+There it was.
 
-"Then why tell me."
+"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a floor under the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
 
-"Because you will find it out in about a year, on a bad day, from somebody who wants something from you." He pushed the cup across. "You will find it out better from me, in a cold office, on a day you got what you came for."
+"You have thought about this since the envelope arrived."
+
+"I thought about it while I was standing at the window being pleased with a man for correcting my work." Georgij put both hands behind his back. "The pleasure was the useful part. It told me what he wants me to feel, and a man does not spend a car journey at half past seven in the morning on a feeling he does not want."
 
 ---
 
-Georgij looked at the old man for a moment.
+"The second thing."
 
-Then he smiled at him, and meant it.
+"Chairman Woo. I want him standing next to the Kims, in public and on paper, before the end of the year." He said it plainly. "The cancellations stop the week he does it, and nothing else stops them."
 
-It was not built for the room and it was not aimed at anything, and there was nothing at the end of it that he wanted. He had come out here for one thing and had it, in writing, before the tea. The rest was a man of seventy-eight spending his own money on a stranger's education.
+"Then offer him money."
 
-"Thank you, Chairman."
+"He has money and he has had it for fifty years and it has never once made him do anything." A small pause. "He owns one thing he cares about. It is a terminal on Yeongjong that he built in ten months after nine years of being told it could not be done, and he is seventy-eight, and he has told me what happens to it when he dies."
 
-"Don't." Woo was already standing up. "I have given you a bad afternoon. Now walk back with me and tell me what else is wrong with my terminal, and be quick about it. It gets dark at five and I am not as steady on that quay as I was in March."
+"Which is."
 
-They walked back along the water.
+"It is sold within a year and split three ways, and one of the three is Sang-hoon." Georgij turned his hand over. "He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
 
-Georgij told him about the drainage on the east side of the shed, which was two things. Chairman Woo argued with him about both of them the whole way to the gate, and enjoyed it more than anything else that had happened that day.
+---
+
+"You want me to buy a terminal."
+
+"No, Mistress. I want you to fill it."
+
+Annie stopped.
+
+"Say that again."
+
+"What a terminal is worth is what goes across it, every week, on a schedule that a bank can look at. The concrete is not the number." He kept both hands behind his back. "Yours goes across somebody's, every week, on a schedule, and it has done for eleven years. I would like to move it, and I would like to commit it for ten."
+
+"Ten years."
+
+"Ten years, minimum volumes, with a number in it that means something." He did not soften it. "That is the most valuable single thing anybody in this city could hand him, and no part of it is a favour. There is no version of it that does not cost you real money if I have judged the throughput wrong."
+
+---
+
+Annie was quiet for a while.
+
+"And that solves the Tuesday."
+
+"It solves the Tuesday without anybody buying anything." He said it carefully, because it was the part he had checked twice. "Three heirs do not sit down and divide a terminal with ten years of contracted volume across it. They run it, because it pays them more running than broken. Sang-hoon does not get a third of it, and nobody has to pay him not to want it, because there is nothing there for him to want."
+
+"He will still take a third of the shares."
+
+"He will take a third of shares in a business under a contract he cannot alter and did not write." Georgij did not move. "That is a different terminal, and very nearly a different trade."
+
+---
+
+"What does it cost me."
+
+"I do not know yet, and that is the honest answer." He said it immediately. "The volumes are yours and the rate is his, and he has been setting terminal rates since before I was born. I would like your authority to agree it in the room."
+
+"How much authority."
+
+"More than I expect to use." Georgij said it without any decoration anywhere. "I am telling you that on purpose, because you would find it out afterwards and then it would be a different conversation. I expect to settle near the middle of what a terminal of that size charges. I would like to be able to go to the top of it without telephoning you."
+
+"Why."
+
+"Because he is seventy-eight and he does not do business on Mondays with people who had to ask."
+
+---
+
+Annie picked the pen up.
+
+"You have both," she said. "The bid and the terminal. Build the bid with Mr Chae and do not let him see the reason for it, and put the terminal in front of me when it has a number."
+
+"Yes, Mistress."
+
+"And Georgij." She was already reading. "You are going out there to give an old man ten years of my cargo and you are going to enjoy doing it."
+
+"I am."
+
+"Then take something with you that he has not asked for," said Annie, "because a man who is enjoying himself gives away the wrong things by accident, and I would rather you gave away the right one on purpose."
+
+---
+
+He went down to the east room and got out the file.
+
+Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have needed an internal approval, and an internal approval has a name at the bottom of it, and not one of the three publishes the name.
+
+That wall had been standing in front of him since October and it was standing there still.
+
+Underneath it, on the inside cover, in his own hand, were three dates that had meant nothing to him for three weeks. A Thursday in June. A Wednesday in September. A Monday last month.
+
+And an account number belonging to a corporate services company in Jung-gu with six employees, which existed so that somebody else did not have to appear on a docket.
+
+He looked at that for a while.
+
+Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to say who was behind him. Chairman Woo had said so at a dinner, in passing, as a thing that annoyed him.
+
+Georgij could not give him a name. He was not going to sit in that office and imply that he could.
+
+But a man who has been offered for twice in one year has been offered for on two dates. Dates are booked. A car that waits outside a building generates a docket, and a docket goes on an account.
+
+He put the account number and the three dates on a single sheet of paper and folded it once and put it in his own pocket, where the notebook was.
+
+It was not a name.
+
+It was the shape of the door the name walks through, and it had cost Annie nothing at all, and Chairman Woo had not asked for it.
