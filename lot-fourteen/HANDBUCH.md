@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 40.254 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 40.283 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1008,7 +1008,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 17** *Who holds the paper* (v12.3) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
-- **Kapitel 16** *Where the walls are* (v1.12) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
+- **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.4) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
@@ -2144,7 +2144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 172 | 17 (01-17) | 1 | 46 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 45 | 7 (10-17) | 22 | 46 |
+| Park Sang-hoon | 46 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 33 | 9 (05-17) | 4 | 46 |
@@ -2516,7 +2516,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-45 Nennungen in 7 Kapiteln.
+46 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2553,6 +2553,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:144 | Sang-hoon put his glass down. |
 | 46 | ch16:162 | Park Sang-hoon looked at him for slightly too long. |
 | 46 | ch16:174 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | ch16:184 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
 | 46 | ch16:194 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
 | 46 | ch16:210 | Sang-hoon did not touch it. |
 | 46 | ch16:220 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
@@ -2578,6 +2579,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:136` (Tag 34) - eighteen, eleven
 - `ch14:148` (Tag 34) - one, three
 - `ch16:174` (Tag 46) - two
+- `ch16:184` (Tag 46) - one, ten
 - `ch16:194` (Tag 46) - eighteen, two
 - `ch16:220` (Tag 46) - four, two
 - `ch16:240` (Tag 46) - one

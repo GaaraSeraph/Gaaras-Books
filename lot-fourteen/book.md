@@ -24,7 +24,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
-| 16 | v1.12 | 3.196 |
+| 16 | v1.13 | 3.196 |
 | 17 | v12.3 | 2.609 |
 
 ---
@@ -4535,7 +4535,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4717,7 +4717,7 @@ Georgij smiled at him, and most of it went where it had gone once before, for an
 
 Nothing was being fetched with it. In an evening in which everything else was work, it was the only thing he did that was not aimed at a result.
 
-"That is the part people get wrong," he said. "They think you buy the company. You are buying the ten minutes in which a man decides that you are the one who understands his position."
+"That is the part people get wrong," said Sang-hoon. "They think you buy the company. You are buying the ten minutes in which a man decides that you are the one who understands his position."
 
 Georgij said very little.
 

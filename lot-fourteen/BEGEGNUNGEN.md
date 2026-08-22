@@ -20,7 +20,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 172 | 17 (01-17) | 1 | 46 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 45 | 7 (10-17) | 22 | 46 |
+| Park Sang-hoon | 46 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 33 | 9 (05-17) | 4 | 46 |
@@ -392,7 +392,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-45 Nennungen in 7 Kapiteln.
+46 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -429,6 +429,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:144 | Sang-hoon put his glass down. |
 | 46 | ch16:162 | Park Sang-hoon looked at him for slightly too long. |
 | 46 | ch16:174 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | ch16:184 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
 | 46 | ch16:194 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
 | 46 | ch16:210 | Sang-hoon did not touch it. |
 | 46 | ch16:220 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
@@ -454,6 +455,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:136` (Tag 34) - eighteen, eleven
 - `ch14:148` (Tag 34) - one, three
 - `ch16:174` (Tag 46) - two
+- `ch16:184` (Tag 46) - one, ten
 - `ch16:194` (Tag 46) - eighteen, two
 - `ch16:220` (Tag 46) - four, two
 - `ch16:240` (Tag 46) - one
