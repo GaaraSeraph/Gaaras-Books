@@ -1,7 +1,7 @@
-Chapter 21: The ones who come at nine
-Lot Fourteen · Version 1.2 · EN
+# Chapter 21: The ones who come at nine
+*Lot Fourteen* · Version 1.3 · EN
 
-Day 49 · Friday 21 November
+*Day 49 · Friday 21 November*
 
 There were four telephones in the house that were not the one in the east room. He used the one in the passage behind the kitchen, because it was the only one nobody had a reason to walk past at half past nine in the morning.
 
@@ -15,7 +15,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 "Then come here. Two o'clock, and eat before you come, because I have nothing in."
 
-* * *
+---
 
 Mr Pyo drove him. It was his week, and he did not need the address.
 
@@ -29,7 +29,7 @@ It was a very good house, kept by a woman who was paying for exactly the parts t
 
 He had the second section on her land in his head, three charges and a little over two thirds, and he put it beside the gutter and left it there.
 
-* * *
+---
 
 She opened her own door.
 
@@ -39,7 +39,7 @@ She opened her own door.
 
 "Give it to me and stop being furniture."
 
-* * *
+---
 
 The room she took him to was at the back, long, with the trees close to the glass on two sides. There was a fireplace that worked and a piano that did not.
 
@@ -51,7 +51,7 @@ He counted the doors before he sat down. Three, and one of them went out to a te
 
 "Say what for," said Hana, "and then I will decide whether to be insulted."
 
-* * *
+---
 
 "I need a house with a family in it, before the end of the year," said Georgij. "Not a hotel and not a restaurant. Somewhere the Kims can be in the same room as Chairman Woo without either of them having driven to a meeting."
 
@@ -69,7 +69,7 @@ Hana sat down.
 
 "No photograph with a politician in it. He has spent fifty-one years not being in those."
 
-* * *
+---
 
 Hana looked at the ceiling for a moment.
 
@@ -83,7 +83,7 @@ Hana looked at the ceiling for a moment.
 
 "Then start with what it costs me."
 
-* * *
+---
 
 "It costs you your house on an evening when nine people under customs investigation are standing in it," said Georgij. "It costs you your name on the invitation. If it goes wrong, the sentence people say afterwards is that Hana had them all round in December, and there is no version of that sentence with me in it anywhere."
 
@@ -95,7 +95,7 @@ Hana put her chin down for a second.
 
 "Good," she said. "You would have been worth less to me by about half."
 
-* * *
+---
 
 "Then here is what a party is," she said, "because you have never given one and it shows.
 
@@ -109,7 +109,7 @@ She turned her glass, which had water in it.
 
 "Ye-rin comes at nine, if she comes."
 
-* * *
+---
 
 Georgij did not say anything for a moment, because a thing had just gone past him and he wanted to catch it before it was out of the room.
 
@@ -117,13 +117,13 @@ Georgij did not say anything for a moment, because a thing had just gone past hi
 
 "Ye-rin comes at nine."
 
-"You said if."
+"You said *if*."
 
-"I said if, and I am going to go on saying if, because I have asked that woman to fourteen things and she has come to two." Hana was entirely level about it. "I will ask her. I will ask her in the way that has worked twice, which is badly, on a Tuesday, with something else as the reason. And then it is hers."
+"I said *if*, and I am going to go on saying *if*, because I have asked that woman to fourteen things and she has come to two." Hana was entirely level about it. "I will ask her. I will ask her in the way that has worked twice, which is badly, on a Tuesday, with something else as the reason. And then it is hers."
 
 "That is what I came for and it is more than I had this morning."
 
-* * *
+---
 
 "Now the list," said Hana. "Not the whole of it, you would be here until Tuesday. The ones you will care about."
 
@@ -135,7 +135,7 @@ Georgij said nothing at all.
 
 He had been saying nothing all afternoon and had been good at it, and this was the one she caught.
 
-* * *
+---
 
 "There," said Hana.
 
@@ -159,7 +159,7 @@ Georgij looked at the trees for a moment.
 
 "That is going to be all of it."
 
-* * *
+---
 
 Hana sat back and looked at him properly for the first time since the hall.
 
@@ -167,7 +167,7 @@ Then she asked the thing that had been under the whole afternoon.
 
 "What is the evening for?"
 
-* * *
+---
 
 He did not answer, and it was not a technique. He was still working out how much of it he could give her when she put one hand up, flat, and it was not a hand that was asking for anything.
 
@@ -181,7 +181,7 @@ He did not answer, and it was not a technique. He was still working out how much
 
 "Because of the man you just refused to say anything about."
 
-* * *
+---
 
 She turned the glass a quarter turn and left it there.
 
@@ -197,7 +197,7 @@ She let that be as flat as it was.
 
 "On the sixteenth I am going to talk for four hours and not know what any of it is doing. I chose that at four o'clock and I would choose it again, and it is still the first time."
 
-* * *
+---
 
 She was quiet for a while, and outside the trees did what trees do in November.
 
@@ -207,7 +207,7 @@ She was quiet for a while, and outside the trees did what trees do in November.
 
 "I know. That is why I can do it."
 
-* * *
+---
 
 The water went round in her glass once more and then she put it on the table and did not pick it up again.
 
@@ -227,7 +227,7 @@ Georgij sat with that for a second longer than he meant to.
 
 "I built it the way I have built it for years, because old men go at nine and useful men arrive at nine, and you do not photograph the second half." She turned her hand over. "Your chairman's condition was met before you asked me for anything. That happens more often than men in your line of work believe."
 
-* * *
+---
 
 Georgij went back through the running order in the order she had given it, and found the hole on the third pass.
 
@@ -247,7 +247,7 @@ Hana got there about a second before he finished.
 
 "She has to see him."
 
-* * *
+---
 
 "Then he stays until half past nine." Hana was already somewhere else with it, and her voice had gone entirely flat and quick. "The photographer is gone by then, so your chairman keeps his condition. And the man from the ministry will be coming up my drive at about the same time, so the two of them will be standing in my hall together for perhaps four minutes."
 
@@ -259,7 +259,7 @@ Georgij did not say anything to that.
 
 "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the invoice so that you do not go home thinking it was free."
 
-* * *
+---
 
 "One more, and then I will let you have your afternoon back."
 
@@ -273,7 +273,7 @@ Georgij did not say anything to that.
 
 "Then you have thought about it and you want me to say the same thing you have already decided, so say it and let me disagree with you."
 
-* * *
+---
 
 "The terrace," said Georgij.
 
@@ -295,7 +295,69 @@ Hana was quiet for a second.
 
 "Do not thank me, I am going to be cold in December for you." She stood up. "And that was the first thing you have asked me today that you had already worked out before you came. I noticed the difference."
 
-* * *
+---
+
+"Then show me the house," said Georgij.
+
+"All of it?"
+
+"All of it, please, and the parts you would not show a guest first."
+
+---
+
+It took forty minutes and she did not hurry any of it.
+
+He went through it the way he had gone through a house on a hill on his first night in this country. Twice. Once for what was there, and once for what could not be seen from where. The difference was the hour, and the owner walking beside him, and her permission in his pocket. And that he said what he was looking at out loud as he went, because she had asked a question with *All of it* in it.
+
+The dining room seats twenty-two and has done since her father. The service corridor runs behind it and comes out by the pantry, which means food and staff never cross the hall. Two staircases. The second one is at the north end and is the one the caterers will use. It is also the only way from the kitchen to the first floor that misses the door of the room the coats will be in.
+
+There is a step down into the garden room that people have been falling off since 1978, and a lamp above it that has been broken for two years.
+
+"That gets mended," said Georgij.
+
+"It gets mended."
+
+---
+
+Upstairs he looked at four rooms and did not go into three of them.
+
+"You can stop being delicate," said Hana. "I said all of it."
+
+"I have seen what I need from the doors."
+
+"Which is what?"
+
+"Which of them lock. Which of them a person could be shown into if the evening went sideways." He said it without any weight at all. "And that your late father's study still has his desk in it and has not been used for anything in some years." "That last one is not my business."
+
+Hana stood in the corridor with her arms folded and looked at him for a moment.
+
+"You are the second person to say that to me in twelve years," she said, "and the first one was married to me."
+
+---
+
+They came back down by the north staircase, and she let him stand in the hall for as long as he wanted, which was about ninety seconds.
+
+Forty people. Three waves. One old man who leaves at half past nine and one civil servant who arrives at half past nine, and about four minutes in this hall where those two facts are in the same room.
+
+He walked the four minutes.
+
+Front door, cloakroom on the left, two paces of nothing, the mouth of the long room on the right. A man coming in stands here while his coat is taken. A man leaving stands there while his is fetched. Between the two positions there is a little under three metres and a stone table with flowers on it.
+
+"Move the table."
+
+"It has been there since my mother."
+
+"Then move the flowers and put something tall on it," said Georgij. "Three metres has to feel like a room. Two men will be in it at the same time and one of them will be very tired."
+
+---
+
+Hana looked at the table, and then at the door, and then back at the table.
+
+"You have just done in forty minutes what my mother's housekeeper used to do in a week," she said.
+
+"Your mother's housekeeper was arranging a party. I am arranging four minutes."
+
+---
 
 Georgij smiled at her then, and meant it, and did not do anything with it.
 
@@ -303,7 +365,7 @@ Georgij smiled at her then, and meant it, and did not do anything with it.
 
 "Don't," said Hana. "You have had four hours of my Friday and you are about to have my December, and I gave you both of them for reasons that are mine."
 
-* * *
+---
 
 He was putting his coat on in the hall when she said it.
 
@@ -317,7 +379,7 @@ He was putting his coat on in the hall when she said it.
 
 "It is not kind at all, it is a report." Hana did not move off the frame. "I have a house with nobody in it on Fridays, and I am fifty-one, and I stopped being careful about saying things out loud a long time ago. So I am going to say one, and you are not going to have to do anything with it."
 
-* * *
+---
 
 Under the collar of his shirt the steel sat where it always sat.
 
@@ -329,7 +391,7 @@ He had not thought about it since the gravel.
 
 "I know," said Georgij. "I am going to answer the one you have not said, because it is a better answer than the one I would give afterwards."
 
-* * *
+---
 
 He picked his gloves off the shelf and did not put them on.
 
@@ -343,7 +405,7 @@ Hana's face did not do anything.
 
 "It is. I would rather go the long way round than say the short thing to you in a hall."
 
-* * *
+---
 
 Hana looked at him for a moment, and then she laughed, and this time it was the real one, and it went on slightly longer than she meant it to.
 
@@ -353,7 +415,7 @@ Hana looked at him for a moment, and then she laughed, and this time it was the 
 
 "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and somebody will have to be standing there when he is."
 
-* * *
+---
 
 Mr Pyo brought the car round.
 

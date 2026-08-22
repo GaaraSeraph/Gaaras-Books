@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-25 Kapitel. 73.026 Woerter.
+25 Kapitel. 73.848 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,11 +29,11 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.2 | 3.489 |
+| 21 | v1.3 | 4.079 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.4 | 2.657 |
 | 24 | v1.4 | 2.653 |
-| 25 | v1.0 | 2.315 |
+| 25 | v1.1 | 2.547 |
 
 ---
 
@@ -6046,7 +6046,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6341,6 +6341,68 @@ Hana was quiet for a second.
 "Thank you."
 
 "Do not thank me, I am going to be cold in December for you." She stood up. "And that was the first thing you have asked me today that you had already worked out before you came. I noticed the difference."
+
+---
+
+"Then show me the house," said Georgij.
+
+"All of it?"
+
+"All of it, please, and the parts you would not show a guest first."
+
+---
+
+It took forty minutes and she did not hurry any of it.
+
+He went through it the way he had gone through a house on a hill on his first night in this country. Twice. Once for what was there, and once for what could not be seen from where. The difference was the hour, and the owner walking beside him, and her permission in his pocket. And that he said what he was looking at out loud as he went, because she had asked a question with *All of it* in it.
+
+The dining room seats twenty-two and has done since her father. The service corridor runs behind it and comes out by the pantry, which means food and staff never cross the hall. Two staircases. The second one is at the north end and is the one the caterers will use. It is also the only way from the kitchen to the first floor that misses the door of the room the coats will be in.
+
+There is a step down into the garden room that people have been falling off since 1978, and a lamp above it that has been broken for two years.
+
+"That gets mended," said Georgij.
+
+"It gets mended."
+
+---
+
+Upstairs he looked at four rooms and did not go into three of them.
+
+"You can stop being delicate," said Hana. "I said all of it."
+
+"I have seen what I need from the doors."
+
+"Which is what?"
+
+"Which of them lock. Which of them a person could be shown into if the evening went sideways." He said it without any weight at all. "And that your late father's study still has his desk in it and has not been used for anything in some years." "That last one is not my business."
+
+Hana stood in the corridor with her arms folded and looked at him for a moment.
+
+"You are the second person to say that to me in twelve years," she said, "and the first one was married to me."
+
+---
+
+They came back down by the north staircase, and she let him stand in the hall for as long as he wanted, which was about ninety seconds.
+
+Forty people. Three waves. One old man who leaves at half past nine and one civil servant who arrives at half past nine, and about four minutes in this hall where those two facts are in the same room.
+
+He walked the four minutes.
+
+Front door, cloakroom on the left, two paces of nothing, the mouth of the long room on the right. A man coming in stands here while his coat is taken. A man leaving stands there while his is fetched. Between the two positions there is a little under three metres and a stone table with flowers on it.
+
+"Move the table."
+
+"It has been there since my mother."
+
+"Then move the flowers and put something tall on it," said Georgij. "Three metres has to feel like a room. Two men will be in it at the same time and one of them will be very tired."
+
+---
+
+Hana looked at the table, and then at the door, and then back at the table.
+
+"You have just done in forty minutes what my mother's housekeeper used to do in a week," she said.
+
+"Your mother's housekeeper was arranging a party. I am arranging four minutes."
 
 ---
 
@@ -7438,7 +7500,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7451,6 +7513,20 @@ Twice he came round a corner and she was in it, and both times they got past eac
 On the stone shelf in the hall there was a flat place beside the bowl. Something small and dark had lain there for eight days in October and had been somewhere else ever since, and since Thursday night it had been in the river.
 
 The collar was where it had always been.
+
+---
+
+He knew the house by now.
+
+Not the way he had known it on the first night, which was three exits, twenty-two lenses and a metre and a half of dead floor under each of them. He knew it the way you know a place you have lived in. Which of the fourteen doors on the ground floor stick in wet weather. That the second floor is four rooms and two of them are shut. That the linen store on the north side has a window nobody has opened since Mrs Ahn started in 2009.
+
+He had not gone looking for any of it. It had simply arrived, the way a house arrives, over fifty-nine days.
+
+There was exactly one thing in it he had never found.
+
+For thirteen days in October a small dark object had not been on the shelf, and had not been anywhere he walked past. Once, after the gala, he had heard a drawer close from the wrong end of a corridor. He had not gone looking then either, which had been a decision, and he had made it at the top of the stairs in about a second and a half.
+
+In fifty-nine days in twelve houses' worth of practice, that was the only object that had ever stayed hidden from him, and it had belonged to the only person who had ever bought him.
 
 ---
 
