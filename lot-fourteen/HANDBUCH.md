@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 39.363 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 39.506 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1712,10 +1712,27 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Bekannte Baustellen, Stand nach Kapitel 17
 
-- **Bandwurmsaetze.** `python3 check.py` zeigt sie, `.check-baseline` haelt den
-  Stand. Kapitel 7 hat sechzehn, Kapitel 13 zwoelf, Kapitel 4, 6, 8 und 9 je elf,
-  Kapitel 3 acht. Kapitel 5, 16 und 17 sind sauber.
-  Reihenfolge: 7, dann 13, dann 8 und 9, dann 4 und 6, dann 3.
+- **Bandwurmsaetze: erledigt, alle siebzehn auf null.** Der Eintrag stand hier
+  noch auf sechzehn in Kapitel 7, zwoelf in Kapitel 13 und je elf in 4, 6, 8 und
+  9. Nachgezaehlt am 22.08. mit derselben Regel, die `check.py` anwendet
+  (Trennung auf `(?<=[.!?"])\s+`, Schwelle vierzig): **null in jedem Kapitel.**
+  Der Rest der Basislinie ist kein Satzlaengenbestand, sondern drei
+  Zahl-Konstanten - eine in Kapitel 6, zwei in Kapitel 12.
+
+  **Wobei ein groesseres Loch auffiel, und das war der eigentliche Fund.** Die
+  Basislinie war nach dem **versionierten Dateinamen** geschluesselt, und
+  `check.py` uebersprang unbekannte Schluessel stillschweigend. Da jede
+  Bearbeitung den Dateinamen aendert, war jedes gerade bearbeitete Kapitel ein
+  unbekannter Schluessel. Die Sperrklinke verglich also ausschliesslich Kapitel,
+  die niemand angefasst hatte - genau die, die nicht schlechter geworden sein
+  koennen. Ein frisch eingebauter Satz mit sechsundsechzig Woertern kam mit
+  `--ratchet` und Rueckgabewert 0 durch.
+
+  Behoben: die Basislinie steht auf **Kapitelnummern**, der Dateiname nur noch
+  als Kommentar dahinter; alte Zeilen werden weiter gelesen. Ein unbekannter
+  Schluessel bedeutet jetzt ein wirklich neues Kapitel und wird gemeldet statt
+  verschluckt. Gegenprobe gefahren: dieselbe Kaputtmachung, die vorher mit 0
+  durchkam, meldet jetzt *Kapitel 16: 0 geduldet, jetzt 1* und gibt 1 zurueck.
 
 - **Das Laecheln in Kapitel 2 bis 6: zwei Stellen gesetzt, der Rest offen.**
   Es fehlte ueber fuenf Kapitel am Stueck, genau dort, wo er das Haus dreht, und

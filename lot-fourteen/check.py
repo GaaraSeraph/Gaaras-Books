@@ -370,15 +370,34 @@ def chapter_state(root, best, fix=False):
 BASELINE = ".check-baseline"
 
 
+def baseline_key(name):
+    """Kapitelnummer als Schluessel, nicht der Dateiname.
+
+    Der Dateiname traegt die Fassung, und die aendert sich bei jeder
+    Bearbeitung. Solange danach geschluesselt wurde, war jedes gerade
+    bearbeitete Kapitel ein unbekannter Schluessel, wurde uebersprungen und
+    kam ungeprueft durch die Sperrklinke. Verglichen wurden nur die Kapitel,
+    die niemand angefasst hatte - also genau die, die nicht schlechter
+    geworden sein koennen.
+    """
+    m = NAME.match(name)
+    return int(m.group(1)) if m else None
+
+
 def read_baseline(root):
     p = os.path.join(root, BASELINE)
     out = {}
     if os.path.exists(p):
         for line in open(p, encoding="utf-8"):
             line = line.split("#")[0].strip()
-            if line:
-                k, v = line.rsplit(None, 1)
-                out[k.strip()] = int(v)
+            if not line:
+                continue
+            k, v = line.rsplit(None, 1)
+            k = k.strip()
+            # Alte Zeilen stehen auf Dateinamen, neue auf Kapitelnummern.
+            key = baseline_key(k) if k.endswith(".md") else int(k)
+            if key is not None:
+                out[key] = int(v)
     return out
 
 
@@ -412,7 +431,9 @@ def main():
     for f in sorted(files):
         key = os.path.basename(f)
         errs, warns = check(f)
-        counts[key] = len(errs)
+        num = baseline_key(key)
+        if num is not None:
+            counts[num] = (len(errs), key)
         if not errs and not warns:
             print(f"{key:<24} sauber")
             continue
@@ -429,18 +450,21 @@ def main():
             fh.write("# Geduldeter Altbestand je Kapitel. Neu schreiben mit "
                      "python3 check.py --baseline\n")
             for k in sorted(counts):
-                fh.write(f"{k}  {counts[k]}\n")
+                n, name = counts[k]
+                fh.write(f"{k:<4}{n}    # {name}\n")
         print(f"\n{BASELINE} geschrieben.")
         sys.exit(0)
 
-    for k, n in sorted(counts.items()):
+    for k, (n, name) in sorted(counts.items()):
         b = base.get(k)
         if b is None:
+            # Wirklich ein neues Kapitel. Nur dann, nicht bei neuer Fassung.
+            print(f"Kapitel {k} steht nicht in der Basislinie ({name}).")
             continue
         if n > b:
-            worse.append(f"{k}: {b} geduldet, jetzt {n}")
+            worse.append(f"Kapitel {k} ({name}): {b} geduldet, jetzt {n}")
         elif n < b:
-            better.append(f"{k}: {b} auf {n}")
+            better.append(f"Kapitel {k} ({name}): {b} auf {n}")
 
     fix = "--sync-state" in flags
     drift = [] if args else chapter_state(root, best, fix=fix)

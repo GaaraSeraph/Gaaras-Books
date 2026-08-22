@@ -1,18 +1,18 @@
 # Geduldeter Altbestand je Kapitel. Neu schreiben mit python3 check.py --baseline
-ch01_v6_4_en.md  0
-ch02_v11_7_en.md  0
-ch03_v2_7_en.md  0
-ch04_v1_9_en.md  0
-ch05_v5_8_en.md  0
-ch06_v1_6_en.md  1
-ch07_v6_4_en.md  0
-ch08_v3_5_en.md  0
-ch09_v3_3_en.md  0
-ch10_v2_3_en.md  0
-ch11_v2_7_en.md  0
-ch12_v1_5_en.md  2
-ch13_v2_4_en.md  0
-ch14_v7_5_en.md  0
-ch15_v2_3_en.md  0
-ch16_v1_10_en.md  0
-ch17_v12_2_en.md  0
+1   0    # ch01_v6_5_en.md
+2   0    # ch02_v11_7_en.md
+3   0    # ch03_v2_7_en.md
+4   0    # ch04_v1_9_en.md
+5   0    # ch05_v5_8_en.md
+6   1    # ch06_v1_6_en.md
+7   0    # ch07_v6_4_en.md
+8   0    # ch08_v3_5_en.md
+9   0    # ch09_v3_3_en.md
+10  0    # ch10_v2_3_en.md
+11  0    # ch11_v2_7_en.md
+12  2    # ch12_v1_5_en.md
+13  0    # ch13_v2_4_en.md
+14  0    # ch14_v7_5_en.md
+15  0    # ch15_v2_3_en.md
+16  0    # ch16_v1_12_en.md
+17  0    # ch17_v12_3_en.md
