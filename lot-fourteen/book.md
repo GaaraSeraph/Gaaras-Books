@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 59.342 Woerter.
+20 Kapitel. 59.336 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -28,7 +28,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 17 | v12.8 | 2.694 |
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
-| 20 | v1.0 | 2.076 |
+| 20 | v1.1 | 2.070 |
 
 ---
 
@@ -5800,7 +5800,7 @@ At the gate he stopped.
 ---
 
 # Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5956,7 +5956,7 @@ Annie sat back in the chair.
 
 "Go on."
 
-"He asked me what you take from the Kims. Not the lorries, he said. Say it." Georgij did not look away. "I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
+"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered." Georgij did not look away. "I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
 
 "And he told you what that is."
 
@@ -5988,7 +5988,7 @@ That was the whole of the question.
 
 "To the part about my hand and everybody's throat."
 
-Georgij did not answer straight away, because there was exactly one true answer and it was one word, and he wanted to be certain he was not about to dress it.
+Georgij did not answer straight away, because there was exactly one true answer and it was one word.
 
 "I said yes."
 
@@ -6014,7 +6014,7 @@ He went down through the hall at ten past nine with the gardeners already at the
 
 A house. Before the end of the year, with a family in it and somebody who could actually sign, and not a hotel, and not his, because he did not have one.
 
-He stood by the stone shelf with the shallow bowl on it and went through everybody he had met in fifty days, in the order he had met them, which took about a minute and a half.
+He stood by the stone shelf with the shallow bowl on it and went through everybody he had met since the auction, in the order he had met them, which took about a minute and a half.
 
 There was one house.
 
@@ -6028,7 +6028,7 @@ A house is a room with a roof on it. Nobody walks a family under customs investi
 
 And a reason has to be one that explains itself. He had said so himself over her desk a fortnight ago: a reason that can be wrong is one somebody goes looking behind.
 
-He stood by the shelf and worked at that for a while, and the answer was so ordinary that he went through it twice looking for what was wrong with it.
+He worked at that for a while, with the gardeners going at the east side, and the answer was so ordinary that he went through it twice looking for what was wrong with it.
 
 People give parties in December.
 
