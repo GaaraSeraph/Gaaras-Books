@@ -201,7 +201,7 @@ HP: 120/120
 MP: 60/60
 STR: 12 (+1)
 DEX: 8 (+1)
-CON: 5
+CON: 6 (+1)
 INT: 12
 WIS: 10
 
@@ -218,7 +218,7 @@ Rank E is the lowest recorded proficiency. Advancement through use.
 
 He read it three times.
 
-Strength and speed had moved on their own. The five had not moved at all. He had swung and dodged and hauled himself over rubble in there, and the only thing he had asked of his endurance was that it hold out, which it had barely done. So the thing paid out on what you were good at. It did not pay out on what you ran short of.
+Strength, speed and wind had each moved by one. The two numbers he had not used in that chamber had not moved at all. So it paid out on what a man spent, and in there he had spent everything he had.
 
 Three free points. A number attached to his own body that went up when he did something correctly. And a rank. The lowest recorded proficiency, the system had been careful to specify, which meant there were others above it, which meant that someone, somewhere, was keeping score for an entire world.
 

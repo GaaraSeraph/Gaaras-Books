@@ -1,0 +1,137 @@
+# Chapter 7: How Did You Know
+
+The village put the fire out before it took the thatch, and then it did not go back indoors. People stood about in their shirts with their tools still in their hands and talked, all at once, the way people talk afterwards.
+
+"Where did they come in? Did anybody see where they came in?"
+
+"Down the road. Straight down the road like a cart."
+
+"They have never come down the road."
+
+"Well, they have now."
+
+"That's what I'm saying. They never have."
+
+Osvald's wife was making a sound up by the pens and two women had hold of her, and a third was walking towards it very fast with an apron on over her nightshirt.
+
+Somebody was sick against a wall and apologised for it.
+
+"Is that all of them? Are there more of them?"
+
+"Ask him. He knew about the first three."
+
+Then Hallvard came down the road with his stick, and the talking stopped in pieces, one group at a time.
+
+Gaara had seen him twice in the dark. Once at the top end, standing in the open when nobody sensible was. And once with the stick, putting the ferrule into the leg joint of a thing coming for a boy, with a movement no farmer there could have made.
+
+He filed it. There had been no time for it then and there was none now.
+
+"How did you know?" Hallvard said.
+
+"I smelled them."
+
+"You smelled them." The old man repeated it the way you repeat a price you have just been given. "Before the dogs. Before any soul in this road. You were out here shouting at the houses before my own dog was off the step."
+
+"He was," said somebody behind the lamps. "I heard him. I got up and looked out and he was stood there on his own in the middle of the road, shouting at us."
+
+"I heard him too. I thought he was drunk."
+
+"And he knew where to stand," said the heavy man with the spear. "He knew where to put the fire, and he knew where they would come through. I watched him do it."
+
+"Quiet," Hallvard said, without heat, and it went quiet. "How."
+
+"Because I have smelled them before. Yesterday morning, in a chamber under that city, close enough to touch." Gaara did not get up. His hand was still under Marit's arm. "It is not a smell you forget."
+
+"And in that chamber you did what?"
+
+He could feel the shape of the next thirty seconds. There was one honest road through it and it went straight downhill.
+
+"I killed two of them. Then I found the nest at the back and I dug through it and took what was in there. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought a ceiling down on the second one." He let it sit. "Their kills go home with them. I emptied the place where they put what they take, killed two of the ones who put it there, and walked here."
+
+Nobody said anything for a moment. Then everybody did.
+
+"He robbed them."
+
+"He robbed their den and then he walked here."
+
+"That's what he said. He said it himself, you all heard him."
+
+"Did you hear what he said, or are you saying what you already thought?"
+
+"Quiet." Hallvard waited until it was. "Did you bring this on us?"
+
+"I can't rule it out."
+
+Solva said his name once, from behind the lamps, in the tone you use when you want a man to stop talking.
+
+He kept going, because the question had been asked in front of forty houses and there is only one thing to do with a question like that.
+
+"I can't prove it either way. They have been coming out since spring and I was not here in spring. That is the only thing on my side and it is thin." "If you want me gone by full light, that is defensible and I would not argue with it. It would not stop them."
+
+"No," said Hallvard. "It would not."
+
+Then Solva came out from behind the lamps, and she was crying, and it did not slow her down at all.
+
+"He told me my son was dead to my face," she said. "Standing about where he is now. He could have kept the boots and said nothing and walked on to the next village, and not one of you would ever have known the difference. That is what a man does when he is hiding something. He did the other thing."
+
+"Solva," said a woman near her.
+
+"No. I will say it. Then I will go and sit with Ingrid, and I will sit with her every night she wants me, because Osvald is dead and that is the worst thing that has happened in this road in my life." She wiped her face with the flat of her hand. "But he did not come up out of the ground in spring. My son did not go in there because of him. The dogs did not go because of him. Nine weeks I asked men in this road to go and look, and this one has been here a day."
+
+She stopped, and nobody filled it.
+
+Hallvard looked for a while at Osvald, and at the four people it had taken to carry him out of the road.
+
+"Bern," he said. "Get the door off the byre. He can go on that."
+
+Then he came the rest of the way down and stood over Gaara and Marit, and his voice dropped out of the range where forty houses could hear it.
+
+"You were right about the road," he said. "Straight, narrow, walled. Nobody else in this village would have seen a killing ground in it."
+
+"It cost a man."
+
+"It cost a man because you stood in the middle of it on your own." Hallvard was not angry. That was the worst part. "You had eighty people out here with tools in their hands. You used two."
+
+Gaara said nothing.
+
+He had not thought of them as eighty people. He had thought of them as the space behind him, and he had checked it for one man.
+
+"Marit," Hallvard said.
+
+"I'm awake."
+
+"You are not going anywhere near that place."
+
+"No," she agreed, in exactly the voice she had used to tell him to carry the wood. "Get me up."
+
+Nobody got her up. She did it herself, slowly, with the wall, and it took long enough that two people looked away.
+
+Gaara stood with her.
+
+"First light was the arrangement," he said. "It's first light."
+
+"You have a dead man in the road."
+
+"You have four gone since spring and a fifth in the road, and it came down that road tonight, and it will come down it again." He said it flatly, because there was no version of it that was kind. "I said I would go in and bring you proof and find out why. The proof is at your feet and I would rather not wait for the next one."
+
+Hallvard looked at him for a long moment.
+
+"Three days of bread," he said. "You have that."
+
+"I have that."
+
+"Then go, and be quick, because I have this village to talk to before noon. There is one house fewer in it than there was yesterday, and I do not know yet what I am going to tell them."
+
+They went out through the north gate while the village was still carrying Osvald in off the road. The mist was in the low ground, lying in the hollows in long white bands.
+
+Marit walked with her right arm strapped across her body and her hatchet in her left hand.
+
+"You'll slow me down," Gaara said.
+
+"Yes."
+
+"You know what happens if it goes wrong in there and I have to choose."
+
+"I know what happened out here when you didn't have to."
+
+He had nothing for that. He carried it north with him, up the paved road, toward the place the water came from.

@@ -27,7 +27,7 @@ Hallvard, elder of Oldstep, NO PANEL
 - Made Gaara sleep in the byre as a precaution.
 - In the ch6 fight: stood in the open where nobody sensible stood, and put the
   ferrule of his stick into a leg joint with a precision no farmer there had.
-- Afterwards, out of earshot of the village: "You were right about the road.
+- Afterwards in ch7, out of earshot of the village: "You were right about the road.
   Nobody else in this village would have seen a killing ground in it." Then:
   "It cost a man because you stood in the middle of it on your own. You had a
   village. You used two." He was not angry, which was the worst part.

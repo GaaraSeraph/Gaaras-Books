@@ -2,18 +2,19 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-6 Kapitel. 14.424 Woerter.
+7 Kapitel. 14.423 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
 | Kap | Titel | Woerter |
 |---|---|---|
 | 01 | Chapter 1: Awakening in Ash | 2.499 |
-| 02 | Chapter 2: First Blood. First Skill | 2.511 |
-| 03 | Chapter 3: Dead Man's Boots | 2.466 |
+| 02 | Chapter 2: First Blood. First Skill | 2.485 |
+| 03 | Chapter 3: Dead Man's Boots | 2.481 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: How Did You Know | 3.079 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 1.730 |
+| 07 | Chapter 7: How Did You Know | 1.359 |
 
 ---
 
@@ -468,7 +469,7 @@ HP: 120/120
 MP: 60/60
 STR: 12 (+1)
 DEX: 8 (+1)
-CON: 5
+CON: 6 (+1)
 INT: 12
 WIS: 10
 
@@ -485,7 +486,7 @@ Rank E is the lowest recorded proficiency. Advancement through use.
 
 He read it three times.
 
-Strength and speed had moved on their own. The five had not moved at all. He had swung and dodged and hauled himself over rubble in there, and the only thing he had asked of his endurance was that it hold out, which it had barely done. So the thing paid out on what you were good at. It did not pay out on what you ran short of.
+Strength, speed and wind had each moved by one. The two numbers he had not used in that chamber had not moved at all. So it paid out on what a man spent, and in there he had spent everything he had.
 
 Three free points. A number attached to his own body that went up when he did something correctly. And a rank. The lowest recorded proficiency, the system had been careful to specify, which meant there were others above it, which meant that someone, somewhere, was keeping score for an entire world.
 
@@ -599,7 +600,7 @@ DEX decided whether he won a fight. CON decided whether he was still standing wh
 
 And under all of that, quiet and patient, sat the other reason.
 
-Five. The number that had run his life. The number that put a machine on his nightstand, turned stairs into a decision, and made a body that could press a hundred and forty kilos fold up like a deckchair after nine hours of work. Every single thing he had lost, he had lost through that number. The company had died of it. So had he, more or less, just slowly enough to be embarrassing.
+Five. The level up had made it a six and the six meant nothing. Five was the number that had run his life. The number that put a machine on his nightstand, turned stairs into a decision, and made a body that could press a hundred and forty kilos fold up like a deckchair after nine hours of work. Every single thing he had lost, he had lost through that number. The company had died of it. So had he, more or less, just slowly enough to be embarrassing.
 
 He sat with that for a moment, because it made him suspicious. He wanted this answer. Wanting an answer was usually how you got a bad one.
 
@@ -612,7 +613,7 @@ He put all three into CON.
 
 [ ATTRIBUTES UPDATED ]
 
-CON: 5 to 8
+CON: 6 to 9
 HP: 120 to 165
 Recovery rate increased.
 
@@ -893,7 +894,7 @@ He looked at the bundle. It was substantial.
 
 He carried the wood.
 
-It was heavier than it looked and the strap cut into his shoulder and about twenty minutes in he discovered that a body with CON 8 still complains, it just complains from further away. He kept up. That fact alone kept him quiet and privately delighted for most of the walk.
+It was heavier than it looked and the strap cut into his shoulder and about twenty minutes in he discovered that a body with CON 9 still complains, it just complains from further away. He kept up. That fact alone kept him quiet and privately delighted for most of the walk.
 
 She talked, when he asked. Not much, and never about herself.
 
@@ -1137,7 +1138,7 @@ He watched the elder turn in at the last house and close the door.
 
 ---
 
-# Chapter 6: How Did You Know
+# Chapter 6: Every Plan I Make Is for One
 
 The byre had four goats in it and smelled accordingly.
 
@@ -1314,6 +1315,10 @@ Whatever was worth having was further in.
 "Later," he said, to nothing in particular.
 
 The panel stayed where it always stayed.
+
+---
+
+# Chapter 7: How Did You Know
 
 The village put the fire out before it took the thatch, and then it did not go back indoors. People stood about in their shirts with their tools still in their hands and talked, all at once, the way people talk afterwards.
 

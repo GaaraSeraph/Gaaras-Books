@@ -78,7 +78,7 @@ DEX decided whether he won a fight. CON decided whether he was still standing wh
 
 And under all of that, quiet and patient, sat the other reason.
 
-Five. The number that had run his life. The number that put a machine on his nightstand, turned stairs into a decision, and made a body that could press a hundred and forty kilos fold up like a deckchair after nine hours of work. Every single thing he had lost, he had lost through that number. The company had died of it. So had he, more or less, just slowly enough to be embarrassing.
+Five. The level up had made it a six and the six meant nothing. Five was the number that had run his life. The number that put a machine on his nightstand, turned stairs into a decision, and made a body that could press a hundred and forty kilos fold up like a deckchair after nine hours of work. Every single thing he had lost, he had lost through that number. The company had died of it. So had he, more or less, just slowly enough to be embarrassing.
 
 He sat with that for a moment, because it made him suspicious. He wanted this answer. Wanting an answer was usually how you got a bad one.
 
@@ -91,7 +91,7 @@ He put all three into CON.
 
 [ ATTRIBUTES UPDATED ]
 
-CON: 5 to 8
+CON: 6 to 9
 HP: 120 to 165
 Recovery rate increased.
 

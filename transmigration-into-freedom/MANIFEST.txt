@@ -1,11 +1,12 @@
 # Erzeugt von build.py. Ergebnis, nicht Eingabe.
 
 ch01    2499 Woerter  ch01-awakening-in-ash.md
-ch02    2511 Woerter  ch02-first-blood-first-skill.md
-ch03    2466 Woerter  ch03-dead-mans-boots.md
+ch02    2485 Woerter  ch02-first-blood-first-skill.md
+ch03    2481 Woerter  ch03-dead-mans-boots.md
 ch04    2172 Woerter  ch04-liars-decorate.md
 ch05    1697 Woerter  ch05-the-lamp-goes-out.md
-ch06    3079 Woerter  ch06-how-did-you-know.md
+ch06    1730 Woerter  ch06-every-plan-i-make-is-for-one.md
+ch07    1359 Woerter  ch07-how-did-you-know.md
 
-Gesamt: 6 Kapitel, 14424 Woerter
+Gesamt: 7 Kapitel, 14423 Woerter
 Handbuch: 4 Dokumente

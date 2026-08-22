@@ -22,6 +22,25 @@ never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
 
+=== The attack chapter was split in two ===
+Once the villagers were written as villagers - talking over each other, asking
+the same question twice, arguing about the stranger instead of looking north -
+the chapter ran to 3079 words against a target of 2500. The narration had
+already been cut; everything left to cut was the dialogue that had just been
+added on purpose. The author chose to split rather than to trim.
+The seam was already there. Chapter 6, Every Plan I Make Is for One, is the
+attack: the smell, the doors that open and do nothing, Marit's cry, the road as
+a killing ground, the twelve feet he checked for one man, and it ends on the
+panel opening over the dead man to hand him a name. Chapter 7, How Did You Know,
+is the reckoning: the village talking afterwards, Hallvard's questions, the
+confession about the nest, Solva in the road, and the walk north. 1730 and 1359
+words. Both are chapters with their own question and their own turn, which is
+the test that matters.
+The title of the old ch7 plan, Every Plan I Make Is for One, turned out to be
+the exact title of the attack chapter, so it moved up. The ruin becomes ch8.
+General rule now in CLAUDE.md: when dialogue pushes a chapter over the target,
+look for the seam before cutting the talk.
+
 === Chapter 6 was thrown away and rebuilt as an attack ===
 The first Chapter 6 was a preparation chapter: a night in the byre, four
 witnesses delivering information, a map drawn in the dirt, and Marit at the gate
@@ -145,16 +164,23 @@ filing category") and were rewritten as concrete memory or plain description.
 The split is the point: the jokes are HIS and they characterise him; the
 metaphors are the narrator's and they make the book sound like a business book.
 
-=== Level 2 raises only what he used ===
-ch2's level-up block granted +1 CON, and ch3's [ ATTRIBUTES UPDATED ] then
-computed from CON 5. Both cannot be true. Fixed at the ch2 end: the level
-raises STR and DEX, the two he actually used, and leaves CON alone, plus 3 free
-points. Chosen over correcting ch3 because ch3's whole decision scene leans on
-the number five ("the number that had run his life"), and because it turns a
-bookkeeping error into a system rule worth having: the system pays out on use,
-not on need, which is exactly why he has to spend his own points on endurance.
-check.py now verifies that an "X: a to b" block starts where the previous
-chapter ended, so this class cannot recur silently.
+=== CON is 9: five, plus one from the level, plus three spent ===
+ch2's level-up block granted +1 CON while ch3's [ ATTRIBUTES UPDATED ] computed
+from CON 5. Both could not be true. Two fixes were possible and the wrong one
+was taken first: the +1 was stripped out of ch2 so that ch3's "5 to 8" would
+stand. The author corrected it - the intended reading was always 5 + 1 + 3 = 9,
+and stripping the +1 quietly overwrote his arithmetic to save a line of prose.
+Final: ch2 raises STR, DEX and CON by one each (the three he used in that
+chamber; INT and WIS do not move), and ch3 reads CON 6 to 9. That keeps the
+rule that was worth having - it pays out on what a man spends, not on what he
+needs - and it makes ch3's decision sharper rather than weaker, because one
+charitable point of endurance changes nothing and he knows it. The line in ch3
+now says so.
+Lesson for the class, not just this instance: when a contradiction has two
+repairs and one of them silently changes a number the author chose, that is not
+a tidy-up, it is a decision, and it belongs to him.
+check.py verifies that an "X: a to b" block starts where the previous chapter
+ended, so the contradiction itself cannot recur silently.
 
 === World laws are discovered in-story, not pre-legislated ===
 The bible had claimed a hard world law - "technology stays medieval, permanently,

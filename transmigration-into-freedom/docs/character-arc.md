@@ -19,27 +19,32 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 7: The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
 In ch6 the bill is presented and somebody else pays it. He builds a good plan in
 two seconds with exactly one body in it, and the empty ground he counted on was
 only empty of him.
 Status: cracked, and named out loud by Hallvard.
 
-Stage 3, Chapters 7 to 12: Dependency as a live cost.
+Stage 3, Chapters 8 to 13: Dependency as a live cost.
+NOTE: the milestone below landed EARLY, in ch6 and ch7, and it landed on a
+village rather than on Marit. Do not spend it twice. What is still owed is the
+other half: him planning a fight around another person ON PURPOSE, and hating
+it. He has now paid for planning around nobody. He has not yet chosen to plan
+around somebody.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
 Milestone: he plans a fight around Marit rather than around himself, on purpose, and hates it.
 
-Stage 4, Chapters 13 to 20: Building something with people in it.
+Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
 Counter-pressure: someone fails him, badly, and the old rule gets its best evidence in years.
 
-Stage 5, Chapters 21 to 30: Politics again, with swords.
+Stage 5, Chapters 22 to 31: Politics again, with swords.
 Whatever is above the village level, a lord, a guild, a faction, runs on exactly the machine he fled. This is where his 39 companies pay off as a weapon rather than as a wound. He is the only person in the room who has seen this pattern two hundred times.
 Milestone: he wins something through the politics he despises, and has to decide who he becomes if he is good at it.
 
-Stage 6, Chapters 31 to 35: Control, redefined.
+Stage 6, Chapters 32 to 35: Control, redefined.
 Not "nobody can take it from me" but "it does not collapse if I fall over." The version of control his old life never allowed him.
 
 
@@ -95,16 +100,18 @@ blocks with the same field names.
 
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
 Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON stays 5 - the
-level raised only what he used. HP 120, MP 60, 3 unspent points. Skill: Dagger
+level raised STR, DEX and CON by one each. HP 120, MP 60, 3 unspent points. Skill: Dagger
 Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
-Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
+Chapter 3: 3 points into CON. CON 6 to 9, HP 120 to 165 (15 HP per CON point). He started at 5, the level gave one, he spent three: 5 + 1 + 3 = 9. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
 Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
 in total, and the system gives him nothing - because two crawlers were a level's
-worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 8,
+worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 7: no mechanical change. No panel at all except the one he does not get.
+Gear unchanged, three days of bread confirmed, and Marit leaves with him hurt.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not

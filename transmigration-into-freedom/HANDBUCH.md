@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 9.262 Woerter.
+Kanon: 7 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 9.869 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -44,7 +44,7 @@ Hallvard, elder of Oldstep, NO PANEL
 - Made Gaara sleep in the byre as a precaution.
 - In the ch6 fight: stood in the open where nobody sensible stood, and put the
   ferrule of his stick into a leg joint with a precision no farmer there had.
-- Afterwards, out of earshot of the village: "You were right about the road.
+- Afterwards in ch7, out of earshot of the village: "You were right about the road.
   Nobody else in this village would have seen a killing ground in it." Then:
   "It cost a man because you stood in the middle of it on your own. You had a
   village. You used two." He was not angry, which was the worst part.
@@ -105,27 +105,32 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 7: The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
 In ch6 the bill is presented and somebody else pays it. He builds a good plan in
 two seconds with exactly one body in it, and the empty ground he counted on was
 only empty of him.
 Status: cracked, and named out loud by Hallvard.
 
-Stage 3, Chapters 7 to 12: Dependency as a live cost.
+Stage 3, Chapters 8 to 13: Dependency as a live cost.
+NOTE: the milestone below landed EARLY, in ch6 and ch7, and it landed on a
+village rather than on Marit. Do not spend it twice. What is still owed is the
+other half: him planning a fight around another person ON PURPOSE, and hating
+it. He has now paid for planning around nobody. He has not yet chosen to plan
+around somebody.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
 Milestone: he plans a fight around Marit rather than around himself, on purpose, and hates it.
 
-Stage 4, Chapters 13 to 20: Building something with people in it.
+Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
 Counter-pressure: someone fails him, badly, and the old rule gets its best evidence in years.
 
-Stage 5, Chapters 21 to 30: Politics again, with swords.
+Stage 5, Chapters 22 to 31: Politics again, with swords.
 Whatever is above the village level, a lord, a guild, a faction, runs on exactly the machine he fled. This is where his 39 companies pay off as a weapon rather than as a wound. He is the only person in the room who has seen this pattern two hundred times.
 Milestone: he wins something through the politics he despises, and has to decide who he becomes if he is good at it.
 
-Stage 6, Chapters 31 to 35: Control, redefined.
+Stage 6, Chapters 32 to 35: Control, redefined.
 Not "nobody can take it from me" but "it does not collapse if I fall over." The version of control his old life never allowed him.
 
 
@@ -181,16 +186,18 @@ blocks with the same field names.
 
 Chapter 1: Level 1. STR 11, DEX 7, CON 5, INT 12, WIS 10. HP 100, MP 50. Class None. No skills. Barefoot, unarmed.
 Chapter 2: Level 2 after two Gloom Crawlers. STR 12, DEX 8, CON stays 5 - the
-level raised only what he used. HP 120, MP 60, 3 unspent points. Skill: Dagger
+level raised STR, DEX and CON by one each. HP 120, MP 60, 3 unspent points. Skill: Dagger
 Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
-Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
+Chapter 3: 3 points into CON. CON 6 to 9, HP 120 to 165 (15 HP per CON point). He started at 5, the level gave one, he spent three: 5 + 1 + 3 = 9. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
 Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
 in total, and the system gives him nothing - because two crawlers were a level's
-worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 8,
+worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 7: no mechanical change. No panel at all except the one he does not get.
+Gear unchanged, three days of bread confirmed, and Marit leaves with him hurt.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -261,6 +268,25 @@ Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
 never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
+
+=== The attack chapter was split in two ===
+Once the villagers were written as villagers - talking over each other, asking
+the same question twice, arguing about the stranger instead of looking north -
+the chapter ran to 3079 words against a target of 2500. The narration had
+already been cut; everything left to cut was the dialogue that had just been
+added on purpose. The author chose to split rather than to trim.
+The seam was already there. Chapter 6, Every Plan I Make Is for One, is the
+attack: the smell, the doors that open and do nothing, Marit's cry, the road as
+a killing ground, the twelve feet he checked for one man, and it ends on the
+panel opening over the dead man to hand him a name. Chapter 7, How Did You Know,
+is the reckoning: the village talking afterwards, Hallvard's questions, the
+confession about the nest, Solva in the road, and the walk north. 1730 and 1359
+words. Both are chapters with their own question and their own turn, which is
+the test that matters.
+The title of the old ch7 plan, Every Plan I Make Is for One, turned out to be
+the exact title of the attack chapter, so it moved up. The ruin becomes ch8.
+General rule now in CLAUDE.md: when dialogue pushes a chapter over the target,
+look for the seam before cutting the talk.
 
 === Chapter 6 was thrown away and rebuilt as an attack ===
 The first Chapter 6 was a preparation chapter: a night in the byre, four
@@ -385,16 +411,23 @@ filing category") and were rewritten as concrete memory or plain description.
 The split is the point: the jokes are HIS and they characterise him; the
 metaphors are the narrator's and they make the book sound like a business book.
 
-=== Level 2 raises only what he used ===
-ch2's level-up block granted +1 CON, and ch3's [ ATTRIBUTES UPDATED ] then
-computed from CON 5. Both cannot be true. Fixed at the ch2 end: the level
-raises STR and DEX, the two he actually used, and leaves CON alone, plus 3 free
-points. Chosen over correcting ch3 because ch3's whole decision scene leans on
-the number five ("the number that had run his life"), and because it turns a
-bookkeeping error into a system rule worth having: the system pays out on use,
-not on need, which is exactly why he has to spend his own points on endurance.
-check.py now verifies that an "X: a to b" block starts where the previous
-chapter ended, so this class cannot recur silently.
+=== CON is 9: five, plus one from the level, plus three spent ===
+ch2's level-up block granted +1 CON while ch3's [ ATTRIBUTES UPDATED ] computed
+from CON 5. Both could not be true. Two fixes were possible and the wrong one
+was taken first: the +1 was stripped out of ch2 so that ch3's "5 to 8" would
+stand. The author corrected it - the intended reading was always 5 + 1 + 3 = 9,
+and stripping the +1 quietly overwrote his arithmetic to save a line of prose.
+Final: ch2 raises STR, DEX and CON by one each (the three he used in that
+chamber; INT and WIS do not move), and ch3 reads CON 6 to 9. That keeps the
+rule that was worth having - it pays out on what a man spends, not on what he
+needs - and it makes ch3's decision sharper rather than weaker, because one
+charitable point of endurance changes nothing and he knows it. The line in ch3
+now says so.
+Lesson for the class, not just this instance: when a contradiction has two
+repairs and one of them silently changes a number the author chose, that is not
+a tidy-up, it is a decision, and it belongs to him.
+check.py verifies that an "X: a to b" block starts where the previous chapter
+ended, so the contradiction itself cannot recur silently.
 
 === World laws are discovered in-story, not pre-legislated ===
 The bible had claimed a hard world law - "technology stays medieval, permanently,
@@ -476,10 +509,11 @@ nicht diese Zeile von Hand.
 3. Dead Man's Boots
 4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
-6. How Did You Know
-7. Every Plan I Make Is for One (planned)
-8. What Opened in Spring (planned)
-9. A Name for the Knife (planned)
+6. Every Plan I Make Is for One
+7. How Did You Know
+8. They Were Running Too (planned - the ruin, the drain, the stick in the dust)
+9. What Opened in Spring (planned)
+10. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -582,7 +616,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 6). The story tags include Smut; the
+  No romance has started (as of Chapter 7). The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -597,9 +631,13 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch1) Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Load-bearing for all future numbers.
 - (ch1) MP exists (50, later 60) and has never been used. No magic seen yet.
 - (ch2) Levels come from kills. Level 2 gave 3 free attribute points, and on
-  top of that raised STR and DEX by one each - the two he had actually used.
-  CON did not move. Gaara reads it as a payout on use, not on need, and that
-  is why he spends all three free points on the number the system ignored.
+  top of that raised STR, DEX and CON by one each - the three he had actually
+  spent in that chamber. INT and WIS did not move. So it pays out on what a man
+  uses, not on what he needs, and a single free point of endurance changes
+  nothing about a body that has been failing for twenty years. That is why he
+  then puts all three of his own points into the same number.
+  The arithmetic, because it has gone wrong twice: CON 5 at the start, 6 after
+  the level (ch2), 9 after he spends (ch3). 5 + 1 + 3.
 - (ch2) Skills are earned by meeting conditions, not chosen. Ranks are lettered; E is stated as "the lowest recorded proficiency," which tells him someone is keeping score for an entire world.
 - (ch3) Item assessment comes through the relevant skill (Dagger Mastery reads a blade's material, wear, and what it can be trusted to cut).
 - (ch3) Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head. Reading is untested; the coins' script is still unreadable.
@@ -659,7 +697,7 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-The night they came into Oldstep (ch6)
+The night they came into Oldstep (ch6, and its reckoning in ch7)
 - On Gaara's first night in the village, three Gloom Crawlers came down the old
   paved road into Oldstep itself. Not by water, not at a ford: into the road,
   between the houses. First time in living memory.
@@ -671,11 +709,16 @@ The night they came into Oldstep (ch6)
 - Losses: an unnamed man with a hoe, killed. Marit cut across the right forearm
   and under the arm into the ribs. Gaara killed two, villagers finished the
   third with axes.
-- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest two days
-  earlier, took boots, belt, pouch, firestone and coins out of it, and killed
-  two of them. Their kills go home with them. Asked in front of the whole
-  village whether he brought this on them, he said he cannot rule it out,
-  because he cannot and he does not lie. Do NOT resolve this cheaply either way.
+- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest the morning
+  before, took boots, belt, pouch, firestone and coins out of it, and killed two
+  of them. Their kills go home with them. In ch7 Hallvard asks him in front of
+  the whole village whether he brought this on them, and he says he cannot rule
+  it out, because he cannot and he does not lie. Do NOT resolve this cheaply
+  either way.
+- (ch7) The village does not drive him out and does not forgive him either. It
+  splits again, differently: Solva speaks for him in the road while crying, and
+  says in the same breath that Osvald is dead and that he did not come up out of
+  the ground in spring. Hallvard lets the deal stand.
 
 The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
@@ -731,10 +774,11 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
 12. He plans for one body on the field, and it is his own. In ch6 he deliberately
     let the big one through into twelve feet of road he had checked and found
-    empty. It was empty of everyone except the people who live there. A man died
-    in it and Marit was hurt pulling him out. Hallvard, quietly, afterwards: you
-    had a village, you used two. This is the live cost of the self-reliance rule
-    and it is now on the page, not in a plan.
+    empty. It was empty of everyone except the people who live there. Osvald died
+    in it and Marit was hurt pulling him out. In ch7, quietly and without anger,
+    Hallvard names it: you had eighty people out here with tools in their hands,
+    you used two. This is the live cost of the self-reliance rule and it is on
+    the page now, not in a plan.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
@@ -756,10 +800,10 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
-18. Hallvard in the dark. He stood in the open where nobody sensible stood, and
-    put the ferrule of his stick into a leg joint with a movement no farmer in
-    that road could have made. Gaara saw it, had no time for it, and filed it.
-    Sits directly beside thread 11 (no panel).
+18. Hallvard in the dark (seen in ch6, recalled in ch7). He stood in the open
+    where nobody sensible stood, and put the ferrule of his stick into a leg
+    joint with a movement no farmer in that road could have made. Gaara saw it,
+    had no time for it, and filed it. Sits directly beside thread 11 (no panel).
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.

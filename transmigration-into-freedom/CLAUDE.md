@@ -45,7 +45,11 @@ Versioning is handled by git now, not by filename suffixes.
 
 ## Length
 
-Target under 2500 words per chapter. Chapters 5 and 6 run shorter and that is fine.
+Target under 2500 words per chapter. Several run shorter and that is fine.
+A chapter with a crowd in it costs words: villagers talk over each other, ask
+the same question twice and say unhelpful things, because that is what people
+do. If dialogue pushes a chapter over the target, look for the seam and split
+it rather than cutting the talk. That is how 6 became 6 and 7.
 
 ## Voice
 

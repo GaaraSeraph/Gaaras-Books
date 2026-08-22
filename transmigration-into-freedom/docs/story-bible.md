@@ -11,10 +11,11 @@ nicht diese Zeile von Hand.
 3. Dead Man's Boots
 4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
-6. How Did You Know
-7. Every Plan I Make Is for One (planned)
-8. What Opened in Spring (planned)
-9. A Name for the Knife (planned)
+6. Every Plan I Make Is for One
+7. How Did You Know
+8. They Were Running Too (planned - the ruin, the drain, the stick in the dust)
+9. What Opened in Spring (planned)
+10. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -117,7 +118,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 6). The story tags include Smut; the
+  No romance has started (as of Chapter 7). The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -132,9 +133,13 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch1) Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Load-bearing for all future numbers.
 - (ch1) MP exists (50, later 60) and has never been used. No magic seen yet.
 - (ch2) Levels come from kills. Level 2 gave 3 free attribute points, and on
-  top of that raised STR and DEX by one each - the two he had actually used.
-  CON did not move. Gaara reads it as a payout on use, not on need, and that
-  is why he spends all three free points on the number the system ignored.
+  top of that raised STR, DEX and CON by one each - the three he had actually
+  spent in that chamber. INT and WIS did not move. So it pays out on what a man
+  uses, not on what he needs, and a single free point of endurance changes
+  nothing about a body that has been failing for twenty years. That is why he
+  then puts all three of his own points into the same number.
+  The arithmetic, because it has gone wrong twice: CON 5 at the start, 6 after
+  the level (ch2), 9 after he spends (ch3). 5 + 1 + 3.
 - (ch2) Skills are earned by meeting conditions, not chosen. Ranks are lettered; E is stated as "the lowest recorded proficiency," which tells him someone is keeping score for an entire world.
 - (ch3) Item assessment comes through the relevant skill (Dagger Mastery reads a blade's material, wear, and what it can be trusted to cut).
 - (ch3) Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head. Reading is untested; the coins' script is still unreadable.
@@ -194,7 +199,7 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-The night they came into Oldstep (ch6)
+The night they came into Oldstep (ch6, and its reckoning in ch7)
 - On Gaara's first night in the village, three Gloom Crawlers came down the old
   paved road into Oldstep itself. Not by water, not at a ford: into the road,
   between the houses. First time in living memory.
@@ -206,11 +211,16 @@ The night they came into Oldstep (ch6)
 - Losses: an unnamed man with a hoe, killed. Marit cut across the right forearm
   and under the arm into the ribs. Gaara killed two, villagers finished the
   third with axes.
-- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest two days
-  earlier, took boots, belt, pouch, firestone and coins out of it, and killed
-  two of them. Their kills go home with them. Asked in front of the whole
-  village whether he brought this on them, he said he cannot rule it out,
-  because he cannot and he does not lie. Do NOT resolve this cheaply either way.
+- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest the morning
+  before, took boots, belt, pouch, firestone and coins out of it, and killed two
+  of them. Their kills go home with them. In ch7 Hallvard asks him in front of
+  the whole village whether he brought this on them, and he says he cannot rule
+  it out, because he cannot and he does not lie. Do NOT resolve this cheaply
+  either way.
+- (ch7) The village does not drive him out and does not forgive him either. It
+  splits again, differently: Solva speaks for him in the road while crying, and
+  says in the same breath that Osvald is dead and that he did not come up out of
+  the ground in spring. Hallvard lets the deal stand.
 
 The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
@@ -266,10 +276,11 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
 12. He plans for one body on the field, and it is his own. In ch6 he deliberately
     let the big one through into twelve feet of road he had checked and found
-    empty. It was empty of everyone except the people who live there. A man died
-    in it and Marit was hurt pulling him out. Hallvard, quietly, afterwards: you
-    had a village, you used two. This is the live cost of the self-reliance rule
-    and it is now on the page, not in a plan.
+    empty. It was empty of everyone except the people who live there. Osvald died
+    in it and Marit was hurt pulling him out. In ch7, quietly and without anger,
+    Hallvard names it: you had eighty people out here with tools in their hands,
+    you used two. This is the live cost of the self-reliance rule and it is on
+    the page now, not in a plan.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
@@ -291,10 +302,10 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
-18. Hallvard in the dark. He stood in the open where nobody sensible stood, and
-    put the ferrule of his stick into a leg joint with a movement no farmer in
-    that road could have made. Gaara saw it, had no time for it, and filed it.
-    Sits directly beside thread 11 (no panel).
+18. Hallvard in the dark (seen in ch6, recalled in ch7). He stood in the open
+    where nobody sensible stood, and put the ferrule of his stick into a leg
+    joint with a movement no farmer in that road could have made. Gaara saw it,
+    had no time for it, and filed it. Sits directly beside thread 11 (no panel).
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.
