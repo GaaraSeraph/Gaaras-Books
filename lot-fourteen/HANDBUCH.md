@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 62.187 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 62.329 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1404,7 +1404,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.2) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -1420,7 +1420,13 @@ der nicht zurückblättert.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-  **Ye-rin hat nicht zugesagt.** Sie hat gesagt, sie lasse es wissen - so wie vierzehn Mal davor, und so wie bei den zwei Malen, an denen sie kam.
+  **Hana hat Ye-rin NICHT gefragt, und das ist der Punkt.** In Kapitel 21 hat sie einen Dienstag angekuendigt; seither sind drei vergangen und sie hat alle drei verstreichen lassen. Am 25. hatte sie eine Party. Am 2. eine Party und eine Gaesteliste. Am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie hat zehn Minuten mit dem Telefon in der Hand gesessen.
+
+  **Ihr Grund ist die Regel aus Kapitel 15**, ihre eigene: *"Not quickly and not twice. Once."* Vierzehn Einladungen in zwoelf Jahren, zweimal kam Ye-rin - und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Die anderen zwoelf Male hatte sie eine Party.
+
+  **Eine Fassung, in der sie am 9. fragt und am 12. noch einmal, ist falsch.** Sie hat zuerst so dagestanden, und damit haette sie zweimal gefragt und ihre eigene Regel gebrochen, bevor Georgij ueberhaupt im Zimmer war.
+
+  Jetzt hat sie etwas: Woo um sieben, die Kims vollzaehlig um acht. Zwei Tatsachen, keine Erklaerung.
 
   **Und dann die zweite Einladung, und sie ist eine echte Entscheidung.** Am Dienstag hatte Hana nichts zu erzaehlen. Jetzt hat sie zwei Tatsachen, die keine Erklaerung sind: Woo um sieben, die Kims vollzaehlig um acht. Eine Gaesteliste darf man vorlesen. Ye-rin rechnet in vier Sekunden aus, was das bedeutet - und genau deshalb kann es auch nach hinten losgehen: *"If I ring her a second time in one week with two names in my mouth, she will hear a room being arranged around her, because there is one."*
 
@@ -3953,18 +3959,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch27:22 | "Hana." |
 | 9 | ch27:156 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
 | 9 | ch27:168 | Hana looked at the cards. |
-| 9 | ch27:174 | "She said the same thing." Hana turned one of the cards over and put it back. "That is t.. |
-| 9 | ch27:196 | Hana did not touch the folder. |
-| 9 | ch27:214 | Hana was quiet for a long time. |
-| 9 | ch27:234 | "That is not a gift," said Hana. |
-| 9 | ch27:244 | Hana laughed. |
-| 9 | ch27:270 | Hana put the page down. |
-| 9 | ch27:282 | Hana looked at the fire for a moment. |
-| 9 | ch27:306 | Hana looked at him. |
-| 9 | ch27:318 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:332 | Hana was quiet for a while. |
-| 9 | ch27:342 | "I will do it tomorrow," said Hana. "Not on the telephone." |
-| 9 | ch27:348 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:180 | "I did not, because you can ask that woman once." Hana was entirely level about it. "Fou.. |
+| 9 | ch27:202 | Hana did not touch the folder. |
+| 9 | ch27:220 | Hana was quiet for a long time. |
+| 9 | ch27:240 | "That is not a gift," said Hana. |
+| 9 | ch27:250 | Hana laughed. |
+| 9 | ch27:276 | Hana put the page down. |
+| 9 | ch27:288 | Hana looked at the fire for a moment. |
+| 9 | ch27:312 | Hana looked at him. |
+| 9 | ch27:324 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:338 | Hana was quiet for a while. |
+| 9 | ch27:348 | "Tomorrow," said Hana. "Not on the telephone, and not on a Tuesday, and it is the fiftee.. |
+| 9 | ch27:354 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4005,8 +4011,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:410` (Tag 49) - one
 - `ch23:224` (Tag 55) - nineteen
 - `ch27:156` (Tag 9) - forty
-- `ch27:174` (Tag 9) - one, twelve
-- `ch27:348` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:180` (Tag 9) - fourteen, twelve
+- `ch27:354` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
@@ -4111,10 +4117,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:128 | Woo made a noise that was not a word. |
 | 9 | ch27:146 | Woo laughed, badly, the way he had laughed at his own crane in October. |
 | 9 | ch27:160 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
-| 9 | ch27:184 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
-| 9 | ch27:186 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
-| 9 | ch27:188 | She has sixteen thousand on the east side. Four covered buildings on the northern bounda.. |
-| 9 | ch27:308 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:190 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
+| 9 | ch27:192 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
+| 9 | ch27:194 | She has sixteen thousand on the east side. Four covered buildings on the northern bounda.. |
+| 9 | ch27:314 | "Woo at seven," she said. "And the Kims." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4164,9 +4170,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:58` (Tag 7) - one, seven, three, two
 - `ch27:118` (Tag 9) - four, three
 - `ch27:160` (Tag 9) - one, seven
-- `ch27:186` (Tag 9) - forty, seven, twelve thousand
-- `ch27:188` (Tag 9) - four, sixteen thousand, thousand
-- `ch27:308` (Tag 9) - seven
+- `ch27:192` (Tag 9) - forty, seven, twelve thousand
+- `ch27:194` (Tag 9) - four, sixteen thousand, thousand
+- `ch27:314` (Tag 9) - seven
 
 ---
 
