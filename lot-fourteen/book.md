@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.207 Woerter.
+19 Kapitel. 57.202 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -27,7 +27,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 16 | v1.15 | 3.200 |
 | 17 | v12.8 | 2.694 |
 | 18 | v2.4 | 2.966 |
-| 19 | v1.3 | 3.203 |
+| 19 | v1.4 | 3.198 |
 
 ---
 
@@ -5464,7 +5464,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5548,13 +5548,13 @@ Woo sat down heavily, the way a man does when his back has an opinion.
 
 "And what do I get for standing in the road?"
 
-"Ten years of cargo across this quay."
+"Her cargo across this quay."
 
 The old man did not move at all for a second and a half, which from him was a great deal.
 
 Then he said it the way a man reads out a delivery note, and it took him about twenty seconds.
 
-"Seven years and not ten. Minimum volumes in tonnes and not in money, because I have lived through two currency scares and you have not." He put one finger down on the desk. "And it attaches to this quay and not to me. When I am dead it is still here, and nobody sells it away from the concrete."
+"Seven years. Minimum volumes in tonnes and not in money, because I have lived through two currency scares and you have not." He put one finger down on the desk. "And it attaches to this quay and not to me. When I am dead it is still here, and nobody sells it away from the concrete."
 
 Georgij opened the folder and put a contract on the desk in front of him.
 
@@ -5616,11 +5616,11 @@ He picked the paper back up and read a clause in the middle of it that he had al
 
 ---
 
-"A third of my book, contracted for ten years," he said. "Do you know what that does?"
+"A third of my book, contracted for seven years," he said. "Do you know what that does?"
 
 "It makes the place bankable."
 
-"It makes the place *lendable*." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for ten is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."
+"It makes the place *lendable*." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for seven is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."
 
 Georgij said nothing at all.
 
@@ -5746,7 +5746,7 @@ The room went on being a room.
 
 "Yes."
 
-"Including me. I am in that trade. I have been in it since before your parents met and I am in it this afternoon, and I have just signed ten years of it." He tapped the contract once with two fingers. "And I would like you to notice that I signed it anyway."
+"Including me. I am in that trade. I have been in it since before your parents met and I am in it this afternoon, and I have just signed seven years of it." He tapped the contract once with two fingers. "And I would like you to notice that I signed it anyway."
 
 "I noticed."
 

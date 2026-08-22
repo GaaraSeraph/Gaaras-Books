@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 48.960 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.012 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1064,7 +1064,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.3) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.4) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.4) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.8) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.15) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
@@ -2069,7 +2069,9 @@ nicht abgehakt.
     **Und Woos Raum im Dezember wird dadurch schärfer.** Woo hat einundfünfzig Jahre und liest Räume. Er findet die Frau, nach der sich zweimal jemand umsieht, bevor er weiterredet, ohne es zu merken. Und er sagt Georgij hinterher, dass er sie gefunden hat und dass Georgij nicht mit ihr gesprochen hat.
 4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, vor Jahresende.
 
-    **Sein Preis, von ihm selbst genannt:** sieben Jahre statt zehn, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
+    **Sein Preis, von ihm selbst genannt:** sieben Jahre, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
+
+    **Georgij nennt keine Laufzeit.** Auf Woos Frage antwortet er nur mit dem Gegenstand: *"Her cargo across this quay."* Alles Weitere kommt aus Woos Mund. Und weil Annie ihn für **zehn** Jahre autorisiert hatte, nimmt der Alte weniger, als er hätte haben können - Georgij erwähnt die drei übrigen Jahre nicht, weil er nicht muss.
 
     **Berichtigt gegenüber der ersten Fassung:** Die zwanzig Prozent aus Hongkong kauft ihm **niemand** ab. Er löst sie selbst ab, weil der Vertrag das Terminal *lendable* macht statt nur bankfähig, und er hat sich das in neunzig Sekunden selbst ausgerechnet, während Georgij daneben saß und schwieg.
 

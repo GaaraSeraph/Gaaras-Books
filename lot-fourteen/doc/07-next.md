@@ -100,7 +100,9 @@ nicht abgehakt.
     **Und Woos Raum im Dezember wird dadurch schärfer.** Woo hat einundfünfzig Jahre und liest Räume. Er findet die Frau, nach der sich zweimal jemand umsieht, bevor er weiterredet, ohne es zu merken. Und er sagt Georgij hinterher, dass er sie gefunden hat und dass Georgij nicht mit ihr gesprochen hat.
 4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, vor Jahresende.
 
-    **Sein Preis, von ihm selbst genannt:** sieben Jahre statt zehn, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
+    **Sein Preis, von ihm selbst genannt:** sieben Jahre, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
+
+    **Georgij nennt keine Laufzeit.** Auf Woos Frage antwortet er nur mit dem Gegenstand: *"Her cargo across this quay."* Alles Weitere kommt aus Woos Mund. Und weil Annie ihn für **zehn** Jahre autorisiert hatte, nimmt der Alte weniger, als er hätte haben können - Georgij erwähnt die drei übrigen Jahre nicht, weil er nicht muss.
 
     **Berichtigt gegenüber der ersten Fassung:** Die zwanzig Prozent aus Hongkong kauft ihm **niemand** ab. Er löst sie selbst ab, weil der Vertrag das Terminal *lendable* macht statt nur bankfähig, und er hat sich das in neunzig Sekunden selbst ausgerechnet, während Georgij daneben saß und schwieg.
 
