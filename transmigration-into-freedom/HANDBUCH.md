@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 12 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 15.193 Woerter.
+Kanon: 13 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 15.898 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -25,6 +25,18 @@ Marit Halden, Level 6
   ground: she sees that the buried fire is many fires and not one, and she
   names the rope as village-made rather than city-made. He can read stonework.
   He cannot read any of that.
+- ch13: they wash at Solva's trough, she helps him with the strapped arm for
+  considerably longer than the job requires, and he misuses their signal word to
+  say so. He gives her the true thing instead: three days in this world, most of
+  it appalling, and the only part he would repeat is the walking. Her answer is
+  the first line she ever said to him, returned: "Byre's this way. You snore,
+  you sleep outside." And then: "It was not an invitation then."
+  He does not sleep in the byre. Handled on the page as adult and unmistakable
+  and not explicit; the door closes on the laughing. Afterwards he checks the
+  panel and it has no line for any of it, and he says out loud that it should
+  keep it that way.
+  THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction
+  and neither of them has said a word about what it is.
 - SHE CLOSES THE STICK (ch11), and it is hers, not his. He asks who in Oldstep
   carries one, expecting a list. She refuses the question and corrects the
   premise instead: nobody carries a stick, old men lean on them, and he himself
@@ -166,6 +178,11 @@ and the narration says plainly that he liked none of the arithmetic. Note the
 order this landed in: ch6 he paid for planning around nobody, ch8 he chooses to
 plan around somebody. The cost came first, which is the right way round.
 
+Stage 4 ARRIVES EARLY AND FOR A MECHANICAL REASON, in ch13: shutting the gate
+needs six men for four hours and there is no version of it he can buy, bully or
+out-think his way out of. He has to ask a village he insulted in its own road
+that afternoon. The chapter ends on him going to do it.
+
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
@@ -268,6 +285,10 @@ his only weapon is cracked and will fail without warning.
 Chapter 12: DEX 10 to 19, nine banked points spent in one place, cold, with
 reasons stated. No level, no kills, no skill change. Still Level 4, HP 220, MP
 60 untouched, Dagger Mastery D, Class None.
+
+Chapter 13: no mechanical change at all. No kills, no level, no allocation, MP
+still untouched at 60. The chapter spends its system budget on reading a
+windlass (it reads, because he has hands on it) and on a mark he cannot read.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -712,7 +733,8 @@ nicht diese Zeile von Hand.
 10. The Price Went Up
 11. Nobody Carries a Stick
 12. For the Record
-13. A Name for the Knife (planned)
+13. The Cost of Shutting a Door
+14. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -815,7 +837,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 9), but the first pass has been made and
+  No romance has started (as of Chapter 12), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
   magnificent ass and says outright that the timing is deliberate, because in a
   fight it is only noise and later it would be a move. She says "mind your own
@@ -1024,6 +1046,27 @@ The elder's secret (ch12) - the first arc's answer
   people's money, and says so out loud - and says in the same breath that he is
   not sitting down because he forgives him.
 - The chapter ends on the only question Gaara has left: "Where is the gear."
+- THE GEAR (ch13) was under the byre floor, under the flagstone Gaara slept on.
+  A slate-lined pit holding an oak windlass with iron gudgeons, a pawl and
+  ratchet cut by somebody who knew what a pawl is for, greased chain, four oak
+  levers, a dozen iron wedges, two blocks and a sling. Aldis Halden's before
+  Hallvard, and old when it was hers. There is a MARK ON THE DRUM that Hallvard
+  has never been able to read, and that Gaara's panel returns nothing at all
+  for, which frightens him and which he does not explain.
+- WHY THE GATE HAS STAYED OPEN, and it is torque and not courage: the two blocks
+  are under eight hundred years of load and will not come out by being hit. The
+  gate must be LIFTED an inch to free them and then let down. That means the
+  windlass, which means four men on the bars and two setting wedges, standing in
+  the channel, in the water, at the mouth the crawlers use as a road. Raising it
+  took nine hours. Lowering it might take four.
+  Hallvard has not had four men since Aldis died. That is the whole reason the
+  door is open, and it is why this is the first problem in the book Gaara cannot
+  solve alone at any price.
+- (ch13) THE PLAN, stated out loud by Gaara in three parts: killing them does
+  not solve it; shutting the gate does, because it closes the road and not the
+  room; and he wants three or four hunting trips into that room BEFORE they seal
+  it, because nothing else in the valley pays like a six. Hallvard calls it
+  farming. Gaara calls it using, and says the difference is mostly timing.
 
 How people here test a man (ch4, confirmed ch7)
 - They make him say it twice and listen to the second telling against the first.
@@ -1209,6 +1252,18 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     pays enormously. He does not know the function.
 21. The knife will break, and the system has told him so in writing. Two to four
     hard uses. He is walking back to a village with it.
+26. HALLVARD'S OWN ANSWER ABOUT THE EMPTY AIR (ch13), given twice on request
+    because Gaara invokes "liars decorate": "I have been down in that room a
+    great many times. That there is a line cut in the floor of it. And that I
+    have crossed it more often than any living thing. Make of it what you like.
+    I never could."
+    So the blind spot may not only hide what is inside it from the panel. It may
+    do something lasting to what walks through it. NOT CONFIRMED. Hallvard is
+    offering a hypothesis, not a fact, and says so.
+27. Hallvard has killed sixty or seventy of them over thirty-one years, mostly
+    above his own weight, and by Gaara's arithmetic should be the most dangerous
+    man between here and the sea. He reports noticing nothing except being
+    better with a stick than he should be.
 23. What the whetstone gave away (ch12). Not the stick, not the rope, not the
     empty air: a sharpening stone good enough that a stranger is lent it and
     expected to return it. Nobody sharpens like that for hay.

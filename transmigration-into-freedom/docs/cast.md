@@ -8,6 +8,18 @@ Marit Halden, Level 6
   ground: she sees that the buried fire is many fires and not one, and she
   names the rope as village-made rather than city-made. He can read stonework.
   He cannot read any of that.
+- ch13: they wash at Solva's trough, she helps him with the strapped arm for
+  considerably longer than the job requires, and he misuses their signal word to
+  say so. He gives her the true thing instead: three days in this world, most of
+  it appalling, and the only part he would repeat is the walking. Her answer is
+  the first line she ever said to him, returned: "Byre's this way. You snore,
+  you sleep outside." And then: "It was not an invitation then."
+  He does not sleep in the byre. Handled on the page as adult and unmistakable
+  and not explicit; the door closes on the laughing. Afterwards he checks the
+  panel and it has no line for any of it, and he says out loud that it should
+  keep it that way.
+  THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction
+  and neither of them has said a word about what it is.
 - SHE CLOSES THE STICK (ch11), and it is hers, not his. He asks who in Oldstep
   carries one, expecting a list. She refuses the question and corrects the
   premise instead: nobody carries a stick, old men lean on them, and he himself

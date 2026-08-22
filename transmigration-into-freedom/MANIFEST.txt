@@ -12,6 +12,7 @@ ch09    1556 Woerter  ch09-what-the-panel-will-not-say.md
 ch10    1946 Woerter  ch10-the-price-went-up.md
 ch11    1691 Woerter  ch11-nobody-carries-a-stick.md
 ch12    2127 Woerter  ch12-for-the-record.md
+ch13    1924 Woerter  ch13-the-cost-of-shutting-a-door.md
 
-Gesamt: 12 Kapitel, 24011 Woerter
+Gesamt: 13 Kapitel, 25935 Woerter
 Handbuch: 4 Dokumente

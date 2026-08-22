@@ -40,6 +40,11 @@ and the narration says plainly that he liked none of the arithmetic. Note the
 order this landed in: ch6 he paid for planning around nobody, ch8 he chooses to
 plan around somebody. The cost came first, which is the right way round.
 
+Stage 4 ARRIVES EARLY AND FOR A MECHANICAL REASON, in ch13: shutting the gate
+needs six men for four hours and there is no version of it he can buy, bully or
+out-think his way out of. He has to ask a village he insulted in its own road
+that afternoon. The chapter ends on him going to do it.
+
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
@@ -142,6 +147,10 @@ his only weapon is cracked and will fail without warning.
 Chapter 12: DEX 10 to 19, nine banked points spent in one place, cold, with
 reasons stated. No level, no kills, no skill change. Still Level 4, HP 220, MP
 60 untouched, Dagger Mastery D, Class None.
+
+Chapter 13: no mechanical change at all. No kills, no level, no allocation, MP
+still untouched at 60. The chapter spends its system budget on reading a
+windlass (it reads, because he has hands on it) and on a mark he cannot read.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
