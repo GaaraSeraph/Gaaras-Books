@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 52.587 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 54.401 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -11,6 +11,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 - [Handwerk](#handwerk)  ·  `doc/01-craft.md`
   - [1. Bandwurmsaetze](#1-bandwurmsaetze)
   - [2. Ergibt der Satz Sinn](#2-ergibt-der-satz-sinn)
+  - [2b. Wer haette es getan](#2b-wer-haette-es-getan)
   - [3. Rueckbezug](#3-rueckbezug)
   - [4. Die Laecheln](#4-die-laecheln)
   - [5. Satzzeichen](#5-satzzeichen)
@@ -51,6 +52,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Köder: Hanseong](#der-k-der-hanseong)
 - [Kontinuitaet](#kontinuitaet)  ·  `doc/05-continuity.md`
   - [Kalender](#kalender)
+  - [Die Fahrerwoche](#die-fahrerwoche)
   - [Stand der Kapitel](#stand-der-kapitel)
   - [Die Lächeln](#die-l-cheln)
   - [Der Griff und wie er zurückkommt](#der-griff-und-wie-er-zur-ckkommt)
@@ -103,22 +105,22 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Hana](#hana)
   - [Chairman Woo](#chairman-woo)
   - [Park Sang-hoon](#park-sang-hoon)
-  - [Mrs Seo](#mrs-seo)
   - [Jang](#jang)
+  - [Mrs Seo](#mrs-seo)
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Ji-won](#ji-won)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Kim Do-yun](#kim-do-yun)
-  - [Bae](#bae)
   - [Mr Pyo](#mr-pyo)
-  - [Mr Ku](#mr-ku)
+  - [Bae](#bae)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
   - [Mr Baek](#mr-baek)
   - [Mr Yeo](#mr-yeo)
   - [Minister Min-ho](#minister-min-ho)
+  - [Mr Ku](#mr-ku)
   - [Mrs Sunwoo](#mrs-sunwoo)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Im](#mr-im)
@@ -175,9 +177,73 @@ Woran es typischerweise scheitert:
   Fahrer, der laut Rota diese Woche nicht faehrt.
 - **Ein Satz, der nur Haltung ist.** "Ich moechte vorsichtig sein mit dem Wort."
   Dann sei vorsichtig, statt es anzukuendigen.
+- **Ein Verdienst aus einer Unterlassung, die nichts kostet.** Siehe unten, eigener
+  Abschnitt. Das ist die haeufigste Art, wie sich Lob in die Erzaehlstimme schleicht.
 
 **Probe:** Den Satz laut lesen und fragen, was der Leser danach weiss, was er
 vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
+
+### 2b. Wer haette es getan
+
+**"Er tat X nicht" ist nur dann eine Aussage, wenn im Text jemand X erwartet
+hat.** Sonst ist es kein Satz ueber die Figur, sondern ein Kompliment, das der
+Erzaehler ihr macht, und es kostet die Figur nichts.
+
+Der Fund, aus Kapitel 21, Fassung 1.0:
+
+> Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not
+> have a car and was not going to start pretending he did.
+
+Niemand hat je vermutet, er wuerde so tun, als haette er einen Wagen. Es gibt
+keine Szene, in der er es tut, und keine Figur, die es ihm zutraut. Der Satz
+erfindet also eine Versuchung, damit die Figur ihr widerstehen kann.
+
+**Die Probe, ein Satz:** Wer im Text haette X getan? Steht dafuer keine Person
+und keine Stelle, wird gestrichen. Nicht umformuliert, gestrichen.
+
+**Woran man es im Satzbau erkennt.** Es haengt fast immer als zweites *because*
+oder zweites *and* hinten an einem Satz, der schon fertig war. Die erste
+Begruendung traegt, die zweite ist Zierat. Ein Satz mit zwei *because* ist
+verdaechtig, und die Wendungen *was not going to*, *did not bother to*, *never
+once considered*, *was not about to* sind es fast immer.
+
+**Die Ausnahme, und sie ist eng.** Wenn eine Figur X tatsaechlich erwogen oder
+frueher getan hat, ist das Unterlassen eine Handlung und gehoert hin. Kapitel 20:
+*"I gave him the account number ... After he signed, and not before, so that it
+did not pay for anything."* Da liegt beides im Text - er haette es vorher geben
+koennen, und der Unterschied kostet ihn etwas.
+
+**Und die Regel dahinter, die weiter reicht:** Was eine Figur ausmacht, sagt am
+besten eine andere Figur, und zwar als Beobachtung. Dieselbe Sache steht dreissig
+Absaetze spaeter aus Hanas Mund und tut dort Arbeit: *"You came up my drive in a
+car you did not choose, driven by a man you did not hire, wearing a coat somebody
+else paid for."* Der Erzaehler hatte sie vorweggenommen und dabei verdorben.
+
+**Zweite Schicht, im selben Kapitel und im selben Durchgang gefunden.** Auch wenn
+die Versuchung echt ist, wird sie nicht angekuendigt. Ebenfalls Kapitel 21,
+Fassung 1.0, auf Hanas Frage, was sie bekommt:
+
+> "Nothing that is not already yours. The lease was signed on Monday and I am
+> not going to stand in your house and offer you a thing you have already been
+> paid."
+
+Hana honoriert im naechsten Satz, dass er nichts angeboten hat. Die Erwartung
+steht also da, und trotzdem ist der Satz falsch, weil er die Unterlassung
+**ausspricht** statt sie zu vollziehen. Steht auf *"Nothing. The lease was signed
+on Monday."*, und ihre Antwort traegt genauso.
+
+**Und das Warnzeichen, das beide Faelle verbindet:** die Formel war aus dem
+eigenen Buch abgeschrieben. In Kapitel 15 steht *"I am not going to stand in your
+dining room and tell you..."*, dort zu Recht, weil Annie eine Zeile vorher
+widersprochen hat. In Kapitel 21 wurde daraus *"stand in your house"*. **Wenn
+sich eine Wendung beim Schreiben von selbst anbietet, kommt sie meistens aus dem
+Nachbarkapitel und nicht aus der Szene.**
+
+**Gegenprobe, die dazugehoert.** Nicht nach der Stelle suchen, die man kennt,
+sondern nach der Wendung. Der erste Durchgang suchte `was not going to start`
+und fand einen Treffer. Die Suche nach `not going to` fand sechsundzwanzig, davon
+zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
+**Der eigene Erwartungsfilter schneidet den Befund weg.**
 
 ### 3. Rueckbezug
 
@@ -845,7 +911,11 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 
-**Ab Kapitel 21 festgelegt.** Einundfünfzig. **Ein Haus nördlich des Flusses**, altes Geld, alte Bäume, eine Steinmauer. Freitags ist niemand darin; die Frau, die kommt, kommt montags und donnerstags. Sie öffnet ihre Tür selbst. Sie erlaubt seit 2011 keine Fotografien in ihrem Haus, und jeder auf ihrer Gästeliste weiß das - was aus einer Marotte Woos zweite Bedingung erfüllbar macht. Kang Ji-hoon kommt seit neun Jahren zu Weihnachten dorthin, seine Frau und sie haben dieselben Prüfungen geschrieben. **Sie kennt Georgijs Lage seit der Gala aus seinem eigenen Mund** und hat sie nie erwähnt. Sie geht in Kapitel 21 einen Schritt weiter, als der Mietvertrag deckt: Sie streut auf Ansage, und weil sie in dieser Stadt die Frau ist, die nie für etwas bezahlt, das sie sagt, setzt sie damit ihr ganzes Kapital ein. Es steht auf keinem Papier und darf auf keines.
+**Ab Kapitel 21 festgelegt.** Einundfünfzig. **Ein Haus nördlich des Flusses**, altes Geld, alte Bäume, eine Steinmauer. Freitags ist niemand darin; die Frau, die kommt, kommt montags und donnerstags. Sie öffnet ihre Tür selbst. Sie erlaubt seit 2011 keine Fotografien in ihrem Haus, und jeder auf ihrer Gästeliste weiß das - was aus einer Marotte Woos zweite Bedingung erfüllbar macht. Kang Ji-hoon kommt seit neun Jahren zu Weihnachten dorthin, seine Frau und sie haben dieselben Prüfungen geschrieben. **Sie kennt Georgijs Lage seit der Gala aus seinem eigenen Mund** und hat sie nie erwähnt.
+
+**Sie ist keine Plaudertasche, und das ist die wichtigste Regel zu ihr.** Kapitel 11, Georgij an Annies Tisch, im Wortlaut: *"Hana talked. **Not carelessly.**"* Ihre Straflosigkeit macht sie **lauter**, nicht unvorsichtiger - drei Prozent, und die sind gewählt. Sie streut seit fünfundzwanzig Jahren gezielt und sagt es in Kapitel 21 selbst: *"Half of what I say on a terrace I say on purpose."*
+
+**Daraus folgt, was man mit ihr nicht schreiben darf.** Keine Szene, in der jemand ihr erklärt, was ihr eigenes Reden wert ist, und keine, in der sie versehentlich etwas ausplaudert. In der ersten Fassung von Kapitel 21 stand beides, und sie schneidet es dort inzwischen ab. **Was sie in Kapitel 21 tatsächlich hergibt, ist kleiner und teurer:** Sie sagt zum ersten Mal in fünfundzwanzig Jahren einen Satz, ohne zu wissen, was er tut, und sie hat sich dieses Nichtwissen selbst auferlegt. Es steht auf keinem Papier und darf auf keines.
 
 **Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala geredet, nicht unvorsichtig, aber etwa drei Prozent lauter als nötig, und Georgij hat daraus Incheon fünfmal, den östlichen Abschnitt und ein Datum im Frühjahr mitgenommen. Er weiß das und sagt es ihr nicht. **Kangs Anruf gehört dagegen nicht ihr, sondern ihm:** Er hat den Griff an einem Abend zweimal benutzt und Kang dabei gezeigt, wo sein Loch ist. Kapitel 11 sagt es aus seinem Mund: *I walked across a room and showed it to him.*
 *Kanon ab Kapitel 9.*
@@ -874,6 +944,8 @@ steht hier und nicht bei den Bekanntschaften, weil er nachweislich an Sang-hoons
 Leute weitergibt.
 
 **Park Sang-hoon** - Der Gegner. Logistikimperium, Schifffahrtsrouten. Hat bereits zwei Logistikkonkurrenten aufgekauft und will als drittes die Logistik der Familie Kim. Hat dafür in Incheon einen ausgebauten Container in eine Kim-Sendung geschoben und den Zoll darauf stoßen lassen.
+**Ab Kapitel 22 festgelegt:** einunddreissig Jahre in diesem Gewerbe, aus seinem eigenen Mund. Er kommt am 27. November selbst ins Anwesen, mit einem Mann, der im Wagen bleibt, und stellt die Preisfrage vor der Besitzerin - nicht um zu kaufen, sondern um zu wissen, was Georgij ihr wert ist. Er bekommt die Antwort und hat keine Freude daran. Sein letzter Satz an Annie an der Tür ist eine Warnung, die wie eine klingt: *"He gave me nineteen pages and I read them twice, and in six years nobody has made me do that. You want to be careful with that."*
+
 **Sein Angriffspunkt:** Hat er einmal zugebissen, kann er nicht loslassen. Darüber wird er mit Hanseong gebunden.
 **Auf der Gala:** Eine Szene, an Tisch zwei, von zehn nach elf bis zwanzig nach elf. In derselben Szene und kurz vor dem Aufstehen kommt die Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat. Danach geht er allein aus dem Saal.
 *Kanon ab Kapitel 10.*
@@ -1164,6 +1236,34 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 46, Di 18. November: das Essen mit Sang-hoon, die Heimfahrt, die festgelegte Zeile
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
 - Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
+- Tag 52, Mo 24. November: das Gebot geht raus
+- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22)
+
+### Die Fahrerwoche
+
+**Der Wechsel liegt am Samstag.** Das ist nirgends ausgesprochen und ergibt sich
+zwingend aus zwei Stellen, die beide Kanon sind: Kapitel 11 an Tag 22, Samstag
+25. Oktober, fährt **Mr Ku**; Kapitel 16 an Tag 46, Dienstag 18. November, fährt
+**Mr Pyo**, und der Text sagt dort ausdrücklich *"The two drivers went week and
+week about and this one was his."* Bei einem Wechsel am Montag oder Sonntag gehen
+diese vierundzwanzig Tage nicht auf, bei einem Wechsel am Samstag genau.
+
+Daraus, für alles Weitere:
+
+| Woche | Wer |
+|---|---|
+| Sa 25.10 - Fr 31.10 | Ku |
+| Sa 1.11 - Fr 7.11 | Pyo |
+| Sa 8.11 - Fr 14.11 | Ku |
+| **Sa 15.11 - Fr 21.11** | **Pyo** (Kapitel 16, 17, 20, 21) |
+| Sa 22.11 - Fr 28.11 | Ku (Kapitel 22) |
+| Sa 29.11 - Fr 5.12 | Pyo |
+| Sa 13.12 - Fr 19.12 | Ku (Hanas Abend am 16.) |
+
+**Warum das hier steht.** In Kapitel 21 stand zuerst Mr Ku, an einem Freitag in
+Pyos Woche. Das ist der Fehler aus `doc/01-craft.md`, Punkt 2: ein Fahrer, der
+laut Rota diese Woche nicht fährt. Er fällt keinem Skript auf und keinem Leser,
+der nicht zurückblättert.
 
 **Feste Termine voraus, ab Kapitel 21 im Text genannt und damit Kanon:**
 
@@ -1178,6 +1278,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 22** *Not shown* (v1.0) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie antwortet mit der Fernbedienung, die seit der ersten Nacht auf der Steinablage in der Halle liegt, und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 - **Kapitel 21** *The ones who come at nine* (v1.0) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, und das Fotoverbot, das Woos zweite Bedingung aus Kapitel 19 beantwortet. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und leiht ihm damit das Einzige, was ihr gehoert. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
@@ -1875,7 +1976,7 @@ Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
 Das Herzstück. In der Vorlage passiert es im Bett und liest sich als Machtspiel, das eskaliert. Bei uns ist es ein Vertragsbruch.
 
-**Was passiert:** Mitten in etwas, das keine Verhandlung war, holt Annie die Hierarchie zurück. "Du bist hier, weil du nützlich bist. Im Büro und in diesem Bett. Vergiss den Unterschied nie." Und dann die Erinnerung an das Halsband.
+**Gestrichen am 22.08.:** Hier stand die Bett-Fassung - Annie holt mitten in etwas die Hierarchie zurück, *"Du bist hier, weil du nützlich bist. Im Büro und in diesem Bett."* Sie ist ersetzt durch den Anlass weiter unten, Sang-hoons Preisfrage und die Fernbedienung. **Beides zusammen wäre zweimal derselbe Schlag**, und der zweite entwertet den ersten. Es gibt genau einen Bruch, er hat einen Zeugen, und er passiert im Salon und nicht im Schlafzimmer.
 
 **Was er tut:** Er hört auf. Er zieht sich an. Er sagt es ihr ruhig und höflich, und zum ersten Mal seit dem ersten Abend kommt der Spott in das Wort "Mistress" zurück.
 
@@ -3102,26 +3203,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 202 | 20 (01-21) | 1 | 49 |
-| Hana | 96 | 8 (09-21) | 22 | 49 |
-| Chairman Woo | 75 | 12 (07-21) | 22 | 49 |
-| Park Sang-hoon | 54 | 10 (10-21) | 22 | 49 |
-| Mrs Seo | 38 | 12 (03-21) | 1 | 49 |
-| Jang | 35 | 10 (05-18) | 4 | 48 |
+| Annie | 217 | 21 (01-22) | 1 | 55 |
+| Hana | 97 | 8 (09-21) | 22 | 49 |
+| Chairman Woo | 74 | 12 (07-21) | 22 | 49 |
+| Park Sang-hoon | 64 | 11 (10-22) | 22 | 55 |
+| Jang | 42 | 11 (05-22) | 4 | 55 |
+| Mrs Seo | 40 | 13 (03-22) | 1 | 55 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
+| Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
-| Mr Pyo | 6 | 4 (05-21) | 6 | 49 |
-| Mr Ku | 5 | 4 (05-21) | 6 | 49 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
 | Eun-ju | 4 | 3 (05-14) | 6 | 34 |
 | Mr Baek | 4 | 3 (05-15) | 6 | 41 |
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
+| Mr Ku | 3 | 3 (05-11) | 6 | 22 |
 | Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
 | Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
 | Mr Im | 1 | 1 (05) | 6 | 6 |
@@ -3134,7 +3235,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-202 Nennungen in 20 Kapiteln.
+217 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3336,10 +3437,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch20:154 | Annie sat back in the chair. |
 | 49 | ch20:170 | Annie did not say anything. |
 | 49 | ch20:194 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
-| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
 | 49 | ch21:138 | "Annie is bidding for Hanseong. It goes out on Monday." |
 | 49 | ch21:154 | "I would like you to mention it," said Georgij. "Not to me. In December, or before Decem.. |
 | 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
+| 55 | ch22:10 | He telephoned Annie's office and asked for twenty minutes. |
+| 55 | ch22:18 | "He asked for the office and I said the house." Annie did not look up from the page. "A .. |
+| 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
+| 55 | ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
+| 55 | ch22:56 | Annie let that stand. |
+| 55 | ch22:64 | "You have read it," said Annie. |
+| 55 | ch22:74 | Annie said nothing. |
+| 55 | ch22:92 | He could have said nothing at all, and let Annie carry it, which is what a shadow is for. |
+| 55 | ch22:100 | Annie stood up. |
+| 55 | ch22:130 | Annie stood where she was with the remote in her hand, in the open, at the height of her.. |
+| 55 | ch22:146 | He said one thing, to Annie, in the flattest voice he had used all evening. |
+| 55 | ch22:160 | "You may go up," said Annie. |
+| 55 | ch22:178 | Annie did not move. |
+| 55 | ch22:192 | "That is not what it meant," said Annie. |
+| 55 | ch22:212 | Annie's face did not do anything anywhere. |
+| 55 | ch22:230 | Annie said nothing. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3393,12 +3509,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:96` (Tag 48) - eleven
 - `ch18:282` (Tag 48) - one
 - `ch20:84` (Tag 49) - two
+- `ch22:10` (Tag 55) - twenty
+- `ch22:38` (Tag 55) - eleven, two
+- `ch22:146` (Tag 55) - one
 
 ---
 
 ### Hana
 
-96 Nennungen in 8 Kapiteln.
+97 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3491,13 +3610,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
 | 49 | ch21:170 | Hana looked at him for a long moment. |
 | 49 | ch21:178 | "Hana." |
-| 49 | ch21:198 | "In this city you are the woman who says things on terraces and never pays for any of th.. |
-| 49 | ch21:200 | "I know what it is," said Hana. "I have had it since I was twenty-six." |
-| 49 | ch21:234 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
-| 49 | ch21:248 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
-| 49 | ch21:256 | "Hana." |
-| 49 | ch21:268 | Hana's face did not do anything. |
-| 49 | ch21:278 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
+| 49 | ch21:200 | "Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me .. |
+| 49 | ch21:214 | "Something smaller than your speech, and worse." Hana looked at the trees for a moment. .. |
+| 49 | ch21:242 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
+| 49 | ch21:256 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | ch21:270 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
+| 49 | ch21:278 | "Hana." |
+| 49 | ch21:290 | Hana's face did not do anything. |
+| 49 | ch21:300 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3532,16 +3652,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:140` (Tag 49) - two
 - `ch21:148` (Tag 49) - eight
 - `ch21:160` (Tag 49) - nine, one, twenty
-- `ch21:200` (Tag 49) - twenty-six
-- `ch21:234` (Tag 49) - four
-- `ch21:248` (Tag 49) - fifty-one, one
-- `ch21:278` (Tag 49) - one
+- `ch21:200` (Tag 49) - one
+- `ch21:214` (Tag 49) - twenty-five
+- `ch21:242` (Tag 49) - eight, nine, seven, ten, two
+- `ch21:256` (Tag 49) - four
+- `ch21:270` (Tag 49) - fifty-one, one
+- `ch21:300` (Tag 49) - one
 
 ---
 
 ### Chairman Woo
 
-75 Nennungen in 12 Kapiteln.
+74 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3616,10 +3738,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
 | 49 | ch21:60 | "Woo signed." |
 | 49 | ch21:106 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
-| 49 | ch21:220 | "Woo at seven." |
-| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:284 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
-| 49 | ch21:292 | He had gone up that drive for a house and an evening. He had come down with a date, a ru.. |
+| 49 | ch21:236 | "Woo at seven." |
+| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:306 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -3654,16 +3775,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
 - `ch21:106` (Tag 49) - nine, seven, seventy-eight
-- `ch21:220` (Tag 49) - seven
-- `ch21:222` (Tag 49) - eight, nine, one, seven
-- `ch21:284` (Tag 49) - six
-- `ch21:292` (Tag 49) - three
+- `ch21:236` (Tag 49) - seven
+- `ch21:238` (Tag 49) - eight, nine, one, seven
+- `ch21:306` (Tag 49) - six
 
 ---
 
 ### Park Sang-hoon
 
-54 Nennungen in 10 Kapiteln.
+64 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3721,6 +3841,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 | 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
+| 55 | ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
+| 55 | ch22:34 | Sang-hoon stopped in the hall. |
+| 55 | ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
+| 55 | ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
+| 55 | ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
+| 55 | ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
+| 55 | ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
+| 55 | ch22:108 | He had watched Park Sang-hoon look straight at it four minutes after coming through the .. |
+| 55 | ch22:132 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
+| 55 | ch22:136 | "Well," said Sang-hoon. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -3746,12 +3876,92 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:226` (Tag 48) - one, three
 - `ch18:250` (Tag 48) - ten, three
 - `ch19:290` (Tag 48) - one
+- `ch22:54` (Tag 55) - fifteen
+- `ch22:66` (Tag 55) - six, two
+- `ch22:108` (Tag 55) - four
+
+---
+
+### Jang
+
+42 Nennungen in 11 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
+| 4 | ch05:26 | By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a w.. |
+| 4 | ch05:30 | "Mr Jang. My name is Georgij." |
+| 4 | ch05:32 | "I know your name." Jang did not get up, and he did not pretend to be busy either. He tu.. |
+| 4 | ch05:36 | Jang looked at him. |
+| 4 | ch05:46 | Jang sat with that for a moment. There was a mug of instant coffee on the desk and he ha.. |
+| 4 | ch05:52 | "The gravel's been raked twice and there's still a stain under the second layer." Jang s.. |
+| 4 | ch05:62 | Jang looked at the sheets for a moment. Then he picked them up and read them, properly, .. |
+| 4 | ch05:74 | Jang put the sheets down. |
+| 4 | ch05:80 | "Second Wednesday of the month," Jang said. "The glass." |
+| 4 | ch05:84 | "I saw the anchors from the lawn this morning." Jang put the mug down properly. "That on.. |
+| 4 | ch05:92 | Jang read page six again. |
+| 4 | ch05:102 | Jang's chin came up half a centimetre. |
+| 4 | ch05:110 | Jang squared the nine sheets on the desk. |
+| 4 | ch05:122 | He walked the house with Jang for two hours and told him what he had and answered what h.. |
+| 4 | ch05:124 | By the end of it Jang had stopped calling him nothing at all and had started calling him.. |
+| 6 | ch05:188 | He put it at the top of what he was keeping for Jang, above the night man and above ever.. |
+| 22 | ch06:136 | At six Jang came to find him in the east room. |
+| 22 | ch06:146 | Jang stood in the doorway for a moment. |
+| 22 | ch11:10 | There was a second car waiting at the top of the ramp with two of Jang's people in it, a.. |
+| 23 | ch12:28 | Jang came up from the security office at nine with two sheets of paper. |
+| 23 | ch12:34 | Two of Jang's men on the cars. One inside the building who had not gone within forty met.. |
+| 23 | ch12:38 | "Three of those are drivers waiting," said Jang. "The fourth is a private hire that sat .. |
+| 23 | ch12:46 | "Mr Jang." |
+| 23 | ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
+| 27 | ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
+| 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
+| 41 | ch15:438 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
+| 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
+| 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 48 | ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
+| 48 | ch18:10 | Jang brought it up himself. |
+| 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
+| 55 | ch22:154 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | ch22:252 | Jang was at the inner door, and had been at the inner door for the whole of it, and had .. |
+| 55 | ch22:256 | "Yes," said Jang. |
+| 55 | ch22:260 | Jang took the packet out of his coat and a lighter out of the same pocket and put both o.. |
+| 55 | ch22:264 | "Keep the lighter," said Jang. |
+| 55 | ch22:276 | He stood in front of it and smoked one of Jang's cigarettes all the way down, and did no.. |
+
+### Zahlen in der Naehe von Jang
+
+- `ch05:24` (Tag 4) - eight, four, two
+- `ch05:26` (Tag 4) - eleven, one, ten
+- `ch05:32` (Tag 4) - four
+- `ch05:62` (Tag 4) - eleven
+- `ch05:84` (Tag 4) - one
+- `ch05:92` (Tag 4) - six
+- `ch05:110` (Tag 4) - nine
+- `ch05:122` (Tag 4) - two
+- `ch06:136` (Tag 22) - six
+- `ch11:10` (Tag 22) - two
+- `ch12:28` (Tag 23) - nine, two
+- `ch12:34` (Tag 23) - forty, one, two
+- `ch12:38` (Tag 23) - eight, eleven forty, three
+- `ch12:56` (Tag 23) - two
+- `ch13:40` (Tag 27) - four
+- `ch13:80` (Tag 27) - four
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `ch15:228` (Tag 41) - four, three
+- `ch16:10` (Tag 46) - two
+- `ch17:236` (Tag 46) - nine, three
+- `ch17:254` (Tag 46) - six
+- `ch18:8` (Tag 48) - one
+- `ch22:276` (Tag 55) - one
 
 ---
 
 ### Mrs Seo
 
-38 Nennungen in 12 Kapiteln.
+40 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3793,6 +4003,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 | 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
 | 49 | ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
+| 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
+| 55 | ch22:154 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3815,75 +4027,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:22` (Tag 41) - one, three
 - `ch20:16` (Tag 49) - nine
 - `ch21:12` (Tag 49) - six
-
----
-
-### Jang
-
-35 Nennungen in 10 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
-| 4 | ch05:26 | By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a w.. |
-| 4 | ch05:30 | "Mr Jang. My name is Georgij." |
-| 4 | ch05:32 | "I know your name." Jang did not get up, and he did not pretend to be busy either. He tu.. |
-| 4 | ch05:36 | Jang looked at him. |
-| 4 | ch05:46 | Jang sat with that for a moment. There was a mug of instant coffee on the desk and he ha.. |
-| 4 | ch05:52 | "The gravel's been raked twice and there's still a stain under the second layer." Jang s.. |
-| 4 | ch05:62 | Jang looked at the sheets for a moment. Then he picked them up and read them, properly, .. |
-| 4 | ch05:74 | Jang put the sheets down. |
-| 4 | ch05:80 | "Second Wednesday of the month," Jang said. "The glass." |
-| 4 | ch05:84 | "I saw the anchors from the lawn this morning." Jang put the mug down properly. "That on.. |
-| 4 | ch05:92 | Jang read page six again. |
-| 4 | ch05:102 | Jang's chin came up half a centimetre. |
-| 4 | ch05:110 | Jang squared the nine sheets on the desk. |
-| 4 | ch05:122 | He walked the house with Jang for two hours and told him what he had and answered what h.. |
-| 4 | ch05:124 | By the end of it Jang had stopped calling him nothing at all and had started calling him.. |
-| 6 | ch05:188 | He put it at the top of what he was keeping for Jang, above the night man and above ever.. |
-| 22 | ch06:136 | At six Jang came to find him in the east room. |
-| 22 | ch06:146 | Jang stood in the doorway for a moment. |
-| 22 | ch11:10 | There was a second car waiting at the top of the ramp with two of Jang's people in it, a.. |
-| 23 | ch12:28 | Jang came up from the security office at nine with two sheets of paper. |
-| 23 | ch12:34 | Two of Jang's men on the cars. One inside the building who had not gone within forty met.. |
-| 23 | ch12:38 | "Three of those are drivers waiting," said Jang. "The fourth is a private hire that sat .. |
-| 23 | ch12:46 | "Mr Jang." |
-| 23 | ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
-| 27 | ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
-| 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
-| 41 | ch15:438 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
-| 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
-| 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
-| 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
-| 48 | ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
-| 48 | ch18:10 | Jang brought it up himself. |
-
-### Zahlen in der Naehe von Jang
-
-- `ch05:24` (Tag 4) - eight, four, two
-- `ch05:26` (Tag 4) - eleven, one, ten
-- `ch05:32` (Tag 4) - four
-- `ch05:62` (Tag 4) - eleven
-- `ch05:84` (Tag 4) - one
-- `ch05:92` (Tag 4) - six
-- `ch05:110` (Tag 4) - nine
-- `ch05:122` (Tag 4) - two
-- `ch06:136` (Tag 22) - six
-- `ch11:10` (Tag 22) - two
-- `ch12:28` (Tag 23) - nine, two
-- `ch12:34` (Tag 23) - forty, one, two
-- `ch12:38` (Tag 23) - eight, eleven forty, three
-- `ch12:56` (Tag 23) - two
-- `ch13:40` (Tag 27) - four
-- `ch13:80` (Tag 27) - four
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch15:228` (Tag 41) - four, three
-- `ch16:10` (Tag 46) - two
-- `ch17:236` (Tag 46) - nine, three
-- `ch17:254` (Tag 46) - six
-- `ch18:8` (Tag 48) - one
 
 ---
 
@@ -3976,7 +4119,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
 | 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
 | 49 | ch21:184 | "Do not tell me. I have just heard myself ask, and I would like both of us to notice tha.. |
-| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -3988,7 +4131,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:170` (Tag 25) - two
 - `ch21:160` (Tag 49) - nine, one, twenty
 - `ch21:184` (Tag 49) - three
-- `ch21:222` (Tag 49) - eight, nine, one, seven
+- `ch21:238` (Tag 49) - eight, nine, one, seven
 
 ---
 
@@ -4054,8 +4197,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:110 | "Ye-rin comes at nine, if she comes." |
 | 49 | ch21:118 | "Ye-rin comes at nine." |
 | 49 | ch21:194 | "You have just given me something that is not in your arrangement with her," he said. "T.. |
-| 49 | ch21:218 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:234 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:238 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -4065,8 +4208,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:112` (Tag 48) - one, three
 - `ch21:110` (Tag 49) - nine
 - `ch21:118` (Tag 49) - nine
-- `ch21:218` (Tag 49) - three
-- `ch21:222` (Tag 49) - eight, nine, one, seven
+- `ch21:234` (Tag 49) - three
+- `ch21:238` (Tag 49) - eight, nine, one, seven
 
 ---
 
@@ -4092,6 +4235,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Pyo
+
+7 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+| 49 | ch21:20 | Mr Pyo drove him. It was his week, and the address was one he had not been given before. |
+| 49 | ch21:310 | Mr Pyo brought the car round. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch16:296` (Tag 46) - one, two
+- `ch17:76` (Tag 46) - four, two
+- `ch17:130` (Tag 46) - three, two
+- `ch21:20` (Tag 49) - one
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -4110,48 +4277,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:150` (Tag 1) - forty
 - `ch05:128` (Tag 4) - one, three, two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Mr Pyo
-
-6 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
-| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
-
-### Zahlen in der Naehe von Mr Pyo
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
-- `ch17:76` (Tag 46) - four, two
-- `ch17:130` (Tag 46) - three, two
-
----
-
-### Mr Ku
-
-5 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
-| 49 | ch21:288 | Mr Ku brought the car round. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
 
 ---
 
@@ -4265,6 +4390,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch09:60` (Tag 22) - two
 - `ch09:72` (Tag 22) - two
+
+---
+
+### Mr Ku
+
+3 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
 
 ---
 

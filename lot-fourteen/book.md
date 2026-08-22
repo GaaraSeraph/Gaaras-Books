@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-21 Kapitel. 62.124 Woerter.
+22 Kapitel. 64.686 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,7 +29,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.0 | 2.796 |
+| 21 | v1.0 | 3.018 |
+| 22 | v1.0 | 2.340 |
 
 ---
 
@@ -6060,7 +6061,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 ---
 
-Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car and was not going to start pretending he did.
+Mr Pyo drove him. It was his week, and the address was one he had not been given before.
 
 The house was north of the river and up, on a road that stopped being a road about forty metres past her gate. Old money, old trees, a wall built when walls were built out of stone by men who were paid by the day.
 
@@ -6132,7 +6133,7 @@ Hana looked at the ceiling for a moment.
 
 "And what do I get."
 
-"Nothing that is not already yours. The lease was signed on Monday and I am not going to stand in your house and offer you a thing you have already been paid."
+"Nothing. The lease was signed on Monday."
 
 Hana put her chin down for a second.
 
@@ -6238,17 +6239,33 @@ Georgij was quiet, and then he said it, because it was true and because she had 
 
 "No, it does not."
 
-"In this city you are the woman who says things on terraces and never pays for any of them. That is not a habit. It is the whole of what you are worth, to me and to her and to everybody who has ever put a glass in your hand." He did not look away. "If it ever comes out that Hana's talk was arranged, you lose it in an afternoon, and you lose it for good, and nothing anybody could write down would give it back to you."
+He was going to say the rest of it, and she did not let him.
 
-"I know what it is," said Hana. "I have had it since I was twenty-six."
+"Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me what my own talk is worth. Don't."
 
-"Then you have given it away with your eyes open, and I am the one who asked you for it."
+"I was."
+
+"I know you were. You had the face on for it." She turned the glass a quarter turn and left it there. "I have been putting things into rooms since I was twenty-six and taking them out again the same evening. Half of what I say on a terrace I say on purpose. You worked that out in October and told her so, and you were right, and I did not mind."
+
+Georgij inclined his head and said nothing at all.
+
+"So no. You are not asking a careless woman to be careless for you." She sat back. "That would be worth nothing to anybody, and least of all to you."
+
+---
+
+"Then say what I am asking."
+
+"Something smaller than your speech, and worse." Hana looked at the trees for a moment. "In twenty-five years I have not once put a sentence into a room without knowing what it would do when it got there. That is the trade. You place it, you watch it land, and you take the credit in private."
+
+She looked back at him.
+
+"You have just asked me to say something and not know. I am the one who made you keep it from me, and I would do it again this afternoon, and it is still the first time."
 
 ---
 
 She was quiet for a while, and outside the trees did what trees do in November.
 
-"Write it down and I will have you thrown out," she said. "I mean that pleasantly."
+"Write any of it down and I will have you thrown out," she said. "I mean that pleasantly."
 
 "There is nothing to write down. I have nothing to sign with."
 
@@ -6264,9 +6281,15 @@ The water went round in her glass once more and then she put it on the table and
 
 "Woo at seven, and I will put him next to my father's shipping photographs, which are terrible. He will explain to me what is wrong with every one of them. He will enjoy it more than anything else that happens that evening." She was writing nothing down and forgetting nothing. "The Kims at eight. Ye-rin at nine if she comes at all. Kang at half past nine, because he always comes late and apologises for it and never means it."
 
-"And the photographs."
+"Then there will be photographs."
 
-"There will be none, because I do not allow them, and I have not allowed them since 2011, and every person on that list knows it." She looked at him. "Your chairman can have that in writing if he likes. Mine is the only house in this city where he can stand next to anybody at all."
+"There will be a photographer, because there is always a photographer, and he arrives at seven and goes home at nine." Hana said it the way you say a thing you have said every December. "Your chairman will be standing beside the Kim family at ten past eight with a glass in his hand. It will be in two papers on Thursday, and the man from the ministry will not have come through the door yet."
+
+Georgij sat with that for a second longer than he meant to.
+
+"You did not build the evening around him."
+
+"I built it the way I have built it for years, because old men go at nine and useful men arrive at nine, and you do not photograph the second half." She turned her hand over. "Your chairman's condition was met before you asked me for anything. That happens more often than men in your line of work believe."
 
 ---
 
@@ -6328,11 +6351,13 @@ Hana looked at him for a moment, and then she laughed, and this time it was the 
 
 ---
 
-Mr Ku brought the car round.
+Mr Pyo brought the car round.
 
 Georgij sat in the back of it going down the hill, with the trees going past on both sides. Then he did what he always did, which was to take the two hours apart and lay the pieces out in the order they had come.
 
-He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves. He had a rule about photographs that answered a condition Woo had made in a shed on Thursday. And a woman had put her own worth on the table and then told him not to write it down.
+He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves, and with a photographer who goes home at nine, which had been true before he was born and had nothing whatever to do with him.
+
+And a woman had agreed to say one sentence without being allowed to know what it was for, and had been quite clear that this was the part that cost her.
 
 Every one of those was work, and every one of them had gone the way work goes.
 
@@ -6343,3 +6368,284 @@ He turned it over twice on the way down and could not get it into either pile.
 In seventeen years he had always known which one a thing belonged to, and the knowing had come before the doing, every time. This had gone the other way round.
 
 He was still holding his gloves.
+
+---
+
+# Chapter 22: Not shown
+*Lot Fourteen* · Version 1.0 · EN
+
+*Day 55 · Thursday 27 November*
+
+The offer had gone out on the Monday, in the careful and entirely correct way that Mr Chae did everything, and by Tuesday afternoon two people had telephoned the house about it who had no business knowing.
+
+On Wednesday a third one telephoned, and this one did have business knowing, and he did not telephone the house.
+
+He telephoned Annie's office and asked for twenty minutes.
+
+---
+
+"He is coming here," she said.
+
+"Here."
+
+"He asked for the office and I said the house." Annie did not look up from the page. "A man who wants to see an office is asking about a company. Let him ask about a company in my hall."
+
+Georgij stood at the corner of the desk and worked at that for a moment, and could not get it to come out badly.
+
+It came out badly at about four o'clock, on the stairs, when it was too late to say anything about it.
+
+He had thought it through as a negotiation and had made a list, and every item on the list had been about Hanseong.
+
+Park Sang-hoon had asked him a question at a door on the eighteenth of November and had not been given an answer.
+
+---
+
+He came at half past five with one man, and the man stayed in the car.
+
+Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was to be entirely visible and entirely uninteresting.
+
+Sang-hoon stopped in the hall.
+
+He looked at the ceiling, and at the length of the floor, and at the stone shelf along the west side with the shallow bowl on it. He did it in the way of a man pricing a building he has no intention of buying.
+
+Then he went through to the long room, and Annie stood up, and the two of them were in the same room for the first time in eleven years.
+
+---
+
+Georgij took the chair nearest the door, which is where a shadow sits, and did not say anything for eighteen minutes.
+
+They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather he has already been out in, and Annie answered him at the depth he had asked and not a centimetre deeper.
+
+"Four routes and a board that has not met since March."
+
+"Yes."
+
+"You put a number on that."
+
+"I did."
+
+"It was a serious number," said Sang-hoon. "That is what interested me. It was not a nuisance number and it was not a number for a newspaper. Somebody sat down and worked out what those routes are worth on a fifteen-year view."
+
+Annie let that stand.
+
+"And it will not be answered," he said, "because you have asked forty per cent of that board to sign something in the same fortnight as the other sixty. They have not been in a room together since March, and you know that. It is on page sixteen of a document I have read."
+
+---
+
+There it was, at the nineteenth minute, and it was not even hostile.
+
+"You have read it," said Annie.
+
+"I have. It came to me in a restaurant, from him, and it was the best piece of work anybody has put in front of me in six years." Sang-hoon had not raised his voice at any point. "I have been trying since Monday to decide which of two things happened. Either your man went out and found me something and then went home and found you the same thing. Or he found it for you, and I was where he tried it out first."
+
+"Does it matter?"
+
+"Not to Hanseong. Hanseong is done either way." He turned his glass a quarter turn on the table and left it there. "It matters to me because in both of them there is somebody on the other side of the table who finds things. I have been in this trade thirty-one years and I know what that is worth, and until Monday I did not know whether you knew."
+
+---
+
+Annie said nothing.
+
+Georgij, in the chair by the door, was aware that his own name had been in the room for four minutes without anybody using it, and that this was the shape of the next thing.
+
+"So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in front of him, because asking it any other way would be worse."
+
+"Ask it."
+
+"What would he cost me?"
+
+---
+
+The room did what rooms do.
+
+There was a way to answer it. There were several, and Georgij had built two of them before the end of the sentence, because that is what seventeen years does.
+
+He could have said something flattering and empty, and Sang-hoon would have heard the emptiness and enjoyed it, and the moment would have gone past.
+
+He could have said nothing at all, and let Annie carry it, which is what a shadow is for.
+
+What he could not do was look across at her, because a man who looks at his owner when he is priced has already been priced.
+
+So he sat with his hands on his knees and kept his chin level, and waited for her to say a number or refuse to, and either of those would have ended it.
+
+---
+
+Annie stood up.
+
+She crossed to the doorway, and Georgij thought she was going to send for something, and in the two seconds it took him to think it she had already come back.
+
+She had the remote in her hand.
+
+It had been on the stone shelf in the hall since the first night, next to the shallow bowl, where she had put it down in front of him and left it. He had walked past it every day since. He had stood beside it last Friday in an empty hall and let one corner of his mouth go up at nobody.
+
+He had watched Park Sang-hoon look straight at it four minutes after coming through the door, and had thought nothing whatsoever about it.
+
+---
+
+She pressed it once.
+
+---
+
+Under the high collar of the shirt, the steel did what it was built to do.
+
+It is not the pain. He had been able to say that at twenty-three and it had been true then and it was true now. It is that the body goes somewhere without asking, and everything you have built out of stillness goes with it.
+
+His hands came off his knees. His shoulders went forward and his chin came down, and a sound got out of him that was not a word, and the chair moved on the floor behind him with a noise like a chair being moved.
+
+It lasted under a second.
+
+Then he was sitting in the chair again with his hands back on his knees, and his breathing was wrong, and there was nothing at all he could do about that for about thirty seconds.
+
+---
+
+Nobody moved.
+
+Annie stood where she was with the remote in her hand, in the open, at the height of her hip, and she did not put it away and she did not put it down.
+
+Sang-hoon looked at the collar for as long as it takes to read a short word.
+
+He had come here for exactly that and it had cost him nothing, and Georgij watched him understand both of those things and take no pleasure in either.
+
+"Well," said Sang-hoon.
+
+He picked his glass up and put it down again without drinking from it.
+
+"That is an answer."
+
+---
+
+He left four minutes later, and he was correct all the way to the door, and at the door he did not offer his hand.
+
+He said one thing, to Annie, in the flattest voice he had used all evening.
+
+"He gave me nineteen pages and I read them twice, and in six years nobody has made me do that." A small pause. "You want to be careful with that."
+
+Then he went out to his car, and the car went down the drive, and the gate did what the gate does.
+
+---
+
+Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and went out again without having been in it.
+
+Then it was the two of them in the long room, and the lamps, and the noise the house makes.
+
+---
+
+"You may go up," said Annie.
+
+Georgij stood.
+
+He found that he had to do it in one movement or not at all, and he did it in one movement. Then he stood at the corner of the table with his hands behind his back, the way he had stood at the corner of a hundred tables.
+
+"May I say something first, Mistress?"
+
+"Say it."
+
+---
+
+"You had two answers," he said. "You could have named a number, and he would have believed it, and it would have cost you nothing but a number. Or you could have refused, and refusing in that room would have been the same sentence in a better coat."
+
+His voice was where it always was.
+
+"You took a third one. And the third one was not for him."
+
+Annie did not move.
+
+"You put it on the shelf in the hall on the first night, in front of me, and you left it there. I have walked past it every day since. I thought I understood what that was, and this evening I found out that I had understood something else."
+
+"Say what you think it was."
+
+"I thought it meant you would not use it."
+
+He let one breath go by.
+
+"It meant you did not have to."
+
+---
+
+"That is not what it meant," said Annie.
+
+"Then I have it wrong, and I would still be standing here."
+
+---
+
+He looked at the table for a moment, at the two glasses that had already been taken away, and then he looked back up.
+
+"He asked what I would cost. I did not answer him." He kept his chin level. "I want you to hear that I did not answer him, because you did not wait to find out whether I would."
+
+"You were not going to answer him."
+
+"No."
+
+"Then nothing was taken from you."
+
+"The answer was not taken from me," said Georgij. "The giving of it was."
+
+---
+
+Annie's face did not do anything anywhere.
+
+"In the car eight days ago I told you a true thing that I had not planned to tell you, and it was not a report, and you put the partition up before I said it." He had not raised his voice by any measurable amount. "That was the first thing in seventeen years that I chose. Tonight there was a second one, and it was sitting in that chair, and it was mine.
+
+"You did not want to know whether I would say a number. You wanted it to be a thing that could not be said. So you made it one."
+
+---
+
+The house went on making its noise.
+
+"We had an agreement," said Georgij. "I said it in your car on the first night and you turned it over and gave it back to me on the gravel. Quid pro quo. Respect against obedience. You treat me well, and I am your useful shadow, and there has not been one hour since October in which I have not held up my half of it."
+
+He said the next word exactly the way he had said it in the car in Gangnam, before any of them knew what it was going to be worth.
+
+"You broke it tonight, Mistress."
+
+---
+
+Annie said nothing.
+
+There was a long moment in which the only thing that happened was that she did not put the remote down.
+
+"I am going to go out for a while," said Georgij.
+
+"Where?"
+
+"Out."
+
+---
+
+He did not wait to be told he could.
+
+That was the whole of it, and it took about four seconds, and afterwards neither of them could have said which of the two of them was more surprised by it.
+
+---
+
+He went down through the hall.
+
+He did not look at the shelf, and not looking at it took something.
+
+Jang was at the inner door, and had been at the inner door for the whole of it, and had heard whatever the inner door lets a man hear.
+
+"Do you smoke?"
+
+"Yes," said Jang.
+
+"May I have the packet and something to light it with?"
+
+Jang took the packet out of his coat and a lighter out of the same pocket and put both of them into Georgij's hand, and did not ask him anything and did not follow him.
+
+"I will bring the lighter back."
+
+"Keep the lighter," said Jang.
+
+---
+
+The garden at eight in the evening in the last week of November is a cold, black, entirely honest place.
+
+He walked the west side, past the cypresses, down to the wall.
+
+He had walked this line on his first night in the house, in the hour before anybody knew he was awake, and had come back in and written none of it down. Eleven houses had taught him that you map the ways out of a place on the first night, before you begin to like anybody in it, because after that you map them wrong.
+
+The wall was two and a half metres, and there was a place where the ground came up.
+
+He stood in front of it and smoked one of Jang's cigarettes all the way down, and did not think about very much at all.
+
+Then he found the place where the ground came up, and put his hands on the top of the wall, and went over it.

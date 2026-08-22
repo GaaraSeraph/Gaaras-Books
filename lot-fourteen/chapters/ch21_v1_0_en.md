@@ -17,7 +17,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 ---
 
-Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car and was not going to start pretending he did.
+Mr Pyo drove him. It was his week, and the address was one he had not been given before.
 
 The house was north of the river and up, on a road that stopped being a road about forty metres past her gate. Old money, old trees, a wall built when walls were built out of stone by men who were paid by the day.
 
@@ -89,7 +89,7 @@ Hana looked at the ceiling for a moment.
 
 "And what do I get."
 
-"Nothing that is not already yours. The lease was signed on Monday and I am not going to stand in your house and offer you a thing you have already been paid."
+"Nothing. The lease was signed on Monday."
 
 Hana put her chin down for a second.
 
@@ -195,17 +195,33 @@ Georgij was quiet, and then he said it, because it was true and because she had 
 
 "No, it does not."
 
-"In this city you are the woman who says things on terraces and never pays for any of them. That is not a habit. It is the whole of what you are worth, to me and to her and to everybody who has ever put a glass in your hand." He did not look away. "If it ever comes out that Hana's talk was arranged, you lose it in an afternoon, and you lose it for good, and nothing anybody could write down would give it back to you."
+He was going to say the rest of it, and she did not let him.
 
-"I know what it is," said Hana. "I have had it since I was twenty-six."
+"Stop." Hana was smiling at him, and it was not the kind one. "You are about to tell me what my own talk is worth. Don't."
 
-"Then you have given it away with your eyes open, and I am the one who asked you for it."
+"I was."
+
+"I know you were. You had the face on for it." She turned the glass a quarter turn and left it there. "I have been putting things into rooms since I was twenty-six and taking them out again the same evening. Half of what I say on a terrace I say on purpose. You worked that out in October and told her so, and you were right, and I did not mind."
+
+Georgij inclined his head and said nothing at all.
+
+"So no. You are not asking a careless woman to be careless for you." She sat back. "That would be worth nothing to anybody, and least of all to you."
+
+---
+
+"Then say what I am asking."
+
+"Something smaller than your speech, and worse." Hana looked at the trees for a moment. "In twenty-five years I have not once put a sentence into a room without knowing what it would do when it got there. That is the trade. You place it, you watch it land, and you take the credit in private."
+
+She looked back at him.
+
+"You have just asked me to say something and not know. I am the one who made you keep it from me, and I would do it again this afternoon, and it is still the first time."
 
 ---
 
 She was quiet for a while, and outside the trees did what trees do in November.
 
-"Write it down and I will have you thrown out," she said. "I mean that pleasantly."
+"Write any of it down and I will have you thrown out," she said. "I mean that pleasantly."
 
 "There is nothing to write down. I have nothing to sign with."
 
@@ -221,9 +237,15 @@ The water went round in her glass once more and then she put it on the table and
 
 "Woo at seven, and I will put him next to my father's shipping photographs, which are terrible. He will explain to me what is wrong with every one of them. He will enjoy it more than anything else that happens that evening." She was writing nothing down and forgetting nothing. "The Kims at eight. Ye-rin at nine if she comes at all. Kang at half past nine, because he always comes late and apologises for it and never means it."
 
-"And the photographs."
+"Then there will be photographs."
 
-"There will be none, because I do not allow them, and I have not allowed them since 2011, and every person on that list knows it." She looked at him. "Your chairman can have that in writing if he likes. Mine is the only house in this city where he can stand next to anybody at all."
+"There will be a photographer, because there is always a photographer, and he arrives at seven and goes home at nine." Hana said it the way you say a thing you have said every December. "Your chairman will be standing beside the Kim family at ten past eight with a glass in his hand. It will be in two papers on Thursday, and the man from the ministry will not have come through the door yet."
+
+Georgij sat with that for a second longer than he meant to.
+
+"You did not build the evening around him."
+
+"I built it the way I have built it for years, because old men go at nine and useful men arrive at nine, and you do not photograph the second half." She turned her hand over. "Your chairman's condition was met before you asked me for anything. That happens more often than men in your line of work believe."
 
 ---
 
@@ -285,11 +307,13 @@ Hana looked at him for a moment, and then she laughed, and this time it was the 
 
 ---
 
-Mr Ku brought the car round.
+Mr Pyo brought the car round.
 
 Georgij sat in the back of it going down the hill, with the trees going past on both sides. Then he did what he always did, which was to take the two hours apart and lay the pieces out in the order they had come.
 
-He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves. He had a rule about photographs that answered a condition Woo had made in a shed on Thursday. And a woman had put her own worth on the table and then told him not to write it down.
+He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves, and with a photographer who goes home at nine, which had been true before he was born and had nothing whatever to do with him.
+
+And a woman had agreed to say one sentence without being allowed to know what it was for, and had been quite clear that this was the part that cost her.
 
 Every one of those was work, and every one of them had gone the way work goes.
 

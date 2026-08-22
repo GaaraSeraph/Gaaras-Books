@@ -210,7 +210,7 @@ Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
 Das Herzstück. In der Vorlage passiert es im Bett und liest sich als Machtspiel, das eskaliert. Bei uns ist es ein Vertragsbruch.
 
-**Was passiert:** Mitten in etwas, das keine Verhandlung war, holt Annie die Hierarchie zurück. "Du bist hier, weil du nützlich bist. Im Büro und in diesem Bett. Vergiss den Unterschied nie." Und dann die Erinnerung an das Halsband.
+**Gestrichen am 22.08.:** Hier stand die Bett-Fassung - Annie holt mitten in etwas die Hierarchie zurück, *"Du bist hier, weil du nützlich bist. Im Büro und in diesem Bett."* Sie ist ersetzt durch den Anlass weiter unten, Sang-hoons Preisfrage und die Fernbedienung. **Beides zusammen wäre zweimal derselbe Schlag**, und der zweite entwertet den ersten. Es gibt genau einen Bruch, er hat einen Zeugen, und er passiert im Salon und nicht im Schlafzimmer.
 
 **Was er tut:** Er hört auf. Er zieht sich an. Er sagt es ihr ruhig und höflich, und zum ersten Mal seit dem ersten Abend kommt der Spott in das Wort "Mistress" zurück.
 

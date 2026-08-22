@@ -39,6 +39,34 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 46, Di 18. November: das Essen mit Sang-hoon, die Heimfahrt, die festgelegte Zeile
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
 - Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
+- Tag 52, Mo 24. November: das Gebot geht raus
+- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22)
+
+### Die Fahrerwoche
+
+**Der Wechsel liegt am Samstag.** Das ist nirgends ausgesprochen und ergibt sich
+zwingend aus zwei Stellen, die beide Kanon sind: Kapitel 11 an Tag 22, Samstag
+25. Oktober, fährt **Mr Ku**; Kapitel 16 an Tag 46, Dienstag 18. November, fährt
+**Mr Pyo**, und der Text sagt dort ausdrücklich *"The two drivers went week and
+week about and this one was his."* Bei einem Wechsel am Montag oder Sonntag gehen
+diese vierundzwanzig Tage nicht auf, bei einem Wechsel am Samstag genau.
+
+Daraus, für alles Weitere:
+
+| Woche | Wer |
+|---|---|
+| Sa 25.10 - Fr 31.10 | Ku |
+| Sa 1.11 - Fr 7.11 | Pyo |
+| Sa 8.11 - Fr 14.11 | Ku |
+| **Sa 15.11 - Fr 21.11** | **Pyo** (Kapitel 16, 17, 20, 21) |
+| Sa 22.11 - Fr 28.11 | Ku (Kapitel 22) |
+| Sa 29.11 - Fr 5.12 | Pyo |
+| Sa 13.12 - Fr 19.12 | Ku (Hanas Abend am 16.) |
+
+**Warum das hier steht.** In Kapitel 21 stand zuerst Mr Ku, an einem Freitag in
+Pyos Woche. Das ist der Fehler aus `doc/01-craft.md`, Punkt 2: ein Fahrer, der
+laut Rota diese Woche nicht fährt. Er fällt keinem Skript auf und keinem Leser,
+der nicht zurückblättert.
 
 **Feste Termine voraus, ab Kapitel 21 im Text genannt und damit Kanon:**
 
@@ -53,6 +81,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 22** *Not shown* (v1.0) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie antwortet mit der Fernbedienung, die seit der ersten Nacht auf der Steinablage in der Halle liegt, und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 - **Kapitel 21** *The ones who come at nine* (v1.0) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, und das Fotoverbot, das Woos zweite Bedingung aus Kapitel 19 beantwortet. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und leiht ihm damit das Einzige, was ihr gehoert. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.

@@ -44,9 +44,73 @@ Woran es typischerweise scheitert:
   Fahrer, der laut Rota diese Woche nicht faehrt.
 - **Ein Satz, der nur Haltung ist.** "Ich moechte vorsichtig sein mit dem Wort."
   Dann sei vorsichtig, statt es anzukuendigen.
+- **Ein Verdienst aus einer Unterlassung, die nichts kostet.** Siehe unten, eigener
+  Abschnitt. Das ist die haeufigste Art, wie sich Lob in die Erzaehlstimme schleicht.
 
 **Probe:** Den Satz laut lesen und fragen, was der Leser danach weiss, was er
 vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
+
+### 2b. Wer haette es getan
+
+**"Er tat X nicht" ist nur dann eine Aussage, wenn im Text jemand X erwartet
+hat.** Sonst ist es kein Satz ueber die Figur, sondern ein Kompliment, das der
+Erzaehler ihr macht, und es kostet die Figur nichts.
+
+Der Fund, aus Kapitel 21, Fassung 1.0:
+
+> Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not
+> have a car and was not going to start pretending he did.
+
+Niemand hat je vermutet, er wuerde so tun, als haette er einen Wagen. Es gibt
+keine Szene, in der er es tut, und keine Figur, die es ihm zutraut. Der Satz
+erfindet also eine Versuchung, damit die Figur ihr widerstehen kann.
+
+**Die Probe, ein Satz:** Wer im Text haette X getan? Steht dafuer keine Person
+und keine Stelle, wird gestrichen. Nicht umformuliert, gestrichen.
+
+**Woran man es im Satzbau erkennt.** Es haengt fast immer als zweites *because*
+oder zweites *and* hinten an einem Satz, der schon fertig war. Die erste
+Begruendung traegt, die zweite ist Zierat. Ein Satz mit zwei *because* ist
+verdaechtig, und die Wendungen *was not going to*, *did not bother to*, *never
+once considered*, *was not about to* sind es fast immer.
+
+**Die Ausnahme, und sie ist eng.** Wenn eine Figur X tatsaechlich erwogen oder
+frueher getan hat, ist das Unterlassen eine Handlung und gehoert hin. Kapitel 20:
+*"I gave him the account number ... After he signed, and not before, so that it
+did not pay for anything."* Da liegt beides im Text - er haette es vorher geben
+koennen, und der Unterschied kostet ihn etwas.
+
+**Und die Regel dahinter, die weiter reicht:** Was eine Figur ausmacht, sagt am
+besten eine andere Figur, und zwar als Beobachtung. Dieselbe Sache steht dreissig
+Absaetze spaeter aus Hanas Mund und tut dort Arbeit: *"You came up my drive in a
+car you did not choose, driven by a man you did not hire, wearing a coat somebody
+else paid for."* Der Erzaehler hatte sie vorweggenommen und dabei verdorben.
+
+**Zweite Schicht, im selben Kapitel und im selben Durchgang gefunden.** Auch wenn
+die Versuchung echt ist, wird sie nicht angekuendigt. Ebenfalls Kapitel 21,
+Fassung 1.0, auf Hanas Frage, was sie bekommt:
+
+> "Nothing that is not already yours. The lease was signed on Monday and I am
+> not going to stand in your house and offer you a thing you have already been
+> paid."
+
+Hana honoriert im naechsten Satz, dass er nichts angeboten hat. Die Erwartung
+steht also da, und trotzdem ist der Satz falsch, weil er die Unterlassung
+**ausspricht** statt sie zu vollziehen. Steht auf *"Nothing. The lease was signed
+on Monday."*, und ihre Antwort traegt genauso.
+
+**Und das Warnzeichen, das beide Faelle verbindet:** die Formel war aus dem
+eigenen Buch abgeschrieben. In Kapitel 15 steht *"I am not going to stand in your
+dining room and tell you..."*, dort zu Recht, weil Annie eine Zeile vorher
+widersprochen hat. In Kapitel 21 wurde daraus *"stand in your house"*. **Wenn
+sich eine Wendung beim Schreiben von selbst anbietet, kommt sie meistens aus dem
+Nachbarkapitel und nicht aus der Szene.**
+
+**Gegenprobe, die dazugehoert.** Nicht nach der Stelle suchen, die man kennt,
+sondern nach der Wendung. Der erste Durchgang suchte `was not going to start`
+und fand einen Treffer. Die Suche nach `not going to` fand sechsundzwanzig, davon
+zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
+**Der eigene Erwartungsfilter schneidet den Befund weg.**
 
 ### 3. Rueckbezug
 
