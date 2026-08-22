@@ -18,8 +18,18 @@ cd "$(git rev-parse --show-toplevel)"
 PY="$(command -v python3 || command -v python || true)"
 [ -n "$PY" ] || { echo "Kein python gefunden (python3/python). Commit abgebrochen."; exit 1; }
 
+# Nur die Projekte, an denen dieser Commit haengt. Vorher lief der Hook ueber
+# alle Buecher und legte deren erzeugte Dateien mit in den Commit - ein Commit
+# an Lot Fourteen hat so sechs Einfuegefassungen des zweiten Buches
+# veroeffentlicht, gebaut aus unfertigen Kapiteln, die selbst nicht mitgingen.
+TOUCHED="$(git diff --cached --name-only | cut -d/ -f1 | sort -u)"
+
 for proj in */; do
   [ -f "$proj/build.py" ] || continue
+  case "$TOUCHED" in
+    *"${proj%/}"*) ;;
+    *) continue ;;
+  esac
   echo "== $proj"
   if ! "$PY" "$proj/build.py" "$proj"; then
     echo "Build fehlgeschlagen. Commit abgebrochen."
@@ -35,8 +45,13 @@ for proj in */; do
   else
     "$PY" "$proj/check.py" 2>/dev/null | tail -3 || true
   fi
-  # Erzeugtes einsammeln, getrennt: ein nicht-matchender Glob soll den anderen
-  # add nicht mitreissen. paste/ (lot-fourteen), chapters/*.txt (andere Buecher).
-  git add "$proj/book.md" "$proj/HANDBUCH.md" "$proj/MANIFEST.txt" "$proj/paste" 2>/dev/null || true
+  # Erzeugtes einsammeln, jeden Pfad einzeln. In einem gemeinsamen Aufruf
+  # laesst ein fehlender Pfad den ganzen add scheitern, und das || true
+  # verschluckt es: das zweite Buch hat kein paste/, und deshalb blieben dort
+  # book.md, HANDBUCH.md und MANIFEST.txt still liegen, waehrend die
+  # Einfuegefassungen mitgingen. Genau die Sorte Fehler, die als Erfolg aussieht.
+  for gen in book.md HANDBUCH.md MANIFEST.txt BEGEGNUNGEN.md paste; do
+    [ -e "$proj$gen" ] && git add "$proj$gen" || true
+  done
   git add "$proj"chapters/*.txt 2>/dev/null || true
 done
