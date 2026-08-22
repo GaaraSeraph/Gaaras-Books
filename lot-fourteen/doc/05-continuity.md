@@ -90,7 +90,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.4) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -113,6 +113,14 @@ der nicht zurückblättert.
   **Eine Fassung, in der sie am 9. fragt und am 12. noch einmal, ist falsch.** Sie hat zuerst so dagestanden, und damit haette sie zweimal gefragt und ihre eigene Regel gebrochen, bevor Georgij ueberhaupt im Zimmer war.
 
   Jetzt hat sie etwas: Woo um sieben, die Kims vollzaehlig um acht. Zwei Tatsachen, keine Erklaerung.
+
+  **Und dann schlaegt Hana den Brief vor, nicht Georgij** - das ist wichtig, weil er vier Zeilen vorher gesagt hat, dass er in diesem Teil nicht vorkommt. Ihr Argument ist zwingend: Sie kann die zwei Namen ueberbringen und nicht sagen, wofuer sie stehen, **weil sie sich selbst verboten hat, es zu wissen**. Also entscheidet Ye-rin entweder am Sechzehnten stehend in Hanas Halle mit ihrer Familie im Raum, oder vier Tage vorher im eigenen Haus, mit den Worten des Mannes, der es zu verantworten hat.
+
+  **Georgij sagt das Papier-Risiko selbst an**, dasselbe, das er im November auf ihre Kosten gesagt hat: *"If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together. Nothing in it will be untrue. That does not help."* Er schreibt ihn trotzdem, und der Grund ist konsequent: **Jeder in dieser Sache hat den schlimmsten Teil zuerst bekommen ausser ihr.** Woo in einem Schuppen, Sung-ho stehend im eigenen Sitzungssaal in den ersten vier Minuten. *"She is the only one who has been handled, and she is the only one who has never been in a room with me, and those two facts are the same fact."*
+
+  **Hana deckt ihn**, unaufgefordert: ihre Karte, ihre Hand, ihr Haus auf dem Umschlag - *"that is a different object from a letter."* Georgij: *"That is the first time anybody in this country has covered for me."* - *"No, it is not. It is the first time you have noticed."*
+
+  **Offen:** Was in dem Brief steht, zeigt der Text noch nicht.
 
   **Und dann die zweite Einladung, und sie ist eine echte Entscheidung.** Am Dienstag hatte Hana nichts zu erzaehlen. Jetzt hat sie zwei Tatsachen, die keine Erklaerung sind: Woo um sieben, die Kims vollzaehlig um acht. Eine Gaesteliste darf man vorlesen. Ye-rin rechnet in vier Sekunden aus, was das bedeutet - und genau deshalb kann es auch nach hinten losgehen: *"If I ring her a second time in one week with two names in my mouth, she will hear a room being arranged around her, because there is one."*
 

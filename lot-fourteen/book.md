@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 79.331 Woerter.
+27 Kapitel. 79.868 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.3 | 3.057 |
+| 27 | v1.4 | 3.594 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8494,7 +8494,61 @@ Hana was quiet for a while.
 
 She put the card down face up.
 
-"Tomorrow," said Hana. "Not on the telephone, and not on a Tuesday, and it is the fifteenth time and there will not be a sixteenth."
+Hana was quiet for a moment.
+
+"Tomorrow," she said. "Not on the telephone, and not on a Tuesday, and it is the fifteenth time and there will not be a sixteenth."
+
+Then she looked up.
+
+"And you are going to write her something and I am going to take it with me."
+
+---
+
+Georgij did not answer immediately.
+
+"That is not a small thing to offer."
+
+"It is not an offer, it is the only way it works." Hana put both hands flat on the table. "You have just spent ten minutes telling me the difference between a woman who is in a room she did not choose and a woman who came anyway. I am not able to make that difference. I can carry two names to her and I cannot tell her what they are for, because I have made sure I do not know."
+
+"No."
+
+"So either she walks in on the sixteenth with a guest list in her head and works it out standing up, in my hall, with her family across the room" - she left it there for a second - "or the man who is responsible for it puts it in front of her in his own words four days early and lets her decide in her own house."
+
+---
+
+He thought about it for longer than he had thought about anything since the bridge.
+
+"You know what I am going to say about paper."
+
+"I know exactly what you are going to say about paper. You said it at my expense in November and you were right." Hana did not move. "Say it anyway, because you are going to do it whether you say it or not."
+
+---
+
+"It will exist," said Georgij. "Somebody will have written it and somebody will have carried it. If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together.
+
+"Nothing in it will be untrue. That does not help. There is no version of that letter that reads well in March if somebody has decided in advance what it means."
+
+"And you are going to write it."
+
+"I am going to write it."
+
+---
+
+"Why," said Hana.
+
+"Because everybody in this has had the worst part first except her." He said it without any weight on it. "Woo got it in a shed before he signed anything. Sung-ho got it standing up in his own boardroom, in the first four minutes, and he threw nothing at me. She is the only one who has been handled, and she is the only one who has never been in a room with me, and those two facts are the same fact."
+
+---
+
+Hana turned one of the cards over and pushed it across the table with two fingers.
+
+"Then use one of mine," she said. "My paper, my hand delivering it, my house on the back of the envelope. Whatever it is, it is a card from me with something folded inside it, and that is a different object from a letter."
+
+Georgij looked at the card for a moment.
+
+"That is the first time anybody in this country has covered for me," he said.
+
+"No, it is not." Hana had gone back to the stack. "It is the first time you have noticed."
 
 ---
 

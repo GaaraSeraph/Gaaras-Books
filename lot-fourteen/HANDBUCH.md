@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 62.329 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 62.734 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1404,7 +1404,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.4) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -1427,6 +1427,14 @@ der nicht zurückblättert.
   **Eine Fassung, in der sie am 9. fragt und am 12. noch einmal, ist falsch.** Sie hat zuerst so dagestanden, und damit haette sie zweimal gefragt und ihre eigene Regel gebrochen, bevor Georgij ueberhaupt im Zimmer war.
 
   Jetzt hat sie etwas: Woo um sieben, die Kims vollzaehlig um acht. Zwei Tatsachen, keine Erklaerung.
+
+  **Und dann schlaegt Hana den Brief vor, nicht Georgij** - das ist wichtig, weil er vier Zeilen vorher gesagt hat, dass er in diesem Teil nicht vorkommt. Ihr Argument ist zwingend: Sie kann die zwei Namen ueberbringen und nicht sagen, wofuer sie stehen, **weil sie sich selbst verboten hat, es zu wissen**. Also entscheidet Ye-rin entweder am Sechzehnten stehend in Hanas Halle mit ihrer Familie im Raum, oder vier Tage vorher im eigenen Haus, mit den Worten des Mannes, der es zu verantworten hat.
+
+  **Georgij sagt das Papier-Risiko selbst an**, dasselbe, das er im November auf ihre Kosten gesagt hat: *"If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together. Nothing in it will be untrue. That does not help."* Er schreibt ihn trotzdem, und der Grund ist konsequent: **Jeder in dieser Sache hat den schlimmsten Teil zuerst bekommen ausser ihr.** Woo in einem Schuppen, Sung-ho stehend im eigenen Sitzungssaal in den ersten vier Minuten. *"She is the only one who has been handled, and she is the only one who has never been in a room with me, and those two facts are the same fact."*
+
+  **Hana deckt ihn**, unaufgefordert: ihre Karte, ihre Hand, ihr Haus auf dem Umschlag - *"that is a different object from a letter."* Georgij: *"That is the first time anybody in this country has covered for me."* - *"No, it is not. It is the first time you have noticed."*
+
+  **Offen:** Was in dem Brief steht, zeigt der Text noch nicht.
 
   **Und dann die zweite Einladung, und sie ist eine echte Entscheidung.** Am Dienstag hatte Hana nichts zu erzaehlen. Jetzt hat sie zwei Tatsachen, die keine Erklaerung sind: Woo um sieben, die Kims vollzaehlig um acht. Eine Gaesteliste darf man vorlesen. Ye-rin rechnet in vier Sekunden aus, was das bedeutet - und genau deshalb kann es auch nach hinten losgehen: *"If I ring her a second time in one week with two names in my mouth, she will hear a room being arranged around her, because there is one."*
 
@@ -3492,8 +3500,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
-| Hana | 118 | 11 (09-27) | 6 | 55 |
-| Chairman Woo | 99 | 17 (07-27) | 3 | 59 |
+| Hana | 123 | 11 (09-27) | 6 | 55 |
+| Chairman Woo | 100 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
@@ -3849,7 +3857,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-118 Nennungen in 11 Kapiteln.
+123 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3969,8 +3977,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:312 | Hana looked at him. |
 | 9 | ch27:324 | Hana turned the card over that she had turned over twice already. |
 | 9 | ch27:338 | Hana was quiet for a while. |
-| 9 | ch27:348 | "Tomorrow," said Hana. "Not on the telephone, and not on a Tuesday, and it is the fiftee.. |
-| 9 | ch27:354 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:348 | Hana was quiet for a moment. |
+| 9 | ch27:362 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| 9 | ch27:374 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| 9 | ch27:388 | "Why," said Hana. |
+| 9 | ch27:394 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| 9 | ch27:402 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| 9 | ch27:408 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4012,13 +4025,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:224` (Tag 55) - nineteen
 - `ch27:156` (Tag 9) - forty
 - `ch27:180` (Tag 9) - fourteen, twelve
-- `ch27:354` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:362` (Tag 9) - ten, two
+- `ch27:394` (Tag 9) - one, two
+- `ch27:408` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
 ### Chairman Woo
 
-99 Nennungen in 17 Kapiteln.
+100 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4121,6 +4136,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:192 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
 | 9 | ch27:194 | She has sixteen thousand on the east side. Four covered buildings on the northern bounda.. |
 | 9 | ch27:314 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:390 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4173,6 +4189,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:192` (Tag 9) - forty, seven, twelve thousand
 - `ch27:194` (Tag 9) - four, sixteen thousand, thousand
 - `ch27:314` (Tag 9) - seven
+- `ch27:390` (Tag 9) - four, one, two
 
 ---
 
