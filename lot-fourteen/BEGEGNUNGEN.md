@@ -18,15 +18,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 187 | 18 (01-18) | 1 | 48 |
+| Annie | 198 | 19 (01-20) | 1 | 49 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 67 | 10 (07-19) | 22 | 48 |
+| Chairman Woo | 68 | 11 (07-20) | 22 | 49 |
 | Park Sang-hoon | 53 | 9 (10-19) | 22 | 48 |
-| Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
+| Mrs Seo | 37 | 11 (03-20) | 1 | 49 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
-| Mr Hong | 28 | 7 (07-19) | 22 | 48 |
+| Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 22 | 5 (09-17) | 22 | 46 |
-| Ji-won | 18 | 6 (03-14) | 1 | 34 |
+| Ji-won | 19 | 7 (03-20) | 1 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Kim Ye-rin | 7 | 4 (14-18) | 31 | 48 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-187 Nennungen in 18 Kapiteln.
+198 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -241,6 +241,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:272 | Annie picked the pen up. |
 | 48 | ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
 | 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 49 | ch20:24 | Annie read the contract before she said anything at all. |
+| 49 | ch20:40 | Annie put the pages down and squared them. |
+| 49 | ch20:60 | Annie almost did something with her mouth and then did not. |
+| 49 | ch20:68 | Annie stopped. |
+| 49 | ch20:82 | Annie put two fingers on the corner of the contract. |
+| 49 | ch20:102 | Annie looked at him for slightly longer than the sentence needed. |
+| 49 | ch20:118 | Annie's hand stopped on the edge of the desk. |
+| 49 | ch20:138 | Annie was quiet for the length of the gardeners arriving. |
+| 49 | ch20:152 | Annie sat back in the chair. |
+| 49 | ch20:168 | Annie did not say anything. |
+| 49 | ch20:192 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -293,6 +304,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
 - `ch18:282` (Tag 48) - one
+- `ch20:82` (Tag 49) - two
 
 ---
 
@@ -410,7 +422,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-67 Nennungen in 10 Kapiteln.
+68 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -481,6 +493,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
 | 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
+| 49 | ch20:206 | "Then find Chairman Woo a house." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -606,7 +619,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-36 Nennungen in 10 Kapiteln.
+37 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -646,6 +659,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
 | 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -666,6 +680,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:8` (Tag 23) - four, nine
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:22` (Tag 41) - one, three
+- `ch20:16` (Tag 49) - nine
 
 ---
 
@@ -740,7 +755,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hong
 
-28 Nennungen in 7 Kapiteln.
+29 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -772,6 +787,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
 | 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 | 48 | ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
+| 49 | ch20:72 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -836,7 +852,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Ji-won
 
-18 Nennungen in 6 Kapiteln.
+19 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -858,6 +874,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 23 | ch12:20 | "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she.. |
 | 27 | ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 49 | ch20:12 | Ji-won brought coffee up to the east room at half past seven and did not ask why he was .. |
 
 ### Zahlen in der Naehe von Ji-won
 
@@ -870,6 +887,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:10` (Tag 23) - ten
 - `ch13:8` (Tag 27) - nine, seven, twenty-seven, two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `ch20:12` (Tag 49) - seven
 
 ---
 

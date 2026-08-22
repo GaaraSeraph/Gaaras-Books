@@ -204,7 +204,9 @@ Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
 ### Block G - Der Bruch **[OFFEN]**
 
-**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt. Bei uns liegt der Bruch später, der Garten ist gestrichen, und die Versöhnung kommt nicht in derselben Nacht.
+**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt: **sechs Stationen**. Bei uns liegt der Bruch später und der Garten ist gestrichen, es sind also **drei** - Bruch, Mauer, Brücke.
+
+**Und die tragen eine Nacht.** *Korrigiert am 22.08.:* Hier stand, die Versöhnung komme nicht in derselben Nacht. Das war aus der Vorlage abgeschrieben und passt nicht mehr zu dem, was der Weggang inzwischen bedeutet. Er geht, um zu zeigen, dass er gehen **kann** und sich entschieden hat zu bleiben. Dieser Beweis ist in der ersten Stunde erbracht. Wer ihn über Tage ausdehnt, macht aus einer Vorführung einen Schmollwinkel und aus einem Mann, der wählt, einen, der straft.
 
 Das Herzstück. In der Vorlage passiert es im Bett und liest sich als Machtspiel, das eskaliert. Bei uns ist es ein Vertragsbruch.
 
@@ -352,7 +354,7 @@ Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von 
 
 **Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
 
-**Damit steht der Schluss auf drei Schlaegen und nicht auf vieren:** der Bruch, die Mauer, die Bruecke. Der Garten ist gestrichen, und die Versoehnung findet ausschliesslich auf dem Beton statt.
+**Damit steht der Schluss auf drei Schlaegen und nicht auf vieren:** der Bruch, die Mauer, die Bruecke. Der Garten ist gestrichen, die Versoehnung findet ausschliesslich auf dem Beton statt, **und alles drei geschieht in derselben Nacht.**
 
 **Und die Uhr steht fest:**
 
