@@ -119,6 +119,9 @@ Solva
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.
 - The old illnesses are gone from the body. Whether they are gone from him is an open question the text keeps open.
+- Gaara is a name he chose, not one he was given. Here there is nothing
+  underneath it, which is the only inheritance he arrived with that he likes.
+  He does not explain it and does not defend it.
 - He never says anything untrue. The evasions have to hold up word by word;
   see the bible, section 1. Jokes and exaggeration are exempt.
 - The old life is 19 years long. The chapters say nineteen years, every time.

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 6.133 Woerter.
+Alle 4 Dokumente am Stueck. 6.546 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -173,6 +173,9 @@ Solva
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.
 - The old illnesses are gone from the body. Whether they are gone from him is an open question the text keeps open.
+- Gaara is a name he chose, not one he was given. Here there is nothing
+  underneath it, which is the only inheritance he arrived with that he likes.
+  He does not explain it and does not defend it.
 - He never says anything untrue. The evasions have to hold up word by word;
   see the bible, section 1. Jokes and exaggeration are exempt.
 - The old life is 19 years long. The chapters say nineteen years, every time.
@@ -184,6 +187,23 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== The name Gaara is self-chosen, and the system read it off him ===
+Decided by the author: Gaara is not a birth name. He took it for himself in the
+old world, it established itself as what people called him, and it never
+appeared on a document. The bible had claimed the opposite for six chapters -
+"the name the system gave him" - which ch1 already contradicted: the panel has
+it before he says anything, and he reads "his name, spelled correctly". Per the
+canon hierarchy the text won and the line was rewritten.
+What the decision buys, and why it is worth more than a tidy bible line: the
+ch4 exchange gets sharper without a word being changed. "That's not a name" is
+correct, he knows it is correct, and "It is now" is therefore a claim and not a
+denial - which is also the only shape available to him, since he never says
+anything untrue. And it leaves one unspent implication on the table: the panel
+reported what he calls himself rather than what he was called, so the system
+reads self-conception, not record. That is a different order of thing from
+putting a number over a goat, and it belongs in a chapter, not in a doc.
+Thread 16 was rewritten to hold the part that is still open.
 
 === Gaara never says anything untrue, and that is canon now ===
 The author decided it: Gaara does not lie. He omits, deflects, answers a
@@ -317,11 +337,21 @@ Titles from Chapter 5 on should promise something rather than describe it.
 
 === 1. PROTAGONIST ===
 
-Name: Gaara. He brought it with him. The panel in ch1 already had it and
-spelled it correctly, so the system did not hand it to him - it read it off him.
-It is the only name he uses here. Whether it is the name on his old documents
-or one he took for himself back there is NOT on the page yet (thread 16).
-Marit's reaction: "That's not a name." His: "It is now."
+Name: Gaara. He picked it himself, back there. It started as something he was
+called and then it stuck, until it was simply what people used without
+thinking about it - and it was never on a document, a contract or a payslip in
+his life. He brought it with him. The panel in ch1 already had it and spelled
+it correctly, so the system did not hand it to him; it read it off him.
+Here it stops being a nickname and becomes the thing itself. There is no other
+name underneath it in this world, nobody who knew the first one, no paper to
+hold against it. For the first time it is just his.
+Marit's reaction: "That's not a name." His: "It is now." She is right, he
+knows she is right, and that is why the answer is a claim rather than a
+correction. Do not let a later chapter soften that exchange.
+UNSPENT, and worth spending on purpose: the panel showed the name he calls
+himself, not the name he was given. So the thing reads self-conception, not
+record. Nothing on the page says this yet. It sits next to thread 1 (it can
+write into his head) and thread 11 (Hallvard shows nothing at all).
 
 Old life
 - Age at transition: 38.
@@ -501,10 +531,11 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
-16. Where the name Gaara comes from. The panel had it before he said it, so it
-    is his and not the system's. Birth name or a name he took for himself in
-    the old world is still open, and Marit has already put the question in the
-    room once ("That's not a name").
+16. What the system read when it read his name. Settled: the name is one he
+    chose for himself in the old world (section 1). Still open, and unspent:
+    that means the panel showed self-conception and not record, which is a
+    different kind of thing from counting a goat. Also open: whether anyone
+    here ever hears the name he was born with, and what it would cost him.
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.

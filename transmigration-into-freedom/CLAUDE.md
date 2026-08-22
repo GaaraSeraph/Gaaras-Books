@@ -103,6 +103,9 @@ Enforcement, in layers:
   comes, comes deliberately and on the page as hand-tools plus magic.
 - He did not die. There was no accident. He went to sleep and woke up here.
 - Oldstep has forty houses, so roughly 150 to 200 people. Crowd sizes must match that.
+- Gaara is a name he chose for himself in the old world and that stuck as a
+  nickname. The system did not give it to him, it read it off him, and it was
+  never on any document. Here it is simply his name.
 - His old working life is 19 years long. Not fifteen, not sixteen. Both drifted in
   once and had to be pulled back out of four chapters.
 - The level in chapter 2 raised STR and DEX only. CON is 5 until he spends the

@@ -3,6 +3,23 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The name Gaara is self-chosen, and the system read it off him ===
+Decided by the author: Gaara is not a birth name. He took it for himself in the
+old world, it established itself as what people called him, and it never
+appeared on a document. The bible had claimed the opposite for six chapters -
+"the name the system gave him" - which ch1 already contradicted: the panel has
+it before he says anything, and he reads "his name, spelled correctly". Per the
+canon hierarchy the text won and the line was rewritten.
+What the decision buys, and why it is worth more than a tidy bible line: the
+ch4 exchange gets sharper without a word being changed. "That's not a name" is
+correct, he knows it is correct, and "It is now" is therefore a claim and not a
+denial - which is also the only shape available to him, since he never says
+anything untrue. And it leaves one unspent implication on the table: the panel
+reported what he calls himself rather than what he was called, so the system
+reads self-conception, not record. That is a different order of thing from
+putting a number over a goat, and it belongs in a chapter, not in a doc.
+Thread 16 was rewritten to hold the part that is still open.
+
 === Gaara never says anything untrue, and that is canon now ===
 The author decided it: Gaara does not lie. He omits, deflects, answers a
 narrower question and stays silent, but he never states a falsehood. The
