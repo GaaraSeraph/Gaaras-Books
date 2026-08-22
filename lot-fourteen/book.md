@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.004 Woerter.
+27 Kapitel. 79.916 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.5 | 3.730 |
+| 27 | v1.6 | 3.642 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8228,7 +8228,7 @@ Annie looked at him for a moment.
 
 "You want to put Woo on her land."
 
-"I want to put Woo's boxes on her open ground from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value is not a designation any more. It is an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
+"I want him on it from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value is not a designation any more. It is an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
 
 "And she stops being the soft part of my arrangement."
 
@@ -8268,7 +8268,7 @@ Chairman Woo said yes in about four minutes, which was three and a half minutes 
 
 "East side at Incheon."
 
-"Sixteen thousand under one owner, held eleven years. Four covered buildings on the northern boundary are let long term to somebody else and are not on offer." Georgij said it first and said it plainly. "What is on offer is the open ground, and it is about a thousand metres short of what you are renting in Yeonan."
+"One owner, held eleven years. Four covered buildings on the north boundary are let long term to somebody else and are not on offer." Georgij said it first and said it plainly. "What is on offer is the hardstanding, and it is about a thousand metres short of what you have now."
 
 "A thousand short."
 
@@ -8348,13 +8348,17 @@ Georgij put the folder on the table.
 
 ---
 
-He laid it out the way he had laid out Woo's contract on the Kim table, which is to say without any decoration and in the order that a person needs it.
+He laid it out in the same order he had used at that desk on Tuesday and in the shed on Thursday, and it took under two minutes, because there was nothing in it that needed a run-up.
 
-Chairman Woo has seven years of anchor cargo running through Incheon from January. He is currently renting twelve thousand square metres in Yeonan on the wrong side of the road and loses forty minutes a load in winter. He has been complaining about it since 2019 and everybody in the trade has heard him do it.
+She got to the end of it before he did.
 
-She has sixteen thousand on the east side. Four covered buildings on the northern boundary are spoken for under a lease that has not taken effect yet, and Georgij had put that in front of Woo before Woo could ask. The rest is open ground with a gate on the east, and it is standing empty, and it is a thousand metres less than Woo is renting now.
+"He knows about the four buildings."
 
-He took it anyway and said why, and the why is worth more to her than the acreage.
+"He knew before he asked. And he knows it is a thousand metres short of what he has in Yeonan, and he is taking it anyway, and the reason he gave me is a gate."
+
+---
+
+"Then say the part that is mine."
 
 "He will deal with you directly. There is no broker, no introduction fee, no commission to anybody, and the rate is yours to name in the same way his rate was his to name." Georgij kept his hands where they were. "He asked for the drawing. That is all he asked for."
 

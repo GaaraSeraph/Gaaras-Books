@@ -170,6 +170,36 @@ Regie sagt, dass er es nicht ist.
 *clever as hell* und deshalb richtig. Ein Mann, der schmeichelt, waehlt das
 zweite. Ein Mann, der es ernst meint und nicht mehr waehlt, sagt das erste.
 
+### 2d. Die Stiftshuette
+
+**Ein Vorgang wird einmal ausgefuehrt und danach nur noch beruehrt.**
+
+Exodus beschreibt die Stiftshuette zweimal in voller Laenge, einmal als
+Anweisung und einmal als Ausfuehrung, und das ist genau die Falle. In diesem
+Buch verhandelt Georgij dieselbe Sache regelmaessig mit drei Leuten
+nacheinander, weil das seine Arbeit ist. **Der Leser braucht sie einmal.**
+
+Kapitel 27, Fassung 1.5: Der Woo/Hana-Mietvertrag wurde dreimal vollstaendig
+vorgetragen - an Annie, an Woo, an Hana. Dieselben vier Zahlen, dasselbe Tor,
+dasselbe *since 2019*, dreimal. Beim Zaehlen: *open ground* viermal, *Yeonan*
+dreimal, *sixteen thousand* dreimal.
+
+**Die Regel fuer den zweiten und dritten Vortrag:**
+
+1. Der Erzaehler sagt, **dass** es vorgetragen wurde, und wie lange es gedauert
+   hat. *"He laid it out in the same order he had used at that desk on Tuesday
+   and in the shed on Thursday, and it took under two minutes."*
+2. Im Dialog steht nur, **was fuer diesen Zuhoerer neu ist.** Woo hoert den
+   Fehlbetrag, Hana hoert die Konditionen. Was beide schon wissen, faellt weg.
+3. **Der Zuhoerer darf vorgreifen.** Wer klug ist, kommt vor dem Sprecher ans
+   Ende - *"She got to the end of it before he did."* Das erledigt die
+   Wiederholung und charakterisiert im selben Zug.
+
+**Probe:** Ein Substantiv, das in einem Kapitel dreimal in derselben Funktion
+steht, ist fast immer die zweite Stiftshuette. Suchen laesst sich das mechanisch,
+und es lohnt sich bei jedem Kapitel, in dem dieselbe Sache zwei Raeume weit
+getragen wird.
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**
