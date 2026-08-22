@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.466 Woerter.
+24 Kapitel. 70.468 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,8 +31,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.1 | 2.555 |
-| 24 | v1.1 | 2.510 |
+| 23 | v3.2 | 2.558 |
+| 24 | v1.2 | 2.509 |
 
 ---
 
@@ -6719,7 +6719,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7005,7 +7005,7 @@ The traffic went over the joint above them four or five times.
 
 ---
 
-She did not answer straight away, and he filled it, which he had not done in a room in nine years.
+She did not answer straight away, and he filled it, which he had not done in a room since he was very much younger.
 
 "I have had four hours with that and I have got one sentence out of it," he said. "A man weighs the things he thinks are close to him. Nobody weighs a door handle."
 
@@ -7052,7 +7052,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7095,7 +7095,7 @@ Annie did not answer that.
 
 Annie did not answer that either.
 
-"Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do that, and you would call it her wage." He was not pressing it. "Mr Baek has been in that kitchen nine years and cooks angry at people who are rude to you. A man ran up a bridge tonight for somebody he has known eight weeks."
+"Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do that, and you would call it her wage." He was not pressing it. "Mr Baek cooks angry at people who have been rude to you, and nobody wrote that into anything. A man ran up a bridge tonight for somebody he has known eight weeks."
 
 "He is paid to follow."
 

@@ -903,7 +903,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:12` (Tag 49) - six
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
-- `ch24:45` (Tag 55) - eight, nine, one
+- `ch24:45` (Tag 55) - eight, one
 - `ch24:331` (Tag 55) - one, two
 
 ---
@@ -1197,7 +1197,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch24:45` (Tag 55) - eight, nine, one
+- `ch24:45` (Tag 55) - eight, one
 
 ---
 

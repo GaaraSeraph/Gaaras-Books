@@ -67,7 +67,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
 **Als Nächstes, in dieser Reihenfolge:**
 
-1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben. **Weiterhin offen** - Kapitel 18 war dafür vorgesehen und hat es nicht aufgenommen, weil das Kapitel schon vier Bewegungen trug.
+1. ~~**Tag 45 nachreichen.**~~ **Erledigt, und zwar ohne Szene.** Der Tag ist dreimal im Text abgedeckt und braucht keine eigene: Kapitel 16 (*"He had pulled the second section ... the previous afternoon"*), Kapitel 17 im Wortlaut an Annie, und Kapitel 20 (*"And the lease is signed. Monday, in front of her, and she did not have to ask me twice"*). Nicht jeder Kalendertag braucht ein Kapitel; dieser ist erwaehnt worden, wo er gebraucht wurde.
 2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
 3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
 
