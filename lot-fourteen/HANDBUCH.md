@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck. 22.953 Woerter.
+Alle 8 Dokumente am Stueck. 24.201 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -156,7 +156,10 @@ vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
   ein Ergebnis gezielt. Eines ohne Empfaenger ist eine Ausnahme und hat eine
   Geschichte, die in Kapitel 14 anfaengt.
 - Dasselbe gilt fuers Lachen. Kang, Sang-hoon, Woo und Hana haben je ein
-  wiedererkennbares. Georgij lacht im ganzen Buch genau einmal.
+  wiedererkennbares. **Georgij lacht zweimal**, und der Unterschied ist der
+  Punkt: Kapitel 7 an Mrs Sunwoo ueber die Decke, gebaut wie die Laecheln
+  daneben, und Kapitel 13 ueber Woos Schiffsagenten, *which was not work*. Der
+  Zusatz ergibt nur Sinn, weil es den Vergleichsfall gibt.
 
 ### 5. Satzzeichen
 
@@ -414,6 +417,23 @@ Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund verme
 
 **Grundsatz: Er lügt nie.** Er lässt aus, schmeichelt, schweigt, führt durch Auswahl in die Irre. Aber er sagt nichts Unwahres, und auf einen Lügenvorwurf oder eine direkte Frage korrigiert er sofort. Begründung ist unsentimental, nicht moralisch: eine Lüge muss gefüttert werden, solange der Zuhörer lebt, und er hat nie eine Tür gehabt, die von seiner Seite schließt.
 
+**Und hier reicht die Regel nicht hin: das Lächeln.** Ein Gesicht ist keine
+Aussage. Auslassen, schmeicheln, schweigen und durch Auswahl in die Irre führen
+sind vier Dinge, und das Werkzeug für alle vier ist dasselbe. Auf der Gala baut
+der Saal die Legende selbst, und was ihn dazu einlädt, ist kein Satz, sondern
+ein Lächeln, das eine Viertelsekunde zu spät kommt.
+
+Das ist keine Ausnahme von der Regel, sondern ihre Grenze, und der Text spricht
+sie nirgends aus. Georgij hält sich für sauber, weil er zählt, was er sagt.
+
+**Was das für den Bruch lädt.** Annies stärkste verfügbare Waffe ist dann nicht
+der Lügenvorwurf, den sie nicht erheben kann, sondern der Satz über sein
+Gesicht: dass er sie nie belogen und sie auch nie hat sehen lassen, was sein
+Gesicht getan hat, bevor er entschieden hat, was es tun soll. Damit trifft sie
+ihn an der einen Stelle, an der er sich für unangreifbar hält.
+
+Der Katalog aller Sorten steht in `doc/05-continuity.md`, nach Aufgabe geordnet.
+
 **Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
 
 **Die Grenze seines Verfahrens: Namen ohne Gesichter.** Er hat vierhundertdreißig Namen und einundneunzig durchgearbeitete, mit Schulgeld, Gerichtsakten und Wohnungskäufen. Was Papier ihm nicht gibt, sind Gesichter. Von elf Kims sind zwei fotografiert, die übrigen neun haben ihr Leben in einem Geschäft verbracht, auf das niemand eine Kamera hält. Er steht acht Meter vor der Familie und kann keinen einzigen Namen auf ein Gesicht legen. Geschlossen wird das nur über den Mund eines anderen Menschen.
@@ -463,8 +483,10 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 
 - **Das breite.** Geht bis nach oben und kommt eine Viertelsekunde zu spät, und genau die Verzögerung macht, dass man es glaubt. Gebaut in einem Haus in Daejeon, als er einundzwanzig war. Für Fremde, für den Saal, für die Fassade. Er setzt es an der Tür auf und lässt es dort.
 - **Das Ausgehen des Lächelns.** Seltener und wertvoller als jedes Lächeln. Wenn ihm jemand etwas Echtes sagt, geht es aus, und der andere merkt sofort, dass er gerade etwas auf den Tisch gelegt hat. Bei Chairman Woo und den zehn Monaten.
-- **Gar keins.** Bei Menschen, die den ganzen Abend angelächelt werden und für die es deshalb nichts wert ist. Bei Mrs Ryu.
+- **Gar keins.** Vor jemandem, der noch entscheidet, was man ist. Ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung. Bei der jungen Frau an der Bar, Kapitel 7 und 8. **Nicht bei Mrs Ryu** - dort steht kein Wort über ein Lächeln, sie bekommt eine ernst gemeinte Frage und gibt dafür sechs Minuten.
 - **Exakt gespiegelt.** Genau so warm wie das, was der andere mitgebracht hat, und kein Grad wärmer. Bei Mrs Sunwoo, die ihn aus der Auktion kennt.
+- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang. Es wird im Lauf des Buches häufiger, und das ist Absicht.
+- **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
 - **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
 
@@ -708,7 +730,8 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 **Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
 *Kanon, Kapitel 1 und 7.*
 
-**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij lächelt sie bewusst überhaupt nicht an, weil sie seit der Tür angelächelt wird und es deshalb nichts wert ist. Gibt ihm vier Minuten, was sie sonst nicht tut.
+**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij fragt sie danach, statt ihr das Kleid zu loben, und sagt ihr, es sei die einzige interessante Entscheidung des Jahres gewesen, **und er meint es, und sie hört, dass er es meint**. Ihr Gesicht ändert sich kaum. Sie gibt ihm trotzdem **sechs** Minuten, was sie sonst nicht tut.
+**Korrigiert:** Das bewusst weggelassene Lächeln gilt nicht ihr, sondern der jungen Frau an der Bar (Kapitel 7 und 8). Bei Ryu steht im Text kein Wort über ein Lächeln.
 *Kanon, Kapitel 7.*
 
 **Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
@@ -988,16 +1011,116 @@ muss.
 
 ### Die Lächeln
 
-Georgij besitzt viele, und fast alle sind Handwerk. Was im Text steht, mit Fundstelle, damit niemand eine Art zweimal erfindet:
+Georgij besitzt viele, und fast alle sind Handwerk.
 
-- **Das breite**, das ganz nach oben geht und eine Viertelsekunde zu spät ankommt, was der Grund ist, dass man es glaubt. Gebaut in einem Haus in Daejeon, als er einundzwanzig war. Hat bei Fremden nie versagt. (Kapitel 7)
-- **Das kalibrierte**, exakt so warm wie das mitgebrachte und kein Grad wärmer. (Kapitel 7, Mrs Sunwoo)
-- **Das Ausgehenlassen**, eine Sekunde, seltener und wertvoller als jedes Lächeln. (Kapitel 7, Chairman Woo)
-- **Das absichtlich Weggelassene**, vor jemandem, der noch entscheidet, was man ist. (Kapitel 7 und 8, die junge Frau)
-- **Das Respektvolle**, hauptsächlich im Kinn.
-- Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein Mensch ist. (Kapitel 8)
+**Geordnet nach Aufgabe, nicht nach Wärmegrad.** Ein Typ ist ein Werkzeug für
+einen Zweck, kein Gefühl. Wärmegrade lassen sich beliebig vermehren und ergeben
+eine Liste; Aufgaben nicht. Wer eine neue Art erfindet, sieht vorher hier nach.
 
-**Alle sind für eine Situation kuratiert, auf ein Gesicht gerichtet und auf ein Ergebnis gezielt.** In fünfzehn Minuten benutzt er vier verschiedene an neun Leuten und keines davon an Annie, und das fällt ihm erst später auf.
+Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
+
+#### I. Die Fassade - getragen, nicht gezielt
+
+- **Die entschiedene Miene.** Zwei Tage vorher gebaut, an der Tür aufgesetzt,
+  sechs Stunden gehalten. Eine junge Miene, am äußersten Rand dessen, was er
+  durchhält, und sie sagt: er kann die Decke nicht fassen, die Frau an seinem
+  Arm ist das Größte, was ihm je passiert ist, und er will niemandem Mühe
+  machen. Sie zielt auf niemanden. Sie ist der Boden, auf dem alles andere
+  steht. (Kapitel 7, *the face he had decided on two days ago*, und später
+  *slightly too pleased to be standing where he was standing*)
+- **Das breite.** Geht ganz nach oben und kommt eine Viertelsekunde zu spät, und
+  genau die Verzögerung macht, dass man es glaubt. Gebaut in einem Haus in
+  Daejeon, als er einundzwanzig war. Hat bei Fremden nie versagt. Es ist das
+  Werkzeug, das die Miene trägt: *Most of the work was done by the smile.*
+  (Kapitel 7)
+
+#### II. Die Werkzeuge - ein Gesicht, ein Ergebnis
+
+- **Das kalibrierte.** Exakt so warm wie das mitgebrachte und kein Grad wärmer.
+  Sagt: ich überbiete Dich nicht. (Kapitel 7, Mrs Sunwoo)
+- **Das Ausgehenlassen.** Geht eine Sekunde aus, wenn jemand etwas Echtes
+  hinlegt, und der andere merkt sofort, dass er gerade etwas auf den Tisch
+  gelegt hat. Seltener und wertvoller als jedes Lächeln. (Kapitel 7,
+  Chairman Woo)
+- **Das absichtlich Weggelassene.** Vor jemandem, der noch entscheidet, was man
+  ist: ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung,
+  und sie trifft seit vierzig Minuten Entscheidungen. (Kapitel 7 und 8, die
+  junge Frau an der Bar)
+- **Das zu frühe.** *Offen.* Kommt an, bevor der andere den Satz zu Ende hat, und
+  sagt ohne ein Wort: ich wusste es schon. Der Gegenzug zur Viertelsekunde des
+  breiten - dieselbe Uhr, andere Richtung. Für Sang-hoon und Do-yun.
+- **Das ans Publikum.** *Offen.* Zielt an dem vorbei, mit dem er spricht, auf den,
+  der zusieht. Der Empfänger ist nicht das Ziel.
+- **Das am Telefon.** *Offen.* Niemand sieht es, er baut es trotzdem, weil die
+  Stimme das Gesicht mitträgt. Reine Mechanik, an nichts verschwendet. Gehört
+  nach Kapitel 12, in Kangs Anruf.
+- Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel
+  läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein
+  Mensch ist. (Kapitel 8)
+
+#### III. Die Klingen - sie sollen als Drohung ankommen
+
+- **Das freundlichere, je schlimmer es wird.** *Offen, und die größte Lücke.*
+  `doc/02-leads.md` führt den Grundsatz seit Anfang: je zuvorkommender er wird,
+  desto näher ist jemand am Schaden. Ein Instrument dafür gibt es nicht.
+  Kapitel 1 zeigt die Mechanik ohne das Gesicht - *he said it gently*, während
+  er einen Mann vernichtet. Es ist das einzige Lächeln, bei dem der Leser die
+  Akte glaubt.
+- **Das kalte.** *Offen.* Kein Weglassen und keine Spiegelung: ein vollständiges
+  Lächeln, aus dem die Wärme herausgenommen ist, und der andere soll das merken.
+  Sagt: ich habe Dich gelesen und tue nicht so, als hätte ich nicht.
+- **Das halbe.** *Offen und sparsam.* Ein Mundwinkel, gilt niemandem, er
+  amüsiert sich. Das einzige, vor dem kompetente Leute Angst haben, weil es
+  heißt, dass er Spaß hat. Der Anker steht schon in Kapitel 17: *He knew he was
+  doing it and he did not take it off.*
+
+#### IV. Die unbewachten - es wird nichts geholt
+
+- **Das Respektvolle**, hauptsächlich im Kinn. Für Kompetenz, die ihm nichts
+  nützt. (Kapitel 5, der Schneider, der ihm eine Zeile vorher gesagt hat, wie er
+  das Kinn zu halten hat)
+- **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
+  Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
+  (Kapitel 3, Ji-won auf der Treppe)
+- **Das ehrlich freundliche.** *Offen, und der Angelpunkt.* Für Mrs Seo, Ji-won,
+  Bae, Jang. Nicht gebaut, sondern **entschieden** - und es holt nichts. Der
+  Text sagt mehrfach *and he meant it* und hängt kein Gesicht daran; genau dort
+  gehört es hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she
+  could hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt
+  ihm trotzdem sechs Minuten.
+
+  **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
+  selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
+  since I came here*, nur im Gesicht statt in der Erzählung. Er hat aufgehört,
+  die Stelle zu suchen, an der es weh tut, und gleichzeitig angefangen, Leute
+  anzulächeln, von denen er nichts will, und keines von beidem hat er
+  beschlossen.
+
+  **Abgrenzung, die halten muss:** *Das eigene* ist unfreiwillig und überrascht
+  ihn. *Das ehrlich freundliche* entscheidet er. Wer die zwei vermischt,
+  verbraucht die zwei in siebzehn Jahren.
+- **Das eigene.** Zwei in siebzehn Jahren, beide vergeben. Siehe unten.
+- **Das ungebaute.** Ab Tag 34, an Annie. Siehe unten.
+
+#### V. Was er bekommt
+
+- **Das wiedererkannte.** *Halb im Text.* Chef Bang steht in Kapitel 8 während
+  der Gebote in Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man
+  ihm gesagt hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
+  Er erkennt das Lächeln, weil es seins ist. Der Text kommentiert nichts, und
+  das bleibt so. Es fehlt nur die halbe Zeile, die sagt, warum es teuer ist.
+
+---
+
+**Alle in I bis III sind für eine Situation kuratiert, auf ein Gesicht gerichtet und auf ein Ergebnis gezielt.** In fünfzehn Minuten benutzt er vier verschiedene an neun Leuten und keines davon an Annie, und das fällt ihm erst später auf.
+
+**Wo die Regel nicht hinreicht.** Er sagt nie etwas Unwahres, und ein Gesicht ist
+keine Aussage. Die Gruppen II und III sind damit die einzige Stelle, an der sein
+Grundsatz nicht greift, und Gruppe IV die einzige, an der er ihn nicht braucht.
+Ausführlich in `doc/02-leads.md` unter **Er lügt nie**.
+
+**Der Bogen.** Das Buch bewegt ihn von I und II nach IV. Der Katalog erzählt
+damit dieselbe Geschichte wie die festgelegte Zeile in Kapitel 17.
 
 **Zwei in siebzehn Jahren waren seine eigenen.**
 
@@ -1507,9 +1630,14 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   Steht seit Kapitel 15 im Text, also erledigt, aber es darf nicht wieder
   herausfallen.
 
-- **Georgij lacht genau einmal im ganzen Buch**, in Kapitel 13 ueber Woos
-  Geschichte vom Schiffsagenten. *"which was not work."* Das ist dieselbe Gattung
-  wie das ungebaute Laecheln und wurde bisher nirgends verbucht.
+- **Georgij lacht zweimal, nicht einmal.** Kapitel 7 an Mrs Sunwoo, nachdem sie
+  die Decke haesslich genannt hat: *"He laughed. She was pleased. She went
+  away."* Das ist Handwerk, gebaut wie die Laecheln daneben. Und Kapitel 13 ueber
+  Woos Geschichte vom Schiffsagenten: *"which was not work."* Nur das zweite ist
+  dieselbe Gattung wie das ungebaute Laecheln. Der Zusatz *which was not work*
+  ergibt ueberhaupt nur Sinn, weil der Vergleichsfall existiert - und er stand
+  bisher nirgends verbucht, was den einen echten Lacher billiger gemacht hat,
+  als er ist.
 
 - **Der Zahltag von quid pro quo.** Ab Kapitel 17 faellt der Satz nicht mehr
   beilaeufig. Die naechste Verwendung ist die im Bruch. Eine Ausnahme ist bereits

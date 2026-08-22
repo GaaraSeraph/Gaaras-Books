@@ -47,6 +47,23 @@ Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund verme
 
 **Grundsatz: Er lügt nie.** Er lässt aus, schmeichelt, schweigt, führt durch Auswahl in die Irre. Aber er sagt nichts Unwahres, und auf einen Lügenvorwurf oder eine direkte Frage korrigiert er sofort. Begründung ist unsentimental, nicht moralisch: eine Lüge muss gefüttert werden, solange der Zuhörer lebt, und er hat nie eine Tür gehabt, die von seiner Seite schließt.
 
+**Und hier reicht die Regel nicht hin: das Lächeln.** Ein Gesicht ist keine
+Aussage. Auslassen, schmeicheln, schweigen und durch Auswahl in die Irre führen
+sind vier Dinge, und das Werkzeug für alle vier ist dasselbe. Auf der Gala baut
+der Saal die Legende selbst, und was ihn dazu einlädt, ist kein Satz, sondern
+ein Lächeln, das eine Viertelsekunde zu spät kommt.
+
+Das ist keine Ausnahme von der Regel, sondern ihre Grenze, und der Text spricht
+sie nirgends aus. Georgij hält sich für sauber, weil er zählt, was er sagt.
+
+**Was das für den Bruch lädt.** Annies stärkste verfügbare Waffe ist dann nicht
+der Lügenvorwurf, den sie nicht erheben kann, sondern der Satz über sein
+Gesicht: dass er sie nie belogen und sie auch nie hat sehen lassen, was sein
+Gesicht getan hat, bevor er entschieden hat, was es tun soll. Damit trifft sie
+ihn an der einen Stelle, an der er sich für unangreifbar hält.
+
+Der Katalog aller Sorten steht in `doc/05-continuity.md`, nach Aufgabe geordnet.
+
 **Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
 
 **Die Grenze seines Verfahrens: Namen ohne Gesichter.** Er hat vierhundertdreißig Namen und einundneunzig durchgearbeitete, mit Schulgeld, Gerichtsakten und Wohnungskäufen. Was Papier ihm nicht gibt, sind Gesichter. Von elf Kims sind zwei fotografiert, die übrigen neun haben ihr Leben in einem Geschäft verbracht, auf das niemand eine Kamera hält. Er steht acht Meter vor der Familie und kann keinen einzigen Namen auf ein Gesicht legen. Geschlossen wird das nur über den Mund eines anderen Menschen.
@@ -96,8 +113,10 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 
 - **Das breite.** Geht bis nach oben und kommt eine Viertelsekunde zu spät, und genau die Verzögerung macht, dass man es glaubt. Gebaut in einem Haus in Daejeon, als er einundzwanzig war. Für Fremde, für den Saal, für die Fassade. Er setzt es an der Tür auf und lässt es dort.
 - **Das Ausgehen des Lächelns.** Seltener und wertvoller als jedes Lächeln. Wenn ihm jemand etwas Echtes sagt, geht es aus, und der andere merkt sofort, dass er gerade etwas auf den Tisch gelegt hat. Bei Chairman Woo und den zehn Monaten.
-- **Gar keins.** Bei Menschen, die den ganzen Abend angelächelt werden und für die es deshalb nichts wert ist. Bei Mrs Ryu.
+- **Gar keins.** Vor jemandem, der noch entscheidet, was man ist. Ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung. Bei der jungen Frau an der Bar, Kapitel 7 und 8. **Nicht bei Mrs Ryu** - dort steht kein Wort über ein Lächeln, sie bekommt eine ernst gemeinte Frage und gibt dafür sechs Minuten.
 - **Exakt gespiegelt.** Genau so warm wie das, was der andere mitgebracht hat, und kein Grad wärmer. Bei Mrs Sunwoo, die ihn aus der Auktion kennt.
+- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang. Es wird im Lauf des Buches häufiger, und das ist Absicht.
+- **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
 - **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
 

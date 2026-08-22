@@ -74,7 +74,10 @@ vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
   ein Ergebnis gezielt. Eines ohne Empfaenger ist eine Ausnahme und hat eine
   Geschichte, die in Kapitel 14 anfaengt.
 - Dasselbe gilt fuers Lachen. Kang, Sang-hoon, Woo und Hana haben je ein
-  wiedererkennbares. Georgij lacht im ganzen Buch genau einmal.
+  wiedererkennbares. **Georgij lacht zweimal**, und der Unterschied ist der
+  Punkt: Kapitel 7 an Mrs Sunwoo ueber die Decke, gebaut wie die Laecheln
+  daneben, und Kapitel 13 ueber Woos Schiffsagenten, *which was not work*. Der
+  Zusatz ergibt nur Sinn, weil es den Vergleichsfall gibt.
 
 ### 5. Satzzeichen
 

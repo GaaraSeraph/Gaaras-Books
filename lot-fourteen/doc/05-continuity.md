@@ -79,16 +79,116 @@ muss.
 
 ### Die Lächeln
 
-Georgij besitzt viele, und fast alle sind Handwerk. Was im Text steht, mit Fundstelle, damit niemand eine Art zweimal erfindet:
+Georgij besitzt viele, und fast alle sind Handwerk.
 
-- **Das breite**, das ganz nach oben geht und eine Viertelsekunde zu spät ankommt, was der Grund ist, dass man es glaubt. Gebaut in einem Haus in Daejeon, als er einundzwanzig war. Hat bei Fremden nie versagt. (Kapitel 7)
-- **Das kalibrierte**, exakt so warm wie das mitgebrachte und kein Grad wärmer. (Kapitel 7, Mrs Sunwoo)
-- **Das Ausgehenlassen**, eine Sekunde, seltener und wertvoller als jedes Lächeln. (Kapitel 7, Chairman Woo)
-- **Das absichtlich Weggelassene**, vor jemandem, der noch entscheidet, was man ist. (Kapitel 7 und 8, die junge Frau)
-- **Das Respektvolle**, hauptsächlich im Kinn.
-- Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein Mensch ist. (Kapitel 8)
+**Geordnet nach Aufgabe, nicht nach Wärmegrad.** Ein Typ ist ein Werkzeug für
+einen Zweck, kein Gefühl. Wärmegrade lassen sich beliebig vermehren und ergeben
+eine Liste; Aufgaben nicht. Wer eine neue Art erfindet, sieht vorher hier nach.
 
-**Alle sind für eine Situation kuratiert, auf ein Gesicht gerichtet und auf ein Ergebnis gezielt.** In fünfzehn Minuten benutzt er vier verschiedene an neun Leuten und keines davon an Annie, und das fällt ihm erst später auf.
+Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
+
+#### I. Die Fassade - getragen, nicht gezielt
+
+- **Die entschiedene Miene.** Zwei Tage vorher gebaut, an der Tür aufgesetzt,
+  sechs Stunden gehalten. Eine junge Miene, am äußersten Rand dessen, was er
+  durchhält, und sie sagt: er kann die Decke nicht fassen, die Frau an seinem
+  Arm ist das Größte, was ihm je passiert ist, und er will niemandem Mühe
+  machen. Sie zielt auf niemanden. Sie ist der Boden, auf dem alles andere
+  steht. (Kapitel 7, *the face he had decided on two days ago*, und später
+  *slightly too pleased to be standing where he was standing*)
+- **Das breite.** Geht ganz nach oben und kommt eine Viertelsekunde zu spät, und
+  genau die Verzögerung macht, dass man es glaubt. Gebaut in einem Haus in
+  Daejeon, als er einundzwanzig war. Hat bei Fremden nie versagt. Es ist das
+  Werkzeug, das die Miene trägt: *Most of the work was done by the smile.*
+  (Kapitel 7)
+
+#### II. Die Werkzeuge - ein Gesicht, ein Ergebnis
+
+- **Das kalibrierte.** Exakt so warm wie das mitgebrachte und kein Grad wärmer.
+  Sagt: ich überbiete Dich nicht. (Kapitel 7, Mrs Sunwoo)
+- **Das Ausgehenlassen.** Geht eine Sekunde aus, wenn jemand etwas Echtes
+  hinlegt, und der andere merkt sofort, dass er gerade etwas auf den Tisch
+  gelegt hat. Seltener und wertvoller als jedes Lächeln. (Kapitel 7,
+  Chairman Woo)
+- **Das absichtlich Weggelassene.** Vor jemandem, der noch entscheidet, was man
+  ist: ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung,
+  und sie trifft seit vierzig Minuten Entscheidungen. (Kapitel 7 und 8, die
+  junge Frau an der Bar)
+- **Das zu frühe.** *Offen.* Kommt an, bevor der andere den Satz zu Ende hat, und
+  sagt ohne ein Wort: ich wusste es schon. Der Gegenzug zur Viertelsekunde des
+  breiten - dieselbe Uhr, andere Richtung. Für Sang-hoon und Do-yun.
+- **Das ans Publikum.** *Offen.* Zielt an dem vorbei, mit dem er spricht, auf den,
+  der zusieht. Der Empfänger ist nicht das Ziel.
+- **Das am Telefon.** *Offen.* Niemand sieht es, er baut es trotzdem, weil die
+  Stimme das Gesicht mitträgt. Reine Mechanik, an nichts verschwendet. Gehört
+  nach Kapitel 12, in Kangs Anruf.
+- Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel
+  läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein
+  Mensch ist. (Kapitel 8)
+
+#### III. Die Klingen - sie sollen als Drohung ankommen
+
+- **Das freundlichere, je schlimmer es wird.** *Offen, und die größte Lücke.*
+  `doc/02-leads.md` führt den Grundsatz seit Anfang: je zuvorkommender er wird,
+  desto näher ist jemand am Schaden. Ein Instrument dafür gibt es nicht.
+  Kapitel 1 zeigt die Mechanik ohne das Gesicht - *he said it gently*, während
+  er einen Mann vernichtet. Es ist das einzige Lächeln, bei dem der Leser die
+  Akte glaubt.
+- **Das kalte.** *Offen.* Kein Weglassen und keine Spiegelung: ein vollständiges
+  Lächeln, aus dem die Wärme herausgenommen ist, und der andere soll das merken.
+  Sagt: ich habe Dich gelesen und tue nicht so, als hätte ich nicht.
+- **Das halbe.** *Offen und sparsam.* Ein Mundwinkel, gilt niemandem, er
+  amüsiert sich. Das einzige, vor dem kompetente Leute Angst haben, weil es
+  heißt, dass er Spaß hat. Der Anker steht schon in Kapitel 17: *He knew he was
+  doing it and he did not take it off.*
+
+#### IV. Die unbewachten - es wird nichts geholt
+
+- **Das Respektvolle**, hauptsächlich im Kinn. Für Kompetenz, die ihm nichts
+  nützt. (Kapitel 5, der Schneider, der ihm eine Zeile vorher gesagt hat, wie er
+  das Kinn zu halten hat)
+- **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
+  Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
+  (Kapitel 3, Ji-won auf der Treppe)
+- **Das ehrlich freundliche.** *Offen, und der Angelpunkt.* Für Mrs Seo, Ji-won,
+  Bae, Jang. Nicht gebaut, sondern **entschieden** - und es holt nichts. Der
+  Text sagt mehrfach *and he meant it* und hängt kein Gesicht daran; genau dort
+  gehört es hin. Am deutlichsten bei Mrs Ryu in Kapitel 7: *he meant it, and she
+  could hear that he meant it*, und ihr Gesicht ändert sich kaum, und sie gibt
+  ihm trotzdem sechs Minuten.
+
+  **Es wird häufiger.** In Kapitel 3 bis 6 selten und knapp, im Schluss
+  selbstverständlich. Das ist dieselbe Bewegung wie *I have not looked once
+  since I came here*, nur im Gesicht statt in der Erzählung. Er hat aufgehört,
+  die Stelle zu suchen, an der es weh tut, und gleichzeitig angefangen, Leute
+  anzulächeln, von denen er nichts will, und keines von beidem hat er
+  beschlossen.
+
+  **Abgrenzung, die halten muss:** *Das eigene* ist unfreiwillig und überrascht
+  ihn. *Das ehrlich freundliche* entscheidet er. Wer die zwei vermischt,
+  verbraucht die zwei in siebzehn Jahren.
+- **Das eigene.** Zwei in siebzehn Jahren, beide vergeben. Siehe unten.
+- **Das ungebaute.** Ab Tag 34, an Annie. Siehe unten.
+
+#### V. Was er bekommt
+
+- **Das wiedererkannte.** *Halb im Text.* Chef Bang steht in Kapitel 8 während
+  der Gebote in Weiß neben dem Pult, die Hände gefaltet, und lächelt, weil man
+  ihm gesagt hat, wo er stehen soll. Georgij rechnet daneben **drei einhalb**.
+  Er erkennt das Lächeln, weil es seins ist. Der Text kommentiert nichts, und
+  das bleibt so. Es fehlt nur die halbe Zeile, die sagt, warum es teuer ist.
+
+---
+
+**Alle in I bis III sind für eine Situation kuratiert, auf ein Gesicht gerichtet und auf ein Ergebnis gezielt.** In fünfzehn Minuten benutzt er vier verschiedene an neun Leuten und keines davon an Annie, und das fällt ihm erst später auf.
+
+**Wo die Regel nicht hinreicht.** Er sagt nie etwas Unwahres, und ein Gesicht ist
+keine Aussage. Die Gruppen II und III sind damit die einzige Stelle, an der sein
+Grundsatz nicht greift, und Gruppe IV die einzige, an der er ihn nicht braucht.
+Ausführlich in `doc/02-leads.md` unter **Er lügt nie**.
+
+**Der Bogen.** Das Buch bewegt ihn von I und II nach IV. Der Katalog erzählt
+damit dieselbe Geschichte wie die festgelegte Zeile in Kapitel 17.
 
 **Zwei in siebzehn Jahren waren seine eigenen.**
 

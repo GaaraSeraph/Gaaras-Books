@@ -75,9 +75,14 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   Steht seit Kapitel 15 im Text, also erledigt, aber es darf nicht wieder
   herausfallen.
 
-- **Georgij lacht genau einmal im ganzen Buch**, in Kapitel 13 ueber Woos
-  Geschichte vom Schiffsagenten. *"which was not work."* Das ist dieselbe Gattung
-  wie das ungebaute Laecheln und wurde bisher nirgends verbucht.
+- **Georgij lacht zweimal, nicht einmal.** Kapitel 7 an Mrs Sunwoo, nachdem sie
+  die Decke haesslich genannt hat: *"He laughed. She was pleased. She went
+  away."* Das ist Handwerk, gebaut wie die Laecheln daneben. Und Kapitel 13 ueber
+  Woos Geschichte vom Schiffsagenten: *"which was not work."* Nur das zweite ist
+  dieselbe Gattung wie das ungebaute Laecheln. Der Zusatz *which was not work*
+  ergibt ueberhaupt nur Sinn, weil der Vergleichsfall existiert - und er stand
+  bisher nirgends verbucht, was den einen echten Lacher billiger gemacht hat,
+  als er ist.
 
 - **Der Zahltag von quid pro quo.** Ab Kapitel 17 faellt der Satz nicht mehr
   beilaeufig. Die naechste Verwendung ist die im Bruch. Eine Ausnahme ist bereits

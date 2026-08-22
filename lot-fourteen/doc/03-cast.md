@@ -183,7 +183,8 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 **Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
 *Kanon, Kapitel 1 und 7.*
 
-**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij lächelt sie bewusst überhaupt nicht an, weil sie seit der Tür angelächelt wird und es deshalb nichts wert ist. Gibt ihm vier Minuten, was sie sonst nicht tut.
+**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij fragt sie danach, statt ihr das Kleid zu loben, und sagt ihr, es sei die einzige interessante Entscheidung des Jahres gewesen, **und er meint es, und sie hört, dass er es meint**. Ihr Gesicht ändert sich kaum. Sie gibt ihm trotzdem **sechs** Minuten, was sie sonst nicht tut.
+**Korrigiert:** Das bewusst weggelassene Lächeln gilt nicht ihr, sondern der jungen Frau an der Bar (Kapitel 7 und 8). Bei Ryu steht im Text kein Wort über ein Lächeln.
 *Kanon, Kapitel 7.*
 
 **Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
