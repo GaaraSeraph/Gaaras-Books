@@ -253,11 +253,17 @@ def build_register(root, chapters):
             for day, num, i, z in mit_zahl:
                 out.append(f"- `ch{num:02d}:{i}` (Tag {day if day else '?'}) - "
                            + ", ".join(sorted(set(x.lower() for x in z))))
-    write_text(os.path.join(root, "BEGEGNUNGEN.md"), "\n".join(out) + "\n")
-    return sum(1 for n in found if found[n])
+    text = "\n".join(out) + "\n"
+    write_text(os.path.join(root, "BEGEGNUNGEN.md"), text)
+    return sum(1 for n in found if found[n]), text
 
 
-def build_handbook(root):
+def build_handbook(root, register=None):
+    """Alle doc/-Dokumente am Stueck, plus das Begegnungsregister als letzter
+    Teil. Das Register ist erzeugt und die acht Dokumente sind Quelle, aber
+    beim Nachschlagen will man beides in einer Datei: wer eine Figurenszene
+    schreibt, braucht die Beschreibung aus doc/03 und die Chronik aus dem
+    Register nebeneinander."""
     docdir = os.path.join(root, "doc")
     files = sorted(glob.glob(os.path.join(docdir, "[0-9][0-9]-*.md")))
     if not files:
@@ -274,21 +280,43 @@ def build_handbook(root):
                 a = re.sub(r"[^a-z0-9]+", "-", sub.lower()).strip("-")
                 toc.append(f"  - [{sub}](#{a})")
         body.append(t)
+
+    nreg = 0
+    if register:
+        # Die Ueberschriften des Registers eine Stufe tiefer haengen, damit es
+        # sich in die Gliederung einfuegt und das Inhaltsverzeichnis stimmt.
+        reg = re.sub(r"^# ", "## ", register.rstrip(), flags=re.M)
+        reg = re.sub(r"^## Lot Fourteen, Begegnungsregister",
+                     "# Begegnungsregister", reg, count=1)
+        reg = re.sub(r"^## ", "### ", reg, flags=re.M)
+        reg = re.sub(r"^# Begegnungsregister", "# Begegnungsregister", reg, count=1)
+        toc.append("- [Begegnungsregister](#begegnungsregister)  ·  "
+                   "`BEGEGNUNGEN.md`, **erzeugt**")
+        for line in reg.split("\n"):
+            if line.startswith("### ") and not line.startswith("### Zahlen"):
+                sub = line[4:].strip()
+                a = re.sub(r"[^a-z0-9]+", "-", sub.lower()).strip("-")
+                toc.append(f"  - [{sub}](#{a})")
+        body.append(reg)
+        nreg = 1
+
     total = sum(len(b.split()) for b in body)
     head = [
         "# Lot Fourteen, Handbuch",
         "",
-        "*Erzeugt aus `doc/`. Wird nicht bearbeitet.*",
+        "*Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*",
         "",
-        f"Alle {len(files)} Dokumente am Stueck, {total:,} Woerter.".replace(",", "."),
+        f"Alle {len(files)} Dokumente am Stueck plus das Begegnungsregister, "
+        f"{total:,} Woerter.".replace(",", "."),
         "Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.",
+        "Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.",
         "",
         "## Inhalt",
         "",
     ] + toc
     write_text(os.path.join(root, "HANDBUCH.md"),
                "\n".join(head) + "\n\n---\n\n" + "\n\n---\n\n".join(body) + "\n")
-    return len(files)
+    return len(files) + nreg
 
 
 def main():
@@ -352,8 +380,8 @@ def main():
                "\n".join(head) + "\n\n---\n\n"
                + "\n\n---\n\n".join(c[3] for c in chapters) + "\n")
 
-    nfig = build_register(root, chapters)
-    ndocs = build_handbook(root)
+    nfig, register = build_register(root, chapters)
+    ndocs = build_handbook(root, register)
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
     for n, v, f, t in chapters:

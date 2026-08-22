@@ -1,9 +1,10 @@
 # Lot Fourteen, Handbuch
 
-*Erzeugt aus `doc/`. Wird nicht bearbeitet.*
+*Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck. 24.573 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.168 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
+Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
 ## Inhalt
 
@@ -77,6 +78,35 @@ Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
   - [Was in Fassung 1.9 repariert wurde](#was-in-fassung-1-9-repariert-wurde)
   - [Was aus dem Rohverlauf nicht übernommen wird](#was-aus-dem-rohverlauf-nicht-bernommen-wird)
   - [Offene Ausstattungsfrage: der Laptop](#offene-ausstattungsfrage-der-laptop)
+- [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
+  - [Uebersicht](#uebersicht)
+  - [Annie](#annie)
+  - [Hana](#hana)
+  - [Park Sang-hoon](#park-sang-hoon)
+  - [Chairman Woo](#chairman-woo)
+  - [Mrs Seo](#mrs-seo)
+  - [Jang](#jang)
+  - [Mr Hong](#mr-hong)
+  - [Kang Ji-hoon](#kang-ji-hoon)
+  - [Ji-won](#ji-won)
+  - [Kim Do-yun](#kim-do-yun)
+  - [Bae](#bae)
+  - [Kim Ye-rin](#kim-ye-rin)
+  - [Mr Noh](#mr-noh)
+  - [Chef Bang](#chef-bang)
+  - [Eun-ju](#eun-ju)
+  - [Mr Baek](#mr-baek)
+  - [Mr Pyo](#mr-pyo)
+  - [Mr Yeo](#mr-yeo)
+  - [Minister Min-ho](#minister-min-ho)
+  - [Mr Ku](#mr-ku)
+  - [Mrs Sunwoo](#mrs-sunwoo)
+  - [Choi Dae-ho](#choi-dae-ho)
+  - [Mr Im](#mr-im)
+  - [Mrs Ahn](#mrs-ahn)
+  - [Mrs Ryu](#mrs-ryu)
+  - [Tae-min](#tae-min)
+  - [Yun-seo](#yun-seo)
 
 ---
 
@@ -565,10 +595,10 @@ fallen.
 **Der Verfall, konkret:** Der Stuhl im Monitorzimmer zeigt so lange von den Schirmen weg, dass der Teppich darunter in dieser Stellung platt ist. Der Nachtmann geht dieselbe Runde um elf, eins, drei und fünf, neunzehn Minuten pro Runde, und Georgij hat sie in zwei Nächten vom Fenster aus komplett. Zwei der drei Schichtführer haben nie einen Schlüssel zum Sicherheitsbüro bekommen und fragen längst nicht mehr. Und keiner der vierzehn kommt nach zehn durch die Haustür, weil Annie vor Jahren gesagt hat, sie lebe nicht in einer Bank, und niemand sie je gebeten hat, das zu wiederholen.
 
 **Annie** - Chaebol, Ende dreißig. Kauft Georgij für 220 Millionen Won.
-**Ihr Geschäft:** Ein Chaebol mit mehreren Sparten, von denen bisher nur eine aufgedeckt ist, weil nur eine gebraucht wird. Die relevante ist Spezialchemie und Werkstoffe. Fahrplangebundene Vorprodukte über wenige Häfen, und die schwierigen Auslandszulassungen, die sie braucht, liegen bei den Kims. Sie ist also abhängig und keine Wohltäterin. Was sie mit dem Vetorecht über Routen tatsächlich kauft, ist eine Engstelle, an der drei oder vier Konkurrenten derselben Branche hängen. Einzelheiten in der Bibel.
+**Ihr Geschäft:** Ein Chaebol mit mehreren Sparten, von denen bisher nur eine aufgedeckt ist, weil nur eine gebraucht wird. Die relevante ist Spezialchemie und Werkstoffe. Fahrplangebundene Vorprodukte über wenige Häfen, und die schwierigen Auslandszulassungen, die sie braucht, liegen bei den Kims. Sie ist also abhängig und keine Wohltäterin. Was sie mit dem Vetorecht über Routen tatsächlich kauft, ist eine Engstelle, an der drei oder vier Konkurrenten derselben Branche hängen. Einzelheiten in `doc/04-world.md` unter "Was Annies Gruppe macht, und was sie wirklich kauft".
 *Kanon.*
 
-**Georgij** - Los vierzehn. Siehe Bibel.
+**Georgij** - Los vierzehn. Siehe `doc/02-leads.md`, Abschnitt "Georgij".
 *Kanon.*
 
 **Mrs Seo** - Führt den Haushalt. Über sechzig. War in der Kaufnacht wach und ist als Einzige zu dem Mann auf dem Kies hinausgegangen. Hat dort telefoniert, unter einer Minute, ohne Adresse zu nennen. Kein Krankenwagen ist gekommen. Sie beantwortet keine Frage, die sie nicht beantworten will, und sie tut es, ohne unhöflich zu werden. Das blutige Tuch wandert in ihre Schürze, nicht in einen Eimer.
@@ -606,7 +636,7 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Die Glasfirma aus Yeongdeungpo** - Zweiter Mittwoch im Monat, Gondel an den Dachankern, vier Mann, von denen einer noch nie zweimal derselbe war. Seit Jahren so. Vier Fremde an Seilen an einer Wand ohne Tür. **Georgij setzt das an die Spitze seiner Liste für Jang, über den Nachtposten.**
 *Kanon, Kapitel 5. Offener Faden.*
 
-**Der erste Wachmann** - Namenlos. Verliert das Auge. Siehe Bibel.
+**Der erste Wachmann** - Namenlos. Verliert das Auge. Laengere Fassung weiter unten in dieser Datei, Begruendung in `doc/02-leads.md` unter "Das Auge: warum, und warum nicht die Kehle".
 *Kanon, Kapitel 1 und 2.*
 
 **Mr Noh** - Sicherheitschef seit zweiundzwanzig Jahren, geht Ende des Monats. Baut seit März Resturlaub ab, kommt dienstags, hat den Stuhl im Monitorzimmer so hinterlassen, dass er von allen acht Schirmen wegzeigt. Er ist nicht böse, er ist fertig, und er ist der Grund für den Zustand der Anlage. Tritt bisher nicht auf.
@@ -640,13 +670,13 @@ Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den R
 Wer auf derselben Seite steht, und was es jeden davon kostet. Niemand hier hilft
 aus Freundschaft, und das ist Absicht.
 
-Die Mechanik dahinter steht in `09-the-business.md`.
+Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
 **Hana** - Annies Verbündete, keine Angestellte. Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
-**Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in der Bibel.
+**Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in `doc/04-world.md` unter "Hana: was sie einbringt und was sie dafuer bekommt".
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 
@@ -842,7 +872,7 @@ Und das ist das Schlimmste daran: Sang-hoon hat sich kein Verbrechen ausgedacht,
 
 1. **Geld.** Die Kims brauchen keine Rettung, sondern eine Bilanz, die eine Ermittlung übersteht. Annie stellt Geld dahinter und nimmt Anteile, Sicherheiten und ein Vetorecht über Routen. Sie behalten den Namen, Annie bekommt die Kontrolle, und das wird ihnen vorher in genau diesen Worten von Georgij gesagt.
 2. **Zeit.** Das ist Hanseong. Sang-hoon kann nicht im selben Quartal schnell sein und vier Routen kaufen. Es hält ihn nicht auf, es kauft Wochen, und Wochen sind das Einzige, was zu kaufen ist.
-3. **Kunden.** Das Dringendste und in der Bibel bisher Fehlende: Das Problem der Kims in diesem Monat ist nicht der Eigentümer, sondern dass Kunden abspringen. Drei Kündigungen in einer Woche. Kunden kommen nicht für Geld zurück, sondern weil jemand neben einem steht, dem sie trauen. Das ist **Woo**. Setzt er seinen Namen neben ihren, hören die Kündigungen in derselben Woche auf.
+3. **Kunden.** Das Dringendste, und in der Planung lange gefehlt: Das Problem der Kims in diesem Monat ist nicht der Eigentümer, sondern dass Kunden abspringen. Drei Kündigungen in einer Woche. Kunden kommen nicht für Geld zurück, sondern weil jemand neben einem steht, dem sie trauen. Das ist **Woo**. Setzt er seinen Namen neben ihren, hören die Kündigungen in derselben Woche auf.
 
 **Woo kauft nichts.** Er ist kein Gegenbieter. Sein Motiv: Zweimal in diesem Jahr wollte jemand sein Terminal kaufen und nicht sagen, wer dahintersteht, und er weiß selbst, dass es nach seinem Tod dreigeteilt wird und einer der drei Sang-hoon wäre.
 
@@ -1333,7 +1363,7 @@ Die Zeit zwischen Kauf und Gala.
 - **Der Desktop.** Annie verweigert ihm die Gästeliste, aus Methode. Er beschafft sie selbst und legt die Datei dort ab: wer kommt, was jeder verbirgt, wer mit wem verbunden ist. Verschlüsselt, Passwort ist sein Name, sie tippt sieben Buchstaben mit einem Finger. Sie fragt weder, wie er an die Namen kam, noch, was er sonst gesehen hat, und sie zieht das Protokoll nicht, das sie eine Minute kosten würde.
   - **[KORRIGIERT] Er knackt nichts.** Die Maschine hing nie an einem Netz, es gab daran nichts zu brechen, und er begreift das in den ersten drei Tagen. Er hört auf, an die Maschine zu denken, und sieht die Frau an. Zweimal in drei Wochen tippt sie die Passphrase vor ihm. Wer später "geknackt" schreibt, nimmt der Szene ihren ganzen Sinn.
   - **[KORRIGIERT]** Die Formulierung "der erste Moment, in dem sie ihn wirklich ansieht" ist gestrichen. Sie sieht ihn seit dem Keller an, im Wagen wendet sie den Blick kein einziges Mal ab, und in der Auffahrt sieht sie sich das Auge an, ohne sich zu bewegen. Was in Kapitel 5 neu ist, ist nicht der Blick, sondern das Nichtfragen.
-- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in der Bibel unter Pipeline und ist im Text noch lange nicht auszusprechen.
+- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in `doc/04-world.md` unter "Die Pipeline" und ist im Text noch lange nicht auszusprechen.
 
 ### Der Gala-Abend **[GESCHRIEBEN, Kapitel 6 bis 11]**
 
@@ -1375,7 +1405,7 @@ Der Kragen sitzt. Die Fernbedienung ist in ihrer Clutch, und beide wissen es den
 
 ### Was der Plan nicht hatte
 
-Kapitel 12 bis 16 sind Stoff, den dieses Dokument nie enthalten hat und den die Blöcke E bis J jetzt voraussetzen. Kurzfassung, damit niemand daran vorbeiplant. Einzelheiten stehen in der Bibel.
+Kapitel 12 bis 16 sind Stoff, den dieses Dokument nie enthalten hat und den die Blöcke E bis J jetzt voraussetzen. Kurzfassung, damit niemand daran vorbeiplant. Einzelheiten stehen in `doc/04-world.md`, der Kapitelstand in `doc/05-continuity.md`.
 
 - **Annies Bitte, Tag 26.** Ein Mann, der in keine Räume geht und dessen Gesicht zwei Leute in dieser Stadt kennen. Sie weiß, was er will, und hat genau eines davon im Haus. Georgij soll gefunden werden, nicht gezeigt: das Halsband, nicht angekündigt, und der andere muss glauben, er habe es gegen sie herausgefunden. Sie sagt ihm vorher, dass er ablehnen darf, in einem Raum ohne Zeugen, was noch nie jemand getan hat.
 - **Sein Ja, Tag 27**, in der Küche, ohne Bedingung und ohne Gegenforderung, und sie mag es nicht.
@@ -1499,7 +1529,7 @@ Was bleibt:
 - Sein Gegenvorschlag: Er erledigt die Sache und die Route, danach lässt sie ihn frei.
 - Und ihre Erkenntnis, die der Text nicht kommentiert: dass er nicht bitten kann, ohne im selben Atemzug seine eigene Zerstörung anzubieten.
 
-**[KORRIGIERT] Die Zigarette braucht eine Herkunft.** Georgij raucht in sechzehn Kapiteln nicht ein einziges Mal, und laut Bibel besitzt er nichts, mit dem er sich etwas kaufen könnte. Die Geste funktioniert nur, wenn vorher einmal im Text steht, woher die Zigarette kommt. Zwei billige Wege, beide ohne eigene Szene: Er nimmt sie an einem der Abende von jemandem an, oder sie liegen im Garten bei den Leuten, die dort rauchen dürfen. Das ist eine halbe Zeile in einem früheren Kapitel und danach kostenlos. Ohne diese halbe Zeile fällt in Block H auf, dass hier ein Mann ohne Besitz plötzlich etwas hat.
+**[KORRIGIERT] Die Zigarette braucht eine Herkunft.** Georgij raucht in sechzehn Kapiteln nicht ein einziges Mal, und laut `doc/02-leads.md` besitzt er nichts, mit dem er sich etwas kaufen könnte. Die Geste funktioniert nur, wenn vorher einmal im Text steht, woher die Zigarette kommt. Zwei billige Wege, beide ohne eigene Szene: Er nimmt sie an einem der Abende von jemandem an, oder sie liegen im Garten bei den Leuten, die dort rauchen dürfen. Das ist eine halbe Zeile in einem früheren Kapitel und danach kostenlos. Ohne diese halbe Zeile fällt in Block H auf, dass hier ein Mann ohne Besitz plötzlich etwas hat.
 
 Was raus muss: Die Runde über Sarkasmus als Zuflucht. Die Runde über Märchen und Partner. Beides sind Platitüden und beide sagen dasselbe wie die Runden davor.
 
@@ -1519,11 +1549,11 @@ Damit steht "Sie findet ihn, weil er nicht schwer zu finden ist" nicht mehr als 
 
 **Zweite Frage, die zu klären ist:** Jang kennt die Kamera. Entweder sieht Jang es und meldet es, dann ist die Verfolgung aus dem Rohmaterial begründet, oder Georgij geht zu einer Zeit, zu der der Monitorraum die Traufe nicht auf der Wand hat, was zutrifft, weil sie auf keiner Wand ist. Beides ist zu haben. Der Cast-Vorschlag, dass Jang die Flucht meldet und die Verfolgung vom Beifahrersitz koordiniert, passt zur zweiten Fassung nur, wenn ihm jemand Bescheid gibt.
 
-**[KORRIGIERT] Der Sake kann nicht von seinem eigenen Geld kommen.** Die Bibel ist an dieser Stelle eindeutig: kein Geld, kein Konto, im wörtlichen wie im übertragenen Sinn, und sein ganzes Argument in Kapitel 2 hängt daran, dass er selbst die Sicherheit ist, weil es nichts anderes gibt. "Geld, das er nicht haben dürfte" wäre die interessanteste Zeile des Blocks und zugleich der Widerspruch, an dem später alles hängt. Drei Auswege:
+**[KORRIGIERT] Der Sake kann nicht von seinem eigenen Geld kommen.** `doc/02-leads.md` ist an dieser Stelle eindeutig: kein Geld, kein Konto, im wörtlichen wie im übertragenen Sinn, und sein ganzes Argument in Kapitel 2 hängt daran, dass er selbst die Sicherheit ist, weil es nichts anderes gibt. "Geld, das er nicht haben dürfte" wäre die interessanteste Zeile des Blocks und zugleich der Widerspruch, an dem später alles hängt. Drei Auswege:
 
 1. **Der Cast-Vorschlag.** Jang holt den Sake am Flussufer auf Georgijs Bitte, und als Georgij ihm einschenkt, weiß Jang nicht, wohin mit sich. Das ist die beste Fassung, weil sie Block I und Block J verbindet und weil sie kostenlos ist.
 2. **Er hat kein Geld und tut es trotzdem**, und der Text sagt, womit. Dann muss vorher stehen, woher.
-3. **Wir setzen es als Kanon**, dass er über eigene Mittel verfügt. Dann fällt sein Satz "I'm what it costs. There's nothing else of mine anywhere in the world" rückwirkend in sich zusammen, und die Bibel muss geändert werden. Ich rate ab.
+3. **Wir setzen es als Kanon**, dass er über eigene Mittel verfügt. Dann fällt sein Satz "I'm what it costs. There's nothing else of mine anywhere in the world" rückwirkend in sich zusammen, und `doc/02-leads.md` sowie Regel 2 in `CLAUDE.md` muessen geaendert werden. Ich rate ab.
 
 **Anschließender offener Faden:** In Kapitel 10 sagt Georgij zu Sang-hoon, er werde das Abendessen selbst bezahlen, damit es auf niemandes Spesen auftaucht. Fällig geworden ist der Satz nie, weil in Kapitel 16 in Sang-hoons eigenem Büro gegessen wird und das Essen bereits bestellt war, als Georgij ankommt. Der Satz steht aber im Protokoll und dieselbe Frage hängt daran wie am Sake. Wenn wir Auflösung 1 nehmen, muss irgendwann jemand die Frage stellen, womit er hätte zahlen wollen.
 
@@ -1558,24 +1588,23 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 Was als Naechstes drankommt und in welcher Ordnung. Erledigtes wird gestrichen,
 nicht abgehakt.
 
-**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet.
+**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet. **Die Heimfahrt nach Sang-hoon**, geschrieben als Kapitel 17 (v12.1, Tag 46, derselbe Abend wie Kapitel 16). Sie endet nicht auf "I enjoy this": darauf folgt *He had meant to stop there.* und das Geständnis über das Wort *Mistress*, und danach gibt Annie im Korridor die elf Häuser zurück. Der Wortlaut in `doc/05-continuity.md` unter "Festgelegte Zeile" reicht nur bis "I enjoy this." und beschreibt den ersten Teil.
 
 **Als Nächstes, in dieser Reihenfolge:**
 
-1. **Die Heimfahrt nach Sang-hoon.** Unmittelbar nach Kapitel 16, im Wagen, unter vier Augen. Die festgelegte Zeile über die elf Häuser und die Stelle, an der es wehtut, steht wörtlich in der Bibel und gehört genau dorthin. Endet auf "I enjoy this." Kein Nachsatz.
-2. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
-3. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
-4. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
-5. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
-6. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
-7. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
-8. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
-9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in der Bibel unter Pipeline.
+1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
+2. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
+3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
+4. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
+5. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
+6. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
+7. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
+8. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
 
     Was der Text davon zeigt: ein Katalog ohne den Jungen und das Wort "No" (Kapitel 6). Neunzehn Tage in ihrem Besitz und trotzdem kein Name (Kapitel 12). Ihre Begründung, dass es ändert, worum sie ihn bitten muss (Kapitel 11). Und Kapitel 15 sagt in einem Nebensatz, dass sie den Namen seit seiner ersten Woche im Haus hat.
 
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
-10. **Die Pipeline.** Kanon in der Bibel, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
+9. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
 Erst danach die Blöcke F bis J, und zwar mit Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt, an der die beiden nebeneinander gut sind.
 
@@ -1597,24 +1626,29 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Bekannte Baustellen, Stand nach Kapitel 17
 
-- **Bandwurmsaetze.** `python3 check.py` zeigt sie. Der Rueckstand nach Kapitel:
-  Kapitel 5 hat neunzehn, Kapitel 7 sechzehn, Kapitel 13 zwoelf, Kapitel 8 und 9
-  je elf, Kapitel 4 und 6 je zehn, Kapitel 3 acht. Kapitel 17 ist sauber.
-  Vorschlag der Reihenfolge: 5, dann 7, dann 13, dann abwaerts.
+- **Bandwurmsaetze.** `python3 check.py` zeigt sie, `.check-baseline` haelt den
+  Stand. Kapitel 7 hat sechzehn, Kapitel 13 zwoelf, Kapitel 4, 6, 8 und 9 je elf,
+  Kapitel 3 acht. Kapitel 5, 16 und 17 sind sauber.
+  Reihenfolge: 7, dann 13, dann 8 und 9, dann 4 und 6, dann 3.
 
-- **Das Laecheln fehlt in Kapitel 2 bis 6.** Fuenf Kapitel am Stueck ohne ein
-  einziges Laecheln und ohne ein Lachen. Genau die Kapitel, in denen er das Haus
-  dreht: Mrs Seo, Ji-won und Bae in einer Nacht, Jang bis zum Mittagessen, der
-  Schneider. Das Werkzeug, mit dem er das tut, kommt im Text nicht vor, und in
-  Kapitel 7 wird es dann als Handwerkslehre erklaert, als haette es das vorher
-  nie gegeben. **Nicht streuen. Zwei Stellen setzen**, eine dort, wo er das Haus
-  dreht, und eine beim Schneider.
+- **Das Laecheln in Kapitel 2 bis 6: zwei Stellen gesetzt, der Rest offen.**
+  Es fehlte ueber fuenf Kapitel am Stueck, genau dort, wo er das Haus dreht, und
+  Kapitel 7 erklaerte es danach als Handwerkslehre, als haette es das nie
+  gegeben. Gesetzt sind jetzt Kapitel 3 (Ji-won auf der Treppe, klein gehalten)
+  und Kapitel 5 (der Schneider, hauptsaechlich im Kinn). **Kapitel 2, 4 und 6
+  haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
+  nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
+  offenen Sorten sind dort als *offen* markiert.
 
-- **Das Halsband fehlt in Kapitel 14, 15 und 16.** Kein einziges Mal, nicht als
-  Wort, nicht als Gegenstand, nicht als Empfindung. Ueber fuenfzehn Tage ist er
-  zum Berater geworden und der Text hat aufgehoert, ihn daran zu erinnern, was er
-  ist. Das kann Absicht sein und macht den Bruch teurer, aber im Moment ist es
-  nicht gebaut, sondern passiert.
+- **Das Halsband fehlt in Kapitel 14 bis 17**, also im gesamten Schluss und
+  nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
+  nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
+  `jaw`. Ueber fuenfzehn Tage ist er zum Berater geworden und der Text hat
+  aufgehoert, ihn daran zu erinnern, was er ist - ausgerechnet auch in dem
+  Kapitel, in dem die festgelegte Zeile ueber die elf Haeuser steht. Das kann
+  Absicht sein und macht den Bruch teurer, aber im Moment ist es nicht gebaut,
+  sondern passiert. Weitere Luecken, bisher nicht verbucht: Kapitel 3, 8, 10 und
+  11. Kapitel 7 hat nur die Empfindung ohne das Wort.
 
 - **Der Haushalt ist seit Kapitel 13 fast verschwunden.** Kapitel 14 und 16
   enthalten je eine Haushaltsfigur. Die Textur, die das Buch in den Kapiteln 3
@@ -1699,7 +1733,7 @@ Ausfall in derselben Bewegung.
 
 ### Was in Fassung 1.9 repariert wurde
 
-Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
+Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprueft. Historischer Eintrag, vor dem Umbau auf `doc/01` bis `doc/08`.
 
 **Widersprüche zum Kanon, geändert:**
 
@@ -1720,7 +1754,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 15. Block E: schwarze Karte, Shilla, Donnerstag neun Uhr sind unbelegt und als Vorschlag markiert.
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
 17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
-18. Block I: der Sake vom eigenen Geld widerspricht der Bibel. Drei Auswege benannt, einer empfohlen.
+18. Block I: der Sake vom eigenen Geld widerspricht `doc/02-leads.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
 19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
 
 **Ergänzt:**
@@ -1731,13 +1765,12 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 23. Sang-hoons Rückgabetermin für die neunzehn Seiten, Tag 48, Donnerstag 20. November.
 24. Der offene Faden aus Kapitel 10, dass Georgij angeboten hat, ein Abendessen selbst zu bezahlen. Hängt an derselben Frage wie der Sake.
 25. Reihenfolge ab hier neu sortiert, Erledigtes herausgenommen.
-26. Figurenabschnitt entdoppelt, Bibel und Cast sind maßgeblich.
+26. Figurenabschnitt entdoppelt, `doc/02-leads.md` und `doc/03-cast.md` sind massgeblich.
 
 **Außerhalb dieser Datei aufgefallen, nicht geändert:**
 
 Drei Sachen, die Kapitel betreffen und die ich deshalb nicht angefasst habe. Sag Bescheid, was Du damit willst.
 
-- **Die Buchhaltung der Bibel v10.1 stimmt nicht mehr.** Vier Stellen: Sie führt sich selbst als `story-bible_v5.0_en.md` und den Cast als `v1.1`, beides veraltet. Ihre Kopfzeile sagt "nach Kapitel 16 (v1.2)", die Datei ist v1.3. Im Abschnitt "Stand der Kapitel" steht Kapitel 9 als v3.0 statt v3.1. **Und der Eintrag für Kapitel 14 ist der wichtigste:** Er heißt dort *Four thousand two hundred* (v4.0) und listet Gesichter, Do-yun, Hanseong, Annies Entscheidung **und das Essen zu dritt** in einem. Das ist der Stand vor der Teilung an der Tagesgrenze. Inzwischen ist Kapitel 14 *In the same size type* (v7.0, Tag 31 bis 34) und Kapitel 15 *Four thousand two hundred* (v1.1, Tag 41), und Kapitel 15 und 16 fehlen in der Liste ganz. Wer die Bibel nach Kapiteltiteln durchsucht, findet den falschen.
 - **Kapitel 12, Kangs Anruf: "Chairman Woo has told several people that you asked him the same thing."** Kapitel 11 und Kapitel 16 führen als die zwei Verwendungen des Griffs beide Hong und Kang, nicht Woo. Es ist rettbar, und zwar ohne Änderung: Georgij zählt zwei, weil er Hong und Kang meint, und Woo hat unabhängig davon erzählt, dass der Neue sich von ihm die ganze Geschichte von vor der Hafenbehörde erklären lassen wollte, was aus Woos Sicht dieselbe Bitte ist. Dazu passt auch "some minutes earlier", denn Woo war in Kapitel 10 tatsächlich Minuten vor Kang dran, während Hong dreieinhalb Stunden früher lag. Wenn das so gemeint war, steht es nirgends, und beim nächsten Durchgang stolpert ein Leser darüber. Entweder Hong einsetzen und "some minutes earlier" ändern, oder eine halbe Zeile, die Woos Version erwähnt.
 - **Zehn oder elf Minuten.** In Kapitel 9 sagt die Erzählstimme, Hana sei elf Minuten freundlich zu ihm gewesen, in Kapitel 11 sagt Georgij zehn. Einer von beiden rundet, und wenn das Absicht ist, ist es unsichtbar. Elf ist außerdem die Zahl, die in diesem Buch ohnehin schon am meisten arbeitet.
 
@@ -1767,3 +1800,1105 @@ Georgij kann Systeme knacken (`doc/02-leads.md`), an Annies Desktop aber nicht: 
 Das ist die Ladung für die Desktop-Szene in Block B. Sie hat ihm ein Werkzeug an der Leine gegeben, er ist um die Leine herumgegangen und sagt es ihr von sich aus, weil er nicht lügt. Sie fragt weder wie noch was er gesehen hat.
 
 Wenn er stattdessen darum bitten müsste, wäre es auch ein Test, denn sie prüft ihn daran, worum er bittet. Beides funktioniert. Ich halte das Geschenk für stärker, weil es sie zur Handelnden macht und den späteren Bruch teurer.
+
+---
+
+# Begegnungsregister
+
+*Erzeugt aus `chapters/`. Wird nicht bearbeitet.*
+
+Wer wann vorkommt, mit Tag und Fundstelle. **Das Geruest ist erzeugt und
+kann deshalb nicht driften.** Was bei einer Begegnung gegeben, genommen
+oder verschwiegen wurde, ist Urteil und steht in `doc/03-cast.md`.
+
+Georgij fehlt: er ist in jeder Begegnung, seine Liste waere die Liste
+aller Zeilen.
+
+**Wozu die Zahlenspalte.** Figurenzahlen stehen hier nebeneinander statt
+ueber siebzehn Kapitel verstreut. Genau dort sassen die Widersprueche:
+Chairman Woo einundfuenfzig Jahre im Geschaeft an einer Stelle und sechzig
+an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
+
+### Uebersicht
+
+| Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
+|---|---|---|---|---|
+| Annie | 168 | 17 (01-17) | 1 | 46 |
+| Hana | 73 | 7 (09-17) | 22 | 46 |
+| Park Sang-hoon | 45 | 7 (10-17) | 22 | 46 |
+| Chairman Woo | 36 | 8 (07-14) | 22 | 34 |
+| Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
+| Jang | 33 | 9 (05-17) | 4 | 46 |
+| Mr Hong | 27 | 6 (07-17) | 22 | 46 |
+| Kang Ji-hoon | 22 | 5 (09-17) | 22 | 46 |
+| Ji-won | 18 | 6 (03-14) | 1 | 34 |
+| Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
+| Bae | 6 | 3 (03-14) | 1 | 34 |
+| Kim Ye-rin | 6 | 3 (14-17) | 31 | 46 |
+| Mr Noh | 5 | 1 (05) | 4 | 6 |
+| Chef Bang | 4 | 1 (08) | 22 | 22 |
+| Eun-ju | 4 | 3 (05-14) | 6 | 34 |
+| Mr Baek | 4 | 3 (05-15) | 6 | 41 |
+| Mr Pyo | 4 | 3 (05-17) | 6 | 46 |
+| Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
+| Minister Min-ho | 3 | 1 (09) | 22 | 22 |
+| Mr Ku | 3 | 3 (05-11) | 6 | 22 |
+| Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
+| Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
+| Mr Im | 1 | 1 (05) | 6 | 6 |
+| Mrs Ahn | 1 | 1 (05) | 6 | 6 |
+| Mrs Ryu | 1 | 1 (07) | 22 | 22 |
+| Tae-min | 1 | 1 (05) | 6 | 6 |
+| Yun-seo | 1 | 1 (11) | 22 | 22 |
+
+---
+
+### Annie
+
+168 Nennungen in 17 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | ch01:130 | Annie's expression didn't move. |
+| 1 | ch01:174 | "No." She said it the way you'd decline a second coffee. "My name is Annie. You will use.. |
+| 1 | ch01:186 | "Listen to it," he said. "*Contract.*" He was speaking to Annie without turning round, i.. |
+| 1 | ch01:190 | Annie held his gaze for a long moment. |
+| 1 | ch01:210 | Annie looked at it the way you look at something you own. |
+| 1 | ch01:218 | Annie didn't turn her head. |
+| 1 | ch02:20 | "I'm aware of what I'm listening to," Annie said. |
+| 1 | ch02:46 | Annie hadn't looked away once. |
+| 1 | ch02:66 | Annie turned her head. |
+| 1 | ch02:78 | Annie let a hundred metres of cypress go past before she answered, and Georgij used the .. |
+| 1 | ch02:122 | Annie didn't answer that. She looked out at the trees the way people look at trees when .. |
+| 1 | ch02:144 | He could have let the man arrive at it on his own. It would have taken until the gravel,.. |
+| 1 | ch02:148 | "Thank you for the coat, incidentally," he said to Annie. "It was on the seat when they .. |
+| 1 | ch02:170 | Nobody spoke again. The car came up the last of the drive at the speed of a car with now.. |
+| 1 | ch02:182 | The guard got out, came round, opened Annie's door. |
+| 1 | ch02:184 | Annie stepped out and started walking, heels on the stone, not waiting. She left the bag.. |
+| 1 | ch02:198 | Twenty metres up the path Annie had turned around. |
+| 1 | ch02:214 | Annie took it. |
+| 1 | ch02:266 | Annie was quiet for a moment. |
+| 1 | ch02:282 | Something moved behind Annie's face and was gone before it arrived. |
+| 1 | ch02:292 | Annie didn't move. |
+| 1 | ch02:300 | "Quid pro quo," Annie said, and turned the phrase over the way she had turned it in the .. |
+| 1 | ch02:326 | Annie opened the bag, took the remote out, and set it down on the stone next to the bowl. |
+| 1 | ch03:10 | Annie's footsteps went away down the hall and stopped, and a door closed somewhere he co.. |
+| 1 | ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
+| 1 | ch03:178 | The corridor on the first floor ran east to west and crossed another one that went back .. |
+| 1 | ch03:184 | "You went to the garage first," Annie said. "Then the south glass, and you stood in fron.. |
+| 1 | ch03:196 | Annie did not move. |
+| 1 | ch03:220 | "It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie sai.. |
+| 1 | ch03:232 | He said it lightly, the way you name the day of the week, and did not put anything on to.. |
+| 1 | ch03:242 | "Yes," Annie said. "I would." |
+| 1 | ch03:248 | Annie didn't answer. |
+| 1 | ch03:252 | Annie looked at him. |
+| 1 | ch03:270 | Annie stood in the dark of the crossing and did not say anything at all. |
+| 1 | ch03:278 | Something moved behind Annie's face and was gone before it arrived. |
+| 2 | ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
+| 2 | ch04:48 | At two minutes past seven Annie came into the kitchen. |
+| 2 | ch04:52 | Annie was dressed for the day, jacket on, and she came in the way somebody comes into a .. |
+| 2 | ch04:64 | Annie ate about a third of what was in front of her, drank all of the coffee, and read n.. |
+| 2 | ch04:92 | "Yours," Annie said. "Which is to say mine, and you will use them." |
+| 2 | ch04:100 | Annie looked at him for a moment. |
+| 2 | ch04:128 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
+| 2 | ch04:190 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
+| 2 | ch04:198 | "Would you," Annie said. |
+| 2 | ch04:204 | Annie did not say anything. |
+| 2 | ch04:226 | Annie looked at him across the desk. |
+| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 9 | ch05:194 | Annie had come into the kitchen at seven on the first morning, and on the second, and no.. |
+| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
+| 19 | ch05:292 | Annie went round the desk and moved the mouse and the light came up on her face, and she.. |
+| 19 | ch05:302 | Annie sat down. |
+| 19 | ch05:320 | Annie sat very still. |
+| 19 | ch05:324 | "Will I," Annie said. |
+| 19 | ch05:328 | "No," Annie said. "I don't imagine you did." |
+| 19 | ch05:344 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
+| 19 | ch05:368 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
+| 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
+| 22 | ch06:50 | Annie was watching him. |
+| 22 | ch06:86 | Annie sat back. |
+| 22 | ch06:96 | Annie looked at him for a moment. |
+| 22 | ch06:108 | "Quid pro quo," said Annie, and went back to her page. |
+| 22 | ch06:180 | Annie came down at nine minutes to seven. |
+| 22 | ch06:204 | "Well," said Annie. "Let's go and be looked at." |
+| 22 | ch07:18 | "There are three sorts of people in that room," Annie said. |
+| 22 | ch07:38 | Annie was quiet for a moment. |
+| 22 | ch07:94 | "Annie." |
+| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | ch07:132 | "He's very busy," said Annie. |
+| 22 | ch07:214 | He had spent four minutes in the car working out what to do if something did, and he had.. |
+| 22 | ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
+| 22 | ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
+| 22 | ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
+| 22 | ch08:250 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
+| 22 | ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
+| 22 | ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
+| 22 | ch10:6 | He did not go and stand near Annie. |
+| 22 | ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
+| 22 | ch10:82 | "Georgij. I'm with Annie." |
+| 22 | ch10:142 | At three minutes to eleven, on the far side of the room, Annie looked up. |
+| 22 | ch10:200 | The two people who had been talking at Annie found somewhere else to be within about fif.. |
+| 22 | ch10:202 | Annie looked at Hana. |
+| 22 | ch10:206 | "Well," said Annie. |
+| 22 | ch10:214 | "Yes," said Annie. "He does that." |
+| 22 | ch10:218 | They talked for perhaps two minutes about a man at table three, and about the ceiling, a.. |
+| 22 | ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
+| 22 | ch11:8 | Georgij held the door. Annie got in, and he went round the back of the car and got in on.. |
+| 22 | ch11:12 | Annie put the clutch down on the seat between them. |
+| 22 | ch11:20 | "Well," said Annie. |
+| 22 | ch11:60 | "Take three," said Annie. "Go on." |
+| 22 | ch11:84 | "Yes," said Annie. "You would." |
+| 22 | ch11:100 | Annie turned her head. |
+| 22 | ch11:114 | "Go and get it," said Annie. |
+| 22 | ch11:146 | Annie did not move at all. |
+| 22 | ch11:162 | Annie was quiet for a long moment. |
+| 22 | ch11:178 | Annie turned her head. |
+| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." He kept his voice exactly where it.. |
+| 22 | ch11:198 | Annie did not say anything for perhaps two hundred metres. |
+| 22 | ch11:206 | "Now say the other thing," said Annie. |
+| 22 | ch11:216 | Annie looked at him. |
+| 22 | ch11:228 | "I'm not going to give it to you," said Annie. |
+| 22 | ch11:240 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
+| 22 | ch11:254 | Annie went down the hall without taking her shoes off. |
+| 23 | ch12:62 | Annie did not send for him. |
+| 25 | ch12:164 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | ch12:184 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
+| 26 | ch12:200 | "Now the other part," said Annie. |
+| 26 | ch12:208 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
+| 26 | ch12:220 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
+| 26 | ch12:234 | "No," said Annie. "It isn't." |
+| 26 | ch12:244 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
+| 26 | ch12:248 | "Yes," said Annie. "It is." |
+| 26 | ch12:264 | "I know why," said Annie. |
+| 26 | ch12:274 | Annie looked at him across the desk for what felt like a considerable time. |
+| 27 | ch13:18 | Annie stopped with the cup halfway off its hook. |
+| 27 | ch13:34 | Annie did not sit. She stood at the window with her coffee for slightly longer than she .. |
+| 27 | ch13:82 | He did not take any of it to Annie. |
+| 34 | ch14:88 | Annie turned the first page over and did not read it. |
+| 34 | ch14:126 | Annie did not say anything to that, because there was nothing in it she did not know. |
+| 34 | ch14:138 | "Yes," said Annie. |
+| 34 | ch14:150 | Annie sat back. |
+| 34 | ch14:168 | Annie looked at him for rather longer than a moment. |
+| 34 | ch14:184 | Annie did not say anything to that at all. |
+| 34 | ch14:200 | "You want her here," said Annie. |
+| 34 | ch14:216 | Annie looked at him for a moment. |
+| 34 | ch14:230 | "Next Thursday," said Annie. |
+| 41 | ch15:28 | Then Annie put both hands on the table. |
+| 41 | ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
+| 41 | ch15:92 | Annie put her glass down. |
+| 41 | ch15:104 | Annie did not tell him he had read it wrongly, and did not tell him he had read it corre.. |
+| 41 | ch15:126 | "What I want is this." She put two fingers on the cloth. "If the Kims come out of the ot.. |
+| 41 | ch15:128 | "And then you have a tenant instead of a predator," said Annie. |
+| 41 | ch15:132 | "No," said Annie. "That's why I'm still listening." |
+| 41 | ch15:140 | Annie did not say anything. |
+| 41 | ch15:148 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
+| 41 | ch15:150 | "He does," said Annie. |
+| 41 | ch15:176 | He gave her the three that meant nothing to him and he gave her the fourth, because it w.. |
+| 41 | ch15:178 | Annie's face did nothing at all. |
+| 41 | ch15:216 | Annie said nothing whatsoever. |
+| 41 | ch15:258 | "And what is it for?" said Annie. |
+| 41 | ch15:302 | "That is what I am buying," said Annie. "Yes." |
+| 41 | ch15:308 | "And the third thing," said Annie. |
+| 41 | ch15:322 | "Probably," said Annie. |
+| 41 | ch15:326 | Annie looked at the pages. |
+| 41 | ch15:346 | Annie looked at her. |
+| 41 | ch15:372 | Annie was quiet for what felt like a considerable time. |
+| 41 | ch15:378 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
+| 41 | ch15:388 | "Yes," said Annie. "You would." |
+| 41 | ch15:414 | "The eighteenth," said Annie, when the door had closed. |
+| 41 | ch15:426 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
+| 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
+| 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
+| 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
+| 46 | ch16:182 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:288 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:296 | "Well," said Annie. |
+| 46 | ch16:340 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
+| 46 | ch17:10 | "Kang," said Annie. |
+| 46 | ch17:58 | Annie turned her head. |
+| 46 | ch17:74 | "Then it is February," said Annie. "Not March and not the spring." |
+| 46 | ch17:96 | "So she is not rich," said Annie. "She is leveraged." |
+| 46 | ch17:110 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
+| 46 | ch17:124 | Beside him, Annie put her hand on the door. |
+| 46 | ch17:136 | "Go on," said Annie. |
+| 46 | ch17:196 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
+| 46 | ch17:222 | Annie put two fingers on the back of the chair and left them there. |
+| 46 | ch17:230 | Annie said nothing. |
+| 46 | ch17:234 | "I know," said Annie. "He came to me with it in his first week." |
+
+### Zahlen in der Naehe von Annie
+
+- `ch01:174` (Tag 1) - two-twenty
+- `ch01:186` (Tag 1) - four
+- `ch02:78` (Tag 1) - hundred
+- `ch02:184` (Tag 1) - twenty
+- `ch02:198` (Tag 1) - twenty
+- `ch02:300` (Tag 1) - four
+- `ch03:44` (Tag 1) - one, seven, two
+- `ch03:178` (Tag 1) - one
+- `ch03:184` (Tag 1) - four, one
+- `ch03:220` (Tag 1) - four
+- `ch04:48` (Tag 2) - seven, two
+- `ch04:190` (Tag 2) - fifteen, three
+- `ch05:148` (Tag 6) - fourteen, one, three, two
+- `ch05:194` (Tag 9) - seven
+- `ch05:196` (Tag 9) - nine, seven
+- `ch05:198` (Tag 9) - eight, two
+- `ch05:368` (Tag 19) - nine
+- `ch06:18` (Tag 22) - seven, six
+- `ch06:180` (Tag 22) - nine, seven
+- `ch07:18` (Tag 22) - three
+- `ch07:214` (Tag 22) - four, three
+- `ch08:144` (Tag 22) - one, ten, two
+- `ch09:284` (Tag 22) - eight hundred, eleven, one, three, twenty-two, two
+- `ch10:8` (Tag 22) - twenty
+- `ch10:142` (Tag 22) - eleven, three
+- `ch10:200` (Tag 22) - fifteen, three, two
+- `ch10:218` (Tag 22) - three, two
+- `ch11:60` (Tag 22) - three
+- `ch11:182` (Tag 22) - eleven, ten
+- `ch11:198` (Tag 22) - two hundred
+- `ch12:184` (Tag 26) - four, nineteen
+- `ch12:208` (Tag 26) - one
+- `ch12:220` (Tag 26) - one, twenty-six
+- `ch13:34` (Tag 27) - two
+- `ch15:126` (Tag 41) - twenty, two
+- `ch15:148` (Tag 41) - one
+- `ch15:176` (Tag 41) - three
+- `ch15:426` (Tag 41) - four thousand two hundred
+- `ch16:12` (Tag 46) - two
+- `ch16:122` (Tag 46) - five, sixteen thousand
+- `ch16:142` (Tag 46) - one, two
+- `ch16:182` (Tag 46) - four hundred, one
+- `ch16:288` (Tag 46) - one, two
+- `ch16:340` (Tag 46) - ten
+- `ch17:222` (Tag 46) - two
+
+---
+
+### Hana
+
+73 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch09:26 | "My name is Hana." |
+| 22 | ch09:40 | That was not an accident. Being walked across a ballroom on the arm of Hana was a statem.. |
+| 22 | ch09:64 | Hana went to him the way you go to a door you have a key for. |
+| 22 | ch09:74 | Hana talked. |
+| 22 | ch09:82 | Not the whole of it, and not anything like the whole of it. He got the word. He got a da.. |
+| 22 | ch09:114 | "There," said Hana, without lifting her chin at anything. "By the second window on the i.. |
+| 22 | ch09:128 | Hana did not laugh at him, which he noted. |
+| 22 | ch09:152 | "Cold enough," said Hana. "You've gone quiet." |
+| 22 | ch09:166 | "That's a beautiful answer," said Hana, "and it isn't one." |
+| 22 | ch09:214 | Hana did not fill it. She waited exactly as long as it took, with her face entirely frie.. |
+| 22 | ch09:224 | Something went across Hana's face and it was not triumph, which he had expected, and it .. |
+| 22 | ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
+| 22 | ch09:266 | Hana let him do it. |
+| 22 | ch09:288 | Hana did not move. |
+| 22 | ch09:294 | "Yes," said Hana. |
+| 22 | ch09:302 | "Of course you do." Hana straightened her cuff. "Go and be somewhere else for twenty min.. |
+| 22 | ch09:306 | "Because I would like to see what she does," said Hana, "and so would you." |
+| 22 | ch09:314 | "I have known that woman for twelve years and she has never once brought anybody anywher.. |
+| 22 | ch09:318 | "I don't know yet," said Hana. "That's what I want you to take away with you." |
+| 22 | ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
+| 22 | ch10:126 | Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good.. |
+| 22 | ch10:144 | She was at the west end with two people who had been talking at her for a while. She loo.. |
+| 22 | ch10:146 | Hana was already looking at her. |
+| 22 | ch10:156 | Hana put her glass down and started walking. |
+| 22 | ch10:162 | He had been going north and he swung the line without breaking it, the way you change yo.. |
+| 22 | ch10:178 | Hana walked another three paces. |
+| 22 | ch10:192 | Hana was quiet for the last four paces. |
+| 22 | ch10:202 | Annie looked at Hana. |
+| 22 | ch10:204 | Then she looked at Georgij, and then at the space between his shoulder and Hana's, which.. |
+| 22 | ch10:208 | "He came with me," said Hana. |
+| 22 | ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
+| 22 | ch11:70 | "Hong. And Hana warned me about it thirty minutes before I did it, in those words, and I.. |
+| 22 | ch11:94 | "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she .. |
+| 22 | ch11:98 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
+| 22 | ch11:182 | "Annie in public, and the other word nowhere at all." He kept his voice exactly where it.. |
+| 34 | ch14:120 | "The third is the only one that is urgent, and it is the one nobody has mentioned in thi.. |
+| 34 | ch14:198 | "I need Hana in a room, and my preference is that she comes here." |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 41 | ch15:6 | Hana came at seven and did not bring anybody with her. |
+| 41 | ch15:18 | "Good," said Hana, and gave him her coat. |
+| 41 | ch15:40 | Hana laughed out loud. |
+| 41 | ch15:46 | "She holds one point four per cent." Hana said it flatly, the way you read out a bus num.. |
+| 41 | ch15:54 | "In twenty years nobody has been able to make that woman sign anything," said Hana, "bec.. |
+| 41 | ch15:62 | Hana put her glass down. |
+| 41 | ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
+| 41 | ch15:78 | Hana stopped. |
+| 41 | ch15:114 | Hana looked at him for a moment. |
+| 41 | ch15:122 | "You were four hours old to me on that terrace," said Hana, "and you were standing at my.. |
+| 41 | ch15:130 | "Then I have a tenant whose ownership I can read, and whose veto sits with you." Hana sh.. |
+| 41 | ch15:142 | Hana looked at him with her chin down for a moment, and then said, in a completely diffe.. |
+| 41 | ch15:158 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | ch15:174 | "Give me the dates," said Hana. |
+| 41 | ch15:180 | Hana went through them twice. |
+| 41 | ch15:186 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
+| 41 | ch15:198 | Hana put the paper down. |
+| 41 | ch15:224 | Hana waited. |
+| 41 | ch15:240 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
+| 41 | ch15:266 | Hana was very still. |
+| 41 | ch15:272 | Hana put her glass down. |
+| 41 | ch15:276 | "A poisoned apple," said Hana. |
+| 41 | ch15:294 | Hana had stopped moving. |
+| 41 | ch15:328 | "Will he take it?" she said, to Hana. |
+| 41 | ch15:330 | Hana did not answer straight away, which Georgij noticed and was glad of. |
+| 41 | ch15:342 | Hana put both hands on the table. |
+| 41 | ch15:350 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
+| 41 | ch15:354 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
+| 41 | ch15:368 | "So you would advise against it," said Hana. |
+| 41 | ch15:380 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | ch15:394 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
+| 41 | ch15:408 | "You told me tonight that you were wrong about a man's character and you told me before .. |
+| 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
+| 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
+| 46 | ch17:90 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+
+### Zahlen in der Naehe von Hana
+
+- `ch09:166` (Tag 22) - one
+- `ch09:302` (Tag 22) - twenty
+- `ch09:314` (Tag 22) - twelve
+- `ch10:8` (Tag 22) - twenty
+- `ch10:126` (Tag 22) - thirty
+- `ch10:144` (Tag 22) - thirty, two
+- `ch10:162` (Tag 22) - eight
+- `ch10:178` (Tag 22) - three
+- `ch10:192` (Tag 22) - four
+- `ch11:70` (Tag 22) - thirty
+- `ch11:94` (Tag 22) - five, three
+- `ch11:98` (Tag 22) - nine, one, six
+- `ch11:182` (Tag 22) - eleven, ten
+- `ch14:120` (Tag 34) - eighteen, one, three
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch15:6` (Tag 41) - seven
+- `ch15:46` (Tag 41) - eleven, four, nine and seven, one, six, two
+- `ch15:54` (Tag 41) - twenty
+- `ch15:122` (Tag 41) - four
+- `ch15:142` (Tag 41) - one
+- `ch15:240` (Tag 41) - one
+- `ch15:350` (Tag 41) - twenty
+- `ch15:354` (Tag 41) - ten
+- `ch16:120` (Tag 46) - three
+- `ch17:90` (Tag 46) - one, sixteen thousand
+
+---
+
+### Park Sang-hoon
+
+45 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch10:228 | Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in.. |
+| 22 | ch10:244 | The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enj.. |
+| 22 | ch10:246 | He gave him the wide one and it went nowhere. He asked him a question about a route into.. |
+| 22 | ch10:252 | None of them were about business and none of them were conversation. They were the quest.. |
+| 22 | ch10:258 | "You're the adviser," Sang-hoon said, eventually. |
+| 22 | ch10:270 | "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?" |
+| 22 | ch10:276 | He did not know. That was the whole of it and Georgij went over it twice while he was dr.. |
+| 22 | ch10:292 | Sang-hoon's eyebrows went up about a millimetre. |
+| 22 | ch10:304 | Sang-hoon laughed. |
+| 22 | ch10:312 | "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary." |
+| 22 | ch10:328 | Park Sang-hoon looked at him for slightly longer than he had looked at him all evening. |
+| 22 | ch10:340 | Sang-hoon considered that. |
+| 22 | ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
+| 22 | ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
+| 22 | ch11:120 | Then Sang-hoon, because Sang-hoon had been last. |
+| 22 | ch11:126 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
+| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 34 | ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
+| 34 | ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
+| 34 | ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
+| 41 | ch15:158 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | ch15:260 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
+| 46 | ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
+| 46 | ch16:16 | Sang-hoon was already there. |
+| 46 | ch16:34 | "You ask people to guide you," said Sang-hoon. |
+| 46 | ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
+| 46 | ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
+| 46 | ch16:84 | Sang-hoon poured himself water. |
+| 46 | ch16:108 | Sang-hoon nodded once and went on eating, and it went past like a car. |
+| 46 | ch16:124 | "She does," said Sang-hoon, to nobody in particular, and ate. |
+| 46 | ch16:144 | Sang-hoon put his glass down. |
+| 46 | ch16:158 | Park Sang-hoon looked at him for slightly too long. |
+| 46 | ch16:170 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | ch16:186 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | ch16:202 | Sang-hoon did not touch it. |
+| 46 | ch16:212 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | ch16:218 | Park Sang-hoon looked at him for some time. |
+| 46 | ch16:228 | "Go on," said Sang-hoon. |
+| 46 | ch16:232 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | ch16:248 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | ch16:258 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | ch16:272 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | ch16:282 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | ch16:318 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+
+### Zahlen in der Naehe von Park Sang-hoon
+
+- `ch10:228` (Tag 22) - eleven, ten, two
+- `ch10:244` (Tag 22) - forty
+- `ch10:246` (Tag 22) - fourteen, one
+- `ch10:252` (Tag 22) - four
+- `ch10:276` (Tag 22) - nine, six
+- `ch10:346` (Tag 22) - ninety, one
+- `ch13:194` (Tag 27) - one, three
+- `ch14:136` (Tag 34) - eighteen, eleven
+- `ch14:148` (Tag 34) - one, three
+- `ch16:170` (Tag 46) - two
+- `ch16:186` (Tag 46) - eighteen, two
+- `ch16:212` (Tag 46) - four, two
+- `ch16:232` (Tag 46) - one
+- `ch16:258` (Tag 46) - nineteen
+- `ch16:318` (Tag 46) - four
+- `ch17:8` (Tag 46) - one, twelve, two
+
+---
+
+### Chairman Woo
+
+36 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
+| 22 | ch07:104 | Chairman Woo's face did what faces do. |
+| 22 | ch07:112 | "Ten," said Chairman Woo. |
+| 22 | ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
+| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 22 | ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
+| 22 | ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
+| 22 | ch08:174 | "There you are," said Chairman Woo, thrilled. |
+| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
+| 22 | ch10:14 | "There he is," said Chairman Woo. |
+| 22 | ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
+| 22 | ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
+| 22 | ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
+| 22 | ch10:56 | "Somebody at a dinner," said Chairman Woo. |
+| 22 | ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
+| 23 | ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
+| 25 | ch12:136 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 27 | ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
+| 27 | ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
+| 27 | ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
+| 27 | ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
+| 27 | ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
+| 27 | ch13:164 | Chairman Woo looked at him for a moment. |
+| 27 | ch13:182 | Woo said nothing for a while. |
+| 27 | ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
+| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 27 | ch13:202 | Woo looked up. |
+| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
+| 27 | ch13:228 | Chairman Woo put his chopsticks down. |
+| 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
+| 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
+| 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
+
+### Zahlen in der Naehe von Chairman Woo
+
+- `ch07:92` (Tag 22) - four, ninety
+- `ch07:112` (Tag 22) - ten
+- `ch07:124` (Tag 22) - four
+- `ch07:274` (Tag 22) - forty, one
+- `ch07:292` (Tag 22) - twelve
+- `ch08:154` (Tag 22) - four, nine, ten
+- `ch08:156` (Tag 22) - one
+- `ch09:48` (Tag 22) - four, nine
+- `ch11:38` (Tag 22) - four, six, two
+- `ch12:68` (Tag 23) - nine, three
+- `ch12:136` (Tag 25) - four
+- `ch13:104` (Tag 27) - eight
+- `ch13:114` (Tag 27) - forty, one
+- `ch13:136` (Tag 27) - eighty, one, twenty
+- `ch13:190` (Tag 27) - one
+- `ch13:194` (Tag 27) - one, three
+- `ch13:246` (Tag 27) - six
+- `ch14:144` (Tag 34) - sixty
+
+---
+
+### Mrs Seo
+
+36 Nennungen in 10 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | ch03:34 | "I am Mrs Seo. I run the house." |
+| 1 | ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
+| 1 | ch03:52 | Mrs Seo looked at him for a moment. |
+| 1 | ch03:56 | "Of course. Forgive me." He let it go where she had put it, and did not go back for it. .. |
+| 1 | ch03:76 | "At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being aske.. |
+| 1 | ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | ch03:164 | "Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anyth.. |
+| 1 | ch03:166 | "Then that will do." Georgij put his hands in his pockets, which took him out of the doo.. |
+| 1 | ch03:246 | "I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She.. |
+| 1 | ch03:282 | She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywh.. |
+| 2 | ch04:20 | He went down at five to seven, because Mrs Seo had said seven. |
+| 2 | ch04:34 | She looked at Mrs Seo, who did not look up from the stove. |
+| 2 | ch04:36 | "Anywhere at that end," Mrs Seo said. |
+| 2 | ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
+| 2 | ch04:58 | "Good morning, ma'am," said Mrs Seo, after a pause of about half a second that Georgij w.. |
+| 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
+| 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
+| 2 | ch04:74 | Mrs Seo wiped the same part of the counter twice. Then she said, without turning round a.. |
+| 4 | ch05:130 | That evening Mrs Seo sent a fresh pot down to the small office off the garage passage wi.. |
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | ch05:146 | Breakfast was the one place the money did not show, and only because Mrs Seo had taken t.. |
+| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
+| 22 | ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
+| 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
+| 22 | ch06:158 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
+| 22 | ch06:164 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
+| 22 | ch06:168 | Mrs Seo stepped back. |
+| 22 | ch06:172 | "Yes, Mrs Seo." |
+| 22 | ch11:248 | Mrs Seo had left the hall light on and gone to bed. |
+| 23 | ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
+| 27 | ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
+| 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
+| 46 | ch17:194 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+
+### Zahlen in der Naehe von Mrs Seo
+
+- `ch03:44` (Tag 1) - one, seven, two
+- `ch03:56` (Tag 1) - four
+- `ch03:150` (Tag 1) - forty
+- `ch03:166` (Tag 1) - one, three, two
+- `ch04:20` (Tag 2) - five, seven
+- `ch04:62` (Tag 2) - one
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:146` (Tag 6) - nine, one
+- `ch05:196` (Tag 9) - nine, seven
+- `ch05:198` (Tag 9) - eight, two
+- `ch06:6` (Tag 22) - nine
+- `ch06:18` (Tag 22) - seven, six
+- `ch06:158` (Tag 22) - six, twenty
+- `ch06:164` (Tag 22) - nine, one
+- `ch12:8` (Tag 23) - four, nine
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch15:22` (Tag 41) - one, three
+
+---
+
+### Jang
+
+33 Nennungen in 9 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
+| 4 | ch05:26 | By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a w.. |
+| 4 | ch05:30 | "Mr Jang. My name is Georgij." |
+| 4 | ch05:32 | "I know your name." Jang did not get up, and he did not pretend to be busy either. He tu.. |
+| 4 | ch05:36 | Jang looked at him. |
+| 4 | ch05:46 | Jang sat with that for a moment. There was a mug of instant coffee on the desk and he ha.. |
+| 4 | ch05:52 | "The gravel's been raked twice and there's still a stain under the second layer." Jang s.. |
+| 4 | ch05:62 | Jang looked at the sheets for a moment. Then he picked them up and read them, properly, .. |
+| 4 | ch05:74 | Jang put the sheets down. |
+| 4 | ch05:80 | "Second Wednesday of the month," Jang said. "The glass." |
+| 4 | ch05:84 | "I saw the anchors from the lawn this morning." Jang put the mug down properly. "That on.. |
+| 4 | ch05:92 | Jang read page six again. |
+| 4 | ch05:102 | Jang's chin came up half a centimetre. |
+| 4 | ch05:110 | Jang squared the nine sheets on the desk. |
+| 4 | ch05:122 | He walked the house with Jang for two hours and told him what he had and answered what h.. |
+| 4 | ch05:124 | By the end of it Jang had stopped calling him nothing at all and had started calling him.. |
+| 6 | ch05:188 | He put it at the top of what he was keeping for Jang, above the night man and above ever.. |
+| 22 | ch06:136 | At six Jang came to find him in the east room. |
+| 22 | ch06:146 | Jang stood in the doorway for a moment. |
+| 22 | ch11:10 | There was a second car waiting at the top of the ramp with two of Jang's people in it, a.. |
+| 23 | ch12:28 | Jang came up from the security office at nine with two sheets of paper. |
+| 23 | ch12:34 | Two of Jang's men on the cars. One inside the building who had not gone within forty met.. |
+| 23 | ch12:38 | "Three of those are drivers waiting," said Jang. "The fourth is a private hire that sat .. |
+| 23 | ch12:46 | "Mr Jang." |
+| 23 | ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
+| 27 | ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
+| 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 41 | ch15:210 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
+| 41 | ch15:418 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
+| 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
+| 46 | ch17:228 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | ch17:246 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+
+### Zahlen in der Naehe von Jang
+
+- `ch05:24` (Tag 4) - eight, four, two
+- `ch05:26` (Tag 4) - eleven, one, ten
+- `ch05:32` (Tag 4) - four
+- `ch05:62` (Tag 4) - eleven
+- `ch05:84` (Tag 4) - one
+- `ch05:92` (Tag 4) - six
+- `ch05:110` (Tag 4) - nine
+- `ch05:122` (Tag 4) - two
+- `ch06:136` (Tag 22) - six
+- `ch11:10` (Tag 22) - two
+- `ch12:28` (Tag 23) - nine, two
+- `ch12:34` (Tag 23) - forty, one, two
+- `ch12:38` (Tag 23) - eight, eleven forty, three
+- `ch12:56` (Tag 23) - two
+- `ch13:40` (Tag 27) - four
+- `ch13:80` (Tag 27) - four
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch15:210` (Tag 41) - four, three
+- `ch16:10` (Tag 46) - two
+- `ch17:228` (Tag 46) - nine, three
+- `ch17:246` (Tag 46) - six
+
+---
+
+### Mr Hong
+
+27 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:226 | The education question came at twelve minutes, from a man called Hong whose name he knew.. |
+| 22 | ch07:228 | "And where were you educated?" said Mr Hong. |
+| 22 | ch07:236 | Mr Hong laughed. Then he stopped laughing, which took him about a second and a half, and.. |
+| 22 | ch07:254 | Mr Hong enjoyed that, as he was intended to. |
+| 22 | ch07:270 | Mr Hong opened his mouth to laugh a second time and then did not, because it is the most.. |
+| 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | ch07:282 | "He has never come to this. Nineteen years, and I have never once seen him at it." Mr Ho.. |
+| 22 | ch07:286 | "You had better not," said Mr Hong, delighted, and went away to tell somebody. |
+| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty, and a man .. |
+| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | ch09:156 | "Everybody says that. Almost nobody does it." She turned so that her back was to the min.. |
+| 22 | ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
+| 22 | ch09:244 | "It worked beautifully, and Hong has now told the story seven times, and by Friday there.. |
+| 22 | ch09:248 | Then he did the arithmetic on how many people Hong had spoken to since, and found that h.. |
+| 22 | ch11:68 | "Hong." |
+| 22 | ch11:70 | "Hong. And Hana warned me about it thirty minutes before I did it, in those words, and I.. |
+| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
+| 27 | ch13:96 | Two were ordinary houses. The third was a fund whose beneficial ownership ran into a cha.. |
+| 27 | ch13:186 | "There were three of them in the room," he said. "Two were lawyers and I have forgotten .. |
+| 27 | ch13:208 | "It's the only way left. I've spent six days looking for him in filings." Georgij turned.. |
+| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | ch13:256 | He had a man of about fifty who spoke English with a Hong Kong accent and Korean with no.. |
+| 27 | ch13:258 | He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had .. |
+| 46 | ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
+| 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
+| 46 | ch17:104 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
+
+### Zahlen in der Naehe von Mr Hong
+
+- `ch07:226` (Tag 22) - nineteen, twelve
+- `ch07:270` (Tag 22) - nineteen, sixty-one
+- `ch07:282` (Tag 22) - nineteen, one
+- `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `ch09:48` (Tag 22) - four, nine
+- `ch09:244` (Tag 22) - four, seven
+- `ch11:70` (Tag 22) - thirty
+- `ch11:74` (Tag 22) - forty-three, sixty-one
+- `ch13:96` (Tag 27) - two
+- `ch13:186` (Tag 27) - fifty, one, three, two
+- `ch13:208` (Tag 27) - six
+- `ch13:256` (Tag 27) - fifty
+- `ch16:40` (Tag 46) - one, two
+- `ch17:8` (Tag 46) - one, twelve, two
+- `ch17:38` (Tag 46) - one, seventeen, two
+- `ch17:104` (Tag 46) - three, two
+
+---
+
+### Kang Ji-hoon
+
+22 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch09:100 | Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level,.. |
+| 22 | ch09:106 | Georgij glanced at him once, and Kang did not look away and did not look interested, and.. |
+| 22 | ch10:72 | Kang Ji-hoon was standing near the north bar with a glass of water and had been for some.. |
+| 22 | ch10:78 | "Mr Kang." |
+| 22 | ch10:92 | Kang Ji-hoon waited. |
+| 22 | ch10:102 | "Of course," said Kang Ji-hoon. |
+| 22 | ch10:118 | Kang laughed, and it was the first thing his face had done all evening, and it was over .. |
+| 22 | ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
+| 22 | ch11:64 | Then Kang. |
+| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
+| 25 | ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
+| 25 | ch12:94 | Kang laughed, the same short one, over in a moment. |
+| 25 | ch12:100 | "There has been some interest in a change of designation on the eastern side at Incheon... |
+| 25 | ch12:110 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
+| 25 | ch12:122 | "That is a much better answer than the one I expected," said Kang. |
+| 25 | ch12:132 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
+| 25 | ch12:146 | "Yes," said Kang Ji-hoon. "It did." |
+| 25 | ch12:154 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
+| 25 | ch12:164 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 25 | ch12:166 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
+| 25 | ch12:168 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
+| 46 | ch17:10 | "Kang," said Annie. |
+
+### Zahlen in der Naehe von Kang Ji-hoon
+
+- `ch11:74` (Tag 22) - forty-three, sixty-one
+- `ch12:86` (Tag 25) - eight, four
+- `ch12:94` (Tag 25) - one
+- `ch12:122` (Tag 25) - one
+- `ch12:166` (Tag 25) - two
+- `ch12:168` (Tag 25) - two
+
+---
+
+### Ji-won
+
+18 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | ch03:40 | "I know what you are." Not unkindly, and not kindly either. "Your room is on the first f.. |
+| 1 | ch03:54 | "Ji-won," she said, to the stairs. |
+| 1 | ch03:90 | "Ji-won. Thank you for the light. Neither of us needed it and it was still the right thi.. |
+| 2 | ch04:26 | Ji-won was laying the long table. She saw him in the doorway and put down what she was h.. |
+| 2 | ch04:50 | Ji-won stopped with a plate in each hand. |
+| 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
+| 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
+| 2 | ch04:72 | Ji-won went. |
+| 2 | ch04:88 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
+| 2 | ch04:144 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
+| 4 | ch05:126 | Ji-won came out of the kitchen twice to see it. |
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 23 | ch12:10 | Ji-won came in at ten past and said good morning and then said, in the manner of somebod.. |
+| 23 | ch12:20 | "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she.. |
+| 27 | ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+
+### Zahlen in der Naehe von Ji-won
+
+- `ch03:40` (Tag 1) - seven
+- `ch04:62` (Tag 2) - one
+- `ch04:88` (Tag 2) - nine, one
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:148` (Tag 6) - fourteen, one, three, two
+- `ch05:196` (Tag 9) - nine, seven
+- `ch12:10` (Tag 23) - ten
+- `ch13:8` (Tag 27) - nine, seven, twenty-seven, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+
+---
+
+### Kim Do-yun
+
+7 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | ch15:134 | "And Do-yun," said Georgij. |
+| 41 | ch15:166 | "Do-yun." |
+| 41 | ch15:168 | "Do-yun." |
+| 46 | ch16:182 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+
+### Zahlen in der Naehe von Kim Do-yun
+
+- `ch14:22` (Tag 31) - one
+- `ch14:26` (Tag 31) - forty
+- `ch16:182` (Tag 46) - four hundred, one
+
+---
+
+### Bae
+
+6 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | ch03:168 | Bae's jaw moved. |
+| 1 | ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+
+### Zahlen in der Naehe von Bae
+
+- `ch03:150` (Tag 1) - forty
+- `ch05:128` (Tag 4) - one, three, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+
+---
+
+### Kim Ye-rin
+
+6 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:348 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:380 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:72` (Tag 46) - four, six, twenty
+
+---
+
+### Mr Noh
+
+5 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 4 | ch05:20 | He was not a replacement for the man on the gravel. He was the interim head of security... |
+| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
+| 4 | ch05:40 | "When I chose the eye instead of the throat, part of the reason was that the next man th.. |
+| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 6 | ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+
+### Zahlen in der Naehe von Mr Noh
+
+- `ch05:20` (Tag 4) - twenty-two
+- `ch05:24` (Tag 4) - eight, four, two
+- `ch05:148` (Tag 6) - fourteen, one, three, two
+- `ch05:172` (Tag 6) - twenty-six
+
+---
+
+### Chef Bang
+
+4 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
+| 22 | ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
+| 22 | ch08:226 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
+| 22 | ch08:246 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
+
+### Zahlen in der Naehe von Chef Bang
+
+- `ch08:218` (Tag 22) - eight, one, two
+- `ch08:226` (Tag 22) - eight hundred, sixty, sixty-two
+
+---
+
+### Eun-ju
+
+4 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | ch05:180 | **Eun-ju.** Friendly with him on the second morning and friendlier on the third, and on .. |
+| 23 | ch12:24 | Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it.. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+
+### Zahlen in der Naehe von Eun-ju
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch12:24` (Tag 23) - eight, six
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+
+---
+
+### Mr Baek
+
+4 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | ch15:196 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+
+---
+
+### Mr Pyo
+
+4 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:288 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:126 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:180 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch16:288` (Tag 46) - one, two
+- `ch17:126` (Tag 46) - three, two
+
+---
+
+### Mr Yeo
+
+4 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 23 | ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+
+### Zahlen in der Naehe von Mr Yeo
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:172` (Tag 6) - twenty-six
+- `ch05:178` (Tag 6) - nineteen, two
+- `ch12:22` (Tag 23) - twenty
+
+---
+
+### Minister Min-ho
+
+3 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch09:60 | Minister Min-ho was at the far end of the terrace with his back to the parapet, in an ov.. |
+| 22 | ch09:72 | Min-ho said almost nothing. He asked two questions, both short, both about other people... |
+| 22 | ch09:84 | He got that Min-ho already knew about the approach and had known before she told him, wh.. |
+
+### Zahlen in der Naehe von Minister Min-ho
+
+- `ch09:60` (Tag 22) - two
+- `ch09:72` (Tag 22) - two
+
+---
+
+### Mr Ku
+
+3 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it, in the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
+
+---
+
+### Mrs Sunwoo
+
+3 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `ch07:192` (Tag 22) - ten
+- `ch07:274` (Tag 22) - forty, one
+- `ch07:292` (Tag 22) - twelve
+
+---
+
+### Choi Dae-ho
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty, and a man .. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+
+---
+
+### Mr Im
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+
+### Zahlen in der Naehe von Mr Im
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+
+---
+
+### Mrs Ahn
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+
+### Zahlen in der Naehe von Mrs Ahn
+
+- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+
+---
+
+### Mrs Ryu
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
+
+---
+
+### Tae-min
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+
+### Zahlen in der Naehe von Tae-min
+
+- `ch05:178` (Tag 6) - nineteen, two
+
+---
+
+### Yun-seo
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch11:88 | He gave her Yun-seo and the fourteen sites and the three that had not spent it on staff... |
+
+### Zahlen in der Naehe von Yun-seo
+
+- `ch11:88` (Tag 22) - four hundred, fourteen, one, three, two

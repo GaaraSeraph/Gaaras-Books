@@ -47,7 +47,7 @@ Ausfall in derselben Bewegung.
 
 ### Was in Fassung 1.9 repariert wurde
 
-Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
+Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprueft. Historischer Eintrag, vor dem Umbau auf `doc/01` bis `doc/08`.
 
 **Widersprüche zum Kanon, geändert:**
 
@@ -68,7 +68,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 15. Block E: schwarze Karte, Shilla, Donnerstag neun Uhr sind unbelegt und als Vorschlag markiert.
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
 17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
-18. Block I: der Sake vom eigenen Geld widerspricht der Bibel. Drei Auswege benannt, einer empfohlen.
+18. Block I: der Sake vom eigenen Geld widerspricht `doc/02-leads.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
 19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
 
 **Ergänzt:**
@@ -79,13 +79,12 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 23. Sang-hoons Rückgabetermin für die neunzehn Seiten, Tag 48, Donnerstag 20. November.
 24. Der offene Faden aus Kapitel 10, dass Georgij angeboten hat, ein Abendessen selbst zu bezahlen. Hängt an derselben Frage wie der Sake.
 25. Reihenfolge ab hier neu sortiert, Erledigtes herausgenommen.
-26. Figurenabschnitt entdoppelt, Bibel und Cast sind maßgeblich.
+26. Figurenabschnitt entdoppelt, `doc/02-leads.md` und `doc/03-cast.md` sind massgeblich.
 
 **Außerhalb dieser Datei aufgefallen, nicht geändert:**
 
 Drei Sachen, die Kapitel betreffen und die ich deshalb nicht angefasst habe. Sag Bescheid, was Du damit willst.
 
-- **Die Buchhaltung der Bibel v10.1 stimmt nicht mehr.** Vier Stellen: Sie führt sich selbst als `story-bible_v5.0_en.md` und den Cast als `v1.1`, beides veraltet. Ihre Kopfzeile sagt "nach Kapitel 16 (v1.2)", die Datei ist v1.3. Im Abschnitt "Stand der Kapitel" steht Kapitel 9 als v3.0 statt v3.1. **Und der Eintrag für Kapitel 14 ist der wichtigste:** Er heißt dort *Four thousand two hundred* (v4.0) und listet Gesichter, Do-yun, Hanseong, Annies Entscheidung **und das Essen zu dritt** in einem. Das ist der Stand vor der Teilung an der Tagesgrenze. Inzwischen ist Kapitel 14 *In the same size type* (v7.0, Tag 31 bis 34) und Kapitel 15 *Four thousand two hundred* (v1.1, Tag 41), und Kapitel 15 und 16 fehlen in der Liste ganz. Wer die Bibel nach Kapiteltiteln durchsucht, findet den falschen.
 - **Kapitel 12, Kangs Anruf: "Chairman Woo has told several people that you asked him the same thing."** Kapitel 11 und Kapitel 16 führen als die zwei Verwendungen des Griffs beide Hong und Kang, nicht Woo. Es ist rettbar, und zwar ohne Änderung: Georgij zählt zwei, weil er Hong und Kang meint, und Woo hat unabhängig davon erzählt, dass der Neue sich von ihm die ganze Geschichte von vor der Hafenbehörde erklären lassen wollte, was aus Woos Sicht dieselbe Bitte ist. Dazu passt auch "some minutes earlier", denn Woo war in Kapitel 10 tatsächlich Minuten vor Kang dran, während Hong dreieinhalb Stunden früher lag. Wenn das so gemeint war, steht es nirgends, und beim nächsten Durchgang stolpert ein Leser darüber. Entweder Hong einsetzen und "some minutes earlier" ändern, oder eine halbe Zeile, die Woos Version erwähnt.
 - **Zehn oder elf Minuten.** In Kapitel 9 sagt die Erzählstimme, Hana sei elf Minuten freundlich zu ihm gewesen, in Kapitel 11 sagt Georgij zehn. Einer von beiden rundet, und wenn das Absicht ist, ist es unsichtbar. Elf ist außerdem die Zahl, die in diesem Buch ohnehin schon am meisten arbeitet.
 

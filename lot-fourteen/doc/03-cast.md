@@ -22,10 +22,10 @@ fallen.
 **Der Verfall, konkret:** Der Stuhl im Monitorzimmer zeigt so lange von den Schirmen weg, dass der Teppich darunter in dieser Stellung platt ist. Der Nachtmann geht dieselbe Runde um elf, eins, drei und fünf, neunzehn Minuten pro Runde, und Georgij hat sie in zwei Nächten vom Fenster aus komplett. Zwei der drei Schichtführer haben nie einen Schlüssel zum Sicherheitsbüro bekommen und fragen längst nicht mehr. Und keiner der vierzehn kommt nach zehn durch die Haustür, weil Annie vor Jahren gesagt hat, sie lebe nicht in einer Bank, und niemand sie je gebeten hat, das zu wiederholen.
 
 **Annie** - Chaebol, Ende dreißig. Kauft Georgij für 220 Millionen Won.
-**Ihr Geschäft:** Ein Chaebol mit mehreren Sparten, von denen bisher nur eine aufgedeckt ist, weil nur eine gebraucht wird. Die relevante ist Spezialchemie und Werkstoffe. Fahrplangebundene Vorprodukte über wenige Häfen, und die schwierigen Auslandszulassungen, die sie braucht, liegen bei den Kims. Sie ist also abhängig und keine Wohltäterin. Was sie mit dem Vetorecht über Routen tatsächlich kauft, ist eine Engstelle, an der drei oder vier Konkurrenten derselben Branche hängen. Einzelheiten in der Bibel.
+**Ihr Geschäft:** Ein Chaebol mit mehreren Sparten, von denen bisher nur eine aufgedeckt ist, weil nur eine gebraucht wird. Die relevante ist Spezialchemie und Werkstoffe. Fahrplangebundene Vorprodukte über wenige Häfen, und die schwierigen Auslandszulassungen, die sie braucht, liegen bei den Kims. Sie ist also abhängig und keine Wohltäterin. Was sie mit dem Vetorecht über Routen tatsächlich kauft, ist eine Engstelle, an der drei oder vier Konkurrenten derselben Branche hängen. Einzelheiten in `doc/04-world.md` unter "Was Annies Gruppe macht, und was sie wirklich kauft".
 *Kanon.*
 
-**Georgij** - Los vierzehn. Siehe Bibel.
+**Georgij** - Los vierzehn. Siehe `doc/02-leads.md`, Abschnitt "Georgij".
 *Kanon.*
 
 **Mrs Seo** - Führt den Haushalt. Über sechzig. War in der Kaufnacht wach und ist als Einzige zu dem Mann auf dem Kies hinausgegangen. Hat dort telefoniert, unter einer Minute, ohne Adresse zu nennen. Kein Krankenwagen ist gekommen. Sie beantwortet keine Frage, die sie nicht beantworten will, und sie tut es, ohne unhöflich zu werden. Das blutige Tuch wandert in ihre Schürze, nicht in einen Eimer.
@@ -63,7 +63,7 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Die Glasfirma aus Yeongdeungpo** - Zweiter Mittwoch im Monat, Gondel an den Dachankern, vier Mann, von denen einer noch nie zweimal derselbe war. Seit Jahren so. Vier Fremde an Seilen an einer Wand ohne Tür. **Georgij setzt das an die Spitze seiner Liste für Jang, über den Nachtposten.**
 *Kanon, Kapitel 5. Offener Faden.*
 
-**Der erste Wachmann** - Namenlos. Verliert das Auge. Siehe Bibel.
+**Der erste Wachmann** - Namenlos. Verliert das Auge. Laengere Fassung weiter unten in dieser Datei, Begruendung in `doc/02-leads.md` unter "Das Auge: warum, und warum nicht die Kehle".
 *Kanon, Kapitel 1 und 2.*
 
 **Mr Noh** - Sicherheitschef seit zweiundzwanzig Jahren, geht Ende des Monats. Baut seit März Resturlaub ab, kommt dienstags, hat den Stuhl im Monitorzimmer so hinterlassen, dass er von allen acht Schirmen wegzeigt. Er ist nicht böse, er ist fertig, und er ist der Grund für den Zustand der Anlage. Tritt bisher nicht auf.
@@ -97,13 +97,13 @@ Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den R
 Wer auf derselben Seite steht, und was es jeden davon kostet. Niemand hier hilft
 aus Freundschaft, und das ist Absicht.
 
-Die Mechanik dahinter steht in `09-the-business.md`.
+Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
 **Hana** - Annies Verbündete, keine Angestellte. Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
-**Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in der Bibel.
+**Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in `doc/04-world.md` unter "Hana: was sie einbringt und was sie dafuer bekommt".
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 

@@ -102,7 +102,7 @@ Und das ist das Schlimmste daran: Sang-hoon hat sich kein Verbrechen ausgedacht,
 
 1. **Geld.** Die Kims brauchen keine Rettung, sondern eine Bilanz, die eine Ermittlung übersteht. Annie stellt Geld dahinter und nimmt Anteile, Sicherheiten und ein Vetorecht über Routen. Sie behalten den Namen, Annie bekommt die Kontrolle, und das wird ihnen vorher in genau diesen Worten von Georgij gesagt.
 2. **Zeit.** Das ist Hanseong. Sang-hoon kann nicht im selben Quartal schnell sein und vier Routen kaufen. Es hält ihn nicht auf, es kauft Wochen, und Wochen sind das Einzige, was zu kaufen ist.
-3. **Kunden.** Das Dringendste und in der Bibel bisher Fehlende: Das Problem der Kims in diesem Monat ist nicht der Eigentümer, sondern dass Kunden abspringen. Drei Kündigungen in einer Woche. Kunden kommen nicht für Geld zurück, sondern weil jemand neben einem steht, dem sie trauen. Das ist **Woo**. Setzt er seinen Namen neben ihren, hören die Kündigungen in derselben Woche auf.
+3. **Kunden.** Das Dringendste, und in der Planung lange gefehlt: Das Problem der Kims in diesem Monat ist nicht der Eigentümer, sondern dass Kunden abspringen. Drei Kündigungen in einer Woche. Kunden kommen nicht für Geld zurück, sondern weil jemand neben einem steht, dem sie trauen. Das ist **Woo**. Setzt er seinen Namen neben ihren, hören die Kündigungen in derselben Woche auf.
 
 **Woo kauft nichts.** Er ist kein Gegenbieter. Sein Motiv: Zweimal in diesem Jahr wollte jemand sein Terminal kaufen und nicht sagen, wer dahintersteht, und er weiß selbst, dass es nach seinem Tod dreigeteilt wird und einer der drei Sang-hoon wäre.
 

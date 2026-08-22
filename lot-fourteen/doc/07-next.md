@@ -9,24 +9,23 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 Was als Naechstes drankommt und in welcher Ordnung. Erledigtes wird gestrichen,
 nicht abgehakt.
 
-**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet.
+**Erledigt:** Kangs Anruf. Das Abendessen mit Sang-hoon und der Hanseong-Bericht. Do-yun als Mann von innen, benannt und begründet. **Die Heimfahrt nach Sang-hoon**, geschrieben als Kapitel 17 (v12.1, Tag 46, derselbe Abend wie Kapitel 16). Sie endet nicht auf "I enjoy this": darauf folgt *He had meant to stop there.* und das Geständnis über das Wort *Mistress*, und danach gibt Annie im Korridor die elf Häuser zurück. Der Wortlaut in `doc/05-continuity.md` unter "Festgelegte Zeile" reicht nur bis "I enjoy this." und beschreibt den ersten Teil.
 
 **Als Nächstes, in dieser Reihenfolge:**
 
-1. **Die Heimfahrt nach Sang-hoon.** Unmittelbar nach Kapitel 16, im Wagen, unter vier Augen. Die festgelegte Zeile über die elf Häuser und die Stelle, an der es wehtut, steht wörtlich in der Bibel und gehört genau dorthin. Endet auf "I enjoy this." Kein Nachsatz.
-2. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
-3. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
-4. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
-5. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
-6. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
-7. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
-8. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
-9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in der Bibel unter Pipeline.
+1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben.
+2. **Der Bericht kommt zurück.** Sang-hoon hat "You'll get it back on Thursday" gesagt. Das ist Tag 48, Donnerstag der 20. November. Ein datiertes Versprechen, das jemand einlösen muss.
+3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
+4. **Woo an die Seite der Kims holen.** Das ist die teure Bitte, und die vier Minuten dafür liegen seit Tag 28 bereit.
+5. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
+6. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
+7. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
+8. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
 
     Was der Text davon zeigt: ein Katalog ohne den Jungen und das Wort "No" (Kapitel 6). Neunzehn Tage in ihrem Besitz und trotzdem kein Name (Kapitel 12). Ihre Begründung, dass es ändert, worum sie ihn bitten muss (Kapitel 11). Und Kapitel 15 sagt in einem Nebensatz, dass sie den Namen seit seiner ersten Woche im Haus hat.
 
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
-10. **Die Pipeline.** Kanon in der Bibel, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
+9. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
 Erst danach die Blöcke F bis J, und zwar mit Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt, an der die beiden nebeneinander gut sind.
 
@@ -48,24 +47,29 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Bekannte Baustellen, Stand nach Kapitel 17
 
-- **Bandwurmsaetze.** `python3 check.py` zeigt sie. Der Rueckstand nach Kapitel:
-  Kapitel 5 hat neunzehn, Kapitel 7 sechzehn, Kapitel 13 zwoelf, Kapitel 8 und 9
-  je elf, Kapitel 4 und 6 je zehn, Kapitel 3 acht. Kapitel 17 ist sauber.
-  Vorschlag der Reihenfolge: 5, dann 7, dann 13, dann abwaerts.
+- **Bandwurmsaetze.** `python3 check.py` zeigt sie, `.check-baseline` haelt den
+  Stand. Kapitel 7 hat sechzehn, Kapitel 13 zwoelf, Kapitel 4, 6, 8 und 9 je elf,
+  Kapitel 3 acht. Kapitel 5, 16 und 17 sind sauber.
+  Reihenfolge: 7, dann 13, dann 8 und 9, dann 4 und 6, dann 3.
 
-- **Das Laecheln fehlt in Kapitel 2 bis 6.** Fuenf Kapitel am Stueck ohne ein
-  einziges Laecheln und ohne ein Lachen. Genau die Kapitel, in denen er das Haus
-  dreht: Mrs Seo, Ji-won und Bae in einer Nacht, Jang bis zum Mittagessen, der
-  Schneider. Das Werkzeug, mit dem er das tut, kommt im Text nicht vor, und in
-  Kapitel 7 wird es dann als Handwerkslehre erklaert, als haette es das vorher
-  nie gegeben. **Nicht streuen. Zwei Stellen setzen**, eine dort, wo er das Haus
-  dreht, und eine beim Schneider.
+- **Das Laecheln in Kapitel 2 bis 6: zwei Stellen gesetzt, der Rest offen.**
+  Es fehlte ueber fuenf Kapitel am Stueck, genau dort, wo er das Haus dreht, und
+  Kapitel 7 erklaerte es danach als Handwerkslehre, als haette es das nie
+  gegeben. Gesetzt sind jetzt Kapitel 3 (Ji-won auf der Treppe, klein gehalten)
+  und Kapitel 5 (der Schneider, hauptsaechlich im Kinn). **Kapitel 2, 4 und 6
+  haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
+  nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
+  offenen Sorten sind dort als *offen* markiert.
 
-- **Das Halsband fehlt in Kapitel 14, 15 und 16.** Kein einziges Mal, nicht als
-  Wort, nicht als Gegenstand, nicht als Empfindung. Ueber fuenfzehn Tage ist er
-  zum Berater geworden und der Text hat aufgehoert, ihn daran zu erinnern, was er
-  ist. Das kann Absicht sein und macht den Bruch teurer, aber im Moment ist es
-  nicht gebaut, sondern passiert.
+- **Das Halsband fehlt in Kapitel 14 bis 17**, also im gesamten Schluss und
+  nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
+  nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
+  `jaw`. Ueber fuenfzehn Tage ist er zum Berater geworden und der Text hat
+  aufgehoert, ihn daran zu erinnern, was er ist - ausgerechnet auch in dem
+  Kapitel, in dem die festgelegte Zeile ueber die elf Haeuser steht. Das kann
+  Absicht sein und macht den Bruch teurer, aber im Moment ist es nicht gebaut,
+  sondern passiert. Weitere Luecken, bisher nicht verbucht: Kapitel 3, 8, 10 und
+  11. Kapitel 7 hat nur die Empfindung ohne das Wort.
 
 - **Der Haushalt ist seit Kapitel 13 fast verschwunden.** Kapitel 14 und 16
   enthalten je eine Haushaltsfigur. Die Textur, die das Buch in den Kapiteln 3

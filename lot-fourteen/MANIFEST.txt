@@ -19,4 +19,4 @@ ch16  v1.9       3133 Woerter  ch16_v1_9_en.md
 ch17  v12.1       2565 Woerter  ch17_v12_1_en.md
 
 Gesamt: 17 Kapitel, 50329 Woerter
-Handbuch: 8 Dokumente
+Handbuch: 9 Dokumente
