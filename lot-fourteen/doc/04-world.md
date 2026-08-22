@@ -8,7 +8,7 @@ Das Anwesen und die Maschine unter der Handlung. Vor jeder Verhandlungsszene gan
 
 Anwesen, Sicherheitsapparat, Kameras, Geraete, und wie das Personal beschafft
 wird. Die Zahlen hier sind hart: vierundzwanzig Kameras, zweiundzwanzig auf der
-Wand, neunundzwanzig Personen, vierzehn davon Sicherheit.
+Wand, dreissig Personen, vierzehn davon Sicherheit.
 
 - **Die Ausnahmen sind zählbar.** Annie stand in achtundzwanzig Tagen dreimal um sieben in der Küche: an den ersten beiden Morgen, und an dem Morgen, an dem sie seine Antwort auf die Bitte abholt. Beim dritten Mal setzt sie sich nicht, sondern nimmt die Tasse mit und geht, was sie vorher nie getan hat. Wenn sie dort auftaucht, muss der Text sagen, warum.
 

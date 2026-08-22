@@ -6,7 +6,7 @@ Haushalt, Verbuendete, Gegenseite, der Saal. Halbkanon: Was im Text vorkommt, gi
 
 ## Der Haushalt
 
-Alle, die Geld vom Anwesen beziehen. Neunundzwanzig Personen, vierzehn davon
+Alle, die Geld vom Anwesen beziehen. Dreissig Personen, vierzehn davon
 Sicherheit. Der Apparat ist gross, teuer und richtig aufgestellt, er zeigt nur
 seit zweiundzwanzig Jahren nach aussen.
 
@@ -15,7 +15,7 @@ fallen.
 
 ### Im Haus
 
-**Der Personalbestand.** Neunundzwanzig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
+**Der Personalbestand.** Dreissig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. (Korrigiert: der Text sagte neunundzwanzig, die Namensliste in Kapitel 5 ergibt aber sechzehn Nicht-Sicherheitsleute. Eun-ju ist ausserdem die Ausnahme von den zwei Schichten und arbeitet acht bis vier, weil der Bus aus Nowon nicht besser faehrt.) Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
 
 **Sicherheit, vierzehn Mann:** Noh darüber, auf dem Papier. Drei Schichtführer. Torposten rund um die Uhr als Dreimannposten, derzeit zwei, und das ist der einzige Posten, den Ji-won je gesehen hat, weshalb sie in Kapitel 3 von drei und zwei spricht. Zwei auf dem Perimeter tags, einer nachts. Monitorzimmer nachts besetzt. Zwei, die mitfahren, wenn Annie fährt.
 

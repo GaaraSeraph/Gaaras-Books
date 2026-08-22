@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.483 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.609 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -579,7 +579,7 @@ Haushalt, Verbuendete, Gegenseite, der Saal. Halbkanon: Was im Text vorkommt, gi
 
 ## Der Haushalt
 
-Alle, die Geld vom Anwesen beziehen. Neunundzwanzig Personen, vierzehn davon
+Alle, die Geld vom Anwesen beziehen. Dreissig Personen, vierzehn davon
 Sicherheit. Der Apparat ist gross, teuer und richtig aufgestellt, er zeigt nur
 seit zweiundzwanzig Jahren nach aussen.
 
@@ -588,7 +588,7 @@ fallen.
 
 ### Im Haus
 
-**Der Personalbestand.** Neunundzwanzig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
+**Der Personalbestand.** Dreissig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. (Korrigiert: der Text sagte neunundzwanzig, die Namensliste in Kapitel 5 ergibt aber sechzehn Nicht-Sicherheitsleute. Eun-ju ist ausserdem die Ausnahme von den zwei Schichten und arbeitet acht bis vier, weil der Bus aus Nowon nicht besser faehrt.) Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
 
 **Sicherheit, vierzehn Mann:** Noh darüber, auf dem Papier. Drei Schichtführer. Torposten rund um die Uhr als Dreimannposten, derzeit zwei, und das ist der einzige Posten, den Ji-won je gesehen hat, weshalb sie in Kapitel 3 von drei und zwei spricht. Zwei auf dem Perimeter tags, einer nachts. Monitorzimmer nachts besetzt. Zwei, die mitfahren, wenn Annie fährt.
 
@@ -780,7 +780,7 @@ Das Anwesen und die Maschine unter der Handlung. Vor jeder Verhandlungsszene gan
 
 Anwesen, Sicherheitsapparat, Kameras, Geraete, und wie das Personal beschafft
 wird. Die Zahlen hier sind hart: vierundzwanzig Kameras, zweiundzwanzig auf der
-Wand, neunundzwanzig Personen, vierzehn davon Sicherheit.
+Wand, dreissig Personen, vierzehn davon Sicherheit.
 
 - **Die Ausnahmen sind zählbar.** Annie stand in achtundzwanzig Tagen dreimal um sieben in der Küche: an den ersten beiden Morgen, und an dem Morgen, an dem sie seine Antwort auf die Bitte abholt. Beim dritten Mal setzt sie sich nicht, sondern nimmt die Tasse mit und geht, was sie vorher nie getan hat. Wenn sie dort auftaucht, muss der Text sagen, warum.
 
@@ -1844,8 +1844,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 169 | 17 (01-17) | 1 | 46 |
-| Hana | 74 | 7 (09-17) | 22 | 46 |
+| Annie | 172 | 17 (01-17) | 1 | 46 |
+| Hana | 75 | 7 (09-17) | 22 | 46 |
 | Park Sang-hoon | 45 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
@@ -1876,7 +1876,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-169 Nennungen in 17 Kapiteln.
+172 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1971,18 +1971,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:20 | "Well," said Annie. |
 | 22 | ch11:60 | "Take three," said Annie. "Go on." |
 | 22 | ch11:84 | "Yes," said Annie. "You would." |
-| 22 | ch11:100 | Annie turned her head. |
-| 22 | ch11:114 | "Go and get it," said Annie. |
-| 22 | ch11:144 | Annie did not move at all. |
-| 22 | ch11:160 | Annie was quiet for a long moment. |
-| 22 | ch11:176 | Annie turned her head. |
-| 22 | ch11:180 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | ch11:196 | Annie did not say anything for perhaps two hundred metres. |
-| 22 | ch11:204 | "Now say the other thing," said Annie. |
-| 22 | ch11:214 | Annie looked at him. |
-| 22 | ch11:226 | "I'm not going to give it to you," said Annie. |
-| 22 | ch11:238 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
-| 22 | ch11:252 | Annie went down the hall without taking her shoes off. |
+| 22 | ch11:104 | Annie looked out of her own window. |
+| 22 | ch11:118 | Annie turned her head. |
+| 22 | ch11:136 | "Go and get it," said Annie. |
+| 22 | ch11:166 | Annie did not move at all. |
+| 22 | ch11:182 | Annie was quiet for a long moment. |
+| 22 | ch11:210 | Annie turned her head. |
+| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | ch11:230 | Annie did not say anything for perhaps two hundred metres. |
+| 22 | ch11:238 | "Now say the other thing," said Annie. |
+| 22 | ch11:248 | Annie looked at him. |
+| 22 | ch11:260 | "I'm not going to give it to you," said Annie. |
+| 22 | ch11:272 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
+| 22 | ch11:286 | Annie went down the hall without taking her shoes off. |
 | 23 | ch12:62 | Annie did not send for him. |
 | 25 | ch12:164 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
 | 26 | ch12:184 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
@@ -2013,24 +2014,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:126 | "What I want is this." She put two fingers on the cloth. "If the Kims come out of the ot.. |
 | 41 | ch15:128 | "And then you have a tenant instead of a predator," said Annie. |
 | 41 | ch15:132 | "No," said Annie. "That's why I'm still listening." |
-| 41 | ch15:140 | Annie did not say anything. |
-| 41 | ch15:148 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
-| 41 | ch15:150 | "He does," said Annie. |
-| 41 | ch15:176 | He gave her the three that meant nothing to him and he gave her the fourth, because it w.. |
-| 41 | ch15:178 | Annie's face did nothing at all. |
-| 41 | ch15:216 | Annie said nothing whatsoever. |
-| 41 | ch15:258 | "And what is it for?" said Annie. |
-| 41 | ch15:302 | "That is what I am buying," said Annie. "Yes." |
-| 41 | ch15:308 | "And the third thing," said Annie. |
-| 41 | ch15:322 | "Probably," said Annie. |
-| 41 | ch15:326 | Annie looked at the pages. |
-| 41 | ch15:346 | Annie looked at her. |
-| 41 | ch15:366 | "It says that in November two women had an arrangement about Incheon, four months before.. |
-| 41 | ch15:372 | Annie was quiet for what felt like a considerable time. |
-| 41 | ch15:378 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
-| 41 | ch15:388 | "Yes," said Annie. "You would." |
-| 41 | ch15:414 | "The eighteenth," said Annie, when the door had closed. |
-| 41 | ch15:426 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
+| 41 | ch15:146 | "Because of him." She said it to Annie and not to him. "I told him on that floor that I .. |
+| 41 | ch15:148 | Annie did not look at either of them. |
+| 41 | ch15:158 | Annie did not say anything. |
+| 41 | ch15:166 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
+| 41 | ch15:168 | "He does," said Annie. |
+| 41 | ch15:194 | He gave her the three that meant nothing to him and he gave her the fourth, because it w.. |
+| 41 | ch15:196 | Annie's face did nothing at all. |
+| 41 | ch15:234 | Annie said nothing whatsoever. |
+| 41 | ch15:276 | "And what is it for?" said Annie. |
+| 41 | ch15:320 | "That is what I am buying," said Annie. "Yes." |
+| 41 | ch15:326 | "And the third thing," said Annie. |
+| 41 | ch15:340 | "Probably," said Annie. |
+| 41 | ch15:344 | Annie looked at the pages. |
+| 41 | ch15:364 | Annie looked at her. |
+| 41 | ch15:384 | "It says that in November two women had an arrangement about Incheon, four months before.. |
+| 41 | ch15:390 | Annie was quiet for what felt like a considerable time. |
+| 41 | ch15:396 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
+| 41 | ch15:406 | "Yes," said Annie. "You would." |
+| 41 | ch15:432 | "The eighteenth," said Annie, when the door had closed. |
+| 41 | ch15:444 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
 | 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
 | 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
 | 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
@@ -2080,17 +2083,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch10:200` (Tag 22) - fifteen, three, two
 - `ch10:218` (Tag 22) - three, two
 - `ch11:60` (Tag 22) - three
-- `ch11:180` (Tag 22) - eleven, twenty-five
-- `ch11:196` (Tag 22) - two hundred
+- `ch11:214` (Tag 22) - eleven, twenty-five
+- `ch11:230` (Tag 22) - two hundred
 - `ch12:184` (Tag 26) - four, nineteen
 - `ch12:208` (Tag 26) - one
 - `ch12:220` (Tag 26) - one, twenty-six
 - `ch13:34` (Tag 27) - two
 - `ch15:126` (Tag 41) - twenty, two
-- `ch15:148` (Tag 41) - one
-- `ch15:176` (Tag 41) - three
-- `ch15:366` (Tag 41) - four, one, two
-- `ch15:426` (Tag 41) - four thousand two hundred
+- `ch15:166` (Tag 41) - one
+- `ch15:194` (Tag 41) - three
+- `ch15:384` (Tag 41) - four, one, two
+- `ch15:444` (Tag 41) - four thousand two hundred
 - `ch16:12` (Tag 46) - two
 - `ch16:122` (Tag 46) - five, sixteen thousand
 - `ch16:142` (Tag 46) - one, two
@@ -2103,7 +2106,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-74 Nennungen in 7 Kapiteln.
+75 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2140,11 +2143,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
 | 22 | ch11:70 | "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I sh.. |
 | 22 | ch11:94 | "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she .. |
-| 22 | ch11:98 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
-| 22 | ch11:180 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | ch11:116 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
+| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
 | 34 | ch14:120 | "The third is the only one that is urgent, and it is the one nobody has mentioned in thi.. |
 | 34 | ch14:198 | "I need Hana in a room, and my preference is that she comes here." |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:6 | Hana came at seven and did not bring anybody with her. |
 | 41 | ch15:18 | "Good," said Hana, and gave him her coat. |
 | 41 | ch15:40 | Hana laughed out loud. |
@@ -2156,28 +2159,29 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:114 | Hana looked at him for a moment. |
 | 41 | ch15:122 | "You were ten minutes old to me on that terrace," said Hana, "and you were standing at m.. |
 | 41 | ch15:130 | "Then I have a tenant whose ownership I can read, and whose veto sits with you." Hana sh.. |
-| 41 | ch15:142 | Hana looked at him with her chin down for a moment, and then said, in a completely diffe.. |
-| 41 | ch15:158 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | ch15:174 | "Give me the dates," said Hana. |
-| 41 | ch15:180 | Hana went through them twice. |
-| 41 | ch15:186 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
-| 41 | ch15:198 | Hana put the paper down. |
-| 41 | ch15:224 | Hana waited. |
-| 41 | ch15:232 | He looked at Hana. |
-| 41 | ch15:240 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
-| 41 | ch15:266 | Hana was very still. |
-| 41 | ch15:272 | Hana put her glass down. |
-| 41 | ch15:276 | "A poisoned apple," said Hana. |
-| 41 | ch15:294 | Hana had stopped moving. |
-| 41 | ch15:328 | "Will he take it?" she said, to Hana. |
-| 41 | ch15:330 | Hana did not answer straight away, which Georgij noticed and was glad of. |
-| 41 | ch15:342 | Hana put both hands on the table. |
-| 41 | ch15:350 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
-| 41 | ch15:354 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
-| 41 | ch15:368 | "So you would advise against it," said Hana. |
-| 41 | ch15:380 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 41 | ch15:394 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
-| 41 | ch15:408 | "You told me tonight that you were wrong about a man's character and you told me before .. |
+| 41 | ch15:140 | Hana did not answer straight away. |
+| 41 | ch15:160 | Hana looked at him with her chin down for a moment, and then said, in a completely diffe.. |
+| 41 | ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | ch15:192 | "Give me the dates," said Hana. |
+| 41 | ch15:198 | Hana went through them twice. |
+| 41 | ch15:204 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
+| 41 | ch15:216 | Hana put the paper down. |
+| 41 | ch15:242 | Hana waited. |
+| 41 | ch15:250 | He looked at Hana. |
+| 41 | ch15:258 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
+| 41 | ch15:284 | Hana was very still. |
+| 41 | ch15:290 | Hana put her glass down. |
+| 41 | ch15:294 | "A poisoned apple," said Hana. |
+| 41 | ch15:312 | Hana had stopped moving. |
+| 41 | ch15:346 | "Will he take it?" she said, to Hana. |
+| 41 | ch15:348 | Hana did not answer straight away, which Georgij noticed and was glad of. |
+| 41 | ch15:360 | Hana put both hands on the table. |
+| 41 | ch15:368 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
+| 41 | ch15:372 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
+| 41 | ch15:386 | "So you would advise against it," said Hana. |
+| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | ch15:412 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
+| 41 | ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
 | 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | ch17:90 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
@@ -2195,18 +2199,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch10:192` (Tag 22) - four
 - `ch11:70` (Tag 22) - thirty
 - `ch11:94` (Tag 22) - five, three
-- `ch11:98` (Tag 22) - nine, one, six
-- `ch11:180` (Tag 22) - eleven, twenty-five
+- `ch11:116` (Tag 22) - nine, one, six, two
+- `ch11:214` (Tag 22) - eleven, twenty-five
 - `ch14:120` (Tag 34) - eighteen, one, three
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:6` (Tag 41) - seven
 - `ch15:46` (Tag 41) - eleven, four, nine and seven, one, six, two
 - `ch15:54` (Tag 41) - twenty
 - `ch15:122` (Tag 41) - ten
-- `ch15:142` (Tag 41) - one
-- `ch15:240` (Tag 41) - one
-- `ch15:350` (Tag 41) - twenty
-- `ch15:354` (Tag 41) - ten
+- `ch15:160` (Tag 41) - one
+- `ch15:258` (Tag 41) - one
+- `ch15:368` (Tag 41) - twenty
+- `ch15:372` (Tag 41) - ten
 - `ch16:120` (Tag 46) - three
 - `ch17:90` (Tag 46) - one, sixteen thousand
 
@@ -2232,14 +2236,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch10:340 | Sang-hoon considered that. |
 | 22 | ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
 | 22 | ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
-| 22 | ch11:120 | Then Sang-hoon, because Sang-hoon had been last. |
-| 22 | ch11:126 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
+| 22 | ch11:142 | Then Sang-hoon, because Sang-hoon had been last. |
+| 22 | ch11:148 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
 | 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
 | 34 | ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
 | 34 | ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
 | 34 | ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
-| 41 | ch15:158 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | ch15:260 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
+| 41 | ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
 | 46 | ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
 | 46 | ch16:16 | Sang-hoon was already there. |
 | 46 | ch16:34 | "You ask people to guide you," said Sang-hoon. |
@@ -2310,8 +2314,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch10:56 | "Somebody at a dinner," said Chairman Woo. |
 | 22 | ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
 | 22 | ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
-| 22 | ch11:180 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | ch11:208 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
+| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
 | 23 | ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
 | 25 | ch12:136 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
 | 27 | ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
@@ -2342,8 +2346,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch08:156` (Tag 22) - one
 - `ch09:48` (Tag 22) - four, nine
 - `ch11:38` (Tag 22) - four, six, two
-- `ch11:180` (Tag 22) - eleven, twenty-five
-- `ch11:208` (Tag 22) - fourteen, one
+- `ch11:214` (Tag 22) - eleven, twenty-five
+- `ch11:242` (Tag 22) - fourteen, one
 - `ch12:68` (Tag 23) - nine, three
 - `ch12:136` (Tag 25) - four
 - `ch13:104` (Tag 27) - eight
@@ -2391,11 +2395,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
 | 22 | ch06:170 | Mrs Seo stepped back. |
 | 22 | ch06:174 | "Yes, Mrs Seo." |
-| 22 | ch11:246 | Mrs Seo had left the hall light on and gone to bed. |
+| 22 | ch11:280 | Mrs Seo had left the hall light on and gone to bed. |
 | 23 | ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
 | 27 | ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
 | 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
 | 46 | ch17:194 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 
@@ -2407,7 +2411,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch03:166` (Tag 1) - one, three, two
 - `ch04:20` (Tag 2) - five, seven
 - `ch04:62` (Tag 2) - one
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch05:146` (Tag 6) - nine, one
 - `ch05:196` (Tag 9) - nine, seven
 - `ch05:198` (Tag 9) - eight, two
@@ -2416,7 +2420,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch06:160` (Tag 22) - six, twenty
 - `ch06:166` (Tag 22) - nine, one
 - `ch12:8` (Tag 23) - four, nine
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:22` (Tag 41) - one, three
 
 ---
@@ -2454,9 +2458,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 23 | ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
 | 27 | ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
 | 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
-| 41 | ch15:210 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
-| 41 | ch15:418 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
+| 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
 | 46 | ch17:228 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
 | 46 | ch17:246 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
@@ -2479,8 +2483,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:56` (Tag 23) - two
 - `ch13:40` (Tag 27) - four
 - `ch13:80` (Tag 27) - four
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
-- `ch15:210` (Tag 41) - four, three
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `ch15:228` (Tag 41) - four, three
 - `ch16:10` (Tag 46) - two
 - `ch17:228` (Tag 46) - nine, three
 - `ch17:246` (Tag 46) - six
@@ -2605,19 +2609,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 23 | ch12:10 | Ji-won came in at ten past and said good morning and then said, in the manner of somebod.. |
 | 23 | ch12:20 | "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she.. |
 | 27 | ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 
 ### Zahlen in der Naehe von Ji-won
 
 - `ch03:40` (Tag 1) - seven
 - `ch04:62` (Tag 2) - one
 - `ch04:90` (Tag 2) - nine, one
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:196` (Tag 9) - nine, seven
 - `ch12:10` (Tag 23) - ten
 - `ch13:8` (Tag 27) - nine, seven, twenty-seven, two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -2630,9 +2634,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
 | 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
 | 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:134 | "And Do-yun," said Georgij. |
-| 41 | ch15:166 | "Do-yun." |
-| 41 | ch15:168 | "Do-yun." |
+| 41 | ch15:152 | "And Do-yun," said Georgij. |
+| 41 | ch15:184 | "Do-yun." |
+| 41 | ch15:186 | "Do-yun." |
 | 46 | ch16:182 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
@@ -2654,13 +2658,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch03:168 | Bae's jaw moved. |
 | 1 | ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
 | 4 | ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 
 ### Zahlen in der Naehe von Bae
 
 - `ch03:150` (Tag 1) - forty
 - `ch05:128` (Tag 4) - one, three, two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -2673,8 +2677,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
 | 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
 | 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:348 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:380 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
 | 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
@@ -2733,13 +2737,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 6 | ch05:180 | **Eun-ju.** Friendly with him on the second morning and friendlier on the third, and on .. |
 | 23 | ch12:24 | Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it.. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 
 ### Zahlen in der Naehe von Eun-ju
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch12:24` (Tag 23) - eight
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -2750,14 +2754,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | ch14:206 | "If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo,.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | ch15:196 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 41 | ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, twenty-nine, two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -2774,7 +2778,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Pyo
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch16:288` (Tag 46) - one, two
 - `ch17:126` (Tag 46) - three, two
 
@@ -2793,7 +2797,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Yeo
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch05:172` (Tag 6) - twenty-six
 - `ch05:178` (Tag 6) - nineteen, two
 - `ch12:22` (Tag 23) - twenty
@@ -2829,7 +2833,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Ku
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch07:8` (Tag 22) - three
 - `ch11:6` (Tag 22) - seventeen
 
@@ -2878,7 +2882,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Im
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 
 ---
 
@@ -2892,7 +2896,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mrs Ahn
 
-- `ch05:144` (Tag 6) - eleven, four, nine, six, ten, three, two, two and two
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 
 ---
 

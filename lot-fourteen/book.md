@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.384 Woerter.
+17 Kapitel. 50.943 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -13,17 +13,17 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 02 | v11.6 | 3.174 |
 | 03 | v2.6 | 3.380 |
 | 04 | v1.7 | 2.456 |
-| 05 | v5.7 | 4.334 |
+| 05 | v5.8 | 4.340 |
 | 06 | v1.4 | 2.092 |
 | 07 | v6.3 | 3.875 |
 | 08 | v3.4 | 2.689 |
 | 09 | v3.2 | 3.129 |
 | 10 | v2.2 | 2.984 |
-| 11 | v2.6 | 2.375 |
+| 11 | v2.7 | 2.724 |
 | 12 | v1.3 | 2.325 |
 | 13 | v2.3 | 2.839 |
-| 14 | v7.3 | 2.609 |
-| 15 | v2.1 | 4.008 |
+| 14 | v7.4 | 2.609 |
+| 15 | v2.2 | 4.212 |
 | 16 | v1.10 | 3.135 |
 | 17 | v12.2 | 2.568 |
 
@@ -1124,7 +1124,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.7 · EN
+*Lot Fourteen* · Version 5.8 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1262,11 +1262,11 @@ He had the household by the sixth morning, and he had not asked anybody a single
 
 He got it because he ate at the end of the long table at seven, and people talk over food. He got it because a man who is helpful with a heavy tray on a Tuesday finds out on Wednesday who is on which rota.
 
-Twenty-nine people drew money from the estate. Fourteen of them were security.
+Thirty people drew money from the estate. Fourteen of them were security.
 
 ---
 
-**The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten. Ji-won, who lives in above the kitchen. Eun-ju, who comes from Nowon and goes home at four. And two more on the upper floors, whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
+**The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten, except Eun-ju, who works eight to four because the bus from Nowon does not do better. Ji-won, who lives in above the kitchen. And two more on the upper floors, whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
 
 Breakfast was the one place the money did not show, and only because Mrs Seo had taken that woman's tray up herself for nine years and would go on doing it until she was carried out.
 
@@ -3008,7 +3008,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -3102,19 +3102,41 @@ He told her he could make nothing of it.
 
 "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she has said on a terrace and it has made her about three per cent louder than she would otherwise be. I got Incheon five times, the eastern parcel, a date in the spring, an approach she thinks was a discourtesy and not a threat, and a minister who already knew and did not perform surprise."
 
+He looked out at the road for a moment.
+
+"And she gave me something to carry. She has known you twelve years and says you have never once brought anybody anywhere. In about a month the two of you are going to need each other rather badly, and by then she will have to know whether I am the strongest thing you own or the softest. She spent the evening finding out."
+
+"And?"
+
+"She said she does not know yet, and that this was the part she wanted me to take away with me."
+
+Annie looked out of her own window.
+
+"She told you the month."
+
+"She did."
+
+"Then she has already decided to come up this drive, and she was telling me so through you."
+
+"Yes, Mistress."
+
 "And the Kims?"
 
-"Nine of them, all in one room on a night they had a choice about. Customs in their logistics building six days, which Hana told me and which she should not have told me." He paused for the length of a breath. "And one of the nine kept fetching drinks and laughed a quarter of a beat behind everybody else."
+"Nine of them, all in one room on a night they had a choice about. Customs in their logistics building six days, which Hana told me and which she should not have told me." He paused for the length of a breath. "Two of the nine are worth something. One of them kept fetching drinks and laughed a quarter of a beat behind everybody else."
 
 Annie turned her head.
 
-"Which one?"
+"And the other?"
 
-"That's the difficulty." He said it without any embellishment at all, because it was not a good answer and dressing it up would not have made it one. "I have all eleven of their names. Two of them have been photographed. The other nine have spent their entire lives in a business that nobody points a camera at, and I stood eight metres from them for four minutes and could not put a single name on a single face."
+"A woman in her fifties at the back, who did not speak once in four minutes and had the whole group arranged round her. Twice somebody said something and looked at her before going on, and neither of them knew they had done it." A pause. "She is the one I want. He is the one I can find."
 
-"So you have a description."
+"Which of them is which?"
 
-"Late thirties, the shortest of the men, fetched drinks twice in four minutes, laughed a quarter of a beat behind the room. And four names it could be." He turned his head. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
+"That's the difficulty." He said it without any embellishment at all, because it was not a good answer and dressing it up would not have made it one. "I have all eleven of their names. Two of them have been photographed. The other nine have spent their entire lives in a business that nobody points a camera at, and I stood eight metres from them for four seconds and could not put a single name on a single face."
+
+"So you have two descriptions."
+
+"Late thirties, the shortest of the men, fetched drinks twice while I watched, laughed a quarter of a beat behind the room. And a woman in her fifties who said nothing and had the group built round her. Four or five names each." He turned his head. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
 
 "So how do you close it?"
 
@@ -3179,6 +3201,18 @@ Annie was quiet for a long moment.
 ---
 
 They were on the road up when he gave her the last of it.
+
+"There is one more from the floor, and it comes before that one." He looked at the trees. "I took her hand and kissed it. Over the fingers, in the European way, in front of four or five people who will describe it inside the week and use that word."
+
+"Why?"
+
+"Because eight hundred people had spent the evening deciding what I am. I gave them an answer that is not one and let them keep it." A pause. "She said it was the first defensive thing she had seen me do, and that she would have done exactly the same."
+
+"Does it hold?"
+
+"A fortnight. Then somebody who was not there asks somebody who was, and the answer gets shorter every time it is passed on, and short answers are the ones people check."
+
+---
 
 "I broke the rule you gave me in this car."
 
@@ -3821,7 +3855,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.3 · EN
+*Lot Fourteen* · Version 7.4 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -4025,7 +4059,7 @@ Then she squared them and put them down.
 
 "Go on."
 
-"If she comes to this house, twenty-nine people know that Hana had dinner here. Mrs Seo, who I would trust with a great deal. Mr Baek and two of his kitchen. Ji-won and Eun-ju. Fourteen security, of whom Jang has been here a month and Bae I would be sorry to be wrong about." He said it flatly, as a list. "There are four of those twenty-nine I cannot read at all. One of them is a gardener who has not spoken to me in five weeks, and all that tells me is that he does not like what I am."
+"If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who I would trust with a great deal. Mr Baek and two of his kitchen. Ji-won and Eun-ju. Fourteen security, of whom Jang has been here a month and Bae I would be sorry to be wrong about." He said it flatly, as a list. "There are four of those thirty I cannot read at all. One of them is a gardener who has not spoken to me in five weeks, and all that tells me is that he does not like what I am."
 
 "And outside?"
 
@@ -4054,7 +4088,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4185,6 +4219,24 @@ Hana looked at him for a moment.
 "Then I have a tenant whose ownership I can read, and whose veto sits with you." Hana shrugged. "I am not doing this out of affection for anybody at this table."
 
 "No," said Annie. "That's why I'm still listening."
+
+"May I ask something that is not about Incheon."
+
+"You may."
+
+"On the floor at the Grand Hotel you told me that in about a month the two of you were going to need each other rather badly." Georgij looked at her. "It has been nineteen days. Why?"
+
+Hana did not answer straight away.
+
+"Because I knew what was in the consultation and she did not," she said. "And because she has money and I have twenty years of telephone numbers, and neither of those is worth anything on its own against a man who buys people one at a time." She turned the glass. "I was going to have to come up this drive whether I liked it or not. I would have chosen March."
+
+"Then why now?"
+
+"Because of him." She said it to Annie and not to him. "I told him on that floor that I would have to know whether he was the strongest thing you owned or the softest, and that I did not know yet." A pause. "He has spent this evening handing me things before I asked for them. That is not the softest."
+
+Annie did not look at either of them.
+
+"No," she said. "It isn't."
 
 "And Do-yun," said Georgij.
 
@@ -4414,7 +4466,7 @@ Nobody said anything for a moment.
 
 "Put it down."
 
-"That document will exist." He said it in exactly the tone he had used for the twenty-nine people in this house. "A lease is drawn by somebody. It is typed by somebody. It sits in a firm, and if it is ever registered it sits somewhere worse than a firm, and every one of those people is a person who can be asked a question."
+"That document will exist." He said it in exactly the tone he had used for the thirty people in this house. "A lease is drawn by somebody. It is typed by somebody. It sits in a firm, and if it is ever registered it sits somewhere worse than a firm, and every one of those people is a person who can be asked a question."
 
 "And what does it say to whoever asks?"
 
