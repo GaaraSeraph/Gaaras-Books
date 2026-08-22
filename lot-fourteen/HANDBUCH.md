@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 61.934 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 62.187 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1404,7 +1404,13 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.1) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.2) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+
+  **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
+
+  **Woo will Hartflaeche**, offenes, entwaessertes Gelaende mit Tor auf der Ostseite. Container brauchen kein Dach und gehoeren in keine Zollhalle. Die beiden beruehren sich an keiner Stelle, und Georgij hat das **am Sonntag mit Lageplan und Annies Mietvertrag nebeneinander geprueft, in dieser Reihenfolge**, bevor er sie ueberhaupt gefragt hat: *"I am not going to sell the same ground twice, and I am certainly not going to sell yours."*
+
+  **Und es geht nicht glatt auf, was richtig ist:** Woo mietet in Yeonan zwoelftausend, die offene Flaeche ist rund tausend Meter kleiner. Georgij sagt es ihm, bevor er die Zeichnung sieht. Woo nimmt es trotzdem - *"Forty minutes a load in January is four hundred hours a winter, and I have been paying it since 2019 because nobody would sell me the east side."* Das Tor ist mehr wert als der Hektar.
 
   **Der Zug selbst kostet niemanden etwas.** Woo faehrt ab Januar sieben Jahre Ankerladung durch Incheon und mietet Flaeche auf der falschen Strassenseite. Hana hat sechzehntausend Quadratmeter, die bis April leer stehen. Kein Makler, keine Provision, kein Anteil fuer Annie und keiner fuer Georgij - *"Because I do not have an account for one to go into."*
 
@@ -3481,7 +3487,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
 | Hana | 118 | 11 (09-27) | 6 | 55 |
-| Chairman Woo | 97 | 17 (07-27) | 3 | 59 |
+| Chairman Woo | 99 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
@@ -3767,9 +3773,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch27:24 | Annie put the pen down. |
 | 7 | ch27:38 | Annie was quiet for a second. |
 | 7 | ch27:50 | Annie sat back. |
-| 7 | ch27:64 | Annie looked at him for a moment. |
-| 7 | ch27:76 | Annie did not say anything for a while. |
-| 7 | ch27:98 | "Yes," said Annie. "That is what worries me." |
+| 7 | ch27:72 | Annie looked at him for a moment. |
+| 7 | ch27:90 | Annie did not say anything for a while. |
+| 7 | ch27:112 | "Yes," said Annie. "That is what worries me." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3945,20 +3951,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
 | 6 | ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
 | 7 | ch27:22 | "Hana." |
-| 9 | ch27:140 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
-| 9 | ch27:152 | Hana looked at the cards. |
-| 9 | ch27:158 | "She said the same thing." Hana turned one of the cards over and put it back. "That is t.. |
-| 9 | ch27:178 | Hana did not touch the folder. |
-| 9 | ch27:196 | Hana was quiet for a long time. |
-| 9 | ch27:216 | "That is not a gift," said Hana. |
-| 9 | ch27:226 | Hana laughed. |
-| 9 | ch27:252 | Hana put the page down. |
-| 9 | ch27:264 | Hana looked at the fire for a moment. |
-| 9 | ch27:288 | Hana looked at him. |
-| 9 | ch27:300 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:314 | Hana was quiet for a while. |
-| 9 | ch27:324 | "I will do it tomorrow," said Hana. "Not on the telephone." |
-| 9 | ch27:330 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:156 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
+| 9 | ch27:168 | Hana looked at the cards. |
+| 9 | ch27:174 | "She said the same thing." Hana turned one of the cards over and put it back. "That is t.. |
+| 9 | ch27:196 | Hana did not touch the folder. |
+| 9 | ch27:214 | Hana was quiet for a long time. |
+| 9 | ch27:234 | "That is not a gift," said Hana. |
+| 9 | ch27:244 | Hana laughed. |
+| 9 | ch27:270 | Hana put the page down. |
+| 9 | ch27:282 | Hana looked at the fire for a moment. |
+| 9 | ch27:306 | Hana looked at him. |
+| 9 | ch27:318 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:332 | Hana was quiet for a while. |
+| 9 | ch27:342 | "I will do it tomorrow," said Hana. "Not on the telephone." |
+| 9 | ch27:348 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3998,15 +4004,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:380` (Tag 49) - fifty-one, one
 - `ch21:410` (Tag 49) - one
 - `ch23:224` (Tag 55) - nineteen
-- `ch27:140` (Tag 9) - forty
-- `ch27:158` (Tag 9) - one, twelve
-- `ch27:330` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:156` (Tag 9) - forty
+- `ch27:174` (Tag 9) - one, twelve
+- `ch27:348` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
 ### Chairman Woo
 
-97 Nennungen in 17 Kapiteln.
+99 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4098,15 +4104,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
 | 6 | ch26:310 | He put his hand back on Woo's contract. |
 | 7 | ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
-| 7 | ch27:66 | "You want to put Woo on her land." |
-| 7 | ch27:68 | "I want to put Woo's cargo on her land from January, at a market rate she sets herself, .. |
-| 9 | ch27:104 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
-| 9 | ch27:114 | Woo made a noise that was not a word. |
-| 9 | ch27:130 | Woo laughed, badly, the way he had laughed at his own crane in October. |
-| 9 | ch27:144 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
-| 9 | ch27:168 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
-| 9 | ch27:170 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
-| 9 | ch27:290 | "Woo at seven," she said. "And the Kims." |
+| 7 | ch27:66 | "And Woo." |
+| 7 | ch27:80 | "You want to put Woo on her land." |
+| 7 | ch27:82 | "I want to put Woo's boxes on her open ground from January, at a market rate she sets he.. |
+| 9 | ch27:118 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
+| 9 | ch27:128 | Woo made a noise that was not a word. |
+| 9 | ch27:146 | Woo laughed, badly, the way he had laughed at his own crane in October. |
+| 9 | ch27:160 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
+| 9 | ch27:184 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
+| 9 | ch27:186 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
+| 9 | ch27:188 | She has sixteen thousand on the east side. Four covered buildings on the northern bounda.. |
+| 9 | ch27:308 | "Woo at seven," she said. "And the Kims." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4154,10 +4162,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch26:118` (Tag 6) - seven
 - `ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
 - `ch27:58` (Tag 7) - one, seven, three, two
-- `ch27:104` (Tag 9) - four, three
-- `ch27:144` (Tag 9) - one, seven
-- `ch27:170` (Tag 9) - forty, seven, twelve thousand
-- `ch27:290` (Tag 9) - seven
+- `ch27:118` (Tag 9) - four, three
+- `ch27:160` (Tag 9) - one, seven
+- `ch27:186` (Tag 9) - forty, seven, twelve thousand
+- `ch27:188` (Tag 9) - four, sixteen thousand, thousand
+- `ch27:308` (Tag 9) - seven
 
 ---
 
@@ -4615,7 +4624,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:214 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
 | 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:238 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 9 | ch27:146 | "Ye-rin." |
+| 9 | ch27:162 | "Ye-rin." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -4674,14 +4683,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
 | 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
 | 55 | ch24:346 | Mr Ku had the heater on. |
-| 7 | ch27:86 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
 
 ### Zahlen in der Naehe von Mr Ku
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch07:8` (Tag 22) - three
 - `ch11:6` (Tag 22) - seventeen
-- `ch27:86` (Tag 7) - one
+- `ch27:100` (Tag 7) - one
 
 ---
 
