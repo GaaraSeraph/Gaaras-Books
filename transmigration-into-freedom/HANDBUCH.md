@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 9 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 13.572 Woerter.
+Alle 4 Dokumente am Stueck. 14.203 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -21,14 +21,13 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
-- ch9: goes down when the vault comes in, and he carries her eighty paces with
-  the knife in his teeth. Then she hits him twice on the back and runs on her
-  own, and neither of them ever mentions it. Before the gate she makes him say
-  he will be behind her, properly, and he answers with the only currency he has:
-  I have not lied since I got here and I am not starting eighteen inches from
-  the end.
+- ch9: climbs twenty-five feet of rope one-handed while he stands underneath and
+  pays a thing in the dark to keep it still. She reads the knot on the
+  abandoned bundle at a glance - a hay knot - and when he says he could not
+  pick the owner out of her village, she says, after a long moment, "I could."
+  She does not say a name. She has worked out what the answer is.
 - AND SHE ANSWERS ONE. Out on the far side she asks him for the line about her
-  arse, because he did not make it once in that room and she wants to know they
+  ass, because he did not make it once in that room and she wants to know they
   are both out. He gives it and asks for the carry to be counted twice. She says
   "ask me again when I've two arms" and walks south. That is the first time she
   has played rather than deflected, it is conditional on her healing, and it is
@@ -237,7 +236,12 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
-Chapter 9: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
+Chapter 9: MP 60 to 41 (taken), then 41 to 6 (given). No level, no skill, no
+attributes. The first magic in the book is done TO him and the second is done BY
+him, in the same chapter, and neither one is a spell. It regenerates, which is
+worse: it means he is renewable.
+SUPERSEDED NOTE below, kept because the reasoning still holds -
+Chapter 9 first draft: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
 The only number that has moved in four chapters moved because something else
 reached in and moved it.
 Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
@@ -759,7 +763,7 @@ Sexuality and relationships
 - How this world treats such relationships is not established yet (see threads).
   No romance has started (as of Chapter 9), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
-  magnificent arse and says outright that the timing is deliberate, because in a
+  magnificent ass and says outright that the timing is deliberate, because in a
   fight it is only noise and later it would be a move. She says "mind your own
   side" and keeps swinging. Nobody is embarrassed and nothing starts. That is
   the register: he does not hint, he does not build up to things, and he does
@@ -796,6 +800,16 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
+- (ch9) HE SPENDS IT HIMSELF, AND THERE IS NO SPELL. There is no word, no
+  gesture, nothing on the panel saying press here. What he does is STOP HOLDING
+  IT. He has been robbed once, and a man who has been robbed knows where the
+  door is, so he opens it on purpose and leans into the pull.
+  He does it because he has worked out that the thing cannot feed and move at
+  the same time, so mana buys seconds, and Marit needs seconds to climb
+  twenty-five feet of rope with one arm. He goes 41 to 6 in about a minute.
+  This is the shape magic should keep for a good while: not casting, paying.
+  And note what he has taught it. It now knows he is a supply and knows where
+  he was standing.
 - (ch9) MAGIC ARRIVES, AND NOT AS A GIFT. He has still never used a point of MP.
   Something in the drained room took it. The panel came apart for a moment, the
   letters sliding off themselves, and he felt a withdrawal behind the sternum
@@ -804,10 +818,13 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   MP: 41/60. Nineteen points, gone, in about two seconds.
   He has no idea what it was used for, or whether he was the only one it was
   taken from. The panel does not explain, because it never explains.
-  OPEN AND UNDECIDED: whether that MP comes back. Do not answer it by accident
-  in a later chapter - if it regenerates, that is a fact about the world, and if
-  it does not, he has been permanently robbed of something he never owned in any
-  meaningful sense. Both are good. Pick one on the page.
+  DECIDED by the author: MP REGENERATES. The nineteen come back. That is a fact
+  about the world and it makes the theft worse rather than better, because it
+  means he is not a victim, he is a RENEWABLE SUPPLY. Whatever is down there can
+  come back for more, from him or from anyone, indefinitely, and the only thing
+  it costs the thing is waiting.
+  Rate is not established. Keep it slow enough to matter in a chapter and fast
+  enough not to be a wound he carries for ten.
   NOTE for checking: check.py's progression tracker follows MP MAX, not current,
   so it reads ch9 as MP60 and cannot see the drain at all.
 - (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel
@@ -902,9 +919,18 @@ Behind the gate (ch9)
 - A line of dead crawlers leads inward, dozens of them, each opened at the seam
   and left whole. The stick-carrier has been killing his way towards the middle
   of the room over months, and going home afterwards, and burying his fire.
-- Carved into the floor near the middle: a circle far too big to take in from
-  the ground. Forty feet of rope laid along it does not reach a bend. NOT
-  EXPLAINED. Do not explain it cheaply.
+- THE CIRCLE IS A FENCE, and it can only be read from above. From the floor it
+  is a groove that never turns. From a roof hole it is one unbroken line a
+  hundred and fifty feet across, with marks along it at intervals, spaced the
+  way things are spaced when the spacing is the point. It runs round the
+  standing water. The thing is INSIDE the line.
+- So there are THREE containments, and Gaara counts them out loud: the fence,
+  the room built round it and filled to the roof, and an iron gate shut on the
+  outflow to hold the water there. "Nobody does three of everything unless the
+  first two have already failed once."
+- The pale line: when the thing feeds, the whole circle goes pale and stays pale
+  while it feeds, then goes out. Cause and effect, visible. What the circle IS
+  and what the marks are is still not explained. Do not explain it cheaply.
 - THE THING. Never seen whole, and it should stay that way for a long time. It
   stands up out of standing water. A wet edge going higher than the vault should
   allow. Something opening that is not a mouth. It does not charge and it never
@@ -913,6 +939,19 @@ Behind the gate (ch9)
   stopped. It has had an eighteen-inch hole and eight months and has not used
   them, while every crawler in the room walked out. Cannot, or will not, is not
   established and Gaara says so.
+- THE WAY BACK CLOSES. The vault comes down between them and the tube and they
+  do not go out the way they came in. They get out up a rope through a roof hole
+  twenty-five feet above a rubble cone, and they cross the nest field to reach
+  it on the dead man's road, because his line of corpses is the only ground in
+  that hall a person can run on.
+- THE KIT (ch9). At the end of the line of dead crawlers, past which nothing has
+  been opened: a shuttered lamp on its side with most of its oil unburned, a
+  coil of rope, and a leather bundle tied in a knot Gaara has never seen and
+  Marit names instantly as a hay knot. He got that far and left it.
+  Gaara's reading: a man who buries his own fire does not leave a lamp lying.
+  He left it because carrying it stopped being the point.
+  They carry it out. Gaara cannot identify the owner. MARIT SAYS SHE COULD.
+  That is the engine of the next chapter and it is one line long.
 - The fix is obvious and impossible with what they have: drop the gate. It
   weighs more than a house and was raised with gear that somebody brought in,
   used and took away again. Knocking out the two blocks either fails, or shuts
@@ -1039,7 +1078,13 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 20. The circle carved into the floor of the drained room (ch9). Too big to read
     from the ground. Nobody has said anything about it.
 21. Whether the thing in the room cannot leave it or chooses not to, and what
-    the difference would mean.
+    the difference would mean. ch9 leans hard towards cannot: there is a fence
+    cut round it and it is inside the fence.
+22. Marit can identify the owner of the rope, the lamp and the hay knot, and
+    said so. She has not said a name. She is not stupid and she has worked out
+    what the answer is going to be.
+23. What Gaara taught it. It has now fed from him twice, the second time because
+    he offered, and he was the only thing in the room worth taking from.
 7. The war in the east, and a lord who does not answer letters.
 8. Teodor's mother and her lamp.
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.

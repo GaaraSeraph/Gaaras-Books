@@ -117,7 +117,12 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
-Chapter 9: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
+Chapter 9: MP 60 to 41 (taken), then 41 to 6 (given). No level, no skill, no
+attributes. The first magic in the book is done TO him and the second is done BY
+him, in the same chapter, and neither one is a spell. It regenerates, which is
+worse: it means he is renewable.
+SUPERSEDED NOTE below, kept because the reasoning still holds -
+Chapter 9 first draft: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
 The only number that has moved in four chapters moved because something else
 reached in and moved it.
 Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,

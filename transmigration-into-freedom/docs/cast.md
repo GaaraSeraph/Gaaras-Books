@@ -4,14 +4,13 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
-- ch9: goes down when the vault comes in, and he carries her eighty paces with
-  the knife in his teeth. Then she hits him twice on the back and runs on her
-  own, and neither of them ever mentions it. Before the gate she makes him say
-  he will be behind her, properly, and he answers with the only currency he has:
-  I have not lied since I got here and I am not starting eighteen inches from
-  the end.
+- ch9: climbs twenty-five feet of rope one-handed while he stands underneath and
+  pays a thing in the dark to keep it still. She reads the knot on the
+  abandoned bundle at a glance - a hay knot - and when he says he could not
+  pick the owner out of her village, she says, after a long moment, "I could."
+  She does not say a name. She has worked out what the answer is.
 - AND SHE ANSWERS ONE. Out on the far side she asks him for the line about her
-  arse, because he did not make it once in that room and she wants to know they
+  ass, because he did not make it once in that room and she wants to know they
   are both out. He gives it and asks for the carry to be counted twice. She says
   "ask me again when I've two arms" and walks south. That is the first time she
   has played rather than deflected, it is conditional on her healing, and it is
