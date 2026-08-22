@@ -40,6 +40,25 @@ def write_text(path, text):
         fh.write(text)
 
 
+DEAD_REF = re.compile(r"(?:canon|craft|log|plot)/[\w./-]+|docs?/[\w./-]+\.md")
+
+
+def warn_dead_refs(root):
+    """Meldet Verweise auf nicht existierende Dateien (canon//craft//log//plot/
+    oder ein doc(s)/...md, das es nicht gibt). Nur Warnung, blockiert nicht --
+    haelt die stale-Pfad-Klasse raus, die man sonst erst beim Nachschlagen merkt."""
+    scan = [os.path.join(root, "CLAUDE.md")] + sorted(glob.glob(os.path.join(root, "doc*", "*.md")))
+    seen = set()
+    for f in scan:
+        if not os.path.exists(f):
+            continue
+        for m in DEAD_REF.finditer(read_text(f)):
+            ref = m.group(0)
+            if not os.path.exists(os.path.join(root, ref)) and (f, ref) not in seen:
+                seen.add((f, ref))
+                print(f"  WARNUNG toter Verweis: {os.path.basename(f)} -> {ref}")
+
+
 def find_chapters(chapdir):
     best, dups = {}, []
     for path in sorted(glob.glob(os.path.join(chapdir, "ch*.md"))):
@@ -123,6 +142,8 @@ def main():
     print(f"book.md         {len(chapters)} Kapitel, {total} Woerter")
     print(f"HANDBUCH.md     {ndocs} Dokumente")
     print(f"chapters/*.txt  {len(chapters)} Einfuegefassungen erzeugt")
+
+    warn_dead_refs(root)
 
 
 def build_handbook(root):
