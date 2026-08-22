@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-7 Kapitel. 15.265 Woerter.
+7 Kapitel. 15.577 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -14,7 +14,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
 | 06 | Chapter 6: Every Plan I Make Is for One | 2.367 |
-| 07 | Chapter 7: How Did You Know | 1.564 |
+| 07 | Chapter 7: How Did You Know | 1.876 |
 
 ---
 
@@ -1437,13 +1437,25 @@ He filed it. There had been no time for it then and there was none now.
 
 "And in that chamber you did what?"
 
-"You already know. I told Marit at the edge of the ruin before I had eaten anything, and I told Solva in this road with the whole village standing in it. The boots are on my feet."
+"Do you motherfuckers have dementia?"
+
+He did not raise his voice for it, which somehow made it worse.
+
+"I told Marit at the edge of the ruin before I had eaten anything. I told Solva in this road yesterday with most of you standing in it, and I am wearing the boots. You had one thing to do tonight, and it was to turn your heads, and instead you held a meeting about it in your doorways with the lamps up."
+
+Somebody said something short. Somebody else said his name the way you say it to a dog going for a gate.
+
+Hallvard did not move at all.
 
 "Say it again anyway."
 
 And there it was, and he recognised it, because it had been done to him once already. Marit had made him repeat the part about the glass city with a hatchet in her hand, and had listened to the second telling against the first, and had decided he was not lying because the two matched. Liars decorate.
 
-So he said it again, and he took some care to say it the same.
+He had not minded it from her. She had been alone at the edge of a dead city with an armed stranger in front of her and she had been right to check.
+
+These had stood in the light and argued about him while it came down the road.
+
+He said it again anyway, and he took some care to say it the same.
 
 "I killed two of them. I found the nest at the back of the chamber and I dug through it with my hands and I took what was in it. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought a ceiling down on the second one."
 
@@ -1544,6 +1556,32 @@ Marit walked with her right arm strapped across her body and her hatchet in her 
 "Start again when you can." She shifted the hatchet in her left hand. "I could tell where you were."
 
 He walked a while.
+
+"Is it worse here?" he said.
+
+"Is what worse."
+
+"Insulting a man's mother. In some places it is nothing and in some places it is a knife, and I have no idea which one this is. I said things in that road and I would like to know what they cost."
+
+Marit looked at him for a moment.
+
+"You want to know how hard you can push them."
+
+"Yes. Knowing the number is cheaper than guessing at it."
+
+"Their mothers, you'd get hit. A man hits you, and then it's finished, and everyone goes to bed." She stepped over a rut without looking down at it. "You didn't do their mothers. You called them stupid in front of each other. That one they keep."
+
+"Why is that the worse one?"
+
+"Because he can answer you. He can't answer the nine people who heard it."
+
+Gaara said nothing for about ten paces.
+
+"So it is not the insult," he said. "It is the audience."
+
+"It's always the audience."
+
+That was the first line of a dictionary he did not have, and it had cost him a road full of people to buy it.
 
 "You'll slow me down," Gaara said.
 

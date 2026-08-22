@@ -158,6 +158,19 @@ Solva
   again for the rest of the night. Marit is the one who notices, on the road
   north: you didn't stop once while you were killing them, I could tell where
   you were. Use silence like that, sparingly, and never as a default.
+- He does not extend the same patience to everybody, and the difference is
+  earned rather than moody. Marit tested him at the edge of a dead city, alone,
+  with an armed stranger in front of her; he took that without complaint and
+  still does. The village stood in lamplight and debated him while it came down
+  the road; in ch7 he opens with "do you motherfuckers have dementia" and does
+  not raise his voice to do it. Write the contempt as a judgement he has reached,
+  never as a temper he is losing.
+- He is ACQUIRING the dictionary now, on purpose, and he starts with the part he
+  can use. In ch7 he asks Marit what insulting a man's mother costs here,
+  because he wants the number rather than a guess. Her answer is the thesis of
+  his whole old life said by a woodcutter in the mist: it is not the insult, it
+  is the audience. It's always the audience. Expect more of these, and expect
+  him to ask about weapons and leverage before he asks about anything warm.
 - Other characters mostly speak plainly, which is not the same as tersely.
 - He is not a hero. He goes into the ruin because it buys him food, standing and information, and because he wants to know.
 - He reads people well. What he lacks is the cultural dictionary, never the skill.

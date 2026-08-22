@@ -212,6 +212,10 @@ How people here test a man (ch4, confirmed ch7)
 - Hallvard runs the same test in front of the whole village in ch7, and this
   time Gaara recognises it and answers it deliberately, saying it the same on
   purpose. Somebody in the crowd says so out loud.
+- The cost of an insult here (ch7, from Marit): call a man's mother something
+  and he hits you, and then it is finished and everyone goes to bed. Call a man
+  stupid in front of nine neighbours and he keeps it, because he can answer you
+  and he cannot answer them. "It's always the audience."
 - IMPORTANT for writing: this is why he may repeat himself and it is not the
   author forgetting. If a later chapter has him restate something the room
   already knows, either it is this test and must be visible as this test, or it
