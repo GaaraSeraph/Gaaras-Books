@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-7 Kapitel. 14.423 Woerter.
+7 Kapitel. 14.753 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -13,7 +13,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 03 | Chapter 3: Dead Man's Boots | 2.481 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: Every Plan I Make Is for One | 1.730 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 2.060 |
 | 07 | Chapter 7: How Did You Know | 1.359 |
 
 ---
@@ -1141,6 +1141,40 @@ He watched the elder turn in at the last house and close the door.
 # Chapter 6: Every Plan I Make Is for One
 
 The byre had four goats in it and smelled accordingly.
+
+Marit set the whetstone on the rail by the door and then did not leave.
+
+"Thirty-one years," she said.
+
+"What?"
+
+"You asked me in the road how long Hallvard has been elder, and then you went quiet about it, which is worse than asking twice." She leaned on the doorpost. "Thirty-one years this winter. My mother was a girl."
+
+"Who had it before him?"
+
+"Aldis Halden. My grandfather's sister. She died in the spring and the houses met in the autumn and they gave it to him."
+
+"How long had he been in Oldstep by then?"
+
+Marit thought about that, and the way she thought about it told him she had never once had to.
+
+"Four winters. Five." She shrugged. "He came up the road. There was a winter he wasn't here and then there was a winter he was."
+
+Gaara left his face where it was.
+
+That afternoon, in the road, in front of forty houses, the old man had said that his grandmother lived eighty years in this house.
+
+Both of those could not be true, and one of them had been said to a crowd.
+
+He turned it over and could not make it mean anything yet, because he did not know what my grandmother was worth in this country. It might be blood. It might be the woman whose house he had married into, or the woman who fed him his first winter, or nothing more than what people here call anyone old and gone. He had the discrepancy and not the dictionary, and a man who guesses at a dictionary gets a person wrong.
+
+So he put it next to the blank air over the old man's shoulders and said nothing.
+
+"Thank you for the stone," he said.
+
+"It's Hallvard's stone. He'll want it back." She pushed off the doorpost. "Get the fat off Solva in the morning, for the steel. Don't work it dry."
+
+Then she went, and he was alone with four goats.
 
 Gaara sat on an upturned bucket with his back against the wall and ran the whetstone along the rusted knife the way the skill wanted him to.
 

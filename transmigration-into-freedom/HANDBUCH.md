@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 7 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 9.869 Woerter.
+Alle 4 Dokumente am Stueck. 10.181 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -38,7 +38,15 @@ Teodor (dead, offstage)
 - His mother has left a lamp out every night since harvest. Gaara has agreed to tell her what he found, in front of the elder, in plain words.
 
 Hallvard, elder of Oldstep, NO PANEL
-- Seventy or so, tall and dry, carries a stick he does not lean on. Has been the final word here a long time.
+- Seventy or so, tall and dry, carries a stick he does not lean on.
+- Elder for thirty-one years (ch6, from Marit). Before that he was in Oldstep
+  four or five winters, and before that he came up the road from somewhere. He
+  took over from Aldis Halden, Marit's great-aunt, when she died.
+- So he is an incomer with no kin here who was given forty houses inside five
+  years, which nobody in the village finds remarkable. Marit's explanation: he
+  was right about things.
+- AND YET in ch5 he told the whole road that his grandmother lived eighty years
+  in this house. Both cannot be true. Unresolved on purpose - see thread 19.
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution.
@@ -72,6 +80,10 @@ Osvald, Level 4 (ch5 as a face, ch6 named and dead)
   case. That pair is the point and must not be flattened.
 - His widow is Ingrid (ch6, offstage). Solva has undertaken to sit with her
   every night she wants it.
+
+Aldis Halden (dead, offstage)
+- Marit's great-aunt, her grandfather's sister, elder of Oldstep before
+  Hallvard. Died in a spring; the houses met that autumn and gave it to him.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
@@ -191,7 +203,9 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 6 to 9, HP 120 to 165 (15 HP per CON point). He started at 5, the level gave one, he spent three: 5 + 1 + 3 = 9. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
+Chapter 6: NO mechanical change, deliberately. Opens with Marit answering the
+question he asked at the end of ch5, and the answer does not fit what Hallvard
+said in the road that afternoon (thread 19). He kills two more crawlers, four
 in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
@@ -800,6 +814,19 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
+19. THE DISCREPANCY (ch6). In ch5, to the whole village, Hallvard said his
+    grandmother lived eighty years in this house. In ch6 Marit says, without
+    thinking anything of it, that he has been elder thirty-one years and came up
+    the road four or five winters before that. She has never once had to work
+    out what that means. Both statements cannot be true.
+    Gaara cannot cash it, and the reason is the oldest thing about him: he does
+    not know what "my grandmother" is worth here. Blood, or the house he married
+    into, or what anyone calls the old and gone. He has the discrepancy and not
+    the dictionary. He files it beside thread 11 and says nothing.
+    DO NOT resolve this as "he was secretly evil" (see character-arc.md).
+    An incomer with no kin who was handed forty houses inside five years is
+    interesting on its own, and it makes his case against Gaara in ch5 something
+    other than suspicion of strangers.
 18. Hallvard in the dark (seen in ch6, recalled in ch7). He stood in the open
     where nobody sensible stood, and put the ferrule of his stick into a leg
     joint with a movement no farmer in that road could have made. Gaara saw it,

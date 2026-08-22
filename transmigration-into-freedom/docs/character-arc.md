@@ -105,7 +105,9 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 6 to 9, HP 120 to 165 (15 HP per CON point). He started at 5, the level gave one, he spent three: 5 + 1 + 3 = 9. Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
+Chapter 6: NO mechanical change, deliberately. Opens with Marit answering the
+question he asked at the end of ch5, and the answer does not fit what Hallvard
+said in the road that afternoon (thread 19). He kills two more crawlers, four
 in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the

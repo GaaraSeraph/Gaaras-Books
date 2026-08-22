@@ -21,7 +21,15 @@ Teodor (dead, offstage)
 - His mother has left a lamp out every night since harvest. Gaara has agreed to tell her what he found, in front of the elder, in plain words.
 
 Hallvard, elder of Oldstep, NO PANEL
-- Seventy or so, tall and dry, carries a stick he does not lean on. Has been the final word here a long time.
+- Seventy or so, tall and dry, carries a stick he does not lean on.
+- Elder for thirty-one years (ch6, from Marit). Before that he was in Oldstep
+  four or five winters, and before that he came up the road from somewhere. He
+  took over from Aldis Halden, Marit's great-aunt, when she died.
+- So he is an incomer with no kin here who was given forty houses inside five
+  years, which nobody in the village finds remarkable. Marit's explanation: he
+  was right about things.
+- AND YET in ch5 he told the whole road that his grandmother lived eighty years
+  in this house. Both cannot be true. Unresolved on purpose - see thread 19.
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution.
@@ -55,6 +63,10 @@ Osvald, Level 4 (ch5 as a face, ch6 named and dead)
   case. That pair is the point and must not be flattened.
 - His widow is Ingrid (ch6, offstage). Solva has undertaken to sit with her
   every night she wants it.
+
+Aldis Halden (dead, offstage)
+- Marit's great-aunt, her grandfather's sister, elder of Oldstep before
+  Hallvard. Died in a spring; the houses met that autumn and gave it to him.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody

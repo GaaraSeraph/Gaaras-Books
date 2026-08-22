@@ -302,6 +302,19 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
+19. THE DISCREPANCY (ch6). In ch5, to the whole village, Hallvard said his
+    grandmother lived eighty years in this house. In ch6 Marit says, without
+    thinking anything of it, that he has been elder thirty-one years and came up
+    the road four or five winters before that. She has never once had to work
+    out what that means. Both statements cannot be true.
+    Gaara cannot cash it, and the reason is the oldest thing about him: he does
+    not know what "my grandmother" is worth here. Blood, or the house he married
+    into, or what anyone calls the old and gone. He has the discrepancy and not
+    the dictionary. He files it beside thread 11 and says nothing.
+    DO NOT resolve this as "he was secretly evil" (see character-arc.md).
+    An incomer with no kin who was handed forty houses inside five years is
+    interesting on its own, and it makes his case against Gaara in ch5 something
+    other than suspicion of strangers.
 18. Hallvard in the dark (seen in ch6, recalled in ch7). He stood in the open
     where nobody sensible stood, and put the ferrule of his stick into a leg
     joint with a movement no farmer in that road could have made. Gaara saw it,
