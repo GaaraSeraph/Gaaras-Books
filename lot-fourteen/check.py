@@ -33,7 +33,12 @@ MON = {10: "October", 11: "November", 12: "December", 1: "January", 2: "February
 NUM = {w: i for i, w in enumerate(
     "zero one two three four five six seven eight nine ten eleven twelve thirteen "
     "fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
-NUM.update({"thirty": 30, "forty": 40, "fifty": 50})
+# Die Zehner. Am 22. August fehlten hier sechzig aufwaerts, und "Day Sixty-Three"
+# kam als Tag 3 an: die Pruefung meldete dann eine falsche Datumszeile, obwohl
+# die Zeile stimmte. Das ist schlimmer als gar keine Pruefung, weil ein Autor,
+# der dem Skript glaubt, die richtige Zeile kaputtkorrigiert.
+NUM.update({"thirty": 30, "forty": 40, "fifty": 50,
+            "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90})
 
 SELF_COMMENT = [
     "not going to pretend", "would like to be careful", "saying so before I say it",
@@ -52,7 +57,9 @@ def words_to_int(s):
         return int(s)
     total = 0
     for part in s.split():
-        if part in NUM:
+        if part == "hundred":
+            total = (total or 1) * 100
+        elif part in NUM:
             total += NUM[part]
     return total or None
 

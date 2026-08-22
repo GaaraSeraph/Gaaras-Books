@@ -18,17 +18,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 245 | 23 (01-25) | 1 | 59 |
-| Hana | 102 | 9 (09-23) | 22 | 55 |
-| Chairman Woo | 82 | 15 (07-25) | 22 | 59 |
+| Annie | 248 | 24 (01-26) | 1 | 59 |
+| Hana | 103 | 10 (09-26) | 6 | 55 |
+| Chairman Woo | 87 | 16 (07-26) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
+| Kim Do-yun | 15 | 4 (14-26) | 6 | 46 |
 | Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
-| Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Ku | 6 | 5 (05-24) | 6 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-245 Nennungen in 23 Kapiteln.
+248 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -299,6 +299,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:338 | "The car is at the end," said Annie. |
 | 55 | ch24:350 | Annie looked out of her side of it. |
 | 59 | ch25:34 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
+| 3 | ch26:8 | "Say it," said Annie. |
+| 3 | ch26:30 | Annie turned the page over so that it lay face down. |
+| 3 | ch26:62 | Annie looked at him for a second longer than the sentence needed. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -366,7 +369,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Hana
 
-102 Nennungen in 9 Kapiteln.
+103 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -472,6 +475,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:400 | Hana's face did not do anything. |
 | 49 | ch21:410 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 | 55 | ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
+| 6 | ch26:254 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -516,7 +520,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-82 Nennungen in 15 Kapiteln.
+87 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -602,6 +606,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | ch25:264 | "The photographer goes at nine," said Woo. |
 | 59 | ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
 | 59 | ch25:292 | "Good," said Woo. "Do not do it again this year." |
+| 3 | ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
+| 6 | ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
+| 6 | ch26:126 | "Woo does not sign these," said the cousin. |
+| 6 | ch26:206 | "The sixteenth. A house north of the river that belongs to a woman your sister has known.. |
+| 6 | ch26:302 | He put his hand back on Woo's contract. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -645,6 +654,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:66` (Tag 59) - three
 - `ch25:240` (Tag 59) - two
 - `ch25:264` (Tag 59) - nine
+- `ch26:50` (Tag 3) - one, two
+- `ch26:118` (Tag 6) - seven
+- `ch26:206` (Tag 6) - eight, forty, nine, one, seven, twenty, two
 
 ---
 
@@ -1081,6 +1093,37 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Kim Do-yun
+
+15 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | ch15:152 | "And Do-yun," said Georgij. |
+| 41 | ch15:184 | "Do-yun." |
+| 41 | ch15:186 | "Do-yun." |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 6 | ch26:92 | The third was Kim Do-yun. |
+| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
+| 6 | ch26:148 | Do-yun's face did nothing at all. |
+| 6 | ch26:196 | "You are unusually direct," said Do-yun. |
+| 6 | ch26:236 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | ch26:258 | Kim Do-yun got up and went to the window. |
+| 6 | ch26:268 | Do-yun turned round. |
+| 6 | ch26:278 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+
+### Zahlen in der Naehe von Kim Do-yun
+
+- `ch14:22` (Tag 31) - one
+- `ch14:26` (Tag 31) - forty
+- `ch16:190` (Tag 46) - four hundred, one
+- `ch26:278` (Tag 6) - one
+
+---
+
 ## Kim Ye-rin
 
 15 Nennungen in 5 Kapiteln.
@@ -1114,28 +1157,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:214` (Tag 49) - three
 - `ch21:218` (Tag 49) - eight, nine, one, seven
 - `ch21:238` (Tag 49) - nine
-
----
-
-## Kim Do-yun
-
-7 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
-| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
-| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:152 | "And Do-yun," said Georgij. |
-| 41 | ch15:184 | "Do-yun." |
-| 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-
-### Zahlen in der Naehe von Kim Do-yun
-
-- `ch14:22` (Tag 31) - one
-- `ch14:26` (Tag 31) - forty
-- `ch16:190` (Tag 46) - four hundred, one
 
 ---
 

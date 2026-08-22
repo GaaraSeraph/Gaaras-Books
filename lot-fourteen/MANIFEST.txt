@@ -25,6 +25,7 @@ ch22  v1.1       2584 Woerter  ch22_v1_1_en.md
 ch23  v3.4       2657 Woerter  ch23_v3_4_en.md
 ch24  v1.4       2653 Woerter  ch24_v1_4_en.md
 ch25  v1.1       2547 Woerter  ch25_v1_1_en.md
+ch26  v1.0       2409 Woerter  ch26_v1_0_en.md
 
-Gesamt: 25 Kapitel, 73848 Woerter
+Gesamt: 26 Kapitel, 76257 Woerter
 Handbuch: 9 Dokumente
