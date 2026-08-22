@@ -1,7 +1,7 @@
 Lot Fourteen. Literarischer Roman, laufende Arbeit. Suedkorea, Gegenwart,
 Chaebol-Milieu. Manuskript auf Englisch, Absprachen auf Deutsch.
 
-<img src="cover/lot-fourteen.png" alt="Cover: Lot Fourteen" width="360">
+<img src="cover/lot-fourteen.jpg" alt="Cover: Lot Fourteen" width="360">
 
 chapters/   die Kapitel, chNN_vX_Y_en.md; der Build nimmt immer die hoechste Version
 doc/        die acht Quelldokumente (craft, leads, cast, world, continuity, plot, next, decisions)
