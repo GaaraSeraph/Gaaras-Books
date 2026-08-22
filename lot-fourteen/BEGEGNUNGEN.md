@@ -18,18 +18,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 260 | 27 (01-29) | 1 | 74 |
-| Hana | 153 | 14 (09-30) | 1 | 74 |
-| Chairman Woo | 110 | 20 (07-30) | 3 | 74 |
-| Park Sang-hoon | 65 | 13 (10-30) | 22 | 74 |
+| Annie | 276 | 28 (01-31) | 1 | 74 |
+| Hana | 160 | 15 (09-31) | 1 | 74 |
+| Chairman Woo | 121 | 21 (07-31) | 3 | 74 |
+| Park Sang-hoon | 66 | 14 (10-31) | 22 | 74 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
-| Mrs Seo | 46 | 16 (03-28) | 1 | 59 |
+| Mrs Seo | 48 | 17 (03-31) | 1 | 74 |
+| Kim Ye-rin | 34 | 8 (14-31) | 5 | 74 |
+| Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
-| Kang Ji-hoon | 29 | 7 (09-29) | 22 | 74 |
-| Kim Ye-rin | 29 | 7 (14-30) | 31 | 74 |
+| Kim Do-yun | 22 | 7 (14-31) | 6 | 74 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Do-yun | 20 | 6 (14-30) | 6 | 74 |
-| Mr Pyo | 9 | 6 (05-29) | 1 | 74 |
+| Mr Pyo | 10 | 7 (05-31) | 1 | 74 |
 | Mr Ku | 7 | 6 (05-27) | 6 | 55 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-260 Nennungen in 27 Kapiteln.
+276 Nennungen in 28 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -314,6 +314,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | ch28:306 | Annie picked the pen back up, which meant the conversation was finished, and then did no.. |
 | 74 | ch29:6 | Annie did not come, and they had settled that on the Sunday in about ninety seconds. |
 | 74 | ch29:12 | "She does not come. She does not go anywhere that has a purpose she can see from the dri.. |
+| 74 | ch31:76 | Annie was in the chair on the left with nothing in her hands. |
+| 74 | ch31:84 | Annie did not move at all for a moment. |
+| 74 | ch31:106 | Annie's mouth did something for about a second. |
+| 74 | ch31:122 | Annie looked at the fire. |
+| 74 | ch31:130 | Annie was quiet for longer than she is ever quiet. |
+| 74 | ch31:152 | Annie put two fingers on the arm of the chair and left them there. |
+| 74 | ch31:168 | Annie did not argue with it, which from her is not agreement and is not nothing. |
+| 74 | ch31:184 | Annie looked at him for a while. |
+| 74 | ch31:196 | Annie took a breath and let it out slowly and said nothing for a moment. |
+| 74 | ch31:208 | Annie considered the fire. |
+| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 74 | ch31:230 | Annie was already ahead of it. |
+| 74 | ch31:256 | Annie sat forward and put her elbows on her knees, which is not a thing she does. |
+| 74 | ch31:280 | Annie did not move. |
+| 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
+| 74 | ch31:306 | Annie got up. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -378,12 +394,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch24:186` (Tag 55) - twenty-three
 - `ch29:6` (Tag 74) - ninety
 - `ch29:12` (Tag 74) - twenty
+- `ch31:152` (Tag 74) - two
+- `ch31:226` (Tag 74) - one
 
 ---
 
 ## Hana
 
-153 Nennungen in 14 Kapiteln.
+160 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -540,6 +558,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
 | 74 | ch29:230 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
 | 74 | ch30:388 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
+| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
+| 74 | ch31:18 | Hana found him by the third door. |
+| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 74 | ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
+| 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | ch31:334 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 
 ### Zahlen in der Naehe von Hana
 
@@ -596,12 +621,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:120` (Tag 74) - eight, twenty
 - `ch29:200` (Tag 74) - twenty
 - `ch29:230` (Tag 74) - twenty
+- `ch31:12` (Tag 74) - one
+- `ch31:24` (Tag 74) - four, twenty-nine
+- `ch31:34` (Tag 74) - four, one, three
+- `ch31:50` (Tag 74) - thirty
+- `ch31:220` (Tag 74) - six
+- `ch31:334` (Tag 5) - twenty-two
 
 ---
 
 ## Chairman Woo
 
-110 Nennungen in 20 Kapiteln.
+121 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -715,6 +746,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
 | 74 | ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
 | 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
+| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
+| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 5 | ch31:320 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
+| 5 | ch31:336 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
+| 5 | ch31:346 | Woo did not say anything for a second. |
+| 5 | ch31:364 | Chairman Woo was quiet for long enough that Georgij checked the line. |
+| 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
+| 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -777,12 +819,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch30:32` (Tag 74) - seventy-eight
 - `ch30:162` (Tag 74) - one
 - `ch30:410` (Tag 74) - one
+- `ch31:24` (Tag 74) - four, twenty-nine
+- `ch31:28` (Tag 74) - four, three
+- `ch31:34` (Tag 74) - four, one, three
+- `ch31:92` (Tag 74) - nine, seven, six, twelve, two
+- `ch31:226` (Tag 74) - one
+- `ch31:320` (Tag 5) - eight, seventy-eight, two
+- `ch31:336` (Tag 5) - eleven, twenty-two
+- `ch31:366` (Tag 5) - nine
+- `ch31:384` (Tag 5) - one
 
 ---
 
 ## Park Sang-hoon
 
-65 Nennungen in 13 Kapiteln.
+66 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -851,6 +902,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 | 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -881,6 +933,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:28` (Tag 55) - four
 - `ch25:304` (Tag 59) - forty, seven, twelve
 - `ch30:410` (Tag 74) - one
+- `ch31:226` (Tag 74) - one
 
 ---
 
@@ -986,7 +1039,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-46 Nennungen in 16 Kapiteln.
+48 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1036,6 +1089,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:364 | Mrs Seo had the small room off the long one laid for two. |
 | 59 | ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
 | 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
+| 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
+| 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1064,6 +1119,126 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch24:364` (Tag 55) - one, two
 - `ch25:8` (Tag 59) - one, two
 - `ch28:230` (Tag 1) - one
+- `ch31:68` (Tag 74) - one, three
+
+---
+
+## Kim Ye-rin
+
+34 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
+| 49 | ch21:64 | "Ye-rin." |
+| 49 | ch21:66 | "Ye-rin." |
+| 49 | ch21:110 | "And Ye-rin?" |
+| 49 | ch21:112 | "Ye-rin comes at nine, if she comes." |
+| 49 | ch21:120 | "Ye-rin comes at nine." |
+| 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 74 | ch29:232 | Kim Ye-rin looked at the room. |
+| 74 | ch30:60 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
+| 74 | ch30:94 | Ye-rin did not blink. |
+| 74 | ch30:126 | Kim Ye-rin said nothing at all. |
+| 74 | ch30:172 | Ye-rin did not move for a long time. |
+| 74 | ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
+| 74 | ch30:248 | Kim Ye-rin looked out at the black garden. |
+| 74 | ch30:274 | Ye-rin considered him for a moment. |
+| 74 | ch30:308 | Kim Ye-rin let the wind have a moment of it. |
+| 74 | ch30:350 | Ye-rin did not say anything. |
+| 74 | ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
+| 74 | ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
+| 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
+| 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+| 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
+| 74 | ch31:118 | He gave her the sentence he had refused to build for Ye-rin, which was the reason to agr.. |
+| 74 | ch31:140 | He gave her the two things Ye-rin had wanted to buy with. |
+| 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:76` (Tag 46) - four, six, twenty
+- `ch18:112` (Tag 48) - one, three
+- `ch21:112` (Tag 49) - nine
+- `ch21:120` (Tag 49) - nine
+- `ch21:216` (Tag 49) - three
+- `ch21:220` (Tag 49) - eight, nine, one, seven
+- `ch21:240` (Tag 49) - nine
+- `ch30:60` (Tag 74) - eleven
+- `ch30:428` (Tag 74) - twenty, twenty-two
+- `ch31:92` (Tag 74) - nine, seven, six, twelve, two
+- `ch31:140` (Tag 74) - two
+- `ch31:220` (Tag 74) - six
+- `ch31:326` (Tag 5) - one, six
+
+---
+
+## Kang Ji-hoon
+
+32 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | ch09:100 | Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level,.. |
+| 22 | ch09:106 | Georgij glanced at him once, and Kang did not look away and did not look interested, and.. |
+| 22 | ch10:72 | Kang Ji-hoon was standing near the north bar with a glass of water and had been for some.. |
+| 22 | ch10:78 | "Mr Kang." |
+| 22 | ch10:92 | Kang Ji-hoon waited. |
+| 22 | ch10:102 | "Of course," said Kang Ji-hoon. |
+| 22 | ch10:118 | Kang laughed, and it was the first thing his face had done all evening, and it was over .. |
+| 22 | ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
+| 22 | ch11:64 | Then Kang. |
+| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
+| 25 | ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
+| 25 | ch12:94 | Kang laughed, the same short one, over in a moment. |
+| 25 | ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
+| 25 | ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
+| 25 | ch12:124 | "That is a much better answer than the one I expected," said Kang. |
+| 25 | ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
+| 25 | ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
+| 25 | ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
+| 25 | ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 25 | ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
+| 25 | ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
+| 46 | ch17:10 | "Kang," said Annie. |
+| 49 | ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
+| 49 | ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
+| 49 | ch21:148 | "Nothing is wrong with Kang." |
+| 49 | ch21:190 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
+| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
+| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
+| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+
+### Zahlen in der Naehe von Kang Ji-hoon
+
+- `ch11:74` (Tag 22) - forty-three, sixty-one
+- `ch12:86` (Tag 25) - eight, four
+- `ch12:94` (Tag 25) - one
+- `ch12:124` (Tag 25) - one
+- `ch12:168` (Tag 25) - two
+- `ch12:170` (Tag 25) - two
+- `ch21:134` (Tag 49) - forty, nine, one, three, two
+- `ch21:190` (Tag 49) - forty
+- `ch21:220` (Tag 49) - eight, nine, one, seven
+- `ch29:134` (Tag 74) - nine
+- `ch29:158` (Tag 74) - two
+- `ch31:24` (Tag 74) - four, twenty-nine
+- `ch31:28` (Tag 74) - four, three
+- `ch31:34` (Tag 74) - four, one, three
 
 ---
 
@@ -1126,107 +1301,44 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Kang Ji-hoon
+## Kim Do-yun
 
-29 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | ch09:100 | Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level,.. |
-| 22 | ch09:106 | Georgij glanced at him once, and Kang did not look away and did not look interested, and.. |
-| 22 | ch10:72 | Kang Ji-hoon was standing near the north bar with a glass of water and had been for some.. |
-| 22 | ch10:78 | "Mr Kang." |
-| 22 | ch10:92 | Kang Ji-hoon waited. |
-| 22 | ch10:102 | "Of course," said Kang Ji-hoon. |
-| 22 | ch10:118 | Kang laughed, and it was the first thing his face had done all evening, and it was over .. |
-| 22 | ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
-| 22 | ch11:64 | Then Kang. |
-| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
-| 25 | ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
-| 25 | ch12:94 | Kang laughed, the same short one, over in a moment. |
-| 25 | ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
-| 25 | ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
-| 25 | ch12:124 | "That is a much better answer than the one I expected," said Kang. |
-| 25 | ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
-| 25 | ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
-| 25 | ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
-| 25 | ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 25 | ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
-| 25 | ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
-| 46 | ch17:10 | "Kang," said Annie. |
-| 49 | ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
-| 49 | ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
-| 49 | ch21:148 | "Nothing is wrong with Kang." |
-| 49 | ch21:190 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
-| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
-
-### Zahlen in der Naehe von Kang Ji-hoon
-
-- `ch11:74` (Tag 22) - forty-three, sixty-one
-- `ch12:86` (Tag 25) - eight, four
-- `ch12:94` (Tag 25) - one
-- `ch12:124` (Tag 25) - one
-- `ch12:168` (Tag 25) - two
-- `ch12:170` (Tag 25) - two
-- `ch21:134` (Tag 49) - forty, nine, one, three, two
-- `ch21:190` (Tag 49) - forty
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch29:134` (Tag 74) - nine
-- `ch29:158` (Tag 74) - two
-
----
-
-## Kim Ye-rin
-
-29 Nennungen in 7 Kapiteln.
+22 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
-| 49 | ch21:64 | "Ye-rin." |
-| 49 | ch21:66 | "Ye-rin." |
-| 49 | ch21:110 | "And Ye-rin?" |
-| 49 | ch21:112 | "Ye-rin comes at nine, if she comes." |
-| 49 | ch21:120 | "Ye-rin comes at nine." |
-| 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 74 | ch29:232 | Kim Ye-rin looked at the room. |
-| 74 | ch30:60 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
-| 74 | ch30:94 | Ye-rin did not blink. |
-| 74 | ch30:126 | Kim Ye-rin said nothing at all. |
-| 74 | ch30:172 | Ye-rin did not move for a long time. |
-| 74 | ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
-| 74 | ch30:248 | Kim Ye-rin looked out at the black garden. |
-| 74 | ch30:274 | Ye-rin considered him for a moment. |
-| 74 | ch30:308 | Kim Ye-rin let the wind have a moment of it. |
-| 74 | ch30:350 | Ye-rin did not say anything. |
-| 74 | ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
-| 74 | ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
-| 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
-| 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | ch15:152 | "And Do-yun," said Georgij. |
+| 41 | ch15:184 | "Do-yun." |
+| 41 | ch15:186 | "Do-yun." |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 6 | ch26:92 | The third was Kim Do-yun. |
+| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
+| 6 | ch26:148 | Do-yun's face did nothing at all. |
+| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
+| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
+| 6 | ch26:276 | Do-yun turned round. |
+| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
+| 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
+| 74 | ch30:328 | "The second thing. Do-yun." |
+| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
+| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
+| 74 | ch31:176 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
 
-### Zahlen in der Naehe von Kim Ye-rin
+### Zahlen in der Naehe von Kim Do-yun
 
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:76` (Tag 46) - four, six, twenty
-- `ch18:112` (Tag 48) - one, three
-- `ch21:112` (Tag 49) - nine
-- `ch21:120` (Tag 49) - nine
-- `ch21:216` (Tag 49) - three
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch21:240` (Tag 49) - nine
-- `ch30:60` (Tag 74) - eleven
-- `ch30:428` (Tag 74) - twenty, twenty-two
+- `ch14:22` (Tag 31) - one
+- `ch14:26` (Tag 31) - forty
+- `ch16:190` (Tag 46) - four hundred, one
+- `ch26:286` (Tag 6) - one
+- `ch29:78` (Tag 74) - two
+- `ch30:342` (Tag 74) - four
+- `ch31:12` (Tag 74) - one
 
 ---
 
@@ -1273,47 +1385,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Kim Do-yun
-
-20 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
-| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
-| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:152 | "And Do-yun," said Georgij. |
-| 41 | ch15:184 | "Do-yun." |
-| 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 6 | ch26:92 | The third was Kim Do-yun. |
-| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
-| 6 | ch26:148 | Do-yun's face did nothing at all. |
-| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
-| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
-| 6 | ch26:276 | Do-yun turned round. |
-| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
-| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
-| 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
-| 74 | ch30:328 | "The second thing. Do-yun." |
-| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
-| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
-
-### Zahlen in der Naehe von Kim Do-yun
-
-- `ch14:22` (Tag 31) - one
-- `ch14:26` (Tag 31) - forty
-- `ch16:190` (Tag 46) - four hundred, one
-- `ch26:286` (Tag 6) - one
-- `ch29:78` (Tag 74) - two
-- `ch30:342` (Tag 74) - four
-
----
-
 ## Mr Pyo
 
-9 Nennungen in 6 Kapiteln.
+10 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1326,6 +1400,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:422 | Mr Pyo brought the car round. |
 | 1 | ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
 | 74 | ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
+| 74 | ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
@@ -1335,6 +1410,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:136` (Tag 46) - three, two
 - `ch28:244` (Tag 1) - eleven, one
 - `ch29:16` (Tag 74) - six
+- `ch31:56` (Tag 74) - eleven, ten
 
 ---
 
