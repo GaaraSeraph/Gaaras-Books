@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 78.458 Woerter.
+27 Kapitel. 78.854 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v1.0 | 2.184 |
+| 27 | v1.1 | 2.580 |
 
 ---
 
@@ -8148,7 +8148,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8198,7 +8198,7 @@ Annie was quiet for a second.
 
 Annie sat back.
 
-"How much does it cost me."
+"How much does it cost me?"
 
 "Nothing. That is most of why I want to do it."
 
@@ -8426,6 +8426,54 @@ She turned one of the cards over again and left it face down.
 
 ---
 
+"There is one more thing and it is yours to decide," said Georgij.
+
+"Go on."
+
+"On Tuesday you asked her badly and with something else as the reason, because that is what has worked twice." He had the folder closed under his arm. "You did not have anything to tell her then. You have two things now, and both of them are facts, and neither of them is an explanation."
+
+---
+
+Hana looked at him.
+
+"Woo at seven," she said. "And the Kims."
+
+"All nine of them, on the sixteenth, in your long room." He did not press it. "That is a guest list. You are allowed to read a guest list to somebody you have known for twenty years."
+
+"And she will know what it means inside four seconds."
+
+"She will know what it looks like."
+
+---
+
+Hana turned the card over that she had turned over twice already.
+
+"You understand what you are asking me to do," she said. "That woman has spent thirty years not being managed. If I ring her a second time in one week with two names in my mouth, she will hear a room being arranged around her, because there is one."
+
+"Yes."
+
+"And she may say no to me for the fifteenth time and mean it for good."
+
+"She may," said Georgij. "That is why I said it is yours to decide, and I am going to say the rest of it and then leave.
+
+"If she comes without knowing who is in the room, she is in a room she did not choose, and she will hold that against you and against me and she will be right. If she comes knowing, she came anyway. Those are two different women walking through your door and only one of them is any use to anybody."
+
+---
+
+Hana was quiet for a while.
+
+"You would tell her."
+
+"I would tell her the two names and nothing else, and I would do it badly, and not on a Tuesday." He put his coat over his arm. "But I have never met her, and you have known her since you were both thirty-four, and the whole of this has always been that I do not get to be in that part."
+
+---
+
+She put the card down face up.
+
+"I will do it tomorrow," said Hana. "Not on the telephone."
+
+---
+
 He was in the hall with his coat when she came out after him.
 
 "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on a ladder, and it has been broken for two years, and I have walked under it perhaps four hundred times."
@@ -8438,7 +8486,7 @@ He was in the hall with his coat when she came out after him.
 
 Georgij stood in the doorway for a second.
 
-"May I say one thing that is not business."
+"May I say one thing that is not business?"
 
 "You may say one."
 

@@ -19,8 +19,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
-| Hana | 114 | 11 (09-27) | 6 | 55 |
-| Chairman Woo | 96 | 17 (07-27) | 3 | 59 |
+| Hana | 118 | 11 (09-27) | 6 | 55 |
+| Chairman Woo | 97 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
@@ -376,7 +376,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Hana
 
-114 Nennungen in 11 Kapiteln.
+118 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -493,7 +493,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:226 | Hana laughed. |
 | 9 | ch27:252 | Hana put the page down. |
 | 9 | ch27:264 | Hana looked at the fire for a moment. |
-| 9 | ch27:282 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:288 | Hana looked at him. |
+| 9 | ch27:300 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:314 | Hana was quiet for a while. |
+| 9 | ch27:324 | "I will do it tomorrow," said Hana. "Not on the telephone." |
+| 9 | ch27:330 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -535,13 +539,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:224` (Tag 55) - nineteen
 - `ch27:140` (Tag 9) - forty
 - `ch27:158` (Tag 9) - one, twelve
-- `ch27:282` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:330` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
 ## Chairman Woo
 
-96 Nennungen in 17 Kapiteln.
+97 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -641,6 +645,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:144 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
 | 9 | ch27:168 | He laid it out the way he had laid out Woo's contract on the Kim table, which is to say .. |
 | 9 | ch27:170 | Chairman Woo has seven years of anchor cargo running through Incheon from January. He is.. |
+| 9 | ch27:290 | "Woo at seven," she said. "And the Kims." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -691,6 +696,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:104` (Tag 9) - four, three
 - `ch27:144` (Tag 9) - one, seven
 - `ch27:170` (Tag 9) - forty, seven, twelve thousand
+- `ch27:290` (Tag 9) - seven
 
 ---
 
