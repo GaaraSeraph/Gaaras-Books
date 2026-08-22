@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 240 | 22 (01-24) | 1 | 55 |
+| Annie | 241 | 22 (01-24) | 1 | 55 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
 | Chairman Woo | 76 | 14 (07-24) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-240 Nennungen in 22 Kapiteln.
+241 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -272,10 +272,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:246 | Annie did not answer straight away, and when she did she said it flatly, like a figure b.. |
 | 55 | ch23:256 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
 | 55 | ch23:266 | Annie did not answer. |
-| 55 | ch23:284 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
-| 55 | ch23:294 | Annie put her head back against the rail and looked at the underside of the roadway. |
-| 55 | ch23:314 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
-| 55 | ch23:330 | "I know," said Annie. "I was there for the other one." |
+| 55 | ch23:280 | Annie did not ask which. |
+| 55 | ch23:286 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
+| 55 | ch23:296 | Annie put her head back against the rail and looked at the underside of the roadway. |
+| 55 | ch23:316 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
+| 55 | ch23:332 | "I know," said Annie. "I was there for the other one." |
 | 55 | ch24:19 | Annie looked at the water through the rail. |
 | 55 | ch24:39 | Annie did not answer that. |
 | 55 | ch24:43 | Annie did not answer that either. |
@@ -351,9 +352,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:148` (Tag 55) - one
 - `ch23:256` (Tag 55) - one
-- `ch23:284` (Tag 55) - ten
-- `ch23:314` (Tag 55) - four, twenty
-- `ch23:330` (Tag 55) - one
+- `ch23:286` (Tag 55) - ten
+- `ch23:316` (Tag 55) - four, twenty
+- `ch23:332` (Tag 55) - one
 - `ch24:183` (Tag 55) - twenty-three
 
 ---

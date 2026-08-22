@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.468 Woerter.
+24 Kapitel. 70.473 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.2 | 2.558 |
+| 23 | v3.3 | 2.563 |
 | 24 | v1.2 | 2.509 |
 
 ---
@@ -6719,7 +6719,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6995,7 +6995,9 @@ Something went across her face and was gone.
 
 He looked straight at her, which he almost never did.
 
-"Tonight she was none of them."
+"Tonight she was two of them."
+
+Annie did not ask which.
 
 ---
 
