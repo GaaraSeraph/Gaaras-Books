@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.167 Woerter.
+19 Kapitel. 57.232 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -27,7 +27,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 16 | v1.15 | 3.200 |
 | 17 | v12.8 | 2.694 |
 | 18 | v2.4 | 2.966 |
-| 19 | v1.6 | 3.163 |
+| 19 | v1.7 | 3.228 |
 
 ---
 
@@ -5464,7 +5464,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5578,7 +5578,7 @@ Chairman Woo did not pick the paper up straight away.
 
 ---
 
-Then he picked it up, and read it the way a man reads something he has read four hundred times in his life, which is quickly and only in the places that matter.
+Then he picked it up. He read it quickly and only in the places that matter, which is what four hundred of them teach you.
 
 "The rate is blank."
 
@@ -5738,7 +5738,7 @@ The room went on being a room.
 
 "Shares, security and a veto over routes."
 
-"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year." He said it the way a man reads out a delivery note. "She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."
+"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year. She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."
 
 ---
 
@@ -5764,7 +5764,7 @@ The room went on being a room.
 
 "Then why tell me at all?"
 
-"Because you will find it out in about a year, on a bad day, from somebody who wants something from you." Woo pushed the cup across. "You will find it out better from me, in a cold office, on an afternoon you got what you came for."
+"Because in about a year a man in this trade will find that his boxes keep missing sailings. He will come and ask you to have a word with her, because you are the one he can reach." Woo pushed the cup across. "And while he is asking, he will tell you what you built. Better from me, in a cold office, on an afternoon you got what you came for."
 
 Georgij looked at the old man for a moment.
 
@@ -5788,4 +5788,8 @@ At the gate he stopped.
 
 "No. Not mine."
 
-"You have not got one either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."
+"I have just put seven years of that quay on cargo that moves under their permits." He had one hand on the gate and did not take it off. "Before my name goes beside theirs as well, I would like to see who is left in that family and whether one of them can sign his own name."
+
+"Yes, Chairman."
+
+"You have not got a house either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."

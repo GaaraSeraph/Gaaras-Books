@@ -1,7 +1,7 @@
-Chapter 19: What happens on the Tuesday
-Lot Fourteen · Version 1.6 · EN
+# Chapter 19: What happens on the Tuesday
+*Lot Fourteen* · Version 1.7 · EN
 
-Day 48 · Thursday 20 November
+*Day 48 · Thursday 20 November*
 
 The invitation had been sitting there since the seventh of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.
 
@@ -9,7 +9,7 @@ Georgij made it into a date at half past eleven, in one telephone call, and was 
 
 He took a folder with him.
 
-* * *
+---
 
 Yeongjong in November is a flat cold place with the sea on three sides of it and nothing at all to stand behind.
 
@@ -25,7 +25,7 @@ Chairman Woo met him at the gate in a coat that had cost less than anything Geor
 
 "Nothing, if you have the right man. Four months, if you have the wrong one." He started walking again. "I had the right one, and he is dead now as well."
 
-* * *
+---
 
 They went out to the end of it.
 
@@ -57,7 +57,7 @@ Chairman Woo looked out at the water.
 
 "Fourteen metres," he said. "In fifty-one years two people have said that to my face, and the other one was my wife."
 
-* * *
+---
 
 They went into the office at the end of the shed, which had a heater, one desk, and a photograph of a ship on the wall.
 
@@ -77,7 +77,7 @@ They went into the office at the end of the shed, which had a heater, one desk, 
 
 "It is. You said it over soup, and I have used it four times since, twice to my employer." Georgij inclined his head. "I did not tell her it was mine."
 
-* * *
+---
 
 Woo sat down heavily, the way a man does when his back has an opinion.
 
@@ -99,7 +99,7 @@ Georgij opened the folder and put a contract on the desk in front of him.
 
 "By her. I have nothing to sign with, and that is not modesty. It is the arrangement."
 
-* * *
+---
 
 Chairman Woo did not pick the paper up straight away.
 
@@ -111,9 +111,9 @@ Chairman Woo did not pick the paper up straight away.
 
 "Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning, and I would have told you so instead of standing here implying otherwise."
 
-* * *
+---
 
-Then he picked it up, and read it the way a man reads something he has read four hundred times in his life, which is quickly and only in the places that matter.
+Then he picked it up. He read it quickly and only in the places that matter, which is what four hundred of them teach you.
 
 "The rate is blank."
 
@@ -127,7 +127,7 @@ Then he picked it up, and read it the way a man reads something he has read four
 
 "It is the only way available to me."
 
-* * *
+---
 
 Woo put the paper down and looked at him.
 
@@ -149,13 +149,13 @@ Chairman Woo did not say anything.
 
 He picked the paper back up and read a clause in the middle of it that he had already read, and did not appear to be reading it.
 
-* * *
+---
 
 "A third of my book, contracted for seven years," he said. "Do you know what that does?"
 
 "It makes the place bankable."
 
-"It makes the place lendable." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for seven is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."
+"It makes the place *lendable*." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for seven is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."
 
 Georgij said nothing at all.
 
@@ -165,7 +165,7 @@ Georgij said nothing at all.
 
 "I have never had a name and I have never asked for one, and a man does not ask when the money is already in the concrete." He set the paper down. "With this I do not need the name. I can pay them out on a Thursday with somebody else's money and never find out who I was bowing to."
 
-* * *
+---
 
 Georgij had worked that out on the expressway and had decided not to say it.
 
@@ -175,7 +175,7 @@ He had decided it because the old man was going to get there in about ninety sec
 
 "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen."
 
-* * *
+---
 
 He wrote the rate in the margin first, the way men of that generation do, and then in the box.
 
@@ -193,7 +193,7 @@ Georgij looked at it.
 
 "Then it is done, and the tea is coming, and you have got what you came for in under twenty minutes, which is the only compliment you are getting today."
 
-* * *
+---
 
 The tea came, and it was terrible, and Woo drank two cups of it.
 
@@ -211,7 +211,7 @@ Chairman Woo unfolded the sheet.
 
 There was an account number on it, and the name of a corporate services company in Jung-gu with six employees, and three dates.
 
-* * *
+---
 
 "That company exists so that other companies do not appear on dockets," said Georgij. "Behind it there will be another one, and behind that a third, and I am not going to get to the end of it that way. I have tried since October."
 
@@ -237,7 +237,7 @@ He put the sheet down on the desk and squared it with the edge, which was the fi
 
 "It is the same people."
 
-* * *
+---
 
 They sat with that.
 
@@ -249,7 +249,7 @@ They sat with that.
 
 "Because you told me the truth about a dead man and a wet March and a fund in Singapore, and none of it was work for you." Georgij did not look away. "And because I would like you to win this. That is not a strategy, Chairman. It is just true, and I have had very little use for it."
 
-* * *
+---
 
 Chairman Woo poured the last of the tea.
 
@@ -273,9 +273,9 @@ The room went on being a room.
 
 "Shares, security and a veto over routes."
 
-"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year." He said it the way a man reads out a delivery note. "She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."
+"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year. She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."
 
-* * *
+---
 
 "You came out here to save a family," said Chairman Woo, "so that the woman who owns you ends up with her hand on the throat of everybody else in this trade."
 
@@ -295,11 +295,11 @@ The room went on being a room.
 
 "Everybody does. Nobody builds a wall. Everybody lays one brick and goes home."
 
-* * *
+---
 
 "Then why tell me at all?"
 
-"Because you will find it out in about a year, on a bad day, from somebody who wants something from you." Woo pushed the cup across. "You will find it out better from me, in a cold office, on an afternoon you got what you came for."
+"Because in about a year a man in this trade will find that his boxes keep missing sailings. He will come and ask you to have a word with her, because you are the one he can reach." Woo pushed the cup across. "And while he is asking, he will tell you what you built. Better from me, in a cold office, on an afternoon you got what you came for."
 
 Georgij looked at the old man for a moment.
 
@@ -311,7 +311,7 @@ It was not built for the room and it was not aimed at anything, and there was no
 
 "Don't." Woo was already standing up. "I have given you a bad afternoon and you have given me a Wednesday in September, and I am not certain which of us came off better. Walk back with me and tell me what else is wrong with my terminal, and be quick about it. It gets dark at five and I am not as steady on that quay as I was in March."
 
-* * *
+---
 
 They walked back along the water.
 
@@ -323,4 +323,8 @@ At the gate he stopped.
 
 "No. Not mine."
 
-"You have not got one either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."
+"I have just put seven years of that quay on cargo that moves under their permits." He had one hand on the gate and did not take it off. "Before my name goes beside theirs as well, I would like to see who is left in that family and whether one of them can sign his own name."
+
+"Yes, Chairman."
+
+"You have not got a house either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."

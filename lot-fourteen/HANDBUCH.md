@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.513 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.512 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1120,7 +1120,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.6) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.7) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.4) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.8) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.15) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
@@ -3400,10 +3400,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
 | 48 | ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
 | 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
+| 48 | ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | ch19:326 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
+| 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -3434,9 +3434,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:186` (Tag 48) - two
 - `ch19:198` (Tag 48) - two
 - `ch19:224` (Tag 48) - one
+- `ch19:302` (Tag 48) - one
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
-- `ch19:326` (Tag 48) - one
 
 ---
 

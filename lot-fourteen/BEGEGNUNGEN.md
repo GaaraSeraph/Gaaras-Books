@@ -477,10 +477,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
 | 48 | ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
 | 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
+| 48 | ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | ch19:326 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
+| 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -511,9 +511,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:186` (Tag 48) - two
 - `ch19:198` (Tag 48) - two
 - `ch19:224` (Tag 48) - one
+- `ch19:302` (Tag 48) - one
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
-- `ch19:326` (Tag 48) - one
 
 ---
 
