@@ -1,11 +1,11 @@
 # Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
 She came into the kitchen at seven the following morning.
 
-She had done it twice before in twenty-eight days, on the first two mornings, and not once since. The tray had gone up at seven every day for nine years and had gone up at seven yesterday. Ji-won put down the plate she was holding and picked it up again, which was what she had done the first time.
+She had done it twice before in twenty-seven days, on the first two mornings, and not once since. The tray had gone up at seven every day for nine years and had gone up at seven yesterday. Ji-won put down the plate she was holding and picked it up again, which was what she had done the first time.
 
 Mrs Seo said good morning without turning round and went on with the eggs, and the whole kitchen understood that this was not a woman who had come down for breakfast.
 
@@ -89,13 +89,13 @@ Three dates are three evenings, and three evenings happened somewhere, and at so
 
 ---
 
-Six working days after the gala, the paper had got him as far as paper goes.
+By the Thursday evening the paper had got him as far as paper goes.
 
 Nine institutions in the syndicate. Three of them large enough to have needed an internal approval, and an internal approval has a name at the bottom of it, and not one of those three publishes the name.
 
 Two were ordinary houses. The third was a fund whose beneficial ownership ran into a chain of law firms in Singapore and stopped there, and behind Singapore, according to a filing made for an entirely different purpose in 2021, was a private equity company registered in Hong Kong.
 
-So he had, on the Thursday evening, a company behind a chain behind a fund.
+So he had a company behind a chain behind a fund.
 
 He had no person at all, and he had known since the second day that he was not going to get one this way, and that was the third time in four weeks that the same wall had come up in front of him.
 

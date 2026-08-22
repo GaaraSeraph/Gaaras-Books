@@ -1,5 +1,5 @@
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -33,7 +33,7 @@ Then Annie put both hands on the table.
 
 He gave them the room first, because the room was what they did not have.
 
-The Kims first, with names on the faces, because that was the piece that had been missing for a fortnight. Kim Ye-rin, fifty-four, no seat and no signature and no title, and in sixteen frames out of twenty-three standing where she could see the doors.
+The Kims first, with names on the faces, because that was the piece that had been missing since the gala. Kim Ye-rin, fifty-four, no seat and no signature and no title, and in sixteen frames out of twenty-three standing where she could see the doors.
 
 "I can show you why I think it. I cannot prove one word of it," he said. "There are seventeen frames in which somebody says something and looks at her in the middle of the sentence before going on. Two different people, four years apart, neither of them aware they are doing it." He turned his hand over. "None of that proves anything, and it is all I have."
 
@@ -215,7 +215,7 @@ He looked at the two of them.
 
 Annie said nothing whatsoever.
 
-She drank some water and put the glass down without a sound, and she had had the name of the man who stood behind the man in the second row for twenty-eight days.
+She drank some water and put the glass down without a sound, and she had had the name of the man who stood behind the man in the second row since Georgij's first week in that house.
 
 ---
 
@@ -266,6 +266,16 @@ He gave them the whole of it in eight minutes. Six months of outflow, a board in
 Hana was very still.
 
 "That's good," she said.
+
+"It is an apple," said Georgij. "Sweet, full of juice, and there is not a mark on the skin of it anywhere, because I have taken a great deal of trouble over the outside."
+
+Hana put her glass down.
+
+"The poison is that all of it is true. If I had shaded one line he would have found it in an afternoon, and I would never have got near him again."
+
+"A poisoned apple," said Hana.
+
+"Yes. And he is going to enjoy every mouthful of it."
 
 "There is a part of it that nobody at this table has said," said Georgij. "I am going to say it now, because in March somebody who is not sitting here is going to say it for us."
 

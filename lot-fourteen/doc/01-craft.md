@@ -1,0 +1,282 @@
+# Handwerk
+
+Alle Regeln und Pruefungen. Die stehende Liste laeuft in jedem Durchgang, der Rest wird nachgeschlagen.
+
+---
+
+## Was jeder Durchgang prueft
+
+**Diese Liste laeuft immer.** Nicht nur beim ersten Entwurf, nicht nur bei einem
+neuen Kapitel, sondern nach jeder Aenderung an jedem Text. Beim Reparieren
+entstehen neue Fehler, weil sich beim Erklaeren die immer gleichen Konstruktionen
+anbieten.
+
+**Zweimal lesen, bis zweimal nichts gefunden wird.** Der zweite Durchgang findet
+regelmaessig noch etwas.
+
+---
+
+### 1. Bandwurmsaetze
+
+Kein Satz ueber vierzig Woerter. `python3 check.py` findet sie alle.
+
+Nicht kuerzen, indem etwas gestrichen wird, sondern teilen. Ein Satz mit drei
+"und" ist meistens drei Saetze.
+
+### 2. Ergibt der Satz Sinn
+
+**Der wichtigste Punkt und der einzige, den kein Programm findet.** Jeden Satz
+einzeln fragen: Was tut er?
+
+Woran es typischerweise scheitert:
+
+- **Eine Unterscheidung, die sich selbst aufhebt.** *"Er hat den Namen nicht
+  gesagt, aber ich werde nicht so tun, als waere es nicht der Name."* Dann war
+  die Unterscheidung fuer nichts da ausser dafuer, dass der Sprecher praezise
+  aussieht.
+- **Ein Pronomen, das auf nichts zeigt.** "Both of them", "every one of them",
+  "it", wenn vorher kein Substantiv steht, an dem es sich festhalten kann.
+- **Ein Wortwechsel, in dem sich nichts bewegt.** Behauptung, Einwand,
+  Absicherung, Quittung. Faellt eine Replik weg und die Szene verliert nichts,
+  war sie Fuellung.
+- **Ein Bild ohne Herkunft.** Ein Gegenstand, den die Figur laut Kanon nicht
+  besitzen kann. Eine Handtasche, die in dieser Szene nicht eingefuehrt ist. Ein
+  Fahrer, der laut Rota diese Woche nicht faehrt.
+- **Ein Satz, der nur Haltung ist.** "Ich moechte vorsichtig sein mit dem Wort."
+  Dann sei vorsichtig, statt es anzukuendigen.
+
+**Probe:** Den Satz laut lesen und fragen, was der Leser danach weiss, was er
+vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
+
+### 3. Rueckbezug
+
+**Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**
+
+- Wer "wie er gesagt hatte" schreibt, sucht die Stelle. Existiert sie nicht, ist
+  der Verweis der Fehler und nicht der fehlende Text.
+- Eine Figur darf nur wissen, was sie im Text erfahren hat. Wenn sie mehr weiss,
+  gehoert die Stelle nachgetragen oder das Wissen gestrichen.
+- Zahlen und Zeitangaben werden gegen `canon/10-timeline.md` nachgerechnet. Dort
+  lagen alle bisherigen Fehler dieser Art.
+- Ein Motiv, das zum zweiten Mal auftaucht, wird nicht beschrieben, als waere es
+  neu. Beim zweiten Mal aendert sich etwas daran, nicht die Beschreibung.
+
+### 4. Die Laecheln
+
+`canon/11-motifs.md` fuehrt jede Sorte mit Fundstelle.
+
+- **Wird ueberhaupt gelaechelt?** Der Charme ist Georgijs Hauptwerkzeug. In
+  Kapitel 2 bis 6 kommt kein einziges Laecheln vor, und das ist ein bekanntes
+  Loch, kein Vorbild.
+- **Ist es eine Sorte, die es schon gibt?** Keine neue erfinden, ohne
+  nachzusehen.
+- **Wem gilt es?** Jedes gebaute Laecheln ist auf ein Gesicht gerichtet und auf
+  ein Ergebnis gezielt. Eines ohne Empfaenger ist eine Ausnahme und hat eine
+  Geschichte, die in Kapitel 14 anfaengt.
+- Dasselbe gilt fuers Lachen. Kang, Sang-hoon, Woo und Hana haben je ein
+  wiedererkennbares. Georgij lacht im ganzen Buch genau einmal.
+
+### 5. Satzzeichen
+
+- **Fragezeichen** nach der mechanischen Regel in `craft/01-prose.md`:
+  Aussagesyntax behaelt den Punkt, Fragesyntax und verkuerzte Fragen bekommen das
+  Zeichen. `check.py` meldet Verdachtsfaelle, entscheidet aber nicht.
+- **Keine Gedankenstriche**, nur Bindestriche.
+- **Anfuehrungszeichen** bei jeder direkten Rede. Erinnerte Rede wird zu
+  indirekter umgebaut, statt ohne Zeichen dazustehen.
+- **Klare Absatztrennung zwischen Sprechern.** Keine Replik teilt sich einen
+  Absatz mit der Handlung eines anderen.
+- **Fortgesetzte Rede** ueber mehrere Absaetze: oeffnendes Zeichen an jedem
+  Absatz, schliessendes nur am letzten.
+
+### 6. Die Quoten
+
+- "Mistress" hoechstens vier bis fuenf pro Kapitel
+- "nicht X, sondern Y" hoechstens einmal
+- "would rather X than Y" hoechstens einmal
+- Selbstkommentar zur eigenen Redlichkeit hoechstens einmal, und nur als Antwort
+- Dieselbe Zahl nicht zu oft. Elf und neun sind bereits stark belastet
+
+### 7. Zum Schluss
+
+```
+python3 check.py chNN_vX_Y_en.md
+python3 build.py . .
+```
+
+Dann `craft/04-review.md` fuer alles, was ein Programm nicht entscheiden kann.
+Dann noch einmal lesen.
+
+---
+
+## Prosaregeln
+
+Die Tics in diesem Abschnitt entstehen beim **Ueberarbeiten** neu, nicht nur im
+ersten Entwurf. Die Suchliste laeuft nach jeder Runde. `check.py` prueft alles,
+was mechanisch pruefbar ist.
+
+### Ton
+Kalt, transaktional, Machtdynamik unter Höflichkeit. Dialog trägt die Handlung. Kurze Sätze. Figuren antworten unvollständig, brechen ab, schweigen an der falschen Stelle. Keine Aphorismenketten. Keine "Das ist nicht X, das ist Y"-Konstruktionen, höchstens **eine** pro Kapitel und nur, wenn sie es trägt.
+
+**Zweiter Tic, genauso häufig: "I would rather X than Y".** In Kapitel 14 stand er achtmal, in Kapitel 15 sechsmal. Höchstens **einmal pro Kapitel**, und dann nur, wenn wirklich eine Abwägung gemeint ist. Sonst gerade sagen: "I am going to say it now", "Asking you at the table is cheaper", "You are both getting it tonight".
+
+**Die Suchliste läuft nach jeder Überarbeitung, nicht nur nach dem ersten Entwurf.** Beim Nachbessern entstehen die Konstruktionen neu, weil sie sich beim Erklären von selbst anbieten. In Kapitel 14 waren nach der dritten Runde wieder sechs drin, alle neu.
+
+**Das ist die häufigste Fehlerquelle.** In Kapitel 14 standen neun davon. Vor Abgabe suchen nach: "is not a", "it isn't", "not because", "never ... they", "you would not ... you would", und alles bis auf höchstens eine in gerade Aussage umschreiben. Innere Gedanken bleiben unfertig.
+
+**Fragezeichen, mechanisch entscheidbar.** Steht der Satz in **Aussagesyntax**, darf der Punkt bleiben, auch wenn er eine Antwort erwartet. Das sind Sonden und Annies Grundregister: "You're negotiating." "You don't agree." "And you think they'd tell me." "You advise her."
+
+Steht er in **Fragesyntax** oder ist er eine **verkürzte Frage**, kommt ein Fragezeichen hin, egal wie kalt er ist.
+
+Drei Sorten fallen darunter:
+1. **Fragewort allein:** "Then why?" "So why?" "Where?" "Then what?" "How much?"
+2. **Umgestelltes Hilfsverb:** "May I propose something?" "May I ask why not?" "Then may I have the guest list?"
+3. **Bloße Aufforderung zum Weiterreden**, auch wenn sie nur aus einem Wort oder einer Nominalphrase besteht: "And?" "And him?" "And the third?" "And Incheon?" "And the Kims?" Das ist Annies Grundregister und bleibt kalt, es bekommt nur das Zeichen.
+
+Der Unterschied zu Gruppe drei ist einzig, ob ein vollständiger Aussagesatz dasteht. "And you said no." ist eine Sonde und behält den Punkt. "And him?" ist eine Aufforderung und bekommt das Zeichen.
+
+Die einzige Ausnahme sind Abfertigungen, die mit Komma und Redebegleitsatz stehen und dadurch als Nicht-Frage markiert sind: "Will I," Annie said. "Would you," Annie said. Das Mittel ist selten und verliert seine Wirkung, wenn es überall steht.
+
+Imperative sind ohnehin keine Fragen: "Go on." "Say why." "Say how differently."
+
+**Fehler bleiben Fehler.** Georgij darf sich im Nachhinein nicht als heimlicher Planer herausstellen. Wenn ein Patzer gut ausgeht, ist er trotzdem ein Patzer, und er sagt das auch. Sein Satz dazu in Kapitel 11: Der Tag, an dem er anfängt, das zu verwechseln, ist der Tag, an dem er nicht mehr berichten kann, was in einem Raum tatsächlich passiert ist. Ein unschlagbarer Georgij wäre ein langweiliger.
+
+**Prüfregel:** Jeder Rückverweis muss eine nachweisbare Stelle im Text haben. "Raised it", "used it", "the line", "on its own" sind nur zulässig, wenn im Text steht, worauf sie sich beziehen.
+
+---
+
+---
+
+## Dialogregeln
+
+## Dialogregeln
+
+**Zwischen zwei Blöcken derselben Figur steht immer etwas Körperliches.** Redet eine Figur über mehrere Absätze, muss zwischen ihnen eine Handlung stehen, ein Blick, eine Hand, ein Gesicht, das sich nicht bewegt. Sonst liest sich der zweite Absatz, als hätte inzwischen die andere Figur gesprochen, und der Leser muss zurückspringen und die Sprecher neu abzählen. Der Beat ist keine Verzierung, er ist die Sprecherkennzeichnung.
+
+Beispiel aus Kapitel 17, Annies Rede an der Kreuzung: *Nothing moved in her face anywhere*, dann *She looked away from the chair*, dann zwei Finger auf der Stuhllehne, dann *Her hand stayed where it was*. Vier Blöcke, vier Beats, kein einziger Sprechertag nötig.
+
+**Der Beat soll etwas tun, nicht den Ton etikettieren.** Erlaubt sind Handlungen und Körper. Nicht erlaubt sind Kommentare über die Art des Sprechens, also kein "He kept his voice where it had been", kein "She let it be the size it was". Die Ausnahmen sind rar und müssen sich lohnen.
+
+**Kurze Sätze am Schluss einer Rede.** Wo eine Figur Nachdruck braucht, wird nicht verlängert, sondern gekürzt. "I have never put it down. Not one night." Dann der Beat. Dann "And this is my house."
+
+**Keine Selbstkommentare über die eigene Redlichkeit.** Georgij neigt dazu, seine Genauigkeit anzukündigen, statt genau zu sein: "I am not going to pretend", "I would like to be careful with the word", "I am saying so before I say it". Höchstens einer pro Kapitel, und nur, wenn er auf eine Frage antwortet und Inhalt trägt. Der Rest ist Eitelkeit und liest sich als solche.
+
+**Der Bericht ist kein Duell.** Wenn er ihr etwas meldet, sagt er, was war, und sie nimmt es oder stellt eine Frage. Kein Behaupten, Einwenden, Absichern, Quittieren. "He has bitten." "Yes." Der Beweis stand einen Absatz vorher und wird nicht wiederholt.
+- Klare Absatztrennung zwischen den Sprechern. Keine Replik teilt sich einen Absatz mit der Handlung des anderen
+
+---
+
+## Titel, Dateien, Format
+
+### Kapiteltitel
+
+Der Titel kommt aus der Sprache des Gewerbes oder aus einem Satz, der im Kapitel fällt, flach gesagt. Keine Inhaltsangaben, keine Stimmungswörter. Am besten geht er erst im Rückblick auf und verrät vorher nicht, worum es geht.
+
+**Reihenfolge:** erst schreiben, dann den Titel aus dem fertigen Text ziehen. Nie umgekehrt. Bei Kapitel 11 war der Titel zuerst da und der Satz wurde danach ins Kapitel gebaut, und man hat es gemerkt: Die Wendung stand weit vorn und wurde nie eingelöst. Ersetzt durch *Thank you for telling me*, das über der Überschrift wie Höflichkeit klingt und nach dem Kapitel wie eine Strafe.
+
+Bisher: *Merchandise doesn't talk* (die Zeile des Auktionators, die das Kapitel widerlegt), *Quid pro Quo*, *Dead angles*, *Count again* (ihre Provokation an der Tür), *Seven Letters* (sie tippt sie mit einem Finger), *Withdrawn or sold* (Katalogsprache für die Frage, die er nicht stellen darf), *Where were you educated*, *Something to do with my hands* (ihr Satz über das Glas, und seine Antwort darauf), *The friendly ones* (Annies dritte Kategorie), *What did she pay for you*, *Thank you for telling me*, *You are better when you don't know*, *The man with the open hand* (Woos Satz über die sechs Wochen), *In the same size type*, *Four thousand two hundred*, *Where the walls are* (Georgijs eigener Satz an Sang-hoon), *Who holds the paper* (Grundbuchsprache, und sie gilt auch für ihn).
+
+Kandidaten für später: *Lot nine*, *In the order it arrived*, *That's why I didn't*, *A quarter of a beat behind*, *What I didn't give her*, *By the terms*, *Chin level*, *Pointed outward*, *No third file*, *Three and a half*.
+
+### Regeln fürs Schreiben
+- Keine Gedankenstriche, nur Bindestriche
+- Dateien in zwei Formaten: `.md` fürs Archiv, `.txt` zum Einfügen ohne Markdown
+- Szenentrenner in der Paste-Fassung als `* * *`
+- "Mistress" sparsam einsetzen, höchstens vier bis fünf pro Kapitel. Der Effekt nutzt sich ab
+
+---
+
+## Pruefliste vor der Abgabe
+
+`check.py` erledigt alles Mechanische. Diese Liste ist fuer das, was ein Programm
+nicht entscheiden kann. Sie ist aus tatsaechlichen Fehlern entstanden, nicht aus
+guten Vorsaetzen.
+
+---
+
+### Zuerst, weil es am meisten kostet
+
+**Zweimal lesen, bis zweimal nichts gefunden wird.** Der zweite Durchgang findet
+regelmaessig noch etwas, und der dritte manchmal auch. Was der erste Durchgang
+findet, ist selten das Schlimmste.
+
+**Beim Reparieren entstehen neue Fehler.** Fast jede Runde hat neue Tics
+eingebaut, weil sie sich beim Erklaeren von selbst anbieten. Nach jeder
+Korrektur laeuft `check.py` erneut, nicht nur nach dem ersten Entwurf.
+
+---
+
+### Zeitangaben
+
+**Datumszeilen prueft `check.py`. Die Angaben im Fliesstext nicht.** Dort lagen
+alle bisherigen Fehler. Jedes "seit X Tagen", "vor drei Wochen", "in fuenf
+Wochen" gegen den Kalender in `canon/07-timeline.md` nachrechnen.
+
+Gefunden wurden auf diese Weise: Noh geht "in fuenf Wochen", waehrend zwei
+Absaetze vorher steht, dass er Ende des Monats geht. Ein Kapitel an Tag 27
+zaehlt "achtundzwanzig Tage". Annie hat den Namen "achtundzwanzig Tage", obwohl
+ein anderes Kapitel neunzehn Tage an einem frueheren Tag sagt.
+
+**Das Buch zaehlt inklusiv.** An Tag 22 ist er zweiundzwanzig Tage im Haus.
+
+### Rueckverweise
+
+**Jeder Rueckverweis braucht eine nachweisbare Stelle.** Wer "wie er gesagt
+hatte" schreibt, sucht die Stelle. Wenn sie nicht existiert, ist der Verweis der
+Fehler und nicht der fehlende Text.
+
+Dasselbe gilt fuer scheinbar harmlose Details: eine Clutch, die es in dieser
+Szene nicht gibt, ein Fahrer, der laut Rota diese Woche nicht faehrt, ein
+Gegenstand, den er laut Kanon nicht besitzen kann.
+
+### Wiederholung ueber Kapitelgrenzen
+
+**Ein Motiv, das zum zweiten Mal auftaucht, darf nicht beschrieben werden, als
+waere es neu.** Der schwerste Fund dieser Art: Das ungebaute Laecheln wurde in
+zwei Kapiteln jeweils als erstes seiner Art eingefuehrt.
+
+Beim zweiten Auftreten aendert sich etwas daran, nicht die Beschreibung. Beim
+Apfel ist es die Laenge, beim Laecheln die Geschwindigkeit.
+
+**Formeln zaehlen ueber das ganze Buch.** "There was no version of the evening
+in which", "let that sit exactly as long as it needed", "turned his hand over".
+Zweimal pro Kapitel ist die Grenze, und ueber vier Kapitel hinweg faellt es auf.
+
+### Der Bericht ist kein Duell
+
+Wenn Georgij meldet, sagt er, was war, und sie nimmt es oder stellt eine Frage.
+Kein Behaupten, Einwenden, Absichern, Quittieren. Wenn eine Antwort nur die
+vorige Aussage bestaetigt, streichen.
+
+Probe: Faellt eine Replik weg und die Szene verliert nichts, war sie Fuellung.
+
+### Georgij kommentiert nicht seine eigene Redlichkeit
+
+Er kuendigt seine Genauigkeit an, statt genau zu sein. `check.py` findet die
+haeufigsten Formeln, aber nicht alle. Erlaubt ist einer pro Kapitel, und nur
+als Antwort auf eine Frage.
+
+### Fehler bleiben Fehler
+
+Er darf sich nicht nachtraeglich als heimlicher Planer herausstellen. Geht ein
+Patzer gut aus, ist er trotzdem ein Patzer, und er sagt das auch. Ein
+unschlagbarer Georgij waere ein langweiliger.
+
+### Ihre Repliken
+
+Annie darf nicht zum Taktgeber werden, der nur Stichworte gibt. Wenn ihre
+Repliken ueberwiegend vier Woerter oder weniger haben und sie am Schluss
+ploetzlich zwei Absaetze bekommt, stimmt die Verteilung nicht.
+
+Sie erklaert nichts. Sie gibt nichts her, was sie nicht hergeben wuerde.
+
+### Zahlen
+
+Dieselbe Zahl nicht zu oft. Elf und neun sind im Buch bereits stark belastet.
+Wenn eine Zahl tragend ist, etwa vier Waende und vier Schweigen, muessen die
+beilaeufigen Vieren weichen.
+
+### Zuletzt
+
+**Der Titel wird nach dem Schreiben aus dem fertigen Text gezogen**, nie
+vorher. Einmal war es umgekehrt und man hat es gemerkt.

@@ -1,28 +1,24 @@
 # Gaaras-Books
 
-Fiction manuscripts in progress. The chapter files are the source of truth.
+Manuskripte in Arbeit. Ein Ordner je Buch.
 
-## Books
+| Projekt | Stand | Umfang |
+|---|---|---|
+| [`lot-fourteen/`](lot-fourteen/) | Kapitel 1 bis 17 | ca. 50.000 Woerter |
 
-- [Lot Fourteen](lot-fourteen/) — a literary novel set in the chaebol world of contemporary Seoul.
-- [Transmigration into Freedom](transmigration-into-freedom/) — work in progress.
+Wer an einem Projekt arbeitet, liest zuerst dessen `CLAUDE.md`.
 
-## Lot Fourteen
+## Automatik
 
-A literary novel set in the chaebol world of contemporary Seoul.
+Erzeugte Dateien werden nicht von Hand gepflegt. Zwei Mechanismen halten sie aktuell:
 
-The manuscript lives in [`lot-fourteen/`](lot-fourteen/):
+- **Hook vor jedem Commit.** Einmalig einschalten mit `git config core.hooksPath hooks`.
+  Baut neu, legt das Ergebnis in den Commit und bricht bei einem Build-Fehler ab.
+  Die Kapitelpruefung warnt nur.
+- **GitHub Action bei jedem Push.** Netz darunter, greift auch bei Bearbeitungen
+  direkt auf GitHub oder vom Handy.
 
-| File(s) | What it is |
-|---|---|
-| `ch01_*`–`ch16_*` | Chapters. The `_vN_M` suffix marks the draft version. |
-| `story-bible_*` | World, themes, continuity reference. |
-| `cast_*` | Characters. |
-| `plot-outline_*` | Outline. |
-| `HANDOVER.md` | Working notes / status. |
+## Rechte
 
-> Chapters are published as they are finished; this repository is the working canon.
-
-## Transmigration into Freedom
-
-Work in progress — manuscript to be added in [`transmigration-into-freedom/`](transmigration-into-freedom/).
+(c) Gaara. Alle Rechte vorbehalten. Siehe LICENSE. Oeffentlich einsehbar bedeutet
+nicht zur Nutzung freigegeben.

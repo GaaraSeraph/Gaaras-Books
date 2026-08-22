@@ -1,5 +1,5 @@
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.0 · EN
+*Lot Fourteen* · Version 7.1 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -53,7 +53,7 @@ He wrote Kim Do-yun's name at the top of a clean page and did not put anything u
 
 Hanseong came out of the wrong drawer.
 
-He had been mapping shipping routes for a fortnight, because the Kims' logistics arm ran seven of them and he wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
+He had been mapping shipping routes for ten days, because the Kims' logistics arm ran seven of them and he wanted to know which were profitable, which were sentimental and which existed because somebody's cousin lived in a port town.
 
 Route work means looking at everybody else on the same water.
 
@@ -117,7 +117,7 @@ A second finger.
 
 "And the third?"
 
-"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." Georgij turned his hand over. "Customs has been sitting in that building for a fortnight. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, which Hana had on a terrace and did not think was the interesting part."
+"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." Georgij turned his hand over. "Customs has been sitting in that building for eighteen days. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, which Hana had on a terrace and did not think was the interesting part."
 
 He put one hand flat.
 
@@ -229,4 +229,3 @@ Annie looked at him for a moment.
 
 "Next Thursday," said Annie.
 
----

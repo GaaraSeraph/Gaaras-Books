@@ -1,0 +1,23 @@
+#!/bin/sh
+# Lot Fourteen: baut die erzeugten Dateien vor jedem Commit neu und prueft die
+# Kapitel. Der Build blockiert, die Pruefung warnt nur.
+#
+# Einmalig einschalten:  git config core.hooksPath hooks
+
+set -e
+cd "$(git rev-parse --show-toplevel)"
+
+# python3 heisst auf manchen Systemen (u. a. Git-Bash unter Windows) nur python.
+PY="$(command -v python3 || command -v python || true)"
+[ -n "$PY" ] || { echo "Kein python gefunden (python3/python). Commit abgebrochen."; exit 1; }
+
+for proj in */; do
+  [ -f "$proj/build.py" ] || continue
+  echo "== $proj"
+  if ! "$PY" "$proj/build.py" "$proj"; then
+    echo "Build fehlgeschlagen. Commit abgebrochen."
+    exit 1
+  fi
+  "$PY" "$proj/check.py" "$proj"/chapters/*.md 2>/dev/null | tail -1 || true
+  git add "$proj/book.md" "$proj/HANDBUCH.md" "$proj/MANIFEST.txt" "$proj/paste" 2>/dev/null || true
+done

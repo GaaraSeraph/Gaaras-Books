@@ -1,11 +1,19 @@
-# Lot Fourteen - Figurenverzeichnis
-**Version 2.5** · Quelle: `annie-story.md` (Rohverlauf) plus Kapitel 1 bis 3
+# Der uebrige Cast
 
-> **Status:** Halbkanon. Was in `chapters/` steht, ist bindend. Alles, was hier nur aus dem Rohverlauf stammt, ist Vorschlag und ist als solcher markiert.
+Haushalt, Verbuendete, Gegenseite, der Saal. Halbkanon: Was im Text vorkommt, gilt.
 
 ---
 
-## Im Haus
+## Der Haushalt
+
+Alle, die Geld vom Anwesen beziehen. Neunundzwanzig Personen, vierzehn davon
+Sicherheit. Der Apparat ist gross, teuer und richtig aufgestellt, er zeigt nur
+seit zweiundzwanzig Jahren nach aussen.
+
+**Halbkanon.** Was im Text vorkommt, gilt. Was als Vorschlag markiert ist, darf
+fallen.
+
+### Im Haus
 
 **Der Personalbestand.** Neunundzwanzig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
 
@@ -74,7 +82,24 @@ Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den R
 
 ---
 
-## Annies Seite
+---
+
+### Zwei laengere Fassungen
+
+**Der erste Wachmann** - Kein Sicherheitschef, nur ein Wachmann. Wachmannsgehalt, Mietwohnung. Fährt an diesem Abend selbst, weil sonst niemand mitfährt. Behandschuhte Hand, Fernbedienung, nennt Georgij seit dem Ladehof einen Hund und spricht durchgehend von "it". Er hat genau ein Argument, "vier Häuser haben es zurückgeschickt", und spielt es zweimal.
+
+**Sein Nachfolger: Jang** - Sicherheitschef, etwa fünfzig, kommt an Tag vier im eigenen zwölf Jahre alten Wagen und parkt, wo eine Lieferung parken würde. Geht erst einmal ums ganze Haus, bevor er durch irgendeine Tür geht, und bleibt zweimal stehen: unter der Osttraufe und auf dem Kies, wo der Fleck unter der zweiten Lage liegt. Hat für acht Familien gearbeitet.
+
+---
+
+## Verbuendete
+
+Wer auf derselben Seite steht, und was es jeden davon kostet. Niemand hier hilft
+aus Freundschaft, und das ist Absicht.
+
+Die Mechanik dahinter steht in `09-the-business.md`.
+
+### Annies Seite
 
 **Hana** - Annies Verbündete, keine Angestellte. Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
@@ -87,28 +112,26 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 ---
 
-## Auf der Gala
+---
 
-**Mr Hong** - Einundsechzig, kommt seit neunzehn Jahren zu dieser Veranstaltung, sitzt seit neunzehn Jahren am selben Tisch. Nicht unter den zwölf. Stellt Georgij die Frage nach der Ausbildung und wird dadurch zum Träger der Berater-Legende. Auf Georgijs Bitte um Orientierung nennt er drei Namen, denen man ausweichen sollte: Woo, Sunwoo und Choi Dae-ho.
-*Kanon, Kapitel 7.*
+**Familie Lee** - Der lose Faden. Schuldner, verwundbar, ausgenutzt. Annie hält ihre Schulden. Sang-hoon schnüffelt seit Monaten um ihr Land herum.
+*Vorschlag.*
 
-**Chairman Woo** - **Verbündeter, nicht Gegner.** Schifffahrt, Terminal auf Yeongjong, zehn Monate ab Boden, nicht elf. Spricht jeden binnen neunzig Sekunden an. Auf die Frage, wer gesagt hat, es sei nicht machbar, redet er vier Minuten am Stück: Hafenbehörde, zwei Ausschüsse, der Beton, ein Satz seines Vaters von 1994. Nennt den Finanzier nicht, ist aber sichtlich zufrieden mit ihm, und sagt dabei zweimal ungewollt "Incheon".
-**Laut Hong:** Wird Georgij nach Yeongjong einladen und dann zutiefst beleidigt sein über alles, was Georgij darüber sagt.
-*Kanon, Kapitel 7.*
+**Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
+*Kanon, Kapitel 9 und 14.*
 
-**Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
-*Kanon, Kapitel 1 und 7.*
-
-**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij lächelt sie bewusst überhaupt nicht an, weil sie seit der Tür angelächelt wird und es deshalb nichts wert ist. Gibt ihm vier Minuten, was sie sonst nicht tut.
-*Kanon, Kapitel 7.*
-
-**Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
-*Kanon, Kapitel 8.*
-
-**Yun-seo** - Vierundzwanzig, Stiftung, macht die Berichterstattung für das Förderprogramm in Daegu. In Kapitel 7 steht sie am Rand einer Gruppe an der Bar mit einem Glas, aus dem sie nicht getrunken hat, und ist seit Georgijs Ankunft niemandem vorgestellt worden. Er lächelt sie ausdrücklich **nicht** an, weil ein fremdes Lächeln quer durch den Raum für sie eine weitere Entscheidung wäre und sie seit vierzig Minuten Entscheidungen trifft. Er merkt sie vor. Gehört in Kapitel 8.
-*Halbkanon, Kapitel 7.*
+**Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
+**Was Annie ihnen anbietet:** Geld und Rückendeckung gegen Anteile, Sicherheiten und ein Vetorecht über Routen. Kein Besitzerwechsel: Sie behalten den Namen, Annie bekommt die Kontrolle. Sie erfahren das früh, vollständig und aus Georgijs Mund.
+*Kanon.*
 
 ---
+
+## Die Gegenseite
+
+Sang-hoon, sein Apparat und die Leute, die in beide Richtungen reden. Kang
+steht hier und nicht bei den Bekanntschaften, weil er nachweislich an Sang-hoons
+Leute weitergibt.
 
 ## Die Gegenseite
 
@@ -135,40 +158,38 @@ Die schwarze Karte: Donnerstag, Shilla, neun Uhr.
 
 ---
 
-## Familien und Firmen
+---
 
 **Hanseong-Gruppe** - Der Köder. Verliert seit sechs Monaten Kapital, zerstrittener Vorstand, Unterschlagungsgerüchte, besitzt Schifffahrtsrouten. **Alles davon ist wahr**, das ist die Bedingung, unter der Georgij es überhaupt benutzen kann.
 **Eigentümer:** Ein Chaebol, der bewusst nicht benannt ist und nicht auf der Gala war. Eine offene Rechnung ohne Gesicht.
 *Kanon.*
 
-**Familie Lee** - Der lose Faden. Schuldner, verwundbar, ausgenutzt. Annie hält ihre Schulden. Sang-hoon schnüffelt seit Monaten um ihr Land herum.
-*Vorschlag.*
-
-**Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
-**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
-*Kanon, Kapitel 9 und 14.*
-
-**Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
-**Was Annie ihnen anbietet:** Geld und Rückendeckung gegen Anteile, Sicherheiten und ein Vetorecht über Routen. Kein Besitzerwechsel: Sie behalten den Namen, Annie bekommt die Kontrolle. Sie erfahren das früh, vollständig und aus Georgijs Mund.
-*Kanon.*
-
 ---
 
-## Was aus dem Rohverlauf nicht übernommen wird
+## Bekanntschaften
 
-- **Die unbekannte Nummer**, die Georgij per SMS die Gästeliste und Kangs Abendessen zuspielt. Es gibt sie bei uns nicht. Er findet beides selbst.
-- **Seoyoung** als zweiter Name für Hanseong.
-- **Zehn Jahre im Käfig.** Bei uns sind es siebzehn, seit er neun war.
-- **Die 10 und die 60 Millionen.** Bei uns 220 Millionen, durchgehend. Für Los elf gilt achtzig heute, sechzig im nächsten Katalog.
+Der Saal. Leute, die etwas gegeben oder etwas gesehen haben, ohne auf einer
+Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
+
+### Auf der Gala
+
+**Mr Hong** - Einundsechzig, kommt seit neunzehn Jahren zu dieser Veranstaltung, sitzt seit neunzehn Jahren am selben Tisch. Nicht unter den zwölf. Stellt Georgij die Frage nach der Ausbildung und wird dadurch zum Träger der Berater-Legende. Auf Georgijs Bitte um Orientierung nennt er drei Namen, denen man ausweichen sollte: Woo, Sunwoo und Choi Dae-ho.
+*Kanon, Kapitel 7.*
+
+**Chairman Woo** - **Verbündeter, nicht Gegner.** Schifffahrt, Terminal auf Yeongjong, zehn Monate ab Boden, nicht elf. Spricht jeden binnen neunzig Sekunden an. Auf die Frage, wer gesagt hat, es sei nicht machbar, redet er vier Minuten am Stück: Hafenbehörde, zwei Ausschüsse, der Beton, ein Satz seines Vaters von 1994. Nennt den Finanzier nicht, ist aber sichtlich zufrieden mit ihm, und sagt dabei zweimal ungewollt "Incheon".
+**Laut Hong:** Wird Georgij nach Yeongjong einladen und dann zutiefst beleidigt sein über alles, was Georgij darüber sagt.
+*Kanon, Kapitel 7.*
+
+**Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
+*Kanon, Kapitel 1 und 7.*
+
+**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij lächelt sie bewusst überhaupt nicht an, weil sie seit der Tür angelächelt wird und es deshalb nichts wert ist. Gibt ihm vier Minuten, was sie sonst nicht tut.
+*Kanon, Kapitel 7.*
+
+**Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
+*Kanon, Kapitel 8.*
+
+**Yun-seo** - Vierundzwanzig, Stiftung, macht die Berichterstattung für das Förderprogramm in Daegu. In Kapitel 7 steht sie am Rand einer Gruppe an der Bar mit einem Glas, aus dem sie nicht getrunken hat, und ist seit Georgijs Ankunft niemandem vorgestellt worden. Er lächelt sie ausdrücklich **nicht** an, weil ein fremdes Lächeln quer durch den Raum für sie eine weitere Entscheidung wäre und sie seit vierzig Minuten Entscheidungen trifft. Er merkt sie vor. Gehört in Kapitel 8.
+*Halbkanon, Kapitel 7.*
 
 ---
-
-## Offene Ausstattungsfrage: der Laptop
-
-Georgij kann laut Bibel Systeme knacken, und ihr verschlüsselter Desktop kostet ihn einen Abend. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
-
-**Vorschlag:** Annie gibt ihm in der ersten Woche unaufgefordert ein Gerät. Neu, sauber, offensichtlich verwaltet, mit allem, was ein Firmengerät eben mitbringt. Sie sagt nichts dazu und er fragt nichts. Er bedankt sich und benutzt es ausschließlich für die Arbeit, die sie ihm gegeben hat.
-
-Das ist die Ladung für die Desktop-Szene in Block B. Sie hat ihm ein Werkzeug an der Leine gegeben, er ist um die Leine herumgegangen und sagt es ihr von sich aus, weil er nicht lügt. Sie fragt weder wie noch was er gesehen hat.
-
-Wenn er stattdessen darum bitten müsste, wäre es auch ein Test, denn sie prüft ihn daran, worum er bittet. Beides funktioniert. Ich halte das Geschenk für stärker, weil es sie zur Handelnden macht und den späteren Bruch teurer.

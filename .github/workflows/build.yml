@@ -1,0 +1,45 @@
+name: Build
+
+# Netz unter dem lokalen Hook. Greift auch, wenn eine Datei direkt auf GitHub
+# oder vom Handy aus bearbeitet wurde, wo kein Hook laeuft.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+# Zwei schnelle Pushes sollen sich nicht gegenseitig ueberholen.
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Erzeugte Dateien neu bauen
+        run: |
+          for proj in */; do
+            [ -f "$proj/build.py" ] || continue
+            python3 "$proj/build.py" "$proj"
+          done
+
+      - name: Kapitel pruefen (blockiert nicht)
+        continue-on-error: true
+        run: |
+          for proj in */; do
+            [ -f "$proj/check.py" ] || continue
+            python3 "$proj/check.py" "$proj"/chapters/*.md || true
+          done
+
+      - name: Ergebnis zurueckschreiben
+        run: |
+          git config user.name "build"
+          git config user.email "build@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Build: erzeugte Dateien aktualisiert"
+          git pull --rebase --autostash origin main
+          git push

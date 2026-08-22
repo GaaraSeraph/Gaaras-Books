@@ -1,11 +1,11 @@
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 46 · Tuesday 18 November*
 
 The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in 2011 and had never bothered to put his name on.
 
-There was a room off it with a table in it for six and four chairs at the table, which told Georgij something before anybody had said a word.
+There was a room off it with a table for six in it and two places laid at one end. That told Georgij before anybody had said a word. Nobody else was coming, and nobody was going to be taking notes.
 
 Jang's two men came as far as the lifts and no further.
 
@@ -45,7 +45,7 @@ Something happened at the corner of Sang-hoon's mouth.
 
 "Most people would have said it was a coincidence."
 
-"It isn't one. It is the only tool I own that costs nothing and works on men who have thirty years on me." He said it flatly. "I used it twice in one evening because it worked the first time. It has now been reported to you by two separate people inside a fortnight, which is roughly what I deserved."
+"It isn't one. It is the only tool I own that costs nothing and works on men who have thirty years on me." He said it flatly. "I used it twice in one evening because it worked the first time. It has now been reported to you by two separate people, which is roughly what I deserved."
 
 "You could have stopped using it."
 
@@ -69,7 +69,7 @@ Park Sang-hoon looked at him for the first time since he had sat down.
 
 "It tells you where the walls are. Yes."
 
-"Most men would rather you never found the wall at all."
+"Most men prefer that you never find the wall at all."
 
 "Most men will therefore be lied to by me the moment it matters, and they will not know when," said Georgij. "You would. You would know inside a minute, and then everything else I had said all evening would be worth nothing, including the part I came here to give you."
 
@@ -115,9 +115,11 @@ The second was about Hana, and Georgij had not expected it to come from that dir
 
 "I am not going to answer that."
 
-That one cost him about four seconds of unhappiness, which he did not show.
+That one cost him more than any of the others and he did not show a second of it.
 
 Hana had put it on a table herself, in a room with three people in it, and it was not his to move.
+
+He had pulled the second section on her sixteen thousand square metres the previous afternoon. The instruction had come from her, at her own table and in front of Annie, and she had not asked him what he expected to find. What was charged against that land, and who held the paper, made this refusal considerably more expensive than it would have been five days ago.
 
 "She does," said Sang-hoon, to nobody in particular, and ate.
 
@@ -137,7 +139,7 @@ The third was the Kims and it came at an hour and ten.
 
 "Would you like to know what you have just told me?"
 
-"I know what I have just told you," said Georgij. "I told you it existed. You had already assumed it. Annie takes her intermediates through two lanes nobody else can get permits for. You have seen the manifests. A man in your trade does not need a picture drawn for him." He met the eyes across the table. "What you did not have until this minute is confirmation. That is what it cost me. It is not nothing and I am not going to pretend it was."
+"I know what I have just told you," said Georgij. "I told you it existed. You had already assumed it. Annie takes her intermediates through two lanes, and the permits for them sit with one family and are not being issued again. You have seen the manifests. A man in your trade does not need a picture drawn for him." He met the eyes across the table. "What you did not have until this minute is confirmation. That is what it cost me. It is not nothing and I am not going to pretend it was."
 
 Sang-hoon put his glass down.
 
@@ -147,9 +149,9 @@ Sang-hoon put his glass down.
 
 ---
 
-The fourth came almost at the end and it had no shape at all.
+The fourth came late and it had no shape at all.
 
-"Do you sleep in that house?"
+"Do you sleep in her house?"
 
 "I am not going to answer that."
 
@@ -157,7 +159,7 @@ Park Sang-hoon looked at him for slightly too long.
 
 Then he laughed, and it was the second time Georgij had heard it, and it was not longer than the first.
 
-"That one was for me," he said. "Not for you."
+"That one was not work," he said. "I wanted to know."
 
 "I know."
 
@@ -167,9 +169,9 @@ In between the four of them he got the evening he had come for.
 
 Sang-hoon talked about the two companies for the better part of an hour, because Georgij asked him how and never once asked him why, and because nobody had asked him how in a very long time.
 
-Every one of them was about a person.
+Every story in that hour was about one person.
 
-He described a finance director in Ulsan who had a son at a school he could not afford and who was never asked for anything at all, not once, for eleven months. He described the value of being the only person who telephones a man on the day his mother dies. He described sitting in four separate rooms with four separate members of one board and telling each of them the truth. The truth had been a different one in every room. None of the four had been a lie.
+He described a finance director at the yard in Pyeongtaek who had a son at a school he could not afford and who was never asked for anything at all, not once, for eleven months. He described the value of being the only person who telephones a man on the day his mother dies. He described sitting in four separate rooms with four different members of one board and telling each of them the truth. The truth had been a different one in every room. None of the four had been a lie.
 
 "That is the part people get wrong," he said. "They think you buy the company. You are buying the ten minutes in which a man decides that you are the one who understands his position."
 
@@ -177,7 +179,7 @@ Georgij said very little.
 
 He was doing arithmetic.
 
-Ulsan was February. Busan was March, one director at a time, four hundred kilometres from where they worked. What was happening to the Kims was the same thing at the same stage, and it had started earlier than anybody at Annie's table had thought, and Do-yun was not the beginning of it.
+Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometres from where they worked. What was happening to the Kims was the same thing at the same stage, and it had started earlier than anybody at Annie's table had thought, and Do-yun was not the beginning of it.
 
 "How long does that take?" he asked.
 
@@ -199,15 +201,37 @@ He put the document on the table at ten past ten.
 
 Sang-hoon did not touch it.
 
-"Why."
+"Why?"
 
-"Because you have been in this thirty years and I have been in it a very short time. This is the first thing I have written that I believe, and if I believe it for stupid reasons then you are the only person who will tell me so." He put his hands flat. "Everything in it is published. Where it is a rumour it says so and says how many mouths it came through. Where I am guessing it says *this is a guess*."
+"Because you have been in this thirty years and I have been in it a very short time. This is the first thing I have written that I believe, and if I believe it for stupid reasons then you are the only person who will tell me so."
 
-"In the same size type."
+"That is the guidance again."
 
-"In the same size type."
+"It is."
 
-Park Sang-hoon pulled the document across the table with one finger.
+"That is four. Two of them are mine, and they come from a man who told me at the start of the evening that he knows exactly how it looks." Sang-hoon still did not touch the pages. "So tell me what you get if I say you are right."
+
+Georgij did not answer straight away.
+
+"If this is wrong, then I am not wrong about a shipping group," he said. "I am wrong about the way I read all of it, and every page I have put in front of her is worth less than she thinks it is, and neither of us would know which pages." He put his hands flat. "I would rather be told that by you in November than by her in March."
+
+Park Sang-hoon looked at him for some time.
+
+"That cost you a great deal more than the first one."
+
+"Yes."
+
+"Then why give it?"
+
+"Because the first one was true and thin. You would have spent the rest of the evening working out what was behind it, and that costs me more than the sentence does."
+
+"Go on," said Sang-hoon.
+
+"Everything in it is published," said Georgij. "Where it is a rumour it says so and says how many mouths it came through. Where I am guessing it says *this is a guess*."
+
+"In the same size type." Sang-hoon put one finger on the corner of the first page and left it there. "Everybody shrinks the part they are not certain of. I have read a great many documents and I read the small type first, and I have never once been wrong about the man afterwards."
+
+Then he pulled the document across the table.
 
 He read the first page. Then he read the second page. Then he turned back to the first page and read it again, which Georgij had been hoping for and had not allowed himself to expect.
 
@@ -215,7 +239,13 @@ Nothing at all happened to his face.
 
 "This is not for me," he said.
 
-"No. It's mine, and I'd like it back on Thursday."
+"No. I would like it back on Thursday."
+
+"You wrote it. You have it."
+
+"I would like it back on Thursday."
+
+Park Sang-hoon did not say anything for a moment, and did not take his hand off the pages either.
 
 "You'll get it back on Thursday."
 
@@ -249,21 +279,33 @@ At the door Sang-hoon shook his hand, which he had not done on arrival.
 
 "And?"
 
-"And you are either exactly what you look like," said Park Sang-hoon, "or you are the best I have met."
+"And you are either exactly what you look like," said Park Sang-hoon, "or you are the best-made thing anybody has ever put in front of me."
 
 He turned and went back into the room where the nineteen pages were.
 
 ---
 
-Mr Ku had the car at the kerb and the heater on.
+Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week about and this one was his. Annie was in the back of it.
 
-Georgij got in and sat for a while and did not say anything, and the lights of Yeouido went past and then stopped going past.
+He looked up at the ninth floor before he looked at her, which was the right order and which he did not enjoy. The windows were lit and there was nobody standing in any of them.
+
+Then he got in.
+
+She had not said she would be there. She had said come home afterwards and not in the morning, and that had been the whole of the instruction. There had been nothing in it about a car in Yeouido at twenty to eleven with a woman already sitting in the back.
+
+"Well," said Annie.
+
+"May I have ten minutes, Mistress, before I give you any of it?"
+
+"Take them."
+
+She looked out of her own window and did not ask him anything else, and the lights of Yeouido went past and then stopped going past.
 
 Then he took out the notebook.
 
-It was paper and it lived in his own pocket, which made it the only thing he owned that a company in Yeouido did not bill her monthly to read. He wrote four lines in it.
+It was paper and it lived in his own pocket, and it was the only thing he wrote on that a company in Yeouido did not bill her monthly to read. He wrote four lines in it with her sitting an arm's length away, and she watched him do it, and she did not ask what any of them were.
 
-*Ulsan. February. Eleven months of asking for nothing.*
+*Pyeongtaek. February. Eleven months of asking for nothing.*
 
 *Two years for a family. Eighteen months if somebody frightens them.*
 
@@ -273,13 +315,13 @@ It was paper and it lived in his own pocket, which made it the only thing he own
 
 Then he sat back and did the other arithmetic, the one he had been putting off since the second course.
 
-He had given the man four silences.
+Four times he had told Park Sang-hoon that they had reached a wall, and four times he had used the word instead of changing the subject.
 
-Every one of them had been true, and he had promised nothing he had not delivered, and he had not said a single untrue word for four and a half hours.
+Every one of the four had been true. He had promised nothing he had not delivered, and he had not said a single untrue word in three and a half hours.
 
-He had also drawn Park Sang-hoon a map.
+He had also drawn the man a map.
 
-Four walls, all of them real, and no indication anywhere on it of which one had anything behind it worth the climb. One of those four was the whole of the business. One of them was a man asking where he sleeps. They had been given exactly the same weight, and giving them exactly the same weight was the most deliberate thing he had done all evening.
+Four walls, all of them real, and nothing anywhere on it to say which one had something behind it worth the climb. One of the four was the whole of the business. One of them was a man asking where he sleeps. They had been given exactly the same weight, and giving them exactly the same weight was the most deliberate thing he had done all evening.
 
 Every word of it had been true.
 
@@ -287,10 +329,14 @@ He had only declined to say which of the four walls was load-bearing, and no man
 
 Georgij looked out at the river going past under the bridge.
 
-He had spent four and a half hours being scrupulously honest with a man, in a way designed from the first minute to mislead him.
+He had spent three and a half hours being scrupulously honest with a man, in a way designed from the first minute to mislead him.
 
 He was aware of that with some precision, and he did not go looking for a kinder word for it.
 
 He did not know yet whether the map would hold.
 
 If it did not hold, he would find out from somebody else's mouth, in about six weeks.
+
+Annie had not asked him a single question since the kerb. She was not going to, either, and the ten minutes had run out somewhere on the expressway.
+
+He put the notebook back in his pocket and turned his head.
