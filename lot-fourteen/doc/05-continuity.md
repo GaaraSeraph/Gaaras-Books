@@ -45,7 +45,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.3) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *Who holds the paper* (v12.4) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -459,3 +459,44 @@ sehen kann.
 - **Die eine erlaubte Zukunft:** dass Georgij ihn selbst laut sagt. Das waere
   ein Zustandswechsel und keine Formulierungsfrage, gehoert also vorher nach
   `doc/08-decisions.md`.
+
+---
+
+### Festgelegte Zeile: die zwei Haende, die sich nicht bewegen
+
+**Kapitel 17, zweimal, zweiundsechzig Zeilen auseinander. Wortlaut auf beiden Seiten.**
+
+> *Im Wagen, allein im Absatz, waehrend er die Beichte zu Ende bringt:*
+>
+> "It has been true for some time. I did not notice that either."
+>
+> **His hand stayed where it was.**
+>
+> "I stopped looking and I started meaning it. Neither of them was my doing."
+
+> *Am Stuhl im Korridor, eingeschoben in ihren eigenen Satz:*
+>
+> "I have never put it down. Not one night." **Her hand stayed where it was.** "And this is my house."
+
+**Warum es traegt.** Dieselben vier Woerter, zwei Menschen, zwei Gestaendnisse.
+Er sagt, dass er die Waffe abgelegt hat, ohne es zu beschliessen; sie sagt, dass
+sie ihre nie abgelegt hat. Die Haende tun in beiden Faellen dasselbe, und der
+Unterschied liegt darin, worauf sie liegen: seine auf dem Sitz **zwischen
+ihnen**, ihre auf der Lehne des Stuhls, dem einen Quadratmeter, den sie fuer
+sich behaelt. Damit steht das Argument des Kapitels in einer Geste, und keine
+Figur benennt es.
+
+**Die Platzierung ist Teil des Reims.** Seine steht allein in einem Absatz, ihre
+steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
+
+**Regeln fuer den Umgang damit:**
+
+- **Beide Saetze sind Wortlaut.** Es sind vier gewoehnliche Woerter, keine Suche
+  findet den Reim von selbst, und wer eine der beiden Stellen umformuliert,
+  toetet ihn, ohne ihn zu sehen.
+- **Kein drittes Mal**, in keinem Kapitel.
+- **Kein Kommentar.** Weder Georgij noch der Erzaehler zeigt darauf.
+- **Entstanden am 22.08. im zweiten Durchgang**, nicht geplant: der Beat fuer
+  ihn wurde gebraucht, weil dort zwei Redebloecke derselben Figur ohne etwas
+  Koerperliches aufeinander folgten. Dass Annies Zeile schon so dastand, ist
+  aufgefallen, nachdem er geschrieben war.

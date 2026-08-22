@@ -223,3 +223,70 @@ weiter oben. Dort wäre es Körperinventar neben anderem Körperinventar gewesen
 An der Beichte ist es das Scharnier.
 
 **Offen bleiben Kapitel 14 und 15.**
+
+---
+
+### Februar ist die Frist, Januar ist das Fenster
+
+**Entschieden am 22.08.** Der Absatz las sich als Plan zu warten und war als
+Frist gemeint. Der Autor selbst hat ihn falsch herum gelesen, und das entscheidet
+die Frage.
+
+**Die Rechnung, die dahintersteht.** Das Essen mit Sang-hoon ist Tag 46, also
+der 18. November. Er kauft die Routen in vier bis sechs Wochen, das ist Mitte
+bis Ende Dezember, und danach ist er ein Quartal lang knapp. Ye-rin bricht an
+einem Dienstagmorgen im Februar. **Dazwischen liegt Januar**, und das ist der
+einzige Monat, in dem beides gleichzeitig wahr ist: er gebunden, sie noch
+haltend.
+
+Der Text nannte den Anfang und das Ende und liess die Mitte weg - also genau
+das, worum es in der ganzen Rechnung geht. *"That is what I would work to"*
+konnte beides heissen.
+
+**Gesetzt in Fassung 12.4:**
+
+> "Then it is February," said Annie. "Not March and not the spring."
+>
+> "February is when we lose her. It is not when we move." Georgij looked at the back of Mr Pyo's head. "He signs for the routes in December. For the quarter after that he is short of money and can do nothing about it, and she holds through January. Those two things are true at the same time for about four weeks."
+>
+> "January," said Annie.
+>
+> "That is what I would work to."
+
+**Nebenwirkung, die beabsichtigt ist.** *"Georgij looked at the back of Mr Pyo's
+head"* steht jetzt in einer Reihe mit zwei spaeteren Stellen: die Abtrennung
+faehrt hinter demselben Kopf hoch, und danach sieht er *straight ahead at the
+back of the panel*. Dieselbe Blickachse dreimal, einmal mit einem Menschen
+darin und zweimal ohne.
+
+**Der zweite Februar.** Kapitel 16 sagt *Pyeongtaek was February* und meint den
+vergangenen. Kapitel 17 meint den kommenden. Getrennt werden sie jetzt durch
+Dezember und Januar, die als Anker daneben stehen.
+
+---
+
+### Der Container hat einen Urheber, und der Text nennt ihn jetzt
+
+**Entschieden am 22.08.** Kanon war es immer - `doc/03-cast.md` und
+`doc/04-world.md`: **Sang-hoon** hat den ausgebauten Container in eine
+Kim-Sendung geschoben und den Zoll darauf stossen lassen. Der Ausbau ist der
+Beweis, nicht die Ladung, und der Container war leer.
+
+**Im Text stand es nirgends.** Kapitel 11 gibt nur das Wort *container*.
+Kapitel 17 setzte den Taeter voraus und lieferte ihn erst am Ende eines langen
+Absatzes nach, als *the Republic of Korea is doing it for him*. Der Autor hat
+beim Lesen gefragt, wer den Container dorthin gestellt hat, und ob es die Kims
+selbst waren. Damit ist erwiesen, dass die Stelle es nicht getragen hat.
+
+**Geaendert:** aus *"The container was not put into a Kim shipment to slow them
+down"* wird *"Sang-hoon put the container into that shipment, and he did not do
+it to slow them down."*
+
+**Es bleibt eine Vermutung und keine Feststellung**, weil Annie zwei Zeilen
+vorher *Say the guess* sagt. Die Grundlage liegt im selben Kapitel und im
+vorigen: zwei gekaufte Konkurrenten im Februar und Maerz, dasselbe Muster bei
+den Kims, und Sang-hoons eigener Satz an diesem Abend, dass Angst nie von dem
+gekauft werden muss, der sie liefert.
+
+**Unveraendert bleibt:** die Zollakte kommt nie als Szene vor, nur als Zeile.
+Das steht so in `doc/07-next.md` und gilt weiter.

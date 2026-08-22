@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 40.283 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 41.194 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -55,6 +55,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Festgelegte Zeile: die Heimfahrt nach dem Essen mit Sang-hoon](#festgelegte-zeile-die-heimfahrt-nach-dem-essen-mit-sang-hoon)
   - [Festgelegte Zeile: das best-made thing](#festgelegte-zeile-das-best-made-thing)
   - [Festgelegte Zeile: was nicht Arbeit war](#festgelegte-zeile-was-nicht-arbeit-war)
+  - [Festgelegte Zeile: die zwei Haende, die sich nicht bewegen](#festgelegte-zeile-die-zwei-haende-die-sich-nicht-bewegen)
 - [Stoffbloecke](#stoffbloecke)  ·  `doc/06-plot.md`
   - [Blockübersicht gegen den Kanon](#block-bersicht-gegen-den-kanon)
   - [Block A - Das Haus bei Nacht **[GESCHRIEBEN, Kapitel 3]**](#block-a-das-haus-bei-nacht-geschrieben-kapitel-3)
@@ -82,6 +83,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was aus dem Rohverlauf nicht übernommen wird](#was-aus-dem-rohverlauf-nicht-bernommen-wird)
   - [Offene Ausstattungsfrage: der Laptop](#offene-ausstattungsfrage-der-laptop)
   - [Das Halsband in der festgelegten Zeile von Kapitel 17](#das-halsband-in-der-festgelegten-zeile-von-kapitel-17)
+  - [Februar ist die Frist, Januar ist das Fenster](#februar-ist-die-frist-januar-ist-das-fenster)
+  - [Der Container hat einen Urheber, und der Text nennt ihn jetzt](#der-container-hat-einen-urheber-und-der-text-nennt-ihn-jetzt)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -97,10 +100,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Bae](#bae)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Noh](#mr-noh)
+  - [Mr Pyo](#mr-pyo)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
   - [Mr Baek](#mr-baek)
-  - [Mr Pyo](#mr-pyo)
   - [Mr Yeo](#mr-yeo)
   - [Minister Min-ho](#minister-min-ho)
   - [Mr Ku](#mr-ku)
@@ -1007,7 +1010,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.3) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *Who holds the paper* (v12.4) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -1421,6 +1424,47 @@ sehen kann.
 - **Die eine erlaubte Zukunft:** dass Georgij ihn selbst laut sagt. Das waere
   ein Zustandswechsel und keine Formulierungsfrage, gehoert also vorher nach
   `doc/08-decisions.md`.
+
+---
+
+### Festgelegte Zeile: die zwei Haende, die sich nicht bewegen
+
+**Kapitel 17, zweimal, zweiundsechzig Zeilen auseinander. Wortlaut auf beiden Seiten.**
+
+> *Im Wagen, allein im Absatz, waehrend er die Beichte zu Ende bringt:*
+>
+> "It has been true for some time. I did not notice that either."
+>
+> **His hand stayed where it was.**
+>
+> "I stopped looking and I started meaning it. Neither of them was my doing."
+
+> *Am Stuhl im Korridor, eingeschoben in ihren eigenen Satz:*
+>
+> "I have never put it down. Not one night." **Her hand stayed where it was.** "And this is my house."
+
+**Warum es traegt.** Dieselben vier Woerter, zwei Menschen, zwei Gestaendnisse.
+Er sagt, dass er die Waffe abgelegt hat, ohne es zu beschliessen; sie sagt, dass
+sie ihre nie abgelegt hat. Die Haende tun in beiden Faellen dasselbe, und der
+Unterschied liegt darin, worauf sie liegen: seine auf dem Sitz **zwischen
+ihnen**, ihre auf der Lehne des Stuhls, dem einen Quadratmeter, den sie fuer
+sich behaelt. Damit steht das Argument des Kapitels in einer Geste, und keine
+Figur benennt es.
+
+**Die Platzierung ist Teil des Reims.** Seine steht allein in einem Absatz, ihre
+steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
+
+**Regeln fuer den Umgang damit:**
+
+- **Beide Saetze sind Wortlaut.** Es sind vier gewoehnliche Woerter, keine Suche
+  findet den Reim von selbst, und wer eine der beiden Stellen umformuliert,
+  toetet ihn, ohne ihn zu sehen.
+- **Kein drittes Mal**, in keinem Kapitel.
+- **Kein Kommentar.** Weder Georgij noch der Erzaehler zeigt darauf.
+- **Entstanden am 22.08. im zweiten Durchgang**, nicht geplant: der Beat fuer
+  ihn wurde gebraucht, weil dort zwei Redebloecke derselben Figur ohne etwas
+  Koerperliches aufeinander folgten. Dass Annies Zeile schon so dastand, ist
+  aufgefallen, nachdem er geschrieben war.
 
 ---
 
@@ -2122,6 +2166,73 @@ An der Beichte ist es das Scharnier.
 
 ---
 
+### Februar ist die Frist, Januar ist das Fenster
+
+**Entschieden am 22.08.** Der Absatz las sich als Plan zu warten und war als
+Frist gemeint. Der Autor selbst hat ihn falsch herum gelesen, und das entscheidet
+die Frage.
+
+**Die Rechnung, die dahintersteht.** Das Essen mit Sang-hoon ist Tag 46, also
+der 18. November. Er kauft die Routen in vier bis sechs Wochen, das ist Mitte
+bis Ende Dezember, und danach ist er ein Quartal lang knapp. Ye-rin bricht an
+einem Dienstagmorgen im Februar. **Dazwischen liegt Januar**, und das ist der
+einzige Monat, in dem beides gleichzeitig wahr ist: er gebunden, sie noch
+haltend.
+
+Der Text nannte den Anfang und das Ende und liess die Mitte weg - also genau
+das, worum es in der ganzen Rechnung geht. *"That is what I would work to"*
+konnte beides heissen.
+
+**Gesetzt in Fassung 12.4:**
+
+> "Then it is February," said Annie. "Not March and not the spring."
+>
+> "February is when we lose her. It is not when we move." Georgij looked at the back of Mr Pyo's head. "He signs for the routes in December. For the quarter after that he is short of money and can do nothing about it, and she holds through January. Those two things are true at the same time for about four weeks."
+>
+> "January," said Annie.
+>
+> "That is what I would work to."
+
+**Nebenwirkung, die beabsichtigt ist.** *"Georgij looked at the back of Mr Pyo's
+head"* steht jetzt in einer Reihe mit zwei spaeteren Stellen: die Abtrennung
+faehrt hinter demselben Kopf hoch, und danach sieht er *straight ahead at the
+back of the panel*. Dieselbe Blickachse dreimal, einmal mit einem Menschen
+darin und zweimal ohne.
+
+**Der zweite Februar.** Kapitel 16 sagt *Pyeongtaek was February* und meint den
+vergangenen. Kapitel 17 meint den kommenden. Getrennt werden sie jetzt durch
+Dezember und Januar, die als Anker daneben stehen.
+
+---
+
+### Der Container hat einen Urheber, und der Text nennt ihn jetzt
+
+**Entschieden am 22.08.** Kanon war es immer - `doc/03-cast.md` und
+`doc/04-world.md`: **Sang-hoon** hat den ausgebauten Container in eine
+Kim-Sendung geschoben und den Zoll darauf stossen lassen. Der Ausbau ist der
+Beweis, nicht die Ladung, und der Container war leer.
+
+**Im Text stand es nirgends.** Kapitel 11 gibt nur das Wort *container*.
+Kapitel 17 setzte den Taeter voraus und lieferte ihn erst am Ende eines langen
+Absatzes nach, als *the Republic of Korea is doing it for him*. Der Autor hat
+beim Lesen gefragt, wer den Container dorthin gestellt hat, und ob es die Kims
+selbst waren. Damit ist erwiesen, dass die Stelle es nicht getragen hat.
+
+**Geaendert:** aus *"The container was not put into a Kim shipment to slow them
+down"* wird *"Sang-hoon put the container into that shipment, and he did not do
+it to slow them down."*
+
+**Es bleibt eine Vermutung und keine Feststellung**, weil Annie zwei Zeilen
+vorher *Say the guess* sagt. Die Grundlage liegt im selben Kapitel und im
+vorigen: zwei gekaufte Konkurrenten im Februar und Maerz, dasselbe Muster bei
+den Kims, und Sang-hoons eigener Satz an diesem Abend, dass Angst nie von dem
+gekauft werden muss, der sie liefert.
+
+**Unveraendert bleibt:** die Zollakte kommt nie als Szene vor, nur als Zeile.
+Das steht so in `doc/07-next.md` und gilt weiter.
+
+---
+
 # Begegnungsregister
 
 *Erzeugt aus `chapters/`. Wird nicht bearbeitet.*
@@ -2142,9 +2253,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 172 | 17 (01-17) | 1 | 46 |
+| Annie | 173 | 17 (01-17) | 1 | 46 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 46 | 7 (10-17) | 22 | 46 |
+| Park Sang-hoon | 47 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 33 | 9 (05-17) | 4 | 46 |
@@ -2155,10 +2266,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Kim Ye-rin | 6 | 3 (14-17) | 31 | 46 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
+| Mr Pyo | 5 | 3 (05-17) | 6 | 46 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
 | Eun-ju | 4 | 3 (05-14) | 6 | 34 |
 | Mr Baek | 4 | 3 (05-15) | 6 | 41 |
-| Mr Pyo | 4 | 3 (05-17) | 6 | 46 |
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
 | Mr Ku | 3 | 3 (05-11) | 6 | 22 |
@@ -2174,7 +2285,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-172 Nennungen in 17 Kapiteln.
+173 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2342,14 +2453,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:10 | "Kang," said Annie. |
 | 46 | ch17:58 | Annie turned her head. |
 | 46 | ch17:74 | "Then it is February," said Annie. "Not March and not the spring." |
-| 46 | ch17:96 | "So she is not rich," said Annie. "She is leveraged." |
-| 46 | ch17:110 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
-| 46 | ch17:124 | Beside him, Annie put her hand on the door. |
-| 46 | ch17:136 | "Go on," said Annie. |
-| 46 | ch17:198 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
-| 46 | ch17:224 | Annie put two fingers on the back of the chair and left them there. |
-| 46 | ch17:232 | Annie said nothing. |
-| 46 | ch17:236 | "I know," said Annie. "He came to me with it in his first week." |
+| 46 | ch17:78 | "January," said Annie. |
+| 46 | ch17:100 | "So she is not rich," said Annie. "She is leveraged." |
+| 46 | ch17:114 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
+| 46 | ch17:128 | Beside him, Annie put her hand on the door. |
+| 46 | ch17:140 | "Go on," said Annie. |
+| 46 | ch17:204 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
+| 46 | ch17:230 | Annie put two fingers on the back of the chair and left them there. |
+| 46 | ch17:238 | Annie said nothing. |
+| 46 | ch17:242 | "I know," said Annie. "He came to me with it in his first week." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -2398,7 +2510,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch16:296` (Tag 46) - one, two
 - `ch16:346` (Tag 46) - ten
-- `ch17:224` (Tag 46) - two
+- `ch17:230` (Tag 46) - two
 
 ---
 
@@ -2482,7 +2594,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
 | 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
-| 46 | ch17:90 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+| 46 | ch17:94 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -2510,13 +2622,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:368` (Tag 41) - twenty
 - `ch15:372` (Tag 41) - ten
 - `ch16:120` (Tag 46) - three
-- `ch17:90` (Tag 46) - one, sixteen thousand
+- `ch17:94` (Tag 46) - one, sixteen thousand
 
 ---
 
 ### Park Sang-hoon
 
-46 Nennungen in 7 Kapiteln.
+47 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2566,6 +2678,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:290 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
 | 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | ch17:66 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -2586,6 +2699,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:266` (Tag 46) - nineteen
 - `ch16:326` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
+- `ch17:66` (Tag 46) - one
 
 ---
 
@@ -2701,7 +2815,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
-| 46 | ch17:196 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2762,8 +2876,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
 | 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
-| 46 | ch17:230 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
-| 46 | ch17:248 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2786,8 +2900,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:228` (Tag 41) - four, three
 - `ch16:10` (Tag 46) - two
-- `ch17:230` (Tag 46) - nine, three
-- `ch17:248` (Tag 46) - six
+- `ch17:236` (Tag 46) - nine, three
+- `ch17:254` (Tag 46) - six
 
 ---
 
@@ -2823,7 +2937,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
-| 46 | ch17:104 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
+| 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -2842,7 +2956,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:40` (Tag 46) - one, two
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:38` (Tag 46) - one, seventeen, two
-- `ch17:104` (Tag 46) - three, two
+- `ch17:108` (Tag 46) - three, two
 
 ---
 
@@ -3010,6 +3124,27 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Pyo
+
+5 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch16:296` (Tag 46) - one, two
+- `ch17:76` (Tag 46) - four, two
+- `ch17:130` (Tag 46) - three, two
+
+---
+
 ### Chef Bang
 
 4 Nennungen in 1 Kapiteln.
@@ -3062,25 +3197,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Mr Pyo
-
-4 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:126 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:182 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-
-### Zahlen in der Naehe von Mr Pyo
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
-- `ch17:126` (Tag 46) - three, two
 
 ---
 

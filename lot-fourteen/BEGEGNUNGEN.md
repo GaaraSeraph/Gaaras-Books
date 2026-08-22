@@ -18,9 +18,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 172 | 17 (01-17) | 1 | 46 |
+| Annie | 173 | 17 (01-17) | 1 | 46 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Park Sang-hoon | 46 | 7 (10-17) | 22 | 46 |
+| Park Sang-hoon | 47 | 7 (10-17) | 22 | 46 |
 | Chairman Woo | 39 | 8 (07-14) | 22 | 34 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 33 | 9 (05-17) | 4 | 46 |
@@ -31,10 +31,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Kim Ye-rin | 6 | 3 (14-17) | 31 | 46 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
+| Mr Pyo | 5 | 3 (05-17) | 6 | 46 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
 | Eun-ju | 4 | 3 (05-14) | 6 | 34 |
 | Mr Baek | 4 | 3 (05-15) | 6 | 41 |
-| Mr Pyo | 4 | 3 (05-17) | 6 | 46 |
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
 | Mr Ku | 3 | 3 (05-11) | 6 | 22 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-172 Nennungen in 17 Kapiteln.
+173 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -218,14 +218,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:10 | "Kang," said Annie. |
 | 46 | ch17:58 | Annie turned her head. |
 | 46 | ch17:74 | "Then it is February," said Annie. "Not March and not the spring." |
-| 46 | ch17:96 | "So she is not rich," said Annie. "She is leveraged." |
-| 46 | ch17:110 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
-| 46 | ch17:124 | Beside him, Annie put her hand on the door. |
-| 46 | ch17:136 | "Go on," said Annie. |
-| 46 | ch17:198 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
-| 46 | ch17:224 | Annie put two fingers on the back of the chair and left them there. |
-| 46 | ch17:232 | Annie said nothing. |
-| 46 | ch17:236 | "I know," said Annie. "He came to me with it in his first week." |
+| 46 | ch17:78 | "January," said Annie. |
+| 46 | ch17:100 | "So she is not rich," said Annie. "She is leveraged." |
+| 46 | ch17:114 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
+| 46 | ch17:128 | Beside him, Annie put her hand on the door. |
+| 46 | ch17:140 | "Go on," said Annie. |
+| 46 | ch17:204 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
+| 46 | ch17:230 | Annie put two fingers on the back of the chair and left them there. |
+| 46 | ch17:238 | Annie said nothing. |
+| 46 | ch17:242 | "I know," said Annie. "He came to me with it in his first week." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -274,7 +275,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch16:296` (Tag 46) - one, two
 - `ch16:346` (Tag 46) - ten
-- `ch17:224` (Tag 46) - two
+- `ch17:230` (Tag 46) - two
 
 ---
 
@@ -358,7 +359,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
 | 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
-| 46 | ch17:90 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+| 46 | ch17:94 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -386,13 +387,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:368` (Tag 41) - twenty
 - `ch15:372` (Tag 41) - ten
 - `ch16:120` (Tag 46) - three
-- `ch17:90` (Tag 46) - one, sixteen thousand
+- `ch17:94` (Tag 46) - one, sixteen thousand
 
 ---
 
 ## Park Sang-hoon
 
-46 Nennungen in 7 Kapiteln.
+47 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -442,6 +443,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:290 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
 | 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | ch17:66 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -462,6 +464,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:266` (Tag 46) - nineteen
 - `ch16:326` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
+- `ch17:66` (Tag 46) - one
 
 ---
 
@@ -577,7 +580,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
-| 46 | ch17:196 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -638,8 +641,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
 | 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
-| 46 | ch17:230 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
-| 46 | ch17:248 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 46 | ch17:236 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | ch17:254 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -662,8 +665,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:228` (Tag 41) - four, three
 - `ch16:10` (Tag 46) - two
-- `ch17:230` (Tag 46) - nine, three
-- `ch17:248` (Tag 46) - six
+- `ch17:236` (Tag 46) - nine, three
+- `ch17:254` (Tag 46) - six
 
 ---
 
@@ -699,7 +702,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:38 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
-| 46 | ch17:104 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
+| 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -718,7 +721,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:40` (Tag 46) - one, two
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:38` (Tag 46) - one, seventeen, two
-- `ch17:104` (Tag 46) - three, two
+- `ch17:108` (Tag 46) - three, two
 
 ---
 
@@ -886,6 +889,27 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Pyo
+
+5 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch16:296` (Tag 46) - one, two
+- `ch17:76` (Tag 46) - four, two
+- `ch17:130` (Tag 46) - three, two
+
+---
+
 ## Chef Bang
 
 4 Nennungen in 1 Kapiteln.
@@ -938,25 +962,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-## Mr Pyo
-
-4 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:126 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:182 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-
-### Zahlen in der Naehe von Mr Pyo
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
-- `ch17:126` (Tag 46) - three, two
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.911 Woerter.
+17 Kapitel. 50.986 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -25,7 +25,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
 | 16 | v1.13 | 3.196 |
-| 17 | v12.3 | 2.609 |
+| 17 | v12.4 | 2.684 |
 
 ---
 
@@ -4886,7 +4886,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: Who holds the paper
-*Lot Fourteen* · Version 12.3 · EN
+*Lot Fourteen* · Version 12.4 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4950,7 +4950,7 @@ She was quiet for the length of two lamp posts.
 
 "Say the guess."
 
-"The container was not put into a Kim shipment to slow them down. Customs have been in that building a month and they have not stopped one lorry leaving that yard.
+"Sang-hoon put the container into that shipment, and he did not do it to slow them down. Customs have been in that building a month and they have not stopped one lorry leaving that yard.
 
 "What a month of customs does is take the customers off them, and put a man in uniform in the corridor every morning where the whole family can see him. That is not a delay. That is the frightening, and the Republic of Korea is doing it for him, on its own time, and he has not paid anybody a won for it."
 
@@ -4959,6 +4959,10 @@ A sign went over the car and the light came down through it and went away.
 "You already know there is no majority for him to buy, and you know Ye-rin has held those six for twenty years. What she cannot do is hold them through a second quarter of this. There is a Tuesday morning in February when a nephew with four per cent telephones her and says he is not waiting, and she has nothing to tell him that is better than what he is afraid of."
 
 "Then it is February," said Annie. "Not March and not the spring."
+
+"February is when we lose her. It is not when we move." Georgij looked at the back of Mr Pyo's head. "He signs for the routes in December. For the quarter after that he is short of money and can do nothing about it, and she holds through January. Those two things are true at the same time for about four weeks."
+
+"January," said Annie.
 
 "That is what I would work to."
 
@@ -5049,6 +5053,8 @@ He looked straight ahead at the back of the panel.
 Beneath the linen at his throat there was a band of steel, and it had been there since the second house. It had made the word accurate from the first day, and it had never once needed him to mean it.
 
 "It has been true for some time. I did not notice that either."
+
+His hand stayed where it was.
 
 "I stopped looking and I started meaning it. Neither of them was my doing."
 
