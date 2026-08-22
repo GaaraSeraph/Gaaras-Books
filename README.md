@@ -1,11 +1,27 @@
 # Gaaras-Books
 
-Manuskripte in Arbeit. Ein Ordner je Buch.
+Manuskripte in Arbeit, Englisch geschrieben. Ein Ordner je Buch.
 
-| Projekt | Stand | Umfang |
-|---|---|---|
-| [`lot-fourteen/`](lot-fourteen/) | Kapitel 1 bis 17 | ca. 50.000 Woerter |
-| [`transmigration-into-freedom/`](transmigration-into-freedom/) | Kapitel 1 bis 6 | ca. 13.000 Woerter |
+## Lot Fourteen
+
+[`lot-fourteen/`](lot-fourteen/) · Kapitel 1 bis 17, ca. 50.000 Woerter
+
+Literarischer Roman, Suedkorea in der Gegenwart, Chaebol-Milieu. Auf einer
+illegalen Schulduebernahme-Auktion wird ein Mann, seit seinem neunten Jahr
+Eigentum und elfmal weitergereicht, von einer Frau aus dem Chaebol-Umfeld
+gekauft. Er wird ihr Schatten: Begleiter, Beobachter, und was sonst nicht
+ausgesprochen wird. Ein Kammerspiel um Macht und Kontrolle, getragen von einem,
+der nie luegt.
+
+## Transmigration into Freedom
+
+[`transmigration-into-freedom/`](transmigration-into-freedom/) · Kapitel 1 bis 6, ca. 13.000 Woerter
+
+Isekai-Roman. Ein ausgebrannter, verschuldeter Unternehmer von achtunddreissig
+legt sich in seinem Buero schlafen und wacht mit neunzehn in einer
+mittelalterlichen Welt wieder auf, ein Statusfenster am Rand des Blicks. Kein
+Held, sondern ein kuehler Kopf mit einem Koerper, der zum ersten Mal
+funktioniert, und der Chance, alles von vorn aufzubauen.
 
 Wer an einem Projekt arbeitet, liest zuerst dessen `CLAUDE.md`.
 
