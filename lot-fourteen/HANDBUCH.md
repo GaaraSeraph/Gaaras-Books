@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 63.459 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 63.754 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -114,8 +114,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Ji-won](#ji-won)
-  - [Kim Ye-rin](#kim-ye-rin)
   - [Kim Do-yun](#kim-do-yun)
+  - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
@@ -1435,7 +1435,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.7) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.8) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -1456,6 +1456,12 @@ der nicht zurückblättert.
   **Sie nimmt es an, weil er es richtig benennt:** *"It is not a gift, it is arbitrage, and there is nothing in it for me at all, and I would like both of those to be true at the same time, because they are."* Und weil sein Grund nicht die Dachrinne ist, sondern der 21. November - sie hat die Frage nach dem Abend zurueckgenommen und damit das Einzige aufgegeben, was sie nie hergibt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
+
+  **Ye-rin weiss seit Montag alles, und das ist die Ausgangslage.** Sung-hos neunzehn Minuten am Telefon in Kapitel 26 waren ein Anruf bei ihr; Georgij sagt es Hana in der Reihenfolge, in der es passiert ist, ohne den Namen zu nennen - *"He did not say so and I did not ask and both of us knew."* Sung-ho kannte Datum, Haus und Woos Ankunft um sieben, also hat sie ihm alles drei in den ersten neunzig Sekunden abgenommen.
+
+  **Sie hat es geprueft und die Familie geschickt und sich selbst herausgehalten.** Hanas Lesart: *"That is not a no. If it were a no she would have kept them home, because the family does not go anywhere she has not looked at. She looked at it and let them go."*
+
+  **Daraus folgt, was die Einladung ueberhaupt noch sein kann.** Sie braucht keine Auskunft - sie hat seit vier Tagen jede Tatsache: *"No fact in that list is going to move a woman who has already looked at it once and decided to stay home. She does not need to be told. She needs to be asked, by somebody who is not part of the arrangement, on her own doorstep, and there is exactly one person alive who qualifies."*
 
   **Hana hat Ye-rin NICHT gefragt, und das ist der Punkt.** In Kapitel 21 hat sie einen Dienstag angekuendigt; seither sind drei vergangen und sie hat alle drei verstreichen lassen. Am 25. hatte sie eine Party. Am 2. eine Party und eine Gaesteliste. Am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie hat zehn Minuten mit dem Telefon in der Hand gesessen.
 
@@ -3543,16 +3549,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 255 | 25 (01-27) | 1 | 59 |
-| Hana | 128 | 11 (09-27) | 6 | 55 |
-| Chairman Woo | 97 | 17 (07-27) | 3 | 59 |
+| Hana | 132 | 11 (09-27) | 6 | 55 |
+| Chairman Woo | 98 | 17 (07-27) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Ye-rin | 16 | 6 (14-27) | 9 | 49 |
 | Kim Do-yun | 15 | 4 (14-26) | 6 | 46 |
+| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
 | Mr Ku | 7 | 6 (05-27) | 6 | 55 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -3900,7 +3906,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-128 Nennungen in 11 Kapiteln.
+132 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4009,29 +4015,33 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
 | 7 | ch27:22 | "Hana." |
 | 9 | ch27:156 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
-| 9 | ch27:168 | Hana looked at the cards. |
-| 9 | ch27:180 | "I did not, because you can ask that woman once." Hana was entirely level about it. "Fou.. |
-| 9 | ch27:192 | "I have been waiting on Monday since the twenty-first of November," said Hana, "and I di.. |
-| 9 | ch27:218 | Hana did not touch the folder. |
-| 9 | ch27:232 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
-| 9 | ch27:252 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:276 | Hana was quiet for a long time. |
-| 9 | ch27:296 | "That is not a gift," said Hana. |
-| 9 | ch27:306 | Hana laughed. |
-| 9 | ch27:332 | Hana put the page down. |
-| 9 | ch27:344 | Hana looked at the fire for a moment. |
-| 9 | ch27:368 | Hana looked at him. |
-| 9 | ch27:380 | Hana turned the card over that she had turned over twice already. |
-| 9 | ch27:394 | Hana was quiet for a while. |
-| 9 | ch27:404 | Hana was quiet for a moment. |
-| 9 | ch27:418 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| 9 | ch27:430 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| 9 | ch27:444 | "Why," said Hana. |
-| 9 | ch27:450 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| 9 | ch27:458 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| 9 | ch27:464 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| 9 | ch27:480 | Hana did not say anything. |
-| 9 | ch27:498 | Hana looked at him for a long moment. |
+| 9 | ch27:162 | Hana put the pen down. |
+| 9 | ch27:176 | Hana did not move for a moment. |
+| 9 | ch27:182 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
+| 9 | ch27:194 | Hana sat back. |
+| 9 | ch27:208 | Hana looked at the cards. |
+| 9 | ch27:220 | "I did not, because you can ask that woman once." Hana was entirely level about it. "Fou.. |
+| 9 | ch27:232 | "I have been waiting on Monday since the twenty-first of November," said Hana, "and I di.. |
+| 9 | ch27:258 | Hana did not touch the folder. |
+| 9 | ch27:272 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
+| 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
+| 9 | ch27:316 | Hana was quiet for a long time. |
+| 9 | ch27:336 | "That is not a gift," said Hana. |
+| 9 | ch27:346 | Hana laughed. |
+| 9 | ch27:372 | Hana put the page down. |
+| 9 | ch27:384 | Hana looked at the fire for a moment. |
+| 9 | ch27:406 | Hana looked at him. |
+| 9 | ch27:418 | Hana turned the card over that she had turned over twice already. |
+| 9 | ch27:432 | Hana was quiet for a while. |
+| 9 | ch27:442 | Hana was quiet for a moment. |
+| 9 | ch27:456 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| 9 | ch27:468 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| 9 | ch27:482 | "Why," said Hana. |
+| 9 | ch27:488 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| 9 | ch27:496 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| 9 | ch27:502 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| 9 | ch27:518 | Hana did not say anything. |
+| 9 | ch27:536 | Hana looked at him for a long moment. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4072,19 +4082,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:410` (Tag 49) - one
 - `ch23:224` (Tag 55) - nineteen
 - `ch27:156` (Tag 9) - forty
-- `ch27:180` (Tag 9) - fourteen, twelve
-- `ch27:192` (Tag 9) - twenty
-- `ch27:232` (Tag 9) - one
-- `ch27:252` (Tag 9) - four, six
-- `ch27:418` (Tag 9) - ten, two
-- `ch27:450` (Tag 9) - one, two
-- `ch27:464` (Tag 9) - eighty thousand, four hundred, two
+- `ch27:182` (Tag 9) - four, ninety, seven, three
+- `ch27:220` (Tag 9) - fourteen, twelve
+- `ch27:232` (Tag 9) - twenty
+- `ch27:272` (Tag 9) - one
+- `ch27:292` (Tag 9) - four, six
+- `ch27:456` (Tag 9) - ten, two
+- `ch27:488` (Tag 9) - one, two
+- `ch27:502` (Tag 9) - eighty thousand, four hundred, two
 
 ---
 
 ### Chairman Woo
 
-97 Nennungen in 17 Kapiteln.
+98 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4182,9 +4193,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:128 | Woo made a noise that was not a word. |
 | 9 | ch27:146 | Woo laughed, badly, the way he had laughed at his own crane in October. |
 | 9 | ch27:160 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
-| 9 | ch27:252 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:370 | "Woo at seven," she said. "And the Kims." |
-| 9 | ch27:446 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 9 | ch27:182 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
+| 9 | ch27:292 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
+| 9 | ch27:408 | "Woo at seven," she said. "And the Kims." |
+| 9 | ch27:484 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4234,9 +4246,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:58` (Tag 7) - one, seven, three, two
 - `ch27:118` (Tag 9) - four, three
 - `ch27:160` (Tag 9) - one, seven
-- `ch27:252` (Tag 9) - four, six
-- `ch27:370` (Tag 9) - seven
-- `ch27:446` (Tag 9) - four, one, two
+- `ch27:182` (Tag 9) - four, ninety, seven, three
+- `ch27:292` (Tag 9) - four, six
+- `ch27:408` (Tag 9) - seven
+- `ch27:484` (Tag 9) - four, one, two
 
 ---
 
@@ -4673,43 +4686,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Kim Ye-rin
-
-16 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
-| 49 | ch21:64 | "Ye-rin." |
-| 49 | ch21:66 | "Ye-rin." |
-| 49 | ch21:108 | "And Ye-rin?" |
-| 49 | ch21:110 | "Ye-rin comes at nine, if she comes." |
-| 49 | ch21:118 | "Ye-rin comes at nine." |
-| 49 | ch21:214 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:238 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 9 | ch27:162 | "Ye-rin." |
-
-### Zahlen in der Naehe von Kim Ye-rin
-
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:72` (Tag 46) - four, six, twenty
-- `ch18:112` (Tag 48) - one, three
-- `ch21:110` (Tag 49) - nine
-- `ch21:118` (Tag 49) - nine
-- `ch21:214` (Tag 49) - three
-- `ch21:218` (Tag 49) - eight, nine, one, seven
-- `ch21:238` (Tag 49) - nine
-
----
-
 ### Kim Do-yun
 
 15 Nennungen in 4 Kapiteln.
@@ -4738,6 +4714,42 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:26` (Tag 31) - forty
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
+
+---
+
+### Kim Ye-rin
+
+15 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
+| 49 | ch21:64 | "Ye-rin." |
+| 49 | ch21:66 | "Ye-rin." |
+| 49 | ch21:108 | "And Ye-rin?" |
+| 49 | ch21:110 | "Ye-rin comes at nine, if she comes." |
+| 49 | ch21:118 | "Ye-rin comes at nine." |
+| 49 | ch21:214 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:238 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:72` (Tag 46) - four, six, twenty
+- `ch18:112` (Tag 48) - one, three
+- `ch21:110` (Tag 49) - nine
+- `ch21:118` (Tag 49) - nine
+- `ch21:214` (Tag 49) - three
+- `ch21:218` (Tag 49) - eight, nine, one, seven
+- `ch21:238` (Tag 49) - nine
 
 ---
 

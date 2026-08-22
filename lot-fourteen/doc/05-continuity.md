@@ -90,7 +90,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.7) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.8) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -111,6 +111,12 @@ der nicht zurückblättert.
   **Sie nimmt es an, weil er es richtig benennt:** *"It is not a gift, it is arbitrage, and there is nothing in it for me at all, and I would like both of those to be true at the same time, because they are."* Und weil sein Grund nicht die Dachrinne ist, sondern der 21. November - sie hat die Frage nach dem Abend zurueckgenommen und damit das Einzige aufgegeben, was sie nie hergibt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
+
+  **Ye-rin weiss seit Montag alles, und das ist die Ausgangslage.** Sung-hos neunzehn Minuten am Telefon in Kapitel 26 waren ein Anruf bei ihr; Georgij sagt es Hana in der Reihenfolge, in der es passiert ist, ohne den Namen zu nennen - *"He did not say so and I did not ask and both of us knew."* Sung-ho kannte Datum, Haus und Woos Ankunft um sieben, also hat sie ihm alles drei in den ersten neunzig Sekunden abgenommen.
+
+  **Sie hat es geprueft und die Familie geschickt und sich selbst herausgehalten.** Hanas Lesart: *"That is not a no. If it were a no she would have kept them home, because the family does not go anywhere she has not looked at. She looked at it and let them go."*
+
+  **Daraus folgt, was die Einladung ueberhaupt noch sein kann.** Sie braucht keine Auskunft - sie hat seit vier Tagen jede Tatsache: *"No fact in that list is going to move a woman who has already looked at it once and decided to stay home. She does not need to be told. She needs to be asked, by somebody who is not part of the arrangement, on her own doorstep, and there is exactly one person alive who qualifies."*
 
   **Hana hat Ye-rin NICHT gefragt, und das ist der Punkt.** In Kapitel 21 hat sie einen Dienstag angekuendigt; seither sind drei vergangen und sie hat alle drei verstreichen lassen. Am 25. hatte sie eine Party. Am 2. eine Party und eine Gaesteliste. Am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie hat zehn Minuten mit dem Telefon in der Hand gesessen.
 
