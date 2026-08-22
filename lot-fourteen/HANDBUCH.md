@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.547 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.976 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1604,7 +1604,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 30** *Who do they telephone* (v1.2) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 30** *Who do they telephone* (v1.3) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -1618,14 +1618,18 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Und den Grund, warum sie es trotzdem nimmt, findet sie selbst**, weil Georgij ihn ihr ausdruecklich nicht in den Mund legt: *"I know what it costs you. I do not know what it buys you, and I have thought about it for four days, and I am not going to invent something and put it in your mouth."* Ihre Antwort: **Unsichtbare Macht stirbt mit der Person, aufgeschriebene ist am Morgen noch da.**
 
-  **Ihre zwei Bedingungen, beide abgelehnt, beide mit Begruendung:**
+  **Was sie dafuer haben will, ist eine Grenze fuer das Veto:** *"The veto covers boxes. Which box, which sailing, which port, which week. It does not cover people."* Abgelehnt, und zwar sofort, obwohl er ihr zustimmt - *"the first thing she had said all evening that he wanted to agree with."* Der Grund ist ein Satz und keine Ausrede: **Wer entscheidet, welche Kiste auf welches Schiff geht, entscheidet, wer sie laedt.** Ein Veto, das an der Ladung endet und den Hof nicht erreicht, ist eine Zeile in einem Dokument.
+
+  Und er sagt geradeheraus, was daraus folgt, statt ein Wort dafuer zu suchen: *"So they become staff."* - *"In the way that counts, yes. I am not going to find you a kinder word for it at half past nine on a terrace, and if I did you would only have to unlearn it in March."* **Das ist der Faden, an dem sie spaeter von selbst zurueckkommt.**
+
+  **Ihre zwei Zahlungsmittel dafuer, beide abgelehnt, beide mit Begruendung:**
 
   - **Zeit** bis Maerz gegen ihr persoenliches Wort. Abgelehnt, *weil* er dem Wort glaubt: Es bindet sie und nicht die sechs, und macht sie drei Monate lang haftbar fuer einen Cousin mit Temperament.
-  - **Do-yun** mit Titel in der Struktur. Abgelehnt, weil es nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
+  - **Do-yun**, den sie liefern kann - *"where he works, what he carries out of that building, and whose telephone he answers on a Sunday"*, und *"there is nobody else alive who can say that sentence about him."* Das ist die einzige Stelle, an der sie ihre Macht vorzeigt, und er lehnt sie ab, weil sie nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
 
   **Das ist die Stelle, an der Luegen alles glatt geschlossen haette**, und sie sagt es: *"You could have said yes."* - *"Because you are going to be in rooms with me for the next fifteen years, and I would like all of them to be like this one."*
 
-  **Die Veto-Grenze wird vertagt, nicht ausgesprochen.** Es gibt einen Preis, der reichen wuerde; er nennt ihn nicht, weil sie ihn im Dezember nicht zahlen soll fuer etwas, das er im Maerz umsonst bekommt.
+  **Die Veto-Grenze wird vertagt, nicht abgelehnt.** Es gibt einen Preis, der sie kaufen wuerde, und Georgij nennt ihn nicht: *"There is a thing that would buy the line about people, and I am not going to tell you what it is."* Begruendung: *"It is a very large price and it buys a limit I do not think you will need for two years. If you ever do need it, you will think of it yourself in about four seconds, and then it is yours to offer. It is not mine to have put in your head in December."*
 
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 
@@ -2751,7 +2755,14 @@ Bezahlung. Die Bitte steht weiter offen.
 
 1. ~~**Tag 45 nachreichen.**~~ **Erledigt, und zwar ohne Szene.** Der Tag ist dreimal im Text abgedeckt und braucht keine eigene: Kapitel 16 (*"He had pulled the second section ... the previous afternoon"*), Kapitel 17 im Wortlaut an Annie, und Kapitel 20 (*"And the lease is signed. Monday, in front of her, and she did not have to ask me twice"*). Nicht jeder Kalendertag braucht ein Kapitel; dieser ist erwaehnt worden, wo er gebraucht wurde.
 2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
-3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
+3. ~~**Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.~~ **Erledigt in Kapitel 26 (die sechs) und 30 (Ye-rin).**
+
+    **Zwei Abweichungen vom Plan darunter, und der Text hat recht:**
+
+    - Der Plan sagte, Georgij sehe Ye-rin **zum ersten Mal im Januar, allein**. Geschrieben ist der 16. Dezember auf Hanas Terrasse, zweiundzwanzig Minuten. Der Grund steht im Kapitel: Der eine Versuch wird nicht aufgehoben, sondern ausgegeben, sobald er nicht mehr scheitern kann, und nach dem Kim-Gespräch kann er das.
+    - Die Veto-Grenze sollte **vertagt und nicht ausgesprochen** werden. Sie wird ausgesprochen, weil die Szene ohne sie nichts zu verlieren hat, und dann vertagt. Alles darunter ist unverändert eingelöst: beide Zahlungsmittel wertlos, beide mit Begründung abgelehnt, der ausreichende Preis genannt und nicht benannt.
+
+    **Was daraus offen bleibt:** Georgij hat ihr auf die Frage *"So they become staff"* mit **Ja** geantwortet. Wenn das Vetorecht anfängt zu beissen, kommt sie von selbst zurück, und sie weiss dann schon, dass er es ihr im Dezember gesagt hat. Der ungenannte Preis liegt bereit und gehört ihr zum Anbieten, nicht ihm zum Vorschlagen.
 
     **Und der Punkt, an dem der ganze Plan hängt: Ye-rin ist nicht gefragt worden, und man kann sie nur einmal fragen.**
 
@@ -4272,7 +4283,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
 | 74 | ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
 | 74 | ch29:230 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
-| 74 | ch30:368 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
+| 74 | ch30:388 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4447,7 +4458,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:208 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
 | 74 | ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
 | 74 | ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
-| 74 | ch30:390 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4509,7 +4520,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:158` (Tag 74) - two
 - `ch30:32` (Tag 74) - seventy-eight
 - `ch30:162` (Tag 74) - one
-- `ch30:390` (Tag 74) - one
+- `ch30:410` (Tag 74) - one
 
 ---
 
@@ -4583,7 +4594,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:138 | "Well," said Sang-hoon. |
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
-| 74 | ch30:390 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -4613,7 +4624,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:66` (Tag 55) - six, two
 - `ch23:28` (Tag 55) - four
 - `ch25:304` (Tag 59) - forty, seven, twelve
-- `ch30:390` (Tag 74) - one
+- `ch30:410` (Tag 74) - one
 
 ---
 
@@ -4940,12 +4951,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
 | 74 | ch30:248 | Kim Ye-rin looked out at the black garden. |
 | 74 | ch30:274 | Ye-rin considered him for a moment. |
-| 74 | ch30:296 | "Time," said Kim Ye-rin. "I sign nothing until March. I give you my word, personally, th.. |
-| 74 | ch30:330 | Ye-rin did not say anything. |
-| 74 | ch30:358 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
-| 74 | ch30:364 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
-| 74 | ch30:394 | Kim Ye-rin stood with her hand on the door. |
-| 74 | ch30:408 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+| 74 | ch30:308 | Kim Ye-rin let the wind have a moment of it. |
+| 74 | ch30:350 | Ye-rin did not say anything. |
+| 74 | ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
+| 74 | ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
+| 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
+| 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -4959,7 +4970,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:220` (Tag 49) - eight, nine, one, seven
 - `ch21:240` (Tag 49) - nine
 - `ch30:60` (Tag 74) - eleven
-- `ch30:408` (Tag 74) - twenty, twenty-two
+- `ch30:428` (Tag 74) - twenty, twenty-two
 
 ---
 
@@ -5029,9 +5040,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
 | 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
-| 74 | ch30:308 | "The second thing. Do-yun." |
-| 74 | ch30:322 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
-| 74 | ch30:326 | "Do-yun is worthless as a condition, because the day you sign, we have him anyway. He is.. |
+| 74 | ch30:328 | "The second thing. Do-yun." |
+| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
@@ -5040,7 +5051,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
 - `ch29:78` (Tag 74) - two
-- `ch30:322` (Tag 74) - four
+- `ch30:342` (Tag 74) - four
 
 ---
 

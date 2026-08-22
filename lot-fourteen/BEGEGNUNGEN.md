@@ -539,7 +539,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
 | 74 | ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
 | 74 | ch29:230 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
-| 74 | ch30:368 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
+| 74 | ch30:388 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -714,7 +714,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:208 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
 | 74 | ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
 | 74 | ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
-| 74 | ch30:390 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -776,7 +776,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:158` (Tag 74) - two
 - `ch30:32` (Tag 74) - seventy-eight
 - `ch30:162` (Tag 74) - one
-- `ch30:390` (Tag 74) - one
+- `ch30:410` (Tag 74) - one
 
 ---
 
@@ -850,7 +850,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:138 | "Well," said Sang-hoon. |
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
-| 74 | ch30:390 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -880,7 +880,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:66` (Tag 55) - six, two
 - `ch23:28` (Tag 55) - four
 - `ch25:304` (Tag 59) - forty, seven, twelve
-- `ch30:390` (Tag 74) - one
+- `ch30:410` (Tag 74) - one
 
 ---
 
@@ -1207,12 +1207,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
 | 74 | ch30:248 | Kim Ye-rin looked out at the black garden. |
 | 74 | ch30:274 | Ye-rin considered him for a moment. |
-| 74 | ch30:296 | "Time," said Kim Ye-rin. "I sign nothing until March. I give you my word, personally, th.. |
-| 74 | ch30:330 | Ye-rin did not say anything. |
-| 74 | ch30:358 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
-| 74 | ch30:364 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
-| 74 | ch30:394 | Kim Ye-rin stood with her hand on the door. |
-| 74 | ch30:408 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+| 74 | ch30:308 | Kim Ye-rin let the wind have a moment of it. |
+| 74 | ch30:350 | Ye-rin did not say anything. |
+| 74 | ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
+| 74 | ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
+| 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
+| 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1226,7 +1226,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:220` (Tag 49) - eight, nine, one, seven
 - `ch21:240` (Tag 49) - nine
 - `ch30:60` (Tag 74) - eleven
-- `ch30:408` (Tag 74) - twenty, twenty-two
+- `ch30:428` (Tag 74) - twenty, twenty-two
 
 ---
 
@@ -1296,9 +1296,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
 | 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
-| 74 | ch30:308 | "The second thing. Do-yun." |
-| 74 | ch30:322 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
-| 74 | ch30:326 | "Do-yun is worthless as a condition, because the day you sign, we have him anyway. He is.. |
+| 74 | ch30:328 | "The second thing. Do-yun." |
+| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
@@ -1307,7 +1307,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
 - `ch29:78` (Tag 74) - two
-- `ch30:322` (Tag 74) - four
+- `ch30:342` (Tag 74) - four
 
 ---
 

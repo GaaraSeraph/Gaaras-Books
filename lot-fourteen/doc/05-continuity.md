@@ -126,7 +126,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 30** *Who do they telephone* (v1.2) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 30** *Who do they telephone* (v1.3) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -140,14 +140,18 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Und den Grund, warum sie es trotzdem nimmt, findet sie selbst**, weil Georgij ihn ihr ausdruecklich nicht in den Mund legt: *"I know what it costs you. I do not know what it buys you, and I have thought about it for four days, and I am not going to invent something and put it in your mouth."* Ihre Antwort: **Unsichtbare Macht stirbt mit der Person, aufgeschriebene ist am Morgen noch da.**
 
-  **Ihre zwei Bedingungen, beide abgelehnt, beide mit Begruendung:**
+  **Was sie dafuer haben will, ist eine Grenze fuer das Veto:** *"The veto covers boxes. Which box, which sailing, which port, which week. It does not cover people."* Abgelehnt, und zwar sofort, obwohl er ihr zustimmt - *"the first thing she had said all evening that he wanted to agree with."* Der Grund ist ein Satz und keine Ausrede: **Wer entscheidet, welche Kiste auf welches Schiff geht, entscheidet, wer sie laedt.** Ein Veto, das an der Ladung endet und den Hof nicht erreicht, ist eine Zeile in einem Dokument.
+
+  Und er sagt geradeheraus, was daraus folgt, statt ein Wort dafuer zu suchen: *"So they become staff."* - *"In the way that counts, yes. I am not going to find you a kinder word for it at half past nine on a terrace, and if I did you would only have to unlearn it in March."* **Das ist der Faden, an dem sie spaeter von selbst zurueckkommt.**
+
+  **Ihre zwei Zahlungsmittel dafuer, beide abgelehnt, beide mit Begruendung:**
 
   - **Zeit** bis Maerz gegen ihr persoenliches Wort. Abgelehnt, *weil* er dem Wort glaubt: Es bindet sie und nicht die sechs, und macht sie drei Monate lang haftbar fuer einen Cousin mit Temperament.
-  - **Do-yun** mit Titel in der Struktur. Abgelehnt, weil es nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
+  - **Do-yun**, den sie liefern kann - *"where he works, what he carries out of that building, and whose telephone he answers on a Sunday"*, und *"there is nobody else alive who can say that sentence about him."* Das ist die einzige Stelle, an der sie ihre Macht vorzeigt, und er lehnt sie ab, weil sie nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
 
   **Das ist die Stelle, an der Luegen alles glatt geschlossen haette**, und sie sagt es: *"You could have said yes."* - *"Because you are going to be in rooms with me for the next fifteen years, and I would like all of them to be like this one."*
 
-  **Die Veto-Grenze wird vertagt, nicht ausgesprochen.** Es gibt einen Preis, der reichen wuerde; er nennt ihn nicht, weil sie ihn im Dezember nicht zahlen soll fuer etwas, das er im Maerz umsonst bekommt.
+  **Die Veto-Grenze wird vertagt, nicht abgelehnt.** Es gibt einen Preis, der sie kaufen wuerde, und Georgij nennt ihn nicht: *"There is a thing that would buy the line about people, and I am not going to tell you what it is."* Begruendung: *"It is a very large price and it buys a limit I do not think you will need for two years. If you ever do need it, you will think of it yourself in about four seconds, and then it is yours to offer. It is not mine to have put in your head in December."*
 
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 

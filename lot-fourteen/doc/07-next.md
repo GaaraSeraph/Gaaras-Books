@@ -69,7 +69,14 @@ Bezahlung. Die Bitte steht weiter offen.
 
 1. ~~**Tag 45 nachreichen.**~~ **Erledigt, und zwar ohne Szene.** Der Tag ist dreimal im Text abgedeckt und braucht keine eigene: Kapitel 16 (*"He had pulled the second section ... the previous afternoon"*), Kapitel 17 im Wortlaut an Annie, und Kapitel 20 (*"And the lease is signed. Monday, in front of her, and she did not have to ask me twice"*). Nicht jeder Kalendertag braucht ein Kapitel; dieser ist erwaehnt worden, wo er gebraucht wurde.
 2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
-3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
+3. ~~**Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.~~ **Erledigt in Kapitel 26 (die sechs) und 30 (Ye-rin).**
+
+    **Zwei Abweichungen vom Plan darunter, und der Text hat recht:**
+
+    - Der Plan sagte, Georgij sehe Ye-rin **zum ersten Mal im Januar, allein**. Geschrieben ist der 16. Dezember auf Hanas Terrasse, zweiundzwanzig Minuten. Der Grund steht im Kapitel: Der eine Versuch wird nicht aufgehoben, sondern ausgegeben, sobald er nicht mehr scheitern kann, und nach dem Kim-Gespräch kann er das.
+    - Die Veto-Grenze sollte **vertagt und nicht ausgesprochen** werden. Sie wird ausgesprochen, weil die Szene ohne sie nichts zu verlieren hat, und dann vertagt. Alles darunter ist unverändert eingelöst: beide Zahlungsmittel wertlos, beide mit Begründung abgelehnt, der ausreichende Preis genannt und nicht benannt.
+
+    **Was daraus offen bleibt:** Georgij hat ihr auf die Frage *"So they become staff"* mit **Ja** geantwortet. Wenn das Vetorecht anfängt zu beissen, kommt sie von selbst zurück, und sie weiss dann schon, dass er es ihr im Dezember gesagt hat. Der ungenannte Preis liegt bereit und gehört ihr zum Anbieten, nicht ihm zum Vorschlagen.
 
     **Und der Punkt, an dem der ganze Plan hängt: Ye-rin ist nicht gefragt worden, und man kann sie nur einmal fragen.**
 
