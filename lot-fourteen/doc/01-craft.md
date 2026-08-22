@@ -658,6 +658,35 @@ Dieselbe Zahl nicht zu oft. Elf und neun sind im Buch bereits stark belastet.
 Wenn eine Zahl tragend ist, etwa vier Waende und vier Schweigen, muessen die
 beilaeufigen Vieren weichen.
 
+**Und die teure Regel: eine Zahl aus einem Dokument wird nachgerechnet, nicht
+nachgeschlagen.** Am 23. August haben an einem einzigen Tag **zwei**
+Hilfsdokumente ihren eigenen Fehler in den Text geschrieben.
+
+**Die Fahrerwoche.** Die Tabelle in `doc/05-continuity.md` liess die Woche vom
+6. bis 12. Dezember aus und beschriftete die folgende darum falsch. Kapitel 29
+stand danach auf *"Mr Ku had him at the gate at six, which was his week"*,
+waehrend Kapitel 28 drei Tage vorher, am Wechseltag selbst, Mr Pyo fahren
+liess. Zwei Kapitel nebeneinander, zwei Fahrer in derselben Woche.
+
+**Die Kim-Anteile.** `doc/04-world.md` schrieb *"41,4 Prozent verteilt auf sechs
+Leute"*. Kapitel 15 zaehlt sie einzeln auf und ist Kanon: elf, neun, sieben,
+sechs, vier, vier. **Das sind 41.** Die 1,4 sind Ye-rins eigene und kommen
+obendrauf. Aus dem Dokument wanderte die falsche Summe in Kapitel 30 und in
+Kapitel 31, beide Male in einen betonten Satz.
+
+**Was beide Faelle gemeinsam haben:** Das Dokument wurde *gelesen* und nicht
+*geprueft*. In `doc/07-next.md` stand sogar ausdruecklich "Ihre Zahlen, gegen
+`doc/04-world.md` geprueft" - ein Dokument gegen ein Dokument, und addiert hat
+nie jemand. **Ein Hilfsmittel, das gegen den Text gehalten wird, muss selbst
+gegen den Text geprueft werden**, sonst schreibt es den Fehler hinein, statt
+ihn zu finden.
+
+**Und was `check.py` daraus bekommen hat:** eine Liste `WRONG_PHRASES`, fuer
+Wendungen, die einmal falsch dastanden und nie wiederkommen duerfen. Der erste
+Versuch war ein Eintrag in `FACTS` - und der war **toter Code**, weil `QUANTITY`
+bei *"forty-one per cent"* das Substantiv als `per` liest. Er lief still und sah
+nach Schutz aus. Erst die vorgeschriebene Gegenprobe hat ihn auffliegen lassen.
+
 ### Zuletzt
 
 **Der Titel wird nach dem Schreiben aus dem fertigen Text gezogen**, nie

@@ -1,5 +1,5 @@
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -261,7 +261,7 @@ He did not answer at once.
 
 "There is nothing that needs to happen tonight."
 
-"You heard me." She was not letting it go. "You have brought me forty-one point four per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
+"You heard me." She was not letting it go. "You have brought me forty-one per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
 
 ---
 

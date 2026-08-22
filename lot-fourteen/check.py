@@ -41,6 +41,18 @@ NUM = {w: i for i, w in enumerate(
 NUM.update({"thirty": 30, "forty": 40, "fifty": 50,
             "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90})
 
+# Wendungen, die schon einmal falsch im Text standen und nie wiederkommen
+# duerfen. FACTS kann das nicht leisten: QUANTITY liest bei "forty-one per
+# cent" das Substantiv als "per", ein Eintrag dort ist also toter Code. Erst
+# die Gegenprobe hat das gezeigt - er lief still und sah nach Schutz aus.
+WRONG_PHRASES = [
+    ("forty-one point four per cent",
+     "Die sechs halten 41 Prozent. Kapitel 15 zaehlt sie einzeln auf: elf, "
+     "neun, sieben, sechs, vier, vier. Ye-rins eigene 1,4 kommen obendrauf "
+     "und nicht hinein. Die 41,4 entstanden in doc/04-world.md, wo ihre 1,4 "
+     "in die Summe der sechs geraten sind, ohne dass jemand addiert hat."),
+]
+
 SELF_COMMENT = [
     "not going to pretend", "would like to be careful", "saying so before I say it",
     "am glad you called it", "I will say so",
@@ -91,6 +103,10 @@ def check(path):
 
     if re.search(r"[\u2014\u2013]", t):
         errs.append("Gedankenstrich gefunden. Nur Bindestriche.")
+
+    for phrase, why in WRONG_PHRASES:
+        if phrase in t:
+            errs.append(f'Verbotene Wendung "{phrase}": {why}')
 
     # Erst in Absaetze, dann in Saetze. Ein Satz laeuft nie ueber eine
     # Leerzeile. Vorher wurde der ganze Text am Stueck geteilt, und weil der

@@ -152,7 +152,7 @@ Und das ist das Schlimmste daran: Sang-hoon hat sich kein Verbrechen ausgedacht,
 
 **Wann die Kims es erfahren.** Früh, vollständig, und aus Georgijs Mund, nicht aus Annies. Sie schickt ihn genau deshalb. **Nicht auf der Gala.** Dort ist die Familie vollzählig und gut gelaunt, weil eine Familie unter Zollermittlung genau das tun muss, und Kim Do-yun steht mitten darin.
 
-**Woher Kim Ye-rins Macht kommt.** Sie hält selbst **1,4 Prozent**. Der Bruder hat elf, zwei Cousins neun und sieben, eine Schwägerin sechs, zwei Neffen je vier. Das sind 41,4 Prozent verteilt auf sechs Leute, von denen keiner eine Bilanz lesen kann und keiner seit 2009 gegen sie gestimmt hat. Sie macht die Familienfinanzen, seit der Vater gestorben ist, sie hat jeden von ihnen einmal getragen, und alle rufen vor jeder Unterschrift bei ihr an.
+**Woher Kim Ye-rins Macht kommt.** Sie hält selbst **1,4 Prozent**. Der Bruder hat elf, zwei Cousins neun und sieben, eine Schwägerin sechs, zwei Neffen je vier. Das sind **41 Prozent** verteilt auf sechs Leute - ihre eigenen 1,4 kommen obendrauf, nicht hinein, die Familie haelt also 42,4 -, von denen keiner eine Bilanz lesen kann und keiner seit 2009 gegen sie gestimmt hat. Sie macht die Familienfinanzen, seit der Vater gestorben ist, sie hat jeden von ihnen einmal getragen, und alle rufen vor jeder Unterschrift bei ihr an.
 
 Deshalb hat in zwanzig Jahren niemand sie zu einer Unterschrift bewegt: **Sie muss nie unterschreiben, sie sagt anderen, was die unterschreiben.**
 

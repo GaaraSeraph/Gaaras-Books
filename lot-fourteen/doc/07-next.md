@@ -82,7 +82,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
     Hana sagt es in Kapitel 15 im Wortlaut: *"Not quickly and not twice. Once."* Dazu, zwei Repliken vorher: *"In twenty years nobody has been able to make that woman sign anything, because she has never once needed to. She tells other people what to sign."*
 
-    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen 41,4 Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
+    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen **41** Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
 
     **Woraus die Reihenfolge folgt.** Ein einziger Versuch heisst: Er wird ausgegeben, wenn er nicht mehr scheitern kann, und keinen Tag früher. Vorher müssen stehen:
 
@@ -127,7 +127,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
     **Das dreht Georgijs grösste Angst in seinen grössten Vorteil.** Er glaubt seit Wochen, er müsse ihr sagen, dass sie informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört. Sie wartet seit zwanzig Jahren darauf, dass es endlich jemand hinschreibt. Er kann das nicht sehen, weil er selbst nichts besitzt und nirgends verzeichnet ist.
 
-    **Das Instrument.** Eine Stimmbindung: die sechs binden ihre 41,4 Prozent zu einem Block, und der Block wird von einer namentlich genannten Person angewiesen. Das erste Dokument seit zwanzig Jahren, in dem ihr Name steht.
+    **Das Instrument.** Eine Stimmbindung: die sechs binden ihre 41 Prozent zu einem Block, und der Block wird von einer namentlich genannten Person angewiesen. Das erste Dokument seit zwanzig Jahren, in dem ihr Name steht.
 
     **Und der Preis, den Georgij ihr im selben Atemzug nennen muss**, weil er ihn immer nennt: Solange sie unsichtbar ist, muss Sang-hoon **sechs Leute** kaufen. Aufgeschrieben muss er **eine brechen**. Sie wird zur benannten Sollbruchstelle, auf Papier, mit Datum.
 

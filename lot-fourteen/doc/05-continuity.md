@@ -140,8 +140,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 31** *A number and a date* (v1.1) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
-- **Kapitel 30** *Who do they telephone* (v1.4) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 31** *A number and a date* (v1.2) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
+- **Kapitel 30** *Who do they telephone* (v1.5) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -149,7 +149,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Frage ist Woos Frage, uebersetzt.** Bei Woo galt sie einem Gegenstand, bei ihr einer Funktion: **"When you do not answer the telephone any more, who do they call?"** Ihre Antwort kommt flach und sofort, weil sie seit dreizehn Jahren fertig dasteht: **"Nobody."**
 
-  **Was sie bekommt:** Die sechs binden ihre 41,4 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
+  **Was sie bekommt:** Die sechs binden ihre 41 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
 
   **Der Preis, im selben Atemzug genannt, bevor sie ihn selbst findet:** Unsichtbar muss Sang-hoon sechs Leute kaufen. Aufgeschrieben muss er **eine brechen**. *"You become the place to press. I would rather you heard that from me on a terrace than worked it out in March."* - *"You are very bad at selling things."* - *"I am extremely good at selling things. This is the other one."*
 

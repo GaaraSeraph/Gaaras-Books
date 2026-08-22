@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 69.716 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 70.002 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -799,6 +799,35 @@ Dieselbe Zahl nicht zu oft. Elf und neun sind im Buch bereits stark belastet.
 Wenn eine Zahl tragend ist, etwa vier Waende und vier Schweigen, muessen die
 beilaeufigen Vieren weichen.
 
+**Und die teure Regel: eine Zahl aus einem Dokument wird nachgerechnet, nicht
+nachgeschlagen.** Am 23. August haben an einem einzigen Tag **zwei**
+Hilfsdokumente ihren eigenen Fehler in den Text geschrieben.
+
+**Die Fahrerwoche.** Die Tabelle in `doc/05-continuity.md` liess die Woche vom
+6. bis 12. Dezember aus und beschriftete die folgende darum falsch. Kapitel 29
+stand danach auf *"Mr Ku had him at the gate at six, which was his week"*,
+waehrend Kapitel 28 drei Tage vorher, am Wechseltag selbst, Mr Pyo fahren
+liess. Zwei Kapitel nebeneinander, zwei Fahrer in derselben Woche.
+
+**Die Kim-Anteile.** `doc/04-world.md` schrieb *"41,4 Prozent verteilt auf sechs
+Leute"*. Kapitel 15 zaehlt sie einzeln auf und ist Kanon: elf, neun, sieben,
+sechs, vier, vier. **Das sind 41.** Die 1,4 sind Ye-rins eigene und kommen
+obendrauf. Aus dem Dokument wanderte die falsche Summe in Kapitel 30 und in
+Kapitel 31, beide Male in einen betonten Satz.
+
+**Was beide Faelle gemeinsam haben:** Das Dokument wurde *gelesen* und nicht
+*geprueft*. In `doc/07-next.md` stand sogar ausdruecklich "Ihre Zahlen, gegen
+`doc/04-world.md` geprueft" - ein Dokument gegen ein Dokument, und addiert hat
+nie jemand. **Ein Hilfsmittel, das gegen den Text gehalten wird, muss selbst
+gegen den Text geprueft werden**, sonst schreibt es den Fehler hinein, statt
+ihn zu finden.
+
+**Und was `check.py` daraus bekommen hat:** eine Liste `WRONG_PHRASES`, fuer
+Wendungen, die einmal falsch dastanden und nie wiederkommen duerfen. Der erste
+Versuch war ein Eintrag in `FACTS` - und der war **toter Code**, weil `QUANTITY`
+bei *"forty-one per cent"* das Substantiv als `per` liest. Er lief still und sah
+nach Schutz aus. Erst die vorgeschriebene Gegenprobe hat ihn auffliegen lassen.
+
 ### Zuletzt
 
 **Der Titel wird nach dem Schreiben aus dem fertigen Text gezogen**, nie
@@ -1167,7 +1196,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
 
-**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
 *Kanon, Kapitel 9 und 14.*
 
 **Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
@@ -1402,7 +1431,7 @@ Und das ist das Schlimmste daran: Sang-hoon hat sich kein Verbrechen ausgedacht,
 
 **Wann die Kims es erfahren.** Früh, vollständig, und aus Georgijs Mund, nicht aus Annies. Sie schickt ihn genau deshalb. **Nicht auf der Gala.** Dort ist die Familie vollzählig und gut gelaunt, weil eine Familie unter Zollermittlung genau das tun muss, und Kim Do-yun steht mitten darin.
 
-**Woher Kim Ye-rins Macht kommt.** Sie hält selbst **1,4 Prozent**. Der Bruder hat elf, zwei Cousins neun und sieben, eine Schwägerin sechs, zwei Neffen je vier. Das sind 41,4 Prozent verteilt auf sechs Leute, von denen keiner eine Bilanz lesen kann und keiner seit 2009 gegen sie gestimmt hat. Sie macht die Familienfinanzen, seit der Vater gestorben ist, sie hat jeden von ihnen einmal getragen, und alle rufen vor jeder Unterschrift bei ihr an.
+**Woher Kim Ye-rins Macht kommt.** Sie hält selbst **1,4 Prozent**. Der Bruder hat elf, zwei Cousins neun und sieben, eine Schwägerin sechs, zwei Neffen je vier. Das sind **41 Prozent** verteilt auf sechs Leute - ihre eigenen 1,4 kommen obendrauf, nicht hinein, die Familie haelt also 42,4 -, von denen keiner eine Bilanz lesen kann und keiner seit 2009 gegen sie gestimmt hat. Sie macht die Familienfinanzen, seit der Vater gestorben ist, sie hat jeden von ihnen einmal getragen, und alle rufen vor jeder Unterschrift bei ihr an.
 
 Deshalb hat in zwanzig Jahren niemand sie zu einer Unterschrift bewegt: **Sie muss nie unterschreiben, sie sagt anderen, was die unterschreiben.**
 
@@ -1618,8 +1647,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 31** *A number and a date* (v1.1) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
-- **Kapitel 30** *Who do they telephone* (v1.4) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 31** *A number and a date* (v1.2) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
+- **Kapitel 30** *Who do they telephone* (v1.5) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -1627,7 +1656,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Frage ist Woos Frage, uebersetzt.** Bei Woo galt sie einem Gegenstand, bei ihr einer Funktion: **"When you do not answer the telephone any more, who do they call?"** Ihre Antwort kommt flach und sofort, weil sie seit dreizehn Jahren fertig dasteht: **"Nobody."**
 
-  **Was sie bekommt:** Die sechs binden ihre 41,4 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
+  **Was sie bekommt:** Die sechs binden ihre 41 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
 
   **Der Preis, im selben Atemzug genannt, bevor sie ihn selbst findet:** Unsichtbar muss Sang-hoon sechs Leute kaufen. Aufgeschrieben muss er **eine brechen**. *"You become the place to press. I would rather you heard that from me on a terrace than worked it out in March."* - *"You are very bad at selling things."* - *"I am extremely good at selling things. This is the other one."*
 
@@ -2783,7 +2812,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
     Hana sagt es in Kapitel 15 im Wortlaut: *"Not quickly and not twice. Once."* Dazu, zwei Repliken vorher: *"In twenty years nobody has been able to make that woman sign anything, because she has never once needed to. She tells other people what to sign."*
 
-    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen 41,4 Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
+    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen **41** Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
 
     **Woraus die Reihenfolge folgt.** Ein einziger Versuch heisst: Er wird ausgegeben, wenn er nicht mehr scheitern kann, und keinen Tag früher. Vorher müssen stehen:
 
@@ -2828,7 +2857,7 @@ Bezahlung. Die Bitte steht weiter offen.
 
     **Das dreht Georgijs grösste Angst in seinen grössten Vorteil.** Er glaubt seit Wochen, er müsse ihr sagen, dass sie informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört. Sie wartet seit zwanzig Jahren darauf, dass es endlich jemand hinschreibt. Er kann das nicht sehen, weil er selbst nichts besitzt und nirgends verzeichnet ist.
 
-    **Das Instrument.** Eine Stimmbindung: die sechs binden ihre 41,4 Prozent zu einem Block, und der Block wird von einer namentlich genannten Person angewiesen. Das erste Dokument seit zwanzig Jahren, in dem ihr Name steht.
+    **Das Instrument.** Eine Stimmbindung: die sechs binden ihre 41 Prozent zu einem Block, und der Block wird von einer namentlich genannten Person angewiesen. Das erste Dokument seit zwanzig Jahren, in dem ihr Name steht.
 
     **Und der Preis, den Georgij ihr im selben Atemzug nennen muss**, weil er ihn immer nennt: Solange sie unsichtbar ist, muss Sang-hoon **sechs Leute** kaufen. Aufgeschrieben muss er **eine brechen**. Sie wird zur benannten Sollbruchstelle, auf Papier, mit Datum.
 

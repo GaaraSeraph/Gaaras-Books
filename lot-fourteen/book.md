@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-31 Kapitel. 90.857 Woerter.
+31 Kapitel. 90.853 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -38,8 +38,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 27 | v3.1 | 3.107 |
 | 28 | v1.1 | 2.687 |
 | 29 | v1.2 | 2.007 |
-| 30 | v1.4 | 3.519 |
-| 31 | v1.1 | 3.255 |
+| 30 | v1.5 | 3.517 |
+| 31 | v1.2 | 3.253 |
 
 ---
 
@@ -9091,7 +9091,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9291,7 +9291,7 @@ Georgij let that stand for as long as it needed.
 
 ---
 
-"The six bind their forty-one point four per cent into one block," he said. "The block votes as one. And it is directed by a named person, in the document, with her name written on it."
+"The six bind their forty-one per cent into one block," he said. "The block votes as one. And it is directed by a named person, in the document, with her name written on it."
 
 "Mine."
 
@@ -9526,7 +9526,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9788,7 +9788,7 @@ He did not answer at once.
 
 "There is nothing that needs to happen tonight."
 
-"You heard me." She was not letting it go. "You have brought me forty-one point four per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
+"You heard me." She was not letting it go. "You have brought me forty-one per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
 
 ---
 

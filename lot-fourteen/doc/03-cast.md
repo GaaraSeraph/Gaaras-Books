@@ -144,7 +144,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
 
-**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
 *Kanon, Kapitel 9 und 14.*
 
 **Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
