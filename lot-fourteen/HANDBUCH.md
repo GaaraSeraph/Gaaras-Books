@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 44.497 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 44.773 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -34,6 +34,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Quid pro quo](#quid-pro-quo)
   - [Die Legende: der Berater](#die-legende-der-berater)
   - [Charme als Werkzeug](#charme-als-werkzeug)
+  - [Bei Verbündeten läuft kein Verfahren](#bei-verb-ndeten-l-uft-kein-verfahren)
   - [Das Auge: warum, und warum nicht die Kehle](#das-auge-warum-und-warum-nicht-die-kehle)
 - [Der uebrige Cast](#der-uebrige-cast)  ·  `doc/03-cast.md`
   - [Im Haus](#im-haus)
@@ -525,7 +526,7 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 - **Das Ausgehen des Lächelns.** Seltener und wertvoller als jedes Lächeln. Wenn ihm jemand etwas Echtes sagt, geht es aus, und der andere merkt sofort, dass er gerade etwas auf den Tisch gelegt hat. Bei Chairman Woo und den zehn Monaten.
 - **Gar keins.** Vor jemandem, der noch entscheidet, was man ist. Ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung. Bei der jungen Frau an der Bar, Kapitel 7 und 8. **Nicht bei Mrs Ryu** - dort steht kein Wort über ein Lächeln, sie bekommt eine ernst gemeinte Frage und gibt dafür sechs Minuten.
 - **Exakt gespiegelt.** Genau so warm wie das, was der andere mitgebracht hat, und kein Grad wärmer. Bei Mrs Sunwoo, die ihn aus der Auktion kennt.
-- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang. Es wird im Lauf des Buches häufiger, und das ist Absicht.
+- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang, und seit Kapitel 19 bei Chairman Woo. **Korrigiert am 22.08.:** Hier stand, es werde im Lauf des Buches häufiger. Das ist nachgezählt falsch. Es steht in Kapitel 3 (zweimal), 6, 7 und 9 und danach acht Kapitel lang nicht mehr, weil der Haushalt aus dem Buch verschwindet. Kapitel 19 ist die erste Wiederaufnahme. Der volle Befund steht in `doc/05-continuity.md`.
 - **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
 - **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
@@ -533,6 +534,22 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 **Merke:** Das Lächeln ist zwischen Kapitel 8 und 13 fast verschwunden. Es gehört zu seinem Werkzeugkasten und muss benutzt werden, sonst verkümmert die Figur zu einem Berichterstatter.
 
 **Bei Frauen** nicht das Kleid, sondern die Entscheidung, und zwar auf derselben Höhe, auf der man sonst das Aussehen lobt.
+
+### Bei Verbündeten läuft kein Verfahren
+
+**Das Verfahren zielt auf Leute, die noch entscheiden, was er ist.** Wo jemand das nicht mehr entscheidet, hört es auf. Bisher ist das genau eine Figur: Chairman Woo.
+
+Beim Schreiben von Kapitel 19 mussten drei Stellen in dieselbe Richtung korrigiert werden, und alle drei waren derselbe Fehler:
+
+- **Das Lächeln.** Es geht an Woo, und es holt nichts, obwohl Georgij an diesem Nachmittag etwas von ihm will. Das geht nur, weil beide gewinnen sollen.
+- **Der Preis.** Georgij nennt ihn nicht und schlägt keine Spanne vor. Woo nennt seine Bedingungen selbst, und Georgij hat das Papier dazu dabei.
+- **Die Aufforderung.** Eine erste Fassung liess Georgij sagen: *You say it. Tell me what you want.* Gestrichen. **Eine Einladung ist auch ein Manöver**, und sie stiehlt dem Alten den Zug, den er ohnehin gemacht hätte.
+
+**Die Regel:** Bei einem Verbündeten antwortet Georgij, legt vor und sagt die Wahrheit. Er lenkt nicht, überlässt den Zug nicht als Geste, und hält nichts zurück, um gefragt zu werden. Was in diesen Szenen wie Technik aussieht, ist ihre Abwesenheit, und es ist die einzige Stelle im Buch, an der er nicht arbeitet.
+
+**Die Probe:** Wenn ein Satz in einer Woo-Szene sich als Zug beschreiben lässt, ist er falsch.
+
+**Und der Preis dafür**, damit es keine Belohnung wird: Genau in dieser Szene bekommt er die Rechnung aufgemacht, die er selbst nicht zu Ende gelesen hat. Wer nicht arbeitet, ist auch nicht gedeckt.
 
 **Bei den Jungen** am stärksten. Vor Leuten, die niemand zählt, bewacht niemand den Mund.
 
@@ -1015,7 +1032,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.1) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.2) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.1) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.5) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.13) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
@@ -2483,7 +2500,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 186 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 69 | 10 (07-19) | 22 | 48 |
+| Chairman Woo | 68 | 10 (07-19) | 22 | 48 |
 | Park Sang-hoon | 54 | 9 (10-19) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
@@ -2872,7 +2889,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-69 Nennungen in 10 Kapiteln.
+68 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2926,25 +2943,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:56 | Chairman Woo looked out at the water. |
 | 48 | ch19:64 | "You want something," said Woo. |
 | 48 | ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
-| 48 | ch19:94 | Chairman Woo looked at him for a moment. |
-| 48 | ch19:110 | Chairman Woo did not pick the paper up straight away. |
-| 48 | ch19:138 | Woo put the paper down and looked at him. |
-| 48 | ch19:154 | Chairman Woo did not say anything. |
-| 48 | ch19:168 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
-| 48 | ch19:182 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
-| 48 | ch19:192 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
-| 48 | ch19:204 | The tea came, and it was terrible, and Woo drank two cups of it. |
-| 48 | ch19:216 | Chairman Woo unfolded the sheet. |
-| 48 | ch19:230 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
-| 48 | ch19:250 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
-| 48 | ch19:260 | Chairman Woo poured the last of the tea. |
-| 48 | ch19:272 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | ch19:286 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
-| 48 | ch19:298 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | ch19:308 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
-| 48 | ch19:318 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
-| 48 | ch19:324 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | ch19:332 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
+| 48 | ch19:104 | Chairman Woo did not pick the paper up straight away. |
+| 48 | ch19:132 | Woo put the paper down and looked at him. |
+| 48 | ch19:148 | Chairman Woo did not say anything. |
+| 48 | ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
+| 48 | ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
+| 48 | ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
+| 48 | ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
+| 48 | ch19:210 | Chairman Woo unfolded the sheet. |
+| 48 | ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
+| 48 | ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
+| 48 | ch19:254 | Chairman Woo poured the last of the tea. |
+| 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
+| 48 | ch19:280 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
+| 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
+| 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
+| 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
+| 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
+| 48 | ch19:326 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -2970,15 +2986,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:144` (Tag 34) - fifty-one
 - `ch18:274` (Tag 48) - nine, one, three
 - `ch19:16` (Tag 48) - fifty
-- `ch19:168` (Tag 48) - three, twenty
-- `ch19:182` (Tag 48) - fifty-one
-- `ch19:192` (Tag 48) - two
-- `ch19:204` (Tag 48) - two
-- `ch19:230` (Tag 48) - one
-- `ch19:286` (Tag 48) - nineteen
-- `ch19:318` (Tag 48) - five
-- `ch19:324` (Tag 48) - two
-- `ch19:332` (Tag 48) - one
+- `ch19:162` (Tag 48) - three, twenty
+- `ch19:176` (Tag 48) - fifty-one
+- `ch19:186` (Tag 48) - two
+- `ch19:198` (Tag 48) - two
+- `ch19:224` (Tag 48) - one
+- `ch19:280` (Tag 48) - nineteen
+- `ch19:312` (Tag 48) - five
+- `ch19:318` (Tag 48) - two
+- `ch19:326` (Tag 48) - one
 
 ---
 
@@ -3041,7 +3057,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
 | 48 | ch18:212 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
 | 48 | ch18:236 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
-| 48 | ch19:296 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
+| 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -3067,7 +3083,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:70` (Tag 48) - four
 - `ch18:212` (Tag 48) - one, three
 - `ch18:236` (Tag 48) - ten, three
-- `ch19:296` (Tag 48) - one
+- `ch19:290` (Tag 48) - one
 
 ---
 

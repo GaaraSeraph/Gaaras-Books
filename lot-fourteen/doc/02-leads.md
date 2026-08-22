@@ -113,7 +113,7 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 - **Das Ausgehen des Lächelns.** Seltener und wertvoller als jedes Lächeln. Wenn ihm jemand etwas Echtes sagt, geht es aus, und der andere merkt sofort, dass er gerade etwas auf den Tisch gelegt hat. Bei Chairman Woo und den zehn Monaten.
 - **Gar keins.** Vor jemandem, der noch entscheidet, was man ist. Ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung. Bei der jungen Frau an der Bar, Kapitel 7 und 8. **Nicht bei Mrs Ryu** - dort steht kein Wort über ein Lächeln, sie bekommt eine ernst gemeinte Frage und gibt dafür sechs Minuten.
 - **Exakt gespiegelt.** Genau so warm wie das, was der andere mitgebracht hat, und kein Grad wärmer. Bei Mrs Sunwoo, die ihn aus der Auktion kennt.
-- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang. Es wird im Lauf des Buches häufiger, und das ist Absicht.
+- **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang, und seit Kapitel 19 bei Chairman Woo. **Korrigiert am 22.08.:** Hier stand, es werde im Lauf des Buches häufiger. Das ist nachgezählt falsch. Es steht in Kapitel 3 (zweimal), 6, 7 und 9 und danach acht Kapitel lang nicht mehr, weil der Haushalt aus dem Buch verschwindet. Kapitel 19 ist die erste Wiederaufnahme. Der volle Befund steht in `doc/05-continuity.md`.
 - **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
 - **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
@@ -121,6 +121,22 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 **Merke:** Das Lächeln ist zwischen Kapitel 8 und 13 fast verschwunden. Es gehört zu seinem Werkzeugkasten und muss benutzt werden, sonst verkümmert die Figur zu einem Berichterstatter.
 
 **Bei Frauen** nicht das Kleid, sondern die Entscheidung, und zwar auf derselben Höhe, auf der man sonst das Aussehen lobt.
+
+### Bei Verbündeten läuft kein Verfahren
+
+**Das Verfahren zielt auf Leute, die noch entscheiden, was er ist.** Wo jemand das nicht mehr entscheidet, hört es auf. Bisher ist das genau eine Figur: Chairman Woo.
+
+Beim Schreiben von Kapitel 19 mussten drei Stellen in dieselbe Richtung korrigiert werden, und alle drei waren derselbe Fehler:
+
+- **Das Lächeln.** Es geht an Woo, und es holt nichts, obwohl Georgij an diesem Nachmittag etwas von ihm will. Das geht nur, weil beide gewinnen sollen.
+- **Der Preis.** Georgij nennt ihn nicht und schlägt keine Spanne vor. Woo nennt seine Bedingungen selbst, und Georgij hat das Papier dazu dabei.
+- **Die Aufforderung.** Eine erste Fassung liess Georgij sagen: *You say it. Tell me what you want.* Gestrichen. **Eine Einladung ist auch ein Manöver**, und sie stiehlt dem Alten den Zug, den er ohnehin gemacht hätte.
+
+**Die Regel:** Bei einem Verbündeten antwortet Georgij, legt vor und sagt die Wahrheit. Er lenkt nicht, überlässt den Zug nicht als Geste, und hält nichts zurück, um gefragt zu werden. Was in diesen Szenen wie Technik aussieht, ist ihre Abwesenheit, und es ist die einzige Stelle im Buch, an der er nicht arbeitet.
+
+**Die Probe:** Wenn ein Satz in einer Woo-Szene sich als Zug beschreiben lässt, ist er falsch.
+
+**Und der Preis dafür**, damit es keine Belohnung wird: Genau in dieser Szene bekommt er die Rechnung aufgemacht, die er selbst nicht zu Ende gelesen hat. Wer nicht arbeitet, ist auch nicht gedeckt.
 
 **Bei den Jungen** am stärksten. Vor Leuten, die niemand zählt, bewacht niemand den Mund.
 

@@ -20,7 +20,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 186 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 69 | 10 (07-19) | 22 | 48 |
+| Chairman Woo | 68 | 10 (07-19) | 22 | 48 |
 | Park Sang-hoon | 54 | 9 (10-19) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
@@ -409,7 +409,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-69 Nennungen in 10 Kapiteln.
+68 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -463,25 +463,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:56 | Chairman Woo looked out at the water. |
 | 48 | ch19:64 | "You want something," said Woo. |
 | 48 | ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
-| 48 | ch19:94 | Chairman Woo looked at him for a moment. |
-| 48 | ch19:110 | Chairman Woo did not pick the paper up straight away. |
-| 48 | ch19:138 | Woo put the paper down and looked at him. |
-| 48 | ch19:154 | Chairman Woo did not say anything. |
-| 48 | ch19:168 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
-| 48 | ch19:182 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
-| 48 | ch19:192 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
-| 48 | ch19:204 | The tea came, and it was terrible, and Woo drank two cups of it. |
-| 48 | ch19:216 | Chairman Woo unfolded the sheet. |
-| 48 | ch19:230 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
-| 48 | ch19:250 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
-| 48 | ch19:260 | Chairman Woo poured the last of the tea. |
-| 48 | ch19:272 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | ch19:286 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
-| 48 | ch19:298 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | ch19:308 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
-| 48 | ch19:318 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
-| 48 | ch19:324 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | ch19:332 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
+| 48 | ch19:104 | Chairman Woo did not pick the paper up straight away. |
+| 48 | ch19:132 | Woo put the paper down and looked at him. |
+| 48 | ch19:148 | Chairman Woo did not say anything. |
+| 48 | ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
+| 48 | ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
+| 48 | ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
+| 48 | ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
+| 48 | ch19:210 | Chairman Woo unfolded the sheet. |
+| 48 | ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
+| 48 | ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
+| 48 | ch19:254 | Chairman Woo poured the last of the tea. |
+| 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
+| 48 | ch19:280 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
+| 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
+| 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
+| 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
+| 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
+| 48 | ch19:326 | "You have not got one either." Woo looked at him for slightly too long, in a way that wa.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -507,15 +506,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:144` (Tag 34) - fifty-one
 - `ch18:274` (Tag 48) - nine, one, three
 - `ch19:16` (Tag 48) - fifty
-- `ch19:168` (Tag 48) - three, twenty
-- `ch19:182` (Tag 48) - fifty-one
-- `ch19:192` (Tag 48) - two
-- `ch19:204` (Tag 48) - two
-- `ch19:230` (Tag 48) - one
-- `ch19:286` (Tag 48) - nineteen
-- `ch19:318` (Tag 48) - five
-- `ch19:324` (Tag 48) - two
-- `ch19:332` (Tag 48) - one
+- `ch19:162` (Tag 48) - three, twenty
+- `ch19:176` (Tag 48) - fifty-one
+- `ch19:186` (Tag 48) - two
+- `ch19:198` (Tag 48) - two
+- `ch19:224` (Tag 48) - one
+- `ch19:280` (Tag 48) - nineteen
+- `ch19:312` (Tag 48) - five
+- `ch19:318` (Tag 48) - two
+- `ch19:326` (Tag 48) - one
 
 ---
 
@@ -578,7 +577,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:180 | "He did, and he asked me about it over a conversation about a ceiling, and I answered hi.. |
 | 48 | ch18:212 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
 | 48 | ch18:236 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
-| 48 | ch19:296 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
+| 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -604,7 +603,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch18:70` (Tag 48) - four
 - `ch18:212` (Tag 48) - one, three
 - `ch18:236` (Tag 48) - ten, three
-- `ch19:296` (Tag 48) - one
+- `ch19:290` (Tag 48) - one
 
 ---
 

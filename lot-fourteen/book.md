@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.117 Woerter.
+19 Kapitel. 57.054 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -27,7 +27,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 16 | v1.13 | 3.196 |
 | 17 | v12.5 | 2.686 |
 | 18 | v2.1 | 2.825 |
-| 19 | v1.1 | 3.266 |
+| 19 | v1.2 | 3.203 |
 
 ---
 
@@ -5450,7 +5450,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5538,17 +5538,11 @@ Woo sat down heavily, the way a man does when his back has an opinion.
 
 The old man did not move at all for a second and a half, which from him was a great deal.
 
-"Say the shape of it."
-
-"You say it." Georgij left the folder shut where it was. "You have been doing this since before I was born and I have been at it a very short time. Tell me what you want, and I will tell you whether I can give it to you."
-
-Chairman Woo looked at him for a moment.
-
 Then he said it the way a man reads out a delivery note, and it took him about twenty seconds.
 
 "Seven years and not ten. Minimum volumes in tonnes and not in money, because I have lived through two currency scares and you have not." He put one finger down on the desk. "And it attaches to this quay and not to me. When I am dead it is still here, and nobody sells it away from the concrete."
 
-Georgij opened the folder, took out the second of the three papers in it, and put it in front of him.
+Georgij opened the folder and put a contract on the desk in front of him.
 
 "Signed this morning."
 
@@ -5562,11 +5556,11 @@ Chairman Woo did not pick the paper up straight away.
 
 "You had it written."
 
-"I had three written. That is the one I thought you would ask for."
+"I have three of them with me." Georgij said it without any decoration anywhere. "That is the one you have just asked for."
 
-"And if I had wanted something else?"
+"And if I had asked for something else?"
 
-"Then you would have had one of the other two." He said it without any decoration anywhere. "And if you had wanted a fourth thing, I would have written it on this desk and she would have signed it in the morning, and I would have told you so instead of standing here implying otherwise."
+"Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning, and I would have told you so instead of standing here implying otherwise."
 
 ---
 
