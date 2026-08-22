@@ -4,6 +4,12 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- Injured in ch6: barbs across the right forearm and up under the arm into the
+  ribs, taken while pulling a man out of the road. Walks north with the arm
+  strapped across her body and the hatchet in her left hand.
+- She is the highest level in Oldstep, and in ch6 Gaara went past nine nearer
+  doors to wake hers because of it. A reason only he can have. Her alarm cry
+  then opened every door in the village, which his shouting had not.
 - Cuts wood at the ruin's edge because someone has to.
 - Tests honesty by making people repeat themselves: "Liars decorate."
 - Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
@@ -19,12 +25,30 @@ Hallvard, elder of Oldstep, NO PANEL
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution.
+- In the ch6 fight: stood in the open where nobody sensible stood, and put the
+  ferrule of his stick into a leg joint with a precision no farmer there had.
+- Afterwards, out of earshot of the village: "You were right about the road.
+  Nobody else in this village would have seen a killing ground in it." Then:
+  "It cost a man because you stood in the middle of it on your own. You had a
+  village. You used two." He was not angry, which was the worst part.
 - Terms of the deal: three days of bread, a whetstone, a place in the byre. Proof brought back from the ruin.
 
 Solva, Level 3
 - Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
 - Let him keep the boots.
 - Publicly on his side. "Nine weeks I've asked men to go and look. Not one of you went."
+
+Bern (ch6), about fifty
+- Came to Gaara's shoulder in the dark with a felling axe and shaking hands, and
+  gave his name before the fighting started: "That's my name. In case."
+- Took one of the small ones across the back with the axe and survived. The
+  first villager to stand next to Gaara rather than look at him.
+
+The man with the hoe (ch5, dead ch6), unnamed
+- In ch5 he held it the way you hold a tool, not a weapon, and then adjusted his
+  hands. In ch6 he came out to help and died holding it the same way.
+- He stays unnamed. He is the cost of a plan built for one man, and a name would
+  make him a character instead of a consequence.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody

@@ -5,6 +5,7 @@ ch02    2511 Woerter  ch02-first-blood-first-skill.md
 ch03    2466 Woerter  ch03-dead-mans-boots.md
 ch04    2172 Woerter  ch04-liars-decorate.md
 ch05    1697 Woerter  ch05-the-lamp-goes-out.md
+ch06    2494 Woerter  ch06-how-did-you-know.md
 
-Gesamt: 5 Kapitel, 11345 Woerter
+Gesamt: 6 Kapitel, 13839 Woerter
 Handbuch: 4 Dokumente

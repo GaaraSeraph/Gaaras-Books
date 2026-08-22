@@ -11,7 +11,7 @@ nicht diese Zeile von Hand.
 3. Dead Man's Boots
 4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
-6. (offen - wird neu entworfen)
+6. How Did You Know
 7. Every Plan I Make Is for One (planned)
 8. What Opened in Spring (planned)
 9. A Name for the Knife (planned)
@@ -117,7 +117,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 5). The story tags include Smut; the
+  No romance has started (as of Chapter 6). The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -141,6 +141,18 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch4) Other people have levels. He saw "Marit Halden, Level 6, Human" over her head at the end of the chapter. She saw nothing and reacted to nothing. So the numbers are the world's, not his gift. Whether anyone else has a panel is unknown.
 - (ch5) Villagers of Oldstep run from Level 2 to Level 6. Marit at 6 is the highest in the village.
 - (ch5) EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara has not yet worked through what it could mean; that thinking has no chapter to live in until 6 exists.
+
+- (ch6) Skills are broader than they sound. Dagger Mastery E governs sharpening,
+  grip and how the blade is carried, not only the thrust. His wrist finds the
+  angle on a whetstone he has never used. He reads this as the instrument
+  improving his hands without asking, the same way it put a language in him.
+- (ch6) Levels slow down, as promised. Level 3 arrived after two more kills, so
+  four in total, and it gave less than level 2 did: STR only, plus 2 free points
+  he has NOT spent. HP 165 to 185.
+- (ch6) The system has no opinion and no timing. It reported the level up while
+  a man lay dead four feet away and Gaara had a hand inside Marit's wound. It
+  would have reported exactly the same thing if the road had been empty. This is
+  the tool with a monopoly, made physical: see character-arc.md section 3.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
@@ -174,7 +186,25 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-The crawler problem (ch4, from Marit's account; detail added ch5)
+The night they came into Oldstep (ch6)
+- On Gaara's first night in the village, three Gloom Crawlers came down the old
+  paved road into Oldstep itself. Not by water, not at a ford: into the road,
+  between the houses. First time in living memory.
+- Gaara smelled them before anyone heard them, because he is the only person
+  here who has ever smelled one. He shouted a warning and two doors bolted.
+  The village answered Marit, not him.
+- They dislike fire. He used a burning woodpile to close one end of the road.
+  Worth exactly one use; they will have watched.
+- Losses: an unnamed man with a hoe, killed. Marit cut across the right forearm
+  and under the arm into the ribs. Gaara killed two, villagers finished the
+  third with axes.
+- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest two days
+  earlier, took boots, belt, pouch, firestone and coins out of it, and killed
+  two of them. Their kills go home with them. Asked in front of the whole
+  village whether he brought this on them, he said he cannot rule it out,
+  because he cannot and he does not lie. Do NOT resolve this cheaply either way.
+
+The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
 - Taken so far: two dogs, a boy who was fishing, a man with a cart, then Teodor. Teodor is the exception: he was not taken, he went in on purpose (ch4).
 - Something changed in spring. Cause unknown. This is the first arc.
@@ -226,7 +256,12 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.
 10. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
-12. VACANT. Held open for whatever the new Chapter 6 establishes. Do not renumber the threads below; the number is a reference, not a ranking.
+12. He plans for one body on the field, and it is his own. In ch6 he deliberately
+    let the big one through into twelve feet of road he had checked and found
+    empty. It was empty of everyone except the people who live there. A man died
+    in it and Marit was hurt pulling him out. Hallvard, quietly, afterwards: you
+    had a village, you used two. This is the live cost of the self-reliance rule
+    and it is now on the page, not in a plan.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
@@ -248,6 +283,10 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
+18. Hallvard in the dark. He stood in the open where nobody sensible stood, and
+    put the ferrule of his stick into a leg joint with a movement no farmer in
+    that road could have made. Gaara saw it, had no time for it, and filed it.
+    Sits directly beside thread 11 (no panel).
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.

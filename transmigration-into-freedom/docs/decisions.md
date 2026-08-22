@@ -3,6 +3,35 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 6 was thrown away and rebuilt as an attack ===
+The first Chapter 6 was a preparation chapter: a night in the byre, four
+witnesses delivering information, a map drawn in the dirt, and Marit at the gate
+in the morning. The author's verdict was that it was boring and the dialogue was
+interchangeable, and he was right. The diagnosis: every stake had already been
+settled in ch5, so nobody in the chapter wanted anything, and Marit spent the
+middle asking cue questions so that Gaara could explain the plot. It was deleted
+outright, along with everything it had put into the docs.
+Three directions were offered: the ruin as an investigation, a night visitor as
+pure intrigue, or the crawlers coming into the village. The author chose the
+attack, with the ruin held for ch7.
+Why it works where the old one did not: the reader had not seen a crawler since
+ch2 and three chapters of hearsay is what made everything after feel like
+preparation. The attack also spends things that were lying around unused - the
+split village from ch5 decides itself under load instead of in an argument, the
+never-lies rule finally costs him something in front of forty houses, and the
+stage 3 milestone lands among faces the reader already knows.
+The coincidence problem was solved by making it not a coincidence: he robbed
+their nest and killed two of them two days earlier, their kills go home with
+them, and he says so himself when asked. It is still not proven, and it must
+stay unproven.
+One scene was rejected by the author during planning and the fix was better than
+the original: Gaara was going to wake Marit because he lacked the words to raise
+a village. Nonsense - the translation works, he would simply shout. The real gap
+is not vocabulary, it is standing: he shouts the truth and gets two bolts, and
+he has to borrow her voice to be believed. And he picks her door over nine
+nearer ones for a reason nobody else in the world has, which is that he can see
+she is Level 6.
+
 === "Nothing" is a lie, and so is a borrowed doubt ===
 This reverses a call taken earlier the same day. Three evasions had been
 checked against the never-lies rule and kept, on the reading that "Nothing"

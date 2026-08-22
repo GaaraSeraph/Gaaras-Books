@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 5 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 7.512 Woerter.
+Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 8.740 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -21,6 +21,12 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- Injured in ch6: barbs across the right forearm and up under the arm into the
+  ribs, taken while pulling a man out of the road. Walks north with the arm
+  strapped across her body and the hatchet in her left hand.
+- She is the highest level in Oldstep, and in ch6 Gaara went past nine nearer
+  doors to wake hers because of it. A reason only he can have. Her alarm cry
+  then opened every door in the village, which his shouting had not.
 - Cuts wood at the ruin's edge because someone has to.
 - Tests honesty by making people repeat themselves: "Liars decorate."
 - Gave Gaara half her bread and cheese, then made him carry the wood. Handed his knife back hilt first, which he read as the real turning point.
@@ -36,12 +42,30 @@ Hallvard, elder of Oldstep, NO PANEL
 - Not cruel and not stupid. His case against Gaara is sound: a man with no origin walks out of the one place nobody walks out of, in the same year the crawlers started coming out, wearing their dead.
 - "I'm counting because I have forty houses and you have one."
 - Made Gaara sleep in the byre as a precaution.
+- In the ch6 fight: stood in the open where nobody sensible stood, and put the
+  ferrule of his stick into a leg joint with a precision no farmer there had.
+- Afterwards, out of earshot of the village: "You were right about the road.
+  Nobody else in this village would have seen a killing ground in it." Then:
+  "It cost a man because you stood in the middle of it on your own. You had a
+  village. You used two." He was not angry, which was the worst part.
 - Terms of the deal: three days of bread, a whetstone, a place in the byre. Proof brought back from the ruin.
 
 Solva, Level 3
 - Teodor's mother, about sixty. Left a lamp burning day and night since harvest and blew it out when Gaara told her.
 - Let him keep the boots.
 - Publicly on his side. "Nine weeks I've asked men to go and look. Not one of you went."
+
+Bern (ch6), about fifty
+- Came to Gaara's shoulder in the dark with a felling axe and shaking hands, and
+  gave his name before the fighting started: "That's my name. In case."
+- Took one of the small ones across the back with the axe and survived. The
+  first villager to stand next to Gaara rather than look at him.
+
+The man with the hoe (ch5, dead ch6), unnamed
+- In ch5 he held it the way you hold a tool, not a weapon, and then adjusted his
+  hands. In ch6 he came out to help and died holding it the same way.
+- He stays unnamed. He is the cost of a plan built for one man, and a name would
+  make him a character instead of a consequence.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
@@ -75,9 +99,12 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 5 (and into 6): The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
-Status: cracked, unacknowledged.
+In ch6 the bill is presented and somebody else pays it. He builds a good plan in
+two seconds with exactly one body in it, and the empty ground he counted on was
+only empty of him.
+Status: cracked, and named out loud by Hallvard.
 
 Stage 3, Chapters 7 to 12: Dependency as a live cost.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
@@ -153,6 +180,9 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
+Chapter 6: Level 3 after two more kills (four in total). HP 165 to 185. STR 12 to
+13, nothing else automatic, 2 unspent points he does not spend - he is holding a
+wound shut. MP still 60 and still untouched. Skill: still Dagger Mastery E.
 
 Pacing rules
 - Levels should get slower, not faster. Level 3 should cost more than two crawlers.
@@ -200,6 +230,35 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== Chapter 6 was thrown away and rebuilt as an attack ===
+The first Chapter 6 was a preparation chapter: a night in the byre, four
+witnesses delivering information, a map drawn in the dirt, and Marit at the gate
+in the morning. The author's verdict was that it was boring and the dialogue was
+interchangeable, and he was right. The diagnosis: every stake had already been
+settled in ch5, so nobody in the chapter wanted anything, and Marit spent the
+middle asking cue questions so that Gaara could explain the plot. It was deleted
+outright, along with everything it had put into the docs.
+Three directions were offered: the ruin as an investigation, a night visitor as
+pure intrigue, or the crawlers coming into the village. The author chose the
+attack, with the ruin held for ch7.
+Why it works where the old one did not: the reader had not seen a crawler since
+ch2 and three chapters of hearsay is what made everything after feel like
+preparation. The attack also spends things that were lying around unused - the
+split village from ch5 decides itself under load instead of in an argument, the
+never-lies rule finally costs him something in front of forty houses, and the
+stage 3 milestone lands among faces the reader already knows.
+The coincidence problem was solved by making it not a coincidence: he robbed
+their nest and killed two of them two days earlier, their kills go home with
+them, and he says so himself when asked. It is still not proven, and it must
+stay unproven.
+One scene was rejected by the author during planning and the fix was better than
+the original: Gaara was going to wake Marit because he lacked the words to raise
+a village. Nonsense - the translation works, he would simply shout. The real gap
+is not vocabulary, it is standing: he shouts the truth and gets two bolts, and
+he has to borrow her voice to be believed. And he picks her door over nine
+nearer ones for a reason nobody else in the world has, which is that he can see
+she is Level 6.
 
 === "Nothing" is a lie, and so is a borrowed doubt ===
 This reverses a call taken earlier the same day. Three evasions had been
@@ -386,7 +445,7 @@ nicht diese Zeile von Hand.
 3. Dead Man's Boots
 4. Liars Decorate (alt: What the Boots Were Worth)
 5. The Lamp Goes Out (was: Forty Houses)
-6. (offen - wird neu entworfen)
+6. How Did You Know
 7. Every Plan I Make Is for One (planned)
 8. What Opened in Spring (planned)
 9. A Name for the Knife (planned)
@@ -492,7 +551,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 5). The story tags include Smut; the
+  No romance has started (as of Chapter 6). The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -516,6 +575,18 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch4) Other people have levels. He saw "Marit Halden, Level 6, Human" over her head at the end of the chapter. She saw nothing and reacted to nothing. So the numbers are the world's, not his gift. Whether anyone else has a panel is unknown.
 - (ch5) Villagers of Oldstep run from Level 2 to Level 6. Marit at 6 is the highest in the village.
 - (ch5) EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara has not yet worked through what it could mean; that thinking has no chapter to live in until 6 exists.
+
+- (ch6) Skills are broader than they sound. Dagger Mastery E governs sharpening,
+  grip and how the blade is carried, not only the thrust. His wrist finds the
+  angle on a whetstone he has never used. He reads this as the instrument
+  improving his hands without asking, the same way it put a language in him.
+- (ch6) Levels slow down, as promised. Level 3 arrived after two more kills, so
+  four in total, and it gave less than level 2 did: STR only, plus 2 free points
+  he has NOT spent. HP 165 to 185.
+- (ch6) The system has no opinion and no timing. It reported the level up while
+  a man lay dead four feet away and Gaara had a hand inside Marit's wound. It
+  would have reported exactly the same thing if the road had been empty. This is
+  the tool with a monopoly, made physical: see character-arc.md section 3.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
@@ -549,7 +620,25 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-The crawler problem (ch4, from Marit's account; detail added ch5)
+The night they came into Oldstep (ch6)
+- On Gaara's first night in the village, three Gloom Crawlers came down the old
+  paved road into Oldstep itself. Not by water, not at a ford: into the road,
+  between the houses. First time in living memory.
+- Gaara smelled them before anyone heard them, because he is the only person
+  here who has ever smelled one. He shouted a warning and two doors bolted.
+  The village answered Marit, not him.
+- They dislike fire. He used a burning woodpile to close one end of the road.
+  Worth exactly one use; they will have watched.
+- Losses: an unnamed man with a hoe, killed. Marit cut across the right forearm
+  and under the arm into the ribs. Gaara killed two, villagers finished the
+  third with axes.
+- CAUSE UNPROVEN and it stays that way. Gaara emptied their nest two days
+  earlier, took boots, belt, pouch, firestone and coins out of it, and killed
+  two of them. Their kills go home with them. Asked in front of the whole
+  village whether he brought this on them, he said he cannot rule it out,
+  because he cannot and he does not lie. Do NOT resolve this cheaply either way.
+
+The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
 - Taken so far: two dogs, a boy who was fishing, a man with a cart, then Teodor. Teodor is the exception: he was not taken, he went in on purpose (ch4).
 - Something changed in spring. Cause unknown. This is the first arc.
@@ -601,7 +690,12 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.
 10. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
-12. VACANT. Held open for whatever the new Chapter 6 establishes. Do not renumber the threads below; the number is a reference, not a ranking.
+12. He plans for one body on the field, and it is his own. In ch6 he deliberately
+    let the big one through into twelve feet of road he had checked and found
+    empty. It was empty of everyone except the people who live there. A man died
+    in it and Marit was hurt pulling him out. Hallvard, quietly, afterwards: you
+    had a village, you used two. This is the live cost of the self-reliance rule
+    and it is now on the page, not in a plan.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
 14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
@@ -623,6 +717,10 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
     in, and therefore whether he can read the letter over the elder's shoulder.
     NOT in chapter 7 - that chapter is carrying the dependency cost, and two
     heavy things in one chapter devalue both.
+18. Hallvard in the dark. He stood in the open where nobody sensible stood, and
+    put the ferrule of his stick into a leg joint with a movement no farmer in
+    that road could have made. Gaara saw it, had no time for it, and filed it.
+    Sits directly beside thread 11 (no panel).
 17. Whether anything stands above Gaara's own head, and who could read it. He
     sees everyone else's panel and has never once asked the obvious next
     question. The moment he does is worth spending deliberately.

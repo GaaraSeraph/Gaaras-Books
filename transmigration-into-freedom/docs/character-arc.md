@@ -19,9 +19,12 @@ Stage 1, Chapters 1 to 2: Alone and correct.
 Nobody to rely on, so the rule costs him nothing. Survival by his own hands. Euphoria at having a working body.
 Status: rule untested.
 
-Stage 2, Chapters 3 to 5 (and into 6): The rule meets a bill it cannot pay.
+Stage 2, Chapters 3 to 6: The rule meets a bill it cannot pay.
 He needs food, language, information, boots. All of it comes from other people. He pays for none of it with self-sufficiency; he pays with truth, work and results.
-Status: cracked, unacknowledged.
+In ch6 the bill is presented and somebody else pays it. He builds a good plan in
+two seconds with exactly one body in it, and the empty ground he counted on was
+only empty of him.
+Status: cracked, and named out loud by Hallvard.
 
 Stage 3, Chapters 7 to 12: Dependency as a live cost.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
@@ -97,6 +100,9 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
+Chapter 6: Level 3 after two more kills (four in total). HP 165 to 185. STR 12 to
+13, nothing else automatic, 2 unspent points he does not spend - he is holding a
+wound shut. MP still 60 and still untouched. Skill: still Dagger Mastery E.
 
 Pacing rules
 - Levels should get slower, not faster. Level 3 should cost more than two crawlers.
