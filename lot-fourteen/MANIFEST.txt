@@ -16,9 +16,9 @@ ch13  v2.4       2828 Woerter  ch13_v2_4_en.md
 ch14  v7.5       2604 Woerter  ch14_v7_5_en.md
 ch15  v2.3       4210 Woerter  ch15_v2_3_en.md
 ch16  v1.14      3200 Woerter  ch16_v1_14_en.md
-ch17  v12.6       2685 Woerter  ch17_v12_6_en.md
-ch18  v2.2       2880 Woerter  ch18_v2_2_en.md
+ch17  v12.7       2694 Woerter  ch17_v12_7_en.md
+ch18  v2.3       2966 Woerter  ch18_v2_3_en.md
 ch19  v1.2       3203 Woerter  ch19_v1_2_en.md
 
-Gesamt: 19 Kapitel, 57112 Woerter
+Gesamt: 19 Kapitel, 57207 Woerter
 Handbuch: 9 Dokumente

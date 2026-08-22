@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.112 Woerter.
+19 Kapitel. 57.207 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -25,8 +25,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
 | 16 | v1.14 | 3.200 |
-| 17 | v12.6 | 2.685 |
-| 18 | v2.2 | 2.880 |
+| 17 | v12.7 | 2.694 |
+| 18 | v2.3 | 2.966 |
 | 19 | v1.2 | 3.203 |
 
 ---
@@ -4890,7 +4890,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.6 · EN
+*Lot Fourteen* · Version 12.7 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4940,7 +4940,7 @@ It did not take its time now.
 
 "And then."
 
-"Then he is bound. He will have paid for four routes and bought a company that cannot authorise anything afterwards, including selling him the rest of it." He sat back. "He asked me about a disposal by a board that has stopped meeting. He is already standing in front of that wall. He will go over it anyway, because he has decided he wants what is behind it."
+"Then he is bound. He will have paid for four routes and bought a fight with the half that would not sit in a room." He sat back. "He will win it. He took Pyeongtaek apart one director at a time and he is better at that than anybody in this country. It will take him a quarter, and he thinks he has a quarter, because he told me on Tuesday that a family takes two years."
 
 ---
 
@@ -5153,7 +5153,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5311,11 +5311,11 @@ Annie looked at him.
 
 "And what does that teach him." Annie had not moved. "He was never going to buy it that way."
 
-"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." Georgij turned his hand over. "Nobody needs a resolution for that, and he knew it before I wrote a word."
+"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." He had not moved from the corner of the desk. "Nobody needs a resolution for that, and he knew it before I wrote a word."
 
 "Then you have told him nothing."
 
-"I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason he has already read about twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."
+"I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason that is on a page he read twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."
 
 ---
 
@@ -5323,19 +5323,29 @@ Annie turned the pen over once.
 
 "And the disposal."
 
-"That is not his way in. It is what is waiting for him after he is in." Georgij put one hand flat. "He will hold half of a company whose board still cannot meet. He cannot have the routes assigned to him. He cannot sell what he does not want. He cannot resolve any of it, because the deadlock he bought into is the deadlock."
+"He asked me because he was measuring it, not because he was in doubt." Georgij put one hand flat. "He buys the half that wants out, cheaply and inside a fortnight. Then he takes the other half apart one at a time, and he is better at that than anybody in this country."
 
-"He will have paid for four berths he cannot move."
+"So it works."
+
+"It works. That is the part I need you to hold on to, because everything else follows from it." He put both hands behind his back. "I am not selling him a bad company. Hanseong is worth having and he is right about it."
+
+"Then where is the difficulty."
+
+"In the calendar. Nowhere else."
+
+Annie sat back and let him stand there.
+
+"Say it properly."
+
+"The fight takes him a quarter. His money is in it for that quarter and so is he. And there is exactly one quarter in which a family under customs investigation can be taken off its own name, and he does not know that, because he thinks a family takes two years. He told me so himself on Tuesday."
+
+"He is spending a quarter he believes he has."
 
 "Yes."
 
-"Is it in your pages?"
+"Is any of that in your pages?"
 
-"No. I did not put it there and I would not have." Georgij did not look away. "He asked me about it himself, over a conversation about a ceiling, and I answered him accurately. That is how I know he has stopped weighing it. A man who is still deciding does not ask what will be in his way afterwards."
-
-"And he thinks he can deal with it."
-
-"Chairman Woo told me in October that once somebody decides you are worth the trouble, the rest is paperwork. He was talking about money. Sang-hoon applies it to everything."
+"Every line of it that is a fact, and nothing that is a plan." Georgij did not look away. "The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."
 
 ---
 

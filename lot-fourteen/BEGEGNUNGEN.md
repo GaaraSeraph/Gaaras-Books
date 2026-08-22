@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 186 | 18 (01-18) | 1 | 48 |
+| Annie | 187 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 68 | 10 (07-19) | 22 | 48 |
-| Park Sang-hoon | 54 | 9 (10-19) | 22 | 48 |
+| Chairman Woo | 67 | 10 (07-19) | 22 | 48 |
+| Park Sang-hoon | 53 | 9 (10-19) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
 | Mr Hong | 28 | 7 (07-19) | 22 | 48 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-186 Nennungen in 18 Kapiteln.
+187 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -234,12 +234,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:142 | Annie looked at him. |
 | 48 | ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
 | 48 | ch18:168 | Annie turned the pen over once. |
-| 48 | ch18:188 | Annie sat with that. |
-| 48 | ch18:224 | Annie stopped. |
-| 48 | ch18:236 | Annie was quiet for a while. |
-| 48 | ch18:262 | Annie picked the pen up. |
-| 48 | ch18:272 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
-| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:182 | Annie sat back and let him stand there. |
+| 48 | ch18:198 | Annie sat with that. |
+| 48 | ch18:234 | Annie stopped. |
+| 48 | ch18:246 | Annie was quiet for a while. |
+| 48 | ch18:272 | Annie picked the pen up. |
+| 48 | ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
+| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -291,7 +292,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:230` (Tag 46) - two
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
-- `ch18:272` (Tag 48) - one
+- `ch18:282` (Tag 48) - one
 
 ---
 
@@ -409,7 +410,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-68 Nennungen in 10 Kapiteln.
+67 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -452,11 +453,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
 | 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
 | 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
-| 48 | ch18:208 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | ch18:278 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | ch18:288 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 | 48 | ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
 | 48 | ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
 | 48 | ch19:42 | "Well," said Woo. |
@@ -504,7 +504,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch13:246` (Tag 27) - six
 - `ch14:144` (Tag 34) - fifty-one
-- `ch18:278` (Tag 48) - nine, one, three
+- `ch18:288` (Tag 48) - nine, one, three
 - `ch19:16` (Tag 48) - fifty
 - `ch19:162` (Tag 48) - three, twenty
 - `ch19:176` (Tag 48) - fifty-one
@@ -520,7 +520,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-54 Nennungen in 9 Kapiteln.
+53 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -574,9 +574,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
 | 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
 | 48 | ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
-| 48 | ch18:216 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
-| 48 | ch18:240 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
+| 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -600,8 +599,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:66` (Tag 46) - one
 - `ch18:70` (Tag 48) - four
-- `ch18:216` (Tag 48) - one, three
-- `ch18:240` (Tag 48) - ten, three
+- `ch18:226` (Tag 48) - one, three
+- `ch18:250` (Tag 48) - ten, three
 - `ch19:290` (Tag 48) - one
 
 ---

@@ -565,3 +565,57 @@ Gegenprobe ueber alle aktuellen Fassungen gefunden:
 den Hinweis uebersieht. Sie ist, dass er ihn kennt und fuer Papierkram haelt.
 Woos Satz aus Kapitel 13 traegt sie weiter: einmal entschieden, dass jemand die
 Muehe wert ist, ist der Rest Papierkram.
+
+---
+
+### Die Falle ist eine Auseinandersetzung und ein Kalender, kein Stillstand
+
+**Korrigiert am 22.08.**, auf den Einwand des Autors: Wenn Sang-hoon weiss, dass
+der Vorstand zerstritten ist, warum kauft er dann ueberhaupt?
+
+**Weil er es kann, und weil er recht hat.** Er kauft die Haelfte, die raus will,
+billig und schnell, und nimmt danach die andere Haelfte einzeln auseinander. Genau
+das hat er in Pyeongtaek getan, im Februar gekauft und im Maerz die Direktoren
+einzeln nach Busan bestellt, und darin ist er besser als sonst jemand. **Es
+funktioniert.** Hanseong ist ein gutes Ziel und seine Einschaetzung stimmt.
+
+**Es kostet ihn nur ein Quartal**, und dieses Quartal ist das ganze Spiel.
+
+**Kapitel 14 hatte es von Anfang an richtig**, und die spaeteren Kapitel sind
+davon abgedriftet:
+
+> "He cannot move quickly and buy four routes in the same quarter, and he will buy the routes, because he cannot help it."
+>
+> "And on the day he needs to be liquid enough to take a logistics company off a family under customs investigation, **he will be a man with four routes and a fight**."
+
+Eine **Auseinandersetzung**, kein Stillstand. Meine Fassungen in Kapitel 17
+(*"a company that cannot authorise anything afterwards"*) und Kapitel 18 (*"he
+cannot have the routes assigned to him, he cannot sell what he does not want, he
+cannot resolve any of it"*) haben daraus eine Sackgasse gemacht, und eine
+Sackgasse haette er gesehen. Er ist die vorsichtigste Figur des Buches.
+
+**Warum er das Quartal trotzdem ausgibt.** Er glaubt, er hat es. Er sagt es in
+Kapitel 16 selbst: *"With a family? Two years. Eighteen months if somebody
+frightens them for me."* Was er nicht weiss, ist, dass Woos Name neben dem der
+Kims plus Annies Geld der Angst in vierzehn Tagen den Anlass nimmt.
+
+**Damit ist niemand dumm**, und das Gift ist genau das aus Kapitel 14: *ein
+Dokument, in dem jedes Wort wahr ist, an dem er sich ruiniert.* Nicht weil das
+Ziel schlecht waere, sondern weil ein gutes Geschaeft zum falschen Zeitpunkt
+Ruin ist.
+
+**Geaendert:**
+
+- **Kapitel 17** (v12.7): *"Then he is bound. He will have paid for four routes
+  and bought a fight with the half that would not sit in a room. He will win it.
+  He took Pyeongtaek apart one director at a time... It will take him a quarter,
+  and he thinks he has a quarter, because he told me on Tuesday that a family
+  takes two years."*
+- **Kapitel 18** (v2.3): Der ganze Austausch ueber die Falle neu. Kernzeilen:
+  *"So it works." / "It works. That is the part I need you to hold on to... I am
+  not selling him a bad company. Hanseong is worth having and he is right about
+  it." / "Then where is the difficulty." / "In the calendar. Nowhere else."* Und
+  Annies Schlusssatz dazu: *"He is spending a quarter he believes he has."*
+
+**Merke fuer alles Weitere:** Sang-hoon irrt sich nirgends in dem, was er sehen
+kann. Wo eine Szene ihn dumm aussehen laesst, ist die Szene falsch.

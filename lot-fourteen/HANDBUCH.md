@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 48.218 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 48.692 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -92,6 +92,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Woos Preis ist Ladung, nicht Geld und nicht ein Name](#woos-preis-ist-ladung-nicht-geld-und-nicht-ein-name)
   - [Block H, der Garten, ist gestrichen](#block-h-der-garten-ist-gestrichen)
   - [Die Frage nach der Veraeusserung steht NICHT im Bericht](#die-frage-nach-der-veraeusserung-steht-nicht-im-bericht)
+  - [Die Falle ist eine Auseinandersetzung und ein Kalender, kein Stillstand](#die-falle-ist-eine-auseinandersetzung-und-ein-kalender-kein-stillstand)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -1034,8 +1035,8 @@ nachrechnen, und `check.py` tut das automatisch.
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 19** *What happens on the Tuesday* (v1.2) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
-- **Kapitel 18** *On account* (v2.2) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.6) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 18** *On account* (v2.3) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
+- **Kapitel 17** *I have never put it down* (v12.7) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.14) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -2778,6 +2779,60 @@ Muehe wert ist, ist der Rest Papierkram.
 
 ---
 
+### Die Falle ist eine Auseinandersetzung und ein Kalender, kein Stillstand
+
+**Korrigiert am 22.08.**, auf den Einwand des Autors: Wenn Sang-hoon weiss, dass
+der Vorstand zerstritten ist, warum kauft er dann ueberhaupt?
+
+**Weil er es kann, und weil er recht hat.** Er kauft die Haelfte, die raus will,
+billig und schnell, und nimmt danach die andere Haelfte einzeln auseinander. Genau
+das hat er in Pyeongtaek getan, im Februar gekauft und im Maerz die Direktoren
+einzeln nach Busan bestellt, und darin ist er besser als sonst jemand. **Es
+funktioniert.** Hanseong ist ein gutes Ziel und seine Einschaetzung stimmt.
+
+**Es kostet ihn nur ein Quartal**, und dieses Quartal ist das ganze Spiel.
+
+**Kapitel 14 hatte es von Anfang an richtig**, und die spaeteren Kapitel sind
+davon abgedriftet:
+
+> "He cannot move quickly and buy four routes in the same quarter, and he will buy the routes, because he cannot help it."
+>
+> "And on the day he needs to be liquid enough to take a logistics company off a family under customs investigation, **he will be a man with four routes and a fight**."
+
+Eine **Auseinandersetzung**, kein Stillstand. Meine Fassungen in Kapitel 17
+(*"a company that cannot authorise anything afterwards"*) und Kapitel 18 (*"he
+cannot have the routes assigned to him, he cannot sell what he does not want, he
+cannot resolve any of it"*) haben daraus eine Sackgasse gemacht, und eine
+Sackgasse haette er gesehen. Er ist die vorsichtigste Figur des Buches.
+
+**Warum er das Quartal trotzdem ausgibt.** Er glaubt, er hat es. Er sagt es in
+Kapitel 16 selbst: *"With a family? Two years. Eighteen months if somebody
+frightens them for me."* Was er nicht weiss, ist, dass Woos Name neben dem der
+Kims plus Annies Geld der Angst in vierzehn Tagen den Anlass nimmt.
+
+**Damit ist niemand dumm**, und das Gift ist genau das aus Kapitel 14: *ein
+Dokument, in dem jedes Wort wahr ist, an dem er sich ruiniert.* Nicht weil das
+Ziel schlecht waere, sondern weil ein gutes Geschaeft zum falschen Zeitpunkt
+Ruin ist.
+
+**Geaendert:**
+
+- **Kapitel 17** (v12.7): *"Then he is bound. He will have paid for four routes
+  and bought a fight with the half that would not sit in a room. He will win it.
+  He took Pyeongtaek apart one director at a time... It will take him a quarter,
+  and he thinks he has a quarter, because he told me on Tuesday that a family
+  takes two years."*
+- **Kapitel 18** (v2.3): Der ganze Austausch ueber die Falle neu. Kernzeilen:
+  *"So it works." / "It works. That is the part I need you to hold on to... I am
+  not selling him a bad company. Hanseong is worth having and he is right about
+  it." / "Then where is the difficulty." / "In the calendar. Nowhere else."* Und
+  Annies Schlusssatz dazu: *"He is spending a quarter he believes he has."*
+
+**Merke fuer alles Weitere:** Sang-hoon irrt sich nirgends in dem, was er sehen
+kann. Wo eine Szene ihn dumm aussehen laesst, ist die Szene falsch.
+
+---
+
 # Begegnungsregister
 
 *Erzeugt aus `chapters/`. Wird nicht bearbeitet.*
@@ -2798,10 +2853,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 186 | 18 (01-18) | 1 | 48 |
+| Annie | 187 | 18 (01-18) | 1 | 48 |
 | Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 68 | 10 (07-19) | 22 | 48 |
-| Park Sang-hoon | 54 | 9 (10-19) | 22 | 48 |
+| Chairman Woo | 67 | 10 (07-19) | 22 | 48 |
+| Park Sang-hoon | 53 | 9 (10-19) | 22 | 48 |
 | Mrs Seo | 36 | 10 (03-17) | 1 | 46 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
 | Mr Hong | 28 | 7 (07-19) | 22 | 48 |
@@ -2830,7 +2885,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-186 Nennungen in 18 Kapiteln.
+187 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3014,12 +3069,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:142 | Annie looked at him. |
 | 48 | ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
 | 48 | ch18:168 | Annie turned the pen over once. |
-| 48 | ch18:188 | Annie sat with that. |
-| 48 | ch18:224 | Annie stopped. |
-| 48 | ch18:236 | Annie was quiet for a while. |
-| 48 | ch18:262 | Annie picked the pen up. |
-| 48 | ch18:272 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
-| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:182 | Annie sat back and let him stand there. |
+| 48 | ch18:198 | Annie sat with that. |
+| 48 | ch18:234 | Annie stopped. |
+| 48 | ch18:246 | Annie was quiet for a while. |
+| 48 | ch18:272 | Annie picked the pen up. |
+| 48 | ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
+| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3071,7 +3127,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:230` (Tag 46) - two
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
-- `ch18:272` (Tag 48) - one
+- `ch18:282` (Tag 48) - one
 
 ---
 
@@ -3189,7 +3245,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-68 Nennungen in 10 Kapiteln.
+67 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3232,11 +3288,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
 | 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
 | 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
-| 48 | ch18:208 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | ch18:278 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | ch18:288 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | ch18:298 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
 | 48 | ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
 | 48 | ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
 | 48 | ch19:42 | "Well," said Woo. |
@@ -3284,7 +3339,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch13:246` (Tag 27) - six
 - `ch14:144` (Tag 34) - fifty-one
-- `ch18:278` (Tag 48) - nine, one, three
+- `ch18:288` (Tag 48) - nine, one, three
 - `ch19:16` (Tag 48) - fifty
 - `ch19:162` (Tag 48) - three, twenty
 - `ch19:176` (Tag 48) - fifty-one
@@ -3300,7 +3355,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-54 Nennungen in 9 Kapiteln.
+53 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3354,9 +3409,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
 | 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
 | 48 | ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | ch18:184 | "Chairman Woo told me in October that once somebody decides you are worth the trouble, t.. |
-| 48 | ch18:216 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
-| 48 | ch18:240 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
+| 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -3380,8 +3434,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:66` (Tag 46) - one
 - `ch18:70` (Tag 48) - four
-- `ch18:216` (Tag 48) - one, three
-- `ch18:240` (Tag 48) - ten, three
+- `ch18:226` (Tag 48) - one, three
+- `ch18:250` (Tag 48) - ten, three
 - `ch19:290` (Tag 48) - one
 
 ---
