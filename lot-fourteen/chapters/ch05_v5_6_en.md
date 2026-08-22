@@ -1,0 +1,368 @@
+# Chapter 5: Seven Letters
+*Lot Fourteen* · Version 5.6 · EN
+
+## Day Four · Tuesday 7 October
+
+The new man came up the drive at seven in the morning in his own car, which was twelve years old and clean, and he parked it where a delivery would park rather than where a guest would.
+
+Georgij watched that from the landing window and revised something upward before the man had got out.
+
+He was about fifty. Heavy through the shoulders and going soft over it, the way men do when they have spent thirty years standing in corridors and eating whatever was left. He walked the whole perimeter of the house before he went in through any door, and it took him nineteen minutes, and he stopped twice.
+
+The first time was at the east end, on the flat lawn, where he stood and looked up at the eaves.
+
+The second time was on the gravel where the drive turned, and he stood there rather longer, and he did not crouch and he did not look at the ground and he did not make anything of it. He simply stood on the spot for about half a minute with his hands at his sides.
+
+Then he came in.
+
+---
+
+He was not a replacement for the man on the gravel. He was the interim head of security. He was interim because Mr Noh had held the post for twenty-two years, went at the end of the month, had been drawing down his leave since March, and came in on Tuesdays.
+
+That was most of what was wrong with the house explained in one sentence, and Georgij had worked it out in three days without anybody telling him any of it.
+
+They gave Jang the security office off the garage passage. It had a wall of eight screens in it that cycled the gate, the drive, the two approaches and four rooms. Mr Noh had left a chair in it that faced away from all of them.
+
+By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a written one. By eleven there was.
+
+Georgij went down at half past eleven and knocked on the open door.
+
+"Mr Jang. My name is Georgij."
+
+"I know your name." Jang did not get up, and he did not pretend to be busy either. He turned his chair to face the door properly, which was better manners than getting up would have been. "Everybody I spoke to before I took this told me your name inside four minutes."
+
+"Yes. That was the intention."
+
+Jang looked at him.
+
+"Say that again."
+
+"When I chose the eye instead of the throat, part of the reason was that the next man through that gate would hear the whole thing before he got out of his car." Georgij said it levelly. "I didn't know there was already a man coming, or that Mr Noh was going at the end of the month. That part is luck and I won't claim it. But the rest was deliberate, and I'd rather you had it from me now than worked it out in a month and wondered why I hadn't said so."
+
+"You wanted me frightened."
+
+"I wanted you informed. The last one was never frightened of me for a second." He inclined his head. "He was certain about me from the loading bay onwards and he never revised it once. That is what it cost him, and it was his to spend."
+
+Jang sat with that for a moment. There was a mug of instant coffee on the desk and he had not touched it since it went cold.
+
+"I've worked for eight families," he said. "You are the first purchase who has ever come to introduce himself."
+
+"You walked the outside before you came in. You stopped in two places." Georgij said it without any weight on it. "One of them is where I did it. Nobody in this house will have told you that, because nobody in this house says it out loud."
+
+"The gravel's been raked twice and there's still a stain under the second layer." Jang shrugged. "It's gravel. You can rake it for a year."
+
+"How long have you got before the evening at the Grand Hotel?"
+
+"Eighteen days."
+
+Georgij took nine folded sheets out of his inside pocket and put them on the desk.
+
+"That's what I have. It's my opinion and not a survey, and I've marked the two places where it's a guess."
+
+Jang looked at the sheets for a moment. Then he picked them up and read them, properly, from the top, in front of a man standing in his doorway, which took eleven minutes.
+
+Twice he went back a page.
+
+"You've written twenty-four cameras."
+
+"Yes."
+
+"My schedule says twenty-two."
+
+"Your wall shows eight at a time and cycles twenty-two. So does the schedule. The other two are on no wall and no schedule and exist in the archive and nowhere else."
+
+Jang put the sheets down.
+
+"And nobody reviews the archive."
+
+"Not for four years. The invoice has carried the same number of hours the whole time. It's the only figure in this house that has never once moved."
+
+"Second Wednesday of the month," Jang said. "The glass."
+
+"Four men on a cradle off your own roof anchors. One of the four has never twice been the same man."
+
+"I saw the anchors from the lawn this morning." Jang put the mug down properly. "That one is mine before anything else is."
+
+"Good."
+
+"You've put the night man's route on page six with the times."
+
+"To the minute. He hasn't varied it in six days. I did that from a window."
+
+Jang read page six again.
+
+"This is a good establishment," he said. "I've run smaller ones for larger houses. Fourteen is not a thin number."
+
+"It's an excellent establishment and I've said so on the first page." Georgij inclined his head. "It has been pointed outward for twenty-two years by a man who is leaving in three weeks. Every hole in it is on the inside of a wall he was never asked to think about."
+
+Then he said the two things he had not put on paper.
+
+"There are three more dead angles on the first floor. They aren't in there and they aren't going to be."
+
+Jang's chin came up half a centimetre.
+
+"They're hers. She drew them and she uses one of them. If you want them, ask her, and she'll tell you or she won't, and either way it will be her answer." He turned his hand over. "It's the only thing I'm holding back, and I've told you that I'm holding it back."
+
+"And the second thing?"
+
+"Why I've done any of this." A small pause. "In eighteen days she will be in a ballroom with eight hundred people. I would like the man responsible for the outside of that building to be better than the last one." Another. "And you asked me a question, and I don't lie. There is no third reason."
+
+Jang squared the nine sheets on the desk.
+
+"The two that aren't on the schedule," he said. "Where?"
+
+"Over the front door and in the east eaves."
+
+"Show me now."
+
+"Yes."
+
+---
+
+He walked the house with Jang for two hours and told him what he had and answered what he was asked and volunteered nothing that was not about the building.
+
+By the end of it Jang had stopped calling him nothing at all and had started calling him Georgij. Georgij was calling him Mr Jang. It was the second of those that went round the house by lunch.
+
+Ji-won came out of the kitchen twice to see it.
+
+Bae had spent three days as one of two men on a gate that had been built for three, and had not slept properly in any of them. He came up in the afternoon to hand over a key and stood in the passage, listening to a collared man tell his new chief where the blind spots were. He could not work out from either of their faces which of the two of them was in charge of the conversation.
+
+That evening Mrs Seo sent a fresh pot down to the small office off the garage passage without anybody having asked her for it, and said nothing about it to anyone.
+
+---
+
+## Day Six · Thursday 9 October
+
+He had the household by the sixth morning, and he had not asked anybody a single question to get it.
+
+He got it because he ate at the end of the long table at seven, and people talk over food. He got it because a man who is helpful with a heavy tray on a Tuesday finds out on Wednesday who is on which rota.
+
+Twenty-nine people drew money from the estate. Fourteen of them were security.
+
+---
+
+**The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten. Ji-won, who lives in above the kitchen. Eun-ju, who comes from Nowon and goes home at four. And two more on the upper floors, whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
+
+Breakfast was the one place the money did not show, and only because Mrs Seo had taken that woman's tray up herself for nine years and would go on doing it until she was carried out.
+
+**Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above all of it, on paper. Three shift supervisors. The gate manned around the clock on a three-man post, which is the post Ji-won had counted for him on the first night and the only one she had ever seen. Two on the perimeter by day and one at night. The monitor room covered on nights. Two more who went out with the cars whenever Annie went anywhere at all, and who had not gone out with her on the night of the auction. Georgij had understood that on the third day and had said nothing about it to anybody.
+
+The money had never been the problem. Nobody had ever economised on the security of that house, and nobody ever would.
+
+---
+
+What she had was this.
+
+The chair in the monitor room faced away from the screens, and it had faced away from them long enough for the carpet to have gone flat under it in that position.
+
+The night man on the perimeter walked the same route at eleven, at one, at three and at five, and it took him nineteen minutes each time. Georgij had the whole of it inside two nights, from a first-floor window, without leaving the house.
+
+Two of the three shift supervisors had never been given a key to the security office and had stopped asking.
+
+The archive nobody reviewed. The schedule nobody had written down. The two cameras nobody knew about.
+
+And fourteen men, none of whom was permitted through the front door after ten at night. The woman who paid all fourteen of them had said years ago that she would not live in a bank, and nobody had ever asked her to say it again.
+
+Everything she bought was outside the house. Everything that mattered was in it.
+
+---
+
+Some of it was people rather than posts.
+
+**Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and considerably harder. He came into the kitchen for coffee on the first morning, looked at Georgij's throat for slightly too long, and took the coffee outside.
+
+He has done the same thing every morning since.
+
+He has not spoken one word to Georgij, has not returned a good morning, and does not walk on the same side of the path. On the fourth day Georgij stopped saying good morning, because a man is entitled to his position, and saying it a fifth time would have been a way of insisting on an answer.
+
+**Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mondays and Thursdays, which is the two days a week that the roses have a man standing in front of them.
+
+**Eun-ju.** Friendly with him on the second morning and friendlier on the third, and on the third she asked where he had been before this house. On the fifth day she asked it again in a slightly different shape.
+
+Georgij was pleasant to her both times and told her nothing either time, and put a mark against her name. Not because she was certainly anything. Because he did not yet know why she wanted it, and the kind ones always want something. That is not cynicism. It is arithmetic. The unkind ones already have what they want.
+
+**The glass.** A firm from Yeongdeungpo does the south wall on the second Wednesday of the month, on a cradle off the roof anchors. Four men. One of the four has never been the same man twice.
+
+Georgij stood at the landing window on the sixth day and thought about it. Four strangers on ropes, coming down the outside of a wall that has no door in it, once a month, for as long as anybody in the house could remember. And not one of the fourteen had ever been given a list of their names.
+
+He put it at the top of what he was keeping for Jang, above the night man and above everything else.
+
+---
+
+## Day Nine · Sunday 12 October
+
+Annie had come into the kitchen at seven on the first morning, and on the second, and not since.
+
+Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the end of the long table at seven for Georgij. On the mornings Annie wanted him she sent Ji-won down to fetch him, and he ate whatever was in front of her when he got there.
+
+Nobody had said a word about any of it. Annie had made her point in front of the whole staff and then stopped making it. Mrs Seo had lost the argument and kept the kitchen. Georgij watched the two of them arrive at that over eight days, without either of them speaking to the other about it once.
+
+He had settled a great many things with a great many people over seventeen years, and he had never once settled one without somebody having to say out loud who had given way. Those two had done it in eight days without a word, and neither of them had lost her footing. It was the first thing in the house he did not think he could have done himself.
+
+---
+
+The tailor came at eleven and was in the house for fifty minutes, and in that time he said perhaps thirty words, most of them numbers.
+
+He was an old man with a young assistant who carried everything. He measured the shoulder, the sleeve, the back, the chest, the waist, the outside leg. He wrote each figure in a small book with a pencil that he sharpened once with a blade he took out of his own pocket.
+
+Then he stood in front of Georgij and put the tape around his neck, over the collar, and did not stop, and did not look up, and did not breathe differently.
+
+He said a number to the assistant.
+
+Then he took the tape off, put two fingers under the front edge of the collar to find where it sat against the throat, said a second number, and wrote that one down as well.
+
+"Four centimetres higher than usual on the stand," he said, to nobody. "Hook and eye at the throat, not a button. Grosgrain inside, or it will chafe him by the third hour."
+
+"Thank you," Georgij said.
+
+The old man looked at him for the first time.
+
+"You'll want to keep your chin level," he said. "Not up. Level. Men lift the chin when there's something at the throat and then everybody looks at the throat."
+
+"Yes."
+
+Georgij smiled at him, and most of it was in the chin.
+
+The old man did not acknowledge it, which was the correct handling and the second courtesy he had done in fifty minutes.
+
+That was the whole of it. The assistant packed the case, the old man wrote one more line in his book, and they were gone at ten to twelve.
+
+Georgij stood in the hall afterwards for a moment.
+
+There was a stone shelf beside the front door with a shallow bowl on it for keys.
+
+The bowl was where it had always been. The small dark thing that had lain beside it since one o'clock on the first morning was not.
+
+He did not go over to it. He did not slow down. He did not lift his eyes to the moulding above the door, because there was a camera in the moulding above the door, and it had a picture of whoever had come and taken the thing away. A picture of him noticing would be a separate file, and would be worth something to somebody.
+
+He went up the stairs at the speed he always went up the stairs.
+
+---
+
+## Day Nineteen · Wednesday 22 October
+
+It did not come out of the hotel, or the charity, or the four years of photographs.
+
+It came out of a car service in Jung-gu that had held the contract for the same evening since before the charity had changed its name. It came out of a florist who did sixteen tables and needed to know how many wheelchairs. And it came out of a woman in a hotel accounts office who had been given a name to invoice for the corkage. She put it in an email with two hundred and twelve other people copied on it.
+
+By the eleventh day he had four hundred and thirty names, and ninety-one of them were worth the time it took to look at them.
+
+By the sixteenth he had stopped adding names and started adding the other thing, which took longer and did not go into any file that ran through a machine she paid for.
+
+A man's second mortgage. A daughter at a school in Switzerland that costs more than the man's declared income. Two directors of the same company who had each separately booked the same hotel in Busan on the same four nights. A hospital in Gangnam that quietly does not put certain admissions through the insurance system. He sat with that one for rather longer than it needed, and put no note against it, and did not mention it afterwards to anybody at all. A man who had given the same speech about his father in three consecutive years. His father, according to a court file in Daegu that nobody had ever bothered to seal, had been convicted of something rather different from what the speech said.
+
+Twelve of the ninety-one mattered.
+
+Of those twelve, nine were connected to at least one other in a way that the room would not know about.
+
+He finished on the evening of the nineteenth day.
+
+---
+
+Her study was empty at nine because she was in Yeouido and would be back at eleven.
+
+The machine under the window had no cable in the back of it and no card in it and had never had either. It did not talk to the house, or to the laptop she had given him, or to anything else in the Republic of Korea. Whatever was on it was on it, and the only road to it went through the chair in front of it.
+
+There was nothing on it to break. He had understood that in the first three days, which was when he had stopped thinking about the machine and started watching the woman.
+
+He was in at nine minutes past nine, on the second attempt.
+
+The file went in off a memory stick out of her own second drawer, where there was a box of them. The copy of it would sit in this evening's log on the laptop that a company in Yeouido billed her monthly to keep the log of. He did not clear that, and had never intended to.
+
+There were two small things on the desk that had been left in a particular way on purpose, so that she would know if anybody had been in there. He put them back exactly as they had been.
+
+The desk had four drawers and three of them opened. He left the fourth alone.
+
+He did not open a single one of her files.
+
+That was not a scruple and he did not tell himself it was one. It was that a man who reads what he has no use for is carrying it for nothing, and he had spent seventeen years not carrying things for nothing.
+
+He was finished at twenty past nine.
+
+He stood by the door for two hours, because he was not going to be anywhere else in the house when she found it.
+
+---
+
+She came in at twenty past eleven with her coat still on and stopped when she saw him standing there.
+
+"Yes?"
+
+"Your screen, Mistress."
+
+Annie went round the desk and moved the mouse and the light came up on her face, and she stood and looked at it for a good deal longer than it takes to read a filename.
+
+"It wants a password."
+
+"Yes."
+
+She waited, and she did not ask him for it.
+
+He said nothing at all, which was, he was aware, the single most expensive thing he had done since the gravel.
+
+Annie sat down.
+
+She typed seven letters with one finger, the way people type when they are not thinking about the typing.
+
+The file opened.
+
+She read for nine minutes. He stood where he was and did not fill any of it. Twice she went back up. Once she stopped and looked at the ceiling for a moment and then went on.
+
+Then she closed it, and sat back, and looked at him.
+
+"You went into my machine."
+
+"Yes."
+
+"That machine has never been on a network."
+
+"No, Mistress. So I never went at the machine." He said it exactly as levelly as he had said everything else that evening. "You typed it in front of me twice in three weeks. The first time I had my back to you at that window and got about half of it. The second was eleven days later. I was standing at the corner of this desk with a folder in my hands, and I was watching your shoulder rather than your hands, because people feel it when you watch their hands."
+
+Annie sat very still.
+
+"None of it is written down anywhere and none of it is going to be. The stick came out of your second drawer. The copy is in tonight's log on the laptop and I haven't touched the log, so you can read the minute it happened whenever you want to." A pause exactly the length of a breath. "You'll want to change it tonight, and to do it with nobody in the room."
+
+"Will I," Annie said.
+
+"There's a court file from Daegu in that report. It takes a name, a case number and somebody at a district registry, and I did not telephone a district registry."
+
+"No," Annie said. "I don't imagine you did."
+
+She let that be the whole of it.
+
+She did not ask how he had got the ninety-one. She did not ask how he had got into the machine or how long it had taken. She did not ask what else was on the machine, or what he had opened before he wrote to the desktop. She did not turn to the laptop on the side table and pull the log. It would have taken her under a minute, and she had paid a company in Yeouido specifically so that she could.
+
+She did not ask what the password was, either. She had typed it.
+
+"Twelve of them," she said instead.
+
+"Twelve matter. Nine of those twelve are attached to each other and the room won't know it."
+
+"And you're not going to tell me which nine."
+
+"They're in the file, Mistress. Pages fourteen to nineteen." He paused for exactly the length of a breath. "I'm not going to tell you which of them I'd start with. You will want to see that one on the night."
+
+Something moved behind Annie's face and stayed a little longer than usual before it went.
+
+"Quid pro quo," she said.
+
+"Yes."
+
+She stood up and took her coat off at last and hung it over the back of the chair, and for a moment she was a woman who had been in Yeouido since seven in the morning.
+
+"Go to bed, Georgij."
+
+"Goodnight, Mistress."
+
+He was at the door when she said the rest of it.
+
+"The shelf in the hall."
+
+He stopped.
+
+"I know," he said. "Day nine."
+
+"You didn't look up at the moulding."
+
+"No."
+
+"No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went back and watched you not do it nine times."
