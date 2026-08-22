@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 57.505 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 57.992 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -122,8 +122,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Yeo](#mr-yeo)
   - [Minister Min-ho](#minister-min-ho)
   - [Mrs Sunwoo](#mrs-sunwoo)
-  - [Tae-min](#tae-min)
   - [Choi Dae-ho](#choi-dae-ho)
+  - [Tae-min](#tae-min)
   - [Mr Im](#mr-im)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Ryu](#mrs-ryu)
@@ -1284,13 +1284,25 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 23** *Have you eaten* (v2.5) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden - und **die Ecke bei den Garagen**, siehe unten. Annie setzt sich auf den Beton. **Die Bruchfrage wird gestellt und beantwortet.** Er fragt, warum sie es getan hat, und gibt sich mit *ob du brichst* nicht zufrieden. Ihre Begruendung: Er weiss zu viel, jeder andere mit einem Viertel davon hatte eine Stelle, an der er nachgibt, und sie kannte sie immer vorher. Seine nicht. Dann fragt er geradeheraus *Did I break?*, und ihre Antwort ist **nein** - und das ist fuer sie das schlechtere Ergebnis: *"A man who does not break is a man nobody can hold."*
+- **Kapitel 23** *Have you eaten* (v2.6) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden - und **die Ecke bei den Garagen**, siehe unten. Annie setzt sich auf den Beton. **Die Bruchfrage wird gestellt und beantwortet.** Er fragt, warum sie es getan hat, und gibt sich mit *ob du brichst* nicht zufrieden. Ihre Begruendung: Er weiss zu viel, jeder andere mit einem Viertel davon hatte eine Stelle, an der er nachgibt, und sie kannte sie immer vorher. Seine nicht. Dann fragt er geradeheraus *Did I break?*, und ihre Antwort ist **nein** - und das ist fuer sie das schlechtere Ergebnis: *"A man who does not break is a man nobody can hold."*
 
   **Er stellt den quid pro quo zur Rechnung, und zwar in ihrer Waehrung.** *"Was I not useful?"* Er hat seine Haelfte seit dem 4. Oktober jeden Tag geliefert, einschliesslich der vier Minuten vor dem Druck, und will wissen, welches von beidem es war: ob Respekt zu viel verlangt ist, oder ob es ihr entfallen ist.
 
   **Ihre Antwort ist keins von beidem und das ist schlimmer:** *"I did not weigh it. There was a question in that room that I did not want the answer to, and my hand was in my pocket before I had decided anything at all."* Und sie sagt dazu, dass sie bei einer Abwaegung einen Grund gefunden haette und er jetzt dem Grund zuhoeren wuerde. Es gab keinen. Es gab eine Hand und eine Tasche.
 
   **Seine Antwort darauf ist die haerteste Zeile des Kapitels** und kein Vorwurf: *"A man weighs the things he thinks are close to him. Nobody weighs a door handle."*
+
+  **Der Hoehepunkt ist der Entzug der Anrede.** Auf ihr *"A man who does not break is a man nobody can hold"* kontert er mit dem, was tatsaechlich der Fall ist - **sie hat ihn fuenfundfuenfzig Tage lang tadellos gehalten**, jeden Raum, jeden Namen, jede wache Stunde, fuer eine Unterschrift im Oktober und nichts weiter. *"So why did you go and try to waste it?"*
+
+  Dann: **"I do not feel like calling you Mistress at the moment."** Und die Definition hinterher, die zugleich Kompliment und Anklage ist: *"My mistress is ruthless and beautiful and clever as hell, and she has been all three of those every day since the fourth of October, and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country. Tonight she was none of them."* Und dann der Name: **"So. Annie. Why in God's name did you do it?"**
+
+  **Das ist die Waffe dieses Kapitels**, nicht der quid pro quo - den hat er in Kapitel 22 verbraucht. Und es kehrt die Regel aus Kapitel 11 um: Dort rutscht ihm das verbotene Wort gegenueber Hana heraus, hier entzieht er es ihr mit Absicht.
+
+  **Der Bogen ist ausgezaehlt.** Nach dem Entzug faellt "Mistress" im ganzen Kapitel nicht mehr - nicht bei der Vollmacht, nicht bei der Bitte, nicht beim Lachen. Es kommt erst **nach dem Wurf** zurueck, beim Halsband, und der Text markiert es: *"He heard himself do it, and so did she, and neither of them made anything of it."* Wer spaeter in diesem Kapitel ein "Mistress" einfuegt, macht den Entzug wertlos.
+
+  **Und ihre Antwort wirft seine Lesart um.** Er glaubt, sie habe ihn nicht abgewogen - *"A man weighs the things he thinks are close to him. Nobody weighs a door handle."* Falsch, und zwar vollstaendig: *"He asked what you would cost, and for about one second I did not know the answer. Not the number. I did not know whether there was one."* Sie hat den Preis von allem gekannt, seit sie neunzehn war, und fand bei ihm keinen, und die Hand war in der Tasche, bevor sie am Ende war. Ihre eigene Bruchstellen-Erklaerung raeumt sie im selben Zug ab: *"That is what I told myself in the four hours afterwards, and it is a better sentence, and I have been saying it to you for twenty minutes."*
+
+  **Damit hat Georgij sich zweimal in vier Tagen in derselben Frau geirrt**, auf Tatsachen, die er in der Hand hielt - Kapitel 20 ueber dem Schreibtisch, und hier. *"I have had it backwards twice since Friday."* - *"I know. I was there for the other one."*
 
   **Der Praezedenzfall aus Kapitel 2 wird aufgerufen, und das ist der Kern.** Auf dem Kies hat Georgij einem Mann das Auge genommen, weil der zweimal gedrueckt hatte, und er hat Annie dabei woertlich zugerechnet: *"He has no authority of his own, so everything he did in that car he did in your name. The dog. The button, twice. **By the terms, that was you.**"* Sie hat **kein Wort davon bestritten** und noch auf dem Kies bezahlt, mit Auskunft daruber, wofuer er da ist.
 
@@ -3284,7 +3296,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 235 | 21 (01-23) | 1 | 55 |
+| Annie | 236 | 21 (01-23) | 1 | 55 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
 | Chairman Woo | 76 | 13 (07-23) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
@@ -3305,8 +3317,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
 | Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
-| Tae-min | 3 | 3 (05-23) | 6 | 55 |
 | Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
+| Tae-min | 2 | 2 (05-22) | 6 | 55 |
 | Mr Im | 1 | 1 (05) | 6 | 6 |
 | Mrs Ahn | 1 | 1 (05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (07) | 22 | 22 |
@@ -3316,7 +3328,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-235 Nennungen in 21 Kapiteln.
+236 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3533,28 +3545,29 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:180 | Annie did not move. |
 | 55 | ch22:208 | Annie's face did not do anything anywhere. |
 | 55 | ch22:232 | Annie said nothing. |
-| 55 | ch23:216 | Annie took her time with it. |
-| 55 | ch23:228 | "I did not decide to do it," said Annie. "That is the part I would change." |
-| 55 | ch23:240 | Annie did not answer straight away, and when she did she said it flatly, like a figure b.. |
-| 55 | ch23:250 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
-| 55 | ch23:262 | Annie looked at the water through the rail. |
-| 55 | ch23:282 | Annie did not answer that. |
-| 55 | ch23:286 | Annie did not answer that either. |
-| 55 | ch23:310 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
-| 55 | ch23:326 | Annie took a while over that one. |
-| 55 | ch23:338 | "Say what you are thinking," said Annie. "You have got that face on." |
-| 55 | ch23:348 | Annie did not say anything. |
-| 55 | ch23:368 | Annie laughed. |
-| 55 | ch23:408 | Annie did not look away from him. |
-| 55 | ch23:424 | Annie went still in a way he had seen twice before and had never yet been able to price. |
-| 55 | ch23:434 | Annie looked at the water for a while. |
-| 55 | ch23:446 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
-| 55 | ch23:472 | Annie did not say anything for a while. |
-| 55 | ch23:518 | "You are still wearing it," said Annie. |
-| 55 | ch23:538 | Annie looked out at the water where the other thing had gone. |
-| 55 | ch23:544 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch23:552 | "The car is at the end," said Annie. |
-| 55 | ch23:564 | Annie looked out of her side of it. |
+| 55 | ch23:214 | Annie took her time with it. |
+| 55 | ch23:226 | "I did not decide to do it," said Annie. "That is the part I would change." |
+| 55 | ch23:238 | Annie did not answer straight away, and when she did she said it flatly, like a figure b.. |
+| 55 | ch23:248 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
+| 55 | ch23:258 | Annie did not answer. |
+| 55 | ch23:276 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
+| 55 | ch23:286 | Annie put her head back against the rail and looked at the underside of the roadway. |
+| 55 | ch23:306 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
+| 55 | ch23:322 | "I know," said Annie. "I was there for the other one." |
+| 55 | ch23:334 | Annie looked at the water through the rail. |
+| 55 | ch23:354 | Annie did not answer that. |
+| 55 | ch23:358 | Annie did not answer that either. |
+| 55 | ch23:382 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
+| 55 | ch23:404 | Annie did not look away from him. |
+| 55 | ch23:420 | Annie went still in a way he had seen twice before and had never yet been able to price. |
+| 55 | ch23:430 | Annie looked at the water for a while. |
+| 55 | ch23:442 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
+| 55 | ch23:468 | Annie did not say anything for a while. |
+| 55 | ch23:514 | "You are still wearing it," said Annie. |
+| 55 | ch23:536 | Annie looked out at the water where the other thing had gone. |
+| 55 | ch23:542 | "Good," said Annie. "Then neither of us has to be brave about it." |
+| 55 | ch23:550 | "The car is at the end," said Annie. |
+| 55 | ch23:562 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3611,8 +3624,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:10` (Tag 55) - twenty
 - `ch22:38` (Tag 55) - two
 - `ch22:148` (Tag 55) - one
-- `ch23:250` (Tag 55) - one
-- `ch23:326` (Tag 55) - one
+- `ch23:248` (Tag 55) - one
+- `ch23:276` (Tag 55) - ten
+- `ch23:306` (Tag 55) - four, twenty
+- `ch23:322` (Tag 55) - one
 
 ---
 
@@ -3720,7 +3735,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:326 | "Hana." |
 | 49 | ch21:338 | Hana's face did not do anything. |
 | 49 | ch21:348 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
-| 55 | ch23:218 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
+| 55 | ch23:216 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3759,7 +3774,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:304` (Tag 49) - four
 - `ch21:318` (Tag 49) - fifty-one, one
 - `ch21:348` (Tag 49) - one
-- `ch23:218` (Tag 55) - nineteen
+- `ch23:216` (Tag 55) - nineteen
 
 ---
 
@@ -3843,8 +3858,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:216 | "Woo at seven." |
 | 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
-| 55 | ch23:186 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
-| 55 | ch23:426 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 55 | ch23:184 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 55 | ch23:422 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -3882,8 +3897,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:216` (Tag 49) - seven
 - `ch21:218` (Tag 49) - eight, nine, one, seven
 - `ch21:354` (Tag 49) - six
-- `ch23:186` (Tag 55) - four
-- `ch23:426` (Tag 55) - one
+- `ch23:184` (Tag 55) - four
+- `ch23:422` (Tag 55) - one
 
 ---
 
@@ -4036,22 +4051,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:266 | "Keep the lighter," said Jang. |
 | 55 | ch22:276 | He had shown it to Jang on the fourth day, on the words *show me now*, and it had gone i.. |
 | 55 | ch22:286 | He stood in front of the roses for a while and smoked one of Jang's cigarettes all the w.. |
-| 55 | ch23:86 | Jang got there six minutes later. |
-| 55 | ch23:90 | "Mr Jang." |
-| 55 | ch23:96 | Jang stood there. |
-| 55 | ch23:106 | "I know what you have," said Jang. "I read the file before I took the job." |
-| 55 | ch23:114 | Then Georgij took the bottle and poured the second cup for Jang, with both hands, the wa.. |
-| 55 | ch23:116 | Jang looked at the cup and then at the man holding the bottle. |
-| 55 | ch23:122 | Jang drank it. |
-| 55 | ch23:130 | "She was already in the car." Jang put his cup down on the rail. "Since about ten past n.. |
-| 55 | ch23:142 | Jang refilled his own cup and did not offer the bottle. |
-| 55 | ch23:148 | "Everybody who has ever walked that fence in daylight knows about the garages." Jang dra.. |
-| 55 | ch23:158 | "I put it in again in my third week, because you do, and she said no again and did not g.. |
-| 55 | ch23:166 | "And you went over the east lawn instead," said Jang, "in front of the one camera in tha.. |
-| 55 | ch23:172 | "I am not going to ask you why," said Jang. "I would like to be clear that I know it was.. |
-| 55 | ch23:182 | Jang picked up the bottle and put his cup in his pocket. |
-| 55 | ch23:184 | "Mr Jang." |
-| 55 | ch23:186 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 55 | ch23:84 | Jang got there six minutes later. |
+| 55 | ch23:88 | "Mr Jang." |
+| 55 | ch23:94 | Jang stood there. |
+| 55 | ch23:104 | "I know what you have," said Jang. "I read the file before I took the job." |
+| 55 | ch23:112 | Then Georgij took the bottle and poured the second cup for Jang, with both hands, the wa.. |
+| 55 | ch23:114 | Jang looked at the cup and then at the man holding the bottle. |
+| 55 | ch23:120 | Jang drank it. |
+| 55 | ch23:128 | "She was already in the car." Jang put his cup down on the rail. "Since about ten past n.. |
+| 55 | ch23:140 | Jang refilled his own cup and did not offer the bottle. |
+| 55 | ch23:146 | "Everybody who has ever walked that fence in daylight knows about the garages." Jang dra.. |
+| 55 | ch23:156 | "I put it in again in my third week, because you do, and she said no again and did not g.. |
+| 55 | ch23:164 | "And you went over the east lawn instead," said Jang, "in front of the one camera in tha.. |
+| 55 | ch23:170 | "I am not going to ask you why," said Jang. "I would like to be clear that I know it was.. |
+| 55 | ch23:180 | Jang picked up the bottle and put his cup in his pocket. |
+| 55 | ch23:182 | "Mr Jang." |
+| 55 | ch23:184 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 
 ### Zahlen in der Naehe von Jang
 
@@ -4078,12 +4093,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:254` (Tag 46) - six
 - `ch18:8` (Tag 48) - one
 - `ch22:286` (Tag 55) - one
-- `ch23:86` (Tag 55) - six
-- `ch23:130` (Tag 55) - nine, ten
-- `ch23:148` (Tag 55) - one, two
-- `ch23:158` (Tag 55) - two
-- `ch23:166` (Tag 55) - one
-- `ch23:186` (Tag 55) - four
+- `ch23:84` (Tag 55) - six
+- `ch23:128` (Tag 55) - nine, ten
+- `ch23:146` (Tag 55) - one, two
+- `ch23:156` (Tag 55) - two
+- `ch23:164` (Tag 55) - one
+- `ch23:184` (Tag 55) - four
 
 ---
 
@@ -4135,8 +4150,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | ch23:288 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch23:578 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch23:360 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | ch23:576 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4161,8 +4176,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:12` (Tag 49) - six
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
-- `ch23:288` (Tag 55) - eight, nine, one
-- `ch23:578` (Tag 55) - one, two
+- `ch23:360` (Tag 55) - eight, nine, one
+- `ch23:576` (Tag 55) - one, two
 
 ---
 
@@ -4201,7 +4216,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:108 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 | 48 | ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
 | 49 | ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
-| 55 | ch23:218 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
+| 55 | ch23:216 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
 
 ### Zahlen in der Naehe von Mr Hong
 
@@ -4221,7 +4236,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:38` (Tag 46) - one, seventeen, two
 - `ch17:108` (Tag 46) - three, two
-- `ch23:218` (Tag 55) - nineteen
+- `ch23:216` (Tag 55) - nineteen
 
 ---
 
@@ -4428,13 +4443,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
 | 41 | ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | ch23:288 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | ch23:360 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch23:288` (Tag 55) - eight, nine, one
+- `ch23:360` (Tag 55) - eight, nine, one
 
 ---
 
@@ -4505,7 +4520,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:560 | Mr Ku had the heater on. |
+| 55 | ch23:558 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -4570,22 +4585,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Tae-min
-
-3 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
-| 55 | ch23:364 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
-
-### Zahlen in der Naehe von Tae-min
-
-- `ch05:178` (Tag 6) - nineteen, two
-
----
-
 ### Choi Dae-ho
 
 2 Nennungen in 1 Kapiteln.
@@ -4598,6 +4597,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Choi Dae-ho
 
 - `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+
+---
+
+### Tae-min
+
+2 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
+
+### Zahlen in der Naehe von Tae-min
+
+- `ch05:178` (Tag 6) - nineteen, two
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 69.666 Woerter.
+23 Kapitel. 69.747 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v2.5 | 4.265 |
+| 23 | v2.6 | 4.346 |
 
 ---
 
@@ -6718,7 +6718,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Have you eaten
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6746,7 +6746,7 @@ That last one was the whole of tomorrow and he could not get near it.
 
 He got as far as *Sang-hoon saw it* four separate times and stopped there four separate times, and the fourth time he understood that he was not failing to solve it. He did not want to.
 
-At the door in Yeouido on the eighteenth, a man had looked at him for slightly too long. Then he had said that Georgij was either exactly what he looked like, or the best-made thing anybody had ever put in front of him. It had been a compliment with a hook in it and Georgij had enjoyed both halves.
+At a door in Yeouido on the eighteenth, a man had looked at him for slightly too long. Then he had said he was either exactly what he looked like, or the best-made thing anybody had ever put in front of him.
 
 Tonight the man had got his answer, in under a second, for nothing, and had not enjoyed any part of it. Georgij had watched him not enjoy it. That was somehow the worst of it and he could not have explained why to anybody.
 
@@ -6764,11 +6764,9 @@ A man who demonstrates that he can leave, and cannot, has demonstrated one thing
 
 ---
 
-Nobody in four kilometres knew there was surgical steel under his collar, and nobody was looking for him, and neither of those had been true at any point in seventeen years.
+Nobody was looking for him, which had not been true at any point in seventeen years.
 
-It turned out not to be freedom.
-
-It was quiet, and it was a good deal quieter than he liked.
+It turned out not to be freedom. It was quiet, and quieter than he liked.
 
 ---
 
@@ -6970,6 +6968,80 @@ Annie did not answer straight away, and when she did she said it flatly, like a 
 
 ---
 
+"Have you not been holding me perfectly well?"
+
+It came out of him without any preparation at all, which had happened to him twice in seventeen years and both times in this country.
+
+"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." He was not raising his voice and it was getting worse rather than better. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
+
+Annie did not answer.
+
+---
+
+"I do not feel like calling you Mistress at the moment."
+
+Something went across her face and was gone.
+
+"My mistress is ruthless and beautiful and clever as hell," said Georgij, "and she has been all three of those every day since the fourth of October, and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country."
+
+He looked straight at her, which he almost never did.
+
+"Tonight she was none of them."
+
+---
+
+The traffic went over the joint above them four or five times.
+
+"So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time since she had told him he could use it in public. "Why in God's name did you do it?"
+
+---
+
+She did not answer straight away, and he filled it, which he had not done in a room in nine years.
+
+"I have had four hours with that and I have got one sentence out of it," he said. "A man weighs the things he thinks are close to him. Nobody weighs a door handle."
+
+---
+
+Annie put her head back against the rail and looked at the underside of the roadway.
+
+"You think I did not weigh you," she said.
+
+"You told me you did not."
+
+"I told you I did not weigh it. The thing. The four seconds." She was still looking up. "I have known the price of everything in front of me since I was nineteen years old. It is the only thing about me that has never once been wrong."
+
+She brought her head forward again.
+
+"He asked what you would cost, and for about one second I did not know the answer."
+
+---
+
+Georgij did not say anything at all.
+
+"Not the number. I could have said one and he would have believed it." Her hands were flat on her knees. "I did not know whether there was one. I went through a man who has been mine for eight weeks and could not find a price on him, and my hand was in my pocket before I got to the end of it."
+
+"That is not looking for where I break."
+
+"No," said Annie. "That is what I told myself in the four hours afterwards, and it is a better sentence, and I have been saying it to you for twenty minutes."
+
+---
+
+He sat with that.
+
+He had built that sentence out of the only evidence he had, and had been rather pleased with it on the way up the walkway, and it had been the wrong way round from top to bottom.
+
+Twice in one night, with the same woman, on facts he was holding.
+
+"Then I had it backwards."
+
+"Yes."
+
+"I have had it backwards twice since Friday."
+
+"I know," said Annie. "I was there for the other one."
+
+---
+
 "You went over the east wall."
 
 "Yes."
@@ -6982,7 +7054,7 @@ Annie looked at the water through the rail.
 
 "Then you did not leave."
 
-"No, Mistress."
+"No."
 
 "Because it is not finished."
 
@@ -7027,82 +7099,6 @@ He was also aware, saying it, that it was the identical sentence he had used in 
 Fifty-five days, four contracts, a terminal at Yeongjong and a chairman's signature, and he was asking for the same thing in the same words and had no more to put behind it than he had then.
 
 Annie did not answer, and the traffic went on going over the joint, and after a while it became clear that she was not going to.
-
----
-
-"Was I not useful?"
-
-That got her head round.
-
-"It was half of an agreement," said Georgij. "You treat me well, and I am your useful shadow. I have kept my half every day since the fourth of October." He was looking at the water and not at her, and there was nothing in his voice that anybody could have called an accusation, and that was somehow worse. "Including today. Including the four minutes before you did it."
-
-"You were useful."
-
-"Then I would like to know which it was," he said. "Whether the other half was too much to ask for. Or whether it went out of your head."
-
----
-
-Annie took a while over that one.
-
-"Neither," she said. "I did not weigh it."
-
-"No."
-
-"There was a question in that room that I did not want the answer to, and my hand was in my pocket before I had decided anything at all." She said it without any softening anywhere. "If I had weighed it I would have found a reason and you would be sitting here listening to the reason. There was not one. There was a hand and a pocket."
-
----
-
-Georgij was quiet for a moment.
-
-"Say what you are thinking," said Annie. "You have got that face on."
-
-"You will not like it."
-
-"I have not liked any part of the last five hours. Say it."
-
----
-
-"A man weighs the things he thinks are close to him," said Georgij, to the water. "Nobody weighs a door handle."
-
-Annie did not say anything.
-
-"I am not complaining. I have been up here with it since about ten o'clock, and it is better given to you than carried into next week."
-
----
-
-At some point his hand went to his pocket for the cigarettes and came out with the three dead ends instead.
-
-He looked at them for a moment and put them back.
-
-"What is that?"
-
-"Three cigarette ends."
-
-"Why are they in your pocket?"
-
-"Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today is Thursday, and he would have had to pick them up in the morning."
-
----
-
-Annie laughed.
-
-It got out of her before she had any say in it, one syllable and then a second one, and the back of her wrist arrived at her mouth half a beat too late to be of use.
-
-Georgij did not look at her while it happened, which was the most expensive courtesy he had ever paid anybody.
-
-"That is not funny."
-
-"No, Mistress."
-
-"You climbed my wall."
-
-"I did."
-
-"And you carried the ends out with you."
-
-"I did."
-
-She stopped laughing, and then, about four seconds later, she nearly started again and put a stop to it.
 
 ---
 
@@ -7166,7 +7162,7 @@ Annie was quiet long enough for a lorry to go over the joint above them and be g
 
 "Monday," she said. "Named, capped, and it dies on the first of March. Mr Chae will not be told why and he will not enjoy it."
 
-"Thank you, Mistress."
+"Thank you."
 
 "Do not thank me for that. It is what it costs."
 
@@ -7224,7 +7220,7 @@ It went down without any noise that got back up to them, and the river took it e
 
 Neither of them said anything for a while.
 
-There would be another one in a drawer in Yeouido, or there would not be. A man who fits collars can key a new one in about twenty minutes. Both of them knew every part of that, and neither of them said any of it either.
+A man who fits collars can key a new one in about twenty minutes. Both of them knew that, and neither of them said it.
 
 He had read faces for seventeen years and had been paid for the accuracy.
 
@@ -7237,6 +7233,8 @@ He did not know whether he had just watched a woman disarm herself, or a woman w
 "You are still wearing it," said Annie.
 
 "Yes, Mistress."
+
+He heard himself do it, and so did she, and neither of them made anything of it.
 
 "That does not come off tonight."
 
@@ -7296,7 +7294,7 @@ She did not say anything else the whole way up the hill, and neither did he.
 
 Mrs Seo had the small room off the long one laid for two.
 
-She had done it without being asked and without being told when they would be back. She had put the lamp on in the hall and left the one in the passage off, which is what that woman does instead of saying anything.
+Nobody had asked her to and nobody had told her when they would be back. She had put the hall lamp on and left the passage one off, which is what that woman does instead of speaking.
 
 Georgij came in past the stone shelf.
 
