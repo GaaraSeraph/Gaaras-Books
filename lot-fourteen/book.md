@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-30 Kapitel. 87.597 Woerter.
+30 Kapitel. 87.618 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -38,7 +38,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 27 | v3.1 | 3.107 |
 | 28 | v1.1 | 2.687 |
 | 29 | v1.2 | 2.007 |
-| 30 | v1.3 | 3.498 |
+| 30 | v1.4 | 3.519 |
 
 ---
 
@@ -9092,7 +9092,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9500,7 +9500,7 @@ Georgij thought about it for exactly as long as it deserved.
 
 "Then give it to me."
 
-"The container in your shipment was put there. I believe it was Park Sang-hoon's people, and I believe it was done in the second week of October to hold you still while he bought something else." He did not decorate it anywhere. "That is a guess. It is a guess I would put money on and I cannot prove one line of it, and I have told Chairman Woo the same thing in the same words and refused to give him a name."
+"The container in your shipment was put there. I believe it was Park Sang-hoon's people, and I believe it was done in the second week of October to hold you still while he bought something else." He did not decorate it anywhere. "That is a guess. It is a guess I would put money on and I cannot prove one line of it. I said the same sentence to Chairman Woo in November and offered him the name in the same breath, and he did not ask me for it." He did not follow her towards the door. "You have not asked me either."
 
 ---
 
