@@ -146,7 +146,19 @@ Solva
 
 === 6. THINGS THAT MUST NOT DRIFT ===
 
-- He is analytical, blunt and funny. The humour is dry and often crude, and it is his, not everyone else's. Other characters should mostly speak plainly.
+- He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
+  when it is least appropriate: at monsters, at people holding axes, at goats.
+  It is how he handles fear and it is how the reader locates him. Chapter 2 is
+  the calibration point. Between ch3 and ch7 this drifted into a quiet stoic
+  across four chapters without anything catching it, and it had to be put back.
+  Nothing mechanical can see this: it is a reading check, every chapter.
+- Because of that, his silence carries weight. In ch6 he comes up off his knees
+  with his mouth already open, because there is always something to say
+  afterwards and he always says it, and then he hears the hoe and does not speak
+  again for the rest of the night. Marit is the one who notices, on the road
+  north: you didn't stop once while you were killing them, I could tell where
+  you were. Use silence like that, sparingly, and never as a default.
+- Other characters mostly speak plainly, which is not the same as tersely.
 - He is not a hero. He goes into the ruin because it buys him food, standing and information, and because he wants to know.
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.

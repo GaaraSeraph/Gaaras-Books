@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-7 Kapitel. 14.753 Woerter.
+7 Kapitel. 14.978 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -13,8 +13,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 03 | Chapter 3: Dead Man's Boots | 2.481 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: Every Plan I Make Is for One | 2.060 |
-| 07 | Chapter 7: How Did You Know | 1.359 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 2.232 |
+| 07 | Chapter 7: How Did You Know | 1.412 |
 
 ---
 
@@ -1174,7 +1174,15 @@ So he put it next to the blank air over the old man's shoulders and said nothing
 
 "It's Hallvard's stone. He'll want it back." She pushed off the doorpost. "Get the fat off Solva in the morning, for the steel. Don't work it dry."
 
+"He lends me his own stone and puts me in with the livestock. That is a man handling a room, and I have been handled by professionals."
+
+"Go to sleep."
+
 Then she went, and he was alone with four goats.
+
+"You lot smell like a decision I made badly," he told them.
+
+The nearest one looked at him and kept chewing.
 
 Gaara sat on an upturned bucket with his back against the wall and ran the whetstone along the rusted knife the way the skill wanted him to.
 
@@ -1214,6 +1222,8 @@ Doors opened. Of course they did. A man does not stand in a village at three in 
 
 "Don't go out to him. Stay in the door."
 
+"North," Gaara said again. "It is the direction with the monsters in it."
+
 They came to their doorways in their shirts and held their lamps up, and every one of them looked at him instead of at the north end of the road. A woman four doors up said, twice, that she had known this would happen.
 
 "North," Gaara said. "Look north. I am not asking you to believe me. I am asking you to turn your head."
@@ -1233,6 +1243,8 @@ A heavy man came out as far as his own step and no further, with a lamp in one f
 "He's not wrong to ask," somebody said.
 
 "He's not wrong to ask," the heavy man agreed, and did not move.
+
+"Wonderful," Gaara said. "Everybody agrees and nothing happens. I have missed this more than I can tell you."
 
 Somewhere behind him a child started crying and was hushed and started again.
 
@@ -1266,7 +1278,9 @@ The big one out of the dark at the north end. Segmented, low, the colour of old 
 
 Two smaller ones behind it, quick, keeping to the wall line.
 
-"Off the road," Gaara said. "Get behind the pens."
+"Three," Gaara said. "You brought friends. I am flattered. I did not think I had made that kind of impression."
+
+"Off the road," he said, louder. "Get behind the pens."
 
 Nobody moved. Then Marit said it, and they moved.
 
@@ -1275,6 +1289,8 @@ The road was the only thing in this village built by people who knew what they w
 He took Marit's woodpile apart with his boot, kicked an armful of the dry stuff into the gap between the houses, and struck the firestone into it. It caught, sulked, and went up.
 
 The big one stopped.
+
+"Look at that," Gaara said. "You're shy."
 
 "It doesn't like the fire," said a man at his shoulder. He was about fifty, he had a felling axe, and both his hands were shaking. "Look at it. It doesn't like the fire."
 
@@ -1290,6 +1306,8 @@ Adequate for soft targets. Avoid bone.
 
 So he did not go for the legs or the head. He went for the join under the second limb where the plate ended, and the steel went in and came out and he was already moving.
 
+"Sorry," he said to it. "I know. Nobody has ever been gentle with you and I am not going to be the first."
+
 The thing screamed and kept working. He had known it would.
 
 Behind him the road was full of people who had come out of their houses with tools.
@@ -1302,6 +1320,8 @@ So he would let it through.
 
 He put himself half a pace off the centre of the road, opened the space on his right, and let the big one see it.
 
+"There," he said. "Straight through. I am not even going to look at you. Take it. All the way in."
+
 The space behind him was empty. He had checked. He had counted the pens, the doorways, the field gate and the twelve feet of open road, and it was empty.
 
 The big one came.
@@ -1312,7 +1332,9 @@ The point went in. He twisted, because something in him knew to twist.
 
 It came apart under him into motes of light, rising, going out one by one over the thatch.
 
-He was on his knees when he heard the hoe.
+He came up on his knees with his mouth already open, because there was always something to say afterwards and he always said it.
+
+Then he heard the hoe.
 
 The man with the hoe was in the twelve feet of open road, where nothing was supposed to be. He held it the way you hold a tool, then adjusted his hands, and the second small one was already inside the length of it.
 
@@ -1479,6 +1501,18 @@ Hallvard looked at him for a long moment.
 They went out through the north gate while the village was still carrying Osvald in off the road. The mist was in the low ground, lying in the hollows in long white bands.
 
 Marit walked with her right arm strapped across her body and her hatchet in her left hand.
+
+"You've stopped talking," she said, somewhere past the second field.
+
+"Yes."
+
+"You didn't stop once while you were killing them. You were talking to them. It was horrible."
+
+"I know."
+
+"Start again when you can." She shifted the hatchet in her left hand. "I could tell where you were."
+
+He walked a while.
 
 "You'll slow me down," Gaara said.
 

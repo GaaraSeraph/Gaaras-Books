@@ -252,7 +252,9 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 - System output is set in plain brackets, e.g. [ LEVEL UP ], [ TRANSLATION ACTIVE ].
 - Target length: under 2500 words per chapter.
 - Voice: short paragraphs, sentence fragments, concrete sensory detail, close third person.
-- Humour: sarcastic and suggestive, aimed at monsters, danger and himself.
+- Humour: sarcastic and suggestive, aimed at monsters, danger and himself, and
+  it runs almost without pause. He is not a laconic man and must never be
+  written as one. See character-arc.md section 6.
   Corporate and workplace jokes IN HIS MOUTH: one or two per chapter is the
   normal dose, four is the ceiling.
   Corporate metaphors in the NARRATION stay banned. His old life enters as

@@ -126,6 +126,18 @@ They went out through the north gate while the village was still carrying Osvald
 
 Marit walked with her right arm strapped across her body and her hatchet in her left hand.
 
+"You've stopped talking," she said, somewhere past the second field.
+
+"Yes."
+
+"You didn't stop once while you were killing them. You were talking to them. It was horrible."
+
+"I know."
+
+"Start again when you can." She shifted the hatchet in her left hand. "I could tell where you were."
+
+He walked a while.
+
 "You'll slow me down," Gaara said.
 
 "Yes."

@@ -22,6 +22,27 @@ never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
 
+=== Gaara does not shut up, and the silence has to be earned ===
+The author: too few remarks, too few asides, too little crudeness - he would
+never keep his mouth shut. Correct, and it had been true since chapter 3. In ch2
+he is alone in a dead room with two things trying to kill him and he talks the
+entire way through it. From ch3 onward he had been quietly turned into a
+watchful stoic, one chapter at a time, and nothing in the checks can see that
+happening because it is an absence rather than a fault.
+Put back in ch6: he mocks the doorway debate while a village discusses him, he
+greets three crawlers with a line about being flattered, he tells the big one it
+is shy, he apologises to one while opening it up, and he talks the last one
+straight through the gap he has left for it.
+The useful part is what this makes possible. Because the talking is constant, it
+can be taken away: he comes up off his knees with his mouth already open,
+because there is always something to say afterwards and he always says it, and
+then he hears the hoe, and that is the last thing he has to say that night. In
+ch7 Marit names it on the road north - you did not stop once while you were
+killing them, I could tell where you were. His mouth is how other people locate
+him, and losing it is the wound.
+Written into CLAUDE.md and character-arc.md as a reading check, because no
+script can catch a missing joke.
+
 === The attack chapter was split in two ===
 Once the villagers were written as villagers - talking over each other, asking
 the same question twice, arguing about the stranger instead of looking north -

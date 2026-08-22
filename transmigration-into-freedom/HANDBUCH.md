@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 7 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 10.181 Woerter.
+Alle 4 Dokumente am Stueck. 10.633 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -244,7 +244,19 @@ Solva
 
 === 6. THINGS THAT MUST NOT DRIFT ===
 
-- He is analytical, blunt and funny. The humour is dry and often crude, and it is his, not everyone else's. Other characters should mostly speak plainly.
+- He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
+  when it is least appropriate: at monsters, at people holding axes, at goats.
+  It is how he handles fear and it is how the reader locates him. Chapter 2 is
+  the calibration point. Between ch3 and ch7 this drifted into a quiet stoic
+  across four chapters without anything catching it, and it had to be put back.
+  Nothing mechanical can see this: it is a reading check, every chapter.
+- Because of that, his silence carries weight. In ch6 he comes up off his knees
+  with his mouth already open, because there is always something to say
+  afterwards and he always says it, and then he hears the hoe and does not speak
+  again for the rest of the night. Marit is the one who notices, on the road
+  north: you didn't stop once while you were killing them, I could tell where
+  you were. Use silence like that, sparingly, and never as a default.
+- Other characters mostly speak plainly, which is not the same as tersely.
 - He is not a hero. He goes into the ruin because it buys him food, standing and information, and because he wants to know.
 - He reads people well. What he lacks is the cultural dictionary, never the skill.
 - His body is a gift he did not earn and he knows it.
@@ -282,6 +294,27 @@ Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
 never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
+
+=== Gaara does not shut up, and the silence has to be earned ===
+The author: too few remarks, too few asides, too little crudeness - he would
+never keep his mouth shut. Correct, and it had been true since chapter 3. In ch2
+he is alone in a dead room with two things trying to kill him and he talks the
+entire way through it. From ch3 onward he had been quietly turned into a
+watchful stoic, one chapter at a time, and nothing in the checks can see that
+happening because it is an absence rather than a fault.
+Put back in ch6: he mocks the doorway debate while a village discusses him, he
+greets three crawlers with a line about being flattered, he tells the big one it
+is shy, he apologises to one while opening it up, and he talks the last one
+straight through the gap he has left for it.
+The useful part is what this makes possible. Because the talking is constant, it
+can be taken away: he comes up off his knees with his mouth already open,
+because there is always something to say afterwards and he always says it, and
+then he hears the hoe, and that is the last thing he has to say that night. In
+ch7 Marit names it on the road north - you did not stop once while you were
+killing them, I could tell where you were. His mouth is how other people locate
+him, and losing it is the wound.
+Written into CLAUDE.md and character-arc.md as a reading check, because no
+script can catch a missing joke.
 
 === The attack chapter was split in two ===
 Once the villagers were written as villagers - talking over each other, asking
@@ -764,7 +797,9 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 - System output is set in plain brackets, e.g. [ LEVEL UP ], [ TRANSLATION ACTIVE ].
 - Target length: under 2500 words per chapter.
 - Voice: short paragraphs, sentence fragments, concrete sensory detail, close third person.
-- Humour: sarcastic and suggestive, aimed at monsters, danger and himself.
+- Humour: sarcastic and suggestive, aimed at monsters, danger and himself, and
+  it runs almost without pause. He is not a laconic man and must never be
+  written as one. See character-arc.md section 6.
   Corporate and workplace jokes IN HIS MOUTH: one or two per chapter is the
   normal dose, four is the ceiling.
   Corporate metaphors in the NARRATION stay banned. His old life enters as

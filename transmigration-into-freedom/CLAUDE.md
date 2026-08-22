@@ -56,7 +56,17 @@ it rather than cutting the talk. That is how 6 became 6 and 7.
 - Close third person, past tense. Short paragraphs. Sentence fragments are normal.
 - Concrete sensory detail over abstraction. Show the body, the smell, the weight.
 - The humour is dry, sarcastic, and often crude or suggestive. It belongs to Gaara.
-  Other characters mostly speak plainly. If everyone is witty, nobody is.
+- HE DOES NOT SHUT UP. This is the single thing that drifts fastest. He talks at
+  monsters mid-fight, needles people who are pointing weapons at him, and makes
+  the joke nobody wanted. Calibrate against chapter 2, where he is alone in a
+  dead room with two things trying to kill him and still will not stop talking.
+  If a scene has him observing quietly for a page, the scene is wrong.
+- His silence is therefore an EVENT and has to be paid for. When it happens,
+  give the reader a reason and let another character notice it (ch6, ch7).
+- Other characters mostly speak plainly, and plainly does NOT mean tersely.
+  Villagers repeat themselves, ask the same question twice, and say unhelpful
+  things. Clipped dialogue is a stylised register; if everyone has it, everyone
+  sounds like Gaara and nobody sounds like themselves.
 - Corporate or workplace jokes in his mouth: one or two per chapter is the normal
   dose, four is the ceiling. Corporate metaphors in the NARRATION are still banned
   outright; his old life shows up as concrete memory, not as simile.
