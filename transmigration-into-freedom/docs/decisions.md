@@ -3,6 +3,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Progression check stays a warning, never a hard gate ===
+check.py reconstructs Level/HP/MP/attributes/skill-ranks across all chapters and
+flags any value that regresses ("REGEL VERLETZT"). It PRINTS this; it never fails
+the build or the ratchet. Reason: a valveless cross-chapter gate would block a
+legitimate story beat (a curse, an injury, a system penalty, a class change that
+reshuffles stats). The author chose warning-only on purpose. The full status/skill
+history still prints on every run, so a real accidental regression is visible.
+
+=== System and world rules are tagged with the chapter they were established in ===
+story-bible.md sections 2 and 3 carry a (chN) tag on every rule. Reason: so a
+later chapter can be held to the rule, and "a rule was found, then quietly
+ignored" (the thing the author dislikes most in the genre) is traceable to where
+it started. If a chapter ever contradicts a tagged rule, the chapter wins and the
+line is re-tagged, per CLAUDE.md's canon hierarchy.
+
 === Canon-number watchlist in check.py ===
 A short list of numbers with a fixed canon value and a distinctive subject:
 forty houses, thirty-nine companies, eleven coins, Marit at Level 6. check.py

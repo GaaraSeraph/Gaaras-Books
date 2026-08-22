@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 3.983 Woerter.
+Alle 4 Dokumente am Stueck. 4.772 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -179,6 +179,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Progression check stays a warning, never a hard gate ===
+check.py reconstructs Level/HP/MP/attributes/skill-ranks across all chapters and
+flags any value that regresses ("REGEL VERLETZT"). It PRINTS this; it never fails
+the build or the ratchet. Reason: a valveless cross-chapter gate would block a
+legitimate story beat (a curse, an injury, a system penalty, a class change that
+reshuffles stats). The author chose warning-only on purpose. The full status/skill
+history still prints on every run, so a real accidental regression is visible.
+
+=== System and world rules are tagged with the chapter they were established in ===
+story-bible.md sections 2 and 3 carry a (chN) tag on every rule. Reason: so a
+later chapter can be held to the rule, and "a rule was found, then quietly
+ignored" (the thing the author dislikes most in the genre) is traceable to where
+it started. If a chapter ever contradicts a tagged rule, the chapter wins and the
+line is re-tagged, per CLAUDE.md's canon hierarchy.
+
 === Canon-number watchlist in check.py ===
 A short list of numbers with a fixed canon value and a distinctive subject:
 forty houses, thirty-nine companies, eleven coins, Marit at Level 6. check.py
@@ -275,22 +290,35 @@ Morality and violence
 - He believes people can change if they want to. He just does not believe most of
   them really want to.
 
+Sexuality and relationships
+- Polysexual and polyamorous. He pursues and forms partnerships across genders,
+  and with more than one person at once, and does not trim that to fit local
+  custom. Whether people around him approve is their problem, not his, the same
+  way he treats the missing charisma stat.
+- How this world treats such relationships is not established yet (see threads).
+  No romance has started (as of Chapter 6). The story tags include Smut; the
+  written version here stays literary and non-explicit.
+
 
 === 2. THE SYSTEM ===
 
-- A translucent panel, visible only to him, hangs at the edge of his vision permanently.
-- Attributes: STR, DEX, CON, INT, WIS. There is NO charisma, luck or appearance stat. He notices the absence and approves: whether people like him is his business, not the system's.
-- Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Established in Chapter 1 and load-bearing for all future numbers.
-- Levels come from kills. Level 2 gave 3 attribute points.
-- Skills are earned by meeting conditions, not chosen. Ranks are lettered; E is stated as "the lowest recorded proficiency," which tells him someone is keeping score for an entire world.
-- Item assessment comes through the relevant skill (Dagger Mastery reads blades).
-- Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head.
-- Other people have levels. He saw "Marit Halden, Level 6, Human" over her head at the end of Chapter 4. She saw nothing and reacted to nothing. So the numbers are the world's, not his gift. Whether anyone else has a panel is unknown.
-- Animals have levels too. A goat in the byre reads Level 1. The panel reads whatever is in front of him.
-- Villagers of Oldstep run from Level 2 to Level 6. Marit at 6 is the highest in the village.
-- EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara's three candidate explanations: the system cannot read him, the system has been told not to show him, or the panel shows what someone wants Gaara to see rather than what is there.
-- Skills are broader than they sound. Dagger Mastery E also governs sharpening, grip and care of the blade. His wrist finds the correct angle on a whetstone he has never used.
-- MP exists (60) and has never been used. No magic seen yet.
+Each rule is tagged with the chapter it was established in (chN), so a later
+chapter can be held to it. If a chapter ever contradicts one of these, the
+chapter is canon and this line gets fixed and re-tagged to the new chapter.
+
+- (ch1) A translucent panel, visible only to him, hangs at the edge of his vision permanently. That it is his alone is confirmed in ch4 and ch5, where people standing right beside a panel see nothing.
+- (ch1) Attributes: STR, DEX, CON, INT, WIS. There is NO charisma, luck or appearance stat. He notices the absence and approves: whether people like him is his business, not the system's.
+- (ch1) Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Load-bearing for all future numbers.
+- (ch1) MP exists (50, later 60) and has never been used. No magic seen yet.
+- (ch2) Levels come from kills. Level 2 gave 3 attribute points.
+- (ch2) Skills are earned by meeting conditions, not chosen. Ranks are lettered; E is stated as "the lowest recorded proficiency," which tells him someone is keeping score for an entire world.
+- (ch3) Item assessment comes through the relevant skill (Dagger Mastery reads a blade's material, wear, and what it can be trusted to cut).
+- (ch3) Translation was granted automatically on first hearing speech, without asking him. He felt it happen and filed it as a threat: whatever this is, it can write into his head. Reading is untested; the coins' script is still unreadable.
+- (ch4) Other people have levels. He saw "Marit Halden, Level 6, Human" over her head at the end of the chapter. She saw nothing and reacted to nothing. So the numbers are the world's, not his gift. Whether anyone else has a panel is unknown.
+- (ch5) Villagers of Oldstep run from Level 2 to Level 6. Marit at 6 is the highest in the village.
+- (ch5) EXCEPTION: Hallvard, the elder, shows nothing at all. No name, no level, blank air. This is the only failure so far. Gaara's three candidate explanations: the system cannot read him, the system has been told not to show him, or the panel shows what someone wants Gaara to see rather than what is there.
+- (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel reads whatever is in front of him.
+- (ch6) Skills are broader than they sound. Dagger Mastery E also governs sharpening, grip and care of the blade (the grip correction is first felt in ch3; the full breadth lands at the whetstone in ch6). His wrist finds the correct angle on a whetstone he has never used.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
@@ -306,16 +334,18 @@ Inventory
 
 === 3. WORLD ===
 
-Technology stays medieval, permanently. Stone, lime mortar, iron pins, rope, hands. No machinery, no rail, no pipes, no chimneys of industry. The intended flavour is science plus magic, not lost technology.
+Same tagging as the system rules: (chN) is the chapter a fact was established in.
 
-The ruined city (unnamed)
+(ch3) Technology stays medieval, permanently. Stone, lime mortar, iron pins, rope, hands. No machinery, no rail, no pipes, no chimneys of industry. The intended flavour is science plus magic, not lost technology. (Printing is a live question for the long game; see section 7.)
+
+The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - Not a building: a whole city, streets and avenues, drowning in forest.
 - A stone aqueduct crosses the middle distance on hundred-foot legs, snapped clean with both ends still reaching.
 - It was not brought down by weather or time. The aqueduct has a bite out of it; the chamber roof was hit from the side. Nothing these people built could have done that.
 - Gaara's open question: whatever did it either left, or did not.
 - Roots the thickness of a thigh have split worked stone, so it has been empty a very long time.
 
-Oldstep
+Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
@@ -326,12 +356,12 @@ The pattern (established Chapter 6, not yet known to anyone else)
 - Teodor is the exception. He was not taken; he went in on purpose.
 - Gaara's plan: follow the water backward to its source. Whatever changed in spring changed there.
 
-The crawler problem
+The crawler problem (ch4, from Marit's account; detail added ch5 and ch6)
 - Gloom Crawlers never left the ruin in living memory. Since spring they have.
 - Taken so far: two dogs, a boy who was fishing, a man with a cart, then Teodor, who went in after them.
 - Something changed in spring. Cause unknown. This is the first arc.
 
-Gloom Crawlers
+Gloom Crawlers (ch2, fought and killed)
 - Pig-sized, six spiked legs, two barbed whip limbs, red eyes (six on the large one), stench of decay and metal.
 - Armour plates with a seam of pale membrane behind the skull, exposed when the head lifts at the end of a wide sweep.
 - Corpses dissolve into motes of light. They nest and drag kills home.
@@ -374,3 +404,32 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 10. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
 12. Marit came uninvited in Chapter 6 and he could not send her away. First real attack on his self-reliance rule.
+13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
+14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. Decide this before the long game is committed.
+15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
+
+
+=== 7. LONG GAME (author's intent, not yet canon) ===
+
+The direction the author wants the story to grow toward. None of this is
+established in a chapter yet, so it is intent, not canon. It lives here so early
+chapters can plant for it, and so a decision is taken before it is written.
+
+- Gaara wants to build something of his own here again, an enterprise of some
+  kind (which one is open). Consistent with his core drive for control and with
+  "results were not the currency, proximity was."
+- He wants to give knowledge away, not hoard it. A deliberate inversion of the
+  gatekept, proximity-first world he left.
+- Publishing books is a concrete goal. This runs straight into the hard rule
+  "technology stays medieval, permanently, no machinery." A hand screw-press with
+  hand-cut movable type is the same class of tool as an ancient olive or wine
+  press, worked by hand, not industry, so it can fit the rule if framed that way
+  rather than as an anachronistic machine. DECISION NEEDED before it is written:
+  does printing already exist in this world, or does Gaara introduce it, and does
+  it count as forbidden "machinery"? Record the answer in docs/decisions.md.
+- Longer term, possibly his own territory to hold and strengthen, and possibly
+  continued adventuring alongside it. Whether the story settles into
+  territory-building or stays on the road is undecided.
+- All of this depends on the nobility question (thread 14). In a hard feudal
+  world he needs a noble backer to move anything large; in a looser one he does
+  not. Decide the nobility system before committing the long game.
