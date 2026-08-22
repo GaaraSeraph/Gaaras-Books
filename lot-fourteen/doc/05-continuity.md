@@ -114,33 +114,87 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
   ist: ein fremdes Lächeln quer durch den Raum wäre eine weitere Entscheidung,
   und sie trifft seit vierzig Minuten Entscheidungen. (Kapitel 7 und 8, die
   junge Frau an der Bar)
-- **Das zu frühe.** *Offen.* Kommt an, bevor der andere den Satz zu Ende hat, und
-  sagt ohne ein Wort: ich wusste es schon. Der Gegenzug zur Viertelsekunde des
-  breiten - dieselbe Uhr, andere Richtung. Für Sang-hoon und Do-yun.
-- **Das ans Publikum.** *Offen.* Zielt an dem vorbei, mit dem er spricht, auf den,
-  der zusieht. Der Empfänger ist nicht das Ziel.
-- **Das am Telefon.** *Offen.* Niemand sieht es, er baut es trotzdem, weil die
-  Stimme das Gesicht mitträgt. Reine Mechanik, an nichts verschwendet. Gehört
-  nach Kapitel 12, in Kangs Anruf.
+- **Das zu frühe.** *Offen, und mit Vorgeschichte.* Kommt an, bevor der andere
+  den Satz zu Ende hat, und sagt ohne ein Wort: ich wusste es schon. Der
+  Gegenzug zur Viertelsekunde des breiten - dieselbe Uhr, andere Richtung. Für
+  Sang-hoon und Do-yun.
+
+  **Kapitel 16 wurde dafür geprüft und verworfen.** Die Stelle wäre gewesen, wo
+  Sang-hoon sagt *"In the same size type"* und damit seine eigene Prüfung
+  verrät, während Georgij den Satz genau dafür gesetzt hatte. Gesetzt wurde
+  stattdessen das Respektvolle, weil es dem Kapitel mehr gibt: ein Werkzeug an
+  dieser Stelle hätte gezeigt, dass er vorne liegt, das unbewachte zeigt, dass
+  ihm etwas entgeht. Wer es doch noch will, braucht dafür Do-yun, nicht
+  Sang-hoon - der hat sein Gesicht in diesem Kapitel schon.
+- **Das ans Publikum.** *Offen, und nach der grössten Lücke die zweitgrösste.*
+  Zielt an dem vorbei, mit dem er spricht, auf den, der zusieht. Der Empfänger
+  ist nicht das Ziel.
+
+  **Der Grundsatz steht im Text und das Instrument nicht.** Kapitel 11:
+  *Because eight hundred people had spent the evening deciding what I am. I gave
+  them an answer that is not one and let them keep it.* Genau das beschreibt ein
+  Lächeln, das an einem Gesicht vorbei in einen Saal geht - und der Saal steht
+  in Kapitel 8 und 9 bereit, mit achthundert Leuten darin. Die Stelle ist dort
+  und nirgends später.
+- **Das am Telefon.** *Offen, und die einzige der sechs, die sofort umsetzbar
+  ist.* Niemand sieht es, er baut es trotzdem, weil die Stimme das Gesicht
+  mitträgt. Reine Mechanik, an nichts verschwendet.
+
+  **Die Stelle ist ausgezählt.** Kapitel 12, Kangs Anruf, unmittelbar hier:
+
+  > "I am going to ask you something and it is going to sound like a test, and I would like you to know in advance that it isn't one."
+  >
+  > "Then it's a test," said Georgij **pleasantly**, "and you and I can both live with that. Go on."
+
+  Das *pleasantly* steht schon da und beschreibt eine Stimme. Was fehlt, ist der
+  eine Satz, der sagt, dass er dafür das Gesicht gebaut hat, das niemand sieht.
+  Alles andere ist vorhanden: das Telefon, der Ton, der Gegenspieler.
 - Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel
   läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein
   Mensch ist. (Kapitel 8)
 
 #### III. Die Klingen - sie sollen als Drohung ankommen
 
-- **Das freundlichere, je schlimmer es wird.** *Offen, und die größte Lücke.*
+- **Das freundlichere, je schlimmer es wird.** *Zurückgestellt, nicht offen.*
   `doc/02-leads.md` führt den Grundsatz seit Anfang: je zuvorkommender er wird,
-  desto näher ist jemand am Schaden. Ein Instrument dafür gibt es nicht.
-  Kapitel 1 zeigt die Mechanik ohne das Gesicht - *he said it gently*, während
-  er einen Mann vernichtet. Es ist das einzige Lächeln, bei dem der Leser die
-  Akte glaubt.
-- **Das kalte.** *Offen.* Kein Weglassen und keine Spiegelung: ein vollständiges
-  Lächeln, aus dem die Wärme herausgenommen ist, und der andere soll das merken.
-  Sagt: ich habe Dich gelesen und tue nicht so, als hätte ich nicht.
-- **Das halbe.** *Offen und sparsam.* Ein Mundwinkel, gilt niemandem, er
-  amüsiert sich. Das einzige, vor dem kompetente Leute Angst haben, weil es
-  heißt, dass er Spaß hat. Der Anker steht schon in Kapitel 17: *He knew he was
-  doing it and he did not take it off.*
+  desto näher ist jemand am Schaden. Kapitel 1 zeigt die Mechanik ohne das
+  Gesicht - *he said it gently*, während er einen Mann vernichtet. Es ist das
+  einzige Lächeln, bei dem der Leser die Akte glaubt.
+
+  **Es stand hier als grösste Lücke und ist keine.** Der Bogen des Buches ist,
+  dass der Leser die Akte über siebzehn Kapitel hinweg immer weniger glaubt,
+  weil er einen Mann bei der Arbeit zusieht und nicht bei der Vernichtung. Wenn
+  das Instrument unterwegs auftaucht, wird der Verdacht am Leben gehalten und
+  der Bruch verliert. Es gehört in die Blöcke F bis J und dort an die erste
+  Stelle, an der jemand wirklich beschädigt wird.
+
+  **Damit ist es eine Entscheidung und kein Versäumnis**, und wer es vorher
+  einbaut, nimmt dem Buch seinen teuersten Moment. Bis dahin bleibt Kapitel 1
+  die einzige Fundstelle, und sie bleibt ohne Gesicht.
+- **Das kalte.** *Offen, und die nächste Gelegenheit steht schon fest.* Kein
+  Weglassen und keine Spiegelung: ein vollständiges Lächeln, aus dem die Wärme
+  herausgenommen ist, und der andere soll das merken. Sagt: ich habe Dich
+  gelesen und tue nicht so, als hätte ich nicht.
+
+  **Die Stelle ist das Gespräch mit den Kims**, das in `doc/07-next.md` als
+  Nächstes steht, und darin Do-yun. Georgij hat sich in Kapitel 14 einmal in ihm
+  geirrt und es an Fotografien gemerkt. Beim zweiten Mal weiss er es, und dieses
+  Lächeln ist die einzige Art, es zu sagen, ohne es zu sagen.
+- **Das halbe.** *Offen und sparsam, und ohne Anker.* Ein Mundwinkel, gilt
+  niemandem, er amüsiert sich. Das einzige, vor dem kompetente Leute Angst
+  haben, weil es heißt, dass er Spaß hat.
+
+  **Der Anker, der hier stand, war falsch zugeordnet.** Genannt war Kapitel 17,
+  *He knew he was doing it and he did not take it off.* Diese Zeile gehört
+  nachweislich **dem eigenen**: vier Absätze später steht *Two of them in
+  seventeen years had been his own. One had gone to Mr Hong at the gala… This
+  was the other one.* Dieselbe Bewegung steht in Kapitel 14 (*he did not put it
+  away*) und ist dort ausdrücklich *not one he had built*.
+
+  Damit hatte das halbe seine Glaubwürdigkeit aus der einen Sorte geliehen, die
+  das Dokument zwei Absätze weiter unten ausdrücklich schützt: *Wer die zwei
+  vermischt, verbraucht die zwei in siebzehn Jahren.* Der Anker ist gestrichen.
+  Das halbe hat keine Fundstelle und braucht eine eigene.
 
 #### IV. Die unbewachten - es wird nichts geholt
 

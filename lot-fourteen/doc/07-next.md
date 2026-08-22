@@ -75,8 +75,29 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   gegeben. Gesetzt sind jetzt Kapitel 3 (Ji-won auf der Treppe, klein gehalten)
   und Kapitel 5 (der Schneider, hauptsaechlich im Kinn). **Kapitel 2, 4 und 6
   haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
-  nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
-  offenen Sorten sind dort als *offen* markiert.
+  nicht besser. Der volle Katalog steht in `doc/05-continuity.md`.
+
+  **Die sechs unbesetzten Sorten, durchgesehen am 22.08.** Es waren nie drei.
+
+  | Sorte | Stand |
+  |---|---|
+  | Das am Telefon | **sofort umsetzbar**, Stelle ausgezaehlt: Kapitel 12, Kangs Anruf, bei *"Then it's a test," said Georgij pleasantly* |
+  | Das ans Publikum | offen, und die Stelle ist die Gala in Kapitel 8 und 9; das Prinzip steht schon in Kapitel 11 |
+  | Das kalte | offen, gehoert ins Kim-Gespraech, an Do-yun |
+  | Das zu fruehe | offen; Kapitel 16 geprueft und verworfen, braucht Do-yun statt Sang-hoon |
+  | Das halbe | offen und **ohne Fundstelle**, der genannte Anker war falsch zugeordnet |
+  | Das freundlichere, je schlimmer es wird | **zurueckgestellt, keine Luecke** - gehoert in den Bruch |
+
+  **Zwei Befunde dabei.** Der Anker des halben (*He knew he was doing it and he
+  did not take it off*, Kapitel 17) gehoert dem eigenen - vier Absaetze spaeter
+  steht dort *This was the other one* von zweien in siebzehn Jahren. Damit hat
+  eine Sorte ihre Glaubwuerdigkeit von der einen geliehen, die das Dokument zwei
+  Absaetze weiter ausdruecklich schuetzt. Gestrichen.
+
+  Und *das freundlichere* stand als groesste Luecke da und ist keine: der Bogen
+  ist, dass der Leser die Akte ueber siebzehn Kapitel immer weniger glaubt. Wer
+  das Instrument unterwegs einbaut, haelt den Verdacht am Leben und nimmt dem
+  Buch seinen teuersten Moment. Das ist jetzt als Entscheidung verbucht.
 
   **Kapitel 16 hatte ebenfalls keins** und hat jetzt eines (v1.12): dieselbe
   Sorte wie Kapitel 5, das Respektvolle, hauptsaechlich im Kinn, fuer Kompetenz,
