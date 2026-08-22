@@ -1,5 +1,5 @@
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -178,6 +178,18 @@ Georgij put his coat over the back of the chair, which he had not intended to do
 "And you did not."
 
 "I did not, because you can ask that woman once." Hana was entirely level about it. "Fourteen times in twelve years, twice she came. That is not luck and it is not charm. Both times I had something in my hand that was worth her evening, and the other twelve I had a party."
+
+---
+
+"And on the ninth?"
+
+"On the ninth the only thing that would have been worth her evening was nine people in a building in Mapo who had not said yes to anybody." She squared the stack of cards without looking at it. "You told me on the twenty-first that you needed a family in the room with somebody in it who could sign. I have known since that afternoon that there was no point asking her before that existed, and I have known since that afternoon that it might never exist."
+
+Georgij did not say anything for a second.
+
+"You have been waiting on Monday for three weeks."
+
+"I have been waiting on Monday since the twenty-first of November," said Hana, "and I did not know it would be a Monday, and neither did you."
 
 ---
 

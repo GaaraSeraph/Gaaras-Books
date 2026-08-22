@@ -90,7 +90,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v1.4) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v1.5) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -109,6 +109,8 @@ der nicht zurückblättert.
   **Hana hat Ye-rin NICHT gefragt, und das ist der Punkt.** In Kapitel 21 hat sie einen Dienstag angekuendigt; seither sind drei vergangen und sie hat alle drei verstreichen lassen. Am 25. hatte sie eine Party. Am 2. eine Party und eine Gaesteliste. Am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie hat zehn Minuten mit dem Telefon in der Hand gesessen.
 
   **Ihr Grund ist die Regel aus Kapitel 15**, ihre eigene: *"Not quickly and not twice. Once."* Vierzehn Einladungen in zwoelf Jahren, zweimal kam Ye-rin - und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Die anderen zwoelf Male hatte sie eine Party.
+
+  **Und sie hat gewusst, worauf sie wartet.** Seit dem 21. November, aus Georgijs eigenem Mund: Der Abend braucht eine Familie im Raum mit jemandem darin, der unterschreiben kann. Am 9. fehlte genau das - *"nine people in a building in Mapo who had not said yes to anybody"* - und sie wusste nicht, ob es je zustande kommt. *"I have been waiting on Monday since the twenty-first of November, and I did not know it would be a Monday, and neither did you."*
 
   **Eine Fassung, in der sie am 9. fragt und am 12. noch einmal, ist falsch.** Sie hat zuerst so dagestanden, und damit haette sie zweimal gefragt und ihre eigene Regel gebrochen, bevor Georgij ueberhaupt im Zimmer war.
 
