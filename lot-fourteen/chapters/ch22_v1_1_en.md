@@ -35,7 +35,7 @@ Sang-hoon stopped in the hall.
 
 He looked at the ceiling, and at the length of the floor, and at the stone shelf along the west side with the shallow bowl on it. He did it in the way of a man pricing a building he has no intention of buying.
 
-Then he went through to the long room, and Annie stood up, and the two of them were in the same room for the first time in eleven years.
+Then he went through to the long room, and Annie stood up, and the two of them were in the same room. Mrs Seo took that as her cue and closed the door from the outside.
 
 ---
 
@@ -207,7 +207,13 @@ He looked at the table for a moment, at the two glasses that had already been ta
 
 Annie's face did not do anything anywhere.
 
-"In the car eight days ago I told you a true thing that I had not planned to tell you, and it was not a report, and you put the partition up before I said it." He had not raised his voice by any measurable amount. "That was the first thing in seventeen years that I chose. Tonight there was a second one, and it was sitting in that chair, and it was mine.
+"In the car nine days ago I told you a true thing that I had not planned to tell you, and it was not a report, and you put the partition up before I said it."
+
+The remote was still in her hand. She had not put it down and she had not put it away.
+
+"That was the first thing in seventeen years that I chose. Tonight there was a second one. It was sitting in that chair, and it was mine."
+
+He did not look at her hand again.
 
 "You did not want to know whether I would say a number. You wanted it to be a thing that could not be said. So you made it one."
 
@@ -263,12 +269,24 @@ Jang took the packet out of his coat and a lighter out of the same pocket and pu
 
 The garden at eight in the evening in the last week of November is a cold, black, entirely honest place.
 
-He walked the west side, past the cypresses, down to the wall.
+He went east, across twenty metres of flat lawn, to the old roses along the wall.
 
-He had walked this line on his first night in the house, in the hour before anybody knew he was awake, and had come back in and written none of it down. Eleven houses had taught him that you map the ways out of a place on the first night, before you begin to like anybody in it, because after that you map them wrong.
+He had stood at a first-floor window on his first night in the house and looked at this exact ground and thought it was the open side. On his second evening he had found camera twenty-four in the eaves above him, which does not look at the house at all. It looks out across the lawn at these roses. It is on no wall in the monitor room and on no plan anywhere, and it runs into an archive that one person in the world has opened in four years.
 
-The wall was two and a half metres, and there was a place where the ground came up.
+He had shown it to Jang on the fourth day, on the words *show me now*, and it had gone into no plan then either.
 
-He stood in front of it and smoked one of Jang's cigarettes all the way down, and did not think about very much at all.
+So there were two ways over this wall.
 
-Then he found the place where the ground came up, and put his hands on the top of the wall, and went over it.
+There was the corner by the garages, where the camera on the drive turns away for eleven seconds at the top of every minute. A man who went out there tonight would be over and gone, and nobody would know until Mrs Seo laid a place at breakfast.
+
+And there was here.
+
+---
+
+He stood in front of the roses for a while and smoked one of Jang's cigarettes all the way down, and thought about very little.
+
+A man who runs is a man who has been beaten, and a man who is not seen leaving has not left anybody. He was not going anywhere and had known it since the hall.
+
+He put the end of the cigarette out on the wall and put it in his pocket, because Tae-min does this lawn on Mondays and Thursdays and would have had to pick it up.
+
+Then he found the place where the ground comes up, in full view of a lens that reports to one woman, and put both hands on the top of the wall, and went over it.

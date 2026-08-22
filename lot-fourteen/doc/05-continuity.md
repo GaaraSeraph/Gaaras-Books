@@ -85,6 +85,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 23** *Nobody is paid to run* (v1.0) - Dieselbe Nacht, ohne Zeitsprung. Die Mapo-Bruecke, weil er eine Stunde bergab gelaufen ist und nicht wusste, was sie ist; die Schrift am Gelaender bringt es ihm bei. Jang kommt im Laufschritt, holt Sake und wird von Georgij mit beiden Haenden eingeschenkt. Annie setzt sich in ihrem Mantel auf den Beton. *Treat me like a person. Respectfully* zum zweiten Mal, ohne Bitterkeit. Ihr erstes echtes Lachen. Die Fernbedienung liegt zwischen ihnen auf dem Beton und wird wieder eingesteckt, und das Halsband bleibt.
 - **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 
   **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in vier Stellen festgelegt und laeuft so:
