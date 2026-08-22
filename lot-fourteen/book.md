@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 81.182 Woerter.
+28 Kapitel. 81.229 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -35,7 +35,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
-| 27 | v2.3 | 4.877 |
+| 27 | v3.0 | 3.110 |
+| 28 | v1.0 | 1.814 |
 
 ---
 
@@ -8156,7 +8157,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 3.0 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8529,6 +8530,15 @@ She pulled the folder across the table at last and opened it and read the first 
 "Then he is not going to enjoy paying mine."
 
 "No," said Georgij. "He is going to argue with you for a fortnight and get about six per cent of it. Then he is going to tell people for the rest of his life that a woman took him apart over floor space at Incheon."
+
+---
+
+# Chapter 28: A woman in a room can be asked
+*Lot Fourteen* · Version 1.0 · EN
+
+*Day 70 · Friday 12 December*
+
+The fire had gone down to the point where somebody was going to have to decide about it, and neither of them did.
 
 ---
 

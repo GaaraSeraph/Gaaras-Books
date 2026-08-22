@@ -46,6 +46,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 63, Fr 5. Dezember: der Apfelsatz faellt (Kapitel 26)
 - Tag 66, Mo 8. Dezember: Georgij bei den Kims, im eigenen Gebaeude (Kapitel 26)
 - Tag 67 bis 70, Di 9. bis Fr 12. Dezember: der Mietvertrag Woo/Hana (Kapitel 27)
+- Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
 
 ### Die Fahrerwoche
 
@@ -122,7 +123,23 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 27** *Not out of your account* (v2.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 28** *A woman in a room can be asked* (v1.0) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+
+  **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
+
+  **Hana hat sie NICHT gefragt.** Drei Dienstage verstrichen, alle drei bewusst - am 25. hatte sie eine Party, am 2. eine Party und eine Gaesteliste, am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie sass zehn Minuten mit dem Telefon in der Hand. Der Grund ist ihre eigene Regel aus Kapitel 15: *"Not quickly and not twice. Once."* Was am 9. fehlte, waren *"nine people in a building in Mapo who had not said yes to anybody"*, und sie wusste seit dem 21. November, dass sie darauf wartet, und nicht, ob es je kommt.
+
+  **Und dann der Grund, warum diese Frau ueberhaupt nirgends hingeht** - im ganzen Buch zum ersten Mal ausgesprochen und die Voraussetzung fuer alles Weitere: *"A woman in a room can be asked. Her brother has the title and can be asked, and he says he will look into it, and everyone knows what that means. She has no title, so nothing protects her from a direct question."* Zu Hause nimmt sie den Anruf oder nicht und antwortet am Donnerstag. **"That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."**
+
+  **Daraus folgt, was die Einladung sein muss:** keine Auskunft, sondern eine Zusicherung. *"It is a promise about what will not happen to her, and it has to come from the person who would otherwise be the one asking."*
+
+  **Und deshalb schlaegt Hana den Brief vor, nicht Georgij.** Sie kann die zwei Namen tragen und nicht sagen, wofuer sie stehen, weil sie sich verboten hat es zu wissen - und sie kann die Zusicherung nicht geben, weil sie fuer ihn spraeche. Georgij sagt das Papier-Risiko selbst an, dasselbe, das er im November auf ihre Kosten formuliert hat, und schreibt trotzdem: **Jeder hat den schlimmsten Teil zuerst bekommen ausser ihr.** Hana deckt ihn unaufgefordert mit ihrer Karte, ihrer Hand und ihrem Haus auf dem Umschlag.
+
+  **Die Lampe ueber der Stufe ist repariert.** Und in der Halle der persoenliche Teil, den er in Kapitel 21 nicht sagen konnte.
+
+  **Offen:** Was im Brief steht, zeigt der Text nicht.
+
+- **Kapitel 27** *Not out of your account* (v3.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -144,39 +161,6 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-  **Ye-rin weiss seit Montag alles, und das ist die Ausgangslage.** Sung-hos neunzehn Minuten am Telefon in Kapitel 26 waren ein Anruf bei ihr; Georgij sagt es Hana in der Reihenfolge, in der es passiert ist, ohne den Namen zu nennen - *"He did not say so and I did not ask and both of us knew."* Sung-ho kannte Datum, Haus und Woos Ankunft um sieben, also hat sie ihm alles drei in den ersten neunzig Sekunden abgenommen.
-
-  **Sie hat es geprueft und die Familie geschickt und sich selbst herausgehalten.** Hanas Lesart: *"That is not a no. If it were a no she would have kept them home, because the family does not go anywhere she has not looked at. She looked at it and let them go."*
-
-  **Daraus folgt, was die Einladung ueberhaupt noch sein kann.** Sie braucht keine Auskunft - sie hat seit vier Tagen jede Tatsache: *"No fact in that list is going to move a woman who has already looked at it once and decided to stay home. She does not need to be told. She needs to be asked, by somebody who is not part of the arrangement, on her own doorstep, and there is exactly one person alive who qualifies."*
-
-  **Hana hat Ye-rin NICHT gefragt, und das ist der Punkt.** In Kapitel 21 hat sie einen Dienstag angekuendigt; seither sind drei vergangen und sie hat alle drei verstreichen lassen. Am 25. hatte sie eine Party. Am 2. eine Party und eine Gaesteliste. Am 9. eine Party, eine Gaesteliste und einen Mann aus dem Ministerium, und sie hat zehn Minuten mit dem Telefon in der Hand gesessen.
-
-  **Ihr Grund ist die Regel aus Kapitel 15**, ihre eigene: *"Not quickly and not twice. Once."* Vierzehn Einladungen in zwoelf Jahren, zweimal kam Ye-rin - und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Die anderen zwoelf Male hatte sie eine Party.
-
-  **Und sie hat gewusst, worauf sie wartet.** Seit dem 21. November, aus Georgijs eigenem Mund: Der Abend braucht eine Familie im Raum mit jemandem darin, der unterschreiben kann. Am 9. fehlte genau das - *"nine people in a building in Mapo who had not said yes to anybody"* - und sie wusste nicht, ob es je zustande kommt. *"I have been waiting on Monday since the twenty-first of November, and I did not know it would be a Monday, and neither did you."*
-
-  **Eine Fassung, in der sie am 9. fragt und am 12. noch einmal, ist falsch.** Sie hat zuerst so dagestanden, und damit haette sie zweimal gefragt und ihre eigene Regel gebrochen, bevor Georgij ueberhaupt im Zimmer war.
-
-  Jetzt hat sie etwas: Woo um sieben, die Kims vollzaehlig um acht. Zwei Tatsachen, keine Erklaerung.
-
-  **Und dann schlaegt Hana den Brief vor, nicht Georgij** - das ist wichtig, weil er vier Zeilen vorher gesagt hat, dass er in diesem Teil nicht vorkommt. Ihr Argument ist zwingend: Sie kann die zwei Namen ueberbringen und nicht sagen, wofuer sie stehen, **weil sie sich selbst verboten hat, es zu wissen**. Also entscheidet Ye-rin entweder am Sechzehnten stehend in Hanas Halle mit ihrer Familie im Raum, oder vier Tage vorher im eigenen Haus, mit den Worten des Mannes, der es zu verantworten hat.
-
-  **Georgij sagt das Papier-Risiko selbst an**, dasselbe, das er im November auf ihre Kosten gesagt hat: *"If the wrong afternoon ever comes, it is a letter from one chaebol's man to a family under customs investigation, four days before they were photographed together. Nothing in it will be untrue. That does not help."* Er schreibt ihn trotzdem, und der Grund ist konsequent: **Jeder in dieser Sache hat den schlimmsten Teil zuerst bekommen ausser ihr.** Woo in einem Schuppen, Sung-ho stehend im eigenen Sitzungssaal in den ersten vier Minuten. *"She is the only one who has been handled, and she is the only one who has never been in a room with me, and those two facts are the same fact."*
-
-  **Und in der Halle nennt er den persoenlichen Teil**, den er in Kapitel 21 nicht sagen konnte. Er hat ihr ungesagtes Angebot damals ueberholt, damit sie es nicht aussprechen musste, und wuerde es wieder so machen. Was fehlte, war das hier: *"In seventeen years, nobody in a house I was working in has wanted anything from me that was not work. I have been paid for, argued over, insured, transferred, and complimented by a great many people. Nobody had ever been flattering before, and you were, and you did it knowing exactly what I am, which is the only reason it was worth anything."*
-
-  Und die Trennung bleibt sauber: *"That is the personal part. It is not why I did this, and it is why I noticed there was something to do."* Hanas Antwort: *"That was two things. Then I will take both, and neither of us will mention it again, and you will not say it in front of her."*
-
-  **Hana deckt ihn**, unaufgefordert: ihre Karte, ihre Hand, ihr Haus auf dem Umschlag - *"that is a different object from a letter."* Georgij: *"That is the first time anybody in this country has covered for me."* - *"No, it is not. It is the first time you have noticed."*
-
-  **Offen:** Was in dem Brief steht, zeigt der Text noch nicht.
-
-  **Und dann die zweite Einladung, und sie ist eine echte Entscheidung.** Am Dienstag hatte Hana nichts zu erzaehlen. Jetzt hat sie zwei Tatsachen, die keine Erklaerung sind: Woo um sieben, die Kims vollzaehlig um acht. Eine Gaesteliste darf man vorlesen. Ye-rin rechnet in vier Sekunden aus, was das bedeutet - und genau deshalb kann es auch nach hinten losgehen: *"If I ring her a second time in one week with two names in my mouth, she will hear a room being arranged around her, because there is one."*
-
-  **Georgijs Argument dafuer ist keins ueber Erfolgsaussichten:** *"If she comes without knowing who is in the room, she is in a room she did not choose, and she will hold that against you and against me and she will be right. If she comes knowing, she came anyway. Those are two different women walking through your door and only one of them is any use to anybody."*
-
-  Er ueberlaesst ihr die Entscheidung ausdruecklich, weil er Ye-rin nie getroffen hat und Hana sie seit vierundzwanzig Jahren kennt. Hana entscheidet sich dafuer, **nicht am Telefon**.
 - **Kapitel 26** *The name and the control* (v1.0) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
