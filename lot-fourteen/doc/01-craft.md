@@ -142,7 +142,7 @@ Die einzige Ausnahme sind Abfertigungen, die mit Komma und Redebegleitsatz stehe
 
 Imperative sind ohnehin keine Fragen: "Go on." "Say why." "Say how differently."
 
-**Fehler bleiben Fehler.** Georgij darf sich im Nachhinein nicht als heimlicher Planer herausstellen. Wenn ein Patzer gut ausgeht, ist er trotzdem ein Patzer, und er sagt das auch. Sein Satz dazu in Kapitel 11: Der Tag, an dem er anfängt, das zu verwechseln, ist der Tag, an dem er nicht mehr berichten kann, was in einem Raum tatsächlich passiert ist. Ein unschlagbarer Georgij wäre ein langweiliger.
+**Fehler bleiben Fehler.** Georgij darf sich im Nachhinein nicht als heimlicher Planer herausstellen. Wenn ein Patzer gut ausgeht, ist er trotzdem ein Patzer, und er sagt das auch. Seine zwei Sätze dazu in Kapitel 11, beide wörtlich im Text: *"I thought that was a good decision for about three hours."* Und über den Anruf, den er sich selbst eingebrockt hat: *"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on."* Das ist die stärkste Schicht des Kapitels und der Maßstab für alles Weitere. Ein unschlagbarer Georgij wäre ein langweiliger.
 
 **Prüfregel:** Jeder Rückverweis muss eine nachweisbare Stelle im Text haben. "Raised it", "used it", "the line", "on its own" sind nur zulässig, wenn im Text steht, worauf sie sich beziehen.
 
