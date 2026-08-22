@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.682 Woerter.
+24 Kapitel. 70.696 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -32,7 +32,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.4 | 2.657 |
-| 24 | v1.3 | 2.624 |
+| 24 | v1.4 | 2.638 |
 
 ---
 
@@ -7060,7 +7060,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7203,7 +7203,11 @@ Annie turned her head.
 
 "You asked me for it."
 
-"I asked you for it because I cannot do the work without it, and the work is yours as well." He was looking at the water again. "I have been sitting here calling it payment for four minutes. It is a better tool for your house and nothing else. You have just paid me by making me more useful to you, and I nearly took it."
+"I asked you for it because I cannot do the work without it, and the work is yours as well." He was looking at the water again. "I have been sitting here calling it payment for four minutes. It is a better tool for your house and nothing else."
+
+"You will still have it."
+
+"I will keep it, because I cannot work without it." Georgij did not move. "It settles nothing, and I asked for it as though it did."
 
 ---
 

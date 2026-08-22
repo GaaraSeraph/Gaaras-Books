@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 58.738 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 58.866 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1387,7 +1387,11 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 24** *Have you eaten* (v1.3) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
+- **Kapitel 24** *Have you eaten* (v1.4) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
+
+  **Der Fehler mit der Vollmacht ist seiner, und das ist entscheidend.** Er hat den Preis verlangt, die Form gewaehlt und sie *payment* genannt; sie hat innerhalb einer Minute geliefert. Ihre Zeile *"Do not thank me for that. It is what it costs"* ist richtig - sie erkennt an, dass sie schuldet. **Eine Fassung, in der er ihr das vorwirft, ist unlogisch**, und genau die stand hier zuerst.
+
+  Jetzt korrigiert er sich selbst, unaufgefordert und gegen den eigenen Vorteil: *"I asked you for that as payment. I chose the form, I named the price, and you agreed to it inside a minute. None of that is on you."* Das ist die Regel aus `doc/01-craft.md`: Ein Patzer bleibt ein Patzer, auch wenn er gut ausgeht, und er sagt das auch.
 
   **Die Vollmacht ist keine Bezahlung, und er sagt es selbst.** Er hat sie verlangt, weil er ohne sie nicht arbeiten kann - und rechnet dann nach: *"It is a better tool for your house and nothing else. You have just paid me by making me more useful to you, and I nearly took it."* Das ist der Kern der Figur: Er rechnet praezise, auch gegen den eigenen Vorteil.
 
@@ -3690,17 +3694,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:115 | Annie looked at the water for a while. |
 | 55 | ch24:127 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
 | 55 | ch24:139 | Annie turned her head. |
-| 55 | ch24:149 | Annie did not say anything for a moment. |
-| 55 | ch24:173 | Annie was quiet for a long time. |
-| 55 | ch24:183 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
-| 55 | ch24:223 | Annie did not say anything for a while. |
-| 55 | ch24:269 | "You are still wearing it," said Annie. |
-| 55 | ch24:291 | Annie looked out at the water where the other thing had gone. |
-| 55 | ch24:297 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch24:303 | "You said beautiful," said Annie. |
-| 55 | ch24:319 | Annie looked out at the place where the other thing had gone in. |
-| 55 | ch24:333 | "The car is at the end," said Annie. |
-| 55 | ch24:345 | Annie looked out of her side of it. |
+| 55 | ch24:153 | Annie did not say anything for a moment. |
+| 55 | ch24:177 | Annie was quiet for a long time. |
+| 55 | ch24:187 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
+| 55 | ch24:227 | Annie did not say anything for a while. |
+| 55 | ch24:273 | "You are still wearing it," said Annie. |
+| 55 | ch24:295 | Annie looked out at the water where the other thing had gone. |
+| 55 | ch24:301 | "Good," said Annie. "Then neither of us has to be brave about it." |
+| 55 | ch24:307 | "You said beautiful," said Annie. |
+| 55 | ch24:323 | Annie looked out at the place where the other thing had gone in. |
+| 55 | ch24:337 | "The car is at the end," said Annie. |
+| 55 | ch24:349 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3762,7 +3766,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:292` (Tag 55) - ten
 - `ch23:322` (Tag 55) - four, twenty
 - `ch23:338` (Tag 55) - one
-- `ch24:183` (Tag 55) - twenty-three
+- `ch24:187` (Tag 55) - twenty-three
 
 ---
 
@@ -4286,7 +4290,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch24:45 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch24:359 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch24:363 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4312,7 +4316,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
 - `ch24:45` (Tag 55) - eight, one
-- `ch24:359` (Tag 55) - one, two
+- `ch24:363` (Tag 55) - one, two
 
 ---
 
@@ -4579,7 +4583,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
 | 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
 | 55 | ch24:7 | lights on, and Mr Ku by the front wing had not moved at all. |
-| 55 | ch24:341 | Mr Ku had the heater on. |
+| 55 | ch24:345 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
