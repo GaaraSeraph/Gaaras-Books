@@ -212,8 +212,11 @@ QUANTITY = re.compile(
 # Nicht: Groessen, die von Szene zu Szene verschieden sein duerfen.
 FACTS = [
     # (Substantiv, erlaubte Zahlen, wofuer die jeweilige Zahl steht)
-    ("houses", {"eleven", "four"},
-     "elf Platzierungen, vier mit vermerktem Grund"),
+    # Elf sind die Haeuser VOR Annie, zwoelf sind alle. Beide Zahlen sind
+    # richtig und meinen Verschiedenes, und im selben Kapitel duerfen sie
+    # nicht nebeneinanderstehen, weil es dann wie ein Fehler aussieht.
+    ("houses", {"eleven", "twelve", "four"},
+     "elf vor Annie, zwoelf mit ihrem, vier mit vermerktem Grund"),
     ("cameras", {"twenty-four", "twenty-two", "two"},
      "vierundzwanzig gesamt, zweiundzwanzig auf der Wand, zwei zusaetzliche"),
     ("languages", {"four"},

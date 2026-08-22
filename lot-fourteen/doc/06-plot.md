@@ -25,8 +25,8 @@ Plan geaendert.
 | F | Arbeitszimmer | offen |
 | G | Der Bruch | offen |
 | H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/08-decisions.md` |
-| I | Die Mauer | offen, Voraussetzung geändert |
-| J | Mapo-Brücke | offen |
+| I | Die Mauer | **geschrieben, Kapitel 22** |
+| J | Mapo-Bruecke | **geschrieben, Kapitel 23** |
 
 Kapitel 12 bis 16 haben Stoff hinzugefügt, den dieser Plan gar nicht kannte. Er steht unten unter **"Was der Plan nicht hatte"**, weil die Blöcke E bis J inzwischen darauf aufbauen.
 
@@ -378,7 +378,7 @@ dass seine Stellung ausschliesslich vom Wohlwollen einer anderen abhaengt. Er
 muss nicht mehr raten, was unbeschriebene Macht wert ist. **Er ist der Beweis.**
 Der Text sagt das nirgends.
 
-### Block I - Die Mauer **[OFFEN, Voraussetzung geändert]**
+### Block I - Die Mauer **[GESCHRIEBEN, Kapitel 22]**
 
 **[KORRIGIERT] Die tote Zone hinter den östlichen Rosen gibt es nicht.** Siehe Block A. Kamera vierundzwanzig sitzt in der Osttraufe und sieht über den Rasen genau auf diese Rosen, Georgij weiß es seit Tag zwei, Jang seit Tag vier, und montags und donnerstags steht Tae-min davor.
 
@@ -400,7 +400,12 @@ Damit steht "Sie findet ihn, weil er nicht schwer zu finden ist" nicht mehr als 
 
 **Anschließender offener Faden:** In Kapitel 10 sagt Georgij zu Sang-hoon, er werde das Abendessen selbst bezahlen, damit es auf niemandes Spesen auftaucht. Fällig geworden ist der Satz nie, weil in Kapitel 16 in Sang-hoons eigenem Büro gegessen wird und das Essen bereits bestellt war, als Georgij ankommt. Der Satz steht aber im Protokoll und dieselbe Frage hängt daran wie am Sake. Wenn wir Auflösung 1 nehmen, muss irgendwann jemand die Frage stellen, womit er hätte zahlen wollen.
 
-### Block J - Mapo-Brücke **[OFFEN]**
+### Block J - Mapo-Bruecke **[GESCHRIEBEN, Kapitel 23]**
+
+**Abweichung vom Plan, und sie war noetig.** Hier stand, sie lege die Fernbedienung zwischen sie auf den Beton und das Halsband bleibe trotzdem. Das ist geschrieben und steht so im Text - **und dann wirft sie sie in den Fluss.** Grund: Der Block hatte keine Folge. Er fuehrt vor, dass er gehen kann, sie holt ihn, und die Lage ist danach die von halb sechs. Das Ablegen allein schliesst den Kreis und aendert nichts. Das Werfen aendert etwas Physisches, kostet sie etwas, und beide wissen, dass eine neue in zwanzig Minuten angelernt waere, und keiner sagt es.
+
+**Das Halsband bleibt, und sie spricht es aus:** *"That was mine to throw. The rest of it is not mine to give back."*
+
 
 Rohmaterial Szene 12. Sie setzt sich neben ihn auf den Beton.
 

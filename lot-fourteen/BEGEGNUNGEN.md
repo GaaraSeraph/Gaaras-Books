@@ -18,11 +18,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 221 | 21 (01-23) | 1 | 55 |
+| Annie | 219 | 21 (01-23) | 1 | 55 |
 | Hana | 98 | 8 (09-21) | 22 | 49 |
 | Chairman Woo | 75 | 13 (07-23) | 22 | 55 |
-| Park Sang-hoon | 62 | 10 (10-22) | 22 | 55 |
-| Jang | 58 | 12 (05-23) | 4 | 55 |
+| Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
+| Jang | 57 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 43 | 14 (03-23) | 1 | 55 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
@@ -31,16 +31,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
 | Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
-| Mr Baek | 5 | 4 (05-23) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
 | Eun-ju | 4 | 3 (05-14) | 6 | 34 |
+| Mr Baek | 4 | 3 (05-15) | 6 | 41 |
 | Mr Ku | 4 | 4 (05-23) | 6 | 55 |
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
 | Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
+| Tae-min | 3 | 3 (05-23) | 6 | 55 |
 | Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
-| Tae-min | 2 | 2 (05-22) | 6 | 55 |
 | Mr Im | 1 | 1 (05) | 6 | 6 |
 | Mrs Ahn | 1 | 1 (05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (07) | 22 | 22 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-221 Nennungen in 21 Kapiteln.
+219 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -267,14 +267,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:180 | Annie did not move. |
 | 55 | ch22:208 | Annie's face did not do anything anywhere. |
 | 55 | ch22:232 | Annie said nothing. |
-| 55 | ch23:140 | Annie came along the walkway on her own. |
-| 55 | ch23:156 | "I wanted to know whether you would break," said Annie. |
-| 55 | ch23:170 | Annie was quiet for a moment. |
-| 55 | ch23:200 | "Tell me why you stayed," said Annie, "and do not be gallant about it, because I will kn.. |
-| 55 | ch23:214 | Annie looked at the water through the rail. |
-| 55 | ch23:228 | Annie laughed. |
-| 55 | ch23:238 | "I know," said Annie. "That is why it is." |
-| 55 | ch23:256 | "The car is at the end," said Annie. |
+| 55 | ch23:208 | Annie looked at the water through the rail. |
+| 55 | ch23:230 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
+| 55 | ch23:248 | Annie laughed. |
+| 55 | ch23:306 | "You are still wearing it," said Annie. |
+| 55 | ch23:322 | "The car is at the end," said Annie. |
+| 55 | ch23:334 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -559,7 +557,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:216 | "Woo at seven." |
 | 49 | ch21:218 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
-| 55 | ch23:134 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly. He told me at the .. |
+| 55 | ch23:166 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -597,13 +595,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:216` (Tag 49) - seven
 - `ch21:218` (Tag 49) - eight, nine, one, seven
 - `ch21:354` (Tag 49) - six
-- `ch23:134` (Tag 55) - four
+- `ch23:166` (Tag 55) - four
 
 ---
 
 ## Park Sang-hoon
 
-62 Nennungen in 10 Kapiteln.
+63 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -669,6 +667,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
 | 55 | ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
 | 55 | ch22:138 | "Well," said Sang-hoon. |
+| 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -696,12 +695,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:290` (Tag 48) - one
 - `ch22:54` (Tag 55) - fifteen
 - `ch22:66` (Tag 55) - six, two
+- `ch23:28` (Tag 55) - four
 
 ---
 
 ## Jang
 
-58 Nennungen in 12 Kapiteln.
+57 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -748,21 +748,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:266 | "Keep the lighter," said Jang. |
 | 55 | ch22:276 | He had shown it to Jang on the fourth day, on the words *show me now*, and it had gone i.. |
 | 55 | ch22:286 | He stood in front of the roses for a while and smoked one of Jang's cigarettes all the w.. |
-| 55 | ch23:46 | Jang got there six minutes later. |
-| 55 | ch23:52 | "Mr Jang." |
-| 55 | ch23:58 | Jang looked at him for slightly longer than was comfortable for either of them. |
-| 55 | ch23:66 | Jang came the four metres. |
-| 55 | ch23:76 | "You do not." Jang wiped his face with the back of his wrist and left it at that. "There.. |
-| 55 | ch23:80 | "I know what you have," said Jang. "I have read your file. Wait here and do not move off.. |
-| 55 | ch23:92 | "No," said Jang. "I was in the hall." |
-| 55 | ch23:98 | Then Georgij took the bottle and poured the second cup for Jang, properly, both hands, t.. |
-| 55 | ch23:100 | Jang looked at the cup in his own hand and then at the man who had filled it, and did no.. |
-| 55 | ch23:106 | Jang drank it and put the cup down on the rail and did not say anything at all, which wa.. |
-| 55 | ch23:118 | "She had been in the car since about ten past nine," said Jang, "and she did not ask me .. |
-| 55 | ch23:130 | Jang put his cup in his pocket and picked up the bottle. |
-| 55 | ch23:132 | "Mr Jang." |
-| 55 | ch23:134 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly. He told me at the .. |
-| 55 | ch23:220 | "Constantly, and I have watched you do it for eight weeks." He turned his head. "You bel.. |
+| 55 | ch23:86 | Jang got there six minutes later. |
+| 55 | ch23:90 | "Mr Jang." |
+| 55 | ch23:96 | Jang stood there. |
+| 55 | ch23:106 | "I know what you have," said Jang. "I read the file before I took the job." |
+| 55 | ch23:114 | Then Georgij took the bottle and poured the second cup for Jang, with both hands, the wa.. |
+| 55 | ch23:116 | Jang looked at the cup and then at the man holding the bottle. |
+| 55 | ch23:122 | Jang drank it. |
+| 55 | ch23:130 | "She was already in the car." Jang put his cup down on the rail. "Since about ten past n.. |
+| 55 | ch23:142 | Jang refilled his own cup and did not offer the bottle. |
+| 55 | ch23:148 | "Yes," said Jang. "That is what I am saying." |
+| 55 | ch23:156 | "You are not a boy in Ulsan," said Jang, "and I am not paid to tell you what you are." |
+| 55 | ch23:162 | Jang picked up the bottle and put his cup in his pocket. |
+| 55 | ch23:164 | "Mr Jang." |
+| 55 | ch23:166 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 
 ### Zahlen in der Naehe von Jang
 
@@ -789,12 +788,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:254` (Tag 46) - six
 - `ch18:8` (Tag 48) - one
 - `ch22:286` (Tag 55) - one
-- `ch23:46` (Tag 55) - six
-- `ch23:66` (Tag 55) - four
-- `ch23:80` (Tag 55) - four
-- `ch23:118` (Tag 55) - nine, ten
-- `ch23:134` (Tag 55) - four
-- `ch23:220` (Tag 55) - eight, nine
+- `ch23:86` (Tag 55) - six
+- `ch23:130` (Tag 55) - nine, ten
+- `ch23:166` (Tag 55) - four
 
 ---
 
@@ -846,7 +842,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | ch23:220 | "Constantly, and I have watched you do it for eight weeks." He turned his head. "You bel.. |
+| 55 | ch23:348 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -871,7 +867,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:12` (Tag 49) - six
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
-- `ch23:220` (Tag 55) - eight, nine
+- `ch23:348` (Tag 55) - one, two
 
 ---
 
@@ -1125,26 +1121,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Baek
-
-5 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | ch23:220 | "Constantly, and I have watched you do it for eight weeks." He turned his head. "You bel.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch23:220` (Tag 55) - eight, nine
-
----
-
 ## Mr Noh
 
 5 Nennungen in 1 Kapiteln.
@@ -1203,6 +1179,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Baek
+
+4 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+
+---
+
 ## Mr Ku
 
 4 Nennungen in 4 Kapiteln.
@@ -1212,7 +1206,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:128 | The car came onto the bridge from the far side and stopped in a place where cars do not .. |
+| 55 | ch23:330 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -1277,6 +1271,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Tae-min
+
+3 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
+| 55 | ch23:244 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
+
+### Zahlen in der Naehe von Tae-min
+
+- `ch05:178` (Tag 6) - nineteen, two
+
+---
+
 ## Choi Dae-ho
 
 2 Nennungen in 1 Kapiteln.
@@ -1289,21 +1299,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Choi Dae-ho
 
 - `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-
----
-
-## Tae-min
-
-2 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
-
-### Zahlen in der Naehe von Tae-min
-
-- `ch05:178` (Tag 6) - nineteen, two
 
 ---
 

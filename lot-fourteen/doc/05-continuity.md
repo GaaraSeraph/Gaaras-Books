@@ -40,7 +40,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
 - Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
 - Tag 52, Mo 24. November: das Gebot geht raus
-- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22)
+- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22), in derselben Nacht die Mapo-Bruecke (Kapitel 23)
 
 ### Die Fahrerwoche
 
@@ -85,7 +85,9 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 23** *Nobody is paid to run* (v1.0) - Dieselbe Nacht, ohne Zeitsprung. Die Mapo-Bruecke, weil er eine Stunde bergab gelaufen ist und nicht wusste, was sie ist; die Schrift am Gelaender bringt es ihm bei. Jang kommt im Laufschritt, holt Sake und wird von Georgij mit beiden Haenden eingeschenkt. Annie setzt sich in ihrem Mantel auf den Beton. *Treat me like a person. Respectfully* zum zweiten Mal, ohne Bitterkeit. Ihr erstes echtes Lachen. Die Fernbedienung liegt zwischen ihnen auf dem Beton und wird wieder eingesteckt, und das Halsband bleibt.
+- **Kapitel 23** *Have you eaten* (v2.0) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden. Annie setzt sich auf den Beton. Die drei Kippenstummel und ihr erstes echtes Lachen. **Sie wirft die Fernbedienung in den Han.** Das Halsband bleibt. Im Wagen die Frage vom Gelaender.
+
+  **Was sich damit aendert, und das war der Punkt.** Eine Fassung endete versoehnt und ohne Folgen - er fuehrt vor, dass er gehen kann, sie holt ihn, und die Lage ist die von halb sechs. Das traegt nicht. **Die Fernbedienung ist ab jetzt im Fluss**, und beide wissen, dass eine neue in zwanzig Minuten angelernt waere, und keiner sagt es. Was sie wegwirft, ist ihres; das Halsband ist es nicht, und sie sagt das auch: *"That was mine to throw. The rest of it is not mine to give back."* **Georgij kann nicht lesen, was er da gesehen hat** - Entwaffnung oder eine Frau, die den Beweis schon erbracht hat und das Geraet nicht mehr braucht. Das ist die zweite Stelle nach Kapitel 20, an der er eine Frau nicht lesen kann.
 - **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 
   **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in vier Stellen festgelegt und laeuft so:
