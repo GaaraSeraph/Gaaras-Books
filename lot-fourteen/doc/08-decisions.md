@@ -619,3 +619,94 @@ Ruin ist.
 
 **Merke fuer alles Weitere:** Sang-hoon irrt sich nirgends in dem, was er sehen
 kann. Wo eine Szene ihn dumm aussehen laesst, ist die Szene falsch.
+
+---
+
+### Ye-rin wird im Dezember angesprochen, nicht im Januar
+
+**Korrigiert am 22.08.**, auf den Einwand des Autors: Warten um des Wartens
+willen ergibt keinen Sinn, wenn alles vorbereitet ist.
+
+**Warum Januar ueberhaupt dastand.** Ich hatte vier Vorbedingungen fuer den einen
+Versuch notiert, darunter *"Woos Name steht oeffentlich neben ihrem und die
+Kuendigungen haben aufgehoert."* Diese Bedingung ist am selben Tag gestrichen
+worden - die Reporter kommen jetzt **nach** ihrer Zusage, und sie haelt den
+Ausloeser. Ich habe die Liste danach nicht neu gerechnet und den Termin
+verteidigt, weil er aufgeschrieben war.
+
+**Neu gerechnet bleibt eine einzige echte Vorbedingung: Sang-hoon muss gebunden
+sein.** Das ist er in der ersten Dezemberwoche.
+
+**Drei Gruende, nicht zu warten:**
+
+- Warten kostet die Familie drei Kuendigungen pro Woche und bringt den Neffen mit
+  vier Prozent naeher an seinen Anruf. Der eine Schuss faellt dann auf eine Frau,
+  die schon dabei ist, die Kontrolle zu verlieren.
+- Kapitel 18 sagt es selbst: *"It is three weeks, and they are the three weeks
+  over the New Year, when nobody in this country signs anything."* Der Januar ist
+  der schlechteste Teil des Fensters, nicht der beste.
+- **Und der eigentliche Gewinn: Woo ist an diesem Abend im Haus.** Sie muss
+  Georgij nicht glauben. Sie kann in den Nebenraum gehen und einen Mann mit
+  einundfuenfzig Jahren fragen, ob es echt ist. Das ist der bestmoegliche Beweis,
+  und es gibt ihn genau einmal, weil Woo aus seinen eigenen Gruenden ohnehin da
+  ist.
+
+**Die Feier bei Hana**, Mitte Dezember, loest damit alles auf einmal:
+
+- Woos Bedingung woertlich - *"a room with that family in it and somebody who can
+  actually sign"*. Der Bruder hat den Titel, und in einem Nebenzimmer machen die
+  beiden ihr gewoehnliches Papier. **Deshalb ein Haus und kein Hotel:** Der Anlass
+  traegt das Nebenzimmer.
+- **Woo findet Ye-rin selbst.** Er hat gesagt *"not the ones who talk"*, und auf
+  einer Feier ist die, die nicht redet, genau die, die er sucht. Hinterher sagt er
+  Georgij, dass er sie gefunden hat.
+- Hanas Einfuehrung, die `doc/04-world.md` als *"eine Einfuehrung, keine
+  Erlaubnis"* fuehrt.
+- Und das eine Gespraech, an diesem Abend, allein, in einem Zimmer.
+
+**Die Kette steht damit so:**
+
+| Wann | Was |
+|---|---|
+| Ende November | Annies Scheingebot scheitert sichtbar |
+| kurz darauf | Sang-hoon auf dem Anwesen. **Der Bruch.** Er geht am selben Tag |
+| danach | die Bruecke |
+| Anfang Dezember | Sang-hoon kauft und ist gebunden |
+| **Mitte Dezember** | **Die Feier bei Hana. Ye-rin, allein, an diesem Abend** |
+| danach | die sechs unterschreiben, dann gruenes Licht fuer Reporter |
+
+**Er geht also wenige Tage nach dem Bruch in das wichtigste Gespraech des
+Buches** - als ein Mann, dem gerade vor einem Zeugen vorgefuehrt wurde, dass seine
+Stellung ausschliesslich vom Wohlwollen einer anderen abhaengt. Und bittet eine
+Frau, ihre unbeschriebene Macht aufschreiben zu lassen.
+
+---
+
+### Annie geht auf Woos Satz mit keinem Wort ein
+
+**Entschieden am 22.08.** In Kapitel 20 berichtet Georgij, was Woo ueber das
+Vetorecht gesagt hat. Annie erwidert **nichts**. Keine Bestaetigung, kein
+Widerspruch, kein *"Was dachtest Du denn, was ich kaufe?"*
+
+Das macht sie groesser und laesst ihn ratlos: Weiss sie es? Ist es ihr gleich?
+Hat er gerade einen Fehler gemacht? Er bekommt keine Antwort und wird auch keine
+bekommen.
+
+**Sie stellt stattdessen genau eine Frage, und die ist nicht ueber die Sache,
+sondern ueber ihn:** *"Und was hast Du gesagt?"*
+
+Er hat *"Yes"* gesagt. Er hat einem Fremden gegenueber bestaetigt, dass die
+Kritik an ihrem Plan zutrifft. **Das ist das erste, was er je getan hat, das
+nicht fuer sie war.** Sie bestraft es nicht. Sie legt es ab.
+
+**Und das ist der Zuender.** Wochen spaeter fragt Sang-hoon in ihrem Haus, was
+Georgij kostet, und sie weiss seit diesem Freitag, dass er ueber sie schon einmal
+mit jemand anderem einer Meinung war.
+
+**Seine Eroeffnung steht fest** und stammt vom Autor:
+
+> "Mistress, I am sorry. I could not do what you said. I came back with a favour."
+
+Er zahlt den Preis zuerst und liefert den Inhalt danach, unaufgefordert, fuer
+eine Anweisung, die er nicht einhalten konnte. Und *I came back with a favour*
+ist woertlich wahr: Er traegt ihn herein.
