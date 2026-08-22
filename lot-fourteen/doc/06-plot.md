@@ -254,6 +254,24 @@ Vorfuehrung ihr; in einem neutralen Raum waere es eine Szene, in ihrem Haus ist
 es eine Feststellung. Die beiden Prinzipale sitzen zum ersten Mal in einem Raum,
 und Georgij ist dabei.
 
+**Wann, und warum gerade dann.** Der Bruch liegt **vor** Sang-hoons Kauf, im
+Fenster zwischen Annies Scheingebot auf Hanseong und seiner Unterschrift Anfang
+Dezember. Sein Motiv ist dann schaerfer als blosse Neugier.
+
+Georgij hat ihm die neunzehn Seiten selbst gegeben. Sang-hoon weiss also, wer
+Hanseong gefunden hat. Und dann bietet Annie darauf. Aus Yeouido gesehen heisst
+das eines von zwei Dingen: Entweder hat Georgij auf beiden Seiten gespielt, oder
+Annie handelt nach der Arbeit ihres Beraters. **Beides fuehrt zum selben
+Schluss - auf der anderen Seite des Tisches sitzt jemand, der findet, was er
+findet.**
+
+Er kommt also nicht, um einen nuetzlichen Mann zu kaufen. Er kommt, um ihn von
+dort wegzuholen, oder wenigstens seinen Preis zu kennen, damit er weiss, wie
+ungedeckt er ist.
+
+**Damit hat das Scheingebot einen Preis, den Georgij nicht eingerechnet hat**, und
+das ist die Bauart dieses Buches: Jeder kluge Zug bekommt eine Rechnung.
+
 **Sang-hoon fragt vor ihr, was Georgij kosten wuerde.** Er will nicht kaufen. Er
 will wissen, was Georgij **ihr** wert ist. An der Tuer in Kapitel 16 hat er
 gesagt, Georgij sei entweder genau das, wonach er aussieht, oder das bestgemachte
@@ -261,6 +279,11 @@ Ding, das ihm je jemand vorgesetzt hat. Die Preisfrage vor der Besitzerin ist di
 billigste Art, das zu klaeren, und sie kostet ihn nichts.
 
 **Annie benutzt die Fernbedienung. Einmal.**
+
+**Die Preisfrage klaert nebenbei den Verdacht.** Ein Mann, dessen Preis die
+Besitzerin nennt, hat nicht auf zwei Seiten gespielt. Deshalb hat der Griff zur
+Fernbedienung zwei Wirkungen, und beide sind wahr: Sie beendet die Sondierung,
+und sie beantwortet die Frage, ob Georgij ihr gehoert.
 
 **Der Vorwand traegt, weil er wahr ist.** Es gibt keine sprachliche Erwiderung,
 die funktioniert: Jede Zahl ist eine Zahl, keine Zahl zu nennen ist kokett, und
@@ -330,6 +353,28 @@ Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von 
 **Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
 
 **Damit steht der Schluss auf drei Schlaegen und nicht auf vieren:** der Bruch, die Mauer, die Bruecke. Der Garten ist gestrichen, und die Versoehnung findet ausschliesslich auf dem Beton statt.
+
+**Und die Uhr steht fest:**
+
+| Wann | Was |
+|---|---|
+| Ende November | Annies Gebot geht raus und scheitert am fehlenden Beschluss |
+| kurz darauf | Sang-hoon kommt auf das Anwesen. **Der Bruch.** |
+| derselbe Tag | Zigaretten, die Mauer |
+| danach | die Bruecke |
+| Anfang Dezember | Sang-hoon unterschreibt bei Hanseong und sitzt fest |
+| Januar | **Ye-rin, allein** |
+
+**Der Bruch liegt also vor dem Fenster und nicht danach**, und das ist die
+interessantere Fassung: Der ganze Rest des Plans laeuft mit einer zerbrochenen
+Beziehung weiter. Er tut die Arbeit dann nicht mehr fuer sie, sondern weil sie
+seine ist.
+
+**Und es bringt etwas mit, das sich von selbst ergibt.** Er geht in Ye-rins
+Zimmer als ein Mann, dem wenige Wochen vorher vor einem Zeugen vorgefuehrt wurde,
+dass seine Stellung ausschliesslich vom Wohlwollen einer anderen abhaengt. Er
+muss nicht mehr raten, was unbeschriebene Macht wert ist. **Er ist der Beweis.**
+Der Text sagt das nirgends.
 
 ### Block I - Die Mauer **[OFFEN, Voraussetzung geändert]**
 
