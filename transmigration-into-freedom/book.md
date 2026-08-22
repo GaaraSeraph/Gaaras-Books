@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-7 Kapitel. 14.978 Woerter.
+7 Kapitel. 15.113 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -13,7 +13,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 03 | Chapter 3: Dead Man's Boots | 2.481 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: Every Plan I Make Is for One | 2.232 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 2.367 |
 | 07 | Chapter 7: How Did You Know | 1.412 |
 
 ---
@@ -1182,7 +1182,16 @@ Then she went, and he was alone with four goats.
 
 "You lot smell like a decision I made badly," he told them.
 
-The nearest one looked at him and kept chewing.
+The nearest one looked at him and kept chewing, and the panel opened over its head.
+
+
+Goat
+Level 1
+
+
+"Of course you are," he said.
+
+So it was not only people. It read whatever stood in front of him, and it had a number ready for a goat in a byre at midnight, and it had still never once told him anything he wanted to know.
 
 Gaara sat on an upturned bucket with his back against the wall and ran the whetstone along the rusted knife the way the skill wanted him to.
 
@@ -1309,6 +1318,14 @@ So he did not go for the legs or the head. He went for the join under the second
 "Sorry," he said to it. "I know. Nobody has ever been gentle with you and I am not going to be the first."
 
 The thing screamed and kept working. He had known it would.
+
+Then Marit came in on his left with the hatchet up in both hands and put it into a leg joint, and the thing went half down and dragged itself along the wall out of reach.
+
+"Well struck," Gaara said. "And for the record, the timing of this is deliberate, because you have a magnificent arse and I am never going to get a safer moment to mention it."
+
+"Mind your own side."
+
+"I am minding several sides."
 
 Behind him the road was full of people who had come out of their houses with tools.
 

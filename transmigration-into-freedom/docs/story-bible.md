@@ -118,7 +118,13 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 7). The story tags include Smut; the
+  No romance has started (as of Chapter 7), but the first pass has been made and
+  it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
+  magnificent arse and says outright that the timing is deliberate, because in a
+  fight it is only noise and later it would be a move. She says "mind your own
+  side" and keeps swinging. Nobody is embarrassed and nothing starts. That is
+  the register: he does not hint, he does not build up to things, and he does
+  not treat a refusal as a wound. The story tags include Smut; the
   written version here stays literary and non-explicit.
 
 
@@ -151,6 +157,10 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
+- (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel
+  reads whatever stands in front of him, which is what makes the panel over the
+  dead man later in the same chapter land: it is the same size, the same colour,
+  the same flat two lines it used for livestock.
 - (ch6) THE SAME KILLS STOP PAYING. Two crawlers were worth a whole level at
   Level 1. Two more, at Level 2, are worth nothing at all: no level, no line,
   no acknowledgement. Gaara infers the reason and it matches the scale he worked

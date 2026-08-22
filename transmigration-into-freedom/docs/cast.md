@@ -4,6 +4,9 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- Fights in ch6 rather than watching: comes in on his left with the hatchet in
+  both hands and puts it through a leg joint. She takes his compliment in the
+  middle of it without breaking stride or taking offence.
 - Injured in ch6: barbs across the right forearm and up under the arm into the
   ribs, taken while pulling a man out of the road. Walks north with the arm
   strapped across her body and the hatchet in her left hand.
