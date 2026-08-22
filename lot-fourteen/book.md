@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 68.034 Woerter.
+23 Kapitel. 69.029 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v2.1 | 2.633 |
+| 23 | v2.3 | 3.628 |
 
 ---
 
@@ -6718,7 +6718,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Have you eaten
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6860,19 +6860,39 @@ Georgij turned his head.
 
 Jang refilled his own cup and did not offer the bottle.
 
-"I would have gone out by the garages," he said, to the water. "Eleven seconds at the top of the minute and the hedge covers the last four metres. I worked it out in my first week and I have never told anybody, including her."
+"The corner by the garages," he said, to the water. "Eleven seconds at the top of every minute, and the hedge covers the last four metres of it."
 
 "I know about the garages."
 
-"Yes," said Jang. "That is what I am saying."
+"Everybody who has ever walked that fence in daylight knows about the garages." Jang drank half the cup. "I wrote it up in my first week. Two paragraphs, a drawing, and a price. It is a camera and a bracket and a man for one afternoon."
 
-He drank it and put the cup down.
+"And."
 
-"You went out in front of the one lens in that house that nobody watches except her." He was not looking at Georgij and did not appear to want to. "I have been doing this for nineteen years and I have seen four people go over a wall. Three of them took the dark corner. The fourth one was a boy in Ulsan who wanted his mother to see him do it."
+"She read it and said no."
 
-"And what am I."
+---
 
-"You are not a boy in Ulsan," said Jang, "and I am not paid to tell you what you are."
+Georgij turned his head.
+
+"I put it in again in my third week, because you do, and she said no again and did not give me a reason either time." Jang was still looking at the water. "It is the only recommendation of mine she has ever refused. I have spent two months deciding whether she is careless, and she is not careless."
+
+He finished the cup.
+
+"So there has been a way out of that property since before you arrived, and it is the one no lens covers, and it is still open tonight."
+
+"Yes."
+
+"And you went over the east lawn instead," said Jang, "in front of the one camera in that house that nobody looks at except her."
+
+---
+
+Neither of them said anything for a moment.
+
+"I am not going to ask you why," said Jang. "I would like to be clear that I know it was not because you did not know about the corner."
+
+"No."
+
+"Right." He put the cup down on the rail. "Nineteen years, and I have seen four men go over a wall. Three took the dark way. The fourth was a boy in Ulsan who wanted his mother to see him do it, and he stood under the light until she came out."
 
 ---
 
@@ -6904,15 +6924,49 @@ After a moment Georgij sat down beside her.
 
 The traffic went over the joint in the roadway above them, one axle at a time.
 
-"I wanted to know whether you would break."
+"Say why you did it," said Georgij.
 
-"I know."
+"You have worked it out."
 
-"Then you know the rest of it."
+"I have four versions and I would rather have the one that is true."
 
-"Yes."
+---
 
-She did not say any more about it and he did not ask her to.
+Annie took her time with it.
+
+"You know what I am doing to the Kim family. You know what is in nineteen pages and whose desk they are on. You know about Incheon, and about Hana's charges, and about a fund in Hong Kong that I have never once said out loud in front of you." She was looking at the water and not at him. "Every person who has ever known a quarter of that had a place where they gave way. I knew where it was before I told them anything, and I have never in my life told anybody anything without knowing that first."
+
+"And you cannot find mine."
+
+"I have been looking since the fourth of October."
+
+---
+
+"So you looked for it in front of a witness."
+
+"I did not decide to do it," said Annie. "That is the part I would change."
+
+Georgij let that be as small as it was, which was not very.
+
+"Then answer the other question."
+
+"Which one."
+
+"Did I break?"
+
+---
+
+Annie did not answer straight away, and when she did she said it flatly, like a figure being read off a page.
+
+"No."
+
+"You are sure."
+
+"You went over a wall in front of the one lens that reports to me. You walked an hour. You let a man from my own house buy you a drink." She turned her head for the first time. "And you are sitting on this bridge waiting to be collected. A man who has broken does none of those, and he certainly does not do them in that order."
+
+"Then you have your answer."
+
+"I have half of it," said Annie. "A man who does not break is a man nobody can hold. I found that out tonight, it cost me a great deal, and I did not enjoy one second of it."
 
 ---
 
@@ -6947,6 +7001,14 @@ Annie looked at the water through the rail.
 Annie did not answer that.
 
 "And there is a corner by the garages," said Georgij, "and I have known about it since my second night in your house."
+
+Annie did not answer that either.
+
+"Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do that, and you would call it her wage." He was not pressing it. "Mr Baek has been in that kitchen nine years and cooks angry at people who are rude to you. A man ran up a bridge tonight for somebody he has known eight weeks."
+
+"He is paid to follow."
+
+"Nobody is paid to run."
 
 ---
 
@@ -7004,6 +7066,50 @@ She stopped laughing, and then, about four seconds later, she nearly started aga
 
 ---
 
+"Then I want one thing," said Georgij.
+
+Annie turned her head.
+
+He had not asked her for anything since the fourth of October. Not a room, not a day off, not a coat, not an answer. She had noticed it in the first fortnight and had assumed it was technique, and had stopped assuming that some time around the eleventh of November.
+
+"Say it."
+
+---
+
+"Never in front of anybody."
+
+He said it in the same voice he used for numbers.
+
+"Do it in a corridor. Do it in that study with the door shut. Do it while I am asleep, and I will not have one word to say about any of it, because you own the thing round my neck and I have never once pretended otherwise." He was looking at the water. "Not in a room with a third man in it. That is the whole of what I am asking for."
+
+---
+
+Annie was quiet for a moment.
+
+"And if I do it anyway."
+
+"Nothing." He said it without any weight on it at all. "I have nothing to do it with. No money, no name, no house, nobody in this country to telephone. I could not make you regret it if I spent a year on it."
+
+"Then it is not a condition."
+
+"No, Mistress. It is a request, and I am aware of the difference, and I am making it anyway." He turned his head and looked at her properly for the first time since she sat down. "Because tonight a man I have worked in front of twice found out in under a second what I am. Tomorrow I have to walk back into a room and be worth something to you, and I can still do that, and I will. But I can only do it about four more times."
+
+---
+
+Annie did not say anything for a while.
+
+The traffic went on going over the joint.
+
+"That is the first thing you have asked me for."
+
+"Yes."
+
+"Fifty-five days."
+
+"Yes."
+
+---
+
 She reached into the pocket of her coat.
 
 She put the remote down on the concrete between them, at the same distance from each of them. It was where she had put it on the stone shelf beside the key bowl, at one o'clock in the morning, fifty-four nights ago.
@@ -7044,11 +7150,29 @@ He did not know whether he had just watched a woman disarm herself, or a woman w
 
 "Yes, Mistress."
 
-"That does not come off. Not tonight, and not by me, and I am not going to tell you a comfortable thing about it."
+"That does not come off tonight."
 
-"I know what it is."
+"No."
 
-"Then we understand each other." She looked out at the water where it had gone. "That was mine to throw. The rest of it is not mine to give back."
+"Say why not, so that I know you know."
+
+---
+
+"Because it is the only thing standing between me and a room with nineteen other people in it," said Georgij.
+
+"Yes."
+
+"A man who belongs to somebody is expensive to touch. A man who belongs to nobody is stock." He said it as flatly as she had. "There were four in that cellar with no mark on them at all and every one of them went for under a third of what I did. The collar is not what holds me. It is what makes it too much trouble to take me off you."
+
+---
+
+Annie looked out at the water where the other thing had gone.
+
+"That was mine to throw," she said. "This is not mine to give back. There is a register with your number in it in a building I do not own, and until that is dealt with, taking it off you would be the most dangerous thing anybody has ever done to you."
+
+"I know."
+
+"Good," said Annie. "Then neither of us has to be brave about it."
 
 ---
 
