@@ -277,6 +277,25 @@ going to answer that"*. Dort haelt sie den ganzen Abend zusammen.
 **Die Probe:** Steht die Verneinung fuer eine Regel, die er gerade aufstellt?
 Dann bleibt sie. Beschreibt sie nur, was er ohnehin gerade tut? Dann weg.
 
+**Die zweite Form derselben Sache**, am 22.08. ein drittes Mal in Kapitel 19
+gefunden: Er sagt etwas und haengt an, welche unehrliche Alternative er dabei
+nicht waehlt.
+
+> "…she would have signed it in the morning, ~~and I would have told you so instead of standing here implying otherwise~~."
+
+**Die Ausnahme, und sie ist wichtig:** Wenn ein **Grund** danebensteht, ist es
+kein Selbstlob, sondern ein Argument. Kapitel 4: *"I'm telling you that instead
+of letting you find it, because you'd find it before lunch and then we would be
+having a different conversation."* Das ist Rechnen und darf bleiben. Ohne den
+Grund bleibt nur die Haltung uebrig.
+
+**Ueber alle neunzehn Kapitel gescannt** (`instead of standing/pretending/
+letting`, `rather than pretend`, `let you think`, `implying otherwise`): sechs
+Treffer, davon zwei bei Annie, einer Erzaehlung, einer die Regel aus Kapitel 16,
+einer das Argument aus Kapitel 4 - und genau einer die reine Form, in Kapitel 19.
+Es ist kein systemischer Tic, sondern eine Stelle, die dreimal repariert werden
+musste, weil ich sie beim Lesen jedes Mal ueberging.
+
 **Zaehlung ueber alle neunzehn Kapitel**, damit die Groessenordnung bekannt ist:
 achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
 Kapitel 19, von denen zwei Georgij gehoerten und gestrichen wurden. Wenn eine

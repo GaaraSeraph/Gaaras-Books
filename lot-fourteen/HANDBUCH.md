@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.512 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.687 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -404,6 +404,25 @@ going to answer that"*. Dort haelt sie den ganzen Abend zusammen.
 
 **Die Probe:** Steht die Verneinung fuer eine Regel, die er gerade aufstellt?
 Dann bleibt sie. Beschreibt sie nur, was er ohnehin gerade tut? Dann weg.
+
+**Die zweite Form derselben Sache**, am 22.08. ein drittes Mal in Kapitel 19
+gefunden: Er sagt etwas und haengt an, welche unehrliche Alternative er dabei
+nicht waehlt.
+
+> "…she would have signed it in the morning, ~~and I would have told you so instead of standing here implying otherwise~~."
+
+**Die Ausnahme, und sie ist wichtig:** Wenn ein **Grund** danebensteht, ist es
+kein Selbstlob, sondern ein Argument. Kapitel 4: *"I'm telling you that instead
+of letting you find it, because you'd find it before lunch and then we would be
+having a different conversation."* Das ist Rechnen und darf bleiben. Ohne den
+Grund bleibt nur die Haltung uebrig.
+
+**Ueber alle neunzehn Kapitel gescannt** (`instead of standing/pretending/
+letting`, `rather than pretend`, `let you think`, `implying otherwise`): sechs
+Treffer, davon zwei bei Annie, einer Erzaehlung, einer die Regel aus Kapitel 16,
+einer das Argument aus Kapitel 4 - und genau einer die reine Form, in Kapitel 19.
+Es ist kein systemischer Tic, sondern eine Stelle, die dreimal repariert werden
+musste, weil ich sie beim Lesen jedes Mal ueberging.
 
 **Zaehlung ueber alle neunzehn Kapitel**, damit die Groessenordnung bekannt ist:
 achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
@@ -1120,7 +1139,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.7) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.4) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.8) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.15) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.

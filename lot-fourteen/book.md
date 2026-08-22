@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.232 Woerter.
+19 Kapitel. 57.219 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -27,7 +27,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 16 | v1.15 | 3.200 |
 | 17 | v12.8 | 2.694 |
 | 18 | v2.4 | 2.966 |
-| 19 | v1.7 | 3.228 |
+| 19 | v1.8 | 3.215 |
 
 ---
 
@@ -5464,7 +5464,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5574,7 +5574,7 @@ Chairman Woo did not pick the paper up straight away.
 
 "And if I had asked for something else?"
 
-"Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning, and I would have told you so instead of standing here implying otherwise."
+"Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning."
 
 ---
 
