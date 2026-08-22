@@ -134,7 +134,7 @@ Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprue
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
 17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
 18. Block I: der Sake vom eigenen Geld widerspricht `doc/02-leads.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
-19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
+19. ~~Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.~~ **Gegenstandslos, Block H ist am 22.08. gestrichen.** Damit faellt die Zigarette samt ihrer Herkunftsschuld weg.
 
 **Ergänzt:**
 
@@ -486,3 +486,46 @@ Tuer, durch die der Name geht.
 **Annie gibt den Auftrag dazu selbst**, und ihre Begruendung ist keine
 Grosszuegigkeit: *a man who is enjoying himself gives away the wrong things by
 accident, and I would rather you gave away the right one on purpose.*
+
+---
+
+### Block H, der Garten, ist gestrichen
+
+**Entschieden am 22.08. vom Autor.** Begruendung: Der Block stammt unveraendert
+aus der Vorlage, ist improvisierter als der Rest, und die Versoehnung, die er
+dort tragen sollte, gehoert einer Annie, die es in diesem Buch nicht gibt.
+
+**Was der Schluss dadurch gewinnt.** Er steht jetzt auf drei Schlaegen statt auf
+vier: **Bruch, Mauer, Bruecke.** Dazwischen liegt keine Verhandlungsszene mehr,
+in der zwei Leute in einem Garten aushandeln, was gerade passiert ist. Er bricht,
+er geht sichtbar, sie setzt sich auf den Beton. Die Versoehnung findet
+ausschliesslich dort statt.
+
+**Was mit dem Block wegfaellt, damit es nicht unbemerkt verschwindet:**
+
+- *"Mein Vater haette dich dafuer auspeitschen lassen." / "Tu Dir keinen Zwang an."*
+- Die Zigarette, die sie ihm wegnimmt. Damit faellt auch die Herkunftsschuld weg,
+  die Punkt 19 oben verzeichnet hat - Georgij raucht in siebzehn Kapiteln nicht
+  und besitzt nichts.
+- Die Clubkarte, fuer die er keine Verwendung hat.
+- Ihr Angebot, das Halsband in den Safe zu legen, und seine Ablehnung.
+- Sein Gegenvorschlag: er erledigt die Sache und die Route, danach laesst sie ihn
+  frei.
+- Ihre Erkenntnis, dass er nicht bitten kann, ohne im selben Atemzug seine eigene
+  Zerstoerung anzubieten.
+
+**Und die Zeile, die als "ihre beste im ganzen Material" verzeichnet war:**
+
+> "Ich habe dich gekauft, weil du das Einzige in dieser Stadt bist, das nicht kaputtgeht, wenn ich darauf druecke."
+
+**Sie ist kein Verlust, sondern eine Doppelung.** Block J hat denselben Gedanken
+als Eingestaendnis statt als Kompliment: *"Ich wollte sehen, ob du zerbrechen
+wuerdest."* Die J-Fassung ist die bessere, weil sie beschreibt, was sie getan
+hat, und nicht, was er ist. Zwei Saetze fuer dieselbe Sache haetten einander
+entwertet.
+
+**Was ausdruecklich NICHT nachgeholt wird**, solange niemand es verlangt: Georgij
+bittet nirgends darum, freigelassen zu werden. Der Gegenvorschlag aus Block H war
+die einzige Stelle, an der er es getan haette. Ein Mann, der um seine Freiheit
+bittet, hat einen Preis fuer sich genannt, und das ist genau das, was diese Figur
+nicht tut.

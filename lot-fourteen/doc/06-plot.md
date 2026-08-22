@@ -24,7 +24,7 @@ Plan geaendert.
 | E | Kang Ji-hoon | Anruf in Kapitel 12, Abendessen offen |
 | F | Arbeitszimmer | offen |
 | G | Der Bruch | offen |
-| H | Der Garten | offen |
+| H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/08-decisions.md` |
 | I | Die Mauer | offen, Voraussetzung geändert |
 | J | Mapo-Brücke | offen |
 
@@ -204,7 +204,7 @@ Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
 ### Block G - Der Bruch **[OFFEN]**
 
-**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt. Bei uns liegt der Bruch später, und die Versöhnung kommt nicht in derselben Nacht.
+**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt. Bei uns liegt der Bruch später, der Garten ist gestrichen, und die Versöhnung kommt nicht in derselben Nacht.
 
 Das Herzstück. In der Vorlage passiert es im Bett und liest sich als Machtspiel, das eskaliert. Bei uns ist es ein Vertragsbruch.
 
@@ -273,27 +273,7 @@ Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von 
 
 **Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
 
-**Offene Ablauffrage:** Block H, der Garten, mit dem Safe-Angebot und seinem Gegenvorschlag - vor dem Weggehen oder nach der Rueckkehr? Beides traegt und es sind zwei verschiedene Buecher. Davor ist es ihr Versuch, ihn zu halten. Danach ist es ein Verhandeln zwischen zweien, die beide wissen, dass er gehen kann. Nach dem Bruch liest sich ihr Angebot, das Halsband in den Safe zu legen, ohnehin als die Entschuldigung, die sie nicht aussprechen kann.
-
-### Block H - Der Garten **[OFFEN]**
-
-Rohmaterial Szene 10. Die stärkste Szene der Vorlage, aber überlang und mit zu vielen Runden.
-
-Was bleibt:
-- "Mein Vater hätte dich dafür auspeitschen lassen." / "Tu Dir keinen Zwang an."
-- Sie nimmt ihm die Zigarette weg, raucht einen Zug, drückt sie aus.
-- "Behandle dich gut. Das ist ein vager Begriff." Und seine Antwort, dass er genau eine Bitte hatte.
-- **"Ich habe dich gekauft, weil du das Einzige in dieser Stadt bist, das nicht kaputtgeht, wenn ich darauf drücke."** Das ist ihre beste Zeile im ganzen Material.
-- Ihr Angebot: Halsband in den Safe, sichere Leitung. Seine Ablehnung: Das Halsband zu benutzen wäre ohnehin das Ende, das ist kein Angebot. Und er hat nichts zu verbergen. Das Halsband bleibt an seinem Hals, und seine Abnahme bleibt für später aufgehoben.
-- Die Clubkarte. Er hat dafür keine Verwendung.
-- Sein Gegenvorschlag: Er erledigt die Sache und die Route, danach lässt sie ihn frei.
-- Und ihre Erkenntnis, die der Text nicht kommentiert: dass er nicht bitten kann, ohne im selben Atemzug seine eigene Zerstörung anzubieten.
-
-**[KORRIGIERT] Die Zigarette braucht eine Herkunft.** Georgij raucht in sechzehn Kapiteln nicht ein einziges Mal, und laut `doc/02-leads.md` besitzt er nichts, mit dem er sich etwas kaufen könnte. Die Geste funktioniert nur, wenn vorher einmal im Text steht, woher die Zigarette kommt. Zwei billige Wege, beide ohne eigene Szene: Er nimmt sie an einem der Abende von jemandem an, oder sie liegen im Garten bei den Leuten, die dort rauchen dürfen. Das ist eine halbe Zeile in einem früheren Kapitel und danach kostenlos. Ohne diese halbe Zeile fällt in Block H auf, dass hier ein Mann ohne Besitz plötzlich etwas hat.
-
-Was raus muss: Die Runde über Sarkasmus als Zuflucht. Die Runde über Märchen und Partner. Beides sind Platitüden und beide sagen dasselbe wie die Runden davor.
-
-**Kein Versöhnungsende.** Der Block endet damit, dass sie nicht antwortet.
+**Damit steht der Schluss auf drei Schlaegen und nicht auf vieren:** der Bruch, die Mauer, die Bruecke. Der Garten ist gestrichen, und die Versoehnung findet ausschliesslich auf dem Beton statt.
 
 ### Block I - Die Mauer **[OFFEN, Voraussetzung geändert]**
 

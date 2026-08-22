@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 47.166 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 47.161 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -70,7 +70,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Block E - Kang Ji-hoon **[TEILS GESCHRIEBEN, Kapitel 12]**](#block-e-kang-ji-hoon-teils-geschrieben-kapitel-12)
   - [Block F - Arbeitszimmer **[OFFEN]**](#block-f-arbeitszimmer-offen)
   - [Block G - Der Bruch **[OFFEN]**](#block-g-der-bruch-offen)
-  - [Block H - Der Garten **[OFFEN]**](#block-h-der-garten-offen)
   - [Block I - Die Mauer **[OFFEN, Voraussetzung geändert]**](#block-i-die-mauer-offen-voraussetzung-ge-ndert)
   - [Block J - Mapo-Brücke **[OFFEN]**](#block-j-mapo-br-cke-offen)
 - [Naechste Schritte und offene Faeden](#naechste-schritte-und-offene-faeden)  ·  `doc/07-next.md`
@@ -91,6 +90,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer wem was schuldet: die Rueckgabe ist keine Gefaelligkeit](#wer-wem-was-schuldet-die-rueckgabe-ist-keine-gefaelligkeit)
   - [Das Scheingebot auf Hanseong](#das-scheingebot-auf-hanseong)
   - [Woos Preis ist Ladung, nicht Geld und nicht ein Name](#woos-preis-ist-ladung-nicht-geld-und-nicht-ein-name)
+  - [Block H, der Garten, ist gestrichen](#block-h-der-garten-ist-gestrichen)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -1541,7 +1541,7 @@ Plan geaendert.
 | E | Kang Ji-hoon | Anruf in Kapitel 12, Abendessen offen |
 | F | Arbeitszimmer | offen |
 | G | Der Bruch | offen |
-| H | Der Garten | offen |
+| H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/08-decisions.md` |
 | I | Die Mauer | offen, Voraussetzung geändert |
 | J | Mapo-Brücke | offen |
 
@@ -1721,7 +1721,7 @@ Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
 ### Block G - Der Bruch **[OFFEN]**
 
-**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt. Bei uns liegt der Bruch später, und die Versöhnung kommt nicht in derselben Nacht.
+**Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt. Bei uns liegt der Bruch später, der Garten ist gestrichen, und die Versöhnung kommt nicht in derselben Nacht.
 
 Das Herzstück. In der Vorlage passiert es im Bett und liest sich als Machtspiel, das eskaliert. Bei uns ist es ein Vertragsbruch.
 
@@ -1790,27 +1790,7 @@ Das ist genau die Begruendung, die Block I schon hat: die eine Mauerstelle, von 
 
 **Woo bleibt draussen.** Er zieht niemanden mit hinein, und Yeongjong waere der eine Ort, an dem ihm jemand helfen wuerde.
 
-**Offene Ablauffrage:** Block H, der Garten, mit dem Safe-Angebot und seinem Gegenvorschlag - vor dem Weggehen oder nach der Rueckkehr? Beides traegt und es sind zwei verschiedene Buecher. Davor ist es ihr Versuch, ihn zu halten. Danach ist es ein Verhandeln zwischen zweien, die beide wissen, dass er gehen kann. Nach dem Bruch liest sich ihr Angebot, das Halsband in den Safe zu legen, ohnehin als die Entschuldigung, die sie nicht aussprechen kann.
-
-### Block H - Der Garten **[OFFEN]**
-
-Rohmaterial Szene 10. Die stärkste Szene der Vorlage, aber überlang und mit zu vielen Runden.
-
-Was bleibt:
-- "Mein Vater hätte dich dafür auspeitschen lassen." / "Tu Dir keinen Zwang an."
-- Sie nimmt ihm die Zigarette weg, raucht einen Zug, drückt sie aus.
-- "Behandle dich gut. Das ist ein vager Begriff." Und seine Antwort, dass er genau eine Bitte hatte.
-- **"Ich habe dich gekauft, weil du das Einzige in dieser Stadt bist, das nicht kaputtgeht, wenn ich darauf drücke."** Das ist ihre beste Zeile im ganzen Material.
-- Ihr Angebot: Halsband in den Safe, sichere Leitung. Seine Ablehnung: Das Halsband zu benutzen wäre ohnehin das Ende, das ist kein Angebot. Und er hat nichts zu verbergen. Das Halsband bleibt an seinem Hals, und seine Abnahme bleibt für später aufgehoben.
-- Die Clubkarte. Er hat dafür keine Verwendung.
-- Sein Gegenvorschlag: Er erledigt die Sache und die Route, danach lässt sie ihn frei.
-- Und ihre Erkenntnis, die der Text nicht kommentiert: dass er nicht bitten kann, ohne im selben Atemzug seine eigene Zerstörung anzubieten.
-
-**[KORRIGIERT] Die Zigarette braucht eine Herkunft.** Georgij raucht in sechzehn Kapiteln nicht ein einziges Mal, und laut `doc/02-leads.md` besitzt er nichts, mit dem er sich etwas kaufen könnte. Die Geste funktioniert nur, wenn vorher einmal im Text steht, woher die Zigarette kommt. Zwei billige Wege, beide ohne eigene Szene: Er nimmt sie an einem der Abende von jemandem an, oder sie liegen im Garten bei den Leuten, die dort rauchen dürfen. Das ist eine halbe Zeile in einem früheren Kapitel und danach kostenlos. Ohne diese halbe Zeile fällt in Block H auf, dass hier ein Mann ohne Besitz plötzlich etwas hat.
-
-Was raus muss: Die Runde über Sarkasmus als Zuflucht. Die Runde über Märchen und Partner. Beides sind Platitüden und beide sagen dasselbe wie die Runden davor.
-
-**Kein Versöhnungsende.** Der Block endet damit, dass sie nicht antwortet.
+**Damit steht der Schluss auf drei Schlaegen und nicht auf vieren:** der Bruch, die Mauer, die Bruecke. Der Garten ist gestrichen, und die Versoehnung findet ausschliesslich auf dem Beton statt.
 
 ### Block I - Die Mauer **[OFFEN, Voraussetzung geändert]**
 
@@ -2262,7 +2242,7 @@ Alles gegen die damals sechzehn Kapitel und den damaligen Dokumentbestand geprue
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
 17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
 18. Block I: der Sake vom eigenen Geld widerspricht `doc/02-leads.md` ("Er besitzt nichts"). Drei Auswege benannt, einer empfohlen.
-19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
+19. ~~Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.~~ **Gegenstandslos, Block H ist am 22.08. gestrichen.** Damit faellt die Zigarette samt ihrer Herkunftsschuld weg.
 
 **Ergänzt:**
 
@@ -2614,6 +2594,49 @@ Tuer, durch die der Name geht.
 **Annie gibt den Auftrag dazu selbst**, und ihre Begruendung ist keine
 Grosszuegigkeit: *a man who is enjoying himself gives away the wrong things by
 accident, and I would rather you gave away the right one on purpose.*
+
+---
+
+### Block H, der Garten, ist gestrichen
+
+**Entschieden am 22.08. vom Autor.** Begruendung: Der Block stammt unveraendert
+aus der Vorlage, ist improvisierter als der Rest, und die Versoehnung, die er
+dort tragen sollte, gehoert einer Annie, die es in diesem Buch nicht gibt.
+
+**Was der Schluss dadurch gewinnt.** Er steht jetzt auf drei Schlaegen statt auf
+vier: **Bruch, Mauer, Bruecke.** Dazwischen liegt keine Verhandlungsszene mehr,
+in der zwei Leute in einem Garten aushandeln, was gerade passiert ist. Er bricht,
+er geht sichtbar, sie setzt sich auf den Beton. Die Versoehnung findet
+ausschliesslich dort statt.
+
+**Was mit dem Block wegfaellt, damit es nicht unbemerkt verschwindet:**
+
+- *"Mein Vater haette dich dafuer auspeitschen lassen." / "Tu Dir keinen Zwang an."*
+- Die Zigarette, die sie ihm wegnimmt. Damit faellt auch die Herkunftsschuld weg,
+  die Punkt 19 oben verzeichnet hat - Georgij raucht in siebzehn Kapiteln nicht
+  und besitzt nichts.
+- Die Clubkarte, fuer die er keine Verwendung hat.
+- Ihr Angebot, das Halsband in den Safe zu legen, und seine Ablehnung.
+- Sein Gegenvorschlag: er erledigt die Sache und die Route, danach laesst sie ihn
+  frei.
+- Ihre Erkenntnis, dass er nicht bitten kann, ohne im selben Atemzug seine eigene
+  Zerstoerung anzubieten.
+
+**Und die Zeile, die als "ihre beste im ganzen Material" verzeichnet war:**
+
+> "Ich habe dich gekauft, weil du das Einzige in dieser Stadt bist, das nicht kaputtgeht, wenn ich darauf druecke."
+
+**Sie ist kein Verlust, sondern eine Doppelung.** Block J hat denselben Gedanken
+als Eingestaendnis statt als Kompliment: *"Ich wollte sehen, ob du zerbrechen
+wuerdest."* Die J-Fassung ist die bessere, weil sie beschreibt, was sie getan
+hat, und nicht, was er ist. Zwei Saetze fuer dieselbe Sache haetten einander
+entwertet.
+
+**Was ausdruecklich NICHT nachgeholt wird**, solange niemand es verlangt: Georgij
+bittet nirgends darum, freigelassen zu werden. Der Gegenvorschlag aus Block H war
+die einzige Stelle, an der er es getan haette. Ein Mann, der um seine Freiheit
+bittet, hat einen Preis fuer sich genannt, und das ist genau das, was diese Figur
+nicht tut.
 
 ---
 
