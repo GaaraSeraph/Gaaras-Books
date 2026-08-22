@@ -1,4 +1,4 @@
-The roar ripped through the ruin. The sound hit Gaara in the sternum before it reached his ears, a low pressure that rattled loose grit from the walls.
+Guttural roar ripped through the ruin. The sound hit Gaara in the sternum before it reached his ears, a low pressure that rattled loose grit from the walls.
 
 His head snapped up. Shapes moved in the dark beyond the collapsed support beam. Not one.
 
@@ -36,7 +36,7 @@ Collapsed slabs. Iron pins, rusted through, standing out of the stone like broke
 
 Obsidian.
 
-One piece was as long as his shin, broken to a wicked taper, glinting dull and greasy in the light. His fingers closed around the rough end and the weight of it settled into his palm like it had been waiting.
+One piece was the length of his forearm, broken to a wicked taper, glinting dull and greasy in the light. His fingers closed around the rough end and the weight of it settled into his palm like it had been waiting.
 
 "Nice. That would definitely beautify you guys."
 
@@ -144,7 +144,7 @@ He planted his foot on a canted slab and threw himself sideways under the hangin
 
 The Crawler followed him into the gap.
 
-He came up on one knee with the obsidian reversed in his fist. Not into the creature. Upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
+He came up on one knee with the obsidian reversed in his fist and drove it not into the creature but upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
 
 Metal shrieked. Snapped.
 
@@ -201,7 +201,7 @@ HP: 120/120
 MP: 60/60
 STR: 12 (+1)
 DEX: 8 (+1)
-CON: 5
+CON: 6 (+1)
 INT: 12
 WIS: 10
 
@@ -217,8 +217,6 @@ Rank E is the lowest recorded proficiency. Advancement through use.
 
 
 He read it three times.
-
-Strength and speed had moved on their own. The five had not moved at all. He had swung and dodged and hauled himself over rubble in there, and the only thing he had asked of his endurance was that it hold out, which it had barely done. So the thing paid out on what you were good at. It did not pay out on what you ran short of.
 
 Three free points. A number attached to his own body that went up when he did something correctly. And a rank. The lowest recorded proficiency, the system had been careful to specify, which meant there were others above it, which meant that someone, somewhere, was keeping score for an entire world.
 
