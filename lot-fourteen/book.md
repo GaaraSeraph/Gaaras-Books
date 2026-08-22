@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-19 Kapitel. 57.202 Woerter.
+19 Kapitel. 57.178 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -27,7 +27,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 16 | v1.15 | 3.200 |
 | 17 | v12.8 | 2.694 |
 | 18 | v2.4 | 2.966 |
-| 19 | v1.4 | 3.198 |
+| 19 | v1.5 | 3.174 |
 
 ---
 
@@ -5464,7 +5464,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5604,7 +5604,7 @@ There it was, and it had come in four words, and Georgij had known since the car
 
 "Say the number."
 
-"At the volumes she moves now she is about a third of your book, and a third is not a terminal." He said it flatly. "She is scheduled and she is regular and she has been for eleven years, which is worth more to you than the tonnage is, because it is the part a bank will look at. But she does not fill this quay and I am not going to sit here and let you think she does."
+"At the volumes she moves now she is about a third of your book, and a third is not a terminal." He said it flatly. "She is scheduled and she is regular and she has been for eleven years, which is worth more to you than the tonnage is, because it is the part a bank will look at. But she does not fill this quay."
 
 "And with the rest of it?"
 
@@ -5698,7 +5698,7 @@ He put the sheet down on the desk and squared it with the edge, which was the fi
 
 "That is the same people."
 
-"It is the same account," said Georgij. "I am not going to say more than that, because more than that would be a guess."
+"It is the same account," said Georgij. "More than that would be a guess."
 
 "It is the same people."
 

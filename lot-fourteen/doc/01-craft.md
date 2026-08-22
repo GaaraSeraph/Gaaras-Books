@@ -259,6 +259,29 @@ Er kuendigt seine Genauigkeit an, statt genau zu sein. `check.py` findet die
 haeufigsten Formeln, aber nicht alle. Erlaubt ist einer pro Kapitel, und nur
 als Antwort auf eine Frage.
 
+**Die haeufigste Form davon ist die Verneinungsansage**, und sie ist am 22.08.
+zweimal aus Kapitel 19 gestrichen worden:
+
+> But she does not fill this quay ~~and I am not going to sit here and let you think she does~~.
+>
+> "It is the same account." ~~"I am not going to say more than that, because~~ more than that would be a guess."
+
+**Beide Male sagt der Satz die Sache und kuendigt danach an, dass er sie sagt.**
+Der zweite Teil ist immer streichbar, und ohne ihn wird der Satz haerter.
+
+**Wo die Form bleibt.** Sie ist kein Verbot, sie ist eine Quote. In Kapitel 16
+ist sie das Geraet des Kapitels: *"I will not say anything to you that is
+untrue"*, *"I will not change the subject"*, und viermal identisch *"I am not
+going to answer that"*. Dort haelt sie den ganzen Abend zusammen.
+
+**Die Probe:** Steht die Verneinung fuer eine Regel, die er gerade aufstellt?
+Dann bleibt sie. Beschreibt sie nur, was er ohnehin gerade tut? Dann weg.
+
+**Zaehlung ueber alle neunzehn Kapitel**, damit die Groessenordnung bekannt ist:
+achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
+Kapitel 19, von denen zwei Georgij gehoerten und gestrichen wurden. Wenn eine
+Figur ausser Georgij sie benutzt, zaehlt sie nicht mit.
+
 ### Fehler bleiben Fehler
 
 Er darf sich nicht nachtraeglich als heimlicher Planer herausstellen. Geht ein

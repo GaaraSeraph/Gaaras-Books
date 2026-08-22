@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.012 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.226 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -385,6 +385,29 @@ Probe: Faellt eine Replik weg und die Szene verliert nichts, war sie Fuellung.
 Er kuendigt seine Genauigkeit an, statt genau zu sein. `check.py` findet die
 haeufigsten Formeln, aber nicht alle. Erlaubt ist einer pro Kapitel, und nur
 als Antwort auf eine Frage.
+
+**Die haeufigste Form davon ist die Verneinungsansage**, und sie ist am 22.08.
+zweimal aus Kapitel 19 gestrichen worden:
+
+> But she does not fill this quay ~~and I am not going to sit here and let you think she does~~.
+>
+> "It is the same account." ~~"I am not going to say more than that, because~~ more than that would be a guess."
+
+**Beide Male sagt der Satz die Sache und kuendigt danach an, dass er sie sagt.**
+Der zweite Teil ist immer streichbar, und ohne ihn wird der Satz haerter.
+
+**Wo die Form bleibt.** Sie ist kein Verbot, sie ist eine Quote. In Kapitel 16
+ist sie das Geraet des Kapitels: *"I will not say anything to you that is
+untrue"*, *"I will not change the subject"*, und viermal identisch *"I am not
+going to answer that"*. Dort haelt sie den ganzen Abend zusammen.
+
+**Die Probe:** Steht die Verneinung fuer eine Regel, die er gerade aufstellt?
+Dann bleibt sie. Beschreibt sie nur, was er ohnehin gerade tut? Dann weg.
+
+**Zaehlung ueber alle neunzehn Kapitel**, damit die Groessenordnung bekannt ist:
+achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
+Kapitel 19, von denen zwei Georgij gehoerten und gestrichen wurden. Wenn eine
+Figur ausser Georgij sie benutzt, zaehlt sie nicht mit.
 
 ### Fehler bleiben Fehler
 
@@ -1064,7 +1087,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.4) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.5) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.4) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.8) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.15) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
