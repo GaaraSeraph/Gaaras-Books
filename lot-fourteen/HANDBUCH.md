@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.687 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.834 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2092,7 +2092,15 @@ nicht abgehakt.
 
     **Verworfen: ein Treffen mit der Familie vor Ye-rin.** Es gibt keinen Grund dafür und einen zwingenden Grund dagegen. Wenn die sechs von Annies Geld hören, bevor Ye-rin es aus Georgijs Mund hat, erfährt sie es aus zweiter Hand, und der eine Versuch ist verbrannt, bevor er abgegeben wurde. Sie ist die, die entscheidet; man verhandelt nicht an ihr vorbei und dann mit ihr.
 
-    **Woos Raum ist davon unabhängig** und darf es bleiben. Er stellt seinen Namen neben ihren, damit die Kunden zurückkommen. Dafür genügt der Bruder, der den Titel hat, und über Annies Geld wird dort nichts gesagt. Woos eigenes Motiv trägt die Tarnung, weil es wahr ist.
+    **Woos Raum ist davon unabhängig, und so bleibt es.**
+
+    **Er verhandelt dort nicht.** Er trifft den Vertragspartner der Sache, auf die sein Name geht - *"your name beside theirs on something ordinary."* Etwas Gewöhnliches muss ein Kim unterschreiben: eine Kooperationsmeldung, ein Dienstleistungsvertrag, irgendein Papier zwischen zwei Logistikern. Dafür braucht er jemanden, der zeichnen darf, und ausdrücklich nicht die, die reden. Der Bruder hat den Titel.
+
+    **Über Annies Geld fällt dort kein Wort**, und es muss auch keines fallen. Woos eigenes Motiv trägt das Gespräch vollständig und ist wahr: Sang-hoon kauft dieses Gewerbe auf, Woo ist dieses Gewerbe, und seit Kapitel 19 hängen sieben Jahre seines Kais an Kim-Genehmigungen. Wenn die Kims fragen, warum er sich neben eine Familie unter Zollermittlung stellt, ist das die Antwort, und jeder in dieser Branche versteht sie.
+
+    **Und Georgij sitzt nicht in diesem Raum.** Woo hat gesagt *"Get me a room"* - beschaffen, nicht darin sein. Georgij arrangiert ihn und bleibt weg. Damit sieht Ye-rin sein Gesicht zum ersten Mal im Januar, allein, und der eine Zugang bleibt unberührt.
+
+    Das ist ausserdem seine Art: Er arrangiert, und er erscheint nicht, wo Erscheinen mehr kostet als es einbringt.
 
     ---
 
