@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 38.606 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 39.371 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -81,6 +81,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was in Fassung 1.9 repariert wurde](#was-in-fassung-1-9-repariert-wurde)
   - [Was aus dem Rohverlauf nicht übernommen wird](#was-aus-dem-rohverlauf-nicht-bernommen-wird)
   - [Offene Ausstattungsfrage: der Laptop](#offene-ausstattungsfrage-der-laptop)
+  - [Das Halsband in der festgelegten Zeile von Kapitel 17](#das-halsband-in-der-festgelegten-zeile-von-kapitel-17)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -1006,8 +1007,8 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.2) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
-- **Kapitel 16** *Where the walls are* (v1.11) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
+- **Kapitel 17** *Who holds the paper* (v12.3) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 16** *Where the walls are* (v1.12) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.4) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
@@ -1107,7 +1108,28 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 
 - **Das Respektvolle**, hauptsächlich im Kinn. Für Kompetenz, die ihm nichts
   nützt. (Kapitel 5, der Schneider, der ihm eine Zeile vorher gesagt hat, wie er
-  das Kinn zu halten hat)
+  das Kinn zu halten hat: *Georgij smiled at him, and most of it was in the
+  chin.*)
+
+  **Zweite Fundstelle: Kapitel 16**, und es ist das einzige Lächeln in dem
+  Kapitel. Sang-hoon hat gerade beschrieben, wie er in vier Räumen mit vier
+  Leuten desselben Vorstands saß und jedem die Wahrheit gesagt hat, jedem eine
+  andere, und keine davon war gelogen. Das ist Georgijs eigenes Verfahren,
+  benannt von dem Mann, der es erfunden hat, an einem Abend, an dem Georgij vier
+  Wände aufstellt, die alle wahr sind. Es wird nichts damit geholt, und der Text
+  sagt das ausdrücklich: *Nothing was being fetched with it.*
+
+  **Der Rückverweis ist nicht wörtlich**, und das ist Absicht: nicht wieder *in
+  the chin*, sondern *most of it went where it had gone once before, for an old
+  man who had come to the house with a tape measure and thirty words*. Wer die
+  Stelle wiedererkennt, bekommt sie; wer nicht, verliert nichts.
+
+  **Annie bepreist es in Kapitel 17**, ohne zu wissen, dass sie es tut: *Be
+  pleased with it in this car and nowhere else. You got it because a man was
+  showing off to somebody he had decided was nobody. If you look pleased in a
+  room, he stops showing off.* Damit ist das eine unbewachte Gesicht des Abends
+  rückwirkend auch das einzige, was ihn etwas gekostet haben könnte. Georgij
+  merkt davon nichts, und das bleibt so.
 - **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
   Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
   (Kapitel 3, Ji-won auf der Treppe)
@@ -1704,6 +1726,13 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
   offenen Sorten sind dort als *offen* markiert.
 
+  **Kapitel 16 hatte ebenfalls keins** und hat jetzt eines (v1.12): dieselbe
+  Sorte wie Kapitel 5, das Respektvolle, hauptsaechlich im Kinn, fuer Kompetenz,
+  die ihm nichts nuetzt. Es steht in der Stunde, in der Sang-hoon sein Handwerk
+  erklaert, und es ist das einzige Laecheln des Kapitels. Das ist der teuerste
+  Ort dafuer gewesen, weil sein Hauptwerkzeug sonst dreieinhalb Stunden lang
+  nicht vorkam und Kapitel 17 eine Seite spaeter den ganzen Katalog aufzaehlt.
+
 - **Das Halsband fehlte in Kapitel 14 bis 17**, also im gesamten Schluss und
   nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
   nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
@@ -1715,13 +1744,23 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   the high collar of the shirt, the steel sat where it always sat. Nothing all
   evening had put it in his mind. This did. / He kept his chin level. Not up.*
   **Es wird nicht gesehen.** Der hohe Hemdkragen aus Kapitel 6 deckt es (*The
-  steel did not show*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
+  steel did not show.*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
   announced. Found.*), und Sang-hoon stellt die Frage blind. Die Empfindung ist
   nicht das Gewicht - Kapitel 1 sagt, dass man das nach einem Monat nicht mehr
   spuert - sondern die Disziplin, und die Disziplin ist das Kinn, wie der
-  Schneider sie ihm in Kapitel 6 beigebracht hat.
+  Schneider sie ihm in **Kapitel 5** beigebracht hat. (Der hohe Kragen kommt aus
+  Kapitel 6, die Kinn-Anweisung aus Kapitel 5. Nicht verwechseln, es sind zwei
+  Termine mit demselben Mann.)
 
-  **Offen bleiben Kapitel 14, 15 und 17.** Weitere Luecken, bisher nicht
+  **Kapitel 17 ist gesetzt** (v12.3), zwischen zwei Repliken der Beichte ueber
+  das Wort *Mistress*: *Beneath the linen at his throat there was a band of
+  steel, and it had been there since the second house. It had made the word
+  accurate from the first day, and it had never once needed him to mean it.*
+  Die Unterscheidung, die der Absatz traegt, ist die des Kapitels: das Wort war
+  immer **zutreffend** und ist jetzt **gemeint**. Weil die Passage eine
+  festgelegte Zeile ist, steht die Entscheidung in `doc/08-decisions.md`.
+
+  **Offen bleiben Kapitel 14 und 15.** Weitere Luecken, bisher nicht
   verbucht: Kapitel 3, 8, 10 und 11. Kapitel 7 hat nur die Empfindung ohne das
   Wort.
 
@@ -1947,6 +1986,50 @@ Wenn er stattdessen darum bitten müsste, wäre es auch ein Test, denn sie prüf
 
 ---
 
+### Das Halsband in der festgelegten Zeile von Kapitel 17
+
+**Entschieden am 22.08., ausdrücklich, weil es eine festgelegte Zeile berührt.**
+
+Das Halsband fehlte über Kapitel 14 bis 17 vollständig, also im ganzen Schluss.
+Kapitel 16 ist in Fassung 1.11 geschlossen worden, an der vierten Wand. Für
+Kapitel 17 ist die Stelle die Beichte über das Wort *Mistress*, denn dort sagt
+er, dass es wahr geworden ist, und der Gegenstand, der es von Anfang an
+zutreffend gemacht hat, sitzt an seinem Hals und stand nirgends.
+
+**Gesetzt zwischen zwei Repliken, nicht in eine hinein:**
+
+> "The first time I called you Mistress it was a courtesy with an edge on it. It was not true."
+>
+> He looked straight ahead at the back of the panel.
+>
+> **Beneath the linen at his throat there was a band of steel, and it had been there since the second house. It had made the word accurate from the first day, and it had never once needed him to mean it.**
+>
+> "It has been true for some time. I did not notice that either."
+
+**Kein festgelegter Wortlaut ist geändert.** Der Block unter *Festgelegte Zeile:
+die Heimfahrt* zitiert für die zweite Hälfte nur die Repliken; die Erzählung
+dazwischen gehört nicht dazu. Trotzdem steht die Entscheidung hier, weil die
+Passage als Ganzes geschützt ist und die Rhythmusänderung eine Entscheidung ist
+und kein Handgriff.
+
+**Warum es die Beichte nicht entwertet.** Die Unterscheidung, die der Absatz
+trägt, ist die des Kapitels: das Wort war immer **zutreffend** und ist jetzt
+**gemeint**. Das Halsband liefert die erste Hälfte und rührt die zweite nicht
+an. *It had never once needed him to mean it* ist die kälteste verfügbare
+Fassung davon und die einzige, die nicht nach Selbstmitleid klingt.
+
+**Verworfen:** eine erste Fassung, die auf Annie zeigte (*Nobody in this house
+had offered*). Sie machte aus einer Feststellung einen Vorwurf, richtete den
+Absatz auf die falsche Person und gab Georgij eine Regung, die er nicht hat.
+
+**Verworfen:** die Platzierung bei *one hand flat on the seat between them*
+weiter oben. Dort wäre es Körperinventar neben anderem Körperinventar gewesen.
+An der Beichte ist es das Scharnier.
+
+**Offen bleiben Kapitel 14 und 15.**
+
+---
+
 # Begegnungsregister
 
 *Erzeugt aus `chapters/`. Wird nicht bearbeitet.*
@@ -2160,10 +2243,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
 | 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
 | 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
-| 46 | ch16:186 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 46 | ch16:292 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch16:300 | "Well," said Annie. |
-| 46 | ch16:342 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:304 | "Well," said Annie. |
+| 46 | ch16:346 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
 | 46 | ch17:10 | "Kang," said Annie. |
 | 46 | ch17:58 | Annie turned her head. |
 | 46 | ch17:74 | "Then it is February," said Annie. "Not March and not the spring." |
@@ -2171,10 +2254,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch17:110 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
 | 46 | ch17:124 | Beside him, Annie put her hand on the door. |
 | 46 | ch17:136 | "Go on," said Annie. |
-| 46 | ch17:196 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
-| 46 | ch17:222 | Annie put two fingers on the back of the chair and left them there. |
-| 46 | ch17:230 | Annie said nothing. |
-| 46 | ch17:234 | "I know," said Annie. "He came to me with it in his first week." |
+| 46 | ch17:198 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
+| 46 | ch17:224 | Annie put two fingers on the back of the chair and left them there. |
+| 46 | ch17:232 | Annie said nothing. |
+| 46 | ch17:236 | "I know," said Annie. "He came to me with it in his first week." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -2220,10 +2303,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:12` (Tag 46) - two
 - `ch16:122` (Tag 46) - five, sixteen thousand
 - `ch16:142` (Tag 46) - one, two
-- `ch16:186` (Tag 46) - four hundred, one
-- `ch16:292` (Tag 46) - one, two
-- `ch16:342` (Tag 46) - ten
-- `ch17:222` (Tag 46) - two
+- `ch16:190` (Tag 46) - four hundred, one
+- `ch16:296` (Tag 46) - one, two
+- `ch16:346` (Tag 46) - ten
+- `ch17:224` (Tag 46) - two
 
 ---
 
@@ -2378,17 +2461,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:144 | Sang-hoon put his glass down. |
 | 46 | ch16:162 | Park Sang-hoon looked at him for slightly too long. |
 | 46 | ch16:174 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
-| 46 | ch16:190 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
-| 46 | ch16:206 | Sang-hoon did not touch it. |
-| 46 | ch16:216 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
-| 46 | ch16:222 | Park Sang-hoon looked at him for some time. |
-| 46 | ch16:232 | "Go on," said Sang-hoon. |
-| 46 | ch16:236 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
-| 46 | ch16:252 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
-| 46 | ch16:262 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
-| 46 | ch16:276 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
-| 46 | ch16:286 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
-| 46 | ch16:322 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | ch16:194 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | ch16:210 | Sang-hoon did not touch it. |
+| 46 | ch16:220 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | ch16:226 | Park Sang-hoon looked at him for some time. |
+| 46 | ch16:236 | "Go on," said Sang-hoon. |
+| 46 | ch16:240 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | ch16:256 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | ch16:266 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | ch16:280 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | ch16:290 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -2403,11 +2486,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:136` (Tag 34) - eighteen, eleven
 - `ch14:148` (Tag 34) - one, three
 - `ch16:174` (Tag 46) - two
-- `ch16:190` (Tag 46) - eighteen, two
-- `ch16:216` (Tag 46) - four, two
-- `ch16:236` (Tag 46) - one
-- `ch16:262` (Tag 46) - nineteen
-- `ch16:322` (Tag 46) - four
+- `ch16:194` (Tag 46) - eighteen, two
+- `ch16:220` (Tag 46) - four, two
+- `ch16:240` (Tag 46) - one
+- `ch16:266` (Tag 46) - nineteen
+- `ch16:326` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
 
 ---
@@ -2524,7 +2607,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
 | 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
-| 46 | ch17:194 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 46 | ch17:196 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2585,8 +2668,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:228 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
 | 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
 | 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
-| 46 | ch17:228 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
-| 46 | ch17:246 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 46 | ch17:230 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | ch17:248 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2609,8 +2692,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:228` (Tag 41) - four, three
 - `ch16:10` (Tag 46) - two
-- `ch17:228` (Tag 46) - nine, three
-- `ch17:246` (Tag 46) - six
+- `ch17:230` (Tag 46) - nine, three
+- `ch17:248` (Tag 46) - six
 
 ---
 
@@ -2760,13 +2843,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:152 | "And Do-yun," said Georgij. |
 | 41 | ch15:184 | "Do-yun." |
 | 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:186 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
 - `ch14:22` (Tag 31) - one
 - `ch14:26` (Tag 31) - forty
-- `ch16:186` (Tag 46) - four hundred, one
+- `ch16:190` (Tag 46) - four hundred, one
 
 ---
 
@@ -2895,14 +2978,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:292 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
 | 46 | ch17:126 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:180 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+| 46 | ch17:182 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:292` (Tag 46) - one, two
+- `ch16:296` (Tag 46) - one, two
 - `ch17:126` (Tag 46) - three, two
 
 ---

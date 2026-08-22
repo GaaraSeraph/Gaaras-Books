@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.809 Woerter.
+17 Kapitel. 50.911 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -24,8 +24,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
-| 16 | v1.11 | 3.135 |
-| 17 | v12.2 | 2.568 |
+| 16 | v1.12 | 3.196 |
+| 17 | v12.3 | 2.609 |
 
 ---
 
@@ -4535,7 +4535,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4713,6 +4713,10 @@ Every story in that hour was about one person.
 
 He described a finance director at the yard in Pyeongtaek who had a son at a school he could not afford and who was never asked for anything at all, not once, for eleven months. He described the value of being the only person who telephones a man on the day his mother dies. He described sitting in four separate rooms with four different members of one board and telling each of them the truth. The truth had been a different one in every room. None of the four had been a lie.
 
+Georgij smiled at him, and most of it went where it had gone once before, for an old man who had come to the house with a tape measure and thirty words.
+
+Nothing was being fetched with it. In an evening in which everything else was work, it was the only thing he did that was not aimed at a result.
+
 "That is the part people get wrong," he said. "They think you buy the company. You are buying the ten minutes in which a man decides that you are the one who understands his position."
 
 Georgij said very little.
@@ -4882,7 +4886,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: Who holds the paper
-*Lot Fourteen* · Version 12.2 · EN
+*Lot Fourteen* · Version 12.3 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -5041,6 +5045,8 @@ He had meant to stop there.
 "The first time I called you Mistress it was a courtesy with an edge on it. It was not true."
 
 He looked straight ahead at the back of the panel.
+
+Beneath the linen at his throat there was a band of steel, and it had been there since the second house. It had made the word accurate from the first day, and it had never once needed him to mean it.
 
 "It has been true for some time. I did not notice that either."
 

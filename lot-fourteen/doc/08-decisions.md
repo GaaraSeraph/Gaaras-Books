@@ -179,3 +179,47 @@ Georgij kann Systeme knacken (`doc/02-leads.md`), an Annies Desktop aber nicht: 
 Das ist die Ladung für die Desktop-Szene in Block B. Sie hat ihm ein Werkzeug an der Leine gegeben, er ist um die Leine herumgegangen und sagt es ihr von sich aus, weil er nicht lügt. Sie fragt weder wie noch was er gesehen hat.
 
 Wenn er stattdessen darum bitten müsste, wäre es auch ein Test, denn sie prüft ihn daran, worum er bittet. Beides funktioniert. Ich halte das Geschenk für stärker, weil es sie zur Handelnden macht und den späteren Bruch teurer.
+
+---
+
+### Das Halsband in der festgelegten Zeile von Kapitel 17
+
+**Entschieden am 22.08., ausdrücklich, weil es eine festgelegte Zeile berührt.**
+
+Das Halsband fehlte über Kapitel 14 bis 17 vollständig, also im ganzen Schluss.
+Kapitel 16 ist in Fassung 1.11 geschlossen worden, an der vierten Wand. Für
+Kapitel 17 ist die Stelle die Beichte über das Wort *Mistress*, denn dort sagt
+er, dass es wahr geworden ist, und der Gegenstand, der es von Anfang an
+zutreffend gemacht hat, sitzt an seinem Hals und stand nirgends.
+
+**Gesetzt zwischen zwei Repliken, nicht in eine hinein:**
+
+> "The first time I called you Mistress it was a courtesy with an edge on it. It was not true."
+>
+> He looked straight ahead at the back of the panel.
+>
+> **Beneath the linen at his throat there was a band of steel, and it had been there since the second house. It had made the word accurate from the first day, and it had never once needed him to mean it.**
+>
+> "It has been true for some time. I did not notice that either."
+
+**Kein festgelegter Wortlaut ist geändert.** Der Block unter *Festgelegte Zeile:
+die Heimfahrt* zitiert für die zweite Hälfte nur die Repliken; die Erzählung
+dazwischen gehört nicht dazu. Trotzdem steht die Entscheidung hier, weil die
+Passage als Ganzes geschützt ist und die Rhythmusänderung eine Entscheidung ist
+und kein Handgriff.
+
+**Warum es die Beichte nicht entwertet.** Die Unterscheidung, die der Absatz
+trägt, ist die des Kapitels: das Wort war immer **zutreffend** und ist jetzt
+**gemeint**. Das Halsband liefert die erste Hälfte und rührt die zweite nicht
+an. *It had never once needed him to mean it* ist die kälteste verfügbare
+Fassung davon und die einzige, die nicht nach Selbstmitleid klingt.
+
+**Verworfen:** eine erste Fassung, die auf Annie zeigte (*Nobody in this house
+had offered*). Sie machte aus einer Feststellung einen Vorwurf, richtete den
+Absatz auf die falsche Person und gab Georgij eine Regung, die er nicht hat.
+
+**Verworfen:** die Platzierung bei *one hand flat on the seat between them*
+weiter oben. Dort wäre es Körperinventar neben anderem Körperinventar gewesen.
+An der Beichte ist es das Scharnier.
+
+**Offen bleiben Kapitel 14 und 15.**

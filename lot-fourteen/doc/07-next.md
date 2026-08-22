@@ -61,6 +61,13 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
   offenen Sorten sind dort als *offen* markiert.
 
+  **Kapitel 16 hatte ebenfalls keins** und hat jetzt eines (v1.12): dieselbe
+  Sorte wie Kapitel 5, das Respektvolle, hauptsaechlich im Kinn, fuer Kompetenz,
+  die ihm nichts nuetzt. Es steht in der Stunde, in der Sang-hoon sein Handwerk
+  erklaert, und es ist das einzige Laecheln des Kapitels. Das ist der teuerste
+  Ort dafuer gewesen, weil sein Hauptwerkzeug sonst dreieinhalb Stunden lang
+  nicht vorkam und Kapitel 17 eine Seite spaeter den ganzen Katalog aufzaehlt.
+
 - **Das Halsband fehlte in Kapitel 14 bis 17**, also im gesamten Schluss und
   nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
   nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
@@ -72,13 +79,23 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   the high collar of the shirt, the steel sat where it always sat. Nothing all
   evening had put it in his mind. This did. / He kept his chin level. Not up.*
   **Es wird nicht gesehen.** Der hohe Hemdkragen aus Kapitel 6 deckt es (*The
-  steel did not show*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
+  steel did not show.*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
   announced. Found.*), und Sang-hoon stellt die Frage blind. Die Empfindung ist
   nicht das Gewicht - Kapitel 1 sagt, dass man das nach einem Monat nicht mehr
   spuert - sondern die Disziplin, und die Disziplin ist das Kinn, wie der
-  Schneider sie ihm in Kapitel 6 beigebracht hat.
+  Schneider sie ihm in **Kapitel 5** beigebracht hat. (Der hohe Kragen kommt aus
+  Kapitel 6, die Kinn-Anweisung aus Kapitel 5. Nicht verwechseln, es sind zwei
+  Termine mit demselben Mann.)
 
-  **Offen bleiben Kapitel 14, 15 und 17.** Weitere Luecken, bisher nicht
+  **Kapitel 17 ist gesetzt** (v12.3), zwischen zwei Repliken der Beichte ueber
+  das Wort *Mistress*: *Beneath the linen at his throat there was a band of
+  steel, and it had been there since the second house. It had made the word
+  accurate from the first day, and it had never once needed him to mean it.*
+  Die Unterscheidung, die der Absatz traegt, ist die des Kapitels: das Wort war
+  immer **zutreffend** und ist jetzt **gemeint**. Weil die Passage eine
+  festgelegte Zeile ist, steht die Entscheidung in `doc/08-decisions.md`.
+
+  **Offen bleiben Kapitel 14 und 15.** Weitere Luecken, bisher nicht
   verbucht: Kapitel 3, 8, 10 und 11. Kapitel 7 hat nur die Empfindung ohne das
   Wort.
 

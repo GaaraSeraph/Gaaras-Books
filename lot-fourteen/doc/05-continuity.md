@@ -45,8 +45,8 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.2) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
-- **Kapitel 16** *Where the walls are* (v1.11) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
+- **Kapitel 17** *Who holds the paper* (v12.3) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 16** *Where the walls are* (v1.12) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.4) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
@@ -146,7 +146,28 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 
 - **Das Respektvolle**, hauptsächlich im Kinn. Für Kompetenz, die ihm nichts
   nützt. (Kapitel 5, der Schneider, der ihm eine Zeile vorher gesagt hat, wie er
-  das Kinn zu halten hat)
+  das Kinn zu halten hat: *Georgij smiled at him, and most of it was in the
+  chin.*)
+
+  **Zweite Fundstelle: Kapitel 16**, und es ist das einzige Lächeln in dem
+  Kapitel. Sang-hoon hat gerade beschrieben, wie er in vier Räumen mit vier
+  Leuten desselben Vorstands saß und jedem die Wahrheit gesagt hat, jedem eine
+  andere, und keine davon war gelogen. Das ist Georgijs eigenes Verfahren,
+  benannt von dem Mann, der es erfunden hat, an einem Abend, an dem Georgij vier
+  Wände aufstellt, die alle wahr sind. Es wird nichts damit geholt, und der Text
+  sagt das ausdrücklich: *Nothing was being fetched with it.*
+
+  **Der Rückverweis ist nicht wörtlich**, und das ist Absicht: nicht wieder *in
+  the chin*, sondern *most of it went where it had gone once before, for an old
+  man who had come to the house with a tape measure and thirty words*. Wer die
+  Stelle wiedererkennt, bekommt sie; wer nicht, verliert nichts.
+
+  **Annie bepreist es in Kapitel 17**, ohne zu wissen, dass sie es tut: *Be
+  pleased with it in this car and nowhere else. You got it because a man was
+  showing off to somebody he had decided was nobody. If you look pleased in a
+  room, he stops showing off.* Damit ist das eine unbewachte Gesicht des Abends
+  rückwirkend auch das einzige, was ihn etwas gekostet haben könnte. Georgij
+  merkt davon nichts, und das bleibt so.
 - **Das kleine.** Klein gehalten, weil ein großes um ein Uhr nachts von einem
   Mann mit Halsband eine zweite Sache wäre, vor der jemand Angst hat.
   (Kapitel 3, Ji-won auf der Treppe)
