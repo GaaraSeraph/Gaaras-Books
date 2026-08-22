@@ -127,6 +127,12 @@ Chapter 9: no mechanical change. He spends the chapter reading OTHER things:
 twenty crawler corpses whose levels climb from 4 to 6 along a dead man's line,
 and then the dark behind the gate, which comes back ???.
 
+Chapter 10: LEVEL 3 at six kills. HP 185, STR 13, DEX 9, CON 9, MP 60 still
+untouched, Class None, Dagger Mastery still E, and 4 unspent points he refuses
+to allocate while his hands are shaking. Seven kills by the end of the chapter.
+The level arrives mid-fight with two of them still on the floor, and he tells
+it "not now", and it does not go away, because it never goes away.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

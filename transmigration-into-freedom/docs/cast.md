@@ -8,6 +8,14 @@ Marit Halden, Level 6
   ground: she sees that the buried fire is many fires and not one, and she
   names the rope as village-made rather than city-made. He can read stonework.
   He cannot read any of that.
+- SHE ANSWERS ONE IN KIND (ch10), after nine chapters of deflecting. He asks for
+  help with his trousers, explains at length and defensively that he means the
+  wound, and she bandages him without comment. Then, standing up: "Now, about
+  the trousers." He stops talking, which has never once happened.
+  Her own reading of it: two days of him running his mouth, and all she ever had
+  to do was say one thing back. Note the timing - she waits until he is bleeding
+  and off balance, and he says so, and she agrees that it is extremely fair.
+  This is a change of footing, not a romance. Nothing has started.
 - AND SHE OUT-THINKS HIM ONCE, in one line, about his own panel. He works out
   that it reads the knife but not a boulder and not his own hand, and is still
   assembling the sentence when she says: "So it tells you what you already know

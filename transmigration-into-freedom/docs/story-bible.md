@@ -15,8 +15,9 @@ nicht diese Zeile von Hand.
 7. How Did You Know
 8. It Has Been Keeping Score
 9. What the Panel Will Not Say
-10. (planned - through the gate, and what ??? turns out to mean)
-11. A Name for the Knife (planned)
+10. The Price Went Up
+11. (planned)
+12. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -185,6 +186,31 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   last fresh, and he did not turn round. Marit is a 6 and the highest thing in
   Oldstep. Gaara reads twenty corpses like a table, which is what the instrument
   was always for, and it took him nine chapters to use it that way.
+- (ch10) THE LEVEL CURVE, and it is now derivable by the reader. Level 2 cost
+  two kills. Level 3 cost FOUR more, arriving at six. The step doubles, not the
+  total. So: 2, then 4, then 8, then 16, and the running totals are 2, 6, 14,
+  30. Gaara says the numbers out loud on the page.
+  His earlier guess of four TOTAL was wrong, and he says so: doubling is the
+  cheapest guess a tired man makes at midnight. He was wrong in the figure and
+  right in the shape, and now he has two data points instead of one.
+  What it costs the world: Marit is a 6, and the village runs to sixes. Thirty
+  kills to be a five. Whatever a farmer in Oldstep did to become a six, it took
+  a lifetime, and the things behind the gate are sixes already.
+- (ch10) LEVEL 3: HP 165 to 185, so a level is worth +20 HP and has been since
+  ch2. STR 12 to 13, DEX 8 to 9, and nothing else automatic - the two he used.
+  4 unspent points, and HE DOES NOT SPEND THEM. Any answer arriving that fast
+  with his hands still shaking is one he has not checked.
+  The counter now ticks in front of him during a fight: Kills: 4, 5, 6, 7.
+- (ch10) THE BLIND SPOT, and this is the big one. The ??? is NOT a property of
+  the thing. It is a property of the PLACE. He crosses the groove and reads an
+  empty abandoned nest four feet away: ???. He steps back over the line and
+  reads the same nest: Gloom Crawler nest, abandoned / Chitin, silt, bone.
+  Everything inside the circle reads ???, monster or dirt alike.
+  So the circle was never a fence. It is a hole cut in what the system can see,
+  put there on purpose, by people who knew the system well enough to write a
+  rule against it eight hundred years ago.
+  Gaara does not say the other half out loud, and the other half is an old man
+  with nothing at all over his shoulders (threads 10, 17, 19).
 - (ch9) ??? THE PANEL REFUSES. Pointed into the dark behind the raised gate it
   returns three characters where a number goes. Not a name, not a level, not a
   blank. He did not know it could do that.

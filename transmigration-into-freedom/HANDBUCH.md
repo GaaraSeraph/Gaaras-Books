@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 9 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 13.323 Woerter.
+Kanon: 10 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 13.865 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -25,6 +25,14 @@ Marit Halden, Level 6
   ground: she sees that the buried fire is many fires and not one, and she
   names the rope as village-made rather than city-made. He can read stonework.
   He cannot read any of that.
+- SHE ANSWERS ONE IN KIND (ch10), after nine chapters of deflecting. He asks for
+  help with his trousers, explains at length and defensively that he means the
+  wound, and she bandages him without comment. Then, standing up: "Now, about
+  the trousers." He stops talking, which has never once happened.
+  Her own reading of it: two days of him running his mouth, and all she ever had
+  to do was say one thing back. Note the timing - she waits until he is bleeding
+  and off balance, and he says so, and she agrees that it is extremely fair.
+  This is a change of footing, not a romance. Nothing has started.
 - AND SHE OUT-THINKS HIM ONCE, in one line, about his own panel. He works out
   that it reads the knife but not a boulder and not his own hand, and is still
   assembling the sentence when she says: "So it tells you what you already know
@@ -238,6 +246,12 @@ MP 60 untouched, Dagger Mastery E, Class None.
 Chapter 9: no mechanical change. He spends the chapter reading OTHER things:
 twenty crawler corpses whose levels climb from 4 to 6 along a dead man's line,
 and then the dark behind the gate, which comes back ???.
+
+Chapter 10: LEVEL 3 at six kills. HP 185, STR 13, DEX 9, CON 9, MP 60 still
+untouched, Class None, Dagger Mastery still E, and 4 unspent points he refuses
+to allocate while his hands are shaking. Seven kills by the end of the chapter.
+The level arrives mid-fight with two of them still on the floor, and he tells
+it "not now", and it does not go away, because it never goes away.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -672,8 +686,9 @@ nicht diese Zeile von Hand.
 7. How Did You Know
 8. It Has Been Keeping Score
 9. What the Panel Will Not Say
-10. (planned - through the gate, and what ??? turns out to mean)
-11. A Name for the Knife (planned)
+10. The Price Went Up
+11. (planned)
+12. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -842,6 +857,31 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   last fresh, and he did not turn round. Marit is a 6 and the highest thing in
   Oldstep. Gaara reads twenty corpses like a table, which is what the instrument
   was always for, and it took him nine chapters to use it that way.
+- (ch10) THE LEVEL CURVE, and it is now derivable by the reader. Level 2 cost
+  two kills. Level 3 cost FOUR more, arriving at six. The step doubles, not the
+  total. So: 2, then 4, then 8, then 16, and the running totals are 2, 6, 14,
+  30. Gaara says the numbers out loud on the page.
+  His earlier guess of four TOTAL was wrong, and he says so: doubling is the
+  cheapest guess a tired man makes at midnight. He was wrong in the figure and
+  right in the shape, and now he has two data points instead of one.
+  What it costs the world: Marit is a 6, and the village runs to sixes. Thirty
+  kills to be a five. Whatever a farmer in Oldstep did to become a six, it took
+  a lifetime, and the things behind the gate are sixes already.
+- (ch10) LEVEL 3: HP 165 to 185, so a level is worth +20 HP and has been since
+  ch2. STR 12 to 13, DEX 8 to 9, and nothing else automatic - the two he used.
+  4 unspent points, and HE DOES NOT SPEND THEM. Any answer arriving that fast
+  with his hands still shaking is one he has not checked.
+  The counter now ticks in front of him during a fight: Kills: 4, 5, 6, 7.
+- (ch10) THE BLIND SPOT, and this is the big one. The ??? is NOT a property of
+  the thing. It is a property of the PLACE. He crosses the groove and reads an
+  empty abandoned nest four feet away: ???. He steps back over the line and
+  reads the same nest: Gloom Crawler nest, abandoned / Chitin, silt, bone.
+  Everything inside the circle reads ???, monster or dirt alike.
+  So the circle was never a fence. It is a hole cut in what the system can see,
+  put there on purpose, by people who knew the system well enough to write a
+  rule against it eight hundred years ago.
+  Gaara does not say the other half out loud, and the other half is an old man
+  with nothing at all over his shoulders (threads 10, 17, 19).
 - (ch9) ??? THE PANEL REFUSES. Pointed into the dark behind the raised gate it
   returns three characters where a number goes. Not a name, not a level, not a
   blank. He did not know it could do that.
