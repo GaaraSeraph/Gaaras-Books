@@ -142,6 +142,8 @@ def check(path):
     if not os.path.exists(paste):
         warns.append("Keine Paste-Fassung. build.py laufen lassen.")
 
+    errs.extend(check_facts(t))
+
     fn = NAME.match(os.path.basename(path))
     hd = re.search(r"Version\s+(\d+)\.(\d+)\s", t)
     if fn and hd and (fn.group(2), fn.group(3)) != (hd.group(1), hd.group(2)):
@@ -149,6 +151,155 @@ def check(path):
                     f"Kopfzeile sagt v{hd.group(1)}.{hd.group(2)}")
 
     return errs, warns
+
+
+# ---------------------------------------------------------------- Zahlen
+
+# Zahlwoerter, aus denen der Text seine Groessen baut. Ziffern kommen in der
+# Prosa fast nicht vor, deshalb steht hier die ausgeschriebene Form zuerst.
+NUMWORD = (r"(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|"
+           r"thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|"
+           r"twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|"
+           r"thousand|million)")
+
+# Eine Groesse ist eine Zahl plus das Substantiv dahinter: "eleven houses".
+# Mehrteilige Zahlen ("two hundred and twenty") werden mitgenommen.
+QUANTITY = re.compile(
+    r"\b(" + NUMWORD + r"(?:[- ](?:and[- ])?" + NUMWORD + r")*)\s+([a-z]{3,})\b",
+    re.I)
+
+# Harte Konstanten. Bewusst ueberempfindlich.
+#
+# In einem Roman gehoert dasselbe Substantiv verschiedenen Subjekten: Georgij
+# hat vier Sprachen, aber der Katalog in Kapitel 6 fuehrt ein anderes Los mit
+# "two languages", und diese Pruefung kann den Unterschied nicht sehen. Sie
+# feuert also gelegentlich auf richtigen Text.
+#
+# **Das ist hier vertretbar, und zwar wegen der Basislinie.** Ein berechtigter
+# Treffer wird einmal angesehen und mit `--baseline` als Altbestand verbucht;
+# danach schweigt er, und jeder NEUE Treffer im selben Kapitel blockiert
+# trotzdem. Eine ueberempfindliche Pruefung mit Ventil faengt mehr als eine
+# vorsichtige ohne. Ohne die Sperrklinke waere die Abwaegung umgekehrt.
+#
+# Regel beim Erweitern: nur Groessen, die im Kanon einen festen Wert haben.
+# Nicht: Groessen, die von Szene zu Szene verschieden sein duerfen.
+FACTS = [
+    # (Substantiv, erlaubte Zahlen, wofuer die jeweilige Zahl steht)
+    ("houses", {"eleven", "four"},
+     "elf Platzierungen, vier mit vermerktem Grund"),
+    ("cameras", {"twenty-four", "twenty-two", "two"},
+     "vierundzwanzig gesamt, zweiundzwanzig auf der Wand, zwei zusaetzliche"),
+    ("languages", {"four"},
+     "Georgij hat vier"),
+    ("screens", {"eight"},
+     "acht Schirme im Monitorzimmer"),
+    ("sheets", {"nine", "eight", "nineteen"},
+     "neun an Jang, acht bei Annie, neunzehn bei Sang-hoon"),
+]
+
+# Watchlist statt Stoppliste. Der erste Versuch hat alles gezaehlt und alles
+# ausser Zeitangaben gemeldet: 51 Groessen, davon "because", "behind",
+# "entirely" - der Regex nimmt stumpf das Wort nach der Zahl, ohne zu wissen,
+# ob es ein Substantiv ist. Ein Bericht, den niemand liest, ist keiner.
+#
+# Deshalb nur die Groessen, die im Kanon eine feste Zahl haben. Kurz halten:
+# was hier fehlt, faellt nicht auf, was falsch drinsteht, kostet Vertrauen.
+WATCH = {
+    "cameras", "screens", "angles", "exits", "columns", "drawers",
+    "houses", "placements", "returns", "languages",
+    "names", "pages", "sheets", "lots", "buyers", "holdings", "charges",
+    "metres", "cent", "million", "won", "tables", "covers", "routes",
+    "staff", "security", "supervisors", "maids", "drivers",
+}
+
+# Zahlen, die im Buch bereits zu viel arbeiten (doc/01-craft.md, Abschnitt 6).
+LOADED = ("eleven", "nine")
+
+
+def quantities(text):
+    """Liefert (Zahl, Substantiv, Zeilennummer) fuer jede Groesse im Text."""
+    out = []
+    for line_no, line in enumerate(text.split("\n"), 1):
+        if line.startswith("#") or line.startswith("*Lot Fourteen"):
+            continue
+        for mm in QUANTITY.finditer(line):
+            out.append((mm.group(1).lower().strip(), mm.group(2).lower(), line_no))
+    return out
+
+
+def check_facts(text):
+    """Harte Konstanten. Gibt Fehlerzeilen zurueck. Siehe Kommentar bei FACTS:
+    bewusst ueberempfindlich, weil die Basislinie berechtigte Treffer auffaengt."""
+    errs = []
+    for num, noun, line_no in quantities(text):
+        for fact_noun, allowed, meaning in FACTS:
+            if noun == fact_noun and num not in allowed:
+                errs.append(f'Zeile {line_no}: "{num} {noun}" - Kanon kennt hier nur '
+                            f'{", ".join(sorted(allowed))} ({meaning}). '
+                            f'Anderes Subjekt? Dann mit --baseline verbuchen.')
+    return errs
+
+
+def numbers_report(files):
+    """Querbericht ueber alle Kapitel. Meldet nichts als Fehler, sondern zeigt,
+    wo dieselbe Groesse mit verschiedenen Zahlen dasteht. Die Entscheidung,
+    ob das ein Widerspruch oder eine andere Bedeutung ist, kann kein Programm
+    treffen - aber die Gegenueberstellung kann es liefern."""
+    index = {}
+    load = {}
+    for path in files:
+        key = os.path.basename(path)
+        with open(path, encoding="utf-8") as fh:
+            text = fh.read()
+        for num, noun, line_no in quantities(text):
+            index.setdefault(noun, {}).setdefault(num, []).append((key, line_no))
+        low = text.lower()
+        load[key] = {w: len(re.findall(rf"\b{w}\b", low)) for w in LOADED}
+
+    print("=" * 72)
+    print("GROESSEN MIT MEHR ALS EINER ZAHL")
+    print("Kein Fehlerbericht. Gegenueberstellung zum Nachrechnen von Hand.")
+    print("=" * 72)
+    print("Oben steht, was am ehesten ein Widerspruch ist: wenige Nennungen,")
+    print("aber verschiedene Zahlen. Wo eine Groesse dreissigmal vorkommt und")
+    print("zehn Werte hat, ist das der Alltag des Textes und kein Fund.")
+
+    # Nur Groessen, die in mehreren Kapiteln mit verschiedenen Zahlen stehen.
+    # Zwei verschiedene Zahlen innerhalb eines Kapitels sind fast immer zwei
+    # verschiedene Szenen ("drei Stuehle" hier, "acht Stuehle" dort). Wo eine
+    # Groesse dagegen ueber Kapitelgrenzen hinweg schwankt, liegt der Verdacht.
+    multi = {}
+    for noun, werte in index.items():
+        if noun not in WATCH or len(werte) < 2:
+            continue
+        multi[noun] = werte
+
+    def verdacht(noun):
+        werte = len(multi[noun])
+        nennungen = sum(len(v) for v in multi[noun].values())
+        # Je naeher an "jede Nennung eine andere Zahl", desto verdaechtiger.
+        return (-(werte / nennungen), nennungen, noun)
+
+    for noun in sorted(multi, key=verdacht):
+        nennungen = sum(len(v) for v in multi[noun].values())
+        print(f"\n{noun}  -  {len(multi[noun])} Zahlen auf {nennungen} Nennungen")
+        for num in sorted(multi[noun], key=lambda x: -len(multi[noun][x])):
+            wo = multi[noun][num]
+            stellen = ", ".join(f"{k.split('_')[0]}:{l}" for k, l in wo[:6])
+            mehr = f" (+{len(wo) - 6})" if len(wo) > 6 else ""
+            print(f"    {num:<26} {len(wo):>2}x   {stellen}{mehr}")
+
+    print("\n" + "=" * 72)
+    print("AUSLASTUNG DER BELASTETEN ZAHLEN")
+    print("doc/01-craft.md: elf und neun arbeiten im Buch bereits zu viel.")
+    print("=" * 72)
+    for key in sorted(load):
+        zeile = "  ".join(f"{w} {load[key][w]:>2}" for w in LOADED)
+        gesamt = sum(load[key].values())
+        marke = "  <<<" if gesamt >= 12 else ""
+        print(f"  {key.split('_')[0]:<6} {zeile}   Summe {gesamt:>2}{marke}")
+
+    print(f"\n{len(index)} Groessen verfolgt, {len(multi)} davon mit mehr als einer Zahl.")
 
 
 BASELINE = ".check-baseline"
@@ -187,6 +338,10 @@ def main():
             if k not in best or v > best[k][0]:
                 best[k] = (v, p)
         files = [p for _, p in sorted(best.values(), key=lambda x: x[1])]
+
+    if "--numbers" in flags:
+        numbers_report(sorted(files))
+        sys.exit(0)
 
     base = read_baseline(root)
     counts, bad, worse, better = {}, 0, [], []

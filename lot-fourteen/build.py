@@ -72,6 +72,47 @@ def to_paste(md):
     return t.rstrip() + "\n"
 
 
+# Verweise auf Dateien, die es einmal gab. Die Dokumente wurden von
+# canon//craft//log//plot/ und einer "story-bible" auf doc/01 bis doc/08
+# umgebaut, und die Verweise sind nicht alle mitgezogen. So etwas verrottet
+# still: es faellt erst auf, wenn jemand nachschlaegt und nichts findet.
+REF = re.compile(r"(?:canon|craft|log|plot)/[\w./-]+|docs?/[\w./-]+\.md"
+                 r"|\b\d\d-[\w-]+\.md")
+# Dokumente, die es als Datei nicht mehr gibt, aber im Fliesstext weiterleben.
+GHOST = re.compile(r"\bder Bibel\b|\bdie Bibel\b|\bBibel\b|story-bible", re.I)
+
+
+def warn_dead_refs(root):
+    """Warnt, blockiert nicht. Ein bewusst vorausweisender Verweis auf ein
+    geplantes Dokument soll den Build nicht anhalten, aber sichtbar sein."""
+    scan = [os.path.join(root, "CLAUDE.md")]
+    scan += sorted(glob.glob(os.path.join(root, "doc", "*.md")))
+    dead, ghosts = [], []
+    for f in scan:
+        if not os.path.exists(f):
+            continue
+        name = os.path.relpath(f, root).replace("\\", "/")
+        for line_no, line in enumerate(read_text(f).split("\n"), 1):
+            for m in REF.finditer(line):
+                target = m.group(0)
+                cand = [os.path.join(root, target),
+                        os.path.join(root, "doc", os.path.basename(target))]
+                if not any(os.path.exists(c) for c in cand):
+                    dead.append(f"{name}:{line_no} -> {target}")
+            if GHOST.search(line):
+                ghosts.append(f"{name}:{line_no}")
+    if dead:
+        print(f"\nWARNUNG  {len(dead)} tote Dateiverweise:")
+        for d in dead:
+            print("  " + d)
+    if ghosts:
+        print(f"\nWARNUNG  {len(ghosts)} Verweise auf die Bibel, die es als Datei "
+              f"nicht mehr gibt (umgebaut auf doc/01 bis doc/08):")
+        for g in ghosts:
+            print("  " + g)
+    return len(dead) + len(ghosts)
+
+
 def build_handbook(root):
     docdir = os.path.join(root, "doc")
     files = sorted(glob.glob(os.path.join(docdir, "[0-9][0-9]-*.md")))
@@ -180,6 +221,8 @@ def main():
     print(f"book.md        {len(chapters)} Kapitel, {total} Woerter")
     print(f"HANDBUCH.md    {ndocs} Dokumente")
     print(f"paste/         {len(chapters)} Einfuegefassungen")
+
+    warn_dead_refs(root)
 
 
 if __name__ == "__main__":
