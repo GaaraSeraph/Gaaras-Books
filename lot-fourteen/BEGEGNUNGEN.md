@@ -109,8 +109,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 19 | ch05:320 | Annie sat very still. |
 | 19 | ch05:324 | "Will I," Annie said. |
 | 19 | ch05:328 | "No," Annie said. "I don't imagine you did." |
-| 19 | ch05:344 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
-| 19 | ch05:368 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
+| 19 | ch05:342 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
+| 19 | ch05:366 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
 | 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
 | 22 | ch06:50 | Annie was watching him. |
 | 22 | ch06:86 | Annie sat back. |
@@ -317,16 +317,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:76 | Annie was in the chair on the left with nothing in her hands. |
 | 74 | ch31:84 | Annie did not move at all for a moment. |
 | 74 | ch31:106 | Annie's mouth did something for about a second. |
-| 74 | ch31:122 | Annie looked at the fire. |
-| 74 | ch31:130 | Annie was quiet for longer than she is ever quiet. |
+| 74 | ch31:122 | Annie put her head back against the chair. |
+| 74 | ch31:130 | It took Annie a moment to answer. |
 | 74 | ch31:152 | Annie put two fingers on the arm of the chair and left them there. |
 | 74 | ch31:168 | Annie did not argue with it, which from her is not agreement and is not nothing. |
 | 74 | ch31:184 | Annie looked at him for a while. |
 | 74 | ch31:196 | Annie took a breath and let it out slowly and said nothing for a moment. |
-| 74 | ch31:208 | Annie considered the fire. |
+| 74 | ch31:208 | Annie took her time about it. |
 | 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 | 74 | ch31:230 | Annie was already ahead of it. |
-| 74 | ch31:256 | Annie sat forward and put her elbows on her knees, which is not a thing she does. |
+| 74 | ch31:256 | Annie sat forward and put her elbows on her knees. |
 | 74 | ch31:280 | Annie did not move. |
 | 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
 | 74 | ch31:306 | Annie got up. |
@@ -349,7 +349,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch05:194` (Tag 9) - seven
 - `ch05:196` (Tag 9) - nine, seven
 - `ch05:198` (Tag 9) - eight, two
-- `ch05:368` (Tag 19) - nine
+- `ch05:366` (Tag 19) - nine
 - `ch06:18` (Tag 22) - seven, six
 - `ch06:182` (Tag 22) - nine, seven
 - `ch07:18` (Tag 22) - three
@@ -1159,8 +1159,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
 | 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
 | 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | ch31:118 | He gave her the sentence he had refused to build for Ye-rin, which was the reason to agr.. |
-| 74 | ch31:140 | He gave her the two things Ye-rin had wanted to buy with. |
+| 74 | ch31:118 | He told her about the sentence he had refused to build, which was the reason to agree, a.. |
+| 74 | ch31:140 | Then the two things Ye-rin had wanted to buy with. |
 | 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
 

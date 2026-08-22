@@ -48,6 +48,12 @@ SELF_COMMENT = [
 TONE_LABEL = [
     "kept his voice", "kept her voice", "without any pressure anywhere",
     "let it be the size it was", "in no hurry at all",
+    # Am 23.08. dreimal in zwei Kapiteln aufgetaucht, jedes Mal knapp am
+    # Eintrag darueber vorbei: "let that be the whole of it", "let that be
+    # what it was", "let that be exactly the size it was". Es ist immer
+    # dieselbe Ausrede - der Beat sagt, wie der Satz klingen soll, statt
+    # dass jemand etwas tut.
+    "let that be", "let it be what",
 ]
 QWORD = r"(?:Why|What|Who|When|Where|How|May I|Do you|Does|Can|Is|Are|Did|Would you|Then why|Have you|Will you)"
 

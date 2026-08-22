@@ -1,5 +1,5 @@
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -233,7 +233,7 @@ Annie took her time with it.
 
 "I did not decide to do it," said Annie. "That is the part I would change."
 
-Georgij let that be as small as it was, which was not very.
+Georgij did not tell her that it was enough.
 
 "Then answer the other question."
 

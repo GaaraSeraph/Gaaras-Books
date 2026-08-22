@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-31 Kapitel. 90.914 Woerter.
+31 Kapitel. 90.857 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -13,7 +13,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 02 | v11.7 | 3.167 |
 | 03 | v2.7 | 3.374 |
 | 04 | v1.9 | 2.443 |
-| 05 | v5.8 | 4.340 |
+| 05 | v5.9 | 4.332 |
 | 06 | v1.6 | 2.069 |
 | 07 | v6.4 | 3.856 |
 | 08 | v3.5 | 2.677 |
@@ -29,9 +29,9 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.4 | 4.090 |
+| 21 | v1.5 | 4.089 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.4 | 2.657 |
+| 23 | v3.5 | 2.653 |
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
 | 26 | v1.2 | 2.416 |
@@ -39,7 +39,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 28 | v1.1 | 2.687 |
 | 29 | v1.2 | 2.007 |
 | 30 | v1.4 | 3.519 |
-| 31 | v1.0 | 3.299 |
+| 31 | v1.1 | 3.255 |
 
 ---
 
@@ -1138,7 +1138,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.8 · EN
+*Lot Fourteen* · Version 5.9 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1465,8 +1465,6 @@ Annie sat very still.
 "There's a court file from Daegu in that report. It takes a name, a case number and somebody at a district registry, and I did not telephone a district registry."
 
 "No," Annie said. "I don't imagine you did."
-
-She let that be the whole of it.
 
 She did not ask how he had got the ninety-one. She did not ask how he had got into the machine or how long it had taken. She did not ask what else was on the machine, or what he had opened before he wrote to the desktop. She did not turn to the laptop on the side table and pull the log. It would have taken her under a minute, and she had paid a company in Yeouido specifically so that she could.
 
@@ -6058,7 +6056,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6254,7 +6252,7 @@ Georgij did not say anything for a moment.
 
 "Of course it is. It is my trade and not yours." She looked at him. "And do not sit in my house and think you have got away with something. I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there. That is the whole of what I am. You place it, you watch it land, and you take the credit in private."
 
-She let that be as flat as it was.
+She did not take any of it back.
 
 "On the sixteenth I am going to talk for four hours and not know what any of it is doing. I chose that at four o'clock and I would choose it again, and it is still the first time."
 
@@ -6796,7 +6794,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7030,7 +7028,7 @@ Annie took her time with it.
 
 "I did not decide to do it," said Annie. "That is the part I would change."
 
-Georgij let that be as small as it was, which was not very.
+Georgij did not tell her that it was enough.
 
 "Then answer the other question."
 
@@ -9528,7 +9526,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9582,7 +9580,7 @@ Hana picked the tray up again, because there were still thirty people in her hou
 
 ---
 
-Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and got no report, which is what that man is for.
+Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and got no report.
 
 Georgij sat in the back with his coat still on and did not take out the notebook.
 
@@ -9620,7 +9618,7 @@ He started at the drive.
 
 He gave her the two minutes to nine and the coat she carried in over her arm. He gave her the corner nearest the hall, which Ye-rin had looked at before she looked at anything else in that half of the room. He gave her the twelve minutes of nothing, and the six or seven with her brother, and Woo getting up on his stick for her. He gave her the terrace and the cold and the door Ye-rin opened herself.
 
-He gave her the whole offer in the order he had given it, which was the ugly half first.
+The offer went in the order he had given it, which was the ugly half first.
 
 "You told her she becomes the place to press."
 
@@ -9644,11 +9642,11 @@ Annie's mouth did something for about a second.
 
 He went on.
 
-He gave her the sentence he had refused to build for Ye-rin, which was the reason to agree, and why he had left it empty. He gave her the answer that had come out of the empty space, and he gave it in Ye-rin's words and not his own, because they were better than his own.
+He told her about the sentence he had refused to build, which was the reason to agree, and why he had left the space empty. What came out of that empty space he repeated in Ye-rin's words and not his own, because hers were better.
 
 "Unwritten power dies with the person who has it. Written down it can be taken, and it is there in the morning."
 
-Annie looked at the fire.
+Annie put her head back against the chair.
 
 "Say the rest of it."
 
@@ -9656,7 +9654,7 @@ Annie looked at the fire.
 
 ---
 
-Annie was quiet for longer than she is ever quiet.
+It took Annie a moment to answer.
 
 "That is a better argument than the one I would have sent."
 
@@ -9666,7 +9664,7 @@ Annie was quiet for longer than she is ever quiet.
 
 ---
 
-He gave her the two things Ye-rin had wanted to buy with.
+Then the two things Ye-rin had wanted to buy with.
 
 The limit on the veto first, because it had come first, and because he was not going to arrange the evening into a better shape than it had been.
 
@@ -9686,7 +9684,7 @@ Annie put two fingers on the arm of the chair and left them there.
 
 "And you agreed with her."
 
-"I agreed with her out loud, on a terrace, in December, with nothing between it and her." He said it without any comfort in it anywhere. "I told her I was not going to find a kinder word at half past nine and that if I did she would only have to unlearn it in March."
+"I agreed with her out loud, on a terrace, in December, with nothing between it and her." He had not moved since he sat down. "I told her I was not going to find a kinder word at half past nine and that if I did she would only have to unlearn it in March."
 
 ---
 
@@ -9698,7 +9696,7 @@ Annie did not argue with it, which from her is not agreement and is not nothing.
 
 ---
 
-He gave her the time and he gave her the nephew.
+The time first. Then the nephew.
 
 Her word until March, personally, instead of the paper: refused, and refused *because* he believed it. A word binds one woman and it does not bind six people, and it would leave her carrying a cousin with a temper for three more months with nothing over her.
 
@@ -9718,7 +9716,7 @@ Annie looked at him for a while.
 
 "Why did you not."
 
-"Because I am going to be standing in rooms with that woman for fifteen years." He was aware of how many times he had now said a version of that sentence in one evening and he said it anyway. "And because she would have found out. She finds out. She has been finding out for twenty years without ever once being in the room."
+"Because she would have found out. She finds out. She has been finding out for twenty years without ever once being in a room." He sat back for the first time since he came in. "The first thing I ever do in front of that woman is not going to be a thing she has to find out."
 
 ---
 
@@ -9734,17 +9732,17 @@ Annie took a breath and let it out slowly and said nothing for a moment.
 
 ---
 
-Annie considered the fire.
+Annie took her time about it.
 
 "Granted."
 
 "Thank you."
 
-"That is not a favour and do not thank me for it." She said it without any edge on it at all. "It is the only version that works and you knew that when you promised it, which is why you promised it without asking me."
+"That is not a favour and do not thank me for it." She stayed where she was. "It is the only version that works and you knew that when you promised it, which is why you promised it without asking me."
 
 ---
 
-He gave her the last of it.
+There was one piece left and he put it down last.
 
 Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addressed to Sung-ho, and a second copy in a plain envelope with nothing on the outside, handed to Hana on a Thursday. His sentence to the six, before the good part.
 
@@ -9770,7 +9768,7 @@ Georgij inclined his head.
 
 ---
 
-The fire did what fires do.
+The clock in the long room did the half hour.
 
 "How long were you out there."
 
@@ -9782,7 +9780,7 @@ The fire did what fires do.
 
 ---
 
-Annie sat forward and put her elbows on her knees, which is not a thing she does.
+Annie sat forward and put her elbows on her knees.
 
 "Ask me for something."
 
@@ -9790,7 +9788,7 @@ He did not answer at once.
 
 "There is nothing that needs to happen tonight."
 
-"That is not what I said, and you heard what I said." She was not letting it go and she was not raising her voice. "You have brought me forty-one point four per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
+"You heard me." She was not letting it go. "You have brought me forty-one point four per cent of a shipping group, bound into one block, directed by a woman whose name will be in a document for the first time in her life. You did it with a sentence and no paper and you were in the cold for twenty-two minutes. Ask me for something."
 
 ---
 
@@ -9802,7 +9800,7 @@ There is a number and there is a date, in a book kept in a building he has been 
 
 "That is not an answer."
 
-"It is the whole answer and I will give you the reason." He had his hands where he had put them and they had not moved. "There is a thing that would be worth asking for. It is a large price and you do not have to pay it this year. If it ever has to be paid, you will think of it yourself in about four seconds." The fire settled and neither of them looked at it. "It is not mine to have put in your head in December."
+"It is the whole answer and I will give you the reason." He had his hands where he had put them and they had not moved. "There is a thing that would be worth asking for. It is a large price and you do not have to pay it this year. If it ever has to be paid, you will think of it yourself in about four seconds." The room was quiet enough to hear the house in it. "It is not mine to have put in your head in December."
 
 ---
 
@@ -9904,7 +9902,7 @@ Chairman Woo was quiet for long enough that Georgij checked the line.
 
 "My room."
 
-"Monday the twenty-second, at Kim Sung-ho's house and not at a hotel, with the whole family in it and with the person who can actually sign sitting in the room." Georgij let that be what it was. "Both of your conditions, before the year is out, and neither of them arranged around."
+"Monday the twenty-second, at Kim Sung-ho's house and not at a hotel, with the whole family in it and with the person who can actually sign sitting in the room." He waited for the old man to say something and the old man did not. "Both of your conditions, before the year is out, and neither of them arranged around."
 
 "And you will be in it."
 

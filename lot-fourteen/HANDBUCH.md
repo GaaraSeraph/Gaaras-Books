@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 69.395 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 69.388 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1618,7 +1618,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 31** *A number and a date* (v1.0) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
+- **Kapitel 31** *A number and a date* (v1.1) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
 - **Kapitel 30** *Who do they telephone* (v1.4) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
@@ -1746,7 +1746,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Offen und bewusst offen:** Wie der Name lautet, steht noch nicht fest. Der Text sagt nur, dass sie ihn sagt und wie er klingt. **Annie hat im ganzen Buch keinen Nachnamen** und ist die einzige Figur ohne koreanischen Namen - das war nie erklaert und ist ab hier eine Absicht.
 
-- **Kapitel 23** *Nobody weighs a door handle* (v3.4) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
+- **Kapitel 23** *Nobody weighs a door handle* (v3.5) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
   **Der Hoehepunkt ist der Entzug der Anrede.** Auf ihr *"A man who does not break is a man nobody can hold"* kontert er mit dem, was tatsaechlich der Fall ist: **Sie hat ihn fuenfundfuenfzig Tage lang tadellos gehalten**, jeden Raum, jeden Namen, jede wache Stunde, fuer eine Unterschrift im Oktober und nichts weiter. *"So why did you go and try to waste it?"*
 
@@ -1785,7 +1785,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.4) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.5) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
@@ -1803,7 +1803,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, Yun-seo, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.4) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.6) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.8) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 5** *Seven Letters* (v5.9) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.9) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.7) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
@@ -3868,8 +3868,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 19 | ch05:320 | Annie sat very still. |
 | 19 | ch05:324 | "Will I," Annie said. |
 | 19 | ch05:328 | "No," Annie said. "I don't imagine you did." |
-| 19 | ch05:344 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
-| 19 | ch05:368 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
+| 19 | ch05:342 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
+| 19 | ch05:366 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
 | 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
 | 22 | ch06:50 | Annie was watching him. |
 | 22 | ch06:86 | Annie sat back. |
@@ -4076,16 +4076,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:76 | Annie was in the chair on the left with nothing in her hands. |
 | 74 | ch31:84 | Annie did not move at all for a moment. |
 | 74 | ch31:106 | Annie's mouth did something for about a second. |
-| 74 | ch31:122 | Annie looked at the fire. |
-| 74 | ch31:130 | Annie was quiet for longer than she is ever quiet. |
+| 74 | ch31:122 | Annie put her head back against the chair. |
+| 74 | ch31:130 | It took Annie a moment to answer. |
 | 74 | ch31:152 | Annie put two fingers on the arm of the chair and left them there. |
 | 74 | ch31:168 | Annie did not argue with it, which from her is not agreement and is not nothing. |
 | 74 | ch31:184 | Annie looked at him for a while. |
 | 74 | ch31:196 | Annie took a breath and let it out slowly and said nothing for a moment. |
-| 74 | ch31:208 | Annie considered the fire. |
+| 74 | ch31:208 | Annie took her time about it. |
 | 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 | 74 | ch31:230 | Annie was already ahead of it. |
-| 74 | ch31:256 | Annie sat forward and put her elbows on her knees, which is not a thing she does. |
+| 74 | ch31:256 | Annie sat forward and put her elbows on her knees. |
 | 74 | ch31:280 | Annie did not move. |
 | 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
 | 74 | ch31:306 | Annie got up. |
@@ -4108,7 +4108,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch05:194` (Tag 9) - seven
 - `ch05:196` (Tag 9) - nine, seven
 - `ch05:198` (Tag 9) - eight, two
-- `ch05:368` (Tag 19) - nine
+- `ch05:366` (Tag 19) - nine
 - `ch06:18` (Tag 22) - seven, six
 - `ch06:182` (Tag 22) - nine, seven
 - `ch07:18` (Tag 22) - three
@@ -4918,8 +4918,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
 | 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
 | 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | ch31:118 | He gave her the sentence he had refused to build for Ye-rin, which was the reason to agr.. |
-| 74 | ch31:140 | He gave her the two things Ye-rin had wanted to buy with. |
+| 74 | ch31:118 | He told her about the sentence he had refused to build, which was the reason to agree, a.. |
+| 74 | ch31:140 | Then the two things Ye-rin had wanted to buy with. |
 | 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
 
