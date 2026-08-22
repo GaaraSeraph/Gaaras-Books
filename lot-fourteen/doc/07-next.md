@@ -37,6 +37,27 @@ ihn noch nicht gezeigt.
    der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
    kostet, es zu benutzen, und nicht die, an der es sie ruehrt.
 
+**Der Preis fuer den Schock ist NICHT bezahlt, und das ist Absicht.** Die
+Fernbedienung war ihre und sie hat sie geworfen. Der Name war eine Antwort auf
+die Frage, was er will, und er kostet sie nichts, was sie verlieren koennte -
+Georgij traegt ihn nicht weiter, und sie weiss das vorher. Die Vollmacht hat er
+selbst als Werkzeug fuer ihr Geschaeft abgerechnet.
+
+**Es steht also weiter etwas offen, es steht auf keinem Papier, und beide
+wissen es.** Das traegt Kapitel lang und darf nicht aus Versehen eingeloest
+werden.
+
+**Die Einloesung, wenn sie kommt, ist das Register.** Kanon in
+`doc/04-world.md`. Sie kann das Halsband jederzeit abnehmen lassen, das kostet
+einen Nachmittag; den Eintrag loeschen zu lassen heisst, das Haus dazu zu
+bringen, und das kostet Geld, Zugang und Erklaerbarkeit gegenueber einem
+Gewerbe, mit dem sie nichts zu tun haben will. Eine Zusage mit Datum ist
+bezahlbar, terminierbar und brechbar, und sie loest nichts sofort auf.
+
+**Und der Praezedenzfall gehoert dazu:** Los elf wurde zurueckgezogen. Sie hat
+im Oktober bereits einmal einen Eintrag aendern lassen, und sie hat Georgij nie
+gesagt, dass sie es kann.
+
 **Und der zweite offene Punkt aus derselben Nacht:** Er hat sie gebeten, es nie
 vor Zeugen zu tun. Sie hat nicht zugesagt. Sie hat die Fernbedienung in den Han
 geworfen und nichts dazu gesagt, und das ist keine Zusage, sondern eine

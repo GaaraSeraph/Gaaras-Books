@@ -44,6 +44,48 @@ Annie hat den Jungen gekauft. Sie hat auch den Namen des Garanten geholt, weil G
 
 ---
 
+### Das Register
+
+**Kanon ab Kapitel 24.** Das Haus fuehrt Buch darueber, wer wem gehoert. Eine
+Nummer, ein Eigentuemer, ein Datum. Es liegt beim Haus und nicht bei Annie, und
+sie kann es nicht selbst aendern.
+
+**Zwei Dinge, die nicht dasselbe sind, und das ist der ganze Punkt.**
+
+Das **Halsband ist Hardware**. Es geht ab, sobald jemand mit dem Werkzeug da ist,
+und der Mann, der Halsbaender anpasst, existiert im Buch bereits. Das kostet
+einen Nachmittag.
+
+Der **Eintrag ist Eigentum**. Solange Georgij darin steht, ist er ihrer, und das
+macht ihn teuer anzufassen. Er sagt es in Kapitel 24 selbst: *"A man who belongs
+to somebody is expensive to touch. A man who belongs to nobody is stock."* Wer
+das Halsband abnimmt und den Eintrag stehen laesst, macht aus einem geschuetzten
+Mann einen mit fremdem Eigentumsvermerk und ohne sichtbaren Besitzer. Das ist
+schlechter als vorher.
+
+**Warum es notwendig ist.** Das Halsband sitzt seit dem **zweiten** Haus an ihm
+und haengt an keinem einzelnen Verkaeufer. Ein Markt, der Menschen zwischen elf
+Eigentuemern durchreicht, braucht eine Stelle, die festhaelt, wer gerade wem
+gehoert, sonst ist jeder Weiterverkauf Faustrecht.
+
+**Was es fuer die Handlung tut.** Es macht Freiheit zu einer Sache, die man
+bezahlen, terminieren und brechen kann, statt zu einer Geste. Annie kann das
+Halsband jederzeit abnehmen lassen. Den Eintrag loeschen zu lassen heisst, das
+Haus dazu zu bringen - und das Haus verdient daran, dass Leute darin stehen. Das
+kostet Geld, Zugang und die Bereitschaft, sich einem Gewerbe gegenueber erklaerbar
+zu machen, mit dem sie nichts zu tun haben will.
+
+**Und der Praezedenzfall steht schon im Buch.** Los elf wurde aus dem Katalog
+**zurueckgezogen**. Das Haus aendert Eintraege, wenn jemand dafuer bezahlt, und
+Annie weiss das, weil sie es im Oktober selbst gemacht hat. Siehe "Die Pipeline"
+oben.
+
+**Regel fuers Schreiben:** nie erklaeren. Das Register taucht nur dort auf, wo
+jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
+offen liegt.
+
+---
+
 ## Das Geschaeft
 
 Was Annies Gruppe macht, warum Incheon zaehlt, was die Kims halten, was Hana

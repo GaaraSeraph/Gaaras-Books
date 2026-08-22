@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 57.429 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 57.939 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -48,6 +48,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Auf der Gala](#auf-der-gala)
 - [Haus und Geschaeft](#haus-und-geschaeft)  ·  `doc/04-world.md`
   - [Die Pipeline](#die-pipeline)
+  - [Das Register](#das-register)
   - [Was Annies Gruppe macht, und was sie wirklich kauft](#was-annies-gruppe-macht-und-was-sie-wirklich-kauft)
   - [Die Mechanik: Incheon, die Kims, die Route](#die-mechanik-incheon-die-kims-die-route)
   - [Hana: was sie einbringt und was sie dafür bekommt](#hana-was-sie-einbringt-und-was-sie-daf-r-bekommt)
@@ -1114,6 +1115,48 @@ Annie hat den Jungen gekauft. Sie hat auch den Namen des Garanten geholt, weil G
 **Wichtig: Georgij hat sich nicht verzählt.** Die Leute in der Vorbereitung sind nicht auf dem Anwesen. Er hat an Tag sechs richtig gezählt, was da war. Woher jemand vorher kam, steht in keinem Haushalt an der Wand, und danach fragt man nicht. Der einzige Mensch, der in drei Wochen überhaupt nach dem Vorher gefragt hat, ist Eun-ju, und zwar ihn, zweimal.
 
 **Was der Text bisher zeigt:** Der neue Katalog am Morgen der Gala führt dreiundzwanzig Lose und den Jungen nicht. Zurückgezogen oder verkauft, und ein Katalog druckt weder das eine noch das andere. Annie sagt dazu ein einziges Wort, und das Wort ist "No".
+
+---
+
+### Das Register
+
+**Kanon ab Kapitel 24.** Das Haus fuehrt Buch darueber, wer wem gehoert. Eine
+Nummer, ein Eigentuemer, ein Datum. Es liegt beim Haus und nicht bei Annie, und
+sie kann es nicht selbst aendern.
+
+**Zwei Dinge, die nicht dasselbe sind, und das ist der ganze Punkt.**
+
+Das **Halsband ist Hardware**. Es geht ab, sobald jemand mit dem Werkzeug da ist,
+und der Mann, der Halsbaender anpasst, existiert im Buch bereits. Das kostet
+einen Nachmittag.
+
+Der **Eintrag ist Eigentum**. Solange Georgij darin steht, ist er ihrer, und das
+macht ihn teuer anzufassen. Er sagt es in Kapitel 24 selbst: *"A man who belongs
+to somebody is expensive to touch. A man who belongs to nobody is stock."* Wer
+das Halsband abnimmt und den Eintrag stehen laesst, macht aus einem geschuetzten
+Mann einen mit fremdem Eigentumsvermerk und ohne sichtbaren Besitzer. Das ist
+schlechter als vorher.
+
+**Warum es notwendig ist.** Das Halsband sitzt seit dem **zweiten** Haus an ihm
+und haengt an keinem einzelnen Verkaeufer. Ein Markt, der Menschen zwischen elf
+Eigentuemern durchreicht, braucht eine Stelle, die festhaelt, wer gerade wem
+gehoert, sonst ist jeder Weiterverkauf Faustrecht.
+
+**Was es fuer die Handlung tut.** Es macht Freiheit zu einer Sache, die man
+bezahlen, terminieren und brechen kann, statt zu einer Geste. Annie kann das
+Halsband jederzeit abnehmen lassen. Den Eintrag loeschen zu lassen heisst, das
+Haus dazu zu bringen - und das Haus verdient daran, dass Leute darin stehen. Das
+kostet Geld, Zugang und die Bereitschaft, sich einem Gewerbe gegenueber erklaerbar
+zu machen, mit dem sie nichts zu tun haben will.
+
+**Und der Praezedenzfall steht schon im Buch.** Los elf wurde aus dem Katalog
+**zurueckgezogen**. Das Haus aendert Eintraege, wenn jemand dafuer bezahlt, und
+Annie weiss das, weil sie es im Oktober selbst gemacht hat. Siehe "Die Pipeline"
+oben.
+
+**Regel fuers Schreiben:** nie erklaeren. Das Register taucht nur dort auf, wo
+jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
+offen liegt.
 
 ---
 
@@ -2323,6 +2366,27 @@ ihn noch nicht gezeigt.
    nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
    der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
    kostet, es zu benutzen, und nicht die, an der es sie ruehrt.
+
+**Der Preis fuer den Schock ist NICHT bezahlt, und das ist Absicht.** Die
+Fernbedienung war ihre und sie hat sie geworfen. Der Name war eine Antwort auf
+die Frage, was er will, und er kostet sie nichts, was sie verlieren koennte -
+Georgij traegt ihn nicht weiter, und sie weiss das vorher. Die Vollmacht hat er
+selbst als Werkzeug fuer ihr Geschaeft abgerechnet.
+
+**Es steht also weiter etwas offen, es steht auf keinem Papier, und beide
+wissen es.** Das traegt Kapitel lang und darf nicht aus Versehen eingeloest
+werden.
+
+**Die Einloesung, wenn sie kommt, ist das Register.** Kanon in
+`doc/04-world.md`. Sie kann das Halsband jederzeit abnehmen lassen, das kostet
+einen Nachmittag; den Eintrag loeschen zu lassen heisst, das Haus dazu zu
+bringen, und das kostet Geld, Zugang und Erklaerbarkeit gegenueber einem
+Gewerbe, mit dem sie nichts zu tun haben will. Eine Zusage mit Datum ist
+bezahlbar, terminierbar und brechbar, und sie loest nichts sofort auf.
+
+**Und der Praezedenzfall gehoert dazu:** Los elf wurde zurueckgezogen. Sie hat
+im Oktober bereits einmal einen Eintrag aendern lassen, und sie hat Georgij nie
+gesagt, dass sie es kann.
 
 **Und der zweite offene Punkt aus derselben Nacht:** Er hat sie gebeten, es nie
 vor Zeugen zu tun. Sie hat nicht zugesagt. Sie hat die Fernbedienung in den Han
