@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 66.312 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.361 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -117,9 +117,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Seo](#mrs-seo)
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
+  - [Kim Ye-rin](#kim-ye-rin)
   - [Ji-won](#ji-won)
   - [Kim Do-yun](#kim-do-yun)
-  - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
@@ -1509,7 +1509,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
 - Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
 - Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
-- Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29)
+- Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29), ab neun die Terrasse (Kapitel 30)
 
 ### Die Fahrerwoche
 
@@ -1586,6 +1586,32 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 30** *Who do they telephone* (v1.0) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+
+  **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
+
+  **Der Zutritt ist das Papier**, wie in `doc/07-next.md` vorgesehen: sechs Vorgaenge in zweiundzwanzig Jahren, in denen sie offensichtlich gehandelt hat und in keinem einzigen vorkommt. Er liest sie vor wie einen Busfahrplan und sagt dazu, dass er nichts davon beweisen kann. *"Your brother's people have never found any of it."* - *"Your brother's people were not looking for a woman."*
+
+  **Die Frage ist Woos Frage, uebersetzt.** Bei Woo galt sie einem Gegenstand, bei ihr einer Funktion: **"When you do not answer the telephone any more, who do they call?"** Ihre Antwort kommt flach und sofort, weil sie seit dreizehn Jahren fertig dasteht: **"Nobody."**
+
+  **Was sie bekommt:** Die sechs binden ihre 41,4 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
+
+  **Der Preis, im selben Atemzug genannt, bevor sie ihn selbst findet:** Unsichtbar muss Sang-hoon sechs Leute kaufen. Aufgeschrieben muss er **eine brechen**. *"You become the place to press. I would rather you heard that from me on a terrace than worked it out in March."* - *"You are very bad at selling things."* - *"I am extremely good at selling things. This is the other one."*
+
+  **Und den Grund, warum sie es trotzdem nimmt, findet sie selbst**, weil Georgij ihn ihr ausdruecklich nicht in den Mund legt: *"I know what it costs you. I do not know what it buys you, and I have thought about it for four days, and I am not going to invent something and put it in your mouth."* Ihre Antwort: **Unsichtbare Macht stirbt mit der Person, aufgeschriebene ist am Morgen noch da.**
+
+  **Ihre zwei Bedingungen, beide abgelehnt, beide mit Begruendung:**
+
+  - **Zeit** bis Maerz gegen ihr persoenliches Wort. Abgelehnt, *weil* er dem Wort glaubt: Es bindet sie und nicht die sechs, und macht sie drei Monate lang haftbar fuer einen Cousin mit Temperament.
+  - **Do-yun** mit Titel in der Struktur. Abgelehnt, weil es nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
+
+  **Das ist die Stelle, an der Luegen alles glatt geschlossen haette**, und sie sagt es: *"You could have said yes."* - *"Because you are going to be in rooms with me for the next fifteen years, and I would like all of them to be like this one."*
+
+  **Die Veto-Grenze wird vertagt, nicht ausgesprochen.** Es gibt einen Preis, der reichen wuerde; er nennt ihn nicht, weil sie ihn im Dezember nicht zahlen soll fuer etwas, das er im Maerz umsonst bekommt.
+
+  **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
+
+  **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
 - **Kapitel 29** *The ones who came at seven* (v1.0) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
@@ -3708,16 +3734,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 260 | 27 (01-29) | 1 | 74 |
-| Hana | 152 | 13 (09-29) | 1 | 74 |
-| Chairman Woo | 107 | 19 (07-29) | 3 | 74 |
-| Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
+| Hana | 153 | 14 (09-30) | 1 | 74 |
+| Chairman Woo | 110 | 20 (07-30) | 3 | 74 |
+| Park Sang-hoon | 65 | 13 (10-30) | 22 | 74 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 46 | 16 (03-28) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 29 | 7 (09-29) | 22 | 74 |
+| Kim Ye-rin | 29 | 7 (14-30) | 31 | 74 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Kim Do-yun | 17 | 5 (14-29) | 6 | 74 |
-| Kim Ye-rin | 16 | 6 (14-29) | 31 | 74 |
+| Kim Do-yun | 20 | 6 (14-30) | 6 | 74 |
 | Mr Ku | 8 | 7 (05-29) | 6 | 74 |
 | Mr Pyo | 8 | 5 (05-28) | 1 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
@@ -4072,7 +4098,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-152 Nennungen in 13 Kapiteln.
+153 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4228,6 +4254,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
 | 74 | ch29:202 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
 | 74 | ch29:232 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
+| 74 | ch30:346 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4289,7 +4316,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-107 Nennungen in 19 Kapiteln.
+110 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4400,6 +4427,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
 | 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
 | 74 | ch29:210 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
+| 74 | ch30:10 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
+| 74 | ch30:140 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
+| 74 | ch30:368 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4459,12 +4489,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:104` (Tag 74) - two
 - `ch29:134` (Tag 74) - nine
 - `ch29:158` (Tag 74) - two
+- `ch30:10` (Tag 74) - seventy-eight
+- `ch30:140` (Tag 74) - one
+- `ch30:368` (Tag 74) - one
 
 ---
 
 ### Park Sang-hoon
 
-64 Nennungen in 12 Kapiteln.
+65 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4532,6 +4565,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:138 | "Well," said Sang-hoon. |
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
+| 74 | ch30:368 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -4561,6 +4595,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:66` (Tag 55) - six, two
 - `ch23:28` (Tag 55) - four
 - `ch25:304` (Tag 59) - forty, seven, twelve
+- `ch30:368` (Tag 74) - one
 
 ---
 
@@ -4858,6 +4893,58 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Kim Ye-rin
+
+29 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
+| 49 | ch21:64 | "Ye-rin." |
+| 49 | ch21:66 | "Ye-rin." |
+| 49 | ch21:110 | "And Ye-rin?" |
+| 49 | ch21:112 | "Ye-rin comes at nine, if she comes." |
+| 49 | ch21:120 | "Ye-rin comes at nine." |
+| 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 74 | ch29:234 | Kim Ye-rin looked at the room. |
+| 74 | ch30:38 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
+| 74 | ch30:72 | Ye-rin did not blink. |
+| 74 | ch30:104 | Kim Ye-rin said nothing at all. |
+| 74 | ch30:150 | Ye-rin did not move for a long time. |
+| 74 | ch30:188 | Kim Ye-rin looked at him with something in her face that had not been there. |
+| 74 | ch30:226 | Kim Ye-rin looked out at the black garden. |
+| 74 | ch30:252 | Ye-rin considered him for a moment. |
+| 74 | ch30:274 | "Time," said Kim Ye-rin. "I sign nothing until March. I give you my word, personally, th.. |
+| 74 | ch30:308 | Ye-rin did not say anything. |
+| 74 | ch30:336 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
+| 74 | ch30:342 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
+| 74 | ch30:372 | Kim Ye-rin stood with her hand on the door. |
+| 74 | ch30:386 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:76` (Tag 46) - four, six, twenty
+- `ch18:112` (Tag 48) - one, three
+- `ch21:112` (Tag 49) - nine
+- `ch21:120` (Tag 49) - nine
+- `ch21:216` (Tag 49) - three
+- `ch21:220` (Tag 49) - eight, nine, one, seven
+- `ch21:240` (Tag 49) - nine
+- `ch30:38` (Tag 74) - eleven
+- `ch30:386` (Tag 74) - twenty, twenty-two
+
+---
+
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -4903,7 +4990,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kim Do-yun
 
-17 Nennungen in 5 Kapiteln.
+20 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4924,6 +5011,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
 | 74 | ch29:212 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
+| 74 | ch30:286 | "The second thing. Do-yun." |
+| 74 | ch30:300 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | ch30:304 | "Do-yun is worthless as a condition, because the day you sign, we have him anyway. He is.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
@@ -4932,43 +5022,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:190` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
 - `ch29:78` (Tag 74) - two
-
----
-
-### Kim Ye-rin
-
-16 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
-| 49 | ch21:64 | "Ye-rin." |
-| 49 | ch21:66 | "Ye-rin." |
-| 49 | ch21:110 | "And Ye-rin?" |
-| 49 | ch21:112 | "Ye-rin comes at nine, if she comes." |
-| 49 | ch21:120 | "Ye-rin comes at nine." |
-| 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 74 | ch29:234 | Kim Ye-rin looked at the room. |
-
-### Zahlen in der Naehe von Kim Ye-rin
-
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:76` (Tag 46) - four, six, twenty
-- `ch18:112` (Tag 48) - one, three
-- `ch21:112` (Tag 49) - nine
-- `ch21:120` (Tag 49) - nine
-- `ch21:216` (Tag 49) - three
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch21:240` (Tag 49) - nine
+- `ch30:300` (Tag 74) - four
 
 ---
 

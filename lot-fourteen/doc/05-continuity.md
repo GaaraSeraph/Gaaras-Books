@@ -49,7 +49,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
 - Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
 - Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
-- Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29)
+- Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29), ab neun die Terrasse (Kapitel 30)
 
 ### Die Fahrerwoche
 
@@ -126,6 +126,32 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 30** *Who do they telephone* (v1.0) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+
+  **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
+
+  **Der Zutritt ist das Papier**, wie in `doc/07-next.md` vorgesehen: sechs Vorgaenge in zweiundzwanzig Jahren, in denen sie offensichtlich gehandelt hat und in keinem einzigen vorkommt. Er liest sie vor wie einen Busfahrplan und sagt dazu, dass er nichts davon beweisen kann. *"Your brother's people have never found any of it."* - *"Your brother's people were not looking for a woman."*
+
+  **Die Frage ist Woos Frage, uebersetzt.** Bei Woo galt sie einem Gegenstand, bei ihr einer Funktion: **"When you do not answer the telephone any more, who do they call?"** Ihre Antwort kommt flach und sofort, weil sie seit dreizehn Jahren fertig dasteht: **"Nobody."**
+
+  **Was sie bekommt:** Die sechs binden ihre 41,4 Prozent zu einem Block, gerichtet von einer im Dokument benannten Person. Das erste Papier seit zwanzig Jahren mit ihrem Namen darin.
+
+  **Der Preis, im selben Atemzug genannt, bevor sie ihn selbst findet:** Unsichtbar muss Sang-hoon sechs Leute kaufen. Aufgeschrieben muss er **eine brechen**. *"You become the place to press. I would rather you heard that from me on a terrace than worked it out in March."* - *"You are very bad at selling things."* - *"I am extremely good at selling things. This is the other one."*
+
+  **Und den Grund, warum sie es trotzdem nimmt, findet sie selbst**, weil Georgij ihn ihr ausdruecklich nicht in den Mund legt: *"I know what it costs you. I do not know what it buys you, and I have thought about it for four days, and I am not going to invent something and put it in your mouth."* Ihre Antwort: **Unsichtbare Macht stirbt mit der Person, aufgeschriebene ist am Morgen noch da.**
+
+  **Ihre zwei Bedingungen, beide abgelehnt, beide mit Begruendung:**
+
+  - **Zeit** bis Maerz gegen ihr persoenliches Wort. Abgelehnt, *weil* er dem Wort glaubt: Es bindet sie und nicht die sechs, und macht sie drei Monate lang haftbar fuer einen Cousin mit Temperament.
+  - **Do-yun** mit Titel in der Struktur. Abgelehnt, weil es nichts kostet: Am Tag der Unterschrift hat sein Arbeitgeber verloren und er steht binnen vierzehn Tagen bei Sung-ho vor der Tuer. *"If I said yes to it, I would be taking a price off you for something I get free. You would find that out in March, and then nothing I ever said to you again would be worth hearing."*
+
+  **Das ist die Stelle, an der Luegen alles glatt geschlossen haette**, und sie sagt es: *"You could have said yes."* - *"Because you are going to be in rooms with me for the next fifteen years, and I would like all of them to be like this one."*
+
+  **Die Veto-Grenze wird vertagt, nicht ausgesprochen.** Es gibt einen Preis, der reichen wuerde; er nennt ihn nicht, weil sie ihn im Dezember nicht zahlen soll fuer etwas, das er im Maerz umsonst bekommt.
+
+  **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
+
+  **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
 - **Kapitel 29** *The ones who came at seven* (v1.0) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
