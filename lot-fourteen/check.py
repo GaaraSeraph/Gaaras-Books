@@ -68,6 +68,10 @@ def check(path):
     body = re.sub(r"^#.*$", "", t, flags=re.M)
     body = re.sub(r"^\*Lot Fourteen.*$", "", body, flags=re.M)
     body = re.sub(r"^\*Days? .*$", "", body, flags=re.M)
+    # Szenentrenner raus. Sonst klebt "---" am folgenden Satz und zaehlt als
+    # Wort: ein Satz mit neununddreissig Woertern wird dann als vierzig
+    # gemeldet. Das hat in vier Kapiteln falsche Treffer erzeugt.
+    body = re.sub(r"^-{3,}$", "", body, flags=re.M)
     errs, warns = [], []
 
     if re.search(r"[\u2014\u2013]", t):

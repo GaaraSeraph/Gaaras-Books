@@ -675,11 +675,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch07:228 | "And where were you educated?" said Mr Hong. |
 | 22 | ch07:236 | Mr Hong laughed. Then he stopped laughing, which took him about a second and a half, and.. |
 | 22 | ch07:254 | Mr Hong enjoyed that, as he was intended to. |
-| 22 | ch07:270 | Mr Hong opened his mouth to laugh a second time and then did not, because it is the most.. |
+| 22 | ch07:270 | Mr Hong opened his mouth to laugh a second time and then did not. It is the most flatter.. |
 | 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
 | 22 | ch07:282 | "He has never come to this. Nineteen years, and I have never once seen him at it." Mr Ho.. |
 | 22 | ch07:286 | "You had better not," said Mr Hong, delighted, and went away to tell somebody. |
-| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty, and a man .. |
+| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
 | 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
 | 22 | ch09:156 | "Everybody says that. Almost nobody does it." She turned so that her back was to the min.. |
 | 22 | ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
@@ -1002,7 +1002,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it, in the back of a boxy black car wit.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
 
 ### Zahlen in der Naehe von Mr Ku
@@ -1038,7 +1038,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty, and a man .. |
+| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
