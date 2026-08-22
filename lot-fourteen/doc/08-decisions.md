@@ -334,3 +334,47 @@ des Hauses statt des Vorgangs zwischen den beiden), und den alten Titel zu
 behalten und das Wortspiel einzuloesen (haette Georgij dazu gebracht, ueber
 seinen eigenen Status nachzudenken, statt ihn festzustellen - das Buch tut das
 nirgends).
+
+---
+
+### check.py teilt jetzt erst in Absaetze, dann in Saetze
+
+**Geaendert am 22.08.**, beim Schreiben von Kapitel 18 aufgefallen.
+
+**Der Fehlalarm.** Der Satzteiler trennte nur nach `.`, `!`, `?` und `"`. Eine
+ganz kursive Zeile endet aber auf einem Stern, und der Text wurde am Stueck
+geteilt. Also klebte jede solche Zeile am folgenden Absatz. In Kapitel 18 wurde
+so ein Satz mit dreiundvierzig Woertern gemeldet, den es nicht gibt:
+
+> *Later.*
+>
+> And on page nine, beside the two rumours from two mouths that had no reason to know each other:
+
+**Betroffen war nicht nur diese Stelle.** Dieselbe Konstruktion steht in jeder
+Datumszeile, in den vier Notizbuchzeilen in Kapitel 16 und ueberall dort, wo ein
+kurzer kursiver Satz allein steht. Bisher ist es nie aufgefallen, weil zufaellig
+nie ein langer Absatz dahinter stand.
+
+**Die Aenderung:** erst an Leerzeilen in Absaetze zerlegen, dann innerhalb jedes
+Absatzes in Saetze. Ein Satz laeuft nie ueber eine Leerzeile, auch nicht bei der
+Fortsetzungskonvention in der Rede - dort endet der erste Absatz zwar ohne
+schliessendes Anfuehrungszeichen, aber die Saetze darin enden normal.
+
+**Gegenprobe in beide Richtungen gefahren**, nach der Regel aus `CLAUDE.md`:
+
+- Alle achtzehn Kapitel: kein Satzlaengenfehler mehr. Uebrig bleiben nur die
+  drei geduldeten Zahl-Konstanten in Kapitel 6 und 12.
+- Ein absichtlich eingebauter Satz mit fuenfzig Woertern, **direkt hinter einer
+  kursiven Zeile**, wird weiterhin gemeldet, und zwar mit fuenfzig und nicht mit
+  einer aufgeblaehten Zahl.
+
+**Und eine Panne, die hier steht, damit sie sich nicht wiederholt.** Der erste
+Versuch wurde ueber ein Shell-Heredoc eingespielt, und das hat den Backslash vor
+dem `n` verschluckt. Aus `r"
+\s*
+"` wurde ein echter Zeilenumbruch mitten im
+Regex, und `check.py` liess sich fuer ein paar Minuten nicht mehr uebersetzen.
+Aufgefallen, weil der Kontrolllauf danach **gar nichts** ausgab statt einer
+Meldung - ein leeres Ergebnis ist kein gruenes Ergebnis. Wer Backslashes in
+diese Datei bringt, baut sie mit `chr(92)` zusammen oder schreibt die Datei
+direkt, statt sie durch eine Shell zu schicken.
