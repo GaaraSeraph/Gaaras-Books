@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-27 Kapitel. 80.966 Woerter.
+27 Kapitel. 80.997 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -25,11 +25,11 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 14 | v7.5 | 2.604 |
 | 15 | v2.5 | 4.232 |
 | 16 | v1.15 | 3.200 |
-| 17 | v12.8 | 2.694 |
+| 17 | v12.9 | 2.714 |
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
-| 21 | v1.3 | 4.079 |
+| 21 | v1.4 | 4.090 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.4 | 2.657 |
 | 24 | v1.4 | 2.653 |
@@ -4900,7 +4900,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.8 · EN
+*Lot Fourteen* · Version 12.9 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4920,7 +4920,9 @@ The car went under a bridge. The lights crossed her face and left it.
 
 ---
 
-"He kept the report. I get it back on Thursday." Georgij looked out at the expressway going past. "He read the first page, then the second, then the first again, and nothing happened to his face.
+"He kept the report. I get it back on Thursday." Georgij looked out at the expressway going past. "He read the first page, then the second, then the first again, and nothing happened to his face."
+
+The lights crossed her face again and left it.
 
 "Twenty minutes later we were talking about the ceiling at the Grand Hotel. He asked me about slot fees on a lane that is on page seven. Then he asked whether a board that has stopped meeting can still authorise a disposal, and that is not in the document anywhere. He brought it with him."
 
@@ -4964,7 +4966,9 @@ She was quiet for the length of two lamp posts.
 
 "Say the guess."
 
-"Sang-hoon put the container into that shipment, and he did not do it to slow them down. Customs have been in that building a month and they have not stopped one lorry leaving that yard.
+"Sang-hoon put the container into that shipment, and he did not do it to slow them down. Customs have been in that building a month and they have not stopped one lorry leaving that yard."
+
+He turned his hand over.
 
 "What a month of customs does is take the customers off them, and put a man in uniform in the corridor every morning where the whole family can see him. That is not a delay. That is the frightening, and the Republic of Korea is doing it for him, on its own time, and he has not paid anybody a won for it."
 
@@ -5004,7 +5008,9 @@ Georgij did not answer straight away.
 
 "And the other side of it?"
 
-"Then it is a question of who holds the paper." He said it flatly. "A charge is an asset. It is bought and it is sold. A regional bank in Incheon will let a position go at a discount to anybody who telephones in a bad quarter, and nobody there will ask what he wants it for.
+"Then it is a question of who holds the paper." He said it flatly. "A charge is an asset. It is bought and it is sold. A regional bank in Incheon will let a position go at a discount to anybody who telephones in a bad quarter, and nobody there will ask what he wants it for."
+
+Annie had not moved at all.
 
 "Somebody buys three charges over a couple of months, and a letter comes in the spring, and the person who can call in two thirds of her land is somebody she has never met. Buying positions in things is what a private equity company in Hong Kong exists for."
 
@@ -6048,7 +6054,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6146,7 +6152,9 @@ Hana put her chin down for a second.
 
 ---
 
-"Then here is what a party is," she said, "because you have never given one and it shows.
+"Then here is what a party is," she said, "because you have never given one and it shows."
+
+She put the glass down and left it where it landed.
 
 "You do not invite nine people from one family. You invite forty and they come in three waves, and the waves are the whole of it. The ones who come at seven are the ones who are being polite, and they leave at nine and you never see them again. The ones who come at nine are the ones who came for the room. And there are always four or five who come at half past ten and nobody remembers whether they were invited."
 
