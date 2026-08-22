@@ -10,7 +10,7 @@ He lay in the dark under a weight of stone and waited for his body to punish him
 
 It didn't.
 
-Something was pressing down on him, close and heavy, and the air tasted of ash and old rot. Serious problems, all of them. But underneath the fear sat something stranger, and it took him a stupid moment to name it, because he had not felt it since his twenties.
+Something was pressing down on him, close and heavy, and the air tasted of ash and old rot. Fine. Serious problems, all of them. But underneath the fear sat something stranger, and it took him a stupid moment to name it, because he had not felt it since his twenties.
 
 He felt fine. Not comfortable. Fine as in a body doing what it was told.
 
@@ -22,9 +22,9 @@ Dust poured down and stung his eyes. He sucked in a breath through his teeth, an
 
 He almost let go of the slab.
 
-Twenty years of half breaths, of measuring stairs, of the machine on the nightstand hissing all night, and his lungs had just filled up like it cost nothing.
+Twenty years of half breaths, of measuring stairs, of the machine on the nightstand hissing at him all night, and his lungs had just filled up like it cost nothing.
 
-"Fuck my life. Where am I? This office wasn't old enough to fall down."
+"Fuck my life. Where the hell am I? This office wasn't so old it should collapse."
 
 His voice came out wrong. Too deep, too clear, no gravel in it. He filed it and kept pushing.
 
@@ -36,13 +36,13 @@ He lay there breathing.
 
 The last thing he remembered was the tatami mat. Three weeks old, the good kind, and the most expensive thing he still owned, because by then it was also his bed. The flat had gone in spring. He had told exactly two people, and both had assumed he was joking, which told him something about the two people.
 
-So: the office. Lights off, blinds down, mat rolled out between the desk and the wall where nobody could see it through the glass. Lie down at an hour that no longer counted as night. Set an alarm, because there was a call, and after the call another call. And at the end of all of them a number with a minus in front of it that had been gaining on him for two years.
+So: the office. Lights off, blinds down, mat rolled out between the desk and the wall where nobody could see it through the glass. Lie down at an hour that no longer counted as night, and set an alarm, because there was a call, and after the call another call, and at the end of all of them a number with a minus in front of it that had been gaining on him for two years.
 
 Then the mat. Then dust.
 
 He sat up.
 
-And that was the part that would not sit still in his head later. No crash. No horn, no chest pain, no long slide into a white ceiling with people shouting over him. He had gone to sleep at thirty-eight on a mat in his own office, and he had woken up here.
+And that was the part that would not sit still in his head later. No crash. No horn, no chest pain, no long slide into a white ceiling with people shouting over him. He had gone to sleep at thirty-eight on a mat in his own office, in a body that was closing down but was not finished yet, and he had woken up here.
 
 No death. Just a cut in the tape.
 
@@ -56,7 +56,7 @@ He got his feet under him and stood up, and the standing worked on the first att
 
 Then he looked down at himself.
 
-Bare feet on cold stone. A rough undyed shirt tied at the waist, trousers of the same. No phone. No watch.
+Bare feet on cold stone. A rough undyed shirt tied at the waist, trousers of the same. No shoes. No phone. No watch.
 
 And under the shirt, a stomach. Flat. Not smaller. Flat, with muscle under his hand where for years there had been a soft heavy swell he could not look at in shop windows.
 
@@ -78,7 +78,7 @@ For thoroughness, and because there was nobody around to be dignified in front o
 
 The laugh cracked in the middle and stopped, because the fear arrived properly, and it arrived cold.
 
-He was not himself. He was not the man who had been quietly disassembled over ten years by his own ambition and his own organs. That man had wanted to help everyone. That man had watched it come apart while lying on his back, listening to a machine breathe for him. The humiliation had been the worst part. Not the pain. The being handled.
+He was not himself. He was not the man who had been quietly disassembled over ten years by his own ambition and his own organs, who had wanted to help everyone and had watched it come apart while lying on his back listening to a machine breathe for him. The humiliation had been the worst part. Not the pain. The being handled.
 
 That man was gone. Somebody had thrown him away and left this in his place.
 
@@ -92,11 +92,11 @@ He tried to wave it off like an insect.
 
 It stayed.
 
-His mind, the only piece of his old life that had come with him, started producing explanations. Light refraction. A stroke. A very expensive holographic rig operated by someone with a hostage plan and poor priorities.
+His mind, still the only piece of his old life that had come with him, started producing explanations. Light refraction. A stroke. A very expensive holographic rig operated by someone with a hostage plan and poor priorities.
 
 Every one of them died on contact with the fact that he could feel the ash on his tongue.
 
-"I have dreamed about this. It is too real to be a dream."
+"I did dream of this. This feels too real to be a dream. Can I really...?"
 
 He reached out. His hand went straight through it, and the text sharpened as his eyes settled on it, like it had been waiting for him to pay attention.
 
@@ -124,9 +124,9 @@ CON 5.
 
 He looked at that one for a long time.
 
-Five. The lowest thing on the board by a clear margin.
+Five. Half of average, if ten was average. The lowest thing on the board by a clear margin.
 
-It was correct. That was the obscene part. He could put on strength like other people put on a coat, ten kilos on the bar in a fortnight, while the men beside him ground away for a year and got nowhere. Endurance never came at all. Two sessions a day at nineteen, and he still lost his wind on a flight of stairs and still woke up wrecked after a full night. His body would take load and would not take time.
+And it was correct. That was the obscene part. It had always been correct. He could put on strength like other people put on a coat, ten kilos on the bar in a fortnight, while the men beside him ground away for a year and got nowhere. Endurance never came at all. Two sessions a day at nineteen and he still lost his wind on a long flight of stairs, still caught every virus in the building, still woke up wrecked after a full night. His body would take load and would not take time.
 
 Then his eyes went one line up, and the whole thing stopped making sense.
 
@@ -140,7 +140,7 @@ Whatever that was, it was not one point better than the man who delivered his po
 
 So ten was not the average man.
 
-He stood very still in the ash and worked it forward. Ten was not a person at all. Ten was a floor. The scale started somewhere above human and ran up from there, and the higher it ran, the more each single point would be hiding.
+He stood very still in the ash and worked it forward. If eleven covered him, then ten was not a person at all. Ten was a floor. The scale started somewhere above human and ran up from there, and the numbers would get small and mean the higher he looked.
 
 He had no idea what a bear scored on this thing.
 
@@ -148,7 +148,7 @@ He had no idea what was scratching around in the next room.
 
 "Great," he said. "The bar is not where I left it."
 
-His knees, for the record, were operated on four months after that summer. Both of them. He had walked out of the second surgery with a sheet of printed exercises and a low grinding objection every time he ran. That was the beginning of the long argument his body eventually won.
+His knees, for the record, were operated on four months after that summer. Both of them. He had walked out of the second surgery with a sheet of printed exercises and a permanent low grinding objection every time he ran, which was the beginning of the long argument his body eventually won.
 
 He looked down. Nineteen-year-old knees, unopened, unscarred.
 
@@ -160,35 +160,35 @@ No charisma. No luck. No appearance. Whatever this thing was, it had gone throug
 
 Then the rest of it landed, and the cold came back up through his feet.
 
-This was transmigration. Isekai. He had read an embarrassing volume of it at three in the morning, on his phone, on nights when breathing was work and sleeping was worse. A world with rules you could see.
+This was transmigration. Isekai. He had read an embarrassing volume of it at three in the morning, on his phone, on nights when breathing was work and sleeping was worse. Second chances. A world with rules you could see.
 
 He was in one.
 
-The pain in his shoulder said so. The ash said so. The 5 in his constitution said so, because it meant a system existed and had rated him.
+The pain in his shoulder said so. The ash said so. The 5 in his constitution said so, because it meant a system existed and it had looked at him and rated him.
 
 His old life came back all at once, in the wrong order.
 
 The corporate years first, because that was where it started.
 
-Thirty-nine companies. He had counted them once, on a bad night, the way other people count ex-partners. Thirty-five of them corporations, some with names you saw on stadiums. Employee, contractor, consultant, interim. He had seen those buildings from the mailroom floor, from the top of the table, and from the seat where you present to the board and watch six faces decide nothing.
+Thirty-nine companies. He had counted them once, on a bad night, the way other people count ex-partners. Thirty-five of them corporations, some with names you saw on stadiums. Employee, contractor, consultant, interim. He had seen those buildings from the mailroom floor and from the top of the table and from the seat where you present to the board and watch six faces decide nothing.
 
 Different logos. Different industries. Different countries, twice.
 
 Same machine. Every single time.
 
-He could have picked any example out of nineteen years. The one that stuck was eighteen months of work, finished, tested, signed off, quietly filed away because two directors were at war over a budget line and the project was born in the wrong department. Nobody looked at it at all. It belonged to the losing side, and losing sides do not ship.
+He could have picked any example out of sixteen years. The one that stuck was eighteen months of work, finished, tested, signed off, quietly filed away because two directors were at war over a budget line and the project had been born in the wrong department. Nobody said it was bad. Nobody looked at it at all. It belonged to the losing side, and losing sides do not ship.
 
-Results were not the currency. Proximity was. He had watched people fail upward past him with a competence he could only describe as artistic. After enough companies to constitute a study, he stopped hoping the next one would be different. He handed in his notice and walked out with a payout and a plan.
+Results were not the currency. Proximity was. He had watched people fail upward past him with a competence he could only describe as artistic, and after enough companies to constitute a study, he stopped hoping the next one would be different, handed in his notice, and walked out with a payout and a plan.
 
-The plan even worked, for a while. His own company, his own rules, his own money in it, running for two years the way he had always known it could when nobody was allowed to sabotage it. Then the growth flattened. The costs did not. He cut, put his own money back in, cut again, and told himself each quarter that the next one would turn.
+The plan even worked, for a while. His own company, his own rules, his own money in it, and for two years it ran the way he had always known it could when nobody was allowed to sabotage it out of spite. Then the growth flattened. The costs did not. Costs never do. He cut, put his own money back in, cut again, and told himself each quarter that the next one would turn.
 
-Then the doctors, one after another, the same expression on the way in and a worse one on the way out. Nothing more we can do. Said politely, over a desk, while he nodded like a professional.
+Then the doctors, one after another, with the same expression on the way in and a worse one on the way out. Nothing more we can do. You have used yourself up. Said politely, over a desk, while he nodded like a professional.
 
-Control. That was all he had ever wanted and the exact thing he had never had. He had tried to build something so solid that no illness and no partner and no market could take it off him. It had come down anyway, and his body had come down with it.
+Control. That was all he had ever wanted and the exact thing he had never had. He had tried to build something so solid that no illness and no partner and no market could take it off him, and it had come down anyway, and his body had come down with it.
 
 And now here he was, standing in a dead building in a dead city, nineteen years old, with a window in the air telling him he was Level 1.
 
-"Level 1," he said, and a dry laugh got out.
+"Level 1," he said. A dry laugh got out. "Starting from scratch, indeed."
 
 It was terrifying.
 
@@ -202,29 +202,29 @@ Arms out, ash in his hair, blood running down one arm, laughing like an idiot, a
 
 The echo faded. Silence came back in and sat down.
 
-He dragged a forearm across his face and breathed out, long and slow.
+He wiped his face with the back of his wrist and breathed out, long and slow.
 
 "Crippling depression. Borderline disorder. PTSD. ADHD. Too many body illnesses to count."
 
 He listened to how the words sounded out loud, in this voice, in this air.
 
-"None of that matters anymore."
+"Nothing of these matters anymore."
 
 He said it firmly, the way you sign something.
 
 Whether it was true was a question for later.
 
-He thought about what he actually had. No allies. No money. No language, probably. No idea what year it was or whether years were the unit here. One body he had not earned, one window full of numbers, and a lifetime of being let down by everyone he had ever relied on, which had taught him the only lesson he ever fully absorbed.
+He flexed his hand and thought about what he actually had. No allies. No money. No language, probably. No idea what year it was or whether years were the unit here. One body he had not earned, one window full of numbers, and a lifetime of being let down by everyone he had ever relied on, which had taught him the only lesson he had ever fully absorbed.
 
 Do it yourself. Then nobody can drop it.
 
 He turned to the gap in the wall, where the chamber opened into deeper dark.
 
-The air coming through it was cold and smelled of wet earth, and under that of something musky and alive that his brain had no name for and disliked immediately.
+The air coming through it was cold and smelled of wet earth, and under that of something musky and alive that his brain had no filing category for and disliked immediately.
 
 Every instinct he owned said go the other way. The other way was a hole in a roof forty feet up.
 
-His bare feet made no sound in the ash. The panel travelled with him, hanging politely at the edge of his vision, lit from inside, patient as a lamp nobody had asked for.
+His bare feet made no sound in the ash. The panel travelled with him, hanging politely at the edge of his vision, a glowing receipt for a life he had not asked for.
 
 He put his back to the cold stone beside the opening and looked through.
 

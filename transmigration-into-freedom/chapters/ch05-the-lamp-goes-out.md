@@ -8,7 +8,7 @@ Gaara saw it before anyone spoke to him and knew exactly what it was, and someth
 
 By then there were eleven people in the road.
 
-Eleven, out of forty houses. He counted them without deciding to, the way he had counted everything for nineteen years, and the number told him something before anybody opened their mouth. It was afternoon at the end of harvest. The fields were full. These were the ones who had been close enough to the houses to hear a boy running. Mostly women, mostly older. Two of them had come out with children on their hips, then thought better of it and sent the children back in.
+Eleven, out of forty houses. He counted them without deciding to, the way he had counted everything for fifteen years, and the number told him something before anybody opened their mouth. It was afternoon at the end of harvest. The fields were full. These were the ones who had been close enough to the houses to hear a boy running, and they were mostly women, mostly older, and two of them had come out with children on their hips and then thought better of it and sent the children back in.
 
 They had come out of doorways and from behind the goat pens, and they had come without hurrying, which was worse than a mob. A man with a hoe held it the way you hold a tool, not a weapon, and then adjusted his hands.
 
@@ -28,11 +28,11 @@ Gaara set the bundle of wood down, slowly, and stood with his hands loose and op
 
 Then the crowd opened, and a woman came through it.
 
-She was perhaps sixty, small, with flour on her forearms. She was already walking wrong, too fast and too straight, the way people walk when they have been braced for a thing for months and it has finally come.
+She was perhaps sixty, small, with flour on her forearms, and she was already walking wrong, too fast and too straight, the way people walk when they have been braced for a thing for months and it has finally come.
 
 She stopped in front of him and looked down at the boots.
 
-Gaara had spent the last hour arranging the sentence. Then he had taken all the cleverness out of it, because cleverness in a sentence like that is a thing you do for yourself.
+Gaara had spent the last hour arranging the sentence. He had built it the way he used to build the first line of a bad quarterly, and then he had taken all the cleverness out of it, because cleverness in a sentence like that is a thing you do for yourself.
 
 "I found your son's remains in a nest inside the ruin," he said. "There were others with him. He was dead a long time before I got there and there was nothing left to bring back. I took his boots because I had none. I am sorry. If you want them, they are yours."
 
@@ -58,7 +58,7 @@ Someone in the crowd made a noise that was almost a laugh, and cut it off.
 
 Solva's face did something complicated. Then she turned and walked back to her door, and she bent down, and she blew out the lamp.
 
-She stayed crouched there with her hand around the cold bowl for a while, and nobody in that road moved a muscle. Whatever else happened to him today, he had done the one useful thing available to him.
+She stayed crouched there with her hand around the cold bowl for a while, and nobody in that road moved a muscle, and Gaara understood that whatever else happened to him today, he had done the one useful thing available to him.
 
 They had been coming in from the near fields for a while by then, in ones and twos, wiping their hands, saying nothing. By the time the road went quiet there were forty or fifty people in it, and more standing back at the field gate where they could see without being part of it.
 
