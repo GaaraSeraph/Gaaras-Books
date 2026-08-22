@@ -112,6 +112,39 @@ und fand einen Treffer. Die Suche nach `not going to` fand sechsundzwanzig, davo
 zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
 **Der eigene Erwartungsfilter schneidet den Befund weg.**
 
+### 2c. Die zwei Kontraktionen
+
+**Seit Kapitel 17 steht im ganzen Buch keine einzige Kontraktion.** Sieben
+Kapitel am Stueck, gezaehlt: 17, 18, 19, 20, 21 und 22 haben null. Davor war es
+ein Gefaelle - Kapitel 12 hatte siebzehn, 13 zehn, 15 zwoelf, 16 nur noch drei.
+Das ist nicht geplant worden, es ist beim Schreiben passiert, und es ist die
+genaueste Kurve im ganzen Buch: **Georgijs Sprache wird formeller, je weniger
+Boden er unter sich hat.**
+
+Daraus folgt ein Mittel, das genau einmal funktioniert.
+
+**In Kapitel 23 stehen zwei Kontraktionen, und sie sind die einzigen seit
+Kapitel 16:**
+
+> *"Haven't you been holding me just fine?"*
+>
+> *"I don't feel like calling you Mistress right now."*
+
+Beide fallen an der Stelle, an der er die Fassung verliert, und der Text sagt
+es nicht, weil die Grammatik es sagt. Der Leser hoert es, ohne es benennen zu
+koennen.
+
+**Die Regel:** Kontraktionen sind ab Kapitel 17 keine Stilfrage mehr, sondern
+ein Ereignis. Wer eine einbaut, baut einen Kontrollverlust ein. Wer die zwei in
+Kapitel 23 glaettet - und das ist beim ersten Schreiben passiert, aus
+*haven't* wurde *have you not*, aus *right now* wurde *at the moment* - nimmt
+der Szene ihren Beweis und laesst einen Mann hoeflich bleiben, waehrend die
+Regie sagt, dass er es nicht ist.
+
+**Dasselbe gilt fuers Vokabular.** *Intelligent as hell* ist unbeholfener als
+*clever as hell* und deshalb richtig. Ein Mann, der schmeichelt, waehlt das
+zweite. Ein Mann, der es ernst meint und nicht mehr waehlt, sagt das erste.
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**

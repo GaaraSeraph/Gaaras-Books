@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 69.747 Woerter.
+23 Kapitel. 69.757 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v2.6 | 4.346 |
+| 23 | v2.7 | 4.356 |
 
 ---
 
@@ -6718,7 +6718,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Have you eaten
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6968,9 +6968,9 @@ Annie did not answer straight away, and when she did she said it flatly, like a 
 
 ---
 
-"Have you not been holding me perfectly well?"
+"Haven't you been holding me just fine?"
 
-It came out of him without any preparation at all, which had happened to him twice in seventeen years and both times in this country.
+It came out of him with nothing in front of it, in the accent of a man who had not chosen the words, which had happened to him twice in seventeen years and both times in this country.
 
 "Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." He was not raising his voice and it was getting worse rather than better. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
 
@@ -6978,11 +6978,11 @@ Annie did not answer.
 
 ---
 
-"I do not feel like calling you Mistress at the moment."
+"I don't feel like calling you Mistress right now."
 
 Something went across her face and was gone.
 
-"My mistress is ruthless and beautiful and clever as hell," said Georgij, "and she has been all three of those every day since the fourth of October, and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country."
+"My mistress is ruthless and beautiful and intelligent as hell," said Georgij, "and she has been all three of those every day since the fourth of October, and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country."
 
 He looked straight at her, which he almost never did.
 

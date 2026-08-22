@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 57.992 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 58.246 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -12,6 +12,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [1. Bandwurmsaetze](#1-bandwurmsaetze)
   - [2. Ergibt der Satz Sinn](#2-ergibt-der-satz-sinn)
   - [2b. Wer haette es getan](#2b-wer-haette-es-getan)
+  - [2c. Die zwei Kontraktionen](#2c-die-zwei-kontraktionen)
   - [3. Rueckbezug](#3-rueckbezug)
   - [4. Die Laecheln](#4-die-laecheln)
   - [5. Satzzeichen](#5-satzzeichen)
@@ -244,6 +245,39 @@ sondern nach der Wendung. Der erste Durchgang suchte `was not going to start`
 und fand einen Treffer. Die Suche nach `not going to` fand sechsundzwanzig, davon
 zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
 **Der eigene Erwartungsfilter schneidet den Befund weg.**
+
+### 2c. Die zwei Kontraktionen
+
+**Seit Kapitel 17 steht im ganzen Buch keine einzige Kontraktion.** Sieben
+Kapitel am Stueck, gezaehlt: 17, 18, 19, 20, 21 und 22 haben null. Davor war es
+ein Gefaelle - Kapitel 12 hatte siebzehn, 13 zehn, 15 zwoelf, 16 nur noch drei.
+Das ist nicht geplant worden, es ist beim Schreiben passiert, und es ist die
+genaueste Kurve im ganzen Buch: **Georgijs Sprache wird formeller, je weniger
+Boden er unter sich hat.**
+
+Daraus folgt ein Mittel, das genau einmal funktioniert.
+
+**In Kapitel 23 stehen zwei Kontraktionen, und sie sind die einzigen seit
+Kapitel 16:**
+
+> *"Haven't you been holding me just fine?"*
+>
+> *"I don't feel like calling you Mistress right now."*
+
+Beide fallen an der Stelle, an der er die Fassung verliert, und der Text sagt
+es nicht, weil die Grammatik es sagt. Der Leser hoert es, ohne es benennen zu
+koennen.
+
+**Die Regel:** Kontraktionen sind ab Kapitel 17 keine Stilfrage mehr, sondern
+ein Ereignis. Wer eine einbaut, baut einen Kontrollverlust ein. Wer die zwei in
+Kapitel 23 glaettet - und das ist beim ersten Schreiben passiert, aus
+*haven't* wurde *have you not*, aus *right now* wurde *at the moment* - nimmt
+der Szene ihren Beweis und laesst einen Mann hoeflich bleiben, waehrend die
+Regie sagt, dass er es nicht ist.
+
+**Dasselbe gilt fuers Vokabular.** *Intelligent as hell* ist unbeholfener als
+*clever as hell* und deshalb richtig. Ein Mann, der schmeichelt, waehlt das
+zweite. Ein Mann, der es ernst meint und nicht mehr waehlt, sagt das erste.
 
 ### 3. Rueckbezug
 
@@ -1284,7 +1318,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 23** *Have you eaten* (v2.6) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden - und **die Ecke bei den Garagen**, siehe unten. Annie setzt sich auf den Beton. **Die Bruchfrage wird gestellt und beantwortet.** Er fragt, warum sie es getan hat, und gibt sich mit *ob du brichst* nicht zufrieden. Ihre Begruendung: Er weiss zu viel, jeder andere mit einem Viertel davon hatte eine Stelle, an der er nachgibt, und sie kannte sie immer vorher. Seine nicht. Dann fragt er geradeheraus *Did I break?*, und ihre Antwort ist **nein** - und das ist fuer sie das schlechtere Ergebnis: *"A man who does not break is a man nobody can hold."*
+- **Kapitel 23** *Have you eaten* (v2.7) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden - und **die Ecke bei den Garagen**, siehe unten. Annie setzt sich auf den Beton. **Die Bruchfrage wird gestellt und beantwortet.** Er fragt, warum sie es getan hat, und gibt sich mit *ob du brichst* nicht zufrieden. Ihre Begruendung: Er weiss zu viel, jeder andere mit einem Viertel davon hatte eine Stelle, an der er nachgibt, und sie kannte sie immer vorher. Seine nicht. Dann fragt er geradeheraus *Did I break?*, und ihre Antwort ist **nein** - und das ist fuer sie das schlechtere Ergebnis: *"A man who does not break is a man nobody can hold."*
 
   **Er stellt den quid pro quo zur Rechnung, und zwar in ihrer Waehrung.** *"Was I not useful?"* Er hat seine Haelfte seit dem 4. Oktober jeden Tag geliefert, einschliesslich der vier Minuten vor dem Druck, und will wissen, welches von beidem es war: ob Respekt zu viel verlangt ist, oder ob es ihr entfallen ist.
 
