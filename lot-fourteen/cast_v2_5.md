@@ -1,0 +1,174 @@
+# Lot Fourteen - Figurenverzeichnis
+**Version 2.5** · Quelle: `annie-story.md` (Rohverlauf) plus Kapitel 1 bis 3
+
+> **Status:** Halbkanon. Was in `chapters/` steht, ist bindend. Alles, was hier nur aus dem Rohverlauf stammt, ist Vorschlag und ist als solcher markiert.
+
+---
+
+## Im Haus
+
+**Der Personalbestand.** Neunundzwanzig Personen beziehen Geld vom Anwesen, vierzehn davon Sicherheit. Es ist ein großer, teurer, gut aufgestellter Apparat. Das Problem ist nicht die Größe, sondern die Richtung: Alles, was sie bezahlt, ist außerhalb des Hauses.
+
+**Sicherheit, vierzehn Mann:** Noh darüber, auf dem Papier. Drei Schichtführer. Torposten rund um die Uhr als Dreimannposten, derzeit zwei, und das ist der einzige Posten, den Ji-won je gesehen hat, weshalb sie in Kapitel 3 von drei und zwei spricht. Zwei auf dem Perimeter tags, einer nachts. Monitorzimmer nachts besetzt. Zwei, die mitfahren, wenn Annie fährt.
+
+**Der Verfall, konkret:** Der Stuhl im Monitorzimmer zeigt so lange von den Schirmen weg, dass der Teppich darunter in dieser Stellung platt ist. Der Nachtmann geht dieselbe Runde um elf, eins, drei und fünf, neunzehn Minuten pro Runde, und Georgij hat sie in zwei Nächten vom Fenster aus komplett. Zwei der drei Schichtführer haben nie einen Schlüssel zum Sicherheitsbüro bekommen und fragen längst nicht mehr. Und keiner der vierzehn kommt nach zehn durch die Haustür, weil Annie vor Jahren gesagt hat, sie lebe nicht in einer Bank, und niemand sie je gebeten hat, das zu wiederholen.
+
+**Annie** - Chaebol, Ende dreißig. Kauft Georgij für 220 Millionen Won.
+**Ihr Geschäft:** Ein Chaebol mit mehreren Sparten, von denen bisher nur eine aufgedeckt ist, weil nur eine gebraucht wird. Die relevante ist Spezialchemie und Werkstoffe. Fahrplangebundene Vorprodukte über wenige Häfen, und die schwierigen Auslandszulassungen, die sie braucht, liegen bei den Kims. Sie ist also abhängig und keine Wohltäterin. Was sie mit dem Vetorecht über Routen tatsächlich kauft, ist eine Engstelle, an der drei oder vier Konkurrenten derselben Branche hängen. Einzelheiten in der Bibel.
+*Kanon.*
+
+**Georgij** - Los vierzehn. Siehe Bibel.
+*Kanon.*
+
+**Mrs Seo** - Führt den Haushalt. Über sechzig. War in der Kaufnacht wach und ist als Einzige zu dem Mann auf dem Kies hinausgegangen. Hat dort telefoniert, unter einer Minute, ohne Adresse zu nennen. Kein Krankenwagen ist gekommen. Sie beantwortet keine Frage, die sie nicht beantworten will, und sie tut es, ohne unhöflich zu werden. Das blutige Tuch wandert in ihre Schürze, nicht in einen Eimer.
+Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kompetenteste Person, die er in dieser Nacht trifft.
+*Kanon, Kapitel 3.*
+
+**Ji-won** - Mädchen im Haushalt, etwa zwanzig, seit vierzehn Monaten da. Schläft über der Küche. Entschuldigt sich, wenn sie Angst hat. Redet aus Erleichterung. Georgij ist freundlich zu ihr, ohne Absicht, und bekommt trotzdem, was er wissen wollte.
+*Kanon, Kapitel 3.*
+
+**Bae** - Wachmann am Tor, Mitte zwanzig. Stand zwei Jahre mit dem Einäugigen zusammen am Tor. Macht in der ersten Nacht drei Dinge richtig, und das entscheidende davon ist, dass er sich keine Autorität ausleiht, die er nicht hat.
+*Kanon, Kapitel 3.*
+
+**Eun-ju** - Zimmermädchen, nur tagsüber, acht bis vier, obere Etagen und Wäsche. Achtundzwanzig, verheiratet, lange Busfahrt aus Nowon. Freundlich, und zweimal in fünf Tagen hat sie in unterschiedlicher Form gefragt, wo er vorher war. Georgij war beide Male freundlich und hat beide Male nichts gesagt. **Offener Faden:** Er weiß nicht, warum sie es wissen will, und die Freundlichen wollen immer etwas.
+*Kanon, Kapitel 5.*
+
+**Mr Baek** - Koch. Ab elf, weg um neun, bringt an Gästeabenden zwei eigene Leute mit. Kocht kein Frühstück und hat nie eins gekocht, weshalb Mrs Seo es tut. Hat in sechs Tagen elf Worte mit Georgij gewechselt, neun davon über ein Messer.
+*Kanon, Kapitel 5.*
+
+**Mr Yeo** - Chefgärtner, sechsundzwanzig Jahre auf dem Grundstück, älter als Noh und deutlich härter. Sieht Georgij am ersten Morgen zu lange auf den Hals und nimmt den Kaffee mit nach draußen, und macht das seither jeden Morgen. Hat kein einziges Wort mit ihm gewechselt, erwidert keinen Gruß, geht nicht auf derselben Wegseite. Georgij hat am vierten Tag aufgehört zu grüßen, weil ein fünftes Mal ein Erzwingen wäre.
+**Er ist der Gegenbeweis.** Nicht jeder taut auf, und Georgij respektiert das.
+*Kanon, Kapitel 5.*
+
+**Tae-min** - Neunzehn, unter Yeo, hat Angst vor Yeo. Macht montags und donnerstags den Ostrasen, also die zwei Tage der Woche, an denen ein Mann vor den Rosen steht.
+*Kanon, Kapitel 5.*
+
+**Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
+*Kanon, Kapitel 3 und 5.*
+
+**Mrs Ahn** - Kommt sechs Morgen die Woche und macht ausschließlich Wäsche, seit 2009.
+*Kanon, Kapitel 5.*
+
+**Mr Im** - Wartungsrota, vier Tage. Schlüssel zum Garagengang und zu sonst nichts.
+*Kanon, Kapitel 5.*
+
+**Die Glasfirma aus Yeongdeungpo** - Zweiter Mittwoch im Monat, Gondel an den Dachankern, vier Mann, von denen einer noch nie zweimal derselbe war. Seit Jahren so. Vier Fremde an Seilen an einer Wand ohne Tür. **Georgij setzt das an die Spitze seiner Liste für Jang, über den Nachtposten.**
+*Kanon, Kapitel 5. Offener Faden.*
+
+**Der erste Wachmann** - Namenlos. Verliert das Auge. Siehe Bibel.
+*Kanon, Kapitel 1 und 2.*
+
+**Mr Noh** - Sicherheitschef seit zweiundzwanzig Jahren, geht Ende des Monats. Baut seit März Resturlaub ab, kommt dienstags, hat den Stuhl im Monitorzimmer so hinterlassen, dass er von allen acht Schirmen wegzeigt. Er ist nicht böse, er ist fertig, und er ist der Grund für den Zustand der Anlage. Tritt bisher nicht auf.
+*Kanon, Kapitel 5.*
+
+**Jang** - **Interims**chef der Sicherheit, nicht Nachfolger des Einäugigen. Er war ohnehin unterwegs, weil Noh geht. Im Rohverlauf hieß er Kim, umbenannt wegen der Kim-Familie. Stämmig, hat sein Leben lang für Chaebols gearbeitet. Trifft in den Wochen vor der Gala ein und hat die Geschichte mit der Nagelschere gehört, bevor er ankommt, was genau Georgijs Absicht war.
+
+Er ist deutlich besser als sein Vorgänger, und Georgij behandelt ihn mit ehrlichem Respekt, was im Haus mehr Unruhe stiftet als das Auge.
+
+Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den Rosen. Er koordiniert die Verfolgung vom Beifahrersitz. Am Flussufer holt er auf Georgijs Bitte den Sake, und als Georgij ihm einschenkt, weiß er nicht, wohin mit sich, weil er sein Leben lang für Leute gearbeitet hat, die Personal nicht ansprechen.
+*Vorschlag, ab Block B.*
+
+**Der Mann am Telefon** - Namenlos, taucht nie auf. Mrs Seo ruft ihn in der Kaufnacht von der Auffahrt aus an. Unter einer Minute, keine Adresse, weil er die Adresse hat. Ein Krankenwagen käme mit einer Meldung, eine penetrierende Augenverletzung ist aktenkundig, und dann steht die Polizei am Tor einer Frau, die an diesem Abend auf einer illegalen Auktion einen Menschen gekauft hat.
+**Kanonisch gesetzt:** Der Wachmann überlebt. Georgijs Begründung in Kapitel 2, dass eine Leiche ein Vorfall und ein Einäugiger eine Referenz ist, hängt daran. Für Georgij bleibt in Kapitel 3 offen, welche der beiden Möglichkeiten zutrifft. Für uns nicht.
+*Kanon, Kapitel 2 und 3.*
+
+---
+
+## Annies Seite
+
+**Hana** - Annies Verbündete, keine Angestellte. Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
+Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
+**Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in der Bibel.
+
+**Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
+
+**Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala zu laut geredet, und daraus ist Kangs Anruf entstanden. Georgij weiß das und sagt es ihr nicht.
+*Kanon ab Kapitel 9.*
+
+---
+
+## Auf der Gala
+
+**Mr Hong** - Einundsechzig, kommt seit neunzehn Jahren zu dieser Veranstaltung, sitzt seit neunzehn Jahren am selben Tisch. Nicht unter den zwölf. Stellt Georgij die Frage nach der Ausbildung und wird dadurch zum Träger der Berater-Legende. Auf Georgijs Bitte um Orientierung nennt er drei Namen, denen man ausweichen sollte: Woo, Sunwoo und Choi Dae-ho.
+*Kanon, Kapitel 7.*
+
+**Chairman Woo** - **Verbündeter, nicht Gegner.** Schifffahrt, Terminal auf Yeongjong, zehn Monate ab Boden, nicht elf. Spricht jeden binnen neunzig Sekunden an. Auf die Frage, wer gesagt hat, es sei nicht machbar, redet er vier Minuten am Stück: Hafenbehörde, zwei Ausschüsse, der Beton, ein Satz seines Vaters von 1994. Nennt den Finanzier nicht, ist aber sichtlich zufrieden mit ihm, und sagt dabei zweimal ungewollt "Incheon".
+**Laut Hong:** Wird Georgij nach Yeongjong einladen und dann zutiefst beleidigt sein über alles, was Georgij darüber sagt.
+*Kanon, Kapitel 7.*
+
+**Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
+*Kanon, Kapitel 1 und 7.*
+
+**Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij lächelt sie bewusst überhaupt nicht an, weil sie seit der Tür angelächelt wird und es deshalb nichts wert ist. Gibt ihm vier Minuten, was sie sonst nicht tut.
+*Kanon, Kapitel 7.*
+
+**Chef Bang Seung-min** - Los neun auf der Benefizversteigerung. Ausgebildet in Lyon und Tokio, zwei Restaurants. Kommt an einem Abend nach Wahl des Käufers mit eigenen Leuten ins Haus und kocht für acht. Steht während der Gebote in Weiß neben dem Pult, Hände gefaltet, und lächelt. Zuschlag zweiundsechzig Millionen. Verbeugt sich zweimal, einmal in den Saal, einmal zu dem Tisch, der ihn gekauft hat.
+*Kanon, Kapitel 8.*
+
+**Yun-seo** - Vierundzwanzig, Stiftung, macht die Berichterstattung für das Förderprogramm in Daegu. In Kapitel 7 steht sie am Rand einer Gruppe an der Bar mit einem Glas, aus dem sie nicht getrunken hat, und ist seit Georgijs Ankunft niemandem vorgestellt worden. Er lächelt sie ausdrücklich **nicht** an, weil ein fremdes Lächeln quer durch den Raum für sie eine weitere Entscheidung wäre und sie seit vierzig Minuten Entscheidungen trifft. Er merkt sie vor. Gehört in Kapitel 8.
+*Halbkanon, Kapitel 7.*
+
+---
+
+## Die Gegenseite
+
+**Park Sang-hoon** - Der Gegner. Logistikimperium, Schifffahrtsrouten. Hat bereits zwei Logistikkonkurrenten aufgekauft und will als drittes die Logistik der Familie Kim. Hat dafür in Incheon einen ausgebauten Container in eine Kim-Sendung geschoben und den Zoll darauf stoßen lassen.
+**Sein Angriffspunkt:** Hat er einmal zugebissen, kann er nicht loslassen. Darüber wird er mit Hanseong gebunden.
+**Auf der Gala:** Zwei Begegnungen. Einmal am Tisch, einmal beim Abschied mit der Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat.
+*Kanon ab Kapitel 10.*
+
+**Kim Do-yun** - Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
+**Zum Namen:** Ich habe ihn bewusst Kim gelassen. Der Nachname trägt hier Gewicht, denn er ist der Grund, warum die Schiffsroute Annie nicht nur Sang-hoon kostet, sondern die ganze Familie Kim in die Hand gibt. Mit dem Sicherheitschef als Jang gibt es keine Verwechslung mehr, es bleiben nur noch Do-yun und seine Familie, und die sollen dasselbe bedeuten. Wenn Du ihn trotzdem umbenennen willst, muss der Hebel auf die Familie neu begründet werden.
+*Vorschlag.*
+
+**Minister Min-ho** - Der Preis. Käuflich und wird bereits umworben. Sein Büro ist über Choi mit Sang-hoons Betrieb verbunden.
+*Vorschlag.*
+
+**Kang Ji-hoon** - Beamter mittlerer Ebene, Ministerium für Land, Infrastruktur und Verkehr. Hat letztes Jahr die Umwidmung des Incheon-Lagerhauses gezeichnet. Sanft, geübt, misst statt zuzuhören. Prinzip: Man baut die Mauer, bevor sich der erste Stein bewegt. Mag Neugier mehr als Bescheidenheit. Spielt beide Seiten.
+Die schwarze Karte: Donnerstag, Shilla, neun Uhr.
+*Vorschlag.*
+
+**Choi Dae-ho** - Der Fixer, die Brücke. **Erster Auftritt als Name in Kapitel 7**, aus Hongs Mund, an dritter Stelle und damit an der Stelle, an der man den lässt, den man wirklich meint. **Er ist nicht auf der Gala** und war in neunzehn Jahren nie dort. Hong dazu: Er sitzt in nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden und damit für einen Mann, der liest, nutzlos. Er gibt Abendessen.
+
+**Der eigentliche Punkt ist Georgijs Methode.** Choi steht auf keiner seiner Listen, und das beweist nichts, weil seine vierhundertdreißig Namen aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung stammen. Das ist keine Liste der Anwesenden, sondern eine Liste derer, die beim Hineingehen eine Spur hinterlassen haben. Wer selbst fährt, an keinem Tisch sitzt und nichts trinkt, kommt darin nicht vor. Nach vierzehn Minuten im Gebäude bekommt Georgij in einem Satz und aus Versehen die genaue Form dessen geliefert, was sein Instrument nicht sehen kann. Ehemaliger Staatsanwalt, vorzeitig und unter unklaren Umständen im Ruhestand, jetzt Direktor einer Private-Equity-Firma in Hongkong über eine Anwaltskette in Singapur. Kein Financier. Hat in sechs Monaten mehrere private Abendessen gegeben, bei denen jedes Mal entweder ein Lee oder ein Mann aus Sang-hoons Logistik am Tisch saß. Verbindet Min-hos Büro mit Sang-hoons Betrieb, und zwar persönlich, nicht nur finanziell.
+*Vorschlag.*
+
+---
+
+## Familien und Firmen
+
+**Hanseong-Gruppe** - Der Köder. Verliert seit sechs Monaten Kapital, zerstrittener Vorstand, Unterschlagungsgerüchte, besitzt Schifffahrtsrouten. **Alles davon ist wahr**, das ist die Bedingung, unter der Georgij es überhaupt benutzen kann.
+**Eigentümer:** Ein Chaebol, der bewusst nicht benannt ist und nicht auf der Gala war. Eine offene Rechnung ohne Gesicht.
+*Kanon.*
+
+**Familie Lee** - Der lose Faden. Schuldner, verwundbar, ausgenutzt. Annie hält ihre Schulden. Sang-hoon schnüffelt seit Monaten um ihr Land herum.
+*Vorschlag.*
+
+**Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
+*Kanon, Kapitel 9 und 14.*
+
+**Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
+**Was Annie ihnen anbietet:** Geld und Rückendeckung gegen Anteile, Sicherheiten und ein Vetorecht über Routen. Kein Besitzerwechsel: Sie behalten den Namen, Annie bekommt die Kontrolle. Sie erfahren das früh, vollständig und aus Georgijs Mund.
+*Kanon.*
+
+---
+
+## Was aus dem Rohverlauf nicht übernommen wird
+
+- **Die unbekannte Nummer**, die Georgij per SMS die Gästeliste und Kangs Abendessen zuspielt. Es gibt sie bei uns nicht. Er findet beides selbst.
+- **Seoyoung** als zweiter Name für Hanseong.
+- **Zehn Jahre im Käfig.** Bei uns sind es siebzehn, seit er neun war.
+- **Die 10 und die 60 Millionen.** Bei uns 220 Millionen, durchgehend. Für Los elf gilt achtzig heute, sechzig im nächsten Katalog.
+
+---
+
+## Offene Ausstattungsfrage: der Laptop
+
+Georgij kann laut Bibel Systeme knacken, und ihr verschlüsselter Desktop kostet ihn einen Abend. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
+
+**Vorschlag:** Annie gibt ihm in der ersten Woche unaufgefordert ein Gerät. Neu, sauber, offensichtlich verwaltet, mit allem, was ein Firmengerät eben mitbringt. Sie sagt nichts dazu und er fragt nichts. Er bedankt sich und benutzt es ausschließlich für die Arbeit, die sie ihm gegeben hat.
+
+Das ist die Ladung für die Desktop-Szene in Block B. Sie hat ihm ein Werkzeug an der Leine gegeben, er ist um die Leine herumgegangen und sagt es ihr von sich aus, weil er nicht lügt. Sie fragt weder wie noch was er gesehen hat.
+
+Wenn er stattdessen darum bitten müsste, wäre es auch ein Test, denn sie prüft ihn daran, worum er bittet. Beides funktioniert. Ich halte das Geschenk für stärker, weil es sie zur Handelnden macht und den späteren Bruch teurer.

@@ -1,0 +1,258 @@
+# Chapter 11: Thank you for telling me
+*Lot Fourteen* · Version 2.5 · EN
+
+*Day 22 · Saturday 25 October*
+
+The car came round at seventeen minutes past midnight and Mr Ku had the heater on already, which he had not been asked to do.
+
+Georgij held the door. Annie got in, and he went round the back of the car and got in on the other side.
+
+There was a second car waiting at the top of the ramp with two of Jang's people in it, and it would follow them as far as the gate and no further.
+
+Annie put the clutch down on the seat between them.
+
+Third time. The same last three miles as the first time, in the same direction, three weeks and a day later.
+
+She did not open the bag and she did not close it either, and it lay there with the catch resting shut and not fastened, which he noticed and did not look at.
+
+Neither of them said anything until the ramp.
+
+"Well," said Annie.
+
+"May I give you the whole of it?"
+
+"That's what the evening was for."
+
+"Then I'll give it to you in the order it arrived and not in the order it matters, because those are different and I'd rather you sorted it yourself."
+
+"Go on."
+
+---
+
+He gave it to her from seven twenty-two.
+
+He did not shape it. He did not lead with the good part or hold the bad part for the end, and twice he said that he did not know what something meant and left it lying there without a theory on top of it.
+
+It took fourteen minutes.
+
+Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by somebody he was pleased about and would not name, the word Incheon twice without meaning it. Then Friday. Then two approaches to buy the terminal, April and six weeks ago, and the second man had known Woo's numbers better than Woo's own finance director, and Woo had not enjoyed that.
+
+And the dinner.
+
+"I asked him who introduced him to his financier. He said *somebody at a dinner*, and then he waved at a woman across the room, and that was the end of it."
+
+"You didn't push."
+
+"No. He'd told me no, and he'd been polite about it, and pushing would have cost me Friday." A pause. "I thought that was a good decision for about three hours."
+
+"And now?"
+
+"Now I think a man who deflects a harmless question isn't being private. He's covering somebody." Georgij looked out at the tunnel lights going over. "That's all I have and I want to be clear that it is all I have. I don't have a name. There was no name to be had in that building tonight and I'm not going to invent one on the way home because it would be convenient."
+
+"You've thought of one."
+
+"I've thought of one, and it fits, and things that fit at half past midnight are exactly what I ought to be frightened of." He let it go there and did not say it. "I'll get it properly. His terminal took ten months and there was a bank in it, and banks leave a syndicate, and a syndicate is eleven or twelve people who all had to sign something. One of them will have talked to somebody, and I would rather have it out of a document than out of a mood."
+
+"How long?"
+
+"Two weeks. Possibly three."
+
+"Take three," said Annie. "Go on."
+
+---
+
+Then Kang.
+
+"I went to him. He didn't come to me." He said it plainly. "I asked him for guidance on land and zoning and port status, because it's a real gap and I'd rather have somebody to ask than pretend. It was the second time I'd used that tonight and the first time had worked extremely well."
+
+"Hong."
+
+"Hong. And Hana warned me about it thirty minutes before I did it, in those words, and I did it anyway."
+
+"Say the rest."
+
+"Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling him where the hole was." Georgij turned his hand over. "He asked how he could reach me. I declined to give him anything, which was the only sound thing I did in the whole exchange, and it will not matter, because he has a ministry and I have a face."
+
+"He'll call."
+
+"He'll call. I don't know what he wants and I don't know what he'll ask." Georgij said it flatly. "But I know where he'll aim it. Land, permissions, port status. That is the one subject in the world I told him I was empty on, and I told him myself, standing at the north bar, in about nine seconds."
+
+He stopped.
+
+"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on, and I would rather you had it tonight than in a fortnight, when the telephone goes and you work out for yourself who made the call worth making."
+
+"Yes," said Annie. "You would."
+
+---
+
+He gave her Yun-seo and the fourteen sites and the three that had not spent it on staff. He gave her the two directors at the Paradise, and the February sale, and the March dinners a month afterwards, one man at a time, four hundred kilometres from where either of them worked.
+
+He gave her the word *container*, on its own, off a terrace, in the middle of a sentence about something else.
+
+He told her he had nothing to do with it.
+
+"Hana talked," he said. "Not carelessly. She has never once had to pay for anything she has said on a terrace and it has made her about three per cent louder than she would otherwise be. I got Incheon five times, the eastern parcel, a date in the spring, an approach she thinks was a discourtesy and not a threat, and a minister who already knew and did not perform surprise."
+
+"And the Kims?"
+
+"Nine of them, all in one room on a night they had a choice about. Customs in their logistics building six days, which Hana told me and which she should not have told me." He paused for the length of a breath. "And one of the nine kept fetching drinks and laughed a quarter of a beat behind everybody else."
+
+Annie turned her head.
+
+"Which one?"
+
+"That's the difficulty." He said it without any embellishment at all, because it was not a good answer and dressing it up would not have made it one. "I have all eleven of their names. Two of them have been photographed. The other nine have spent their entire lives in a business that nobody points a camera at, and I stood eight metres from them for four minutes and could not put a single name on a single face."
+
+"So you have a description."
+
+"Late thirties, the shortest of the men, fetched drinks twice in four minutes, laughed a quarter of a beat behind the room. And four names it could be." He turned his hand over. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
+
+"So how do you close it?"
+
+"Somebody's mouth. It always is." A small pause. "Do you want to give me the name, or shall I go and get it?"
+
+"Go and get it," said Annie.
+
+"Yes."
+
+---
+
+Then Sang-hoon, because Sang-hoon had been last.
+
+He gave her the table, and the four questions that were not conversation, and the fact that the man had watched his hands while he answered all of them and not his face.
+
+He gave her that none of it had worked. Not the smile, not the recent thing, not one single instrument he had used successfully on eight hundred people that evening.
+
+Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, and the last thing the man had said before he stood up.
+
+"He said: bring whatever it is you're going to bring. He'd rather see it over food than have it slid under a door."
+
+"That's a good sentence."
+
+"It's a better one than it sounds. It isn't a warning and it isn't a challenge. It's an instruction from a man who has decided in advance that he'll take whatever I bring him and has therefore stopped caring what it is."
+
+"Which is what you want."
+
+"Which is exactly what I want, and I've been trying since a quarter past eleven to find the part of that which is a trap, and I can't, and that bothers me a great deal more than finding one would have."
+
+The car came off the expressway.
+
+"There's one more thing at that table," said Georgij, "and I'd rather say it while we're still moving."
+
+"Say it."
+
+"He asked me what you paid for me."
+
+Annie did not move at all.
+
+"He doesn't know," said Georgij.
+
+"No. He wouldn't." She said it almost before he had finished, which told him she had got there faster than he had. "He has had the word adviser at him since nine o'clock and he prices people for a living. He was asking about a wage."
+
+"Yes. I went over it twice before I answered and it held both times."
+
+"What did you tell him?"
+
+"Two hundred and twenty million."
+
+The tunnel ended.
+
+"He asked whether that was for the year," said Georgij. "I said no."
+
+Annie was quiet for a long moment.
+
+"That's the truth."
+
+"Every word of it. He laughed, and he said you don't waste money, and that if you paid that then you believe it." A small pause. "He also said it would be a great pity if I were ordinary."
+
+"And you're pleased with yourself."
+
+"No, Mistress." He said it without any performance in it at all. "I gave a man the exact figure. He put it in the wrong column, and he'll keep it in the wrong column for as long as nothing else lands next to it, and I have no control at all over what lands next to it. That was the cheapest available answer and it was not a safe one."
+
+---
+
+They were on the road up when he gave her the last of it.
+
+"I broke the rule you gave me in this car."
+
+Annie turned her head.
+
+"Which rule?"
+
+"Annie in public, and the other word nowhere at all." He kept his voice exactly where it had been for the previous eleven minutes. "I used the other word to Hana. Once, on the floor, just before eleven. She had been kind to me for ten minutes and I had just told her something true that I had not intended to say, and it came out of me before I heard it going."
+
+The cypresses started.
+
+"What did she do?"
+
+"Nothing. She said *yes*, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
+
+"What did you tell her that was true?"
+
+"She asked where my people come from."
+
+The car went on up.
+
+"I don't have an answer to that," said Georgij. "I've never had one. I said so."
+
+Annie did not say anything for perhaps two hundred metres.
+
+"Thank you for telling me," she said.
+
+That was all of it. She did not say it warmly and she did not say it coldly, and there was nothing after it, and Georgij discovered that he would very much rather have been shouted at.
+
+---
+
+"Now say the other thing," said Annie.
+
+"Mistress?"
+
+"You've been holding something since the tunnel. You've given me fourteen minutes of everything you have and most of it was against your own interest. So say the last one, because I would rather not sit through you deciding whether you're allowed to."
+
+Georgij inclined his head.
+
+"On the first night I told you the auction house would talk for about three weeks and then agree a version between them. It's been three weeks and a day." He said it evenly and without any pressure anywhere in it. "You are not a woman who lets a window shut. I think you have the name of whoever stood behind the man in the second row. I think you've had it for most of the time I've been in your house."
+
+Annie looked at him.
+
+"Yes," she said.
+
+"Thank you."
+
+"That's it?"
+
+"You asked me to say it and I've said it. Whether you give it to me is yours." He turned his hand over, an old gesture and a small one. "I'd take it. I think it would save me a fortnight. But I've watched you decline to answer four times now and I've stopped thinking the not answering is laziness."
+
+The car slowed for the turn.
+
+"I'm not going to give it to you," said Annie.
+
+"No, Mistress."
+
+"You haven't asked why."
+
+"No."
+
+"Ask."
+
+"Why?"
+
+"Because I've looked at it," said Annie, "and it changes what I am going to have to ask you to do."
+
+She said it looking straight ahead, in exactly the tone she had used for the seating and the coat and the tailor, and she did not add anything to it, and the car came onto the gravel and stopped.
+
+---
+
+He got out and went round and held her door, and she got out, and she took the clutch with her.
+
+Mrs Seo had left the hall light on and gone to bed.
+
+Georgij stood just inside the door for a moment with his coat over his arm, in a hall he now knew better than anybody in that house except the woman who had drawn it.
+
+He looked at the stone shelf beside the door. The shallow bowl was on it, and there was nothing next to the bowl.
+
+Annie went down the hall without taking her shoes off.
+
+He heard the study door.
+
+Then, a few seconds later, he heard a drawer.

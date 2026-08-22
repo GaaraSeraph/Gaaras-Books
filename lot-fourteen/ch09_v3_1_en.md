@@ -1,0 +1,318 @@
+# Chapter 9: The friendly ones
+*Lot Fourteen* · Version 3.1 · EN
+
+*Day 22 · Saturday 25 October*
+
+She came at him at a quarter past ten, when the speeches were over and the room had loosened and about a third of it had gone to stand somewhere else.
+
+"You stopped."
+
+Georgij turned round.
+
+Up close the dark red was not red at all but something browner that had only been red under the lights, and she was about Annie's age, and she had a glass she had been holding for a long time.
+
+"I beg your pardon?"
+
+"Daehan Chemical. Page thirty-one, the inventory footnote, and then you stopped." She said it the way you would remark on the weather. "There was another clause. You had it and you put it down."
+
+"There's always another clause."
+
+"There isn't, and you know there isn't, because a man who had nothing to say next would have kept talking." She looked at him with a great deal of good humour. "It was Seorim, wasn't it? They walked in April and nobody has printed it."
+
+Georgij smiled at her.
+
+He gave her the wide one, because it was the only correct answer available and because she would know exactly what it was, and she took it in the spirit in which it was offered.
+
+"My name is Hana."
+
+"Georgij."
+
+"I know." She put her hand out, not to be shaken, but at the height a woman puts a hand out when she intends you to take it and walk. "Who did you work for before her?"
+
+There it was, at forty seconds.
+
+"Nobody you'd have heard of," said Georgij, and took the hand.
+
+---
+
+She walked him the length of the room, which took four minutes because she stopped twice and was stopped once, and in the course of it three separate people looked at Georgij differently than they had ten minutes before.
+
+That was not an accident. Being walked across a ballroom on the arm of Hana was a statement, and she was making it in public, and he could not work out yet whether it was a gift, a test or a leash.
+
+He decided it was probably all three and stopped trying to rank them.
+
+"You've been busy," she said.
+
+"I've been enjoying myself."
+
+"You've been busy. Woo has told four people about you. Hong has told everybody, and Hong tells everybody nothing, so that's remarkable in itself." She nodded at somebody without breaking stride. "A girl from the foundation talked to you for nine minutes and has been standing up straighter ever since, which is the single most interesting thing I have seen all evening, because nobody in this building has ever got anything out of that programme's reporting and now somebody has."
+
+"She was very helpful."
+
+"She was. That isn't what I said."
+
+They had got to the west side, where the glass doors stood open on the terrace and the cold came in in a slab.
+
+"Come outside. It's foul out there and everybody worth hearing is in it."
+
+---
+
+Minister Min-ho was at the far end of the terrace with his back to the parapet, in an overcoat somebody had brought him, with two men and a woman around him and a cigarette he was not smoking.
+
+He was younger than his photographs, which is unusual, and he had the particular stillness of a man who has learned that if he does not move, people come to him.
+
+Hana went to him the way you go to a door you have a key for.
+
+Georgij stood at her shoulder and slightly behind, which is where a companion stands, and he put his face into its ordinary evening arrangement and let it be no trouble to anybody.
+
+Then he counted.
+
+Four minutes on the terrace, and it was the most useful four minutes of the night, and not one second of it was about the minister.
+
+Min-ho said almost nothing. He asked two questions, both short, both about other people. He agreed with a thing somebody said and it cost him nothing to agree and he did not repeat it.
+
+Hana talked.
+
+She was very good, and she was better than anybody else out there.
+
+She was also about three per cent louder than she needed to be. She had been coming out onto terraces like this one for twenty years and had never once been made to pay for anything she said on one.
+
+Georgij got Incheon five times.
+
+Not the whole of it, and not anything like the whole of it. He got the word. He got a date in the spring attached to it, and the phrase *the eastern parcel*, and the fact that somebody had made an approach, and that Hana thought the approach was a discourtesy rather than a threat.
+
+He got that Min-ho already knew about the approach and had known before she told him, which was plain from the way the minister did not react to being told.
+
+And once, in the middle of a sentence that was about something else, he got the word *container*.
+
+It sat by itself. Nothing else out there had anything to do with a container, and he turned it over twice and could find no edge of it that fitted anything, and so he left it exactly where it was, unexplained, in the order he had received it.
+
+None of it was a mechanism. It was five pieces of one, and he could not have told you the shape.
+
+He filed all of it exactly as it came, in the order it came, without tidying it, because tidying is where people put the thing they expect on top of the thing they heard.
+
+---
+
+There was a man standing just inside the glass doors, in the warm, who did not come out.
+
+He had been there for at least three minutes. He was in his forties and his suit was slightly better than his job and he had a glass of water. He was standing at the exact point where the noise of the ballroom stops and the noise of the terrace has not started, which is the only place in that entire building where you can hear both.
+
+Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level, Land and Infrastructure.
+
+Number sixty-something on the ninety-one. Fourteen months ago he had signed something about a warehouse.
+
+He was not looking at the minister.
+
+Georgij glanced at him once, and Kang did not look away and did not look interested, and after a moment he took his water back into the room.
+
+Georgij put him where he put things.
+
+It would be four days before he understood that it had been the most expensive thing he had seen all evening, and by then he would have made it worse himself.
+
+---
+
+"There," said Hana, without lifting her chin at anything. "By the second window on the inside. That's the Kims. All of them. Count."
+
+He counted. Nine.
+
+"Nine," he said.
+
+"Nine, in one room, on a night when they had a choice about coming."
+
+"Eleven of them are on my list," said Georgij.
+
+"Then you're ahead of most of this room."
+
+"I'm not, and this is the part nobody warns you about." He said it lightly, because it was true and because it cost him nothing to give her. "I have every name. I have what four of them are worth and which two of them have been to court and what the youngest one paid for a flat in March. I have no idea at all which of those nine standing over there is which."
+
+Hana did not laugh at him, which he noted.
+
+"Photographs," she said.
+
+"There are photographs of two of them. The rest of that family has never been in a room where anybody was pointing a camera. Paper gives you names." He turned his hand over. "It does not give you faces, and I have been in this building for three hours looking at faces."
+
+"It is a great many Kims." She was pleased with him for not asking the next question, which meant she was going to answer it anyway, which is what people do on terraces. "Their logistics people have had customs in the building for six days. Six days is not an inspection. Nobody out here has said a word about it and every single person out here knows."
+
+She turned her glass in her fingers.
+
+"So they came, and they brought everybody, and they have all been extremely relaxed for three hours."
+
+Georgij looked at the nine of them for perhaps four seconds.
+
+Eight of them were doing it very well.
+
+One of the eight was doing it better than the other seven, and doing it by not doing anything at all. A woman in her fifties, at the back of the group, who had not spoken once in four minutes and around whom the whole thing was arranged. Twice, somebody said something and then looked at her before going on, and neither of them appeared to know they had done it.
+
+The ninth was the one who kept fetching things. A man in his late thirties, who had been to the bar twice in the time Georgij watched, and who laughed a quarter of a beat after everybody else, the way you laugh when you are following a room rather than standing in it.
+
+He had names for both of them, four or five for each, and no way at all to choose between them, and it was going to take him a week and somebody else's mouth to close the gap between a description and a man.
+
+He put the nine of them down where he put things, with the quiet woman on top of the pile and the drinks-fetcher immediately under her.
+
+"Cold enough," said Hana. "You've gone quiet."
+
+"I've been listening."
+
+"Everybody says that. Almost nobody does it." She turned so that her back was to the minister, which put Georgij between herself and the room. "Hong says less than a year. What were you doing this time last year?"
+
+Two.
+
+"Reading."
+
+"Reading what?"
+
+"Whatever I was given."
+
+"That's a beautiful answer," said Hana, "and it isn't one."
+
+"No."
+
+"You're not even pretending it is."
+
+"You'd have noticed if I did."
+
+She laughed, and it was a real laugh, and she was pleased with him in a way that had nothing to do with liking him.
+
+---
+
+They came back in and she took two glasses and gave him one, and they stood at the edge of the floor where the tables had been pushed back, and for about ten minutes she was simply good company.
+
+That was the dangerous part and he knew it was the dangerous part while it was happening.
+
+She told him who had bought whom in the last four years. She told him which of the twelve she would not turn her back on and why, and two of the reasons were things he had not had. She told him a story about a man at table two involving a boat and a divorce that was funny, and it was funny because it was true, and she told it to him and not to the room.
+
+She gave him more in ten minutes than the previous three hours had.
+
+She was buying, and he knew what she was buying with, and he took it anyway, because the alternative was to refuse it and refusing it would have told her more than accepting it did.
+
+"You're comfortable," she said, at some point.
+
+"Am I?"
+
+"You're extremely comfortable. In a room like this, at your age, on your first night." She turned the glass in her fingers. "Where do your people come from?"
+
+Three.
+
+---
+
+It is the smallest question in Korea.
+
+It is what a woman asks a man at a wedding when the seating has put them together and neither of them wants to talk about the couple. It is on every form. It has an answer that takes four syllables, and eight hundred people in the room behind him could have given theirs without looking up from what they were doing.
+
+He had no answer.
+
+He had never had an answer. There was a woman who had owed somebody money and there was a number that had never been written down where he could see it, and behind that there was nothing at all, not a province, not a town, not a name of a place with a river in it.
+
+He could have said something true and useless. He could have named the first house, or the second, or the country the paperwork had eventually settled on.
+
+He did not.
+
+He stood there.
+
+It lasted about a second and a half, which is nothing, and which is also roughly a second longer than any pause he had allowed himself in six hours in that building.
+
+Hana did not fill it. She waited exactly as long as it took, with her face entirely friendly, and let the gap sit between them and become a fact.
+
+"I don't know," said Georgij.
+
+Then, because it was already gone and there was no version of the evening in which he got it back:
+
+"I've never known."
+
+---
+
+Something went across Hana's face and it was not triumph, which he had expected, and it was not pity, which he had been ready for.
+
+It was recognition. Brief, and immediately put away, and she put it away like somebody who has had a great deal of practice.
+
+"Well," she said.
+
+"Yes."
+
+"That's the first thing you've said tonight that I believe entirely."
+
+"It's the first thing I've said tonight that I'd rather not have said."
+
+"I know." She said it kindly. She was going to be kind about it for the rest of her life, and it was going to cost him every time. "You have been extremely good all evening. You will want to remember that you were extremely good all evening, because in about four days you are going to decide that this was the moment you were careless, and it wasn't."
+
+"When was it?"
+
+"When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody asks that. It is the most flattering thing you can say to an old man, and it is also the only sentence in this building that a man would need to say out loud if he had nobody at all to ask."
+
+"It worked."
+
+"It worked beautifully, and Hong has now told the story seven times, and by Friday there will be four people in this city who know that the new man asks people to guide him." She let that sit for exactly as long as it needed. "It's a good tool. You've used it once. Be careful how many times it fits."
+
+Georgij was quiet for a moment.
+
+Then he did the arithmetic on how many people Hong had spoken to since, and found that he did not like the answer, and put the answer down where he put things.
+
+"Thank you," he said, and he meant it, and there was nothing at all in his voice.
+
+"Don't thank me yet."
+
+---
+
+He took her hand.
+
+He did it in the ordinary way, and then he did not do the ordinary thing with it. He turned it very slightly, and bowed over it, and put his lips to the back of her fingers for about half a second, and straightened up.
+
+It is not a Korean gesture. It has never been one.
+
+There were eight hundred people in that building and not one of them had done it or would do it. The four or five who happened to be looking would describe it to somebody inside the week, and they would use the word *European*.
+
+And then they would stop wondering what he was, because they would believe they had been given an answer.
+
+Hana let him do it.
+
+She did not take the hand back early and she did not laugh, and she watched his face the entire time with the expression of a woman watching a card being played out of a sleeve she had already looked into.
+
+"That's very good," she said.
+
+"Thank you."
+
+"It's also the first defensive thing you've done since I met you." She took her hand back then, unhurriedly. "I'd have done the same. I want you to know that I'd have done exactly the same."
+
+"I do know."
+
+"Then we understand each other."
+
+"Not entirely, Mistress," said Georgij, courteously.
+
+He heard the word leave his mouth about a quarter of a second after it was too late to do anything about it.
+
+He had been given one rule in that car three weeks ago and it had two halves. Annie in public. The other word nowhere else at all. He had kept both of them for twenty-two days, through a tailor and a security chief and eight hundred people, and he had just handed the second one to a stranger on a dance floor because she had been kind to him for eleven minutes.
+
+---
+
+Hana did not move.
+
+Nothing in her face changed at all, and she did not look at his collar, and she did not look at anything, and the silence went on for slightly longer than a silence should.
+
+"Habit," said Georgij.
+
+"Yes," said Hana.
+
+She finished what was in her glass. Then she put it down on the nearest table, which is not a thing a woman of that sort does, and she looked out at the floor for a moment as though there were something on it.
+
+"She's on the west side," she said. "She's been watching us since the terrace. Not the whole time. Twice."
+
+"I know."
+
+"Of course you do." Hana straightened her cuff. "Go and be somewhere else for twenty minutes, and then go and stand near her, and don't talk to her."
+
+"Why?"
+
+"Because I would like to see what she does," said Hana, "and so would you."
+
+Then, as he was turning:
+
+"Georgij."
+
+He stopped.
+
+"I have known that woman for twelve years and she has never once brought anybody anywhere." Hana was looking at the floor and not at him. "In about a month she and I are going to need each other rather badly, and when that happens I will have to know whether you are the strongest thing she owns or the softest. I have spent this evening finding out."
+
+"And?"
+
+"I don't know yet," said Hana. "That's what I want you to take away with you."
