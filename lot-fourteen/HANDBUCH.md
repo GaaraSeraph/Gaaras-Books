@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 58.493 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 58.738 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1387,7 +1387,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 24** *Have you eaten* (v1.2) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
+- **Kapitel 24** *Have you eaten* (v1.3) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
 
   **Die Vollmacht ist keine Bezahlung, und er sagt es selbst.** Er hat sie verlangt, weil er ohne sie nicht arbeiten kann - und rechnet dann nach: *"It is a better tool for your house and nothing else. You have just paid me by making me more useful to you, and I nearly took it."* Das ist der Kern der Figur: Er rechnet praezise, auch gegen den eigenen Vorteil.
 
@@ -1397,13 +1397,19 @@ der nicht zurückblättert.
 
   **Offen und bewusst offen:** Wie der Name lautet, steht noch nicht fest. Der Text sagt nur, dass sie ihn sagt und wie er klingt. **Annie hat im ganzen Buch keinen Nachnamen** und ist die einzige Figur ohne koreanischen Namen - das war nie erklaert und ist ab hier eine Absicht.
 
-- **Kapitel 23** *Nobody weighs a door handle* (v3.3) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
+- **Kapitel 23** *Nobody weighs a door handle* (v3.4) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
   **Der Hoehepunkt ist der Entzug der Anrede.** Auf ihr *"A man who does not break is a man nobody can hold"* kontert er mit dem, was tatsaechlich der Fall ist: **Sie hat ihn fuenfundfuenfzig Tage lang tadellos gehalten**, jeden Raum, jeden Namen, jede wache Stunde, fuer eine Unterschrift im Oktober und nichts weiter. *"So why did you go and try to waste it?"*
 
   Dann: **"I don't feel like calling you Mistress right now."** Und die Definition hinterher, die Kompliment und Anklage zugleich ist - *ruthless and beautiful and intelligent as hell*, jeden Tag seit dem 4. Oktober, *"and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country."*
 
   **Und dann zaehlt er.** *"Tonight she was two of them."* - *Annie did not ask which.* **Ruecksichtslos war sie**, und ruecksichtslos ist bei Georgij ein Kompliment; er bewundert Haerte. Was fehlte, ist das dritte: Es war **dumm**. Sie hat ihr teuerstes Werkzeug vor einem Zeugen beschaedigt und dabei ihre eigene Regel aus Kapitel 12 gebrochen. Sie fragt nicht nach, weil sie es weiss, und ihre spaetere Antwort bestaetigt es: *"I did not weigh it."* **Eine Fassung mit "none of them" ist falsch** - sie war zwei davon, und das ist schaerfer.
+
+  **Und in der Liste steht ein Wort, das nicht hineingehoert.** *Beautiful* hat in einer Aufzaehlung ueber Kompetenz nichts zu suchen, und er hoert es erst, als es weg ist - *"the way he had heard the other one go on a floor at the Grand Hotel"*, also derselbe Mechanismus wie das verbotene Wort gegenueber Hana in Kapitel 11. Annie wird kurz still und kommt zurueck, und er kann die Stille nicht deuten.
+
+  **Eingeloest wird es in Kapitel 24, nach dem Wurf**, wenn nichts mehr zu verhandeln ist: *"You said beautiful." - "I did." - "In the middle of a list about whether I am any good at my work." - "Yes." - "Why?"* Seine Antwort ist der einfachste Satz des Kapitels und jedes Wort davon stimmt: **"Because it is true, and because tonight I was not selecting."** Das trifft seine ganze Methode - er waehlt aus, immer, das ist sein Verfahren; heute Abend nicht.
+
+  Ihre Antwort: *"Do not do it again."* - *"No, Mistress."* - und dann, nach einer Pause: **"That was not an order. I do not know what it was."**
 
   Und dann der Name: **"So. Annie. Why in God's name did you do it?"**
 
@@ -3415,7 +3421,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 241 | 22 (01-24) | 1 | 55 |
+| Annie | 244 | 22 (01-24) | 1 | 55 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
 | Chairman Woo | 76 | 14 (07-24) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
@@ -3447,7 +3453,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-241 Nennungen in 22 Kapiteln.
+244 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3670,10 +3676,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:256 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
 | 55 | ch23:266 | Annie did not answer. |
 | 55 | ch23:280 | Annie did not ask which. |
-| 55 | ch23:286 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
-| 55 | ch23:296 | Annie put her head back against the rail and looked at the underside of the roadway. |
-| 55 | ch23:316 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
-| 55 | ch23:332 | "I know," said Annie. "I was there for the other one." |
+| 55 | ch23:286 | He heard it about a second after it was gone, the way he had heard the other one go on a.. |
+| 55 | ch23:292 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
+| 55 | ch23:302 | Annie put her head back against the rail and looked at the underside of the roadway. |
+| 55 | ch23:322 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
+| 55 | ch23:338 | "I know," said Annie. "I was there for the other one." |
 | 55 | ch24:19 | Annie looked at the water through the rail. |
 | 55 | ch24:39 | Annie did not answer that. |
 | 55 | ch24:43 | Annie did not answer that either. |
@@ -3690,8 +3697,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:269 | "You are still wearing it," said Annie. |
 | 55 | ch24:291 | Annie looked out at the water where the other thing had gone. |
 | 55 | ch24:297 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch24:305 | "The car is at the end," said Annie. |
-| 55 | ch24:317 | Annie looked out of her side of it. |
+| 55 | ch24:303 | "You said beautiful," said Annie. |
+| 55 | ch24:319 | Annie looked out at the place where the other thing had gone in. |
+| 55 | ch24:333 | "The car is at the end," said Annie. |
+| 55 | ch24:345 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3749,9 +3758,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:148` (Tag 55) - one
 - `ch23:256` (Tag 55) - one
-- `ch23:286` (Tag 55) - ten
-- `ch23:316` (Tag 55) - four, twenty
-- `ch23:332` (Tag 55) - one
+- `ch23:286` (Tag 55) - one
+- `ch23:292` (Tag 55) - ten
+- `ch23:322` (Tag 55) - four, twenty
+- `ch23:338` (Tag 55) - one
 - `ch24:183` (Tag 55) - twenty-three
 
 ---
@@ -4276,7 +4286,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch24:45 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch24:331 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch24:359 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4302,7 +4312,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
 - `ch24:45` (Tag 55) - eight, one
-- `ch24:331` (Tag 55) - one, two
+- `ch24:359` (Tag 55) - one, two
 
 ---
 
@@ -4569,7 +4579,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
 | 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
 | 55 | ch24:7 | lights on, and Mr Ku by the front wing had not moved at all. |
-| 55 | ch24:313 | Mr Ku had the heater on. |
+| 55 | ch24:341 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 

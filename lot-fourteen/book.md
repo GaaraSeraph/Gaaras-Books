@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-24 Kapitel. 70.473 Woerter.
+24 Kapitel. 70.682 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,8 +31,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.3 | 2.563 |
-| 24 | v1.2 | 2.509 |
+| 23 | v3.4 | 2.657 |
+| 24 | v1.3 | 2.624 |
 
 ---
 
@@ -6719,7 +6719,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7001,6 +7001,12 @@ Annie did not ask which.
 
 ---
 
+There had been a word in the middle of that with no business in a list about competence.
+
+He heard it about a second after it was gone, the way he had heard the other one go on a floor at the Grand Hotel, and there was nothing to be done with either of them. Annie had gone very slightly still at it and had come back, and he could not have said what the stillness was, and he had stopped being able to say what any of this was some hours ago.
+
+---
+
 The traffic went over the joint above them four or five times.
 
 "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time since she had told him he could use it in public. "Why in God's name did you do it?"
@@ -7054,7 +7060,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -7350,6 +7356,34 @@ Annie looked out at the water where the other thing had gone.
 "I know."
 
 "Good," said Annie. "Then neither of us has to be brave about it."
+
+---
+
+They stood at the rail for a while and neither of them started anything.
+
+"You said beautiful," said Annie.
+
+"I did."
+
+"In the middle of a list about whether I am any good at my work."
+
+"Yes."
+
+"Why?"
+
+---
+
+"Because it is true," said Georgij, "and because tonight I was not selecting."
+
+He said it to the water, and it was the plainest sentence he had produced in eight weeks, and every word of it was accurate.
+
+Annie looked out at the place where the other thing had gone in.
+
+"Do not do it again."
+
+"No, Mistress."
+
+"That was not an order," she said, after a moment. "I do not know what it was."
 
 ---
 

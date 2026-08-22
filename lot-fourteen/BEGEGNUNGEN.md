@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 241 | 22 (01-24) | 1 | 55 |
+| Annie | 244 | 22 (01-24) | 1 | 55 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
 | Chairman Woo | 76 | 14 (07-24) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-241 Nennungen in 22 Kapiteln.
+244 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -273,10 +273,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:256 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
 | 55 | ch23:266 | Annie did not answer. |
 | 55 | ch23:280 | Annie did not ask which. |
-| 55 | ch23:286 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
-| 55 | ch23:296 | Annie put her head back against the rail and looked at the underside of the roadway. |
-| 55 | ch23:316 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
-| 55 | ch23:332 | "I know," said Annie. "I was there for the other one." |
+| 55 | ch23:286 | He heard it about a second after it was gone, the way he had heard the other one go on a.. |
+| 55 | ch23:292 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
+| 55 | ch23:302 | Annie put her head back against the rail and looked at the underside of the roadway. |
+| 55 | ch23:322 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
+| 55 | ch23:338 | "I know," said Annie. "I was there for the other one." |
 | 55 | ch24:19 | Annie looked at the water through the rail. |
 | 55 | ch24:39 | Annie did not answer that. |
 | 55 | ch24:43 | Annie did not answer that either. |
@@ -293,8 +294,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:269 | "You are still wearing it," said Annie. |
 | 55 | ch24:291 | Annie looked out at the water where the other thing had gone. |
 | 55 | ch24:297 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch24:305 | "The car is at the end," said Annie. |
-| 55 | ch24:317 | Annie looked out of her side of it. |
+| 55 | ch24:303 | "You said beautiful," said Annie. |
+| 55 | ch24:319 | Annie looked out at the place where the other thing had gone in. |
+| 55 | ch24:333 | "The car is at the end," said Annie. |
+| 55 | ch24:345 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -352,9 +355,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:148` (Tag 55) - one
 - `ch23:256` (Tag 55) - one
-- `ch23:286` (Tag 55) - ten
-- `ch23:316` (Tag 55) - four, twenty
-- `ch23:332` (Tag 55) - one
+- `ch23:286` (Tag 55) - one
+- `ch23:292` (Tag 55) - ten
+- `ch23:322` (Tag 55) - four, twenty
+- `ch23:338` (Tag 55) - one
 - `ch24:183` (Tag 55) - twenty-three
 
 ---
@@ -879,7 +883,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch24:45 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch24:331 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch24:359 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -905,7 +909,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
 - `ch24:45` (Tag 55) - eight, one
-- `ch24:331` (Tag 55) - one, two
+- `ch24:359` (Tag 55) - one, two
 
 ---
 
@@ -1172,7 +1176,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
 | 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
 | 55 | ch24:7 | lights on, and Mr Ku by the front wing had not moved at all. |
-| 55 | ch24:313 | Mr Ku had the heater on. |
+| 55 | ch24:341 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
