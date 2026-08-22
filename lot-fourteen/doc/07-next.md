@@ -78,10 +78,12 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`.
 
   **Die sechs unbesetzten Sorten, durchgesehen am 22.08.** Es waren nie drei.
+  Eine davon ist seitdem gesetzt, es sind noch vier offen und eine
+  zurueckgestellt.
 
   | Sorte | Stand |
   |---|---|
-  | Das am Telefon | **sofort umsetzbar**, Stelle ausgezaehlt: Kapitel 12, Kangs Anruf, bei *"Then it's a test," said Georgij pleasantly* |
+  | Das am Telefon | ~~offen~~ **gesetzt**, Kapitel 12 v1.6, hinter *"Then it's a test," said Georgij pleasantly* |
   | Das ans Publikum | offen, und die Stelle ist die Gala in Kapitel 8 und 9; das Prinzip steht schon in Kapitel 11 |
   | Das kalte | offen, gehoert ins Kim-Gespraech, an Do-yun |
   | Das zu fruehe | offen; Kapitel 16 geprueft und verworfen, braucht Do-yun statt Sang-hoon |

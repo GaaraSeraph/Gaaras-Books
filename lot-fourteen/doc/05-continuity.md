@@ -50,7 +50,7 @@ nachrechnen, und `check.py` tut das automatisch.
 - **Kapitel 15** *Four thousand two hundred* (v2.3) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.5) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.4) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.5) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 12** *You are better when you don't know* (v1.6) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.7) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.3) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
@@ -136,19 +136,22 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
   Lächeln, das an einem Gesicht vorbei in einen Saal geht - und der Saal steht
   in Kapitel 8 und 9 bereit, mit achthundert Leuten darin. Die Stelle ist dort
   und nirgends später.
-- **Das am Telefon.** *Offen, und die einzige der sechs, die sofort umsetzbar
-  ist.* Niemand sieht es, er baut es trotzdem, weil die Stimme das Gesicht
-  mitträgt. Reine Mechanik, an nichts verschwendet.
+- **Das am Telefon.** *Gesetzt, Kapitel 12 v1.6.* Niemand sieht es, er baut es
+  trotzdem, weil die Stimme das Gesicht mitträgt. Reine Mechanik, an nichts
+  verschwendet.
 
-  **Die Stelle ist ausgezählt.** Kapitel 12, Kangs Anruf, unmittelbar hier:
-
-  > "I am going to ask you something and it is going to sound like a test, and I would like you to know in advance that it isn't one."
-  >
   > "Then it's a test," said Georgij **pleasantly**, "and you and I can both live with that. Go on."
+  >
+  > **He had put the face on before he said it. Nobody could see it, at either end, and he built it anyway. A voice carries a face, and a pleasant thing said with a flat mouth arrives flat.**
 
-  Das *pleasantly* steht schon da und beschreibt eine Stimme. Was fehlt, ist der
-  eine Satz, der sagt, dass er dafür das Gesicht gebaut hat, das niemand sieht.
-  Alles andere ist vorhanden: das Telefon, der Ton, der Gegenspieler.
+  **Die Reihenfolge ist der Punkt.** Das *pleasantly* stand schon da und
+  beschrieb eine Stimme. Der Leser hört es erst und erfährt danach, dass es
+  hergestellt war - dieselbe Bewegung wie *Most of the work was done by the
+  smile* in Kapitel 7, nur ohne Zuschauer.
+
+  **Es heißt *the face* und nicht *the smile***, weil am Telefon niemand ein
+  Lächeln sieht und die ganze Einstellung des Gesichts die Arbeit tut. Die
+  Wendung schließt an *the face he had decided on* aus Kapitel 7 an.
 - Verwandt und im selben Haus gebaut: **unnahbar sein**, was über den Winkel
   läuft. Falsch herum stehen, etwas halten, die Augen auf etwas legen, das kein
   Mensch ist. (Kapitel 8)

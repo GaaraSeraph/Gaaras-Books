@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.988 Woerter.
+17 Kapitel. 51.026 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -20,7 +20,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 09 | v3.3 | 3.119 |
 | 10 | v2.3 | 2.980 |
 | 11 | v2.7 | 2.724 |
-| 12 | v1.5 | 2.312 |
+| 12 | v1.6 | 2.350 |
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
@@ -3301,7 +3301,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3398,6 +3398,8 @@ Kang laughed, the same short one, over in a moment.
 "I am going to ask you something and it is going to sound like a test, and I would like you to know in advance that it isn't one."
 
 "Then it's a test," said Georgij pleasantly, "and you and I can both live with that. Go on."
+
+He had put the face on before he said it. Nobody could see it, at either end, and he built it anyway. A voice carries a face, and a pleasant thing said with a flat mouth arrives flat.
 
 "There has been some interest in a change of designation on the eastern side at Incheon. Port land. It would be a fairly technical thing." Kang's voice did not go anywhere at all. "What is your side's position on it?"
 
