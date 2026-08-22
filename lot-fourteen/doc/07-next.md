@@ -16,16 +16,29 @@ nicht abgehakt.
 1. **Tag 45 nachreichen.** Unterschrift und zweite Abteilung, siehe oben. **Weiterhin offen** - Kapitel 18 war dafür vorgesehen und hat es nicht aufgenommen, weil das Kapitel schon vier Bewegungen trug.
 2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
 3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
-4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, gegen zwei Dinge: die zwanzig Prozent aus Hongkong werden ihm abgekauft, und das Terminal geht bei seinem Tod an einen statt an drei. Seine zwei Bedingungen stehen im Text und sind Aufgaben: **ein Raum mit der Familie darin und jemandem, der wirklich unterschreiben kann**, und kein Foto mit einem Politiker darauf.
-5. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
-6. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
-7. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
-8. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
+
+    **Und der Punkt, an dem der ganze Plan hängt und den niemand angefasst hat: Ye-rin ist nicht gefragt worden.** Sechs Prozent seit zwanzig Jahren, kein Vorstandssitz, keine Unterschrift in irgendeinem Dokument, und in sechzehn von dreiundzwanzig Aufnahmen steht sie dort, wo sie die Türen sehen kann. Der Januar funktioniert nur, wenn sie bis Februar hält, und über sie ist im Text bisher ausschliesslich geredet worden. Sie ist ausserdem die wahrscheinlichste Antwort auf Woos Bedingung, denn sie ist die, die unterschreiben könnte.
+4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, vor Jahresende.
+
+    **Sein Preis, von ihm selbst genannt:** sieben Jahre statt zehn, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
+
+    **Berichtigt gegenüber der ersten Fassung:** Die zwanzig Prozent aus Hongkong kauft ihm **niemand** ab. Er löst sie selbst ab, weil der Vertrag das Terminal *lendable* macht statt nur bankfähig, und er hat sich das in neunzig Sekunden selbst ausgerechnet, während Georgij daneben saß und schwieg.
+
+    **Er weiß nicht, wem er das Geld schuldet**, und will es nach der Ablösung auch nicht mehr wissen müssen. Er ahnt es seit Jahren und hat den Verdacht nie angefasst.
+
+5. **Woos zwei Bedingungen sind Aufgaben und stehen offen.**
+
+    - **Ein Raum mit der Familie darin und jemandem, der wirklich unterschreiben kann.** Nicht die, die reden. Nicht der Neffe. Vor Jahresende, **kein Hotel**, das Haus von jemandem. Und ausdrücklich nicht Georgijs, denn er hat keins: *"You have not got one either." … "Then find somebody who has."*
+    - **Kein Foto mit einem Politiker darauf.** Er hat sein Leben lang keins gemacht und fängt mit achtundsiebzig nicht an.
+6. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
+7. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
+8. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
+9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
 
     Was der Text davon zeigt: ein Katalog ohne den Jungen und das Wort "No" (Kapitel 6). Neunzehn Tage in ihrem Besitz und trotzdem kein Name (Kapitel 12). Ihre Begründung, dass es ändert, worum sie ihn bitten muss (Kapitel 11). Und Kapitel 15 sagt in einem Nebensatz, dass sie den Namen seit seiner ersten Woche im Haus hat.
 
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
-9. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
+10. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
 Erst danach die Blöcke F bis J, und zwar mit Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt, an der die beiden nebeneinander gut sind.
 
