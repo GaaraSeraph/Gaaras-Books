@@ -204,7 +204,7 @@ getragen wird.
 
 **Zwischen zwei Bloecken derselben Figur steht immer etwas Koerperliches.** Die
 Regel steht unten bei den Dialogregeln; hier steht, wie man ihre Verletzung
-findet, denn zwei von drei Faellen sind mechanisch entscheidbar und `check.py`
+findet, denn drei von vier Faellen sind mechanisch entscheidbar und `check.py`
 meldet sie seit dem 22. August.
 
 **Fall 1, fortgesetzte Rede.** Ein Absatz mit **ungerader** Zahl
@@ -218,7 +218,25 @@ ohne Sprechertag und ohne Beat. Der Leser liest sie abwechselnd, und das traegt
 vier oder fuenf weit. Ab sieben meldet die Pruefung. Steht in so einer Kette
 **doch** zweimal dieselbe Figur, ist alles Folgende falsch zugeordnet.
 
-**Fall 3 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
+**Fall 3, der doppelte Beat.** Derselbe Satz steht zweimal im Kapitel, meist
+wenige Zeilen auseinander, und beide Male tut er dasselbe. `check.py` meldet
+jeden Satz ab sechs Woertern, der zweimal vorkommt.
+
+Am 23. August fand der erste Lauf dieser Pruefung vier Stellen auf einmal:
+*"He let that sit for exactly as long as it needed"* in 26, *"He looked at the
+fire and not at her"* in 27, *"He looked at the floor for a second and then back
+up"* in 28, und in 30 zweimal *"She said it without any drama at all"* in
+**einem einzigen Absatz**. Dazu in 29 eine ganze Replik doppelt, die ein Leser
+gefunden hat, bevor die Pruefung existierte.
+
+**Nicht jede Wiederholung ist ein Fehler.** In Kapitel 16 sagt Georgij viermal
+*"I am not going to answer that"* und zweimal *"I would like it back on
+Thursday"*, und das ist die Figur: Er wiederholt sich flach, weil er sich nicht
+verhandeln laesst. Darum Hinweis und nicht Fehler. Die Frage beim Lesen lautet:
+**Tut der Satz beim zweiten Mal etwas anderes?** Bei einer Figur, die sich
+weigert, ja. Bei einem Beat nie.
+
+**Fall 4 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
 sauber geschlossen, ohne Tag und ohne Beat, liest ein Programm als
 Sprecherwechsel und kann es nicht anders. Dafuer gibt es nur das Lesen.
 

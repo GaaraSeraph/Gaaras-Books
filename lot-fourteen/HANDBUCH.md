@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.361 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 67.547 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -345,7 +345,7 @@ getragen wird.
 
 **Zwischen zwei Bloecken derselben Figur steht immer etwas Koerperliches.** Die
 Regel steht unten bei den Dialogregeln; hier steht, wie man ihre Verletzung
-findet, denn zwei von drei Faellen sind mechanisch entscheidbar und `check.py`
+findet, denn drei von vier Faellen sind mechanisch entscheidbar und `check.py`
 meldet sie seit dem 22. August.
 
 **Fall 1, fortgesetzte Rede.** Ein Absatz mit **ungerader** Zahl
@@ -359,7 +359,25 @@ ohne Sprechertag und ohne Beat. Der Leser liest sie abwechselnd, und das traegt
 vier oder fuenf weit. Ab sieben meldet die Pruefung. Steht in so einer Kette
 **doch** zweimal dieselbe Figur, ist alles Folgende falsch zugeordnet.
 
-**Fall 3 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
+**Fall 3, der doppelte Beat.** Derselbe Satz steht zweimal im Kapitel, meist
+wenige Zeilen auseinander, und beide Male tut er dasselbe. `check.py` meldet
+jeden Satz ab sechs Woertern, der zweimal vorkommt.
+
+Am 23. August fand der erste Lauf dieser Pruefung vier Stellen auf einmal:
+*"He let that sit for exactly as long as it needed"* in 26, *"He looked at the
+fire and not at her"* in 27, *"He looked at the floor for a second and then back
+up"* in 28, und in 30 zweimal *"She said it without any drama at all"* in
+**einem einzigen Absatz**. Dazu in 29 eine ganze Replik doppelt, die ein Leser
+gefunden hat, bevor die Pruefung existierte.
+
+**Nicht jede Wiederholung ist ein Fehler.** In Kapitel 16 sagt Georgij viermal
+*"I am not going to answer that"* und zweimal *"I would like it back on
+Thursday"*, und das ist die Figur: Er wiederholt sich flach, weil er sich nicht
+verhandeln laesst. Darum Hinweis und nicht Fehler. Die Frage beim Lesen lautet:
+**Tut der Satz beim zweiten Mal etwas anderes?** Bei einer Figur, die sich
+weigert, ja. Bei einem Beat nie.
+
+**Fall 4 ist nicht findbar.** Zwei getrennte Bloecke derselben Figur, beide
 sauber geschlossen, ohne Tag und ohne Beat, liest ein Programm als
 Sprecherwechsel und kann es nicht anders. Dafuer gibt es nur das Lesen.
 
@@ -1586,7 +1604,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 30** *Who do they telephone* (v1.1) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 30** *Who do they telephone* (v1.2) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -1612,7 +1630,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 
   **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
-- **Kapitel 29** *The ones who came at seven* (v1.0) - Der Abend, sechs bis neun.
+- **Kapitel 29** *The ones who came at seven* (v1.1) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
 
@@ -1627,7 +1645,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
 
   **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
-- **Kapitel 28** *A woman in a room can be asked* (v1.0) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+- **Kapitel 28** *A woman in a room can be asked* (v1.1) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
 
@@ -1653,7 +1671,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
-- **Kapitel 27** *Not out of your account* (v3.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v3.1) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -1675,7 +1693,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-- **Kapitel 26** *The name and the control* (v1.0) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
+- **Kapitel 26** *The name and the control* (v1.1) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
 
@@ -4252,8 +4270,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:162 | Hana put the tray down after all. |
 | 74 | ch29:174 | Hana was quiet. |
 | 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
-| 74 | ch29:202 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
-| 74 | ch29:232 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
+| 74 | ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
+| 74 | ch29:230 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
 | 74 | ch30:368 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
 
 ### Zahlen in der Naehe von Hana
@@ -4309,8 +4327,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:54` (Tag 74) - eleven, thirty
 - `ch29:64` (Tag 74) - one, six
 - `ch29:120` (Tag 74) - eight, twenty
-- `ch29:202` (Tag 74) - twenty
-- `ch29:232` (Tag 74) - twenty
+- `ch29:200` (Tag 74) - twenty
+- `ch29:230` (Tag 74) - twenty
 
 ---
 
@@ -4426,7 +4444,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
 | 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
 | 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
-| 74 | ch29:210 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
+| 74 | ch29:208 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
 | 74 | ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
 | 74 | ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
 | 74 | ch30:390 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
@@ -4914,7 +4932,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
 | 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 74 | ch29:234 | Kim Ye-rin looked at the room. |
+| 74 | ch29:232 | Kim Ye-rin looked at the room. |
 | 74 | ch30:60 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
 | 74 | ch30:94 | Ye-rin did not blink. |
 | 74 | ch30:126 | Kim Ye-rin said nothing at all. |
@@ -5010,7 +5028,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch26:276 | Do-yun turned round. |
 | 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
-| 74 | ch29:212 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
+| 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
 | 74 | ch30:308 | "The second thing. Do-yun." |
 | 74 | ch30:322 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
 | 74 | ch30:326 | "Do-yun is worthless as a condition, because the day you sign, we have him anyway. He is.. |

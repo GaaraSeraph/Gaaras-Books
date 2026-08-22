@@ -1,7 +1,7 @@
-Chapter 27: Not out of your account
-Lot Fourteen · Version 3.0 · EN
+# Chapter 27: Not out of your account
+*Lot Fourteen* · Version 3.1 · EN
 
-Day Sixty-Seven · Tuesday 9 December
+## Day Sixty-Seven · Tuesday 9 December
 
 "There is a thing I would like to do this week," said Georgij, "and it is not for you."
 
@@ -15,7 +15,7 @@ The sentence had come out without any preparation, which was becoming a habit, a
 
 "An afternoon. Perhaps two. Your car, your driver, your telephone, and about six hours of a man you paid for." He stayed at the corner of the desk. "I am asking, because all of that is yours."
 
-* * *
+---
 
 "For whom."
 
@@ -25,7 +25,7 @@ Annie put the pen down.
 
 "Go on."
 
-* * *
+---
 
 "On the eleventh of November I pulled the second section on her sixteen thousand square metres, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
 
@@ -33,7 +33,7 @@ Annie put the pen down.
 
 "On the one thing she cannot survive losing." He did not move. "Which means the whole of her sits on a designation that one department can look at again. And you and I have a woman on our side of this whose entire position depends on nobody in that ministry having a bad month."
 
-* * *
+---
 
 Annie was quiet for a second.
 
@@ -45,7 +45,7 @@ Annie was quiet for a second.
 
 "Six hours to take a hole out of your own arrangement." He said it flatly. "I am also fond of her, and I am telling you that so that you have it, and it is not the reason."
 
-* * *
+---
 
 Annie sat back.
 
@@ -57,7 +57,7 @@ Annie sat back.
 
 "It does not cost you anything because it is not your money and it is not your land," said Georgij. "Chairman Woo signed seven years of anchor cargo on the twentieth. That cargo comes through Incheon. Cargo needs floor before the ship and floor after the ship, and he has been renting it in three places from two people since 2019, and he complains about one of them at every meal."
 
-* * *
+---
 
 "I have a lease on that land."
 
@@ -67,7 +67,7 @@ Annie sat back.
 
 "Wants hardstanding. Open ground, drained, with a gate on the east. Boxes do not need a roof and they do not go in a bonded shed, and if he put them in one he would be paying four times what the ground is worth." Georgij did not move. "There are sixteen thousand square metres out there. Your four buildings sit on about five. He can have the open ground and you will not lose one metre of anything you signed for."
 
-* * *
+---
 
 Annie looked at him for a moment.
 
@@ -75,7 +75,7 @@ Annie looked at him for a moment.
 
 "On Sunday, with the site plan and your lease side by side, and I did it in that order." He said it without any weight at all. "If the two of them had touched anywhere I would not be standing here. I am not going to sell the same ground twice, and I am certainly not going to sell yours."
 
-* * *
+---
 
 "You want to put Woo on her land."
 
@@ -85,7 +85,7 @@ Annie looked at him for a moment.
 
 "Yes."
 
-* * *
+---
 
 Annie did not say anything for a while.
 
@@ -93,7 +93,7 @@ Annie did not say anything for a while.
 
 "In the lobby, actually. There were eight minutes and I was not going to spend them being nervous."
 
-* * *
+---
 
 She picked the pen up again, which meant it was decided, and did not say so, which meant something else.
 
@@ -111,9 +111,9 @@ She picked the pen up again, which meant it was decided, and did not say so, whi
 
 "Yes," said Annie. "That is what worries me."
 
-* * *
+---
 
-Day Sixty-Nine · Thursday 11 December
+## Day Sixty-Nine · Thursday 11 December
 
 Chairman Woo said yes in about four minutes, which was three and a half minutes longer than Georgij had expected.
 
@@ -137,7 +137,7 @@ Something moved on his end that might have been a chair.
 
 "Then send me the drawing and do not send me a broker."
 
-* * *
+---
 
 "There will not be a broker," said Georgij. "There will not be anybody. You will deal with her directly and I will not be in the room, and nobody is taking a commission out of this anywhere, including my employer, and especially not me."
 
@@ -149,9 +149,9 @@ Woo laughed, badly, the way he had laughed at his own crane in October.
 
 "You are a very strange young man," he said. "Send the drawing."
 
-* * *
+---
 
-Day Seventy · Friday 12 December
+## Day Seventy · Friday 12 December
 
 He went out to her at four and it was already going dark.
 
@@ -165,7 +165,7 @@ Hana put the pen down.
 
 "Say how you got that."
 
-* * *
+---
 
 "Sung-ho heard me out, and then he stood up and said he had to make a telephone call, and he went out of the room and was gone nineteen minutes." Georgij said it in the order it had happened. "He came back and sat down and said they would come. All of them. And that nothing about shares or security or routes is decided by anybody in that building."
 
@@ -173,7 +173,7 @@ Hana put the pen down.
 
 "He did not say so and I did not ask and both of us knew."
 
-* * *
+---
 
 Hana did not move for a moment.
 
@@ -185,13 +185,13 @@ Hana did not move for a moment.
 
 "Yes."
 
-* * *
+---
 
 "And she sent them."
 
 "She sent nine people to your house and did not put herself in the list," said Georgij. "That is the part I have not been able to do anything with since Monday."
 
-* * *
+---
 
 Hana sat back.
 
@@ -205,7 +205,7 @@ Hana sat back.
 
 "Then say what is left, because you have plainly worked it out and you are being polite about it."
 
-* * *
+---
 
 Hana looked at the cards.
 
@@ -221,7 +221,7 @@ Georgij put his coat over the back of the chair, which he had not intended to do
 
 "I did not, because you can ask that woman once." Hana was entirely level about it. "Fourteen times in twenty years, twice she came. That is not luck and it is not charm. Both times I had something in my hand that was worth her evening, and the other twelve I had a party."
 
-* * *
+---
 
 "And on the ninth?"
 
@@ -233,13 +233,13 @@ Georgij did not say anything for a second.
 
 "I have been waiting on Monday since the twenty-first of November," said Hana, "and I did not know it would be a Monday, and neither did you."
 
-* * *
+---
 
 Georgij put the folder on the table.
 
 "This is the other thing," he said, "and it is not about the sixteenth, and I would like you to hear all of it before you decide what it is."
 
-* * *
+---
 
 He laid it out in the same order he had used at that desk on Tuesday and in the shed on Thursday, and it took under two minutes, because there was nothing in it that needed a run-up.
 
@@ -249,13 +249,13 @@ She got to the end of it before he did.
 
 "He knew before he asked. And he knows it is a thousand metres short of what he has in Yeonan, and he is taking it anyway, and the reason he gave me is a gate."
 
-* * *
+---
 
 "Then say the part that is mine."
 
 "He will deal with you directly. There is no broker, no introduction fee, no commission to anybody, and the rate is yours to name in the same way his rate was his to name." Georgij kept his hands where they were. "He asked for the drawing. That is all he asked for."
 
-* * *
+---
 
 Hana did not touch the folder.
 
@@ -267,7 +267,7 @@ She looked at it for a while without opening it, and when she spoke it was not t
 
 "And I have owned it since 2014." She said it flatly, the way she read out figures. "So say the obvious thing, because it is going to sit in this room until somebody does."
 
-* * *
+---
 
 "You never offered it."
 
@@ -277,7 +277,7 @@ She looked at it for a while without opening it, and when she spoke it was not t
 
 "In November I got the room."
 
-* * *
+---
 
 She let a moment go past.
 
@@ -287,7 +287,7 @@ She let a moment go past.
 
 "Because it does not say sixteen thousand anywhere in it. It says four buildings." She was not being kind to herself about it. "Which I wrote. In my own conditions, at your table, in front of you both."
 
-* * *
+---
 
 Georgij said nothing, which was correct.
 
@@ -297,7 +297,7 @@ Georgij said nothing, which was correct.
 
 "That is the whole of it, and it is not clever of you, and I would like you to know that I know that as well." She opened it. "It is only that you were the one man alive who had both pages on the same desk."
 
-* * *
+---
 
 "Why," she said, a minute later.
 
@@ -305,7 +305,7 @@ Georgij said nothing, which was correct.
 
 "Say that properly."
 
-* * *
+---
 
 "At the moment everything you have is worth what a department says it is worth," said Georgij. "One meeting in one building and you are a woman with a lot of land and a third charge that has come loose. There is nothing you can do about that in March except be very charming to men who do not care."
 
@@ -315,7 +315,7 @@ The fire did something and settled.
 
 He stopped there, which he had promised himself he would.
 
-* * *
+---
 
 Hana was quiet for a long time.
 
@@ -325,7 +325,7 @@ Hana was quiet for a long time.
 
 "Then say what changed."
 
-* * *
+---
 
 "You did," said Georgij. "On the twenty-first, in that chair, when you asked me what the evening was for and then took the question back because of a man on your own guest list. You gave up the only thing you have never given anybody, which is knowing what your own sentences are doing."
 
@@ -333,11 +333,11 @@ He looked at the fire and not at her.
 
 "I have thought about it for three weeks and I have not been able to put it anywhere, because there is nothing on my side of the table to put it against. I do not have anything. I have never had anything and I am not going to."
 
-He looked at the fire and not at her.
+He looked up at her then.
 
 "What I have is this. I know two people who each need a thing the other one has, and neither of them knows it, and I have sat in both of those rooms."
 
-* * *
+---
 
 "That is not a gift," said Hana.
 
@@ -347,7 +347,7 @@ He looked at the fire and not at her.
 
 "It is not a gift, it is arbitrage," said Georgij, "and there is nothing in it for me at all, and I would like both of those to be true at the same time, because they are."
 
-* * *
+---
 
 Hana laughed.
 
@@ -361,7 +361,7 @@ It was the real one, and it went on for a while. At the end of it she pressed th
 
 "Ten on Saturday."
 
-* * *
+---
 
 She pulled the folder across the table at last and opened it and read the first page the way she read everything, which was fast.
 

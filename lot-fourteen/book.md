@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-30 Kapitel. 87.381 Woerter.
+30 Kapitel. 87.354 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -34,11 +34,11 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 23 | v3.4 | 2.657 |
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
-| 26 | v1.0 | 2.426 |
-| 27 | v3.0 | 3.110 |
-| 28 | v1.0 | 2.692 |
-| 29 | v1.0 | 2.018 |
-| 30 | v1.1 | 3.256 |
+| 26 | v1.1 | 2.419 |
+| 27 | v3.1 | 3.107 |
+| 28 | v1.1 | 2.687 |
+| 29 | v1.1 | 2.007 |
+| 30 | v1.2 | 3.255 |
 
 ---
 
@@ -7826,7 +7826,7 @@ It would keep until she asked.
 ---
 
 # Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -8010,7 +8010,7 @@ The cousin put the legal pad down.
 
 "You keep the name," said Georgij. "The building says Kim on it in March the way it says Kim on it today. Your brother is chairman, your family is on the register, and every customer you have ever had deals with the same three people they dealt with in September. Nobody outside this room is told anything, and there is no announcement, because there is nothing to announce."
 
-He let that sit for exactly as long as it needed.
+He was still standing.
 
 "And she gets the control."
 
@@ -8159,7 +8159,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.0 · EN
+*Lot Fourteen* · Version 3.1 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8493,7 +8493,7 @@ He looked at the fire and not at her.
 
 "I have thought about it for three weeks and I have not been able to put it anywhere, because there is nothing on my side of the table to put it against. I do not have anything. I have never had anything and I am not going to."
 
-He looked at the fire and not at her.
+He looked up at her then.
 
 "What I have is this. I know two people who each need a thing the other one has, and neither of them knows it, and I have sat in both of those rooms."
 
@@ -8536,7 +8536,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8730,7 +8730,7 @@ He looked at the floor for a second and then back up.
 
 ---
 
-He looked at the floor for a second and then back up.
+He shifted the coat on his arm.
 
 "I have been paid for, argued over, insured, transferred, and complimented by a great many people. Nobody had ever been flattering before, and you were, and you did it knowing exactly what I am, which is the only reason it was worth anything." He inclined his head. "That is the personal part. It is not why I did this, and it is why I noticed there was something to do."
 
@@ -8851,7 +8851,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 ---
 
 # Chapter 29: The ones who came at seven
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9039,11 +9039,9 @@ She looked down the length of the room for a second, at nobody in particular.
 
 "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get to the hall, and if I do not, an old man and a civil servant will discuss the weather."
 
----
+He had got four steps down the room before she said the rest of it.
 
-She took the tray to somebody and came back with nothing in her hands.
-
-"Go and stand where you are going to stand," she said. "And Georgij."
+"And Georgij."
 
 "Yes."
 
@@ -9094,7 +9092,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9346,7 +9344,7 @@ Kim Ye-rin looked out at the black garden.
 
 "Yes."
 
-"Written down, it can be taken. But it is there in the morning." She said it without any drama at all. "Every one of those six will be dead or useless in fifteen years, and their children are worse." She said it without any drama at all. "The only thing anybody can point at in 2045 is a piece of paper with a name on it and a rule about who directs the block."
+"Written down, it can be taken. But it is there in the morning." She said it without any drama at all. "Every one of those six will be dead or useless in fifteen years, and their children are worse." She did not turn round for it. "The only thing anybody can point at in 2045 is a piece of paper with a name on it and a rule about who directs the block."
 
 "It does not have to be your name in 2045."
 

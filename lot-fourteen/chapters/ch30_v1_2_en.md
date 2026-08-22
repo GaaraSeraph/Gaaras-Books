@@ -1,5 +1,5 @@
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -251,7 +251,7 @@ Kim Ye-rin looked out at the black garden.
 
 "Yes."
 
-"Written down, it can be taken. But it is there in the morning." She said it without any drama at all. "Every one of those six will be dead or useless in fifteen years, and their children are worse." She said it without any drama at all. "The only thing anybody can point at in 2045 is a piece of paper with a name on it and a rule about who directs the block."
+"Written down, it can be taken. But it is there in the morning." She said it without any drama at all. "Every one of those six will be dead or useless in fifteen years, and their children are worse." She did not turn round for it. "The only thing anybody can point at in 2045 is a piece of paper with a name on it and a rule about who directs the block."
 
 "It does not have to be your name in 2045."
 

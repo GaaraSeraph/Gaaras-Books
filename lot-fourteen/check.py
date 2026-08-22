@@ -23,6 +23,7 @@ import sys
 import glob
 import os
 import datetime
+import collections
 
 NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
 
@@ -167,6 +168,23 @@ def check(path):
         kette = kette + 1 if nackt else 0
         if kette == 7:
             warns.append(f"Sieben nackte Repliken am Stueck ab: {paras[i-6][:52]}")
+
+    # Derselbe Satz zweimal im Kapitel. Kommt fast immer davon, dass ein
+    # Absatz geteilt wurde und der Beat in beiden Haelften stehen blieb.
+    # Vier Faelle auf einmal gefunden (26, 27, 28, 30), einer davon zwei
+    # identische Beats in EINEM Absatz.
+    #
+    # Absichtliche Wiederholung gibt es auch: in 16 sagt Georgij denselben
+    # flachen Satz mehrfach, weil er sich nicht verhandeln laesst. Darum
+    # Hinweis und nicht Fehler - die Entscheidung faellt beim Lesen.
+    saetze = collections.Counter()
+    for s in re.findall(r'[^.!?"\n]{18,}?[.!?]', re.sub(r"^#.*$", "", body, flags=re.M)):
+        s = s.strip()
+        if len(s.split()) >= 6:
+            saetze[s] += 1
+    for s, n in saetze.items():
+        if n > 1:
+            warns.append(f"Satz {n} mal im Kapitel: {s[:58]}")
 
     days = []
     # Spannen zuerst: "Days 27 to 28 · Thursday 30 to Friday 31 October".
