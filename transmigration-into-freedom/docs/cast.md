@@ -4,6 +4,12 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- Carries the chapter she is hurt in (ch8). One-armed, slower, every step
+  costing, and still the one who reads the ground: she stops him twice over
+  holes hidden under moss ("colour of the moss - you'll learn it in about eleven
+  years"), she sees that the buried fire is many fires and not one, and she
+  identifies the rope as village-made rather than city-made. He can read the
+  stonework. He cannot read any of that.
 - Fights in ch6 rather than watching: comes in on his left with the hatchet in
   both hands and puts it through a leg joint. She takes his compliment in the
   middle of it without breaking stride or taking offence.

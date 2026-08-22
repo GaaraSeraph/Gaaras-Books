@@ -117,6 +117,8 @@ Enforcement, in layers:
   comes, comes deliberately and on the page as hand-tools plus magic.
 - He did not die. There was no accident. He went to sleep and woke up here.
 - Oldstep has forty houses, so roughly 150 to 200 people. Crowd sizes must match that.
+- The village sits on the south leg of the channel (ch8). They do not know it.
+  Anything that reaches Oldstep from now on can arrive from underneath.
 - Gaara is a name he chose for himself in the old world and that stuck as a
   nickname. The system did not give it to him, it read it off him, and it was
   never on any document. Here it is simply his name.

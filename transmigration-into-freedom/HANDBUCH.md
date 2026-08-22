@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 7 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 11.232 Woerter.
+Kanon: 8 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 12.303 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -21,6 +21,12 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
+- Carries the chapter she is hurt in (ch8). One-armed, slower, every step
+  costing, and still the one who reads the ground: she stops him twice over
+  holes hidden under moss ("colour of the moss - you'll learn it in about eleven
+  years"), she sees that the buried fire is many fires and not one, and she
+  identifies the rope as village-made rather than city-made. He can read the
+  stonework. He cannot read any of that.
 - Fights in ch6 rather than watching: comes in on his left with the hatchet in
   both hands and puts it through a leg joint. She takes his compliment in the
   middle of it without breaking stride or taking offence.
@@ -135,7 +141,12 @@ other half: him planning a fight around another person ON PURPOSE, and hating
 it. He has now paid for planning around nobody. He has not yet chosen to plan
 around somebody.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
-Milestone: he plans a fight around Marit rather than around himself, on purpose, and hates it.
+Milestone: PAID, ch8. In the tube, with something coming and nowhere to stand,
+he has a second and a half and he spends it assigning her a slot and taking the
+other one himself. He does it on purpose, he tells her not to come out for him,
+and the narration says plainly that he liked none of the arithmetic. Note the
+order this landed in: ch6 he paid for planning around nobody, ch8 he chooses to
+plan around somebody. The cost came first, which is the right way round.
 
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
@@ -214,6 +225,9 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
+HP 165, CON 9, MP 60 untouched, Dagger Mastery E. Three chapters now without a
+number moving, on purpose: the ladder does not go up in that road, it goes in.
 Chapter 7: no mechanical change. No panel at all except the one he does not get.
 Gear unchanged, three days of bread confirmed, and Marit leaves with him hurt.
 
@@ -311,6 +325,26 @@ Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
 never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
+
+=== Chapter 8 answers the crawler question by making it worse ===
+The first arc asked why the crawlers started coming out in spring. Answering it
+with a bigger monster would have been the cheap version. Instead the answer is
+infrastructure and a person: the stream is a built drain with sectional gates,
+it forks, and the dry south leg runs under the village. The crawlers are running
+away from something, not hunting. Four of them lie dead in a hall with one clean
+wound each and nothing eaten. And the head of the channel is an iron gate that
+sat shut for centuries and has been raised eighteen inches and propped on blocks
+somebody carried in.
+So the last line of the chapter is the whole first arc turning over: something
+changed in spring, no, somebody did.
+Three things this buys. The ch6 attack is retroactively explained and the
+village is retroactively unsafe, because they came under the road and the houses
+sit on the corridor. The tech level gets its first real evidence, and it is
+civil engineering rather than magic, which keeps the open question open while
+still paying the reader. And the stick in the silt puts thread 18 in front of
+the reader without Gaara reaching it, because he has known Hallvard for two days
+and has no reason to think about a walking stick.
+What is behind the gate is deliberately not established. That is chapter 9.
 
 === Gaara does not shut up, and the silence has to be earned ===
 The author: too few remarks, too few asides, too little crudeness - he would
@@ -575,7 +609,7 @@ nicht diese Zeile von Hand.
 5. The Lamp Goes Out (was: Forty Houses)
 6. Every Plan I Make Is for One
 7. How Did You Know
-8. They Were Running Too (planned - the ruin, the drain, the stick in the dust)
+8. They Were Running Too
 9. What Opened in Spring (planned)
 10. A Name for the Knife (planned)
 
@@ -680,7 +714,7 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
-  No romance has started (as of Chapter 7), but the first pass has been made and
+  No romance has started (as of Chapter 8), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
   magnificent arse and says outright that the timing is deliberate, because in a
   fight it is only noise and later it would be a move. She says "mind your own
@@ -757,6 +791,13 @@ Same tagging as the system rules: (chN) is the chapter a fact was established in
 
 (ch3) What Gaara has SEEN so far is medieval: stone, lime mortar, iron pins, rope, worked by hand, in the ruins and in Oldstep. No machinery, no rail, no pipes, no industry. That much is canon - but he has seen exactly one dead city and one village and nothing else, so it is a baseline, not a proven law of the world.
 
+(ch8) FIRST REAL DATA on the dead civilisation, and it is all civil engineering:
+dressed stone laid to a measured gradient, arched tube, sectional sluice gates,
+and iron heavy enough to close a channel and survive being shut for centuries.
+That is consistent with ch3 (nothing a competent Roman would find surprising)
+and it raises the floor: these people could measure, survey and cast or forge at
+scale. It says nothing yet about magic.
+
 OPEN, to be discovered in-story (not pre-legislated): how far the tech level really goes, and how technology and magic mix. There is no established "science plus magic" balance yet; that is the author's leaning, not canon. Guardrail while it is open: no casual industrial anachronism (Gaara does not offhandedly build a steam engine); if advanced tech or printing enters, it enters deliberately and on the page, framed as hand-tools plus magic. See section 7 and threads 13.
 
 The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
@@ -787,6 +828,45 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Forty houses of stone and thatch, an hour south of the ruin.
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
+
+The channel (ch8) - the biggest single find so far
+- The stream out of the ruin is not a stream. It is a built drain: dressed stone
+  laid to a fall of about one foot in forty, and the fall does not vary, so it
+  was measured. A stone tube a little over head height, arched, with a rib every
+  forty paces and a SLOT cut either side at every rib. It could be shut in
+  sections. You do not gate a drain to hold water in.
+- IT FORKS. The north leg runs up into and under the dead city. The south leg is
+  DRY, and it runs under the fields and under the old paved road, towards
+  Oldstep. The silt in it has been travelled many times, in one direction, and
+  the freshest of it is new.
+  So the attack in ch6 did not come down the road. It came UNDER it. Nobody in
+  the village knows this yet. Their houses sit on the thing's corridor.
+- (ch8) The crawlers are LEAVING, not hunting. One came down the tube at speed,
+  filling it almost to the arch, and went past two people at eighteen inches
+  without stopping, turning or looking. Whatever is behind them frightens them
+  more than food interests them.
+- (ch8) Four dead crawlers in a hall where the roof has gone, all with a single
+  clean entry at the seam behind the skull, all left whole. Nothing taken, not a
+  leg, not the meat behind the plate. Somebody kills them and eats nothing.
+  Gaara: that is not how anything feeds. That is a corridor being cleared, or
+  defended. Marit supplies the second half of that sentence.
+- (ch8) SOMEBODY USES THIS PLACE. A fire on a dry ledge, carefully buried under
+  a stone that does not match the hall, and deep enough to be many fires and not
+  one. Twelve feet of three-strand hemp rope, cut clean and coiled, made the way
+  villages make it and not the way a city would (Marit, who cannot say whose it
+  is, only where it is from). And a path worn in the silt: two feet, and beside
+  them every second stride a round mark about the width of a thumb, pressed
+  SHALLOW. Whatever made it touched down every time and was never leaned on.
+  Gaara does not identify it. The reader can (thread 18).
+- (ch8) THE GATE. The head of the north leg is closed by an iron gate thicker
+  than his arm, set in dressed stone, filling the channel floor to arch. It sat
+  shut long enough to wear a line into the frame. It is now RAISED eighteen
+  inches and propped on two squared blocks carried in from somewhere else.
+  Not broken, not rusted through, not forced from behind. Opened, from this
+  side, deliberately, by someone with tools and a reason. Eighteen inches is
+  exactly enough for the thing that went past them in the tube.
+  Chapter ends on it. "Something changed in spring." "No. Somebody did."
+  WHAT IS BEHIND THE GATE IS NOT ESTABLISHED. That is chapter 9.
 
 The night they came into Oldstep (ch6, and its reckoning in ch7)
 - On Gaara's first night in the village, three Gloom Crawlers came down the old
@@ -857,7 +937,11 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 1. The system can write into his head. He filed this and intends to come back to it.
 2. Everyone has levels. Is anyone else aware of theirs?
 3. What broke the city, and is it still there.
-4. Why the crawlers started leaving the ruin in spring.
+4. Why the crawlers started leaving the ruin in spring. LARGELY ANSWERED in ch8
+   and it only makes things worse: they are running from something, down a road
+   that was built for water, through a gate that a person raised eighteen inches
+   and propped open. The remaining question is not why they left. It is what
+   they left, and who opened the door.
 5. Class is still None. No trigger seen yet.
 6. MP 60 unused. Magic unencountered.
 7. The war in the east, and a lord who does not answer letters.

@@ -33,7 +33,12 @@ other half: him planning a fight around another person ON PURPOSE, and hating
 it. He has now paid for planning around nobody. He has not yet chosen to plan
 around somebody.
 Planning for one when there are two of you gets someone hurt. This must actually happen. The lesson is not "companions are good," it is "if you take one, you have to plan differently, and half-committing is how people die."
-Milestone: he plans a fight around Marit rather than around himself, on purpose, and hates it.
+Milestone: PAID, ch8. In the tube, with something coming and nowhere to stand,
+he has a second and a half and he spends it assigning her a slot and taking the
+other one himself. He does it on purpose, he tells her not to come out for him,
+and the narration says plainly that he liked none of the arithmetic. Note the
+order this landed in: ch6 he paid for planning around nobody, ch8 he chooses to
+plan around somebody. The cost came first, which is the right way round.
 
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
@@ -112,6 +117,9 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
+Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
+HP 165, CON 9, MP 60 untouched, Dagger Mastery E. Three chapters now without a
+number moving, on purpose: the ladder does not go up in that road, it goes in.
 Chapter 7: no mechanical change. No panel at all except the one he does not get.
 Gear unchanged, three days of bread confirmed, and Marit leaves with him hurt.
 

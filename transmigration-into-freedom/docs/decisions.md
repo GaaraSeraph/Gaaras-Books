@@ -22,6 +22,26 @@ never take him anywhere. He works that out kneeling in the blood, because that
 is what he has instead of grief, and it points him at the ruin. A chapter with a
 large fight and no reward is a deliberate choice, not an omission.
 
+=== Chapter 8 answers the crawler question by making it worse ===
+The first arc asked why the crawlers started coming out in spring. Answering it
+with a bigger monster would have been the cheap version. Instead the answer is
+infrastructure and a person: the stream is a built drain with sectional gates,
+it forks, and the dry south leg runs under the village. The crawlers are running
+away from something, not hunting. Four of them lie dead in a hall with one clean
+wound each and nothing eaten. And the head of the channel is an iron gate that
+sat shut for centuries and has been raised eighteen inches and propped on blocks
+somebody carried in.
+So the last line of the chapter is the whole first arc turning over: something
+changed in spring, no, somebody did.
+Three things this buys. The ch6 attack is retroactively explained and the
+village is retroactively unsafe, because they came under the road and the houses
+sit on the corridor. The tech level gets its first real evidence, and it is
+civil engineering rather than magic, which keeps the open question open while
+still paying the reader. And the stick in the silt puts thread 18 in front of
+the reader without Gaara reaching it, because he has known Hallvard for two days
+and has no reason to think about a walking stick.
+What is behind the gate is deliberately not established. That is chapter 9.
+
 === Gaara does not shut up, and the silence has to be earned ===
 The author: too few remarks, too few asides, too little crudeness - he would
 never keep his mouth shut. Correct, and it had been true since chapter 3. In ch2
