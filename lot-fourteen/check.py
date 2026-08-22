@@ -104,6 +104,23 @@ def check(path):
         warns.append(f"Fragezeichen pruefen: {q}")
 
     days = []
+    # Spannen zuerst: "Days 27 to 28 · Thursday 30 to Friday 31 October".
+    # Die Schleife darunter kann sie nicht lesen, weil words_to_int an
+    # "27 to 28" None zurueckgibt. Ohne diesen Durchgang wurde die Zeile
+    # stillschweigend uebersprungen und danach als fehlend gemeldet.
+    for mm in re.finditer(r"Days ([A-Za-z0-9\-]+) to ([A-Za-z0-9\-]+) · "
+                          r"([A-Za-z]+) (\d+) to ([A-Za-z]+) (\d+)", t):
+        for d_raw, wd_txt, dd_txt in ((mm.group(1), mm.group(3), mm.group(4)),
+                                      (mm.group(2), mm.group(5), mm.group(6))):
+            d = words_to_int(d_raw)
+            if not d:
+                continue
+            days.append(d)
+            wd, dd, mo = expected(d)
+            if wd_txt != wd or int(dd_txt) != dd:
+                errs.append(f"Datumszeile: Tag {d} ist {wd}, der {dd}. {mo}, im Text steht "
+                            f"{wd_txt} {dd_txt}")
+
     for mm in re.finditer(r"Days? ([A-Za-z0-9\- ]+?) · ([A-Za-z]+) (\d+)(?: ([A-Za-z]+))?", t):
         d = words_to_int(mm.group(1))
         if not d:
