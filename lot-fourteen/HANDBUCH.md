@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.645 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 37.903 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -74,6 +74,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Bekannte Baustellen, Stand nach Kapitel 17](#bekannte-baustellen-stand-nach-kapitel-17)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
+  - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
   - ["Thank you" ist ein Mittel und keine Wiederholung](#thank-you-ist-ein-mittel-und-keine-wiederholung)
   - [Was in Fassung 1.9 repariert wurde](#was-in-fassung-1-9-repariert-wurde)
   - [Was aus dem Rohverlauf nicht übernommen wird](#was-aus-dem-rohverlauf-nicht-bernommen-wird)
@@ -1723,6 +1724,36 @@ und warum, nicht nur was gilt.
 - **Die Protokollszene.** Annie kann ihm keinen Regelbruch vorwerfen, den es noch nicht gibt, und tut es auch nicht. Sie verweigert ihm stattdessen die Regel.
 - **Der Wachmann als Menschenkenner.** Er analysiert Georgij nicht und bekommt von Annie kein Lob.
 - **Der Brieföffner.** Ersetzt durch die Nagelschere aus dem Maniküre-Etui.
+
+---
+
+### Im Keller gilt kein Handyverbot
+
+**Entschieden: es gibt keins, und es darf keins geben.**
+
+Aufgekommen an einem Plakatentwurf, der neben dem Podium ein Schild mit
+`NO PHONES` trug. Sieht plausibel aus fuer ein Haus, das auf Unsichtbarkeit
+gebaut ist. Es kostet aber drei Stellen, und die dritte ist teuer:
+
+- `ch01:70` - Georgijs Beweis, dass der Mann in der zweiten Reihe fremdes Geld
+  bietet: *"both times he stopped to look at his phone before he raised his
+  hand. He isn't checking a message. He's checking a figure, and he didn't set
+  it."* Ohne Telefon gibt es die drei Sekunden nicht, in denen er ihn ruiniert.
+- `ch01:80` - der Moment, in dem der Saal kippt: *"Two of the middlemen at the
+  front already had their phones in their hands."*
+- `ch02:86` - und hier wird es tragend. Georgij baut in der Auffahrt sein
+  ganzes Angebot darauf: *"He read a figure off his phone before every raise.
+  Somebody set that figure and somebody stood behind him in the room tonight.
+  That somebody has money and no face."*
+
+Das ist die Herkunft des **Namens des Garanten**, also des Fadens, der ueber
+Kapitel 6, 11, 12 und 15 laeuft und den Annie bis heute nicht herausgibt. Ein
+Handyverbot nimmt nicht eine huebsche Beobachtung weg, sondern den Ursprung des
+zentralen offenen Fadens.
+
+**Was stattdessen geht:** Das Haus verbietet Namen, nicht Geraete. `ch01:12`
+sagt es schon: *"A notary signed it. A bank recorded it. Nobody had to say
+anything out loud."* Ein Schild mit `NO NAMES` ist Kanon, `NO PHONES` nicht.
 
 ---
 

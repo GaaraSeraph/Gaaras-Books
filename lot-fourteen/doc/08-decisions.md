@@ -19,6 +19,36 @@ und warum, nicht nur was gilt.
 
 ---
 
+### Im Keller gilt kein Handyverbot
+
+**Entschieden: es gibt keins, und es darf keins geben.**
+
+Aufgekommen an einem Plakatentwurf, der neben dem Podium ein Schild mit
+`NO PHONES` trug. Sieht plausibel aus fuer ein Haus, das auf Unsichtbarkeit
+gebaut ist. Es kostet aber drei Stellen, und die dritte ist teuer:
+
+- `ch01:70` - Georgijs Beweis, dass der Mann in der zweiten Reihe fremdes Geld
+  bietet: *"both times he stopped to look at his phone before he raised his
+  hand. He isn't checking a message. He's checking a figure, and he didn't set
+  it."* Ohne Telefon gibt es die drei Sekunden nicht, in denen er ihn ruiniert.
+- `ch01:80` - der Moment, in dem der Saal kippt: *"Two of the middlemen at the
+  front already had their phones in their hands."*
+- `ch02:86` - und hier wird es tragend. Georgij baut in der Auffahrt sein
+  ganzes Angebot darauf: *"He read a figure off his phone before every raise.
+  Somebody set that figure and somebody stood behind him in the room tonight.
+  That somebody has money and no face."*
+
+Das ist die Herkunft des **Namens des Garanten**, also des Fadens, der ueber
+Kapitel 6, 11, 12 und 15 laeuft und den Annie bis heute nicht herausgibt. Ein
+Handyverbot nimmt nicht eine huebsche Beobachtung weg, sondern den Ursprung des
+zentralen offenen Fadens.
+
+**Was stattdessen geht:** Das Haus verbietet Namen, nicht Geraete. `ch01:12`
+sagt es schon: *"A notary signed it. A bank recorded it. Nobody had to say
+anything out loud."* Ein Schild mit `NO NAMES` ist Kanon, `NO PHONES` nicht.
+
+---
+
 ### "Thank you" ist ein Mittel und keine Wiederholung
 
 **Entschieden: bleibt, wie es ist. Nicht ausdünnen.**
