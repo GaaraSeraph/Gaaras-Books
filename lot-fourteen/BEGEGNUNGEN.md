@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 244 | 22 (01-24) | 1 | 55 |
+| Annie | 245 | 23 (01-25) | 1 | 59 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
-| Chairman Woo | 76 | 14 (07-24) | 22 | 55 |
-| Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
+| Chairman Woo | 82 | 15 (07-25) | 22 | 59 |
+| Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
-| Mrs Seo | 44 | 14 (03-24) | 1 | 55 |
+| Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-244 Nennungen in 22 Kapiteln.
+245 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -298,6 +298,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:324 | Annie looked out at the place where the other thing had gone in. |
 | 55 | ch24:338 | "The car is at the end," said Annie. |
 | 55 | ch24:350 | Annie looked out of her side of it. |
+| 59 | ch25:20 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -512,7 +513,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-76 Nennungen in 14 Kapiteln.
+82 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -592,6 +593,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 55 | ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 59 | ch25:44 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
+| 59 | ch25:52 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
+| 59 | ch25:226 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
+| 59 | ch25:250 | "The photographer goes at nine," said Woo. |
+| 59 | ch25:268 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
+| 59 | ch25:278 | "Good," said Woo. "Do not do it again this year." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -631,12 +638,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:354` (Tag 49) - six
 - `ch23:188` (Tag 55) - four
 - `ch24:106` (Tag 55) - one
+- `ch25:44` (Tag 59) - one, three
+- `ch25:52` (Tag 59) - three
+- `ch25:226` (Tag 59) - two
+- `ch25:250` (Tag 59) - nine
 
 ---
 
 ## Park Sang-hoon
 
-63 Nennungen in 11 Kapiteln.
+64 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -703,6 +714,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
 | 55 | ch22:138 | "Well," said Sang-hoon. |
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
+| 59 | ch25:290 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -731,6 +743,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:54` (Tag 55) - fifteen
 - `ch22:66` (Tag 55) - six, two
 - `ch23:28` (Tag 55) - four
+- `ch25:290` (Tag 59) - forty, seven, twelve
 
 ---
 
@@ -836,7 +849,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-44 Nennungen in 14 Kapiteln.
+45 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -884,6 +897,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 55 | ch24:364 | Mrs Seo had the small room off the long one laid for two. |
+| 59 | ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -910,6 +924,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:280` (Tag 55) - eleven
 - `ch24:44` (Tag 55) - eight, one
 - `ch24:364` (Tag 55) - one, two
+- `ch25:8` (Tag 59) - one, two
 
 ---
 

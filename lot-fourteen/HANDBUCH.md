@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 59.231 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 59.785 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1354,7 +1354,9 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
 - Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
 - Tag 52, Mo 24. November: das Gebot geht raus
-- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22), in derselben Nacht die Mapo-Bruecke (Kapitel 23)
+- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22), in derselben Nacht die Mapo-Bruecke (Kapitel 23 und 24)
+- Tag 59, Mo 1. Dezember: die Vollmacht wird gezeichnet, Mr Chaes erster Auftritt, der Anruf bei Woo (Kapitel 25)
+- Tag 62, Do 4. Dezember: Sang-hoon kauft die vierzig Prozent von Hanseong (Schluss von Kapitel 25)
 
 ### Die Fahrerwoche
 
@@ -1399,6 +1401,13 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 25** *The name on the paper* (v1.0) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
+
+  **Der Nachname, und warum er nicht im Text steht.** Georgijs Papiere wurden in der zweiten Oktoberwoche *regularisiert*; jemand hat an einem Schreibtisch gesessen und einem Mann einen Nachnamen gegeben, damit ein Dokument haelt, und ist danach essen gegangen. **Der Text nennt ihn nicht, weil Georgij ihn nicht ablegt** - und das ist der Reim zu Kapitel 24: Vier Naechte vorher sind zwei Silben sofort an den Platz gegangen, an dem er ein Gesicht an einer Tuer und eine Zahl am Rand aufbewahrt, und dort geblieben. Dieser hier faengt sich an nichts. *"He let it go, and it was his own."*
+
+  **Seine Unterschrift entsteht in zwei Sekunden** und wird die bleiben, die er sein Leben lang benutzt: der gedruckte Name in einer Hand ohne Schnoerkel, *"the signature of a competent man of no particular background, which is precisely what it was."*
+
+  **Und Chae zieht eine Grenze, die spaeter zaehlt:** Es gibt eine vierte Gegenpartei, die nicht auf dem Papier steht. Wenn Annie Georgij je bittet, ihr gegenueber zu zeichnen, ist das nicht dieses Instrument, und er soll vorher anrufen. *"Would you take that call?" - "I would take that call, on a Sunday."*
 - **Kapitel 24** *Have you eaten* (v1.4) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
 
   **Der Fehler mit der Vollmacht ist seiner, und das ist entscheidend.** Er hat den Preis verlangt, die Form gewaehlt und sie *payment* genannt; sie hat innerhalb einer Minute geliefert. Ihre Zeile *"Do not thank me for that. It is what it costs"* ist richtig - sie erkennt an, dass sie schuldet. **Eine Fassung, in der er ihr das vorwirft, ist unlogisch**, und genau die stand hier zuerst.
@@ -3437,12 +3446,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 244 | 22 (01-24) | 1 | 55 |
+| Annie | 245 | 23 (01-25) | 1 | 59 |
 | Hana | 99 | 9 (09-23) | 22 | 55 |
-| Chairman Woo | 76 | 14 (07-24) | 22 | 55 |
-| Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
+| Chairman Woo | 82 | 15 (07-25) | 22 | 59 |
+| Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
-| Mrs Seo | 44 | 14 (03-24) | 1 | 55 |
+| Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
@@ -3469,7 +3478,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-244 Nennungen in 22 Kapiteln.
+245 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3717,6 +3726,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:324 | Annie looked out at the place where the other thing had gone in. |
 | 55 | ch24:338 | "The car is at the end," said Annie. |
 | 55 | ch24:350 | Annie looked out of her side of it. |
+| 59 | ch25:20 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3931,7 +3941,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-76 Nennungen in 14 Kapiteln.
+82 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4011,6 +4021,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch21:354 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 55 | ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 59 | ch25:44 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
+| 59 | ch25:52 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
+| 59 | ch25:226 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
+| 59 | ch25:250 | "The photographer goes at nine," said Woo. |
+| 59 | ch25:268 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
+| 59 | ch25:278 | "Good," said Woo. "Do not do it again this year." |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4050,12 +4066,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:354` (Tag 49) - six
 - `ch23:188` (Tag 55) - four
 - `ch24:106` (Tag 55) - one
+- `ch25:44` (Tag 59) - one, three
+- `ch25:52` (Tag 59) - three
+- `ch25:226` (Tag 59) - two
+- `ch25:250` (Tag 59) - nine
 
 ---
 
 ### Park Sang-hoon
 
-63 Nennungen in 11 Kapiteln.
+64 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4122,6 +4142,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
 | 55 | ch22:138 | "Well," said Sang-hoon. |
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
+| 59 | ch25:290 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -4150,6 +4171,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:54` (Tag 55) - fifteen
 - `ch22:66` (Tag 55) - six, two
 - `ch23:28` (Tag 55) - four
+- `ch25:290` (Tag 59) - forty, seven, twelve
 
 ---
 
@@ -4255,7 +4277,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-44 Nennungen in 14 Kapiteln.
+45 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4303,6 +4325,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
 | 55 | ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 55 | ch24:364 | Mrs Seo had the small room off the long one laid for two. |
+| 59 | ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4329,6 +4352,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch22:280` (Tag 55) - eleven
 - `ch24:44` (Tag 55) - eight, one
 - `ch24:364` (Tag 55) - one, two
+- `ch25:8` (Tag 59) - one, two
 
 ---
 

@@ -40,7 +40,9 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
 - Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
 - Tag 52, Mo 24. November: das Gebot geht raus
-- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22), in derselben Nacht die Mapo-Bruecke (Kapitel 23)
+- Tag 55, Do 27. November: Sang-hoon kommt ins Haus, die Preisfrage, der Bruch (Kapitel 22), in derselben Nacht die Mapo-Bruecke (Kapitel 23 und 24)
+- Tag 59, Mo 1. Dezember: die Vollmacht wird gezeichnet, Mr Chaes erster Auftritt, der Anruf bei Woo (Kapitel 25)
+- Tag 62, Do 4. Dezember: Sang-hoon kauft die vierzig Prozent von Hanseong (Schluss von Kapitel 25)
 
 ### Die Fahrerwoche
 
@@ -85,6 +87,13 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 25** *The name on the paper* (v1.0) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
+
+  **Der Nachname, und warum er nicht im Text steht.** Georgijs Papiere wurden in der zweiten Oktoberwoche *regularisiert*; jemand hat an einem Schreibtisch gesessen und einem Mann einen Nachnamen gegeben, damit ein Dokument haelt, und ist danach essen gegangen. **Der Text nennt ihn nicht, weil Georgij ihn nicht ablegt** - und das ist der Reim zu Kapitel 24: Vier Naechte vorher sind zwei Silben sofort an den Platz gegangen, an dem er ein Gesicht an einer Tuer und eine Zahl am Rand aufbewahrt, und dort geblieben. Dieser hier faengt sich an nichts. *"He let it go, and it was his own."*
+
+  **Seine Unterschrift entsteht in zwei Sekunden** und wird die bleiben, die er sein Leben lang benutzt: der gedruckte Name in einer Hand ohne Schnoerkel, *"the signature of a competent man of no particular background, which is precisely what it was."*
+
+  **Und Chae zieht eine Grenze, die spaeter zaehlt:** Es gibt eine vierte Gegenpartei, die nicht auf dem Papier steht. Wenn Annie Georgij je bittet, ihr gegenueber zu zeichnen, ist das nicht dieses Instrument, und er soll vorher anrufen. *"Would you take that call?" - "I would take that call, on a Sunday."*
 - **Kapitel 24** *Have you eaten* (v1.4) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
 
   **Der Fehler mit der Vollmacht ist seiner, und das ist entscheidend.** Er hat den Preis verlangt, die Form gewaehlt und sie *payment* genannt; sie hat innerhalb einer Minute geliefert. Ihre Zeile *"Do not thank me for that. It is what it costs"* ist richtig - sie erkennt an, dass sie schuldet. **Eine Fassung, in der er ihr das vorwirft, ist unlogisch**, und genau die stand hier zuerst.
