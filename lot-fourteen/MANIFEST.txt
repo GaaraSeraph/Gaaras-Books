@@ -14,11 +14,11 @@ ch11  v2.7       2724 Woerter  ch11_v2_7_en.md
 ch12  v1.7       2350 Woerter  ch12_v1_7_en.md
 ch13  v2.4       2828 Woerter  ch13_v2_4_en.md
 ch14  v7.5       2604 Woerter  ch14_v7_5_en.md
-ch15  v2.3       4210 Woerter  ch15_v2_3_en.md
-ch16  v1.14      3200 Woerter  ch16_v1_14_en.md
-ch17  v12.7       2694 Woerter  ch17_v12_7_en.md
-ch18  v2.3       2966 Woerter  ch18_v2_3_en.md
-ch19  v1.2       3203 Woerter  ch19_v1_2_en.md
+ch15  v2.4       4210 Woerter  ch15_v2_4_en.md
+ch16  v1.15      3200 Woerter  ch16_v1_15_en.md
+ch17  v12.8       2694 Woerter  ch17_v12_8_en.md
+ch18  v2.4       2966 Woerter  ch18_v2_4_en.md
+ch19  v1.3       3203 Woerter  ch19_v1_3_en.md
 
 Gesamt: 19 Kapitel, 57207 Woerter
 Handbuch: 9 Dokumente

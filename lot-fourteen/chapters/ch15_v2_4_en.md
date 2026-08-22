@@ -1,7 +1,7 @@
-Chapter 15: Four thousand two hundred
-Lot Fourteen · Version 2.3 · EN
+# Chapter 15: Four thousand two hundred
+*Lot Fourteen* · Version 2.4 · EN
 
-Day Forty-One · Thursday 13 November
+## Day Forty-One · Thursday 13 November
 
 Hana came at seven and did not bring anybody with her.
 
@@ -17,7 +17,7 @@ She stopped in the hall for a moment beside the stone shelf with the shallow bow
 
 "Good," said Hana, and gave him her coat.
 
-* * *
+---
 
 They ate in the small room off the long one. Mrs Seo had laid it for three without being told how to lay it for three.
 
@@ -29,7 +29,7 @@ Then Annie put both hands on the table.
 
 "Everything," she said. "In whatever order it comes."
 
-* * *
+---
 
 He gave them the room first, because the room was what they did not have.
 
@@ -103,7 +103,7 @@ Annie put her glass down.
 
 Annie did not tell him he had read it wrongly, and did not tell him he had read it correctly either.
 
-* * *
+---
 
 "Something closed while you were talking that has been open for three weeks," said Georgij. "I will say it now, before we go on."
 
@@ -131,7 +131,7 @@ Hana looked at him for a moment.
 
 "No," said Annie. "That's why I'm still listening."
 
-"May I ask something that is not about Incheon."
+"May I ask something that is not about Incheon?"
 
 "You may."
 
@@ -167,7 +167,7 @@ Hana looked at him with her chin down for a moment, and then said, in a complete
 
 "He does," said Annie.
 
-* * *
+---
 
 Then the rest of it.
 
@@ -207,7 +207,7 @@ There was about a second and a half in which Georgij could have said several thi
 
 "It's the night I was bought," he said.
 
-* * *
+---
 
 The room went on being a room.
 
@@ -235,7 +235,7 @@ Annie said nothing whatsoever.
 
 She drank some water and put the glass down without a sound, and she had had the name of the man who stood behind the man in the second row since Georgij's first week in that house.
 
-* * *
+---
 
 "One more thing, and I am going to say it in front of you rather than do it quietly," said Georgij.
 
@@ -259,19 +259,19 @@ Hana laughed, and it was the real one, the one she had given him once before on 
 
 "None of my business how you work," she said. "Pull it."
 
-* * *
+---
 
 Then he put the document on the table.
 
 It had taken him six days and it ran to nineteen pages and it was the best thing he had produced since he came into the house.
 
-Every figure in it was published. Every claim in it was true. Where something was a rumour it said so, and said how many mouths it had come through. Where he was guessing it said this is a guess, in the same size type as everything else. Which is a thing almost nobody does, because it makes a document look weaker and makes it worth a great deal more.
+Every figure in it was published. Every claim in it was true. Where something was a rumour it said so, and said how many mouths it had come through. Where he was guessing it said *this is a guess*, in the same size type as everything else. Which is a thing almost nobody does, because it makes a document look weaker and makes it worth a great deal more.
 
 It was the most honest piece of work he had ever done and he had written all of it for one reader.
 
 He gave them the whole of it in eight minutes. Six months of outflow, a board in two halves since March, two rumours from two unconnected mouths, and four shipping routes with real berths that were worth what they were worth regardless of any of it.
 
-"Everything in there is true," he said. "There is nothing in it I have shaded. Where it is a rumour it says so and it says how many people it came through. Where I am guessing it says this is a guess."
+"Everything in there is true," he said. "There is nothing in it I have shaded. Where it is a rumour it says so and it says how many people it came through. Where I am guessing it says *this is a guess*."
 
 "And what is it for?" said Annie.
 
@@ -331,7 +331,7 @@ Nobody supplied a word for it, and nobody looked as though they were looking for
 
 "Hanseong has four thousand two hundred employees," said Georgij.
 
-* * *
+---
 
 Nobody spoke for a moment.
 
@@ -355,7 +355,7 @@ Hana did not answer straight away, which Georgij noticed and was glad of.
 
 "I'm the only thing at it that has already been sold," said Georgij, "and he has already asked me what I went for."
 
-* * *
+---
 
 Hana put both hands on the table.
 
@@ -405,7 +405,7 @@ Georgij inclined his head, and did not say anything, because there was nothing t
 
 "Yes," said Annie. "You would."
 
-* * *
+---
 
 They finished at ten past eleven.
 
@@ -427,7 +427,7 @@ Then, to Georgij, at the door:
 
 She went out to her car.
 
-* * *
+---
 
 "The eighteenth," said Annie, when the door had closed.
 

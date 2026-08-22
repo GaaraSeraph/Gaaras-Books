@@ -273,6 +273,36 @@ ploetzlich zwei Absaetze bekommt, stimmt die Verteilung nicht.
 
 Sie erklaert nichts. Sie gibt nichts her, was sie nicht hergeben wuerde.
 
+**Fragezeichen: drei Klassen, nicht eine.** *Korrigiert am 22.08.*, nachdem ich
+zweimal eine berechtigte Ruege mit einer falschen Zaehlung abgewehrt habe.
+
+Annie, Sang-hoon und Woo sprechen oft in flachen Aufforderungen statt in Fragen,
+und das ist Figurenzeichnung: Leute mit Macht fragen nicht, sie fordern auf. Nur
+gilt das fuer **zwei** Satzarten und nicht fuer drei.
+
+| Art | Beispiel | Satzzeichen |
+|---|---|---|
+| Aufforderung | *"Say the rest." "Go on." "Tell me now."* | Punkt |
+| Behauptung als Aufforderung | *"And you want." "And it's all true." "So she never has to sign."* | Punkt. **Das ist das Geraet** |
+| **Echte Frage** | *"Why." "What does it cost me." "Which is sixteen."* | **Fragezeichen** |
+
+**Die Probe:** Fragt die Zeile nach etwas, das der Sprecher nicht weiss? Dann ist
+es eine Frage, egal wie hart die Figur ist. *"And you want"* ist eine Behauptung,
+weil Sang-hoon weiss, dass Georgij etwas will, und ihm nur den Rahmen hinlegt.
+*"Which is"* ist eine Frage, weil Annie die Antwort nicht hat.
+
+**Wie der Fehler entstanden ist**, damit er sich nicht wiederholt: `check.py`
+meldet *"Fragezeichen pruefen"*, und ich habe die Meldung zweimal als
+stilistisches Geraet abgetan, gestuetzt auf eine Zaehlung von siebenundsiebzig
+flachen Aufforderungen im ganzen Buch. Die Zaehlung warf alle drei Klassen
+zusammen. Getrennt nachgezaehlt standen **saemtliche echten Fragen mit Punkt in
+den Kapiteln 16 bis 19**, also in dem, was an einem Tag geschrieben wurde. Die
+siebzehn Kapitel davor machen es nirgends. Es war kein Geraet, es war ein
+frischer Tic.
+
+**Merke:** Eine Statistik, die drei Sorten in einen Topf wirft, verteidigt
+zuverlaessig den Fehler, den sie enthaelt.
+
 ### Zahlen
 
 Dieselbe Zahl nicht zu oft. Elf und neun sind im Buch bereits stark belastet.

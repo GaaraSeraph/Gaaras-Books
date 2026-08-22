@@ -23,11 +23,11 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 12 | v1.7 | 2.350 |
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
-| 15 | v2.3 | 4.210 |
-| 16 | v1.14 | 3.200 |
-| 17 | v12.7 | 2.694 |
-| 18 | v2.3 | 2.966 |
-| 19 | v1.2 | 3.203 |
+| 15 | v2.4 | 4.210 |
+| 16 | v1.15 | 3.200 |
+| 17 | v12.8 | 2.694 |
+| 18 | v2.4 | 2.966 |
+| 19 | v1.3 | 3.203 |
 
 ---
 
@@ -4092,7 +4092,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4224,7 +4224,7 @@ Hana looked at him for a moment.
 
 "No," said Annie. "That's why I'm still listening."
 
-"May I ask something that is not about Incheon."
+"May I ask something that is not about Incheon?"
 
 "You may."
 
@@ -4539,7 +4539,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4613,7 +4613,7 @@ Park Sang-hoon looked at him for the first time since he had sat down.
 
 "Most men will therefore be lied to by me the moment it matters, and they will not know when," said Georgij. "You would. You would know inside a minute, and then everything else I had said all evening would be worth nothing, including the part I came here to give you."
 
-"And the third thing."
+"And the third thing?"
 
 "The third is not a method, it is a fact, and you are going to have it from me instead of working it out." He said it without any weight anywhere. "I belong to one person. She paid a great deal for me and she did it recently, and she has had nothing back yet worth the money."
 
@@ -4890,7 +4890,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.7 · EN
+*Lot Fourteen* · Version 12.8 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4938,7 +4938,7 @@ It did not take its time now.
 
 "Four to six weeks. Half that board wants out badly enough to sign anything, and will sign cheaply, and that is the half he will sit down with."
 
-"And then."
+"And then?"
 
 "Then he is bound. He will have paid for four routes and bought a fight with the half that would not sit in a room." He sat back. "He will win it. He took Pyeongtaek apart one director at a time and he is better at that than anybody in this country. It will take him a quarter, and he thinks he has a quarter, because he told me on Tuesday that a family takes two years."
 
@@ -4992,7 +4992,7 @@ Georgij did not answer straight away.
 
 "On the exact thing she is asking us to protect, which is the best reason we have to believe every word she said that evening. She cannot afford for the designation to move and she cannot afford for this to fail, and nobody can outbid not being ruined."
 
-"And the other side of it."
+"And the other side of it?"
 
 "Then it is a question of who holds the paper." He said it flatly. "A charge is an asset. It is bought and it is sold. A regional bank in Incheon will let a position go at a discount to anybody who telephones in a bad quarter, and nobody there will ask what he wants it for.
 
@@ -5153,7 +5153,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5251,13 +5251,13 @@ He found Annie in the study at eleven.
 
 "He has read it twice and corrected it in four places, and he has put page sixteen on top."
 
-"Which is sixteen."
+"Which is sixteen?"
 
 "The board that split in March, and the four men who stopped coming." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read when you have decided and you are choosing which of them to telephone."
 
 Annie turned her chair a quarter turn.
 
-"How long."
+"How long?"
 
 "I told you four to six weeks on Tuesday. I was wrong by half." He said it flatly and did not soften it. "He will have it inside a fortnight. He was already working when he sent this back, and he sent it back early, and both of those are the same fact."
 
@@ -5289,7 +5289,7 @@ Annie put down the pen she had not been using.
 
 ---
 
-"How does it lose."
+"How does it lose?"
 
 "You bid for the whole of it."
 
@@ -5375,7 +5375,7 @@ There it was.
 
 "He has money and he has had it for fifty years and it has never once made him do anything." A small pause. "He owns one thing he cares about. It is a terminal on Yeongjong that he built in ten months after nine years of being told it could not be done, and he is seventy-eight, and he has told me what happens to it when he dies."
 
-"Which is."
+"Which is?"
 
 "It is sold within a year and split three ways, and one of the three is Sang-hoon." Georgij turned his hand over. "He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
 
@@ -5409,15 +5409,15 @@ Annie was quiet for a while.
 
 ---
 
-"What does it cost me."
+"What does it cost me?"
 
 "I do not know yet, and that is the honest answer." He said it immediately. "The volumes are yours and the rate is his, and he has been setting terminal rates since before I was born. I would like your authority to agree it in the room."
 
-"How much authority."
+"How much authority?"
 
 "More than I expect to use." Georgij said it without any decoration anywhere. "I am telling you that on purpose, because you would find it out afterwards and then it would be a different conversation. I expect to settle near the middle of what a terminal of that size charges. I would like to be able to go to the top of it without telephoning you."
 
-"Why."
+"Why?"
 
 "Because he is seventy-eight and he does not do business on Mondays with people who had to ask."
 
@@ -5464,7 +5464,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5710,7 +5710,7 @@ They sat with that.
 
 "No."
 
-"Why then."
+"Why then?"
 
 "Because you told me the truth about a dead man and a wet March and a fund in Singapore, and none of it was work for you." Georgij did not look away. "And because I would like you to win this. That is not a strategy, Chairman. It is just true, and I have had very little use for it."
 
@@ -5734,7 +5734,7 @@ The room went on being a room.
 
 "He waits," said Georgij.
 
-"He waits." The old man sat back. "What does she take from the Kims. Not the lorries. Say it."
+"He waits." The old man sat back. "What does she take from the Kims? Not the lorries. Say it."
 
 "Shares, security and a veto over routes."
 
@@ -5762,7 +5762,7 @@ The room went on being a room.
 
 ---
 
-"Then why tell me at all."
+"Then why tell me at all?"
 
 "Because you will find it out in about a year, on a bad day, from somebody who wants something from you." Woo pushed the cup across. "You will find it out better from me, in a cold office, on an afternoon you got what you came for."
 
