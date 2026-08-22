@@ -3,6 +3,25 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== No level up in chapter 6, and the reason is a rule I had broken ===
+The chapter first shipped with Level 3 landing over the body. The author caught
+it: two kills for level 2, two more for level 3, fast and linear. The pacing
+rule in character-arc.md says in as many words that level 3 must cost more than
+two crawlers, and the draft satisfied it only on the running total (four kills)
+while the price per level had not moved at all. The rule was rewritten to say
+which number it is about.
+The fix turned out to be worth more than the beat it replaced. The panel still
+opens at that moment, but it is not for him: it opens over the dead man and
+hands over his name. Osvald, Level 4, Human, in the same size and colour it uses
+for a goat. Gaara fought beside him for the length of a fight and never asked,
+and Bern - who lived - had given his own name unprompted before it started, in
+case. The prose calls the dead man Osvald only from that line onward.
+And the absent level does work of its own: two crawlers bought a whole level at
+Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
+never take him anywhere. He works that out kneeling in the blood, because that
+is what he has instead of grief, and it points him at the ruin. A chapter with a
+large fight and no reward is a deliberate choice, not an omission.
+
 === Chapter 6 was thrown away and rebuilt as an attack ===
 The first Chapter 6 was a preparation chapter: a night in the byre, four
 witnesses delivering information, a map drawn in the dirt, and Marit at the gate

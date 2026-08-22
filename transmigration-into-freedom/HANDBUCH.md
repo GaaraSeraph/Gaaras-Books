@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 8.740 Woerter.
+Alle 4 Dokumente am Stueck. 9.243 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -61,11 +61,15 @@ Bern (ch6), about fifty
 - Took one of the small ones across the back with the axe and survived. The
   first villager to stand next to Gaara rather than look at him.
 
-The man with the hoe (ch5, dead ch6), unnamed
-- In ch5 he held it the way you hold a tool, not a weapon, and then adjusted his
-  hands. In ch6 he came out to help and died holding it the same way.
-- He stays unnamed. He is the cost of a plan built for one man, and a name would
-  make him a character instead of a consequence.
+Osvald, Level 4 (ch5 as a face, ch6 named and dead)
+- The man with the hoe. In ch5 he held it the way you hold a tool, not a weapon,
+  and then adjusted his hands. In ch6 he came out of a door to help a stranger
+  and died holding it the same way, in twelve feet of road Gaara had checked and
+  found empty.
+- He has no name in the prose until he is dead. Then the panel opens over him
+  and gives it, and the narration uses it from that line on. Gaara fought beside
+  him and never asked; Bern gave his own name unprompted before the fighting, in
+  case. That pair is the point and must not be flattened.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
@@ -180,12 +184,18 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: Level 3 after two more kills (four in total). HP 165 to 185. STR 12 to
-13, nothing else automatic, 2 unspent points he does not spend - he is holding a
-wound shut. MP still 60 and still untouched. Skill: still Dagger Mastery E.
+Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
+in total, and the system gives him nothing - because two crawlers were a level's
+worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 8,
+MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
+knowledge that this road leads nowhere, and a name he did not ask for.
 
 Pacing rules
-- Levels should get slower, not faster. Level 3 should cost more than two crawlers.
+- Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
+  the running total. Level 2 cost two crawlers. Level 3 costing two more is the
+  same price, which is linear, which is the failure this rule exists to prevent.
+  It nearly shipped that way in ch6. Level 3 must cost something of a different
+  order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
 - MP 60 stays untouched until Chapter 8 at the earliest. Magic should arrive as a problem, not a present.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
@@ -230,6 +240,25 @@ DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
+
+=== No level up in chapter 6, and the reason is a rule I had broken ===
+The chapter first shipped with Level 3 landing over the body. The author caught
+it: two kills for level 2, two more for level 3, fast and linear. The pacing
+rule in character-arc.md says in as many words that level 3 must cost more than
+two crawlers, and the draft satisfied it only on the running total (four kills)
+while the price per level had not moved at all. The rule was rewritten to say
+which number it is about.
+The fix turned out to be worth more than the beat it replaced. The panel still
+opens at that moment, but it is not for him: it opens over the dead man and
+hands over his name. Osvald, Level 4, Human, in the same size and colour it uses
+for a goat. Gaara fought beside him for the length of a fight and never asked,
+and Bern - who lived - had given his own name unprompted before it started, in
+case. The prose calls the dead man Osvald only from that line onward.
+And the absent level does work of its own: two crawlers bought a whole level at
+Level 1 and buy nothing at Level 2, so grinding the same animal in that road can
+never take him anywhere. He works that out kneeling in the blood, because that
+is what he has instead of grief, and it points him at the ruin. A chapter with a
+large fight and no reward is a deliberate choice, not an omission.
 
 === Chapter 6 was thrown away and rebuilt as an attack ===
 The first Chapter 6 was a preparation chapter: a night in the byre, four
@@ -580,13 +609,21 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
-- (ch6) Levels slow down, as promised. Level 3 arrived after two more kills, so
-  four in total, and it gave less than level 2 did: STR only, plus 2 free points
-  he has NOT spent. HP 165 to 185.
-- (ch6) The system has no opinion and no timing. It reported the level up while
-  a man lay dead four feet away and Gaara had a hand inside Marit's wound. It
-  would have reported exactly the same thing if the road had been empty. This is
-  the tool with a monopoly, made physical: see character-arc.md section 3.
+- (ch6) THE SAME KILLS STOP PAYING. Two crawlers were worth a whole level at
+  Level 1. Two more, at Level 2, are worth nothing at all: no level, no line,
+  no acknowledgement. Gaara infers the reason and it matches the scale he worked
+  out in ch1 - it compresses as it climbs. Load-bearing: grinding the same enemy
+  can never advance him, so advancement has to be gone and found. It is also why
+  he is still Level 2 at the end of ch6.
+- (ch6) The panel opens over the dead. It came up over the man killed in the
+  road, unchanged, the same size and colour it uses for a goat, and it gave
+  Gaara the man's name - Osvald, Level 4, Human. He had fought beside him and
+  never asked. Whether it knows the man is dead is not established and Gaara did
+  not stop to find out.
+- (ch6) The system has no opinion and no timing. It volunteered a dead
+  stranger's name while Gaara had a hand inside Marit's wound, in the voice it
+  uses for livestock. This is the tool with a monopoly, made physical: see
+  character-arc.md section 3.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE

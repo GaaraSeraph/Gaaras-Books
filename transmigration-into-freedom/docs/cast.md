@@ -44,11 +44,15 @@ Bern (ch6), about fifty
 - Took one of the small ones across the back with the axe and survived. The
   first villager to stand next to Gaara rather than look at him.
 
-The man with the hoe (ch5, dead ch6), unnamed
-- In ch5 he held it the way you hold a tool, not a weapon, and then adjusted his
-  hands. In ch6 he came out to help and died holding it the same way.
-- He stays unnamed. He is the cost of a plan built for one man, and a name would
-  make him a character instead of a consequence.
+Osvald, Level 4 (ch5 as a face, ch6 named and dead)
+- The man with the hoe. In ch5 he held it the way you hold a tool, not a weapon,
+  and then adjusted his hands. In ch6 he came out of a door to help a stranger
+  and died holding it the same way, in twelve feet of road Gaara had checked and
+  found empty.
+- He has no name in the prose until he is dead. Then the panel opens over him
+  and gives it, and the narration uses it from that line on. Gaara fought beside
+  him and never asked; Bern gave his own name unprompted before the fighting, in
+  case. That pair is the point and must not be flattened.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody

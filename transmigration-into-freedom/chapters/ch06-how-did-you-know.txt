@@ -2,13 +2,13 @@ The byre had four goats in it and smelled accordingly.
 
 Gaara sat on an upturned bucket with his back against the wall and ran the whetstone along the rusted knife the way the skill wanted him to.
 
-That was the strange part. He had never sharpened anything in his life beyond a kitchen knife, badly, twice. But when he set the stone to the steel his wrist found the angle and held it, and when the angle slipped his hand corrected before he noticed. Rank E, the lowest recorded proficiency, and it was already better at this than he was.
+That was the strange part. He had never sharpened anything in his life beyond a kitchen knife, badly, twice. But when he set the stone to the steel his wrist found the angle and held it, and corrected when it slipped. Rank E, the lowest recorded proficiency, and already better at this than he was.
 
 So the skill covered more than stabbing. Care, grip, how to carry it.
 
-He turned that over and did not enjoy all of it. Something had improved his hands without being asked. It had put a language in his head the same way. He was working with one instrument, he could not see inside it, and he had nothing to check it against.
+He turned that over and did not enjoy all of it. Something had improved his hands without being asked. It had put a language in his head the same way, and he had nothing to check it against.
 
-The half hour the elder had granted him had produced three crosses in the swept dirt by the door and not much else. A stream mouth. A ford. A pool under a broken channel. All of it from people who had not been there, about a country he had seen once, from a hill, the previous morning.
+The half hour the elder had granted him had produced three crosses in the swept dirt and not much else. A stream mouth. A ford. A pool under a broken channel. All of it from people who had not been there, about a country he had seen once, from a hill.
 
 He was still looking at it when the goats stopped chewing.
 
@@ -42,7 +42,7 @@ He hit the door with the flat of his hand until it opened.
 
 She did not ask how he knew. She looked past him into the dark, once, and put her head back inside and made a noise.
 
-It was not a word. It was long and it went up at the end, and it came out of her like something she had been carrying since she was a child. It went the length of that road and turned the corner at the bottom.
+It was not a word. It was long and it went up at the end, and it came out of her like something she had been carrying since she was a child. It went the length of that road.
 
 Every door in Oldstep opened.
 
@@ -50,17 +50,15 @@ He had shouted the truth and got two bolts. She had made a sound and got forty h
 
 Then they came into the light of the first lamp, and there were three of them.
 
-The big one first, out of the dark at the north end where the road came in from the trees. Segmented, low, the colour of old bruises. Six legs folding and unfolding in that dry clicking rhythm he had heard in a dead chamber yesterday morning and had hoped to hear again only on his own terms.
+The big one first, out of the dark at the north end where the road came in from the trees. Segmented, low, the colour of old bruises. Six legs folding and unfolding in the dry clicking rhythm he had heard in a dead chamber yesterday morning.
 
 Two smaller ones behind it, quick, keeping to the wall line.
 
-Somebody screamed. Somebody else started praying.
+"Off the road," Gaara said. "Get behind the pens."
 
-"Off the road," Gaara said, and then louder, "get off the road, get behind the pens."
+Nobody moved. Then Marit said it, and they moved.
 
-Nobody moved for a second. Then Marit said it, three words, and they moved.
-
-He used the seconds while they moved, because there would not be many more.
+He used the seconds while they moved. There would not be many more.
 
 The road was the only thing in this village that had been built by people who knew what they were doing. Straight, walled on both sides by stone and thatch, and narrow enough at the top end that the eaves nearly touched.
 
@@ -82,7 +80,7 @@ He stood in it.
 
 "Right."
 
-The first came at his ankles, low and mean, the way the small ones did. He gave it his boot, not his edge, and stepped off the line, and Bern took it across the back with the axe and it went sideways into the wall.
+The first came at his ankles, low and mean. He gave it his boot, not his edge, and stepped off the line, and Bern took it across the back with the axe and it went sideways into the wall.
 
 The second came over it. He got the knife up.
 
@@ -96,7 +94,7 @@ Behind him the road was full of people who had come out of their houses with too
 
 That was the moment he built the plan. He built it in about two seconds, and it was a good plan, and it had exactly one body in it.
 
-The big one favoured wide sweeps and lifted its head at the end of them. That was the seam. To get the seam he needed it high and committed, and to get it high and committed he needed it to think it was through.
+The big one favoured wide sweeps and lifted its head at the end of them. That was the seam. To get it he needed the thing high and committed, and for that it had to think it was through.
 
 So he would let it through.
 
@@ -112,49 +110,49 @@ The point went in. He twisted, because something in him knew to twist.
 
 It came apart under him into motes of light, rising, going out one by one over the thatch.
 
-He was still on his knees when he heard the hoe.
+He was on his knees when he heard the hoe.
 
-The man with the hoe was in the twelve feet of open road, where nothing was supposed to be. He had come out to help. He was holding the hoe the way you hold a tool, and then he adjusted his hands, and the second small one was already inside the length of it.
+The man with the hoe was in the twelve feet of open road, where nothing was supposed to be. He had come out to help. He held the hoe the way you hold a tool, then adjusted his hands, and the second small one was already inside the length of it.
 
 Gaara got there late. He had been eleven feet away and busy.
 
-Marit got there first, which is why she was between the wall and the thing when it turned, and why the barbs went across her forearm and up under the arm into the ribs.
+Marit got there first, which is why she was between the wall and the thing when it turned, and why the barbs went across her forearm and up into the ribs.
 
 Bern and two others killed it with axes. It took a while and it was not clean.
 
 The man with the hoe was dead before anyone reached him. He had not made much noise about it.
 
-Gaara got Marit down against the wall and got her sleeve open. He put the heel of his hand into the place under her arm where the blood came from, and leaned. She swore at him steadily, in a low voice.
+Gaara got Marit down against the wall and her sleeve open. He put the heel of his hand where the blood came from, and leaned. She swore at him steadily, in a low voice.
 
-That was when the panel came.
+That was when the panel came, and it was not for him.
 
-[ LEVEL UP ]
+He had looked up, and it had opened over the man with the hoe, the same size and colour it had been over a goat.
 
-Name: Gaara
-Level: 3
-HP: 185/185
-MP: 60/60
-STR: 13 (+1)
-DEX: 8
-CON: 8
-INT: 12
-WIS: 10
 
-Unspent Attribute Points: 2
+Osvald
+Level 4
+Human
 
-He read it with a dead man four feet away and Marit's blood coming through his fingers.
 
-It was not cruel. It had no opinion. It had counted what happened and reported the result, the way it counted everyone in that road, and it would have reported the same thing if the road had been empty behind him.
+He read it with his hand still inside Marit's arm.
 
-"Later," he said to it.
+He had stood beside that man for the length of a fight and had not asked. Bern had given his name unprompted, in case. This one had come out of a door to help a stranger and had not been offered the chance. Now a thing that could not be switched off had handed it over, four feet from the body, in the voice it used for livestock.
 
-It stayed where it always stayed.
+Nothing else came. No level, no line, nothing at all about the two he had killed.
+
+He worked out why while he knelt there, because that was what he had instead of grief. Two of them had been worth a level when he was Level 1. They were not worth one now. The scale compressed as it climbed, here as everywhere, and he could kill crawlers in this road until spring and arrive nowhere.
+
+Whatever was worth having was further in.
+
+"Later," he said, to nothing in particular.
+
+The panel stayed where it always stayed.
 
 The village put the fire out before it took the thatch. Afterwards people stood in the road and did not go back inside, and the sky over the trees to the east started to go the colour it goes.
 
 Hallvard came down the road with his stick.
 
-Gaara had seen him twice in the dark. Once at the top end near the fire, standing in the open when nobody sensible was. And once with the stick, putting the ferrule into the leg joint of a thing that was coming for a boy, with a movement no farmer in that road could have made.
+Gaara had seen him twice in the dark. Once at the top end near the fire, standing in the open when nobody sensible was. And once with the stick, putting the ferrule into the leg joint of a thing coming for a boy, with a movement no farmer there could have made.
 
 He filed it. There had been no time for it then and there was none now.
 
@@ -176,7 +174,7 @@ The road went quiet.
 
 He could feel the shape of the next thirty seconds, and there was one honest road through it and it went straight downhill.
 
-"I killed two of them. Then I found the nest at the back of it and I dug through it with my hands and I took what was in there. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought down a ceiling on the second one." He let that sit for a moment. "Their kills go home with them. I emptied the place where they put what they take, I killed two of the ones who put it there, and then I walked here."
+"I killed two of them. Then I found the nest at the back of it and I dug through it and took what was in there. Boots. A belt. A pouch with a firestone and eleven coins. Then I brought down a ceiling on the second one." He let it sit. "Their kills go home with them. I emptied the place where they put what they take, killed two of the ones who put it there, and walked here."
 
 "And tonight they came here."
 
@@ -190,11 +188,11 @@ Solva, from somewhere behind the lamps, said his name once, in the tone you use 
 
 He kept going, because the question had been asked in front of forty houses and there is only one thing you can do with a question like that.
 
-"I have no way to prove it either way. They have been coming out since spring and I was not here in spring. That is the only thing on my side, and it is thin." He looked up the road at the wet place where the big one had been. "If you want me gone by full light, that is defensible and I would not argue with it. It would not stop them."
+"I can't prove it either way. They have been coming out since spring and I was not here in spring. That is the only thing on my side, and it is thin." He looked up the road at the wet place where the big one had been. "If you want me gone by full light, that is defensible and I would not argue with it. It would not stop them."
 
 "No," said Hallvard. "It would not."
 
-The old man looked for a while at the man with the hoe, and at the four people it had taken to carry him out of the road.
+The old man looked for a while at Osvald, and at the four people it had taken to carry him out of the road.
 
 "Bern," he said. "Get the door off the byre. He can go on that."
 
@@ -208,7 +206,7 @@ Then he came the rest of the way down and stood over Gaara and Marit, and his vo
 
 Gaara said nothing.
 
-He had not thought of them as eighty people. He had thought of them as the space behind him, and he had checked it, and he had checked it for one man.
+He had not thought of them as eighty people. He had thought of them as the space behind him, and he had checked it for one man.
 
 "Marit," Hallvard said.
 
@@ -236,7 +234,7 @@ Hallvard looked at him for a long moment.
 
 "Then go, and be quick, because I have this village to talk to before noon. There is one house fewer in it than there was yesterday, and I do not know yet what I am going to tell them."
 
-They went out through the north gate while the village was still carrying its dead one about. The mist was in the low ground, lying in the hollows in long white bands.
+They went out through the north gate while the village was still carrying Osvald in off the road. The mist was in the low ground, lying in the hollows in long white bands.
 
 Marit walked with her right arm strapped across her body and her hatchet in her left hand.
 

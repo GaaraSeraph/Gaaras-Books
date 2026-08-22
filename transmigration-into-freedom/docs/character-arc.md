@@ -100,12 +100,18 @@ Mastery Rank E. Weapon: obsidian shard "Blacky", destroyed.
 Chapter 3: 3 points into CON. CON 5 to 8, HP 120 to 165 (15 HP per CON point). Gear: rusted field knife, Teodor's boots, belt, pouch, firestone, 11 unreadable coins. Translation granted.
 Chapter 4: no mechanical change. First human contact. Sees Marit's level.
 Chapter 5: no mechanical change. Sees the whole village's levels. Hallvard reads blank.
-Chapter 6: Level 3 after two more kills (four in total). HP 165 to 185. STR 12 to
-13, nothing else automatic, 2 unspent points he does not spend - he is holding a
-wound shut. MP still 60 and still untouched. Skill: still Dagger Mastery E.
+Chapter 6: NO mechanical change, deliberately. He kills two more crawlers, four
+in total, and the system gives him nothing - because two crawlers were a level's
+worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 8,
+MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
+knowledge that this road leads nowhere, and a name he did not ask for.
 
 Pacing rules
-- Levels should get slower, not faster. Level 3 should cost more than two crawlers.
+- Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
+  the running total. Level 2 cost two crawlers. Level 3 costing two more is the
+  same price, which is linear, which is the failure this rule exists to prevent.
+  It nearly shipped that way in ch6. Level 3 must cost something of a different
+  order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
 - MP 60 stays untouched until Chapter 8 at the earliest. Magic should arrive as a problem, not a present.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.

@@ -146,13 +146,21 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
-- (ch6) Levels slow down, as promised. Level 3 arrived after two more kills, so
-  four in total, and it gave less than level 2 did: STR only, plus 2 free points
-  he has NOT spent. HP 165 to 185.
-- (ch6) The system has no opinion and no timing. It reported the level up while
-  a man lay dead four feet away and Gaara had a hand inside Marit's wound. It
-  would have reported exactly the same thing if the road had been empty. This is
-  the tool with a monopoly, made physical: see character-arc.md section 3.
+- (ch6) THE SAME KILLS STOP PAYING. Two crawlers were worth a whole level at
+  Level 1. Two more, at Level 2, are worth nothing at all: no level, no line,
+  no acknowledgement. Gaara infers the reason and it matches the scale he worked
+  out in ch1 - it compresses as it climbs. Load-bearing: grinding the same enemy
+  can never advance him, so advancement has to be gone and found. It is also why
+  he is still Level 2 at the end of ch6.
+- (ch6) The panel opens over the dead. It came up over the man killed in the
+  road, unchanged, the same size and colour it uses for a goat, and it gave
+  Gaara the man's name - Osvald, Level 4, Human. He had fought beside him and
+  never asked. Whether it knows the man is dead is not established and Gaara did
+  not stop to find out.
+- (ch6) The system has no opinion and no timing. It volunteered a dead
+  stranger's name while Gaara had a hand inside Marit's wound, in the voice it
+  uses for livestock. This is the tool with a monopoly, made physical: see
+  character-arc.md section 3.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
