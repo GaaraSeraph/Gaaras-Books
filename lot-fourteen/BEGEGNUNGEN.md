@@ -20,17 +20,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 276 | 28 (01-31) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
-| Chairman Woo | 121 | 21 (07-31) | 3 | 74 |
+| Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
 | Park Sang-hoon | 66 | 14 (10-31) | 22 | 74 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
 | Mrs Seo | 48 | 17 (03-31) | 1 | 74 |
-| Kim Ye-rin | 34 | 8 (14-31) | 5 | 74 |
+| Kim Ye-rin | 42 | 9 (14-32) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
+| Kim Do-yun | 30 | 8 (14-32) | 6 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
-| Kim Do-yun | 22 | 7 (14-31) | 6 | 74 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Mr Pyo | 10 | 7 (05-31) | 1 | 74 |
-| Mr Ku | 7 | 6 (05-27) | 6 | 55 |
+| Mr Ku | 9 | 7 (05-32) | 6 | 55 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
@@ -632,7 +632,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-121 Nennungen in 21 Kapiteln.
+122 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -757,6 +757,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | ch31:364 | Chairman Woo was quiet for long enough that Georgij checked the line. |
 | 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
 | 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
+| - | ch32:100 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -828,6 +829,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:336` (Tag 5) - eleven, twenty-two
 - `ch31:366` (Tag 5) - nine
 - `ch31:384` (Tag 5) - one
+- `ch32:100` (Tag ?) - four, two
 
 ---
 
@@ -1125,7 +1127,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kim Ye-rin
 
-34 Nennungen in 8 Kapiteln.
+42 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1163,6 +1165,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:140 | Then the two things Ye-rin had wanted to buy with. |
 | 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
+| - | ch32:34 | Kim Ye-rin sat on the long side, third chair from the window, facing the door. |
+| - | ch32:86 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
+| - | ch32:156 | Then every person at that table turned and looked at Kim Ye-rin. |
+| - | ch32:178 | "You did not tell me," said Kim Ye-rin. |
+| - | ch32:182 | "It was twice, Ye-rin. In Busan and then in a hotel in Daejeon. It was not something I w.. |
+| - | ch32:214 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
+| - | ch32:260 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
+| - | ch32:282 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1181,6 +1191,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:140` (Tag 74) - two
 - `ch31:220` (Tag 74) - six
 - `ch31:326` (Tag 5) - one, six
+- `ch32:86` (Tag ?) - eleven, forty-one, one, six
+- `ch32:214` (Tag ?) - eleven, four
+- `ch32:260` (Tag ?) - twenty
+- `ch32:282` (Tag ?) - one
 
 ---
 
@@ -1242,6 +1256,58 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Kim Do-yun
+
+30 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | ch15:152 | "And Do-yun," said Georgij. |
+| 41 | ch15:184 | "Do-yun." |
+| 41 | ch15:186 | "Do-yun." |
+| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 6 | ch26:92 | The third was Kim Do-yun. |
+| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
+| 6 | ch26:148 | Do-yun's face did nothing at all. |
+| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
+| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
+| 6 | ch26:276 | Do-yun turned round. |
+| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
+| 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
+| 74 | ch30:328 | "The second thing. Do-yun." |
+| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
+| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
+| 74 | ch31:176 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
+| - | ch32:22 | The other was Kim Do-yun, in a good coat again, who had arrived eleven minutes early and.. |
+| - | ch32:134 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
+| - | ch32:162 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
+| - | ch32:210 | Then Do-yun. |
+| - | ch32:222 | Kim Do-yun came over to Georgij at the door while the others were standing about the way.. |
+| - | ch32:228 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
+| - | ch32:238 | Do-yun did something with his mouth that was almost a smile again. |
+| - | ch32:244 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
+
+### Zahlen in der Naehe von Kim Do-yun
+
+- `ch14:22` (Tag 31) - one
+- `ch14:26` (Tag 31) - forty
+- `ch16:190` (Tag 46) - four hundred, one
+- `ch26:286` (Tag 6) - one
+- `ch29:78` (Tag 74) - two
+- `ch30:342` (Tag 74) - four
+- `ch31:12` (Tag 74) - one
+- `ch32:22` (Tag ?) - eleven
+- `ch32:162` (Tag ?) - one, six, twenty-nine
+- `ch32:244` (Tag ?) - two
+
+---
+
 ## Mr Hong
 
 30 Nennungen in 9 Kapiteln.
@@ -1298,47 +1364,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch17:40` (Tag 46) - one, seventeen, two
 - `ch17:114` (Tag 46) - three, two
 - `ch23:224` (Tag 55) - nineteen
-
----
-
-## Kim Do-yun
-
-22 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
-| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
-| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:152 | "And Do-yun," said Georgij. |
-| 41 | ch15:184 | "Do-yun." |
-| 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 6 | ch26:92 | The third was Kim Do-yun. |
-| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
-| 6 | ch26:148 | Do-yun's face did nothing at all. |
-| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
-| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
-| 6 | ch26:276 | Do-yun turned round. |
-| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
-| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
-| 74 | ch29:210 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
-| 74 | ch30:328 | "The second thing. Do-yun." |
-| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
-| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
-| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
-| 74 | ch31:176 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
-
-### Zahlen in der Naehe von Kim Do-yun
-
-- `ch14:22` (Tag 31) - one
-- `ch14:26` (Tag 31) - forty
-- `ch16:190` (Tag 46) - four hundred, one
-- `ch26:286` (Tag 6) - one
-- `ch29:78` (Tag 74) - two
-- `ch30:342` (Tag 74) - four
-- `ch31:12` (Tag 74) - one
 
 ---
 
@@ -1416,7 +1441,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Ku
 
-7 Nennungen in 6 Kapiteln.
+9 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1427,6 +1452,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
 | 55 | ch24:346 | Mr Ku had the heater on. |
 | 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | ch32:256 | Mr Ku had the car turned round already. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -1434,6 +1461,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch07:8` (Tag 22) - three
 - `ch11:6` (Tag 22) - seventeen
 - `ch27:100` (Tag 7) - one
+- `ch32:6` (Tag ?) - fifty, one
 
 ---
 

@@ -31,6 +31,7 @@ ch28  v1.1       2687 Woerter  ch28_v1_1_en.md
 ch29  v1.2       2007 Woerter  ch29_v1_2_en.md
 ch30  v1.5       3517 Woerter  ch30_v1_5_en.md
 ch31  v1.2       3253 Woerter  ch31_v1_2_en.md
+ch32  v1.0       2585 Woerter  ch32_v1_0_en.md
 
-Gesamt: 31 Kapitel, 90853 Woerter
+Gesamt: 32 Kapitel, 93438 Woerter
 Handbuch: 9 Dokumente
