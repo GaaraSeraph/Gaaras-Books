@@ -61,15 +61,26 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`, die noch
   offenen Sorten sind dort als *offen* markiert.
 
-- **Das Halsband fehlt in Kapitel 14 bis 17**, also im gesamten Schluss und
+- **Das Halsband fehlte in Kapitel 14 bis 17**, also im gesamten Schluss und
   nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
   nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
   `jaw`. Ueber fuenfzehn Tage ist er zum Berater geworden und der Text hat
   aufgehoert, ihn daran zu erinnern, was er ist - ausgerechnet auch in dem
-  Kapitel, in dem die festgelegte Zeile ueber die elf Haeuser steht. Das kann
-  Absicht sein und macht den Bruch teurer, aber im Moment ist es nicht gebaut,
-  sondern passiert. Weitere Luecken, bisher nicht verbucht: Kapitel 3, 8, 10 und
-  11. Kapitel 7 hat nur die Empfindung ohne das Wort.
+  Kapitel, in dem die festgelegte Zeile ueber die elf Haeuser steht.
+
+  **Kapitel 16 ist gesetzt** (v1.11), an der vierten Wand und nur dort: *Under
+  the high collar of the shirt, the steel sat where it always sat. Nothing all
+  evening had put it in his mind. This did. / He kept his chin level. Not up.*
+  **Es wird nicht gesehen.** Der hohe Hemdkragen aus Kapitel 6 deckt es (*The
+  steel did not show*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
+  announced. Found.*), und Sang-hoon stellt die Frage blind. Die Empfindung ist
+  nicht das Gewicht - Kapitel 1 sagt, dass man das nach einem Monat nicht mehr
+  spuert - sondern die Disziplin, und die Disziplin ist das Kinn, wie der
+  Schneider sie ihm in Kapitel 6 beigebracht hat.
+
+  **Offen bleiben Kapitel 14, 15 und 17.** Weitere Luecken, bisher nicht
+  verbucht: Kapitel 3, 8, 10 und 11. Kapitel 7 hat nur die Empfindung ohne das
+  Wort.
 
 - **Der Haushalt ist seit Kapitel 13 fast verschwunden.** Kapitel 14 und 16
   enthalten je eine Haushaltsfigur. Die Textur, die das Buch in den Kapiteln 3

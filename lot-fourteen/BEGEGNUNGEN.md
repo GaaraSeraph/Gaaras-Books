@@ -211,10 +211,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
 | 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
 | 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
-| 46 | ch16:182 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 46 | ch16:288 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch16:296 | "Well," said Annie. |
-| 46 | ch16:340 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
+| 46 | ch16:186 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:292 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:300 | "Well," said Annie. |
+| 46 | ch16:342 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
 | 46 | ch17:10 | "Kang," said Annie. |
 | 46 | ch17:58 | Annie turned her head. |
 | 46 | ch17:74 | "Then it is February," said Annie. "Not March and not the spring." |
@@ -271,9 +271,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch16:12` (Tag 46) - two
 - `ch16:122` (Tag 46) - five, sixteen thousand
 - `ch16:142` (Tag 46) - one, two
-- `ch16:182` (Tag 46) - four hundred, one
-- `ch16:288` (Tag 46) - one, two
-- `ch16:340` (Tag 46) - ten
+- `ch16:186` (Tag 46) - four hundred, one
+- `ch16:292` (Tag 46) - one, two
+- `ch16:342` (Tag 46) - ten
 - `ch17:222` (Tag 46) - two
 
 ---
@@ -427,19 +427,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:108 | Sang-hoon nodded once and went on eating, and it went past like a car. |
 | 46 | ch16:124 | "She does," said Sang-hoon, to nobody in particular, and ate. |
 | 46 | ch16:144 | Sang-hoon put his glass down. |
-| 46 | ch16:158 | Park Sang-hoon looked at him for slightly too long. |
-| 46 | ch16:170 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
-| 46 | ch16:186 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
-| 46 | ch16:202 | Sang-hoon did not touch it. |
-| 46 | ch16:212 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
-| 46 | ch16:218 | Park Sang-hoon looked at him for some time. |
-| 46 | ch16:228 | "Go on," said Sang-hoon. |
-| 46 | ch16:232 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
-| 46 | ch16:248 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
-| 46 | ch16:258 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
-| 46 | ch16:272 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
-| 46 | ch16:282 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
-| 46 | ch16:318 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | ch16:162 | Park Sang-hoon looked at him for slightly too long. |
+| 46 | ch16:174 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | ch16:190 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | ch16:206 | Sang-hoon did not touch it. |
+| 46 | ch16:216 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | ch16:222 | Park Sang-hoon looked at him for some time. |
+| 46 | ch16:232 | "Go on," said Sang-hoon. |
+| 46 | ch16:236 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | ch16:252 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | ch16:262 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | ch16:276 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | ch16:286 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | ch16:322 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -453,12 +453,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch14:136` (Tag 34) - eighteen, eleven
 - `ch14:148` (Tag 34) - one, three
-- `ch16:170` (Tag 46) - two
-- `ch16:186` (Tag 46) - eighteen, two
-- `ch16:212` (Tag 46) - four, two
-- `ch16:232` (Tag 46) - one
-- `ch16:258` (Tag 46) - nineteen
-- `ch16:318` (Tag 46) - four
+- `ch16:174` (Tag 46) - two
+- `ch16:190` (Tag 46) - eighteen, two
+- `ch16:216` (Tag 46) - four, two
+- `ch16:236` (Tag 46) - one
+- `ch16:262` (Tag 46) - nineteen
+- `ch16:322` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
 
 ---
@@ -811,13 +811,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:152 | "And Do-yun," said Georgij. |
 | 41 | ch15:184 | "Do-yun." |
 | 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:182 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:186 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
 - `ch14:22` (Tag 31) - one
 - `ch14:26` (Tag 31) - forty
-- `ch16:182` (Tag 46) - four hundred, one
+- `ch16:186` (Tag 46) - four hundred, one
 
 ---
 
@@ -946,14 +946,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:288 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:292 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
 | 46 | ch17:126 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
 | 46 | ch17:180 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:288` (Tag 46) - one, two
+- `ch16:292` (Tag 46) - one, two
 - `ch17:126` (Tag 46) - three, two
 
 ---

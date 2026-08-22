@@ -24,7 +24,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.3 | 4.210 |
-| 16 | v1.10 | 3.135 |
+| 16 | v1.11 | 3.135 |
 | 17 | v12.2 | 2.568 |
 
 ---
@@ -4535,7 +4535,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4597,7 +4597,7 @@ Something happened at the corner of Sang-hoon's mouth.
 
 "Everybody says that."
 
-"Yes. The second is what makes it worth anything." He kept his voice exactly where it had been. "There are things I am not permitted to say. When we reach one, I will tell you that we have reached one. I will not change the subject, and I will not give you a smaller answer and let you think it was the whole of it."
+"Yes. The second is what makes it worth anything." His hands had not moved off the table. "There are things I am not permitted to say. When we reach one, I will tell you that we have reached one. I will not change the subject, and I will not give you a smaller answer and let you think it was the whole of it."
 
 Park Sang-hoon looked at him for the first time since he had sat down.
 
@@ -4675,7 +4675,7 @@ The third was the Kims and it came at an hour and ten.
 
 "Would you like to know what you have just told me?"
 
-"I know what I have just told you," said Georgij. "I told you it existed. You had already assumed it. Annie takes her intermediates through two lanes, and the permits for them sit with one family and are not being issued again. You have seen the manifests. A man in your trade does not need a picture drawn for him." He met the eyes across the table. "What you did not have until this minute is confirmation. That is what it cost me. It is not nothing and I am not going to pretend it was."
+"I know what I have just told you," said Georgij. "I told you it existed. You had already assumed it. Annie takes her intermediates through two lanes, and the permits for them sit with one family and are not being issued again. You have seen the manifests. A man in your trade does not need a picture drawn for him." He met the eyes across the table. "What you did not have until this minute is confirmation. That is what it cost me. It is not nothing."
 
 Sang-hoon put his glass down.
 
@@ -4688,6 +4688,10 @@ Sang-hoon put his glass down.
 The fourth came late and it had no shape at all.
 
 "Do you sleep in her house?"
+
+Under the high collar of the shirt, the steel sat where it always sat. Nothing all evening had put it in his mind. This did.
+
+He kept his chin level. Not up.
 
 "I am not going to answer that."
 
@@ -4853,13 +4857,11 @@ Then he sat back and did the other arithmetic, the one he had been putting off s
 
 Four times he had told Park Sang-hoon that they had reached a wall, and four times he had used the word instead of changing the subject.
 
-Every one of the four had been true. He had promised nothing he had not delivered, and he had not said a single untrue word in three and a half hours.
+Every one of the four had been true. He had promised nothing he had not delivered.
 
 He had also drawn the man a map.
 
 Four walls, all of them real, and nothing anywhere on it to say which one had something behind it worth the climb. One of the four was the whole of the business. One of them was a man asking where he sleeps. They had been given exactly the same weight, and giving them exactly the same weight was the most deliberate thing he had done all evening.
-
-Every word of it had been true.
 
 He had only declined to say which of the four walls was load-bearing, and no man on earth is owed that.
 
