@@ -5,6 +5,7 @@ Manuskripte in Arbeit. Ein Ordner je Buch.
 | Projekt | Stand | Umfang |
 |---|---|---|
 | [`lot-fourteen/`](lot-fourteen/) | Kapitel 1 bis 17 | ca. 50.000 Woerter |
+| [`transmigration-into-freedom/`](transmigration-into-freedom/) | Kapitel 1 bis 6 | ca. 13.000 Woerter |
 
 Wer an einem Projekt arbeitet, liest zuerst dessen `CLAUDE.md`.
 

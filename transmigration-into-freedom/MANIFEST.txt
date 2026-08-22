@@ -1,0 +1,11 @@
+# Erzeugt von build.py. Ergebnis, nicht Eingabe.
+
+ch01    2587 Woerter  ch01-awakening-in-ash.md
+ch02    2447 Woerter  ch02-first-blood-first-skill.md
+ch03    2441 Woerter  ch03-dead-mans-boots.md
+ch04    2178 Woerter  ch04-liars-decorate.md
+ch05    1728 Woerter  ch05-the-lamp-goes-out.md
+ch06    1906 Woerter  ch06-she-was-already-waiting.md
+
+Gesamt: 6 Kapitel, 13287 Woerter
+Handbuch: 3 Dokumente

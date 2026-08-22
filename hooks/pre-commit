@@ -35,5 +35,8 @@ for proj in */; do
   else
     "$PY" "$proj/check.py" 2>/dev/null | tail -3 || true
   fi
+  # Erzeugtes einsammeln, getrennt: ein nicht-matchender Glob soll den anderen
+  # add nicht mitreissen. paste/ (lot-fourteen), chapters/*.txt (andere Buecher).
   git add "$proj/book.md" "$proj/HANDBUCH.md" "$proj/MANIFEST.txt" "$proj/paste" 2>/dev/null || true
+  git add "$proj"chapters/*.txt 2>/dev/null || true
 done

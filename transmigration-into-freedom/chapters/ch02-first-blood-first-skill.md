@@ -1,0 +1,251 @@
+# Chapter 2: First Blood, First Skill
+
+Guttural roar ripped through the ruin. The sound hit Gaara in the sternum before it reached his ears, a low pressure that rattled loose grit from the walls.
+
+His head snapped up. Shapes moved in the dark beyond the collapsed support beam. Not one.
+
+Two.
+
+They came out into the weak light together, and his stomach dropped out of him.
+
+Segmented bodies, bulbous and low. Six spiked legs each, folding and unfolding with a dry clicking rhythm. Two more limbs above, thin as whips and barbed along their length, tasting the air in slow sweeps. Chitin the colour of old bruises.
+
+Something in his skull supplied a name he had never learned. Gloom Crawler. It arrived fully formed, the way you remember a word in a dream, and he had no time to be disturbed by it.
+
+"Gosh, ain't you a beauty. I fucking hate insects."
+
+The stench reached him a second later. Decay and something metallic underneath, like a mouthful of old coins. The larger one swung its head toward him, a wet mess of plating and six red eyes, and every one of them found his face at once.
+
+A single click. Wet. Deliberate.
+
+"Please take a shower once in a while, motherfucker."
+
+The old Gaara would already be on the floor. He knew this with total clarity. That body would have locked up, chest cinching shut, heart stuttering into something useless, and it would have died here in about nine seconds without landing a finger on anything.
+
+This body did something else. His weight shifted onto the balls of his feet without being asked. His hands came up. Somewhere under the fear there was a low hum of readiness he had never felt in his life.
+
+The big one lunged.
+
+Barbed limbs tore through the space where his head had been. He was already moving, throwing himself flat and rolling across broken stone, and pain cracked through his knee as it came down on something jagged.
+
+He ignored it. Filed it. Kept moving.
+
+Adrenaline went through him like a lit fuse. The world narrowed and sharpened at the same time. He could hear the individual scrape of each leg on stone. He could feel the shift in the air as the second one flanked him, smaller, faster, keeping low.
+
+Weapon. He needed a weapon. His eyes raked the floor as he scrambled backward.
+
+Collapsed slabs. Iron pins, rusted through, standing out of the stone like broken teeth. Splintered beams. Shards of something dark scattered near a fallen column.
+
+Obsidian.
+
+One piece was the length of his forearm, broken to a wicked taper, glinting dull and greasy in the light. His fingers closed around the rough end and the weight of it settled into his palm like it had been waiting.
+
+"Nice. That would definitely beautify you guys."
+
+The big one came again, too fast to think about. He didn't think. He sidestepped and brought the stone up in a clumsy panicked block, and the barbed whip cracked across the flat of it hard enough to numb his arm to the shoulder.
+
+He staggered. Kept his feet.
+
+The obsidian held. It hadn't shattered.
+
+That changed things. That made this a fight instead of an execution.
+
+The smaller Crawler circled wide, chittering low in its throat, red eyes burning. Neither of them rushed him now. They were assessing. Comparing notes, probably, on the softest place to open him up.
+
+"Now. Where is your ass? I would like to stuff it with Blacky."
+
+Focus.
+
+They were fast, but they moved in straight lines. Commit, strike, reset. No feints. And those bodies were plated in sections, which meant seams, which meant the armour ended somewhere.
+
+He backed up and let them come, keeping his feet shuffling, never planting. The big one favoured wide sweeps with its forelimbs, throwing its head high on the follow-through. The small one darted at his ankles, low and mean, then peeled off before he could turn.
+
+Sweat ran into his eyes. His thighs burned. This body was strong, but it had never been taught anything, and strength with no technique burns out fast. He had maybe a minute of this left in him.
+
+So make it count.
+
+The big one reared for another sweep, forelimbs opening wide, head tipping back.
+
+There.
+
+A seam. Just behind the skull, where the plating met the thorax, a band of pale membrane exposed for as long as the head stayed up.
+
+The small one lunged at his ankle. He let it come. Felt barbs open a hot line across his calf and used the pain, pushing off the ground into a leap that had absolutely no technique in it at all.
+
+He brought the obsidian down point first. Not a slash. A stab, all his weight behind it, every kilo of a body he had not earned and every year of a life he had wasted poured into one downward thrust.
+
+Crunch.
+
+The sound was wet and awful and immensely satisfying. The point punched through the membrane and grated against something softer underneath. The shriek that came out of the thing went through his teeth.
+
+Black ichor pumped out over his wrist, hot as fresh coffee.
+
+"Nice. Not the ass, but quite effective, I'd say."
+
+Then the current hit him.
+
+It ran up the obsidian and into his arm, and it wasn't pain. It was the opposite of pain. It poured into his chest and lit something up behind his ribs, a bright greedy warmth, and some deep animal part of him wanted it again immediately.
+
+The Crawler convulsed. Its legs hammered the ground in a broken drumroll, folding under it one by one. He ripped the shard free and stumbled back, spraying black.
+
+The red eyes dimmed. Went out.
+
+The body came apart. Not into meat, into light, motes of it lifting off the corpse like sparks off a fire and drifting up toward the hole in the roof.
+
+He watched an entire living thing turn into ash and glitter, and he was breathing hard, and he was grinning.
+
+"Does that mean a level up? Now. Second cutie. Come here. I'll dance with you. I can be quite sensual, you know?"
+
+He turned to face it. Somewhere in the last thirty seconds the arithmetic had inverted, and he was no longer the thing being hunted.
+
+The smaller Crawler didn't accept the invitation.
+
+It skittered backward, chitin scraping stone, putting a fallen pillar between them. Red eyes tracked him over the broken edge. Patient. Calculating.
+
+"Oh. You watched that."
+
+Cold understanding settled in his gut. It had seen its bigger sibling die. It had learned. Whatever these things were, they weren't just hungry meat with legs.
+
+His arm still trembled from the kill. The obsidian felt slick now, black ichor coating his grip, and the stuff burned faintly where it touched his skin. Not acid. Something worse. Something that itched.
+
+He shifted his stance. The Crawler mirrored him.
+
+Left. It moved left. He moved left. It stopped.
+
+"You're a coward. I respect that. I built a whole career on it."
+
+His breath came steady, deep, and that alone was still a miracle he hadn't stopped noticing. Old lungs would have quit three minutes ago. These held.
+
+But steady breath didn't win fights. The thing was faster than him. Lower to the ground, harder to reach, and it had already stopped charging blind. Repeating the same trick would get his throat opened.
+
+So don't repeat it. Change the board.
+
+His eyes swept the chamber. Not panic. Something colder, older, clicking over behind his ribs like a machine finding its rhythm. What can cut. What can fall. What can hold weight.
+
+Rubble field to his right, bad footing for a six-legged thing built for speed. Broken pillar between them. And above, a slab of ceiling hanging on two iron pins, rust-eaten and bowed, sagging, groaning whenever the wind shifted through the ruin.
+
+Heavy. Very heavy.
+
+"Alright, gorgeous. Let's get you on your back."
+
+He picked up a fist-sized chunk of masonry with his off hand and threw it. Not at the Crawler, past it, hard, cracking against the far wall.
+
+The creature flinched toward the noise. A quarter second. Half a body length.
+
+He was already moving.
+
+Not at it. Away from it, into the rubble field, feet slipping on loose stone, deliberately loud, deliberately clumsy. Prey noise. Panic noise. The kind of sound that turns a cautious hunter back into a stupid one.
+
+It worked. Behind him, chitin exploded into motion, limbs hammering the ground in a rapid wet drumbeat, closing fast.
+
+"That's it," he wheezed. "Chase me. Everybody loves the chase part."
+
+Gaara counted. Three strides. Four.
+
+He planted his foot on a canted slab and threw himself sideways under the hanging ceiling piece, rolling through dust, shoulder cracking against stone hard enough to white out his vision.
+
+The Crawler followed him into the gap.
+
+He came up on one knee with the obsidian reversed in his fist and drove it not into the creature but upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
+
+Metal shrieked. Snapped.
+
+The ceiling came down.
+
+The sound was enormous, a flat concussive crunch that punched the air out of the chamber and threw a wall of grit into his face. Something spattered warm across his forearm. He went down with it, hands over his skull, stone raining across his back.
+
+Then silence, ringing and total.
+
+Then the screaming started.
+
+He raised his head. The slab had caught the Crawler across its hindquarters, pinning it flat against the floor, and the thing was not dead. It was very much not dead. Its front four legs scrabbled uselessly at the stone, gouging pale scratches, dragging its own crushed body a centimetre at a time. Black ichor spread beneath it in a slow glossy pool. The shriek came in pulses, high and wet and endless.
+
+Gaara lay in the dust and listened to it.
+
+His hands were shaking. Not fear. The tremor had a different quality now, a fine electric buzz running from fingertips to elbow, and he understood with perfect clarity that he could simply stay here. Wait. It was dying. It would finish on its own eventually.
+
+The red eyes found him across the floor. Still hungry. Still tracking. Even now.
+
+He got up.
+
+His knee was bleeding. His shoulder felt like someone had driven a nail through the joint. He picked the obsidian out of the rubble, turned it once in his palm to seat the grip, and walked over.
+
+The first one had been panic. Reflex. A body doing arithmetic his mind hadn't agreed to yet.
+
+This was not that.
+
+He crouched by the thrashing head, out of reach of the whipping forelimbs, and waited for the rhythm. Left sweep. Right sweep. The gap between, half a second wide, the same seam of pale membrane behind the skull.
+
+"Shh. Shh." He set the point against it. "Relax for me. It only hurts for the first inch."
+
+He drove the shard in. Leaned his weight onto it. Felt the point grate past chitin, catch, then sink, and he twisted, because something in him knew to twist.
+
+The shrieking stopped.
+
+The corpse dissolved. Light bled out from beneath the slab, motes rising like sparks off a fire, drifting up through the hole in the roof and winking out one by one. The warmth passed through him, and this time the surge didn't tingle. It poured, filling him from the sternum outward, sinking into muscle and bone.
+
+He made it four steps before he threw up.
+
+It came out of him in one violent heave, then another, his whole body wringing itself out. Adrenaline crash. He'd read about it once, in an article he skimmed between meetings, back when death was an abstraction that happened to other people. He knelt in the dust, spat, and laughed, a cracked ugly sound that echoed around the ruined chamber and came back sounding like someone else.
+
+He was alive.
+
+He had never been this alive.
+
+Then the panel returned, and it was not alone.
+
+
+[ LEVEL UP ]
+
+Name: Gaara
+Level: 2
+HP: 120/120
+MP: 60/60
+STR: 12 (+1)
+DEX: 8 (+1)
+CON: 6 (+1)
+INT: 12
+WIS: 10
+
+Unspent Attribute Points: 3
+
+
+[ SKILL ACQUIRED ]
+
+Dagger Mastery, Rank E
+Conditions met: two kills achieved with a short blade against superior opponents.
+Passive. Improves grip, edge alignment and thrust precision with blades under 40 cm.
+Rank E is the lowest recorded proficiency. Advancement through use.
+
+
+He read it three times.
+
+Three free points. A number attached to his own body that went up when he did something correctly. And a rank. The lowest recorded proficiency, the system had been careful to specify, which meant there were others above it, which meant that someone, somewhere, was keeping score for an entire world.
+
+A dry sound escaped him. It wasn't quite a laugh.
+
+His whole old life had been fought in the dark. Effort in, and no way to know what came out until it was already too late to change any of it. The doctors read the bloodwork and told him what he had spent, years after he spent it. He had burned a body down to the frame guessing.
+
+And here, a monster died, and the universe handed him a receipt.
+
+"Oh," he said quietly, to the empty ruin. "Oh, this is unfair."
+
+He wiped his mouth with the back of a bloodied hand and looked down at the obsidian in his fist.
+
+The edge was gone. Two thirds of it, anyway, chipped white and blunt along the spine, a hairline crack running up from the point where he had twisted. It had killed twice. It would not kill a third time.
+
+"Ah damn. Blacky. It was a short time. But you were a true friend."
+
+So the world had just informed him, in writing, that he was a dagger user.
+
+And he did not own a dagger.
+
+"Fantastic," he muttered. "The universe hands me a job title and no equipment. Best onboarding I've ever had."
+
+He turned back toward the collapsed corner of the chamber, where the two of them had come from. Because things like that nested. And things that nested dragged what they killed home with them.
+
+The stink was worse back there. He crouched at the edge of a mound of shed chitin and splintered bone, breathing through his mouth, and started digging with the ruined shard.
+
+Halfway down, his fingers closed on something cold. Worked metal, ridged under his thumb.
+
+A grip.
