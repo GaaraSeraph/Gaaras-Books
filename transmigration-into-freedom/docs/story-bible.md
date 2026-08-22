@@ -13,9 +13,10 @@ nicht diese Zeile von Hand.
 5. The Lamp Goes Out (was: Forty Houses)
 6. Every Plan I Make Is for One
 7. How Did You Know
-8. They Were Running Too
-9. What Opened in Spring
-10. A Name for the Knife (planned)
+8. It Has Been Keeping Score
+9. What the Panel Will Not Say
+10. (planned - through the gate, and what ??? turns out to mean)
+11. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -138,6 +139,9 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch1) Attributes: STR, DEX, CON, INT, WIS. There is NO charisma, luck or appearance stat. He notices the absence and approves: whether people like him is his business, not the system's.
 - (ch1) Scale: 10 is NOT the human average. Gaara at 140 kg bench sits at STR 11, so 10 is a floor for something above human. The scale compresses hard the higher it goes. He does not know what a bear scores. Load-bearing for all future numbers.
 - (ch1) MP exists (50, later 60) and has never been used. No magic seen yet.
+- MP REGENERATES (author's decision). Not shown on the page yet, because nothing
+  has ever drawn it down. It matters the first time something does: a man whose
+  reserve refills is not a victim, he is a renewable supply.
 - (ch2) Levels come from kills. Level 2 gave 3 free attribute points, and on
   top of that raised STR, DEX and CON by one each - the three he had actually
   spent in that chamber. INT and WIS did not move. So it pays out on what a man
@@ -157,33 +161,36 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   grip and how the blade is carried, not only the thrust. His wrist finds the
   angle on a whetstone he has never used. He reads this as the instrument
   improving his hands without asking, the same way it put a language in him.
-- (ch9) HE SPENDS IT HIMSELF, AND THERE IS NO SPELL. There is no word, no
-  gesture, nothing on the panel saying press here. What he does is STOP HOLDING
-  IT. He has been robbed once, and a man who has been robbed knows where the
-  door is, so he opens it on purpose and leans into the pull.
-  He does it because he has worked out that the thing cannot feed and move at
-  the same time, so mana buys seconds, and Marit needs seconds to climb
-  twenty-five feet of rope with one arm. He goes 41 to 6 in about a minute.
-  This is the shape magic should keep for a good while: not casting, paying.
-  And note what he has taught it. It now knows he is a supply and knows where
-  he was standing.
-- (ch9) MAGIC ARRIVES, AND NOT AS A GIFT. He has still never used a point of MP.
-  Something in the drained room took it. The panel came apart for a moment, the
-  letters sliding off themselves, and he felt a withdrawal behind the sternum
-  that was not pain: a hand he could not see taking out something he had never
-  spent and did not know he had been keeping warm. Then it steadied and read
-  MP: 41/60. Nineteen points, gone, in about two seconds.
-  He has no idea what it was used for, or whether he was the only one it was
-  taken from. The panel does not explain, because it never explains.
-  DECIDED by the author: MP REGENERATES. The nineteen come back. That is a fact
-  about the world and it makes the theft worse rather than better, because it
-  means he is not a victim, he is a RENEWABLE SUPPLY. Whatever is down there can
-  come back for more, from him or from anyone, indefinitely, and the only thing
-  it costs the thing is waiting.
-  Rate is not established. Keep it slow enough to matter in a chapter and fast
-  enough not to be a wound he carries for ten.
-  NOTE for checking: check.py's progression tracker follows MP MAX, not current,
-  so it reads ch9 as MP60 and cannot see the drain at all.
+- (ch8) HOW THE PANEL ACTUALLY WORKS, established by him testing it on purpose
+  for the first time in nine chapters. It reads LIVING things unasked: a crow
+  reads Level 1, Marit reads Marit Halden / Level 6 / Human. It returns NOTHING
+  for a rowan tree, a boulder, mist, sky, his own boots, or his own hand.
+  It reads an OBJECT only where he holds a skill for that object. The rusted
+  knife reads in full because he has Dagger Mastery. Nothing else he owns does.
+  Marit puts it in one line, and it is the best formulation in the book so far:
+  "So it tells you what you already know how to look at."
+  So the panel is not one window. It is a SET of windows, and a skill is a
+  window. He currently has two, and one of them is a dagger.
+- (ch8) THE STATUS BLOCK HAS A KILL COUNTER, and always has had. He had never
+  read the block line by line, only skimmed it for the numbers he liked.
+  Kills: 3. Two crawlers in ch2, and the big one in the road in ch6.
+  LEVEL ECONOMY, countable from here on: 2 kills bought Level 2, and a third
+  bought nothing. His working guess from that single data point is that the
+  price doubles, so four for the second step, three more from where he stands.
+  THE SYSTEM HAS NOT CONFIRMED THIS. It is his inference, it may be wrong, and
+  if it is wrong that is data too.
+- (ch9) DEAD THINGS STILL READ, and the numbers are evidence. The crawlers the
+  stick-carrier killed rise as his line goes inward: 4, 4, 5, 5, 6, and it does
+  not stop there. He went in at fours and was killing sixes when the trail was
+  last fresh, and he did not turn round. Marit is a 6 and the highest thing in
+  Oldstep. Gaara reads twenty corpses like a table, which is what the instrument
+  was always for, and it took him nine chapters to use it that way.
+- (ch9) ??? THE PANEL REFUSES. Pointed into the dark behind the raised gate it
+  returns three characters where a number goes. Not a name, not a level, not a
+  blank. He did not know it could do that.
+  KEEP THE TWO FAILURES SEPARATE, they are not the same thing: Hallvard returns
+  NOTHING AT ALL, empty air (ch5). The thing behind the gate returns ???. One is
+  a gap. The other is a refusal, or an overflow, or an admission.
 - (ch6) Animals have levels too. A goat in the byre reads Level 1. The panel
   reads whatever stands in front of him, which is what makes the panel over the
   dead man later in the same chapter land: it is the same size, the same colour,
@@ -260,61 +267,7 @@ Oldstep (ch4 named and reached, ch5 seen in full)
 - Sits on the old paved road, far too grand for it, which comes out of the forest and goes back into it toward somewhere that no longer exists. Hence the name.
 - The local lord's men came in summer, rode around the outside for two days, ate a great deal, and were called east because there is a war somewhere that is not here. The elder writes a letter every month.
 
-Behind the gate (ch9)
-- A vaulted room too big to see across, with holes in the roof a very long way
-  up, and a water line stained round the walls at twenty to twenty-five feet.
-  The room was FULL. It is not full now.
-- So the gate is not a drain gate. It is a PLUG. Somebody built the room, filled
-  it, and shut the gate to keep it filled, and it stayed shut long enough to
-  wear a line into the frame. Gaara said the opposite at the gate in ch8 and
-  says "I was wrong" out loud in ch9, which is the correct way for him to be
-  wrong: fast, in public, and moving while he says it.
-- Raised eighteen inches, the room empties over a season. That is spring.
-- HUNDREDS of crawler nests on the floor, all empty. They lived down there
-  submerged the whole time. What reached Oldstep - four people and two dogs - is
-  only what got as far as the fields.
-- A line of dead crawlers leads inward, dozens of them, each opened at the seam
-  and left whole. The stick-carrier has been killing his way towards the middle
-  of the room over months, and going home afterwards, and burying his fire.
-- THE CIRCLE IS A FENCE, and it can only be read from above. From the floor it
-  is a groove that never turns. From a roof hole it is one unbroken line a
-  hundred and fifty feet across, with marks along it at intervals, spaced the
-  way things are spaced when the spacing is the point. It runs round the
-  standing water. The thing is INSIDE the line.
-- So there are THREE containments, and Gaara counts them out loud: the fence,
-  the room built round it and filled to the roof, and an iron gate shut on the
-  outflow to hold the water there. "Nobody does three of everything unless the
-  first two have already failed once."
-- The pale line: when the thing feeds, the whole circle goes pale and stays pale
-  while it feeds, then goes out. Cause and effect, visible. What the circle IS
-  and what the marks are is still not explained. Do not explain it cheaply.
-- THE THING. Never seen whole, and it should stay that way for a long time. It
-  stands up out of standing water. A wet edge going higher than the vault should
-  allow. Something opening that is not a mouth. It does not charge and it never
-  hurries, and everything about it arrives from a new angle each time.
-- IT DOES NOT LEAVE THE ROOM. It stopped a long way short of the tube and stayed
-  stopped. It has had an eighteen-inch hole and eight months and has not used
-  them, while every crawler in the room walked out. Cannot, or will not, is not
-  established and Gaara says so.
-- THE WAY BACK CLOSES. The vault comes down between them and the tube and they
-  do not go out the way they came in. They get out up a rope through a roof hole
-  twenty-five feet above a rubble cone, and they cross the nest field to reach
-  it on the dead man's road, because his line of corpses is the only ground in
-  that hall a person can run on.
-- THE KIT (ch9). At the end of the line of dead crawlers, past which nothing has
-  been opened: a shuttered lamp on its side with most of its oil unburned, a
-  coil of rope, and a leather bundle tied in a knot Gaara has never seen and
-  Marit names instantly as a hay knot. He got that far and left it.
-  Gaara's reading: a man who buries his own fire does not leave a lamp lying.
-  He left it because carrying it stopped being the point.
-  They carry it out. Gaara cannot identify the owner. MARIT SAYS SHE COULD.
-  That is the engine of the next chapter and it is one line long.
-- The fix is obvious and impossible with what they have: drop the gate. It
-  weighs more than a house and was raised with gear that somebody brought in,
-  used and took away again. Knocking out the two blocks either fails, or shuts
-  the only door with them on the wrong side of it. So they go back for gear.
-
-The channel (ch8) - the biggest single find so far
+The channel (ch8 and ch9) - the biggest single find so far
 - The stream out of the ruin is not a stream. It is a built drain: dressed stone
   laid to a fall of about one foot in forty, and the fall does not vary, so it
   was measured. A stone tube a little over head height, arched, with a rib every
@@ -363,8 +316,9 @@ The night they came into Oldstep (ch6, and its reckoning in ch7)
 - They dislike fire. He used a burning woodpile to close one end of the road.
   Worth exactly one use; they will have watched.
 - Losses: an unnamed man with a hoe, killed. Marit cut across the right forearm
-  and under the arm into the ribs. Gaara killed two, villagers finished the
-  third with axes.
+  and under the arm into the ribs. KILL CREDIT, because it matters now: Gaara
+  killed the big one only. Bern axed the first small one and Bern and two others
+  finished the second. Gaara's running total after ch6 is THREE, not four.
 - CAUSE UNPROVEN and it stays that way. Gaara emptied their nest the morning
   before, took boots, belt, pouch, firestone and coins out of it, and killed two
   of them. Their kills go home with them. In ch7 Hallvard asks him in front of
@@ -419,83 +373,59 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 
 === 6. OPEN THREADS ===
 
-1. The system can write into his head. He filed this and intends to come back to it.
+Numbered for reference, not ranked. Numbers are never reused and never shuffled.
+
+1. The system can write into his head. Filed in ch3, still not opened.
 2. Everyone has levels. Is anyone else aware of theirs?
 3. What broke the city, and is it still there.
-4. Why the crawlers started leaving the ruin in spring. LARGELY ANSWERED in ch8
-   and it only makes things worse: they are running from something, down a road
-   that was built for water, through a gate that a person raised eighteen inches
-   and propped open. The remaining question is not why they left. It is what
-   they left, and who opened the door.
+4. Why the crawlers started leaving in spring. LARGELY ANSWERED across ch8 and
+   ch9, and the answer is worse than the question: they are running down a road
+   built for water, through a gate somebody raised eighteen inches and propped
+   open. What remains is what they are running FROM, and who opened the door.
 5. Class is still None. No trigger seen yet.
-6. ANSWERED BADLY, ch9. Magic is encountered by being on the receiving end of
-   it, and the MP he has hoarded for nine chapters turns out to be something
-   another party can simply take. 41 of 60 left. What it was taken FOR is the
-   open half, and it is the better half.
-20. The circle carved into the floor of the drained room (ch9). Too big to read
-    from the ground. Nobody has said anything about it.
-21. Whether the thing in the room cannot leave it or chooses not to, and what
-    the difference would mean. ch9 leans hard towards cannot: there is a fence
-    cut round it and it is inside the fence.
-22. Marit can identify the owner of the rope, the lamp and the hay knot, and
-    said so. She has not said a name. She is not stupid and she has worked out
-    what the answer is going to be.
-23. What Gaara taught it. It has now fed from him twice, the second time because
-    he offered, and he was the only thing in the room worth taking from.
+6. MP 60, still untouched by him. Nine chapters of carrying a number he has
+   never once spent. Magic remains unencountered.
 7. The war in the east, and a lord who does not answer letters.
-8. Teodor's mother and her lamp.
-9. The 11 coins and the script he cannot read. The translation covers speech; reading is untested.
-10. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
-11. Hallvard has no panel. Gaara has not asked anyone about it directly.
-12. He plans for one body on the field, and it is his own. In ch6 he deliberately
-    let the big one through into twelve feet of road he had checked and found
-    empty. It was empty of everyone except the people who live there. Osvald died
-    in it and Marit was hurt pulling him out. In ch7, quietly and without anger,
-    Hallvard names it: you had eighty people out here with tools in their hands,
-    you used two. This is the live cost of the self-reliance rule and it is on
-    the page now, not in a plan.
-13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
-14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
-15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
-16. The name, and the first time it becomes a record. Settled (section 1): he
-    took it at nineteen from a story he loved as a boy, from a child who was
-    kept apart and decided he needed nobody. Nothing of that is on the page,
-    and it is RESERVED for one scene: the first time somebody in this world
-    writes the name down. He carried it for nineteen years without it ever
-    touching paper; here it becomes an entry.
-    The scene needs no new machinery, everything is already standing: Hallvard
-    writes to the lord every month (ch4, ch5) and Gaara owes him proof out of
-    the ruin (ch5). So the vehicle is the monthly letter.
-    It has to carry three things at once, which is why it is worth waiting for:
-    the origin, in narration only, never as an explanation to another person;
-    thread 9, because this is where reading finally gets tested and he watches
-    his own name go down in letters he may not be able to check; and thread 13,
-    because it is the first writing he has seen in this world at all.
-    Decide at the moment of writing, not before: which script the panel renders
-    in, and therefore whether he can read the letter over the elder's shoulder.
-    NOT in chapter 7 - that chapter is carrying the dependency cost, and two
-    heavy things in one chapter devalue both.
-19. THE DISCREPANCY (ch6). In ch5, to the whole village, Hallvard said his
-    grandmother lived eighty years in this house. In ch6 Marit says, without
-    thinking anything of it, that he has been elder thirty-one years and came up
-    the road four or five winters before that. She has never once had to work
-    out what that means. Both statements cannot be true.
-    Gaara cannot cash it, and the reason is the oldest thing about him: he does
-    not know what "my grandmother" is worth here. Blood, or the house he married
-    into, or what anyone calls the old and gone. He has the discrepancy and not
-    the dictionary. He files it beside thread 11 and says nothing.
+8. The 11 coins and the script he cannot read. Translation covers speech;
+   reading is untested.
+9. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
+10. Hallvard has no panel. Gaara has not asked anyone about it directly.
+11. He plans for one body on the field, and it is his own. In ch6 he let the big
+    one through into twelve feet of road he had checked and found empty, and it
+    was empty of everyone except the people who live there. Osvald died in it.
+    In ch8, in the tube, he assigns Marit a slot and takes the other himself, on
+    purpose, and likes none of the arithmetic. The cost came before the choice,
+    which is the right way round.
+12. The world's technological level, and whether printing exists. He has still
+    not seen a book. Feeds the long game (section 7). The channel in ch8 is the
+    first hard evidence and it is civil engineering, not magic.
+13. The nobility, and whether anything large needs a noble backer.
+14. This world's norms on sexuality and non-exclusive partnership.
+15. The name, and the first time it becomes a record. RESERVED for the scene
+    where somebody in this world writes it down. See section 1.
+16. Whether anything stands above Gaara's own head, and who could read it. He
+    has never asked and has never looked.
+17. THE STICK-CARRIER. Somebody has been going into the ruin for months: a fire
+    on a ledge, buried under a stone that does not match the hall and deep
+    enough to be many fires; twelve feet of village-made rope, cut clean and
+    coiled; and a path in the silt of two feet with a round mark beside them
+    every second stride, pressed SHALLOW, so the stick was carried and never
+    leaned on. He kills crawlers with one clean entry at the seam and takes
+    nothing at all.
+    Gaara does not identify him and has no reason to think about a walking
+    stick. THE READER CAN. Hallvard has carried one since ch5 and used it on a
+    leg joint in ch6 with a precision no farmer in that road could manage.
     DO NOT resolve this as "he was secretly evil" (see character-arc.md).
-    An incomer with no kin who was handed forty houses inside five years is
-    interesting on its own, and it makes his case against Gaara in ch5 something
-    other than suspicion of strangers.
-18. Hallvard in the dark (seen in ch6, recalled in ch7). He stood in the open
-    where nobody sensible stood, and put the ferrule of his stick into a leg
-    joint with a movement no farmer in that road could have made. Gaara saw it,
-    had no time for it, and filed it. Sits directly beside thread 11 (no panel).
-17. Whether anything stands above Gaara's own head, and who could read it. He
-    sees everyone else's panel and has never once asked the obvious next
-    question. The moment he does is worth spending deliberately.
-
+18. THE DISCREPANCY (ch6). Hallvard told the whole village his grandmother lived
+    eighty years in this house. Marit says he has been elder thirty-one years
+    and came up the road four or five winters before that. Both cannot be true,
+    and one of them was said to a crowd. Gaara cannot cash it because he does
+    not know what "my grandmother" is worth in this country. He has the
+    discrepancy and not the dictionary.
+19. What ??? means, and why it is a different failure from Hallvard's empty air.
+    Gaara now has both in his head and has not put them side by side out loud.
+20. Whether his guess at the level price is right. He has one data point and has
+    built a plan on it, which is precisely the thing he warns other people about.
 
 === 7. LONG GAME (author's intent, not yet canon) ===
 

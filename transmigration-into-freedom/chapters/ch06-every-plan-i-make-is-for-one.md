@@ -239,11 +239,11 @@ He read it with his hand still inside Marit's arm.
 
 He had stood beside that man for the length of a fight and had not asked. Bern had given his name unprompted, in case. This one had come out of a door to help a stranger and had not been offered the chance. Now the thing handed it over, four feet from the body, in the voice it used for livestock.
 
-Nothing else came. No level, no line, nothing at all about the two he had killed.
+Nothing else came. No level, no line, nothing at all about the one he had put down in the road.
 
-He worked out why while he knelt there, because that was what he had instead of grief. Two of them had been worth a level when he was Level 1. They were not worth one now. The scale compressed as it climbed, here as everywhere, and he could kill crawlers in this road until spring and arrive nowhere.
+He did the arithmetic while he knelt there, because that was what he had instead of grief. Two had bought a whole level when he was Level 1. He had three in the ground now and it had bought nothing, so the second level had cost more than the first and the third would cost more than the second.
 
-Whatever was worth having was further in.
+That was a shape he knew. Every ladder he had ever climbed had been built that way, and the men who built them never wrote the numbers on the wall.
 
 "Later," he said, to nothing in particular.
 

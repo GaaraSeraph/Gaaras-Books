@@ -117,19 +117,15 @@ in total, and the system gives him nothing - because two crawlers were a level's
 worth at Level 1 and are worth nothing at Level 2. Still Level 2, HP 165, CON 9,
 MP 60 untouched, Dagger Mastery still E. What he takes out of the chapter is the
 knowledge that this road leads nowhere, and a name he did not ask for.
-Chapter 9: MP 60 to 41 (taken), then 41 to 6 (given). No level, no skill, no
-attributes. The first magic in the book is done TO him and the second is done BY
-him, in the same chapter, and neither one is a spell. It regenerates, which is
-worse: it means he is renewable.
-SUPERSEDED NOTE below, kept because the reasoning still holds -
-Chapter 9 first draft: MP 60 to 41, and not by his hand. No level, no skill, no attributes.
-The only number that has moved in four chapters moved because something else
-reached in and moved it.
-Chapter 8: no mechanical change. No kills, so nothing to pay out. Still Level 2,
-HP 165, CON 9, MP 60 untouched, Dagger Mastery E. Three chapters now without a
-number moving, on purpose: the ladder does not go up in that road, it goes in.
-Chapter 7: no mechanical change. No panel at all except the one he does not get.
-Gear unchanged, three days of bread confirmed, and Marit leaves with him hurt.
+Chapter 8: no mechanical change to the sheet, and the biggest system chapter
+since ch3 anyway. He tests the panel on purpose for the first time, works out
+that it reads living things unasked and objects only through a skill, and then
+reads his own status block line by line instead of skimming it, and finds a
+Kills counter that has been there all along. Kills: 3. Still Level 2, HP 165,
+MP 60 untouched, Dagger Mastery E, Class None.
+Chapter 9: no mechanical change. He spends the chapter reading OTHER things:
+twenty crawler corpses whose levels climb from 4 to 6 along a dead man's line,
+and then the dark behind the gate, which comes back ???.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -138,10 +134,10 @@ Pacing rules
   It nearly shipped that way in ch6. Level 3 must cost something of a different
   order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
-- PAID, ch9, and in the strongest available form: he still has not spent a single
-  point. Something took nineteen of them off him in the dark and he felt them go.
-  Magic entered this book as a theft. Keep it that way for a while - the first
-  time he SPENDS any should cost him a decision, not a discovery.
+- MP is still untouched at the end of ch9. Magic has not arrived and must not
+  arrive as a present. When it comes, the first instance should be done TO him
+  or paid FOR by him, not cast by him. MP regenerates, which is why being drawn
+  on is not a wound but a subscription.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
 

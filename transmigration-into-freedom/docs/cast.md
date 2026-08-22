@@ -4,23 +4,16 @@ Kapitelstand: siehe HANDBUCH.md (vom Build).
 
 Marit Halden, Level 6
 - Mid twenties, weathered, hair tied under a cloth strip, forearms that have worked. Carries a hatchet and raises it like someone who has done it before.
-- ch9: climbs twenty-five feet of rope one-handed while he stands underneath and
-  pays a thing in the dark to keep it still. She reads the knot on the
-  abandoned bundle at a glance - a hay knot - and when he says he could not
-  pick the owner out of her village, she says, after a long moment, "I could."
-  She does not say a name. She has worked out what the answer is.
-- AND SHE ANSWERS ONE. Out on the far side she asks him for the line about her
-  ass, because he did not make it once in that room and she wants to know they
-  are both out. He gives it and asks for the carry to be counted twice. She says
-  "ask me again when I've two arms" and walks south. That is the first time she
-  has played rather than deflected, it is conditional on her healing, and it is
-  a date. Do not cash it early.
-- Carries the chapter she is hurt in (ch8). One-armed, slower, every step
-  costing, and still the one who reads the ground: she stops him twice over
-  holes hidden under moss ("colour of the moss - you'll learn it in about eleven
-  years"), she sees that the buried fire is many fires and not one, and she
-  identifies the rope as village-made rather than city-made. He can read the
-  stonework. He cannot read any of that.
+- Carries ch8 and ch9 one-armed and slower, and is still the one who reads the
+  ground: she sees that the buried fire is many fires and not one, and she
+  names the rope as village-made rather than city-made. He can read stonework.
+  He cannot read any of that.
+- AND SHE OUT-THINKS HIM ONCE, in one line, about his own panel. He works out
+  that it reads the knife but not a boulder and not his own hand, and is still
+  assembling the sentence when she says: "So it tells you what you already know
+  how to look at." He stops walking. "You said it better, which is worse."
+  The arc document asks for her to be right about something important that he
+  is wrong about. This is the first instalment and it is about his instrument.
 - Fights in ch6 rather than watching: comes in on his left with the hatchet in
   both hands and puts it through a leg joint. She takes his compliment in the
   middle of it without breaking stride or taking offence.

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-9 Kapitel. 20.031 Woerter.
+9 Kapitel. 18.247 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -13,10 +13,10 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 03 | Chapter 3: Dead Man's Boots | 2.481 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: Every Plan I Make Is for One | 2.367 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 2.395 |
 | 07 | Chapter 7: How Did You Know | 1.876 |
-| 08 | Chapter 8: They Were Running Too | 2.493 |
-| 09 | Chapter 9: What Opened in Spring | 1.961 |
+| 08 | Chapter 8: It Has Been Keeping Score | 1.086 |
+| 09 | Chapter 9: What the Panel Will Not Say | 1.556 |
 
 ---
 
@@ -1381,11 +1381,11 @@ He read it with his hand still inside Marit's arm.
 
 He had stood beside that man for the length of a fight and had not asked. Bern had given his name unprompted, in case. This one had come out of a door to help a stranger and had not been offered the chance. Now the thing handed it over, four feet from the body, in the voice it used for livestock.
 
-Nothing else came. No level, no line, nothing at all about the two he had killed.
+Nothing else came. No level, no line, nothing at all about the one he had put down in the road.
 
-He worked out why while he knelt there, because that was what he had instead of grief. Two of them had been worth a level when he was Level 1. They were not worth one now. The scale compressed as it climbed, here as everywhere, and he could kill crawlers in this road until spring and arrive nowhere.
+He did the arithmetic while he knelt there, because that was what he had instead of grief. Two had bought a whole level when he was Level 1. He had three in the ground now and it had bought nothing, so the second level had cost more than the first and the third would cost more than the second.
 
-Whatever was worth having was further in.
+That was a shape he knew. Every ladder he had ever climbed had been built that way, and the men who built them never wrote the numbers on the wall.
 
 "Later," he said, to nothing in particular.
 
@@ -1597,7 +1597,7 @@ He had nothing for that. He carried it north with him, up the paved road, toward
 
 ---
 
-# Chapter 8: They Were Running Too
+# Chapter 8: It Has Been Keeping Score
 
 They walked north in the mist for a while without saying anything, which for him was a personal record.
 
@@ -1605,11 +1605,7 @@ They walked north in the mist for a while without saying anything, which for him
 
 "We're not keeping one."
 
-"I would still come and get you."
-
-Marit did not look over. The strapped arm was held against her body and the hatchet hung in her left hand, and she was setting her feet down the way people do when every step costs something.
-
-"Last night I told you I could not get us both out of there," he said. "That was true and it is still true and I am not taking it back. But I want it understood before we go in that I would try to save that ass, and since you are attached to it, you would come out with it."
+"I would still come and get you." He said it to the road. "Last night I told you I could not get us both out of there. That was true and it is still true. But I want it understood before we go in that I would try to save that ass, and since you are attached to it, you would come out with it."
 
 She walked about ten paces.
 
@@ -1619,77 +1615,150 @@ She walked about ten paces.
 
 "Keep up," she said, and did not walk any faster.
 
-The ruin came up out of the mist one broken wall at a time. Then the walls stopped being separate things and became a city, and the light went grey under the trees that had grown up through it.
+He spent the next mile doing something he should have started on the first morning.
 
-She took him along the outside, east, over ground that looked like nothing and was not. Twice she put a hand out and he stopped without asking why, and both times there was a hole under the moss where his foot had been going.
+He had carried an instrument for two days and had never once asked it a question. For a man who had spent nineteen years taking other people's systems apart, that was not caution. It was cowardice. He named it privately and moved on.
 
-"How do you know?"
+So he began with the cheap tests.
 
-"Colour of the moss." She shrugged with one shoulder. "You'll learn it in about eleven years."
+A crow on a fence post.
 
-The water came out from under the stones the way Bern had said, at the foot of a collapsed mass of masonry on the city's southern edge. It ran cold and clear and steady, and nothing about it looked wrong.
+Crow
+Level 1
+
+A rowan tree.
+
+Nothing.
+
+A boulder. Nothing. His own hand, held up in front of his face, which felt idiotic and which he did anyway.
+
+Nothing.
+
+"Marit. Stand still a moment."
+
+She stood still. He looked at her.
+
+Marit Halden
+Level 6
+Human
+
+"Right," he said. "It does living things and it does not do rocks."
+
+"Does what?"
+
+"Later."
+
+He tried the mist, and the sky, and on a bleak impulse the boots he was standing in, and was relieved to get nothing in a way he did not care to examine.
+
+Then he stopped and looked at the rusted knife.
+
+Field knife, human manufacture. Heavily corroded. Edge geometry intact.
+Structural integrity: adequate for soft targets. Avoid bone.
+
+"There," he said. "There you are."
+
+"What."
+
+"It reads the knife. It does not read the boulder and it does not read the tree and it will not read my own hand. But it reads the knife, because I have a skill for knives." He turned it over in the grey light. "That thing is a set of windows and not one window, and I have been issued exactly two of them, and one of them is a dagger."
+
+Marit considered that.
+
+"So it tells you what you already know how to look at."
+
+Gaara stopped walking.
+
+"Say that again."
+
+"It tells you what you already know how to look at." She shrugged with the good shoulder. "You said it. I just said it shorter."
+
+"You said it better, which is worse." He started walking again, faster. "That is a very unpleasant thought about a thing that lives in my head."
+
+The last test he saved until they were in sight of the ruin, and it was the one he had been putting off since the road.
+
+He pulled the panel forward and made himself read it properly. All of it, line by line, the way he would have read a contract, instead of skimming for the numbers he liked.
+
+[ STATUS ]
+
+Name: Gaara
+Level: 2
+Race: Human
+Class: None
+HP: 165/165
+MP: 60/60
+STR: 12
+DEX: 8
+CON: 9
+INT: 12
+WIS: 10
+Kills: 3
+
+"Oh," he said. "You have been keeping score where I could see it. Of course you have."
+
+Three.
+
+He stood in the wet road and worked it, and it took about four seconds and it was not good news.
+
+Two kills had bought Level 1 to Level 2. He had killed one more in the road last night and the second had not arrived. So the price had gone up, and the only question was by how much, and the cheapest guess was that it doubled.
+
+Four for the second step. Which meant three more from where he stood.
+
+"How many of those things did I kill last night?" he said.
+
+"One. The big one." Marit did not look round. "Bern had the first. Bern and Jorn and Halle's boy had the second, and it took them a while."
+
+"Yes," said Gaara. "That is what it says too."
+
+The water came out from under the stones the way Bern had said, at the foot of a collapsed mass of masonry. Cold, clear, steady, and nothing about it looked wrong.
 
 Gaara went down on his heels in it and put his hand flat on the bottom.
 
-"Well," he said. "That is disappointing."
-
-"Disappointing how?"
-
-"It's a stream. I was promised a mystery."
-
-He said it and then he stopped saying it, because his palm had gone across a joint.
-
-"I want it noted," he said, "that I am on my knees in a river before breakfast. People have paid me a great deal of money to do considerably less."
+"I want it noted that I am on my knees in a river before breakfast. People have paid me a great deal of money to do considerably less."
 
 "Nobody is noting anything."
 
-He moved the hand. Another joint, at the same distance. He worked along the bed of it on his knees in freezing water with his sleeve going dark to the shoulder, and the joints kept coming, evenly, the way joints only come when somebody has put them there.
+His palm went across a joint.
 
-"Marit."
+He moved the hand. Another joint, the same distance along, and another, evenly, the way joints only come when somebody has put them there.
 
-"What."
+"This is not a stream," he said. "This is a floor. One foot of fall in forty, and it does not vary, so it was measured. Your water is coming out of a drain."
 
-"This is not a stream. This is a floor." He sat back on his heels. "Somebody dressed these stones and laid them to a fall. There is about one foot of drop in forty and it does not vary, which means it was measured, which means it was built by people who could measure. Your water is coming out of a drain."
+Marit stood in it and looked, and he watched her decide to believe him before he had finished, which was the difference between her and forty houses.
 
-She came and stood in it and looked at what he was showing her, and he watched her decide to believe it before he had finished the sentence, which was the difference between her and forty houses.
+They followed it south, away from the ruin, and after two hundred paces it went back underground into a mouth of dressed stone with a lintel over it, half choked with silt.
 
-"It comes out of the old city."
-
-"It comes out of something under the old city." He stood up. "And now I would like to know where it goes."
-
-They followed it downhill, south, away from the ruin. After about two hundred paces it went underground again, into a mouth of dressed stone with a lintel, half choked with silt.
-
-Gaara crouched at the mouth of it and put his head in and stayed there long enough that Marit told him not to.
-
-When he came out he was not talking.
+Gaara put his head into it and stayed there long enough that Marit told him not to.
 
 "What."
 
-"It carries on. It runs south under your fields." He wiped his hand down his thigh. "Where does the paved road go, Marit? Say it out loud for me."
+"It carries on. It runs south under your fields." He wiped his hand down his thigh. "Where does the paved road go, Marit. Say it out loud for me."
 
 "Out of the forest, through the village, back into the forest."
 
 "And what is under a road like that."
 
-She did not answer. She had gone very still, the way she had gone still in the road when she saw Teodor's boots.
+She had gone very still, the way she had gone still when she saw Teodor's boots.
 
-"There is no water in that leg," Gaara said. "It is dry and it has silt in it and the silt has been through. Not once. Many times, in one direction, and the last of it is fresh." He let that sit for exactly as long as it deserved. "They did not come down your road last night. They came under it."
+"There is no water in that leg. It is dry, and the silt in it has been walked many times in one direction, and the last of it is fresh." He let that sit. "They did not come down your road last night. They came under it."
 
-The mist had lifted off the fields behind them. Somewhere south of that, out of sight, forty houses were burying Osvald.
+Somewhere south of them, out of sight, forty houses were burying Osvald.
 
 "How far," she said.
 
-"I do not know. It is the wrong end to be standing at." He turned north, toward the city. "The end I want is the one where it starts."
+"Wrong end to be standing at." He turned north. "The end I want is where it starts."
 
-Going up inside the channel was worse than going up beside it, and they did it anyway, because the ground above was a lattice of holes with moss on them.
+---
 
-It was a stone tube a little higher than his head, arched, running in a straight line with the water at his ankles and then his shins. Every forty paces the arch was carried on a rib, and at every rib there was a slot cut into the stone on both sides, and Gaara ran his fingers into one as he went past.
+# Chapter 9: What the Panel Will Not Say
 
-"There were gates here," he said. "Somebody could shut this in pieces. You do not put gates in a drain to keep water in."
+They went up inside it, because the ground above was a lattice of holes with moss over them.
+
+A stone tube a little over head height, arched, water at his ankles and then his shins. Every forty paces the arch stood on a rib, and at every rib a slot was cut into the stone on both sides.
+
+"There were gates here," he said. "Somebody could shut this in sections. You do not put gates in a drain to keep water in."
 
 "What for, then?"
 
-"To keep water out of somewhere. Or to keep something out of the water." His voice came back off the stone at him, doubled, which he did not enjoy. "This is a very good hallway for a thing with six legs, by the way. I want you to know I have noticed that. If anything comes down here we are in a pipe with it."
+"To keep something out of the water." His voice came back at him off the stone, doubled, which he did not enjoy. "Also, this is an excellent hallway for a thing with six legs, and I want you to know I have noticed."
 
 "Then stop talking."
 
@@ -1701,19 +1770,19 @@ He went on ten paces.
 
 "There is no record."
 
-"There is now. I started one this morning."
+"There is now. It has a number in it and everything."
 
-It came about two hundred paces later, and it came fast.
+It came two hundred paces later, and it came fast.
 
-He heard it before he saw it, the dry clicking multiplied by the stone into something enormous, and the sound was coming down the tube at them, and there was nowhere in that tube to be except in it.
+He heard it first, the dry clicking multiplied by the stone into something enormous, and there was nowhere in that tube to be except in it.
 
 There was a rib eight paces back. A slot in the stone on each side, hand deep.
 
-He had about a second and a half, and he used it, and the thing he did with it was the thing he had not done in the road.
+He had about a second and a half, and what he did with it was the thing he had not done in the road.
 
-"Behind the rib, left side, get in the slot and get flat," he said. "You are the left. I am taking the right. Do not come out for me and do not swing at anything with your left hand in a tunnel."
+"Behind the rib, left slot, get flat," he said. "You are the left. I take the right. Do not come out for me."
 
-She went. She did not argue and she did not thank him, which he appreciated more than he expected to.
+She went. She did not argue and she did not thank him, and he was grateful for both.
 
 He got into the right slot with the knife reversed and his back against stone cut by somebody dead a thousand years.
 
@@ -1721,15 +1790,13 @@ And he thought, with a clarity that made him want to spit, that he had just buil
 
 Then it came through.
 
-It was bigger than the one in the road. It filled the tube almost to the arch. It went past him at a speed he had not known they had, throwing water up the walls, six legs hammering.
+It filled the tube almost to the arch. It went past him at a speed he had not known they had, throwing water up the walls, six legs hammering.
 
-It did not stop. It did not turn. It did not so much as look at the two soft warm things standing in the slots eighteen inches from its flank.
+It did not stop. It did not turn. It did not so much as look at the two soft warm things standing eighteen inches from its flank.
 
 The stink came after it and hung there.
 
-Gaara stayed in the slot for a long moment.
-
-"Not so much as a look," he said to the empty tube. "Eighteen inches. I have had colder receptions than that, but I generally had to pay for them."
+"Not so much as a look," Gaara said to the empty tube. "Eighteen inches. I have had colder receptions than that, but I generally had to pay for them."
 
 "It ran past us," Marit said.
 
@@ -1737,350 +1804,125 @@ Gaara stayed in the slot for a long moment.
 
 "They don't do that."
 
-"No." He came out of the stone and stood in the water and looked down the tube after it, south, toward her fields and her road and her houses. "It was not hunting. It was leaving."
+"No." He came out of the stone and looked down the tube after it, south, towards her fields and her road and her houses. "It was not hunting. It was leaving."
 
-"Leaving what?"
+Four hundred paces up, the tube opened into a hall with the roof gone and daylight coming down through roots.
 
-"That," he said, "is the first good question anybody in this country has asked me."
+The first dead one was on its back in the shallows with its legs folded in over it.
 
-They found the first dead one four hundred paces further up, where the tube came apart into a hall with the roof gone and daylight coming down in a shaft through roots.
+Gaara turned it with his boot. The plate behind the skull was opened, one clean entry, the same seam he used, done by somebody who had not had to look for it twice.
 
-It was on its back in the shallows with its legs folded in over itself.
+Nothing taken. Not a leg, not the meat behind the plate.
 
-Gaara turned it with his boot and did not need the knife to know. The plate behind the skull was opened, one clean entry, the same seam he used, done by somebody who knew where the seam was and had not had to look for it twice.
+"Somebody has been busy down here," he said, "and going home unsatisfied every time. I have a great deal of sympathy and no idea what for."
 
-Nothing had been taken. Not a leg, not the meat behind the plate, nothing.
+Then he looked at it properly, the way he had spent all morning teaching himself to.
 
-"Somebody has been busy down here," Gaara said, "and going home unsatisfied every time. I have a great deal of sympathy and no idea what for."
+Gloom Crawler
+Level 4
 
-"Two more," Marit said, from the edge of the water.
+He stood very still.
 
-There were four in that hall. All the same wound. All left where they fell.
+"Marit. The ones that came into the road last night. Describe the big one against this."
 
-"Somebody is killing them and eating nothing," Gaara said. He crouched by the last one. "A predator would be down here every night with a napkin. This is somebody clearing a corridor."
+"Smaller. That one's got a hand's width on it across the back."
 
-"Or defending one."
+"Yes," said Gaara.
 
-He looked up at her.
+There were four in that hall. He read all four, then walked the line into the next stretch and read those, and by the ninth Marit had noticed he had stopped talking.
 
-"Yes," he said. "Or that."
+Level 4. Level 4. Level 5.
 
-The fire was on a dry ledge above the waterline, where the hall met the next stretch of tube. He found it because he had started looking for the wrong thing and tripped over the right one.
+Level 5.
 
-It had been buried. Properly buried. Ash and charcoal turned into the silt, the silt smoothed over, a flat stone laid on top. If that stone had not been a different stone from every other stone in the hall, he would have walked past it.
+Level 6.
+
+"They go up," he said.
+
+"What do?"
+
+"The dead ones. They get worse the further in he went." He crouched by the ninth and did not touch it. "Whoever this is came in at the mouth, killed a four, and kept walking. He is up to sixes here and he has not turned round." He looked along the line into the dark where it kept going. "Marit, the highest thing in your village is you, and you are a six."
+
+She did not say anything for a while.
+
+"How far does the line go?"
+
+"That," said Gaara, "is the question I have been trying not to ask since the second body."
+
+The fire was on a dry ledge where the hall met the next stretch of tube, and he only found it because he had started looking for the wrong thing.
+
+Buried. Properly. Ash and charcoal turned into the silt, the silt smoothed over, a flat stone laid on top. If that stone had not been a different stone from every other in the hall, he would have walked past it.
 
 He lifted it and put his fingers in and they came out grey.
 
-"Somebody sat here," he said. "Then they took the trouble to make it look like nobody had."
+"Somebody sat here," he said, "and then took the trouble to make it look like nobody had."
 
-Marit crouched down with her hatchet across her knees and looked at it for a while.
+"That's not one fire," Marit said, crouching. "Look at the depth of it. That's a fire somebody's had a lot of times."
 
-"That's not one fire," she said. "Look at the depth of it. That's a fire somebody's had a lot of times."
+She was right, and he had been about to say it, and she had got there first one-handed.
 
-She was right. He had been about to say it and she had got there first, one-handed, and he made a note of that too.
+The rope was six feet away, cut clean and coiled, twelve feet of it going green.
 
-The rope was six feet away, cut clean and coiled and left on the ledge, twelve feet of it, going green.
+Marit turned it over with her thumb.
 
-Marit picked it up in her left hand and turned it over with her thumb.
-
-"This is ours," she said.
-
-"Yours?"
-
-"Not mine. Made the way we make it. Three strand, hemp, this lay." She held it out so he could see the twist. "You could buy that in any village between here and the coast, so don't look at me like that. But it wasn't made in a city."
+"This is ours. Not mine. Made the way we make it, three strand, this lay." She held it out. "You could buy that in any village between here and the coast, so don't look at me like that. But it wasn't made in a city."
 
 "Wonderful. We have narrowed our man down to everybody."
 
-He did not look at her like anything. He was looking at the silt beside the ledge, where somebody had come and gone often enough to leave a path in it.
+He was not looking at the rope. He was looking at the silt beside the ledge, where somebody had come and gone often enough to wear a path in it.
 
 Two feet, one in front of the other.
 
-And beside them, every second stride, a round mark about the size of a thumb, pressed shallow into the silt. Shallow, not deep. Whatever made it had touched the ground each time and had not been leaned on at all.
+And beside them, every second stride, a round mark about the width of a thumb, pressed shallow.
 
-Gaara looked at it for a while.
+Shallow, not deep. Whatever made it had touched down every time and had never once been leaned on.
 
-He knew what a walking stick looked like in mud. He had seen the marks his grandmother's stick left in a garden path when he was nine years old, and they had been deep, because she had used it to hold herself up.
+Gaara looked at it for a long moment.
+
+He knew what a walking stick left in soft ground. He had seen his grandmother's in a garden path when he was nine, and hers had been deep, because she had needed it.
 
 This one held nothing up. This one was carried.
 
-"Somebody comes here," he said. "Regularly. With a light and a rope and a stick they do not need."
+"Somebody comes here," he said. "Regularly. With a light and a rope and a stick he does not need."
 
 "A hunter?"
 
-"A hunter takes something home." He straightened up. "This one comes in, kills, buries his fire, and leaves. Nobody makes a living that way. That is a duty."
+"A hunter takes something home." He straightened. "Nobody makes a living this way. That is a duty."
 
-He did not say the rest of it. It was still a shape rather than a thought, and he had learned a long time ago what happens to a man who says a shape out loud before it has edges.
+He did not say the rest of it. It was a shape and not yet a thought, and he knew what happens to a man who says a shape out loud before it has edges.
 
-He filed it, next to a stick and an empty patch of air, and went on up the channel.
+He filed it, next to the empty air over an old man's shoulders, and went on up the channel.
 
-The head of it was another four hundred paces, and there was no spring at the end of it.
+The head of it was four hundred paces further, and there was no spring at the end of it.
 
 The tube ended in a wall, and in the wall there was a gate.
 
-Iron, or something like iron, black with age and thicker than his arm, set in a frame of dressed stone with the same slots he had been running his fingers into for the last half hour. It filled the channel from floor to arch. Behind it, through it, the water came out of the dark in a slow cold sheet.
+Iron, black with age, thicker than his arm, set in dressed stone with the same slots he had been running his fingers into all morning. Behind it the water came out of the dark in a slow cold sheet.
 
 The gate was up.
 
-Not broken. Not rusted through, not fallen, not smashed outward by anything coming from behind it. Raised, eighteen inches, and held there on two blocks of squared stone that somebody had put under it.
+Not broken, not fallen, not rusted through. Raised eighteen inches and held there on two squared blocks that somebody had carried in.
 
-Gaara stood in front of it with the water going past his knees and did not say anything for long enough that Marit put a hand on his shoulder.
+Gaara stood in front of it with the water going past his knees.
 
-"That was shut," he said. "For a very long time. Look at the wear line on the frame. It sat closed long enough to cut a mark in the stone."
+He looked at the gate. Then he looked at the dark behind it, and he made himself do the thing he had been practising all day, and pointed the instrument into it.
 
-"And now it's open."
+???
 
-"Now it is open eighteen inches, which is exactly enough for something the size of the one that went past us in the tube." He crouched and put his hand on the nearer of the two blocks, and it was dressed, and it was dry on top, and it had been carried here from somewhere else. "And it did not open itself, and it was not opened from that side."
+He had not known it could say that.
 
-The water came out of the dark under the gate and went south, down the channel, under the fields, under the road, under the houses.
+Nothing else. No name, no level, no line. Three characters where a number went, hanging in the air a foot from an eight-hundred-year-old iron gate, and behind them the water coming out of the dark.
+
+"Gaara."
+
+"It reads a crow," he said. "It reads a goat. It read a dead man in your road last night and gave me his name after he had stopped needing it. It has never once refused me."
+
+"What does that mean?"
+
+"It means whatever is through there is alive, or was, or is close enough that the difference does not help me." He did not move. "And whatever it is, that thing in my head has looked at it and declined to answer."
+
+The water came out from under the gate and went south, down the channel, under the fields, under the road, under the houses.
 
 "Something changed in spring," Marit said.
 
 "No," said Gaara. "Somebody did."
-
----
-
-# Chapter 9: What Opened in Spring
-
-Eighteen inches is enough for a crawler.
-
-It was not much for a man.
-
-Gaara went under the gate on his back with the iron a hand's width above his nose and the knife flat on his chest.
-
-"If it comes down on me," he said, "tell my creditors I died solvent."
-
-"You want me to lie."
-
-"I want you to try it once and see how it suits you."
-
-He came out, stood up, and stopped talking.
-
-The tube ended six paces on. Beyond it there was air, and a floor going away into the dark, and a vault somewhere over his head that he could not find the top of.
-
-Marit came out behind him and saw it before he could say anything.
-
-"That's a water line," she said. "Up there. All the way round."
-
-Twenty feet. Maybe twenty-five, stained level into the stone.
-
-Gaara turned and looked back at the gate he had just crawled under, and at the wear line cut into its frame by eight hundred years of sitting shut.
-
-"I was wrong," he said.
-
-"About what."
-
-"You do not gate a drain to keep water in." He was already walking. "You do it to keep a room full."
-
-The nests started forty paces in.
-
-Mounds of chitin and silt and bone, built up off the floor, going away into the dark in every direction like a town.
-
-All of them empty.
-
-"How many."
-
-"Do not."
-
-"How many."
-
-"Hundreds." He did not look at her when he said it. "They were down here the whole time, under the water. Then the water started going, and they walked out through the only hole in the room."
-
-Somewhere far off, water dripped into water.
-
-The dead ones began a hundred paces further in.
-
-Six, then nine, then more than he counted, laid in a rough line going deeper, each opened at the seam behind the skull, each left whole.
-
-Not a fight. A road.
-
-It was also, he noticed, the only ground in that hall where a person could walk without going over a nest.
-
-They walked it.
-
-The kit was at the end of it.
-
-A shuttered lamp on its side. A coil of rope. A leather bundle tied in a way Gaara had never seen and Marit had, because she went down on one knee beside it and did not touch it and said "that's a hay knot" in a voice with nothing in it.
-
-Past that, nothing. The line of dead crawlers stopped. Beyond it the nests ran on into the dark, unopened.
-
-"He got this far," Gaara said.
-
-"And then?"
-
-"And then he did not come back for his lamp." He crouched over the shutter, and the oil in it, and how little of it had burned. "This is a man who buries his own fire so that nobody knows he sat down. He does not leave a lamp lying. He left it because carrying it had stopped being the point."
-
-He stood up with the rope and the bundle in his hands and the lamp under his arm, and he had no name to put to any of it.
-
-Somebody had come down here alone, over months. Told nobody. Taken nothing. Tidied up after himself every single time.
-
-He knew exactly what that was. He had been doing it for nineteen years.
-
-It had not worked for this one either.
-
-Then the floor changed under his boot.
-
-He crouched. Not laid stone. Carved. A groove running away in both directions with something cut along it, and he followed it twenty feet and it did not turn enough to tell him anything.
-
-"It's a circle," Marit said, from further out. "It's a circle and we're standing in it."
-
-The dripping stopped.
-
-Not softened. Stopped, the way a room stops when somebody in it holds their breath.
-
-The water in the dark ahead moved, and it did not move like water with something swimming in it.
-
-He did not see all of it. He never saw all of it.
-
-A wet edge came up past the reach of the light, higher than the vault should have allowed, and crossed the beam from one of the roof holes, and its shadow went over them and out.
-
-Something opened. Not a mouth.
-
-And the panel came apart.
-
-The letters slid off themselves. The whole translucent thing shivered like a reflection in a kicked bucket, and behind his sternum something pulled, and it was not pain.
-
-He felt it leave. That was the part he kept.
-
-A withdrawal, low and cold, as though a hand he could not see had reached into his chest and taken out something he had never spent and had not known he was keeping warm.
-
-The panel steadied.
-
-MP: 41/60
-
-And out in the dark, the groove in the floor went pale.
-
-Not bright. Pale, all the way round, further than the light reached, a thin cold line running away on both sides and closing somewhere he could not see.
-
-It held for about two breaths and went out.
-
-The thing had not moved while it took.
-
-Gaara filed that with both hands.
-
-"Run," he said.
-
-Then the vault came down.
-
-Not on them. Forty feet behind, between them and the tube, and the sound arrived as a punch, and the dark filled with grit, and when it cleared there was no tube mouth any more. There was a slope of broken vault going up into a wall.
-
-They looked at it for exactly as long as they could afford.
-
-"Up," Marit said.
-
-The nearest roof hole was out over the nest field, twenty-five feet, with a cone of rubble under it where the vault had been letting go for centuries.
-
-They took his road to get to it. The dead man's road, one corpse to the next, because it was the only line across that floor where a person could run.
-
-Behind them the water moved again, and kept moving, and did not hurry.
-
-The cone got them nine feet up. The rope got them the rest, after Gaara had thrown the coil three times and caught a stub of broken rib on the fourth.
-
-"You first," he said.
-
-"You can't hold it and climb."
-
-"I am not holding it. It is on the rib." He was already turning round. "I am going to stand here and be interesting."
-
-"Gaara."
-
-"With one arm you need both feet and you need time. Time is the only thing down here I can buy. Go."
-
-She went. One-handed, boots walking the wall, the strapped arm dead against her body, and it was slow, and it was going to stay slow the whole way.
-
-Gaara put his back to the stone and watched the dark come across the nest field.
-
-He worked it while he waited, because that was what he had instead of courage.
-
-It had not moved while it was taking. He had watched that happen. The pull under his sternum and the pale line in the floor had both finished before the water started again.
-
-Feeding and walking were separate. It could not do both.
-
-He had never spent a point of it in his life. There was no word for it, no gesture, nothing on the panel that said press here.
-
-But he had felt it go out of him once, and a man who has been robbed knows where the door is.
-
-So he stopped holding it.
-
-That was all it was, in the end. Not a spell. A decision to stop keeping something warm.
-
-The pull came back at once, greedy, and this time he leaned into it.
-
-MP: 33/60
-
-The dark stopped coming.
-
-MP: 26/60
-
-Above him Marit swore at the wall and kept climbing. He did not look up. Nineteen years had taught him that watching the thing you are buying time for is how you stop buying it.
-
-MP: 19/60
-
-Cold now, and not in his hands. Behind his eyes, and in the floor of his stomach. And there was a sound out there in the dark that he understood, without wanting to, was pleasure.
-
-The pale line came up all the way round, and stayed up.
-
-MP: 11/60
-
-He heard her reach the lip. He heard her get her legs over it. He heard her shout his name.
-
-He let go of the rest.
-
-MP: 6/60
-
-Then he turned and climbed, and he climbed badly, and the whole way up he knew that the only reason nothing was pulling him off that rope was that he had paid it not to.
-
-He came over the edge on his stomach into wet grass and daylight, and lay in it.
-
-Marit was on her back beside him with her good arm across her eyes.
-
-Neither of them said anything for a while.
-
-Then Gaara rolled over and looked down through the hole.
-
-From up here you could read it.
-
-The circle went round the whole floor of that room, a hundred and fifty feet across, cut into the stone in one unbroken line. There were marks along it at intervals, and the marks were not decoration. They were spaced the way things are spaced when the spacing is the point.
-
-It ran round the middle of the room. The middle of the room was where the water still stood.
-
-The thing in the water was inside the line.
-
-"It's a fence," Gaara said.
-
-"That's not a fence."
-
-"It is a fence, and somebody built a room round it, and filled the room to the roof, and shut an iron gate on the outflow to hold it there." He was still breathing wrong. "Three of everything. Nobody does three of everything unless the first two have already failed once."
-
-He sat up.
-
-The bundle was still under his arm. The lamp was still in his hand. He had carried both up a rope with six points of himself left and had not noticed doing it.
-
-"Whoever left this knew all of that," he said.
-
-Marit did not answer.
-
-"He came down here for months. He cut a road through them. He got as far as a line on the floor and then he put his lamp down and never picked it up." Gaara turned the bundle over. "He knows what is in that room. He has known since spring. And four people are dead in your fields, and Osvald is on a door in your road, and nobody in Oldstep has ever heard a word about any of it."
-
-"Say who you mean."
-
-"I do not know who I mean." He said it flatly, because it was true and because he hated it. "That is the whole of the problem. I have his rope, his lamp and his knot, and I could not pick him out of your village if you lined all of it up in front of me."
-
-Marit looked at the bundle for a long moment.
-
-"I could," she said.
-
-The mist had gone off the fields. Somewhere south of them, forty houses were putting a man in the ground.
-
-Gaara got up, and his legs made it clear this was a courtesy and not a habit.
-
-"Right," he said. "The other thing."
-
-"What other thing?"
-
-"You told me to start again when I could." He picked up the rope. "You have a magnificent ass, and down there I bought it about eleven seconds at a time with something I did not know I had, and I would like that counted."
-
-"It's counted."
-
-"Twice."
-
-"Ask me again when I've two arms," Marit said, and started walking south, towards the village that was sitting on top of all of it.
