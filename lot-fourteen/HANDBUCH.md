@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 55.772 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 55.833 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1284,7 +1284,7 @@ der nicht zurückblättert.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 23** *Have you eaten* (v2.0) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden. Annie setzt sich auf den Beton. Die drei Kippenstummel und ihr erstes echtes Lachen. **Sie wirft die Fernbedienung in den Han.** Das Halsband bleibt. Im Wagen die Frage vom Gelaender.
+- **Kapitel 23** *Have you eaten* (v2.1) - Dieselbe Nacht, ohne Zeitsprung. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; er kommt viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld fuer einen Bus, keinen Ort, kein anderes Ergebnis als zurueck. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden. Annie setzt sich auf den Beton. Der Beweis, dass er nicht fuer Geld dableibt, und er besteht aus ihm selbst: **Er wird nicht bezahlt**, es gibt keine Abrede, unter der er je einen Won bekommt, und die Ecke bei den Garagen kennt er seit seiner zweiten Nacht. Zwei Saetze, keine Liste, und sie antwortet nicht darauf. Die drei Kippenstummel und ihr erstes echtes Lachen. **Sie wirft die Fernbedienung in den Han.** Das Halsband bleibt. Im Wagen die Frage vom Gelaender.
 
   **Was sich damit aendert, und das war der Punkt.** Eine Fassung endete versoehnt und ohne Folgen - er fuehrt vor, dass er gehen kann, sie holt ihn, und die Lage ist die von halb sechs. Das traegt nicht. **Die Fernbedienung ist ab jetzt im Fluss**, und beide wissen, dass eine neue in zwanzig Minuten angelernt waere, und keiner sagt es. Was sie wegwirft, ist ihres; das Halsband ist es nicht, und sie sagt das auch: *"That was mine to throw. The rest of it is not mine to give back."* **Georgij kann nicht lesen, was er da gesehen hat** - Entwaffnung oder eine Frau, die den Beweis schon erbracht hat und das Geraet nicht mehr braucht. Das ist die zweite Stelle nach Kapitel 20, an der er eine Frau nicht lesen kann.
 - **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
@@ -3233,7 +3233,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 219 | 21 (01-23) | 1 | 55 |
+| Annie | 220 | 21 (01-23) | 1 | 55 |
 | Hana | 98 | 8 (09-21) | 22 | 49 |
 | Chairman Woo | 75 | 13 (07-23) | 22 | 55 |
 | Park Sang-hoon | 63 | 11 (10-23) | 22 | 55 |
@@ -3265,7 +3265,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-219 Nennungen in 21 Kapiteln.
+220 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3483,11 +3483,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:208 | Annie's face did not do anything anywhere. |
 | 55 | ch22:232 | Annie said nothing. |
 | 55 | ch23:208 | Annie looked at the water through the rail. |
-| 55 | ch23:230 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
-| 55 | ch23:248 | Annie laughed. |
-| 55 | ch23:306 | "You are still wearing it," said Annie. |
-| 55 | ch23:322 | "The car is at the end," said Annie. |
-| 55 | ch23:334 | Annie looked out of her side of it. |
+| 55 | ch23:228 | Annie did not answer that. |
+| 55 | ch23:248 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
+| 55 | ch23:266 | Annie laughed. |
+| 55 | ch23:324 | "You are still wearing it," said Annie. |
+| 55 | ch23:340 | "The car is at the end," said Annie. |
+| 55 | ch23:352 | Annie looked out of her side of it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4057,7 +4058,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
 | 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | ch23:348 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | ch23:366 | Mrs Seo had the small room off the long one laid for two. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4082,7 +4083,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch21:12` (Tag 49) - six
 - `ch22:38` (Tag 55) - two
 - `ch22:280` (Tag 55) - eleven
-- `ch23:348` (Tag 55) - one, two
+- `ch23:366` (Tag 55) - one, two
 
 ---
 
@@ -4421,7 +4422,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
 | 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:330 | Mr Ku had the heater on. |
+| 55 | ch23:348 | Mr Ku had the heater on. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -4494,7 +4495,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|
 | 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
 | 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
-| 55 | ch23:244 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
+| 55 | ch23:262 | "Because Tae-min does the east lawn on Mondays and Thursdays," said Georgij, "and today .. |
 
 ### Zahlen in der Naehe von Tae-min
 

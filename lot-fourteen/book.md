@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 67.935 Woerter.
+23 Kapitel. 68.034 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -31,7 +31,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 20 | v1.2 | 2.062 |
 | 21 | v1.2 | 3.489 |
 | 22 | v1.1 | 2.584 |
-| 23 | v2.0 | 2.534 |
+| 23 | v2.1 | 2.633 |
 
 ---
 
@@ -6718,7 +6718,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Chapter 23: Have you eaten
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6929,6 +6929,24 @@ Annie looked at the water through the rail.
 "Then you did not leave."
 
 "No, Mistress."
+
+"Because it is not finished."
+
+"That is part of it."
+
+---
+
+"Say the other part."
+
+"You have believed since October that nobody is anywhere except for what you pay them."
+
+"It has been reliable."
+
+"I am not paid." He said it to the water. "There is no arrangement anywhere in the world under which I receive one won of yours. You wrote it, so you know it better than I do."
+
+Annie did not answer that.
+
+"And there is a corner by the garages," said Georgij, "and I have known about it since my second night in your house."
 
 ---
 
