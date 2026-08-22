@@ -28,7 +28,7 @@ nicht abgehakt.
     - Sang-hoon ist gebunden. Vorher bittet man sie, informelle Macht gegen eine formelle einzutauschen, die einer anderen Frau gehört, wegen einer Gefahr, die noch verschwinden kann. Die Antwort darauf ist nein.
     - Woos Name steht öffentlich neben ihrem, und die Kündigungen haben aufgehört. Dann bringt Georgij einen Beweis und keine Hoffnung.
     - Annies Geld ist eine gebaute Struktur und keine Zusage.
-    - Hana macht die Einführung, und Hana ist zu zwei Dritteln belastet und erfährt das gerade.
+    - Hana macht die Einführung. **Sie weiß längst, dass ihr Land belastet ist - sie hat die Grundschulden selbst bestellt.** Was Annie ihr sagt, ist etwas anderes: dass Gläubigerpositionen gekauft und verkauft werden, dass in einem schlechten Quartal eine Regionalbank in Incheon eine davon mit Abschlag abgibt, und dass am Ende jemand zwei Drittel ihres Landes fällig stellen kann, den sie nie getroffen hat. Dazu, dass Georgij nachgesehen hat und bis gestern keine der drei bewegt worden ist. Aufklärung und Drohung im selben Satz.
 
     **Damit liegt das eine Gespräch frühestens im Januar**, also genau in den drei Wochen des Fensters.
 
@@ -42,9 +42,13 @@ nicht abgehakt.
 
     | Wann | Wer | Was |
     |---|---|---|
-    | Dezember | Woo und die Familie | Woos Bedingung. Er prüft, neben wen er seinen Namen stellt. Ye-rin sitzt vermutlich dabei und sagt nichts. **Georgij gibt seinen Zugang nicht aus.** |
-    | Januar | **Ye-rin allein** | Der eine Versuch. Der Satz über ihre Macht, der nirgendwo sonst fallen darf. |
-    | danach | die sechs | Die Unterschriften. Anteile und Stimmbindung. |
+    | Januar, oder früher | **Ye-rin allein** | Der eine Versuch. Der Satz über ihre Macht, der nirgendwo sonst fallen darf. **Zuerst, vor allem anderen mit der Familie.** |
+    | danach | die sechs | Die Unterschriften. Anteile und Stimmbindung. Dort fällt der Satz aus Kapitel 14. |
+    | Woos Raum | Woo und die Familie | Seine eigene Bedingung, für seinen eigenen Namen. Über Annies Geld fällt dort kein Wort. |
+
+    **Verworfen: ein Treffen mit der Familie vor Ye-rin.** Es gibt keinen Grund dafür und einen zwingenden Grund dagegen. Wenn die sechs von Annies Geld hören, bevor Ye-rin es aus Georgijs Mund hat, erfährt sie es aus zweiter Hand, und der eine Versuch ist verbrannt, bevor er abgegeben wurde. Sie ist die, die entscheidet; man verhandelt nicht an ihr vorbei und dann mit ihr.
+
+    **Woos Raum ist davon unabhängig** und darf es bleiben. Er stellt seinen Namen neben ihren, damit die Kunden zurückkommen. Dafür genügt der Bruder, der den Titel hat, und über Annies Geld wird dort nichts gesagt. Woos eigenes Motiv trägt die Tarnung, weil es wahr ist.
 
     **Zwei verschiedene Sätze, nicht einer.** An die sechs geht der, den Georgij Annie in Kapitel 14 versprochen hat: *"They keep the name. You get the control, and they will be told that in those words, by me, before anybody signs anything."* Der handelt von der Firma. Der an Ye-rin handelt von ihr.
 
