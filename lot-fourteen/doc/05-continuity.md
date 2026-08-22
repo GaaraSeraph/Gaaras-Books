@@ -47,6 +47,8 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 66, Mo 8. Dezember: Georgij bei den Kims, im eigenen Gebaeude (Kapitel 26)
 - Tag 67 bis 70, Di 9. bis Fr 12. Dezember: der Mietvertrag Woo/Hana (Kapitel 27)
 - Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
+- Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
+- Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
 
 ### Die Fahrerwoche
 
@@ -137,7 +139,17 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert.** Und in der Halle der persoenliche Teil, den er in Kapitel 21 nicht sagen konnte.
 
-  **Offen:** Was im Brief steht, zeigt der Text nicht.
+  **Der Samstag.** Er schreibt zwischen sechs und halb neun und kommt auf **vier Zeilen**, in neun Fassungen. Sechs davon sind die Arbeit eines Mannes, der etwas verkauft, und man sieht es jedes Mal in der zweiten Zeile; sie gehen ins Kaminfeuer. Der Grund fuer die Schwierigkeit ist handwerklich: *"He had written nineteen pages about a shipping group in three days in November and had enjoyed most of it, because nineteen pages is a place to hide and four lines is not."*
+
+  **Was der Brief sagt und was nicht.** Er sagt nicht, wofuer der Abend ist, und er laedt nicht ein - das ist Hanas Teil. Er sagt, **was ihr nicht passieren wird**: keine Frage an sie, nichts zu unterschreiben, nichts zu lesen, und zwanzig Minuten stehen und gehen ist unauffaellig. Dann, in sechs Woertern und ohne Weichzeichnung, wer ihn geschrieben hat und was er ist. **Der Wortlaut steht weiterhin nicht im Text.**
+
+  **Die Uebergabe, und das einzige Zeichen, das es gibt.** Hana findet sie im Garten und sie **zieht die Handschuhe aus, um die Karte zu halten**, was sie nicht muesste. Sie oeffnet sie nicht vor ihr. Dann fragt sie nach Hanas Mutter, die seit sechs Jahren tot ist und zu deren Beerdigung Ye-rin gekommen war. Hanas Lesart: *"That was her telling me she had understood every single thing about why I was standing in her garden, and that she was not going to make me say any of it out loud. It is the kindest thing that woman does and it is also the closest she comes to a warning."* Und dazu: *"We know she took her gloves off. I have been doing this for twenty-four years and that is all I have got. Do not build on it."*
+
+  **Dann drei Tage nichts.** Kein Wort, keine Nachricht, nichts ueber Sung-ho. Am Sonntagabend meldet Hana, dass nichts ist; am Montag meldet sie gar nichts mehr, was selbst ein Bericht ist.
+
+  **Und der Schluss ist der Zustand, den Georgij nicht kennt:** Alles Gebaute steht, und es aendert nichts. *"On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."* - *"I have never had a piece of work end like that."*
+
+  Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
 - **Kapitel 27** *Not out of your account* (v3.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 

@@ -187,6 +187,14 @@ def check(path):
                             f"{wd_txt} {dd_txt}")
 
     for mm in re.finditer(r"Days? ([A-Za-z0-9\- ]+?) · ([A-Za-z]+) (\d+)(?: ([A-Za-z]+))?", t):
+        # Spannen hat der Durchgang darueber schon geprueft. Dieser Regex laesst
+        # Leerzeichen zu und laeuft deshalb noch einmal ueber dieselbe Zeile:
+        # aus "Days Seventy-Two to Seventy-Four" wurde am 22. August 70+2+70+4,
+        # also Tag 146, und gemeldet wurde eine Datumszeile, die stimmte. Mit
+        # Ziffern ("Days 27 to 28") war das nie aufgefallen, weil words_to_int
+        # daran None zurueckgibt und die Zeile stillschweigend uebersprungen wurde.
+        if " to " in mm.group(1):
+            continue
         d = words_to_int(mm.group(1))
         if not d:
             continue

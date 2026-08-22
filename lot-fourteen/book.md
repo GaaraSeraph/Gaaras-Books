@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-28 Kapitel. 81.229 Woerter.
+28 Kapitel. 82.107 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -36,7 +36,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 25 | v1.1 | 2.547 |
 | 26 | v1.0 | 2.426 |
 | 27 | v3.0 | 3.110 |
-| 28 | v1.0 | 1.814 |
+| 28 | v1.0 | 2.692 |
 
 ---
 
@@ -8377,7 +8377,7 @@ Georgij put his coat over the back of the chair, which he had not intended to do
 
 "And you did not."
 
-"I did not, because you can ask that woman once." Hana was entirely level about it. "Fourteen times in twelve years, twice she came. That is not luck and it is not charm. Both times I had something in my hand that was worth her evening, and the other twelve I had a party."
+"I did not, because you can ask that woman once." Hana was entirely level about it. "Fourteen times in twenty years, twice she came. That is not luck and it is not charm. Both times I had something in my hand that was worth her evening, and the other twelve I had a party."
 
 ---
 
@@ -8536,7 +8536,7 @@ She pulled the folder across the table at last and opened it and read the first 
 # Chapter 28: A woman in a room can be asked
 *Lot Fourteen* · Version 1.0 · EN
 
-*Day 70 · Friday 12 December*
+## Day Seventy · Friday 12 December
 
 The fire had gone down to the point where somebody was going to have to decide about it, and neither of them did.
 
@@ -8572,7 +8572,7 @@ She turned one of the cards over again and left it face down.
 
 "What is left is the reason she does not go anywhere," said Georgij.
 
-"Say it, then. I have known her for twenty-four years and I have never heard anybody say it out loud."
+"Say it, then. I have known her for twenty years and I have never heard anybody say it out loud."
 
 ---
 
@@ -8628,7 +8628,7 @@ Hana was quiet for a while.
 
 "You would tell her."
 
-"I would tell her the two names and nothing else, and I would do it badly, and not on a Tuesday." He put his coat over his arm. "But I have never met her. You have known her since you were both thirty-four, and the whole of this has always been that I do not get to be in that part."
+"I would tell her the two names and nothing else, and I would do it badly, and not on a Tuesday." He put his coat over his arm. "But I have never met her. You have known her for twenty years, and the whole of this has always been that I do not get to be in that part."
 
 ---
 
@@ -8749,3 +8749,99 @@ Hana looked at him for a long moment.
 Then he went out to the car.
 
 The lamp over the step came on as he passed under it, because it was five o'clock in December and it was dark.
+
+---
+
+## Day Seventy-One · Saturday 13 December
+
+He wrote it between six and half past eight in the morning and it came to four lines.
+
+That was not the difficulty. He had written nineteen pages about a shipping group in three days in November and had enjoyed most of it, because nineteen pages is a place to hide and four lines is not. Everything he knew how to do took up room. What was left when you took the room away was whether the thing was true and whether the person reading it would believe a stranger.
+
+He wrote nine versions.
+
+Six of them were the work of a man selling something, and he could see it in the second line every time.
+
+He put them in the fire in the small room off the long one, because Mrs Seo lays that fire on Saturdays and it was going anyway.
+
+---
+
+The ninth one said what would not happen to her.
+
+It did not say what the evening was for, because that was not his to give away in a card. It did not ask her to come, because Hana was asking and it was not his invitation. It said that nobody would put a question to her in that house, and that nothing would be handed to her to sign or to read. And that if she wished to stand in a room for twenty minutes and then leave, nobody in it would find that remarkable.
+
+Then it said who had written it and what he was, in six words and without any softening anywhere.
+
+He put it in Hana's card, and put the card in Hana's envelope, and did not seal it.
+
+---
+
+Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything and Mr Pyo did not say anything, which is what that man is for.
+
+Hana telephoned at twenty past four.
+
+"I gave it to her."
+
+"Thank you."
+
+"She was in the garden, which is where she is on Saturdays, and she took her gloves off to hold it, which she did not have to do." A pause on the line that had a room behind it. "She read the outside. She did not open it in front of me."
+
+"No."
+
+"And then she asked me how my mother was, and my mother has been dead for six years, and she knows that better than anybody alive because she came to the funeral."
+
+---
+
+Georgij stood with the telephone in his hand for a moment.
+
+"Say what that was."
+
+"That was her telling me she had understood every single thing about why I was standing in her garden," said Hana, "and that she was not going to make me say any of it out loud. It is the kindest thing that woman does and it is also the closest she comes to a warning."
+
+"Then we do not know anything."
+
+"We know she took her gloves off," said Hana. "I have been doing this for twenty years and that is all I have got. Do not build on it."
+
+---
+
+## Days Seventy-Two to Seventy-Four · Sunday 14 to Tuesday 16 December
+
+Nothing came.
+
+No card, no telephone, no message through Sung-ho, no line from anybody in that family. Hana sent word on the Sunday evening that there was nothing, and on the Monday she did not send word at all, which was itself a kind of report.
+
+---
+
+He worked, and the work was in good order, and that was the difficulty.
+
+The contracts were signed. The photographer was booked from seven and gone at nine. The chairman had his half an hour and would have a chair by the window that nobody would ask him about. The Kims were coming, all nine of them. The man from the ministry would be up the drive at half past, and would be in the hall with an old man for about four minutes, with no camera in the building.
+
+Everything on the paper was finished.
+
+---
+
+On the Monday evening Annie put her pen down and looked at him across the desk for slightly longer than anything required.
+
+"You have gone quiet."
+
+"There is nothing left to say until Tuesday."
+
+"That is not what I said."
+
+Georgij stood at the corner of the desk with his hands behind his back.
+
+"Every part of it is built," he said. "It has taken eleven weeks and it is good." He kept his hands where they were. "On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."
+
+"No."
+
+"I have never had a piece of work end like that."
+
+---
+
+Annie picked the pen back up, which meant the conversation was finished, and then did not use it.
+
+"You have," she said. "You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."
+
+"That is not the same."
+
+"It is exactly the same, and it came out well." She turned a page. "Go to bed, Georgij."

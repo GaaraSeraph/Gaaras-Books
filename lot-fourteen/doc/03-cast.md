@@ -138,6 +138,12 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 *Vorschlag.*
 
 **Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
+**Zeitspannen, vereinheitlicht am 22.08.** Hana kennt sie seit **zwanzig Jahren** und hat sie in dieser Zeit **vierzehnmal** eingeladen; **zweimal** ist sie gekommen, und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Nicht verwechseln: Die **zwoelf** Jahre gehoeren **Annie** (Kapitel 9 und 28), nicht Ye-rin. In Kapitel 27 und 28 standen zwischenzeitlich zwoelf, zwanzig und vierundzwanzig Jahre nebeneinander, dazu ein *since you were both thirty-four*, das siebzehn ergaebe und ausserdem falsch ist, weil die beiden drei Jahre auseinander sind.
+
+**Warum sie in keinen Raum geht**, seit Kapitel 28 im Text und Voraussetzung fuer alles Weitere: **Wer in einem Raum steht, kann gefragt werden.** Ihr Bruder hat den Titel und kann sagen, er sehe es sich an; sie hat keinen, also schuetzt sie nichts vor einer direkten Frage, und sie haette zwei Sekunden zum Antworten. Zu Hause nimmt sie den Anruf oder nicht und antwortet am Donnerstag. *"That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."*
+
+**Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
+
 **Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
 *Kanon, Kapitel 9 und 14.*
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 64.252 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 65.180 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -120,8 +120,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ji-won](#ji-won)
   - [Kim Do-yun](#kim-do-yun)
   - [Kim Ye-rin](#kim-ye-rin)
-  - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
+  - [Mr Ku](#mr-ku)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
@@ -1143,6 +1143,12 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 *Vorschlag.*
 
 **Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
+**Zeitspannen, vereinheitlicht am 22.08.** Hana kennt sie seit **zwanzig Jahren** und hat sie in dieser Zeit **vierzehnmal** eingeladen; **zweimal** ist sie gekommen, und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Nicht verwechseln: Die **zwoelf** Jahre gehoeren **Annie** (Kapitel 9 und 28), nicht Ye-rin. In Kapitel 27 und 28 standen zwischenzeitlich zwoelf, zwanzig und vierundzwanzig Jahre nebeneinander, dazu ein *since you were both thirty-four*, das siebzehn ergaebe und ausserdem falsch ist, weil die beiden drei Jahre auseinander sind.
+
+**Warum sie in keinen Raum geht**, seit Kapitel 28 im Text und Voraussetzung fuer alles Weitere: **Wer in einem Raum steht, kann gefragt werden.** Ihr Bruder hat den Titel und kann sagen, er sehe es sich an; sie hat keinen, also schuetzt sie nichts vor einer direkten Frage, und sie haette zwei Sekunden zum Antworten. Zu Hause nimmt sie den Anruf oder nicht und antwortet am Donnerstag. *"That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."*
+
+**Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
+
 **Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41,4 Prozent bei sechs Leuten, die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
 *Kanon, Kapitel 9 und 14.*
 
@@ -1501,6 +1507,8 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 66, Mo 8. Dezember: Georgij bei den Kims, im eigenen Gebaeude (Kapitel 26)
 - Tag 67 bis 70, Di 9. bis Fr 12. Dezember: der Mietvertrag Woo/Hana (Kapitel 27)
 - Tag 70, Fr 12. Dezember, spaeter Nachmittag: die eine Einladung und der Brief (Kapitel 28)
+- Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
+- Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
 
 ### Die Fahrerwoche
 
@@ -1591,7 +1599,17 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert.** Und in der Halle der persoenliche Teil, den er in Kapitel 21 nicht sagen konnte.
 
-  **Offen:** Was im Brief steht, zeigt der Text nicht.
+  **Der Samstag.** Er schreibt zwischen sechs und halb neun und kommt auf **vier Zeilen**, in neun Fassungen. Sechs davon sind die Arbeit eines Mannes, der etwas verkauft, und man sieht es jedes Mal in der zweiten Zeile; sie gehen ins Kaminfeuer. Der Grund fuer die Schwierigkeit ist handwerklich: *"He had written nineteen pages about a shipping group in three days in November and had enjoyed most of it, because nineteen pages is a place to hide and four lines is not."*
+
+  **Was der Brief sagt und was nicht.** Er sagt nicht, wofuer der Abend ist, und er laedt nicht ein - das ist Hanas Teil. Er sagt, **was ihr nicht passieren wird**: keine Frage an sie, nichts zu unterschreiben, nichts zu lesen, und zwanzig Minuten stehen und gehen ist unauffaellig. Dann, in sechs Woertern und ohne Weichzeichnung, wer ihn geschrieben hat und was er ist. **Der Wortlaut steht weiterhin nicht im Text.**
+
+  **Die Uebergabe, und das einzige Zeichen, das es gibt.** Hana findet sie im Garten und sie **zieht die Handschuhe aus, um die Karte zu halten**, was sie nicht muesste. Sie oeffnet sie nicht vor ihr. Dann fragt sie nach Hanas Mutter, die seit sechs Jahren tot ist und zu deren Beerdigung Ye-rin gekommen war. Hanas Lesart: *"That was her telling me she had understood every single thing about why I was standing in her garden, and that she was not going to make me say any of it out loud. It is the kindest thing that woman does and it is also the closest she comes to a warning."* Und dazu: *"We know she took her gloves off. I have been doing this for twenty-four years and that is all I have got. Do not build on it."*
+
+  **Dann drei Tage nichts.** Kein Wort, keine Nachricht, nichts ueber Sung-ho. Am Sonntagabend meldet Hana, dass nichts ist; am Montag meldet sie gar nichts mehr, was selbst ein Bericht ist.
+
+  **Und der Schluss ist der Zustand, den Georgij nicht kennt:** Alles Gebaute steht, und es aendert nichts. *"On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."* - *"I have never had a piece of work end like that."*
+
+  Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
 - **Kapitel 27** *Not out of your account* (v3.0) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
@@ -3673,19 +3691,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 256 | 25 (01-27) | 1 | 59 |
-| Hana | 135 | 12 (09-28) | 6 | 70 |
-| Chairman Woo | 98 | 18 (07-28) | 3 | 70 |
+| Annie | 258 | 26 (01-28) | 1 | 59 |
+| Hana | 141 | 12 (09-28) | 1 | 55 |
+| Chairman Woo | 98 | 18 (07-28) | 3 | 59 |
 | Park Sang-hoon | 64 | 12 (10-25) | 22 | 59 |
 | Jang | 59 | 12 (05-23) | 4 | 55 |
-| Mrs Seo | 45 | 15 (03-25) | 1 | 59 |
+| Mrs Seo | 46 | 16 (03-28) | 1 | 59 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Kim Do-yun | 15 | 4 (14-26) | 6 | 46 |
 | Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
+| Mr Pyo | 8 | 5 (05-28) | 1 | 49 |
 | Mr Ku | 7 | 6 (05-27) | 6 | 55 |
-| Mr Pyo | 7 | 4 (05-21) | 6 | 49 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
 | Mr Baek | 5 | 4 (05-24) | 6 | 55 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
@@ -3705,7 +3723,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-256 Nennungen in 25 Kapiteln.
+258 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3965,6 +3983,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch27:72 | Annie looked at him for a moment. |
 | 7 | ch27:90 | Annie did not say anything for a while. |
 | 7 | ch27:112 | "Yes," said Annie. "That is what worries me." |
+| 2 | ch28:288 | On the Monday evening Annie put her pen down and looked at him across the desk for sligh.. |
+| 2 | ch28:306 | Annie picked the pen back up, which meant the conversation was finished, and then did no.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4032,7 +4052,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-135 Nennungen in 12 Kapiteln.
+141 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4154,23 +4174,29 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:320 | Hana was quiet for a long time. |
 | 9 | ch27:342 | "That is not a gift," said Hana. |
 | 9 | ch27:352 | Hana laughed. |
-| 70 | ch28:10 | Hana put the page down. |
-| 70 | ch28:22 | Hana looked at the fire for a moment. |
-| 70 | ch28:46 | Hana had stopped moving. |
-| 70 | ch28:56 | Hana sat with that. |
-| 70 | ch28:64 | Hana looked at him. |
-| 70 | ch28:76 | Hana turned the card over that she had turned over twice already. |
-| 70 | ch28:92 | Hana was quiet for a while. |
-| 70 | ch28:102 | Hana was quiet for a moment. |
-| 70 | ch28:116 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| 70 | ch28:128 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| 70 | ch28:144 | "Why," said Hana. |
-| 70 | ch28:150 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| 70 | ch28:158 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| 70 | ch28:164 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| 70 | ch28:180 | Hana did not say anything. |
-| 70 | ch28:186 | Hana did not say anything. |
-| 70 | ch28:202 | Hana looked at him for a long moment. |
+| - | ch28:10 | Hana put the page down. |
+| - | ch28:22 | Hana looked at the fire for a moment. |
+| - | ch28:46 | Hana had stopped moving. |
+| - | ch28:56 | Hana sat with that. |
+| - | ch28:64 | Hana looked at him. |
+| - | ch28:76 | Hana turned the card over that she had turned over twice already. |
+| - | ch28:92 | Hana was quiet for a while. |
+| - | ch28:102 | Hana was quiet for a moment. |
+| - | ch28:116 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| - | ch28:128 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| - | ch28:144 | "Why," said Hana. |
+| - | ch28:150 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| - | ch28:158 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| - | ch28:164 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| - | ch28:180 | Hana did not say anything. |
+| - | ch28:186 | Hana did not say anything. |
+| - | ch28:202 | Hana looked at him for a long moment. |
+| 1 | ch28:236 | It did not say what the evening was for, because that was not his to give away in a card.. |
+| 1 | ch28:240 | He put it in Hana's card, and put the card in Hana's envelope, and did not seal it. |
+| 1 | ch28:246 | Hana telephoned at twenty past four. |
+| 1 | ch28:264 | "That was her telling me she had understood every single thing about why I was standing .. |
+| 1 | ch28:268 | "We know she took her gloves off," said Hana. "I have been doing this for twenty years a.. |
+| 2 | ch28:276 | No card, no telephone, no message through Sung-ho, no line from anybody in that family. .. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -4212,13 +4238,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:224` (Tag 55) - nineteen
 - `ch27:158` (Tag 9) - forty
 - `ch27:184` (Tag 9) - four, ninety, seven, three
-- `ch27:222` (Tag 9) - fourteen, twelve
+- `ch27:222` (Tag 9) - fourteen, twelve, twenty
 - `ch27:234` (Tag 9) - twenty
 - `ch27:274` (Tag 9) - one
 - `ch27:294` (Tag 9) - four, six
-- `ch28:116` (Tag 70) - ten, two
-- `ch28:150` (Tag 70) - one, two
-- `ch28:164` (Tag 70) - eighty thousand, four hundred, two
+- `ch28:116` (Tag ?) - ten, two
+- `ch28:150` (Tag ?) - one, two
+- `ch28:164` (Tag ?) - eighty thousand, four hundred, two
+- `ch28:236` (Tag 1) - twenty
+- `ch28:246` (Tag 1) - four, twenty
+- `ch28:268` (Tag 1) - twenty
 
 ---
 
@@ -4324,8 +4353,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
 | 9 | ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 70 | ch28:66 | "Woo at seven," she said. "And the Kims." |
-| 70 | ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| - | ch28:66 | "Woo at seven," she said. "And the Kims." |
+| - | ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4377,8 +4406,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch27:162` (Tag 9) - one, seven
 - `ch27:184` (Tag 9) - four, ninety, seven, three
 - `ch27:294` (Tag 9) - four, six
-- `ch28:66` (Tag 70) - seven
-- `ch28:146` (Tag 70) - four, one, two
+- `ch28:66` (Tag ?) - seven
+- `ch28:146` (Tag ?) - four, one, two
 
 ---
 
@@ -4586,7 +4615,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-45 Nennungen in 15 Kapiteln.
+46 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4635,6 +4664,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 55 | ch24:364 | Mrs Seo had the small room off the long one laid for two. |
 | 59 | ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
+| 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4662,6 +4692,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch24:44` (Tag 55) - eight, one
 - `ch24:364` (Tag 55) - one, two
 - `ch25:8` (Tag 59) - one, two
+- `ch28:230` (Tag 1) - one
 
 ---
 
@@ -4882,6 +4913,31 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Pyo
+
+8 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:80 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | ch17:136 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:194 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+| 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
+| 49 | ch21:422 | Mr Pyo brought the car round. |
+| 1 | ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch16:296` (Tag 46) - one, two
+- `ch17:80` (Tag 46) - four, two
+- `ch17:136` (Tag 46) - three, two
+- `ch28:244` (Tag 1) - eleven, one
+
+---
+
 ### Mr Ku
 
 7 Nennungen in 6 Kapiteln.
@@ -4902,29 +4958,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch07:8` (Tag 22) - three
 - `ch11:6` (Tag 22) - seventeen
 - `ch27:100` (Tag 7) - one
-
----
-
-### Mr Pyo
-
-7 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:80 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
-| 46 | ch17:136 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:194 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-| 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
-| 49 | ch21:422 | Mr Pyo brought the car round. |
-
-### Zahlen in der Naehe von Mr Pyo
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
-- `ch17:80` (Tag 46) - four, two
-- `ch17:136` (Tag 46) - three, two
 
 ---
 
