@@ -113,6 +113,150 @@ def warn_dead_refs(root):
     return len(dead) + len(ghosts)
 
 
+# ---------------------------------------------------------------- Register
+
+# Wer im Register gefuehrt wird. Der Schluessel ist der Name im Register, die
+# Liste sind die Schreibweisen, unter denen die Figur im Text auftaucht.
+# Georgij fehlt bewusst: er ist in jeder Begegnung, eine Liste seiner Nennungen
+# waere die Liste aller Zeilen.
+FIGURES = {
+    "Annie": [r"Annie"],
+    "Mrs Seo": [r"Mrs Seo"],
+    "Ji-won": [r"Ji-won"],
+    "Bae": [r"\bBae\b"],
+    "Eun-ju": [r"Eun-ju"],
+    "Mr Baek": [r"Mr Baek", r"\bBaek\b"],
+    "Mr Yeo": [r"Mr Yeo", r"\bYeo\b"],
+    "Tae-min": [r"Tae-min"],
+    "Mr Ku": [r"Mr Ku"],
+    "Mr Pyo": [r"Mr Pyo"],
+    "Mrs Ahn": [r"Mrs Ahn"],
+    "Mr Im": [r"Mr Im\b"],
+    "Mr Noh": [r"Mr Noh", r"\bNoh\b"],
+    "Jang": [r"\bJang\b"],
+    "Hana": [r"\bHana\b"],
+    "Kim Ye-rin": [r"Ye-rin"],
+    "Kim Do-yun": [r"Do-yun"],
+    "Park Sang-hoon": [r"Sang-hoon"],
+    "Kang Ji-hoon": [r"\bKang\b"],
+    "Choi Dae-ho": [r"Choi"],
+    "Minister Min-ho": [r"Min-ho"],
+    "Mr Hong": [r"\bHong\b"],
+    "Chairman Woo": [r"\bWoo\b"],
+    "Mrs Sunwoo": [r"Sunwoo"],
+    "Mrs Ryu": [r"\bRyu\b"],
+    "Yun-seo": [r"Yun-seo"],
+    "Chef Bang": [r"\bBang\b"],
+}
+
+DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")
+NUMS = re.compile(
+    r"\b(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|"
+    r"thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|"
+    r"thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million)"
+    r"(?:[- ](?:and[- ])?(?:one|two|three|four|five|six|seven|eight|nine|ten|"
+    r"eleven|twelve|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|"
+    r"hundred|thousand|million))*\b", re.I)
+
+WORDNUM = {w: i for i, w in enumerate(
+    "zero one two three four five six seven eight nine ten eleven twelve "
+    "thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
+WORDNUM.update({"thirty": 30, "forty": 40, "fifty": 50})
+
+
+def day_of(raw):
+    """'Twenty-Three' oder '27 to 28' -> 23 bzw. 27."""
+    s = raw.strip().lower().replace("-", " ").split(" to ")[0].strip()
+    if s.isdigit():
+        return int(s)
+    total = sum(WORDNUM[p] for p in s.split() if p in WORDNUM)
+    return total or None
+
+
+def build_register(root, chapters):
+    """Erzeugt BEGEGNUNGEN.md: wer wann wo vorkommt, mit Tag und Fundstelle.
+
+    Das Geruest ist erzeugt und kann deshalb nicht driften. Was bei einer
+    Begegnung gegeben oder genommen wurde, ist Urteil und gehoert nach
+    doc/03-cast.md. Die Zahlenspalte ist der eigentliche Zweck: Figurenzahlen
+    stehen hier nebeneinander, statt ueber siebzehn Kapitel verstreut."""
+    found = {name: [] for name in FIGURES}
+    pats = {n: [re.compile(p) for p in ps] for n, ps in FIGURES.items()}
+
+    for num, ver, fname, text in chapters:
+        lines = text.split("\n")
+        day = None
+        for i, line in enumerate(lines, 1):
+            m = DATELINE.search(line)
+            if m and (line.startswith("#") or line.startswith("*")):
+                day = day_of(m.group(1)) or day
+                continue
+            if line.startswith("#") or line.startswith("*Lot Fourteen"):
+                continue
+            for name, ps in pats.items():
+                if any(p.search(line) for p in ps):
+                    zahlen = [z.group(0) for z in NUMS.finditer(line)]
+                    # kein break: eine Zeile darf mehrere Figuren enthalten,
+                    # und eine Begegnung zu zweit ist fuer beide eine.
+                    found[name].append((day, num, i, line.strip(), zahlen))
+
+    order = sorted(FIGURES, key=lambda n: (-len(found[n]), n))
+    out = [
+        "# Lot Fourteen, Begegnungsregister",
+        "",
+        "*Erzeugt aus `chapters/`. Wird nicht bearbeitet.*",
+        "",
+        "Wer wann vorkommt, mit Tag und Fundstelle. **Das Geruest ist erzeugt und",
+        "kann deshalb nicht driften.** Was bei einer Begegnung gegeben, genommen",
+        "oder verschwiegen wurde, ist Urteil und steht in `doc/03-cast.md`.",
+        "",
+        "Georgij fehlt: er ist in jeder Begegnung, seine Liste waere die Liste",
+        "aller Zeilen.",
+        "",
+        "**Wozu die Zahlenspalte.** Figurenzahlen stehen hier nebeneinander statt",
+        "ueber siebzehn Kapitel verstreut. Genau dort sassen die Widersprueche:",
+        "Chairman Woo einundfuenfzig Jahre im Geschaeft an einer Stelle und sechzig",
+        "an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.",
+        "",
+        "## Uebersicht",
+        "",
+        "| Figur | Nennungen | Kapitel | erster Tag | letzter Tag |",
+        "|---|---|---|---|---|",
+    ]
+    for name in order:
+        eintraege = found[name]
+        if not eintraege:
+            out.append(f"| {name} | **0** | - | - | - |")
+            continue
+        kaps = sorted({e[1] for e in eintraege})
+        tage = sorted({e[0] for e in eintraege if e[0]})
+        spanne = f"{min(kaps):02d}-{max(kaps):02d}" if len(kaps) > 1 else f"{kaps[0]:02d}"
+        out.append(f"| {name} | {len(eintraege)} | {len(kaps)} ({spanne}) | "
+                   f"{tage[0] if tage else '-'} | {tage[-1] if tage else '-'} |")
+
+    for name in order:
+        eintraege = found[name]
+        out += ["", "---", "", f"## {name}", ""]
+        if not eintraege:
+            out.append("**Kommt im Text nicht vor.** Steht nur in `doc/`.")
+            continue
+        kaps = sorted({e[1] for e in eintraege})
+        out.append(f"{len(eintraege)} Nennungen in {len(kaps)} Kapiteln.")
+        out += ["", "| Tag | Fundstelle | Zeile |", "|---|---|---|"]
+        for day, num, i, line, _ in eintraege:
+            kurz = line if len(line) <= 90 else line[:88] + ".."
+            kurz = kurz.replace("|", "\\|")
+            out.append(f"| {day if day else '-'} | ch{num:02d}:{i} | {kurz} |")
+        mit_zahl = [(d, n, i, z) for d, n, i, l, z in eintraege if z]
+        if mit_zahl:
+            out += ["", f"### Zahlen in der Naehe von {name}", ""]
+            for day, num, i, z in mit_zahl:
+                out.append(f"- `ch{num:02d}:{i}` (Tag {day if day else '?'}) - "
+                           + ", ".join(sorted(set(x.lower() for x in z))))
+    write_text(os.path.join(root, "BEGEGNUNGEN.md"), "\n".join(out) + "\n")
+    return sum(1 for n in found if found[n])
+
+
 def build_handbook(root):
     docdir = os.path.join(root, "doc")
     files = sorted(glob.glob(os.path.join(docdir, "[0-9][0-9]-*.md")))
@@ -208,6 +352,7 @@ def main():
                "\n".join(head) + "\n\n---\n\n"
                + "\n\n---\n\n".join(c[3] for c in chapters) + "\n")
 
+    nfig = build_register(root, chapters)
     ndocs = build_handbook(root)
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
@@ -220,6 +365,7 @@ def main():
 
     print(f"book.md        {len(chapters)} Kapitel, {total} Woerter")
     print(f"HANDBUCH.md    {ndocs} Dokumente")
+    print(f"BEGEGNUNGEN.md {nfig} Figuren im Text")
     print(f"paste/         {len(chapters)} Einfuegefassungen")
 
     warn_dead_refs(root)

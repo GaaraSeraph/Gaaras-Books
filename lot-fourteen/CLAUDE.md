@@ -45,6 +45,7 @@ die Kapitelpruefung warnt nur.
 | `CLAUDE.md` | Diese Datei. Die einzige oben, die von Hand bearbeitet wird |
 | `book.md` | Lesefassung der Geschichte. **Erzeugt** |
 | `HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
+| `BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
 | `MANIFEST.txt` | Baubericht. **Erzeugt** |
 
 | Ordner | Was |
