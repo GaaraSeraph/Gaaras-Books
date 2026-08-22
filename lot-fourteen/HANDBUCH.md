@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 45.658 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 45.996 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1859,6 +1859,28 @@ nicht abgehakt.
     **Verworfen: ein Treffen mit der Familie vor Ye-rin.** Es gibt keinen Grund dafür und einen zwingenden Grund dagegen. Wenn die sechs von Annies Geld hören, bevor Ye-rin es aus Georgijs Mund hat, erfährt sie es aus zweiter Hand, und der eine Versuch ist verbrannt, bevor er abgegeben wurde. Sie ist die, die entscheidet; man verhandelt nicht an ihr vorbei und dann mit ihr.
 
     **Woos Raum ist davon unabhängig** und darf es bleiben. Er stellt seinen Namen neben ihren, damit die Kunden zurückkommen. Dafür genügt der Bruder, der den Titel hat, und über Annies Geld wird dort nichts gesagt. Woos eigenes Motiv trägt die Tarnung, weil es wahr ist.
+
+    ---
+
+    **Was sie will: dass es aufgeschrieben wird.** Entschieden am 22.08.
+
+    Sie ist vierundfünfzig, macht die Familienfinanzen seit dem Tod des Vaters, hat jeden der sechs einmal getragen - und hat keinen Sitz, keinen Titel und keine Unterschrift unter irgendeinem Dokument. Was sie besitzt, ist eine Arbeit, die niemand sieht, und keine Möglichkeit, sie weiterzugeben.
+
+    **Das dreht Georgijs grösste Angst in seinen grössten Vorteil.** Er glaubt seit Wochen, er müsse ihr sagen, dass sie informelle Macht gegen eine formelle tauscht, die einer anderen Frau gehört. Sie wartet seit zwanzig Jahren darauf, dass es endlich jemand hinschreibt. Er kann das nicht sehen, weil er selbst nichts besitzt und nirgends verzeichnet ist.
+
+    **Das Instrument.** Eine Stimmbindung: die sechs binden ihre 41,4 Prozent zu einem Block, und der Block wird von einer namentlich genannten Person angewiesen. Das erste Dokument seit zwanzig Jahren, in dem ihr Name steht.
+
+    **Und der Preis, den Georgij ihr im selben Atemzug nennen muss**, weil er ihn immer nennt: Solange sie unsichtbar ist, muss Sang-hoon **sechs Leute** kaufen. Aufgeschrieben muss er **eine brechen**. Sie wird zur benannten Sollbruchstelle, auf Papier, mit Datum.
+
+    **Warum sie es trotzdem nimmt:** Unsichtbare Macht stirbt mit der Person. Aufgeschriebene überlebt sie.
+
+    **Risiko, das gebaut und nicht behauptet werden muss:** Das ist strukturell Woos Entscheidung ein zweites Mal, sichtbare Gefahr statt unsichtbarer Gewissheit. Der Unterschied: Woo schützt einen **Gegenstand**, sie eine **Funktion**. Sein Problem ist sein Tod, ihres ist, was aus einer Autorität wird, die nie verzeichnet wurde. Und Woo mag ihn; sie hat ihn nie getroffen und empfängt niemanden.
+
+    **Das Geschenk, ungefragt und danach:** wer den Container hingestellt hat. Wie die drei Daten bei Woo kommt es **nach** der Einigung, damit es nichts bezahlt. Und es kommt als Vermutung gekennzeichnet, weil Georgij es nicht beweisen kann und in Kapitel 19 selbst gesagt hat, dass er es nicht kann.
+
+    **Offen und verhandelbar:** eine geschriebene Grenze für das Vetorecht - wie lange es gilt, wofür nicht, was beim Rückkauf geschieht. Das bekommt sie nicht umsonst. Was sie dafür gibt, ist noch nicht entschieden.
+
+    ---
 
     **Zwei verschiedene Sätze, nicht einer.** An die sechs geht der, den Georgij Annie in Kapitel 14 versprochen hat: *"They keep the name. You get the control, and they will be told that in those words, by me, before anybody signs anything."* Der handelt von der Firma. Der an Ye-rin handelt von ihr.
 
