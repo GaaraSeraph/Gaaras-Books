@@ -92,8 +92,11 @@ Enforcement, in layers:
 - Charisma was removed from the stat block. Attributes are STR, DEX, CON, INT, WIS only.
 - 10 is NOT the human average on the attribute scale. See the bible.
 - He was barefoot until chapter 3. No boots before that.
-- Technology stays medieval permanently. No concrete, no rebar, no machinery.
-  Iron pins, lime mortar, rope and hands. The flavour is science plus magic.
+- Technology seen so far is medieval: iron pins, lime mortar, rope and hands, no
+  machinery. That is the baseline, not a hard permanent law. How far tech goes and
+  how it mixes with magic is OPEN and gets discovered in-story (bible section 7).
+  Guardrail: no casual industrial anachronism; advanced tech or printing, if it
+  comes, comes deliberately and on the page as hand-tools plus magic.
 - He did not die. There was no accident. He went to sleep and woke up here.
 - Oldstep has forty houses, so roughly 150 to 200 people. Crowd sizes must match that.
 

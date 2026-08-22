@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 6 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 4.772 Woerter.
+Alle 4 Dokumente am Stueck. 5.121 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -179,6 +179,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== World laws are discovered in-story, not pre-legislated ===
+The bible had claimed a hard world law - "technology stays medieval, permanently,
+no machinery" - that NO chapter established. The chapters only show a medieval
+village and dead ruins (ch3); the "permanently / no machinery / science plus
+magic" absolute came from the planning setup, not the text, and the author never
+committed to it. Per the canon hierarchy the text wins, so the bible now
+separates three things: canon (what Gaara has actually seen), the author's faint
+leanings (clearly marked, e.g. "science plus magic"), and open questions to be
+discovered in-story. Concretely OPEN and to be revealed on the page, not decided
+in a doc: the true tech level and whether printing exists (section 7, thread 13),
+and the nobility system and any noble-backer requirement (thread 14). Guardrails
+keep early chapters from contradicting a future reveal (no casual industrial
+anachronism; keep the lord's real power ambiguous). Why: the author wants to
+discover this world, not read it off a rulebook.
+
 === Progression check stays a warning, never a hard gate ===
 check.py reconstructs Level/HP/MP/attributes/skill-ranks across all chapters and
 flags any value that regresses ("REGEL VERLETZT"). It PRINTS this; it never fails
@@ -336,7 +351,9 @@ Inventory
 
 Same tagging as the system rules: (chN) is the chapter a fact was established in.
 
-(ch3) Technology stays medieval, permanently. Stone, lime mortar, iron pins, rope, hands. No machinery, no rail, no pipes, no chimneys of industry. The intended flavour is science plus magic, not lost technology. (Printing is a live question for the long game; see section 7.)
+(ch3) What Gaara has SEEN so far is medieval: stone, lime mortar, iron pins, rope, worked by hand, in the ruins and in Oldstep. No machinery, no rail, no pipes, no industry. That much is canon - but he has seen exactly one dead city and one village and nothing else, so it is a baseline, not a proven law of the world.
+
+OPEN, to be discovered in-story (not pre-legislated): how far the tech level really goes, and how technology and magic mix. There is no established "science plus magic" balance yet; that is the author's leaning, not canon. Guardrail while it is open: no casual industrial anachronism (Gaara does not offhandedly build a steam engine); if advanced tech or printing enters, it enters deliberately and on the page, framed as hand-tools plus magic. See section 7 and threads 13.
 
 The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - Not a building: a whole city, streets and avenues, drowning in forest.
@@ -405,7 +422,7 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 11. Hallvard has no panel. Gaara has not asked anyone about it directly.
 12. Marit came uninvited in Chapter 6 and he could not send her away. First real attack on his self-reliance rule.
 13. The world's technological level, and specifically whether printing exists and how books are made and controlled. Gaara has not seen a book yet. This feeds the long game (section 7).
-14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. Decide this before the long game is committed.
+14. The nobility. How much real power a lord holds, and whether anything large needs a noble backer. So far only an absentee lord whose men rode around and left, and an elder who writes unanswered letters. To be discovered in-story, not pre-decided; keep the lord's real power ambiguous in early chapters so a later reveal in either direction stays consistent (see section 7).
 15. This world's norms on sexuality and non-exclusive partnership. Unknown. Bears on how openly Gaara can live the way he intends to (section 1).
 
 
@@ -420,16 +437,21 @@ chapters can plant for it, and so a decision is taken before it is written.
   "results were not the currency, proximity was."
 - He wants to give knowledge away, not hoard it. A deliberate inversion of the
   gatekept, proximity-first world he left.
-- Publishing books is a concrete goal. This runs straight into the hard rule
-  "technology stays medieval, permanently, no machinery." A hand screw-press with
-  hand-cut movable type is the same class of tool as an ancient olive or wine
-  press, worked by hand, not industry, so it can fit the rule if framed that way
-  rather than as an anachronistic machine. DECISION NEEDED before it is written:
-  does printing already exist in this world, or does Gaara introduce it, and does
-  it count as forbidden "machinery"? Record the answer in docs/decisions.md.
+- Publishing books is a concrete goal. Whether printing already exists in this
+  world or Gaara introduces it is UNDECIDED and gets discovered in-story, not
+  pre-legislated. The author has seen only medieval things so far and does not
+  know yet. Guardrail for when it does come: keep it a hand screw-press with
+  hand-cut movable type, the same class of tool as an ancient olive or wine press,
+  worked by hand, so it stays inside the medieval baseline and reads as a
+  deliberate story event, never as anachronistic machinery. (A world that copies
+  books by hand, likely gatekept, makes "give knowledge away via printing" a
+  strong engine - but that is a possibility to earn on the page, not a fact yet.)
 - Longer term, possibly his own territory to hold and strengthen, and possibly
   continued adventuring alongside it. Whether the story settles into
   territory-building or stays on the road is undecided.
-- All of this depends on the nobility question (thread 14). In a hard feudal
-  world he needs a noble backer to move anything large; in a looser one he does
-  not. Decide the nobility system before committing the long game.
+- The nobility system (thread 14) is also discovered in-story, not pre-decided.
+  Faint leaning only, so early chapters do not paint it into a corner: loose and
+  absentee at the periphery (fits the absentee lord and unanswered letters of
+  ch4/5), plausibly harder toward the capital. Whether Gaara needs a noble backer
+  to move anything large is exactly the kind of thing to reveal through events,
+  so keep it open and observable rather than stated.

@@ -3,6 +3,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== World laws are discovered in-story, not pre-legislated ===
+The bible had claimed a hard world law - "technology stays medieval, permanently,
+no machinery" - that NO chapter established. The chapters only show a medieval
+village and dead ruins (ch3); the "permanently / no machinery / science plus
+magic" absolute came from the planning setup, not the text, and the author never
+committed to it. Per the canon hierarchy the text wins, so the bible now
+separates three things: canon (what Gaara has actually seen), the author's faint
+leanings (clearly marked, e.g. "science plus magic"), and open questions to be
+discovered in-story. Concretely OPEN and to be revealed on the page, not decided
+in a doc: the true tech level and whether printing exists (section 7, thread 13),
+and the nobility system and any noble-backer requirement (thread 14). Guardrails
+keep early chapters from contradicting a future reveal (no casual industrial
+anachronism; keep the lord's real power ambiguous). Why: the author wants to
+discover this world, not read it off a rulebook.
+
 === Progression check stays a warning, never a hard gate ===
 check.py reconstructs Level/HP/MP/attributes/skill-ranks across all chapters and
 flags any value that regresses ("REGEL VERLETZT"). It PRINTS this; it never fails
