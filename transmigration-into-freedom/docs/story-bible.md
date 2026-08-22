@@ -17,7 +17,8 @@ nicht diese Zeile von Hand.
 9. What the Panel Will Not Say
 10. The Price Went Up
 11. Nobody Carries a Stick
-12. A Name for the Knife (planned)
+12. For the Record
+13. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -186,6 +187,15 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   last fresh, and he did not turn round. Marit is a 6 and the highest thing in
   Oldstep. Gaara reads twenty corpses like a table, which is what the instrument
   was always for, and it took him nine chapters to use it that way.
+- (ch12) HE SPENDS, COLD, AND HE CONCENTRATES. Nine banked points into DEX in
+  one go: DEX 10 to 19, "reaction and recovery increased". His reasoning is on
+  the page and it is his whole character: he lost two exchanges with the six
+  because it was faster, and a man carrying a knife rated for two hard uses does
+  not want to be where the blow lands, he wants to be somewhere else earlier.
+  "I have spent my whole life spreading effort across nine things and being
+  adequate at all of them, and it made me a man with a very good CV and no
+  company." He is now a fast Level 4 rather than a rounded one, and it should
+  visibly change how he fights.
 - (ch11) THE CURVE IS NOT A COUNT. It is WEIGHTED BY WHAT YOU KILL. Level 4
   arrived at eleven kills, not the fourteen Gaara had predicted, and the reason
   is in the corpses: fives and a six, taken while he was a three. In the road in
@@ -295,6 +305,31 @@ The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - It was not brought down by weather or time. The aqueduct has a bite out of it; the chamber roof was hit from the side. Nothing these people built could have done that.
 - Gaara's open question: whatever did it either left, or did not.
 - Roots the thickness of a thigh have split worked stone, so it has been empty a very long time.
+
+The elder's secret (ch12) - the first arc's answer
+- HALLVARD HAS BEEN GOING DOWN THERE FOR THIRTY-ONE YEARS. It is not a season
+  and it is not since spring. It is the whole of his time as elder, and it is
+  the REASON he is elder: Aldis Halden did it before him, her uncle before her,
+  a woman called Ingrith before him. None of them wrote any of it down, and that
+  was on purpose.
+- WHY THE SILENCE, and his case is as sound as his case against Gaara was in
+  ch5: a village that knows sends to the lord, a lord who is told sends men, and
+  men who come look at a hole with a gate on it and decide what is behind it is
+  worth having. "It has been shut for eight hundred years, boy. The only thing
+  that has ever opened it is somebody deciding they had a reason."
+- HE RAISED THE GATE. He worked it out on a slate over two winters: eighteen
+  inches would drain slowly enough to give him the shallows by high summer and
+  let him reach the middle at last, and nothing in there would notice a season
+  of water going. "I was right about the rate. I was wrong about the noticing."
+  So four people and two dogs and Osvald are on an old man's arithmetic, and he
+  counts them, and says so, dry-eyed.
+- HE IS NOT A VILLAIN AND MUST NOT BECOME ONE. He made a competent decision for
+  a defensible reason and it went wrong, and then he could not say so without
+  causing the exact disaster he had spent thirty-one years preventing. Gaara
+  recognises the shape immediately, because he has done it himself with other
+  people's money, and says so out loud - and says in the same breath that he is
+  not sitting down because he forgives him.
+- The chapter ends on the only question Gaara has left: "Where is the gear."
 
 How people here test a man (ch4, confirmed ch7)
 - They make him say it twice and listen to the second telling against the first.
@@ -480,6 +515,14 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     pays enormously. He does not know the function.
 21. The knife will break, and the system has told him so in writing. Two to four
     hard uses. He is walking back to a village with it.
+23. What the whetstone gave away (ch12). Not the stick, not the rope, not the
+    empty air: a sharpening stone good enough that a stranger is lent it and
+    expected to return it. Nobody sharpens like that for hay.
+24. Aldis Halden, her uncle, and a woman called Ingrith. Three names in one
+    sentence and an unbroken chain of villagers who went down there and told
+    nobody. How far back does it go, and who set it up.
+25. The gear. Hallvard raised eight hundred years of iron with something, and
+    took it away again. Gaara's last line of ch12 is the question.
 22. THE STICK IS ANSWERED, and Marit answers it, not him. He asks who in Oldstep
     carries a stick and expects a list of old men. She says: nobody carries a
     stick, old men LEAN on them, and the mark in the silt never took any weight.

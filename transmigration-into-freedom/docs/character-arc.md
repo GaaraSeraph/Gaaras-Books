@@ -139,6 +139,10 @@ CON 10, MP 60 still untouched, Class None. NINE unspent points banked and
 untouched. Dagger Mastery E to D, and the better window's first report is that
 his only weapon is cracked and will fail without warning.
 
+Chapter 12: DEX 10 to 19, nine banked points spent in one place, cold, with
+reasons stated. No level, no kills, no skill change. Still Level 4, HP 220, MP
+60 untouched, Dagger Mastery D, Class None.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -173,6 +177,13 @@ Solva
 
 === 6. THINGS THAT MUST NOT DRIFT ===
 
+- THEY HAVE A WORD NOW (ch12), and it is the arc turning over in public. "For
+  the record" has been their private joke since ch8; in ch12 he makes it a
+  signal, agreed in a field before they walk into a room, meaning hand on the
+  hatchet before anything happens rather than after. He also gives her the other
+  half without being asked: if SHE says it first, he moves without asking why.
+  That is not him planning around her any more. That is him handing her half of
+  a plan and agreeing in advance to obey it.
 - He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
   when it is least appropriate: at monsters, at people holding axes, at goats.
   It is how he handles fear and it is how the reader locates him. Chapter 2 is
