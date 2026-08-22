@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 44.997 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 45.231 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1827,7 +1827,22 @@ nicht abgehakt.
 2. ~~**Der Bericht kommt zurück.**~~ **Erledigt in Kapitel 18.** Er kam am Donnerstag, zwei Stunden früher als nötig, mit vier Bleistiftnotizen darin und Seite vierzehn obenauf. Er musste nichts davon tun. Das Wort *Same* neben den zwei Gerüchten hat Georgijs bestbelegten Punkt wertlos gemacht, und die Reihenfolge sagt, dass Sang-hoon nicht mehr prüft, sondern arbeitet: **vierzehn Tage statt vier bis sechs Wochen**, und das Fenster im Januar schrumpft auf drei Wochen über den Jahreswechsel.
 3. **Das Gespräch mit den Kims** und der Satz über den Namen und die Kontrolle, aus Georgijs Mund und nicht aus ihrem. Ye-rin nur über Hana, einmal und nicht schnell.
 
-    **Und der Punkt, an dem der ganze Plan hängt und den niemand angefasst hat: Ye-rin ist nicht gefragt worden.** Sechs Prozent seit zwanzig Jahren, kein Vorstandssitz, keine Unterschrift in irgendeinem Dokument, und in sechzehn von dreiundzwanzig Aufnahmen steht sie dort, wo sie die Türen sehen kann. Der Januar funktioniert nur, wenn sie bis Februar hält, und über sie ist im Text bisher ausschliesslich geredet worden. Sie ist ausserdem die wahrscheinlichste Antwort auf Woos Bedingung, denn sie ist die, die unterschreiben könnte.
+    **Und der Punkt, an dem der ganze Plan hängt: Ye-rin ist nicht gefragt worden, und man kann sie nur einmal fragen.**
+
+    Hana sagt es in Kapitel 15 im Wortlaut: *"Not quickly and not twice. Once."* Dazu, zwei Repliken vorher: *"In twenty years nobody has been able to make that woman sign anything, because she has never once needed to. She tells other people what to sign."*
+
+    **Ihre Zahlen, gegen `doc/04-world.md` geprüft:** Sie hält selbst **1,4 Prozent**. Die sechs sind sechs Menschen, nicht sechs Prozent - Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, zusammen 41,4 Prozent, und alle rufen vor jeder Unterschrift bei ihr an. Kapitel 17 sagt richtig *"Ye-rin has held those six for twenty years"* und meint die Leute. (Hier stand am 22.08. eine Stunde lang "sechs Prozent". Falsch, korrigiert.)
+
+    **Woraus die Reihenfolge folgt.** Ein einziger Versuch heisst: Er wird ausgegeben, wenn er nicht mehr scheitern kann, und keinen Tag früher. Vorher müssen stehen:
+
+    - Sang-hoon ist gebunden. Vorher bittet man sie, informelle Macht gegen eine formelle einzutauschen, die einer anderen Frau gehört, wegen einer Gefahr, die noch verschwinden kann. Die Antwort darauf ist nein.
+    - Woos Name steht öffentlich neben ihrem, und die Kündigungen haben aufgehört. Dann bringt Georgij einen Beweis und keine Hoffnung.
+    - Annies Geld ist eine gebaute Struktur und keine Zusage.
+    - Hana macht die Einführung, und Hana ist zu zwei Dritteln belastet und erfährt das gerade.
+
+    **Damit liegt das eine Gespräch frühestens im Januar**, also genau in den drei Wochen des Fensters.
+
+    **Und daraus entsteht der Konflikt mit Woos Bedingung**, der eine Szene wert ist: Woo will seinen Raum mit der Familie **vor Jahresende**, also im Dezember, nachdem Sang-hoon unterschrieben hat. Ye-rin sitzt dann möglicherweise darin. Georgij muss durch ein ganzes Treffen kommen, ohne den einen Zugang auszugeben, den er hat - während die einzige Person, auf die es ankommt, im Raum ist.
 4. ~~**Woo an die Seite der Kims holen.**~~ **Erledigt in Kapitel 19.** Er hat zugesagt, öffentlich und auf Papier, vor Jahresende.
 
     **Sein Preis, von ihm selbst genannt:** sieben Jahre statt zehn, Mindestmengen in Tonnen und nicht in Geld, und der Vertrag hängt am Kai und nicht an ihm. Den Tarif hat er selbst hineingeschrieben, in eine leere Zeile unter Annies Unterschrift.
