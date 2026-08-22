@@ -1,7 +1,7 @@
-Chapter 6: Withdrawn or sold
-Lot Fourteen · Version 1.4 · EN
+# Chapter 6: Withdrawn or sold
+*Lot Fourteen* · Version 1.5 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 The envelope came at nine in the morning by a courier who did not ask anybody to sign for it, and Mrs Seo carried it in and put it on the stone shelf beside the bowl.
 
@@ -9,7 +9,7 @@ It sat in exactly the place the remote had lain for the first eight days he was 
 
 Georgij went past it four times before eleven. He did not touch it, and he did not need to, because it was the size and thickness of the thing he had been expecting for three weeks and because a house that sends you a plain envelope by a courier with no signature is a house that has decided you are a buyer of record.
 
-* * *
+---
 
 She sent for him at eleven.
 
@@ -19,7 +19,7 @@ The envelope was open on the desk. So was what had been inside it, face up, at t
 
 "Yes, Mistress."
 
-"You'll come in with me and you will be at my elbow for the first quarter of an hour, and after that you will not be, and I would rather you didn't come and find me. If I want you I'll find you." She turned a page of something else, not the catalogue. "Nobody in that room will ask you what you do. They'll ask you where you were educated. It's the same question with better manners."
+"You'll come in with me and you will be at my elbow for the first quarter of an hour, and after that you will not be, and you will not come looking for me. If I want you I'll find you." She turned a page of something else, not the catalogue. "Nobody in that room will ask you what you do. They'll ask you where you were educated. It's the same question with better manners."
 
 "I know."
 
@@ -31,7 +31,7 @@ He was standing at the corner of the desk and the catalogue was forty centimetre
 
 So he read it upside down, which he could do, and had been able to do since a house in Busan when he was twenty.
 
-* * *
+---
 
 They renumber every month, so the numbers meant nothing.
 
@@ -71,7 +71,7 @@ He had asked her in the car on the first night, and again across this desk befor
 
 "Go on."
 
-* * *
+---
 
 "Three of the names on my ninety-one were in the basement in Gangnam on the night you bought me."
 
@@ -99,7 +99,7 @@ Annie looked at him for a moment.
 
 "Thank you."
 
-"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it, and you dressed it up as a question in order to hand it to me without it looking like a gift. I'd rather you didn't do that in this house. It's expensive to keep track of."
+"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it, and you dressed it up as a question in order to hand it to me without it looking like a gift. You don't do that in this house. It's expensive to keep track of."
 
 Georgij inclined his head, and did not apologise, because she had not asked him to and because apologising would have been the same manoeuvre a third time.
 
@@ -107,7 +107,7 @@ Georgij inclined his head, and did not apologise, because she had not asked him 
 
 "Quid pro quo," said Annie, and went back to her page.
 
-* * *
+---
 
 The suit came at two.
 
@@ -131,7 +131,7 @@ Not up. Level. Men lift the chin when there is something at the throat, and then
 
 "He knows, sir."
 
-* * *
+---
 
 At six Jang came to find him in the east room.
 
@@ -141,7 +141,7 @@ At six Jang came to find him in the east room.
 
 "You won't need it."
 
-"Probably not." Georgij was doing the second cufflink. "The seating plan has her at table four and the doors behind table four are locked from the ballroom side after the speeches. That's a hotel's decision and not yours, and I'd rather you knew before you got there than after."
+"Probably not." Georgij was doing the second cufflink. "The seating plan has her at table four and the doors behind table four are locked from the ballroom side after the speeches. That's a hotel's decision and not yours, and it belongs in your route."
 
 Jang stood in the doorway for a moment.
 
@@ -155,7 +155,7 @@ Jang stood in the doorway for a moment.
 
 He smiled at him as well, which he did not have to do and got nothing for, and he was pleased in a way he did not examine.
 
-* * *
+---
 
 At six he shaved, and at twenty past he dressed, and at half past he went down and let Mrs Seo look at him.
 
@@ -177,7 +177,7 @@ Mrs Seo stepped back.
 
 She said it in exactly the tone she had used for the shirt cuff, and she was already turning away when she said it, and she did not wait to see what he did with it.
 
-* * *
+---
 
 Annie came down at nine minutes to seven.
 

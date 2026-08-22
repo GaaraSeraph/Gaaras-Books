@@ -1,7 +1,7 @@
-Chapter 9: The friendly ones
-Lot Fourteen · Version 3.2 · EN
+# Chapter 9: The friendly ones
+*Lot Fourteen* · Version 3.3 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 She came at him at a quarter past ten, when the speeches were over and the room had loosened and about a third of it had gone to stand somewhere else.
 
@@ -9,7 +9,7 @@ She came at him at a quarter past ten, when the speeches were over and the room 
 
 Georgij turned round.
 
-Up close the dark red was not red at all but something browner that had only been red under the lights, and she was about Annie's age, and she had a glass she had been holding for a long time.
+Up close the dark red was not red at all but something browner that had only been red under the lights. She was about Annie's age, and she had a glass she had been holding for a long time.
 
 "I beg your pardon?"
 
@@ -33,7 +33,7 @@ There it was, at forty seconds.
 
 "Nobody you'd have heard of," said Georgij, and took the hand.
 
-* * *
+---
 
 She walked him the length of the room, which took four minutes because she stopped twice and was stopped once, and in the course of it three separate people looked at Georgij differently than they had ten minutes before.
 
@@ -45,7 +45,7 @@ He decided it was probably all three and stopped trying to rank them.
 
 "I've been enjoying myself."
 
-"You've been busy. Woo has told four people about you. Hong has told everybody, and Hong tells everybody nothing, so that's remarkable in itself." She nodded at somebody without breaking stride. "A girl from the foundation talked to you for nine minutes and has been standing up straighter ever since, which is the single most interesting thing I have seen all evening, because nobody in this building has ever got anything out of that programme's reporting and now somebody has."
+"You've been busy. Woo has told four people about you. Hong has told everybody, and Hong tells everybody nothing, so that's remarkable in itself." She nodded at somebody without breaking stride. "A girl from the foundation talked to you for nine minutes and has been standing up straighter ever since, which is the single most interesting thing I have seen all evening. Nobody in this building has ever got anything out of that programme's reporting, and now somebody has."
 
 "She was very helpful."
 
@@ -55,7 +55,7 @@ They had got to the west side, where the glass doors stood open on the terrace a
 
 "Come outside. It's foul out there and everybody worth hearing is in it."
 
-* * *
+---
 
 Minister Min-ho was at the far end of the terrace with his back to the parapet, in an overcoat somebody had brought him, with two men and a woman around him and a cigarette he was not smoking.
 
@@ -79,19 +79,19 @@ She was also about three per cent louder than she needed to be. She had been com
 
 Georgij got Incheon five times.
 
-Not the whole of it, and not anything like the whole of it. He got the word. He got a date in the spring attached to it, and the phrase the eastern parcel, and the fact that somebody had made an approach, and that Hana thought the approach was a discourtesy rather than a threat.
+Not the whole of it, and not anything like the whole of it. He got the word. He got a date in the spring attached to it, and the phrase *the eastern parcel*, and the fact that somebody had made an approach, and that Hana thought the approach was a discourtesy rather than a threat.
 
 He got that Min-ho already knew about the approach and had known before she told him, which was plain from the way the minister did not react to being told.
 
-And once, in the middle of a sentence that was about something else, he got the word container.
+And once, in the middle of a sentence that was about something else, he got the word *container*.
 
-It sat by itself. Nothing else out there had anything to do with a container, and he turned it over twice and could find no edge of it that fitted anything, and so he left it exactly where it was, unexplained, in the order he had received it.
+It sat by itself. Nothing else out there had anything to do with a container. He turned it over twice and could find no edge of it that fitted anything. So he left it exactly where it was, unexplained, in the order he had received it.
 
 None of it was a mechanism. It was five pieces of one, and he could not have told you the shape.
 
 He filed all of it exactly as it came, in the order it came, without tidying it, because tidying is where people put the thing they expect on top of the thing they heard.
 
-* * *
+---
 
 There was a man standing just inside the glass doors, in the warm, who did not come out.
 
@@ -109,7 +109,7 @@ Georgij put him where he put things.
 
 It would be four days before he understood that it had been the most expensive thing he had seen all evening, and by then he would have made it worse himself.
 
-* * *
+---
 
 "There," said Hana, without lifting her chin at anything. "By the second window on the inside. That's the Kims. All of them. Count."
 
@@ -143,9 +143,9 @@ Eight of them were doing it very well.
 
 One of the eight was doing it better than the other seven, and doing it by not doing anything at all. A woman in her fifties, at the back of the group, who had not spoken once in four minutes and around whom the whole thing was arranged. Twice, somebody said something and then looked at her before going on, and neither of them appeared to know they had done it.
 
-The ninth was the one who kept fetching things. A man in his late thirties, who had been to the bar twice in the time Georgij watched, and who laughed a quarter of a beat after everybody else, the way you laugh when you are following a room rather than standing in it.
+The ninth was the one who kept fetching things. A man in his late thirties, who had been to the bar twice in the time Georgij watched. He laughed a quarter of a beat after everybody else, the way you laugh when you are following a room rather than standing in it.
 
-He had names for both of them, four or five for each, and no way at all to choose between them, and it was going to take him a week and somebody else's mouth to close the gap between a description and a man.
+He had names for both of them, four or five for each, and no way at all to choose between them. It was going to take him a week and somebody else's mouth to close the gap between a description and a man.
 
 He put the nine of them down where he put things, with the quiet woman on top of the pile and the drinks-fetcher immediately under her.
 
@@ -173,7 +173,7 @@ Two.
 
 She laughed, and it was a real laugh, and she was pleased with him in a way that had nothing to do with liking him.
 
-* * *
+---
 
 They came back in and she took two glasses and gave him one, and they stood at the edge of the floor where the tables had been pushed back, and for about ten minutes she was simply good company.
 
@@ -193,7 +193,7 @@ She was buying, and he knew what she was buying with, and he took it anyway, bec
 
 Three.
 
-* * *
+---
 
 It is the smallest question in Korea.
 
@@ -201,7 +201,7 @@ It is what a woman asks a man at a wedding when the seating has put them togethe
 
 He had no answer.
 
-He had never had an answer. There was a woman who had owed somebody money and there was a number that had never been written down where he could see it, and behind that there was nothing at all, not a province, not a town, not a name of a place with a river in it.
+He had never had an answer. There was a woman who had owed somebody money, and there was a number that had never been written down where he could see it. Behind that there was nothing at all. Not a province, not a town, not a name of a place with a river in it.
 
 He could have said something true and useless. He could have named the first house, or the second, or the country the paperwork had eventually settled on.
 
@@ -219,7 +219,7 @@ Then, because it was already gone and there was no version of the evening in whi
 
 "I've never known."
 
-* * *
+---
 
 Something went across Hana's face and it was not triumph, which he had expected, and it was not pity, which he had been ready for.
 
@@ -237,7 +237,7 @@ It was recognition. Brief, and immediately put away, and she put it away like so
 
 "When was it?"
 
-"When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody asks that. It is the most flattering thing you can say to an old man, and it is also the only sentence in this building that a man would need to say out loud if he had nobody at all to ask."
+"When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody asks that. It is the most flattering thing you can say to an old man. It is also the only sentence in this building that a man would need to say out loud if he had nobody at all to ask."
 
 "It worked."
 
@@ -251,7 +251,7 @@ Then he did the arithmetic on how many people Hong had spoken to since, and foun
 
 "Don't thank me yet."
 
-* * *
+---
 
 He took her hand.
 
@@ -259,13 +259,13 @@ He did it in the ordinary way, and then he did not do the ordinary thing with it
 
 It is not a Korean gesture. It has never been one.
 
-There were eight hundred people in that building and not one of them had done it or would do it. The four or five who happened to be looking would describe it to somebody inside the week, and they would use the word European.
+There were eight hundred people in that building and not one of them had done it or would do it. The four or five who happened to be looking would describe it to somebody inside the week, and they would use the word *European*.
 
 And then they would stop wondering what he was, because they would believe they had been given an answer.
 
 Hana let him do it.
 
-She did not take the hand back early and she did not laugh, and she watched his face the entire time with the expression of a woman watching a card being played out of a sleeve she had already looked into.
+She did not take the hand back early and she did not laugh. She watched his face the entire time, with the expression of a woman watching a card being played out of a sleeve she had already looked into.
 
 "That's very good," she said.
 
@@ -281,9 +281,9 @@ She did not take the hand back early and she did not laugh, and she watched his 
 
 He heard the word leave his mouth about a quarter of a second after it was too late to do anything about it.
 
-He had been given one rule in that car three weeks ago and it had two halves. Annie in public. The other word nowhere else at all. He had kept both of them for twenty-two days, through a tailor and a security chief and eight hundred people, and he had just handed the second one to a stranger on a dance floor because she had been kind to him for eleven minutes.
+He had been given one rule in that car three weeks ago and it had two halves. Annie in public. The other word nowhere else at all. He had kept both of them for twenty-two days, through a tailor and a security chief and eight hundred people. He had just handed the second one to a stranger on a dance floor because she had been kind to him for eleven minutes.
 
-* * *
+---
 
 Hana did not move.
 

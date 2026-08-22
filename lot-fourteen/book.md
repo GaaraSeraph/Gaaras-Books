@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 50.924 Woerter.
+17 Kapitel. 50.874 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -12,16 +12,16 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 01 | v6.3 | 2.412 |
 | 02 | v11.6 | 3.174 |
 | 03 | v2.6 | 3.380 |
-| 04 | v1.7 | 2.456 |
+| 04 | v1.8 | 2.456 |
 | 05 | v5.8 | 4.340 |
-| 06 | v1.4 | 2.092 |
+| 06 | v1.5 | 2.083 |
 | 07 | v6.4 | 3.856 |
-| 08 | v3.4 | 2.689 |
-| 09 | v3.2 | 3.129 |
+| 08 | v3.5 | 2.677 |
+| 09 | v3.3 | 3.119 |
 | 10 | v2.2 | 2.984 |
 | 11 | v2.7 | 2.724 |
-| 12 | v1.3 | 2.325 |
-| 13 | v2.3 | 2.839 |
+| 12 | v1.4 | 2.317 |
+| 13 | v2.4 | 2.828 |
 | 14 | v7.4 | 2.609 |
 | 15 | v2.2 | 4.212 |
 | 16 | v1.10 | 3.135 |
@@ -885,7 +885,7 @@ He left the key where it was.
 ---
 
 # Chapter 4: Count again
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 2 · Sunday 5 October*
 
@@ -983,7 +983,7 @@ He picked up neither.
 
 "They're managed," she said. "Everything on both of them comes back to a company that bills me monthly. I'm telling you that instead of letting you find it, because you'd find it before lunch and then we'd have an afternoon about it."
 
-"Thank you." He said it plainly. "Then I'll write on them as though you're reading, because you will be, and I'd rather never have to remember which version you got."
+"Thank you." He said it plainly. "Then I'll write on them as though you're reading, because you will be, and there will only ever be the one version."
 
 Annie looked at him for a moment.
 
@@ -1011,7 +1011,7 @@ He waited to see whether anything came after it. Nothing did, so he took the nex
 
 "I know you will."
 
-"Then let me say the rest of it out loud, because the rest of it is the part that's worth anything." There was no hurry in it anywhere. "You've told me no and I'm going to go round you. In three weeks you'd have seen it on a machine you pay the bill for, and then you'd have had to sit and work out what it meant that I never mentioned it. I'd rather you didn't spend an afternoon on that question. You'd only reach the wrong answer slowly."
+"Then let me say the rest of it out loud, because the rest of it is the part that's worth anything." There was no hurry in it anywhere. "You've told me no and I'm going to go round you. In three weeks you'd have seen it on a machine you pay the bill for, and then you'd have had to sit and work out what it meant that I never mentioned it. So you're hearing it now and not in three weeks. You'd only reach the wrong answer slowly."
 
 "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what she had been reading.
 
@@ -1081,7 +1081,7 @@ She was in the study with one lamp on.
 
 "I did."
 
-"You sat three days over those angles and sent a professional away twice. A woman who does that knows what a camera does in a dark room, because it is the same thing your cameras have been doing to my dark rooms since I got here." He let that stand, courteously and without any pressure on it. "So either it went out of your head while you were putting it in my hand, which I don't believe for a moment, or it didn't matter to you that I'd have it. I'd rather be told which."
+"You sat three days over those angles and sent a professional away twice. A woman who does that knows what a camera does in a dark room, because it is the same thing your cameras have been doing to my dark rooms since I got here." He let that stand, courteously and without any pressure on it. "So either it went out of your head while you were putting it in my hand, which I don't believe for a moment, or it didn't matter to you that I'd have it. I would take an answer on which."
 
 "Would you," Annie said.
 
@@ -1495,7 +1495,7 @@ He stopped.
 ---
 
 # Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1515,7 +1515,7 @@ The envelope was open on the desk. So was what had been inside it, face up, at t
 
 "Yes, Mistress."
 
-"You'll come in with me and you will be at my elbow for the first quarter of an hour, and after that you will not be, and I would rather you didn't come and find me. If I want you I'll find you." She turned a page of something else, not the catalogue. "Nobody in that room will ask you what you do. They'll ask you where you were educated. It's the same question with better manners."
+"You'll come in with me and you will be at my elbow for the first quarter of an hour, and after that you will not be, and you will not come looking for me. If I want you I'll find you." She turned a page of something else, not the catalogue. "Nobody in that room will ask you what you do. They'll ask you where you were educated. It's the same question with better manners."
 
 "I know."
 
@@ -1595,7 +1595,7 @@ Annie looked at him for a moment.
 
 "Thank you."
 
-"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it, and you dressed it up as a question in order to hand it to me without it looking like a gift. I'd rather you didn't do that in this house. It's expensive to keep track of."
+"Don't." She said it flatly and without heat. "You've just told me something I did not know, which is that they're seated to a plan and that you have it, and you dressed it up as a question in order to hand it to me without it looking like a gift. You don't do that in this house. It's expensive to keep track of."
 
 Georgij inclined his head, and did not apologise, because she had not asked him to and because apologising would have been the same manoeuvre a third time.
 
@@ -1637,7 +1637,7 @@ At six Jang came to find him in the east room.
 
 "You won't need it."
 
-"Probably not." Georgij was doing the second cufflink. "The seating plan has her at table four and the doors behind table four are locked from the ballroom side after the speeches. That's a hotel's decision and not yours, and I'd rather you knew before you got there than after."
+"Probably not." Georgij was doing the second cufflink. "The seating plan has her at table four and the doors behind table four are locked from the ballroom side after the speeches. That's a hotel's decision and not yours, and it belongs in your route."
 
 Jang stood in the doorway for a moment.
 
@@ -2055,7 +2055,7 @@ He had five.
 ---
 
 # Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2065,7 +2065,7 @@ A man who holds one drink for six hours is a man everybody eventually notices, a
 
 So he took a proper mouthful, early, standing where four people could see him do it. That was the drinking done.
 
-After that it was arithmetic. Champagne goes warm and flat inside twenty minutes in a room with that many lights in it, and handing a half-finished glass to a passing tray and lifting a fresh one off the same tray is the single least remarkable thing a person can do at an event of this kind. He did it five times before nine o'clock. The room would have said he had had five glasses. He had had one, in the first two minutes, in front of witnesses.
+After that it was arithmetic. Champagne goes warm and flat inside twenty minutes in a room with that many lights in it. Handing a half-finished glass to a passing tray and lifting a fresh one off the same tray is the single least remarkable thing a person can do at an event of this kind. He did it five times before nine o'clock. The room would have said he had had five glasses. He had had one, in the first two minutes, in front of witnesses.
 
 He carried it in his left hand.
 
@@ -2075,7 +2075,7 @@ A cold wet palm in a handshake is a thing men remember afterwards without knowin
 
 The girl at the edge of the group near the bar was still there at twenty past eight, and she was still holding the same glass.
 
-He came at her from the side and slightly behind, so that she saw him arrive rather than discovering him, and he stopped at the distance where a person can decline to speak to you without it being an event.
+He came at her from the side and slightly behind, so that she saw him arrive rather than discovering him. He stopped at the distance where a person can decline to speak to you without it being an event.
 
 "You do the reporting for the Daegu programme."
 
@@ -2107,7 +2107,7 @@ Georgij asked her about the fourteen sites. Then he asked her about the three th
 
 Then he stopped asking about the money and asked about the people on the board.
 
-She told him. Not because he was clever, but because he stood still and did not look past her shoulder once, and because she had been standing at the edge of that group for fifty minutes and had not finished a sentence in any of them.
+She told him. Not because he was clever, but because he stood still and did not look past her shoulder once. And because she had been standing at the edge of that group for fifty minutes and had not finished a sentence in any of them.
 
 Nine minutes.
 
@@ -2137,15 +2137,15 @@ It was also the first thing he had said in seventy minutes that he had not decid
 
 ---
 
-At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular, with two people between himself and the two men he was listening to.
+At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular. There were two people between himself and the two men he was listening to.
 
 Being unapproachable in a room where you have spent an hour being delightful is a separate skill and he had built it in the same houses as the smile. It comes down to angle. Face the wrong way, hold something, and let your eyes go somewhere that is not a person. Nobody interrupts a man who is looking at a wall.
 
 The two directors were of the same company, which was not by itself the point.
 
-The company was a logistics firm with three hundred people and a yard at Pyeongtaek, and it had been bought in February, and both of these men had stayed on afterwards in jobs that were the same size and a different shape.
+The company was a logistics firm with three hundred people and a yard at Pyeongtaek. It had been bought in February. Both of these men had stayed on afterwards in jobs that were the same size and a different shape.
 
-The point was that both of them had been in the same hotel in Busan on the same four nights in March, and that Georgij had that from a booking record six days ago and had never once been able to work out what it meant.
+The point was that both of them had been in the same hotel in Busan on the same four nights in March. Georgij had that from a booking record six days ago and had never once been able to work out what it meant.
 
 He had assumed it meant they had gone together.
 
@@ -2215,11 +2215,11 @@ Georgij gave them the wide one.
 
 "He reads everything," said the chairman, delighted, warming his hands at it. "Everything. Go on, then. Ask him something."
 
-Nobody wanted to be the one to ask, so the chairman asked, because it had been his idea and because he was enjoying himself, and because a man of that age who has decided he likes you will show you off the way he shows off a boat.
+Nobody wanted to be the one to ask, so the chairman asked. It had been his idea and he was enjoying himself. A man of that age who has decided he likes you will show you off the way he shows off a boat.
 
 "Daehan Chemical," he said. "Interim. What did they do on margin?"
 
-It was not a difficult question. It was a public number. It was also being asked in front of five people, one of whom sat on the board of a company that had bought forty per cent of Daehan Chemical's output for eight years and had not renewed in the spring.
+It was not a difficult question. It was a public number. It was also being asked in front of five people. One of them sat on the board of a company that had bought forty per cent of Daehan Chemical's output for eight years and had not renewed in the spring.
 
 Georgij knew the number. He also knew the second sentence, which was the one that explained the number, and which had a man standing two feet away in it.
 
@@ -2275,13 +2275,13 @@ The screen changed.
 
 Chef Bang was standing to the left of the lectern in his whites.
 
-He was about forty and he had his hands folded in front of him, and he was smiling, and he had clearly been told where to stand and when to come out, and he did all of it perfectly well.
+He was about forty and he had his hands folded in front of him, and he was smiling. He had clearly been told where to stand and when to come out, and he did all of it perfectly well.
 
 Georgij knew the smile. It is the one you put on at the door and leave there.
 
 The bidding started at ten and went up the room in fives.
 
-The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then he stopped, and Chef Bang went on smiling beside the lectern with his hands folded while a room of eight hundred people decided what an evening of him was worth.
+The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then he stopped. Chef Bang went on smiling beside the lectern with his hands folded, while a room of eight hundred people decided what an evening of him was worth.
 
 "Sixty-two. Going once."
 
@@ -2309,7 +2309,7 @@ He did it at exactly the speed of the people around him, and he stopped at exact
 
 She did not turn it during the applause, or after it, or when the waiters started to come round again.
 
-But she had not turned it for the whole of the minute before the gavel either, which is not a thing a woman does with her head by accident, and Georgij understood at some point during the dessert that she had been not-looking at him for the whole of the auction.
+But she had not turned it for the whole of the minute before the gavel either, which is not a thing a woman does with her head by accident. Georgij understood at some point during the dessert that she had been not-looking at him for the whole of the auction.
 
 He put that with the rest.
 
@@ -2318,7 +2318,7 @@ It was the only thing anybody had done for him all evening, and nobody in the ro
 ---
 
 # Chapter 9: The friendly ones
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2328,7 +2328,7 @@ She came at him at a quarter past ten, when the speeches were over and the room 
 
 Georgij turned round.
 
-Up close the dark red was not red at all but something browner that had only been red under the lights, and she was about Annie's age, and she had a glass she had been holding for a long time.
+Up close the dark red was not red at all but something browner that had only been red under the lights. She was about Annie's age, and she had a glass she had been holding for a long time.
 
 "I beg your pardon?"
 
@@ -2364,7 +2364,7 @@ He decided it was probably all three and stopped trying to rank them.
 
 "I've been enjoying myself."
 
-"You've been busy. Woo has told four people about you. Hong has told everybody, and Hong tells everybody nothing, so that's remarkable in itself." She nodded at somebody without breaking stride. "A girl from the foundation talked to you for nine minutes and has been standing up straighter ever since, which is the single most interesting thing I have seen all evening, because nobody in this building has ever got anything out of that programme's reporting and now somebody has."
+"You've been busy. Woo has told four people about you. Hong has told everybody, and Hong tells everybody nothing, so that's remarkable in itself." She nodded at somebody without breaking stride. "A girl from the foundation talked to you for nine minutes and has been standing up straighter ever since, which is the single most interesting thing I have seen all evening. Nobody in this building has ever got anything out of that programme's reporting, and now somebody has."
 
 "She was very helpful."
 
@@ -2404,7 +2404,7 @@ He got that Min-ho already knew about the approach and had known before she told
 
 And once, in the middle of a sentence that was about something else, he got the word *container*.
 
-It sat by itself. Nothing else out there had anything to do with a container, and he turned it over twice and could find no edge of it that fitted anything, and so he left it exactly where it was, unexplained, in the order he had received it.
+It sat by itself. Nothing else out there had anything to do with a container. He turned it over twice and could find no edge of it that fitted anything. So he left it exactly where it was, unexplained, in the order he had received it.
 
 None of it was a mechanism. It was five pieces of one, and he could not have told you the shape.
 
@@ -2462,9 +2462,9 @@ Eight of them were doing it very well.
 
 One of the eight was doing it better than the other seven, and doing it by not doing anything at all. A woman in her fifties, at the back of the group, who had not spoken once in four minutes and around whom the whole thing was arranged. Twice, somebody said something and then looked at her before going on, and neither of them appeared to know they had done it.
 
-The ninth was the one who kept fetching things. A man in his late thirties, who had been to the bar twice in the time Georgij watched, and who laughed a quarter of a beat after everybody else, the way you laugh when you are following a room rather than standing in it.
+The ninth was the one who kept fetching things. A man in his late thirties, who had been to the bar twice in the time Georgij watched. He laughed a quarter of a beat after everybody else, the way you laugh when you are following a room rather than standing in it.
 
-He had names for both of them, four or five for each, and no way at all to choose between them, and it was going to take him a week and somebody else's mouth to close the gap between a description and a man.
+He had names for both of them, four or five for each, and no way at all to choose between them. It was going to take him a week and somebody else's mouth to close the gap between a description and a man.
 
 He put the nine of them down where he put things, with the quiet woman on top of the pile and the drinks-fetcher immediately under her.
 
@@ -2520,7 +2520,7 @@ It is what a woman asks a man at a wedding when the seating has put them togethe
 
 He had no answer.
 
-He had never had an answer. There was a woman who had owed somebody money and there was a number that had never been written down where he could see it, and behind that there was nothing at all, not a province, not a town, not a name of a place with a river in it.
+He had never had an answer. There was a woman who had owed somebody money, and there was a number that had never been written down where he could see it. Behind that there was nothing at all. Not a province, not a town, not a name of a place with a river in it.
 
 He could have said something true and useless. He could have named the first house, or the second, or the country the paperwork had eventually settled on.
 
@@ -2556,7 +2556,7 @@ It was recognition. Brief, and immediately put away, and she put it away like so
 
 "When was it?"
 
-"When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody asks that. It is the most flattering thing you can say to an old man, and it is also the only sentence in this building that a man would need to say out loud if he had nobody at all to ask."
+"When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody asks that. It is the most flattering thing you can say to an old man. It is also the only sentence in this building that a man would need to say out loud if he had nobody at all to ask."
 
 "It worked."
 
@@ -2584,7 +2584,7 @@ And then they would stop wondering what he was, because they would believe they 
 
 Hana let him do it.
 
-She did not take the hand back early and she did not laugh, and she watched his face the entire time with the expression of a woman watching a card being played out of a sleeve she had already looked into.
+She did not take the hand back early and she did not laugh. She watched his face the entire time, with the expression of a woman watching a card being played out of a sleeve she had already looked into.
 
 "That's very good," she said.
 
@@ -2600,7 +2600,7 @@ She did not take the hand back early and she did not laugh, and she watched his 
 
 He heard the word leave his mouth about a quarter of a second after it was too late to do anything about it.
 
-He had been given one rule in that car three weeks ago and it had two halves. Annie in public. The other word nowhere else at all. He had kept both of them for twenty-two days, through a tailor and a security chief and eight hundred people, and he had just handed the second one to a stranger on a dance floor because she had been kind to him for eleven minutes.
+He had been given one rule in that car three weeks ago and it had two halves. Annie in public. The other word nowhere else at all. He had kept both of them for twenty-two days, through a tailor and a security chief and eight hundred people. He had just handed the second one to a stranger on a dance floor because she had been kind to him for eleven minutes.
 
 ---
 
@@ -3301,7 +3301,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3329,7 +3329,7 @@ Eun-ju arrived at eight and had clearly also seen the photograph, and did not me
 
 Jang came up from the security office at nine with two sheets of paper.
 
-"Your evening," he said, and put them down. "Mine, not yours. I'd rather you had it."
+"Your evening," he said, and put them down. "Mine, not yours. Take it."
 
 Georgij read it.
 
@@ -3495,7 +3495,7 @@ He sat down.
 
 "Why not?"
 
-"Because if I say it, you will spend the next two weeks deciding how to behave in a room, and you will get it exactly right, and getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment and I would rather it were not true."
+"Because if I say it, you will spend the next two weeks deciding how to behave in a room, and you will get it exactly right, and getting it exactly right is the one thing that would tell him what you are." She had her hands flat on the desk. "You are better when you don't know. That is not a compliment. It should not be true and it is."
 
 Georgij did not say anything.
 
@@ -3539,7 +3539,7 @@ Georgij looked at the desk for a moment.
 
 She let that stand there for a while, and did not soften it, and did not take it back, and did not explain it.
 
-"You can refuse," she said. "I want to be clear about that before you answer, and I would rather say it than have you work out afterwards that you could have. If you say no tonight I will find another way in and it will be slower and worse and I will not raise it again."
+"You can refuse," she said. "I want to be clear about that before you answer, and I am telling you before you answer and not after. If you say no tonight I will find another way in and it will be slower and worse and I will not raise it again."
 
 "And if I say yes?"
 
@@ -3582,7 +3582,7 @@ And it was true, and both of them knew it was true, and Georgij went up the stai
 ---
 
 # Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3616,7 +3616,7 @@ He said it entirely pleasantly, and sat back down at the end of the long table, 
 
 Annie did not sit. She stood at the window with her coffee for slightly longer than she needed to, and then she took the cup with her and went, which she had not done either of the other two times.
 
-She did not like it. He watched her not like it, from the far end of the long table, over eggs, and found that he could not tell whether that was a good outcome or a bad one, and decided he was content to find out.
+She did not like it. He watched her not like it, from the far end of the long table, over eggs. He found that he could not tell whether that was a good outcome or a bad one. He decided he was content to find out.
 
 ---
 
@@ -3626,19 +3626,19 @@ Georgij did not telephone the hire company either.
 
 He went at it from the other end, which took him a day and a half and consisted almost entirely of being polite to people whose job nobody respects.
 
-A private hire vehicle that sits in a hotel ramp for three hours and forty minutes has not been flagged down in the street. It has been booked, and booked for a block, and a block booking is placed on an account, and an account generates a docket, and a docket goes to the hotel because the hotel charges the ramp by the hour to anybody who is not a guest.
+A private hire vehicle that sits in a hotel ramp for three hours and forty minutes has not been flagged down in the street. It has been booked, and booked for a block. A block booking is placed on an account, and an account generates a docket. A docket goes to the hotel because the hotel charges the ramp by the hour to anybody who is not a guest.
 
-The hotel's ramp is run by a facilities company. The facilities company has a supervisor. The supervisor has an office the size of a wardrobe under the north stair, and a laminated list of account numbers taped to the wall beside his kettle, because the system that was supposed to replace the laminated list has never worked.
+The hotel's ramp is run by a facilities company. The facilities company has a supervisor. The supervisor has an office the size of a wardrobe under the north stair, and a laminated list of account numbers taped to the wall beside his kettle. The system that was supposed to replace the laminated list has never worked.
 
 Georgij spent forty minutes talking to that man about his son's military service.
 
-He came away with an account number, and the name of the company holding it, and the four other evenings in the last fourteen months on which the same account had booked the same category of vehicle for a block.
+He came away with an account number, and the name of the company holding it. And the four other evenings in the last fourteen months on which the same account had booked the same category of vehicle for a block.
 
 ---
 
 The company was a corporate services provider in Jung-gu with six employees and no website worth the name.
 
-That was the end of it. He knew what that sort of company was for. It exists so that other companies do not have to appear on dockets, and behind it there would be another one, and behind that a third, and somewhere at the end of it a person he was not going to reach through a laminated list.
+That was the end of it. He knew what that sort of company was for. It exists so that other companies do not have to appear on dockets. Behind it there would be another one, and behind that a third. And somewhere at the end of it a person he was not going to reach through a laminated list.
 
 The four dates were another matter.
 
@@ -3664,7 +3664,7 @@ He went down and gave Jang the account number, and the company, and all four of 
 
 He did not take any of it to Annie.
 
-There was nothing there to take. He had told her in the car that he would not hand her things that merely fitted, and this was a parked car and a shell company, and a man who walks into that study with a shape and calls it a finding does it once and is never listened to properly again.
+There was nothing there to take. He had told her in the car that he would not hand her things that merely fitted. This was a parked car and a shell company. A man who walks into that study with a shape and calls it a finding does it once and is never listened to properly again.
 
 He wrote the three unusable dates on the inside cover of the file instead.
 
@@ -3676,11 +3676,11 @@ By the Thursday evening the paper had got him as far as paper goes.
 
 Nine institutions in the syndicate. Three of them large enough to have needed an internal approval, and an internal approval has a name at the bottom of it, and not one of those three publishes the name.
 
-Two were ordinary houses. The third was a fund whose beneficial ownership ran into a chain of law firms in Singapore and stopped there, and behind Singapore, according to a filing made for an entirely different purpose in 2021, was a private equity company registered in Hong Kong.
+Two were ordinary houses. The third was a fund whose beneficial ownership ran into a chain of law firms in Singapore and stopped there. Behind Singapore, according to a filing made for an entirely different purpose in 2021, was a private equity company registered in Hong Kong.
 
 So he had a company behind a chain behind a fund.
 
-He had no person at all, and he had known since the second day that he was not going to get one this way, and that was the third time in four weeks that the same wall had come up in front of him.
+He had no person at all. Since the second day he had known that he was not going to get one this way. That was the third time in four weeks that the same wall had come up in front of him.
 
 ---
 
@@ -3710,7 +3710,7 @@ Woo had bought the ground in a year when nobody wanted it, on the advice of a ma
 
 Then he had sat on it through two administrations, one currency scare, and about eight months during which his own board had tried twice to make him sell it. He named both of the board members. He named the year. He described a meeting in 2016 in which somebody had said something to him about his father that he had not forgiven and was clearly never going to.
 
-He talked about concrete for nine minutes and it was the best nine minutes of the evening, and Georgij, who had no use for any of it, listened to all of it properly, because there was no version of the evening in which he pretended to.
+He talked about concrete for nine minutes and it was the best nine minutes of the evening. Georgij, who had no use for any of it, listened to all of it properly, because there was no version of the evening in which he pretended to.
 
 Then the money.
 
@@ -3754,7 +3754,7 @@ Then he laughed, and it was not a warm laugh, and it was the first thing all eve
 
 "I told you on Saturday I wasn't going to tell you."
 
-"You did, and I didn't ask you again on Saturday, and I've thought about very little else since." Georgij said it without any pressure anywhere in it. "I'm asking you now because we are two men eating soup and not two men in a ballroom, and because you can tell me to stop and I will stop and we can talk about concrete for another hour and I will enjoy it."
+"You did, and I didn't ask you again on Saturday, and I've thought about very little else since." Georgij said it without any pressure anywhere in it. "I'm asking you now because we are two men eating soup and not two men in a ballroom. And because you can tell me to stop and I will stop. We can talk about concrete for another hour and I will enjoy it."
 
 The old man sat back.
 
@@ -3784,7 +3784,7 @@ Somebody at the next table laughed at something.
 
 Woo looked up.
 
-"A name I could have had wrong. Names are written down by people who were not there." He said it evenly. "A man who sits down opposite a stranger and asks him what happens to his business if he dies on the Tuesday has asked that before, and will ask it again, and every single person he has asked will remember it for the rest of their lives." A small courteous gesture. "Nobody forgets being asked that. All I have to do now is find somebody else who has been."
+"A name I could have had wrong. Names are written down by people who were not there." He said it evenly. "A man who sits down opposite a stranger and asks him what happens to his business if he dies on the Tuesday has asked that before, and will ask it again. Every single person he has asked will remember it for the rest of their lives." A small courteous gesture. "Nobody forgets being asked that. All I have to do now is find somebody else who has been."
 
 "That's a strange way to look for a man."
 
@@ -3836,7 +3836,7 @@ He picked his chopsticks back up.
 
 Georgij went out into the street at twenty past eleven with a great deal more than he had come in with, and did not feel particularly good about any of it.
 
-He had a man of about fifty who spoke English with a Hong Kong accent and Korean with none, who carried no cards, and who asked people what would happen to the thing they had built if they died on a Tuesday.
+He had a man of about fifty who spoke English with a Hong Kong accent and Korean with none, and who carried no cards. The man asked people what would happen to the thing they had built if they died on a Tuesday.
 
 He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had not blinked at the word.
 

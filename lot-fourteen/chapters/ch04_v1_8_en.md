@@ -1,7 +1,7 @@
-Chapter 4: Count again
-Lot Fourteen · Version 1.7 · EN
+# Chapter 4: Count again
+*Lot Fourteen* · Version 1.8 · EN
 
-Day 2 · Sunday 5 October
+*Day 2 · Sunday 5 October*
 
 He woke at ten past five because the light came in from the east, and he lay still for a while and listened to a house he did not know yet.
 
@@ -19,7 +19,7 @@ Then he sat in the chair by the window for twenty minutes and watched the east l
 
 He went down at five to seven, because Mrs Seo had said seven.
 
-* * *
+---
 
 The kitchen was at the north end and it had one long scrubbed table in it and a smaller one by the window with three chairs.
 
@@ -43,7 +43,7 @@ He had watched a man do a version of that six hours earlier and had taken his ey
 
 So he sat where she put him, and he was still sitting there when a gardener came in for coffee, looked at his throat for slightly too long, and took the coffee outside.
 
-* * *
+---
 
 At two minutes past seven Annie came into the kitchen.
 
@@ -85,7 +85,7 @@ Mrs Seo wiped the same part of the counter twice. Then she said, without turning
 
 Georgij smiled at her. He was not after anything with it, and she would have known if he had been.
 
-* * *
+---
 
 She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study, and the study turned out to be the room on the right off the hall, the one that had been shut on the first night.
 
@@ -97,7 +97,7 @@ He picked up neither.
 
 "They're managed," she said. "Everything on both of them comes back to a company that bills me monthly. I'm telling you that instead of letting you find it, because you'd find it before lunch and then we'd have an afternoon about it."
 
-"Thank you." He said it plainly. "Then I'll write on them as though you're reading, because you will be, and I'd rather never have to remember which version you got."
+"Thank you." He said it plainly. "Then I'll write on them as though you're reading, because you will be, and there will only ever be the one version."
 
 Annie looked at him for a moment.
 
@@ -125,7 +125,7 @@ He waited to see whether anything came after it. Nothing did, so he took the nex
 
 "I know you will."
 
-"Then let me say the rest of it out loud, because the rest of it is the part that's worth anything." There was no hurry in it anywhere. "You've told me no and I'm going to go round you. In three weeks you'd have seen it on a machine you pay the bill for, and then you'd have had to sit and work out what it meant that I never mentioned it. I'd rather you didn't spend an afternoon on that question. You'd only reach the wrong answer slowly."
+"Then let me say the rest of it out loud, because the rest of it is the part that's worth anything." There was no hurry in it anywhere. "You've told me no and I'm going to go round you. In three weeks you'd have seen it on a machine you pay the bill for, and then you'd have had to sit and work out what it meant that I never mentioned it. So you're hearing it now and not in three weeks. You'd only reach the wrong answer slowly."
 
 "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what she had been reading.
 
@@ -141,7 +141,7 @@ He was at the door when she spoke again.
 
 "I'd count again before the tailor comes."
 
-* * *
+---
 
 He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brought without being asked and left just outside his reach, which he decided was an accident.
 
@@ -153,7 +153,7 @@ He shut the laptop at nine.
 
 Then he waited until the house had gone quiet, and at half past eleven he went round turning off lights.
 
-* * *
+---
 
 Twenty-two he already had.
 
@@ -183,7 +183,7 @@ The twenty-fourth was in the eaves above the ground-floor windows on that side, 
 
 He put the phone in his pocket and went to find her.
 
-* * *
+---
 
 She was in the study with one lamp on.
 
@@ -195,7 +195,7 @@ She was in the study with one lamp on.
 
 "I did."
 
-"You sat three days over those angles and sent a professional away twice. A woman who does that knows what a camera does in a dark room, because it is the same thing your cameras have been doing to my dark rooms since I got here." He let that stand, courteously and without any pressure on it. "So either it went out of your head while you were putting it in my hand, which I don't believe for a moment, or it didn't matter to you that I'd have it. I'd rather be told which."
+"You sat three days over those angles and sent a professional away twice. A woman who does that knows what a camera does in a dark room, because it is the same thing your cameras have been doing to my dark rooms since I got here." He let that stand, courteously and without any pressure on it. "So either it went out of your head while you were putting it in my hand, which I don't believe for a moment, or it didn't matter to you that I'd have it. I would take an answer on which."
 
 "Would you," Annie said.
 

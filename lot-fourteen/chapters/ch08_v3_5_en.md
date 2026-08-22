@@ -1,7 +1,7 @@
-Chapter 8: Something to do with my hands
-Lot Fourteen · Version 3.4 · EN
+# Chapter 8: Something to do with my hands
+*Lot Fourteen* · Version 3.5 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 The glass was the first problem and it took him about ninety seconds to solve.
 
@@ -9,17 +9,17 @@ A man who holds one drink for six hours is a man everybody eventually notices, a
 
 So he took a proper mouthful, early, standing where four people could see him do it. That was the drinking done.
 
-After that it was arithmetic. Champagne goes warm and flat inside twenty minutes in a room with that many lights in it, and handing a half-finished glass to a passing tray and lifting a fresh one off the same tray is the single least remarkable thing a person can do at an event of this kind. He did it five times before nine o'clock. The room would have said he had had five glasses. He had had one, in the first two minutes, in front of witnesses.
+After that it was arithmetic. Champagne goes warm and flat inside twenty minutes in a room with that many lights in it. Handing a half-finished glass to a passing tray and lifting a fresh one off the same tray is the single least remarkable thing a person can do at an event of this kind. He did it five times before nine o'clock. The room would have said he had had five glasses. He had had one, in the first two minutes, in front of witnesses.
 
 He carried it in his left hand.
 
 A cold wet palm in a handshake is a thing men remember afterwards without knowing why they remember it, and he was going to be shaking a great many hands.
 
-* * *
+---
 
 The girl at the edge of the group near the bar was still there at twenty past eight, and she was still holding the same glass.
 
-He came at her from the side and slightly behind, so that she saw him arrive rather than discovering him, and he stopped at the distance where a person can decline to speak to you without it being an event.
+He came at her from the side and slightly behind, so that she saw him arrive rather than discovering him. He stopped at the distance where a person can decline to speak to you without it being an event.
 
 "You do the reporting for the Daegu programme."
 
@@ -51,7 +51,7 @@ Georgij asked her about the fourteen sites. Then he asked her about the three th
 
 Then he stopped asking about the money and asked about the people on the board.
 
-She told him. Not because he was clever, but because he stood still and did not look past her shoulder once, and because she had been standing at the edge of that group for fifty minutes and had not finished a sentence in any of them.
+She told him. Not because he was clever, but because he stood still and did not look past her shoulder once. And because she had been standing at the edge of that group for fifty minutes and had not finished a sentence in any of them.
 
 Nine minutes.
 
@@ -79,17 +79,17 @@ Which was true, as far as it went.
 
 It was also the first thing he had said in seventy minutes that he had not decided on before he said it, and he heard that happen, and he went away from her carrying it.
 
-* * *
+---
 
-At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular, with two people between himself and the two men he was listening to.
+At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular. There were two people between himself and the two men he was listening to.
 
 Being unapproachable in a room where you have spent an hour being delightful is a separate skill and he had built it in the same houses as the smile. It comes down to angle. Face the wrong way, hold something, and let your eyes go somewhere that is not a person. Nobody interrupts a man who is looking at a wall.
 
 The two directors were of the same company, which was not by itself the point.
 
-The company was a logistics firm with three hundred people and a yard at Pyeongtaek, and it had been bought in February, and both of these men had stayed on afterwards in jobs that were the same size and a different shape.
+The company was a logistics firm with three hundred people and a yard at Pyeongtaek. It had been bought in February. Both of these men had stayed on afterwards in jobs that were the same size and a different shape.
 
-The point was that both of them had been in the same hotel in Busan on the same four nights in March, and that Georgij had that from a booking record six days ago and had never once been able to work out what it meant.
+The point was that both of them had been in the same hotel in Busan on the same four nights in March. Georgij had that from a booking record six days ago and had never once been able to work out what it meant.
 
 He had assumed it meant they had gone together.
 
@@ -115,7 +115,7 @@ Georgij, who was looking at a wall, did not move at all.
 
 He had heard that name for the first time in his life sixty-three minutes ago, out of the mouth of a cheerful man of sixty-one who had thought he was being kind.
 
-He gives dinners.
+*He gives dinners.*
 
 Two directors of the same company. The same hotel, the same four nights. Neither of them told that the other was coming.
 
@@ -137,7 +137,7 @@ Georgij stood at the wall for another forty seconds, because leaving immediately
 
 Then he put a warm glass on a tray and took a cold one.
 
-* * *
+---
 
 He saw the woman in the dark red at a quarter to nine, and she was looking at him.
 
@@ -149,7 +149,7 @@ She let him see that she had been looking, and then she went back to the convers
 
 He did not have to put her on any list. She had been on the twelve since the second week, and she was one of the nine that were tied to each other in ways the room did not know about.
 
-* * *
+---
 
 Chairman Woo found him at ten to nine, and he had four people with him.
 
@@ -159,11 +159,11 @@ Georgij gave them the wide one.
 
 "He reads everything," said the chairman, delighted, warming his hands at it. "Everything. Go on, then. Ask him something."
 
-Nobody wanted to be the one to ask, so the chairman asked, because it had been his idea and because he was enjoying himself, and because a man of that age who has decided he likes you will show you off the way he shows off a boat.
+Nobody wanted to be the one to ask, so the chairman asked. It had been his idea and he was enjoying himself. A man of that age who has decided he likes you will show you off the way he shows off a boat.
 
 "Daehan Chemical," he said. "Interim. What did they do on margin?"
 
-It was not a difficult question. It was a public number. It was also being asked in front of five people, one of whom sat on the board of a company that had bought forty per cent of Daehan Chemical's output for eight years and had not renewed in the spring.
+It was not a difficult question. It was a public number. It was also being asked in front of five people. One of them sat on the board of a company that had bought forty per cent of Daehan Chemical's output for eight years and had not renewed in the spring.
 
 Georgij knew the number. He also knew the second sentence, which was the one that explained the number, and which had a man standing two feet away in it.
 
@@ -197,7 +197,7 @@ Not a toast. An acknowledgement. The sort of thing one professional gives anothe
 
 Georgij inclined his head a fraction, and did not smile, and went to find his table.
 
-* * *
+---
 
 The auction was between the main course and the speeches.
 
@@ -219,13 +219,13 @@ The screen changed.
 
 Chef Bang was standing to the left of the lectern in his whites.
 
-He was about forty and he had his hands folded in front of him, and he was smiling, and he had clearly been told where to stand and when to come out, and he did all of it perfectly well.
+He was about forty and he had his hands folded in front of him, and he was smiling. He had clearly been told where to stand and when to come out, and he did all of it perfectly well.
 
 Georgij knew the smile. It is the one you put on at the door and leave there.
 
 The bidding started at ten and went up the room in fives.
 
-The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then he stopped, and Chef Bang went on smiling beside the lectern with his hands folded while a room of eight hundred people decided what an evening of him was worth.
+The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then he stopped. Chef Bang went on smiling beside the lectern with his hands folded, while a room of eight hundred people decided what an evening of him was worth.
 
 "Sixty-two. Going once."
 
@@ -253,7 +253,7 @@ He did it at exactly the speed of the people around him, and he stopped at exact
 
 She did not turn it during the applause, or after it, or when the waiters started to come round again.
 
-But she had not turned it for the whole of the minute before the gavel either, which is not a thing a woman does with her head by accident, and Georgij understood at some point during the dessert that she had been not-looking at him for the whole of the auction.
+But she had not turned it for the whole of the minute before the gavel either, which is not a thing a woman does with her head by accident. Georgij understood at some point during the dessert that she had been not-looking at him for the whole of the auction.
 
 He put that with the rest.
 
