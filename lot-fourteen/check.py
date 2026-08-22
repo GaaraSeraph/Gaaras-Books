@@ -344,6 +344,14 @@ def chapter_state(root, best, fix=False):
     Laeuft nur im vollen Lauf. Bekommt check.py einzelne Dateien uebergeben,
     ist die Menge unvollstaendig und jede Aussage ueber die Liste waere
     falsch - deshalb ruft main() das hier gar nicht erst auf.
+
+    Gibt Paare (Meldung, behoben) zurueck. Das ist noetig, weil --sync-state
+    nur eines von drei Dingen kann: eine Versionsnummer in einer Zeile, die
+    schon dasteht. Eine fehlende Kapitelzeile kann es nicht schreiben, denn
+    die traegt Titel und Inhaltssatz, und beides ist Autorenarbeit. Am
+    22. August meldete der Lauf trotzdem "nachgezogen", schrieb nichts, und
+    beim naechsten Lauf fehlte dasselbe Kapitel wieder. Eine Erfolgsmeldung
+    ohne Wirkung ist schlimmer als eine Fehlermeldung.
     """
     p = os.path.join(root, *CONTINUITY)
     if not os.path.exists(p) or not best:
@@ -357,19 +365,21 @@ def chapter_state(root, best, fix=False):
         n = int(m.group(2))
         seen.add(n)
         if n not in best:
-            out.append(f"Kapitel {n} steht in der Liste, hat aber keine Datei.")
+            out.append((f"Kapitel {n} steht in der Liste, hat aber keine Datei.",
+                        False))
             continue
         have, want = (int(m.group(3)), int(m.group(4))), best[n][0]
         if have == want:
             continue
         soll = "v%d.%d" % want
-        out.append("Kapitel %d: Liste sagt v%d.%d, Datei ist %s."
-                   % (n, have[0], have[1], soll))
+        out.append(("Kapitel %d: Liste sagt v%d.%d, Datei ist %s."
+                    % (n, have[0], have[1], soll), fix))
         if fix:
             lines[i] = m.group(1) + soll + m.group(5) + line[m.end():]
             changed = True
     for n in sorted(set(best) - seen):
-        out.append(f"Kapitel {n} fehlt in der Liste.")
+        out.append((f"Kapitel {n} fehlt in der Liste und muss von Hand "
+                    f"eingetragen werden (Titel und Inhaltssatz).", False))
     if fix and changed:
         with open(p, "w", encoding="utf-8", newline="\n") as fh:
             fh.write("\n".join(lines))
@@ -481,10 +491,12 @@ def main():
     print(f"\n{len(files)} Kapitel geprueft, {bad} mit Fehlern.")
     if drift:
         print("Kapitelliste in doc/05-continuity.md:")
-        for d in drift:
-            print(("  nachgezogen  " if fix else "  FEHLER   ") + d)
-        if not fix:
-            print("  Nachziehen mit: python3 check.py --sync-state")
+        offen = False
+        for text, behoben in drift:
+            print(("  nachgezogen  " if behoben else "  FEHLER   ") + text)
+            offen = offen or not behoben
+        if offen and not fix:
+            print("  Versionsnummern nachziehen mit: python3 check.py --sync-state")
     if base:
         if better:
             print("Besser geworden:")
@@ -501,7 +513,12 @@ def main():
 
     # Die Drift zaehlt in beide Rueckgabewerte. Der Hook ruft --ratchet auf,
     # und das ist der einzige Aufruf, der wirklich blockiert.
-    stale = bool(drift) and not fix
+    #
+    # Es zaehlt, was offen geblieben ist, nicht ob --sync-state mitlief.
+    # Vorher stand hier "bool(drift) and not fix", und damit machte
+    # --sync-state den Lauf gruen, auch wenn es gar nichts hatte reparieren
+    # koennen. Ein fehlendes Kapitel wurde so aus dem Exit-Code geschrieben.
+    stale = any(not behoben for _, behoben in drift)
     if "--ratchet" in flags:
         sys.exit(1 if (worse or stale) else 0)
     sys.exit(1 if (bad or stale) else 0)

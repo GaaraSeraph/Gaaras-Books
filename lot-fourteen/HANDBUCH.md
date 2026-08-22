@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 51.198 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 52.587 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -108,17 +108,17 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Hong](#mr-hong)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Ji-won](#ji-won)
-  - [Kim Do-yun](#kim-do-yun)
   - [Kim Ye-rin](#kim-ye-rin)
+  - [Kim Do-yun](#kim-do-yun)
   - [Bae](#bae)
-  - [Mr Noh](#mr-noh)
   - [Mr Pyo](#mr-pyo)
+  - [Mr Ku](#mr-ku)
+  - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
   - [Mr Baek](#mr-baek)
   - [Mr Yeo](#mr-yeo)
   - [Minister Min-ho](#minister-min-ho)
-  - [Mr Ku](#mr-ku)
   - [Mrs Sunwoo](#mrs-sunwoo)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Im](#mr-im)
@@ -845,6 +845,8 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 
+**Ab Kapitel 21 festgelegt.** Einundfünfzig. **Ein Haus nördlich des Flusses**, altes Geld, alte Bäume, eine Steinmauer. Freitags ist niemand darin; die Frau, die kommt, kommt montags und donnerstags. Sie öffnet ihre Tür selbst. Sie erlaubt seit 2011 keine Fotografien in ihrem Haus, und jeder auf ihrer Gästeliste weiß das - was aus einer Marotte Woos zweite Bedingung erfüllbar macht. Kang Ji-hoon kommt seit neun Jahren zu Weihnachten dorthin, seine Frau und sie haben dieselben Prüfungen geschrieben. **Sie kennt Georgijs Lage seit der Gala aus seinem eigenen Mund** und hat sie nie erwähnt. Sie geht in Kapitel 21 einen Schritt weiter, als der Mietvertrag deckt: Sie streut auf Ansage, und weil sie in dieser Stadt die Frau ist, die nie für etwas bezahlt, das sie sagt, setzt sie damit ihr ganzes Kapital ein. Es steht auf keinem Papier und darf auf keines.
+
 **Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala geredet, nicht unvorsichtig, aber etwa drei Prozent lauter als nötig, und Georgij hat daraus Incheon fünfmal, den östlichen Abschnitt und ein Datum im Frühjahr mitgenommen. Er weiß das und sagt es ihr nicht. **Kangs Anruf gehört dagegen nicht ihr, sondern ihm:** Er hat den Griff an einem Abend zweimal benutzt und Kang dabei gezeigt, wo sein Loch ist. Kapitel 11 sagt es aus seinem Mund: *I walked across a room and showed it to him.*
 *Kanon ab Kapitel 9.*
 
@@ -1161,7 +1163,14 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 45, Mo 17. November: Annie unterschreibt den Mietvorvertrag, Georgij zieht die zweite Abteilung
 - Tag 46, Di 18. November: das Essen mit Sang-hoon, die Heimfahrt, die festgelegte Zeile
 - Tag 48, Do 20. November: Sang-hoon gibt die neunzehn Seiten zurück und das Mandat (Kapitel 18), am Nachmittag Yeongjong (Kapitel 19)
-- Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20)
+- Tag 49, Fr 21. November: der Bericht ueber Yeongjong, das Hanseong-Gebot geht Montag raus (Kapitel 20), am Nachmittag Hanas Haus (Kapitel 21)
+
+**Feste Termine voraus, ab Kapitel 21 im Text genannt und damit Kanon:**
+
+- Mo 24. November (Tag 52): Annies Gebot auf Hanseong geht raus
+- erste Dezemberwoche: Sang-hoon unterschreibt bei der Haelfte, die aussteigen will
+- **Di 16. Dezember: Hanas Abend.** Woo um sieben, die Kims um acht, Ye-rin um neun, Kang um halb zehn. Georgij um sechs
+- Februar: Ye-rin bricht, wenn bis dahin nichts steht
 
 **Prüfregel:** Jeder Tag mit Rest 1 bei Teilung durch sieben ist ein Samstag. Sang-hoon hat "after the fifteenth" gesagt, der Sechzehnte wäre ein Sonntag, deshalb der Achtzehnte.
 
@@ -1169,6 +1178,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 21** *The ones who come at nine* (v1.0) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, und das Fotoverbot, das Woos zweite Bedingung aus Kapitel 19 beantwortet. Kang steht auf ihrer Liste, bevor Georgij den Namen sagt. Sie bricht ihre eigene Frage ab, statt sie beantwortet zu bekommen, und leiht ihm damit das Einzige, was ihr gehoert. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 - **Kapitel 20** *I came back with a favour* (v1.2) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.8) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.5) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
@@ -3092,26 +3102,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 198 | 19 (01-20) | 1 | 49 |
-| Hana | 75 | 7 (09-17) | 22 | 46 |
-| Chairman Woo | 68 | 11 (07-20) | 22 | 49 |
-| Park Sang-hoon | 53 | 9 (10-19) | 22 | 48 |
-| Mrs Seo | 37 | 11 (03-20) | 1 | 49 |
+| Annie | 202 | 20 (01-21) | 1 | 49 |
+| Hana | 96 | 8 (09-21) | 22 | 49 |
+| Chairman Woo | 75 | 12 (07-21) | 22 | 49 |
+| Park Sang-hoon | 54 | 10 (10-21) | 22 | 49 |
+| Mrs Seo | 38 | 12 (03-21) | 1 | 49 |
 | Jang | 35 | 10 (05-18) | 4 | 48 |
 | Mr Hong | 29 | 8 (07-20) | 22 | 49 |
-| Kang Ji-hoon | 22 | 5 (09-17) | 22 | 46 |
+| Kang Ji-hoon | 27 | 6 (09-21) | 22 | 49 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
+| Kim Ye-rin | 15 | 5 (14-21) | 31 | 49 |
 | Kim Do-yun | 7 | 3 (14-16) | 31 | 46 |
-| Kim Ye-rin | 7 | 4 (14-18) | 31 | 48 |
 | Bae | 6 | 3 (03-14) | 1 | 34 |
+| Mr Pyo | 6 | 4 (05-21) | 6 | 49 |
+| Mr Ku | 5 | 4 (05-21) | 6 | 49 |
 | Mr Noh | 5 | 1 (05) | 4 | 6 |
-| Mr Pyo | 5 | 3 (05-17) | 6 | 46 |
 | Chef Bang | 4 | 1 (08) | 22 | 22 |
 | Eun-ju | 4 | 3 (05-14) | 6 | 34 |
 | Mr Baek | 4 | 3 (05-15) | 6 | 41 |
 | Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
 | Minister Min-ho | 3 | 1 (09) | 22 | 22 |
-| Mr Ku | 3 | 3 (05-11) | 6 | 22 |
 | Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
 | Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
 | Mr Im | 1 | 1 (05) | 6 | 6 |
@@ -3124,7 +3134,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-198 Nennungen in 19 Kapiteln.
+202 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3326,6 +3336,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch20:154 | Annie sat back in the chair. |
 | 49 | ch20:170 | Annie did not say anything. |
 | 49 | ch20:194 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
+| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
+| 49 | ch21:138 | "Annie is bidding for Hanseong. It goes out on Monday." |
+| 49 | ch21:154 | "I would like you to mention it," said Georgij. "Not to me. In December, or before Decem.. |
+| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -3384,7 +3398,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-75 Nennungen in 7 Kapiteln.
+96 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3463,6 +3477,27 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | ch17:94 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+| 49 | ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
+| 49 | ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
+| 49 | ch21:52 | "Say what for," said Hana, "and then I will decide whether to be insulted." |
+| 49 | ch21:58 | Hana sat down. |
+| 49 | ch21:74 | Hana looked at the ceiling for a moment. |
+| 49 | ch21:88 | "It costs you your house on an evening when nine people under customs investigation are .. |
+| 49 | ch21:94 | Hana put her chin down for a second. |
+| 49 | ch21:122 | "I said *if*, and I am going to go on saying *if*, because I have asked that woman to fo.. |
+| 49 | ch21:128 | "Now the other thing," said Hana. |
+| 49 | ch21:140 | Hana did not move at all for about two seconds. |
+| 49 | ch21:148 | "You sat at that table eight days ago and told me what that document was for, and you us.. |
+| 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
+| 49 | ch21:170 | Hana looked at him for a long moment. |
+| 49 | ch21:178 | "Hana." |
+| 49 | ch21:198 | "In this city you are the woman who says things on terraces and never pays for any of th.. |
+| 49 | ch21:200 | "I know what it is," said Hana. "I have had it since I was twenty-six." |
+| 49 | ch21:234 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | ch21:248 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
+| 49 | ch21:256 | "Hana." |
+| 49 | ch21:268 | Hana's face did not do anything. |
+| 49 | ch21:278 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -3491,12 +3526,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:374` (Tag 41) - ten
 - `ch16:120` (Tag 46) - three
 - `ch17:94` (Tag 46) - one, sixteen thousand
+- `ch21:36` (Tag 49) - four
+- `ch21:88` (Tag 49) - nine
+- `ch21:122` (Tag 49) - fourteen, two
+- `ch21:140` (Tag 49) - two
+- `ch21:148` (Tag 49) - eight
+- `ch21:160` (Tag 49) - nine, one, twenty
+- `ch21:200` (Tag 49) - twenty-six
+- `ch21:234` (Tag 49) - four
+- `ch21:248` (Tag 49) - fifty-one, one
+- `ch21:278` (Tag 49) - one
 
 ---
 
 ### Chairman Woo
 
-68 Nennungen in 11 Kapiteln.
+75 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3568,6 +3613,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
 | 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
 | 49 | ch20:208 | "Then find Chairman Woo a house." |
+| 49 | ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
+| 49 | ch21:60 | "Woo signed." |
+| 49 | ch21:106 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
+| 49 | ch21:220 | "Woo at seven." |
+| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | ch21:284 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
+| 49 | ch21:292 | He had gone up that drive for a house and an evening. He had come down with a date, a ru.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -3601,12 +3653,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:302` (Tag 48) - one
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
+- `ch21:106` (Tag 49) - nine, seven, seventy-eight
+- `ch21:220` (Tag 49) - seven
+- `ch21:222` (Tag 49) - eight, nine, one, seven
+- `ch21:284` (Tag 49) - six
+- `ch21:292` (Tag 49) - three
 
 ---
 
 ### Park Sang-hoon
 
-53 Nennungen in 9 Kapiteln.
+54 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3663,6 +3720,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon." Geor.. |
 | 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
+| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -3693,7 +3751,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-37 Nennungen in 11 Kapiteln.
+38 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3734,6 +3792,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
 | 46 | ch17:202 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
 | 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
+| 49 | ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3755,6 +3814,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `ch15:22` (Tag 41) - one, three
 - `ch20:16` (Tag 49) - nine
+- `ch21:12` (Tag 49) - six
 
 ---
 
@@ -3886,7 +3946,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kang Ji-hoon
 
-22 Nennungen in 5 Kapiteln.
+27 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3912,6 +3972,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
 | 25 | ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
 | 46 | ch17:10 | "Kang," said Annie. |
+| 49 | ch21:156 | "To Kang." |
+| 49 | ch21:160 | "You did not have to say a name. You have been sitting in my sitting room for twenty min.. |
+| 49 | ch21:166 | "He talks to Sang-hoon's people. He told me so himself in October, near enough, and Anni.. |
+| 49 | ch21:184 | "Do not tell me. I have just heard myself ask, and I would like both of us to notice tha.. |
+| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
@@ -3921,6 +3986,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch12:124` (Tag 25) - one
 - `ch12:168` (Tag 25) - two
 - `ch12:170` (Tag 25) - two
+- `ch21:160` (Tag 49) - nine, one, twenty
+- `ch21:184` (Tag 49) - three
+- `ch21:222` (Tag 49) - eight, nine, one, seven
 
 ---
 
@@ -3967,6 +4035,41 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Kim Ye-rin
+
+15 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
+| 49 | ch21:64 | "Ye-rin." |
+| 49 | ch21:66 | "Ye-rin." |
+| 49 | ch21:108 | "And Ye-rin?" |
+| 49 | ch21:110 | "Ye-rin comes at nine, if she comes." |
+| 49 | ch21:118 | "Ye-rin comes at nine." |
+| 49 | ch21:194 | "You have just given me something that is not in your arrangement with her," he said. "T.. |
+| 49 | ch21:218 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | ch21:222 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+
+### Zahlen in der Naehe von Kim Ye-rin
+
+- `ch14:18` (Tag 31) - fifty-four
+- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `ch17:72` (Tag 46) - four, six, twenty
+- `ch18:112` (Tag 48) - one, three
+- `ch21:110` (Tag 49) - nine
+- `ch21:118` (Tag 49) - nine
+- `ch21:218` (Tag 49) - three
+- `ch21:222` (Tag 49) - eight, nine, one, seven
+
+---
+
 ### Kim Do-yun
 
 7 Nennungen in 3 Kapiteln.
@@ -3986,29 +4089,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch14:22` (Tag 31) - one
 - `ch14:26` (Tag 31) - forty
 - `ch16:190` (Tag 46) - four hundred, one
-
----
-
-### Kim Ye-rin
-
-7 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:368 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:72 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
-
-### Zahlen in der Naehe von Kim Ye-rin
-
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:72` (Tag 46) - four, six, twenty
-- `ch18:112` (Tag 48) - one, three
 
 ---
 
@@ -4033,6 +4113,48 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Pyo
+
+6 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
+
+### Zahlen in der Naehe von Mr Pyo
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch16:296` (Tag 46) - one, two
+- `ch17:76` (Tag 46) - four, two
+- `ch17:130` (Tag 46) - three, two
+
+---
+
+### Mr Ku
+
+5 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 49 | ch21:20 | Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car an.. |
+| 49 | ch21:288 | Mr Ku brought the car round. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `ch07:8` (Tag 22) - three
+- `ch11:6` (Tag 22) - seventeen
+
+---
+
 ### Mr Noh
 
 5 Nennungen in 1 Kapiteln.
@@ -4051,27 +4173,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch05:24` (Tag 4) - eight, four, two
 - `ch05:148` (Tag 6) - fourteen, one, three, two
 - `ch05:172` (Tag 6) - twenty-six
-
----
-
-### Mr Pyo
-
-5 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:76 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
-| 46 | ch17:130 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:188 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-
-### Zahlen in der Naehe von Mr Pyo
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
-- `ch17:76` (Tag 46) - four, two
-- `ch17:130` (Tag 46) - three, two
 
 ---
 
@@ -4164,24 +4265,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch09:60` (Tag 22) - two
 - `ch09:72` (Tag 22) - two
-
----
-
-### Mr Ku
-
-3 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
 
 ---
 

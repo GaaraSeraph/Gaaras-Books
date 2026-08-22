@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 59.328 Woerter.
+21 Kapitel. 62.124 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,6 +29,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
 | 20 | v1.2 | 2.062 |
+| 21 | v1.0 | 2.796 |
 
 ---
 
@@ -6037,3 +6038,308 @@ One corner of his mouth went up, at nobody, in an empty hall. It was the first t
 ---
 
 Then he went back up to the east room and picked up the telephone, which was hers, in a house that was hers, to arrange an evening in somebody else's.
+
+---
+
+# Chapter 21: The ones who come at nine
+*Lot Fourteen* · Version 1.0 · EN
+
+*Day 49 · Friday 21 November*
+
+There were four telephones in the house that were not the one in the east room. He used the one in the passage behind the kitchen, because it was the only one nobody had a reason to walk past at half past nine in the morning.
+
+Hana picked up on the third ring and said her own name into it, which almost nobody of that sort does.
+
+"It's Georgij."
+
+"I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "Say it."
+
+"I would like an hour of your afternoon, and I would like it to be somewhere that is not this house."
+
+"Then come here. Two o'clock, and eat before you come, because I have nothing in."
+
+---
+
+Mr Ku drove him, because Mr Pyo was with Annie and because Georgij did not have a car and was not going to start pretending he did.
+
+The house was north of the river and up, on a road that stopped being a road about forty metres past her gate. Old money, old trees, a wall built when walls were built out of stone by men who were paid by the day.
+
+He read it from the drive up, the way he read everything.
+
+The gate was good and the hinges had been replaced this year. The gravel had been turned. The gutter along the west face was original, and it was original in the way that things are original when nobody has had eleven million won spare in four years. The garden had been cut by somebody who came twice a month instead of somebody who lived there.
+
+It was a very good house, kept by a woman who was paying for exactly the parts that people see from the road.
+
+He had the second section on her land in his head, three charges and a little over two thirds, and he put it beside the gutter and left it there.
+
+---
+
+She opened her own door.
+
+"There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursday, and she is worth four of anybody in your house, and she does not work Fridays because I asked her not to."
+
+"Then I will keep my coat on until you tell me where to put it."
+
+"Give it to me and stop being furniture."
+
+---
+
+The room she took him to was at the back, long, with the trees close to the glass on two sides. There was a fireplace that worked and a piano that did not.
+
+He counted the doors before he sat down. Three, and one of them went out to a terrace, and the terrace went down to the garden by a set of stone steps and not through the rest of the house.
+
+"You are measuring my sitting room."
+
+"I am."
+
+"Say what for," said Hana, "and then I will decide whether to be insulted."
+
+---
+
+"I need a house with a family in it, before the end of the year," said Georgij. "Not a hotel and not a restaurant. Somewhere the Kims can be in the same room as Chairman Woo without either of them having driven to a meeting."
+
+Hana sat down.
+
+"Woo signed."
+
+"On Thursday. Seven years of anchor cargo across Yeongjong, and he wrote the rate himself." He stayed where he was. "He asked for two things. The first is a room with somebody in it who can actually sign, and not the ones who talk, and not the nephew."
+
+"Ye-rin."
+
+"Ye-rin."
+
+"And you cannot ask her, and I cannot make her, and you have known both of those since the thirteenth." She was not being unkind about it. "What is the second thing?"
+
+"No photograph with a politician in it. He has spent fifty-one years not being in those."
+
+---
+
+Hana looked at the ceiling for a moment.
+
+"December," she said. "You want me to give a party."
+
+"Yes."
+
+"Say the rest of it, because there is a rest of it, and I would like the whole thing at two o'clock instead of half of it now and the other half in the hall at four."
+
+"There is a rest of it."
+
+"Then start with what it costs me."
+
+---
+
+"It costs you your house on an evening when nine people under customs investigation are standing in it," said Georgij. "It costs you your name on the invitation. If it goes wrong, the sentence people say afterwards is that Hana had them all round in December, and there is no version of that sentence with me in it anywhere."
+
+"And what do I get."
+
+"Nothing that is not already yours. The lease was signed on Monday and I am not going to stand in your house and offer you a thing you have already been paid."
+
+Hana put her chin down for a second.
+
+"Good," she said. "You would have been worth less to me by about half."
+
+---
+
+"Then here is what a party is," she said, "because you have never given one and it shows.
+
+"You do not invite nine people from one family. You invite forty and they come in three waves, and the waves are the whole of it. The ones who come at seven are the ones who are being polite, and they leave at nine and you never see them again. The ones who come at nine are the ones who came for the room. And there are always four or five who come at half past ten and nobody remembers whether they were invited."
+
+She turned her glass, which had water in it.
+
+"Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will have done exactly what you need him to do, in front of the polite ones, who talk."
+
+"And Ye-rin?"
+
+"Ye-rin comes at nine, if she comes."
+
+---
+
+Georgij did not say anything for a moment, because a thing had just gone past him and he wanted to catch it before it was out of the room.
+
+"Say that again."
+
+"Ye-rin comes at nine."
+
+"You said *if*."
+
+"I said *if*, and I am going to go on saying *if*, because I have asked that woman to fourteen things and she has come to two." Hana was entirely level about it. "I will ask her. I will ask her in the way that has worked twice, which is badly, on a Tuesday, with something else as the reason. And then it is hers."
+
+"That is what I came for and it is more than I had this morning."
+
+---
+
+"Now the other thing," said Hana.
+
+"There is no other thing."
+
+"There is, and you have been sitting on it since you took your coat off, and it is making you tidy." She put the glass down. "You keep looking at the third door."
+
+---
+
+He had been going to build up to it, and there was no longer any point.
+
+"Annie is bidding for Hanseong. It goes out on Monday."
+
+Hana did not move at all for about two seconds.
+
+Then she laughed, once, and it was not the real one.
+
+"She is buying the apple."
+
+"She is bidding for it."
+
+"You sat at that table eight days ago and told me what that document was for, and you used the word yourself, and now you are telling me she is buying it." Hana had not raised her voice anywhere. "So either I did not understand you on Thursday, or you are about to tell me something."
+
+---
+
+He had the sentence ready and he had had it ready since the hall that morning.
+
+"I would like you to mention it," said Georgij. "Not to me. In December, or before December if it comes up, to people who talk. That Annie went for Hanseong and that it did not come off."
+
+"To Kang."
+
+"I did not say a name."
+
+"You did not have to say a name. You have been sitting in my sitting room for twenty minutes not saying one." Hana leaned back. "Kang Ji-hoon has come to this house at Christmas for nine years. His wife and I sat the same examinations. He will be on that list whether you want him there or not, and you know it, because you looked at me on that terrace and worked out what I was for."
+
+"Yes."
+
+"Say the rest."
+
+"He talks to Sang-hoon's people. He told me so himself in October, near enough, and Annie put the timing on it. What goes to Kang is in Yeouido inside a week."
+
+---
+
+Hana looked at him for a long moment.
+
+"Is your bid going to lose?"
+
+That was the question, and it had come at the third minute instead of the fortieth, because she was quicker than the people he was used to.
+
+He did not answer it.
+
+"Hana."
+
+"No," she said. "Stop."
+
+She held up one hand, flat, and it was not a hand that was asking for anything.
+
+"Do not tell me. I have just heard myself ask, and I would like both of us to notice that I stopped." She put the hand back down on her knee. "Tell me what to say and do not tell me why. If I know why, I will say it three per cent differently, and Kang has been listening to me across a table since before you could find this country on a map. He would hear it. He would not know what he had heard, and it would sit in him, and in April he would work it out."
+
+"That is the reason I came here instead of telephoning."
+
+"That is the reason you came here with your coat on."
+
+---
+
+Georgij was quiet, and then he said it, because it was true and because she had earned it.
+
+"You have just given me something that is not in your arrangement with her," he said. "The lease covers Incheon and the ministry and the door to Ye-rin. It does not cover this."
+
+"No, it does not."
+
+"In this city you are the woman who says things on terraces and never pays for any of them. That is not a habit. It is the whole of what you are worth, to me and to her and to everybody who has ever put a glass in your hand." He did not look away. "If it ever comes out that Hana's talk was arranged, you lose it in an afternoon, and you lose it for good, and nothing anybody could write down would give it back to you."
+
+"I know what it is," said Hana. "I have had it since I was twenty-six."
+
+"Then you have given it away with your eyes open, and I am the one who asked you for it."
+
+---
+
+She was quiet for a while, and outside the trees did what trees do in November.
+
+"Write it down and I will have you thrown out," she said. "I mean that pleasantly."
+
+"There is nothing to write down. I have nothing to sign with."
+
+"I know. That is why I can do it."
+
+---
+
+The water went round in her glass once more and then she put it on the table and did not pick it up again.
+
+"Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs in the second week and Ye-rin will already have said no to three of them, and she says no in batches. Tuesday the sixteenth of December. I will have the cards out by Wednesday."
+
+"Woo at seven."
+
+"Woo at seven, and I will put him next to my father's shipping photographs, which are terrible. He will explain to me what is wrong with every one of them. He will enjoy it more than anything else that happens that evening." She was writing nothing down and forgetting nothing. "The Kims at eight. Ye-rin at nine if she comes at all. Kang at half past nine, because he always comes late and apologises for it and never means it."
+
+"And the photographs."
+
+"There will be none, because I do not allow them, and I have not allowed them since 2011, and every person on that list knows it." She looked at him. "Your chairman can have that in writing if he likes. Mine is the only house in this city where he can stand next to anybody at all."
+
+---
+
+Georgij smiled at her then, and meant it, and did not do anything with it.
+
+"Thank you."
+
+"Don't," said Hana. "You have had four hours of my Friday and you are about to have my December, and I gave you both of them for reasons that are mine."
+
+---
+
+He was putting his coat on in the hall when she said it.
+
+"Sit down for two minutes."
+
+"I have what I came for."
+
+"You do. This is the part that is not about that." She was leaning against the frame of the door with her arms folded, and she was entirely comfortable. "You came up my drive in a car you did not choose, driven by a man you did not hire, wearing a coat somebody else paid for. And then you sat in my house for two hours and were better at this than anybody I have watched in twenty years."
+
+"That is very kind."
+
+"It is not kind at all, it is a report." Hana did not move off the frame. "I have a house with nobody in it on Fridays, and I am fifty-one, and I stopped being careful about saying things out loud a long time ago. So I am going to say one, and you are not going to have to do anything with it."
+
+---
+
+Under the collar of his shirt the steel sat where it always sat.
+
+He had not thought about it since the gravel.
+
+"Hana."
+
+"I have not said it yet."
+
+"I know," said Georgij. "I am going to answer the one you have not said, because it is a better answer than the one I would give afterwards."
+
+---
+
+He picked his gloves off the shelf and did not put them on.
+
+"Very few people in this country know what I am," he said. "One of them bought the fact at an auction in October. One of them heard it out of my own mouth on a floor at the Grand Hotel at twenty-five to eleven, and put her glass down on a table, and never mentioned it again."
+
+Hana's face did not do anything.
+
+"You have carried that for four weeks and never once spent it," said Georgij. "I have been in a great many houses and nobody has ever done that. There is no version of this afternoon in which I do not leave here owing you for it."
+
+"That is a very long way round."
+
+"It is. I would rather go the long way round than say the short thing to you in a hall."
+
+---
+
+Hana looked at him for a moment, and then she laughed, and this time it was the real one, and it went on slightly longer than she meant it to.
+
+"Get out of my house," she said.
+
+"Yes."
+
+"Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and somebody will have to be standing there when he is."
+
+---
+
+Mr Ku brought the car round.
+
+Georgij sat in the back of it going down the hill, with the trees going past on both sides. Then he did what he always did, which was to take the two hours apart and lay the pieces out in the order they had come.
+
+He had gone up that drive for a house and an evening. He had come down with a date, a running order and three waves. He had a rule about photographs that answered a condition Woo had made in a shed on Thursday. And a woman had put her own worth on the table and then told him not to write it down.
+
+Every one of those was work, and every one of them had gone the way work goes.
+
+Then there was the hall.
+
+He turned it over twice on the way down and could not get it into either pile.
+
+In seventeen years he had always known which one a thing belonged to, and the knowing had come before the doing, every time. This had gone the other way round.
+
+He was still holding his gloves.
