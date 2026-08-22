@@ -181,7 +181,21 @@ Bezahlung. Die Bitte steht weiter offen.
 
     - **Ein Raum mit der Familie darin und jemandem, der wirklich unterschreiben kann.** Nicht die, die reden. Nicht der Neffe. Vor Jahresende, **kein Hotel**, das Haus von jemandem. Und ausdrücklich nicht Georgijs, denn er hat keins: *"You have not got one either." … "Then find somebody who has."*
     - **Kein Foto mit einem Politiker darauf.** Er hat sein Leben lang keins gemacht und fängt mit achtundsiebzig nicht an.
-6. **Der Apfelsatz.** Erst wenn Sang-hoon Hanseong tatsächlich gekauft hat, nicht vorher.
+6. ~~**Der Apfelsatz.**~~ **Gefallen in Kapitel 26**, an Annie, im Haus: *"He has eaten the apple. All of it, in twelve days, from seven people at a price that was neither clever nor stupid."*
+
+    **Er faellt ein zweites Mal, und das zweite Mal ist die Szene.** Entschieden am 23.08. Nach der Unterschrift kommt Sang-hoon zu Annie und bietet erneut an, Georgij zu kaufen.
+
+    **Die Zahl: 2.200.000.000 Won.** Annie hat im Oktober 220 Millionen bezahlt. Das ist Faktor zehn in zehn Wochen, und Sang-hoon nennt es Amortisation. Er rechnet so, und er hat in 22 vor Zeugen gefragt, was Georgij kosten wuerde, und keine Antwort bekommen, sondern den Knopf.
+
+    **Diesmal antwortet Annie nicht. Diesmal redet Georgij.** Das ist die Rueckzahlung fuer die Zeile, die in 22 stehengeblieben ist: *"The answer was not taken from me. The giving of it was."*
+
+    **Und vorher entschuldigt er sich bei Annie.** In Kapitel 17 hat sie ihm gesagt: *"Be pleased with it in this car and nowhere else. If you look pleased in a room, he stops showing off."* Er wird sie brechen, er sagt es vorher, und der Grund ist wahr: Sang-hoon hat nichts mehr vorzufuehren, und Georgij bekommt das hier nie wieder abgekauft.
+
+    **Die fuenfte Guidance ist der Apfel.** Sang-hoon fuehrt den Zaehler seit Kapitel 16 selbst - *"That is four. Two of them are mine."* - und er hat dort gesagt *"You could have stopped using it."* Georgij benutzt sie ein letztes Mal, sagt dazu, dass es ein letztes Mal ist, und stellt die Frage. **Wortlaut steht fest:**
+
+    > "Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into? Chewed, and found absolutely tasty? Please, Chairman, tell me. I prepared this apple to look and to taste very delicious."
+
+    **Und es ist keine Ankuendigung.** Es handelt von Hanseong, nicht von den Kims. Das Versprechen aus 26 bleibt unangetastet. Auf die Frage nach den Kims lautet die Antwort **"There is nothing to announce"**, und sie ist wahr, vollstaendig und nicht anfechtbar.
 7. **Die Zollakte und der Container.** Als Zeile in einer Akte, nie als Szene.
 8. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann.
 9. **Los elf und der Name sind derselbe Gang.** Kein offener Faden, sondern eine laufende Vorenthaltung, und die zwei Hälften gehören zusammen. Annie hat den Jungen gekauft, und sie hat bei derselben Gelegenheit den Namen des Garanten geholt, weil Georgij ihr am ersten Abend gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das ist Kanon in `doc/04-world.md` unter "Die Pipeline".
