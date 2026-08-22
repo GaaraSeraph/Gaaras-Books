@@ -88,7 +88,7 @@ Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den R
 
 **Der erste Wachmann** - Kein Sicherheitschef, nur ein Wachmann. Wachmannsgehalt, Mietwohnung. Fährt an diesem Abend selbst, weil sonst niemand mitfährt. Behandschuhte Hand, Fernbedienung, nennt Georgij seit dem Ladehof einen Hund und spricht durchgehend von "it". Er hat genau ein Argument, "vier Häuser haben es zurückgeschickt", und spielt es zweimal.
 
-**Sein Nachfolger: Jang** - Sicherheitschef, etwa fünfzig, kommt an Tag vier im eigenen zwölf Jahre alten Wagen und parkt, wo eine Lieferung parken würde. Geht erst einmal ums ganze Haus, bevor er durch irgendeine Tür geht, und bleibt zweimal stehen: unter der Osttraufe und auf dem Kies, wo der Fleck unter der zweiten Lage liegt. Hat für acht Familien gearbeitet.
+**Jang, längere Fassung** - Interimschef der Sicherheit und ausdrücklich kein Nachfolger des Einäugigen, etwa fünfzig, kommt an Tag vier im eigenen zwölf Jahre alten Wagen und parkt, wo eine Lieferung parken würde. Geht erst einmal ums ganze Haus, bevor er durch irgendeine Tür geht, und bleibt zweimal stehen: unter der Osttraufe und auf dem Kies, wo der Fleck unter der zweiten Lage liegt. Hat für acht Familien gearbeitet.
 
 ---
 
@@ -107,7 +107,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 
-**Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala zu laut geredet, und daraus ist Kangs Anruf entstanden. Georgij weiß das und sagt es ihr nicht.
+**Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala geredet, nicht unvorsichtig, aber etwa drei Prozent lauter als nötig, und Georgij hat daraus Incheon fünfmal, den östlichen Abschnitt und ein Datum im Frühjahr mitgenommen. Er weiß das und sagt es ihr nicht. **Kangs Anruf gehört dagegen nicht ihr, sondern ihm:** Er hat den Griff an einem Abend zweimal benutzt und Kang dabei gezeigt, wo sein Loch ist. Kapitel 11 sagt es aus seinem Mund: *I walked across a room and showed it to him.*
 *Kanon ab Kapitel 9.*
 
 ---
@@ -133,11 +133,9 @@ Sang-hoon, sein Apparat und die Leute, die in beide Richtungen reden. Kang
 steht hier und nicht bei den Bekanntschaften, weil er nachweislich an Sang-hoons
 Leute weitergibt.
 
-## Die Gegenseite
-
 **Park Sang-hoon** - Der Gegner. Logistikimperium, Schifffahrtsrouten. Hat bereits zwei Logistikkonkurrenten aufgekauft und will als drittes die Logistik der Familie Kim. Hat dafür in Incheon einen ausgebauten Container in eine Kim-Sendung geschoben und den Zoll darauf stoßen lassen.
 **Sein Angriffspunkt:** Hat er einmal zugebissen, kann er nicht loslassen. Darüber wird er mit Hanseong gebunden.
-**Auf der Gala:** Zwei Begegnungen. Einmal am Tisch, einmal beim Abschied mit der Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat.
+**Auf der Gala:** Eine Szene, an Tisch zwei, von zehn nach elf bis zwanzig nach elf. In derselben Szene und kurz vor dem Aufstehen kommt die Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat. Danach geht er allein aus dem Saal.
 *Kanon ab Kapitel 10.*
 
 **Kim Do-yun** - Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.

@@ -57,7 +57,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 4. Block B: Jang ist Interimschef und kein Ersatz für den Wachmann. Er kam ohnehin, weil Noh geht.
 5. Block B: "knackt ihren Rechner" ist falsch. Die Maschine hing nie an einem Netz, er hat ihr beim Tippen zugesehen.
 6. Block B: "der erste Moment, in dem sie ihn wirklich ansieht" widerspricht Kapitel 1 bis 3. Gestrichen.
-7. Block B: Los elf wird dreimal gefragt, nicht einmal, und in Kapitel 6 gibt es eine Antwort, nämlich "No".
+7. Block B: Los elf wird zweimal gefragt, nicht einmal, Kapitel 1 und Kapitel 4. In Kapitel 6 fragt er nicht mehr, sondern stellt fest, und darauf gibt es eine Antwort, nämlich "No". Das ausdrückliche Nicht-Fragen steht als eigener Satz im Text.
 8. Gala: Kapitel 6 ist der Tag der Gala selbst, nicht der Tag davor.
 9. Gala und Block C und E und F: **es gibt keine Visitenkarte.** An allen vier Stellen entfernt.
 10. Block C: Sang-hoon sitzt an Tisch zwei, nicht an der Bar. Das Wort "ewig" fällt nicht.
@@ -67,7 +67,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 14. Block E: Hanseong darf nicht an Kang gehen. Der Köder gehört Sang-hoon allein und liegt seit Tag 46 bei ihm.
 15. Block E: schwarze Karte, Shilla, Donnerstag neun Uhr sind unbelegt und als Vorschlag markiert.
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
-17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Ab jetzt keine mehr bis zum Bruch.
+17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
 18. Block I: der Sake vom eigenen Geld widerspricht der Bibel. Drei Auswege benannt, einer empfohlen.
 19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
 
@@ -108,7 +108,7 @@ zurueckkommt.
 
 ### Offene Ausstattungsfrage: der Laptop
 
-Georgij kann laut Bibel Systeme knacken, und ihr verschlüsselter Desktop kostet ihn einen Abend. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
+Georgij kann Systeme knacken (`doc/02-leads.md`), an Annies Desktop aber nicht: Die Maschine hing nie an einem Netz, er hat ihr die sieben Buchstaben abgesehen. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
 
 **Vorschlag:** Annie gibt ihm in der ersten Woche unaufgefordert ein Gerät. Neu, sauber, offensichtlich verwaltet, mit allem, was ein Firmengerät eben mitbringt. Sie sagt nichts dazu und er fragt nichts. Er bedankt sich und benutzt es ausschließlich für die Arbeit, die sie ihm gegeben hat.
 

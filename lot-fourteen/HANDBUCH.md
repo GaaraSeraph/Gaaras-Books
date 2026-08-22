@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck. 24.201 Woerter.
+Alle 8 Dokumente am Stueck. 24.573 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -405,8 +405,6 @@ Die Figur, ihre Regeln und ihre Grenzen. Wer eine Szene mit ihm schreibt,
 liest zuerst **Er luegt nie**, **Er besitzt nichts** und **Keine Zahlen zur
 eigenen Person**. Diese drei brechen am leichtesten und fallen am meisten auf.
 
-## Georgij
-
 26. Vier Sprachen. Mit neun verkauft, gegen eine Schuld seiner Mutter, deren Höhe er nie gesehen hat und die bei jedem Besitzerwechsel gewachsen ist. Seit siebzehn Jahren Eigentum.
 
 Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund vermerkt, davor war er ein Kind, und Kinder werden ohne Papierkram weitergereicht. Die vier Häuser hielten ihn im Schnitt vierundneunzig Tage.
@@ -443,7 +441,7 @@ Dieselbe Lücke hat ihm Hong bei Choi gezeigt: Seine Listen erfassen, wer beim H
 **Was er kann:** Räume lesen. Menschen zählen, Hände beobachten, Kreditwürdigkeit an einem Anzug ablesen. Er inventarisiert jeden Raum und jede offene Tasche automatisch auf Ausgänge und improvisierte Waffen, ohne Absicht.
 
 Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niemand je gefragt hat:
-- **Digitale Sicherheit.** Er knackt Systeme, findet Erpressungspunkte in öffentlichen Spuren und weiß, wie schlecht die meisten Leute ihre verwischen. Ihr verschlüsselter Desktop kostet ihn einen Abend.
+- **Digitale Sicherheit.** Er knackt Systeme, findet Erpressungspunkte in öffentlichen Spuren und weiß, wie schlecht die meisten Leute ihre verwischen. **An Annies Arbeitsmaschine gibt es dagegen nichts zu knacken.** Sie hat nie an einem Netz gehangen, und er begreift das in den ersten drei Tagen. Er kommt hinein, weil sie die Passphrase in drei Wochen zweimal vor ihm tippt.
 - **Physische Sicherheit.** Kamerawinkel, tote Zonen, Fluchtwege, Schließtechnik, Brandschutz.
 - **Informationsbeschaffung.** Erst Arbeit, Hobbys, Beziehungen, um Sympathie herzustellen und die richtigen Fragen stellen zu können. Danach die Schwachstellen.
 
@@ -463,7 +461,7 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 
 **Die Regel gilt auch am Telefon.** In Kapitel 12 sagt er Kang, die Gewohnheit sei neu, und datiert sich dabei nicht. Nicht "seit ein paar Wochen", nicht "seit drei Wochen", nichts, woraus man ein Datum bauen kann. Über andere präzise, über sich nie, und das gilt unter Druck genauso.
 
-**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: Über andere ist er präzise, über sich nie.
+**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: **Über andere ist er präzise, über sich vage - gegenüber Fremden ausnahmslos.** Die Regel hat eine dokumentierte Bruchstelle, und sie ist teuer: Vierzig Minuten später sagt er auf derselben Gala zu Kang *I'm three weeks into this*, also genau die Zahl, die er bei Hong geschluckt hat, und derselbe Mann ruft zwei Tage später an. Am Telefon in Kapitel 12 hält er sie dann wieder. Innerhalb der Allianz gilt sie nicht: Gegenüber Annie und Hana datiert er sich präzise, und in Kapitel 17 ist genau diese Präzision über sich selbst das, was er hergibt.
 
 **Den Rest baut der Saal.** Ausbildung, Werdegang, ein Haus, für das er vorher gearbeitet hat, ein erschreckender Preis für die Exklusivität. Kein Wort davon stammt von ihm. Menschen bauen den Rest selbst, sie sind darin besser als man selbst, und sie glauben ihrer eigenen Fassung, wie sie der fremden nie glauben würden.
 
@@ -519,8 +517,6 @@ Georgij verschweigt keine der beiden Hälften. Er sagt von sich aus "Half of it 
 Ihre Macht liegt darin, dass sie nichts verschenkt. Wer ihr eine Replik gibt,
 prueft, ob sie damit etwas hergibt, das sie nicht hergeben wuerde.
 
-## Annie
-
 Ende dreißig. Chaebol. Kein Schmuck außer einem Ehering an der falschen Hand. Die Stille im Gesicht ist antrainiert.
 
 Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet manchmal gar nicht. Ihre Macht liegt darin, dass sie nichts verschenkt.
@@ -539,7 +535,7 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Ihre Methode:** Sie gibt ihm kein Ziel und keine Regel vor. Eine Regel würde er an der sicheren Seite entlang bearbeiten und wäre wertlos. Sie will sehen, wo er die Linie selbst zieht. Ein Name würde ihm den Blick verstellen, dann bestätigt er nur, was sie ohnehin vermutet. Sie testet ihn auch darüber, worum er bittet.
 
-**Sie hat das Haus selbst entworfen** und weiß, wo die Kameras und die toten Zonen sind.
+**Sie hat die Kamerawinkel selbst gezeichnet** und dafür zweimal in drei Tagen einen Fachmann mit seiner Zeichnung weggeschickt. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
 
 ---
 
@@ -635,7 +631,7 @@ Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den R
 
 **Der erste Wachmann** - Kein Sicherheitschef, nur ein Wachmann. Wachmannsgehalt, Mietwohnung. Fährt an diesem Abend selbst, weil sonst niemand mitfährt. Behandschuhte Hand, Fernbedienung, nennt Georgij seit dem Ladehof einen Hund und spricht durchgehend von "it". Er hat genau ein Argument, "vier Häuser haben es zurückgeschickt", und spielt es zweimal.
 
-**Sein Nachfolger: Jang** - Sicherheitschef, etwa fünfzig, kommt an Tag vier im eigenen zwölf Jahre alten Wagen und parkt, wo eine Lieferung parken würde. Geht erst einmal ums ganze Haus, bevor er durch irgendeine Tür geht, und bleibt zweimal stehen: unter der Osttraufe und auf dem Kies, wo der Fleck unter der zweiten Lage liegt. Hat für acht Familien gearbeitet.
+**Jang, längere Fassung** - Interimschef der Sicherheit und ausdrücklich kein Nachfolger des Einäugigen, etwa fünfzig, kommt an Tag vier im eigenen zwölf Jahre alten Wagen und parkt, wo eine Lieferung parken würde. Geht erst einmal ums ganze Haus, bevor er durch irgendeine Tür geht, und bleibt zweimal stehen: unter der Osttraufe und auf dem Kies, wo der Fleck unter der zweiten Lage liegt. Hat für acht Familien gearbeitet.
 
 ---
 
@@ -654,7 +650,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Was sie einbringt:** den Zugang zu Kim Ye-rin und das Ministerium, defensiv. **Was sie bekommt:** langfristige, feste Mietverträge über ihre Flächen, sobald die Logistik der Kims gesichert ist.
 
-**Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala zu laut geredet, und daraus ist Kangs Anruf entstanden. Georgij weiß das und sagt es ihr nicht.
+**Ihre Loyalität ist der offene Faden.** Ihre Flächen sind zugleich ihre Schwachstelle. Wer sie bedroht, bedroht sie über den Status, und dann kann sie kippen, ohne Verräterin zu sein. Dazu: Sie hat auf der Gala geredet, nicht unvorsichtig, aber etwa drei Prozent lauter als nötig, und Georgij hat daraus Incheon fünfmal, den östlichen Abschnitt und ein Datum im Frühjahr mitgenommen. Er weiß das und sagt es ihr nicht. **Kangs Anruf gehört dagegen nicht ihr, sondern ihm:** Er hat den Griff an einem Abend zweimal benutzt und Kang dabei gezeigt, wo sein Loch ist. Kapitel 11 sagt es aus seinem Mund: *I walked across a room and showed it to him.*
 *Kanon ab Kapitel 9.*
 
 ---
@@ -680,11 +676,9 @@ Sang-hoon, sein Apparat und die Leute, die in beide Richtungen reden. Kang
 steht hier und nicht bei den Bekanntschaften, weil er nachweislich an Sang-hoons
 Leute weitergibt.
 
-## Die Gegenseite
-
 **Park Sang-hoon** - Der Gegner. Logistikimperium, Schifffahrtsrouten. Hat bereits zwei Logistikkonkurrenten aufgekauft und will als drittes die Logistik der Familie Kim. Hat dafür in Incheon einen ausgebauten Container in eine Kim-Sendung geschoben und den Zoll darauf stoßen lassen.
 **Sein Angriffspunkt:** Hat er einmal zugebissen, kann er nicht loslassen. Darüber wird er mit Hanseong gebunden.
-**Auf der Gala:** Zwei Begegnungen. Einmal am Tisch, einmal beim Abschied mit der Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat.
+**Auf der Gala:** Eine Szene, an Tisch zwei, von zehn nach elf bis zwanzig nach elf. In derselben Szene und kurz vor dem Aufstehen kommt die Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat. Danach geht er allein aus dem Saal.
 *Kanon ab Kapitel 10.*
 
 **Kim Do-yun** - Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
@@ -898,11 +892,11 @@ Und deshalb ist Annies Geld nicht bloß eine Bilanz. Es ist die einzige Möglich
 
 **Die Sollbruchstelle.** Ihre Flächen sind auch ihre Schwachstelle. Wer Grundbesitz in Incheon hat, ist über dessen Status erpressbar. Findet Sang-hoon oder Choi das heraus, wird Hana nicht bestochen, sondern bedroht, und dann steht sie zwischen ihrem Einsatz und ihrer Bündnispartnerin. Sie kann kippen, ohne Verräterin zu sein.
 
-**Er weiß es vorher, und zwar seit Dienstag.** Er liest seit vierzehn Tagen den östlichen Abschnitt, und das Erste, was man mit einem Gelände tut, ist nachsehen, wem es gehört. Einundvierzig Besitztümer auf dieser Seite, ihres das viertgrößte, auf ihren eigenen Namen. Er sagt vier Tage lang nichts, weil ein Name auf einem Grundstück keine Absicht ist, und wartet ab, ob sie es am Tisch selbst sagt. Hätte sie es nicht getan, hätte er sie zehn Minuten später vor Annie gefragt.
+**Er weiß es vorher, und zwar seit Dienstag.** Er liest seit vierzehn Tagen den östlichen Abschnitt, und das Erste, was man mit einem Gelände tut, ist nachsehen, wem es gehört. Einundvierzig Besitztümer auf dieser Seite, ihres das viertgrößte, auf ihren eigenen Namen. Er sagt zwei Tage lang nichts, weil ein Name auf einem Grundstück keine Absicht ist, und wartet ab, ob sie es am Tisch selbst sagt. Hätte sie es nicht getan, hätte er sie zehn Minuten später vor Annie gefragt.
 
 Annie merkt an, er hätte es ihr am Dienstag bringen können. Seine Begründung: ein Stück Land ohne Erklärung ist ihr weniger wert als dasselbe Stück Land mit Hanas Erklärung. Niemand widerspricht.
 
-**Sie sagt es selbst, am Tisch in Kapitel 14.** Eine Partnerin, die Ye-rin und das Ministerium liefert und dafür nichts verlangt, wäre verdächtig. Also nennt sie Fläche und Preis, als Georgij fragt, was der Zugang zu Ye-rin kostet, und sie sagt dazu: "I am not doing this out of affection for anybody at this table."
+**Sie sagt es selbst, am Tisch in Kapitel 15.** Eine Partnerin, die Ye-rin und das Ministerium liefert und dafür nichts verlangt, wäre verdächtig. Also nennt sie Fläche und Preis, als Georgij fragt, was der Zugang zu Ye-rin kostet, und sie sagt dazu: "I am not doing this out of affection for anybody at this table."
 
 **Damit löst sich der Zettel aus Kapitel 9 auf.** Auf der Terrasse hielt sie den Vorstoß auf den östlichen Abschnitt für eine **Unhöflichkeit** und nicht für eine Drohung. Niemand ist stellvertretend beleidigt. Über einen Preis empört sich, wem er angeboten wurde. Georgij hatte den Satz unaufgeräumt notiert, wie immer, und er passte drei Wochen lang nirgends hinein. Kein Irrtum, kein Verdacht, nur ein Zettel, der von selbst hineinpasst, sobald sie es ausspricht.
 
@@ -977,7 +971,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.2) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.5) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 17** *Who holds the paper* (v12.0) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *Who holds the paper* (v12.1) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.9) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.0) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.1) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -989,9 +983,9 @@ nachrechnen, und `check.py` tut das automatisch.
 - **Kapitel 8** *Something to do with my hands* (v3.1) - Das Glas, Yun-seo, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.1) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.2) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.4) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 5** *Seven Letters* (v5.6) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.5) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
-- **Kapitel 3** *Dead angles* (v2.4) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
+- **Kapitel 3** *Dead angles* (v2.5) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
 ---
 
@@ -1339,7 +1333,7 @@ Die Zeit zwischen Kauf und Gala.
 - **Der Desktop.** Annie verweigert ihm die Gästeliste, aus Methode. Er beschafft sie selbst und legt die Datei dort ab: wer kommt, was jeder verbirgt, wer mit wem verbunden ist. Verschlüsselt, Passwort ist sein Name, sie tippt sieben Buchstaben mit einem Finger. Sie fragt weder, wie er an die Namen kam, noch, was er sonst gesehen hat, und sie zieht das Protokoll nicht, das sie eine Minute kosten würde.
   - **[KORRIGIERT] Er knackt nichts.** Die Maschine hing nie an einem Netz, es gab daran nichts zu brechen, und er begreift das in den ersten drei Tagen. Er hört auf, an die Maschine zu denken, und sieht die Frau an. Zweimal in drei Wochen tippt sie die Passphrase vor ihm. Wer später "geknackt" schreibt, nimmt der Szene ihren ganzen Sinn.
   - **[KORRIGIERT]** Die Formulierung "der erste Moment, in dem sie ihn wirklich ansieht" ist gestrichen. Sie sieht ihn seit dem Keller an, im Wagen wendet sie den Blick kein einziges Mal ab, und in der Auffahrt sieht sie sich das Auge an, ohne sich zu bewegen. Was in Kapitel 5 neu ist, ist nicht der Blick, sondern das Nichtfragen.
-- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern dreimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?"), über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"), und in Kapitel 6 vor dem Katalog. Auf die erste Frage bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen, auf die dritte das Wort "No". Danach fragt er nicht mehr. Was tatsächlich geschehen ist, steht in der Bibel unter Pipeline und ist im Text noch lange nicht auszusprechen.
+- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in der Bibel unter Pipeline und ist im Text noch lange nicht auszusprechen.
 
 ### Der Gala-Abend **[GESCHRIEBEN, Kapitel 6 bis 11]**
 
@@ -1487,7 +1481,7 @@ Der alte Plan verlangte zwischen Kapitel 2 und dem Bruch noch zwei bis drei beil
 | Kapitel 5 | Annie | nach der Datei, als ganze Antwort |
 | Kapitel 6 | Annie | nach dem Sitzplan, dann zurück zur Seite |
 
-Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt dem Zahltag Gewicht statt es aufzubauen.** Zwischen Kapitel 16 und Block G soll der Satz gar nicht mehr fallen. Er ist beim nächsten Mal die Waffe.
+Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt dem Zahltag Gewicht statt es aufzubauen.** Beiläufig fällt der Satz ab Kapitel 7 nicht mehr. Eine gewichtete Ausnahme ist verbraucht: In Kapitel 17 setzt Georgij ihn im Wagen als Überschrift über sein eigenes Geständnis ("Mistress. About the quid pro quo."). Das lädt den Bruch auf, statt ihn zu entwerten, aber ein zweites Mal trägt es nicht. Beim nächsten Mal ist er die Waffe.
 
 **Wichtig:** Er ist verletzt, und der Text sagt es nicht. Er sagt nur, dass er in den Garten geht und die Fluchtwege durchgeht, die er in der ersten Nacht kartiert hat.
 
@@ -1715,7 +1709,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 4. Block B: Jang ist Interimschef und kein Ersatz für den Wachmann. Er kam ohnehin, weil Noh geht.
 5. Block B: "knackt ihren Rechner" ist falsch. Die Maschine hing nie an einem Netz, er hat ihr beim Tippen zugesehen.
 6. Block B: "der erste Moment, in dem sie ihn wirklich ansieht" widerspricht Kapitel 1 bis 3. Gestrichen.
-7. Block B: Los elf wird dreimal gefragt, nicht einmal, und in Kapitel 6 gibt es eine Antwort, nämlich "No".
+7. Block B: Los elf wird zweimal gefragt, nicht einmal, Kapitel 1 und Kapitel 4. In Kapitel 6 fragt er nicht mehr, sondern stellt fest, und darauf gibt es eine Antwort, nämlich "No". Das ausdrückliche Nicht-Fragen steht als eigener Satz im Text.
 8. Gala: Kapitel 6 ist der Tag der Gala selbst, nicht der Tag davor.
 9. Gala und Block C und E und F: **es gibt keine Visitenkarte.** An allen vier Stellen entfernt.
 10. Block C: Sang-hoon sitzt an Tisch zwei, nicht an der Bar. Das Wort "ewig" fällt nicht.
@@ -1725,7 +1719,7 @@ Alles gegen die sechzehn Kapitel und die Bibel v10.1 geprüft.
 14. Block E: Hanseong darf nicht an Kang gehen. Der Köder gehört Sang-hoon allein und liegt seit Tag 46 bei ihm.
 15. Block E: schwarze Karte, Shilla, Donnerstag neun Uhr sind unbelegt und als Vorschlag markiert.
 16. Block F: der Namensbruch ist der zweite. Der erste war in Kapitel 9 zu Hana und wurde in Kapitel 11 selbst gemeldet.
-17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Ab jetzt keine mehr bis zum Bruch.
+17. Block G: die zwei bis drei beiläufigen Nennungen von "quid pro quo" sind geliefert, es sind vier, Kapitel 3 bis 6. Beiläufig fällt der Satz ab jetzt nicht mehr. Kapitel 17 benutzt ihn einmal gewichtet, als Auftakt zu Georgijs eigenem Geständnis im Wagen; das ist die verbrauchte Ausnahme, danach kommt er erst im Bruch wieder.
 18. Block I: der Sake vom eigenen Geld widerspricht der Bibel. Drei Auswege benannt, einer empfohlen.
 19. Block H: Georgij raucht nirgends und besitzt nichts. Die Zigarette braucht vorher eine halbe Zeile Herkunft.
 
@@ -1766,7 +1760,7 @@ zurueckkommt.
 
 ### Offene Ausstattungsfrage: der Laptop
 
-Georgij kann laut Bibel Systeme knacken, und ihr verschlüsselter Desktop kostet ihn einen Abend. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
+Georgij kann Systeme knacken (`doc/02-leads.md`), an Annies Desktop aber nicht: Die Maschine hing nie an einem Netz, er hat ihr die sieben Buchstaben abgesehen. Dafür braucht er Hardware, und woher er sie bekommt, ist selbst eine Szene.
 
 **Vorschlag:** Annie gibt ihm in der ersten Woche unaufgefordert ein Gerät. Neu, sauber, offensichtlich verwaltet, mit allem, was ein Firmengerät eben mitbringt. Sie sagt nichts dazu und er fragt nichts. Er bedankt sich und benutzt es ausschließlich für die Arbeit, die sie ihm gegeben hat.
 

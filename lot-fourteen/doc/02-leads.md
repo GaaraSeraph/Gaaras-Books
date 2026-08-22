@@ -35,8 +35,6 @@ Die Figur, ihre Regeln und ihre Grenzen. Wer eine Szene mit ihm schreibt,
 liest zuerst **Er luegt nie**, **Er besitzt nichts** und **Keine Zahlen zur
 eigenen Person**. Diese drei brechen am leichtesten und fallen am meisten auf.
 
-## Georgij
-
 26. Vier Sprachen. Mit neun verkauft, gegen eine Schuld seiner Mutter, deren Höhe er nie gesehen hat und die bei jedem Besitzerwechsel gewachsen ist. Seit siebzehn Jahren Eigentum.
 
 Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund vermerkt, davor war er ein Kind, und Kinder werden ohne Papierkram weitergereicht. Die vier Häuser hielten ihn im Schnitt vierundneunzig Tage.
@@ -73,7 +71,7 @@ Dieselbe Lücke hat ihm Hong bei Choi gezeigt: Seine Listen erfassen, wer beim H
 **Was er kann:** Räume lesen. Menschen zählen, Hände beobachten, Kreditwürdigkeit an einem Anzug ablesen. Er inventarisiert jeden Raum und jede offene Tasche automatisch auf Ausgänge und improvisierte Waffen, ohne Absicht.
 
 Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niemand je gefragt hat:
-- **Digitale Sicherheit.** Er knackt Systeme, findet Erpressungspunkte in öffentlichen Spuren und weiß, wie schlecht die meisten Leute ihre verwischen. Ihr verschlüsselter Desktop kostet ihn einen Abend.
+- **Digitale Sicherheit.** Er knackt Systeme, findet Erpressungspunkte in öffentlichen Spuren und weiß, wie schlecht die meisten Leute ihre verwischen. **An Annies Arbeitsmaschine gibt es dagegen nichts zu knacken.** Sie hat nie an einem Netz gehangen, und er begreift das in den ersten drei Tagen. Er kommt hinein, weil sie die Passphrase in drei Wochen zweimal vor ihm tippt.
 - **Physische Sicherheit.** Kamerawinkel, tote Zonen, Fluchtwege, Schließtechnik, Brandschutz.
 - **Informationsbeschaffung.** Erst Arbeit, Hobbys, Beziehungen, um Sympathie herzustellen und die richtigen Fragen stellen zu können. Danach die Schwachstellen.
 
@@ -93,7 +91,7 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 
 **Die Regel gilt auch am Telefon.** In Kapitel 12 sagt er Kang, die Gewohnheit sei neu, und datiert sich dabei nicht. Nicht "seit ein paar Wochen", nicht "seit drei Wochen", nichts, woraus man ein Datum bauen kann. Über andere präzise, über sich nie, und das gilt unter Druck genauso.
 
-**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: Über andere ist er präzise, über sich nie.
+**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: **Über andere ist er präzise, über sich vage - gegenüber Fremden ausnahmslos.** Die Regel hat eine dokumentierte Bruchstelle, und sie ist teuer: Vierzig Minuten später sagt er auf derselben Gala zu Kang *I'm three weeks into this*, also genau die Zahl, die er bei Hong geschluckt hat, und derselbe Mann ruft zwei Tage später an. Am Telefon in Kapitel 12 hält er sie dann wieder. Innerhalb der Allianz gilt sie nicht: Gegenüber Annie und Hana datiert er sich präzise, und in Kapitel 17 ist genau diese Präzision über sich selbst das, was er hergibt.
 
 **Den Rest baut der Saal.** Ausbildung, Werdegang, ein Haus, für das er vorher gearbeitet hat, ein erschreckender Preis für die Exklusivität. Kein Wort davon stammt von ihm. Menschen bauen den Rest selbst, sie sind darin besser als man selbst, und sie glauben ihrer eigenen Fassung, wie sie der fremden nie glauben würden.
 
@@ -149,8 +147,6 @@ Georgij verschweigt keine der beiden Hälften. Er sagt von sich aus "Half of it 
 Ihre Macht liegt darin, dass sie nichts verschenkt. Wer ihr eine Replik gibt,
 prueft, ob sie damit etwas hergibt, das sie nicht hergeben wuerde.
 
-## Annie
-
 Ende dreißig. Chaebol. Kein Schmuck außer einem Ehering an der falschen Hand. Die Stille im Gesicht ist antrainiert.
 
 Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet manchmal gar nicht. Ihre Macht liegt darin, dass sie nichts verschenkt.
@@ -169,6 +165,6 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Ihre Methode:** Sie gibt ihm kein Ziel und keine Regel vor. Eine Regel würde er an der sicheren Seite entlang bearbeiten und wäre wertlos. Sie will sehen, wo er die Linie selbst zieht. Ein Name würde ihm den Blick verstellen, dann bestätigt er nur, was sie ohnehin vermutet. Sie testet ihn auch darüber, worum er bittet.
 
-**Sie hat das Haus selbst entworfen** und weiß, wo die Kameras und die toten Zonen sind.
+**Sie hat die Kamerawinkel selbst gezeichnet** und dafür zweimal in drei Tagen einen Fachmann mit seiner Zeichnung weggeschickt. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
 
 ---

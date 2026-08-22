@@ -152,11 +152,11 @@ Und deshalb ist Annies Geld nicht bloß eine Bilanz. Es ist die einzige Möglich
 
 **Die Sollbruchstelle.** Ihre Flächen sind auch ihre Schwachstelle. Wer Grundbesitz in Incheon hat, ist über dessen Status erpressbar. Findet Sang-hoon oder Choi das heraus, wird Hana nicht bestochen, sondern bedroht, und dann steht sie zwischen ihrem Einsatz und ihrer Bündnispartnerin. Sie kann kippen, ohne Verräterin zu sein.
 
-**Er weiß es vorher, und zwar seit Dienstag.** Er liest seit vierzehn Tagen den östlichen Abschnitt, und das Erste, was man mit einem Gelände tut, ist nachsehen, wem es gehört. Einundvierzig Besitztümer auf dieser Seite, ihres das viertgrößte, auf ihren eigenen Namen. Er sagt vier Tage lang nichts, weil ein Name auf einem Grundstück keine Absicht ist, und wartet ab, ob sie es am Tisch selbst sagt. Hätte sie es nicht getan, hätte er sie zehn Minuten später vor Annie gefragt.
+**Er weiß es vorher, und zwar seit Dienstag.** Er liest seit vierzehn Tagen den östlichen Abschnitt, und das Erste, was man mit einem Gelände tut, ist nachsehen, wem es gehört. Einundvierzig Besitztümer auf dieser Seite, ihres das viertgrößte, auf ihren eigenen Namen. Er sagt zwei Tage lang nichts, weil ein Name auf einem Grundstück keine Absicht ist, und wartet ab, ob sie es am Tisch selbst sagt. Hätte sie es nicht getan, hätte er sie zehn Minuten später vor Annie gefragt.
 
 Annie merkt an, er hätte es ihr am Dienstag bringen können. Seine Begründung: ein Stück Land ohne Erklärung ist ihr weniger wert als dasselbe Stück Land mit Hanas Erklärung. Niemand widerspricht.
 
-**Sie sagt es selbst, am Tisch in Kapitel 14.** Eine Partnerin, die Ye-rin und das Ministerium liefert und dafür nichts verlangt, wäre verdächtig. Also nennt sie Fläche und Preis, als Georgij fragt, was der Zugang zu Ye-rin kostet, und sie sagt dazu: "I am not doing this out of affection for anybody at this table."
+**Sie sagt es selbst, am Tisch in Kapitel 15.** Eine Partnerin, die Ye-rin und das Ministerium liefert und dafür nichts verlangt, wäre verdächtig. Also nennt sie Fläche und Preis, als Georgij fragt, was der Zugang zu Ye-rin kostet, und sie sagt dazu: "I am not doing this out of affection for anybody at this table."
 
 **Damit löst sich der Zettel aus Kapitel 9 auf.** Auf der Terrasse hielt sie den Vorstoß auf den östlichen Abschnitt für eine **Unhöflichkeit** und nicht für eine Drohung. Niemand ist stellvertretend beleidigt. Über einen Preis empört sich, wem er angeboten wurde. Georgij hatte den Satz unaufgeräumt notiert, wie immer, und er passte drei Wochen lang nirgends hinein. Kein Irrtum, kein Verdacht, nur ein Zettel, der von selbst hineinpasst, sobald sie es ausspricht.
 

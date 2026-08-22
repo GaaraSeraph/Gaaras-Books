@@ -77,7 +77,7 @@ Die Zeit zwischen Kauf und Gala.
 - **Der Desktop.** Annie verweigert ihm die Gästeliste, aus Methode. Er beschafft sie selbst und legt die Datei dort ab: wer kommt, was jeder verbirgt, wer mit wem verbunden ist. Verschlüsselt, Passwort ist sein Name, sie tippt sieben Buchstaben mit einem Finger. Sie fragt weder, wie er an die Namen kam, noch, was er sonst gesehen hat, und sie zieht das Protokoll nicht, das sie eine Minute kosten würde.
   - **[KORRIGIERT] Er knackt nichts.** Die Maschine hing nie an einem Netz, es gab daran nichts zu brechen, und er begreift das in den ersten drei Tagen. Er hört auf, an die Maschine zu denken, und sieht die Frau an. Zweimal in drei Wochen tippt sie die Passphrase vor ihm. Wer später "geknackt" schreibt, nimmt der Szene ihren ganzen Sinn.
   - **[KORRIGIERT]** Die Formulierung "der erste Moment, in dem sie ihn wirklich ansieht" ist gestrichen. Sie sieht ihn seit dem Keller an, im Wagen wendet sie den Blick kein einziges Mal ab, und in der Auffahrt sieht sie sich das Auge an, ohne sich zu bewegen. Was in Kapitel 5 neu ist, ist nicht der Blick, sondern das Nichtfragen.
-- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern dreimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?"), über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"), und in Kapitel 6 vor dem Katalog. Auf die erste Frage bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen, auf die dritte das Wort "No". Danach fragt er nicht mehr. Was tatsächlich geschehen ist, steht in der Bibel unter Pipeline und ist im Text noch lange nicht auszusprechen.
+- **[KORRIGIERT] Los elf, die Zählung.** Er fragt nicht einmal nach, sondern zweimal, und jedes Mal anders: im Wagen in Kapitel 1 ("And the boy?") und über den Schreibtisch in Kapitel 4 ("Has the house listed lot eleven yet?"). Auf die erste bekommt er eine Auskunft über den nächsten Monat, auf die zweite Schweigen. In Kapitel 6 fragt er ein drittes Mal ausdrücklich **nicht**, sondern stellt fest ("He isn't in it"), und darauf sagt sie das eine Wort "No". Der Text zählt selbst mit: *He did not ask a third time.* Was tatsächlich geschehen ist, steht in der Bibel unter Pipeline und ist im Text noch lange nicht auszusprechen.
 
 ### Der Gala-Abend **[GESCHRIEBEN, Kapitel 6 bis 11]**
 
@@ -225,7 +225,7 @@ Der alte Plan verlangte zwischen Kapitel 2 und dem Bruch noch zwei bis drei beil
 | Kapitel 5 | Annie | nach der Datei, als ganze Antwort |
 | Kapitel 6 | Annie | nach dem Sitzplan, dann zurück zur Seite |
 
-Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt dem Zahltag Gewicht statt es aufzubauen.** Zwischen Kapitel 16 und Block G soll der Satz gar nicht mehr fallen. Er ist beim nächsten Mal die Waffe.
+Damit ist das Konto voll. **Jede weitere beiläufige Nennung vor dem Bruch nimmt dem Zahltag Gewicht statt es aufzubauen.** Beiläufig fällt der Satz ab Kapitel 7 nicht mehr. Eine gewichtete Ausnahme ist verbraucht: In Kapitel 17 setzt Georgij ihn im Wagen als Überschrift über sein eigenes Geständnis ("Mistress. About the quid pro quo."). Das lädt den Bruch auf, statt ihn zu entwerten, aber ein zweites Mal trägt es nicht. Beim nächsten Mal ist er die Waffe.
 
 **Wichtig:** Er ist verletzt, und der Text sagt es nicht. Er sagt nur, dass er in den Garten geht und die Fluchtwege durchgeht, die er in der ersten Nacht kartiert hat.
 
