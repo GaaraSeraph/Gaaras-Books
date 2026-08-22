@@ -475,7 +475,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
 | 48 | ch19:254 | Chairman Woo poured the last of the tea. |
 | 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | ch19:280 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
+| 48 | ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
 | 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
 | 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
@@ -511,7 +511,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:186` (Tag 48) - two
 - `ch19:198` (Tag 48) - two
 - `ch19:224` (Tag 48) - one
-- `ch19:280` (Tag 48) - nineteen
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
 - `ch19:326` (Tag 48) - one

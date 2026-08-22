@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.226 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 49.513 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -25,6 +25,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wiederholung ueber Kapitelgrenzen](#wiederholung-ueber-kapitelgrenzen)
   - [Der Bericht ist kein Duell](#der-bericht-ist-kein-duell)
   - [Georgij kommentiert nicht seine eigene Redlichkeit](#georgij-kommentiert-nicht-seine-eigene-redlichkeit)
+  - [Wer weiss es, und woher](#wer-weiss-es-und-woher)
   - [Fehler bleiben Fehler](#fehler-bleiben-fehler)
   - [Ihre Repliken](#ihre-repliken)
   - [Zahlen](#zahlen)
@@ -408,6 +409,38 @@ Dann bleibt sie. Beschreibt sie nur, was er ohnehin gerade tut? Dann weg.
 achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
 Kapitel 19, von denen zwei Georgij gehoerten und gestrichen wurden. Wenn eine
 Figur ausser Georgij sie benutzt, zaehlt sie nicht mit.
+
+### Wer weiss es, und woher
+
+**Jede Figur darf nur sagen, was sie im Text erfahren hat oder aus dem ableiten
+kann, was sie hat.** Das steht schon oben unter Rueckbezug, aber es bricht am
+haeufigsten in Verhandlungsszenen, weil dort die Planungsdokumente danebenliegen
+und ihre Formulierungen mitwandern.
+
+**Der Fall vom 22.08.** Chairman Woo sagte in Kapitel 19: *"You wrote nineteen
+pages to ruin a man, so that a second man does not get a company, so that the
+woman who owns you ends up with her hand on the throat of everybody else in her
+own trade."*
+
+Der Satz stammt fast woertlich aus `doc/04-world.md`, wo er als Notiz ueber
+Georgijs Lage steht. **Woo erfaehrt im ganzen Kapitel nichts von den neunzehn
+Seiten, nichts von Hanseong und nichts davon, dass jemand ruiniert wird.**
+Georgij wuerde ihm das auch nicht erzaehlen; es ist nicht seins.
+
+**Was Woo tatsaechlich hat**, und es reicht vollstaendig: dass Georgij ihn bittet,
+neben die Kims zu treten, und die Antwort auf seine eigene Frage, was Annie von
+den Kims nimmt - *"Shares, security and a veto over routes."* Was ein
+Routen-Vetorecht ist, weiss er nach einundfuenfzig Jahren selbst. Also lautet der
+Satz jetzt: *"You came out here to save a family, so that the woman who owns you
+ends up with her hand on the throat of everybody else in this trade."*
+
+**Und er wird dadurch besser**, weil Woo es sich selbst aus einer einzigen
+Antwort zusammensetzt, statt es erzaehlt bekommen zu haben.
+
+**Die Probe vor jeder Verhandlungsszene:** Fuer jeden Satz, den eine Nebenfigur
+ueber die Lage sagt, die Stelle benennen, an der sie es erfahren hat. Findet man
+sie nicht, ist entweder der Satz falsch oder die Stelle fehlt - und in einem
+Planungsdokument gelesen zu haben zaehlt nicht.
 
 ### Fehler bleiben Fehler
 
@@ -1087,7 +1120,7 @@ nachrechnen, und `check.py` tut das automatisch.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 19** *What happens on the Tuesday* (v1.5) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.6) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.4) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.8) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.15) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
@@ -3365,7 +3398,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
 | 48 | ch19:254 | Chairman Woo poured the last of the tea. |
 | 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | ch19:280 | "You wrote nineteen pages to ruin a man," said Chairman Woo, "so that a second man does .. |
+| 48 | ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
 | 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
 | 48 | ch19:302 | "Because you will find it out in about a year, on a bad day, from somebody who wants som.. |
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
@@ -3401,7 +3434,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch19:186` (Tag 48) - two
 - `ch19:198` (Tag 48) - two
 - `ch19:224` (Tag 48) - one
-- `ch19:280` (Tag 48) - nineteen
 - `ch19:312` (Tag 48) - five
 - `ch19:318` (Tag 48) - two
 - `ch19:326` (Tag 48) - one

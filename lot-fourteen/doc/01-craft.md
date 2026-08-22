@@ -282,6 +282,38 @@ achtundzwanzig Vorkommen, davon elf allein in Kapitel 16 (Geraet) und vier in
 Kapitel 19, von denen zwei Georgij gehoerten und gestrichen wurden. Wenn eine
 Figur ausser Georgij sie benutzt, zaehlt sie nicht mit.
 
+### Wer weiss es, und woher
+
+**Jede Figur darf nur sagen, was sie im Text erfahren hat oder aus dem ableiten
+kann, was sie hat.** Das steht schon oben unter Rueckbezug, aber es bricht am
+haeufigsten in Verhandlungsszenen, weil dort die Planungsdokumente danebenliegen
+und ihre Formulierungen mitwandern.
+
+**Der Fall vom 22.08.** Chairman Woo sagte in Kapitel 19: *"You wrote nineteen
+pages to ruin a man, so that a second man does not get a company, so that the
+woman who owns you ends up with her hand on the throat of everybody else in her
+own trade."*
+
+Der Satz stammt fast woertlich aus `doc/04-world.md`, wo er als Notiz ueber
+Georgijs Lage steht. **Woo erfaehrt im ganzen Kapitel nichts von den neunzehn
+Seiten, nichts von Hanseong und nichts davon, dass jemand ruiniert wird.**
+Georgij wuerde ihm das auch nicht erzaehlen; es ist nicht seins.
+
+**Was Woo tatsaechlich hat**, und es reicht vollstaendig: dass Georgij ihn bittet,
+neben die Kims zu treten, und die Antwort auf seine eigene Frage, was Annie von
+den Kims nimmt - *"Shares, security and a veto over routes."* Was ein
+Routen-Vetorecht ist, weiss er nach einundfuenfzig Jahren selbst. Also lautet der
+Satz jetzt: *"You came out here to save a family, so that the woman who owns you
+ends up with her hand on the throat of everybody else in this trade."*
+
+**Und er wird dadurch besser**, weil Woo es sich selbst aus einer einzigen
+Antwort zusammensetzt, statt es erzaehlt bekommen zu haben.
+
+**Die Probe vor jeder Verhandlungsszene:** Fuer jeden Satz, den eine Nebenfigur
+ueber die Lage sagt, die Stelle benennen, an der sie es erfahren hat. Findet man
+sie nicht, ist entweder der Satz falsch oder die Stelle fehlt - und in einem
+Planungsdokument gelesen zu haben zaehlt nicht.
+
 ### Fehler bleiben Fehler
 
 Er darf sich nicht nachtraeglich als heimlicher Planer herausstellen. Geht ein

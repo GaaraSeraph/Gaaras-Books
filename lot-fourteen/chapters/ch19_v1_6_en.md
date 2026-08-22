@@ -1,0 +1,326 @@
+# Chapter 19: What happens on the Tuesday
+*Lot Fourteen* · Version 1.6 · EN
+
+*Day 48 · Thursday 20 November*
+
+The invitation had been sitting there since the seventh of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.
+
+Georgij made it into a date at half past eleven, in one telephone call, and was told to come that afternoon and to wear something he did not mind ruining.
+
+He took a folder with him.
+
+---
+
+Yeongjong in November is a flat cold place with the sea on three sides of it and nothing at all to stand behind.
+
+Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had on, and walked him out along the quay at a speed that would have embarrassed a man of fifty.
+
+"Ten months," he said. "From that fence to the second crane. Ten. Everybody writes eleven."
+
+"I have read eleven twice."
+
+"Both of them had it from the same press office, and the press office had it from a man who was not here." He stopped and pointed with his whole hand, the way old men do. "The concrete went in during a wet March. Do you know what that costs you?"
+
+"No."
+
+"Nothing, if you have the right man. Four months, if you have the wrong one." He started walking again. "I had the right one, and he is dead now as well."
+
+---
+
+They went out to the end of it.
+
+Georgij looked at the water and the cranes and the stacks and the long grey shed with the number on it, and understood two things almost at once.
+
+The first was that it was not very large. Set against what the man was worth it was a small thing, and it had taken ten months and two years of argument and most of a decade of being told no.
+
+The second was that Chairman Woo was watching him look at it, and had been since the gate.
+
+Mr Hong had said this would happen. He had said it in a ballroom with a glass in his hand, and had been delighted with himself. The chairman would invite Georgij to Yeongjong, and would then be deeply offended by anything Georgij said about it.
+
+So there was going to be a sentence, and it was going to have to be true.
+
+"Well," said Woo.
+
+"The apron is short on the north side."
+
+The old man's head came round.
+
+"It is fourteen metres short," said Georgij. "You built it that way on purpose. The alternative was buying a strip from the port authority in the same year you were arguing with them about the committees, and you took the terminal in ten months and left the argument." He looked at the shed and not at the man. "The argument is still standing there, and it is still fourteen metres, and one day somebody who buys this from your estate will call it a defect and get it cheap."
+
+Nobody said anything for a moment.
+
+"Who told you that?"
+
+"Nobody. It is in the harbour authority's own drawings, which are public, and I looked at them last night because I was coming here today." Georgij turned round. "You asked me what I thought. That is what I thought. The rest of it is a good terminal built by a man who was told for nine years that it could not be done, and you know that already and do not need it from me."
+
+Chairman Woo looked out at the water.
+
+"Fourteen metres," he said. "In fifty-one years two people have said that to my face, and the other one was my wife."
+
+---
+
+They went into the office at the end of the shed, which had a heater, one desk, and a photograph of a ship on the wall.
+
+"You want something," said Woo.
+
+"I do."
+
+"Say it before the tea comes. Tea makes it polite and then it takes an hour."
+
+"I want you to stand next to the Kim family." Georgij put the folder on the desk and did not open it. "In public, on paper, and before the end of the year. Your name beside theirs on something ordinary, so that the people who have left them can see it and come back."
+
+"They are under customs investigation."
+
+"They are, and the container was not theirs, and I can tell you who put it there and not prove it to you today." He did not slow down. "The cancellations are what is actually killing them. Three last week. Customers do not come back for money. They come back because somebody they trust is standing next to you."
+
+"That is my own sentence."
+
+"It is. You said it over soup, and I have used it four times since, twice to my employer." Georgij inclined his head. "I did not tell her it was mine."
+
+---
+
+Woo sat down heavily, the way a man does when his back has an opinion.
+
+"And what do I get for standing in the road?"
+
+"Her cargo across this quay."
+
+The old man did not move at all for a second and a half, which from him was a great deal.
+
+Then he said it the way a man reads out a delivery note, and it took him about twenty seconds.
+
+"Seven years. Minimum volumes in tonnes and not in money, because I have lived through two currency scares and you have not." He put one finger down on the desk. "And it attaches to this quay and not to me. When I am dead it is still here, and nobody sells it away from the concrete."
+
+Georgij opened the folder and put a contract on the desk in front of him.
+
+"Signed this morning."
+
+"By her."
+
+"By her. I have nothing to sign with, and that is not modesty. It is the arrangement."
+
+---
+
+Chairman Woo did not pick the paper up straight away.
+
+"You had it written."
+
+"I have three of them with me." Georgij said it without any decoration anywhere. "That is the one you have just asked for."
+
+"And if I had asked for something else?"
+
+"Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning, and I would have told you so instead of standing here implying otherwise."
+
+---
+
+Then he picked it up, and read it the way a man reads something he has read four hundred times in his life, which is quickly and only in the places that matter.
+
+"The rate is blank."
+
+"The rate is yours. You have been setting terminal rates since before I was born, and I would be pretending if I put a number in front of you."
+
+"There is always a ceiling."
+
+"There is one." Georgij did not look away. "I am not going to tell you where it is, because that would be the same as telling you the number. Write something above it and you will hear about it before the pen is down."
+
+"That is a strange way to negotiate."
+
+"It is the only way available to me."
+
+---
+
+Woo put the paper down and looked at him.
+
+"Can you fill it?"
+
+There it was, and it had come in four words, and Georgij had known since the car that it would.
+
+"Not with hers alone."
+
+"Say the number."
+
+"At the volumes she moves now she is about a third of your book, and a third is not a terminal." He said it flatly. "She is scheduled and she is regular and she has been for eleven years, which is worth more to you than the tonnage is, because it is the part a bank will look at. But she does not fill this quay."
+
+"And with the rest of it?"
+
+"With her customers and the people who supply her, it is full inside two years."
+
+Chairman Woo did not say anything.
+
+He picked the paper back up and read a clause in the middle of it that he had already read, and did not appear to be reading it.
+
+---
+
+"A third of my book, contracted for seven years," he said. "Do you know what that does?"
+
+"It makes the place bankable."
+
+"It makes the place *lendable*." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for seven is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."
+
+Georgij said nothing at all.
+
+"Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund I could not fund it without. It came out of a chain of law firms in Singapore. You told me that yourself over soup and I did not blink at you, and you noticed that I did not, and you have been polite about it for three weeks."
+
+"I have."
+
+"I have never had a name and I have never asked for one, and a man does not ask when the money is already in the concrete." He set the paper down. "With this I do not need the name. I can pay them out on a Thursday with somebody else's money and never find out who I was bowing to."
+
+---
+
+Georgij had worked that out on the expressway and had decided not to say it.
+
+He had decided it because the old man was going to get there in about ninety seconds, and because it was not Georgij's to hand him. There is a difference between a man who is given a good reason and a man who finds one.
+
+"That took you less time than it took me," he said.
+
+"It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen."
+
+---
+
+He wrote the rate in the margin first, the way men of that generation do, and then in the box.
+
+Georgij looked at it.
+
+"That is inside," he said.
+
+"Of course it is inside. I am not going to be the reason a boy has to telephone a woman from a shed." Woo signed underneath it, and dated it, and pushed it back. "Two conditions and neither of them is money."
+
+"Go on."
+
+"Get me a room with that family in it and somebody who can actually sign. Not the ones who talk. Not the nephew." He held up one finger. "And no photograph with a politician in it. I have spent my whole life not being in those and I am not starting at seventy-eight."
+
+"Yes, Chairman."
+
+"Then it is done, and the tea is coming, and you have got what you came for in under twenty minutes, which is the only compliment you are getting today."
+
+---
+
+The tea came, and it was terrible, and Woo drank two cups of it.
+
+Georgij took the folded sheet out of his own pocket and put it on the desk.
+
+"What is that?"
+
+"Something you did not ask for."
+
+"Then I probably do not want it."
+
+"Probably not," said Georgij. "You told me at that dinner that twice this year somebody has tried to buy this terminal and would not say who was behind him. That has been sitting in my head since October, because I have a company with no name behind it and I have been walking into it from the other side."
+
+Chairman Woo unfolded the sheet.
+
+There was an account number on it, and the name of a corporate services company in Jung-gu with six employees, and three dates.
+
+---
+
+"That company exists so that other companies do not appear on dockets," said Georgij. "Behind it there will be another one, and behind that a third, and I am not going to get to the end of it that way. I have tried since October."
+
+"And the dates."
+
+"Those are the four evenings the same account block-booked a car in the last fourteen months, less the one I already understand." He sat back and let the man read. "Three evenings happened somewhere. I wrote them on the inside of a file in October because at some point I was going to be sitting at a table with somebody who had been alive on all three of them."
+
+The heater went on making its noise.
+
+Chairman Woo looked at the sheet for a long time, and then he put one finger on the second line.
+
+"The seventeenth of September was a Wednesday," he said.
+
+"It was."
+
+"On the seventeenth of September two men came here and sat where you are sitting, and asked me what I would take for it, and would not tell me who they were asking for. I remember it because it was the day the second crane was down and I was in a filthy temper and I threw them out in about four minutes."
+
+He put the sheet down on the desk and squared it with the edge, which was the first fussy thing he had done all afternoon.
+
+"That is the same people."
+
+"It is the same account," said Georgij. "More than that would be a guess."
+
+"It is the same people."
+
+---
+
+They sat with that.
+
+"You have given me something," said Chairman Woo eventually. "And you did it after I signed, which means you were not paying for the signature."
+
+"No."
+
+"Why then?"
+
+"Because you told me the truth about a dead man and a wet March and a fund in Singapore, and none of it was work for you." Georgij did not look away. "And because I would like you to win this. That is not a strategy, Chairman. It is just true, and I have had very little use for it."
+
+---
+
+Chairman Woo poured the last of the tea.
+
+"Now," he said. "The part you are not going to enjoy."
+
+"Chairman."
+
+"Sit down. It costs you nothing and it will cost you a great deal later." He set the pot back. "You said her customers and the people who supply her. That is how it fills. Say the mechanism out loud."
+
+Georgij did not answer straight away.
+
+"She asks them," he said.
+
+"She asks them." Woo repeated it without any weight anywhere. "And what happens to a man in this trade who is asked by her and says no. Not next year. In the spring, when he needs a box on a sailing that is full."
+
+The room went on being a room.
+
+"He waits," said Georgij.
+
+"He waits." The old man sat back. "What does she take from the Kims? Not the lorries. Say it."
+
+"Shares, security and a veto over routes."
+
+"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year." He said it the way a man reads out a delivery note. "She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."
+
+---
+
+"You came out here to save a family," said Chairman Woo, "so that the woman who owns you ends up with her hand on the throat of everybody else in this trade."
+
+"Yes."
+
+"Including me. I am in that trade. I have been in it since before your parents met and I am in it this afternoon, and I have just signed seven years of it." He tapped the contract once with two fingers. "And I would like you to notice that I signed it anyway."
+
+"I noticed."
+
+"Say why."
+
+"Because the other thing is certain and this one is only likely," said Georgij. "When you die, a third of this belongs to Park Sang-hoon, and there is nothing you can do about it. What I have brought you is a worse man with a longer arm, and you can see her, and you cannot see him."
+
+"That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whether you understood it or whether you had simply not looked."
+
+"I had looked at every step of it separately." He was looking at the photograph of the ship. "I had not laid them in a row and read them from one end to the other. I have been reading from the middle."
+
+"Everybody does. Nobody builds a wall. Everybody lays one brick and goes home."
+
+---
+
+"Then why tell me at all?"
+
+"Because you will find it out in about a year, on a bad day, from somebody who wants something from you." Woo pushed the cup across. "You will find it out better from me, in a cold office, on an afternoon you got what you came for."
+
+Georgij looked at the old man for a moment.
+
+Then he smiled at him, and meant it.
+
+It was not built for the room and it was not aimed at anything, and there was nothing at the end of it that he wanted. He had come out here for one thing and had it, signed, before the tea. The rest was a man of seventy-eight spending his own afternoon on a stranger's education.
+
+"Thank you, Chairman."
+
+"Don't." Woo was already standing up. "I have given you a bad afternoon and you have given me a Wednesday in September, and I am not certain which of us came off better. Walk back with me and tell me what else is wrong with my terminal, and be quick about it. It gets dark at five and I am not as steady on that quay as I was in March."
+
+---
+
+They walked back along the water.
+
+Georgij told him about the drainage on the east side of the shed, which was two things. Chairman Woo argued with him about both of them the whole way to the gate, and enjoyed it more than anything else that had happened that day.
+
+At the gate he stopped.
+
+"The room with the family," he said. "Before the end of the year, and not in a hotel. Somebody's house, and not yours."
+
+"No. Not mine."
+
+"You have not got one either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."
