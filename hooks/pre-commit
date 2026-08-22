@@ -1,8 +1,15 @@
 #!/bin/sh
-# Lot Fourteen: baut die erzeugten Dateien vor jedem Commit neu und prueft die
-# Kapitel. Der Build blockiert, die Pruefung warnt nur.
+# Baut die erzeugten Dateien vor jedem Commit neu und prueft die Kapitel.
+# Der Build blockiert. Die Kapitelpruefung warnt nur.
 #
 # Einmalig einschalten:  git config core.hooksPath hooks
+#
+# Sperrklinke, optional: RATCHET=1 laesst den Commit scheitern, wenn ein Kapitel
+# mehr Fehler hat als in .check-baseline geduldet. Altlast bleibt erlaubt, neue
+# Verschuldung nicht.
+#   dauerhaft:  git config hooks.ratchet true
+#   einmalig:   RATCHET=1 git commit -m "..."
+#   umgehen:    git commit --no-verify
 
 set -e
 cd "$(git rev-parse --show-toplevel)"
@@ -18,6 +25,15 @@ for proj in */; do
     echo "Build fehlgeschlagen. Commit abgebrochen."
     exit 1
   fi
-  "$PY" "$proj/check.py" "$proj"/chapters/*.md 2>/dev/null | tail -1 || true
+  if [ "${RATCHET:-$(git config --bool hooks.ratchet 2>/dev/null)}" = "1" ] \
+     || [ "${RATCHET:-$(git config --bool hooks.ratchet 2>/dev/null)}" = "true" ]; then
+    if ! "$PY" "$proj/check.py" --ratchet; then
+      echo "Neue Stilfehler gegenueber der Basislinie. Commit abgebrochen."
+      echo "Umgehen mit: git commit --no-verify"
+      exit 1
+    fi
+  else
+    "$PY" "$proj/check.py" 2>/dev/null | tail -3 || true
+  fi
   git add "$proj/book.md" "$proj/HANDBUCH.md" "$proj/MANIFEST.txt" "$proj/paste" 2>/dev/null || true
 done

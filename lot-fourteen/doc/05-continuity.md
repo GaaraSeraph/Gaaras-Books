@@ -158,7 +158,7 @@ Der Hammer ist hölzern, etwa so lang wie ein Löffel, und macht in einem Saal d
 
 Wortlaut steht fest. Wer eine dieser Stellen anfasst, aendert nicht die Formulierung,
 sondern nur mit ausdruecklicher Entscheidung, und traegt sie unten in
-`log/01-decisions.md` ein.
+`doc/08-decisions.md` ein.
 
 ### Festgelegte Zeile: die Heimfahrt nach dem Essen mit Sang-hoon
 

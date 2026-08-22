@@ -56,14 +56,14 @@ vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
   der Verweis der Fehler und nicht der fehlende Text.
 - Eine Figur darf nur wissen, was sie im Text erfahren hat. Wenn sie mehr weiss,
   gehoert die Stelle nachgetragen oder das Wissen gestrichen.
-- Zahlen und Zeitangaben werden gegen `canon/10-timeline.md` nachgerechnet. Dort
+- Zahlen und Zeitangaben werden gegen `doc/05-continuity.md` nachgerechnet. Dort
   lagen alle bisherigen Fehler dieser Art.
 - Ein Motiv, das zum zweiten Mal auftaucht, wird nicht beschrieben, als waere es
   neu. Beim zweiten Mal aendert sich etwas daran, nicht die Beschreibung.
 
 ### 4. Die Laecheln
 
-`canon/11-motifs.md` fuehrt jede Sorte mit Fundstelle.
+`doc/05-continuity.md` fuehrt jede Sorte mit Fundstelle.
 
 - **Wird ueberhaupt gelaechelt?** Der Charme ist Georgijs Hauptwerkzeug. In
   Kapitel 2 bis 6 kommt kein einziges Laecheln vor, und das ist ein bekanntes
@@ -78,7 +78,7 @@ vorher nicht wusste. Wenn die Antwort nichts ist, streichen.
 
 ### 5. Satzzeichen
 
-- **Fragezeichen** nach der mechanischen Regel in `craft/01-prose.md`:
+- **Fragezeichen** nach der mechanischen Regel in `doc/01-craft.md`:
   Aussagesyntax behaelt den Punkt, Fragesyntax und verkuerzte Fragen bekommen das
   Zeichen. `check.py` meldet Verdachtsfaelle, entscheidet aber nicht.
 - **Keine Gedankenstriche**, nur Bindestriche.
@@ -104,7 +104,7 @@ python3 check.py chNN_vX_Y_en.md
 python3 build.py . .
 ```
 
-Dann `craft/04-review.md` fuer alles, was ein Programm nicht entscheiden kann.
+Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.
 Dann noch einmal lesen.
 
 ---
@@ -210,7 +210,7 @@ Korrektur laeuft `check.py` erneut, nicht nur nach dem ersten Entwurf.
 
 **Datumszeilen prueft `check.py`. Die Angaben im Fliesstext nicht.** Dort lagen
 alle bisherigen Fehler. Jedes "seit X Tagen", "vor drei Wochen", "in fuenf
-Wochen" gegen den Kalender in `canon/07-timeline.md` nachrechnen.
+Wochen" gegen den Kalender in `doc/05-continuity.md` nachrechnen.
 
 Gefunden wurden auf diese Weise: Noh geht "in fuenf Wochen", waehrend zwei
 Absaetze vorher steht, dass er Ende des Monats geht. Ein Kapitel an Tag 27

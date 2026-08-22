@@ -15,6 +15,11 @@ Erzeugte Dateien werden nicht von Hand gepflegt. Zwei Mechanismen halten sie akt
 - **Hook vor jedem Commit.** Einmalig einschalten mit `git config core.hooksPath hooks`.
   Baut neu, legt das Ergebnis in den Commit und bricht bei einem Build-Fehler ab.
   Die Kapitelpruefung warnt nur.
+- **Sperrklinke, optional.** `check.py --ratchet` meldet nur, wenn ein Kapitel
+  **mehr** Fehler hat als in `.check-baseline` geduldet. Damit bleibt der
+  Altbestand erlaubt und neue Verschuldung nicht. Im Hook einschalten mit
+  `git config hooks.ratchet true`, Basislinie nachziehen mit
+  `python3 check.py --baseline`.
 - **GitHub Action bei jedem Push.** Netz darunter, greift auch bei Bearbeitungen
   direkt auf GitHub oder vom Handy.
 

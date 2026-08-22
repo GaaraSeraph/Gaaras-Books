@@ -2,10 +2,17 @@
 """
 Lot Fourteen, mechanische Kapitelpruefung.
 
-Aufruf:  python3 check.py                  prueft alle aktuellen Kapitel
-         python3 check.py chapters/ch17_v12_1_en.md prueft eines
+Aufruf:  python3 check.py                   prueft alle aktuellen Kapitel
+         python3 check.py chapters/chNN_...  prueft eines
+         python3 check.py --baseline         schreibt die Basislinie neu
+         python3 check.py --ratchet          Rueckgabewert 1 nur bei Verschlechterung
 
-Prueft nur, was ohne Urteil pruefbar ist. Alles andere steht in craft/04-review.md
+Die Sperrklinke: Der Stilrueckstand aus alten Kapiteln soll nicht jeden Lauf
+rot faerben, denn eine Warnung, die immer feuert, liest niemand mehr. Mit
+--ratchet meldet check.py nur, wenn ein Kapitel **mehr** Fehler hat als in
+.check-baseline vermerkt. Damit ist Altlast geduldet und Neuverschuldung nicht.
+
+Prueft nur, was ohne Urteil pruefbar ist. Alles andere steht in doc/01-craft.md
 und muss gelesen werden.
 
 Rueckgabewert 1, wenn ein Fehler gefunden wurde. Warnungen aendern ihn nicht.
@@ -127,12 +134,35 @@ def check(path):
     return errs, warns
 
 
+BASELINE = ".check-baseline"
+
+
+def read_baseline(root):
+    p = os.path.join(root, BASELINE)
+    out = {}
+    if os.path.exists(p):
+        for line in open(p, encoding="utf-8"):
+            line = line.split("#")[0].strip()
+            if line:
+                k, v = line.rsplit(None, 1)
+                out[k.strip()] = int(v)
+    return out
+
+
 def main():
-    if len(sys.argv) > 1:
-        files = sys.argv[1:]
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    flags = {a for a in sys.argv[1:] if a.startswith("--")}
+    root = os.path.dirname(os.path.abspath(__file__))
+
+    if args:
+        files = args
     else:
         best = {}
-        for p in glob.glob("chapters/ch*_en.md") or glob.glob("ch*_en.md"):
+        # Relativ zum Skript, nicht zum aktuellen Verzeichnis: sonst findet der
+        # Hook (der aus der Repo-Wurzel laeuft) keine Kapitel und die Sperrklinke
+        # prueft ins Leere.
+        for p in (glob.glob(os.path.join(root, "chapters", "ch*_en.md"))
+                  or glob.glob(os.path.join(root, "ch*_en.md"))):
             m = NAME.match(os.path.basename(p))
             if not m:
                 continue
@@ -141,13 +171,17 @@ def main():
                 best[k] = (v, p)
         files = [p for _, p in sorted(best.values(), key=lambda x: x[1])]
 
-    bad = 0
+    base = read_baseline(root)
+    counts, bad, worse, better = {}, 0, [], []
+
     for f in sorted(files):
+        key = os.path.basename(f)
         errs, warns = check(f)
+        counts[key] = len(errs)
         if not errs and not warns:
-            print(f"{os.path.basename(f):<24} sauber")
+            print(f"{key:<24} sauber")
             continue
-        print(f"\n{os.path.basename(f)}")
+        print(f"\n{key}")
         for e in errs:
             print("  FEHLER   " + e)
         for w in warns:
@@ -155,7 +189,41 @@ def main():
         if errs:
             bad += 1
 
+    if "--baseline" in flags:
+        with open(os.path.join(root, BASELINE), "w", encoding="utf-8", newline="\n") as fh:
+            fh.write("# Geduldeter Altbestand je Kapitel. Neu schreiben mit "
+                     "python3 check.py --baseline\n")
+            for k in sorted(counts):
+                fh.write(f"{k}  {counts[k]}\n")
+        print(f"\n{BASELINE} geschrieben.")
+        sys.exit(0)
+
+    for k, n in sorted(counts.items()):
+        b = base.get(k)
+        if b is None:
+            continue
+        if n > b:
+            worse.append(f"{k}: {b} geduldet, jetzt {n}")
+        elif n < b:
+            better.append(f"{k}: {b} auf {n}")
+
     print(f"\n{len(files)} Kapitel geprueft, {bad} mit Fehlern.")
+    if base:
+        if better:
+            print("Besser geworden:")
+            for x in better:
+                print("  " + x)
+        if worse:
+            print("SCHLECHTER GEWORDEN:")
+            for x in worse:
+                print("  " + x)
+        else:
+            print("Keine neue Verschuldung gegenueber der Basislinie.")
+        if better:
+            print("Basislinie nachziehen mit: python3 check.py --baseline")
+
+    if "--ratchet" in flags:
+        sys.exit(1 if worse else 0)
     sys.exit(1 if bad else 0)
 
 

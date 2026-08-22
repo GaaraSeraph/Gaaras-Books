@@ -88,9 +88,6 @@ scheint.
 
 | Datei | Inhalt |
 |---|---|
-| `canon/01-premise.md` | Praemisse und der Vertrag zwischen den beiden |
-| `canon/02-georgij.md` | Die Figur, die Legende, der Charme, das Auge |
-| `canon/03-annie.md` | Ihre Methode und ihre Regeln |
 | `doc/01-craft.md` | Alle Regeln. Beginnt mit der Liste, die **immer** laeuft |
 | `doc/02-leads.md` | Praemisse, Georgij, Annie |
 | `doc/03-cast.md` | Haushalt, Verbuendete, Gegenseite, der Saal |
@@ -100,7 +97,6 @@ scheint.
 | `doc/07-next.md` | Naechste Schritte und offene Faeden |
 | `doc/08-decisions.md` | Was entschieden wurde und warum |
 | `HANDBUCH.md` | **Erzeugt.** Alle acht am Stueck, mit Inhaltsverzeichnis |
-| `log/01-decisions.md` | Was entschieden wurde und warum |
 
 ## Dateinamen
 
