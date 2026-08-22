@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 39.371 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 39.363 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1733,36 +1733,36 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   Ort dafuer gewesen, weil sein Hauptwerkzeug sonst dreieinhalb Stunden lang
   nicht vorkam und Kapitel 17 eine Seite spaeter den ganzen Katalog aufzaehlt.
 
-- **Das Halsband fehlte in Kapitel 14 bis 17**, also im gesamten Schluss und
-  nicht nur in dreien. Kein einziges Mal, nicht als Wort, nicht als Gegenstand,
-  nicht als Empfindung; die Suche laeuft auf `collar`, `throat`, `neck` und
-  `jaw`. Ueber fuenfzehn Tage ist er zum Berater geworden und der Text hat
-  aufgehoert, ihn daran zu erinnern, was er ist - ausgerechnet auch in dem
-  Kapitel, in dem die festgelegte Zeile ueber die elf Haeuser steht.
+- **Das Halsband: keine Quote, sondern eine Bedingung.** Der Eintrag stand hier
+  als Luecke ueber Kapitel 14 bis 17 und war zum groessten Teil ein Zaehlfehler.
+  Die Suche lief auf `collar`, `throat`, `neck` und `jaw`, also auf vier
+  Substantive fuer den **Gegenstand**, bekam null Treffer und wurde als
+  Abwesenheit gelesen. Sie hat nie gefragt, ob die **Sache** vorkommt.
 
-  **Kapitel 16 ist gesetzt** (v1.11), an der vierten Wand und nur dort: *Under
-  the high collar of the shirt, the steel sat where it always sat. Nothing all
-  evening had put it in his mind. This did. / He kept his chin level. Not up.*
-  **Es wird nicht gesehen.** Der hohe Hemdkragen aus Kapitel 6 deckt es (*The
-  steel did not show.*), Annies Anweisung aus Kapitel 12 gilt (*Not shown. Not
-  announced. Found.*), und Sang-hoon stellt die Frage blind. Die Empfindung ist
-  nicht das Gewicht - Kapitel 1 sagt, dass man das nach einem Monat nicht mehr
-  spuert - sondern die Disziplin, und die Disziplin ist das Kinn, wie der
-  Schneider sie ihm in **Kapitel 5** beigebracht hat. (Der hohe Kragen kommt aus
-  Kapitel 6, die Kinn-Anweisung aus Kapitel 5. Nicht verwechseln, es sind zwei
-  Termine mit demselben Mann.)
+  **Sie kommt vor, und zwar dort am dichtesten, wo der Gegenstand fehlt.**
+  Kapitel 14: *all that tells me is that he does not like what I am.* Kapitel
+  15, die deutlichste Stelle im ganzen Buch: *"It's the night I was bought," he
+  said*, dazu Hana ueber ihn als *the strongest thing you owned or the softest*
+  und Annie mit *That is what I am buying.* Dieselbe Sorte in Kapitel 11
+  (*eight hundred people had spent the evening deciding what I am*), 3 (*not one
+  of the people who owned them*) und 8 (Chef Bang verbeugt sich vor *the table
+  that had bought him*).
 
-  **Kapitel 17 ist gesetzt** (v12.3), zwischen zwei Repliken der Beichte ueber
-  das Wort *Mistress*: *Beneath the linen at his throat there was a band of
-  steel, and it had been there since the second house. It had made the word
-  accurate from the first day, and it had never once needed him to mean it.*
-  Die Unterscheidung, die der Absatz traegt, ist die des Kapitels: das Wort war
-  immer **zutreffend** und ist jetzt **gemeint**. Weil die Passage eine
-  festgelegte Zeile ist, steht die Entscheidung in `doc/08-decisions.md`.
+  **Die Regel, die daraus folgt:** Das Halsband erscheint nicht nach Takt,
+  sondern wenn der Koerper tragen muss, was der Dialog gerade sagt. In Kapitel
+  16 und 17 war genau das der Fall, und beide Kapitel sagten die Sache im
+  Dialog laengst - Kapitel 16 sogar ausdruecklich (*I belong to one person. She
+  paid a great deal for me*) - waehrend die zwei Stellen, an denen es koerperlich
+  wurde, leer waren: die Frage, wo er schlaeft, und das Eingestaendnis, dass
+  *Mistress* wahr geworden ist. Dort steht es jetzt, in v1.12 und v12.3.
 
-  **Offen bleiben Kapitel 14 und 15.** Weitere Luecken, bisher nicht
-  verbucht: Kapitel 3, 8, 10 und 11. Kapitel 7 hat nur die Empfindung ohne das
-  Wort.
+  **Kapitel 14 und 15 bleiben, wie sie sind.** Was in beiden steht, ist besser
+  als der Gegenstand, weil es aus einem Mund kommt.
+
+  **Die Pruefung, die kuenftig laeuft**, ist deshalb nicht die Substantivsuche,
+  sondern die Frage je Kapitel: sagt es irgendwer, in irgendeinem Register, was
+  er ist? Und falls ja: muss der Koerper es an dieser Stelle mittragen? Nur wenn
+  beide Antworten auseinanderfallen, ist etwas offen.
 
 - **Der Haushalt ist seit Kapitel 13 fast verschwunden.** Kapitel 14 und 16
   enthalten je eine Haushaltsfigur. Die Textur, die das Buch in den Kapiteln 3
