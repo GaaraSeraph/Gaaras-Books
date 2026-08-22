@@ -8,6 +8,12 @@ Marit Halden, Level 6
   ground: she sees that the buried fire is many fires and not one, and she
   names the rope as village-made rather than city-made. He can read stonework.
   He cannot read any of that.
+- SHE CLOSES THE STICK (ch11), and it is hers, not his. He asks who in Oldstep
+  carries one, expecting a list. She refuses the question and corrects the
+  premise instead: nobody carries a stick, old men lean on them, and he himself
+  knelt in the silt and said the mark took no weight. "So it wasn't a stick. It
+  was a man walking about carrying one." She does not say a name and neither
+  does he. Second instalment of her being right about something that matters.
 - SHE ANSWERS ONE IN KIND (ch10), after nine chapters of deflecting. He asks for
   help with his trousers, explains at length and defensively that he means the
   wound, and she bandages him without comment. Then, standing up: "Now, about

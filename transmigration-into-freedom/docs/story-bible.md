@@ -16,7 +16,7 @@ nicht diese Zeile von Hand.
 8. It Has Been Keeping Score
 9. What the Panel Will Not Say
 10. The Price Went Up
-11. (planned)
+11. Nobody Carries a Stick
 12. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
@@ -186,7 +186,32 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   last fresh, and he did not turn round. Marit is a 6 and the highest thing in
   Oldstep. Gaara reads twenty corpses like a table, which is what the instrument
   was always for, and it took him nine chapters to use it that way.
-- (ch10) THE LEVEL CURVE, and it is now derivable by the reader. Level 2 cost
+- (ch11) THE CURVE IS NOT A COUNT. It is WEIGHTED BY WHAT YOU KILL. Level 4
+  arrived at eleven kills, not the fourteen Gaara had predicted, and the reason
+  is in the corpses: fives and a six, taken while he was a three. In the road in
+  ch6 he killed a small one as a two and it was worth almost nothing.
+  "The count was never the price. It is not counting corpses, Marit. It is
+  weighing them."
+  He has now been wrong about this number three times in one day and says so.
+  He had two data points and drew a line through them, which is the exact error
+  he spends his life warning other people about. Two points make any line.
+  THE CONSEQUENCE, and it is the engine of the whole progression from here:
+  the fast way up is the way that kills you. Nobody in Oldstep is a ten because
+  everybody who tried to be is dead. The kill counter is still real and still
+  visible; it is simply not the price.
+- (ch11) LEVEL 4: HP 185 to 220 (+20 for the level, +15 for CON 9 to 10). STR
+  14, DEX 10, CON 10. Free points per level go 3, 4, 5. He has now banked NINE
+  unspent and refuses to touch any of them while his hands are shaking.
+- (ch11) SKILLS ADVANCE, AND A BETTER WINDOW SHOWS WORSE THINGS. Dagger Mastery
+  E to D, earned by eleven kills with a short blade, four of them above his
+  level. Rank D "returns condition as well as geometry", and the first thing it
+  ever tells him is that the rusted knife has a crack running from tang to
+  fuller, has two to four hard uses left, and will fail without warning.
+  The rule he draws from it is load-bearing for the rest of the book: it shows
+  you what you have earned the right to see, so everything it has ever told him
+  was the summary, and he has been making decisions on the summary.
+  (This also sets up ch12, A Name for the Knife.)
+- (ch10) THE LEVEL CURVE as he first worked it out, and it is wrong. Level 2 cost
   two kills. Level 3 cost FOUR more, arriving at six. The step doubles, not the
   total. So: 2, then 4, then 8, then 16, and the running totals are 2, 6, 14,
   30. Gaara says the numbers out loud on the page.
@@ -450,8 +475,17 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     discrepancy and not the dictionary.
 19. What ??? means, and why it is a different failure from Hallvard's empty air.
     Gaara now has both in his head and has not put them side by side out loud.
-20. Whether his guess at the level price is right. He has one data point and has
-    built a plan on it, which is precisely the thing he warns other people about.
+20. ANSWERED, ch11, and he was wrong: the price is weighted, not counted. What
+    is still open is the weighting itself. He knows that killing above his level
+    pays enormously. He does not know the function.
+21. The knife will break, and the system has told him so in writing. Two to four
+    hard uses. He is walking back to a village with it.
+22. THE STICK IS ANSWERED, and Marit answers it, not him. He asks who in Oldstep
+    carries a stick and expects a list of old men. She says: nobody carries a
+    stick, old men LEAN on them, and the mark in the silt never took any weight.
+    So it was not a stick. It was a man walking about carrying one.
+    Neither of them says a name. Gaara has already refused the thought once in
+    the same chapter ("we are not doing that one yet").
 
 === 7. LONG GAME (author's intent, not yet canon) ===
 

@@ -10,6 +10,7 @@ ch07    1876 Woerter  ch07-how-did-you-know.md
 ch08    1086 Woerter  ch08-it-has-been-keeping-score.md
 ch09    1556 Woerter  ch09-what-the-panel-will-not-say.md
 ch10    1946 Woerter  ch10-the-price-went-up.md
+ch11    1691 Woerter  ch11-nobody-carries-a-stick.md
 
-Gesamt: 10 Kapitel, 20193 Woerter
+Gesamt: 11 Kapitel, 21884 Woerter
 Handbuch: 4 Dokumente

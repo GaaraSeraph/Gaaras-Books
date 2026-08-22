@@ -133,6 +133,12 @@ to allocate while his hands are shaking. Seven kills by the end of the chapter.
 The level arrives mid-fight with two of them still on the floor, and he tells
 it "not now", and it does not go away, because it never goes away.
 
+Chapter 11: LEVEL 4 at eleven kills, four levels above expectation, because the
+price is weighted by what you kill and not by how many. HP 220, STR 14, DEX 10,
+CON 10, MP 60 still untouched, Class None. NINE unspent points banked and
+untouched. Dagger Mastery E to D, and the better window's first report is that
+his only weapon is cracked and will fail without warning.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

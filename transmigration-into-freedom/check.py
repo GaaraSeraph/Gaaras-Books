@@ -199,8 +199,13 @@ def progression(root):
             m = re.search(rf"^{k}:\s*([A-Za-z][A-Za-z ]*)$", t, re.M)
             if m:
                 upd.append((k, m.group(1).strip()))
-        for m in re.finditer(r"\[ SKILL ACQUIRED \][^\[]*?\n([A-Z][A-Za-z ]+?), Rank ([A-Z])", t):
-            name, rank = m.group(1).strip(), m.group(2)
+        # ACQUIRED nennt einen Rang, ADVANCED nennt "Rank E to Rank D". Ohne die
+        # zweite Form bleibt jeder Aufstieg fuer das Skript unsichtbar.
+        for m in re.finditer(r"\[ SKILL (?:ACQUIRED|ADVANCED) \][^\[]*?\n"
+                             r"([A-Z][A-Za-z ]+?), Rank ([A-Z])"
+                             r"(?:\s+to\s+Rank\s+([A-Z]))?", t):
+            name = m.group(1).strip()
+            rank = m.group(3) or m.group(2)
             if name in skills and RANKVAL.get(rank, 0) < RANKVAL.get(skills[name], 0):
                 viols.append(f"{ch}: Skill {name} faellt {skills[name]} -> {rank}")
             skills[name] = rank
