@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 39 Kapitel, 112.990 Woerter.
+2 Baende, 39 Kapitel, 112.997 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
 | 2 | 04 | v1.3 | 2.698 |
-| 2 | 05 | v1.4 | 2.841 |
+| 2 | 05 | v1.5 | 2.848 |
 
 ---
 
@@ -12220,7 +12220,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -12234,7 +12234,7 @@ He took the coat off and put it over the arm of the chair by the door, and then 
 
 ---
 
-Annie was standing at the window with the curtain not drawn and the drive dark behind her.
+Annie was at the window with the curtain not drawn and the drive dark behind the glass.
 
 "The order is not what is wrong with today," she said. "Give me all of it."
 
@@ -12458,7 +12458,7 @@ Annie stood up off the arm of the chair.
 
 ---
 
-He brought it and she did not take it. She waited until he had got the notebook out of the inside pocket himself. She waited again until he had opened it at the page. Then she read one line of his handwriting and gave it back without ever touching it.
+He brought it and she did not take it. She waited until he had got the notebook out of the inside pocket himself, and waited again until he had opened it at the page. Then she read one line of his handwriting while he held it, and never put a finger on it.
 
 "Keep it," she said. "It is no safer with me and I am not going to pretend otherwise."
 
@@ -12486,7 +12486,7 @@ He brought it and she did not take it. She waited until he had got the notebook 
 
 ---
 
-Georgij put the notebook back in the coat.
+Georgij put the notebook back in the inside pocket and the coat back over the arm of the chair.
 
 "And the paper?"
 
@@ -12506,7 +12506,7 @@ Annie went to the drawer on the left of the desk, which he has watched her open 
 
 ---
 
-He did not touch it either, and they left it on the blotter between them, which is where it stayed for the rest of the evening.
+Neither of them picked it up. It stayed on the blotter between them for the rest of the evening.
 
 ---
 

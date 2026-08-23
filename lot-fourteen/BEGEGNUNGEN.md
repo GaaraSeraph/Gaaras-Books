@@ -402,7 +402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
 | 60 | b2ch04:292 | Annie was in the small room with the door open. |
 | 60 | b2ch04:304 | "Take the coat off," said Annie. |
-| 60 | b2ch05:16 | Annie was standing at the window with the curtain not drawn and the drive dark behind her. |
+| 60 | b2ch05:16 | Annie was at the window with the curtain not drawn and the drive dark behind the glass. |
 | 60 | b2ch05:32 | "Sunwoo," said Annie. |
 | 60 | b2ch05:48 | Annie let that stand for a moment, and then she asked her first real question, which was.. |
 | 60 | b2ch05:76 | Annie turned round from the window then. |
