@@ -696,6 +696,23 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **SIM. Der erste Name auf der Gegenseite, der aus einem Beleg kommt und nicht
+  aus einem Verhoer.** Eckfeld beider Blumenzettel, Telefonnummer mit altem
+  Vorwahlblock. **Der Mann, der Fremden sagt, es sei schoen, sie wiederzusehen**
+  - bei Yeom vor vier Jahren, bei Mrs Gwak am selben Telefon. **Faellig: wer er
+  ist, und fuer wen er anruft.** Der Anrufer ist laut Kapitel 25 nicht der
+  Auftraggeber, sondern der davor.
+
+- **DIE ZWEI ADRESSEN.** Pyeongchang-dong mit Wohnung und Stock, und eine
+  ausserhalb der Stadt, **die keine Zimmernummer herausgibt.** Er ist am 30. Mai
+  zu keiner von beiden gefahren, und das war richtig. **Faellig: was an der
+  zweiten Adresse steht.** Bevor jemand hinfaehrt, muss klar sein, wer dort
+  mitbekommt, dass jemand gefragt hat.
+
+- **DER WAGEN VOM 26. APRIL.** Keine Briefkopf-Notiz im Heft, also kein Name -
+  aber ein Umzug aus der Stadt heraus, einen Tag vor der zweiten Lieferung.
+  **Wer bezahlt einen Wagen und laesst ihn ueber ein Auktionshaus abrechnen.**
+
 - **DER ARZT IM JULI. Ab Kapitel 30 der Faden, und Annie hat gesagt warum.**
   *"That is the first piece of paper in this entire business that was made by
   somebody who was not in the trade."* **Eine Praxis fuehrt Akten, und wer im

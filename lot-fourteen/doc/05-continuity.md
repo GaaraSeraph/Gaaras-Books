@@ -220,6 +220,13 @@ nachrechnen, und `check.py` tut das automatisch.
   18. Mai Annie gehoert** - mit dem Eigentuemernamen auf der ersten Seite.
   **Und er schlaeft zum ersten Mal in einem Raum ein, in dem sie ist**
   (Band 2, Kapitel 30)
+- Tag 239, Sa 30. Mai: **das Blumengeschaeft in Hyoja-dong.** Er fragt vorher um
+  den Tag und bekommt ihn. Die Doppelbuecher geben zwei Lieferungen drei Wochen
+  auseinander, **zwei verschiedene Adressen**, kein Kaertchen beim zweiten Mal
+  und die Bleistiftzeile des Fahrers: *"Left at the desk. They would not give a
+  room."* **Und den Namen des Bestellers: Sim** - der sich am Telefon bei einer
+  Fremden dafuer bedankt, sie wiedergesehen zu haben, genau wie bei Yeom vor vier
+  Jahren (Band 2, Kapitel 31)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1536,6 +1543,45 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann das Erste, was er in zwei Baenden in ihrer Gegenwart nicht kontrolliert: er schlaeft ein.** Kopf an der Seite des Schreibtischs, eine Hand offen auf dem Knie. **Annie bewegt das Bein eine Stunde und zwanzig Minuten lang nicht** und blaettert mit zwei Fingern.
 
   **Und um halb zwoelf sagt sie ein Wort laut, zu niemandem: "Yes."** Woraufhin, bleibt offen und soll offen bleiben.
+
+- **Band 2, Kapitel 31** *Nobody hides flowers* (v1.0) - **Tag 239, Sa 30. Mai. Zwei Szenen, der Schreibtisch vor sieben und ein Blumengeschaeft in Hyoja-dong.**
+
+  **Das Kapitel beginnt mit dem Anschluss an Kapitel 30:** er wacht um eins auf dem Boden des kleinen Zimmers auf, **mit einem Mantel ueber sich, der ihm nicht gehoert.** Um zehn vor sieben liegt der Mantel wieder ueber der Armlehne. Es wird kein Wort darueber gesagt.
+
+  **Er schreibt das Heft mit der Hand ab, nicht am Geraet**, weil er seit fuenf Monaten einem Kopierprotokoll rueckwaerts durch ein Gebaeude folgt (Kapitel 16).
+
+  **Und dabei findet er, dass Mrs Jeon ihm mehr gegeben hat, als sie gesagt hat.** Laut ausgesprochen waren es vier Posten. Auf der Zeile steht: *6 Apr. 27 Apr. Hyoja-dong Flowers, house acct, both. 26 Apr, car, no letterhead kept. 3 Jul, practice, no letterhead kept.* **Drei Briefkoepfe, einer ausgeschrieben** - weil das Haus dreissig Jahre lang jede Woche dort Blumen gekauft hat und sie diesen Namen im Schlaf schreiben konnte.
+
+  **Er fragt vorher um den Tag, und das ist die Zusage vom Vorabend in Betrieb**, ohne dass einer von beiden sie benennt. *"I would like the day." - "For what." - "The flowers."*
+
+  **Der Titel steht in seiner Begruendung:** *"A van had to go somewhere, and a man had to be told where, and somebody wrote the address down in the ordinary way."* - *"And nobody has thought about it since."* - **"Nobody has thought about it once. Nobody hides flowers."**
+
+  **Annie liefert das Risiko, und es ist neu im Buch:** *"Every door you have gone through this year belonged to somebody who already knew what he was standing in. Byun knew. Hwang knew. Yeom knew before you sat down. That shop does not."* Und: *"it is going to start being worth something, and you will be the reason, and it is the only copy."*
+
+  **Seine Antwort ist die Lehre aus Kapitel 30 in Handlungsform:** Original in die Hand nehmen und zurueckgeben, Kopie bezahlen, **und der Frau nicht sagen, was sie da hat** - *"The day she knows, she is a person who can be visited."*
+
+  ---
+
+  **Die Ladenszene ist die erste seit Kapitel 21, in der Georgij nichts drueckt, nichts tauscht und niemanden auseinandernimmt.** Er sagt einen wahren Satz und bekommt alles: *"There is a person the flowers went to, and I am trying to find out what became of them, and that is the whole of the truth about why I am standing here. I am not going to tell you the rest of it, because the rest of it is not mine to hand round a shop."*
+
+  **Mrs Gwak, etwa siebzig, Doppelbuecher mit Durchschlag im Schrank.** Ihr eigener Verlust steht daneben und wird nicht weggeredet: dreissig Jahre Dauerauftraege, und vom Ende erfuhr der Sohn **von einem Fensterputzer.** Georgijs Antwort dazu ist der haerteste kleine Satz des Kapitels: *"That is a kinder answer than the true one." - "It is the true one. The kinder one would have been that somebody meant to ring."*
+
+  **Was auf den beiden Durchschlaegen steht:**
+
+  - **6. Apr.** Zwoelf Stiele, weiss, ohne Papier. Adresse in Pyeongchang-dong mit Wohnungsnummer und Stock. Kaertchen, vom Mann der Inhaberin in Bleistift mitkopiert: ***"Card: From an old friend."***
+  - **27. Apr.** Dieselbe Bestellung. **Andere Adresse, ausserhalb der Stadt. Kein Kaertchen** - und der Laden fragt immer, also wurde er gefragt und hat nein gesagt.
+  - **Die Bleistiftzeile des Fahrers Han auf dem zweiten Zettel:** ***"Left at the desk. They would not give a room."***
+  - **Im Eckfeld beide Male derselbe Besteller: Sim.** Telefonisch, mit Nummer.
+
+  **Und die Arithmetik, die daraus eine Person macht:** dazwischen liegt auf ihrer Zeile der Wagen vom 26. **Jemand wurde am 26. aus der Stadt gebracht, am 27. gingen die Blumen an die neue Adresse, und der Absender musste nicht gefragt werden, wohin.**
+
+  **Die Bestaetigung kommt nicht aus einem Dokument, sondern aus einem Gedaechtnis.** Mrs Gwak hat den Anruf vier Jahre lang mit sich herumgetragen: *"It has been good to see you again."* **Zu einer Frau, mit der er nie zuvor gesprochen hatte** - genau das, was Mr Yeom in Kapitel 25 von demselben Anruferverhalten erinnert (*"He said he was glad we had met"*). **Zwei Menschen, die einander nie begegnet sind, und ein Tic.**
+
+  **Und der Schluss ist eine Unterlassung, die etwas kostet:** er hat zwei Adressen in der Tasche und faehrt zu keiner. *"It is the plan he would have run in April."*
+
+  **Der letzte Absatz benennt, warum ausgerechnet dieses Blatt existiert:** *"Everything else that anybody wrote down in this was written by somebody who knew it might one day be read. The only page in it with a person on it was written by a shop that had no idea it was writing anything at all."*
+
+  **Neu im Personal:** Mrs Gwak (Laden), Min-a (Aushilfe), Mr Han (Fahrer, achtzehn Jahre, schreibt auf alles). **Und Sim**, der Besteller, der bis hierhin nur eine Handschrift im Eckfeld und ein Satz am Telefon ist.
 
 ---
 

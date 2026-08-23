@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 131.393 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 132.662 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -135,8 +135,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Yeo](#mr-yeo)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mrs Jeon](#mrs-jeon)
-  - [Mr Yeom](#mr-yeom)
   - [Mr Ku](#mr-ku)
+  - [Mr Yeom](#mr-yeom)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
   - [Shin](#shin)
@@ -2337,6 +2337,13 @@ nachrechnen, und `check.py` tut das automatisch.
   18. Mai Annie gehoert** - mit dem Eigentuemernamen auf der ersten Seite.
   **Und er schlaeft zum ersten Mal in einem Raum ein, in dem sie ist**
   (Band 2, Kapitel 30)
+- Tag 239, Sa 30. Mai: **das Blumengeschaeft in Hyoja-dong.** Er fragt vorher um
+  den Tag und bekommt ihn. Die Doppelbuecher geben zwei Lieferungen drei Wochen
+  auseinander, **zwei verschiedene Adressen**, kein Kaertchen beim zweiten Mal
+  und die Bleistiftzeile des Fahrers: *"Left at the desk. They would not give a
+  room."* **Und den Namen des Bestellers: Sim** - der sich am Telefon bei einer
+  Fremden dafuer bedankt, sie wiedergesehen zu haben, genau wie bei Yeom vor vier
+  Jahren (Band 2, Kapitel 31)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3653,6 +3660,45 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann das Erste, was er in zwei Baenden in ihrer Gegenwart nicht kontrolliert: er schlaeft ein.** Kopf an der Seite des Schreibtischs, eine Hand offen auf dem Knie. **Annie bewegt das Bein eine Stunde und zwanzig Minuten lang nicht** und blaettert mit zwei Fingern.
 
   **Und um halb zwoelf sagt sie ein Wort laut, zu niemandem: "Yes."** Woraufhin, bleibt offen und soll offen bleiben.
+
+- **Band 2, Kapitel 31** *Nobody hides flowers* (v1.0) - **Tag 239, Sa 30. Mai. Zwei Szenen, der Schreibtisch vor sieben und ein Blumengeschaeft in Hyoja-dong.**
+
+  **Das Kapitel beginnt mit dem Anschluss an Kapitel 30:** er wacht um eins auf dem Boden des kleinen Zimmers auf, **mit einem Mantel ueber sich, der ihm nicht gehoert.** Um zehn vor sieben liegt der Mantel wieder ueber der Armlehne. Es wird kein Wort darueber gesagt.
+
+  **Er schreibt das Heft mit der Hand ab, nicht am Geraet**, weil er seit fuenf Monaten einem Kopierprotokoll rueckwaerts durch ein Gebaeude folgt (Kapitel 16).
+
+  **Und dabei findet er, dass Mrs Jeon ihm mehr gegeben hat, als sie gesagt hat.** Laut ausgesprochen waren es vier Posten. Auf der Zeile steht: *6 Apr. 27 Apr. Hyoja-dong Flowers, house acct, both. 26 Apr, car, no letterhead kept. 3 Jul, practice, no letterhead kept.* **Drei Briefkoepfe, einer ausgeschrieben** - weil das Haus dreissig Jahre lang jede Woche dort Blumen gekauft hat und sie diesen Namen im Schlaf schreiben konnte.
+
+  **Er fragt vorher um den Tag, und das ist die Zusage vom Vorabend in Betrieb**, ohne dass einer von beiden sie benennt. *"I would like the day." - "For what." - "The flowers."*
+
+  **Der Titel steht in seiner Begruendung:** *"A van had to go somewhere, and a man had to be told where, and somebody wrote the address down in the ordinary way."* - *"And nobody has thought about it since."* - **"Nobody has thought about it once. Nobody hides flowers."**
+
+  **Annie liefert das Risiko, und es ist neu im Buch:** *"Every door you have gone through this year belonged to somebody who already knew what he was standing in. Byun knew. Hwang knew. Yeom knew before you sat down. That shop does not."* Und: *"it is going to start being worth something, and you will be the reason, and it is the only copy."*
+
+  **Seine Antwort ist die Lehre aus Kapitel 30 in Handlungsform:** Original in die Hand nehmen und zurueckgeben, Kopie bezahlen, **und der Frau nicht sagen, was sie da hat** - *"The day she knows, she is a person who can be visited."*
+
+  ---
+
+  **Die Ladenszene ist die erste seit Kapitel 21, in der Georgij nichts drueckt, nichts tauscht und niemanden auseinandernimmt.** Er sagt einen wahren Satz und bekommt alles: *"There is a person the flowers went to, and I am trying to find out what became of them, and that is the whole of the truth about why I am standing here. I am not going to tell you the rest of it, because the rest of it is not mine to hand round a shop."*
+
+  **Mrs Gwak, etwa siebzig, Doppelbuecher mit Durchschlag im Schrank.** Ihr eigener Verlust steht daneben und wird nicht weggeredet: dreissig Jahre Dauerauftraege, und vom Ende erfuhr der Sohn **von einem Fensterputzer.** Georgijs Antwort dazu ist der haerteste kleine Satz des Kapitels: *"That is a kinder answer than the true one." - "It is the true one. The kinder one would have been that somebody meant to ring."*
+
+  **Was auf den beiden Durchschlaegen steht:**
+
+  - **6. Apr.** Zwoelf Stiele, weiss, ohne Papier. Adresse in Pyeongchang-dong mit Wohnungsnummer und Stock. Kaertchen, vom Mann der Inhaberin in Bleistift mitkopiert: ***"Card: From an old friend."***
+  - **27. Apr.** Dieselbe Bestellung. **Andere Adresse, ausserhalb der Stadt. Kein Kaertchen** - und der Laden fragt immer, also wurde er gefragt und hat nein gesagt.
+  - **Die Bleistiftzeile des Fahrers Han auf dem zweiten Zettel:** ***"Left at the desk. They would not give a room."***
+  - **Im Eckfeld beide Male derselbe Besteller: Sim.** Telefonisch, mit Nummer.
+
+  **Und die Arithmetik, die daraus eine Person macht:** dazwischen liegt auf ihrer Zeile der Wagen vom 26. **Jemand wurde am 26. aus der Stadt gebracht, am 27. gingen die Blumen an die neue Adresse, und der Absender musste nicht gefragt werden, wohin.**
+
+  **Die Bestaetigung kommt nicht aus einem Dokument, sondern aus einem Gedaechtnis.** Mrs Gwak hat den Anruf vier Jahre lang mit sich herumgetragen: *"It has been good to see you again."* **Zu einer Frau, mit der er nie zuvor gesprochen hatte** - genau das, was Mr Yeom in Kapitel 25 von demselben Anruferverhalten erinnert (*"He said he was glad we had met"*). **Zwei Menschen, die einander nie begegnet sind, und ein Tic.**
+
+  **Und der Schluss ist eine Unterlassung, die etwas kostet:** er hat zwei Adressen in der Tasche und faehrt zu keiner. *"It is the plan he would have run in April."*
+
+  **Der letzte Absatz benennt, warum ausgerechnet dieses Blatt existiert:** *"Everything else that anybody wrote down in this was written by somebody who knew it might one day be read. The only page in it with a person on it was written by a shop that had no idea it was writing anything at all."*
+
+  **Neu im Personal:** Mrs Gwak (Laden), Min-a (Aushilfe), Mr Han (Fahrer, achtzehn Jahre, schreibt auf alles). **Und Sim**, der Besteller, der bis hierhin nur eine Handschrift im Eckfeld und ein Satz am Telefon ist.
 
 ---
 
@@ -5327,6 +5373,23 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **SIM. Der erste Name auf der Gegenseite, der aus einem Beleg kommt und nicht
+  aus einem Verhoer.** Eckfeld beider Blumenzettel, Telefonnummer mit altem
+  Vorwahlblock. **Der Mann, der Fremden sagt, es sei schoen, sie wiederzusehen**
+  - bei Yeom vor vier Jahren, bei Mrs Gwak am selben Telefon. **Faellig: wer er
+  ist, und fuer wen er anruft.** Der Anrufer ist laut Kapitel 25 nicht der
+  Auftraggeber, sondern der davor.
+
+- **DIE ZWEI ADRESSEN.** Pyeongchang-dong mit Wohnung und Stock, und eine
+  ausserhalb der Stadt, **die keine Zimmernummer herausgibt.** Er ist am 30. Mai
+  zu keiner von beiden gefahren, und das war richtig. **Faellig: was an der
+  zweiten Adresse steht.** Bevor jemand hinfaehrt, muss klar sein, wer dort
+  mitbekommt, dass jemand gefragt hat.
+
+- **DER WAGEN VOM 26. APRIL.** Keine Briefkopf-Notiz im Heft, also kein Name -
+  aber ein Umzug aus der Stadt heraus, einen Tag vor der zweiten Lieferung.
+  **Wer bezahlt einen Wagen und laesst ihn ueber ein Auktionshaus abrechnen.**
+
 - **DER ARZT IM JULI. Ab Kapitel 30 der Faden, und Annie hat gesagt warum.**
   *"That is the first piece of paper in this entire business that was made by
   somebody who was not in the trade."* **Eine Praxis fuehrt Akten, und wer im
@@ -6552,13 +6615,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 508 | 53 (b1ch01-b2ch30) | 1 | 74 |
+| Annie | 513 | 54 (b1ch01-b2ch31) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
-| Mr Hwang | 55 | 7 (b2ch07-b2ch29) | 3 | 40 |
+| Mr Hwang | 56 | 8 (b2ch07-b2ch31) | 3 | 41 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 35 | 10 (b1ch07-b2ch26) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -6568,8 +6631,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mrs Jeon | 27 | 6 (b2ch06-b2ch30) | 5 | 40 |
+| Mr Ku | 26 | 18 (b1ch05-b2ch31) | 3 | 60 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
-| Mr Ku | 23 | 17 (b1ch05-b2ch29) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
@@ -6592,7 +6655,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-508 Nennungen in 53 Kapiteln.
+513 Nennungen in 54 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7104,6 +7167,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 40 | b2ch30:356 | "What," said Annie. |
 | 40 | b2ch30:370 | Annie's pen stopped. |
 | 40 | b2ch30:390 | Annie sat with the pen in her hand and did not move her leg, because moving it would hav.. |
+| 41 | b2ch31:46 | Annie was at the desk at ten to seven with her coat back over the arm of the chair. |
+| 41 | b2ch31:56 | Annie put the pen down, which she does not do for a question. |
+| 41 | b2ch31:80 | Annie read the line twice. |
+| 41 | b2ch31:94 | Annie sat with the page in front of her for a while. |
+| 41 | b2ch31:124 | Annie opened the drawer and counted out notes and put them on top of the copied page. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7238,6 +7306,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch30:330` (Tag 40) - four
 - `b2ch30:348` (Tag 40) - nine
 - `b2ch30:390` (Tag 40) - one, twenty, two
+- `b2ch31:46` (Tag 41) - seven, ten
 
 ---
 
@@ -8155,7 +8224,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-55 Nennungen in 7 Kapiteln.
+56 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8214,6 +8283,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch28:362 | "Yes," said Mr Hwang. "You should." |
 | 39 | b2ch28:380 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
 | 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
+| 41 | b2ch31:98 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -8780,6 +8850,57 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Ku
+
+26 Nennungen in 18 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:250 | "No," said Mr Ku. |
+| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
+| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
+| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
+| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
+| 41 | b2ch31:134 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
+| 41 | b2ch31:418 | Mr Ku had the car at the end of the street with the engine off and the window down. |
+| 41 | b2ch31:432 | Mr Ku looked at his empty hands in the mirror and pulled out. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch09:302` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:232` (Tag 4) - one
+- `b2ch14:236` (Tag 4) - forty
+- `b2ch20:280` (Tag 11) - four, one
+- `b2ch26:290` (Tag 38) - one
+- `b2ch31:134` (Tag 41) - two
+
+---
+
 ### Mr Yeom
 
 24 Nennungen in 2 Kapiteln.
@@ -8824,53 +8945,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:206` (Tag 32) - four
 - `b2ch25:236` (Tag 32) - twenty
 - `b2ch25:304` (Tag 32) - ten, three
-
----
-
-### Mr Ku
-
-23 Nennungen in 17 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:250 | "No," said Mr Ku. |
-| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
-| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
-| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:302` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:252` (Tag 3) - fifty-five
-- `b2ch14:232` (Tag 4) - one
-- `b2ch14:236` (Tag 4) - forty
-- `b2ch20:280` (Tag 11) - four, one
-- `b2ch26:290` (Tag 38) - one
 
 ---
 

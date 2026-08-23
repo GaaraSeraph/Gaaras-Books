@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 508 | 53 (b1ch01-b2ch30) | 1 | 74 |
+| Annie | 513 | 54 (b1ch01-b2ch31) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
-| Mr Hwang | 55 | 7 (b2ch07-b2ch29) | 3 | 40 |
+| Mr Hwang | 56 | 8 (b2ch07-b2ch31) | 3 | 41 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 35 | 10 (b1ch07-b2ch26) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -34,8 +34,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mrs Jeon | 27 | 6 (b2ch06-b2ch30) | 5 | 40 |
+| Mr Ku | 26 | 18 (b1ch05-b2ch31) | 3 | 60 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
-| Mr Ku | 23 | 17 (b1ch05-b2ch29) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-508 Nennungen in 53 Kapiteln.
+513 Nennungen in 54 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -570,6 +570,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 40 | b2ch30:356 | "What," said Annie. |
 | 40 | b2ch30:370 | Annie's pen stopped. |
 | 40 | b2ch30:390 | Annie sat with the pen in her hand and did not move her leg, because moving it would hav.. |
+| 41 | b2ch31:46 | Annie was at the desk at ten to seven with her coat back over the arm of the chair. |
+| 41 | b2ch31:56 | Annie put the pen down, which she does not do for a question. |
+| 41 | b2ch31:80 | Annie read the line twice. |
+| 41 | b2ch31:94 | Annie sat with the page in front of her for a while. |
+| 41 | b2ch31:124 | Annie opened the drawer and counted out notes and put them on top of the copied page. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -704,6 +709,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch30:330` (Tag 40) - four
 - `b2ch30:348` (Tag 40) - nine
 - `b2ch30:390` (Tag 40) - one, twenty, two
+- `b2ch31:46` (Tag 41) - seven, ten
 
 ---
 
@@ -1621,7 +1627,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-55 Nennungen in 7 Kapiteln.
+56 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1680,6 +1686,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch28:362 | "Yes," said Mr Hwang. "You should." |
 | 39 | b2ch28:380 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
 | 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
+| 41 | b2ch31:98 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2246,6 +2253,57 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Ku
+
+26 Nennungen in 18 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:250 | "No," said Mr Ku. |
+| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
+| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
+| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
+| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
+| 41 | b2ch31:134 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
+| 41 | b2ch31:418 | Mr Ku had the car at the end of the street with the engine off and the window down. |
+| 41 | b2ch31:432 | Mr Ku looked at his empty hands in the mirror and pulled out. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch09:302` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:232` (Tag 4) - one
+- `b2ch14:236` (Tag 4) - forty
+- `b2ch20:280` (Tag 11) - four, one
+- `b2ch26:290` (Tag 38) - one
+- `b2ch31:134` (Tag 41) - two
+
+---
+
 ## Mr Yeom
 
 24 Nennungen in 2 Kapiteln.
@@ -2290,53 +2348,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:206` (Tag 32) - four
 - `b2ch25:236` (Tag 32) - twenty
 - `b2ch25:304` (Tag 32) - ten, three
-
----
-
-## Mr Ku
-
-23 Nennungen in 17 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:250 | "No," said Mr Ku. |
-| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
-| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
-| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:302` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:252` (Tag 3) - fifty-five
-- `b2ch14:232` (Tag 4) - one
-- `b2ch14:236` (Tag 4) - forty
-- `b2ch20:280` (Tag 11) - four, one
-- `b2ch26:290` (Tag 38) - one
 
 ---
 
