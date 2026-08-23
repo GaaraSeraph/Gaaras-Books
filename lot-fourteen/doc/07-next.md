@@ -29,10 +29,11 @@ ihn noch nicht gezeigt.
 
 **Zwei Dinge daran sind offen und gehoeren entschieden:**
 
-1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt und dass es **zwei
-   Silben** sind, also ein Vorname. Annie hat im ganzen Buch keinen Nachnamen und
-   ist die einzige Figur ohne koreanischen Namen - was nie erklaert war und ab
-   Kapitel 24 Absicht ist.
+1. ~~**Wie er lautet.**~~ **Entschieden und im Text: Hye-jin.** Zwei Silben, also
+   ein Vorname, Kapitel 24, genau einmal, kursiv, in seinem Kopf. **Hier stand bis
+   zum 23.08., der Name sei offen** - falsch, und gefaehrlich, weil man daraufhin
+   einen zweiten erfindet. Sperrliste und Begruendung in `doc/05-continuity.md`.
+   **Der Familienname ist weiterhin nicht vergeben, und das ist Absicht.**
 2. **Wann er faellt.** Er benutzt ihn nicht, und das ist richtig: Ein Wort, das
    nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
    der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
@@ -277,8 +278,7 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
    auf der Bruecke, und das ist der Bruch mit der englischen Anrede und etwas
    anderes.
 
-   **Wie der Name lautet, ist weiterhin nicht entschieden, und der Nachname
-   ebenfalls nicht.** Zwei Silben heisst im Koreanischen: es ist ein **Vorname**.
+   **Der Vorname ist entschieden - Hye-jin -, der Familienname nicht.** Zwei Silben heisst im Koreanischen: es ist ein **Vorname**.
    Einen Familiennamen hat sie im ganzen Buch nicht, an keiner Stelle, und sie ist
    damit die einzige Figur ohne koreanischen Namen. **Das ist ab Kapitel 24 Absicht
    und keine Luecke** - *"It is on nothing."* Wer ihr einen Nachnamen gibt, hebt

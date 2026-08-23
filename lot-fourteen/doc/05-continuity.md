@@ -325,7 +325,17 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 **Wer spricht ihn, und wie oft.** **Sie**, zweimal, in dieser Szene - er bittet *"Say that again"*, und sie tut es. **Georgij nie.** Was er einmal benutzt, ist *Annie*, und zwar in **Kapitel 23** auf der Bruecke: *"So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time.* Das ist der Regelbruch mit der englischen Anrede und hat mit dem koreanischen Namen nichts zu tun. **Wer beides verwechselt, verbraucht den koreanischen Namen, ohne ihn geschrieben zu haben.**
 
-**Offen und bewusst offen:** Wie der Name lautet, steht noch nicht fest. Der Text sagt nur, dass sie ihn sagt und wie er klingt. **Annie hat im ganzen Buch keinen Nachnamen** und ist die einzige Figur ohne koreanischen Namen - das war nie erklaert und ist ab hier eine Absicht.
+**Der Name lautet Hye-jin, und er steht im Text.** Kapitel 24, **genau einmal**, kursiv, **nicht in seinem Mund, sondern in seinem Kopf**: *He had a place to put a thing like that, which was the same place he put a face at a door and a number in a margin.* **Hye-jin** *went in there and stayed, and he did not take it out again for a very long time.*
+
+**Bis zum 23.08. stand in dieser Datei und in `doc/07-next.md`, der Name sei noch nicht entschieden.** Das ist die gefaehrlichste Sorte Dokumentfehler: nicht veraltet, sondern eine Einladung, beim naechsten Mal einen zweiten Namen zu erfinden.
+
+**Warum diese zwei Silben, und das ist eine Sperrliste fuer alles Weitere.** Gewaehlt gegen die im Buch belegten Silben: **Ji-** ist doppelt vergeben (Ji-won, Ji-hoon), ebenso **Eun-** (Eun-ju), **Min-** (Min-ho), **Seo** (Mrs Seo) und **Tae-** (Tae-min). Alles auf **-won** verbietet sich neben den Won-Betraegen, und Jae-won gibt es ausserdem schon. Und er klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
+
+**Offene Kollision, gefunden am 23.08.:** In Kapitel 15 heisst eine der vier Konkurrenzgruppen **Hyeonjin** - *"Hyeonjin takes about a fifth of one lane."* Das ist nah. Entschaerft wird es dadurch, dass Hye-jin genau einmal kursiv in einem Kopf steht und Hyeonjin einmal in einer Firmenaufzaehlung. **Wenn es stoert, ist die Firma zu aendern und nicht sie**, weil ihr Name begruendet ist und die Firma einmal vorkommt.
+
+**Der Familienname ist weiterhin nicht vergeben, und das ist Absicht.** Sie hat im ganzen Buch keinen, an keiner Stelle - *"It is on nothing."* **Annie ist damit die einzige Figur ohne vollstaendigen koreanischen Namen.**
+
+**Offen bleibt nur noch, wann er faellt**, also wann Georgij ihn ausspricht.
 
 - **Kapitel 23** *Nobody weighs a door handle* (v3.5) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
