@@ -100,6 +100,15 @@ def check(path):
     if n > 1:
         errs.append(f'"would rather" steht {n} mal. Hoechstens einmal.')
 
+    # Erdkalender. Er ist seit Tagen in dieser Welt und kennt keine Wochentage,
+    # und niemand in Oldstep nennt je einen. Gefunden in ch13 als einziger
+    # Treffer in zwanzig Kapiteln, eingebaut beim Umschreiben der Byre-Szene.
+    for w in re.findall(r"\b(Monday|Tuesday|Wednesday|Thursday|Friday|"
+                        r"Saturday|Sunday|January|February|March|April|June|"
+                        r"July|August|September|October|November|December)\b", t):
+        errs.append(f'Erdkalender im Text: "{w}". Diese Welt hat keine Wochentage '
+                    f'und keine Monatsnamen.')
+
     # DiGiorno ist nicht jede Verneinung, sondern die POINTEN-FORM: ein kurzer
     # verneinter Satz, direkt gefolgt von der positiven Auffuellung.
     # "It is not a stream. This is a floor." feuert. "Not much, and never about

@@ -14,10 +14,21 @@ Marit Halden, Level 6
   it appalling, and the only part he would repeat is the walking. Her answer is
   the first line she ever said to him, returned: "Byre's this way. You snore,
   you sleep outside." And then: "It was not an invitation then."
-  He does not sleep in the byre. Written as adult and unmistakable, and the
-  door closes on the laughing. NOTE: the no-cut-at-the-door rule changed at
-  ch19 and this scene was NOT rewritten. If it ever is, it is the author's
-  call and not a tidy-up. Afterwards he checks the
+  He does not sleep in the byre. REWRITTEN under the changed rule (author's
+  call, after ch20), so it is now on the page rather than behind a door.
+  WHAT MAKES THE SCENE HERS AND NOT A REPEAT OF ch20: the strapped arm and
+  the ribs. She cannot take weight on the right side, cannot get out of her
+  own shirt, and hates being handled. He keeps his weight off that side all
+  night and never once says he is doing it, and that is the only tenderness
+  he trusts, because it cannot be misheard as a promise.
+  SHE IS THE FIRST PERSON IN THIS WORLD TO FIND OUT ABOUT ORAL, day three,
+  and she does not know what is being offered. "Then everybody where you
+  come from is very stupid about a great many things, and extremely sensible
+  about one."
+  AND SHE RUNS THE SECOND HALF. She gets him onto his back because that is
+  what one arm can manage, tells him what she wants in the flat voice she
+  uses for rope and ground, and then tells him again, harder.
+  The panel beat is unchanged and stays exactly as written. Afterwards he checks the
   panel and it has no line for any of it, and he says out loud that it should
   keep it that way.
   THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction

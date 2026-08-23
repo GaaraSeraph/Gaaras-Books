@@ -3,6 +3,46 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== A new check, and it nearly shipped dead ===
+Rewriting the ch13 byre scene put the word TUESDAY into the text. It was the
+only weekday name in twenty chapters, in a book whose protagonist has been in
+this world three days and cannot know the local calendar.
+SO check.py NOW REFUSES EARTH WEEKDAYS AND MONTH NAMES. And the rule about
+rules held: the first version DID NOT FIRE. The \\b in the regex had been
+turned into a literal BACKSPACE BYTE (0x08) on the way into the file, so the
+pattern demanded a control character before Monday and could never match. It
+reported a clean chapter over a chapter that still said Tuesday.
+That is exactly the failure the house rule names: a silent run proves nothing.
+It was only caught because the text was deliberately broken first and the check
+was watched for the fire. Do that every single time.
+AND THE REPAIRED CHECK IMMEDIATELY FOUND A SECOND ONE that had been sitting in
+ch4 since day one: "They smell like a butcher's bin in August." Now high
+summer, which every world has. Two hits, one of them eighteen chapters old, on
+the first honest run.
+
+
+=== Chapter 13 rewritten under the new rule ===
+The author's call, taken straight after ch20. The byre scene no longer closes a
+door on the laughing.
+THE DANGER WAS WRITING ch20 AGAIN WITH DIFFERENT NAMES, and the thing that
+prevents it was already in the text: MARIT HAS ONE ARM OUT OF ACTION AND CRACKED
+RIBS. She cannot undress herself, cannot take weight on the right, and refuses
+to be treated as an invalid. So the scene is built round a physical constraint
+instead of round discovery, and the tenderness is practical - he keeps his
+weight off that side for the whole night and never mentions it, because that is
+the only kind he trusts, since it cannot be misheard as a promise.
+AND SHE IS FIRST. Day three, before Sivert on day seven. Both of them find out
+about oral from him and neither knows what is being offered, which puts the
+world fact in the right order and makes his ch20 line the remark of a man with
+exactly one data point.
+SHE RUNS THE SECOND HALF, one-handed, in the flat voice she uses for rope and
+ground. The ch20 inversion (he goes quiet and lets himself be run) turns out to
+have started here, four chapters earlier, which was not planned and is better
+than planned.
+THE PANEL BEAT IS UNTOUCHED. It is referenced elsewhere and it still lands.
+Chapter now 2608 words, over target, and it stays that way. Same call as ch14.
+
+
 === What he is actually like in bed, specified by the author ===
 Not a taste list bolted onto a character. All of it falls out of the one thing
 he has been since chapter one: HE PAYS ATTENTION. Discovering the other person,

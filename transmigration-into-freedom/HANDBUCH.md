@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 30.795 Woerter.
+Alle 4 Dokumente am Stueck. 31.494 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -31,10 +31,21 @@ Marit Halden, Level 6
   it appalling, and the only part he would repeat is the walking. Her answer is
   the first line she ever said to him, returned: "Byre's this way. You snore,
   you sleep outside." And then: "It was not an invitation then."
-  He does not sleep in the byre. Written as adult and unmistakable, and the
-  door closes on the laughing. NOTE: the no-cut-at-the-door rule changed at
-  ch19 and this scene was NOT rewritten. If it ever is, it is the author's
-  call and not a tidy-up. Afterwards he checks the
+  He does not sleep in the byre. REWRITTEN under the changed rule (author's
+  call, after ch20), so it is now on the page rather than behind a door.
+  WHAT MAKES THE SCENE HERS AND NOT A REPEAT OF ch20: the strapped arm and
+  the ribs. She cannot take weight on the right side, cannot get out of her
+  own shirt, and hates being handled. He keeps his weight off that side all
+  night and never once says he is doing it, and that is the only tenderness
+  he trusts, because it cannot be misheard as a promise.
+  SHE IS THE FIRST PERSON IN THIS WORLD TO FIND OUT ABOUT ORAL, day three,
+  and she does not know what is being offered. "Then everybody where you
+  come from is very stupid about a great many things, and extremely sensible
+  about one."
+  AND SHE RUNS THE SECOND HALF. She gets him onto his back because that is
+  what one arm can manage, tells him what she wants in the flat voice she
+  uses for rope and ground, and then tells him again, harder.
+  The panel beat is unchanged and stays exactly as written. Afterwards he checks the
   panel and it has no line for any of it, and he says out loud that it should
   keep it that way.
   THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction
@@ -569,6 +580,46 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== A new check, and it nearly shipped dead ===
+Rewriting the ch13 byre scene put the word TUESDAY into the text. It was the
+only weekday name in twenty chapters, in a book whose protagonist has been in
+this world three days and cannot know the local calendar.
+SO check.py NOW REFUSES EARTH WEEKDAYS AND MONTH NAMES. And the rule about
+rules held: the first version DID NOT FIRE. The \\b in the regex had been
+turned into a literal BACKSPACE BYTE (0x08) on the way into the file, so the
+pattern demanded a control character before Monday and could never match. It
+reported a clean chapter over a chapter that still said Tuesday.
+That is exactly the failure the house rule names: a silent run proves nothing.
+It was only caught because the text was deliberately broken first and the check
+was watched for the fire. Do that every single time.
+AND THE REPAIRED CHECK IMMEDIATELY FOUND A SECOND ONE that had been sitting in
+ch4 since day one: "They smell like a butcher's bin in August." Now high
+summer, which every world has. Two hits, one of them eighteen chapters old, on
+the first honest run.
+
+
+=== Chapter 13 rewritten under the new rule ===
+The author's call, taken straight after ch20. The byre scene no longer closes a
+door on the laughing.
+THE DANGER WAS WRITING ch20 AGAIN WITH DIFFERENT NAMES, and the thing that
+prevents it was already in the text: MARIT HAS ONE ARM OUT OF ACTION AND CRACKED
+RIBS. She cannot undress herself, cannot take weight on the right, and refuses
+to be treated as an invalid. So the scene is built round a physical constraint
+instead of round discovery, and the tenderness is practical - he keeps his
+weight off that side for the whole night and never mentions it, because that is
+the only kind he trusts, since it cannot be misheard as a promise.
+AND SHE IS FIRST. Day three, before Sivert on day seven. Both of them find out
+about oral from him and neither knows what is being offered, which puts the
+world fact in the right order and makes his ch20 line the remark of a man with
+exactly one data point.
+SHE RUNS THE SECOND HALF, one-handed, in the flat voice she uses for rope and
+ground. The ch20 inversion (he goes quiet and lets himself be run) turns out to
+have started here, four chapters earlier, which was not planned and is better
+than planned.
+THE PANEL BEAT IS UNTOUCHED. It is referenced elsewhere and it still lands.
+Chapter now 2608 words, over target, and it stays that way. Same call as ch14.
 
 
 === What he is actually like in bed, specified by the author ===
@@ -1433,7 +1484,15 @@ is not guesswork, because a person in the dark cannot help answering.
   because HE DOES NOT EXPLAIN HIMSELF.
   THE PANEL STAYS OUT. In ch13 he checked afterwards and it had no line for any
   of it, and he said it should keep it that way. Do not run that beat again.
-  ch13 IS NOT RETROFITTED unless the author says so. Left as it stands.
+  ch13 WAS RETROFITTED, on the author's instruction, immediately after ch20.
+  NO EARTH WEEKDAYS OR MONTH NAMES ANYWHERE. check.py enforces it now. He has
+  been here days and cannot know the local calendar, and nobody in Oldstep
+  ever names one. Seasons are fine: high summer, harvest, spring.
+  MARIT IS THEREFORE THE FIRST, on day three, and Sivert on day seven is the
+  second, and neither of them knows what is being offered. Gaara's ch20 line
+  ("something they clearly do not do here") is a man with one data point,
+  and that is the right order. Do not add a third discovery scene: the world
+  fact is established, and from here it is known to him and new to them.
 
 
 === 2. THE SYSTEM ===

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 41.437 Woerter.
+20 Kapitel. 42.106 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -11,7 +11,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 01 | Chapter 1: Awakening in Ash | 2.505 |
 | 02 | Chapter 2: First Blood. First Skill | 2.471 |
 | 03 | Chapter 3: Dead Man's Boots | 2.475 |
-| 04 | Chapter 4: Liars Decorate | 2.172 |
+| 04 | Chapter 4: Liars Decorate | 2.173 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
 | 06 | Chapter 6: Every Plan I Make Is for One | 2.396 |
 | 07 | Chapter 7: How Did You Know | 1.868 |
@@ -20,7 +20,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 10 | Chapter 10: The Price Went Up | 1.941 |
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
-| 13 | Chapter 13: The Cost of Shutting a Door | 1.932 |
+| 13 | Chapter 13: The Cost of Shutting a Door | 2.600 |
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
 | 16 | Chapter 16: Something Is Drinking It | 2.354 |
@@ -807,7 +807,7 @@ That landed somewhere. He watched it land, and watched her decide not to show hi
 
 "Describe them."
 
-"Body about the size of a pig, six legs, two whip arms with barbs. Red eyes, six of them on the big one. They smell like a butcher's bin in August." He shrugged. "The big one favours wide sweeps and lifts its head at the end of them. That is where the plate stops. There is a seam behind the skull, about two fingers wide."
+"Body about the size of a pig, six legs, two whip arms with barbs. Red eyes, six of them on the big one. They smell like a butcher's bin in high summer." He shrugged. "The big one favours wide sweeps and lifts its head at the end of them. That is where the plate stops. There is a seam behind the skull, about two fingers wide."
 
 Her face changed at that. Properly, this time.
 
@@ -2822,9 +2822,67 @@ She looked at him for a long moment with water running off her wrist.
 
 He did not sleep in the byre.
 
-There was a bed under the eaves of the Halden house, with a good wool blanket and a window that did not shut properly.
+There was a bed under the eaves of the Halden house, with a good wool blanket and a window that did not shut properly, and a draught off it that neither of them noticed for some time.
+
+The arm was the first problem and it was not a small one. She had barbs across the right forearm and up under the arm into the ribs, and she could not put weight on that side. She got about a third of the way out of her shirt before she made a noise she had not wanted to make.
+
+"Stop," said Gaara. "Sit. Let me."
+
+"I am not an invalid."
+
+"You are not an invalid and I am not being noble. I am being greedy and slow on purpose and you are in my way." He got the shirt over the strapping without touching it. "There. Now be quiet for a moment, because I have not looked at you properly since the road, and I intend to do it now."
+
+"You look at everybody properly. It is the most irritating thing about you."
+
+"I look at everybody for information," said Gaara. "This is not that."
+
+She let him.
+
+He took his time about it. He had never in his life been able to do a thing quickly that was worth doing slowly, and he had spent three days reading a panel that gave him numbers and nothing that mattered. There was no number over any of this. He had to find it out.
+
+So he found it out. The inside of her wrist, above where the strapping started. The base of her throat. The place behind her ear where her jaw met her neck, which made her hand close hard in the blanket. The back of her knee, which surprised her considerably more than it surprised him.
+
+"How do you know that," she said.
+
+"I do not know anything. I am watching you and you keep answering."
+
+"Stop narrating."
+
+"Absolutely not."
+
+He learned the ribs by the sound she made when he came near them, and after that he went round them, and she noticed him going round them and said nothing about it. He kept his weight off her right side for the whole of the night without once mentioning that he was doing it. That was the only tenderness he had that he trusted, because it did not require him to say anything and could not be misheard as a promise.
+
+Then he went lower, and she got a fistful of his hair and stopped him.
+
+"What are you doing."
+
+"Something I would like to do, and which you can say no to in one syllable, and I will go straight back to what I was doing and not sulk."
+
+"I do not know what you are asking me."
+
+"I had begun to suspect that," said Gaara, "and I want to say, with genuine feeling, that this is the worst thing I have learned about this world so far."
+
+Her hand opened.
+
+She was quiet for a long time after that, in a way that had nothing to do with being quiet. Then she was not quiet at all. Then she said his name in a voice he had not heard her use about anything.
+
+Afterwards she lay with her good arm over her eyes and got her breathing back.
+
+"Is that a thing where you come from," she said.
+
+"It is."
+
+"Everybody."
+
+"Broadly."
+
+"Then everybody where you come from is very stupid about a great many things," said Marit, "and extremely sensible about one."
 
 There was a considerable amount of laughing at the wrong moments, some of it about the strapped arm and most of it about him.
+
+Then there was not.
+
+She got him onto his back, because she could manage that one-handed. She told him what she wanted in the flat voice she used for rope and ground and other things she knew about. Then she told him again, harder, and he did what he was told for a considerable length of time. His arms had opinions by the end of it. He ignored them, because the only thing in that room he was interested in was the sound she was making, and he would have gone on until the roof came off.
 
 At one point she told him to stop talking, and he did, which had now happened exactly twice in his life and both times in this village.
 

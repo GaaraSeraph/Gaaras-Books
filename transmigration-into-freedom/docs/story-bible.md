@@ -192,7 +192,15 @@ is not guesswork, because a person in the dark cannot help answering.
   because HE DOES NOT EXPLAIN HIMSELF.
   THE PANEL STAYS OUT. In ch13 he checked afterwards and it had no line for any
   of it, and he said it should keep it that way. Do not run that beat again.
-  ch13 IS NOT RETROFITTED unless the author says so. Left as it stands.
+  ch13 WAS RETROFITTED, on the author's instruction, immediately after ch20.
+  NO EARTH WEEKDAYS OR MONTH NAMES ANYWHERE. check.py enforces it now. He has
+  been here days and cannot know the local calendar, and nobody in Oldstep
+  ever names one. Seasons are fine: high summer, harvest, spring.
+  MARIT IS THEREFORE THE FIRST, on day three, and Sivert on day seven is the
+  second, and neither of them knows what is being offered. Gaara's ch20 line
+  ("something they clearly do not do here") is a man with one data point,
+  and that is the right order. Do not add a third discovery scene: the world
+  fact is established, and from here it is known to him and new to them.
 
 
 === 2. THE SYSTEM ===

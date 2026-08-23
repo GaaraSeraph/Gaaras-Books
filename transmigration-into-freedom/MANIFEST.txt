@@ -3,7 +3,7 @@
 ch01    2505 Woerter  ch01-awakening-in-ash.md
 ch02    2471 Woerter  ch02-first-blood-first-skill.md
 ch03    2475 Woerter  ch03-dead-mans-boots.md
-ch04    2172 Woerter  ch04-liars-decorate.md
+ch04    2173 Woerter  ch04-liars-decorate.md
 ch05    1697 Woerter  ch05-the-lamp-goes-out.md
 ch06    2396 Woerter  ch06-every-plan-i-make-is-for-one.md
 ch07    1868 Woerter  ch07-how-did-you-know.md
@@ -12,7 +12,7 @@ ch09    1571 Woerter  ch09-what-the-panel-will-not-say.md
 ch10    1941 Woerter  ch10-the-price-went-up.md
 ch11    1691 Woerter  ch11-nobody-carries-a-stick.md
 ch12    2127 Woerter  ch12-for-the-record.md
-ch13    1932 Woerter  ch13-the-cost-of-shutting-a-door.md
+ch13    2600 Woerter  ch13-the-cost-of-shutting-a-door.md
 ch14    2693 Woerter  ch14-say-it-in-the-road.md
 ch15    2026 Woerter  ch15-two-to-four-hard-uses.md
 ch16    2354 Woerter  ch16-something-is-drinking-it.md
@@ -21,5 +21,5 @@ ch18    2071 Woerter  ch18-somebody-has-to-hold-him.md
 ch19    2239 Woerter  ch19-a-name-for-the-knife.md
 ch20    1761 Woerter  ch20-two-arms.md
 
-Gesamt: 20 Kapitel, 41437 Woerter
+Gesamt: 20 Kapitel, 42106 Woerter
 Handbuch: 4 Dokumente
