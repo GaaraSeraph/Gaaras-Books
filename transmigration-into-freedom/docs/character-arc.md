@@ -229,6 +229,15 @@ points still banked and he has not spent one since ch12. The Wold is paying in
 money, institutions and names instead, and that has worked for two chapters, but
 ch23 or ch24 has to put him back in front of something that can hurt him.
 
+Chapter 25: LEVEL 6 at fifteen kills, and the price held. The nine in ch17 was
+worth most of a level; the eleven here was worth the rest and change; the five
+kills the party took that morning were worth nothing to him at all. ONE LEVEL IN
+EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, three unspent.
+THE STAGE 4 MILESTONE IS DELIVERED and it was overdue since ch12: Marit ran two
+trips into the city without him and lost nobody, using the wall instead of the
+numbers because she cannot see the numbers. She also improved the doctrine,
+which is the part that makes it a real handover rather than a copy of him.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

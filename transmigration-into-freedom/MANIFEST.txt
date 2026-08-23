@@ -24,6 +24,7 @@ ch21    2888 Woerter  ch21-the-only-book-there-is.md
 ch22    1188 Woerter  ch22-a-hand-changes-a-noise.md
 ch23    2531 Woerter  ch23-two-coins-short.md
 ch24    2211 Woerter  ch24-somebody-has-to-look-at-him.md
+ch25    1611 Woerter  ch25-the-first-of-four.md
 
-Gesamt: 24 Kapitel, 52704 Woerter
+Gesamt: 25 Kapitel, 54315 Woerter
 Handbuch: 4 Dokumente

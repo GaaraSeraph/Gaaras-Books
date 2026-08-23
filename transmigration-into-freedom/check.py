@@ -71,8 +71,9 @@ CANON_NUMBERS = [
     # Preisleiter, ch20 auf der Strasse in den Wold. Recheneinheit ist die
     # Ziege, nicht die Muenze. Elf Muenzen = eine gute Ziege und etwas darueber.
     (re.compile(rf"\b({NUMWORD})\s+goats\b", re.I),
-     {"four", "4", "forty", "40", "eight", "8", "twenty", "20", "thirty", "30"},
-     "Preisleiter: Klinge 4, Milchkuh 8, Ochse 20, Pferd 30, Buch 40 Ziegen"),
+     {"four", "4", "forty", "40", "eight", "8", "twenty", "20", "thirty", "30",
+      "nine", "9"},   # neun = die Schleusenplatte aus dem Aquaedukt (ch25)
+     "Preisleiter: Klinge 4, Milchkuh 8, Platte 9, Ochse 20, Pferd 30, Buch 40"),
     (re.compile(rf"skin of parchment[^.\n]{{0,30}}?\b({NUMWORD})\b", re.I),
      {"a", "one", "1"}, "eine Haut Pergament kostet eine Ziege"),
 ]

@@ -3,6 +3,36 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Too much preparation, so ch25 goes in ===
+Author: six chapters of setup in a row and he is bored of it. Correct - 19 the
+smith, 20 the departure, 21 the guild, 22 the loft, 23 the registration, 24 the
+negotiation. Every one of them arranging something.
+SO ch25 SKIPS THE TRAVEL ENTIRELY and opens with Marit already reporting. No
+walk back to Oldstep, no reunion scene, no briefing. The chapter is the work.
+AND THE WORK IS NOT HUNTING, which keeps it from being a repeat of ch17: they
+are stripping a dead city of eight hundred years of ironmongery. "The metal is
+the job. The killing is the weather." Ylva runs it and Gaara carries, and he is
+aware of it and does not mind, which is new for him.
+THE BLADE IS NOT THERE YET, deliberately: eleven days, against the first of the
+metal, so trip one happens with Brick. The reward arrives after the risk.
+THE CON PURCHASE PAYS IN ONE SENTENCE and is never explained: an eleven puts him
+into a wall and HE GETS UP AT THE SAME SPEED HE WENT DOWN. "Oh, that is what
+that is for." A mechanical purchase cashed physically.
+AND BERN'S RULE GETS ITS TEST: nine people holding nine goats' worth of iron put
+all of it on the ground because Marit says one word. That is why it went in.
+
+=== Marit delivers the Stage 4 milestone ===
+Owed since ch12 and finally paid: something he set up works while he is not
+there. Two trips, nine kills, nobody lost.
+THE PART THAT MAKES IT REAL IS THAT SHE IS NOT A COPY OF HIM. She cannot see
+levels, so she called the wall instead of the numbers, and it worked. AND SHE
+IMPROVED THE DOCTRINE: home the moment Ask goes quiet, because Ask going quiet
+is Ask frightened and he has no other way of saying it. That is a rule Gaara
+could not have written, because it requires knowing Ask for years.
+AND SHE REFUSES THE CREDIT: not the front page, the middle, "because I am not
+having what Bern has." She has watched what being named at the top costs.
+
+
 === Chapter 24, and the author was right that Gaara is irrelevant here ===
 He pushed twice. First: is Ordulf's fear not simply that another person he knows
 dies, and would Gaara not then be beside the point? Yes, and it is better than

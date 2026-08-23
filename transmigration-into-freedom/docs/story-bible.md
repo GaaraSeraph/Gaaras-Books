@@ -30,7 +30,8 @@ nicht diese Zeile von Hand.
 22. A Hand Changes a Noise
 23. Two Coins Short
 24. Somebody Has to Look at Him
-25. (planned) the lord's man, and the first trip back in
+25. The First of Four
+26. (planned) the lord's man, and trip two with Solva
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -759,6 +760,20 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   not his. "He read it, and filed it, and put it away, and did not use it, and
   was aware of exactly how much he wanted to."
 
+- (ch25) LEVEL 6, AND THE CON PURCHASE PAYS OFF IN ONE SENTENCE. A Level 11
+  Roofwalker puts him into a wall and he GETS BACK UP AT THE SAME SPEED HE WENT
+  DOWN. No grey at the edges, no arithmetic about whether the leg holds. "Oh,
+  that is what that is for." That is the whole return on ch24, delivered
+  physically rather than explained.
+  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, THREE unspent points.
+  Arithmetic checked against ch24: 345 + 20 (level) + 15 (CON) = 380.
+- (ch25) THE LEVEL ECONOMY IS NOW STATED AS POLICY. "The nine in the avenue was
+  worth most of a level on its own. The eleven was worth the rest of it and
+  change. Everything above me pays like that, and everything below me pays
+  nothing at all." Marit: "So we hunt up." "We hunt up on purpose and never by
+  accident." ONE LEVEL IN EIGHT DAYS, which he calls appalling and the
+  best-earned thing on the sheet.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1083,6 +1098,42 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The first trip, and the Stage 4 milestone lands (ch25)
+- MARIT TOOK THEM IN TWICE WHILE HE WAS AWAY AND LOST NOBODY. Four hours, then
+  most of a day. Nine kills. SHE TELLS HIM BEFORE SHE TELLS HIM HELLO.
+  THIS IS THE MILESTONE character-arc.md has been owed since ch12: something he
+  built works while he is not there, and it is not a copy of him.
+  SHE DID NOT CALL NUMBERS, SHE CALLED THE WALL, because she cannot see levels.
+  AND SHE ADDS A RULE HE DID NOT HAVE: send them home the moment Ask goes quiet,
+  because Ask going quiet is Ask frightened and he has no other way to say it.
+  "That is not in your six lines and it should be."
+  AND SHE REFUSES THE FRONT PAGE: "It is going in the middle, because I am not
+  having what Bern has." Do not give her the honour she declined.
+- THE JOB IS STRIPPING, NOT HUNTING, and he says it in the street: everything
+  that was ever nailed down in this city is still nailed down. Hinges, brackets,
+  pins, straps, anything with a shank on it. "THE METAL IS THE JOB. THE KILLING
+  IS THE WEATHER."
+- YLVA RUNS THE FIRST FOUR HOURS AND HE CARRIES. He is aware of it and does not
+  mind, which is new. She is the only one who knows what to take, and she reads
+  the city the way he reads people: nine nails all the same length means
+  somebody made them to a measure, and nobody makes nails to a measure.
+- THE SLUICE GATE from the foot of the nearest aqueduct leg. Iron, the size of a
+  table, half an inch thick. He prices it at four goats and Ylva corrects him to
+  NINE, which is now canon and guarded in check.py.
+- BERN'S RULE WORKS UNDER LOAD, which is the point of putting it in ch20. Ask
+  stops and turns his head ten degrees, Marit says one word, and EVERY PERSON
+  PUTS DOWN NINE GOATS OF IRON WITHOUT ARGUING. Nobody argues in the room.
+- THE ELEVEN IS FASTER THAN THE NINE and he says so while it is happening. He
+  gets to the seam quicker than in ch17 and is still not quick enough, because
+  an eleven is not a nine. Four strokes again, fourth goes through.
+- SOLVA GOES UP NEXT TIME, and it is him correcting ch14 out loud: "Sooner or
+  later somebody needs her at the top of that hill instead of the bottom."
+  "You told her she would slow us down." "I did. I have been wrong about
+  numbers rather a lot this month and I have started keeping a list."
+- AND BERN COUNTS THE PARTY TWICE BEFORE HE LETS HIS FACE DO ANYTHING. "Nine
+  went up." "Nine came down." "Say the rest of it." "One shoulder, one set of
+  ribs, both his." "Then it worked."
 
 Ordulf, and the one wall talking cannot get through (ch24)
 - THE OBJECTION WAS NEVER ABOUT GAARA, which is the author's read and it is the

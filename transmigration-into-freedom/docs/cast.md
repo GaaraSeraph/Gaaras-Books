@@ -259,6 +259,15 @@ Runa, button seller (ch23)
 - SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
 
+Marit, ch25: RAN THE CITY TWICE WITHOUT HIM. Four hours, then most of a day,
+nine kills, nobody lost. Called the wall rather than the numbers. ADDED A RULE
+TO THE DOCTRINE that he did not have: home the moment Ask goes quiet. Refused
+the front page for it - "I am not having what Bern has."
+
+Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
+his head ten degrees, and goes still, and that is Ask being frightened. He has
+no other way of saying it and Marit is the one who worked that out.
+
 Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
 - Forge three times the size of Rulf's, hot before dawn, racks down the whole
   south wall. LEVEL 9. Built like something you would need a horse to move.

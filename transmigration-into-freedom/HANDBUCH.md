@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 24 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 55.616 Woerter.
+Kanon: 25 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 56.860 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -275,6 +275,15 @@ Runa, button seller (ch23)
   him apart in one sentence without raising her voice.
 - SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
+
+Marit, ch25: RAN THE CITY TWICE WITHOUT HIM. Four hours, then most of a day,
+nine kills, nobody lost. Called the wall rather than the numbers. ADDED A RULE
+TO THE DOCTRINE that he did not have: home the moment Ask goes quiet. Refused
+the front page for it - "I am not having what Bern has."
+
+Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
+his head ten degrees, and goes still, and that is Ask being frightened. He has
+no other way of saying it and Marit is the one who worked that out.
 
 Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
 - Forge three times the size of Rulf's, hot before dawn, racks down the whole
@@ -604,6 +613,15 @@ points still banked and he has not spent one since ch12. The Wold is paying in
 money, institutions and names instead, and that has worked for two chapters, but
 ch23 or ch24 has to put him back in front of something that can hurt him.
 
+Chapter 25: LEVEL 6 at fifteen kills, and the price held. The nine in ch17 was
+worth most of a level; the eleven here was worth the rest and change; the five
+kills the party took that morning were worth nothing to him at all. ONE LEVEL IN
+EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, three unspent.
+THE STAGE 4 MILESTONE IS DELIVERED and it was overdue since ch12: Marit ran two
+trips into the city without him and lost nobody, using the wall instead of the
+numbers because she cannot see the numbers. She also improved the doctrine,
+which is the part that makes it a real handover rather than a copy of him.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -716,6 +734,36 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Too much preparation, so ch25 goes in ===
+Author: six chapters of setup in a row and he is bored of it. Correct - 19 the
+smith, 20 the departure, 21 the guild, 22 the loft, 23 the registration, 24 the
+negotiation. Every one of them arranging something.
+SO ch25 SKIPS THE TRAVEL ENTIRELY and opens with Marit already reporting. No
+walk back to Oldstep, no reunion scene, no briefing. The chapter is the work.
+AND THE WORK IS NOT HUNTING, which keeps it from being a repeat of ch17: they
+are stripping a dead city of eight hundred years of ironmongery. "The metal is
+the job. The killing is the weather." Ylva runs it and Gaara carries, and he is
+aware of it and does not mind, which is new for him.
+THE BLADE IS NOT THERE YET, deliberately: eleven days, against the first of the
+metal, so trip one happens with Brick. The reward arrives after the risk.
+THE CON PURCHASE PAYS IN ONE SENTENCE and is never explained: an eleven puts him
+into a wall and HE GETS UP AT THE SAME SPEED HE WENT DOWN. "Oh, that is what
+that is for." A mechanical purchase cashed physically.
+AND BERN'S RULE GETS ITS TEST: nine people holding nine goats' worth of iron put
+all of it on the ground because Marit says one word. That is why it went in.
+
+=== Marit delivers the Stage 4 milestone ===
+Owed since ch12 and finally paid: something he set up works while he is not
+there. Two trips, nine kills, nobody lost.
+THE PART THAT MAKES IT REAL IS THAT SHE IS NOT A COPY OF HIM. She cannot see
+levels, so she called the wall instead of the numbers, and it worked. AND SHE
+IMPROVED THE DOCTRINE: home the moment Ask goes quiet, because Ask going quiet
+is Ask frightened and he has no other way of saying it. That is a rule Gaara
+could not have written, because it requires knowing Ask for years.
+AND SHE REFUSES THE CREDIT: not the front page, the middle, "because I am not
+having what Bern has." She has watched what being named at the top costs.
 
 
 === Chapter 24, and the author was right that Gaara is irrelevant here ===
@@ -2363,7 +2411,8 @@ nicht diese Zeile von Hand.
 22. A Hand Changes a Noise
 23. Two Coins Short
 24. Somebody Has to Look at Him
-25. (planned) the lord's man, and the first trip back in
+25. The First of Four
+26. (planned) the lord's man, and trip two with Solva
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3092,6 +3141,20 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   not his. "He read it, and filed it, and put it away, and did not use it, and
   was aware of exactly how much he wanted to."
 
+- (ch25) LEVEL 6, AND THE CON PURCHASE PAYS OFF IN ONE SENTENCE. A Level 11
+  Roofwalker puts him into a wall and he GETS BACK UP AT THE SAME SPEED HE WENT
+  DOWN. No grey at the edges, no arithmetic about whether the leg holds. "Oh,
+  that is what that is for." That is the whole return on ch24, delivered
+  physically rather than explained.
+  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, THREE unspent points.
+  Arithmetic checked against ch24: 345 + 20 (level) + 15 (CON) = 380.
+- (ch25) THE LEVEL ECONOMY IS NOW STATED AS POLICY. "The nine in the avenue was
+  worth most of a level on its own. The eleven was worth the rest of it and
+  change. Everything above me pays like that, and everything below me pays
+  nothing at all." Marit: "So we hunt up." "We hunt up on purpose and never by
+  accident." ONE LEVEL IN EIGHT DAYS, which he calls appalling and the
+  best-earned thing on the sheet.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -3416,6 +3479,42 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The first trip, and the Stage 4 milestone lands (ch25)
+- MARIT TOOK THEM IN TWICE WHILE HE WAS AWAY AND LOST NOBODY. Four hours, then
+  most of a day. Nine kills. SHE TELLS HIM BEFORE SHE TELLS HIM HELLO.
+  THIS IS THE MILESTONE character-arc.md has been owed since ch12: something he
+  built works while he is not there, and it is not a copy of him.
+  SHE DID NOT CALL NUMBERS, SHE CALLED THE WALL, because she cannot see levels.
+  AND SHE ADDS A RULE HE DID NOT HAVE: send them home the moment Ask goes quiet,
+  because Ask going quiet is Ask frightened and he has no other way to say it.
+  "That is not in your six lines and it should be."
+  AND SHE REFUSES THE FRONT PAGE: "It is going in the middle, because I am not
+  having what Bern has." Do not give her the honour she declined.
+- THE JOB IS STRIPPING, NOT HUNTING, and he says it in the street: everything
+  that was ever nailed down in this city is still nailed down. Hinges, brackets,
+  pins, straps, anything with a shank on it. "THE METAL IS THE JOB. THE KILLING
+  IS THE WEATHER."
+- YLVA RUNS THE FIRST FOUR HOURS AND HE CARRIES. He is aware of it and does not
+  mind, which is new. She is the only one who knows what to take, and she reads
+  the city the way he reads people: nine nails all the same length means
+  somebody made them to a measure, and nobody makes nails to a measure.
+- THE SLUICE GATE from the foot of the nearest aqueduct leg. Iron, the size of a
+  table, half an inch thick. He prices it at four goats and Ylva corrects him to
+  NINE, which is now canon and guarded in check.py.
+- BERN'S RULE WORKS UNDER LOAD, which is the point of putting it in ch20. Ask
+  stops and turns his head ten degrees, Marit says one word, and EVERY PERSON
+  PUTS DOWN NINE GOATS OF IRON WITHOUT ARGUING. Nobody argues in the room.
+- THE ELEVEN IS FASTER THAN THE NINE and he says so while it is happening. He
+  gets to the seam quicker than in ch17 and is still not quick enough, because
+  an eleven is not a nine. Four strokes again, fourth goes through.
+- SOLVA GOES UP NEXT TIME, and it is him correcting ch14 out loud: "Sooner or
+  later somebody needs her at the top of that hill instead of the bottom."
+  "You told her she would slow us down." "I did. I have been wrong about
+  numbers rather a lot this month and I have started keeping a list."
+- AND BERN COUNTS THE PARTY TWICE BEFORE HE LETS HIS FACE DO ANYTHING. "Nine
+  went up." "Nine came down." "Say the rest of it." "One shoulder, one set of
+  ribs, both his." "Then it worked."
 
 Ordulf, and the one wall talking cannot get through (ch24)
 - THE OBJECTION WAS NEVER ABOUT GAARA, which is the author's read and it is the
