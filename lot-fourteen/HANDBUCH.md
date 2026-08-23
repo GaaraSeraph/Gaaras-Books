@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 105.774 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 107.081 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -128,11 +128,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Hong](#mr-hong)
-  - [Ji-won](#ji-won)
-  - [Mr Ku](#mr-ku)
-  - [Mrs Sunwoo](#mrs-sunwoo)
-  - [Shin](#shin)
   - [Mr Kwon](#mr-kwon)
+  - [Ji-won](#ji-won)
+  - [Mrs Sunwoo](#mrs-sunwoo)
+  - [Mr Ku](#mr-ku)
+  - [Shin](#shin)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mrs Jeon](#mrs-jeon)
   - [Mr Pyo](#mr-pyo)
@@ -2194,6 +2194,11 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 195 bis 200, Do 16. bis Di 21. April: der Anwalt schreibt an fuenf, drei
   lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit.**
   Kwon beantragt schriftlich eine Mitgliederversammlung (Band 2, Kapitel 14)
+- Tag 202, Do 23. April: **die Mitgliederversammlung.** Sie sagt zweimal die
+  Wahrheit und verliert alles. **Vier dafuer, eine dagegen, Cho enthaelt sich.**
+  Kwon wird Vorsitzender. Georgij ist in Seoul und sucht parallel den Versender:
+  **drei der fuenf Namen vom Januar-Essen stehen auf der Versandliste**
+  (Band 2, Kapitel 15)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2952,7 +2957,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Letzte Zeile: **"That is a very short list as well."**
 
-- **Band 2, Kapitel 14** *Ask her* (v1.0) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
+- **Band 2, Kapitel 14** *Ask her* (v1.1) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
 
   **Das Verfahren ist Mrs Sunwoo, auf einen Mann mit neun Lastwagen angewendet:** ein wahrer Satz, dann aufhoeren. Sieben Jahre Ankerpapier, **fuenf Firmen und nicht sechs**, einer nach dem anderen, und der Erste setzt den Satz fuer die uebrigen vier. Aus dem Satz gestrichen hat er auf dem Sonntag das Wort *opportunity*.
 
@@ -2975,6 +2980,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Die Maschine laeuft am Ende ohne ihn.** Woos Anwalt schreibt an alle fuenf am selben Tag dieselben drei Fragen, und die dritte ist die, die jeder Anwalt stellt und ueber die niemand nachdenkt: **wer ist berechtigt, fuer Sie zu zeichnen, und hat das in den letzten sechs Monaten jemand getan.** Drei lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit** - Georgij weiss nicht, was sie gesagt hat, und hat nicht versucht, es herauszufinden.
 
   **Der Beobachter meldet nichts, was der Befund ist**, und dazu eine Zeile, um die niemand gebeten hat: am Samstagabend brannte das Licht ueber der Waage bis halb elf, und irgendwann kam sie heraus und sah eine Weile vier Lastwagen an.
+
+- **Band 2, Kapitel 15** *One word, and it was true* (v1.0) - **Tag 202, Do 23. April. Zwei Straenge an einem Nachmittag: die Suche in Seoul, dann der Anruf um zwanzig nach vier.**
+
+  **Er ist nicht im Raum und es gibt keine Fassung, in der er es sein koennte.** Er hat es am Mittwochabend trotzdem vier Minuten lang geprueft.
+
+  **Der Vormittag ist das zweite Werkzeug bei der Arbeit.** Das Haus laesst in Mapo versenden, ein Buero dieser Art fuehrt eine Adressliste und behaelt sie, weil der Kunde naechste Saison wiederkommt. **Sechshundertvierzig Namen**, davon hundertneun Mantelgesellschaften. *"It took him a little over two hours and he did not enjoy it as much as he had expected to, which he noted and did not examine."*
+
+  **Und dann der Fund, der nicht in der Liste steht, sondern in ihrer Kreuzung:** sechshundert Namen sind kein Verdaechtigenkreis, sondern ein Telefonbuch. **Das richtige Ende ist, wer einen Katalog bekam UND im Januar bei dem Hafenbehoerden-Essen war.** Woos fuenf Namen liegen seit dem 9. April im Notizbuch. **Drei der fuenf stehen auf der Versandliste.** *"Three is not an answer. Three is a shape."*
+
+  **Die Versammlung kommt vollstaendig als Bericht von Mr Kwon**, und der Punkt des Kapitels ist eine einzige Silbe. Auf die Frage, ob sie auf Verbandsbriefpapier geschrieben habe: **"She said yes." - "Straight away. Not a second."** Auf die Frage, ob es Verbandsangelegenheiten betraf: **"She said no."**
+
+  **Sie hatte einen offenen Ausweg und hat ihn angesehen und nicht genommen.** *"She could have said it was association business and none of us would have been able to prove otherwise for a month, and by then it would have been over."* - **"She does not lie."** - *"It cost her everything in about a second and a half and she did not even look surprised."*
+
+  **Das Ergebnis: vier dafuer, eine dagegen, eine Enthaltung.** Kwon wird Vorsitzender, in vier Minuten, gegen seinen Willen und weil sonst niemand da ist. **Niemand beantragt den Ausschluss ihrer Firma**, und Kwon haette dagegen gestimmt. Sie behaelt vier Lastwagen und eine Spur ohne Arbeit, waehrend die anderen fuenf sieben Jahre bekommen, *"and everybody in that room understood exactly what that means, and not one of us said it out loud."*
+
+  **Cho, vierzig, seit Oktober ohne ein Wort in einer Sitzung, sagt heute eines** - dass sie zwanzig Jahre lang an sechs Leute geschrieben hat und niemand je zurueckgeschrieben hat, **und dass er nicht finde, dass jemand alles verlieren solle fuer das Erste, worum er je fuer sich selbst gebeten hat.** Und dann enthaelt er sich.
+
+  **Georgijs Urteil darueber steht nur in der Erzaehlstimme und ist das Kaelteste im Kapitel:** wer ein wahres Wort sagt und danach nicht handelt, hat sich besser gefuehlt und nichts geaendert. *"It is the commonest thing in the world. He has used it in nine rooms since October and has never once had to work for it."*
+
+  **Kwon nimmt die sieben Jahre und nicht den Dank**, und er sagt es als Bedingung: *"I will take the seven years and I will not take the thanks, and I would like that to be the arrangement between us from now on."* Vorher, haerter als alles andere in dem Gespraech: *"Do not stand at the other end of a telephone and be clever at me about it."* Und Georgijs **"I am sorry"**, ungeplant, *"before he had decided whether it was for Mr Kwon or for himself, which is the reason he almost never says it."*
+
+  **Und der Satz, der das Mitleid des ganzen Buches traegt:** Sie ist geblieben und hat die Stuehle gestapelt. *"It is what she has done after every meeting for twenty years and I do not think it occurred to her to do anything else."* Dann hat sie jedem gute Nacht gesagt, mit Namen, Kwon zuletzt, **und war dabei nicht spitz, weil sie dazu nicht in der Lage ist.**
+
+  **Georgijs Reaktion darauf ist die Haltung des gesamten Bandes:** *"He did not predict that, and he cannot make it be anything other than what it is, and it does not alter one single thing about the rest of the month."*
+
+  **Und das, was er nicht aufschreibt.** Ins Notizbuch kommen fuenf Woerter. Was Cho gesagt hat, kommt nicht hinein: *"A thing that goes in the notebook stops having to be carried. That is the entire point of the notebook and he has known it since October, and he left it out anyway."*
+
+  **Annie hat es ohne ihn mitverfolgt und sagt es auch:** *"I have had the Yeouido people watching the filings since Tuesday and I did not tell you, because you would have wanted to know why and the answer is that I wanted to see it happen."* Dann: *"Sit down and do not report to me. You do not have to and I have not asked."*
 
 ---
 
@@ -5545,9 +5578,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
+| Annie | 430 | 44 (b1ch01-b2ch15) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 142 | 26 (b1ch07-b2ch14) | 1 | 74 |
+| Chairman Woo | 145 | 27 (b1ch07-b2ch15) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
 | Jang | 75 | 18 (b1ch05-b2ch13) | 3 | 60 |
 | Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
@@ -5555,11 +5588,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
+| Mr Kwon | 25 | 2 (b2ch14-b2ch15) | 4 | 4 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mrs Sunwoo | 20 | 8 (b1ch07-b2ch15) | 1 | 60 |
 | Mr Ku | 19 | 13 (b1ch05-b2ch14) | 3 | 60 |
-| Mrs Sunwoo | 19 | 7 (b1ch07-b2ch12) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mr Kwon | 16 | 1 (b2ch14) | 4 | 4 |
 | Nam Byung-hee | 15 | 5 (b2ch03-b2ch14) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
@@ -5581,7 +5614,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-426 Nennungen in 42 Kapiteln.
+430 Nennungen in 44 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6011,6 +6044,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:232 | "Then go," said Annie. |
 | 3 | b2ch12:254 | Annie put the thing down. |
 | 3 | b2ch12:286 | Annie did not move. |
+| 4 | b2ch14:152 | What he did instead was write four words in the notebook in the car, and they are the se.. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 4 | b2ch15:240 | Annie was in the small room and the door was open and she looked up when he came into it.. |
+| 4 | b2ch15:254 | Annie did not answer for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6115,6 +6152,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch12:52` (Tag 3) - fifty-eight, four, nine and one
 - `b2ch12:86` (Tag 3) - one, two
 - `b2ch12:170` (Tag 3) - four
+- `b2ch14:152` (Tag 4) - four
+- `b2ch15:38` (Tag 4) - one
 
 ---
 
@@ -6357,7 +6396,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-142 Nennungen in 26 Kapiteln.
+145 Nennungen in 27 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6502,7 +6541,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
 | 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check." He did not soften i.. |
 | 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
-| 4 | b2ch14:238 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
+| 4 | b2ch14:166 | *Not customers. Not an arrangement.* That is what he promised her on the third of April,.. |
+| 4 | b2ch14:168 | Woo will never know that part. There is nothing in it that costs him anything and no rea.. |
+| 4 | b2ch14:258 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
+| 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -6586,7 +6628,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:234` (Tag 9) - fifteen, five
 - `b2ch14:32` (Tag 4) - five, four, one, seven, six
 - `b2ch14:100` (Tag 4) - five, seven
-- `b2ch14:238` (Tag 4) - five, six, three
+- `b2ch14:166` (Tag 4) - seven
+- `b2ch14:258` (Tag 4) - five, six, three
+- `b2ch15:52` (Tag 4) - five, six
 
 ---
 
@@ -7227,6 +7271,55 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Kwon
+
+25 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 4 | b2ch14:6 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
+| 4 | b2ch14:20 | Mr Kwon looked at him for a moment. |
+| 4 | b2ch14:42 | Mr Kwon did not say anything for about eight seconds. |
+| 4 | b2ch14:58 | Mr Kwon put both forearms on the desk. |
+| 4 | b2ch14:84 | Mr Kwon sat back. |
+| 4 | b2ch14:104 | Mr Kwon looked at him for a long moment. |
+| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
+| 4 | b2ch14:122 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
+| 4 | b2ch14:126 | "He says the rate is real," said Mr Kwon, putting it down. |
+| 4 | b2ch14:136 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
+| 4 | b2ch14:172 | "You have not offered me anything," said Mr Kwon after a while. |
+| 4 | b2ch14:182 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
+| 4 | b2ch14:198 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
+| 4 | b2ch14:208 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
+| 4 | b2ch14:214 | There it was, and Mr Kwon had built it well and had probably not meant to. |
+| 4 | b2ch14:292 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
+| 4 | b2ch15:74 | "It is done," said Mr Kwon. |
+| 4 | b2ch15:98 | "Straight away," said Mr Kwon. "Not a second. Not one of those things where a person tak.. |
+| 4 | b2ch15:114 | "That is all she said," said Mr Kwon. "One word. She could have said it was association .. |
+| 4 | b2ch15:126 | "After that it was not really a discussion," said Mr Kwon. "Somebody has to say the word.. |
+| 4 | b2ch15:140 | "Cho is the man of forty who has not said one word at a meeting since October, and he sa.. |
+| 4 | b2ch15:168 | "Her firm is a member. It is still a member. Nobody moved to expel her and I would have .. |
+| 4 | b2ch15:180 | "You were not there," said Mr Kwon. |
+| 4 | b2ch15:196 | He does not say that often, and he had not planned to, and it came out before he had dec.. |
+| 4 | b2ch15:202 | "She stayed and helped stack the chairs. It is what she has done after every meeting for.. |
+
+### Zahlen in der Naehe von Mr Kwon
+
+- `b2ch14:6` (Tag 4) - nine
+- `b2ch14:42` (Tag 4) - eight
+- `b2ch14:122` (Tag 4) - one
+- `b2ch14:136` (Tag 4) - eleven, nine
+- `b2ch14:198` (Tag 4) - one
+- `b2ch14:292` (Tag 4) - nine
+- `b2ch15:98` (Tag 4) - one
+- `b2ch15:114` (Tag 4) - one
+- `b2ch15:126` (Tag 4) - five, one, six
+- `b2ch15:140` (Tag 4) - forty, one, six, twenty
+- `b2ch15:168` (Tag 4) - four, one, seven
+- `b2ch15:202` (Tag 4) - twenty
+
+---
+
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -7270,50 +7363,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Ku
-
-19 Nennungen in 13 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:200 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:204 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:218 | "No," said Mr Ku. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:302` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:252` (Tag 3) - fifty-five
-- `b2ch14:200` (Tag 4) - one
-- `b2ch14:204` (Tag 4) - forty
-
----
-
 ### Mrs Sunwoo
 
-19 Nennungen in 7 Kapiteln.
+20 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7336,6 +7388,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
 | 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
 | 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -7349,6 +7402,48 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch10:100` (Tag 3) - forty-one
 - `b2ch10:186` (Tag 3) - one
 - `b2ch10:274` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+
+---
+
+### Mr Ku
+
+19 Nennungen in 13 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:220 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:224 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:238 | "No," said Mr Ku. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch09:302` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:220` (Tag 4) - one
+- `b2ch14:224` (Tag 4) - forty
 
 ---
 
@@ -7391,40 +7486,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Kwon
-
-16 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 4 | b2ch14:6 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
-| 4 | b2ch14:20 | Mr Kwon looked at him for a moment. |
-| 4 | b2ch14:42 | Mr Kwon did not say anything for about eight seconds. |
-| 4 | b2ch14:58 | Mr Kwon put both forearms on the desk. |
-| 4 | b2ch14:84 | Mr Kwon sat back. |
-| 4 | b2ch14:104 | Mr Kwon looked at him for a long moment. |
-| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
-| 4 | b2ch14:122 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
-| 4 | b2ch14:126 | "He says the rate is real," said Mr Kwon, putting it down. |
-| 4 | b2ch14:136 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
-| 4 | b2ch14:152 | "You have not offered me anything," said Mr Kwon after a while. |
-| 4 | b2ch14:162 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
-| 4 | b2ch14:178 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
-| 4 | b2ch14:188 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
-| 4 | b2ch14:194 | There it was, and Mr Kwon had built it well and had probably not meant to. |
-| 4 | b2ch14:272 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
-
-### Zahlen in der Naehe von Mr Kwon
-
-- `b2ch14:6` (Tag 4) - nine
-- `b2ch14:42` (Tag 4) - eight
-- `b2ch14:122` (Tag 4) - one
-- `b2ch14:136` (Tag 4) - eleven, nine
-- `b2ch14:178` (Tag 4) - one
-- `b2ch14:272` (Tag 4) - nine
-
----
-
 ### Nam Byung-hee
 
 15 Nennungen in 5 Kapiteln.
@@ -7445,7 +7506,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
 | 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
 | 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
-| 4 | b2ch14:246 | By the Saturday two of them had telephoned Nam Byung-hee. |
+| 4 | b2ch14:266 | By the Saturday two of them had telephoned Nam Byung-hee. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -7456,7 +7517,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:240` (Tag 1) - nine
 - `b2ch13:24` (Tag 9) - four, one
 - `b2ch13:32` (Tag 9) - five, four, nine
-- `b2ch14:246` (Tag 4) - two
+- `b2ch14:266` (Tag 4) - two
 
 ---
 

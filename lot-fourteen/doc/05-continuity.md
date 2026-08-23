@@ -139,6 +139,11 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 195 bis 200, Do 16. bis Di 21. April: der Anwalt schreibt an fuenf, drei
   lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit.**
   Kwon beantragt schriftlich eine Mitgliederversammlung (Band 2, Kapitel 14)
+- Tag 202, Do 23. April: **die Mitgliederversammlung.** Sie sagt zweimal die
+  Wahrheit und verliert alles. **Vier dafuer, eine dagegen, Cho enthaelt sich.**
+  Kwon wird Vorsitzender. Georgij ist in Seoul und sucht parallel den Versender:
+  **drei der fuenf Namen vom Januar-Essen stehen auf der Versandliste**
+  (Band 2, Kapitel 15)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -897,7 +902,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Letzte Zeile: **"That is a very short list as well."**
 
-- **Band 2, Kapitel 14** *Ask her* (v1.0) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
+- **Band 2, Kapitel 14** *Ask her* (v1.1) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
 
   **Das Verfahren ist Mrs Sunwoo, auf einen Mann mit neun Lastwagen angewendet:** ein wahrer Satz, dann aufhoeren. Sieben Jahre Ankerpapier, **fuenf Firmen und nicht sechs**, einer nach dem anderen, und der Erste setzt den Satz fuer die uebrigen vier. Aus dem Satz gestrichen hat er auf dem Sonntag das Wort *opportunity*.
 
@@ -920,6 +925,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Die Maschine laeuft am Ende ohne ihn.** Woos Anwalt schreibt an alle fuenf am selben Tag dieselben drei Fragen, und die dritte ist die, die jeder Anwalt stellt und ueber die niemand nachdenkt: **wer ist berechtigt, fuer Sie zu zeichnen, und hat das in den letzten sechs Monaten jemand getan.** Drei lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit** - Georgij weiss nicht, was sie gesagt hat, und hat nicht versucht, es herauszufinden.
 
   **Der Beobachter meldet nichts, was der Befund ist**, und dazu eine Zeile, um die niemand gebeten hat: am Samstagabend brannte das Licht ueber der Waage bis halb elf, und irgendwann kam sie heraus und sah eine Weile vier Lastwagen an.
+
+- **Band 2, Kapitel 15** *One word, and it was true* (v1.0) - **Tag 202, Do 23. April. Zwei Straenge an einem Nachmittag: die Suche in Seoul, dann der Anruf um zwanzig nach vier.**
+
+  **Er ist nicht im Raum und es gibt keine Fassung, in der er es sein koennte.** Er hat es am Mittwochabend trotzdem vier Minuten lang geprueft.
+
+  **Der Vormittag ist das zweite Werkzeug bei der Arbeit.** Das Haus laesst in Mapo versenden, ein Buero dieser Art fuehrt eine Adressliste und behaelt sie, weil der Kunde naechste Saison wiederkommt. **Sechshundertvierzig Namen**, davon hundertneun Mantelgesellschaften. *"It took him a little over two hours and he did not enjoy it as much as he had expected to, which he noted and did not examine."*
+
+  **Und dann der Fund, der nicht in der Liste steht, sondern in ihrer Kreuzung:** sechshundert Namen sind kein Verdaechtigenkreis, sondern ein Telefonbuch. **Das richtige Ende ist, wer einen Katalog bekam UND im Januar bei dem Hafenbehoerden-Essen war.** Woos fuenf Namen liegen seit dem 9. April im Notizbuch. **Drei der fuenf stehen auf der Versandliste.** *"Three is not an answer. Three is a shape."*
+
+  **Die Versammlung kommt vollstaendig als Bericht von Mr Kwon**, und der Punkt des Kapitels ist eine einzige Silbe. Auf die Frage, ob sie auf Verbandsbriefpapier geschrieben habe: **"She said yes." - "Straight away. Not a second."** Auf die Frage, ob es Verbandsangelegenheiten betraf: **"She said no."**
+
+  **Sie hatte einen offenen Ausweg und hat ihn angesehen und nicht genommen.** *"She could have said it was association business and none of us would have been able to prove otherwise for a month, and by then it would have been over."* - **"She does not lie."** - *"It cost her everything in about a second and a half and she did not even look surprised."*
+
+  **Das Ergebnis: vier dafuer, eine dagegen, eine Enthaltung.** Kwon wird Vorsitzender, in vier Minuten, gegen seinen Willen und weil sonst niemand da ist. **Niemand beantragt den Ausschluss ihrer Firma**, und Kwon haette dagegen gestimmt. Sie behaelt vier Lastwagen und eine Spur ohne Arbeit, waehrend die anderen fuenf sieben Jahre bekommen, *"and everybody in that room understood exactly what that means, and not one of us said it out loud."*
+
+  **Cho, vierzig, seit Oktober ohne ein Wort in einer Sitzung, sagt heute eines** - dass sie zwanzig Jahre lang an sechs Leute geschrieben hat und niemand je zurueckgeschrieben hat, **und dass er nicht finde, dass jemand alles verlieren solle fuer das Erste, worum er je fuer sich selbst gebeten hat.** Und dann enthaelt er sich.
+
+  **Georgijs Urteil darueber steht nur in der Erzaehlstimme und ist das Kaelteste im Kapitel:** wer ein wahres Wort sagt und danach nicht handelt, hat sich besser gefuehlt und nichts geaendert. *"It is the commonest thing in the world. He has used it in nine rooms since October and has never once had to work for it."*
+
+  **Kwon nimmt die sieben Jahre und nicht den Dank**, und er sagt es als Bedingung: *"I will take the seven years and I will not take the thanks, and I would like that to be the arrangement between us from now on."* Vorher, haerter als alles andere in dem Gespraech: *"Do not stand at the other end of a telephone and be clever at me about it."* Und Georgijs **"I am sorry"**, ungeplant, *"before he had decided whether it was for Mr Kwon or for himself, which is the reason he almost never says it."*
+
+  **Und der Satz, der das Mitleid des ganzen Buches traegt:** Sie ist geblieben und hat die Stuehle gestapelt. *"It is what she has done after every meeting for twenty years and I do not think it occurred to her to do anything else."* Dann hat sie jedem gute Nacht gesagt, mit Namen, Kwon zuletzt, **und war dabei nicht spitz, weil sie dazu nicht in der Lage ist.**
+
+  **Georgijs Reaktion darauf ist die Haltung des gesamten Bandes:** *"He did not predict that, and he cannot make it be anything other than what it is, and it does not alter one single thing about the rest of the month."*
+
+  **Und das, was er nicht aufschreibt.** Ins Notizbuch kommen fuenf Woerter. Was Cho gesagt hat, kommt nicht hinein: *"A thing that goes in the notebook stops having to be carried. That is the entire point of the notebook and he has known it since October, and he left it out anyway."*
+
+  **Annie hat es ohne ihn mitverfolgt und sagt es auch:** *"I have had the Yeouido people watching the filings since Tuesday and I did not tell you, because you would have wanted to know why and the answer is that I wanted to see it happen."* Dann: *"Sit down and do not report to me. You do not have to and I have not asked."*
 
 ---
 

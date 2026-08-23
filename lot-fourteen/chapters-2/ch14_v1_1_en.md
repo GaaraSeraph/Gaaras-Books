@@ -1,5 +1,5 @@
 # Chapter 14: Ask her
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Ninety-Three · Tuesday 14 April
 
@@ -146,6 +146,26 @@ Mr Kwon got up and went to the window, which looks at nine trucks and room for e
 Georgij did not say anything to that at all.
 
 There was nothing available that was both true and useful, and everything available that was merely useful would have been a sale.
+
+---
+
+What he did instead was write four words in the notebook in the car, and they are the second half of a thing he said to Annie in the small room on the third of April.
+
+Seven years of that paper does not only feed a firm. It makes a firm worth something. It makes a half of a firm saleable, and it does that to five firms in the same fortnight.
+
+---
+
+Five men who have never been able to get one won out of their own businesses are about to be able to. Two of them have somebody who wants out and cannot go. One of them has two brothers who have not spoken since 2019 and an invoice clerk who would like to be paid what she is worth.
+
+And on the day five halves come onto a coast where nobody buys anything, there is going to be exactly one buyer with money in her hand.
+
+She will pay a real price. Every one of the five will believe it was the best fortnight of his working life, and every one of them will be right.
+
+---
+
+*Not customers. Not an arrangement.* That is what he promised her on the third of April, and it was not a figure of speech, and Woo's seven years are what makes it possible.
+
+Woo will never know that part. There is nothing in it that costs him anything and no reason to tell a man a thing he cannot use.
 
 ---
 
