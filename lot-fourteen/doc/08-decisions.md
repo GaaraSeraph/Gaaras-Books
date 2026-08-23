@@ -710,3 +710,44 @@ mit jemand anderem einer Meinung war.
 Er zahlt den Preis zuerst und liefert den Inhalt danach, unaufgefordert, fuer
 eine Anweisung, die er nicht einhalten konnte. Und *I came back with a favour*
 ist woertlich wahr: Er traegt ihn herein.
+
+---
+
+## Der Schluss von Band 1, entschieden am 23.08.
+
+**Der Geschaeftsstrang ist mit Kapitel 33 gewonnen und laeuft nur noch ab.** Das
+wurde beim Planen von Kapitel 34 gegen jeden offenen Faden einzeln geprueft, mit
+einer Frage: kann das noch schiefgehen? Vollmacht, Mietvorvertrag, Sang-hoon, Woos
+sieben Jahre - nein. Zollakte, Choi Dae-ho, Los elf, die Pipeline - Faeden ohne
+Zaehne. Uebrig blieb genau eine Sache, die scheitern kann, und sie ist die
+Titelzeile: was Georgij will.
+
+**Verworfen: ein Jahreswechsel-Kapitel als Coda.** Es waere das Kapitel gewesen, in
+dem sich alles von allein fuegt, also eines ohne Frage. Die leeren Wochen bleiben
+drin, aber als erster Abschnitt von Kapitel 34 und als Druck, nicht als Ruhe.
+
+**Der Eintrag wird gestrichen und das Halsband bleibt.** Die Alternative war, dass
+Georgij die Loeschung ganz ablehnt. Sie ist schwaecher: dann aendert sich nichts,
+und der Titel bleibt unbezahlt. Kapitel 24 hat den Ausgang ausserdem selbst gelegt.
+Annie sagt dort *"until that is dealt with, taking it off you would be the most
+dangerous thing anybody has ever done to you"*, und Georgijs Gegenrede auf der
+Bruecke ist **rein taktisch** - Marktwert, Aufwand, ein Mann ohne Zeichen ist Ware.
+Wird der Eintrag erledigt, faellt seine ganze Begruendung mit, und was uebrig
+bleibt, ist der Grund, den er sich auf der Bruecke ausgesucht hatte nicht zu geben.
+**Annie tut es in genau dieser Reihenfolge und sagt, dass sie es tut.**
+
+**Der zurueckgehaltene Grund ist dieselbe Rechnung wie auf der Bruecke, nur zeigt
+sie auf sie.** Wer ihr gehoert, muss verkauft werden: Preis, Raum, Zeugen, Wochen,
+und um den neunten Morgen herum will man vielleicht nicht mehr. Wer frei ist, wird
+an einem Dienstag im Flur zwischen zwei anderen Dingen weggeschickt. Er hat keine
+Angst vor dem Markt, er hat Angst davor, wie billig sie es sich ueberlegen kann.
+Das ist eine Anklage, die er nicht als eine meint, und Annie hoert sie als eine.
+
+**Die Anrede bleibt, und das ist die zweite Weigerung.** Ueber das Halsband kann
+man taktisch streiten, ueber das Wort nicht. Es kostet nichts, es fallen zu lassen,
+und niemand kann es erzwingen, seit es kein Papier mehr gibt. Damit schliesst sich
+der Bogen aus Kapitel 23, wo er es ihr entzogen hat.
+
+**Was fuer Band 2 aufgehoben wird:** Los elf und der Name des Garanten, Choi
+Dae-ho, die Pipeline, und Ye-rin, die von selbst zurueckkommt, sobald das Vetorecht
+beisst. Nichts davon wird in 34 angefasst.

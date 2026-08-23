@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 292 | 29 (01-33) | 1 | 74 |
+| Annie | 308 | 30 (01-34) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
-| Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
-| Park Sang-hoon | 85 | 15 (10-33) | 7 | 74 |
-| Jang | 61 | 13 (05-33) | 4 | 55 |
+| Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
+| Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
+| Jang | 63 | 14 (05-34) | 4 | 55 |
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
-| Kim Ye-rin | 43 | 10 (14-33) | 5 | 74 |
+| Kim Ye-rin | 44 | 11 (14-34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
 | Kim Do-yun | 30 | 8 (14-32) | 6 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-292 Nennungen in 29 Kapiteln.
+308 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -346,6 +346,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:358 | Annie did not answer for some time. |
 | 7 | ch33:378 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
 | 7 | ch33:408 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
+| 46 | ch34:18 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
+| 46 | ch34:44 | Annie worked. |
+| 50 | ch34:136 | Annie came in after the car had gone down the drive. |
+| 50 | ch34:160 | "Say it," said Annie. |
+| 50 | ch34:176 | Annie was not surprised, which was worse. |
+| 50 | ch34:196 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
+| 50 | ch34:200 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
+| 50 | ch34:210 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
+| 50 | ch34:236 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | ch34:250 | Annie stayed in the chair that is not hers. |
+| 50 | ch34:280 | Annie did not help him. |
+| 50 | ch34:294 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:322 | Annie looked at him. |
+| 50 | ch34:338 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:358 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:374 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -415,6 +431,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch33:34` (Tag 7) - one, three
 - `ch33:66` (Tag 7) - fifteen
 - `ch33:228` (Tag 7) - five
+- `ch34:18` (Tag 46) - four, three
+- `ch34:236` (Tag 50) - forty
 
 ---
 
@@ -651,7 +669,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-122 Nennungen in 22 Kapiteln.
+123 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -777,6 +795,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
 | 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 | - | ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
+| 46 | ch34:6 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -849,12 +868,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:366` (Tag 5) - nine
 - `ch31:384` (Tag 5) - one
 - `ch32:98` (Tag ?) - four, two
+- `ch34:6` (Tag 46) - seven, two
 
 ---
 
 ## Park Sang-hoon
 
-85 Nennungen in 15 Kapiteln.
+86 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -943,6 +963,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:224 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
 | 7 | ch33:234 | Park Sang-hoon turned round then. |
 | 7 | ch33:266 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 46 | ch34:60 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -979,12 +1000,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch33:148` (Tag 7) - eleven, one
 - `ch33:224` (Tag 7) - two, two hundred million
 - `ch33:266` (Tag 7) - eleven, forty
+- `ch34:60` (Tag 46) - one
 
 ---
 
 ## Jang
 
-61 Nennungen in 13 Kapiteln.
+63 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1049,6 +1071,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 7 | ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
 | 7 | ch33:146 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
+| 46 | ch34:8 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
+| 46 | ch34:26 | Not an empty afternoon. He walked the house at night the way he had walked it on the fou.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1081,6 +1105,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:160` (Tag 55) - two
 - `ch23:168` (Tag 55) - one
 - `ch23:188` (Tag 55) - four
+- `ch34:8` (Tag 46) - four
+- `ch34:26` (Tag 46) - four
 
 ---
 
@@ -1174,7 +1200,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kim Ye-rin
 
-43 Nennungen in 10 Kapiteln.
+44 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1221,6 +1247,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
 | - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
 | 7 | ch33:214 | "Ye-rin." |
+| 46 | ch34:16 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1243,6 +1270,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch32:212` (Tag ?) - eleven, four
 - `ch32:258` (Tag ?) - twenty
 - `ch32:280` (Tag ?) - one
+- `ch34:16` (Tag 46) - eleven, six, twenty
 
 ---
 

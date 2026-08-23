@@ -84,6 +84,24 @@ oben.
 jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
 offen liegt.
 
+**Eingeloest in Kapitel 34, am 19. Februar.** Der Eintrag ist gestrichen. Es hat
+vom 4. Januar bis zum 19. Februar gedauert, Annie war viermal in dem Gebaeude, und
+**beim dritten Mal war es nicht das Geld** - was es stattdessen war, sagt sie nicht
+und der Text fragt nicht nach. Die Summe wird nie genannt und darf nie genannt
+werden.
+
+**Ihr Grund ist geschaeftlich und wird als solcher ausgesprochen.** Solange die
+Zeile stand, gab es einen Preis, ein Verfahren und eine Gegenpartei; jetzt gibt es
+nichts zu kaufen. Sang-hoon hatte am 29. Dezember gesagt, 2,2 Milliarden seien zu
+niedrig, und er zahlt nicht zweimal, aber vier andere Maenner zahlen zweimal.
+
+**Und die beiden Dinge sind jetzt endgueltig getrennt, wofuer sie oben angelegt
+wurden.** Der Eintrag ist weg, das Halsband bleibt, und zwar auf Georgijs
+ausdrueckliche Weigerung hin. Der Mann mit dem Werkzeug koennte am Dienstag da
+sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
+Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
+abnehmen laesst.
+
 ---
 
 ## Das Geschaeft

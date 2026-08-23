@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 72.577 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 74.341 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1383,6 +1383,24 @@ oben.
 jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
 offen liegt.
 
+**Eingeloest in Kapitel 34, am 19. Februar.** Der Eintrag ist gestrichen. Es hat
+vom 4. Januar bis zum 19. Februar gedauert, Annie war viermal in dem Gebaeude, und
+**beim dritten Mal war es nicht das Geld** - was es stattdessen war, sagt sie nicht
+und der Text fragt nicht nach. Die Summe wird nie genannt und darf nie genannt
+werden.
+
+**Ihr Grund ist geschaeftlich und wird als solcher ausgesprochen.** Solange die
+Zeile stand, gab es einen Preis, ein Verfahren und eine Gegenpartei; jetzt gibt es
+nichts zu kaufen. Sang-hoon hatte am 29. Dezember gesagt, 2,2 Milliarden seien zu
+niedrig, und er zahlt nicht zweimal, aber vier andere Maenner zahlen zweimal.
+
+**Und die beiden Dinge sind jetzt endgueltig getrennt, wofuer sie oben angelegt
+wurden.** Der Eintrag ist weg, das Halsband bleibt, und zwar auf Georgijs
+ausdrueckliche Weigerung hin. Der Mann mit dem Werkzeug koennte am Dienstag da
+sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
+Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
+abnehmen laesst.
+
 ---
 
 ## Das Geschaeft
@@ -1577,6 +1595,16 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 71, Sa 13. Dezember: die vier Zeilen, neun Fassungen, Hana uebergibt sie im Garten (Kapitel 28)
 - Tag 72 bis 74, So 14. bis Di 16. Dezember: keine Antwort (Kapitel 28)
 - Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29), ab neun die Terrasse (Kapitel 30)
+- Tag 80, Mo 22. Dezember: die Unterschriften bei Sung-ho (Kapitel 32)
+- Tag 87, Mo 29. Dezember: Sang-hoon kommt die Auffahrt herauf (Kapitel 33)
+- Tag 145, Mi 25. Februar: die leeren Wochen, erster Abschnitt von Kapitel 34
+- Tag 149, So 1. Maerz: die Vollmacht laeuft um Mitternacht ab; Mr Chae holt die
+  Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34)
+
+**Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
+Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
+25. Februar und Tag 149 fuer den 1. Maerz. Wer das Jahr verschiebt, verschiebt
+beide.
 
 ### Die Fahrerwoche
 
@@ -1667,6 +1695,15 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 34** *Then take it off* (v1.0) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
+
+  **Dann fragt Annie, wie am 16. Dezember angekuendigt, und er antwortet mit einer Zahl**, weil das die einzige Einheit ist, die er fuer sich selbst hat. Sang-hoons Minute an der Tuer hat genau das gekauft.
+
+  **Der Eintrag ist gestrichen**, am 19. Februar, nach sechs Wochen und vier Terminen in dem Gebaeude. Annie nennt den Grund geschaeftlich: die Zeile war der letzte Weg, auf dem ihn ihr jemand haette abkaufen koennen. Damit ist **ihre eigene Bedingung aus Kapitel 24 erfuellt** - *"until that is dealt with"* -, und das Halsband kann ab.
+
+  **Er weigert sich.** Seine Begruendung von der Bruecke war taktisch und ist mit dem Eintrag weggefallen, und Annie hat es in dieser Reihenfolge getan, damit nur der zurueckgehaltene Grund uebrig bleibt: Wer ihr gehoert, muss verkauft werden, und das dauert Wochen und braucht einen Raum. Wer frei ist, wird an einem Dienstag im Flur weggeschickt. Die einzige Kontraktion des Kapitels steht an dieser Stelle: **"I'm afraid of Tuesdays."**
+
+  Und die Umkehrung aus Kapitel 24: *"It is not what holds me and it never was. It is what holds you."* Danach **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
 - **Kapitel 33** *That is five* (v1.9) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.4) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
@@ -3001,10 +3038,42 @@ gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Cho
 Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
 schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 
-**Offen ist genau eine Sache, und sie kann scheitern:** was Georgij will. Er ist
-zweimal danach gefragt worden — von Ye-rin am 16. Dezember und von Annie noch
-am selben Abend — und hat es beide Male nicht gesagt. Annie hat **März** darauf
-gesetzt. Die Antwort ist das Register, und das Buch heißt danach.
+**Das war bis Kapitel 33 die einzige Sache, die noch scheitern konnte:** was
+Georgij will. **Eingelöst in Kapitel 34, am 1. März.** Der Eintrag ist gestrichen,
+das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit ist
+**Band 1 zu Ende erzählt.** Begründung und verworfene Alternativen in
+`doc/08-decisions.md` unter „Der Schluss von Band 1".
+
+---
+
+## Was Band 2 mitbekommt
+
+Nichts davon wird in 34 angefasst, und das ist Absicht.
+
+1. **Los elf und der Name des Garanten** — dieselbe Vorenthaltung, beide Hälften
+   gehören zusammen (Punkt 9 oben). Der Junge wird laut Absprache vom 23.08.
+   irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen. **Annie
+   sagt in Kapitel 34, dass sie viermal in dem Gebäude war und dass es beim
+   dritten Mal nicht das Geld war.** Was es stattdessen war, ist der Faden.
+2. **Ye-rin kommt von selbst zurück**, sobald das Vetorecht beisst und die Kims
+   merken, dass sie Personal geworden sind. Der ungenannte Preis liegt bereit und
+   gehört ihr zum Anbieten.
+3. **Sang-hoon zahlt nicht zweimal — vier andere schon.** Annie sagt das in 34
+   ausdrücklich, und sie sagt dazu, dass er innerhalb eines Jahres recht behalten
+   wird mit „zu niedrig".
+4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
+   der Container**, als Zeile und nie als Szene. **Die Pipeline**, und wenn sie
+   ausgesprochen wird, darf sie keine Erleichterung sein.
+5. **Annies Name ist weiterhin nicht ausgesprochen worden** — vier Silben, seit
+   Kapitel 24, einmal von Georgij benutzt und seitdem nicht wieder. Wie er lautet,
+   steht immer noch nicht fest, und sie hat weiterhin keinen Nachnamen.
+6. **Seine Bitte von der Brücke steht unbeantwortet:** nie vor Zeugen. Sie hat nie
+   zugesagt, sie hat die Fernbedienung in den Han geworfen, und das ist eine
+   Bezahlung und keine Zusage. Kapitel 34 fasst es nicht an.
+7. **Und der Preis für den Schock ist damit bezahlt, aber nicht der Rest.** Das
+   Register war die vorgesehene Einlösung und ist eingelöst. Was neu offen steht,
+   ist die Gegenrichtung: Seit dem 1. März kann Annie ihn jeden Dienstag im Flur
+   wegschicken, und beide wissen es, und er hat es ihr selbst vorgerechnet.
 
 ---
 
@@ -3891,6 +3960,47 @@ ist woertlich wahr: Er traegt ihn herein.
 
 ---
 
+## Der Schluss von Band 1, entschieden am 23.08.
+
+**Der Geschaeftsstrang ist mit Kapitel 33 gewonnen und laeuft nur noch ab.** Das
+wurde beim Planen von Kapitel 34 gegen jeden offenen Faden einzeln geprueft, mit
+einer Frage: kann das noch schiefgehen? Vollmacht, Mietvorvertrag, Sang-hoon, Woos
+sieben Jahre - nein. Zollakte, Choi Dae-ho, Los elf, die Pipeline - Faeden ohne
+Zaehne. Uebrig blieb genau eine Sache, die scheitern kann, und sie ist die
+Titelzeile: was Georgij will.
+
+**Verworfen: ein Jahreswechsel-Kapitel als Coda.** Es waere das Kapitel gewesen, in
+dem sich alles von allein fuegt, also eines ohne Frage. Die leeren Wochen bleiben
+drin, aber als erster Abschnitt von Kapitel 34 und als Druck, nicht als Ruhe.
+
+**Der Eintrag wird gestrichen und das Halsband bleibt.** Die Alternative war, dass
+Georgij die Loeschung ganz ablehnt. Sie ist schwaecher: dann aendert sich nichts,
+und der Titel bleibt unbezahlt. Kapitel 24 hat den Ausgang ausserdem selbst gelegt.
+Annie sagt dort *"until that is dealt with, taking it off you would be the most
+dangerous thing anybody has ever done to you"*, und Georgijs Gegenrede auf der
+Bruecke ist **rein taktisch** - Marktwert, Aufwand, ein Mann ohne Zeichen ist Ware.
+Wird der Eintrag erledigt, faellt seine ganze Begruendung mit, und was uebrig
+bleibt, ist der Grund, den er sich auf der Bruecke ausgesucht hatte nicht zu geben.
+**Annie tut es in genau dieser Reihenfolge und sagt, dass sie es tut.**
+
+**Der zurueckgehaltene Grund ist dieselbe Rechnung wie auf der Bruecke, nur zeigt
+sie auf sie.** Wer ihr gehoert, muss verkauft werden: Preis, Raum, Zeugen, Wochen,
+und um den neunten Morgen herum will man vielleicht nicht mehr. Wer frei ist, wird
+an einem Dienstag im Flur zwischen zwei anderen Dingen weggeschickt. Er hat keine
+Angst vor dem Markt, er hat Angst davor, wie billig sie es sich ueberlegen kann.
+Das ist eine Anklage, die er nicht als eine meint, und Annie hoert sie als eine.
+
+**Die Anrede bleibt, und das ist die zweite Weigerung.** Ueber das Halsband kann
+man taktisch streiten, ueber das Wort nicht. Es kostet nichts, es fallen zu lassen,
+und niemand kann es erzwingen, seit es kein Papier mehr gibt. Damit schliesst sich
+der Bogen aus Kapitel 23, wo er es ihr entzogen hat.
+
+**Was fuer Band 2 aufgehoben wird:** Los elf und der Name des Garanten, Choi
+Dae-ho, die Pipeline, und Ye-rin, die von selbst zurueckkommt, sobald das Vetorecht
+beisst. Nichts davon wird in 34 angefasst.
+
+---
+
 # Begegnungsregister
 
 *Erzeugt aus `chapters/`. Wird nicht bearbeitet.*
@@ -3911,13 +4021,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 292 | 29 (01-33) | 1 | 74 |
+| Annie | 308 | 30 (01-34) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
-| Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
-| Park Sang-hoon | 85 | 15 (10-33) | 7 | 74 |
-| Jang | 61 | 13 (05-33) | 4 | 55 |
+| Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
+| Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
+| Jang | 63 | 14 (05-34) | 4 | 55 |
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
-| Kim Ye-rin | 43 | 10 (14-33) | 5 | 74 |
+| Kim Ye-rin | 44 | 11 (14-34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
 | Kim Do-yun | 30 | 8 (14-32) | 6 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
@@ -3943,7 +4053,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-292 Nennungen in 29 Kapiteln.
+308 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4239,6 +4349,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:358 | Annie did not answer for some time. |
 | 7 | ch33:378 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
 | 7 | ch33:408 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
+| 46 | ch34:18 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
+| 46 | ch34:44 | Annie worked. |
+| 50 | ch34:136 | Annie came in after the car had gone down the drive. |
+| 50 | ch34:160 | "Say it," said Annie. |
+| 50 | ch34:176 | Annie was not surprised, which was worse. |
+| 50 | ch34:196 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
+| 50 | ch34:200 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
+| 50 | ch34:210 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
+| 50 | ch34:236 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | ch34:250 | Annie stayed in the chair that is not hers. |
+| 50 | ch34:280 | Annie did not help him. |
+| 50 | ch34:294 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:322 | Annie looked at him. |
+| 50 | ch34:338 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:358 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:374 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4308,6 +4434,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch33:34` (Tag 7) - one, three
 - `ch33:66` (Tag 7) - fifteen
 - `ch33:228` (Tag 7) - five
+- `ch34:18` (Tag 46) - four, three
+- `ch34:236` (Tag 50) - forty
 
 ---
 
@@ -4544,7 +4672,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-122 Nennungen in 22 Kapiteln.
+123 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4670,6 +4798,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
 | 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 | - | ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
+| 46 | ch34:6 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -4742,12 +4871,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:366` (Tag 5) - nine
 - `ch31:384` (Tag 5) - one
 - `ch32:98` (Tag ?) - four, two
+- `ch34:6` (Tag 46) - seven, two
 
 ---
 
 ### Park Sang-hoon
 
-85 Nennungen in 15 Kapiteln.
+86 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4836,6 +4966,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:224 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
 | 7 | ch33:234 | Park Sang-hoon turned round then. |
 | 7 | ch33:266 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 46 | ch34:60 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -4872,12 +5003,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch33:148` (Tag 7) - eleven, one
 - `ch33:224` (Tag 7) - two, two hundred million
 - `ch33:266` (Tag 7) - eleven, forty
+- `ch34:60` (Tag 46) - one
 
 ---
 
 ### Jang
 
-61 Nennungen in 13 Kapiteln.
+63 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4942,6 +5074,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 7 | ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
 | 7 | ch33:146 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
+| 46 | ch34:8 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
+| 46 | ch34:26 | Not an empty afternoon. He walked the house at night the way he had walked it on the fou.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -4974,6 +5108,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:160` (Tag 55) - two
 - `ch23:168` (Tag 55) - one
 - `ch23:188` (Tag 55) - four
+- `ch34:8` (Tag 46) - four
+- `ch34:26` (Tag 46) - four
 
 ---
 
@@ -5067,7 +5203,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kim Ye-rin
 
-43 Nennungen in 10 Kapiteln.
+44 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5114,6 +5250,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
 | - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
 | 7 | ch33:214 | "Ye-rin." |
+| 46 | ch34:16 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -5136,6 +5273,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch32:212` (Tag ?) - eleven, four
 - `ch32:258` (Tag ?) - twenty
 - `ch32:280` (Tag ?) - one
+- `ch34:16` (Tag 46) - eleven, six, twenty
 
 ---
 

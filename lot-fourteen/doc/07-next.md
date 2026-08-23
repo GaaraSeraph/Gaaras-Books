@@ -218,10 +218,42 @@ gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Cho
 Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
 schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 
-**Offen ist genau eine Sache, und sie kann scheitern:** was Georgij will. Er ist
-zweimal danach gefragt worden — von Ye-rin am 16. Dezember und von Annie noch
-am selben Abend — und hat es beide Male nicht gesagt. Annie hat **März** darauf
-gesetzt. Die Antwort ist das Register, und das Buch heißt danach.
+**Das war bis Kapitel 33 die einzige Sache, die noch scheitern konnte:** was
+Georgij will. **Eingelöst in Kapitel 34, am 1. März.** Der Eintrag ist gestrichen,
+das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit ist
+**Band 1 zu Ende erzählt.** Begründung und verworfene Alternativen in
+`doc/08-decisions.md` unter „Der Schluss von Band 1".
+
+---
+
+## Was Band 2 mitbekommt
+
+Nichts davon wird in 34 angefasst, und das ist Absicht.
+
+1. **Los elf und der Name des Garanten** — dieselbe Vorenthaltung, beide Hälften
+   gehören zusammen (Punkt 9 oben). Der Junge wird laut Absprache vom 23.08.
+   irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen. **Annie
+   sagt in Kapitel 34, dass sie viermal in dem Gebäude war und dass es beim
+   dritten Mal nicht das Geld war.** Was es stattdessen war, ist der Faden.
+2. **Ye-rin kommt von selbst zurück**, sobald das Vetorecht beisst und die Kims
+   merken, dass sie Personal geworden sind. Der ungenannte Preis liegt bereit und
+   gehört ihr zum Anbieten.
+3. **Sang-hoon zahlt nicht zweimal — vier andere schon.** Annie sagt das in 34
+   ausdrücklich, und sie sagt dazu, dass er innerhalb eines Jahres recht behalten
+   wird mit „zu niedrig".
+4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
+   der Container**, als Zeile und nie als Szene. **Die Pipeline**, und wenn sie
+   ausgesprochen wird, darf sie keine Erleichterung sein.
+5. **Annies Name ist weiterhin nicht ausgesprochen worden** — vier Silben, seit
+   Kapitel 24, einmal von Georgij benutzt und seitdem nicht wieder. Wie er lautet,
+   steht immer noch nicht fest, und sie hat weiterhin keinen Nachnamen.
+6. **Seine Bitte von der Brücke steht unbeantwortet:** nie vor Zeugen. Sie hat nie
+   zugesagt, sie hat die Fernbedienung in den Han geworfen, und das ist eine
+   Bezahlung und keine Zusage. Kapitel 34 fasst es nicht an.
+7. **Und der Preis für den Schock ist damit bezahlt, aber nicht der Rest.** Das
+   Register war die vorgesehene Einlösung und ist eingelöst. Was neu offen steht,
+   ist die Gegenrichtung: Seit dem 1. März kann Annie ihn jeden Dienstag im Flur
+   wegschicken, und beide wissen es, und er hat es ihr selbst vorgerechnet.
 
 ---
 
