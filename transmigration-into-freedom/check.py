@@ -100,11 +100,19 @@ def check(path):
     if n > 1:
         errs.append(f'"would rather" steht {n} mal. Hoechstens einmal.')
 
-    hits = re.findall(r".{0,45}\b(?:is not a|isn't a|it is not|It is not|That is not|was not a)\b.{0,45}", t)
-    if len(hits) > 1:
-        warns.append(f'DiGiorno "nicht X, sondern Y" moeglicherweise {len(hits)} mal:')
-        for h in hits:
-            warns.append("           ..." + h.replace("\n", " ").strip() + "...")
+    # DiGiorno ist nicht jede Verneinung, sondern die POINTEN-FORM: ein kurzer
+    # verneinter Satz, direkt gefolgt von der positiven Auffuellung.
+    # "It is not a stream. This is a floor." feuert. "Not much, and never about
+    # herself." feuert nicht - das ist gewoehnliche Prosa und soll bleiben.
+    digi = re.compile(
+        r"((?:is not a|isn't a|it is not|It is not|That is not|That was not|"
+        r"was not a|Not a |Not the |Not into|Not at )[^.!?\n]{0,45}[.!?])"
+        r"\s+((?:This is|This was|A |An |The |Upward|Away)[^.!?\n]{0,45}[.!?,])")
+    hits = digi.findall(t)
+    if hits:
+        warns.append(f'DiGiorno-Pointe {len(hits)} mal (der Autor will keine):')
+        for a, b in hits:
+            warns.append("           ..." + (a + " " + b).replace("\n", " ").strip() + "...")
 
     for p in SELF_COMMENT:
         if t.count(p):

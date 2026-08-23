@@ -2,26 +2,26 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-14 Kapitel. 28.575 Woerter.
+14 Kapitel. 28.572 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
 | Kap | Titel | Woerter |
 |---|---|---|
-| 01 | Chapter 1: Awakening in Ash | 2.499 |
-| 02 | Chapter 2: First Blood. First Skill | 2.485 |
-| 03 | Chapter 3: Dead Man's Boots | 2.481 |
+| 01 | Chapter 1: Awakening in Ash | 2.505 |
+| 02 | Chapter 2: First Blood. First Skill | 2.471 |
+| 03 | Chapter 3: Dead Man's Boots | 2.475 |
 | 04 | Chapter 4: Liars Decorate | 2.172 |
 | 05 | Chapter 5: The Lamp Goes Out | 1.697 |
-| 06 | Chapter 6: Every Plan I Make Is for One | 2.395 |
-| 07 | Chapter 7: How Did You Know | 1.876 |
-| 08 | Chapter 8: It Has Been Keeping Score | 1.086 |
-| 09 | Chapter 9: What the Panel Will Not Say | 1.556 |
-| 10 | Chapter 10: The Price Went Up | 1.946 |
+| 06 | Chapter 6: Every Plan I Make Is for One | 2.396 |
+| 07 | Chapter 7: How Did You Know | 1.868 |
+| 08 | Chapter 8: It Has Been Keeping Score | 1.081 |
+| 09 | Chapter 9: What the Panel Will Not Say | 1.571 |
+| 10 | Chapter 10: The Price Went Up | 1.941 |
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
-| 13 | Chapter 13: The Cost of Shutting a Door | 1.924 |
-| 14 | Chapter 14: Say It in the Road | 2.640 |
+| 13 | Chapter 13: The Cost of Shutting a Door | 1.932 |
+| 14 | Chapter 14: Say It in the Road | 2.645 |
 
 ---
 
@@ -167,7 +167,7 @@ Whatever that was, it was not one point better than the man who delivered his po
 
 So ten was not the average man.
 
-He stood very still in the ash and worked it forward. Ten was not a person at all. Ten was a floor. The scale started somewhere above human and ran up from there, and the higher it ran, the more each single point would be hiding.
+He stood very still in the ash and worked it forward. Ten was a floor, and everything standing on it had stopped being a person some way below. The scale started somewhere above human and ran up from there, and the higher it ran, the more each single point would be hiding.
 
 He had no idea what a bear scored on this thing.
 
@@ -345,7 +345,7 @@ A seam. Just behind the skull, where the plating met the thorax, a band of pale 
 
 The small one lunged at his ankle. He let it come. Felt barbs open a hot line across his calf and used the pain, pushing off the ground into a leap that had absolutely no technique in it at all.
 
-He brought the obsidian down point first. Not a slash. A stab, all his weight behind it, every kilo of a body he had not earned and every year of a life he had wasted poured into one downward thrust.
+He brought the obsidian down point first, all his weight behind it, every kilo of a body he had not earned and every year of a life he had wasted poured into one downward thrust.
 
 Crunch.
 
@@ -363,7 +363,7 @@ The Crawler convulsed. Its legs hammered the ground in a broken drumroll, foldin
 
 The red eyes dimmed. Went out.
 
-The body came apart. Not into meat, into light, motes of it lifting off the corpse like sparks off a fire and drifting up toward the hole in the roof.
+The body came apart into light, motes of it lifting off the corpse like sparks off a fire and drifting up toward the hole in the roof.
 
 He watched an entire living thing turn into ash and glitter, and he was breathing hard, and he was grinning.
 
@@ -379,7 +379,7 @@ It skittered backward, chitin scraping stone, putting a fallen pillar between th
 
 Cold understanding settled in his gut. It had seen its bigger sibling die. It had learned. Whatever these things were, they weren't just hungry meat with legs.
 
-His arm still trembled from the kill. The obsidian felt slick now, black ichor coating his grip, and the stuff burned faintly where it touched his skin. Not acid. Something worse. Something that itched.
+His arm still trembled from the kill. The obsidian felt slick now, black ichor coating his grip, and the stuff burned faintly where it touched his skin. Something worse than acid. Something that itched.
 
 He shifted his stance. The Crawler mirrored him.
 
@@ -393,7 +393,7 @@ But steady breath didn't win fights. The thing was faster than him. Lower to the
 
 So don't repeat it. Change the board.
 
-His eyes swept the chamber. Not panic. Something colder, older, clicking over behind his ribs like a machine finding its rhythm. What can cut. What can fall. What can hold weight.
+His eyes swept the chamber. Something colder than panic, and older, clicking over behind his ribs like a machine finding its rhythm. What can cut. What can fall. What can hold weight.
 
 Rubble field to his right, bad footing for a six-legged thing built for speed. Broken pillar between them. And above, a slab of ceiling hanging on two iron pins, rust-eaten and bowed, sagging, groaning whenever the wind shifted through the ruin.
 
@@ -401,13 +401,13 @@ Heavy. Very heavy.
 
 "Alright, gorgeous. Let's get you on your back."
 
-He picked up a fist-sized chunk of masonry with his off hand and threw it. Not at the Crawler, past it, hard, cracking against the far wall.
+He picked up a fist-sized chunk of masonry with his off hand and threw it past the Crawler, hard, cracking against the far wall.
 
 The creature flinched toward the noise. A quarter second. Half a body length.
 
 He was already moving.
 
-Not at it. Away from it, into the rubble field, feet slipping on loose stone, deliberately loud, deliberately clumsy. Prey noise. Panic noise. The kind of sound that turns a cautious hunter back into a stupid one.
+Away from it, into the rubble field, feet slipping on loose stone, deliberately loud, deliberately clumsy. Prey noise. Panic noise. The kind of sound that turns a cautious hunter back into a stupid one.
 
 It worked. Behind him, chitin exploded into motion, limbs hammering the ground in a rapid wet drumbeat, closing fast.
 
@@ -419,7 +419,7 @@ He planted his foot on a canted slab and threw himself sideways under the hangin
 
 The Crawler followed him into the gap.
 
-He came up on one knee with the obsidian reversed in his fist. Not into the creature. Upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
+He came up on one knee with the obsidian reversed in his fist and drove it upward, into the rusted pin holding the slab, a full body swing with everything his new shoulders could give.
 
 Metal shrieked. Snapped.
 
@@ -646,8 +646,6 @@ That was when he started revising his estimate of how long this place had been e
 Light ahead. Real light, not the dusty grey shaft through the roof. He came up a fallen ramp of masonry, put his hand on the edge, and hauled himself out into the open.
 
 And stopped.
-
-The ruin was not a building.
 
 It went on. From up here he could see it running away from him in every direction. Street after street of it, broken walls standing in rows under a green tide of growth, avenues wide enough to drive four trucks abreast. All of it drowning slowly in forest. A stone thing that might have been an aqueduct crossed the middle distance on legs a hundred feet high, snapped clean in two, both ends reaching for each other over a gap the length of a football pitch.
 
@@ -1278,7 +1276,7 @@ He had a reason for choosing that door and it was a number nobody else in this v
 
 She did not ask how he knew. She looked past him into the dark, once, and put her head back inside and made a noise.
 
-It was not a word. It was long and it went up at the end, and it came out of her like something she had been carrying since she was a child. It went the length of that road.
+There were no words in it. It was long and it went up at the end, and it came out of her like something she had been carrying since she was a child. It went the length of that road.
 
 Then Oldstep moved.
 
@@ -1584,7 +1582,7 @@ Marit looked at him for a moment.
 
 Gaara said nothing for about ten paces.
 
-"So it is not the insult," he said. "It is the audience."
+"The audience," he said.
 
 "It's always the audience."
 
@@ -1725,7 +1723,7 @@ His palm went across a joint.
 
 He moved the hand. Another joint, the same distance along, and another, evenly, the way joints only come when somebody has put them there.
 
-"This is not a stream," he said. "This is a floor. One foot of fall in forty, and it does not vary, so it was measured. Your water is coming out of a drain."
+"This is a floor," he said. "One foot of fall in forty, and it does not vary, so it was measured. Your water is coming out of a drain."
 
 Marit stood in it and looked, and he watched her decide to believe him before he had finished, which was the difference between her and forty houses.
 
@@ -1809,7 +1807,7 @@ The stink came after it and hung there.
 
 "They don't do that."
 
-"No." He came out of the stone and looked down the tube after it, south, towards her fields and her road and her houses. "It was not hunting. It was leaving."
+"No." He came out of the stone and looked down the tube after it, south, towards her fields and her road and her houses. "It never even looked at us. Whatever that was, it was on its way somewhere."
 
 Four hundred paces up, the tube opened into a hall with the roof gone and daylight coming down through roots.
 
@@ -1906,7 +1904,7 @@ Iron, black with age, thicker than his arm, set in dressed stone with the same s
 
 The gate was up.
 
-Not broken, not fallen, not rusted through. Raised eighteen inches and held there on two squared blocks that somebody had carried in.
+Nothing had broken it or dropped it or eaten through it. It had been raised eighteen inches and held there on two squared blocks that somebody had carried in.
 
 Gaara stood in front of it with the water going past his knees.
 
@@ -2010,7 +2008,7 @@ He got the answer forty paces later, and he did not enjoy it.
 
 The line stopped.
 
-Not petered out. Stopped, at a groove cut into the floor, and beyond the groove there were nests that nobody had opened and silt that nobody had walked.
+It stopped dead, at a groove cut into the floor, and beyond the groove there were nests that nobody had opened and silt that nobody had walked.
 
 The groove ran away in both directions and did not curve enough to tell him anything from where he stood.
 
@@ -2053,7 +2051,7 @@ Chitin, silt, bone
 
 "What."
 
-"It is not the thing." He crouched with his hand flat on the groove. "It has never been the thing. Everything inside this line reads the same, and it reads that whether it is a monster or an empty nest or a handful of dirt. This was never a fence, Marit. It is a blind spot, and somebody cut it into the floor on purpose."
+"It has never been the thing." He crouched with his hand flat on the groove. "Everything inside this line reads the same, and it reads that whether it is a monster or an empty nest or a handful of dirt. Somebody cut a blind spot into this floor on purpose, Marit, and we have been standing here calling it a fence."
 
 She came and stood at the edge of it and did not cross.
 
@@ -2337,7 +2335,7 @@ She waited. She had got good at waiting.
 
 "Crawlers."
 
-"A five. A five. Something I did not read. A five. And a six, just now, when I was a three." He was talking faster. "In your road I killed a small one when I was a two and it was worth almost nothing. Down here I killed a six and it was worth most of a level on its own. It is not counting corpses, Marit. It is weighing them."
+"A five. A five. Something I did not read. A five. And a six, just now, when I was a three." He was talking faster. "In your road I killed a small one when I was a two and it was worth almost nothing. Down here I killed a six and it was worth most of a level on its own. It weighs them, Marit. It has never once counted them."
 
 Marit thought about that with her hatchet across her knees.
 
@@ -2664,7 +2662,7 @@ Gaara stood in the doorway and looked at the floor he had slept on two nights ag
 
 Under the stone there was a dry pit lined with slate, and in the pit there was a windlass.
 
-Not a village windlass. Oak drum, iron gudgeons, a pawl and ratchet cut by somebody who understood what a pawl is for, and a coil of chain that had been greased so many times the links were black with it. Four oak levers. A dozen iron wedges. Two blocks and a sling.
+No village made this. Oak drum, iron gudgeons, a pawl and ratchet cut by somebody who understood what a pawl is for, and a coil of chain that had been greased so many times the links were black with it. Four oak levers. A dozen iron wedges. Two blocks and a sling.
 
 Gaara went down on one knee at the edge of the pit and did not touch any of it.
 
@@ -2730,7 +2728,7 @@ He sat down on the upturned bucket he had sharpened a knife on, in a byre with f
 
 Hallvard sat on the flagstone. Marit did not sit.
 
-"One. Killing them does not solve it. There are four hundred nests in that room and the thing that makes them is behind a line I cannot see across. I could stand in the shallows opening crawlers for a year and get old and rich and change nothing." He held up a finger. "Two. Shutting the gate does solve it. Not the room. The road. Everything that has died in your fields came down a channel, and a channel is a thing with a door on it."
+"One. Killing them does not solve it. There are four hundred nests in that room and the thing that makes them is behind a line I cannot see across. I could stand in the shallows opening crawlers for a year and get old and rich and change nothing." He held up a finger. "Two. The gate solves the road. We cannot touch the room and I am not going to pretend otherwise, but everything that has died in your fields came down a channel, and a channel is a thing with a door on it."
 
 "And three?" said Marit.
 
@@ -2932,7 +2930,7 @@ Hallvard sat very still.
 
 "You could say it for me."
 
-"I could not," said Gaara. "I have one asset in this village and it is that nothing I have said here has been untrue. I am not going to spend it telling your story for you. It has to come out of your mouth, in front of the houses you have been counting for thirty-one years." He straightened up. "Also, I am not going to do it because it is yours. That is not kindness. It is bookkeeping."
+"I could not," said Gaara. "I have one asset in this village and it is that nothing I have said here has been untrue. I am not going to spend it telling your story for you. It has to come out of your mouth, in front of the houses you have been counting for thirty-one years." He straightened up. "Also, I am not doing it because it is yours. That is bookkeeping, and I would rather you did not mistake it for kindness."
 
 "They will take the elder off me," said Hallvard.
 

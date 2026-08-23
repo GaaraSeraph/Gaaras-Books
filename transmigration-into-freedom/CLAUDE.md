@@ -33,6 +33,16 @@ These are not preferences. The author's writing app renders markdown as literal 
 
 - NO markdown inside chapter prose. No asterisks, no hashes, no underscores, no horizontal rules.
 - NO em dashes anywhere, ever. Plain hyphens only.
+- NO DiGiorno punchlines. The author does not want them. The banned shape is a
+  short negated sentence immediately refilled by a short positive one, used as a
+  reveal: "This is not a stream. This is a floor." "It was not hunting. It was
+  leaving." "It is not counting corpses. It is weighing them." Eighteen of these
+  had accumulated across fourteen chapters before it was caught.
+  This is NOT a ban on negation. "Not much, and never about herself." "The
+  hatchet came down. Not away, just down." "Something colder than panic." All
+  fine, all ordinary prose, all staying.
+  check.py now flags the punchline shape specifically and fires on the first
+  one, not the second.
 - NO chapter title inside the chapter file text. The `.md` copy carries an H1; the `.txt` does not.
 - System output is written in plain brackets on its own lines, e.g. `[ LEVEL UP ]`, `[ TRANSLATION ACTIVE ]`, `[ STATUS ]`.
 - Emphasis comes from sentence structure, never from italics.

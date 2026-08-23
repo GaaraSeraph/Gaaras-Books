@@ -121,7 +121,7 @@ His palm went across a joint.
 
 He moved the hand. Another joint, the same distance along, and another, evenly, the way joints only come when somebody has put them there.
 
-"This is not a stream," he said. "This is a floor. One foot of fall in forty, and it does not vary, so it was measured. Your water is coming out of a drain."
+"This is a floor," he said. "One foot of fall in forty, and it does not vary, so it was measured. Your water is coming out of a drain."
 
 Marit stood in it and looked, and he watched her decide to believe him before he had finished, which was the difference between her and forty houses.
 

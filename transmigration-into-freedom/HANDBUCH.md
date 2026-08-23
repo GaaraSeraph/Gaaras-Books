@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 14 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 17.605 Woerter.
+Alle 4 Dokumente am Stueck. 17.838 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -511,6 +511,25 @@ numbers have to be derivable by the reader. Where a number does not move,
 the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
+
+=== No DiGiorno punchlines, and two of them survive on a distinction ===
+The author asked for none. Eighteen had accumulated across fourteen chapters and
+the densest nest was in ch2, which has eight in a single fight. All the
+informational ones are gone: the stream that is a floor, the crawler that was
+leaving rather than hunting, the count that is a weighing, the fence that is a
+blind spot, the windlass that no village made, the kindness that is bookkeeping.
+Two were kept, and the distinction is worth writing down because it decides
+future cases: the shape is bad when it delivers INFORMATION, because then it is
+a clever man doing a reveal and it reads as smug. It survives when it delivers
+FEELING, because then it is a man correcting himself about his own life and the
+correction is the point.
+The two survivors are both from the first three chapters and both about him:
+"The humiliation had been the worst part. Not the pain. The being handled."
+And: "That, somehow, was the thing that got him. Not the aqueduct. The bird."
+Neither is a reveal. Both are a man finding out what actually hurt.
+If the author wants literally zero, these two go and the rule loses its
+exception. They are flagged by check.py either way, so the decision stays
+visible on every run rather than being buried here.
 
 === The humour exemption was written too wide ===
 The register rule carved out "grief", and on the next pass that got applied to

@@ -118,8 +118,6 @@ Light ahead. Real light, not the dusty grey shaft through the roof. He came up a
 
 And stopped.
 
-The ruin was not a building.
-
 It went on. From up here he could see it running away from him in every direction. Street after street of it, broken walls standing in rows under a green tide of growth, avenues wide enough to drive four trucks abreast. All of it drowning slowly in forest. A stone thing that might have been an aqueduct crossed the middle distance on legs a hundred feet high, snapped clean in two, both ends reaching for each other over a gap the length of a football pitch.
 
 He had crawled out of one room of a city.

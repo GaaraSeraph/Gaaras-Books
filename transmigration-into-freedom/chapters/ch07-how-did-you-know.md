@@ -184,7 +184,7 @@ Marit looked at him for a moment.
 
 Gaara said nothing for about ten paces.
 
-"So it is not the insult," he said. "It is the audience."
+"The audience," he said.
 
 "It's always the audience."
 

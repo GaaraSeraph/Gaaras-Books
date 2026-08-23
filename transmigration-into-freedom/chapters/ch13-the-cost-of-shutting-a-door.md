@@ -18,7 +18,7 @@ Gaara stood in the doorway and looked at the floor he had slept on two nights ag
 
 Under the stone there was a dry pit lined with slate, and in the pit there was a windlass.
 
-Not a village windlass. Oak drum, iron gudgeons, a pawl and ratchet cut by somebody who understood what a pawl is for, and a coil of chain that had been greased so many times the links were black with it. Four oak levers. A dozen iron wedges. Two blocks and a sling.
+No village made this. Oak drum, iron gudgeons, a pawl and ratchet cut by somebody who understood what a pawl is for, and a coil of chain that had been greased so many times the links were black with it. Four oak levers. A dozen iron wedges. Two blocks and a sling.
 
 Gaara went down on one knee at the edge of the pit and did not touch any of it.
 
@@ -84,7 +84,7 @@ He sat down on the upturned bucket he had sharpened a knife on, in a byre with f
 
 Hallvard sat on the flagstone. Marit did not sit.
 
-"One. Killing them does not solve it. There are four hundred nests in that room and the thing that makes them is behind a line I cannot see across. I could stand in the shallows opening crawlers for a year and get old and rich and change nothing." He held up a finger. "Two. Shutting the gate does solve it. Not the room. The road. Everything that has died in your fields came down a channel, and a channel is a thing with a door on it."
+"One. Killing them does not solve it. There are four hundred nests in that room and the thing that makes them is behind a line I cannot see across. I could stand in the shallows opening crawlers for a year and get old and rich and change nothing." He held up a finger. "Two. The gate solves the road. We cannot touch the room and I am not going to pretend otherwise, but everything that has died in your fields came down a channel, and a channel is a thing with a door on it."
 
 "And three?" said Marit.
 
