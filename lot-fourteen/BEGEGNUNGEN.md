@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 435 | 45 (b1ch01-b2ch16) | 1 | 74 |
+| Annie | 445 | 46 (b1ch01-b2ch18) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 144 | 27 (b1ch07-b2ch15) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
@@ -56,7 +56,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-435 Nennungen in 45 Kapiteln.
+445 Nennungen in 46 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -495,6 +495,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch16:178 | Annie did not move for a moment. |
 | 6 | b2ch16:198 | Annie looked at him for a while. |
 | 6 | b2ch16:208 | "Then that is the second thing you have brought me in a month that I did not have to ask.. |
+| 8 | b2ch18:30 | Annie was standing at the window when he began and she was still standing at it when he .. |
+| 8 | b2ch18:88 | Annie did not interrupt him. |
+| 8 | b2ch18:104 | "That is the worst argument you have ever made in this room," said Annie, "and it is the.. |
+| 8 | b2ch18:128 | "The name changes exactly one thing," said Annie, "and it is not what you think it is. I.. |
+| 8 | b2ch18:142 | "You have walked past him twice," said Annie. "Once in October and once in March, and bo.. |
+| 8 | b2ch18:156 | "That is the argument," said Annie. "It is better than yours and we both know it, and I .. |
+| 8 | b2ch18:174 | Annie thought about that for a while, and it was a real pause and not a performance. |
+| 8 | b2ch18:196 | "It means rather more than that." Annie picked up the notebook and turned it round and r.. |
+| 8 | b2ch18:258 | Annie did not say anything to that for a moment. |
+| 8 | b2ch18:268 | "No," said Annie. "But it is going to be true on Thursday anyway." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -602,6 +612,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:152` (Tag 4) - four
 - `b2ch15:38` (Tag 4) - one
 - `b2ch16:168` (Tag 6) - six
+- `b2ch18:104` (Tag 8) - one, two
+- `b2ch18:128` (Tag 8) - four, one
+- `b2ch18:196` (Tag 8) - five, two
 
 ---
 

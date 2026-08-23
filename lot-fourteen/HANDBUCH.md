@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 109.673 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 111.052 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2213,6 +2213,10 @@ nachrechnen, und `check.py` tut das automatisch.
   gegessen, wurde ohne Namen vorgestellt, rief in der ersten Maerzwoche an -
   **und sagte zum Abschied "I am glad we finally met", obwohl sie sich nie
   begegnet waren** (Band 2, Kapitel 17)
+- Tag 206, Mo 27. April, abends: **Annie kennt ihn und sagt es zum ersten Mal.**
+  Den Namen gibt sie trotzdem nicht, und diesmal mit dem echten Grund: **der Name
+  ist das Einzige, was Georgij lesbar machen wuerde.** Statt dessen ein
+  Verhaltensmerkmal, das mehr wert ist (Band 2, Kapitel 18)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3074,6 +3078,36 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und Ok will am Schluss den Namen**, den Georgij ihm vorher als nutzlos angekuendigt hatte. Er bekommt ihn, und er bedeutet ihm nichts, **wie im Maerz an einem Tor in Ulsan - nur dass es diesmal nicht mehr das tut, was es damals getan hat.**
 
   **Der Schluss zeigt auf Kapitel 18:** eine Beschreibung ist keine Beschreibung, vierhundert Maenner in dieser Stadt sind sechzig und leise und nicht gross. **Aber ein Satz gehoert jemandem**, und es gibt genau eine Person, die in genug Raeumen war, um einen Satz zu hoeren und ein Gesicht darauf zu legen. *"She has been declining to give him that face since December, and she has had a reason every single time, and every one of those reasons was better in December than it is tonight."*
+
+- **Band 2, Kapitel 18** *The face on it* (v1.0) - **Tag 206, Mo 27. April, abends. Eine Szene, das kleine Zimmer, am selben Tag wie Kapitel 17.**
+
+  **Er liest ihr alle neun Zeilen vor und sagt vorher, warum:** *"Eight of them are worth nothing. I am going to read you all nine anyway, because if I read you the one you will hear it differently."*
+
+  **Und der Beweis ist eine Abwesenheit, genau wie in Kapitel 16.** Er kennt die sechs oder sieben kleinen Dinge, die an ihr geschehen, wenn sie ueberrascht ist, wenn sie sich langweilt, wenn sie es schon von jemand anderem hatte. **Keines davon geschieht.** *"She went entirely still in the way that a person does not go still by accident."*
+
+  **"You know him." - "Yes."** Zum ersten Mal beantwortet sie diese Frage mit einem Wort. **Und den Namen gibt sie trotzdem nicht.**
+
+  **Georgij argumentiert und kuendigt an, dass er verlieren wird**, und seine Argumente sind gut: die Gruende vom Dezember und vom Maerz waren beide, die Arbeit zu schuetzen, **und es gibt keine Arbeit mehr zu schuetzen.** *"He has spent me. ... Whatever I was on the second of March, I am not it now."* Dazu die zweite Haelfte, die er selbst als kein Argument bezeichnet: er koennte einer Frau in Ulsan alles geben ausser einem Wort, **und das eine Wort ist das einzige, das sie wollen wuerde.**
+
+  **Annies Urteil darueber ist eines der haertesten Dinge, die sie ihm sagt:** *"That is the worst argument you have ever made in this room, and it is the first one that has ever been difficult to listen to, and I want you to understand that those are two different sentences."*
+
+  **Und dann antwortet sie zum ersten Mal vollstaendig, statt sich hinter Dezember zu stellen.** Choi handelt nie: keine wiederholbare Anweisung, keine Bitte, die man ablehnen koennte, seit fuenfundzwanzig Jahren. *"That is not a man with a method. That is a man who has found a way to live."*
+
+  **Der echte Grund fuer das Zurueckhalten, und er ist neu und er ist besser als der alte:** der Name sagt nichts ueber Ort oder Besitz - **er veraendert Georgij.** *"The day you have his name, everything you do about him is a decision. ... And he reads guest lists for a living."* Also: **"The name is the thing that makes you legible."** Sieben Wochen unsichtbar, und zwar vollstaendig zufaellig.
+
+  **Und ihr Schlusssatz dazu laesst nichts uebrig:** *"I am not going to spend it on a Thursday afternoon in a yard in Ulsan so that a woman who tried to blackmail me can feel answered."* Danach: *"It is better than yours and we both know it, and I am sorry, and being sorry does not move it."* **Er reagiert nicht auf das Wort**, weil sie es sonst bereuen wuerde, und weil sie es etwa zweimal im Jahr sagt.
+
+  **Was er statt dessen bekommt, ist mehr wert als ein Name, und es ist ein Verhaltensmerkmal: er isst nicht vor Leuten, an denen er arbeitet.** Nicht aus Disziplin, sondern weil er beides nicht gleichzeitig kann, **und er hat nie bemerkt, dass man es sieht.**
+
+  **Und die Folge daraus ist der eigentliche Fund:** jeder Mann in dieser Stadt, der ihn je hat essen sehen, ist ein Mann, an dem er **nicht** gearbeitet hat. Annie faellt fuenf davon ein. **Georgij hat zwei davon getroffen.** Sie sagt nicht welche - *"You will get there in about four days and it will be yours when you do."*
+
+  **Sie benennt selbst, was sie tut:** *"I have been sitting on the whole of it since December and I have just given you the smallest piece I could get away with, and both of us are aware of it."* Und er spricht es aus: sie haelt es weiter, und am Tag, an dem sie aufhoert, wird es daran liegen, dass es unsicher geworden ist, **und nicht daran, dass er gefragt hat.**
+
+  **Ihre Frage danach ist die erste in zwei Baenden, ueber die er nachdenken muss, bevor er antwortet.** *"Does that make you angry."* - **"No. It makes me tired, and I have not been tired since the second of March, and I would rather be angry. Anger is quicker."**
+
+  **Und die Hand auf der Halsseite ueber dem Halsband**, dreimal seit Oktober und noch nie in diesem Raum. Dazu ihr letzter Zug, der ehrlich ist und trotzdem ein Zug: *"You are going to manage it because you have not got the name and cannot give it to her."* - *"That is not why you kept it."* - **"No. But it is going to be true on Thursday anyway."**
+
+  **Und auf der Treppe faengt er sofort an**, und macht es richtig: die Liste wird nicht heute Abend geschrieben, sondern am Mittwoch, auf Papier, mit Daten, in der Reihenfolge der Mahlzeiten, *"because that is how a list stops being a feeling."* **Neun Mahlzeiten seit Oktober**, und eine davon ist der 18. November, und er weiss schon, was dort stehen wird, **und schreibt es trotzdem der Reihe nach hin.**
 
 ---
 
@@ -4663,6 +4697,37 @@ Fassung.**
   Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
   wenn man den Richtigen fragt.**
 
+- **DIE NEUN MAHLZEITEN. Faellig Mittwoch, 29. April, gesetzt in Band 2,
+  Kapitel 18.** Annie hat den Namen nicht gegeben, sondern ein Verhaltensmerkmal:
+  **Choi isst nicht vor Leuten, an denen er arbeitet.** Woraus folgt, dass jeder,
+  der ihn hat essen sehen, nicht bearbeitet wurde. Annie faellt davon fuenf ein,
+  **und Georgij hat zwei davon getroffen.**
+
+  Er schreibt die Liste am Mittwoch, mit Daten, in der Reihenfolge der
+  Mahlzeiten. **Neun seit Oktober**, und eine davon ist der 18. November.
+  *"He already knows what he is going to find when he gets to it, and he is
+  going to write it down in its place anyway."* **Diese Liste muss im Text
+  tatsaechlich entstehen.**
+
+- **Nam Byung-hee bei Chairman Woo unterbringen - SPAETER, und sie darf nie
+  erfahren, dass es von Georgij kommt.** Sonst ist die Rede in Ulsan keine
+  Entschuldigung, sondern eine Anzahlung. **Sie muss nichts haben, wenn er
+  spricht.**
+
+  **Die drei Gruende und sie sind gleichzeitig warm und eiskalt:** sie ist
+  kompetent, sie ist ehrlich, **und wer einmal bewaffnet wurde, kann wieder
+  bewaffnet werden.** Der dritte schliesst sein letztes Loch. Und die Form ist
+  die Vollendung und nicht die Ruecknahme: eine Frau, die zwanzig Jahre ihre
+  eigene Firma hatte, endet als **Angestellte, auf Lohn, unter dem Schutz eines
+  Mannes.**
+
+  **Und es ist das Zeichen, das die Runde macht** - bis zu dem Mann, der ihr die
+  Seite geschickt hat. Der erfaehrt, was aus seinem Werkzeug geworden ist, **und
+  dass derselbe Mann es hinterher aufgehoben hat.**
+
+  **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
+  etwas.**
+
 - **DAS GESICHT ZU DEM SATZ. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
   Kapitel 17.** Georgij hat neun Zeilen Beschreibung und eine Signatur:
   *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
@@ -5710,7 +5775,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 435 | 45 (b1ch01-b2ch16) | 1 | 74 |
+| Annie | 445 | 46 (b1ch01-b2ch18) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 144 | 27 (b1ch07-b2ch15) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
@@ -5748,7 +5813,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-435 Nennungen in 45 Kapiteln.
+445 Nennungen in 46 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6187,6 +6252,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch16:178 | Annie did not move for a moment. |
 | 6 | b2ch16:198 | Annie looked at him for a while. |
 | 6 | b2ch16:208 | "Then that is the second thing you have brought me in a month that I did not have to ask.. |
+| 8 | b2ch18:30 | Annie was standing at the window when he began and she was still standing at it when he .. |
+| 8 | b2ch18:88 | Annie did not interrupt him. |
+| 8 | b2ch18:104 | "That is the worst argument you have ever made in this room," said Annie, "and it is the.. |
+| 8 | b2ch18:128 | "The name changes exactly one thing," said Annie, "and it is not what you think it is. I.. |
+| 8 | b2ch18:142 | "You have walked past him twice," said Annie. "Once in October and once in March, and bo.. |
+| 8 | b2ch18:156 | "That is the argument," said Annie. "It is better than yours and we both know it, and I .. |
+| 8 | b2ch18:174 | Annie thought about that for a while, and it was a real pause and not a performance. |
+| 8 | b2ch18:196 | "It means rather more than that." Annie picked up the notebook and turned it round and r.. |
+| 8 | b2ch18:258 | Annie did not say anything to that for a moment. |
+| 8 | b2ch18:268 | "No," said Annie. "But it is going to be true on Thursday anyway." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6294,6 +6369,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:152` (Tag 4) - four
 - `b2ch15:38` (Tag 4) - one
 - `b2ch16:168` (Tag 6) - six
+- `b2ch18:104` (Tag 8) - one, two
+- `b2ch18:128` (Tag 8) - four, one
+- `b2ch18:196` (Tag 8) - five, two
 
 ---
 

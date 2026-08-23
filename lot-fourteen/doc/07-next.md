@@ -611,6 +611,37 @@ Fassung.**
   Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
   wenn man den Richtigen fragt.**
 
+- **DIE NEUN MAHLZEITEN. Faellig Mittwoch, 29. April, gesetzt in Band 2,
+  Kapitel 18.** Annie hat den Namen nicht gegeben, sondern ein Verhaltensmerkmal:
+  **Choi isst nicht vor Leuten, an denen er arbeitet.** Woraus folgt, dass jeder,
+  der ihn hat essen sehen, nicht bearbeitet wurde. Annie faellt davon fuenf ein,
+  **und Georgij hat zwei davon getroffen.**
+
+  Er schreibt die Liste am Mittwoch, mit Daten, in der Reihenfolge der
+  Mahlzeiten. **Neun seit Oktober**, und eine davon ist der 18. November.
+  *"He already knows what he is going to find when he gets to it, and he is
+  going to write it down in its place anyway."* **Diese Liste muss im Text
+  tatsaechlich entstehen.**
+
+- **Nam Byung-hee bei Chairman Woo unterbringen - SPAETER, und sie darf nie
+  erfahren, dass es von Georgij kommt.** Sonst ist die Rede in Ulsan keine
+  Entschuldigung, sondern eine Anzahlung. **Sie muss nichts haben, wenn er
+  spricht.**
+
+  **Die drei Gruende und sie sind gleichzeitig warm und eiskalt:** sie ist
+  kompetent, sie ist ehrlich, **und wer einmal bewaffnet wurde, kann wieder
+  bewaffnet werden.** Der dritte schliesst sein letztes Loch. Und die Form ist
+  die Vollendung und nicht die Ruecknahme: eine Frau, die zwanzig Jahre ihre
+  eigene Firma hatte, endet als **Angestellte, auf Lohn, unter dem Schutz eines
+  Mannes.**
+
+  **Und es ist das Zeichen, das die Runde macht** - bis zu dem Mann, der ihr die
+  Seite geschickt hat. Der erfaehrt, was aus seinem Werkzeug geworden ist, **und
+  dass derselbe Mann es hinterher aufgehoben hat.**
+
+  **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
+  etwas.**
+
 - **DAS GESICHT ZU DEM SATZ. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
   Kapitel 17.** Georgij hat neun Zeilen Beschreibung und eine Signatur:
   *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
