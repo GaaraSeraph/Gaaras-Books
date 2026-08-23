@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 81.876 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 82.909 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -122,8 +122,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Hong](#mr-hong)
   - [Ji-won](#ji-won)
-  - [Mr Pyo](#mr-pyo)
   - [Mr Ku](#mr-ku)
+  - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
@@ -1850,6 +1850,9 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 150, Mo 2. Maerz: **Anfang Band 2.** Erster Arbeitstag, weil der Sonntag
   ihr gehoert hat. Er bittet um eine neue Vollmacht und bekommt sie nicht. Der
   aufgeraeumte Katalog kommt ins Haus (Band 2, Kapitel 1)
+- Tag 152, Mi 4. Maerz: Gimpo, Shins Hof. **Er bezahlt zum ersten Mal, statt zu
+  nehmen**, und bekommt dafuer das Vetorecht von unten zu sehen (Band 2,
+  Kapitel 2)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2221,6 +2224,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und die vierte Vorenthaltung faengt auf Seite eins an.** Auf *"Did you meet him?"* sagt Annie **"Ask me something else."** Sie war viermal in dem Gebaeude.
 
   **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
+
+- **Band 2, Kapitel 2** *The order of loading* (v1.0) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
+
+  **Die Regel dahinter ist `doc/01-craft.md` 2h.** Er laeuft nicht mit stumpfem Werkzeug hinein und scheitert. Er steht drei Sekunden in dem Hof und **legt alle vier Eroeffnungen ab**, bevor er den Mund aufmacht. Drei sind fuer Raeume, in denen der andere noch entscheidet, was Georgij ist; Shin entscheidet gar nichts, er hat vier Lastwagen und seit fuenf Wochen keine Ladung. Die vierte ist die Frage nach dem, vor dem man sich hueten soll, und die gehoert einem Neuling.
+
+  **Der Grund ist nicht Beruehmtheit, sondern Arithmetik:** *"You cannot take anything from a man who has nothing. You can only pay him."* Ein Spediteur mit neun Lastwagen liest keine Wirtschaftspresse und weiss nicht, wer Georgij ist. Er hat nur nichts mehr, woraus man etwas herausschmeicheln koennte.
+
+  **Womit er bezahlt, ist das, was Annie weggewischt hat.** Die vier Zeilen ueber Gimpo, die sie im Januar umgedreht und nie erwaehnt hat. Shin hat **Daehan** Ende Januar verloren und haelt sich seit fuenf Wochen selbst dafuer verantwortlich; in Wahrheit hat der Versicherer des Kunden im August eine Zeile ueber Traegerkonzentration umgeschrieben, und ab dem 1. Januar darf oberhalb einer Tonnage nur noch **ein** benannter Spediteur fahren. Shin liegt darunter. *"Nobody at your size in this country kept that contract this year, and the man who took it off you is not better at this than you are."* Dazu die Seite aus der Meldung des Kunden - Kanon aus `doc/04-world.md`: Georgij liest die Meldungen der Kunden, nicht die Vertraege.
+
+  **Was es ihn kostet, sagt er Annie selbst:** Es ist oeffentlich, es kostet sie nichts, und es gibt vielleicht vier Leute im Land, die es nachgelesen haetten. *"That is the part that cost something. He will repeat it, and he will repeat where he had it."*
+
+  **Der teuerste Satz des Kapitels ist einer, den er nicht sagt.** Shin hat im Februar zwei Maenner entlassen und ihnen die zwei Ladungen vom Oktober als Grund genannt. Georgij sagt ihm nicht, dass er jetzt hingehen und etwas anderes sagen kann - *"saying it out loud would have been the second thing given and the first thing taken."*
+
+  **Und dann kommt, wofuer das Kapitel da ist: das Vetorecht von unten.** Shin steht seit zwoelf Jahren zweimal die Woche am Tor in Incheon. *"What's different since January is that the waiting has a shape to it. Same name goes on first. Every sailing."* Dazu **der Mann aus Ulsan** - Chemie, eine Lane, sonst nichts -, dessen Kisten seit Mitte Januar zweimal stehengeblieben sind und der jetzt Dienstagnacht in der Fahrerkabine am Tor schlaeft, damit er morgens als Erster durchkommt. *"Being first through that gate has got nothing whatever to do with what goes on the ship. He knows that. He does it anyway."*
+
+  **Damit ist der Satz aus `doc/04-world.md` eingeloest**, der seit November darauf gewartet hat: *"Er wird das irgendwann zu Ende denken."* Georgij erkennt im Hof seine eigene Handschrift im Wetter. Er hat den Mechanismus im November an Annies Tisch vorgetragen, **als Grund, es zu tun**, und war zufrieden damit, wie sauber der Satz war. *"A man sleeps in a cab now, on the strength of it."*
+
+  **Choi kommt nicht vor, und das ist die Entscheidung des Kapitels.** Eine erste Fassung liess Shin von einem frueheren Besucher erzaehlen, der selbst gefahren war, nichts angefasst und keinen Namen hinterlassen hatte - also genau die Form, die Georgijs Verfahren nicht sieht. **Das haette Annies Vorenthaltung am dritten Tag entwertet**, denn wer die Form kennt, verhaelt sich korrekt darum herum, und korrektes Verhalten ist laut Kapitel 12 die Unterschrift. Choi bleibt draussen, bis sie es entscheidet oder bis es Georgij etwas kostet.
+
+  **Am Abend behandelt Annie die drei Dinge verschieden, und das ist die zweite Szene.** Die zwei Auftragspunkte nimmt sie in unter einer Minute. Zu der Bezahlung sagt sie **nichts** - nicht ja, nicht nein - und geht mit *"What else."* weiter. Ulsan nimmt sie im Sitzen und mit sechs Fragen, von denen er zwei nicht beantworten kann; die zweite davon ist **"whether anybody had gone to him yet"**.
+
+  **Ihr Auftrag am Schluss:** den Mann aus Ulsan namentlich, **nicht** ueber Shin, sondern aus den Meldungen und dann von jemandem, der selbst an dem Tor gestanden hat. Dazu ihre Prognose ohne Eile: *"They are all four of them worth having, and two of them will be gone by June."*
+
+  **Der Schluss zaehlt die zweite Nichtantwort.** *"That was the second time in two days that a question he had put down in front of her had been stepped over rather than answered, and the first time had been about a name."* Und die Bilanz: Gestern hat er um ein Papier gebeten, das sagt, was er darf, und keines bekommen; heute hat er ohne Papier etwas von ihr verschenkt, hatte recht, und sie hat es stehenlassen. **Er geht die Osttreppe hinauf und zaehlt die Stufen nicht** - in Kapitel 34 hat er sie gezaehlt und zweiundzwanzig bekommen, was er seit Oktober wusste.
 
 ---
 
@@ -4453,7 +4480,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 332 | 31 (b1ch01-b2ch01) | 1 | 74 |
+| Annie | 338 | 32 (b1ch01-b2ch02) | 1 | 74 |
 | Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
@@ -4464,8 +4491,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mr Ku | 11 | 8 (b1ch05-b2ch02) | 6 | 55 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
-| Mr Ku | 9 | 7 (b1ch05-b1ch32) | 6 | 55 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -4484,7 +4511,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-332 Nennungen in 31 Kapiteln.
+338 Nennungen in 32 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4820,6 +4847,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:226 | "You have read it," said Annie. |
 | 51 | b2ch01:254 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
 | 51 | b2ch01:264 | Annie put her hand flat on the arm of the chair. |
+| 53 | b2ch02:66 | It was worse than the four lines Annie had turned face down in January had assumed. It w.. |
+| 53 | b2ch02:134 | Annie came out of the small room at half past eight. |
+| 53 | b2ch02:142 | Annie did not put anything down. |
+| 53 | b2ch02:152 | Annie looked at him for a moment. |
+| 53 | b2ch02:172 | "You wrote it out correctly," said Annie. |
+| 53 | b2ch02:184 | Annie did not argue with any part of that, which he had not expected either. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4898,6 +4931,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch01:146` (Tag 51) - forty, twenty-two
 - `b2ch01:222` (Tag 51) - eight, ten
+- `b2ch02:66` (Tag 53) - four, one
+- `b2ch02:134` (Tag 53) - eight
 
 ---
 
@@ -5960,6 +5995,34 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Ku
+
+11 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+
+---
+
 ### Mr Pyo
 
 10 Nennungen in 7 Kapiteln.
@@ -5986,32 +6049,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:244` (Tag 1) - eleven, one
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
-
----
-
-### Mr Ku
-
-9 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
 
 ---
 

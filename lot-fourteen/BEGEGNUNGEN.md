@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 332 | 31 (b1ch01-b2ch01) | 1 | 74 |
+| Annie | 338 | 32 (b1ch01-b2ch02) | 1 | 74 |
 | Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
@@ -29,8 +29,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mr Ku | 11 | 8 (b1ch05-b2ch02) | 6 | 55 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
-| Mr Ku | 9 | 7 (b1ch05-b1ch32) | 6 | 55 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -49,7 +49,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-332 Nennungen in 31 Kapiteln.
+338 Nennungen in 32 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -385,6 +385,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:226 | "You have read it," said Annie. |
 | 51 | b2ch01:254 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
 | 51 | b2ch01:264 | Annie put her hand flat on the arm of the chair. |
+| 53 | b2ch02:66 | It was worse than the four lines Annie had turned face down in January had assumed. It w.. |
+| 53 | b2ch02:134 | Annie came out of the small room at half past eight. |
+| 53 | b2ch02:142 | Annie did not put anything down. |
+| 53 | b2ch02:152 | Annie looked at him for a moment. |
+| 53 | b2ch02:172 | "You wrote it out correctly," said Annie. |
+| 53 | b2ch02:184 | Annie did not argue with any part of that, which he had not expected either. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -463,6 +469,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch01:146` (Tag 51) - forty, twenty-two
 - `b2ch01:222` (Tag 51) - eight, ten
+- `b2ch02:66` (Tag 53) - four, one
+- `b2ch02:134` (Tag 53) - eight
 
 ---
 
@@ -1525,6 +1533,34 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Ku
+
+11 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+
+---
+
 ## Mr Pyo
 
 10 Nennungen in 7 Kapiteln.
@@ -1551,32 +1587,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:244` (Tag 1) - eleven, one
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
-
----
-
-## Mr Ku
-
-9 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
 
 ---
 
