@@ -3,6 +3,32 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== A pre-scored form cannot hold dictated terms ===
+Author caught a straight contradiction: ch23 sells a service where both parties
+say their terms in their own words, and ch24 sells a board with three gaps in it.
+Both cannot be true.
+THE FIX IS THE BUSINESS INSIGHT I HAD SKIPPED: the form only covers the deals
+that are the same shape every time. Hauling a load, selling a beast, hiring a man
+for a season - nine in ten at an inn table, differing by a name, a number and a
+date. The tenth is a partnership or a peculiarity and still needs him, at a much
+higher price. So the form commoditises the bottom of the ch23 market instead of
+replacing it, which is also how forms actually came to exist.
+AND IT PRODUCED SOMETHING BETTER THAN THE FIX. The valuable part of the board is
+NOT THE GAPS, IT IS THE CLAUSES NOBODY NEGOTIATES: what happens if the load is
+late, who stands the loss if the beast dies, when a thing counts as delivered.
+Nobody asks for those because nobody thinks of them until the morning it has
+gone wrong. That is the actual product and neither buyer notices buying it.
+WHICH MEANS HE IS WRITING THAT TOWN'S COMMERCIAL CUSTOM BY SUPPLYING THE
+DEFAULT, quietly, for half a coin a time. Frida works it out in the scene and
+says it out loud, and he does not deny it: "You did not say that part out loud."
+"No. I said it to you." Rule one at its sharpest - he did not lie, he selected,
+he was caught selecting, and he conceded in four words.
+LENGTH: ch24 is now 3038. NOT SPLIT, deliberately, and this is the reason so it
+does not get tidied later: the Frida scene only works BECAUSE he has been
+forbidden to speak for the whole chapter. It is the release. Cutting it off into
+its own chapter would leave an 800-word fragment and break the arc that earns it.
+
+
 === He gropes the people he is sleeping with, in passing ===
 Author. Filed as a PHYSICAL register rather than a preference, because that is
 what makes it work: it is never the event. It happens mid-sentence, while he is

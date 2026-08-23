@@ -23,8 +23,8 @@ ch20    2692 Woerter  ch20-two-arms.md
 ch21    2888 Woerter  ch21-the-only-book-there-is.md
 ch22    1188 Woerter  ch22-a-hand-changes-a-noise.md
 ch23    2531 Woerter  ch23-two-coins-short.md
-ch24    2806 Woerter  ch24-somebody-has-to-look-at-him.md
+ch24    3038 Woerter  ch24-somebody-has-to-look-at-him.md
 ch25    1704 Woerter  ch25-the-first-of-four.md
 
-Gesamt: 25 Kapitel, 55003 Woerter
+Gesamt: 25 Kapitel, 55235 Woerter
 Handbuch: 4 Dokumente

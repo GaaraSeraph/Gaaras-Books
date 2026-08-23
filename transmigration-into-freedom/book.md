@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-25 Kapitel. 55.003 Woerter.
+25 Kapitel. 55.235 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -31,7 +31,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
 | 23 | Chapter 23: Two Coins Short | 2.531 |
-| 24 | Chapter 24: Somebody Has to Look at Him | 2.806 |
+| 24 | Chapter 24: Somebody Has to Look at Him | 3.038 |
 | 25 | Chapter 25: The First of Four | 1.704 |
 
 ---
@@ -5506,7 +5506,37 @@ Frida put the bucket down, which he took as an invoice.
 
 "I cannot write."
 
-"You do not have to. It goes on the board before it ever gets to you." He was enjoying himself now and made no attempt to hide it. "The words that are the same every time get scored in first, up here, by me, this afternoon. What changes is a name, a number and a date, and there are three gaps for those, and anybody who can make a mark can fill in a gap."
+"You do not have to. It is on the board before it ever gets to you."
+
+"Then how does it say what they agreed."
+
+"Because most of them agree the same thing." He came off the post. "Somebody hauls a load. Somebody sells a beast. Somebody takes a man on for a season. That is nine deals in ten at your table, and they differ by a name, a number and a date and nothing else. Three gaps. Anybody who can make a mark can fill in a gap."
+
+"And the tenth."
+
+"The tenth is a partnership or a peculiarity and it waits for me, and I will charge a great deal more for it and enjoy myself enormously."
+
+Frida did not look convinced, which he took as a compliment.
+
+"Here is the part that is worth the half coin," he said, "and neither of them will notice they are buying it. What is scored in above the gaps is not their bargain. It is what happens if the load is late. Who stands the loss if the beast dies on the road. When a thing counts as delivered and stops being anybody's fault."
+
+"They will not ask for any of that."
+
+"They will not think of it. Nobody thinks of it until the morning it has already gone wrong, and by then it is a shouting match in your front room." He was enjoying himself now and made no attempt to hide it. "I have thought about nothing else since I was twenty-two."
+
+Frida looked at the doorpost for a while.
+
+"So they are agreeing to your words."
+
+"They are agreeing to their own price on my terms."
+
+"And in a year that is how it is done here."
+
+"Yes."
+
+"You did not say that part out loud."
+
+"No," said Gaara. "I said it to you."
 
 Frida looked at him for a long moment.
 

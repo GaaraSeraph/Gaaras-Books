@@ -1211,10 +1211,29 @@ Ordulf, and the one wall talking cannot get through (ch24)
   AWAY (author's note, ch24 coda). FRIDA'S INN, because deals get struck at her
   table about twice a day and the arguments happen in her front room at
   midnight, which makes it entirely her business.
-  THE PRODUCT IS A FORM, NOT A SERVICE, and that is the whole point. The words
-  that are the same every time are scored in ADVANCE, by him, and what is left
-  is THREE GAPS: a name, a number, a date. Anybody who can make a mark can fill
-  in a gap. Frida cannot write and does not need to.
+  THE PRODUCT IS A FORM, NOT A SERVICE. The words that are the same every time
+  are scored in ADVANCE, by him, and what is left is THREE GAPS: a name, a
+  number, a date. Frida cannot write and does not need to.
+  HOW THAT SQUARES WITH ch23, WHERE THEY DICTATE THEIR OWN TERMS, because it
+  otherwise contradicts it outright: THE FORM ONLY COVERS THE DEALS THAT HAVE
+  THE SAME SHAPE EVERY TIME. Somebody hauls a load, somebody sells a beast,
+  somebody takes a man on for a season. Nine in ten at an inn table, differing
+  by name, number and date and nothing else. THE TENTH IS A PARTNERSHIP OR A
+  PECULIARITY AND STILL WAITS FOR HIM, at a much higher price. So the form does
+  not replace the ch23 service, it commoditises the bottom of that market.
+  AND THE REAL PRODUCT IS NOT THE GAPS, IT IS THE CLAUSES NOBODY NEGOTIATES.
+  What is scored in above the gaps is not their bargain at all: it is what
+  happens if the load is late, who stands the loss if the beast dies on the
+  road, when a thing counts as delivered and stops being anybody's fault.
+  Nobody asks for any of that, because nobody thinks of it until the morning it
+  has gone wrong. "I have thought about nothing else since I was twenty-two."
+  WHICH MEANS HE IS WRITING THE COMMERCIAL CUSTOM OF THAT TOWN BY SUPPLYING THE
+  DEFAULT, and Frida is the one who says it out loud: "So they are agreeing to
+  your words." "They are agreeing to their own price on my terms." "And in a
+  year that is how it is done here." "Yes." "You did not say that part out
+  loud." "No. I said it to you."
+  THAT LAST EXCHANGE IS RULE ONE AT ITS SHARPEST: he did not lie, he selected,
+  he got caught selecting, and he admitted it in four words.
   THE SPLIT: half a coin a bargain, and SHE KEEPS FOUR OF EVERY FIVE. His
   stated reason is the thesis in one line: "a fifth of something that runs
   without me is worth a great deal more to me than all of something that stops
