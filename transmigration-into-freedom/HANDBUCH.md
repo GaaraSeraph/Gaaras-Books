@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 39.731 Woerter.
+Alle 4 Dokumente am Stueck. 40.373 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,30 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Two corrections to the guild, both the author's and both right ===
+FIRST, MY RULE WAS BROKEN. I had written that you do not join as a man, only as
+a company. A guild like that could never gain a member, because companies could
+only be formed from people already inside. Closed loop.
+FIXED WITH TWO DOORS, which is also how guilds actually worked. A NAME IN THE
+ROLL costs two coins and one member saying you are who you say. It buys hire,
+bottom-of-board work, AND THE HALL AT MEMBER RATE, which matters because a bed
+is what is eating his money. A CHARTER AND A GRADE costs a goat, a captain, four
+men already on the roll, and two sureties. Nothing good was lost: the fee is
+still exactly his purse and the company is still twenty miles away.
+SECOND, A VOUCHER IS A SURETY AND NOT A REFERENCE. They do not say he seems
+decent, THEY ARE LIABLE FOR HIM. That is why you cannot pick two up in a tavern,
+and it converts the problem from charm into a negotiation with money in it,
+which is the only thing he owns.
+AND THE GROUNDWORK QUESTION ANSWERS ITSELF: a man who walks into an institution
+cold and asks how it works has already lost, and he has known that for nineteen
+years. He does not go to the guild first. He goes where its members eat and get
+their horses shod, reads the room literally, and arrives at the door with two
+people who already owe him something. WHAT HE TRADES IS THE PANEL, and the guild
+is the perfect market for it because it grades by judgement precisely because it
+cannot see levels. A man whose own money stands behind a signature will pay for
+knowing which of two candidates is what he claims.
 
 
 === The carcasses are a deterrent, and the backup is the ledger ===
@@ -2916,23 +2940,51 @@ So his whole fortune is a month of sleeping badly or ten days of sleeping
 properly. THAT IS THE CLOCK IN THE WOLD and it is better than being poor in the
 abstract. Put the number in his head early and let the reader count down.
 
-THE GUILD, and the trap is exact.
-- FEE: ONE GOAT. ELEVEN COINS. His entire purse, to the last coin.
-- AND TWO MEMBERS IN GOOD STANDING TO VOUCH. He has none.
-  So the money is not the barrier and the money is all he has. The barrier is a
-  conversation, which is the only currency he owns. Let him notice this himself
-  and enjoy it far too much.
-- YOU DO NOT JOIN AS A MAN. YOU REGISTER A COMPANY: a name, a captain, and men.
-  This follows from the grade rule already in section 7 (a C company is men at
-  12 to 16 under a captain at 18 to 22). GRADES ARE F UP TO A, they attach to
-  companies and not to people, and they are human judgement that cannot see
-  levels.
-- WHICH MEANS THE THING HE NEEDS IS TWENTY MILES AWAY AND MADE OF FARMERS. His
-  company exists. It has a one-legged bookkeeper, a smith, an eight, and a
-  woman holding it together. It has no name and no charter, and he is standing
-  in the wrong town to fix that. THIS ALSO ANSWERS SECTION 6b: a registered
-  company is exactly the thing to show the lord's man, because it points at
-  people and away from the hole.
+THE GUILD HAS TWO DOORS, and the first correction is the author's: a guild that
+only admits companies could never gain a member, because companies could only be
+made of people who were already in. Closed loop, absurd. SO A MAN CAN REGISTER.
+
+  A NAME IN THE ROLL, which is what a person does:
+    TWO COINS, and ONE member willing to say you are who you say you are and not
+    running from something. That is all. It is a small conversation on purpose,
+    so the reader learns the mechanic before the expensive version arrives.
+    IT BUYS: you can be hired by a company, you can take work off the bottom of
+    the board, and YOU GET THE HALL AT MEMBER RATE. That last one matters more
+    than it sounds, because a bed is what is eating his eleven coins.
+
+  A CHARTER AND A GRADE, which is what a company does:
+    ONE GOAT. ELEVEN COINS. A captain, at least four men already on the roll,
+    and TWO MEMBERS IN GOOD STANDING TO STAND SURETY.
+    THE FEE IS EXACTLY HIS PURSE, to the last coin, and it is still not the
+    barrier.
+    GRADES ARE F UP TO A, attach to companies and never to people, and are human
+    judgement that cannot see levels (section 7).
+
+A VOUCHER IS NOT A REFERENCE, IT IS A SURETY, and this is the second correction.
+The two men do not say he seems decent. THEY ARE LIABLE. If the company defaults,
+cheats a client or walks off a contract, THEY PAY. That is why nobody does it for
+a stranger and why it cannot be solved by being charming at two people in a
+tavern. He has to make it worth money to them, which is a negotiation, which is
+the only thing he owns.
+
+SO YES, THERE IS GROUNDWORK, AND ASKING THE QUESTION IS THE CHARACTER. A man who
+walks into an institution cold and asks how it works has already lost, and he has
+known that for nineteen years. HE DOES NOT GO TO THE GUILD FIRST. He goes where
+its members eat, drink and get their horses shod, and he watches, and he reads
+levels off everybody in the room, and he finds out who is short of what. He
+arrives at the door with two people who already owe him something.
+  WHAT HE HAS TO TRADE IS THE PANEL, and the guild is the perfect market for it
+  because it grades by judgement precisely because it cannot see. He can tell a
+  captain which of two men is what he claims. To somebody whose own money is
+  going to stand behind a signature, that is worth the signature.
+  AND ONE THREAD ALREADY EXISTS ON THE PAGE: Ylva knows Ordulf, and a smith in a
+  market town knows everyone, because everyone comes to him eventually.
+
+WHICH MEANS THE THING HE NEEDS IS TWENTY MILES AWAY AND MADE OF FARMERS. Four men
+on the roll, and his are in Oldstep. His company has a one-legged bookkeeper, a
+smith, an eight, and a woman holding it together. No name, no charter, wrong
+town. THIS ALSO ANSWERS SECTION 6b: a chartered company is exactly the thing to
+stand next to the carcasses, because it points at people and away from the hole.
 
 WHERE TALK EARNS, ranked by how fast it pays against what it costs him:
 1  READING MEN. He looks at a person and knows the number. NOBODY ELSE ALIVE

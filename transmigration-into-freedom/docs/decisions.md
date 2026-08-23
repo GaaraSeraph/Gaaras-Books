@@ -3,6 +3,30 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Two corrections to the guild, both the author's and both right ===
+FIRST, MY RULE WAS BROKEN. I had written that you do not join as a man, only as
+a company. A guild like that could never gain a member, because companies could
+only be formed from people already inside. Closed loop.
+FIXED WITH TWO DOORS, which is also how guilds actually worked. A NAME IN THE
+ROLL costs two coins and one member saying you are who you say. It buys hire,
+bottom-of-board work, AND THE HALL AT MEMBER RATE, which matters because a bed
+is what is eating his money. A CHARTER AND A GRADE costs a goat, a captain, four
+men already on the roll, and two sureties. Nothing good was lost: the fee is
+still exactly his purse and the company is still twenty miles away.
+SECOND, A VOUCHER IS A SURETY AND NOT A REFERENCE. They do not say he seems
+decent, THEY ARE LIABLE FOR HIM. That is why you cannot pick two up in a tavern,
+and it converts the problem from charm into a negotiation with money in it,
+which is the only thing he owns.
+AND THE GROUNDWORK QUESTION ANSWERS ITSELF: a man who walks into an institution
+cold and asks how it works has already lost, and he has known that for nineteen
+years. He does not go to the guild first. He goes where its members eat and get
+their horses shod, reads the room literally, and arrives at the door with two
+people who already owe him something. WHAT HE TRADES IS THE PANEL, and the guild
+is the perfect market for it because it grades by judgement precisely because it
+cannot see levels. A man whose own money stands behind a signature will pay for
+knowing which of two candidates is what he claims.
+
+
 === The carcasses are a deterrent, and the backup is the ledger ===
 Author's answer to the objection, and it resolves it rather than dodging it. The
 display is not an advertisement of what the hole produces, it is A PRICE QUOTED
