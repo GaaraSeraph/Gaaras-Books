@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Suppliers and employers are not off limits ===
+Author, and it kills a rule I had invented two turns ago without noticing what I
+was doing. I had written that in the Wold everybody holds his paperwork or his
+metal, so he keeps his mouth shut around them. THAT IS THE FLIRT-WITH-EVERYONE
+RULE FAILING FOR THE SECOND TIME IN A ROW, in a different costume: the first
+time it went missing under "he is working", this time under "it would be bad
+business". Both are me making him sensible.
+THE ONLY ASYMMETRY THAT MATTERS IS THE ONE WHERE HE HOLDS THE POWER, which is
+ch16 with Sivert: his own crew, in a tunnel, under his orders. There he asks
+once, makes the refusal free, and drops it, and the book has been careful about
+that from the start.
+WHEN THE POWER RUNS THE OTHER WAY THERE IS NOBODY TO PROTECT. Signe, Egil, the
+warden and Ordulf all hold something of his, and the commercial risk of
+propositioning them is HIS to run. Prudence is not one of his qualities and
+writing him prudent is a bigger error than any single missed joke.
+TWO LIMITS SURVIVE AND THEY ARE THE ONLY TWO: whether he wants them, and whether
+they can say no at no cost to themselves. Commerce is not on the list.
+THE TEXT MOSTLY SURVIVED IT, which is luck rather than judgement. He already
+makes two passes at Signe and gets batted away both times. But the reasoning was
+in the register, and the register is what the next chapter is written from.
+ORDULF IS WHERE IT WOULD HAVE BITTEN, in ch23.
+
+
 === Four images for the sex scenes, filed with register tags ===
 Author handed over vocabulary rather than an instruction, so it goes into the
 char sheet as available material and not into a chapter today.
@@ -152,8 +175,13 @@ every single person he meets is an institution or a supplier: Signe writes his
 name, Egil vouches for him, Ordulf holds his metal deal, the warden holds his
 fee. A man with nine coins and no standing does not proposition the people who
 hold his paperwork, and he knows it in his bones.
-SO THE ONE PASS GOES TO THE ONE PERSON WITH NO POWER OVER HIM: Runa, who sells
-buttons and has listened to him work for three hours without moving her stall.
+SO THE ONE PASS GOES TO RUNA, who sells buttons and has listened to him work
+for three hours without moving her stall.
+CORRECTION, ENTERED LATER AND BY THE AUTHOR: my stated reason above was wrong.
+I had it that he holds back from Signe, Egil and the rest because they hold his
+paperwork. HE HAS NO PROBLEM FLIRTING WITH SUPPLIERS OR EMPLOYERS. See the
+sexuality section of the bible. Runa gets the pass because he wanted to, not
+because the others were off limits.
 AND IT IS NOT AN ASK, because ch21 established he does not ask twice and the
 book's pattern is now that people come to him. He states a location and refuses
 to ask, and she names the manoeuvre out loud in one sentence, and he concedes.

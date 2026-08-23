@@ -215,6 +215,28 @@ is not guesswork, because a person in the dark cannot help answering.
   ch13 is her first time with him and ch16 is four minutes behind a sledge.
   The earliest it can land is the next unhurried night with Marit, which by the
   current plan is after he comes back from the Wold.
+- SUPPLIERS AND EMPLOYERS ARE NOT OFF LIMITS (author, and it corrects a wrong
+  rule I had written). I had reasoned that in the Wold everybody he meets holds
+  his paperwork or his metal, so he would keep his mouth shut. WRONG, and it was
+  the flirt-with-everyone rule failing a second time in a different costume.
+  THE ONLY ASYMMETRY THAT MAKES HIM CAREFUL IS THE ONE WHERE HE HOLDS THE POWER.
+  That is ch16 with Sivert: his crew, in a tunnel, under his orders, and he is
+  the sort of man who has watched that ruin people. He asks once, makes the no
+  free, and drops it.
+  WHEN THE OTHER PERSON HOLDS THE POWER THERE IS NO ASYMMETRY TO PROTECT ANYBODY
+  FROM, so no restraint is called for. Signe writes his name, Egil vouches for
+  him, Ordulf holds his whole metal business, the warden holds his fee. He
+  flirts with every one of them and would proposition any of them, and the fact
+  that it might cost him something commercially is HIS risk to run and nobody
+  else's problem.
+  AND IT IS BETTER CHARACTER, because the restrained version made him prudent,
+  and prudence is not one of his qualities. He is a man who tells the truth and
+  cannot stop talking, not a man who manages his exposure.
+  WHAT LIMITS THE PROPOSITIONS IS STILL ONLY TWO THINGS: whether he actually
+  wants them, and whether they can say no without it costing them. Never
+  commerce.
+  ORDULF IS WHERE THIS BITES FIRST, in ch23, and the note exists so it is not
+  written prudent.
 - THE IMAGES HE WANTS AVAILABLE (author). Four of them, and each one carries a
   REGISTER TAG, because the reason the scenes have stayed distinct so far is that
   each has a governing sense. Dropping a wide open unhurried image into a four
