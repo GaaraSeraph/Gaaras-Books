@@ -671,7 +671,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.2) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.3) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -698,6 +698,24 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was er tatsaechlich mitnimmt, ist eine Formaenderung.** Sie hat um **eine Stunde mit sechs Maennern darin** geschrieben, und genau das ist das Einzige, was nicht gegeben werden kann, weil es das Eingestaendnis selbst ist. Sie laesst ihn mit **Ladung** gehen. *"Cargo admits nothing. Cargo is a lane going back to what it was, and not one person has to say a word out loud in order for it to happen."* **Aus einer unerfuellbaren Forderung ist eine erfuellbare geworden**, und das ist mehr wert als die drei Dinge, die es gekostet hat.
 
   **Und ein zweites, das er nicht geholt hat und durch Fragen nie bekommen haette:** sein Name bedeutet ihr nichts. *"Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for."*
+
+  **Und was er ohne eine einzige Frage mitnimmt, weil er auf Schreibtische sieht:**
+  Auf der Kante liegt **eine fotokopierte Einzelseite in einer Klarsichthuelle**,
+  nicht der gebundene Katalog, den jeder Kaeufer im Maerz bekam. **Also hat
+  jemand mit dem Band eine Seite herausgesucht** - der Bote steht auf der
+  Kundenliste des Hauses. Dazu die eine harmlose Frage: *"How long have you had
+  that."* - **"Since the fourteenth."**
+
+  **Und die Annahme, die ihn das kostet:** Er hat seit Mittwoch geglaubt, jemand
+  habe sich mit ihr hingesetzt. Eine Seite in einer Huelle braucht kein
+  Gespraech. **"A man who arranges a meeting can be found afterwards. A man who
+  posts something cannot."**
+
+  **Wer sie ihm gegeben hat, fragt er ausdruecklich nicht**, und das ist in der
+  ersten Fassung schlicht vergessen worden. Der Grund ist derselbe wie spaeter
+  in Kapitel 11: sie wuerde antworten und dabei begreifen, dass Seite, Woche und
+  Person ausgesucht waren. **"A woman who has been used goes and finds out for
+  herself. There is exactly one person she could go to."**
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.736 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 100.110 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2699,7 +2699,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.2) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.3) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -2726,6 +2726,24 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was er tatsaechlich mitnimmt, ist eine Formaenderung.** Sie hat um **eine Stunde mit sechs Maennern darin** geschrieben, und genau das ist das Einzige, was nicht gegeben werden kann, weil es das Eingestaendnis selbst ist. Sie laesst ihn mit **Ladung** gehen. *"Cargo admits nothing. Cargo is a lane going back to what it was, and not one person has to say a word out loud in order for it to happen."* **Aus einer unerfuellbaren Forderung ist eine erfuellbare geworden**, und das ist mehr wert als die drei Dinge, die es gekostet hat.
 
   **Und ein zweites, das er nicht geholt hat und durch Fragen nie bekommen haette:** sein Name bedeutet ihr nichts. *"Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for."*
+
+  **Und was er ohne eine einzige Frage mitnimmt, weil er auf Schreibtische sieht:**
+  Auf der Kante liegt **eine fotokopierte Einzelseite in einer Klarsichthuelle**,
+  nicht der gebundene Katalog, den jeder Kaeufer im Maerz bekam. **Also hat
+  jemand mit dem Band eine Seite herausgesucht** - der Bote steht auf der
+  Kundenliste des Hauses. Dazu die eine harmlose Frage: *"How long have you had
+  that."* - **"Since the fourteenth."**
+
+  **Und die Annahme, die ihn das kostet:** Er hat seit Mittwoch geglaubt, jemand
+  habe sich mit ihr hingesetzt. Eine Seite in einer Huelle braucht kein
+  Gespraech. **"A man who arranges a meeting can be found afterwards. A man who
+  posts something cannot."**
+
+  **Wer sie ihm gegeben hat, fragt er ausdruecklich nicht**, und das ist in der
+  ersten Fassung schlicht vergessen worden. Der Grund ist derselbe wie spaeter
+  in Kapitel 11: sie wuerde antworten und dabei begreifen, dass Seite, Woche und
+  Person ausgesucht waren. **"A woman who has been used goes and finds out for
+  herself. There is exactly one person she could go to."**
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
@@ -4264,6 +4282,26 @@ Fassung.**
   four years' time."* **Das ist die groesste ungesicherte Stelle im Buch und sie
   hat kein Datum.**
 
+- **Was ueber den Boten feststeht, Stand Band 2, Kapitel 8.** Nam hat **eine
+  fotokopierte Einzelseite** in einer Klarsichthuelle, **seit dem 14. Maerz**,
+  und nicht den gebundenen Katalog, den jeder Kaeufer im Maerz zugeschickt
+  bekam. Daraus zwei Dinge:
+
+  **Erstens: der Bote steht auf der Kundenliste dieses Hauses.** Er hatte den
+  Band, hat eine Seite herausgesucht, kopiert und binnen vierzehn Tagen nach
+  Ulsan gebracht.
+
+  **Zweitens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
+  angenommen, jemand habe sich mit ihr hingesetzt und es ihr erklaert. Dafuer
+  gibt es keinen Grund mehr - eine Seite in einer Huelle braucht kein Gespraech,
+  zwei Zeilen Begleitschreiben taeten es. **Ein Mann, der ein Treffen
+  arrangiert, ist auffindbar. Ein Mann, der etwas verschickt, nicht.**
+
+  **Und er fragt sie ausdruecklich NICHT, wer.** Sie wuerde es sagen - und in
+  denselben zwei Sekunden begreifen, dass jemand die Seite, die Woche und sie
+  selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
+  nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
+
 - **Die vierte Zeile, die nie berechnet wurde.** Annie am 24. Maerz: *"That is
   the one I want."* Mrs Sunwoo hat dazu geliefert, dass der Betrug **aelter ist
   als die Aktenfuehrung** - es gab welche vor der Seite, sie kennt zwei, beide
@@ -5275,7 +5313,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
 | Jang | 67 | 17 (b1ch05-b2ch11) | 1 | 60 |
-| Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
+| Mrs Seo | 59 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -6538,7 +6576,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-58 Nennungen in 23 Kapiteln.
+59 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6597,6 +6635,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 | 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
+| 9 | b2ch08:320 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:176 | He had to ask Mrs Seo how a letter is sent. |
 | 1 | b2ch11:196 | "He said good." Mrs Seo straightened one thing on the desk that did not need straighteni.. |
@@ -6635,6 +6674,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
 - `b2ch08:62` (Tag 9) - nine
+- `b2ch08:320` (Tag 9) - two
 - `b2ch11:196` (Tag 1) - one
 
 ---
@@ -7111,9 +7151,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
 | 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
 | 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
 | 1 | b2ch11:218 | Nam Byung-hee did not answer it that week, or the next, and by the time she did the hous.. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
@@ -7121,7 +7161,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:132` (Tag 56) - one, twenty
 - `b2ch08:78` (Tag 9) - thirty
 - `b2ch08:104` (Tag 9) - two
-- `b2ch08:244` (Tag 9) - twenty
+- `b2ch08:272` (Tag 9) - twenty
 
 ---
 

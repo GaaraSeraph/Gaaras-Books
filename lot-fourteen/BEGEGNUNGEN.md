@@ -23,7 +23,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
 | Jang | 67 | 17 (b1ch05-b2ch11) | 1 | 60 |
-| Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
+| Mrs Seo | 59 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -1286,7 +1286,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-58 Nennungen in 23 Kapiteln.
+59 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1345,6 +1345,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 | 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
+| 9 | b2ch08:320 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:176 | He had to ask Mrs Seo how a letter is sent. |
 | 1 | b2ch11:196 | "He said good." Mrs Seo straightened one thing on the desk that did not need straighteni.. |
@@ -1383,6 +1384,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
 - `b2ch08:62` (Tag 9) - nine
+- `b2ch08:320` (Tag 9) - two
 - `b2ch11:196` (Tag 1) - one
 
 ---
@@ -1859,9 +1861,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
 | 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
 | 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
 | 1 | b2ch11:218 | Nam Byung-hee did not answer it that week, or the next, and by the time she did the hous.. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
@@ -1869,7 +1871,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:132` (Tag 56) - one, twenty
 - `b2ch08:78` (Tag 9) - thirty
 - `b2ch08:104` (Tag 9) - two
-- `b2ch08:244` (Tag 9) - twenty
+- `b2ch08:272` (Tag 9) - twenty
 
 ---
 

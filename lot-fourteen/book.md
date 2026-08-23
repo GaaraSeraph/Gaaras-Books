@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 45 Kapitel, 127.102 Woerter.
+2 Baende, 45 Kapitel, 127.582 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -52,7 +52,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 05 | v1.5 | 2.848 |
 | 2 | 06 | v1.0 | 2.429 |
 | 2 | 07 | v1.2 | 2.314 |
-| 2 | 08 | v1.2 | 2.458 |
+| 2 | 08 | v1.3 | 2.938 |
 | 2 | 09 | v2.1 | 2.496 |
 | 2 | 10 | v2.0 | 2.225 |
 | 2 | 11 | v1.1 | 2.183 |
@@ -13103,7 +13103,7 @@ He did not tear it out and he did not correct it. He wrote the date underneath a
 ---
 
 # Book Two · Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -13249,6 +13249,34 @@ She did not offer him anything and she did not sit down, so neither did he.
 
 ---
 
+He had looked at the desk when he came in, because he looks at desks.
+
+There is one sheet in a plastic wallet on the corner of it, and it is a photocopy, and it is a photocopy of a single page.
+
+Every buyer at that house got the whole catalogue in March. Bound, posted, a printed label on the outside of a flat parcel. What is lying on that desk is not what those people got. It is one page out of it, taken out by somebody who had the rest of it.
+
+---
+
+"How long have you had that."
+
+"Since the fourteenth."
+
+"Thank you."
+
+---
+
+He did not ask her who had given it to her, and he had settled that in the car to the station on the Thursday night and did not reopen it in the room.
+
+She would have told him. She is a woman who tells people things and has spent twenty years finding out that it does not help.
+
+And she would have understood, in the two seconds it took her to answer, what she was saying. That somebody came a long way to put one page in front of a woman in Ulsan. That he chose the page, and chose the week, and chose her.
+
+After that she is not a woman with a grievance any more. She is a woman who has been used, and a woman who has been used goes and finds out for herself.
+
+There is exactly one person she could go to.
+
+---
+
 She waited.
 
 "You wrote that nobody has refused you anything, because nobody has had to." Georgij did not look away from her. "That is the most exact sentence in it, and I do not think you knew how exact it was."
@@ -13371,7 +13399,7 @@ What it had cost is short and all of it is real. She knows there is a veto and r
 
 ---
 
-What he had is one thing and it is worth all three.
+What he had came to three, and he had gone down there for one of them.
 
 The demand had changed shape in that room. She had written asking for an hour with six men in it. An hour with six men in it is the one thing in this that cannot be given, because it is the admission itself. She had let him leave asking for cargo instead.
 
@@ -13379,17 +13407,35 @@ Cargo admits nothing. Cargo is a lane going back to what it was, and not one per
 
 ---
 
-There was a third item and he did not put it on either side of the line, because he had not decided which side it belonged on.
+The second is lying on a desk over a weighbridge in a plastic wallet.
 
-A woman who is drowning does whatever occurs to her, on any morning, without warning anybody. A woman who is not drowning any more stays where she has been put.
+Every buyer at that house has the whole catalogue. She has one page of it, photocopied, and she has had it since the fourteenth of March. So somebody took a single page out of a bound book that had been posted to him personally, and copied it, and got it in front of a woman in Ulsan inside a fortnight of its arriving.
+
+That is not everybody in Korea. That is the list of people who buy at that house, which is not short and is not public and is a very great deal shorter than everybody in Korea.
 
 ---
 
-There was a second thing, and he had not gone for it and would not have got it by asking.
+And it costs him a thing he has been carrying since Wednesday, which is that somebody sat down with her and explained it to her.
+
+He has no reason left to think that. A page in a plastic wallet does not need a conversation, and two lines on a covering note would have done the whole of it.
+
+A man who arranges a meeting can be found afterwards. A man who posts something cannot.
+
+He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the most useful thing he had learned all day, and it meant he had spent two days looking for the wrong shape.
+
+---
+
+The third he had not gone for and would not have got by asking.
 
 She had looked at his name and it had meant nothing to her.
 
-Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for.
+Whoever did this gave her the page and did not give her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for.
+
+---
+
+There is a fourth item and he did not put it on either side of the line, because he had not decided which side it belonged on.
+
+A woman who is drowning does whatever occurs to her, on any morning, without warning anybody. A woman who is not drowning any more stays where she has been put.
 
 ---
 

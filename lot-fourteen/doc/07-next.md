@@ -488,6 +488,26 @@ Fassung.**
   four years' time."* **Das ist die groesste ungesicherte Stelle im Buch und sie
   hat kein Datum.**
 
+- **Was ueber den Boten feststeht, Stand Band 2, Kapitel 8.** Nam hat **eine
+  fotokopierte Einzelseite** in einer Klarsichthuelle, **seit dem 14. Maerz**,
+  und nicht den gebundenen Katalog, den jeder Kaeufer im Maerz zugeschickt
+  bekam. Daraus zwei Dinge:
+
+  **Erstens: der Bote steht auf der Kundenliste dieses Hauses.** Er hatte den
+  Band, hat eine Seite herausgesucht, kopiert und binnen vierzehn Tagen nach
+  Ulsan gebracht.
+
+  **Zweitens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
+  angenommen, jemand habe sich mit ihr hingesetzt und es ihr erklaert. Dafuer
+  gibt es keinen Grund mehr - eine Seite in einer Huelle braucht kein Gespraech,
+  zwei Zeilen Begleitschreiben taeten es. **Ein Mann, der ein Treffen
+  arrangiert, ist auffindbar. Ein Mann, der etwas verschickt, nicht.**
+
+  **Und er fragt sie ausdruecklich NICHT, wer.** Sie wuerde es sagen - und in
+  denselben zwei Sekunden begreifen, dass jemand die Seite, die Woche und sie
+  selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
+  nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
+
 - **Die vierte Zeile, die nie berechnet wurde.** Annie am 24. Maerz: *"That is
   the one I want."* Mrs Sunwoo hat dazu geliefert, dass der Betrug **aelter ist
   als die Aktenfuehrung** - es gab welche vor der Seite, sie kennt zwei, beide
