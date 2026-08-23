@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 107.222 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 107.415 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2917,6 +2917,8 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Bote hat getragen. Er wird erschreckt, und das ist alles.** Und Georgij sagt dazu, dass es keine Milde ist: Firma, Name, jeder Won bleiben. *"On an ordinary morning, when nothing at all is happening, he finds out that I know who he is and what he carried and which week he carried it in. After that he looks behind him at night for some years and nothing else ever happens to him."*
 
+  **Und die Zusage aus demselben Gespraech, die die fuenf betrifft: alle fuenf, nicht vier und nicht die zwei leichten.** Ausbuchstabiert in Kapitel 14, wo jeder einzelne Weg hineingeschrieben ist.
+
   **Und der Grund, aus dem der Bote stehen bleibt, ist nicht Anstand:** *"He is how I get the first one. There is no road to that man that does not go through somebody who has touched the paper."*
 
   **Auf die Frage, ob es wirklich zwei sind, sagt er nein**, sofort, und es ist das Einzige an dem Nachmittag, das er von selbst zurueckholt. *"I am certain there is one who decided. I have never in my life seen a man of that sort carry his own paper to a post office."*
@@ -4529,6 +4531,23 @@ Fassung.**
   **Die groesste ungesicherte Stelle im Buch bleibt es trotzdem, und sie hat
   kein Datum.** Was sie sagen kann, kann sie an jedem Tag der naechsten vierzig
   Jahre sagen.
+
+- **Warum niemand etwas tun wird, selbst wenn sie es erzaehlt - und warum sie es
+  trotzdem nicht tun sollte.** Gehoert in die Entschuldigungsszene und ist der
+  einzige Teil davon, der kein Mitleid ist.
+
+  **Der sachliche Teil:** wenn sie spricht, gehoeren die fuenf laengst Annie. Ein
+  Mann, dessen Firma gerade gerettet wurde und dessen Anteil zum ersten Mal Geld
+  wert ist, wiederholt so etwas nicht. **Sie kann es sagen, und es wird nichts
+  geschehen, und genau das ist das Schlimmere:** der Tag, an dem sie es sagt und
+  nichts passiert, ist der Tag, an dem sie erfaehrt, wie weit ausserhalb sie
+  inzwischen steht.
+
+  **Und der Teil mit Zaehnen, und er darf nicht mehr sein als ein Satz:** Er ist
+  dreimal in ihrem Hof gewesen und jedes Mal mit etwas in der Hand. *"If you say
+  it, I will come a fourth time, and there will be nothing in my hands then
+  either."* **Nie ueber den Neffen.** Das braeche die Figur und ist ausserdem
+  unnoetig.
 
 - **Was ueber den Versender feststeht, Stand Band 2, Kapitel 8.** **Zur Sprache:
   Versender und Bote sind ab Kapitel 12 zwei verschiedene Leute.** Der Versender

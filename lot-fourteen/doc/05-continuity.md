@@ -862,6 +862,8 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Bote hat getragen. Er wird erschreckt, und das ist alles.** Und Georgij sagt dazu, dass es keine Milde ist: Firma, Name, jeder Won bleiben. *"On an ordinary morning, when nothing at all is happening, he finds out that I know who he is and what he carried and which week he carried it in. After that he looks behind him at night for some years and nothing else ever happens to him."*
 
+  **Und die Zusage aus demselben Gespraech, die die fuenf betrifft: alle fuenf, nicht vier und nicht die zwei leichten.** Ausbuchstabiert in Kapitel 14, wo jeder einzelne Weg hineingeschrieben ist.
+
   **Und der Grund, aus dem der Bote stehen bleibt, ist nicht Anstand:** *"He is how I get the first one. There is no road to that man that does not go through somebody who has touched the paper."*
 
   **Auf die Frage, ob es wirklich zwei sind, sagt er nein**, sofort, und es ist das Einzige an dem Nachmittag, das er von selbst zurueckholt. *"I am certain there is one who decided. I have never in my life seen a man of that sort carry his own paper to a post office."*

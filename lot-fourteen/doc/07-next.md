@@ -544,6 +544,23 @@ Fassung.**
   kein Datum.** Was sie sagen kann, kann sie an jedem Tag der naechsten vierzig
   Jahre sagen.
 
+- **Warum niemand etwas tun wird, selbst wenn sie es erzaehlt - und warum sie es
+  trotzdem nicht tun sollte.** Gehoert in die Entschuldigungsszene und ist der
+  einzige Teil davon, der kein Mitleid ist.
+
+  **Der sachliche Teil:** wenn sie spricht, gehoeren die fuenf laengst Annie. Ein
+  Mann, dessen Firma gerade gerettet wurde und dessen Anteil zum ersten Mal Geld
+  wert ist, wiederholt so etwas nicht. **Sie kann es sagen, und es wird nichts
+  geschehen, und genau das ist das Schlimmere:** der Tag, an dem sie es sagt und
+  nichts passiert, ist der Tag, an dem sie erfaehrt, wie weit ausserhalb sie
+  inzwischen steht.
+
+  **Und der Teil mit Zaehnen, und er darf nicht mehr sein als ein Satz:** Er ist
+  dreimal in ihrem Hof gewesen und jedes Mal mit etwas in der Hand. *"If you say
+  it, I will come a fourth time, and there will be nothing in my hands then
+  either."* **Nie ueber den Neffen.** Das braeche die Figur und ist ausserdem
+  unnoetig.
+
 - **Was ueber den Versender feststeht, Stand Band 2, Kapitel 8.** **Zur Sprache:
   Versender und Bote sind ab Kapitel 12 zwei verschiedene Leute.** Der Versender
   hat entschieden und verliert alles; der Bote hat getragen, wird erschreckt und
