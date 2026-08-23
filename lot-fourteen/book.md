@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 42 Kapitel, 119.841 Woerter.
+2 Baende, 42 Kapitel, 120.106 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -52,7 +52,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 05 | v1.5 | 2.848 |
 | 2 | 06 | v1.0 | 2.429 |
 | 2 | 07 | v1.1 | 2.280 |
-| 2 | 08 | v1.0 | 2.135 |
+| 2 | 08 | v1.1 | 2.400 |
 
 ---
 
@@ -13092,7 +13092,7 @@ He did not tear it out and he did not correct it. He wrote the date underneath a
 ---
 
 # Book Two · Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -13352,7 +13352,31 @@ She tore the corner off and put it in the pocket of her coat, which was on the b
 
 The train back was the one on the card and it was two thirds empty.
 
-He sat with his back to the direction of travel and did the arithmetic, and most of it came out well, and the last piece did not.
+He sat with his back to the direction of travel and set it out both ways, because a man who only counts what a thing cost him has stopped doing arithmetic and started feeling sorry for himself.
+
+---
+
+What it had cost is short and all of it is real. She knows there is a veto and roughly where it lives, and on Friday morning she did not. She has spoken to somebody out of that house, which she had not. And she has his name in her coat.
+
+---
+
+What he had is one thing and it is worth all three.
+
+The demand had changed shape in that room. She had written asking for an hour with six men in it. An hour with six men in it is the one thing in this that cannot be given, because it is the admission itself. She had let him leave asking for cargo instead.
+
+Cargo admits nothing. Cargo is a lane going back to what it was, and not one person has to say a word out loud in order for it to happen. He had gone down there against a demand that could not be met and had come back with one that could.
+
+---
+
+There was a second thing, and he had not gone for it and would not have got it by asking.
+
+She had looked at his name and it had meant nothing to her.
+
+Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for.
+
+---
+
+The last piece did not come out well.
 
 ---
 
