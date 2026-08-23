@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 108.665 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 109.673 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -132,8 +132,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Sunwoo](#mrs-sunwoo)
   - [Ji-won](#ji-won)
   - [Mr Ku](#mr-ku)
-  - [Shin](#shin)
   - [Nam Byung-hee](#nam-byung-hee)
+  - [Shin](#shin)
   - [Mrs Jeon](#mrs-jeon)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
@@ -146,6 +146,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Minister Min-ho](#minister-min-ho)
   - [Mr Hwang](#mr-hwang)
   - [Mrs Ahn](#mrs-ahn)
+  - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
   - [Mr Im](#mr-im)
   - [Mrs Ryu](#mrs-ryu)
@@ -2207,6 +2208,11 @@ nachrechnen, und `check.py` tut das automatisch.
   **zweimal**, und in seinem Buero steht keine einzige Anweisung. **Nach Georgijs
   eigener Probe ist er eine Hand.** Und die zweite Kopie ist irgendwo
   (Band 2, Kapitel 16)
+- Tag 206, Mo 27. April: **Mr Ok an seiner eigenen Mauer.** Erschreckt und
+  sonst nichts. Er liefert den Januar-Mann: sechzig, nicht gross, hat nichts
+  gegessen, wurde ohne Namen vorgestellt, rief in der ersten Maerzwoche an -
+  **und sagte zum Abschied "I am glad we finally met", obwohl sie sich nie
+  begegnet waren** (Band 2, Kapitel 17)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3044,6 +3050,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie sieht sein Gesicht, bevor er etwas sagt:** *"Say the bad one first."* Und danach: *"Tell me about the second copy from the beginning, and do not leave out the part where you are frightened, because I would rather have it from you than watch you carry it around the house for a fortnight."*
 
   **Und das Vorziehen der Abrechnung**, die eigentlich fuer das Ende verabredet war: *"If I take him apart because I have been carrying something since March, then I am doing it for me, and I told you on the third of April that I would tell you the truth about that afterwards. This is the afterwards arriving early."*
+
+- **Band 2, Kapitel 17** *Four minutes of somebody's time* (v1.0) - **Tag 206, Mo 27. April. Eine Szene, an einer niedrigen Mauer vor einem Buerohaus in Jung-gu.**
+
+  **Das Erschrecken besteht ausschliesslich aus Auskunft.** Kein Wort ist eine Drohung. Georgij sagt ihm das Datum, die Uhrzeit, das Geraet, die zwei Kopien, den Namen der Frau aus der Ablage, und was am 23. April in einem Raum ueber einer Bank in Ulsan geschehen ist. **Mehr braucht es nicht.**
+
+  **Und der Satz, der ihn wirklich anhaelt, ist der ueber Mrs Uhm:** *"She is not going to be troubled by anybody, ever, and I want that said before the rest of it."* Georgij hat gewusst, dass dieser Satz ihn stoppen wuerde, hat ihn deshalb dorthin gesetzt **und hat ihn ausserdem so gemeint.**
+
+  **Die Absolution ist kaelter als jede Drohung.** Nichts geschieht seiner Firma, seiner Familie, seinen Kunden, seiner Bank. *"That is not a negotiating position and there is nothing you can do that would change it."* Der Grund: **"Because you did not choose anything."** Und dann der Satz, der haerter landet als alles davor: *"I am telling you that you are a hand."*
+
+  **Was Ok liefert, ist der bisher einzige Augenzeuge des Versenders.** Januar-Essen, ein Mann kommt an sein Ende des Tisches, **wird ohne hoerbaren Namen vorgestellt**, fragt nach der Ulsan-Kueste und dann nach ihr namentlich, **und interessiert sich auffallend fuer das Wort *ehrlich*** - was Woo unabhaengig davon genauso berichtet hat.
+
+  **Erste Maerzwoche: ein Anruf.** Eine Seite hinten im Katalog, ein Freund in Ulsan, die Adresse dazu. **Und ausdruecklich zwei Kopien: eine zum Schicken und eine fuer die Akte.** Die Akte-Kopie liegt seit sechs Wochen ungeoeffnet auf der zweiten Etage - *"Then that is not the one I am afraid of."* **Damit ist die zweite Kopie aufgeloest und die Angst aus Kapitel 16 abgeraeumt**, ohne dass Georgij etwas dafuer tun musste.
+
+  **Die Beschreibung: sechzig oder etwas weniger, nicht gross, pleasant, quiet, *the sort of man who has been in rooms*. Und er hat bei diesem Essen nichts gegessen, kein einziges Ding.**
+
+  **Und die Signatur, auf die das ganze Kapitel zulaeuft:** *"At the end of the lunch he stood up and shook my hand and said that he was glad we had finally met."* Sie waren einander nie begegnet. **"He did not confuse you with anybody."**
+
+  **Das ist die Umkehrung von Mrs Sunwoos *We haven't met*.** Sie sagt es, um zu pruefen, ob der andere weiss, was sie ist. Er sagt es, damit der andere glaubt, er haette es wissen muessen.
+
+  **Und die letzten dreissig Sekunden sind der Preis des Kapitels.** Georgij sagt Ok, er solle beim naechsten Anruf ja sagen, es genau so tun, wie es verlangt wird, und niemanden warnen. Auf dem Weg zur Bruecke merkt er, was das ist: **im Maerz hat jemand diesen Mann um vier Minuten fremder Zeit gebeten, und heute Abend hat ein Mann an seiner Mauer gestanden und ihn zum selben gemacht.** *"There is a word for that and he did not go looking for it."*
+
+  **Und Ok will am Schluss den Namen**, den Georgij ihm vorher als nutzlos angekuendigt hatte. Er bekommt ihn, und er bedeutet ihm nichts, **wie im Maerz an einem Tor in Ulsan - nur dass es diesmal nicht mehr das tut, was es damals getan hat.**
+
+  **Der Schluss zeigt auf Kapitel 18:** eine Beschreibung ist keine Beschreibung, vierhundert Maenner in dieser Stadt sind sechzig und leise und nicht gross. **Aber ein Satz gehoert jemandem**, und es gibt genau eine Person, die in genug Raeumen war, um einen Satz zu hoeren und ein Gesicht darauf zu legen. *"She has been declining to give him that face since December, and she has had a reason every single time, and every one of those reasons was better in December than it is tonight."*
 
 ---
 
@@ -4626,8 +4656,26 @@ Fassung.**
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
 
-- **DIE ZWEITE KOPIE. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
-  Kapitel 16.** Am 12. Maerz um sechzehn Uhr vierzig wurde die Seite **zweimal**
+- **DIE ZWEITE KOPIE: ERLEDIGT in Band 2, Kapitel 17.** Mr Ok hat sie fuer die
+  Akte kopieren lassen, weil der Anrufer ausdruecklich zwei verlangt hat. Sie
+  liegt seit sechs Wochen ungeoeffnet in einem Ordner auf der zweiten Etage.
+  *"Then that is not the one I am afraid of."* **Der Eintrag bleibt hier als
+  Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
+  wenn man den Richtigen fragt.**
+
+- **DAS GESICHT ZU DEM SATZ. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
+  Kapitel 17.** Georgij hat neun Zeilen Beschreibung und eine Signatur:
+  *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
+  **Vierhundert Maenner in Seoul sind sechzig und leise und nicht gross. Ein
+  Satz aber gehoert jemandem.**
+
+  **Und es gibt genau eine Person, die ihn zuordnen kann, und sie haelt den
+  Namen seit Dezember zurueck.** Das ist die Kollision, auf die Band 1,
+  Kapitel 12 seit *"You are better when you don't know"* zulaeuft, und Band 2,
+  Kapitel 1 hat sie mit *"Ask me something else"* erneuert. **Jetzt ist jeder
+  ihrer Gruende schlechter als im Dezember, und beide wissen das.**
+
+- **Der alte Eintrag zur zweiten Kopie, Stand Kapitel 16, zur Nachvollziehbarkeit:** Am 12. Maerz um sechzehn Uhr vierzig wurde die Seite **zweimal**
   kopiert. Eine lag am 14. in Ulsan. **Die andere ist seit sechs Wochen
   irgendwo und musste noch nicht benutzt werden.**
 
@@ -5676,8 +5724,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Sunwoo | 21 | 9 (b1ch07-b2ch16) | 1 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 19 | 13 (b1ch05-b2ch14) | 3 | 60 |
+| Nam Byung-hee | 18 | 7 (b2ch03-b2ch17) | 1 | 56 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Nam Byung-hee | 17 | 6 (b2ch03-b2ch16) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -5690,6 +5738,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mr Hwang | 2 | 2 (b2ch07-b2ch10) | 3 | 7 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
+| Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
@@ -7541,6 +7590,47 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Nam Byung-hee
+
+18 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 1 | b2ch11:190 | "You could have written," said Nam Byung-hee. |
+| 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
+| 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
+| 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
+| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
+| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
+| 4 | b2ch14:278 | By the Saturday two of them had telephoned Nam Byung-hee. |
+| 6 | b2ch16:24 | The first is a man who owns two feeder vessels and has been trying to buy small operator.. |
+| 6 | b2ch16:110 | Mr Ok did not choose the week. Mr Ok did not choose the page and did not choose Nam Byun.. |
+| 8 | b2ch17:64 | "One of those copies went to a woman in Ulsan called Nam Byung-hee. She runs four trucks.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:272` (Tag 9) - twenty
+- `b2ch11:240` (Tag 1) - nine
+- `b2ch13:24` (Tag 9) - four, one
+- `b2ch13:32` (Tag 9) - five, four, nine
+- `b2ch14:278` (Tag 4) - two
+- `b2ch16:24` (Tag 6) - four, six, two
+- `b2ch16:110` (Tag 6) - eight, four
+- `b2ch17:64` (Tag 8) - four, one, six, twenty
+
+---
+
 ### Shin
 
 18 Nennungen in 1 Kapiteln.
@@ -7577,45 +7667,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:162` (Tag 53) - eight, five, one, two
 - `b2ch02:168` (Tag 53) - four, one, three
 - `b2ch02:186` (Tag 53) - one
-
----
-
-### Nam Byung-hee
-
-17 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
-| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
-| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-| 1 | b2ch11:190 | "You could have written," said Nam Byung-hee. |
-| 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
-| 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
-| 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
-| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
-| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
-| 4 | b2ch14:278 | By the Saturday two of them had telephoned Nam Byung-hee. |
-| 6 | b2ch16:24 | The first is a man who owns two feeder vessels and has been trying to buy small operator.. |
-| 6 | b2ch16:110 | Mr Ok did not choose the week. Mr Ok did not choose the page and did not choose Nam Byun.. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
-- `b2ch08:78` (Tag 9) - thirty
-- `b2ch08:104` (Tag 9) - two
-- `b2ch08:272` (Tag 9) - twenty
-- `b2ch11:240` (Tag 1) - nine
-- `b2ch13:24` (Tag 9) - four, one
-- `b2ch13:32` (Tag 9) - five, four, nine
-- `b2ch14:278` (Tag 4) - two
-- `b2ch16:24` (Tag 6) - four, six, two
-- `b2ch16:110` (Tag 6) - eight, four
 
 ---
 
@@ -7862,6 +7913,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
+
+---
+
+### Mrs Uhm
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 8 | b2ch17:56 | "Mrs Uhm did the copying," said Georgij. "She has done your filing since 2004 and she di.. |
+| 8 | b2ch17:166 | "I put it in the tray for Mrs Uhm to file and I never saw it again, and it will be in a .. |
+
+### Zahlen in der Naehe von Mrs Uhm
+
+- `b2ch17:56` (Tag 8) - one
+- `b2ch17:166` (Tag 8) - twenty
 
 ---
 

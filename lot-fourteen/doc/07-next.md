@@ -604,8 +604,26 @@ Fassung.**
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
 
-- **DIE ZWEITE KOPIE. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
-  Kapitel 16.** Am 12. Maerz um sechzehn Uhr vierzig wurde die Seite **zweimal**
+- **DIE ZWEITE KOPIE: ERLEDIGT in Band 2, Kapitel 17.** Mr Ok hat sie fuer die
+  Akte kopieren lassen, weil der Anrufer ausdruecklich zwei verlangt hat. Sie
+  liegt seit sechs Wochen ungeoeffnet in einem Ordner auf der zweiten Etage.
+  *"Then that is not the one I am afraid of."* **Der Eintrag bleibt hier als
+  Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
+  wenn man den Richtigen fragt.**
+
+- **DAS GESICHT ZU DEM SATZ. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
+  Kapitel 17.** Georgij hat neun Zeilen Beschreibung und eine Signatur:
+  *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
+  **Vierhundert Maenner in Seoul sind sechzig und leise und nicht gross. Ein
+  Satz aber gehoert jemandem.**
+
+  **Und es gibt genau eine Person, die ihn zuordnen kann, und sie haelt den
+  Namen seit Dezember zurueck.** Das ist die Kollision, auf die Band 1,
+  Kapitel 12 seit *"You are better when you don't know"* zulaeuft, und Band 2,
+  Kapitel 1 hat sie mit *"Ask me something else"* erneuert. **Jetzt ist jeder
+  ihrer Gruende schlechter als im Dezember, und beide wissen das.**
+
+- **Der alte Eintrag zur zweiten Kopie, Stand Kapitel 16, zur Nachvollziehbarkeit:** Am 12. Maerz um sechzehn Uhr vierzig wurde die Seite **zweimal**
   kopiert. Eine lag am 14. in Ulsan. **Die andere ist seit sechs Wochen
   irgendwo und musste noch nicht benutzt werden.**
 

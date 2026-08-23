@@ -32,8 +32,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Sunwoo | 21 | 9 (b1ch07-b2ch16) | 1 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 19 | 13 (b1ch05-b2ch14) | 3 | 60 |
+| Nam Byung-hee | 18 | 7 (b2ch03-b2ch17) | 1 | 56 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Nam Byung-hee | 17 | 6 (b2ch03-b2ch16) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -46,6 +46,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mr Hwang | 2 | 2 (b2ch07-b2ch10) | 3 | 7 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
+| Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
@@ -1897,6 +1898,47 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Nam Byung-hee
+
+18 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 1 | b2ch11:190 | "You could have written," said Nam Byung-hee. |
+| 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
+| 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
+| 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
+| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
+| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
+| 4 | b2ch14:278 | By the Saturday two of them had telephoned Nam Byung-hee. |
+| 6 | b2ch16:24 | The first is a man who owns two feeder vessels and has been trying to buy small operator.. |
+| 6 | b2ch16:110 | Mr Ok did not choose the week. Mr Ok did not choose the page and did not choose Nam Byun.. |
+| 8 | b2ch17:64 | "One of those copies went to a woman in Ulsan called Nam Byung-hee. She runs four trucks.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:272` (Tag 9) - twenty
+- `b2ch11:240` (Tag 1) - nine
+- `b2ch13:24` (Tag 9) - four, one
+- `b2ch13:32` (Tag 9) - five, four, nine
+- `b2ch14:278` (Tag 4) - two
+- `b2ch16:24` (Tag 6) - four, six, two
+- `b2ch16:110` (Tag 6) - eight, four
+- `b2ch17:64` (Tag 8) - four, one, six, twenty
+
+---
+
 ## Shin
 
 18 Nennungen in 1 Kapiteln.
@@ -1933,45 +1975,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:162` (Tag 53) - eight, five, one, two
 - `b2ch02:168` (Tag 53) - four, one, three
 - `b2ch02:186` (Tag 53) - one
-
----
-
-## Nam Byung-hee
-
-17 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
-| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
-| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:190 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:244 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:272 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-| 1 | b2ch11:190 | "You could have written," said Nam Byung-hee. |
-| 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
-| 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
-| 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
-| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
-| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
-| 4 | b2ch14:278 | By the Saturday two of them had telephoned Nam Byung-hee. |
-| 6 | b2ch16:24 | The first is a man who owns two feeder vessels and has been trying to buy small operator.. |
-| 6 | b2ch16:110 | Mr Ok did not choose the week. Mr Ok did not choose the page and did not choose Nam Byun.. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
-- `b2ch08:78` (Tag 9) - thirty
-- `b2ch08:104` (Tag 9) - two
-- `b2ch08:272` (Tag 9) - twenty
-- `b2ch11:240` (Tag 1) - nine
-- `b2ch13:24` (Tag 9) - four, one
-- `b2ch13:32` (Tag 9) - five, four, nine
-- `b2ch14:278` (Tag 4) - two
-- `b2ch16:24` (Tag 6) - four, six, two
-- `b2ch16:110` (Tag 6) - eight, four
 
 ---
 
@@ -2218,6 +2221,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
+
+---
+
+## Mrs Uhm
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 8 | b2ch17:56 | "Mrs Uhm did the copying," said Georgij. "She has done your filing since 2004 and she di.. |
+| 8 | b2ch17:166 | "I put it in the tray for Mrs Uhm to file and I never saw it again, and it will be in a .. |
+
+### Zahlen in der Naehe von Mrs Uhm
+
+- `b2ch17:56` (Tag 8) - one
+- `b2ch17:166` (Tag 8) - twenty
 
 ---
 

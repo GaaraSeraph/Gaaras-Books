@@ -151,6 +151,11 @@ nachrechnen, und `check.py` tut das automatisch.
   **zweimal**, und in seinem Buero steht keine einzige Anweisung. **Nach Georgijs
   eigener Probe ist er eine Hand.** Und die zweite Kopie ist irgendwo
   (Band 2, Kapitel 16)
+- Tag 206, Mo 27. April: **Mr Ok an seiner eigenen Mauer.** Erschreckt und
+  sonst nichts. Er liefert den Januar-Mann: sechzig, nicht gross, hat nichts
+  gegessen, wurde ohne Namen vorgestellt, rief in der ersten Maerzwoche an -
+  **und sagte zum Abschied "I am glad we finally met", obwohl sie sich nie
+  begegnet waren** (Band 2, Kapitel 17)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -988,6 +993,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie sieht sein Gesicht, bevor er etwas sagt:** *"Say the bad one first."* Und danach: *"Tell me about the second copy from the beginning, and do not leave out the part where you are frightened, because I would rather have it from you than watch you carry it around the house for a fortnight."*
 
   **Und das Vorziehen der Abrechnung**, die eigentlich fuer das Ende verabredet war: *"If I take him apart because I have been carrying something since March, then I am doing it for me, and I told you on the third of April that I would tell you the truth about that afterwards. This is the afterwards arriving early."*
+
+- **Band 2, Kapitel 17** *Four minutes of somebody's time* (v1.0) - **Tag 206, Mo 27. April. Eine Szene, an einer niedrigen Mauer vor einem Buerohaus in Jung-gu.**
+
+  **Das Erschrecken besteht ausschliesslich aus Auskunft.** Kein Wort ist eine Drohung. Georgij sagt ihm das Datum, die Uhrzeit, das Geraet, die zwei Kopien, den Namen der Frau aus der Ablage, und was am 23. April in einem Raum ueber einer Bank in Ulsan geschehen ist. **Mehr braucht es nicht.**
+
+  **Und der Satz, der ihn wirklich anhaelt, ist der ueber Mrs Uhm:** *"She is not going to be troubled by anybody, ever, and I want that said before the rest of it."* Georgij hat gewusst, dass dieser Satz ihn stoppen wuerde, hat ihn deshalb dorthin gesetzt **und hat ihn ausserdem so gemeint.**
+
+  **Die Absolution ist kaelter als jede Drohung.** Nichts geschieht seiner Firma, seiner Familie, seinen Kunden, seiner Bank. *"That is not a negotiating position and there is nothing you can do that would change it."* Der Grund: **"Because you did not choose anything."** Und dann der Satz, der haerter landet als alles davor: *"I am telling you that you are a hand."*
+
+  **Was Ok liefert, ist der bisher einzige Augenzeuge des Versenders.** Januar-Essen, ein Mann kommt an sein Ende des Tisches, **wird ohne hoerbaren Namen vorgestellt**, fragt nach der Ulsan-Kueste und dann nach ihr namentlich, **und interessiert sich auffallend fuer das Wort *ehrlich*** - was Woo unabhaengig davon genauso berichtet hat.
+
+  **Erste Maerzwoche: ein Anruf.** Eine Seite hinten im Katalog, ein Freund in Ulsan, die Adresse dazu. **Und ausdruecklich zwei Kopien: eine zum Schicken und eine fuer die Akte.** Die Akte-Kopie liegt seit sechs Wochen ungeoeffnet auf der zweiten Etage - *"Then that is not the one I am afraid of."* **Damit ist die zweite Kopie aufgeloest und die Angst aus Kapitel 16 abgeraeumt**, ohne dass Georgij etwas dafuer tun musste.
+
+  **Die Beschreibung: sechzig oder etwas weniger, nicht gross, pleasant, quiet, *the sort of man who has been in rooms*. Und er hat bei diesem Essen nichts gegessen, kein einziges Ding.**
+
+  **Und die Signatur, auf die das ganze Kapitel zulaeuft:** *"At the end of the lunch he stood up and shook my hand and said that he was glad we had finally met."* Sie waren einander nie begegnet. **"He did not confuse you with anybody."**
+
+  **Das ist die Umkehrung von Mrs Sunwoos *We haven't met*.** Sie sagt es, um zu pruefen, ob der andere weiss, was sie ist. Er sagt es, damit der andere glaubt, er haette es wissen muessen.
+
+  **Und die letzten dreissig Sekunden sind der Preis des Kapitels.** Georgij sagt Ok, er solle beim naechsten Anruf ja sagen, es genau so tun, wie es verlangt wird, und niemanden warnen. Auf dem Weg zur Bruecke merkt er, was das ist: **im Maerz hat jemand diesen Mann um vier Minuten fremder Zeit gebeten, und heute Abend hat ein Mann an seiner Mauer gestanden und ihn zum selben gemacht.** *"There is a word for that and he did not go looking for it."*
+
+  **Und Ok will am Schluss den Namen**, den Georgij ihm vorher als nutzlos angekuendigt hatte. Er bekommt ihn, und er bedeutet ihm nichts, **wie im Maerz an einem Tor in Ulsan - nur dass es diesmal nicht mehr das tut, was es damals getan hat.**
+
+  **Der Schluss zeigt auf Kapitel 18:** eine Beschreibung ist keine Beschreibung, vierhundert Maenner in dieser Stadt sind sechzig und leise und nicht gross. **Aber ein Satz gehoert jemandem**, und es gibt genau eine Person, die in genug Raeumen war, um einen Satz zu hoeren und ein Gesicht darauf zu legen. *"She has been declining to give him that face since December, and she has had a reason every single time, and every one of those reasons was better in December than it is tonight."*
 
 ---
 
