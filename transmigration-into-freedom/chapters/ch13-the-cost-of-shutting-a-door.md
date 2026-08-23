@@ -232,6 +232,10 @@ It was some time before she used one.
 
 When she did it was slower, said into the dark, in nothing at all like the voice she used for testing people. He did as he was told inside half a second. She noticed that he did. She got through the other three before she had finished with him, and the last one she said twice.
 
+She came apart twice before she said anything at all about it and once more afterwards, and he kept count, and he was aware that keeping count was an odd thing to be doing.
+
+He had put nineteen years of work into things and found out years later whether any of it had landed, on the occasions when he found out at all. Three days ago a window had opened in his head and started telling him what a thing had been worth in the same second he did it. This did the same and did it faster, and he wanted the number, and he was not sorry about wanting it.
+
 Afterwards she lay with her good arm over her eyes and got her breathing back.
 
 "Is that a thing where you come from," she said.

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 33.908 Woerter.
+Alle 4 Dokumente am Stueck. 34.392 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,27 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== An orgasm is a receipt, and that is not a metaphor I reached for ===
+Author: he likes his partner coming, repeatedly, because it shows him he was
+good, the same way the voice does. In a quickie he does not care about that -
+the voice is fine, the face is better, and from behind the wildness is its own
+thing.
+THE WORD RECEIPT IS ALREADY IN THIS BOOK. ch2: "a monster died, and the universe
+handed him a receipt," immediately after the passage about having fought his
+whole old life in the dark, effort in and no way to know what came out until it
+was too late to change anything. So this preference is not a taste bolted on. It
+is the same hunger the system feeds, fed by a person instead, and ch13 now says
+so in three sentences that lean on ch2 without naming it.
+THE QUICKIE SPLIT IS WHAT MAKES IT CHARACTER RATHER THAN APPETITE. He does not
+want the score always, he wants it when there is time to earn it. Four minutes
+buys the face instead. ch16 now says he was not after a tally and would not have
+got one, which also fixes a small tension in that scene.
+AND ch16 GETS THE OBSERVATION THAT PAYS: turned away and unable to be looked at,
+she is a different person about it. He files it. That is him doing the only
+thing he ever does, which is collect data on people, in the one place where it
+is not sinister.
 
 
 === A kiss, specified as a procedure ===
@@ -1547,6 +1568,22 @@ is not guesswork, because a person in the dark cannot help answering.
 - BREASTS. He loves them, he spends real time there, and it is never one item in
   a list. Give it its own beat and let it cost him minutes he did not have.
   He likes an arse as well, at ordinary enthusiasm.
+- HE WANTS THEM TO COME, AND MORE THAN ONCE, AND HE KEEPS COUNT. Not vanity.
+  IT IS A RECEIPT, and that word is doing real work, because it is the same word
+  the book already used in ch2: "a monster died, and the universe handed him a
+  receipt." He spent nineteen years putting effort in and finding out years
+  afterwards whether any of it landed, when he found out at all. The panel gave
+  him a number in the same second he earned it and he called that unfair and
+  loved it. THIS IS THE SAME MACHINE. An orgasm is feedback, immediately, about
+  whether he did well, and he is a man who has been starved of exactly that.
+  He is not sorry about wanting the number and the text says so.
+- BUT NOT IN A QUICKIE, and he knows it and does not chase it. Four minutes buys
+  a different thing. THE VOICE IS GOOD. THE FACE IS BETTER: six inches away in
+  bad light, and there is nothing in either world worth looking at more.
+  AND FROM BEHIND IS ITS OWN THING - somebody who cannot be looked at goes at it
+  like a different person, which he notices in ch16 and files away.
+  So the two registers are cleanly separated: the long ones are scored, the fast
+  ones are watched.
 - THE NOISES ARE THE POINT. He is not working for a result, he is working for the
   sound, and he says so and behaves so. That is the load-bearing sentence in
   every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER

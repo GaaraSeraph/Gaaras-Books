@@ -161,6 +161,22 @@ is not guesswork, because a person in the dark cannot help answering.
 - BREASTS. He loves them, he spends real time there, and it is never one item in
   a list. Give it its own beat and let it cost him minutes he did not have.
   He likes an arse as well, at ordinary enthusiasm.
+- HE WANTS THEM TO COME, AND MORE THAN ONCE, AND HE KEEPS COUNT. Not vanity.
+  IT IS A RECEIPT, and that word is doing real work, because it is the same word
+  the book already used in ch2: "a monster died, and the universe handed him a
+  receipt." He spent nineteen years putting effort in and finding out years
+  afterwards whether any of it landed, when he found out at all. The panel gave
+  him a number in the same second he earned it and he called that unfair and
+  loved it. THIS IS THE SAME MACHINE. An orgasm is feedback, immediately, about
+  whether he did well, and he is a man who has been starved of exactly that.
+  He is not sorry about wanting the number and the text says so.
+- BUT NOT IN A QUICKIE, and he knows it and does not chase it. Four minutes buys
+  a different thing. THE VOICE IS GOOD. THE FACE IS BETTER: six inches away in
+  bad light, and there is nothing in either world worth looking at more.
+  AND FROM BEHIND IS ITS OWN THING - somebody who cannot be looked at goes at it
+  like a different person, which he notices in ch16 and files away.
+  So the two registers are cleanly separated: the long ones are scored, the fast
+  ones are watched.
 - THE NOISES ARE THE POINT. He is not working for a result, he is working for the
   sound, and he says so and behaves so. That is the load-bearing sentence in
   every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER

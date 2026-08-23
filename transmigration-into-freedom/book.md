@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 42.956 Woerter.
+20 Kapitel. 43.133 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -20,10 +20,10 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 10 | Chapter 10: The Price Went Up | 1.941 |
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
-| 13 | Chapter 13: The Cost of Shutting a Door | 2.927 |
+| 13 | Chapter 13: The Cost of Shutting a Door | 3.038 |
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
-| 16 | Chapter 16: Something Is Drinking It | 2.633 |
+| 16 | Chapter 16: Something Is Drinking It | 2.699 |
 | 17 | Chapter 17: Who Gets the Kill | 2.366 |
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
@@ -2882,6 +2882,10 @@ It was some time before she used one.
 
 When she did it was slower, said into the dark, in nothing at all like the voice she used for testing people. He did as he was told inside half a second. She noticed that he did. She got through the other three before she had finished with him, and the last one she said twice.
 
+She came apart twice before she said anything at all about it and once more afterwards, and he kept count, and he was aware that keeping count was an odd thing to be doing.
+
+He had put nineteen years of work into things and found out years later whether any of it had landed, on the occasions when he found out at all. Three days ago a window had opened in his head and started telling him what a thing had been worth in the same second he did it. This did the same and did it faster, and he wanted the number, and he was not sorry about wanting it.
+
 Afterwards she lay with her good arm over her eyes and got her breathing back.
 
 "Is that a thing where you come from," she said.
@@ -3603,7 +3607,9 @@ She had him against the bar stack with his shirt shoved up over the strapping. H
 
 He was not quiet. He was as quiet as a man can be with somebody's hand over his mouth, which is not very, and she had a good deal to say about it later.
 
-He got her turned round against the stack and got his hand where it was wanted, and ignored her when she told him to be quick, and ignored her the second time as well. The third time she stopped telling him and started making a sound instead, low down and behind her teeth, and that was the one he had been working for. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
+He was not after a tally in four minutes and would not have got one. What he wanted was six inches away in bad light, and he got it, and there is nothing in either world worth looking at more than that.
+
+Then he got her turned round against the stack and got his hand where it was wanted, and ignored her when she told him to be quick, and ignored her the second time as well. The third time she stopped telling him and started making a sound instead, low down and behind her teeth. Faced away from him and unable to be looked at, she went at it like somebody else altogether, and he filed that away as the most useful thing he had learned all day. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
 
 The last of it was fast and it was not gentle. She bit down on the heel of her own hand rather than make the sound the tube would have carried, She stood with her forehead against the cold bar for a moment longer than the job required.
 

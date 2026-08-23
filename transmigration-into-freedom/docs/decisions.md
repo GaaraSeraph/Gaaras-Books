@@ -3,6 +3,27 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== An orgasm is a receipt, and that is not a metaphor I reached for ===
+Author: he likes his partner coming, repeatedly, because it shows him he was
+good, the same way the voice does. In a quickie he does not care about that -
+the voice is fine, the face is better, and from behind the wildness is its own
+thing.
+THE WORD RECEIPT IS ALREADY IN THIS BOOK. ch2: "a monster died, and the universe
+handed him a receipt," immediately after the passage about having fought his
+whole old life in the dark, effort in and no way to know what came out until it
+was too late to change anything. So this preference is not a taste bolted on. It
+is the same hunger the system feeds, fed by a person instead, and ch13 now says
+so in three sentences that lean on ch2 without naming it.
+THE QUICKIE SPLIT IS WHAT MAKES IT CHARACTER RATHER THAN APPETITE. He does not
+want the score always, he wants it when there is time to earn it. Four minutes
+buys the face instead. ch16 now says he was not after a tally and would not have
+got one, which also fixes a small tension in that scene.
+AND ch16 GETS THE OBSERVATION THAT PAYS: turned away and unable to be looked at,
+she is a different person about it. He files it. That is him doing the only
+thing he ever does, which is collect data on people, in the one place where it
+is not sinister.
+
+
 === A kiss, specified as a procedure ===
 Four rungs and then a rule: closed lips, a little more, more again, and the tip
 of the tongue on the fourth. After that it climbs and never climbs by much,
