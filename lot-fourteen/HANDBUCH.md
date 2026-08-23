@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 71.792 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 71.990 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1667,7 +1667,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 33** *That is five* (v1.4) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
+- **Kapitel 33** *That is five* (v1.5) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.4) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
 - **Kapitel 30** *Who do they telephone* (v1.6) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
@@ -3007,6 +3007,28 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`.
 
+  **Das dritte eigene, gesetzt am 23.08. in Kapitel 33.** Kapitel 17 zaehlt
+  mit: *"Two of them in seventeen years had been his own."* Eines an Mr Hong
+  auf der Gala, fuer einen dritten Namen, der ihn etwas gekostet hat. Das
+  andere ueber Annies Schreibtisch und im Wagen danach, ueber einen Mann, der
+  in einen Apfel beisst.
+
+  **Beide waren in Raeumen mit genau einer Person darin, und die wusste
+  ohnehin alles.** Das ist keine Beobachtung, das ist die Regel, und Annie
+  spricht sie in Kapitel 17 aus: *"Be pleased with it in this car and nowhere
+  else."*
+
+  Das dritte kommt in Kapitel 33, in den elf Sekunden, in denen Sang-hoon den
+  Apfel begreift, und zwar **vor dem Mann, um den es geht**, und vor Annie,
+  die es untersagt hat. Es ist damit dieselbe Sorte wie das zweite und
+  derselbe Apfel, nur ohne Wand darum. Deshalb bittet Georgij vorher um
+  nichts und kuendigt es nur an, und deshalb sitzt er vier Minuten spaeter
+  in einem Sessel und erklaert sich.
+
+  **Es steht nicht in der Tabelle darunter**, weil die Tabelle die kuratierten
+  Sorten fuehrt und dieses keines ist. *"He did not put it there and he could
+  not have stopped it."*
+
   **Die sechs unbesetzten Sorten, durchgesehen am 22.08.** Es waren nie drei.
   Eine davon ist seitdem gesetzt, es sind noch vier offen und eine
   zurueckgestellt.
@@ -4159,13 +4181,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:52 | Annie did not move. |
 | 7 | ch33:66 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
 | 7 | ch33:80 | Annie did not answer him and she did not stop him. |
-| 7 | ch33:212 | "Your offer," said Annie. |
-| 7 | ch33:220 | Annie's answer took five words. |
-| 7 | ch33:230 | "I know," said Annie. |
-| 7 | ch33:272 | "Sit down," said Annie. |
-| 7 | ch33:286 | Annie's face did nothing at all. |
-| 7 | ch33:302 | Annie let that stand where it was. |
-| 7 | ch33:322 | Annie was quiet. |
+| 7 | ch33:218 | "Your offer," said Annie. |
+| 7 | ch33:226 | Annie's answer took five words. |
+| 7 | ch33:236 | "I know," said Annie. |
+| 7 | ch33:278 | "Sit down," said Annie. |
+| 7 | ch33:292 | Annie's face did nothing at all. |
+| 7 | ch33:308 | Annie let that stand where it was. |
+| 7 | ch33:328 | Annie was quiet. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4234,7 +4256,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:226` (Tag 74) - one
 - `ch33:34` (Tag 7) - one, three
 - `ch33:66` (Tag 7) - fifteen
-- `ch33:220` (Tag 7) - five
+- `ch33:226` (Tag 7) - five
 
 ---
 
@@ -4755,13 +4777,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:120 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
 | 7 | ch33:130 | "Then spend it," said Park Sang-hoon. |
 | 7 | ch33:148 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
-| 7 | ch33:166 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
-| 7 | ch33:178 | "And in that quarter," said Sang-hoon. |
-| 7 | ch33:196 | Sang-hoon looked at him for some time. |
-| 7 | ch33:208 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
-| 7 | ch33:216 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
-| 7 | ch33:226 | Park Sang-hoon turned round then. |
-| 7 | ch33:258 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 7 | ch33:172 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
+| 7 | ch33:184 | "And in that quarter," said Sang-hoon. |
+| 7 | ch33:202 | Sang-hoon looked at him for some time. |
+| 7 | ch33:214 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
+| 7 | ch33:222 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
+| 7 | ch33:232 | Park Sang-hoon turned round then. |
+| 7 | ch33:264 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -4796,8 +4818,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:226` (Tag 74) - one
 - `ch33:44` (Tag 7) - ten, thirty-one
 - `ch33:148` (Tag 7) - eleven, one
-- `ch33:216` (Tag 7) - two, two hundred million
-- `ch33:258` (Tag 7) - eleven, forty
+- `ch33:222` (Tag 7) - two, two hundred million
+- `ch33:264` (Tag 7) - eleven, forty
 
 ---
 
@@ -4957,7 +4979,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 | 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | ch33:342 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and neit.. |
+| 7 | ch33:348 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and neit.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -4987,7 +5009,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:8` (Tag 59) - one, two
 - `ch28:230` (Tag 1) - one
 - `ch31:68` (Tag 74) - one, three
-- `ch33:342` (Tag 7) - six
+- `ch33:348` (Tag 7) - six
 
 ---
 
@@ -5039,7 +5061,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
 | - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
 | - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
-| 7 | ch33:206 | "Ye-rin." |
+| 7 | ch33:212 | "Ye-rin." |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 

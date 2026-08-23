@@ -255,6 +255,28 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   haben weiterhin keins**, und das ist vertretbar: gestreut wuerde es billiger,
   nicht besser. Der volle Katalog steht in `doc/05-continuity.md`.
 
+  **Das dritte eigene, gesetzt am 23.08. in Kapitel 33.** Kapitel 17 zaehlt
+  mit: *"Two of them in seventeen years had been his own."* Eines an Mr Hong
+  auf der Gala, fuer einen dritten Namen, der ihn etwas gekostet hat. Das
+  andere ueber Annies Schreibtisch und im Wagen danach, ueber einen Mann, der
+  in einen Apfel beisst.
+
+  **Beide waren in Raeumen mit genau einer Person darin, und die wusste
+  ohnehin alles.** Das ist keine Beobachtung, das ist die Regel, und Annie
+  spricht sie in Kapitel 17 aus: *"Be pleased with it in this car and nowhere
+  else."*
+
+  Das dritte kommt in Kapitel 33, in den elf Sekunden, in denen Sang-hoon den
+  Apfel begreift, und zwar **vor dem Mann, um den es geht**, und vor Annie,
+  die es untersagt hat. Es ist damit dieselbe Sorte wie das zweite und
+  derselbe Apfel, nur ohne Wand darum. Deshalb bittet Georgij vorher um
+  nichts und kuendigt es nur an, und deshalb sitzt er vier Minuten spaeter
+  in einem Sessel und erklaert sich.
+
+  **Es steht nicht in der Tabelle darunter**, weil die Tabelle die kuratierten
+  Sorten fuehrt und dieses keines ist. *"He did not put it there and he could
+  not have stopped it."*
+
   **Die sechs unbesetzten Sorten, durchgesehen am 22.08.** Es waren nie drei.
   Eine davon ist seitdem gesetzt, es sind noch vier offen und eine
   zurueckgestellt.

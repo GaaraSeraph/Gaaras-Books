@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.204 Woerter.
+33 Kapitel. 96.301 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.4 | 2.678 |
+| 33 | v1.5 | 2.775 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10371,6 +10371,12 @@ Nobody in that room said anything at all.
 Jang, in the hall, would say afterwards that he heard nothing and had not been listening, and both halves of that were untrue and he was never asked again.
 
 Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at eleven seconds.
+
+Somewhere in the fifth of them, Georgij began to smile.
+
+It was not one of the ones he owned. He could have named the house every other smile came out of and roughly what it had cost to learn, and this was not any of them. It was the other kind, and it had happened twice in seventeen years, and both times there had been exactly one other person in the room and she had known everything already.
+
+He did not put it there and he could not have stopped it, and he made no attempt to.
 
 ---
 
