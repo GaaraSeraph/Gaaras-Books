@@ -202,4 +202,4 @@ Ylva was waiting by the well with her arms folded and a face he did not like.
 
 Gaara stood in the street with his flame under his arm and did the only thing he had ever been good at, which was work out what a man was actually saying.
 
-"He does not think we will fail," he said. "He thinks we will succeed. And he does not want to be the man who paid for a second one."
+"He does not think we will fail," he said. "He thinks we will succeed. Rulf succeeded too, the first time." He looked at the flame under his arm and not at her. "It was the second trip that killed him, and he only made it because the first one worked. Ordulf does not want to be the man who pays for whichever one of ours turns out to be the second."

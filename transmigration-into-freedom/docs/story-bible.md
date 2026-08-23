@@ -1172,11 +1172,13 @@ Hades, and the first money he ever earned here (ch23)
   She does not answer, and she does not move the stall. LEAVE IT THERE.
 - AND THE CHAPTER ENDS ON ORDULF REFUSING, offstage, through Ylva. Not because
   she has no touch. Because the last man who brought him metal out of that city
-  was Rulf, AND RULF PAID FOR IT.
-  GAARA READS IT CORRECTLY AND IT IS THE BEST LINE IN THE CHAPTER: "He does not
-  think we will fail. He thinks we will succeed. And he does not want to be the
-  man who paid for a second one." That is the whole obstacle for ch23 and it is
-  a moral one rather than a commercial one.
+  was Rulf, AND RULF DID NOT COME BACK FROM THE SECOND TRIP.
+  GAARA READS THE SHAPE OF IT: Rulf succeeded the first time, and only went
+  again because the first one worked - success is what got him killed, not
+  failure. "Ordulf does not want to be the man who pays for whichever one of
+  ours turns out to be the second." Success does not retire the risk here, it
+  manufactures the next attempt. That is the whole obstacle for ch23, and it is
+  moral rather than commercial.
 
 HE FLIRTS WITH EVERYONE AND I HAD BEEN WRITING ONLY THE OTHER HALF (author,
 after ch22). The rule in CLAUDE.md has two clauses and I was obeying the second

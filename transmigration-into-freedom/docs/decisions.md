@@ -3,6 +3,24 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== What success would actually cost Ordulf, made legible on the page ===
+Author asked the question a second time, correctly - the line was too compressed
+to answer it. The logic was there but not written: RULF SUCCEEDED ON HIS FIRST
+TRIP. It was the second one that killed him, and he only made the second trip
+because the first one worked and he already knew the metal was there (ch19:
+"Rulf knew it. It is why he went the second time"). So success was the cause of
+his death, not a defence against it - it is what created the incentive for a
+second, fatal attempt.
+Ordulf's caution reads the same way once that is on the page: he is not afraid
+Gaara and Ylva will fail. He is afraid they will succeed, exactly as Rulf did
+the first time, and that success will manufacture the next attempt the way it
+did before - and he will again be the man who financed it. "He does not want to
+be the man who pays for whichever one of ours turns out to be the second."
+This only became writable once the Rulf/Ketil name collision was fixed. With two
+men sharing one name, Rulf's "first time / second time" could not be read as a
+single, causal story - it had to wait until the name pointed at one person.
+
+
 === Rulf and Ketil: one name had been given to two people ===
 Author pushed back on the previous entry - he had always understood the husband
 to be the smith who died, and he was right to be confused, because THE ERROR WAS

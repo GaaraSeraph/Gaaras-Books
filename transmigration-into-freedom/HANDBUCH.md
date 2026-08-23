@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 53.810 Woerter.
+Alle 4 Dokumente am Stueck. 54.064 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -692,6 +692,24 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== What success would actually cost Ordulf, made legible on the page ===
+Author asked the question a second time, correctly - the line was too compressed
+to answer it. The logic was there but not written: RULF SUCCEEDED ON HIS FIRST
+TRIP. It was the second one that killed him, and he only made the second trip
+because the first one worked and he already knew the metal was there (ch19:
+"Rulf knew it. It is why he went the second time"). So success was the cause of
+his death, not a defence against it - it is what created the incentive for a
+second, fatal attempt.
+Ordulf's caution reads the same way once that is on the page: he is not afraid
+Gaara and Ylva will fail. He is afraid they will succeed, exactly as Rulf did
+the first time, and that success will manufacture the next attempt the way it
+did before - and he will again be the man who financed it. "He does not want to
+be the man who pays for whichever one of ours turns out to be the second."
+This only became writable once the Rulf/Ketil name collision was fixed. With two
+men sharing one name, Rulf's "first time / second time" could not be read as a
+single, causal story - it had to wait until the name pointed at one person.
 
 
 === Rulf and Ketil: one name had been given to two people ===
@@ -3429,11 +3447,13 @@ Hades, and the first money he ever earned here (ch23)
   She does not answer, and she does not move the stall. LEAVE IT THERE.
 - AND THE CHAPTER ENDS ON ORDULF REFUSING, offstage, through Ylva. Not because
   she has no touch. Because the last man who brought him metal out of that city
-  was Rulf, AND RULF PAID FOR IT.
-  GAARA READS IT CORRECTLY AND IT IS THE BEST LINE IN THE CHAPTER: "He does not
-  think we will fail. He thinks we will succeed. And he does not want to be the
-  man who paid for a second one." That is the whole obstacle for ch23 and it is
-  a moral one rather than a commercial one.
+  was Rulf, AND RULF DID NOT COME BACK FROM THE SECOND TRIP.
+  GAARA READS THE SHAPE OF IT: Rulf succeeded the first time, and only went
+  again because the first one worked - success is what got him killed, not
+  failure. "Ordulf does not want to be the man who pays for whichever one of
+  ours turns out to be the second." Success does not retire the risk here, it
+  manufactures the next attempt. That is the whole obstacle for ch23, and it is
+  moral rather than commercial.
 
 HE FLIRTS WITH EVERYONE AND I HAD BEEN WRITING ONLY THE OTHER HALF (author,
 after ch22). The rule in CLAUDE.md has two clauses and I was obeying the second
