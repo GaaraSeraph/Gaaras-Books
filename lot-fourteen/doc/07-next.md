@@ -696,6 +696,23 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **DIE PRAXIS, EINGEGRENZT.** Ab Kapitel 32 ist der Arzt kein Suchbegriff mehr,
+  sondern ein Profil: **ein Hausbesuch ausserhalb Seouls, Anfahrt etwa dreimal so
+  teuer wie der Termin, Rechnung an ein Auktionshaus statt an einen
+  Versicherer** - und im Namensfeld sechs Zeichen. **Faellig: welche Praxis im
+  Juli vor vier Jahren so weit gefahren ist.** Wer das Feld ausgefuellt hat, hat
+  eine Akte angelegt, und eine Akte hat eine Aufbewahrungsfrist.
+
+- **DAS BLATT VON MRS JEON.** Eine Seite, unterschrieben, datiert, ueber den
+  9. Januar. **Es geht an Georgij und nicht an Hwang**, mit Auflage. Er besitzt
+  nichts, aber er verwahrt jetzt etwas. **Faellig: wann es kommt, und was
+  passiert, wenn er es doch braucht.**
+
+- **MRS JEON FAENGT AN.** Startdatum darf sie selbst waehlen, Mitte des Monats
+  im Gespraech. **Ab dann sitzt eine Frau, die Georgij auseinandernehmen koennte,
+  in einer Firma, die zur Haelfte Annie gehoert.** Das ist Eindaemmung und
+  Risiko in einem, und beide wissen es.
+
 - **SIM. Der erste Name auf der Gegenseite, der aus einem Beleg kommt und nicht
   aus einem Verhoer.** Eckfeld beider Blumenzettel, Telefonnummer mit altem
   Vorwahlblock. **Der Mann, der Fremden sagt, es sei schoen, sie wiederzusehen**

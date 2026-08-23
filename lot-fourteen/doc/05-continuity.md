@@ -227,6 +227,14 @@ nachrechnen, und `check.py` tut das automatisch.
   room."* **Und den Namen des Bestellers: Sim** - der sich am Telefon bei einer
   Fremden dafuer bedankt, sie wiedergesehen zu haben, genau wie bei Yeom vor vier
   Jahren (Band 2, Kapitel 31)
+- Tag 242, Di 2. Juni: **das Heft geht zurueck, und der Brief aus Gwangyang liegt
+  schon da**, seit Samstag, Erstzustellung, abgeschickt in der Freitagnacht.
+  Mrs Jeon benennt es als das, was es ist (*"I have been handled"*), nimmt es
+  trotzdem und laesst sich den Unterschied sagen. **Und Georgij stellt die Frage,
+  die er am Freitag nicht gestellt hat:** die Arztrechnung war ein Hausbesuch
+  ausserhalb der Stadt, die Anfahrt dreimal so teuer wie der Termin, **und im
+  Feld fuer den Namen standen sechs Zeichen, naemlich die Losnummer.** Er nimmt
+  die Adresse nicht (Band 2, Kapitel 32)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1582,6 +1590,61 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Der letzte Absatz benennt, warum ausgerechnet dieses Blatt existiert:** *"Everything else that anybody wrote down in this was written by somebody who knew it might one day be read. The only page in it with a person on it was written by a shop that had no idea it was writing anything at all."*
 
   **Neu im Personal:** Mrs Gwak (Laden), Min-a (Aushilfe), Mr Han (Fahrer, achtzehn Jahre, schreibt auf alles). **Und Sim**, der Besteller, der bis hierhin nur eine Handschrift im Eckfeld und ein Satz am Telefon ist.
+
+- **Band 2, Kapitel 32** *Where the name goes* (v1.0) - **Tag 242, Di 2. Juni. Eine Szene, dieselbe Kueche vier Haltestellen draussen, bis halb zwoelf.**
+
+  **Drei datierte Faeden laufen an einem Tisch zusammen:** das Heft kommt zurueck wie am Freitag versprochen, der Brief aus Gwangyang liegt seit Samstag da, und Annies Ansage *"in about four days"* wird faellig.
+
+  **Er gibt das Heft zurueck, bevor er sich setzt**, und sagt den Zustand dazu: *"Nothing has been taken out of it and nothing has been added to it, and there is one copy and it is in a locked drawer in a house on the river."*
+
+  **Mrs Jeon hat den Brief so hingelegt, dass er ihn ansehen muss.** Und sie laesst Georgij den Namen auf der ersten Seite laut sagen. **Der Text druckt ihn nicht** - Annie hat im ganzen Buch keinen Nachnamen, und das bleibt so: *"He has heard that name said out loud in a great many rooms this year ... It has never once sounded the way it sounded in that kitchen."*
+
+  **Die harte Frage kommt sofort:** *"When did you know."* - Freitagabend, halb neun, entschieden um Viertel vor. *"And you were out here on Friday morning and you did not come back on Saturday."*
+
+  **Seine Begruendung ist die einzige, die ihm zusteht:** *"She decided it, and it is her firm and her name on the page, and it is her money. If I had come out here on Saturday to tell you first, I would have taken a thing that belongs to her and used it to be liked by you."* Und die zweite Haelfte, die sie ihm abfordert: **"You would have read that letter on Saturday morning as a thing I did. You would have been right to."**
+
+  ---
+
+  **Und dann der Satz, der Annies Instrument aus Kapitel 30 auf die Probe stellt:** *"I have been handled."* - **"Yes."**
+
+  **Sie belegt es aus dreiundzwanzig Jahren:** *"Every increase, every rota, every time a man decided something about my week and then came and told me in a way that was designed to make me feel that I had been consulted. I know the shape of it in the dark."*
+
+  **Georgij verteidigt nicht, er beziffert:** der Eigentuemer steht im Register, der Grund steht auf der Seite und ist der wahre, die Nummer unten wird abgehoben. **Und dann gibt er den Rest zu:** *"And that is not the same as being asked." - "No. It is not the same as being asked."*
+
+  **Ihre Bilanz der letzten sechs Wochen ist die haerteste Stelle des Kapitels:** *"In April I was rung by two civil people who would not tell me how they got my name. In May I was made redundant by a man who has never once looked me in the face. On Saturday I was handed the best thing that has happened to me in four years by a woman I have never met, and every single one of those three was decided in a room I was not in."*
+
+  **Sie nimmt es, und sie laesst das nicht als Zustimmung durchgehen:** *"I am fifty-one ... And I would like it understood by somebody that taking it is not the same as being asked either."*
+
+  **Und Annies Prognose trifft wortgenau ein**, was Mrs Jeon zu hoeren bekommt: *"She said you would work out inside a week that you had been made safe on purpose ... and that you would open the post on the first of the month anyway."* - **"That is a horrible thing to be right about."**
+
+  ---
+
+  **Der Ertrag ist die Frage, die er am Freitag nicht gestellt hat.** Nicht was die Rechnung war, sondern **wie sie aussah.**
+
+  - **Kein Termin, sondern ein Hausbesuch.** Und die Anfahrt kostete etwa das Dreifache des Termins: *"it is the only medical invoice I have ever passed where the getting there cost more than the seeing."* Also ausserhalb der Stadt.
+  - **Und im Feld fuer den Namen standen sechs Zeichen.** *"The same six that were on my clearing slip, which is the lot."*
+
+  **Der Titel steht in ihrer Selbstanklage, und sie ist der Grund fuer den 9. Januar:** *"Somebody in a practice was given a lot number and told that it was the patient, and wrote it in the box where the name goes ... And I passed it. I looked at that box and I read six characters and I put it through and I went to lunch."* - **"That is what I went upstairs about. Not the four years. The lunch."**
+
+  ---
+
+  **Und die Gegenprobe zu Kapitel 29 steht im selben Zimmer:** er nimmt die Adresse **nicht**. Er laesst das Notizbuch in der Tasche, und sie ist die, die es benennt. *"You are not asking me where."*
+
+  **Sein Grund ist ohne Schmuck:** *"you are going to be inside a firm that belongs to her by the middle of the month, and the less of this that is in you, the better that is for you ... I do not need the rest of it from you and I am not going to take it because it is available."*
+
+  **Und als sie den Widerspruch aufmacht** (*"On Friday you gave me a thing that could take her apart, and today you will not let me give you an address"*), erklaert er ihn nicht weg: **"On Friday I had nothing else to pay you with. Today I have. That is the only thing that changed and I am not going to dress it up as a principle."**
+
+  ---
+
+  **Hwangs Bitte aus Kapitel 28 wird nicht erledigt, sondern weitergereicht**, und das ist die Lehre des Kapitels in Handlungsform: *"I want to give you the question instead of deciding it, because he asked me to arrange a thing about you without asking you."*
+
+  **Ihre Entscheidung ist besser als jede, die er getroffen haette:** *"Then it will exist and I will write it, and he does not get to have it."* Eine Seite, unterschrieben, mit Datum - **und sie geht an Georgij**, *"because a thing like that is worth nothing in the hand of the man it is about."* Mit Auflage: *"You will keep it and you will not use it, and if you ever do use it you will find that I am extremely difficult."*
+
+  **Der Satz an der Tuer ist der Beweis, dass sie die Terms wirklich gelesen hat**, und es ist zugleich das Erste, was sie fuer Annie mitgibt: *"Tell her that I read all four pages of the terms and that the third one is generous in a way that somebody thought about. And tell her that I noticed it was posted on Friday night."*
+
+  **Und daran haengt der Schluss.** Freitagnacht heisst: **Annie hat den Brief geschrieben, unterschrieben und aus dem Haus gehabt, waehrend er auf dem Boden neben ihrem Schreibtisch schlief.** *"Eleven minutes, she had said, and about four days. It is the fourth day."* - **"He has not been punished. He has been shown."**
+
+  **Bewusster Widerhall:** *"You are a very strange young man"* steht gegen Mr Byuns *"Then you are a very cruel young man"* aus Kapitel 22. Zwei Urteile ueber denselben Mann aus zwei Zimmern, und das Buch faellt keines davon selbst.
 
 ---
 
