@@ -156,6 +156,11 @@ Chapter 14: no mechanical change. No kills, no level, nothing spent. The system
 budget goes entirely on him reading the road and choosing a crew by levels he
 cannot explain to anyone in it.
 
+Chapter 15: no level. Kills 11 to 12, and only the one he took himself. HP 220,
+MP 60 untouched, Class None, Dagger Mastery still D and now useless, because the
+knife it applies to is in two pieces. He is cut across the ribs. Halle's boy
+loses most of the skin off a forearm and keeps the arm.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

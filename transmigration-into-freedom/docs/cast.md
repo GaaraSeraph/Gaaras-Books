@@ -108,7 +108,18 @@ Aldis Halden (dead, offstage)
 - Marit's great-aunt, her grandfather's sister, elder of Oldstep before
   Hallvard. Died in a spring; the houses met that autumn and gave it to him.
 
-The six (ch14)
+The six (ch14, blooded ch15)
+- YLVA is the one who pays off. In ch15 she kills a Level 7 with a wood axe
+  after Gaara's knife breaks, standing over it and hitting it until it stopped,
+  and then asks him whether seven is a lot. He tells her what she is. "That is
+  the first time anybody has told me a number about myself."
+- VIDAR is the heavy man with the boar spear, named at last, mid-fight. Loses
+  the spear to a five and gets it back by standing on the thing's head.
+- HALLE'S BOY does not run when told to. He puts his bar into a Level 7's leg
+  joint, which is the bravest and stupidest thing that happens underground that
+  year, and it costs him most of the skin on one forearm.
+- Hallvard does not move from the gear for the entire fight, looks at the boy's
+  arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
   Oldstep and the quietest person in the road. Her husband went down with Aldis
   and came back the first time, which is all she says about it. On a bar.

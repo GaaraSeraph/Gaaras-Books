@@ -20,7 +20,8 @@ nicht diese Zeile von Hand.
 12. For the Record
 13. The Cost of Shutting a Door
 14. Say It in the Road
-15. A Name for the Knife (planned)
+15. Two to Four Hard Uses
+16. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -198,6 +199,19 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   adequate at all of them, and it made me a man with a very good CV and no
   company." He is now a fast Level 4 rather than a rounded one, and it should
   visibly change how he fights.
+- (ch15) THE COUNTER ONLY COUNTS HIS OWN. Bern and Ask kill a four in front of
+  him and the counter does not move. Ylva and Vidar kill two fives and it does
+  not move. Gaara's reading, and he calls it the most honest thing the machine
+  has ever done: if it paid him for what his people killed, he would be a level
+  up by the end of the week and would learn nothing about his own hands.
+- (ch15) A SKILL IS ALSO A CRUTCH, and this is the best mechanical idea in the
+  book so far. Dagger Mastery governs blades under 40 cm. When the knife breaks
+  mid-fight he picks up Marit's hatchet and it is like fighting with somebody
+  else's hands: no correction, the wrist stays where he sent it, the angle comes
+  off the plate instead of into it. He still KNOWS where the seam is, because
+  knowing is his, but he cannot make his arm arrive there.
+  So the window is welded to a tool. Losing the tool loses the craft and leaves
+  the knowledge, which is the worst possible combination.
 - (ch11) THE CURVE IS NOT A COUNT. It is WEIGHTED BY WHAT YOU KILL. Level 4
   arrived at eleven kills, not the fourteen Gaara had predicted, and the reason
   is in the corpses: fives and a six, taken while he was a three. In the road in
@@ -214,6 +228,11 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch11) LEVEL 4: HP 185 to 220 (+20 for the level, +15 for CON 9 to 10). STR
   14, DEX 10, CON 10. Free points per level go 3, 4, 5. He has now banked NINE
   unspent and refuses to touch any of them while his hands are shaking.
+- (ch15) THE KNIFE IS GONE. Two to four hard uses, no warning, exactly as
+  written. It broke two inches into a Level 7 crawler's seam with a nineteen-
+  year-old bleeding behind him. Panel: "Field knife, human manufacture.
+  Destroyed." He is now a Level 4 with Dagger Mastery D and nothing to use it
+  on. It never got a name; he notices that, and mentions Blacky.
 - (ch11) SKILLS ADVANCE, AND A BETTER WINDOW SHOWS WORSE THINGS. Dagger Mastery
   E to D, earned by eleven kills with a short blade, four of them above his
   level. Rank D "returns condition as well as geometry", and the first thing it
@@ -307,6 +326,21 @@ The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - It was not brought down by weather or time. The aqueduct has a bite out of it; the chamber roof was hit from the side. Nothing these people built could have done that.
 - Gaara's open question: whatever did it either left, or did not.
 - Roots the thickness of a thigh have split worked stone, so it has been empty a very long time.
+
+Numbers as a working language (ch15)
+- He fights the crew by calling levels: "Four. That is nothing." "Five, five,
+  six. The six is mine." "Seven," and something in his voice moves all of them.
+  They obey a number without being told where it comes from, and Marit closes
+  the question for him in one line: he said no once, then he was right about
+  everything for two days, and she stopped asking.
+- YLVA LEARNS HER OWN NUMBER, and it is the first time anybody in that village
+  has been told one. She kills a seven with a wood axe as a seven, and Gaara
+  tells her what that means, and she stands with it for a moment and then goes
+  to see to the boy. Thread 2 (does anyone else know their level) has just been
+  opened from his side, deliberately, for the first time.
+- Vidar. The heavy man with the boar spear has a name now, given mid-fight,
+  and Gaara's response is that it will be an excellent name in about forty
+  seconds.
 
 The elder's secret (ch12) - the first arc's answer
 - HALLVARD HAS BEEN GOING DOWN THERE FOR THIRTY-ONE YEARS. It is not a season
