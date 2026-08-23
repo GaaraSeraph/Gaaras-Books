@@ -163,14 +163,14 @@ The six (ch14, blooded ch15)
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
 - (ch19) YLVA IS THE COMPANION and it is her decision, announced at Rulf's
-  anvil so that Gaara cannot be charming about it. RULF IS NOT ESTABLISHED AS
-  HER HUSBAND - correction, see the decisions.md entry on this, ch14 names him
-  her BROTHER-IN-LAW with a wife of his own, and he rode alive to the Wold to
-  report the gate. Whatever Rulf is to her (in-law by marriage to a husband
-  never named on the page), the forge is his and has been cold nine years; she
-  stood at the bellows for twenty and can weld a share, set a tyre and edge a
-  scythe, and will not attempt a blade. She takes half of everything he brings
-  out of the city. She is a Level 8 who has never
+  anvil so that Gaara cannot be charming about it. RULF IS HER DEAD HUSBAND,
+  the smith, who went into the ruin with Aldis, survived the first trip, and
+  did not survive the second - which he made because he already knew about
+  the metal. His forge has been cold nine years; she stood at the bellows for
+  twenty and can weld a share, set a tyre and edge a scythe, and will not
+  attempt a blade. She takes half of everything he brings out of the city.
+  (Ketil, ch14/ch17, is Rulf's brother and Ylva's living brother-in-law - a
+  separate man, do not conflate them.) She is a Level 8 who has never
   been further than the Wold.
 - (ch19) BERN GIVES THE BEST NOTE IN THE BOOK from a bench with one leg: the
   doctrine says how to win and nothing about when it goes wrong, and he did not
@@ -260,11 +260,18 @@ Runa, button seller (ch23)
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
 
 Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
-- Will not deal with Ylva, and the reason is not her missing touch. THE LAST MAN
-  WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF, AND RULF PAID FOR IT.
-- So the obstacle is moral and not commercial. He does not think they will fail.
-  He thinks they will succeed, and he does not want to be the man who paid for a
-  second one. Still entirely offstage as of ch22.
+- Will not deal with Ylva, and the reason is not her missing touch. THE LAST
+  MAN WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF - Ylva's husband - AND
+  RULF DID NOT COME BACK.
+- So the obstacle is moral and not commercial. He does not think they will
+  fail. He thinks they will succeed, and he does not want to fund a second
+  trip that ends the same way the first one did. Still offstage as of ch23.
+
+Ketil, Ylva's brother-in-law (Rulf's brother), ch14/ch17
+- Rode to the Wold at dusk in ch14 to report the gate to the lord's man. Has
+  his own wife, not Ylva. LIVE THREAD: he is somewhere in the Wold and Gaara's
+  party has not run into him. Whether he has already made his report, and
+  what it says, is not yet on the page.
 
 The warden of the Staple (ch22)
 - Not glad to see anybody. Writes badly and gets his spelling corrected by a man

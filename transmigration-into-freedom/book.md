@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 50.449 Woerter.
+23 Kapitel. 50.451 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -21,7 +21,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
 | 13 | Chapter 13: The Cost of Shutting a Door | 3.102 |
-| 14 | Chapter 14: Say It in the Road | 2.693 |
+| 14 | Chapter 14: Say It in the Road | 2.695 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
 | 16 | Chapter 16: Something Is Drinking It | 2.699 |
 | 17 | Chapter 17: Who Gets the Kill | 2.366 |
@@ -3173,11 +3173,11 @@ It got worse about forty minutes later.
 
 Marit found him at the byre and stopped in the doorway, which told him something before she spoke.
 
-"Rulf's horse is gone," she said. "And Rulf with it."
+"Ketil's horse is gone," she said. "And Ketil with it."
 
-"Who is Rulf."
+"Who is Ketil."
 
-"Ylva's brother-in-law. He was at the back of the road this morning, shouting about the lord. He went east at dusk, and his wife says he took a bag and the good coat."
+"Her dead husband's brother. He was at the back of the road this morning, shouting about the lord. He went east at dusk, and his wife says he took a bag and the good coat."
 
 He put the bread down on the rail very carefully, because the alternative was to throw it.
 
@@ -3766,7 +3766,7 @@ He had said he would leave in the morning. In the morning he stood in the road w
 
 "It does not?"
 
-"It is the floor. Nothing has ever happened at the floor." He got the pack off his shoulder and set it on the wall. "Rulf has gone to tell a lord's man that a stranger opened a gate. A lord's man does not keep a horse saddled for that. He keeps a ledger, and a superior, and an enormous appetite for not being blamed. He will write it down. Then he will wait to see whether it goes away."
+"It is the floor. Nothing has ever happened at the floor." He got the pack off his shoulder and set it on the wall. "Ketil has gone to tell a lord's man that a stranger opened a gate. A lord's man does not keep a horse saddled for that. He keeps a ledger, and a superior, and an enormous appetite for not being blamed. He will write it down. Then he will wait to see whether it goes away."
 
 "How long," said Marit.
 

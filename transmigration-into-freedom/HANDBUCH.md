@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 53.498 Woerter.
+Alle 4 Dokumente am Stueck. 53.810 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -180,14 +180,14 @@ The six (ch14, blooded ch15)
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
 - (ch19) YLVA IS THE COMPANION and it is her decision, announced at Rulf's
-  anvil so that Gaara cannot be charming about it. RULF IS NOT ESTABLISHED AS
-  HER HUSBAND - correction, see the decisions.md entry on this, ch14 names him
-  her BROTHER-IN-LAW with a wife of his own, and he rode alive to the Wold to
-  report the gate. Whatever Rulf is to her (in-law by marriage to a husband
-  never named on the page), the forge is his and has been cold nine years; she
-  stood at the bellows for twenty and can weld a share, set a tyre and edge a
-  scythe, and will not attempt a blade. She takes half of everything he brings
-  out of the city. She is a Level 8 who has never
+  anvil so that Gaara cannot be charming about it. RULF IS HER DEAD HUSBAND,
+  the smith, who went into the ruin with Aldis, survived the first trip, and
+  did not survive the second - which he made because he already knew about
+  the metal. His forge has been cold nine years; she stood at the bellows for
+  twenty and can weld a share, set a tyre and edge a scythe, and will not
+  attempt a blade. She takes half of everything he brings out of the city.
+  (Ketil, ch14/ch17, is Rulf's brother and Ylva's living brother-in-law - a
+  separate man, do not conflate them.) She is a Level 8 who has never
   been further than the Wold.
 - (ch19) BERN GIVES THE BEST NOTE IN THE BOOK from a bench with one leg: the
   doctrine says how to win and nothing about when it goes wrong, and he did not
@@ -277,11 +277,18 @@ Runa, button seller (ch23)
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
 
 Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
-- Will not deal with Ylva, and the reason is not her missing touch. THE LAST MAN
-  WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF, AND RULF PAID FOR IT.
-- So the obstacle is moral and not commercial. He does not think they will fail.
-  He thinks they will succeed, and he does not want to be the man who paid for a
-  second one. Still entirely offstage as of ch22.
+- Will not deal with Ylva, and the reason is not her missing touch. THE LAST
+  MAN WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF - Ylva's husband - AND
+  RULF DID NOT COME BACK.
+- So the obstacle is moral and not commercial. He does not think they will
+  fail. He thinks they will succeed, and he does not want to fund a second
+  trip that ends the same way the first one did. Still offstage as of ch23.
+
+Ketil, Ylva's brother-in-law (Rulf's brother), ch14/ch17
+- Rode to the Wold at dusk in ch14 to report the gate to the lord's man. Has
+  his own wife, not Ylva. LIVE THREAD: he is somewhere in the Wold and Gaara's
+  party has not run into him. Whether he has already made his report, and
+  what it says, is not yet on the page.
 
 The warden of the Staple (ch22)
 - Not glad to see anybody. Writes badly and gets his spelling corrected by a man
@@ -685,6 +692,34 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Rulf and Ketil: one name had been given to two people ===
+Author pushed back on the previous entry - he had always understood the husband
+to be the smith who died, and he was right to be confused, because THE ERROR WAS
+IN THE CHAPTERS, not just in my analysis. ch14 has TWO men: Ylva's own husband,
+unnamed at the moment she mentions him ("My husband went down with Aldis. He
+came back the first time."), and a second man introduced 68 lines later who I
+had ALSO called Rulf - "Ylva's brother-in-law," with his own wife, riding to
+report the gate. I drafted ch19's forge scene without checking ch14 for a name
+already in use, and gave two people one name.
+FIXED BY RENAMING THE MESSENGER TO KETIL, in ch14 and ch17 (the only two
+chapters he appears in). He keeps every fact he had - Ylva's brother-in-law, a
+wife of his own, rode east at dusk to report the gate - and is now, cleanly,
+Rulf's brother rather than Rulf himself.
+RULF NOW NAMES EXACTLY ONE PERSON, permanently: Ylva's dead husband, the smith,
+who went into the ruin with Aldis, survived once, and did not survive the second
+trip, made because he already knew about the metal. This was always the
+intended reading and is now the only possible one.
+AND IT MEANS ch23's ORDULF LINE NEEDED NO INVENTION AFTER ALL. "Rulf paid for
+it" simply means what it always sounded like it meant, because the name now
+points at one person instead of two. The earlier entry's hedge ("what did he
+pay, if not his life") is withdrawn - he paid with his life, that was always
+the story, the previous fix broke it by mistaking a name collision for an
+over-specified document.
+KETIL IS NOW A LOOSE LIVE THREAD, on purpose: somewhere in the Wold is the man
+who reported the gate, and Gaara's party has not crossed him. Not resolved, not
+written toward yet - just true, and worth remembering before ch24.
 
 
 === Rulf is not established as dead, and I had invented that he was ===
@@ -1286,7 +1321,7 @@ true because it is just ch17.
 SECOND, AND POSSIBLY BIGGER: THE LORD'S MAN SITS IN THE WOLD (ch14). ORDULF IS
 IN THE WOLD (ch19). GAARA IS WALKING THERE RIGHT NOW (ch20). Nobody on the page
 has noticed. He arrives well inside the clock, in the town of the man holding
-Rulf's report, so he may not need a display at all - he can go and stand in
+Ketil's report, so he may not need a display at all - he can go and stand in
 front of the auditor. Somebody should say this out loud on the road.
 AND IF THE DISPLAY GOES AHEAD, THE LOGISTICS ARE THE THEME: he has left, Marit
 holds the valley, and the instruction has to travel twenty miles to a place
@@ -1723,7 +1758,7 @@ alive who reads both numbers at once, and that friction never resolves.
 
 === Four days was unrealistic and the story says so out loud ===
 The author caught it: two days east and two days back only works if a lord's man
-mounts up the hour Rulf arrives, and no administration in any world does that.
+mounts up the hour Ketil arrives, and no administration in any world does that.
 Rather than quietly retconning ch14, Gaara corrects himself on the page in ch17,
 because he is exactly the man who would: nineteen years of watching decisions
 not get made. Four days is the floor and nothing happens at the floor. A lord's
@@ -3125,7 +3160,7 @@ The elder's secret (ch12) - the first arc's answer
   come out of Hallvard's own mouth, in the road, because Gaara refuses to spend
   his one asset telling another man's story for him. "That is not kindness. It
   is bookkeeping."
-- (ch14) THE PRICE OF THE TRUTH, AND A CLOCK. A man called Rulf, Ylva's
+- (ch14) THE PRICE OF THE TRUTH, AND A CLOCK. A man called Ketil, Ylva's
   brother-in-law, was at the back of the road shouting about the lord, and at
   dusk he takes a horse, a bag and the good coat and rides east. Two days to the
   Wold where the lord's man sits, three if the ford is up.
@@ -3794,51 +3829,40 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     when the pressure rises: the moment he needs a level badly, the cheapest
     place to get one is to stop teaching.
 
-=== 6d. RULF: WHAT THE DOCUMENTS INVENTED, AND WHAT THE CHAPTERS ACTUALLY SAY ===
+=== 6d. RULF AND KETIL WERE THE SAME NAME FOR TWO PEOPLE. FIXED IN CANON ===
 
-FOUND WHILE ANSWERING AN AUTHOR QUESTION, not by design, and it is a real gap
-between what the canon chapters say and what my own analysis documents had been
-asserting for several turns.
+THE ACTUAL ERROR, once the author pushed back: not a documentation slip, A NAME
+COLLISION IN THE CHAPTERS THEMSELVES. ch14 contains two separate men:
+  ONE. Ylva's own husband, unnamed at the point she speaks: "My husband went
+    down with Aldis. He came back the first time." (Read together with ch19's
+    forge scene - same structure, "went down with Aldis and came back, then
+    went down again" - this is DEAD. He is the smith. It is his forge and his
+    anvil. This is who the author meant and always meant.)
+  TWO. A second man, ALSO CALLED RULF in the drafted text, introduced 68 lines
+    later: "Ylva's brother-in-law," has his own wife, rides east that same
+    night to report the gate to the lord's man (ch14, continued in ch17).
+Both used the name Rulf. THAT WAS THE BUG, not a documentation error laid over
+correct chapters - I gave two characters one name while drafting and never
+cross-checked ch19 against ch14 before writing it.
 
-WHAT ch14 ACTUALLY SAYS, in Marit's own words, and it is canon:
-  "Rulf's horse is gone. And Rulf with it." / "Who is Rulf." / "Ylva's
-  brother-in-law. He was at the back of the road this morning, shouting about
-  the lord. He went east at dusk, and his wife says he took a bag and the good
-  coat."
-SO: Rulf is Ylva's BROTHER-IN-LAW, HAS A WIFE WHO IS NOT YLVA, and he rode ALIVE
-to the Wold two days before ch14 ends, specifically to report the gate to the
-lord's man.
+FIXED IN THE CHAPTER FILES: the messenger is now KETIL, Rulf's brother, still
+Ylva's brother-in-law, still alive, still the one who rode to report the gate.
+ch14 and ch17 both corrected. RULF NOW NAMES EXACTLY ONE PERSON: Ylva's dead
+husband, the smith whose forge has stood cold for nine years, who went into
+the ruin with Aldis, survived the first trip, and did not survive the second -
+which he made because he already knew about the metal (ch19: "Rulf knew it. It
+is why he went the second time").
 
-WHAT ch19 SAYS, and it is also canon and does not conflict with the above once
-read carefully: the forge and anvil are "Rulf's". "He went down with Aldis and
-came back. Then he went down again." Cold nine years. Ylva will not draw a
-blade and sends Gaara to Ordulf instead. "Rulf knew it. It is why he went the
-second time." NONE OF THIS STATES HE DIED. It states the forge went cold nine
-years ago, which is compatible with Rulf being alive and simply no longer
-smithing - which fits ch14 perfectly, since a man who stopped working the forge
-nine years ago and has since become the village's default contact with
-authority (the one who instinctively rides to report to the lord's man) is a
-coherent single biography, not two people.
-
-WHAT I INVENTED, WITHOUT WARRANT, ACROSS THREE DOCUMENTS: that Rulf was Ylva's
-DEAD HUSBAND, and that he "paid for that metal with his life". Neither claim
-is in any chapter. ch23's actual line ("the last time somebody brought him
-metal out of that city it was Rulf, and Rulf paid for it") is Ylva reporting
-Ordulf's words secondhand and is DELIBERATELY AMBIGUOUS in the chapter itself -
-it commits to nothing about death. I over-specified it in the surrounding
-documents and that has now been corrected back to the chapter's own ambiguity
-in cast.md, this file, and decisions.md.
-
-TWO THINGS THIS OPENS, NEITHER DECIDED, BOTH FOR THE AUTHOR:
-  1  WHAT DID RULF PAY, IF NOT HIS LIFE. Money, a horse, a hand, his nerve, his
-     standing as a smith, something owed to Ordulf directly. Any of these keeps
-     ch23's Ordulf line exactly as strong and does not require a death.
-  2  RULF MAY BE PHYSICALLY IN THE WOLD RIGHT NOW. He rode there in ch14 to
-     report to the lord's man, and Gaara's party has been in the Wold since
-     ch21. Nobody has connected these on the page. If Rulf is alive, this is a
-     live thread and possibly a scene, not a loose end to tidy away.
-  UNTIL THE AUTHOR RULES ON EITHER, WRITE RULF'S FATE AS UNKNOWN AND DO NOT
-  KILL HIM IN A DOCUMENT. Ordulf's caution in ch23 works unchanged either way.
+WHAT WAS ALREADY RIGHT, KEPT: ch23's Ordulf line ("the last time somebody
+brought him metal out of that city it was Rulf, and Rulf paid for it") now
+reads exactly as first intended, with no invented death needed - IT WAS ALREADY
+TRUE, once the name pointed at one person. He went for the metal and did not
+come back. That is what Ordulf will not fund a second time.
+STILL OPEN, FOR THE AUTHOR IF HE WANTS IT: whether "paid for it" was purely the
+death, or something Ordulf specifically lost or was owed on top of it.
+CLOSED: whether Rulf could be alive in the Wold. He is not. Ketil rode there
+instead, and Ketil is a live thread of his own - somewhere in the Wold right
+now is the man who reported the gate, and Gaara's party has not run into him.
 
 === 6c. THE WOLD: WHERE TALK EARNS, AND WHAT IT COSTS ===
 
@@ -4134,7 +4158,7 @@ who kill things above their weight, and there is a war on in the east."
 THE COLLISION NOBODY HAS NOTICED ON THE PAGE, and it may be the better chapter:
 THE LORD'S MAN SITS IN THE WOLD (ch14: "Two days to the Wold, where the lord's
 man sits"). ORDULF IS IN THE WOLD (ch19). GAARA IS WALKING THERE NOW (ch20).
-He arrives inside the two-week clock, in the town of the man who has Rulf's
+He arrives inside the two-week clock, in the town of the man who has Ketil's
 report on his desk. He does not have to arrange a display for a visitor. He can
 go and stand in front of the auditor. Neither he nor Ylva has remarked on this
 and one of them should, on the road, and it should land like a dropped stone.

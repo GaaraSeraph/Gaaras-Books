@@ -3,6 +3,34 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Rulf and Ketil: one name had been given to two people ===
+Author pushed back on the previous entry - he had always understood the husband
+to be the smith who died, and he was right to be confused, because THE ERROR WAS
+IN THE CHAPTERS, not just in my analysis. ch14 has TWO men: Ylva's own husband,
+unnamed at the moment she mentions him ("My husband went down with Aldis. He
+came back the first time."), and a second man introduced 68 lines later who I
+had ALSO called Rulf - "Ylva's brother-in-law," with his own wife, riding to
+report the gate. I drafted ch19's forge scene without checking ch14 for a name
+already in use, and gave two people one name.
+FIXED BY RENAMING THE MESSENGER TO KETIL, in ch14 and ch17 (the only two
+chapters he appears in). He keeps every fact he had - Ylva's brother-in-law, a
+wife of his own, rode east at dusk to report the gate - and is now, cleanly,
+Rulf's brother rather than Rulf himself.
+RULF NOW NAMES EXACTLY ONE PERSON, permanently: Ylva's dead husband, the smith,
+who went into the ruin with Aldis, survived once, and did not survive the second
+trip, made because he already knew about the metal. This was always the
+intended reading and is now the only possible one.
+AND IT MEANS ch23's ORDULF LINE NEEDED NO INVENTION AFTER ALL. "Rulf paid for
+it" simply means what it always sounded like it meant, because the name now
+points at one person instead of two. The earlier entry's hedge ("what did he
+pay, if not his life") is withdrawn - he paid with his life, that was always
+the story, the previous fix broke it by mistaking a name collision for an
+over-specified document.
+KETIL IS NOW A LOOSE LIVE THREAD, on purpose: somewhere in the Wold is the man
+who reported the gate, and Gaara's party has not crossed him. Not resolved, not
+written toward yet - just true, and worth remembering before ch24.
+
+
 === Rulf is not established as dead, and I had invented that he was ===
 Found while answering two author questions (the naming-39-companies line, and
 what success would cost Ordulf), not by deliberate audit, which is itself worth
@@ -602,7 +630,7 @@ true because it is just ch17.
 SECOND, AND POSSIBLY BIGGER: THE LORD'S MAN SITS IN THE WOLD (ch14). ORDULF IS
 IN THE WOLD (ch19). GAARA IS WALKING THERE RIGHT NOW (ch20). Nobody on the page
 has noticed. He arrives well inside the clock, in the town of the man holding
-Rulf's report, so he may not need a display at all - he can go and stand in
+Ketil's report, so he may not need a display at all - he can go and stand in
 front of the auditor. Somebody should say this out loud on the road.
 AND IF THE DISPLAY GOES AHEAD, THE LOGISTICS ARE THE THEME: he has left, Marit
 holds the valley, and the instruction has to travel twenty miles to a place
@@ -1039,7 +1067,7 @@ alive who reads both numbers at once, and that friction never resolves.
 
 === Four days was unrealistic and the story says so out loud ===
 The author caught it: two days east and two days back only works if a lord's man
-mounts up the hour Rulf arrives, and no administration in any world does that.
+mounts up the hour Ketil arrives, and no administration in any world does that.
 Rather than quietly retconning ch14, Gaara corrects himself on the page in ch17,
 because he is exactly the man who would: nineteen years of watching decisions
 not get made. Four days is the floor and nothing happens at the floor. A lord's

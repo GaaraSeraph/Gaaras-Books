@@ -220,11 +220,11 @@ It got worse about forty minutes later.
 
 Marit found him at the byre and stopped in the doorway, which told him something before she spoke.
 
-"Rulf's horse is gone," she said. "And Rulf with it."
+"Ketil's horse is gone," she said. "And Ketil with it."
 
-"Who is Rulf."
+"Who is Ketil."
 
-"Ylva's brother-in-law. He was at the back of the road this morning, shouting about the lord. He went east at dusk, and his wife says he took a bag and the good coat."
+"Her dead husband's brother. He was at the back of the road this morning, shouting about the lord. He went east at dusk, and his wife says he took a bag and the good coat."
 
 He put the bread down on the rail very carefully, because the alternative was to throw it.
 
