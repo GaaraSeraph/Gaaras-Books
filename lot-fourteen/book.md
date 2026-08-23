@@ -15,10 +15,10 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 04 | v1.9 | 2.443 |
 | 05 | v5.10 | 4.327 |
 | 06 | v1.6 | 2.069 |
-| 07 | v6.4 | 3.856 |
+| 07 | v6.5 | 3.856 |
 | 08 | v3.5 | 2.677 |
 | 09 | v3.3 | 3.119 |
-| 10 | v2.4 | 2.983 |
+| 10 | v2.5 | 2.983 |
 | 11 | v2.8 | 2.730 |
 | 12 | v1.7 | 2.350 |
 | 13 | v2.5 | 2.834 |
@@ -42,7 +42,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.10 | 3.335 |
-| 34 | v1.3 | 3.697 |
+| 34 | v1.4 | 3.697 |
 
 ---
 
@@ -1719,7 +1719,7 @@ Outside, the car came round onto the gravel and stopped.
 ---
 
 # Chapter 7: Where were you educated
-*Lot Fourteen* · Version 6.4 · EN
+*Lot Fourteen* · Version 6.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1749,7 +1749,7 @@ Georgij turned his head and waited.
 
 "You don't agree."
 
-"I agree with the third one entirely." He said it courteously and without hurrying it. "May I put something next to it rather than against it."
+"I agree with the third one entirely." He said it courteously and without hurrying it. "May I put something next to it rather than against it?"
 
 "Go on."
 
@@ -2654,7 +2654,7 @@ He stopped.
 ---
 
 # Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2670,7 +2670,7 @@ He went and found Chairman Woo instead, and he did it in the open, across the mi
 
 The old man had reached the stage of the evening where he had stopped moving and was letting the room come to him, which for Chairman Woo was a considerable concession.
 
-"Chairman. May I ask you for something."
+"Chairman. May I ask you for something?"
 
 "You may ask."
 
@@ -10660,7 +10660,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -10670,7 +10670,7 @@ On the second she was in the small room at eight with her coat over the back of 
 
 ---
 
-"Does that include what is already open."
+"Does that include what is already open?"
 
 "It includes going and looking."
 

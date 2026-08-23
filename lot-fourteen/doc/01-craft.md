@@ -422,7 +422,7 @@ Steht er in **Fragesyntax** oder ist er eine **verkürzte Frage**, kommt ein Fra
 
 Drei Sorten fallen darunter:
 1. **Fragewort allein:** "Then why?" "So why?" "Where?" "Then what?" "How much?"
-2. **Umgestelltes Hilfsverb:** "May I propose something?" "May I ask why not?" "Then may I have the guest list?"
+2. **Umgestelltes Hilfsverb, aber nur wo um etwas gebeten wird:** "May I propose something?" "May I ask why not?" "Then may I have the guest list?" **Hier stand bis zum 23.08. das umgestellte Hilfsverb allein als Kriterium, und das war falsch und widersprach dem Kanon:** *"Was I useful."*, *"Was it worth it."* und *"How long did it take."* sind alle umgestellt und haben alle einen Punkt. Entscheidend ist nicht der Satzbau, sondern ob der andere nein sagen darf. Die volle Fassung der Regel steht in `CLAUDE.md` unter "Punkt oder Fragezeichen".
 3. **Bloße Aufforderung zum Weiterreden**, auch wenn sie nur aus einem Wort oder einer Nominalphrase besteht: "And?" "And him?" "And the third?" "And Incheon?" "And the Kims?" Das ist Annies Grundregister und bleibt kalt, es bekommt nur das Zeichen.
 
 Der Unterschied zu Gruppe drei ist einzig, ob ein vollständiger Aussagesatz dasteht. "And you said no." ist eine Sonde und behält den Punkt. "And him?" ist eine Aufforderung und bekommt das Zeichen.

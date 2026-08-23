@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.557 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.628 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -563,7 +563,7 @@ Steht er in **Fragesyntax** oder ist er eine **verkürzte Frage**, kommt ein Fra
 
 Drei Sorten fallen darunter:
 1. **Fragewort allein:** "Then why?" "So why?" "Where?" "Then what?" "How much?"
-2. **Umgestelltes Hilfsverb:** "May I propose something?" "May I ask why not?" "Then may I have the guest list?"
+2. **Umgestelltes Hilfsverb, aber nur wo um etwas gebeten wird:** "May I propose something?" "May I ask why not?" "Then may I have the guest list?" **Hier stand bis zum 23.08. das umgestellte Hilfsverb allein als Kriterium, und das war falsch und widersprach dem Kanon:** *"Was I useful."*, *"Was it worth it."* und *"How long did it take."* sind alle umgestellt und haben alle einen Punkt. Entscheidend ist nicht der Satzbau, sondern ob der andere nein sagen darf. Die volle Fassung der Regel steht in `CLAUDE.md` unter "Punkt oder Fragezeichen".
 3. **Bloße Aufforderung zum Weiterreden**, auch wenn sie nur aus einem Wort oder einer Nominalphrase besteht: "And?" "And him?" "And the third?" "And Incheon?" "And the Kims?" Das ist Annies Grundregister und bleibt kalt, es bekommt nur das Zeichen.
 
 Der Unterschied zu Gruppe drei ist einzig, ob ein vollständiger Aussagesatz dasteht. "And you said no." ist eine Sonde und behält den Punkt. "And him?" ist eine Aufforderung und bekommt das Zeichen.
@@ -1796,7 +1796,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 34** *Then take it off* (v1.3) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
+- **Kapitel 34** *Then take it off* (v1.4) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
 
   **Dann fragt Annie, wie am 16. Dezember angekuendigt, und er antwortet mit einer Zahl**, weil das die einzige Einheit ist, die er fuer sich selbst hat. Sang-hoons Minute an der Tuer hat genau das gekauft.
 
@@ -1994,10 +1994,10 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
 - **Kapitel 12** *You are better when you don't know* (v1.7) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.8) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
-- **Kapitel 10** *What did she pay for you* (v2.4) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
+- **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, Yun-seo, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
-- **Kapitel 7** *Where were you educated* (v6.4) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
+- **Kapitel 7** *Where were you educated* (v6.5) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.6) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.10) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.9) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.

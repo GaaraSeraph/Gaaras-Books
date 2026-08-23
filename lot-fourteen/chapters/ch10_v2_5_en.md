@@ -1,5 +1,5 @@
 # Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -15,7 +15,7 @@ He went and found Chairman Woo instead, and he did it in the open, across the mi
 
 The old man had reached the stage of the evening where he had stopped moving and was letting the room come to him, which for Chairman Woo was a considerable concession.
 
-"Chairman. May I ask you for something."
+"Chairman. May I ask you for something?"
 
 "You may ask."
 

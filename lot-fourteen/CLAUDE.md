@@ -35,7 +35,7 @@ Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book.md`,
 auseinanderlaufen.
 
 `read/` ist die Fassung zum Anschauen: `reader.py` setzt jedes Kapitel als
-HTML-Seite, dazu `read/book.html` mit allen siebzehn und einem
+HTML-Seite, dazu `read/book.html` mit allen vierunddreissig und einem
 Inhaltsverzeichnis. Eine md-Datei bekommt man im Chat zum Herunterladen, eine
 HTML-Seite kann man aufmachen und lesen. Kanon bleibt `chapters/`.
 
@@ -84,7 +84,7 @@ die Zusammenfassung. Das ist die einzige Ebene, die Rueckbezuege und
 Motivwiederholung faengt, weil man den Nachbartext im Kopf hat.
 
 **3. Pruefauftraege an Agenten**, fuer alles, was das ganze Buch auf einmal
-braucht: Zahlen quer ueber siebzehn Kapitel, Zeitangaben gegen den Kalender,
+braucht: Zahlen quer ueber vierunddreissig Kapitel, Zeitangaben gegen den Kalender,
 Dokument gegen Text. Ein Leser kann 50.000 Woerter plus acht Dokumente nicht mit
 der noetigen Genauigkeit halten, vier Leser mit je einem Auftrag schon.
 
@@ -108,6 +108,54 @@ uebersprungen und danach als fehlend gemeldet.
 werden und deshalb stimmen, sondern in den Zeitangaben und Zahlen **im
 Fliesstext**, die niemand nachrechnet. Was geprueft wird, ist richtig. Was nicht
 geprueft wird, driftet.
+
+---
+
+## Punkt oder Fragezeichen
+
+**Die Regel, die beim Schreiben am haeufigsten falsch angewendet wird**, weil sie
+sich nicht aus der Grammatik ergibt, sondern aus der Machtlage im Raum.
+
+**Der Punkt gehoert dem, der nicht bittet.** Eine Frage, die Auskunft *verlangt*,
+behaelt ihn - auch bei umgestelltem Hilfsverb, auch mit Fragewort. Das ist Annies
+Grundregister und Georgijs kalte Fassung, und es steht so quer durchs Buch:
+
+> "What do you want." · "How much." · "Why." · "Why not." · "Was I useful."
+> "Was it worth it." · "How long did it take." · "Why did you not."
+
+**Das Zeichen gehoert dem, der den Zug abgibt.** Wer um Erlaubnis fragt, wer den
+anderen weiterreden laesst, wer eine Antwort will, ueber die er nicht verfuegt:
+
+> "May I ask why not?" · "May I propose something?" · "And?" · "And the third?"
+> "Then why?" · "Does that include what is already open?"
+
+**Die Probe ist eine Frage:** Kann der andere nein sagen, ohne den Raum zu
+verlassen? Dann Zeichen. Muss er liefern? Dann Punkt.
+
+**Was ausdruecklich KEINE Rolle spielt:** ob ein Fragewort dasteht, und ob das
+Hilfsverb umgestellt ist. *"Was I useful."* ist umgestellt und hat einen Punkt,
+*"May I ask why not?"* ist umgestellt und hat ein Zeichen. Der Unterschied ist,
+wer entscheidet.
+
+**Ein Fragewort am Satzanfang macht noch keine Frage.** Ergaenzt jemand den Satz
+eines anderen oder gibt eine Auskunft, ist es eine Aussage und bekommt den
+Punkt: *"What she wants is shares, security, and a veto over routes."*, *"When he
+bought the boy."*, *"Why I've done any of this."*
+
+**Die einzige weitere Ausnahme** sind Abfertigungen mit Komma und
+Redebegleitsatz, die dadurch als Nicht-Frage markiert sind: *"Will I," Annie
+said.* Selten benutzen, sonst verliert das Mittel seine Wirkung.
+
+**Nachgezaehlt am 23.08. ueber alle vierunddreissig Kapitel**, und dabei drei
+Verstoesse gefunden und behoben: *"May I ask you for something."* in Kapitel 10,
+*"May I put something next to it rather than against it."* in Kapitel 7 und
+*"Does that include what is already open."* in Kapitel 34. Bei *"May I"* stand es
+danach 15 zu 0.
+
+**`check.py` entscheidet das nicht und darf es nicht.** Es meldet
+Verdachtsfaelle als Hinweis, weil die Machtlage nicht mechanisch lesbar ist. Ein
+Hinweis auf *"What do you want."* ist deshalb kein Fund, sondern die Pruefung,
+die ihre Arbeit tut.
 
 ---
 
