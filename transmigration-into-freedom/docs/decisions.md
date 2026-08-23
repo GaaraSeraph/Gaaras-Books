@@ -3,6 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The carcass display: proposed, examined, NOT settled ===
+Author's plan: train the village to hunt, lay big fresh ones out in the road for
+the lord's man, so he supports them rather than confirming Hallvard's fear.
+Full analysis in bible section 6b. Two findings.
+FIRST, THE PLAN AS STATED FEEDS THE FEAR IT IS MEANT TO STOP. ch12 has Hallvard
+saying it in his own words: men come, look at a hole with a gate on it, and
+decide what is behind it is worth having. He is not afraid of punishment. He is
+afraid of the gate being opened properly by people with enough men. Monsters in
+the road advertise that the hole produces things.
+THE FIX IS ONE DEGREE LEFT, NOT A REVERSAL: display the CREW, not the hole. Six
+farmers who kill above their weight, with a war on in the east. People cannot be
+expropriated the way a ruin can, it points his appetite east, and it is entirely
+true because it is just ch17.
+SECOND, AND POSSIBLY BIGGER: THE LORD'S MAN SITS IN THE WOLD (ch14). ORDULF IS
+IN THE WOLD (ch19). GAARA IS WALKING THERE RIGHT NOW (ch20). Nobody on the page
+has noticed. He arrives well inside the clock, in the town of the man holding
+Rulf's report, so he may not need a display at all - he can go and stand in
+front of the auditor. Somebody should say this out loud on the road.
+AND IF THE DISPLAY GOES AHEAD, THE LOGISTICS ARE THE THEME: he has left, Marit
+holds the valley, and the instruction has to travel twenty miles to a place
+where two people in nine read. The first real test of writing it down is sending
+four sentences down a road.
+NOT WRITTEN YET. The author picks the fork first.
+
+
 === He asked what his money was worth and never got an answer ===
 Author, and he is right: ch18 gives him one price and a comparison, and a man
 who read balance sheets for nineteen years would have taken the whole ladder

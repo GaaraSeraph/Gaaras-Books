@@ -1309,6 +1309,60 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     when the pressure rises: the moment he needs a level badly, the cheapest
     place to get one is to stop teaching.
 
+=== 6b. THE LORD'S MAN. OPEN, AND THE NEXT THING TO DECIDE ===
+
+THE AUTHOR'S PROPOSAL: teach the village to hunt the crawlers, and lay a few
+large fresh ones out in the road for when the lord's man comes, so that he backs
+them instead of making Hallvard's fear come true.
+
+THE MECHANISM IS RIGHT AND IS THE CHARACTER. He cannot fight a lord, cannot buy
+one and cannot lie to one. What he can do is decide what an auditor sees and
+therefore what an auditor writes, which was his job for nineteen years. It also
+stays inside rule one: the carcasses are real and the hunting is real. He is
+selecting, not inventing.
+
+BUT THE CONTENT BACKFIRES AGAINST THE ACTUAL FEAR, and the actual fear is on the
+page in ch12 and is not what it looks like:
+  "Because a village that knows sends to the lord. And a lord who is told sends
+  men, and men who come look at a hole in the ground with a gate on it and
+  DECIDE WHAT IS BEHIND IT IS WORTH HAVING." (ch12)
+  "I would have swapped four for four hundred." (ch12)
+Hallvard is not afraid of being punished. He is afraid of the gate being opened
+PROPERLY, by people with the men to do it. Fresh monsters in the road are an
+advertisement that the hole produces things, and a hole that produces things is
+worth having. THE DISPLAY AS PROPOSED ARGUES THE LORD'S CASE FOR HIM.
+
+THE SHARPENED VERSION, and it is the same trick pointed one degree left:
+DISPLAY THE CREW, NOT THE HOLE. What the lord's man must conclude is not "there
+is something valuable up that hill" but "these forty houses contain six people
+who kill things above their weight, and there is a war on in the east."
+- A resource made of people cannot be expropriated the way a ruin can. People
+  who are worth something get paid. A hole that is worth something gets taken.
+- IT POINTS HIS APPETITE EAST, away from the gate, which is the only direction
+  Hallvard can live with.
+- And it is still entirely true. ch17 is exactly that and nothing else.
+- The carcasses stay, but they are evidence about the crew rather than about the
+  ruin, and the men who killed them stand next to them.
+
+THE COLLISION NOBODY HAS NOTICED ON THE PAGE, and it may be the better chapter:
+THE LORD'S MAN SITS IN THE WOLD (ch14: "Two days to the Wold, where the lord's
+man sits"). ORDULF IS IN THE WOLD (ch19). GAARA IS WALKING THERE NOW (ch20).
+He arrives inside the two-week clock, in the town of the man who has Rulf's
+report on his desk. He does not have to arrange a display for a visitor. He can
+go and stand in front of the auditor. Neither he nor Ylva has remarked on this
+and one of them should, on the road, and it should land like a dropped stone.
+
+THE LOGISTICS PROBLEM IS THE THEME IN MINIATURE, if the display goes ahead. He
+has left. Marit holds the valley. So the instruction has to travel twenty miles
+to a village where two people in nine can read, and the man riving the boards is
+not one of them. THE FIRST REAL TEST OF WRITING IT DOWN IS SENDING FOUR
+SENTENCES DOWN A ROAD. Do not waste that.
+
+AND HALLVARD MUST FIGHT HIM ON IT. Thirty-one years of invisibility against a
+week of a stranger's arithmetic. The book's pattern is that Gaara is right about
+instruments and wrong about why people do things, and this is the biggest
+available instance of it. Hallvard may simply be right.
+
 === 7. LONG GAME (author's intent, not yet canon) ===
 
 The direction the author wants the story to grow toward. None of this is
