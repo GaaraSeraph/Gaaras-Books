@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 290 | 29 (01-33) | 1 | 74 |
+| Annie | 291 | 29 (01-33) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
 | Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
 | Park Sang-hoon | 84 | 15 (10-33) | 7 | 74 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-290 Nennungen in 29 Kapiteln.
+291 Nennungen in 29 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -344,6 +344,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:330 | Annie was quiet. |
 | 7 | ch33:358 | Annie did not answer for some time. |
 | 7 | ch33:378 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
+| 7 | ch33:408 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1135,7 +1136,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 | 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | ch33:392 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 7 | ch33:412 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1165,7 +1166,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:8` (Tag 59) - one, two
 - `ch28:230` (Tag 1) - one
 - `ch31:68` (Tag 74) - one, three
-- `ch33:392` (Tag 7) - six
+- `ch33:412` (Tag 7) - six
 
 ---
 

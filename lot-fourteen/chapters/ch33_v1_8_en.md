@@ -1,5 +1,5 @@
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -383,9 +383,29 @@ Georgij did not move at all.
 
 ---
 
-Her hand stayed where it was for a while and then it did not.
+Her hand came off the back of the chair.
 
-He sat with his eyes shut for about as long as it takes to read a short word, and she let him, and neither of them said anything at all.
+It did not go away. It came round and settled along the side of his face, cool from the room, the heel of it just under the bone.
+
+---
+
+He had not moved towards anybody in seventeen years.
+
+He had been moved and positioned and sent for. He had stood where he was put, in a hundred halls, and the not moving was most of what he was good for, and he had been told so in four languages by people who meant it as praise.
+
+He turned his head into her hand and shut his eyes.
+
+---
+
+He had counted all afternoon.
+
+Four minutes to two at the gate. Eleven seconds of a man's face. A full minute of silence that somebody else refused to fill. He counts the way other people breathe and he has done it since he was old enough to be sold.
+
+He did not count this.
+
+---
+
+Annie did not say anything and did not take her hand away, and after a while the last of the light went off the window frame and neither of them got up to do anything about it.
 
 ---
 
