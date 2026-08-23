@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 94.595 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 95.943 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -129,9 +129,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ji-won](#ji-won)
   - [Shin](#shin)
   - [Mr Ku](#mr-ku)
+  - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Pyo](#mr-pyo)
   - [Mrs Jeon](#mrs-jeon)
-  - [Nam Byung-hee](#nam-byung-hee)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
@@ -1975,6 +1975,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
   und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
   aufschreiben (Band 2, Kapitel 8)
+- Tag 168, Fr 20. Maerz, nachts: **der Bericht und die eine Entscheidung.**
+  Auf Nams Spur wird das Veto ab jetzt schlicht **nicht mehr gezogen** - eine
+  Unterlassung hinterlaesst kein Papier. Die zweite Frage, die Tuer in der
+  Klausel, wird bis zum **31. Maerz** vertagt (Band 2, Kapitel 9)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2554,6 +2558,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und ein zweites, das er nicht geholt hat und durch Fragen nie bekommen haette:** sein Name bedeutet ihr nichts. *"Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for."*
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
+
+- **Band 2, Kapitel 9** *Four answers* (v1.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+
+  **Erst die Kosten, dann der Ertrag, wie am 11. verlangt.** Drei Dinge, keins davon zuruecknehmbar: sie kennt die Form des Vetos, sie hat mit jemandem aus dem Haus gesprochen, und sie hat seinen Namen in der Manteltasche.
+
+  **Dann prueft Annie die Offenlegung woertlich**, und das ist die Szene, die in der ersten Fassung gefehlt hat. Sie laesst ihn die sechs Saetze wiederholen und stoppt ihn beim vierten: **"Shareholders."** - *"You named the instrument."* Seine Verteidigung reicht genau so weit, wie sie reicht: die Art des Instruments, nicht das Instrument, und **"it is a leak. You are right that it is a leak."**
+
+  **Und sie laesst ihm die bequeme Begruendung nicht durchgehen:** *"Do not say that she would not have believed you, because that is a reason and not the reason."* Der Grund darunter: eine Frau, der man drei Monate lang gesagt hat, es passiere nichts, glaubt **eine bestimmte Sache** und keine allgemeine. *"I gave her one word that made it a real object in the world. She stopped arguing on that word."* Annies Urteil steht danach doppelt und bleibt doppelt: **"It was the right trade. It is still a leak."**
+
+  **Die Zeitbombe, die Annie legt und er nicht sieht.** Nam hat gefragt, was er ist, und er hat mit *"I work in the house you wrote to"* geantwortet - wahr und keine Antwort. **"She did not ask it twice."** - *"She will."* Und: *"You have until then to work out what the true version sounds like, and you are not going to like any of the ones that are available."* **Damit hat Regel 1 zum ersten Mal ein Ablaufdatum.**
+
+  **Die Entscheidung des Kapitels ist eine Unterlassung, und das ist der ganze Witz.** Aus *eine Stunde mit sechs Maennern* ist *Ladung* geworden, und Ladung braucht keinen Beschluss: **niemand zieht die Klausel mehr auf dieser Spur.** *"An hour in a room is an answer. Cargo is weather. ... It is the first thing in three months that does not leave a mark."* - **"Because it is not a thing that gets done."** - *"Because it is a thing that stops getting done."*
+
+  **Annies einzige Regung dazu:** *"Do not look pleased."* - *"No, Mistress."* - **"You are permitted to be pleased. Do not look it."**
+
+  **Die zweite Sache, und hier haben beide recht.** Georgij: das Veto **erzeugt** Leute wie Nam. *"You did not make an enemy of Nam Byung-hee. You made four people desperate."* Und: *"Somebody went shopping in a shop that you are stocking. ... If you keep it as it is, there are three more of her."*
+
+  **Annie gibt dafuer etwas her, was sie noch nie hergegeben hat: den wahren Zweck des Dezemberkaufs.** *"Do you know what I bought it for."* - *"Routes."* - **"That is what it says. It is not what it is for. It is a lock."** Ohne die Klausel kommt die Position des Herbstes in achtzehn Monaten zurueck, **in Stuecken, die zu klein sind, um auf einen Tag zu zeigen.** Georgij: *"Then I was wrong about the shape of it. Not about the effect."*
+
+  **Seine Korrektur ist der Faden fuer den Rest des Bandes:** nicht die Klausel hat sie gemacht, **sondern dass es nirgendwo hingeht.** *"To be told no by a person, on a date, and go away knowing that a human being considered it."* Eine Kanzlei taugt nicht - eine Kanzlei ist ein Verfahren, und ein Verfahren ist auffindbar. Es muss ein Mensch sein, den niemand auf Papier an sie haengen kann. **Und davon gibt es genau einen.**
+
+  **Annie sagt nicht nein und sie entscheidet es nicht:** *"I decided one thing tonight and I am not going to decide two."* Vertagt auf den **31. Maerz** - also auf den Tag, an dem die Vollmacht ausläuft, **und den Tag, bevor Nam ihre Briefe schreibt.** Beide wissen es, keiner sagt es.
+
+  **Der Titel kommt aus dem einzigen Teil des Abends, der kein Geschaeft ist.** Annie laesst sich Nams Satz noch einmal sagen: zwanzig Jahre, **vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie sagt nichts dazu und **fragt den ganzen Monat lang nichts mehr ueber diese Frau.**
+
+  **Und dann das Haeusliche**, das dieser Band gebrauchen kann: *"What time did you eat."* - *"On the train."* - *"What."* - *"Nothing that anybody would want the details of."* Sie setzt ihn auf den Boden an die Seite des Schreibtischs, liest zwanzig Minuten und legt irgendwann die Hand in sein Haar, ohne von der Seite aufzusehen.
+
+  **Und er merkt, wofuer sie liest, und sagt es nicht.** Nicht, was das Papier erlaubt - **was im naechsten stehen muesste.**
 
 ---
 
@@ -3938,6 +3970,17 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
   ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
   Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **"She will." - Nams zweite Frage danach, was er ist. KEIN Datum, aber
+  faellig.** Gesetzt in Band 2, Kapitel 9. Er hat mit *"I work in the house you
+  wrote to"* geantwortet, was wahr und keine Antwort ist. Annie: *"You have
+  until then to work out what the true version sounds like, and you are not
+  going to like any of the ones that are available."* **Damit hat Regel 1 zum
+  ersten Mal ein Ablaufdatum**, und die Szene, in der sie zum zweiten Mal
+  fragt, muss kommen.
+- **Die Tuer in der Klausel: vertagt auf den 31. Maerz.** Annie hat nicht nein
+  gesagt, sie hat sich geweigert, an einem Abend zwei Sachen zu entscheiden.
+  Der Termin ist der Tag, an dem die Vollmacht auslaeuft, **und der Tag, bevor
+  Nam schreibt.** Beide wissen das und keiner sagt es.
 - **Nam hat Georgijs Namen handschriftlich, auf ihre eigene Bitte** (Kapitel 8).
   Sie traegt seit dem 14. Maerz eine Kopie der Rueckseite mit **Los vierzehn**
   darauf. **Sie weiss nicht, dass das dasselbe ist.** Wer ihr die Seite gegeben
@@ -4972,7 +5015,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 378 | 38 (b1ch01-b2ch08) | 1 | 74 |
+| Annie | 391 | 39 (b1ch01-b2ch09) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
@@ -4985,9 +5028,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
+| Nam Byung-hee | 11 | 3 (b2ch03-b2ch09) | 9 | 56 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
-| Nam Byung-hee | 8 | 2 (b2ch03-b2ch08) | 9 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -5007,7 +5050,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-378 Nennungen in 38 Kapiteln.
+391 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5389,6 +5432,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
 | 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
 | 9 | b2ch08:46 | Annie put the letter down. |
+| 9 | b2ch09:32 | Annie stopped him on the fourth one. |
+| 9 | b2ch09:52 | "It was the right trade," said Annie. "It is still a leak. Those two are going to be tru.. |
+| 9 | b2ch09:64 | Annie looked at him for a moment longer than the answer needed. |
+| 9 | b2ch09:90 | "Say it out loud," said Annie. "I want to hear whether you got there the same way." |
+| 9 | b2ch09:100 | Annie went round the desk and sat down, which she does perhaps twice a month. |
+| 9 | b2ch09:120 | Annie put both hands on the arms of the chair. |
+| 9 | b2ch09:134 | Annie did not answer that for a while, and when she did it was not what he expected. |
+| 9 | b2ch09:168 | "And who stands behind that door," said Annie. |
+| 9 | b2ch09:182 | "There is one," said Annie, "and it is the same one that walked into an auction house on.. |
+| 9 | b2ch09:192 | Annie was quiet for long enough that the clock in the hall did the thing it does. |
+| 9 | b2ch09:212 | "Say the thing about the four again," said Annie. |
+| 9 | b2ch09:222 | Annie looked at the desk. |
+| 9 | b2ch09:244 | "Sit down," said Annie. "On the floor, where you sit. I am going to read the thing in th.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5482,6 +5538,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch06:272` (Tag 5) - seven
 - `b2ch07:94` (Tag 7) - one
 - `b2ch07:176` (Tag 7) - one
+- `b2ch09:32` (Tag 9) - one
+- `b2ch09:52` (Tag 9) - one, two
+- `b2ch09:182` (Tag 9) - one
+- `b2ch09:212` (Tag 9) - four
+- `b2ch09:244` (Tag 9) - five
 
 ---
 
@@ -6653,6 +6714,36 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Nam Byung-hee
+
+11 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 9 | b2ch09:124 | "It is not aimed at Ulsan and it never was, and that is exactly the trouble with it. It .. |
+| 9 | b2ch09:208 | Which is also the day before Nam Byung-hee sits down to write her letters, and the two o.. |
+| 9 | b2ch09:218 | "I asked her how many answers she had had. Twenty years, on the first of every month, to.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:244` (Tag 9) - twenty
+- `b2ch09:124` (Tag 9) - four
+- `b2ch09:208` (Tag 9) - two
+- `b2ch09:218` (Tag 9) - four, six, twenty
+
+---
+
 ### Mr Pyo
 
 10 Nennungen in 7 Kapiteln.
@@ -6707,30 +6798,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch07:34` (Tag 7) - three
 - `b2ch07:66` (Tag 7) - one
 - `b2ch07:78` (Tag 7) - one
-
----
-
-### Nam Byung-hee
-
-8 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
-| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
-| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
-- `b2ch08:78` (Tag 9) - thirty
-- `b2ch08:104` (Tag 9) - two
-- `b2ch08:244` (Tag 9) - twenty
 
 ---
 

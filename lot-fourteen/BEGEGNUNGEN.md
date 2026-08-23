@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 378 | 38 (b1ch01-b2ch08) | 1 | 74 |
+| Annie | 391 | 39 (b1ch01-b2ch09) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
@@ -31,9 +31,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
+| Nam Byung-hee | 11 | 3 (b2ch03-b2ch09) | 9 | 56 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
-| Nam Byung-hee | 8 | 2 (b2ch03-b2ch08) | 9 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -53,7 +53,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-378 Nennungen in 38 Kapiteln.
+391 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -435,6 +435,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
 | 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
 | 9 | b2ch08:46 | Annie put the letter down. |
+| 9 | b2ch09:32 | Annie stopped him on the fourth one. |
+| 9 | b2ch09:52 | "It was the right trade," said Annie. "It is still a leak. Those two are going to be tru.. |
+| 9 | b2ch09:64 | Annie looked at him for a moment longer than the answer needed. |
+| 9 | b2ch09:90 | "Say it out loud," said Annie. "I want to hear whether you got there the same way." |
+| 9 | b2ch09:100 | Annie went round the desk and sat down, which she does perhaps twice a month. |
+| 9 | b2ch09:120 | Annie put both hands on the arms of the chair. |
+| 9 | b2ch09:134 | Annie did not answer that for a while, and when she did it was not what he expected. |
+| 9 | b2ch09:168 | "And who stands behind that door," said Annie. |
+| 9 | b2ch09:182 | "There is one," said Annie, "and it is the same one that walked into an auction house on.. |
+| 9 | b2ch09:192 | Annie was quiet for long enough that the clock in the hall did the thing it does. |
+| 9 | b2ch09:212 | "Say the thing about the four again," said Annie. |
+| 9 | b2ch09:222 | Annie looked at the desk. |
+| 9 | b2ch09:244 | "Sit down," said Annie. "On the floor, where you sit. I am going to read the thing in th.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -528,6 +541,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch06:272` (Tag 5) - seven
 - `b2ch07:94` (Tag 7) - one
 - `b2ch07:176` (Tag 7) - one
+- `b2ch09:32` (Tag 9) - one
+- `b2ch09:52` (Tag 9) - one, two
+- `b2ch09:182` (Tag 9) - one
+- `b2ch09:212` (Tag 9) - four
+- `b2ch09:244` (Tag 9) - five
 
 ---
 
@@ -1699,6 +1717,36 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Nam Byung-hee
+
+11 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 9 | b2ch09:124 | "It is not aimed at Ulsan and it never was, and that is exactly the trouble with it. It .. |
+| 9 | b2ch09:208 | Which is also the day before Nam Byung-hee sits down to write her letters, and the two o.. |
+| 9 | b2ch09:218 | "I asked her how many answers she had had. Twenty years, on the first of every month, to.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:244` (Tag 9) - twenty
+- `b2ch09:124` (Tag 9) - four
+- `b2ch09:208` (Tag 9) - two
+- `b2ch09:218` (Tag 9) - four, six, twenty
+
+---
+
 ## Mr Pyo
 
 10 Nennungen in 7 Kapiteln.
@@ -1753,30 +1801,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch07:34` (Tag 7) - three
 - `b2ch07:66` (Tag 7) - one
 - `b2ch07:78` (Tag 7) - one
-
----
-
-## Nam Byung-hee
-
-8 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
-| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
-| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
-- `b2ch08:78` (Tag 9) - thirty
-- `b2ch08:104` (Tag 9) - two
-- `b2ch08:244` (Tag 9) - twenty
 
 ---
 

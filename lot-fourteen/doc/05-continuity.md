@@ -103,6 +103,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
   und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
   aufschreiben (Band 2, Kapitel 8)
+- Tag 168, Fr 20. Maerz, nachts: **der Bericht und die eine Entscheidung.**
+  Auf Nams Spur wird das Veto ab jetzt schlicht **nicht mehr gezogen** - eine
+  Unterlassung hinterlaesst kein Papier. Die zweite Frage, die Tuer in der
+  Klausel, wird bis zum **31. Maerz** vertagt (Band 2, Kapitel 9)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -682,6 +686,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und ein zweites, das er nicht geholt hat und durch Fragen nie bekommen haette:** sein Name bedeutet ihr nichts. *"Whoever sat down with that woman had given her the page and had not given her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for."*
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
+
+- **Band 2, Kapitel 9** *Four answers* (v1.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+
+  **Erst die Kosten, dann der Ertrag, wie am 11. verlangt.** Drei Dinge, keins davon zuruecknehmbar: sie kennt die Form des Vetos, sie hat mit jemandem aus dem Haus gesprochen, und sie hat seinen Namen in der Manteltasche.
+
+  **Dann prueft Annie die Offenlegung woertlich**, und das ist die Szene, die in der ersten Fassung gefehlt hat. Sie laesst ihn die sechs Saetze wiederholen und stoppt ihn beim vierten: **"Shareholders."** - *"You named the instrument."* Seine Verteidigung reicht genau so weit, wie sie reicht: die Art des Instruments, nicht das Instrument, und **"it is a leak. You are right that it is a leak."**
+
+  **Und sie laesst ihm die bequeme Begruendung nicht durchgehen:** *"Do not say that she would not have believed you, because that is a reason and not the reason."* Der Grund darunter: eine Frau, der man drei Monate lang gesagt hat, es passiere nichts, glaubt **eine bestimmte Sache** und keine allgemeine. *"I gave her one word that made it a real object in the world. She stopped arguing on that word."* Annies Urteil steht danach doppelt und bleibt doppelt: **"It was the right trade. It is still a leak."**
+
+  **Die Zeitbombe, die Annie legt und er nicht sieht.** Nam hat gefragt, was er ist, und er hat mit *"I work in the house you wrote to"* geantwortet - wahr und keine Antwort. **"She did not ask it twice."** - *"She will."* Und: *"You have until then to work out what the true version sounds like, and you are not going to like any of the ones that are available."* **Damit hat Regel 1 zum ersten Mal ein Ablaufdatum.**
+
+  **Die Entscheidung des Kapitels ist eine Unterlassung, und das ist der ganze Witz.** Aus *eine Stunde mit sechs Maennern* ist *Ladung* geworden, und Ladung braucht keinen Beschluss: **niemand zieht die Klausel mehr auf dieser Spur.** *"An hour in a room is an answer. Cargo is weather. ... It is the first thing in three months that does not leave a mark."* - **"Because it is not a thing that gets done."** - *"Because it is a thing that stops getting done."*
+
+  **Annies einzige Regung dazu:** *"Do not look pleased."* - *"No, Mistress."* - **"You are permitted to be pleased. Do not look it."**
+
+  **Die zweite Sache, und hier haben beide recht.** Georgij: das Veto **erzeugt** Leute wie Nam. *"You did not make an enemy of Nam Byung-hee. You made four people desperate."* Und: *"Somebody went shopping in a shop that you are stocking. ... If you keep it as it is, there are three more of her."*
+
+  **Annie gibt dafuer etwas her, was sie noch nie hergegeben hat: den wahren Zweck des Dezemberkaufs.** *"Do you know what I bought it for."* - *"Routes."* - **"That is what it says. It is not what it is for. It is a lock."** Ohne die Klausel kommt die Position des Herbstes in achtzehn Monaten zurueck, **in Stuecken, die zu klein sind, um auf einen Tag zu zeigen.** Georgij: *"Then I was wrong about the shape of it. Not about the effect."*
+
+  **Seine Korrektur ist der Faden fuer den Rest des Bandes:** nicht die Klausel hat sie gemacht, **sondern dass es nirgendwo hingeht.** *"To be told no by a person, on a date, and go away knowing that a human being considered it."* Eine Kanzlei taugt nicht - eine Kanzlei ist ein Verfahren, und ein Verfahren ist auffindbar. Es muss ein Mensch sein, den niemand auf Papier an sie haengen kann. **Und davon gibt es genau einen.**
+
+  **Annie sagt nicht nein und sie entscheidet es nicht:** *"I decided one thing tonight and I am not going to decide two."* Vertagt auf den **31. Maerz** - also auf den Tag, an dem die Vollmacht ausläuft, **und den Tag, bevor Nam ihre Briefe schreibt.** Beide wissen es, keiner sagt es.
+
+  **Der Titel kommt aus dem einzigen Teil des Abends, der kein Geschaeft ist.** Annie laesst sich Nams Satz noch einmal sagen: zwanzig Jahre, **vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie sagt nichts dazu und **fragt den ganzen Monat lang nichts mehr ueber diese Frau.**
+
+  **Und dann das Haeusliche**, das dieser Band gebrauchen kann: *"What time did you eat."* - *"On the train."* - *"What."* - *"Nothing that anybody would want the details of."* Sie setzt ihn auf den Boden an die Seite des Schreibtischs, liest zwanzig Minuten und legt irgendwann die Hand in sein Haar, ohne von der Seite aufzusehen.
+
+  **Und er merkt, wofuer sie liest, und sagt es nicht.** Nicht, was das Papier erlaubt - **was im naechsten stehen muesste.**
 
 ---
 

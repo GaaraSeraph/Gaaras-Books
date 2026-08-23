@@ -454,6 +454,17 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
   ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
   Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **"She will." - Nams zweite Frage danach, was er ist. KEIN Datum, aber
+  faellig.** Gesetzt in Band 2, Kapitel 9. Er hat mit *"I work in the house you
+  wrote to"* geantwortet, was wahr und keine Antwort ist. Annie: *"You have
+  until then to work out what the true version sounds like, and you are not
+  going to like any of the ones that are available."* **Damit hat Regel 1 zum
+  ersten Mal ein Ablaufdatum**, und die Szene, in der sie zum zweiten Mal
+  fragt, muss kommen.
+- **Die Tuer in der Klausel: vertagt auf den 31. Maerz.** Annie hat nicht nein
+  gesagt, sie hat sich geweigert, an einem Abend zwei Sachen zu entscheiden.
+  Der Termin ist der Tag, an dem die Vollmacht auslaeuft, **und der Tag, bevor
+  Nam schreibt.** Beide wissen das und keiner sagt es.
 - **Nam hat Georgijs Namen handschriftlich, auf ihre eigene Bitte** (Kapitel 8).
   Sie traegt seit dem 14. Maerz eine Kopie der Rueckseite mit **Los vierzehn**
   darauf. **Sie weiss nicht, dass das dasselbe ist.** Wer ihr die Seite gegeben
