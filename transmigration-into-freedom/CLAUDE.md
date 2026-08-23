@@ -91,6 +91,10 @@ it rather than cutting the talk. That is how 6 became 6 and 7.
   FLOOR, every chapter: at least two lines from him that are dry, crude,
   suggestive or all three, and at least one of them landing where it is least
   appropriate. A chapter with none is broken even if he never stops talking.
+  And check the DISTRIBUTION, not just the count. Chapter 14 cleared the floor
+  eight times over and was still wrong, because every one of them sat in the
+  first half and the whole back end went solemn the moment somebody confessed
+  something. Somebody else's guilt is not a reason for him to go quiet.
   Caught by the author twice (ch8 and ch14) and never once by a script, because
   no script can measure it. Read for it deliberately, before anything else.
 - HE DOES NOT SHUT UP. This is the single thing that drifts fastest. He talks at

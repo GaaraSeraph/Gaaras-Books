@@ -92,6 +92,25 @@ the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
 
+=== The humour exemption was written too wide ===
+The register rule carved out "grief", and on the next pass that got applied to
+the whole back half of ch14, because Hallvard confesses in the middle of it and
+confession reads like an occasion. The author's objection was one sentence and
+it is correct: it is not Gaara's problem. Another man's guilt is not his loss.
+He forced the confession, he has already said he is not sitting down out of
+forgiveness, and a man who goes solemn over somebody else's crime is being
+polite, which Gaara is not.
+The exemption now names exactly two cases: standing in front of somebody else's
+fresh grief, and his own dead. Nothing else. Not guilt, not disaster, not his
+own likely death.
+Three lines added to the back half accordingly, and the sharpest is aimed
+straight at the man who has just confessed: "You have also opened a gate
+before, and I would like today to be a day on which we do not revisit your
+greatest achievements."
+Also worth recording as a check: COUNT AND DISTRIBUTION ARE DIFFERENT TESTS.
+Chapter 14 cleared the floor eight times over and was still wrong, because all
+eight were in the first half.
+
 === No preparation chapters, and the rule is now written down ===
 Third catch of the same class. The first Chapter 6 was a night in a byre with
 four witnesses; the first Chapter 9 was a walk into a room and back out again;

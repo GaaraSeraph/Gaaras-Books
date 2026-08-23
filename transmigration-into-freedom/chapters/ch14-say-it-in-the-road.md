@@ -2,7 +2,7 @@
 
 He did it wrong first, and he did it wrong in the way he had done it wrong for nineteen years.
 
-He got them into the road after the morning milking and gave them the facts in order.
+He got them into the road after the milking and gave them the facts in order.
 
 The channel. The gate. The eighteen inches. The four hundred nests. The windlass under the floor they were standing on, four men on the bars, two on the wedges, four hours in the dark.
 
@@ -52,7 +52,7 @@ It's always the audience.
 
 "Right," he said. "That is my fault and not yours. Give me an hour."
 
-Hallvard was at his table with his hands flat on it. He had been listening through the open door, because he did not ask how it had gone.
+Hallvard was at his table with his hands flat on it, and he did not ask how it had gone.
 
 Gaara shut the door and stayed standing.
 
@@ -64,7 +64,7 @@ Gaara shut the door and stayed standing.
 
 "Some of them."
 
-"All six." Gaara put his knuckles on the table. "You have had thirty-one years of being the man who is right about things. That is the only account in this village with anything in it, and I am here to ask you to spend it."
+"All six." Gaara put his knuckles on the table. "Thirty-one years of being the man who is right about things is the only account in this village with anything in it, and I am here to ask you to spend it."
 
 "You do not need to ask," said Hallvard. "I will stand in the road and tell them to go, and they will go."
 
@@ -72,7 +72,7 @@ Gaara shut the door and stayed standing.
 
 The old man's eyes came up.
 
-"They cannot go down there not knowing," said Gaara. "Four hours in a tunnel, in the dark, with the mouth of that room forty feet away. If it goes wrong it will go wrong in nine seconds, and men who were told the wrong thing do the wrong thing in nine seconds. They have to know what is behind the gate, how long you have been going down there, and why it is open."
+"They cannot go down there not knowing," said Gaara. "Four hours in a tunnel, in the dark, with the mouth of that room forty feet away. If it goes wrong it goes wrong in nine seconds, and men who were told the wrong thing do the wrong thing in nine seconds. They have to know what is behind the gate, how long you have been going down, and why it is open."
 
 Hallvard sat very still.
 
@@ -94,7 +94,7 @@ The room was quiet for a long moment.
 
 "It is the best one available. I looked."
 
-"Aldis's father did eleven years and died of it with nobody knowing. Her uncle did nineteen. I have done thirty-one, and not one year of it has ever been known, and that was not vanity, it was the design."
+"Aldis's father did eleven years and died of it with nobody knowing. Her uncle did nineteen. I have done thirty-one, and not one year of it has been known, and that was not vanity, it was the design."
 
 "I understand the design," said Gaara. "The design has four graves in it now, and a fifth if you count the dogs together, and it has run out. Designs do that. They run for years, then something changes underneath them, and they run one more season on momentum, and then they stop."
 
@@ -119,6 +119,14 @@ Thirty-one years. Aldis before him. Her uncle before her. Nobody wrote it down, 
 He did not say sorry once.
 
 Gaara noticed that, and approved of it, and knew exactly how few people in that road would.
+
+"Thirty-one years of practice," he said, to Marit, without lowering his voice much. "You get very good at the part where you do not apologise. I was better at it than he is and I only had nineteen."
+
+"Give it a year," he said. "They will hate him for a year. Then somebody's roof will come off, and they will want the man who is right about things, and he will be right about the roof, and all of this will be forgiven in about nine minutes."
+
+"You are enjoying this."
+
+"I am appalled by this. I can do both."
 
 It went the way those things go. Silence, and then noise. A woman near the front said the same sentence four times with her hands out. Somebody at the back shouted about the lord. Solva pushed through and stopped dead and said nothing at all.
 
@@ -162,7 +170,7 @@ Ylva looked at him for a moment.
 
 "My husband went down with Aldis," she said. "He came back the first time."
 
-Nobody had told Gaara that. He filed it, and he did not use it, and he was aware that a worse man would have.
+Nobody had told Gaara that. He filed it and did not use it, and was aware that a worse man would have.
 
 "Then you know what the bars are," he said. "Will you come?"
 
@@ -176,13 +184,15 @@ That was the entire negotiation.
 
 Five.
 
-He stood in the road for a while with the sun going and did not get a sixth.
+He stood in the road with the sun going and did not get a sixth.
 
 "I will take the sixth bar," said Hallvard.
 
 "You are seventy."
 
 "I have taken that bar before."
+
+"You have also opened a gate before, and I would like today to be a day on which we do not revisit your greatest achievements."
 
 "With four men who are now dead of ordinary things," said Gaara. "I need you at the wedges. That is the part where knowing what you are doing matters more than what you can lift. And if the gate comes down wrong, I will take that loss on a man who can pull, not on the only man who has ever done it."
 
@@ -220,7 +230,7 @@ Gaara stood in the dark holding bread, which was, on balance, the worst he had f
 
 It got worse about forty minutes later.
 
-Marit found him at the byre and did not come all the way in, which told him something before she spoke.
+Marit found him at the byre and stopped in the doorway, which told him something before she spoke.
 
 "Rulf's horse is gone," she said. "And Rulf with it."
 
@@ -238,7 +248,7 @@ Gaara put the bread down on the rail very carefully, because the alternative was
 
 He stood in the dark of the byre and did the arithmetic he did not want.
 
-Thirty-one years of an old man saying nothing, and a chain of it going back past Aldis and her uncle and her father. The whole structure had held until this morning, when a stranger with a clean argument required the truth to be said out loud in a road.
+Thirty-one years of an old man saying nothing, and a chain of it going back past Aldis and her uncle and her father. The whole thing had held until this morning, when a stranger with a clean argument required the truth said out loud in a road.
 
 "I did that," he said.
 
@@ -248,7 +258,7 @@ Thirty-one years of an old man saying nothing, and a chain of it going back past
 
 "Two days there," said Marit. "Two days back, if they come."
 
-"If they come they will come with six men and a serjeant and they will look at a gate that is eighteen inches open and they will not shut it." He was already moving. "They will widen it. That is what men do with a door that somebody else is guarding. They will want to know what is worth eight hundred years of ironwork."
+"If they come, they come with six men and a serjeant, and they look at a gate eighteen inches open and they do not shut it." He was already moving. "They widen it. That is what men do with a door somebody else is guarding. They will want to know what is worth eight hundred years of ironwork."
 
 "So we have four days."
 

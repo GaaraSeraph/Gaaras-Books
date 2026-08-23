@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 14 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 17.295 Woerter.
+Alle 4 Dokumente am Stueck. 17.605 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -368,9 +368,16 @@ Solva
   confession - he drifts into pure operator and the jokes vanish, and the drift
   is invisible from inside because he is still talking constantly. Two lines a
   chapter, minimum, dry or filthy, and one of them badly timed on purpose.
-  The exception is grief, and only grief: nothing funny in Solva's doorway, and
-  nothing funny over Osvald. Everywhere else, including his own funeral
-  arrangements, he will have something to say.
+  THE EXEMPTION IS NARROW AND IT WAS WRITTEN TOO WIDE THE FIRST TIME. It covers
+  two things only: standing in front of somebody else's fresh grief (Solva in
+  her doorway), and his own dead (Osvald). That is the whole list.
+  It does NOT cover other people's guilt. Hallvard confessing thirty-one years
+  of silence is not Gaara's loss and not his problem, and he has already said
+  out loud that he is not sitting down out of forgiveness. He is free to be
+  merciless about it and he should be, because a man who goes solemn over
+  another man's crime is being polite, and Gaara is never polite.
+  It does not cover disaster either. When the horse goes east he makes a joke
+  about how long ruin takes to arrive, and then he moves.
 - He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
   when it is least appropriate: at monsters, at people holding axes, at goats.
   It is how he handles fear and it is how the reader locates him. Chapter 2 is
@@ -504,6 +511,25 @@ numbers have to be derivable by the reader. Where a number does not move,
 the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
+
+=== The humour exemption was written too wide ===
+The register rule carved out "grief", and on the next pass that got applied to
+the whole back half of ch14, because Hallvard confesses in the middle of it and
+confession reads like an occasion. The author's objection was one sentence and
+it is correct: it is not Gaara's problem. Another man's guilt is not his loss.
+He forced the confession, he has already said he is not sitting down out of
+forgiveness, and a man who goes solemn over somebody else's crime is being
+polite, which Gaara is not.
+The exemption now names exactly two cases: standing in front of somebody else's
+fresh grief, and his own dead. Nothing else. Not guilt, not disaster, not his
+own likely death.
+Three lines added to the back half accordingly, and the sharpest is aimed
+straight at the man who has just confessed: "You have also opened a gate
+before, and I would like today to be a day on which we do not revisit your
+greatest achievements."
+Also worth recording as a check: COUNT AND DISTRIBUTION ARE DIFFERENT TESTS.
+Chapter 14 cleared the floor eight times over and was still wrong, because all
+eight were in the first half.
 
 === No preparation chapters, and the rule is now written down ===
 Third catch of the same class. The first Chapter 6 was a night in a byre with
