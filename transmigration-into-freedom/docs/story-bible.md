@@ -878,15 +878,57 @@ chapters can plant for it, and so a decision is taken before it is written.
   temporary, single sheets and offcuts for anything that has to travel. Books
   live where record-keeping is enforced: a lord's hall, a tax roll, a court
   roll, a guild register.
-  HOW IT GETS DISCOVERED (ch18, in a town, at a price and not in a lecture):
-  he asks for the cheapest thing to write on and is given a slate for almost
-  nothing. Then he asks for something he can take away and keep, and the answer
-  comes in skins. Two skins is a calf. A book is a herd. He does that
-  arithmetic with eleven coins in his pouch whose value he does not know.
-  AND IN THE SAME SCENE, thread 8 closes: he takes out a coin for the first
-  time since day one, with the translation running, and the letters stay shut.
-  HE IS ILLITERATE HERE. A man whose entire value is information cannot read a
-  sign. Underused so far and it should hurt and be funny in the same scene.
+  READING IS A TRADE SKILL HERE, NOT AN ELITE ONE, and this is the correction
+  that makes the whole long game work. Anybody who handles money, goods or land
+  reads: stewards, factors, guild clerks, millers, tollmen, merchants, masters
+  with wage lists, every man the lord's officers employ. Thousands of people.
+  Not a majority, but a real paying class.
+  SO THE SHORTAGE IS NOT READERS, IT IS COPIES. A scribe takes months over one
+  book and the skins cost a herd, so every title exists in single figures per
+  town and is worth a small farm. The demand has been standing at the door for
+  centuries and nobody can supply it.
+  LOAD-BEARING: Gaara does not have to create literacy. He has to create
+  copies. Teaching people to read would be generations of work and would make
+  his goal a punishment rather than a business. He recognises a starved market
+  in ten seconds, because that is the one thing nineteen years gave him.
+  WHAT PEOPLE READ is nothing beautiful: accounts, rolls, law, recipes, shares,
+  tallies. Practical documents. Literature is a luxury nobody buys, which is
+  what makes the long game land - the first book anybody in this world reads
+  for pleasure would be his.
+  OLDSTEP IS A TERRIBLE SAMPLE, and Gaara will draw the wrong conclusion from
+  it, which is legitimate and in character. Forty houses at the end of nowhere
+  with an absentee lord: of course almost nobody there reads. That says nothing
+  about the world. The correction arrives the first time he stands in a real
+  town and there is a board on a guild hall that somebody wrote FOR people to
+  read.
+
+  HOW HE LEARNS IT, AND HOW LONG IT TAKES (author corrected an earlier draft of
+  this section, which had it far too slow):
+  He is a literate adult who already SPEAKS the language fluently. He is not
+  learning to read, he is learning a cipher. The script is ALPHABETIC, about
+  two dozen characters. No logography - three thousand characters would be an
+  artificial gate that exists only to slow him down.
+  NUMERALS: minutes. He asks what the marks mean and gets ten answers.
+  LETTERS: one evening for the sound-to-symbol map, a few days for speed.
+  What stays genuinely hard is not the alphabet, it is medieval reading
+  conditions: no word spacing, no punctuation, abbreviations and ligatures. So
+  for about a week he reads ALOUD, slowly and badly, because without spaces the
+  ear finds the word boundaries before the eye does. Marit enjoys this
+  enormously.
+  THE TEACHER IS HALLVARD, and that is the point. The man who deliberately
+  wrote nothing down for thirty-one years hands the alphabet to the man who
+  intends to give everything away, and neither of them says so out loud. He is
+  numerate first and literate second: a slate, two winters of arithmetic, and
+  letters known mostly as shapes and names. Marit sits in and is quicker at it
+  than Gaara, and she is the one staying behind, so she becomes the crew's
+  record. The chain of "none of them wrote any of it down, and that was on
+  purpose" therefore breaks not because Gaara breaks it, but because he teaches
+  somebody else to break it while he is elsewhere.
+  AND THEN THE SLATE WIPES. Everything he writes is erasable, which is where
+  wanting something permanent starts, which is where the skins come back in.
+  THE COIN, and it belongs in the village now, not in a town: he takes one out
+  for the first time since day one, with the translation running. He can read
+  the NUMBER on it and finds out at last what he owns. Thread 8 closes there.
 - Longer term, possibly his own territory to hold and strengthen, and possibly
   continued adventuring alongside it. Whether the story settles into
   territory-building or stays on the road is undecided.
