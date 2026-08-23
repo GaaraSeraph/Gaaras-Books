@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 44 Kapitel, 124.367 Woerter.
+2 Baende, 45 Kapitel, 126.426 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -55,6 +55,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 08 | v1.1 | 2.400 |
 | 2 | 09 | v1.0 | 2.120 |
 | 2 | 10 | v1.0 | 2.141 |
+| 2 | 11 | v1.0 | 2.059 |
 
 ---
 
@@ -13909,3 +13910,242 @@ She had been talking about a funeral and a corridor. She had been wrong about wh
 He went home and said what it had cost before he said what had come of it.
 
 There was not very much of the second part.
+
+---
+
+# Book Two · Chapter 11: The first letter
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day One Hundred and Seventy-Four · Thursday 26 March
+
+On the Tuesday of that week a ship took containers off a lane out of Ulsan that had moved nothing since January.
+
+That is four days after a decision that consisted of nobody doing anything, which is about as quickly as weather arrives. He found it in the daily list of movements, which is public and dull and read by the people who need it.
+
+He did not tell Annie and she did not ask him, and on the Wednesday there was a second one.
+
+Five days to the first of April.
+
+---
+
+On the Thursday, Mrs Seo did not put it on the hall table with the rest.
+
+She put it on the corner of the desk in the small room and left it there, face up. There was no procedure in that house for what she had in her hand, and she had decided not to invent one.
+
+It was addressed to him by name. Nothing else on the envelope. No company on the sender's line either, which is a thing a man does on purpose when he has just watched somebody else do it.
+
+---
+
+It is the first letter he has ever received.
+
+Not the first he has read. Post has been put in front of him since October, most of it about other people's companies. This is the first one that came to a building because he was in it.
+
+---
+
+Annie brought it up to him herself and did not open it.
+
+"That is yours," she said. "I have not held it up to a window either, and I would like credit for that, because I thought about it in the hall."
+
+"You have it."
+
+---
+
+He opened it standing.
+
+---
+
+> I said on Tuesday that I would look you up. I have done that. What follows is what this house holds about you, and you are entitled to it, because it is about you and because you can be made to walk into the building it is kept in.
+>
+> One. Lot fourteen, the fourth of October. Sold. The buyer is recorded.
+>
+> Two. The entry was struck on the nineteenth of February, on the buyer's instruction and against a payment.
+>
+> Three. The entry is retained. It is on the list at the back of the catalogue you already have.
+>
+> Two and three do not sit together, and I want to be exact about why. What was paid for on the nineteenth of February was a deletion. What was carried out was a strike and a retention. Those are not the same thing, and the difference was not an oversight. This house did it four times that I have found, and in each case it took a fee for a deletion and kept the record.
+>
+> I cannot correct it. If I delete an entry today because the person who paid for the deletion was badly used, then I am a man who deletes entries when there is a reason, and there is always a reason. That is the house I was brought in to stop being. This leaves you exactly where you were, and I am not going to dress that up.
+>
+> I will not be mentioning any of it. That is not a kindness. It is not relevant to the matter I am looking into, and I do not put irrelevant things in files.
+
+---
+
+He read it twice and then handed it to her, because there was nothing in it that was his to keep.
+
+---
+
+Annie read it standing as well.
+
+She got to the fourth paragraph and stopped, and he watched her go back to the beginning of it and read it again, and she has not done that in front of him before.
+
+---
+
+"I paid for a deletion," she said.
+
+"Yes."
+
+"I paid for it four times over seven weeks. On the third occasion it was not money." She put the letter down on the desk. "I sat in a room in that building and a man told me it was done."
+
+---
+
+"Did he use the word."
+
+"He used the word." She said it very evenly. "I made him use it. I do not accept a nod for that sort of thing and I never have. He said the entry had been deleted, and I asked him to say it in a full sentence, and he did."
+
+---
+
+Georgij did not say anything for a moment, because there was nothing to add and because she was not finished.
+
+---
+
+"I have been robbed exactly once in my life before this," said Annie, "and I was twenty-two and it was six hundred thousand won out of a coat."
+
+---
+
+"I am going to say one thing that is not analysis," said Georgij.
+
+"Say it."
+
+"The thing they took the money for was me." He did not put anything on it at all. "You went into that building four times, and you paid for the same line twice, and what was on the line was my number. They sat on the other side of a table and let you do it."
+
+---
+
+Annie did not answer that for a moment.
+
+"That is what I have been standing at this window about," she said. "I would have got to it without you, and I am glad you said it first."
+
+---
+
+She went to the window.
+
+"Say what it changes," she said. "You have had six minutes on it and I have had four. Say it before I do, because if I say it first you will spend the rest of the evening agreeing with me."
+
+---
+
+"Three things," said Georgij.
+
+"Go on."
+
+---
+
+"The first one is that we have been calling it an exposure and it is not one. An exposure is a thing that is true about you and inconvenient. This is a thing that was sold to you and not delivered." He set it down flat. "You are not somebody with a secret in a book. You are somebody a house took money from and cheated."
+
+"And that matters because."
+
+"Because a person with a secret has to be quiet and a person who has been cheated does not."
+
+---
+
+Annie did not turn round.
+
+"Go on."
+
+---
+
+"The second is that it is four of them and not one. He says four, and he says he found them, and he says it was the practice. One bad entry is an accident. Four is how the place made money." Georgij looked at the letter on the desk. "Everybody on that list paid for the same thing and got the same thing. None of them knows. He is not going to tell them, because he does not put irrelevant things in files, and they are irrelevant to him."
+
+---
+
+"And the third."
+
+---
+
+"The third is that the entry cannot be bought out. Not by you, not by anybody, not at any figure." He said it without softening it at all. "Not because the price is high. Because there is now a man in that building who will not do it for a reason, and the better a reason you give him the more certain the answer is. You could offer him the whole of it and he would write down that you had offered."
+
+---
+
+Annie turned round at that.
+
+"So the only version left is the one where the house stops existing."
+
+"Yes."
+
+"Say that again in the way you would say it to somebody who has to sign for it."
+
+---
+
+"The list is a document only for as long as there is an address behind it," said Georgij. "It is on paper in houses all over this city and it cannot be collected. What can go is the thing that makes it true. A page from a dealer who is not there any more, that nobody stands behind, is a photocopy of an allegation. Somebody will still believe it. Nobody will be able to check it."
+
+---
+
+"And Mr Hwang goes down with the building."
+
+---
+
+There it was, and he had known it was in the room since the second paragraph.
+
+"Yes," said Georgij.
+
+"Say the rest of it."
+
+"He is the most honest man in that trade. He has spent five months making a bad house into a good one and he has done it well, and the reason the page is dangerous at all is that he did it well. Nobody would carry a photocopy from the old house across a car park." He did not look away. "The thing that has to be ended is his work, and he is the reason it is worth ending, and he will not be able to be told any of that."
+
+---
+
+Annie let that stand for a moment.
+
+"You want to warn him."
+
+"I want to have warned him. That is a different verb and it is the one I am watching myself use."
+
+---
+
+"You are not going to."
+
+"No."
+
+"Say why not, and do not say because it would be foolish."
+
+---
+
+"Because he told me on Tuesday that he does not hold things back," said Georgij. "If I warn him, he writes it down the same afternoon, because that is what he is, and then it is in a file with a date on it and everybody has lost. There is no version where he gets to know and does not record it. He is not able to be told." He put his hands behind his back. "There is no good way to make that decision. All of the doors are the same door."
+
+---
+
+"Then it will sit where it is," said Annie, "and you will not go and be honourable about it at four in the morning."
+
+"No, Mistress."
+
+"Say it as a sentence."
+
+"I am not going to warn Mr Hwang."
+
+---
+
+She picked the letter up again and folded it once and did not give it back to him.
+
+"This goes in the drawer," she said. "Not to keep it from you. Because it is the only piece of paper in the world that says out loud what that house did, and it is signed. In about a week he is going to be the second most careful man in Seoul about what he signs."
+
+---
+
+"There is a fourth thing," said Georgij. "It is smaller and it is not about any of that."
+
+"Go on."
+
+---
+
+"He did not have to write to me. Not one line of that is anything he owed anybody." He said it in the flattest voice he owns. "He looked me up, he found a struck entry with a retention behind it, and the thing he did with it was tell me what it says, because it is about me. I have not had that happen before and I have not worked out what to do with it."
+
+---
+
+Annie put the folded letter in the left-hand drawer and closed it.
+
+"You are not going to work it out tonight," she said. "It is not a manoeuvre and there is nothing to do with it. Somebody behaved decently towards you in writing, and there is no procedure for that in you either."
+
+---
+
+She stood with her hand still on the drawer for a moment.
+
+"Mrs Seo did not know where to put it," she said. "She has run this house for eleven years and she stood in the hall with an envelope and could not think of a single place it belonged. So she put it on my desk and did not say anything about it, and when I picked it up she was still standing in the doorway."
+
+---
+
+"Because it had my name on it."
+
+"Because it had your name on it and nothing else, and in this house that is a thing that has never come through the door."
+
+---
+
+He did not have an answer for that.
+
+She did not appear to want one, and she went down to whatever she had been going to, and the drawer stayed shut, and the letter is still in it.

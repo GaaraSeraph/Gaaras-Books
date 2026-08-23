@@ -112,6 +112,13 @@ nachrechnen, und `check.py` tut das automatisch.
   Namen. Hwang kuendigt an, dass er Georgij nachschlagen wird - **Annies
   "about a month" faellt hier, und Georgij liefert den Anlass selbst**
   (Band 2, Kapitel 10)
+- Tag 172 bis 173, Di 24. und Mi 25. Maerz: **auf Nams Spur faehrt Ladung.**
+  Zwei Schiffe, vier und fuenf Tage nach der Unterlassung. Niemand schreibt
+  irgendwem (Band 2, Kapitel 11, rueckblickend)
+- Tag 174, Do 26. Maerz: **Hwangs Brief.** Der erste Brief, den Georgij in
+  seinem Leben bekommt. Gestrichen ist nicht geloescht: Annie wurde betrogen.
+  Damit ist Weg 2 der einzige uebrige, **und Hwang geht mit dem Haus unter**
+  (Band 2, Kapitel 11)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -745,6 +752,28 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie hatte am 11. Maerz gesagt, er wisse noch nicht, was der Nachmittag gekostet habe, und werde es in etwa einem Monat wissen.** Sie hatte eine Trauerfeier und einen Korridor gemeint. *"She had been wrong about which afternoon and right about everything else."*
 
   Und die Frage am Empfang, die das Kapitel schliesst: **"How long do you keep these."** - *"Seven years."* - *"Thank you."*
+
+- **Band 2, Kapitel 11** *The first letter* (v1.0) - **Tag 174, Do 26. Maerz. Eine Szene im kleinen Zimmer, davor drei Absaetze ueber die Woche.**
+
+  **Die Ladung faehrt.** Dienstag ein Schiff, Mittwoch das zweite, auf einer Spur, die seit Januar nichts bewegt hat - **vier Tage nach einer Entscheidung, die daraus bestand, dass niemand etwas tut.** Er sagt es Annie nicht und sie fragt nicht. Fuenf Tage bis zum ersten April.
+
+  **Der erste Brief seines Lebens.** Nicht der erste, den er liest - der erste, der in ein Gebaeude kam, **weil er darin war.** Nur sein Name auf dem Umschlag, kein Unternehmen auf der Absenderzeile, *"which is a thing a man does on purpose when he has just watched somebody else do it."* Annie bringt ihn ungeoeffnet hoch: *"I have not held it up to a window either, and I would like credit for that, because I thought about it in the hall."*
+
+  **Der Inhalt ist der Motor fuer den Rest des Bandes.** Bezahlt wurde eine **Loeschung**. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Viermal, als Geschaeftsmodell. Und Hwang kann es nicht in Ordnung bringen: *"If I delete an entry today because the person who paid for the deletion was badly used, then I am a man who deletes entries when there is a reason, and there is always a reason."* Dazu der Schlusssatz, der genau er ist: *"I will not be mentioning any of it. That is not a kindness. It is not relevant to the matter I am looking into, and I do not put irrelevant things in files."*
+
+  **Annie ist betrogen worden, und sie hat sich das Wort damals in einem vollstaendigen Satz sagen lassen.** *"I do not accept a nod for that sort of thing and I never have."* Ihr einziger Vergleich: *"I have been robbed exactly once in my life before this, and I was twenty-two and it was six hundred thousand won out of a coat."*
+
+  **Und der eine Satz, der keine Analyse ist:** *"The thing they took the money for was me. ... They sat on the other side of a table and let you do it."* - **"That is what I have been standing at this window about. I would have got to it without you, and I am glad you said it first."**
+
+  **Was es aendert, in drei Punkten.** Erstens: es ist keine Bloesse, es ist ein Betrug - *"A person with a secret has to be quiet and a person who has been cheated does not."* Zweitens: es sind vier, also war es die Praxis. Drittens: **der Eintrag ist nicht mehr kaufbar**, weil in dem Gebaeude jetzt ein Mann sitzt, bei dem der bessere Grund die Absage sicherer macht. *"You could offer him the whole of it and he would write down that you had offered."*
+
+  **Damit ist Weg 2 der einzige uebrige, und der Preis steht im selben Atemzug:** *"And Mr Hwang goes down with the building."* Georgij sagt ihn ganz aus - **das, was beendet werden muss, ist seine Arbeit, und seine Arbeit ist der Grund, warum es sich lohnt.**
+
+  **Die Warnung, die nicht geht, und die Begruendung ist die schwerste im Buch.** *"I want to have warned him. That is a different verb and it is the one I am watching myself use."* Und dann: Hwang haelt nichts zurueck, also schriebe er eine Warnung am selben Nachmittag auf. **"He is not able to be told."** - *"There is no good way to make that decision. All of the doors are the same door."* Annie laesst es ihn als Satz sagen: **"I am not going to warn Mr Hwang."**
+
+  **Der Brief geht in die linke Schublade** - nicht, um ihn ihm wegzunehmen, sondern weil es das einzige Papier der Welt ist, das laut sagt, was das Haus getan hat, **und es ist unterschrieben.**
+
+  **Und das Vierte, das mit nichts davon zu tun hat.** Hwang schuldete ihm keine Zeile. *"Somebody behaved decently towards you in writing, and there is no procedure for that in you either."* Dazu Mrs Seo, die elf Jahre dieses Haus fuehrt und mit einem Umschlag in der Diele stand, **weil sein Name daraufstand und sonst nichts, und so etwas ist dort noch nie durch die Tuer gekommen.**
 
 ---
 

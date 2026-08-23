@@ -96,8 +96,21 @@ nichts zu kaufen. Sang-hoon hatte am 29. Dezember gesagt, 2,2 Milliarden seien z
 niedrig, und er zahlt nicht zweimal, aber vier andere Maenner zahlen zweimal.
 
 **Und die beiden Dinge sind jetzt endgueltig getrennt, wofuer sie oben angelegt
-wurden.** Der Eintrag ist weg, das Halsband bleibt, und zwar auf Georgijs
-ausdrueckliche Weigerung hin. Der Mann mit dem Werkzeug koennte am Dienstag da
+wurden.** Das Halsband bleibt, und zwar auf Georgijs ausdrueckliche Weigerung
+hin.
+
+**Der Eintrag ist gestrichen und NICHT geloescht, und der Unterschied ist ab
+Band 2, Kapitel 11 der Motor des Bandes.** Annie hat viermal in sieben Wochen
+fuer eine **Loeschung** bezahlt und sich das Wort in einem vollstaendigen Satz
+sagen lassen. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Mr Hwangs
+Brief: *"Those are not the same thing, and the difference was not an oversight.
+This house did it four times that I have found, and in each case it took a fee
+for a deletion and kept the record."*
+
+**Damit ist es keine Bloesse mehr, sondern ein Betrug**, und das ist juristisch
+wie erzaehlerisch etwas anderes: *"A person with a secret has to be quiet and a
+person who has been cheated does not."* **Wer kuenftig schreibt, der Eintrag sei
+geloescht, schreibt gegen den Text.** Der Mann mit dem Werkzeug koennte am Dienstag da
 sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
 abnehmen laesst.

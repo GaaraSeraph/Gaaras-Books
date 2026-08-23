@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 97.145 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 98.323 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -128,8 +128,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Hong](#mr-hong)
   - [Ji-won](#ji-won)
   - [Shin](#shin)
-  - [Mr Ku](#mr-ku)
   - [Mr Hwang](#mr-hwang)
+  - [Mr Ku](#mr-ku)
   - [Mrs Jeon](#mrs-jeon)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Pyo](#mr-pyo)
@@ -1663,8 +1663,21 @@ nichts zu kaufen. Sang-hoon hatte am 29. Dezember gesagt, 2,2 Milliarden seien z
 niedrig, und er zahlt nicht zweimal, aber vier andere Maenner zahlen zweimal.
 
 **Und die beiden Dinge sind jetzt endgueltig getrennt, wofuer sie oben angelegt
-wurden.** Der Eintrag ist weg, das Halsband bleibt, und zwar auf Georgijs
-ausdrueckliche Weigerung hin. Der Mann mit dem Werkzeug koennte am Dienstag da
+wurden.** Das Halsband bleibt, und zwar auf Georgijs ausdrueckliche Weigerung
+hin.
+
+**Der Eintrag ist gestrichen und NICHT geloescht, und der Unterschied ist ab
+Band 2, Kapitel 11 der Motor des Bandes.** Annie hat viermal in sieben Wochen
+fuer eine **Loeschung** bezahlt und sich das Wort in einem vollstaendigen Satz
+sagen lassen. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Mr Hwangs
+Brief: *"Those are not the same thing, and the difference was not an oversight.
+This house did it four times that I have found, and in each case it took a fee
+for a deletion and kept the record."*
+
+**Damit ist es keine Bloesse mehr, sondern ein Betrug**, und das ist juristisch
+wie erzaehlerisch etwas anderes: *"A person with a secret has to be quiet and a
+person who has been cheated does not."* **Wer kuenftig schreibt, der Eintrag sei
+geloescht, schreibt gegen den Text.** Der Mann mit dem Werkzeug koennte am Dienstag da
 sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
 abnehmen laesst.
@@ -1984,6 +1997,13 @@ nachrechnen, und `check.py` tut das automatisch.
   Namen. Hwang kuendigt an, dass er Georgij nachschlagen wird - **Annies
   "about a month" faellt hier, und Georgij liefert den Anlass selbst**
   (Band 2, Kapitel 10)
+- Tag 172 bis 173, Di 24. und Mi 25. Maerz: **auf Nams Spur faehrt Ladung.**
+  Zwei Schiffe, vier und fuenf Tage nach der Unterlassung. Niemand schreibt
+  irgendwem (Band 2, Kapitel 11, rueckblickend)
+- Tag 174, Do 26. Maerz: **Hwangs Brief.** Der erste Brief, den Georgij in
+  seinem Leben bekommt. Gestrichen ist nicht geloescht: Annie wurde betrogen.
+  Damit ist Weg 2 der einzige uebrige, **und Hwang geht mit dem Haus unter**
+  (Band 2, Kapitel 11)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2617,6 +2637,28 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie hatte am 11. Maerz gesagt, er wisse noch nicht, was der Nachmittag gekostet habe, und werde es in etwa einem Monat wissen.** Sie hatte eine Trauerfeier und einen Korridor gemeint. *"She had been wrong about which afternoon and right about everything else."*
 
   Und die Frage am Empfang, die das Kapitel schliesst: **"How long do you keep these."** - *"Seven years."* - *"Thank you."*
+
+- **Band 2, Kapitel 11** *The first letter* (v1.0) - **Tag 174, Do 26. Maerz. Eine Szene im kleinen Zimmer, davor drei Absaetze ueber die Woche.**
+
+  **Die Ladung faehrt.** Dienstag ein Schiff, Mittwoch das zweite, auf einer Spur, die seit Januar nichts bewegt hat - **vier Tage nach einer Entscheidung, die daraus bestand, dass niemand etwas tut.** Er sagt es Annie nicht und sie fragt nicht. Fuenf Tage bis zum ersten April.
+
+  **Der erste Brief seines Lebens.** Nicht der erste, den er liest - der erste, der in ein Gebaeude kam, **weil er darin war.** Nur sein Name auf dem Umschlag, kein Unternehmen auf der Absenderzeile, *"which is a thing a man does on purpose when he has just watched somebody else do it."* Annie bringt ihn ungeoeffnet hoch: *"I have not held it up to a window either, and I would like credit for that, because I thought about it in the hall."*
+
+  **Der Inhalt ist der Motor fuer den Rest des Bandes.** Bezahlt wurde eine **Loeschung**. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Viermal, als Geschaeftsmodell. Und Hwang kann es nicht in Ordnung bringen: *"If I delete an entry today because the person who paid for the deletion was badly used, then I am a man who deletes entries when there is a reason, and there is always a reason."* Dazu der Schlusssatz, der genau er ist: *"I will not be mentioning any of it. That is not a kindness. It is not relevant to the matter I am looking into, and I do not put irrelevant things in files."*
+
+  **Annie ist betrogen worden, und sie hat sich das Wort damals in einem vollstaendigen Satz sagen lassen.** *"I do not accept a nod for that sort of thing and I never have."* Ihr einziger Vergleich: *"I have been robbed exactly once in my life before this, and I was twenty-two and it was six hundred thousand won out of a coat."*
+
+  **Und der eine Satz, der keine Analyse ist:** *"The thing they took the money for was me. ... They sat on the other side of a table and let you do it."* - **"That is what I have been standing at this window about. I would have got to it without you, and I am glad you said it first."**
+
+  **Was es aendert, in drei Punkten.** Erstens: es ist keine Bloesse, es ist ein Betrug - *"A person with a secret has to be quiet and a person who has been cheated does not."* Zweitens: es sind vier, also war es die Praxis. Drittens: **der Eintrag ist nicht mehr kaufbar**, weil in dem Gebaeude jetzt ein Mann sitzt, bei dem der bessere Grund die Absage sicherer macht. *"You could offer him the whole of it and he would write down that you had offered."*
+
+  **Damit ist Weg 2 der einzige uebrige, und der Preis steht im selben Atemzug:** *"And Mr Hwang goes down with the building."* Georgij sagt ihn ganz aus - **das, was beendet werden muss, ist seine Arbeit, und seine Arbeit ist der Grund, warum es sich lohnt.**
+
+  **Die Warnung, die nicht geht, und die Begruendung ist die schwerste im Buch.** *"I want to have warned him. That is a different verb and it is the one I am watching myself use."* Und dann: Hwang haelt nichts zurueck, also schriebe er eine Warnung am selben Nachmittag auf. **"He is not able to be told."** - *"There is no good way to make that decision. All of the doors are the same door."* Annie laesst es ihn als Satz sagen: **"I am not going to warn Mr Hwang."**
+
+  **Der Brief geht in die linke Schublade** - nicht, um ihn ihm wegzunehmen, sondern weil es das einzige Papier der Welt ist, das laut sagt, was das Haus getan hat, **und es ist unterschrieben.**
+
+  **Und das Vierte, das mit nichts davon zu tun hat.** Hwang schuldete ihm keine Zeile. *"Somebody behaved decently towards you in writing, and there is no procedure for that in you either."* Dazu Mrs Seo, die elf Jahre dieses Haus fuehrt und mit einem Umschlag in der Diele stand, **weil sein Name daraufstand und sonst nichts, und so etwas ist dort noch nie durch die Tuer gekommen.**
 
 ---
 
@@ -5057,20 +5099,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 392 | 40 (b1ch01-b2ch10) | 1 | 74 |
+| Annie | 402 | 41 (b1ch01-b2ch11) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
 | Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
-| Mrs Seo | 55 | 22 (b1ch03-b2ch08) | 1 | 74 |
+| Mrs Seo | 57 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
+| Mr Hwang | 14 | 3 (b2ch07-b2ch11) | 3 | 7 |
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
-| Mr Hwang | 12 | 2 (b2ch07-b2ch10) | 3 | 7 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch10) | 3 | 7 |
 | Nam Byung-hee | 11 | 3 (b2ch03-b2ch09) | 9 | 56 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
@@ -5092,7 +5134,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-392 Nennungen in 40 Kapiteln.
+402 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5488,6 +5530,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch09:222 | Annie looked at the desk. |
 | 9 | b2ch09:244 | "Sit down," said Annie. "On the floor, where you sit. I am going to read the thing in th.. |
 | 3 | b2ch10:236 | Annie had told him on the eleventh of March that he did not yet know what the afternoon .. |
+| 5 | b2ch11:10 | He did not tell Annie and she did not ask him, and on the Wednesday there was a second o.. |
+| 5 | b2ch11:30 | Annie brought it up to him herself and did not open it. |
+| 5 | b2ch11:62 | Annie read it standing as well. |
+| 5 | b2ch11:86 | "I have been robbed exactly once in my life before this," said Annie, "and I was twenty-.. |
+| 5 | b2ch11:98 | Annie did not answer that for a moment. |
+| 5 | b2ch11:124 | Annie did not turn round. |
+| 5 | b2ch11:142 | Annie turned round at that. |
+| 5 | b2ch11:170 | Annie let that stand for a moment. |
+| 5 | b2ch11:190 | "Then it will sit where it is," said Annie, "and you will not go and be honourable about.. |
+| 5 | b2ch11:216 | Annie put the folded letter in the left-hand drawer and closed it. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5586,6 +5638,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch09:182` (Tag 9) - one
 - `b2ch09:212` (Tag 9) - four
 - `b2ch09:244` (Tag 9) - five
+- `b2ch11:10` (Tag 5) - one
+- `b2ch11:86` (Tag 5) - six hundred thousand, twenty-two
+- `b2ch11:190` (Tag 5) - four
 
 ---
 
@@ -6302,7 +6357,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-55 Nennungen in 22 Kapiteln.
+57 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6361,6 +6416,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 | 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
+| 5 | b2ch11:16 | On the Thursday, Mrs Seo did not put it on the hall table with the rest. |
+| 5 | b2ch11:224 | "Mrs Seo did not know where to put it," she said. "She has run this house for eleven yea.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -6396,6 +6453,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
 - `b2ch08:62` (Tag 9) - nine
+- `b2ch11:224` (Tag 5) - eleven
 
 ---
 
@@ -6727,6 +6785,36 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Hwang
+
+14 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:42 | Mr Hwang is about fifty and looked at him for perhaps two seconds before he spoke, which.. |
+| 3 | b2ch10:58 | Mr Hwang did not react to any part of that. |
+| 3 | b2ch10:76 | Mr Hwang put both hands on the desk, flat, the way somebody does who is about to be care.. |
+| 3 | b2ch10:98 | Mr Hwang got up and stood at the window for a moment with his back to the room, which is.. |
+| 3 | b2ch10:112 | Mr Hwang turned round. |
+| 3 | b2ch10:126 | "I am going to look you up," said Mr Hwang. "Not because you have annoyed me and not in .. |
+| 3 | b2ch10:140 | Mr Hwang looked at him for slightly longer this time. |
+| 3 | b2ch10:160 | "Because I have not verified it." Mr Hwang said it the way another man would say a house.. |
+| 3 | b2ch10:174 | "You have not asked me for anything else," said Mr Hwang. "People who get this far usual.. |
+| 3 | b2ch10:186 | Mr Hwang wrote one line on the pad. It took him about four seconds and he did not hide t.. |
+| 3 | b2ch10:202 | Mr Hwang did not follow it up, and he did not need to, and it is in a file now, in a bui.. |
+| 5 | b2ch11:156 | "And Mr Hwang goes down with the building." |
+| 5 | b2ch11:196 | "I am not going to warn Mr Hwang." |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:42` (Tag 3) - fifty, two
+- `b2ch10:160` (Tag 3) - one, ten, three
+- `b2ch10:186` (Tag 3) - four, one
+
+---
+
 ### Mr Ku
 
 13 Nennungen in 10 Kapiteln.
@@ -6754,34 +6842,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:6` (Tag 22) - seventeen
 - `b1ch27:100` (Tag 7) - one
 - `b1ch32:6` (Tag ?) - fifty, one
-
----
-
-### Mr Hwang
-
-12 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:42 | Mr Hwang is about fifty and looked at him for perhaps two seconds before he spoke, which.. |
-| 3 | b2ch10:58 | Mr Hwang did not react to any part of that. |
-| 3 | b2ch10:76 | Mr Hwang put both hands on the desk, flat, the way somebody does who is about to be care.. |
-| 3 | b2ch10:98 | Mr Hwang got up and stood at the window for a moment with his back to the room, which is.. |
-| 3 | b2ch10:112 | Mr Hwang turned round. |
-| 3 | b2ch10:126 | "I am going to look you up," said Mr Hwang. "Not because you have annoyed me and not in .. |
-| 3 | b2ch10:140 | Mr Hwang looked at him for slightly longer this time. |
-| 3 | b2ch10:160 | "Because I have not verified it." Mr Hwang said it the way another man would say a house.. |
-| 3 | b2ch10:174 | "You have not asked me for anything else," said Mr Hwang. "People who get this far usual.. |
-| 3 | b2ch10:186 | Mr Hwang wrote one line on the pad. It took him about four seconds and he did not hide t.. |
-| 3 | b2ch10:202 | Mr Hwang did not follow it up, and he did not need to, and it is in a file now, in a bui.. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:42` (Tag 3) - fifty, two
-- `b2ch10:160` (Tag 3) - one, ten, three
-- `b2ch10:186` (Tag 3) - four, one
 
 ---
 
