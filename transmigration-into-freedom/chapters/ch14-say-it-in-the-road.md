@@ -24,6 +24,14 @@ Gaara turned round slowly.
 
 "Nobody has ever accused me of being quick," said Gaara. "They accuse me of other things."
 
+Then, much lower, and only to her:
+
+"And somebody had to go and save her village this morning, so I did not get to finish dinner. Or the midnight snack. Or the second midnight snack. And then she was up and dressed before it was light."
+
+"You were asleep."
+
+"I was recovering. There is a difference and it is mostly in the dignity."
+
 "You will want a word about this later."
 
 "I will want a word about this later."
@@ -138,11 +146,7 @@ Which was the whole game, and Gaara moved.
 
 He was already reading the road while he talked, and by now he was not trying to stop. Faces came up with names and numbers on them, and he sorted them without deciding to.
 
-The heavy man with the boar spear was a 5, which surprised him.
-
-Bern was a 4.
-
-A wide slow man near the pens was a 6, which surprised him considerably more.
+The heavy man with the boar spear was a 5, which surprised him. Bern was a 4. A wide slow man near the pens was a 6, which surprised him considerably more.
 
 And a woman of about forty behind the smith's gate, who had said nothing all morning and whose name he did not know, came up as a 7.
 
@@ -154,7 +158,7 @@ She looked at him.
 
 "I do not know your name," said Gaara, "and I am going to ask you first anyway, and I am not going to explain why in the road."
 
-"Ylva," she said.
+"Ylva."
 
 "Will you come?"
 
@@ -172,7 +176,7 @@ Ylva looked at him for a moment.
 
 Nobody had told Gaara that. He filed it and did not use it, and was aware that a worse man would have.
 
-"Then you know what the bars are," he said. "Will you come?"
+"Then you know what the bars are."
 
 "Aye."
 
@@ -208,13 +212,13 @@ Hallvard almost smiled.
 
 The sixth came at full dark and it was Solva, and it took ten minutes and both hands to talk her out of it.
 
-"You are sixty," he said, "and I have watched you carry bread with two hands."
+"You are sixty, and I have watched you carry bread with two hands."
 
 "He was my son."
 
 "He was, and he is not down there, and the thing that is down there does not care whose son he was." He held on to it the way you hold a rope. "If you come and it goes wrong, I will spend four hours watching you instead of the mouth of that room. So will Marit. So will Bern. That is how six people become four."
 
-Solva stood in her doorway with the cold lamp still on its stone beside the step.
+Solva stood in her doorway with the cold lamp on its stone beside the step.
 
 "You will not lie to me," she said, and it came out flat, with no question in it.
 
@@ -288,7 +292,7 @@ The lowest he had taken, half the weight of Torv, and nineteen, which was a numb
 
 "Because I was there and I did it and I am not doing that again," said the boy, meaning something he did not have the words for and which Gaara understood immediately.
 
-"Right," said Gaara. "You are on a bar next to Torv, you will do exactly what he does, and if I say the word you go up the channel and you do not stop and you do not look round."
+"Right," said Gaara. "You are on a bar next to Torv and you do exactly what he does. If I say the word, you go up the channel and you do not stop and you do not look round."
 
 "What's the word?"
 

@@ -13,7 +13,7 @@ ch10    1946 Woerter  ch10-the-price-went-up.md
 ch11    1691 Woerter  ch11-nobody-carries-a-stick.md
 ch12    2127 Woerter  ch12-for-the-record.md
 ch13    1924 Woerter  ch13-the-cost-of-shutting-a-door.md
-ch14    2842 Woerter  ch14-say-it-in-the-road.md
+ch14    2894 Woerter  ch14-say-it-in-the-road.md
 
-Gesamt: 14 Kapitel, 28777 Woerter
+Gesamt: 14 Kapitel, 28829 Woerter
 Handbuch: 4 Dokumente
