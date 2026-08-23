@@ -507,7 +507,9 @@ A number, an owner, two dates.
 
 There is no column on that page for what a man is called. There has never been one, because a name is the one thing in the transaction that nobody on either side of it needs.
 
-It was the only document in the world that had ever been about him, and it had got all the way through him in three columns without once saying who he was.
+He has two other documents in the world. Her compliance people tidied up a set of papers in the second week of October, so that he would be able to sign things. The other will be dead by midnight and is already in a leather case in Jung-gu. His name is on both, and both of them are about what he is permitted to do.
+
+The sheet on the low table was the only one that had ever been about what he was, and it had got all the way through him in three columns without once saying who he was.
 
 ---
 
