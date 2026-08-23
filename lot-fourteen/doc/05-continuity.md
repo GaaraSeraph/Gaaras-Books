@@ -83,6 +83,10 @@ nachrechnen, und `check.py` tut das automatisch.
   im Korridor. Er bekommt die Tuer ins Register und bezahlt mit der vollen
   Auskunft ueber Hanseong. Jang meldet den Wagen, **Annie hat es zuerst**
   (Band 2, Kapitel 4)
+- Tag 159, Mi 11. Maerz, abends: **die Abrechnung im kleinen Zimmer.** Er hat
+  sich selbst ausgegeben, und das gehoert ihm nicht. Die Vollmacht wird
+  erteilt, mit Deckel, benannten Gegenparteien und Frist bis zum 31. Maerz
+  (Band 2, Kapitel 5)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -554,6 +558,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Am Wagen noch ein Angebot, und es ist konkret und nicht stimmungsvoll.** Kein Brief, kein Mittelsmann, kein Gefallen, den man erbitten muesste: *"Four or five of these a year, until I am the one in the room. You will not have to write to anybody. You will not have to ask a man for a favour or stand in an office and be looked at. You come and stand in a corridor, and I will come over."* **Das ist genau das, was Georgij heute getan hat**, und es ist an einen Mann gerichtet, der nichts besitzt und niemanden um etwas bitten kann. Sein Grund: *"I have wanted to buy you twice and been told no twice, and both times I went home and thought about the work and not about the price."* Einmal gesagt, dann nicht mehr erwaehnt - *"A man should say a thing like that once and then not go on about it."*
 
   **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
+
+- **Band 2, Kapitel 5** *The east side* (v1.0) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
+
+  **Der Einstieg ist die Falle aus Kapitel 4, und er raeumt sie selbst ab.** Er sagt zuerst, was er nicht beweisen kann: Jang stand auf dem Kies, sie hatte es vor ihm. *"There is no way for me to show you which of us was going to say it first. ... I would only be asking you to take my word for the one thing my word is no good for."* Annies Antwort setzt das Thema: **"The order is not what is wrong with today."**
+
+  **Was Annie NICHT vorgeworfen wird, und das war die erste Fassung.** Sie hat die Zeile im Februar selbst streichen lassen und weiss genau, worueber sie nachverfolgbar ist. Ihn darueber zu belehren waere Unsinn. **Die Frage ist, warum sie seit Februar nichts getan hat**, und die Antwort ist die Architektur des Bandes: *"There is no move available to me that does not confirm the line matters, and there is no man available to me who is not visibly out of this house."*
+
+  **Der Vorwurf ist Kapitel 27, umgedreht.** Georgij verteidigt sich mit ihrer eigenen Methode und benennt sie beim Namen: In Kapitel 27 wurde nicht die Drohung von Hana genommen - das kann niemand - sondern **das, was sie bedrohbar machte.** *"The ground stopped being a dedication and started being a rent, and the third charge on it stopped being a cliff in the spring and became a line in a schedule."* Annies Wort dafuer, und der Titel: **"The east side."** Angewendet auf das Register: vier Zeilen, alle vier langweilig, *"not worth the postage"*.
+
+  **Und warum er nicht fragen durfte, nicht konnte:** *"The one thing in this that has any value at all is that nobody sent me. ... You are the one person alive who cannot touch that book."*
+
+  **Der Fehler in seinem eigenen Argument, den sie ihn aussprechen laesst:** *"I am the line."* Eine Seite mit vier stumpfen Zeilen ist nichts wert; eine Seite, an der ein Mann aus ihrem Haus haengt, der seit Maerz danach fragt, ist sehr viel wert - **und zwar wegen des Fragens.** *"I have spent nine days building an instrument that only exists if I am not yours."* Er spricht die Folge einmal laut aus und legt sie hin: *"You could let me go. Then the man I have been describing exists, and he is the only tool that works."* Sie geht darauf mit keinem Wort ein.
+
+  **Was Annie tatsaechlich boese macht, und es ist ein Eigentumsdelikt.** Zwei Ausgaben an einem Nachmittag, beide von derselben Sache - seiner Unsichtbarkeit - und beide von ihm allein bepreist. Erstens Sang-hoon, der jetzt weiss, dass dieses Haus sich fuer ein Buch am Fluss interessiert. Zweitens **das Kondolenzbuch**: sein Name, mit Datum, an der Tuer eines Raumes mit dem halben Gewerbe darin, und dann die Bitte um den Strich, die ihn fuer jeden in Hoerweite merkbar macht. **Regel 2 dreht sich zum ersten Mal gegen ihn.** Er besitzt nichts - bisher war das seine Freiheit, hier ist es die Anklage.
+
+  **Seine Begruendung fuer den Strich ist richtig und sie sagt es:** Ein Umschlag waere eine Zahl neben seinem Namen gewesen, in Tinte, mit Datum, aus fremdem Geld. *"A line through it is nothing at all."* - **"That part is correct. It is the only part of today that is."** Und ganz am Schluss, einmal und nicht wiederholt: *"That was the correct thing to do and it was quick, and nobody taught you it. I will not say that twice, and you are not to build anything on it."*
+
+  **Yeouido, und der Preis der Antwort.** Ihre Leute koennen es besser, und er sagt das auch. Sein Gegenargument ist das einzige, das ihn etwas kostet: *"Every one of them arrives from somewhere. ... Nobody comes over to them in a corridor."* Annie zieht die Folge, er bestaetigt sie ohne Ausweichen. **"So the asset is that other men want you."** - *"Yes, Mistress."* - **"That is a filthy thing to have to put in a report."**
+
+  **Die Vollmacht kommt, aber als Deckel und nicht als Belohnung**, und Annie benutzt dafuer sein eigenes Verfahren: **Deckel, benannte Gegenparteien, Frist.** Der Deckel ist, dass er den Preis vorher nennt und nicht das Ergebnis zuerst. Gegenparteien sind Sang-hoon und der Schreibtisch im Settlement, sonst niemand. Frist ist der **31. Maerz**, weil dann die Tuer zufaellt. Mr Chae hat das Papier **seit Montagnachmittag** - sie hat es am Tag der Absage aufsetzen lassen und gewartet, bis es einen Raum dafuer gab. *"I am not giving you this because you have earned it this afternoon. Some of this afternoon was very expensive."* - *"I know what it cost."* - *"You do not yet. You will in about a month."*
+
+  **Die vierte Zeile, und Annie fragt nicht nach.** *"Annie asks second questions."* Sie stellt keine, und er legt die Antwort dorthin, wo er sie hinlegt. Das haelt Chois Vorenthaltung offen, ohne die Bauform von Kapitel 3 zu wiederholen.
+
+  **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 87.836 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 89.228 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -133,9 +133,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
   - [Mr Yeo](#mr-yeo)
+  - [Mrs Sunwoo](#mrs-sunwoo)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Minister Min-ho](#minister-min-ho)
-  - [Mrs Sunwoo](#mrs-sunwoo)
   - [Mrs Ahn](#mrs-ahn)
   - [Tae-min](#tae-min)
   - [Mr Im](#mr-im)
@@ -1902,6 +1902,10 @@ nachrechnen, und `check.py` tut das automatisch.
   im Korridor. Er bekommt die Tuer ins Register und bezahlt mit der vollen
   Auskunft ueber Hanseong. Jang meldet den Wagen, **Annie hat es zuerst**
   (Band 2, Kapitel 4)
+- Tag 159, Mi 11. Maerz, abends: **die Abrechnung im kleinen Zimmer.** Er hat
+  sich selbst ausgegeben, und das gehoert ihm nicht. Die Vollmacht wird
+  erteilt, mit Deckel, benannten Gegenparteien und Frist bis zum 31. Maerz
+  (Band 2, Kapitel 5)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2373,6 +2377,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Am Wagen noch ein Angebot, und es ist konkret und nicht stimmungsvoll.** Kein Brief, kein Mittelsmann, kein Gefallen, den man erbitten muesste: *"Four or five of these a year, until I am the one in the room. You will not have to write to anybody. You will not have to ask a man for a favour or stand in an office and be looked at. You come and stand in a corridor, and I will come over."* **Das ist genau das, was Georgij heute getan hat**, und es ist an einen Mann gerichtet, der nichts besitzt und niemanden um etwas bitten kann. Sein Grund: *"I have wanted to buy you twice and been told no twice, and both times I went home and thought about the work and not about the price."* Einmal gesagt, dann nicht mehr erwaehnt - *"A man should say a thing like that once and then not go on about it."*
 
   **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
+
+- **Band 2, Kapitel 5** *The east side* (v1.0) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
+
+  **Der Einstieg ist die Falle aus Kapitel 4, und er raeumt sie selbst ab.** Er sagt zuerst, was er nicht beweisen kann: Jang stand auf dem Kies, sie hatte es vor ihm. *"There is no way for me to show you which of us was going to say it first. ... I would only be asking you to take my word for the one thing my word is no good for."* Annies Antwort setzt das Thema: **"The order is not what is wrong with today."**
+
+  **Was Annie NICHT vorgeworfen wird, und das war die erste Fassung.** Sie hat die Zeile im Februar selbst streichen lassen und weiss genau, worueber sie nachverfolgbar ist. Ihn darueber zu belehren waere Unsinn. **Die Frage ist, warum sie seit Februar nichts getan hat**, und die Antwort ist die Architektur des Bandes: *"There is no move available to me that does not confirm the line matters, and there is no man available to me who is not visibly out of this house."*
+
+  **Der Vorwurf ist Kapitel 27, umgedreht.** Georgij verteidigt sich mit ihrer eigenen Methode und benennt sie beim Namen: In Kapitel 27 wurde nicht die Drohung von Hana genommen - das kann niemand - sondern **das, was sie bedrohbar machte.** *"The ground stopped being a dedication and started being a rent, and the third charge on it stopped being a cliff in the spring and became a line in a schedule."* Annies Wort dafuer, und der Titel: **"The east side."** Angewendet auf das Register: vier Zeilen, alle vier langweilig, *"not worth the postage"*.
+
+  **Und warum er nicht fragen durfte, nicht konnte:** *"The one thing in this that has any value at all is that nobody sent me. ... You are the one person alive who cannot touch that book."*
+
+  **Der Fehler in seinem eigenen Argument, den sie ihn aussprechen laesst:** *"I am the line."* Eine Seite mit vier stumpfen Zeilen ist nichts wert; eine Seite, an der ein Mann aus ihrem Haus haengt, der seit Maerz danach fragt, ist sehr viel wert - **und zwar wegen des Fragens.** *"I have spent nine days building an instrument that only exists if I am not yours."* Er spricht die Folge einmal laut aus und legt sie hin: *"You could let me go. Then the man I have been describing exists, and he is the only tool that works."* Sie geht darauf mit keinem Wort ein.
+
+  **Was Annie tatsaechlich boese macht, und es ist ein Eigentumsdelikt.** Zwei Ausgaben an einem Nachmittag, beide von derselben Sache - seiner Unsichtbarkeit - und beide von ihm allein bepreist. Erstens Sang-hoon, der jetzt weiss, dass dieses Haus sich fuer ein Buch am Fluss interessiert. Zweitens **das Kondolenzbuch**: sein Name, mit Datum, an der Tuer eines Raumes mit dem halben Gewerbe darin, und dann die Bitte um den Strich, die ihn fuer jeden in Hoerweite merkbar macht. **Regel 2 dreht sich zum ersten Mal gegen ihn.** Er besitzt nichts - bisher war das seine Freiheit, hier ist es die Anklage.
+
+  **Seine Begruendung fuer den Strich ist richtig und sie sagt es:** Ein Umschlag waere eine Zahl neben seinem Namen gewesen, in Tinte, mit Datum, aus fremdem Geld. *"A line through it is nothing at all."* - **"That part is correct. It is the only part of today that is."** Und ganz am Schluss, einmal und nicht wiederholt: *"That was the correct thing to do and it was quick, and nobody taught you it. I will not say that twice, and you are not to build anything on it."*
+
+  **Yeouido, und der Preis der Antwort.** Ihre Leute koennen es besser, und er sagt das auch. Sein Gegenargument ist das einzige, das ihn etwas kostet: *"Every one of them arrives from somewhere. ... Nobody comes over to them in a corridor."* Annie zieht die Folge, er bestaetigt sie ohne Ausweichen. **"So the asset is that other men want you."** - *"Yes, Mistress."* - **"That is a filthy thing to have to put in a report."**
+
+  **Die Vollmacht kommt, aber als Deckel und nicht als Belohnung**, und Annie benutzt dafuer sein eigenes Verfahren: **Deckel, benannte Gegenparteien, Frist.** Der Deckel ist, dass er den Preis vorher nennt und nicht das Ergebnis zuerst. Gegenparteien sind Sang-hoon und der Schreibtisch im Settlement, sonst niemand. Frist ist der **31. Maerz**, weil dann die Tuer zufaellt. Mr Chae hat das Papier **seit Montagnachmittag** - sie hat es am Tag der Absage aufsetzen lassen und gewartet, bis es einen Raum dafuer gab. *"I am not giving you this because you have earned it this afternoon. Some of this afternoon was very expensive."* - *"I know what it cost."* - *"You do not yet. You will in about a month."*
+
+  **Die vierte Zeile, und Annie fragt nicht nach.** *"Annie asks second questions."* Sie stellt keine, und er legt die Antwort dorthin, wo er sie hinlegt. Das haelt Chois Vorenthaltung offen, ohne die Bauform von Kapitel 3 zu wiederholen.
+
+  **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
 ---
 
@@ -4732,11 +4760,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 349 | 34 (b1ch01-b2ch04) | 1 | 74 |
+| Annie | 364 | 35 (b1ch01-b2ch05) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 100 | 17 (b1ch10-b2ch04) | 7 | 74 |
-| Jang | 64 | 15 (b1ch05-b2ch04) | 4 | 60 |
+| Park Sang-hoon | 104 | 18 (b1ch10-b2ch05) | 7 | 74 |
+| Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
 | Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -4751,9 +4779,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
 | Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
+| Mrs Sunwoo | 4 | 2 (b1ch07-b2ch05) | 22 | 60 |
 | Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
-| Mrs Sunwoo | 3 | 1 (b1ch07) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -4763,7 +4791,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-349 Nennungen in 34 Kapiteln.
+364 Nennungen in 35 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5116,6 +5144,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
 | 60 | b2ch04:292 | Annie was in the small room with the door open. |
 | 60 | b2ch04:304 | "Take the coat off," said Annie. |
+| 60 | b2ch05:16 | Annie was standing at the window with the curtain not drawn and the drive dark behind her. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 60 | b2ch05:48 | Annie let that stand for a moment, and then she asked her first real question, which was.. |
+| 60 | b2ch05:76 | Annie turned round from the window then. |
+| 60 | b2ch05:98 | Annie came away from the window and stood on the other side of the desk from him. |
+| 60 | b2ch05:110 | "You have spent nine days making yourself into the one thing in this city that has no li.. |
+| 60 | b2ch05:124 | Annie put one hand down on the desk. |
+| 60 | b2ch05:142 | Annie waited. |
+| 60 | b2ch05:162 | "That is a good argument," said Annie. "Now say the flaw in it, because you have known i.. |
+| 60 | b2ch05:178 | Annie sat down at last, on the arm of the reading chair, which is not sitting. |
+| 60 | b2ch05:190 | Annie was quiet for a moment. |
+| 60 | b2ch05:222 | Annie stood up off the arm of the chair. |
+| 60 | b2ch05:262 | Annie went to the drawer on the left of the desk, which he has watched her open perhaps .. |
+| 60 | b2ch05:280 | "The fourth one," said Annie. "The one with no car and no dinner." |
+| 60 | b2ch05:290 | She did not ask him what he thought it meant, and she did not ask him whether he had gon.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5201,6 +5244,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:110` (Tag 56) - eighty-one, two
 - `b2ch03:126` (Tag 56) - nine
 - `b2ch03:140` (Tag 56) - four
+- `b2ch05:110` (Tag 60) - nine, one
+- `b2ch05:124` (Tag 60) - one
+- `b2ch05:162` (Tag 60) - twelve
+- `b2ch05:262` (Tag 60) - four
+- `b2ch05:280` (Tag 60) - one
 
 ---
 
@@ -5646,7 +5694,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-100 Nennungen in 17 Kapiteln.
+104 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5750,6 +5798,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:248 | Sang-hoon looked out of the window at a car park. |
 | 60 | b2ch04:260 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
 | 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
+| 60 | b2ch05:50 | "What did you pay Park Sang-hoon with." |
+| 60 | b2ch05:82 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
+| 60 | b2ch05:214 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
+| 60 | b2ch05:252 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -5801,7 +5853,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-64 Nennungen in 15 Kapiteln.
+66 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5869,6 +5921,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
+| 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
+| 60 | b2ch05:318 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6469,6 +6523,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Sunwoo
+
+4 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+
+---
+
 ### Choi Dae-ho
 
 3 Nennungen in 2 Kapiteln.
@@ -6500,24 +6573,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
-
----
-
-### Mrs Sunwoo
-
-3 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
 
 ---
 
