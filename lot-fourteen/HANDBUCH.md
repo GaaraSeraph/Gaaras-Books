@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 89.476 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 89.816 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -90,6 +90,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wie die Waffe unbrauchbar wird: drei Wege](#wie-die-waffe-unbrauchbar-wird-drei-wege)
   - [Der Preis](#der-preis)
   - [Was NICHT vorher entschieden ist](#was-nicht-vorher-entschieden-ist)
+  - [Faelliges mit Datum](#faelliges-mit-datum)
   - [Bekannte Baustellen, Stand nach Kapitel 17](#bekannte-baustellen-stand-nach-kapitel-17)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
@@ -2402,7 +2403,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Yeouido, und der Preis der Antwort.** Ihre Leute koennen es besser, und er sagt das auch. Sein Gegenargument ist das einzige, das ihn etwas kostet: *"Every one of them arrives from somewhere. ... Nobody comes over to them in a corridor."* Annie zieht die Folge, er bestaetigt sie ohne Ausweichen. **"So the asset is that other men want you."** - *"Yes, Mistress."* - **"That is a filthy thing to have to put in a report."**
 
-  **Die Vollmacht kommt, aber als Deckel und nicht als Belohnung**, und Annie benutzt dafuer sein eigenes Verfahren: **Deckel, benannte Gegenparteien, Frist.** Der Deckel ist, dass er den Preis vorher nennt und nicht das Ergebnis zuerst. Gegenparteien sind Sang-hoon und der Schreibtisch im Settlement, sonst niemand. Frist ist der **31. Maerz**, weil dann die Tuer zufaellt. Mr Chae hat das Papier **seit Montagnachmittag** - sie hat es am Tag der Absage aufsetzen lassen und gewartet, bis es einen Raum dafuer gab. *"I am not giving you this because you have earned it this afternoon. Some of this afternoon was very expensive."* - *"I know what it cost."* - *"You do not yet. You will in about a month."*
+  **Die Vollmacht kommt, aber als Deckel und nicht als Belohnung**, und Annie benutzt dafuer sein eigenes Verfahren: **Deckel, benannte Gegenparteien, Frist.** Der Deckel ist, dass er den Preis vorher nennt und nicht das Ergebnis zuerst. Gegenparteien sind Sang-hoon und der Schreibtisch im Settlement, sonst niemand. Frist ist der **31. Maerz**, weil dann die Tuer zufaellt. Mr Chae hat das Papier **seit Montagnachmittag** - sie hat es am Tag der Absage aufsetzen lassen und gewartet, bis es einen Raum dafuer gab. *"I am not giving you this because you have earned it this afternoon. Some of this afternoon was very expensive."* - *"I know what it cost."* - *"You do not yet. You will in about a month."* **Dieser letzte Satz ist eine Schuld mit Frist und steht als solche in `doc/07-next.md` unter "Faelliges mit Datum": faellig Anfang April, im selben Fenster wie Nams Brief vom Ersten. Annie weiss hier etwas, das er nicht weiss, und sie darf nicht geraten haben.**
 
   **Die vierte Zeile, und Annie fragt nicht nach.** *"Annie asks second questions."* Sie stellt keine, und er legt die Antwort dorthin, wo er sie hinlegt. Das haelt Chois Vorenthaltung offen, ohne die Bauform von Kapitel 3 zu wiederholen.
 
@@ -3775,6 +3776,42 @@ das, worum sie gebeten hat.
 
 Was unaufgeloest ist und irgendwann bezahlt werden muss. Wer einen Faden
 schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
+
+### Faelliges mit Datum
+
+**Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
+eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
+gebrochen, das im Text steht.
+
+- **"You will in about a month." - FAELLIG ANFANG APRIL, Band 2, Kapitel 5**
+  (Tag 159, 11. Maerz). Annie gibt die Vollmacht heraus und sagt dazu: *"I am
+  not giving you this because you have earned it this afternoon. Some of this
+  afternoon was very expensive."* Georgij: *"I know what it cost."* Sie:
+  **"You do not yet. You will in about a month."**
+
+  **Sie weiss an dieser Stelle etwas, das er nicht weiss, und der Text schuldet
+  die Aufloesung.** Sie darf nicht als Stimmung stehenbleiben und nicht
+  nachtraeglich umgedeutet werden. Sie faellt **Anfang April**, also im selben
+  Fenster wie Nams Brief vom Ersten und wie das Zufallen der Tuer.
+
+  **Der wahrscheinlichste Inhalt, noch nicht entschieden:** Irgendwer schlaegt
+  wegen dieses Nachmittags in dem Buch nach. Er hat dreizehn Maenner neugierig
+  gemacht, zwei davon hatten seinen Namen schon, und was ein Nachschlagender
+  findet, ist **nichts** - das Zeichen ohne Deckung aus `doc/04-world.md`. Ab
+  diesem Tag ist er nicht mehr ein Mann mit einer Marke, sondern Ware. **Das ist
+  der Preis, den Annie am 11. Maerz sehen kann und er nicht**, weil sie diejenige
+  war, die den Eintrag hat streichen lassen.
+
+  **Zwei Alternativen, die zur selben Frist passen und mitgeprueft werden
+  muessen:** dass **Sang-hoon** als Erster am Register ist, weil er seit heute
+  weiss, dass das Haus sich dafuer interessiert. Oder dass **Choi** sich meldet,
+  weil korrektes Verhalten um seine Gesellschaftsform herum die Unterschrift
+  ist. Die drei schliessen einander nicht aus - der Nachschlagende kann Chois
+  Mann sein.
+
+  **Regel dazu:** Wenn Annie es sagt, weiss sie es. Sie darf sich irren, aber sie
+  darf nicht geraten haben.
+
 
 - **Los elf.** Ein Junge, laut Akte sechzehn, tatsächlich höchstens vierzehn. Der Käufer wurde ruiniert und holt ihn nicht ab. Achtzig heute, sechzig nächsten Monat, und bei sechzig fragt das Haus nicht mehr, wer kauft, weil die Marge das Fragen nicht deckt.
 - **Was Annie für sechzig bekäme** (Georgijs Argument im Wagen, unbeantwortet geblieben): Erstens einen Namen. Das Haus kann ein zurückgegebenes Los nicht neu listen, ohne die Rückgabe zu erklären, und es gibt nur eine wahre Erklärung. Wer den Mann in der zweiten Reihe garantiert hat, hat Geld und kein Gesicht und kauft nicht einen einzelnen Jungen für sich. Zweitens, und länger haltbar, das Haus selbst: Wer weiß, dass ihr Buch schmutzig ist, bekommt jeden Katalog, wird nicht überboten und erreicht sie um elf Uhr abends. Der Name ist im Frühjahr alt, das andere trägt Jahre. Und es gilt nur heute Nacht, weil sie in drei Wochen eine gemeinsame Version haben werden.

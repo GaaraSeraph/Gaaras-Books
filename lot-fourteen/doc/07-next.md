@@ -439,6 +439,42 @@ das, worum sie gebeten hat.
 Was unaufgeloest ist und irgendwann bezahlt werden muss. Wer einen Faden
 schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
+### Faelliges mit Datum
+
+**Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
+eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
+gebrochen, das im Text steht.
+
+- **"You will in about a month." - FAELLIG ANFANG APRIL, Band 2, Kapitel 5**
+  (Tag 159, 11. Maerz). Annie gibt die Vollmacht heraus und sagt dazu: *"I am
+  not giving you this because you have earned it this afternoon. Some of this
+  afternoon was very expensive."* Georgij: *"I know what it cost."* Sie:
+  **"You do not yet. You will in about a month."**
+
+  **Sie weiss an dieser Stelle etwas, das er nicht weiss, und der Text schuldet
+  die Aufloesung.** Sie darf nicht als Stimmung stehenbleiben und nicht
+  nachtraeglich umgedeutet werden. Sie faellt **Anfang April**, also im selben
+  Fenster wie Nams Brief vom Ersten und wie das Zufallen der Tuer.
+
+  **Der wahrscheinlichste Inhalt, noch nicht entschieden:** Irgendwer schlaegt
+  wegen dieses Nachmittags in dem Buch nach. Er hat dreizehn Maenner neugierig
+  gemacht, zwei davon hatten seinen Namen schon, und was ein Nachschlagender
+  findet, ist **nichts** - das Zeichen ohne Deckung aus `doc/04-world.md`. Ab
+  diesem Tag ist er nicht mehr ein Mann mit einer Marke, sondern Ware. **Das ist
+  der Preis, den Annie am 11. Maerz sehen kann und er nicht**, weil sie diejenige
+  war, die den Eintrag hat streichen lassen.
+
+  **Zwei Alternativen, die zur selben Frist passen und mitgeprueft werden
+  muessen:** dass **Sang-hoon** als Erster am Register ist, weil er seit heute
+  weiss, dass das Haus sich dafuer interessiert. Oder dass **Choi** sich meldet,
+  weil korrektes Verhalten um seine Gesellschaftsform herum die Unterschrift
+  ist. Die drei schliessen einander nicht aus - der Nachschlagende kann Chois
+  Mann sein.
+
+  **Regel dazu:** Wenn Annie es sagt, weiss sie es. Sie darf sich irren, aber sie
+  darf nicht geraten haben.
+
+
 - **Los elf.** Ein Junge, laut Akte sechzehn, tatsächlich höchstens vierzehn. Der Käufer wurde ruiniert und holt ihn nicht ab. Achtzig heute, sechzig nächsten Monat, und bei sechzig fragt das Haus nicht mehr, wer kauft, weil die Marge das Fragen nicht deckt.
 - **Was Annie für sechzig bekäme** (Georgijs Argument im Wagen, unbeantwortet geblieben): Erstens einen Namen. Das Haus kann ein zurückgegebenes Los nicht neu listen, ohne die Rückgabe zu erklären, und es gibt nur eine wahre Erklärung. Wer den Mann in der zweiten Reihe garantiert hat, hat Geld und kein Gesicht und kauft nicht einen einzelnen Jungen für sich. Zweitens, und länger haltbar, das Haus selbst: Wer weiß, dass ihr Buch schmutzig ist, bekommt jeden Katalog, wird nicht überboten und erreicht sie um elf Uhr abends. Der Name ist im Frühjahr alt, das andere trägt Jahre. Und es gilt nur heute Nacht, weil sie in drei Wochen eine gemeinsame Version haben werden.
 - **Was er dabei preisgegeben hat.** Auf ihre direkte Frage nennt er den wahren Grund ohne Umweg: "Because he's fourteen." Und er sagt dazu, dass sie ohnehin herausgefunden hätte, womit er sich kaufen lässt, also lieber heute und lieber billig. Sie hat den Hebel jetzt.
