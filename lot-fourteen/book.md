@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 39 Kapitel, 112.862 Woerter.
+2 Baende, 39 Kapitel, 112.922 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
 | 2 | 04 | v1.3 | 2.698 |
-| 2 | 05 | v1.0 | 2.713 |
+| 2 | 05 | v1.1 | 2.773 |
 
 ---
 
@@ -12220,7 +12220,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -12320,11 +12320,11 @@ Annie came away from the window and stood on the other side of the desk from him
 
 "How many men were near enough to hear you."
 
-"Seven or eight in the queue. The man at the desk. Two more coming up the stair."
+"Thirteen. Four in front of me and seven behind, and two came up the stair while I was still at the desk."
 
-"And how many of them will be able to describe you in a month."
+"And how many of them will have it in a month."
 
-"All of them."
+"The man at the desk will have it for years. He has never had to draw that line before and it is a story he can tell at a table." He did not stop. "Of the other twelve, most of them by Friday. And two of them already knew who I was when I said my name, because they stopped talking."
 
 ---
 
