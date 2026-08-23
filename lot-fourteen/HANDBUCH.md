@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 78.654 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 78.923 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1987,9 +1987,13 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Dann fragt sie, was er will, und er kann es nicht beantworten.** Nicht aus Bescheidenheit und nicht als Technik. Er zerlegt die Frage wie jede andere, und es gibt keine Teile. *"There is nothing there. I have looked."* Ein Junge in dem Gewerbe, der etwas will, hat jemandem gezeigt, wo man drueckt; mit neunzehn war aus der Disziplin eine Tatsache geworden.
 
-  **Deshalb gibt sie ihm etwas, das er nicht verlangen konnte: ihren Namen.** Vier Silben auf Koreanisch, in einer Stimme, die er nicht kennt. Er steht auf keinem Papier, ihre Mutter und ihr Bruder haben ihn benutzt und beide sind tot, und seit sie dreiundzwanzig ist nennt sie in diesem Land jeder Annie, einschliesslich ihres Mannes. *"You cannot spend it, you cannot sign with it, and it will not get you through a single door in Seoul. It is the only thing I have got that is not for something."* Und der Grund: *"because you gave me one on the fourth of October in the back of a car and I did not give you anything back."*
+  **Deshalb gibt sie ihm etwas, das er nicht verlangen konnte: ihren Namen.** **Zwei** Silben auf Koreanisch, in einer Stimme, die er nicht kennt. Er steht auf keinem Papier, ihre Mutter und ihr Bruder haben ihn benutzt und beide sind tot, und seit sie dreiundzwanzig ist nennt sie in diesem Land jeder Annie, einschliesslich ihres Mannes. *"You cannot spend it, you cannot sign with it, and it will not get you through a single door in Seoul. It is the only thing I have got that is not for something."* Und der Grund: *"because you gave me one on the fourth of October in the back of a car and I did not give you anything back."*
 
-  **Offen und bewusst offen:** Wie der Name lautet, steht noch nicht fest. Der Text sagt nur, dass sie ihn sagt und wie er klingt. **Annie hat im ganzen Buch keinen Nachnamen** und ist die einzige Figur ohne koreanischen Namen - das war nie erklaert und ist ab hier eine Absicht.
+  **Zwei Silben, nicht vier. Hier stand bis zum 23.08. "vier Silben", in dieser Datei und in `doc/07-next.md`.** Der Text sagt *"something in Korean, two syllables"*. Das ist keine Kleinigkeit, sondern legt fest, **was fuer ein Name es ist**: zwei Silben sind im Koreanischen ein **Vorname** (Ji-yeon, Su-jin, Eun-hee), kein vollstaendiger. Sie hat ihm also ihren Vornamen gegeben und keinen Familiennamen, und das passt zu *"My mother used it and my brother used it and both of them are dead."*
+
+**Wer spricht ihn, und wie oft.** **Sie**, zweimal, in dieser Szene - er bittet *"Say that again"*, und sie tut es. **Georgij nie.** Was er einmal benutzt, ist *Annie*, und zwar in **Kapitel 23** auf der Bruecke: *"So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time.* Das ist der Regelbruch mit der englischen Anrede und hat mit dem koreanischen Namen nichts zu tun. **Wer beides verwechselt, verbraucht den koreanischen Namen, ohne ihn geschrieben zu haben.**
+
+**Offen und bewusst offen:** Wie der Name lautet, steht noch nicht fest. Der Text sagt nur, dass sie ihn sagt und wie er klingt. **Annie hat im ganzen Buch keinen Nachnamen** und ist die einzige Figur ohne koreanischen Namen - das war nie erklaert und ist ab hier eine Absicht.
 
 - **Kapitel 23** *Nobody weighs a door handle* (v3.5) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
@@ -3017,9 +3021,10 @@ ihn noch nicht gezeigt.
 
 **Zwei Dinge daran sind offen und gehoeren entschieden:**
 
-1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt. Annie hat im
-   ganzen Buch keinen Nachnamen und ist die einzige Figur ohne koreanischen
-   Namen - was nie erklaert war und ab Kapitel 24 Absicht ist.
+1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt und dass es **zwei
+   Silben** sind, also ein Vorname. Annie hat im ganzen Buch keinen Nachnamen und
+   ist die einzige Figur ohne koreanischen Namen - was nie erklaert war und ab
+   Kapitel 24 Absicht ist.
 2. **Wann er faellt.** Er benutzt ihn nicht, und das ist richtig: Ein Wort, das
    nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
    der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
@@ -3258,9 +3263,18 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
    der Container**, als Zeile und nie als Szene. **Die Pipeline**, und wenn sie
    ausgesprochen wird, darf sie keine Erleichterung sein.
-5. **Annies Name ist weiterhin nicht ausgesprochen worden** — vier Silben, seit
-   Kapitel 24, einmal von Georgij benutzt und seitdem nicht wieder. Wie er lautet,
-   steht immer noch nicht fest, und sie hat weiterhin keinen Nachnamen.
+5. **Annies koreanischer Name ist von Georgij nie ausgesprochen worden.** **Zwei**
+   Silben, seit Kapitel 24, und **sie** sagt ihn zweimal, weil er darum bittet. Er
+   selbst hat ihn nie benutzt. Was er einmal benutzt hat, ist *Annie*, in Kapitel 23
+   auf der Bruecke, und das ist der Bruch mit der englischen Anrede und etwas
+   anderes.
+
+   **Wie der Name lautet, ist weiterhin nicht entschieden, und der Nachname
+   ebenfalls nicht.** Zwei Silben heisst im Koreanischen: es ist ein **Vorname**.
+   Einen Familiennamen hat sie im ganzen Buch nicht, an keiner Stelle, und sie ist
+   damit die einzige Figur ohne koreanischen Namen. **Das ist ab Kapitel 24 Absicht
+   und keine Luecke** - *"It is on nothing."* Wer ihr einen Nachnamen gibt, hebt
+   auf, dass es nichts gibt, worauf sie steht, und muss es begruenden.
 6. **Seine Bitte von der Brücke steht unbeantwortet:** nie vor Zeugen. Sie hat nie
    zugesagt, sie hat die Fernbedienung in den Han geworfen, und das ist eine
    Bezahlung und keine Zusage. Kapitel 34 fasst es nicht an.

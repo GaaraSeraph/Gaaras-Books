@@ -29,9 +29,10 @@ ihn noch nicht gezeigt.
 
 **Zwei Dinge daran sind offen und gehoeren entschieden:**
 
-1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt. Annie hat im
-   ganzen Buch keinen Nachnamen und ist die einzige Figur ohne koreanischen
-   Namen - was nie erklaert war und ab Kapitel 24 Absicht ist.
+1. **Wie er lautet.** Bisher steht nur da, dass sie ihn sagt und dass es **zwei
+   Silben** sind, also ein Vorname. Annie hat im ganzen Buch keinen Nachnamen und
+   ist die einzige Figur ohne koreanischen Namen - was nie erklaert war und ab
+   Kapitel 24 Absicht ist.
 2. **Wann er faellt.** Er benutzt ihn nicht, und das ist richtig: Ein Wort, das
    nur einmal ausgesprochen werden kann, wird nicht in der Woche verbraucht, in
    der man es bekommt. Die naheliegende Stelle ist die, an der es ihn etwas
@@ -270,9 +271,18 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
    der Container**, als Zeile und nie als Szene. **Die Pipeline**, und wenn sie
    ausgesprochen wird, darf sie keine Erleichterung sein.
-5. **Annies Name ist weiterhin nicht ausgesprochen worden** — vier Silben, seit
-   Kapitel 24, einmal von Georgij benutzt und seitdem nicht wieder. Wie er lautet,
-   steht immer noch nicht fest, und sie hat weiterhin keinen Nachnamen.
+5. **Annies koreanischer Name ist von Georgij nie ausgesprochen worden.** **Zwei**
+   Silben, seit Kapitel 24, und **sie** sagt ihn zweimal, weil er darum bittet. Er
+   selbst hat ihn nie benutzt. Was er einmal benutzt hat, ist *Annie*, in Kapitel 23
+   auf der Bruecke, und das ist der Bruch mit der englischen Anrede und etwas
+   anderes.
+
+   **Wie der Name lautet, ist weiterhin nicht entschieden, und der Nachname
+   ebenfalls nicht.** Zwei Silben heisst im Koreanischen: es ist ein **Vorname**.
+   Einen Familiennamen hat sie im ganzen Buch nicht, an keiner Stelle, und sie ist
+   damit die einzige Figur ohne koreanischen Namen. **Das ist ab Kapitel 24 Absicht
+   und keine Luecke** - *"It is on nothing."* Wer ihr einen Nachnamen gibt, hebt
+   auf, dass es nichts gibt, worauf sie steht, und muss es begruenden.
 6. **Seine Bitte von der Brücke steht unbeantwortet:** nie vor Zeugen. Sie hat nie
    zugesagt, sie hat die Fernbedienung in den Han geworfen, und das ist eine
    Bezahlung und keine Zusage. Kapitel 34 fasst es nicht an.
