@@ -8,9 +8,14 @@ Author, and it is the correct correction to my own fix. I had put the rule at
 the top of CLAUDE.md as something to remember while writing, which is what has
 failed six times. HE WANTS IT DECIDED BEFORE THE PROSE EXISTS.
 SO IT IS A PROCEDURE NOW: list the scenes, write THE ACTUAL LINE for each one at
-planning time, send the list to him with the chapter proposal so he approves the
-jokes along with the plot, then write, THEN WALK THE FINISHED CHAPTER AND COUNT
-and report the number.
+planning time, write, then walk the finished chapter and count before delivery.
+NO APPROVAL LOOP, corrected by him immediately after I proposed one, and his
+reason is better than my proposal: A JOKE OUT OF CONTEXT CANNOT BE JUDGED.
+Handing him a list of lines with no paragraphs round them asks him to approve
+something that does not exist yet. He complains while reading, which is the only
+place a joke is real. The list is a working note and stays with me, the count is
+my control and not a report, and a scene that came out without one gets fixed
+before he ever sees the chapter. HAND HIM THE CHAPTER, NOT A SCORECARD.
 THE TEST OF WHETHER A JOKE IS PLANNED is whether it can be written down at
 planning time. "A quip here" is not a plan. If the line cannot be produced
 before the scene is written, the scene is not planned yet.

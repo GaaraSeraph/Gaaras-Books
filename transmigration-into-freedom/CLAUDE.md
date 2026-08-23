@@ -20,12 +20,17 @@ THE PROCEDURE, and it is not optional:
   2  FOR EACH SCENE, WRITE THE ACTUAL JOKE DOWN. Not "a quip here". THE LINE,
      or near enough that writing it is transcription. If it cannot be written
      at planning time it does not exist and the scene is not planned yet.
-  3  THE LIST GOES TO THE AUTHOR WITH THE CHAPTER PROPOSAL, in the same message
-     as what happens. He is approving the jokes along with the plot.
-  4  ONLY THEN WRITE.
-  5  AFTERWARDS, WALK THE FINISHED CHAPTER SCENE BY SCENE AND COUNT. Report it
-     to him as a number: N scenes, N jokes, and where each one is. If a scene
-     came out without one, say so rather than hoping.
+  3  THE LIST IS NOT SENT TO HIM AND HE DOES NOT APPROVE IT. His instruction,
+     and his reason is correct: A JOKE OUT OF CONTEXT CANNOT BE JUDGED. Without
+     the paragraph around it there is nothing to react to, so a list of lines
+     would be asking him to approve something that does not exist yet. He
+     complains while reading, which is the only place the joke is real.
+     The list is a working note. It stays here.
+  4  WRITE.
+  5  BEFORE DELIVERY, WALK THE FINISHED CHAPTER SCENE BY SCENE AND COUNT. This
+     is my control, not a report for him. A SCENE THAT CAME OUT WITHOUT ONE
+     GETS FIXED BEFORE HE SEES IT. Do not hand him a scorecard; hand him the
+     chapter. Only raise it if something genuinely could not be fixed.
 
 THE RULE THE SPEC HAS TO SATISFY: EVERY SCENE WITH ANOTHER PERSON IN IT NEEDS
 AT LEAST ONE LINE THAT IS THERE ONLY TO BE FUNNY. Not a line that is witty
