@@ -178,6 +178,12 @@ The six (ch14, blooded ch15)
   nothing to do with him. A man lost a leg in her hands yesterday and she takes
   six people back into that place next week without him. She asks him to sit
   there and talk rubbish until she falls asleep, and he does, for an hour.
+- (ch20) SIVERT LEAVES WITH HIM, carrying his father's axe, and Halle's whole
+  goodbye is three words to her son and nothing to Gaara. He has a standing
+  commission for two hundred quartered elm boards that he is now not going to
+  be there to rive, which is why Bern gets it.
+- (ch20) BERN RIVES THE ELM. Two hundred, square, and he sets the number
+  himself. It is a sitting job, and nobody in the scene says the word leg.
 - (ch19) SIVERT ANSWERS, four days early, with the strapping off, at the same
   trough he came to in ch14 before anyone was awake. Gaara asks nothing,
   because the rule is that he asks once. "Two arms," said Sivert.

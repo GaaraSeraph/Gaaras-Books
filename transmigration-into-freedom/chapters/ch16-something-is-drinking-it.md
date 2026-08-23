@@ -126,7 +126,19 @@ At the second rest Torv sat down in the water, which nobody had told him to do, 
 
 They turned.
 
-She took him up on it at the third rest, behind the sledge, with her hand over his mouth for most of it, because a stone tube does things to sound that nobody enjoys.
+She took him up on it at the third rest.
+
+Behind the sledge is eleven feet of wet stone and a stack of bar, and there were seven people forty feet up the tube. A stone tube does things to sound that nobody in it enjoys. So she put her hand over his mouth before anything else happened, and left it there, and inside a minute it turned out to have been the correct order of operations.
+
+She had him against the bar stack with his shirt shoved up over the strapping. He got one hand into her hair and the other under her belt, and found out quickly that she had been thinking about this since the first rest.
+
+"Quiet," she said, into his ear.
+
+He was not quiet. He was as quiet as a man can be with somebody's hand over his mouth, which is not very, and she told him so afterwards at some length.
+
+He got her turned round against the stack and got his own hand where it was wanted, and did not stop when she said his name, and did not stop when she told him to be quick. He was told a third time and ignored that as well. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
+
+The last of it was fast and it was not gentle. She bit down on the heel of her own hand rather than make the sound the tube would have carried, and stood afterwards with her forehead against the cold bar for a moment longer than she needed to.
 
 "Four minutes," said Marit afterwards, seeing to her belt.
 

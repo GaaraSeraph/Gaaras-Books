@@ -3,6 +3,34 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== He talks too much in bed, and one of those times was a contradiction ===
+Author, on ch20: why is it the first time he shuts up. It was not, and the book
+counts it. ch10 was the first ("Now, about the trousers"), ch13 the second and
+says so in the line, so ch20 was the third and the text called it the first.
+WORSE: the ch20 beat did not exist at all. It was in the pre-split draft and did
+not survive being rewritten as its own chapter, and I described it in a report
+as though it were on the page. It is there now, and it is better for having been
+rebuilt, because the distinction is now explicit: twice he was TOLD and complied
+and was pleased with himself; the third time nobody asked and he handed it over.
+AND IT COLLIDED WITH ch16, where Marit already puts a hand over his mouth behind
+the sledge. That is not a repeat, it is the setup: hers was the acoustics of a
+stone tube and ch20 says so in one line. The ledger is now in the bible.
+SEPARATELY: he talks too much during. Trimmed in ch13 and ch20, and the rule is
+written down. It is not the solemnity drift. He stays funny and stays filthy,
+but his attention is entirely on somebody else and a man in that state does not
+narrate. Commentary before and after, not during.
+
+=== The quickie goes on the page, and Sivert joins the party ===
+ch16's third rest was one summarising sentence. It is now the scene, under the
+changed rule: four minutes, seven people forty feet up a stone tube, her hand
+over his mouth as the first move rather than the last resort. He spends three of
+the four minutes on her.
+AND SIVERT COMES ALONG, on the author's call, which fixes a thing the departure
+had wrong anyway. He had just promised two hundred elm boards and had no reason
+to stay. Handing that commission to Bern gives the man with one leg a trade and
+lets the scene say so without anybody using the word.
+
+
 === A new check, and it nearly shipped dead ===
 Rewriting the ch13 byre scene put the word TUESDAY into the text. It was the
 only weekday name in twenty chapters, in a book whose protagonist has been in

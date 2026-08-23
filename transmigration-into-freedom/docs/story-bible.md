@@ -150,6 +150,24 @@ is not guesswork, because a person in the dark cannot help answering.
 - HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
   man who runs every room by talking goes quiet and lets somebody else set the
   pace, and it lands hard enough that he notes it for later thought.
+- AND HE TALKS LESS IN BED THAN ANYWHERE ELSE, which is itself the tell
+  (author, after ch20). This is NOT the solemnity drift the book keeps
+  catching. He is still funny and still filthy. But he is doing something he
+  is good at, with his attention entirely on somebody else, and a man in that
+  state does not narrate. FEWER LINES AND SHARPER ONES. If a speech in a bed
+  runs past two sentences, cut it to one. The commentary belongs before and
+  after, not during.
+
+  THE SILENCE LEDGER, and it is a continuity trap because it is counted on
+  the page. He has stopped talking exactly three times:
+    ch10  Marit: "Now, about the trousers." He stops. First ever.
+    ch13  She tells him to stop talking and he does. ch13 says so: twice in
+          his life, both in this village.
+    ch20  Sivert puts a hand over his mouth. THIRD, and the first one nobody
+          asked for, which is the whole distinction. Marit's hand over his
+          mouth in ch16 does not count: that was the acoustics of a stone
+          tube, and ch20 says so out loud.
+  DO NOT WRITE A FOURTH WITHOUT COUNTING IT.
 - Polysexual and polyamorous. He pursues and forms partnerships across genders,
   and with more than one person at once, and does not trim that to fit local
   custom. Whether people around him approve is their problem, not his, the same
@@ -510,6 +528,12 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   to him is the growth. In ch13 he checked, found no line for any of it, and
   said out loud that it should keep it that way. Do not point at the change.
 
+- (ch16) THE THIRD REST IS ON THE PAGE NOW. Four minutes behind the sledge with
+  seven people forty feet up the tube, her hand over his mouth from the start
+  because a stone tube carries. He spends three of the four on her and is
+  unrepentant about the arithmetic. This is the ch20 hand-over-mouth callback's
+  other half, and the difference between the two is stated in ch20.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -813,6 +837,13 @@ The forge, and the first arrangement (ch19)
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
 
 The second draft, and leaving (ch20)
+- SIVERT COMES TOO. Halle says one thing all morning and it is not to Gaara:
+  "Take the good axe." So the party out of Oldstep is Gaara, Ylva and Sivert,
+  and Marit holds the valley.
+- BERN GETS THE ELM, and it is a job rather than a kindness. Riving boards is a
+  sitting job and there is nobody else in the village with the time, which is
+  the politest possible way of saying he has one leg. Two hundred, square. He
+  names the number himself.
 - THE DOCTRINE IS ELM NOW, on Sivert's information, quartered, two hundred of
   them rivable in an afternoon. Vidar's wax was wrong and Sivert says so from a
   forge floor at four in the morning, at length, and it is the longest speech

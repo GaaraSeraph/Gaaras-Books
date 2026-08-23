@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 42.106 Woerter.
+20 Kapitel. 42.428 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -20,14 +20,14 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 10 | Chapter 10: The Price Went Up | 1.941 |
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
-| 13 | Chapter 13: The Cost of Shutting a Door | 2.600 |
+| 13 | Chapter 13: The Cost of Shutting a Door | 2.573 |
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
-| 16 | Chapter 16: Something Is Drinking It | 2.354 |
+| 16 | Chapter 16: Something Is Drinking It | 2.595 |
 | 17 | Chapter 17: Who Gets the Kill | 2.366 |
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
-| 20 | Chapter 20: Two Arms | 1.761 |
+| 20 | Chapter 20: Two Arms | 1.869 |
 
 ---
 
@@ -2830,7 +2830,7 @@ The arm was the first problem and it was not a small one. She had barbs across t
 
 "I am not an invalid."
 
-"You are not an invalid and I am not being noble. I am being greedy and slow on purpose and you are in my way." He got the shirt over the strapping without touching it. "There. Now be quiet for a moment, because I have not looked at you properly since the road, and I intend to do it now."
+"You are not an invalid and I am not being noble. I am being slow on purpose and you are in my way." He got the shirt over the strapping without touching it. "Now be quiet a moment. I have not looked at you properly since the road."
 
 "You look at everybody properly. It is the most irritating thing about you."
 
@@ -2856,11 +2856,11 @@ Then he went lower, and she got a fistful of his hair and stopped him.
 
 "What are you doing."
 
-"Something I would like to do, and which you can say no to in one syllable, and I will go straight back to what I was doing and not sulk."
+"Something you can say no to in one syllable, after which I go back to what I was doing and do not sulk."
 
 "I do not know what you are asking me."
 
-"I had begun to suspect that," said Gaara, "and I want to say, with genuine feeling, that this is the worst thing I have learned about this world so far."
+"I had begun to suspect that," said Gaara, "and it is the worst thing I have learned about this world so far."
 
 Her hand opened.
 
@@ -3573,7 +3573,19 @@ At the second rest Torv sat down in the water, which nobody had told him to do, 
 
 They turned.
 
-She took him up on it at the third rest, behind the sledge, with her hand over his mouth for most of it, because a stone tube does things to sound that nobody enjoys.
+She took him up on it at the third rest.
+
+Behind the sledge is eleven feet of wet stone and a stack of bar, and there were seven people forty feet up the tube. A stone tube does things to sound that nobody in it enjoys. So she put her hand over his mouth before anything else happened, and left it there, and inside a minute it turned out to have been the correct order of operations.
+
+She had him against the bar stack with his shirt shoved up over the strapping. He got one hand into her hair and the other under her belt, and found out quickly that she had been thinking about this since the first rest.
+
+"Quiet," she said, into his ear.
+
+He was not quiet. He was as quiet as a man can be with somebody's hand over his mouth, which is not very, and she told him so afterwards at some length.
+
+He got her turned round against the stack and got his own hand where it was wanted, and did not stop when she said his name, and did not stop when she told him to be quick. He was told a third time and ignored that as well. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
+
+The last of it was fast and it was not gentle. She bit down on the heel of her own hand rather than make the sound the tube would have carried, and stood afterwards with her forehead against the cold bar for a moment longer than she needed to.
 
 "Four minutes," said Marit afterwards, seeing to her belt.
 
@@ -4373,11 +4385,11 @@ Gaara looked at him for a length of time that would have worried anybody who kne
 
 Ylva's gate was still open where he had left it. There is no window in any forge, because a smith reads heat off colour and daylight tells him lies about it. With the door pulled to it was black in there, and cold, and it smelled of old scale and ash and the green water standing in the slack tub.
 
-"I have been handed the key to exactly one building in this world," said Gaara. "I want you to know that I did not have this in mind when I negotiated for it, and that I am not remotely sorry."
+"I negotiated for this gate yesterday," said Gaara, "and I want it known that I had no idea."
 
 Sivert put the shingle down on the anvil.
 
-Then he took two steps and put his mouth on Gaara's, and Gaara stopped talking for the first time in seven days.
+Then he took two steps and put his mouth on Gaara's, and Gaara stopped talking. It was the third time that had happened in two lifetimes and all three of them had happened in this valley.
 
 It was not tentative on either side. Six days of not being asked again had apparently been doing a great deal of work in the dark.
 
@@ -4399,7 +4411,7 @@ Gaara got his hands up under the back of Sivert's shirt and found him warm and s
 
 "It is black."
 
-"Do not be gentle with me on account of it. I have had a week of being handled gently. I am asking you for something else once, and then I am going to stop asking and let you decide."
+"I have had a week of being handled gently. Do not."
 
 Sivert decided.
 
@@ -4429,7 +4441,7 @@ And then Gaara went lower, and there was a pause of a very particular kind.
 
 "What are you doing."
 
-"Something they clearly do not do here, which I want on the record as the single biggest gap in this civilisation, and I include the aqueduct." He looked up, and there was not enough light to see by and he did it anyway. "Yes or no. It is a short word either way and I will not be wounded."
+"Something they do not appear to do here." He looked up, and there was not enough light to see by and he did it anyway. "Yes or no. Either is a short word and I will not be wounded."
 
 "I do not know what it is."
 
@@ -4449,15 +4461,25 @@ Afterwards Sivert slid down the wall and sat on the floor and looked at him.
 
 "Why."
 
-"I have no idea and I refuse to accept it." He sat back on his heels. "You are going to have to give me a moment, because I am extremely pleased with myself and it is going to take a second to pass."
+"I have no idea and I refuse to accept it."
 
-"It is not going to pass."
+Sivert looked at him for a while.
 
-"It is not going to pass," Gaara agreed.
+"You are very pleased with yourself."
+
+"Enormously. It will pass."
+
+It did not pass.
 
 Sivert got hold of him then and pulled him down. What followed was neither gentle nor quick, and it went on a great deal longer than either of them had planned for a morning that was supposed to end at sunrise.
 
-He asked for it harder twice. The second time he did not ask, he said it, in the flat way he said everything, with his forehead against Gaara's collarbone and both hands locked at the small of his back. Gaara gave him exactly what he had asked for. He kept giving it long past the point where his own arms had opinions about it, because the whole object of the exercise, as far as he was concerned, was the noise Sivert made.
+He asked for it harder twice. The second time he did not ask, he said it, in the flat way he said everything, with his forehead against Gaara's collarbone and both hands locked at the small of his back.
+
+Then he got a hand over Gaara's mouth and left it there.
+
+Marit had done that in a stone tube six days earlier and it had been about the acoustics. This was not about the acoustics.
+
+He had been told to be quiet twice in two lifetimes and had managed it both times, and had been quietly pleased with himself about it. Nobody was telling him now. He handed it over instead, and liked that a great deal more than being asked, and was going to have to think about it later. Gaara gave him exactly what he had asked for. He kept giving it long past the point where his own arms had opinions about it, because the whole object of the exercise, as far as he was concerned, was the noise Sivert made.
 
 Afterwards they lay on the floor of a dead man's forge on Gaara's cloak and a sack, and it was still dark, and neither of them made any move to go anywhere.
 
@@ -4489,13 +4511,23 @@ He wrote it on the back, because there was room, and because she was right, and 
 
 Ylva came out of the gate at midday with a pack and a hammer and a face that dared anybody to say a word about it. Halle stood in her doorway and did not say the word. Neither did anybody else.
 
+Halle said one thing all morning, and it was not to Gaara.
+
+"Take the good axe," she said to her son.
+
 Bern was on his bench with the six lines across his knees, holding them the way a man holds a thing he cannot read.
 
 "Say it to me once more," he said. "I will have it off by heart before you are back."
 
-Gaara said it once more.
+Gaara said it once more. Then he told him about the elm behind Halle's house, and that riving boards is a sitting job, and that there was nobody else in this village with the time.
 
-Then he picked up eighteen inches of soft iron that belonged to somebody else and put it through his belt. He went down the road to the Wold with a woman of forty who had never been further than the market.
+Bern looked at him for a long moment.
+
+"Two hundred," he said.
+
+"Two hundred, and I want them square."
+
+Then Gaara picked up eighteen inches of soft iron that belonged to somebody else and put it through his belt. He went down the road to the Wold with a woman of forty who had never been past the market, and a man of nineteen carrying his father's axe.
 
 He got about two hundred yards.
 
@@ -4506,3 +4538,5 @@ He got about two hundred yards.
 "Yes."
 
 "I have never been happier in my life," said Gaara, "and I want you to understand how alarming I find that."
+
+Sivert did not say anything at all, and was plainly enjoying himself, and Gaara decided to let him have it.

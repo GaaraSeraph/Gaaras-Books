@@ -180,7 +180,7 @@ The arm was the first problem and it was not a small one. She had barbs across t
 
 "I am not an invalid."
 
-"You are not an invalid and I am not being noble. I am being greedy and slow on purpose and you are in my way." He got the shirt over the strapping without touching it. "There. Now be quiet for a moment, because I have not looked at you properly since the road, and I intend to do it now."
+"You are not an invalid and I am not being noble. I am being slow on purpose and you are in my way." He got the shirt over the strapping without touching it. "Now be quiet a moment. I have not looked at you properly since the road."
 
 "You look at everybody properly. It is the most irritating thing about you."
 
@@ -206,11 +206,11 @@ Then he went lower, and she got a fistful of his hair and stopped him.
 
 "What are you doing."
 
-"Something I would like to do, and which you can say no to in one syllable, and I will go straight back to what I was doing and not sulk."
+"Something you can say no to in one syllable, after which I go back to what I was doing and do not sulk."
 
 "I do not know what you are asking me."
 
-"I had begun to suspect that," said Gaara, "and I want to say, with genuine feeling, that this is the worst thing I have learned about this world so far."
+"I had begun to suspect that," said Gaara, "and it is the worst thing I have learned about this world so far."
 
 Her hand opened.
 
