@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 43.379 Woerter.
+Alle 4 Dokumente am Stueck. 43.756 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,28 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The merchants' guild is the Staple, because Mark was taken ===
+Found by running the four guild names against all twenty chapters instead of
+assuming. guild, adventurer, roll, lodge, warrant and Hades: ZERO occurrences,
+so no collision. MARK: NINE, and three of them are THE MARK ON THE DRUM that he
+cannot read, which is the central unexplained thing in the book (ch13, ch16).
+Not a contradiction, a vocabulary collision, and in practice worse: it would
+blur the one noun that has to stay sharp.
+RENAMED TO THE STAPLE. Zero occurrences in twenty chapters, historically exact
+(the Merchants of the Staple were the real thing), dry and institutional, and it
+keeps the one-syllable real-word pattern with Roll, Touch and Lodge.
+NOTHING WAS LOST. The merchant's MARK survives as an object, so the colophon
+payoff is intact: the day he prints anything his mark goes on it.
+AND THE COLLISION TURNED INTO A DEEPENING. Three kinds of mark now exist. A
+mason cuts one, a merchant stamps one, a smith strikes a touch, so EVERY TRADE
+IN THIS WORLD SIGNS ITS WORK. Which means the mark on the drum belongs to no
+register anywhere, and that is the whole point of it, and nobody has said it out
+loud yet. Do not waste it.
+SUPPORTING FIND, unplanted: ch19 already has Bern saying he can read "a tally
+mark and a mason's number". The masons were on the page before the Lodge was
+decided.
 
 
 === Ylva has no legal problem, she has a pricing problem ===
@@ -3051,15 +3073,24 @@ THERE IS MORE THAN ONE GUILD AND THEY ARE NOT THE SAME KIND OF THING (author).
 The Wold has at least four, and each is named in this world for THE RECORD IT
 KEEPS, which is the one administrative habit that survived.
 
-  THE MARK. The merchants' guild, and THE ONE HE ACTUALLY WANTS. A merchant's
-  mark is his sigil, stamped on goods, bales and receipts, and the guild holds
-  the register of marks. So a member is MARKED and his mark is his word.
-  THE IRONY IS FREE AND SHOULD NEVER BE POINTED AT: in a world where most people
-  sign with a mark because they cannot write, the merchants' guild is literally
-  the register of marks.
-  AND IT IS A COLOPHON. The day he prints anything, his mark goes on it, and he
-  will have been carrying a publisher's imprint around for a year without
-  calling it that.
+  THE STAPLE. The merchants' guild, and THE ONE HE ACTUALLY WANTS. The staple is
+  the principal trade of a place and the body that governs it, and it holds the
+  register of merchants' marks. A member is OF THE STAPLE and his mark is his
+  word.
+  THE NAME IS NOT "THE MARK", AND THAT IS A CORRECTION. The word mark is already
+  spoken for: nine times across the chapters, and three of those are THE MARK ON
+  THE DRUM that he cannot read (ch13, ch16), which is the central unexplained
+  thing in the book. Naming an institution after it would blur the one noun that
+  must stay sharp. THE STAPLE has zero occurrences anywhere in twenty chapters.
+  THE MERCHANT'S MARK SURVIVES AS AN OBJECT, and everything good about it holds:
+  in a world where most people sign with a mark because they cannot write, the
+  merchants' register is a register of marks. AND IT IS A COLOPHON. The day he
+  prints anything his mark goes on it, and he will have been carrying a
+  publisher's imprint about for a year without calling it that.
+  AND THREE KINDS OF MARK MAKE THE DRUM SHARPER, NOT MUDDIER. A mason cuts one.
+  A merchant stamps one. A smith strikes a touch. Every trade in this world
+  signs its work. THE ONE ON THE DRUM BELONGS TO NO REGISTER ANYWHERE, which is
+  the whole point of it, and nobody has said that out loud yet.
 
   THE ROLL. Fighting companies. See below. NOT one hall in one town: A NETWORK.
   Every roll house holds a copy and the copies are sent between them, which is
@@ -3190,11 +3221,11 @@ HADES IS A COMPANY. It is simply not one of THOSE companies, and the correction
 is the author's: I had invented a separate word for it and the separate word was
 not needed.
   THE WORD MEANS TWO DIFFERENT THINGS IN THIS TOWN and that is the whole beat.
-  In the Mark a company is a trading concern: a name, a mark, and whoever is in
-  it, and it may be one man. On the Roll a company is a fighting unit and needs
+  In the Staple a company is a trading concern: a name, a mark, and whoever is
+  in it, and it may be one man. On the Roll a company is a fighting unit and needs
   a captain and four men, so a company of one is absurd there and would be
   refused.
-  HE REGISTERS HADES IN THE MARK. One man, one name, one mark. That is the
+  HE REGISTERS HADES IN THE STAPLE. One man, one name, one mark. That is the
   trading and publishing arm and it is the thing he came for.
   AND HE HAS HISTORY WITH THE WORD, which is why he is the man to notice it
   means two things. ch1, ch3 and ch12: thirty-nine of them, the one he owned,
@@ -3215,7 +3246,7 @@ not needed.
   Rule one intact, and the listener no wiser.
 
 HE ENDS UP ON BOTH REGISTERS, AND THAT IS THE ODD THING ABOUT HIM.
-  IN THE MARK he is a house: Hades, one man, a mark.
+  IN THE STAPLE he is a house: Hades, one man, a mark.
   ON THE ROLL he puts HIS OWN NAME down as a man, two coins and one voucher,
   because it is cheap and because it buys the hall at member rate and a bed is
   what is eating his money.

@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The merchants' guild is the Staple, because Mark was taken ===
+Found by running the four guild names against all twenty chapters instead of
+assuming. guild, adventurer, roll, lodge, warrant and Hades: ZERO occurrences,
+so no collision. MARK: NINE, and three of them are THE MARK ON THE DRUM that he
+cannot read, which is the central unexplained thing in the book (ch13, ch16).
+Not a contradiction, a vocabulary collision, and in practice worse: it would
+blur the one noun that has to stay sharp.
+RENAMED TO THE STAPLE. Zero occurrences in twenty chapters, historically exact
+(the Merchants of the Staple were the real thing), dry and institutional, and it
+keeps the one-syllable real-word pattern with Roll, Touch and Lodge.
+NOTHING WAS LOST. The merchant's MARK survives as an object, so the colophon
+payoff is intact: the day he prints anything his mark goes on it.
+AND THE COLLISION TURNED INTO A DEEPENING. Three kinds of mark now exist. A
+mason cuts one, a merchant stamps one, a smith strikes a touch, so EVERY TRADE
+IN THIS WORLD SIGNS ITS WORK. Which means the mark on the drum belongs to no
+register anywhere, and that is the whole point of it, and nobody has said it out
+loud yet. Do not waste it.
+SUPPORTING FIND, unplanted: ch19 already has Bern saying he can read "a tally
+mark and a mason's number". The masons were on the page before the Lodge was
+decided.
+
+
 === Ylva has no legal problem, she has a pricing problem ===
 Author overruled my legal wall and was right about the history. Guild monopoly
 bound practice INSIDE the town; a village forge was out of reach and country
