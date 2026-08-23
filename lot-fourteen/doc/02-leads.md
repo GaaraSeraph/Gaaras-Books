@@ -62,7 +62,7 @@ ihn an der einen Stelle, an der er sich für unangreifbar hält.
 
 Der Katalog aller Sorten steht in `doc/05-continuity.md`, nach Aufgabe geordnet.
 
-**Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
+**Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. **Am 1. Maerz, nach der Streichung des Registereintrags, unveraendert.** Papiere gibt es seit der zweiten Oktoberwoche, weil ihre Compliance sie brauchte, damit er unterschreiben kann; ein Konto gibt es nicht. Eine Zeile in einem privaten Buch zu streichen erzeugt keins von beiden. Einzelheiten in `doc/04-world.md` unter "Das Register". Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
 
 **Die Grenze seines Verfahrens: Namen ohne Gesichter.** Er hat vierhundertdreißig Namen und einundneunzig durchgearbeitete, mit Schulgeld, Gerichtsakten und Wohnungskäufen. Was Papier ihm nicht gibt, sind Gesichter. Von elf Kims sind zwei fotografiert, die übrigen neun haben ihr Leben in einem Geschäft verbracht, auf das niemand eine Kamera hält. Er steht acht Meter vor der Familie und kann keinen einzigen Namen auf ein Gesicht legen. Geschlossen wird das nur über den Mund eines anderen Menschen.
 

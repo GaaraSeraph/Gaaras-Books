@@ -102,6 +102,28 @@ sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen de
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
 abnehmen laesst.
 
+**Und daraus folgt der Zustand, in dem Band 2 anfaengt: das Halsband ist ein
+Zeichen ohne Deckung.** Georgij sagt es in Kapitel 34 selbst - *"What is round my
+neck is a mark with nothing behind it. It goes on working for exactly as long as
+nobody looks in that book."* Wer ihn ansieht, liest Besitz und fasst ihn nicht an.
+Wer Zugang zum Buch hat und nachschlaegt, findet nichts und hat vor sich, was er
+auf der Bruecke selbst benannt hat: **einen Mann, der niemandem gehoert, also
+Ware.** Der Satz *"a man who belongs to nobody is stock"* ist der einzige der drei
+von der Bruecke, der die Streichung ueberlebt hat, und er zeigt jetzt auf ihn.
+
+**Was das praktisch heisst:** Der Schutz haelt gegen jeden, der nur hinsieht, und
+faellt gegen jeden, der zahlt und fragt. Das Haus verdient daran, dass Leute darin
+stehen, und es weiss jetzt, dass Annie fuer eine Streichung zahlt.
+
+**Und was sich NICHT geaendert hat, weil das Register kein staatliches ist:**
+Papiere hat er seit der zweiten Oktoberwoche, von ihrer Compliance geordnet, damit
+er unterschreiben kann (Kapitel 25). Ein Konto hat er nicht und hatte er nie -
+*"Because I do not have an account for one to go into"* (Kapitel 27). Die
+Streichung erzeugt weder das eine noch das andere. **Regel 2 aus `doc/02-leads.md`
+gilt am 1. Maerz unveraendert: er besitzt nichts.** Wer ihm zu Band 2 Geld, ein
+Konto oder eine Staatsangehoerigkeit gibt, muss es aus einer Szene holen und nicht
+aus der Streichung.
+
 ---
 
 ## Das Geschaeft

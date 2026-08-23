@@ -226,6 +226,32 @@ das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit i
 
 ---
 
+## Der Zustand am 1. Maerz
+
+**Bevor irgendetwas geplant wird, gehoert das hier gelesen.** Es sind die vier
+Tatsachen, aus denen Band 2 anfaengt, und drei davon sind neu.
+
+1. **Der Registereintrag ist gestrichen**, am 19. Februar. Georgij gehoert
+   niemandem. Es gibt kein Papier auf der Welt, das das Gegenteil sagt.
+2. **Das Halsband ist trotzdem dran, auf seine Weigerung hin**, und es ist damit
+   ein **Zeichen ohne Deckung**. Wer hinsieht, liest Besitz. Wer ins Buch sieht,
+   findet nichts. *"It goes on working for exactly as long as nobody looks in
+   that book."* Der einzige Satz von der Bruecke, der die Streichung ueberlebt
+   hat, ist *"a man who belongs to nobody is stock"*, und er zeigt jetzt auf ihn.
+3. **Er besitzt weiterhin nichts.** Papiere seit der zweiten Oktoberwoche, weil
+   ihre Compliance sie brauchte; kein Konto, kein Geld. Die Streichung erzeugt
+   davon nichts. Wer ihm etwas gibt, holt es aus einer Szene.
+4. **Die Vollmacht ist tot**, am 1. Maerz um Mitternacht, ohne Verlaengerungs-
+   klausel. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
+   Georgij hat in Kapitel 24 gesagt, dass er es tun wuerde: *"a date on it, after
+   which it is dead and I ask you again."* **Diese Bitte steht aus.**
+
+**Und die Lage zwischen den beiden ist offen und ungesichert.** Sie hat ihm
+angeboten, ihn freizulassen, er hat es abgelehnt, und beide wissen jetzt, dass es
+sie nichts mehr kostet, es zu beenden. Er hat es ihr selbst vorgerechnet.
+
+---
+
 ## Was Band 2 mitbekommt
 
 Nichts davon wird in 34 angefasst, und das ist Absicht.

@@ -751,3 +751,57 @@ der Bogen aus Kapitel 23, wo er es ihr entzogen hat.
 **Was fuer Band 2 aufgehoben wird:** Los elf und der Name des Garanten, Choi
 Dae-ho, die Pipeline, und Ye-rin, die von selbst zurueckkommt, sobald das Vetorecht
 beisst. Nichts davon wird in 34 angefasst.
+
+---
+
+## Kapitel 34 im Einzelnen, entschieden am 23.08.
+
+**Die leeren Wochen sind ein Befehl und keine Leere.** Erste Fassung liess
+Georgij zehn Wochen lang untaetig sein, weil nichts anlag. Das ist unglaubwuerdig:
+Ein Mann, dessen Arbeit das Arrangieren ist, sucht sich andere Ziele. **Annie
+untersagt es ihm am 2. Januar, in einem Satz, und nennt keinen Grund.**
+
+**Warum sie keinen nennt.** Sie haelt Gruende zurueck, das ist ihre Methode seit
+Kapitel 4 - *"I'd rather find out what you bring me when nobody has told you what
+to want."* Ein genannter Grund haette ihn rechnen lassen, und dann haette er im
+Maerz eine Antwort gehabt. Sie sagt es ihm erst am 1. Maerz, und dann vollstaendig.
+
+**Der Grund selbst ist geschaeftlich**, wie bei ihr immer: Jeder gewonnene Raum
+legt etwas auf Sang-hoons Zahl, und sie wollte nicht viermal in dem Gebaeude sein,
+waehrend er teurer wird. Verschwiegen hat sie es, weil er die Differenz bepreist
+und einen Weg gefunden haette, nuetzlich zu sein, den sie von dort nicht sieht.
+
+**Sein Irrtum ist der dritte und der laengste.** Er haelt es fuer Strukturschutz.
+Das ist kompetent und falsch, und im November hat er sich in derselben Frau
+zweimal in vier Tagen geirrt. Dieser dauert zehn Wochen.
+
+**Die Vollmacht wird genau einmal benutzt, und belanglos.** Verworfen wurde,
+sie gar nicht zu benutzen (dann fragt der Leser, wozu sie da war) und sie etwas
+anrichten zu lassen, das in Band 2 zurueckkommt. Eine Fristverlaengerung, vier
+Minuten, weil er der Einzige im Haus mit Zeichnungsbefugnis war, ist die bessere
+Pointe: Ein Recht, das man sich als Bezahlung fuer einen Bruch geben laesst, wird
+fuer Verwaltung verbraucht.
+
+**Und die Vorhersage dazu ist eingeloest.** Auf der Bruecke sagt er vier Raeume
+bis Februar voraus und zwei Unterschriften darin. Es wurden vier Raeume und keine
+Zeile. Er hat die Welt richtig gerechnet und sich selbst falsch, und er rechnet es
+Mr Chae vor, weil das kaelter ist, als es ihr zu sagen.
+
+**Er argumentiert nicht mehr im Praesens gegen einen Zustand, den es nicht mehr
+gibt.** Eine Fassung liess ihn sagen *"you have to sell me"*, vier Minuten nachdem
+sie das abgeschafft hatte. Jetzt steht die erste Haelfte im Konditional und mit
+ihrem Datum, und Annie benennt, was er beschreibt: *"You are describing being
+free."* Er gibt es zu. **Seine Weigerung ist zugegeben unvernuenftig, nicht
+unlogisch**, und das ist der Unterschied, an dem die Szene haengt.
+
+**Das Halsband ist ab jetzt ein Zeichen ohne Deckung, und er sagt es.** Damit
+waechst ihm ein taktischer Grund zurueck, und Annie bietet ihn ihm an. **Er nimmt
+ihn nicht** - *"It would hold." He did not take it. "It is not why."* Er versteckt
+sich nicht hinter einem verfuegbaren wahren Grund, und das ist dieselbe Bewegung
+wie in Kapitel 33, eine Stufe teurer.
+
+**Papiere und Konto: unveraendert.** Das Register ist das private Buch eines
+Auktionshauses. Eine gestrichene Zeile darin erzeugt keine Staatsangehoerigkeit
+und kein Konto. Papiere gibt es seit Oktober, weil ihre Compliance sie brauchte.
+**Regel 2 gilt am 1. Maerz unveraendert.**
+

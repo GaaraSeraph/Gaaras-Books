@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.686 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 78.654 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -951,7 +951,7 @@ ihn an der einen Stelle, an der er sich für unangreifbar hält.
 
 Der Katalog aller Sorten steht in `doc/05-continuity.md`, nach Aufgabe geordnet.
 
-**Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
+**Er besitzt nichts.** Kein Geld, kein Ansehen, keine Beziehungen, kein Konto im wörtlichen oder übertragenen Sinn. **Am 1. Maerz, nach der Streichung des Registereintrags, unveraendert.** Papiere gibt es seit der zweiten Oktoberwoche, weil ihre Compliance sie brauchte, damit er unterschreiben kann; ein Konto gibt es nicht. Eine Zeile in einem privaten Buch zu streichen erzeugt keins von beiden. Einzelheiten in `doc/04-world.md` unter "Das Register". Das ist wichtig für seine Argumente: Er kann nie sagen, was ihn etwas kostet, sondern nur, dass er selbst die Sicherheit ist. Sein Satz in Kapitel 2: *"I'm what it costs. There's nothing else of mine anywhere in the world."*
 
 **Die Grenze seines Verfahrens: Namen ohne Gesichter.** Er hat vierhundertdreißig Namen und einundneunzig durchgearbeitete, mit Schulgeld, Gerichtsakten und Wohnungskäufen. Was Papier ihm nicht gibt, sind Gesichter. Von elf Kims sind zwei fotografiert, die übrigen neun haben ihr Leben in einem Geschäft verbracht, auf das niemand eine Kamera hält. Er steht acht Meter vor der Familie und kann keinen einzigen Namen auf ein Gesicht legen. Geschlossen wird das nur über den Mund eines anderen Menschen.
 
@@ -1196,6 +1196,12 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Was er ist:** exzellent, langsam auf die richtige Art, und vollstaendig korrekt. *"The offer had gone out on the Monday, in the careful and entirely correct way that Mr Chae did everything."* Er baut, was verlangt wird, in der Form, die haelt, und er baut es besser als noetig.
 
 **Und was mit ihm gemacht wird, und das ist sein ganzer Wert im Buch: Er wird systematisch nicht eingeweiht.** Annies stehende Anweisung, dreimal im Wortlaut: *"Build the bid with Mr Chae and do not let him see the reason for it"* (Kapitel 18), *"Mr Chae has the structure and he does not have the reason, and he is not going to get it"* (Kapitel 20), *"Mr Chae will not be told why and he will not enjoy it"* (Kapitel 24).
+
+**Sein Schluss steht in Kapitel 34, und er ist die einzige Waerme, die er sich erlaubt.** Am 1. Maerz holt er die Zweitschrift, an einem Sonntag, weil er die Frist ernster nimmt als sein Wochenende. Georgij fragt ihn nach den zwei Woertern, die er am 1. Dezember auf einen Block geschrieben und nicht gezeigt hat, und die Antwort lautet **"No fee"** - *"In twenty-three years of drawing instruments for that woman I had never written those two words on a pad, and I wanted to be able to find them again."* Der einzige Mensch, der ueber Georgij je etwas notiert hat, hat notiert, dass der Mann nichts bekommt.
+
+**Dazu die Einloesung seiner ersten Zeile:** *"this instrument is smaller than you think it is."* Sie wurde genau einmal benutzt, fuer eine Fristverlaengerung. *"I have never been that exactly right about one before and I did not enjoy it."*
+
+**Und er bleibt uneingeweiht bis zum Schluss.** Zum Umschlag mit dem Registerblatt sagt er nur *"That is not this instrument"* und *"Then I have not seen it"* - Einloesung seiner eigenen Warnung aus Kapitel 25, und dazu *"I am at home today. The number is the same one"*, was dort *"on a Sunday"* hiess.
 
 **Der letzte Halbsatz ist der Faden.** Er merkt es. Ein Mann, der ein Gebot fuer ein ganzes Unternehmen aufsetzt, das an einem Vorstand scheitern muss, den er selbst auf Seite sechzehn beschrieben hat - und der drei Wochen spaeter eine gedeckelte Vollmacht fuer einen Angestellten ohne Titel aufsetzen soll, mit Verfallsdatum und ohne Begruendung - **rechnet das zusammen.** Er ist nicht dumm, er ist nur nicht gefragt. Wann ihm das zu viel wird und was er dann tut, ist offen.
 
@@ -1474,6 +1480,28 @@ sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen de
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
 abnehmen laesst.
 
+**Und daraus folgt der Zustand, in dem Band 2 anfaengt: das Halsband ist ein
+Zeichen ohne Deckung.** Georgij sagt es in Kapitel 34 selbst - *"What is round my
+neck is a mark with nothing behind it. It goes on working for exactly as long as
+nobody looks in that book."* Wer ihn ansieht, liest Besitz und fasst ihn nicht an.
+Wer Zugang zum Buch hat und nachschlaegt, findet nichts und hat vor sich, was er
+auf der Bruecke selbst benannt hat: **einen Mann, der niemandem gehoert, also
+Ware.** Der Satz *"a man who belongs to nobody is stock"* ist der einzige der drei
+von der Bruecke, der die Streichung ueberlebt hat, und er zeigt jetzt auf ihn.
+
+**Was das praktisch heisst:** Der Schutz haelt gegen jeden, der nur hinsieht, und
+faellt gegen jeden, der zahlt und fragt. Das Haus verdient daran, dass Leute darin
+stehen, und es weiss jetzt, dass Annie fuer eine Streichung zahlt.
+
+**Und was sich NICHT geaendert hat, weil das Register kein staatliches ist:**
+Papiere hat er seit der zweiten Oktoberwoche, von ihrer Compliance geordnet, damit
+er unterschreiben kann (Kapitel 25). Ein Konto hat er nicht und hatte er nie -
+*"Because I do not have an account for one to go into"* (Kapitel 27). Die
+Streichung erzeugt weder das eine noch das andere. **Regel 2 aus `doc/02-leads.md`
+gilt am 1. Maerz unveraendert: er besitzt nichts.** Wer ihm zu Band 2 Geld, ein
+Konto oder eine Staatsangehoerigkeit gibt, muss es aus einer Szene holen und nicht
+aus der Streichung.
+
 ---
 
 ## Das Geschaeft
@@ -1698,7 +1726,12 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 74, Di 16. Dezember: Hanas Abend, sechs bis neun (Kapitel 29), ab neun die Terrasse (Kapitel 30)
 - Tag 80, Mo 22. Dezember: die Unterschriften bei Sung-ho (Kapitel 32)
 - Tag 87, Mo 29. Dezember: Sang-hoon kommt die Auffahrt herauf (Kapitel 33)
-- Tag 145, Mi 25. Februar: die leeren Wochen, erster Abschnitt von Kapitel 34
+- Tag 91, Fr 2. Januar: **Annie legt ihn still.** Nichts bis Maerz, kein Grund
+  genannt (Kapitel 34)
+- Tag 112, Fr 23. Januar: die einzige Ausfuehrung unter der Vollmacht, eine
+  Fristverlaengerung in Jung-gu, vier Minuten (Kapitel 34)
+- Tag 139, Do 19. Februar: **der Registereintrag wird gestrichen** (Kapitel 34)
+- Tag 145, Mi 25. Februar: die stillgelegten Wochen, zweiter Abschnitt von 34
 - Tag 149, So 1. Maerz: die Vollmacht laeuft um Mitternacht ab; Mr Chae holt die
   Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34)
 
@@ -1796,15 +1829,38 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 34** *Then take it off* (v1.8) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
+- **Kapitel 34** *Then take it off* (v1.8) - **Drei Abschnitte, und der Schluss von Band 1.**
+
+  **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
+
+  **Den Grund arbeitet er sich zehn Minuten spaeter auf der Treppe zurecht:** Strukturschutz, waehrend das Geld in drei Tranchen laeuft. Kompetent und falsch. *"In November he had been wrong about this woman twice in four days, on facts he was holding at the time. This one took ten weeks."*
+
+  **Tag 145, Mi 25. Februar. Die stillgelegten Wochen.** Er ist nicht beschaeftigungslos, er ist stillgelegt, und das ist etwas anderes. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar geflossen. **Zweimal bringt er ihr trotzdem etwas**, getarnt als Notiz zu etwas Offenem: beim ersten Mal dreht sie das Blatt um und sagt nie ein Wort dazu, beim zweiten kommt er nicht bis zum Ende des ersten Satzes. *"No," she said again, and she was not unkind about it, and that was the part he could not get past.* Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen.
+
+  **Die Vollmacht wird genau einmal benutzt:** eine Fristverlaengerung in Jung-gu am 23. Januar, vier Minuten, **weil er an dem Nachmittag der Einzige im Haus mit Zeichnungsbefugnis ist.** Kein Erwerb, Verwaltung. *"The signature came out the same as it had come out in December. He had one now, and this was the thing it turned out to be for."*
+
+  **Tag 149, So 1. Maerz. Mr Chae um zehn.** Die Vollmacht laeuft um Mitternacht ab. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Und Georgij rechnet ihm die eigene Fehlkalkulation vor: Auf der Bruecke hatte er **vier Raeume bis Februar** vorhergesagt und **zwei Unterschriften** darin. Es wurden vier Raeume - 8., 16., 22. und 29. Dezember - und **keine einzige Zeile.** *"Then you were right about the rooms."* Damit loest sich Chaes erster Satz vom 1. Dezember ein: *this instrument is smaller than you think it is.* Zum Umschlag sagt er nur *"That is not this instrument"* und *"I am at home today"*.
 
   **Dann fragt Annie, wie am 16. Dezember angekuendigt, und er antwortet mit einer Zahl**, weil das die einzige Einheit ist, die er fuer sich selbst hat. Sang-hoons Minute an der Tuer hat genau das gekauft.
 
-  **Der Eintrag ist gestrichen**, am 19. Februar, nach sechs Wochen und vier Terminen in dem Gebaeude. Annie nennt den Grund geschaeftlich: die Zeile war der letzte Weg, auf dem ihn ihr jemand haette abkaufen koennen. Damit ist **ihre eigene Bedingung aus Kapitel 24 erfuellt** - *"until that is dealt with"* -, und das Halsband kann ab.
+  **Der Eintrag ist gestrichen**, am 19. Februar, nach sechs Wochen und vier Terminen in dem Gebaeude, **und beim dritten Mal war es nicht das Geld.** Ihr Grund ist geschaeftlich: die Zeile war der letzte Weg, auf dem ihn ihr jemand haette abkaufen koennen.
 
-  **Er weigert sich.** Seine Begruendung von der Bruecke war taktisch und ist mit dem Eintrag weggefallen, und Annie hat es in dieser Reihenfolge getan, damit nur der zurueckgehaltene Grund uebrig bleibt: Wer ihr gehoert, muss verkauft werden, und das dauert Wochen und braucht einen Raum. Wer frei ist, wird an einem Dienstag im Flur weggeschickt. Die einzige Kontraktion des Kapitels steht an dieser Stelle: **"I'm afraid of Tuesdays."**
+  **Und hier wird der Januar eingeloest.** Georgij fragt danach, und sie rechnet es vor: Jeder Raum, aus dem er als Sieger kommt, legt etwas auf Sang-hoons Zahl, und sie wollte nicht viermal in diesem Gebaeude sein, waehrend er teurer wird. Verschwiegen hat sie es, **weil er die Differenz bepreist und einen Weg gefunden haette, nuetzlich zu sein, den sie von dort nicht sieht.** Die zweite Haelfte bleibt einen Spalt offen und niemand geht hindurch: *"Is that all of it." - "It is all of it that has a figure in it."*
 
-  Und die Umkehrung aus Kapitel 24: *"It is not what holds me and it never was. It is what holds you."* Danach **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
+  **Damit ist ihre Bedingung aus Kapitel 24 erfuellt** - *"until that is dealt with"* -, und das Halsband kann ab. **Er weigert sich.**
+
+  **Von den drei Saetzen der Bruecke ueberlebt einer, und das ist neu ab v1.8.** Zwei sind mit dem Eintrag weggefallen; *"a man who belongs to nobody is stock"* nicht, und er beschreibt jetzt ihn. **Das Halsband ist ein Zeichen ohne Deckung** - *"What is round my neck is a mark with nothing behind it. It goes on working for exactly as long as nobody looks in that book."* Annie bietet ihm das als Grund an, und **er nimmt ihn nicht**: *"Then keep it for that." - "It would hold." He did not take it. "It is not why."*
+
+  **Der zurueckgehaltene Grund steht im Konditional, weil alles andere unwahr waere:** *"Until the nineteenth of February, if you had finished with me, you would have had to sell me."* Preis, Raum, Zeugen, Wochen, und um den neunten Morgen herum haette sie vielleicht nicht mehr gewollt. *"And now." - "Now there is nothing to sell."* Die einzige Kontraktion des Kapitels steht davor: **"I'm afraid of Tuesdays."**
+
+  **Annie benennt es, und er gibt es zu:** *"You are describing being free," said Annie. - "I am describing how cheap it has become to be finished with me. ... Those are the same thing. I know that they are."* Seine Weigerung ist damit nicht unlogisch, sondern zugegeben unvernuenftig.
+
+  Dann die Umkehrung aus Kapitel 24 - *"It is not what holds me and it never was. It is what holds you."* - und **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
+
+  **Die vier Tuesdays liegen in einer Kette, und Annie legt das Wort hin.** Chae sagte in einer frueheren Fassung beilaeufig *"explain on Tuesday"* und hat es damit vor der Zahlung verbraucht; er sagt jetzt Montag, was ausserdem stimmt, weil die Vollmacht Sonntag um Mitternacht stirbt.
+
+  **Der Registereintrag zum Schluss, und die drei Dokumente.** *There is no column on that page for what a man is called. There has never been one, because a name is the one thing in the transaction that nobody on either side of it needs.* Die anderen beiden - die im Oktober geordneten Papiere und die Vollmacht - tragen seinen Namen und handeln davon, **was er tun darf**. Das Registerblatt war das einzige, das davon handelte, **was er ist**.
+
 - **Kapitel 33** *That is five* (v1.11) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.6) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
@@ -3158,6 +3214,32 @@ das Halsband bleibt auf seine Weigerung hin, und die Anrede bleibt auch. Damit i
 
 ---
 
+## Der Zustand am 1. Maerz
+
+**Bevor irgendetwas geplant wird, gehoert das hier gelesen.** Es sind die vier
+Tatsachen, aus denen Band 2 anfaengt, und drei davon sind neu.
+
+1. **Der Registereintrag ist gestrichen**, am 19. Februar. Georgij gehoert
+   niemandem. Es gibt kein Papier auf der Welt, das das Gegenteil sagt.
+2. **Das Halsband ist trotzdem dran, auf seine Weigerung hin**, und es ist damit
+   ein **Zeichen ohne Deckung**. Wer hinsieht, liest Besitz. Wer ins Buch sieht,
+   findet nichts. *"It goes on working for exactly as long as nobody looks in
+   that book."* Der einzige Satz von der Bruecke, der die Streichung ueberlebt
+   hat, ist *"a man who belongs to nobody is stock"*, und er zeigt jetzt auf ihn.
+3. **Er besitzt weiterhin nichts.** Papiere seit der zweiten Oktoberwoche, weil
+   ihre Compliance sie brauchte; kein Konto, kein Geld. Die Streichung erzeugt
+   davon nichts. Wer ihm etwas gibt, holt es aus einer Szene.
+4. **Die Vollmacht ist tot**, am 1. Maerz um Mitternacht, ohne Verlaengerungs-
+   klausel. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
+   Georgij hat in Kapitel 24 gesagt, dass er es tun wuerde: *"a date on it, after
+   which it is dead and I ask you again."* **Diese Bitte steht aus.**
+
+**Und die Lage zwischen den beiden ist offen und ungesichert.** Sie hat ihm
+angeboten, ihn freizulassen, er hat es abgelehnt, und beide wissen jetzt, dass es
+sie nichts mehr kostet, es zu beenden. Er hat es ihr selbst vorgerechnet.
+
+---
+
 ## Was Band 2 mitbekommt
 
 Nichts davon wird in 34 angefasst, und das ist Absicht.
@@ -4110,6 +4192,59 @@ der Bogen aus Kapitel 23, wo er es ihr entzogen hat.
 **Was fuer Band 2 aufgehoben wird:** Los elf und der Name des Garanten, Choi
 Dae-ho, die Pipeline, und Ye-rin, die von selbst zurueckkommt, sobald das Vetorecht
 beisst. Nichts davon wird in 34 angefasst.
+
+---
+
+## Kapitel 34 im Einzelnen, entschieden am 23.08.
+
+**Die leeren Wochen sind ein Befehl und keine Leere.** Erste Fassung liess
+Georgij zehn Wochen lang untaetig sein, weil nichts anlag. Das ist unglaubwuerdig:
+Ein Mann, dessen Arbeit das Arrangieren ist, sucht sich andere Ziele. **Annie
+untersagt es ihm am 2. Januar, in einem Satz, und nennt keinen Grund.**
+
+**Warum sie keinen nennt.** Sie haelt Gruende zurueck, das ist ihre Methode seit
+Kapitel 4 - *"I'd rather find out what you bring me when nobody has told you what
+to want."* Ein genannter Grund haette ihn rechnen lassen, und dann haette er im
+Maerz eine Antwort gehabt. Sie sagt es ihm erst am 1. Maerz, und dann vollstaendig.
+
+**Der Grund selbst ist geschaeftlich**, wie bei ihr immer: Jeder gewonnene Raum
+legt etwas auf Sang-hoons Zahl, und sie wollte nicht viermal in dem Gebaeude sein,
+waehrend er teurer wird. Verschwiegen hat sie es, weil er die Differenz bepreist
+und einen Weg gefunden haette, nuetzlich zu sein, den sie von dort nicht sieht.
+
+**Sein Irrtum ist der dritte und der laengste.** Er haelt es fuer Strukturschutz.
+Das ist kompetent und falsch, und im November hat er sich in derselben Frau
+zweimal in vier Tagen geirrt. Dieser dauert zehn Wochen.
+
+**Die Vollmacht wird genau einmal benutzt, und belanglos.** Verworfen wurde,
+sie gar nicht zu benutzen (dann fragt der Leser, wozu sie da war) und sie etwas
+anrichten zu lassen, das in Band 2 zurueckkommt. Eine Fristverlaengerung, vier
+Minuten, weil er der Einzige im Haus mit Zeichnungsbefugnis war, ist die bessere
+Pointe: Ein Recht, das man sich als Bezahlung fuer einen Bruch geben laesst, wird
+fuer Verwaltung verbraucht.
+
+**Und die Vorhersage dazu ist eingeloest.** Auf der Bruecke sagt er vier Raeume
+bis Februar voraus und zwei Unterschriften darin. Es wurden vier Raeume und keine
+Zeile. Er hat die Welt richtig gerechnet und sich selbst falsch, und er rechnet es
+Mr Chae vor, weil das kaelter ist, als es ihr zu sagen.
+
+**Er argumentiert nicht mehr im Praesens gegen einen Zustand, den es nicht mehr
+gibt.** Eine Fassung liess ihn sagen *"you have to sell me"*, vier Minuten nachdem
+sie das abgeschafft hatte. Jetzt steht die erste Haelfte im Konditional und mit
+ihrem Datum, und Annie benennt, was er beschreibt: *"You are describing being
+free."* Er gibt es zu. **Seine Weigerung ist zugegeben unvernuenftig, nicht
+unlogisch**, und das ist der Unterschied, an dem die Szene haengt.
+
+**Das Halsband ist ab jetzt ein Zeichen ohne Deckung, und er sagt es.** Damit
+waechst ihm ein taktischer Grund zurueck, und Annie bietet ihn ihm an. **Er nimmt
+ihn nicht** - *"It would hold." He did not take it. "It is not why."* Er versteckt
+sich nicht hinter einem verfuegbaren wahren Grund, und das ist dieselbe Bewegung
+wie in Kapitel 33, eine Stufe teurer.
+
+**Papiere und Konto: unveraendert.** Das Register ist das private Buch eines
+Auktionshauses. Eine gestrichene Zeile darin erzeugt keine Staatsangehoerigkeit
+und kein Konto. Papiere gibt es seit Oktober, weil ihre Compliance sie brauchte.
+**Regel 2 gilt am 1. Maerz unveraendert.**
 
 ---
 
