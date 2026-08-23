@@ -24,7 +24,8 @@ nicht diese Zeile von Hand.
 16. Something Is Drinking It
 17. Who Gets the Kill
 18. Somebody Has to Hold Him
-19. A Name for the Knife (planned)
+19. A Name for the Knife
+20. (planned) Marit leads, and he watches
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -445,6 +446,13 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   superior opponents, buys Rank E. It has happened twice on identical terms and
   is no longer a one-off. Do not let a third category appear by accident.
 
+- (ch19) NO MECHANICAL CHANGE AGAIN, two chapters running, and that is on
+  purpose. Nothing is killed, nothing is spent, the six points stay banked. The
+  chapter's whole content is economic and social, and the system sits it out.
+  THE FORK FROM ch17 IS NOW LIVE ON THE PAGE: he cannot afford the blade, so
+  Improvised Weapon Handling is the only skill he is actually advancing, and he
+  spends the chapter trying to get out of the thing he is good at.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -690,6 +698,63 @@ The chain of not writing it down breaks (ch18)
   behind, so the village's record will be hers. "Hallvard taught me to read this
   evening. You have been sitting next to me making noises."
 
+The book, and the first customer review (ch19)
+- NOBODY HAS ANYTHING TO WRITE ON, exactly as decided. Four people are asked and
+  give four kinds of nothing: the slate is wiped nightly, Solva's wax board is
+  needed for salt, parchment is in the Wold and costs money he has not got, and
+  Torv thinks a man who needs to remember a thing remembers it.
+  SO HE STEALS ELEVEN ROOFING SHINGLES and writes in charcoal. Split oak, thin
+  as a finger, stacked against every wall in the village because a roof eats
+  them. This rhymes with the rank he was issued the day before, and it should
+  never be pointed at.
+- THE DOCTRINE IS FIVE LINES and all five come off the page in ch15 to ch17.
+  Take it at a wall. Do not chase it. Believe the number over your own eyes.
+  Nobody goes in front alone. Feet before hands.
+- AND IT FAILS ITS FIRST TEST IN FOUR MINUTES, which is the point of the
+  chapter. THREE SEPARATE FINDINGS, in ascending order of how much they hurt:
+  (1) TORV CANNOT READ, and neither can seven of the nine. He wrote a product
+      in a format his users cannot consume, and reading it aloud turns it back
+      into a speech, and speeches do not survive him leaving the room.
+  (2) YLVA FINDS THE LOGICAL FAULT. Rule four says nobody goes in front alone
+      and he has gone in front alone every single time. "If a rule has you
+      outside it, it is not a rule. It is a favour you are doing us."
+  (3) BERN GIVES THE NOTE THAT MATTERS, from a bench, with one leg. The page
+      says how to win and has no word about what to do when it goes wrong, and
+      he did not know whether he was allowed to say stop. It goes on the front,
+      before all five, WITH HIS NAME ON IT.
+  Vidar's note is that the shingles go soft in the wet. Dull, correct, and
+  written on the back of Gaara's hand, because a product that dissolves in
+  autumn is not a product.
+
+The forge, and the first arrangement (ch19)
+- OLDSTEP HAS A FORGE AND NO SMITH. It was Rulf's, it has been cold nine years,
+  and Ylva stood at that bellows for twenty. He walked past the gate eleven
+  times, read the woman in front of it as a seven on day two, and never once
+  looked at what she was standing in front of.
+- SHE WILL NOT MAKE HIM A BLADE and says why in one line: she will say yes, it
+  will break in something's neck, and then he will be Bern. ORDULF IN THE WOLD
+  can, is not a good man, and wants four goats.
+- SO HE DOES NOT BUY ANYTHING. HE ARRANGES SOMETHING, and this is the chapter's
+  real event and the premise of the next stretch. A village forge is fed by a
+  village and a village has no steel; there is a city an hour up the hill with
+  eight hundred years of worked iron in it; the only two people alive who can
+  walk in and out are standing in that shed. He brings it out, she works it,
+  she keeps half, and the first thing off the anvil is his.
+  EVERYBODY ALREADY KNEW THE METAL WAS THERE. Ylva says so flatly, and adds
+  that it is why Rulf went the second time. Gaara has not discovered a
+  resource. He has discovered that he is the only supplier.
+  ORDULF WILL TAKE STOCK OVER COIN and hate himself for it. That is Ylva's
+  contribution and it is the part Gaara could not have known.
+- THE BAR GETS A NAME: BRICK. Eighteen inches of Hallvard's soft iron, borrowed
+  and never given back, and it is about to be melted into the tang of something
+  better. He names it BEFORE it goes, and that is the whole point. Blacky got a
+  farewell after the fact in ch2; the rusted knife never got one at all,
+  because he did not expect it to last. This time he does it first.
+- YLVA IS COMING WITH HIM, and she tells him at the anvil specifically so he
+  cannot be charming about it. Forty, behind that gate since she was twenty,
+  and a stranger told her a number about herself last week and she has not
+  slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
 The clock, corrected (ch17)
 - FOUR DAYS WAS THE FLOOR AND NOTHING HAPPENS AT THE FLOOR. Two days east and
   two back is walking time, and Gaara handed it over at midnight because it was
@@ -868,7 +933,9 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
    in ch3 at line 51 and [ TRANSLATION ACTIVE ] arrives at line 176 of the same
    chapter. He has not taken a coin out since. One sentence in a town settles
    it, and the intended answer is in section 7.
-9. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
+9. ADVANCED, ch19. Blacky got a name too late, the rusted knife never got one
+   because he did not expect it to last, and the wedge iron is now BRICK,
+   named before it goes into a forge rather than after it breaks.
 10. HE STOPS ASKING, ch17, and that is the move. He asked in ch13 with the
     flagstone up, made him say it twice on "liars decorate", got the same telling
     both times, and it was not an answer: a line cut in a floor, more crossings

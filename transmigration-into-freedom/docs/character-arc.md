@@ -196,6 +196,12 @@ the windlass and the ch17 Roofwalker, both taken with the same wedge iron. He no
 carries Dagger Mastery D and Improvised Weapon Handling E, and owns neither a
 dagger nor the bar.
 
+Chapter 19: no mechanical change, second chapter running. Nothing killed,
+nothing spent, six points still banked, both skills unchanged. Deliberate: two
+quiet chapters buy the ch20 grind and the ch21 riders. The system's only
+presence is the ch17 fork, which now bites, because he cannot afford the blade
+and so the only skill advancing is the one for not having a weapon.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

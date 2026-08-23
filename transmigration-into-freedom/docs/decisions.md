@@ -3,6 +3,36 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 19 is a product launch, not a shopping trip ===
+The plan said he pays for the blade with something other than money. The author
+then added the thing that made the chapter: HE NEEDS TEST USERS. Writing doctrine
+nobody has read is not a product, it is a diary.
+So the page gets handed to the crew and comes back in pieces, and the three
+findings are ordered by how much they cost him. Torv cannot read, which kills the
+format. Ylva finds the logical fault, which kills the authority. Bern, on one
+leg, finds the missing chapter, which is the only one that could not have been
+found by anybody else in the world.
+HE DOES NOT GET A BLADE, and that is better than getting one. He cannot afford
+it, Oldstep's smith has been dead nine years, and what he does instead is the
+thing he is actually for: he arranges. City metal out, Ylva works it, she keeps
+half, first piece is his.
+THE LINE THAT REFRAMES IT is Ylva's: everybody already knew the metal was there,
+and it is why Rulf went the second time. He has not found a resource. He has
+found out that he is the only supplier. That is the technological rule from
+section 3 acting on the plot rather than sitting in a document.
+
+=== Marit says no, and Sivert says two words ===
+Author's call, and it improves both. Marit is tired and finished with the world
+for that day, and refuses him before he is halfway through the sentence. It is
+the first refusal she has given him that is not about him, and he works that out
+in under a second and says so. Then he sits on the step and talks rubbish for an
+hour because she asks him to, which is worth more than the alternative scene.
+SIVERT COMES TO HIM, because Gaara's rule is that he asks once. Same trough as
+ch14, same hour before dawn, same initiative. He took a shingle away with him
+that he cannot read a word of. The answer is the one he already gave in ch16
+without giving it: ask me when I have two arms. Chapter ends on the line.
+
+
 === The wedge iron had earned a skill and I had not paid it ===
 The author caught it: if two kills with a short blade bought Dagger Mastery E in
 ch2, then two kills with the wedge iron buy something too, or the system is

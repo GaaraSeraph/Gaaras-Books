@@ -149,6 +149,26 @@ The six (ch14, blooded ch15)
   backwards down an avenue without turning round, as ordered. Ask said nothing.
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
+- (ch19) YLVA IS THE COMPANION and it is her decision, announced at her dead
+  husband's anvil so that Gaara cannot be charming about it. Rulf's forge has
+  been cold nine years; she stood at the bellows for twenty and can weld a
+  share, set a tyre and edge a scythe, and will not attempt a blade. She takes
+  half of everything he brings out of the city. She is a Level 8 who has never
+  been further than the Wold.
+- (ch19) BERN GIVES THE BEST NOTE IN THE BOOK from a bench with one leg: the
+  doctrine says how to win and nothing about when it goes wrong, and he did not
+  know whether he was allowed to say stop. It goes on the front of the page
+  with his name on it. He intends to be extremely annoying about that.
+- (ch19) TORV CANNOT READ, and neither can Ylva, Vidar, Bern, Ask or Sivert.
+  Two of nine can, and one is seventy and one is staying behind.
+- (ch19) MARIT REFUSES HIM, and it is the first no she has given him that has
+  nothing to do with him. A man lost a leg in her hands yesterday and she takes
+  six people back into that place next week without him. She asks him to sit
+  there and talk rubbish until she falls asleep, and he does, for an hour.
+- (ch19) SIVERT ANSWERS, four days early, with the strapping off, at the same
+  trough he came to in ch14 before anyone was awake. Gaara asks nothing,
+  because the rule is that he asks once. "Two arms," said Sivert. Handled the
+  ch13 way: the chapter ends on the line and nothing is shown.
 - (ch18) BERN LOSES THE LEG BELOW THE KNEE, and chooses it himself. Solva does
   it in six minutes with wine, fire and a wooden spoon. Gaara holds him and
   talks filth at him for the whole of it until he stops screaming and starts
