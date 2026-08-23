@@ -1,11 +1,11 @@
 # Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
 Two things ran out, a day apart, and they pulled in opposite directions.
 
-The sentence from the second of January ran out when March did, and March came in on the Sunday. He spent the Sunday on the floor beside a chair at a window, and it did not once occur to him that he was free to go and look at somebody.
+The sentence from the second of January ran out when March did, and March came in on the Sunday. He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody.
 
 The instrument died at midnight at the end of that same Sunday, on the date he had asked for himself.
 

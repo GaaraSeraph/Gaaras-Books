@@ -193,7 +193,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Annie benennt es, und er gibt es zu:** *"You are describing being free," said Annie. - "I am describing how cheap it has become to be finished with me. ... Those are the same thing. I know that they are."* Seine Weigerung ist damit nicht unlogisch, sondern zugegeben unvernuenftig.
 
-  Dann die Umkehrung aus Kapitel 24 - *"It is not what holds me and it never was. It is what holds you."* - und **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
+  Dann die Umkehrung aus Kapitel 24 - *"It is not what holds me and it never was. It is what holds you."* - und **"I will not stop calling you Mistress"**, ohne dass noch ein Papier es verlangt. **Das faellt, bevor sie sich bewegt.** Erst danach geht sie ans Fenster, stellt sich mit dem Ruecken zum Raum und sagt *"Come here."*, und **er geht auf dem Boden an ihren Beinen herunter** - sie steht dabei, es gibt keinen Stuhl. *"He went down onto the floor beside her ... and sat back on his heels with his shoulder against her leg."*
 
   **Die vier Tuesdays liegen in einer Kette, und Annie legt das Wort hin.** Chae sagte in einer frueheren Fassung beilaeufig *"explain on Tuesday"* und hat es damit vor der Zahlung verbraucht; er sagt jetzt Montag, was ausserdem stimmt, weil die Vollmacht Sonntag um Mitternacht stirbt.
 
@@ -416,9 +416,9 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.2) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.3) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
-  **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und den Sonntag hat er auf dem Boden neben ihrem Stuhl verbracht, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
+  **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und dessen Ende hat er auf dem Boden am Fenster verbracht, an ihren Beinen, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
 
   **Hier stand bis zum 23.08. "um dieselbe Mitternacht", und das war falsch.** Zwei Fristen mit verschiedenen Enden waren zu einer zusammengezogen, und dabei ging der beste Teil verloren: dass sein erster freier Arbeitstag ihr gehoert hat und er es nicht bemerkt hat.
 
