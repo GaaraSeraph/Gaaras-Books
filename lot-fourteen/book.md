@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.796 Woerter.
+33 Kapitel. 96.772 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.8 | 3.270 |
+| 33 | v1.9 | 3.246 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10374,15 +10374,15 @@ Park Sang-hoon sat entirely still with one hand on each knee for what Georgij co
 
 Somewhere in the fifth of them, Georgij began to smile.
 
-It was not one of the ones he owned. Those are kept somewhere and brought out, and every one of them has a job.
+He noticed it the way you notice that it has started raining. It was in the face before it was anywhere else, and then it went on arriving after it should have been finished.
 
-This was the other kind. It had happened twice in seventeen years, and both times there had been one other person in the room and she had known everything already. Neither time had it been in front of the man it was about.
+He had no name for this one.
 
-He did not put it there and he could not have stopped it, and he made no attempt to.
+Annie was behind him and could not see his face and would not need to, and he did not stop.
 
 ---
 
-Then he laughed.
+Then Park Sang-hoon laughed.
 
 It was one syllable and it was not a pleasant sound and it was completely genuine, and it was the first thing that man had done in three months that had not been decided in advance.
 

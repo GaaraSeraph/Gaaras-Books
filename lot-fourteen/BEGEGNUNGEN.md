@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 291 | 29 (01-33) | 1 | 74 |
+| Annie | 292 | 29 (01-33) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
 | Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
-| Park Sang-hoon | 84 | 15 (10-33) | 7 | 74 |
+| Park Sang-hoon | 85 | 15 (10-33) | 7 | 74 |
 | Jang | 61 | 13 (05-33) | 4 | 55 |
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
 | Kim Ye-rin | 43 | 10 (14-33) | 5 | 74 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-291 Nennungen in 29 Kapiteln.
+292 Nennungen in 29 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -335,6 +335,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:52 | Annie did not move. |
 | 7 | ch33:66 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
 | 7 | ch33:80 | Annie did not answer him and she did not stop him. |
+| 7 | ch33:156 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
 | 7 | ch33:220 | "Your offer," said Annie. |
 | 7 | ch33:228 | Annie's answer took five words. |
 | 7 | ch33:238 | "I know," said Annie. |
@@ -853,7 +854,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-84 Nennungen in 15 Kapiteln.
+85 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -934,6 +935,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:120 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
 | 7 | ch33:130 | "Then spend it," said Park Sang-hoon. |
 | 7 | ch33:148 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
+| 7 | ch33:160 | Then Park Sang-hoon laughed. |
 | 7 | ch33:174 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
 | 7 | ch33:186 | "And in that quarter," said Sang-hoon. |
 | 7 | ch33:204 | Sang-hoon looked at him for some time. |
