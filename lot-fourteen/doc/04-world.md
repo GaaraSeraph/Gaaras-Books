@@ -174,7 +174,11 @@ Georgij kennt die elf öffentlichen Verträge und, nützlicher, die Meldungen ih
 
 **Und jetzt der Teil, der den Deal aufhören lässt, zu gut zu sein.**
 
-**Die Konkurrenten, konkret benannt.** Vier weitere Gruppen kommen auf denselben zwei Fahrwassern und denselben Zulassungen herein, weil es keine anderen gibt. Hyeonjin nimmt etwa ein Fünftel einer Lane. Die Yun-Gruppe in Ulsan nimmt mehr und hat sonst nichts. Zwei kleinere teilen sich den Rest.
+**Die Konkurrenten, konkret benannt.** Vier weitere Gruppen kommen auf denselben zwei Fahrwassern und denselben Zulassungen herein, weil es keine anderen gibt. **Kyeongil** nimmt etwa ein Fünftel einer Lane. Die **Nam**-Gruppe in Ulsan nimmt mehr und hat sonst nichts. Zwei kleinere teilen sich den Rest.
+
+**Umbenannt am 23.08., in Kapitel 15 und 18 und hier.** Vorher hiessen sie *Hyeonjin* und *Yun*. Beides waren Kollisionen: *Hyeonjin* gegen **Hye-jin**, und *Yun* gleich dreifach gegen **Kim Do-yun** und gegen den Kuechenjungen **Yun** aus Kapitel 34, der seit Januar im Haus ist. Die Gruppennamen waren von den dreien die entbehrlichen. **Kyeongil** und **Nam** teilen keine Silbe mit irgendeiner Figur des Buches.
+
+**Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/07-next.md`.
 
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 

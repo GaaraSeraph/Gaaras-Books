@@ -23,7 +23,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 12 | v1.7 | 2.350 |
 | 13 | v2.5 | 2.834 |
 | 14 | v7.6 | 2.599 |
-| 15 | v2.6 | 4.208 |
+| 15 | v2.7 | 4.208 |
 | 16 | v1.16 | 3.278 |
 | 17 | v12.10 | 2.709 |
 | 18 | v2.6 | 2.980 |
@@ -4105,7 +4105,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4413,7 +4413,7 @@ Hana put her glass down.
 
 He let that stand for a moment before he filled it in.
 
-"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Hyeonjin takes about a fifth of one lane. The Yun operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He did not look away from her. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
+"Four other groups in your business come in on those same two lanes, on those same permits, because there are no others. I have their filings. Kyeongil takes about a fifth of one lane. The Nam operation at Ulsan takes more than that and has nothing else. Two smaller ones split what is left." He did not look away from her. "A veto over routes decides which container goes on which sailing when a sailing is full, and sailings on those lanes are full nine months of the year."
 
 Hana had stopped moving.
 

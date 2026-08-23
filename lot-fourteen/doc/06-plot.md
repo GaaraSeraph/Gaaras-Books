@@ -100,7 +100,7 @@ Der Kragen sitzt. Die Fernbedienung ist in ihrer Clutch, und beide wissen es den
 **[KORRIGIERT] Ablauf, wie er tatsächlich geschrieben wurde.** Die Reihenfolge im alten Plan stimmt an drei Stellen nicht:
 
 1. Ankunft, achtzehn Sekunden vom Wagen zur Tür, Chairman Woo nach neunzig Sekunden, Mrs Ryu, Mrs Sunwoo bei zehn Minuten, Mr Hong bei zwölf mit der Ausbildungsfrage und den drei Namen. Loslassen bei fünfzehn.
-2. Das Glas, Yun-seo an der Bar, die zwei Direktoren über Busan, die Frau in Dunkelrot, Woos Prüfung vor Publikum, die Versteigerung.
+2. Das Glas, die Frau von der Stiftung an der Bar, die zwei Direktoren über Busan, die Frau in Dunkelrot, Woos Prüfung vor Publikum, die Versteigerung.
 3. Hana ab Viertel nach zehn, die Terrasse mit Min-ho, Kang innen an den Türen, die neun Kims, die dreifache Frage, der Handkuss, der Ausrutscher.
 4. Woo und die Bitte um Freitag, Kang und der zweite Griff, der Blickwechsel zwischen den beiden Frauen, Sang-hoon an Tisch zwei.
 5. Die Heimfahrt und die vollständige Offenlegung.

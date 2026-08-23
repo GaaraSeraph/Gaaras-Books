@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 79.435 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 79.567 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1555,7 +1555,11 @@ Georgij kennt die elf öffentlichen Verträge und, nützlicher, die Meldungen ih
 
 **Und jetzt der Teil, der den Deal aufhören lässt, zu gut zu sein.**
 
-**Die Konkurrenten, konkret benannt.** Vier weitere Gruppen kommen auf denselben zwei Fahrwassern und denselben Zulassungen herein, weil es keine anderen gibt. Hyeonjin nimmt etwa ein Fünftel einer Lane. Die Yun-Gruppe in Ulsan nimmt mehr und hat sonst nichts. Zwei kleinere teilen sich den Rest.
+**Die Konkurrenten, konkret benannt.** Vier weitere Gruppen kommen auf denselben zwei Fahrwassern und denselben Zulassungen herein, weil es keine anderen gibt. **Kyeongil** nimmt etwa ein Fünftel einer Lane. Die **Nam**-Gruppe in Ulsan nimmt mehr und hat sonst nichts. Zwei kleinere teilen sich den Rest.
+
+**Umbenannt am 23.08., in Kapitel 15 und 18 und hier.** Vorher hiessen sie *Hyeonjin* und *Yun*. Beides waren Kollisionen: *Hyeonjin* gegen **Hye-jin**, und *Yun* gleich dreifach gegen **Kim Do-yun** und gegen den Kuechenjungen **Yun** aus Kapitel 34, der seit Januar im Haus ist. Die Gruppennamen waren von den dreien die entbehrlichen. **Kyeongil** und **Nam** teilen keine Silbe mit irgendeiner Figur des Buches.
+
+**Und ab Band 2 sind das keine Randnotizen mehr.** Die Nam-Gruppe hat *sonst nichts*, und genau das macht sie zum Mittelstueck: Wer nur eine Lane hat, macht keine Triage, sondern Verzweiflung. Naeheres in `doc/07-next.md`.
 
 **Was ein Vetorecht über Routen praktisch bedeutet:** Es ist kein Papier über Eigentum. Es entscheidet, welcher Container auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll.
 
@@ -2013,7 +2017,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 **Warum diese zwei Silben, und das ist eine Sperrliste fuer alles Weitere.** Gewaehlt gegen die im Buch belegten Silben: **Ji-** ist doppelt vergeben (Ji-won, Ji-hoon), ebenso **Eun-** (Eun-ju), **Min-** (Min-ho), **Seo** (Mrs Seo) und **Tae-** (Tae-min). Alles auf **-won** verbietet sich neben den Won-Betraegen, und Jae-won gibt es ausserdem schon. Und er klingt bewusst **nicht** nach *Annie*, weil Annie eine Erfindung ist und keine Uebersetzung.
 
-**Offene Kollision, gefunden am 23.08.:** In Kapitel 15 heisst eine der vier Konkurrenzgruppen **Hyeonjin** - *"Hyeonjin takes about a fifth of one lane."* Das ist nah. Entschaerft wird es dadurch, dass Hye-jin genau einmal kursiv in einem Kopf steht und Hyeonjin einmal in einer Firmenaufzaehlung. **Wenn es stoert, ist die Firma zu aendern und nicht sie**, weil ihr Name begruendet ist und die Firma einmal vorkommt.
+**Kollision, gefunden und behoben am 23.08.:** In Kapitel 15 und 18 hiess eine der vier Konkurrenzgruppen **Hyeonjin**, was neben **Hye-jin** stand, und eine zweite **Yun**, was neben **Kim Do-yun** und dem Kuechenjungen **Yun** aus Kapitel 34 stand. **Geaendert wurden die Firmen und nicht die Menschen**, weil beide Personennamen begruendet sind und die Firmen je zweimal vorkommen. Sie heissen jetzt **Kyeongil** und **Nam**; die zwei Stellen sind Kapitel 15 (v2.7) und Kapitel 18 (v1.1). **Der Name Yun gehoert ab jetzt genau einem Menschen im Buch**, dem Jungen, und Do-yun steht immer mit beiden Silben da.
 
 **Der Familienname ist weiterhin nicht vergeben, und das ist Absicht.** Sie hat im ganzen Buch keinen, an keiner Stelle - *"It is on nothing."* **Annie ist damit die einzige Figur ohne vollstaendigen koreanischen Namen.**
 
@@ -2063,7 +2067,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 **Wem der Routen-Satz gehoert, festgeschrieben am 23.08.** Er wandert durch sechs Kapitel und die Herkunft war in einem davon falsch.
 
-- **Kapitel 15, Tag 41:** **Georgij** sagt die Mechanik zuerst, an Annies Tisch mit Hana dabei, und ausfuehrlicher als Woo sie je sagen wird - vier Gruppen auf denselben zwei Lanes, Hyeonjin, die Yun-Operation, *"you would be the group whose cargo was already loaded, and somebody else would do the explaining"*. Er sagt es **als Grund, es zu tun**.
+- **Kapitel 15, Tag 41:** **Georgij** sagt die Mechanik zuerst, an Annies Tisch mit Hana dabei, und ausfuehrlicher als Woo sie je sagen wird - vier Gruppen auf denselben zwei Lanes, Kyeongil, die Nam-Operation, *"you would be the group whose cargo was already loaded, and somebody else would do the explaining"*. Er sagt es **als Grund, es zu tun**.
 - **Kapitel 19, Tag 48:** **Woo** sagt fast denselben Satz und haengt an, was Georgij nicht danebengelegt hatte: *"so that the woman who owns you ends up with her hand on the throat of everybody else in this trade."*
 - **Kapitel 20** stand bis zum 23.08. auf *"He told me what that is"* und schrieb damit Woo die Mechanik zu, die Georgij eine Woche vorher **vor Annie** vorgetragen hatte. Sie war im Raum, sie haette es gewusst. Jetzt: *"He told me what it makes you"*, und Georgij sagt von sich aus dazu, wo er den Satz zuerst benutzt hat und wofuer. **Damit traegt Annies Schweigen danach etwas**, statt nur dazustehen.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
@@ -2073,14 +2077,14 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 18** *On account* (v2.6) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.10) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
-- **Kapitel 15** *Four thousand two hundred* (v2.6) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
+- **Kapitel 15** *Four thousand two hundred* (v2.7) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.6) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
 - **Kapitel 12** *You are better when you don't know* (v1.7) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.8) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
-- **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, Yun-seo, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
+- **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.5) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.6) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.10) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
@@ -2658,7 +2662,7 @@ Der Kragen sitzt. Die Fernbedienung ist in ihrer Clutch, und beide wissen es den
 **[KORRIGIERT] Ablauf, wie er tatsächlich geschrieben wurde.** Die Reihenfolge im alten Plan stimmt an drei Stellen nicht:
 
 1. Ankunft, achtzehn Sekunden vom Wagen zur Tür, Chairman Woo nach neunzig Sekunden, Mrs Ryu, Mrs Sunwoo bei zehn Minuten, Mr Hong bei zwölf mit der Ausbildungsfrage und den drei Namen. Loslassen bei fünfzehn.
-2. Das Glas, Yun-seo an der Bar, die zwei Direktoren über Busan, die Frau in Dunkelrot, Woos Prüfung vor Publikum, die Versteigerung.
+2. Das Glas, die Frau von der Stiftung an der Bar, die zwei Direktoren über Busan, die Frau in Dunkelrot, Woos Prüfung vor Publikum, die Versteigerung.
 3. Hana ab Viertel nach zehn, die Terrasse mit Min-ho, Kang innen an den Türen, die neun Kims, die dreifache Frage, der Handkuss, der Ausrutscher.
 4. Woo und die Bitte um Freitag, Kang und der zweite Griff, der Blickwechsel zwischen den beiden Frauen, Sang-hoon an Tisch zwei.
 5. Die Heimfahrt und die vollständige Offenlegung.
