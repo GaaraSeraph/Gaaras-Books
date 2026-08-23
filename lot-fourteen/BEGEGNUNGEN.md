@@ -30,8 +30,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Nam Byung-hee | 27 | 9 (b2ch03-b2ch20) | 1 | 56 |
 | Mr Kwon | 26 | 3 (b2ch14-b2ch19) | 4 | 11 |
+| Mr Hwang | 23 | 3 (b2ch07-b2ch21) | 3 | 15 |
 | Mrs Sunwoo | 23 | 11 (b1ch07-b2ch20) | 1 | 60 |
-| Mr Hwang | 21 | 3 (b2ch07-b2ch21) | 3 | 15 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 20 | 14 (b1ch05-b2ch20) | 3 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
@@ -1864,6 +1864,53 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Hwang
+
+23 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
+| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
+| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
+| 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
+| 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
+| 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
+| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:122 | Mr Hwang did not answer. |
+| 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 15 | b2ch21:170 | "And the page that did that," said Mr Hwang. |
+| 15 | b2ch21:176 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 15 | b2ch21:192 | "Lot fourteen," said Mr Hwang. |
+| 15 | b2ch21:204 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 15 | b2ch21:224 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 15 | b2ch21:242 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 15 | b2ch21:256 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 15 | b2ch21:274 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 15 | b2ch21:288 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 15 | b2ch21:308 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 15 | b2ch21:318 | "Mr Hwang." |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:262` (Tag 3) - one
+- `b2ch21:20` (Tag 15) - three
+- `b2ch21:66` (Tag 15) - three
+- `b2ch21:76` (Tag 15) - five, three
+- `b2ch21:158` (Tag 15) - eight, one
+- `b2ch21:176` (Tag 15) - one
+- `b2ch21:192` (Tag 15) - fourteen
+- `b2ch21:204` (Tag 15) - three
+- `b2ch21:256` (Tag 15) - twenty
+- `b2ch21:288` (Tag 15) - fifteen
+- `b2ch21:308` (Tag 15) - five, four, twenty
+
+---
+
 ## Mrs Sunwoo
 
 23 Nennungen in 11 Kapiteln.
@@ -1910,49 +1957,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch16:12` (Tag 6) - twenty
 - `b2ch19:32` (Tag 11) - three
 - `b2ch20:34` (Tag 11) - three
-
----
-
-## Mr Hwang
-
-21 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
-| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
-| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
-| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
-| 15 | b2ch21:78 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:90 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
-| 15 | b2ch21:104 | Mr Hwang did not answer. |
-| 15 | b2ch21:116 | Mr Hwang picked the list up again and then put it down without looking at it. |
-| 15 | b2ch21:140 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
-| 15 | b2ch21:152 | "And the page that did that," said Mr Hwang. |
-| 15 | b2ch21:158 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
-| 15 | b2ch21:174 | "Lot fourteen," said Mr Hwang. |
-| 15 | b2ch21:186 | Mr Hwang looked at the floor of a room with three crates in it. |
-| 15 | b2ch21:206 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
-| 15 | b2ch21:224 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
-| 15 | b2ch21:238 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
-| 15 | b2ch21:256 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
-| 15 | b2ch21:270 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
-| 15 | b2ch21:290 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
-| 15 | b2ch21:300 | "Mr Hwang." |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:262` (Tag 3) - one
-- `b2ch21:20` (Tag 15) - three
-- `b2ch21:140` (Tag 15) - eight, one
-- `b2ch21:158` (Tag 15) - one
-- `b2ch21:174` (Tag 15) - fourteen
-- `b2ch21:186` (Tag 15) - three
-- `b2ch21:238` (Tag 15) - twenty
-- `b2ch21:270` (Tag 15) - fifteen
-- `b2ch21:290` (Tag 15) - five, three, twenty
 
 ---
 

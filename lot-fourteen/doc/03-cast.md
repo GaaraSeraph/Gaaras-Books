@@ -252,28 +252,25 @@ it. He would not know how. He made it findable because findable is correct."*
 haerter als Mrs Jeons.** Am 23.08. vom Autor korrigiert, gegen meine erste
 Fassung, in der Hwangs Haltung als unangreifbar galt.
 
-**Er hat drei bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
-Er hat es in der zweiten Dezemberwoche in den Settlement-Buechern gefunden, in
-etwa einer Stunde. **Drei Gebuehren ueber vier Jahre. Die vierte Zeile auf der
-Seite ist nie in Rechnung gestellt worden und ist etwas anderes** - Hwang sagt
-das in Kapitel 21 von sich aus und bestaetigt damit Mrs Jeon aus Kapitel 7
-unabhaengig: *"That it was not a customer."*
-
-Er hatte drei saubere Wege: **erfuellen, erstatten, oder es den dreien sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
+**Er hat vier bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
+Er hat es in der zweiten Dezemberwoche in den Buechern gefunden, in etwa einer
+Stunde. **Vier Gebuehren ueber vier Jahre: Annie zweimal, Mrs Sunwoo, und ein
+Mann.** Er hatte drei saubere Wege: **erfuellen, erstatten, oder es den vieren
+sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
 Eintrag behalten**, was genau die Position der Maenner vor ihm ist.
 
 **Und seine Begruendung verwechselt eine Betriebsregel mit einem Prinzip.** Die
 Regel, fuer die er geholt wurde, lautet: **dieses Haus verkauft keine
 Loeschungen.** Das ist eine Regel darueber, wofuer man ab morgen Geld annimmt.
 Sie sagt nichts ueber vier Leute, die letztes Jahr bezahlt und nichts bekommen
-haben. Georgij, Kapitel 21: *"You did not decline to delete three entries. You
-declined to give three people back a thing they had already bought, and you
+haben. Georgij, Kapitel 21: *"You did not decline to delete four entries. You
+declined to give four people back a thing they had already bought, and you
 called that a principle."* Und: **"You have not been running a clean house for
 five months. You have been running the same house tidily."**
 
 **Damit ist er keine tragische Unschuld mehr, sondern ein kompetenter Mann mit
 einem Kategorienfehler**, der ihn fuenf Monate lang hat der Ehrliche sein lassen
-und drei Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
+und vier Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
 
 **Und er gibt in zwanzig Sekunden den Namen seines Vorgaengers her**, den er
 fuenf Monate lang nicht hergegeben haette, und benennt selbst, was das ueber ihn

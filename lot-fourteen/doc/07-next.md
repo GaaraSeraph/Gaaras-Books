@@ -738,8 +738,8 @@ Fassung.**
   tut es **fuer jemanden.**
 
 - **DER VORGAENGER. Neu und offen, gesetzt in Band 2, Kapitel 21.** Name,
-  Position, die Daten der drei Gebuehren und die heutige Anschrift, in Hwangs
-  Handschrift auf einem abgerissenen Streifen. **Er hat die drei Loeschungen
+  Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
+  Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
   verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
   Das ist der Mann, der Annie viermal betrogen hat, und er ist erreichbar.
 
