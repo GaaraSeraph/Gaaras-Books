@@ -520,6 +520,44 @@ Apfel ist es die Laenge, beim Laecheln die Geschwindigkeit.
 in which", "let that sit exactly as long as it needed", "turned his hand over".
 Zweimal pro Kapitel ist die Grenze, und ueber vier Kapitel hinweg faellt es auf.
 
+**Und genau das war eingetreten, gemessen am 23.08. mit `--echoes`, nachdem der
+Text fertig war.** Die Regel stand seit Monaten da und niemand hatte gezaehlt:
+
+| Formel | vorher | jetzt |
+|---|---|---|
+| *turned his/her hand over* | **15 Kapitel**, 20 Stellen | 6 Kapitel |
+| *He kept his hands where they were* | 7 | 2 |
+| *did not look away* (zwei Fassungen) | 6 Kapitel, 8 Stellen | 2 |
+| *The room went on being a room* | 5 | 2 |
+
+**Zwei Funde dabei waren schwerer als die Zahlen.**
+
+**Erstens: die Handbewegung wird zweimal als neu eingefuehrt.** Kapitel 1 sagt
+*"an old and elegant little gesture"*, Kapitel 11 sagt *"an old gesture and a small
+one"*. Das ist derselbe Fehler wie beim ungebauten Laecheln, eine Ueberschrift
+weiter oben beschrieben, und er stand hier vier Monate unbemerkt daneben. Kapitel
+11 sagt jetzt *"smaller than he had done it in a car on the first night"*, also
+aendert sich etwas daran statt es zu wiederholen.
+
+**Zweitens: die Geste gehoert Georgij, und zwei andere Figuren hatten sie.** Hana
+in Kapitel 21 und Annie in Kapitel 34. Ein Tell, das drei Leute haben, ist keins.
+Beide gestrichen.
+
+**Wie ersetzt wurde, und warum meistens gar nicht.** Der haeufigste Fall war ein
+Beat mitten in einer Rede, direkt nach einer kurzen Frage des anderen. Dort war der
+Sprecher ohnehin eindeutig, der Beat also reine Fuellung, und die beiden
+Redehaelften wurden zu einer zusammengezogen. Ein eigener Beat kam nur dorthin, wo
+die Rede lang genug fuer eine Zaesur war, und dann aus der Szene: das Kinn nach dem
+Stift, den Annie hingelegt hat, ein Mann, der sich nicht gesetzt hat.
+
+**Was ausdruecklich stehen bleibt: *He kept his chin level*, sechs Kapitel.** Das
+ist keine Formel, das ist eine Anweisung. Der Schneider gibt sie ihm in Kapitel 5
+im Wortlaut: *"You'll want to keep your chin level. Not up. Level. Men lift the
+chin when there's something at the throat and then everybody looks at the throat."*
+Sechs Wiederholungen sind die Anweisung, die wirkt. **Wer das beim naechsten
+Zaehldurchgang mit abraeumt, streicht den einzigen Beleg dafuer, dass Georgij eine
+Lehre angenommen hat, die ihn nichts gekostet hat.**
+
 ### Der Bericht ist kein Duell
 
 Wenn Georgij meldet, sagt er, was war, und sie nimmt es oder stellt eine Frage.

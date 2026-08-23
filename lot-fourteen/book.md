@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.742 Woerter.
+34 Kapitel. 99.639 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -13,36 +13,36 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 02 | v11.7 | 3.167 |
 | 03 | v2.7 | 3.374 |
 | 04 | v1.9 | 2.443 |
-| 05 | v5.9 | 4.332 |
+| 05 | v5.10 | 4.327 |
 | 06 | v1.6 | 2.069 |
 | 07 | v6.4 | 3.856 |
 | 08 | v3.5 | 2.677 |
 | 09 | v3.3 | 3.119 |
 | 10 | v2.4 | 2.983 |
-| 11 | v2.7 | 2.724 |
+| 11 | v2.8 | 2.730 |
 | 12 | v1.7 | 2.350 |
-| 13 | v2.4 | 2.828 |
-| 14 | v7.5 | 2.604 |
-| 15 | v2.5 | 4.232 |
+| 13 | v2.5 | 2.834 |
+| 14 | v7.6 | 2.599 |
+| 15 | v2.6 | 4.208 |
 | 16 | v1.16 | 3.278 |
-| 17 | v12.9 | 2.714 |
-| 18 | v2.5 | 2.991 |
-| 19 | v1.8 | 3.215 |
-| 20 | v1.2 | 2.062 |
-| 21 | v1.5 | 4.089 |
+| 17 | v12.10 | 2.709 |
+| 18 | v2.6 | 2.980 |
+| 19 | v1.9 | 3.210 |
+| 20 | v1.3 | 2.050 |
+| 21 | v1.6 | 4.079 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.5 | 2.653 |
 | 24 | v1.4 | 2.653 |
 | 25 | v1.1 | 2.547 |
-| 26 | v1.2 | 2.416 |
-| 27 | v3.1 | 3.107 |
-| 28 | v1.1 | 2.687 |
-| 29 | v1.2 | 2.007 |
-| 30 | v1.6 | 3.529 |
-| 31 | v1.4 | 3.254 |
+| 26 | v1.3 | 2.420 |
+| 27 | v3.2 | 3.102 |
+| 28 | v1.2 | 2.675 |
+| 29 | v1.3 | 1.993 |
+| 30 | v1.7 | 3.524 |
+| 31 | v1.5 | 3.249 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.9 | 3.246 |
-| 34 | v1.0 | 2.970 |
+| 34 | v1.1 | 2.969 |
 
 ---
 
@@ -1141,7 +1141,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.9 · EN
+*Lot Fourteen* · Version 5.10 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1243,7 +1243,7 @@ Then he said the two things he had not put on paper.
 
 Jang's chin came up half a centimetre.
 
-"They're hers. She drew them and she uses one of them. If you want them, ask her, and she'll tell you or she won't, and either way it will be her answer." He turned his hand over. "It's the only thing I'm holding back, and I've told you that I'm holding it back."
+"They're hers. She drew them and she uses one of them. If you want them, ask her, and she'll tell you or she won't, and either way it will be her answer. It's the only thing I'm holding back, and I've told you that I'm holding it back."
 
 "And the second thing?"
 
@@ -3023,7 +3023,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -3277,7 +3277,7 @@ Annie looked at him.
 
 "That's it?"
 
-"You asked me to say it and I've said it. Whether you give it to me is yours." He turned his hand over, an old gesture and a small one. "I'd take it. I think it would save me a fortnight. But I've watched you decline to answer four times now and I've stopped thinking the not answering is laziness."
+"You asked me to say it and I've said it. Whether you give it to me is yours." He turned his hand over, smaller than he had done it in a car on the first night. "I'd take it. I think it would save me a fortnight. But I've watched you decline to answer four times now and I've stopped thinking the not answering is laziness."
 
 The car slowed for the turn.
 
@@ -3599,7 +3599,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 ---
 
 # Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3759,7 +3759,7 @@ He did not lean forward. He did not put his glass down. He asked the next questi
 
 "Hm?"
 
-"When it turned. When the fourteen months became six weeks. Somebody sat down with you." Georgij turned his hand over. "That's the part I actually want, Chairman, and it's the part nobody ever writes down. Who was in the room."
+"When it turned. When the fourteen months became six weeks. Somebody sat down with you." Georgij had not moved since he asked it the first time. "That's the part I actually want, Chairman, and it's the part nobody ever writes down. Who was in the room."
 
 Chairman Woo looked at him for a moment.
 
@@ -3872,7 +3872,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.5 · EN
+*Lot Fourteen* · Version 7.6 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -4006,7 +4006,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "You have read my contracts."
 
-"I have read the eleven that are public, and I have read what your customers file, which is more useful. A man tells you a great deal more about his supplier when he is explaining himself to his own shareholders." He did not look away. "If that company goes to Park Sang-hoon, then in eighteen months a man who has spent this year buying his competitors decides what arrives at your plants and on which Tuesday. He would tell you, politely, once a quarter, what it costs that year."
+"I have read the eleven that are public, and I have read what your customers file, which is more useful. A man tells you a great deal more about his supplier when he is explaining himself to his own shareholders. If that company goes to Park Sang-hoon, then in eighteen months a man who has spent this year buying his competitors decides what arrives at your plants and on which Tuesday. He would tell you, politely, once a quarter, what it costs that year."
 
 "Yes," said Annie.
 
@@ -4105,7 +4105,7 @@ Annie looked at him for a moment.
 ---
 
 # Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4141,7 +4141,7 @@ He gave them the room first, because the room was what they did not have.
 
 The Kims first, with names on the faces, because that was the piece that had been missing since the gala. Kim Ye-rin, fifty-four, no seat and no signature and no title, and in sixteen frames out of twenty-three standing where she could see the doors.
 
-"I can show you why I think it. I cannot prove one word of it," he said. "There are seventeen frames in which somebody says something and looks at her in the middle of the sentence before going on. Two different people, four years apart, neither of them aware they are doing it." He turned his hand over. "None of that proves anything, and it is all I have."
+"I can show you why I think it. I cannot prove one word of it," he said. "There are seventeen frames in which somebody says something and looks at her in the middle of the sentence before going on. Two different people, four years apart, neither of them aware they are doing it. None of that proves anything, and it is all I have."
 
 Hana laughed out loud.
 
@@ -4259,7 +4259,7 @@ Annie did not look at either of them.
 
 He put it down plainly, because there was no way to put it down otherwise.
 
-"I read him as the weak one at the gala. He is not the weak one. He was working that ballroom while I watched him and I mistook it for nerves, and I found out from a photograph taken for somebody else." He turned his hand over. "You are both getting that from me tonight instead of in six weeks, when it would cost something."
+"I read him as the weak one at the gala. He is not the weak one. He was working that ballroom while I watched him and I mistook it for nerves, and I found out from a photograph taken for somebody else. You are both getting that from me tonight instead of in six weeks, when it would cost something."
 
 Annie did not say anything.
 
@@ -4314,8 +4314,6 @@ There was about a second and a half in which Georgij could have said several thi
 "It's the night I was bought," he said.
 
 ---
-
-The room went on being a room.
 
 Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went along a passage.
 
@@ -4407,7 +4405,7 @@ Hana put her glass down.
 
 "Go on."
 
-"There is a second half to that veto, and we have spent this evening calling it safety." He kept his hands where they were. "If you hold the routes through Incheon, your own intermediates arrive on the day they are supposed to arrive."
+"There is a second half to that veto, and we have spent this evening calling it safety. If you hold the routes through Incheon, your own intermediates arrive on the day they are supposed to arrive."
 
 "Yes."
 
@@ -4923,7 +4921,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.9 · EN
+*Lot Fourteen* · Version 12.10 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -5039,7 +5037,7 @@ Annie had not moved at all.
 
 "Has anybody started?"
 
-"Not as of yesterday. Not one of the three has moved." He turned his hand over. "I am telling you the shape of a door. I am not telling you that anybody is standing in it."
+"Not as of yesterday. Not one of the three has moved. I am telling you the shape of a door. I am not telling you that anybody is standing in it."
 
 "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing anywhere."
 
@@ -5192,7 +5190,7 @@ He did not turn round and look at the chair.
 ---
 
 # Chapter 18: On account
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5320,7 +5318,7 @@ Annie put down the pen she had not been using.
 
 "Go on."
 
-"He has bitten. He has not swallowed." Georgij turned his hand over. "A man who has bitten still checks, and there is exactly one thing on earth that stops a man checking, and it is watching somebody else reach for the same plate."
+"He has bitten. He has not swallowed." Georgij looked at the pen she had put down. "A man who has bitten still checks, and there is exactly one thing on earth that stops a man checking, and it is watching somebody else reach for the same plate."
 
 "You want a rival bid."
 
@@ -5384,7 +5382,7 @@ Annie sat back and let him stand there.
 
 "Is any of that in your pages?"
 
-"Every line of it that is a fact, and nothing that is a plan." Georgij did not look away. "The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."
+"Every line of it that is a fact, and nothing that is a plan. The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."
 
 ---
 
@@ -5398,7 +5396,7 @@ Annie sat with that.
 
 There it was.
 
-"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
+"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him. It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."
 
 "You have thought about this since the envelope arrived."
 
@@ -5416,7 +5414,7 @@ There it was.
 
 "Which is?"
 
-"It is sold within a year and split three ways, and one of the three is Sang-hoon." Georgij turned his hand over. "He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
+"It is sold within a year and split three ways, and one of the three is Sang-hoon. He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
 
 ---
 
@@ -5503,7 +5501,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5625,7 +5623,7 @@ Then he picked it up. He read it quickly and only in the places that matter, whi
 
 "There is always a ceiling."
 
-"There is one." Georgij did not look away. "I am not going to tell you where it is, because that would be the same as telling you the number. Write something above it and you will hear about it before the pen is down."
+"There is one. I am not going to tell you where it is, because that would be the same as telling you the number. Write something above it and you will hear about it before the pen is down."
 
 "That is a strange way to negotiate."
 
@@ -5836,7 +5834,7 @@ At the gate he stopped.
 ---
 
 # Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5928,7 +5926,7 @@ Annie put two fingers on the corner of the contract.
 
 "The twenty per cent," she said.
 
-"He is going to pay it out himself, and he worked that out in the office in about ninety seconds while I sat there." Georgij turned his hand over. "A third of his book under contract for seven years makes the terminal lendable and not merely bankable. He used that word. He can borrow against the contract at an ordinary rate from a house that will put its name at the bottom, and clear the fund in Singapore without ever finding out who was behind it."
+"He is going to pay it out himself, and he worked that out in the office in about ninety seconds while I sat there. A third of his book under contract for seven years makes the terminal lendable and not merely bankable. He used that word. He can borrow against the contract at an ordinary rate from a house that will put its name at the bottom, and clear the fund in Singapore without ever finding out who was behind it."
 
 "You had seen that on the expressway."
 
@@ -5972,7 +5970,7 @@ The fourth was the fourth of October, and neither of them said so, and neither o
 
 "So the people who wanted his terminal and the car that waits outside buildings are the same account."
 
-"That is as far as it goes. I said so to him in those words." He kept his hands where they were. "There is no name at the end of it, and I have been at that wall since October."
+"That is as far as it goes. I said so to him in those words. There is no name at the end of it, and I have been at that wall since October."
 
 Annie was quiet for the length of the gardeners arriving.
 
@@ -5992,13 +5990,13 @@ Annie sat back in the chair.
 
 "Go on."
 
-"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered." Georgij did not look away. "I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
+"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered. I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
 
 "And he told you what that is."
 
 "He told me what that is." A small pause. "He said a veto over routes decides which box goes on which sailing when a sailing is full, and that on those lanes it is full nine months of the year. He said you never have to refuse anybody and never have to explain why a man's cargo went on Thursday instead of Tuesday. You are simply the group whose boxes are already loaded, every time, for as long as you hold it."
 
-The room went on being a room.
+Annie did not pick anything up and did not put anything down.
 
 "He is in that trade," said Georgij. "He said so. He said he had just signed seven years of it, and that he would like me to notice that he signed it anyway."
 
@@ -6077,7 +6075,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6305,7 +6303,7 @@ Georgij sat with that for a second longer than he meant to.
 
 "You did not build the evening around him."
 
-"I built it the way I have built it for years, because old men go at nine and useful men arrive at nine, and you do not photograph the second half." She turned her hand over. "Your chairman's condition was met before you asked me for anything. That happens more often than men in your line of work believe."
+"I built it the way I have built it for years, because old men go at nine and useful men arrive at nine, and you do not photograph the second half. Your chairman's condition was met before you asked me for anything. That happens more often than men in your line of work believe."
 
 ---
 
@@ -6361,7 +6359,7 @@ Hana looked at him for a moment.
 
 "It will be eight below."
 
-"That is the reason." He turned his hand over. "Nobody follows two people out of doors in December, and nobody stands near the glass to see how long they are gone, because everybody assumes the answer is a cigarette. And she will be able to see the room the whole time she is out there."
+"That is the reason. Nobody follows two people out of doors in December, and nobody stands near the glass to see how long they are gone, because everybody assumes the answer is a cigarette. And she will be able to see the room the whole time she is out there."
 
 "Which matters."
 
@@ -7846,7 +7844,7 @@ It would keep until she asked.
 ---
 
 # Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7872,7 +7870,7 @@ She waited.
 
 ---
 
-"He has eaten the apple," said Georgij. "All of it, in twelve days, from seven people at a price that was neither clever nor stupid, and every single thing in those nineteen pages was true, and he checked most of it himself. He is not going to find a bad line in there in March, because there is not one." He kept his hands where they were. "He has bought four shipping routes with real berths and a fight he can win. He will win it, and it will take him a quarter." A short pause. "There is nothing in the world he can do about the calendar."
+"He has eaten the apple," said Georgij. "All of it, in twelve days, from seven people at a price that was neither clever nor stupid, and every single thing in those nineteen pages was true, and he checked most of it himself. He is not going to find a bad line in there in March, because there is not one." Georgij had not sat down and did not sit down now. "He has bought four shipping routes with real berths and a fight he can win. He will win it, and it will take him a quarter." A short pause. "There is nothing in the world he can do about the calendar."
 
 Annie turned the page over so that it lay face down.
 
@@ -8179,7 +8177,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.1 · EN
+*Lot Fourteen* · Version 3.2 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -8259,7 +8257,7 @@ Annie looked at him for a moment.
 
 "You want to put Woo on her land."
 
-"I want him on it from January, at a market rate she sets herself, for as long as he wants it." He turned his hand over. "And then her value stops being a designation and starts being an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
+"I want him on it from January, at a market rate she sets herself, for as long as he wants it. And then her value stops being a designation and starts being an income. A building with a chairman in it can be refinanced by anybody with a calculator, and that third charge stops being a cliff in the spring and becomes a line in a schedule."
 
 "And she stops being the soft part of my arrangement."
 
@@ -8556,7 +8554,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8606,7 +8604,7 @@ Hana had stopped moving.
 
 "And if she is at home."
 
-"Then he telephones, and she takes it or she does not, and she answers on Thursday if she answers at all." He turned his hand over. "That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."
+"Then he telephones, and she takes it or she does not, and she answers on Thursday if she answers at all. That is not shyness. That is the whole engine. Twenty years of never once deciding anything while somebody was watching her face."
 
 ---
 
@@ -8852,7 +8850,7 @@ On the Monday evening Annie put her pen down and looked at him across the desk f
 
 Georgij stood at the corner of the desk with his hands behind his back.
 
-"Every part of it is built," he said. "It has taken eleven weeks and it is good." He kept his hands where they were. "On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."
+"Every part of it is built," he said. "It has taken eleven weeks and it is good. On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."
 
 "No."
 
@@ -8871,7 +8869,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 ---
 
 # Chapter 29: The ones who came at seven
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9039,7 +9037,7 @@ Hana put the tray down after all.
 
 "And now there is a chairman arguing with me about a rate."
 
-"Which he will do for another fortnight and then sign, and you know it and so does he." He kept his hands where they were. "Nothing is on paper yet and it does not have to be. What has already gone is the part where one file in one building is the whole of you. He can read that file for a month now and there is nothing left in it that moves you."
+"Which he will do for another fortnight and then sign, and you know it and so does he. Nothing is on paper yet and it does not have to be. What has already gone is the part where one file in one building is the whole of you. He can read that file for a month now and there is nothing left in it that moves you."
 
 ---
 
@@ -9074,8 +9072,6 @@ He had got four steps down the room before she said the rest of it.
 ---
 
 At ten to nine he went and stood at the end of the long room, at the corner nearest the hall, where a man can see the front door without being in a position to reach it.
-
-The room went on being a room.
 
 Woo was in the chair by the window that nobody had asked him about, with the cousin sitting forward on a footstool beside him, being told something about a crane.
 
@@ -9112,7 +9108,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9432,7 +9428,7 @@ Kim Ye-rin let the wind have a moment of it.
 
 "Because you do not trust it."
 
-"Because I trust it completely, and it is worth nothing." Georgij turned his hand over. "Your word binds you. It does not bind six people. And the moment you give it to me you are personally liable for the behaviour of your cousin, who I am told has a temper and a golf club membership he cannot afford. You would be carrying them for three more months with no paper and no protection, which is precisely the arrangement that is killing you."
+"Because I trust it completely, and it is worth nothing. Your word binds you. It does not bind six people. And the moment you give it to me you are personally liable for the behaviour of your cousin, who I am told has a temper and a golf club membership he cannot afford. You would be carrying them for three more months with no paper and no protection, which is precisely the arrangement that is killing you."
 
 ---
 
@@ -9547,7 +9543,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9693,7 +9689,7 @@ The limit on the veto first, because it had come first, and because he was not g
 
 "And you said."
 
-"No. Immediately, and without dressing it, and I told her why in one sentence." He did not look away. "The man who decides which box goes on which sailing is the man who decides who loads it. A veto that cannot reach the yard is a line in a document."
+"No. Immediately, and without dressing it, and I told her why in one sentence. The man who decides which box goes on which sailing is the man who decides who loads it. A veto that cannot reach the yard is a line in a document."
 
 ---
 
@@ -10640,7 +10636,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Forty-Five · Wednesday 25 February
 
@@ -10854,7 +10850,7 @@ He put the sheet down on the table and set his hand beside it and not on it.
 
 "On the twenty-ninth of December a man sat in that chair and offered me two billion two hundred million won for you, and I said no and I meant it. Then he told me the figure was too low." She had not moved in the chair. "He was right. He is right about most things and he will be right about that one inside a year, and he does not like paying twice, and there are four other men in this country who do not mind at all."
 
-She turned her hand over on the arm of the chair.
+Annie let the sheet lie where he had put it.
 
 "A line in a book in a building I do not own was the only route by which any of them could have taken you off me. While it stood there was a price and a procedure and a counterparty. There is no line now, so there is no procedure, so there is nothing to buy. It was the last open position I had and I have closed it."
 
