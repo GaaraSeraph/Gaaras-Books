@@ -87,6 +87,14 @@ nachrechnen, und `check.py` tut das automatisch.
   sich selbst ausgegeben, und das gehoert ihm nicht. Die Vollmacht wird
   erteilt, mit Deckel, benannten Gegenparteien und Frist bis zum 31. Maerz
   (Band 2, Kapitel 5)
+- Tag 161 bis 163, Do 12. bis So 15. Maerz: Vorbereitung auf den neuen Mann,
+  ausschliesslich aus den Unterlagen der drei Haeuser, die er vorher
+  ausgeraeumt hat (Band 2, Kapitel 6, rueckblickend)
+- Tag 164, Mo 16. Maerz: **das Auktionshaus.** Mrs Jeon im Settlement, die
+  Warnung vor der Bezahlung, *"I have to ask"*. Der aelteste der vier
+  Eintraege ist nie ueber den Schreibtisch gelaufen. Abends der Preis, Annies
+  Absage an den eigenen Namen und Sang-hoons statt dessen. Nachts die
+  Gesellschaftskette und der Abbruch (Band 2, Kapitel 6)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -588,6 +596,28 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Die vierte Zeile, und Annie fragt nicht nach.** *"Annie asks second questions."* Sie stellt keine, und er legt die Antwort dorthin, wo er sie hinlegt. Das haelt Chois Vorenthaltung offen, ohne die Bauform von Kapitel 3 zu wiederholen.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
+
+- **Band 2, Kapitel 6** *I have to ask* (v1.0) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+
+  **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
+
+  **Die Vorbereitung ist Aktenarbeit ohne eine einzige Frage an einen Menschen.** Ein Mann, der ein Haus ausraeumt, hat andere Haeuser ausgeraeumt, und die haben Unterlagen. Drei in sechs Jahren, eines davon abgewickelt und deshalb vollstaendig. Daraus **die Reihenfolge**: nicht der Schreibtisch mit dem Geld zuerst, sondern der mit dem Papier ueber das Geld. Und das Vorzeichen vier bis sechs Wochen davor: die schriftliche Bitte, in eigenen Worten die eigene Ablage zu erklaeren. **Georgij kennt die Form, weil er im Dezember eine gebaut hat**, und er schreibt genau das am Freitag in einer Zeile auf und beschoenigt es nicht.
+
+  **Mrs Jeon**, Anfang fuenfzig, seit **dreiundzwanzig Jahren** hinter dem Glas, und ihr ganzer Wert war, dass nie jemand hingesehen hat. Erster Auftritt, und der Name kollidiert mit nichts im Kanon.
+
+  **Er zahlt, bevor er fragt, und sagt das auch.** Die Warnung geht vollstaendig und bedingungslos ueber den Tresen: *"You can send me down the stairs and you will still have it. That was the whole reason for the order I said it in."* Sie bedankt sich nicht, und das ist keine Undankbarkeit - sie ist morgens mit einer Stellung hereingekommen und geht abends mit zwei Monaten heraus.
+
+  **Der Preis ist das Spiegelbild seiner eigenen Lage.** Sie will einen Namen: einen Menschen ausserhalb des Gewerbes, der einen Anruf annimmt und einen Satz sagt, dessen Satz traegt. Dreiundzwanzig Jahre, die auf kein Blatt Papier passen. **Sein Problem ist, dass kein Name an ihm haftet; ihres, dass keiner an ihr haften will.**
+
+  **Und hier beisst Annies Deckel aus Kapitel 5 zum ersten Mal.** Er weiss sofort, wen er fragen kann, und dass ein Ja das Ganze in einer Minute schliessen wuerde. Er sagt statt dessen **"I have to ask"** und faehrt nach Hause. *"I am not going to stand here and promise you a thing I do not own."*
+
+  **Genau das bringt die Auskunft ein, und zwar geschenkt.** *"Nobody has ever said the other thing. Not once, at this desk, in twenty-three years."* Danach: **der aelteste der vier Eintraege ist nie ueber diesen Schreibtisch gelaufen.** Keine Rechnung, keine Quittung, keine Zeile. *"Somebody stood in that room and took a person home and this house did not send anybody a bill."* Sie hat es zweimal geprueft, weil es sie damals gestoert hat und seither stoert.
+
+  **Der Abend: der Preis zuerst, das Ergebnis danach**, wie verlangt. Annie sagt zum eigenen Namen **nein**, und der Grund ist derselbe wie beim Register: er waere die Erklaerung dafuer, warum dieses Haus sich fuer jenes interessiert, *"standing at a bus stop in Incheon with her handbag"*. Sie gibt **Park Sang-hoon**, und zwar mit Begruendung: *"He is the only name in this that explains itself. ... If it were my name, the only question anybody could ask is why."*
+
+  **Was es kostet, sagt Georgij, weil sie es nicht sagen wird:** das dritte, was Sang-hoon erfaehrt, und dass er der Mann sein darf, der es geloest hat. Und **es benutzt den Korridor**, den Sang-hoon einmal angeboten und danach nicht mehr erwaehnt hat. Annies Antwort: *"It is exactly what a man means when he says that. That is why it costs."* Dazu ihre Auflage: *"You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."*
+
+  **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
 
 ---
 

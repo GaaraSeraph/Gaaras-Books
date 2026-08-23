@@ -288,6 +288,31 @@ bei jedem einzeln herausfinden, welches gerade gilt.
 Der Saal. Leute, die etwas gegeben oder etwas gesehen haben, ohne auf einer
 Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 
+### Im Haus am Fluss
+
+**Mrs Jeon** - Anfang fuenfzig, seit dreiundzwanzig Jahren im Settlement des
+Auktionshauses, hinter einer Glasscheibe mit einem Schlitz fuer Umschlaege und
+einem einzigen Stuhl auf der Besucherseite. **Erster Auftritt Band 2, Kapitel 6.**
+
+**Ihr ganzer Wert war, dass nie jemand hingesehen hat**, und genau das nimmt ihr
+der neue Mann. In acht Wochen geht sie aus dem Gebaeude mit dreiundzwanzig
+Jahren, die auf kein Blatt Papier passen, weil eine Referenz dieses Hauses
+nirgends etwas wert ist.
+
+**Sie ist Georgijs Spiegelbild im Kleinen, und der Text sagt es nicht.** An ihm
+haftet kein Name, an ihr will keiner haften. Beide sind unsichtbar, und bei einem
+von beiden ist das der Schutz und beim anderen der Ruin.
+
+**Was sie kann und was nicht.** Sie sieht jede Zeile, die in dem Haus bezahlt
+wird, und deshalb weiss sie auch, was **nicht** bezahlt wurde. Sie weiss nicht,
+wer im Saal sitzt. Sie ist keine Verbuendete und keine Quelle auf Dauer: nach dem
+Fruehjahr ist sie nicht mehr an dem Schreibtisch, und was sie dann noch hat, ist
+Erinnerung.
+
+**Warum sie ueberhaupt antwortet**, und es ist nicht das Geschenk. Es ist, dass er
+mitten im Handel abbricht und sagt, er muesse erst fragen. In dreiundzwanzig
+Jahren hat das an dem Schalter niemand getan.
+
 ### Auf der Gala
 
 **Mr Hong** - Einundsechzig, kommt seit neunzehn Jahren zu dieser Veranstaltung, sitzt seit neunzehn Jahren am selben Tisch. Nicht unter den zwölf. Stellt Georgij die Frage nach der Ausbildung und wird dadurch zum Träger der Berater-Legende. Auf Georgijs Bitte um Orientierung nennt er drei Namen, denen man ausweichen sollte: Woo, Sunwoo und Choi Dae-ho.

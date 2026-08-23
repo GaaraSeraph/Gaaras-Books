@@ -180,6 +180,9 @@ FIGURES = {
     "Mr Hong": [r"\bHong\b"],
     "Chairman Woo": [r"\bWoo\b"],
     "Mrs Sunwoo": [r"Sunwoo"],
+    "Nam Byung-hee": [r"Nam Byung-hee", r"Byung-hee"],
+    "Shin": [r"\bShin\b"],
+    "Mrs Jeon": [r"Mrs Jeon", r"\bJeon\b"],
     "Mrs Ryu": [r"\bRyu\b"],
     "Chef Bang": [r"\bBang\b"],
 }
