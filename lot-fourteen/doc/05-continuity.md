@@ -902,7 +902,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Letzte Zeile: **"That is a very short list as well."**
 
-- **Band 2, Kapitel 14** *Ask her* (v1.1) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
+- **Band 2, Kapitel 14** *Ask her* (v1.2) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
 
   **Das Verfahren ist Mrs Sunwoo, auf einen Mann mit neun Lastwagen angewendet:** ein wahrer Satz, dann aufhoeren. Sieben Jahre Ankerpapier, **fuenf Firmen und nicht sechs**, einer nach dem anderen, und der Erste setzt den Satz fuer die uebrigen vier. Aus dem Satz gestrichen hat er auf dem Sonntag das Wort *opportunity*.
 

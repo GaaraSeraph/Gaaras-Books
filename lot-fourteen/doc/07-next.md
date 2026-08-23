@@ -468,9 +468,24 @@ Fassung.**
   going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
   ohne zu warten, dass sie es bemerkt.**
 
-- **Die fuenf uebrigen Firmen der Spur, vollstaendig unter Annies Kontrolle.**
+- **Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies Eigentum.**
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
+
+  **Alle fuenf, und nicht vier, und nicht die zwei leichten.** Der Mechanismus
+  steht in Band 2, Kapitel 14: Woos sieben Jahre machen aus fuenf Firmen, die
+  nichts wert waren, fuenf Firmen mit verkaeuflichen Anteilen - **und Jang hat
+  den Weg in jede einzelne davon in vier Blatt geliefert**, ungefragt. Der
+  Teilhaber von dreiundsechzig, der Kredit gegen den Hof und ein Semester im
+  September, zwei Brueder, die eher an einen Fremden verkaufen als sich zu
+  einigen, einer, der seit Februar heimlich weggeht, und Cho, der die Firma seit
+  Januar nicht mehr will.
+
+  **Und es wird jedes Mal ein echter Preis gezahlt**, weil ein schlechter Preis
+  etwas ist, das ein Mann zwanzig Jahre lang weitererzaehlt.
+
+  **Muss im Text tatsaechlich stattfinden.** Fuenf Verkaeufe, fuenf Nachmittage,
+  und die Zeile darf nicht als Absicht verdunsten.
 
 - **Chairman Woos sieben Jahre.** Zugesagt am 9. April, dasselbe Papier wie die
   Ankerladung, gezeichnet vom selben Anwalt. **Muss im Text tatsaechlich

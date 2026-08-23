@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 49 Kapitel, 137.540 Woerter.
+2 Baende, 49 Kapitel, 137.684 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -58,7 +58,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 11 | v2.0 | 2.498 |
 | 2 | 12 | v1.3 | 2.900 |
 | 2 | 13 | v1.0 | 2.181 |
-| 2 | 14 | v1.1 | 2.286 |
+| 2 | 14 | v1.2 | 2.430 |
 | 2 | 15 | v1.0 | 2.018 |
 
 ---
@@ -15033,7 +15033,7 @@ That is a very short list as well.
 ---
 
 # Book Two · Chapter 14: Ask her
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Ninety-Three · Tuesday 14 April
 
@@ -15185,21 +15185,33 @@ There was nothing available that was both true and useful, and everything availa
 
 What he did instead was write four words in the notebook in the car, and they are the second half of a thing he said to Annie in the small room on the third of April.
 
-Seven years of that paper does not only feed a firm. It makes a firm worth something. It makes a half of a firm saleable, and it does that to five firms in the same fortnight.
+Seven years of that paper does not only feed a firm. It makes a firm worth something. It makes a half of a firm saleable, and it does that to five firms inside a fortnight.
+
+And Jang found the way into every one of them, in four pages, without being asked for it.
 
 ---
 
-Five men who have never been able to get one won out of their own businesses are about to be able to. Two of them have somebody who wants out and cannot go. One of them has two brothers who have not spoken since 2019 and an invoice clerk who would like to be paid what she is worth.
+The man with nine trucks has a partner of sixty-three who has wanted out since his wife died and cannot go, because there is nobody on that coast who buys anything.
 
-And on the day five halves come onto a coast where nobody buys anything, there is going to be exactly one buyer with money in her hand.
+The man with three trucks has seven months left on a loan against his own yard and a son whose term begins in September.
 
-She will pay a real price. Every one of the five will believe it was the best fortnight of his working life, and every one of them will be right.
+The two brothers have not spoken since 2019 and would each of them sooner sell to a stranger than agree with the other about anything, and the invoice clerk has understood that for four years.
+
+The fourth has been quietly moving work off that lane since February, which is a man who has already decided to go and is waiting to be able to afford it.
+
+And Cho, who is forty, took a firm from his father in the autumn, and has spent six months finding out what his father actually was, and has not wanted it since about January.
 
 ---
 
-*Not customers. Not an arrangement.* That is what he promised her on the third of April, and it was not a figure of speech, and Woo's seven years are what makes it possible.
+Five men and five separate afternoons, and on every one of those afternoons there is going to be exactly one buyer on that coast with money in her hand.
 
-Woo will never know that part. There is nothing in it that costs him anything and no reason to tell a man a thing he cannot use.
+She will pay a real price each time, because a bad price is a thing a man tells people about for twenty years. Every one of the five will believe it was the best fortnight of his working life, and every one of them will be right.
+
+---
+
+*Not customers. Not an arrangement.* All five, and not four, and not the two easy ones.
+
+That is what he promised her on the third of April. It was not a figure of speech, and Woo's seven years are what make it possible, and Woo will never know that part. There is nothing in it that costs him anything and no reason to tell a man a thing he cannot use.
 
 ---
 

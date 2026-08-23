@@ -20,9 +20,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 430 | 44 (b1ch01-b2ch15) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 145 | 27 (b1ch07-b2ch15) | 1 | 74 |
+| Chairman Woo | 144 | 27 (b1ch07-b2ch15) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
-| Jang | 75 | 18 (b1ch05-b2ch13) | 3 | 60 |
+| Jang | 76 | 19 (b1ch05-b2ch14) | 3 | 60 |
 | Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -836,7 +836,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-145 Nennungen in 27 Kapiteln.
+144 Nennungen in 27 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -981,9 +981,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
 | 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check." He did not soften i.. |
 | 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
-| 4 | b2ch14:166 | *Not customers. Not an arrangement.* That is what he promised her on the third of April,.. |
-| 4 | b2ch14:168 | Woo will never know that part. There is nothing in it that costs him anything and no rea.. |
-| 4 | b2ch14:258 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
+| 4 | b2ch14:180 | That is what he promised her on the third of April. It was not a figure of speech, and W.. |
+| 4 | b2ch14:270 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
 | 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
 
 ### Zahlen in der Naehe von Chairman Woo
@@ -1068,8 +1067,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:234` (Tag 9) - fifteen, five
 - `b2ch14:32` (Tag 4) - five, four, one, seven, six
 - `b2ch14:100` (Tag 4) - five, seven
-- `b2ch14:166` (Tag 4) - seven
-- `b2ch14:258` (Tag 4) - five, six, three
+- `b2ch14:180` (Tag 4) - seven
+- `b2ch14:270` (Tag 4) - five, six, three
 - `b2ch15:52` (Tag 4) - five, six
 
 ---
@@ -1242,7 +1241,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-75 Nennungen in 18 Kapiteln.
+76 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1321,6 +1320,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch13:6 | Jang came on the Wednesday, two days early, with a folder and no heading written on anyt.. |
 | 9 | b2ch13:38 | "You asked for what they are afraid of, which is the hard half, and then you asked who t.. |
 | 9 | b2ch13:46 | "None of the six has met your employer or anybody who works for her. Not at a function, .. |
+| 4 | b2ch14:156 | And Jang found the way into every one of them, in four pages, without being asked for it. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1359,6 +1359,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:6` (Tag 9) - two
 - `b2ch13:38` (Tag 9) - four, thirty
 - `b2ch13:46` (Tag 9) - six
+- `b2ch14:156` (Tag 4) - four, one
 
 ---
 
@@ -1727,12 +1728,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:122 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
 | 4 | b2ch14:126 | "He says the rate is real," said Mr Kwon, putting it down. |
 | 4 | b2ch14:136 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
-| 4 | b2ch14:172 | "You have not offered me anything," said Mr Kwon after a while. |
-| 4 | b2ch14:182 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
-| 4 | b2ch14:198 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
-| 4 | b2ch14:208 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
-| 4 | b2ch14:214 | There it was, and Mr Kwon had built it well and had probably not meant to. |
-| 4 | b2ch14:292 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
+| 4 | b2ch14:184 | "You have not offered me anything," said Mr Kwon after a while. |
+| 4 | b2ch14:194 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
+| 4 | b2ch14:210 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
+| 4 | b2ch14:220 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
+| 4 | b2ch14:226 | There it was, and Mr Kwon had built it well and had probably not meant to. |
+| 4 | b2ch14:304 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
 | 4 | b2ch15:74 | "It is done," said Mr Kwon. |
 | 4 | b2ch15:98 | "Straight away," said Mr Kwon. "Not a second. Not one of those things where a person tak.. |
 | 4 | b2ch15:114 | "That is all she said," said Mr Kwon. "One word. She could have said it was association .. |
@@ -1749,8 +1750,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:42` (Tag 4) - eight
 - `b2ch14:122` (Tag 4) - one
 - `b2ch14:136` (Tag 4) - eleven, nine
-- `b2ch14:198` (Tag 4) - one
-- `b2ch14:292` (Tag 4) - nine
+- `b2ch14:210` (Tag 4) - one
+- `b2ch14:304` (Tag 4) - nine
 - `b2ch15:98` (Tag 4) - one
 - `b2ch15:114` (Tag 4) - one
 - `b2ch15:126` (Tag 4) - five, one, six
@@ -1868,9 +1869,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
 | 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
 | 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:220 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:224 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:238 | "No," said Mr Ku. |
+| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:250 | "No," said Mr Ku. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -1882,8 +1883,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch09:302` (Tag 9) - eighty-one
 - `b2ch10:22` (Tag 3) - eighty-one
 - `b2ch10:252` (Tag 3) - fifty-five
-- `b2ch14:220` (Tag 4) - one
-- `b2ch14:224` (Tag 4) - forty
+- `b2ch14:232` (Tag 4) - one
+- `b2ch14:236` (Tag 4) - forty
 
 ---
 
@@ -1946,7 +1947,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
 | 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
 | 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
-| 4 | b2ch14:266 | By the Saturday two of them had telephoned Nam Byung-hee. |
+| 4 | b2ch14:278 | By the Saturday two of them had telephoned Nam Byung-hee. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -1957,7 +1958,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:240` (Tag 1) - nine
 - `b2ch13:24` (Tag 9) - four, one
 - `b2ch13:32` (Tag 9) - five, four, nine
-- `b2ch14:266` (Tag 4) - two
+- `b2ch14:278` (Tag 4) - two
 
 ---
 
