@@ -3,6 +3,45 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== What he is actually like in bed, specified by the author ===
+Not a taste list bolted onto a character. All of it falls out of the one thing
+he has been since chapter one: HE PAYS ATTENTION. Discovering the other person,
+named and specific erogenous zones, their pleasure as the object rather than a
+courtesy, unsentimental tenderness, oral as something this world does not do,
+and sustained and harder when it gets there. Full text in bible section 1.
+THE WORLD FACT IS THE USEFUL PART. Nobody in this valley has heard of oral, so
+it is a scene every time and not a beat, with a partner who does not know what
+is being offered and has to be asked plainly. It also quietly says something
+about the place: this is a world that lost the large and kept the small, and it
+turns out to have lost some small things too.
+AND THE INVERSION IS THE CHARACTER WORK. Sivert puts a hand over his mouth and
+Gaara goes quiet and lets himself be run, and likes it enough that it needs
+thinking about later. The man who has controlled every room in two lifetimes by
+talking gives that up voluntarily for the first time.
+
+=== Chapter 19 split again at the trough ===
+The scene took 19 to 3215 words. Same rule as the ch17 split: find the seam,
+do not cut the talk. 19 ends on him naming the bar Brick. 20 opens on Sivert at
+the trough and carries the night, the elm, the second draft and the departure.
+19: 2239. 20: about 1800.
+THE PLANNED ch20 (Marit leads, he watches) MOVES BACK. The order is now 21 the
+Wold and Ordulf, then the grind, then the riders.
+
+
+=== The door stops closing (author, at ch19) ===
+Instruction: be as explicit as is permitted, and do not go past it. So the rule
+changes from ch19 onward. Bodies, hands, mouths, what is wanted, what is said,
+what happens and in what order, written sensory and specific. It stops short of
+pornographic anatomical detail. That is a limit of register, not of nerve, and
+it is stated rather than pretended to be an external rule.
+THE HARDEST PART IS NOT THE CONTENT, IT IS THE VOICE. The standing failure of
+this book, caught four times now, is that Gaara goes quiet and solemn whenever a
+scene turns serious. A reverent wordless sex scene would be the fifth instance
+of exactly that. He talks. He is funny during. ch18 already proved the tone
+works with a man's leg coming off; it works here.
+ch13 IS LEFT ALONE. Retrofitting it is available and is the author's call.
+
+
 === Chapter 19 is a product launch, not a shopping trip ===
 The plan said he pays for the blade with something other than money. The author
 then added the thing that made the chapter: HE NEEDS TEST USERS. Writing doctrine

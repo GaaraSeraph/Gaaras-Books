@@ -14,8 +14,10 @@ Marit Halden, Level 6
   it appalling, and the only part he would repeat is the walking. Her answer is
   the first line she ever said to him, returned: "Byre's this way. You snore,
   you sleep outside." And then: "It was not an invitation then."
-  He does not sleep in the byre. Handled on the page as adult and unmistakable
-  and not explicit; the door closes on the laughing. Afterwards he checks the
+  He does not sleep in the byre. Written as adult and unmistakable, and the
+  door closes on the laughing. NOTE: the no-cut-at-the-door rule changed at
+  ch19 and this scene was NOT rewritten. If it ever is, it is the author's
+  call and not a tidy-up. Afterwards he checks the
   panel and it has no line for any of it, and he says out loud that it should
   keep it that way.
   THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction
@@ -167,8 +169,19 @@ The six (ch14, blooded ch15)
   there and talk rubbish until she falls asleep, and he does, for an hour.
 - (ch19) SIVERT ANSWERS, four days early, with the strapping off, at the same
   trough he came to in ch14 before anyone was awake. Gaara asks nothing,
-  because the rule is that he asks once. "Two arms," said Sivert. Handled the
-  ch13 way: the chapter ends on the line and nothing is shown.
+  because the rule is that he asks once. "Two arms," said Sivert.
+  AND THEN IT IS ON THE PAGE, in the cold forge, because Ylva gave him the
+  gate and it is the only building in Oldstep with nobody in it. This is the
+  first scene written under the changed explicitness rule.
+  WHAT THE SCENE IS ACTUALLY ABOUT: Sivert has said perhaps eight words in
+  six chapters, and the reveal is that he is not shy, he is ECONOMICAL. He
+  moves first, he decides the pace, and he shuts Gaara up twice. The man who
+  runs every room with his mouth gets run, and enjoys it enormously.
+  THE SPECIFIC DETAIL THAT MATTERS: the forearm he lost the skin off in ch15
+  is new and pink and tender, Gaara is careful with it, and Sivert does not
+  want him to be careful.
+  HE DOES NOT CHECK THE PANEL AFTERWARDS, and the fact that it does not
+  occur to him is the growth. Do not point at it.
 - (ch18) BERN LOSES THE LEG BELOW THE KNEE, and chooses it himself. Solva does
   it in six minutes with wine, fire and a wooden spoon. Gaara holds him and
   talks filth at him for the whole of it until he stops screaming and starts

@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 19 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 29.205 Woerter.
+Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 30.795 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -31,8 +31,10 @@ Marit Halden, Level 6
   it appalling, and the only part he would repeat is the walking. Her answer is
   the first line she ever said to him, returned: "Byre's this way. You snore,
   you sleep outside." And then: "It was not an invitation then."
-  He does not sleep in the byre. Handled on the page as adult and unmistakable
-  and not explicit; the door closes on the laughing. Afterwards he checks the
+  He does not sleep in the byre. Written as adult and unmistakable, and the
+  door closes on the laughing. NOTE: the no-cut-at-the-door rule changed at
+  ch19 and this scene was NOT rewritten. If it ever is, it is the author's
+  call and not a tidy-up. Afterwards he checks the
   panel and it has no line for any of it, and he says out loud that it should
   keep it that way.
   THIS IS NOT A RESOLVED ROMANCE. Nothing has been promised in either direction
@@ -184,8 +186,19 @@ The six (ch14, blooded ch15)
   there and talk rubbish until she falls asleep, and he does, for an hour.
 - (ch19) SIVERT ANSWERS, four days early, with the strapping off, at the same
   trough he came to in ch14 before anyone was awake. Gaara asks nothing,
-  because the rule is that he asks once. "Two arms," said Sivert. Handled the
-  ch13 way: the chapter ends on the line and nothing is shown.
+  because the rule is that he asks once. "Two arms," said Sivert.
+  AND THEN IT IS ON THE PAGE, in the cold forge, because Ylva gave him the
+  gate and it is the only building in Oldstep with nobody in it. This is the
+  first scene written under the changed explicitness rule.
+  WHAT THE SCENE IS ACTUALLY ABOUT: Sivert has said perhaps eight words in
+  six chapters, and the reveal is that he is not shy, he is ECONOMICAL. He
+  moves first, he decides the pace, and he shuts Gaara up twice. The man who
+  runs every room with his mouth gets run, and enjoys it enormously.
+  THE SPECIFIC DETAIL THAT MATTERS: the forearm he lost the skin off in ch15
+  is new and pink and tender, Gaara is careful with it, and Sivert does not
+  want him to be careful.
+  HE DOES NOT CHECK THE PANEL AFTERWARDS, and the fact that it does not
+  occur to him is the growth. Do not point at it.
 - (ch18) BERN LOSES THE LEG BELOW THE KNEE, and chooses it himself. Solva does
   it in six minutes with wine, fire and a wooden spoon. Gaara holds him and
   talks filth at him for the whole of it until he stops screaming and starts
@@ -439,6 +452,11 @@ quiet chapters buy the ch20 grind and the ch21 riders. The system's only
 presence is the ch17 fork, which now bites, because he cannot afford the blade
 and so the only skill advancing is the one for not having a weapon.
 
+Chapter 20: no mechanical change, third chapter running, and that is now the
+longest quiet stretch in the book. Deliberate. Nothing has been killed since the
+Roofwalker in ch17. The six points are still banked and both skills are
+unchanged. It buys the Wold, the blade, and the grind that follows.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -551,6 +569,45 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== What he is actually like in bed, specified by the author ===
+Not a taste list bolted onto a character. All of it falls out of the one thing
+he has been since chapter one: HE PAYS ATTENTION. Discovering the other person,
+named and specific erogenous zones, their pleasure as the object rather than a
+courtesy, unsentimental tenderness, oral as something this world does not do,
+and sustained and harder when it gets there. Full text in bible section 1.
+THE WORLD FACT IS THE USEFUL PART. Nobody in this valley has heard of oral, so
+it is a scene every time and not a beat, with a partner who does not know what
+is being offered and has to be asked plainly. It also quietly says something
+about the place: this is a world that lost the large and kept the small, and it
+turns out to have lost some small things too.
+AND THE INVERSION IS THE CHARACTER WORK. Sivert puts a hand over his mouth and
+Gaara goes quiet and lets himself be run, and likes it enough that it needs
+thinking about later. The man who has controlled every room in two lifetimes by
+talking gives that up voluntarily for the first time.
+
+=== Chapter 19 split again at the trough ===
+The scene took 19 to 3215 words. Same rule as the ch17 split: find the seam,
+do not cut the talk. 19 ends on him naming the bar Brick. 20 opens on Sivert at
+the trough and carries the night, the elm, the second draft and the departure.
+19: 2239. 20: about 1800.
+THE PLANNED ch20 (Marit leads, he watches) MOVES BACK. The order is now 21 the
+Wold and Ordulf, then the grind, then the riders.
+
+
+=== The door stops closing (author, at ch19) ===
+Instruction: be as explicit as is permitted, and do not go past it. So the rule
+changes from ch19 onward. Bodies, hands, mouths, what is wanted, what is said,
+what happens and in what order, written sensory and specific. It stops short of
+pornographic anatomical detail. That is a limit of register, not of nerve, and
+it is stated rather than pretended to be an external rule.
+THE HARDEST PART IS NOT THE CONTENT, IT IS THE VOICE. The standing failure of
+this book, caught four times now, is that Gaara goes quiet and solemn whenever a
+scene turns serious. A reverent wordless sex scene would be the fifth instance
+of exactly that. He talks. He is funny during. ch18 already proved the tone
+works with a man's leg coming off; it works here.
+ch13 IS LEFT ALONE. Retrofitting it is available and is the author's call.
 
 
 === Chapter 19 is a product launch, not a shopping trip ===
@@ -1209,7 +1266,8 @@ nicht diese Zeile von Hand.
 17. Who Gets the Kill
 18. Somebody Has to Hold Him
 19. A Name for the Knife
-20. (planned) Marit leads, and he watches
+20. Two Arms
+21. (planned) Ordulf, and the Wold
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1307,6 +1365,32 @@ Morality and violence
   them really want to.
 
 Sexuality and relationships
+
+WHAT HE IS LIKE IN BED (author, ch20). This is character, not decoration, and
+the whole of it is downstream of one fact: HE PAYS ATTENTION. Nineteen years of
+reading people, six days of reading a panel, and this is the one place the skill
+is not guesswork, because a person in the dark cannot help answering.
+- DISCOVERING THE OTHER PERSON IS THE POINT. He maps them. He looks for what
+  works and goes back to it, and he has no interest at all in the parts that are
+  meant to be interesting. Write it as reconnaissance and write it as delight.
+- EROGENOUS ZONES, NAMED AND SPECIFIC. Under the jaw, inside the elbow, the seam
+  of the hip, the small of the back, two inches below the ear. Find new ones per
+  partner. Vagueness here is the failure mode.
+- THE OTHER PERSON HAVING A GOOD TIME IS THE OBJECT OF THE EXERCISE, and it is
+  in his behaviour rather than in a speech, because HE DOES NOT EXPLAIN HIMSELF.
+- TENDERNESS, REAL AND UNSENTIMENTAL. It shows up as care about the actual body
+  in front of him: a bruise, new skin, a bad arm. And note the ch20 correction -
+  the partner may not want to be handled carefully, and then he stops.
+- ORAL, WHICH THIS WORLD DOES NOT DO. Established ch20 and it is a genuine world
+  fact, not a joke: nobody in this valley has heard of it. That makes it a scene
+  every time, with a partner who does not know what is being offered. He asks
+  plainly, once, and takes the answer.
+- AND WHEN IT GETS TO PENETRATION: SUSTAINED, AND HARDER. He has stamina and he
+  uses it, and he keeps going past the point where his own body has opinions,
+  because the noise the other person makes is the entire object.
+- HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
+  man who runs every room by talking goes quiet and lets somebody else set the
+  pace, and it lands hard enough that he notes it for later thought.
 - Polysexual and polyamorous. He pursues and forms partnerships across genders,
   and with more than one person at once, and does not trim that to fit local
   custom. Whether people around him approve is their problem, not his, the same
@@ -1333,8 +1417,23 @@ Sexuality and relationships
   fight it is only noise and later it would be a move. She says "mind your own
   side" and keeps swinging. Nobody is embarrassed and nothing starts. That is
   the register: he does not hint, he does not build up to things, and he does
-  not treat a refusal as a wound. The story tags include Smut; the
-  written version here stays literary and non-explicit.
+  not treat a refusal as a wound. The story tags include Smut.
+
+  EXPLICITNESS, CHANGED BY THE AUTHOR AT ch19. It no longer cuts at the door.
+  Write the scene: bodies, hands, mouths, what is wanted, what is said out loud,
+  what actually happens and in what order. Sensory and specific, not a fade and
+  not a summary. It stops short of pornographic anatomical detail, and that is
+  the only limit, and it is a limit of register rather than of nerve.
+  THE VOICE DOES NOT CHANGE WHEN THE CLOTHES DO. He talks. He is funny. He is
+  filthy in the same flat tone he uses about lime mortar, which is already
+  established in ch18 over a man's leg. A scene where he goes reverent and
+  wordless is the same register drift that has been caught four times already.
+  CONSENT IS HOT, NOT PROCEDURAL. He asks once, plainly, and the asking is part
+  of it. Nobody signs anything. Nobody makes a speech about the power gap,
+  because HE DOES NOT EXPLAIN HIMSELF.
+  THE PANEL STAYS OUT. In ch13 he checked afterwards and it had no line for any
+  of it, and he said it should keep it that way. Do not run that beat again.
+  ch13 IS NOT RETROFITTED unless the author says so. Left as it stands.
 
 
 === 2. THE SYSTEM ===
@@ -1637,6 +1736,13 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   Improvised Weapon Handling is the only skill he is actually advancing, and he
   spends the chapter trying to get out of the thing he is good at.
 
+- (ch20) NO MECHANICAL CHANGE, third chapter running, and it is now a deliberate
+  stretch. Nothing killed since the Roofwalker, nothing spent, six points still
+  banked. This is the trough before the Wold and the grind.
+  HE DOES NOT CHECK THE PANEL AFTER SIVERT, and the fact that it does not occur
+  to him is the growth. In ch13 he checked, found no line for any of it, and
+  said out loud that it should keep it that way. Do not point at the change.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1938,6 +2044,29 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The second draft, and leaving (ch20)
+- THE DOCTRINE IS ELM NOW, on Sivert's information, quartered, two hundred of
+  them rivable in an afternoon. Vidar's wax was wrong and Sivert says so from a
+  forge floor at four in the morning, at length, and it is the longest speech
+  anybody makes in Oldstep that week.
+- SIX LINES, AND THE FIRST ONE IS NOT HIS. It is BERN'S RULE, by name: anybody
+  may call the stop, nobody has to say why, nobody argues in the room, and if it
+  was wrong it gets argued at the bottom of the hill.
+- MARIT IMPROVES IT ON THE SECOND READING, in the road, with her thumb over the
+  edge of the board. He notes that in nineteen years nobody had ever made him
+  improve a document on a second reading. She reads it twice, which is how this
+  village tests everything (liars decorate).
+- BERN LEARNS IT BY HEART because he cannot read it, and asks for it once more
+  before they go. This is the crew's first piece of doctrine transmitted the way
+  everything in this world is transmitted, which is by somebody remembering it.
+- THEY LEAVE AT MIDDAY FOR THE WOLD. Gaara and Ylva. Halle stands in her doorway
+  and does not say the word and neither does anybody else.
+- HE OWNS NOTHING AND SAYS SO, two hundred yards down the road: everything he
+  has is in a pack that belongs to Marit, he is walking to a town he cannot
+  afford to enter, to buy a thing he cannot pay for, from a man Ylva has called
+  not good. "I have never been happier in my life, and I want you to understand
+  how alarming I find that."
 
 The clock, corrected (ch17)
 - FOUR DAYS WAS THE FLOOR AND NOTHING HAPPENS AT THE FLOOR. Two days east and

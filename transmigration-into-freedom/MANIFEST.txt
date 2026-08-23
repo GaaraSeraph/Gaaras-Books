@@ -18,7 +18,8 @@ ch15    2026 Woerter  ch15-two-to-four-hard-uses.md
 ch16    2354 Woerter  ch16-something-is-drinking-it.md
 ch17    2366 Woerter  ch17-who-gets-the-kill.md
 ch18    2071 Woerter  ch18-somebody-has-to-hold-him.md
-ch19    2351 Woerter  ch19-a-name-for-the-knife.md
+ch19    2239 Woerter  ch19-a-name-for-the-knife.md
+ch20    1761 Woerter  ch20-two-arms.md
 
-Gesamt: 19 Kapitel, 39788 Woerter
+Gesamt: 20 Kapitel, 41437 Woerter
 Handbuch: 4 Dokumente

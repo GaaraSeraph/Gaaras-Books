@@ -202,6 +202,11 @@ quiet chapters buy the ch20 grind and the ch21 riders. The system's only
 presence is the ch17 fork, which now bites, because he cannot afford the blade
 and so the only skill advancing is the one for not having a weapon.
 
+Chapter 20: no mechanical change, third chapter running, and that is now the
+longest quiet stretch in the book. Deliberate. Nothing has been killed since the
+Roofwalker in ch17. The six points are still banked and both skills are
+unchanged. It buys the Wold, the blade, and the grind that follows.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
