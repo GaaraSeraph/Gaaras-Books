@@ -251,8 +251,12 @@ Tatsachen, aus denen Band 2 anfaengt, und drei davon sind neu.
 3. **Er besitzt weiterhin nichts.** Papiere seit der zweiten Oktoberwoche, weil
    ihre Compliance sie brauchte; kein Konto, kein Geld. Die Streichung erzeugt
    davon nichts. Wer ihm etwas gibt, holt es aus einer Szene.
-4. **Die Vollmacht ist tot**, am 1. Maerz um Mitternacht, ohne Verlaengerungs-
-   klausel. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
+4. **Die Vollmacht ist tot**, am Ende des 1. Maerz um Mitternacht, ohne
+   Verlaengerungsklausel. **Die Sperre vom 2. Januar ist an demselben Tag
+   ausgelaufen, aber zu Tagesbeginn** - sie galt bis Maerz, und Maerz faengt am
+   1. Maerz an. Die beiden Fristen enden also einen ganzen Tag auseinander, und
+   den Tag dazwischen hat er bei ihr verbracht, ohne es zu bemerken.
+   Wer das zusammenzieht, verliert genau das. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
    Georgij hat in Kapitel 24 gesagt, dass er es tun wuerde: *"a date on it, after
    which it is dead and I ask you again."* **Diese Bitte steht aus.**
 

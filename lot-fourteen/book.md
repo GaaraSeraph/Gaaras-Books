@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 35 Kapitel, 103.324 Woerter.
+2 Baende, 35 Kapitel, 103.356 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 1 | 32 | v1.2 | 2.579 |
 | 1 | 33 | v1.11 | 3.335 |
 | 1 | 34 | v1.8 | 4.293 |
-| 2 | 01 | v1.1 | 2.199 |
+| 2 | 01 | v1.2 | 2.231 |
 
 ---
 
@@ -11200,15 +11200,17 @@ And for the first time since the ninth of January he was doing the only thing in
 ---
 
 # Book Two · Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
-Two things stopped at midnight and they pulled in opposite directions.
+Two things ran out, a day apart, and they pulled in opposite directions.
 
-The first was a sentence with a month in it, said in the small room on the second of January, and the month had arrived. The second was an instrument, dead on the date he had asked for himself.
+The sentence from the second of January ran out when March did, and March came in on the Sunday. He spent the Sunday on the floor beside a chair at a window, and it did not once occur to him that he was free to go and look at somebody.
 
-So he was permitted to work and had nothing to work with.
+The instrument died at midnight at the end of that same Sunday, on the date he had asked for himself.
+
+So on the Monday he was permitted to work and had nothing to work with.
 
 ---
 
@@ -11320,7 +11322,7 @@ She went out past him with the coat over her arm, the way she had gone out past 
 
 At the door she stopped, which she had not done then.
 
-"You are working again as of this morning," said Annie. "Nobody has told you what to want."
+"You are working again," said Annie. "Nobody has told you what to want."
 
 ---
 

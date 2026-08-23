@@ -1,13 +1,15 @@
 # Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
-Two things stopped at midnight and they pulled in opposite directions.
+Two things ran out, a day apart, and they pulled in opposite directions.
 
-The first was a sentence with a month in it, said in the small room on the second of January, and the month had arrived. The second was an instrument, dead on the date he had asked for himself.
+The sentence from the second of January ran out when March did, and March came in on the Sunday. He spent the Sunday on the floor beside a chair at a window, and it did not once occur to him that he was free to go and look at somebody.
 
-So he was permitted to work and had nothing to work with.
+The instrument died at midnight at the end of that same Sunday, on the date he had asked for himself.
+
+So on the Monday he was permitted to work and had nothing to work with.
 
 ---
 
@@ -119,7 +121,7 @@ She went out past him with the coat over her arm, the way she had gone out past 
 
 At the door she stopped, which she had not done then.
 
-"You are working again as of this morning," said Annie. "Nobody has told you what to want."
+"You are working again," said Annie. "Nobody has told you what to want."
 
 ---
 

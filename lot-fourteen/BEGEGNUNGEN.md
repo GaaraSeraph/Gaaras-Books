@@ -372,19 +372,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | b1ch34:478 | "There is more of it," said Annie. "Say the rest." |
 | 50 | b1ch34:498 | Annie went as far as the window and stood with her back to the room. |
 | 50 | b1ch34:514 | Annie's hand came down on the back of his head and stayed there. |
-| 51 | b2ch01:34 | "It is March," said Annie. |
-| 51 | b2ch01:42 | Annie put down the page she was holding and did not turn it face down. |
-| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
-| 51 | b2ch01:78 | Annie turned her chair a few degrees, so that she was facing him and not the desk. |
-| 51 | b2ch01:102 | Annie waited. |
-| 51 | b2ch01:108 | Annie got up and took the coat off the back of the chair. |
-| 51 | b2ch01:122 | "You are working again as of this morning," said Annie. "Nobody has told you what to wan.. |
-| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
-| 51 | b2ch01:144 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
-| 51 | b2ch01:216 | Annie came back from Yeouido at ten past eight. |
-| 51 | b2ch01:220 | "You have read it," said Annie. |
-| 51 | b2ch01:248 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
-| 51 | b2ch01:258 | Annie put her hand flat on the arm of the chair. |
+| 51 | b2ch01:36 | "It is March," said Annie. |
+| 51 | b2ch01:44 | Annie put down the page she was holding and did not turn it face down. |
+| 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:80 | Annie turned her chair a few degrees, so that she was facing him and not the desk. |
+| 51 | b2ch01:104 | Annie waited. |
+| 51 | b2ch01:110 | Annie got up and took the coat off the back of the chair. |
+| 51 | b2ch01:124 | "You are working again," said Annie. "Nobody has told you what to want." |
+| 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 51 | b2ch01:146 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
+| 51 | b2ch01:218 | Annie came back from Yeouido at ten past eight. |
+| 51 | b2ch01:222 | "You have read it," said Annie. |
+| 51 | b2ch01:250 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
+| 51 | b2ch01:260 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -459,10 +459,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:90` (Tag 46) - nine, twenty, two
 - `b1ch34:326` (Tag 50) - four
 - `b1ch34:354` (Tag 50) - forty
-- `b2ch01:64` (Tag 51) - nine, one, six
-- `b2ch01:136` (Tag 51) - three, two
-- `b2ch01:144` (Tag 51) - forty, twenty-two
-- `b2ch01:216` (Tag 51) - eight, ten
+- `b2ch01:66` (Tag 51) - nine, one, six
+- `b2ch01:138` (Tag 51) - three, two
+- `b2ch01:146` (Tag 51) - forty, twenty-two
+- `b2ch01:218` (Tag 51) - eight, ten
 
 ---
 
@@ -1197,9 +1197,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
 | 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
-| 51 | b2ch01:14 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
-| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
-| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
+| 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1230,9 +1230,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:230` (Tag 1) - one
 - `b1ch31:68` (Tag 74) - one, three
 - `b1ch33:422` (Tag 7) - six
-- `b2ch01:14` (Tag 51) - seven
-- `b2ch01:64` (Tag 51) - nine, one, six
-- `b2ch01:136` (Tag 51) - three, two
+- `b2ch01:16` (Tag 51) - seven
+- `b2ch01:66` (Tag 51) - nine, one, six
+- `b2ch01:138` (Tag 51) - three, two
 
 ---
 
@@ -1612,14 +1612,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
 | 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 | 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:16 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
-- `b2ch01:16` (Tag 51) - four, six
+- `b2ch01:18` (Tag 51) - four, six
 
 ---
 

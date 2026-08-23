@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 81.310 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 81.464 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1801,11 +1801,13 @@ nachrechnen, und `check.py` tut das automatisch.
   Fristverlaengerung in Jung-gu, vier Minuten (Kapitel 34)
 - Tag 139, Do 19. Februar: **der Registereintrag wird gestrichen** (Kapitel 34)
 - Tag 145, Mi 25. Februar: die stillgelegten Wochen, zweiter Abschnitt von 34
-- Tag 149, So 1. Maerz: die Vollmacht laeuft um Mitternacht ab; Mr Chae holt die
-  Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34).
-  **Ende Band 1**
-- Tag 150, Mo 2. Maerz: **Anfang Band 2.** Die Sperre vom 2. Januar ist abgelaufen
-  und die Vollmacht auch. Er bittet um eine neue und bekommt sie nicht. Der
+- Tag 149, So 1. Maerz: **die Sperre vom 2. Januar laeuft an diesem Tag aus**,
+  weil sie bis Maerz galt und Maerz an diesem Tag anfaengt. Niemand erwaehnt es,
+  auch Georgij nicht. Die Vollmacht laeuft am Ende desselben Tages um Mitternacht
+  ab; Mr Chae holt die Zweitschrift, der Eintrag ist gestrichen, das Halsband
+  bleibt (Kapitel 34). **Ende Band 1**
+- Tag 150, Mo 2. Maerz: **Anfang Band 2.** Erster Arbeitstag, weil der Sonntag
+  ihr gehoert hat. Er bittet um eine neue Vollmacht und bekommt sie nicht. Der
   aufgeraeumte Katalog kommt ins Haus (Band 2, Kapitel 1)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -2151,9 +2153,11 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.1) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.2) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
-  **Der Einfall:** Zwei Dinge sind um dieselbe Mitternacht gestorben und ziehen in verschiedene Richtungen. Annies Sperre vom 2. Januar (*"nothing for you between now and March"*) ist abgelaufen, er darf also wieder arbeiten. Die Vollmacht ist abgelaufen, er kann also nichts mehr zeichnen. *"So he was permitted to work and had nothing to work with."*
+  **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und den Sonntag hat er auf dem Boden neben ihrem Stuhl verbracht, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
+
+  **Hier stand bis zum 23.08. "um dieselbe Mitternacht", und das war falsch.** Zwei Fristen mit verschiedenen Enden waren zu einer zusammengezogen, und dabei ging der beste Teil verloren: dass sein erster freier Arbeitstag ihr gehoert hat und er es nicht bemerkt hat.
 
   **Der Morgen.** Haushaltstextur, die seit Kapitel 13 fehlt. **Yun**, der Kuechenjunge seit der ersten Januarwoche, ist acht Wochen da und traegt die Teller inzwischen in den Haenden statt auf den Unterarmen. Er gruesst Georgij jeden Morgen, was ihm niemand gesagt hat und was zwei der vier Maedchen bis heute nicht tun. Georgij steht zum dritten Montag hintereinander frueh genug auf, um jemand anderem bei der Arbeit zuzusehen.
 
@@ -3357,8 +3361,12 @@ Tatsachen, aus denen Band 2 anfaengt, und drei davon sind neu.
 3. **Er besitzt weiterhin nichts.** Papiere seit der zweiten Oktoberwoche, weil
    ihre Compliance sie brauchte; kein Konto, kein Geld. Die Streichung erzeugt
    davon nichts. Wer ihm etwas gibt, holt es aus einer Szene.
-4. **Die Vollmacht ist tot**, am 1. Maerz um Mitternacht, ohne Verlaengerungs-
-   klausel. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
+4. **Die Vollmacht ist tot**, am Ende des 1. Maerz um Mitternacht, ohne
+   Verlaengerungsklausel. **Die Sperre vom 2. Januar ist an demselben Tag
+   ausgelaufen, aber zu Tagesbeginn** - sie galt bis Maerz, und Maerz faengt am
+   1. Maerz an. Die beiden Fristen enden also einen ganzen Tag auseinander, und
+   den Tag dazwischen hat er bei ihr verbracht, ohne es zu bemerken.
+   Wer das zusammenzieht, verliert genau das. Wenn er wieder zeichnen soll, muss darum neu gebeten werden, und
    Georgij hat in Kapitel 24 gesagt, dass er es tun wuerde: *"a date on it, after
    which it is dead and I ask you again."* **Diese Bitte steht aus.**
 
@@ -4758,19 +4766,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | b1ch34:478 | "There is more of it," said Annie. "Say the rest." |
 | 50 | b1ch34:498 | Annie went as far as the window and stood with her back to the room. |
 | 50 | b1ch34:514 | Annie's hand came down on the back of his head and stayed there. |
-| 51 | b2ch01:34 | "It is March," said Annie. |
-| 51 | b2ch01:42 | Annie put down the page she was holding and did not turn it face down. |
-| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
-| 51 | b2ch01:78 | Annie turned her chair a few degrees, so that she was facing him and not the desk. |
-| 51 | b2ch01:102 | Annie waited. |
-| 51 | b2ch01:108 | Annie got up and took the coat off the back of the chair. |
-| 51 | b2ch01:122 | "You are working again as of this morning," said Annie. "Nobody has told you what to wan.. |
-| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
-| 51 | b2ch01:144 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
-| 51 | b2ch01:216 | Annie came back from Yeouido at ten past eight. |
-| 51 | b2ch01:220 | "You have read it," said Annie. |
-| 51 | b2ch01:248 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
-| 51 | b2ch01:258 | Annie put her hand flat on the arm of the chair. |
+| 51 | b2ch01:36 | "It is March," said Annie. |
+| 51 | b2ch01:44 | Annie put down the page she was holding and did not turn it face down. |
+| 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:80 | Annie turned her chair a few degrees, so that she was facing him and not the desk. |
+| 51 | b2ch01:104 | Annie waited. |
+| 51 | b2ch01:110 | Annie got up and took the coat off the back of the chair. |
+| 51 | b2ch01:124 | "You are working again," said Annie. "Nobody has told you what to want." |
+| 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 51 | b2ch01:146 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
+| 51 | b2ch01:218 | Annie came back from Yeouido at ten past eight. |
+| 51 | b2ch01:222 | "You have read it," said Annie. |
+| 51 | b2ch01:250 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
+| 51 | b2ch01:260 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4845,10 +4853,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:90` (Tag 46) - nine, twenty, two
 - `b1ch34:326` (Tag 50) - four
 - `b1ch34:354` (Tag 50) - forty
-- `b2ch01:64` (Tag 51) - nine, one, six
-- `b2ch01:136` (Tag 51) - three, two
-- `b2ch01:144` (Tag 51) - forty, twenty-two
-- `b2ch01:216` (Tag 51) - eight, ten
+- `b2ch01:66` (Tag 51) - nine, one, six
+- `b2ch01:138` (Tag 51) - three, two
+- `b2ch01:146` (Tag 51) - forty, twenty-two
+- `b2ch01:218` (Tag 51) - eight, ten
 
 ---
 
@@ -5583,9 +5591,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
 | 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
-| 51 | b2ch01:14 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
-| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
-| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
+| 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -5616,9 +5624,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:230` (Tag 1) - one
 - `b1ch31:68` (Tag 74) - one, three
 - `b1ch33:422` (Tag 7) - six
-- `b2ch01:14` (Tag 51) - seven
-- `b2ch01:64` (Tag 51) - nine, one, six
-- `b2ch01:136` (Tag 51) - three, two
+- `b2ch01:16` (Tag 51) - seven
+- `b2ch01:66` (Tag 51) - nine, one, six
+- `b2ch01:138` (Tag 51) - three, two
 
 ---
 
@@ -5998,14 +6006,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
 | 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 | 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:16 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
-- `b2ch01:16` (Tag 51) - four, six
+- `b2ch01:18` (Tag 51) - four, six
 
 ---
 

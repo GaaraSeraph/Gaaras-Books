@@ -64,11 +64,13 @@ nachrechnen, und `check.py` tut das automatisch.
   Fristverlaengerung in Jung-gu, vier Minuten (Kapitel 34)
 - Tag 139, Do 19. Februar: **der Registereintrag wird gestrichen** (Kapitel 34)
 - Tag 145, Mi 25. Februar: die stillgelegten Wochen, zweiter Abschnitt von 34
-- Tag 149, So 1. Maerz: die Vollmacht laeuft um Mitternacht ab; Mr Chae holt die
-  Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34).
-  **Ende Band 1**
-- Tag 150, Mo 2. Maerz: **Anfang Band 2.** Die Sperre vom 2. Januar ist abgelaufen
-  und die Vollmacht auch. Er bittet um eine neue und bekommt sie nicht. Der
+- Tag 149, So 1. Maerz: **die Sperre vom 2. Januar laeuft an diesem Tag aus**,
+  weil sie bis Maerz galt und Maerz an diesem Tag anfaengt. Niemand erwaehnt es,
+  auch Georgij nicht. Die Vollmacht laeuft am Ende desselben Tages um Mitternacht
+  ab; Mr Chae holt die Zweitschrift, der Eintrag ist gestrichen, das Halsband
+  bleibt (Kapitel 34). **Ende Band 1**
+- Tag 150, Mo 2. Maerz: **Anfang Band 2.** Erster Arbeitstag, weil der Sonntag
+  ihr gehoert hat. Er bittet um eine neue Vollmacht und bekommt sie nicht. Der
   aufgeraeumte Katalog kommt ins Haus (Band 2, Kapitel 1)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -414,9 +416,11 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.1) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.2) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
-  **Der Einfall:** Zwei Dinge sind um dieselbe Mitternacht gestorben und ziehen in verschiedene Richtungen. Annies Sperre vom 2. Januar (*"nothing for you between now and March"*) ist abgelaufen, er darf also wieder arbeiten. Die Vollmacht ist abgelaufen, er kann also nichts mehr zeichnen. *"So he was permitted to work and had nothing to work with."*
+  **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und den Sonntag hat er auf dem Boden neben ihrem Stuhl verbracht, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
+
+  **Hier stand bis zum 23.08. "um dieselbe Mitternacht", und das war falsch.** Zwei Fristen mit verschiedenen Enden waren zu einer zusammengezogen, und dabei ging der beste Teil verloren: dass sein erster freier Arbeitstag ihr gehoert hat und er es nicht bemerkt hat.
 
   **Der Morgen.** Haushaltstextur, die seit Kapitel 13 fehlt. **Yun**, der Kuechenjunge seit der ersten Januarwoche, ist acht Wochen da und traegt die Teller inzwischen in den Haenden statt auf den Unterarmen. Er gruesst Georgij jeden Morgen, was ihm niemand gesagt hat und was zwei der vier Maedchen bis heute nicht tun. Georgij steht zum dritten Montag hintereinander frueh genug auf, um jemand anderem bei der Arbeit zuzusehen.
 
