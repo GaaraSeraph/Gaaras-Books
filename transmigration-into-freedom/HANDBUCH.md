@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 29 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 63.722 Woerter.
+Kanon: 30 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 65.118 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -260,6 +260,15 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
+Ketil, Ylva's dead husband's brother, HIRED ch30
+- Rode east in ch14 and told the lord's man everything. Then could not come
+  home, and stood in the hiring yard behind the Staple for three weeks.
+- HIS FAILURE IS NOT THE HORSE AND YLVA SAYS SO. It is that he did not come
+  back and stand in the road and have it said to him.
+- HADES' FIRST EMPLOYEE IN TOWN. A year, on Ylva's terms, unforgiven.
+- What he is for: reading a warden, reaching Gunnar, and being the company's
+  standing presence in the Wold while Gaara is twenty miles up a hill.
+
 Runa, button seller (ch23)
 - Horn, bone and one tray of brass, on the stall beside where he sets up.
   Watches him settle the carters' dispute without once getting up for a
@@ -270,6 +279,13 @@ Runa, button seller (ch23)
   judgement. THIS IS WHAT DRAWS GAARA, NOT MONEY - a woman disciplined enough
   to buy certainty before she commits a wage. He works out why she never once
   looked like she needed the opinion she was paying for.
+- ch30: SHE COMES TO HIM, a week and a half later, and he has not raised it once
+  since arriving. She names the method to his face and he agrees to all of it.
+  SHE IS ALSO THE ONE WHO SAVES THE IRON PRICE, before anything personal
+  happens, in daylight, and is paid for it. KEEP THE TWO CLEANLY SEPARATE. The
+  author has already corrected one draft for letting money into a pass at her.
+- SHE CATCHES THE KISS LADDER WHILE IT IS HAPPENING, which nobody in either
+  world has done, and he says so and means it.
 - "You are going to be a problem." And then, on his non-offer: "It is an offer
   with the work moved onto me." She is the first person in this world to take
   him apart in one sentence without raising her voice.
@@ -811,6 +827,39 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== ch30: Ketil is hired, and the reason is cold ===
+The thread has been live since ch14 and the two obvious endings were both bad:
+a reconciliation, or a man run out of a yard. Neither is this book.
+SO HE IS PUT TO WORK, UNFORGIVEN, AND YLVA IS THE ONE WHO DOES IT. Gaara wants
+him and says why in commercial terms; Ylva sets the terms and the year. "I do
+not need him forgiven. I need him useful."
+AND GAARA CANNOT BE ANGRY, WHICH IS THE POINT. ch14 established that his own
+refusal to recruit on half a story is what put Ketil on the horse. He says so.
+YLVA'S CHARGE IS RELOCATED AND IT IS BETTER FOR IT: not the informing, which
+the village understood by the second day, but the three weeks of not coming
+back to have it said to him. That measures him against Hallvard in ch14, who
+did exactly that in four minutes and expected to lose the eldership.
+
+=== The kiss ladder gets used a third time, and the third use is being caught ===
+ch13 was the ladder itself, ch20 was the inversion. A third straight run of it
+would be a tic. So Runa STOPS IN THE MIDDLE AND NAMES IT, and he confirms every
+part of it without defending any of it.
+WHY HER AND NOT ANYBODY ELSE: she is the woman who buys certainty before she
+commits a wage, and the one person in the book who has taken him apart in a
+single sentence without raising her voice. The scene's governing sense is BEING
+READ, which no other scene has.
+AND IT COSTS HIM NOTHING AND IS WORTH EVERYTHING TO HIM: "Nobody has ever
+noticed, and I have just found out what that is worth."
+
+=== The iron does not get dumped, and Runa is why ===
+Four carts into a town with three smiths halves the price and keeps it halved,
+because everybody then knows there is more up the hill. Sell a quarter, shed
+the rest, and make sure three people know about the shed.
+THIS IS THE LITRPG-BUSINESS BEAT THE AUTHOR ASKED FOR, and it is deliberately
+NOT Gaara's idea. He is a negotiator, not a market maker, and the book is
+better when the people around him are right about things he is not.
 
 
 === ch29: what INT 27 was for, and it is not fighting ===
@@ -2703,7 +2752,8 @@ nicht diese Zeile von Hand.
 27. Everything After That Is Filing
 28. Still None
 29. Put It on Mine
-30. (planned) the metal goes to the Wold, and what a company owes
+30. A Man in Town
+31. (planned) what comes back east, and the fifth trip
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3806,6 +3856,67 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The metal goes down, and Ketil is hired (ch30)
+- FOUR CARTS, THREE DAYS, AND MARIT STAYS. Settled in four seconds and neither
+  of them enjoyed it. "Somebody holds the valley. And it is not going to be the
+  man who has to be in a town."
+- ORDULF IS PAID AND IT IS THE FIRST DEBT GAARA HAS EVER CLEARED IN THIS WORLD.
+  He notices the exact moment and has to stand still for a second. Ordulf's
+  ledger is the back of his own door, written with a nail.
+- RUNA SAVES THE PRICE BEFORE ANYTHING ELSE HAPPENS. One town, three smiths,
+  one scrap shop, and four carts is a year of stock in an afternoon. Sell a
+  quarter, shed the rest, TELL THREE PEOPLE YOU HAVE A SHED. "A man with a shed
+  is not desperate, and everybody in this town can smell desperate through a
+  wall." He pays her, for the third time, and says he is keeping a total.
+- FRIDA HAS SOLD ELEVEN BOARDS and two carters fetched one off her counter
+  without being told. "In nineteen years I never once got anybody to fetch a
+  form."
+- KETIL, FOUND AT LAST, in the yard behind the Staple where men wait for work.
+  Ylva sees him first. THE GOOD COAT HAS GONE THROUGH AT ONE ELBOW.
+  HE COULD NOT MAKE HIMSELF ASK. Three weeks in a town, a lord's man back from
+  Oldstep four days ago, and he could not put the question to him, because he
+  believed the village was gone and he had done it.
+  GAARA IS NOT ANGRY AND SAYS WHY, and it is the ch14 causality holding: he
+  refused to recruit on half a story, Ketil rode east on the whole one. "If I
+  get to be proud of the first half, I do not get to be surprised by the
+  second."
+  AND HE TELLS HIM THE WHOLE THING UNARRANGED, gate shut, Bern's leg and Bern's
+  name, four trips, nine up and nine down, and the roll.
+- YLVA'S CHARGE IS NOT THE HORSE, AND THAT IS THE BEST LINE IN THE SCENE:
+  "Everybody in that village understood the horse by the second day." What she
+  will not have is that he did not come back and stand in the road and have it
+  said to him, the way Hallvard did in four minutes expecting to lose the
+  eldership.
+- THE HIRE. Hades needs a man in the Wold: somebody who reads a warden, can
+  reach Gunnar, and has already learned that yard by heart. "I do not need him
+  forgiven. I need him useful. Those are different."
+  AND HE SAYS THE COLD HALF OUT LOUD: half of Oldstep will say he has gone soft,
+  and the other half will notice that the man who informed on them now works for
+  them and cannot afford to do it twice.
+  YLVA CLOSES IT, NOT HIM: "I am not forgiving you. I am putting you to work."
+  A year, then they see. She puts out her hand, which he has never seen her do.
+- AND HIS ANSWER TO TORV IS THE COMPANY'S HIRING POLICY: "I am not going to run
+  a company where the entry requirement is having been right so far. There
+  would be nobody in it, starting with me."
+- RUNA COMES TO HIM, which is the third time the ask-once rule has paid (Sivert,
+  Ylva's spring, now this). He told her where he slept a week and a half ago and
+  has not mentioned it since. "That is the most calculated thing anybody has
+  ever done to me." "Yes." He does not argue the word.
+- SHE CATCHES THE LADDER MID-ACT, WHICH NOBODY HAS EVER DONE. That is the whole
+  point of using it a third time: "You are giving me less than I just asked you
+  for. Every time. Deliberately." "Why." "Because you are going to ask again."
+  Register tag for this scene: BEING READ. It is the only one where the other
+  person narrates his method while he is using it.
+- THE FOUR WORDS ARE REFERENCED AND NOT REPRINTED, per the standing rule. "That
+  is a very short vocabulary." "It is a complete one." She uses two of them and
+  then stops using any, which is the part he works for.
+- HE DOES NOT ASK HER TO COME, and does not dress it as restraint. He has
+  nothing to put next to a stall and a workshop. "When I do, I will say it
+  once."
+- CLOSING: the arithmetic comes out on the right side of the line for the first
+  time since the ash, and he checks the top of the panel out of habit, the way
+  a man checks a pocket he knows is empty. Class: None. "One of these days."
 
 The drum reads, and the debt changes hands (ch29)
 - THE FOURTH TRIP IS THE EASIEST OF THE FOUR AND THAT IS THE POINT. They know

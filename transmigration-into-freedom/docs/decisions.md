@@ -3,6 +3,39 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== ch30: Ketil is hired, and the reason is cold ===
+The thread has been live since ch14 and the two obvious endings were both bad:
+a reconciliation, or a man run out of a yard. Neither is this book.
+SO HE IS PUT TO WORK, UNFORGIVEN, AND YLVA IS THE ONE WHO DOES IT. Gaara wants
+him and says why in commercial terms; Ylva sets the terms and the year. "I do
+not need him forgiven. I need him useful."
+AND GAARA CANNOT BE ANGRY, WHICH IS THE POINT. ch14 established that his own
+refusal to recruit on half a story is what put Ketil on the horse. He says so.
+YLVA'S CHARGE IS RELOCATED AND IT IS BETTER FOR IT: not the informing, which
+the village understood by the second day, but the three weeks of not coming
+back to have it said to him. That measures him against Hallvard in ch14, who
+did exactly that in four minutes and expected to lose the eldership.
+
+=== The kiss ladder gets used a third time, and the third use is being caught ===
+ch13 was the ladder itself, ch20 was the inversion. A third straight run of it
+would be a tic. So Runa STOPS IN THE MIDDLE AND NAMES IT, and he confirms every
+part of it without defending any of it.
+WHY HER AND NOT ANYBODY ELSE: she is the woman who buys certainty before she
+commits a wage, and the one person in the book who has taken him apart in a
+single sentence without raising her voice. The scene's governing sense is BEING
+READ, which no other scene has.
+AND IT COSTS HIM NOTHING AND IS WORTH EVERYTHING TO HIM: "Nobody has ever
+noticed, and I have just found out what that is worth."
+
+=== The iron does not get dumped, and Runa is why ===
+Four carts into a town with three smiths halves the price and keeps it halved,
+because everybody then knows there is more up the hill. Sell a quarter, shed
+the rest, and make sure three people know about the shed.
+THIS IS THE LITRPG-BUSINESS BEAT THE AUTHOR ASKED FOR, and it is deliberately
+NOT Gaara's idea. He is a negotiator, not a market maker, and the book is
+better when the people around him are right about things he is not.
+
+
 === ch29: what INT 27 was for, and it is not fighting ===
 The purchase in ch28 had to pay off or it was fifteen points of nothing. It
 pays off the way CON paid off in ch25: once, physically, in one moment, without

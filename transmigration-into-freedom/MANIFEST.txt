@@ -29,6 +29,7 @@ ch26    2337 Woerter  ch26-then-write-us-down.md
 ch27    1170 Woerter  ch27-everything-after-that-is-filing.md
 ch28    2712 Woerter  ch28-still-none.md
 ch29    2560 Woerter  ch29-put-it-on-mine.md
+ch30    2964 Woerter  ch30-a-man-in-town.md
 
-Gesamt: 29 Kapitel, 64242 Woerter
+Gesamt: 30 Kapitel, 67206 Woerter
 Handbuch: 4 Dokumente

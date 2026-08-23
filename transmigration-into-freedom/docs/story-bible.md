@@ -35,7 +35,8 @@ nicht diese Zeile von Hand.
 27. Everything After That Is Filing
 28. Still None
 29. Put It on Mine
-30. (planned) the metal goes to the Wold, and what a company owes
+30. A Man in Town
+31. (planned) what comes back east, and the fifth trip
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1138,6 +1139,67 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The metal goes down, and Ketil is hired (ch30)
+- FOUR CARTS, THREE DAYS, AND MARIT STAYS. Settled in four seconds and neither
+  of them enjoyed it. "Somebody holds the valley. And it is not going to be the
+  man who has to be in a town."
+- ORDULF IS PAID AND IT IS THE FIRST DEBT GAARA HAS EVER CLEARED IN THIS WORLD.
+  He notices the exact moment and has to stand still for a second. Ordulf's
+  ledger is the back of his own door, written with a nail.
+- RUNA SAVES THE PRICE BEFORE ANYTHING ELSE HAPPENS. One town, three smiths,
+  one scrap shop, and four carts is a year of stock in an afternoon. Sell a
+  quarter, shed the rest, TELL THREE PEOPLE YOU HAVE A SHED. "A man with a shed
+  is not desperate, and everybody in this town can smell desperate through a
+  wall." He pays her, for the third time, and says he is keeping a total.
+- FRIDA HAS SOLD ELEVEN BOARDS and two carters fetched one off her counter
+  without being told. "In nineteen years I never once got anybody to fetch a
+  form."
+- KETIL, FOUND AT LAST, in the yard behind the Staple where men wait for work.
+  Ylva sees him first. THE GOOD COAT HAS GONE THROUGH AT ONE ELBOW.
+  HE COULD NOT MAKE HIMSELF ASK. Three weeks in a town, a lord's man back from
+  Oldstep four days ago, and he could not put the question to him, because he
+  believed the village was gone and he had done it.
+  GAARA IS NOT ANGRY AND SAYS WHY, and it is the ch14 causality holding: he
+  refused to recruit on half a story, Ketil rode east on the whole one. "If I
+  get to be proud of the first half, I do not get to be surprised by the
+  second."
+  AND HE TELLS HIM THE WHOLE THING UNARRANGED, gate shut, Bern's leg and Bern's
+  name, four trips, nine up and nine down, and the roll.
+- YLVA'S CHARGE IS NOT THE HORSE, AND THAT IS THE BEST LINE IN THE SCENE:
+  "Everybody in that village understood the horse by the second day." What she
+  will not have is that he did not come back and stand in the road and have it
+  said to him, the way Hallvard did in four minutes expecting to lose the
+  eldership.
+- THE HIRE. Hades needs a man in the Wold: somebody who reads a warden, can
+  reach Gunnar, and has already learned that yard by heart. "I do not need him
+  forgiven. I need him useful. Those are different."
+  AND HE SAYS THE COLD HALF OUT LOUD: half of Oldstep will say he has gone soft,
+  and the other half will notice that the man who informed on them now works for
+  them and cannot afford to do it twice.
+  YLVA CLOSES IT, NOT HIM: "I am not forgiving you. I am putting you to work."
+  A year, then they see. She puts out her hand, which he has never seen her do.
+- AND HIS ANSWER TO TORV IS THE COMPANY'S HIRING POLICY: "I am not going to run
+  a company where the entry requirement is having been right so far. There
+  would be nobody in it, starting with me."
+- RUNA COMES TO HIM, which is the third time the ask-once rule has paid (Sivert,
+  Ylva's spring, now this). He told her where he slept a week and a half ago and
+  has not mentioned it since. "That is the most calculated thing anybody has
+  ever done to me." "Yes." He does not argue the word.
+- SHE CATCHES THE LADDER MID-ACT, WHICH NOBODY HAS EVER DONE. That is the whole
+  point of using it a third time: "You are giving me less than I just asked you
+  for. Every time. Deliberately." "Why." "Because you are going to ask again."
+  Register tag for this scene: BEING READ. It is the only one where the other
+  person narrates his method while he is using it.
+- THE FOUR WORDS ARE REFERENCED AND NOT REPRINTED, per the standing rule. "That
+  is a very short vocabulary." "It is a complete one." She uses two of them and
+  then stops using any, which is the part he works for.
+- HE DOES NOT ASK HER TO COME, and does not dress it as restraint. He has
+  nothing to put next to a stall and a workshop. "When I do, I will say it
+  once."
+- CLOSING: the arithmetic comes out on the right side of the line for the first
+  time since the ash, and he checks the top of the panel out of habit, the way
+  a man checks a pocket he knows is empty. Class: None. "One of these days."
 
 The drum reads, and the debt changes hands (ch29)
 - THE FOURTH TRIP IS THE EASIEST OF THE FOUR AND THAT IS THE POINT. They know

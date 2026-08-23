@@ -243,6 +243,15 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
+Ketil, Ylva's dead husband's brother, HIRED ch30
+- Rode east in ch14 and told the lord's man everything. Then could not come
+  home, and stood in the hiring yard behind the Staple for three weeks.
+- HIS FAILURE IS NOT THE HORSE AND YLVA SAYS SO. It is that he did not come
+  back and stand in the road and have it said to him.
+- HADES' FIRST EMPLOYEE IN TOWN. A year, on Ylva's terms, unforgiven.
+- What he is for: reading a warden, reaching Gunnar, and being the company's
+  standing presence in the Wold while Gaara is twenty miles up a hill.
+
 Runa, button seller (ch23)
 - Horn, bone and one tray of brass, on the stall beside where he sets up.
   Watches him settle the carters' dispute without once getting up for a
@@ -253,6 +262,13 @@ Runa, button seller (ch23)
   judgement. THIS IS WHAT DRAWS GAARA, NOT MONEY - a woman disciplined enough
   to buy certainty before she commits a wage. He works out why she never once
   looked like she needed the opinion she was paying for.
+- ch30: SHE COMES TO HIM, a week and a half later, and he has not raised it once
+  since arriving. She names the method to his face and he agrees to all of it.
+  SHE IS ALSO THE ONE WHO SAVES THE IRON PRICE, before anything personal
+  happens, in daylight, and is paid for it. KEEP THE TWO CLEANLY SEPARATE. The
+  author has already corrected one draft for letting money into a pass at her.
+- SHE CATCHES THE KISS LADDER WHILE IT IS HAPPENING, which nobody in either
+  world has done, and he says so and means it.
 - "You are going to be a problem." And then, on his non-offer: "It is an offer
   with the work moved onto me." She is the first person in this world to take
   him apart in one sentence without raising her voice.
