@@ -19,6 +19,12 @@ nachrechnen, und `check.py` tut das automatisch.
 
 **Kapitelüberschriften mit Datum.** Wo ein Kapitel datierte Abschnitte hat, steht der Wochentag und das Datum dabei: `## Day Thirty-One · Monday 3 November`. Das ist Leserführung und gilt ab jetzt für jedes datierte Kapitel.
 
+**Ein Kapitel hat nicht zwingend einen Tag, und die erste Datumszeile ist nicht der Tag des Kapitels.** Sieben Kapitel haben mehrere Abschnitte: **5** (vier Tage), **12**, **14**, **27** und **28** (je drei), **26** und **34** (je zwei). Kapitel 14 laeuft ueber die Tage **31, 33 und 34**.
+
+**Am 23.08. hat das eine richtige Angabe in `doc/02-leads.md` kaputtkorrigiert.** Dort stand, Annie bekomme bis **Tag 34** kein Laecheln. Beim Pruefen wurde die erste Datumszeile von Kapitel 14 gelesen, *Day Thirty-One*, daraus geschlossen, das Kapitel sei Tag 31, und die richtige Zahl in eine falsche geaendert. *And then he smiled* steht im Abschnitt **Day Thirty-Four**. Zurueckgenommen.
+
+**Die Regel daraus:** Wer ein Ereignis datieren will, sucht die Datumszeile **ueber der Stelle**, nicht die oben im Kapitel. `awk '/^## Day/{d=$0} /suchwort/{print d}'` macht das in einer Zeile.
+
 - Tag 1, Sa 4. Oktober: die Auktion
 - Tag 4, Di 7. Oktober: Jang kommt
 - Tag 6, Do 9. Oktober: die Inventur des Haushalts
@@ -461,7 +467,7 @@ Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
 - **Das freundlichere, je schlimmer es wird.** *Zurückgestellt, nicht offen.*
   `doc/02-leads.md` führt den Grundsatz seit Anfang: je zuvorkommender er wird,
   desto näher ist jemand am Schaden. Kapitel 1 zeigt die Mechanik ohne das
-  Gesicht - *he said it gently*, während er einen Mann vernichtet. Es ist das
+  Gesicht - *He said it gently.*, während er einen Mann vernichtet. Es ist das
   einzige Lächeln, bei dem der Leser die Akte glaubt.
 
   **Es stand hier als grösste Lücke und ist keine.** Der Bogen des Buches ist,
@@ -603,7 +609,7 @@ Ausführlich in `doc/02-leads.md` unter **Er lügt nie**.
 **Der Bogen.** Das Buch bewegt ihn von I und II nach IV. Der Katalog erzählt
 damit dieselbe Geschichte wie die festgelegte Zeile in Kapitel 17.
 
-**Zwei in siebzehn Jahren waren seine eigenen.**
+**Zwei in siebzehn Jahren waren seine eigenen, und am 29. Dezember kam ein drittes.** Der Zaehler in Kapitel 17 - *"Two of them in seventeen years had been his own"* - stimmt fuer den Stand von Kapitel 17 und nur dafuer.
 
 **Das erste** geht in Kapitel 7 an Mr Hong, anderthalb Sekunden lang, weil der Mann ihm den dritten Namen gegeben hat und Georgij weiß, was das gekostet hat. Der Text sagt dazu: *it was the only one that was his*.
 
@@ -612,6 +618,8 @@ damit dieselbe Geschichte wie die festgelegte Zeile in Kapitel 17.
 **Kapitel 17, Tag 46, im Wagen**, als Sang-hoon angebissen hat. Dasselbe Lächeln, zwölf Tage später, und der Unterschied ist die Geschwindigkeit: über dem Schreibtisch hat es sich Zeit gelassen, hier nicht mehr.
 
 **Regel:** Das ungebaute nie beschreiben, als wäre es neu. Es hat eine Geschichte und die fängt in Kapitel 14 an. Wenn es wiederkommt, verändert sich etwas daran, nicht die Beschreibung.
+
+**Das dritte**, Kapitel 33, Tag 87, in den elf Sekunden, in denen Sang-hoon den Apfel begreift. Es steht in **keiner** der Gruppen oben, weil die Gruppen kuratierte Sorten fuehren und dieses keine ist: *He had no name for this one.* Zwei Dinge unterscheiden es von den ersten beiden. Es faellt **vor dem Mann, um den es geht**, und vor Annie, die genau das untersagt hat. Und er merkt es erst, als es schon da ist - *He noticed it the way you notice that it has started raining.* Die ersten beiden standen in Raeumen mit einer einzigen Person darin, und die wusste ohnehin alles.
 
 ### Der Griff und wie er zurückkommt
 
@@ -711,7 +719,9 @@ Im Wagen, unter vier Augen, unmittelbar nachdem er zum ersten Mal einen Menschen
 >
 > "They were yours."
 
-**Warum das größer ist als die elf Häuser.** Dort hat er aufgehört, etwas zu tun. Hier gibt er zu, dass etwas mit ihm geschehen ist, und dass er nicht der Handelnde war. Er sagt kein einziges Mal danke, und das ist Absicht: "Thank you" steht achtzehnmal im Buch und fast immer in seinem Mund, an Ji-won für eine Lampe, an den Schneider, an Hana. Es ist sein Kleingeld. Die einzige Art, in der er ihr danken kann, ist die Zuschreibung.
+**Warum das größer ist als die elf Häuser.** Dort hat er aufgehört, etwas zu tun. Hier gibt er zu, dass etwas mit ihm geschehen ist, und dass er nicht der Handelnde war. Er sagt kein einziges Mal danke, und das ist Absicht: **"Thank you" steht achtundzwanzigmal im Text**, fast immer in seinem Mund, an Ji-won für eine Lampe, an den Schneider, an Hana. Es ist sein Kleingeld. Die einzige Art, in der er ihr danken kann, ist die Zuschreibung.
+
+**Hier stand bis zum 23.08. "achtzehnmal", nachgezählt am Stand von Kapitel 17.** Es sind inzwischen achtundzwanzig, und das Argument wird davon nur stärker. **Beim Nachzählen fiel ausserdem auf, wem die Ausnahme gehört:** Annie sagt es genau einmal im ganzen Buch, in Kapitel 11, nachdem Georgij ihr ungefragt einen Regelbruch gemeldet hat, den niemand bemerkt hatte. *"Thank you for telling me."* **Das ist der Titel des Kapitels.** Sie gibt ihm also einmal genau das zurück, was bei ihm Kleingeld ist, und es ist bei ihr das Teuerste, was sie an dem Abend hergibt.
 
 **Das Wort war eine Waffe, keine Beleidigung.** In Kapitel 1 und 2 ist die makellose Höflichkeit die Klinge, und "Mistress" ist ihr schärfstes Stück. Ausgesprochen als Beleidigung steht es nirgends, und er sagt nichts, was der Leser nicht nachprüfen kann.
 
