@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 49.232 Woerter.
+Alle 4 Dokumente am Stueck. 49.937 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -674,6 +674,29 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Four images for the sex scenes, filed with register tags ===
+Author handed over vocabulary rather than an instruction, so it goes into the
+char sheet as available material and not into a chapter today.
+EACH ONE IS TAGGED BY REGISTER, and that is the important part. The four written
+scenes have stayed distinct only because each has a governing sense: ch13
+inventory, ch16 speed and acoustics, ch20 hearing in the dark, ch22 silence and
+constraint. An unhurried wide-open image dropped into a four-minute quickie or a
+loft where nobody may make a noise is exactly how they would start to blur, and
+the repetition audit would not catch it because the words would be new.
+ONE ADAPTATION WAS NEEDED. The author's image is legs at the light fitting, and
+this world has no chandelier. It has rafters and a lamp hook, and ch13's bed is
+already under the eaves, so the world supplies the fitting for free.
+THE BEST OF THE FOUR IS THE TIMING ONE: legs behind the ears before the sentence
+is finished. It is a joke first and sexual second, which is the only register
+this book actually wants, and it is the one that will do the most work.
+AND THE BEGGING ONE IS THE FOUR WORDS PAYING OFF. She is given a vocabulary so
+she never has to explain herself; the moment worth writing is when she abandons
+it and just asks him not to stop.
+NOT RETROFITTED. ch13 is the only existing scene with the room for the first two
+and it is already the longest chapter in the book. They wait for the next
+unhurried scene, which the text has already promised: ask me in the spring.
 
 
 === "in three villages now" was a lie, and he does not lie ===
@@ -2254,6 +2277,38 @@ is not guesswork, because a person in the dark cannot help answering.
   ch13 is her first time with him and ch16 is four minutes behind a sledge.
   The earliest it can land is the next unhurried night with Marit, which by the
   current plan is after he comes back from the Wold.
+- THE IMAGES HE WANTS AVAILABLE (author). Four of them, and each one carries a
+  REGISTER TAG, because the reason the scenes have stayed distinct so far is that
+  each has a governing sense. Dropping a wide open unhurried image into a four
+  minute quickie or a silent loft is how they start to blur.
+    HEELS UP AT THE RAFTERS. Her legs high and back, held there. NOTE THE
+      ADAPTATION: this world has no chandelier and no ceiling light. It has
+      rafters, a beam, a lamp hook and the underside of a roof, and ch13's bed is
+      already under the eaves, so the fitting is free. Register: UNHURRIED, in a
+      room, with space. Never in the tube, never in the loft.
+    HIS LEGS BEHIND HIS EARS BEFORE HE FINISHED THE SENTENCE. This one is a
+      COMIC beat first and a sexual one second, and the joke is entirely in the
+      timing: somebody is halfway through saying what they would like and it has
+      already happened to them. It needs room and it needs a partner talking, so
+      it belongs to an unhurried scene with somebody who is being articulate.
+      It is also the only one of the four that would land on a first read as
+      funny, which is exactly the register this book wants.
+    HIS FACE BURIED BETWEEN THEIR INNER THIGHS. Register: any. This is the
+      default position of the man once he gets there and it fits everywhere from
+      a bed to a forge floor. Keep the description of it short each time and
+      NEVER in the same words twice; the audit catches that.
+    WHIMPERING, WHINING, AND BEGGING HIM TO KEEP GOING. Register: UNHURRIED, and
+      it is the natural end of the four words. She is issued a vocabulary
+      precisely so she does not have to explain herself, and the moment worth
+      writing is when SHE STOPS USING IT and just begs, because that is the
+      vocabulary having done its job and then been abandoned.
+      It also sits directly on top of the standing rule that THE SOUND IS THE
+      OBJECT OF THE EXERCISE, so this is that rule at full volume.
+  WHERE THEY HAVE NOT BEEN SPENT YET: none of the four is on the page. ch13 is
+  the only written scene with the room for the first two and it is already the
+  longest chapter in the book at 3102 words, so they wait for the next unhurried
+  one rather than being retrofitted. THE NEXT UNHURRIED ONE IS ALREADY PROMISED:
+  "Ask me in the spring."
 - THE FOUR WORDS, established ch13 with Marit and now his standing practice with
   women. Before he goes down on somebody he hands over the vocabulary:
     SLOWER. FASTER. HIGHER. LOWER.

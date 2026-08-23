@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Four images for the sex scenes, filed with register tags ===
+Author handed over vocabulary rather than an instruction, so it goes into the
+char sheet as available material and not into a chapter today.
+EACH ONE IS TAGGED BY REGISTER, and that is the important part. The four written
+scenes have stayed distinct only because each has a governing sense: ch13
+inventory, ch16 speed and acoustics, ch20 hearing in the dark, ch22 silence and
+constraint. An unhurried wide-open image dropped into a four-minute quickie or a
+loft where nobody may make a noise is exactly how they would start to blur, and
+the repetition audit would not catch it because the words would be new.
+ONE ADAPTATION WAS NEEDED. The author's image is legs at the light fitting, and
+this world has no chandelier. It has rafters and a lamp hook, and ch13's bed is
+already under the eaves, so the world supplies the fitting for free.
+THE BEST OF THE FOUR IS THE TIMING ONE: legs behind the ears before the sentence
+is finished. It is a joke first and sexual second, which is the only register
+this book actually wants, and it is the one that will do the most work.
+AND THE BEGGING ONE IS THE FOUR WORDS PAYING OFF. She is given a vocabulary so
+she never has to explain herself; the moment worth writing is when she abandons
+it and just asks him not to stop.
+NOT RETROFITTED. ch13 is the only existing scene with the room for the first two
+and it is already the longest chapter in the book. They wait for the next
+unhurried scene, which the text has already promised: ask me in the spring.
+
+
 === "in three villages now" was a lie, and he does not lie ===
 Author. Not a continuity slip, A BREACH OF RULE ONE, which is the load-bearing
 thing about the character.
