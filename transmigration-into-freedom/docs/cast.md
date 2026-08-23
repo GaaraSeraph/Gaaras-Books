@@ -276,10 +276,21 @@ That is why I said it." She uses his own rule to tell him she will be the one
 who comes, which is now the pattern of this book: he asks once and people come
 back to him in their own time. Same shape as Sivert's two arms.
 
-Sivert, ch21: "I would have said yes," said to the roof, and it is the whole of
-his contribution and it is enough. He is answered with the only tenderness
-Gaara can do out loud: "You are the only uncomplicated thing in this town and I
-intend to be extremely careful with you."
+Sivert, ch22 loft: "I would have said yes," said to the roof. AND GAARA ACTS ON
+IT, four seconds later, which is the longest he has ever held information of
+that kind. He asks Ylva rather than sneaking, and she answers with an order:
+"It is not a no. It is an instruction."
+THE SCENE'S GOVERNING SENSE IS SILENCE AND CONSTRAINT, and it must never be
+written like ch20's. Straw the width of three people, no room to get anywhere,
+everything inside eighteen inches, a fist in the straw and a shoulder bitten
+once. THE THING HE WANTS MOST HE IS NOT ALLOWED TO HAVE: he works for the sound
+and tonight it comes to a breath going wrong, a hand closing, and his own name
+in about four letters. He had not seen that coming and it costs him.
+AND YLVA GETS THE SCENE'S JOKE: "You are extremely quiet for a man who cannot
+stop talking." "That was the single hardest thing I have ever done." "I believe
+you." "I want that written down. I want Signe to write it down."
+HER REFUSAL IS STRONGER FOR IT, not weaker. She said no for her own reasons and
+does not require anybody else to be celibate about it.
 
 Egil, captain, Level 15 (ch21)
 - Runs a company that comes in off jobs and counts silver on a table. Says "No"

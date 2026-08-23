@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 48.579 Woerter.
+Alle 4 Dokumente am Stueck. 49.011 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -293,10 +293,21 @@ That is why I said it." She uses his own rule to tell him she will be the one
 who comes, which is now the pattern of this book: he asks once and people come
 back to him in their own time. Same shape as Sivert's two arms.
 
-Sivert, ch21: "I would have said yes," said to the roof, and it is the whole of
-his contribution and it is enough. He is answered with the only tenderness
-Gaara can do out loud: "You are the only uncomplicated thing in this town and I
-intend to be extremely careful with you."
+Sivert, ch22 loft: "I would have said yes," said to the roof. AND GAARA ACTS ON
+IT, four seconds later, which is the longest he has ever held information of
+that kind. He asks Ylva rather than sneaking, and she answers with an order:
+"It is not a no. It is an instruction."
+THE SCENE'S GOVERNING SENSE IS SILENCE AND CONSTRAINT, and it must never be
+written like ch20's. Straw the width of three people, no room to get anywhere,
+everything inside eighteen inches, a fist in the straw and a shoulder bitten
+once. THE THING HE WANTS MOST HE IS NOT ALLOWED TO HAVE: he works for the sound
+and tonight it comes to a breath going wrong, a hand closing, and his own name
+in about four letters. He had not seen that coming and it costs him.
+AND YLVA GETS THE SCENE'S JOKE: "You are extremely quiet for a man who cannot
+stop talking." "That was the single hardest thing I have ever done." "I believe
+you." "I want that written down. I want Signe to write it down."
+HER REFUSAL IS STRONGER FOR IT, not weaker. She said no for her own reasons and
+does not require anybody else to be celibate about it.
 
 Egil, captain, Level 15 (ch21)
 - Runs a company that comes in off jobs and counts silver on a table. Says "No"
@@ -663,6 +674,28 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Sivert said yes and I let him go to sleep ===
+Author caught it and there was no defence. Gaara had asked all three of them for
+exactly this ten minutes earlier, one of them said yes, and I wrote a tender line
+and a fade. THAT WAS MY SQUEAMISHNESS ABOUT YLVA BEING TWO FEET AWAY AND NOT HIS.
+HE DOES NOT SNEAK, HE ASKS THE THIRD PERSON. And she does not need protecting
+from it: "It is not a no. It is an instruction." HER REFUSAL COMES OUT STRONGER,
+because she declined for her own reasons and does not require anybody else to be
+celibate on her behalf. That is the whole point of the reason she gave.
+THE SCENE HAD TO NOT BE ch20 AGAIN, and the constraint supplied the answer: straw
+the width of three people, no room, and a woman awake beside them. GOVERNING
+SENSE IS SILENCE. ch13 was inventory, ch16 speed, ch20 hearing, this one is
+stillness and not being allowed to make a noise.
+WHICH PRODUCES A GENUINELY NEW BEAT: the char sheet says the sound is the object
+of the exercise, and here he cannot have it. He had not seen that coming and it
+costs him. That is the preference turned into a problem instead of a fact.
+THE REPETITION AUDIT EARNED ITS KEEP: 20 shared four-word phrases on the first
+run, including FOREHEAD AGAINST GAARA'S COLLARBONE, word for word out of ch20,
+same partner, same gesture, two chapters apart. Also caught: I called Sivert
+"the boy", which the text stopped doing in ch15 and which cast.md forbids. Down
+to 12, and the remainder are ordinary English connectives.
 
 
 === The jokes move into the spec, not the review ===

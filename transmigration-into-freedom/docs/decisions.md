@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Sivert said yes and I let him go to sleep ===
+Author caught it and there was no defence. Gaara had asked all three of them for
+exactly this ten minutes earlier, one of them said yes, and I wrote a tender line
+and a fade. THAT WAS MY SQUEAMISHNESS ABOUT YLVA BEING TWO FEET AWAY AND NOT HIS.
+HE DOES NOT SNEAK, HE ASKS THE THIRD PERSON. And she does not need protecting
+from it: "It is not a no. It is an instruction." HER REFUSAL COMES OUT STRONGER,
+because she declined for her own reasons and does not require anybody else to be
+celibate on her behalf. That is the whole point of the reason she gave.
+THE SCENE HAD TO NOT BE ch20 AGAIN, and the constraint supplied the answer: straw
+the width of three people, no room, and a woman awake beside them. GOVERNING
+SENSE IS SILENCE. ch13 was inventory, ch16 speed, ch20 hearing, this one is
+stillness and not being allowed to make a noise.
+WHICH PRODUCES A GENUINELY NEW BEAT: the char sheet says the sound is the object
+of the exercise, and here he cannot have it. He had not seen that coming and it
+costs him. That is the preference turned into a problem instead of a fact.
+THE REPETITION AUDIT EARNED ITS KEEP: 20 shared four-word phrases on the first
+run, including FOREHEAD AGAINST GAARA'S COLLARBONE, word for word out of ch20,
+same partner, same gesture, two chapters apart. Also caught: I called Sivert
+"the boy", which the text stopped doing in ch15 and which cast.md forbids. Down
+to 12, and the remainder are ordinary English connectives.
+
+
 === The jokes move into the spec, not the review ===
 Author, and it is the correct correction to my own fix. I had put the rule at
 the top of CLAUDE.md as something to remember while writing, which is what has
