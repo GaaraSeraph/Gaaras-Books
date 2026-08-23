@@ -265,6 +265,11 @@ book does not hand him a solution to anything.
 CLASS IS STILL NONE at Level 7, and it is now something he is afraid of rather
 than something he has not noticed.
 
+Chapter 29: NO LEVEL AND NO KILL, and the biggest single advance in what he
+understands about the world. MP 60 to 16 and back overnight, which is the
+asset: HE IS A RENEWABLE SUPPLY AND HALLVARD IS NOT. INT 27 pays off as
+reading rather than as fighting, which is the whole reason it was bought.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

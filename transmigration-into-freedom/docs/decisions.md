@@ -3,6 +3,44 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== ch29: what INT 27 was for, and it is not fighting ===
+The purchase in ch28 had to pay off or it was fifteen points of nothing. It
+pays off the way CON paid off in ch25: once, physically, in one moment, without
+being explained. He puts his hand on the mark he touched in ch16 and gets three
+lines instead of one, because ch13 established the panel would not read it
+until it had been fed.
+AND IT IS DELIBERATELY NOT A CAPABILITY. He does not out-think anybody. He
+reads a ledger, which is the only thing he has ever been good at.
+
+=== Threads 19, 26, 29 and 30 all move and NONE of them closes ===
+The drum's ledger gives: Drawn 57, prior draws 1,412, bearer of record none.
+That is enough to put Hallvard's empty air next to the machine's missing name,
+which thread 19 explicitly said had never been done out loud. Gaara offers it
+as arithmetic he has not checked and says so, so nothing is asserted.
+HALLVARD'S OWN HYPOTHESIS (the line cut in the floor, ch13) IS NOT OVERRIDDEN.
+It is simply not what came up today, and it is still standing.
+WHAT IS NEW AND LOAD-BEARING: the world's magic keeps books, and it has a field
+for who you are, and for everybody in this valley that field is empty. Gaara
+has spent five chapters registering a company and a village onto rolls. Class:
+None now sits in the same sentence as Bearer of record: none, and neither of
+them is explained.
+
+=== He does not let Hallvard turn it again, and does not order it ===
+The obvious version is Gaara taking over. That would make him the man who
+decides what an old man is allowed to do, which the book has refused since the
+ch16 asymmetry rule.
+SO HE ARGUES IT AND THEN HANDS IT BACK: "It is yours. So decide it, and if you
+decide the other way I will stand at the bar next to you and say nothing, and
+you will hear about it for the rest of your life." Hallvard decides.
+
+=== The last of the four images is spent ===
+Heels up at the rafters, in a room with space, unhurried, which is the register
+tag it was filed under. All four author images are now on the page: ch27 took
+the sitting, the legs and the abandoned vocabulary, ch29 takes the rafters.
+FROM HERE THE SCENES INVENT RATHER THAN SPEND. The repetition audit matters
+more from now on, not less.
+
+
 === ch28: they kill it with the plumbing, not with a plan ===
 The doctrine from ch25 was hunt up on purpose. Executed, that had to be more
 than a bigger wall, or it is ch17 and ch25 again with a larger number.

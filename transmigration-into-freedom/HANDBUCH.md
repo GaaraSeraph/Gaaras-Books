@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 28 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 62.443 Woerter.
+Kanon: 29 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 63.722 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -284,6 +284,16 @@ the front page for it - "I am not having what Bern has."
 Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
+
+Hallvard, ch29: 1,412 TURNS OF THE DRUM OVER THIRTY-ONE YEARS, and a machine
+that has his count and no name for him. HE TAKES THE COMFORT OUT OF IT rather
+than the horror: he had believed it all went nowhere, and something has been
+keeping the account. Then he lets go of the bar and hands the draws over.
+DO NOT WRITE HIM AS DIMINISHED BY THIS. He is the only man in the book who has
+ever paid for thirty-one years without being told what for.
+
+Ylva, ch29: MAKES THE PLATE, out of a dead city, and will not let anybody near
+the fire. It is the first manufactured object in the book that is not a weapon.
 
 Ordulf, ch28: WALKS TWO DAYS ON FOOT to deliver the blade and will not say why.
 "I have not been out of the Wold in nine years." Spends a quarter of an hour
@@ -684,6 +694,11 @@ book does not hand him a solution to anything.
 CLASS IS STILL NONE at Level 7, and it is now something he is afraid of rather
 than something he has not noticed.
 
+Chapter 29: NO LEVEL AND NO KILL, and the biggest single advance in what he
+understands about the world. MP 60 to 16 and back overnight, which is the
+asset: HE IS A RENEWABLE SUPPLY AND HALLVARD IS NOT. INT 27 pays off as
+reading rather than as fighting, which is the whole reason it was bought.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -796,6 +811,44 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== ch29: what INT 27 was for, and it is not fighting ===
+The purchase in ch28 had to pay off or it was fifteen points of nothing. It
+pays off the way CON paid off in ch25: once, physically, in one moment, without
+being explained. He puts his hand on the mark he touched in ch16 and gets three
+lines instead of one, because ch13 established the panel would not read it
+until it had been fed.
+AND IT IS DELIBERATELY NOT A CAPABILITY. He does not out-think anybody. He
+reads a ledger, which is the only thing he has ever been good at.
+
+=== Threads 19, 26, 29 and 30 all move and NONE of them closes ===
+The drum's ledger gives: Drawn 57, prior draws 1,412, bearer of record none.
+That is enough to put Hallvard's empty air next to the machine's missing name,
+which thread 19 explicitly said had never been done out loud. Gaara offers it
+as arithmetic he has not checked and says so, so nothing is asserted.
+HALLVARD'S OWN HYPOTHESIS (the line cut in the floor, ch13) IS NOT OVERRIDDEN.
+It is simply not what came up today, and it is still standing.
+WHAT IS NEW AND LOAD-BEARING: the world's magic keeps books, and it has a field
+for who you are, and for everybody in this valley that field is empty. Gaara
+has spent five chapters registering a company and a village onto rolls. Class:
+None now sits in the same sentence as Bearer of record: none, and neither of
+them is explained.
+
+=== He does not let Hallvard turn it again, and does not order it ===
+The obvious version is Gaara taking over. That would make him the man who
+decides what an old man is allowed to do, which the book has refused since the
+ch16 asymmetry rule.
+SO HE ARGUES IT AND THEN HANDS IT BACK: "It is yours. So decide it, and if you
+decide the other way I will stand at the bar next to you and say nothing, and
+you will hear about it for the rest of your life." Hallvard decides.
+
+=== The last of the four images is spent ===
+Heels up at the rafters, in a room with space, unhurried, which is the register
+tag it was filed under. All four author images are now on the page: ch27 took
+the sitting, the legs and the abandoned vocabulary, ch29 takes the rafters.
+FROM HERE THE SCENES INVENT RATHER THAN SPEND. The repetition audit matters
+more from now on, not less.
 
 
 === ch28: they kill it with the plumbing, not with a plan ===
@@ -2649,7 +2702,8 @@ nicht diese Zeile von Hand.
 26. Then Write Us Down
 27. Everything After That Is Filing
 28. Still None
-29. (planned) the fourth trip, and what a company owes the man who hired it
+29. Put It on Mine
+30. (planned) the metal goes to the Wold, and what a company owes
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3752,6 +3806,58 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The drum reads, and the debt changes hands (ch29)
+- THE FOURTH TRIP IS THE EASIEST OF THE FOUR AND THAT IS THE POINT. They know
+  the street, they know the wall, two crawlers die in under a minute and Gaara
+  gets neither and does not want them. Bern counts the party twice, which is
+  the only ceremony in that road that has ever mattered.
+- YLVA MAKES THE PLATE, hammer welded out of strap hinge and door plate and
+  city nails. "You said you could not make a blade." "This is not a blade.
+  This is a very flat thing that sits in a hole and does nothing." Three
+  chapters of stripping turn into one object that does a job.
+- THE MARK ON THE DRUM READS, AND INT 27 IS WHY. He put his hand on it in ch16
+  with a twelve in the box and got a quantity. With twenty-seven he gets three
+  lines:
+    [ SECTIONAL CONTROL ]  Drawn: 57  /  Prior draws on this control: 1,412  /
+    Bearer of record: none
+  THIS IS WHAT THE INT PURCHASE BOUGHT and it is deliberately not a combat
+  ability. Same shape as ch25, where CON paid off physically in one sentence.
+- 1,412 IS HALLVARD. He works his own number out loud before Gaara says it,
+  because he has counted everything he ever did on a slate and wiped it: twice
+  a month in the good years, seven hundred trips, fourteen hundred turns.
+  "Fourteen hundred and twelve."
+- THREAD 19 IS PUT SIDE BY SIDE OUT LOUD FOR THE FIRST TIME, exactly as that
+  thread said it had not been: sixty or seventy kills above his weight over
+  thirty-one years, and empty air over his head, and a machine with his work
+  and his count and no name. NOT CLOSED. Gaara offers it as arithmetic he has
+  not checked, and says so.
+- AND HALLVARD TAKES THE OPPOSITE THING OUT OF IT, which is what keeps him from
+  being a victim or a villain. He has been lying awake since the road believing
+  thirty-one years went nowhere. "And you have just told me that something has
+  been keeping the account the whole time." "That is the part you have taken
+  out of this." "That is the part I am keeping."
+- THE JOB: the south leg of the drain runs under the fields and under forty
+  houses (ch8, and the village never knew). They carry the drum four hundred
+  paces, set Ylva's plate in the slot at the fourth rib, and SHUT THE CORRIDOR
+  UNDER OLDSTEP for the first time in eight hundred years.
+  IT DRAWS ON HIM AND HE WATCHES IT: MP 60, then 44, then 16 after an hour and
+  a half. The bars are not doing all of it.
+- "PUT IT ON MINE." The line and the title. Hallvard's purse does not refill
+  and Gaara's does, so every turn of that drum from now on is his. He does not
+  make it an order: "It is yours. So decide it, and if you decide the other way
+  I will stand at the bar next to you and say nothing, and you will hear about
+  it for the rest of your life." Hallvard lets go of the bar.
+- THE VILLAGE IS TOLD, because six people cannot carry an oak windlass under
+  the fields unseen and he does not lie. Forty houses find out that night what
+  has been under them since before the village had a name, and Solva gets there
+  first, out loud, about the night the three of them came down the road.
+- THE CODA SPENDS THE LAST RESERVED IMAGE: heels up at the rafters, in a room
+  with space, unhurried. She has gone past the four words entirely. All four of
+  the author's images are now on the page.
+  "You have got very good at doing a decent thing and then filing it under
+  something else." "It is where I keep them. It is a very old drawer and the
+  lock is broken."
 
 The blade, a fourteen, and fifteen points in the box that never moved (ch28)
 - ORDULF WALKS TWO DAYS TO DELIVER IT HIMSELF and denies flatly that he came

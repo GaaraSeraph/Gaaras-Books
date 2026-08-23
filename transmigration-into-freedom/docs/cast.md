@@ -268,6 +268,16 @@ Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
 
+Hallvard, ch29: 1,412 TURNS OF THE DRUM OVER THIRTY-ONE YEARS, and a machine
+that has his count and no name for him. HE TAKES THE COMFORT OUT OF IT rather
+than the horror: he had believed it all went nowhere, and something has been
+keeping the account. Then he lets go of the bar and hands the draws over.
+DO NOT WRITE HIM AS DIMINISHED BY THIS. He is the only man in the book who has
+ever paid for thirty-one years without being told what for.
+
+Ylva, ch29: MAKES THE PLATE, out of a dead city, and will not let anybody near
+the fire. It is the first manufactured object in the book that is not a weapon.
+
 Ordulf, ch28: WALKS TWO DAYS ON FOOT to deliver the blade and will not say why.
 "I have not been out of the Wold in nine years." Spends a quarter of an hour
 with Bern about elm and nothing else, and leaves the next morning without
