@@ -139,12 +139,26 @@ zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
 
 ### 2c. Die zwei Kontraktionen
 
-**Seit Kapitel 17 steht im ganzen Buch keine einzige Kontraktion.** Sieben
-Kapitel am Stueck, gezaehlt: 17, 18, 19, 20, 21 und 22 haben null. Davor war es
-ein Gefaelle - Kapitel 12 hatte siebzehn, 13 zehn, 15 zwoelf, 16 nur noch drei.
-Das ist nicht geplant worden, es ist beim Schreiben passiert, und es ist die
-genaueste Kurve im ganzen Buch: **Georgijs Sprache wird formeller, je weniger
-Boden er unter sich hat.**
+**Ab Kapitel 17 spricht Georgij ohne Kontraktionen.** Davor war es ein Gefaelle,
+und die Kurve ist die genaueste im ganzen Buch: **seine Sprache wird formeller, je
+weniger Boden er unter sich hat.** Das ist nicht geplant worden, es ist beim
+Schreiben passiert.
+
+**Hier stand bis zum 23.08. "im ganzen Buch keine einzige Kontraktion" und "17, 18,
+19, 20, 21 und 22 haben null". Beides war falsch, und der Fehler war die
+Formulierung.** Die Regel gilt fuer **Georgij**, nicht fuer den Text: Woo sagt in
+Kapitel 19 *"Don't."* und Hana in Kapitel 21 zweimal dasselbe, und keines davon ist
+ein Fehler. Andere Figuren sprechen, wie sie sprechen; nur an ihm haengt die Kurve.
+
+**Und eine war doch seine.** In Kapitel 21 meldete er sich am Telefon mit *"It's
+Georgij."* Das ist kein Kontrollverlust, das ist eine Begruessung, und genau deshalb
+war es die gefaehrlichste: Sie stand zwei Kapitel vor den zweien in 23 und haette
+ihnen die Ausschliesslichkeit genommen, an der ihre ganze Wirkung haengt. Geaendert
+auf *"This is Georgij."* (Fassung 1.7), was ausserdem seinem Register entspricht.
+
+**Damit gilt, nachgezaehlt am 23.08. ueber alle vierunddreissig Kapitel:** Georgij
+hat nach Kapitel 16 genau **drei** Kontraktionen, und alle drei stehen an einer
+Stelle, an der er die Fassung verliert. Zwei in Kapitel 23, eine in Kapitel 34.
 
 Daraus folgt ein Mittel, das genau einmal funktioniert.
 

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.793 Woerter.
+34 Kapitel. 99.794 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -29,7 +29,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 18 | v2.6 | 2.980 |
 | 19 | v1.9 | 3.210 |
 | 20 | v1.4 | 2.108 |
-| 21 | v1.6 | 4.079 |
+| 21 | v1.7 | 4.080 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.5 | 2.653 |
 | 24 | v1.4 | 2.653 |
@@ -6085,7 +6085,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6093,7 +6093,7 @@ There were four telephones in the house that were not the one in the east room. 
 
 Hana picked up on the third ring and said her own name into it, which almost nobody of that sort does.
 
-"It's Georgij."
+"This is Georgij."
 
 "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "Say it."
 

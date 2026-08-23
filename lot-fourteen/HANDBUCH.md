@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.299 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.441 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -280,12 +280,26 @@ zweiundzwanzig zu Recht - jedes Mal, wenn vorher wirklich jemand gefragt hatte.
 
 ### 2c. Die zwei Kontraktionen
 
-**Seit Kapitel 17 steht im ganzen Buch keine einzige Kontraktion.** Sieben
-Kapitel am Stueck, gezaehlt: 17, 18, 19, 20, 21 und 22 haben null. Davor war es
-ein Gefaelle - Kapitel 12 hatte siebzehn, 13 zehn, 15 zwoelf, 16 nur noch drei.
-Das ist nicht geplant worden, es ist beim Schreiben passiert, und es ist die
-genaueste Kurve im ganzen Buch: **Georgijs Sprache wird formeller, je weniger
-Boden er unter sich hat.**
+**Ab Kapitel 17 spricht Georgij ohne Kontraktionen.** Davor war es ein Gefaelle,
+und die Kurve ist die genaueste im ganzen Buch: **seine Sprache wird formeller, je
+weniger Boden er unter sich hat.** Das ist nicht geplant worden, es ist beim
+Schreiben passiert.
+
+**Hier stand bis zum 23.08. "im ganzen Buch keine einzige Kontraktion" und "17, 18,
+19, 20, 21 und 22 haben null". Beides war falsch, und der Fehler war die
+Formulierung.** Die Regel gilt fuer **Georgij**, nicht fuer den Text: Woo sagt in
+Kapitel 19 *"Don't."* und Hana in Kapitel 21 zweimal dasselbe, und keines davon ist
+ein Fehler. Andere Figuren sprechen, wie sie sprechen; nur an ihm haengt die Kurve.
+
+**Und eine war doch seine.** In Kapitel 21 meldete er sich am Telefon mit *"It's
+Georgij."* Das ist kein Kontrollverlust, das ist eine Begruessung, und genau deshalb
+war es die gefaehrlichste: Sie stand zwei Kapitel vor den zweien in 23 und haette
+ihnen die Ausschliesslichkeit genommen, an der ihre ganze Wirkung haengt. Geaendert
+auf *"This is Georgij."* (Fassung 1.7), was ausserdem seinem Register entspricht.
+
+**Damit gilt, nachgezaehlt am 23.08. ueber alle vierunddreissig Kapitel:** Georgij
+hat nach Kapitel 16 genau **drei** Kontraktionen, und alle drei stehen an einer
+Stelle, an der er die Fassung verliert. Zwei in Kapitel 23, eine in Kapitel 34.
 
 Daraus folgt ein Mittel, das genau einmal funktioniert.
 
@@ -1960,7 +1974,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.6) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.7) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 **Wem der Routen-Satz gehoert, festgeschrieben am 23.08.** Er wandert durch sechs Kapitel und die Herkunft war in einem davon falsch.
