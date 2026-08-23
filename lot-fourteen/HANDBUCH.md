@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.353 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.736 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1562,8 +1562,50 @@ who lies leaves you something to catch him at. She has left nothing at all."*
 den Mrs Jeon je gearbeitet hat, **und er hat die Waffe gebaut, indem er seine
 Arbeit gut gemacht hat.** *"He made it findable because findable is correct."*
 
-**Choi luegt weiterhin nie** - unveraendert, und bisher ohne Belastungsprobe,
-weil er im Text noch kein Wort gesagt hat.
+**Choi luegt, und zwar viel. Er ist der Ausreisser, festgelegt am 23.08.**
+Damit steht er allein: alle anderen in diesem Band sagen die Wahrheit, und er
+ist der einzige Mensch darin, dessen Aussagen keinerlei Information tragen.
+
+**Und erst dadurch ist er der Spiegel.** Beide fuehren in die Irre, mit
+entgegengesetzten Mitteln: Georgij durch **Auswahl**, ohne je etwas Unwahres zu
+sagen; Choi, indem er sagt, was gebraucht wird. Gleiches Ergebnis, umgekehrter
+Mechanismus. *"Er gibt auch Abendessen"* war ein erheblich schwaecherer
+Spiegel als das.
+
+**Und es macht ihn angreifbar, was die alte Fassung nicht tat.** Georgij hat den
+Satz dazu in Kapitel 7 selbst gesagt, ueber Nam: *"A man who lies leaves you
+something to catch him at. She has left nothing at all."* **Ein Choi, der nie
+etwas behauptet, ist unangreifbar und damit auch untaetig** - er kann nur um
+Georgij herum wirken, nie auf ihn. Ein Choi, der luegt, hat dieselbe Deckung und
+liefert trotzdem eine Flaeche.
+
+**Und daraus folgt, warum Band 2 das zweite Werkzeug zurueckbraucht.** Gegen
+alle anderen genuegt Zuhoeren, weil sie die Wahrheit sagen. **Einen Luegner
+kann man nicht hoeren, nur nachpruefen.** Systeme, Spuren, Metadaten - siehe
+`doc/02-leads.md`, Zeile "Digitale Sicherheit". Der Band hat sich sein eigenes
+Werkzeug zurueckgeholt, weil sein Gegner der eine Mann ist, dessen Worte nichts
+wert sind.
+
+**Was von der alten Anlage bleibt:** dass er nie einen Auftrag erteilt hat,
+sondern zwei Leute bekannt gemacht hat, die je eine Haelfte einer Waffe hatten.
+Das ist unabhaengig davon, ob er luegt, und es bleibt die Enthuellung.
+
+**Und es ist persoenlich, ab dem 23.08. und fuer das ganze Buch.** Die
+Oberflaeche steht schon: **er hat Georgij als Munition benutzt** - eine Zeile in
+einem Buch, einer Fremden in die Hand gedrueckt, gerichtet auf Annie, ohne ihn
+je getroffen zu haben.
+
+**Der Vorschlag darunter, noch nicht entschieden, und er ist vollstaendig aus
+vorhandenem Material gebaut: die vierte Zeile ist seine.** Kein Wagen, kein
+Essen, keine Abrechnung, das Haus hat sie getragen - also ein Kaeufer, dem das
+Haus nichts berechnet. Und der Fonds hat das Haus **wegen des Buches** gekauft.
+Dann hat Choi vor vier Jahren einen Menschen gekauft, so vollstaendig loeschen
+lassen, dass nirgends Papier ist, und danach das Haus gekauft, um es begraben
+zu halten.
+
+**Und der Unterschied zu Annie ist die moralische Architektur des Buches:**
+beide haben fuer eine Loeschung bezahlt. Bei ihr steht der Mann noch im Haus.
+Bei ihm ist der Mensch weg.
 
 **Warum die Umkehrung traegt.** Ein Luegner gibt einen Griff her; wo alle luegen,
 wird das Buch ein Krimi ueber das Ertappen. Wo niemand luegt, steht das Thema
