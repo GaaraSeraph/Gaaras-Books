@@ -256,7 +256,9 @@ Then there was not.
 
 She got him onto his back, because she could manage that one-handed. She told him what she wanted in the flat voice she used for rope and ground and other things she knew about. Then she told him again, harder, and he did what he was told for a considerable length of time.
 
-Nothing she did to him was skilled. Nobody in these forty houses had ever been taught any of it, and there was nobody living who could have done the teaching, and it mattered about as much as the weather in another country. What she had instead was that she wanted it, out loud, and was not apologising to anybody for any part of it. His arms had opinions by the end of it. He ignored them, because the only thing in that room he was interested in was the sound she was making, and he would have gone on until the roof came off.
+His arms had opinions by the end of it. He ignored them, because the only thing in that room he was interested in was the sound she was making, and he would have gone on until the roof came off.
+
+Nothing she did to him was skilled. Nobody in these forty houses had ever been taught any of it, and there was nobody living who could have done the teaching, and it mattered about as much as the weather in another country. What she had instead was that she wanted it, out loud, and was not apologising to anybody for any part of it.
 
 At one point she told him to stop talking, and he did, which had now happened exactly twice in his life and both times in this village.
 
