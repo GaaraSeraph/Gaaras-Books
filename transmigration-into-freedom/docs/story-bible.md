@@ -1131,12 +1131,23 @@ Hades, and the first money he ever earned here (ch23)
   and a way of standing. "He will work perfectly well and he will never once do
   anything you have not told him to do." "How long have you been in this town."
   "Since yesterday afternoon."
+- HIS MARK IS A FLAME (author). Three strokes, on the fourth attempt; the first
+  three came out a leaf, a fish, and a thing he declined to discuss.
+  HE DOES NOT SAY WHY AND NOBODY ASKS. The reason is in narration and is not
+  complicated: he came up out of a hole in the ground in the dark, and every
+  single thing he intends to do here means going back down into one and
+  carrying something out, and a man does not do that without a light.
+  AND IT IS A PICTURE IN A WORLD OF SHAPES, which the warden says out loud:
+  most men use a cross, a bar, a hook, something a boy can cut into a barrel
+  end in the dark. "Then a boy will have to concentrate." Every other trade in
+  this world signs with a shape; his is the only mark that is a drawing.
+  AND IT SITS AGAINST THE NAME. A house called after the god of the dark, and
+  the mark on the bales is a flame. Nobody in the book ever puts those two
+  together out loud.
 - THE MARK IS THE CHAPTER'S REAL SCENE. He has named thirty-nine companies for
   other people and sat through afternoons of men arguing about the angle of a
   letter, and called it theatre out loud to people who could have fired him.
   With the chalk in his hand it is not theatre.
-  HE DRAWS TWO STROKES, ONE OVER THE OTHER. A gate half up. "That is not much
-  of a mark." "No. It is eighteen inches."
   He gets there by way of the mark on the drum he cannot read and a mason's mark
   on a wall that stopped in the middle of a good week. THE THREE KINDS OF MARK
   MEET ON ONE SLATE and nobody says so.

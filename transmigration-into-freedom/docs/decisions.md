@@ -3,6 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The mark is a flame, and Runa's scene had money in it that did not belong ===
+THE MARK. Author's. Better than my gate-half-up because it is a PICTURE in a
+world where every trade signs with a shape, and the warden says so: a cross, a
+bar, a hook, something a boy can cut into a barrel end in the dark. "Then a boy
+will have to concentrate." And it sits against the name without anybody joining
+them up: a house called after the god of the dark, marked with a flame.
+RUNA. The author could not follow the scene and the fault was exact. She is not
+in the Staple, she takes nothing from him, and nothing is being bought - BUT I
+HAD PUT HIS COIN COUNT AND HIS LODGING INTO THE MIDDLE OF A PASS AT HER, so it
+read as a man pricing something. The arithmetic belonged to the Staple thread and
+I moved it there by cutting it out of hers entirely.
+Also fixed: he said "May I ask you something" and then asked nothing, which
+compounded it. It is "may I say something" now.
+
+=== He does not talk himself into anything ===
+I had written that he offered his hand for Sivert's sake and then discovered,
+a second and a half later, that this had not been the reason. THE AUTHOR SAYS HE
+KNEW ALL ALONG, and he is right, and it is more in character by a distance.
+He knows what a hand does to a noise. It is quieter and it is better. He was
+solving somebody else's problem and helping himself in the same movement, BOTH
+HALVES TRUE, and he has never once needed those to be separate.
+My version had him lying to himself briefly, which is a crack in rule one that
+the character does not have and does not need.
+
+
 === The noise is not stupid, it is a gag ===
 Author, and it fixes something I got badly wrong twice in a row. I wrote the
 muffled noise as comic, and it is not comic, IT IS THE HOTTEST THING IN THE

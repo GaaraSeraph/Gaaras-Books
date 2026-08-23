@@ -58,11 +58,11 @@ There was no room to get anywhere. Under the blanket Sivert was already half out
 
 So Gaara got the heel of his own hand up and offered it.
 
+He knew exactly what he was doing and did not pretend otherwise for a second, because he does not do that. A hand does not stop a noise. IT CHANGES IT. He was solving somebody else's problem and helping himself in the same movement, and both halves were true, and he has never once needed those to be separate.
+
 Sivert understood, and took it, and bit down.
 
-And Gaara found out something he had not known, which was that a hand does not stop a noise. It changes it.
-
-What came round the edge of his palm was lower than Sivert's voice and further back in him, and it had nowhere at all to go. It went through Gaara from the wrist to somewhere he had no name for. He understood inside a second and a half that he had not offered his hand for Sivert's sake. He had told himself he had. He is not in the habit of lying and he had managed it anyway, briefly, and only to himself.
+What came round the edge of his palm was lower than Sivert's voice and further back in him, and it had nowhere at all to go. It was quieter and it was better. It went through Gaara from the wrist to somewhere he had no name for.
 
 After that there was nothing in that loft to hear but a horse and a hand.
 
