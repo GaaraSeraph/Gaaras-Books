@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 115.365 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 115.405 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1506,24 +1506,28 @@ it. He would not know how. He made it findable because findable is correct."*
 haerter als Mrs Jeons.** Am 23.08. vom Autor korrigiert, gegen meine erste
 Fassung, in der Hwangs Haltung als unangreifbar galt.
 
-**Er hat vier bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
+**Er hat drei bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
 Er hat es in der zweiten Dezemberwoche in den Settlement-Buechern gefunden, in
-etwa einer Stunde. Er hatte drei saubere Wege: **erfuellen, erstatten, oder es
-den vier sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
+etwa einer Stunde. **Drei Gebuehren ueber vier Jahre. Die vierte Zeile auf der
+Seite ist nie in Rechnung gestellt worden und ist etwas anderes** - Hwang sagt
+das in Kapitel 21 von sich aus und bestaetigt damit Mrs Jeon aus Kapitel 7
+unabhaengig: *"That it was not a customer."*
+
+Er hatte drei saubere Wege: **erfuellen, erstatten, oder es den dreien sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
 Eintrag behalten**, was genau die Position der Maenner vor ihm ist.
 
 **Und seine Begruendung verwechselt eine Betriebsregel mit einem Prinzip.** Die
 Regel, fuer die er geholt wurde, lautet: **dieses Haus verkauft keine
 Loeschungen.** Das ist eine Regel darueber, wofuer man ab morgen Geld annimmt.
 Sie sagt nichts ueber vier Leute, die letztes Jahr bezahlt und nichts bekommen
-haben. Georgij, Kapitel 21: *"You did not decline to delete four entries. You
-declined to give four people back a thing they had already bought, and you
+haben. Georgij, Kapitel 21: *"You did not decline to delete three entries. You
+declined to give three people back a thing they had already bought, and you
 called that a principle."* Und: **"You have not been running a clean house for
 five months. You have been running the same house tidily."**
 
 **Damit ist er keine tragische Unschuld mehr, sondern ein kompetenter Mann mit
 einem Kategorienfehler**, der ihn fuenf Monate lang hat der Ehrliche sein lassen
-und vier Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
+und drei Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
 
 **Und er gibt in zwanzig Sekunden den Namen seines Vorgaengers her**, den er
 fuenf Monate lang nicht hergegeben haette, und benennt selbst, was das ueber ihn
@@ -2258,7 +2262,7 @@ nachrechnen, und `check.py` tut das automatisch.
   Sekunden, an einem Tor.** Und er bittet um den Deckel zurueck. **Sie sagt
   nein** (Band 2, Kapitel 20)
 - Tag 213, Mo 4. Mai: **das leere Haus am Fluss.** Georgij nimmt Hwangs Regel
-  auseinander und bekommt den Namen des Vorgaengers, der die vier Gebuehren
+  auseinander und bekommt den Namen des Vorgaengers, der die drei Gebuehren
   genommen hat (Band 2, Kapitel 21)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -3218,9 +3222,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
-- **Band 2, Kapitel 21** *Tidily* (v1.0) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+- **Band 2, Kapitel 21** *Tidily* (v1.1) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
-  **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vier gesagt.
+  **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: drei bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den dreien gesagt.
 
   **Georgij nimmt die Regel in einer Minute auseinander, und der Kern ist eine Unterscheidung:** die Regel, fuer die Hwang geholt wurde, ist eine **ueber die Zukunft** - dieses Haus verkauft keine Loeschungen mehr. *"It has nothing whatever to say about four people who paid for something last year and did not get it."*
 
@@ -3228,7 +3232,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Hwangs einziger Einwand ist ein Gefuehl und Georgij benennt es:** *"That is not fair."* - **"No. It is accurate. Those are different words and I chose the one I meant."**
 
-  **Und die zwei Saetze, die die Szene tragen:** *"You did not decline to delete four entries. You declined to give four people back a thing they had already bought, and you called that a principle."* Und: **"You have not been running a clean house for five months. You have been running the same house tidily."**
+  **Und die zwei Saetze, die die Szene tragen:** *"You did not decline to delete three entries. You declined to give three people back a thing they had already bought, and you called that a principle."* Und: **"You have not been running a clean house for five months. You have been running the same house tidily."**
 
   **Die Wiedererkennung braucht zwei Sekunden**, weil dieser Mann die vier Eintraege genauer gelesen hat als irgendwer sonst: **"Lot fourteen."** - *"The fourth of October. Struck on the nineteenth of February. And retained. And I retained it."*
 
@@ -3238,7 +3242,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Satz, an dem Georgij seit dem 23. April festhaengt:** *"Nobody in the whole of this took a single won. Not you. Not me. Not her. Everybody involved did what they thought was correct and a woman of fifty-eight is going to be selling two trucks on Thursday."*
 
-  **Der Vorgaenger.** Hwang schreibt Name, Position, die Daten der vier und die heutige Anschrift auf die Rueckseite seiner Liste, reisst den Streifen ab **und haelt ihn hin, statt ihn hinzulegen.** Und er benennt selbst, was er gerade getan hat: *"I have just done in twenty seconds the thing I refused to do for four people in five months. I did it because a man came in here and made me feel it."*
+  **Der Vorgaenger.** Hwang schreibt Name, Position, die Daten der drei und die heutige Anschrift auf die Rueckseite seiner Liste, reisst den Streifen ab **und haelt ihn hin, statt ihn hinzulegen.** Und er benennt selbst, was er gerade getan hat: *"I have just done in twenty seconds the thing I refused to do for three people in five months. I did it because a man came in here and made me feel it."*
 
   **Der Mann ist im November gegangen, vor Hwang, und nicht wegen alledem** - er wollte nicht fuer einen Fonds arbeiten. **Damit ist ein neues Ziel im Buch und es hat einen Namen und eine Adresse.**
 
@@ -4933,8 +4937,8 @@ Fassung.**
   tut es **fuer jemanden.**
 
 - **DER VORGAENGER. Neu und offen, gesetzt in Band 2, Kapitel 21.** Name,
-  Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
-  Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
+  Position, die Daten der drei Gebuehren und die heutige Anschrift, in Hwangs
+  Handschrift auf einem abgerissenen Streifen. **Er hat die drei Loeschungen
   verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
   Das ist der Mann, der Annie viermal betrogen hat, und er ist erreichbar.
 
@@ -7845,36 +7849,35 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
 | 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
 | 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
-| 15 | b2ch21:66 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:78 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
-| 15 | b2ch21:92 | Mr Hwang did not answer. |
-| 15 | b2ch21:104 | Mr Hwang picked the list up again and then put it down without looking at it. |
-| 15 | b2ch21:128 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
-| 15 | b2ch21:140 | "And the page that did that," said Mr Hwang. |
-| 15 | b2ch21:146 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
-| 15 | b2ch21:162 | "Lot fourteen," said Mr Hwang. |
-| 15 | b2ch21:174 | Mr Hwang looked at the floor of a room with three crates in it. |
-| 15 | b2ch21:194 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
-| 15 | b2ch21:212 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
-| 15 | b2ch21:226 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
-| 15 | b2ch21:244 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
-| 15 | b2ch21:258 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
-| 15 | b2ch21:278 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
-| 15 | b2ch21:288 | "Mr Hwang." |
+| 15 | b2ch21:78 | "Nothing," said Mr Hwang. |
+| 15 | b2ch21:90 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:104 | Mr Hwang did not answer. |
+| 15 | b2ch21:116 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 15 | b2ch21:140 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 15 | b2ch21:152 | "And the page that did that," said Mr Hwang. |
+| 15 | b2ch21:158 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 15 | b2ch21:174 | "Lot fourteen," said Mr Hwang. |
+| 15 | b2ch21:186 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 15 | b2ch21:206 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 15 | b2ch21:224 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 15 | b2ch21:238 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 15 | b2ch21:256 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 15 | b2ch21:270 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 15 | b2ch21:290 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 15 | b2ch21:300 | "Mr Hwang." |
 
 ### Zahlen in der Naehe von Mr Hwang
 
 - `b2ch07:34` (Tag 7) - three
 - `b2ch10:262` (Tag 3) - one
 - `b2ch21:20` (Tag 15) - three
-- `b2ch21:54` (Tag 15) - four
-- `b2ch21:128` (Tag 15) - eight, one
-- `b2ch21:146` (Tag 15) - one
-- `b2ch21:162` (Tag 15) - fourteen
-- `b2ch21:174` (Tag 15) - three
-- `b2ch21:226` (Tag 15) - twenty
-- `b2ch21:258` (Tag 15) - fifteen
-- `b2ch21:278` (Tag 15) - five, four, twenty
+- `b2ch21:140` (Tag 15) - eight, one
+- `b2ch21:158` (Tag 15) - one
+- `b2ch21:174` (Tag 15) - fourteen
+- `b2ch21:186` (Tag 15) - three
+- `b2ch21:238` (Tag 15) - twenty
+- `b2ch21:270` (Tag 15) - fifteen
+- `b2ch21:290` (Tag 15) - five, three, twenty
 
 ---
 

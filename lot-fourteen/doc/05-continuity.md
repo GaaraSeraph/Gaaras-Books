@@ -173,7 +173,7 @@ nachrechnen, und `check.py` tut das automatisch.
   Sekunden, an einem Tor.** Und er bittet um den Deckel zurueck. **Sie sagt
   nein** (Band 2, Kapitel 20)
 - Tag 213, Mo 4. Mai: **das leere Haus am Fluss.** Georgij nimmt Hwangs Regel
-  auseinander und bekommt den Namen des Vorgaengers, der die vier Gebuehren
+  auseinander und bekommt den Namen des Vorgaengers, der die drei Gebuehren
   genommen hat (Band 2, Kapitel 21)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -1133,9 +1133,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
-- **Band 2, Kapitel 21** *Tidily* (v1.0) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+- **Band 2, Kapitel 21** *Tidily* (v1.1) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
-  **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vier gesagt.
+  **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: drei bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den dreien gesagt.
 
   **Georgij nimmt die Regel in einer Minute auseinander, und der Kern ist eine Unterscheidung:** die Regel, fuer die Hwang geholt wurde, ist eine **ueber die Zukunft** - dieses Haus verkauft keine Loeschungen mehr. *"It has nothing whatever to say about four people who paid for something last year and did not get it."*
 
@@ -1143,7 +1143,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Hwangs einziger Einwand ist ein Gefuehl und Georgij benennt es:** *"That is not fair."* - **"No. It is accurate. Those are different words and I chose the one I meant."**
 
-  **Und die zwei Saetze, die die Szene tragen:** *"You did not decline to delete four entries. You declined to give four people back a thing they had already bought, and you called that a principle."* Und: **"You have not been running a clean house for five months. You have been running the same house tidily."**
+  **Und die zwei Saetze, die die Szene tragen:** *"You did not decline to delete three entries. You declined to give three people back a thing they had already bought, and you called that a principle."* Und: **"You have not been running a clean house for five months. You have been running the same house tidily."**
 
   **Die Wiedererkennung braucht zwei Sekunden**, weil dieser Mann die vier Eintraege genauer gelesen hat als irgendwer sonst: **"Lot fourteen."** - *"The fourth of October. Struck on the nineteenth of February. And retained. And I retained it."*
 
@@ -1153,7 +1153,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Satz, an dem Georgij seit dem 23. April festhaengt:** *"Nobody in the whole of this took a single won. Not you. Not me. Not her. Everybody involved did what they thought was correct and a woman of fifty-eight is going to be selling two trucks on Thursday."*
 
-  **Der Vorgaenger.** Hwang schreibt Name, Position, die Daten der vier und die heutige Anschrift auf die Rueckseite seiner Liste, reisst den Streifen ab **und haelt ihn hin, statt ihn hinzulegen.** Und er benennt selbst, was er gerade getan hat: *"I have just done in twenty seconds the thing I refused to do for four people in five months. I did it because a man came in here and made me feel it."*
+  **Der Vorgaenger.** Hwang schreibt Name, Position, die Daten der drei und die heutige Anschrift auf die Rueckseite seiner Liste, reisst den Streifen ab **und haelt ihn hin, statt ihn hinzulegen.** Und er benennt selbst, was er gerade getan hat: *"I have just done in twenty seconds the thing I refused to do for three people in five months. I did it because a man came in here and made me feel it."*
 
   **Der Mann ist im November gegangen, vor Hwang, und nicht wegen alledem** - er wollte nicht fuer einen Fonds arbeiten. **Damit ist ein neues Ziel im Buch und es hat einen Namen und eine Adresse.**
 

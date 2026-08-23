@@ -54,7 +54,7 @@ b2  ch17  v1.0       2005 Woerter  ch17_v1_0_en.md
 b2  ch18  v1.1       2023 Woerter  ch18_v1_1_en.md
 b2  ch19  v1.0       2183 Woerter  ch19_v1_0_en.md
 b2  ch20  v1.0       2096 Woerter  ch20_v1_0_en.md
-b2  ch21  v1.0       2201 Woerter  ch21_v1_0_en.md
+b2  ch21  v1.1       2302 Woerter  ch21_v1_1_en.md
 
-Gesamt: 2 Baende, 55 Kapitel, 150243 Woerter
+Gesamt: 2 Baende, 55 Kapitel, 150344 Woerter
 Handbuch: 9 Dokumente

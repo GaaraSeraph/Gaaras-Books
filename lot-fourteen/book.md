@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 55 Kapitel, 150.243 Woerter.
+2 Baende, 55 Kapitel, 150.344 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -65,7 +65,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 18 | v1.1 | 2.023 |
 | 2 | 19 | v1.0 | 2.183 |
 | 2 | 20 | v1.0 | 2.096 |
-| 2 | 21 | v1.0 | 2.201 |
+| 2 | 21 | v1.1 | 2.302 |
 
 ---
 
@@ -17014,7 +17014,7 @@ She put her hand down without looking away from the window and left it in his ha
 ---
 
 # Book Two · Chapter 21: Tidily
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirteen · Monday 4 May
 
@@ -17050,7 +17050,7 @@ He looked up then.
 
 ---
 
-"You have four entries on the back page of a catalogue you tidied," said Georgij. "All four were sold as deletions. All four were paid for. You found that out and you left them where they were."
+"You have four entries on the back page of a catalogue you tidied," said Georgij. "Three of them were sold as deletions and paid for. You found that out and you left them where they were."
 
 ---
 
@@ -17066,7 +17066,19 @@ Georgij did not sit down either.
 
 ---
 
-"You are correct," said Mr Hwang. "I want to say that first so that we are not doing the part where you prove it to me. I found it in the second week of December, in the settlement ledgers, and it took me about an hour, and there are four of them and they run over four years."
+"You are correct," said Mr Hwang. "I want to say that first so that we are not doing the part where you prove it to me. I found it in the second week of December, in the settlement ledgers, and it took me about an hour."
+
+---
+
+"Three fees over four years," he said. "The fourth entry on that page is not like the other three and never has been. I want that said as well, because you will get to it eventually and I would sooner you got to it from me."
+
+"Say it."
+
+"There is no fee. There is no invoice, no clearing and no line at that desk. Somebody took a lot out of this building and this house did not send anybody a bill. I have looked at it four times in five months and I have never been able to make it mean anything but one thing."
+
+"Which is."
+
+"That it was not a customer."
 
 "And you did nothing."
 
@@ -17108,7 +17120,7 @@ Mr Hwang did not answer.
 
 ---
 
-"You had three ways out of December and every one of them was clean," said Georgij. "You could have performed the four. You could have refunded them, in full, with a letter saying why. Or you could have told each of them exactly what had been done to them and let them decide."
+"You had three ways out of December and every one of them was clean," said Georgij. "You could have performed the three. You could have refunded them, in full, with a letter saying why. Or you could have told each of them exactly what had been done to them and let them decide."
 
 "Yes."
 
@@ -17128,7 +17140,7 @@ Mr Hwang picked the list up again and then put it down without looking at it.
 
 "I could not perform them without becoming the thing I was sent to stop."
 
-"You could not perform them. You could have refunded them in an afternoon, and it would have cost this house about a tenth of what it made from them. There is not one sentence in your rule that says a house may keep money for work it did not do." Georgij did not raise his voice at any point. "You did not decline to delete four entries. You declined to give four people back a thing they had already bought, and you called that a principle."
+"You could not perform them. You could have refunded them in an afternoon, and it would have cost this house about a tenth of what it made from them. There is not one sentence in your rule that says a house may keep money for work it did not do." Georgij did not raise his voice at any point. "You did not decline to delete three entries. You declined to give three people back a thing they had already bought, and you called that a principle."
 
 ---
 
@@ -17246,7 +17258,7 @@ Nobody said anything for a while.
 
 ---
 
-"The four fees," said Georgij. "Somebody in this house took them. Four times over four years. That man had a name and a position and he signed something each time."
+"The three fees," said Georgij. "Somebody in this house took them. Three times over four years. That man had a name and a position and he signed something each time."
 
 ---
 
@@ -17276,7 +17288,7 @@ Then he tore the strip off and held it out. He did not put it down on the table 
 
 ---
 
-"A name, a position, and the dates of the four," he said. "He left in November, before I came, and he did not leave because of any of this. He left because the fund was buying and he did not want to work for a fund."
+"A name, a position, and the dates of the three," he said. "He left in November, before I came, and he did not leave because of any of this. He left because the fund was buying and he did not want to work for a fund."
 
 "Where is he now."
 
@@ -17290,7 +17302,7 @@ Georgij looked at it.
 
 "Thank you."
 
-"Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thing I refused to do for four people in five months. I did it because a man came in here and made me feel it." He did not turn round. "I would like to be quite clear with myself about what that says."
+"Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thing I refused to do for three people in five months. I did it because a man came in here and made me feel it." He did not turn round. "I would like to be quite clear with myself about what that says."
 
 ---
 
