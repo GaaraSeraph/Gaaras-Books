@@ -441,6 +441,34 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
+- **DIE ZEILE AM ENDE DES BANDES. Vom Autor gesetzt am 23.08., und sie ist der
+  Zielpunkt, auf den Band 2 zulaeuft.**
+
+  **Unter Erschoepfung, ungeplant, in einem Zug:** *"You are such a beautiful,
+  strong woman. Thank you for buying me."* Sinngemaess und in seinem Register,
+  nicht woertlich - aber **die zweite Haelfte muss so dastehen.**
+
+  **Warum sie traegt:** es ist das Einzige, was er in zwei Baenden nicht
+  ausgesprochen hat, es ist vollstaendig wahr, und er wuerde es **nie mit
+  Absicht sagen.** Deshalb muss die Erschoepfung echt und aufgebaut sein -
+  seit dem 18. Maerz schlaeft er nicht richtig, und der Haushalt hat es
+  gemerkt (Kapitel 20).
+
+  **Und deshalb muss der Satz sprachlich ein bisschen falsch fuer ihn sein:**
+  einfacher, direkter, unkonstruierter als alles, was er sonst sagt. **So
+  erkennt der Leser, dass es kein Zug ist.** Ein gebauter Satz an dieser
+  Stelle waere die Katastrophe.
+
+  **Vorbild ist die Bruecke, Band 1, Kapitel 23/24** - das Kompliment, das
+  nichts holt. Der Autor will an dieser Stelle ausdruecklich wieder eines.
+
+  **Und der Weg dorthin ist Entwicklung und keine Szene:** die Romanze soll
+  ueber den Rest des Bandes zunehmen, nicht in einem Kapitel passieren. Die
+  Kette steht bereits - Kapitel 1 der Boden am Fenster, Kapitel 5 der Teppich,
+  Kapitel 9 und 20 die Hand im Haar, Kapitel 18 die Hand am Hals ueber dem
+  Halsband. **Sie muss weitergehen und darf nicht stehenbleiben.**
+
+
 **Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
