@@ -1348,15 +1348,31 @@ KEEPS, which is the one administrative habit that survived.
   customer, and it does not know that yet, and neither does he. Do not have
   anybody work it out early.
 
-  THE SMITHS and THE BUTCHERS. Craft guilds, local, and they control who may
-  practise in the town. Ordulf is in the smiths'.
+  THE TOUCH. The smiths. A touch is the stamp a smith puts on his own work, and
+  the guild holds the register of touches. Ordulf has one.
   THIS PUTS A LEGAL WALL THROUGH THE METAL PLAN, which is a gift. Ylva working
   city iron in Oldstep is a village woman at a village forge and nobody's
-  business. Selling worked goods into the Wold is another matter entirely, and
-  she is not warranted, and the smiths will have a view. Their arrangement from
-  ch19 has an obstacle in it that neither of them has thought about.
-  (Author wrote "Metzgilde", read as butchers. If mead was meant, swap the
-  trade; nothing above depends on which.)
+  business. Selling worked goods into the Wold is another matter entirely. She
+  has no touch, she is not registered, and the smiths will have a view. Their
+  arrangement from ch19 has an obstacle in it that neither of them has thought
+  about.
+
+  THE LODGE. THE STONEMASONS, and this is the one that matters most and is the
+  thesis of the book standing in a doorway. A lodge is the hut on a building
+  site where the drawings and the templates are kept, so it is named for where
+  its record lives, like the others.
+  THEY ARE THE GUILD THAT USED TO BE ABLE TO DO SOMETHING THEY CANNOT DO NOW.
+  There is an aqueduct on hundred-foot legs an hour up the road, dressed stone
+  laid to a surveyed gradient, and this guild is the direct professional
+  descendant of whoever cut it. They can build a village bridge. They cannot
+  build that, and they know it, and nobody has written down why.
+  AND THE DEAD CITY IS SIGNED. A mason cuts his MARK into the stone he dressed,
+  and Gaara has been reading masonry since ch1 and describing it to people who
+  did not ask. The marks are up there on eight-hundred-year-old walls, in a
+  guild's own alphabet, and the guild cannot say whose they are.
+  DO NOT SPEND THIS EARLY. It is the strongest single image available for what
+  happened to this world, and the moment a mason stands in front of one of those
+  marks is a chapter, not a paragraph.
 
 THE NAME: THE ROLL OF WARRANTED COMPANIES. Nobody says that. EVERYBODY SAYS
 THE ROLL.
@@ -1425,11 +1441,20 @@ arrives at the door with two people who already owe him something.
   AND ONE THREAD ALREADY EXISTS ON THE PAGE: Ylva knows Ordulf, and a smith in a
   market town knows everyone, because everyone comes to him eventually.
 
-HIS OWN THING IS NOT A COMPANY ON THE ROLL AND HE IS NOT TRYING TO BE ONE
-(author). Answering his own objection: a company of one is absurd and the Roll
-would not take it, because a warrant needs a captain and four men.
-  WHAT HE REGISTERS IS A HOUSE, IN THE MARK. One man, one name, one mark. That
-  is the trading and publishing arm and it is the thing he came for.
+HADES IS A COMPANY. It is simply not one of THOSE companies, and the correction
+is the author's: I had invented a separate word for it and the separate word was
+not needed.
+  THE WORD MEANS TWO DIFFERENT THINGS IN THIS TOWN and that is the whole beat.
+  In the Mark a company is a trading concern: a name, a mark, and whoever is in
+  it, and it may be one man. On the Roll a company is a fighting unit and needs
+  a captain and four men, so a company of one is absurd there and would be
+  refused.
+  HE REGISTERS HADES IN THE MARK. One man, one name, one mark. That is the
+  trading and publishing arm and it is the thing he came for.
+  AND HE HAS HISTORY WITH THE WORD, which is why he is the man to notice it
+  means two things. ch1, ch3 and ch12: thirty-nine of them, the one he owned,
+  the one that died, "a very good CV and no company." He never explains that to
+  anybody and nobody in the Wold could hear it if he did.
   ITS NAME IS HADES.
   NOBODY IN THIS WORLD HAS EVER HEARD THE WORD, which is the point. It does not
   translate, because names do not, so to everybody in the Wold it is a foreign
@@ -1444,15 +1469,22 @@ would not take it, because a warrant needs a captain and four men.
   like: a god of a dead country, who kept everything that was under the ground.
   Rule one intact, and the listener no wiser.
 
-AND HE SAYS COMPANY WHEN EVERYONE ELSE SAYS HOUSE. The Wold's word is house. His
-word is company, because it is the word from the other place, and ch1, ch3 and
-ch12 are full of it: thirty-nine of them, the one he owned, the one that died,
-"a very good CV and no company." He will keep saying company and he will know
-exactly why he keeps saying it. NOBODY CORRECTS HIM AND HE NEVER EXPLAINS IT.
+HE ENDS UP ON BOTH REGISTERS, AND THAT IS THE ODD THING ABOUT HIM.
+  IN THE MARK he is a house: Hades, one man, a mark.
+  ON THE ROLL he puts HIS OWN NAME down as a man, two coins and one voucher,
+  because it is cheap and because it buys the hall at member rate and a bed is
+  what is eating his money.
+  AND THE OLDSTEP CREW is the thing that could be warranted as a company on the
+  Roll: a goat, a captain, four men already on the roll, two sureties. It is
+  twenty miles away and made of farmers.
+  A MAN IN TWO REGISTERS IS NOT NORMAL. Merchants are merchants and fighting men
+  are fighting men, and somebody in the Wold will find it worth remarking on
+  long before Gaara wants it remarked on.
 
-AND SEPARATELY, THE OLDSTEP CREW IS THE THING THAT COULD BE WARRANTED ON THE
-ROLL, which is a different institution, a different fee and a different fight.
-Two lives, two registers. It is twenty miles away and made of farmers. Four men
+THE CREW'S COMPANY HAS NO NAME YET AND SHOULD NOT GET ONE FROM HIM. Hades is
+his. That one is theirs, they earned it in a dead street in ch17, and he is not
+even in the valley. MARIT SHOULD NAME IT, or Bern should, and the name should
+arrive as news rather than as a decision he made. Four men
 on the roll, and his are in Oldstep. His company has a one-legged bookkeeper, a
 smith, an eight, and a woman holding it together. No name, no charter, wrong
 town. THIS ALSO ANSWERS SECTION 6b: a chartered company is exactly the thing to

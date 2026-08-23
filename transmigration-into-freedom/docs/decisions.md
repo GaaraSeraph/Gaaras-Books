@@ -3,6 +3,35 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Stonemasons, not butchers, and Hades is a company after all ===
+Three author corrections.
+METZ IS STEINMETZ. Stonemasons, and it is far better than butchers, because THE
+MASONS ARE THE THESIS STANDING IN A DOORWAY. They are the direct professional
+descendants of whoever cut an aqueduct that crosses the sky on hundred-foot
+legs, and they can build a village bridge and nothing more, and nobody wrote
+down why. AND THE DEAD CITY IS SIGNED: a mason cuts his mark into the stone he
+dressed, those marks are on eight-hundred-year-old walls, and the guild cannot
+say whose they are. Gaara has been reading masonry since ch1. That is the
+strongest image in the book for what happened here and it is not to be spent in
+a paragraph.
+THE FOUR RECORDS, now all distinct: THE MARK (merchants, a stamped sigil, and
+therefore a colophon later), THE ROLL (fighting companies, a network of copies),
+THE TOUCH (smiths, the stamp on the work), THE LODGE (masons, the hut where the
+drawings live). One syllable each and every one a real historical term, so none
+of it sounds invented.
+HADES IS A COMPANY AND I HAD OVER-ENGINEERED IT. I invented "house" as a
+separate word and the separate word was not needed. THE WORD MEANS TWO THINGS IN
+THIS TOWN: in the Mark a company is a trading concern and may be one man, on the
+Roll it is a fighting unit and needs a captain and four men. That collision is
+one good beat, and he is the man to notice it, because ch1, ch3 and ch12 are
+full of the word.
+AND HE ENDS UP ON BOTH REGISTERS, which is not normal and which somebody will
+remark on before he wants it remarked on.
+THE CREW'S COMPANY STAYS UNNAMED, deliberately. Hades is his. That one is
+theirs, earned in ch17, and he is not in the valley. Marit or Bern names it and
+it reaches him as news.
+
+
 === Four guilds, a network, and the house is called Hades ===
 Author, and it reorganises the town for the better. There is not one guild,
 there are several, and they are not the same kind of institution. Each is named
