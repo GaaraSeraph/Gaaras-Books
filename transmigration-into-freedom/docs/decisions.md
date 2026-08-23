@@ -3,6 +3,32 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The carcasses are a deterrent, and the backup is the ledger ===
+Author's answer to the objection, and it resolves it rather than dodging it. The
+display is not an advertisement of what the hole produces, it is A PRICE QUOTED
+ON TAKING IT. A fresh seven in the road is an argument about cost.
+THE CRAFT NOTE THAT MATTERS: carcasses alone are ambiguous. The same dead animal
+says leave it alone or says send men, depending on what the man standing next to
+it is told. So the display needs both halves. THE CARCASSES PRICE THE RISK, THE
+CREW PROVES IT IS CONTAINED, and the crew therefore stands beside them rather
+than being mentioned. The sentence they make together is: this is handled, it is
+expensive, and it gives nothing back, and the war is east.
+THE BACKUP IS THE LEDGER, and Gaara wrote the answer himself in ch17 without
+knowing it: the lord's man keeps a ledger, a superior, and an enormous appetite
+for not being blamed. YOU DO NOT STOP AN OFFICIAL WITH FORCE, YOU STOP HIM WITH
+HIS OWN PAPERWORK. Get the true version signed into the record first, and after
+that, opening the gate is him reversing himself and owning whatever comes out.
+THIS IS WHY BEING IN THE WOLD NOW IS THE WHOLE POINT. He gets into the ledger
+before anybody rides out. First use of writing as a weapon instead of a product,
+in a book whose thesis is that nothing here is written down.
+Supporting material is all true and all already on the page: nine hours up and
+four down, the thing under the channel that drinks, and a body count in living
+memory. Rule one is never strained.
+AND THE RESERVE, held back: if they open it anyway, he takes the contract and
+controls the pace. That is the version where he wins and Hallvard never forgives
+him, so it is worth keeping until it is worth spending.
+
+
 === Where talk earns money, and the exact shape of the guild trap ===
 Author asked for the answer, with the guild as one branch, plus entry fee and
 lodging. Worked out in bible section 6c. Two things came out better than asked.

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 38.876 Woerter.
+Alle 4 Dokumente am Stueck. 39.731 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,32 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The carcasses are a deterrent, and the backup is the ledger ===
+Author's answer to the objection, and it resolves it rather than dodging it. The
+display is not an advertisement of what the hole produces, it is A PRICE QUOTED
+ON TAKING IT. A fresh seven in the road is an argument about cost.
+THE CRAFT NOTE THAT MATTERS: carcasses alone are ambiguous. The same dead animal
+says leave it alone or says send men, depending on what the man standing next to
+it is told. So the display needs both halves. THE CARCASSES PRICE THE RISK, THE
+CREW PROVES IT IS CONTAINED, and the crew therefore stands beside them rather
+than being mentioned. The sentence they make together is: this is handled, it is
+expensive, and it gives nothing back, and the war is east.
+THE BACKUP IS THE LEDGER, and Gaara wrote the answer himself in ch17 without
+knowing it: the lord's man keeps a ledger, a superior, and an enormous appetite
+for not being blamed. YOU DO NOT STOP AN OFFICIAL WITH FORCE, YOU STOP HIM WITH
+HIS OWN PAPERWORK. Get the true version signed into the record first, and after
+that, opening the gate is him reversing himself and owning whatever comes out.
+THIS IS WHY BEING IN THE WOLD NOW IS THE WHOLE POINT. He gets into the ledger
+before anybody rides out. First use of writing as a weapon instead of a product,
+in a book whose thesis is that nothing here is written down.
+Supporting material is all true and all already on the page: nine hours up and
+four down, the thing under the channel that drinks, and a body count in living
+memory. Rule one is never strained.
+AND THE RESERVE, held back: if they open it anyway, he takes the contract and
+controls the pace. That is the version where he wins and Hallvard never forgives
+him, so it is worth keeping until it is worth spending.
 
 
 === Where talk earns money, and the exact shape of the guild trap ===
@@ -2946,8 +2972,25 @@ therefore what an auditor writes, which was his job for nineteen years. It also
 stays inside rule one: the carcasses are real and the hunting is real. He is
 selecting, not inventing.
 
-BUT THE CONTENT BACKFIRES AGAINST THE ACTUAL FEAR, and the actual fear is on the
-page in ch12 and is not what it looks like:
+DECIDED BY THE AUTHOR: THE CARCASSES ARE A DETERRENT, NOT AN ADVERTISEMENT, and
+that resolves the objection below rather than dodging it. A fresh seven with six
+legs in the road is not a claim about treasure. It is a PRICE QUOTED ON TAKING
+THE HOLE. The fear below is exactly right and the carcasses are aimed at it.
+
+BUT CARCASSES ALONE ARE AMBIGUOUS AND THE FRAME DECIDES WHICH WAY THEY READ. The
+same dead animal says "leave it alone" or "suppress it, send men" depending on
+what the man is told standing next to it. So the display has two halves and
+neither works without the other:
+  THE CARCASSES PRICE THE RISK.  This came out of there. There are more. What is
+    still behind the gate is worse than what is on the ground in front of you.
+  THE CREW PROVES IT IS CONTAINED.  Six people who live here already shut it and
+    keep it shut, at their own cost, and it costs the lord nothing. Which is why
+    the crew must be standing next to the carcasses and not merely mentioned.
+Together they make the only sentence that gets him what he wants: THIS IS
+HANDLED, IT IS EXPENSIVE, AND IT GIVES NOTHING BACK. The war is east. So are
+your men's wages.
+
+THE FEAR THIS IS AIMED AT, on the page in ch12, and it is not what it looks like:
   "Because a village that knows sends to the lord. And a lord who is told sends
   men, and men who come look at a hole in the ground with a gate on it and
   DECIDE WHAT IS BEHIND IT IS WORTH HAVING." (ch12)
@@ -2982,6 +3025,33 @@ has left. Marit holds the valley. So the instruction has to travel twenty miles
 to a village where two people in nine can read, and the man riving the boards is
 not one of them. THE FIRST REAL TEST OF WRITING IT DOWN IS SENDING FOUR
 SENTENCES DOWN A ROAD. Do not waste that.
+
+THE BACKUP PLAN, IF THE LORD WANTS THE GATE OPEN ANYWAY (author's request).
+He has no men, no money and no standing, so every option below is made of things
+already on the page.
+
+  1  THE LEDGER, AND IT IS THE REAL ANSWER. Gaara's own read of the man, ch17:
+     "He keeps a ledger, and a superior, and AN ENORMOUS APPETITE FOR NOT BEING
+     BLAMED." You do not stop an official with force. YOU STOP HIM WITH HIS OWN
+     PAPERWORK. Get the true version into the record FIRST: the gate was found
+     open, has been shut, is being kept shut by locals at their own cost, and
+     the risk is contained. Once that is written and signed, opening the gate is
+     the man reversing his own report, and everything that comes out afterwards
+     is his.
+     THIS IS WHY IT MATTERS THAT GAARA IS IN THE WOLD NOW. He can be in the
+     ledger before anybody rides out to look, and this is the first time writing
+     is used as a weapon rather than as a product.
+  2  THE TRUE THINGS THAT ARE ALSO TERRIFYING, and rule one holds because every
+     one of them happened. Nine hours to raise the gate and four to lower it,
+     with a crew. THE THING UNDER THE CHANNEL THAT DRINKS WHILE YOU TURN IT
+     (ch16), which nobody can explain and nobody can verify without going. And
+     the body count in living memory: Aldis, Teodor, Osvald, a boy fishing, a
+     man with a cart, and Rulf twice. Written down as an actuarial case it is
+     the most persuasive document in the valley.
+  3  IF THEY OPEN IT REGARDLESS, BE THE CONTRACTOR. He cannot stop it, so he
+     takes the job and controls the pace. Ugly, plausible, entirely him, and it
+     turns the disaster into the company's charter. Keep this in reserve; it is
+     the version where he wins and Hallvard never forgives him.
 
 AND HALLVARD MUST FIGHT HIM ON IT. Thirty-one years of invisibility against a
 week of a stranger's arithmetic. The book's pattern is that Gaara is right about
