@@ -509,7 +509,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
-- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.2) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.3) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
 
   **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
 
@@ -533,13 +533,25 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Was er bekommt: die Tuer, und dass sie zugeht.** *"It is there. It is not going to be there in a month."* Der Weg ist **Settlement** - *"the only desk in the building that touches every line and gets paid the least for it"* - und der neue Mann ist bereits durch den Raum und durch die Leute gegangen. **Damit laeuft eine zweite Uhr neben Nams.** Den Namen sagt Sang-hoon nicht im Korridor, sondern unten am Wagen, und er passt in eine Zeile.
 
-  **Der Preis ist die vollstaendige Auskunft ueber Hanseong**, und zwar der Teil, den Sang-hoon in zweieinhalb Monaten nicht herausbekommen hat: **warum er es war.** Antwort: *"You told me that when you take hold of a thing you do not put it down, and you said it as a virtue, because it is one. ... It is also the only mechanism in you that can be aimed."* Der Bericht lag in der einen Form auf dem Tisch, die das Weglegen unmoeglich macht - **als Korrektur an Georgij.**
+  **Der Preis ist die vollstaendige Auskunft ueber Hanseong**, und die Frage ist praeziser, als sie in der ersten Fassung war. **"Warum ich" ist kein Raetsel** - Sang-hoon wollte die Kim-Logistik, Annie brauchte sie, und das weiss er seit Dezember. Georgij sagt es ihm auch so: *"If you had been after a chemical works I would have gone and found you a chemical works."*
+
+  **Was er nicht hat, ist warum ER unterschrieben hat.** *"I saw the wall. I asked you about it out loud, at your table, and then I signed."* Das ist die Frage, ueber der er seit zweieinhalb Monaten sitzt, und nur der Mann, der die Falle gebaut hat, kann sie beantworten.
+
+  **Die Antwort in drei Schritten.** Erstens: Er haette Hanseong von jedem gekauft - Routen, billig, blutend, halber Vorstand unterschriftsbereit. *"That is your trade, and it is the only reason the thing could be used at all."* Zweitens: Als **Angebot** haette er den zerstrittenen Vorstand gesehen und waere gegangen. Drittens, und das ist der Mechanismus: *"You told me that when you take hold of a thing you do not put it down. ... It is also the only part of you that can be aimed. Everything else is judgement, and judgement will not go where a stranger points it."*
+
+  **Also lag es nicht als Gelegenheit auf dem Tisch, sondern als Bitte um Korrektur** - neunzehn wahre Seiten und die Frage, ob das Ganze Unsinn sei.
+
+  **Und hier haengt die Szene an Kapitel 18, nicht an einer Erfindung.** Auf Sang-hoons *"It was you being wrong"* antwortet Georgij mit der Fundstelle: **Seite neun.** Zwei Geruechte ueber fehlendes Geld bei einer Tochter, von einem Schiffsagenten und von einer Pruefenden, die einander nicht kennen - **ein Mund, zweimal gezaehlt.** Sang-hoons Bleistift dazu: **"Same."** Und Georgij gibt zu: *"I received it at both ends and counted it twice, and I was pleased with myself for four days."*
+
+  **Damit haelt Regel 1, und zwar an der schwierigsten Stelle des ganzen Manoevers.** Er hat nicht vorgetaeuscht, falsch zu liegen. *"It was a real mistake and I did not know it was there. I did not need to know. I needed the nineteen pages to be true and the asking to be genuine, and both of those were."*
+
+  **Und der Kaufgrund am Ende:** Sang-hoon fand vier Fehler, alle in Bleistift, und las neunzehn Seiten zweimal, um sie zu finden - *"drei Woerter und eine Zahl"*, Kapitel 18. *"You had it won by page eleven, and there was nothing to show for it except three words and a figure in a margin. A man like you does not leave a thing won and unpaid."* Und: *"You were not valuing an asset when you signed. You had finished the argument two weeks earlier and you were putting the last word on it, and the last word cost several hundred billion won."*
 
   **Und Georgij gibt den unangenehmen Teil mit:** *"I stayed for the other two hours and fifty because it was the best thing anybody has ever told me about this trade, and I was enjoying it. I want that said, because it is the part I am least comfortable with."*
 
   **Sang-hoons Antwort darauf ist die beste Zeile, die er im Buch bekommt:** *"I would do the three and a half hours again. With you, next week, if you asked. That is not a man who has learned something. That is a man who found out what he is."*
 
-  **Am Wagen noch ein Satz, einmal gesagt und nicht wiederholt:** *"When she is finished with you, you will not come to me. I know that. I am not asking. ... I will be at these things, four or five times a year, until I am the one in the room."*
+  **Am Wagen noch ein Angebot, und es ist konkret und nicht stimmungsvoll.** Kein Brief, kein Mittelsmann, kein Gefallen, den man erbitten muesste: *"Four or five of these a year, until I am the one in the room. You will not have to write to anybody. You will not have to ask a man for a favour or stand in an office and be looked at. You come and stand in a corridor, and I will come over."* **Das ist genau das, was Georgij heute getan hat**, und es ist an einen Mann gerichtet, der nichts besitzt und niemanden um etwas bitten kann. Sein Grund: *"I have wanted to buy you twice and been told no twice, and both times I went home and thought about the work and not about the price."* Einmal gesagt, dann nicht mehr erwaehnt - *"A man should say a thing like that once and then not go on about it."*
 
   **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
 

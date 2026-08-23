@@ -21,7 +21,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Annie | 349 | 34 (b1ch01-b2ch04) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 99 | 17 (b1ch10-b2ch04) | 7 | 74 |
+| Park Sang-hoon | 100 | 17 (b1ch10-b2ch04) | 7 | 74 |
 | Jang | 64 | 15 (b1ch05-b2ch04) | 4 | 60 |
 | Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
@@ -400,8 +400,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:152 | Annie looked at that for a moment. |
 | 56 | b2ch03:170 | Annie did not move at all. |
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
-| 60 | b2ch04:242 | Annie was in the small room with the door open. |
-| 60 | b2ch04:254 | "Take the coat off," said Annie. |
+| 60 | b2ch04:292 | Annie was in the small room with the door open. |
+| 60 | b2ch04:304 | "Take the coat off," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -932,7 +932,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-99 Nennungen in 17 Kapiteln.
+100 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1031,10 +1031,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:144 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
 | 60 | b2ch04:156 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
 | 60 | b2ch04:170 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
-| 60 | b2ch04:190 | Sang-hoon did not say anything for a while. |
-| 60 | b2ch04:202 | Sang-hoon looked out of the window at a car park. |
-| 60 | b2ch04:214 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
-| 60 | b2ch04:226 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
+| 60 | b2ch04:210 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:226 | "I found four," said Sang-hoon. "In pencil. I read the nineteen pages twice to do it, an.. |
+| 60 | b2ch04:248 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:260 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1078,8 +1079,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:144` (Tag 60) - four
 - `b2ch04:156` (Tag 60) - one, two
 - `b2ch04:170` (Tag 60) - fourteen, thirty, two
-- `b2ch04:214` (Tag 60) - one
-- `b2ch04:226` (Tag 60) - one
+- `b2ch04:226` (Tag 60) - four, nineteen
+- `b2ch04:260` (Tag 60) - one
+- `b2ch04:272` (Tag 60) - one
 
 ---
 
@@ -1152,7 +1154,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
-| 60 | b2ch04:236 | Jang met the car on the gravel, which he does not do. |
+| 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 
 ### Zahlen in der Naehe von Jang
 
