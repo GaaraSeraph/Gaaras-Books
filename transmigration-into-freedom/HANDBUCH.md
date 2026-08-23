@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 17 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 22.788 Woerter.
+Alle 4 Dokumente am Stueck. 23.387 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -1710,8 +1710,11 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
    Still open: what MP is FOR in his hands, and whether he ever gets to use it
    himself rather than being drawn on.
 7. The war in the east, and a lord who does not answer letters.
-8. The 11 coins and the script he cannot read. Translation covers speech;
-   reading is untested.
+8. The 11 coins and the script he cannot read. Translation covers speech, and
+   reading is GENUINELY untested, which is easy to miss: he looked at the coins
+   in ch3 at line 51 and [ TRANSLATION ACTIVE ] arrives at line 176 of the same
+   chapter. He has not taken a coin out since. One sentence in a town settles
+   it, and the intended answer is in section 7.
 9. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
 10. HE STOPS ASKING, ch17, and that is the move. He asked in ch13 with the
     flagstone up, made him say it twice on "liars decorate", got the same telling
@@ -1732,8 +1735,23 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     purpose, and likes none of the arithmetic. The cost came before the choice,
     which is the right way round.
 12. The world's technological level, and whether printing exists. He has still
-    not seen a book. Feeds the long game (section 7). The channel in ch8 is the
-    first hard evidence and it is civil engineering, not magic.
+    not seen a book, a page, or a written word in anybody's hands. Feeds the
+    long game (section 7). The channel in ch8 is the first hard evidence and it
+    is civil engineering, not magic.
+    WHAT IS ALREADY ON THE PAGE ABOUT WRITING, and it is more than it looks:
+    - Eleven grey coins stamped with a face and letters he could not read (ch3).
+      A mint means an administration means script in official use.
+    - Hallvard worked the eighteen inches out ON A SLATE OVER TWO WINTERS
+      (ch12). A village elder does sustained written arithmetic. The slate is
+      ordinary and it is his.
+    - Slate is also building material: the wind wall round Solva's lamp (ch5),
+      the lining of the gear pit (ch13). Cheap, local, everywhere.
+    - The mark on the drum, which Hallvard cannot read and the panel would not
+      read until it had been fed (ch13, ch16).
+    - "None of them wrote any of it down, and that was on purpose" (ch12, ch14).
+      LOAD-BEARING: the sentence only means anything if writing it down was an
+      available option that three generations refused.
+    - A lord's man "keeps a ledger" (ch17). Gaara's assumption, not verified.
 13. The nobility, and whether anything large needs a noble backer.
 14. This world's norms on sexuality and non-exclusive partnership.
 15. The name, and the first time it becomes a record. RESERVED for the scene
@@ -1841,6 +1859,34 @@ chapters can plant for it, and so a decision is taken before it is written.
   deliberate story event, never as anachronistic machinery. (A world that copies
   books by hand, likely gatekept, makes "give knowledge away via printing" a
   strong engine - but that is a possibility to earn on the page, not a fact yet.)
+- WRITING MATERIAL: DECIDED BY THE AUTHOR, NOT YET ON THE PAGE. There is NO
+  PAPER in this world. Not in the capital, not on a trade route, nowhere.
+  Parchment, wax and slate, and that is the whole list.
+  THE REASON IS NOT POVERTY, IT IS THAT NOBODY HAS HAD A REASON. Paper is rags,
+  water and a screen: a process, not a rare substance. Nobody replaces a
+  solution that works, and while there are calves there is parchment. It takes
+  somebody who suddenly wants a THOUSAND pages instead of twenty, and that man
+  has just woken up in this world.
+  CONSEQUENCE FOR THE LONG GAME: the bottleneck is not the press. Movable type
+  is worthless without a substrate, so his first industry is a paper mill and
+  not a printing house, and from the outside it is a man stirring rags in a tub.
+  WHAT THIS MEANS SOCIALLY: they know the WORD book. Almost nobody has handled
+  one, the way a person today knows the word oil painting. Marit has never
+  touched one. There are no BLANK books as a product, because the cost sits in
+  the skins and the binding and nobody pays that before knowing what goes in.
+  A book is always something somebody commissioned. Slate and wax for anything
+  temporary, single sheets and offcuts for anything that has to travel. Books
+  live where record-keeping is enforced: a lord's hall, a tax roll, a court
+  roll, a guild register.
+  HOW IT GETS DISCOVERED (ch18, in a town, at a price and not in a lecture):
+  he asks for the cheapest thing to write on and is given a slate for almost
+  nothing. Then he asks for something he can take away and keep, and the answer
+  comes in skins. Two skins is a calf. A book is a herd. He does that
+  arithmetic with eleven coins in his pouch whose value he does not know.
+  AND IN THE SAME SCENE, thread 8 closes: he takes out a coin for the first
+  time since day one, with the translation running, and the letters stay shut.
+  HE IS ILLITERATE HERE. A man whose entire value is information cannot read a
+  sign. Underused so far and it should hurt and be funny in the same scene.
 - Longer term, possibly his own territory to hold and strengthen, and possibly
   continued adventuring alongside it. Whether the story settles into
   territory-building or stays on the road is undecided.
