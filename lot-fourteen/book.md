@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 101.041 Woerter.
+34 Kapitel. 101.125 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -42,7 +42,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.11 | 3.335 |
-| 34 | v1.7 | 4.209 |
+| 34 | v1.8 | 4.293 |
 
 ---
 
@@ -10660,7 +10660,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -11036,7 +11036,23 @@ She waited.
 
 ---
 
-"On the bridge I told you it was the only thing standing between me and a room with nineteen other people in it. I told you a man who belongs to nobody is stock. I told you it is what makes it too much trouble to take me off you." He had both hands flat and they had gone very still. "Every word of that was true on the twenty-seventh of November. None of it is true this morning. You have taken the argument away from me and you did it deliberately."
+"On the bridge I told you it was the only thing standing between me and a room with nineteen other people in it. I told you a man who belongs to nobody is stock. I told you it is what makes it too much trouble to take me off you." He had both hands flat and they had gone very still. "Every word of that was true on the twenty-seventh of November."
+
+"And this morning."
+
+---
+
+"Two of the three stopped. The middle one did not." He did not hurry any of it. "A man who belongs to nobody is stock, and since the nineteenth of February I belong to nobody. What is round my neck is a mark with nothing behind it. It goes on working for exactly as long as nobody looks in that book."
+
+---
+
+"Then keep it for that," said Annie.
+
+"It would hold." He did not take it. "It is not why."
+
+---
+
+"You have taken the half of it I could use in a room, and you did it deliberately."
 
 "I did."
 
