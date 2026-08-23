@@ -19,7 +19,8 @@ nicht diese Zeile von Hand.
 11. Nobody Carries a Stick
 12. For the Record
 13. The Cost of Shutting a Door
-14. A Name for the Knife (planned)
+14. Say It in the Road
+15. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -347,6 +348,22 @@ The elder's secret (ch12) - the first arc's answer
   Hallvard has not had four men since Aldis died. That is the whole reason the
   door is open, and it is why this is the first problem in the book Gaara cannot
   solve alone at any price.
+- (ch14) THE PRICE OF SIX MEN. Gaara asks the village himself, correctly, in
+  order, undecorated, and forty houses look at their boots. Same failure as the
+  night of the attack: the information is right and worth nothing in his mouth.
+  The fix is not a better argument. It is Hallvard's standing - the only account
+  in Oldstep with anything in it.
+  BUT Gaara will not buy it with a lie by omission. Men who go down there not
+  knowing will do the wrong thing in the nine seconds that matter, so they get
+  told everything, including whose arithmetic opened the gate. And it has to
+  come out of Hallvard's own mouth, in the road, because Gaara refuses to spend
+  his one asset telling another man's story for him. "That is not kindness. It
+  is bookkeeping."
+- (ch14) HALLVARD SAYS IT IN THE ROAD, in about four minutes, in flat ordinary
+  sentences, and does not say sorry once. He expects to lose the eldership and
+  says so beforehand. Whether he does is NOT established.
+  New history in that speech: Aldis's FATHER did it eleven years and died with
+  nobody knowing; her uncle nineteen; Hallvard thirty-one.
 - (ch13) THE PLAN, stated out loud by Gaara in three parts: killing them does
   not solve it; shutting the gate does, because it closes the road and not the
   room; and he wants three or four hunting trips into that room BEFORE they seal
@@ -537,6 +554,15 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     pays enormously. He does not know the function.
 21. The knife will break, and the system has told him so in writing. Two to four
     hard uses. He is walking back to a village with it.
+28. HE PICKS HIS CREW BY THE NUMBERS, and cannot say so. In ch14 he reads the
+    road while he talks and sorts it without deciding to: the heavy man with the
+    spear is a 5, Bern a 4, Torv a 6, and Ylva - a woman of about forty behind
+    the smith's gate who has said nothing all morning - is a SEVEN, the highest
+    thing he has ever seen in Oldstep. He asks her first and refuses to explain
+    why in the road. Hallvard notices: "You are picking by something." "Yes."
+    "Will you tell me by what?" "No."
+    He is choosing who might die by a number only he can see. Do not let him get
+    comfortable with that.
 26. HALLVARD'S OWN ANSWER ABOUT THE EMPTY AIR (ch13), given twice on request
     because Gaara invokes "liars decorate": "I have been down in that room a
     great many times. That there is a line cut in the floor of it. And that I

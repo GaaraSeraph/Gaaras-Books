@@ -108,6 +108,29 @@ Aldis Halden (dead, offstage)
 - Marit's great-aunt, her grandfather's sister, elder of Oldstep before
   Hallvard. Died in a spring; the houses met that autumn and gave it to him.
 
+The six (ch14)
+- Ylva, Level 7, about forty, behind the smith's gate. The highest number in
+  Oldstep and the quietest person in the road. Her husband went down with Aldis
+  and came back the first time, which is all she says about it. On a bar.
+- Torv, Level 6, wide and slow, near the pens. Said "she's a woman" out loud,
+  did not apologise for it, and came anyway, which Gaara considers the more
+  useful of the two options. On a bar.
+- The heavy man with the boar spear, Level 5. Came up close first and said "I
+  still think you have got a mouth on you." Gaara: "You are correct." That was
+  the whole negotiation. On a bar.
+- Bern, Level 4 (see below). On the wedges with Hallvard.
+- Ask, about thirty, said nothing at all and stepped forward.
+- Halle's boy, nineteen, Level 2 and the lowest number Gaara took. Helped kill
+  the small one in the road the night Osvald died, and came to the trough before
+  anyone was awake to ask for a bar: "Because I was there and I did it and I am
+  not doing that again." Gaara gives him the word - for the record - as his
+  personal signal to run, which Marit finds funnier than he does.
+- REFUSED: Solva, who wanted the sixth bar because Teodor was her son. Gaara
+  talked her out of it with the only currency he has: "You would slow us down
+  and it might kill somebody. That is plain." She gave him a loaf and shut the
+  door, and he stood in the dark holding bread, which was the worst he had felt
+  all week.
+
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
 in Oldstep beyond Marit, Hallvard and Solva has a name in the text right now.

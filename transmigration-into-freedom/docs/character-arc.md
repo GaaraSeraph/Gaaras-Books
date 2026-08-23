@@ -152,6 +152,10 @@ Chapter 13: no mechanical change at all. No kills, no level, no allocation, MP
 still untouched at 60. The chapter spends its system budget on reading a
 windlass (it reads, because he has hands on it) and on a mark he cannot read.
 
+Chapter 14: no mechanical change. No kills, no level, nothing spent. The system
+budget goes entirely on him reading the road and choosing a crew by levels he
+cannot explain to anyone in it.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

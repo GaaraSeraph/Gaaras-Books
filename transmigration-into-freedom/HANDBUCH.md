@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 13 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 15.898 Woerter.
+Kanon: 14 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 16.538 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -124,6 +124,29 @@ Osvald, Level 4 (ch5 as a face, ch6 named and dead)
 Aldis Halden (dead, offstage)
 - Marit's great-aunt, her grandfather's sister, elder of Oldstep before
   Hallvard. Died in a spring; the houses met that autumn and gave it to him.
+
+The six (ch14)
+- Ylva, Level 7, about forty, behind the smith's gate. The highest number in
+  Oldstep and the quietest person in the road. Her husband went down with Aldis
+  and came back the first time, which is all she says about it. On a bar.
+- Torv, Level 6, wide and slow, near the pens. Said "she's a woman" out loud,
+  did not apologise for it, and came anyway, which Gaara considers the more
+  useful of the two options. On a bar.
+- The heavy man with the boar spear, Level 5. Came up close first and said "I
+  still think you have got a mouth on you." Gaara: "You are correct." That was
+  the whole negotiation. On a bar.
+- Bern, Level 4 (see below). On the wedges with Hallvard.
+- Ask, about thirty, said nothing at all and stepped forward.
+- Halle's boy, nineteen, Level 2 and the lowest number Gaara took. Helped kill
+  the small one in the road the night Osvald died, and came to the trough before
+  anyone was awake to ask for a bar: "Because I was there and I did it and I am
+  not doing that again." Gaara gives him the word - for the record - as his
+  personal signal to run, which Marit finds funnier than he does.
+- REFUSED: Solva, who wanted the sixth bar because Teodor was her son. Gaara
+  talked her out of it with the only currency he has: "You would slow us down
+  and it might kill somebody. That is plain." She gave him a loaf and shut the
+  door, and he stood in the dark holding bread, which was the worst he had felt
+  all week.
 
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
@@ -289,6 +312,10 @@ reasons stated. No level, no kills, no skill change. Still Level 4, HP 220, MP
 Chapter 13: no mechanical change at all. No kills, no level, no allocation, MP
 still untouched at 60. The chapter spends its system budget on reading a
 windlass (it reads, because he has hands on it) and on a mark he cannot read.
+
+Chapter 14: no mechanical change. No kills, no level, nothing spent. The system
+budget goes entirely on him reading the road and choosing a crew by levels he
+cannot explain to anyone in it.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -734,7 +761,8 @@ nicht diese Zeile von Hand.
 11. Nobody Carries a Stick
 12. For the Record
 13. The Cost of Shutting a Door
-14. A Name for the Knife (planned)
+14. Say It in the Road
+15. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1062,6 +1090,22 @@ The elder's secret (ch12) - the first arc's answer
   Hallvard has not had four men since Aldis died. That is the whole reason the
   door is open, and it is why this is the first problem in the book Gaara cannot
   solve alone at any price.
+- (ch14) THE PRICE OF SIX MEN. Gaara asks the village himself, correctly, in
+  order, undecorated, and forty houses look at their boots. Same failure as the
+  night of the attack: the information is right and worth nothing in his mouth.
+  The fix is not a better argument. It is Hallvard's standing - the only account
+  in Oldstep with anything in it.
+  BUT Gaara will not buy it with a lie by omission. Men who go down there not
+  knowing will do the wrong thing in the nine seconds that matter, so they get
+  told everything, including whose arithmetic opened the gate. And it has to
+  come out of Hallvard's own mouth, in the road, because Gaara refuses to spend
+  his one asset telling another man's story for him. "That is not kindness. It
+  is bookkeeping."
+- (ch14) HALLVARD SAYS IT IN THE ROAD, in about four minutes, in flat ordinary
+  sentences, and does not say sorry once. He expects to lose the eldership and
+  says so beforehand. Whether he does is NOT established.
+  New history in that speech: Aldis's FATHER did it eleven years and died with
+  nobody knowing; her uncle nineteen; Hallvard thirty-one.
 - (ch13) THE PLAN, stated out loud by Gaara in three parts: killing them does
   not solve it; shutting the gate does, because it closes the road and not the
   room; and he wants three or four hunting trips into that room BEFORE they seal
@@ -1252,6 +1296,15 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     pays enormously. He does not know the function.
 21. The knife will break, and the system has told him so in writing. Two to four
     hard uses. He is walking back to a village with it.
+28. HE PICKS HIS CREW BY THE NUMBERS, and cannot say so. In ch14 he reads the
+    road while he talks and sorts it without deciding to: the heavy man with the
+    spear is a 5, Bern a 4, Torv a 6, and Ylva - a woman of about forty behind
+    the smith's gate who has said nothing all morning - is a SEVEN, the highest
+    thing he has ever seen in Oldstep. He asks her first and refuses to explain
+    why in the road. Hallvard notices: "You are picking by something." "Yes."
+    "Will you tell me by what?" "No."
+    He is choosing who might die by a number only he can see. Do not let him get
+    comfortable with that.
 26. HALLVARD'S OWN ANSWER ABOUT THE EMPTY AIR (ch13), given twice on request
     because Gaara invokes "liars decorate": "I have been down in that room a
     great many times. That there is a line cut in the floor of it. And that I
