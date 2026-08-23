@@ -18,18 +18,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 347 | 33 (b1ch01-b2ch03) | 1 | 74 |
+| Annie | 349 | 34 (b1ch01-b2ch04) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
-| Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
+| Park Sang-hoon | 99 | 17 (b1ch10-b2ch04) | 7 | 74 |
+| Jang | 64 | 15 (b1ch05-b2ch04) | 4 | 60 |
 | Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
-| Mr Ku | 11 | 8 (b1ch05-b2ch02) | 6 | 55 |
+| Mr Ku | 12 | 9 (b1ch05-b2ch04) | 6 | 60 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
@@ -49,7 +49,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-347 Nennungen in 33 Kapiteln.
+349 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -400,6 +400,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:152 | Annie looked at that for a moment. |
 | 56 | b2ch03:170 | Annie did not move at all. |
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
+| 60 | b2ch04:236 | Annie was in the small room with the door open. |
+| 60 | b2ch04:248 | "Take the coat off," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -930,7 +932,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-86 Nennungen in 16 Kapiteln.
+99 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1020,6 +1022,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:238 | Park Sang-hoon turned round then. |
 | 7 | b1ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
 | 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
+| 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
+| 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
+| 60 | b2ch04:100 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
+| 60 | b2ch04:110 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
+| 60 | b2ch04:114 | "You did not come here for a man from Mokpo," said Sang-hoon. |
+| 60 | b2ch04:128 | Sang-hoon put the cup down on the sill. |
+| 60 | b2ch04:138 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
+| 60 | b2ch04:150 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
+| 60 | b2ch04:164 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
+| 60 | b2ch04:184 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:196 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:208 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:220 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1057,12 +1072,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch33:228` (Tag 7) - two, two hundred million
 - `b1ch33:270` (Tag 7) - eleven, forty
 - `b1ch34:130` (Tag 46) - one
+- `b2ch04:74` (Tag 60) - two
+- `b2ch04:82` (Tag 60) - two, two hundred million
+- `b2ch04:100` (Tag 60) - two
+- `b2ch04:138` (Tag 60) - four
+- `b2ch04:150` (Tag 60) - one, two
+- `b2ch04:164` (Tag 60) - fourteen, thirty, two
+- `b2ch04:208` (Tag 60) - one
+- `b2ch04:220` (Tag 60) - one
 
 ---
 
 ## Jang
 
-63 Nennungen in 14 Kapiteln.
+64 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1129,6 +1152,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
+| 60 | b2ch04:230 | Jang met the car on the gravel, which he does not do. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1552,7 +1576,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Ku
 
-11 Nennungen in 8 Kapiteln.
+12 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1567,6 +1591,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:254 | Mr Ku had the car turned round already. |
 | 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
 | 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 
 ### Zahlen in der Naehe von Mr Ku
 

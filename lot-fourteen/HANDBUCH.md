@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 85.673 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 87.108 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1898,6 +1898,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Zeilen**, unbeauftragt. Drei von vier Abenden aufgeloest, **Mrs Sunwoo**
   gefunden, der vierte Abend hat kein Papier. Abends Ulsan und die erste
   offene Zurueckhaltung ihr gegenueber (Band 2, Kapitel 3)
+- Tag 159, Mi 11. Maerz: **die Trauerfeier**, das Buch ohne Umschlag, Sang-hoon
+  im Korridor. Er bekommt die Tuer ins Register und bezahlt mit der vollen
+  Auskunft ueber Hanseong. Jang meldet den Wagen, **Annie hat es zuerst**
+  (Band 2, Kapitel 4)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2016,6 +2020,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Von den drei Saetzen der Bruecke ueberlebt einer, und das ist neu ab v1.8.** Zwei sind mit dem Eintrag weggefallen; *"a man who belongs to nobody is stock"* nicht, und er beschreibt jetzt ihn. **Das Halsband ist ein Zeichen ohne Deckung** - *"What is round my neck is a mark with nothing behind it. It goes on working for exactly as long as nobody looks in that book."* Annie bietet ihm das als Grund an, und **er nimmt ihn nicht**: *"Then keep it for that." - "It would hold." He did not take it. "It is not why."*
 
   **Der zurueckgehaltene Grund steht im Konditional, weil alles andere unwahr waere:** *"Until the nineteenth of February, if you had finished with me, you would have had to sell me."* Preis, Raum, Zeugen, Wochen, und um den neunten Morgen herum haette sie vielleicht nicht mehr gewollt. *"And now." - "Now there is nothing to sell."* Die einzige Kontraktion des Kapitels steht davor: **"I'm afraid of Tuesdays."**
+
+  **Was der Satz heisst, und nur das, festgelegt am 23.08.:** Die Angst gilt **ausschliesslich davor, von ihr verstossen zu werden**, in einem Flur, zwischen zwei anderen Dingen. Sie ist **keine allgemeine Furcht vor Dienstagen** und darf nirgendwo sonst mitschwingen. Ein Dienstag im uebrigen Kalender ist ein Wochentag wie jeder andere - Kapitel 16 spielt an einem, das Essen mit Sang-hoon, und das traegt keine Ladung.
 
   **Annie benennt es, und er gibt es zu:** *"You are describing being free," said Annie. - "I am describing how cheap it has become to be finished with me. ... Those are the same thing. I know that they are."* Seine Weigerung ist damit nicht unlogisch, sondern zugegeben unvernuenftig.
 
@@ -2321,6 +2327,36 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Der Unterschied zwischen den beiden steht damit fest und ist der Schluss des Kapitels: Georgij haelt mit Frist zurueck, Annie ohne.** *"In eight days she had stepped over two of his questions and had not put a date on either."* Und die letzte Bewegung ist ihre Hand im Nacken auf dem Weg vorbei, wie zweimal im Februar.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
+
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.0) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+
+  **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
+
+  **Warum kein Brief und kein Mittelsmann:** *"Then you would have had a day to decide what I wanted."* Do-yun wird ausdruecklich nicht benutzt.
+
+  **Der Eintrittspreis wird bezahlt, bevor Sang-hoon ueberhaupt auftaucht, und er ist Regel 2.** An der Tuer liegt ein Buch, in das jeder Besucher seinen Namen schreibt, daneben der Kasten fuer den Umschlag, und der Betrag kommt spaeter in die zweite Spalte. **Georgij hat nichts.** Er schreibt trotzdem seinen Namen und sagt es dem Mann am Tisch: **"I have nothing to put in it."** Auf dessen *"That is all right"* antwortet er *"It is not"* und laesst die Zeile durchstreichen, damit niemand es fuer ein Versehen haelt.
+
+  **Das ist die nackteste Stelle des Buches gegenueber einem Fremden**, und sie steht in einer Warteschlange. Dazu die Rechnung, die der Text nur legt und nicht ausspricht: Sein Name steht seit Oktober auf Papieren darueber, was er **tun darf**, und seit dem 19. Februar auf nichts darueber, was er **ist**. *"This was a book with a name in it and nothing else next to it."*
+
+  **Sang-hoon kommt von selbst herueber**, was der ganze Grund war, warum es ein Raum sein musste und kein Telefon. Er faengt an, wo er aufgehoert hat: *"Two billion two hundred million. ... I have moved up. Say a number."*
+
+  **Und da faellt die Zeile, die seit Dezember bereitliegt:** *"He was never for sale. Those were her words and not mine, and she said them to you in a chair in her own house, and I was not in the room."* Dazu *"Thank you for the figure. It was higher than the one that is on me."* **Beides wahr, beides ein Zitat, und die Auslassung ist, dass inzwischen gar nichts mehr auf ihm steht.** Sang-hoons Antwort ist seine Selbstauskunft: *"I do not pay what a thing is worth. I pay what it costs to stop having to think about it."*
+
+  **Sang-hoon weiss, dass die Zeile gestrichen ist, und sagt es nicht.** Es geht ihm eine Viertelsekunde uebers Gesicht und bleibt seins. **Georgij schliesst darauf, er weiss es nicht** - der Erzaehler weiss hier ausdruecklich nicht mehr als er.
+
+  **Die Bitte ist eine Schlussfolgerung, keine Frage:** *"You will have had somebody look in a book for you, in a building near the river. A man who puts a figure on a thing and does not move off it from December to March has been at the paper on it. I do not want what was on the page. I want to know how you got the look."*
+
+  **Was er bekommt: die Tuer, und dass sie zugeht.** *"It is there. It is not going to be there in a month."* Der Weg ist **Settlement** - *"the only desk in the building that touches every line and gets paid the least for it"* - und der neue Mann ist bereits durch den Raum und durch die Leute gegangen. **Damit laeuft eine zweite Uhr neben Nams.** Den Namen sagt Sang-hoon nicht im Korridor, sondern unten am Wagen, und er passt in eine Zeile.
+
+  **Der Preis ist die vollstaendige Auskunft ueber Hanseong**, und zwar der Teil, den Sang-hoon in zweieinhalb Monaten nicht herausbekommen hat: **warum er es war.** Antwort: *"You told me that when you take hold of a thing you do not put it down, and you said it as a virtue, because it is one. ... It is also the only mechanism in you that can be aimed."* Der Bericht lag in der einen Form auf dem Tisch, die das Weglegen unmoeglich macht - **als Korrektur an Georgij.**
+
+  **Und Georgij gibt den unangenehmen Teil mit:** *"I stayed for the other two hours and fifty because it was the best thing anybody has ever told me about this trade, and I was enjoying it. I want that said, because it is the part I am least comfortable with."*
+
+  **Sang-hoons Antwort darauf ist die beste Zeile, die er im Buch bekommt:** *"I would do the three and a half hours again. With you, next week, if you asked. That is not a man who has learned something. That is a man who found out what he is."*
+
+  **Am Wagen noch ein Satz, einmal gesagt und nicht wiederholt:** *"When she is finished with you, you will not come to me. I know that. I am not asking. ... I will be at these things, four or five times a year, until I am the one in the room."*
+
+  **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
 
 ---
 
@@ -4680,18 +4716,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 347 | 33 (b1ch01-b2ch03) | 1 | 74 |
+| Annie | 349 | 34 (b1ch01-b2ch04) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
-| Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
+| Park Sang-hoon | 99 | 17 (b1ch10-b2ch04) | 7 | 74 |
+| Jang | 64 | 15 (b1ch05-b2ch04) | 4 | 60 |
 | Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
-| Mr Ku | 11 | 8 (b1ch05-b2ch02) | 6 | 55 |
+| Mr Ku | 12 | 9 (b1ch05-b2ch04) | 6 | 60 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
@@ -4711,7 +4747,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-347 Nennungen in 33 Kapiteln.
+349 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5062,6 +5098,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:152 | Annie looked at that for a moment. |
 | 56 | b2ch03:170 | Annie did not move at all. |
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
+| 60 | b2ch04:236 | Annie was in the small room with the door open. |
+| 60 | b2ch04:248 | "Take the coat off," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5592,7 +5630,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-86 Nennungen in 16 Kapiteln.
+99 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5682,6 +5720,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:238 | Park Sang-hoon turned round then. |
 | 7 | b1ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
 | 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
+| 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
+| 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
+| 60 | b2ch04:100 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
+| 60 | b2ch04:110 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
+| 60 | b2ch04:114 | "You did not come here for a man from Mokpo," said Sang-hoon. |
+| 60 | b2ch04:128 | Sang-hoon put the cup down on the sill. |
+| 60 | b2ch04:138 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
+| 60 | b2ch04:150 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
+| 60 | b2ch04:164 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
+| 60 | b2ch04:184 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:196 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:208 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:220 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -5719,12 +5770,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch33:228` (Tag 7) - two, two hundred million
 - `b1ch33:270` (Tag 7) - eleven, forty
 - `b1ch34:130` (Tag 46) - one
+- `b2ch04:74` (Tag 60) - two
+- `b2ch04:82` (Tag 60) - two, two hundred million
+- `b2ch04:100` (Tag 60) - two
+- `b2ch04:138` (Tag 60) - four
+- `b2ch04:150` (Tag 60) - one, two
+- `b2ch04:164` (Tag 60) - fourteen, thirty, two
+- `b2ch04:208` (Tag 60) - one
+- `b2ch04:220` (Tag 60) - one
 
 ---
 
 ### Jang
 
-63 Nennungen in 14 Kapiteln.
+64 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5791,6 +5850,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
+| 60 | b2ch04:230 | Jang met the car on the gravel, which he does not do. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6214,7 +6274,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-11 Nennungen in 8 Kapiteln.
+12 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6229,6 +6289,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:254 | Mr Ku had the car turned round already. |
 | 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
 | 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 
 ### Zahlen in der Naehe von Mr Ku
 

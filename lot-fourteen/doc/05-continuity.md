@@ -79,6 +79,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Zeilen**, unbeauftragt. Drei von vier Abenden aufgeloest, **Mrs Sunwoo**
   gefunden, der vierte Abend hat kein Papier. Abends Ulsan und die erste
   offene Zurueckhaltung ihr gegenueber (Band 2, Kapitel 3)
+- Tag 159, Mi 11. Maerz: **die Trauerfeier**, das Buch ohne Umschlag, Sang-hoon
+  im Korridor. Er bekommt die Tuer ins Register und bezahlt mit der vollen
+  Auskunft ueber Hanseong. Jang meldet den Wagen, **Annie hat es zuerst**
+  (Band 2, Kapitel 4)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -197,6 +201,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Von den drei Saetzen der Bruecke ueberlebt einer, und das ist neu ab v1.8.** Zwei sind mit dem Eintrag weggefallen; *"a man who belongs to nobody is stock"* nicht, und er beschreibt jetzt ihn. **Das Halsband ist ein Zeichen ohne Deckung** - *"What is round my neck is a mark with nothing behind it. It goes on working for exactly as long as nobody looks in that book."* Annie bietet ihm das als Grund an, und **er nimmt ihn nicht**: *"Then keep it for that." - "It would hold." He did not take it. "It is not why."*
 
   **Der zurueckgehaltene Grund steht im Konditional, weil alles andere unwahr waere:** *"Until the nineteenth of February, if you had finished with me, you would have had to sell me."* Preis, Raum, Zeugen, Wochen, und um den neunten Morgen herum haette sie vielleicht nicht mehr gewollt. *"And now." - "Now there is nothing to sell."* Die einzige Kontraktion des Kapitels steht davor: **"I'm afraid of Tuesdays."**
+
+  **Was der Satz heisst, und nur das, festgelegt am 23.08.:** Die Angst gilt **ausschliesslich davor, von ihr verstossen zu werden**, in einem Flur, zwischen zwei anderen Dingen. Sie ist **keine allgemeine Furcht vor Dienstagen** und darf nirgendwo sonst mitschwingen. Ein Dienstag im uebrigen Kalender ist ein Wochentag wie jeder andere - Kapitel 16 spielt an einem, das Essen mit Sang-hoon, und das traegt keine Ladung.
 
   **Annie benennt es, und er gibt es zu:** *"You are describing being free," said Annie. - "I am describing how cheap it has become to be finished with me. ... Those are the same thing. I know that they are."* Seine Weigerung ist damit nicht unlogisch, sondern zugegeben unvernuenftig.
 
@@ -502,6 +508,36 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Der Unterschied zwischen den beiden steht damit fest und ist der Schluss des Kapitels: Georgij haelt mit Frist zurueck, Annie ohne.** *"In eight days she had stepped over two of his questions and had not put a date on either."* Und die letzte Bewegung ist ihre Hand im Nacken auf dem Weg vorbei, wie zweimal im Februar.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
+
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.0) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+
+  **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
+
+  **Warum kein Brief und kein Mittelsmann:** *"Then you would have had a day to decide what I wanted."* Do-yun wird ausdruecklich nicht benutzt.
+
+  **Der Eintrittspreis wird bezahlt, bevor Sang-hoon ueberhaupt auftaucht, und er ist Regel 2.** An der Tuer liegt ein Buch, in das jeder Besucher seinen Namen schreibt, daneben der Kasten fuer den Umschlag, und der Betrag kommt spaeter in die zweite Spalte. **Georgij hat nichts.** Er schreibt trotzdem seinen Namen und sagt es dem Mann am Tisch: **"I have nothing to put in it."** Auf dessen *"That is all right"* antwortet er *"It is not"* und laesst die Zeile durchstreichen, damit niemand es fuer ein Versehen haelt.
+
+  **Das ist die nackteste Stelle des Buches gegenueber einem Fremden**, und sie steht in einer Warteschlange. Dazu die Rechnung, die der Text nur legt und nicht ausspricht: Sein Name steht seit Oktober auf Papieren darueber, was er **tun darf**, und seit dem 19. Februar auf nichts darueber, was er **ist**. *"This was a book with a name in it and nothing else next to it."*
+
+  **Sang-hoon kommt von selbst herueber**, was der ganze Grund war, warum es ein Raum sein musste und kein Telefon. Er faengt an, wo er aufgehoert hat: *"Two billion two hundred million. ... I have moved up. Say a number."*
+
+  **Und da faellt die Zeile, die seit Dezember bereitliegt:** *"He was never for sale. Those were her words and not mine, and she said them to you in a chair in her own house, and I was not in the room."* Dazu *"Thank you for the figure. It was higher than the one that is on me."* **Beides wahr, beides ein Zitat, und die Auslassung ist, dass inzwischen gar nichts mehr auf ihm steht.** Sang-hoons Antwort ist seine Selbstauskunft: *"I do not pay what a thing is worth. I pay what it costs to stop having to think about it."*
+
+  **Sang-hoon weiss, dass die Zeile gestrichen ist, und sagt es nicht.** Es geht ihm eine Viertelsekunde uebers Gesicht und bleibt seins. **Georgij schliesst darauf, er weiss es nicht** - der Erzaehler weiss hier ausdruecklich nicht mehr als er.
+
+  **Die Bitte ist eine Schlussfolgerung, keine Frage:** *"You will have had somebody look in a book for you, in a building near the river. A man who puts a figure on a thing and does not move off it from December to March has been at the paper on it. I do not want what was on the page. I want to know how you got the look."*
+
+  **Was er bekommt: die Tuer, und dass sie zugeht.** *"It is there. It is not going to be there in a month."* Der Weg ist **Settlement** - *"the only desk in the building that touches every line and gets paid the least for it"* - und der neue Mann ist bereits durch den Raum und durch die Leute gegangen. **Damit laeuft eine zweite Uhr neben Nams.** Den Namen sagt Sang-hoon nicht im Korridor, sondern unten am Wagen, und er passt in eine Zeile.
+
+  **Der Preis ist die vollstaendige Auskunft ueber Hanseong**, und zwar der Teil, den Sang-hoon in zweieinhalb Monaten nicht herausbekommen hat: **warum er es war.** Antwort: *"You told me that when you take hold of a thing you do not put it down, and you said it as a virtue, because it is one. ... It is also the only mechanism in you that can be aimed."* Der Bericht lag in der einen Form auf dem Tisch, die das Weglegen unmoeglich macht - **als Korrektur an Georgij.**
+
+  **Und Georgij gibt den unangenehmen Teil mit:** *"I stayed for the other two hours and fifty because it was the best thing anybody has ever told me about this trade, and I was enjoying it. I want that said, because it is the part I am least comfortable with."*
+
+  **Sang-hoons Antwort darauf ist die beste Zeile, die er im Buch bekommt:** *"I would do the three and a half hours again. With you, next week, if you asked. That is not a man who has learned something. That is a man who found out what he is."*
+
+  **Am Wagen noch ein Satz, einmal gesagt und nicht wiederholt:** *"When she is finished with you, you will not come to me. I know that. I am not asking. ... I will be at these things, four or five times a year, until I am the one in the room."*
+
+  **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
 
 ---
 
