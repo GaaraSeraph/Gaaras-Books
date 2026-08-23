@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-16 Kapitel. 33.011 Woerter.
+16 Kapitel. 33.000 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -23,7 +23,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 13 | Chapter 13: The Cost of Shutting a Door | 1.932 |
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
-| 16 | Chapter 16: Something Is Drinking It | 2.365 |
+| 16 | Chapter 16: Something Is Drinking It | 2.354 |
 
 ---
 
@@ -3407,41 +3407,55 @@ The gate was eighteen inches up on two squared blocks, and it had to go up one i
 
 They came off the bars and stood in the water and breathed.
 
-"Right," said Gaara. "Standing offer, made once, so that nobody has to spend the next three hours wondering. Anybody who wants four minutes behind the sledge with me can have them. I am told I am good and I am reliably slow, and you may weigh those against one another."
-
-There were four different kinds of silence.
+"I want it recorded," said Gaara, "that this is the best looking work party I have ever stood in, and that the light down here is doing extraordinary things for every one of you. None of you should let it go to your heads."
 
 "I am a married man," said Vidar.
 
-"You are, and she is a lucky woman, and I would like that passed on exactly as I said it."
+"Nobody asked you, Vidar."
 
-"Do you mean it?" said Torv. "Do you actually mean it, or is it a thing you say?"
+Bern made a noise into his sleeve.
 
-"I mean it."
+"Ylva."
 
-"Because you say a great many things."
+"What."
 
-"I do, and I mean that one."
-
-Torv thought about it with his whole face, and then said he would let him know, in the tone of a man who would not.
+"Four minutes behind the sledge, if you want them."
 
 "No," said Ylva.
 
 "That is the cleanest no I have had in this world and I want you to know it was appreciated."
 
-Bern laughed until he had to be told twice to watch the gap. Ask said nothing at all, which was the most Ask thing available. Hallvard looked at the chain and said, "Turn the drum."
+"Aye," said Ylva, and drank her water, and that was the end of that.
 
-Sivert went red and looked into the water.
+Sivert was looking very hard at a rivet on the sledge.
 
-"That is a no from most of you and I have taken it as one," said Gaara. "I ask once. If anybody changes his mind he says so, and it costs him nothing, and it moves him not one place on the bar in either direction. I am the man giving the orders in this hole. That means asking twice would not be asking."
+"It is open to you as well," said Gaara. "I am saying that once, and now I am going to talk about drainage until somebody stops me."
 
-"You could have asked me on my own," said Marit.
+Sivert went red from the collar up and did not take his eyes off the rivet. Gaara turned round and talked about drainage.
 
-"I could. Then it would have been a secret, and this channel has had enough of those in it." He got his hands back on the bar. "Also you would have said yes, and I would have had nothing to be brave about."
+"You asked her," said Torv, four minutes later. "And you asked him."
 
-"You have thought about this."
+"I did."
 
-"I have had nineteen years of watching men not think about it."
+"You did not ask me."
+
+"No."
+
+"Why not?"
+
+"Standards," said Gaara.
+
+"What is wrong with me?"
+
+"Nothing whatsoever. You are a fine wide man and somebody is going to be extremely lucky, and I want you to hear that in the spirit it was meant." He got his hands back on the bar. "It is simply not going to be me, and I would like us to leave it down here, in the water, at the bottom of a hole."
+
+Torv thought about it with his whole face and then decided to be insulted for the rest of the hour, which Gaara said was the correct response, which did not help.
+
+Ask said nothing at all, which was the most Ask thing available. Hallvard looked at the chain and said, "Turn the drum."
+
+"You have a type," said Marit.
+
+"I have three. It is a very manageable illness."
 
 He found the other thing in the second hour, and he found it because he was bored.
 

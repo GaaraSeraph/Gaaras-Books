@@ -128,18 +128,20 @@ The six (ch14, blooded ch15)
 - Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
   man in this village. He is also exactly Gaara's age, which he points out
   himself, and which Gaara had managed not to notice for two days.
-- (ch16) THE STANDING OFFER, made once, in a rest break, to the whole crew:
-  four minutes behind the sledge, anybody who wants them. Vidar is married and
-  says so. Torv asks twice whether he means it and then says he will let him
-  know, in the tone of a man who will not. Ylva says no, flat, and gets told it
-  was the cleanest no he has had in this world. Bern laughs until he has to be
-  told twice to watch the gap. Ask says nothing. Hallvard says turn the drum.
-  Marit takes him up on it at the next break, in four minutes, and complains
-  about the number.
-  THE RULE HE STATES OUT LOUD, and it is the whole reason the scene works: he
-  asks once, a no costs nothing, and it moves nobody one place on the bar in
-  either direction, because he is the man giving the orders in that hole and
-  asking twice would not be asking.
+- (ch16) HE FLIRTS WITH THE WHOLE CREW AND ASKS EXACTLY TWO OF THEM. The
+  compliment goes to the room: best looking work party he has ever stood in, and
+  none of you should let it go to your heads. The actual offer of four minutes
+  behind the sledge goes to Ylva, who says no flat and gets told it was the
+  cleanest no he has had in this world, and to Sivert, once, who goes red from
+  the collar up and says nothing, after which Gaara turns round and talks about
+  drainage. Marit takes him up on it at the next break and complains about the
+  number.
+  THE JOKE IS WHO IS NOT ASKED. Vidar announces he is a married man and is told
+  nobody asked him. Torv works out that he was passed over, wants a reason, gets
+  "standards", and decides to be insulted for the rest of the hour.
+  HE DOES NOT EXPLAIN HIMSELF. There is no speech about the power gap, no
+  statement of terms. It is in the behaviour instead: he asks once, takes the
+  answer, and changes the subject in the same breath.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in

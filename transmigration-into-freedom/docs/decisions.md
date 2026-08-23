@@ -20,17 +20,24 @@ Also decided here: it draws on the whole crew and only Gaara can see it, so he
 either tells them mid-shift or becomes a man who spends people quietly. He
 tells them. That is the same asset chapter 14 was about.
 
-=== The quickie offer is made once, and the reason is the power gap ===
-The author asked for it: in the breaks he offers, and whether people take it up
-depends on the person. The risk in the scene is obvious, because he is the man
-giving orders in a tunnel where these people can die, so the scene names it
-instead of hoping the reader will not. He asks ONCE, a no costs nothing, and it
-moves nobody one place on the bar in either direction, and he says why: asking
-twice would not be asking.
-That also settles the Sivert direction from ch15 without moving it forward. He
-goes red, says nothing, and answers much later on his way out of the channel
-with somebody else's line. It stays his to refuse at no cost, which is the
-author's condition, verbatim.
+=== He flirts with everyone and asks the two he means it about ===
+First draft had him put the offer to the whole crew at once and then explain the
+terms of it out loud, and the author cut both. "Nicht jeden wild fragen. Marit,
+der Junge, Ylva. Der Rest ist nicht huebsch. Nicht sich erklaeren." And:
+"Jeden anflirten, aber nicht alle ernst flachlegen versuchen."
+Both notes fix the same failure. Offering to everybody present makes it a policy
+rather than an attraction, and a man who states his own terms of consent out
+loud is a man writing a memo about himself. Neither is Gaara.
+So: the flirting is general, aimed at the room, constant, and free. The offer is
+specific and goes to two people in that channel, and one of them says no.
+The safeguard is now in the BEHAVIOUR and not in a speech: he asks once, takes
+the answer in the same breath, and changes the subject to drainage. That covers
+the Sivert condition from ch15 (his to refuse at no cost) without a word of
+justification anywhere on the page.
+And cutting the speech bought the funnier scene: the joke is who does NOT get
+asked. Vidar volunteers that he is a married man and is told nobody asked him.
+Torv notices he was passed over, demands a reason, is given "standards", and
+sulks for an hour.
 
 === Chapter 15 counted eight people into a channel that had nine in it ===
 Six villagers plus Gaara, Marit and Hallvard is nine, and it was written as

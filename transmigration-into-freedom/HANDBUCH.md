@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 16 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 20.738 Woerter.
+Alle 4 Dokumente am Stueck. 20.854 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -145,18 +145,20 @@ The six (ch14, blooded ch15)
 - Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
   man in this village. He is also exactly Gaara's age, which he points out
   himself, and which Gaara had managed not to notice for two days.
-- (ch16) THE STANDING OFFER, made once, in a rest break, to the whole crew:
-  four minutes behind the sledge, anybody who wants them. Vidar is married and
-  says so. Torv asks twice whether he means it and then says he will let him
-  know, in the tone of a man who will not. Ylva says no, flat, and gets told it
-  was the cleanest no he has had in this world. Bern laughs until he has to be
-  told twice to watch the gap. Ask says nothing. Hallvard says turn the drum.
-  Marit takes him up on it at the next break, in four minutes, and complains
-  about the number.
-  THE RULE HE STATES OUT LOUD, and it is the whole reason the scene works: he
-  asks once, a no costs nothing, and it moves nobody one place on the bar in
-  either direction, because he is the man giving the orders in that hole and
-  asking twice would not be asking.
+- (ch16) HE FLIRTS WITH THE WHOLE CREW AND ASKS EXACTLY TWO OF THEM. The
+  compliment goes to the room: best looking work party he has ever stood in, and
+  none of you should let it go to your heads. The actual offer of four minutes
+  behind the sledge goes to Ylva, who says no flat and gets told it was the
+  cleanest no he has had in this world, and to Sivert, once, who goes red from
+  the collar up and says nothing, after which Gaara turns round and talks about
+  drainage. Marit takes him up on it at the next break and complains about the
+  number.
+  THE JOKE IS WHO IS NOT ASKED. Vidar announces he is a married man and is told
+  nobody asked him. Torv works out that he was passed over, wants a reason, gets
+  "standards", and decides to be insulted for the rest of the hour.
+  HE DOES NOT EXPLAIN HIMSELF. There is no speech about the power gap, no
+  statement of terms. It is in the behaviour instead: he asks once, takes the
+  answer, and changes the subject in the same breath.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
@@ -488,17 +490,24 @@ Also decided here: it draws on the whole crew and only Gaara can see it, so he
 either tells them mid-shift or becomes a man who spends people quietly. He
 tells them. That is the same asset chapter 14 was about.
 
-=== The quickie offer is made once, and the reason is the power gap ===
-The author asked for it: in the breaks he offers, and whether people take it up
-depends on the person. The risk in the scene is obvious, because he is the man
-giving orders in a tunnel where these people can die, so the scene names it
-instead of hoping the reader will not. He asks ONCE, a no costs nothing, and it
-moves nobody one place on the bar in either direction, and he says why: asking
-twice would not be asking.
-That also settles the Sivert direction from ch15 without moving it forward. He
-goes red, says nothing, and answers much later on his way out of the channel
-with somebody else's line. It stays his to refuse at no cost, which is the
-author's condition, verbatim.
+=== He flirts with everyone and asks the two he means it about ===
+First draft had him put the offer to the whole crew at once and then explain the
+terms of it out loud, and the author cut both. "Nicht jeden wild fragen. Marit,
+der Junge, Ylva. Der Rest ist nicht huebsch. Nicht sich erklaeren." And:
+"Jeden anflirten, aber nicht alle ernst flachlegen versuchen."
+Both notes fix the same failure. Offering to everybody present makes it a policy
+rather than an attraction, and a man who states his own terms of consent out
+loud is a man writing a memo about himself. Neither is Gaara.
+So: the flirting is general, aimed at the room, constant, and free. The offer is
+specific and goes to two people in that channel, and one of them says no.
+The safeguard is now in the BEHAVIOUR and not in a speech: he asks once, takes
+the answer in the same breath, and changes the subject to drainage. That covers
+the Sivert condition from ch15 (his to refuse at no cost) without a word of
+justification anywhere on the page.
+And cutting the speech bought the funnier scene: the joke is who does NOT get
+asked. Vidar volunteers that he is a married man and is told nobody asked him.
+Torv notices he was passed over, demands a reason, is given "standards", and
+sulks for an hour.
 
 === Chapter 15 counted eight people into a channel that had nine in it ===
 Six villagers plus Gaara, Marit and Hallvard is nine, and it was written as

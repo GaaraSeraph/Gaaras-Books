@@ -15,7 +15,7 @@ ch12    2127 Woerter  ch12-for-the-record.md
 ch13    1932 Woerter  ch13-the-cost-of-shutting-a-door.md
 ch14    2693 Woerter  ch14-say-it-in-the-road.md
 ch15    2026 Woerter  ch15-two-to-four-hard-uses.md
-ch16    2365 Woerter  ch16-something-is-drinking-it.md
+ch16    2354 Woerter  ch16-something-is-drinking-it.md
 
-Gesamt: 16 Kapitel, 33011 Woerter
+Gesamt: 16 Kapitel, 33000 Woerter
 Handbuch: 4 Dokumente

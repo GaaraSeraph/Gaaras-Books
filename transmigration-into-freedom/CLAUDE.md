@@ -107,6 +107,16 @@ it rather than cutting the talk. That is how 6 became 6 and 7.
   something. Somebody else's guilt is not a reason for him to go quiet.
   Caught by the author twice (ch8 and ch14) and never once by a script, because
   no script can measure it. Read for it deliberately, before anything else.
+- HE FLIRTS WITH EVERYONE AND PROPOSITIONS ALMOST NOBODY. The suggestive line is
+  free, general and constant: it goes to the room, to men he finds ridiculous, to
+  people pointing weapons at him. An actual offer is rare, specific, and goes
+  only to somebody he genuinely wants. Do not let the two merge. A man who offers
+  to everybody present is running a policy, and it stops being attraction.
+- HE DOES NOT EXPLAIN HIMSELF. No speeches about his own decency, no stating the
+  terms of anything he is doing. Where a safeguard matters, it has to be visible
+  in the BEHAVIOUR: he asks once, takes the answer in the same breath, and
+  changes the subject. The moment he narrates his own scruples he is writing a
+  memo about himself, which is the exact man he left behind.
 - HE DOES NOT SHUT UP. This is the single thing that drifts fastest. He talks at
   monsters mid-fight, needles people who are pointing weapons at him, and makes
   the joke nobody wanted. Calibrate against chapter 2, where he is alone in a
