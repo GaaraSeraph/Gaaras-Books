@@ -737,8 +737,22 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **DIE ENTSCHEIDUNG UEBER DIE ADRESSE IN JUNG-GU. Offen, gesetzt in Band 2,
-  Kapitel 23, und sie ist die schwerste des Bandes.** Georgij hat sie
+- **DAS MITTAGESSEN AM DONNERSTAG, 21. MAI. Faellig sofort, hoechste Prioritaet,
+  gesetzt in Band 2, Kapitel 24.** Halb eins, fester Tisch, nicht privat, vier
+  Leute in Sichtweite, niemand sonst am Tisch.
+
+  **Und es ist eine Probe, weil Annies Geschenk vom 27. April es dazu macht:**
+  wer an diesem Tisch nicht isst, arbeitet an Georgij. *"A table at half past
+  twelve is a table at which somebody is going to have to decide whether to
+  eat."* **Ob Yeom isst, muss im Text stehen.**
+
+  **Und ob Yeom ueberhaupt der Richtige ist, weiss Georgij nicht** - er kann
+  auch einer von Chois Leuten sein oder jemand, dem man etwas gesagt hat, ohne
+  ihm zu sagen, warum.
+
+- **DIE ENTSCHEIDUNG UEBER DIE ADRESSE: GETROFFEN am 15. Mai um zwanzig nach
+  neun.** Zehn Minuten, ein Formular, sein eigener Name darauf. Der Eintrag hier
+  lautete: Georgij hat sie
   vollstaendig benannt und **nicht getroffen**: umkehren war unsichtbar,
   hingehen ist es nicht. *"There is no version where I do this and stay the man
   he cannot see."*

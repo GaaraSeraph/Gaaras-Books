@@ -184,6 +184,14 @@ nachrechnen, und `check.py` tut das automatisch.
   vier ist. **Und der Eigentuemer sitzt seit Januar auf der dritten Etage der
   Adresse in Jung-gu, vor der Georgij im Maerz umgekehrt ist**
   (Band 2, Kapitel 23)
+- Tag 224, Fr 15. Mai, zwanzig nach neun: **die Entscheidung faellt, und sie ist
+  ein Formular.** Registerauszug ueber zehn Gesellschaften in Jung-gu, mit Datum
+  und seinem Namen darauf (Band 2, Kapitel 24)
+- Tag 227, Mo 18. Mai: **die erste der fuenf Haelften wird unterschrieben**,
+  Kwons Teilhaber (Band 2, Kapitel 24)
+- Tag 228, Di 19. Mai, zwanzig vor drei: **Mr Yeom ruft im Haus an und verlangt
+  Georgij mit Namen.** Einladung zum Mittagessen am Donnerstag
+  (Band 2, Kapitel 24)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1242,6 +1250,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und die Meinung ist die Sorte Satz, um die das Buch gebaut ist:** *"Invisibility is a thing you spend. It is not a thing you keep, and a man who keeps it for ever has spent his whole life not being seen and has nothing at the end of it except that."* Dazu die Bilanz: sieben Wochen Unsichtbarkeit haben ihm Nam, Ok, Byun und ein geschlossenes Haus gekauft. **Nicht ihn.**
 
   **Und das zweite Stueck vom Regal, und Annie zaehlt selbst mit:** der Mann, den er sucht, **besitzt an dieser Adresse ebenfalls nichts.** Keine Anteile, an keiner der zehn, nie. *"He is the reason ten companies with no staff are on the third floor of a building in Jung-gu, and there is no document anywhere in this country that says so, and there never will be, and that is what you are proposing to walk towards."*
+
+- **Band 2, Kapitel 24** *Ten minutes on a Friday* (v1.0) - **Tag 224 bis 228, Fr 15. bis Di 19. Mai.**
+
+  **Die schwerste Entscheidung des Bandes faellt, und sie ist Papierkram.** Ein Registerauszug, zehn Minuten, ein Formular und eine Gebuehr, *"done about four thousand times a day by clerks who are thinking about lunch"*. Und: **"He put his own name on it, because there is nobody else's he could have used."**
+
+  **Und genau darin liegt die Einloesung von Kapitel 20.** Niemand im Raum, kein Deckel, keine Abnahme, kein Zimmer, in das er hinterher gehen muss. *"That is what Annie meant on the thirtieth of April and he had not understood the size of it until he was doing it."*
+
+  **Er wartet danach darauf, etwas zu empfinden, und es kommt nichts.** *"It is a form and a fee."*
+
+  **Annies Reaktion ist der zweite Teil derselben Lektion und schlimmer als der erste.** Zwei Fragen, dann **"Good"**, dann arbeitet sie weiter. *"That is the whole of what was said in that house about the largest decision he has made in his life."*
+
+  **Das Wochenende sind die zwei laengsten Tage seit Oktober**, und das Haus reagiert von selbst: Jang sieht ihn ohne Grund in der Diele stehen, sagt nichts, **und eine halbe Stunde spaeter stehen zwei Mann am Tor statt einem, und seither jeden Tag.**
+
+  **Am Montag wird die erste der fuenf Haelften unterschrieben.** Kwons Teilhaber, dreiundsechzig, ein Termin, kein Feilschen, danach sitzt er eine Weile im eigenen Wagen, bevor er ihn startet. **Kwon ruft an und Georgij nimmt nicht ab**, weil es nichts zu sagen gaebe, das nicht entweder unwahr oder unfreundlich waere. Die Kaeuferin ist eine Gesellschaft in Busan mit einer Angestellten, die noch nie etwas gekauft hat.
+
+  **Vier Arbeitstage. Dann klingelt das Telefon.** Mrs Seo kommt selbst herauf, was sie nicht tut: *"I have been answering that telephone for eleven years and nobody has ever asked for you."*
+
+  **Mr Yeom ist der erste Gegner in zwei Baenden, der keine Angst hat**, und der Grund ist, dass er inzwischen fuer sie arbeitet. Er ist vollkommen entspannt und ausdruecklich nicht geistreich, *"which was the unpleasant part."*
+
+  **Georgij nimmt ihm den einzigen Zug ab, den er hat:** *"You are not going to ask me how I know it was you."* - *"No."* - **"Because you have just told me. You said it in the second half of your first sentence and you did not notice, or you did notice and you wanted me to have it. Either way it is the same information."**
+
+  **Und dann dreht Georgij die Frage um**, und das ist der einzige Punkt, an dem Yeom eine halbe Sekunde zu lange braucht: ein Mann, der ein Haus im Dezember verkauft hat und seit fuenf Monaten draussen ist, zaehlt drei Dinge in der richtigen Reihenfolge auf. *"So I would like to know what you want, and I have got a stronger reason for asking than you have."*
+
+  **Die Einladung ist die Falle und Georgij sieht sie sofort.** Am 27. April hat Annie ihm ein Verhaltensmerkmal gegeben statt eines Namens: **er isst nicht vor Leuten, an denen er arbeitet.** Und jetzt hat ihn jemand zum Mittagessen eingeladen. *"A table at half past twelve is a table at which somebody is going to have to decide whether to eat."*
+
+  **Und der Preis des Kapitels steht auf der Treppe:** Yeom weiss, dass er Anfang Mai in dem Gebaeude war, in dem niemand am Empfang stand. Entweder Hwang hat es gesagt - oder jemand hat das Besucherbuch aus der Kiste geholt und **zwei Zeilen in Georgijs eigener Handschrift gelesen, Uhrzeit hinein und Uhrzeit hinaus.** *"He wrote both of them himself, at a desk nobody was standing at. It seemed to him at the time that a man who signs a book when somebody is watching should sign it when nobody is."*
+
+  **Annies Schluss stellt den Donnerstag scharf:** *"I want you to hear me say that I think you were right, because I am not going to be able to say it again after Thursday."* Und der Grund: entweder er hat den Boden gefunden, **oder jemand hat sich ihm gegenuebergesetzt und nicht gegessen** - *"and after that neither of us is going to have the luxury of an opinion about anything."*
 
 ---
 
