@@ -386,6 +386,31 @@ richtige Ort dafuer. *Vorschlag, noch nicht entschieden.*
 Der Saal. Leute, die etwas gegeben oder etwas gesehen haben, ohne auf einer
 Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 
+### Auf der Spur aus Ulsan
+
+**Mr Kwon** - Neun Lastwagen, keine Schulden, ein Hof mit einer richtig
+gegossenen Betonschuerze. **Erster Auftritt Band 2, Kapitel 14.** Vier von fuenf
+Mitgliedern des Verbands wuerden ihm in einen Raum folgen, und das ist Jangs
+eigentlicher Fund - **nicht wen sie moegen, sondern wen sie zuerst ansehen,
+wenn jemand eine Frage stellt, die niemand beantworten will.**
+
+**Sein Druckpunkt ist kein Druckpunkt, sondern ein Ausgang.** Sein Teilhaber,
+dreiundsechzig, will seit dem Tod seiner Frau heraus und kann nicht, weil es an
+der Kueste niemanden gibt, der die Haelfte kauft. Sieben Jahre Papier machen die
+Haelfte verkaeuflich. **Georgij bietet ihm das nicht an. Kwon rechnet es sich
+selbst aus, am Fenster, mit dem Ruecken zum Raum.**
+
+**Er ist die erste Figur im Buch, die Georgij ins Gesicht sagt, was er ist:**
+*"You are a very unpleasant man."* - **"Today, yes."** Und am Ende, ohne es zu
+planen, die Frage, die keiner sonst gestellt hat: *"I said you were an unpleasant
+man and you said today. Was that true."* - **"No. I have been this for about
+three weeks and I do not know yet whether it goes away."**
+
+**Und er hat die Klausel gelesen**, zum ersten Mal in zwanzig Jahren, freitags
+am eigenen Schreibtisch bei geschlossener Tuer.
+
+---
+
 ### Im Haus am Fluss
 
 **Mrs Jeon** - Anfang fuenfzig, seit dreiundzwanzig Jahren im Settlement des

@@ -20,7 +20,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 138 | 25 (b1ch07-b2ch13) | 1 | 74 |
+| Chairman Woo | 142 | 26 (b1ch07-b2ch14) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
 | Jang | 75 | 18 (b1ch05-b2ch13) | 3 | 60 |
 | Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
@@ -29,10 +29,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mr Ku | 19 | 13 (b1ch05-b2ch14) | 3 | 60 |
 | Mrs Sunwoo | 19 | 7 (b1ch07-b2ch12) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
-| Nam Byung-hee | 14 | 4 (b2ch03-b2ch13) | 1 | 56 |
+| Mr Kwon | 16 | 1 (b2ch14) | 4 | 4 |
+| Nam Byung-hee | 15 | 5 (b2ch03-b2ch14) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -829,7 +830,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-138 Nennungen in 25 Kapiteln.
+142 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -971,6 +972,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch13:210 | "At a lunch. Six of us, one of those things the port authority does in the new year." Wo.. |
 | 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
 | 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
+| 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
+| 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check." He did not soften i.. |
+| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
+| 4 | b2ch14:238 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1052,6 +1057,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:184` (Tag 9) - seven
 - `b2ch13:210` (Tag 9) - one, six
 - `b2ch13:234` (Tag 9) - fifteen, five
+- `b2ch14:32` (Tag 4) - five, four, one, seven, six
+- `b2ch14:100` (Tag 4) - five, seven
+- `b2ch14:238` (Tag 4) - five, six, three
 
 ---
 
@@ -1735,6 +1743,47 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Ku
+
+19 Nennungen in 13 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:200 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:204 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:218 | "No," said Mr Ku. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch09:302` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:200` (Tag 4) - one
+- `b2ch14:204` (Tag 4) - forty
+
+---
+
 ## Mrs Sunwoo
 
 19 Nennungen in 7 Kapiteln.
@@ -1815,45 +1864,43 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Ku
+## Mr Kwon
 
-16 Nennungen in 12 Kapiteln.
+16 Nennungen in 1 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:6 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
+| 4 | b2ch14:20 | Mr Kwon looked at him for a moment. |
+| 4 | b2ch14:42 | Mr Kwon did not say anything for about eight seconds. |
+| 4 | b2ch14:58 | Mr Kwon put both forearms on the desk. |
+| 4 | b2ch14:84 | Mr Kwon sat back. |
+| 4 | b2ch14:104 | Mr Kwon looked at him for a long moment. |
+| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
+| 4 | b2ch14:122 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
+| 4 | b2ch14:126 | "He says the rate is real," said Mr Kwon, putting it down. |
+| 4 | b2ch14:136 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
+| 4 | b2ch14:152 | "You have not offered me anything," said Mr Kwon after a while. |
+| 4 | b2ch14:162 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
+| 4 | b2ch14:178 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
+| 4 | b2ch14:188 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
+| 4 | b2ch14:194 | There it was, and Mr Kwon had built it well and had probably not meant to. |
+| 4 | b2ch14:272 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
 
-### Zahlen in der Naehe von Mr Ku
+### Zahlen in der Naehe von Mr Kwon
 
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:302` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:6` (Tag 4) - nine
+- `b2ch14:42` (Tag 4) - eight
+- `b2ch14:122` (Tag 4) - one
+- `b2ch14:136` (Tag 4) - eleven, nine
+- `b2ch14:178` (Tag 4) - one
+- `b2ch14:272` (Tag 4) - nine
 
 ---
 
 ## Nam Byung-hee
 
-14 Nennungen in 4 Kapiteln.
+15 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1871,6 +1918,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
 | 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
 | 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
+| 4 | b2ch14:246 | By the Saturday two of them had telephoned Nam Byung-hee. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -1881,6 +1929,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:240` (Tag 1) - nine
 - `b2ch13:24` (Tag 9) - four, one
 - `b2ch13:32` (Tag 9) - five, four, nine
+- `b2ch14:246` (Tag 4) - two
 
 ---
 

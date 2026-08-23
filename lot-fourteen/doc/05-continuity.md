@@ -133,6 +133,12 @@ nachrechnen, und `check.py` tut das automatisch.
   etwas - und baut es so, dass es Woo nichts kostet, **damit die Schuld stehen
   bleibt.** Woo macht daraus sieben Jahre. Und gibt ungefragt den Januar-Fund
   her (Band 2, Kapitel 13)
+- Tag 193, Di 14. April: **Mr Kwon.** Ein wahrer Satz ueber sieben Jahre, dann
+  **"Ask her."** Und Mr Ku sagt zum ersten Mal seit Oktober etwas
+  (Band 2, Kapitel 14)
+- Tag 195 bis 200, Do 16. bis Di 21. April: der Anwalt schreibt an fuenf, drei
+  lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit.**
+  Kwon beantragt schriftlich eine Mitgliederversammlung (Band 2, Kapitel 14)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -890,6 +896,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und daraus der Schluss auf der Bruecke, der den Band vergroessert:** im Januar war auf der Spur noch nichts. Niemand war verletzt, niemand hatte sich beschwert. **Also suchte er nicht jemanden, dem etwas angetan worden war, sondern die Person, der es gleich angetan werden wuerde** - und dafuer musste er in der ersten Januarwoche wissen, was im Dezember in einem Zimmer in Seoul unterschrieben worden war, **und zwar binnen vierzehn Tagen nach der Unterschrift.**
 
   Letzte Zeile: **"That is a very short list as well."**
+
+- **Band 2, Kapitel 14** *Ask her* (v1.0) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
+
+  **Das Verfahren ist Mrs Sunwoo, auf einen Mann mit neun Lastwagen angewendet:** ein wahrer Satz, dann aufhoeren. Sieben Jahre Ankerpapier, **fuenf Firmen und nicht sechs**, einer nach dem anderen, und der Erste setzt den Satz fuer die uebrigen vier. Aus dem Satz gestrichen hat er auf dem Sonntag das Wort *opportunity*.
+
+  **Auf die Frage nach dem Warum sagt er, was er tut, und nicht, was geschehen wird:** *"Because I am not going to bring him the sixth one. ... I am telling you what I am going to do and not what is going to happen to her, because I do not know the second thing and I would be guessing."*
+
+  **Und dann der ganze Zug des Kapitels, in zwei Woertern: "Ask her."** Er sagt kein Wort gegen sie und weist ausdruecklich darauf hin. **Ihre Ehrlichkeit ist die Waffe, und er muss sie nicht einmal beruehren:** *"She will tell you the truth, because she does not lie, and you have known that about her for twenty years and it is the only reason this is going to work."*
+
+  **Kwon stellt am Wagen die Frage, die die Sache aufraeumt:** *"You said ask her. You did not say what to ask her about."* - *"No."* - **"Because if you had, it would be your question."** - *"Yes."*
+
+  **Der Anruf bei Woo ist die Probe und Georgij sitzt dabei.** Woo bestaetigt die Jahre zweimal und ueber Georgij gar nichts: *"I am not going to tell you any more than that."* Und danach, nach etwas Unhoerbarem: **"I would not believe me either."**
+
+  **Was Georgij dabei ueber sich sagt, ist die vollstaendige Wahrheit und hilft nicht:** kein Titel, keine Firma, kein Gehalt, kein Konto. *"There is no piece of paper anywhere in this country with my name on it and a position underneath it."* - **"That is not an answer."** - *"It is the whole of the answer. There is nothing about me to check."*
+
+  **Die Frage, die niemand sonst gestellt hat, und sie steht am Ende:** *"I said you were an unpleasant man and you said today. Was that true."* - **"No. I have been this for about three weeks and I do not know yet whether it goes away."**
+
+  **Und Mr Ku sagt zum ersten Mal seit Oktober etwas**, und es ist kein Vorwurf und keine Frage: der Bruder seiner Frau fuhr zwoelf Jahre fuer eine Firma mit einem Hof wie diesem, *"then it was a different firm and the yard was the same and he was not there any more."* - **"Is that a question."** - *"No."*
+
+  **Und das Neue an dieser Woche:** er berichtet nichts. Der Deckel ist seit elf Tagen ab. *"This is the first week since October in which he has done a week's work and said nothing at all about it to anybody. It turns out to be quieter than he had expected, and not in the way he had expected."*
+
+  **Die Maschine laeuft am Ende ohne ihn.** Woos Anwalt schreibt an alle fuenf am selben Tag dieselben drei Fragen, und die dritte ist die, die jeder Anwalt stellt und ueber die niemand nachdenkt: **wer ist berechtigt, fuer Sie zu zeichnen, und hat das in den letzten sechs Monaten jemand getan.** Drei lesen die Satzung, zwei rufen Nam an, **sie sagt beide Male die Wahrheit** - Georgij weiss nicht, was sie gesagt hat, und hat nicht versucht, es herauszufinden.
+
+  **Der Beobachter meldet nichts, was der Befund ist**, und dazu eine Zeile, um die niemand gebeten hat: am Samstagabend brannte das Licht ueber der Waage bis halb elf, und irgendwann kam sie heraus und sah eine Weile vier Lastwagen an.
 
 ---
 

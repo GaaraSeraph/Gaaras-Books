@@ -189,6 +189,7 @@ FIGURES = {
     "Shin": [r"\bShin\b"],
     "Mrs Jeon": [r"Mrs Jeon", r"\bJeon\b"],
     "Mr Hwang": [r"Mr Hwang", r"Hwang"],
+    "Mr Kwon": [r"Mr Kwon", r"Kwon"],
     "Mrs Ryu": [r"\bRyu\b"],
     "Chef Bang": [r"\bBang\b"],
 }
