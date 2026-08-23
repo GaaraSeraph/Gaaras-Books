@@ -383,7 +383,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:144 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
 | 51 | b2ch01:216 | Annie came back from Yeouido at ten past eight. |
 | 51 | b2ch01:220 | "You have read it," said Annie. |
-| 51 | b2ch01:248 | Annie did not say anything for a while and did not look at the table. |
+| 51 | b2ch01:248 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
 | 51 | b2ch01:258 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie

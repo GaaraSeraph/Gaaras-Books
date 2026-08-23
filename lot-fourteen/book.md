@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 35 Kapitel, 103.329 Woerter.
+2 Baende, 35 Kapitel, 103.324 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 1 | 32 | v1.2 | 2.579 |
 | 1 | 33 | v1.11 | 3.335 |
 | 1 | 34 | v1.8 | 4.293 |
-| 2 | 01 | v1.0 | 2.204 |
+| 2 | 01 | v1.1 | 2.199 |
 
 ---
 
@@ -11200,7 +11200,7 @@ And for the first time since the ninth of January he was doing the only thing in
 ---
 
 # Book Two · Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
@@ -11254,7 +11254,7 @@ Annie put down the page she was holding and did not turn it face down.
 
 Georgij had his hands at his sides.
 
-"On the twenty-third of January a renewal in Jung-gu came up against a date and you were in Yeouido until nine. Mr Chae's office sent two pages and a man on a scooter. I put a name on them and it took four minutes."
+"On the twenty-third of January a renewal in Jung-gu came up against a date and you were in Yeouido until nine. Two pages came up the drive on a scooter. I put a name on them and it took four minutes."
 
 "That is what it turned out to be for."
 
@@ -11282,7 +11282,7 @@ Annie turned her chair a few degrees, so that she was facing him and not the des
 
 "He did."
 
-"He was right about the size of it, and he does not know what you wanted it for." Her hands were still on the arms of the chair. "I do. So do you. Only one of us has said it out loud, and it was not either of us."
+"He was right about the size of it, and he does not know what you wanted it for." Her hands were still on the arms of the chair. "I do. So do you. Neither of us has said it out loud, and one of us is about to."
 
 ---
 
@@ -11296,7 +11296,7 @@ Georgij did not have anywhere to put his hands and put them behind his back.
 
 ---
 
-The gate was shut and the drive was empty and somewhere below them a door went and somebody carried something along a passage.
+Her coat was still over the back of the chair.
 
 "There is a set of papers your compliance people tidied up in the second week of October," said Georgij. "My name is on them. Yours is not."
 
@@ -11326,7 +11326,7 @@ At the door she stopped, which she had not done then.
 
 Georgij stayed where he was for a moment after she had gone.
 
-On the second of January he had come off the stairs with a reason inside ten minutes, and he had been satisfied with it for about a week, and it had been wrong for ten.
+On the second of January he had come off the stairs with a reason inside ten minutes, and he had been satisfied with it for about a week, and it had been wrong for ten of them.
 
 This morning he had nothing at all. That is not the same thing as having nothing to do, and he had spent the winter learning the difference.
 
@@ -11348,7 +11348,7 @@ It was the same size and the same weight. The paper was better.
 
 ---
 
-They used to renumber every month, so a number meant nothing at all. He had worked that out in October in the time it takes to go down one page, and knowing that a number means nothing is the kind of thing a man keeps.
+The house used to renumber every month, so a number meant nothing at all. He had worked that out in October in the time it takes to go down one page, and knowing that a number means nothing is the kind of thing a man keeps.
 
 The numbers had stopped meaning nothing.
 
@@ -11392,15 +11392,15 @@ Four in four years. Two of them were hers.
 
 ---
 
-Under the list there was a short paragraph about the keeping of records, and under the paragraph a name and a title.
+Under the list there was a short paragraph about the keeping of records, and at the bottom of the page a name and a title.
 
 He read the paragraph twice, which he had not needed to do with anything else in that book.
 
-It was four sentences long and every one of them was about method. References are permanent. Entries are retained. The practice is reviewed once a year and the review is minuted.
+It was four sentences long and every one of them was about method. References are permanent. Entries are retained. The practice is reviewed once a year and the review is minuted. Prior seasons have been brought into the same series.
 
 Nowhere in the four sentences was there a word about what the references were references to.
 
-His chin did what it does at a piece of work that is better than it needs to be. There was nobody in that room to see it, and the piece of work was a paragraph about filing.
+His chin did what it does in front of work that is better than it has to be. There was nobody in the room to see it, and the work was a paragraph about filing.
 
 ---
 
@@ -11408,7 +11408,7 @@ Georgij put the book down and squared it to the edge of the desk.
 
 Then he stood in that room and did the arithmetic he had been putting off since the foot of the first page.
 
-A reference that is never reissued cannot be taken back. A gap in that list is a gap for as long as the list exists, and every gap carries a season beside it, and the list goes out in a flat parcel to everybody who buys.
+A reference that is never reissued cannot be taken back. A gap in that list is a gap for as long as the list exists. Every gap carries a season beside it. The list goes out in a flat parcel to everybody who buys.
 
 The line was struck on the nineteenth of February. The striking of it is now the most durable thing about it.
 
@@ -11436,19 +11436,19 @@ She took her coat off, put it over the back of the chair, and sat down in the ch
 
 ---
 
-Georgij stayed on the far side of the low table.
+Georgij stayed on the far side of the desk.
 
 "You paid to have a line struck out of a book, and the book has begun printing a list of the lines that have been struck out of it."
 
 "Yes."
 
-"Then it is worth more this morning than it was in October." He did not make it any kinder than it was. "Whoever holds that book holds the name of every person in this country who has ever paid to make a line go away. There are four lines. I am one of them."
+"Then it is worth more tonight than it was in October." His hands were at his sides again. "Whoever owns that book has the name of every person in this country who has ever paid to make a line go away. There are four lines. I am one of them."
 
 ---
 
-Annie did not say anything for a while and did not look at the table.
+Annie looked at the window and not at the desk, and for a while she did not say anything at all.
 
-"Under the list there is a name," said Georgij.
+"There is a name at the bottom of that page," said Georgij.
 
 "There is."
 
@@ -11462,7 +11462,7 @@ Annie put her hand flat on the arm of the chair.
 
 ---
 
-He asked her about the haulier in Gimpo. It was four lines on a sheet she had turned face down in January without a word, and it was two months stale now, and worth about half of what it had been worth then.
+He asked her about the haulier in Gimpo. It was four lines on a sheet she had turned face down in January without a word, and it was two months stale now, and worth about half of what it had been.
 
 She answered him for twenty minutes, in detail, and sent him to find out two things he could only find out by going and looking at somebody.
 

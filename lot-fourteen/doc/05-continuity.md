@@ -414,7 +414,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.0) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.1) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
   **Der Einfall:** Zwei Dinge sind um dieselbe Mitternacht gestorben und ziehen in verschiedene Richtungen. Annies Sperre vom 2. Januar (*"nothing for you between now and March"*) ist abgelaufen, er darf also wieder arbeiten. Die Vollmacht ist abgelaufen, er kann also nichts mehr zeichnen. *"So he was permitted to work and had nothing to work with."*
 

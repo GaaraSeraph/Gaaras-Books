@@ -191,12 +191,64 @@ Leute weitergibt.
 Die schwarze Karte: Donnerstag, Shilla, neun Uhr.
 *Vorschlag.*
 
-**Choi Dae-ho** - Der Fixer, die Brücke. **Erster Auftritt als Name in Kapitel 7**, aus Hongs Mund, an dritter Stelle und damit an der Stelle, an der man den lässt, den man wirklich meint. **Er ist nicht auf der Gala** und war in neunzehn Jahren nie dort. Hong dazu: Er sitzt in nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden und damit für einen Mann, der liest, nutzlos. Er gibt Abendessen.
+**Choi Dae-ho** - Der Fixer, die Bruecke. **Und ab Band 2 der Gegner dahinter,
+weil er Georgijs Spiegel ist.** Ueber Georgij steht in `doc/07-next.md`: *"Er
+arrangiert, und er erscheint nicht, wo Erscheinen mehr kostet als es einbringt."*
+Ueber Choi steht hier: Er sitzt in nichts, steht auf keinem Aufsichtsrat, ist in
+keinem Geschaeftsbericht zu finden - **er gibt Abendessen.** Dieselbe Figur, eine
+Ebene hoeher und zwanzig Jahre frueher angefangen.
+
+**Die Enthuellung am Bandende ist deshalb nicht "Choi hat es gesteuert".** Sie
+ist: **Choi hat nie einen Auftrag erteilt. Er hat zwei Leute bekannt gemacht, die
+je eine Haelfte einer Waffe hatten** - einen stolzen Aktenmenschen und eine
+ertrinkende Frau. Er behauptet nie etwas, also ist er nie widerlegbar, und
+Georgijs Verfahren findet ihn nicht, weil es nach Aussagen sucht.
+
+**Annie haelt den Namen zurueck**, wie den des Garanten und wie Los elf. Ihre
+Begruendung steht schon im Titel von Kapitel 12: *"You are better when you don't
+know."* Und sie ist dort ausformuliert - *"you will get it exactly right, and
+getting it exactly right is the one thing that would tell him what you are."*
+**Vor einem Mann, der Arrangements liest, ist korrektes Verhalten die
+Unterschrift.** In Band 2, Kapitel 1 faengt es an: auf *"Did you meet him?"*
+sagt sie *"Ask me something else."*
+ **Erster Auftritt als Name in Kapitel 7**, aus Hongs Mund, an dritter Stelle und damit an der Stelle, an der man den lässt, den man wirklich meint. **Er ist nicht auf der Gala** und war in neunzehn Jahren nie dort. Hong dazu: Er sitzt in nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden und damit für einen Mann, der liest, nutzlos. Er gibt Abendessen.
 
 **Der eigentliche Punkt ist Georgijs Methode.** Choi steht auf keiner seiner Listen, und das beweist nichts, weil seine vierhundertdreißig Namen aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung stammen. Das ist keine Liste der Anwesenden, sondern eine Liste derer, die beim Hineingehen eine Spur hinterlassen haben. Wer selbst fährt, an keinem Tisch sitzt und nichts trinkt, kommt darin nicht vor. Nach vierzehn Minuten im Gebäude bekommt Georgij in einem Satz und aus Versehen die genaue Form dessen geliefert, was sein Instrument nicht sehen kann. Ehemaliger Staatsanwalt, vorzeitig und unter unklaren Umständen im Ruhestand, jetzt Direktor einer Private-Equity-Firma in Hongkong über eine Anwaltskette in Singapur. Kein Financier. Hat in sechs Monaten mehrere private Abendessen gegeben, bei denen jedes Mal entweder ein Lee oder ein Mann aus Sang-hoons Logistik am Tisch saß. Verbindet Min-hos Büro mit Sang-hoons Betrieb, und zwar persönlich, nicht nur finanziell.
 *Vorschlag.*
 
 ---
+
+---
+
+**Der Sanierer** - **Gegner in Band 2, und sein erster Auftritt ist eine
+Unterschrift unter einer Vorschrift ueber Aktenfuehrung** (Band 2, Kapitel 1).
+Jemand hat das Auktionshaus uebernommen und macht daraus ein ordentlich
+gefuehrtes Geschaeft: feste Referenzen, aufbewahrte Eintraege, ein jaehrlich
+minutierter Review. **Er ist kein Verbrecher und tut nichts als seine Arbeit.**
+Genau das ist die Waffe: ein schmutziges Buch liess sich fuer Geld korrigieren,
+ein sauberes nicht, und die alte Streichung wird darin zur dauerhaften Luecke.
+**Koreaner, war lange ausserhalb, weil er dort andere Auftraege hatte und sie
+hervorragend erfuellt hat.** Kein Exilant, keine Kraenkung, kein Motiv - ein Mann
+mit Referenzen. Gegen einen Groll kann man arbeiten, gegen Koennen nicht.
+**Sein Name steht im Text noch nicht**, nur *"a name and a title"* am Fuss der
+Seite, und Georgij hat ihn gelesen. Annie kennt ihn und sagt ihn nicht.
+*Vorschlag, Stand Band 2 Kapitel 1.*
+
+**Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
+der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes
+hereinkommt und **sonst nichts hat**. Annies Vetorecht ueber Routen erdrosselt
+sie seit Januar. Wer nur eine Lane hat, macht keine Triage, sondern
+Verzweiflung - **der genaue Gegenentwurf zu Sang-hoon, der Information nie
+ausgibt.** Sie gibt alles am Tag aus, an dem sie es bekommt, und deshalb ist
+nichts, was sie erfaehrt, zurueckkaufbar. **Und sie luegt**, weil sie ertrinkt.
+*Vorschlag, noch nicht im Text.*
+
+**Die Regel zur Wahrheit in Band 2**, und sie ersetzt die Symmetrie aus Band 1:
+**Luegen ist Aufwand, und wer sich seines Sieges sicher ist, treibt keinen.**
+Choi luegt nie, weil er sich nie unsicher ist. Der Sanierer luegt nicht mehr, ab
+dem Punkt, an dem sein Buch vollstaendig ist. Nam Byung-hee luegt. Damit hat
+Georgij drei Gegner mit drei verschiedenen Verhaeltnissen zur Wahrheit und muss
+bei jedem einzeln herausfinden, welches gerade gilt.
 
 ---
 

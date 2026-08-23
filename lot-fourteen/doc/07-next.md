@@ -18,10 +18,18 @@ Bezahlung fuer den Schock geben lassen, nicht als Vertrauensbeweis, und Mr Chae
 erfaehrt den Grund nicht.
 
 **Was daran zu beachten ist:** Der Satz *"I have nothing to sign with"* aus
-Kapitel 19 gilt ab Dezember nicht mehr und darf nicht mehr fallen. Bei Hanas
-Abend am 16. Dezember kann Georgij selbst zeichnen, solange die Gegenpartei
-benannt ist. Wer das vergisst, schreibt eine Szene, in der er aus einem Raum
-telefonieren muss, obwohl er es nicht mehr muesste.
+Kapitel 19 gilt **von Dezember bis zum 1. Maerz** nicht und darf in dieser Zeit
+nicht fallen. Bei Hanas Abend am 16. Dezember kann Georgij selbst zeichnen,
+solange die Gegenpartei benannt ist. Wer das vergisst, schreibt eine Szene, in
+der er aus einem Raum telefonieren muss, obwohl er es nicht mehr muesste.
+
+**Und ab Tag 150 gilt er wieder, und das Verbot ist mit dem Instrument
+abgelaufen.** Hier stand bis zum 23.08. "ab Dezember nicht mehr" ohne Enddatum,
+also eine Sperre ohne Verfall fuer einen Satz, der von einem Papier mit
+Verfallsdatum abhing. **Er faellt in Band 2, Kapitel 1**, und zwar aus Annies
+Mund, die ihm seinen eigenen Satz vom 20. November zurueckgibt - und die zweite
+Haelfte davon nimmt: *"There is no arrangement."* Die erste Haelfte stimmt
+wieder, die zweite nie mehr.
 
 **Und Georgij weiss ihren Namen.** Vier Silben, auf Koreanisch, seit Kapitel 24.
 Er hat ihn nicht ausgesprochen, weder in der Nacht noch danach, und der Text hat
