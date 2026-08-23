@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.841 Woerter.
+34 Kapitel. 100.529 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -42,7 +42,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.10 | 3.335 |
-| 34 | v1.2 | 3.009 |
+| 34 | v1.3 | 3.697 |
 
 ---
 
@@ -10660,7 +10660,47 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
+
+## Day Ninety-One · Friday 2 January
+
+On the second she was in the small room at eight with her coat over the back of the chair, an hour before the car, and she had not sent for anybody. She was there when he came past.
+
+"There is nothing for you between now and March," said Annie. "I am not asking whether you have found something. You have. You always have." She put the cup down without having drunk out of it. "You will not open anything new. You will not go and look at anybody. If this house is telephoned and the caller wants you, you will take it, give them nothing, and tell me who it was."
+
+---
+
+"Does that include what is already open."
+
+"It includes going and looking."
+
+"Yes, Mistress."
+
+---
+
+Annie took her coat off the back of the chair and did not put it on.
+
+"You have not asked me why."
+
+"No."
+
+She went out past him with the coat over her arm and did not stop on the way, and that was the whole of it.
+
+---
+
+He worked out the reason on the stairs, ten minutes later, and the reason he arrived at was a good one.
+
+The structure was eleven days old. Money was going to move through it in three pieces before the end of the month. A man who goes and turns something over in January is a man who might turn over the wrong thing in the one quarter in which nothing is allowed to move that was not already on a schedule.
+
+That was competent. It was the sort of thing she would do. He was satisfied with it for about a week.
+
+---
+
+In November he had been wrong about this woman twice in four days, on facts he was holding at the time.
+
+This one took ten weeks.
+
+---
 
 ## Day One Hundred and Forty-Five · Wednesday 25 February
 
@@ -10668,7 +10708,7 @@ The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong o
 
 Georgij heard about it four days later from Jang, who had it from a man on the gate.
 
-That was the shape of the whole winter. Things happened, and they happened correctly, and nobody needed to tell him.
+That was the shape of the whole winter. Things happened, they happened correctly, and nobody needed to tell him.
 
 ---
 
@@ -10682,9 +10722,41 @@ The lease held. The rent was fixed. The buildings were named.
 
 ---
 
-He had nothing to do.
+Twice he brought her something anyway.
 
-Not an empty afternoon. He walked the house at night the way he had walked it on the fourth of October, and the glass was the glass and the garage door was the garage door. Jang's night man went along the east side twice between midnight and four and had been doing it since the week of the gala.
+The first was four lines about a haulier in Gimpo who was three weeks from losing a contract the Kims could have had for nothing. He put it in front of her as a note on a thing already open, which was true and was not the point, and both of them knew which of the two it was.
+
+Annie read it. She turned it face down on the desk, went on with what she had been doing, and did not say one word about it then or afterwards.
+
+---
+
+The second time was the middle of February, and he did not reach the end of the first sentence.
+
+"No," said Annie.
+
+Georgij closed his mouth and left it closed.
+
+"No," she said again, and she was not unkind about it, and that was the part he could not get past.
+
+---
+
+Unkindness he had eleven houses of. He had no procedure at all for a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past.
+
+She did that twice, and both times she went straight on to whatever she had been going to.
+
+---
+
+The instrument was used once.
+
+On the twenty-third of January a renewal at the corporate services firm in Jung-gu came up against a date. Annie was in Yeouido until nine, and Georgij was the only person in that house entitled to put a name on it. Mr Chae's office sent two pages and a man on a scooter.
+
+The signature came out the same as it had come out in December. He had one now, and this was the thing it turned out to be for. He gave the pages back and the man on the scooter went away, and the whole of it took four minutes.
+
+That was the whole of what he ever did with it.
+
+---
+
+He walked the house at night the way he had walked it on the fourth of October, and the glass was the glass and the garage door was the garage door. Jang's night man went along the east side twice between midnight and four and had been doing it since the week of the gala.
 
 Georgij went and put his hand on the east latch anyway, at half past one on the Wednesday, between the two of them.
 
@@ -10704,11 +10776,9 @@ By the middle of February there was nothing to add, and there had been nothing t
 
 Annie worked.
 
-She was up before six and in Yeouido four days out of seven, and there were people in the small room until nine at night who had never been in that house before Christmas. She was doing the thing the whole autumn had been for, and she was doing it very well, and none of it came through him.
+She was up before six and in Yeouido four days out of seven, and there were people in the small room until nine at night who had never been in that house before Christmas. She was doing the thing the whole autumn had been for, and she was doing it very well, and every part of it had been taken out of his hands in one sentence on a Friday morning.
 
 He carried her coat twice a day and stood in rooms where nobody asked him anything.
-
-Twice in eight weeks she put her hand on the back of his neck on the way past, in a hall with nobody else in it. Both times she went straight on to whatever she had been going to.
 
 ---
 
@@ -10752,11 +10822,11 @@ Mr Chae read both pages against his own and dated a line at the foot of each.
 
 ---
 
-"Nothing was executed under it."
+"One instrument executed under it."
 
-"Nothing was executed under it," said Georgij. "Three counterparties, three months, and the ceiling was never touched."
+"One," said Georgij. "A renewal in Jung-gu, on the twenty-third of January, because she was in Yeouido until nine and I was the only person in the building. Three counterparties, three months, and the ceiling was never anywhere near."
 
-"I know. I am obliged to put the question anyway."
+"That is what it was for." Mr Chae closed the case and did not open it again. "In December I told you the instrument was smaller than you thought it was. I have never been that exactly right about one before and I did not enjoy it."
 
 ---
 
@@ -10888,7 +10958,7 @@ Annie let the sheet lie where he had put it.
 
 ---
 
-"Yes, Mistress."
+Georgij did not thank her for it. It is his small change and he spends it on lamps and coats, and she would have heard it land.
 
 "And there is the other half, and you know what it is, because you were standing on the bridge when I said it."
 
