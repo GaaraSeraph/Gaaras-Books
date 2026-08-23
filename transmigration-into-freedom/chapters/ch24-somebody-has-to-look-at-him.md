@@ -24,6 +24,10 @@ They were in Frida's yard with the light not properly up. Sivert was sitting on 
 
 "You may stand there," said Ylva. "You are very good at standing there. You did it for an hour in the roll house and the woman wrote your name down."
 
+Gaara went past Sivert on the way to the gate and took a handful of him on the way, without breaking off what he was saying, which was about the roll house.
+
+"And she has a very good hand," he went on. "Twenty years and not tired."
+
 "Signe liked me."
 
 "Signe took two coins off you and told you where to sit."

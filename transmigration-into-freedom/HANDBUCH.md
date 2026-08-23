@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 25 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 57.543 Woerter.
+Alle 4 Dokumente am Stueck. 58.033 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -734,6 +734,24 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== He gropes the people he is sleeping with, in passing ===
+Author. Filed as a PHYSICAL register rather than a preference, because that is
+what makes it work: it is never the event. It happens mid-sentence, while he is
+talking about something else, usually while working, and the dialogue does not
+acknowledge it at all. Hand on an arse in a doorway, palm on a back, a grip on a
+hip to move somebody that lasts a second longer than moving them needed.
+IT DOES A JOB BEYOND ITSELF: it is the standing physical sign of who is on the
+list, so the reader always knows without anybody announcing anything, and the
+moment somebody new gets touched in passing, that is the announcement.
+TWO GUARDRAILS WRITTEN IN. Not while he is giving an order that cannot be
+refused - that is the ch16 asymmetry rule doing its job again, and underground
+with him calling numbers is exactly where it is banned. And it is always
+answered or swatted, never simply received, because the alternative is a man
+handling people who are scenery.
+DOSE IS CAPPED at once or twice a chapter and never the same way twice. A tic
+used four times stops being character and becomes something the reader counts.
 
 
 === He leaves something in the Wold that earns without him ===
@@ -2559,6 +2577,27 @@ is not guesswork, because a person in the dark cannot help answering.
 - HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
   man who runs every room by talking goes quiet and lets somebody else set the
   pace, and it lands hard enough that he notes it for later thought.
+- HE PUTS HIS HANDS ON PEOPLE IN PASSING (author). Anybody he has slept with, or
+  is plainly about to, gets touched IN THE ORDINARY COURSE OF THE DAY: a hand on
+  an arse going past in a doorway, a palm flat on a back, a grip on a hip to move
+  somebody out of the way that takes a second longer than moving them required.
+  IT IS NEVER THE EVENT AND NEVER STOPS THE SCENE. It happens mid-sentence, while
+  he is talking about something else entirely, usually while working, and the
+  dialogue does not acknowledge it. That is the whole register: the hand is
+  incidental and the lime mortar is the subject.
+  WHO. Currently Marit, Sivert, and Runa if she ever answers. It is the standing
+  physical sign of that list, so it also QUIETLY TELLS THE READER WHO IS ON IT
+  without anybody announcing anything.
+  WHERE IT IS NOT ALLOWED, and this matters: not while he is giving somebody an
+  order they cannot refuse, and not in front of people who work for him in a way
+  that makes it a display. In a street, a yard, a doorway, a forge, fine. On a
+  bar, underground, with him calling the numbers, no.
+  AND IT GETS ANSWERED IN KIND OR SWATTED, never simply received. Marit swats.
+  Sivert goes red and says nothing, which is his entire vocabulary. Ylva, who is
+  not on the list, is the one who comments on it happening to other people.
+  DOSE: once or twice a chapter at most, and NEVER TWICE THE SAME WAY. It is a
+  tic, and a tic used four times is a verbal habit the reader starts counting.
+
 - HE STAYS AFTERWARDS, AND IT COSTS HIM NOTHING AND MEANS EVERYTHING. Blanket
   over, arm across, no getting up, no leaving. Both partners so far have braced
   for being got rid of and neither of them has said a word about not being.

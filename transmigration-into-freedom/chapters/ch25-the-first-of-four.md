@@ -44,6 +44,16 @@ Ylva knew what to take and nobody else did. She went along a street front with a
 
 Gaara carried. That was his entire contribution for the first half of the morning and he was aware of it and did not mind, which was new.
 
+He got a hand on Sivert in a doorway, going one way with a bracket while Sivert came the other way with two, and did not stop talking about the bracket.
+
+"Somebody cut that to a line," he said. "There is a line on it. Ylva, there is a line on this."
+
+"There is a line on all of them," said Ylva, from up the street. "Take your hands off him and bring me the bracket."
+
+"He is nineteen and he is enormous and I have been extremely restrained."
+
+"Bring me the bracket."
+
 "Strap hinge," said Ylva, at a door frame. "Both. Do not cut the pin, drive it."
 
 "That is a nail."

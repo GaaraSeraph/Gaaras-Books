@@ -3,6 +3,24 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== He gropes the people he is sleeping with, in passing ===
+Author. Filed as a PHYSICAL register rather than a preference, because that is
+what makes it work: it is never the event. It happens mid-sentence, while he is
+talking about something else, usually while working, and the dialogue does not
+acknowledge it at all. Hand on an arse in a doorway, palm on a back, a grip on a
+hip to move somebody that lasts a second longer than moving them needed.
+IT DOES A JOB BEYOND ITSELF: it is the standing physical sign of who is on the
+list, so the reader always knows without anybody announcing anything, and the
+moment somebody new gets touched in passing, that is the announcement.
+TWO GUARDRAILS WRITTEN IN. Not while he is giving an order that cannot be
+refused - that is the ch16 asymmetry rule doing its job again, and underground
+with him calling numbers is exactly where it is banned. And it is always
+answered or swatted, never simply received, because the alternative is a man
+handling people who are scenery.
+DOSE IS CAPPED at once or twice a chapter and never the same way twice. A tic
+used four times stops being character and becomes something the reader counts.
+
+
 === He leaves something in the Wold that earns without him ===
 Author: should he not arrange something in the town that brings money in? Yes,
 and everything needed for it was already built and sitting unused.

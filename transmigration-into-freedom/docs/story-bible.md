@@ -155,6 +155,27 @@ is not guesswork, because a person in the dark cannot help answering.
 - HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
   man who runs every room by talking goes quiet and lets somebody else set the
   pace, and it lands hard enough that he notes it for later thought.
+- HE PUTS HIS HANDS ON PEOPLE IN PASSING (author). Anybody he has slept with, or
+  is plainly about to, gets touched IN THE ORDINARY COURSE OF THE DAY: a hand on
+  an arse going past in a doorway, a palm flat on a back, a grip on a hip to move
+  somebody out of the way that takes a second longer than moving them required.
+  IT IS NEVER THE EVENT AND NEVER STOPS THE SCENE. It happens mid-sentence, while
+  he is talking about something else entirely, usually while working, and the
+  dialogue does not acknowledge it. That is the whole register: the hand is
+  incidental and the lime mortar is the subject.
+  WHO. Currently Marit, Sivert, and Runa if she ever answers. It is the standing
+  physical sign of that list, so it also QUIETLY TELLS THE READER WHO IS ON IT
+  without anybody announcing anything.
+  WHERE IT IS NOT ALLOWED, and this matters: not while he is giving somebody an
+  order they cannot refuse, and not in front of people who work for him in a way
+  that makes it a display. In a street, a yard, a doorway, a forge, fine. On a
+  bar, underground, with him calling the numbers, no.
+  AND IT GETS ANSWERED IN KIND OR SWATTED, never simply received. Marit swats.
+  Sivert goes red and says nothing, which is his entire vocabulary. Ylva, who is
+  not on the list, is the one who comments on it happening to other people.
+  DOSE: once or twice a chapter at most, and NEVER TWICE THE SAME WAY. It is a
+  tic, and a tic used four times is a verbal habit the reader starts counting.
+
 - HE STAYS AFTERWARDS, AND IT COSTS HIM NOTHING AND MEANS EVERYTHING. Blanket
   over, arm across, no getting up, no leaving. Both partners so far have braced
   for being got rid of and neither of them has said a word about not being.
