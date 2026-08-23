@@ -60,6 +60,7 @@ b2  ch23  v1.0       2001 Woerter  ch23_v1_0_en.md
 b2  ch24  v1.0       2062 Woerter  ch24_v1_0_en.md
 b2  ch25  v1.0       2144 Woerter  ch25_v1_0_en.md
 b2  ch26  v1.0       2039 Woerter  ch26_v1_0_en.md
+b2  ch27  v1.0       2022 Woerter  ch27_v1_0_en.md
 
-Gesamt: 2 Baende, 60 Kapitel, 160783 Woerter
+Gesamt: 2 Baende, 61 Kapitel, 162805 Woerter
 Handbuch: 9 Dokumente

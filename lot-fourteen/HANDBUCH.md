@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 123.611 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 125.079 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -140,8 +140,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Shin](#shin)
   - [Mrs Jeon](#mrs-jeon)
   - [Mr Pyo](#mr-pyo)
-  - [Bae](#bae)
   - [Choi Dae-ho](#choi-dae-ho)
+  - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
@@ -2288,6 +2288,9 @@ nachrechnen, und `check.py` tut das automatisch.
   nie essen sehen. **Und er gibt Georgij den Namen, ungefragt** - Choi Dae-ho,
   neunundfuenfzig, dritter von Hongs drei Namen am 25. Oktober
   (Band 2, Kapitel 26)
+- Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
+  gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
+  die vierte Zeile ist einer davon** (Band 2, Kapitel 27)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3428,6 +3431,40 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Georgij bleibt danach zwanzig Minuten stehen, weil Sofortgehen die Unterschrift waere**, und schreibt im Wagen eine Zeile, und nicht den Namen: ***Hong. 25 Oct. Third of three. Ask who put him at that table.***
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
+
+- **Band 2, Kapitel 27** *What he collects* (v1.0) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+
+  **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
+
+  **Was auf ihrem Gesicht geschieht, ist eine Reihenfolge und sonst nichts:** zwei Sekunden nichts, dann schreibt sie das Wort zu Ende, in dem sie war, dann legt sie den Stift hin.
+
+  **Ihr Urteil ueber Sang-hoon steht in einem Satz und sie schiebt es weg:** *"Then he is a better man than I have ever been prepared to say, and I am going to have to sit with that, and not tonight."*
+
+  **Und dann faengt sie sich bei einer Gewohnheitsluege und raeumt sie sofort ab**, was sie noch nie getan hat: *"I have known him since I was twenty-four," she said, and then stopped. "That is not true and I have said it for so long that it comes out by itself. I was fourteen."* **Sie hat mit vierzehn gemerkt, dass er nicht isst, und es mit dreissig verstanden.**
+
+  **Die drei Gruende fuers Zurueckhalten waren alle wahr und keiner war der Grund.** Dezember, Maerz, der 27. April. **"And none of them is why."**
+
+  **Der echte Grund ist der Satz, um den dieses Buch gebaut ist: "He collects."** Er kauft Menschen, in jenem Haus und in zwei anderen, seit sehr langer Zeit, **und sie weiss nicht wie viele und hat es nie wissen wollen.**
+
+  **Und damit steht die Erklaerung fuer die Anomalie aus Kapitel 21 und 25:** *"An absence in a ledger is a question. A payment in a ledger is a Tuesday."*
+
+  **Was unter Georgijs Regungslosigkeit passiert, sagt nur die Erzaehlstimme, und Annie sieht es trotzdem.** Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste davon ist, **was Erwachsene mit Kindern vorhaben.** *"Annie watched him not move and did not mistake it for one second."*
+
+  **Sie weiss es seit dem 2. Maerz - seit er ihr die vier Fundstellen selbst hingelegt hat.** *"I did the arithmetic on the other two while you were still talking, and I did not say one word about it."* **Sechsundachtzig Tage.**
+
+  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** Und: *"you have said that sentence about yourself in this house ... and every time you have said it, it has been a description of a man who is safe. I did not want you to find out that it is also a description of somebody who is not."*
+
+  **Sie entschuldigt sich nicht und sagt auch warum nicht:** *"I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable. I am telling you what I did. You may do whatever you like with it."*
+
+  **Und Georgijs zwei Saetze sind die genaueste Sache, die er ihr je gesagt hat:** *"The first is that you were wrong and it does not matter now."* Und: **"this is the first time you have ever done anything for a reason that was not exactly what you said it was. And you did it about this. Out of everything in this year, you did it about this."** - *"Yes."*
+
+  **Und auf die Frage, was er tun wird, kommt nicht der Gegner, sondern der Mensch.** *"Find the person."* - *"That is not what I asked."* - **"It is what I am going to do. The rest of it is going to happen to him and it is going to be complete ... But that is not what I am going to do first and it is not what any of this is for."**
+
+  **Der erste Faden faellt ihm mitten in der Stunde ein und er sagt nichts davon.** Was im Fruehjahr aus einem Buch genommen wurde, stand vorher darin: vier oder fuenf Monate lang, mit Fundstelle und Saison, und **es war gewoehnlich, solange es dort stand.** Byun hat es geschrieben und wieder herausgenommen. Hwang hat es nie gesehen. **Und eine Frau hinter einer Glasscheibe hat dreiundzwanzig Jahre lang jede Zeile gelesen, die dieses Haus geschrieben hat** - und ist Mitte Mai zum letzten Mal aus dem Gebaeude gegangen.
+
+  **Und der Weg zu ihr geht ueber den Mann, den er am 4. Mai auseinandergenommen hat:** *"He does not know where she lives and he has never asked, and there is exactly one person in this country who would have written it down. Mr Hwang keeps everything."*
+
+  **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
 ---
 
@@ -5096,8 +5133,25 @@ Fassung.**
   **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
   etwas.**
 
-- **DER ABEND NACH DEM STAPELLAUF. Faellig sofort, gesetzt in Band 2,
-  Kapitel 26.** Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
+- **DIE PERSON AUF DER VIERTEN ZEILE. Das ist ab Band 2, Kapitel 27 das Ziel des
+  Buches, und es geht dem Gegner vor.** *"Find the person."* Vor vier Jahren an
+  jenem Haus gekauft, ohne Rechnung hinausgegangen, im Fruehjahr aus dem Buch
+  genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
+  die Georgij dreimal ueber sich selbst benutzt hat.**
+
+  **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
+  Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.
+  **Sie ist Mitte Mai aus dem Gebaeude gegangen und Georgij weiss nicht, wo sie
+  wohnt** - und der Einzige, der es aufgeschrieben haben wird, ist **Mr Hwang.**
+  Der Mann, den er am 4. Mai auseinandergenommen hat.
+
+- **Choi kauft Menschen. Gesetzt in Kapitel 27, aus Annies Mund, nach
+  sechsundachtzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
+  viele, weiss sie nicht und hat es nie wissen wollen.** Damit ist auch geklaert,
+  warum er eine Gebuehr zahlte, die er nicht schuldete.
+
+- **DER ABEND NACH DEM STAPELLAUF: ERLEDIGT in Band 2, Kapitel 27.** Der Eintrag
+  hier lautete: Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
   **Annie haelt ihn seit Dezember zurueck und hat am 27. April den echten Grund
   genannt: der Name macht ihn lesbar.** Jetzt hat er ihn von jemandem, den sie
   nicht kontrolliert. **Die Szene muss kommen und darf nicht uebersprungen
@@ -6233,10 +6287,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 476 | 50 (b1ch01-b2ch24) | 1 | 74 |
+| Annie | 487 | 51 (b1ch01-b2ch27) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Park Sang-hoon | 126 | 24 (b1ch10-b2ch26) | 1 | 74 |
+| Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
@@ -6247,7 +6301,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 28 | 4 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mr Hwang | 25 | 4 (b2ch07-b2ch24) | 3 | 26 |
+| Mr Hwang | 27 | 5 (b2ch07-b2ch27) | 3 | 38 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
 | Mr Ku | 21 | 15 (b1ch05-b2ch26) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
@@ -6255,8 +6309,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Choi Dae-ho | 7 | 4 (b1ch07-b2ch27) | 22 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
-| Choi Dae-ho | 6 | 3 (b1ch07-b2ch26) | 22 | 56 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
@@ -6273,7 +6327,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-476 Nennungen in 50 Kapiteln.
+487 Nennungen in 51 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6753,6 +6807,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:266 | He went down at about eight and told Annie all of it in order, and she listened to the w.. |
 | 26 | b2ch24:276 | Annie looked at the window for a moment. |
 | 26 | b2ch24:286 | "Because after Thursday one of two things will be true," said Annie. "Either you have fo.. |
+| 38 | b2ch27:20 | Annie was at the desk with a pen in her hand and she did not put it down. |
+| 38 | b2ch27:40 | "Then he is a better man than I have ever been prepared to say," said Annie, "and I am g.. |
+| 38 | b2ch27:60 | Annie stood at the window with the curtain not drawn and the drive dark behind the glass. |
+| 38 | b2ch27:78 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
+| 38 | b2ch27:104 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
+| 38 | b2ch27:144 | Annie watched him not move and did not mistake it for one second. |
+| 38 | b2ch27:164 | "Eighty-six days," said Annie. |
+| 38 | b2ch27:182 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
+| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:236 | Annie stood in the middle of her own room. |
+| 38 | b2ch27:262 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6873,6 +6938,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:244` (Tag 26) - one, twenty
 - `b2ch24:266` (Tag 26) - eight
 - `b2ch24:286` (Tag 26) - one, two
+- `b2ch27:104` (Tag 38) - one, twenty
+- `b2ch27:144` (Tag 38) - one
+- `b2ch27:164` (Tag 38) - eighty-six
+- `b2ch27:182` (Tag 38) - four
+- `b2ch27:200` (Tag 38) - eighty-six
+- `b2ch27:262` (Tag 38) - eighty-six, four
 
 ---
 
@@ -7357,7 +7428,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-126 Nennungen in 24 Kapiteln.
+128 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7487,6 +7558,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:252 | "What are you going to do," said Sang-hoon. |
 | 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
 | 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
+| 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
+| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -7542,6 +7615,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:84` (Tag 38) - four
 - `b2ch26:192` (Tag 38) - four
 - `b2ch26:272` (Tag 38) - four
+- `b2ch27:200` (Tag 38) - eighty-six
 
 ---
 
@@ -8273,7 +8347,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-25 Nennungen in 4 Kapiteln.
+27 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8302,6 +8376,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:318 | "Mr Hwang." |
 | 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
+| 38 | b2ch27:302 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:316 | Mr Hwang keeps everything. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -8317,6 +8393,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:256` (Tag 15) - twenty
 - `b2ch21:288` (Tag 15) - fifteen
 - `b2ch21:308` (Tag 15) - five, four, twenty
+- `b2ch27:302` (Tag 38) - four
 
 ---
 
@@ -8592,6 +8669,28 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Choi Dae-ho
+
+7 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -8610,27 +8709,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch03:150` (Tag 1) - forty
 - `b1ch05:128` (Tag 4) - one, three, two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Choi Dae-ho
-
-6 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
 
 ---
 

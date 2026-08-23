@@ -1,0 +1,290 @@
+<title>Die Rechnung</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<style>
+:root{
+  --paper:#E7E9EC; --sheet:#FBFBFC; --ink:#15171B; --muted:#5F6773;
+  --rule:#C8CCD3; --accent:#2F5D62; --accent-soft:#2F5D6218;
+  --warn:#8A4B2A; --warn-soft:#8A4B2A16; --ok:#3B6B4A;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0E1013; --sheet:#161A1F; --ink:#DCE0E5; --muted:#8C949F;
+    --rule:#272C34; --accent:#7FB2AB; --accent-soft:#7FB2AB1E;
+    --warn:#D08A5E; --warn-soft:#D08A5E18; --ok:#7FB289;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0E1013; --sheet:#161A1F; --ink:#DCE0E5; --muted:#8C949F;
+  --rule:#272C34; --accent:#7FB2AB; --accent-soft:#7FB2AB1E;
+  --warn:#D08A5E; --warn-soft:#D08A5E18; --ok:#7FB289;
+}
+*{ box-sizing:border-box; }
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"Source Serif 4", Georgia, serif;
+  font-size:clamp(1rem, 0.95rem + 0.25vw, 1.08rem); line-height:1.68;
+  -webkit-font-smoothing:antialiased;
+}
+.sheet{
+  max-width:52rem; margin:0 auto; background:var(--sheet); min-height:100vh;
+  padding:clamp(1.6rem,1rem+3vw,4rem) clamp(1.1rem,0.6rem+3.2vw,3.4rem);
+  border-left:1px solid var(--rule); border-right:1px solid var(--rule);
+}
+.mono, .eyebrow, th, .tag, .num, footer{
+  font-family:"IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric:tabular-nums;
+}
+.eyebrow{
+  display:block; font-size:0.68rem; letter-spacing:0.15em;
+  text-transform:uppercase; color:var(--muted); margin-bottom:0.8rem;
+}
+h1{
+  font-family:"Cormorant Garamond", Georgia, serif; font-weight:600;
+  font-size:clamp(2.1rem,1.4rem+3vw,3rem); line-height:1.05; margin:0;
+  letter-spacing:-0.005em; text-wrap:balance;
+}
+.lede{ color:var(--muted); margin:1rem 0 0; max-width:40rem; }
+.card-top{ border-top:2px solid var(--ink); padding-top:0.8rem; }
+h2{
+  font-family:"IBM Plex Mono", monospace; font-weight:500; font-size:0.72rem;
+  letter-spacing:0.16em; text-transform:uppercase; color:var(--accent);
+  margin:3.2rem 0 1.2rem; padding-bottom:0.45rem;
+  border-bottom:1px solid var(--rule);
+}
+h3{
+  font-family:"Source Serif 4", serif; font-weight:600;
+  font-size:1.12rem; margin:0 0 0.15rem; line-height:1.3;
+}
+p{ margin:0 0 1rem; }
+em{ font-style:italic; }
+strong{ font-weight:600; }
+.deal{
+  border:1px solid var(--rule); border-left:3px solid var(--accent);
+  padding:1.1rem 1.2rem; margin:0 0 1rem; background:var(--paper);
+}
+.deal.risk{ border-left-color:var(--warn); }
+.deal .num{
+  font-size:0.66rem; letter-spacing:0.14em; text-transform:uppercase;
+  color:var(--muted); display:block; margin-bottom:0.5rem;
+}
+.grid{ display:grid; gap:0.5rem 1.4rem; margin:0.8rem 0 0;
+  grid-template-columns:5.5rem 1fr; align-items:baseline; }
+.grid dt{
+  font-family:"IBM Plex Mono", monospace; font-size:0.66rem;
+  letter-spacing:0.11em; text-transform:uppercase; color:var(--muted);
+}
+.grid dd{ margin:0; }
+.tbl{ width:100%; border-collapse:collapse; margin:0 0 1.2rem;
+  font-size:0.95rem; display:block; overflow-x:auto; white-space:nowrap; }
+.tbl thead th{
+  text-align:left; font-size:0.64rem; letter-spacing:0.13em;
+  text-transform:uppercase; color:var(--muted); font-weight:500;
+  padding:0.4rem 1rem 0.4rem 0; border-bottom:1px solid var(--rule);
+}
+.tbl td{ padding:0.45rem 1rem 0.45rem 0; border-bottom:1px solid var(--rule);
+  vertical-align:top; }
+.tbl td:first-child{ font-family:"IBM Plex Mono", monospace;
+  font-size:0.8rem; color:var(--accent); }
+.q{ border:1px solid var(--warn); background:var(--warn-soft);
+  padding:1.1rem 1.2rem; margin:0 0 1rem; }
+.q .tag{ display:inline-block; font-size:0.62rem; letter-spacing:0.14em;
+  text-transform:uppercase; color:var(--warn); margin-bottom:0.5rem; }
+blockquote{
+  margin:0.8rem 0; padding-left:1rem; border-left:2px solid var(--rule);
+  color:var(--muted); font-style:italic;
+}
+blockquote cite{ display:block; font-style:normal; font-size:0.7rem;
+  letter-spacing:0.1em; text-transform:uppercase; margin-top:0.4rem;
+  font-family:"IBM Plex Mono", monospace; }
+.chain{ list-style:none; padding:0; margin:0 0 1.2rem; }
+.chain li{ padding:0.5rem 0 0.5rem 2.2rem; position:relative;
+  border-bottom:1px solid var(--rule); }
+.chain li::before{
+  content:attr(data-n); position:absolute; left:0; top:0.55rem;
+  font-family:"IBM Plex Mono", monospace; font-size:0.68rem;
+  color:var(--accent); letter-spacing:0.08em;
+}
+footer{ margin-top:3rem; padding-top:1rem; border-top:1px solid var(--rule);
+  font-size:0.68rem; letter-spacing:0.12em; text-transform:uppercase;
+  color:var(--muted); display:flex; flex-wrap:wrap; gap:0.4rem 1.4rem;
+  justify-content:space-between; }
+@media (max-width:640px){
+  .sheet{ border-left:0; border-right:0; }
+  .grid{ grid-template-columns:1fr; gap:0.15rem; }
+  .grid dd{ margin-bottom:0.5rem; }
+}
+</style>
+
+<div class="sheet">
+
+<header class="card-top">
+  <span class="eyebrow">Lot Fourteen &nbsp;&middot;&nbsp; Arbeitspapier, Stand Tag 48</span>
+  <h1>Die Rechnung</h1>
+  <p class="lede">Jedes Geschäft, das im Buch offen ist: wer was gibt, wer was bekommt, und an welcher Annahme es bricht. Kein Kanon. Wo dieses Papier den Kapiteln widerspricht, haben die Kapitel recht.</p>
+</header>
+
+<h2>Zuerst: Woo ist nur Logistik</h2>
+
+<p>Das ist keine Fußnote, es dreht das Ende von Kapitel 19. Ein Chaebol hätte sechs andere Sparten, in denen das Routen-Vetorecht nicht weh tut. Woo hat Schifffahrt und ein Terminal. <strong>Er sitzt in genau dem Gewerbe, dessen Engstelle Annie gerade baut.</strong></p>
+
+<ul class="chain">
+  <li data-n="01"><strong>Ein Vermögenswert, kein Polster.</strong> Er konnte achtzig Prozent selbst tragen und die letzten zwanzig nicht. Alles hängt an einem Kai.</li>
+  <li data-n="02"><strong>Sang-hoon konsolidiert die Logistik.</strong> Zwei Konkurrenten gekauft, die Kims als drittes. Woo ist dieselbe Branche. Den Kims zu helfen ist bei ihm keine Wohltat, sondern Notwehr.</li>
+  <li data-n="03"><strong>Das Vetorecht trifft ihn direkt.</strong> Es entscheidet, welche Kiste auf welche Abfahrt geht, wenn eine Abfahrt voll ist, und auf diesen Lanes ist neun Monate im Jahr alles voll. Er fährt auf denselben Lanes.</li>
+</ul>
+
+<p>Damit ist sein Satz am Ende des Kapitels keine Belehrung über eine Abstraktion. <strong>Er beschreibt die Schlinge, in die er selbst gerade den Kopf steckt</strong> — und nimmt den Handel trotzdem, weil die Alternative ist, dass Sang-hoon sicher ein Drittel bekommt. Er wählt die Engstelle, die er sieht.</p>
+
+<h2>Die Geschäfte</h2>
+
+<div class="deal">
+  <span class="num">Geschäft 01 &nbsp;&middot;&nbsp; läuft</span>
+  <h3>Annie und die Familie Kim</h3>
+  <dl class="grid">
+    <dt>Annie gibt</dt><dd>Geld hinter die Bilanz, damit sie eine Ermittlung übersteht</dd>
+    <dt>Annie nimmt</dt><dd>Anteile, Sicherheiten und ein <strong>Vetorecht über Routen</strong></dd>
+    <dt>Kims behalten</dt><dd>den Namen, und werden das vorher in diesen Worten gesagt bekommen</dd>
+    <dt>Bricht bei</dt><dd>Ye-rin. Sechs Prozent seit zwanzig Jahren, kein Vorstandssitz, keine Unterschrift. Sie muss zustimmen, und sie ist nicht gefragt worden.</dd>
+  </dl>
+</div>
+
+<div class="deal risk">
+  <span class="num">Geschäft 02 &nbsp;&middot;&nbsp; die Falle</span>
+  <h3>Sang-hoon und Hanseong</h3>
+  <dl class="grid">
+    <dt>Er kauft</dt><dd>die Anteile der Vorstandshälfte, die raus will. Billig und schnell. <strong>Kein Beschluss nötig.</strong></dd>
+    <dt>Er zahlt</dt><dd>vier- bis sechshundert Milliarden für die Kontrolle, und danach ein Quartal Knappheit</dd>
+    <dt>Er bekommt</dt><dd>vier Routen mit echten Liegeplätzen — auf dem Papier</dd>
+    <dt>Die Falle</dt><dd>Seite vierzehn. Der Vorstand tagt weiter nicht. Er kann sich die Routen nicht übertragen lassen, nicht verkaufen was er nicht will, nichts auflösen. Er hat für vier Liegeplätze gezahlt, die er nicht bewegen kann.</dd>
+    <dt>Bricht bei</dt><dd>Wenn die beiden Hälften sich doch einigen. Dann funktioniert die Firma, und die Falle ist keine.</dd>
+  </dl>
+</div>
+
+<div class="deal">
+  <span class="num">Geschäft 03 &nbsp;&middot;&nbsp; Tag 48 beschlossen</span>
+  <h3>Annies Scheingebot auf Hanseong</h3>
+  <dl class="grid">
+    <dt>Sie bietet</dt><dd>für das <strong>Ganze</strong>, sorgfältig und korrekt, mit einer Obergrenze</dd>
+    <dt>Sie scheitert</dt><dd>weil ein Gebot aufs Ganze beide Vorstandshälften auf einem Blatt braucht</dd>
+    <dt>Zweck A</dt><dd>ein ernsthafter Rivale greift nach demselben Teller: bestätigt den Wert</dd>
+    <dt>Zweck B</dt><dd>die Vordertür schlägt sichtbar zu. Er hört auf, nach einem dritten Weg zu suchen — <em>und hört auf, Leute zu fragen</em></dd>
+    <dt>Kostet</dt><dd>Anwaltskosten und einen Nachmittag Lächerlichkeit in einem kleinen Gewerbe</dd>
+  </dl>
+</div>
+
+<div class="deal">
+  <span class="num">Geschäft 04 &nbsp;&middot;&nbsp; Kapitel 19</span>
+  <h3>Annie und Chairman Woo</h3>
+  <dl class="grid">
+    <dt>Annie gibt</dt><dd>zehn Jahre Ankerladung über Yeongjong, Mindestmengen, take-or-pay</dd>
+    <dt>Woo gibt</dt><dd>seinen Namen neben den der Kims, öffentlich und auf Papier, vor Jahresende</dd>
+    <dt>Wirkung</dt><dd>die Kündigungen hören in derselben Woche auf. Das ist das einzige Bein des Plans, das der Angst den Anlass nimmt statt Zeit zu kaufen.</dd>
+    <dt>Kostet</dt><dd>echtes Geld, wenn der Durchsatz falsch geschätzt ist. Mindestmengen zahlt man auch, wenn man sie nicht liefert.</dd>
+  </dl>
+</div>
+
+<h2>Warum Ladung der richtige Preis ist</h2>
+
+<p>Ein Terminal hat fast nur Fixkosten. Umsatz ist Umschlag mal Tarif, also zählt nur die Auslastung — und <strong>Regelmäßigkeit ist mehr wert als Tonnage</strong>, weil man nur gegen Regelmäßigkeit Geld leihen kann.</p>
+
+<table class="tbl">
+  <thead><tr><th>Schritt</th><th>Was daraus folgt</th></tr></thead>
+  <tbody>
+    <tr><td>1</td><td>Ankerladung, zehn Jahre, Mindestmengen mit einer echten Zahl</td></tr>
+    <tr><td>2</td><td>Der Vertrag ist bankfähig</td></tr>
+    <tr><td>3</td><td><strong>Er löst die zwanzig Prozent selbst ab</strong>, zu normalen Zinsen, bei einem Gläubiger mit Namen</td></tr>
+    <tr><td>4</td><td>Bewertung auf kontrahierten Ertrag statt auf Beton</td></tr>
+    <tr><td>5</td><td>Erben erben einen Zahlungsstrom und betreiben ihn</td></tr>
+    <tr><td>6</td><td>Sang-hoon: höchstens ein Drittel unter einem Vertrag, den er nicht schrieb</td></tr>
+  </tbody>
+</table>
+
+<p><strong>Schritt 3 gehört Woo, nicht Georgij.</strong> Einundfünfzig Jahre müssen sich einmal auszahlen. Georgij bietet Ladung; der Alte sieht schneller, was daraus folgt. Das dreht die Schuld in die richtige Richtung und macht den Rückkauf überflüssig, den ich in der ersten Fassung angeboten hatte — der hätte nur einen stillen Gläubiger gegen den nächsten getauscht.</p>
+
+<p><strong>Die Ehrlichkeit, ohne die die Szene tot ist:</strong> Ihre Ladung füllt das Terminal nicht. Sie ist Ankermieter, nicht das ganze Buch. Genau das ist der Wert — mit einem Anker kann er verlässliche Liegezeiten zusagen und damit alle anderen unterschreiben. Wer einem Mann mit einundfünfzig Jahren mehr verspricht, verliert ihn im selben Satz.</p>
+
+<h2>Und hier stoßen zwei Fäden zusammen</h2>
+
+<blockquote>
+  a fund whose beneficial ownership ran into a chain of law firms in Singapore and stopped there. Behind Singapore &hellip; a private equity company registered in Hong Kong.
+  <cite>Kapitel 13 — Woos Finanzier</cite>
+</blockquote>
+
+<blockquote>
+  Ehemaliger Staatsanwalt &hellip; jetzt Direktor einer Private-Equity-Firma in Hongkong über eine Anwaltskette in Singapur. &hellip; Verbindet Min-hos Büro mit Sang-hoons Betrieb, und zwar persönlich, nicht nur finanziell.
+  <cite>doc/03-cast.md — Choi Dae-ho</cite>
+</blockquote>
+
+<p>Dieselbe Kette, dieselbe Bauweise. Dazu der Mann im Raum: <em>about fifty, a Hong Kong accent when he spoke English and none at all when he spoke Korean</em>, ohne Karte, und er stellte die Dienstagsfrage. Und Woo hat auf das Wort Hongkong <strong>nicht reagiert</strong>, so vollständig, dass Georgij wusste, er hatte gerade ein zweites Ding bekommen.</p>
+
+<p><strong>Wenn das dieselbe Firma ist, ändert sich alles an Geschäft 04:</strong></p>
+
+<ul class="chain">
+  <li data-n="A">Sang-hoons Geld sitzt bereits <strong>im Terminal</strong>. Woo weiß es oder ahnt es seit Jahren.</li>
+  <li data-n="B">„Zweimal dieses Jahr wollte jemand das Terminal kaufen und nicht sagen, für wen" ist keine Belästigung durch Fremde, sondern derselbe Absender.</li>
+  <li data-n="C">Sein Satz über den Dienstag ist keine Sorge, sondern eine <strong>Feststellung</strong>. Er weiß, wem ein Drittel gehören wird.</li>
+  <li data-n="D">Damit will er die Ladung nicht wegen des Umsatzes. Er will sie, weil sie das <strong>einzige Instrument ist, das einen Gläubiger vom Kai holt, den er nicht benennen kann</strong>, bevor er stirbt.</li>
+  <li data-n="E">Und Georgij, der die Hongkong-Kette seit Kapitel 12 aus einem <strong>ganz anderen Grund</strong> jagt, reicht ihm gerade das Mittel, sie zu schließen.</li>
+</ul>
+
+<h2>Was entschieden werden muss</h2>
+
+<div class="q">
+  <span class="tag">Frage 1 &nbsp;&middot;&nbsp; die größte</span>
+  <p><strong>Ist Woos Finanzier Choi Dae-ho?</strong> Der Kanon beschreibt zweimal dieselbe Struktur. Entweder das ist gebaut, oder zwei Fäden benutzen zufällig dieselbe Bauweise. Bei „gebaut" bekommt Kapitel 19 eine zweite Ebene und Georgij eine Entdeckung, die er seit Kapitel 12 sucht. Bei „Zufall" muss einer der beiden Fäden umgebaut werden, sonst legt der Leser sie irgendwann selbst nebeneinander.</p>
+</div>
+
+<div class="q">
+  <span class="tag">Frage 2</span>
+  <p><strong>Merkt Georgij es in Kapitel 19?</strong> Er hat einen Namen ohne Firma (Choi, aus Kapitel 7) und eine Firma ohne Namen (aus Kapitel 12 und 13). Er hat sie nie nebeneinandergelegt. Er kann es hier tun, oder Woo kann es aussprechen, oder es passiert nicht und der Leser sieht es vor ihm. Alle drei tragen, aber es sind drei verschiedene Kapitel.</p>
+</div>
+
+<div class="q">
+  <span class="tag">Frage 3</span>
+  <p><strong>Das gefaltete Blatt.</strong> Kontonummer aus Jung-gu und die drei Daten. Wenn die Firma zur selben Operation gehört, übergibt Georgij Beweismaterial über Choi Dae-ho, ohne zu wissen, dass es Choi Dae-ho ist. Woo würde es erkennen. Soll er?</p>
+</div>
+
+<div class="q">
+  <span class="tag">Frage 4</span>
+  <p><strong>Ye-rin ist nirgends gefragt worden.</strong> Sechs Prozent, zwanzig Jahre, kein Vorstandssitz, keine Unterschrift, und in sechzehn von dreiundzwanzig Aufnahmen steht sie dort, wo sie die Türen sieht. Der ganze Plan hängt daran, dass sie bis Februar hält — und niemand hat mit ihr gesprochen. Laut <code>doc/07-next.md</code> nur über Hana, einmal und nicht schnell.</p>
+</div>
+
+<div class="q">
+  <span class="tag">Frage 5</span>
+  <p><strong>Wird der Ladungsvertrag Sang-hoon zeigen, wo Annie steht?</strong> Woos Name neben den Kims ist laut. Der Vertrag ist leise und muss nicht bekanntgegeben werden. Woos eigenes Motiv trägt die Tarnung, weil es wahr ist: Sang-hoon kauft sein Gewerbe auf. Trotzdem ist es eine Fläche, und Georgij sollte sie in Kapitel 19 einmal benennen, statt daran vorbeizuschreiben.</p>
+</div>
+
+<h2>Die Uhr</h2>
+
+<table class="tbl">
+  <thead><tr><th>Wann</th><th>Was</th><th>Wer</th></tr></thead>
+  <tbody>
+    <tr><td>20. Nov</td><td>Seiten zurück, Mandat, Yeongjong</td><td>Tag 48, heute</td></tr>
+    <tr><td>bis Jahresende</td><td>Woos Name neben den Kims, Kündigungen hören auf</td><td>Woo</td></tr>
+    <tr><td>Anfang Dez</td><td>kauft die Hanseong-Hälfte, ist gebunden</td><td>Sang-hoon</td></tr>
+    <tr><td>Dez bis Feb</td><td>knapp, ein Quartal lang</td><td>Sang-hoon</td></tr>
+    <tr><td>Januar</td><td><strong>drei Wochen über den Jahreswechsel</strong>, in denen niemand unterschreibt</td><td>das Fenster</td></tr>
+    <tr><td>Februar</td><td>ein Neffe mit vier Prozent ruft an, und Ye-rin hat keine Antwort</td><td>die Frist</td></tr>
+    <tr><td>März</td><td>Sang-hoon wieder flüssig</td><td>zu spät</td></tr>
+  </tbody>
+</table>
+
+<h2>Woran das Ganze hängt</h2>
+
+<ul class="chain">
+  <li data-n="i"><strong>Sang-hoon kauft.</strong> Wenn er Hanseong liegen lässt, ist er im Januar flüssig und alles andere ist umsonst.</li>
+  <li data-n="ii"><strong>Der Hanseong-Vorstand tagt nicht.</strong> Zwei Annahmen hängen daran: dass Annie nicht gewinnt, und dass Sang-hoon steckenbleibt.</li>
+  <li data-n="iii"><strong>Woos Name wirkt.</strong> Wenn die Kunden nicht zurückkommen, kauft Woos Zusage gar nichts.</li>
+  <li data-n="iv"><strong>Ye-rin hält.</strong> Ungefragt und unverhandelt.</li>
+  <li data-n="v"><strong>Niemand legt Annie und Woo nebeneinander.</strong> Der Vertrag ist leise, aber er existiert.</li>
+  <li data-n="vi"><strong>Und das, was Georgij noch nicht zu Ende gedacht hat:</strong> Wenn alles gelingt, hat er einen Mann ruiniert, damit ein zweiter eine Firma nicht bekommt, damit die Frau, der er gehört, die Hand am Hals des restlichen Gewerbes hat. Einschließlich Woo. Der es ihm am selben Nachmittag vorrechnen wird.</li>
+</ul>
+
+<footer>
+  <span>Arbeitspapier, kein Kanon</span>
+  <span>Kanon: chapters/ und doc/</span>
+</footer>
+
+</div>

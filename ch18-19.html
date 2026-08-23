@@ -1,0 +1,430 @@
+<title>Der Donnerstag</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;1,8..60,400&display=swap">
+<style>
+:root{
+  --paper:#E7E9EC; --sheet:#FBFBFC; --ink:#15171B; --muted:#5F6773;
+  --rule:#C8CCD3; --accent:#2F5D62; --accent-soft:#2F5D6222;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0E1013; --sheet:#161A1F; --ink:#DCE0E5; --muted:#8C949F;
+    --rule:#272C34; --accent:#7FB2AB; --accent-soft:#7FB2AB22;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0E1013; --sheet:#161A1F; --ink:#DCE0E5; --muted:#8C949F;
+  --rule:#272C34; --accent:#7FB2AB; --accent-soft:#7FB2AB22;
+}
+*{ box-sizing:border-box; }
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font-family:"Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size:clamp(1.02rem, 0.96rem + 0.3vw, 1.14rem); line-height:1.72;
+  -webkit-font-smoothing:antialiased;
+}
+.sheet{
+  max-width:41rem; margin:0 auto; background:var(--sheet); min-height:100vh;
+  padding:clamp(1.6rem, 1rem + 3vw, 4.2rem) clamp(1.2rem, 0.6rem + 3.4vw, 3.6rem);
+  border-left:1px solid var(--rule); border-right:1px solid var(--rule);
+}
+header{ margin-bottom:clamp(2rem, 1rem + 3vw, 3.4rem); }
+.card{
+  border-top:2px solid var(--ink); border-bottom:1px solid var(--rule);
+  padding:0.85rem 0 1.1rem;
+}
+.eyebrow, .meta, footer, .toc, h2{
+  font-family:"IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-variant-numeric:tabular-nums;
+}
+.eyebrow, .meta, footer{
+  font-size:0.7rem; letter-spacing:0.14em; text-transform:uppercase;
+  color:var(--muted);
+}
+.eyebrow{ display:block; margin-bottom:0.9rem; }
+h1{
+  font-family:"Cormorant Garamond", Georgia, serif; font-weight:600;
+  font-size:clamp(2rem, 1.3rem + 3.4vw, 3.15rem); line-height:1.06;
+  margin:0; letter-spacing:-0.005em; text-wrap:balance; color:var(--ink);
+}
+.meta{ display:flex; flex-wrap:wrap; gap:0.5rem 1.4rem; margin-top:1.1rem; }
+.meta b{ font-weight:500; color:var(--accent); }
+h2{
+  font-weight:500; font-size:0.74rem; letter-spacing:0.16em;
+  text-transform:uppercase; color:var(--accent); margin:3rem 0 1.4rem;
+  padding-bottom:0.5rem; border-bottom:1px solid var(--rule);
+}
+p{ margin:0 0 1.15rem; }
+em{ font-style:italic; }
+hr{ border:0; height:1.9rem; margin:2rem 0 2.1rem; position:relative; }
+hr::after{
+  content:"\00B7 \00B7 \00B7"; position:absolute; inset:0; display:flex;
+  align-items:center; justify-content:center; letter-spacing:0.75em;
+  color:var(--rule); font-size:0.9rem; text-indent:0.75em;
+}
+footer{
+  margin-top:clamp(2.4rem, 1.4rem + 3vw, 4rem); padding-top:1rem;
+  border-top:1px solid var(--rule); display:flex; flex-wrap:wrap;
+  gap:0.4rem 1.4rem; justify-content:space-between;
+}
+a{ color:var(--accent); text-decoration-thickness:1px; text-underline-offset:0.2em; }
+a:focus-visible{ outline:2px solid var(--accent); outline-offset:3px; }
+::selection{ background:var(--accent-soft); }
+
+/* Nur im Sammelband */
+.toc{ margin:0 0 1rem; padding:0; list-style:none; font-size:0.82rem; }
+.toc li{
+  display:grid; grid-template-columns:2.6rem 1fr auto; gap:0.9rem;
+  align-items:baseline; padding:0.42rem 0; border-bottom:1px solid var(--rule);
+}
+.toc .n{ color:var(--accent); letter-spacing:0.1em; }
+.toc .t{
+  font-family:"Source Serif 4", Georgia, serif; font-size:1.02rem;
+  letter-spacing:0; text-transform:none;
+}
+.toc .d{ color:var(--muted); font-size:0.68rem; letter-spacing:0.1em;
+  text-transform:uppercase; text-align:right; }
+.chapter{ padding-top:clamp(2.4rem, 1.4rem + 4vw, 5rem); }
+.chapter + .chapter{ border-top:1px solid var(--rule); }
+.chapter .card{ border-top-width:1px; }
+.chapter h1{ font-size:clamp(1.65rem, 1.1rem + 2.4vw, 2.4rem); }
+.top{ font-size:0.68rem; letter-spacing:0.14em; text-transform:uppercase;
+  font-family:"IBM Plex Mono", ui-monospace, monospace; }
+@media (max-width:640px){
+  .sheet{ border-left:0; border-right:0; }
+  .toc li{ grid-template-columns:2.2rem 1fr; }
+  .toc .d{ grid-column:2; text-align:left; }
+}
+</style>
+
+<div class="sheet" id="top">
+<header><div class="card"><span class="eyebrow">Lot Fourteen &nbsp;&#183;&nbsp; Tag 48, Donnerstag 20. November</span><h1>Der Donnerstag</h1></div><div class="meta"><span>2 Kapitel</span><span><b>6.142</b> Woerter</span><span>Kanon: chapters/</span></div></header>
+<ul class='toc'>
+<li><span class="n">18</span><a class="t" href="#ch18">On account</a><span class="d">Day 48 · Thursday 20 November</span></li>
+<li><span class="n">19</span><a class="t" href="#ch19">What happens on the Tuesday</a><span class="d">Day 48 · Thursday 20 November</span></li>
+</ul>
+<article class="chapter" id="ch18">
+<div><div class="card"><span class="eyebrow">Lot Fourteen &nbsp;&#183;&nbsp; Chapter 18</span><h1>On account</h1></div><div class="meta"><span>Day 48 · Thursday 20 November</span><span>Fassung <b>2.4</b></span><span>2948 Woerter</span></div></div>
+<p>The document came back at ten past nine in the morning.</p>
+<p>A man brought it to the gate in a plain envelope with nothing written on the outside, gave it to Jang, did not ask for a signature and did not wait for one.</p>
+<p>Jang brought it up himself.</p>
+<p>"He drove out here from Yeouido in his own car," he said. "He left at about half past seven to do it. That is a man making certain it arrived in the morning and not in the afternoon."</p>
+<p>"Thank you."</p>
+<p>"There is nothing in it but the pages. I looked." He put the envelope on the desk. "I would tell you if I had not."</p>
+<p>"I know you would."</p>
+<hr>
+<p>Georgij counted them before he read anything. Nineteen.</p>
+<p>Then he squared them and saw that the order was wrong.</p>
+<p>He had written them in the order a man reads a thing in. Background, then the money going out, then the board, then the rumours, then the four routes at the end, because the routes were the answer and you do not put the answer on the first page.</p>
+<p>Page sixteen was on top.</p>
+<p>Page sixteen was the one about the board that split in March, and which half of it had stopped coming.</p>
+<p>He sat looking at that for rather longer than it takes to look at a page.</p>
+<p>A man who is deciding whether to buy a shipping group reads the routes first, because the routes are what he would be buying. A man who has already decided reads the page that tells him who to sit down with. Sang-hoon had not put it on top to be clever. He had put it on top last, when he finished with it, and he had not bothered to put it back.</p>
+<hr>
+<p>There were four marks in the whole nineteen pages, and all four were in pencil.</p>
+<p>On page seven, beside his slot fee for the Busan lane, a figure. It was higher than his own by about a fifth, and it was written in the margin without a comment.</p>
+<p>On page eleven, beside a paragraph that said <em>this is a guess</em> in the middle of it, a single word.</p>
+<p><em>No.</em></p>
+<p>On page nine, beside the two rumours from two mouths that had no reason to know each other, another one.</p>
+<p><em>Same.</em></p>
+<p>And on page sixteen, beside the sentence naming the four men who had stopped coming to the board in March:</p>
+<p><em>Which.</em></p>
+<hr>
+<p>Georgij put that page down and stood up and walked to the window, which he did not often do.</p>
+<p>Two sources that corroborate each other are worth ten times one source. That was the whole reason the rumour was in the document. It had come to him twice, from a man in a shipping agency and from a woman who audits nobody that man has ever met.</p>
+<p><em>Same.</em></p>
+<p>One mouth, dressed as two. Somebody had walked it round the long way and back again, and Georgij had received it at both ends and counted it twice, and had felt rather good about it for four days.</p>
+<p>He went back to the desk and wrote the correction on the inside cover of the file.</p>
+<p>Then he did the other sum, which took longer and was less pleasant.</p>
+<hr>
+<p>He had given Park Sang-hoon four walls and a map of where they stood. He had given him confirmation, on the record, that Annie's side already held part of the Kim family. He had said out loud in the room what that cost him, because saying it was worth more than hiding it.</p>
+<p>And he had given him nineteen pages that were worth several hundred billion won to a man in a position to act on them, written in his own hand, for nothing.</p>
+<p>Against that: three words and a figure.</p>
+<p>It was not a gift and it was not a kindness, and Georgij was faintly annoyed with himself for having spent ten minutes at a window thinking that it might be.</p>
+<p>It was a payment on account.</p>
+<p>A man who owes a great deal and pays a little of it quickly is not a man clearing his debts. He is a man who intends to go on borrowing and would like the account to stay open. The cheapest way to keep a lender warm is to pay a little of it early, and to let him notice that it was early.</p>
+<p>The car had left Yeouido at half past seven for exactly that reason.</p>
+<hr>
+<p>Georgij sat back.</p>
+<p>The debt was still there and both of them knew the size of it, and Sang-hoon had just told him, in pencil, that he intended to draw on it again.</p>
+<p>Which meant there would be another evening.</p>
+<p>That was worth more than the corrections, and the corrections were worth a great deal.</p>
+<hr>
+<p>He found Annie in the study at eleven.</p>
+<p>"He has read it twice and corrected it in four places, and he has put page sixteen on top."</p>
+<p>"Which is sixteen?"</p>
+<p>"The board that split in March, and the four men who stopped coming." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read when you have decided and you are choosing which of them to telephone."</p>
+<p>Annie turned her chair a quarter turn.</p>
+<p>"How long?"</p>
+<p>"I told you four to six weeks on Tuesday. I was wrong by half." He said it flatly and did not soften it. "He will have it inside a fortnight. He was already working when he sent this back, and he sent it back early, and both of those are the same fact."</p>
+<p>"Then January is not four weeks."</p>
+<p>"No. If he signs in the first week of December he is short from December and clear again by March, and Ye-rin does not break until February." He put one hand flat. "It is three weeks, and they are the three weeks over the New Year, when nobody in this country signs anything."</p>
+<p>She did not say anything to that for a moment.</p>
+<p>"Say what you want."</p>
+<hr>
+<p>"Two things, Mistress, and the first one will sound like the opposite of what we agreed."</p>
+<p>"Say it anyway."</p>
+<p>"I want you to try to buy Hanseong."</p>
+<p>Annie put down the pen she had not been using.</p>
+<p>"Go on."</p>
+<p>"He has bitten. He has not swallowed." Georgij turned his hand over. "A man who has bitten still checks, and there is exactly one thing on earth that stops a man checking, and it is watching somebody else reach for the same plate."</p>
+<p>"You want a rival bid."</p>
+<p>"I want a rival bid that loses," he said. "And I would like it to lose for a reason that is written down, and that has nothing to do with either of us."</p>
+<hr>
+<p>"How does it lose?"</p>
+<p>"You bid for the whole of it."</p>
+<p>Annie looked at him.</p>
+<p>"Go on."</p>
+<p>"An offer for all of a company is agreed by the people who own it, and the people who own that one have not sat in a room together since March." He did not move. "Your lawyers will do it the way they do everything. It will be careful and ordinary and entirely correct, and it will need both halves of that board to put their names on one sheet of paper."</p>
+<p>"And they will not."</p>
+<p>"They will not. They will not even receive it in the same week."</p>
+<hr>
+<p>"So I am seen to want it, and I am seen to be sensible, and I fail."</p>
+<p>"You fail in writing, at a date, with a reason anybody can read."</p>
+<p>"And what does that teach him." Annie had not moved. "He was never going to buy it that way."</p>
+<p>"No. He is going to sit down with the half that wants out and buy their shares, and shares are sold by the people who hold them." He had not moved from the corner of the desk. "Nobody needs a resolution for that, and he knew it before I wrote a word."</p>
+<p>"Then you have told him nothing."</p>
+<p>"I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason that is on a page he read twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."</p>
+<hr>
+<p>Annie turned the pen over once.</p>
+<p>"And the disposal."</p>
+<p>"He asked me because he was measuring it, not because he was in doubt." Georgij put one hand flat. "He buys the half that wants out, cheaply and inside a fortnight. Then he takes the other half apart one at a time, and he is better at that than anybody in this country."</p>
+<p>"So it works."</p>
+<p>"It works. That is the part I need you to hold on to, because everything else follows from it." He put both hands behind his back. "I am not selling him a bad company. Hanseong is worth having and he is right about it."</p>
+<p>"Then where is the difficulty."</p>
+<p>"In the calendar. Nowhere else."</p>
+<p>Annie sat back and let him stand there.</p>
+<p>"Say it properly."</p>
+<p>"The fight takes him a quarter. His money is in it for that quarter and so is he. And there is exactly one quarter in which a family under customs investigation can be taken off its own name, and he does not know that, because he thinks a family takes two years. He told me so himself on Tuesday."</p>
+<p>"He is spending a quarter he believes he has."</p>
+<p>"Yes."</p>
+<p>"Is any of that in your pages?"</p>
+<p>"Every line of it that is a fact, and nothing that is a plan." Georgij did not look away. "The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."</p>
+<hr>
+<p>Annie sat with that.</p>
+<p>"And if he does not read it that way."</p>
+<p>"Then you have made a bid you could not complete on a company you did not want, and it cost you legal fees and one afternoon of looking foolish in a small trade." He inclined his head. "That is the whole downside, and you are getting it from me before you find it."</p>
+<p>"And if the board meets."</p>
+<p>There it was.</p>
+<p>"Then you have bought a shipping group with four good routes and no working board, for money, and I will have done to you exactly what I am doing to him." He did not look away. "It is the only way this goes badly and it is not impossible. If you want the number that stops it going badly, put a ceiling on the offer that is low enough to be refused and high enough to be believed. Let me build it with your people and not for them."</p>
+<p>"You have thought about this since the envelope arrived."</p>
+<p>"I thought about it while I was standing at the window being pleased with a man for correcting my work." Georgij put both hands behind his back. "The pleasure was the useful part. It told me what he wants me to feel, and a man does not spend a car journey at half past seven in the morning on a feeling he does not want."</p>
+<hr>
+<p>"The second thing."</p>
+<p>"Chairman Woo. I want him standing next to the Kims, in public and on paper, before the end of the year." He said it plainly. "The cancellations stop the week he does it, and nothing else stops them."</p>
+<p>"Then offer him money."</p>
+<p>"He has money and he has had it for fifty years and it has never once made him do anything." A small pause. "He owns one thing he cares about. It is a terminal on Yeongjong that he built in ten months after nine years of being told it could not be done, and he is seventy-eight, and he has told me what happens to it when he dies."</p>
+<p>"Which is?"</p>
+<p>"It is sold within a year and split three ways, and one of the three is Sang-hoon." Georgij turned his hand over. "He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."</p>
+<hr>
+<p>"You want me to buy a terminal."</p>
+<p>"No, Mistress. I want you to fill it."</p>
+<p>Annie stopped.</p>
+<p>"Say that again."</p>
+<p>"What a terminal is worth is what goes across it, every week, on a schedule that a bank can look at. The concrete is not the number." He kept both hands behind his back. "Yours goes across somebody's, every week, on a schedule, and it has done for eleven years. I would like to move it, and I would like to commit it for ten."</p>
+<p>"Ten years."</p>
+<p>"Ten years, minimum volumes, with a number in it that means something." He did not soften it. "That is the most valuable single thing anybody in this city could hand him, and no part of it is a favour. There is no version of it that does not cost you real money if I have judged the throughput wrong."</p>
+<hr>
+<p>Annie was quiet for a while.</p>
+<p>"And that solves the Tuesday."</p>
+<p>"It solves the Tuesday without anybody buying anything." He said it carefully, because it was the part he had checked twice. "Three heirs do not sit down and divide a terminal with ten years of contracted volume across it. They run it, because it pays them more running than broken. Sang-hoon does not get a third of it, and nobody has to pay him not to want it, because there is nothing there for him to want."</p>
+<p>"He will still take a third of the shares."</p>
+<p>"He will take a third of shares in a business under a contract he cannot alter and did not write." Georgij did not move. "That is a different terminal, and very nearly a different trade."</p>
+<hr>
+<p>"What does it cost me?"</p>
+<p>"I do not know yet, and that is the honest answer." He said it immediately. "The volumes are yours and the rate is his, and he has been setting terminal rates since before I was born. I would like your authority to agree it in the room."</p>
+<p>"How much authority?"</p>
+<p>"More than I expect to use." Georgij said it without any decoration anywhere. "I am telling you that on purpose, because you would find it out afterwards and then it would be a different conversation. I expect to settle near the middle of what a terminal of that size charges. I would like to be able to go to the top of it without telephoning you."</p>
+<p>"Why?"</p>
+<p>"Because he is seventy-eight and he does not do business on Mondays with people who had to ask."</p>
+<hr>
+<p>Annie picked the pen up.</p>
+<p>"You have both," she said. "The bid and the terminal. Build the bid with Mr Chae and do not let him see the reason for it, and put the terminal in front of me when it has a number."</p>
+<p>"Yes, Mistress."</p>
+<p>"And Georgij." She was already reading. "You are going out there to give an old man ten years of my cargo and you are going to enjoy doing it."</p>
+<p>"I am."</p>
+<p>"Then take something with you that he has not asked for," said Annie, "because a man who is enjoying himself gives away the wrong things by accident, and I would rather you gave away the right one on purpose."</p>
+<hr>
+<p>He went down to the east room and got out the file.</p>
+<p>Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have needed an internal approval, and an internal approval has a name at the bottom of it, and not one of the three publishes the name.</p>
+<p>That wall had been standing in front of him since October and it was standing there still.</p>
+<p>Underneath it, on the inside cover, in his own hand, were three dates that had meant nothing to him for three weeks. A Thursday in June. A Wednesday in September. A Monday last month.</p>
+<p>And an account number belonging to a corporate services company in Jung-gu with six employees, which existed so that somebody else did not have to appear on a docket.</p>
+<p>He looked at that for a while.</p>
+<p>Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to say who was behind him. Chairman Woo had said so at a dinner, in passing, as a thing that annoyed him.</p>
+<p>Georgij could not give him a name. He was not going to sit in that office and imply that he could.</p>
+<p>But a man who has been offered for twice in one year has been offered for on two dates. Dates are booked. A car that waits outside a building generates a docket, and a docket goes on an account.</p>
+<p>He put the account number and the three dates on a single sheet of paper and folded it once and put it in his own pocket, where the notebook was.</p>
+<p>It was not a name.</p>
+<p>It was the shape of the door the name walks through, and it had cost Annie nothing at all, and Chairman Woo had not asked for it.</p>
+<p class="top"><a href="#top">&#8593; Inhalt</a></p>
+</article>
+<article class="chapter" id="ch19">
+<div><div class="card"><span class="eyebrow">Lot Fourteen &nbsp;&#183;&nbsp; Chapter 19</span><h1>What happens on the Tuesday</h1></div><div class="meta"><span>Day 48 · Thursday 20 November</span><span>Fassung <b>1.8</b></span><span>3194 Woerter</span></div></div>
+<p>The invitation had been sitting there since the seventh of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.</p>
+<p>Georgij made it into a date at half past eleven, in one telephone call, and was told to come that afternoon and to wear something he did not mind ruining.</p>
+<p>He took a folder with him.</p>
+<hr>
+<p>Yeongjong in November is a flat cold place with the sea on three sides of it and nothing at all to stand behind.</p>
+<p>Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had on, and walked him out along the quay at a speed that would have embarrassed a man of fifty.</p>
+<p>"Ten months," he said. "From that fence to the second crane. Ten. Everybody writes eleven."</p>
+<p>"I have read eleven twice."</p>
+<p>"Both of them had it from the same press office, and the press office had it from a man who was not here." He stopped and pointed with his whole hand, the way old men do. "The concrete went in during a wet March. Do you know what that costs you?"</p>
+<p>"No."</p>
+<p>"Nothing, if you have the right man. Four months, if you have the wrong one." He started walking again. "I had the right one, and he is dead now as well."</p>
+<hr>
+<p>They went out to the end of it.</p>
+<p>Georgij looked at the water and the cranes and the stacks and the long grey shed with the number on it, and understood two things almost at once.</p>
+<p>The first was that it was not very large. Set against what the man was worth it was a small thing, and it had taken ten months and two years of argument and most of a decade of being told no.</p>
+<p>The second was that Chairman Woo was watching him look at it, and had been since the gate.</p>
+<p>Mr Hong had said this would happen. He had said it in a ballroom with a glass in his hand, and had been delighted with himself. The chairman would invite Georgij to Yeongjong, and would then be deeply offended by anything Georgij said about it.</p>
+<p>So there was going to be a sentence, and it was going to have to be true.</p>
+<p>"Well," said Woo.</p>
+<p>"The apron is short on the north side."</p>
+<p>The old man's head came round.</p>
+<p>"It is fourteen metres short," said Georgij. "You built it that way on purpose. The alternative was buying a strip from the port authority in the same year you were arguing with them about the committees, and you took the terminal in ten months and left the argument." He looked at the shed and not at the man. "The argument is still standing there, and it is still fourteen metres, and one day somebody who buys this from your estate will call it a defect and get it cheap."</p>
+<p>Nobody said anything for a moment.</p>
+<p>"Who told you that?"</p>
+<p>"Nobody. It is in the harbour authority's own drawings, which are public, and I looked at them last night because I was coming here today." Georgij turned round. "You asked me what I thought. That is what I thought. The rest of it is a good terminal built by a man who was told for nine years that it could not be done, and you know that already and do not need it from me."</p>
+<p>Chairman Woo looked out at the water.</p>
+<p>"Fourteen metres," he said. "In fifty-one years two people have said that to my face, and the other one was my wife."</p>
+<hr>
+<p>They went into the office at the end of the shed, which had a heater, one desk, and a photograph of a ship on the wall.</p>
+<p>"You want something," said Woo.</p>
+<p>"I do."</p>
+<p>"Say it before the tea comes. Tea makes it polite and then it takes an hour."</p>
+<p>"I want you to stand next to the Kim family." Georgij put the folder on the desk and did not open it. "In public, on paper, and before the end of the year. Your name beside theirs on something ordinary, so that the people who have left them can see it and come back."</p>
+<p>"They are under customs investigation."</p>
+<p>"They are, and the container was not theirs, and I can tell you who put it there and not prove it to you today." He did not slow down. "The cancellations are what is actually killing them. Three last week. Customers do not come back for money. They come back because somebody they trust is standing next to you."</p>
+<p>"That is my own sentence."</p>
+<p>"It is. You said it over soup, and I have used it four times since, twice to my employer." Georgij inclined his head. "I did not tell her it was mine."</p>
+<hr>
+<p>Woo sat down heavily, the way a man does when his back has an opinion.</p>
+<p>"And what do I get for standing in the road?"</p>
+<p>"Her cargo across this quay."</p>
+<p>The old man did not move at all for a second and a half, which from him was a great deal.</p>
+<p>Then he said it the way a man reads out a delivery note, and it took him about twenty seconds.</p>
+<p>"Seven years. Minimum volumes in tonnes and not in money, because I have lived through two currency scares and you have not." He put one finger down on the desk. "And it attaches to this quay and not to me. When I am dead it is still here, and nobody sells it away from the concrete."</p>
+<p>Georgij opened the folder and put a contract on the desk in front of him.</p>
+<p>"Signed this morning."</p>
+<p>"By her."</p>
+<p>"By her. I have nothing to sign with, and that is not modesty. It is the arrangement."</p>
+<hr>
+<p>Chairman Woo did not pick the paper up straight away.</p>
+<p>"You had it written."</p>
+<p>"I have three of them with me." Georgij said it without any decoration anywhere. "That is the one you have just asked for."</p>
+<p>"And if I had asked for something else?"</p>
+<p>"Then you would have had one of the other two. And if you had asked for a fourth thing, I would have written it on this desk and she would have signed it in the morning."</p>
+<hr>
+<p>Then he picked it up. He read it quickly and only in the places that matter, which is what four hundred of them teach you.</p>
+<p>"The rate is blank."</p>
+<p>"The rate is yours. You have been setting terminal rates since before I was born, and I would be pretending if I put a number in front of you."</p>
+<p>"There is always a ceiling."</p>
+<p>"There is one." Georgij did not look away. "I am not going to tell you where it is, because that would be the same as telling you the number. Write something above it and you will hear about it before the pen is down."</p>
+<p>"That is a strange way to negotiate."</p>
+<p>"It is the only way available to me."</p>
+<hr>
+<p>Woo put the paper down and looked at him.</p>
+<p>"Can you fill it?"</p>
+<p>There it was, and it had come in four words, and Georgij had known since the car that it would.</p>
+<p>"Not with hers alone."</p>
+<p>"Say the number."</p>
+<p>"At the volumes she moves now she is about a third of your book, and a third is not a terminal." He said it flatly. "She is scheduled and she is regular and she has been for eleven years, which is worth more to you than the tonnage is, because it is the part a bank will look at. But she does not fill this quay."</p>
+<p>"And with the rest of it?"</p>
+<p>"With her customers and the people who supply her, it is full inside two years."</p>
+<p>Chairman Woo did not say anything.</p>
+<p>He picked the paper back up and read a clause in the middle of it that he had already read, and did not appear to be reading it.</p>
+<hr>
+<p>"A third of my book, contracted for seven years," he said. "Do you know what that does?"</p>
+<p>"It makes the place bankable."</p>
+<p>"It makes the place <em>lendable</em>." He put two fingers on the desk. "There is a difference and it is the whole of my life. A terminal with a good year is a thing a bank will look at kindly and lend against in a good year. A terminal with a third of its book under contract for seven is a thing a bank lends against in a bad one. They do it at a rate they do not have to think about, and they do not ask me who else is in it."</p>
+<p>Georgij said nothing at all.</p>
+<p>"Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund I could not fund it without. It came out of a chain of law firms in Singapore. You told me that yourself over soup and I did not blink at you, and you noticed that I did not, and you have been polite about it for three weeks."</p>
+<p>"I have."</p>
+<p>"I have never had a name and I have never asked for one, and a man does not ask when the money is already in the concrete." He set the paper down. "With this I do not need the name. I can pay them out on a Thursday with somebody else's money and never find out who I was bowing to."</p>
+<hr>
+<p>Georgij had worked that out on the expressway and had decided not to say it.</p>
+<p>He had decided it because the old man was going to get there in about ninety seconds, and because it was not Georgij's to hand him. There is a difference between a man who is given a good reason and a man who finds one.</p>
+<p>"That took you less time than it took me," he said.</p>
+<p>"It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen."</p>
+<hr>
+<p>He wrote the rate in the margin first, the way men of that generation do, and then in the box.</p>
+<p>Georgij looked at it.</p>
+<p>"That is inside," he said.</p>
+<p>"Of course it is inside. I am not going to be the reason a boy has to telephone a woman from a shed." Woo signed underneath it, and dated it, and pushed it back. "Two conditions and neither of them is money."</p>
+<p>"Go on."</p>
+<p>"Get me a room with that family in it and somebody who can actually sign. Not the ones who talk. Not the nephew." He held up one finger. "And no photograph with a politician in it. I have spent my whole life not being in those and I am not starting at seventy-eight."</p>
+<p>"Yes, Chairman."</p>
+<p>"Then it is done, and the tea is coming, and you have got what you came for in under twenty minutes, which is the only compliment you are getting today."</p>
+<hr>
+<p>The tea came, and it was terrible, and Woo drank two cups of it.</p>
+<p>Georgij took the folded sheet out of his own pocket and put it on the desk.</p>
+<p>"What is that?"</p>
+<p>"Something you did not ask for."</p>
+<p>"Then I probably do not want it."</p>
+<p>"Probably not," said Georgij. "You told me at that dinner that twice this year somebody has tried to buy this terminal and would not say who was behind him. That has been sitting in my head since October, because I have a company with no name behind it and I have been walking into it from the other side."</p>
+<p>Chairman Woo unfolded the sheet.</p>
+<p>There was an account number on it, and the name of a corporate services company in Jung-gu with six employees, and three dates.</p>
+<hr>
+<p>"That company exists so that other companies do not appear on dockets," said Georgij. "Behind it there will be another one, and behind that a third, and I am not going to get to the end of it that way. I have tried since October."</p>
+<p>"And the dates."</p>
+<p>"Those are the four evenings the same account block-booked a car in the last fourteen months, less the one I already understand." He sat back and let the man read. "Three evenings happened somewhere. I wrote them on the inside of a file in October because at some point I was going to be sitting at a table with somebody who had been alive on all three of them."</p>
+<p>The heater went on making its noise.</p>
+<p>Chairman Woo looked at the sheet for a long time, and then he put one finger on the second line.</p>
+<p>"The seventeenth of September was a Wednesday," he said.</p>
+<p>"It was."</p>
+<p>"On the seventeenth of September two men came here and sat where you are sitting, and asked me what I would take for it, and would not tell me who they were asking for. I remember it because it was the day the second crane was down and I was in a filthy temper and I threw them out in about four minutes."</p>
+<p>He put the sheet down on the desk and squared it with the edge, which was the first fussy thing he had done all afternoon.</p>
+<p>"That is the same people."</p>
+<p>"It is the same account," said Georgij. "More than that would be a guess."</p>
+<p>"It is the same people."</p>
+<hr>
+<p>They sat with that.</p>
+<p>"You have given me something," said Chairman Woo eventually. "And you did it after I signed, which means you were not paying for the signature."</p>
+<p>"No."</p>
+<p>"Why then?"</p>
+<p>"Because you told me the truth about a dead man and a wet March and a fund in Singapore, and none of it was work for you." Georgij did not look away. "And because I would like you to win this. That is not a strategy, Chairman. It is just true, and I have had very little use for it."</p>
+<hr>
+<p>Chairman Woo poured the last of the tea.</p>
+<p>"Now," he said. "The part you are not going to enjoy."</p>
+<p>"Chairman."</p>
+<p>"Sit down. It costs you nothing and it will cost you a great deal later." He set the pot back. "You said her customers and the people who supply her. That is how it fills. Say the mechanism out loud."</p>
+<p>Georgij did not answer straight away.</p>
+<p>"She asks them," he said.</p>
+<p>"She asks them." Woo repeated it without any weight anywhere. "And what happens to a man in this trade who is asked by her and says no. Not next year. In the spring, when he needs a box on a sailing that is full."</p>
+<p>The room went on being a room.</p>
+<p>"He waits," said Georgij.</p>
+<p>"He waits." The old man sat back. "What does she take from the Kims? Not the lorries. Say it."</p>
+<p>"Shares, security and a veto over routes."</p>
+<p>"A veto over routes decides which box goes on which sailing when a sailing is full, and on those lanes it is full nine months of the year. She never has to refuse anybody. She never has to explain why a man's cargo went on Thursday instead of Tuesday. She is simply the group whose boxes are already loaded, every time, for as long as she holds it."</p>
+<hr>
+<p>"You came out here to save a family," said Chairman Woo, "so that the woman who owns you ends up with her hand on the throat of everybody else in this trade."</p>
+<p>"Yes."</p>
+<p>"Including me. I am in that trade. I have been in it since before your parents met and I am in it this afternoon, and I have just signed seven years of it." He tapped the contract once with two fingers. "And I would like you to notice that I signed it anyway."</p>
+<p>"I noticed."</p>
+<p>"Say why."</p>
+<p>"Because the other thing is certain and this one is only likely," said Georgij. "When you die, a third of this belongs to Park Sang-hoon, and there is nothing you can do about it. What I have brought you is a worse man with a longer arm, and you can see her, and you cannot see him."</p>
+<p>"That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whether you understood it or whether you had simply not looked."</p>
+<p>"I had looked at every step of it separately." He was looking at the photograph of the ship. "I had not laid them in a row and read them from one end to the other. I have been reading from the middle."</p>
+<p>"Everybody does. Nobody builds a wall. Everybody lays one brick and goes home."</p>
+<hr>
+<p>"Then why tell me at all?"</p>
+<p>"Because in about a year a man in this trade will find that his boxes keep missing sailings. He will come and ask you to have a word with her, because you are the one he can reach." Woo pushed the cup across. "And while he is asking, he will tell you what you built. Better from me, in a cold office, on an afternoon you got what you came for."</p>
+<p>Georgij looked at the old man for a moment.</p>
+<p>Then he smiled at him, and meant it.</p>
+<p>It was not built for the room and it was not aimed at anything, and there was nothing at the end of it that he wanted. He had come out here for one thing and had it, signed, before the tea. The rest was a man of seventy-eight spending his own afternoon on a stranger's education.</p>
+<p>"Thank you, Chairman."</p>
+<p>"Don't." Woo was already standing up. "I have given you a bad afternoon and you have given me a Wednesday in September, and I am not certain which of us came off better. Walk back with me and tell me what else is wrong with my terminal, and be quick about it. It gets dark at five and I am not as steady on that quay as I was in March."</p>
+<hr>
+<p>They walked back along the water.</p>
+<p>Georgij told him about the drainage on the east side of the shed, which was two things. Chairman Woo argued with him about both of them the whole way to the gate, and enjoyed it more than anything else that had happened that day.</p>
+<p>At the gate he stopped.</p>
+<p>"The room with the family," he said. "Before the end of the year, and not in a hotel. Somebody's house, and not yours."</p>
+<p>"No. Not mine."</p>
+<p>"I have just put seven years of that quay on cargo that moves under their permits." He had one hand on the gate and did not take it off. "Before my name goes beside theirs as well, I would like to see who is left in that family and whether one of them can sign his own name."</p>
+<p>"Yes, Chairman."</p>
+<p>"You have not got a house either." Woo looked at him for slightly too long, in a way that was not unkind and was not pity and did not have a name. "Then find somebody who has."</p>
+<p class="top"><a href="#top">&#8593; Inhalt</a></p>
+</article>
+</div>

@@ -200,6 +200,9 @@ nachrechnen, und `check.py` tut das automatisch.
   nie essen sehen. **Und er gibt Georgij den Namen, ungefragt** - Choi Dae-ho,
   neunundfuenfzig, dritter von Hongs drei Namen am 25. Oktober
   (Band 2, Kapitel 26)
+- Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
+  gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
+  die vierte Zeile ist einer davon** (Band 2, Kapitel 27)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1340,6 +1343,40 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Georgij bleibt danach zwanzig Minuten stehen, weil Sofortgehen die Unterschrift waere**, und schreibt im Wagen eine Zeile, und nicht den Namen: ***Hong. 25 Oct. Third of three. Ask who put him at that table.***
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
+
+- **Band 2, Kapitel 27** *What he collects* (v1.0) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+
+  **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
+
+  **Was auf ihrem Gesicht geschieht, ist eine Reihenfolge und sonst nichts:** zwei Sekunden nichts, dann schreibt sie das Wort zu Ende, in dem sie war, dann legt sie den Stift hin.
+
+  **Ihr Urteil ueber Sang-hoon steht in einem Satz und sie schiebt es weg:** *"Then he is a better man than I have ever been prepared to say, and I am going to have to sit with that, and not tonight."*
+
+  **Und dann faengt sie sich bei einer Gewohnheitsluege und raeumt sie sofort ab**, was sie noch nie getan hat: *"I have known him since I was twenty-four," she said, and then stopped. "That is not true and I have said it for so long that it comes out by itself. I was fourteen."* **Sie hat mit vierzehn gemerkt, dass er nicht isst, und es mit dreissig verstanden.**
+
+  **Die drei Gruende fuers Zurueckhalten waren alle wahr und keiner war der Grund.** Dezember, Maerz, der 27. April. **"And none of them is why."**
+
+  **Der echte Grund ist der Satz, um den dieses Buch gebaut ist: "He collects."** Er kauft Menschen, in jenem Haus und in zwei anderen, seit sehr langer Zeit, **und sie weiss nicht wie viele und hat es nie wissen wollen.**
+
+  **Und damit steht die Erklaerung fuer die Anomalie aus Kapitel 21 und 25:** *"An absence in a ledger is a question. A payment in a ledger is a Tuesday."*
+
+  **Was unter Georgijs Regungslosigkeit passiert, sagt nur die Erzaehlstimme, und Annie sieht es trotzdem.** Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste davon ist, **was Erwachsene mit Kindern vorhaben.** *"Annie watched him not move and did not mistake it for one second."*
+
+  **Sie weiss es seit dem 2. Maerz - seit er ihr die vier Fundstellen selbst hingelegt hat.** *"I did the arithmetic on the other two while you were still talking, and I did not say one word about it."* **Sechsundachtzig Tage.**
+
+  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** Und: *"you have said that sentence about yourself in this house ... and every time you have said it, it has been a description of a man who is safe. I did not want you to find out that it is also a description of somebody who is not."*
+
+  **Sie entschuldigt sich nicht und sagt auch warum nicht:** *"I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable. I am telling you what I did. You may do whatever you like with it."*
+
+  **Und Georgijs zwei Saetze sind die genaueste Sache, die er ihr je gesagt hat:** *"The first is that you were wrong and it does not matter now."* Und: **"this is the first time you have ever done anything for a reason that was not exactly what you said it was. And you did it about this. Out of everything in this year, you did it about this."** - *"Yes."*
+
+  **Und auf die Frage, was er tun wird, kommt nicht der Gegner, sondern der Mensch.** *"Find the person."* - *"That is not what I asked."* - **"It is what I am going to do. The rest of it is going to happen to him and it is going to be complete ... But that is not what I am going to do first and it is not what any of this is for."**
+
+  **Der erste Faden faellt ihm mitten in der Stunde ein und er sagt nichts davon.** Was im Fruehjahr aus einem Buch genommen wurde, stand vorher darin: vier oder fuenf Monate lang, mit Fundstelle und Saison, und **es war gewoehnlich, solange es dort stand.** Byun hat es geschrieben und wieder herausgenommen. Hwang hat es nie gesehen. **Und eine Frau hinter einer Glasscheibe hat dreiundzwanzig Jahre lang jede Zeile gelesen, die dieses Haus geschrieben hat** - und ist Mitte Mai zum letzten Mal aus dem Gebaeude gegangen.
+
+  **Und der Weg zu ihr geht ueber den Mann, den er am 4. Mai auseinandergenommen hat:** *"He does not know where she lives and he has never asked, and there is exactly one person in this country who would have written it down. Mr Hwang keeps everything."*
+
+  **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
 ---
 

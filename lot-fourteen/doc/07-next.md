@@ -690,8 +690,25 @@ Fassung.**
   **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
   etwas.**
 
-- **DER ABEND NACH DEM STAPELLAUF. Faellig sofort, gesetzt in Band 2,
-  Kapitel 26.** Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
+- **DIE PERSON AUF DER VIERTEN ZEILE. Das ist ab Band 2, Kapitel 27 das Ziel des
+  Buches, und es geht dem Gegner vor.** *"Find the person."* Vor vier Jahren an
+  jenem Haus gekauft, ohne Rechnung hinausgegangen, im Fruehjahr aus dem Buch
+  genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
+  die Georgij dreimal ueber sich selbst benutzt hat.**
+
+  **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
+  Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.
+  **Sie ist Mitte Mai aus dem Gebaeude gegangen und Georgij weiss nicht, wo sie
+  wohnt** - und der Einzige, der es aufgeschrieben haben wird, ist **Mr Hwang.**
+  Der Mann, den er am 4. Mai auseinandergenommen hat.
+
+- **Choi kauft Menschen. Gesetzt in Kapitel 27, aus Annies Mund, nach
+  sechsundachtzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
+  viele, weiss sie nicht und hat es nie wissen wollen.** Damit ist auch geklaert,
+  warum er eine Gebuehr zahlte, die er nicht schuldete.
+
+- **DER ABEND NACH DEM STAPELLAUF: ERLEDIGT in Band 2, Kapitel 27.** Der Eintrag
+  hier lautete: Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
   **Annie haelt ihn seit Dezember zurueck und hat am 27. April den echten Grund
   genannt: der Name macht ihn lesbar.** Jetzt hat er ihn von jemandem, den sie
   nicht kontrolliert. **Die Szene muss kommen und darf nicht uebersprungen

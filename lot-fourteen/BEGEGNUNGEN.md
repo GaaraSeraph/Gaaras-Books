@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 476 | 50 (b1ch01-b2ch24) | 1 | 74 |
+| Annie | 487 | 51 (b1ch01-b2ch27) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Park Sang-hoon | 126 | 24 (b1ch10-b2ch26) | 1 | 74 |
+| Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
@@ -32,7 +32,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 28 | 4 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mr Hwang | 25 | 4 (b2ch07-b2ch24) | 3 | 26 |
+| Mr Hwang | 27 | 5 (b2ch07-b2ch27) | 3 | 38 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
 | Mr Ku | 21 | 15 (b1ch05-b2ch26) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
@@ -40,8 +40,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Choi Dae-ho | 7 | 4 (b1ch07-b2ch27) | 22 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
-| Choi Dae-ho | 6 | 3 (b1ch07-b2ch26) | 22 | 56 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-476 Nennungen in 50 Kapiteln.
+487 Nennungen in 51 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -538,6 +538,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:266 | He went down at about eight and told Annie all of it in order, and she listened to the w.. |
 | 26 | b2ch24:276 | Annie looked at the window for a moment. |
 | 26 | b2ch24:286 | "Because after Thursday one of two things will be true," said Annie. "Either you have fo.. |
+| 38 | b2ch27:20 | Annie was at the desk with a pen in her hand and she did not put it down. |
+| 38 | b2ch27:40 | "Then he is a better man than I have ever been prepared to say," said Annie, "and I am g.. |
+| 38 | b2ch27:60 | Annie stood at the window with the curtain not drawn and the drive dark behind the glass. |
+| 38 | b2ch27:78 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
+| 38 | b2ch27:104 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
+| 38 | b2ch27:144 | Annie watched him not move and did not mistake it for one second. |
+| 38 | b2ch27:164 | "Eighty-six days," said Annie. |
+| 38 | b2ch27:182 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
+| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:236 | Annie stood in the middle of her own room. |
+| 38 | b2ch27:262 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -658,6 +669,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:244` (Tag 26) - one, twenty
 - `b2ch24:266` (Tag 26) - eight
 - `b2ch24:286` (Tag 26) - one, two
+- `b2ch27:104` (Tag 38) - one, twenty
+- `b2ch27:144` (Tag 38) - one
+- `b2ch27:164` (Tag 38) - eighty-six
+- `b2ch27:182` (Tag 38) - four
+- `b2ch27:200` (Tag 38) - eighty-six
+- `b2ch27:262` (Tag 38) - eighty-six, four
 
 ---
 
@@ -1142,7 +1159,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-126 Nennungen in 24 Kapiteln.
+128 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1272,6 +1289,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:252 | "What are you going to do," said Sang-hoon. |
 | 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
 | 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
+| 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
+| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1327,6 +1346,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:84` (Tag 38) - four
 - `b2ch26:192` (Tag 38) - four
 - `b2ch26:272` (Tag 38) - four
+- `b2ch27:200` (Tag 38) - eighty-six
 
 ---
 
@@ -2058,7 +2078,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-25 Nennungen in 4 Kapiteln.
+27 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2087,6 +2107,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:318 | "Mr Hwang." |
 | 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
+| 38 | b2ch27:302 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:316 | Mr Hwang keeps everything. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2102,6 +2124,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:256` (Tag 15) - twenty
 - `b2ch21:288` (Tag 15) - fifteen
 - `b2ch21:308` (Tag 15) - five, four, twenty
+- `b2ch27:302` (Tag 38) - four
 
 ---
 
@@ -2377,6 +2400,28 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Choi Dae-ho
+
+7 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+
+---
+
 ## Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -2395,27 +2440,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch03:150` (Tag 1) - forty
 - `b1ch05:128` (Tag 4) - one, three, two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-## Choi Dae-ho
-
-6 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
 
 ---
 
