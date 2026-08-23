@@ -2,7 +2,7 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 21 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
 Alle 4 Dokumente am Stueck. 45.205 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
