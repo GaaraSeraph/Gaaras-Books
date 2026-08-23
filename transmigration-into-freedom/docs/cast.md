@@ -239,6 +239,26 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
+Runa, button seller (ch22)
+- Horn, bone and one tray of brass, on the stall beside where he sets up.
+  Listens to three hours of him working and never moves the stall.
+- "You are going to be a problem." And then, on his non-offer: "It is an offer
+  with the work moved onto me." She is the first person in this world to take
+  him apart in one sentence without raising her voice.
+- SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
+  again, so if anything happens it is hers to start, same as Sivert and Ylva.
+
+Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
+- Will not deal with Ylva, and the reason is not her missing touch. THE LAST MAN
+  WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF, AND RULF PAID FOR IT.
+- So the obstacle is moral and not commercial. He does not think they will fail.
+  He thinks they will succeed, and he does not want to be the man who paid for a
+  second one. Still entirely offstage as of ch22.
+
+The warden of the Staple (ch22)
+- Not glad to see anybody. Writes badly and gets his spelling corrected by a man
+  who learned to read four days ago.
+
 Ylva, ch21: THE LOFT, and she refuses, and the refusal is hers and not about
 them. One room, three people, straw. Gaara asks once. She notes that he asked
 her once already, in a tunnel, and he agrees it was a worse offer made by the

@@ -27,7 +27,8 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. (planned) Ordulf, the Staple, and the lord's man
+22. Two Coins Short
+23. (planned) Ordulf, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1007,6 +1008,60 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+Hades, and the first money he ever earned here (ch22)
+- THE ENGINE IS TWO COINS. The Staple fee is a goat, eleven coins. After the
+  Roll he has nine. A man who ran thirty-nine companies has to earn a day and a
+  half of a labourer's wages before a door shuts, and he says it is the most
+  frightened he has been since the gate, and he is not entirely joking.
+- HE DOES NOT LOOK FOR A CUSTOMER, HE LOOKS FOR AN ARGUMENT. Two carters, a
+  load of hides, a bargain made in a yard in the spring that neither of them
+  remembers the same way. "Neither of you is lying," said loudly, gets him the
+  street. Both honest, both furious, and neither can ever find out who is right.
+  HE SPLITS IT AND NEITHER OF THEM LIKES IT, which he tells them is the entire
+  point of a fair one.
+- AND THEN HE SELLS THE ACTUAL PRODUCT, which is not literacy. "The next one
+  you make, I will write down." Half a coin, a quarter of an hour, both parties
+  present, terms in their own words. THE THING HE IS SELLING IS THAT A WRITTEN
+  BARGAIN ENDS AN ARGUMENT BEFORE IT STARTS, and he can price it because he
+  knows what arguments cost. "Nobody does that." "I know. That is why it is
+  only half a coin."
+  THIS IS THE PUBLISHING PROGRAMME'S FIRST REVENUE and nobody calls it that.
+- FOUR COINS BEFORE MIDDAY, and the fourth is the panel: a woman pays half a
+  coin twice to be told whether a man is worth his wage. Six seconds, a Level 3,
+  and a way of standing. "He will work perfectly well and he will never once do
+  anything you have not told him to do." "How long have you been in this town."
+  "Since yesterday afternoon."
+- THE MARK IS THE CHAPTER'S REAL SCENE. He has named thirty-nine companies for
+  other people and sat through afternoons of men arguing about the angle of a
+  letter, and called it theatre out loud to people who could have fired him.
+  With the chalk in his hand it is not theatre.
+  HE DRAWS TWO STROKES, ONE OVER THE OTHER. A gate half up. "That is not much
+  of a mark." "No. It is eighteen inches."
+  He gets there by way of the mark on the drum he cannot read and a mason's mark
+  on a wall that stopped in the middle of a good week. THE THREE KINDS OF MARK
+  MEET ON ONE SLATE and nobody says so.
+- HADES GOES INTO THE BOOK. Asked what it means: "A god of a dead country. He
+  kept everything that was under the ground." "Is that supposed to mean
+  something." "Yes, and not to you, and I mean no offence by that whatsoever."
+  Rule one holds and the warden is no wiser.
+  AND HE CORRECTS THE WARDEN'S SPELLING, which is ch18 paying off a second time
+  in two chapters, in one clause, without comment.
+- RUNA, THE BUTTON SELLER, AND THE ONLY PASS HE MAKES IN THE WOLD. Everybody
+  else in that town is an institution or a supplier and he knows better. What he
+  does is name his location and refuse to ask: "I am telling you where I am and
+  not asking you for anything, because I have nine coins and no standing in this
+  town and I would like the asking to be somebody else's turn."
+  SHE SEES THROUGH IT IMMEDIATELY. "It is an offer with the work moved onto
+  me." "Yes. And you saw that in under a second, and almost nobody does."
+  She does not answer, and she does not move the stall. LEAVE IT THERE.
+- AND THE CHAPTER ENDS ON ORDULF REFUSING, offstage, through Ylva. Not because
+  she has no touch. Because the last man who brought him metal out of that city
+  was Rulf, AND RULF PAID FOR IT.
+  GAARA READS IT CORRECTLY AND IT IS THE BEST LINE IN THE CHAPTER: "He does not
+  think we will fail. He thinks we will succeed. And he does not want to be the
+  man who paid for a second one." That is the whole obstacle for ch23 and it is
+  a moral one rather than a commercial one.
 
 The Wold, and the only book there is (ch21)
 - THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.

@@ -57,7 +57,8 @@ CANON_NUMBERS = [
     # matcht: "four hundred and forty coins" und "eighty-eight coins" sind
     # richtig und duerfen nicht als "forty" bzw. "eight" gemeldet werden.
     (re.compile(rf"(?<!and )(?<!-)\b({NUMWORD})\s+coins\b", re.I),
-     {"eleven", "11", "two", "2", "forty-four", "44", "four", "4"},
+     {"eleven", "11", "two", "2", "forty-four", "44", "four", "4",
+      "nine", "9"},   # neun = elf minus die Roll-Gebuehr (ch22)
      "Muenzzahlen: 11 im Beutel, 2 Roll-Gebuehr, 44 eine Klinge"),
     (re.compile(r"Marit[^.\n]{0,40}?\b(?:Level\s+|at\s+)(\d+)\b", re.I), {"6"}, "Marit ist Level 6"),
     # Preisleiter, ch20 auf der Strasse in den Wold. Recheneinheit ist die

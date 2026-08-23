@@ -3,6 +3,40 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 22, and who he actually propositions in a town ===
+Author asked who else he tries to sleep with on the way. THE HONEST ANSWER IS
+ALMOST NOBODY, AND THAT IS CHARACTERISATION RATHER THAN RESTRAINT. In the Wold
+every single person he meets is an institution or a supplier: Signe writes his
+name, Egil vouches for him, Ordulf holds his metal deal, the warden holds his
+fee. A man with nine coins and no standing does not proposition the people who
+hold his paperwork, and he knows it in his bones.
+SO THE ONE PASS GOES TO THE ONE PERSON WITH NO POWER OVER HIM: Runa, who sells
+buttons and has listened to him work for three hours without moving her stall.
+AND IT IS NOT AN ASK, because ch21 established he does not ask twice and the
+book's pattern is now that people come to him. He states a location and refuses
+to ask, and she names the manoeuvre out loud in one sentence, and he concedes.
+She does not answer. Left open on purpose. Three for three becomes four.
+THE CHAPTER'S ENGINE IS TWO COINS, which is the smallest stake in the book and
+one of the best. A man who ran thirty-nine companies has to earn a day and a
+half of labourer's wages before a door shuts.
+AND IT PUTS THE PUBLISHING PROGRAMME'S FIRST REVENUE ON THE PAGE without anybody
+naming it. He does not sell literacy. He sells the fact that a written bargain
+ends an argument before it starts, and he can price it because he knows what
+arguments cost. Half a coin.
+THE MARK SCENE IS WHY THE CHAPTER EXISTS. Thirty-nine companies named for other
+people, whole afternoons of men arguing about the angle of a letter, all of it
+dismissed as theatre out loud. With the chalk in his own hand it is not theatre,
+and what he draws is TWO STROKES, ONE OVER THE OTHER, A GATE HALF UP. "That is
+not much of a mark." "No. It is eighteen inches."
+ORDULF REFUSES OFFSTAGE and the refusal is moral, not commercial, which is a far
+better wall than the guild one I had invented and the author removed. Rulf paid
+for that metal with his life and Ordulf will not be the man who buys a second
+one. That is ch23.
+ARITHMETIC CHECKED, because this book counts: eleven into town, two to the Roll,
+nine at first light, four earned by midday, eleven to the Staple, two left and
+both already owed to a loft and a bowl.
+
+
 === The loft, and Ylva says no ===
 Author asked for the invitation and handed me the accept-or-refuse decision.
 THE RULE HAD TO BE HANDLED FIRST. He asked her once already, in ch16, and his

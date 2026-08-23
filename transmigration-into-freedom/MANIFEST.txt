@@ -21,6 +21,7 @@ ch18    2071 Woerter  ch18-somebody-has-to-hold-him.md
 ch19    2239 Woerter  ch19-a-name-for-the-knife.md
 ch20    2692 Woerter  ch20-two-arms.md
 ch21    2961 Woerter  ch21-the-only-book-there-is.md
+ch22    1774 Woerter  ch22-two-coins-short.md
 
-Gesamt: 21 Kapitel, 46845 Woerter
+Gesamt: 22 Kapitel, 48619 Woerter
 Handbuch: 4 Dokumente

@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 21 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 45.987 Woerter.
+Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 47.419 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -255,6 +255,26 @@ The six (ch14, blooded ch15)
   all week.
 
 THE WOLD
+
+Runa, button seller (ch22)
+- Horn, bone and one tray of brass, on the stall beside where he sets up.
+  Listens to three hours of him working and never moves the stall.
+- "You are going to be a problem." And then, on his non-offer: "It is an offer
+  with the work moved onto me." She is the first person in this world to take
+  him apart in one sentence without raising her voice.
+- SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
+  again, so if anything happens it is hers to start, same as Sivert and Ylva.
+
+Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
+- Will not deal with Ylva, and the reason is not her missing touch. THE LAST MAN
+  WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF, AND RULF PAID FOR IT.
+- So the obstacle is moral and not commercial. He does not think they will fail.
+  He thinks they will succeed, and he does not want to be the man who paid for a
+  second one. Still entirely offstage as of ch22.
+
+The warden of the Staple (ch22)
+- Not glad to see anybody. Writes badly and gets his spelling corrected by a man
+  who learned to read four days ago.
 
 Ylva, ch21: THE LOFT, and she refuses, and the refusal is hers and not about
 them. One room, three people, straw. Gaara asks once. She notes that he asked
@@ -525,6 +545,12 @@ is real: the grind is owed and the reader can feel it being owed. What ch21
 gives instead is the SCALE, which is a system revelation rather than a system
 gain, and it does the work of a level-up without paying one.
 
+Chapter 22: no mechanical change, FIFTH CHAPTER RUNNING, and the debt is now
+the largest structural problem in the book. Nothing killed since ch17. Six
+points still banked and he has not spent one since ch12. The Wold is paying in
+money, institutions and names instead, and that has worked for two chapters, but
+ch23 or ch24 has to put him back in front of something that can hurt him.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -637,6 +663,40 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Chapter 22, and who he actually propositions in a town ===
+Author asked who else he tries to sleep with on the way. THE HONEST ANSWER IS
+ALMOST NOBODY, AND THAT IS CHARACTERISATION RATHER THAN RESTRAINT. In the Wold
+every single person he meets is an institution or a supplier: Signe writes his
+name, Egil vouches for him, Ordulf holds his metal deal, the warden holds his
+fee. A man with nine coins and no standing does not proposition the people who
+hold his paperwork, and he knows it in his bones.
+SO THE ONE PASS GOES TO THE ONE PERSON WITH NO POWER OVER HIM: Runa, who sells
+buttons and has listened to him work for three hours without moving her stall.
+AND IT IS NOT AN ASK, because ch21 established he does not ask twice and the
+book's pattern is now that people come to him. He states a location and refuses
+to ask, and she names the manoeuvre out loud in one sentence, and he concedes.
+She does not answer. Left open on purpose. Three for three becomes four.
+THE CHAPTER'S ENGINE IS TWO COINS, which is the smallest stake in the book and
+one of the best. A man who ran thirty-nine companies has to earn a day and a
+half of labourer's wages before a door shuts.
+AND IT PUTS THE PUBLISHING PROGRAMME'S FIRST REVENUE ON THE PAGE without anybody
+naming it. He does not sell literacy. He sells the fact that a written bargain
+ends an argument before it starts, and he can price it because he knows what
+arguments cost. Half a coin.
+THE MARK SCENE IS WHY THE CHAPTER EXISTS. Thirty-nine companies named for other
+people, whole afternoons of men arguing about the angle of a letter, all of it
+dismissed as theatre out loud. With the chalk in his own hand it is not theatre,
+and what he draws is TWO STROKES, ONE OVER THE OTHER, A GATE HALF UP. "That is
+not much of a mark." "No. It is eighteen inches."
+ORDULF REFUSES OFFSTAGE and the refusal is moral, not commercial, which is a far
+better wall than the guild one I had invented and the author removed. Rulf paid
+for that metal with his life and Ordulf will not be the man who buys a second
+one. That is ch23.
+ARITHMETIC CHECKED, because this book counts: eleven into town, two to the Roll,
+nine at first light, four earned by midday, eleven to the Staple, two left and
+both already owed to a loft and a bowl.
 
 
 === The loft, and Ylva says no ===
@@ -1875,7 +1935,8 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. (planned) Ordulf, the Staple, and the lord's man
+22. Two Coins Short
+23. (planned) Ordulf, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -2855,6 +2916,60 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+Hades, and the first money he ever earned here (ch22)
+- THE ENGINE IS TWO COINS. The Staple fee is a goat, eleven coins. After the
+  Roll he has nine. A man who ran thirty-nine companies has to earn a day and a
+  half of a labourer's wages before a door shuts, and he says it is the most
+  frightened he has been since the gate, and he is not entirely joking.
+- HE DOES NOT LOOK FOR A CUSTOMER, HE LOOKS FOR AN ARGUMENT. Two carters, a
+  load of hides, a bargain made in a yard in the spring that neither of them
+  remembers the same way. "Neither of you is lying," said loudly, gets him the
+  street. Both honest, both furious, and neither can ever find out who is right.
+  HE SPLITS IT AND NEITHER OF THEM LIKES IT, which he tells them is the entire
+  point of a fair one.
+- AND THEN HE SELLS THE ACTUAL PRODUCT, which is not literacy. "The next one
+  you make, I will write down." Half a coin, a quarter of an hour, both parties
+  present, terms in their own words. THE THING HE IS SELLING IS THAT A WRITTEN
+  BARGAIN ENDS AN ARGUMENT BEFORE IT STARTS, and he can price it because he
+  knows what arguments cost. "Nobody does that." "I know. That is why it is
+  only half a coin."
+  THIS IS THE PUBLISHING PROGRAMME'S FIRST REVENUE and nobody calls it that.
+- FOUR COINS BEFORE MIDDAY, and the fourth is the panel: a woman pays half a
+  coin twice to be told whether a man is worth his wage. Six seconds, a Level 3,
+  and a way of standing. "He will work perfectly well and he will never once do
+  anything you have not told him to do." "How long have you been in this town."
+  "Since yesterday afternoon."
+- THE MARK IS THE CHAPTER'S REAL SCENE. He has named thirty-nine companies for
+  other people and sat through afternoons of men arguing about the angle of a
+  letter, and called it theatre out loud to people who could have fired him.
+  With the chalk in his hand it is not theatre.
+  HE DRAWS TWO STROKES, ONE OVER THE OTHER. A gate half up. "That is not much
+  of a mark." "No. It is eighteen inches."
+  He gets there by way of the mark on the drum he cannot read and a mason's mark
+  on a wall that stopped in the middle of a good week. THE THREE KINDS OF MARK
+  MEET ON ONE SLATE and nobody says so.
+- HADES GOES INTO THE BOOK. Asked what it means: "A god of a dead country. He
+  kept everything that was under the ground." "Is that supposed to mean
+  something." "Yes, and not to you, and I mean no offence by that whatsoever."
+  Rule one holds and the warden is no wiser.
+  AND HE CORRECTS THE WARDEN'S SPELLING, which is ch18 paying off a second time
+  in two chapters, in one clause, without comment.
+- RUNA, THE BUTTON SELLER, AND THE ONLY PASS HE MAKES IN THE WOLD. Everybody
+  else in that town is an institution or a supplier and he knows better. What he
+  does is name his location and refuse to ask: "I am telling you where I am and
+  not asking you for anything, because I have nine coins and no standing in this
+  town and I would like the asking to be somebody else's turn."
+  SHE SEES THROUGH IT IMMEDIATELY. "It is an offer with the work moved onto
+  me." "Yes. And you saw that in under a second, and almost nobody does."
+  She does not answer, and she does not move the stall. LEAVE IT THERE.
+- AND THE CHAPTER ENDS ON ORDULF REFUSING, offstage, through Ylva. Not because
+  she has no touch. Because the last man who brought him metal out of that city
+  was Rulf, AND RULF PAID FOR IT.
+  GAARA READS IT CORRECTLY AND IT IS THE BEST LINE IN THE CHAPTER: "He does not
+  think we will fail. He thinks we will succeed. And he does not want to be the
+  man who paid for a second one." That is the whole obstacle for ch23 and it is
+  a moral one rather than a commercial one.
 
 The Wold, and the only book there is (ch21)
 - THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.
