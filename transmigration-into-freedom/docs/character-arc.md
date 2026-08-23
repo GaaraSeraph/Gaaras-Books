@@ -270,6 +270,13 @@ understands about the world. MP 60 to 16 and back overnight, which is the
 asset: HE IS A RENEWABLE SUPPLY AND HALLVARD IS NOT. INT 27 pays off as
 reading rather than as fighting, which is the whole reason it was bought.
 
+Chapter 31: NO LEVEL, NO KILL, AND THE FIRST LOSS. Everything he has built is
+now held of somebody else, and it is his own commercial competence that did it.
+The counter costs him the shed and therefore the price, in advance, and it puts
+Hades on a lease it can lose. THIS IS THE FIRST TIME SINCE THE ASH THAT HE IS
+STANDING ON SOMETHING SOMEBODY ELSE CAN TAKE AWAY, and he chose it on purpose
+over the alternatives.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

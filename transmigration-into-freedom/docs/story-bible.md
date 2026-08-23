@@ -36,7 +36,8 @@ nicht diese Zeile von Hand.
 28. Still None
 29. Put It on Mine
 30. A Man in Town
-31. (planned) what comes back east, and the fifth trip
+31. Send Me a Bill
+32. (planned) the quarter, and who attends with the roll
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -348,7 +349,14 @@ is not guesswork, because a person in the dark cannot help answering.
           asked for, which is the whole distinction. Marit's hand over his
           mouth in ch16 does not count: that was the acoustics of a stone
           tube, and ch20 says so out loud.
-  DO NOT WRITE A FOURTH WITHOUT COUNTING IT.
+    ch31  FOURTH, and nobody touches him. Sivert asks for what he wants out
+          loud, in order, having rehearsed it walking down a hill, and gets
+          two thirds of the way through before his voice goes and finishes
+          it anyway. THE TEXT COUNTS IT ON THE PAGE and says he counted it
+          himself while it was happening, which he had never managed before.
+  A FIFTH WILL BE VERY HARD TO EARN. Four is already a great many for a man
+  whose whole character is that he does not stop talking, and the spacing is
+  what keeps each one an event: ch10, ch13, ch20, ch31.
 - Polysexual and polyamorous. He pursues and forms partnerships across genders,
   and with more than one person at once, and does not trim that to fit local
   custom. Whether people around him approve is their problem, not his, the same
@@ -1139,6 +1147,72 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The city has a name, and the lord answers (ch31)
+- THE NORTH LEG IS WALKED FOR THE FIRST TIME and it is dry, and it is dry
+  BECAUSE THERE IS ALREADY A PLATE IN THE SLOT AT THE FOURTH RIB, put there
+  before Oldstep had a name and holding ever since. The water went round it.
+  "There is a version of a good life in that and I have decided not to examine
+  it too closely."
+- THE SECOND CONTROL. Not a drum: a housing in the stone wall, spindle, arms
+  gone, and the SAME HAND cut the mark. With INT 27 on it:
+    [ SECTIONAL CONTROL, NORTH LEG, THIRD DISTRICT ]
+    Drawn: 0  /  Prior draws on this control: 9,806  /
+    Bearer of record: Water Office of Vessarim
+- THE CITY IS CALLED VESSARIM. First name it has ever had on the page, and
+  NOBODY IN THE VALLEY HAS EVER HEARD THE WORD, which is the worst part of the
+  afternoon. It is not a Norse-sounding name and that is deliberate: the people
+  who laid dressed stone to a gradient are not the people who live here now.
+- AND THE COMPARISON IS THE BOOK'S SPINE IN TWO LINES. Hallvard: 1,412 turns,
+  bearer of record none. Vessarim: 9,806 turns, and an office. "Somebody used
+  to be somebody, and then everybody stopped being anybody, and that is what
+  happened to this place, and it is not a story about a monster."
+  HE FLAGS HIS OWN BIAS IMMEDIATELY, which keeps thread 3 open: it is the first
+  thing he has wanted to be true since he arrived, and he asks Marit to hit him
+  if he starts arranging facts around it. She agrees.
+- SIVERT ASKS FOR WHAT HE WANTS, OUT LOUD, IN ORDER, HAVING REHEARSED IT ON THE
+  WAY DOWN THE HILL. That is the whole arc: six days to ask for two arms in
+  ch20, one sentence now. THE SCENE'S GOVERNING SENSE IS HIM TALKING AND GAARA
+  NOT, which inverts every previous scene.
+  "Nineteen years I spent teaching grown men to ask for what they want in one
+  sentence, and not one of them ever managed it, and you have just done it
+  lying on straw with your voice going."
+  AND THE GRABBING IS NAMED AND LEFT STANDING: "If you want me to stop you will
+  have to say that out loud as well, and I will believe you."
+- KETIL PROVES THE HIRE INSIDE ONE DAY. Twenty miles before breakfast, on a
+  horse that had been ridden properly, and he comes straight to Gaara in the
+  road in front of the forty houses that spent three weeks calling him a name.
+  "I would like somebody to notice that." "I noticed before you were off the
+  horse. That is what I hired."
+  AND GUNNAR SAID SORRY, STANDING UP, which Ketil did not understand.
+- THE NOTICE. Eleven lines, nothing unpleasant in any of them. The ruin, its
+  workings and everything raised out of it are HELD OF THE LORD. An account at
+  the quarter. The bearer of the roll will attend.
+- AND IT IS GAARA'S OWN DOING AND HE SAYS SO FIRST. He told Gunnar the hole
+  gives nothing back, which was true and still is. Then he took four carts into
+  the only town in the valley, sold a quarter in open market, and had somebody
+  tell three people about a shed. "I have been outmanoeuvred by my own conduct
+  and there is not one part of it I can complain about."
+- THE COUNTER IS A RENT AND NOT A SHARE, and the reasoning is the chapter:
+  AN ACCOUNT invites a man who looks, and a man who has looked at a hill wants
+  a piece of the hill.
+  A SHARE invites a partner, and a partner writes a rule the first time somebody
+  dies, and it will be a stupid rule.
+  A RENT invites nobody. "He gets a number on a day and he stops thinking about
+  us, which is the only thing I have ever wanted from anybody in authority."
+  HE DOES NOT PRETEND IT IS CHEAP: a man paid to stop thinking about you knows
+  exactly what that is worth to you.
+- THE COST IS THE THING HE JUST PROTECTED. Payable in advance means opening the
+  shed, which destroys Runa's price. "We will be desperate on purpose, which is
+  a completely different thing, and it is the only one of the two I have ever
+  been good at."
+- YLVA OWNS HALF AND HE DOES NOT TALK HER ROUND. He gives the reason, names the
+  worse alternative (borrowing in the Wold, which sells the exact piece of him
+  he is refusing to sell a lord), and offers to drop it for good. SHE SETS THE
+  TERM AND IT IS THE BEST BEAT IN THE SCENE: the number written every quarter,
+  on a board, on the wall, where Bern can see it too. "I am not doing this on a
+  man's word again." She has invented bookkeeping and he does not have to say a
+  word about it.
 
 The metal goes down, and Ketil is hired (ch30)
 - FOUR CARTS, THREE DAYS, AND MARIT STAYS. Settled in four seconds and neither

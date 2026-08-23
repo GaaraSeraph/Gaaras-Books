@@ -3,6 +3,47 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== ch31: the disaster is caused by his own competence, not by an enemy ===
+The ch26 display worked. What undid it is that he then went and was extremely
+good at his job in public: four carts, an open market, and a shed three people
+were told about, which was Runa's correct advice and which he took.
+HE SAYS IT FIRST, IN THE ROAD, BEFORE ANYBODY ELSE CAN. "It means I did this."
+No lie was told at any point and the book does not need one. He said the hole
+gives nothing back and it does not; the city does; a lord will never care about
+that distinction. THAT IS THE WHOLE MECHANISM AND IT IS ENTIRELY FAIR.
+
+=== A rent, not a share, and not an account ===
+Three options and the reasoning is the chapter, so it is written out rather
+than summarised: an account invites an inspector, a share invites a partner who
+will write a rule the first time somebody dies, and a rent invites nobody.
+IT MUST NOT READ AS ANOTHER CHANGE-THE-UNIT TRICK LIKE ch26. The difference is
+that this one COSTS HIM. Paid in advance means the shed opens, the price he
+spent a week protecting collapses, and Hades holds its ground on a lease that
+can be revoked. He is on a leash for the first time and he chose it.
+
+=== The city is called Vessarim ===
+The dead city has had no name for thirty chapters, which was fine while nobody
+alive could give it one. The second control gives it one, along with an office
+that kept its water and 9,806 turns on the books.
+WHY IT MATTERS MORE THAN A NAME: it puts Bearer of record: none (ch29) next to
+Bearer of record: Water Office of Vessarim, and that pair is the argument the
+whole book has been assembling. This world did not lose technique. It lost the
+thing that knew who you were.
+THREAD 3 IS NOT CLOSED. Gaara offers administrative collapse as a hypothesis
+and immediately flags that it is the first thing he has wanted to be true, and
+asks Marit to stop him if he starts arranging facts around it. She agrees, out
+loud, which makes it a promise the book can be held to.
+REVERSIBLE IF THE AUTHOR DISLIKES THE NAME: one line in ch31 and two mentions.
+
+=== The silence ledger takes its fourth entry, and it is Sivert talking ===
+The bible said do not write a fourth without counting it, so it is counted on
+the page. NOBODY TOUCHES HIM THIS TIME, which is what makes it different from
+ch20: he goes quiet because a nineteen year old who needed six days to ask for
+two arms has just asked for all of it in one go, out loud, in order.
+AND THE SCENE INVERTS THE STANDING RULE that he talks less in bed than anywhere
+else. Here the other person does the talking and he is the one undone by it.
+
+
 === ch30: Ketil is hired, and the reason is cold ===
 The thread has been live since ch14 and the two obvious endings were both bad:
 a reconciliation, or a man run out of a yard. Neither is this book.

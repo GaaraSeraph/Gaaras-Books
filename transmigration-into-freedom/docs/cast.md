@@ -243,6 +243,16 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
+Sivert, ch31: SAYS WHAT HE WANTS, OUT LOUD, IN ORDER, having rehearsed it on
+the way down a hill. Six days to ask for two arms in ch20; one sentence now.
+He is the reason for the fourth entry in the silence ledger. DO NOT REGRESS HIM
+to the boy who goes red and says nothing; that man is two chapters gone.
+
+Ketil, ch31: TWENTY MILES BEFORE BREAKFAST on the first real errand, and he
+comes to Gaara in the road in front of the whole village rather than going into
+a house first. He is buying his way back one visible act at a time and nobody,
+including him, is pretending otherwise.
+
 Ketil, Ylva's dead husband's brother, HIRED ch30
 - Rode east in ch14 and told the lord's man everything. Then could not come
   home, and stood in the hiring yard behind the Staple for three weeks.
