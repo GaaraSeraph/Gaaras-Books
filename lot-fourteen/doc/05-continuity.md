@@ -192,6 +192,10 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 228, Di 19. Mai, zwanzig vor drei: **Mr Yeom ruft im Haus an und verlangt
   Georgij mit Namen.** Einladung zum Mittagessen am Donnerstag
   (Band 2, Kapitel 24)
+- Tag 230, Do 21. Mai: **das Mittagessen.** Yeom isst. Am dritten Tisch vom
+  Fenster sitzt eine Stunde und zehn Minuten lang ein Mann vor einer Schale,
+  die er nicht anruehrt. **Und die vierte Gebuehr hat Yeom selbst bezahlt**
+  (Band 2, Kapitel 25)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1278,6 +1282,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Preis des Kapitels steht auf der Treppe:** Yeom weiss, dass er Anfang Mai in dem Gebaeude war, in dem niemand am Empfang stand. Entweder Hwang hat es gesagt - oder jemand hat das Besucherbuch aus der Kiste geholt und **zwei Zeilen in Georgijs eigener Handschrift gelesen, Uhrzeit hinein und Uhrzeit hinaus.** *"He wrote both of them himself, at a desk nobody was standing at. It seemed to him at the time that a man who signs a book when somebody is watching should sign it when nobody is."*
 
   **Annies Schluss stellt den Donnerstag scharf:** *"I want you to hear me say that I think you were right, because I am not going to be able to say it again after Thursday."* Und der Grund: entweder er hat den Boden gefunden, **oder jemand hat sich ihm gegenuebergesetzt und nicht gegessen** - *"and after that neither of us is going to have the luxury of an opinion about anything."*
+
+- **Band 2, Kapitel 25** *Four people who could see us* (v1.0) - **Tag 230, Do 21. Mai, halb eins. Eine Szene, vierter Tisch von der Tuer links.**
+
+  **Die Probe faellt sofort und schliesst genau einen Mann aus. Yeom isst.** Ohne Umstaende, mit sichtbarem Vergnuegen, und er redet dabei und legt die Staebchen zwischen den Saetzen nicht hin. *"It rules out one man. That is all it rules out and it is worth having and it is not worth anything else."*
+
+  **Und Yeom bemerkt, dass Georgij nicht isst, und sagt es**, was noch keiner getan hat: *"You are moving it about. I have watched a great many people not eat at this table and you are doing it better than most."*
+
+  **Was Yeom vom Fonds bekommen hat, gibt er vollstaendig her:** *"They told me to find out and to be pleasant about it. Those were the two things and there was not a third."* **Den Namen des Anrufers gibt er nicht**, und sein Grund ist der erste seit Maerz, den Georgij nicht bestreitet: siebenmal im Leben fuer jemanden gearbeitet und nie einen davon herausgegeben, *"and if I started at sixty-three I would not know who I was in the afternoon."*
+
+  **Und dann faellt der Fund, den Georgij nicht geholt hat.** Byun ist im Februar des Vorjahres aus Angst von selbst zu Yeom gegangen und hat ihm von **einer** Gebuehr erzaehlt. Yeom hat es durchgehen lassen, **weil der Mann von selbst gekommen war** - *"A man who tells you a thing you would never have found out has not got anything else in his pocket."* Und als er hoert, dass es vier waren: **"That was my view for a very long time and I have just watched it stop being one."**
+
+  **Die vierte Gebuehr hat Yeom selbst bezahlt.** Aus der eigenen Tasche, in einem Umschlag, damit im Buch eine gewoehnliche Zahlung steht - fuer einen Anrufer, der sagte, er frage **im Auftrag von jemandem, der dankbar waere.**
+
+  **Und er hat nicht gefragt, wer, und das ist keine Feigheit, sondern Arithmetik**, und es ist die kaelteste Rechnung des Bandes: *"If I ask who, then he tells me, and then I have done a favour for a person and I am owed by a person. If I do not ask, then I am owed by whoever it is, and whoever it is knows that I did not ask, and that is worth about ten times as much and it costs nothing."* **Ausgezahlt hat es im Dezember**, in einem Preis ueber Wert und einer Stellung.
+
+  **Und der Anrufer von vor vier Jahren hat zum Schluss gesagt, er freue sich, dass sie sich endlich getroffen haetten.** Sie waren sich nie begegnet. Yeom erinnert sich daran, weil er es seiner Frau erzaehlt hat. **Das ist die dritte voneinander unabhaengige Quelle fuer denselben Satz** - nach Mr Ok in Kapitel 17 und Chairman Woo in Kapitel 13.
+
+  **Und mitten in dem Satz, in dem Yeom sagt, dass er die vierte Gebuehr bezahlt hat, legt am dritten Tisch vom Fenster ein Mann von etwa sechzig, nicht gross, einen Loeffel neben eine Schale, die er nicht angeruehrt hat.** Er sitzt dort eine Stunde und zehn Minuten. Die Schale wird kalt.
+
+  **Georgij sieht ihn in der Randsicht und dreht den Kopf nicht um einen Grad.** Beim Hinausgehen sieht er nicht hin, wird nicht langsamer, **und tut auch nicht das, was ein Mann mit den Schultern tut, wenn er beschlossen hat, nicht hinzusehen.** *"He has been practising that since October and it has never once mattered until today."*
+
+  **Die drei Moeglichkeiten stehen am Schluss nebeneinander und keine wird aufgeloest:** ein Niemand ohne Appetit; jemand, der nicht wusste, dass Georgij dort sein wuerde, **und den Georgij damit gesehen hat, ohne dass er es weiss**; oder jemand, der die Uhrzeit der Reservierung kannte und gekommen ist, **um sich das anzusehen, was seit Maerz um sein Arrangement herumlaeuft.**
+
+  **Und der Schlusssatz ist die neue Lage des Bandes:** *"Both of those are facts. Only one of them is a fact about Georgij, and he does not know which."*
+
+  **Dazu Georgijs einziger Rat an Yeom, und er ist ernst gemeint:** *"Do not say the rest of that out loud in this room. ... you have just told me you do not know who you did it for, and that is the only thing keeping you comfortable, and it is a great deal safer than knowing."*
 
 ---
 

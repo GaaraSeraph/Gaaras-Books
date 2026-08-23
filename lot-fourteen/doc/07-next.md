@@ -737,8 +737,18 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **DAS MITTAGESSEN AM DONNERSTAG, 21. MAI. Faellig sofort, hoechste Prioritaet,
-  gesetzt in Band 2, Kapitel 24.** Halb eins, fester Tisch, nicht privat, vier
+- **DER MANN AM DRITTEN TISCH. Offen, ungeloest, und er darf nicht aufgeloest
+  werden, indem der Erzaehler es sagt.** Band 2, Kapitel 25: etwa sechzig, nicht
+  gross, allein, eine Stunde und zehn Minuten vor einer Schale, die er nicht
+  anruehrt. **Die Beschreibung deckt sich mit Mr Oks neun Zeilen.**
+
+  **Drei Moeglichkeiten, alle drei bleiben stehen:** ein Niemand; jemand, der
+  nicht wusste, dass Georgij da sein wuerde; oder jemand, der die Reservierung
+  kannte. **Georgij weiss nicht, welche, und der Text darf es nicht besser
+  wissen als er.**
+
+- **DAS MITTAGESSEN: ERLEDIGT in Band 2, Kapitel 25. Yeom isst.** Der Eintrag
+  hier lautete: Halb eins, fester Tisch, nicht privat, vier
   Leute in Sichtweite, niemand sonst am Tisch.
 
   **Und es ist eine Probe, weil Annies Geschenk vom 27. April es dazu macht:**

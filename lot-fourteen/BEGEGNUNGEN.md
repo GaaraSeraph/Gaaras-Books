@@ -30,18 +30,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Mr Kwon | 28 | 4 (b2ch14-b2ch24) | 4 | 26 |
+| Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Hwang | 25 | 4 (b2ch07-b2ch24) | 3 | 26 |
+| Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 20 | 14 (b1ch05-b2ch20) | 3 | 60 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
-| Mr Yeo | 10 | 3 (b1ch05-b2ch24) | 6 | 26 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
-| Mr Yeom | 6 | 1 (b2ch24) | 26 | 26 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -1912,6 +1912,61 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Yeo
+
+28 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
+| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 26 | b2ch24:168 | Mr Yeom laughed at that. |
+| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
+| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
+| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
+| 32 | b2ch25:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
+| 32 | b2ch25:26 | Mr Yeom ate it. |
+| 32 | b2ch25:40 | "You are not eating," said Mr Yeom. |
+| 32 | b2ch25:58 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
+| 32 | b2ch25:70 | Mr Yeom picked his chopsticks back up. |
+| 32 | b2ch25:108 | Mr Yeom stopped with his chopsticks halfway. |
+| 32 | b2ch25:130 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
+| 32 | b2ch25:136 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
+| 32 | b2ch25:150 | Mr Yeom did not say anything at all for about six seconds. |
+| 32 | b2ch25:170 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
+| 32 | b2ch25:182 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
+| 32 | b2ch25:196 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
+| 32 | b2ch25:206 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
+| 32 | b2ch25:214 | Mr Yeom's face changed by about a millimetre. |
+| 32 | b2ch25:236 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
+| 32 | b2ch25:240 | "He said he was glad we had met," said Mr Yeom. |
+| 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
+| 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
+
+### Zahlen in der Naehe von Mr Yeo
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:172` (Tag 6) - twenty-six
+- `b1ch05:178` (Tag 6) - nineteen, two
+- `b1ch12:22` (Tag 23) - twenty
+- `b2ch24:214` (Tag 26) - one, three
+- `b2ch24:258` (Tag 26) - one
+- `b2ch25:58` (Tag 32) - two
+- `b2ch25:130` (Tag 32) - one, ten, twenty-six
+- `b2ch25:136` (Tag 32) - one
+- `b2ch25:150` (Tag 32) - six
+- `b2ch25:170` (Tag 32) - four, one
+- `b2ch25:196` (Tag 32) - two
+- `b2ch25:206` (Tag 32) - four
+- `b2ch25:236` (Tag 32) - twenty
+- `b2ch25:304` (Tag 32) - ten, three
+
+---
+
 ## Nam Byung-hee
 
 28 Nennungen in 10 Kapiteln.
@@ -2013,6 +2068,53 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:256` (Tag 15) - twenty
 - `b2ch21:288` (Tag 15) - fifteen
 - `b2ch21:308` (Tag 15) - five, four, twenty
+
+---
+
+## Mr Yeom
+
+24 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
+| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 26 | b2ch24:168 | Mr Yeom laughed at that. |
+| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
+| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
+| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
+| 32 | b2ch25:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
+| 32 | b2ch25:26 | Mr Yeom ate it. |
+| 32 | b2ch25:40 | "You are not eating," said Mr Yeom. |
+| 32 | b2ch25:58 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
+| 32 | b2ch25:70 | Mr Yeom picked his chopsticks back up. |
+| 32 | b2ch25:108 | Mr Yeom stopped with his chopsticks halfway. |
+| 32 | b2ch25:130 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
+| 32 | b2ch25:136 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
+| 32 | b2ch25:150 | Mr Yeom did not say anything at all for about six seconds. |
+| 32 | b2ch25:170 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
+| 32 | b2ch25:182 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
+| 32 | b2ch25:196 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
+| 32 | b2ch25:206 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
+| 32 | b2ch25:214 | Mr Yeom's face changed by about a millimetre. |
+| 32 | b2ch25:236 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
+| 32 | b2ch25:240 | "He said he was glad we had met," said Mr Yeom. |
+| 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
+| 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
+
+### Zahlen in der Naehe von Mr Yeom
+
+- `b2ch24:214` (Tag 26) - one, three
+- `b2ch24:258` (Tag 26) - one
+- `b2ch25:58` (Tag 32) - two
+- `b2ch25:130` (Tag 32) - one, ten, twenty-six
+- `b2ch25:136` (Tag 32) - one
+- `b2ch25:150` (Tag 32) - six
+- `b2ch25:170` (Tag 32) - four, one
+- `b2ch25:196` (Tag 32) - two
+- `b2ch25:206` (Tag 32) - four
+- `b2ch25:236` (Tag 32) - twenty
+- `b2ch25:304` (Tag 32) - ten, three
 
 ---
 
@@ -2239,34 +2341,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Yeo
-
-10 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
-| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
-| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
-| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 26 | b2ch24:168 | Mr Yeom laughed at that. |
-| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
-| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
-| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
-
-### Zahlen in der Naehe von Mr Yeo
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch05:172` (Tag 6) - twenty-six
-- `b1ch05:178` (Tag 6) - nineteen, two
-- `b1ch12:22` (Tag 23) - twenty
-- `b2ch24:214` (Tag 26) - one, three
-- `b2ch24:258` (Tag 26) - one
-
----
-
 ## Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -2307,26 +2381,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 51) - four, six
-
----
-
-## Mr Yeom
-
-6 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
-| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 26 | b2ch24:168 | Mr Yeom laughed at that. |
-| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
-| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
-| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
-
-### Zahlen in der Naehe von Mr Yeom
-
-- `b2ch24:214` (Tag 26) - one, three
-- `b2ch24:258` (Tag 26) - one
 
 ---
 
