@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-14 Kapitel. 28.080 Woerter.
+14 Kapitel. 28.293 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -21,7 +21,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
 | 13 | Chapter 13: The Cost of Shutting a Door | 1.924 |
-| 14 | Chapter 14: Say It in the Road | 2.145 |
+| 14 | Chapter 14: Say It in the Road | 2.358 |
 
 ---
 
@@ -2882,9 +2882,13 @@ Somebody laughed. Several people did.
 
 Gaara turned round slowly.
 
-"I am going to want a word about that later."
+"Nobody has ever accused me of being quick," said Gaara. "They accuse me of other things."
 
-"You will want a word," said Marit. "That is the whole problem."
+"You will want a word about this later."
+
+"I will want a word about this later."
+
+"You will take your time over it," said Marit, "and then you will take some more."
 
 It bought him about nine seconds of goodwill, and it was the only nine seconds he got, and he was aware of exactly who had earned them.
 
@@ -2894,7 +2898,7 @@ Then the heavy man with the boar spear said, "Why should we?"
 
 "You say."
 
-"I say," Gaara agreed. "And you have known me three days, and two of them I spent insulting you, and I am now asking you to stand in a hole in the dark for four hours on my arithmetic." He rubbed the back of his neck. "Put like that I would not come either."
+"I say," Gaara agreed. "And you have known me three days, and two of them I spent insulting you, and I am now asking you to stand in a hole in the dark for four hours on my arithmetic." He rubbed the back of his neck. "Put like that I would not come either. The pay is one loaf, four hours on a bar in the wet, and my continued company in a confined space. I have accepted worse offers than that, and I want you to know I regretted most of them."
 
 Nobody moved.
 
@@ -2903,6 +2907,8 @@ He stood on the step and felt the thing arrive that he had felt in the road at t
 The information was right. It had always been right. It was worth nothing in his mouth.
 
 It's always the audience.
+
+"In my old life," he said, mostly to Marit, "I once failed to get eleven people to agree on the colour of a folder. I have no idea why I thought forty would queue up for a tunnel."
 
 "Right," he said. "That is my fault and not yours. Give me an hour."
 
@@ -2942,7 +2948,11 @@ The room was quiet for a long moment.
 
 "They will take the elder off me," said Hallvard.
 
-"Almost certainly."
+"Almost certainly. On the other hand you will get a full night's sleep for the first time in thirty-one years, and at your age that is not nothing."
+
+"That is a very poor joke."
+
+"It is the best one available. I looked."
 
 "Aldis's father did this for eleven years and died of it with nobody knowing. Her uncle did nineteen. I have done thirty-one. There has never been a single year of it that anybody has known, and that was not vanity, it was the whole design."
 
@@ -3006,6 +3016,10 @@ She looked at him.
 
 The wide slow man near the pens said, "She's a woman."
 
+"Yes," said Gaara. "I did notice. I have been noticing things all week. It is how I found your cellar."
+
+Somebody at the back made a sound.
+
 "She is what I want," said Gaara. "I said six men because that is what the old arrangement said and I repeated it without thinking. I have been wrong about numbers four times this week. I am not going to be wrong about this one out of politeness."
 
 Ylva went on looking at him for a moment.
@@ -3018,7 +3032,11 @@ Nobody had told Gaara that. He filed it, and he did not use it, and he was aware
 
 "Aye."
 
-He got Bern. He got the wide slow man, whose name was Torv and who did not apologise for the woman remark and did come, which Gaara considered the more useful of the two options. He got a man of thirty called Ask who said nothing at all and just stepped forward. He got the heavy man with the boar spear, who came up close first and said, quietly, "I still think you have got a mouth on you," and Gaara said, "You are correct," and that was the entire negotiation.
+He got Bern. He got the wide slow man, whose name was Torv and who did not apologise for the woman remark and did come, which Gaara considered the more useful of the two options. He got a man of thirty called Ask who said nothing at all and just stepped forward. He got the heavy man with the boar spear, who came up close first and said, quietly, "I still think you have got a mouth on you."
+
+"You are correct. It is the only part of me that has never been injured, and I have been working on that for nineteen years."
+
+That was the entire negotiation.
 
 Five.
 
@@ -3085,3 +3103,5 @@ The lowest number he had taken. Half the weight of Torv. Nineteen, which was a n
 "For the record."
 
 Behind him, at the byre door, Marit made a noise into her sleeve.
+
+"Do not ask her what it means," said Gaara, without turning round. "She will tell you, and then I will have to leave the valley."

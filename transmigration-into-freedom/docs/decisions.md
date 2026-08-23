@@ -92,6 +92,22 @@ the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
 
+=== Talking a lot is not the same as sounding like him ===
+Second catch of the same class, four chapters after the first. In ch14 Gaara
+speaks in almost every scene and the chapter still reads wrong, because every
+line is operational: the pitch, the plan, the refusal, the recruitment, the
+hard sentence to Solva in her doorway. Not one dry joke. Not one crude line.
+The rule as written only measured volume, and he cleared it easily while being
+somebody else.
+So the rule now measures register instead, with a floor: two lines a chapter
+minimum that are dry, crude or suggestive, one of them badly timed. Grief is
+the only exemption, and it is narrow - nothing funny in Solva's doorway,
+nothing funny over Osvald, everything else fair game including his own likely
+death.
+Worth noting why it keeps happening: the chapters where he takes charge are
+exactly the chapters where the drift is invisible from inside, because he is
+audibly present the whole time. Competence reads as voice and is not.
+
 === Gaara does not shut up, and the silence has to be earned ===
 The author: too few remarks, too few asides, too little crudeness - he would
 never keep his mouth shut. Correct, and it had been true since chapter 3. In ch2

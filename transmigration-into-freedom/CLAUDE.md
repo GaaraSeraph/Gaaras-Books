@@ -56,6 +56,15 @@ it rather than cutting the talk. That is how 6 became 6 and 7.
 - Close third person, past tense. Short paragraphs. Sentence fragments are normal.
 - Concrete sensory detail over abstraction. Show the body, the smell, the weight.
 - The humour is dry, sarcastic, and often crude or suggestive. It belongs to Gaara.
+- VOLUME IS NOT THE TEST. He can talk through an entire chapter and it can still
+  be wrong, because the failure mode is not silence, it is GRAVITY. Operational
+  speech does not count: plans, orders, arithmetic and hard truths are not his
+  voice, they are his job.
+  FLOOR, every chapter: at least two lines from him that are dry, crude,
+  suggestive or all three, and at least one of them landing where it is least
+  appropriate. A chapter with none is broken even if he never stops talking.
+  Caught by the author twice (ch8 and ch14) and never once by a script, because
+  no script can measure it. Read for it deliberately, before anything else.
 - HE DOES NOT SHUT UP. This is the single thing that drifts fastest. He talks at
   monsters mid-fight, needles people who are pointing weapons at him, and makes
   the joke nobody wanted. Calibrate against chapter 2, where he is alone in a

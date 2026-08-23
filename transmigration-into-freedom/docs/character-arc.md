@@ -197,6 +197,14 @@ Solva
   half without being asked: if SHE says it first, he moves without asking why.
   That is not him planning around her any more. That is him handing her half of
   a plan and agreeing in advance to obey it.
+- THE CRUDE REGISTER IS NOT DECORATION, it is how the reader knows he is still
+  himself. When a chapter puts him in charge of something - a plan, a crew, a
+  confession - he drifts into pure operator and the jokes vanish, and the drift
+  is invisible from inside because he is still talking constantly. Two lines a
+  chapter, minimum, dry or filthy, and one of them badly timed on purpose.
+  The exception is grief, and only grief: nothing funny in Solva's doorway, and
+  nothing funny over Osvald. Everywhere else, including his own funeral
+  arrangements, he will have something to say.
 - He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
   when it is least appropriate: at monsters, at people holding axes, at goats.
   It is how he handles fear and it is how the reader locates him. Chapter 2 is

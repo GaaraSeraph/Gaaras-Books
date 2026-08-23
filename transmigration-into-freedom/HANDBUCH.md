@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 14 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 16.538 Woerter.
+Alle 4 Dokumente am Stueck. 16.815 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -358,6 +358,14 @@ Solva
   half without being asked: if SHE says it first, he moves without asking why.
   That is not him planning around her any more. That is him handing her half of
   a plan and agreeing in advance to obey it.
+- THE CRUDE REGISTER IS NOT DECORATION, it is how the reader knows he is still
+  himself. When a chapter puts him in charge of something - a plan, a crew, a
+  confession - he drifts into pure operator and the jokes vanish, and the drift
+  is invisible from inside because he is still talking constantly. Two lines a
+  chapter, minimum, dry or filthy, and one of them badly timed on purpose.
+  The exception is grief, and only grief: nothing funny in Solva's doorway, and
+  nothing funny over Osvald. Everywhere else, including his own funeral
+  arrangements, he will have something to say.
 - He is analytical, blunt and funny, and he TALKS. Constantly, and most of all
   when it is least appropriate: at monsters, at people holding axes, at goats.
   It is how he handles fear and it is how the reader locates him. Chapter 2 is
@@ -491,6 +499,22 @@ numbers have to be derivable by the reader. Where a number does not move,
 the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
+
+=== Talking a lot is not the same as sounding like him ===
+Second catch of the same class, four chapters after the first. In ch14 Gaara
+speaks in almost every scene and the chapter still reads wrong, because every
+line is operational: the pitch, the plan, the refusal, the recruitment, the
+hard sentence to Solva in her doorway. Not one dry joke. Not one crude line.
+The rule as written only measured volume, and he cleared it easily while being
+somebody else.
+So the rule now measures register instead, with a floor: two lines a chapter
+minimum that are dry, crude or suggestive, one of them badly timed. Grief is
+the only exemption, and it is narrow - nothing funny in Solva's doorway,
+nothing funny over Osvald, everything else fair game including his own likely
+death.
+Worth noting why it keeps happening: the chapters where he takes charge are
+exactly the chapters where the drift is invisible from inside, because he is
+audibly present the whole time. Competence reads as voice and is not.
 
 === Gaara does not shut up, and the silence has to be earned ===
 The author: too few remarks, too few asides, too little crudeness - he would
