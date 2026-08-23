@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-18 Kapitel. 37.220 Woerter.
+18 Kapitel. 37.257 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -25,7 +25,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
 | 16 | Chapter 16: Something Is Drinking It | 2.354 |
 | 17 | Chapter 17: Who Gets the Kill | 2.186 |
-| 18 | Chapter 18: Somebody Has to Hold Him | 2.034 |
+| 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 
 ---
 
@@ -4074,4 +4074,8 @@ The number did not.
 
 The old man looked.
 
-"A bad knife," he said. "Or a good goat."
+"A goat," he said. "A good one, and something over."
+
+"And a blade. A real one, that does not come apart in a thing's neck."
+
+"Four goats." Hallvard laid the slate flat on the table. "Five, if the smith has to guess what it is for."

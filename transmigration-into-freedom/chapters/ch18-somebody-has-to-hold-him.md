@@ -194,4 +194,8 @@ The number did not.
 
 The old man looked.
 
-"A bad knife," he said. "Or a good goat."
+"A goat," he said. "A good one, and something over."
+
+"And a blade. A real one, that does not come apart in a thing's neck."
+
+"Four goats." Hallvard laid the slate flat on the table. "Five, if the smith has to guess what it is for."

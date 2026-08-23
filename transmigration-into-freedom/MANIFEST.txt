@@ -17,7 +17,7 @@ ch14    2693 Woerter  ch14-say-it-in-the-road.md
 ch15    2026 Woerter  ch15-two-to-four-hard-uses.md
 ch16    2354 Woerter  ch16-something-is-drinking-it.md
 ch17    2186 Woerter  ch17-who-gets-the-kill.md
-ch18    2034 Woerter  ch18-somebody-has-to-hold-him.md
+ch18    2071 Woerter  ch18-somebody-has-to-hold-him.md
 
-Gesamt: 18 Kapitel, 37220 Woerter
+Gesamt: 18 Kapitel, 37257 Woerter
 Handbuch: 4 Dokumente

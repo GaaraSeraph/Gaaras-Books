@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 18 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 26.375 Woerter.
+Alle 4 Dokumente am Stueck. 26.475 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -1499,11 +1499,18 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
 - (ch18) THREAD 8 IS OPEN AT LAST. He takes a coin out for the first time since
   the morning he took them off a dead man. The face he does not know and the
   word round the edge still goes past him. THE NUMBER DOES NOT.
-  ELEVEN COINS ARE WORTH "a bad knife, or a good goat" (Hallvard). THE ORDER IS
-  DELIBERATE: Hallvard names the knife first because he is answering the question
-  Gaara did not ask, and the goat goes last because that is where the joke sits.
-  So the first thing reading ever tells him is that he is poor, and that he
-  cannot buy the blade he needs. That is the driver into the smith.
+  THE GOAT IS THE UNIT OF ACCOUNT and this is now fixed. Eleven coins are worth
+  ONE GOOD GOAT AND SOMETHING OVER. A fighting blade is FOUR GOATS, or five if
+  the smith has to guess what it is for. A goat is a capital asset that gives
+  milk and kids for years; an everyday knife is a few hours of a smith's time
+  and every peasant owns one. So a goat is worth SEVERAL knives, and what Gaara
+  cannot afford is not "a knife" but a blade built to be hit with.
+  THE TRAP THIS SETS, and it is the engine of the next stretch: he needs four
+  to five times everything he owns, and the only place in this world that has
+  ever paid him is the city he needs the blade to survive. He must go in poor
+  to come out able to afford going in.
+  RECKON IN GOATS, NOT COINS, whenever a villager prices anything. Coins are
+  what a stranger carries. Livestock is what Oldstep actually counts in.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
