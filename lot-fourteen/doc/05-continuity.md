@@ -779,31 +779,37 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-- **Band 2, Kapitel 11** *In my own hand* (v1.1) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
+- **Band 2, Kapitel 11** *What she cannot prove* (v2.0) - **Tag 180, Mi 1. April. Vier Szenen: die verstrichene Woche, der Brief, das kleine Zimmer, und der Hof in Ulsan am selben Nachmittag.**
 
-  **Die Vollmacht ist am 31. ausgelaufen und wurde nicht erneuert, und niemand erwaehnt es.** *"He noticed it at about four in the afternoon on the Tuesday, the way a man notices that a tooth has stopped aching."*
+  **Fassung 1 hiess *In my own hand* und liess ihn die Antwort schreiben. Am 23.08. vom Autor verworfen, aus zwei Gruenden, und beide stimmen.**
 
-  **Mrs Sunwoo wirkt bereits.** Zweimal zu Mittag gegessen, und am Freitag sagt ein Haus, das seit 1988 dort kauft, eine Besichtigung ab, ohne einen Grund zu nennen. **Eine Absage. Und der vierte Tag.**
+  **Erstens: schriftlich ist ein Charakterbruch.** Er setzt seinen Namen nirgends hin - Kapitel 5 dreht sich vollstaendig darum, was ihn ein Name in einem Kondolenzbuch kostet. Zwei Wochen spaeter ein unterschriebenes Gestaendnis in die Post zu geben, ist nicht kalt, sondern unklug. Jetzt: *"I have spent one chapter of this year finding out what it costs to put my name in a book at a door. I am not going to sit upstairs and put it in an envelope."*
 
-  **Nams zweiter Brief, und sie hat nicht an ihre sechs geschrieben.** Sie fragt statt dessen, und der Rahmen ist ihr wichtiger als die Frage: *"I would like you to notice that I am asking rather than finding out, because I could find out and I have decided not to."* Dann: **"So. What are you."** - *"You told me you work in the house I wrote to. So does a gardener."* Sie weiss vom Kondolenzbuch. Und: *"I am fifty-eight and I would rather be told an unpleasant thing on the first of April than a pleasant one in June."*
+  **Zweitens: Hana weiss es laengst**, und Woo und Sang-hoon auch. Das steht seit Kapitel 8 v1.4 in seiner eigenen Rechnung - **drei Namen, mit denen er an einem Tisch gesessen hat.** Die alte Fassung liess ihn ausmalen, dass sie es erfahren wuerden, und widersprach damit direkt.
 
-  **Er antwortet vollstaendig, und es ist eine Entscheidung und keine Notlage.** Preis zuerst, wie vereinbart: sie kann es fuer den Rest ihres Lebens beweisen, verkaufen, weiterreichen, **und es gibt keine Fassung, in der er es zurueckbekommt.**
+  **Was daraus geworden ist, ist besser.** Der Unterschied heisst nicht Geheimhaltung, sondern **Beweisbarkeit**: *"A woman of fifty-eight with no standing outside her own lane, saying that thing about this house, is a woman saying a thing. The same sentence in my writing is a document, and a document does not need her to be believed. It only needs to be found once."*
 
-  **Was er sagt, dass es kauft, und er trennt sauber zwischen dem Sicheren und dem Erhofften.** Erstens: sie hoert auf zu suchen, und wer nicht geantwortet wird, **geht zum Fremden zurueck** - *"that is the one thing in all of this I would pay almost anything to prevent."* Zweitens, und er nennt es selbst eine Hoffnung: wer mit etwas betraut wird, das jemanden vernichten kann, benutzt es meistens nicht, **weil das Benutzen ihn in einen anderen Menschen verwandelt als den, dem vertraut wurde.** Dazu: *"I have watched it work on you."*
+  **Und was er sich stattdessen ausmalt, benutzt die drei:** *"Every day since then, each of them has chosen not to say it. That is what it is at the moment. It is three people choosing."* Wenn Nam es ausspricht, wird aus drei Entscheidungen eine Sache, die jeder wiederholen darf, **und die drei muessen sie vor anderen noch einmal treffen.**
 
-  **Annie ordnet nichts an, und diesmal aus einem anderen Grund als in Ulsan.** *"This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is. I have never had a claim on it and I am not going to invent one now in order to be helpful."* Und ohne Beschoenigung: *"If she uses it, I will not be able to protect you from most of what follows."*
+  **Annie ordnet nichts an, und der Grund ist ein anderer als in Ulsan im Maerz:** *"This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is."* Ohne Beschoenigung: *"If she uses it, I will not be able to protect you from most of what follows."*
 
-  **Er hat es sich vorgestellt und sagt, wie weit:** Chairman Woo wuerde erfahren, woneben er bei dem Essen stand. Hana Seo-yeon wuerde erfahren, was am 16. Dezember an ihrem Tisch sass. *"The rest of it I have not, and I am not going to sit here and pretend I have."*
+  **Mrs Seo hat den Umschlag vor neun hingelegt, ungefragt.** Zwei Fahrkarten, die zwoelf vierzig und die letzte zurueck. *"I am not clever, I am organised."* - **"You are both."** Und: nimm einen waermeren Mantel, Du wirst in einem Hof am Wasser stehen.
 
-  **Annies Befund ueber die letzten elf Tage:** *"You have got better at this in eleven days, and I would like to know what did it, because I would like more of it."* - *"I stopped working to a danger."* - **"Yes. Do not lose that again."**
+  **Der Hof, und sie ist nicht ueberrascht.** *"You could have written."* - **"No."** - *"No. I suppose not."* Er sagt es im Stehen, in sechs Saetzen, in der Reihenfolge, die er im Zug festgelegt hat. Sie setzt sich waehrend des vierten und er haelt nicht an.
 
-  **Der Brief, in seiner Handschrift, beim vierten Versuch.** Kein Titel, kein Gehalt, kein Konto, nichts, was ihm gehoert. **"I belong to her."** Der 4. Oktober, das vierzehnte Los, drei Zeilen ueber ihrer im selben Buch. *"You can do what you like with this. I would sooner you had it from me than from whoever gave you the page."* **Darunter steht nichts** - es gibt in keiner Sprache eine Formel, die an diese Stelle passt.
+  **Ihr erster Satz danach ist der beste, den sie bekommt:** *"That is why you would not let the man at the funeral write a figure next to your name. ... I had you down for a man with a criminal conviction."*
 
-  **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
+  **Warum er es tut, sagt er ihr auch:** *"Because you asked plainly, and you are the first person outside that house who ever has. And because you have had nothing but silence out of everybody since January, and it seemed to me that one person should tell you the whole of something."*
 
-  **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
+  **Und was sie ihm am Tor gibt, ist alles, was sie hat.** Sie wird es nicht wiederholen - **nicht aus Zuneigung**, und sie sagt dazu, dass er darauf nichts bauen soll: *"Since January something has been done to me by people who never had to say one word out loud. I have found out this month that I do not want to be that. And it turns out to be a thing you decide on a particular afternoon, and not once and for all."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.0) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+  **Er antwortet darauf nicht**, weil ihm nichts zur Verfuegung steht, das wahr und sagbar zugleich waere. *"He has been in that position perhaps four times in his life, and it has never once been on the receiving end."*
+
+  **Der Schluss bleibt wie in Fassung 1 und wiegt jetzt mehr.** Um eins nachts, mit dem Fahrscheinabschnitt vor sich: wem die Wahrheit ueber jemanden gesagt wurde, hoert auf zu suchen - **und genau das tut man mit jemandem, den man stillstehen haben will.** Beides ist der Fall. Er legt keines vor das andere.
+
+  **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
+
+- **Band 2, Kapitel 12** *Sixteen days* (v1.1) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 

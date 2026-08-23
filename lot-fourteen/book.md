@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 46 Kapitel, 129.955 Woerter.
+2 Baende, 46 Kapitel, 130.278 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -55,8 +55,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 08 | v1.4 | 3.196 |
 | 2 | 09 | v2.1 | 2.496 |
 | 2 | 10 | v2.0 | 2.225 |
-| 2 | 11 | v1.1 | 2.183 |
-| 2 | 12 | v1.0 | 2.115 |
+| 2 | 11 | v2.0 | 2.498 |
+| 2 | 12 | v1.1 | 2.123 |
 
 ---
 
@@ -14096,8 +14096,8 @@ She listened to the end and then asked one question, which was not about Mrs Sun
 
 ---
 
-# Book Two · Chapter 11: In my own hand
-*Lot Fourteen* · Version 1.1 · EN
+# Book Two · Chapter 11: What she cannot prove
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day One Hundred and Eighty · Wednesday 1 April
 
@@ -14159,31 +14159,37 @@ Annie read it once more.
 
 ---
 
-"All of it."
+"All of it. And not on paper."
 
 ---
 
-She did not react to that at all for a moment, which is the reaction.
+She did not react to that for a moment, which is the reaction.
 
 "Say it as a sentence."
 
-"I am going to write to her, in my hand, and tell her what I am. The fourth of October, the number, and that the record of it is three lines above hers in the same book."
+"I am going to Ulsan this afternoon and I am going to tell her what I am, out loud, in that office, with nobody else in the room and nothing left behind on the desk."
 
 ---
 
-"That is a great deal to put on a piece of paper for a woman who was holding a page over me eleven days ago."
+"You could write it in eleven minutes and have it there in the morning."
 
-"Yes."
-
-"Then say the price before you spend it, because that is the arrangement and because I am going to hold you to it on this one particularly."
+"I could write it in eleven minutes and she could keep it for the rest of her life." He did not soften any part of it. "I have spent one chapter of this year finding out what it costs to put my name in a book at a door. I am not going to sit upstairs and put it in an envelope."
 
 ---
 
-"The price is that a woman in Ulsan will be able to prove what I am, in my own writing, for the rest of her life." Georgij did not soften any part of it. "She can sell it, she can post it, she can put it in front of your competitors, and she can do all of that on a day when we have annoyed her about something else in four years' time. There is no version where I get it back."
-
-"And what do you say it buys."
+"Then say the price before you spend it," said Annie, "because that is the arrangement and I am going to hold you to it on this one particularly."
 
 ---
+
+"The price is that she will know, and she can say it to anybody she likes for the rest of her life."
+
+"And what does the train buy that the envelope does not."
+
+"She will not be able to prove one word of it." Georgij put one finger on the desk. "That is a very large difference and it is not a complete one. A woman of fifty-eight with no standing outside her own lane, saying that thing about this house, is a woman saying a thing. The same sentence in my writing is a document, and a document does not need her to be believed. It only needs to be found once."
+
+---
+
+"And what do you say it buys," said Annie.
 
 "Two things, and I want to be careful about the second one because it is the one I would like to be true."
 
@@ -14199,7 +14205,7 @@ Annie put the letter down.
 
 "And that would be the second time he speaks to her."
 
-"That would be the second time he speaks to her, and this time she would go looking for him, and that is the one thing in all of this I would pay almost anything to prevent." He did not stop. "The second thing is the one I would like to be true. A person who has been trusted with something that could ruin somebody does not usually use it. Not out of goodness. Because using it turns them into a different kind of person than the one who was trusted, and most people prefer not to find out that they are that."
+"That would be the second time he speaks to her, and this time she would go looking for him, and that is the one thing in all of this I would pay almost anything to prevent." He did not stop. "The second is the one I would like to be true. A person who has been trusted with something that could ruin somebody does not usually use it. Not out of goodness. Because using it turns them into a different kind of person than the one who was trusted, and most people prefer not to find out that they are that."
 
 ---
 
@@ -14213,11 +14219,11 @@ Annie did not answer that.
 
 She went to the window instead, and stood there for a while, and then said the thing she said in a different room in March.
 
-"I am not going to tell you to send it," she said. "And I am not going to tell you not to."
+"I am not going to tell you to go," she said. "And I am not going to tell you not to."
 
 "Mistress."
 
-"This is not the same as Ulsan and I want you to hear the difference. In Ulsan I withheld an instruction because it was useful for it to be withheld." She turned round. "This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is. I have never had a claim on it and I am not going to invent one now in order to be helpful."
+"This is not the same as Ulsan in March and I want you to hear the difference. Then I withheld an instruction because it was useful for it to be withheld." She turned round. "This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is. I have never had a claim on it and I am not going to invent one now in order to be helpful."
 
 ---
 
@@ -14235,7 +14241,17 @@ He stood there for a moment with that.
 
 ---
 
-"If she posts it, I am a thing that was bought, in writing, verifiable, and every room I have walked into since October becomes a different room in retrospect." Georgij said it in the flattest voice he owns. "Chairman Woo will find out what he was standing next to at that dinner. Hana Seo-yeon will find out what was sitting at her table on the sixteenth of December. Those two are the ones I have imagined. The rest of it I have not, and I am not going to sit here and pretend I have."
+"Three people have known since the autumn and none of them has ever said it," said Georgij. "Park Sang-hoon since the fourth of October, because he was in the room. Chairman Woo since the end of that month. Hana Seo-yeon since December, and she has never once let it into her face."
+
+"Go on."
+
+"Every day since then, each of them has chosen not to say it. That is what it is at the moment. It is three people choosing." He said it in the flattest voice he owns. "If she says it out loud on a lane in Ulsan, it stops being a thing three people are keeping and becomes a thing anybody may repeat. Then the three of them have to decide it again in front of other people, and that is a different question with a different answer."
+
+---
+
+"And that is what you have imagined."
+
+"That is what I have imagined. The rest of it I have not, and I am not going to sit here and say that I have."
 
 ---
 
@@ -14249,59 +14265,99 @@ Annie looked at him.
 
 ---
 
-He wrote it upstairs at the desk with the east window, on the paper that is in that house, in his own hand, and it took him four attempts and the first three were longer.
+He went to find Mrs Seo about the train and did not have to ask her anything.
+
+There was already an envelope on the table outside his room. Two tickets, the twelve forty and the last one back, and a card with the platform on it. She had put it there before nine.
 
 ---
 
-> You asked what I am. I am going to answer it, because you asked instead of finding out, and because you have had a great many people not answer you.
->
-> I have no title. No salary, no account, no property, and nothing that is mine. I cannot sign anything, which you already know because I told you so in your office and you saw that it was true.
->
-> I belong to her. Not as a way of speaking, and not in the way a man says he belongs to a firm. I was bought at auction on the fourth of October. I am the fourteenth lot of that evening, and the record of it is in the same book as the page you are holding, three lines above your own.
->
-> I am telling you because you asked plainly, and because you are the first person outside that house who ever has. A woman who has had nothing but silence since January is owed one letter that is true the whole way through.
->
-> You can do what you like with this. I would sooner you had it from me than from whoever gave you the page.
+"You went down there on a Friday in March and came back the same night," she said, when he came into the hall with it in his hand. "You have had a letter from that town on your face since breakfast. I am not clever, I am organised."
+
+"You are both."
+
+"I am both. Take a coat that is warmer than the one you are looking at, because it is on the water and you will be standing in a yard."
 
 ---
 
-He did not put anything after that.
+The yard was the same and there were still four trucks in it.
 
-There is no phrase in any language that goes at the bottom of that letter and does not make it worse. He looked at the space where one would go for about a minute, and then he folded it.
-
----
-
-He had to ask Mrs Seo how a letter is sent.
-
-That is the second time in a fortnight that he has had to ask her how an ordinary thing is done. She dealt with it the way she dealt with the train. One question about the address, no face, and nothing asked about anything else.
+She was in the office over the weighbridge and she was not surprised to see him, which is a thing he had not expected and which cost him about two seconds to absorb.
 
 ---
 
-She came back up at about six with the receipt for the registered post and put it on the corner of the desk, and then did not go.
+"You could have written," said Nam Byung-hee.
 
-"It has gone," she said.
+"No."
 
-"Thank you."
-
-"Mr Jang asked me this morning whether anything had come for you." She said it without any weight on it at all. "He asks me that every day now. He has asked me every day since the twenty-sixth of March, and I have said no every day, and today I said yes."
+"No," she said, after a moment. "I suppose not."
 
 ---
 
-Georgij looked up at that.
+He told her standing up, in six sentences, in the order he had worked out on the train, and he did not decorate any of it and did not hurry.
 
-"What did he say."
+No title. No salary, no account, no property. Nothing that is his and nothing he can sign.
 
-"He said good." Mrs Seo straightened one thing on the desk that did not need straightening. "That is all he said, and he went out to the cars. I have been thinking about it since breakfast and I still do not know what he meant. I have decided that I do not need to."
+He belongs to her. Not as a way of speaking and not the way a man belongs to a firm.
 
----
-
-She went, and he sat for a while with a post office receipt in front of him, which is the only piece of paper in the world with his name on it that he is allowed to keep.
+He was bought at auction on the fourth of October. He is the fourteenth lot of that evening. The record of it is in the same book as the page in her plastic wallet, three lines above her own.
 
 ---
 
-He worked something out at about eleven that night and did not write it down.
+Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for it.
 
-A person who has been told the truth about somebody stops going and looking for it. He had said that to Annie in the afternoon and it had been true when he said it and it is true now.
+---
+
+When he had finished she looked at the desk for a while.
+
+"That is why you would not let the man at the funeral write a figure next to your name," she said.
+
+"Yes."
+
+"I have been turning that over for a fortnight and I had got nowhere near it. I had you down for a man with a criminal conviction."
+
+---
+
+"Why are you telling me this."
+
+"Because you asked plainly, and you are the first person outside that house who ever has." He did not move. "And because you have had nothing but silence out of everybody since January, and it seemed to me that one person should tell you the whole of something."
+
+---
+
+She got up and went to the window, which is over the weighbridge and looks at a fuel depot.
+
+"You understand that I could say this to a great many people."
+
+"Yes."
+
+"And that some of them would work extremely hard to find a way of proving it."
+
+"Yes. That is why I came instead of writing."
+
+---
+
+"That is the most honest sentence anybody has said in this office in nine years," said Nam Byung-hee, "and I am including me."
+
+---
+
+At the gate she said the last of it, and she said it without making an occasion of it.
+
+"I shall not repeat it. Not because I am fond of you, and you should not go home and tell anybody that I am." She had her hands in her coat. "Since January something has been done to me by people who never had to say one word out loud. I have found out this month that I do not want to be that. And it turns out to be a thing you decide on a particular afternoon, and not once and for all."
+
+---
+
+Georgij did not say anything at all to that.
+
+There was nothing available to him that was both true and sayable, and he has been in that position perhaps four times in his life, and it has never once been on the receiving end.
+
+---
+
+He got the last train and was home before midnight.
+
+---
+
+He worked something out at about one, at the desk, with the ticket stub in front of him.
+
+A person who has been told the truth about somebody stops going and looking for it. He had said that to Annie at midday and it had been true when he said it and it is true now.
 
 It is also what you do to somebody you are going to want standing still.
 
@@ -14311,14 +14367,14 @@ Both of those are the case. He sat with the two of them for a while and did not 
 
 ---
 
-The letter reached Ulsan on the Thursday.
+Nam Byung-hee did not write to anybody that week, or the next.
 
-Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments.
+By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij.
 
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -14438,7 +14494,7 @@ She was checking. He understood that she was checking and sat still for it.
 
 "Mistress."
 
-"That is not a correction, it is a finding. Anger makes people quick and rough and I cannot use anybody in that condition." She had not stopped looking at him. "You have been carrying this for sixteen days. In those sixteen days you went to Ulsan and took the pressure off the one person who could hurt me. You gave an eighty-one-year-old woman one sentence and no more. You wrote a letter that cost you everything you have and you told me the price before you sent it."
+"That is not a correction, it is a finding. Anger makes people quick and rough and I cannot use anybody in that condition." She had not stopped looking at him. "You have been carrying this for sixteen days. In those sixteen days you went to Ulsan and took the pressure off the one person who could hurt me. You gave an eighty-one-year-old woman one sentence and no more. You went back down there and said the thing that costs you everything you have out loud, in a room, so that she would have nothing to keep."
 
 ---
 

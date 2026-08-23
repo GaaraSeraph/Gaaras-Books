@@ -507,12 +507,21 @@ Fassung.**
   keine neuen Einlieferungen mehr annahm.** Beides muss eingeloest werden: die
   Antwort selbst, und der Zustand des Hauses zu dem Zeitpunkt.
 
-- **Was Nam in der Hand hat, ab dem 2. April.** Seine Handschrift, sein Datum,
-  seine Nummer. Er hat es bewusst gegeben und den Preis vorher benannt: *"She can
-  sell it, she can post it, she can put it in front of your competitors, and she
-  can do all of that on a day when we have annoyed her about something else in
-  four years' time."* **Das ist die groesste ungesicherte Stelle im Buch und sie
-  hat kein Datum.**
+- **Was Nam seit dem 1. April weiss, und was sie nicht hat.** Sie hat es aus
+  seinem Mund, in ihrem Buero, im Stehen, in sechs Saetzen. **Sie hat nichts
+  Schriftliches** - das ist der Grund, aus dem er gefahren ist statt zu
+  schreiben: *"a document does not need her to be believed. It only needs to be
+  found once."*
+
+  **Sie hat gesagt, dass sie es nicht wiederholt**, ausdruecklich nicht aus
+  Zuneigung und mit der Warnung, nichts darauf zu bauen. **Und sie sagt das am
+  1. April, zwei Tage bevor er sich die Erlaubnis holt, sie zu vernichten.**
+  Diese Zeile muss wieder aufgemacht werden - sie ist die einzige, die er nicht
+  beantwortet hat, weil ihm nichts einfiel, das wahr und sagbar zugleich war.
+
+  **Die groesste ungesicherte Stelle im Buch bleibt es trotzdem, und sie hat
+  kein Datum.** Was sie sagen kann, kann sie an jedem Tag der naechsten vierzig
+  Jahre sagen.
 
 - **Was ueber den Boten feststeht, Stand Band 2, Kapitel 8.** Nam hat **eine
   fotokopierte Einzelseite** in einer Klarsichthuelle, **seit dem 14. Maerz**,
