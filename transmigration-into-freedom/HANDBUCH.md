@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 35.980 Woerter.
+Alle 4 Dokumente am Stueck. 36.355 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,40 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Back-audit: does anything written contradict what we decided? ===
+Author asked whether the session's decisions had been applied backwards. Checked
+rather than asserted. SCOPE: all 20 chapters, six sweeps.
+ALREADY RETROFITTED THIS SESSION, five chapters: ch04 (August to high summer),
+ch13 (byre scene rewritten whole, plus the four words, the kiss ladder, breasts,
+cuddling, the clumsiness rule, Tuesday, and a misplaced paragraph), ch16 (the
+third rest went from one sentence to a scene, plus no-tally and the face and the
+turned-away observation), ch17 (Improvised Weapon Handling), ch19 and ch20 (the
+split, Sivert leaving with them, Bern's elm, the silence count).
+NOTHING ELSE NEEDS CHANGING, and here is what was actually checked:
+  PAPER: zero occurrences in 20 chapters. ch19's parchment-in-the-Wold is the
+    rule working. Only survivor is Gaara saying "mostly in the paperwork" in
+    ch16, which is his Earth idiom like redundancy and onboarding, and which
+    becomes a small joke the day he builds the mill. KEPT ON PURPOSE.
+  PRICES: nothing is priced anywhere before ch19. The eleven coins are carried
+    for sixteen chapters and never valued. The goat scale contradicts nothing.
+  LEVELS: every number on the page fits the scale. Highest is the Roofwalker at
+    9, then Ylva at 8, then two 7s. AND ch11 SAYS "the reason nobody in your
+    village is a ten is not that they are lazy, it is that everybody who tried
+    is dead" - written long before the scale existed and now load-bearing for
+    it. Do not touch that line.
+  TECHNOLOGY: no in-world anachronism. Every hit for glass, print, clock and
+    small print is Earth memory or his own idiom.
+  LITERACY: ch04 has Hallvard sending a letter every month and "someone in a
+    warm room reads them", which is the trade-literacy rule confirmed by a line
+    written before the rule. ch12's "none of them wrote any of it down" is the
+    thread ch18 pays off. He was always literate in his own alphabet; ch18 is
+    explicit that what he learned was a cipher, not reading.
+  EARTH CALENDAR: machine-checked now.
+ONE OPEN JUDGEMENT CALL, left for the author: ch13 has him say "since about four
+o'clock" while ch16 reckons in "the fourth hour". Both are him counting and
+neither is wrong, but they are different registers eleven pages apart.
 
 
 === The publishing programme, and it closes the thesis ===
