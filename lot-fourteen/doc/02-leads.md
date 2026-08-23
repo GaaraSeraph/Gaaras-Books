@@ -77,6 +77,11 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 
 **Sein Verhältnis zu Kompetenz.** Er hält viel von seiner eigenen und noch mehr von fremder. Kompetente Menschen behandelt er mit echtem Respekt, unabhängig von deren Rang. Inkompetenz ist für ihn keine Schwäche, sondern eine Beleidigung, und sein einziger echter Auslöser neben Kindern.
 
+**Und Annie hält es genauso, festgelegt am 23.08.** Sie duldet Inkompetenz so
+wenig wie er. Das ist keine Charakterspiegelung, sondern der Grund, warum in
+Band 2 offenbleibt, ob Nam Byung-hee überlebt: Es hängt daran, wie gut sie in
+ihrem ersten Raum ist, und das wird dort entschieden und nicht vorher.
+
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
 **Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Wird nicht abgenommen. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.

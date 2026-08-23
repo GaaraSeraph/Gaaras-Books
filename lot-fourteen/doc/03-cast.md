@@ -222,6 +222,10 @@ sagt sie *"Ask me something else."*
 
 **Der Sanierer** - **Gegner in Band 2, und sein erster Auftritt ist eine
 Unterschrift unter einer Vorschrift ueber Aktenfuehrung** (Band 2, Kapitel 1).
+**Er sitzt im Auktionshaus und nirgends sonst.** Ein **Fonds** hat das Haus im
+Winter gekauft, er fuehrt es fuer den Fonds. Der Fonds hat es wegen des Buches
+gekauft und wird das Buch deshalb nicht verkaufen.
+
 Jemand hat das Auktionshaus uebernommen und macht daraus ein ordentlich
 gefuehrtes Geschaeft: feste Referenzen, aufbewahrte Eintraege, ein jaehrlich
 minutierter Review. **Er ist kein Verbrecher und tut nichts als seine Arbeit.**
@@ -236,7 +240,28 @@ Seite, und Georgij hat ihn gelesen. Annie kennt ihn und sagt ihn nicht.
 
 **Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
 der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes
-hereinkommt und **sonst nichts hat**. Annies Vetorecht ueber Routen erdrosselt
+hereinkommt und **sonst nichts hat**. **Und sie fuehrt ausserdem den Verband der
+unabhaengigen Verlader auf dieser Lane** - ein langweiliges Gremium, das es seit
+zwanzig Jahren gibt und das bis Januar niemand ernst genommen hat, weil es nichts
+zu verhandeln gab. Der Kanon steht dem nicht im Weg: `doc/04-world.md` nennt vier
+Gruppen auf den Lanes und sagt nirgends, wer sie anfuehrt.
+
+**Damit ist sie ein Gegenueber und kein Mitleidskauf.** Sie hat etwas, was Annie
+braucht - nicht Lastwagen, sondern die Faehigkeit, sechs Eigentuemer stillzuhalten
+oder sie alle gleichzeitig schreien zu lassen. Eine ertrinkende Spediteurin kann
+man uebergehen; **ein Verband, der geschlossen an ein Ministerium schreibt, ist
+ein Dokument mit einem Datum darauf.**
+
+**Und sie ist ausdruecklich NICHT Ye-rin.** Ye-rin hatte unsichtbare Macht und
+wollte, dass sie aufgeschrieben wird. Nams Macht ist sichtbar, formal und
+**reicht nicht**. Ihre Last ist, jede Woche sechs Leuten sagen zu muessen, dass es
+nichts Neues gibt.
+
+**Der Vorname ist bewusst androgyn.** Im Schriftverkehr wird sie fuer einen Mann
+gehalten, und das ist brauchbar.
+
+**Ob sie ueberlebt, ist nicht vorher entschieden** - siehe `doc/07-next.md` unter
+"Was NICHT vorher entschieden ist". Annies Vetorecht ueber Routen erdrosselt
 sie seit Januar. Wer nur eine Lane hat, macht keine Triage, sondern
 Verzweiflung - **der genaue Gegenentwurf zu Sang-hoon, der Information nie
 ausgibt.** Sie gibt alles am Tag aus, an dem sie es bekommt, und deshalb ist

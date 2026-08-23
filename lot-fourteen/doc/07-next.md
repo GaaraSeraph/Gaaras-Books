@@ -307,6 +307,116 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 
 ---
 
+## Band 2: Gegner, Gegenstand, Ziel
+
+**Entschieden am 23.08., und ohne diesen Abschnitt verwechselt man Gegner und
+Ziel.** Band 1 hat dieselbe Grammatik benutzt: Gegner war Sang-hoon, Gegenstand
+die Kim-Logistik, Ziel die Routen. **Sang-hoon war nie das Ziel** - er wurde
+gebunden und ferngehalten, nicht angegriffen.
+
+| | Band 2 |
+|---|---|
+| **Gegner** | **Nam Byung-hee** feuert. **Choi Dae-ho** gibt ihr die Waffe. **Der Sanierer** hat sie gebaut, ohne es zu wollen |
+| **Gegenstand** | **Annie selbst.** Kein Unternehmen und keine Route - die gestrichene Zeile vom 19. Februar |
+| **Ziel** | **Dass die Zeile nicht gegen sie verwendbar ist** |
+
+**Nam ist der Gegner und nicht das Ziel.** Sie ist ausserdem die **Uhr**: Sie
+ertrinkt seit Januar, also redet sie als Erste.
+
+**Die Nebenrechnung, die man nicht fuer das Ziel halten darf.** Das Vetorecht
+erdrosselt vier Gruppen, und das erklaert, **warum** Nam schiesst - es ist aber
+nicht, worum gekaempft wird. Ein Zug, kein Ziel.
+
+**Und die Bloesse dahinter ist groesser als Nam.** Was Annie im Dezember gekauft
+hat, ist ein privates Vetorecht in einem Gesellschaftervertrag. Vier Gruppen
+werden von einem Recht gewuergt, das sie nicht sehen, nicht anfechten und nicht
+einplanen koennen. Frueher oder spaeter geht eine davon zu einem Ministerium oder
+einer Zeitung, und dann heisst die Geschichte: ein Chaebol hat sich eine
+Engstelle auf die industrielle Grundversorgung gekauft.
+
+---
+
+### Wie die Waffe unbrauchbar wird: drei Wege
+
+**Geld allein geht nicht** - das ist die Praemisse des Sanierers, und Band 2,
+Kapitel 1 baut sie auf.
+
+1. **Die anderen zwei Zeilen finden.** Auf der Seite hinten stehen **vier**
+   Eintraege mit *"Retained, not disclosed"*, und **zwei davon sind Annies**
+   (Los elf im Oktober, Los vierzehn im Februar). Wer die anderen zwei bezahlt
+   hat, hat exakt dieselbe Bloesse und mit grosser Wahrscheinlichkeit sehr viel
+   mehr Macht. **Dann feuert niemand mehr, weil der Abzug Groessere mitnimmt.**
+   Kostet nichts ausser Aktenarbeit, ist Georgijs eigenes Verfahren, und
+   **niemand muss ihn beauftragen.** Georgij spricht die Zahl in Kapitel 1 selbst
+   aus: *"There are four lines. I am one of them."*
+2. **Das Haus beenden.** Nicht das Buch - **das Buch ist nicht mehr einholbar.**
+   Die Liste geht laut Kapitel 1 per Post an jeden Kaeufer, seit vier Jahren. Man
+   kann ein Buch verbrennen, keine Post. **Solange das Haus existiert, ist die
+   Liste ein beglaubigtes Dokument**: es gibt eine Adresse, die bestaetigt, dass
+   die Zeile echt ist. Ohne das Haus ist dieselbe Seite ein Zettel von einem
+   Haendler, den es nicht mehr gibt, fuer den niemand geradesteht. **Und ein Haus
+   beendet man wie Hanseong** - man laesst es in etwas beissen, das es nicht mehr
+   loslassen kann. Nur diesmal weiss Georgij vorher, was er tut. Der Ansatzpunkt
+   liegt offen: **ein Mann, der stolz auf seine Aktenfuehrung ist, kann dazu
+   gebracht werden, etwas zu Akte zu nehmen.**
+3. **Nam uebernehmen.** Nimmt die Schuetzin, nicht die Munition - Choi findet in
+   einer Woche die naechste. **Als Zug trotzdem richtig**, weil Nams Position der
+   Zugang zur Lane ist. Siehe den Kasten unten.
+
+**Die Reihenfolge, in der es laufen soll:** Georgij geht Weg 1, weil er nichts
+kostet und keinen Auftrag braucht. **Nams Uhr laeuft schneller, sie feuert, bevor
+er fertig ist.** Danach ist Weg 2 der einzige uebrige Zug, zu einem Preis, den
+vorher niemand zahlen wollte.
+
+**Verworfen: Annie besitzt das Haus am Ende.** Zu bequem, und es macht Geld zur
+Loesung, obwohl der ganze Band darauf steht, dass Geld hier nicht mehr reicht.
+Der Fonds hinter dem Haus hat das Buch **wegen** seiner Hebelwirkung gekauft, und
+Hebel verkauft man nicht. Wenn ueberhaupt gekauft wird, dann um zu schliessen,
+nicht um zu halten.
+
+---
+
+### Der Preis, und er darf nicht weichgezeichnet werden
+
+**Einzelne aus einem Block herauszudrehen ist Sang-hoons Methode.** Zwei
+Direktoren, einzeln, vierhundert Kilometer von zu Hause, im Paradise in Busan.
+Band 1 hat vierunddreissig Kapitel gegen genau das gekaempft, und Georgij hat den
+Kims in Kapitel 26 in genau diesen Worten versprochen, dass es ihnen nicht
+passiert.
+
+**Das ist kein Einwand, sondern der Fall, und das Buch hat ihn verdient. Aber es
+muss teuer sein, und niemand darf so tun, als waere es das nicht.** Wer die
+Uebernahme schreibt, ohne dass irgendwo im Text jemand benennt, wessen Verfahren
+das ist, hat die Szene nicht zu Ende gedacht.
+
+**Und der Preis hat einen Namen aus Kapitel 2.** Wenn Nams Verband unter Annies
+Zuteilung aufgeht, gehen die sechs Firmen nicht alle mit durch. **Der Mann aus
+Ulsan, der Dienstagnacht in der Fahrerkabine am Tor schlaeft, ist der, der
+untergeht.** Georgij weiss es vorher, rechnet es aus und tut es trotzdem - so wie
+bei den neunzehn Seiten. Damit zahlt den Preis ein Mensch, den der Leser
+getroffen hat, und keine Abstraktion.
+
+---
+
+### Was NICHT vorher entschieden ist
+
+**Ob Nam ueberlebt.** Das haengt daran, wie kompetent sie sich in ihrem ersten
+Raum gibt, und wird dort entschieden und nicht hier. Begruendung in
+`doc/02-leads.md`: Inkompetenz ist neben Kindern Georgijs einziger echter
+Ausloeser, und Kompetente behandelt er mit echtem Respekt, unabhaengig vom Rang.
+**Annie haelt es genauso.** Wer Nam schreibt, baut ihr die Gelegenheit, gut zu
+sein, und nimmt sie ihr nicht ab.
+
+**Und Annie gibt ihm das Ziel nicht.** Sie sieht ein Frachtproblem und einen
+Katalog. Georgij ist der, der die vier Zeilen gesehen hat. Das ist Kapitel 4 -
+*"I'd rather find out what you bring me when nobody has told you what to want."*
+Die **Mitte** diktiert sie weiterhin (*"Bring me the Ulsan one by name"*, Band 2
+Kapitel 2), das Grosse nicht. **Daraus folgt eine Szene, die noch aussteht:** Er
+wird ihr irgendwann erklaeren muessen, warum er seit Wochen etwas anderes tut als
+das, worum sie gebeten hat.
+
+---
+
 ## Offene Faeden
 
 Was unaufgeloest ist und irgendwann bezahlt werden muss. Wer einen Faden
