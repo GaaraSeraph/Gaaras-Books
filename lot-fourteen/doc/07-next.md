@@ -696,11 +696,34 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
-- **DER ABEND NACH DEM BUS. Faellig sofort, gesetzt am Ende von Kapitel 29.**
-  Georgij hat einer Frau, die er zweimal gesehen hat, den Satz gegeben, der
-  Annie mit dem 4. Oktober verbindet. **Niemand hat es ihm erlaubt, und er geht
-  heute Abend in das kleine Zimmer und sagt es.** Das ist die erste Sache in
-  zwei Baenden, die er ohne Erlaubnis getan hat, und sie ist die groesste.
+- **DER ARZT IM JULI. Ab Kapitel 30 der Faden, und Annie hat gesagt warum.**
+  *"That is the first piece of paper in this entire business that was made by
+  somebody who was not in the trade."* **Eine Praxis fuehrt Akten, und wer im
+  Juli jemanden gesehen hat, hat in das Feld fuer den Namen etwas geschrieben.**
+  Alles andere in diesem Geschaeft ist von Leuten gemacht worden, die Papier
+  verschwinden lassen koennen. Eine Empfangskraft kann das nicht und hat es nie
+  gebraucht.
+
+- **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
+  nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.
+  **Faellig: das Angebot geht raus, mit dem Eigentuemernamen auf der ersten
+  Seite.** Ob sie es annimmt, ist offen und muss offen gespielt werden - sie hat
+  im April schon einmal nein gesagt.
+
+  **Und die Nebenwirkung steht schon im Text:** sie wird binnen einer Woche
+  ausrechnen, dass man sie mit Absicht sicher gemacht hat, **und sie darf das
+  uebelnehmen.**
+
+- **In etwa vier Tagen.** *"You are going to feel it in about four days when you
+  notice that I did the thing you should have done in April and that it took me
+  eleven minutes."* **Das ist der 2. Juni, und es ist eine Ansage mit Datum.**
+
+- **Der Satz, den er am 29. Mai nicht zu Ende gesagt hat.** *"I do not mind being
+  corrected by you"* - und dann hoerte er das Ende kommen. **Annie: "Then do not.
+  Not tonight, and not because I would not want it."** Das ist die ausdrueckliche
+  Vertagung des Schlusssatzes des Bandes und der Faden, an dem die Romanze
+  haengt. **Er darf nicht in einem ruhigen Moment kommen, sondern nur unter
+  Erschoepfung.**
 
 - **LOS SECHS. Der Ertrag aus Kapitel 29 und ab jetzt die Spur.**
   Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September

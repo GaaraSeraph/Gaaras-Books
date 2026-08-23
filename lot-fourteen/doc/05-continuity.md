@@ -214,6 +214,12 @@ nachrechnen, und `check.py` tut das automatisch.
   Jahren, den Schalter offen bis Mitternacht ohne Verrechnung, und vier
   abgerechnete Posten gegen dieselbe Fundstelle: **Blumen, zweimal. Ein Fahrer.
   Und ein Arzt, im Juli** (Band 2, Kapitel 29)
+- Tag 238, Fr 29. Mai, zwanzig nach sieben: **er sagt es ihr, bevor er den Ertrag
+  auf den Tisch legt.** Annie straft nicht, sondern korrigiert: **Mrs Jeon
+  bekommt die Settlement-Stelle der Gwangyang-Firma, deren Haelfte seit dem
+  18. Mai Annie gehoert** - mit dem Eigentuemernamen auf der ersten Seite.
+  **Und er schlaeft zum ersten Mal in einem Raum ein, in dem sie ist**
+  (Band 2, Kapitel 30)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1472,6 +1478,48 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Anruf bekommt im Bus seine Antwort, zehn Wochen zu spaet:** *"The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April."*
 
   **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
+
+- **Band 2, Kapitel 30** *A person with nothing* (v1.0) - **Tag 238, Fr 29. Mai, zwanzig nach sieben. Eine Szene, das kleine Zimmer, bis halb zwoelf.**
+
+  **Der erste Absatz benennt die Reihenfolge, die er NICHT nimmt, und dass er sie kann:** erst das Mitgebrachte, dann der Preis, wenn der Raum schon zufrieden ist. *"He has used that order on other people this year and it works."* **Er sagt es andersherum, und das ist der ganze Anfang.**
+
+  **Annies Reaktion ist keine Reaktion, sondern eine Verwaltungsfrage:** *"Her name."* So nimmt sie einen Schlag auf.
+
+  **Und die einzige Regung, die sie nicht kontrolliert, ist eine Kleinigkeit:** *"Annie put the folder down on the desk and squared it with two fingers, which is not a thing she does."*
+
+  **Sie stellt die Lage selbst auf, ohne Vorwurf:** *"So there is a woman in this city who can put a buyer and a lot number in the same sentence and be believed. She was behind the glass when both of them went through, and there is nothing whatever standing between her and a telephone."* - *"And you decided that." - "I decided that."*
+
+  **Der Ertrag kommt erst danach, und bei einem der vier Posten dreht sie sich um.** *"She turned round at the doctor."*
+
+  **Und ihr Satz darueber ist der Grund, warum das Kapitel gut ausgeht:** *"That is the first piece of paper in this entire business that was made by somebody who was not in the trade. Everything else has been made by people who know how to make it disappear. A receptionist in a practice does not know that and has never needed to."*
+
+  **Der Satz, den er in der Hand hatte und nicht benutzt hat, und sie hat den ganzen Abend darauf gewartet.** Sie benennt ihn selbst und beziffert ihn: *"It is a good sentence. It is worth about four minutes and it would have cost you the rest of the year."*
+
+  **Und sein Grund, ihn nicht zu benutzen, ist die praeziseste Unterscheidung im Band:** *"You held something back from me. I handed something of yours to a stranger. Those are two different verbs and only one of them can be taken away from the person it belongs to."* - **"That is the answer, and I want you to know that I checked."**
+
+  **Sie gibt ihm sein Urteil ausdruecklich recht und nimmt ihm den Trost daran sofort wieder weg:** *"She is not going to use it." - "No." - "And it does not matter at all."*
+
+  **Und der Titel steht in seiner Antwort:** *"A person with nothing has exactly one asset, and it is the thing she knows, and she does not have to be a bad woman for that to become the only door in the room."*
+
+  **Annies Entscheidung ist keine Strafe, sondern das Instrument, das Georgij im April haette nehmen muessen.** Die Settlement-Stelle der Gwangyang-Firma, deren Haelfte ihr seit dem 18. Mai gehoert. **Und die Bedingung ist genau die, an der der Anruf im April gescheitert ist:** der Eigentuemername auf der ersten Seite, schriftlich, und der wahre Grund dazu.
+
+  **Die Asymmetrie sagt sie selbst:** *"That is in the commercial register and anybody in this country may go and read it. That is the whole of the difference between what I am about to give her and what you gave her at half past ten this morning."*
+
+  **Und dann der Satz, an dem das Kapitel haengt.** *"You have just described what you did to me." - "Yes."* Und danach, ohne jedes Gewicht: **"You were the most dangerous thing in that building and you had nothing, and I have never once pretended to myself that those were two separate facts."**
+
+  **Was daraus folgt, sagt er, und sie korrigiert es:** *"Then I have not been punished." - "No. You have been corrected, which is worse, and you are going to feel it in about four days when you notice that I did the thing you should have done in April and that it took me eleven minutes."*
+
+  **Die Zusage am Schluss ist vollstaendig, weil sie die Vollstaendigkeit verlangt** (*"I do not want a piece of it turning up in September with a good reason attached"*): **"I will not give anything of yours to anybody without asking you first, and if the room is such that I cannot ask, I will not give it, and I will lose whatever is lost."**
+
+  ---
+
+  **Und die Romanze dieses Kapitels ist die Erschoepfung, und sie ist die erste, die ihn einholt.** Er laeuft seit dem 18. Maerz ohne einen Tag Pause. **Die Hand im Nacken ueber dem Kragen ist neu** (Kapitel 27 war die Hand im Haar), und dauert etwa sechs Sekunden.
+
+  **Der Satz, den er nicht zu Ende sagt, ist die Vorbereitung auf den Schlusssatz des Bandes.** *"I was going to say that I do not mind being corrected by you, and then I heard the end of the sentence coming and I did not want to put it in the room while you are working."* - **"Then do not. Not tonight, and not because I would not want it."**
+
+  **Und dann das Erste, was er in zwei Baenden in ihrer Gegenwart nicht kontrolliert: er schlaeft ein.** Kopf an der Seite des Schreibtischs, eine Hand offen auf dem Knie. **Annie bewegt das Bein eine Stunde und zwanzig Minuten lang nicht** und blaettert mit zwei Fingern.
+
+  **Und um halb zwoelf sagt sie ein Wort laut, zu niemandem: "Yes."** Woraufhin, bleibt offen und soll offen bleiben.
 
 ---
 
