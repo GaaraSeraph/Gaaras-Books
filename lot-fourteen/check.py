@@ -562,6 +562,56 @@ def echo_report(best):
         if n >= 3:
             print(f"  {n}x {u}  {s}")
 
+    # Fast-woertlich. Der Satzvergleich oben hat am 23.08. eine Stelle
+    # durchgelassen, die aus Kapitel 17 abgeschrieben war: dort steht "He
+    # could have named the house each came out of and roughly what it had
+    # cost to learn", in 33 stand "He could have named the house every other
+    # smile came out of und roughly what it had cost to learn". Ein Wort
+    # getauscht, und der Satzvergleich sieht zwei verschiedene Saetze.
+    # Ein Leser sieht das nicht - er sieht denselben Satz zweimal.
+    grams = collections.defaultdict(set)
+    for k in sorted(best):
+        tx = open(best[k][1], encoding="utf-8").read()
+        tx = re.sub(r"^#.*$|^\*Lot Fourteen.*$", "", tx, flags=re.M)
+        w = re.findall(r"[A-Za-z']+", tx.lower())
+        for i in range(len(w) - 7):
+            grams[" ".join(w[i:i + 8])].add(k)
+
+    treffer = {}
+    for g, ks in grams.items():
+        if len(ks) > 1:
+            treffer[g] = sorted(ks)
+
+    # Ab DREI Kapiteln. Bei zwei sind es fast immer Absicht: ein Zitat, ein
+    # Rueckbezug, eine feste Zeile einer Figur. Der erste Lauf meldete alles
+    # ab zwei und war zweihundert Zeilen lang, und eine Liste in der Laenge
+    # liest denselben Dienst wie gar keine.
+    zwei = sum(1 for ks in treffer.values() if len(ks) == 2)
+    treffer = {g: ks for g, ks in treffer.items() if len(ks) >= 3}
+
+    print()
+    print("Fast-woertlich: gleiche Achtwortfolge in drei oder mehr Kapiteln:")
+    if not treffer:
+        print("  keine")
+    # Ueberlappende Folgen zu einer Fundstelle zusammenfassen, sonst meldet
+    # ein abgeschriebener Halbsatz sich fuenfmal.
+    # Zwei Achtwortfolgen aus derselben abgeschriebenen Stelle ueberlappen sich
+    # um sieben Woerter. Der erste Versuch verglich die Anfaenge und fasste
+    # darum gar nichts zusammen: eine Stelle stand fuenfmal da. Jetzt gilt als
+    # dieselbe Fundstelle, was mit einer bereits gezeigten ein Fenster von
+    # fuenf Woertern teilt.
+    gesehen, gezeigt = set(), []
+    for g in sorted(treffer, key=lambda x: (-len(treffer[x]), x)):
+        w = g.split()
+        fenster = {" ".join(w[i:i + 5]) for i in range(len(w) - 4)}
+        if fenster & gesehen:
+            continue
+        gesehen |= fenster
+        gezeigt.append(g)
+        print(f"  {treffer[g]}  {g[:78]}")
+    print(f"  ({zwei} weitere Folgen stehen in genau zwei Kapiteln und sind "
+          f"nicht gelistet. Bei zweien ist es meist Absicht.)")
+
     print()
     print("Wendungen, die pro Kapitel gedeckelt sind und darum quer laufen:")
     for muster in ("would rather", "not going to", "in the way that counts"):

@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.6 | 3.115 |
+| 33 | v1.7 | 3.115 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10324,7 +10324,7 @@ He sat back in the chair he had not been offered, and put one hand on each knee,
 
 "It is five."
 
-"Two of them are mine. Three, now." He said it the way a man reads out a delivery note. "In November I told you that you could have stopped using it."
+"Two of them are mine. Three, now." He put his cup back on the saucer without having drunk from it. "In November I told you that you could have stopped using it."
 
 "You did."
 
@@ -10374,7 +10374,9 @@ Park Sang-hoon sat entirely still with one hand on each knee for what Georgij co
 
 Somewhere in the fifth of them, Georgij began to smile.
 
-It was not one of the ones he owned. He could have named the house every other smile came out of and roughly what it had cost to learn, and this was not any of them. It was the other kind, and it had happened twice in seventeen years, and both times there had been exactly one other person in the room and she had known everything already.
+It was not one of the ones he owned. Those are kept somewhere and brought out, and every one of them has a job.
+
+This was the other kind. It had happened twice in seventeen years, and both times there had been one other person in the room and she had known everything already. Neither time had it been in front of the man it was about.
 
 He did not put it there and he could not have stopped it, and he made no attempt to.
 
