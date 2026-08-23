@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 15 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 18.498 Woerter.
+Alle 4 Dokumente am Stueck. 18.871 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -132,9 +132,14 @@ The six (ch14, blooded ch15)
   the first time anybody has told me a number about myself."
 - VIDAR is the heavy man with the boar spear, named at last, mid-fight. Loses
   the spear to a five and gets it back by standing on the thing's head.
-- HALLE'S BOY does not run when told to. He puts his bar into a Level 7's leg
+- SIVERT, nineteen, Halle's son, Level 2. Named at the trough in ch14 the same
+  way Bern named himself before the fighting: "Sivert. In case."
+  Does not run when told to. He puts his bar into a Level 7's leg
   joint, which is the bravest and stupidest thing that happens underground that
   year, and it costs him most of the skin on one forearm.
+- Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
+  man in this village. He is also exactly Gaara's age, which he points out
+  himself, and which Gaara had managed not to notice for two days.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
@@ -977,6 +982,21 @@ Sexuality and relationships
   custom. Whether people around him approve is their problem, not his, the same
   way he treats the missing charisma stat.
 - How this world treats such relationships is not established yet (see threads).
+  SIVERT (ch14, named; ch15). Nineteen, Halle's son, Level 2, the lowest number
+  Gaara took underground. In ch15 Gaara tells him plainly that he is better
+  looking than anybody has any business being at the bottom of a drain, and
+  Sivert goes red and says nothing, and Marit watches the whole thing and says
+  "carry on".
+  DIRECTION, and the conditions are not negotiable: if Sivert comes to him, he
+  is welcome, and Gaara does not chase, does not repeat the offer, and does not
+  spend authority on it. Right now Gaara gives him orders in a tunnel and is
+  responsible for whether he comes out of it, and Gaara is exactly the sort of
+  man who has watched that asymmetry ruin people and will say so on the page
+  before anything happens. A no costs Sivert nothing, and it has to be visibly
+  true rather than merely stated.
+  He is not a replacement for Marit and must never be written as one. Gaara is
+  polyamorous and does not run a queue.
+
   No romance has started (as of Chapter 12), but the first pass has been made and
   it tells you how he does it: mid-fight, in ch6, he tells Marit she has a
   magnificent ass and says outright that the timing is deliberate, because in a
@@ -1267,6 +1287,18 @@ The elder's secret (ch12) - the first arc's answer
   room; and he wants three or four hunting trips into that room BEFORE they seal
   it, because nothing else in the valley pays like a six. Hallvard calls it
   farming. Gaara calls it using, and says the difference is mostly timing.
+
+Coming of age (ch15, from Marit)
+- SIXTEEN IS A MAN HERE. "Takes a man's work and a man's share and a man's
+  beating if he earns one." There is no adolescence in this village; there is
+  child, and then there is the work.
+- So a nineteen-year-old is not a boy, and Gaara calling one that for two days
+  was him importing a category from a world where people are children until
+  twenty-five. Sivert lets him do it. Marit does not.
+- And the joke underneath it, which Sivert says out loud: GAARA IS ALSO
+  NINETEEN. "Everybody keeps saying it about me and nobody says it about you."
+  He is thirty-eight in the head and nineteen in the body and has been using the
+  body's age as a fact about other people and never about himself.
 
 How people here test a man (ch4, confirmed ch7)
 - They make him say it twice and listen to the second telling against the first.

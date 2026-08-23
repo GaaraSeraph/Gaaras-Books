@@ -105,7 +105,7 @@ Four for the second step. Which meant three more from where he stood.
 
 "How many of those things did I kill last night?" he said.
 
-"One. The big one." Marit did not look round. "Bern had the first. Bern and Jorn and Halle's boy had the second, and it took them a while."
+"One. The big one." Marit did not look round. "Bern had the first. Bern and Jorn and Halle's Sivert had the second, and it took them a while."
 
 "Yes," said Gaara. "That is what it says too."
 

@@ -115,9 +115,14 @@ The six (ch14, blooded ch15)
   the first time anybody has told me a number about myself."
 - VIDAR is the heavy man with the boar spear, named at last, mid-fight. Loses
   the spear to a five and gets it back by standing on the thing's head.
-- HALLE'S BOY does not run when told to. He puts his bar into a Level 7's leg
+- SIVERT, nineteen, Halle's son, Level 2. Named at the trough in ch14 the same
+  way Bern named himself before the fighting: "Sivert. In case."
+  Does not run when told to. He puts his bar into a Level 7's leg
   joint, which is the bravest and stupidest thing that happens underground that
   year, and it costs him most of the skin on one forearm.
+- Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
+  man in this village. He is also exactly Gaara's age, which he points out
+  himself, and which Gaara had managed not to notice for two days.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
