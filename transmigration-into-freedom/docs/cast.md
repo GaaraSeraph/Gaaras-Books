@@ -268,6 +268,15 @@ Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
 
+Ordulf, ch28: WALKS TWO DAYS ON FOOT to deliver the blade and will not say why.
+"I have not been out of the Wold in nine years." Spends a quarter of an hour
+with Bern about elm and nothing else, and leaves the next morning without
+saying goodbye to anybody, which Bern calls the friendliest thing he ever did.
+
+Ask, ch28: COUNTS THE FOURTEEN'S SCHEDULE better than anybody and cannot say
+the number, so Marit sits with him and says it. Second time the crew's method
+is built around what Ask can do rather than around what he cannot.
+
 Gunnar, the lord's man, out of the Wold, about forty (ch26)
 - A good coat, a bag, two wax tablets, two riders. Rode on Ketil's report.
 - NOT A VILLAIN AND MUST NOT BECOME ONE. He keeps a ledger, he has a superior,

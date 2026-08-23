@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 27 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 61.106 Woerter.
+Kanon: 28 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 62.443 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -284,6 +284,15 @@ the front page for it - "I am not having what Bern has."
 Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
+
+Ordulf, ch28: WALKS TWO DAYS ON FOOT to deliver the blade and will not say why.
+"I have not been out of the Wold in nine years." Spends a quarter of an hour
+with Bern about elm and nothing else, and leaves the next morning without
+saying goodbye to anybody, which Bern calls the friendliest thing he ever did.
+
+Ask, ch28: COUNTS THE FOURTEEN'S SCHEDULE better than anybody and cannot say
+the number, so Marit sits with him and says it. Second time the crew's method
+is built around what Ask can do rather than around what he cannot.
 
 Gunnar, the lord's man, out of the Wold, about forty (ch26)
 - A good coat, a bag, two wax tablets, two riders. Rode on Ketil's report.
@@ -666,6 +675,15 @@ The seven points stay unspent through both chapters, and the reason changes
 between them: in ch25 he is waiting to see what the city asks, and by the end
 of ch27 he knows what is actually coming and there is no attribute for it.
 
+Chapter 28: LEVEL 7 ON A SINGLE KILL FOUR LEVELS ABOVE HIM. HP 302/415, STR 17,
+DEX 22, CON 19, INT 27, WIS 10, Kills 16, nothing unspent.
+FIFTEEN POINTS INTO INT, THE BOX THAT HAS NEVER MOVED. Third dump in a row of
+the ch12 pattern, all of it in one place, and the first one that buys something
+other than a body. The effect is written as LOUD and not as clever, so that the
+book does not hand him a solution to anything.
+CLASS IS STILL NONE at Level 7, and it is now something he is afraid of rather
+than something he has not noticed.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -778,6 +796,45 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== ch28: they kill it with the plumbing, not with a plan ===
+The doctrine from ch25 was hunt up on purpose. Executed, that had to be more
+than a bigger wall, or it is ch17 and ch25 again with a larger number.
+SO THE KILL IS AN INFRASTRUCTURE KILL. The rib slots were established in ch8 as
+civil engineering; the sluice gate was lifted in ch25 and priced at nine goats.
+Both were sitting there. They carry the gate back UP the hill and drop it into
+a slot cut for exactly that eight hundred years ago.
+AND IT DOES NOT KILL IT, IT HOLDS IT, which is the honest version: what follows
+is twenty minutes of nine people working on a thing that cannot turn round, and
+the chapter says out loud that it was neither brave nor a fight.
+IT IS ALSO THE THESIS IN ONE OBJECT. The world lost administration, not
+technique. His edge has never been knowledge; it is noticing that two things
+cut by the same people fit each other.
+
+=== The fifteen go into INT, and it is written as LOUD rather than clever ===
+First point that box has ever had, at Level 7. His reason is a genuine finding
+about the system: it pays out on what a man uses (ch2), it has watched him do
+nothing but think for seven levels, and it has never scored one of them.
+THE DANGER IS OBVIOUS AND IS HANDLED IN THE WRITING. INT 27 on a scale where 10
+is already above human could hand him every future problem pre-solved. So the
+effect is deliberately NOT a capability: he holds the whole street at once, did
+not ask to, and needs somebody to talk to him until he finds the handle.
+IT ALSO COSTS HIM SOMETHING TRUE: "I have spent my whole life being pleased
+with myself for something, and I have just found out I was doing it on a
+twelve."
+THIS IS A FORK THE AUTHOR MAY WANT BACK. If INT 27 turns out to be too much, it
+is one block and two paragraphs to change, and nothing later depends on it yet.
+
+=== Class stays None, on purpose, and becomes the title ===
+Thread 5 has been open since ch1 and a class would have been the obvious reward
+here. Withheld, because the funnier and truer beat is the empty box after the
+biggest chapter of building he has had: company, roll, doctrine, blade.
+AND IT TURNS FROM A GAP INTO A THREAT. He has assumed for seven levels that he
+is the man doing all this, and something has been sitting there with an empty
+line waiting to tell him what he is. That is worth more than a word.
+WHEN IT LANDS, THE TRIGGER SHOULD NOT BE A KILL. Everything he has actually
+built is clerical.
 
 
 === ch26: the display happens by accident, and that is better ===
@@ -2591,7 +2648,8 @@ nicht diese Zeile von Hand.
 25. The First of Four
 26. Then Write Us Down
 27. Everything After That Is Filing
-28. (planned) the blade, and what a company owes the man who hired it
+28. Still None
+29. (planned) the fourth trip, and what a company owes the man who hired it
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3694,6 +3752,53 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The blade, a fourteen, and fifteen points in the box that never moved (ch28)
+- ORDULF WALKS TWO DAYS TO DELIVER IT HIMSELF and denies flatly that he came
+  to look at Bern. A quarter of an hour, all of it about elm, not one word
+  about a leg. This is the ch24 payoff and it is paid without a speech.
+- THE BLADE IS CALLED INVOICE. Two feet, full spine, cord grip, and NOT
+  BEAUTIFUL, because none of the eleven days went into anything a person could
+  admire. "A man who names a blade after a virtue is telling you what he wishes
+  he was. I would rather be reminded what I owe."
+  BRICK IS NOT RETIRED and stays in his belt. He is not sentimental about a
+  thing that worked twice.
+- THEY KILL A ROOFWALKER LEVEL 14 AND THE METHOD IS THE BOOK'S WHOLE THESIS.
+  Not a wall this time: A RIB SLOT. The stone tube under the fields has a slot
+  either side of every rib (ch8), the same people built the city, so the
+  cistern channel has one too. They carry the ch25 SLUICE GATE BACK UP THE HILL
+  and drop half a ton of dressed iron into a slot cut to hold exactly that.
+  IT DOES NOT KILL IT. IT HOLDS IT. Nine people then go in at a thing that
+  cannot turn round, for twenty minutes, and it is not brave and it is not a
+  fight, and Torv is sick against a wall afterwards.
+  "The first idea I have had in this world that my old life was any use for."
+  ASK COUNTS THE SCHEDULE and cannot say the number, so Marit says it for him.
+  Four trips to the water between first light and noon.
+- LEVEL 7 ON ONE KILL FOUR LEVELS UP, and his hands shake, which they did not
+  do after the eleven. HP 302/415, STR 17, DEX 22, CON 19, Kills 16.
+  Arithmetic: 380 + 20 (level) + 15 (CON) = 415. Points 7 + 8 = 15.
+- FIFTEEN INTO INT, 12 to 27, AND IT IS THE FIRST POINT THAT BOX HAS EVER HAD.
+  His reason is a real observation about the system: seven levels of watching
+  him read rooms, run a crew, write a doctrine, register a company and put a
+  valley on a roll, AND IT HAS NEVER SCORED ONE OF THEM AS THINKING.
+  THE EFFECT IS UNSETTLING RATHER THAN EMPOWERING, deliberately. Nothing gets
+  faster or warmer. He simply holds the whole street at once and did not ask
+  to. "It is not good and it is not bad. It is loud." He needs Sivert to talk
+  to him about elm until he finds the handle.
+  AND HE NAMES THE WOUND IN IT: "I have spent my whole life being pleased with
+  myself for something, and I have just found out I was doing it on a twelve."
+- CLASS IS STILL NONE and that is the title and the point. He has a company, a
+  village on a roll, a doctrine on a byre and a blade named after a debt, and
+  the box is empty. "The most accurate performance review I have ever been
+  given in either world."
+  AND HE SAYS WHAT IS FRIGHTENING ABOUT IT: he has assumed for seven levels
+  that he is the man doing all this, and something has been sitting there with
+  an empty box waiting to tell him what he actually is.
+- THE GATE STAYS IN THE SLOT UP THE HILL. Nine goats abandoned on purpose, and
+  he calls it deployed. "I have finally found a use for a thing that does
+  nothing at all except stand still and refuse to move."
+- THE CLOSING IMAGE IS THE LIVE THREAD: a wax tablet going east on a horse
+  with the name of a company on it in somebody else's hand.
 
 The lord's man, and Oldstep goes on a roll (ch26)
 - GUNNAR, the lord's man out of the Wold, about forty, a good coat, a bag and

@@ -33,7 +33,8 @@ nicht diese Zeile von Hand.
 25. The First of Four
 26. Then Write Us Down
 27. Everything After That Is Filing
-28. (planned) the blade, and what a company owes the man who hired it
+28. Still None
+29. (planned) the fourth trip, and what a company owes the man who hired it
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1136,6 +1137,53 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The blade, a fourteen, and fifteen points in the box that never moved (ch28)
+- ORDULF WALKS TWO DAYS TO DELIVER IT HIMSELF and denies flatly that he came
+  to look at Bern. A quarter of an hour, all of it about elm, not one word
+  about a leg. This is the ch24 payoff and it is paid without a speech.
+- THE BLADE IS CALLED INVOICE. Two feet, full spine, cord grip, and NOT
+  BEAUTIFUL, because none of the eleven days went into anything a person could
+  admire. "A man who names a blade after a virtue is telling you what he wishes
+  he was. I would rather be reminded what I owe."
+  BRICK IS NOT RETIRED and stays in his belt. He is not sentimental about a
+  thing that worked twice.
+- THEY KILL A ROOFWALKER LEVEL 14 AND THE METHOD IS THE BOOK'S WHOLE THESIS.
+  Not a wall this time: A RIB SLOT. The stone tube under the fields has a slot
+  either side of every rib (ch8), the same people built the city, so the
+  cistern channel has one too. They carry the ch25 SLUICE GATE BACK UP THE HILL
+  and drop half a ton of dressed iron into a slot cut to hold exactly that.
+  IT DOES NOT KILL IT. IT HOLDS IT. Nine people then go in at a thing that
+  cannot turn round, for twenty minutes, and it is not brave and it is not a
+  fight, and Torv is sick against a wall afterwards.
+  "The first idea I have had in this world that my old life was any use for."
+  ASK COUNTS THE SCHEDULE and cannot say the number, so Marit says it for him.
+  Four trips to the water between first light and noon.
+- LEVEL 7 ON ONE KILL FOUR LEVELS UP, and his hands shake, which they did not
+  do after the eleven. HP 302/415, STR 17, DEX 22, CON 19, Kills 16.
+  Arithmetic: 380 + 20 (level) + 15 (CON) = 415. Points 7 + 8 = 15.
+- FIFTEEN INTO INT, 12 to 27, AND IT IS THE FIRST POINT THAT BOX HAS EVER HAD.
+  His reason is a real observation about the system: seven levels of watching
+  him read rooms, run a crew, write a doctrine, register a company and put a
+  valley on a roll, AND IT HAS NEVER SCORED ONE OF THEM AS THINKING.
+  THE EFFECT IS UNSETTLING RATHER THAN EMPOWERING, deliberately. Nothing gets
+  faster or warmer. He simply holds the whole street at once and did not ask
+  to. "It is not good and it is not bad. It is loud." He needs Sivert to talk
+  to him about elm until he finds the handle.
+  AND HE NAMES THE WOUND IN IT: "I have spent my whole life being pleased with
+  myself for something, and I have just found out I was doing it on a twelve."
+- CLASS IS STILL NONE and that is the title and the point. He has a company, a
+  village on a roll, a doctrine on a byre and a blade named after a debt, and
+  the box is empty. "The most accurate performance review I have ever been
+  given in either world."
+  AND HE SAYS WHAT IS FRIGHTENING ABOUT IT: he has assumed for seven levels
+  that he is the man doing all this, and something has been sitting there with
+  an empty box waiting to tell him what he actually is.
+- THE GATE STAYS IN THE SLOT UP THE HILL. Nine goats abandoned on purpose, and
+  he calls it deployed. "I have finally found a use for a thing that does
+  nothing at all except stand still and refuse to move."
+- THE CLOSING IMAGE IS THE LIVE THREAD: a wax tablet going east on a horse
+  with the name of a company on it in somebody else's hand.
 
 The lord's man, and Oldstep goes on a roll (ch26)
 - GUNNAR, the lord's man out of the Wold, about forty, a good coat, a bag and

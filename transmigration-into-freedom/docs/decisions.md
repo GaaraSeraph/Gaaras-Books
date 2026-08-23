@@ -3,6 +3,45 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== ch28: they kill it with the plumbing, not with a plan ===
+The doctrine from ch25 was hunt up on purpose. Executed, that had to be more
+than a bigger wall, or it is ch17 and ch25 again with a larger number.
+SO THE KILL IS AN INFRASTRUCTURE KILL. The rib slots were established in ch8 as
+civil engineering; the sluice gate was lifted in ch25 and priced at nine goats.
+Both were sitting there. They carry the gate back UP the hill and drop it into
+a slot cut for exactly that eight hundred years ago.
+AND IT DOES NOT KILL IT, IT HOLDS IT, which is the honest version: what follows
+is twenty minutes of nine people working on a thing that cannot turn round, and
+the chapter says out loud that it was neither brave nor a fight.
+IT IS ALSO THE THESIS IN ONE OBJECT. The world lost administration, not
+technique. His edge has never been knowledge; it is noticing that two things
+cut by the same people fit each other.
+
+=== The fifteen go into INT, and it is written as LOUD rather than clever ===
+First point that box has ever had, at Level 7. His reason is a genuine finding
+about the system: it pays out on what a man uses (ch2), it has watched him do
+nothing but think for seven levels, and it has never scored one of them.
+THE DANGER IS OBVIOUS AND IS HANDLED IN THE WRITING. INT 27 on a scale where 10
+is already above human could hand him every future problem pre-solved. So the
+effect is deliberately NOT a capability: he holds the whole street at once, did
+not ask to, and needs somebody to talk to him until he finds the handle.
+IT ALSO COSTS HIM SOMETHING TRUE: "I have spent my whole life being pleased
+with myself for something, and I have just found out I was doing it on a
+twelve."
+THIS IS A FORK THE AUTHOR MAY WANT BACK. If INT 27 turns out to be too much, it
+is one block and two paragraphs to change, and nothing later depends on it yet.
+
+=== Class stays None, on purpose, and becomes the title ===
+Thread 5 has been open since ch1 and a class would have been the obvious reward
+here. Withheld, because the funnier and truer beat is the empty box after the
+biggest chapter of building he has had: company, roll, doctrine, blade.
+AND IT TURNS FROM A GAP INTO A THREAT. He has assumed for seven levels that he
+is the man doing all this, and something has been sitting there with an empty
+line waiting to tell him what he is. That is worth more than a word.
+WHEN IT LANDS, THE TRIGGER SHOULD NOT BE A KILL. Everything he has actually
+built is clerical.
+
+
 === ch26: the display happens by accident, and that is better ===
 The bible had the carcass display as something to ARRANGE. Written, it turned
 out stronger unstaged: the crew comes down the hill loaded at the moment the

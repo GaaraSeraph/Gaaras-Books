@@ -256,6 +256,15 @@ The seven points stay unspent through both chapters, and the reason changes
 between them: in ch25 he is waiting to see what the city asks, and by the end
 of ch27 he knows what is actually coming and there is no attribute for it.
 
+Chapter 28: LEVEL 7 ON A SINGLE KILL FOUR LEVELS ABOVE HIM. HP 302/415, STR 17,
+DEX 22, CON 19, INT 27, WIS 10, Kills 16, nothing unspent.
+FIFTEEN POINTS INTO INT, THE BOX THAT HAS NEVER MOVED. Third dump in a row of
+the ch12 pattern, all of it in one place, and the first one that buys something
+other than a body. The effect is written as LOUD and not as clever, so that the
+book does not hand him a solution to anything.
+CLASS IS STILL NONE at Level 7, and it is now something he is afraid of rather
+than something he has not noticed.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

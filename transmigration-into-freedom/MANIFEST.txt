@@ -27,6 +27,7 @@ ch24    3038 Woerter  ch24-somebody-has-to-look-at-him.md
 ch25    1932 Woerter  ch25-the-first-of-four.md
 ch26    2337 Woerter  ch26-then-write-us-down.md
 ch27    1170 Woerter  ch27-everything-after-that-is-filing.md
+ch28    2712 Woerter  ch28-still-none.md
 
-Gesamt: 27 Kapitel, 58970 Woerter
+Gesamt: 28 Kapitel, 61682 Woerter
 Handbuch: 4 Dokumente
