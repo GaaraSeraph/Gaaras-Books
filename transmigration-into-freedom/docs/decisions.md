@@ -3,6 +3,30 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The guild is called the Roll ===
+Full form THE ROLL OF WARRANTED COMPANIES, which nobody says. On the page it is
+THE ROLL: a man is on it, a company is warranted, and a lord's man being rude
+says hire-swords.
+MERCENARIES' GUILD REJECTED. These are chartered companies working the settled
+country, not battlefield hire, and mercenary is a word outsiders use about
+people rather than one an institution puts over its own door.
+ADVENTURERS' GUILD REJECTED, and this is the one that mattered. Adventurer is a
+genre import. It would be the single anachronistic word in a book that has been
+careful about paper, calendars, prices and levels, and no real institution names
+itself after the romance of its work.
+WHAT THE NAME BUYS: the institution is a LIST. In a world where nothing is
+written down, the one maintained document is a register of fighting men, and the
+man who intends to fill this world with books has to get his name into the only
+one that exists first.
+AND IT GIVES HIM THE INSTITUTION IN ONE BEAT. If it is a list, its power is in
+who gets written down, so it is an administrative body in a martial coat, so THE
+CLERK OUTRANKS THE CAPTAIN. He works out where the leverage is from the name
+alone, which is the most Gaara thing available and costs a paragraph.
+THE COMPANY COLLISION IS KEPT ON PURPOSE. ch1, ch3 and ch12 use company for his
+old life, including the one that died and "a very good CV and no company". He is
+about to register another one. Do not tidy that.
+
+
 === Two corrections to the guild, both the author's and both right ===
 FIRST, MY RULE WAS BROKEN. I had written that you do not join as a man, only as
 a company. A guild like that could never gain a member, because companies could

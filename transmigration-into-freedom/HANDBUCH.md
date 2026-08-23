@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 40.373 Woerter.
+Alle 4 Dokumente am Stueck. 40.959 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,30 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The guild is called the Roll ===
+Full form THE ROLL OF WARRANTED COMPANIES, which nobody says. On the page it is
+THE ROLL: a man is on it, a company is warranted, and a lord's man being rude
+says hire-swords.
+MERCENARIES' GUILD REJECTED. These are chartered companies working the settled
+country, not battlefield hire, and mercenary is a word outsiders use about
+people rather than one an institution puts over its own door.
+ADVENTURERS' GUILD REJECTED, and this is the one that mattered. Adventurer is a
+genre import. It would be the single anachronistic word in a book that has been
+careful about paper, calendars, prices and levels, and no real institution names
+itself after the romance of its work.
+WHAT THE NAME BUYS: the institution is a LIST. In a world where nothing is
+written down, the one maintained document is a register of fighting men, and the
+man who intends to fill this world with books has to get his name into the only
+one that exists first.
+AND IT GIVES HIM THE INSTITUTION IN ONE BEAT. If it is a list, its power is in
+who gets written down, so it is an administrative body in a martial coat, so THE
+CLERK OUTRANKS THE CAPTAIN. He works out where the leverage is from the name
+alone, which is the most Gaara thing available and costs a paragraph.
+THE COMPANY COLLISION IS KEPT ON PURPOSE. ch1, ch3 and ch12 use company for his
+old life, including the one that died and "a very good CV and no company". He is
+about to register another one. Do not tidy that.
 
 
 === Two corrections to the guild, both the author's and both right ===
@@ -2939,6 +2963,33 @@ pays a coin every second day, so everything below follows from that:
 So his whole fortune is a month of sleeping badly or ten days of sleeping
 properly. THAT IS THE CLOCK IN THE WOLD and it is better than being poor in the
 abstract. Put the number in his head early and let the reader count down.
+
+THE NAME: THE ROLL OF WARRANTED COMPANIES. Nobody says that. EVERYBODY SAYS
+THE ROLL.
+  a member is ON THE ROLL. A company is WARRANTED. The building is the roll
+  house, or just the hall. What a lord's man calls them when he is being rude
+  is HIRE-SWORDS.
+  REJECTED: mercenaries' guild, because these are not battlefield mercenaries.
+  Section 7 has them as sworn companies under charter working the settled
+  country, and mercenary is what outsiders call people, never what an
+  institution calls itself. REJECTED: adventurers' guild, because adventurer is
+  a genre import and no institution in a world like this would name itself for
+  the romance of the job. The bible may keep using "adventurers" as shorthand;
+  the page must not.
+  WHY THIS NAME EARNS ITS PLACE: the institution IS A LIST. In a world where
+  nothing is written down, the one maintained document is a register of fighting
+  men, and Gaara has to get his name into the only book that exists before he
+  can make any of his own.
+  AND IT HANDS HIM THE WHOLE INSTITUTION IN FOUR SECONDS, which is the beat to
+  write. He hears the name and reads it: if the thing is a list, then its power
+  is entirely in WHO GETS WRITTEN DOWN, therefore it is an administrative body
+  wearing a martial coat, therefore THE CLERK OUTRANKS THE CAPTAIN in every way
+  that matters to him. That is where he applies pressure, and it is why he is
+  going to be good at this and why nobody will see him coming.
+  THE WORD COMPANY IS A DELIBERATE COLLISION AND MUST NOT BE TIDIED AWAY. ch1,
+  ch3 and ch12 use it for his old life: thirty-nine of them, his own one that
+  died, "a very good CV and no company." He is about to register another. Same
+  word, and he will notice, and it should cost him something.
 
 THE GUILD HAS TWO DOORS, and the first correction is the author's: a guild that
 only admits companies could never gain a member, because companies could only be

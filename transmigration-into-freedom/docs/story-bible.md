@@ -1325,6 +1325,33 @@ So his whole fortune is a month of sleeping badly or ten days of sleeping
 properly. THAT IS THE CLOCK IN THE WOLD and it is better than being poor in the
 abstract. Put the number in his head early and let the reader count down.
 
+THE NAME: THE ROLL OF WARRANTED COMPANIES. Nobody says that. EVERYBODY SAYS
+THE ROLL.
+  a member is ON THE ROLL. A company is WARRANTED. The building is the roll
+  house, or just the hall. What a lord's man calls them when he is being rude
+  is HIRE-SWORDS.
+  REJECTED: mercenaries' guild, because these are not battlefield mercenaries.
+  Section 7 has them as sworn companies under charter working the settled
+  country, and mercenary is what outsiders call people, never what an
+  institution calls itself. REJECTED: adventurers' guild, because adventurer is
+  a genre import and no institution in a world like this would name itself for
+  the romance of the job. The bible may keep using "adventurers" as shorthand;
+  the page must not.
+  WHY THIS NAME EARNS ITS PLACE: the institution IS A LIST. In a world where
+  nothing is written down, the one maintained document is a register of fighting
+  men, and Gaara has to get his name into the only book that exists before he
+  can make any of his own.
+  AND IT HANDS HIM THE WHOLE INSTITUTION IN FOUR SECONDS, which is the beat to
+  write. He hears the name and reads it: if the thing is a list, then its power
+  is entirely in WHO GETS WRITTEN DOWN, therefore it is an administrative body
+  wearing a martial coat, therefore THE CLERK OUTRANKS THE CAPTAIN in every way
+  that matters to him. That is where he applies pressure, and it is why he is
+  going to be good at this and why nobody will see him coming.
+  THE WORD COMPANY IS A DELIBERATE COLLISION AND MUST NOT BE TIDIED AWAY. ch1,
+  ch3 and ch12 use it for his old life: thirty-nine of them, his own one that
+  died, "a very good CV and no company." He is about to register another. Same
+  word, and he will notice, and it should cost him something.
+
 THE GUILD HAS TWO DOORS, and the first correction is the author's: a guild that
 only admits companies could never gain a member, because companies could only be
 made of people who were already in. Closed loop, absurd. SO A MAN CAN REGISTER.
