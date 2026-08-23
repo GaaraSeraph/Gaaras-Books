@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 36.355 Woerter.
+Alle 4 Dokumente am Stueck. 36.941 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,29 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== He asked what his money was worth and never got an answer ===
+Author, and he is right: ch18 gives him one price and a comparison, and a man
+who read balance sheets for nineteen years would have taken the whole ladder
+off Hallvard on the spot. Worse, ch20 had him walking into a town he cannot
+afford with no model of what anything costs, which is dramatically limp.
+PUT ON THE ROAD TO THE WOLD, not back into ch18, for three reasons. ch18's coin
+scene ends on the price of the blade and that is its driver. The walk was 150
+words and had nothing in it. And Ylva is the right source: twenty years buying
+stock for a forge, and nobody had ever asked her to say any of it out loud.
+THE NUMBER THAT MATTERS IS THE PARCHMENT. One skin, one goat. He walks forty
+yards in silence, makes her repeat it, and does the arithmetic out loud: forty
+skins to a book, so forty goats, so two oxen before a single word goes on, and
+then a scribe for half a year. THE PAPER MILL IS NOW FORCED BY ARITHMETIC ON
+THE PAGE instead of being an intention in section 7.
+AND IT PAYS OFF THE ELM IN THE SAME BREATH. He already owns the only cheap book
+in this world and it is made of stolen roofing, and a man with one leg is about
+to make him two hundred more for nothing.
+The happiness line now has a cause, which it did not have before: "I have just
+been handed the shape of the next ten years by a woman explaining goats to me
+on a road."
+check.py guards the goat figures, counter-tested in both directions.
 
 
 === Back-audit: does anything written contradict what we decided? ===
@@ -2061,6 +2084,33 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
 - (ch18) THREAD 8 IS OPEN AT LAST. He takes a coin out for the first time since
   the morning he took them off a dead man. The face he does not know and the
   word round the edge still goes past him. THE NUMBER DOES NOT.
+  THE FULL PRICE LADDER, ch20, on the road to the Wold, and it is CANON. He
+  interrogates Ylva for two hours because she bought stock for a forge for
+  twenty years and nobody had ever asked her to say it out loud.
+     a day at harvest, fed  a coin every second day
+     a goat                 his whole purse and a little over, so three weeks
+                            of a man
+     a fighting blade       4 goats  (5 if Ordulf has to guess what it is for)
+     a milk cow             8 goats
+     an ox                  20 goats. The largest thing a village owns.
+                            Oldstep has four and argues about them constantly.
+     a horse                30 goats. Nobody in the valley has one.
+     a house                NOT SOLD. You build one and the road helps you.
+     A SKIN OF PARCHMENT    ONE GOAT.
+  check.py now guards the goat figures. Counter-tested: it fires on a wrong one
+  and stays quiet on the right ones.
+
+  AND THE LAST LINE IS THE WHOLE LONG GAME, DELIVERED ON A ROAD. Forty skins in
+  a book of any size. FORTY GOATS. Two oxen and change before one word goes onto
+  any of it, and a scribe on top for half a year. That is why nobody owns a
+  book, and Gaara says the conclusion out loud: it was never the writing.
+  "Put every clever thing anybody in this world has ever worked out onto forty
+  skins, and it costs two ploughs. So it stays in one man's head instead. And
+  then the man dies."
+  THE PAPER MILL IS NOW FORCED BY ARITHMETIC ON THE PAGE rather than being a
+  plan in a document. And the joke lands in the same breath: he already owns the
+  only cheap book in the world and it is made of stolen roofing.
+
   THE GOAT IS THE UNIT OF ACCOUNT and this is now fixed. Eleven coins are worth
   ONE GOOD GOAT AND SOMETHING OVER. A fighting blade is FOUR GOATS, or five if
   the smith has to guess what it is for. A goat is a capital asset that gives

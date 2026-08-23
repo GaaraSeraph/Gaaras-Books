@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 43.197 Woerter.
+20 Kapitel. 43.688 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -27,7 +27,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 17 | Chapter 17: Who Gets the Kill | 2.366 |
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
-| 20 | Chapter 20: Two Arms | 2.005 |
+| 20 | Chapter 20: Two Arms | 2.496 |
 
 ---
 
@@ -4572,6 +4572,60 @@ He got about two hundred yards.
 "I am thinking about the fact that everything I own is in this pack, and that the pack is Marit's. And that I am walking to a town I cannot afford to enter, to buy a thing I cannot pay for, from a man you have called not good."
 
 "Yes."
+
+Then he started asking her what things cost, and did not stop for two hours.
+
+She was good at it. She had bought stock for a forge for twenty years and she had the whole ladder in her head, and nobody had ever once asked her to say it out loud.
+
+A goat was his purse and a little over. A day at harvest, fed, paid a coin every second day, so a goat was three weeks of a man. A milk cow was eight goats. An ox was twenty, and an ox is the largest thing a village owns, and Oldstep had four and argued about them constantly. A horse was thirty and nobody in the valley had one. Houses were not bought. You built one, and the road helped you, and that was the end of the subject.
+
+"The blade was four," said Gaara.
+
+"Four."
+
+"So a fighting blade is a fifth of an ox, and a man cannot earn one in less than three months."
+
+"Ordulf takes eleven days over one and he has been at it thirty years."
+
+Sivert said that a wether was worth less than a nanny and that everybody was always wrong about that. It was the only thing he said for an hour and it was also correct.
+
+Then Gaara asked what a skin of parchment cost.
+
+Ylva thought about it properly, the way she thought about numbers.
+
+"A goat," she said. "A good one, if you want it thin enough to fold."
+
+He walked about forty yards without saying anything, which for him was a considerable distance.
+
+"Say that again."
+
+"A goat."
+
+"One skin."
+
+"One skin."
+
+So he did the arithmetic on the road and out loud, because he did everything out loud. Forty skins in a book of any size at all. Forty goats. Two oxen and change, before one word had gone onto any of it, and then a scribe on top of that for half a year.
+
+"That is why nobody has one," he said.
+
+"That is why nobody has one."
+
+"It is not the writing. It has never once been the writing." He had stopped walking. "Put every clever thing anybody in this world has ever worked out onto forty skins, and it costs two ploughs. So it stays in one man's head instead. And then the man dies."
+
+"Yes," said Ylva.
+
+"And I have six lines on a roof."
+
+"You have six lines on a roof."
+
+He looked back up the valley at Oldstep, which he could not see any more. He was thinking about a stack of split elm behind Halle's house, and about a man with one leg who was going to turn two hundred of them out for nothing.
+
+"You have gone a funny colour," said Ylva.
+
+"I have just been handed the shape of the next ten years by a woman explaining goats to me on a road."
+
+"That is not an answer."
 
 "I have never been happier in my life," said Gaara, "and I want you to understand how alarming I find that."
 

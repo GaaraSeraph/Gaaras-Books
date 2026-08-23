@@ -569,6 +569,33 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
 - (ch18) THREAD 8 IS OPEN AT LAST. He takes a coin out for the first time since
   the morning he took them off a dead man. The face he does not know and the
   word round the edge still goes past him. THE NUMBER DOES NOT.
+  THE FULL PRICE LADDER, ch20, on the road to the Wold, and it is CANON. He
+  interrogates Ylva for two hours because she bought stock for a forge for
+  twenty years and nobody had ever asked her to say it out loud.
+     a day at harvest, fed  a coin every second day
+     a goat                 his whole purse and a little over, so three weeks
+                            of a man
+     a fighting blade       4 goats  (5 if Ordulf has to guess what it is for)
+     a milk cow             8 goats
+     an ox                  20 goats. The largest thing a village owns.
+                            Oldstep has four and argues about them constantly.
+     a horse                30 goats. Nobody in the valley has one.
+     a house                NOT SOLD. You build one and the road helps you.
+     A SKIN OF PARCHMENT    ONE GOAT.
+  check.py now guards the goat figures. Counter-tested: it fires on a wrong one
+  and stays quiet on the right ones.
+
+  AND THE LAST LINE IS THE WHOLE LONG GAME, DELIVERED ON A ROAD. Forty skins in
+  a book of any size. FORTY GOATS. Two oxen and change before one word goes onto
+  any of it, and a scribe on top for half a year. That is why nobody owns a
+  book, and Gaara says the conclusion out loud: it was never the writing.
+  "Put every clever thing anybody in this world has ever worked out onto forty
+  skins, and it costs two ploughs. So it stays in one man's head instead. And
+  then the man dies."
+  THE PAPER MILL IS NOW FORCED BY ARITHMETIC ON THE PAGE rather than being a
+  plan in a document. And the joke lands in the same breath: he already owns the
+  only cheap book in the world and it is made of stolen roofing.
+
   THE GOAT IS THE UNIT OF ACCOUNT and this is now fixed. Eleven coins are worth
   ONE GOOD GOAT AND SOMETHING OVER. A fighting blade is FOUR GOATS, or five if
   the smith has to guess what it is for. A goat is a capital asset that gives

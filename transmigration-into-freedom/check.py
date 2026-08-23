@@ -52,6 +52,13 @@ CANON_NUMBERS = [
     (re.compile(rf"\b({NUMWORD})\s+companies\b", re.I), {"thirty-nine", "39"}, "Gaara: 39 Firmen im alten Leben"),
     (re.compile(rf"\b({NUMWORD})\s+coins\b", re.I), {"eleven", "11"}, "elf Muenzen aus Teodors Beutel"),
     (re.compile(r"Marit[^.\n]{0,40}?\b(?:Level\s+|at\s+)(\d+)\b", re.I), {"6"}, "Marit ist Level 6"),
+    # Preisleiter, ch20 auf der Strasse in den Wold. Recheneinheit ist die
+    # Ziege, nicht die Muenze. Elf Muenzen = eine gute Ziege und etwas darueber.
+    (re.compile(rf"\b({NUMWORD})\s+goats\b", re.I),
+     {"four", "4", "forty", "40", "eight", "8", "twenty", "20", "thirty", "30"},
+     "Preisleiter: Klinge 4, Milchkuh 8, Ochse 20, Pferd 30, Buch 40 Ziegen"),
+    (re.compile(rf"skin of parchment[^.\n]{{0,30}}?\b({NUMWORD})\b", re.I),
+     {"a", "one", "1"}, "eine Haut Pergament kostet eine Ziege"),
 ]
 
 

@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== He asked what his money was worth and never got an answer ===
+Author, and he is right: ch18 gives him one price and a comparison, and a man
+who read balance sheets for nineteen years would have taken the whole ladder
+off Hallvard on the spot. Worse, ch20 had him walking into a town he cannot
+afford with no model of what anything costs, which is dramatically limp.
+PUT ON THE ROAD TO THE WOLD, not back into ch18, for three reasons. ch18's coin
+scene ends on the price of the blade and that is its driver. The walk was 150
+words and had nothing in it. And Ylva is the right source: twenty years buying
+stock for a forge, and nobody had ever asked her to say any of it out loud.
+THE NUMBER THAT MATTERS IS THE PARCHMENT. One skin, one goat. He walks forty
+yards in silence, makes her repeat it, and does the arithmetic out loud: forty
+skins to a book, so forty goats, so two oxen before a single word goes on, and
+then a scribe for half a year. THE PAPER MILL IS NOW FORCED BY ARITHMETIC ON
+THE PAGE instead of being an intention in section 7.
+AND IT PAYS OFF THE ELM IN THE SAME BREATH. He already owns the only cheap book
+in this world and it is made of stolen roofing, and a man with one leg is about
+to make him two hundred more for nothing.
+The happiness line now has a cause, which it did not have before: "I have just
+been handed the shape of the next ten years by a woman explaining goats to me
+on a road."
+check.py guards the goat figures, counter-tested in both directions.
+
+
 === Back-audit: does anything written contradict what we decided? ===
 Author asked whether the session's decisions had been applied backwards. Checked
 rather than asserted. SCOPE: all 20 chapters, six sweeps.
