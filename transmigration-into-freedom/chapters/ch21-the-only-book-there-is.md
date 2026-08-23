@@ -82,9 +82,19 @@ Eleven coins. A month of sleeping badly. Ten days of sleeping properly. And a bl
 
 "Then you will be better at it than me and I will complain more, and I would like that entered somewhere as the agreed division of labour."
 
-"There is one room," said the woman with the keys.
+The woman behind the counter had a ledger stick and a wrist full of keys and had looked at exactly one of them, which was him.
 
-"There is one room," Gaara repeated, and did not look at either of them, and took slightly too long about not looking. "Three of us. Straw. Yes. That is fine. That is entirely fine and I am not going to say the next thing."
+"Three of you," she said.
+
+"Three of us, and I would like to say before anything else that you have not once looked at what we are carrying, which means you priced us off our boots in about a second." Gaara put his elbows on the counter. "That is a considerable skill and nobody has ever told you so, because the people who notice it are the people it is being done to."
+
+"Frida," she said, after a moment.
+
+"Gaara. And I am going to be in this town for some days, and I would like it known that I have already decided you are the best-run thing in it."
+
+"There is one room."
+
+"There is one room," Gaara repeated, and did not look at either of the other two, and took slightly too long about not looking. "Three of us. Straw. Yes. That is fine. That is entirely fine and I am not going to say the next thing."
 
 "Say it," said Ylva.
 
@@ -150,7 +160,11 @@ Then he took them into the yard, and it took rather less than a minute, and the 
 
 "Egil," said the captain, coming back in.
 
-"Gaara."
+"Gaara. And before you say the next thing: you took the test instead of the assurance, in front of your own table. Four men in five would not have done that in a room they still have to drink in."
+
+"Are you soft-soaping me."
+
+"Yes, and it is all true, and I am extremely good at doing both at once."
 
 "That is not a name from anywhere."
 
@@ -224,7 +238,11 @@ Eight days ago he had come out of a hole in the ground in a dead city with no la
 
 He did need to know that. He had needed to know it since the doorway.
 
-"Signe," he said. "How many companies are on those shelves."
+"Signe," he said. "You have been writing in that hand for twenty years and it has not got tired. I have seen ledgers kept by men paid a great deal to keep them and none of them looked like that."
+
+"You want something."
+
+"I want a great many things and that was not one of them, and I would like the record to show which of us brought business into it." He put his hands on the counter. "How many companies are on those shelves."
 
 "Why."
 
@@ -243,49 +261,3 @@ He went out into the street. Ylva was waiting with her hands behind her back and
 "How is it going."
 
 "Badly. It is going extremely badly."
-
-The straw was in a loft over the stable and it was the width of three people and not one inch wider.
-
-They lay in the dark and listened to a horse being a horse underneath them, and nobody said anything for a while, and then Gaara said a thing once.
-
-"There is one room. There are three of us. I would like all three of us in it in the way you have both been carefully not thinking about since noon." He did not turn his head. "That is the whole of the offer and it does not come round again."
-
-Ylva did not answer immediately.
-
-"You asked me in a tunnel."
-
-"I did. Behind a sledge, with four minutes on it, while I was the man telling you where to stand." He still did not turn his head. "That was a worse offer than this one and you were right to refuse it."
-
-She thought about it long enough that Sivert stopped pretending to be asleep.
-
-"No," said Ylva. "And I am going to say why, because I do not want either of you carrying the wrong reason about."
-
-"You do not owe me a reason."
-
-"I am not giving it to you." She was on her back with her eyes open, looking at the underside of a roof. "I was somebody's wife for eighteen years. Then I was nobody's for nine. I have been something else for four days and I do not know yet what it is. I am not spending it before I have counted it."
-
-Gaara said nothing at all, which was becoming a habit in this town.
-
-"That is the best sentence anybody has said to me since I got here," he said, "and I am including several of my own."
-
-Then he changed the subject in the same breath, the way he always did.
-
-"Right. Sivert against the wall, because he is the only one of us who has never done anything wrong. Me in the middle, because I am the lightest sleeper and the worst person. Ylva on the outside, because she snores."
-
-"I do not snore."
-
-"You snore like a saw going through a wet post. I have walked two days behind it and I would like it written down next to the eleven coins."
-
-The horse moved underneath them.
-
-"I would have said yes," said Sivert, to the roof.
-
-"I know," said Gaara. "You are the only uncomplicated thing in this town and I intend to be extremely careful with you."
-
-He was nearly asleep when Ylva spoke again.
-
-"Ask me in the spring."
-
-"I do not ask twice."
-
-"I know," said Ylva. "That is why I said it."

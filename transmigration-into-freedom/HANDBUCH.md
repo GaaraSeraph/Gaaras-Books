@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 47.419 Woerter.
+Alle 4 Dokumente am Stueck. 47.947 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -663,6 +663,29 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Too much talking and no flattery, which is half a rule dropped ===
+Author on ch22, and he is right. CLAUDE.md says HE FLIRTS WITH EVERYONE AND
+PROPOSITIONS ALMOST NOBODY. I had been enforcing the second clause carefully for
+two chapters and had let the first one vanish entirely, so he came out as a
+competent businessman rather than as himself.
+THE FIX IS NOT COMPLIMENTS, IT IS OBSERVED COMPLIMENTS. His flattery is specific
+and true, always about a thing he actually watched somebody do, and usually a
+thing nobody has ever bothered to tell them. That is why it disarms people and
+why it does not strain rule one. Seven of them added across ch21 and ch22.
+AND THE WOMAN AT THE COUNTER WAS A MISS. She handed him a room in one line and
+vanished. She is FRIDA now, she runs the inn, and the compliment she gets is
+that she priced three strangers off their boots in a second.
+
+=== The loft moved to the head of ch22 ===
+The flattery pass took ch21 to 3232, which was 29 per cent over and worse than
+ch13. The seam had been identified two turns earlier and left alone because a
+split would have made a 460-word fragment. ch22 now exists to absorb it.
+CHRONOLOGY IMPROVES RATHER THAN SURVIVES: the night belongs in front of the
+morning, which is exactly the shape ch19 and ch20 already have. ch21 ends on
+"It is going extremely badly" again, which was its ending before the loft was
+bolted on. ch21: 2777. ch22: 2428.
 
 
 === Chapter 22, and who he actually propositions in a town ===
@@ -2970,6 +2993,28 @@ Hades, and the first money he ever earned here (ch22)
   think we will fail. He thinks we will succeed. And he does not want to be the
   man who paid for a second one." That is the whole obstacle for ch23 and it is
   a moral one rather than a commercial one.
+
+HE FLIRTS WITH EVERYONE AND I HAD BEEN WRITING ONLY THE OTHER HALF (author,
+after ch22). The rule in CLAUDE.md has two clauses and I was obeying the second
+one only: he propositions almost nobody, correct, AND HE FLATTERS CONSTANTLY,
+which had quietly disappeared for two chapters of him doing business.
+HIS FLATTERY IS SPECIFIC AND TRUE, WHICH IS WHY IT WORKS AND WHY IT IS HIS.
+Never generic, never about looks unless he means it, and always about a thing
+he actually watched somebody do. Rule one applies here as everywhere: he is
+not buttering people up, he is telling them something correct that nobody has
+ever bothered to tell them, and that is far more disarming.
+  Frida at the inn counter: she priced three strangers off their boots in a
+    second and nobody has ever told her that is a skill.
+  Egil: he took the test instead of the assurance in front of his own table.
+    "Are you soft-soaping me." "Yes, and it is all true, and I am extremely
+    good at doing both at once."
+  Signe: twenty years of that hand and it has not got tired.
+  The carters: a quarter of an hour over money without a hand laid on anybody.
+  The woman hiring: she asked a stranger instead of her husband because she
+    wanted somebody with nothing to gain to say it out loud.
+  Runa: one antler, grain running the same way across the whole tray, an hour
+    longer than not doing it, and nobody buying them will ever notice.
+  Even the warden, who is unbuyable, gets one and ignores it.
 
 The Wold, and the only book there is (ch21)
 - THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.

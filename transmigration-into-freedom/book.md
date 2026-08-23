@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 48.619 Woerter.
+22 Kapitel. 49.089 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -28,8 +28,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
-| 21 | Chapter 21: The Only Book There Is | 2.961 |
-| 22 | Chapter 22: Two Coins Short | 1.774 |
+| 21 | Chapter 21: The Only Book There Is | 2.777 |
+| 22 | Chapter 22: Two Coins Short | 2.428 |
 
 ---
 
@@ -4733,9 +4733,19 @@ Eleven coins. A month of sleeping badly. Ten days of sleeping properly. And a bl
 
 "Then you will be better at it than me and I will complain more, and I would like that entered somewhere as the agreed division of labour."
 
-"There is one room," said the woman with the keys.
+The woman behind the counter had a ledger stick and a wrist full of keys and had looked at exactly one of them, which was him.
 
-"There is one room," Gaara repeated, and did not look at either of them, and took slightly too long about not looking. "Three of us. Straw. Yes. That is fine. That is entirely fine and I am not going to say the next thing."
+"Three of you," she said.
+
+"Three of us, and I would like to say before anything else that you have not once looked at what we are carrying, which means you priced us off our boots in about a second." Gaara put his elbows on the counter. "That is a considerable skill and nobody has ever told you so, because the people who notice it are the people it is being done to."
+
+"Frida," she said, after a moment.
+
+"Gaara. And I am going to be in this town for some days, and I would like it known that I have already decided you are the best-run thing in it."
+
+"There is one room."
+
+"There is one room," Gaara repeated, and did not look at either of the other two, and took slightly too long about not looking. "Three of us. Straw. Yes. That is fine. That is entirely fine and I am not going to say the next thing."
 
 "Say it," said Ylva.
 
@@ -4801,7 +4811,11 @@ Then he took them into the yard, and it took rather less than a minute, and the 
 
 "Egil," said the captain, coming back in.
 
-"Gaara."
+"Gaara. And before you say the next thing: you took the test instead of the assurance, in front of your own table. Four men in five would not have done that in a room they still have to drink in."
+
+"Are you soft-soaping me."
+
+"Yes, and it is all true, and I am extremely good at doing both at once."
 
 "That is not a name from anywhere."
 
@@ -4875,7 +4889,11 @@ Eight days ago he had come out of a hole in the ground in a dead city with no la
 
 He did need to know that. He had needed to know it since the doorway.
 
-"Signe," he said. "How many companies are on those shelves."
+"Signe," he said. "You have been writing in that hand for twenty years and it has not got tired. I have seen ledgers kept by men paid a great deal to keep them and none of them looked like that."
+
+"You want something."
+
+"I want a great many things and that was not one of them, and I would like the record to show which of us brought business into it." He put his hands on the counter. "How many companies are on those shelves."
 
 "Why."
 
@@ -4894,6 +4912,10 @@ He went out into the street. Ylva was waiting with her hands behind her back and
 "How is it going."
 
 "Badly. It is going extremely badly."
+
+---
+
+# Chapter 22: Two Coins Short
 
 The straw was in a loft over the stable and it was the width of three people and not one inch wider.
 
@@ -4941,10 +4963,6 @@ He was nearly asleep when Ylva spoke again.
 
 "I know," said Ylva. "That is why I said it."
 
----
-
-# Chapter 22: Two Coins Short
-
 The fee to put a name in the Staple was one goat, and a goat was eleven coins, and Gaara had nine.
 
 Eleven had gone into that town and two of them had gone into a box for a name in the Roll. He sat on the mounting block outside the roll house at first light and worked the rest four different ways. It came out nine every time, with a bed and a bowl still to come out of it, and he started laughing at about the third one.
@@ -4971,7 +4989,7 @@ That got the street.
 
 "He is," said one of them.
 
-"He is not, and neither are you, and that is the whole trouble." Gaara came in a step. "You made a bargain in the spring with your mouths, in a yard, probably in the rain, and then you both went away and remembered the half of it that suited you. Everybody does that. I have done it. It is not a character fault, it is what a head is for."
+"He is not, and neither are you, and that is the whole trouble." Gaara came in a step. "And before anybody takes offence. The two of you have stood in a street for a quarter of an hour over money, in front of witnesses, without laying a hand on each other. I have seen worse in rooms where everybody wore good boots." "You made a bargain in the spring with your mouths, in a yard, probably in the rain, and then you both went away and remembered the half of it that suited you. Everybody does that. I have done it. It is not a character fault, it is what a head is for."
 
 "So who is right."
 
@@ -5009,7 +5027,7 @@ She thought about it.
 
 "That is exactly him."
 
-"Yes."
+"Yes. And you knew it before I opened my mouth, which is why you asked a stranger instead of your husband or your brother. You wanted somebody with nothing to gain to say it out loud." He sat back. "That is the most sensible half coin anybody has spent on me, and I have been expensive."
 
 "How long have you been in this town."
 
@@ -5019,7 +5037,13 @@ The woman on the stall beside where he had set up sold buttons, horn and bone an
 
 "You are going to be a problem," she said.
 
-"I am so often told that, and never as early in the acquaintance as I would like."
+"I am so often told that, and never as early in the acquaintance as I would like." He turned round far enough to see the tray. "Those are cut from one antler and you have kept the grain running the same way across the whole tray, which nobody buying them will notice and which took you an hour longer than not doing it."
+
+She stopped with her hand halfway to a button.
+
+"Nobody has ever said that."
+
+"No. It is the thing about doing something properly. The only people who can see it are the ones who were going to do it properly anyway."
 
 "Runa."
 
@@ -5068,6 +5092,8 @@ The warden looked at him.
 "Is that supposed to mean something."
 
 "Yes," said Gaara, "and not to you, and I mean no offence by that whatsoever."
+
+"That is a very fast hand for a man who does not want to be here," said Gaara.
 
 "Mark."
 

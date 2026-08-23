@@ -1,5 +1,51 @@
 # Chapter 22: Two Coins Short
 
+The straw was in a loft over the stable and it was the width of three people and not one inch wider.
+
+They lay in the dark and listened to a horse being a horse underneath them, and nobody said anything for a while, and then Gaara said a thing once.
+
+"There is one room. There are three of us. I would like all three of us in it in the way you have both been carefully not thinking about since noon." He did not turn his head. "That is the whole of the offer and it does not come round again."
+
+Ylva did not answer immediately.
+
+"You asked me in a tunnel."
+
+"I did. Behind a sledge, with four minutes on it, while I was the man telling you where to stand." He still did not turn his head. "That was a worse offer than this one and you were right to refuse it."
+
+She thought about it long enough that Sivert stopped pretending to be asleep.
+
+"No," said Ylva. "And I am going to say why, because I do not want either of you carrying the wrong reason about."
+
+"You do not owe me a reason."
+
+"I am not giving it to you." She was on her back with her eyes open, looking at the underside of a roof. "I was somebody's wife for eighteen years. Then I was nobody's for nine. I have been something else for four days and I do not know yet what it is. I am not spending it before I have counted it."
+
+Gaara said nothing at all, which was becoming a habit in this town.
+
+"That is the best sentence anybody has said to me since I got here," he said, "and I am including several of my own."
+
+Then he changed the subject in the same breath, the way he always did.
+
+"Right. Sivert against the wall, because he is the only one of us who has never done anything wrong. Me in the middle, because I am the lightest sleeper and the worst person. Ylva on the outside, because she snores."
+
+"I do not snore."
+
+"You snore like a saw going through a wet post. I have walked two days behind it and I would like it written down next to the eleven coins."
+
+The horse moved underneath them.
+
+"I would have said yes," said Sivert, to the roof.
+
+"I know," said Gaara. "You are the only uncomplicated thing in this town and I intend to be extremely careful with you."
+
+He was nearly asleep when Ylva spoke again.
+
+"Ask me in the spring."
+
+"I do not ask twice."
+
+"I know," said Ylva. "That is why I said it."
+
 The fee to put a name in the Staple was one goat, and a goat was eleven coins, and Gaara had nine.
 
 Eleven had gone into that town and two of them had gone into a box for a name in the Roll. He sat on the mounting block outside the roll house at first light and worked the rest four different ways. It came out nine every time, with a bed and a bowl still to come out of it, and he started laughing at about the third one.
@@ -26,7 +72,7 @@ That got the street.
 
 "He is," said one of them.
 
-"He is not, and neither are you, and that is the whole trouble." Gaara came in a step. "You made a bargain in the spring with your mouths, in a yard, probably in the rain, and then you both went away and remembered the half of it that suited you. Everybody does that. I have done it. It is not a character fault, it is what a head is for."
+"He is not, and neither are you, and that is the whole trouble." Gaara came in a step. "And before anybody takes offence. The two of you have stood in a street for a quarter of an hour over money, in front of witnesses, without laying a hand on each other. I have seen worse in rooms where everybody wore good boots." "You made a bargain in the spring with your mouths, in a yard, probably in the rain, and then you both went away and remembered the half of it that suited you. Everybody does that. I have done it. It is not a character fault, it is what a head is for."
 
 "So who is right."
 
@@ -64,7 +110,7 @@ She thought about it.
 
 "That is exactly him."
 
-"Yes."
+"Yes. And you knew it before I opened my mouth, which is why you asked a stranger instead of your husband or your brother. You wanted somebody with nothing to gain to say it out loud." He sat back. "That is the most sensible half coin anybody has spent on me, and I have been expensive."
 
 "How long have you been in this town."
 
@@ -74,7 +120,13 @@ The woman on the stall beside where he had set up sold buttons, horn and bone an
 
 "You are going to be a problem," she said.
 
-"I am so often told that, and never as early in the acquaintance as I would like."
+"I am so often told that, and never as early in the acquaintance as I would like." He turned round far enough to see the tray. "Those are cut from one antler and you have kept the grain running the same way across the whole tray, which nobody buying them will notice and which took you an hour longer than not doing it."
+
+She stopped with her hand halfway to a button.
+
+"Nobody has ever said that."
+
+"No. It is the thing about doing something properly. The only people who can see it are the ones who were going to do it properly anyway."
 
 "Runa."
 
@@ -123,6 +175,8 @@ The warden looked at him.
 "Is that supposed to mean something."
 
 "Yes," said Gaara, "and not to you, and I mean no offence by that whatsoever."
+
+"That is a very fast hand for a man who does not want to be here," said Gaara.
 
 "Mark."
 

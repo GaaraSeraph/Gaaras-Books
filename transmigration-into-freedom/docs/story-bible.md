@@ -1063,6 +1063,28 @@ Hades, and the first money he ever earned here (ch22)
   man who paid for a second one." That is the whole obstacle for ch23 and it is
   a moral one rather than a commercial one.
 
+HE FLIRTS WITH EVERYONE AND I HAD BEEN WRITING ONLY THE OTHER HALF (author,
+after ch22). The rule in CLAUDE.md has two clauses and I was obeying the second
+one only: he propositions almost nobody, correct, AND HE FLATTERS CONSTANTLY,
+which had quietly disappeared for two chapters of him doing business.
+HIS FLATTERY IS SPECIFIC AND TRUE, WHICH IS WHY IT WORKS AND WHY IT IS HIS.
+Never generic, never about looks unless he means it, and always about a thing
+he actually watched somebody do. Rule one applies here as everywhere: he is
+not buttering people up, he is telling them something correct that nobody has
+ever bothered to tell them, and that is far more disarming.
+  Frida at the inn counter: she priced three strangers off their boots in a
+    second and nobody has ever told her that is a skill.
+  Egil: he took the test instead of the assurance in front of his own table.
+    "Are you soft-soaping me." "Yes, and it is all true, and I am extremely
+    good at doing both at once."
+  Signe: twenty years of that hand and it has not got tired.
+  The carters: a quarter of an hour over money without a hand laid on anybody.
+  The woman hiring: she asked a stranger instead of her husband because she
+    wanted somebody with nothing to gain to say it out loud.
+  Runa: one antler, grain running the same way across the whole tray, an hour
+    longer than not doing it, and nobody buying them will ever notice.
+  Even the warden, who is unbuyable, gets one and ignores it.
+
 The Wold, and the only book there is (ch21)
 - THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.
   Ninety feet of good coursed stone, then a squared butt end with the tooling
