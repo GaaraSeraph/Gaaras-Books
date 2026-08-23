@@ -27,7 +27,7 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. One Very Stupid Noise
+22. A Hand Changes a Noise
 23. Two Coins Short
 24. (planned) Ordulf, and the lord's man
 
@@ -1077,10 +1077,15 @@ The loft, and what he wakes up to (ch22)
   never going to hold and both of them knew it about a minute before it was
   true. He offers, Sivert takes it, and after that there is nothing in that loft
   to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
-- AND SIVERT MAKES THE NOISE, INTO THE HAND, which is what the whole apparatus
-  was built to land. One noise, not loud, not long, and spectacularly stupid,
-  and Gaara knows while it is still happening that he will be thinking about it
-  for years. THE CHAPTER IS NAMED AFTER IT.
+- AND SIVERT MAKES THE NOISE INTO THE HAND, AND IT IS NOT FUNNY, IT IS HOT.
+  Corrected by the author and it is the better version by a distance. A HAND
+  DOES NOT STOP A NOISE, IT CHANGES IT: lower than his voice, further back in
+  him, and with nowhere at all to go. The chapter is named after that.
+  AND IT CONVICTS GAARA RETROSPECTIVELY, which is the real gain. Inside a
+  second and a half he works out that HE DID NOT OFFER HIS HAND FOR SIVERT'S
+  SAKE. He had told himself he had. He does not lie, and he had managed it
+  anyway, briefly, and only to himself. That is the single sharpest thing rule
+  one has produced so far, because it is the one exception it allows.
   AND GAARA MAKES NONE, WHICH IS THE EXPENSIVE PART. He has the thing he works
   for six inches from his ear, in a place where he is not permitted to answer
   it, and answering it is most of what he does. The char sheet rule (the sound

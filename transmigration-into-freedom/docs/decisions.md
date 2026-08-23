@@ -3,6 +3,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The noise is not stupid, it is a gag ===
+Author, and it fixes something I got badly wrong twice in a row. I wrote the
+muffled noise as comic, and it is not comic, IT IS THE HOTTEST THING IN THE
+SCENE. A hand over a mouth is a gag, and a gag does not stop a noise, IT CHANGES
+IT: lower, further back, and with nowhere to go.
+AND THAT TURNS THE GESTURE INSIDE OUT, which is why it is the better version.
+He offered his own hand so somebody else could stay quiet, and inside a second
+and a half he works out that this was not why he did it. HE HAD TOLD HIMSELF IT
+WAS. He does not lie, and he managed it anyway, briefly, and only to himself.
+That is the only crack rule one has ever been given and it is worth more than
+the joke I had there.
+CHAPTER RETITLED AGAIN, to A Hand Changes a Noise, because the discovery is the
+chapter. Third title in two turns, and the last two were mine being wrong.
+
+
 === One very stupid noise ===
 Author's line, and it is the swerve the scene was missing. I had built the whole
 apparatus of silence and then let it work, which is tidy and not funny. The joke

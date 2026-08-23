@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 50.091 Woerter.
+23 Kapitel. 50.298 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -29,8 +29,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
-| 22 | Chapter 22: One Very Stupid Noise | 1.128 |
-| 23 | Chapter 23: Two Coins Short | 2.191 |
+| 22 | Chapter 22: A Hand Changes a Noise | 1.187 |
+| 23 | Chapter 23: Two Coins Short | 2.339 |
 
 ---
 
@@ -4916,7 +4916,7 @@ He went out into the street. Ylva was waiting with her hands behind her back and
 
 ---
 
-# Chapter 22: One Very Stupid Noise
+# Chapter 22: A Hand Changes a Noise
 
 The straw was in a loft over the stable and it was the width of three people and not one inch wider.
 
@@ -4978,11 +4978,13 @@ So Gaara got the heel of his own hand up and offered it.
 
 Sivert understood, and took it, and bit down.
 
-What got out round the edge of it was one noise. It was not loud and it was not long. It was also, by any standard anybody has ever held, spectacularly stupid, and Gaara knew while it was still happening that he would be thinking about it for years.
+And Gaara found out something he had not known, which was that a hand does not stop a noise. It changes it.
 
-After that there was nothing in that loft to hear but a horse.
+What came round the edge of his palm was lower than Sivert's voice and further back in him, and it had nowhere at all to go. It went through Gaara from the wrist to somewhere he had no name for. He understood inside a second and a half that he had not offered his hand for Sivert's sake. He had told himself he had. He is not in the habit of lying and he had managed it anyway, briefly, and only to himself.
 
-He made no sound at all himself, and that was the expensive part. He had the thing he works for six inches from his ear, in a place where he was not permitted to answer it, and answering it is most of what he does.
+After that there was nothing in that loft to hear but a horse and a hand.
+
+He made no sound himself, and that was the expensive part. He had the thing he works for held six inches from his ear, in a place where he was not permitted to answer it, and answering it is most of what he does.
 
 The horse shifted underneath them and neither of them stopped.
 
@@ -5084,6 +5086,12 @@ The street went quiet in a way he had heard before, in rooms with better chairs.
 
 "I know," said Gaara. "That is why it is only half a coin."
 
+The first half coin he was ever handed was an actual half of an actual coin, chopped clean through, and he turned it over twice before it made any sense to him.
+
+There was a cross on the reverse. Corner to corner, cut deep into the die, and not for decoration. It was there so that a man with a chisel and something hard to lay it on could make two out of one and four out of two, and everybody would agree afterwards about what each piece was worth.
+
+He had been carrying eleven of them for eight days and it had not once occurred to him to turn one over. He decided not to mention that to anybody, and then mentioned it to Ylva inside the hour.
+
 He made four coins before midday.
 
 Two from the carters, who came back within the hour and then came back a second time with a different bargain and a different man. One from somebody buying a heifer who had watched the whole thing and did not want to be the fool who had not. The fourth was from a woman who wanted nothing written at all and paid him half a coin twice to sit down and tell her whether the man she was about to take on was worth the wage.
@@ -5122,7 +5130,7 @@ She stopped with her hand halfway to a button.
 
 "You may ask."
 
-"You have listened to me talk for three hours and have not once got up and moved your stall, which puts you a considerable distance ahead of most of the people I have known." He said it in exactly the voice he had used about the hides. "I am in a loft over the stable with two other people and one of them snores. I am telling you where I am and not asking you for anything, because I have nine coins and no standing in this town and I would like the asking to be somebody else's turn."
+"You have listened to me talk for three hours and have not once got up and moved your stall, which puts you a considerable distance ahead of most of the people I have known." He said it in exactly the voice he had used about the hides. "I am in a loft over the stable with two other people and one of them snores. I am telling you where I am and not asking you for anything." He held the box steady with one boot. "I have thirteen coins, eleven of which have a door to walk through this afternoon, and no standing whatsoever in this town, and I would like the asking to be somebody else's turn."
 
 Runa looked at him for a while.
 

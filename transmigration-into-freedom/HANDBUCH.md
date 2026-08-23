@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 51.505 Woerter.
+Alle 4 Dokumente am Stueck. 51.771 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -674,6 +674,21 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The noise is not stupid, it is a gag ===
+Author, and it fixes something I got badly wrong twice in a row. I wrote the
+muffled noise as comic, and it is not comic, IT IS THE HOTTEST THING IN THE
+SCENE. A hand over a mouth is a gag, and a gag does not stop a noise, IT CHANGES
+IT: lower, further back, and with nowhere to go.
+AND THAT TURNS THE GESTURE INSIDE OUT, which is why it is the better version.
+He offered his own hand so somebody else could stay quiet, and inside a second
+and a half he works out that this was not why he did it. HE HAD TOLD HIMSELF IT
+WAS. He does not lie, and he managed it anyway, briefly, and only to himself.
+That is the only crack rule one has ever been given and it is worth more than
+the joke I had there.
+CHAPTER RETITLED AGAIN, to A Hand Changes a Noise, because the discovery is the
+chapter. Third title in two turns, and the last two were mine being wrong.
 
 
 === One very stupid noise ===
@@ -2154,7 +2169,7 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. One Very Stupid Noise
+22. A Hand Changes a Noise
 23. Two Coins Short
 24. (planned) Ordulf, and the lord's man
 
@@ -3204,10 +3219,15 @@ The loft, and what he wakes up to (ch22)
   never going to hold and both of them knew it about a minute before it was
   true. He offers, Sivert takes it, and after that there is nothing in that loft
   to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
-- AND SIVERT MAKES THE NOISE, INTO THE HAND, which is what the whole apparatus
-  was built to land. One noise, not loud, not long, and spectacularly stupid,
-  and Gaara knows while it is still happening that he will be thinking about it
-  for years. THE CHAPTER IS NAMED AFTER IT.
+- AND SIVERT MAKES THE NOISE INTO THE HAND, AND IT IS NOT FUNNY, IT IS HOT.
+  Corrected by the author and it is the better version by a distance. A HAND
+  DOES NOT STOP A NOISE, IT CHANGES IT: lower than his voice, further back in
+  him, and with nowhere at all to go. The chapter is named after that.
+  AND IT CONVICTS GAARA RETROSPECTIVELY, which is the real gain. Inside a
+  second and a half he works out that HE DID NOT OFFER HIS HAND FOR SIVERT'S
+  SAKE. He had told himself he had. He does not lie, and he had managed it
+  anyway, briefly, and only to himself. That is the single sharpest thing rule
+  one has produced so far, because it is the one exception it allows.
   AND GAARA MAKES NONE, WHICH IS THE EXPENSIVE PART. He has the thing he works
   for six inches from his ear, in a place where he is not permitted to answer
   it, and answering it is most of what he does. The char sheet rule (the sound

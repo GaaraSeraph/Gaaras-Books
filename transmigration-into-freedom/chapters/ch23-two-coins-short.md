@@ -58,6 +58,12 @@ The street went quiet in a way he had heard before, in rooms with better chairs.
 
 "I know," said Gaara. "That is why it is only half a coin."
 
+The first half coin he was ever handed was an actual half of an actual coin, chopped clean through, and he turned it over twice before it made any sense to him.
+
+There was a cross on the reverse. Corner to corner, cut deep into the die, and not for decoration. It was there so that a man with a chisel and something hard to lay it on could make two out of one and four out of two, and everybody would agree afterwards about what each piece was worth.
+
+He had been carrying eleven of them for eight days and it had not once occurred to him to turn one over. He decided not to mention that to anybody, and then mentioned it to Ylva inside the hour.
+
 He made four coins before midday.
 
 Two from the carters, who came back within the hour and then came back a second time with a different bargain and a different man. One from somebody buying a heifer who had watched the whole thing and did not want to be the fool who had not. The fourth was from a woman who wanted nothing written at all and paid him half a coin twice to sit down and tell her whether the man she was about to take on was worth the wage.
@@ -96,7 +102,7 @@ She stopped with her hand halfway to a button.
 
 "You may ask."
 
-"You have listened to me talk for three hours and have not once got up and moved your stall, which puts you a considerable distance ahead of most of the people I have known." He said it in exactly the voice he had used about the hides. "I am in a loft over the stable with two other people and one of them snores. I am telling you where I am and not asking you for anything, because I have nine coins and no standing in this town and I would like the asking to be somebody else's turn."
+"You have listened to me talk for three hours and have not once got up and moved your stall, which puts you a considerable distance ahead of most of the people I have known." He said it in exactly the voice he had used about the hides. "I am in a loft over the stable with two other people and one of them snores. I am telling you where I am and not asking you for anything." He held the box steady with one boot. "I have thirteen coins, eleven of which have a door to walk through this afternoon, and no standing whatsoever in this town, and I would like the asking to be somebody else's turn."
 
 Runa looked at him for a while.
 
