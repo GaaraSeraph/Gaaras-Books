@@ -27,8 +27,9 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. Two Coins Short
-23. (planned) Ordulf, and the lord's man
+22. Nothing to Hear but a Horse
+23. Two Coins Short
+24. (planned) Ordulf, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1063,8 +1064,34 @@ The forge, and the first arrangement (ch19)
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
 
-Hades, and the first money he ever earned here (ch22)
-- THE ENGINE IS TWO COINS. The Staple fee is a goat, eleven coins. After the
+The loft, and what he wakes up to (ch22)
+- HE DOES NOT ASK TWICE, AND NOW THE LINE IS TRUE. He corrects the count out
+  loud: the tunnel in ch16 was four minutes offered half laughing by the man
+  giving the orders, and HE REFUSES TO DRESS IT UP. "It was noise. It was not
+  asking and you were right to send it back." Then: "This is asking. I want the
+  difference on the record, because I only do the second one once."
+  THAT REPAIRS THE TENSION I HAD LEFT STANDING. Ylva's "ask me in the spring"
+  and his "I do not ask twice" now sit on a rule he has stated rather than on
+  one the reader has to forgive.
+- HE GIVES SIVERT THE HEEL OF HIS OWN HAND TO BITE. The fist in the straw was
+  never going to hold and both of them knew it about a minute before it was
+  true. He offers, Sivert takes it, and after that there is nothing in that loft
+  to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
+- AND THE MORNING IS THE POINT OF THE CHAPTER. He wakes with both of them on
+  him: Sivert face down against his ribs, Ylva come across in the night with her
+  head on his shoulder and an arm over the pair of them, asleep with her mouth
+  open and no dignity whatsoever.
+  NOTHING HAPPENED WITH YLVA AND NOTHING IS GOING TO FOR MONTHS. The text says
+  so plainly, and the beat is worth more for it.
+  HE LIES STILL AND DOES NOT MOVE, fourth time in a week he has done nothing on
+  purpose and the first time he has enjoyed it. "Not the name in the roll. Not
+  the mark he had not drawn yet. This." A man who owns nothing and has just
+  registered a company works out which one he actually wanted.
+  AND IT LANDS ON THE TEETH MARKS across the heel of his right hand, about which
+  he is extremely pleased as well, so it never becomes sentimental.
+
+Hades, and the first money he ever earned here (ch23)
+- THE ENGINE IS TWO COINS (ch23). The Staple fee is a goat, eleven coins. After the
   Roll he has nine. A man who was inside thirty-nine companies and ran exactly
   one, his own, which went under, has to earn a day and a
   half of a labourer's wages before a door shuts, and he says it is the most

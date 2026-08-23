@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 49.759 Woerter.
+23 Kapitel. 49.964 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -29,7 +29,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
-| 22 | Chapter 22: Two Coins Short | 2.987 |
+| 22 | Chapter 22: Nothing to Hear but a Horse | 1.001 |
+| 23 | Chapter 23: Two Coins Short | 2.191 |
 
 ---
 
@@ -4915,7 +4916,7 @@ He went out into the street. Ylva was waiting with her hands behind her back and
 
 ---
 
-# Chapter 22: Two Coins Short
+# Chapter 22: Nothing to Hear but a Horse
 
 The straw was in a loft over the stable and it was the width of three people and not one inch wider.
 
@@ -4927,7 +4928,11 @@ Ylva did not answer immediately.
 
 "You asked me in a tunnel."
 
-"I did. Behind a sledge, with four minutes on it, while I was the man telling you where to stand." He still did not turn his head. "That was a worse offer than this one and you were right to refuse it."
+"I offered you four minutes behind a sledge, half laughing, while I was the man telling you where to stand." He still did not turn his head. "I am not going to dress that up. It was noise. It was not asking and you were right to send it back."
+
+"And this."
+
+"This is asking. I want the difference on the record, because I only do the second one once."
 
 She thought about it long enough that Sivert stopped pretending to be asleep.
 
@@ -4967,7 +4972,11 @@ Gaara lay still for about four seconds, which was the longest he had ever manage
 
 So it was done almost without moving, which neither of them had ever had to do before, and which turned out to be its own thing entirely.
 
-There was no room to get anywhere. Under the blanket Sivert was already half out of his shirt and shaking, and after that the whole business happened inside about eighteen inches, slowly, because slowly was the only speed the straw allowed. Sivert put a fist into it beside his own head and kept it there. Gaara used a shoulder for the same purpose, and bit down on it once when it became necessary, which produced a small ruinous noise that did not happen twice.
+There was no room to get anywhere. Under the blanket Sivert was already half out of his shirt and shaking, and after that the whole business happened inside about eighteen inches, slowly, because slowly was the only speed the straw allowed. Sivert put a fist into it beside his own head and kept it there, and it was not going to be enough, and both of them knew it about a minute before it was true.
+
+So Gaara got the heel of his own hand up and offered it.
+
+Sivert understood, and took it, and bit down, and after that there was nothing in that loft to hear but a horse.
 
 The horse shifted underneath them and neither of them stopped.
 
@@ -4992,6 +5001,20 @@ He was nearly asleep when Ylva spoke again.
 "I do not ask twice."
 
 "I know," said Ylva. "That is why I said it."
+
+He woke at first light with both of them on him.
+
+Sivert was face down against his ribs with one hand flat on his chest. Ylva had come across at some point in the night and got her head onto his shoulder, and had an arm over the pair of them, and was asleep with her mouth open and no dignity whatsoever.
+
+Nothing had happened with Ylva. Nothing was going to happen with Ylva for some months.
+
+He lay there and did not move, which was the fourth time in a week he had done nothing on purpose and the first time he had enjoyed it. Not the name in the roll. Not the mark he had not drawn yet. This.
+
+There were teeth marks across the heel of his right hand, and he was extremely pleased about those as well.
+
+---
+
+# Chapter 23: Two Coins Short
 
 The fee to put a name in the Staple was one goat, and a goat was eleven coins, and Gaara had nine.
 

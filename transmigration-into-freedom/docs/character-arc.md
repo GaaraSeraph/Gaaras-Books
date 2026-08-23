@@ -214,7 +214,7 @@ is real: the grind is owed and the reader can feel it being owed. What ch21
 gives instead is the SCALE, which is a system revelation rather than a system
 gain, and it does the work of a level-up without paying one.
 
-Chapter 22: no mechanical change, FIFTH CHAPTER RUNNING, and the debt is now
+Chapters 22 and 23: no mechanical change, SIXTH AND SEVENTH RUNNING, and the debt is now
 the largest structural problem in the book. Nothing killed since ch17. Six
 points still banked and he has not spent one since ch12. The Wold is paying in
 money, institutions and names instead, and that has worked for two chapters, but

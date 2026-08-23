@@ -276,7 +276,7 @@ That is why I said it." She uses his own rule to tell him she will be the one
 who comes, which is now the pattern of this book: he asks once and people come
 back to him in their own time. Same shape as Sivert's two arms.
 
-Sivert, ch22 loft: "I would have said yes," said to the roof. AND GAARA ACTS ON
+Sivert, ch22 (the loft): "I would have said yes," said to the roof. AND GAARA ACTS ON
 IT, four seconds later, which is the longest he has ever held information of
 that kind. He asks Ylva rather than sneaking, and she answers with an order:
 "It is not a no. It is an instruction."

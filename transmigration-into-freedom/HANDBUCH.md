@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 50.527 Woerter.
+Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 51.178 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -293,7 +293,7 @@ That is why I said it." She uses his own rule to tell him she will be the one
 who comes, which is now the pattern of this book: he asks once and people come
 back to him in their own time. Same shape as Sivert's two arms.
 
-Sivert, ch22 loft: "I would have said yes," said to the roof. AND GAARA ACTS ON
+Sivert, ch22 (the loft): "I would have said yes," said to the roof. AND GAARA ACTS ON
 IT, four seconds later, which is the longest he has ever held information of
 that kind. He asks Ylva rather than sneaking, and she answers with an order:
 "It is not a no. It is an instruction."
@@ -556,7 +556,7 @@ is real: the grind is owed and the reader can feel it being owed. What ch21
 gives instead is the SCALE, which is a system revelation rather than a system
 gain, and it does the work of a level-up without paying one.
 
-Chapter 22: no mechanical change, FIFTH CHAPTER RUNNING, and the debt is now
+Chapters 22 and 23: no mechanical change, SIXTH AND SEVENTH RUNNING, and the debt is now
 the largest structural problem in the book. Nothing killed since ch17. Six
 points still banked and he has not spent one since ch12. The Wold is paying in
 money, institutions and names instead, and that has worked for two chapters, but
@@ -674,6 +674,28 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The loft becomes its own chapter, and the ask-twice rule gets fixed ===
+Three author notes, and the third repaired a tension I had knowingly left in.
+HE GIVES SIVERT THE HEEL OF HIS HAND TO BITE. Better than the version I wrote,
+where Gaara bit a shoulder, because this one is GIVING something rather than
+taking a grip, and it is not remarked on by anybody.
+THE MORNING IS THE REAL ADDITION. He wakes with both of them on him and Ylva has
+come across in the night, and nothing happened with her and nothing is going to
+for months, and the text says so. A man who owns nothing and registered a
+company yesterday works out which of the two he actually wanted. It stays out of
+sentiment by landing on the teeth marks in his hand.
+AND "I DO NOT ASK TWICE" IS NOW TRUE. He had asked Ylva in ch16, which I had
+flagged and left as an acknowledged tension. The author's fix is better than
+leaving it: HE CORRECTS THE COUNT HIMSELF and refuses to flatter the earlier
+one. Four minutes offered half laughing by the man giving the orders was noise,
+not asking. This is asking, and he says he only does the second kind once.
+THE SPLIT FOLLOWED FROM THE MATERIAL, not from a rule. The three additions took
+ch22 to 3183, longest in the book, AND the seam became exact: the night and the
+morning end on the teeth marks, the day begins on the fee. 22 is now 1001 words,
+which is short but not unprecedented (ch08 is 1081) and it is a complete unit
+with its own arc. 23 is 2191. The planned Ordulf chapter moves to 24.
 
 
 === Suppliers and employers are not off limits ===
@@ -2117,8 +2139,9 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. Two Coins Short
-23. (planned) Ordulf, and the lord's man
+22. Nothing to Hear but a Horse
+23. Two Coins Short
+24. (planned) Ordulf, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3153,8 +3176,34 @@ The forge, and the first arrangement (ch19)
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
 
-Hades, and the first money he ever earned here (ch22)
-- THE ENGINE IS TWO COINS. The Staple fee is a goat, eleven coins. After the
+The loft, and what he wakes up to (ch22)
+- HE DOES NOT ASK TWICE, AND NOW THE LINE IS TRUE. He corrects the count out
+  loud: the tunnel in ch16 was four minutes offered half laughing by the man
+  giving the orders, and HE REFUSES TO DRESS IT UP. "It was noise. It was not
+  asking and you were right to send it back." Then: "This is asking. I want the
+  difference on the record, because I only do the second one once."
+  THAT REPAIRS THE TENSION I HAD LEFT STANDING. Ylva's "ask me in the spring"
+  and his "I do not ask twice" now sit on a rule he has stated rather than on
+  one the reader has to forgive.
+- HE GIVES SIVERT THE HEEL OF HIS OWN HAND TO BITE. The fist in the straw was
+  never going to hold and both of them knew it about a minute before it was
+  true. He offers, Sivert takes it, and after that there is nothing in that loft
+  to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
+- AND THE MORNING IS THE POINT OF THE CHAPTER. He wakes with both of them on
+  him: Sivert face down against his ribs, Ylva come across in the night with her
+  head on his shoulder and an arm over the pair of them, asleep with her mouth
+  open and no dignity whatsoever.
+  NOTHING HAPPENED WITH YLVA AND NOTHING IS GOING TO FOR MONTHS. The text says
+  so plainly, and the beat is worth more for it.
+  HE LIES STILL AND DOES NOT MOVE, fourth time in a week he has done nothing on
+  purpose and the first time he has enjoyed it. "Not the name in the roll. Not
+  the mark he had not drawn yet. This." A man who owns nothing and has just
+  registered a company works out which one he actually wanted.
+  AND IT LANDS ON THE TEETH MARKS across the heel of his right hand, about which
+  he is extremely pleased as well, so it never becomes sentimental.
+
+Hades, and the first money he ever earned here (ch23)
+- THE ENGINE IS TWO COINS (ch23). The Staple fee is a goat, eleven coins. After the
   Roll he has nine. A man who was inside thirty-nine companies and ran exactly
   one, his own, which went under, has to earn a day and a
   half of a labourer's wages before a door shuts, and he says it is the most

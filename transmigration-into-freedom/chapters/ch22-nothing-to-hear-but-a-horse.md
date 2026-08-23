@@ -1,0 +1,95 @@
+# Chapter 22: Nothing to Hear but a Horse
+
+The straw was in a loft over the stable and it was the width of three people and not one inch wider.
+
+They lay in the dark and listened to a horse being a horse underneath them, and nobody said anything for a while, and then Gaara said a thing once.
+
+"There is one room. There are three of us. I would like all three of us in it in the way you have both been carefully not thinking about since noon." He did not turn his head. "That is the whole of the offer and it does not come round again."
+
+Ylva did not answer immediately.
+
+"You asked me in a tunnel."
+
+"I offered you four minutes behind a sledge, half laughing, while I was the man telling you where to stand." He still did not turn his head. "I am not going to dress that up. It was noise. It was not asking and you were right to send it back."
+
+"And this."
+
+"This is asking. I want the difference on the record, because I only do the second one once."
+
+She thought about it long enough that Sivert stopped pretending to be asleep.
+
+"No," said Ylva. "And I am going to say why, because I do not want either of you carrying the wrong reason about."
+
+"You do not owe me a reason."
+
+"I am not giving it to you." She was on her back with her eyes open, looking at the underside of a roof. "I was somebody's wife for eighteen years. Then I was nobody's for nine. I have been something else for four days and I do not know yet what it is. I am not spending it before I have counted it."
+
+Gaara said nothing at all, which was becoming a habit in this town.
+
+"That is the best sentence anybody has said to me since I got here," he said, "and I am including several of my own."
+
+Then he changed the subject in the same breath, the way he always did.
+
+"Right. Sivert against the wall, because he is the only one of us who has never done anything wrong. Me in the middle, because I am the lightest sleeper and the worst person. Ylva on the outside, because she snores."
+
+"I do not snore."
+
+"You snore like a saw going through a wet post. I have walked two days behind it and I would like it written down next to the eleven coins."
+
+The horse moved underneath them.
+
+"I would have said yes," said Sivert, to the roof.
+
+"I know."
+
+Gaara lay still for about four seconds, which was the longest he had ever managed with information of that kind.
+
+"Ylva."
+
+"I am awake, I am going to stay awake, and if the pair of you spend the next hour being considerate at each other I will put you both in the yard."
+
+"That is not a no."
+
+"It is not a no. It is an instruction."
+
+So it was done almost without moving, which neither of them had ever had to do before, and which turned out to be its own thing entirely.
+
+There was no room to get anywhere. Under the blanket Sivert was already half out of his shirt and shaking, and after that the whole business happened inside about eighteen inches, slowly, because slowly was the only speed the straw allowed. Sivert put a fist into it beside his own head and kept it there, and it was not going to be enough, and both of them knew it about a minute before it was true.
+
+So Gaara got the heel of his own hand up and offered it.
+
+Sivert understood, and took it, and bit down, and after that there was nothing in that loft to hear but a horse.
+
+The horse shifted underneath them and neither of them stopped.
+
+And the one thing Gaara wanted most he was not allowed to have. He had not seen that coming and it cost him more than he would have guessed. He worked for the sound. It is why he does any of this. Tonight it came to a breath going wrong, a hand closing, and once, very briefly, his own name in about four letters, and he had to accept that as the full reckoning.
+
+He made it last as long as the straw and the silence would carry, which was considerably longer than a nineteen year old had any way of preparing for.
+
+Afterwards Sivert stayed where he was, tucked in under Gaara's chin, and got his wind back the way you do after a hill. He said nothing whatsoever, which by now meant a considerable amount.
+
+"You," said Ylva, into the dark, "are extremely quiet for a man who cannot stop talking."
+
+"That was the single hardest thing I have ever done."
+
+"I believe you."
+
+"I want that written down. I want Signe to write it down."
+
+He was nearly asleep when Ylva spoke again.
+
+"Ask me in the spring."
+
+"I do not ask twice."
+
+"I know," said Ylva. "That is why I said it."
+
+He woke at first light with both of them on him.
+
+Sivert was face down against his ribs with one hand flat on his chest. Ylva had come across at some point in the night and got her head onto his shoulder, and had an arm over the pair of them, and was asleep with her mouth open and no dignity whatsoever.
+
+Nothing had happened with Ylva. Nothing was going to happen with Ylva for some months.
+
+He lay there and did not move, which was the fourth time in a week he had done nothing on purpose and the first time he had enjoyed it. Not the name in the roll. Not the mark he had not drawn yet. This.
+
+There were teeth marks across the heel of his right hand, and he was extremely pleased about those as well.

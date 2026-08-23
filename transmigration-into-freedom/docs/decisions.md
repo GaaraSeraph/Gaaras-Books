@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The loft becomes its own chapter, and the ask-twice rule gets fixed ===
+Three author notes, and the third repaired a tension I had knowingly left in.
+HE GIVES SIVERT THE HEEL OF HIS HAND TO BITE. Better than the version I wrote,
+where Gaara bit a shoulder, because this one is GIVING something rather than
+taking a grip, and it is not remarked on by anybody.
+THE MORNING IS THE REAL ADDITION. He wakes with both of them on him and Ylva has
+come across in the night, and nothing happened with her and nothing is going to
+for months, and the text says so. A man who owns nothing and registered a
+company yesterday works out which of the two he actually wanted. It stays out of
+sentiment by landing on the teeth marks in his hand.
+AND "I DO NOT ASK TWICE" IS NOW TRUE. He had asked Ylva in ch16, which I had
+flagged and left as an acknowledged tension. The author's fix is better than
+leaving it: HE CORRECTS THE COUNT HIMSELF and refuses to flatter the earlier
+one. Four minutes offered half laughing by the man giving the orders was noise,
+not asking. This is asking, and he says he only does the second kind once.
+THE SPLIT FOLLOWED FROM THE MATERIAL, not from a rule. The three additions took
+ch22 to 3183, longest in the book, AND the seam became exact: the night and the
+morning end on the teeth marks, the day begins on the fee. 22 is now 1001 words,
+which is short but not unprecedented (ch08 is 1081) and it is a complete unit
+with its own arc. 23 is 2191. The planned Ordulf chapter moves to 24.
+
+
 === Suppliers and employers are not off limits ===
 Author, and it kills a rule I had invented two turns ago without noticing what I
 was doing. I had written that in the Wold everybody holds his paperwork or his
