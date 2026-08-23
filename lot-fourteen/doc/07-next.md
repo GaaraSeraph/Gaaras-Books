@@ -690,8 +690,25 @@ Fassung.**
   **Es ist Georgijs zweite Bitte an Woo, und anders als die erste kostet sie ihn
   etwas.**
 
-- **DAS GESICHT ZU DEM SATZ. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
-  Kapitel 17.** Georgij hat neun Zeilen Beschreibung und eine Signatur:
+- **DER ABEND NACH DEM STAPELLAUF. Faellig sofort, gesetzt in Band 2,
+  Kapitel 26.** Georgij hat den Namen von Park Sang-hoon, umsonst, ungefragt.
+  **Annie haelt ihn seit Dezember zurueck und hat am 27. April den echten Grund
+  genannt: der Name macht ihn lesbar.** Jetzt hat er ihn von jemandem, den sie
+  nicht kontrolliert. **Die Szene muss kommen und darf nicht uebersprungen
+  werden.**
+
+- **Sang-hoons vier Entscheidungen.** Zugesagt in Kapitel 26 als das Einzige,
+  worum er je gebeten hat: nicht der Mann, **die vier Dinge, die er an Chois
+  Tisch entschieden und nie erklaeren konnte.** Georgij wird sie vor ihm finden.
+  **Das ist eine Schuld ohne Datum und sie ist ihm ins Gesicht gesagt worden.**
+
+- **Mr Hong, 25. Oktober.** *"Ask who put him at that table."* Sang-hoons
+  Vermutung: Hong ist ein anstaendiger Mann, der nie verstanden hat, warum er
+  Leuten drei Namen statt einen gibt. **Wenn das stimmt, ist Georgij am ersten
+  Abend arrangiert worden**, vierzehn Minuten nach dem Betreten des Saales.
+
+- **DAS GESICHT ZU DEM SATZ: ERLEDIGT in Band 2, Kapitel 26.** Choi Dae-ho. Der
+  Eintrag hier lautete: Georgij hat neun Zeilen Beschreibung und eine Signatur:
   *"I am glad we finally met"*, gesagt zu einem Mann, dem er nie begegnet war.
   **Vierhundert Maenner in Seoul sind sechzig und leise und nicht gross. Ein
   Satz aber gehoert jemandem.**

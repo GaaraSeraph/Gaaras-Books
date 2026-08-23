@@ -196,6 +196,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Fenster sitzt eine Stunde und zehn Minuten lang ein Mann vor einer Schale,
   die er nicht anruehrt. **Und die vierte Gebuehr hat Yeom selbst bezahlt**
   (Band 2, Kapitel 25)
+- Tag 236, Mi 27. Mai: **der Stapellauf.** Sang-hoon hat Choi in acht Jahren
+  nie essen sehen. **Und er gibt Georgij den Namen, ungefragt** - Choi Dae-ho,
+  neunundfuenfzig, dritter von Hongs drei Namen am 25. Oktober
+  (Band 2, Kapitel 26)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1308,6 +1312,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Schlusssatz ist die neue Lage des Bandes:** *"Both of those are facts. Only one of them is a fact about Georgij, and he does not know which."*
 
   **Dazu Georgijs einziger Rat an Yeom, und er ist ernst gemeint:** *"Do not say the rest of that out loud in this room. ... you have just told me you do not know who you did it for, and that is the only thing keeping you comfortable, and it is a great deal safer than knowing."*
+
+- **Band 2, Kapitel 26** *The third name on a list of three* (v1.0) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
+
+  **Der Grund, es im Maerz nicht zu tun, ist am 15. Mai um zwanzig nach neun in ein Registeramt gegangen.** Deshalb geht er jetzt hin. Das Korridorangebot aus Kapitel 4 wird zum ersten Mal so benutzt, wie es gemeint war, **und Sang-hoon kommt durch vierzig Leute selbst herueber**: *"There is never a corridor. It is a figure of speech and you knew what I meant in March."*
+
+  **Georgij gibt acht der neun Zeilen und haelt die neunte zurueck.** Sang-hoon erkennt ihn nach zwei Sekunden und verlangt die neunte trotzdem: *"you are holding one and I would like to hear it."*
+
+  **Die Frage klingt absurd und ist die einzige, die zaehlt:** *"Have you ever watched him eat."* Und Sang-hoon gibt sie nicht sofort her - **zum ersten Mal ueberhaupt** - bis er weiss, was sie wert ist. Georgij legt ihm Annies Geschenk vom 27. April umsonst hin: **"That is the most expensive sentence anybody has said to me this year, and you have just put it in front of me for nothing."**
+
+  **Die Antwort ist der Kern des Kapitels.** Acht Jahre, ueber zwanzig Gelegenheiten, Abendessen bei ihm zu Hause, zwei Mittagessen, etwas auf einem Boot 2019. **"And I have never once seen him put anything in his mouth."** Und: *"I have known that man for eight years and I could not tell you one thing that he likes."*
+
+  **Was Georgij ihm daraufhin sagen muss, ist die zweite unertraegliche Nachricht in sechs Wochen**, und er gibt sie flach: *"He has been working on you for eight years."* Sang-hoons Antwort: **"I have been sitting at that man's table since I was fifty-one. I have made four decisions at those dinners that I have never been able to account for afterwards, and I put every one of them down to being tired."**
+
+  **Und dann die Umkehrung von Kapitel 4, und Georgij bringt sie von sich aus:** wenn ein Mann sechs Jahre vor ihm dasselbe getan hat, **dann hat Georgij ihn im November nicht gerichtet, sondern den Griff dort gefunden, wo ihn jemand anders liegen gelassen hat.**
+
+  **Sang-hoon gibt den Namen ungefragt her**, und benennt selbst, dass er ungefragt war: *"You did not ask and you were not going to ask, and I have watched you not ask for four minutes."* **Choi Dae-ho. Neunundfuenfzig. Frueher Staatsanwalt, vorzeitig heraus, niemand sagt warum. Direktor einer Private-Equity-Firma in Hongkong ueber eine Anwaltskette in Singapur, und er hat nie in seinem Leben investiert. Er gibt Abendessen.**
+
+  **Und damit faellt der Name zum ersten Mal in Band 2 - und der Leser hat ihn seit Kapitel 3 in Band 1.** Am 25. Oktober, vierzehn Minuten nach dem Betreten des Saales, hat Mr Hong ihm drei Namen genannt, an denen man vorbeigeht. **Woo. Sunwoo. Choi Dae-ho. Dritter.** *"It has been in my notebook for seven months in the third position, which is where a man puts the one he actually means."*
+
+  **Sang-hoons Trost ist keiner und er ist das Nuetzlichste, was er sagt:** *"You did not miss it. It was put in a list of three so that you would keep it and not use it. Hong is a decent man and he has never in his life understood why he gives people three names instead of one."*
+
+  **Und die neue Groesse der Sache steht in seinem naechsten Satz:** *"As of about six minutes ago I do not know how far out that goes, and neither do you, and I am not going to pretend it is a comfortable position for either of us."*
+
+  **Sang-hoons Bitte ist die erste, die er je gestellt hat, und sie ist praezise.** Nicht der Mann - **die vier Entscheidungen.** *"Because the man is yours, and I have watched you for seven months and I am not going to be in the way of that. And because I have had a great deal taken off me this year by people who were entitled to, and I would like the four things back that I gave away for nothing."*
+
+  **Georgij bleibt danach zwanzig Minuten stehen, weil Sofortgehen die Unterschrift waere**, und schreibt im Wagen eine Zeile, und nicht den Namen: ***Hong. 25 Oct. Third of three. Ask who put him at that table.***
+
+  **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
 ---
 
