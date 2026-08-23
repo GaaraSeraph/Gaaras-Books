@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 49.011 Woerter.
+Alle 4 Dokumente am Stueck. 49.232 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -674,6 +674,27 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== "in three villages now" was a lie, and he does not lie ===
+Author. Not a continuity slip, A BREACH OF RULE ONE, which is the load-bearing
+thing about the character.
+HE HAS BEEN IN EXACTLY ONE VILLAGE IN THIS WORLD. Oldstep. Plus a dead city and,
+since ch21, a market town. And "liars decorate" was said to him by TWO PEOPLE IN
+THAT ONE VILLAGE, Marit in ch4 and Hallvard in ch7, which cast.md already records
+as how Oldstep tests everybody.
+THE TRUE VERSION IS BETTER, which is usually how this goes: "which I learned in
+one valley from two people who have never agreed about anything else." Specific,
+true, shorter, and it is a compliment to the method rather than a boast about
+his travels.
+SECOND INSTANCE OF THE SAME CLASS IN TWO TURNS. The first was "I have run
+thirty-nine of these". Both are HIM ASSERTING A NUMBER ABOUT HIS OWN HISTORY
+THAT THE TEXT DOES NOT SUPPORT, and both slipped past me because they sound like
+his voice. His voice is exactly where this hides.
+BOTH ARE NOW CHECKED, since both are mechanical: run/ran near thirty-nine, and
+any village count above one. Counter-tested in both directions. WHEN HE ACTUALLY
+TRAVELS, THE VILLAGE RULE GETS RAISED DELIBERATELY rather than quietly, which is
+the point of having it.
 
 
 === Sivert said yes and I let him go to sleep ===

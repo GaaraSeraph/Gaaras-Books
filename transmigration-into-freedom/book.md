@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 49.753 Woerter.
+22 Kapitel. 49.759 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -28,7 +28,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
-| 21 | Chapter 21: The Only Book There Is | 2.882 |
+| 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: Two Coins Short | 2.987 |
 
 ---
@@ -4799,7 +4799,7 @@ The table went quiet in the way tables do.
 
 "Say that again."
 
-"That is the second best thing anybody has said to me today, and the first was the price of a bed." Gaara did not move from the chair back. "Liars decorate," said Gaara, "and I have been told that in three villages now, so I will say it twice and you can hold the two against each other. You are about to take the wrong one. The one who is talking is worse than he sounds and the one with his hand under the table is better than he looks."
+"That is the second best thing anybody has said to me today, and the first was the price of a bed." Gaara did not move from the chair back. "Liars decorate," said Gaara, "which I learned in one valley from two people who have never agreed about anything else. So I will say it twice and you can hold the two against each other. You are about to take the wrong one. The one who is talking is worse than he sounds and the one with his hand under the table is better than he looks."
 
 "And you know that how."
 

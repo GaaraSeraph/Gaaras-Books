@@ -53,6 +53,12 @@ CANON_NUMBERS = [
     # Elf Muenzen sind Teodors Beutel. Seit der Preisleiter (ch20) gibt es
     # weitere legitime Muenzzahlen: die Roll-Gebuehr (zwei) und der Preis
     # einer Klinge (vierundvierzig, vier Ziegen). Alles andere ist Drift.
+    # Er war in dieser Welt in GENAU EINEM Dorf: Oldstep. Dazu eine tote Stadt
+    # und jetzt eine Marktstadt. Er hat in ch21 behauptet, ihm sei etwas "in
+    # three villages" gesagt worden, was gelogen war, und er luegt nie.
+    # Sobald er wirklich weiterreist, wird diese Regel bewusst erweitert.
+    (re.compile(rf"(?<!and )(?<!-)\b({NUMWORD})\s+villages\b", re.I),
+     {"one", "1"}, "er war in genau einem Dorf, Oldstep"),
     # Lookbehinds, damit die Regel nicht INNERHALB einer groesseren Zahl
     # matcht: "four hundred and forty coins" und "eighty-eight coins" sind
     # richtig und duerfen nicht als "forty" bzw. "eight" gemeldet werden.
