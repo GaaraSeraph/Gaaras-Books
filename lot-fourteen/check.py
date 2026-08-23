@@ -36,7 +36,15 @@ SENT = re.compile(r'[^.!?"\n]{16,}?[.!?]')
 # Tag 1 ist Samstag, der 4. Oktober
 DAY1 = datetime.date(2025, 10, 4)
 WD = ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
-MON = {10: "October", 11: "November", 12: "December", 1: "January", 2: "February"}
+# Alle zwoelf, und nicht nur die, die der Text gerade erreicht hat. Bis zum
+# 23. August endete die Tabelle im Februar, weil kein Kapitel weiter reichte.
+# Die erste Maerz-Datumszeile haette MON[3] geschlagen und check.py mit einem
+# KeyError abgebrochen - laut, aber mitten im Lauf, also ohne Bericht ueber die
+# 33 Kapitel davor. Eine Tabelle, die mit dem Text mitwaechst, ist eine, die
+# irgendwann jemand nachziehen muss.
+MON = {1: "January", 2: "February", 3: "March", 4: "April",
+       5: "May", 6: "June", 7: "July", 8: "August",
+       9: "September", 10: "October", 11: "November", 12: "December"}
 NUM = {w: i for i, w in enumerate(
     "zero one two three four five six seven eight nine ten eleven twelve thirteen "
     "fourteen fifteen sixteen seventeen eighteen nineteen twenty".split())}
@@ -226,9 +234,15 @@ def check(path):
     # "27 to 28" None zurueckgibt. Ohne diesen Durchgang wurde die Zeile
     # stillschweigend uebersprungen und danach als fehlend gemeldet.
     for mm in re.finditer(r"Days ([A-Za-z0-9\-]+) to ([A-Za-z0-9\-]+) · "
-                          r"([A-Za-z]+) (\d+) to ([A-Za-z]+) (\d+)", t):
-        for d_raw, wd_txt, dd_txt in ((mm.group(1), mm.group(3), mm.group(4)),
-                                      (mm.group(2), mm.group(5), mm.group(6))):
+                          r"([A-Za-z]+) (\d+) to ([A-Za-z]+) (\d+)(?: ([A-Za-z]+))?", t):
+        # Der Monat steht in dieser Form nur einmal, hinten, und gilt fuer beide
+        # Haelften. Er wird deshalb gegen den zweiten Tag geprueft. Eine Spanne,
+        # die eine Monatsgrenze ueberschreitet, gibt es im Kanon nicht; wer eine
+        # schreibt, muss diesen Zweig erweitern statt sich auf ihn zu verlassen.
+        mo_txt = mm.group(7)
+        for d_raw, wd_txt, dd_txt, want_mo in (
+                (mm.group(1), mm.group(3), mm.group(4), None),
+                (mm.group(2), mm.group(5), mm.group(6), mo_txt)):
             d = words_to_int(d_raw)
             if not d:
                 continue
@@ -237,6 +251,8 @@ def check(path):
             if wd_txt != wd or int(dd_txt) != dd:
                 errs.append(f"Datumszeile: Tag {d} ist {wd}, der {dd}. {mo}, im Text steht "
                             f"{wd_txt} {dd_txt}")
+            elif want_mo and want_mo != mo:
+                errs.append(f"Datumszeile: Tag {d} liegt im {mo}, im Text steht {want_mo}")
 
     for mm in re.finditer(r"Days? ([A-Za-z0-9\- ]+?) · ([A-Za-z]+) (\d+)(?: ([A-Za-z]+))?", t):
         # Spannen hat der Durchgang darueber schon geprueft. Dieser Regex laesst
@@ -255,6 +271,14 @@ def check(path):
         if mm.group(2) != wd or int(mm.group(3)) != dd:
             errs.append(f"Datumszeile: Tag {d} ist {wd}, der {dd}. {mo}, im Text steht "
                         f"{mm.group(2)} {mm.group(3)}")
+        # Der Monat wurde seit jeher ausgelesen und nie verglichen. Gefunden am
+        # 23. August mit der Gegenprobe zur Maerz-Erweiterung: "Sunday 1 April"
+        # auf Tag 149 lief still durch, und dasselbe galt fuer alle 33 Kapitel
+        # davor. Der Wochentag hat den Fehler in der Praxis nur deshalb meistens
+        # mitgefangen, weil ein falscher Monat den Wochentag fast immer mitreisst
+        # - fast immer, und darauf ist kein Verlass.
+        elif mm.group(4) and mm.group(4) != mo:
+            errs.append(f"Datumszeile: Tag {d} liegt im {mo}, im Text steht {mm.group(4)}")
     if not days:
         warns.append("Keine Datumszeile gefunden.")
 
