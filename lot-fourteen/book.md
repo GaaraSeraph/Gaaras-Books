@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 41 Kapitel, 117.698 Woerter.
+2 Baende, 41 Kapitel, 117.706 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -51,7 +51,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 04 | v1.3 | 2.698 |
 | 2 | 05 | v1.5 | 2.848 |
 | 2 | 06 | v1.0 | 2.429 |
-| 2 | 07 | v1.0 | 2.272 |
+| 2 | 07 | v1.1 | 2.280 |
 
 ---
 
@@ -12856,7 +12856,7 @@ He had no way of knowing that it was the second time.
 ---
 
 # Book Two · Chapter 7: Not the first
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Sixty-Six · Wednesday 18 March
 
@@ -12878,9 +12878,9 @@ She did not make him ask twice and she did not stretch it out.
 
 "A lot cannot leave this building without a bill unless somebody signs a release for it. One page. It says what is going out and who has authorised it, and it does not say who is receiving it, because the receiving is what the bill is for and there is no bill."
 
-"So I get the near end and not the far one."
+"So I get the man who let it out of the building. Not the man who took it home."
 
-"You get the near end. I have never had the far one of that particular evening and neither has anybody at this desk."
+"You get the man who let it out. Nobody at this desk has ever had the other one, on that evening or any other."
 
 ---
 
@@ -13038,7 +13038,7 @@ Annie unfolded her arms and put one hand on the back of the chair.
 
 "For what, precisely."
 
-"The far end of that release. With the fourth name I could have made the whole page dull inside a fortnight." He said it without any weight on it. "I got the near end this morning at eleven."
+"Whoever took that lot home. With the fourth name I could have made the whole page dull inside a fortnight." He said it without any weight on it. "I got the near end this morning at eleven."
 
 ---
 

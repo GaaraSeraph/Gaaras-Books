@@ -256,8 +256,9 @@ nehmen.
 
 **Dreimal in dreiundzwanzig Jahren hat dieses Haus ein Los ohne Rechnung gehen
 lassen, und alle drei Freigaben tragen seine Unterschrift.** Die Freigabe nennt
-den, der genehmigt, nicht den, der empfaengt. Georgij hat damit das nahe Ende
-der vierten Zeile und weiter nichts.
+den, der genehmigt, nicht den, der empfaengt. Georgij hat damit **den Mann, der
+das Los hat gehen lassen, und nicht den, der es mitgenommen hat** - und er will
+den zweiten.
 
 **Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
 der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes
