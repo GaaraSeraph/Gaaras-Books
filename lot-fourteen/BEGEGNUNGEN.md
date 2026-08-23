@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 316 | 30 (01-34) | 1 | 74 |
+| Annie | 317 | 30 (01-34) | 1 | 74 |
 | Hana | 161 | 16 (09-31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-316 Nennungen in 30 Kapiteln.
+317 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -363,13 +363,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | ch34:308 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
 | 50 | ch34:314 | Annie let the sheet lie where he had put it. |
 | 50 | ch34:334 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
-| 50 | ch34:348 | Annie stayed in the chair that is not hers. |
+| 50 | ch34:348 | Annie did not get out of the chair she never uses. |
 | 50 | ch34:378 | Annie did not help him. |
-| 50 | ch34:392 | Annie let the whole of it get to the floor before she said anything. |
-| 50 | ch34:420 | Annie looked at him. |
-| 50 | ch34:436 | "There is more of it," said Annie. "Say the rest." |
-| 50 | ch34:456 | Annie went as far as the window and stood with her back to the room. |
-| 50 | ch34:472 | Annie's hand came down on the back of his head and stayed there. |
+| 50 | ch34:392 | "You are describing being free," said Annie. |
+| 50 | ch34:398 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:426 | Annie looked at him. |
+| 50 | ch34:442 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:462 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:478 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 

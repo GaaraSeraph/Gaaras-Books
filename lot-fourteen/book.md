@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 100.706 Woerter.
+34 Kapitel. 100.739 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -42,7 +42,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.11 | 3.335 |
-| 34 | v1.5 | 3.874 |
+| 34 | v1.6 | 3.907 |
 
 ---
 
@@ -10660,7 +10660,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -11006,7 +11006,7 @@ Georgij put the sheet back into the envelope and did not pick the envelope up.
 
 ---
 
-Annie stayed in the chair that is not hers.
+Annie did not get out of the chair she never uses.
 
 "Say why."
 
@@ -11042,11 +11042,17 @@ Annie did not help him.
 
 ---
 
-"If I belong to you and you finish with me, you have to sell me." It did not come out level and he did not try again. "You have to set a price, and find a room, and put me in front of people, and sign something in front of a man like the one who was here at ten. It takes weeks. Somebody has to help you do it. You would have to look at it every morning while it was going on, and on about the ninth of those mornings you might find you did not want to."
+"Until the nineteenth of February, if you had finished with me, you would have had to sell me." It did not come out level and he did not try again. "Set a price. Find a room. Put me in front of people and sign something in front of a man like the one who was here at ten. It takes weeks, and somebody has to help you do it, and you would have had to look at it every morning while it was going on. On about the ninth of those mornings you might have found that you did not want to."
 
-"And if you do not belong to me."
+"And now."
 
-"Then you tell me on a Tuesday, in a hall, between two other things, and it is finished before you have got to the end of the sentence." He was sitting forward now, which he does not do. "There is no procedure. There is no counterparty. There is no price and there is nothing to sign and nobody has to be brave about it. That is the whole of what you have just given me, and I have been holding it in my hands for four minutes."
+"Now there is nothing to sell." He was sitting forward, which he does not do. "You have had the line struck, so there is no procedure and no counterparty and no price and nothing to sign. You tell me on a Tuesday, in a hall, between two other things, and it is finished before you have got to the end of the sentence."
+
+---
+
+"You are describing being free," said Annie.
+
+"I am describing how cheap it has become to be finished with me." He did not soften the next part either. "Those are the same thing. I know that they are. I have had it in my hands since you turned that sheet round, and I cannot make myself want it."
 
 ---
 
