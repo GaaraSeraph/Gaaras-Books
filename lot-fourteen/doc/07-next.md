@@ -611,8 +611,21 @@ Fassung.**
   Beleg dafuer, wie schnell eine offene Drohung sich in Luft aufloesen kann,
   wenn man den Richtigen fragt.**
 
-- **DIE NEUN MAHLZEITEN. Faellig Mittwoch, 29. April, gesetzt in Band 2,
-  Kapitel 18.** Annie hat den Namen nicht gegeben, sondern ein Verhaltensmerkmal:
+- **DIE NEUN MAHLZEITEN: ERLEDIGT und verworfen in Band 2, Kapitel 19.** Er hat
+  die Liste geschrieben und durchgestrichen, weil Annie *met* gesagt hatte und er
+  *eaten with* gehoert hat. **Der richtige Kreis ist ueber vierhundert Leute.**
+  Der eine Mann, der es beantworten koennte, ist Park Sang-hoon, **und ihn zu
+  fragen heisst, ihm etwas zu sagen.** Das bleibt offen.
+
+- **Annies zweite Bedingung vom 3. April ist ueberfaellig und jetzt geladen:**
+  er soll zurueckkommen und sagen, **ob es ihm gefallen hat**, und die Wahrheit
+  darueber sagen. **Nam Byung-hee hat dieselbe Frage am 30. April vier Stunden
+  frueher gestellt** - *"That is the only thing you have said today that you
+  enjoyed"* - und er hat auf dem Bahnsteig und im Zug keine Antwort gefunden,
+  die er aufschreiben wuerde. **Die Szene mit Annie muss kommen und sie ist der
+  Schluss dieses Strangs.**
+
+- **Der alte Eintrag zu den neun Mahlzeiten, Stand Kapitel 18:** Annie hat den Namen nicht gegeben, sondern ein Verhaltensmerkmal:
   **Choi isst nicht vor Leuten, an denen er arbeitet.** Woraus folgt, dass jeder,
   der ihn hat essen sehen, nicht bearbeitet wurde. Annie faellt davon fuenf ein,
   **und Georgij hat zwei davon getroffen.**

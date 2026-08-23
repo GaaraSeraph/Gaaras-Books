@@ -160,6 +160,14 @@ nachrechnen, und `check.py` tut das automatisch.
   Den Namen gibt sie trotzdem nicht, und diesmal mit dem echten Grund: **der Name
   ist das Einzige, was Georgij lesbar machen wuerde.** Statt dessen ein
   Verhaltensmerkmal, das mehr wert ist (Band 2, Kapitel 18)
+- Tag 208, Mi 29. April: die Liste der neun Mahlzeiten wird geschrieben und
+  **durchgestrichen** - Annie hatte *met* gesagt und er hatte *eaten with*
+  gehoert. **Das Haus am Fluss schliesst fuer das Publikum**
+  (Band 2, Kapitel 19, rueckblickend)
+- Tag 209, Do 30. April: **der dritte Zug nach Ulsan.** Die drei Unglueck, die
+  Entschuldigung fuer den 20. Maerz, der Neffe, und die Zusage ueber den
+  Versender. Ihre Frage: **"Was it you, or was it her."**
+  (Band 2, Kapitel 19)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1051,6 +1059,42 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und die Hand auf der Halsseite ueber dem Halsband**, dreimal seit Oktober und noch nie in diesem Raum. Dazu ihr letzter Zug, der ehrlich ist und trotzdem ein Zug: *"You are going to manage it because you have not got the name and cannot give it to her."* - *"That is not why you kept it."* - **"No. But it is going to be true on Thursday anyway."**
 
   **Und auf der Treppe faengt er sofort an**, und macht es richtig: die Liste wird nicht heute Abend geschrieben, sondern am Mittwoch, auf Papier, mit Daten, in der Reihenfolge der Mahlzeiten, *"because that is how a list stops being a feeling."* **Neun Mahlzeiten seit Oktober**, und eine davon ist der 18. November, und er weiss schon, was dort stehen wird, **und schreibt es trotzdem der Reihe nach hin.**
+
+- **Band 2, Kapitel 19** *The third time* (v1.0) - **Tag 209, Do 30. April. Der Hof in Ulsan zum dritten Mal, dazu der Mittwoch davor.**
+
+  **Die Liste der neun Mahlzeiten wird geschrieben und sofort durchgestrichen.** Annie hatte **met** gesagt, er hatte **eaten with** gehoert, *"and he had heard it because a list of nine meals is a thing a man can do in an hour at his own desk."* Getroffen hat er seit Oktober ueber vierhundert. **Der Mittwoch produziert nichts ausser einer genauen Vorstellung davon, wie viel es ist.**
+
+  **Und den einen Mann, den er fragen koennte und nicht fragt:** *"a man who telephones Park Sang-hoon to ask which people have watched a particular person eat has just told Park Sang-hoon a great deal, and Park Sang-hoon does not put things down."*
+
+  **Das Haus am Fluss schliesst am 29. April.** Kein Aushang, nur eine Telefonnummer und eine Frau, die seit dem zwanzigsten denselben Satz sagt. Mrs Sunwoo hat noch drei Mittagessen im Kalender fuer Mai.
+
+  **Der dritte Zug, und die Struktur ist gesetzt: dreimal derselbe Hof, dreimal ein anderer Mann.** Beim ersten Mal kam er und fragte. Beim zweiten sagte er, was er ist. Beim dritten sagt er, was er getan hat. Ihre Begruessung: *"Third time. ... You have not brought anything."* - **"No."**
+
+  **Die drei Unglueck, und das dritte ist keines:** die Container waren nie auf sie gerichtet; sie wurde ausgewaehlt, **und zwar weil jemand gesagt hat, sie sei ehrlich**; und dann *"you were unlucky in the way you thought."* Dazu ausdruecklich: *"That part was yours. ... I am not going to pretend it is bad luck as well."*
+
+  **Wofuer er sich entschuldigt, ist nicht die Vernichtung, sondern der 20. Maerz**, und die Kapitel-10-Regel fuer dieses Wort haelt: es ist fuer sie und nicht fuer ihn. *"On the eighteenth of March, in the hour your letter came out of the envelope, I decided what I was going to do to you. I did not admit that to myself until the twentieth."* Und der Posten aus Kapitel 8, den er auf keine Seite geschrieben hat: **"I wrote it in the middle of the page as a thing I had not decided about. I had decided about it."**
+
+  **Ihre Antwort darauf ist die praezise:** *"You could have got out of that. Nobody in the world would have known. I would not have known. You have just handed me the one piece of it that you did not have to hand anybody."* Seine Begruendung ist Regel 1 auf sich selbst angewandt: **"leaving that out is the only untrue thing available in this room."**
+
+  **Die zwei Dinge, die kein Trost sind.** Der Neffe ist seit dem 20. April bei Mr Kwon, auf der Neun-Wagen-Rota, zum ersten Mal auf richtigem Lohn - *"That was arranged and it was arranged by me, and I checked on Monday that it had actually happened."* Dazu: *"He is twenty-three, and he is not the one who wrote the letter."*
+
+  Und: **der Mann, der sie ausgewaehlt hat, bekommt dasselbe.** Ohne Namen, mit Frist - *"before the end of the year"* - und mit der einen Praezision, die Georgij ueberall macht: *"he will lose it slowly enough to watch it coming. You did not. That is the only respect in which you have been treated better than he is going to be."*
+
+  **Ihre eine Frage ist die schlimmste, die sie stellen konnte, und sie stellt sie in demselben Ton, in dem sie alles liest:** *"Was it you, or was it her."* Antwort ohne jede Federung: **"It was me. ... She permitted it. She did not order it, she did not suggest it, and there is no version of this in which I was doing what I was told."** - *"So it was personal."* - **"It was entirely personal."**
+
+  **Und dann kommt sie selbst an:** *"Lot fourteen," she said.* Danach der Satz, der Nams ganze Lage traegt: **"I have thought about that page every day since the fourteenth of March, and it never once occurred to me that there was a person on it."** - *"No. That is what a page is for."*
+
+  **Und was Choi damit getan hat, in einem Satz:** *"He gave you a page with a man on it and did not tell you the man was on it, and then he went home and had his dinner."*
+
+  **Sie bereut nichts und sagt es**, und er glaubt ihr genau deshalb: *"I am not sorry that I wrote it. I have tried for a week to be and I am not. ... I would write it again tomorrow if I did not know what I know now."* - **"I would not have believed you if you had."**
+
+  **Am Tor der Teil, der kein Mitleid ist, und er ist keine Drohung, sondern eine Beschreibung:** sie darf alles erzaehlen, jedem, ihr Leben lang. *"By the end of May there will not be one firm on this coast that is not better off than it was in December, and every one of them will know exactly who it is better off because of. A man whose yard has just been made worth something does not repeat a thing like that. He does not decide not to. It simply does not occur to him."*
+
+  **Und der eine Satz mit Zaehnen, nicht mehr als einer:** *"Then I will come here a fourth time, and there will be nothing in my hands then either."*
+
+  **Ihr letzter Satz ist der beste, den irgendeine Figur in Band 2 bekommt, und er bleibt unbeantwortet:** *"That is the only thing you have said today that you enjoyed."* Dazu: *"He thought about that on the platform for twenty minutes and on the train for four hours, and he has not got an answer to it that he is willing to write down."*
+
+  **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
 ---
 
