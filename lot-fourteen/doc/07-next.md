@@ -617,7 +617,14 @@ Fassung.**
   Der eine Mann, der es beantworten koennte, ist Park Sang-hoon, **und ihn zu
   fragen heisst, ihm etwas zu sagen.** Das bleibt offen.
 
-- **Annies zweite Bedingung vom 3. April ist ueberfaellig und jetzt geladen:**
+- **Annies zweite Bedingung vom 3. April: EINGELOEST in Band 2, Kapitel 20.**
+  Antwort: *"Yes. Once. For about a second and a half, at a gate."* Und der Rest
+  des Monats keine Minute. **Damit ist der Strang geschlossen und ein neuer ist
+  offen:** er hat um den Deckel zurueckgebeten und **sie hat nein gesagt**, weil
+  eine Regel billiger ist als eine Entscheidung. Er entscheidet ab jetzt jedes
+  Mal allein, und das muss im Text sichtbar bleiben.
+
+- **Der alte Eintrag dazu, Stand Kapitel 19:**
   er soll zurueckkommen und sagen, **ob es ihm gefallen hat**, und die Wahrheit
   darueber sagen. **Nam Byung-hee hat dieselbe Frage am 30. April vier Stunden
   frueher gestellt** - *"That is the only thing you have said today that you

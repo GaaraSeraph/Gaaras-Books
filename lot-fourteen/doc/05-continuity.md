@@ -168,6 +168,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Entschuldigung fuer den 20. Maerz, der Neffe, und die Zusage ueber den
   Versender. Ihre Frage: **"Was it you, or was it her."**
   (Band 2, Kapitel 19)
+- Tag 209, Do 30. April, nachts: **die Abrechnung.** Er hat den Termin gehalten.
+  Er sagt die Wahrheit auf Annies zweite Bedingung: **einmal, anderthalb
+  Sekunden, an einem Tor.** Und er bittet um den Deckel zurueck. **Sie sagt
+  nein** (Band 2, Kapitel 20)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1030,7 +1034,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zeigt auf Kapitel 18:** eine Beschreibung ist keine Beschreibung, vierhundert Maenner in dieser Stadt sind sechzig und leise und nicht gross. **Aber ein Satz gehoert jemandem**, und es gibt genau eine Person, die in genug Raeumen war, um einen Satz zu hoeren und ein Gesicht darauf zu legen. *"She has been declining to give him that face since December, and she has had a reason every single time, and every one of those reasons was better in December than it is tonight."*
 
-- **Band 2, Kapitel 18** *The face on it* (v1.0) - **Tag 206, Mo 27. April, abends. Eine Szene, das kleine Zimmer, am selben Tag wie Kapitel 17.**
+- **Band 2, Kapitel 18** *The face on it* (v1.1) - **Tag 206, Mo 27. April, abends. Eine Szene, das kleine Zimmer, am selben Tag wie Kapitel 17.**
 
   **Er liest ihr alle neun Zeilen vor und sagt vorher, warum:** *"Eight of them are worth nothing. I am going to read you all nine anyway, because if I read you the one you will hear it differently."*
 
@@ -1095,6 +1099,36 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Ihr letzter Satz ist der beste, den irgendeine Figur in Band 2 bekommt, und er bleibt unbeantwortet:** *"That is the only thing you have said today that you enjoyed."* Dazu: *"He thought about that on the platform for twenty minutes and on the train for four hours, and he has not got an answer to it that he is willing to write down."*
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
+
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.0) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+
+  **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
+
+  **Dann die zweite Bedingung, und sie stellt sie so, dass er nicht daran vorbeikommt:** *"I am not going to ask it gently and I am not going to give you a way of answering it that lets you past."* - **"Did you enjoy it."**
+
+  **Die Antwort ist die genaueste, die er geben kann, und sie ist schlimmer als ja oder nein.** *"Yes. Once. For about a second and a half, at a gate, at four o'clock this afternoon."* Naemlich der eine Satz mit Zaehnen. Und der ganze Rest des Monats: **"No. Not one minute of it."**
+
+  **Und woher er es weiss, ist das Bitterste daran: Nam hat es ihm gesagt.** Vier Stunden vor Annie, in demselben Ton, in dem sie alles liest. - **"Then she is better at this than I am."** - *"She is not. She had the advantage of not caring what the answer was."*
+
+  **Die Bitte, auf die das Kapitel zulaeuft: er will den Deckel zurueck.** Preis vorher, jedes Mal, ab morgen frueh.
+
+  **Und Annie sagt nein, und ihr Grund ist der Kern des ganzen Bandes.** *"You are not asking me for a ceiling. You are asking me to be the thing that stops you, and a man who has somebody to stop him has to decide once, on a Thursday in April, and never again."* Dazu die Diagnose, die er selbst anwendet: **"You put a rule in front of a man so that he does not have to make the decision again in June. It works every single time, and it works because a rule is cheaper than deciding."**
+
+  **Sie weigert sich, sein Gewissen zu sein, und begruendet es nicht mit Unlust, sondern mit Eignung:** *"Because I would be extremely good at it and you would never have to do it again. In four years you would be somebody who does whatever is in front of him and comes home and has it audited."* Und: *"You have had two months of it now and I am not going to take it off you because the second month was unpleasant."*
+
+  **Sein Satz, der kein Argument ist, ist die Bilanz der Figur nach diesem Monat:** *"I have been afraid of four things and I could name all four. As of this afternoon there are five, and the fifth one is that I am going to be all right about it."* - **"That is the correct one to be afraid of, and I would have been disappointed in you if it had taken you until June."**
+
+  **Danach fragt Annie zum ersten Mal seit dem 20. Maerz nach Nam Byung-hee**, und daraus wird die Zusage, die spaeter eingeloest werden muss: **jemand stellt sie ein, in etwa vier Monaten, nicht er, und sie erfaehrt nie, woher es kommt.**
+
+  **Die Gruende, in der Reihenfolge, in der sie tatsaechlich stehen.** Erstens: *"Somebody who has been armed once can be armed again. A woman with nothing is a woman who says yes to the next man who arrives with a page."* Zweitens ihre Ehrlichkeit, drittens ihre Kompetenz - **und die Kompetenz setzt er selbst an die letzte Stelle, wenn er ehrlich ueber die Reihenfolge ist.**
+
+  **Der vierte Grund, den Annie ihm abfragt und den er lieber nicht haette:** *"He will hear that his instrument was taken apart in six weeks and then picked up off the floor by the same hand, and there is nothing at all he can do with that except sit with it."*
+
+  **Und warum erst in vier Monaten:** *"Because in May it is a payment. ... I would have bought my way out of this afternoon for the price of a job. She said something to me at a gate today that I have not got an answer to. I am not going to answer it with a favour."*
+
+  **Der Schluss gehoert dem Haushalt, der seit Kapitel 13 fast verschwunden war.** Vier Menschen haben gemerkt, dass er seit dem 18. Maerz nicht richtig schlaeft, **und einer davon hat etwas gesagt** - Mr Ku auf der Autobahn am 14. April - und hat sich danach vierzehn Tage lang Sorgen gemacht, ob er gedurft hat. *"Tell him it was the most useful thing anybody said to me all month."* - **"Tell him yourself. He is on the early rota."**
+
+  Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
 ---
 
