@@ -92,6 +92,27 @@ the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
 
+=== No preparation chapters, and the rule is now written down ===
+Third catch of the same class. The first Chapter 6 was a night in a byre with
+four witnesses; the first Chapter 9 was a walk into a room and back out again;
+Chapter 14 was asking a village for six men. All three were competent, all three
+moved the plot, and all three were boring for the same reason: nothing in them
+could not be taken back on the next page.
+The rule is now in CLAUDE.md with a one-sentence test. Write the chapter
+summary; if it is "they decided" or "they planned" or "they gathered", it is
+broken. Preparation is a page, never a chapter.
+What makes this one expensive is that it always arrives disguised as good
+structure. The arc document explicitly asks for organising in stage 4, and the
+obvious way to deliver that is a chapter about organising, which is exactly the
+trap. Stage 4 is a thing he does inside chapters where something else happens.
+The repair for ch14 is worth recording as a pattern: not action bolted on, but
+the irreversible consequence the preparation would really cause. Gaara's refusal
+to recruit men on a half-truth forces Hallvard to confess in the road, and one
+of the listeners gets on a horse and rides east to the lord - the precise
+disaster the secret existed to prevent, caused by the one virtue Gaara will not
+trade. Four days on the clock, and a village that now has to finish before men
+arrive who will widen the gate rather than shut it.
+
 === Talking a lot is not the same as sounding like him ===
 Second catch of the same class, four chapters after the first. In ch14 Gaara
 speaks in almost every scene and the chapter still reads wrong, because every

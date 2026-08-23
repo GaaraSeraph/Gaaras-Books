@@ -43,6 +43,34 @@ Every chapter ships as BOTH `.txt` and `.md`, same content, only the `.md` has t
 File naming: `chapters/chNN-slug.txt` and `chapters/chNN-slug.md`.
 Versioning is handled by git now, not by filename suffixes.
 
+## No preparation chapters
+
+NO CHAPTER MAY EXIST TO SET UP A LATER ONE. Every chapter needs its own event
+with a consequence that cannot be taken back by the next page.
+
+The test, and it is one sentence long: write the chapter's summary. If it comes
+out as "they decided", "they planned", "they agreed", "they gathered",
+"they got ready" or "they talked about it", the chapter is broken. Deciding is
+not an event. Recruiting is not an event. Packing, briefing, arguing about a
+plan and agreeing on a signal are not events.
+
+Preparation is allowed as a PAGE, never as a chapter. Compress it and set it
+against something happening.
+
+Caught by the author three times: the first Chapter 6 (a night in a byre with
+four witnesses), the first Chapter 9 (a walk through a room and back out), and
+Chapter 14 (asking a village for six men). Two of the three were rewritten from
+nothing. This is the most expensive recurring mistake in the project, and it
+always arrives disguised as good structure, because the arc document genuinely
+does call for organising, deciding and preparing. It calls for them as THINGS
+THAT HAPPEN INSIDE CHAPTERS, not as chapters.
+
+The repair, when a chapter turns out to be preparation, is not to add action for
+its own sake. It is to find the irreversible thing the preparation would
+actually cause and put it on the page. Chapter 14 was fixed by asking what
+telling forty houses the truth would really do, and the answer was that a man
+gets on a horse and rides east.
+
 ## Length
 
 Target under 2500 words per chapter. Several run shorter and that is fine.

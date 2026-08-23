@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 14 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 16.815 Woerter.
+Alle 4 Dokumente am Stueck. 17.295 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -358,6 +358,11 @@ Solva
   half without being asked: if SHE says it first, he moves without asking why.
   That is not him planning around her any more. That is him handing her half of
   a plan and agreeing in advance to obey it.
+- STAGE 4 IS A THING HE DOES, NOT A CHAPTER TYPE. "He ends up organising: a
+  watch, a route, a way to fight crawlers that ordinary villagers can execute"
+  reads like a licence to write chapters about organising. It is not. Every
+  scene of him building something has to sit inside a chapter where something
+  happens that cannot be undone. See CLAUDE.md, no preparation chapters.
 - THE CRUDE REGISTER IS NOT DECORATION, it is how the reader knows he is still
   himself. When a chapter puts him in charge of something - a plan, a crew, a
   confession - he drifts into pure operator and the jokes vanish, and the drift
@@ -499,6 +504,27 @@ numbers have to be derivable by the reader. Where a number does not move,
 the reason must be countable rather than asserted. The line in ch6 claiming
 two kills were "not worth one now" was invented to excuse an absent level
 and made the economy unreadable; it is gone, and he does arithmetic instead.
+
+=== No preparation chapters, and the rule is now written down ===
+Third catch of the same class. The first Chapter 6 was a night in a byre with
+four witnesses; the first Chapter 9 was a walk into a room and back out again;
+Chapter 14 was asking a village for six men. All three were competent, all three
+moved the plot, and all three were boring for the same reason: nothing in them
+could not be taken back on the next page.
+The rule is now in CLAUDE.md with a one-sentence test. Write the chapter
+summary; if it is "they decided" or "they planned" or "they gathered", it is
+broken. Preparation is a page, never a chapter.
+What makes this one expensive is that it always arrives disguised as good
+structure. The arc document explicitly asks for organising in stage 4, and the
+obvious way to deliver that is a chapter about organising, which is exactly the
+trap. Stage 4 is a thing he does inside chapters where something else happens.
+The repair for ch14 is worth recording as a pattern: not action bolted on, but
+the irreversible consequence the preparation would really cause. Gaara's refusal
+to recruit men on a half-truth forces Hallvard to confess in the road, and one
+of the listeners gets on a horse and rides east to the lord - the precise
+disaster the secret existed to prevent, caused by the one virtue Gaara will not
+trade. Four days on the clock, and a village that now has to finish before men
+arrive who will widen the gate rather than shut it.
 
 === Talking a lot is not the same as sounding like him ===
 Second catch of the same class, four chapters after the first. In ch14 Gaara
@@ -1125,6 +1151,17 @@ The elder's secret (ch12) - the first arc's answer
   come out of Hallvard's own mouth, in the road, because Gaara refuses to spend
   his one asset telling another man's story for him. "That is not kindness. It
   is bookkeeping."
+- (ch14) THE PRICE OF THE TRUTH, AND A CLOCK. A man called Rulf, Ylva's
+  brother-in-law, was at the back of the road shouting about the lord, and at
+  dusk he takes a horse, a bag and the good coat and rides east. Two days to the
+  Wold where the lord's man sits, three if the ford is up.
+  So the confession causes the exact thing thirty-one years of silence existed
+  to prevent, and it was caused by Gaara refusing to recruit men on a half
+  truth. He says so, and says he would do it again, and says neither of those
+  changes the horse.
+  FOUR DAYS. Gaara's reading of what arrives if they come: not men who shut a
+  gate, men who WIDEN it, because that is what people do with a door somebody
+  else is guarding. Everything from here runs against that clock.
 - (ch14) HALLVARD SAYS IT IN THE ROAD, in about four minutes, in flat ordinary
   sentences, and does not say sorry once. He expects to lose the eldership and
   says so beforehand. Whether he does is NOT established.

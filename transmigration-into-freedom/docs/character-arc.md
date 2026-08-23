@@ -197,6 +197,11 @@ Solva
   half without being asked: if SHE says it first, he moves without asking why.
   That is not him planning around her any more. That is him handing her half of
   a plan and agreeing in advance to obey it.
+- STAGE 4 IS A THING HE DOES, NOT A CHAPTER TYPE. "He ends up organising: a
+  watch, a route, a way to fight crawlers that ordinary villagers can execute"
+  reads like a licence to write chapters about organising. It is not. Every
+  scene of him building something has to sit inside a chapter where something
+  happens that cannot be undone. See CLAUDE.md, no preparation chapters.
 - THE CRUDE REGISTER IS NOT DECORATION, it is how the reader knows he is still
   himself. When a chapter puts him in charge of something - a plan, a crew, a
   confession - he drifts into pure operator and the jokes vanish, and the drift

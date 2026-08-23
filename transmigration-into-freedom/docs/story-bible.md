@@ -359,6 +359,17 @@ The elder's secret (ch12) - the first arc's answer
   come out of Hallvard's own mouth, in the road, because Gaara refuses to spend
   his one asset telling another man's story for him. "That is not kindness. It
   is bookkeeping."
+- (ch14) THE PRICE OF THE TRUTH, AND A CLOCK. A man called Rulf, Ylva's
+  brother-in-law, was at the back of the road shouting about the lord, and at
+  dusk he takes a horse, a bag and the good coat and rides east. Two days to the
+  Wold where the lord's man sits, three if the ford is up.
+  So the confession causes the exact thing thirty-one years of silence existed
+  to prevent, and it was caused by Gaara refusing to recruit men on a half
+  truth. He says so, and says he would do it again, and says neither of those
+  changes the horse.
+  FOUR DAYS. Gaara's reading of what arrives if they come: not men who shut a
+  gate, men who WIDEN it, because that is what people do with a door somebody
+  else is guarding. Everything from here runs against that clock.
 - (ch14) HALLVARD SAYS IT IN THE ROAD, in about four minutes, in flat ordinary
   sentences, and does not say sorry once. He expects to lose the eldership and
   says so beforehand. Whether he does is NOT established.
