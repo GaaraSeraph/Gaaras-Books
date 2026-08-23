@@ -3,6 +3,70 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 17 got louder and then had to be split ===
+The author: too little talking from Gaara and not nearly suggestive enough. Both
+true, and the back half was the worst of it - it went solemn the moment Bern was
+hurt, which is precisely the failure CLAUDE.md names and blames on ch14.
+What was missing, specifically: he barely spoke on the walk up; he taught six
+terrified farmers in near silence, when a man teaching is a man talking; he said
+nothing at all to the Roofwalker, in a book calibrated on ch2 where he will not
+shut up at things trying to kill him; and after Bern went down he stopped being
+funny, which he does not do and which is somebody else's grief again.
+Added: the whole climb as banter, four minutes of unbroken coaching mid-fight,
+an offer to the room that queues behind Marit, a speech at the Roofwalker that
+is also tactically useful because a voice pulls its eye off her, and the talking
+jag down the hill that Marit identifies as his tell.
+That took it to 3004 words. CLAUDE.md is explicit that dialogue over the target
+gets a SEAM and not a cut, so 17 now ends on Bern being carried away on a door,
+and 18 opens on the walk down. 17: 2179. 18: 2030.
+
+=== The leg, and who is allowed to decide it ===
+The event of ch18, and it was chosen because it inverts everything the character
+runs on. The panel reads living things and gives a level, and over an open
+fracture it gives nothing at all. So the instrument that has made him right for
+six days is worthless in the one room where it would matter, and the competent
+person present is a woman of sixty he told in ch14 that she was too slow.
+BERN DECIDES. Gaara refuses to, and the reason is not squeamishness: he put Bern
+at that wall, so choosing again would kill him with the same arithmetic twice.
+What Gaara supplies is the truth, undecorated, which is the only asset he has
+ever claimed.
+AND THEN HE IS FURNITURE. Somebody has to hold him down, and it is him, and he
+talks obscenely through all six minutes in the tone he uses for lime mortar
+until Bern is swearing at him instead of screaming. That is the register rule
+doing actual work rather than decorating a scene.
+Boiled water is the only thing his old world is allowed to contribute. He asks
+for it, nobody argues, he does not explain, and it stays at that.
+
+
+=== A level scale, because I had been inventing numbers per chapter ===
+The author caught it on the guild question: I proposed that a C-grade company
+would be around Level 9, and he pointed out that farmers and woodcutters in this
+book are 6 and 7. Nine is a strong villager, not a professional.
+The fault was mine and structural: I had hung a rank scale on a level scale that
+had never been defined. It is defined now, in story-bible.md section 2.
+Nothing written has to change. The Roofwalker at 9 remains the highest thing
+anybody in this book has seen, because nobody in this book has ever seen a
+soldier. The village's world stops at 7 and that is the whole reason the scale
+reads as it does.
+It also arms a scene that costs nothing: the first time Gaara reads one of the
+lord's men, he gets a number beside which Ylva is a child. Do not spend early.
+
+=== Adventurers exist and do not come here, and guilds cannot see levels ===
+Two decisions taken together because the second falls out of the first.
+ADVENTURERS. The author's publishing plan needs a paying readership, and sworn
+companies are it. So they exist, under charter, in the settled country, and they
+do not work the periphery because a valley of forty houses pays nothing. That
+explains what is already written: Solva asked for nine weeks and nobody came,
+and a dead city sat untouched an hour from the road for eight hundred years.
+Discarded: nobody anywhere does this professionally and Gaara invents the trade.
+Bigger and slower, and it needs capital he does not have. Kept in reserve.
+GUILD GRADES. Character-arc.md forbids introducing a tier without deciding how
+it meets the letter ranks. Decided: it does not meet them at all. A grade is a
+human judgement, the guild cannot see levels and does not know they exist, and
+so the paper will say C while the world says Level 9. Gaara is the only person
+alive who reads both numbers at once, and that friction never resolves.
+
+
 === Four days was unrealistic and the story says so out loud ===
 The author caught it: two days east and two days back only works if a lord's man
 mounts up the hour Rulf arrives, and no administration in any world does that.

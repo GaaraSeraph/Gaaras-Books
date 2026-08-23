@@ -183,6 +183,12 @@ The system work of the chapter is not his sheet, it is other people's: Ylva goes
 7 to 8 in front of him, and he stands through eleven minutes of killing watching
 his own counter refuse to move.
 
+Chapter 18: no mechanical change of any kind. No kills, no level, nothing spent,
+MP untouched at 60, six points still banked. The chapter's system content is a
+LIMIT rather than a gain: the panel has nothing whatsoever to say about an open
+fracture, and the man who has been right about everything for six days is
+reduced to being the weight that holds a patient down.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -198,6 +204,12 @@ Pacing rules
   stay open for a good while yet.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
+  DECIDED for guilds: they do not interact at all. A guild grade is a human
+  judgement and the guild cannot see levels. See story-bible.md section 7.
+- THE LEVEL SCALE IS FIXED NOW and lives in story-bible.md section 2. Ordinary
+  adults 3 to 8, exceptional for a district 8 to 10, professional soldiers 12 to
+  18, captains 20 to 25, famous 30 and up. Never put the table on the page.
+  Gaara is a 5. He is below the average adult in that village and knows it.
 
 
 === 5. SUPPORTING ARCS ===

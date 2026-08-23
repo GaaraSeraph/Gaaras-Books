@@ -48,6 +48,22 @@ The city was streets.
 
 They came up a paved avenue wide enough for four carts, with a root the thickness of a horse coming through it at an angle. Doorways stood open on both sides at the height of a first floor, because the ground floors were gone under forty feet of leaf. The aqueduct crossed the sky ahead of them on its legs with the bite out of it. Torv stopped walking and had to be spoken to twice.
 
+"It is a city," said Vidar, who had not said anything for an hour.
+
+"It is a city, it has been dead for eight hundred years, and it is still better built than anything any of us will ever live in." Gaara did not stop walking. "Hold on to that, because in about an hour you are all going to be frightened, and it helps enormously to be frightened somewhere impressive."
+
+"Does it," said Torv.
+
+"No. But it sounds better than the truth, which is that we are five farmers, Marit, and a man with a wedge iron."
+
+"You have got a mouth on you," said Vidar.
+
+"You have said that before and you were right then as well, and I want you to know that I have not worked on it at all." He stepped over the root. "Chin up, Vidar. You are the second best looking man in this street and you are going to have to make your peace with the arithmetic."
+
+"Who is the first?"
+
+"Ask me when the light is better."
+
 "Right," said Gaara. "Nobody touches anything, nobody goes through a doorway, and nobody dies, and if you can only manage two of those, pick the last one."
 
 They found the first pack in an hour.
@@ -66,6 +82,20 @@ Then he stood still and let it happen.
 "Where are you?"
 
 "Here. Being useless and enjoying none of it."
+
+Then he talked for four minutes without stopping, because that was the lesson and the noise was half of it.
+
+"Wall, Ylva. That is what a wall is for, it is not decoration. Torv, you are swinging like a man splitting logs and it is going to work, which is the worst thing about it. Bern. BERN. Your feet. Thank you. Ask, if you kill another one that quietly I am going to start finding you genuinely unsettling."
+
+"Is he always like this?" said Vidar.
+
+"Always," said Marit.
+
+"Does it help?"
+
+"Nobody has ever tried it without him."
+
+"That is the kindest thing anybody has said about me in this world," said Gaara, over his shoulder, "and I am available afterwards for a fuller expression of your gratitude, and the queue forms behind Marit, who is armed and has views."
 
 It took them four minutes and it was not clean, and Torv got a hand opened and swore in a way that suggested he had thought about it beforehand.
 
@@ -106,6 +136,14 @@ He had watched his own number move three times in his life and had never once wa
 "What."
 
 "Nothing. Stay where your feet are."
+
+"You went quiet," said Marit.
+
+"I did."
+
+"You do not go quiet."
+
+"Something happened that I have wanted since the first morning, and I did not get to choose when, and it lasted about a second and a half." He got his hand back on the wedge iron. "It has passed. I am back to being a great deal of noise in a dead street."
 
 Torv came over with his hand wrapped in his own sleeve.
 
@@ -154,6 +192,10 @@ Nobody moved. He had trained them for four hours to hear a number and act on it,
 
 "You are with me and you are on my left and you do not take it. You get its head round."
 
+And Gaara talked to it, because he always did, and because a voice in an empty street pulls an eye off the woman with the axe.
+
+"There you are. You have been sitting up there for an hour watching us like a man at a wedding he was not invited to." He went sideways, and it followed the sound. "You are enormous and you are quick, and I have been called both of those by people who were being kind about something else entirely, and neither of us is going to enjoy the next minute."
+
 She got its head round.
 
 She did it with the axe and a great deal of noise, and one appalling half second where it came for her and she stood exactly still. That is the hardest thing a person can be taught to do, and nobody had taught her.
@@ -184,71 +226,3 @@ He stood in the avenue of a dead city with his shoulder going numb and read that
 One kill. A nine, taken at four, and it had been worth more than the eleven before it put together. The rule he had worked out in a tunnel held, and it held generously, and there was a version of the next month that consisted of nothing but finding things far too large for him and being extremely careful.
 
 Forty feet down the road, four people were carrying Bern on a door.
-
-"Say it," said Marit, when they were on the hill.
-
-"I was going to. You have taken all the pleasure out of it."
-
-"Say it anyway."
-
-"Bern is on a door because I told him to take it at a wall." He was walking on the downhill side, watching the ground. "Then a thing came off a roof and I killed it, and I was paid for killing it, more than I have been paid for anything since I arrived in this world. Both of those are true and they happened forty feet apart, and there is a way of saying them in one sentence that makes me a man who bought a level with a leg."
-
-"Nobody thinks that."
-
-"I think it. I have been doing arithmetic on people since I was twenty-two, and I am not going to stop today on the grounds that the answer is unpleasant."
-
-"Is it the true one?"
-
-"No," said Gaara. "It is only the neatest."
-
-Hallvard had come up the hill to meet them, which meant he had heard the door before he saw it.
-
-Gaara stopped in front of him and looked at him properly, on purpose.
-
-Nothing. Not a fault, not a flicker, not a blank card where a card ought to be. The panel gave him the stones behind his head.
-
-He did not ask. He had asked in the byre with the flagstone up and had made him say it twice, and both tellings had come out the same, and neither of them had been an answer. A line cut in a floor. More crossings of it than anything alive. I never made anything of it.
-
-"I am not asking you again," said Gaara.
-
-"Good."
-
-"I am going to say something instead, and you are going to tell me it is nothing, and I would like that out loud and not with your face." He watched the door start down the hill. "There is a machine under that channel that takes something out of a man while he turns it. Mine went and I could see it going. Nobody else could see theirs, and every one of them felt tired and had no word for why."
-
-Hallvard looked at him.
-
-"And you have walked across a line cut in that floor for thirty-one years," said Gaara.
-
-Hallvard did not tell him it was nothing.
-
-He put his hand out for the corner of the door as it came past and took his share of it, seventy years old, without being asked, and went down the hill with it.
-
-They put Bern in his own house, and Solva came, and it went the way those things go.
-
-Gaara stood outside in the dark afterwards, and Marit came and stood beside him, and neither of them said anything for a while, which for him was an event.
-
-"You are not coming with me," he said.
-
-"No."
-
-"I had a speech about that."
-
-"I know. It was going to be about what the village needs, and you were going to make it sound like my idea."
-
-"It was going to be beautiful."
-
-"Somebody has to take them back in there next week," said Marit. "It cannot be a man of seventy and it cannot be a man who is leaving. Out of everybody else in this valley, I am the only one who has watched you do it from close enough to copy it."
-
-"You are also a six."
-
-"I know what I am. You told me in a byre."
-
-"I did." He rubbed his face. "Two weeks. Possibly three."
-
-"Then you had better be thorough with the time you have got."
-
-"I intend to be extremely thorough," said Gaara, "and slow, and unreasonably detailed, and I want you to hear all of that as a threat."
-
-"I heard it as a promise."
-
-"That is the same sentence with better manners."

@@ -149,6 +149,15 @@ The six (ch14, blooded ch15)
   backwards down an avenue without turning round, as ordered. Ask said nothing.
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
+- (ch18) BERN LOSES THE LEG BELOW THE KNEE, and chooses it himself. Solva does
+  it in six minutes with wine, fire and a wooden spoon. Gaara holds him and
+  talks filth at him for the whole of it until he stops screaming and starts
+  swearing back. He lives. He is now the second person in this book injured by
+  advice Gaara gave that was correct.
+- (ch18) SOLVA is the most competent person in the room and has been all along.
+  Four cases in her life, one of them her own husband when she was twenty-two,
+  and nobody had told her anything could be done. She gets her answer to ch14
+  out of Gaara and does not gloat.
 - (ch17) MARIT STAYS, and it is her decision with her reasons. Somebody has to
   take them back in next week, it cannot be a man of seventy and it cannot be a
   man who is leaving, and she is the only one who has watched Gaara work from

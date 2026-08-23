@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-17 Kapitel. 35.360 Woerter.
+18 Kapitel. 37.220 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -24,7 +24,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
 | 16 | Chapter 16: Something Is Drinking It | 2.354 |
-| 17 | Chapter 17: Who Gets the Kill | 2.360 |
+| 17 | Chapter 17: Who Gets the Kill | 2.186 |
+| 18 | Chapter 18: Somebody Has to Hold Him | 2.034 |
 
 ---
 
@@ -3696,6 +3697,22 @@ The city was streets.
 
 They came up a paved avenue wide enough for four carts, with a root the thickness of a horse coming through it at an angle. Doorways stood open on both sides at the height of a first floor, because the ground floors were gone under forty feet of leaf. The aqueduct crossed the sky ahead of them on its legs with the bite out of it. Torv stopped walking and had to be spoken to twice.
 
+"It is a city," said Vidar, who had not said anything for an hour.
+
+"It is a city, it has been dead for eight hundred years, and it is still better built than anything any of us will ever live in." Gaara did not stop walking. "Hold on to that, because in about an hour you are all going to be frightened, and it helps enormously to be frightened somewhere impressive."
+
+"Does it," said Torv.
+
+"No. But it sounds better than the truth, which is that we are five farmers, Marit, and a man with a wedge iron."
+
+"You have got a mouth on you," said Vidar.
+
+"You have said that before and you were right then as well, and I want you to know that I have not worked on it at all." He stepped over the root. "Chin up, Vidar. You are the second best looking man in this street and you are going to have to make your peace with the arithmetic."
+
+"Who is the first?"
+
+"Ask me when the light is better."
+
 "Right," said Gaara. "Nobody touches anything, nobody goes through a doorway, and nobody dies, and if you can only manage two of those, pick the last one."
 
 They found the first pack in an hour.
@@ -3714,6 +3731,20 @@ Then he stood still and let it happen.
 "Where are you?"
 
 "Here. Being useless and enjoying none of it."
+
+Then he talked for four minutes without stopping, because that was the lesson and the noise was half of it.
+
+"Wall, Ylva. That is what a wall is for, it is not decoration. Torv, you are swinging like a man splitting logs and it is going to work, which is the worst thing about it. Bern. BERN. Your feet. Thank you. Ask, if you kill another one that quietly I am going to start finding you genuinely unsettling."
+
+"Is he always like this?" said Vidar.
+
+"Always," said Marit.
+
+"Does it help?"
+
+"Nobody has ever tried it without him."
+
+"That is the kindest thing anybody has said about me in this world," said Gaara, over his shoulder, "and I am available afterwards for a fuller expression of your gratitude, and the queue forms behind Marit, who is armed and has views."
 
 It took them four minutes and it was not clean, and Torv got a hand opened and swore in a way that suggested he had thought about it beforehand.
 
@@ -3754,6 +3785,14 @@ He had watched his own number move three times in his life and had never once wa
 "What."
 
 "Nothing. Stay where your feet are."
+
+"You went quiet," said Marit.
+
+"I did."
+
+"You do not go quiet."
+
+"Something happened that I have wanted since the first morning, and I did not get to choose when, and it lasted about a second and a half." He got his hand back on the wedge iron. "It has passed. I am back to being a great deal of noise in a dead street."
 
 Torv came over with his hand wrapped in his own sleeve.
 
@@ -3802,6 +3841,10 @@ Nobody moved. He had trained them for four hours to hear a number and act on it,
 
 "You are with me and you are on my left and you do not take it. You get its head round."
 
+And Gaara talked to it, because he always did, and because a voice in an empty street pulls an eye off the woman with the axe.
+
+"There you are. You have been sitting up there for an hour watching us like a man at a wedding he was not invited to." He went sideways, and it followed the sound. "You are enormous and you are quick, and I have been called both of those by people who were being kind about something else entirely, and neither of us is going to enjoy the next minute."
+
 She got its head round.
 
 She did it with the axe and a great deal of noise, and one appalling half second where it came for her and she stood exactly still. That is the hardest thing a person can be taught to do, and nobody had taught her.
@@ -3832,6 +3875,22 @@ He stood in the avenue of a dead city with his shoulder going numb and read that
 One kill. A nine, taken at four, and it had been worth more than the eleven before it put together. The rule he had worked out in a tunnel held, and it held generously, and there was a version of the next month that consisted of nothing but finding things far too large for him and being extremely careful.
 
 Forty feet down the road, four people were carrying Bern on a door.
+
+---
+
+# Chapter 18: Somebody Has to Hold Him
+
+He talked the whole way down the hill.
+
+He talked about the aqueduct and about what eight hundred years does to lime mortar, and about the doorways standing at first floor height, and about a mason he had never met and had opinions on. Nobody answered him. He did not stop.
+
+"You are doing the thing," said Marit eventually.
+
+"I am aware that I am doing the thing."
+
+"You did it in the byre with your hand in my arm."
+
+"I have done it at four funerals and a redundancy," said Gaara. "It is the only thing I brought with me that still works, and it is not on the list."
 
 "Say it," said Marit, when they were on the hill.
 
@@ -3871,7 +3930,71 @@ Hallvard did not tell him it was nothing.
 
 He put his hand out for the corner of the door as it came past and took his share of it, seventy years old, without being asked, and went down the hill with it.
 
-They put Bern in his own house, and Solva came, and it went the way those things go.
+They put Bern in his own house, and Solva came, and looked at the leg for a long time without touching it.
+
+"I have seen four of these," she said.
+
+"Say all of it," said Gaara.
+
+"Two we left on. Both men died. Nine days and eleven days, and neither of them was quiet towards the end." She wiped her hands on her apron although there was nothing on them yet. "One we took off below the knee and he is alive and he is a miserable old sod in the Wold and he complains about the weather in his foot. The fourth was my husband and I was twenty-two and I did nothing at all, because nobody in this road told me there was a thing that could be done."
+
+The room was Bern's own kitchen with eleven people in it and it had gone very quiet.
+
+"Bern," said Gaara. "Look at me."
+
+Bern looked at him. He had gone the colour of a wall and his hands were on the frame of the bed.
+
+"I have been in this world five days and I know nothing about legs. Nothing at all." Gaara crouched down so their heads were level. "Everything I have been right about since I arrived, I was right about because I can see something nobody else can see. I am looking at your leg right now and I have got nothing. There is no number over it. It is the first thing in this world that has ever been only a thing."
+
+"You're telling me you can't help."
+
+"I am telling you that the only useful man in this room is a woman of sixty."
+
+Somebody made a noise. Solva did not.
+
+"So you are going to hear the whole of it from her, and then you are going to say which one we do, and nobody standing here is going to say it for you."
+
+"You say it," said Bern.
+
+"No."
+
+"You put me at that wall."
+
+"I did, and that is precisely why it is not mine to take," said Gaara. "If I choose and you die, you die of my arithmetic twice, and I have already had that year."
+
+Bern lay there and breathed for a while.
+
+"Off," he said.
+
+Solva sent four people out and told two to build the fire up and one to fetch the wine, and put a wooden spoon sideways in Bern's mouth without being asked to.
+
+"Somebody has to hold him," she said.
+
+So he held him.
+
+That was the whole of his contribution, and he was aware of it the entire time. Nineteen years of being the man with the answer, and five days of being the man who could see the numbers. What the room wanted from him in the end was a hundred and sixty pounds of weight across a man's chest.
+
+He talked for all of it.
+
+He talked steadily, in a level voice, about a woman he had once known with a wooden leg who danced better than he did, which he admitted was not a high bar. He said that a one legged man in this village would get carried, and that being carried by Torv was a punishment he would not wish on an enemy. He said that being carried by Ylva was something four men in that road would break a leg for on purpose, and that two of them were married. He said considerably worse things than that. He said them in exactly the same tone he had used about lime mortar.
+
+Somewhere in it Bern stopped screaming and started swearing at him instead, which had been the entire object.
+
+It took Solva six minutes.
+
+Afterwards she washed to the elbow in water somebody had boiled because Gaara had asked for it boiled and nobody had argued, and she stood in the doorway with her sleeves still up.
+
+"You told me I would slow you down," she said.
+
+"I did."
+
+"You were right about that."
+
+"I was right about a tunnel," said Gaara. "I have just watched you do a thing I could not have done with nine hours and a book, and I want you to know that I have written it down where I keep such things."
+
+"You have not written anything down."
+
+"No," said Gaara. "I have been thinking about that all afternoon."
 
 Gaara stood outside in the dark afterwards, and Marit came and stood beside him, and neither of them said anything for a while, which for him was an event.
 
@@ -3891,7 +4014,11 @@ Gaara stood outside in the dark afterwards, and Marit came and stood beside him,
 
 "I know what I am. You told me in a byre."
 
-"I did." He rubbed his face. "Two weeks. Possibly three."
+"I did, with my hand inside your arm and a dead man forty feet away, and it remains the least romantic thing I have ever done to anybody." He rubbed his face. "I have been correcting the record ever since and I intend to go on correcting it."
+
+"You have made some progress."
+
+"I have made excellent progress and I would like it entered somewhere." He looked at Bern's door. "Two weeks. Possibly three."
 
 "Then you had better be thorough with the time you have got."
 
@@ -3900,3 +4027,51 @@ Gaara stood outside in the dark afterwards, and Marit came and stood beside him,
 "I heard it as a promise."
 
 "That is the same sentence with better manners."
+
+He did not sleep, and at some point after midnight he went and stood in Hallvard's doorway until the old man got up and let him in.
+
+The slate was on the table where it had been for six days, and Gaara had walked past it eleven times without once asking, which he had spent the last hour being disgusted about. He had read a man's whole character off a whetstone. He had sat in this room and taken bread off this table and never once looked at the writing on the thing lying next to his elbow.
+
+"Teach me the letters," he said.
+
+Hallvard sat down slowly.
+
+"You know what you are asking me."
+
+"I do."
+
+"Thirty-one years I did not write it down. Nor Aldis, nor her uncle, nor the woman before him."
+
+"I know," said Gaara. "That is exactly why I am asking you and not somebody who never had to decide it."
+
+The numbers took four minutes.
+
+There were ten of them, going round the top of the slate in a hand that had made them ten thousand times. Gaara looked at them once and had them. A man who has read balance sheets for nineteen years does not need to be taught what a digit is for. He wrote the tally of the crawler kills along the bottom edge and got it right, and Hallvard said nothing at all and looked at the slate for slightly too long.
+
+The letters took the evening.
+
+There were twenty-three of them, and he already spoke the language, so it was not reading he was learning. It was a cipher, and he had been given the key by a man who kept it in his kitchen. By the time the fire was low he was getting through short words, and getting through them badly, out loud. They wrote everything with no gaps between the words, and the only way to find the end of one was to hear it.
+
+Marit sat on the other side of the table with her chin on her hand and got there faster than he did, and enjoyed it visibly.
+
+"Say that one again," she said.
+
+"I would rather not."
+
+"Say it again the way you said it the first time."
+
+"I am being mocked by a woman I taught to read this evening."
+
+"Hallvard taught me to read this evening. You have been sitting next to me making noises."
+
+He took the pouch off his belt then, and got a coin out of it, and turned it over under the lamp. It was the first time he had looked at one since the morning he took them off a dead man in the dark.
+
+The face he still did not know. The word round the edge went past him.
+
+The number did not.
+
+"Hallvard. What is eleven of these worth?"
+
+The old man looked.
+
+"A good goat," he said. "Or a bad knife."

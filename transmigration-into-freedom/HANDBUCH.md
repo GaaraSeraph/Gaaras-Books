@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 17 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 23.862 Woerter.
+Kanon: 18 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 26.344 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -166,6 +166,15 @@ The six (ch14, blooded ch15)
   backwards down an avenue without turning round, as ordered. Ask said nothing.
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
+- (ch18) BERN LOSES THE LEG BELOW THE KNEE, and chooses it himself. Solva does
+  it in six minutes with wine, fire and a wooden spoon. Gaara holds him and
+  talks filth at him for the whole of it until he stops screaming and starts
+  swearing back. He lives. He is now the second person in this book injured by
+  advice Gaara gave that was correct.
+- (ch18) SOLVA is the most competent person in the room and has been all along.
+  Four cases in her life, one of them her own husband when she was twenty-two,
+  and nobody had told her anything could be done. She gets her answer to ch14
+  out of Gaara and does not gloat.
 - (ch17) MARIT STAYS, and it is her decision with her reasons. Somebody has to
   take them back in next week, it cannot be a man of seventy and it cannot be a
   man who is leaving, and she is the only one who has watched Gaara work from
@@ -391,6 +400,12 @@ The system work of the chapter is not his sheet, it is other people's: Ylva goes
 7 to 8 in front of him, and he stands through eleven minutes of killing watching
 his own counter refuse to move.
 
+Chapter 18: no mechanical change of any kind. No kills, no level, nothing spent,
+MP untouched at 60, six points still banked. The chapter's system content is a
+LIMIT rather than a gain: the panel has nothing whatsoever to say about an open
+fracture, and the man who has been right about everything for six days is
+reduced to being the weight that holds a patient down.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -406,6 +421,12 @@ Pacing rules
   stay open for a good while yet.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
+  DECIDED for guilds: they do not interact at all. A guild grade is a human
+  judgement and the guild cannot see levels. See story-bible.md section 7.
+- THE LEVEL SCALE IS FIXED NOW and lives in story-bible.md section 2. Ordinary
+  adults 3 to 8, exceptional for a district 8 to 10, professional soldiers 12 to
+  18, captains 20 to 25, famous 30 and up. Never put the table on the page.
+  Gaara is a 5. He is below the average adult in that village and knows it.
 
 
 === 5. SUPPORTING ARCS ===
@@ -497,6 +518,70 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Chapter 17 got louder and then had to be split ===
+The author: too little talking from Gaara and not nearly suggestive enough. Both
+true, and the back half was the worst of it - it went solemn the moment Bern was
+hurt, which is precisely the failure CLAUDE.md names and blames on ch14.
+What was missing, specifically: he barely spoke on the walk up; he taught six
+terrified farmers in near silence, when a man teaching is a man talking; he said
+nothing at all to the Roofwalker, in a book calibrated on ch2 where he will not
+shut up at things trying to kill him; and after Bern went down he stopped being
+funny, which he does not do and which is somebody else's grief again.
+Added: the whole climb as banter, four minutes of unbroken coaching mid-fight,
+an offer to the room that queues behind Marit, a speech at the Roofwalker that
+is also tactically useful because a voice pulls its eye off her, and the talking
+jag down the hill that Marit identifies as his tell.
+That took it to 3004 words. CLAUDE.md is explicit that dialogue over the target
+gets a SEAM and not a cut, so 17 now ends on Bern being carried away on a door,
+and 18 opens on the walk down. 17: 2179. 18: 2030.
+
+=== The leg, and who is allowed to decide it ===
+The event of ch18, and it was chosen because it inverts everything the character
+runs on. The panel reads living things and gives a level, and over an open
+fracture it gives nothing at all. So the instrument that has made him right for
+six days is worthless in the one room where it would matter, and the competent
+person present is a woman of sixty he told in ch14 that she was too slow.
+BERN DECIDES. Gaara refuses to, and the reason is not squeamishness: he put Bern
+at that wall, so choosing again would kill him with the same arithmetic twice.
+What Gaara supplies is the truth, undecorated, which is the only asset he has
+ever claimed.
+AND THEN HE IS FURNITURE. Somebody has to hold him down, and it is him, and he
+talks obscenely through all six minutes in the tone he uses for lime mortar
+until Bern is swearing at him instead of screaming. That is the register rule
+doing actual work rather than decorating a scene.
+Boiled water is the only thing his old world is allowed to contribute. He asks
+for it, nobody argues, he does not explain, and it stays at that.
+
+
+=== A level scale, because I had been inventing numbers per chapter ===
+The author caught it on the guild question: I proposed that a C-grade company
+would be around Level 9, and he pointed out that farmers and woodcutters in this
+book are 6 and 7. Nine is a strong villager, not a professional.
+The fault was mine and structural: I had hung a rank scale on a level scale that
+had never been defined. It is defined now, in story-bible.md section 2.
+Nothing written has to change. The Roofwalker at 9 remains the highest thing
+anybody in this book has seen, because nobody in this book has ever seen a
+soldier. The village's world stops at 7 and that is the whole reason the scale
+reads as it does.
+It also arms a scene that costs nothing: the first time Gaara reads one of the
+lord's men, he gets a number beside which Ylva is a child. Do not spend early.
+
+=== Adventurers exist and do not come here, and guilds cannot see levels ===
+Two decisions taken together because the second falls out of the first.
+ADVENTURERS. The author's publishing plan needs a paying readership, and sworn
+companies are it. So they exist, under charter, in the settled country, and they
+do not work the periphery because a valley of forty houses pays nothing. That
+explains what is already written: Solva asked for nine weeks and nobody came,
+and a dead city sat untouched an hour from the road for eight hundred years.
+Discarded: nobody anywhere does this professionally and Gaara invents the trade.
+Bigger and slower, and it needs capital he does not have. Kept in reserve.
+GUILD GRADES. Character-arc.md forbids introducing a tier without deciding how
+it meets the letter ranks. Decided: it does not meet them at all. A grade is a
+human judgement, the guild cannot see levels and does not know they exist, and
+so the paper will say C while the world says Level 9. Gaara is the only person
+alive who reads both numbers at once, and that friction never resolves.
 
 
 === Four days was unrealistic and the story says so out loud ===
@@ -1023,7 +1108,8 @@ nicht diese Zeile von Hand.
 15. Two to Four Hard Uses
 16. Something Is Drinking It
 17. Who Gets the Kill
-18. A Name for the Knife (planned)
+18. Somebody Has to Hold Him
+19. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1370,6 +1456,53 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
 - (ch17) LEVEL PREDICTS AND DOES NOT DECIDE. Hallvard reads as nothing at all and
   out-walks, out-carries and out-judges the whole crew at seventy.
 
+THE LEVEL SCALE (decided by the author, ch17 discussion). Not yet stated
+anywhere in the prose, and it should never be stated as a table on the page.
+It exists so that numbers stop being invented per chapter.
+  3 to 8    ordinary adults doing physical work. Half of Oldstep. Osvald was a
+            4, Sivert a 2, Marit and Torv 6, and Ylva was the highest thing in
+            forty houses at 7.
+  8 to 10   exceptional for a rural district. Ylva after ch17. The Roofwalker.
+  12 to 18  trained professional soldiers. Men who live by it.
+  20 to 25  captains and veterans, whoever runs a company.
+  30 and up known by name across a region.
+  above     nobody alive has seen it. Whatever broke the city does not read at
+            all.
+WHY THIS DOES NOT BREAK ANYTHING ALREADY WRITTEN: the Roofwalker at 9 is still
+"the highest thing anybody in this book has seen", because nobody in this book
+has ever seen a soldier. The village's whole world stops at 7.
+AND IT ARMS THE ARRIVAL OF THE RIDERS. Gaara has spent seventeen chapters
+learning that a 7 is impressive. The first time he reads a serjeant he gets a
+number beside which Ylva is a child. That scene costs no setup at all and works
+only because the scale was low first. Do not spend it early.
+AND IT DEEPENS HALLVARD: sixty or seventy kills above his own weight across
+thirty-one years should have put him somewhere in the twenties. He reads as
+nothing. The hole gets bigger, not smaller (thread 10, thread 27).
+
+- (ch18) THE PANEL DOES NOT DIAGNOSE, and this is the hardest limit it has hit
+  so far. It reads living things and gives a name and a level. Over an open
+  fracture in a man's shin it gives NOTHING. Gaara says it out loud in front of
+  eleven people: there is no number over it, and it is the first thing in this
+  world that has ever been only a thing.
+  LOAD-BEARING: the instrument that has made him right about everything for six
+  days is useless in the one room where being right matters most, and the only
+  useful person present is a woman of sixty who has seen four of these.
+- (ch18) HE CAN READ NUMBERS NOW, and it took four minutes. Ten digits round the
+  top of Hallvard's slate, and a man who read balance sheets for nineteen years
+  does not need to be taught what a digit is for. The letters took one evening:
+  twenty-three of them, and it was never reading he was learning, it was a
+  cipher for a language he already speaks.
+  WHAT IS STILL HARD is not the alphabet. They write with NO GAPS BETWEEN THE
+  WORDS, so the only way to find the end of one is to hear it, and he reads
+  short words badly and out loud. Marit sits opposite, gets there faster, and
+  enjoys it visibly.
+- (ch18) THREAD 8 IS OPEN AT LAST. He takes a coin out for the first time since
+  the morning he took them off a dead man. The face he does not know and the
+  word round the edge still goes past him. THE NUMBER DOES NOT.
+  ELEVEN COINS ARE WORTH "a good goat, or a bad knife" (Hallvard). So the first
+  thing reading ever tells him is that he is poor, and that he cannot buy the
+  blade he needs. That is the driver into the smith.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1536,6 +1669,43 @@ The city above ground (ch17) - first time anybody from Oldstep goes past the tre
   hundred years old and holding a lintel up with a root through it. It comes
   down on his leg from the knee. The leg opens along the shin and the bone does
   what it should not. He keeps the leg for now. Nobody was careless.
+
+Medicine, and what a village actually has (ch18)
+- SOLVA IS THE ONE WHO KNOWS, and it is four cases across her life, stated flat:
+  two legs left on, both men dead in nine and eleven days and neither quiet at
+  the end. One taken off below the knee, and that man is alive in the Wold and
+  complains about the weather in a foot he no longer has. The fourth was her own
+  husband, when she was twenty-two, and she did nothing at all because nobody in
+  that road told her there was anything that could be done.
+- THE TOOLS ARE WINE, FIRE, A WOODEN SPOON AND SIX MINUTES. Boiled water only
+  because Gaara asked for it boiled and nobody argued. He does not explain why
+  and nobody asks, and that is as far as his old world is allowed to reach.
+- BERN CHOOSES. Gaara refuses to choose for him and says why: he put him at that
+  wall, so if he chooses and Bern dies, Bern dies of his arithmetic twice. What
+  Gaara does instead is make sure Bern hears the whole of it, which is the only
+  thing he has ever been good at.
+- AND THEN HE IS THE WEIGHT. Somebody has to hold him, and it is him. Nineteen
+  years of being the man with the answer, and what the room wants is a hundred
+  and sixty pounds across a man's chest. He talks through all six minutes, in
+  the same tone he used about lime mortar, and it is filthy, and it works: Bern
+  stops screaming and starts swearing at him, which was the object.
+- SOLVA GETS HER ANSWER TO ch14. He told her she would slow them down and might
+  get somebody killed. She says he was right about that. He says he was right
+  about a tunnel, and that he has just watched her do a thing he could not have
+  done with nine hours and a book.
+
+The chain of not writing it down breaks (ch18)
+- HE ASKS HALLVARD TO TEACH HIM THE LETTERS, after midnight, standing in his
+  doorway. The slate has been on that table for six days and he has walked past
+  it eleven times without asking, having previously read a man's whole character
+  off a whetstone. He is disgusted with himself about it and says so.
+- HALLVARD NAMES THE IRONY AND TEACHES HIM ANYWAY. "Thirty-one years I did not
+  write it down. Nor Aldis, nor her uncle, nor the woman before him." Gaara:
+  "That is exactly why I am asking you and not somebody who never had to decide
+  it." Neither of them says anything about what it means. Do not let them.
+- MARIT LEARNS IT IN THE SAME EVENING AND FASTER, and she is the one staying
+  behind, so the village's record will be hers. "Hallvard taught me to read this
+  evening. You have been sitting next to me making noises."
 
 The clock, corrected (ch17)
 - FOUR DAYS WAS THE FLOOR AND NOTHING HAPPENS AT THE FLOOR. Two days east and
@@ -1929,6 +2099,31 @@ chapters can plant for it, and so a decision is taken before it is written.
   THE COIN, and it belongs in the village now, not in a town: he takes one out
   for the first time since day one, with the translation running. He can read
   the NUMBER on it and finds out at last what he owns. Thread 8 closes there.
+- ADVENTURERS: DECIDED, NOT YET ON THE PAGE. They exist, and they do not come
+  here. Sworn companies under charter, tied to towns and lords, working the
+  settled country. Nobody sends a paid company to a valley of forty houses that
+  yields nothing, which is why Oldstep had nobody to hire and why a dead city
+  has sat unexploited for eight hundred years an hour from the road.
+  THE EVIDENCE ALREADY ON THE PAGE POINTS THIS WAY: Solva asked men for NINE
+  WEEKS to go and look for her son and not one went (ch5, ch7). The only person
+  who ever went into that ruin was a seventy year old who kept it secret. In a
+  world with a working adventurer trade at the periphery, none of that holds.
+  WHO READS IN A COMPANY: whoever signs. Contracts, muster rolls, wage lists,
+  so the captain reads and the clerk reads and half the men do not. That makes
+  Gaara's market a few hundred people who sign rather than thousands who fight.
+  Small, wealthy, and every one of them loses men to things nobody has ever
+  written down.
+  AND HIS FIRST BOOK ALREADY EXISTS OUT LOUD. He spoke it in ch17: take it at a
+  wall, do not chase it, if I call a number that is how much trouble it is. That
+  is doctrine, and nobody in this world has ever written one.
+- GUILD GRADES HAVE NOTHING TO DO WITH LEVELS, and this settles the standing
+  rule in character-arc.md that no new tier may be introduced without deciding
+  how it meets the letter ranks. A grade is a HUMAN judgement: what has he done,
+  who vouches for him. The guild cannot see levels and does not know they exist.
+  So the paper says C while the world says Level 9, and Gaara is the only person
+  who reads both numbers at once. That friction is permanent and it is the point.
+  Rough correspondence in practice, for the author only: a C company is men at
+  12 to 16 under a captain at 18 to 22.
 - Longer term, possibly his own territory to hold and strengthen, and possibly
   continued adventuring alongside it. Whether the story settles into
   territory-building or stays on the road is undecided.
