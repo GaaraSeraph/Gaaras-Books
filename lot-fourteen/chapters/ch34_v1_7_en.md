@@ -1,5 +1,5 @@
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -317,6 +317,26 @@ Annie let the sheet lie where he had put it.
 
 ---
 
+"And the second of January," said Georgij.
+
+He had been carrying it since the stairs on the second of January, and this was the first time he had put it down where she could see it.
+
+---
+
+"The same account." Annie did not move in the chair. "Every room you go into and come out of ahead puts something on top of what that man offered me for you in December. I was going to be in that building four times. I was not going to be in it while you got more expensive."
+
+"I thought it was the schedule."
+
+"I know what you thought. You had it by the Friday and you were pleased with it." The sheet was still face up on the table between them and she did not look at it. "It was not the schedule. And I did not tell you, because you would have priced the difference and found a way to be useful that I could not see from this house."
+
+---
+
+"Is that all of it."
+
+"It is all of it that has a figure in it."
+
+---
+
 Georgij did not thank her for it. It is his small change and he spends it on lamps and coats, and she would have heard it land.
 
 "And there is the other half, and you know what it is, because you were standing on the bridge when I said it."
@@ -485,7 +505,9 @@ Behind them the sheet was on the low table with the stroke of a pen across it an
 
 A number, an owner, two dates.
 
-It was the only document in the world that had ever been about him, and his name was nowhere on it.
+There is no column on that page for what a man is called. There has never been one, because a name is the one thing in the transaction that nobody on either side of it needs.
+
+It was the only document in the world that had ever been about him, and it had got all the way through him in three columns without once saying who he was.
 
 ---
 

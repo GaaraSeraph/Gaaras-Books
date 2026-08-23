@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.643 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 76.673 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1796,7 +1796,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 34** *Then take it off* (v1.6) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
+- **Kapitel 34** *Then take it off* (v1.7) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
 
   **Dann fragt Annie, wie am 16. Dezember angekuendigt, und er antwortet mit einer Zahl**, weil das die einzige Einheit ist, die er fuer sich selbst hat. Sang-hoons Minute an der Tuer hat genau das gekauft.
 
@@ -4133,7 +4133,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 317 | 30 (01-34) | 1 | 74 |
+| Annie | 318 | 30 (01-34) | 1 | 74 |
 | Hana | 161 | 16 (09-31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
@@ -4165,7 +4165,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-317 Nennungen in 30 Kapiteln.
+318 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4477,15 +4477,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | ch34:298 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
 | 50 | ch34:308 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
 | 50 | ch34:314 | Annie let the sheet lie where he had put it. |
-| 50 | ch34:334 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
-| 50 | ch34:348 | Annie did not get out of the chair she never uses. |
-| 50 | ch34:378 | Annie did not help him. |
-| 50 | ch34:392 | "You are describing being free," said Annie. |
-| 50 | ch34:398 | Annie let the whole of it get to the floor before she said anything. |
-| 50 | ch34:426 | Annie looked at him. |
-| 50 | ch34:442 | "There is more of it," said Annie. "Say the rest." |
-| 50 | ch34:462 | Annie went as far as the window and stood with her back to the room. |
-| 50 | ch34:478 | Annie's hand came down on the back of his head and stayed there. |
+| 50 | ch34:326 | "The same account." Annie did not move in the chair. "Every room you go into and come ou.. |
+| 50 | ch34:354 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | ch34:368 | Annie did not get out of the chair she never uses. |
+| 50 | ch34:398 | Annie did not help him. |
+| 50 | ch34:412 | "You are describing being free," said Annie. |
+| 50 | ch34:418 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:446 | Annie looked at him. |
+| 50 | ch34:462 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:482 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:498 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4558,7 +4559,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch34:58` (Tag 46) - four, three
 - `ch34:68` (Tag 46) - one
 - `ch34:90` (Tag 46) - nine, twenty, two
-- `ch34:334` (Tag 50) - forty
+- `ch34:326` (Tag 50) - four
+- `ch34:354` (Tag 50) - forty
 
 ---
 
