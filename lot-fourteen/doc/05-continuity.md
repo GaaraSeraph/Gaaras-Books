@@ -179,6 +179,11 @@ nachrechnen, und `check.py` tut das automatisch.
   welche vier. Georgij bietet ihm nichts an und nimmt trotzdem, was er hergibt:
   **die vierte Gebuehr kam vom Eigentuemer persoenlich, aus der eigenen Tasche**
   (Band 2, Kapitel 22)
+- Tag 222, Mi 13. Mai: **Mrs Sunwoo bekommt den Namen Byun.** Drei Wochen, kein
+  lautes Wort, kein unwahres. Am Tag darauf Annie, foermlich, weil sie zwei der
+  vier ist. **Und der Eigentuemer sitzt seit Januar auf der dritten Etage der
+  Adresse in Jung-gu, vor der Georgij im Maerz umgekehrt ist**
+  (Band 2, Kapitel 23)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1211,6 +1216,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Byuns Urteil und Georgijs Antwort darauf setzen die drei Raeume nebeneinander:** *"Then you are a very cruel young man."* - **"No. I have been in three rooms in the last three weeks and in two of them that would have been true. In this one it is not, and you have not got the first idea why."**
 
   **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
+
+- **Band 2, Kapitel 23** *Three of the four* (v1.0) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
+
+  **Das Kapitel beginnt mit einem Versprechen, das er nicht halten kann, und er laesst es sich nicht als Formsache durchgehen.** Er hat Byun gesagt, die vier Kaeufer wuerden informiert. **Er erreicht drei. Der vierte ist der Mann, den er sucht.** *"He said a thing in a room that will be three quarters true, and Mr Byun will go to his grave not knowing which quarter, and the only person who is ever going to notice is Georgij."*
+
+  **Mrs Sunwoo steht diesmal nicht auf und sagt auch warum:** *"I stood up in March because I did not know what you were and it seemed safer."* Und: *"do not do the thing where you say one sentence and stop, because I am eighty-one and it was charming once."*
+
+  **Er gibt ihr Byun vollstaendig, einschliesslich der Adresse und der Schwiegertochter im selben Haus, und benennt selbst, dass das mehr war als noetig.** Auf *"You are inviting me to do something"*: **"What you do is yours. I have not got a view and I would not give you one if I had."**
+
+  **Was sie tun wird, sagt sie genau:** drei Wochen, **kein lautes Wort und kein unwahres**, und danach wird er zu nichts mehr eingeladen, solange er lebt. Georgij will nicht wissen, wie: *"I want you to be able to say afterwards that you did not tell me."*
+
+  **Und sie durchschaut den Maerz und haelt es ihm nicht vor**, was ihn haerter trifft als ein Vorwurf: *"You came here because you needed the house shut, and telling me the truth was the only way to get it, and both of those are the case at once."* - **"No. You should."** - *"I am eighty-one. There are so few of them that I would run out of afternoons."*
+
+  **Annie wird foermlich informiert, obwohl sie alles weiss, und der Grund ist der bessere von zwei:** sie ist **zwei der vier**, und wer Mrs Sunwoo foermlich unterrichtet und Annie beilaeufig, macht aus ihr eine andere Sorte Kaeuferin. **Sie ist keine andere Sorte.** Der zweite Grund ist schlechter und ehrlicher: von dem Satz in Seongdong ist das der einzige Teil, ueber den er Gewalt hat.
+
+  **Dann der Fund vom siebten Mai, den er seit sechs Tagen mit sich traegt.** Das Haus gehoerte von 2011 bis zum Winter **Mr Yeom**, dreiundsechzig, geerbt, wenig angesehen, hat Geld gebracht. Im Winter hat er es an den Fonds verkauft - **und eine Stellung bei ihnen genommen.** Annie sagt das voraus, bevor er es sagt: *"A fund does not want the building. It wants the man who knows what is in it."*
+
+  **Und die Stellung ist auf der dritten Etage der Adresse in Jung-gu**, zehn Gesellschaften ohne Personal. **Also genau dort, wo Georgij in der Nacht des 16. Maerz um zwanzig nach eins umgekehrt ist**, ohne eine einzige Anfrage mit Datum zu hinterlassen.
+
+  **Die Entscheidung ist die schwerste des Bandes und sie faellt in diesem Kapitel nicht.** Er benennt sie vollstaendig: *"Backing away was invisible. Going at it will not be. There is no version where I do this and stay the man he cannot see."* Und: *"the question is not whether it is dangerous. It is whether I am prepared to stop being the only thing about me that has been useful since March."*
+
+  **Annie gibt keine Erlaubnis und keine Anweisung - aber zum ersten Mal seit dem 3. April eine Meinung**, und sie sagt dazu, warum sie sie diesmal nicht fuer sich behaelt: *"you asked me a fortnight ago to put the ceiling back on and I said no, and I am not going to spend the first difficult one pretending I have not got an opinion."*
+
+  **Und die Meinung ist die Sorte Satz, um die das Buch gebaut ist:** *"Invisibility is a thing you spend. It is not a thing you keep, and a man who keeps it for ever has spent his whole life not being seen and has nothing at the end of it except that."* Dazu die Bilanz: sieben Wochen Unsichtbarkeit haben ihm Nam, Ok, Byun und ein geschlossenes Haus gekauft. **Nicht ihn.**
+
+  **Und das zweite Stueck vom Regal, und Annie zaehlt selbst mit:** der Mann, den er sucht, **besitzt an dieser Adresse ebenfalls nichts.** Keine Anteile, an keiner der zehn, nie. *"He is the reason ten companies with no staff are on the third floor of a building in Jung-gu, and there is no document anywhere in this country that says so, and there never will be, and that is what you are proposing to walk towards."*
 
 ---
 

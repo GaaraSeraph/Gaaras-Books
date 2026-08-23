@@ -18,23 +18,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 459 | 48 (b1ch01-b2ch20) | 1 | 74 |
+| Annie | 469 | 49 (b1ch01-b2ch23) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 145 | 28 (b1ch07-b2ch20) | 1 | 74 |
 | Park Sang-hoon | 109 | 23 (b1ch10-b2ch19) | 1 | 74 |
 | Jang | 77 | 20 (b1ch05-b2ch20) | 3 | 60 |
 | Mrs Seo | 61 | 25 (b1ch03-b2ch20) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
+| Mrs Sunwoo | 33 | 13 (b1ch07-b2ch23) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mrs Sunwoo | 27 | 12 (b1ch07-b2ch22) | 1 | 60 |
 | Mr Kwon | 26 | 3 (b2ch14-b2ch19) | 4 | 11 |
 | Mr Hwang | 23 | 3 (b2ch07-b2ch21) | 3 | 15 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 20 | 14 (b1ch05-b2ch20) | 3 | 60 |
-| Mr Byun | 18 | 1 (b2ch22) | 17 | 17 |
+| Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
@@ -52,12 +52,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 | Mr Ok | **0** | - | - | - |
+| Mr Yeom | **0** | - | - | - |
 
 ---
 
 ## Annie
 
-459 Nennungen in 48 Kapiteln.
+469 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -520,6 +521,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:230 | Annie looked at the window. |
 | 11 | b2ch20:252 | "That is the one that matters," said Annie. |
 | 11 | b2ch20:270 | "And why four months," said Annie. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:108 | "You are aware that I already know all of this," said Annie. |
+| 24 | b2ch23:126 | Annie looked at him. |
+| 24 | b2ch23:154 | "Now the other thing," said Annie. "You have had it since Wednesday and you have not bro.. |
+| 24 | b2ch23:176 | "And he took a position with them," said Annie. |
+| 24 | b2ch23:198 | "That is the address," said Annie. |
+| 24 | b2ch23:210 | Annie did not say anything for a long moment. |
+| 24 | b2ch23:236 | Annie got up and went to the window. |
+| 24 | b2ch23:268 | "There is one more thing you should have before you decide," said Annie. "It is not goin.. |
+| 24 | b2ch23:280 | "He is the reason ten companies with no staff are on the third floor of a building in Ju.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -634,6 +645,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch20:160` (Tag 11) - four
 - `b2ch20:252` (Tag 11) - one
 - `b2ch20:270` (Tag 11) - four
+- `b2ch23:268` (Tag 24) - one
+- `b2ch23:280` (Tag 24) - ten
 
 ---
 
@@ -1591,6 +1604,71 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Sunwoo
+
+33 Nennungen in 13 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
+| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
+| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
+| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch08:318` (Tag 9) - four, twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+- `b2ch16:12` (Tag 6) - twenty
+- `b2ch19:32` (Tag 11) - three
+- `b2ch20:34` (Tag 11) - three
+- `b2ch22:60` (Tag 17) - one
+- `b2ch22:114` (Tag 17) - four, one
+- `b2ch22:150` (Tag 17) - eleven
+- `b2ch22:292` (Tag 17) - eighty-one, one, three
+- `b2ch23:84` (Tag 24) - three
+- `b2ch23:122` (Tag 24) - four, two
+
+---
+
 ## Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -1816,63 +1894,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mrs Sunwoo
-
-27 Nennungen in 12 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
-| 9 | b2ch09:212 | "Sunwoo." |
-| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
-| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
-| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
-| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch08:318` (Tag 9) - four, twelve
-- `b2ch09:214` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:82` (Tag 3) - one
-- `b2ch10:100` (Tag 3) - forty-one
-- `b2ch10:186` (Tag 3) - one
-- `b2ch10:274` (Tag 3) - one
-- `b2ch15:38` (Tag 4) - one
-- `b2ch16:12` (Tag 6) - twenty
-- `b2ch19:32` (Tag 11) - three
-- `b2ch20:34` (Tag 11) - three
-- `b2ch22:60` (Tag 17) - one
-- `b2ch22:114` (Tag 17) - four, one
-- `b2ch22:150` (Tag 17) - eleven
-- `b2ch22:292` (Tag 17) - eighty-one, one, three
-
----
-
 ## Mr Kwon
 
 26 Nennungen in 3 Kapiteln.
@@ -2059,7 +2080,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Byun
 
-18 Nennungen in 1 Kapiteln.
+19 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2081,6 +2102,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 17 | b2ch22:258 | Mr Byun stood in the middle of his sitting room. |
 | 17 | b2ch22:274 | "Twenty-two years," said Mr Byun, behind him. "Do you know what that building was like w.. |
 | 17 | b2ch22:286 | "Mr Byun." |
+| 24 | b2ch23:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
 
 ### Zahlen in der Naehe von Mr Byun
 
@@ -2091,6 +2113,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:220` (Tag 17) - one, twenty-six
 - `b2ch22:238` (Tag 17) - two
 - `b2ch22:274` (Tag 17) - twenty-two
+- `b2ch23:16` (Tag 24) - one, three
 
 ---
 
@@ -2419,5 +2442,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ---
 
 ## Mr Ok
+
+**Kommt im Text nicht vor.** Steht nur in `doc/`.
+
+---
+
+## Mr Yeom
 
 **Kommt im Text nicht vor.** Steht nur in `doc/`.

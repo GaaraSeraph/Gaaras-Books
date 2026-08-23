@@ -737,8 +737,31 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **DER EIGENTUEMER DES HAUSES VOR DEM FONDS. Neu, offen, hoechste Prioritaet,
-  gesetzt in Band 2, Kapitel 22.** Er hat Mr Byun persoenlich instruiert, den
+- **DIE ENTSCHEIDUNG UEBER DIE ADRESSE IN JUNG-GU. Offen, gesetzt in Band 2,
+  Kapitel 23, und sie ist die schwerste des Bandes.** Georgij hat sie
+  vollstaendig benannt und **nicht getroffen**: umkehren war unsichtbar,
+  hingehen ist es nicht. *"There is no version where I do this and stay the man
+  he cannot see."*
+
+  **Annie gibt keine Erlaubnis, aber zum ersten Mal seit dem 3. April eine
+  Meinung**, und begruendet, warum sie sie diesmal nicht fuer sich behaelt.
+  Ihr Satz dazu: *"Invisibility is a thing you spend. It is not a thing you
+  keep."* **Die Entscheidung muss im Text tatsaechlich fallen und darf nicht
+  von den Ereignissen abgenommen werden.**
+
+- **Das zweite Stueck vom Regal, Kapitel 23, und Annie zaehlt selbst mit:** der
+  Gesuchte besitzt an dieser Adresse **nichts** - keine Anteile, an keiner der
+  zehn, nie. Er ist nur der Grund, warum die zehn dort sind, **und dafuer gibt
+  es kein Dokument und wird nie eines geben.**
+
+- **Mrs Sunwoos drei Wochen gegen Byun.** Zugesagt am 13. Mai, kein lautes und
+  kein unwahres Wort, danach wird er zu nichts mehr eingeladen. **Faellig Anfang
+  Juni**, und Georgij hat ausdruecklich gesagt, dass er nicht wissen will, wie.
+
+- **DER EIGENTUEMER: gefunden in Band 2, Kapitel 23.** Mr Yeom, dreiundsechzig,
+  Eigentuemer von 2011 bis zum Winter, seit Januar auf der dritten Etage in
+  Jung-gu. **Er ist der Mann, der Byun instruiert hat, und der Einzige mit einem
+  Namen, der weiss, wer auf der vierten Zeile steht.** Der alte Eintrag lautete: Er hat Mr Byun persoenlich instruiert, den
   vierten Eintrag ohne Rechnung eintragen und im Fruehjahr herausnehmen zu
   lassen - **und hat die Gebuehr aus der eigenen Tasche bezahlt, damit sie im
   Buch an der richtigen Stelle steht.**

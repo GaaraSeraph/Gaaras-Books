@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 117.302 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 118.766 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -125,11 +125,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Jang](#jang)
   - [Mrs Seo](#mrs-seo)
   - [Kim Ye-rin](#kim-ye-rin)
+  - [Mrs Sunwoo](#mrs-sunwoo)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Hong](#mr-hong)
   - [Nam Byung-hee](#nam-byung-hee)
-  - [Mrs Sunwoo](#mrs-sunwoo)
   - [Mr Kwon](#mr-kwon)
   - [Mr Hwang](#mr-hwang)
   - [Ji-won](#ji-won)
@@ -152,6 +152,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Im](#mr-im)
   - [Mrs Ryu](#mrs-ryu)
   - [Mr Ok](#mr-ok)
+  - [Mr Yeom](#mr-yeom)
 
 ---
 
@@ -2266,6 +2267,11 @@ nachrechnen, und `check.py` tut das automatisch.
   welche vier. Georgij bietet ihm nichts an und nimmt trotzdem, was er hergibt:
   **die vierte Gebuehr kam vom Eigentuemer persoenlich, aus der eigenen Tasche**
   (Band 2, Kapitel 22)
+- Tag 222, Mi 13. Mai: **Mrs Sunwoo bekommt den Namen Byun.** Drei Wochen, kein
+  lautes Wort, kein unwahres. Am Tag darauf Annie, foermlich, weil sie zwei der
+  vier ist. **Und der Eigentuemer sitzt seit Januar auf der dritten Etage der
+  Adresse in Jung-gu, vor der Georgij im Maerz umgekehrt ist**
+  (Band 2, Kapitel 23)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3298,6 +3304,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Byuns Urteil und Georgijs Antwort darauf setzen die drei Raeume nebeneinander:** *"Then you are a very cruel young man."* - **"No. I have been in three rooms in the last three weeks and in two of them that would have been true. In this one it is not, and you have not got the first idea why."**
 
   **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
+
+- **Band 2, Kapitel 23** *Three of the four* (v1.0) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
+
+  **Das Kapitel beginnt mit einem Versprechen, das er nicht halten kann, und er laesst es sich nicht als Formsache durchgehen.** Er hat Byun gesagt, die vier Kaeufer wuerden informiert. **Er erreicht drei. Der vierte ist der Mann, den er sucht.** *"He said a thing in a room that will be three quarters true, and Mr Byun will go to his grave not knowing which quarter, and the only person who is ever going to notice is Georgij."*
+
+  **Mrs Sunwoo steht diesmal nicht auf und sagt auch warum:** *"I stood up in March because I did not know what you were and it seemed safer."* Und: *"do not do the thing where you say one sentence and stop, because I am eighty-one and it was charming once."*
+
+  **Er gibt ihr Byun vollstaendig, einschliesslich der Adresse und der Schwiegertochter im selben Haus, und benennt selbst, dass das mehr war als noetig.** Auf *"You are inviting me to do something"*: **"What you do is yours. I have not got a view and I would not give you one if I had."**
+
+  **Was sie tun wird, sagt sie genau:** drei Wochen, **kein lautes Wort und kein unwahres**, und danach wird er zu nichts mehr eingeladen, solange er lebt. Georgij will nicht wissen, wie: *"I want you to be able to say afterwards that you did not tell me."*
+
+  **Und sie durchschaut den Maerz und haelt es ihm nicht vor**, was ihn haerter trifft als ein Vorwurf: *"You came here because you needed the house shut, and telling me the truth was the only way to get it, and both of those are the case at once."* - **"No. You should."** - *"I am eighty-one. There are so few of them that I would run out of afternoons."*
+
+  **Annie wird foermlich informiert, obwohl sie alles weiss, und der Grund ist der bessere von zwei:** sie ist **zwei der vier**, und wer Mrs Sunwoo foermlich unterrichtet und Annie beilaeufig, macht aus ihr eine andere Sorte Kaeuferin. **Sie ist keine andere Sorte.** Der zweite Grund ist schlechter und ehrlicher: von dem Satz in Seongdong ist das der einzige Teil, ueber den er Gewalt hat.
+
+  **Dann der Fund vom siebten Mai, den er seit sechs Tagen mit sich traegt.** Das Haus gehoerte von 2011 bis zum Winter **Mr Yeom**, dreiundsechzig, geerbt, wenig angesehen, hat Geld gebracht. Im Winter hat er es an den Fonds verkauft - **und eine Stellung bei ihnen genommen.** Annie sagt das voraus, bevor er es sagt: *"A fund does not want the building. It wants the man who knows what is in it."*
+
+  **Und die Stellung ist auf der dritten Etage der Adresse in Jung-gu**, zehn Gesellschaften ohne Personal. **Also genau dort, wo Georgij in der Nacht des 16. Maerz um zwanzig nach eins umgekehrt ist**, ohne eine einzige Anfrage mit Datum zu hinterlassen.
+
+  **Die Entscheidung ist die schwerste des Bandes und sie faellt in diesem Kapitel nicht.** Er benennt sie vollstaendig: *"Backing away was invisible. Going at it will not be. There is no version where I do this and stay the man he cannot see."* Und: *"the question is not whether it is dangerous. It is whether I am prepared to stop being the only thing about me that has been useful since March."*
+
+  **Annie gibt keine Erlaubnis und keine Anweisung - aber zum ersten Mal seit dem 3. April eine Meinung**, und sie sagt dazu, warum sie sie diesmal nicht fuer sich behaelt: *"you asked me a fortnight ago to put the ceiling back on and I said no, and I am not going to spend the first difficult one pretending I have not got an opinion."*
+
+  **Und die Meinung ist die Sorte Satz, um die das Buch gebaut ist:** *"Invisibility is a thing you spend. It is not a thing you keep, and a man who keeps it for ever has spent his whole life not being seen and has nothing at the end of it except that."* Dazu die Bilanz: sieben Wochen Unsichtbarkeit haben ihm Nam, Ok, Byun und ein geschlossenes Haus gekauft. **Nicht ihn.**
+
+  **Und das zweite Stueck vom Regal, und Annie zaehlt selbst mit:** der Mann, den er sucht, **besitzt an dieser Adresse ebenfalls nichts.** Keine Anteile, an keiner der zehn, nie. *"He is the reason ten companies with no staff are on the third floor of a building in Jung-gu, and there is no document anywhere in this country that says so, and there never will be, and that is what you are proposing to walk towards."*
 
 ---
 
@@ -5013,8 +5045,31 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **DER EIGENTUEMER DES HAUSES VOR DEM FONDS. Neu, offen, hoechste Prioritaet,
-  gesetzt in Band 2, Kapitel 22.** Er hat Mr Byun persoenlich instruiert, den
+- **DIE ENTSCHEIDUNG UEBER DIE ADRESSE IN JUNG-GU. Offen, gesetzt in Band 2,
+  Kapitel 23, und sie ist die schwerste des Bandes.** Georgij hat sie
+  vollstaendig benannt und **nicht getroffen**: umkehren war unsichtbar,
+  hingehen ist es nicht. *"There is no version where I do this and stay the man
+  he cannot see."*
+
+  **Annie gibt keine Erlaubnis, aber zum ersten Mal seit dem 3. April eine
+  Meinung**, und begruendet, warum sie sie diesmal nicht fuer sich behaelt.
+  Ihr Satz dazu: *"Invisibility is a thing you spend. It is not a thing you
+  keep."* **Die Entscheidung muss im Text tatsaechlich fallen und darf nicht
+  von den Ereignissen abgenommen werden.**
+
+- **Das zweite Stueck vom Regal, Kapitel 23, und Annie zaehlt selbst mit:** der
+  Gesuchte besitzt an dieser Adresse **nichts** - keine Anteile, an keiner der
+  zehn, nie. Er ist nur der Grund, warum die zehn dort sind, **und dafuer gibt
+  es kein Dokument und wird nie eines geben.**
+
+- **Mrs Sunwoos drei Wochen gegen Byun.** Zugesagt am 13. Mai, kein lautes und
+  kein unwahres Wort, danach wird er zu nichts mehr eingeladen. **Faellig Anfang
+  Juni**, und Georgij hat ausdruecklich gesagt, dass er nicht wissen will, wie.
+
+- **DER EIGENTUEMER: gefunden in Band 2, Kapitel 23.** Mr Yeom, dreiundsechzig,
+  Eigentuemer von 2011 bis zum Winter, seit Januar auf der dritten Etage in
+  Jung-gu. **Er ist der Mann, der Byun instruiert hat, und der Einzige mit einem
+  Namen, der weiss, wer auf der vierten Zeile steht.** Der alte Eintrag lautete: Er hat Mr Byun persoenlich instruiert, den
   vierten Eintrag ohne Rechnung eintragen und im Fruehjahr herausnehmen zu
   lassen - **und hat die Gebuehr aus der eigenen Tasche bezahlt, damit sie im
   Buch an der richtigen Stelle steht.**
@@ -6039,23 +6094,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 459 | 48 (b1ch01-b2ch20) | 1 | 74 |
+| Annie | 469 | 49 (b1ch01-b2ch23) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 145 | 28 (b1ch07-b2ch20) | 1 | 74 |
 | Park Sang-hoon | 109 | 23 (b1ch10-b2ch19) | 1 | 74 |
 | Jang | 77 | 20 (b1ch05-b2ch20) | 3 | 60 |
 | Mrs Seo | 61 | 25 (b1ch03-b2ch20) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
+| Mrs Sunwoo | 33 | 13 (b1ch07-b2ch23) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mrs Sunwoo | 27 | 12 (b1ch07-b2ch22) | 1 | 60 |
 | Mr Kwon | 26 | 3 (b2ch14-b2ch19) | 4 | 11 |
 | Mr Hwang | 23 | 3 (b2ch07-b2ch21) | 3 | 15 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 20 | 14 (b1ch05-b2ch20) | 3 | 60 |
-| Mr Byun | 18 | 1 (b2ch22) | 17 | 17 |
+| Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
@@ -6073,12 +6128,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 | Mr Ok | **0** | - | - | - |
+| Mr Yeom | **0** | - | - | - |
 
 ---
 
 ### Annie
 
-459 Nennungen in 48 Kapiteln.
+469 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6541,6 +6597,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:230 | Annie looked at the window. |
 | 11 | b2ch20:252 | "That is the one that matters," said Annie. |
 | 11 | b2ch20:270 | "And why four months," said Annie. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:108 | "You are aware that I already know all of this," said Annie. |
+| 24 | b2ch23:126 | Annie looked at him. |
+| 24 | b2ch23:154 | "Now the other thing," said Annie. "You have had it since Wednesday and you have not bro.. |
+| 24 | b2ch23:176 | "And he took a position with them," said Annie. |
+| 24 | b2ch23:198 | "That is the address," said Annie. |
+| 24 | b2ch23:210 | Annie did not say anything for a long moment. |
+| 24 | b2ch23:236 | Annie got up and went to the window. |
+| 24 | b2ch23:268 | "There is one more thing you should have before you decide," said Annie. "It is not goin.. |
+| 24 | b2ch23:280 | "He is the reason ten companies with no staff are on the third floor of a building in Ju.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6655,6 +6721,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch20:160` (Tag 11) - four
 - `b2ch20:252` (Tag 11) - one
 - `b2ch20:270` (Tag 11) - four
+- `b2ch23:268` (Tag 24) - one
+- `b2ch23:280` (Tag 24) - ten
 
 ---
 
@@ -7612,6 +7680,71 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Sunwoo
+
+33 Nennungen in 13 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
+| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
+| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
+| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch08:318` (Tag 9) - four, twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+- `b2ch16:12` (Tag 6) - twenty
+- `b2ch19:32` (Tag 11) - three
+- `b2ch20:34` (Tag 11) - three
+- `b2ch22:60` (Tag 17) - one
+- `b2ch22:114` (Tag 17) - four, one
+- `b2ch22:150` (Tag 17) - eleven
+- `b2ch22:292` (Tag 17) - eighty-one, one, three
+- `b2ch23:84` (Tag 24) - three
+- `b2ch23:122` (Tag 24) - four, two
+
+---
+
 ### Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -7837,63 +7970,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mrs Sunwoo
-
-27 Nennungen in 12 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
-| 9 | b2ch09:212 | "Sunwoo." |
-| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
-| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
-| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
-| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch08:318` (Tag 9) - four, twelve
-- `b2ch09:214` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:82` (Tag 3) - one
-- `b2ch10:100` (Tag 3) - forty-one
-- `b2ch10:186` (Tag 3) - one
-- `b2ch10:274` (Tag 3) - one
-- `b2ch15:38` (Tag 4) - one
-- `b2ch16:12` (Tag 6) - twenty
-- `b2ch19:32` (Tag 11) - three
-- `b2ch20:34` (Tag 11) - three
-- `b2ch22:60` (Tag 17) - one
-- `b2ch22:114` (Tag 17) - four, one
-- `b2ch22:150` (Tag 17) - eleven
-- `b2ch22:292` (Tag 17) - eighty-one, one, three
-
----
-
 ### Mr Kwon
 
 26 Nennungen in 3 Kapiteln.
@@ -8080,7 +8156,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Byun
 
-18 Nennungen in 1 Kapiteln.
+19 Nennungen in 2 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8102,6 +8178,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 17 | b2ch22:258 | Mr Byun stood in the middle of his sitting room. |
 | 17 | b2ch22:274 | "Twenty-two years," said Mr Byun, behind him. "Do you know what that building was like w.. |
 | 17 | b2ch22:286 | "Mr Byun." |
+| 24 | b2ch23:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
 
 ### Zahlen in der Naehe von Mr Byun
 
@@ -8112,6 +8189,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:220` (Tag 17) - one, twenty-six
 - `b2ch22:238` (Tag 17) - two
 - `b2ch22:274` (Tag 17) - twenty-two
+- `b2ch23:16` (Tag 24) - one, three
 
 ---
 
@@ -8440,5 +8518,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ---
 
 ### Mr Ok
+
+**Kommt im Text nicht vor.** Steht nur in `doc/`.
+
+---
+
+### Mr Yeom
 
 **Kommt im Text nicht vor.** Steht nur in `doc/`.
