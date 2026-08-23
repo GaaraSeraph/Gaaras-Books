@@ -523,7 +523,12 @@ Fassung.**
   kein Datum.** Was sie sagen kann, kann sie an jedem Tag der naechsten vierzig
   Jahre sagen.
 
-- **Was ueber den Boten feststeht, Stand Band 2, Kapitel 8.** Nam hat **eine
+- **Was ueber den Versender feststeht, Stand Band 2, Kapitel 8.** **Zur Sprache:
+  Versender und Bote sind ab Kapitel 12 zwei verschiedene Leute.** Der Versender
+  hat entschieden und verliert alles; der Bote hat getragen, wird erschreckt und
+  behaelt alles, **weil er der einzige Weg zum Versender ist.** Was hier folgt,
+  gilt der Person, die entschieden hat - wer die Seite physisch ausgesucht und
+  kopiert hat, kann derselbe oder ein zweiter sein. Nam hat **eine
   fotokopierte Einzelseite** in einer Klarsichthuelle, **seit dem 14. Maerz**,
   und nicht den gebundenen Katalog, den jeder Kaeufer im Maerz zugeschickt
   bekam. Daraus zwei Dinge:

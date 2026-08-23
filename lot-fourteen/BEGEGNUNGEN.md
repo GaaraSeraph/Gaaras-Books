@@ -482,7 +482,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:214 | "No," said Annie. "I know." |
 | 3 | b2ch12:232 | "Then go," said Annie. |
 | 3 | b2ch12:254 | Annie put the thing down. |
-| 3 | b2ch12:276 | "How will you know which he is," said Annie. |
+| 3 | b2ch12:286 | Annie did not move. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1272,12 +1272,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
-| 3 | b2ch12:286 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
-| 3 | b2ch12:294 | Jang closed the log and did not ask what for, which took a decision. |
-| 3 | b2ch12:308 | Jang looked at him for a moment. |
-| 3 | b2ch12:316 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
-| 3 | b2ch12:332 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
-| 3 | b2ch12:352 | Jang thought about that for a moment and did not appear to enjoy it. |
+| 3 | b2ch12:324 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
+| 3 | b2ch12:332 | Jang closed the log and did not ask what for, which took a decision. |
+| 3 | b2ch12:346 | Jang looked at him for a moment. |
+| 3 | b2ch12:354 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
+| 3 | b2ch12:370 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
+| 3 | b2ch12:390 | Jang thought about that for a moment and did not appear to enjoy it. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1312,7 +1312,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:188` (Tag 55) - four
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
-- `b2ch12:286` (Tag 3) - ten
+- `b2ch12:324` (Tag 3) - ten
 
 ---
 

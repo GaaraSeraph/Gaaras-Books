@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 46 Kapitel, 130.830 Woerter.
+2 Baende, 46 Kapitel, 131.055 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -56,7 +56,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 09 | v2.1 | 2.496 |
 | 2 | 10 | v2.0 | 2.225 |
 | 2 | 11 | v2.0 | 2.498 |
-| 2 | 12 | v1.2 | 2.675 |
+| 2 | 12 | v1.3 | 2.900 |
 
 ---
 
@@ -14374,7 +14374,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -14636,25 +14636,63 @@ Annie put the thing down.
 
 "Say it, then."
 
-"If he chose the page, and chose the week, and chose her, then he loses everything she loses." Georgij said it in the flattest voice he owns. "And he loses it afterwards, in that order, so that he has a fortnight to watch it coming towards him and know what it is."
+"There are two men at that end and they are going to get very different things."
 
 ---
 
-"And if he was carrying it for somebody else."
+"Go on."
+
+"The first one decided." Georgij said it in the flattest voice he owns. "He took that page out of a bound book, out of thirty years in one series. He took the fourth week of the worst quarter of that woman's life. And out of everybody in this country he took her."
 
 ---
 
-"Then he is a hand, and I do not take hands apart." He did not soften any of it. "He keeps his firm and his name and every won of it. What he gets is that he finds out I know exactly who he is, on a day when nothing at all is happening, and after that he looks behind him at night for a number of years. That is the whole of what a messenger gets, and he will not enjoy any of it."
+"And."
+
+"He loses everything she loses. He loses it afterwards, in that order, so that he has a fortnight to watch it come towards him and know exactly what it is."
 
 ---
 
-"How will you know which he is," said Annie.
+"And the second."
+
+"The second one carried it. He is going to be frightened, and that is the whole of it."
+
+---
+
+Annie did not move.
+
+"That is a distinction most people would not stop to make."
+
+"It is not mercy." He did not dress it up. "He keeps his firm and his name and every won of it. What he gets is that on an ordinary morning, when nothing at all is happening, he finds out that I know who he is and what he carried and which week he carried it in. After that he looks behind him at night for some years and nothing else ever happens to him. That will be worse for him than a bad month would have been."
+
+---
+
+"And you want him left standing."
+
+"I want him left standing, in his own house, in one piece and extremely grateful." Georgij looked at her. "He is how I get the first one. There is no road to that man that does not go through somebody who has touched the paper."
+
+---
+
+"You are certain there are two of them."
+
+---
+
+"No."
+
+---
+
+He said that without any hesitation at all, and it is the only thing all afternoon that he took back before she could ask him for it.
+
+"I am certain there is one who decided. I have never in my life seen a man of that sort carry his own paper to a post office. I am going to work as though there are two until somebody shows me one."
+
+---
+
+"And when you have them in front of you, how will you know which is which."
 
 "By the week."
 
 ---
 
-"A man carrying a thing gets rid of it when he is told to." Georgij turned his hand over. "That page went to Ulsan in the fourth week of the worst quarter of that woman's life, and not in January when she could still wait, and not in June when it would have been over. Somebody looked at a calendar. A hand does not look at a calendar."
+"A man who is carrying a thing gets rid of it on the day he is told to get rid of it." Georgij turned his hand over. "That page went to Ulsan in the fourth week, and not in January when she could still wait, and not in June when it would have been over. Somebody sat down with a calendar. Nobody sits down with a calendar on somebody else's behalf."
 
 ---
 

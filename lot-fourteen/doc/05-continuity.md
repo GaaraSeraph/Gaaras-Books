@@ -809,7 +809,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.2) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.3) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -836,9 +836,19 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Satz an der Tuer, der Sang-hoon als Gegenbild benutzt:** *"I want her finished. I do not want her hurt for four months so that somebody can watch. Park Sang-hoon takes eighteen months over a man because he enjoys the second year. You are not going to become that."* Zeitrahmen: **drei Wochen, vier wenn der Zweite vorsichtig ist.**
 
-  **Der zweite Mann wird im selben Gespraech ausgesprochen, und zwar vollstaendig.** *"I am not going to have you told about him in three weeks as a thing that has already happened."* Wenn er Seite, Woche und Person **ausgesucht** hat, verliert er alles, was sie verliert, **und zwar danach**, damit er es vierzehn Tage lang auf sich zukommen sieht. **Hat er nur getragen, ist er eine Hand**, und Hände nimmt Georgij nicht auseinander: er behaelt Firma, Namen und jeden Won, erfaehrt an einem beliebigen Tag, dass Georgij genau weiss, wer er ist, **und sieht sich danach jahrelang nachts um.**
+  **Und im selben Gespraech wird das andere Ende ausgesprochen, vollstaendig und ungefragt:** *"I am not going to have you told about him in three weeks as a thing that has already happened."*
 
-  **Und die Probe, an der er die beiden unterscheidet, ist der Kalender.** *"A man carrying a thing gets rid of it when he is told to. ... Somebody looked at a calendar. A hand does not look at a calendar."*
+  **Es sind zwei Leute, und sie bekommen sehr verschiedene Dinge. Der Unterschied ist ab jetzt Kanon.**
+
+  **Der Versender hat entschieden.** Er hat die Seite aus einem gebundenen Band genommen, er hat die vierte Woche des schlimmsten Quartals dieser Frau genommen, und aus allen Menschen des Landes hat er **sie** genommen. **Er verliert alles, was sie verliert, und zwar danach**, damit er es vierzehn Tage lang auf sich zukommen sieht.
+
+  **Der Bote hat getragen. Er wird erschreckt, und das ist alles.** Und Georgij sagt dazu, dass es keine Milde ist: Firma, Name, jeder Won bleiben. *"On an ordinary morning, when nothing at all is happening, he finds out that I know who he is and what he carried and which week he carried it in. After that he looks behind him at night for some years and nothing else ever happens to him."*
+
+  **Und der Grund, aus dem der Bote stehen bleibt, ist nicht Anstand:** *"He is how I get the first one. There is no road to that man that does not go through somebody who has touched the paper."*
+
+  **Auf die Frage, ob es wirklich zwei sind, sagt er nein**, sofort, und es ist das Einzige an dem Nachmittag, das er von selbst zurueckholt. *"I am certain there is one who decided. I have never in my life seen a man of that sort carry his own paper to a post office."*
+
+  **Und die Probe, an der er sie unterscheidet, ist der Kalender.** *"A man who is carrying a thing gets rid of it on the day he is told to get rid of it. ... Somebody sat down with a calendar. Nobody sits down with a calendar on somebody else's behalf."*
 
   **Jang im Pfoertnerhaus, und er ist, was `doc/03-cast.md` sagt: Interimschef der Sicherheit**, dreissig Jahre bei Haeusern dieser Art und nie bei einer Firma, die etwas herstellt. **In Fassung 1.1 stand er faelschlich an den Garagen und redete ueber Fahrer** - das ist Ku und Pyo, nicht er.
 

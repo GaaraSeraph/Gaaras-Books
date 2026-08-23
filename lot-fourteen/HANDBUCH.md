@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 102.517 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 102.749 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2837,7 +2837,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.2) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.3) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -2864,9 +2864,19 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Satz an der Tuer, der Sang-hoon als Gegenbild benutzt:** *"I want her finished. I do not want her hurt for four months so that somebody can watch. Park Sang-hoon takes eighteen months over a man because he enjoys the second year. You are not going to become that."* Zeitrahmen: **drei Wochen, vier wenn der Zweite vorsichtig ist.**
 
-  **Der zweite Mann wird im selben Gespraech ausgesprochen, und zwar vollstaendig.** *"I am not going to have you told about him in three weeks as a thing that has already happened."* Wenn er Seite, Woche und Person **ausgesucht** hat, verliert er alles, was sie verliert, **und zwar danach**, damit er es vierzehn Tage lang auf sich zukommen sieht. **Hat er nur getragen, ist er eine Hand**, und Hände nimmt Georgij nicht auseinander: er behaelt Firma, Namen und jeden Won, erfaehrt an einem beliebigen Tag, dass Georgij genau weiss, wer er ist, **und sieht sich danach jahrelang nachts um.**
+  **Und im selben Gespraech wird das andere Ende ausgesprochen, vollstaendig und ungefragt:** *"I am not going to have you told about him in three weeks as a thing that has already happened."*
 
-  **Und die Probe, an der er die beiden unterscheidet, ist der Kalender.** *"A man carrying a thing gets rid of it when he is told to. ... Somebody looked at a calendar. A hand does not look at a calendar."*
+  **Es sind zwei Leute, und sie bekommen sehr verschiedene Dinge. Der Unterschied ist ab jetzt Kanon.**
+
+  **Der Versender hat entschieden.** Er hat die Seite aus einem gebundenen Band genommen, er hat die vierte Woche des schlimmsten Quartals dieser Frau genommen, und aus allen Menschen des Landes hat er **sie** genommen. **Er verliert alles, was sie verliert, und zwar danach**, damit er es vierzehn Tage lang auf sich zukommen sieht.
+
+  **Der Bote hat getragen. Er wird erschreckt, und das ist alles.** Und Georgij sagt dazu, dass es keine Milde ist: Firma, Name, jeder Won bleiben. *"On an ordinary morning, when nothing at all is happening, he finds out that I know who he is and what he carried and which week he carried it in. After that he looks behind him at night for some years and nothing else ever happens to him."*
+
+  **Und der Grund, aus dem der Bote stehen bleibt, ist nicht Anstand:** *"He is how I get the first one. There is no road to that man that does not go through somebody who has touched the paper."*
+
+  **Auf die Frage, ob es wirklich zwei sind, sagt er nein**, sofort, und es ist das Einzige an dem Nachmittag, das er von selbst zurueckholt. *"I am certain there is one who decided. I have never in my life seen a man of that sort carry his own paper to a post office."*
+
+  **Und die Probe, an der er sie unterscheidet, ist der Kalender.** *"A man who is carrying a thing gets rid of it on the day he is told to get rid of it. ... Somebody sat down with a calendar. Nobody sits down with a calendar on somebody else's behalf."*
 
   **Jang im Pfoertnerhaus, und er ist, was `doc/03-cast.md` sagt: Interimschef der Sicherheit**, dreissig Jahre bei Haeusern dieser Art und nie bei einer Firma, die etwas herstellt. **In Fassung 1.1 stand er faelschlich an den Garagen und redete ueber Fahrer** - das ist Ku und Pyo, nicht er.
 
@@ -4376,7 +4386,12 @@ Fassung.**
   kein Datum.** Was sie sagen kann, kann sie an jedem Tag der naechsten vierzig
   Jahre sagen.
 
-- **Was ueber den Boten feststeht, Stand Band 2, Kapitel 8.** Nam hat **eine
+- **Was ueber den Versender feststeht, Stand Band 2, Kapitel 8.** **Zur Sprache:
+  Versender und Bote sind ab Kapitel 12 zwei verschiedene Leute.** Der Versender
+  hat entschieden und verliert alles; der Bote hat getragen, wird erschreckt und
+  behaelt alles, **weil er der einzige Weg zum Versender ist.** Was hier folgt,
+  gilt der Person, die entschieden hat - wer die Seite physisch ausgesucht und
+  kopiert hat, kann derselbe oder ein zweiter sein. Nam hat **eine
   fotokopierte Einzelseite** in einer Klarsichthuelle, **seit dem 14. Maerz**,
   und nicht den gebundenen Katalog, den jeder Kaeufer im Maerz zugeschickt
   bekam. Daraus zwei Dinge:
@@ -5884,7 +5899,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:214 | "No," said Annie. "I know." |
 | 3 | b2ch12:232 | "Then go," said Annie. |
 | 3 | b2ch12:254 | Annie put the thing down. |
-| 3 | b2ch12:276 | "How will you know which he is," said Annie. |
+| 3 | b2ch12:286 | Annie did not move. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6674,12 +6689,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
-| 3 | b2ch12:286 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
-| 3 | b2ch12:294 | Jang closed the log and did not ask what for, which took a decision. |
-| 3 | b2ch12:308 | Jang looked at him for a moment. |
-| 3 | b2ch12:316 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
-| 3 | b2ch12:332 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
-| 3 | b2ch12:352 | Jang thought about that for a moment and did not appear to enjoy it. |
+| 3 | b2ch12:324 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
+| 3 | b2ch12:332 | Jang closed the log and did not ask what for, which took a decision. |
+| 3 | b2ch12:346 | Jang looked at him for a moment. |
+| 3 | b2ch12:354 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
+| 3 | b2ch12:370 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
+| 3 | b2ch12:390 | Jang thought about that for a moment and did not appear to enjoy it. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6714,7 +6729,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:188` (Tag 55) - four
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
-- `b2ch12:286` (Tag 3) - ten
+- `b2ch12:324` (Tag 3) - ten
 
 ---
 
