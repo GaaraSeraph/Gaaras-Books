@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 319 | 30 (b1ch01-b1ch34) | 1 | 74 |
+| Annie | 332 | 31 (b1ch01-b2ch01) | 1 | 74 |
 | Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
 | Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
-| Mrs Seo | 49 | 18 (b1ch03-b1ch33) | 1 | 74 |
+| Mrs Seo | 52 | 19 (b1ch03-b2ch01) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -32,7 +32,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Mr Ku | 9 | 7 (b1ch05-b1ch32) | 6 | 55 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
-| Mr Baek | 5 | 4 (b1ch05-b1ch24) | 6 | 55 |
+| Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -49,7 +49,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-319 Nennungen in 30 Kapiteln.
+332 Nennungen in 31 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -372,6 +372,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | b1ch34:478 | "There is more of it," said Annie. "Say the rest." |
 | 50 | b1ch34:498 | Annie went as far as the window and stood with her back to the room. |
 | 50 | b1ch34:514 | Annie's hand came down on the back of his head and stayed there. |
+| 51 | b2ch01:34 | "It is March," said Annie. |
+| 51 | b2ch01:42 | Annie put down the page she was holding and did not turn it face down. |
+| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:78 | Annie turned her chair a few degrees, so that she was facing him and not the desk. |
+| 51 | b2ch01:102 | Annie waited. |
+| 51 | b2ch01:108 | Annie got up and took the coat off the back of the chair. |
+| 51 | b2ch01:122 | "You are working again as of this morning," said Annie. "Nobody has told you what to wan.. |
+| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 51 | b2ch01:144 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
+| 51 | b2ch01:216 | Annie came back from Yeouido at ten past eight. |
+| 51 | b2ch01:220 | "You have read it," said Annie. |
+| 51 | b2ch01:248 | Annie did not say anything for a while and did not look at the table. |
+| 51 | b2ch01:258 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -446,6 +459,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:90` (Tag 46) - nine, twenty, two
 - `b1ch34:326` (Tag 50) - four
 - `b1ch34:354` (Tag 50) - forty
+- `b2ch01:64` (Tag 51) - nine, one, six
+- `b2ch01:136` (Tag 51) - three, two
+- `b2ch01:144` (Tag 51) - forty, twenty-two
+- `b2ch01:216` (Tag 51) - eight, ten
 
 ---
 
@@ -1127,7 +1144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-49 Nennungen in 18 Kapiteln.
+52 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1180,6 +1197,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
 | 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 51 | b2ch01:14 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
+| 51 | b2ch01:64 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:136 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1210,6 +1230,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:230` (Tag 1) - one
 - `b1ch31:68` (Tag 74) - one, three
 - `b1ch33:422` (Tag 7) - six
+- `b2ch01:14` (Tag 51) - seven
+- `b2ch01:64` (Tag 51) - nine, one, six
+- `b2ch01:136` (Tag 51) - three, two
 
 ---
 
@@ -1580,7 +1603,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Baek
 
-5 Nennungen in 4 Kapiteln.
+6 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1589,12 +1612,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
 | 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 | 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 51 | b2ch01:16 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
+- `b2ch01:16` (Tag 51) - four, six
 
 ---
 

@@ -65,7 +65,11 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 139, Do 19. Februar: **der Registereintrag wird gestrichen** (Kapitel 34)
 - Tag 145, Mi 25. Februar: die stillgelegten Wochen, zweiter Abschnitt von 34
 - Tag 149, So 1. Maerz: die Vollmacht laeuft um Mitternacht ab; Mr Chae holt die
-  Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34)
+  Zweitschrift, der Eintrag ist gestrichen, das Halsband bleibt (Kapitel 34).
+  **Ende Band 1**
+- Tag 150, Mo 2. Maerz: **Anfang Band 2.** Die Sperre vom 2. Januar ist abgelaufen
+  und die Vollmacht auch. Er bittet um eine neue und bekommt sie nicht. Der
+  aufgeraeumte Katalog kommt ins Haus (Band 2, Kapitel 1)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -404,6 +408,37 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 5** *Seven Letters* (v5.10) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.9) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.7) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
+
+#### Band 2
+
+**Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
+anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
+
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.0) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+
+  **Der Einfall:** Zwei Dinge sind um dieselbe Mitternacht gestorben und ziehen in verschiedene Richtungen. Annies Sperre vom 2. Januar (*"nothing for you between now and March"*) ist abgelaufen, er darf also wieder arbeiten. Die Vollmacht ist abgelaufen, er kann also nichts mehr zeichnen. *"So he was permitted to work and had nothing to work with."*
+
+  **Der Morgen.** Haushaltstextur, die seit Kapitel 13 fehlt. **Yun**, der Kuechenjunge seit der ersten Januarwoche, ist acht Wochen da und traegt die Teller inzwischen in den Haenden statt auf den Unterarmen. Er gruesst Georgij jeden Morgen, was ihm niemand gesagt hat und was zwei der vier Maedchen bis heute nicht tun. Georgij steht zum dritten Montag hintereinander frueh genug auf, um jemand anderem bei der Arbeit zuzusehen.
+
+  **Die Bitte, und die Szene haengt an einem Satz aus Kapitel 24.** Er haelt sein Versprechen woertlich - *"a date on it, after which it is dead and I ask you again."* Annie fragt **"What for."**, und am 2. Maerz liegt nichts an. Er nennt die einzige Ausfuehrung vom 23. Januar. **Annies Gegenzug ist vernichtend und richtig: dann gebe ich eine an Mrs Seo** - neun Jahre im Haus, fuehrt Personal, Konten und Fremdfirmen, ist abends ohnehin im Gebaeude, und eine solche Vollmacht laeuft nie ab.
+
+  **Dann gibt sie ihm seinen eigenen Satz zurueck.** Aus Kapitel 19, im Schuppen in Yeongjong an Woo: *"I have nothing to sign with, and that is not modesty. It is the arrangement."* Ihre Antwort darauf ist **"There is no arrangement."** Der Satz war laut `doc/07-next.md` ab Dezember verboten, weil er unwahr geworden war; **seit dem 1. Maerz um Mitternacht stimmt er wieder, und das Verbot ist mit dem Instrument abgelaufen.** Was nicht zurueckkommt, ist die zweite Haelfte.
+
+  **Und damit steht da, worum er wirklich bittet.** Die Papiere vom Oktober tragen seinen Namen und nicht ihren. Das Registerblatt trug ihren und nicht seinen, weil es dafuer keine Spalte gibt. *"The instrument that died at midnight had both. It is the only thing that ever has."* **Sie gibt sie ihm nicht**, und ihre Begruendung ist geschaeftlich: Mr Chae schreibt auf, wofuer ein Instrument da ist, und das hier geht in keine Aktentasche. *"Then ask me again when there is a room in it."*
+
+  **Beim Hinausgehen bleibt sie an der Tuer stehen**, was sie am 2. Januar nicht getan hat, und gibt ihm die zehn Wochen zurueck: *"Nobody has told you what to want."* Das ist ihr Prinzip aus Kapitel 4, zum ersten Mal als Freigabe.
+
+  **Der Katalog. Derselbe Gegenstand wie in Kapitel 6, und aufgeraeumt.** In Kapitel 6 gilt: *"They renumber every month, so the numbers meant nothing."* Jetzt steht in sechs Punkt unter der ersten Seite: *"References are permanent and are not reissued. Withdrawn and completed entries retain their reference."* Er liest ihn zum ersten Mal **in der Hand** statt auf dem Kopf.
+
+  **Die Seite hinten ist der Anschlag.** Eine Liste ueber vier Jahre: Referenz, Saison, ein Wort. *Completed*, *Withdrawn* - und bei vieren drei Woerter statt einem: **"Retained, not disclosed."** Darunter **elf und vierzehn, vier Zeilen auseinander, mit denselben drei Woertern.** Vier in vier Jahren, zwei davon sind ihre.
+
+  **Die Umkehrung, auf der Band 2 steht:** *"The line was struck on the nineteenth of February. The striking of it is now the most durable thing about it."* Annies Gnade ist die Spur.
+
+  **Der erste Auftritt des Sanierers ist eine Unterschrift unter einer Vorschrift ueber Aktenfuehrung** - vier Saetze, alle ueber Methode, und in keinem ein Wort darueber, worauf die Referenzen verweisen. Georgijs Kinn tut, was es bei Arbeit tut, die besser ist als noetig, und niemand ist im Raum.
+
+  **Und die vierte Vorenthaltung faengt auf Seite eins an.** Auf *"Did you meet him?"* sagt Annie **"Ask me something else."** Sie war viermal in dem Gebaeude.
+
+  **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
 
 ---
 

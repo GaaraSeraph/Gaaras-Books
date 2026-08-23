@@ -34,6 +34,7 @@ b1  ch31  v1.6       3256 Woerter  ch31_v1_6_en.md
 b1  ch32  v1.2       2579 Woerter  ch32_v1_2_en.md
 b1  ch33  v1.11      3335 Woerter  ch33_v1_11_en.md
 b1  ch34  v1.8       4293 Woerter  ch34_v1_8_en.md
+b2  ch01  v1.0       2204 Woerter  ch01_v1_0_en.md
 
-Gesamt: 1 Band, 34 Kapitel, 101125 Woerter
+Gesamt: 2 Baende, 35 Kapitel, 103329 Woerter
 Handbuch: 9 Dokumente
