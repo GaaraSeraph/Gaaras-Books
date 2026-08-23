@@ -583,6 +583,17 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
      a horse                30 goats. Nobody in the valley has one.
      a house                NOT SOLD. You build one and the road helps you.
      A SKIN OF PARCHMENT    ONE GOAT.
+  HE CONVERTS EVERYTHING INTO COINS IN HIS HEAD AS IT ARRIVES (ch20), because
+  a goat is not a number, it is an animal, and a man cannot add animals. In
+  coins they are all the same shape and he can hold them next to each other.
+  ELEVEN TO THE GOAT. Blade 44. Cow 88. Ox 220. Horse 330. A skin 11.
+  A BOOK IS 440 COINS, which he says out loud, and he has eleven in a pouch,
+  which is one skin.
+  AND THE CONVERSION EARNS ITS PLACE: it lets him tell Ylva that an ox is four
+  hundred and forty days of a grown man, that nobody in her valley ever earned
+  one, and that the four they have were inherited. She walks ten yards and says
+  they were. NOBODY IN THIS WORLD HOLDS TWO PRICES AGAINST EACH OTHER. He does
+  it by reflex and it is worth more than the panel in a market.
   check.py now guards the goat figures. Counter-tested: it fires on a wrong one
   and stays quiet on the right ones.
 

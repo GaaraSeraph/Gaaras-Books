@@ -53,7 +53,10 @@ CANON_NUMBERS = [
     # Elf Muenzen sind Teodors Beutel. Seit der Preisleiter (ch20) gibt es
     # weitere legitime Muenzzahlen: die Roll-Gebuehr (zwei) und der Preis
     # einer Klinge (vierundvierzig, vier Ziegen). Alles andere ist Drift.
-    (re.compile(rf"\b({NUMWORD})\s+coins\b", re.I),
+    # Lookbehinds, damit die Regel nicht INNERHALB einer groesseren Zahl
+    # matcht: "four hundred and forty coins" und "eighty-eight coins" sind
+    # richtig und duerfen nicht als "forty" bzw. "eight" gemeldet werden.
+    (re.compile(rf"(?<!and )(?<!-)\b({NUMWORD})\s+coins\b", re.I),
      {"eleven", "11", "two", "2", "forty-four", "44", "four", "4"},
      "Muenzzahlen: 11 im Beutel, 2 Roll-Gebuehr, 44 eine Klinge"),
     (re.compile(r"Marit[^.\n]{0,40}?\b(?:Level\s+|at\s+)(\d+)\b", re.I), {"6"}, "Marit ist Level 6"),
