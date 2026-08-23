@@ -120,17 +120,27 @@ sich nicht aus der Grammatik ergibt, sondern aus der Machtlage im Raum.
 behaelt ihn - auch bei umgestelltem Hilfsverb, auch mit Fragewort. Das ist Annies
 Grundregister und Georgijs kalte Fassung, und es steht so quer durchs Buch:
 
-> "What do you want." · "How much." · "Why." · "Why not." · "Was I useful."
+> "What do you want." · "How much." · "Why." · "Why not."
 > "Was it worth it." · "How long did it take." · "Why did you not."
 
 **Das Zeichen gehoert dem, der den Zug abgibt.** Wer um Erlaubnis fragt, wer den
 anderen weiterreden laesst, wer eine Antwort will, ueber die er nicht verfuegt:
 
 > "May I ask why not?" · "May I propose something?" · "And?" · "And the third?"
-> "Then why?" · "Does that include what is already open?"
+> "Then why?" · "Does that include what is already open?" · "Was I useful?"
 
 **Die Probe ist eine Frage:** Kann der andere nein sagen, ohne den Raum zu
 verlassen? Dann Zeichen. Muss er liefern? Dann Punkt.
+
+**Der schnelle Weg zur Antwort ist, wer wen fragt.** Wer in dem Raum die Macht
+hat, fordert und bekommt den Punkt: Annie, Sang-hoon, Ye-rin. Georgij fragt nach
+oben und bekommt das Zeichen, **auch wenn die Zeile drei Woerter lang und eiskalt
+ist**. *"Was I useful?"* stand bis zum 23.08. mit Punkt da und war die einzige
+Ausnahme im ganzen Buch, in die eine Richtung wie in die andere.
+
+**Kaelte ist kein Kriterium, und das ist die Falle.** Kurz und flach sieht aus wie
+Annies Register, ist es aber nur, wenn der Sprecher nicht abhaengt von der Antwort.
+Georgij ist bei jeder Frage, die er ihr stellt, davon abhaengig.
 
 **Was ausdruecklich KEINE Rolle spielt:** ob ein Fragewort dasteht, und ob das
 Hilfsverb umgestellt ist. *"Was I useful."* ist umgestellt und hat einen Punkt,

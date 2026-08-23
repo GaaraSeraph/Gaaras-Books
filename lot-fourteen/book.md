@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 100.529 Woerter.
+34 Kapitel. 100.706 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,8 +41,8 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.7 | 3.524 |
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.10 | 3.335 |
-| 34 | v1.4 | 3.697 |
+| 33 | v1.11 | 3.335 |
+| 34 | v1.5 | 3.874 |
 
 ---
 
@@ -10235,7 +10235,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10595,7 +10595,7 @@ Georgij looked at the window for a while.
 
 The light had gone and neither of them had put a lamp on.
 
-"Was I useful."
+"Was I useful?"
 
 He had not planned to ask it. He heard it leave and there was no version of the afternoon in which he could take it back, and he sat in the chair and let it stand in the room.
 
@@ -10660,7 +10660,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -10825,6 +10825,26 @@ Mr Chae read both pages against his own and dated a line at the foot of each.
 "One instrument executed under it."
 
 "One," said Georgij. "A renewal in Jung-gu, on the twenty-third of January, because she was in Yeouido until nine and I was the only person in the building. Three counterparties, three months, and the ceiling was never anywhere near."
+
+Mr Chae wrote the number at the foot of the page and drew a line under it.
+
+---
+
+"On the twenty-seventh of November I asked her for this on a bridge, and I told her why." Georgij said it in the voice he had used for the rest of it. "Four rooms between then and February. In two of them I would be asked something that could only be answered with a name on a line, and the answer would have to be that I telephoned a woman from a shed."
+
+"And?"
+
+"There were four rooms. I have counted them since." He did not make it easier than it was. "Not one of them came down to a line. Every one of them was decided by somebody saying something out loud, and I was in three of them, and in the third I did not open my mouth about the thing that mattered."
+
+---
+
+Mr Chae took that without any expression at all.
+
+"Then you were right about the rooms."
+
+"I was right about the rooms."
+
+---
 
 "That is what it was for." Mr Chae closed the case and did not open it again. "In December I told you the instrument was smaller than you thought it was. I have never been that exactly right about one before and I did not enjoy it."
 

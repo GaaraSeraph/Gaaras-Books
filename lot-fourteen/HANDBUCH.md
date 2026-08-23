@@ -1796,7 +1796,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 34** *Then take it off* (v1.4) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
+- **Kapitel 34** *Then take it off* (v1.5) - Zwei Abschnitte. **Tag 145, Mi 25. Februar:** die leeren Wochen. Woos erste Ladung faehrt seit dem 9. Januar, der Kim-Block hat zweimal abgestimmt, Annies Kapital ist im Januar in drei Tranchen geflossen, und **nichts davon geht durch Georgij.** Er prueft einen Riegel, den Jangs Nachtmann zweimal pro Nacht prueft. Die **2.200.000.000 aus Kapitel 33 gehen nicht weg**, und das Schlimme daran ist, dass er eine Meinung dazu hat, ob sie stimmen. **Tag 149, So 1. Maerz:** Mr Chae holt um zehn die Zweitschrift, die Vollmacht laeuft um Mitternacht ab, nichts ist unter ihr gezeichnet worden. Die zwei Woerter vom 1. Dezember lauten **"No fee"**. Zum Umschlag auf dem Tisch sagt er nur *"That is not this instrument"* und *"I am at home today"* - beides Einloesung aus Kapitel 25.
 
   **Dann fragt Annie, wie am 16. Dezember angekuendigt, und er antwortet mit einer Zahl**, weil das die einzige Einheit ist, die er fuer sich selbst hat. Sang-hoons Minute an der Tuer hat genau das gekauft.
 
@@ -1805,7 +1805,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Er weigert sich.** Seine Begruendung von der Bruecke war taktisch und ist mit dem Eintrag weggefallen, und Annie hat es in dieser Reihenfolge getan, damit nur der zurueckgehaltene Grund uebrig bleibt: Wer ihr gehoert, muss verkauft werden, und das dauert Wochen und braucht einen Raum. Wer frei ist, wird an einem Dienstag im Flur weggeschickt. Die einzige Kontraktion des Kapitels steht an dieser Stelle: **"I'm afraid of Tuesdays."**
 
   Und die Umkehrung aus Kapitel 24: *"It is not what holds me and it never was. It is what holds you."* Danach **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
-- **Kapitel 33** *That is five* (v1.10) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
+- **Kapitel 33** *That is five* (v1.11) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.6) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
 - **Kapitel 30** *Who do they telephone* (v1.7) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
@@ -4470,21 +4470,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch34:74 | "No," said Annie. |
 | 46 | ch34:90 | On the twenty-third of January a renewal at the corporate services firm in Jung-gu came .. |
 | 46 | ch34:116 | Annie worked. |
-| 50 | ch34:214 | Annie came in after the car had gone down the drive. |
-| 50 | ch34:238 | "Say it," said Annie. |
-| 50 | ch34:254 | Annie was not surprised, which was worse. |
-| 50 | ch34:274 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
-| 50 | ch34:278 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
-| 50 | ch34:288 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
-| 50 | ch34:294 | Annie let the sheet lie where he had put it. |
-| 50 | ch34:314 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
-| 50 | ch34:328 | Annie stayed in the chair that is not hers. |
-| 50 | ch34:358 | Annie did not help him. |
-| 50 | ch34:372 | Annie let the whole of it get to the floor before she said anything. |
-| 50 | ch34:400 | Annie looked at him. |
-| 50 | ch34:416 | "There is more of it," said Annie. "Say the rest." |
-| 50 | ch34:436 | Annie went as far as the window and stood with her back to the room. |
-| 50 | ch34:452 | Annie's hand came down on the back of his head and stayed there. |
+| 50 | ch34:234 | Annie came in after the car had gone down the drive. |
+| 50 | ch34:258 | "Say it," said Annie. |
+| 50 | ch34:274 | Annie was not surprised, which was worse. |
+| 50 | ch34:294 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
+| 50 | ch34:298 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
+| 50 | ch34:308 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
+| 50 | ch34:314 | Annie let the sheet lie where he had put it. |
+| 50 | ch34:334 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | ch34:348 | Annie stayed in the chair that is not hers. |
+| 50 | ch34:378 | Annie did not help him. |
+| 50 | ch34:392 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:420 | Annie looked at him. |
+| 50 | ch34:436 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:456 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:472 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4557,7 +4557,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch34:58` (Tag 46) - four, three
 - `ch34:68` (Tag 46) - one
 - `ch34:90` (Tag 46) - nine, twenty, two
-- `ch34:314` (Tag 50) - forty
+- `ch34:334` (Tag 50) - forty
 
 ---
 
