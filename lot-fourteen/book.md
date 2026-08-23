@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.095 Woerter.
+33 Kapitel. 96.201 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.2 | 2.572 |
+| 33 | v1.3 | 2.678 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10295,6 +10295,16 @@ That was all she did.
 ---
 
 Georgij stood up.
+
+"Mistress."
+
+"Yes."
+
+"In about a minute I am going to break something you told me in a car in November." He was already turning while he said it. "I am telling you now so that it is not a thing you watch happen."
+
+Annie did not answer him and she did not stop him.
+
+---
 
 Park Sang-hoon had not moved since he put the number down. He had let the silence run for a full minute without once trying to fill it, which is a thing very few men can do and none of them by accident.
 
@@ -10490,11 +10500,11 @@ He sat down.
 
 ---
 
-"There is something I owe you and I would rather say it before you ask me for it."
+"There is something I owe you and I want to say it before you ask me for it."
 
 "Then say it."
 
-"On the eighteenth of November, in the car coming back from Yeouido, you told me to be pleased with it in that car and nowhere else." He had his hands on his knees and they had stopped. "Because a man who looks pleased in a room stops being shown off to. I broke that this afternoon, in front of you, and I knew I was going to do it before he sat down."
+"On the eighteenth of November, in the car coming back from Yeouido, you told me to be pleased with it in that car and nowhere else." He had his hands on his knees and they had stopped. "Because a man who looks pleased in a room stops being shown off to. I broke it this afternoon, in front of you, and I told you thirty seconds before I did it." He did not make it sound better than it was. "That is a warning and it is not a question. I did not ask you, because you would have had to say yes in front of him, and then it would have been yours and not mine."
 
 ---
 
@@ -10516,7 +10526,7 @@ Annie's face did nothing at all.
 
 Annie let that stand where it was.
 
-"You have asked me for one thing for yourself since October, on a bridge, and you told me at the time what it was for." She was counting and not accusing. "This afternoon is the second. You did not ask, you took it, and you have come and told me inside four minutes."
+"You have asked me for one thing for yourself since October, on a bridge, and you told me at the time what it was for." She was counting and not accusing. "This afternoon is the second, and you did not ask for it. You warned me, you took it, and you were in this chair explaining yourself inside four minutes."
 
 "Yes."
 
