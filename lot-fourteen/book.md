@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.794 Woerter.
+34 Kapitel. 99.841 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -33,16 +33,16 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 22 | v1.1 | 2.584 |
 | 23 | v3.5 | 2.653 |
 | 24 | v1.4 | 2.653 |
-| 25 | v1.1 | 2.547 |
-| 26 | v1.3 | 2.420 |
+| 25 | v1.2 | 2.550 |
+| 26 | v1.4 | 2.423 |
 | 27 | v3.2 | 3.102 |
-| 28 | v1.2 | 2.675 |
+| 28 | v1.3 | 2.676 |
 | 29 | v1.3 | 1.993 |
 | 30 | v1.7 | 3.524 |
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.10 | 3.335 |
-| 34 | v1.1 | 2.969 |
+| 34 | v1.2 | 3.009 |
 
 ---
 
@@ -7541,7 +7541,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7847,14 +7847,14 @@ Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted o
 
 Georgij read it twice.
 
-Then he went and stood at the window for a while, and did not send for anybody, and did not go down, and did not say the sentence he had built in September and had been carrying since.
+Then he went and stood at the window for a while, and did not send for anybody, and did not go down, and did not say the sentence he had built the week he found Hanseong and had been carrying since.
 
 It would keep until she asked.
 
 ---
 
 # Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7864,7 +7864,7 @@ She sent for him at nine in the morning and had the filing on the desk in front 
 
 "Say which part?"
 
-"The part you have been carrying since September and did not say yesterday."
+"The part you have been carrying since the fifth of November and did not say yesterday."
 
 ---
 
@@ -8564,7 +8564,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8858,9 +8858,9 @@ On the Monday evening Annie put her pen down and looked at him across the desk f
 
 "That is not what I said."
 
-Georgij stood at the corner of the desk with his hands behind his back.
+Georgij had been standing since he came in and had not been asked to sit.
 
-"Every part of it is built," he said. "It has taken eleven weeks and it is good. On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."
+"Every part of it is built," he said. "It has taken ten weeks and it is good. On Tuesday at nine o'clock a woman of fifty-four either walks up a drive or does not, and there is nothing I can do between now and then that moves it by a single per cent."
 
 "No."
 
@@ -10658,7 +10658,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Forty-Five · Wednesday 25 February
 
@@ -10734,13 +10734,21 @@ Mr Chae came at ten with the same leather case and without the younger man.
 
 "Mr Chae."
 
-"It expires at midnight, and I said there was no grace period." He put the case on the low table. "I would rather collect the counterpart in daylight than explain on Tuesday why I did not."
+"It expires at midnight, and I said there was no grace period." He put the case on the low table. "I would rather collect the counterpart in daylight than explain on Monday why I did not."
 
 ---
 
 They did it at the same table and it took eleven minutes.
 
-Georgij laid the counterpart down with the signature facing the lawyer. Mr Chae read both pages against his own, dated a line at the foot of each, and put the two of them in the case.
+Georgij laid the counterpart down with the signature facing the lawyer.
+
+"I told her in November that I would put this in her hand on the second."
+
+Mr Chae read both pages against his own and dated a line at the foot of each.
+
+"Then you will have to tell her instead." He put the two of them in the case. "It is not the same thing and I am aware that it is not."
+
+---
 
 "Nothing was executed under it."
 

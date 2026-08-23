@@ -1,7 +1,7 @@
-Chapter 26: The name and the control
-Lot Fourteen · Version 1.3 · EN
+# Chapter 26: The name and the control
+*Lot Fourteen* · Version 1.4 · EN
 
-Day Sixty-Three · Friday 5 December
+## Day Sixty-Three · Friday 5 December
 
 She sent for him at nine in the morning and had the filing on the desk in front of her, printed, which she almost never did.
 
@@ -9,9 +9,9 @@ She sent for him at nine in the morning and had the filing on the desk in front 
 
 "Say which part?"
 
-"The part you have been carrying since September and did not say yesterday."
+"The part you have been carrying since the fifth of November and did not say yesterday."
 
-* * *
+---
 
 Georgij stood at the corner of the desk.
 
@@ -23,7 +23,7 @@ Georgij stood at the corner of the desk.
 
 She waited.
 
-* * *
+---
 
 "He has eaten the apple," said Georgij. "All of it, in twelve days, from seven people at a price that was neither clever nor stupid, and every single thing in those nineteen pages was true, and he checked most of it himself. He is not going to find a bad line in there in March, because there is not one." Georgij had not sat down and did not sit down now. "He has bought four shipping routes with real berths and a fight he can win. He will win it, and it will take him a quarter." A short pause. "There is nothing in the world he can do about the calendar."
 
@@ -37,7 +37,7 @@ Annie turned the page over so that it lay face down.
 
 "No," said Georgij. "It is the answer I have."
 
-* * *
+---
 
 She let that stand for a moment.
 
@@ -53,7 +53,7 @@ She let that stand for a moment.
 
 "Yes, Mistress."
 
-* * *
+---
 
 "Not a restaurant."
 
@@ -65,9 +65,9 @@ Annie looked at him for a second longer than the sentence needed.
 
 "I have had a good autumn."
 
-* * *
+---
 
-Day Sixty-Six · Monday 8 December
+## Day Sixty-Six · Monday 8 December
 
 The Kim building is eleven storeys in a part of the city that was cheap in 1994 and is not cheap now, and it has a lobby with too much stone in it for the size of the company.
 
@@ -79,7 +79,7 @@ He sat in the lobby for the eight minutes with his coat on his knees, which is w
 
 He had one folder.
 
-* * *
+---
 
 They took him up to the fourth floor, to a room with a long table and a picture window that looked directly at the roof of the building next door.
 
@@ -91,7 +91,7 @@ The second was a cousin, somewhere in his fifties, who had brought a legal pad a
 
 The third was Kim Do-yun.
 
-* * *
+---
 
 Georgij had been ready for that since Friday and had built the entire hour around it.
 
@@ -99,7 +99,7 @@ He had put this man at the top of a page in November on the basis of two trips t
 
 "Mr Kim," he said, to all three of them at once, which is a thing you can do in this language and cannot do in most.
 
-* * *
+---
 
 "You work for the woman," said Sung-ho.
 
@@ -107,7 +107,7 @@ He had put this man at the top of a page in November on the basis of two trips t
 
 "Then say what she wants and I will decide whether to be angry after you have said it."
 
-* * *
+---
 
 Georgij put the folder on the table and opened it and took out one page.
 
@@ -117,7 +117,7 @@ He turned it round and pushed it across.
 
 "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong terminal. Minimum volumes in tonnes. The rate is his own and it is inside the market. It is executed and dated the twentieth of November, and the counterparty on it is your logistics company, and it holds today."
 
-* * *
+---
 
 Nobody said anything for a moment.
 
@@ -131,7 +131,7 @@ The cousin picked the page up before Sung-ho did, which told Georgij something h
 
 "He signed it on the twentieth of November, which is fourteen days after customs went into your building." Georgij did not move. "He knew. I told him, in his own office, before I asked him for anything."
 
-* * *
+---
 
 Kim Do-yun spoke for the first time.
 
@@ -151,13 +151,13 @@ Do-yun's face did nothing at all.
 
 "Thank you."
 
-* * *
+---
 
 Sung-ho put his hand flat on the page.
 
 "Now the rest of it."
 
-* * *
+---
 
 "The cancellations are what is killing you," he said. "Not the investigation. Nobody in this room needs me to explain that, so I am going to say the shape and then the price and then I am going to stop talking."
 
@@ -169,7 +169,7 @@ He waited until somebody in the room moved.
 
 "What she wants is shares, security, and a veto over routes."
 
-* * *
+---
 
 The cousin put the legal pad down.
 
@@ -179,7 +179,7 @@ The cousin put the legal pad down.
 
 "Say the difference, then, and say it in a way I can repeat to my wife."
 
-* * *
+---
 
 "You keep the name," said Georgij. "The building says Kim on it in March the way it says Kim on it today. Your brother is chairman, your family is on the register, and every customer you have ever had deals with the same three people they dealt with in September. Nobody outside this room is told anything, and there is no announcement, because there is nothing to announce."
 
@@ -191,7 +191,7 @@ He said it without a single softening word in it anywhere.
 
 "When there is a decision about which box goes on which sailing, she makes it. Not a committee, not a vote, not a consultation with you. Her. That is the veto and it is the whole of what she is buying. If I dressed it up for you this morning you would find it in the document by Thursday, and you would be right to throw me out then instead of now."
 
-* * *
+---
 
 The room was very quiet.
 
@@ -199,7 +199,7 @@ The room was very quiet.
 
 "I am selling you the worst part first," said Georgij, "because the worst part is the part you would find anyway, and I have twenty minutes and no relationship with any of you."
 
-* * *
+---
 
 Sung-ho had not moved during any of it.
 
@@ -215,13 +215,13 @@ He put one finger on the page and left it there.
 
 "That picture is worth more to you than the money, and I want you to hear me say that out loud."
 
-* * *
+---
 
 "Why?"
 
 "Because a man who has not been photographed with anybody since 1998 does not stand next to a family that is going to be indicted." He was looking at Sung-ho and not at the others. "Nobody will write that down. Everybody in your trade will do the arithmetic inside a day, and the four customers who have not yet cancelled will decide to wait until March, and waiting until March is all you need."
 
-* * *
+---
 
 Sung-ho was quiet for a while.
 
@@ -237,7 +237,7 @@ Then he said, "I have to make a telephone call."
 
 "I am going to sit here," said Georgij, "and I am not going to say anything at all."
 
-* * *
+---
 
 Sung-ho went out through the door at the end and did not close it properly, and they heard nothing, because the room next door was two doors away and the man was not a fool.
 
@@ -245,7 +245,7 @@ The cousin looked at the window. Do-yun looked at Georgij.
 
 Nine minutes.
 
-* * *
+---
 
 Georgij sat with his coat on his knees and did the only thing there was to do.
 
@@ -255,13 +255,13 @@ He had built the hour for the three men at this table.
 
 The decision was being made by a woman of fifty-four who was not in the building. She holds one point four per cent. Nobody has made her sign anything in twenty years, and nobody at this table would admit they had telephoned her.
 
-Not quickly and not twice. Once.
+*Not quickly and not twice. Once.*
 
 He had not spent it yet. He had not even been in the room where it would be spent. And it occurred to him, sitting there with his coat on his knees, that he had built the whole of December around a conversation with a woman who might simply say no on a Tuesday.
 
 Hana had told him so in plain words at a dinner table in November. He had heard it as a difficulty rather than as a fact.
 
-* * *
+---
 
 Kim Do-yun got up and went to the window.
 
@@ -281,7 +281,7 @@ Neither of them said anything for about four seconds, which in that room was a c
 
 "No," said Georgij.
 
-* * *
+---
 
 Do-yun looked at him a moment longer, and then did something with his mouth that was almost a smile and was not one.
 
@@ -289,7 +289,7 @@ Do-yun looked at him a moment longer, and then did something with his mouth that
 
 "I am going to be at that house on the sixteenth from six o'clock," said Georgij, "and so, I hope, are you."
 
-* * *
+---
 
 Sung-ho came back in at nineteen past and sat down and put both hands on the table.
 
@@ -305,7 +305,7 @@ Sung-ho looked at him.
 
 "Yes," he said. "I thought you might."
 
-* * *
+---
 
 He put his hand back on Woo's contract.
 
@@ -315,7 +315,7 @@ He put his hand back on Woo's contract.
 
 "Then I will say the thing I did not expect to say this morning." Sung-ho squared the page against the edge of the table, which is a thing men of that generation do. "Thank you."
 
-* * *
+---
 
 Georgij inclined his head and did not smile.
 
@@ -323,7 +323,7 @@ He got his coat and got out of the building and was on the street by twelve, and
 
 Then he took the notebook out and wrote three words on a clean page, under a line about a stone table in a hall.
 
-She said yes.
+*She said yes.*
 
 He looked at it for a moment and then crossed it out.
 

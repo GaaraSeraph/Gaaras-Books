@@ -350,21 +350,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:418 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
 | 46 | ch34:18 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
 | 46 | ch34:44 | Annie worked. |
-| 50 | ch34:136 | Annie came in after the car had gone down the drive. |
-| 50 | ch34:160 | "Say it," said Annie. |
-| 50 | ch34:176 | Annie was not surprised, which was worse. |
-| 50 | ch34:196 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
-| 50 | ch34:200 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
-| 50 | ch34:210 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
-| 50 | ch34:216 | Annie let the sheet lie where he had put it. |
-| 50 | ch34:236 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
-| 50 | ch34:250 | Annie stayed in the chair that is not hers. |
-| 50 | ch34:280 | Annie did not help him. |
-| 50 | ch34:294 | Annie let the whole of it get to the floor before she said anything. |
-| 50 | ch34:322 | Annie looked at him. |
-| 50 | ch34:338 | "There is more of it," said Annie. "Say the rest." |
-| 50 | ch34:358 | Annie went as far as the window and stood with her back to the room. |
-| 50 | ch34:374 | Annie's hand came down on the back of his head and stayed there. |
+| 50 | ch34:144 | Annie came in after the car had gone down the drive. |
+| 50 | ch34:168 | "Say it," said Annie. |
+| 50 | ch34:184 | Annie was not surprised, which was worse. |
+| 50 | ch34:204 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
+| 50 | ch34:208 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
+| 50 | ch34:218 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
+| 50 | ch34:224 | Annie let the sheet lie where he had put it. |
+| 50 | ch34:244 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | ch34:258 | Annie stayed in the chair that is not hers. |
+| 50 | ch34:288 | Annie did not help him. |
+| 50 | ch34:302 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | ch34:330 | Annie looked at him. |
+| 50 | ch34:346 | "There is more of it," said Annie. "Say the rest." |
+| 50 | ch34:366 | Annie went as far as the window and stood with her back to the room. |
+| 50 | ch34:382 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -435,7 +435,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch33:70` (Tag 7) - fifteen
 - `ch33:232` (Tag 7) - five
 - `ch34:18` (Tag 46) - four, three
-- `ch34:236` (Tag 50) - forty
+- `ch34:244` (Tag 50) - forty
 
 ---
 
