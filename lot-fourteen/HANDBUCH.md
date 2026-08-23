@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 93.303 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 94.396 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -131,6 +131,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
   - [Mrs Jeon](#mrs-jeon)
+  - [Nam Byung-hee](#nam-byung-hee)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
@@ -141,7 +142,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Choi Dae-ho](#choi-dae-ho)
   - [Minister Min-ho](#minister-min-ho)
   - [Mrs Ahn](#mrs-ahn)
-  - [Nam Byung-hee](#nam-byung-hee)
   - [Tae-min](#tae-min)
   - [Mr Hwang](#mr-hwang)
   - [Mr Im](#mr-im)
@@ -1971,6 +1971,10 @@ nachrechnen, und `check.py` tut das automatisch.
   gibt Mrs Jeon den Rest heraus, **Mr Hwang** bekommt einen Namen. Nachmittags
   der Brief: eine Stunde, die sechs im Raum, Frist **26. Maerz**, danach
   schreibt sie **am ersten April** wie immer (Band 2, Kapitel 7)
+- Tag 168, Fr 20. Maerz: **Ulsan.** Mit dem Zug, ohne Wagen, unangekuendigt.
+  Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
+  und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
+  aufschreiben (Band 2, Kapitel 8)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2520,6 +2524,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Ihr letzter Satz zeigt auf Kapitel 8:** *"Then somebody who is not out of this house is going to have to go to Ulsan"*, gesagt zum Fenster hin, und er antwortet nicht, weil es keine Frage war.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
+
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.0) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+
+  **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
+
+  **Annie schickt ihn ausdruecklich nicht, und das ist die Bedingung fuer alles Weitere.** *"I am not going to tell you to go." ... "I want that to be true when somebody asks you. Not a form of words. True."* **Sie enthaelt ihm die Anweisung vor und macht sie damit zum Werkzeug.** In Ulsan ist *"Nobody sent me"* dann keine Ausrede, sondern eine pruefbare Tatsache, und es ist das Einzige, was ihn in den Raum bringt.
+
+  **Der Preis vorher, wie verlangt:** Geht er, ist er das Haus, *"because I have not got anything else to be"*. Und er kann nichts unterschreiben - die Vollmacht deckt einen Schreibtisch am Fluss, Sang-hoon und einen Monat. **"I am not going to stretch it."**
+
+  **Wie er ueberhaupt nach Ulsan kommt, und das ist Regel 2 auf einer halben Seite.** Er fragt Mrs Seo, wie ein Mensch nach Ulsan faehrt, weil er noch nie im Leben eine Fahrkarte gekauft hat, und er sagt es in einem Satz, ohne sein Gesicht dabei einzurichten. Am Morgen liegt ein Umschlag da: Hinfahrt, Rueckfahrt, Bahnsteig, letzte Verbindung. **Kein Geld darin.** Sie hat darueber nachgedacht und sich dagegen entschieden, und er ist dankbar auf eine Art, die er nicht untersucht.
+
+  **Der Augenblick, den das Kapitel eigentlich sucht:** Er sagt seinen Namen und der Name bedeutet ihr nichts. *"He watched it mean nothing, and for about a second he was a man standing in a yard."*
+
+  **Was er ihr gibt, ist die Erklaerung, die ihr seit Januar niemand gegeben hat.** Kein Tarif, keine Behoerde, keine Abneigung im Hafen: ein privates Vetorecht in einem Gesellschaftervertrag. *"There is no office. There is nobody to write to. None of that is accidental. It is what the thing is for."* Und dann der Teil, den er praezise treffen muss: **es zielt nicht auf sie.** *"You are the floor of a room somebody else is standing in."* - **"That is worse."** - *"Yes."*
+
+  **Die Zeile aus Kapitel 19 kann er nicht mehr zu Ende sagen.** Auf die Frage, was er verkaufen will: *"Nothing. I have nothing to sign with."* Und dann der Erzaehler: **die zweite Haelfte wurde ihm am 2. Maerz im kleinen Zimmer abgenommen, von der einzigen Person, die dazu berechtigt war**, und er hat nichts gefunden, was er dorthin setzen koennte.
+
+  **Was er anbietet, ist ausschliesslich, dass er argumentieren wird.** Erstens die Auskunft, die sie schon hat, egal wie es ausgeht. Zweitens: er faehrt zurueck und vertritt, dass sie niemandem im Weg steht, und *"people do not usually refuse to do things that cost them nothing"*. Bei Irrtum: acht Tage verloren, und sie schreibt am Ersten wie geplant.
+
+  **Und die Probe ist Ladung, nicht Post:** *"You will know because cargo moves. Not because anybody writes to you. Nobody is going to write to you, and if somebody did you should not believe it. Watch the lane."*
+
+  **Warum sie zusagt, und es ist der traurigste Satz, den sie hat.** Zwanzig Jahre am Ersten, **vier Antworten insgesamt, alle vier von demselben Mann, und der ist tot.** Dazu: *"you have not once said the word unfortunately."* Ihr Aufschub geht bis zum **1. April**, nicht bis zum 26. Maerz - *"It is exactly what I was always going to do. I have simply told you."*
+
+  **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
 ---
 
@@ -3894,10 +3922,21 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 - **Nams Frist: 26. Maerz.** Gesetzt in Band 2, Kapitel 7. Eine Stunde, die
   sechs im Raum, jemand antwortet ihnen. Annie antwortet nicht, weil die
   Antwort die Bestaetigung waere.
-- **Und danach: der 1. April.** *"If nobody comes, I will write again on the
+- **Nams Frist ist seit dem 20. Maerz der 1. April und nicht mehr der 26. Maerz.**
+  Sie hat den Aufschub in Band 2, Kapitel 8 selbst gegeben und dazugesagt, dass
+  sie ihn ohnehin gegeben haette: *"It is exactly what I was always going to
+  do. I have simply told you."* **Und die Bedingung ist nicht Post, sondern
+  Ladung** - *"You will know because cargo moves. Not because anybody writes to
+  you."*
+- **Der 1. April.** *"If nobody comes, I will write again on the
   first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
   ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
   Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **Nam hat Georgijs Namen handschriftlich, auf ihre eigene Bitte** (Kapitel 8).
+  Sie traegt seit dem 14. Maerz eine Kopie der Rueckseite mit **Los vierzehn**
+  darauf. **Sie weiss nicht, dass das dasselbe ist.** Wer ihr die Seite gegeben
+  hat, wird ihr auch das sagen, und zwar zum guenstigsten Zeitpunkt. **Diese
+  Zeile hat kein Datum und muss trotzdem eingeloest werden.**
 - **Mrs Jeon geht in acht Wochen aus dem Gebaeude**, gerechnet ab dem
   16. Maerz, also **Mitte Mai.** Danach ist sie keine Quelle mehr, sondern
   eine Erinnerung. Was ueber diesen Schreibtisch zu holen ist, muss vorher
@@ -4927,12 +4966,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 375 | 37 (b1ch01-b2ch07) | 1 | 74 |
+| Annie | 378 | 38 (b1ch01-b2ch08) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 105 | 19 (b1ch10-b2ch06) | 5 | 74 |
+| Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
 | Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
-| Mrs Seo | 54 | 21 (b1ch03-b2ch07) | 1 | 74 |
+| Mrs Seo | 55 | 22 (b1ch03-b2ch08) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -4942,6 +4981,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
+| Nam Byung-hee | 8 | 2 (b2ch03-b2ch08) | 9 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -4952,7 +4992,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
-| Nam Byung-hee | 2 | 1 (b2ch03) | 56 | 56 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Hwang | 1 | 1 (b2ch07) | 7 | 7 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -4962,7 +5001,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-375 Nennungen in 37 Kapiteln.
+378 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5341,6 +5380,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:176 | Annie unfolded her arms and put one hand on the back of the chair. |
 | 7 | b2ch07:188 | Annie did not say anything to that, which was the correct thing to do and cost her somet.. |
 | 7 | b2ch07:208 | "So it is the same box as the book," said Annie. |
+| 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
+| 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
+| 9 | b2ch08:46 | Annie put the letter down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5879,7 +5921,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-105 Nennungen in 19 Kapiteln.
+106 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5988,6 +6030,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
 | 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 | 5 | b2ch06:232 | "Park Sang-hoon." |
+| 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -6034,6 +6077,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:226` (Tag 60) - four, nineteen
 - `b2ch04:260` (Tag 60) - one
 - `b2ch04:272` (Tag 60) - one
+- `b2ch08:32` (Tag 9) - one
 
 ---
 
@@ -6148,7 +6192,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-54 Nennungen in 21 Kapiteln.
+55 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6206,6 +6250,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
+| 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -6240,6 +6285,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:66` (Tag 51) - nine, one, six
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
+- `b2ch08:62` (Tag 9) - nine
 
 ---
 
@@ -6658,6 +6704,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Nam Byung-hee
+
+8 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:244` (Tag 9) - twenty
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -6845,21 +6915,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
-
----
-
-### Nam Byung-hee
-
-2 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
 
 ---
 

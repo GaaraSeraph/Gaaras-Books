@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 375 | 37 (b1ch01-b2ch07) | 1 | 74 |
+| Annie | 378 | 38 (b1ch01-b2ch08) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
-| Park Sang-hoon | 105 | 19 (b1ch10-b2ch06) | 5 | 74 |
+| Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
 | Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
-| Mrs Seo | 54 | 21 (b1ch03-b2ch07) | 1 | 74 |
+| Mrs Seo | 55 | 22 (b1ch03-b2ch08) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -33,6 +33,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
+| Nam Byung-hee | 8 | 2 (b2ch03-b2ch08) | 9 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -43,7 +44,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
-| Nam Byung-hee | 2 | 1 (b2ch03) | 56 | 56 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Hwang | 1 | 1 (b2ch07) | 7 | 7 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -53,7 +53,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-375 Nennungen in 37 Kapiteln.
+378 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -432,6 +432,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:176 | Annie unfolded her arms and put one hand on the back of the chair. |
 | 7 | b2ch07:188 | Annie did not say anything to that, which was the correct thing to do and cost her somet.. |
 | 7 | b2ch07:208 | "So it is the same box as the book," said Annie. |
+| 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
+| 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
+| 9 | b2ch08:46 | Annie put the letter down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -970,7 +973,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-105 Nennungen in 19 Kapiteln.
+106 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1079,6 +1082,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
 | 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 | 5 | b2ch06:232 | "Park Sang-hoon." |
+| 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1125,6 +1129,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:226` (Tag 60) - four, nineteen
 - `b2ch04:260` (Tag 60) - one
 - `b2ch04:272` (Tag 60) - one
+- `b2ch08:32` (Tag 9) - one
 
 ---
 
@@ -1239,7 +1244,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-54 Nennungen in 21 Kapiteln.
+55 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1297,6 +1302,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
+| 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1331,6 +1337,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:66` (Tag 51) - nine, one, six
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
+- `b2ch08:62` (Tag 9) - nine
 
 ---
 
@@ -1749,6 +1756,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Nam Byung-hee
+
+8 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:244` (Tag 9) - twenty
+
+---
+
 ## Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -1936,21 +1967,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
-
----
-
-## Nam Byung-hee
-
-2 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
 
 ---
 

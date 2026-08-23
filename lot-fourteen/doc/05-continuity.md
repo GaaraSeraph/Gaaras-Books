@@ -99,6 +99,10 @@ nachrechnen, und `check.py` tut das automatisch.
   gibt Mrs Jeon den Rest heraus, **Mr Hwang** bekommt einen Namen. Nachmittags
   der Brief: eine Stunde, die sechs im Raum, Frist **26. Maerz**, danach
   schreibt sie **am ersten April** wie immer (Band 2, Kapitel 7)
+- Tag 168, Fr 20. Maerz: **Ulsan.** Mit dem Zug, ohne Wagen, unangekuendigt.
+  Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
+  und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
+  aufschreiben (Band 2, Kapitel 8)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -648,6 +652,30 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Ihr letzter Satz zeigt auf Kapitel 8:** *"Then somebody who is not out of this house is going to have to go to Ulsan"*, gesagt zum Fenster hin, und er antwortet nicht, weil es keine Frage war.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
+
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.0) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+
+  **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
+
+  **Annie schickt ihn ausdruecklich nicht, und das ist die Bedingung fuer alles Weitere.** *"I am not going to tell you to go." ... "I want that to be true when somebody asks you. Not a form of words. True."* **Sie enthaelt ihm die Anweisung vor und macht sie damit zum Werkzeug.** In Ulsan ist *"Nobody sent me"* dann keine Ausrede, sondern eine pruefbare Tatsache, und es ist das Einzige, was ihn in den Raum bringt.
+
+  **Der Preis vorher, wie verlangt:** Geht er, ist er das Haus, *"because I have not got anything else to be"*. Und er kann nichts unterschreiben - die Vollmacht deckt einen Schreibtisch am Fluss, Sang-hoon und einen Monat. **"I am not going to stretch it."**
+
+  **Wie er ueberhaupt nach Ulsan kommt, und das ist Regel 2 auf einer halben Seite.** Er fragt Mrs Seo, wie ein Mensch nach Ulsan faehrt, weil er noch nie im Leben eine Fahrkarte gekauft hat, und er sagt es in einem Satz, ohne sein Gesicht dabei einzurichten. Am Morgen liegt ein Umschlag da: Hinfahrt, Rueckfahrt, Bahnsteig, letzte Verbindung. **Kein Geld darin.** Sie hat darueber nachgedacht und sich dagegen entschieden, und er ist dankbar auf eine Art, die er nicht untersucht.
+
+  **Der Augenblick, den das Kapitel eigentlich sucht:** Er sagt seinen Namen und der Name bedeutet ihr nichts. *"He watched it mean nothing, and for about a second he was a man standing in a yard."*
+
+  **Was er ihr gibt, ist die Erklaerung, die ihr seit Januar niemand gegeben hat.** Kein Tarif, keine Behoerde, keine Abneigung im Hafen: ein privates Vetorecht in einem Gesellschaftervertrag. *"There is no office. There is nobody to write to. None of that is accidental. It is what the thing is for."* Und dann der Teil, den er praezise treffen muss: **es zielt nicht auf sie.** *"You are the floor of a room somebody else is standing in."* - **"That is worse."** - *"Yes."*
+
+  **Die Zeile aus Kapitel 19 kann er nicht mehr zu Ende sagen.** Auf die Frage, was er verkaufen will: *"Nothing. I have nothing to sign with."* Und dann der Erzaehler: **die zweite Haelfte wurde ihm am 2. Maerz im kleinen Zimmer abgenommen, von der einzigen Person, die dazu berechtigt war**, und er hat nichts gefunden, was er dorthin setzen koennte.
+
+  **Was er anbietet, ist ausschliesslich, dass er argumentieren wird.** Erstens die Auskunft, die sie schon hat, egal wie es ausgeht. Zweitens: er faehrt zurueck und vertritt, dass sie niemandem im Weg steht, und *"people do not usually refuse to do things that cost them nothing"*. Bei Irrtum: acht Tage verloren, und sie schreibt am Ersten wie geplant.
+
+  **Und die Probe ist Ladung, nicht Post:** *"You will know because cargo moves. Not because anybody writes to you. Nobody is going to write to you, and if somebody did you should not believe it. Watch the lane."*
+
+  **Warum sie zusagt, und es ist der traurigste Satz, den sie hat.** Zwanzig Jahre am Ersten, **vier Antworten insgesamt, alle vier von demselben Mann, und der ist tot.** Dazu: *"you have not once said the word unfortunately."* Ihr Aufschub geht bis zum **1. April**, nicht bis zum 26. Maerz - *"It is exactly what I was always going to do. I have simply told you."*
+
+  **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
 ---
 

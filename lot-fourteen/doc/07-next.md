@@ -444,10 +444,21 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 - **Nams Frist: 26. Maerz.** Gesetzt in Band 2, Kapitel 7. Eine Stunde, die
   sechs im Raum, jemand antwortet ihnen. Annie antwortet nicht, weil die
   Antwort die Bestaetigung waere.
-- **Und danach: der 1. April.** *"If nobody comes, I will write again on the
+- **Nams Frist ist seit dem 20. Maerz der 1. April und nicht mehr der 26. Maerz.**
+  Sie hat den Aufschub in Band 2, Kapitel 8 selbst gegeben und dazugesagt, dass
+  sie ihn ohnehin gegeben haette: *"It is exactly what I was always going to
+  do. I have simply told you."* **Und die Bedingung ist nicht Post, sondern
+  Ladung** - *"You will know because cargo moves. Not because anybody writes to
+  you."*
+- **Der 1. April.** *"If nobody comes, I will write again on the
   first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
   ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
   Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **Nam hat Georgijs Namen handschriftlich, auf ihre eigene Bitte** (Kapitel 8).
+  Sie traegt seit dem 14. Maerz eine Kopie der Rueckseite mit **Los vierzehn**
+  darauf. **Sie weiss nicht, dass das dasselbe ist.** Wer ihr die Seite gegeben
+  hat, wird ihr auch das sagen, und zwar zum guenstigsten Zeitpunkt. **Diese
+  Zeile hat kein Datum und muss trotzdem eingeloest werden.**
 - **Mrs Jeon geht in acht Wochen aus dem Gebaeude**, gerechnet ab dem
   16. Maerz, also **Mitte Mai.** Danach ist sie keine Quelle mehr, sondern
   eine Erinnerung. Was ueber diesen Schreibtisch zu holen ist, muss vorher
