@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 39 Kapitel, 112.922 Woerter.
+2 Baende, 39 Kapitel, 112.929 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
 | 2 | 04 | v1.3 | 2.698 |
-| 2 | 05 | v1.1 | 2.773 |
+| 2 | 05 | v1.2 | 2.780 |
 
 ---
 
@@ -12220,7 +12220,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -12392,7 +12392,7 @@ The clock in the hall did the thing it does at the quarter, and neither of them 
 
 "Louder."
 
-"There is no such man as the one I have been describing. A page with four dull entries on it is worth nothing. A page with four entries on it, one of them attached to a man who lives in your house, is worth a very great deal. What makes it worth that is not the entry. It is that I have been walking round the city since March asking about it." He did not stop. "I have spent nine days building an instrument that only exists if I am not yours."
+"There is no such man as the one I have been describing. A page with four dull entries on it is worth nothing. A page with four entries on it, one of them attached to a man who lives in your house, is worth a very great deal. What makes it worth that is not the entry. It is that I have been walking round the city since March asking about it." He did not stop. "I have spent nine days building a tool that only works in the hand of a man nobody owns. Somebody owns me."
 
 ---
 
@@ -12404,7 +12404,7 @@ Annie sat down at last, on the arm of the reading chair, which is not sitting.
 
 "Say it."
 
-"You could let me go. Then the man I have been describing exists, and he is the only tool that works." He said it evenly. "I have looked at it and put it down. I am telling you because you would have found out that I had looked, and then you would have had to wonder for a week whether I put it down."
+"You could let me go. Then the man I have been describing exists, and there is no second way of doing this." He said it evenly. "I have looked at it and put it down. I am telling you because you would have found out that I had looked, and then you would have had to wonder for a week whether I put it down."
 
 ---
 
