@@ -427,6 +427,24 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   RECKON IN GOATS, NOT COINS, whenever a villager prices anything. Coins are
   what a stranger carries. Livestock is what Oldstep actually counts in.
 
+- (ch17) IMPROVISED WEAPON HANDLING, RANK E, and it is the second job title the
+  world has issued him with no equipment attached. The ch2 rule fired again on
+  the same terms: TWO kills with the same class of thing, both above his level.
+  A five on the windlass in ch16 and the Roofwalker in ch17, both with the same
+  eighteen inch wedge iron, both opened at a seam in four strokes.
+  WHAT IT ACTUALLY SAYS ABOUT HIM is the point. The panel has watched six days
+  and filed him correctly: not a swordsman, not a knife man, a man who picks up
+  whatever is lying there. It is his character rendered as a mechanic, and the
+  bar in his hand is not even his - it belongs to Hallvard.
+  AND IT SETS A FORK HE CANNOT AFFORD BOTH SIDES OF. Advancement through use.
+  Keep the iron and improvised ranks up while Dagger D rots; buy the blade and
+  improvised dies on the vine. He will take the blade, because he is not
+  sentimental, and the reader gets to watch him ignore the truest thing the
+  world has ever told him about himself.
+  MECHANICAL RULE NOW FIXED: two kills with a category of weapon, against
+  superior opponents, buys Rank E. It has happened twice on identical terms and
+  is no longer a one-off. Do not let a third category appear by accident.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -452,7 +470,48 @@ That is consistent with ch3 (nothing a competent Roman would find surprising)
 and it raises the floor: these people could measure, survey and cast or forge at
 scale. It says nothing yet about magic.
 
-OPEN, to be discovered in-story (not pre-legislated): how far the tech level really goes, and how technology and magic mix. There is no established "science plus magic" balance yet; that is the author's leaning, not canon. Guardrail while it is open: no casual industrial anachronism (Gaara does not offhandedly build a steam engine); if advanced tech or printing enters, it enters deliberately and on the page, framed as hand-tools plus magic. See section 7 and threads 13.
+DECIDED (author, ch18 discussion), and it closes thread 12. THE ONE SENTENCE:
+THIS IS A WORLD THAT HAS FORGOTTEN HOW TO DO BIG THINGS AND KEPT EVERY SMALL
+ONE. Nothing has been lost from the workshop. Everything has been lost from the
+office.
+
+WHAT THE PRESENT DAY HAS, and all of it is good:
+- Bloomery iron in every village. Steel is a smith's craft, slow and expensive,
+  which is why a fighting blade costs four goats and a table knife costs almost
+  nothing.
+- WATER POWER. Grain mills on streams, with gearing, and a wheel-driven hammer
+  wherever anybody has bothered. THIS IS THE MOST IMPORTANT SINGLE FACT for
+  Gaara's long game, because a mill is the ancestor of every machine he could
+  ever want, and a paper mill is a grain mill with different hardware.
+- Rope, cooperage, tanning, the loom, timber frame, drystone, harness, the cart.
+  Anything one person and a fire can make, they make well and have for centuries.
+- Lime, mortar, the arch, a vault big enough for a village bridge. Nothing that
+  spans.
+- Glass exists in towns and is expensive. Not in a village window.
+- No paper anywhere (see section 7). Parchment, wax, slate.
+- NO PRINTING, and not because it is impossible. There is nothing to print on
+  and nobody to sell to. The press is downstream of the paper mill, and both are
+  downstream of a market that does not exist yet.
+- They can lay out a field and a house. Nobody in the settled country could
+  survey a gradient over a mile.
+
+WHAT THE DEAD CITY HAD was every one of the above PLUS ORGANISATION: surveyed
+gradients, cast sluice gates, hundred-foot arches, streets on a plan. The
+difference was never knowledge. It was a hundred men agreeing for ten years.
+
+THEREFORE - and this is why the rule is load-bearing rather than decorative -
+WHAT THE WORLD LOST IS ADMINISTRATION, AND ADMINISTRATION IS THE ONLY THING
+GAARA HAS. He cannot invent anything. He is not smarter than a smith and knows
+less than any farmer about a field. What he can do is take six people who each
+know their own job and make them into one thing that works, which is exactly
+what he did from ch14 to ch17. The aqueduct stands unrepairable an hour up the
+road as a permanent statement of what is missing, and what is missing is not a
+technique.
+
+GUARDRAIL, UNCHANGED AND NOW BETTER FOUNDED: no industrial anachronism. He never
+offhandedly builds a steam engine. He does not need to, and reaching for one
+would break the premise, because his edge is coordination and not knowledge.
+Magic's part in any of it stays open (thread 3).
 
 The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - Not a building: a whole city, streets and avenues, drowning in forest.
@@ -828,7 +887,10 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     In ch8, in the tube, he assigns Marit a slot and takes the other himself, on
     purpose, and likes none of the arithmetic. The cost came before the choice,
     which is the right way round.
-12. The world's technological level, and whether printing exists. He has still
+12. CLOSED (ch18 discussion). See section 3: handwork intact, water power yes,
+   paper no, printing no, and the thing the world lost is administration
+   rather than technique. Superseded wording kept below for the record.
+   OLD: The world's technological level, and whether printing exists. He has still
     not seen a book, a page, or a written word in anybody's hands. Feeds the
     long game (section 7). The channel in ch8 is the first hard evidence and it
     is civil engineering, not magic.

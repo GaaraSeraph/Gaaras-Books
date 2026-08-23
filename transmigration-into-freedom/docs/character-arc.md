@@ -189,6 +189,13 @@ LIMIT rather than a gain: the panel has nothing whatsoever to say about an open
 fracture, and the man who has been right about everything for six days is
 reduced to being the weight that holds a patient down.
 
+Chapter 17, correction entered after the fact: IMPROVISED WEAPON HANDLING RANK E
+fires in the same window as the level up. The ch2 condition (two kills with a
+category of weapon, both against superior opponents) was met by the ch16 five on
+the windlass and the ch17 Roofwalker, both taken with the same wedge iron. He now
+carries Dagger Mastery D and Improvised Weapon Handling E, and owns neither a
+dagger nor the bar.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

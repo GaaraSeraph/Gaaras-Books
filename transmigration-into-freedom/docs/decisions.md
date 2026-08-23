@@ -3,6 +3,42 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The wedge iron had earned a skill and I had not paid it ===
+The author caught it: if two kills with a short blade bought Dagger Mastery E in
+ch2, then two kills with the wedge iron buy something too, or the system is
+inconsistent. He is right, and the text had already laid the evidence twice in
+near-identical words - ch16 and ch17, same bar, same seam, four strokes, both
+against opponents above his level.
+It fires in ch17's window and not later, because ch2's fired at the kill.
+THE NAME MATTERS MORE THAN THE MECHANIC. Not Blunt Weapon Mastery, which would
+only say he swings a club. IMPROVISED WEAPON HANDLING says what six days of
+watching him actually shows: he has never once fought with a weapon. Dead man's
+knife, obsidian shard, borrowed bar. It is his character as a game mechanic, and
+the ch2 joke lands a second time - a job title and no equipment.
+It does not defuse the smith. Rank E improvised is worth far less than Rank D
+dagger, so he still needs the blade. What it adds is a fork he cannot afford
+both sides of, and he will choose against the truer half of himself.
+
+=== The technological level, closed at last (thread 12) ===
+The author: the plan for 19 to 21 is fine, but he still does not know how good
+the engineering is in this world, and he is right that it governs everything
+downstream - the blade, the paper mill, the publishing, what the city was.
+DECIDED: a world that has forgotten how to do big things and kept every small
+one. Full detail in story-bible.md section 3.
+Why this shape and not the obvious alternatives: it explains everything already
+on the page without a retcon. The aqueduct stands and nobody can repair it.
+Forty houses cannot be organised into anything. A dead city sits an hour up the
+road untouched for eight hundred years.
+AND IT MAKES THE PROTAGONIST COHERENT. If the world had lost technique, his edge
+would be knowledge, and the book becomes a man from the future explaining
+gunpowder to peasants, which is a different and worse book. Because the world
+lost ADMINISTRATION instead, his edge is the one thing he genuinely has -
+nineteen years of making people who each know their job into one thing that
+works. He invents nothing for the whole book. He organises.
+Water power is in, deliberately, because the paper mill needs it and because it
+keeps his industry a matter of arrangement rather than invention.
+
+
 === Chapter 17 got louder and then had to be split ===
 The author: too little talking from Gaara and not nearly suggestive enough. Both
 true, and the back half was the worst of it - it went solemn the moment Bern was

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 18 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 26.475 Woerter.
+Alle 4 Dokumente am Stueck. 27.623 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -406,6 +406,13 @@ LIMIT rather than a gain: the panel has nothing whatsoever to say about an open
 fracture, and the man who has been right about everything for six days is
 reduced to being the weight that holds a patient down.
 
+Chapter 17, correction entered after the fact: IMPROVISED WEAPON HANDLING RANK E
+fires in the same window as the level up. The ch2 condition (two kills with a
+category of weapon, both against superior opponents) was met by the ch16 five on
+the windlass and the ch17 Roofwalker, both taken with the same wedge iron. He now
+carries Dagger Mastery D and Improvised Weapon Handling E, and owns neither a
+dagger nor the bar.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -518,6 +525,42 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The wedge iron had earned a skill and I had not paid it ===
+The author caught it: if two kills with a short blade bought Dagger Mastery E in
+ch2, then two kills with the wedge iron buy something too, or the system is
+inconsistent. He is right, and the text had already laid the evidence twice in
+near-identical words - ch16 and ch17, same bar, same seam, four strokes, both
+against opponents above his level.
+It fires in ch17's window and not later, because ch2's fired at the kill.
+THE NAME MATTERS MORE THAN THE MECHANIC. Not Blunt Weapon Mastery, which would
+only say he swings a club. IMPROVISED WEAPON HANDLING says what six days of
+watching him actually shows: he has never once fought with a weapon. Dead man's
+knife, obsidian shard, borrowed bar. It is his character as a game mechanic, and
+the ch2 joke lands a second time - a job title and no equipment.
+It does not defuse the smith. Rank E improvised is worth far less than Rank D
+dagger, so he still needs the blade. What it adds is a fork he cannot afford
+both sides of, and he will choose against the truer half of himself.
+
+=== The technological level, closed at last (thread 12) ===
+The author: the plan for 19 to 21 is fine, but he still does not know how good
+the engineering is in this world, and he is right that it governs everything
+downstream - the blade, the paper mill, the publishing, what the city was.
+DECIDED: a world that has forgotten how to do big things and kept every small
+one. Full detail in story-bible.md section 3.
+Why this shape and not the obvious alternatives: it explains everything already
+on the page without a retcon. The aqueduct stands and nobody can repair it.
+Forty houses cannot be organised into anything. A dead city sits an hour up the
+road untouched for eight hundred years.
+AND IT MAKES THE PROTAGONIST COHERENT. If the world had lost technique, his edge
+would be knowledge, and the book becomes a man from the future explaining
+gunpowder to peasants, which is a different and worse book. Because the world
+lost ADMINISTRATION instead, his edge is the one thing he genuinely has -
+nineteen years of making people who each know their job into one thing that
+works. He invents nothing for the whole book. He organises.
+Water power is in, deliberately, because the paper mill needs it and because it
+keeps his industry a matter of arrangement rather than invention.
 
 
 === Chapter 17 got louder and then had to be split ===
@@ -1512,6 +1555,24 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   RECKON IN GOATS, NOT COINS, whenever a villager prices anything. Coins are
   what a stranger carries. Livestock is what Oldstep actually counts in.
 
+- (ch17) IMPROVISED WEAPON HANDLING, RANK E, and it is the second job title the
+  world has issued him with no equipment attached. The ch2 rule fired again on
+  the same terms: TWO kills with the same class of thing, both above his level.
+  A five on the windlass in ch16 and the Roofwalker in ch17, both with the same
+  eighteen inch wedge iron, both opened at a seam in four strokes.
+  WHAT IT ACTUALLY SAYS ABOUT HIM is the point. The panel has watched six days
+  and filed him correctly: not a swordsman, not a knife man, a man who picks up
+  whatever is lying there. It is his character rendered as a mechanic, and the
+  bar in his hand is not even his - it belongs to Hallvard.
+  AND IT SETS A FORK HE CANNOT AFFORD BOTH SIDES OF. Advancement through use.
+  Keep the iron and improvised ranks up while Dagger D rots; buy the blade and
+  improvised dies on the vine. He will take the blade, because he is not
+  sentimental, and the reader gets to watch him ignore the truest thing the
+  world has ever told him about himself.
+  MECHANICAL RULE NOW FIXED: two kills with a category of weapon, against
+  superior opponents, buys Rank E. It has happened twice on identical terms and
+  is no longer a one-off. Do not let a third category appear by accident.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1537,7 +1598,48 @@ That is consistent with ch3 (nothing a competent Roman would find surprising)
 and it raises the floor: these people could measure, survey and cast or forge at
 scale. It says nothing yet about magic.
 
-OPEN, to be discovered in-story (not pre-legislated): how far the tech level really goes, and how technology and magic mix. There is no established "science plus magic" balance yet; that is the author's leaning, not canon. Guardrail while it is open: no casual industrial anachronism (Gaara does not offhandedly build a steam engine); if advanced tech or printing enters, it enters deliberately and on the page, framed as hand-tools plus magic. See section 7 and threads 13.
+DECIDED (author, ch18 discussion), and it closes thread 12. THE ONE SENTENCE:
+THIS IS A WORLD THAT HAS FORGOTTEN HOW TO DO BIG THINGS AND KEPT EVERY SMALL
+ONE. Nothing has been lost from the workshop. Everything has been lost from the
+office.
+
+WHAT THE PRESENT DAY HAS, and all of it is good:
+- Bloomery iron in every village. Steel is a smith's craft, slow and expensive,
+  which is why a fighting blade costs four goats and a table knife costs almost
+  nothing.
+- WATER POWER. Grain mills on streams, with gearing, and a wheel-driven hammer
+  wherever anybody has bothered. THIS IS THE MOST IMPORTANT SINGLE FACT for
+  Gaara's long game, because a mill is the ancestor of every machine he could
+  ever want, and a paper mill is a grain mill with different hardware.
+- Rope, cooperage, tanning, the loom, timber frame, drystone, harness, the cart.
+  Anything one person and a fire can make, they make well and have for centuries.
+- Lime, mortar, the arch, a vault big enough for a village bridge. Nothing that
+  spans.
+- Glass exists in towns and is expensive. Not in a village window.
+- No paper anywhere (see section 7). Parchment, wax, slate.
+- NO PRINTING, and not because it is impossible. There is nothing to print on
+  and nobody to sell to. The press is downstream of the paper mill, and both are
+  downstream of a market that does not exist yet.
+- They can lay out a field and a house. Nobody in the settled country could
+  survey a gradient over a mile.
+
+WHAT THE DEAD CITY HAD was every one of the above PLUS ORGANISATION: surveyed
+gradients, cast sluice gates, hundred-foot arches, streets on a plan. The
+difference was never knowledge. It was a hundred men agreeing for ten years.
+
+THEREFORE - and this is why the rule is load-bearing rather than decorative -
+WHAT THE WORLD LOST IS ADMINISTRATION, AND ADMINISTRATION IS THE ONLY THING
+GAARA HAS. He cannot invent anything. He is not smarter than a smith and knows
+less than any farmer about a field. What he can do is take six people who each
+know their own job and make them into one thing that works, which is exactly
+what he did from ch14 to ch17. The aqueduct stands unrepairable an hour up the
+road as a permanent statement of what is missing, and what is missing is not a
+technique.
+
+GUARDRAIL, UNCHANGED AND NOW BETTER FOUNDED: no industrial anachronism. He never
+offhandedly builds a steam engine. He does not need to, and reaching for one
+would break the premise, because his edge is coordination and not knowledge.
+Magic's part in any of it stays open (thread 3).
 
 The ruined city (unnamed) (ch1 from inside, ch3 revealed as a whole city)
 - Not a building: a whole city, streets and avenues, drowning in forest.
@@ -1913,7 +2015,10 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     In ch8, in the tube, he assigns Marit a slot and takes the other himself, on
     purpose, and likes none of the arithmetic. The cost came before the choice,
     which is the right way round.
-12. The world's technological level, and whether printing exists. He has still
+12. CLOSED (ch18 discussion). See section 3: handwork intact, water power yes,
+   paper no, printing no, and the thing the world lost is administration
+   rather than technique. Superseded wording kept below for the record.
+   OLD: The world's technological level, and whether printing exists. He has still
     not seen a book, a page, or a written word in anybody's hands. Feeds the
     long game (section 7). The channel in ch8 is the first hard evidence and it
     is civil engineering, not magic.

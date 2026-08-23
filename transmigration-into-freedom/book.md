@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-18 Kapitel. 37.257 Woerter.
+18 Kapitel. 37.437 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -24,7 +24,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
 | 16 | Chapter 16: Something Is Drinking It | 2.354 |
-| 17 | Chapter 17: Who Gets the Kill | 2.186 |
+| 17 | Chapter 17: Who Gets the Kill | 2.366 |
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 
 ---
@@ -3873,6 +3873,23 @@ Unspent Attribute Points: 6
 He stood in the avenue of a dead city with his shoulder going numb and read that twice.
 
 One kill. A nine, taken at four, and it had been worth more than the eleven before it put together. The rule he had worked out in a tunnel held, and it held generously, and there was a version of the next month that consisted of nothing but finding things far too large for him and being extremely careful.
+
+Then something moved in the corner of the window, and he pulled it forward.
+
+[ SKILL ACQUIRED ]
+
+Improvised Weapon Handling, Rank E
+Conditions met: two kills achieved with an object not made to be a weapon, both against opponents above your level.
+Passive. Improves grip, balance and target selection with objects not made to be weapons.
+Rank E is the lowest recorded proficiency. Advancement through use.
+
+A five on a windlass with a bar of soft iron. A nine in a street with the same bar. Something had been watching both times and writing it down.
+
+Not a swordsman. Not a knife man. A man who picks up whatever is lying there and goes looking for the seam in it.
+
+"That," he said, to nobody at all, "is the most accurate thing you have ever said to me, and I resent every word of it."
+
+Because it came with the other half, the way the first one had. Two job titles now, and he still did not own a weapon, and the bar in his hand belonged to Hallvard.
 
 Forty feet down the road, four people were carrying Bern on a door.
 
