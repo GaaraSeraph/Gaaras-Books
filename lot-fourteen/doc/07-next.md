@@ -205,7 +205,23 @@ Bezahlung. Die Bitte steht weiter offen.
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
 10. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
-Erst danach die Blöcke F bis J, und zwar mit Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt, an der die beiden nebeneinander gut sind.
+**Hier stand bis zum 23.08.:** *"Erst danach die Blöcke F bis J, und zwar mit
+Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt."*
+**Das war zu diesem Zeitpunkt drei Monate Erzählzeit überholt.** Der Bruch ist am
+27. November gefallen, Tag 55, Kapitel 22 bis 24 — Salon, Mauer, Brücke, alles in
+derselben Nacht. Block F ist aufgelöst, Block G, I und J sind geschrieben, Block H
+ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/06-plot.md` ist ab
+hier vollständig Herkunftsnotiz.
+
+**Und das ist die eigentliche Auskunft dieser Liste:** Der Geschäftsstrang ist
+gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Choi
+Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
+schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
+
+**Offen ist genau eine Sache, und sie kann scheitern:** was Georgij will. Er ist
+zweimal danach gefragt worden — von Ye-rin am 16. Dezember und von Annie noch
+am selben Abend — und hat es beide Male nicht gesagt. Annie hat **März** darauf
+gesetzt. Die Antwort ist das Register, und das Buch heißt danach.
 
 ---
 

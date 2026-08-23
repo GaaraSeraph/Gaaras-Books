@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 72.089 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 72.577 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -80,8 +80,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Lücke: Tag 45](#die-l-cke-tag-45)
   - [Block D - Frühstück **[ÜBERHOLT]**](#block-d-fr-hst-ck-berholt)
   - [Block E - Kang Ji-hoon **[TEILS GESCHRIEBEN, Kapitel 12]**](#block-e-kang-ji-hoon-teils-geschrieben-kapitel-12)
-  - [Block F - Arbeitszimmer **[OFFEN]**](#block-f-arbeitszimmer-offen)
-  - [Block G - Der Bruch **[OFFEN]**](#block-g-der-bruch-offen)
+  - [Block F - Arbeitszimmer **[AUFGELOEST, nicht geschrieben]**](#block-f-arbeitszimmer-aufgeloest-nicht-geschrieben)
+  - [Block G - Der Bruch **[GESCHRIEBEN, Kapitel 22 bis 24]**](#block-g-der-bruch-geschrieben-kapitel-22-bis-24)
   - [Block I - Die Mauer **[GESCHRIEBEN, Kapitel 22]**](#block-i-die-mauer-geschrieben-kapitel-22)
   - [Block J - Mapo-Bruecke **[GESCHRIEBEN, Kapitel 23]**](#block-j-mapo-bruecke-geschrieben-kapitel-23)
 - [Naechste Schritte und offene Faeden](#naechste-schritte-und-offene-faeden)  ·  `doc/07-next.md`
@@ -2347,8 +2347,8 @@ Plan geaendert.
 | C | Die Gala | Kapitel 7, 8, 9, 10, 11 |
 | D | Frühstück mit Hana | überholt durch Kapitel 14 und 15 |
 | E | Kang Ji-hoon | Anruf in Kapitel 12, Abendessen offen |
-| F | Arbeitszimmer | offen |
-| G | Der Bruch | offen |
+| F | Arbeitszimmer | **aufgeloest**, der Stoff ist ueber 20, 24 und 33 verteilt |
+| G | Der Bruch | **geschrieben, Kapitel 22 bis 24**, Tag 55 |
 | H | ~~Der Garten~~ | **gestrichen am 22.08.**, siehe `doc/08-decisions.md` |
 | I | Die Mauer | **geschrieben, Kapitel 22** |
 | J | Mapo-Bruecke | **geschrieben, Kapitel 23** |
@@ -2511,7 +2511,29 @@ Zweitens: Kang wirkt **nicht hellseherisch**. Der Grund für den Anruf ist im Te
 
 **Bleibt gültig:** Dass Kang parallel mit Do-yun isst, erfährt Georgij nicht per anonymer SMS, sondern weil er wissen wollte, wo Kang an diesem Abend war, und weil ein Restaurant Reservierungen führt wie jedes andere. Das passt jetzt zusätzlich, weil er dasselbe Verfahren in Kapitel 13 bereits einmal vorgeführt hat, an einem Mietwagen, einem Facility-Supervisor und einer laminierten Liste neben einem Wasserkocher.
 
-### Block F - Arbeitszimmer **[OFFEN]**
+### Block F - Arbeitszimmer **[AUFGELOEST, nicht geschrieben]**
+
+**Der Block ist nie als Szene entstanden und braucht keine mehr.** Sein Stoff ist
+ueber drei Kapitel gegangen, und jedes Mal besser als hier geplant:
+
+- *Das Ergebnis auf den Schreibtisch, ein Datum und ein Ort* - **Kapitel 20**, das
+  gefaltete Blatt und der vierte Termin, den keiner nennt, dazu ihre eine Frage.
+- *Der Name als absichtlicher Regelbruch* - **Kapitel 24**, nach dem Wurf, und der
+  Weg dorthin geht ueber den Entzug der Anrede in Kapitel 23. Der Plan hier haette
+  ihn billiger bekommen.
+- *Das Ritual "War ich nuetzlich?"* - **Kapitel 33**, als Letztes, was Georgij an
+  diesem Tag noch sagt. Und Annie bestaetigt es **nicht** einfach, wie es hier steht:
+  *"You were useful in November. ... That is the whole of what the word covers."* und
+  danach *"It is also not the question you asked me."*
+- *Die Fernbedienung in der Schublade* - erledigt in **Kapitel 22 und 24**, und sie
+  liegt am Ende im Han.
+
+**Nicht gefallen und auch nicht mehr noetig:** *"Verwechseln Sie Nuetzlichkeit nicht
+mit Loyalitaet. Ein Werkzeug ist nuetzlich, bis es kaputt geht."* Das war als Ladung
+fuer den Bruch gedacht. Der Bruch ist ohne sie ausgekommen, und Kapitel 33 sagt
+dasselbe von der anderen Seite und ohne Drohung.
+
+Alles Folgende ist Herkunftsnotiz.
 
 Rohmaterial Szene 8.
 
@@ -2527,7 +2549,16 @@ Georgijs Ritual: "War ich nützlich?" Sie bestätigt es. Dann sagt er ihren Name
 
 Ende der Szene: Er trägt sie hinaus. Was danach kommt, wird nicht gezeigt.
 
-### Block G - Der Bruch **[OFFEN]**
+### Block G - Der Bruch **[GESCHRIEBEN, Kapitel 22 bis 24]**
+
+**Erledigt am 27. November, Tag 55, und alles drei in derselben Nacht**, genau wie
+der Plan darunter es verlangt: der Bruch im Salon vor Sang-hoon (Kapitel 22), die
+Mauer im selben Kapitel, die Mapo-Bruecke und der Beton (Kapitel 23), der Wurf und
+der Name (Kapitel 24). Was darunter steht, ist ab hier Herkunftsnotiz und kein
+Vorhaben. **Hier stand bis zum 23.08. `[OFFEN]`, und in der Tabelle darueber
+ebenfalls** - drei Monate Erzaehlzeit nachdem der Block geschrieben war. Wer danach
+geplant hat, hat den teuersten Teil des Buchs vor sich gewaehnt, obwohl er hinter
+ihm lag.
 
 **Tempo.** In der Vorlage laufen Bett, Bruch, Garten, Mauer, Brücke und Versöhnung in einer Nacht ab, und das ist der Grund, warum dort nichts trägt: **sechs Stationen**. Bei uns liegt der Bruch später und der Garten ist gestrichen, es sind also **drei** - Bruch, Mauer, Brücke.
 
@@ -2957,7 +2988,23 @@ Bezahlung. Die Bitte steht weiter offen.
     **Der Leser weiß also seit Kapitel 12, dass sie etwas hält**, und weiß seit Kapitel 6, dass ein Junge aus einem Katalog verschwunden ist. Was er nicht hat, ist die Verbindung: dass beides an einem Abend beschafft wurde und dass der Kauf keine Gnade war. Wenn das aufgeht, gehen beide Hälften zusammen auf, und die Erleichterung darüber, dass der Junge nicht verkauft wurde, muss im selben Satz kassiert werden.
 10. **Die Pipeline.** Kanon in `doc/04-world.md`, im Text noch nicht ausgesprochen, und wenn sie ausgesprochen wird, darf sie keine Erleichterung sein.
 
-Erst danach die Blöcke F bis J, und zwar mit Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt, an der die beiden nebeneinander gut sind.
+**Hier stand bis zum 23.08.:** *"Erst danach die Blöcke F bis J, und zwar mit
+Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt."*
+**Das war zu diesem Zeitpunkt drei Monate Erzählzeit überholt.** Der Bruch ist am
+27. November gefallen, Tag 55, Kapitel 22 bis 24 — Salon, Mauer, Brücke, alles in
+derselben Nacht. Block F ist aufgelöst, Block G, I und J sind geschrieben, Block H
+ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/06-plot.md` ist ab
+hier vollständig Herkunftsnotiz.
+
+**Und das ist die eigentliche Auskunft dieser Liste:** Der Geschäftsstrang ist
+gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Choi
+Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
+schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
+
+**Offen ist genau eine Sache, und sie kann scheitern:** was Georgij will. Er ist
+zweimal danach gefragt worden — von Ye-rin am 16. Dezember und von Annie noch
+am selben Abend — und hat es beide Male nicht gesagt. Annie hat **März** darauf
+gesetzt. Die Antwort ist das Register, und das Buch heißt danach.
 
 ---
 
