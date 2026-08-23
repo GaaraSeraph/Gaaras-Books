@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-25 Kapitel. 54.832 Woerter.
+25 Kapitel. 54.863 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -31,7 +31,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
 | 23 | Chapter 23: Two Coins Short | 2.531 |
-| 24 | Chapter 24: Somebody Has to Look at Him | 2.728 |
+| 24 | Chapter 24: Somebody Has to Look at Him | 2.759 |
 | 25 | Chapter 25: The First of Four | 1.611 |
 
 ---
@@ -5476,7 +5476,15 @@ They were four streets from the gate when he stopped again.
 
 "You have that face."
 
-"I have a very good face and it has never once been the problem."
+"Is it a face you would like to sit on?"
+
+Ylva kept walking.
+
+"Ask me in the spring," she said.
+
+"That is the second time you have used my own arrangement against me and I want it noted that I taught you that."
+
+"You did."
 
 Frida was in the doorway of her own yard with a bucket and no interest in any of them.
 

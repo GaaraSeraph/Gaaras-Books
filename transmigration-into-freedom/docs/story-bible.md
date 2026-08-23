@@ -240,6 +240,16 @@ is not guesswork, because a person in the dark cannot help answering.
   commerce.
   ORDULF IS WHERE THIS BITES FIRST, in ch23, and the note exists so it is not
   written prudent.
+- "IS IT A FACE YOU WOULD LIKE TO SIT ON?" (author, ch24). His standing reply
+  to anybody who tells him he has a face on. Note it is A REAL QUESTION WITH A
+  QUESTION MARK, not one of his flat ones, because he is genuinely offering and
+  the other person genuinely decides.
+  IT PAIRS WITH THE SITTING-ON-HIS-FACE ENTRY BELOW and is the flirt version of
+  the same thing: the offer made as a joke in public, where a no costs nothing
+  and lands as banter. The serious version stays private and unhurried.
+  YLVA'S ANSWER IN ch24 IS THE MODEL FOR HOW IT GETS BATTED BACK: "Ask me in
+  the spring," without breaking stride, which turns his own ch22 arrangement
+  against him for the second time. He notes that he taught her that.
 - THE IMAGES HE WANTS AVAILABLE (author). Four of them, and each one carries a
   REGISTER TAG, because the reason the scenes have stayed distinct so far is that
   each has a governing sense. Dropping a wide open unhurried image into a four
