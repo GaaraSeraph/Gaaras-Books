@@ -3,6 +3,33 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The scenes were repeating each other, measured rather than guessed ===
+Author: stop reusing the wording of earlier sex scenes. He was right, and the
+way to find out was to pull the three passages and diff their four-word phrases.
+TEN shared phrases. The worst was a near-identical exchange in ch13 and ch20
+before the oral, down to "What are you doing" and "I do not know what". Also
+shared: a hand in the hair and the other somewhere, saying his name, a hand that
+is put somewhere and left there, "days reading a panel", and "took his time".
+THE FIX WAS STRUCTURAL AND NOT COSMETIC. Each scene now has its own governing
+sense. ch13 is inventory in a lit bedroom. ch16 is speed and acoustics in a
+stone tube. ch20 is HEARING, because a forge has no window and there is no light
+in it at all, so he works by breathing. That last one was sitting in the world
+detail the whole time and was not being used.
+Down to two ordinary connectives. The method is written into the bible.
+
+=== The four words ===
+The best thing the author has handed me for this character. Before he goes down
+on a woman he issues a vocabulary: SLOWER, FASTER, HIGHER, LOWER. No explaining,
+no stopping to ask, no discussion afterwards.
+It is the entire man in one move. He does not guess and he does not perform. He
+installs a control, hands it over, and then obeys it inside half a second, which
+is also the only thing he has ever been able to offer anybody: he pays attention
+and he does what the data says.
+IT GOES IN ch13, day three, because it has to be the first time. Marit takes a
+while to use one, uses slower, notices that he obeys instantly, and gets through
+the other three before she is done with him. It is never reprinted in full.
+
+
 === He talks too much in bed, and one of those times was a contradiction ===
 Author, on ch20: why is it the first time he shuts up. It was not, and the book
 counts it. ch10 was the first ("Now, about the trousers"), ch13 the second and

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-20 Kapitel. 42.428 Woerter.
+20 Kapitel. 42.696 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -20,14 +20,14 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 10 | Chapter 10: The Price Went Up | 1.941 |
 | 11 | Chapter 11: Nobody Carries a Stick | 1.691 |
 | 12 | Chapter 12: For the Record | 2.127 |
-| 13 | Chapter 13: The Cost of Shutting a Door | 2.573 |
+| 13 | Chapter 13: The Cost of Shutting a Door | 2.760 |
 | 14 | Chapter 14: Say It in the Road | 2.693 |
 | 15 | Chapter 15: Two to Four Hard Uses | 2.026 |
-| 16 | Chapter 16: Something Is Drinking It | 2.595 |
+| 16 | Chapter 16: Something Is Drinking It | 2.633 |
 | 17 | Chapter 17: Who Gets the Kill | 2.366 |
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
-| 20 | Chapter 20: Two Arms | 1.869 |
+| 20 | Chapter 20: Two Arms | 1.912 |
 
 ---
 
@@ -2838,9 +2838,11 @@ The arm was the first problem and it was not a small one. She had barbs across t
 
 She let him.
 
-He took his time about it. He had never in his life been able to do a thing quickly that was worth doing slowly, and he had spent three days reading a panel that gave him numbers and nothing that mattered. There was no number over any of this. He had to find it out.
+He had spent three days being handed information about this world in writing. None of it had covered anything he wanted to know now. There was no number over any of this and no window that would open on it, and the only way to have it was to work it out from scratch.
 
-So he found it out. The inside of her wrist, above where the strapping started. The base of her throat. The place behind her ear where her jaw met her neck, which made her hand close hard in the blanket. The back of her knee, which surprised her considerably more than it surprised him.
+So he worked it out. The inside of her wrist, above where the strapping started. The base of her throat. The place behind her ear where her jaw met her neck, which shut her good hand hard in the blanket. The back of her knee, which surprised her a great deal more than it surprised him.
+
+He spent longer on her breasts than she had allowed for. She had a commentary running when he started and she did not have it by the end, and she never once conceded either of those things out loud.
 
 "How do you know that," she said.
 
@@ -2852,19 +2854,25 @@ So he found it out. The inside of her wrist, above where the strapping started. 
 
 He learned the ribs by the sound she made when he came near them, and after that he went round them, and she noticed him going round them and said nothing about it. He kept his weight off her right side for the whole of the night without once mentioning that he was doing it. That was the only tenderness he had that he trusted, because it did not require him to say anything and could not be misheard as a promise.
 
-Then he went lower, and she got a fistful of his hair and stopped him.
+Then he went lower, and she got a fistful of his hair and held on to it.
 
-"What are you doing."
+"What is that."
 
-"Something you can say no to in one syllable, after which I go back to what I was doing and do not sulk."
+"Something nobody in this valley appears to have thought of, which I intend to take up with somebody in the morning." He waited where he was. "One syllable and I go back to what I was doing, and I will not sulk about it."
 
-"I do not know what you are asking me."
+She did not say the syllable.
 
-"I had begun to suspect that," said Gaara, "and it is the worst thing I have learned about this world so far."
+"Then you get four words," said Gaara, "and they are the only four you will ever need from me. Slower. Faster. Higher. Lower."
 
-Her hand opened.
+"What am I supposed to do with four words."
 
-She was quiet for a long time after that, in a way that had nothing to do with being quiet. Then she was not quiet at all. Then she said his name in a voice he had not heard her use about anything.
+"Use them. You will not have to explain yourself and I will not stop to ask."
+
+Her hand came out of his hair and lay flat on the back of his head instead, which he took as the contract being agreed.
+
+It was some time before she used one.
+
+When she did it was slower, said into the dark, in nothing at all like the voice she used for testing people. He did as he was told inside half a second. She noticed that he did. She got through the other three before she had finished with him, and the last one she said twice.
 
 Afterwards she lay with her good arm over her eyes and got her breathing back.
 
@@ -2882,9 +2890,13 @@ There was a considerable amount of laughing at the wrong moments, some of it abo
 
 Then there was not.
 
+
+
 She got him onto his back, because she could manage that one-handed. She told him what she wanted in the flat voice she used for rope and ground and other things she knew about. Then she told him again, harder, and he did what he was told for a considerable length of time. His arms had opinions by the end of it. He ignored them, because the only thing in that room he was interested in was the sound she was making, and he would have gone on until the roof came off.
 
 At one point she told him to stop talking, and he did, which had now happened exactly twice in his life and both times in this village.
+
+Afterwards he did not get up and he did not go anywhere, and it turned out that she had been braced for both. He got the blanket over her and got himself round the side of her that had nothing wrong with it, and stayed there. She was rigid about it for perhaps a minute. Then she was not.
 
 Afterwards he lay in the dark with the panel hanging at the edge of his vision the way it always hung there, and he looked at it, and it said what it always said.
 
@@ -3575,17 +3587,17 @@ They turned.
 
 She took him up on it at the third rest.
 
-Behind the sledge is eleven feet of wet stone and a stack of bar, and there were seven people forty feet up the tube. A stone tube does things to sound that nobody in it enjoys. So she put her hand over his mouth before anything else happened, and left it there, and inside a minute it turned out to have been the correct order of operations.
+Behind the sledge is eleven feet of wet stone and a stack of bar, and there were seven people forty feet up the tube. A stone tube does things to sound that nobody in it enjoys. So the first thing she did was clamp a palm across his mouth, before anything else at all, and inside a minute that turned out to have been the correct order of operations.
 
-She had him against the bar stack with his shirt shoved up over the strapping. He got one hand into her hair and the other under her belt, and found out quickly that she had been thinking about this since the first rest.
+She had him against the bar stack with his shirt shoved up over the strapping. He got her own shirt open with the hand that was not busy. He spent a portion of his four minutes there that a wiser man would have budgeted elsewhere. It took about nine seconds to establish that she had been thinking about this since the first rest.
 
 "Quiet," she said, into his ear.
 
-He was not quiet. He was as quiet as a man can be with somebody's hand over his mouth, which is not very, and she told him so afterwards at some length.
+He was not quiet. He was as quiet as a man can be with somebody's hand over his mouth, which is not very, and she had a good deal to say about it later.
 
-He got her turned round against the stack and got his own hand where it was wanted, and did not stop when she said his name, and did not stop when she told him to be quick. He was told a third time and ignored that as well. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
+He got her turned round against the stack and got his hand where it was wanted, and ignored her when she told him to be quick, and ignored her the second time as well. The third time she stopped telling him and started making a sound instead, low down and behind her teeth, and that was the one he had been working for. Four minutes is four minutes, and he spent three of them on her, and was entirely unrepentant about the arithmetic.
 
-The last of it was fast and it was not gentle. She bit down on the heel of her own hand rather than make the sound the tube would have carried, and stood afterwards with her forehead against the cold bar for a moment longer than she needed to.
+The last of it was fast and it was not gentle. She bit down on the heel of her own hand rather than make the sound the tube would have carried, She stood with her forehead against the cold bar for a moment longer than the job required.
 
 "Four minutes," said Marit afterwards, seeing to her belt.
 
@@ -4417,7 +4429,7 @@ Sivert decided.
 
 After that Gaara did the only thing he had ever been genuinely good at, which was pay attention.
 
-He had spent nineteen years reading people for a living and six days reading a panel, and both of those were guesswork next to a person in the dark who cannot help answering. He found the place under the jaw where the pulse came up and stayed there until Sivert's hands closed on the bench behind him. He found the hollow inside the elbow. He found the seam of his hip, and the small of his back. And a spot two inches below the ear that made Sivert swear in a farm accent so broad that Gaara had to stop, and put his forehead against his shoulder, and get himself back under control.
+There was no light in that shed at all, which turned out not to be a problem, because he had never needed to see any of this. He worked by ear. Sivert's breathing did one thing at the hollow of the elbow and something else entirely at the small of his back. The difference was as legible as print to a man who had spent a whole life listening to people give themselves away in meetings. Two inches below the ear he got swearing, in a farm accent so broad that Gaara had to stop and put his forehead against a shoulder until he could carry on.
 
 "What," said Sivert.
 
@@ -4429,7 +4441,7 @@ He had spent nineteen years reading people for a living and six days reading a p
 
 "Shut up."
 
-He mapped him the way he had once read a balance sheet, which is to say completely, and with no interest whatsoever in the parts that were meant to be interesting. Sivert had come in expecting something quick against a wall, because that was the whole of what the back of a barn in this valley had ever offered anybody. He got a man kneeling in front of him on the packed earth floor of a forge, taking his time.
+He went over him the way he had once gone over a set of accounts, which is to say completely, and with no interest at all in the parts that were meant to be interesting. Sivert had come in expecting something quick against a wall, because that was the whole of what the back of a barn in this valley had ever offered anybody. He got a man kneeling in front of him on the packed earth floor of a forge, taking his time.
 
 Somewhere in it Gaara found the forearm in the dark and went careful with it without meaning to, because the new skin was under his thumb, pink and thin and half a week old.
 
@@ -4449,7 +4461,7 @@ And then Gaara went lower, and there was a pause of a very particular kind.
 
 "It is not a no," said Sivert.
 
-It took a while for him to be able to say anything after that, and when he could, what he said was Gaara's name, twice, and then nothing that was a word at all. He had one hand in Gaara's hair and the other flat against the wall behind him and he had stopped being able to stand up properly some minutes earlier.
+The noise he made was not one Gaara had heard from him or from anybody else, and it went on longer than seemed reasonable, and it stopped resembling language fairly early. He had one hand in Gaara's hair and the other flat against the wall behind him and he had stopped being able to stand up properly some minutes earlier.
 
 Gaara, for his part, was having the best morning he had had in two lifetimes, and would have said so if his mouth had been free.
 
@@ -4479,9 +4491,11 @@ Then he got a hand over Gaara's mouth and left it there.
 
 Marit had done that in a stone tube six days earlier and it had been about the acoustics. This was not about the acoustics.
 
-He had been told to be quiet twice in two lifetimes and had managed it both times, and had been quietly pleased with himself about it. Nobody was telling him now. He handed it over instead, and liked that a great deal more than being asked, and was going to have to think about it later. Gaara gave him exactly what he had asked for. He kept giving it long past the point where his own arms had opinions about it, because the whole object of the exercise, as far as he was concerned, was the noise Sivert made.
+He had been told to be quiet twice in two lifetimes and had managed it both times, and had been quietly pleased with himself about it. Nobody was telling him now. He handed it over instead, and liked it considerably better than being asked, and was going to have to think about that later. Gaara gave him exactly what he had asked for. He kept giving it long past the point where his own arms had opinions about it, because the whole object of the exercise, as far as he was concerned, was the noise Sivert made.
 
 Afterwards they lay on the floor of a dead man's forge on Gaara's cloak and a sack, and it was still dark, and neither of them made any move to go anywhere.
+
+Sivert had clearly expected to be got rid of, and had a whole face arranged for it. Gaara pulled the cloak over the pair of them and put an arm across him and went nowhere, and the face came apart, and neither of them said one word about that either.
 
 He did not check the panel. It did not occur to him to.
 

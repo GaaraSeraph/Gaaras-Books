@@ -150,6 +150,29 @@ is not guesswork, because a person in the dark cannot help answering.
 - HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
   man who runs every room by talking goes quiet and lets somebody else set the
   pace, and it lands hard enough that he notes it for later thought.
+- HE STAYS AFTERWARDS, AND IT COSTS HIM NOTHING AND MEANS EVERYTHING. Blanket
+  over, arm across, no getting up, no leaving. Both partners so far have braced
+  for being got rid of and neither of them has said a word about not being.
+  This is not a soft beat: it is the same man who could not be given anything
+  in his old life discovering that he can give this away for free.
+- HE LEADS, MOSTLY. He sets the pace, he decides the order, he is the one paying
+  attention. BUT HE IS NOT RIGID ABOUT IT, and handing it over is a real move he
+  makes rather than a thing that happens to him. See the silence ledger below.
+- BREASTS. He loves them, he spends real time there, and it is never one item in
+  a list. Give it its own beat and let it cost him minutes he did not have.
+  He likes an arse as well, at ordinary enthusiasm.
+- THE NOISES ARE THE POINT. He is not working for a result, he is working for the
+  sound, and he says so and behaves so. That is the load-bearing sentence in
+  every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER
+  PERSON MAKES. He also specifically likes what a throat does around him.
+- THE FOUR WORDS, established ch13 with Marit and now his standing practice with
+  women. Before he goes down on somebody he hands over the vocabulary:
+    SLOWER. FASTER. HIGHER. LOWER.
+  No explaining, no stopping to ask, no negotiation afterwards. It is the whole
+  character in one move - he does not guess, he does not perform, he installs a
+  control and then does exactly what he is told inside half a second.
+  DO NOT REPRINT THE FOUR WORDS IN FULL AGAIN. It happened once, on the page,
+  and from here it is referenced in a word or used silently.
 - AND HE TALKS LESS IN BED THAN ANYWHERE ELSE, which is itself the tell
   (author, after ch20). This is NOT the solemnity drift the book keeps
   catching. He is still funny and still filthy. But he is doing something he
@@ -157,6 +180,21 @@ is not guesswork, because a person in the dark cannot help answering.
   state does not narrate. FEWER LINES AND SHARPER ONES. If a speech in a bed
   runs past two sentences, cut it to one. The commentary belongs before and
   after, not during.
+
+  NO SCENE REPEATS ANOTHER SCENE'S WORDING, and this is checked rather than
+  hoped for. Every one of these has its own vocabulary and its own structure:
+    ch13  INVENTORY. A bed, light, one working arm. He catalogues her, named
+          place by named place, because it is the first time and he has nothing
+          to go on. This is where the four words are issued.
+    ch16  SPEED. Four minutes, seven people forty feet up a stone tube, her palm
+          across his mouth as the opening move. Acoustics govern everything.
+    ch20  HEARING. A forge has no window, so there is no light at all, and he
+          works entirely by ear. No catalogue. Breathing, and what it does in
+          different places.
+  METHOD: pull the scenes and diff their four-word phrases before shipping. That
+  is how ten shared phrases were found and cut to two ordinary ones. Watch in
+  particular: hair, name, the hand that stays, "took his time", "the sound she
+  made", and any exchange that starts "What are you doing."
 
   THE SILENCE LEDGER, and it is a continuity trap because it is counted on
   the page. He has stopped talking exactly three times:

@@ -12,14 +12,14 @@ ch09    1571 Woerter  ch09-what-the-panel-will-not-say.md
 ch10    1941 Woerter  ch10-the-price-went-up.md
 ch11    1691 Woerter  ch11-nobody-carries-a-stick.md
 ch12    2127 Woerter  ch12-for-the-record.md
-ch13    2573 Woerter  ch13-the-cost-of-shutting-a-door.md
+ch13    2760 Woerter  ch13-the-cost-of-shutting-a-door.md
 ch14    2693 Woerter  ch14-say-it-in-the-road.md
 ch15    2026 Woerter  ch15-two-to-four-hard-uses.md
-ch16    2595 Woerter  ch16-something-is-drinking-it.md
+ch16    2633 Woerter  ch16-something-is-drinking-it.md
 ch17    2366 Woerter  ch17-who-gets-the-kill.md
 ch18    2071 Woerter  ch18-somebody-has-to-hold-him.md
 ch19    2239 Woerter  ch19-a-name-for-the-knife.md
-ch20    1869 Woerter  ch20-two-arms.md
+ch20    1912 Woerter  ch20-two-arms.md
 
-Gesamt: 20 Kapitel, 42428 Woerter
+Gesamt: 20 Kapitel, 42696 Woerter
 Handbuch: 4 Dokumente

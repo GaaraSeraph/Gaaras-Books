@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 32.284 Woerter.
+Alle 4 Dokumente am Stueck. 33.098 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,33 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The scenes were repeating each other, measured rather than guessed ===
+Author: stop reusing the wording of earlier sex scenes. He was right, and the
+way to find out was to pull the three passages and diff their four-word phrases.
+TEN shared phrases. The worst was a near-identical exchange in ch13 and ch20
+before the oral, down to "What are you doing" and "I do not know what". Also
+shared: a hand in the hair and the other somewhere, saying his name, a hand that
+is put somewhere and left there, "days reading a panel", and "took his time".
+THE FIX WAS STRUCTURAL AND NOT COSMETIC. Each scene now has its own governing
+sense. ch13 is inventory in a lit bedroom. ch16 is speed and acoustics in a
+stone tube. ch20 is HEARING, because a forge has no window and there is no light
+in it at all, so he works by breathing. That last one was sitting in the world
+detail the whole time and was not being used.
+Down to two ordinary connectives. The method is written into the bible.
+
+=== The four words ===
+The best thing the author has handed me for this character. Before he goes down
+on a woman he issues a vocabulary: SLOWER, FASTER, HIGHER, LOWER. No explaining,
+no stopping to ask, no discussion afterwards.
+It is the entire man in one move. He does not guess and he does not perform. He
+installs a control, hands it over, and then obeys it inside half a second, which
+is also the only thing he has ever been able to offer anybody: he pays attention
+and he does what the data says.
+IT GOES IN ch13, day three, because it has to be the first time. Marit takes a
+while to use one, uses slower, notices that he obeys instantly, and gets through
+the other three before she is done with him. It is never reprinted in full.
 
 
 === He talks too much in bed, and one of those times was a contradiction ===
@@ -1476,6 +1503,29 @@ is not guesswork, because a person in the dark cannot help answering.
 - HE LIKES BEING RUN. Established ch20 with Sivert's hand over his mouth. The
   man who runs every room by talking goes quiet and lets somebody else set the
   pace, and it lands hard enough that he notes it for later thought.
+- HE STAYS AFTERWARDS, AND IT COSTS HIM NOTHING AND MEANS EVERYTHING. Blanket
+  over, arm across, no getting up, no leaving. Both partners so far have braced
+  for being got rid of and neither of them has said a word about not being.
+  This is not a soft beat: it is the same man who could not be given anything
+  in his old life discovering that he can give this away for free.
+- HE LEADS, MOSTLY. He sets the pace, he decides the order, he is the one paying
+  attention. BUT HE IS NOT RIGID ABOUT IT, and handing it over is a real move he
+  makes rather than a thing that happens to him. See the silence ledger below.
+- BREASTS. He loves them, he spends real time there, and it is never one item in
+  a list. Give it its own beat and let it cost him minutes he did not have.
+  He likes an arse as well, at ordinary enthusiasm.
+- THE NOISES ARE THE POINT. He is not working for a result, he is working for the
+  sound, and he says so and behaves so. That is the load-bearing sentence in
+  every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER
+  PERSON MAKES. He also specifically likes what a throat does around him.
+- THE FOUR WORDS, established ch13 with Marit and now his standing practice with
+  women. Before he goes down on somebody he hands over the vocabulary:
+    SLOWER. FASTER. HIGHER. LOWER.
+  No explaining, no stopping to ask, no negotiation afterwards. It is the whole
+  character in one move - he does not guess, he does not perform, he installs a
+  control and then does exactly what he is told inside half a second.
+  DO NOT REPRINT THE FOUR WORDS IN FULL AGAIN. It happened once, on the page,
+  and from here it is referenced in a word or used silently.
 - AND HE TALKS LESS IN BED THAN ANYWHERE ELSE, which is itself the tell
   (author, after ch20). This is NOT the solemnity drift the book keeps
   catching. He is still funny and still filthy. But he is doing something he
@@ -1483,6 +1533,21 @@ is not guesswork, because a person in the dark cannot help answering.
   state does not narrate. FEWER LINES AND SHARPER ONES. If a speech in a bed
   runs past two sentences, cut it to one. The commentary belongs before and
   after, not during.
+
+  NO SCENE REPEATS ANOTHER SCENE'S WORDING, and this is checked rather than
+  hoped for. Every one of these has its own vocabulary and its own structure:
+    ch13  INVENTORY. A bed, light, one working arm. He catalogues her, named
+          place by named place, because it is the first time and he has nothing
+          to go on. This is where the four words are issued.
+    ch16  SPEED. Four minutes, seven people forty feet up a stone tube, her palm
+          across his mouth as the opening move. Acoustics govern everything.
+    ch20  HEARING. A forge has no window, so there is no light at all, and he
+          works entirely by ear. No catalogue. Breathing, and what it does in
+          different places.
+  METHOD: pull the scenes and diff their four-word phrases before shipping. That
+  is how ten shared phrases were found and cut to two ordinary ones. Watch in
+  particular: hair, name, the hand that stays, "took his time", "the sound she
+  made", and any exchange that starts "What are you doing."
 
   THE SILENCE LEDGER, and it is a continuity trap because it is counted on
   the page. He has stopped talking exactly three times:
