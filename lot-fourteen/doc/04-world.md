@@ -110,6 +110,26 @@ Was Annies Gruppe macht, warum Incheon zaehlt, was die Kims halten, was Hana
 einbringt, und wie der Koeder funktioniert. Das ist die Maschine unter der
 Handlung. Wer eine Verhandlungsszene schreibt, liest sie ganz.
 
+> **Stand am 23.08., und ohne diesen Kasten liest man den Rest falsch.** Alles ab
+> hier beschreibt die **Maschine**, und die stimmt. Es beschreibt sie aber im Futur
+> eines Plans, der **inzwischen ausgefuehrt ist**, und an mehreren Stellen stand
+> deshalb bis heute etwas, das nicht mehr zutrifft.
+> 
+> - **Woo hat zugesagt** (Kapitel 19, 20. November), oeffentlich und auf Papier,
+>   sieben Jahre, Mindestmengen in Tonnen. Die Kuendigungen haben aufgehoert.
+> - **Sang-hoon sitzt in Hanseong fest** (Kapitel 25, 4. Dezember) und hat die
+>   Kim-Logistik nie bekommen.
+> - **Die Kims haben es aus Georgijs Mund** (Kapitel 26, 8. Dezember), in genau den
+>   Worten aus Kapitel 14.
+> - **Ye-rin ist gefragt worden** (Kapitel 30, 16. Dezember, Hanas Terrasse,
+>   zweiundzwanzig Minuten). Der eine Versuch ist ausgegeben und gelungen.
+> - **Unterschrieben ist am 22. Dezember** (Kapitel 32), neun Leute, Ye-rin zuletzt
+>   auf Seite elf.
+> - **Annies Kapital ist im Januar geflossen**, in drei Tranchen (Kapitel 34).
+> 
+> **Wer hier eine Szene ansetzt, setzt sie in Band 2 an.** Was von der Mechanik noch
+> arbeitet, steht in `doc/07-next.md` unter "Was Band 2 mitbekommt".
+
 ### Was Annies Gruppe macht, und was sie wirklich kauft
 
 **Sie ist ein Chaebol, also hat sie mehrere Sparten.** Das ist ausdrücklich so gemeint: Der Konzern hat Zweige, von denen die Geschichte bisher nichts weiß und vorerst nichts wissen muss.
@@ -180,7 +200,9 @@ Deshalb hat in zwanzig Jahren niemand sie zu einer Unterschrift bewegt: **Sie mu
 
 **Was Ye-rin kann und was sie nicht kann.** Solange die sechs bei ihr rückfragen, gibt es keine Mehrheit, und ohne Mehrheit keinen Verkauf. Sang-hoon kann jahrelang Cousins zum Abendessen einladen, und es passiert nichts.
 
-**Aber ihre Macht ist ein Zustand, kein Vertrag.** Sie hält nichts, sie kann nichts sperren, es gibt kein Vetorecht und keine Stimmbindung. Sie hat zwanzig Jahre Gewohnheit, und Gewohnheit hält, solange nichts anderes drückt.
+**Ihre Macht war ein Zustand und kein Vertrag.** Sie hielt nichts, sie konnte nichts sperren, es gab kein Vetorecht und keine Stimmbindung. Sie hatte zwanzig Jahre Gewohnheit, und Gewohnheit hält, solange nichts anderes drückt.
+
+**Seit dem 22. Dezember ist es ein Vertrag.** Die sechs binden ihre 41 Prozent zu einem Block, der Block wird von einer namentlich genannten Person angewiesen, und der Name ist ihrer. **Das ist das erste Dokument in zwanzig Jahren, in dem er steht.** Was oben im Praesens ueber ihre Unsichtbarkeit steht, gilt bis Kapitel 32 und danach nicht mehr - und der Preis dafuer steht mit im Papier: unsichtbar musste Sang-hoon sechs Leute kaufen, aufgeschrieben muss er eine brechen.
 
 **Jetzt drückt etwas.** Der Zoll sitzt im Gebäude, Kunden springen ab, und irgendwann sagt ein Neffe mit vier Prozent, dass er nicht warten will, bis das Ding wertlos ist, während eine Frau mit 1,4 Prozent ihn um Ruhe bittet. Darauf arbeitet Sang-hoon zu. **Er muss sie nicht besiegen. Er muss warten, bis die Familie Angst hat.**
 
@@ -188,9 +210,9 @@ Deshalb ist das dritte Bein des Plans, die Kunden und Woos Name, nicht das schw�
 
 Und deshalb ist Annies Geld nicht bloß eine Bilanz. Es ist die einzige Möglichkeit, den Zustand in ein Papier zu verwandeln. Geben die sechs für das Kapital Anteile und Stimmbindung ab, hört Ye-rins Macht auf, Gewohnheit zu sein, und wird ein Vertrag.
 
-**Der Satz, den Georgij ihr sagen muss**, und der ihn den Zugang kosten kann: Die Familie behält die Firma, Annie bekommt die Kontrolle, und Ye-rin tauscht dafür ihre informelle Macht gegen eine formelle, die einer anderen Frau gehört.
+**Der Satz, den Georgij ihr sagen musste**, und der ihn den Zugang kosten konnte: Die Familie behält die Firma, Annie bekommt die Kontrolle, und Ye-rin tauscht dafür ihre informelle Macht gegen eine formelle, die einer anderen Frau gehört. **Gefallen am 16. Dezember, unter vier Augen, und es hat ihn den Zugang nicht gekostet** - weil die Befuerchtung dahinter falsch war. Sie wartete seit zwanzig Jahren darauf, dass es jemand aufschreibt.
 
-**Kim Do-yun** ist der Mann von innen. Rechte Hand Sang-hoons und selbst ein Kim, also Verrat in der eigenen Familie. Er muss mit auf den Tisch, wenn Georgij mit den Kims spricht, sonst ist das Geld am ersten Tag verloren.
+**Kim Do-yun** war der Mann von innen. Rechte Hand Sang-hoons und selbst ein Kim, also Verrat in der eigenen Familie. Er musste mit auf den Tisch, wenn Georgij mit den Kims spricht, sonst waere das Geld am ersten Tag verloren gewesen. **Erledigt: er sass am 22. Dezember mit am Tisch und hat unterschrieben**, und was er seinem Arbeitgeber danach gemeldet hat, war *"what is in two newspapers"*. In Kapitel 33 bleibt er im Wagen sitzen.
 
 **Woo ist Verbündeter, nicht Gegner.** Alter Logistiker, frisch gebautes Terminal auf Yeongjong, finanziert von jemandem, den er nicht nennt, obwohl er zufrieden mit ihm ist. Man holt ihn an die Seite der Kims, statt ihn aus dem Weg zu räumen.
 
@@ -201,7 +223,7 @@ Und deshalb ist Annies Geld nicht bloß eine Bilanz. Es ist die einzige Möglich
 **Ihr Einsatz: sechzehntausend Quadratmeter Lagerfläche am östlichen Abschnitt in Incheon**, auf ihren eigenen Namen, über elf Jahre gekauft. Deren Wert hängt vollständig am Status des Geländes, den sie letztes Jahr selbst durchgedrückt hat. Bekommt Sang-hoon die Logistik der Kims **und** die Statusänderung für den östlichen Abschnitt, sitzt sie mit Lagerflächen neben einem Mann, der den Verkehr kontrolliert, und ihre Flächen sind das Nächste, was er billig haben will. Sie verteidigt also ihr eigenes Geschäft und kann es nicht allein, weil ihr das Geld fehlt, mit dem Annie die Kims stützt.
 
 **Was sie einbringt.**
-1. **Zugänge.** Genau das, was Georgij dreimal gefehlt hat. Er hat Papier und Räume, sie hat zwanzig Jahre Beziehungen. Sie ist der einzige existierende Weg zu **Kim Ye-rin**, die niemanden empfängt und die Georgij nie getroffen hat. Das ist eine Einführung, keine Erlaubnis, und Einführungen sind bei diesen Leuten die Währung.
+1. **Zugänge.** Genau das, was Georgij dreimal gefehlt hat. Er hat Papier und Räume, sie hat zwanzig Jahre Beziehungen. Sie war der einzige existierende Weg zu **Kim Ye-rin**, die niemanden empfängt. Das ist eine Einführung, keine Erlaubnis, und Einführungen sind bei diesen Leuten die Währung. **Sie hat sie am 16. Dezember gemacht, und damit ist sie verbraucht** - Hana sagt in Kapitel 15 *"Not quickly and not twice. Once."* Wer eine zweite schreibt, schreibt gegen den Text.
 2. **Das Ministerium, defensiv.** Sang-hoon braucht für Incheon eine Statusänderung, die nur über Min-ho geht. Hanas Aufgabe ist, dass sie nicht kommt. Unspektakulär und deshalb richtig, und sie täte es ohnehin für sich.
 
 **Was sie bekommt.** Keine Gefälligkeit, sondern einen **aufschiebend bedingten Mietvertrag**: unterschrieben am Montag nach dem Essen, wirksam an dem Tag, an dem Annies Kapital in die Logistik der Kims fließt. Zwanzig Jahre, Miete fest, Gebäude benannt, und wenn das Geld bis Ende März nicht geflossen ist, verfällt er und niemand erwähnt ihn je wieder.
