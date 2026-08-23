@@ -239,6 +239,28 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
+Ylva, ch21: THE LOFT, and she refuses, and the refusal is hers and not about
+them. One room, three people, straw. Gaara asks once. She notes that he asked
+her once already, in a tunnel, and he agrees it was a worse offer made by the
+man who was telling her where to stand.
+HER REASON IS THE BEST LINE SHE HAS: eighteen years somebody's wife, nine years
+nobody's, four days something else that she cannot name yet. "I am not spending
+it before I have counted it."
+WHY IT IS A NO AND NOT A YES, decided rather than defaulted. Her arc is a woman
+who left a gate she stood behind for twenty years four days ago. Resolving that
+into a bed in the next chapter would spend it. And her ch16 no was called the
+cleanest he had ever had; reversing it four chapters later would cheapen the
+thing the book valued about her.
+AND IT IS NOT CLOSED. "Ask me in the spring." "I do not ask twice." "I know.
+That is why I said it." She uses his own rule to tell him she will be the one
+who comes, which is now the pattern of this book: he asks once and people come
+back to him in their own time. Same shape as Sivert's two arms.
+
+Sivert, ch21: "I would have said yes," said to the roof, and it is the whole of
+his contribution and it is enough. He is answered with the only tenderness
+Gaara can do out loud: "You are the only uncomplicated thing in this town and I
+intend to be extremely careful with you."
+
 Egil, captain, Level 15 (ch21)
 - Runs a company that comes in off jobs and counts silver on a table. Says "No"
   before Gaara has said anything, on the correct assumption that a stranger at

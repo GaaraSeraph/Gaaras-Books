@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 21 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 45.361 Woerter.
+Alle 4 Dokumente am Stueck. 45.987 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -255,6 +255,28 @@ The six (ch14, blooded ch15)
   all week.
 
 THE WOLD
+
+Ylva, ch21: THE LOFT, and she refuses, and the refusal is hers and not about
+them. One room, three people, straw. Gaara asks once. She notes that he asked
+her once already, in a tunnel, and he agrees it was a worse offer made by the
+man who was telling her where to stand.
+HER REASON IS THE BEST LINE SHE HAS: eighteen years somebody's wife, nine years
+nobody's, four days something else that she cannot name yet. "I am not spending
+it before I have counted it."
+WHY IT IS A NO AND NOT A YES, decided rather than defaulted. Her arc is a woman
+who left a gate she stood behind for twenty years four days ago. Resolving that
+into a bed in the next chapter would spend it. And her ch16 no was called the
+cleanest he had ever had; reversing it four chapters later would cheapen the
+thing the book valued about her.
+AND IT IS NOT CLOSED. "Ask me in the spring." "I do not ask twice." "I know.
+That is why I said it." She uses his own rule to tell him she will be the one
+who comes, which is now the pattern of this book: he asks once and people come
+back to him in their own time. Same shape as Sivert's two arms.
+
+Sivert, ch21: "I would have said yes," said to the roof, and it is the whole of
+his contribution and it is enough. He is answered with the only tenderness
+Gaara can do out loud: "You are the only uncomplicated thing in this town and I
+intend to be extremely careful with you."
 
 Egil, captain, Level 15 (ch21)
 - Runs a company that comes in off jobs and counts silver on a table. Says "No"
@@ -615,6 +637,34 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The loft, and Ylva says no ===
+Author asked for the invitation and handed me the accept-or-refuse decision.
+THE RULE HAD TO BE HANDLED FIRST. He asked her once already, in ch16, and his
+standing rule is that he asks once and does not repeat. So the second ask is
+NOTICED BY HER, not smoothed over by him, and he concedes the point: the tunnel
+offer was worse and was made by the man telling her where to stand. The rule
+gets acknowledged on the page instead of quietly broken.
+SHE REFUSES, and it was decided rather than defaulted. Her arc is four days old:
+a woman who stood behind a gate for twenty years and walked out of it. Spending
+that in a bed in the very next chapter would throw it away. And ch16 called her
+no the cleanest he had ever had here, which is characterisation the book liked;
+reversing it six days later would cheapen it.
+THE REASON IS THE POINT, not the answer: eighteen years somebody's wife, nine
+nobody's, four days something she cannot name. "I am not spending it before I
+have counted it." And she says it is not for him, it is for her.
+AND IT STAYS OPEN. "Ask me in the spring." "I do not ask twice." "I know. That
+is why I said it." She turns his own rule into a promise, which is exactly what
+Sivert did with two arms, and that is now the book's pattern: he asks once and
+people come back on their own clock. Three for three.
+SIVERT GETS ONE LINE AND IT IS ENOUGH. "I would have said yes," to the roof.
+GAARA'S BEHAVIOUR IS THE RULE WORKING: he takes the answer, does not push, does
+not sulk, and changes the subject inside the same breath with an argument about
+who snores.
+LENGTH: ch21 is now 2961. The seam is clean (the day ends at the roll house, the
+night is its own movement) but a split leaves a 460-word fragment, so it stays
+whole until ch22 exists to absorb it. Flagged, not hidden.
 
 
 === Chapter 21, and the scale went off in the wrong place on purpose ===

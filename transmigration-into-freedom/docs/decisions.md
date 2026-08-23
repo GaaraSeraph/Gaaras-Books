@@ -3,6 +3,34 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The loft, and Ylva says no ===
+Author asked for the invitation and handed me the accept-or-refuse decision.
+THE RULE HAD TO BE HANDLED FIRST. He asked her once already, in ch16, and his
+standing rule is that he asks once and does not repeat. So the second ask is
+NOTICED BY HER, not smoothed over by him, and he concedes the point: the tunnel
+offer was worse and was made by the man telling her where to stand. The rule
+gets acknowledged on the page instead of quietly broken.
+SHE REFUSES, and it was decided rather than defaulted. Her arc is four days old:
+a woman who stood behind a gate for twenty years and walked out of it. Spending
+that in a bed in the very next chapter would throw it away. And ch16 called her
+no the cleanest he had ever had here, which is characterisation the book liked;
+reversing it six days later would cheapen it.
+THE REASON IS THE POINT, not the answer: eighteen years somebody's wife, nine
+nobody's, four days something she cannot name. "I am not spending it before I
+have counted it." And she says it is not for him, it is for her.
+AND IT STAYS OPEN. "Ask me in the spring." "I do not ask twice." "I know. That
+is why I said it." She turns his own rule into a promise, which is exactly what
+Sivert did with two arms, and that is now the book's pattern: he asks once and
+people come back on their own clock. Three for three.
+SIVERT GETS ONE LINE AND IT IS ENOUGH. "I would have said yes," to the roof.
+GAARA'S BEHAVIOUR IS THE RULE WORKING: he takes the answer, does not push, does
+not sulk, and changes the subject inside the same breath with an argument about
+who snores.
+LENGTH: ch21 is now 2961. The seam is clean (the day ends at the roll house, the
+night is its own movement) but a split leaves a 460-word fragment, so it stays
+whole until ch22 exists to absorb it. Flagged, not hidden.
+
+
 === Chapter 21, and the scale went off in the wrong place on purpose ===
 The register said not to spend the level scale early, because the first trained
 soldier he reads is meant to be a moment. WRITTEN ANYWAY, IN THE WOLD, because
