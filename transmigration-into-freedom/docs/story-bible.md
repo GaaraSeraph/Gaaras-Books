@@ -1011,7 +1011,8 @@ The forge, and the first arrangement (ch19)
 
 Hades, and the first money he ever earned here (ch22)
 - THE ENGINE IS TWO COINS. The Staple fee is a goat, eleven coins. After the
-  Roll he has nine. A man who ran thirty-nine companies has to earn a day and a
+  Roll he has nine. A man who was inside thirty-nine companies and ran exactly
+  one, his own, which went under, has to earn a day and a
   half of a labourer's wages before a door shuts, and he says it is the most
   frightened he has been since the gate, and he is not entirely joking.
 - HE DOES NOT LOOK FOR A CUSTOMER, HE LOOKS FOR AN ARGUMENT. Two carters, a

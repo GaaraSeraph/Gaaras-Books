@@ -3,6 +3,38 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== He should not have had to ask six times, and the metric lied ===
+Author, tired of repeating it. Fair. So the first move was to measure rather
+than to do another pass and promise.
+DIALOGUE DENSITY ACROSS ALL 22 CHAPTERS: median 53 per cent of paragraphs carry
+speech. THE TWO CHAPTERS HE COMPLAINED ABOUT SCORED 61 PER CENT, third and
+fourth highest in the book. So the problem is not volume and never was. He was
+talking constantly and none of it was funny.
+WHICH MEANS NO CHECK IS POSSIBLE HERE, and I am not adding a fake one. A metric
+that scores the complained-about chapters above the median is a metric that
+lies, and a lying check is worse than none - that lesson is already in this file
+under the Erdkalender entry, where a dead regex reported a clean chapter.
+SO IT GOES TO THE TOP OF CLAUDE.md AS A DRAFTING RULE, not a review step, with a
+countable form: EVERY SCENE WITH ANOTHER PERSON NEEDS AT LEAST ONE LINE THAT IS
+THERE ONLY TO BE FUNNY. Not witty-while-working. A line an editor optimising for
+information would cut.
+AND THE DRIFT HAS ONE SHAPE, now written down so it is recognisable: IT HAPPENS
+WHEN HE IS WORKING. Negotiating, teaching, reading a room, counting. Same family
+as going solemn when somebody is hurt, which was caught four times before this.
+
+=== He did not RUN thirty-nine companies ===
+Author. ch1 is explicit: thirty-nine companies, EMPLOYEE, CONTRACTOR,
+CONSULTANT, INTERIM. He was inside them. HE RAN EXACTLY ONE, his own, with his
+own money in it, and it went under and took his knees with it.
+I had written "I have run thirty-nine of these" into ch22 and repeated it in two
+documents. Fixed in all three, and the ch22 line is better for it, because the
+true version is the emotional centre of the scene: he is registering his second
+company and the first one killed him.
+THIS ONE IS MECHANICAL, SO IT IS NOW CHECKED. check.py refuses run/ran/led/
+managed within thirty characters of thirty-nine, counter-tested in both
+directions.
+
+
 === Too much talking and no flattery, which is half a rule dropped ===
 Author on ch22, and he is right. CLAUDE.md says HE FLIRTS WITH EVERYONE AND
 PROPOSITIONS ALMOST NOBODY. I had been enforcing the second clause carefully for
@@ -40,7 +72,8 @@ book's pattern is now that people come to him. He states a location and refuses
 to ask, and she names the manoeuvre out loud in one sentence, and he concedes.
 She does not answer. Left open on purpose. Three for three becomes four.
 THE CHAPTER'S ENGINE IS TWO COINS, which is the smallest stake in the book and
-one of the best. A man who ran thirty-nine companies has to earn a day and a
+one of the best. A man who was inside thirty-nine companies and ran exactly one
+of them has to earn a day and a
 half of labourer's wages before a door shuts.
 AND IT PUTS THE PUBLISHING PROGRAMME'S FIRST REVENUE ON THE PAGE without anybody
 naming it. He does not sell literacy. He sells the fact that a written bargain

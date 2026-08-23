@@ -52,11 +52,15 @@ Eleven had gone into that town and two of them had gone into a box for a name in
 
 "What," said Sivert.
 
-"I have run thirty-nine of these," said Gaara. "Not this exact thing. The other kind. And I have sat in rooms where the number under discussion had six figures in it and everybody in the room was lying about at least two of them." He put his hands over his face. "I am two coins short. Two. I need to make a day and a half of a grown man's wages before that door shuts, and it is the most frightened I have been since the gate."
+"I have been inside thirty-nine of these," said Gaara. "Employee, contractor, consultant, interim. I have sat in rooms where the number under discussion had six figures in it and every man at the table was lying about at least two of them." He put his hands over his face. "I ran exactly one. It was mine and it went under and it took my knees with it."
+
+"And now."
+
+"And now I am two coins short." He took his hands away. "Two. A day and a half of a grown man's wages, before that door shuts. It is the most frightened I have been since the gate, and I would like somebody else to find that funny, because from in here it is not landing."
 
 "You could sell the shingles."
 
-"They are not worth two coins and I would rather starve, and I want you to note that I said the second part first."
+"They are not worth two coins and I would rather starve, and I want you to note that I said the second part first." He stood up off the block. "Also they are stolen. From a house belonging to a man I have already cost a leg. There is a version of my life where I am a considerably better person and I would like to go and live in it for an afternoon."
 
 The market was a street and a half and it was already loud.
 
@@ -81,6 +85,10 @@ That got the street.
 He split it.
 
 It took rather less than a minute and neither of them liked it, which he told them was the entire point of a fair one.
+
+"You have robbed us both," said the older carter.
+
+"I have, and evenly, and if you go and drink about it together you will find you have a great deal in common."
 
 And then, while the two of them were still standing there feeling robbed in a way they could not put a finger on, he said the thing he had come to say.
 
@@ -185,6 +193,12 @@ The warden looked at him.
 "Your mark." The warden pushed a slate across. "Goes on your bales and your paper and anything you sell. Nobody else in the Staple may use it. Draw it."
 
 Gaara sat down with a slate and a piece of chalk in a room that smelled of dust and other men's business, and found that he had nothing.
+
+"How long do people usually take over this," he said.
+
+"Some of them come back the next day."
+
+"Wonderful. So there is a version of this where I fail to draw a shape and have to sleep on it, and that is a thing that has happened to other men, in this room, in front of you."
 
 He had named thirty-nine companies for other people. He had sat in rooms while men who were paid more than him argued for whole afternoons about the angle of a letter. He had thought all of it was theatre, and he had said so, out loud, more than once, to people who could have fired him.
 

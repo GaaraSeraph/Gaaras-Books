@@ -70,6 +70,12 @@ CANON_NUMBERS = [
      {"a", "one", "1"}, "eine Haut Pergament kostet eine Ziege"),
 ]
 
+# Er hat die neununddreissig Firmen NICHT gefuehrt. ch1: Employee,
+# contractor, consultant, interim. Gefuehrt hat er GENAU EINE, seine eigene,
+# und die ist untergegangen. Der Fehler stand in ch22 und in zwei Dokumenten.
+RAN_39 = re.compile(r"\b(run|ran|running|led|managed|headed)\b[^.\n]{0,30}?"
+                    r"\b(thirty-nine|39)\b", re.I)
+
 
 def check(path):
     with open(path, encoding="utf-8") as fh:
@@ -85,6 +91,11 @@ def check(path):
     # Es gibt KEIN Charisma, Glueck oder Aussehen (story-bible S2). Watchlist der
     # verbotenen Namen, nicht generisches Raten -> ein Rueckfall faellt auf,
     # harmlose Woerter nicht.
+    if RAN_39.search(t):
+        errs.append("Er hat die 39 Firmen nicht GEFUEHRT - er war drin "
+                    "(Employee, contractor, consultant, interim, ch1). "
+                    "Gefuehrt hat er genau eine, seine eigene.")
+
     ma = re.search(r"\b(CHA|Charisma|LUK|LUCK|Luck|APP|Appearance)\b", t)
     if ma:
         errs.append(f"Verbotenes Attribut '{ma.group(1)}' - es gibt nur "

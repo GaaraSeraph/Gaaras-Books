@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 49.089 Woerter.
+22 Kapitel. 49.371 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -28,8 +28,8 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 18 | Chapter 18: Somebody Has to Hold Him | 2.071 |
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
-| 21 | Chapter 21: The Only Book There Is | 2.777 |
-| 22 | Chapter 22: Two Coins Short | 2.428 |
+| 21 | Chapter 21: The Only Book There Is | 2.882 |
+| 22 | Chapter 22: Two Coins Short | 2.605 |
 
 ---
 
@@ -4659,7 +4659,7 @@ Good coursed stone for about ninety feet. Then a butt end, squared off properly 
 
 "It has been like that my whole life," said Ylva.
 
-"That is what I said."
+"That is what I said." He went on looking at it. "Somewhere in this town there is a family who have been the people who did not finish the wall for four hundred years, and I would very much like to buy them a drink."
 
 There were more people in the first street than lived in Oldstep, and he read every one of them, because he had never once been able to stop.
 
@@ -4689,7 +4689,7 @@ Gaara stopped walking.
 
 "You have stopped in the road twice in one street and you are the least still person I have ever met."
 
-He made himself start again, and got about nine paces.
+He made himself start again, and got about nine paces, which for him was a personal best in a street with this much to look at.
 
 Level 12. Level 12. Level 16, sitting on a barrel with his boots crossed, cleaning under a nail with a knife.
 
@@ -4727,7 +4727,7 @@ He stood in the street and did the sum, and did not like it, and did it again in
 
 Eleven coins. A month of sleeping badly. Ten days of sleeping properly. And a blade at Ordulf's was four goats, which was forty-four coins, which was four times everything he owned and had been for six days.
 
-"Straw," he said. "All three of us. And we eat once a day and we eat the cheap thing, and I want to be extremely clear that this is not me being hard, it is me being able to count."
+"Straw," he said. "All three of us. And we eat once a day and we eat the cheap thing, and I want to be extremely clear that this is not me being hard, it is me being able to count. I have made grown men cry over a budget, and every single one of those budgets was larger than this."
 
 "I have slept on straw since I was born," said Ylva.
 
@@ -4799,7 +4799,7 @@ The table went quiet in the way tables do.
 
 "Say that again."
 
-"Liars decorate," said Gaara, "and I have been told that in three villages now, so I will say it twice and you can hold the two against each other. You are about to take the wrong one. The one who is talking is worse than he sounds and the one with his hand under the table is better than he looks."
+"That is the second best thing anybody has said to me today, and the first was the price of a bed." Gaara did not move from the chair back. "Liars decorate," said Gaara, "and I have been told that in three villages now, so I will say it twice and you can hold the two against each other. You are about to take the wrong one. The one who is talking is worse than he sounds and the one with his hand under the table is better than he looks."
 
 "And you know that how."
 
@@ -4969,11 +4969,15 @@ Eleven had gone into that town and two of them had gone into a box for a name in
 
 "What," said Sivert.
 
-"I have run thirty-nine of these," said Gaara. "Not this exact thing. The other kind. And I have sat in rooms where the number under discussion had six figures in it and everybody in the room was lying about at least two of them." He put his hands over his face. "I am two coins short. Two. I need to make a day and a half of a grown man's wages before that door shuts, and it is the most frightened I have been since the gate."
+"I have been inside thirty-nine of these," said Gaara. "Employee, contractor, consultant, interim. I have sat in rooms where the number under discussion had six figures in it and every man at the table was lying about at least two of them." He put his hands over his face. "I ran exactly one. It was mine and it went under and it took my knees with it."
+
+"And now."
+
+"And now I am two coins short." He took his hands away. "Two. A day and a half of a grown man's wages, before that door shuts. It is the most frightened I have been since the gate, and I would like somebody else to find that funny, because from in here it is not landing."
 
 "You could sell the shingles."
 
-"They are not worth two coins and I would rather starve, and I want you to note that I said the second part first."
+"They are not worth two coins and I would rather starve, and I want you to note that I said the second part first." He stood up off the block. "Also they are stolen. From a house belonging to a man I have already cost a leg. There is a version of my life where I am a considerably better person and I would like to go and live in it for an afternoon."
 
 The market was a street and a half and it was already loud.
 
@@ -4998,6 +5002,10 @@ That got the street.
 He split it.
 
 It took rather less than a minute and neither of them liked it, which he told them was the entire point of a fair one.
+
+"You have robbed us both," said the older carter.
+
+"I have, and evenly, and if you go and drink about it together you will find you have a great deal in common."
 
 And then, while the two of them were still standing there feeling robbed in a way they could not put a finger on, he said the thing he had come to say.
 
@@ -5102,6 +5110,12 @@ The warden looked at him.
 "Your mark." The warden pushed a slate across. "Goes on your bales and your paper and anything you sell. Nobody else in the Staple may use it. Draw it."
 
 Gaara sat down with a slate and a piece of chalk in a room that smelled of dust and other men's business, and found that he had nothing.
+
+"How long do people usually take over this," he said.
+
+"Some of them come back the next day."
+
+"Wonderful. So there is a version of this where I fail to draw a shape and have to sleep on it, and that is a thing that has happened to other men, in this room, in front of you."
 
 He had named thirty-nine companies for other people. He had sat in rooms while men who were paid more than him argued for whole afternoons about the angle of a letter. He had thought all of it was theatre, and he had said so, out loud, more than once, to people who could have fired him.
 

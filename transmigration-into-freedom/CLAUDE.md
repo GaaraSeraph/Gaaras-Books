@@ -7,6 +7,31 @@ The chapter files are canon. Everything else (docs/, this file) describes them o
 plans ahead. Where a planning document contradicts a chapter, the chapter is right
 and the document gets changed. How many chapters exist: see HANDBUCH.md.
 
+## Before anything else: THE JOKES ARE NOT A POLISH PASS
+
+The author has had to ask for this SIX TIMES and that is six times too many. It
+is not a note to apply at the end. It is part of drafting, and if it is missing
+the draft is not finished, in the same way a chapter with a forty-word sentence
+is not finished.
+
+THE COUNTABLE RULE: EVERY SCENE WITH ANOTHER PERSON IN IT NEEDS AT LEAST ONE
+LINE THAT IS THERE ONLY TO BE FUNNY. Not a line that is witty while doing work.
+A line that would be cut by anybody optimising the scene for information, and
+which is the reason the scene is worth reading.
+
+AND THE DRIFT ALWAYS LOOKS THE SAME, so it is recognisable: it happens when he
+is WORKING. Negotiating, teaching, reading a room, doing arithmetic. The talk
+stays but goes functional, and a competent operator comes out instead of him.
+It is the same failure as going solemn when somebody is hurt.
+
+THIS CANNOT BE CHECKED BY MACHINE AND check.py DOES NOT TRY. Dialogue density
+was measured across all chapters and it does not catch it: the two chapters the
+author complained about scored 61 per cent, third and fourth highest in the
+book. He was talking constantly and none of it was funny. A metric that cannot
+tell those apart is a metric that lies, and a check that lies is worse than no
+check (see the Erdkalender entry in docs/decisions.md).
+So it lives here instead, at the top, where it is read before writing.
+
 ## Read first
 
 - `docs/story-bible.md` - all established canon: protagonist, system rules, world, cast, open threads. Check it before writing anything, and update it after every new chapter.
