@@ -687,6 +687,85 @@ def echo_report(best):
         print(f'  "{muster}": {len(tr)} Kapitel - {", ".join(tr)}')
 
 
+# Erzaehlerformeln, gezaehlt ueber BEIDE Baende.
+#
+# Gefunden am 24.08. beim Schreiben von Band 2, Kapitel 28, und zwar von
+# Hand: "did not soften" stand in VIERZIG von einundsechzig Kapiteln.
+#
+# Warum keine der bestehenden Pruefungen das gesehen hat, und das ist der
+# eigentliche Befund:
+#
+#   check() zaehlt Tics PRO KAPITEL. Eine Formel, die genau einmal im
+#   Kapitel steht, reisst keine Quote und ist sechzig Kapitel lang
+#   unsichtbar geblieben.
+#
+#   echo_report() vergleicht ganze Saetze und Sieben-Gramme. "He did not
+#   soften it" steckt jedes Mal in einem anderen Satz, also greift auch das
+#   nicht.
+#
+# Die Luecke war also genau die Mitte: zu selten fuer die Kapitelquote, zu
+# variabel fuer den Satzvergleich. Genau da sitzt die Sorte Wiederholung,
+# die ein LESER am staerksten merkt, weil er das Buch am Stueck liest und
+# nicht kapitelweise.
+#
+# Bewusst eine feste Liste und kein Automatismus. Was eine Formel ist und
+# was ein Motiv, entscheidet sich nicht mechanisch: "no line, no owner and
+# no date" steht auch in mehreren Kapiteln und SOLL das.
+FORMELN = [
+    "did not soften",
+    "perfectly evenly",
+    "said it evenly",
+    "did not look away",
+    "did not move at all",
+    "and did not say anything",
+    "for about four seconds",
+    "which did not need doing",
+    "He did not answer",
+    "did not change",
+]
+
+
+def formel_report(best, knapp=False):
+    """Wie viele Kapitel jede Formel benutzt.
+
+    knapp=True gibt nur die Zeile fuers Tagesgeschaeft aus und schweigt,
+    solange nichts ueber der Schwelle steht. Eine Warnung, die immer
+    feuert, liest niemand.
+    """
+    n_kap = len(best)
+    schwelle = max(4, n_kap // 4)
+
+    treffer = []
+    for form in FORMELN:
+        kaps = []
+        for k in sorted(best):
+            t = open(best[k][1], encoding="utf-8").read()
+            if form.lower() in t.lower():
+                kaps.append(k)
+        if kaps:
+            treffer.append((len(kaps), form, kaps))
+    treffer.sort(reverse=True)
+
+    if knapp:
+        ueber = [(n, form) for n, form, _ in treffer if n >= schwelle]
+        if ueber:
+            print()
+            print(f"Erzaehlerformeln ueber der Schwelle ({schwelle} von {n_kap} Kapiteln):")
+            for n, form in ueber:
+                print(f'  hinweis  "{form}" in {n} Kapiteln.')
+            print("  Vollstaendig: python3 check.py --echoes")
+        return
+
+    print()
+    print(f"Erzaehlerformeln, Kapitel von {n_kap}. Schwelle ist {schwelle}:")
+    for n, form, kaps in treffer:
+        mark = "  ueber  " if n >= schwelle else "         "
+        print(f'{mark}{n:3d}x  "{form}"')
+        if n >= schwelle:
+            print("           " + " ".join(kap(k) for k in kaps[:14])
+                  + (" ..." if len(kaps) > 14 else ""))
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
@@ -711,6 +790,7 @@ def main():
 
     if "--echoes" in flags:
         echo_report(best)
+        formel_report(best)
         return 0
 
     files = args or [p for _, p in sorted(best.values(), key=lambda x: x[1])]
@@ -774,6 +854,9 @@ def main():
             offen = offen or not behoben
         if offen and not fix:
             print("  Versionsnummern nachziehen mit: python3 check.py --sync-state")
+    if not args:
+        formel_report(best, knapp=True)
+
     if base:
         if better:
             print("Besser geworden:")

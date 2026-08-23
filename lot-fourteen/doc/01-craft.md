@@ -475,6 +475,34 @@ Dann noch einmal lesen.
 
 ---
 
+### Die Formel, die pro Kapitel legal ist
+
+**Gefunden am 24.08. beim Schreiben von Kapitel 28, und zwar von Hand.**
+*"did not soften"* stand in dreiundzwanzig von zweiundsechzig Kapiteln,
+*"did not look away"* in einundzwanzig. Keine Pruefung hat je angeschlagen.
+
+**Warum nicht, und das ist der eigentliche Befund:** `check.py` zaehlt Tics
+**pro Kapitel.** Eine Formel, die genau einmal im Kapitel steht, reisst keine
+Quote. Und `--echoes` vergleicht ganze Saetze und Sieben-Gramme, aber
+*"He did not soften it"* steckt jedes Mal in einem anderen Satz.
+
+**Die Luecke war genau die Mitte: zu selten fuer die Kapitelquote, zu variabel
+fuer den Satzvergleich.** Und genau da sitzt die Sorte Wiederholung, die ein
+LESER am staerksten merkt, weil er das Buch am Stueck liest und nicht
+kapitelweise.
+
+**Seit dem 24.08. zaehlt `formel_report()` sie ueber beide Baende.** Der nackte
+Lauf meldet, was ueber einem Viertel der Kapitel steht; `--echoes` zeigt die
+ganze Tabelle. **Bewusst eine feste Liste und kein Automatismus:** was eine
+Formel ist und was ein Motiv, entscheidet sich nicht mechanisch.
+*"no line, no owner and no date"* steht auch in mehreren Kapiteln und soll das.
+
+**Was daraus folgt, wenn ein Beat gebraucht wird:** die Verneinung ist der
+bequemste Beat der Welt und deshalb der erste, der sich selbst kopiert. Wer
+zum dritten Mal *did not* schreibt, soll stattdessen sagen, **was die Figur
+getan hat.** *"She put all of it down in front of him."* statt *"She did not
+soften any of it."*
+
 ## Werkzeuge
 
 **Kein Heredoc fuer Python mit Backslashes.** Die Shell frisst den Backslash,

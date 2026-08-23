@@ -202,7 +202,12 @@ nachrechnen, und `check.py` tut das automatisch.
   (Band 2, Kapitel 26)
 - Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
   gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
-  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz** (Band 2, Kapitel 27)
+  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz**
+  (Band 2, Kapitel 27)
+- Tag 237, Do 28. Mai: **das Haus am Fluss, fast leer.** Mr Hwang gibt die
+  Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
+  Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
+  der 12. Mai (Band 2, Kapitel 28)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1344,7 +1349,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.1) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+- **Band 2, Kapitel 27** *What he collects* (v1.2) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -1377,6 +1382,42 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Weg zu ihr geht ueber den Mann, den er am 4. Mai auseinandergenommen hat:** *"He does not know where she lives and he has never asked, and there is exactly one person in this country who would have written it down. Mr Hwang keeps everything."*
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
+
+- **Band 2, Kapitel 28** *He keeps everything* (v1.0) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+
+  **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
+
+  **Die Tuer will seinen Namen nicht mehr.** Dreimal in acht Wochen hat er sich in ein Buch an einer Tuer geschrieben, und jedes dieser drei Male ist mit Zinsen zurueckgekommen. **Jetzt ist kein Buch mehr da.** Die Glasscheibe steht ausgerahmt an der Wand, der Schlitz fuer Umschlaege ist ein Loch in einer Sperrholzplatte, **der eine Stuhl auf der Besucherseite ist weg.**
+
+  **Georgij hat nichts zu bieten und sagt das als Erstes.** *"I have come to ask you for something, and I have nothing to give you for it, and I am not going to dress it up. There is no arrangement here and there is nothing at the end of it for you."* Hwangs Antwort: **"That is at least consistent."**
+
+  **Und in diesem Raum hat zum ersten Mal Hwang die Macht.** Deshalb bekommt Georgij hier Fragezeichen, wo er sonst Punkte hat: *"Why did you do it?"*, *"How many?"*, *"Do you have it?"* **Die Machtlage entscheidet, nicht der Rang** - und sie hat sich gedreht.
+
+  **Er kennt sie sofort und braucht nichts nachzuschlagen.** *"Jeon Mi-ja. Twenty-three years at that desk. Her last day was the twelfth of May and she came up here at half past four to give me the keys to the drawer, and she would not put them on the table. She put them in my hand."* Und: **"I have not had to look that up once since the twelfth of May, and I have tried."**
+
+  **Der Fehler zum dritten Mal, und diesmal benennt er ihn selbst.** Zwoelf Stellen in der zweiten Aprilwoche, alle zwoelf richtig, **alle zwoelf an einem Nachmittag aus einer Tabelle.** *"I did not go down to that floor. I have been in this building since the autumn and I have been down to that floor twice."*
+
+  **Und Georgij nimmt ihm das Urteil nicht ab:** *"No. You have just told me. Leave it where it is."*
+
+  **Das Zentrum des Kapitels ist der 9. Januar, und Hwang gibt es her, bevor er die Adresse gibt, damit es keine Bezahlung ist.** Mrs Jeon sass in diesem Raum mit einem **selbst gekauften Schulheft** und hielt es ihm hin. Darin: alles, was in dreiundzwanzig Jahren ueber ihren Schreibtisch ging **und nicht abgerechnet wurde.** *"Not fraud. She was careful about that word and I have thought about how careful she was."*
+
+  **Was er ihr geantwortet hat, ist juristisch tadellos und deshalb die schlimmste Stelle:** Wind-up, Zustimmung des Verwalters, eine unfertige Untersuchung sei schlimmer als keine. **"Every word of that is true, and I have taken it apart every night for three weeks and it is still true, and it is still the worst thing I have ever said to anybody."**
+
+  **Und er hat es nicht angefasst.** *"I did not open it. She had it in her hands and she was holding it out and I did not put my hand on it."* Sie steckte es zurueck in die Tasche, sagte danke, **ging nach unten und machte noch vier Monate.**
+
+  **Das Zeugnis, das nichts wert ist.** Zwei Seiten, jeder Satz wahr, das beste, das er je geschrieben hat - **und keine Firma im Land liest ueber den Briefkopf hinaus.** Er wusste das beim Schreiben. *"It was the same thing," said Georgij.*
+
+  **Und dann die Schuld, die Georgij sich selbst stellt, unaufgefordert.** Er haette schweigen koennen und der Raum haette ihn gelassen. **Am 20. Maerz hat er vor Annie gesagt, er werde etwas fuer die Frau am Schalter tun koennen. Zehn Wochen, nichts getan.** *"I am here because I want something out of her."*
+
+  **Hwangs Angebot einer Gemeinsamkeit lehnt er ab, und zwar nach unten:** *"No. You did it out of a spreadsheet. I did it because there was always something more urgent, and there always was, and every single one of them was real. That is worse and I would rather you did not take it off me."*
+
+  **Hwangs einzige Bitte ist keine Bitte um sich selbst, und sie ist die Klammer zu Mrs Jeons letztem Satz in Kapitel 7** (*"I would like that written down somewhere as well"*): *"I would like there to be a piece of paper somewhere in the world that says she did."*
+
+  **Georgij stimmt nicht zu und lehnt nicht ab, und Hwang fragt kein zweites Mal.** Im Wagen schreibt er es dann doch, unter das Datum, **ohne es jemandem versprochen zu haben:** *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* / *She has a list.*
+
+  **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
+
+  **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
 ---
 

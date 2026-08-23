@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 125.165 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 127.119 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -25,6 +25,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [5. Satzzeichen](#5-satzzeichen)
   - [6. Die Quoten](#6-die-quoten)
   - [7. Zum Schluss](#7-zum-schluss)
+  - [Die Formel, die pro Kapitel legal ist](#die-formel-die-pro-kapitel-legal-ist)
   - [Ton](#ton)
   - [Kapiteltitel](#kapiteltitel)
   - [Regeln fürs Schreiben](#regeln-f-rs-schreiben)
@@ -124,6 +125,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Park Sang-hoon](#park-sang-hoon)
   - [Jang](#jang)
   - [Mrs Seo](#mrs-seo)
+  - [Mr Hwang](#mr-hwang)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Hong](#mr-hong)
   - [Mrs Sunwoo](#mrs-sunwoo)
@@ -132,7 +134,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Kwon](#mr-kwon)
   - [Mr Yeo](#mr-yeo)
   - [Nam Byung-hee](#nam-byung-hee)
-  - [Mr Hwang](#mr-hwang)
   - [Mr Yeom](#mr-yeom)
   - [Mr Ku](#mr-ku)
   - [Ji-won](#ji-won)
@@ -632,6 +633,34 @@ Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.
 Dann noch einmal lesen.
 
 ---
+
+### Die Formel, die pro Kapitel legal ist
+
+**Gefunden am 24.08. beim Schreiben von Kapitel 28, und zwar von Hand.**
+*"did not soften"* stand in dreiundzwanzig von zweiundsechzig Kapiteln,
+*"did not look away"* in einundzwanzig. Keine Pruefung hat je angeschlagen.
+
+**Warum nicht, und das ist der eigentliche Befund:** `check.py` zaehlt Tics
+**pro Kapitel.** Eine Formel, die genau einmal im Kapitel steht, reisst keine
+Quote. Und `--echoes` vergleicht ganze Saetze und Sieben-Gramme, aber
+*"He did not soften it"* steckt jedes Mal in einem anderen Satz.
+
+**Die Luecke war genau die Mitte: zu selten fuer die Kapitelquote, zu variabel
+fuer den Satzvergleich.** Und genau da sitzt die Sorte Wiederholung, die ein
+LESER am staerksten merkt, weil er das Buch am Stueck liest und nicht
+kapitelweise.
+
+**Seit dem 24.08. zaehlt `formel_report()` sie ueber beide Baende.** Der nackte
+Lauf meldet, was ueber einem Viertel der Kapitel steht; `--echoes` zeigt die
+ganze Tabelle. **Bewusst eine feste Liste und kein Automatismus:** was eine
+Formel ist und was ein Motiv, entscheidet sich nicht mechanisch.
+*"no line, no owner and no date"* steht auch in mehreren Kapiteln und soll das.
+
+**Was daraus folgt, wenn ein Beat gebraucht wird:** die Verneinung ist der
+bequemste Beat der Welt und deshalb der erste, der sich selbst kopiert. Wer
+zum dritten Mal *did not* schreibt, soll stattdessen sagen, **was die Figur
+getan hat.** *"She put all of it down in front of him."* statt *"She did not
+soften any of it."*
 
 ## Werkzeuge
 
@@ -2290,7 +2319,12 @@ nachrechnen, und `check.py` tut das automatisch.
   (Band 2, Kapitel 26)
 - Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
   gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
-  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz** (Band 2, Kapitel 27)
+  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz**
+  (Band 2, Kapitel 27)
+- Tag 237, Do 28. Mai: **das Haus am Fluss, fast leer.** Mr Hwang gibt die
+  Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
+  Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
+  der 12. Mai (Band 2, Kapitel 28)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3432,7 +3466,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.1) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+- **Band 2, Kapitel 27** *What he collects* (v1.2) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -3465,6 +3499,42 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Weg zu ihr geht ueber den Mann, den er am 4. Mai auseinandergenommen hat:** *"He does not know where she lives and he has never asked, and there is exactly one person in this country who would have written it down. Mr Hwang keeps everything."*
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
+
+- **Band 2, Kapitel 28** *He keeps everything* (v1.0) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+
+  **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
+
+  **Die Tuer will seinen Namen nicht mehr.** Dreimal in acht Wochen hat er sich in ein Buch an einer Tuer geschrieben, und jedes dieser drei Male ist mit Zinsen zurueckgekommen. **Jetzt ist kein Buch mehr da.** Die Glasscheibe steht ausgerahmt an der Wand, der Schlitz fuer Umschlaege ist ein Loch in einer Sperrholzplatte, **der eine Stuhl auf der Besucherseite ist weg.**
+
+  **Georgij hat nichts zu bieten und sagt das als Erstes.** *"I have come to ask you for something, and I have nothing to give you for it, and I am not going to dress it up. There is no arrangement here and there is nothing at the end of it for you."* Hwangs Antwort: **"That is at least consistent."**
+
+  **Und in diesem Raum hat zum ersten Mal Hwang die Macht.** Deshalb bekommt Georgij hier Fragezeichen, wo er sonst Punkte hat: *"Why did you do it?"*, *"How many?"*, *"Do you have it?"* **Die Machtlage entscheidet, nicht der Rang** - und sie hat sich gedreht.
+
+  **Er kennt sie sofort und braucht nichts nachzuschlagen.** *"Jeon Mi-ja. Twenty-three years at that desk. Her last day was the twelfth of May and she came up here at half past four to give me the keys to the drawer, and she would not put them on the table. She put them in my hand."* Und: **"I have not had to look that up once since the twelfth of May, and I have tried."**
+
+  **Der Fehler zum dritten Mal, und diesmal benennt er ihn selbst.** Zwoelf Stellen in der zweiten Aprilwoche, alle zwoelf richtig, **alle zwoelf an einem Nachmittag aus einer Tabelle.** *"I did not go down to that floor. I have been in this building since the autumn and I have been down to that floor twice."*
+
+  **Und Georgij nimmt ihm das Urteil nicht ab:** *"No. You have just told me. Leave it where it is."*
+
+  **Das Zentrum des Kapitels ist der 9. Januar, und Hwang gibt es her, bevor er die Adresse gibt, damit es keine Bezahlung ist.** Mrs Jeon sass in diesem Raum mit einem **selbst gekauften Schulheft** und hielt es ihm hin. Darin: alles, was in dreiundzwanzig Jahren ueber ihren Schreibtisch ging **und nicht abgerechnet wurde.** *"Not fraud. She was careful about that word and I have thought about how careful she was."*
+
+  **Was er ihr geantwortet hat, ist juristisch tadellos und deshalb die schlimmste Stelle:** Wind-up, Zustimmung des Verwalters, eine unfertige Untersuchung sei schlimmer als keine. **"Every word of that is true, and I have taken it apart every night for three weeks and it is still true, and it is still the worst thing I have ever said to anybody."**
+
+  **Und er hat es nicht angefasst.** *"I did not open it. She had it in her hands and she was holding it out and I did not put my hand on it."* Sie steckte es zurueck in die Tasche, sagte danke, **ging nach unten und machte noch vier Monate.**
+
+  **Das Zeugnis, das nichts wert ist.** Zwei Seiten, jeder Satz wahr, das beste, das er je geschrieben hat - **und keine Firma im Land liest ueber den Briefkopf hinaus.** Er wusste das beim Schreiben. *"It was the same thing," said Georgij.*
+
+  **Und dann die Schuld, die Georgij sich selbst stellt, unaufgefordert.** Er haette schweigen koennen und der Raum haette ihn gelassen. **Am 20. Maerz hat er vor Annie gesagt, er werde etwas fuer die Frau am Schalter tun koennen. Zehn Wochen, nichts getan.** *"I am here because I want something out of her."*
+
+  **Hwangs Angebot einer Gemeinsamkeit lehnt er ab, und zwar nach unten:** *"No. You did it out of a spreadsheet. I did it because there was always something more urgent, and there always was, and every single one of them was real. That is worse and I would rather you did not take it off me."*
+
+  **Hwangs einzige Bitte ist keine Bitte um sich selbst, und sie ist die Klammer zu Mrs Jeons letztem Satz in Kapitel 7** (*"I would like that written down somewhere as well"*): *"I would like there to be a piece of paper somewhere in the world that says she did."*
+
+  **Georgij stimmt nicht zu und lehnt nicht ab, und Hwang fragt kein zweites Mal.** Im Wagen schreibt er es dann doch, unter das Datum, **ohne es jemandem versprochen zu haben:** *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* / *She has a list.*
+
+  **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
+
+  **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
 ---
 
@@ -5139,6 +5209,28 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **DIE TUER IN DEM VORORT. Faellig sofort, gesetzt am Ende von Kapitel 28.**
+  Georgij hat die Adresse und **Mrs Jeon hat ein Schulheft mit allem, was in
+  dreiundzwanzig Jahren nicht abgerechnet wurde.** Sie hat es Hwang am
+  9. Januar hingehalten und er hat es nicht angefasst.
+
+  **Ihr Preis steht seit dem 16. Maerz und er hat ihn nicht:** *"Come back when
+  you have your name, and I will tell you the rest of what I know."* **Er wird
+  an ihrer Tuer stehen ohne einen.** Wie er das loest, ist die Szene.
+
+  **Und er kommt mit leeren Haenden im schlimmeren Sinn:** er hat im Maerz vor
+  Annie gesagt, er werde etwas fuer sie tun koennen, und hat zehn Wochen lang
+  nichts getan. **Das steht jetzt im Text und muss eingeloest werden** - und
+  zwar so, dass sie es nicht als Almosen nehmen muss. Sie nimmt keine.
+
+- **Hwangs Bitte.** *"I would like there to be a piece of paper somewhere in the
+  world that says she did."* **Georgij hat nicht zugesagt und nicht abgelehnt**,
+  und hat es im Wagen trotzdem aufgeschrieben. Die Klammer schliesst erst, wenn
+  es irgendwo aktenkundig ist. **Faellig, wenn das Heft aufgeht.**
+
+- **Hwang im Oktober.** *"It is a forecast. You may check it in October."* Eine
+  Vorhersage mit Datum, ueber die man das Buch aufschlagen kann.
+
   **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
   Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.
   **Sie ist Mitte Mai aus dem Gebaeude gegangen und Georgij weiss nicht, wo sie
@@ -6293,6 +6385,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
+| Mr Hwang | 49 | 6 (b2ch07-b2ch28) | 3 | 39 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 35 | 10 (b1ch07-b2ch26) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -6301,13 +6394,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 28 | 4 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mr Hwang | 27 | 5 (b2ch07-b2ch27) | 3 | 38 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
-| Mr Ku | 21 | 15 (b1ch05-b2ch26) | 3 | 60 |
+| Mr Ku | 22 | 16 (b1ch05-b2ch28) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
+| Mrs Jeon | 13 | 4 (b2ch06-b2ch28) | 5 | 39 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Choi Dae-ho | 7 | 4 (b1ch07-b2ch27) | 22 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -7860,6 +7952,89 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Hwang
+
+49 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
+| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
+| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
+| 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
+| 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
+| 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
+| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:122 | Mr Hwang did not answer. |
+| 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 15 | b2ch21:170 | "And the page that did that," said Mr Hwang. |
+| 15 | b2ch21:176 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 15 | b2ch21:192 | "Lot fourteen," said Mr Hwang. |
+| 15 | b2ch21:204 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 15 | b2ch21:224 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 15 | b2ch21:242 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 15 | b2ch21:256 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 15 | b2ch21:274 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 15 | b2ch21:288 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 15 | b2ch21:308 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 15 | b2ch21:318 | "Mr Hwang." |
+| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
+| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:320 | Mr Hwang keeps everything. |
+| 39 | b2ch28:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
+| 39 | b2ch28:34 | "You," said Mr Hwang. |
+| 39 | b2ch28:40 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
+| 39 | b2ch28:56 | Mr Hwang stood with one hand on the box file. |
+| 39 | b2ch28:68 | Mr Hwang did not go to a box and did not open anything. |
+| 39 | b2ch28:80 | "No," said Mr Hwang. "I have not had to look that up once since the twelfth of May, and .. |
+| 39 | b2ch28:92 | "Because it was correct." Mr Hwang said it without any defence in it at all, which is ne.. |
+| 39 | b2ch28:108 | "You are going to tell me that is the same thing again," said Mr Hwang. |
+| 39 | b2ch28:114 | Mr Hwang turned back to the table and moved the box file about an inch to the left, whic.. |
+| 39 | b2ch28:126 | "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. ".. |
+| 39 | b2ch28:154 | "I said that the house was in wind-up," said Mr Hwang, "and that reopening a matter in w.. |
+| 39 | b2ch28:168 | "I did not open it. She had it in her hands and she was holding it out and I did not put.. |
+| 39 | b2ch28:172 | Georgij looked at the two crates and did not look at Mr Hwang at all. |
+| 39 | b2ch28:186 | Mr Hwang looked up at that. |
+| 39 | b2ch28:194 | Mr Hwang stood very still for a while. |
+| 39 | b2ch28:208 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
+| 39 | b2ch28:216 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
+| 39 | b2ch28:232 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
+| 39 | b2ch28:252 | Mr Hwang did not say anything for a moment. |
+| 39 | b2ch28:266 | "There is one thing," said Mr Hwang. |
+| 39 | b2ch28:288 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
+| 39 | b2ch28:292 | "Mr Hwang." |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:262` (Tag 3) - one
+- `b2ch21:20` (Tag 15) - three
+- `b2ch21:66` (Tag 15) - three
+- `b2ch21:76` (Tag 15) - five, three
+- `b2ch21:158` (Tag 15) - eight, one
+- `b2ch21:176` (Tag 15) - one
+- `b2ch21:192` (Tag 15) - fourteen
+- `b2ch21:204` (Tag 15) - three
+- `b2ch21:256` (Tag 15) - twenty
+- `b2ch21:288` (Tag 15) - fifteen
+- `b2ch21:308` (Tag 15) - five, four, twenty
+- `b2ch27:306` (Tag 38) - four
+- `b2ch28:28` (Tag 39) - two
+- `b2ch28:56` (Tag 39) - one
+- `b2ch28:92` (Tag 39) - eleven, one, twelve
+- `b2ch28:154` (Tag 39) - twenty-three
+- `b2ch28:168` (Tag 39) - four
+- `b2ch28:172` (Tag 39) - two
+- `b2ch28:208` (Tag 39) - one, twenty
+- `b2ch28:216` (Tag 39) - one, two
+- `b2ch28:266` (Tag 39) - one
+
+---
+
 ### Kim Ye-rin
 
 44 Nennungen in 11 Kapiteln.
@@ -8346,58 +8521,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Hwang
-
-27 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
-| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
-| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
-| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
-| 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
-| 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
-| 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
-| 15 | b2ch21:122 | Mr Hwang did not answer. |
-| 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
-| 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
-| 15 | b2ch21:170 | "And the page that did that," said Mr Hwang. |
-| 15 | b2ch21:176 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
-| 15 | b2ch21:192 | "Lot fourteen," said Mr Hwang. |
-| 15 | b2ch21:204 | Mr Hwang looked at the floor of a room with three crates in it. |
-| 15 | b2ch21:224 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
-| 15 | b2ch21:242 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
-| 15 | b2ch21:256 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
-| 15 | b2ch21:274 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
-| 15 | b2ch21:288 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
-| 15 | b2ch21:308 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
-| 15 | b2ch21:318 | "Mr Hwang." |
-| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 38 | b2ch27:320 | Mr Hwang keeps everything. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:262` (Tag 3) - one
-- `b2ch21:20` (Tag 15) - three
-- `b2ch21:66` (Tag 15) - three
-- `b2ch21:76` (Tag 15) - five, three
-- `b2ch21:158` (Tag 15) - eight, one
-- `b2ch21:176` (Tag 15) - one
-- `b2ch21:192` (Tag 15) - fourteen
-- `b2ch21:204` (Tag 15) - three
-- `b2ch21:256` (Tag 15) - twenty
-- `b2ch21:288` (Tag 15) - fifteen
-- `b2ch21:308` (Tag 15) - five, four, twenty
-- `b2ch27:306` (Tag 38) - four
-
----
-
 ### Mr Yeom
 
 24 Nennungen in 2 Kapiteln.
@@ -8447,7 +8570,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-21 Nennungen in 15 Kapiteln.
+22 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8472,6 +8595,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:250 | "No," said Mr Ku. |
 | 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
+| 39 | b2ch28:312 | Mr Ku had the car by the wall. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -8613,7 +8737,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-11 Nennungen in 3 Kapiteln.
+13 Nennungen in 4 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8628,6 +8752,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
 | 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
 | 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
+| 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
+| 39 | b2ch28:332 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -8638,6 +8764,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch07:66` (Tag 7) - one
 - `b2ch07:78` (Tag 7) - one
 - `b2ch09:252` (Tag 9) - five, six
+- `b2ch28:70` (Tag 39) - four, twenty-three
 
 ---
 

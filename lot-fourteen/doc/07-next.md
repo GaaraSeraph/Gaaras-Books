@@ -696,6 +696,28 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **DIE TUER IN DEM VORORT. Faellig sofort, gesetzt am Ende von Kapitel 28.**
+  Georgij hat die Adresse und **Mrs Jeon hat ein Schulheft mit allem, was in
+  dreiundzwanzig Jahren nicht abgerechnet wurde.** Sie hat es Hwang am
+  9. Januar hingehalten und er hat es nicht angefasst.
+
+  **Ihr Preis steht seit dem 16. Maerz und er hat ihn nicht:** *"Come back when
+  you have your name, and I will tell you the rest of what I know."* **Er wird
+  an ihrer Tuer stehen ohne einen.** Wie er das loest, ist die Szene.
+
+  **Und er kommt mit leeren Haenden im schlimmeren Sinn:** er hat im Maerz vor
+  Annie gesagt, er werde etwas fuer sie tun koennen, und hat zehn Wochen lang
+  nichts getan. **Das steht jetzt im Text und muss eingeloest werden** - und
+  zwar so, dass sie es nicht als Almosen nehmen muss. Sie nimmt keine.
+
+- **Hwangs Bitte.** *"I would like there to be a piece of paper somewhere in the
+  world that says she did."* **Georgij hat nicht zugesagt und nicht abgelehnt**,
+  und hat es im Wagen trotzdem aufgeschrieben. Die Klammer schliesst erst, wenn
+  es irgendwo aktenkundig ist. **Faellig, wenn das Heft aufgeht.**
+
+- **Hwang im Oktober.** *"It is a forecast. You may check it in October."* Eine
+  Vorhersage mit Datum, ueber die man das Buch aufschlagen kann.
+
   **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
   Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.
   **Sie ist Mitte Mai aus dem Gebaeude gegangen und Georgij weiss nicht, wo sie
