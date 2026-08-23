@@ -3,6 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Where talk earns money, and the exact shape of the guild trap ===
+Author asked for the answer, with the guild as one branch, plus entry fee and
+lodging. Worked out in bible section 6c. Two things came out better than asked.
+THE FEE IS EXACTLY WHAT HE HAS. One goat, eleven coins, his whole purse to the
+last coin. AND THE FEE IS NOT THE BARRIER: two members in good standing must
+vouch, and he knows nobody. So the money is the part that does not matter and
+the part that does is a conversation, which is the only thing he owns. He will
+work that out in the first minute and be unbearable about it.
+AND YOU DO NOT JOIN AS A MAN, YOU REGISTER A COMPANY. That falls straight out
+of the grade rule already written (grades attach to companies). So the thing he
+needs is twenty miles behind him and made of farmers, and it has a one-legged
+bookkeeper and no name. IT ALSO ANSWERS THE CARCASS QUESTION from section 6b:
+a chartered company is the display, because it points at people and away from
+the hole, and it is the version the lord's man can be paid to want.
+THE LODGING NUMBERS GIVE THE WOLD A CLOCK: a coin buys three nights on straw or
+one night behind a bolted door, a hot meal is half a coin, so eleven coins is a
+month of sleeping badly. Better than poverty in the abstract.
+THE HIGHEST-VALUE THING HE OWNS IS THE PANEL, and the guild is the perfect
+market for it because it grades by human judgement precisely because it cannot
+see levels. He sells the answer and never the method, which keeps rule one
+intact, and the price of using it is that he becomes a man people want to own.
+MOST OF THIS SHOULD BE DISCOVERED ON THE PAGE, not announced, or ch21 has
+nothing to do.
+
+
 === The carcass display: proposed, examined, NOT settled ===
 Author's plan: train the village to hunt, lay big fresh ones out in the road for
 the lord's man, so he supports them rather than confirming Hallvard's fear.

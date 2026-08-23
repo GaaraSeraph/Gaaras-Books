@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 37.864 Woerter.
+Alle 4 Dokumente am Stueck. 38.876 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,31 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Where talk earns money, and the exact shape of the guild trap ===
+Author asked for the answer, with the guild as one branch, plus entry fee and
+lodging. Worked out in bible section 6c. Two things came out better than asked.
+THE FEE IS EXACTLY WHAT HE HAS. One goat, eleven coins, his whole purse to the
+last coin. AND THE FEE IS NOT THE BARRIER: two members in good standing must
+vouch, and he knows nobody. So the money is the part that does not matter and
+the part that does is a conversation, which is the only thing he owns. He will
+work that out in the first minute and be unbearable about it.
+AND YOU DO NOT JOIN AS A MAN, YOU REGISTER A COMPANY. That falls straight out
+of the grade rule already written (grades attach to companies). So the thing he
+needs is twenty miles behind him and made of farmers, and it has a one-legged
+bookkeeper and no name. IT ALSO ANSWERS THE CARCASS QUESTION from section 6b:
+a chartered company is the display, because it points at people and away from
+the hole, and it is the version the lord's man can be paid to want.
+THE LODGING NUMBERS GIVE THE WOLD A CLOCK: a coin buys three nights on straw or
+one night behind a bolted door, a hot meal is half a coin, so eleven coins is a
+month of sleeping badly. Better than poverty in the abstract.
+THE HIGHEST-VALUE THING HE OWNS IS THE PANEL, and the guild is the perfect
+market for it because it grades by human judgement precisely because it cannot
+see levels. He sells the answer and never the method, which keeps rule one
+intact, and the price of using it is that he becomes a man people want to own.
+MOST OF THIS SHOULD BE DISCOVERED ON THE PAGE, not announced, or ch21 has
+nothing to do.
 
 
 === The carcass display: proposed, examined, NOT settled ===
@@ -2848,6 +2873,66 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     would have been worth. He does it anyway and complains throughout. Watch this
     when the pressure rises: the moment he needs a level badly, the cheapest
     place to get one is to stop teaching.
+
+=== 6c. THE WOLD: WHERE TALK EARNS, AND WHAT IT COSTS ===
+
+Worked out for ch21. The prices are canon once written; the ranking is the
+underlying truth and most of it should be DISCOVERED on the page rather than
+announced, or the chapter has nothing to do.
+
+WHAT HIS ELEVEN COINS ACTUALLY BUY. A goat is eleven coins and a labouring day
+pays a coin every second day, so everything below follows from that:
+   a night in a common room, straw, no food      a coin buys THREE
+   a room with a door and a bolt, one night      ONE COIN
+   a hot meal                                    half a coin
+   Ordulf's blade                                4 goats, so 44 coins
+So his whole fortune is a month of sleeping badly or ten days of sleeping
+properly. THAT IS THE CLOCK IN THE WOLD and it is better than being poor in the
+abstract. Put the number in his head early and let the reader count down.
+
+THE GUILD, and the trap is exact.
+- FEE: ONE GOAT. ELEVEN COINS. His entire purse, to the last coin.
+- AND TWO MEMBERS IN GOOD STANDING TO VOUCH. He has none.
+  So the money is not the barrier and the money is all he has. The barrier is a
+  conversation, which is the only currency he owns. Let him notice this himself
+  and enjoy it far too much.
+- YOU DO NOT JOIN AS A MAN. YOU REGISTER A COMPANY: a name, a captain, and men.
+  This follows from the grade rule already in section 7 (a C company is men at
+  12 to 16 under a captain at 18 to 22). GRADES ARE F UP TO A, they attach to
+  companies and not to people, and they are human judgement that cannot see
+  levels.
+- WHICH MEANS THE THING HE NEEDS IS TWENTY MILES AWAY AND MADE OF FARMERS. His
+  company exists. It has a one-legged bookkeeper, a smith, an eight, and a
+  woman holding it together. It has no name and no charter, and he is standing
+  in the wrong town to fix that. THIS ALSO ANSWERS SECTION 6b: a registered
+  company is exactly the thing to show the lord's man, because it points at
+  people and away from the hole.
+
+WHERE TALK EARNS, ranked by how fast it pays against what it costs him:
+1  READING MEN. He looks at a person and knows the number. NOBODY ELSE ALIVE
+   CAN DO THIS and the guild grades by judgement precisely because it cannot.
+   Worth real money to anybody choosing between two men: who to promote, who to
+   hire, which of these two is lying about what he is. Costs nothing, pays at
+   once, and HE MUST NEVER EXPLAIN THE METHOD. Rule one is not broken by that:
+   "I am good at reading men" is true.
+   THE PRICE OF USING IT is that he becomes a man people want to own.
+2  CONTRACTS, WRITTEN AND WITNESSED. A market town does this constantly and does
+   it badly, because the world lost administration. Small money, same day, and
+   it is literally his old job. Also the fastest way to be seen by everyone who
+   matters in a town, since everybody signing something has money.
+3  ARBITRATION. A share of what is in dispute. Slower, bigger, and it makes him
+   either trusted or hated with nothing in between.
+4  BROKERAGE. The city's metal, which only he and Ylva can fetch, into a town
+   that has not seen good stock in ten years. The biggest money and the slowest,
+   and Ordulf is the first customer because he will take stock over coin and
+   hate himself for it (ch19).
+5  TEACHING, and it does not pay yet. In Oldstep he had authority because he was
+   right in front of them. In the Wold he is a Level 5 stranger with an iron bar
+   and a bundle of roof shingles.
+
+WHAT HE SHOULD ASK ABOUT AND IN THIS ORDER, because it is how he thinks: what a
+bed costs, what the fee is, what the fee actually is, who vouches, what a
+company is, what a grade is worth, and who buys metal.
 
 === 6b. THE LORD'S MAN. OPEN, AND THE NEXT THING TO DECIDE ===
 
