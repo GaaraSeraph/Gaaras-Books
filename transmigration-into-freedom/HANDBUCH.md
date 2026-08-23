@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 34.974 Woerter.
+Alle 4 Dokumente am Stueck. 35.980 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,32 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The publishing programme, and it closes the thesis ===
+The author laid out the whole catalogue: a press, affordable books generally,
+erotica, fighting, primers, and the trade books that make his name and his
+business work - negotiation, inventory, personnel. Plus magic and engineering,
+for which he hires experts, because neither is his field.
+THE LAST PART IS THE ONE THAT MATTERS AND HE MAY NOT HAVE NOTICED. Section 3
+already says this world lost ADMINISTRATION rather than technique, and that
+nothing accumulates because nothing is written down. HIS CATALOGUE IS A LIST OF
+THE THINGS THAT BROKE. He is not starting a business next to the plot, he is
+repairing the exact fault that dropped the aqueduct. Nobody says it out loud.
+AND HIRING EXPERTS RATHER THAN LEARNING IS THE CHARACTER, NOT A SHORTCUT. He
+invents nothing for the whole book. A publisher arranges other people's
+knowledge, which is what he did to six farmers and a windlass in ch14.
+THE DEPENDENCY CHAIN IS WRITTEN DOWN because it gives the back half its plot:
+money, letters, a manuscript, a SUBSTRATE, hand copies, type, a press, a market.
+Two rungs are worth guarding. HAND COPIES BEFORE TYPE, because scribal sale is
+how the press gets funded and skipping it is the usual fantasy cheat. And TYPE
+IS A SMITH'S JOB, so Ylva, picked for entirely other reasons, turns out to be
+structural. Do not point at that until it lands.
+THE PRIMER IS NUMBER ONE, because every other title's market is capped by it and
+it is the only product that manufactures its own customers.
+AND THE OPPOSITION COMES FREE: the literate trades whose living is scarcity, the
+guilds whose power is apprenticeship, and whoever works out that printed combat
+doctrine is a strategic asset in a war nobody has finished yet.
 
 
 === Nobody in this world is any good in bed, and that is a world rule ===
@@ -2720,15 +2746,76 @@ The direction the author wants the story to grow toward. None of this is
 established in a chapter yet, so it is intent, not canon. It lives here so early
 chapters can plant for it, and so a decision is taken before it is written.
 
+THE PROGRAMME, stated by the author in full. This is the spine of the back half
+of the book and everything below serves it.
+
+  AND HERE IS WHY IT IS THE THESIS AND NOT A BUSINESS PLAN. Section 3 says this
+  world lost ADMINISTRATION and kept every craft. Section 3 also says technique
+  is transmitted knowledge and nothing here is transmitted, because nothing is
+  written down, so nothing accumulates. HIS CATALOGUE IS A LIST OF THE EXACT
+  THINGS THAT BROKE. Negotiation, inventory, personnel: those ARE the missing
+  department, printed. He is not starting a press. He is repairing the fault
+  that dropped the aqueduct, and the aqueduct is only the visible half of it.
+  Nobody in the book ever says this out loud. Do not let them.
+
+  THE CATALOGUE, roughly in the order he will get to it:
+  1  THE PRIMER. Books that teach reading. THE KEYSTONE, because every other
+     title's market is capped by it, and because it is the one product that
+     manufactures its own customers. It is also the cheapest to make and the
+     easiest to pirate, and he will not care about the piracy.
+  2  FIGHTING. Already written, in six lines, on elm, in ch20. His first
+     manuscript exists before his first press does. Market: sworn companies
+     under charter, whose captains and clerks already read (see below).
+  3  EROTICA. Commercially the surest thing in the list and he knows it. In a
+     world where nobody has been taught anything and there is no oral, an
+     illustrated manual is not a novelty, it is a public service. NOTE THE
+     COLLISION, which is a gift: prostitutes are the only practised people
+     alive, so his co-authors are obvious and the scene writes itself.
+  4  THE TRADE BOOKS. Negotiation, inventory, personnel, accounts, contracts.
+     The department the world lost. Also the titles that make his name and make
+     the rest of his business work, which is his stated reason for them.
+  5  MAGIC AND ENGINEERING. How to build the world better. NEITHER IS HIS FIELD
+     AND HE SAYS SO. He does not learn magic and he does not become an engineer.
+     HE FINDS THE PEOPLE WHO KNOW AND GETS IT OUT OF THEM AND ONTO PAPER.
+     That is the character exactly: he invents nothing, he organises. A publisher
+     is a man who arranges other people's knowledge, and he has been doing that
+     since ch14 with six farmers and a windlass.
+
+  THE ORDER IS FORCED, and this is the useful part for plotting. Each step is
+  locked behind the one before it and none of them can be skipped:
+     money  ->  he has one goat. The city's metal (ch19) is step zero.
+     letters  ->  done, ch18, in one evening.
+     a manuscript  ->  done, ch20, six lines on stolen roof shingles.
+     A SUBSTRATE  ->  there is no paper. A mill: water, rag, a vat, screens and
+       a press for the sheets. Water power exists (section 3) so it is possible.
+       From outside it is a man stirring rags in a tub.
+     COPIES BY HAND FIRST. Scribes before type. He can sell dear manuscript
+       copies to captains long before he owns a press, and that is the business
+       that funds the press. Do not skip this rung, it is how it really went.
+     TYPE  ->  hand-cut movable type is a SMITH'S JOB, and he is travelling with
+       one. Ylva was chosen for other reasons and turns out to be load-bearing
+       here. Do not point at it early.
+     THE PRESS  ->  a hand screw press, same class of tool as a wine press.
+     THE MARKET  ->  which is why the primer is number one on the catalogue.
+
+  WHO FIGHTS HIM, and every one of these falls out of what is already written:
+  - THE LITERATE TRADES. Stewards, factors and guild clerks hold their position
+    because reading is scarce. Cheap primers end that. They are not villains,
+    they are people whose living he is destroying, which is better.
+  - THE GUILDS. A guild grades by human judgement and holds power through
+    apprenticeship, which is knowledge released slowly and on terms. A printed
+    manual is apprenticeship handed out free at the gate.
+  - WHOEVER WANTS THE FIGHTING BOOK. A war in the east (thread 7) and a lord who
+    does not answer letters. Printed doctrine is a strategic asset, and the first
+    powerful man who understands that will want to own it or stop it.
+
 - Gaara wants to build something of his own here again, an enterprise of some
   kind (which one is open). Consistent with his core drive for control and with
   "results were not the currency, proximity was."
 - He wants to give knowledge away, not hoard it. A deliberate inversion of the
   gatekept, proximity-first world he left.
-- Publishing books is a concrete goal. Whether printing already exists in this
-  world or Gaara introduces it is UNDECIDED and gets discovered in-story, not
-  pre-legislated. The author has seen only medieval things so far and does not
-  know yet. Guardrail for when it does come: keep it a hand screw-press with
+- Publishing books is THE goal, and printing DOES NOT EXIST (decided, section
+  3). He introduces it. Guardrail when it comes: keep it a hand screw-press with
   hand-cut movable type, the same class of tool as an ancient olive or wine press,
   worked by hand, so it stays inside the medieval baseline and reads as a
   deliberate story event, never as anachronistic machinery. (A world that copies

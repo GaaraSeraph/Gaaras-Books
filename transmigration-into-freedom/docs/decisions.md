@@ -3,6 +3,32 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== The publishing programme, and it closes the thesis ===
+The author laid out the whole catalogue: a press, affordable books generally,
+erotica, fighting, primers, and the trade books that make his name and his
+business work - negotiation, inventory, personnel. Plus magic and engineering,
+for which he hires experts, because neither is his field.
+THE LAST PART IS THE ONE THAT MATTERS AND HE MAY NOT HAVE NOTICED. Section 3
+already says this world lost ADMINISTRATION rather than technique, and that
+nothing accumulates because nothing is written down. HIS CATALOGUE IS A LIST OF
+THE THINGS THAT BROKE. He is not starting a business next to the plot, he is
+repairing the exact fault that dropped the aqueduct. Nobody says it out loud.
+AND HIRING EXPERTS RATHER THAN LEARNING IS THE CHARACTER, NOT A SHORTCUT. He
+invents nothing for the whole book. A publisher arranges other people's
+knowledge, which is what he did to six farmers and a windlass in ch14.
+THE DEPENDENCY CHAIN IS WRITTEN DOWN because it gives the back half its plot:
+money, letters, a manuscript, a SUBSTRATE, hand copies, type, a press, a market.
+Two rungs are worth guarding. HAND COPIES BEFORE TYPE, because scribal sale is
+how the press gets funded and skipping it is the usual fantasy cheat. And TYPE
+IS A SMITH'S JOB, so Ylva, picked for entirely other reasons, turns out to be
+structural. Do not point at that until it lands.
+THE PRIMER IS NUMBER ONE, because every other title's market is capped by it and
+it is the only product that manufactures its own customers.
+AND THE OPPOSITION COMES FREE: the literate trades whose living is scarcity, the
+guilds whose power is apprenticeship, and whoever works out that printed combat
+doctrine is a strategic asset in a war nobody has finished yet.
+
+
 === Nobody in this world is any good in bed, and that is a world rule ===
 Author: he expects clumsiness, especially from the inexperienced, which is
 everybody here except prostitutes.
