@@ -763,8 +763,15 @@ Fassung.**
   und hat es im Wagen trotzdem aufgeschrieben. Die Klammer schliesst erst, wenn
   es irgendwo aktenkundig ist. **Faellig, wenn das Heft aufgeht.**
 
-- **Hwang im Oktober.** *"It is a forecast. You may check it in October."* Eine
-  Vorhersage mit Datum, ueber die man das Buch aufschlagen kann.
+- **Hwang im Oktober.** *"You will be in work by October."* Eine Vorhersage mit
+  Datum, ueber die man das Buch aufschlagen kann. **Und Hwang hat sich verbeten,
+  dass sie ein zweites Mal gesagt wird** - wenn sie eintrifft, dann als Tatsache
+  und ohne Georgij im Raum.
+
+- **Die Settlement-Buecher liegen in einem Lager.** Seit dem 20. Mai, gegen ein
+  von Hwang unterschriebenes Verzeichnis, bei einem Fonds ohne Interesse daran.
+  **Sie sind nicht vernichtet, sie sind nur unerreichbar** - und ein Fonds
+  verkauft Dinge, und Mr Yeom kennt den Fonds. **Ein Faden, kein Loch.**
 
   **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
   Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.

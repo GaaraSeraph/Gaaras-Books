@@ -1395,7 +1395,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
-- **Band 2, Kapitel 28** *He keeps everything* (v1.1) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+- **Band 2, Kapitel 28** *He keeps everything* (v1.2) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 
   **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
 
@@ -1429,11 +1429,19 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Georgij stimmt nicht zu und lehnt nicht ab, und Hwang fragt kein zweites Mal.** Im Wagen schreibt er es dann doch, unter das Datum, **ohne es jemandem versprochen zu haben:** *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* / *She has a list.*
 
-  **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
+  **Am Schluss faengt Georgij an, die Prognose aus Kapitel 21 zu wiederholen - und Hwang laesst ihn nicht.** *"You said that to me in May. You said eventually, and you said it would be beneath me, and I asked you whether it was supposed to be a kindness. I have had three weeks with it and I am used to it."* Und dann: **"Do not say it twice. The second one is not for me."**
+
+  **Das ist das erste Mal, dass jemand Georgij liest, so wie er alle liest**, und es stimmt: die zweite Fassung war fuer ihn selbst. Er nimmt es an und sagt es auch. *"No. It is not."*
+
+  **Und danach steht die letzte Auskunft, und sie ist eine geschlossene Tuer:** die Settlement-Buecher sind **am 20. Mai in einem Wagen aus dem Haus gegangen, gegen ein von Hwang unterschriebenes Verzeichnis**, in ein Lager eines Fonds, der sie nie aufmachen wird. *"I could have had the settlement books copied in the first week of May and not one person would have asked me a question about it. It did not occur to me, because in the first week of May I still thought the worst thing in this house was a practice I had stopped."* - **"I should have asked you for them in May." - "Yes. You should."**
+
+  **Damit ist die Lage vor Kapitel 29 eindeutig:** ausser dem Lager gibt es genau **eine** Aufzeichnung darueber, was an diesem Schalter nie durchgelaufen ist, und sie liegt in einer Wohnung vier Haltestellen draussen, in einem Schulheft, das eine Frau selbst bezahlt hat.
+
+  **Korrigiert am 24.08. (v1.2).** Bis dahin sagte Georgij die Prognose zum zweiten Mal, und Hwang stellte woertlich dieselbe Frage wie in Kapitel 21 (*"Is that supposed to be a kindness."*). **Das war dieselbe Szene zweimal**, und `check.py` hatte den Satz in beiden Kapiteln gemeldet - der Fund lag da und wurde fuer ein Motiv gehalten.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.2) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.3) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -1448,6 +1456,12 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
 
   **Und dann legt sie den Anruf auf den Tisch, und er ist der Grund, warum sie ueberhaupt etwas von ihm will.** Am 10. April erfuhr sie, dass sie geht, **und niemand ausserhalb des Gebaeudes wusste das.** Am 28. April rief eine Firma aus Yeouido an. **Es fehlte kein Name** - die Anruferin nannte ihren eigenen, ihre Durchwahl und das Haus, und sie sass danach zwei ausgesucht hoeflichen Leuten gegenueber. **Was fehlte, war der Weg:** am Ende fragte sie, wie ihr Name auf diesen Tisch gekommen ist, *"and then said that it had come through a contact."*
+
+  **Und die Bilanz, die Georgij ihr vorrechnet, beantwortet den Einwand, den das geschlossene Haus aufwirft.** Die Schliessung hat die Seite nicht wertlos gemacht, sondern **unbestaetigbar**: *"That page has four references on it and a phrase, and it has no column for who paid, and the house that wrote it is finished and cannot be asked anything. That is the whole of why she is safe."* Und weiter: *"a page that nobody living will stand behind is a photocopy of an allegation."*
+
+  **Hwang faellt als Zeuge aus, und Georgij sagt auch warum:** *"Mr Hwang can say the page is his. He cannot say who was in the room, and what he does know he knows because I told him in May."*
+
+  **Mrs Jeon zieht die Folge selbst, in ihrem eigenen Vokabular:** *"So I am the bill."* - **"You are the bill."** Sie ist genau das, was die Freigabe nie gesagt hat (Kapitel 7: *"it does not say who is receiving it, because the receiving is what the bill is for and there is no bill"*), **und sie ist die Einzige in der ganzen Sache, die nie von irgendwem bezahlt worden ist.**
 
   **Also nahm sie es nicht, und ihr Grund ist ihr Beruf und nicht ihr Stolz:** *"A line that arrives in the book and nobody will say where it came from is the one thing I know how to be afraid of. I have been sitting on one of those since January, and I was not going to go and work inside a second one for a salary."* Und dann: **"It was you." - "Yes."**
 

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 64 Kapitel, 169.448 Woerter.
+2 Baende, 64 Kapitel, 169.937 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -72,8 +72,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 25 | v1.0 | 2.144 |
 | 2 | 26 | v1.0 | 2.039 |
 | 2 | 27 | v1.2 | 2.034 |
-| 2 | 28 | v1.1 | 2.129 |
-| 2 | 29 | v1.2 | 2.450 |
+| 2 | 28 | v1.2 | 2.465 |
+| 2 | 29 | v1.3 | 2.603 |
 | 2 | 30 | v1.0 | 2.052 |
 
 ---
@@ -19190,7 +19190,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 28: He keeps everything
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -19500,13 +19500,57 @@ He did not agree to it. He also did not refuse, and Mr Hwang had been in enough 
 
 ---
 
-"You will be in work by October," said Georgij. "It will be beneath you and you will do it properly and none of that has changed. But the man who takes you on is going to get somebody who has learned the only thing you did not know in the autumn. It will have cost him nothing, and he will never find out what it cost you."
+"You will be in work by October," said Georgij. "It will be beneath you and you will do it properly, and the man who takes you on is going to get somebody who has learned the only thing you did not know in the autumn."
 
 ---
 
-"Is that supposed to be a kindness."
+Mr Hwang picked the page back up off the table and turned it the right way round.
 
-"No," said Georgij. "It is a forecast. You may check it in October."
+---
+
+"You said that to me in May," he said. "You said eventually, and you said it would be beneath me, and I asked you whether it was supposed to be a kindness. I have had three weeks with it and I am used to it."
+
+---
+
+He put the page down square with the edge.
+
+---
+
+"Do not say it twice. The second one is not for me."
+
+---
+
+Georgij stood in a cold room and took it.
+
+---
+
+"No," he said. "It is not."
+
+---
+
+"Then there is one more thing I want and it is not the address," said Georgij. "The settlement ledgers."
+
+---
+
+Mr Hwang looked at the crate he had closed.
+
+---
+
+"Gone on the twentieth, in a van, against an inventory I signed," he said. "They are in a storage unit belonging to a fund that has no interest in what is in them. In some number of years somebody will work out what that unit costs a month, and they will be pulped."
+
+---
+
+"And you cannot get at them."
+
+---
+
+"I am not the custodian of anything in this building any more." Mr Hwang put one hand flat on the crate lid. "I could have had the settlement books copied in the first week of May and not one person would have asked me a question about it. It did not occur to me, because in the first week of May I still thought the worst thing in this house was a practice I had stopped."
+
+---
+
+"I should have asked you for them in May."
+
+"Yes," said Mr Hwang. "You should."
 
 ---
 
@@ -19521,6 +19565,12 @@ Mr Ku had the car by the wall.
 Georgij read the address in the car. It is four stops out of a station he has never used, in a district that does not appear once in anything he has read this year.
 
 On the sixteenth of March she told him to come back when he had his name. She said she would tell him the rest of what she knew, and that it was not very much and was worth having.
+
+---
+
+Mr Hwang would not take the exercise book in January, and it went back out of that building in her bag the same afternoon.
+
+The ledgers are in a unit in a yard behind a fund that has never opened them. Every other record of what did not clear at that desk is in a flat four stops out of a station he has never used. It is a school exercise book, and the woman who bought it has been given no reason at all to show it to anybody.
 
 ---
 
@@ -19541,7 +19591,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -19803,7 +19853,27 @@ She had asked him two questions since he came in and both of them had been flat.
 
 ---
 
-"There is a woman who bought two people on the fourth of October, and there is no paper anywhere that connects her to either of them, and that is the only reason she is safe," he said. "You have just been given the connection. You could sell it. You could take it to a newspaper. You could hold it for eight years and take it out when you needed something, and there would be nothing anybody could do to you afterwards except things that would make it worse."
+"There is a woman who bought two people on the fourth of October," he said. "That page has four references on it and a phrase, and it has no column for who paid, and the house that wrote it is finished and cannot be asked anything. That is the whole of why she is safe."
+
+---
+
+"It went to every buyer in March," said Mrs Jeon.
+
+---
+
+"It went to six hundred and forty of them in March and it has been lying in their drawers ever since, because a page that nobody living will stand behind is a photocopy of an allegation." Georgij kept his hands where they were. "Mr Hwang can say the page is his. He cannot say who was in the room, and what he does know he knows because I told him in May."
+
+---
+
+Mrs Jeon looked at the closed cover under her hands.
+
+---
+
+"So I am the bill," she said.
+
+---
+
+"You are the bill," said Georgij. "You were behind the glass for both of them and there is nobody else left who was, and you are the only person in this who has never been paid by anybody. You could sell it. You could take it to a newspaper. You could hold it for eight years and take it out when you needed something, and there would be nothing anybody could do to you afterwards except things that would make it worse."
 
 ---
 

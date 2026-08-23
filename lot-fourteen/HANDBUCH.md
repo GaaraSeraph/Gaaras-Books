@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 130.697 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 131.393 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3512,7 +3512,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
-- **Band 2, Kapitel 28** *He keeps everything* (v1.1) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+- **Band 2, Kapitel 28** *He keeps everything* (v1.2) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 
   **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
 
@@ -3546,11 +3546,19 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Georgij stimmt nicht zu und lehnt nicht ab, und Hwang fragt kein zweites Mal.** Im Wagen schreibt er es dann doch, unter das Datum, **ohne es jemandem versprochen zu haben:** *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* / *She has a list.*
 
-  **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
+  **Am Schluss faengt Georgij an, die Prognose aus Kapitel 21 zu wiederholen - und Hwang laesst ihn nicht.** *"You said that to me in May. You said eventually, and you said it would be beneath me, and I asked you whether it was supposed to be a kindness. I have had three weeks with it and I am used to it."* Und dann: **"Do not say it twice. The second one is not for me."**
+
+  **Das ist das erste Mal, dass jemand Georgij liest, so wie er alle liest**, und es stimmt: die zweite Fassung war fuer ihn selbst. Er nimmt es an und sagt es auch. *"No. It is not."*
+
+  **Und danach steht die letzte Auskunft, und sie ist eine geschlossene Tuer:** die Settlement-Buecher sind **am 20. Mai in einem Wagen aus dem Haus gegangen, gegen ein von Hwang unterschriebenes Verzeichnis**, in ein Lager eines Fonds, der sie nie aufmachen wird. *"I could have had the settlement books copied in the first week of May and not one person would have asked me a question about it. It did not occur to me, because in the first week of May I still thought the worst thing in this house was a practice I had stopped."* - **"I should have asked you for them in May." - "Yes. You should."**
+
+  **Damit ist die Lage vor Kapitel 29 eindeutig:** ausser dem Lager gibt es genau **eine** Aufzeichnung darueber, was an diesem Schalter nie durchgelaufen ist, und sie liegt in einer Wohnung vier Haltestellen draussen, in einem Schulheft, das eine Frau selbst bezahlt hat.
+
+  **Korrigiert am 24.08. (v1.2).** Bis dahin sagte Georgij die Prognose zum zweiten Mal, und Hwang stellte woertlich dieselbe Frage wie in Kapitel 21 (*"Is that supposed to be a kindness."*). **Das war dieselbe Szene zweimal**, und `check.py` hatte den Satz in beiden Kapiteln gemeldet - der Fund lag da und wurde fuer ein Motiv gehalten.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.2) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.3) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -3565,6 +3573,12 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
 
   **Und dann legt sie den Anruf auf den Tisch, und er ist der Grund, warum sie ueberhaupt etwas von ihm will.** Am 10. April erfuhr sie, dass sie geht, **und niemand ausserhalb des Gebaeudes wusste das.** Am 28. April rief eine Firma aus Yeouido an. **Es fehlte kein Name** - die Anruferin nannte ihren eigenen, ihre Durchwahl und das Haus, und sie sass danach zwei ausgesucht hoeflichen Leuten gegenueber. **Was fehlte, war der Weg:** am Ende fragte sie, wie ihr Name auf diesen Tisch gekommen ist, *"and then said that it had come through a contact."*
+
+  **Und die Bilanz, die Georgij ihr vorrechnet, beantwortet den Einwand, den das geschlossene Haus aufwirft.** Die Schliessung hat die Seite nicht wertlos gemacht, sondern **unbestaetigbar**: *"That page has four references on it and a phrase, and it has no column for who paid, and the house that wrote it is finished and cannot be asked anything. That is the whole of why she is safe."* Und weiter: *"a page that nobody living will stand behind is a photocopy of an allegation."*
+
+  **Hwang faellt als Zeuge aus, und Georgij sagt auch warum:** *"Mr Hwang can say the page is his. He cannot say who was in the room, and what he does know he knows because I told him in May."*
+
+  **Mrs Jeon zieht die Folge selbst, in ihrem eigenen Vokabular:** *"So I am the bill."* - **"You are the bill."** Sie ist genau das, was die Freigabe nie gesagt hat (Kapitel 7: *"it does not say who is receiving it, because the receiving is what the bill is for and there is no bill"*), **und sie ist die Einzige in der ganzen Sache, die nie von irgendwem bezahlt worden ist.**
 
   **Also nahm sie es nicht, und ihr Grund ist ihr Beruf und nicht ihr Stolz:** *"A line that arrives in the book and nobody will say where it came from is the one thing I know how to be afraid of. I have been sitting on one of those since January, and I was not going to go and work inside a second one for a salary."* Und dann: **"It was you." - "Yes."**
 
@@ -5380,8 +5394,15 @@ Fassung.**
   und hat es im Wagen trotzdem aufgeschrieben. Die Klammer schliesst erst, wenn
   es irgendwo aktenkundig ist. **Faellig, wenn das Heft aufgeht.**
 
-- **Hwang im Oktober.** *"It is a forecast. You may check it in October."* Eine
-  Vorhersage mit Datum, ueber die man das Buch aufschlagen kann.
+- **Hwang im Oktober.** *"You will be in work by October."* Eine Vorhersage mit
+  Datum, ueber die man das Buch aufschlagen kann. **Und Hwang hat sich verbeten,
+  dass sie ein zweites Mal gesagt wird** - wenn sie eintrifft, dann als Tatsache
+  und ohne Georgij im Raum.
+
+- **Die Settlement-Buecher liegen in einem Lager.** Seit dem 20. Mai, gegen ein
+  von Hwang unterschriebenes Verzeichnis, bei einem Fonds ohne Interesse daran.
+  **Sie sind nicht vernichtet, sie sind nur unerreichbar** - und ein Fonds
+  verkauft Dinge, und Mr Yeom kennt den Fonds. **Ein Faden, kein Loch.**
 
   **Der erste Faden steht schon:** Mrs Jeon hat dreiundzwanzig Jahre lang jede
   Zeile dieses Hauses gelesen und war da, als der Eintrag noch drin stand.
@@ -6537,7 +6558,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
 | Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
-| Mr Hwang | 49 | 6 (b2ch07-b2ch28) | 3 | 39 |
+| Mr Hwang | 55 | 7 (b2ch07-b2ch29) | 3 | 40 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 35 | 10 (b1ch07-b2ch26) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -6546,7 +6567,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 28 | 4 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mrs Jeon | 25 | 6 (b2ch06-b2ch30) | 5 | 40 |
+| Mrs Jeon | 27 | 6 (b2ch06-b2ch30) | 5 | 40 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
 | Mr Ku | 23 | 17 (b1ch05-b2ch29) | 3 | 60 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
@@ -7063,7 +7084,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 38 | b2ch27:240 | Annie stood in the middle of her own room. |
 | 38 | b2ch27:266 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
-| 40 | b2ch29:378 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
+| 40 | b2ch29:398 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
 | 40 | b2ch30:20 | Annie was standing at the side of the desk with a folder open in her hand. |
 | 40 | b2ch30:42 | Annie put the folder down on the desk and squared it with two fingers, which is not a th.. |
 | 40 | b2ch30:62 | "Sit down," said Annie. |
@@ -7209,7 +7230,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch27:186` (Tag 38) - four
 - `b2ch27:204` (Tag 38) - sixty-eight
 - `b2ch27:266` (Tag 38) - four, sixty-eight
-- `b2ch29:378` (Tag 40) - eleven, four
+- `b2ch29:398` (Tag 40) - eleven, four
 - `b2ch30:42` (Tag 40) - two
 - `b2ch30:238` (Tag 40) - one
 - `b2ch30:242` (Tag 40) - ten
@@ -8134,7 +8155,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-49 Nennungen in 6 Kapiteln.
+55 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8187,6 +8208,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch28:280 | "There is one thing," said Mr Hwang. |
 | 39 | b2ch28:302 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
 | 39 | b2ch28:306 | "Mr Hwang." |
+| 39 | b2ch28:316 | Mr Hwang picked the page back up off the table and turned it the right way round. |
+| 39 | b2ch28:344 | Mr Hwang looked at the crate he had closed. |
+| 39 | b2ch28:356 | "I am not the custodian of anything in this building any more." Mr Hwang put one hand fl.. |
+| 39 | b2ch28:362 | "Yes," said Mr Hwang. "You should." |
+| 39 | b2ch28:380 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
+| 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -8212,6 +8239,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch28:208` (Tag 39) - one, twenty
 - `b2ch28:216` (Tag 39) - one, two
 - `b2ch28:280` (Tag 39) - one
+- `b2ch28:356` (Tag 39) - one
+- `b2ch29:272` (Tag 40) - six hundred and forty
 
 ---
 
@@ -8703,7 +8732,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-25 Nennungen in 6 Kapiteln.
+27 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8719,7 +8748,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
 | 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
 | 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 39 | b2ch28:346 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
+| 39 | b2ch28:396 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
 | 40 | b2ch29:24 | "You," said Mrs Jeon. |
 | 40 | b2ch29:66 | "Four minutes," said Mrs Jeon. |
 | 40 | b2ch29:84 | Mrs Jeon looked at the window for a moment. |
@@ -8728,9 +8757,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 40 | b2ch29:202 | "Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and .. |
 | 40 | b2ch29:208 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
 | 40 | b2ch29:230 | Mrs Jeon did not move. |
-| 40 | b2ch29:274 | Mrs Jeon sat back in the chair for the first time since he came in. |
-| 40 | b2ch29:330 | "Mrs Jeon." |
-| 40 | b2ch29:364 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
+| 40 | b2ch29:268 | "It went to every buyer in March," said Mrs Jeon. |
+| 40 | b2ch29:276 | Mrs Jeon looked at the closed cover under her hands. |
+| 40 | b2ch29:294 | Mrs Jeon sat back in the chair for the first time since he came in. |
+| 40 | b2ch29:350 | "Mrs Jeon." |
+| 40 | b2ch29:384 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
 | 40 | b2ch30:30 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
@@ -8823,7 +8854,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:250 | "No," said Mr Ku. |
 | 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:326 | Mr Ku had the car by the wall. |
+| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
 | 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
 
 ### Zahlen in der Naehe von Mr Ku
