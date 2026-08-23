@@ -101,6 +101,11 @@ def to_paste(md):
     t = re.sub(r"^\*(.+)\*$", r"\1", t, flags=re.M)
     t = re.sub(r"\*([^*\n]+)\*", r"\1", t)
     t = t.replace("\n---\n", "\n* * *\n")
+    # Blockzitate: der Text eines Briefes, ohne die Markdown-Markierung.
+    t = re.sub(r"^> ?", "", t, flags=re.M)
+    # Kein Test auf ">": die Ersetzung darueber hat jedes davon entfernt.
+    # Eine Klausel dafuer koennte hier nie ausloesen und saehe nur nach
+    # Abdeckung aus.
     left = [l for l in t.split("\n")
             if ("*" in l or l.startswith("#")) and l.strip() != "* * *"]
     if left:

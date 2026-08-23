@@ -103,21 +103,23 @@ nachrechnen, und `check.py` tut das automatisch.
   Annie weigert sich ausdruecklich, ihn zu schicken. Er erklaert Nam das Veto
   und bekommt Aufschub bis zum **1. April**. Sie laesst sich seinen Namen
   aufschreiben (Band 2, Kapitel 8)
-- Tag 168, Fr 20. Maerz, nachts: **der Bericht und die eine Entscheidung.**
-  Auf Nams Spur wird das Veto ab jetzt schlicht **nicht mehr gezogen** - eine
-  Unterlassung hinterlaesst kein Papier. Die zweite Frage, die Tuer in der
-  Klausel, wird bis zum **31. Maerz** vertagt (Band 2, Kapitel 9)
-- Tag 172, Di 24. Maerz: **Mr Hwang.** Vorne herein, Name ins Besucherbuch,
-  zwei Stunden zehn. Georgij gibt ihm die drei Freigaben und bekommt keinen
-  Namen. Hwang kuendigt an, dass er Georgij nachschlagen wird - **Annies
-  "about a month" faellt hier, und Georgij liefert den Anlass selbst**
-  (Band 2, Kapitel 10)
-- Tag 172 bis 173, Di 24. und Mi 25. Maerz: **auf Nams Spur faehrt Ladung.**
-  Zwei Schiffe, vier und fuenf Tage nach der Unterlassung. Niemand schreibt
-  irgendwem (Band 2, Kapitel 11, rueckblickend)
-- Tag 174, Do 26. Maerz: **Hwangs Brief.** Der erste Brief, den Georgij in
-  seinem Leben bekommt. Gestrichen ist nicht geloescht: Annie wurde betrogen.
-  Damit ist Weg 2 der einzige uebrige, **und Hwang geht mit dem Haus unter**
+- Tag 168, Fr 20. Maerz, nachts: **der Bericht, und die Frage, die er seit dem
+  2. Maerz nicht gestellt hat.** Annie hat fuer eine **Loeschung** bezahlt und
+  einen **Strich mit Aufbewahrung** bekommen. Das Veto wird auf Nams Spur
+  schlicht nicht mehr gezogen. **Georgij benennt zum ersten Mal ein Ziel:
+  das Haus ist Ende April erledigt, und zwar durch seine eigenen Kunden**
+  (Band 2, Kapitel 9)
+- Tag 172, Di 24. Maerz: **Mrs Sunwoo.** Er sagt einen Satz und laesst sie in
+  ihrer eigenen Post nachsehen. Sie fuehrt die Sache ab jetzt selbst, ueber den
+  ganzen April, ohne dass Annies Name faellt. Und: der Betrug ist aelter als die
+  Aktenfuehrung (Band 2, Kapitel 10)
+- Tag 172 bis 179, Di 24. bis Di 31. Maerz: Ladung faehrt in Ulsan, Mrs Sunwoo
+  isst zweimal zu Mittag, ein Haus, das seit 1988 dort kauft, sagt eine
+  Besichtigung ab. **Die Vollmacht laeuft am 31. aus und wird nicht erneuert**
+  (Band 2, Kapitel 11, rueckblickend)
+- Tag 180, Mi 1. April: **Nams zweiter Brief und seine Antwort.** Sie hat nicht
+  an ihre sechs geschrieben und fragt statt dessen, **was er ist.** Er schreibt
+  es ihr mit der Hand: der 4. Oktober, die Nummer, drei Zeilen ueber ihrer
   (Band 2, Kapitel 11)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -699,81 +701,75 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
-- **Band 2, Kapitel 9** *Four answers* (v1.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+- **Band 2, Kapitel 9** *What you paid for* (v2.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
 
-  **Erst die Kosten, dann der Ertrag, wie am 11. verlangt.** Drei Dinge, keins davon zuruecknehmbar: sie kennt die Form des Vetos, sie hat mit jemandem aus dem Haus gesprochen, und sie hat seinen Namen in der Manteltasche.
+  **Fassung 1 wurde am 23.08. verworfen, und der Grund gilt fuer 9 bis 11 zusammen.** Elf Kapitel lang endete keines damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben Muster: zahlen, die Haelfte bekommen, dafuer geprueft werden. **Das ist kein Bogen, das ist eine Ratsche.** Und es widerspricht der Praemisse - er hat in Band 1 Park Sang-hoon geschlagen. Die Regel aus 2h heisst, dass **das Repertoire** stumpf wird, nicht der Mann.
 
-  **Dann prueft Annie die Offenlegung woertlich**, und das ist die Szene, die in der ersten Fassung gefehlt hat. Sie laesst ihn die sechs Saetze wiederholen und stoppt ihn beim vierten: **"Shareholders."** - *"You named the instrument."* Seine Verteidigung reicht genau so weit, wie sie reicht: die Art des Instruments, nicht das Instrument, und **"it is a leak. You are right that it is a leak."**
+  **Drei Fehler, die dabei benannt wurden:** die Gegner hatten ab Kapitel 7 die gesamte Initiative; er bezahlte dreimal hintereinander mit **Auskunft ueber sich selbst**; und er arbeitete auf eine **Gefahr** statt auf ein **Ziel**, was genau diesen Bogen erzeugt.
 
-  **Und sie laesst ihm die bequeme Begruendung nicht durchgehen:** *"Do not say that she would not have believed you, because that is a reason and not the reason."* Der Grund darunter: eine Frau, der man drei Monate lang gesagt hat, es passiere nichts, glaubt **eine bestimmte Sache** und keine allgemeine. *"I gave her one word that made it a real object in the world. She stopped arguing on that word."* Annies Urteil steht danach doppelt und bleibt doppelt: **"It was the right trade. It is still a leak."**
+  **Was jetzt darin steht.** Der Bericht und Annies Pruefung der Offenlegung bleiben, aber kurz: sie stoppt ihn bei *"shareholders"*, und ihr Urteil bleibt doppelt - **"It was the right trade. It is still a leak."** Die Ladungsentscheidung ist eine **Unterlassung** und das ist ihr Witz: *"An hour in a room is an answer. Cargo is weather."* - **"Because it is not a thing that gets done."** - *"Because it is a thing that stops getting done."*
 
-  **Die Zeitbombe, die Annie legt und er nicht sieht.** Nam hat gefragt, was er ist, und er hat mit *"I work in the house you wrote to"* geantwortet - wahr und keine Antwort. **"She did not ask it twice."** - *"She will."* Und: *"You have until then to work out what the true version sounds like, and you are not going to like any of the ones that are available."* **Damit hat Regel 1 zum ersten Mal ein Ablaufdatum.**
+  **Dann die Frage, die er seit dem 2. Maerz nicht gestellt hat**, weil es keine Fassung davon gab, in der er nicht nach sich selbst fragte: **"On the nineteenth of February, what did you buy."** Annie: eine **Loeschung**, viermal in sieben Wochen, beim dritten Mal nicht Geld, und sie hat sich das Wort in einem vollstaendigen Satz sagen lassen und ein zweites Mal wiederholen lassen.
 
-  **Die Entscheidung des Kapitels ist eine Unterlassung, und das ist der ganze Witz.** Aus *eine Stunde mit sechs Maennern* ist *Ladung* geworden, und Ladung braucht keinen Beschluss: **niemand zieht die Klausel mehr auf dieser Spur.** *"An hour in a room is an answer. Cargo is weather. ... It is the first thing in three months that does not leave a mark."* - **"Because it is not a thing that gets done."** - *"Because it is a thing that stops getting done."*
+  **Und er findet es im Raum.** Die Seite hinten ist eine Liste **aufbewahrter** Eintraege. *"A deletion is the other thing. A deleted entry is nowhere."* **Zwei der vier sind ihre.** - *"They took your money twice and they struck a line through a page twice and kept the record twice. You were not sold silence. You were sold a piece of stationery."* Und: **"A house that does it once has a dishonest man in it. A house that does it four times in four years has a price list."**
 
-  **Annies einzige Regung dazu:** *"Do not look pleased."* - *"No, Mistress."* - **"You are permitted to be pleased. Do not look it."**
+  **Der Satz, der keine Analyse ist:** *"What they took the money for was me. ... They sat on the other side of a table and let you do it, and they had no intention of doing it, and they will do it again to somebody in June."*
 
-  **Die zweite Sache, und hier haben beide recht.** Georgij: das Veto **erzeugt** Leute wie Nam. *"You did not make an enemy of Nam Byung-hee. You made four people desperate."* Und: *"Somebody went shopping in a shop that you are stocking. ... If you keep it as it is, there are three more of her."*
+  **Der Umschlag des Bandes, und er sagt ihn selbst.** *"I have been working to a danger and not to a target. ... I have spent three weeks answering. Tonight I stop."* Das Ziel: **das Haus ist Ende April erledigt, erledigt durch seine eigenen Kunden, und nichts davon kommt an diese Tuer zurueck.**
 
-  **Annie gibt dafuer etwas her, was sie noch nie hergegeben hat: den wahren Zweck des Dezemberkaufs.** *"Do you know what I bought it for."* - *"Routes."* - **"That is what it says. It is not what it is for. It is a lock."** Ohne die Klausel kommt die Position des Herbstes in achtzehn Monaten zurueck, **in Stuecken, die zu klein sind, um auf einen Tag zu zeigen.** Georgij: *"Then I was wrong about the shape of it. Not about the effect."*
+  **Die Methode ist keine Drohung.** Das Haus verkauft ausschliesslich Verschwiegenheit und ist sonst nichts wert. Der Beweis steht auf der Rueckseite eines Katalogs, **den das Haus seinen Kunden selbst geschickt hat.** Also: Mrs Sunwoo die Wahrheit sagen und sie in ihre eigene Post sehen lassen. *"She is the second-largest customer that house has ever defrauded, she is eighty-one, and she has forty years of knowing exactly who else buys there."*
 
-  **Seine Korrektur ist der Faden fuer den Rest des Bandes:** nicht die Klausel hat sie gemacht, **sondern dass es nirgendwo hingeht.** *"To be told no by a person, on a date, and go away knowing that a human being considered it."* Eine Kanzlei taugt nicht - eine Kanzlei ist ein Verfahren, und ein Verfahren ist auffindbar. Es muss ein Mensch sein, den niemand auf Papier an sie haengen kann. **Und davon gibt es genau einen.**
+  **Die drei, die es trifft und die nichts getan haben**, zaehlt er selbst auf: Mrs Jeon (fuer die er etwas tun kann), **Mr Hwang** (fuer den nicht), und wer auf der vierten Zeile steht. **Warnen geht nicht**, weil Hwang nichts zurueckhaelt: *"There is no version where he gets to know and does not write it down. All of the doors are the same door."*
 
-  **Annie sagt nicht nein und sie entscheidet es nicht:** *"I decided one thing tonight and I am not going to decide two."* Vertagt auf den **31. Maerz** - also auf den Tag, an dem die Vollmacht ausläuft, **und den Tag, bevor Nam ihre Briefe schreibt.** Beide wissen es, keiner sagt es.
+  **Annie verlaengert die Vollmacht nicht, und zwar aus Respekt und nicht als Strafe:** *"A power of attorney with three names and a month on it is a document that describes a man doing errands. You are going to walk up that woman's drive holding nothing, which is what you are for."*
 
-  **Der Titel kommt aus dem einzigen Teil des Abends, der kein Geschaeft ist.** Annie laesst sich Nams Satz noch einmal sagen: zwanzig Jahre, **vier Antworten, alle vier von demselben Mann, und der ist tot.** Sie sagt nichts dazu und **fragt den ganzen Monat lang nichts mehr ueber diese Frau.**
+  **Und sie prueft, ob er es ernst gemeint hat.** *"Say it again on the first."* - **Er sagt es am ersten wieder, und es ist immer noch Ende April.**
 
-  **Und dann das Haeusliche**, das dieser Band gebrauchen kann: *"What time did you eat."* - *"On the train."* - *"What."* - *"Nothing that anybody would want the details of."* Sie setzt ihn auf den Boden an die Seite des Schreibtischs, liest zwanzig Minuten und legt irgendwann die Hand in sein Haar, ohne von der Seite aufzusehen.
+- **Band 2, Kapitel 10** *The third line down* (v2.0) - **Tag 172, Di 24. Maerz. Eine Szene, ein Haus auf einem Huegel im Norden.**
 
-  **Und er merkt, wofuer sie liest, und sagt es nicht.** Nicht, was das Papier erlaubt - **was im naechsten stehen muesste.**
+  **Die Vorbereitung besteht aus Streichungen.** Nicht drohen, nicht handeln, nicht ueberzeugen - *"a woman who has been careful for forty years has a lifetime of watching men be convincing, and it is the fastest way there is to be shown the door."* **Was bleibt, ist ein Satz und ein Blatt Papier, das schon in ihrem Haus liegt.**
 
-- **Band 2, Kapitel 10** *Everything is kept* (v1.0) - **Tag 172, Di 24. Maerz. Eine Szene, das Auktionshaus, dazu der Sonntag davor und der Buergersteig danach.**
+  **Wie er hineinkommt:** ihr eigener Satz, zurueckgegeben. **"Tell her we haven't met."** - *"I have been saying it for a very long time and nobody has ever handed it back."*
 
-  **Der eine Raum, in dem sein Verfahren nicht funktioniert, und er rechnet das am Sonntag aus.** Er kann nichts weglassen, er kann die wahren Dinge nicht sortieren, und er kann sich nicht beliebt machen - **weil der Mann alles aufhebt und den Rest bis Freitag hat.** *"That is the whole of his trade and all three of it is unavailable in one room."* Was bleibt, ist das, was er noch nie mit Absicht getan hat: **alles sagen und den anderen damit machen lassen, was er will.**
+  **Der Satz selbst, und er hat auf dem Sonntag das Wort *sorry* daraus entfernt**, weil es fuer ihn gewesen waere und nicht fuer sie: *"They took the money and they did not delete it. It is on the back page of the catalogue they posted you in March. It is the third line down."* **Dann hoert er auf zu reden.** Sie laesst den Katalog holen, weiss genau, wo er liegt, findet die Zeile mit einem Finger und liest sie zweimal.
 
-  **Er benutzt Mrs Jeon ausdruecklich nicht.** Sie haette ihn an einem Nachmittag vor den Mann gebracht - und es waere in einer Notiz mit ihrem Namen gelandet, sechs Wochen bevor sie das Gebaeude verlaesst. Also geht er vorne herein und **schreibt seinen Namen ins Besucherbuch.** Zweites Mal in vierzehn Tagen.
+  **Sie fragt die gefaehrliche Frage und er beantwortet sie.** *"Which line is you."* - **"The fourth of October. Fourteen."** Das ist der Preis des Kapitels und er ist bewusst gezahlt.
 
-  **Hwangs erster Satz ist die beste Vorstellung, die eine Figur in Band 2 bekommt:** *"You wrote no company on the form. You wrote a name and you left the rest of the line empty."* - **"There was nothing true to put in it."**
+  **Und er bittet sie um nichts**, weil es nichts gibt, was sie nicht binnen vierzehn Tagen fuer sich selbst taete. Sie durchschaut es und sagt es laut: *"So you did come here to ask me for something. You have simply arranged it so that I have to think of it myself."* - **"Yes. And I would rather you said that out loud than thought it on Thursday."**
 
-  **Die Bitte wird abgelehnt, und zwar sofort und mit Begruendung**, weil Hwang keine Zeit mit Umwegen verschwenden will: das Papier ist alles, was es gibt - *"a signature, a date and a gap"*. **Und die Unterschrift ist seine.**
+  **Was sie zusagt, ist mehr als er geholt hat:** den ganzen April, langsam, an Leute, die zaehlen, **und Annies Name faellt in keinem Satz.** Ihr Grund ist kalt und richtig: *"a woman of eighty-one who has been personally cheated is the most credible witness in this city, and the moment there are two of us it becomes a dispute."*
 
-  **Was Georgij ihm gibt, gibt er bedingungslos:** Hwang war dreiundzwanzig, war zwei Jahre im Haus, hat unterschrieben, was man ihm hinlegte - **und er hat drei davon unterschrieben, innerhalb von elf Wochen, und er wusste nicht, dass es drei waren.** *"I am not telling you that you did something wrong. You were twenty-three and you were asked."*
+  **Und die Auskunft, die alles vergroessert:** es gab welche **vor** dieser Seite. Sie kennt zwei, beide tot, einer hat es ihr 2011 auf einer Beerdigung erzaehlt und fand es komisch. **Was Hwang gefunden hat, war nur, was jemand aufgeschrieben hatte.**
 
-  **Hwang sagt an, was er tun wird, und das ist keine Drohung, sondern eine Auskunft:** *"I am going to look you up ... because you have made yourself part of a matter in this house. ... I would do it if you were a florist."* Und Georgij dazu: *"I worked it out on Sunday afternoon and I came anyway, and I would like that in the file as well."* - **"I do not put opinions in files, so it will be in it as a sentence you said."**
+  **Woraus die naechste Frage folgt, und sie gefaellt ihm nicht:** ein Haus, das so etwas tut, seit bevor es Akten fuehrte, tut es **fuer jemanden**. Und die eine Zeile, die nie berechnet wurde, ist das einzige Stueck, das er nicht stumpf machen kann.
 
-  **Warum Hwang die drei Freigaben trotzdem heraussucht:** nicht fuer Georgij. *"I have run this house for five months on the assumption that there was one. If you are right, I have been wrong about something in my own building since October."* **Den Namen bekommt Georgij nicht**, heute nicht und an keinem anderen Tag, *"and it is not a negotiating position"*. Zeitrahmen: **etwa zehn Tage**, dann gegen drei weitere Stellen geprueft, *"because a name that comes out of one place is a rumour with an address"*. Was danach damit geschieht, ist Sache der Eigentuemer.
+  **Zum Abschied, ohne Anlass:** *"I shall not mention you to anybody. That is not a favour and you are not to put any weight on it. I have never in my life told anybody anything the whole way through, and I am not going to start at this age with something as interesting as you."*
 
-  **Die zweite Bitte, die er nicht stellt, und er sagt trotzdem, welche es waere.** Frueher wurden hier Eintraege fuer Geld geaendert; bei Hwang nicht, und **genau deshalb ist die Rueckseite dieses Katalogs etwas wert.** *"There is no version of that request that is not exactly the thing you came here to stop."* Hwang schreibt eine Zeile auf den Block, ohne ihn zu verdecken.
+  **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-  **Und Hwang faengt ihn an einem Wort.** *"You said took that person home. You did not say took the lot."* - *"Everybody says the lot."* - **"I know what everybody says."** Er hakt nicht nach. Es steht ab sofort in einer Akte.
+- **Band 2, Kapitel 11** *In my own hand* (v1.0) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
 
-  **Der Schluss ist die Rechnung auf dem Buergersteig, und sie schliesst Kapitel 5.** Ein Mann, der alles aufhebt, wird ihn nachschlagen: eine Serie, feste Referenzen, dreissig Jahre in einer Folge, in etwa einer Minute auffindbar. **Er findet Los vierzehn. Er findet es gestrichen. Und er findet den Namen aus seinem eigenen Besucherbuch auf der Vierzeilenliste am Ende seines eigenen Katalogs.**
+  **Die Vollmacht ist am 31. ausgelaufen und wurde nicht erneuert, und niemand erwaehnt es.** *"He noticed it at about four in the afternoon on the Tuesday, the way a man notices that a tooth has stopped aching."*
 
-  **Annie hatte am 11. Maerz gesagt, er wisse noch nicht, was der Nachmittag gekostet habe, und werde es in etwa einem Monat wissen.** Sie hatte eine Trauerfeier und einen Korridor gemeint. *"She had been wrong about which afternoon and right about everything else."*
+  **Mrs Sunwoo wirkt bereits.** Zweimal zu Mittag gegessen, und am Freitag sagt ein Haus, das seit 1988 dort kauft, eine Besichtigung ab, ohne einen Grund zu nennen. **Eine Absage. Und der vierte Tag.**
 
-  Und die Frage am Empfang, die das Kapitel schliesst: **"How long do you keep these."** - *"Seven years."* - *"Thank you."*
+  **Nams zweiter Brief, und sie hat nicht an ihre sechs geschrieben.** Sie fragt statt dessen, und der Rahmen ist ihr wichtiger als die Frage: *"I would like you to notice that I am asking rather than finding out, because I could find out and I have decided not to."* Dann: **"So. What are you."** - *"You told me you work in the house I wrote to. So does a gardener."* Sie weiss vom Kondolenzbuch. Und: *"I am fifty-eight and I would rather be told an unpleasant thing on the first of April than a pleasant one in June."*
 
-- **Band 2, Kapitel 11** *The first letter* (v1.0) - **Tag 174, Do 26. Maerz. Eine Szene im kleinen Zimmer, davor drei Absaetze ueber die Woche.**
+  **Er antwortet vollstaendig, und es ist eine Entscheidung und keine Notlage.** Preis zuerst, wie vereinbart: sie kann es fuer den Rest ihres Lebens beweisen, verkaufen, weiterreichen, **und es gibt keine Fassung, in der er es zurueckbekommt.**
 
-  **Die Ladung faehrt.** Dienstag ein Schiff, Mittwoch das zweite, auf einer Spur, die seit Januar nichts bewegt hat - **vier Tage nach einer Entscheidung, die daraus bestand, dass niemand etwas tut.** Er sagt es Annie nicht und sie fragt nicht. Fuenf Tage bis zum ersten April.
+  **Was er sagt, dass es kauft, und er trennt sauber zwischen dem Sicheren und dem Erhofften.** Erstens: sie hoert auf zu suchen, und wer nicht geantwortet wird, **geht zum Fremden zurueck** - *"that is the one thing in all of this I would pay almost anything to prevent."* Zweitens, und er nennt es selbst eine Hoffnung: wer mit etwas betraut wird, das jemanden vernichten kann, benutzt es meistens nicht, **weil das Benutzen ihn in einen anderen Menschen verwandelt als den, dem vertraut wurde.** Dazu: *"I have watched it work on you."*
 
-  **Der erste Brief seines Lebens.** Nicht der erste, den er liest - der erste, der in ein Gebaeude kam, **weil er darin war.** Nur sein Name auf dem Umschlag, kein Unternehmen auf der Absenderzeile, *"which is a thing a man does on purpose when he has just watched somebody else do it."* Annie bringt ihn ungeoeffnet hoch: *"I have not held it up to a window either, and I would like credit for that, because I thought about it in the hall."*
+  **Annie ordnet nichts an, und diesmal aus einem anderen Grund als in Ulsan.** *"This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is. I have never had a claim on it and I am not going to invent one now in order to be helpful."* Und ohne Beschoenigung: *"If she uses it, I will not be able to protect you from most of what follows."*
 
-  **Der Inhalt ist der Motor fuer den Rest des Bandes.** Bezahlt wurde eine **Loeschung**. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Viermal, als Geschaeftsmodell. Und Hwang kann es nicht in Ordnung bringen: *"If I delete an entry today because the person who paid for the deletion was badly used, then I am a man who deletes entries when there is a reason, and there is always a reason."* Dazu der Schlusssatz, der genau er ist: *"I will not be mentioning any of it. That is not a kindness. It is not relevant to the matter I am looking into, and I do not put irrelevant things in files."*
+  **Er hat es sich vorgestellt und sagt, wie weit:** Chairman Woo wuerde erfahren, woneben er bei dem Essen stand. Hana Seo-yeon wuerde erfahren, was am 16. Dezember an ihrem Tisch sass. *"The rest of it I have not, and I am not going to sit here and pretend I have."*
 
-  **Annie ist betrogen worden, und sie hat sich das Wort damals in einem vollstaendigen Satz sagen lassen.** *"I do not accept a nod for that sort of thing and I never have."* Ihr einziger Vergleich: *"I have been robbed exactly once in my life before this, and I was twenty-two and it was six hundred thousand won out of a coat."*
+  **Annies Befund ueber die letzten elf Tage:** *"You have got better at this in eleven days, and I would like to know what did it, because I would like more of it."* - *"I stopped working to a danger."* - **"Yes. Do not lose that again."**
 
-  **Und der eine Satz, der keine Analyse ist:** *"The thing they took the money for was me. ... They sat on the other side of a table and let you do it."* - **"That is what I have been standing at this window about. I would have got to it without you, and I am glad you said it first."**
+  **Der Brief, in seiner Handschrift, beim vierten Versuch.** Kein Titel, kein Gehalt, kein Konto, nichts, was ihm gehoert. **"I belong to her."** Der 4. Oktober, das vierzehnte Los, drei Zeilen ueber ihrer im selben Buch. *"You can do what you like with this. I would sooner you had it from me than from whoever gave you the page."* **Darunter steht nichts** - es gibt in keiner Sprache eine Formel, die an diese Stelle passt.
 
-  **Was es aendert, in drei Punkten.** Erstens: es ist keine Bloesse, es ist ein Betrug - *"A person with a secret has to be quiet and a person who has been cheated does not."* Zweitens: es sind vier, also war es die Praxis. Drittens: **der Eintrag ist nicht mehr kaufbar**, weil in dem Gebaeude jetzt ein Mann sitzt, bei dem der bessere Grund die Absage sicherer macht. *"You could offer him the whole of it and he would write down that you had offered."*
+  **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
 
-  **Damit ist Weg 2 der einzige uebrige, und der Preis steht im selben Atemzug:** *"And Mr Hwang goes down with the building."* Georgij sagt ihn ganz aus - **das, was beendet werden muss, ist seine Arbeit, und seine Arbeit ist der Grund, warum es sich lohnt.**
-
-  **Die Warnung, die nicht geht, und die Begruendung ist die schwerste im Buch.** *"I want to have warned him. That is a different verb and it is the one I am watching myself use."* Und dann: Hwang haelt nichts zurueck, also schriebe er eine Warnung am selben Nachmittag auf. **"He is not able to be told."** - *"There is no good way to make that decision. All of the doors are the same door."* Annie laesst es ihn als Satz sagen: **"I am not going to warn Mr Hwang."**
-
-  **Der Brief geht in die linke Schublade** - nicht, um ihn ihm wegzunehmen, sondern weil es das einzige Papier der Welt ist, das laut sagt, was das Haus getan hat, **und es ist unterschrieben.**
-
-  **Und das Vierte, das mit nichts davon zu tun hat.** Hwang schuldete ihm keine Zeile. *"Somebody behaved decently towards you in writing, and there is no procedure for that in you either."* Dazu Mrs Seo, die elf Jahre dieses Haus fuehrt und mit einem Umschlag in der Diele stand, **weil sein Name daraufstand und sonst nichts, und so etwas ist dort noch nie durch die Tuer gekommen.**
+  **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
 
 ---
 

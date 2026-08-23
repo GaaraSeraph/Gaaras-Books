@@ -100,12 +100,21 @@ wurden.** Das Halsband bleibt, und zwar auf Georgijs ausdrueckliche Weigerung
 hin.
 
 **Der Eintrag ist gestrichen und NICHT geloescht, und der Unterschied ist ab
-Band 2, Kapitel 11 der Motor des Bandes.** Annie hat viermal in sieben Wochen
+Band 2, Kapitel 9 der Motor des Bandes.** Annie hat viermal in sieben Wochen
 fuer eine **Loeschung** bezahlt und sich das Wort in einem vollstaendigen Satz
-sagen lassen. Ausgefuehrt wurde ein **Strich mit Aufbewahrung.** Mr Hwangs
-Brief: *"Those are not the same thing, and the difference was not an oversight.
-This house did it four times that I have found, and in each case it took a fee
-for a deletion and kept the record."*
+sagen lassen und ein zweites Mal wiederholen lassen. Ausgefuehrt wurde ein
+**Strich mit Aufbewahrung.**
+
+**Und Georgij findet es selbst, im Raum, aus zwei Sachen, die er beide schon
+hatte:** die Seite hinten ist eine Liste **aufbewahrter** Eintraege, und ein
+geloeschter Eintrag ist nirgends. *"You were not sold silence. You were sold a
+piece of stationery."* **Zwei der vier sind ihre**, Oktober und Februar. Also:
+*"A house that does it once has a dishonest man in it. A house that does it
+four times in four years has a price list."*
+
+**Mrs Sunwoo ergaenzt am 24. Maerz, dass es aelter ist als die Aktenfuehrung.**
+Sie kennt zwei Faelle von vor dieser Seite, beide Beteiligten tot. **Was Hwang
+gefunden hat, war nur, was jemand aufgeschrieben hatte.**
 
 **Damit ist es keine Bloesse mehr, sondern ein Betrug**, und das ist juristisch
 wie erzaehlerisch etwas anderes: *"A person with a secret has to be quiet and a

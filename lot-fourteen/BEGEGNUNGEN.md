@@ -18,32 +18,32 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 402 | 41 (b1ch01-b2ch11) | 1 | 74 |
-| Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
-| Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
+| Annie | 405 | 41 (b1ch01-b2ch11) | 1 | 74 |
+| Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
+| Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
-| Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
-| Mrs Seo | 57 | 23 (b1ch03-b2ch11) | 1 | 74 |
+| Jang | 67 | 17 (b1ch05-b2ch11) | 1 | 60 |
+| Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mr Hwang | 14 | 3 (b2ch07-b2ch11) | 3 | 7 |
-| Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
-| Mrs Jeon | 11 | 3 (b2ch06-b2ch10) | 3 | 7 |
-| Nam Byung-hee | 11 | 3 (b2ch03-b2ch09) | 9 | 56 |
+| Mrs Sunwoo | 17 | 5 (b1ch07-b2ch11) | 1 | 60 |
+| Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
+| Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Nam Byung-hee | 9 | 3 (b2ch03-b2ch11) | 1 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
 | Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
-| Mrs Sunwoo | 4 | 2 (b1ch07-b2ch05) | 22 | 60 |
 | Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Mr Hwang | 2 | 2 (b2ch07-b2ch10) | 3 | 7 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -53,7 +53,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-402 Nennungen in 41 Kapiteln.
+405 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -435,30 +435,33 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
 | 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
 | 9 | b2ch08:46 | Annie put the letter down. |
-| 9 | b2ch09:32 | Annie stopped him on the fourth one. |
-| 9 | b2ch09:52 | "It was the right trade," said Annie. "It is still a leak. Those two are going to be tru.. |
-| 9 | b2ch09:64 | Annie looked at him for a moment longer than the answer needed. |
-| 9 | b2ch09:90 | "Say it out loud," said Annie. "I want to hear whether you got there the same way." |
-| 9 | b2ch09:100 | Annie went round the desk and sat down, which she does perhaps twice a month. |
-| 9 | b2ch09:120 | Annie put both hands on the arms of the chair. |
-| 9 | b2ch09:134 | Annie did not answer that for a while, and when she did it was not what he expected. |
-| 9 | b2ch09:168 | "And who stands behind that door," said Annie. |
-| 9 | b2ch09:182 | "There is one," said Annie, "and it is the same one that walked into an auction house on.. |
-| 9 | b2ch09:192 | Annie was quiet for long enough that the clock in the hall did the thing it does. |
-| 9 | b2ch09:212 | "Say the thing about the four again," said Annie. |
-| 9 | b2ch09:222 | Annie looked at the desk. |
-| 9 | b2ch09:244 | "Sit down," said Annie. "On the floor, where you sit. I am going to read the thing in th.. |
-| 3 | b2ch10:236 | Annie had told him on the eleventh of March that he did not yet know what the afternoon .. |
-| 5 | b2ch11:10 | He did not tell Annie and she did not ask him, and on the Wednesday there was a second o.. |
-| 5 | b2ch11:30 | Annie brought it up to him herself and did not open it. |
-| 5 | b2ch11:62 | Annie read it standing as well. |
-| 5 | b2ch11:86 | "I have been robbed exactly once in my life before this," said Annie, "and I was twenty-.. |
-| 5 | b2ch11:98 | Annie did not answer that for a moment. |
-| 5 | b2ch11:124 | Annie did not turn round. |
-| 5 | b2ch11:142 | Annie turned round at that. |
-| 5 | b2ch11:170 | Annie let that stand for a moment. |
-| 5 | b2ch11:190 | "Then it will sit where it is," said Annie, "and you will not go and be honourable about.. |
-| 5 | b2ch11:216 | Annie put the folded letter in the left-hand drawer and closed it. |
+| 9 | b2ch09:42 | "It was the right trade," said Annie. "It is still a leak. Those two are going to be tru.. |
+| 9 | b2ch09:60 | Annie went round the desk and sat down, which she does perhaps twice a month. |
+| 9 | b2ch09:84 | Annie did not answer immediately, and it was not reluctance. |
+| 9 | b2ch09:92 | "A deletion," said Annie. |
+| 9 | b2ch09:114 | Annie put both hands on the arms of the chair. |
+| 9 | b2ch09:132 | Annie did not move at all for a while. |
+| 9 | b2ch09:150 | Annie stood up and went to the window and did not draw the curtain. |
+| 9 | b2ch09:164 | Annie did not turn round. |
+| 9 | b2ch09:188 | Annie turned round. |
+| 9 | b2ch09:210 | Annie came back to the desk. |
+| 9 | b2ch09:222 | "You are going to hand a woman like that a reason to talk," said Annie. |
+| 9 | b2ch09:228 | Annie looked at the desk for a moment. |
+| 9 | b2ch09:242 | Annie sat down again. |
+| 9 | b2ch09:260 | "Then say that as a sentence," said Annie, "because you will otherwise be back in this r.. |
+| 9 | b2ch09:268 | Annie let that stand. |
+| 9 | b2ch09:282 | "No," said Annie. |
+| 9 | b2ch09:302 | "You said the end of April." Annie closed the drawer. "Say it again on the first, after .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:272 | He told Annie all of it that evening, price first, and there was not very much on that s.. |
+| 3 | b2ch10:280 | "Yes," said Annie. "That is the one I want." |
+| 1 | b2ch11:44 | He read it standing at the window in his own room and then went down and put it on the d.. |
+| 1 | b2ch11:48 | "She has done the work," said Annie. |
+| 1 | b2ch11:58 | Annie read it once more. |
+| 1 | b2ch11:100 | Annie put the letter down. |
+| 1 | b2ch11:114 | Annie did not answer that. |
+| 1 | b2ch11:132 | "It is not a condition." Annie came back to the desk. "It is a thing I am telling you so.. |
+| 1 | b2ch11:144 | Annie looked at him. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -552,20 +555,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch06:272` (Tag 5) - seven
 - `b2ch07:94` (Tag 7) - one
 - `b2ch07:176` (Tag 7) - one
-- `b2ch09:32` (Tag 9) - one
-- `b2ch09:52` (Tag 9) - one, two
-- `b2ch09:182` (Tag 9) - one
-- `b2ch09:212` (Tag 9) - four
-- `b2ch09:244` (Tag 9) - five
-- `b2ch11:10` (Tag 5) - one
-- `b2ch11:86` (Tag 5) - six hundred thousand, twenty-two
-- `b2ch11:190` (Tag 5) - four
+- `b2ch09:42` (Tag 9) - one, two
+- `b2ch09:260` (Tag 9) - four
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:280` (Tag 3) - one
+- `b2ch11:132` (Tag 1) - two
 
 ---
 
 ## Hana
 
-162 Nennungen in 17 Kapiteln.
+163 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -731,6 +731,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 | 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
+| 1 | b2ch11:140 | "If she posts it, I am a thing that was bought, in writing, verifiable, and every room I.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -795,12 +796,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:222` (Tag 74) - six
 - `b1ch31:336` (Tag 5) - twenty-two
 - `b2ch03:122` (Tag 56) - one
+- `b2ch11:140` (Tag 1) - two
 
 ---
 
 ## Chairman Woo
 
-123 Nennungen in 23 Kapiteln.
+124 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -927,6 +929,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b1ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
+| 1 | b2ch11:140 | "If she posts it, I am a thing that was bought, in writing, verifiable, and every room I.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1000,6 +1003,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:386` (Tag 5) - one
 - `b1ch32:98` (Tag ?) - four, two
 - `b1ch34:46` (Tag 46) - seven, two
+- `b2ch11:140` (Tag 1) - two
 
 ---
 
@@ -1167,7 +1171,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-66 Nennungen in 16 Kapiteln.
+67 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1237,6 +1241,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
+| 1 | b2ch11:188 | "Mr Jang asked me this morning whether anything had come for you." She said it without a.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1271,12 +1276,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:188` (Tag 55) - four
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
+- `b2ch11:188` (Tag 1) - twenty
 
 ---
 
 ## Mrs Seo
 
-57 Nennungen in 23 Kapiteln.
+58 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1335,8 +1341,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 | 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
-| 5 | b2ch11:16 | On the Thursday, Mrs Seo did not put it on the hall table with the rest. |
-| 5 | b2ch11:224 | "Mrs Seo did not know where to put it," she said. "She has run this house for eleven yea.. |
+| 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
+| 1 | b2ch11:176 | He had to ask Mrs Seo how a letter is sent. |
+| 1 | b2ch11:196 | "He said good." Mrs Seo straightened one thing on the desk that did not need straighteni.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1372,7 +1379,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
 - `b2ch08:62` (Tag 9) - nine
-- `b2ch11:224` (Tag 5) - eleven
+- `b2ch11:196` (Tag 1) - one
 
 ---
 
@@ -1704,39 +1711,47 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mr Hwang
+## Mrs Sunwoo
 
-14 Nennungen in 3 Kapiteln.
+17 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:42 | Mr Hwang is about fifty and looked at him for perhaps two seconds before he spoke, which.. |
-| 3 | b2ch10:58 | Mr Hwang did not react to any part of that. |
-| 3 | b2ch10:76 | Mr Hwang put both hands on the desk, flat, the way somebody does who is about to be care.. |
-| 3 | b2ch10:98 | Mr Hwang got up and stood at the window for a moment with his back to the room, which is.. |
-| 3 | b2ch10:112 | Mr Hwang turned round. |
-| 3 | b2ch10:126 | "I am going to look you up," said Mr Hwang. "Not because you have annoyed me and not in .. |
-| 3 | b2ch10:140 | Mr Hwang looked at him for slightly longer this time. |
-| 3 | b2ch10:160 | "Because I have not verified it." Mr Hwang said it the way another man would say a house.. |
-| 3 | b2ch10:174 | "You have not asked me for anything else," said Mr Hwang. "People who get this far usual.. |
-| 3 | b2ch10:186 | Mr Hwang wrote one line on the pad. It took him about four seconds and he did not hide t.. |
-| 3 | b2ch10:202 | Mr Hwang did not follow it up, and he did not need to, and it is in a file now, in a bui.. |
-| 5 | b2ch11:156 | "And Mr Hwang goes down with the building." |
-| 5 | b2ch11:196 | "I am not going to warn Mr Hwang." |
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:278 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
 
-### Zahlen in der Naehe von Mr Hwang
+### Zahlen in der Naehe von Mrs Sunwoo
 
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:42` (Tag 3) - fifty, two
-- `b2ch10:160` (Tag 3) - one, ten, three
-- `b2ch10:186` (Tag 3) - four, one
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
 
 ---
 
 ## Mr Ku
 
-13 Nennungen in 10 Kapiteln.
+16 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1753,6 +1768,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
 | 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 | 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:292 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -1761,6 +1779,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:6` (Tag 22) - seventeen
 - `b1ch27:100` (Tag 7) - one
 - `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch09:292` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
 
 ---
 
@@ -1780,7 +1801,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
 | 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
 | 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
-| 3 | b2ch10:18 | He also decided not to go anywhere near Mrs Jeon. |
+| 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -1790,36 +1811,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch07:34` (Tag 7) - three
 - `b2ch07:66` (Tag 7) - one
 - `b2ch07:78` (Tag 7) - one
-
----
-
-## Nam Byung-hee
-
-11 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
-| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
-| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
-| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
-| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
-| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
-| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
-| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-| 9 | b2ch09:124 | "It is not aimed at Ulsan and it never was, and that is exactly the trouble with it. It .. |
-| 9 | b2ch09:208 | Which is also the day before Nam Byung-hee sits down to write her letters, and the two o.. |
-| 9 | b2ch09:218 | "I asked her how many answers she had had. Twenty years, on the first of every month, to.. |
-
-### Zahlen in der Naehe von Nam Byung-hee
-
-- `b2ch03:132` (Tag 56) - one, twenty
-- `b2ch08:78` (Tag 9) - thirty
-- `b2ch08:104` (Tag 9) - two
-- `b2ch08:244` (Tag 9) - twenty
-- `b2ch09:124` (Tag 9) - four
-- `b2ch09:208` (Tag 9) - two
-- `b2ch09:218` (Tag 9) - four, six, twenty
+- `b2ch09:252` (Tag 9) - five, six
 
 ---
 
@@ -1849,6 +1841,31 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:244` (Tag 1) - eleven, one
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
+
+---
+
+## Nam Byung-hee
+
+9 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 56 | b2ch03:132 | The name is Nam Byung-hee. She has the firm, which is one lane and nothing else, and she.. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 9 | b2ch08:78 | Nobody stopped him at the gate because there was nobody at the gate. A woman of about th.. |
+| 9 | b2ch08:104 | Nam Byung-hee did not move for about two seconds. |
+| 9 | b2ch08:138 | "You know what I have," said Nam Byung-hee. |
+| 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
+| 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
+| 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
+| 1 | b2ch11:206 | Nam Byung-hee did not answer it that week, or the next, and by the time she did the hous.. |
+
+### Zahlen in der Naehe von Nam Byung-hee
+
+- `b2ch03:132` (Tag 56) - one, twenty
+- `b2ch08:78` (Tag 9) - thirty
+- `b2ch08:104` (Tag 9) - two
+- `b2ch08:244` (Tag 9) - twenty
 
 ---
 
@@ -1973,25 +1990,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mrs Sunwoo
-
-4 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-
----
-
 ## Choi Dae-ho
 
 3 Nennungen in 2 Kapiteln.
@@ -2023,6 +2021,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
+
+---
+
+## Mr Hwang
+
+2 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:262` (Tag 3) - one
 
 ---
 

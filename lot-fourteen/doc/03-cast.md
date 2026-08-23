@@ -260,6 +260,14 @@ den, der genehmigt, nicht den, der empfaengt. Georgij hat damit **den Mann, der
 das Los hat gehen lassen, und nicht den, der es mitgenommen hat** - und er will
 den zweiten.
 
+**Die beiden sind einander bis Anfang April nie begegnet, und das ist Absicht.**
+Eine erste Fassung von Kapitel 10 hatte die Begegnung und wurde am 23.08.
+verworfen (siehe Regel 2i in `doc/01-craft.md`). **Damit steht sie noch zur
+Verfuegung**, und sie ist die teuerste, die das Buch anzubieten hat: ein Mann,
+der nichts zurueckhaelt, und einer, dessen ganzes Verfahren aus Auswahl
+besteht. Wer sie schreibt, muss vorher wissen, was Georgij dort holt - **nicht,
+was er dort bezahlt.**
+
 **Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
 der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes
 hereinkommt und **sonst nichts hat**. **Und sie fuehrt ausserdem den Verband der

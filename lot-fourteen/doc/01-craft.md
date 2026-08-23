@@ -361,6 +361,56 @@ im Gesicht, dann der Blick vom Stuhl weg, dann zwei Finger auf der Lehne, dann
 **Wo Beats fehlen, siehe Punkt 2e** - es passiert fast immer beim Teilen von
 Bandwurmsaetzen in direkter Rede.
 
+### 2i. Der Bogen darf keine Ratsche sein
+
+**Am 23.08. vom Autor gemeldet, nachdem elf Kapitel von Band 2 standen:**
+*"Wieso bin ich in diesem Band so schwach, schlecht, inkompetent? Mir haben
+vorher alle aus der Hand gefressen. Jetzt bin ich nur noch passiv und reagiere
+und loesche Braende, die teilweise von mir verursacht wurden. Eine Handlung
+laesst mich aermer zurueck als die naechste."*
+
+**Nachgezaehlt und bestaetigt.** Von Band 2, Kapitel 1 bis 11 endete **kein
+einziges** damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben
+Muster: bezahlen, die Haelfte bekommen, dafuer geprueft werden, und der Rest ist
+schlechter als vorher. Das ist kein Bogen. Das ist eine Ratsche in eine Richtung,
+und sie ist nach drei Kapiteln vorhersehbar und nach sechs unlesbar.
+
+**Die drei Fehler, die dahin fuehren, und alle drei sind leicht zu machen:**
+
+1. **Regel 2h falsch angewendet.** Dort steht, dass das **Repertoire** stumpf
+   wird. Nicht der Mann. Wer daraus "seine Methoden wirken nicht mehr" macht,
+   hat "er kann nichts mehr" geschrieben. Er hat in Band 1 Park Sang-hoon
+   geschlagen.
+2. **Die Initiative liegt beim Gegner.** Ab Kapitel 7 fing kein Kapitel mehr mit
+   einer Entscheidung von ihm an. Nam feuert, Hwang ermittelt, Choi handelt
+   unsichtbar, und er antwortet. **Wer nur antwortet, ist nur so gut wie die
+   letzte fremde Handlung.**
+3. **Dreimal derselbe Zug.** Hanseong an Sang-hoon, die Klausel an Nam, die drei
+   Freigaben an Hwang: **er bezahlt jedesmal mit Auskunft ueber sich selbst.**
+   Das ist nicht nur schwach, das ist handwerklich langweilig.
+
+**Die Diagnose darunter ist eine einzige und sie steht seither im Text:** er hat
+auf eine **Gefahr** hingearbeitet und nicht auf ein **Ziel.** *Die Seite stumpf
+machen* ist etwas, das man tut, damit etwas nicht passiert. Ein Ziel ist ein
+Zustand, den man herstellt. Defensive Ziele erzeugen exakt diesen Bogen, jedes
+Mal, unvermeidlich.
+
+**Die Probe, die ab jetzt in jedem Kapitel laeuft:** Was ist am Ende dieses
+Kapitels da, das vorher nicht da war, und **gehoert es ihm?** Nicht: was hat es
+gekostet. Das steht ohnehin immer da. Es darf Kapitel geben, die nur kosten -
+aber nicht zwei nacheinander, und nie drei.
+
+**Und die zweite Probe, fuer die Rechnung selbst:** Wenn ein Kapitel abrechnet,
+wird **beidseitig** abgerechnet. In Band 2, Kapitel 8 stand die Kostenseite
+vollstaendig da und der Ertrag als *"most of it came out well"*, ohne dass je
+gesagt wurde, was. **Ein Kapitel, in dem nur ausbuchstabiert ist, was etwas
+gekostet hat, liest sich als Verlust, auch wenn es keiner war.**
+
+**Repariert am 23.08.** Band 2, Kapitel 9 bis 11 wurden vollstaendig neu
+geschrieben. Der Umschlag liegt jetzt in Kapitel 9 und er spricht ihn selbst
+aus: *"I have been working to a danger and not to a target. ... I have spent
+three weeks answering. Tonight I stop."*
+
 ### 3. Rueckbezug
 
 **Jede Aussage muss sich an etwas festmachen, das vorher im Text steht.**

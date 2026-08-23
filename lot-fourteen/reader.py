@@ -77,6 +77,12 @@ h2{
   padding-bottom:0.5rem; border-bottom:1px solid var(--rule);
 }
 p{ margin:0 0 1.15rem; }
+blockquote{
+  margin:1.6rem 0 1.9rem; padding:0.2rem 0 0.2rem 1.4rem;
+  border-left:2px solid var(--accent); color:var(--ink);
+}
+blockquote p{ margin:0 0 0.85rem; }
+blockquote p:last-child{ margin-bottom:0; }
 em{ font-style:italic; }
 hr{ border:0; height:1.9rem; margin:2rem 0 2.1rem; position:relative; }
 hr::after{
@@ -163,8 +169,23 @@ def parse(text, fname, band=1, blabel=""):
         i += 1
 
     body = []
+    quote = []
+
+    def flush_quote():
+        """Aufeinanderfolgende Zitatzeilen werden ein Block, kein Absatz."""
+        if quote:
+            inner = "".join("<p>%s</p>" % inline(q) for q in quote)
+            body.append("<blockquote>%s</blockquote>" % inner)
+            del quote[:]
+
     for line in lines[i:]:
         s = line.strip()
+        if s.startswith(">"):
+            inner_line = s[1:].strip()
+            if inner_line:
+                quote.append(inner_line)
+            continue
+        flush_quote()
         if not s:
             continue
         if re.match(r"^-{3,}$", s):
@@ -175,6 +196,7 @@ def parse(text, fname, band=1, blabel=""):
             continue
         else:
             body.append("<p>%s</p>" % inline(s))
+    flush_quote()
 
     return {
         "band": band,

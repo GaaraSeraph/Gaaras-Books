@@ -441,84 +441,68 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
-- **Nams Frist: 26. Maerz.** Gesetzt in Band 2, Kapitel 7. Eine Stunde, die
-  sechs im Raum, jemand antwortet ihnen. Annie antwortet nicht, weil die
-  Antwort die Bestaetigung waere.
-- **Nams Frist ist seit dem 20. Maerz der 1. April und nicht mehr der 26. Maerz.**
-  Sie hat den Aufschub in Band 2, Kapitel 8 selbst gegeben und dazugesagt, dass
-  sie ihn ohnehin gegeben haette: *"It is exactly what I was always going to
-  do. I have simply told you."* **Und die Bedingung ist nicht Post, sondern
-  Ladung** - *"You will know because cargo moves. Not because anybody writes to
-  you."*
-- **Der 1. April.** *"If nobody comes, I will write again on the
-  first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
-  ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
-  Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
-- **Hwang hat den Namen "in etwa zehn Tagen", also um den 3. April.** Gesetzt in
-  Band 2, Kapitel 10. Danach prueft er ihn gegen drei weitere Stellen, *"because
-  a name that comes out of one place is a rumour with an address"*, und was
-  danach damit geschieht, ist **Sache der Eigentuemer des Hauses** - also des
-  Fonds. **Georgij bekommt ihn nicht.**
-- **Und Hwang schlaegt Georgij nach, ab dem 24. Maerz.** Er hat es angekuendigt
-  und begruendet: *"I would do it if you were a florist."* Er findet Los
-  vierzehn, findet es gestrichen, und findet den Namen aus seinem eigenen
-  Besucherbuch auf der Vierzeilenliste am Ende seines eigenen Katalogs. **Das
-  ist die Einloesung von Annies "You will in about a month", nur an einem
-  anderen Nachmittag als dem, den sie gemeint hat.**
-- **"She will." - Nams zweite Frage danach, was er ist. KEIN Datum, aber
-  faellig.** Gesetzt in Band 2, Kapitel 9. Er hat mit *"I work in the house you
-  wrote to"* geantwortet, was wahr und keine Antwort ist. Annie: *"You have
-  until then to work out what the true version sounds like, and you are not
-  going to like any of the ones that are available."* **Damit hat Regel 1 zum
-  ersten Mal ein Ablaufdatum**, und die Szene, in der sie zum zweiten Mal
-  fragt, muss kommen.
-- **Die Tuer in der Klausel: vertagt auf den 31. Maerz.** Annie hat nicht nein
-  gesagt, sie hat sich geweigert, an einem Abend zwei Sachen zu entscheiden.
-  Der Termin ist der Tag, an dem die Vollmacht auslaeuft, **und der Tag, bevor
-  Nam schreibt.** Beide wissen das und keiner sagt es.
-- **Nam hat Georgijs Namen handschriftlich, auf ihre eigene Bitte** (Kapitel 8).
-  Sie traegt seit dem 14. Maerz eine Kopie der Rueckseite mit **Los vierzehn**
-  darauf. **Sie weiss nicht, dass das dasselbe ist.** Wer ihr die Seite gegeben
-  hat, wird ihr auch das sagen, und zwar zum guenstigsten Zeitpunkt. **Diese
-  Zeile hat kein Datum und muss trotzdem eingeloest werden.**
-- **Mrs Jeon geht in acht Wochen aus dem Gebaeude**, gerechnet ab dem
-  16. Maerz, also **Mitte Mai.** Danach ist sie keine Quelle mehr, sondern
-  eine Erinnerung. Was ueber diesen Schreibtisch zu holen ist, muss vorher
-  geholt sein.
-
 **Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
 
+**Stand nach der Neufassung von Kapitel 9 bis 11 am 23.08.** Zwei alte Zeilen
+sind ersatzlos entfallen, weil die Kapitel, die sie gesetzt haben, nicht mehr
+existieren: Hwangs "in etwa zehn Tagen" und die auf den 31. Maerz vertagte
+Tuer in der Klausel. **Wer sie irgendwo zitiert findet, zitiert eine geloeschte
+Fassung.**
+
+- **"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL, Band 2,
+  Kapitel 9.** Georgij sagt es zweimal, am 20. Maerz und noch einmal am 1. April,
+  weil Annie ausdruecklich darum bittet, ihn ein zweites Mal daran zu binden.
+  **Das ist das erste ausgesprochene Ziel des ganzen Bandes** und es ist eine
+  Frist, kein Vorsatz.
+
+- **Mrs Sunwoos April.** Sie hat zugesagt, es *"badly and slowly and to people
+  who matter"* zu benutzen, ueber den ganzen Monat, **und Annies Name faellt in
+  keinem Satz.** Erster sichtbarer Treffer steht schon: eine Absage am
+  vierten Tag. Der Verlauf muss im Text vorkommen und darf nicht als erledigt
+  vorausgesetzt werden.
+
 - **"You will in about a month." - FAELLIG ANFANG APRIL, Band 2, Kapitel 5**
-  (Tag 159, 11. Maerz). Annie gibt die Vollmacht heraus und sagt dazu: *"I am
-  not giving you this because you have earned it this afternoon. Some of this
-  afternoon was very expensive."* Georgij: *"I know what it cost."* Sie:
-  **"You do not yet. You will in about a month."**
+  (Tag 159, 11. Maerz). Annie: *"I am not giving you this because you have earned
+  it this afternoon. Some of this afternoon was very expensive."* - *"I know what
+  it cost."* - **"You do not yet. You will in about a month."**
 
-  **Sie weiss an dieser Stelle etwas, das er nicht weiss, und der Text schuldet
-  die Aufloesung.** Sie darf nicht als Stimmung stehenbleiben und nicht
-  nachtraeglich umgedeutet werden. Sie faellt **Anfang April**, also im selben
-  Fenster wie Nams Brief vom Ersten und wie das Zufallen der Tuer.
+  **Sie weiss dort etwas, das er nicht weiss, und der Text schuldet die
+  Aufloesung.** Sie darf nicht als Stimmung stehenbleiben. **Noch nicht
+  entschieden.** Der Kandidat, der nach der Neufassung am besten passt: die
+  Auskunft ueber Hanseong, die Sang-hoon am 11. Maerz bekommen hat, kommt im
+  April zurueck - er hat seither das vollstaendige Bild davon, wie Georgij
+  arbeitet, und er ist der Einzige, der es hat. **Regel dazu: wenn Annie es
+  sagt, weiss sie es. Sie darf sich irren, aber sie darf nicht geraten haben.**
 
-  **Der wahrscheinlichste Inhalt, noch nicht entschieden:** Irgendwer schlaegt
-  wegen dieses Nachmittags in dem Buch nach. Er hat dreizehn Maenner neugierig
-  gemacht, zwei davon hatten seinen Namen schon, und was ein Nachschlagender
-  findet, ist **nichts** - das Zeichen ohne Deckung aus `doc/04-world.md`. Ab
-  diesem Tag ist er nicht mehr ein Mann mit einer Marke, sondern Ware. **Das ist
-  der Preis, den Annie am 11. Maerz sehen kann und er nicht**, weil sie diejenige
-  war, die den Eintrag hat streichen lassen.
+- **Nams Antwort auf seinen Brief.** Kapitel 11 sagt, sie habe weder in der
+  Woche noch in der darauf geantwortet, **und dass bis dahin das Haus am Fluss
+  keine neuen Einlieferungen mehr annahm.** Beides muss eingeloest werden: die
+  Antwort selbst, und der Zustand des Hauses zu dem Zeitpunkt.
 
-  **Zwei Alternativen, die zur selben Frist passen und mitgeprueft werden
-  muessen:** dass **Sang-hoon** als Erster am Register ist, weil er seit heute
-  weiss, dass das Haus sich dafuer interessiert. Oder dass **Choi** sich meldet,
-  weil korrektes Verhalten um seine Gesellschaftsform herum die Unterschrift
-  ist. Die drei schliessen einander nicht aus - der Nachschlagende kann Chois
-  Mann sein.
+- **Was Nam in der Hand hat, ab dem 2. April.** Seine Handschrift, sein Datum,
+  seine Nummer. Er hat es bewusst gegeben und den Preis vorher benannt: *"She can
+  sell it, she can post it, she can put it in front of your competitors, and she
+  can do all of that on a day when we have annoyed her about something else in
+  four years' time."* **Das ist die groesste ungesicherte Stelle im Buch und sie
+  hat kein Datum.**
 
-  **Regel dazu:** Wenn Annie es sagt, weiss sie es. Sie darf sich irren, aber sie
-  darf nicht geraten haben.
+- **Die vierte Zeile, die nie berechnet wurde.** Annie am 24. Maerz: *"That is
+  the one I want."* Mrs Sunwoo hat dazu geliefert, dass der Betrug **aelter ist
+  als die Aktenfuehrung** - es gab welche vor der Seite, sie kennt zwei, beide
+  tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
+  tut es **fuer jemanden.**
 
+- **Mr Hwang.** Er geht mit dem Gebaeude unter, er hat nichts falsch gemacht, und
+  **er kann nicht gewarnt werden**, weil er nichts zurueckhaelt. Georgij hat das
+  am 20. Maerz auf Annies Verlangen als Satz ausgesprochen. Nach der Neufassung
+  sind die beiden einander **noch nie begegnet**, und das ist Absicht: die
+  Begegnung, falls sie kommt, ist damit noch verfuegbar.
+
+- **Mrs Jeon geht Mitte Mai aus dem Gebaeude**, gerechnet ab dem 16. Maerz.
+  Georgij hat am 20. Maerz gesagt, dass er fuer sie etwas tun kann und wird.
+  **Das ist eine Zusage in einem Raum mit Annie darin und noch nicht eingeloest.**
 
 - **Los elf.** Ein Junge, laut Akte sechzehn, tatsächlich höchstens vierzehn. Der Käufer wurde ruiniert und holt ihn nicht ab. Achtzig heute, sechzig nächsten Monat, und bei sechzig fragt das Haus nicht mehr, wer kauft, weil die Marge das Fragen nicht deckt.
 - **Was Annie für sechzig bekäme** (Georgijs Argument im Wagen, unbeantwortet geblieben): Erstens einen Namen. Das Haus kann ein zurückgegebenes Los nicht neu listen, ohne die Rückgabe zu erklären, und es gibt nur eine wahre Erklärung. Wer den Mann in der zweiten Reihe garantiert hat, hat Geld und kein Gesicht und kauft nicht einen einzelnen Jungen für sich. Zweitens, und länger haltbar, das Haus selbst: Wer weiß, dass ihr Buch schmutzig ist, bekommt jeden Katalog, wird nicht überboten und erreicht sie um elf Uhr abends. Der Name ist im Frühjahr alt, das andere trägt Jahre. Und es gilt nur heute Nacht, weil sie in drei Wochen eine gemeinsame Version haben werden.
