@@ -381,10 +381,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:124 | "You are working again," said Annie. "Nobody has told you what to want." |
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 | 51 | b2ch01:146 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
-| 51 | b2ch01:218 | Annie came back from Yeouido at ten past eight. |
-| 51 | b2ch01:222 | "You have read it," said Annie. |
-| 51 | b2ch01:250 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
-| 51 | b2ch01:260 | Annie put her hand flat on the arm of the chair. |
+| 51 | b2ch01:222 | Annie came back from Yeouido at ten past eight. |
+| 51 | b2ch01:226 | "You have read it," said Annie. |
+| 51 | b2ch01:254 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
+| 51 | b2ch01:264 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -462,7 +462,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:66` (Tag 51) - nine, one, six
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch01:146` (Tag 51) - forty, twenty-two
-- `b2ch01:218` (Tag 51) - eight, ten
+- `b2ch01:222` (Tag 51) - eight, ten
 
 ---
 

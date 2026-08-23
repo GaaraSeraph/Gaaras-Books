@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 35 Kapitel, 103.359 Woerter.
+2 Baende, 35 Kapitel, 103.407 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 1 | 32 | v1.2 | 2.579 |
 | 1 | 33 | v1.11 | 3.335 |
 | 1 | 34 | v1.8 | 4.293 |
-| 2 | 01 | v1.3 | 2.234 |
+| 2 | 01 | v1.4 | 2.282 |
 
 ---
 
@@ -11200,7 +11200,7 @@ And for the first time since the ninth of January he was doing the only thing in
 ---
 
 # Book Two · Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
@@ -11413,6 +11413,10 @@ Then he stood in that room and did the arithmetic he had been putting off since 
 A reference that is never reissued cannot be taken back. A gap in that list is a gap for as long as the list exists. Every gap carries a season beside it. The list goes out in a flat parcel to everybody who buys.
 
 The line was struck on the nineteenth of February. The striking of it is now the most durable thing about it.
+
+Yesterday he had told her that what was round his neck went on working for exactly as long as nobody looked in that book.
+
+Somebody had made the book portable. It had come up the drive that morning in a flat parcel with a printed label on it.
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 81.520 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 81.876 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -16,6 +16,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [2c. Die zwei Kontraktionen](#2c-die-zwei-kontraktionen)
   - [2d. Die Stiftshuette](#2d-die-stiftshuette)
   - [2e. Wer spricht gerade](#2e-wer-spricht-gerade)
+  - [2h. Werkzeuge stumpfen ab, und er legt sie selbst ab](#2h-werkzeuge-stumpfen-ab-und-er-legt-sie-selbst-ab)
   - [2f. Gekauft, nicht angestellt](#2f-gekauft-nicht-angestellt)
   - [2g. Was ein Beat ist, und was keiner ist](#2g-was-ein-beat-ist-und-was-keiner-ist)
   - [3. Rueckbezug](#3-rueckbezug)
@@ -404,6 +405,46 @@ Bandwurmsaetzen. Ein Redeblock wird an einem Punkt aufgetrennt, die zweite
 Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
 der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
 in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
+
+### 2h. Werkzeuge stumpfen ab, und er legt sie selbst ab
+
+**Ein Mittel, das zweimal benutzt wird, wirkt beim zweiten Mal weniger, und
+Georgij weiss das vor dem Leser.**
+
+**Deshalb gibt es in diesem Buch keine Szene, in der ein eingefuehrtes Werkzeug
+Georgijs in seiner Hand versagt.** Wenn es stumpf ist, hat er es vorher abgelegt,
+und die Szene handelt vom Ersatz. Wer ihn mit einem stumpfen Werkzeug
+hineinlaufen und daran scheitern laesst, schreibt einen anderen Mann.
+
+**Der Beleg steht im Text und ist unmissverstaendlich.** Sang-hoon sagt es ihm in
+Kapitel 16 ins Gesicht - *"You could have stopped using it."* In Kapitel 33
+benutzt er die Guidance ein letztes Mal, **sagt vorher dazu, dass es das letzte
+Mal ist**, und stellt die Frage trotzdem. Ein Mann, der sein Hauptwerkzeug vor
+Publikum selbst zu Grabe traegt, benutzt neun Wochen spaeter nicht den Rest
+desselben Repertoires und wundert sich.
+
+**Was daraus fuer Band 2 folgt, und es ist der Motor des Bandes:**
+
+| Tot, und von ihm selbst | Warum |
+|---|---|
+| *"Please guide me"* | Kapitel 33, oeffentlich beendet |
+| *"Who should I be careful of?"* | Die Frage des Neulings. Niemand sagt einem gefaehrlichen Mann, wen er fuerchtet |
+| Der eifrige junge Mann | Seit Dezember stehen zwei Zeitungen dagegen |
+| Vagheit ueber sich selbst als Schutz | In Kapitel 16 hat er die Zahl selbst hergegeben, in 33 kam die Rechnung |
+
+**Und der Ersatz ist keine neue Masche, sondern ein anderer Handel.** In Band 1
+hat er genommen, ohne zu geben: Charme, Fragen, Guidance, alles Instrumente zur
+Entnahme. Wenn niemand mehr freiwillig gibt, muss er **bezahlen**, und er besitzt
+nur eines - was er weiss.
+
+**Damit dreht sich die Gefahr um.** In Band 1 war sie, gekauft zu werden. In
+Band 2 ist sie, **gelesen zu werden**: jede Zahlung ist eine Handschrift, sie
+haeufen sich, und Choi liest Handschriften. Wer ihn in Band 2 etwas herausholen
+laesst, ohne dass er dafuer etwas hingelegt hat, hat die Szene nicht zu Ende
+gedacht.
+
+**Die Probe, ein Satz:** Was hat ihn dieser Raum gekostet? Steht darauf keine
+Antwort, war es eine Band-1-Szene.
 
 ### 2f. Gekauft, nicht angestellt
 
@@ -2153,7 +2194,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.3) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.4) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
   **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und dessen Ende hat er auf dem Boden am Fenster verbracht, an ihren Beinen, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
 
@@ -4775,10 +4816,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:124 | "You are working again," said Annie. "Nobody has told you what to want." |
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 | 51 | b2ch01:146 | In October it had lain forty centimetres from his hand at the corner of that desk. He ha.. |
-| 51 | b2ch01:218 | Annie came back from Yeouido at ten past eight. |
-| 51 | b2ch01:222 | "You have read it," said Annie. |
-| 51 | b2ch01:250 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
-| 51 | b2ch01:260 | Annie put her hand flat on the arm of the chair. |
+| 51 | b2ch01:222 | Annie came back from Yeouido at ten past eight. |
+| 51 | b2ch01:226 | "You have read it," said Annie. |
+| 51 | b2ch01:254 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
+| 51 | b2ch01:264 | Annie put her hand flat on the arm of the chair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -4856,7 +4897,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:66` (Tag 51) - nine, one, six
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch01:146` (Tag 51) - forty, twenty-two
-- `b2ch01:218` (Tag 51) - eight, ten
+- `b2ch01:222` (Tag 51) - eight, ten
 
 ---
 

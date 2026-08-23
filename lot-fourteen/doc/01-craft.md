@@ -264,6 +264,46 @@ Haelfte bekommt ein oeffnendes Anfuehrungszeichen, und der Beat, der vorher in
 der Mitte stand, bleibt in der ersten Haelfte zurueck. **Nach jedem Satz-Split
 in direkter Rede gehoert die Pruefung noch einmal gelaufen.**
 
+### 2h. Werkzeuge stumpfen ab, und er legt sie selbst ab
+
+**Ein Mittel, das zweimal benutzt wird, wirkt beim zweiten Mal weniger, und
+Georgij weiss das vor dem Leser.**
+
+**Deshalb gibt es in diesem Buch keine Szene, in der ein eingefuehrtes Werkzeug
+Georgijs in seiner Hand versagt.** Wenn es stumpf ist, hat er es vorher abgelegt,
+und die Szene handelt vom Ersatz. Wer ihn mit einem stumpfen Werkzeug
+hineinlaufen und daran scheitern laesst, schreibt einen anderen Mann.
+
+**Der Beleg steht im Text und ist unmissverstaendlich.** Sang-hoon sagt es ihm in
+Kapitel 16 ins Gesicht - *"You could have stopped using it."* In Kapitel 33
+benutzt er die Guidance ein letztes Mal, **sagt vorher dazu, dass es das letzte
+Mal ist**, und stellt die Frage trotzdem. Ein Mann, der sein Hauptwerkzeug vor
+Publikum selbst zu Grabe traegt, benutzt neun Wochen spaeter nicht den Rest
+desselben Repertoires und wundert sich.
+
+**Was daraus fuer Band 2 folgt, und es ist der Motor des Bandes:**
+
+| Tot, und von ihm selbst | Warum |
+|---|---|
+| *"Please guide me"* | Kapitel 33, oeffentlich beendet |
+| *"Who should I be careful of?"* | Die Frage des Neulings. Niemand sagt einem gefaehrlichen Mann, wen er fuerchtet |
+| Der eifrige junge Mann | Seit Dezember stehen zwei Zeitungen dagegen |
+| Vagheit ueber sich selbst als Schutz | In Kapitel 16 hat er die Zahl selbst hergegeben, in 33 kam die Rechnung |
+
+**Und der Ersatz ist keine neue Masche, sondern ein anderer Handel.** In Band 1
+hat er genommen, ohne zu geben: Charme, Fragen, Guidance, alles Instrumente zur
+Entnahme. Wenn niemand mehr freiwillig gibt, muss er **bezahlen**, und er besitzt
+nur eines - was er weiss.
+
+**Damit dreht sich die Gefahr um.** In Band 1 war sie, gekauft zu werden. In
+Band 2 ist sie, **gelesen zu werden**: jede Zahlung ist eine Handschrift, sie
+haeufen sich, und Choi liest Handschriften. Wer ihn in Band 2 etwas herausholen
+laesst, ohne dass er dafuer etwas hingelegt hat, hat die Szene nicht zu Ende
+gedacht.
+
+**Die Probe, ein Satz:** Was hat ihn dieser Raum gekostet? Steht darauf keine
+Antwort, war es eine Band-1-Szene.
+
 ### 2f. Gekauft, nicht angestellt
 
 **Es heisst *paid for*, nie *paying for*.** Annie hat Georgij einmal gekauft, im
