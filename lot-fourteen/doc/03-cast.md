@@ -144,8 +144,16 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
 
-**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
-*Kanon, Kapitel 9 und 14.*
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben.
+
+**Hier stand bis zum 23.08.: "Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. Georgij hat sie nie getroffen."** Alle drei Sätze waren zu diesem Zeitpunkt **zwei Kapitel lang überholt** und hätten jede Szene mit ihr falsch aufgesetzt. Was gilt:
+
+- **Kapitel 30, 16. Dezember, Hanas Terrasse, zweiundzwanzig Minuten.** Hana macht die Einführung, also   stimmte der Weg. Getroffen hat er sie seitdem.
+- **Kapitel 32, 22. Dezember, Sung-hos Haus.** Sie sitzt mit acht anderen in einem Raum, auf dem Stuhl,   von dem aus man beide Türen sieht, und unterschreibt zuletzt auf Seite elf. **Sie geht also in einen   Raum, wenn der Raum keine Frage mehr enthält, die sie nicht beantworten will.**
+- **Der Grund, warum sie sonst keinen betritt, bleibt unverändert und ist wichtiger als die Regel selbst:**   Wer in einem Raum steht, kann gefragt werden, und sie hat keinen Titel, hinter dem sie zwei Sekunden   gewinnen könnte.
+
+**Und der Zugang ist verbraucht.** Hana sagt in Kapitel 15 *"Not quickly and not twice. Once."* Der eine Versuch ist am 16. Dezember ausgegeben worden und ist gelungen. Wer eine zweite Einführung schreibt, schreibt gegen den Text.
+*Kanon, Kapitel 9 und 14; überholt und fortgeschrieben in 30 und 32.*
 
 **Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
 **Was Annie ihnen anbietet:** Geld und Rückendeckung gegen Anteile, Sicherheiten und ein Vetorecht über Routen. Kein Besitzerwechsel: Sie behalten den Namen, Annie bekommt die Kontrolle. Sie erfahren das früh, vollständig und aus Georgijs Mund.
@@ -166,7 +174,7 @@ Leute weitergibt.
 **Auf der Gala:** Eine Szene, an Tisch zwei, von zehn nach elf bis zwanzig nach elf. In derselben Szene und kurz vor dem Aufstehen kommt die Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat. Danach geht er allein aus dem Saal.
 *Kanon ab Kapitel 10.*
 
-**Kim Do-yun** - Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
+**Kim Do-yun** - **Bis Kapitel 32** Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. **Seit dem 22. Dezember nicht mehr.** Er steht am Türrahmen, während die anderen acht unterschreiben, und gibt Georgij sechs Tage statt der vierzehn, die er hätte geben müssen. **In Kapitel 33 bleibt er im Wagen**, weil er formal noch Sang-hoons Mann ist, und sieht seinen Arbeitgeber nach zwei Stunden herauskommen, ohne bekommen zu haben, wofür er gekommen ist. Das ist derselbe Wagen und dieselbe Stelle wie am 27. November in Kapitel 22, wo ein Mann darin sitzen bleibt und nicht benannt wird. Wer ihn nach 32 als überzeugten Sang-hoon-Mann schreibt, schreibt gegen den Text. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
 **Zum Namen:** Ich habe ihn bewusst Kim gelassen. Der Nachname trägt hier Gewicht, denn er ist der Grund, warum die Schiffsroute Annie nicht nur Sang-hoon kostet, sondern die ganze Familie Kim in die Hand gibt. Mit dem Sicherheitschef als Jang gibt es keine Verwechslung mehr, es bleiben nur noch Do-yun und seine Familie, und die sollen dasselbe bedeuten. Wenn Du ihn trotzdem umbenennen willst, muss der Hebel auf die Familie neu begründet werden.
 *Vorschlag.*
 

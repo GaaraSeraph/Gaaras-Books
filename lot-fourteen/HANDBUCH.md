@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 74.742 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 75.257 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1011,7 +1011,7 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 - **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang, und seit Kapitel 19 bei Chairman Woo. **Korrigiert am 22.08.:** Hier stand, es werde im Lauf des Buches häufiger. Das ist nachgezählt falsch. Es steht in Kapitel 3 (zweimal), 6, 7 und 9 und danach acht Kapitel lang nicht mehr, weil der Haushalt aus dem Buch verschwindet. Kapitel 19 ist die erste Wiederaufnahme. Der volle Befund steht in `doc/05-continuity.md`.
 - **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
-- **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
+- **Keins bei Annie, bis Tag einunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
 
 **Merke:** Das Lächeln ist zwischen Kapitel 8 und 13 fast verschwunden. Es gehört zu seinem Werkzeugkasten und muss benutzt werden, sonst verkümmert die Figur zu einem Berichterstatter.
 
@@ -1020,11 +1020,24 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 ### Das Achselzucken
 
 **Bis Kapitel 20 zuckt Georgij in zwanzig Kapiteln kein einziges Mal mit den
-Schultern.** Es gehört im ganzen Buch fünf Leuten: Jang zweimal, Woo, Hana,
-Sang-hoon. Also Menschen, die in ihrer Lage sicher sind und nichts zu
-verteidigen haben. **Annie zuckt ebenfalls nie**, und aus demselben Grund. Ein
-Achselzucken heißt *ich weiß es nicht* oder *es ist egal*, und beides räumt
-keiner von beiden ein.
+Schultern.** **Nachgezählt am 23.08. über alle vierunddreißig: sieben Achselzucken,
+sechs Leute.** Jang zweimal (Kapitel 5 über den Kies, Kapitel 6 über die geänderte
+Nachtroute, dort unbenannt als *"A shrug that was not quite an apology"*), Woo,
+Hana, Sang-hoon, Georgij einmal, und **Ji-won**.
+
+**Ji-won stand hier bis zum 23.08. nicht**, und die Liste sagte fünf. Ihr
+Achselzucken steht in Kapitel 20 und ist kein Gegenbeispiel zur Regel, sondern ihr
+schönster Fall: *"Mrs Seo says the gardeners are coming at nine and it will be
+loud." Ji-won shrugged. "She said to tell you and not to apologise for it."* Das
+Mädchen, das sich entschuldigt, wenn es Angst hat, zuckt genau in dem Moment mit
+den Schultern, in dem ihr jemand das Entschuldigen verboten hat. **Wer die Zeile
+streicht, um die Liste sauber zu halten, streicht den Beleg dafür, dass sich der
+Haushalt unter Mrs Seo verändert hat.**
+
+Sonst gilt die Beobachtung: Menschen, die in ihrer Lage sicher sind und nichts zu
+verteidigen haben. **Annie zuckt in keinem einzigen Kapitel**, und aus demselben
+Grund. Ein Achselzucken heißt *ich weiß es nicht* oder *es ist egal*, und beides
+räumt keiner von beiden ein.
 
 **Ab Kapitel 20 zuckt er, und nur vor ihr.** Auf ihr *"You had ten"* antwortet er
 *"I had ten and I did not need them"* mit einem Achselzucken. Die drei übrigen
@@ -1102,7 +1115,7 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Ihre Methode:** Sie gibt ihm kein Ziel und keine Regel vor. Eine Regel würde er an der sicheren Seite entlang bearbeiten und wäre wertlos. Sie will sehen, wo er die Linie selbst zieht. Ein Name würde ihm den Blick verstellen, dann bestätigt er nur, was sie ohnehin vermutet. Sie testet ihn auch darüber, worum er bittet.
 
-**Sie hat die Kamerawinkel selbst gezeichnet** und dafür zweimal in drei Tagen einen Fachmann mit seiner Zeichnung weggeschickt. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
+**Sie hat die Kamerawinkel selbst gezeichnet** und dafür **drei Tage lang mit einem Fachmann über dessen Zeichnung gesessen und ihn dann weggeschickt**, weil er sie bei fünfzehn Grad und in der Decke haben wollte. Kapitel 3 im Wortlaut: *"The angles are mine. I drew them. I sat with the man for three days over that drawing and he wanted them at fifteen degrees and in the ceiling, and I sent him away."* **Hier stand bis zum 23.08. "zweimal in drei Tagen einen Fachmann weggeschickt"**, also zwei Abweisungen statt drei Tage Arbeit an einer. Aus der Ausdauer war Ungeduld geworden, und das ist eine andere Frau. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
 
 ---
 
@@ -1254,8 +1267,16 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Daraus folgt, womit man sie ueberhaupt erreichen kann:** nicht mit Auskunft, sondern mit einer Zusicherung darueber, was ihr nicht passieren wird - und die muss von dem kommen, der sonst der Fragende waere.
 
-**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben. Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. **Georgij hat sie nie getroffen.**
-*Kanon, Kapitel 9 und 14.*
+**Ihre Macht:** Sie hält selbst 1,4 Prozent. Bruder elf, zwei Cousins neun und sieben, Schwägerin sechs, zwei Neffen je vier, also 41 Prozent bei sechs Leuten (mit ihren eigenen 1,4 haelt die Familie 42,4), die keine Bilanz lesen können und seit 2009 nie gegen sie gestimmt haben. Sie macht die Familienfinanzen seit dem Tod des Vaters. In zwanzig Jahren hat niemand sie zu einer Unterschrift bewegt, weil sie nie eine braucht: Sie sagt anderen, was die unterschreiben.
+
+**Hier stand bis zum 23.08.: "Sie kommt in keinen Raum. Der einzige Weg zu ihr führt über Hana. Georgij hat sie nie getroffen."** Alle drei Sätze waren zu diesem Zeitpunkt **zwei Kapitel lang überholt** und hätten jede Szene mit ihr falsch aufgesetzt. Was gilt:
+
+- **Kapitel 30, 16. Dezember, Hanas Terrasse, zweiundzwanzig Minuten.** Hana macht die Einführung, also   stimmte der Weg. Getroffen hat er sie seitdem.
+- **Kapitel 32, 22. Dezember, Sung-hos Haus.** Sie sitzt mit acht anderen in einem Raum, auf dem Stuhl,   von dem aus man beide Türen sieht, und unterschreibt zuletzt auf Seite elf. **Sie geht also in einen   Raum, wenn der Raum keine Frage mehr enthält, die sie nicht beantworten will.**
+- **Der Grund, warum sie sonst keinen betritt, bleibt unverändert und ist wichtiger als die Regel selbst:**   Wer in einem Raum steht, kann gefragt werden, und sie hat keinen Titel, hinter dem sie zwei Sekunden   gewinnen könnte.
+
+**Und der Zugang ist verbraucht.** Hana sagt in Kapitel 15 *"Not quickly and not twice. Once."* Der eine Versuch ist am 16. Dezember ausgegeben worden und ist gelungen. Wer eine zweite Einführung schreibt, schreibt gegen den Text.
+*Kanon, Kapitel 9 und 14; überholt und fortgeschrieben in 30 und 32.*
 
 **Familie Kim** - Besitzt die Logistik, um die alles geht. Steht unter Zollermittlung, seit in Incheon ein ausgebauter Container in ihrer Sendung gefunden wurde, den sie nicht dorthin gestellt haben. Kunden springen ab. Auf der Gala vollzählig und sichtbar sorglos.
 **Was Annie ihnen anbietet:** Geld und Rückendeckung gegen Anteile, Sicherheiten und ein Vetorecht über Routen. Kein Besitzerwechsel: Sie behalten den Namen, Annie bekommt die Kontrolle. Sie erfahren das früh, vollständig und aus Georgijs Mund.
@@ -1276,7 +1297,7 @@ Leute weitergibt.
 **Auf der Gala:** Eine Szene, an Tisch zwei, von zehn nach elf bis zwanzig nach elf. In derselben Szene und kurz vor dem Aufstehen kommt die Bitte um ein Abendessen, damit er von seinen Errungenschaften erzählen kann. Wer von seinen Siegen erzählt, sagt dabei, wie er sie gemacht hat. Danach geht er allein aus dem Saal.
 *Kanon ab Kapitel 10.*
 
-**Kim Do-yun** - Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
+**Kim Do-yun** - **Bis Kapitel 32** Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. **Seit dem 22. Dezember nicht mehr.** Er steht am Türrahmen, während die anderen acht unterschreiben, und gibt Georgij sechs Tage statt der vierzehn, die er hätte geben müssen. **In Kapitel 33 bleibt er im Wagen**, weil er formal noch Sang-hoons Mann ist, und sieht seinen Arbeitgeber nach zwei Stunden herauskommen, ohne bekommen zu haben, wofür er gekommen ist. Das ist derselbe Wagen und dieselbe Stelle wie am 27. November in Kapitel 22, wo ein Mann darin sitzen bleibt und nicht benannt wird. Wer ihn nach 32 als überzeugten Sang-hoon-Mann schreibt, schreibt gegen den Text. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
 **Zum Namen:** Ich habe ihn bewusst Kim gelassen. Der Nachname trägt hier Gewicht, denn er ist der Grund, warum die Schiffsroute Annie nicht nur Sang-hoon kostet, sondern die ganze Familie Kim in die Hand gibt. Mit dem Sicherheitschef als Jang gibt es keine Verwechslung mehr, es bleiben nur noch Do-yun und seine Familie, und die sollen dasselbe bedeuten. Wenn Du ihn trotzdem umbenennen willst, muss der Hebel auf die Familie neu begründet werden.
 *Vorschlag.*
 
@@ -1742,7 +1763,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Er weigert sich.** Seine Begruendung von der Bruecke war taktisch und ist mit dem Eintrag weggefallen, und Annie hat es in dieser Reihenfolge getan, damit nur der zurueckgehaltene Grund uebrig bleibt: Wer ihr gehoert, muss verkauft werden, und das dauert Wochen und braucht einen Raum. Wer frei ist, wird an einem Dienstag im Flur weggeschickt. Die einzige Kontraktion des Kapitels steht an dieser Stelle: **"I'm afraid of Tuesdays."**
 
   Und die Umkehrung aus Kapitel 24: *"It is not what holds me and it never was. It is what holds you."* Danach **"I will not stop calling you Mistress"**, auf dem Boden neben ihrem Stuhl am Fenster, ohne dass noch ein Papier es verlangt.
-- **Kapitel 33** *That is five* (v1.9) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
+- **Kapitel 33** *That is five* (v1.10) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.5) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
 - **Kapitel 30** *Who do they telephone* (v1.7) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
@@ -4067,7 +4088,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (14-34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
-| Kim Do-yun | 30 | 8 (14-32) | 6 | 74 |
+| Kim Do-yun | 31 | 9 (14-33) | 6 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Mr Pyo | 10 | 7 (05-31) | 1 | 74 |
@@ -4372,22 +4393,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:280 | Annie did not move. |
 | 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
 | 74 | ch31:306 | Annie got up. |
-| 7 | ch33:16 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:34 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
-| 7 | ch33:52 | Annie did not move. |
-| 7 | ch33:66 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
-| 7 | ch33:80 | Annie did not answer him and she did not stop him. |
-| 7 | ch33:156 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
-| 7 | ch33:220 | "Your offer," said Annie. |
-| 7 | ch33:228 | Annie's answer took five words. |
-| 7 | ch33:238 | "I know," said Annie. |
-| 7 | ch33:280 | "Sit down," said Annie. |
-| 7 | ch33:294 | Annie's face did nothing at all. |
-| 7 | ch33:310 | Annie let that stand where it was. |
-| 7 | ch33:330 | Annie was quiet. |
-| 7 | ch33:358 | Annie did not answer for some time. |
-| 7 | ch33:378 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
-| 7 | ch33:408 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
+| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | ch33:38 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
+| 7 | ch33:56 | Annie did not move. |
+| 7 | ch33:70 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
+| 7 | ch33:84 | Annie did not answer him and she did not stop him. |
+| 7 | ch33:160 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
+| 7 | ch33:224 | "Your offer," said Annie. |
+| 7 | ch33:232 | Annie's answer took five words. |
+| 7 | ch33:242 | "I know," said Annie. |
+| 7 | ch33:290 | "Sit down," said Annie. |
+| 7 | ch33:304 | Annie's face did nothing at all. |
+| 7 | ch33:320 | Annie let that stand where it was. |
+| 7 | ch33:340 | Annie was quiet. |
+| 7 | ch33:368 | Annie did not answer for some time. |
+| 7 | ch33:388 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
+| 7 | ch33:418 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
 | 46 | ch34:18 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
 | 46 | ch34:44 | Annie worked. |
 | 50 | ch34:136 | Annie came in after the car had gone down the drive. |
@@ -4471,9 +4492,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:12` (Tag 74) - twenty
 - `ch31:152` (Tag 74) - two
 - `ch31:226` (Tag 74) - one
-- `ch33:34` (Tag 7) - one, three
-- `ch33:66` (Tag 7) - fifteen
-- `ch33:228` (Tag 7) - five
+- `ch33:38` (Tag 7) - one, three
+- `ch33:70` (Tag 7) - fifteen
+- `ch33:232` (Tag 7) - five
 - `ch34:18` (Tag 46) - four, three
 - `ch34:236` (Tag 50) - forty
 
@@ -4989,23 +5010,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 | 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 | 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 7 | ch33:16 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:28 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
-| 7 | ch33:44 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
-| 7 | ch33:64 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
-| 7 | ch33:84 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
-| 7 | ch33:94 | Sang-hoon did not smile. |
-| 7 | ch33:120 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
-| 7 | ch33:130 | "Then spend it," said Park Sang-hoon. |
-| 7 | ch33:148 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
-| 7 | ch33:160 | Then Park Sang-hoon laughed. |
-| 7 | ch33:174 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
-| 7 | ch33:186 | "And in that quarter," said Sang-hoon. |
-| 7 | ch33:204 | Sang-hoon looked at him for some time. |
-| 7 | ch33:216 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
-| 7 | ch33:224 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
-| 7 | ch33:234 | Park Sang-hoon turned round then. |
-| 7 | ch33:266 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
+| 7 | ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
+| 7 | ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
+| 7 | ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
+| 7 | ch33:98 | Sang-hoon did not smile. |
+| 7 | ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
+| 7 | ch33:134 | "Then spend it," said Park Sang-hoon. |
+| 7 | ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
+| 7 | ch33:164 | Then Park Sang-hoon laughed. |
+| 7 | ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
+| 7 | ch33:190 | "And in that quarter," said Sang-hoon. |
+| 7 | ch33:208 | Sang-hoon looked at him for some time. |
+| 7 | ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
+| 7 | ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
+| 7 | ch33:238 | Park Sang-hoon turned round then. |
+| 7 | ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
 | 46 | ch34:60 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -5039,10 +5060,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:304` (Tag 59) - forty, seven, twelve
 - `ch30:410` (Tag 74) - one
 - `ch31:226` (Tag 74) - one
-- `ch33:44` (Tag 7) - ten, thirty-one
-- `ch33:148` (Tag 7) - eleven, one
-- `ch33:224` (Tag 7) - two, two hundred million
-- `ch33:266` (Tag 7) - eleven, forty
+- `ch33:48` (Tag 7) - ten, thirty-one
+- `ch33:152` (Tag 7) - eleven, one
+- `ch33:228` (Tag 7) - two, two hundred million
+- `ch33:270` (Tag 7) - eleven, forty
 - `ch34:60` (Tag 46) - one
 
 ---
@@ -5113,7 +5134,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:186 | "Mr Jang." |
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 7 | ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
-| 7 | ch33:146 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
+| 7 | ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | ch34:8 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | ch34:26 | Not an empty afternoon. He walked the house at night the way he had walked it on the fou.. |
 
@@ -5207,7 +5228,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 | 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | ch33:412 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 7 | ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -5237,7 +5258,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:8` (Tag 59) - one, two
 - `ch28:230` (Tag 1) - one
 - `ch31:68` (Tag 74) - one, three
-- `ch33:412` (Tag 7) - six
+- `ch33:422` (Tag 7) - six
 
 ---
 
@@ -5289,7 +5310,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
 | - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
 | - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
-| 7 | ch33:214 | "Ye-rin." |
+| 7 | ch33:218 | "Ye-rin." |
 | 46 | ch34:16 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
@@ -5377,7 +5398,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Kim Do-yun
 
-30 Nennungen in 8 Kapiteln.
+31 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5411,6 +5432,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:226 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
 | - | ch32:236 | Do-yun did something with his mouth that was almost a smile again. |
 | - | ch32:242 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
+| 7 | ch33:14 | Kim Do-yun was in the car and stayed in it. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 

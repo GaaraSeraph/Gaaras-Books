@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.639 Woerter.
+34 Kapitel. 99.728 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.7 | 3.524 |
 | 31 | v1.5 | 3.249 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.9 | 3.246 |
+| 33 | v1.10 | 3.335 |
 | 34 | v1.1 | 2.969 |
 
 ---
@@ -10221,7 +10221,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10232,6 +10232,10 @@ That was the first thing about it, and Georgij thought it was the whole of it un
 On the twenty-ninth of December he telephoned at half past ten, was given two o'clock, and arrived at four minutes to.
 
 The gate opened for him. Jang was in the hall and did not need to be.
+
+Kim Do-yun was in the car and stayed in it.
+
+In November there had been a man in that seat too, and nobody had got out of it then either.
 
 ---
 
@@ -10491,7 +10495,13 @@ Georgij inclined his head and said nothing.
 
 "You gave it away instead, to be pleased for eleven seconds, in front of the person who told you not to be." He opened the door himself. "I have done that twice in thirty-one years, and both times it was the most expensive thing I did that decade, and both times I would do it again. That is not advice. There is no advice in it. It is the only guidance I have ever had that was worth anything and it is yours."
 
-Then he went out to his car, and the car went down the drive, and the gate did what the gate does.
+At the car the door was already open for him, which it had not been on the way in.
+
+Georgij watched from the window. A man who had put his name on that document a week ago was holding a door for the employer who had lost by it, and doing it properly, with the other hand at his side.
+
+Nobody said anything out there either.
+
+Then the car went down the drive, and the gate did what the gate does.
 
 ---
 

@@ -26,7 +26,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (14-34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
-| Kim Do-yun | 30 | 8 (14-32) | 6 | 74 |
+| Kim Do-yun | 31 | 9 (14-33) | 6 | 74 |
 | Mr Hong | 30 | 9 (07-23) | 22 | 55 |
 | Ji-won | 20 | 7 (03-20) | 1 | 49 |
 | Mr Pyo | 10 | 7 (05-31) | 1 | 74 |
@@ -331,22 +331,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:280 | Annie did not move. |
 | 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
 | 74 | ch31:306 | Annie got up. |
-| 7 | ch33:16 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:34 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
-| 7 | ch33:52 | Annie did not move. |
-| 7 | ch33:66 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
-| 7 | ch33:80 | Annie did not answer him and she did not stop him. |
-| 7 | ch33:156 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
-| 7 | ch33:220 | "Your offer," said Annie. |
-| 7 | ch33:228 | Annie's answer took five words. |
-| 7 | ch33:238 | "I know," said Annie. |
-| 7 | ch33:280 | "Sit down," said Annie. |
-| 7 | ch33:294 | Annie's face did nothing at all. |
-| 7 | ch33:310 | Annie let that stand where it was. |
-| 7 | ch33:330 | Annie was quiet. |
-| 7 | ch33:358 | Annie did not answer for some time. |
-| 7 | ch33:378 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
-| 7 | ch33:408 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
+| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | ch33:38 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
+| 7 | ch33:56 | Annie did not move. |
+| 7 | ch33:70 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
+| 7 | ch33:84 | Annie did not answer him and she did not stop him. |
+| 7 | ch33:160 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
+| 7 | ch33:224 | "Your offer," said Annie. |
+| 7 | ch33:232 | Annie's answer took five words. |
+| 7 | ch33:242 | "I know," said Annie. |
+| 7 | ch33:290 | "Sit down," said Annie. |
+| 7 | ch33:304 | Annie's face did nothing at all. |
+| 7 | ch33:320 | Annie let that stand where it was. |
+| 7 | ch33:340 | Annie was quiet. |
+| 7 | ch33:368 | Annie did not answer for some time. |
+| 7 | ch33:388 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
+| 7 | ch33:418 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
 | 46 | ch34:18 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
 | 46 | ch34:44 | Annie worked. |
 | 50 | ch34:136 | Annie came in after the car had gone down the drive. |
@@ -430,9 +430,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch29:12` (Tag 74) - twenty
 - `ch31:152` (Tag 74) - two
 - `ch31:226` (Tag 74) - one
-- `ch33:34` (Tag 7) - one, three
-- `ch33:66` (Tag 7) - fifteen
-- `ch33:228` (Tag 7) - five
+- `ch33:38` (Tag 7) - one, three
+- `ch33:70` (Tag 7) - fifteen
+- `ch33:232` (Tag 7) - five
 - `ch34:18` (Tag 46) - four, three
 - `ch34:236` (Tag 50) - forty
 
@@ -948,23 +948,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 | 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
 | 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 7 | ch33:16 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:28 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
-| 7 | ch33:44 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
-| 7 | ch33:64 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
-| 7 | ch33:84 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
-| 7 | ch33:94 | Sang-hoon did not smile. |
-| 7 | ch33:120 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
-| 7 | ch33:130 | "Then spend it," said Park Sang-hoon. |
-| 7 | ch33:148 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
-| 7 | ch33:160 | Then Park Sang-hoon laughed. |
-| 7 | ch33:174 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
-| 7 | ch33:186 | "And in that quarter," said Sang-hoon. |
-| 7 | ch33:204 | Sang-hoon looked at him for some time. |
-| 7 | ch33:216 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
-| 7 | ch33:224 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
-| 7 | ch33:234 | Park Sang-hoon turned round then. |
-| 7 | ch33:266 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
+| 7 | ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
+| 7 | ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
+| 7 | ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
+| 7 | ch33:98 | Sang-hoon did not smile. |
+| 7 | ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
+| 7 | ch33:134 | "Then spend it," said Park Sang-hoon. |
+| 7 | ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
+| 7 | ch33:164 | Then Park Sang-hoon laughed. |
+| 7 | ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
+| 7 | ch33:190 | "And in that quarter," said Sang-hoon. |
+| 7 | ch33:208 | Sang-hoon looked at him for some time. |
+| 7 | ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
+| 7 | ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
+| 7 | ch33:238 | Park Sang-hoon turned round then. |
+| 7 | ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
 | 46 | ch34:60 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -998,10 +998,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:304` (Tag 59) - forty, seven, twelve
 - `ch30:410` (Tag 74) - one
 - `ch31:226` (Tag 74) - one
-- `ch33:44` (Tag 7) - ten, thirty-one
-- `ch33:148` (Tag 7) - eleven, one
-- `ch33:224` (Tag 7) - two, two hundred million
-- `ch33:266` (Tag 7) - eleven, forty
+- `ch33:48` (Tag 7) - ten, thirty-one
+- `ch33:152` (Tag 7) - eleven, one
+- `ch33:228` (Tag 7) - two, two hundred million
+- `ch33:270` (Tag 7) - eleven, forty
 - `ch34:60` (Tag 46) - one
 
 ---
@@ -1072,7 +1072,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:186 | "Mr Jang." |
 | 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 7 | ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
-| 7 | ch33:146 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
+| 7 | ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | ch34:8 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | ch34:26 | Not an empty afternoon. He walked the house at night the way he had walked it on the fou.. |
 
@@ -1166,7 +1166,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 | 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
 | 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | ch33:412 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 7 | ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1196,7 +1196,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:8` (Tag 59) - one, two
 - `ch28:230` (Tag 1) - one
 - `ch31:68` (Tag 74) - one, three
-- `ch33:412` (Tag 7) - six
+- `ch33:422` (Tag 7) - six
 
 ---
 
@@ -1248,7 +1248,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
 | - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
 | - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
-| 7 | ch33:214 | "Ye-rin." |
+| 7 | ch33:218 | "Ye-rin." |
 | 46 | ch34:16 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
@@ -1336,7 +1336,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Kim Do-yun
 
-30 Nennungen in 8 Kapiteln.
+31 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1370,6 +1370,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | ch32:226 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
 | - | ch32:236 | Do-yun did something with his mouth that was almost a smile again. |
 | - | ch32:242 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
+| 7 | ch33:14 | Kim Do-yun was in the car and stayed in it. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 

@@ -136,7 +136,7 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 - **Ehrlich freundlich.** Nicht gebaut, sondern entschieden, und es holt nichts. Bei Mrs Ryu, bei Mrs Seo, bei Ji-won, bei Jang, und seit Kapitel 19 bei Chairman Woo. **Korrigiert am 22.08.:** Hier stand, es werde im Lauf des Buches häufiger. Das ist nachgezählt falsch. Es steht in Kapitel 3 (zweimal), 6, 7 und 9 und danach acht Kapitel lang nicht mehr, weil der Haushalt aus dem Buch verschwindet. Kapitel 19 ist die erste Wiederaufnahme. Der volle Befund steht in `doc/05-continuity.md`.
 - **Die Klingen.** Das freundlichere, je schlimmer es wird. Das kalte. Das halbe. Alle drei noch offen, alle drei in `doc/05-continuity.md` beschrieben.
 - **Das eigene.** Kleiner als alle anderen, ohne Absicht, etwa anderthalb Sekunden lang, wenn ihm jemand etwas gegeben hat und er weiß, was es den anderen gekostet hat. Bei Mr Hong.
-- **Keins bei Annie, bis Tag vierunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
+- **Keins bei Annie, bis Tag einunddreißig.** Auf der Gala benutzt er vier Sorten an neun Leuten und keine einzige an ihr. Das erste, das er ihr gibt, kommt in Kapitel 14, während er beschreibt, wie er einen Mann mit einem wahren Dokument ruinieren wird. Es ist keines der gebauten. Es kommt langsam, ohne Grausamkeit und ohne Entschuldigung, und er räumt es nicht weg, weil Wegräumen die zweite Lüge in einem Raum wäre, in dem er die erste gerade verweigert hat.
 
 **Merke:** Das Lächeln ist zwischen Kapitel 8 und 13 fast verschwunden. Es gehört zu seinem Werkzeugkasten und muss benutzt werden, sonst verkümmert die Figur zu einem Berichterstatter.
 
@@ -145,11 +145,24 @@ Er spielt den leicht übereifrigen, von so viel Macht beeindruckten Begleiter, u
 ### Das Achselzucken
 
 **Bis Kapitel 20 zuckt Georgij in zwanzig Kapiteln kein einziges Mal mit den
-Schultern.** Es gehört im ganzen Buch fünf Leuten: Jang zweimal, Woo, Hana,
-Sang-hoon. Also Menschen, die in ihrer Lage sicher sind und nichts zu
-verteidigen haben. **Annie zuckt ebenfalls nie**, und aus demselben Grund. Ein
-Achselzucken heißt *ich weiß es nicht* oder *es ist egal*, und beides räumt
-keiner von beiden ein.
+Schultern.** **Nachgezählt am 23.08. über alle vierunddreißig: sieben Achselzucken,
+sechs Leute.** Jang zweimal (Kapitel 5 über den Kies, Kapitel 6 über die geänderte
+Nachtroute, dort unbenannt als *"A shrug that was not quite an apology"*), Woo,
+Hana, Sang-hoon, Georgij einmal, und **Ji-won**.
+
+**Ji-won stand hier bis zum 23.08. nicht**, und die Liste sagte fünf. Ihr
+Achselzucken steht in Kapitel 20 und ist kein Gegenbeispiel zur Regel, sondern ihr
+schönster Fall: *"Mrs Seo says the gardeners are coming at nine and it will be
+loud." Ji-won shrugged. "She said to tell you and not to apologise for it."* Das
+Mädchen, das sich entschuldigt, wenn es Angst hat, zuckt genau in dem Moment mit
+den Schultern, in dem ihr jemand das Entschuldigen verboten hat. **Wer die Zeile
+streicht, um die Liste sauber zu halten, streicht den Beleg dafür, dass sich der
+Haushalt unter Mrs Seo verändert hat.**
+
+Sonst gilt die Beobachtung: Menschen, die in ihrer Lage sicher sind und nichts zu
+verteidigen haben. **Annie zuckt in keinem einzigen Kapitel**, und aus demselben
+Grund. Ein Achselzucken heißt *ich weiß es nicht* oder *es ist egal*, und beides
+räumt keiner von beiden ein.
 
 **Ab Kapitel 20 zuckt er, und nur vor ihr.** Auf ihr *"You had ten"* antwortet er
 *"I had ten and I did not need them"* mit einem Achselzucken. Die drei übrigen
@@ -227,6 +240,6 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Ihre Methode:** Sie gibt ihm kein Ziel und keine Regel vor. Eine Regel würde er an der sicheren Seite entlang bearbeiten und wäre wertlos. Sie will sehen, wo er die Linie selbst zieht. Ein Name würde ihm den Blick verstellen, dann bestätigt er nur, was sie ohnehin vermutet. Sie testet ihn auch darüber, worum er bittet.
 
-**Sie hat die Kamerawinkel selbst gezeichnet** und dafür zweimal in drei Tagen einen Fachmann mit seiner Zeichnung weggeschickt. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
+**Sie hat die Kamerawinkel selbst gezeichnet** und dafür **drei Tage lang mit einem Fachmann über dessen Zeichnung gesessen und ihn dann weggeschickt**, weil er sie bei fünfzehn Grad und in der Decke haben wollte. Kapitel 3 im Wortlaut: *"The angles are mine. I drew them. I sat with the man for three days over that drawing and he wanted them at fifteen degrees and in the ceiling, and I sent him away."* **Hier stand bis zum 23.08. "zweimal in drei Tagen einen Fachmann weggeschickt"**, also zwei Abweisungen statt drei Tage Arbeit an einer. Aus der Ausdauer war Ungeduld geworden, und das ist eine andere Frau. Sie weiß deshalb, wo die Kameras stehen und wo die toten Zonen liegen, und Georgij nennt ihr Haus dafür das bestgesicherte, in dem man ihn je gehalten hat. In Kapitel 17 zahlt sich das ein zweites Mal aus: Sie kann ihm die Stelle, an der es wehtut, nur deshalb bewusst hinlegen, weil sie den Winkel selbst gezogen hat.
 
 ---
