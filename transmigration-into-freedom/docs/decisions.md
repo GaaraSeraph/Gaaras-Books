@@ -3,6 +3,47 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Four days was unrealistic and the story says so out loud ===
+The author caught it: two days east and two days back only works if a lord's man
+mounts up the hour Rulf arrives, and no administration in any world does that.
+Rather than quietly retconning ch14, Gaara corrects himself on the page in ch17,
+because he is exactly the man who would: nineteen years of watching decisions
+not get made. Four days is the floor and nothing happens at the floor. A lord's
+man keeps a ledger, a superior and an appetite for not being blamed.
+New working clock: two weeks, possibly three, offered as a guess.
+The gain is structural. Four days is a chapter of running. Two weeks is a
+fortnight he has to justify spending, which is what produces ch17.
+
+=== Why he goes back into the ruin at all, now that the room is sealed ===
+Also the author's catch, and it was a hole: the reason to go back in was the
+farming, and the farming died with the gate, so the whole ruin had nothing left
+in it. His replacement reason is better than the original: so that a
+seventy-year-old is no longer the only person in the valley who can walk into
+that place and walk out of it. Shutting the gate did not fix that. It moved it
+from under the ground to on top of it.
+That also puts the hunting above ground for the first time, which is where the
+levels are, because the ch6 rule stands: the same animal stops paying. He cannot
+farm his way anywhere. He can only hunt up.
+
+=== Marit stays, and the training costs a leg ===
+Two author decisions and two of mine.
+MARIT STAYS (author). Written as her argument and not his, because the arc is
+about him depending on people without being at their mercy, and leaving his best
+asset behind to run the thing he built is the shape of that.
+NUMBERS ON REQUEST (mine, unanswered fork). Your own if you ask, never somebody
+else's. Torv asks, gets his 6, asks for Bern's and is told to ask Bern. No
+speech attached, per the ch16 rule about not explaining himself.
+A LEG AND NOT A LIFE (mine, unanswered fork). Bern is crippled rather than
+killed, because the book spent a death recently and because the uncomfortable
+version is the one where nobody was careless: he did exactly what he was taught
+and an eight hundred year old wall was the variable. Gaara cannot even say he
+should have listened. A death can be added later; it cannot be taken back.
+And the sting the chapter is built to land: Bern goes down, and forty feet away
+Gaara takes a Level 9 and is paid more for it than for anything since he
+arrived. Both true, four minutes apart, and there is a way of saying them in one
+sentence that makes him a man who bought a level with a leg. He says it himself.
+
+
 === Magic arrives in chapter 16 as an invoice, not as a gift ===
 Sixteen chapters of MP 60, never spent, never touched, and the arc document has
 said since early on that the first instance must be done TO him or paid FOR by

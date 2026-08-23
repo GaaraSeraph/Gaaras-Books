@@ -189,6 +189,9 @@ Enforcement, in layers:
   three free points on it in chapter 3. An [ ATTRIBUTES UPDATED ] block that reads
   "X: a to b" must start at the value the previous chapter ended on; check.py now
   says so out loud.
+- THE CLOCK IS TWO WEEKS, NOT FOUR. Ch14 gives four days (two east, two back)
+  and ch17 corrects it on the page: that is walking time and nothing happens at
+  the floor. Do not write a chapter that assumes riders on day four.
 - Everything after chapter 1 happens on ONE day, up to and including the night in
   the byre. He walks into the ruin on the morning of day two.
 

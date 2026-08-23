@@ -142,6 +142,18 @@ The six (ch14, blooded ch15)
   HE DOES NOT EXPLAIN HIMSELF. There is no speech about the power gap, no
   statement of terms. It is in the behaviour instead: he asks once, takes the
   answer, and changes the subject in the same breath.
+- (ch17) THE CREW AFTER THE CITY. Ylva is a EIGHT, the highest number anybody in
+  this book has been, and did not feel it happen. Torv is a 6, knows it because
+  he asked, and was refused Bern's. Bern is on a door with his shin opened and a
+  bone out of true, hurt while doing exactly what Gaara taught him. Vidar walked
+  backwards down an avenue without turning round, as ordered. Ask said nothing.
+  Sivert was left behind for his arm and told so by somebody else, kindly, on
+  Gaara's instruction.
+- (ch17) MARIT STAYS, and it is her decision with her reasons. Somebody has to
+  take them back in next week, it cannot be a man of seventy and it cannot be a
+  man who is leaving, and she is the only one who has watched Gaara work from
+  close enough to copy it. She is a 6 and says she knows what she is, because he
+  told her in a byre.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in

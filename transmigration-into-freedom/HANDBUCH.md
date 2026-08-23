@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 16 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 20.854 Woerter.
+Kanon: 17 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 22.788 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -159,6 +159,18 @@ The six (ch14, blooded ch15)
   HE DOES NOT EXPLAIN HIMSELF. There is no speech about the power gap, no
   statement of terms. It is in the behaviour instead: he asks once, takes the
   answer, and changes the subject in the same breath.
+- (ch17) THE CREW AFTER THE CITY. Ylva is a EIGHT, the highest number anybody in
+  this book has been, and did not feel it happen. Torv is a 6, knows it because
+  he asked, and was refused Bern's. Bern is on a door with his shin opened and a
+  bone out of true, hurt while doing exactly what Gaara taught him. Vidar walked
+  backwards down an avenue without turning round, as ordered. Ask said nothing.
+  Sivert was left behind for his arm and told so by somebody else, kindly, on
+  Gaara's instruction.
+- (ch17) MARIT STAYS, and it is her decision with her reasons. Somebody has to
+  take them back in next week, it cannot be a man of seventy and it cannot be a
+  man who is leaving, and she is the only one who has watched Gaara work from
+  close enough to copy it. She is a 6 and says she knows what she is, because he
+  told her in a byre.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
@@ -244,6 +256,11 @@ that afternoon. The chapter ends on him going to do it.
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
+  UNDER WAY, ch17. He stays instead of leaving and spends the time training the
+  crew in the city, on the stated grounds that a shut gate does not fix a valley
+  with exactly one person in it who can go into a ruin, and that person is
+  seventy. Marit stays behind to lead them when he goes, and it is her argument,
+  not his. The milestone itself is not paid until it works in his absence.
 Counter-pressure: someone fails him, badly, and the old rule gets its best evidence in years.
 
 Stage 5, Chapters 22 to 31: Politics again, with swords.
@@ -365,6 +382,15 @@ spent, and unfelt. It regenerates two points during one speech. Afterwards the
 mark on the drum returns ??? and Drawn: 57 and nothing else. HP 196/220 at the
 start of the chapter, from the ribs in ch15.
 
+Chapter 17: LEVEL 5, and it costs one kill. Kills 13 to 14, and the 14th is a
+Roofwalker at Level 9 taken at Level 4, worth more than the eleven before it put
+together. HP 220 to 255, STR 15, DEX 20, CON 11, SIX unspent points banked and
+untouched. MP back to 60 overnight after the drum. Dagger Mastery still D and
+still useless, because he is still killing with an eighteen inch wedge iron.
+The system work of the chapter is not his sheet, it is other people's: Ylva goes
+7 to 8 in front of him, and he stands through eleven minutes of killing watching
+his own counter refuse to move.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -471,6 +497,47 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Four days was unrealistic and the story says so out loud ===
+The author caught it: two days east and two days back only works if a lord's man
+mounts up the hour Rulf arrives, and no administration in any world does that.
+Rather than quietly retconning ch14, Gaara corrects himself on the page in ch17,
+because he is exactly the man who would: nineteen years of watching decisions
+not get made. Four days is the floor and nothing happens at the floor. A lord's
+man keeps a ledger, a superior and an appetite for not being blamed.
+New working clock: two weeks, possibly three, offered as a guess.
+The gain is structural. Four days is a chapter of running. Two weeks is a
+fortnight he has to justify spending, which is what produces ch17.
+
+=== Why he goes back into the ruin at all, now that the room is sealed ===
+Also the author's catch, and it was a hole: the reason to go back in was the
+farming, and the farming died with the gate, so the whole ruin had nothing left
+in it. His replacement reason is better than the original: so that a
+seventy-year-old is no longer the only person in the valley who can walk into
+that place and walk out of it. Shutting the gate did not fix that. It moved it
+from under the ground to on top of it.
+That also puts the hunting above ground for the first time, which is where the
+levels are, because the ch6 rule stands: the same animal stops paying. He cannot
+farm his way anywhere. He can only hunt up.
+
+=== Marit stays, and the training costs a leg ===
+Two author decisions and two of mine.
+MARIT STAYS (author). Written as her argument and not his, because the arc is
+about him depending on people without being at their mercy, and leaving his best
+asset behind to run the thing he built is the shape of that.
+NUMBERS ON REQUEST (mine, unanswered fork). Your own if you ask, never somebody
+else's. Torv asks, gets his 6, asks for Bern's and is told to ask Bern. No
+speech attached, per the ch16 rule about not explaining himself.
+A LEG AND NOT A LIFE (mine, unanswered fork). Bern is crippled rather than
+killed, because the book spent a death recently and because the uncomfortable
+version is the one where nobody was careless: he did exactly what he was taught
+and an eight hundred year old wall was the variable. Gaara cannot even say he
+should have listened. A death can be added later; it cannot be taken back.
+And the sting the chapter is built to land: Bern goes down, and forty feet away
+Gaara takes a Level 9 and is paid more for it than for anything since he
+arrived. Both true, four minutes apart, and there is a way of saying them in one
+sentence that makes him a man who bought a level with a leg. He says it himself.
 
 
 === Magic arrives in chapter 16 as an invoice, not as a gift ===
@@ -955,7 +1022,8 @@ nicht diese Zeile von Hand.
 14. Say It in the Road
 15. Two to Four Hard Uses
 16. Something Is Drinking It
-17. A Name for the Knife (planned)
+17. Who Gets the Kill
+18. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1278,6 +1346,30 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   as the dark behind the gate (thread 19), now attached to something he has had
   his hands on for four hours.
 
+- (ch17) OTHER PEOPLE LEVEL, AND HE CAN WATCH IT HAPPEN. Ylva goes 7 to 8 in
+  front of him, mid-street, and does not notice a thing. The panel does it the
+  same way it does it for him: no ceremony, no sound, one number in place of
+  another. He had watched his own move three times and had never once seen
+  anybody else's.
+- (ch17) THE KILL GOES TO THE LAST STROKE AND IS NOT SHARED. Confirmed from his
+  side across ch15 and ch16 (his counter ignores what his crew kills and what
+  the gate kills) and now from theirs: he stands still through eleven minutes of
+  killing and Kills stays at 13, while the villagers who land the blows climb.
+  LOAD-BEARING: teaching people costs him levels, measurably, and he is the only
+  person alive who can see the price. This is the engine of ch17.
+- (ch17) HIS OWN RATE HOLDS AND IT IS GENEROUS UPWARD. One Roofwalker at Level 9,
+  taken at Level 4, is worth more than the eleven kills before it put together:
+  Level 4 to 5, STR 15, DEX 20, CON 11, HP 255, six unspent. Hunting up is the
+  only advancement available to him now that the room is sealed.
+- (ch17) MP IS RENT AND IT IS CHEAP. All 57 points are back by morning, without
+  him doing anything. He told six people in the water that it would come back and
+  he was guessing, and he lets them go on thinking he knew.
+- (ch17) WHO GETS TOLD THEIR NUMBER: whoever asks, and only their own. Torv asks
+  and is told he is a 6. He immediately asks for Bern's and is told to ask Bern.
+  No speech about why. It is a policy visible only in what Gaara does.
+- (ch17) LEVEL PREDICTS AND DOES NOT DECIDE. Hallvard reads as nothing at all and
+  out-walks, out-carries and out-judges the whole crew at seventy.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1426,6 +1518,36 @@ The gate is shut (ch16) - the first arc closes
   who opened a gate, every soul in Oldstep can now answer that honestly, and he
   is the only one who cannot afford to be standing in it.
 
+The city above ground (ch17) - first time anybody from Oldstep goes past the tree line
+- NOBODY HAD EVER BEEN UP THERE. Every soul in Oldstep has been to the edge.
+  Hallvard went into a hole. Gaara came out of a chamber and walked a channel.
+  None of that was the city. The city is STREETS: a paved avenue wide enough for
+  four carts, a root the thickness of a horse through it, doorways standing open
+  at the height of a first floor because the ground floors are under forty feet
+  of leaf, and the aqueduct with the bite out of it crossing the sky ahead.
+- IT HAS ITS OWN ANIMALS and they are nothing to do with the channel.
+  RUBBLE HOUNDS, Level 4 to 5, pack of six, working a gutter. Killable by
+  villagers in fours, which is exactly why he uses them to teach.
+  ROOFWALKER, Level 9. Comes down out of a first-floor doorway the way a cat
+  comes off a shelf, long and grey, and had been watching them for part of an
+  hour. This is the highest thing anybody in this book has seen.
+- THE CITY ITSELF IS THE HAZARD. Bern does exactly what he was taught, sets his
+  back to a wall so the thing can only come from one side, and the wall is eight
+  hundred years old and holding a lintel up with a root through it. It comes
+  down on his leg from the knee. The leg opens along the shin and the bone does
+  what it should not. He keeps the leg for now. Nobody was careless.
+
+The clock, corrected (ch17)
+- FOUR DAYS WAS THE FLOOR AND NOTHING HAPPENS AT THE FLOOR. Two days east and
+  two back is walking time, and Gaara handed it over at midnight because it was
+  the only honest number he had. Then he slept and remembered what such men are
+  actually like: a lord's man keeps a ledger, a superior and an enormous
+  appetite for not being blamed. He writes it down and waits to see whether it
+  goes away.
+- SO: TWO WEEKS, POSSIBLY THREE, offered explicitly as a guess and not a fact.
+  That is the working clock from ch17 on. And it changes what he does with it:
+  four days he could have run from, two weeks he has to spend on something.
+
 Coming of age (ch15, from Marit)
 - SIXTEEN IS A MAN HERE. "Takes a man's work and a man's share and a man's
   beating if he earns one." There is no adolescence in this village; there is
@@ -1569,7 +1691,12 @@ NO PANEL), Solva (Level 3), plus Nebenfiguren. Details, Level und Zitate: cast.m
 Numbered for reference, not ranked. Numbers are never reused and never shuffled.
 
 1. The system can write into his head. Filed in ch3, still not opened.
-2. Everyone has levels. Is anyone else aware of theirs?
+2. HALF ANSWERED, ch15 and ch17. Nobody is aware of their own, and the only
+   instrument in the valley is Gaara. Ylva was told hers in ch15 because he owed
+   it to her, and Torv is told his in ch17 because he asks. The policy he settles
+   on without announcing it: your own on request, never somebody else's.
+   Still open: what happens to a village that finds out it can be measured, and
+   what the first man who wants to be higher than his neighbour does about it.
 3. What broke the city, and is it still there.
 4. Why the crawlers started leaving in spring. LARGELY ANSWERED across ch8 and
    ch9, and the answer is worse than the question: they are running down a road
@@ -1586,7 +1713,18 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
 8. The 11 coins and the script he cannot read. Translation covers speech;
    reading is untested.
 9. Naming his weapons. Blacky is dead; the rusted knife is still unnamed.
-10. Hallvard has no panel. Gaara has not asked anyone about it directly.
+10. HE STOPS ASKING, ch17, and that is the move. He asked in ch13 with the
+    flagstone up, made him say it twice on "liars decorate", got the same telling
+    both times, and it was not an answer: a line cut in a floor, more crossings
+    of it than anything alive, I never made anything of it.
+    So in ch17 he says it out loud, "I am not asking you again", and puts the
+    drum from ch16 next to it instead: a machine that takes something out of a
+    man while he turns it, invisible to everybody who is not Gaara, and
+    thirty-one years of one old man walking across a cut line.
+    HALLVARD DOES NOT TELL HIM IT IS NOTHING. He is asked for exactly that, in as
+    many words, and does not give it. He picks up his corner of the door and goes
+    down the hill. NOT CONFIRMED, deliberately. This is the strongest the
+    connection gets until something proves it.
 11. He plans for one body on the field, and it is his own. In ch6 he let the big
     one through into twelve feet of road he had checked and found empty, and it
     was empty of everyone except the people who live there. Osvald died in it.
@@ -1672,6 +1810,16 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     no way of knowing it. Six people in Oldstep are now down something they
     cannot name, on Gaara's word that it comes back. He believes it comes back
     because his own did. That is one data point and he knows it.
+
+31. WHAT ELSE LIVES IN THE CITY, and how high it goes. A 9 was standing in a
+    doorway on the first morning anybody looked. Nothing in Oldstep has ever been
+    up there, so there is no local knowledge to draw on at all, and Hallvard's
+    thirty-one years of experience stop at the tree line.
+32. TEACHING COSTS HIM ADVANCEMENT AND HE CAN SEE THE INVOICE. Every kill he
+    hands over is one that does not go on his account, and he knows what each
+    would have been worth. He does it anyway and complains throughout. Watch this
+    when the pressure rises: the moment he needs a level badly, the cheapest
+    place to get one is to stop teaching.
 
 === 7. LONG GAME (author's intent, not yet canon) ===
 

@@ -48,6 +48,11 @@ that afternoon. The chapter ends on him going to do it.
 Stage 4, Chapters 14 to 21: Building something with people in it.
 The Oldstep problem is not solvable alone. He ends up organising: a watch, a route, a way to fight crawlers that ordinary villagers can execute. This is his old competence used well for the first time in his life, and it is the first thing he builds that does not depend on him being present.
 Milestone: something he set up works while he is not there.
+  UNDER WAY, ch17. He stays instead of leaving and spends the time training the
+  crew in the city, on the stated grounds that a shut gate does not fix a valley
+  with exactly one person in it who can go into a ruin, and that person is
+  seventy. Marit stays behind to lead them when he goes, and it is her argument,
+  not his. The milestone itself is not paid until it works in his absence.
 Counter-pressure: someone fails him, badly, and the old rule gets its best evidence in years.
 
 Stage 5, Chapters 22 to 31: Politics again, with swords.
@@ -168,6 +173,15 @@ in sixteen chapters: 60 to 3 over four hours on the windlass bar, taken, not
 spent, and unfelt. It regenerates two points during one speech. Afterwards the
 mark on the drum returns ??? and Drawn: 57 and nothing else. HP 196/220 at the
 start of the chapter, from the ribs in ch15.
+
+Chapter 17: LEVEL 5, and it costs one kill. Kills 13 to 14, and the 14th is a
+Roofwalker at Level 9 taken at Level 4, worth more than the eleven before it put
+together. HP 220 to 255, STR 15, DEX 20, CON 11, SIX unspent points banked and
+untouched. MP back to 60 overnight after the drum. Dagger Mastery still D and
+still useless, because he is still killing with an eighteen inch wedge iron.
+The system work of the chapter is not his sheet, it is other people's: Ylva goes
+7 to 8 in front of him, and he stands through eleven minutes of killing watching
+his own counter refuse to move.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
