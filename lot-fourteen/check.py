@@ -7,6 +7,7 @@ Aufruf:  python3 check.py                   prueft alle aktuellen Kapitel
          python3 check.py --baseline         schreibt die Basislinie neu
          python3 check.py --ratchet          Rueckgabewert 1 nur bei Verschlechterung
          python3 check.py --sync-state       zieht die Kapitelliste in doc/ nach
+         python3 check.py --echoes           woertliche Wiederholungen ueber Kapitel
 
 Die Sperrklinke: Der Stilrueckstand aus alten Kapiteln soll nicht jeden Lauf
 rot faerben, denn eine Warnung, die immer feuert, liest niemand mehr. Mit
@@ -26,6 +27,11 @@ import datetime
 import collections
 
 NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
+
+# Ein Satz fuer die Wiederholungssuche. Bewusst grob: er bricht an
+# Anfuehrungszeichen und Zeilenenden, damit ein Beat zwischen zwei
+# Redebloecken einzeln gezaehlt wird und nicht mit der Rede verklebt.
+SENT = re.compile(r'[^.!?"\n]{16,}?[.!?]')
 
 # Tag 1 ist Samstag, der 4. Oktober
 DAY1 = datetime.date(2025, 10, 4)
@@ -509,6 +515,58 @@ def read_baseline(root):
     return out
 
 
+def echo_report(best):
+    """Woertliche Wiederholungen ueber Kapitelgrenzen.
+
+    Der Doppel-Check in check() sieht nur INNERHALB eines Kapitels. Genau
+    daran ist am 23.08. eine ganze Klasse vorbeigelaufen: "In the way that
+    counts, yes" stand identisch in 30 und in 32, und ein Leser hat die
+    dritte Kim-Verhandlung als 1:1-Wiederholung der beiden davor gelesen.
+
+    Und der eingebaute Deckel hat nicht geholfen, sondern getarnt:
+    "would rather" ist auf EINS PRO KAPITEL begrenzt und stand deshalb
+    ungestraft in zwoelf Kapiteln, davon fuenf fast hintereinander.
+
+    Laeuft nicht bei jedem Aufruf. Die Beat-Liste ist lang, und eine
+    Warnung, die immer feuert, liest niemand. Aufruf: check.py --echoes
+    """
+    idx = collections.defaultdict(list)
+    for k in sorted(best):
+        t = open(best[k][1], encoding="utf-8").read()
+        t = re.sub(r"^#.*$", "", t, flags=re.M)
+        t = re.sub(r"^\*Lot Fourteen.*$", "", t, flags=re.M)
+        for s in re.findall(SENT, t):
+            s = s.strip()
+            if len(s.split()) >= 5:
+                idx[s].append(k)
+
+    saetze, beats = [], []
+    for s, ks in idx.items():
+        u = sorted(set(ks))
+        if len(u) > 1:
+            (saetze if len(s.split()) >= 8 else beats).append((len(u), u, s))
+
+    print("Woertlich gleiche SAETZE in mehreren Kapiteln (ab acht Woertern):")
+    for _, u, s in sorted(saetze, reverse=True) or [(0, [], None)]:
+        print(f"  {u}  {s[:74]}" if s else "  keine")
+
+    print()
+    print("Wiederverwendete BEATS (unter acht Woertern), ab drei Kapiteln:")
+    for n, u, s in sorted(beats, reverse=True):
+        if n >= 3:
+            print(f"  {n}x {u}  {s}")
+
+    print()
+    print("Wendungen, die pro Kapitel gedeckelt sind und darum quer laufen:")
+    for muster in ("would rather", "not going to", "in the way that counts"):
+        tr = []
+        for k in sorted(best):
+            n = len(re.findall(muster, open(best[k][1], encoding="utf-8").read()))
+            if n:
+                tr.append(f"{k}({n})" if n > 1 else str(k))
+        print(f'  "{muster}": {len(tr)} Kapitel - {", ".join(tr)}')
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
@@ -526,6 +584,10 @@ def main():
         k, v = int(m.group(1)), (int(m.group(2)), int(m.group(3)))
         if k not in best or v > best[k][0]:
             best[k] = (v, p)
+
+    if "--echoes" in flags:
+        echo_report(best)
+        return 0
 
     files = args or [p for _, p in sorted(best.values(), key=lambda x: x[1])]
 

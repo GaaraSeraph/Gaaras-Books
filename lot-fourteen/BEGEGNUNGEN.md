@@ -757,7 +757,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | ch31:364 | Chairman Woo was quiet for long enough that Georgij checked the line. |
 | 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
 | 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
-| - | ch32:100 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
+| - | ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -829,7 +829,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:336` (Tag 5) - eleven, twenty-two
 - `ch31:366` (Tag 5) - nine
 - `ch31:384` (Tag 5) - one
-- `ch32:100` (Tag ?) - four, two
+- `ch32:98` (Tag ?) - four, two
 
 ---
 
@@ -1166,13 +1166,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
 | - | ch32:34 | Kim Ye-rin sat on the long side, third chair from the window, facing the door. |
-| - | ch32:86 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
-| - | ch32:156 | Then every person at that table turned and looked at Kim Ye-rin. |
-| - | ch32:178 | "You did not tell me," said Kim Ye-rin. |
-| - | ch32:182 | "It was twice, Ye-rin. In Busan and then in a hotel in Daejeon. It was not something I w.. |
-| - | ch32:214 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
-| - | ch32:260 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
-| - | ch32:282 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
+| - | ch32:84 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
+| - | ch32:154 | Then every person at that table turned and looked at Kim Ye-rin. |
+| - | ch32:176 | "You did not tell me," said Kim Ye-rin. |
+| - | ch32:180 | "It was twice, Ye-rin. In Busan and then in a hotel in Daejeon. It was not something I w.. |
+| - | ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
+| - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
+| - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
@@ -1191,10 +1191,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:140` (Tag 74) - two
 - `ch31:220` (Tag 74) - six
 - `ch31:326` (Tag 5) - one, six
-- `ch32:86` (Tag ?) - eleven, forty-one, one, six
-- `ch32:214` (Tag ?) - eleven, four
-- `ch32:260` (Tag ?) - twenty
-- `ch32:282` (Tag ?) - one
+- `ch32:84` (Tag ?) - eleven, forty-one, one, six
+- `ch32:212` (Tag ?) - eleven, four
+- `ch32:258` (Tag ?) - twenty
+- `ch32:280` (Tag ?) - one
 
 ---
 
@@ -1285,13 +1285,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
 | 74 | ch31:176 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
 | - | ch32:22 | The other was Kim Do-yun, in a good coat again, who had arrived eleven minutes early and.. |
-| - | ch32:134 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
-| - | ch32:162 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
-| - | ch32:210 | Then Do-yun. |
-| - | ch32:222 | Kim Do-yun came over to Georgij at the door while the others were standing about the way.. |
-| - | ch32:228 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
-| - | ch32:238 | Do-yun did something with his mouth that was almost a smile again. |
-| - | ch32:244 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
+| - | ch32:132 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
+| - | ch32:160 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
+| - | ch32:208 | Then Do-yun. |
+| - | ch32:220 | Kim Do-yun came over to Georgij at the door while the others were standing about the way.. |
+| - | ch32:226 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
+| - | ch32:236 | Do-yun did something with his mouth that was almost a smile again. |
+| - | ch32:242 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
@@ -1303,8 +1303,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch30:342` (Tag 74) - four
 - `ch31:12` (Tag 74) - one
 - `ch32:22` (Tag ?) - eleven
-- `ch32:162` (Tag ?) - one, six, twenty-nine
-- `ch32:244` (Tag ?) - two
+- `ch32:160` (Tag ?) - one, six, twenty-nine
+- `ch32:242` (Tag ?) - two
 
 ---
 
@@ -1453,7 +1453,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch24:346 | Mr Ku had the heater on. |
 | 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
 | - | ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | ch32:256 | Mr Ku had the car turned round already. |
+| - | ch32:254 | Mr Ku had the car turned round already. |
 
 ### Zahlen in der Naehe von Mr Ku
 

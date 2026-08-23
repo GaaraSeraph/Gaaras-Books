@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-32 Kapitel. 93.438 Woerter.
+32 Kapitel. 93.449 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -38,9 +38,9 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 27 | v3.1 | 3.107 |
 | 28 | v1.1 | 2.687 |
 | 29 | v1.2 | 2.007 |
-| 30 | v1.5 | 3.517 |
-| 31 | v1.2 | 3.253 |
-| 32 | v1.0 | 2.585 |
+| 30 | v1.6 | 3.529 |
+| 31 | v1.4 | 3.254 |
+| 32 | v1.1 | 2.583 |
 
 ---
 
@@ -9092,7 +9092,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9436,7 +9436,7 @@ Georgij stood very still for a second.
 
 He did not look away from her.
 
-"Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a Kim, and he works for a man whose position depends on your family staying where it is." He turned his hand over. "The day your block is written down and directed, his employer has lost. He will be at your brother's door inside a fortnight offering to be useful."
+"Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a Kim, and he works for a man whose position depends on your family staying where it is." Her driver put his headlights on at the end of the drive and took them off again. "The day your block is written down and directed, his employer has lost. He will be at your brother's door inside a fortnight offering to be useful."
 
 ---
 
@@ -9527,7 +9527,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9691,7 +9691,7 @@ Annie put two fingers on the arm of the chair and left them there.
 
 "That will cost us in two years."
 
-"It will cost us in two years either way, and this way she heard it from me first." Georgij turned his hand over. "She is going to be in rooms with us for fifteen of them. I would rather every one of those rooms started from the same place as tonight."
+"It will cost us in two years either way, and this way she heard it from me first," said Georgij. "She is going to be in rooms with us for fifteen of them. I want every one of those rooms to start where this one started."
 
 Annie did not argue with it, which from her is not agreement and is not nothing.
 
@@ -9819,7 +9819,7 @@ Then she sat back very slowly, all the way back, and looked at him the way she h
 
 ---
 
-Neither of them said anything for a while.
+Somewhere in the house a door was closed by somebody being quiet about it.
 
 "You are aware," said Annie, "that you have just done to me the thing I sent you out to do to somebody else."
 
@@ -9914,7 +9914,7 @@ Chairman Woo was quiet for long enough that Georgij checked the line.
 ---
 
 # Chapter 32: In those words
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Eighty · Monday 22 December
 
@@ -9974,8 +9974,6 @@ He looked at the second cousin and not at Sung-ho, because the second cousin was
 
 ---
 
-Nobody said anything for a moment.
-
 The legal pad cousin wrote something on the legal pad for the first time in two meetings.
 
 "Say what control means," said Sung-ho.
@@ -9988,11 +9986,11 @@ The second cousin moved in his chair.
 
 "So we work for her."
 
-"In the way that counts, yes."
+"Yes."
 
-"You could have found a better word for that."
+"That is all you are going to say about it?"
 
-"I could have found four," said Georgij, "and you would have unlearned all of them by March, and then you would remember that I was the man who dressed it. I would rather be the man who did not."
+"There is nothing else in it," said Georgij. "You could have four sentences from me that make it sound smaller, and you would unlearn every one of them by March. Then you would remember that I was the man who dressed it, and you would be right."
 
 ---
 
