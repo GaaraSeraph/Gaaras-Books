@@ -3,6 +3,23 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== A kiss, specified as a procedure ===
+Four rungs and then a rule: closed lips, a little more, more again, and the tip
+of the tongue on the fourth. After that it climbs and never climbs by much,
+always a shade less than has just been asked for, and never too much tongue at
+any heat whatsoever.
+THIS IS THE SAME MAN AS THE FOUR WORDS AND THE PAYING ATTENTION. He reads what
+the other person just did and answers it with slightly less. He never leads by
+more than a step. Three separate instructions from the author have now turned
+out to be one instruction, which is a good sign that the character is real.
+PLACED IN TWO SCENES AND DELIBERATELY NOT THE SAME WAY, because scene
+repetition is now a checked failure. ch13 gets the ladder, since it is the first
+kiss in the book. ch20 gets the inversion: Sivert has rehearsed it for six days,
+gets the speed wrong, and Gaara takes it off him and restarts at rung one
+without saying a word about it, which also tells you who is running that room
+before Sivert takes it back later.
+
+
 === One more preference, and it has nowhere to go yet ===
 Author: with a woman he has slept with before, unhurried, he asks her to sit on
 his face. Three conditions and all three matter: a repeat, unhurried, and asked

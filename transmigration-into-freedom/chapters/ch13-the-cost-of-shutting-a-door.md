@@ -188,6 +188,14 @@ The arm was the first problem and it was not a small one. She had barbs across t
 
 She let him.
 
+He kissed her first, and she had a shape in her head for how that would go, and it was not that shape.
+
+The first one was closed lips and nothing else, and it did not last long. The second was less careful than the first, and not by very much. By the third she had come up off the pillow to meet it, which he noted with enormous satisfaction and did not act on. The fourth had the tip of his tongue in it for about a second, and then did not.
+
+After that it went up. It kept going up all night and it never once went up by more than she had already come forward to take. That was the method entire, and there was nothing else in it. Give her a shade less than she has just asked for, and make her ask again.
+
+It got wild later on. It never got wet. He had views about that which he kept to himself.
+
 He had spent three days being handed information about this world in writing. None of it had covered anything he wanted to know now. There was no number over any of this and no window that would open on it, and the only way to have it was to work it out from scratch.
 
 So he worked it out. The inside of her wrist, above where the strapping started. The base of her throat. The place behind her ear where her jaw met her neck, which shut her good hand hard in the blanket. The back of her knee, which surprised her a great deal more than it surprised him.

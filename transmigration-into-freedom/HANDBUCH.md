@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 33.468 Woerter.
+Alle 4 Dokumente am Stueck. 33.908 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,23 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== A kiss, specified as a procedure ===
+Four rungs and then a rule: closed lips, a little more, more again, and the tip
+of the tongue on the fourth. After that it climbs and never climbs by much,
+always a shade less than has just been asked for, and never too much tongue at
+any heat whatsoever.
+THIS IS THE SAME MAN AS THE FOUR WORDS AND THE PAYING ATTENTION. He reads what
+the other person just did and answers it with slightly less. He never leads by
+more than a step. Three separate instructions from the author have now turned
+out to be one instruction, which is a good sign that the character is real.
+PLACED IN TWO SCENES AND DELIBERATELY NOT THE SAME WAY, because scene
+repetition is now a checked failure. ch13 gets the ladder, since it is the first
+kiss in the book. ch20 gets the inversion: Sivert has rehearsed it for six days,
+gets the speed wrong, and Gaara takes it off him and restarts at rung one
+without saying a word about it, which also tells you who is running that room
+before Sivert takes it back later.
 
 
 === One more preference, and it has nowhere to go yet ===
@@ -1534,6 +1551,24 @@ is not guesswork, because a person in the dark cannot help answering.
   sound, and he says so and behaves so. That is the load-bearing sentence in
   every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER
   PERSON MAKES. He also specifically likes what a throat does around him.
+- HOW HE KISSES, AND IT IS A PROCEDURE. Especially a first kiss, and it is the
+  clearest statement of the whole character in the book, so get it right.
+    1  Lips only. Closed. Short.
+    2  Less hesitant, a little more lip. Not much more.
+    3  More again. By now they are coming forward to meet it.
+    4  The tip of the tongue, and only the tip, and only briefly.
+  From there it climbs, AND IT NEVER CLIMBS BY MUCH. The rule is one line: give
+  them a shade less than they have just asked for, so that they have to ask
+  again. He is not building towards anything. He is keeping them wanting.
+  HARD RULE, NO EXCEPTIONS: however wild it gets, NEVER TOO MUCH TONGUE. There
+  is no point in any scene, at any level of heat, where that changes.
+  WHY IT IS THE CHARACTER AND NOT A TECHNIQUE: it is the four words again, and
+  the paying-attention again. He reads what the other person has just done and
+  answers it with slightly less. He never once leads by more than one step.
+  ON THE PAGE: ch13 has the ladder itself, being the first kiss in the book.
+  ch20 has the INVERSION, which is how it stays out of the way of ch13 - Sivert
+  arrives at the top of the ladder after six days of rehearsing it wrong, and
+  Gaara takes it off him and puts it back at step one without comment.
 - WITH A WOMAN HE HAS BEEN WITH BEFORE, AND WHEN THERE IS TIME, HE ASKS HER TO
   SIT ON HIS FACE. Note the three conditions and do not lose any of them: not
   the first time with that person, not a hurried one, and HE ASKS. It is a
