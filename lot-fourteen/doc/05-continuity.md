@@ -175,6 +175,10 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 213, Mo 4. Mai: **das leere Haus am Fluss.** Georgij nimmt Hwangs Regel
   auseinander und bekommt den Namen des Vorgaengers, der die vier Gebuehren
   genommen hat (Band 2, Kapitel 21)
+- Tag 215, Mi 6. Mai: **Mr Byun in Seongdong.** Er kann sich nicht erinnern,
+  welche vier. Georgij bietet ihm nichts an und nimmt trotzdem, was er hergibt:
+  **die vierte Gebuehr kam vom Eigentuemer persoenlich, aus der eigenen Tasche**
+  (Band 2, Kapitel 22)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1177,6 +1181,36 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Zum Schluss die letzte wahre Sache, die Georgij noch hat:** *"You are going to be given work by somebody eventually and it is going to be beneath you, and you are going to take it, and you will do it properly because you cannot do anything the other way."* - *"Is that supposed to be a kindness."* - **"No. It is the last true thing I have got and I have run out of the other kind."**
 
   **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
+
+- **Band 2, Kapitel 22** *I did not offer you anything* (v1.0) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
+
+  **Mr Byun**, achtundsechzig, hat das Register des Hauses **sechsundzwanzig Jahre** gefuehrt und ist im November gegangen, weil er nicht fuer Leute arbeiten wollte, die ihn fragen, was er den ganzen Tag macht. **Erster Auftritt und einziger.**
+
+  **Er ist der Erste in diesem Band, der genau das ist, wonach er aussieht.** Keine Hand, kein Kategorienfehler, keine Tragik. Er hat das Geld genommen, er wusste es, und es hat ihn nie beschaeftigt. **Er freut sich ueber Besuch und erzaehlt in den ersten zwei Minuten von den vierzig Prozent Aufschlag fuer die Aussicht.**
+
+  **Und der Augenblick, den Georgij nicht wieder hinlegt:** auf den Vorwurf hin ist er weder erschrocken noch wuetend. **Er versucht sich zu erinnern, welche vier.**
+
+  **Seine Verteidigung ist die gewoehnliche und er bringt sie ohne jede Abwehr:** das Haus hat das verkauft, bevor er in dem Stuhl sass, der Mann vor ihm hat es getan und der davor auch, *"and it is the only thing that house had to sell that nobody could get anywhere else."* Dazu: **"Nobody was hurt."**
+
+  **Was Georgij ihm entgegenhaelt, ist Nam**, in vier Saetzen. Byuns Antwort: *"That is very unfortunate. I do not know her."* - **"No. She does not know you either."**
+
+  **Und dann keine Drohung, sondern eine Ankuendigung:** die vier Kaeufer werden informiert. Mit Namen, mit Betrag, mit Datum, und dass der Eintrag noch da ist. *"What any of them does after that is theirs and not mine."*
+
+  **Die Rueckerstattung wird angeboten und aendert nichts.** *"They are still going to be told."* Und dann faellt er zusammen, sehr schnell, aus einem einzigen Grund: **Mrs Sunwoo kennt jeden.**
+
+  **Der Kern der Szene ist, dass Georgij nichts anbietet und es vorher sagt.** *"I am not trading with you and I want that said before you say another word, because if you say it thinking that you are buying something you are going to be angry with yourself tomorrow."* **Byun sagt es trotzdem.**
+
+  **Und was er sagt, ist der bisher schwerste Fund des Bandes.** Drei sind zu ihm gekommen. **Beim vierten wurde er vom Eigentuemer persoenlich instruiert**, im Stehen, unter einer Minute: kein Rechnungsbeleg fuer das Los, eintragen und im Fruehjahr wieder herausnehmen, **und nichts darueber schreiben, wer es hatte.**
+
+  **Und der Teil, den Byun in sechsundzwanzig Jahren nicht verstanden hat:** *"He said the fee had been paid and I was to put it through the book as though it had come to me."* Das Geld kam aus der eigenen Tasche des Eigentuemers, in einem fertig gemachten Umschlag. **"That is the only time in twenty-six years that anybody has ever given me money so that the money would be in the right place."**
+
+  **Er hat eine Zeile aufgeschrieben und vier Jahre nicht angesehen**, weil erschrockene Maenner dieser Art genau das tun, und Georgij sagt ihm auf den Kopf zu, dass es sie gibt. **Ein Datum und vier Woerter darueber, woher die Anweisung kam.**
+
+  **Und dann der Satz, um den das Kapitel gebaut ist:** *"You have got what you came for."* - **"I did not come for that. I did not know it existed until twenty minutes ago and I did not ask you for it. You offered it to me because you thought you were buying something. I told you before you opened your mouth that you were not, and you did it anyway."**
+
+  **Byuns Urteil und Georgijs Antwort darauf setzen die drei Raeume nebeneinander:** *"Then you are a very cruel young man."* - **"No. I have been in three rooms in the last three weeks and in two of them that would have been true. In this one it is not, and you have not got the first idea why."**
+
+  **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
 
 ---
 

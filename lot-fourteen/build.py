@@ -192,6 +192,7 @@ FIGURES = {
     "Mr Kwon": [r"Mr Kwon", r"Kwon"],
     "Mr Ok": [r"Mr Ok"],
     "Mrs Uhm": [r"Mrs Uhm"],
+    "Mr Byun": [r"Mr Byun", r"Byun"],
     "Mrs Ryu": [r"\bRyu\b"],
     "Chef Bang": [r"\bBang\b"],
 }

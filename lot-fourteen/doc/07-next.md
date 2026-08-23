@@ -737,7 +737,26 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **DER VORGAENGER. Neu und offen, gesetzt in Band 2, Kapitel 21.** Name,
+- **DER EIGENTUEMER DES HAUSES VOR DEM FONDS. Neu, offen, hoechste Prioritaet,
+  gesetzt in Band 2, Kapitel 22.** Er hat Mr Byun persoenlich instruiert, den
+  vierten Eintrag ohne Rechnung eintragen und im Fruehjahr herausnehmen zu
+  lassen - **und hat die Gebuehr aus der eigenen Tasche bezahlt, damit sie im
+  Buch an der richtigen Stelle steht.**
+
+  **Das ist kein Gefallen und kein Geschaeft. Das ist Tarnung**, und sie wurde
+  vom Eigentuemer eines Auktionshauses fuer einen Mann gebaut, dem er nichts in
+  Rechnung stellen konnte. **Der Fonds hat dieses Haus im Winter von ihm
+  gekauft.**
+
+  Georgij hat dazu **ein Datum und vier Woerter** in Byuns Handschrift, aus
+  einem Taschenkalender, vier Jahre nicht angesehen.
+
+- **Die vier Kaeufer muessen tatsaechlich informiert werden.** Zugesagt in
+  Kapitel 22, mit Namen, Betrag und Datum. **Annie ist zwei davon**, was eine
+  eigene kleine Frage aufwirft. Und Mrs Sunwoo ist die dritte, und was sie damit
+  tut, ist ihre Sache - **das ist der ganze Grund, warum es Byun trifft.**
+
+- **DER VORGAENGER: ERLEDIGT in Band 2, Kapitel 22.** Der Eintrag hier lautete: Name,
   Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
   Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
   verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
