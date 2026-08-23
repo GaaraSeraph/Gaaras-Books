@@ -1350,12 +1350,35 @@ KEEPS, which is the one administrative habit that survived.
 
   THE TOUCH. The smiths. A touch is the stamp a smith puts on his own work, and
   the guild holds the register of touches. Ordulf has one.
-  THIS PUTS A LEGAL WALL THROUGH THE METAL PLAN, which is a gift. Ylva working
-  city iron in Oldstep is a village woman at a village forge and nobody's
-  business. Selling worked goods into the Wold is another matter entirely. She
-  has no touch, she is not registered, and the smiths will have a view. Their
-  arrangement from ch19 has an obstacle in it that neither of them has thought
-  about.
+  NO LEGAL WALL. CORRECTED BY THE AUTHOR AND HE IS RIGHT. A village forge is not
+  in the town and the guild does not reach it, and country work has always come
+  in to market. Ylva can make and Ylva can sell.
+  THE OBSTACLE IS REPUTATION, WHICH IS BETTER, because it is the only kind of
+  obstacle Gaara can actually move. Her work fetches less because a buyer
+  assumes a village smith is a village smith: no touch on it, no master behind
+  it, so expect it to be soft, and pay accordingly.
+  AND THE ASSUMPTION IS WRONG AND PROVABLY SO. Her stock is eight hundred years
+  of city iron and it is better than anything in the Wold, which has not seen
+  good material in ten years (ch19). So the market is mispricing her, and
+  correcting a mispricing in public is the thing he has done for a living.
+  NOTE THE SHAPE, because it is the same shape twice: THE TOUCH GRADES BY
+  ASSUMPTION AND CANNOT SEE THE METAL, exactly as the Roll grades by judgement
+  and cannot see levels. Both institutions run on guessing, and in both his
+  advantage is that he does not have to guess.
+  SO SHE GETS INTO THE TOUCH. That is the goal, not the barrier.
+  - THE WAY IN IS ORDULF, and it is already on the page. He is in the Touch, he
+    is not a good man and a very good smith, and he will take stock over coin
+    and hate himself for it (ch19). The metal buys the vouching and the vouching
+    legitimises the metal. Neither half works alone.
+  - DO NOT INVENT A BARRIER ABOUT HER BEING A WOMAN. This world does not have
+    one anywhere else: Marit is the highest level in Oldstep, Aldis was elder
+    before Hallvard, Solva is the medical authority, and Ylva stood on a bar in
+    ch14 with everybody else. The barriers are outsider, no apprenticeship
+    served here, and nobody to speak for her.
+  - HER OWN TOUCH IS THE SCENE. A touch is personal and does not pass from a
+    dead husband, so Rulf's is not hers and she has to choose one. IT WOULD BE
+    THE FIRST THING IN THIS BOOK SHE OWNS THAT DID NOT COME FROM HIM. Do not
+    let Gaara suggest it.
 
   THE LODGE. THE STONEMASONS, and this is the one that matters most and is the
   thesis of the book standing in a doorway. A lodge is the hut on a building

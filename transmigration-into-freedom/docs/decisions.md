@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Ylva has no legal problem, she has a pricing problem ===
+Author overruled my legal wall and was right about the history. Guild monopoly
+bound practice INSIDE the town; a village forge was out of reach and country
+work came in to market as a matter of course. Ylva can make and sell.
+THE OBSTACLE IS REPUTATION INSTEAD, AND THAT IS A BETTER OBSTACLE, because it is
+the only kind Gaara can move. A legal wall needs a lawyer. A wrong belief about
+quality needs a man who manages what people think, which is the job he had.
+AND THE BELIEF IS WRONG AND PROVABLY SO: her stock is city iron and better than
+anything in a town that has not seen good material in ten years. The market is
+mispricing her. Correcting a mispricing in public is his entire skill set.
+SAME SHAPE AS THE ROLL, and that is worth keeping: the Touch grades by
+assumption and cannot see the metal, the Roll grades by judgement and cannot see
+levels. Both run on guessing and he never has to guess.
+SO GETTING HER INTO THE TOUCH IS A GOAL, NOT A WALL, and the way in was already
+written: Ordulf is in the guild and wants stock over coin. The metal buys the
+vouching and the vouching legitimises the metal.
+TWO GUARDRAILS. No invented barrier about her being a woman: this world has none
+anywhere else and inventing one would contradict Marit, Aldis and Solva. And her
+touch is hers to choose, because a touch is personal and does not pass from a
+dead husband, which makes it the first thing she owns that did not come from
+Rulf. Gaara does not get to suggest it.
+
+
 === Stonemasons, not butchers, and Hades is a company after all ===
 Three author corrections.
 METZ IS STEINMETZ. Stonemasons, and it is far better than butchers, because THE
