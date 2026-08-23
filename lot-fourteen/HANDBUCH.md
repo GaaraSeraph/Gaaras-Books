@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 91.804 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 93.243 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -130,9 +130,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Shin](#shin)
   - [Mr Ku](#mr-ku)
   - [Mr Pyo](#mr-pyo)
+  - [Mrs Jeon](#mrs-jeon)
   - [Bae](#bae)
   - [Mr Baek](#mr-baek)
-  - [Mrs Jeon](#mrs-jeon)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
@@ -143,6 +143,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Ahn](#mrs-ahn)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Tae-min](#tae-min)
+  - [Mr Hwang](#mr-hwang)
   - [Mr Im](#mr-im)
   - [Mrs Ryu](#mrs-ryu)
 
@@ -1425,9 +1426,30 @@ ein sauberes nicht, und die alte Streichung wird darin zur dauerhaften Luecke.
 **Koreaner, war lange ausserhalb, weil er dort andere Auftraege hatte und sie
 hervorragend erfuellt hat.** Kein Exilant, keine Kraenkung, kein Motiv - ein Mann
 mit Referenzen. Gegen einen Groll kann man arbeiten, gegen Koennen nicht.
-**Sein Name steht im Text noch nicht**, nur *"a name and a title"* am Fuss der
-Seite, und Georgij hat ihn gelesen. Annie kennt ihn und sagt ihn nicht.
-*Vorschlag, Stand Band 2 Kapitel 1.*
+**Er heisst Mr Hwang, und der Name faellt zum ersten Mal in Band 2, Kapitel 7**,
+aus Mrs Jeons Mund. In Kapitel 1 stand er schon da, *"a name and a title"* in
+sechs Punkt am Fuss der Seite - **Georgij hat den Absatz darueber zweimal
+gelesen und den Namen gar nicht.** Annie kennt ihn und hat ihn nicht gesagt.
+
+**Was Kapitel 7 ueber ihn festlegt, und es kommt von einer Frau, die er
+hinauswirft:** Er war als junger Mann in dem Haus, ging acht Jahre lang an
+andere Haeuser und kam im Herbst zurueck. Er nimmt nichts, hat keinen
+Guenstling, und ist **der ehrlichste Mensch, fuer den Mrs Jeon je gearbeitet
+hat.** Er hat den Katalog aufgeraeumt, weil Aufraeumen richtig ist, und die
+zurueckgehaltenen Eintraege auf einer Seite zusammengefasst, **weil etwas, das
+man nicht finden kann, spaeter schiefgeht.** *"He is not a man who would use
+it. He would not know how. He made it findable because findable is correct."*
+
+**Und der Ansatzpunkt fuer Weg 2 steht ebenfalls dort, aus demselben Mund:**
+*"He keeps everything. Every note, every release, every letter that has ever
+come into this house about anything. He is proud of that too."* Ein Mann, der
+stolz auf seine Aktenfuehrung ist, kann dazu gebracht werden, etwas zu Akte zu
+nehmen.
+
+**Dreimal in dreiundzwanzig Jahren hat dieses Haus ein Los ohne Rechnung gehen
+lassen, und alle drei Freigaben tragen seine Unterschrift.** Die Freigabe nennt
+den, der genehmigt, nicht den, der empfaengt. Georgij hat damit das nahe Ende
+der vierten Zeile und weiter nichts.
 
 **Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
 der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes
@@ -1944,6 +1966,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Eintraege ist nie ueber den Schreibtisch gelaufen. Abends der Preis, Annies
   Absage an den eigenen Namen und Sang-hoons statt dessen. Nachts die
   Gesellschaftskette und der Abbruch (Band 2, Kapitel 6)
+- Tag 166, Mi 18. Maerz: **Nam Byung-hee schreibt am achtzehnten.** Vormittags
+  gibt Mrs Jeon den Rest heraus, **Mr Hwang** bekommt einen Namen. Nachmittags
+  der Brief: eine Stunde, die sechs im Raum, Frist **26. Maerz**, danach
+  schreibt sie **am ersten April** wie immer (Band 2, Kapitel 7)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2467,6 +2493,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was es kostet, sagt Georgij, weil sie es nicht sagen wird:** das dritte, was Sang-hoon erfaehrt, und dass er der Mann sein darf, der es geloest hat. Und **es benutzt den Korridor**, den Sang-hoon einmal angeboten und danach nicht mehr erwaehnt hat. Annies Antwort: *"It is exactly what a man means when he says that. That is why it costs."* Dazu ihre Auflage: *"You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."*
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
+
+- **Band 2, Kapitel 7** *Not the first* (v1.0) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
+
+  **Vormittags zahlt Mrs Jeon.** Sang-hoon hat am Montag um zehn nach acht bei ihr angerufen, vier Minuten, ohne eine einzige Frage - er hatte entschieden, bevor er den Hoerer abnahm.
+
+  **Was sie liefert, ist das nahe Ende und nicht das ferne.** Ein Los verlaesst das Haus ohne Rechnung nur gegen eine **Freigabe**: eine Seite, die sagt, was hinausgeht und wer es genehmigt hat, und die den Empfaenger nicht nennt, weil der Empfaenger das ist, wofuer die Rechnung da waere. **Dreimal in dreiundzwanzig Jahren, und dreimal dieselbe Unterschrift.**
+
+  **Der Sanierer bekommt seinen Namen: Mr Hwang.** Und Georgij hat ihn schon gehabt - in sechs Punkt am Fuss der Seite in Kapitel 1. *"He had read the four sentences twice, because they were the best thing in that book. He had not read the name at all."*
+
+  **Mrs Jeons Urteil ueber den Mann, der sie hinauswirft, und sie faelscht es nicht:** *"He is the most honest person I have ever worked for."* Er hat den Katalog aufgeraeumt, weil Aufraeumen richtig ist. Die Rueckseite ist auch seine: *"He made it findable because findable is correct."* **Und damit steht der schlimmste Satz des Monats im Korridor:** ein Mann kommt in ein Haus zurueck, macht fuenf Monate lang seine Arbeit besser als je jemand in dem Gebaeude, und baut dabei das, was jetzt auf Annie zeigt. *"There is no fault anywhere in that sentence."*
+
+  **Und der Ansatzpunkt fuer Weg 2 faellt geschenkt mit ab:** *"He keeps everything. ... He is proud of that too."*
+
+  **Nachmittags der Brief, und das Signal steht im Datum.** Sie schreibt seit zwanzig Jahren am Ersten. Sie schreibt am **achtzehnten**, und Georgij liest das Datum, bevor er ein einziges anderes Wort liest. *"I am writing to you on the eighteenth because I no longer have a first to wait for."*
+
+  **Der Brief ist keine Erpressung, und das ist das Schlimmere.** Sie nennt, was sie hat, was sie nicht tun wird (*"Neither of those puts one container on my lane"*), und was sie will: **eine Stunde, die sechs im Raum, und dass ihnen jemand antwortet. Nicht ihr. Ihnen.** Frist der **26. Maerz**. Und danach: *"If nobody comes, I will write again on the first, as I always do."* Unterschrieben als **Chair** eines Verbands, den nie jemand haben wollte - ihr einziger Titel.
+
+  **Georgijs Befund ueber den Brief ist der Kern der Bandregel:** *"There is not one untrue sentence in it. ... A man who lies leaves you something to catch him at. She has left nothing at all, and she has done it deliberately, and she has done it because she is certain she is right. She is also right."*
+
+  **Dann die Frage, auf die er zum ersten Mal in zwei Baenden nichts hat.** **"Who gave it to her."** - *"I do not know."* Was er ableiten kann: sie hat die **Bedeutung** und nicht nur die Seite, jemand hat sich mit ihr hingesetzt; sie hat ausserhalb dieses Gewerbes nie etwas gehalten; und es kam **in der vierten Woche ihres schlimmsten Quartals**, nicht im Januar und nicht im Juni. *"Somebody chose her, and chose extremely well."*
+
+  **Annie antwortet nicht, und Georgij sagt den Grund, weil sie ihn sagen laesst:** eine Stunde in einem Raum **ist** die Bestaetigung. Auf der Seite steht nirgends, dass das Veto ihres ist. **"So it is the same box as the book."** - *"It is exactly the same box. ... It is the shape of what is being done to you."*
+
+  **Ihr letzter Satz zeigt auf Kapitel 8:** *"Then somebody who is not out of this house is going to have to go to Ulsan"*, gesagt zum Fenster hin, und er antwortet nicht, weil es keine Frage war.
+
+  **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
 ---
 
@@ -3838,6 +3890,18 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
+- **Nams Frist: 26. Maerz.** Gesetzt in Band 2, Kapitel 7. Eine Stunde, die
+  sechs im Raum, jemand antwortet ihnen. Annie antwortet nicht, weil die
+  Antwort die Bestaetigung waere.
+- **Und danach: der 1. April.** *"If nobody comes, I will write again on the
+  first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
+  ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
+  Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **Mrs Jeon geht in acht Wochen aus dem Gebaeude**, gerechnet ab dem
+  16. Maerz, also **Mitte Mai.** Danach ist sie keine Quelle mehr, sondern
+  eine Erinnerung. Was ueber diesen Schreibtisch zu holen ist, muss vorher
+  geholt sein.
+
 **Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
@@ -4862,12 +4926,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 369 | 36 (b1ch01-b2ch06) | 1 | 74 |
+| Annie | 375 | 37 (b1ch01-b2ch07) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 105 | 19 (b1ch10-b2ch06) | 5 | 74 |
 | Jang | 66 | 16 (b1ch05-b2ch05) | 4 | 60 |
-| Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
+| Mrs Seo | 54 | 21 (b1ch03-b2ch07) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -4876,9 +4940,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
-| Mrs Jeon | 6 | 1 (b2ch06) | 5 | 5 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -4889,6 +4953,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Nam Byung-hee | 2 | 1 (b2ch03) | 56 | 56 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
+| Mr Hwang | 1 | 1 (b2ch07) | 7 | 7 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 
@@ -4896,7 +4961,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-369 Nennungen in 36 Kapiteln.
+375 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5269,6 +5334,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:226 | "So no," said Annie. |
 | 5 | b2ch06:252 | "And it uses the corridor," said Annie. |
 | 5 | b2ch06:272 | He did it that evening. It took seven minutes. It cost precisely what he had said it wou.. |
+| 7 | b2ch07:94 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
+| 7 | b2ch07:130 | "Who gave it to her," said Annie. |
+| 7 | b2ch07:160 | "I said something about her on the seventh," said Annie. |
+| 7 | b2ch07:176 | Annie unfolded her arms and put one hand on the back of the chair. |
+| 7 | b2ch07:188 | Annie did not say anything to that, which was the correct thing to do and cost her somet.. |
+| 7 | b2ch07:208 | "So it is the same box as the book," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5360,6 +5431,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:274` (Tag 60) - four
 - `b2ch05:292` (Tag 60) - one
 - `b2ch06:272` (Tag 5) - seven
+- `b2ch07:94` (Tag 7) - one
+- `b2ch07:176` (Tag 7) - one
 
 ---
 
@@ -6074,7 +6147,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-53 Nennungen in 20 Kapiteln.
+54 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6131,6 +6204,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
+| 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -6164,6 +6238,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:16` (Tag 51) - seven
 - `b2ch01:66` (Tag 51) - nine, one, six
 - `b2ch01:138` (Tag 51) - three, two
+- `b2ch07:86` (Tag 7) - ten, two
 
 ---
 
@@ -6554,6 +6629,34 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Jeon
+
+10 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
+| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
+| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
+| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
+| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
+| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
+| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
+| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
+
+### Zahlen in der Naehe von Mrs Jeon
+
+- `b2ch06:56` (Tag 5) - fifty
+- `b2ch06:110` (Tag 5) - one
+- `b2ch06:154` (Tag 5) - four
+- `b2ch07:34` (Tag 7) - three
+- `b2ch07:66` (Tag 7) - one
+- `b2ch07:78` (Tag 7) - one
+
+---
+
 ### Bae
 
 6 Nennungen in 3 Kapiteln.
@@ -6594,27 +6697,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 51) - four, six
-
----
-
-### Mrs Jeon
-
-6 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
-| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
-| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
-| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
-| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
-| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
-
-### Zahlen in der Naehe von Mrs Jeon
-
-- `b2ch06:56` (Tag 5) - fifty
-- `b2ch06:110` (Tag 5) - one
-- `b2ch06:154` (Tag 5) - four
 
 ---
 
@@ -6792,6 +6874,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Tae-min
 
 - `b1ch05:178` (Tag 6) - nineteen, two
+
+---
+
+### Mr Hwang
+
+1 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
 
 ---
 

@@ -183,6 +183,7 @@ FIGURES = {
     "Nam Byung-hee": [r"Nam Byung-hee", r"Byung-hee"],
     "Shin": [r"\bShin\b"],
     "Mrs Jeon": [r"Mrs Jeon", r"\bJeon\b"],
+    "Mr Hwang": [r"Mr Hwang", r"Hwang"],
     "Mrs Ryu": [r"\bRyu\b"],
     "Chef Bang": [r"\bBang\b"],
 }

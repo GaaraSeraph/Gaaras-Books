@@ -95,6 +95,10 @@ nachrechnen, und `check.py` tut das automatisch.
   Eintraege ist nie ueber den Schreibtisch gelaufen. Abends der Preis, Annies
   Absage an den eigenen Namen und Sang-hoons statt dessen. Nachts die
   Gesellschaftskette und der Abbruch (Band 2, Kapitel 6)
+- Tag 166, Mi 18. Maerz: **Nam Byung-hee schreibt am achtzehnten.** Vormittags
+  gibt Mrs Jeon den Rest heraus, **Mr Hwang** bekommt einen Namen. Nachmittags
+  der Brief: eine Stunde, die sechs im Raum, Frist **26. Maerz**, danach
+  schreibt sie **am ersten April** wie immer (Band 2, Kapitel 7)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -618,6 +622,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was es kostet, sagt Georgij, weil sie es nicht sagen wird:** das dritte, was Sang-hoon erfaehrt, und dass er der Mann sein darf, der es geloest hat. Und **es benutzt den Korridor**, den Sang-hoon einmal angeboten und danach nicht mehr erwaehnt hat. Annies Antwort: *"It is exactly what a man means when he says that. That is why it costs."* Dazu ihre Auflage: *"You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."*
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
+
+- **Band 2, Kapitel 7** *Not the first* (v1.0) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
+
+  **Vormittags zahlt Mrs Jeon.** Sang-hoon hat am Montag um zehn nach acht bei ihr angerufen, vier Minuten, ohne eine einzige Frage - er hatte entschieden, bevor er den Hoerer abnahm.
+
+  **Was sie liefert, ist das nahe Ende und nicht das ferne.** Ein Los verlaesst das Haus ohne Rechnung nur gegen eine **Freigabe**: eine Seite, die sagt, was hinausgeht und wer es genehmigt hat, und die den Empfaenger nicht nennt, weil der Empfaenger das ist, wofuer die Rechnung da waere. **Dreimal in dreiundzwanzig Jahren, und dreimal dieselbe Unterschrift.**
+
+  **Der Sanierer bekommt seinen Namen: Mr Hwang.** Und Georgij hat ihn schon gehabt - in sechs Punkt am Fuss der Seite in Kapitel 1. *"He had read the four sentences twice, because they were the best thing in that book. He had not read the name at all."*
+
+  **Mrs Jeons Urteil ueber den Mann, der sie hinauswirft, und sie faelscht es nicht:** *"He is the most honest person I have ever worked for."* Er hat den Katalog aufgeraeumt, weil Aufraeumen richtig ist. Die Rueckseite ist auch seine: *"He made it findable because findable is correct."* **Und damit steht der schlimmste Satz des Monats im Korridor:** ein Mann kommt in ein Haus zurueck, macht fuenf Monate lang seine Arbeit besser als je jemand in dem Gebaeude, und baut dabei das, was jetzt auf Annie zeigt. *"There is no fault anywhere in that sentence."*
+
+  **Und der Ansatzpunkt fuer Weg 2 faellt geschenkt mit ab:** *"He keeps everything. ... He is proud of that too."*
+
+  **Nachmittags der Brief, und das Signal steht im Datum.** Sie schreibt seit zwanzig Jahren am Ersten. Sie schreibt am **achtzehnten**, und Georgij liest das Datum, bevor er ein einziges anderes Wort liest. *"I am writing to you on the eighteenth because I no longer have a first to wait for."*
+
+  **Der Brief ist keine Erpressung, und das ist das Schlimmere.** Sie nennt, was sie hat, was sie nicht tun wird (*"Neither of those puts one container on my lane"*), und was sie will: **eine Stunde, die sechs im Raum, und dass ihnen jemand antwortet. Nicht ihr. Ihnen.** Frist der **26. Maerz**. Und danach: *"If nobody comes, I will write again on the first, as I always do."* Unterschrieben als **Chair** eines Verbands, den nie jemand haben wollte - ihr einziger Titel.
+
+  **Georgijs Befund ueber den Brief ist der Kern der Bandregel:** *"There is not one untrue sentence in it. ... A man who lies leaves you something to catch him at. She has left nothing at all, and she has done it deliberately, and she has done it because she is certain she is right. She is also right."*
+
+  **Dann die Frage, auf die er zum ersten Mal in zwei Baenden nichts hat.** **"Who gave it to her."** - *"I do not know."* Was er ableiten kann: sie hat die **Bedeutung** und nicht nur die Seite, jemand hat sich mit ihr hingesetzt; sie hat ausserhalb dieses Gewerbes nie etwas gehalten; und es kam **in der vierten Woche ihres schlimmsten Quartals**, nicht im Januar und nicht im Juni. *"Somebody chose her, and chose extremely well."*
+
+  **Annie antwortet nicht, und Georgij sagt den Grund, weil sie ihn sagen laesst:** eine Stunde in einem Raum **ist** die Bestaetigung. Auf der Seite steht nirgends, dass das Veto ihres ist. **"So it is the same box as the book."** - *"It is exactly the same box. ... It is the shape of what is being done to you."*
+
+  **Ihr letzter Satz zeigt auf Kapitel 8:** *"Then somebody who is not out of this house is going to have to go to Ulsan"*, gesagt zum Fenster hin, und er antwortet nicht, weil es keine Frage war.
+
+  **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
 ---
 

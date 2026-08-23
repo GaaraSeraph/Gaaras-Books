@@ -234,9 +234,30 @@ ein sauberes nicht, und die alte Streichung wird darin zur dauerhaften Luecke.
 **Koreaner, war lange ausserhalb, weil er dort andere Auftraege hatte und sie
 hervorragend erfuellt hat.** Kein Exilant, keine Kraenkung, kein Motiv - ein Mann
 mit Referenzen. Gegen einen Groll kann man arbeiten, gegen Koennen nicht.
-**Sein Name steht im Text noch nicht**, nur *"a name and a title"* am Fuss der
-Seite, und Georgij hat ihn gelesen. Annie kennt ihn und sagt ihn nicht.
-*Vorschlag, Stand Band 2 Kapitel 1.*
+**Er heisst Mr Hwang, und der Name faellt zum ersten Mal in Band 2, Kapitel 7**,
+aus Mrs Jeons Mund. In Kapitel 1 stand er schon da, *"a name and a title"* in
+sechs Punkt am Fuss der Seite - **Georgij hat den Absatz darueber zweimal
+gelesen und den Namen gar nicht.** Annie kennt ihn und hat ihn nicht gesagt.
+
+**Was Kapitel 7 ueber ihn festlegt, und es kommt von einer Frau, die er
+hinauswirft:** Er war als junger Mann in dem Haus, ging acht Jahre lang an
+andere Haeuser und kam im Herbst zurueck. Er nimmt nichts, hat keinen
+Guenstling, und ist **der ehrlichste Mensch, fuer den Mrs Jeon je gearbeitet
+hat.** Er hat den Katalog aufgeraeumt, weil Aufraeumen richtig ist, und die
+zurueckgehaltenen Eintraege auf einer Seite zusammengefasst, **weil etwas, das
+man nicht finden kann, spaeter schiefgeht.** *"He is not a man who would use
+it. He would not know how. He made it findable because findable is correct."*
+
+**Und der Ansatzpunkt fuer Weg 2 steht ebenfalls dort, aus demselben Mund:**
+*"He keeps everything. Every note, every release, every letter that has ever
+come into this house about anything. He is proud of that too."* Ein Mann, der
+stolz auf seine Aktenfuehrung ist, kann dazu gebracht werden, etwas zu Akte zu
+nehmen.
+
+**Dreimal in dreiundzwanzig Jahren hat dieses Haus ein Los ohne Rechnung gehen
+lassen, und alle drei Freigaben tragen seine Unterschrift.** Die Freigabe nennt
+den, der genehmigt, nicht den, der empfaengt. Georgij hat damit das nahe Ende
+der vierten Zeile und weiter nichts.
 
 **Nam Byung-hee** - **Der mittlere Gegner in Band 2, und sie hat recht.** Spitze
 der Nam-Gruppe in Ulsan, die laut `doc/04-world.md` auf denselben zwei Lanes

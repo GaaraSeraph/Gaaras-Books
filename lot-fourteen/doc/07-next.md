@@ -441,6 +441,18 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
+- **Nams Frist: 26. Maerz.** Gesetzt in Band 2, Kapitel 7. Eine Stunde, die
+  sechs im Raum, jemand antwortet ihnen. Annie antwortet nicht, weil die
+  Antwort die Bestaetigung waere.
+- **Und danach: der 1. April.** *"If nobody comes, I will write again on the
+  first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
+  ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
+  Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **Mrs Jeon geht in acht Wochen aus dem Gebaeude**, gerechnet ab dem
+  16. Maerz, also **Mitte Mai.** Danach ist sie keine Quelle mehr, sondern
+  eine Erinnerung. Was ueber diesen Schreibtisch zu holen ist, muss vorher
+  geholt sein.
+
 **Diese Liste ist keine Sammlung von Moeglichkeiten, sondern von Schulden.** Wer
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
