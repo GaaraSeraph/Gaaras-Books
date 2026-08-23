@@ -1389,7 +1389,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
-- **Band 2, Kapitel 28** *He keeps everything* (v1.0) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+- **Band 2, Kapitel 28** *He keeps everything* (v1.1) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 
   **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
 
@@ -1413,9 +1413,11 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das Zeugnis, das nichts wert ist.** Zwei Seiten, jeder Satz wahr, das beste, das er je geschrieben hat - **und keine Firma im Land liest ueber den Briefkopf hinaus.** Er wusste das beim Schreiben. *"It was the same thing," said Georgij.*
 
-  **Und dann die Schuld, die Georgij sich selbst stellt, unaufgefordert.** Er haette schweigen koennen und der Raum haette ihn gelassen. **Am 20. Maerz hat er vor Annie gesagt, er werde etwas fuer die Frau am Schalter tun koennen. Zehn Wochen, nichts getan.** *"I am here because I want something out of her."*
+  **Und dann die Schuld, die Georgij sich selbst stellt, unaufgefordert.** Er hat die Zusage vom 20. Maerz eingeloest: **ein Mann in dieser Stadt schuldete ihm eine Vermittlung, und Ende April hat eine Firma sie angerufen.** Auf die Nachfrage, was daraus wurde: **"And I do not know."**
 
-  **Hwangs Angebot einer Gemeinsamkeit lehnt er ab, und zwar nach unten:** *"No. You did it out of a spreadsheet. I did it because there was always something more urgent, and there always was, and every single one of them was real. That is worse and I would rather you did not take it off me."*
+  *"I made the call and I put a line through it. I have not asked her and I have not asked him, and in ten weeks it has not once been the most urgent thing in front of me."*
+
+  **Hwangs Angebot einer Gemeinsamkeit nimmt er nicht an und weist es auch nicht von sich, sondern rechnet es nach** - und der Text sagt vorher, dass die fertige Antwort auf dem Weg zerfiel: *"Georgij had an answer ready and heard what was wrong with it before he got to it."* Dann: **"You did twelve in an afternoon and did not go down to the floor. I did one in a morning and did not go down either. That is a difference in size and it is not a difference in kind."**
 
   **Hwangs einzige Bitte ist keine Bitte um sich selbst, und sie ist die Klammer zu Mrs Jeons letztem Satz in Kapitel 7** (*"I would like that written down somewhere as well"*): *"I would like there to be a piece of paper somewhere in the world that says she did."*
 
@@ -1425,7 +1427,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.0) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.1) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -1439,7 +1441,11 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
 
-  **Die Frage, um die das ganze Kapitel gebaut ist, stellt sie selbst: "You are somebody's. I could see that in March and I can see it now. Whose."**
+  **Und dann legt sie den Anruf auf den Tisch, und er ist der Grund, warum sie ueberhaupt etwas von ihm will.** Am 10. April erfuhr sie, dass sie geht, **und niemand ausserhalb des Gebaeudes wusste das.** Am 28. April rief eine Firma aus Yeouido an. Sie ging hin, sass vor zwei ausgesucht hoeflichen Leuten, **und am Ende fragte sie, wer ihren Namen dort hingelegt hat, und sie bekam es nicht gesagt.**
+
+  **Also nahm sie es nicht.** *"I have been in settlement for twenty-three years and I do not sign a thing that has a blank where the counterparty goes."* Und dann: **"It was you." - "Yes."**
+
+  **Das ist die erste wahre Auskunft, die sie seit Januar bekommt, und deshalb verlangt sie sofort die ganze:** *"Then you may have the rest of the question. You are somebody's. I could see that in March and I can see it now. Whose."*
 
   **Und hier steht die Entscheidung, die das Buch bisher vermieden hat.** Er sieht drei Auswege und beschreibt sie: *"the second one was good enough that she would not have found it for a week."* **Er nimmt keinen davon, und der Grund ist der moralische Kern des Kapitels: "All three of them worked by making her somebody who is handled. She has been that in a building for twenty-three years, and she was going to know."**
 
@@ -1462,6 +1468,8 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Sie verleiht das Heft und verschenkt es nicht.** *"Copy it and bring it back. I have had it for twenty-three years and I would like it in this flat."* - **"I will bring it back on Tuesday."**
 
   **Ihr letzter Satz an der Tuer ist die Antwort auf Hwangs Bitte aus Kapitel 28, und sie weiss nichts von der Bitte:** *"You may tell him from me that I kept mine too, and that I bought the book myself, and that it did not take a great deal of courage until the day it did."*
+
+  **Und der Anruf bekommt im Bus seine Antwort, zehn Wochen zu spaet:** *"The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April."*
 
   **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
 

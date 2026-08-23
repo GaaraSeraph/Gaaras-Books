@@ -1,5 +1,5 @@
 # Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -175,7 +175,35 @@ She did not open the book.
 
 ---
 
-"You are asking me to give you the one thing I have," she said, "and I want to know what you are, because I have had three different answers about you since March and I have not believed any of them. You are somebody's. I could see that in March and I can see it now. Whose."
+"You are asking me to give you the one thing I have," she said, "and I want to know what you are, because I have had three different answers about you since March and I have not believed any of them."
+
+---
+
+She put her hand flat on the cover again.
+
+---
+
+"A firm in Yeouido rang me on the twenty-eighth of April," she said. "I had been told on the tenth that I was going, and nobody outside that building knew it. I went and sat in front of two people who were perfectly civil and had clearly been asked to be."
+
+---
+
+"And at the end you asked them who had put your name in front of them."
+
+"And they would not tell me."
+
+---
+
+"So you did not take it."
+
+---
+
+"I did not take it. I have been in settlement for twenty-three years and I do not sign a thing that has a blank where the counterparty goes." Her hand stayed where it was. "It was you."
+
+"Yes."
+
+---
+
+"Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I could see that in March and I can see it now. Whose."
 
 ---
 
@@ -340,6 +368,10 @@ Georgij went down two flights and out past the chemist and stood at the stop for
 ---
 
 He has a lot number, a season, and four cleared invoices against it.
+
+He also has the answer to a question he did not ask anybody for ten weeks.
+
+The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April.
 
 He also has a woman four stops out of a station he had never used, sitting at a table in front of a window with eleven blocks in it. She can put her hand on a piece of paper that would take Annie apart.
 

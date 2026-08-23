@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 63 Kapitel, 167.011 Woerter.
+2 Baende, 63 Kapitel, 167.280 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -72,8 +72,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 25 | v1.0 | 2.144 |
 | 2 | 26 | v1.0 | 2.039 |
 | 2 | 27 | v1.2 | 2.034 |
-| 2 | 28 | v1.0 | 2.063 |
-| 2 | 29 | v1.0 | 2.131 |
+| 2 | 28 | v1.1 | 2.129 |
+| 2 | 29 | v1.1 | 2.334 |
 
 ---
 
@@ -19189,7 +19189,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 28: He keeps everything
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -19427,7 +19427,15 @@ Mr Hwang nodded once, slowly, as though somebody had confirmed a figure.
 
 ---
 
-"No," said Georgij.
+"I did something in March," said Georgij. "There is a man in this city who owed me an introduction and it would cost him nothing to make it. I made him make it. A firm rang her at the end of April."
+
+---
+
+"And."
+
+---
+
+"And I do not know," said Georgij.
 
 ---
 
@@ -19435,7 +19443,7 @@ He could have stopped there and the room would have let him.
 
 ---
 
-"I am going to ask her for something," he said. "I said in March, out loud, in a room with somebody in it who remembers everything I say, that I was going to be able to do something about the clerk downstairs. I have had ten weeks and I have done nothing at all, and I am here because I want something out of her."
+"I made the call and I put a line through it," he said. "I have not asked her and I have not asked him, and in ten weeks it has not once been the most urgent thing in front of me. I am here today because I want something out of her."
 
 ---
 
@@ -19445,7 +19453,13 @@ Mr Hwang did not say anything for a moment.
 
 "Then we are the same sort of man after all," he said.
 
-"No. You did it out of a spreadsheet." Georgij did not raise his voice at all. "I did it because there was always something more urgent, and there always was, and every single one of them was real. That is worse and I would rather you did not take it off me."
+---
+
+Georgij had an answer ready and heard what was wrong with it before he got to it.
+
+---
+
+"You did twelve in an afternoon and did not go down to the floor," he said. "I did one in a morning and did not go down either. That is a difference in size and it is not a difference in kind, and I am not going to stand in your room and pretend it is while I am asking you for something."
 
 ---
 
@@ -19526,7 +19540,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -19702,7 +19716,35 @@ She did not open the book.
 
 ---
 
-"You are asking me to give you the one thing I have," she said, "and I want to know what you are, because I have had three different answers about you since March and I have not believed any of them. You are somebody's. I could see that in March and I can see it now. Whose."
+"You are asking me to give you the one thing I have," she said, "and I want to know what you are, because I have had three different answers about you since March and I have not believed any of them."
+
+---
+
+She put her hand flat on the cover again.
+
+---
+
+"A firm in Yeouido rang me on the twenty-eighth of April," she said. "I had been told on the tenth that I was going, and nobody outside that building knew it. I went and sat in front of two people who were perfectly civil and had clearly been asked to be."
+
+---
+
+"And at the end you asked them who had put your name in front of them."
+
+"And they would not tell me."
+
+---
+
+"So you did not take it."
+
+---
+
+"I did not take it. I have been in settlement for twenty-three years and I do not sign a thing that has a blank where the counterparty goes." Her hand stayed where it was. "It was you."
+
+"Yes."
+
+---
+
+"Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I could see that in March and I can see it now. Whose."
 
 ---
 
@@ -19867,6 +19909,10 @@ Georgij went down two flights and out past the chemist and stood at the stop for
 ---
 
 He has a lot number, a season, and four cleared invoices against it.
+
+He also has the answer to a question he did not ask anybody for ten weeks.
+
+The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April.
 
 He also has a woman four stops out of a station he had never used, sitting at a table in front of a window with eleven blocks in it. She can put her hand on a piece of paper that would take Annie apart.
 

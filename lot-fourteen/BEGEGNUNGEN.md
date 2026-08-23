@@ -35,7 +35,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
 | Mr Ku | 23 | 17 (b1ch05-b2ch29) | 3 | 60 |
-| Mrs Jeon | 22 | 5 (b2ch06-b2ch29) | 5 | 40 |
+| Mrs Jeon | 23 | 5 (b2ch06-b2ch29) | 5 | 40 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
@@ -550,7 +550,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 38 | b2ch27:240 | Annie stood in the middle of her own room. |
 | 38 | b2ch27:266 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
-| 40 | b2ch29:344 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
+| 40 | b2ch29:376 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -677,7 +677,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch27:186` (Tag 38) - four
 - `b2ch27:204` (Tag 38) - sixty-eight
 - `b2ch27:266` (Tag 38) - four, sixty-eight
-- `b2ch29:344` (Tag 40) - eleven, four
+- `b2ch29:376` (Tag 40) - eleven, four
 
 ---
 
@@ -1644,10 +1644,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch28:208 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
 | 39 | b2ch28:216 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
 | 39 | b2ch28:232 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
-| 39 | b2ch28:252 | Mr Hwang did not say anything for a moment. |
-| 39 | b2ch28:266 | "There is one thing," said Mr Hwang. |
-| 39 | b2ch28:288 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
-| 39 | b2ch28:292 | "Mr Hwang." |
+| 39 | b2ch28:260 | Mr Hwang did not say anything for a moment. |
+| 39 | b2ch28:280 | "There is one thing," said Mr Hwang. |
+| 39 | b2ch28:302 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
+| 39 | b2ch28:306 | "Mr Hwang." |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -1672,7 +1672,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch28:172` (Tag 39) - two
 - `b2ch28:208` (Tag 39) - one, twenty
 - `b2ch28:216` (Tag 39) - one, two
-- `b2ch28:266` (Tag 39) - one
+- `b2ch28:280` (Tag 39) - one
 
 ---
 
@@ -2236,7 +2236,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:250 | "No," said Mr Ku. |
 | 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:312 | Mr Ku had the car by the wall. |
+| 39 | b2ch28:326 | Mr Ku had the car by the wall. |
 | 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
 
 ### Zahlen in der Naehe von Mr Ku
@@ -2258,7 +2258,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Jeon
 
-22 Nennungen in 5 Kapiteln.
+23 Nennungen in 5 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2274,16 +2274,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
 | 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
 | 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 39 | b2ch28:332 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
+| 39 | b2ch28:346 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
 | 40 | b2ch29:24 | "You," said Mrs Jeon. |
 | 40 | b2ch29:66 | "Four minutes," said Mrs Jeon. |
 | 40 | b2ch29:84 | Mrs Jeon looked at the window for a moment. |
 | 40 | b2ch29:110 | Mrs Jeon did not answer that. |
 | 40 | b2ch29:144 | Mrs Jeon put the biro down flat. |
-| 40 | b2ch29:200 | Mrs Jeon did not move. |
-| 40 | b2ch29:244 | Mrs Jeon sat back in the chair for the first time since he came in. |
-| 40 | b2ch29:300 | "Mrs Jeon." |
-| 40 | b2ch29:334 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
+| 40 | b2ch29:206 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
+| 40 | b2ch29:228 | Mrs Jeon did not move. |
+| 40 | b2ch29:272 | Mrs Jeon sat back in the chair for the first time since he came in. |
+| 40 | b2ch29:328 | "Mrs Jeon." |
+| 40 | b2ch29:362 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
