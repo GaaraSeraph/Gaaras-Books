@@ -248,6 +248,34 @@ zurueckgehaltenen Eintraege auf einer Seite zusammengefasst, **weil etwas, das
 man nicht finden kann, spaeter schiefgeht.** *"He is not a man who would use
 it. He would not know how. He made it findable because findable is correct."*
 
+**Und ab Band 2, Kapitel 21 steht dagegen das Urteil des Textes, und es ist
+haerter als Mrs Jeons.** Am 23.08. vom Autor korrigiert, gegen meine erste
+Fassung, in der Hwangs Haltung als unangreifbar galt.
+
+**Er hat vier bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
+Er hat es in der zweiten Dezemberwoche in den Settlement-Buechern gefunden, in
+etwa einer Stunde. Er hatte drei saubere Wege: **erfuellen, erstatten, oder es
+den vier sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
+Eintrag behalten**, was genau die Position der Maenner vor ihm ist.
+
+**Und seine Begruendung verwechselt eine Betriebsregel mit einem Prinzip.** Die
+Regel, fuer die er geholt wurde, lautet: **dieses Haus verkauft keine
+Loeschungen.** Das ist eine Regel darueber, wofuer man ab morgen Geld annimmt.
+Sie sagt nichts ueber vier Leute, die letztes Jahr bezahlt und nichts bekommen
+haben. Georgij, Kapitel 21: *"You did not decline to delete four entries. You
+declined to give four people back a thing they had already bought, and you
+called that a principle."* Und: **"You have not been running a clean house for
+five months. You have been running the same house tidily."**
+
+**Damit ist er keine tragische Unschuld mehr, sondern ein kompetenter Mann mit
+einem Kategorienfehler**, der ihn fuenf Monate lang hat der Ehrliche sein lassen
+und vier Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
+
+**Und er gibt in zwanzig Sekunden den Namen seines Vorgaengers her**, den er
+fuenf Monate lang nicht hergegeben haette, und benennt selbst, was das ueber ihn
+sagt: *"I did it because a man came in here and made me feel it, and I would
+like to be quite clear with myself about what that says."*
+
 **Und der Ansatzpunkt fuer Weg 2 steht ebenfalls dort, aus demselben Mund:**
 *"He keeps everything. Every note, every release, every letter that has ever
 come into this house about anything. He is proud of that too."* Ein Mann, der

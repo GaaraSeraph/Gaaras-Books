@@ -709,7 +709,14 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **Mr Hwang.** Er geht mit dem Gebaeude unter, er hat nichts falsch gemacht, und
+- **DER VORGAENGER. Neu und offen, gesetzt in Band 2, Kapitel 21.** Name,
+  Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
+  Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
+  verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
+  Das ist der Mann, der Annie viermal betrogen hat, und er ist erreichbar.
+
+- **Mr Hwang: ERLEDIGT in Band 2, Kapitel 21, und das Urteil ist ein anderes
+  geworden.** Der Eintrag hier stand bis zum 23.08. so:
   **er kann nicht gewarnt werden**, weil er nichts zurueckhaelt. Georgij hat das
   am 20. Maerz auf Annies Verlangen als Satz ausgesprochen. Nach der Neufassung
   sind die beiden einander **noch nie begegnet**, und das ist Absicht: die

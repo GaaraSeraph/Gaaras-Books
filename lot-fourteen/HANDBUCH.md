@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 113.876 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 115.365 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -131,6 +131,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Kwon](#mr-kwon)
   - [Mrs Sunwoo](#mrs-sunwoo)
+  - [Mr Hwang](#mr-hwang)
   - [Ji-won](#ji-won)
   - [Mr Ku](#mr-ku)
   - [Shin](#shin)
@@ -144,7 +145,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Yeo](#mr-yeo)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Minister Min-ho](#minister-min-ho)
-  - [Mr Hwang](#mr-hwang)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
@@ -1502,6 +1502,34 @@ zurueckgehaltenen Eintraege auf einer Seite zusammengefasst, **weil etwas, das
 man nicht finden kann, spaeter schiefgeht.** *"He is not a man who would use
 it. He would not know how. He made it findable because findable is correct."*
 
+**Und ab Band 2, Kapitel 21 steht dagegen das Urteil des Textes, und es ist
+haerter als Mrs Jeons.** Am 23.08. vom Autor korrigiert, gegen meine erste
+Fassung, in der Hwangs Haltung als unangreifbar galt.
+
+**Er hat vier bezahlte, arrangierte und abgesegnete Auftraege nicht ausgefuehrt.**
+Er hat es in der zweiten Dezemberwoche in den Settlement-Buechern gefunden, in
+etwa einer Stunde. Er hatte drei saubere Wege: **erfuellen, erstatten, oder es
+den vier sagen.** Er hat keinen genommen. **Er hat das Geld behalten und den
+Eintrag behalten**, was genau die Position der Maenner vor ihm ist.
+
+**Und seine Begruendung verwechselt eine Betriebsregel mit einem Prinzip.** Die
+Regel, fuer die er geholt wurde, lautet: **dieses Haus verkauft keine
+Loeschungen.** Das ist eine Regel darueber, wofuer man ab morgen Geld annimmt.
+Sie sagt nichts ueber vier Leute, die letztes Jahr bezahlt und nichts bekommen
+haben. Georgij, Kapitel 21: *"You did not decline to delete four entries. You
+declined to give four people back a thing they had already bought, and you
+called that a principle."* Und: **"You have not been running a clean house for
+five months. You have been running the same house tidily."**
+
+**Damit ist er keine tragische Unschuld mehr, sondern ein kompetenter Mann mit
+einem Kategorienfehler**, der ihn fuenf Monate lang hat der Ehrliche sein lassen
+und vier Leute bezahlt haben. Er sieht es erst, als es ihm jemand hinstellt.
+
+**Und er gibt in zwanzig Sekunden den Namen seines Vorgaengers her**, den er
+fuenf Monate lang nicht hergegeben haette, und benennt selbst, was das ueber ihn
+sagt: *"I did it because a man came in here and made me feel it, and I would
+like to be quite clear with myself about what that says."*
+
 **Und der Ansatzpunkt fuer Weg 2 steht ebenfalls dort, aus demselben Mund:**
 *"He keeps everything. Every note, every release, every letter that has ever
 come into this house about anything. He is proud of that too."* Ein Mann, der
@@ -2229,6 +2257,9 @@ nachrechnen, und `check.py` tut das automatisch.
   Er sagt die Wahrheit auf Annies zweite Bedingung: **einmal, anderthalb
   Sekunden, an einem Tor.** Und er bittet um den Deckel zurueck. **Sie sagt
   nein** (Band 2, Kapitel 20)
+- Tag 213, Mo 4. Mai: **das leere Haus am Fluss.** Georgij nimmt Hwangs Regel
+  auseinander und bekommt den Namen des Vorgaengers, der die vier Gebuehren
+  genommen hat (Band 2, Kapitel 21)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3186,6 +3217,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Der Schluss gehoert dem Haushalt, der seit Kapitel 13 fast verschwunden war.** Vier Menschen haben gemerkt, dass er seit dem 18. Maerz nicht richtig schlaeft, **und einer davon hat etwas gesagt** - Mr Ku auf der Autobahn am 14. April - und hat sich danach vierzehn Tage lang Sorgen gemacht, ob er gedurft hat. *"Tell him it was the most useful thing anybody said to me all month."* - **"Tell him yourself. He is on the early rota."**
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
+
+- **Band 2, Kapitel 21** *Tidily* (v1.0) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+
+  **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vier gesagt.
+
+  **Georgij nimmt die Regel in einer Minute auseinander, und der Kern ist eine Unterscheidung:** die Regel, fuer die Hwang geholt wurde, ist eine **ueber die Zukunft** - dieses Haus verkauft keine Loeschungen mehr. *"It has nothing whatever to say about four people who paid for something last year and did not get it."*
+
+  **Die drei sauberen Wege werden aufgezaehlt und alle drei waren offen:** erfuellen, erstatten mit Begleitschreiben, oder es jedem der vier sagen. *"You took none of them. You kept the money and you kept the record. That is the position the men before you were in. The only difference between you and them on the thirty-first of December is that your filing is better."*
+
+  **Hwangs einziger Einwand ist ein Gefuehl und Georgij benennt es:** *"That is not fair."* - **"No. It is accurate. Those are different words and I chose the one I meant."**
+
+  **Und die zwei Saetze, die die Szene tragen:** *"You did not decline to delete four entries. You declined to give four people back a thing they had already bought, and you called that a principle."* Und: **"You have not been running a clean house for five months. You have been running the same house tidily."**
+
+  **Die Wiedererkennung braucht zwei Sekunden**, weil dieser Mann die vier Eintraege genauer gelesen hat als irgendwer sonst: **"Lot fourteen."** - *"The fourth of October. Struck on the nineteenth of February. And retained. And I retained it."*
+
+  **Und auf die direkte Frage die direkte Antwort:** *"Is the house shut because of you."* - **"Yes. Not by me."** Eine Kundin, ein wahrer Satz, ein Katalog, den sie schon hatte. *"And you knew what she would do."* - **"I knew exactly what she would do. That is why I said the sentence."**
+
+  **Was Georgij ihm sagt und was kein Trost ist:** er ist fertig. Nicht das Haus, er. Fuenf Monate im Lebenslauf und ein Gebaeude, das unter ihm gestorben ist, **und niemand wird das je wohlwollend lesen und niemand wird nachfragen.**
+
+  **Und der Satz, an dem Georgij seit dem 23. April festhaengt:** *"Nobody in the whole of this took a single won. Not you. Not me. Not her. Everybody involved did what they thought was correct and a woman of fifty-eight is going to be selling two trucks on Thursday."*
+
+  **Der Vorgaenger.** Hwang schreibt Name, Position, die Daten der vier und die heutige Anschrift auf die Rueckseite seiner Liste, reisst den Streifen ab **und haelt ihn hin, statt ihn hinzulegen.** Und er benennt selbst, was er gerade getan hat: *"I have just done in twenty seconds the thing I refused to do for four people in five months. I did it because a man came in here and made me feel it."*
+
+  **Der Mann ist im November gegangen, vor Hwang, und nicht wegen alledem** - er wollte nicht fuer einen Fonds arbeiten. **Damit ist ein neues Ziel im Buch und es hat einen Namen und eine Adresse.**
+
+  **Zum Schluss die letzte wahre Sache, die Georgij noch hat:** *"You are going to be given work by somebody eventually and it is going to be beneath you, and you are going to take it, and you will do it properly because you cannot do anything the other way."* - *"Is that supposed to be a kindness."* - **"No. It is the last true thing I have got and I have run out of the other kind."**
+
+  **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
 
 ---
 
@@ -4873,7 +4932,14 @@ Fassung.**
   tot. Woraus folgt: ein Haus, das so etwas tut, seit bevor es Akten fuehrte,
   tut es **fuer jemanden.**
 
-- **Mr Hwang.** Er geht mit dem Gebaeude unter, er hat nichts falsch gemacht, und
+- **DER VORGAENGER. Neu und offen, gesetzt in Band 2, Kapitel 21.** Name,
+  Position, die Daten der vier Gebuehren und die heutige Anschrift, in Hwangs
+  Handschrift auf einem abgerissenen Streifen. **Er hat die vier Loeschungen
+  verkauft und nicht ausgefuehrt und ist im November gegangen, bevor Hwang kam.**
+  Das ist der Mann, der Annie viermal betrogen hat, und er ist erreichbar.
+
+- **Mr Hwang: ERLEDIGT in Band 2, Kapitel 21, und das Urteil ist ein anderes
+  geworden.** Der Eintrag hier stand bis zum 23.08. so:
   **er kann nicht gewarnt werden**, weil er nichts zurueckhaelt. Georgij hat das
   am 20. Maerz auf Annies Verlangen als Satz ausgesprochen. Nach der Neufassung
   sind die beiden einander **noch nie begegnet**, und das ist Absicht: die
@@ -5886,6 +5952,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 27 | 9 (b2ch03-b2ch20) | 1 | 56 |
 | Mr Kwon | 26 | 3 (b2ch14-b2ch19) | 4 | 11 |
 | Mrs Sunwoo | 23 | 11 (b1ch07-b2ch20) | 1 | 60 |
+| Mr Hwang | 21 | 3 (b2ch07-b2ch21) | 3 | 15 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Ku | 20 | 14 (b1ch05-b2ch20) | 3 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
@@ -5899,7 +5966,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
 | Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
-| Mr Hwang | 2 | 2 (b2ch07-b2ch10) | 3 | 7 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
@@ -7768,6 +7834,50 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Hwang
+
+21 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
+| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
+| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
+| 15 | b2ch21:66 | "Nothing," said Mr Hwang. |
+| 15 | b2ch21:78 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:92 | Mr Hwang did not answer. |
+| 15 | b2ch21:104 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 15 | b2ch21:128 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 15 | b2ch21:140 | "And the page that did that," said Mr Hwang. |
+| 15 | b2ch21:146 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 15 | b2ch21:162 | "Lot fourteen," said Mr Hwang. |
+| 15 | b2ch21:174 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 15 | b2ch21:194 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 15 | b2ch21:212 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 15 | b2ch21:226 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 15 | b2ch21:244 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 15 | b2ch21:258 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 15 | b2ch21:278 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 15 | b2ch21:288 | "Mr Hwang." |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:262` (Tag 3) - one
+- `b2ch21:20` (Tag 15) - three
+- `b2ch21:54` (Tag 15) - four
+- `b2ch21:128` (Tag 15) - eight, one
+- `b2ch21:146` (Tag 15) - one
+- `b2ch21:162` (Tag 15) - fourteen
+- `b2ch21:174` (Tag 15) - three
+- `b2ch21:226` (Tag 15) - twenty
+- `b2ch21:258` (Tag 15) - fifteen
+- `b2ch21:278` (Tag 15) - five, four, twenty
+
+---
+
 ### Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -8104,22 +8214,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
-
----
-
-### Mr Hwang
-
-2 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:262` (Tag 3) - one
 
 ---
 
