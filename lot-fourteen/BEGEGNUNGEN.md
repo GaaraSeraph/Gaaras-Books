@@ -336,7 +336,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | ch33:66 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
 | 7 | ch33:80 | Annie did not answer him and she did not stop him. |
 | 7 | ch33:212 | "Your offer," said Annie. |
-| 7 | ch33:220 | Annie's answer took four words. |
+| 7 | ch33:220 | Annie's answer took five words. |
 | 7 | ch33:230 | "I know," said Annie. |
 | 7 | ch33:272 | "Sit down," said Annie. |
 | 7 | ch33:286 | Annie's face did nothing at all. |
@@ -410,7 +410,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:226` (Tag 74) - one
 - `ch33:34` (Tag 7) - one, three
 - `ch33:66` (Tag 7) - fifteen
-- `ch33:220` (Tag 7) - four
+- `ch33:220` (Tag 7) - five
 
 ---
 

@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.3 | 2.678 |
+| 33 | v1.4 | 2.678 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10442,7 +10442,7 @@ It was the first time she had spoken in eleven minutes.
 
 ---
 
-Annie's answer took four words.
+Annie's answer took five words.
 
 "He was never for sale."
 
