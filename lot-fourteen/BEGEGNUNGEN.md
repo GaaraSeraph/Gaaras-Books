@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 487 | 51 (b1ch01-b2ch27) | 1 | 74 |
+| Annie | 488 | 51 (b1ch01-b2ch27) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-487 Nennungen in 51 Kapiteln.
+488 Nennungen in 51 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -544,11 +544,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:78 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
 | 38 | b2ch27:104 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
 | 38 | b2ch27:144 | Annie watched him not move and did not mistake it for one second. |
-| 38 | b2ch27:164 | "Eighty-six days," said Annie. |
-| 38 | b2ch27:182 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
-| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
-| 38 | b2ch27:236 | Annie stood in the middle of her own room. |
-| 38 | b2ch27:262 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
+| 38 | b2ch27:162 | "I did the arithmetic while you were still talking," said Annie, "and then I asked you a.. |
+| 38 | b2ch27:168 | "Sixty-eight days," said Annie. |
+| 38 | b2ch27:186 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
+| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:240 | Annie stood in the middle of her own room. |
+| 38 | b2ch27:266 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -671,10 +672,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:286` (Tag 26) - one, two
 - `b2ch27:104` (Tag 38) - one, twenty
 - `b2ch27:144` (Tag 38) - one
-- `b2ch27:164` (Tag 38) - eighty-six
-- `b2ch27:182` (Tag 38) - four
-- `b2ch27:200` (Tag 38) - eighty-six
-- `b2ch27:262` (Tag 38) - eighty-six, four
+- `b2ch27:168` (Tag 38) - sixty-eight
+- `b2ch27:186` (Tag 38) - four
+- `b2ch27:204` (Tag 38) - sixty-eight
+- `b2ch27:266` (Tag 38) - four, sixty-eight
 
 ---
 
@@ -1290,7 +1291,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
 | 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
 | 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
-| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1346,7 +1347,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:84` (Tag 38) - four
 - `b2ch26:192` (Tag 38) - four
 - `b2ch26:272` (Tag 38) - four
-- `b2ch27:200` (Tag 38) - eighty-six
+- `b2ch27:204` (Tag 38) - sixty-eight
 
 ---
 
@@ -2107,8 +2108,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:318 | "Mr Hwang." |
 | 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 38 | b2ch27:302 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 38 | b2ch27:316 | Mr Hwang keeps everything. |
+| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:320 | Mr Hwang keeps everything. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -2124,7 +2125,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:256` (Tag 15) - twenty
 - `b2ch21:288` (Tag 15) - fifteen
 - `b2ch21:308` (Tag 15) - five, four, twenty
-- `b2ch27:302` (Tag 38) - four
+- `b2ch27:306` (Tag 38) - four
 
 ---
 

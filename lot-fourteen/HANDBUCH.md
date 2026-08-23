@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 125.079 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 125.165 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2290,7 +2290,7 @@ nachrechnen, und `check.py` tut das automatisch.
   (Band 2, Kapitel 26)
 - Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
   gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
-  die vierte Zeile ist einer davon** (Band 2, Kapitel 27)
+  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz** (Band 2, Kapitel 27)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3432,7 +3432,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.0) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+- **Band 2, Kapitel 27** *What he collects* (v1.1) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -3450,9 +3450,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Was unter Georgijs Regungslosigkeit passiert, sagt nur die Erzaehlstimme, und Annie sieht es trotzdem.** Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste davon ist, **was Erwachsene mit Kindern vorhaben.** *"Annie watched him not move and did not mistake it for one second."*
 
-  **Sie weiss es seit dem 2. Maerz - seit er ihr die vier Fundstellen selbst hingelegt hat.** *"I did the arithmetic on the other two while you were still talking, and I did not say one word about it."* **Sechsundachtzig Tage.**
+  **Sie weiss es seit dem 20. Maerz - seit er in Kapitel 9 die drei aufgezaehlt hat, die getroffen werden, ohne etwas getan zu haben, und der dritte war** *"whoever is on the fourth line, who nobody has ever billed."* **Sie hat es gerechnet, waehrend er noch sprach, und dann nach der Frau in Ulsan gefragt.** Damit ist Annies Ausweichfrage aus Kapitel 9 rueckwirkend etwas anderes, als sie beim ersten Lesen war. **Achtundsechzig Tage.**
 
-  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** Und: *"you have said that sentence about yourself in this house ... and every time you have said it, it has been a description of a man who is safe. I did not want you to find out that it is also a description of somebody who is not."*
+  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** **Und der Satz ist ihrer, nicht seiner** - sie hat ihn ihm am 2. Januar (Band 1, Kapitel 34) und am 11. Maerz (Kapitel 5) gegeben, beide Male als das, was ihn am Leben haelt: *"And it is my sentence ... both times I was telling you the thing that keeps you alive. I did not want you to find out that it is also a description of somebody who is not."*
 
   **Sie entschuldigt sich nicht und sagt auch warum nicht:** *"I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable. I am telling you what I did. You may do whatever you like with it."*
 
@@ -5146,7 +5146,7 @@ Fassung.**
   Der Mann, den er am 4. Mai auseinandergenommen hat.
 
 - **Choi kauft Menschen. Gesetzt in Kapitel 27, aus Annies Mund, nach
-  sechsundachtzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
+  achtundsechzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
   viele, weiss sie nicht und hat es nie wissen wollen.** Damit ist auch geklaert,
   warum er eine Gebuehr zahlte, die er nicht schuldete.
 
@@ -6287,7 +6287,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 487 | 51 (b1ch01-b2ch27) | 1 | 74 |
+| Annie | 488 | 51 (b1ch01-b2ch27) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
@@ -6327,7 +6327,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-487 Nennungen in 51 Kapiteln.
+488 Nennungen in 51 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6813,11 +6813,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:78 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
 | 38 | b2ch27:104 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
 | 38 | b2ch27:144 | Annie watched him not move and did not mistake it for one second. |
-| 38 | b2ch27:164 | "Eighty-six days," said Annie. |
-| 38 | b2ch27:182 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
-| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
-| 38 | b2ch27:236 | Annie stood in the middle of her own room. |
-| 38 | b2ch27:262 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
+| 38 | b2ch27:162 | "I did the arithmetic while you were still talking," said Annie, "and then I asked you a.. |
+| 38 | b2ch27:168 | "Sixty-eight days," said Annie. |
+| 38 | b2ch27:186 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
+| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:240 | Annie stood in the middle of her own room. |
+| 38 | b2ch27:266 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6940,10 +6941,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:286` (Tag 26) - one, two
 - `b2ch27:104` (Tag 38) - one, twenty
 - `b2ch27:144` (Tag 38) - one
-- `b2ch27:164` (Tag 38) - eighty-six
-- `b2ch27:182` (Tag 38) - four
-- `b2ch27:200` (Tag 38) - eighty-six
-- `b2ch27:262` (Tag 38) - eighty-six, four
+- `b2ch27:168` (Tag 38) - sixty-eight
+- `b2ch27:186` (Tag 38) - four
+- `b2ch27:204` (Tag 38) - sixty-eight
+- `b2ch27:266` (Tag 38) - four, sixty-eight
 
 ---
 
@@ -7559,7 +7560,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
 | 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
 | 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
-| 38 | b2ch27:200 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -7615,7 +7616,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:84` (Tag 38) - four
 - `b2ch26:192` (Tag 38) - four
 - `b2ch26:272` (Tag 38) - four
-- `b2ch27:200` (Tag 38) - eighty-six
+- `b2ch27:204` (Tag 38) - sixty-eight
 
 ---
 
@@ -8376,8 +8377,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:318 | "Mr Hwang." |
 | 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 38 | b2ch27:302 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 38 | b2ch27:316 | Mr Hwang keeps everything. |
+| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:320 | Mr Hwang keeps everything. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -8393,7 +8394,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:256` (Tag 15) - twenty
 - `b2ch21:288` (Tag 15) - fifteen
 - `b2ch21:308` (Tag 15) - five, four, twenty
-- `b2ch27:302` (Tag 38) - four
+- `b2ch27:306` (Tag 38) - four
 
 ---
 

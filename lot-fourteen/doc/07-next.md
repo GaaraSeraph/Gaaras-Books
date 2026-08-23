@@ -703,7 +703,7 @@ Fassung.**
   Der Mann, den er am 4. Mai auseinandergenommen hat.
 
 - **Choi kauft Menschen. Gesetzt in Kapitel 27, aus Annies Mund, nach
-  sechsundachtzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
+  achtundsechzig Tagen Schweigen.** In jenem Haus und in zwei anderen. **Wie
   viele, weiss sie nicht und hat es nie wissen wollen.** Damit ist auch geklaert,
   warum er eine Gebuehr zahlte, die er nicht schuldete.
 

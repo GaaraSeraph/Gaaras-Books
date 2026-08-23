@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 61 Kapitel, 162.805 Woerter.
+2 Baende, 61 Kapitel, 162.813 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -71,7 +71,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 24 | v1.0 | 2.062 |
 | 2 | 25 | v1.0 | 2.144 |
 | 2 | 26 | v1.0 | 2.039 |
-| 2 | 27 | v1.0 | 2.022 |
+| 2 | 27 | v1.1 | 2.030 |
 
 ---
 
@@ -18860,7 +18860,7 @@ Neither of them chose the afternoon.
 ---
 
 # Book Two · Chapter 27: What he collects
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Six · Wednesday 27 May
 
@@ -19016,13 +19016,17 @@ Georgij sat in the chair and did not move.
 
 "How long have you known that," he said.
 
-"About him, since I was thirty. About the fourth line, since the second of March." She looked straight at him. "You put four references and a phrase in front of me at that desk and told me that two of them were mine. I did the arithmetic on the other two while you were still talking, and I did not say one word about it."
+"About him, since I was thirty. About the fourth line, since the twentieth of March." She looked straight at him. "You stood in that room and named three people who were going to be hurt without having done anything. The third one was whoever is on the fourth line, who nobody has ever billed."
 
 ---
 
-"Eighty-six days."
+"I did the arithmetic while you were still talking," said Annie, "and then I asked you about the woman in Ulsan."
 
-"Eighty-six days," said Annie.
+---
+
+"Sixty-eight days."
+
+"Sixty-eight days," said Annie.
 
 ---
 
@@ -19050,7 +19054,7 @@ Georgij did not move at all.
 
 "And?"
 
-"And you have said that sentence about yourself in this house on the seventh of March and the first of April and the twentieth of March," she said, "and every time you have said it, it has been a description of a man who is safe."
+"And it is my sentence," she said. "I said it to you in this house on the second of January, and I said it again on the eleventh of March, and both times I was telling you the thing that keeps you alive."
 
 ---
 
@@ -19058,7 +19062,7 @@ The room was very quiet.
 
 ---
 
-"I did not want you to find out that it is also a description of somebody who is not," said Annie. "I have known since the second of March that you were going to, and I have spent eighty-six days arranging for it to be later." She did not look away. "This afternoon Park Sang-hoon gave it away at a launch for nothing, and there was nothing I could do about that at all."
+"I did not want you to find out that it is also a description of somebody who is not," said Annie. "I have known since the twentieth of March that you were going to, and I have spent sixty-eight days arranging for it to be later." She did not look away. "This afternoon Park Sang-hoon gave it away at a launch for nothing, and there was nothing I could do about that at all."
 
 ---
 
@@ -19072,7 +19076,7 @@ Georgij sat in a chair with both hands on his knees.
 
 "You made it anyway."
 
-"I made it anyway, for eighty-six days, and I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable." She stood where she was. "I am telling you what I did. You may do whatever you like with it."
+"I made it anyway, for sixty-eight days, and I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable." She stood where she was. "I am telling you what I did. You may do whatever you like with it."
 
 ---
 
@@ -19120,7 +19124,7 @@ He did not say the rest of it. There was nothing available that was both true an
 
 ---
 
-"He is four years gone," said Annie. "Out of a book, off a page, with no bill and no name, and I have spent eighty-six days deciding that there is nothing at the end of that road."
+"He is four years gone," said Annie. "Out of a book, off a page, with no bill and no name, and I have spent sixty-eight days deciding that there is nothing at the end of that road."
 
 ---
 

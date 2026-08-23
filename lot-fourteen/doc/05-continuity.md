@@ -202,7 +202,7 @@ nachrechnen, und `check.py` tut das automatisch.
   (Band 2, Kapitel 26)
 - Tag 236, Mi 27. Mai, abends: **er sagt den Namen im kleinen Zimmer**, und sie
   gibt den echten Grund fuer das Zurueckhalten her. **Choi kauft Menschen, und
-  die vierte Zeile ist einer davon** (Band 2, Kapitel 27)
+  die vierte Zeile ist einer davon. Sie weiss es seit dem 20. Maerz** (Band 2, Kapitel 27)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1344,7 +1344,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.0) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+- **Band 2, Kapitel 27** *What he collects* (v1.1) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -1362,9 +1362,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Was unter Georgijs Regungslosigkeit passiert, sagt nur die Erzaehlstimme, und Annie sieht es trotzdem.** Vier Dinge haben ihn je dazu gebracht, Hand an jemanden zu legen, und das groesste davon ist, **was Erwachsene mit Kindern vorhaben.** *"Annie watched him not move and did not mistake it for one second."*
 
-  **Sie weiss es seit dem 2. Maerz - seit er ihr die vier Fundstellen selbst hingelegt hat.** *"I did the arithmetic on the other two while you were still talking, and I did not say one word about it."* **Sechsundachtzig Tage.**
+  **Sie weiss es seit dem 20. Maerz - seit er in Kapitel 9 die drei aufgezaehlt hat, die getroffen werden, ohne etwas getan zu haben, und der dritte war** *"whoever is on the fourth line, who nobody has ever billed."* **Sie hat es gerechnet, waehrend er noch sprach, und dann nach der Frau in Ulsan gefragt.** Damit ist Annies Ausweichfrage aus Kapitel 9 rueckwirkend etwas anderes, als sie beim ersten Lesen war. **Achtundsechzig Tage.**
 
-  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** Und: *"you have said that sentence about yourself in this house ... and every time you have said it, it has been a description of a man who is safe. I did not want you to find out that it is also a description of somebody who is not."*
+  **Und der Grund unter dem Grund ist die haerteste Stelle im Band:** irgendwo gibt es einen Menschen ohne Zeile, ohne Eigentuemer und ohne Datum, **weil man ihn im Fruehjahr aus dem Buch genommen hat und nie jemandem in Rechnung gestellt hat.** **Und der Satz ist ihrer, nicht seiner** - sie hat ihn ihm am 2. Januar (Band 1, Kapitel 34) und am 11. Maerz (Kapitel 5) gegeben, beide Male als das, was ihn am Leben haelt: *"And it is my sentence ... both times I was telling you the thing that keeps you alive. I did not want you to find out that it is also a description of somebody who is not."*
 
   **Sie entschuldigt sich nicht und sagt auch warum nicht:** *"I am not going to tell you that I am sorry about it, because I am not, and you would know inside a syllable. I am telling you what I did. You may do whatever you like with it."*
 
