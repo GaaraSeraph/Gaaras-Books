@@ -1,0 +1,167 @@
+# Chapter 22: Two Coins Short
+
+The fee to put a name in the Staple was one goat, and a goat was eleven coins, and Gaara had nine.
+
+Eleven had gone into that town and two of them had gone into a box for a name in the Roll. He sat on the mounting block outside the roll house at first light and worked the rest four different ways. It came out nine every time, with a bed and a bowl still to come out of it, and he started laughing at about the third one.
+
+"What," said Sivert.
+
+"I have run thirty-nine of these," said Gaara. "Not this exact thing. The other kind. And I have sat in rooms where the number under discussion had six figures in it and everybody in the room was lying about at least two of them." He put his hands over his face. "I am two coins short. Two. I need to make a day and a half of a grown man's wages before that door shuts, and it is the most frightened I have been since the gate."
+
+"You could sell the shingles."
+
+"They are not worth two coins and I would rather starve, and I want you to note that I said the second part first."
+
+The market was a street and a half and it was already loud.
+
+He walked it once without stopping, the way he had walked the eating house, and by the end of it he had what he wanted, which was not a customer. It was an argument.
+
+Two carters, a load of hides, and a bargain struck in the spring that neither of them remembered the same way. One said the price was per hide. One said the price was for the load. Both of them were entirely honest and both of them were furious, and a small crowd had formed because a market will always find time for this.
+
+Gaara stood at the edge of it and let it run for four minutes.
+
+Then he said, quite loudly, "Neither of you is lying."
+
+That got the street.
+
+"He is," said one of them.
+
+"He is not, and neither are you, and that is the whole trouble." Gaara came in a step. "You made a bargain in the spring with your mouths, in a yard, probably in the rain, and then you both went away and remembered the half of it that suited you. Everybody does that. I have done it. It is not a character fault, it is what a head is for."
+
+"So who is right."
+
+"Neither of you can ever find out, and that is what is costing you the morning." He crouched down and drew a line in the dust with his finger, and the crowd came in without meaning to, because a man crouching is more interesting than a man shouting. "But you can split it, and you can do it in about a minute, and then you can both go and do a day's work instead of standing here being right at each other until dark."
+
+He split it.
+
+It took rather less than a minute and neither of them liked it, which he told them was the entire point of a fair one.
+
+And then, while the two of them were still standing there feeling robbed in a way they could not put a finger on, he said the thing he had come to say.
+
+"Now. The next one you make, I will write down."
+
+The street went quiet in a way he had heard before, in rooms with better chairs.
+
+"Write it down," said the older carter.
+
+"Both hands on it, both of you present, and you tell me the terms in your own words and I put them on a board in front of you." He stood up. "It will take a quarter of an hour and it costs half a coin, and if you never argue about that load again it will have been the cheapest half coin of your life. If you do argue, you argue about what is on the board instead of about each other, and that takes ten minutes instead of a morning."
+
+"Nobody does that."
+
+"I know," said Gaara. "That is why it is only half a coin."
+
+He made four coins before midday.
+
+Two from the carters, who came back within the hour and then came back a second time with a different bargain and a different man. One from somebody buying a heifer who had watched the whole thing and did not want to be the fool who had not. The fourth was from a woman who wanted nothing written at all and paid him half a coin twice to sit down and tell her whether the man she was about to take on was worth the wage.
+
+He looked at the man across the street for about six seconds.
+
+Level 3, and a way of standing that told him the rest.
+
+"He will work," said Gaara. "He will work perfectly well and he will never once do anything you have not told him to do, and if you need somebody who notices things, he is not that. Pay him what a pair of hands is worth and not a penny over. Do not put him in charge of anything. He will be with you twenty years and never once give you a bad day."
+
+She thought about it.
+
+"That is exactly him."
+
+"Yes."
+
+"How long have you been in this town."
+
+"Since yesterday afternoon," said Gaara, and took her coin.
+
+The woman on the stall beside where he had set up sold buttons, horn and bone and one tray of brass, and she had been listening to all of it with her chin on her hand.
+
+"You are going to be a problem," she said.
+
+"I am so often told that, and never as early in the acquaintance as I would like."
+
+"Runa."
+
+"Gaara." He turned round on the box he was sitting on. "May I ask you something that has nothing at all to do with buttons?"
+
+"You may ask."
+
+"You have listened to me talk for three hours and have not once got up and moved your stall, which puts you a considerable distance ahead of most of the people I have known." He said it in exactly the voice he had used about the hides. "I am in a loft over the stable with two other people and one of them snores. I am telling you where I am and not asking you for anything, because I have nine coins and no standing in this town and I would like the asking to be somebody else's turn."
+
+Runa looked at him for a while.
+
+"That is the strangest offer I have ever had."
+
+"It is not an offer. It is a location."
+
+"It is an offer with the work moved onto me."
+
+"Yes," said Gaara. "And you saw that in under a second, and I want you to know that almost nobody does."
+
+She went back to her buttons and did not answer, and he sold two more bargains before the bell, and at no point did she move the stall.
+
+The Staple had a door with a proper lintel and a warden behind a table who was not glad to see anybody.
+
+"Fee is a goat."
+
+"Eleven coins," said Gaara, and put down eleven, and did not say anything about the four hours.
+
+"Name."
+
+"Gaara."
+
+"Name of the company."
+
+And there it was, and he had known it since a road, and he still had to take a breath before he said it out loud in a room.
+
+"Hades."
+
+The warden wrote it, badly, and turned the board round for him to look at, and Gaara corrected two letters and thought about the fact that he could do that now.
+
+"What is it."
+
+"A god of a dead country," said Gaara. "He kept everything that was under the ground."
+
+The warden looked at him.
+
+"Is that supposed to mean something."
+
+"Yes," said Gaara, "and not to you, and I mean no offence by that whatsoever."
+
+"Mark."
+
+"I beg your pardon."
+
+"Your mark." The warden pushed a slate across. "Goes on your bales and your paper and anything you sell. Nobody else in the Staple may use it. Draw it."
+
+Gaara sat down with a slate and a piece of chalk in a room that smelled of dust and other men's business, and found that he had nothing.
+
+He had named thirty-nine companies for other people. He had sat in rooms while men who were paid more than him argued for whole afternoons about the angle of a letter. He had thought all of it was theatre, and he had said so, out loud, more than once, to people who could have fired him.
+
+Now it was his and the chalk was in his hand and it was not theatre at all.
+
+He thought about the mark on the drum under the aqueduct that he could not read.
+
+He thought about a mason's mark cut into a wall that had stopped in the middle of a good week, on a face nobody would ever see.
+
+Then he drew a line, and put a second line under it, and stopped.
+
+Two strokes. One over the other. A gate half up.
+
+"That is not much of a mark," said the warden.
+
+"No," said Gaara. "It is eighteen inches."
+
+He came out into the street with a slate under his arm, a house in a book, and two coins that were already spoken for by a loft and a bowl. He stood in the light a moment doing nothing, which was becoming a thing he could do.
+
+Ylva was waiting by the well with her arms folded and a face he did not like.
+
+"I have been to Ordulf," she said.
+
+"And."
+
+"He will not deal with me."
+
+"Because you have no touch."
+
+"Because I have no touch, and because he says the last time somebody brought him metal out of that city it was Rulf, and Rulf paid for it." She was very steady about it. "He wants to know why he should think we will do better."
+
+Gaara stood in the street with his two lines under his arm and did the only thing he had ever been good at, which was work out what a man was actually saying.
+
+"He does not think we will fail," he said. "He thinks we will succeed. And he does not want to be the man who paid for a second one."
