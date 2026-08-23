@@ -208,6 +208,12 @@ nachrechnen, und `check.py` tut das automatisch.
   Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
   Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
   der 12. Mai (Band 2, Kapitel 28)
+- Tag 238, Fr 29. Mai: **die Wohnung vier Haltestellen draussen.** Er bezahlt
+  ihren Preis vom 16. Maerz mit dem Einzigen, was er hat: **er sagt ihr, dass er
+  auf der Seite steht.** Und bekommt Los sechs, die Fruehjahrsauktion vor vier
+  Jahren, den Schalter offen bis Mitternacht ohne Verrechnung, und vier
+  abgerechnete Posten gegen dieselbe Fundstelle: **Blumen, zweimal. Ein Fahrer.
+  Und ein Arzt, im Juli** (Band 2, Kapitel 29)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1418,6 +1424,46 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
+
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.0) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+
+  **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
+
+  **Er kommt mit dem Bus, und das ist eine Entscheidung.** Mr Ku bietet den Wagen zweimal an. **Ein Wagen dieser Art vor der Tuer einer Frau, die seit siebzehn Tagen ohne Arbeit ist, ist ein Satz ueber sie, zugestellt an alle im Treppenhaus** - und sie muesste darin wohnen bleiben, wenn er weg ist.
+
+  **Ihr erster Satz an der Tuer erledigt die Verhandlung, bevor sie anfaengt:** *"You do not have your name. I can see that from here."* Und: **"Then you have come to ask me for something on credit, and I told you in March what I do about that."**
+
+  **Ihr Urteil ueber Hwang ist kaelter als jedes von Georgij und faellt in zwei Saetzen:** *"He could have opened it in January. He has had from January until May to be sorry about it, and being sorry about it is not the same as opening it, and I am not going to be the one who tells him it is."*
+
+  **Was er ihr zuerst gibt, ist keine Information, sondern eine Bestaetigung** - das Einzige, was ihr in dreiundzwanzig Jahren niemand gegeben hat: *"You were right."* Nicht wahrscheinlich, nicht es-ist-was-dran. **"The fourth reference on that back page is a person, and there was no bill because there was never going to be one."**
+
+  **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
+
+  **Die Frage, um die das ganze Kapitel gebaut ist, stellt sie selbst: "You are somebody's. I could see that in March and I can see it now. Whose."**
+
+  **Und hier steht die Entscheidung, die das Buch bisher vermieden hat.** Er sieht drei Auswege und beschreibt sie: *"the second one was good enough that she would not have found it for a week."* **Er nimmt keinen davon, und der Grund ist der moralische Kern des Kapitels: "All three of them worked by making her somebody who is handled. She has been that in a building for twenty-three years, and she was going to know."**
+
+  **Er bezahlt mit dem Einzigen, was er besitzt, und es ist genau das, was Annie gefaehrdet:** *"I am on that page. Lot eleven and lot fourteen, four lines apart. I was in the room for both of them, and I was one of them, and the one I was is the second one."*
+
+  **Und die Machtlage dreht sich mitten in der Szene, und die Satzzeichen folgen ihr.** Ihre beiden Fragen davor sind flach. Die eine, bei der sie von seiner Antwort abhaengt, geht hoch: **"Do you understand what you have just put on this table?"** - und der Text sagt es ausdruecklich: *"She had asked him two questions since he came in and both of them had been flat. That one went up at the end."*
+
+  **Er rechnet ihr auf Verlangen vor, was er hergegeben hat**, und beschoenigt nichts: *"You could sell it. You could take it to a newspaper. You could hold it for eight years and take it out when you needed something."* - **"And you did it anyway." - "I did it anyway."**
+
+  **Ihre Begruendung, es anzunehmen, ist ein Satz:** *"Twenty-three years, and nobody in that building ever told me anything that could hurt them."*
+
+  **Das Heft ist kein Kassenbuch.** Karierte Blaetter, gruener Deckel, **etwa vierzig Zeilen in dreiundzwanzig Jahren**, jede mit Datum, Uhrzeit und ungefaehr sechs Woertern.
+
+  **Und was daraufsteht, ist der Ertrag des Kapitels: Los sechs.** Fruehjahrsauktion, vor vier Jahren. **Im Buch vom Januar davor bis zum September danach**, und in dieser Zeit sind vier Posten gegen dieselbe Fundstelle ueber ihren Schalter gelaufen und alle vier haben abgerechnet: **Blumen, zweimal. Ein Fahrer. Und ein Arzt, im Juli.**
+
+  **"I passed the invoice myself. It was a proper invoice from a proper practice, and I did not think about it for four years, and I have thought about it every day since the ninth of January."**
+
+  **Sein Versprechen ist genau so weit, wie Regel 1 es zulaesst, und keinen Zoll weiter:** kein gutes Ende, weil er es nicht weiss. **Aber: "Whatever it is, and whenever I have it, you will hear it from me and not from anybody else."** Ihre Antwort: *"That is the correct answer, and it is the first correct answer I have had from anybody since January, and I notice that it is also the only one that costs you something to keep."*
+
+  **Sie verleiht das Heft und verschenkt es nicht.** *"Copy it and bring it back. I have had it for twenty-three years and I would like it in this flat."* - **"I will bring it back on Tuesday."**
+
+  **Ihr letzter Satz an der Tuer ist die Antwort auf Hwangs Bitte aus Kapitel 28, und sie weiss nichts von der Bitte:** *"You may tell him from me that I kept mine too, and that I bought the book myself, and that it did not take a great deal of courage until the day it did."*
+
+  **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
 
 ---
 

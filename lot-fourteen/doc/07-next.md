@@ -696,6 +696,31 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **DER ABEND NACH DEM BUS. Faellig sofort, gesetzt am Ende von Kapitel 29.**
+  Georgij hat einer Frau, die er zweimal gesehen hat, den Satz gegeben, der
+  Annie mit dem 4. Oktober verbindet. **Niemand hat es ihm erlaubt, und er geht
+  heute Abend in das kleine Zimmer und sagt es.** Das ist die erste Sache in
+  zwei Baenden, die er ohne Erlaubnis getan hat, und sie ist die groesste.
+
+- **LOS SECHS. Der Ertrag aus Kapitel 29 und ab jetzt die Spur.**
+  Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September
+  danach. **Vier abgerechnete Posten gegen dieselbe Fundstelle: Blumen zweimal,
+  ein Fahrer, und ein Arzt im Juli.**
+
+  **Der Arzt ist der Faden.** Eine ordentliche Rechnung einer ordentlichen
+  Praxis, von Mrs Jeon selbst durchgestellt. **Praxen fuehren Akten, und eine
+  Praxis, die im Juli jemanden gesehen hat, hat einen Namen dafuer gebraucht.**
+  Der Fahrer ist der zweite: jemand hat den Menschen physisch aus dem Gebaeude
+  gefahren und ist dafuer bezahlt worden.
+
+- **DAS HEFT GEHT AM DIENSTAG ZURUECK.** Zugesagt, mit Datum: *"I will bring it
+  back on Tuesday."* **Er hat sie geliehen bekommen, nicht geschenkt.** Und die
+  Zusage darunter ist unbefristet: sie hoert es von ihm und von niemandem sonst.
+
+- **Hwangs Bitte hat eine Antwort bekommen, ohne dass er sie gestellt hat.**
+  Mrs Jeon, an der Tuer: *"tell him from me that I kept mine too, and that I
+  bought the book myself."* **Ausrichten muss es Georgij.**
+
 - **DIE TUER IN DEM VORORT. Faellig sofort, gesetzt am Ende von Kapitel 28.**
   Georgij hat die Adresse und **Mrs Jeon hat ein Schulheft mit allem, was in
   dreiundzwanzig Jahren nicht abgerechnet wurde.** Sie hat es Hwang am

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 127.119 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 128.630 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -136,10 +136,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Yeom](#mr-yeom)
   - [Mr Ku](#mr-ku)
+  - [Mrs Jeon](#mrs-jeon)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
   - [Shin](#shin)
-  - [Mrs Jeon](#mrs-jeon)
   - [Mr Pyo](#mr-pyo)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Bae](#bae)
@@ -2325,6 +2325,12 @@ nachrechnen, und `check.py` tut das automatisch.
   Adresse her - und ungefragt den 9. Januar: **Mrs Jeon hat ihm ein
   Schulheft hingehalten, und er hat es nicht angefasst.** Ihr letzter Tag war
   der 12. Mai (Band 2, Kapitel 28)
+- Tag 238, Fr 29. Mai: **die Wohnung vier Haltestellen draussen.** Er bezahlt
+  ihren Preis vom 16. Maerz mit dem Einzigen, was er hat: **er sagt ihr, dass er
+  auf der Seite steht.** Und bekommt Los sechs, die Fruehjahrsauktion vor vier
+  Jahren, den Schalter offen bis Mitternacht ohne Verrechnung, und vier
+  abgerechnete Posten gegen dieselbe Fundstelle: **Blumen, zweimal. Ein Fahrer.
+  Und ein Arzt, im Juli** (Band 2, Kapitel 29)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3535,6 +3541,46 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Die Prognose zum Schluss ist die kaeltere Fassung von Kapitel 21.** *"You will be in work by October."* Und auf *"Is that supposed to be a kindness."* diesmal nicht *"It is the last true thing I have got"*, sondern: **"It is a forecast. You may check it in October."**
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
+
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.0) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+
+  **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
+
+  **Er kommt mit dem Bus, und das ist eine Entscheidung.** Mr Ku bietet den Wagen zweimal an. **Ein Wagen dieser Art vor der Tuer einer Frau, die seit siebzehn Tagen ohne Arbeit ist, ist ein Satz ueber sie, zugestellt an alle im Treppenhaus** - und sie muesste darin wohnen bleiben, wenn er weg ist.
+
+  **Ihr erster Satz an der Tuer erledigt die Verhandlung, bevor sie anfaengt:** *"You do not have your name. I can see that from here."* Und: **"Then you have come to ask me for something on credit, and I told you in March what I do about that."**
+
+  **Ihr Urteil ueber Hwang ist kaelter als jedes von Georgij und faellt in zwei Saetzen:** *"He could have opened it in January. He has had from January until May to be sorry about it, and being sorry about it is not the same as opening it, and I am not going to be the one who tells him it is."*
+
+  **Was er ihr zuerst gibt, ist keine Information, sondern eine Bestaetigung** - das Einzige, was ihr in dreiundzwanzig Jahren niemand gegeben hat: *"You were right."* Nicht wahrscheinlich, nicht es-ist-was-dran. **"The fourth reference on that back page is a person, and there was no bill because there was never going to be one."**
+
+  **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
+
+  **Die Frage, um die das ganze Kapitel gebaut ist, stellt sie selbst: "You are somebody's. I could see that in March and I can see it now. Whose."**
+
+  **Und hier steht die Entscheidung, die das Buch bisher vermieden hat.** Er sieht drei Auswege und beschreibt sie: *"the second one was good enough that she would not have found it for a week."* **Er nimmt keinen davon, und der Grund ist der moralische Kern des Kapitels: "All three of them worked by making her somebody who is handled. She has been that in a building for twenty-three years, and she was going to know."**
+
+  **Er bezahlt mit dem Einzigen, was er besitzt, und es ist genau das, was Annie gefaehrdet:** *"I am on that page. Lot eleven and lot fourteen, four lines apart. I was in the room for both of them, and I was one of them, and the one I was is the second one."*
+
+  **Und die Machtlage dreht sich mitten in der Szene, und die Satzzeichen folgen ihr.** Ihre beiden Fragen davor sind flach. Die eine, bei der sie von seiner Antwort abhaengt, geht hoch: **"Do you understand what you have just put on this table?"** - und der Text sagt es ausdruecklich: *"She had asked him two questions since he came in and both of them had been flat. That one went up at the end."*
+
+  **Er rechnet ihr auf Verlangen vor, was er hergegeben hat**, und beschoenigt nichts: *"You could sell it. You could take it to a newspaper. You could hold it for eight years and take it out when you needed something."* - **"And you did it anyway." - "I did it anyway."**
+
+  **Ihre Begruendung, es anzunehmen, ist ein Satz:** *"Twenty-three years, and nobody in that building ever told me anything that could hurt them."*
+
+  **Das Heft ist kein Kassenbuch.** Karierte Blaetter, gruener Deckel, **etwa vierzig Zeilen in dreiundzwanzig Jahren**, jede mit Datum, Uhrzeit und ungefaehr sechs Woertern.
+
+  **Und was daraufsteht, ist der Ertrag des Kapitels: Los sechs.** Fruehjahrsauktion, vor vier Jahren. **Im Buch vom Januar davor bis zum September danach**, und in dieser Zeit sind vier Posten gegen dieselbe Fundstelle ueber ihren Schalter gelaufen und alle vier haben abgerechnet: **Blumen, zweimal. Ein Fahrer. Und ein Arzt, im Juli.**
+
+  **"I passed the invoice myself. It was a proper invoice from a proper practice, and I did not think about it for four years, and I have thought about it every day since the ninth of January."**
+
+  **Sein Versprechen ist genau so weit, wie Regel 1 es zulaesst, und keinen Zoll weiter:** kein gutes Ende, weil er es nicht weiss. **Aber: "Whatever it is, and whenever I have it, you will hear it from me and not from anybody else."** Ihre Antwort: *"That is the correct answer, and it is the first correct answer I have had from anybody since January, and I notice that it is also the only one that costs you something to keep."*
+
+  **Sie verleiht das Heft und verschenkt es nicht.** *"Copy it and bring it back. I have had it for twenty-three years and I would like it in this flat."* - **"I will bring it back on Tuesday."**
+
+  **Ihr letzter Satz an der Tuer ist die Antwort auf Hwangs Bitte aus Kapitel 28, und sie weiss nichts von der Bitte:** *"You may tell him from me that I kept mine too, and that I bought the book myself, and that it did not take a great deal of courage until the day it did."*
+
+  **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
 
 ---
 
@@ -5209,6 +5255,31 @@ Fassung.**
   genommen. **Keine Zeile, kein Eigentuemer, kein Datum - dieselbe Beschreibung,
   die Georgij dreimal ueber sich selbst benutzt hat.**
 
+- **DER ABEND NACH DEM BUS. Faellig sofort, gesetzt am Ende von Kapitel 29.**
+  Georgij hat einer Frau, die er zweimal gesehen hat, den Satz gegeben, der
+  Annie mit dem 4. Oktober verbindet. **Niemand hat es ihm erlaubt, und er geht
+  heute Abend in das kleine Zimmer und sagt es.** Das ist die erste Sache in
+  zwei Baenden, die er ohne Erlaubnis getan hat, und sie ist die groesste.
+
+- **LOS SECHS. Der Ertrag aus Kapitel 29 und ab jetzt die Spur.**
+  Fruehjahrsauktion vor vier Jahren, im Buch vom Januar davor bis zum September
+  danach. **Vier abgerechnete Posten gegen dieselbe Fundstelle: Blumen zweimal,
+  ein Fahrer, und ein Arzt im Juli.**
+
+  **Der Arzt ist der Faden.** Eine ordentliche Rechnung einer ordentlichen
+  Praxis, von Mrs Jeon selbst durchgestellt. **Praxen fuehren Akten, und eine
+  Praxis, die im Juli jemanden gesehen hat, hat einen Namen dafuer gebraucht.**
+  Der Fahrer ist der zweite: jemand hat den Menschen physisch aus dem Gebaeude
+  gefahren und ist dafuer bezahlt worden.
+
+- **DAS HEFT GEHT AM DIENSTAG ZURUECK.** Zugesagt, mit Datum: *"I will bring it
+  back on Tuesday."* **Er hat sie geliehen bekommen, nicht geschenkt.** Und die
+  Zusage darunter ist unbefristet: sie hoert es von ihm und von niemandem sonst.
+
+- **Hwangs Bitte hat eine Antwort bekommen, ohne dass er sie gestellt hat.**
+  Mrs Jeon, an der Tuer: *"tell him from me that I kept mine too, and that I
+  bought the book myself."* **Ausrichten muss es Georgij.**
+
 - **DIE TUER IN DEM VORORT. Faellig sofort, gesetzt am Ende von Kapitel 28.**
   Georgij hat die Adresse und **Mrs Jeon hat ein Schulheft mit allem, was in
   dreiundzwanzig Jahren nicht abgerechnet wurde.** Sie hat es Hwang am
@@ -6379,7 +6450,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 488 | 51 (b1ch01-b2ch27) | 1 | 74 |
+| Annie | 489 | 52 (b1ch01-b2ch29) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
@@ -6395,11 +6466,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeo | 28 | 4 (b1ch05-b2ch25) | 6 | 32 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Yeom | 24 | 2 (b2ch24-b2ch25) | 26 | 32 |
-| Mr Ku | 22 | 16 (b1ch05-b2ch28) | 3 | 60 |
+| Mr Ku | 23 | 17 (b1ch05-b2ch29) | 3 | 60 |
+| Mrs Jeon | 22 | 5 (b2ch06-b2ch29) | 5 | 40 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mrs Jeon | 13 | 4 (b2ch06-b2ch28) | 5 | 39 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Choi Dae-ho | 7 | 4 (b1ch07-b2ch27) | 22 | 56 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -6419,7 +6490,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-488 Nennungen in 51 Kapiteln.
+489 Nennungen in 52 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6911,6 +6982,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 38 | b2ch27:240 | Annie stood in the middle of her own room. |
 | 38 | b2ch27:266 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
+| 40 | b2ch29:344 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7037,6 +7109,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch27:186` (Tag 38) - four
 - `b2ch27:204` (Tag 38) - sixty-eight
 - `b2ch27:266` (Tag 38) - four, sixty-eight
+- `b2ch29:344` (Tag 40) - eleven, four
 
 ---
 
@@ -8570,7 +8643,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-22 Nennungen in 16 Kapiteln.
+23 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8596,6 +8669,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
 | 39 | b2ch28:312 | Mr Ku had the car by the wall. |
+| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -8611,6 +8685,49 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:236` (Tag 4) - forty
 - `b2ch20:280` (Tag 11) - four, one
 - `b2ch26:290` (Tag 38) - one
+
+---
+
+### Mrs Jeon
+
+22 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
+| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
+| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
+| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
+| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
+| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
+| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
+| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
+| 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
+| 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
+| 39 | b2ch28:332 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
+| 40 | b2ch29:24 | "You," said Mrs Jeon. |
+| 40 | b2ch29:66 | "Four minutes," said Mrs Jeon. |
+| 40 | b2ch29:84 | Mrs Jeon looked at the window for a moment. |
+| 40 | b2ch29:110 | Mrs Jeon did not answer that. |
+| 40 | b2ch29:144 | Mrs Jeon put the biro down flat. |
+| 40 | b2ch29:200 | Mrs Jeon did not move. |
+| 40 | b2ch29:244 | Mrs Jeon sat back in the chair for the first time since he came in. |
+| 40 | b2ch29:300 | "Mrs Jeon." |
+| 40 | b2ch29:334 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
+
+### Zahlen in der Naehe von Mrs Jeon
+
+- `b2ch06:56` (Tag 5) - fifty
+- `b2ch06:110` (Tag 5) - one
+- `b2ch06:154` (Tag 5) - four
+- `b2ch07:34` (Tag 7) - three
+- `b2ch07:66` (Tag 7) - one
+- `b2ch07:78` (Tag 7) - one
+- `b2ch09:252` (Tag 9) - five, six
+- `b2ch28:70` (Tag 39) - four, twenty-three
+- `b2ch29:66` (Tag 40) - four
 
 ---
 
@@ -8732,39 +8849,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:162` (Tag 53) - eight, five, one, two
 - `b2ch02:168` (Tag 53) - four, one, three
 - `b2ch02:186` (Tag 53) - one
-
----
-
-### Mrs Jeon
-
-13 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
-| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
-| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
-| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
-| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
-| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
-| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
-| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
-| 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
-| 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 39 | b2ch28:332 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
-
-### Zahlen in der Naehe von Mrs Jeon
-
-- `b2ch06:56` (Tag 5) - fifty
-- `b2ch06:110` (Tag 5) - one
-- `b2ch06:154` (Tag 5) - four
-- `b2ch07:34` (Tag 7) - three
-- `b2ch07:66` (Tag 7) - one
-- `b2ch07:78` (Tag 7) - one
-- `b2ch09:252` (Tag 9) - five, six
-- `b2ch28:70` (Tag 39) - four, twenty-three
 
 ---
 
