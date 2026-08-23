@@ -4074,4 +4074,4 @@ The number did not.
 
 The old man looked.
 
-"A good goat," he said. "Or a bad knife."
+"A bad knife," he said. "Or a good goat."

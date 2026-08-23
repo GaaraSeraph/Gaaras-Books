@@ -414,9 +414,11 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
 - (ch18) THREAD 8 IS OPEN AT LAST. He takes a coin out for the first time since
   the morning he took them off a dead man. The face he does not know and the
   word round the edge still goes past him. THE NUMBER DOES NOT.
-  ELEVEN COINS ARE WORTH "a good goat, or a bad knife" (Hallvard). So the first
-  thing reading ever tells him is that he is poor, and that he cannot buy the
-  blade he needs. That is the driver into the smith.
+  ELEVEN COINS ARE WORTH "a bad knife, or a good goat" (Hallvard). THE ORDER IS
+  DELIBERATE: Hallvard names the knife first because he is answering the question
+  Gaara did not ask, and the goat goes last because that is where the joke sits.
+  So the first thing reading ever tells him is that he is poor, and that he
+  cannot buy the blade he needs. That is the driver into the smith.
 
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
