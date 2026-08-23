@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 52.674 Woerter.
+Alle 4 Dokumente am Stueck. 53.498 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -179,11 +179,15 @@ The six (ch14, blooded ch15)
   backwards down an avenue without turning round, as ordered. Ask said nothing.
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
-- (ch19) YLVA IS THE COMPANION and it is her decision, announced at her dead
-  husband's anvil so that Gaara cannot be charming about it. Rulf's forge has
-  been cold nine years; she stood at the bellows for twenty and can weld a
-  share, set a tyre and edge a scythe, and will not attempt a blade. She takes
-  half of everything he brings out of the city. She is a Level 8 who has never
+- (ch19) YLVA IS THE COMPANION and it is her decision, announced at Rulf's
+  anvil so that Gaara cannot be charming about it. RULF IS NOT ESTABLISHED AS
+  HER HUSBAND - correction, see the decisions.md entry on this, ch14 names him
+  her BROTHER-IN-LAW with a wife of his own, and he rode alive to the Wold to
+  report the gate. Whatever Rulf is to her (in-law by marriage to a husband
+  never named on the page), the forge is his and has been cold nine years; she
+  stood at the bellows for twenty and can weld a share, set a tyre and edge a
+  scythe, and will not attempt a blade. She takes half of everything he brings
+  out of the city. She is a Level 8 who has never
   been further than the Wold.
 - (ch19) BERN GIVES THE BEST NOTE IN THE BOOK from a bench with one leg: the
   doctrine says how to win and nothing about when it goes wrong, and he did not
@@ -683,6 +687,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Rulf is not established as dead, and I had invented that he was ===
+Found while answering two author questions (the naming-39-companies line, and
+what success would cost Ordulf), not by deliberate audit, which is itself worth
+noting - it means checking one claim surfaced an unrelated one nearby.
+ch14 IS EXPLICIT AND I HAD NOT REREAD IT CAREFULLY ENOUGH: Rulf is Ylva's
+BROTHER-IN-LAW, has a wife who is not Ylva, and rode ALIVE to the Wold to
+report the gate. My own documents (cast.md, story-bible.md, decisions.md) had
+him as her DEAD HUSBAND who "paid for that metal with his life", which is not
+in any chapter. ch23's actual line - Ylva relaying Ordulf's words - only says
+"Rulf paid for it", which the chapter leaves deliberately open. I closed it
+myself, without warrant, across three documents, and have now reopened it.
+THIS ALSO RECONCILES A DETAIL THAT LOOKED LIKE A CONTRADICTION AND ISN'T: the
+forge went cold nine years ago (ch19) while Rulf rode off alive a week ago
+(ch14). Read straight, these fit one biography - he stopped smithing nine
+years back for some unstated reason and has since become the man who rides to
+report things to the lord's man, which is exactly what he does in ch14.
+LEFT OPEN, FOR THE AUTHOR: what Rulf actually paid, if not his life, and
+whether he is currently findable in the Wold, since he rode there and Gaara's
+party has been there since ch21. Neither is decided. Ordulf's line in ch23
+needs neither answer to keep working.
+
+
 === Runa is the woman who hired the Level 3 man ===
 Author, closing a question he asked in prose: is he drawn to Runa because he
 smelled money on her? Checked the text first rather than guessing - nothing
@@ -980,7 +1006,7 @@ and what he draws is TWO STROKES, ONE OVER THE OTHER, A GATE HALF UP. "That is
 not much of a mark." "No. It is eighteen inches."
 ORDULF REFUSES OFFSTAGE and the refusal is moral, not commercial, which is a far
 better wall than the guild one I had invented and the author removed. Rulf paid
-for that metal with his life and Ordulf will not be the man who buys a second
+for that metal, whatever exactly that meant, and Ordulf will not be the man who buys a second
 one. That is ch23.
 ARITHMETIC CHECKED, because this book counts: eleven into town, two to the Roll,
 nine at first light, four earned by midday, eleven to the Staple, two left and
@@ -1081,7 +1107,7 @@ vouching and the vouching legitimises the metal.
 TWO GUARDRAILS. No invented barrier about her being a woman: this world has none
 anywhere else and inventing one would contradict Marit, Aldis and Solva. And her
 touch is hers to choose, because a touch is personal and does not pass from a
-dead husband, which makes it the first thing she owns that did not come from
+a family member's, which makes it the first thing she owns that did not come from
 Rulf. Gaara does not get to suggest it.
 
 
@@ -3768,6 +3794,52 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     when the pressure rises: the moment he needs a level badly, the cheapest
     place to get one is to stop teaching.
 
+=== 6d. RULF: WHAT THE DOCUMENTS INVENTED, AND WHAT THE CHAPTERS ACTUALLY SAY ===
+
+FOUND WHILE ANSWERING AN AUTHOR QUESTION, not by design, and it is a real gap
+between what the canon chapters say and what my own analysis documents had been
+asserting for several turns.
+
+WHAT ch14 ACTUALLY SAYS, in Marit's own words, and it is canon:
+  "Rulf's horse is gone. And Rulf with it." / "Who is Rulf." / "Ylva's
+  brother-in-law. He was at the back of the road this morning, shouting about
+  the lord. He went east at dusk, and his wife says he took a bag and the good
+  coat."
+SO: Rulf is Ylva's BROTHER-IN-LAW, HAS A WIFE WHO IS NOT YLVA, and he rode ALIVE
+to the Wold two days before ch14 ends, specifically to report the gate to the
+lord's man.
+
+WHAT ch19 SAYS, and it is also canon and does not conflict with the above once
+read carefully: the forge and anvil are "Rulf's". "He went down with Aldis and
+came back. Then he went down again." Cold nine years. Ylva will not draw a
+blade and sends Gaara to Ordulf instead. "Rulf knew it. It is why he went the
+second time." NONE OF THIS STATES HE DIED. It states the forge went cold nine
+years ago, which is compatible with Rulf being alive and simply no longer
+smithing - which fits ch14 perfectly, since a man who stopped working the forge
+nine years ago and has since become the village's default contact with
+authority (the one who instinctively rides to report to the lord's man) is a
+coherent single biography, not two people.
+
+WHAT I INVENTED, WITHOUT WARRANT, ACROSS THREE DOCUMENTS: that Rulf was Ylva's
+DEAD HUSBAND, and that he "paid for that metal with his life". Neither claim
+is in any chapter. ch23's actual line ("the last time somebody brought him
+metal out of that city it was Rulf, and Rulf paid for it") is Ylva reporting
+Ordulf's words secondhand and is DELIBERATELY AMBIGUOUS in the chapter itself -
+it commits to nothing about death. I over-specified it in the surrounding
+documents and that has now been corrected back to the chapter's own ambiguity
+in cast.md, this file, and decisions.md.
+
+TWO THINGS THIS OPENS, NEITHER DECIDED, BOTH FOR THE AUTHOR:
+  1  WHAT DID RULF PAY, IF NOT HIS LIFE. Money, a horse, a hand, his nerve, his
+     standing as a smith, something owed to Ordulf directly. Any of these keeps
+     ch23's Ordulf line exactly as strong and does not require a death.
+  2  RULF MAY BE PHYSICALLY IN THE WOLD RIGHT NOW. He rode there in ch14 to
+     report to the lord's man, and Gaara's party has been in the Wold since
+     ch21. Nobody has connected these on the page. If Rulf is alive, this is a
+     live thread and possibly a scene, not a loose end to tidy away.
+  UNTIL THE AUTHOR RULES ON EITHER, WRITE RULF'S FATE AS UNKNOWN AND DO NOT
+  KILL HIM IN A DOCUMENT. Ordulf's caution in ch23 works unchanged either way.
+
 === 6c. THE WOLD: WHERE TALK EARNS, AND WHAT IT COSTS ===
 
 Worked out for ch21. The prices are canon once written; the ranking is the
@@ -3844,7 +3916,7 @@ KEEPS, which is the one administrative habit that survived.
     ch14 with everybody else. The barriers are outsider, no apprenticeship
     served here, and nobody to speak for her.
   - HER OWN TOUCH IS THE SCENE. A touch is personal and does not pass from a
-    dead husband, so Rulf's is not hers and she has to choose one. IT WOULD BE
+    a family member's, so Rulf's is not hers and she has to choose one. IT WOULD BE
     THE FIRST THING IN THIS BOOK SHE OWNS THAT DID NOT COME FROM HIM. Do not
     let Gaara suggest it.
 

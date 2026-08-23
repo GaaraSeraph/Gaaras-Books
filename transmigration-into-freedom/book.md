@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 50.448 Woerter.
+23 Kapitel. 50.449 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -30,7 +30,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
-| 23 | Chapter 23: Two Coins Short | 2.488 |
+| 23 | Chapter 23: Two Coins Short | 2.489 |
 
 ---
 
@@ -5190,7 +5190,7 @@ Gaara sat down with a slate and a piece of chalk in a room that smelled of dust 
 
 "Wonderful. So there is a version of this where I fail to draw a shape and have to sleep on it, and that is a thing that has happened to other men, in this room, in front of you."
 
-He had named thirty-nine companies for other people. He had sat in rooms while men who were paid more than him argued for whole afternoons about the angle of a letter. He had thought all of it was theatre, and he had said so, out loud, more than once, to people who could have fired him.
+He had sat through it thirty-nine times over, in one company or another, while men paid more than him argued for whole afternoons about the angle of a letter on somebody else's sign. He had thought all of it was theatre, and had said so out loud, more than once, to people who could have fired him.
 
 Now it was his and the chalk was in his hand and it was not theatre at all.
 

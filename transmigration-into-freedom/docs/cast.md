@@ -162,11 +162,15 @@ The six (ch14, blooded ch15)
   backwards down an avenue without turning round, as ordered. Ask said nothing.
   Sivert was left behind for his arm and told so by somebody else, kindly, on
   Gaara's instruction.
-- (ch19) YLVA IS THE COMPANION and it is her decision, announced at her dead
-  husband's anvil so that Gaara cannot be charming about it. Rulf's forge has
-  been cold nine years; she stood at the bellows for twenty and can weld a
-  share, set a tyre and edge a scythe, and will not attempt a blade. She takes
-  half of everything he brings out of the city. She is a Level 8 who has never
+- (ch19) YLVA IS THE COMPANION and it is her decision, announced at Rulf's
+  anvil so that Gaara cannot be charming about it. RULF IS NOT ESTABLISHED AS
+  HER HUSBAND - correction, see the decisions.md entry on this, ch14 names him
+  her BROTHER-IN-LAW with a wife of his own, and he rode alive to the Wold to
+  report the gate. Whatever Rulf is to her (in-law by marriage to a husband
+  never named on the page), the forge is his and has been cold nine years; she
+  stood at the bellows for twenty and can weld a share, set a tyre and edge a
+  scythe, and will not attempt a blade. She takes half of everything he brings
+  out of the city. She is a Level 8 who has never
   been further than the Wold.
 - (ch19) BERN GIVES THE BEST NOTE IN THE BOOK from a bench with one leg: the
   doctrine says how to win and nothing about when it goes wrong, and he did not

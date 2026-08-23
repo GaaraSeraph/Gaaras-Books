@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Rulf is not established as dead, and I had invented that he was ===
+Found while answering two author questions (the naming-39-companies line, and
+what success would cost Ordulf), not by deliberate audit, which is itself worth
+noting - it means checking one claim surfaced an unrelated one nearby.
+ch14 IS EXPLICIT AND I HAD NOT REREAD IT CAREFULLY ENOUGH: Rulf is Ylva's
+BROTHER-IN-LAW, has a wife who is not Ylva, and rode ALIVE to the Wold to
+report the gate. My own documents (cast.md, story-bible.md, decisions.md) had
+him as her DEAD HUSBAND who "paid for that metal with his life", which is not
+in any chapter. ch23's actual line - Ylva relaying Ordulf's words - only says
+"Rulf paid for it", which the chapter leaves deliberately open. I closed it
+myself, without warrant, across three documents, and have now reopened it.
+THIS ALSO RECONCILES A DETAIL THAT LOOKED LIKE A CONTRADICTION AND ISN'T: the
+forge went cold nine years ago (ch19) while Rulf rode off alive a week ago
+(ch14). Read straight, these fit one biography - he stopped smithing nine
+years back for some unstated reason and has since become the man who rides to
+report things to the lord's man, which is exactly what he does in ch14.
+LEFT OPEN, FOR THE AUTHOR: what Rulf actually paid, if not his life, and
+whether he is currently findable in the Wold, since he rode there and Gaara's
+party has been there since ch21. Neither is decided. Ordulf's line in ch23
+needs neither answer to keep working.
+
+
 === Runa is the woman who hired the Level 3 man ===
 Author, closing a question he asked in prose: is he drawn to Runa because he
 smelled money on her? Checked the text first rather than guessing - nothing
@@ -300,7 +322,7 @@ and what he draws is TWO STROKES, ONE OVER THE OTHER, A GATE HALF UP. "That is
 not much of a mark." "No. It is eighteen inches."
 ORDULF REFUSES OFFSTAGE and the refusal is moral, not commercial, which is a far
 better wall than the guild one I had invented and the author removed. Rulf paid
-for that metal with his life and Ordulf will not be the man who buys a second
+for that metal, whatever exactly that meant, and Ordulf will not be the man who buys a second
 one. That is ch23.
 ARITHMETIC CHECKED, because this book counts: eleven into town, two to the Roll,
 nine at first light, four earned by midday, eleven to the Staple, two left and
@@ -401,7 +423,7 @@ vouching and the vouching legitimises the metal.
 TWO GUARDRAILS. No invented barrier about her being a woman: this world has none
 anywhere else and inventing one would contradict Marit, Aldis and Solva. And her
 touch is hers to choose, because a touch is personal and does not pass from a
-dead husband, which makes it the first thing she owns that did not come from
+a family member's, which makes it the first thing she owns that did not come from
 Rulf. Gaara does not get to suggest it.
 
 
