@@ -472,6 +472,12 @@ Fassung.**
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
 
+- **Chairman Woos sieben Jahre.** Zugesagt am 9. April, dasselbe Papier wie die
+  Ankerladung, gezeichnet vom selben Anwalt. **Muss im Text tatsaechlich
+  gezeichnet werden** und darf nicht als Absichtserklaerung verdunsten. Und:
+  Georgij hat die Schuld ausdruecklich **nicht** getilgt - *"Then you still have
+  the three hours."* Sie steht weiter offen und ist damit weiter verfuegbar.
+
 - **Jang, drei Tage ab dem 3. April.** Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
   Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
@@ -565,6 +571,20 @@ Fassung.**
   denselben zwei Sekunden begreifen, dass jemand die Seite, die Woche und sie
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
+
+- **Der Januar-Fund, Band 2, Kapitel 13. Das ist der bisher groesste Schritt zum
+  Versender und er hat kein Datum.** In der ersten Januarwoche, bei einem
+  Hafenbehoerden-Essen, fragt ein Mann Chairman Woo nach der Ulsan-Spur und nach
+  Nam Byung-hee. Damals war auf der Spur **noch nichts passiert.**
+
+  **Also hat er nicht nach jemandem gesucht, dem etwas angetan wurde, sondern
+  nach der Person, der es gleich angetan werden wuerde.** Und dafuer musste er
+  im Januar wissen, was im Dezember unterschrieben wurde, binnen vierzehn Tagen
+  nach der Unterschrift. **Das ist eine sehr kurze Liste.**
+
+  **Was Woo liefern kann und was nicht:** keinen Namen, weil der Mann nichts von
+  ihm wollte. Aber **die fuenf anderen am Tisch**, und Woos Beobachtung, dass der
+  Mann sich fuer das Wort *ehrlich* auffallend interessiert hat.
 
 - **Die vierte Zeile, die nie berechnet wurde.** Annie am 24. Maerz: *"That is
   the one I want."* Mrs Sunwoo hat dazu geliefert, dass der Betrug **aelter ist

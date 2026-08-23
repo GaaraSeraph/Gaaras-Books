@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 102.749 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 104.256 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2153,7 +2153,14 @@ nachrechnen, und `check.py` tut das automatisch.
   nichts zu berichten, und Annie sieht ihn deshalb an. Sie versucht es ihm
   abzunehmen und laesst ihn dann von der Leine: **der Deckel vom 11. Maerz ist
   aufgehoben.** Ihr Gegenwert sind die fuenf uebrigen Firmen der Spur. Danach
-  Jang an den Garagen (Band 2, Kapitel 12)
+  Jang im Pfoertnerhaus (Band 2, Kapitel 12)
+- Tag 187, Mi 8. April: Jang liefert zwei Tage frueh. Sechs Firmen, wovor jede
+  Angst hat, und wem sie folgen wuerden. **Vier von fuenf nennen denselben Mann,
+  und es ist nicht Nam** (Band 2, Kapitel 13)
+- Tag 188, Do 9. April: **Yeongjong.** Er bittet Chairman Woo zum ersten Mal um
+  etwas - und baut es so, dass es Woo nichts kostet, **damit die Schuld stehen
+  bleibt.** Woo macht daraus sieben Jahre. Und gibt ungefragt den Januar-Fund
+  her (Band 2, Kapitel 13)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2885,6 +2892,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und Jang bietet die dritte Sorte von selbst an**, weil sie sonst im Kopf statt im Raum waere: drei Maenner, zwei davon aus seinem eigenen Fach. *"They are people who go and stand in front of somebody, and that is a different trade, and it works about half the time and the other half it makes everything worse for a year."* Georgij: **"Not yet."** - *"He did not say no. Jang heard him not say it."*
 
   **Und die einzige Frage, die ein Sicherheitsmann stellt:** *"Is any part of this going to arrive at that gate."* Antwort: die eigenen sechs nehmen es ihr ab, sie werden im Recht sein und es fuer ihre eigene Idee halten, **und eine Frau, die alles an die Leute verloren hat, an die sie zwanzig Jahre lang am Ersten geschrieben hat, faehrt nicht vier Stunden an ein Tor. Sie geht nach Hause.** - **"That is worse," he said.** - *"Yes."*
+
+- **Band 2, Kapitel 13** *What it costs him* (v1.0) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
+
+  **Jangs vier Blatt sind der Beweis, dass die Maschine laeuft**, und sie sind konkret: ein Sohn an einer Universitaet in Australien und sieben Monate Restlaufzeit auf einem Kredit gegen den Hof; ein Teilhaber, der seit dem Tod seiner Frau heraus will und nur bleibt, weil es niemanden zum Verkaufen gibt; zwei Brueder, die seit 2019 nicht miteinander reden und beide mit der Frau des Juengeren; einer, der seit Februar still Arbeit von der Spur nimmt; ein Mann von vierzig, der die Firma im Herbst uebernommen hat und seither in keiner Sitzung ein Wort gesagt hat.
+
+  **Und der eigentliche Fund ist die Trennung zweier Fragen**, die Jang selbst benennt: *"You asked for what they are afraid of, which is the hard half, and then you asked who they would follow, which is the half people get wrong."* **Vier von fuenf wuerden demselben Mann folgen, und es ist der mit neun Lastwagen und ohne Schulden, und es ist nicht Nam Byung-hee.**
+
+  **Dazu zwei Dinge, um die niemand gebeten hat.** Keine der sechs ist Annie oder irgendjemandem aus dem Haus je begegnet, zweimal geprueft. Und vor dem Hof in Ulsan sitzt seit Montag jemand, der einen Grund hat, auf der Strasse zu sein, und von jemandem in Busan bezahlt wird, der glaubt, es gehe um etwas anderes.
+
+  **Yeongjong ist die erste Bitte auf eigene Rechnung in zwei Baenden**, und sie kostet ihn genau das, wofuer sie gebaut ist. **Georgij baut sie so, dass sie Woo nichts kostet** - fuenf Firmen, Bodenpreis, und ein Makler in Busan mit zwoelf Prozent, der Woo seit 2021 aergert. **Nicht aus Anstand, sondern damit die Schuld stehen bleibt.** Eine Bitte, die den anderen nichts kostet, tilgt nichts.
+
+  **Woo sieht es binnen einer Minute und benennt es**, und die Stelle ist die haerteste, die er im Buch bekommt: *"You are not going to let me pay you back."* - **"No," said Georgij.** - *"Some men would call that a very cold way to treat somebody who likes them."* - *"Yes."* - *"Are you going to tell me it is not."* - **"No."**
+
+  **Und die Begruendung ist die einzige weiche Stelle des Kapitels und sie ist wahr:** *"You are the only man in this country who has ever talked to me for three hours without wanting anything at the end of it. I am not going to spend that on a lane."*
+
+  **Er sagt Woo, wofuer es ist, ungeordnet und ohne Federung, und er benutzt das Wort *finished*** - *"He did not use any of the softer ones and there are four or five available."* Die vierzig kommen unter, **der Neffe namentlich**, und *"I will know it has happened because I will ask."* Auf *"And her."*: **"Her nothing."**
+
+  **Woo ist nicht erschuettert und sagt auch, warum nicht:** *"I am seventy-five. I have finished four men in my life and I remember the names of all four and two of them deserved it."*
+
+  **Und statt eines Gefallens macht er ein Geschaeft: sieben Jahre, dasselbe Papier wie die Ankerladung.** *"You came here to ask me for something you thought I owed you. What you are getting instead is a customer, and I would like that on the record, because I know exactly what you are doing and I am going to let you do it."* Danach: **"Then you still have the three hours."** - *"I still have the three hours."*
+
+  **Der Januar-Fund, ungefragt am Wagen, wie im Oktober.** Bei einem Hafenbehoerden-Essen in der ersten Januarwoche hat ein Mann Woo gefragt, ob er die Ulsan-Zubringerspur je benutzt habe und was er von der Frau halte, die den Verband fuehrt - *"the way you ask about a house you are thinking of buying."* Woo hat gesagt, sie sei **ehrlich** und die Spur zu klein, **und der Mann war an dem Wort *ehrlich* sehr interessiert.** Keinen Namen, weil der Mann nichts wollte. Aber die fuenf anderen am Tisch.
+
+  **Und daraus der Schluss auf der Bruecke, der den Band vergroessert:** im Januar war auf der Spur noch nichts. Niemand war verletzt, niemand hatte sich beschwert. **Also suchte er nicht jemanden, dem etwas angetan worden war, sondern die Person, der es gleich angetan werden wuerde** - und dafuer musste er in der ersten Januarwoche wissen, was im Dezember in einem Zimmer in Seoul unterschrieben worden war, **und zwar binnen vierzehn Tagen nach der Unterschrift.**
+
+  Letzte Zeile: **"That is a very short list as well."**
 
 ---
 
@@ -4335,6 +4368,12 @@ Fassung.**
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
 
+- **Chairman Woos sieben Jahre.** Zugesagt am 9. April, dasselbe Papier wie die
+  Ankerladung, gezeichnet vom selben Anwalt. **Muss im Text tatsaechlich
+  gezeichnet werden** und darf nicht als Absichtserklaerung verdunsten. Und:
+  Georgij hat die Schuld ausdruecklich **nicht** getilgt - *"Then you still have
+  the three hours."* Sie steht weiter offen und ist damit weiter verfuegbar.
+
 - **Jang, drei Tage ab dem 3. April.** Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
   Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
@@ -4428,6 +4467,20 @@ Fassung.**
   denselben zwei Sekunden begreifen, dass jemand die Seite, die Woche und sie
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
+
+- **Der Januar-Fund, Band 2, Kapitel 13. Das ist der bisher groesste Schritt zum
+  Versender und er hat kein Datum.** In der ersten Januarwoche, bei einem
+  Hafenbehoerden-Essen, fragt ein Mann Chairman Woo nach der Ulsan-Spur und nach
+  Nam Byung-hee. Damals war auf der Spur **noch nichts passiert.**
+
+  **Also hat er nicht nach jemandem gesucht, dem etwas angetan wurde, sondern
+  nach der Person, der es gleich angetan werden wuerde.** Und dafuer musste er
+  im Januar wissen, was im Dezember unterschrieben wurde, binnen vierzehn Tagen
+  nach der Unterschrift. **Das ist eine sehr kurze Liste.**
+
+  **Was Woo liefern kann und was nicht:** keinen Namen, weil der Mann nichts von
+  ihm wollte. Aber **die fuenf anderen am Tisch**, und Woos Beobachtung, dass der
+  Mann sich fuer das Wort *ehrlich* auffallend interessiert hat.
 
 - **Die vierte Zeile, die nie berechnet wurde.** Annie am 24. Maerz: *"That is
   the one I want."* Mrs Sunwoo hat dazu geliefert, dass der Betrug **aelter ist
@@ -5437,9 +5490,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
+| Chairman Woo | 138 | 25 (b1ch07-b2ch13) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
-| Jang | 72 | 17 (b1ch05-b2ch12) | 3 | 60 |
+| Jang | 75 | 18 (b1ch05-b2ch13) | 3 | 60 |
 | Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -5449,7 +5502,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Sunwoo | 19 | 7 (b1ch07-b2ch12) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
-| Nam Byung-hee | 12 | 3 (b2ch03-b2ch11) | 1 | 56 |
+| Nam Byung-hee | 14 | 4 (b2ch03-b2ch13) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -6246,7 +6299,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-124 Nennungen in 24 Kapiteln.
+138 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6374,6 +6427,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 | 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in October as well. |
+| 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
+| 9 | b2ch13:84 | Woo did not answer for a moment. |
+| 9 | b2ch13:102 | Woo sat back and looked at him. |
+| 9 | b2ch13:126 | Woo did not say anything for a while. |
+| 9 | b2ch13:144 | "That is either the most honest thing anybody has said to me this year or it is the most.. |
+| 9 | b2ch13:150 | "Now tell me what it is for," said Woo, "because five firms do not need work in the midd.. |
+| 9 | b2ch13:162 | Woo listened to the whole of it without moving. |
+| 9 | b2ch13:178 | "I am seventy-five," said Woo. "I have finished four men in my life and I remember the n.. |
+| 9 | b2ch13:184 | "Yes." Woo pulled a pad towards him. "Seven years." |
+| 9 | b2ch13:200 | At the car, at the end, Woo did the thing he did in October, which is to give away somet.. |
+| 9 | b2ch13:210 | "At a lunch. Six of us, one of those things the port authority does in the new year." Wo.. |
+| 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
+| 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -6448,6 +6515,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:98` (Tag ?) - four, two
 - `b1ch34:46` (Tag 46) - seven, two
 - `b2ch11:146` (Tag 1) - three
+- `b2ch13:72` (Tag 9) - three
+- `b2ch13:144` (Tag 9) - twenty-four
+- `b2ch13:150` (Tag 9) - five, one
+- `b2ch13:178` (Tag 9) - four, four and two, seventy-five
+- `b2ch13:184` (Tag 9) - seven
+- `b2ch13:210` (Tag 9) - one, six
+- `b2ch13:234` (Tag 9) - fifteen, five
 
 ---
 
@@ -6619,7 +6693,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-72 Nennungen in 17 Kapiteln.
+75 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6695,6 +6769,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:354 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
 | 3 | b2ch12:370 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
 | 3 | b2ch12:390 | Jang thought about that for a moment and did not appear to enjoy it. |
+| 9 | b2ch13:6 | Jang came on the Wednesday, two days early, with a folder and no heading written on anyt.. |
+| 9 | b2ch13:38 | "You asked for what they are afraid of, which is the hard half, and then you asked who t.. |
+| 9 | b2ch13:46 | "None of the six has met your employer or anybody who works for her. Not at a function, .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6730,6 +6807,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
 - `b2ch12:324` (Tag 3) - ten
+- `b2ch13:6` (Tag 9) - two
+- `b2ch13:38` (Tag 9) - four, thirty
+- `b2ch13:46` (Tag 9) - six
 
 ---
 
@@ -7243,7 +7323,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Nam Byung-hee
 
-12 Nennungen in 3 Kapiteln.
+14 Nennungen in 4 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7259,6 +7339,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
 | 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
 | 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
+| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
+| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -7267,6 +7349,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch08:104` (Tag 9) - two
 - `b2ch08:272` (Tag 9) - twenty
 - `b2ch11:240` (Tag 1) - nine
+- `b2ch13:24` (Tag 9) - four, one
+- `b2ch13:32` (Tag 9) - five, four, nine
 
 ---
 

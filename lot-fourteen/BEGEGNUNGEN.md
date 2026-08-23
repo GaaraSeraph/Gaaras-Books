@@ -20,9 +20,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
+| Chairman Woo | 138 | 25 (b1ch07-b2ch13) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
-| Jang | 72 | 17 (b1ch05-b2ch12) | 3 | 60 |
+| Jang | 75 | 18 (b1ch05-b2ch13) | 3 | 60 |
 | Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -32,7 +32,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Sunwoo | 19 | 7 (b1ch07-b2ch12) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
-| Nam Byung-hee | 12 | 3 (b2ch03-b2ch11) | 1 | 56 |
+| Nam Byung-hee | 14 | 4 (b2ch03-b2ch13) | 1 | 56 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
@@ -829,7 +829,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-124 Nennungen in 24 Kapiteln.
+138 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -957,6 +957,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 | 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in October as well. |
+| 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
+| 9 | b2ch13:84 | Woo did not answer for a moment. |
+| 9 | b2ch13:102 | Woo sat back and looked at him. |
+| 9 | b2ch13:126 | Woo did not say anything for a while. |
+| 9 | b2ch13:144 | "That is either the most honest thing anybody has said to me this year or it is the most.. |
+| 9 | b2ch13:150 | "Now tell me what it is for," said Woo, "because five firms do not need work in the midd.. |
+| 9 | b2ch13:162 | Woo listened to the whole of it without moving. |
+| 9 | b2ch13:178 | "I am seventy-five," said Woo. "I have finished four men in my life and I remember the n.. |
+| 9 | b2ch13:184 | "Yes." Woo pulled a pad towards him. "Seven years." |
+| 9 | b2ch13:200 | At the car, at the end, Woo did the thing he did in October, which is to give away somet.. |
+| 9 | b2ch13:210 | "At a lunch. Six of us, one of those things the port authority does in the new year." Wo.. |
+| 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
+| 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1031,6 +1045,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:98` (Tag ?) - four, two
 - `b1ch34:46` (Tag 46) - seven, two
 - `b2ch11:146` (Tag 1) - three
+- `b2ch13:72` (Tag 9) - three
+- `b2ch13:144` (Tag 9) - twenty-four
+- `b2ch13:150` (Tag 9) - five, one
+- `b2ch13:178` (Tag 9) - four, four and two, seventy-five
+- `b2ch13:184` (Tag 9) - seven
+- `b2ch13:210` (Tag 9) - one, six
+- `b2ch13:234` (Tag 9) - fifteen, five
 
 ---
 
@@ -1202,7 +1223,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-72 Nennungen in 17 Kapiteln.
+75 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1278,6 +1299,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:354 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
 | 3 | b2ch12:370 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
 | 3 | b2ch12:390 | Jang thought about that for a moment and did not appear to enjoy it. |
+| 9 | b2ch13:6 | Jang came on the Wednesday, two days early, with a folder and no heading written on anyt.. |
+| 9 | b2ch13:38 | "You asked for what they are afraid of, which is the hard half, and then you asked who t.. |
+| 9 | b2ch13:46 | "None of the six has met your employer or anybody who works for her. Not at a function, .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1313,6 +1337,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
 - `b2ch12:324` (Tag 3) - ten
+- `b2ch13:6` (Tag 9) - two
+- `b2ch13:38` (Tag 9) - four, thirty
+- `b2ch13:46` (Tag 9) - six
 
 ---
 
@@ -1826,7 +1853,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Nam Byung-hee
 
-12 Nennungen in 3 Kapiteln.
+14 Nennungen in 4 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1842,6 +1869,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:208 | Nam Byung-hee sat down at some point during the fourth sentence and he did not stop for .. |
 | 1 | b2ch11:240 | "That is the most honest sentence anybody has said in this office in nine years," said N.. |
 | 1 | b2ch11:272 | Nam Byung-hee did not write to anybody that week, or the next. |
+| 9 | b2ch13:24 | And one is Nam Byung-hee, who has four trucks and a nephew. |
+| 9 | b2ch13:32 | Four of the five names were the same name, and it was the man with nine trucks and no de.. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 
@@ -1850,6 +1879,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch08:104` (Tag 9) - two
 - `b2ch08:272` (Tag 9) - twenty
 - `b2ch11:240` (Tag 1) - nine
+- `b2ch13:24` (Tag 9) - four, one
+- `b2ch13:32` (Tag 9) - five, four, nine
 
 ---
 

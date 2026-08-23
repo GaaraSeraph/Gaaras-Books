@@ -125,7 +125,14 @@ nachrechnen, und `check.py` tut das automatisch.
   nichts zu berichten, und Annie sieht ihn deshalb an. Sie versucht es ihm
   abzunehmen und laesst ihn dann von der Leine: **der Deckel vom 11. Maerz ist
   aufgehoben.** Ihr Gegenwert sind die fuenf uebrigen Firmen der Spur. Danach
-  Jang an den Garagen (Band 2, Kapitel 12)
+  Jang im Pfoertnerhaus (Band 2, Kapitel 12)
+- Tag 187, Mi 8. April: Jang liefert zwei Tage frueh. Sechs Firmen, wovor jede
+  Angst hat, und wem sie folgen wuerden. **Vier von fuenf nennen denselben Mann,
+  und es ist nicht Nam** (Band 2, Kapitel 13)
+- Tag 188, Do 9. April: **Yeongjong.** Er bittet Chairman Woo zum ersten Mal um
+  etwas - und baut es so, dass es Woo nichts kostet, **damit die Schuld stehen
+  bleibt.** Woo macht daraus sieben Jahre. Und gibt ungefragt den Januar-Fund
+  her (Band 2, Kapitel 13)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -857,6 +864,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und Jang bietet die dritte Sorte von selbst an**, weil sie sonst im Kopf statt im Raum waere: drei Maenner, zwei davon aus seinem eigenen Fach. *"They are people who go and stand in front of somebody, and that is a different trade, and it works about half the time and the other half it makes everything worse for a year."* Georgij: **"Not yet."** - *"He did not say no. Jang heard him not say it."*
 
   **Und die einzige Frage, die ein Sicherheitsmann stellt:** *"Is any part of this going to arrive at that gate."* Antwort: die eigenen sechs nehmen es ihr ab, sie werden im Recht sein und es fuer ihre eigene Idee halten, **und eine Frau, die alles an die Leute verloren hat, an die sie zwanzig Jahre lang am Ersten geschrieben hat, faehrt nicht vier Stunden an ein Tor. Sie geht nach Hause.** - **"That is worse," he said.** - *"Yes."*
+
+- **Band 2, Kapitel 13** *What it costs him* (v1.0) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
+
+  **Jangs vier Blatt sind der Beweis, dass die Maschine laeuft**, und sie sind konkret: ein Sohn an einer Universitaet in Australien und sieben Monate Restlaufzeit auf einem Kredit gegen den Hof; ein Teilhaber, der seit dem Tod seiner Frau heraus will und nur bleibt, weil es niemanden zum Verkaufen gibt; zwei Brueder, die seit 2019 nicht miteinander reden und beide mit der Frau des Juengeren; einer, der seit Februar still Arbeit von der Spur nimmt; ein Mann von vierzig, der die Firma im Herbst uebernommen hat und seither in keiner Sitzung ein Wort gesagt hat.
+
+  **Und der eigentliche Fund ist die Trennung zweier Fragen**, die Jang selbst benennt: *"You asked for what they are afraid of, which is the hard half, and then you asked who they would follow, which is the half people get wrong."* **Vier von fuenf wuerden demselben Mann folgen, und es ist der mit neun Lastwagen und ohne Schulden, und es ist nicht Nam Byung-hee.**
+
+  **Dazu zwei Dinge, um die niemand gebeten hat.** Keine der sechs ist Annie oder irgendjemandem aus dem Haus je begegnet, zweimal geprueft. Und vor dem Hof in Ulsan sitzt seit Montag jemand, der einen Grund hat, auf der Strasse zu sein, und von jemandem in Busan bezahlt wird, der glaubt, es gehe um etwas anderes.
+
+  **Yeongjong ist die erste Bitte auf eigene Rechnung in zwei Baenden**, und sie kostet ihn genau das, wofuer sie gebaut ist. **Georgij baut sie so, dass sie Woo nichts kostet** - fuenf Firmen, Bodenpreis, und ein Makler in Busan mit zwoelf Prozent, der Woo seit 2021 aergert. **Nicht aus Anstand, sondern damit die Schuld stehen bleibt.** Eine Bitte, die den anderen nichts kostet, tilgt nichts.
+
+  **Woo sieht es binnen einer Minute und benennt es**, und die Stelle ist die haerteste, die er im Buch bekommt: *"You are not going to let me pay you back."* - **"No," said Georgij.** - *"Some men would call that a very cold way to treat somebody who likes them."* - *"Yes."* - *"Are you going to tell me it is not."* - **"No."**
+
+  **Und die Begruendung ist die einzige weiche Stelle des Kapitels und sie ist wahr:** *"You are the only man in this country who has ever talked to me for three hours without wanting anything at the end of it. I am not going to spend that on a lane."*
+
+  **Er sagt Woo, wofuer es ist, ungeordnet und ohne Federung, und er benutzt das Wort *finished*** - *"He did not use any of the softer ones and there are four or five available."* Die vierzig kommen unter, **der Neffe namentlich**, und *"I will know it has happened because I will ask."* Auf *"And her."*: **"Her nothing."**
+
+  **Woo ist nicht erschuettert und sagt auch, warum nicht:** *"I am seventy-five. I have finished four men in my life and I remember the names of all four and two of them deserved it."*
+
+  **Und statt eines Gefallens macht er ein Geschaeft: sieben Jahre, dasselbe Papier wie die Ankerladung.** *"You came here to ask me for something you thought I owed you. What you are getting instead is a customer, and I would like that on the record, because I know exactly what you are doing and I am going to let you do it."* Danach: **"Then you still have the three hours."** - *"I still have the three hours."*
+
+  **Der Januar-Fund, ungefragt am Wagen, wie im Oktober.** Bei einem Hafenbehoerden-Essen in der ersten Januarwoche hat ein Mann Woo gefragt, ob er die Ulsan-Zubringerspur je benutzt habe und was er von der Frau halte, die den Verband fuehrt - *"the way you ask about a house you are thinking of buying."* Woo hat gesagt, sie sei **ehrlich** und die Spur zu klein, **und der Mann war an dem Wort *ehrlich* sehr interessiert.** Keinen Namen, weil der Mann nichts wollte. Aber die fuenf anderen am Tisch.
+
+  **Und daraus der Schluss auf der Bruecke, der den Band vergroessert:** im Januar war auf der Spur noch nichts. Niemand war verletzt, niemand hatte sich beschwert. **Also suchte er nicht jemanden, dem etwas angetan worden war, sondern die Person, der es gleich angetan werden wuerde** - und dafuer musste er in der ersten Januarwoche wissen, was im Dezember in einem Zimmer in Seoul unterschrieben worden war, **und zwar binnen vierzehn Tagen nach der Unterschrift.**
+
+  Letzte Zeile: **"That is a very short list as well."**
 
 ---
 
