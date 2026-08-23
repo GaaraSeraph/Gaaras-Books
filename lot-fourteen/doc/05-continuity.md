@@ -1433,7 +1433,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.1) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.2) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -1447,9 +1447,11 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und dann kommt ihre Nacht, und sie ist die genaueste Stelle im Kapitel.** Neun Minuten nach elf sagte man ihr, sie solle den Schalter offen halten, es komme noch eine Verrechnung. **Sie sass bis Mitternacht. Es kam niemand.** Am Morgen hiess es, es sei ueber das Buero gelaufen. *"I have been in settlement for twenty-three years and that is the only night I have ever been told to wait for something that did not exist."*
 
-  **Und dann legt sie den Anruf auf den Tisch, und er ist der Grund, warum sie ueberhaupt etwas von ihm will.** Am 10. April erfuhr sie, dass sie geht, **und niemand ausserhalb des Gebaeudes wusste das.** Am 28. April rief eine Firma aus Yeouido an. Sie ging hin, sass vor zwei ausgesucht hoeflichen Leuten, **und am Ende fragte sie, wer ihren Namen dort hingelegt hat, und sie bekam es nicht gesagt.**
+  **Und dann legt sie den Anruf auf den Tisch, und er ist der Grund, warum sie ueberhaupt etwas von ihm will.** Am 10. April erfuhr sie, dass sie geht, **und niemand ausserhalb des Gebaeudes wusste das.** Am 28. April rief eine Firma aus Yeouido an. **Es fehlte kein Name** - die Anruferin nannte ihren eigenen, ihre Durchwahl und das Haus, und sie sass danach zwei ausgesucht hoeflichen Leuten gegenueber. **Was fehlte, war der Weg:** am Ende fragte sie, wie ihr Name auf diesen Tisch gekommen ist, *"and then said that it had come through a contact."*
 
-  **Also nahm sie es nicht.** *"I have been in settlement for twenty-three years and I do not sign a thing that has a blank where the counterparty goes."* Und dann: **"It was you." - "Yes."**
+  **Also nahm sie es nicht, und ihr Grund ist ihr Beruf und nicht ihr Stolz:** *"A line that arrives in the book and nobody will say where it came from is the one thing I know how to be afraid of. I have been sitting on one of those since January, and I was not going to go and work inside a second one for a salary."* Und dann: **"It was you." - "Yes."**
+
+  **Korrigiert am 24.08. (v1.2).** Bis dahin stand hier, sie unterschreibe nichts, *"that has a blank where the counterparty goes"*. **Das war fachlich falsch und dramaturgisch duenn:** die Firma hatte einen Briefkopf, die Anruferin hatte sich vorgestellt, der Vertragspartner war vollstaendig da. Eine Frau mit dreiundzwanzig Jahren Settlement benutzt dieses Wort nicht falsch. **Die Leerstelle war nie ein Name, sondern eine Herkunft** - und damit ist ihre Absage dieselbe Form wie die vierte Zeile und nicht mehr eine Besessenheit mit Namen.
 
   **Das ist die erste wahre Auskunft, die sie seit Januar bekommt, und deshalb verlangt sie sofort die ganze:** *"Then you may have the rest of the question. You are somebody's. I could see that in March and I can see it now. Whose."*
 

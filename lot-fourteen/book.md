@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 64 Kapitel, 169.332 Woerter.
+2 Baende, 64 Kapitel, 169.448 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,7 +73,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 26 | v1.0 | 2.039 |
 | 2 | 27 | v1.2 | 2.034 |
 | 2 | 28 | v1.1 | 2.129 |
-| 2 | 29 | v1.1 | 2.334 |
+| 2 | 29 | v1.2 | 2.450 |
 | 2 | 30 | v1.0 | 2.052 |
 
 ---
@@ -19541,7 +19541,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -19725,21 +19725,23 @@ She put her hand flat on the cover again.
 
 ---
 
-"A firm in Yeouido rang me on the twenty-eighth of April," she said. "I had been told on the tenth that I was going, and nobody outside that building knew it. I went and sat in front of two people who were perfectly civil and had clearly been asked to be."
+"A firm in Yeouido rang me on the twenty-eighth of April," she said. "A Miss Heo, who gave me her name and her extension and the house she was ringing for, and who was perfectly civil and had clearly been asked to be. I went in and sat in front of two of them and they were civil as well."
 
 ---
 
-"And at the end you asked them who had put your name in front of them."
-
-"And they would not tell me."
+"And you did not take it."
 
 ---
 
-"So you did not take it."
+"I had been told on the tenth that I was going. It was not announced, there is no register anywhere with my name in it, and there is nobody in that building who would put himself out for me." Her hand had not come off the cover. "So at the end I asked them how my name had come to be on their table. The pleasant one looked at the other one first, and then said that it had come through a contact."
 
 ---
 
-"I did not take it. I have been in settlement for twenty-three years and I do not sign a thing that has a blank where the counterparty goes." Her hand stayed where it was. "It was you."
+Georgij put both hands on the edge of the table and left them there.
+
+---
+
+"Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and nobody will say where it came from is the one thing I know how to be afraid of. I have been sitting on one of those since January, and I was not going to go and work inside a second one for a salary." Her hand stayed where it was. "It was you."
 
 "Yes."
 
