@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 34.392 Woerter.
+Alle 4 Dokumente am Stueck. 34.974 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,31 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Nobody in this world is any good in bed, and that is a world rule ===
+Author: he expects clumsiness, especially from the inexperienced, which is
+everybody here except prostitutes.
+FILED AS WORLDBUILDING RATHER THAN PREFERENCE, in section 3 next to the
+technological level, because it is the same rule and I had only written half of
+it. Handwork survived because it has a workshop: a father shows a son at a
+forge. Nothing without a workshop survived. TECHNIQUE IS TRANSMITTED KNOWLEDGE
+AND THIS WORLD HAS NO TRANSMISSION, because nothing is written down, so nothing
+accumulates, so every generation starts from zero. It is the aqueduct sentence
+applied to a bedroom, and it makes the sex part of the thesis instead of a
+digression.
+AND IT EXPLAINS WHY HIS METHOD WORKS HERE. The four words, the kiss ladder,
+answering with slightly less: all three are machines for making the other
+person's inexperience not matter. He does not need them to know anything. He
+needs them to want something and say so. Three author instructions and a world
+rule have now converged on one design, which is how you know it is real.
+THE RULE FOR WRITING IT: clumsy, never ridiculous. He does not sneer, does not
+correct out loud, does not explain. ch20 already had Sivert rehearsing wrong for
+six days. ch13 now says it plainly of Marit and immediately says it did not
+matter, because what she had instead was appetite and no shame about it.
+PROSTITUTES ARE THE ONLY PRACTISED PEOPLE ALIVE and are therefore a knowledge
+store in a world with none. Unspent. Relevant the moment he reaches a town, and
+quietly relevant to a man whose whole plan is writing things down for money.
 
 
 === An orgasm is a receipt, and that is not a metaphor I reached for ===
@@ -2089,6 +2114,29 @@ know their own job and make them into one thing that works, which is exactly
 what he did from ch14 to ch17. The aqueduct stands unrepairable an hour up the
 road as a permanent statement of what is missing, and what is missing is not a
 technique.
+
+AND THE SMALL THINGS WENT TOO, WHICH IS THE HALF I NEARLY MISSED. Handwork
+survived because a father shows a son at a forge and a mother shows a daughter
+at a loom. NOTHING ELSE SURVIVED, because nothing else has a workshop.
+SO NOBODY IN THIS WORLD IS ANY GOOD IN BED (author, ch20 discussion). Not
+prudish, not reluctant, not ashamed. UNTAUGHT. There is no oral, no vocabulary,
+no idea that pace is a thing you could choose. Everybody has one move and got it
+from the back of a barn. The exception is prostitutes, who are the only people
+alive who do the same thing often enough to get better at it, and who are
+therefore a repository of knowledge in a world that has no repositories. That is
+worth remembering when he reaches a town.
+WHY THIS BELONGS TO THE THESIS AND IS NOT A JOKE: technique is TRANSMITTED
+knowledge, and this world has no transmission. Nothing is written down, so
+nothing accumulates, so every generation starts from nothing. It is the same
+sentence as the aqueduct. A civilisation that cannot keep a record cannot get
+better at anything, in any department, including that one.
+HOW TO WRITE PARTNERS: clumsy, and never made ridiculous. They go too fast, too
+hard, at the wrong place, with the wrong pressure, and they arrive with one
+rehearsed idea. Gaara never sneers, never corrects out loud and never explains,
+because he does not explain himself. HIS WHOLE METHOD IS BUILT FOR EXACTLY THIS.
+The four words, the kiss ladder, the answering with slightly less: every one of
+them is a way of making the other person's inexperience irrelevant. He does not
+need them to know anything. He needs them to want something and say so.
 
 GUARDRAIL, UNCHANGED AND NOW BETTER FOUNDED: no industrial anachronism. He never
 offhandedly builds a steam engine. He does not need to, and reaching for one

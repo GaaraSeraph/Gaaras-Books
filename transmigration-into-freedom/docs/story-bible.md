@@ -683,6 +683,29 @@ what he did from ch14 to ch17. The aqueduct stands unrepairable an hour up the
 road as a permanent statement of what is missing, and what is missing is not a
 technique.
 
+AND THE SMALL THINGS WENT TOO, WHICH IS THE HALF I NEARLY MISSED. Handwork
+survived because a father shows a son at a forge and a mother shows a daughter
+at a loom. NOTHING ELSE SURVIVED, because nothing else has a workshop.
+SO NOBODY IN THIS WORLD IS ANY GOOD IN BED (author, ch20 discussion). Not
+prudish, not reluctant, not ashamed. UNTAUGHT. There is no oral, no vocabulary,
+no idea that pace is a thing you could choose. Everybody has one move and got it
+from the back of a barn. The exception is prostitutes, who are the only people
+alive who do the same thing often enough to get better at it, and who are
+therefore a repository of knowledge in a world that has no repositories. That is
+worth remembering when he reaches a town.
+WHY THIS BELONGS TO THE THESIS AND IS NOT A JOKE: technique is TRANSMITTED
+knowledge, and this world has no transmission. Nothing is written down, so
+nothing accumulates, so every generation starts from nothing. It is the same
+sentence as the aqueduct. A civilisation that cannot keep a record cannot get
+better at anything, in any department, including that one.
+HOW TO WRITE PARTNERS: clumsy, and never made ridiculous. They go too fast, too
+hard, at the wrong place, with the wrong pressure, and they arrive with one
+rehearsed idea. Gaara never sneers, never corrects out loud and never explains,
+because he does not explain himself. HIS WHOLE METHOD IS BUILT FOR EXACTLY THIS.
+The four words, the kiss ladder, the answering with slightly less: every one of
+them is a way of making the other person's inexperience irrelevant. He does not
+need them to know anything. He needs them to want something and say so.
+
 GUARDRAIL, UNCHANGED AND NOW BETTER FOUNDED: no industrial anachronism. He never
 offhandedly builds a steam engine. He does not need to, and reaching for one
 would break the premise, because his edge is coordination and not knowledge.

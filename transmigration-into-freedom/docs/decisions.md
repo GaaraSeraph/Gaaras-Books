@@ -3,6 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Nobody in this world is any good in bed, and that is a world rule ===
+Author: he expects clumsiness, especially from the inexperienced, which is
+everybody here except prostitutes.
+FILED AS WORLDBUILDING RATHER THAN PREFERENCE, in section 3 next to the
+technological level, because it is the same rule and I had only written half of
+it. Handwork survived because it has a workshop: a father shows a son at a
+forge. Nothing without a workshop survived. TECHNIQUE IS TRANSMITTED KNOWLEDGE
+AND THIS WORLD HAS NO TRANSMISSION, because nothing is written down, so nothing
+accumulates, so every generation starts from zero. It is the aqueduct sentence
+applied to a bedroom, and it makes the sex part of the thesis instead of a
+digression.
+AND IT EXPLAINS WHY HIS METHOD WORKS HERE. The four words, the kiss ladder,
+answering with slightly less: all three are machines for making the other
+person's inexperience not matter. He does not need them to know anything. He
+needs them to want something and say so. Three author instructions and a world
+rule have now converged on one design, which is how you know it is real.
+THE RULE FOR WRITING IT: clumsy, never ridiculous. He does not sneer, does not
+correct out loud, does not explain. ch20 already had Sivert rehearsing wrong for
+six days. ch13 now says it plainly of Marit and immediately says it did not
+matter, because what she had instead was appetite and no shame about it.
+PROSTITUTES ARE THE ONLY PRACTISED PEOPLE ALIVE and are therefore a knowledge
+store in a world with none. Unspent. Relevant the moment he reaches a town, and
+quietly relevant to a man whose whole plan is writing things down for money.
+
+
 === An orgasm is a receipt, and that is not a metaphor I reached for ===
 Author: he likes his partner coming, repeatedly, because it shows him he was
 good, the same way the voice does. In a quickie he does not care about that -
