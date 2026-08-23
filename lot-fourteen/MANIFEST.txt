@@ -37,7 +37,7 @@ b1  ch34  v1.8       4293 Woerter  ch34_v1_8_en.md
 b2  ch01  v1.4       2282 Woerter  ch01_v1_4_en.md
 b2  ch02  v1.0       2029 Woerter  ch02_v1_0_en.md
 b2  ch03  v1.0       2015 Woerter  ch03_v1_0_en.md
-b2  ch04  v1.1       2181 Woerter  ch04_v1_1_en.md
+b2  ch04  v1.2       2181 Woerter  ch04_v1_2_en.md
 
 Gesamt: 2 Baende, 38 Kapitel, 109632 Woerter
 Handbuch: 9 Dokumente

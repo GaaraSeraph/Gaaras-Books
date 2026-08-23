@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 01 | v1.4 | 2.282 |
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
-| 2 | 04 | v1.1 | 2.181 |
+| 2 | 04 | v1.2 | 2.181 |
 
 ---
 
@@ -11912,7 +11912,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -12072,7 +12072,7 @@ That was the whole of the ask, and Sang-hoon took about four seconds over it, wh
 
 "And the price?"
 
-"For me it was not money." He turned round. "And that is what you have come for, so we can stop walking round it. What do you have."
+"For me it was not money." He turned round. "And that is what you have come for, so we can stop walking round it. What do you have?"
 
 ---
 

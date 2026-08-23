@@ -162,6 +162,18 @@ anderen weiterreden laesst, wer eine Antwort will, ueber die er nicht verfuegt:
 **Die Probe ist eine Frage:** Kann der andere nein sagen, ohne den Raum zu
 verlassen? Dann Zeichen. Muss er liefern? Dann Punkt.
 
+**Und die Machtlage kann sich mitten in einer Szene drehen.** Das Zeichen folgt
+ihr, nicht dem Rang. Wer zuerst gegeben hat und dann selbst etwas will, fragt -
+auch wenn ihm der Raum gehoert. In Band 2, Kapitel 4 sagt Park Sang-hoon erst
+*"Ask."*, gibt die Tuer ins Register her und fragt danach **"What do you
+have?"** Mit Zeichen, weil Georgij an dieser Stelle nein sagen koennte, ohne den
+Korridor zu verlassen. Drei Repliken vorher haette derselbe Mann denselben Satz
+mit einem Punkt bekommen.
+
+**Die Probe bleibt also dieselbe, aber sie wird pro Replik gestellt und nicht
+pro Figur.** Wer eine Figur einmal als "die mit dem Punkt" einsortiert, verliert
+genau die Stellen, an denen etwas passiert.
+
 **Der schnelle Weg zur Antwort ist, wer wen fragt.** Wer in dem Raum die Macht
 hat, fordert und bekommt den Punkt: Annie, Sang-hoon, Ye-rin. Georgij fragt nach
 oben und bekommt das Zeichen, **auch wenn die Zeile drei Woerter lang und eiskalt
