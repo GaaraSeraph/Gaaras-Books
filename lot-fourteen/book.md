@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.301 Woerter.
+33 Kapitel. 96.641 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.5 | 2.775 |
+| 33 | v1.6 | 3.115 |
 
 ---
 
@@ -10224,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10570,4 +10570,46 @@ Georgij looked at the window for a while.
 
 ---
 
-Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and neither of them said anything about it.
+The light had gone and neither of them had put a lamp on.
+
+"Was I useful."
+
+He had not planned to ask it. He heard it leave and there was no version of the afternoon in which he could take it back, and he sat in the chair and let it stand in the room.
+
+---
+
+Annie did not answer for some time.
+
+"You were useful in November," she said. "You were useful on the sixteenth of December, and this afternoon you were useful in a way I will be able to put a figure on by March. That is the whole of what the word covers."
+
+"Yes, Mistress."
+
+"It is also not the question you asked me."
+
+---
+
+She got up, and she did not go to the door.
+
+She came round the low table and stood beside his chair, which put her where he would have had to turn his head to see her face, and she did not give him the time to turn it.
+
+"On the twenty-seventh of November I was upstairs in front of a screen, watching a man go over my east wall at the one place on it where I would see him do it." Her hand came down on the back of the chair, four or five centimetres from his shoulder, and stayed there. "I went and got my coat before he was off the top of the wall."
+
+---
+
+Georgij did not move at all.
+
+"You have never asked me why I came out to that bridge," said Annie, "and you are not going to ask me tonight."
+
+"No, Mistress."
+
+"That is the answer to your question. It is the only one I have and I am not going to put it in the other words."
+
+---
+
+Her hand stayed where it was for a while and then it did not.
+
+He sat with his eyes shut for about as long as it takes to read a short word, and she let him, and neither of them said anything at all.
+
+---
+
+Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobody said anything about that either.
