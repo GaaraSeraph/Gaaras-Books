@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.104 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.353 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1550,10 +1550,36 @@ nichts, was sie erfaehrt, zurueckkaufbar. **Und sie luegt**, weil sie ertrinkt.
 
 **Die Regel zur Wahrheit in Band 2**, und sie ersetzt die Symmetrie aus Band 1:
 **Luegen ist Aufwand, und wer sich seines Sieges sicher ist, treibt keinen.**
-Choi luegt nie, weil er sich nie unsicher ist. Der Sanierer luegt nicht mehr, ab
-dem Punkt, an dem sein Buch vollstaendig ist. Nam Byung-hee luegt. Damit hat
-Georgij drei Gegner mit drei verschiedenen Verhaeltnissen zur Wahrheit und muss
-bei jedem einzeln herausfinden, welches gerade gilt.
+**Am 23.08. hat der Text diesen Plan umgedreht, und die neue Fassung ist besser.**
+Geplant war: Nam luegt, der Sanierer luegt bis sein Buch vollstaendig ist, Choi
+nie. Geschrieben wurde etwas anderes, und zwar von selbst.
+
+**Nam Byung-hee luegt nicht.** In ihrem Erpressungsbrief steht kein unwahrer
+Satz, Georgij sagt es laut, und **genau das ist an ihr gefaehrlich**: *"A man
+who lies leaves you something to catch him at. She has left nothing at all."*
+
+**Mr Hwang luegt nicht und hat nie gelogen.** Er ist der ehrlichste Mensch, fuer
+den Mrs Jeon je gearbeitet hat, **und er hat die Waffe gebaut, indem er seine
+Arbeit gut gemacht hat.** *"He made it findable because findable is correct."*
+
+**Choi luegt weiterhin nie** - unveraendert, und bisher ohne Belastungsprobe,
+weil er im Text noch kein Wort gesagt hat.
+
+**Warum die Umkehrung traegt.** Ein Luegner gibt einen Griff her; wo alle luegen,
+wird das Buch ein Krimi ueber das Ertappen. Wo niemand luegt, steht das Thema
+des Bandes offen da: **alle sagen die Wahrheit, und die Wahrheit reicht nicht.**
+Annie wurde von dem einen Haus betrogen, dessen ganzes Produkt Verschwiegenheit
+ist, und der Betrug bestand darin, dass jemand ein Wort nicht eingeloest hat.
+
+**Und die Folge fuer Georgij ist die schaerfste.** Er ist der Einzige in Band 2,
+der nie etwas Unwahres gesagt hat, **und der gefaehrlichste Mann darin.** Seine
+Regel hoert auf, eine Tugend zu sein, und wird ein Verfahren. Vorgefuehrt am
+1. April: ein vollstaendig wahrer Brief, der eine Frau stillstellt.
+
+**Was dadurch frei wird:** die Rolle des Luegners ist unbesetzt. **Kang Ji-hoon**
+ist in Band 2 noch nicht aufgetreten und spielt laut seinem Eintrag ohnehin beide
+Seiten. Der eine Mensch, dessen Beruf es ist, geglaubt zu werden, waere der
+richtige Ort dafuer. *Vorschlag, noch nicht entschieden.*
 
 ---
 
