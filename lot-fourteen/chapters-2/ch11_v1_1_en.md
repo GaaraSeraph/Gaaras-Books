@@ -1,7 +1,7 @@
-Book Two · Chapter 11: In my own hand
-Lot Fourteen · Version 1.0 · EN
+# Chapter 11: In my own hand
+*Lot Fourteen* · Version 1.1 · EN
 
-Day One Hundred and Eighty · Wednesday 1 April
+## Day One Hundred and Eighty · Wednesday 1 April
 
 The paper in the drawer ran out on the thirty-first and was not replaced, and nobody in that house mentioned it.
 
@@ -9,41 +9,41 @@ He noticed it at about four in the afternoon on the Tuesday, the way a man notic
 
 He went back to being what he had been on the second of March. No line, no owner and no date anywhere in the world. He has had a good deal of cause to think about that phrase since the night he first used it.
 
-* * *
+---
 
 Mrs Sunwoo had lunch twice in the last week of March.
 
-He knows that because he watched the diary of a woman who does not hide her diary, and because on the Friday a firm that has bought at that house since 1988 cancelled a viewing without giving a reason.
+He knows that because he spent forty minutes on the Thursday somewhere he had no business being, which is a thing he has not had to do since October and had not enjoyed being out of practice at. He knows the rest because on the Friday a firm that has bought at that house since 1988 cancelled a viewing without giving a reason.
 
 That is one cancellation. It is also the fourth day.
 
-* * *
+---
 
 The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it up without stopping in the hall this time, which is how quickly a house learns a thing.
 
 The second letter he has ever received.
 
-* * *
+---
 
-The cargo moved on the twenty-fourth and again on the twenty-fifth, and there have been four more since, and none of it came with a letter attached, exactly as you said it would not.
+> The cargo moved on the twenty-fourth and again on the twenty-fifth, and there have been four more since, and none of it came with a letter attached, exactly as you said it would not.
+>
+> I have not written to my members and I am not going to. You may tell whoever needs telling.
+>
+> Now I am going to ask you something, and I would like you to notice that I am asking rather than finding out, because I could find out and I have decided not to.
+>
+> I have your name in my coat. I have had it there for twelve days. I told you in my office that I had four answers in twenty years. Since you left I have worked out what I was really telling you, which is that I have stopped expecting to be answered by anybody.
+>
+> So. What are you.
+>
+> You told me you work in the house I wrote to. So does a gardener. You came on a train. You would not promise me anything. You would not let a man at a desk write a figure beside your name at a funeral, which I know about because I make it my business to find out why a person does an odd thing.
+>
+> I am fifty-eight and I would rather be told an unpleasant thing on the first of April than a pleasant one in June.
 
-I have not written to my members and I am not going to. You may tell whoever needs telling.
-
-Now I am going to ask you something, and I would like you to notice that I am asking rather than finding out, because I could find out and I have decided not to.
-
-I have your name in my coat. I have had it there for twelve days. I told you in my office that I had four answers in twenty years. Since you left I have worked out what I was really telling you, which is that I have stopped expecting to be answered by anybody.
-
-So. What are you.
-
-You told me you work in the house I wrote to. So does a gardener. You came on a train. You would not promise me anything. You would not let a man at a desk write a figure beside your name at a funeral, which I know about because I make it my business to find out why a person does an odd thing.
-
-I am fifty-eight and I would rather be told an unpleasant thing on the first of April than a pleasant one in June.
-
-* * *
+---
 
 He read it standing at the window in his own room and then went down and put it on the desk in front of Annie without being asked.
 
-* * *
+---
 
 "She has done the work," said Annie.
 
@@ -53,17 +53,17 @@ He read it standing at the window in his own room and then went down and put it 
 
 "She has stopped, and she has said so in writing, in a letter that she knows I will show you." He put one finger on the third paragraph. "That is not a courtesy. That is a woman telling us exactly what she is prepared to do to us and inviting us to do the arithmetic."
 
-* * *
+---
 
 Annie read it once more.
 
 "What are you going to answer."
 
-* * *
+---
 
 "All of it."
 
-* * *
+---
 
 She did not react to that at all for a moment, which is the reaction.
 
@@ -71,7 +71,7 @@ She did not react to that at all for a moment, which is the reaction.
 
 "I am going to write to her, in my hand, and tell her what I am. The fourth of October, the number, and that the record of it is three lines above hers in the same book."
 
-* * *
+---
 
 "That is a great deal to put on a piece of paper for a woman who was holding a page over me eleven days ago."
 
@@ -79,23 +79,23 @@ She did not react to that at all for a moment, which is the reaction.
 
 "Then say the price before you spend it, because that is the arrangement and because I am going to hold you to it on this one particularly."
 
-* * *
+---
 
 "The price is that a woman in Ulsan will be able to prove what I am, in my own writing, for the rest of her life." Georgij did not soften any part of it. "She can sell it, she can post it, she can put it in front of your competitors, and she can do all of that on a day when we have annoyed her about something else in four years' time. There is no version where I get it back."
 
 "And what do you say it buys."
 
-* * *
+---
 
 "Two things, and I want to be careful about the second one because it is the one I would like to be true."
 
 "Be careful about it out loud."
 
-* * *
+---
 
 "The first is that she stops looking. She said she could find out and has decided not to. That decision lasts about a month if I do not answer. A stranger gave her the page. If the only person who ever came to her yard then says nothing at all, she goes back to the stranger."
 
-* * *
+---
 
 Annie put the letter down.
 
@@ -103,13 +103,13 @@ Annie put the letter down.
 
 "That would be the second time he speaks to her, and this time she would go looking for him, and that is the one thing in all of this I would pay almost anything to prevent." He did not stop. "The second thing is the one I would like to be true. A person who has been trusted with something that could ruin somebody does not usually use it. Not out of goodness. Because using it turns them into a different kind of person than the one who was trusted, and most people prefer not to find out that they are that."
 
-* * *
+---
 
 "That is a hope."
 
 "It is a hope. I have said it out loud and I have called it what it is." He looked at her. "It is also the only thing I have ever seen work on somebody like her, and I have watched it work on you."
 
-* * *
+---
 
 Annie did not answer that.
 
@@ -121,13 +121,13 @@ She went to the window instead, and stood there for a while, and then said the t
 
 "This is not the same as Ulsan and I want you to hear the difference. In Ulsan I withheld an instruction because it was useful for it to be withheld." She turned round. "This one is yours because the thing you are proposing to give away is yours. It is the only thing in the world that is. I have never had a claim on it and I am not going to invent one now in order to be helpful."
 
-* * *
+---
 
 He stood there for a moment with that.
 
 "Say the rest of it," he said, "because you have got a condition and you are deciding whether to make it one."
 
-* * *
+---
 
 "It is not a condition." Annie came back to the desk. "It is a thing I am telling you so that you have it. If she uses it, I will not be able to protect you from most of what follows. I want that said in a room with the two of us in it and no paper anywhere. In about a month I may be saying something quite different to quite a lot of people."
 
@@ -135,11 +135,11 @@ He stood there for a moment with that.
 
 "Say that you know it in a way that means you have imagined it."
 
-* * *
+---
 
 "If she posts it, I am a thing that was bought, in writing, verifiable, and every room I have walked into since October becomes a different room in retrospect." Georgij said it in the flattest voice he owns. "Chairman Woo will find out what he was standing next to at that dinner. Hana Seo-yeon will find out what was sitting at her table on the sixteenth of December. Those two are the ones I have imagined. The rest of it I have not, and I am not going to sit here and pretend I have."
 
-* * *
+---
 
 Annie looked at him.
 
@@ -149,35 +149,35 @@ Annie looked at him.
 
 "Yes. Do not lose that again."
 
-* * *
+---
 
 He wrote it upstairs at the desk with the east window, on the paper that is in that house, in his own hand, and it took him four attempts and the first three were longer.
 
-* * *
+---
 
-You asked what I am. I am going to answer it, because you asked instead of finding out, and because you have had a great many people not answer you.
+> You asked what I am. I am going to answer it, because you asked instead of finding out, and because you have had a great many people not answer you.
+>
+> I have no title. No salary, no account, no property, and nothing that is mine. I cannot sign anything, which you already know because I told you so in your office and you saw that it was true.
+>
+> I belong to her. Not as a way of speaking, and not in the way a man says he belongs to a firm. I was bought at auction on the fourth of October. I am the fourteenth lot of that evening, and the record of it is in the same book as the page you are holding, three lines above your own.
+>
+> I am telling you because you asked plainly, and because you are the first person outside that house who ever has. A woman who has had nothing but silence since January is owed one letter that is true the whole way through.
+>
+> You can do what you like with this. I would sooner you had it from me than from whoever gave you the page.
 
-I have no title. No salary, no account, no property, and nothing that is mine. I cannot sign anything, which you already know because I told you so in your office and you saw that it was true.
-
-I belong to her. Not as a way of speaking, and not in the way a man says he belongs to a firm. I was bought at auction on the fourth of October. I am the fourteenth lot of that evening, and the record of it is in the same book as the page you are holding, three lines above your own.
-
-I am telling you because you asked plainly, and because you are the first person outside that house who ever has. A woman who has had nothing but silence since January is owed one letter that is true the whole way through.
-
-You can do what you like with this. I would sooner you had it from me than from whoever gave you the page.
-
-* * *
+---
 
 He did not put anything after that.
 
 There is no phrase in any language that goes at the bottom of that letter and does not make it worse. He looked at the space where one would go for about a minute, and then he folded it.
 
-* * *
+---
 
 He had to ask Mrs Seo how a letter is sent.
 
 That is the second time in a fortnight that he has had to ask her how an ordinary thing is done. She dealt with it the way she dealt with the train. One question about the address, no face, and nothing asked about anything else.
 
-* * *
+---
 
 She came back up at about six with the receipt for the registered post and put it on the corner of the desk, and then did not go.
 
@@ -187,7 +187,7 @@ She came back up at about six with the receipt for the registered post and put i
 
 "Mr Jang asked me this morning whether anything had come for you." She said it without any weight on it at all. "He asks me that every day now. He has asked me every day since the twenty-sixth of March, and I have said no every day, and today I said yes."
 
-* * *
+---
 
 Georgij looked up at that.
 
@@ -195,11 +195,23 @@ Georgij looked up at that.
 
 "He said good." Mrs Seo straightened one thing on the desk that did not need straightening. "That is all he said, and he went out to the cars. I have been thinking about it since breakfast and I still do not know what he meant. I have decided that I do not need to."
 
-* * *
+---
 
 She went, and he sat for a while with a post office receipt in front of him, which is the only piece of paper in the world with his name on it that he is allowed to keep.
 
-* * *
+---
+
+He worked something out at about eleven that night and did not write it down.
+
+A person who has been told the truth about somebody stops going and looking for it. He had said that to Annie in the afternoon and it had been true when he said it and it is true now.
+
+It is also what you do to somebody you are going to want standing still.
+
+---
+
+Both of those are the case. He sat with the two of them for a while and did not put either one in front of the other, and then he went to bed.
+
+---
 
 The letter reached Ulsan on the Thursday.
 

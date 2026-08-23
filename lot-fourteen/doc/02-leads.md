@@ -82,6 +82,13 @@ wenig wie er. Das ist keine Charakterspiegelung, sondern der Grund, warum in
 Band 2 offenbleibt, ob Nam Byung-hee überlebt: Es hängt daran, wie gut sie in
 ihrem ersten Raum ist, und das wird dort entschieden und nicht vorher.
 
+**Und der dritte Auslöser, ab Band 2:** dass jemand **Annie** angreift, und
+zwar besonders dann, wenn die Waffe **er selbst** ist. Nam Byung-hee, 18. März.
+Der Zorn wird nicht gezeigt, sondern gehalten, sechzehn Tage lang, und ist
+über vier Pflanzungen lesbar - siehe `doc/05-continuity.md`, Abschnitt „Die
+Wut, die niemand sieht außer Annie“. **Die Ruhe ist der Zustand, nicht die
+Abwesenheit des Zorns.**
+
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
 **Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Wird nicht abgenommen. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.

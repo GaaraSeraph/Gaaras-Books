@@ -645,7 +645,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
 
-- **Band 2, Kapitel 7** *Not the first* (v1.1) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
+- **Band 2, Kapitel 7** *Not the first* (v1.2) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 
   **Vormittags zahlt Mrs Jeon.** Sang-hoon hat am Montag um zehn nach acht bei ihr angerufen, vier Minuten, ohne eine einzige Frage - er hatte entschieden, bevor er den Hoerer abnahm.
 
@@ -671,7 +671,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.1) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.2) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -701,7 +701,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
-- **Band 2, Kapitel 9** *What you paid for* (v2.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+- **Band 2, Kapitel 9** *What you paid for* (v2.1) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
 
   **Fassung 1 wurde am 23.08. verworfen, und der Grund gilt fuer 9 bis 11 zusammen.** Elf Kapitel lang endete keines damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben Muster: zahlen, die Haelfte bekommen, dafuer geprueft werden. **Das ist kein Bogen, das ist eine Ratsche.** Und es widerspricht der Praemisse - er hat in Band 1 Park Sang-hoon geschlagen. Die Regel aus 2h heisst, dass **das Repertoire** stumpf wird, nicht der Mann.
 
@@ -747,7 +747,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-- **Band 2, Kapitel 11** *In my own hand* (v1.0) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
+- **Band 2, Kapitel 11** *In my own hand* (v1.1) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
 
   **Die Vollmacht ist am 31. ausgelaufen und wurde nicht erneuert, und niemand erwaehnt es.** *"He noticed it at about four in the afternoon on the Tuesday, the way a man notices that a tooth has stopped aching."*
 
@@ -770,6 +770,54 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
 
   **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
+
+---
+
+## Die Wut, die niemand sieht ausser Annie
+
+**Festgelegt am 23.08. vom Autor.** Georgij ist seit dem **18. Maerz** in kalter
+Wut, seit dem Augenblick, in dem Nam Byung-hees Brief auf dem Tisch lag. Nicht
+weil sie unrecht hatte - sie hat recht, und er sagt es. Sondern weil sie **Annie
+persoenlich** angeschrieben hat, auf Briefpapier, damit es beweisbar ist, nach
+vier Tagen Ueberlegung.
+
+**Und die Waffe, die sie aufgehoben und gerichtet hat, ist er.**
+
+**Der Zorn aendert nicht, was er in Kapitel 8 bis 11 tut. Er aendert, was es
+bedeutet:**
+
+- **Ulsan** ist keine Anstaendigkeit. Wer ertrinkt, tut an jedem Morgen
+  irgendetwas Unvorhersehbares. Wer nicht mehr ertrinkt, bleibt stehen, wo man
+  ihn hingestellt hat.
+- **Die Ladung** stellt sie in Reichweite.
+- **Der Brief vom 1. April** ist wahr **und** der letzte Pflock. Beides
+  gleichzeitig, und er entscheidet nicht, welches davon zuerst kommt.
+
+**Regel 1 bleibt unangetastet.** Kein Satz in irgendeinem davon ist unwahr. Das
+ist dasselbe Verfahren wie bei Hanseong: neunzehn wahre Seiten, ein echter
+Fehler, ein ruinierter Mann. `doc/02-leads.md`: *"fuehrt durch Auswahl in die
+Irre."*
+
+**Die vier Pflanzungen, und sie sind Absicht und duerfen nicht wegredigiert
+werden.** Beim ersten Lesen unsichtbar, beim zweiten unuebersehbar:
+
+1. **Band 2, Kapitel 7.** Er legt den Brief zurueck, *"square to the edge, which
+   took him a moment longer than it needed to."*
+2. **Band 2, Kapitel 7**, direkt nach *"She is also right."* - **Annie sieht ihn
+   an. "What," said Georgij. "Nothing," said Annie.** Sie hat es am achtzehnten
+   gesehen und sechzehn Tage lang nichts gesagt.
+3. **Band 2, Kapitel 8**, auf der Rueckfahrt: der dritte Posten, den er auf
+   keine Seite der Rechnung schreibt, *"because he had not decided which side it
+   belonged on."*
+4. **Band 2, Kapitel 11**, um elf Uhr nachts: der Brief hat zwei Wirkungen, und
+   er legt keine davon vor die andere.
+
+**Dazu die Auslassung, die Annie laut bemerkt.** In Kapitel 9 zaehlt er drei
+Leute auf, die es treffen wird und die nichts getan haben. **Nam ist nicht
+dabei.** *"You have not put the woman in Ulsan on that list."* - *"No."*
+
+**Und die Einloesung liegt in Kapitel 12**, wo es zum ersten Mal seit dem
+2. Maerz nichts zu berichten gibt und Annie ihn deshalb ansehen kann.
 
 ---
 

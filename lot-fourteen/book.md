@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 45 Kapitel, 126.851 Woerter.
+2 Baende, 45 Kapitel, 127.102 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -51,11 +51,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 04 | v1.3 | 2.698 |
 | 2 | 05 | v1.5 | 2.848 |
 | 2 | 06 | v1.0 | 2.429 |
-| 2 | 07 | v1.1 | 2.280 |
-| 2 | 08 | v1.1 | 2.400 |
-| 2 | 09 | v2.0 | 2.465 |
+| 2 | 07 | v1.2 | 2.314 |
+| 2 | 08 | v1.2 | 2.458 |
+| 2 | 09 | v2.1 | 2.496 |
 | 2 | 10 | v2.0 | 2.225 |
-| 2 | 11 | v1.0 | 2.055 |
+| 2 | 11 | v1.1 | 2.183 |
 
 ---
 
@@ -12860,7 +12860,7 @@ He had no way of knowing that it was the second time.
 ---
 
 # Book Two · Chapter 7: Not the first
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Sixty-Six · Wednesday 18 March
 
@@ -12984,7 +12984,7 @@ The letter is typed. It is signed by hand, and under the signature it says *Chai
 
 ---
 
-Georgij put the letter down on the desk in exactly the position it had been in.
+Georgij put the letter down on the desk in exactly the position it had been in, square to the edge, which took him a moment longer than it needed to.
 
 ---
 
@@ -13031,6 +13031,14 @@ He has answered every direct question she has ever asked him. He has declined to
 "And that is the dangerous part."
 
 "That is the whole danger. A man who lies leaves you something to catch him at." He put one finger on the corner of the page. "She has left nothing at all, and she has done it deliberately, and she has done it because she is certain she is right. She is also right."
+
+---
+
+Annie looked at him for a moment when he had finished saying that.
+
+"What," said Georgij.
+
+"Nothing," said Annie.
 
 ---
 
@@ -13095,7 +13103,7 @@ He did not tear it out and he did not correct it. He wrote the date underneath a
 ---
 
 # Book Two · Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -13371,6 +13379,12 @@ Cargo admits nothing. Cargo is a lane going back to what it was, and not one per
 
 ---
 
+There was a third item and he did not put it on either side of the line, because he had not decided which side it belonged on.
+
+A woman who is drowning does whatever occurs to her, on any morning, without warning anybody. A woman who is not drowning any more stays where she has been put.
+
+---
+
 There was a second thing, and he had not gone for it and would not have got it by asking.
 
 She had looked at his name and it had meant nothing to her.
@@ -13402,7 +13416,7 @@ He got home at twenty past eleven and stood in the doorway of the small room. He
 ---
 
 # Book Two · Chapter 9: What you paid for
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -13657,6 +13671,16 @@ Annie sat down again.
 "You are going to be able to do something about a clerk."
 
 "I am going to be able to do something about a clerk. I am not going to be able to do anything about the man."
+
+---
+
+"You have not put the woman in Ulsan on that list," said Annie.
+
+"No."
+
+---
+
+She let that lie there and did not pick it up, and neither did he.
 
 ---
 
@@ -14002,7 +14026,7 @@ She listened to the end and then asked one question, which was not about Mrs Sun
 ---
 
 # Book Two · Chapter 11: In my own hand
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Eighty · Wednesday 1 April
 
@@ -14016,7 +14040,7 @@ He went back to being what he had been on the second of March. No line, no owner
 
 Mrs Sunwoo had lunch twice in the last week of March.
 
-He knows that because he watched the diary of a woman who does not hide her diary, and because on the Friday a firm that has bought at that house since 1988 cancelled a viewing without giving a reason.
+He knows that because he spent forty minutes on the Thursday somewhere he had no business being, which is a thing he has not had to do since October and had not enjoyed being out of practice at. He knows the rest because on the Friday a firm that has bought at that house since 1988 cancelled a viewing without giving a reason.
 
 That is one cancellation. It is also the fourth day.
 
@@ -14201,6 +14225,18 @@ Georgij looked up at that.
 ---
 
 She went, and he sat for a while with a post office receipt in front of him, which is the only piece of paper in the world with his name on it that he is allowed to keep.
+
+---
+
+He worked something out at about eleven that night and did not write it down.
+
+A person who has been told the truth about somebody stops going and looking for it. He had said that to Annie in the afternoon and it had been true when he said it and it is true now.
+
+It is also what you do to somebody you are going to want standing still.
+
+---
+
+Both of those are the case. He sat with the two of them for a while and did not put either one in front of the other, and then he went to bed.
 
 ---
 

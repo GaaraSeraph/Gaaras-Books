@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 98.596 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 99.104 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1071,6 +1071,13 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 wenig wie er. Das ist keine Charakterspiegelung, sondern der Grund, warum in
 Band 2 offenbleibt, ob Nam Byung-hee überlebt: Es hängt daran, wie gut sie in
 ihrem ersten Raum ist, und das wird dort entschieden und nicht vorher.
+
+**Und der dritte Auslöser, ab Band 2:** dass jemand **Annie** angreift, und
+zwar besonders dann, wenn die Waffe **er selbst** ist. Nam Byung-hee, 18. März.
+Der Zorn wird nicht gezeigt, sondern gehalten, sechzehn Tage lang, und ist
+über vier Pflanzungen lesbar - siehe `doc/05-continuity.md`, Abschnitt „Die
+Wut, die niemand sieht außer Annie“. **Die Ruhe ist der Zustand, nicht die
+Abwesenheit des Zorns.**
 
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
@@ -2598,7 +2605,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
 
-- **Band 2, Kapitel 7** *Not the first* (v1.1) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
+- **Band 2, Kapitel 7** *Not the first* (v1.2) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 
   **Vormittags zahlt Mrs Jeon.** Sang-hoon hat am Montag um zehn nach acht bei ihr angerufen, vier Minuten, ohne eine einzige Frage - er hatte entschieden, bevor er den Hoerer abnahm.
 
@@ -2624,7 +2631,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.1) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.2) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -2654,7 +2661,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
-- **Band 2, Kapitel 9** *What you paid for* (v2.0) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+- **Band 2, Kapitel 9** *What you paid for* (v2.1) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
 
   **Fassung 1 wurde am 23.08. verworfen, und der Grund gilt fuer 9 bis 11 zusammen.** Elf Kapitel lang endete keines damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben Muster: zahlen, die Haelfte bekommen, dafuer geprueft werden. **Das ist kein Bogen, das ist eine Ratsche.** Und es widerspricht der Praemisse - er hat in Band 1 Park Sang-hoon geschlagen. Die Regel aus 2h heisst, dass **das Repertoire** stumpf wird, nicht der Mann.
 
@@ -2700,7 +2707,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-- **Band 2, Kapitel 11** *In my own hand* (v1.0) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
+- **Band 2, Kapitel 11** *In my own hand* (v1.1) - **Tag 180, Mi 1. April. Eine Szene, dazu drei Absaetze ueber die verstrichene Woche.**
 
   **Die Vollmacht ist am 31. ausgelaufen und wurde nicht erneuert, und niemand erwaehnt es.** *"He noticed it at about four in the afternoon on the Tuesday, the way a man notices that a tooth has stopped aching."*
 
@@ -2723,6 +2730,54 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
 
   **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
+
+---
+
+## Die Wut, die niemand sieht ausser Annie
+
+**Festgelegt am 23.08. vom Autor.** Georgij ist seit dem **18. Maerz** in kalter
+Wut, seit dem Augenblick, in dem Nam Byung-hees Brief auf dem Tisch lag. Nicht
+weil sie unrecht hatte - sie hat recht, und er sagt es. Sondern weil sie **Annie
+persoenlich** angeschrieben hat, auf Briefpapier, damit es beweisbar ist, nach
+vier Tagen Ueberlegung.
+
+**Und die Waffe, die sie aufgehoben und gerichtet hat, ist er.**
+
+**Der Zorn aendert nicht, was er in Kapitel 8 bis 11 tut. Er aendert, was es
+bedeutet:**
+
+- **Ulsan** ist keine Anstaendigkeit. Wer ertrinkt, tut an jedem Morgen
+  irgendetwas Unvorhersehbares. Wer nicht mehr ertrinkt, bleibt stehen, wo man
+  ihn hingestellt hat.
+- **Die Ladung** stellt sie in Reichweite.
+- **Der Brief vom 1. April** ist wahr **und** der letzte Pflock. Beides
+  gleichzeitig, und er entscheidet nicht, welches davon zuerst kommt.
+
+**Regel 1 bleibt unangetastet.** Kein Satz in irgendeinem davon ist unwahr. Das
+ist dasselbe Verfahren wie bei Hanseong: neunzehn wahre Seiten, ein echter
+Fehler, ein ruinierter Mann. `doc/02-leads.md`: *"fuehrt durch Auswahl in die
+Irre."*
+
+**Die vier Pflanzungen, und sie sind Absicht und duerfen nicht wegredigiert
+werden.** Beim ersten Lesen unsichtbar, beim zweiten unuebersehbar:
+
+1. **Band 2, Kapitel 7.** Er legt den Brief zurueck, *"square to the edge, which
+   took him a moment longer than it needed to."*
+2. **Band 2, Kapitel 7**, direkt nach *"She is also right."* - **Annie sieht ihn
+   an. "What," said Georgij. "Nothing," said Annie.** Sie hat es am achtzehnten
+   gesehen und sechzehn Tage lang nichts gesagt.
+3. **Band 2, Kapitel 8**, auf der Rueckfahrt: der dritte Posten, den er auf
+   keine Seite der Rechnung schreibt, *"because he had not decided which side it
+   belonged on."*
+4. **Band 2, Kapitel 11**, um elf Uhr nachts: der Brief hat zwei Wirkungen, und
+   er legt keine davon vor die andere.
+
+**Dazu die Auslassung, die Annie laut bemerkt.** In Kapitel 9 zaehlt er drei
+Leute auf, die es treffen wird und die nichts getan haben. **Nam ist nicht
+dabei.** *"You have not put the woman in Ulsan on that list."* - *"No."*
+
+**Und die Einloesung liegt in Kapitel 12**, wo es zum ersten Mal seit dem
+2. Maerz nichts zu berichten gibt und Annie ihn deshalb ansehen kann.
 
 ---
 
@@ -5147,7 +5202,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 405 | 41 (b1ch01-b2ch11) | 1 | 74 |
+| Annie | 409 | 41 (b1ch01-b2ch11) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
@@ -5182,7 +5237,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-405 Nennungen in 41 Kapiteln.
+409 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5558,9 +5613,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch07:94 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:130 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:160 | "I said something about her on the seventh," said Annie. |
-| 7 | b2ch07:176 | Annie unfolded her arms and put one hand on the back of the chair. |
-| 7 | b2ch07:188 | Annie did not say anything to that, which was the correct thing to do and cost her somet.. |
-| 7 | b2ch07:208 | "So it is the same box as the book," said Annie. |
+| 7 | b2ch07:176 | Annie looked at him for a moment when he had finished saying that. |
+| 7 | b2ch07:180 | "Nothing," said Annie. |
+| 7 | b2ch07:184 | Annie unfolded her arms and put one hand on the back of the chair. |
+| 7 | b2ch07:196 | Annie did not say anything to that, which was the correct thing to do and cost her somet.. |
+| 7 | b2ch07:216 | "So it is the same box as the book," said Annie. |
 | 9 | b2ch08:20 | Annie read it again with her thumb on the line. |
 | 9 | b2ch08:28 | "Then the price," said Annie. "Before, and not after." |
 | 9 | b2ch08:46 | Annie put the letter down. |
@@ -5577,10 +5634,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch09:222 | "You are going to hand a woman like that a reason to talk," said Annie. |
 | 9 | b2ch09:228 | Annie looked at the desk for a moment. |
 | 9 | b2ch09:242 | Annie sat down again. |
-| 9 | b2ch09:260 | "Then say that as a sentence," said Annie, "because you will otherwise be back in this r.. |
-| 9 | b2ch09:268 | Annie let that stand. |
-| 9 | b2ch09:282 | "No," said Annie. |
-| 9 | b2ch09:302 | "You said the end of April." Annie closed the drawer. "Say it again on the first, after .. |
+| 9 | b2ch09:260 | "You have not put the woman in Ulsan on that list," said Annie. |
+| 9 | b2ch09:270 | "Then say that as a sentence," said Annie, "because you will otherwise be back in this r.. |
+| 9 | b2ch09:278 | Annie let that stand. |
+| 9 | b2ch09:292 | "No," said Annie. |
+| 9 | b2ch09:312 | "You said the end of April." Annie closed the drawer. "Say it again on the first, after .. |
 | 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
 | 3 | b2ch10:272 | He told Annie all of it that evening, price first, and there was not very much on that s.. |
 | 3 | b2ch10:280 | "Yes," said Annie. "That is the one I want." |
@@ -5591,6 +5649,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:114 | Annie did not answer that. |
 | 1 | b2ch11:132 | "It is not a condition." Annie came back to the desk. "It is a thing I am telling you so.. |
 | 1 | b2ch11:144 | Annie looked at him. |
+| 1 | b2ch11:206 | A person who has been told the truth about somebody stops going and looking for it. He h.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5683,9 +5742,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:292` (Tag 60) - one
 - `b2ch06:272` (Tag 5) - seven
 - `b2ch07:94` (Tag 7) - one
-- `b2ch07:176` (Tag 7) - one
+- `b2ch07:184` (Tag 7) - one
 - `b2ch09:42` (Tag 9) - one, two
-- `b2ch09:260` (Tag 9) - four
+- `b2ch09:270` (Tag 9) - four
 - `b2ch10:22` (Tag 3) - eighty-one
 - `b2ch10:280` (Tag 3) - one
 - `b2ch11:132` (Tag 1) - two
@@ -6852,7 +6911,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:32 | "Sunwoo," said Annie. |
 | 9 | b2ch09:212 | "Sunwoo." |
 | 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:278 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
 | 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
 | 3 | b2ch10:72 | Mrs Sunwoo did not move. |
 | 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
@@ -6897,7 +6956,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
 | 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 | 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:292 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
 | 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
 | 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
 
@@ -6908,7 +6967,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:6` (Tag 22) - seventeen
 - `b1ch27:100` (Tag 7) - one
 - `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:292` (Tag 9) - eighty-one
+- `b2ch09:302` (Tag 9) - eighty-one
 - `b2ch10:22` (Tag 3) - eighty-one
 - `b2ch10:252` (Tag 3) - fifty-five
 
@@ -6987,7 +7046,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:162 | Nam Byung-hee sat down after all. |
 | 9 | b2ch08:216 | Nam Byung-hee put both hands flat on the desk. |
 | 9 | b2ch08:244 | "I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not lon.. |
-| 1 | b2ch11:206 | Nam Byung-hee did not answer it that week, or the next, and by the time she did the hous.. |
+| 1 | b2ch11:218 | Nam Byung-hee did not answer it that week, or the next, and by the time she did the hous.. |
 
 ### Zahlen in der Naehe von Nam Byung-hee
 

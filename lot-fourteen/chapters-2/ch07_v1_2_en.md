@@ -1,5 +1,5 @@
 # Chapter 7: Not the first
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Sixty-Six · Wednesday 18 March
 
@@ -123,7 +123,7 @@ The letter is typed. It is signed by hand, and under the signature it says *Chai
 
 ---
 
-Georgij put the letter down on the desk in exactly the position it had been in.
+Georgij put the letter down on the desk in exactly the position it had been in, square to the edge, which took him a moment longer than it needed to.
 
 ---
 
@@ -170,6 +170,14 @@ He has answered every direct question she has ever asked him. He has declined to
 "And that is the dangerous part."
 
 "That is the whole danger. A man who lies leaves you something to catch him at." He put one finger on the corner of the page. "She has left nothing at all, and she has done it deliberately, and she has done it because she is certain she is right. She is also right."
+
+---
+
+Annie looked at him for a moment when he had finished saying that.
+
+"What," said Georgij.
+
+"Nothing," said Annie.
 
 ---
 
