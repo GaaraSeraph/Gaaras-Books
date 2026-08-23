@@ -1,7 +1,7 @@
-Chapter 10: What did she pay for you
-Lot Fourteen · Version 2.3 · EN
+# Chapter 10: What did she pay for you
+*Lot Fourteen* · Version 2.4 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 He did not go and stand near Annie.
 
@@ -9,7 +9,7 @@ Hana had given him twenty minutes and an instruction, and the instruction was de
 
 He went and found Chairman Woo instead, and he did it in the open, across the middle of the floor, where anybody watching could see exactly how hard he was working.
 
-* * *
+---
 
 "There he is," said Chairman Woo.
 
@@ -67,7 +67,7 @@ It would be one in the morning, in the dark, in the back of a car, before it occ
 
 He is covering somebody.
 
-* * *
+---
 
 Kang Ji-hoon was standing near the north bar with a glass of water and had been for some time.
 
@@ -93,7 +93,7 @@ Kang Ji-hoon waited.
 
 He did not smile and he did not fail to smile. He held the glass of water and he looked at Georgij with polite attention, and the attention was not on Georgij's face.
 
-"I'm three weeks into this and there is a whole subject I know nothing about," said Georgij. "Land. Zoning, designation, port status, all of it. I can read a balance sheet in the dark and I cannot tell you what a change of use application actually costs a company in months. If I ever needed to ask somebody a stupid question about that, may I ask you?"
+"I've been at this a very short time and there is a whole subject I know nothing about," said Georgij. "Land. Zoning, designation, port status, all of it. I can read a balance sheet in the dark and I cannot tell you what a change of use application actually costs a company in months. If I ever needed to ask somebody a stupid question about that, may I ask you?"
 
 There was a pause.
 
@@ -119,11 +119,11 @@ Kang laughed, and it was the first thing his face had done all evening, and it w
 
 "Enjoy the rest of your night."
 
-* * *
+---
 
 He was six paces away before he understood what he had done.
 
-Hana had told him thirty minutes ago, holding a glass, being kind about it: It's a good tool. You've used it once. Be careful how many times it fits.
+Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good tool. You've used it once. Be careful how many times it fits.*
 
 Three hours.
 
@@ -137,7 +137,7 @@ It would have to be enough.
 
 It was not going to be enough, and he knew it was not going to be enough, and he put it where he put things.
 
-* * *
+---
 
 At three minutes to eleven, on the far side of the room, Annie looked up.
 
@@ -155,7 +155,7 @@ The second was that it was over now.
 
 Hana put her glass down and started walking.
 
-* * *
+---
 
 Georgij was moving before he had finished deciding to.
 
@@ -193,7 +193,7 @@ Hana was quiet for the last four paces.
 
 "Yes," she said. "It was."
 
-* * *
+---
 
 They arrived together.
 
@@ -223,7 +223,7 @@ Then Hana said goodnight and went, and Annie turned back to the room, and did no
 
 Not then. Not in the car.
 
-* * *
+---
 
 Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in that room was sitting down.
 
@@ -239,7 +239,7 @@ He went over because it was the last thing on the list and because there was not
 
 He sat down.
 
-* * *
+---
 
 The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enjoy understanding, was that none of it worked.
 
@@ -269,11 +269,11 @@ Georgij, who had spent seventeen years learning what a man looks at, put both of
 
 "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?"
 
-* * *
+---
 
 There it was, on a tablecloth, at a quarter past eleven, from a man who did not know what he was asking.
 
-He did not know. That was the whole of it and Georgij went over it twice while he was drawing breath and it held both times. Sang-hoon had a woman who had never brought anybody anywhere and who had suddenly brought somebody. He had the word adviser coming at him from six directions since nine o'clock. He was a man who bought companies and kept the directors and thought of both as line items.
+He did not know. That was the whole of it and Georgij went over it twice while he was drawing breath and it held both times. Sang-hoon had a woman who had never brought anybody anywhere and who had suddenly brought somebody. He had the word *adviser* coming at him from six directions since nine o'clock. He was a man who bought companies and kept the directors and thought of both as line items.
 
 To him it was a question about a salary. It was rude in the way very rich men are rude, which is to say it was almost a compliment.
 
@@ -311,7 +311,7 @@ It was a short laugh and it was the first thing he had done all evening that was
 
 "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary."
 
-* * *
+---
 
 He was still open. He would be open for about another forty seconds and then he would go back to whatever he had been doing since seven o'clock, and there would not be another one of these.
 
@@ -355,11 +355,11 @@ He took his arm off the back of the chair and sat forward for the first time, an
 
 Then he went, on his own, out across the floor and through the far doors and into the cold, at twenty past eleven, and did not look back.
 
-* * *
+---
 
 Georgij sat at table two for a moment longer, with both hands still flat on the cloth.
 
-Bring whatever it is you're going to bring.
+*Bring whatever it is you're going to bring.*
 
 It was not a warning. It was not a challenge either, and it was certainly not an invitation, and he turned it over four times before he understood that it was none of those things.
 

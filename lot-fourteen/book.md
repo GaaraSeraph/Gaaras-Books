@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.201 Woerter.
+33 Kapitel. 96.204 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -18,7 +18,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 07 | v6.4 | 3.856 |
 | 08 | v3.5 | 2.677 |
 | 09 | v3.3 | 3.119 |
-| 10 | v2.3 | 2.980 |
+| 10 | v2.4 | 2.983 |
 | 11 | v2.7 | 2.724 |
 | 12 | v1.7 | 2.350 |
 | 13 | v2.4 | 2.828 |
@@ -2653,7 +2653,7 @@ He stopped.
 ---
 
 # Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2747,7 +2747,7 @@ Kang Ji-hoon waited.
 
 He did not smile and he did not fail to smile. He held the glass of water and he looked at Georgij with polite attention, and the attention was not on Georgij's face.
 
-"I'm three weeks into this and there is a whole subject I know nothing about," said Georgij. "Land. Zoning, designation, port status, all of it. I can read a balance sheet in the dark and I cannot tell you what a change of use application actually costs a company in months. If I ever needed to ask somebody a stupid question about that, may I ask you?"
+"I've been at this a very short time and there is a whole subject I know nothing about," said Georgij. "Land. Zoning, designation, port status, all of it. I can read a balance sheet in the dark and I cannot tell you what a change of use application actually costs a company in months. If I ever needed to ask somebody a stupid question about that, may I ask you?"
 
 There was a pause.
 

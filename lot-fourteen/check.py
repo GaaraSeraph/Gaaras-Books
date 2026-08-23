@@ -57,6 +57,12 @@ WRONG_PHRASES = [
      "neun, sieben, sechs, vier, vier. Ye-rins eigene 1,4 kommen obendrauf "
      "und nicht hinein. Die 41,4 entstanden in doc/04-world.md, wo ihre 1,4 "
      "in die Summe der sechs geraten sind, ohne dass jemand addiert hat."),
+    ("three weeks into this",
+     "Georgij nennt ueber sich keine Zahlen. Bei Hong hat er dieselbe Zahl "
+     "geschluckt und 'less than a year' gesagt (Kapitel 9), bei Kang und bei "
+     "Sang-hoon sagt er 'a very short time'. Die Zeile stand bis zum 23.08. "
+     "in Kapitel 10 und doc/02-leads.md fuehrte sie als absichtliche "
+     "Bruchstelle - beides war ein Einschub, den niemand gewollt hat."),
 ]
 
 SELF_COMMENT = [

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 71.674 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 71.792 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -928,7 +928,9 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 
 **Die Regel gilt auch am Telefon.** In Kapitel 12 sagt er Kang, die Gewohnheit sei neu, und datiert sich dabei nicht. Nicht "seit ein paar Wochen", nicht "seit drei Wochen", nichts, woraus man ein Datum bauen kann. Über andere präzise, über sich nie, und das gilt unter Druck genauso.
 
-**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: **Über andere ist er präzise, über sich vage - gegenüber Fremden ausnahmslos.** Die Regel hat eine dokumentierte Bruchstelle, und sie ist teuer: Vierzig Minuten später sagt er auf derselben Gala zu Kang *I'm three weeks into this*, also genau die Zahl, die er bei Hong geschluckt hat, und derselbe Mann ruft zwei Tage später an. Am Telefon in Kapitel 12 hält er sie dann wieder. Innerhalb der Allianz gilt sie nicht: Gegenüber Annie und Hana datiert er sich präzise, und in Kapitel 17 ist genau diese Präzision über sich selbst das, was er hergibt.
+**Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: **Über andere ist er präzise, über sich vage - gegenüber Fremden ausnahmslos.** Er hält sie auf dieser Gala durch. Vierzig Minuten später sagt er bei Kang dieselbe Vagheit noch einmal - *"I've been at this a very short time"* - und dieselbe Formel benutzt er im November bei Sang-hoon. Es ist eine stehende Wendung und sie ist Absicht. Am Telefon in Kapitel 12 hält er sie ebenfalls.
+
+**Hier stand bis zum 23.08. das Gegenteil**, nämlich Georgij sage bei Kang *"I'm three weeks into this"*, also genau die Zahl, die er bei Hong geschluckt hat, und das sei die teure Bruchstelle der Regel. Beides falsch. Die Zeile war ein Einschub, den niemand hatte stehen lassen wollen, und die Begründung dazu war frei erfunden: **Kangs Anruf in Kapitel 12 hat mit keiner Zahl zu tun.** Er ruft an, weil Georgij an einem Abend zwei Mächtige in fast denselben Worten um Guidance gebeten hat und beide es weitererzählt haben - *"Chairman Woo has told several people that you asked him the same thing, in almost the same words, some minutes earlier."* Zeile und Behauptung sind gestrichen. Innerhalb der Allianz gilt sie nicht: Gegenüber Annie und Hana datiert er sich präzise, und in Kapitel 17 ist genau diese Präzision über sich selbst das, was er hergibt.
 
 **Die zweite Bruchstelle, und sie ist die teuerste im Buch.** In Kapitel 16, in den ersten zwanzig Minuten beim Abendessen mit Sang-hoon, nennt er die Zahl. Vollständig, flach, ohne einen Zusatz:
 
@@ -1847,7 +1849,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 13** *The man with the open hand* (v2.4) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
 - **Kapitel 12** *You are better when you don't know* (v1.7) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.7) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
-- **Kapitel 10** *What did she pay for you* (v2.3) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
+- **Kapitel 10** *What did she pay for you* (v2.4) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, Yun-seo, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.4) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
