@@ -1077,15 +1077,18 @@ The loft, and what he wakes up to (ch22)
   never going to hold and both of them knew it about a minute before it was
   true. He offers, Sivert takes it, and after that there is nothing in that loft
   to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
-- AND THEN GAARA MAKES THE NOISE, which is the joke the whole scene was built
-  to land. One noise, not loud, and by his own standards remarkably stupid. HE
-  SPENT A QUARTER OF AN HOUR ENGINEERING SILENCE FOR SOMEBODY ELSE AND MADE NO
-  ARRANGEMENT OF ANY KIND FOR HIMSELF, which is the man entire.
-  Nobody says a word about it. All three of them are awake. All three of them
-  are thinking about it.
-  YLVA COLLECTS IT LATER IN ONE WORD: "You were extremely quiet for a man who
+- AND SIVERT MAKES THE NOISE, INTO THE HAND, which is what the whole apparatus
+  was built to land. One noise, not loud, not long, and spectacularly stupid,
+  and Gaara knows while it is still happening that he will be thinking about it
+  for years. THE CHAPTER IS NAMED AFTER IT.
+  AND GAARA MAKES NONE, WHICH IS THE EXPENSIVE PART. He has the thing he works
+  for six inches from his ear, in a place where he is not permitted to answer
+  it, and answering it is most of what he does. The char sheet rule (the sound
+  is the object of the exercise) turned into a punishment.
+  YLVA COLLECTS BOTH HALVES LATER: "You are extremely quiet for a man who
   cannot stop talking." "That was the single hardest thing I have ever done."
-  "Once." And he wants the rest of it written down and not the once.
+  And then he wants it on the record that the other one did not manage it.
+  "He did not." "He did not come close."
 - AND THE MORNING IS THE POINT OF THE CHAPTER. He wakes with both of them on
   him: Sivert face down against his ribs, Ylva come across in the night with her
   head on his shoulder and an arm over the pair of them, asleep with her mouth
