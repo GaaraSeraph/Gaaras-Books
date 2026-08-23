@@ -3,6 +3,37 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Four guilds, a network, and the house is called Hades ===
+Author, and it reorganises the town for the better. There is not one guild,
+there are several, and they are not the same kind of institution. Each is named
+for the record it keeps, which is the one administrative habit that survived the
+collapse: THE MARK for merchants, THE ROLL for fighting companies, plus local
+craft guilds for smiths and butchers.
+THE ROLL IS A NETWORK, NOT A HALL. Copies of the roll travel between towns, and
+that is how a warrant is portable and how a defaulter is finished everywhere at
+once. WHICH MAKES IT THE LARGEST CONSUMER OF WRITING IN THIS WORLD, all of it
+copied by hand onto skins at a goat a skin. The Roll is Gaara's first paper
+customer and neither party knows it yet. Nobody works that out early.
+THE SMITHS' GUILD PUTS A LEGAL WALL THROUGH THE ch19 METAL DEAL. Ylva at a
+village forge is nobody's business; Ylva selling worked goods into the Wold is
+unwarranted practice. Their arrangement has an obstacle in it that neither of
+them has considered, and it was not planted, it fell out of the structure.
+HIS OWN THING IS NOT A COMPANY ON THE ROLL, which answers his own objection that
+a company of one is absurd. It is a HOUSE in the MARK: one man, one name, one
+mark. AND A MERCHANT'S MARK IS A COLOPHON, so he will have been carrying a
+publisher's imprint around for a year before he prints anything.
+IT IS CALLED HADES, and the name works three ways at once. Nobody here has heard
+it, and names do not translate, so it is a foreign noise a stranger picked. He
+came out of a hole in the ground and died in the other place slowly enough to be
+embarrassing. AND HADES IS THE GOD OF WEALTH, because the Romans ran him
+together with Plouton on the grounds that what you dig up comes from below, and
+his money is coming out of the ground. Asked what it means he tells the truth
+and the truth explains nothing.
+AND THE COMPANY COLLISION GOES LIVE. The Wold says house. He says company,
+because that is the word from the other place, and ch1, ch3 and ch12 are full of
+it. Nobody corrects him and he never explains it.
+
+
 === The guild is called the Roll ===
 Full form THE ROLL OF WARRANTED COMPANIES, which nobody says. On the page it is
 THE ROLL: a man is on it, a company is warranted, and a lord's man being rude

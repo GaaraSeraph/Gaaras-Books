@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 40.959 Woerter.
+Alle 4 Dokumente am Stueck. 42.061 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,37 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Four guilds, a network, and the house is called Hades ===
+Author, and it reorganises the town for the better. There is not one guild,
+there are several, and they are not the same kind of institution. Each is named
+for the record it keeps, which is the one administrative habit that survived the
+collapse: THE MARK for merchants, THE ROLL for fighting companies, plus local
+craft guilds for smiths and butchers.
+THE ROLL IS A NETWORK, NOT A HALL. Copies of the roll travel between towns, and
+that is how a warrant is portable and how a defaulter is finished everywhere at
+once. WHICH MAKES IT THE LARGEST CONSUMER OF WRITING IN THIS WORLD, all of it
+copied by hand onto skins at a goat a skin. The Roll is Gaara's first paper
+customer and neither party knows it yet. Nobody works that out early.
+THE SMITHS' GUILD PUTS A LEGAL WALL THROUGH THE ch19 METAL DEAL. Ylva at a
+village forge is nobody's business; Ylva selling worked goods into the Wold is
+unwarranted practice. Their arrangement has an obstacle in it that neither of
+them has considered, and it was not planted, it fell out of the structure.
+HIS OWN THING IS NOT A COMPANY ON THE ROLL, which answers his own objection that
+a company of one is absurd. It is a HOUSE in the MARK: one man, one name, one
+mark. AND A MERCHANT'S MARK IS A COLOPHON, so he will have been carrying a
+publisher's imprint around for a year before he prints anything.
+IT IS CALLED HADES, and the name works three ways at once. Nobody here has heard
+it, and names do not translate, so it is a foreign noise a stranger picked. He
+came out of a hole in the ground and died in the other place slowly enough to be
+embarrassing. AND HADES IS THE GOD OF WEALTH, because the Romans ran him
+together with Plouton on the grounds that what you dig up comes from below, and
+his money is coming out of the ground. Asked what it means he tells the truth
+and the truth explains nothing.
+AND THE COMPANY COLLISION GOES LIVE. The Wold says house. He says company,
+because that is the word from the other place, and ch1, ch3 and ch12 are full of
+it. Nobody corrects him and he never explains it.
 
 
 === The guild is called the Roll ===
@@ -2964,6 +2995,39 @@ So his whole fortune is a month of sleeping badly or ten days of sleeping
 properly. THAT IS THE CLOCK IN THE WOLD and it is better than being poor in the
 abstract. Put the number in his head early and let the reader count down.
 
+THERE IS MORE THAN ONE GUILD AND THEY ARE NOT THE SAME KIND OF THING (author).
+The Wold has at least four, and each is named in this world for THE RECORD IT
+KEEPS, which is the one administrative habit that survived.
+
+  THE MARK. The merchants' guild, and THE ONE HE ACTUALLY WANTS. A merchant's
+  mark is his sigil, stamped on goods, bales and receipts, and the guild holds
+  the register of marks. So a member is MARKED and his mark is his word.
+  THE IRONY IS FREE AND SHOULD NEVER BE POINTED AT: in a world where most people
+  sign with a mark because they cannot write, the merchants' guild is literally
+  the register of marks.
+  AND IT IS A COLOPHON. The day he prints anything, his mark goes on it, and he
+  will have been carrying a publisher's imprint around for a year without
+  calling it that.
+
+  THE ROLL. Fighting companies. See below. NOT one hall in one town: A NETWORK.
+  Every roll house holds a copy and the copies are sent between them, which is
+  how a warrant travels and how a defaulter stops being able to work anywhere.
+  THE CONSEQUENCE IS THE BEST THING IN THIS ENTRY. AN INSTITUTION THAT RUNS ON
+  COPIES IS THE LARGEST CONSUMER OF WRITING IN THIS WORLD, and copies are made
+  by hand on skins. The Roll is therefore Gaara's first and most obvious paper
+  customer, and it does not know that yet, and neither does he. Do not have
+  anybody work it out early.
+
+  THE SMITHS and THE BUTCHERS. Craft guilds, local, and they control who may
+  practise in the town. Ordulf is in the smiths'.
+  THIS PUTS A LEGAL WALL THROUGH THE METAL PLAN, which is a gift. Ylva working
+  city iron in Oldstep is a village woman at a village forge and nobody's
+  business. Selling worked goods into the Wold is another matter entirely, and
+  she is not warranted, and the smiths will have a view. Their arrangement from
+  ch19 has an obstacle in it that neither of them has thought about.
+  (Author wrote "Metzgilde", read as butchers. If mead was meant, swap the
+  trade; nothing above depends on which.)
+
 THE NAME: THE ROLL OF WARRANTED COMPANIES. Nobody says that. EVERYBODY SAYS
 THE ROLL.
   a member is ON THE ROLL. A company is WARRANTED. The building is the roll
@@ -3031,7 +3095,34 @@ arrives at the door with two people who already owe him something.
   AND ONE THREAD ALREADY EXISTS ON THE PAGE: Ylva knows Ordulf, and a smith in a
   market town knows everyone, because everyone comes to him eventually.
 
-WHICH MEANS THE THING HE NEEDS IS TWENTY MILES AWAY AND MADE OF FARMERS. Four men
+HIS OWN THING IS NOT A COMPANY ON THE ROLL AND HE IS NOT TRYING TO BE ONE
+(author). Answering his own objection: a company of one is absurd and the Roll
+would not take it, because a warrant needs a captain and four men.
+  WHAT HE REGISTERS IS A HOUSE, IN THE MARK. One man, one name, one mark. That
+  is the trading and publishing arm and it is the thing he came for.
+  ITS NAME IS HADES.
+  NOBODY IN THIS WORLD HAS EVER HEARD THE WORD, which is the point. It does not
+  translate, because names do not, so to everybody in the Wold it is a foreign
+  noise a stranger has chosen.
+  IT IS TRUE AND IT IS A JOKE ONLY HE CAN HEAR. He came out of a hole in the
+  ground. He died in the other place, more or less, slowly enough to be
+  embarrassing (ch3). And HADES IS ALSO THE GOD OF WEALTH, because the Romans
+  ran him together with Plouton, the rich one, on the grounds that what a man
+  digs up comes from below. HIS MONEY IS LITERALLY COMING OUT OF THE GROUND:
+  eight hundred years of worked iron out of a dead city.
+  WHEN ASKED WHAT IT MEANS HE TELLS THE TRUTH AND IT EXPLAINS NOTHING. Something
+  like: a god of a dead country, who kept everything that was under the ground.
+  Rule one intact, and the listener no wiser.
+
+AND HE SAYS COMPANY WHEN EVERYONE ELSE SAYS HOUSE. The Wold's word is house. His
+word is company, because it is the word from the other place, and ch1, ch3 and
+ch12 are full of it: thirty-nine of them, the one he owned, the one that died,
+"a very good CV and no company." He will keep saying company and he will know
+exactly why he keeps saying it. NOBODY CORRECTS HIM AND HE NEVER EXPLAINS IT.
+
+AND SEPARATELY, THE OLDSTEP CREW IS THE THING THAT COULD BE WARRANTED ON THE
+ROLL, which is a different institution, a different fee and a different fight.
+Two lives, two registers. It is twenty miles away and made of farmers. Four men
 on the roll, and his are in Oldstep. His company has a one-legged bookkeeper, a
 smith, an eight, and a woman holding it together. No name, no charter, wrong
 town. THIS ALSO ANSWERS SECTION 6b: a chartered company is exactly the thing to
