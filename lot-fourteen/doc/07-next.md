@@ -454,6 +454,17 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
   first, as I always do."* Sechs Empfaenger, zwanzig Jahre Gewohnheit. **Das
   ist derselbe Zeitraum wie Annies "about a month" und wie das Zufallen der
   Tuer im Settlement.** Drei Uhren, ein Fenster, und das ist Absicht.
+- **Hwang hat den Namen "in etwa zehn Tagen", also um den 3. April.** Gesetzt in
+  Band 2, Kapitel 10. Danach prueft er ihn gegen drei weitere Stellen, *"because
+  a name that comes out of one place is a rumour with an address"*, und was
+  danach damit geschieht, ist **Sache der Eigentuemer des Hauses** - also des
+  Fonds. **Georgij bekommt ihn nicht.**
+- **Und Hwang schlaegt Georgij nach, ab dem 24. Maerz.** Er hat es angekuendigt
+  und begruendet: *"I would do it if you were a florist."* Er findet Los
+  vierzehn, findet es gestrichen, und findet den Namen aus seinem eigenen
+  Besucherbuch auf der Vierzeilenliste am Ende seines eigenen Katalogs. **Das
+  ist die Einloesung von Annies "You will in about a month", nur an einem
+  anderen Nachmittag als dem, den sie gemeint hat.**
 - **"She will." - Nams zweite Frage danach, was er ist. KEIN Datum, aber
   faellig.** Gesetzt in Band 2, Kapitel 9. Er hat mit *"I work in the house you
   wrote to"* geantwortet, was wahr und keine Antwort ist. Annie: *"You have

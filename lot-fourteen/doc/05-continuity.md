@@ -107,6 +107,11 @@ nachrechnen, und `check.py` tut das automatisch.
   Auf Nams Spur wird das Veto ab jetzt schlicht **nicht mehr gezogen** - eine
   Unterlassung hinterlaesst kein Papier. Die zweite Frage, die Tuer in der
   Klausel, wird bis zum **31. Maerz** vertagt (Band 2, Kapitel 9)
+- Tag 172, Di 24. Maerz: **Mr Hwang.** Vorne herein, Name ins Besucherbuch,
+  zwei Stunden zehn. Georgij gibt ihm die drei Freigaben und bekommt keinen
+  Namen. Hwang kuendigt an, dass er Georgij nachschlagen wird - **Annies
+  "about a month" faellt hier, und Georgij liefert den Anlass selbst**
+  (Band 2, Kapitel 10)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -714,6 +719,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann das Haeusliche**, das dieser Band gebrauchen kann: *"What time did you eat."* - *"On the train."* - *"What."* - *"Nothing that anybody would want the details of."* Sie setzt ihn auf den Boden an die Seite des Schreibtischs, liest zwanzig Minuten und legt irgendwann die Hand in sein Haar, ohne von der Seite aufzusehen.
 
   **Und er merkt, wofuer sie liest, und sagt es nicht.** Nicht, was das Papier erlaubt - **was im naechsten stehen muesste.**
+
+- **Band 2, Kapitel 10** *Everything is kept* (v1.0) - **Tag 172, Di 24. Maerz. Eine Szene, das Auktionshaus, dazu der Sonntag davor und der Buergersteig danach.**
+
+  **Der eine Raum, in dem sein Verfahren nicht funktioniert, und er rechnet das am Sonntag aus.** Er kann nichts weglassen, er kann die wahren Dinge nicht sortieren, und er kann sich nicht beliebt machen - **weil der Mann alles aufhebt und den Rest bis Freitag hat.** *"That is the whole of his trade and all three of it is unavailable in one room."* Was bleibt, ist das, was er noch nie mit Absicht getan hat: **alles sagen und den anderen damit machen lassen, was er will.**
+
+  **Er benutzt Mrs Jeon ausdruecklich nicht.** Sie haette ihn an einem Nachmittag vor den Mann gebracht - und es waere in einer Notiz mit ihrem Namen gelandet, sechs Wochen bevor sie das Gebaeude verlaesst. Also geht er vorne herein und **schreibt seinen Namen ins Besucherbuch.** Zweites Mal in vierzehn Tagen.
+
+  **Hwangs erster Satz ist die beste Vorstellung, die eine Figur in Band 2 bekommt:** *"You wrote no company on the form. You wrote a name and you left the rest of the line empty."* - **"There was nothing true to put in it."**
+
+  **Die Bitte wird abgelehnt, und zwar sofort und mit Begruendung**, weil Hwang keine Zeit mit Umwegen verschwenden will: das Papier ist alles, was es gibt - *"a signature, a date and a gap"*. **Und die Unterschrift ist seine.**
+
+  **Was Georgij ihm gibt, gibt er bedingungslos:** Hwang war dreiundzwanzig, war zwei Jahre im Haus, hat unterschrieben, was man ihm hinlegte - **und er hat drei davon unterschrieben, innerhalb von elf Wochen, und er wusste nicht, dass es drei waren.** *"I am not telling you that you did something wrong. You were twenty-three and you were asked."*
+
+  **Hwang sagt an, was er tun wird, und das ist keine Drohung, sondern eine Auskunft:** *"I am going to look you up ... because you have made yourself part of a matter in this house. ... I would do it if you were a florist."* Und Georgij dazu: *"I worked it out on Sunday afternoon and I came anyway, and I would like that in the file as well."* - **"I do not put opinions in files, so it will be in it as a sentence you said."**
+
+  **Warum Hwang die drei Freigaben trotzdem heraussucht:** nicht fuer Georgij. *"I have run this house for five months on the assumption that there was one. If you are right, I have been wrong about something in my own building since October."* **Den Namen bekommt Georgij nicht**, heute nicht und an keinem anderen Tag, *"and it is not a negotiating position"*. Zeitrahmen: **etwa zehn Tage**, dann gegen drei weitere Stellen geprueft, *"because a name that comes out of one place is a rumour with an address"*. Was danach damit geschieht, ist Sache der Eigentuemer.
+
+  **Die zweite Bitte, die er nicht stellt, und er sagt trotzdem, welche es waere.** Frueher wurden hier Eintraege fuer Geld geaendert; bei Hwang nicht, und **genau deshalb ist die Rueckseite dieses Katalogs etwas wert.** *"There is no version of that request that is not exactly the thing you came here to stop."* Hwang schreibt eine Zeile auf den Block, ohne ihn zu verdecken.
+
+  **Und Hwang faengt ihn an einem Wort.** *"You said took that person home. You did not say took the lot."* - *"Everybody says the lot."* - **"I know what everybody says."** Er hakt nicht nach. Es steht ab sofort in einer Akte.
+
+  **Der Schluss ist die Rechnung auf dem Buergersteig, und sie schliesst Kapitel 5.** Ein Mann, der alles aufhebt, wird ihn nachschlagen: eine Serie, feste Referenzen, dreissig Jahre in einer Folge, in etwa einer Minute auffindbar. **Er findet Los vierzehn. Er findet es gestrichen. Und er findet den Namen aus seinem eigenen Besucherbuch auf der Vierzeilenliste am Ende seines eigenen Katalogs.**
+
+  **Annie hatte am 11. Maerz gesagt, er wisse noch nicht, was der Nachmittag gekostet habe, und werde es in etwa einem Monat wissen.** Sie hatte eine Trauerfeier und einen Korridor gemeint. *"She had been wrong about which afternoon and right about everything else."*
+
+  Und die Frage am Empfang, die das Kapitel schliesst: **"How long do you keep these."** - *"Seven years."* - *"Thank you."*
 
 ---
 

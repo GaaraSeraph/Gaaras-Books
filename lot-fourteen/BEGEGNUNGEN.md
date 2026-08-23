@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 391 | 39 (b1ch01-b2ch09) | 1 | 74 |
+| Annie | 392 | 40 (b1ch01-b2ch10) | 1 | 74 |
 | Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
@@ -31,9 +31,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 13 | 10 (b1ch05-b2ch06) | 5 | 60 |
+| Mr Hwang | 12 | 2 (b2ch07-b2ch10) | 3 | 7 |
+| Mrs Jeon | 11 | 3 (b2ch06-b2ch10) | 3 | 7 |
 | Nam Byung-hee | 11 | 3 (b2ch03-b2ch09) | 9 | 56 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
-| Mrs Jeon | 10 | 2 (b2ch06-b2ch07) | 5 | 7 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -45,7 +46,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
-| Mr Hwang | 1 | 1 (b2ch07) | 7 | 7 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 
@@ -53,7 +53,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-391 Nennungen in 39 Kapiteln.
+392 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -448,6 +448,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch09:212 | "Say the thing about the four again," said Annie. |
 | 9 | b2ch09:222 | Annie looked at the desk. |
 | 9 | b2ch09:244 | "Sit down," said Annie. "On the floor, where you sit. I am going to read the thing in th.. |
+| 3 | b2ch10:236 | Annie had told him on the eleventh of March that he did not yet know what the afternoon .. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1717,6 +1718,63 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Hwang
+
+12 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:42 | Mr Hwang is about fifty and looked at him for perhaps two seconds before he spoke, which.. |
+| 3 | b2ch10:58 | Mr Hwang did not react to any part of that. |
+| 3 | b2ch10:76 | Mr Hwang put both hands on the desk, flat, the way somebody does who is about to be care.. |
+| 3 | b2ch10:98 | Mr Hwang got up and stood at the window for a moment with his back to the room, which is.. |
+| 3 | b2ch10:112 | Mr Hwang turned round. |
+| 3 | b2ch10:126 | "I am going to look you up," said Mr Hwang. "Not because you have annoyed me and not in .. |
+| 3 | b2ch10:140 | Mr Hwang looked at him for slightly longer this time. |
+| 3 | b2ch10:160 | "Because I have not verified it." Mr Hwang said it the way another man would say a house.. |
+| 3 | b2ch10:174 | "You have not asked me for anything else," said Mr Hwang. "People who get this far usual.. |
+| 3 | b2ch10:186 | Mr Hwang wrote one line on the pad. It took him about four seconds and he did not hide t.. |
+| 3 | b2ch10:202 | Mr Hwang did not follow it up, and he did not need to, and it is in a file now, in a bui.. |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:42` (Tag 3) - fifty, two
+- `b2ch10:160` (Tag 3) - one, ten, three
+- `b2ch10:186` (Tag 3) - four, one
+
+---
+
+## Mrs Jeon
+
+11 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
+| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
+| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
+| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
+| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
+| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
+| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
+| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
+| 3 | b2ch10:18 | He also decided not to go anywhere near Mrs Jeon. |
+
+### Zahlen in der Naehe von Mrs Jeon
+
+- `b2ch06:56` (Tag 5) - fifty
+- `b2ch06:110` (Tag 5) - one
+- `b2ch06:154` (Tag 5) - four
+- `b2ch07:34` (Tag 7) - three
+- `b2ch07:66` (Tag 7) - one
+- `b2ch07:78` (Tag 7) - one
+
+---
+
 ## Nam Byung-hee
 
 11 Nennungen in 3 Kapiteln.
@@ -1773,34 +1831,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:244` (Tag 1) - eleven, one
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
-
----
-
-## Mrs Jeon
-
-10 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
-| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
-| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
-| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
-| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
-| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
-| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
-| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
-
-### Zahlen in der Naehe von Mrs Jeon
-
-- `b2ch06:56` (Tag 5) - fifty
-- `b2ch06:110` (Tag 5) - one
-- `b2ch06:154` (Tag 5) - four
-- `b2ch07:34` (Tag 7) - three
-- `b2ch07:66` (Tag 7) - one
-- `b2ch07:78` (Tag 7) - one
 
 ---
 
@@ -2006,20 +2036,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Tae-min
 
 - `b1ch05:178` (Tag 6) - nineteen, two
-
----
-
-## Mr Hwang
-
-1 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
 
 ---
 
