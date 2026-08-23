@@ -1,0 +1,231 @@
+# Chapter 24: Somebody Has to Look at Him
+
+"You do not talk," said Ylva.
+
+"I had worked that out on my own, and I want it noted that I got there before you said it."
+
+"You do not talk," she said again, "and I am going to say it a third time before we get to the gate, and you are going to be insulted every time, and I am going to keep doing it."
+
+They were in Frida's yard with the light not properly up. Sivert was sitting on the water butt with the pack between his boots, awake, saying nothing, which he did professionally.
+
+"May I say good morning."
+
+"No."
+
+"The last person who told me to keep my mouth shut for an hour got a considerably better morning out of it than you are going to."
+
+"I was in the room," said Ylva.
+
+"You were. And you have not once complimented the workmanship, which I have decided to take as envy."
+
+"I have decided to take it as a horse."
+
+"May I say nothing in a way that indicates good morning."
+
+"You may stand there," said Ylva. "You are very good at standing there. You did it for an hour in the roll house and the woman wrote your name down."
+
+"Signe liked me."
+
+"Signe took two coins off you and told you where to sit."
+
+"That is what liking me looks like," said Gaara, "and I have been receiving it in that exact form my entire life."
+
+The walk was eleven minutes and he managed nine of them.
+
+"Ask me something," he said, at the ninth.
+
+Sivert did not look round. "No."
+
+"You are enjoying this."
+
+"Yes."
+
+"You have said one word to me since the yard and you are winning."
+
+"That is how it works," said Sivert.
+
+"You have had my hand in your mouth," said Gaara, "and you will not give me nine minutes of conversation. There is a word for that and I intend to look it up as soon as I can read properly."
+
+Sivert went red from the collar up and kept walking and did not say anything at all, which Gaara counted as a win and was, on any honest reckoning, not one.
+
+Ordulf's gate was open, which Gaara noted and did not mention, because a man who does not want to see you shuts a gate.
+
+The forge behind it was three times Rulf's and hot at that hour, which meant somebody had been up since the middle of the night. There was a boy at the bellows who was going to be deaf by forty. Racks along the whole south wall. Stock in them that Gaara could price now, roughly, in goats, and the number he got was not a village number.
+
+Ordulf was about sixty and built like something you would need a horse to move.
+
+Level 9
+
+Gaara read it, and filed it, and put it away, and did not use it, and was aware of exactly how much he wanted to.
+
+"You brought him," said Ordulf.
+
+"I did," said Ylva.
+
+"Why."
+
+"Because you asked a question about him and I am not going to answer it for you."
+
+Ordulf looked at Gaara then, and it went on long enough that Sivert shifted his weight, and Gaara stood there and let it happen and did not put a single thing on his face.
+
+"He is not much."
+
+Gaara said nothing.
+
+"Bit of shoulder. Bad boots. He has been eating badly for a fortnight and sleeping worse." Ordulf turned back to the fire, unhurried, and shifted something in it with a rake. "And he has got a mouth on him. I can see it from here. It is sat behind his teeth right now doing nothing and it is killing him."
+
+There was a version of the next four seconds that Gaara had fully assembled, and it was very good, and he let it go past him like a cart.
+
+"That is the first true thing anybody has said about him in this town," said Ylva.
+
+"Then you should have brought a quieter one."
+
+"There is not a quieter one. There is him."
+
+The rake went back on its hook.
+
+"Rulf sat where he is standing," said Ordulf. "About ten years ago. Not a fortnight after he came out the first time. He stood there and he told me what was in that city, and I said what any man would say, which was how much, and he told me, and I did the arithmetic out loud in front of him."
+
+Nobody in the forge said anything.
+
+"He went back because of a number I said." Ordulf was looking at the fire and not at either of them. "And I have been telling myself for ten years that he was going anyway. Some days that even works."
+
+"He was going anyway," said Ylva.
+
+"You do not get to give me that."
+
+"I am not giving you anything. I am telling you what I know, and I lived with him and you sold him bar." She had not moved. "He was going anyway. You made it two months earlier. That is all you did."
+
+Ordulf put both hands on the bench and stood there with his back to them for a while.
+
+"He was a mediocre smith," he said, to the wall. "And a worse listener. And I have not been able to say either of those out loud in ten years, because the day a man dies he gets promoted, and there is no arguing with the promotion."
+
+"He was mediocre," said Ylva.
+
+"He was."
+
+"He could not set a tyre without swearing at it."
+
+"He could not set a tyre at all," said Ordulf. "You set the tyres. Everybody in two valleys knew you set the tyres and nobody said it, because he would have gone off like a wet forge."
+
+Then, without turning round, "And now you are going in."
+
+"Yes."
+
+"Same city. Same reason. With that."
+
+"Yes."
+
+"And you want me to hand you the tools for it and take a cut, so that when it goes the way it went, I will have done it twice."
+
+"Yes," said Ylva. "That is exactly what I want, and I am not going to make it sound like anything else."
+
+Gaara stood there and did not speak, and found it was not the talking he missed. It was the arranging. He could see four ways through this and every one of them needed his voice. The voice was the thing not allowed in the room. He understood in about a second and a half that this was correct. Every one of his four ways ended with a man being talked round to something about a dead friend. That is the trick a person does once and cannot ever do again.
+
+So he stood there and let a woman of forty do it with nothing but the truth, which was slower, and which was going to work.
+
+"I sent to Oldstep," said Ordulf.
+
+That got Ylva's head round.
+
+"You did what."
+
+"Nine days ago. Man of mine goes up for the fleeces anyway." He shrugged, which on him was a considerable event. "I asked what he was. Your one, there. Whether he was the sort that comes back with fewer than he took."
+
+"And."
+
+"And they told me about a man called Bern."
+
+Gaara did not move.
+
+"Leg off below the knee, on advice this one gave, which was good advice and it went wrong anyway." Ordulf finally turned round. "And they said the man is fed. And that he has got work he can do sitting down. Real work, not something they made up out of pity. And his name is on the top of the thing they read out before they go in."
+
+"It is," said Ylva.
+
+"That is not nothing," said Ordulf. "A man who cripples somebody and then keeps him in the account is a different animal from a man who does not."
+
+He came round the end of the bench and stood in front of Gaara properly, close, and looked at him the way he would have looked at a bar he was thinking of buying.
+
+"You can speak."
+
+"Thank you. I have not gone that long with my mouth shut since a hayloft, and that at least had something in it."
+
+Ordulf looked at him for a second.
+
+"Sixty years I have been in this trade," he said, "and that is the first time anybody has said a thing like that to me in my own forge."
+
+"And you are not throwing me out."
+
+"I am deciding."
+
+"Say the terms. Not the reasons. I have had the reasons."
+
+"Four trips," said Gaara. "Written, and witnessed, and lodged with the Staple, because I have a mark there now and it can be held against me. Four, and then we stop and we come back and we argue about whether there is a fifth, at the bottom of the hill, with everybody sat down. Anybody in the party can call the stop on any day and does not have to say why, and nobody argues with it in the doorway."
+
+"Whose rule is that."
+
+"Bern's," said Gaara. "He is the one who found out we needed it."
+
+Ordulf thought about that for a long moment.
+
+"Four," he said. "And the stop written in, not spoken. And I do not want a cut of the metal."
+
+"Then what."
+
+"First refusal on all of it, at a price we set now, in this room, before either of us knows what is up there." He said it flat. "I am not having this conversation again in a year when the pair of you have worked out what it is worth."
+
+"That is the best terms anybody has offered me in two lifetimes," said Gaara, "and I would like to shake your hand before you notice."
+
+"I have noticed. I am sixty. I noticed in the yard."
+
+The blade would take eleven days.
+
+Not for coin. Against the first of the metal, secured on a name in a book. Ordulf said that twice in slightly different words, so that everybody understood the book was the part he was doing business with and not the man.
+
+They came out into the street and Gaara stopped about six paces along and stood still with his hands in his coat.
+
+"You have gone quiet again," said Ylva.
+
+"I have not been allowed to speak since dawn, so I would call that a long-standing condition rather than a symptom."
+
+"That is not what I meant."
+
+"No." He was looking at nothing at all. "Give me a moment. I am about to do something I have been avoiding for eleven days and I would rather have it behind me."
+
+He pulled the sheet forward, in a street, in front of a fishmonger, which was the least dignified place he had ever done anything important.
+
+Six points. He had carried them since the flooded room and had told himself four separate times that he was waiting for information.
+
+He put all six into CON.
+
+[ ATTRIBUTES UPDATED ]
+
+CON: 11 to 17
+Endurance and recovery from injury increased.
+HP: 255 to 345
+
+It did not feel like the DEX had felt. There was no cold water and nothing arrived early. It was slower and lower down and it went on for some time, the way a room gets warm.
+
+"What did you do," said Sivert.
+
+"Bought the boring one." He rolled his shoulders and something in his back went somewhere better. "Endurance. And yes, I am aware of the second application. I have been aware of it since the numbers came up, and I would like it minuted that I held out nine whole seconds before mentioning it."
+
+"You did not hold out," said Ylva.
+
+"I held out in spirit."
+
+"You always say what you did."
+
+"I do." Gaara stood there and breathed, and the breathing was different, and he was going to be finding that out for a week. "In the other place, the number that ran my life was a five, and it was in exactly this one, and everything I have ever lost went through it. I have been walking about this world with eleven and six in my pocket and a very good reason not to spend them, and I have had that reason ready every time anybody asked."
+
+"What was the reason."
+
+"That I was waiting for better information," said Gaara. "Which was true, and which is the most expensive true thing I have ever said."
+
+He got moving again.
+
+"We are going in four times. Four is not one. One is a man being clever and getting out, and I have done that twice and I am extremely good at it. Four is the same room, over and over, with the same people, and it does not go to the fastest man in it. It goes to the one still standing on the fourth day."
+
+"So you bought standing," said Ylva.
+
+"I bought standing," said Gaara. "It is the least interesting thing I have ever purchased and it is going to be the reason somebody comes back."

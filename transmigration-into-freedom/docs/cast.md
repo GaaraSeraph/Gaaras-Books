@@ -259,7 +259,22 @@ Runa, button seller (ch23)
 - SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
 
-Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
+Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
+- Forge three times the size of Rulf's, hot before dawn, racks down the whole
+  south wall. LEVEL 9. Built like something you would need a horse to move.
+- READS GAARA IN FOUR SECONDS AND SAYS IT ALOUD: bit of shoulder, bad boots,
+  eating badly a fortnight and sleeping worse, "and he has got a mouth on him.
+  It is sat behind his teeth right now doing nothing and it is killing him."
+- HIS GUILT IS SPECIFIC. Rulf told him what was in the city and he did the
+  arithmetic out loud. "He went back because of a number I said."
+- AND HE IS THE ONE WHO BURIES RULF HONESTLY: mediocre smith, worse listener,
+  and he could not set a tyre. Ylva set the tyres and two valleys knew it.
+- NOT A GOOD MAN, CONFIRMED, AND ALSO THOROUGH: he sent a man to Oldstep nine
+  days before any of this to find out what Gaara was.
+- Takes no cut. Takes first refusal at a price set in advance. Does business
+  with the register, not the person.
+
+Ordulf, superseded note (ch19 named, ch22 refuses)
 - Will not deal with Ylva, and the reason is not her missing touch. THE LAST
   MAN WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF - Ylva's husband - AND
   RULF DID NOT COME BACK.

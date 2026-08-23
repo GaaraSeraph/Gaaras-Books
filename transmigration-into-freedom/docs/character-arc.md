@@ -214,6 +214,15 @@ is real: the grind is owed and the reader can feel it being owed. What ch21
 gives instead is the SCALE, which is a system revelation rather than a system
 gain, and it does the work of a level-up without paying one.
 
+Chapter 24: THE DROUGHT ENDS, and it ends on the author's complaint that the
+LitRPG had turned into a merchant novel, which was fair and was already logged
+here as a debt. SIX BANKED POINTS ALL INTO CON: 11 to 17, HP 255 to 345, the
+biggest single mechanical change since ch12. No level and no kills - the numbers
+move because he SPENDS, not because he wins, which is the right way to break a
+seven-chapter drought in a chapter with no fight in it.
+STILL OWED AND NOW OVERDUE: an actual grind. The ch24 deal delivers the reason
+(four trips into the city) and ch25 has to start paying it.
+
 Chapters 22 and 23: no mechanical change, SIXTH AND SEVENTH RUNNING, and the debt is now
 the largest structural problem in the book. Nothing killed since ch17. Six
 points still banked and he has not spent one since ch12. The Wold is paying in

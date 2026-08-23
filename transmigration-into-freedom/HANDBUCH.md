@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 54.064 Woerter.
+Kanon: 24 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 55.616 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -276,7 +276,22 @@ Runa, button seller (ch23)
 - SHE DOES NOT ANSWER. Unresolved on purpose. He asked once and will not ask
   again, so if anything happens it is hers to start, same as Sivert and Ylva.
 
-Ordulf, smith, in the Touch (ch19 named, ch22 refuses)
+Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
+- Forge three times the size of Rulf's, hot before dawn, racks down the whole
+  south wall. LEVEL 9. Built like something you would need a horse to move.
+- READS GAARA IN FOUR SECONDS AND SAYS IT ALOUD: bit of shoulder, bad boots,
+  eating badly a fortnight and sleeping worse, "and he has got a mouth on him.
+  It is sat behind his teeth right now doing nothing and it is killing him."
+- HIS GUILT IS SPECIFIC. Rulf told him what was in the city and he did the
+  arithmetic out loud. "He went back because of a number I said."
+- AND HE IS THE ONE WHO BURIES RULF HONESTLY: mediocre smith, worse listener,
+  and he could not set a tyre. Ylva set the tyres and two valleys knew it.
+- NOT A GOOD MAN, CONFIRMED, AND ALSO THOROUGH: he sent a man to Oldstep nine
+  days before any of this to find out what Gaara was.
+- Takes no cut. Takes first refusal at a price set in advance. Does business
+  with the register, not the person.
+
+Ordulf, superseded note (ch19 named, ch22 refuses)
 - Will not deal with Ylva, and the reason is not her missing touch. THE LAST
   MAN WHO BROUGHT HIM METAL OUT OF THAT CITY WAS RULF - Ylva's husband - AND
   RULF DID NOT COME BACK.
@@ -574,6 +589,15 @@ is real: the grind is owed and the reader can feel it being owed. What ch21
 gives instead is the SCALE, which is a system revelation rather than a system
 gain, and it does the work of a level-up without paying one.
 
+Chapter 24: THE DROUGHT ENDS, and it ends on the author's complaint that the
+LitRPG had turned into a merchant novel, which was fair and was already logged
+here as a debt. SIX BANKED POINTS ALL INTO CON: 11 to 17, HP 255 to 345, the
+biggest single mechanical change since ch12. No level and no kills - the numbers
+move because he SPENDS, not because he wins, which is the right way to break a
+seven-chapter drought in a chapter with no fight in it.
+STILL OWED AND NOW OVERDUE: an actual grind. The ch24 deal delivers the reason
+(four trips into the city) and ch25 has to start paying it.
+
 Chapters 22 and 23: no mechanical change, SIXTH AND SEVENTH RUNNING, and the debt is now
 the largest structural problem in the book. Nothing killed since ch17. Six
 points still banked and he has not spent one since ch12. The Wold is paying in
@@ -692,6 +716,40 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Chapter 24, and the author was right that Gaara is irrelevant here ===
+He pushed twice. First: is Ordulf's fear not simply that another person he knows
+dies, and would Gaara not then be beside the point? Yes, and it is better than
+the three approaches I had proposed, all of which assumed a business objection
+and were therefore negotiable.
+Then he pushed again: what does going along actually achieve, if he must be
+silent? Fair, and my first answer was thin. THE ANSWER THAT SURVIVED: Ordulf's
+question ("why should I think we will do better") cannot be answered by the
+person carrying the risk. A widow saying he is careful is what a widow says. IT
+NEEDS LOOKING AT, NOT TELLING. So Gaara goes to be inspected, and loses the
+moment he performs, because performing is what a man who gets people killed does.
+AND THE REAL EVIDENCE IS BERN, which is not talk and not Gaara's to present.
+Ordulf had already sent to Oldstep nine days earlier and been told: fed, in real
+sitting-down work, name at the top of the doctrine. A record, not a promise.
+THE THING THAT CLOSES IT IS ch23's REGISTRATION. Ordulf will deal with a man who
+can be found and sued, and says so twice. The Staple fee was collateral.
+
+=== The LitRPG drought ends: six points into CON ===
+Author, wryly: what has become of the LitRPG with trade shares. Fair, and it was
+already logged in character-arc.md as a debt - seven chapters with no mechanical
+change and nothing killed since ch17.
+SO ch24 SPENDS. All six banked points into CON, 11 to 17, HP 255 to 345, in a
+street in front of a fishmonger, using ch12's format exactly.
+CON IS THE ONLY POSSIBLE CHOICE and it has been loaded since ch3: the number
+that ran his old life was a FIVE and it was in this attribute. He has never once
+put a point into the thing that killed him.
+WHAT UNLOCKS THE SPEND IS THE DEAL, not sentiment. Four trips, not one. "One is
+a man being clever and getting out. Four is the same room, over and over, and it
+does not go to the fastest man in it." DEX was for surviving a fight; CON is for
+surviving a business.
+AND HE PRICES HIS OWN DELAY: he waited for better information, which was true,
+and which he calls the most expensive true thing he has ever said.
 
 
 === What success would actually cost Ordulf, made legible on the page ===
@@ -2304,7 +2362,8 @@ nicht diese Zeile von Hand.
 21. The Only Book There Is
 22. A Hand Changes a Noise
 23. Two Coins Short
-24. (planned) Ordulf, and the lord's man
+24. Somebody Has to Look at Him
+25. (planned) the lord's man, and the first trip back in
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3014,6 +3073,25 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   and if I am wrong I buy the table a jug I cannot afford. Selling a claim by
   handing over the way to falsify it is the whole man.
 
+- (ch24) THE SIX BANKED POINTS GO INTO CON, ALL OF THEM, IN A STREET, IN FRONT
+  OF A FISHMONGER. CON 11 to 17, HP 255 to 345. Same format as ch12's spend:
+  [ ATTRIBUTES UPDATED ], cold, all in one place, with the reason stated.
+  WHY THIS ONE AND WHY NOW. In the other place the number that ran his life was
+  a FIVE and it was in exactly this attribute (ch3: "Every single thing he had
+  lost, he had lost through that number"). He has walked round this world with
+  eleven and six in his pocket and a reason ready every time.
+  THE REASON THE HOARDING ENDS IS THE DEAL: four trips, not one. "One is a man
+  being clever and getting out, and I have done that twice. Four is the same
+  room, over and over, and it does not go to the fastest man in it. It goes to
+  the one still standing on the fourth day." He bought standing.
+  AND HE NAMES THE COST OF THE DELAY: the reason he gave himself for waiting was
+  that he wanted better information, which was TRUE, and which he calls the most
+  expensive true thing he has ever said.
+- (ch24) THE PANEL AS A TEMPTATION RATHER THAN A TOOL. He reads Ordulf at Level
+  9 in the first seconds and then must not use it, because the negotiation is
+  not his. "He read it, and filed it, and put it away, and did not use it, and
+  was aware of exactly how much he wanted to."
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -3338,6 +3416,48 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+Ordulf, and the one wall talking cannot get through (ch24)
+- THE OBJECTION WAS NEVER ABOUT GAARA, which is the author's read and it is the
+  right one. Ordulf is not weighing a business risk. He knows Ylva, he supplied
+  Rulf's forge, and he does not want to bury a second person from that family.
+  SO GAARA IS NOT IRRELEVANT BY INSULT, HE IS IRRELEVANT BY STRUCTURE. Every
+  instrument he owns works on somebody who wants something from him. Ordulf
+  wants nothing and needs to know nothing.
+- HE IS FORBIDDEN TO SPEAK AND HE OBEYS IT. Ylva sets the terms in the yard and
+  repeats them twice on purpose. This is the first wall in the book where
+  talking is the wrong tool, and ch22's silent night was the rehearsal for it.
+- AND HE WORKS OUT WHY THE SILENCE IS CORRECT, which is the chapter's turn: he
+  can see four ways through and every one needs his voice, AND EVERY ONE OF THEM
+  ENDS WITH A MAN BEING TALKED ROUND TO SOMETHING ABOUT A DEAD FRIEND. "That is
+  the trick a person does once and cannot ever do again."
+- ORDULF'S GUILT IS REAL AND SPECIFIC. Rulf stood in that forge ten years ago
+  and told him what was in the city, and Ordulf asked how much and DID THE
+  ARITHMETIC OUT LOUD IN FRONT OF HIM. "He went back because of a number I
+  said." Ylva does not absolve him and does not condemn him: he was going
+  anyway, Ordulf made it two months earlier, that is all he did.
+- AND THEY BURY RULF PROPERLY, WHICH IS THE SCENE'S BEST MOMENT AND IS A JOKE.
+  "He was a mediocre smith. And a worse listener. And I have not been able to
+  say either of those out loud in ten years, because the day a man dies he gets
+  promoted, and there is no arguing with the promotion." Ylva agrees, and it
+  turns out EVERYBODY IN TWO VALLEYS KNEW SHE SET THE TYRES and nobody said so.
+  That is the moment Ordulf stops refusing, and neither of them notices it.
+- WHAT ACTUALLY MOVES HIM IS EVIDENCE, NOT ARGUMENT: he sent a man to Oldstep
+  NINE DAYS AGO and asked whether Gaara comes back with fewer than he took. He
+  got told about Bern. Fed, in real work he can do sitting down, name at the top
+  of the doctrine. "A man who cripples somebody and then keeps him in the
+  account is a different animal from a man who does not."
+  GAARA NEVER SAYS ANY OF THIS. He could not have. It only counts because it
+  came from Oldstep to a stranger who was checking up on him.
+- THE TERMS, AND THEY ARE THE PUBLISHING PROGRAMME EATING THE PLOT: FOUR TRIPS,
+  written, witnessed and lodged with the Staple, BECAUSE A MARK CAN BE HELD
+  AGAINST HIM AND A PROMISE CANNOT. Plus BERN'S RULE written in rather than
+  spoken. Ordulf refuses a cut and takes FIRST REFUSAL AT A PRICE SET BEFORE
+  ANYBODY KNOWS WHAT IS UP THERE.
+  THE THING THAT CLOSED THE DEAL WAS ch23. Ordulf says twice, in different
+  words, that THE BOOK IS THE PART HE IS DOING BUSINESS WITH AND NOT THE MAN.
+  Registering Hades was not a formality, it was the collateral.
+- THE BLADE: eleven days, not for coin, against the first of the metal.
 
 The loft, and what he wakes up to (ch22)
 - HE DOES NOT ASK TWICE, AND NOW THE LINE IS TRUE. He corrects the count out

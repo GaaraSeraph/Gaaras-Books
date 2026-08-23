@@ -3,6 +3,40 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 24, and the author was right that Gaara is irrelevant here ===
+He pushed twice. First: is Ordulf's fear not simply that another person he knows
+dies, and would Gaara not then be beside the point? Yes, and it is better than
+the three approaches I had proposed, all of which assumed a business objection
+and were therefore negotiable.
+Then he pushed again: what does going along actually achieve, if he must be
+silent? Fair, and my first answer was thin. THE ANSWER THAT SURVIVED: Ordulf's
+question ("why should I think we will do better") cannot be answered by the
+person carrying the risk. A widow saying he is careful is what a widow says. IT
+NEEDS LOOKING AT, NOT TELLING. So Gaara goes to be inspected, and loses the
+moment he performs, because performing is what a man who gets people killed does.
+AND THE REAL EVIDENCE IS BERN, which is not talk and not Gaara's to present.
+Ordulf had already sent to Oldstep nine days earlier and been told: fed, in real
+sitting-down work, name at the top of the doctrine. A record, not a promise.
+THE THING THAT CLOSES IT IS ch23's REGISTRATION. Ordulf will deal with a man who
+can be found and sued, and says so twice. The Staple fee was collateral.
+
+=== The LitRPG drought ends: six points into CON ===
+Author, wryly: what has become of the LitRPG with trade shares. Fair, and it was
+already logged in character-arc.md as a debt - seven chapters with no mechanical
+change and nothing killed since ch17.
+SO ch24 SPENDS. All six banked points into CON, 11 to 17, HP 255 to 345, in a
+street in front of a fishmonger, using ch12's format exactly.
+CON IS THE ONLY POSSIBLE CHOICE and it has been loaded since ch3: the number
+that ran his old life was a FIVE and it was in this attribute. He has never once
+put a point into the thing that killed him.
+WHAT UNLOCKS THE SPEND IS THE DEAL, not sentiment. Four trips, not one. "One is
+a man being clever and getting out. Four is the same room, over and over, and it
+does not go to the fastest man in it." DEX was for surviving a fight; CON is for
+surviving a business.
+AND HE PRICES HIS OWN DELAY: he waited for better information, which was true,
+and which he calls the most expensive true thing he has ever said.
+
+
 === What success would actually cost Ordulf, made legible on the page ===
 Author asked the question a second time, correctly - the line was too compressed
 to answer it. The logic was there but not written: RULF SUCCEEDED ON HIS FIRST

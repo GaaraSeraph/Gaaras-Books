@@ -29,7 +29,8 @@ nicht diese Zeile von Hand.
 21. The Only Book There Is
 22. A Hand Changes a Noise
 23. Two Coins Short
-24. (planned) Ordulf, and the lord's man
+24. Somebody Has to Look at Him
+25. (planned) the lord's man, and the first trip back in
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -739,6 +740,25 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   and if I am wrong I buy the table a jug I cannot afford. Selling a claim by
   handing over the way to falsify it is the whole man.
 
+- (ch24) THE SIX BANKED POINTS GO INTO CON, ALL OF THEM, IN A STREET, IN FRONT
+  OF A FISHMONGER. CON 11 to 17, HP 255 to 345. Same format as ch12's spend:
+  [ ATTRIBUTES UPDATED ], cold, all in one place, with the reason stated.
+  WHY THIS ONE AND WHY NOW. In the other place the number that ran his life was
+  a FIVE and it was in exactly this attribute (ch3: "Every single thing he had
+  lost, he had lost through that number"). He has walked round this world with
+  eleven and six in his pocket and a reason ready every time.
+  THE REASON THE HOARDING ENDS IS THE DEAL: four trips, not one. "One is a man
+  being clever and getting out, and I have done that twice. Four is the same
+  room, over and over, and it does not go to the fastest man in it. It goes to
+  the one still standing on the fourth day." He bought standing.
+  AND HE NAMES THE COST OF THE DELAY: the reason he gave himself for waiting was
+  that he wanted better information, which was TRUE, and which he calls the most
+  expensive true thing he has ever said.
+- (ch24) THE PANEL AS A TEMPTATION RATHER THAN A TOOL. He reads Ordulf at Level
+  9 in the first seconds and then must not use it, because the negotiation is
+  not his. "He read it, and filed it, and put it away, and did not use it, and
+  was aware of exactly how much he wanted to."
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1063,6 +1083,48 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+Ordulf, and the one wall talking cannot get through (ch24)
+- THE OBJECTION WAS NEVER ABOUT GAARA, which is the author's read and it is the
+  right one. Ordulf is not weighing a business risk. He knows Ylva, he supplied
+  Rulf's forge, and he does not want to bury a second person from that family.
+  SO GAARA IS NOT IRRELEVANT BY INSULT, HE IS IRRELEVANT BY STRUCTURE. Every
+  instrument he owns works on somebody who wants something from him. Ordulf
+  wants nothing and needs to know nothing.
+- HE IS FORBIDDEN TO SPEAK AND HE OBEYS IT. Ylva sets the terms in the yard and
+  repeats them twice on purpose. This is the first wall in the book where
+  talking is the wrong tool, and ch22's silent night was the rehearsal for it.
+- AND HE WORKS OUT WHY THE SILENCE IS CORRECT, which is the chapter's turn: he
+  can see four ways through and every one needs his voice, AND EVERY ONE OF THEM
+  ENDS WITH A MAN BEING TALKED ROUND TO SOMETHING ABOUT A DEAD FRIEND. "That is
+  the trick a person does once and cannot ever do again."
+- ORDULF'S GUILT IS REAL AND SPECIFIC. Rulf stood in that forge ten years ago
+  and told him what was in the city, and Ordulf asked how much and DID THE
+  ARITHMETIC OUT LOUD IN FRONT OF HIM. "He went back because of a number I
+  said." Ylva does not absolve him and does not condemn him: he was going
+  anyway, Ordulf made it two months earlier, that is all he did.
+- AND THEY BURY RULF PROPERLY, WHICH IS THE SCENE'S BEST MOMENT AND IS A JOKE.
+  "He was a mediocre smith. And a worse listener. And I have not been able to
+  say either of those out loud in ten years, because the day a man dies he gets
+  promoted, and there is no arguing with the promotion." Ylva agrees, and it
+  turns out EVERYBODY IN TWO VALLEYS KNEW SHE SET THE TYRES and nobody said so.
+  That is the moment Ordulf stops refusing, and neither of them notices it.
+- WHAT ACTUALLY MOVES HIM IS EVIDENCE, NOT ARGUMENT: he sent a man to Oldstep
+  NINE DAYS AGO and asked whether Gaara comes back with fewer than he took. He
+  got told about Bern. Fed, in real work he can do sitting down, name at the top
+  of the doctrine. "A man who cripples somebody and then keeps him in the
+  account is a different animal from a man who does not."
+  GAARA NEVER SAYS ANY OF THIS. He could not have. It only counts because it
+  came from Oldstep to a stranger who was checking up on him.
+- THE TERMS, AND THEY ARE THE PUBLISHING PROGRAMME EATING THE PLOT: FOUR TRIPS,
+  written, witnessed and lodged with the Staple, BECAUSE A MARK CAN BE HELD
+  AGAINST HIM AND A PROMISE CANNOT. Plus BERN'S RULE written in rather than
+  spoken. Ordulf refuses a cut and takes FIRST REFUSAL AT A PRICE SET BEFORE
+  ANYBODY KNOWS WHAT IS UP THERE.
+  THE THING THAT CLOSED THE DEAL WAS ch23. Ordulf says twice, in different
+  words, that THE BOOK IS THE PART HE IS DOING BUSINESS WITH AND NOT THE MAN.
+  Registering Hades was not a formality, it was the collateral.
+- THE BLADE: eleven days, not for coin, against the first of the metal.
 
 The loft, and what he wakes up to (ch22)
 - HE DOES NOT ASK TWICE, AND NOW THE LINE IS TRUE. He corrects the count out
