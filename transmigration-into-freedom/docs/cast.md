@@ -237,6 +237,28 @@ The six (ch14, blooded ch15)
   door, and he stood in the dark holding bread, which was the worst he had felt
   all week.
 
+THE WOLD
+
+Egil, captain, Level 15 (ch21)
+- Runs a company that comes in off jobs and counts silver on a table. Says "No"
+  before Gaara has said anything, on the correct assumption that a stranger at
+  the end of a table wants work.
+- ALMOST HIRES THE WRONG MAN, a talkative 9 over a quiet 13 with a bad hand, and
+  takes the test rather than the assurance. Then vouches for Gaara at the Roll
+  after asking him the same questions twice an hour apart, which is Oldstep's
+  method arriving in a town that never had it.
+- His one word about it is "fine", said on the way past a chair.
+
+Signe, clerk of the roll house, about fifty (ch21)
+- Writes the names. Does not look up until Gaara says he would rather admit to
+  nowhere than give her a lie. Then looks up.
+- Tells him where to sit and he sits there. Has something at the corner of her
+  mouth exactly once.
+- SHE IS THE POWER IN THAT BUILDING and both of them know it inside a minute.
+  She gives him her name unprompted: "In case you need to know who wrote it."
+- He tells her he will bring her a company and asks how impressed he should be
+  when he does. "Bring it first." "That is exactly what I would have said."
+
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
 in Oldstep beyond Marit, Hallvard and Solva has a name in the text right now.

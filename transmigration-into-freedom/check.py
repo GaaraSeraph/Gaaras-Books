@@ -50,7 +50,12 @@ NUMWORD = (r"(?:thirty-nine|thirty-eight|thirty-five|\d+|one|two|three|four|five
 CANON_NUMBERS = [
     (re.compile(rf"\b({NUMWORD})\s+houses\b", re.I), {"forty", "40"}, "Oldstep hat vierzig Haeuser"),
     (re.compile(rf"\b({NUMWORD})\s+companies\b", re.I), {"thirty-nine", "39"}, "Gaara: 39 Firmen im alten Leben"),
-    (re.compile(rf"\b({NUMWORD})\s+coins\b", re.I), {"eleven", "11"}, "elf Muenzen aus Teodors Beutel"),
+    # Elf Muenzen sind Teodors Beutel. Seit der Preisleiter (ch20) gibt es
+    # weitere legitime Muenzzahlen: die Roll-Gebuehr (zwei) und der Preis
+    # einer Klinge (vierundvierzig, vier Ziegen). Alles andere ist Drift.
+    (re.compile(rf"\b({NUMWORD})\s+coins\b", re.I),
+     {"eleven", "11", "two", "2", "forty-four", "44", "four", "4"},
+     "Muenzzahlen: 11 im Beutel, 2 Roll-Gebuehr, 44 eine Klinge"),
     (re.compile(r"Marit[^.\n]{0,40}?\b(?:Level\s+|at\s+)(\d+)\b", re.I), {"6"}, "Marit ist Level 6"),
     # Preisleiter, ch20 auf der Strasse in den Wold. Recheneinheit ist die
     # Ziege, nicht die Muenze. Elf Muenzen = eine gute Ziege und etwas darueber.

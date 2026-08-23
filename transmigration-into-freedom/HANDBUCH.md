@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 43.756 Woerter.
+Kanon: 21 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 45.205 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -254,6 +254,28 @@ The six (ch14, blooded ch15)
   door, and he stood in the dark holding bread, which was the worst he had felt
   all week.
 
+THE WOLD
+
+Egil, captain, Level 15 (ch21)
+- Runs a company that comes in off jobs and counts silver on a table. Says "No"
+  before Gaara has said anything, on the correct assumption that a stranger at
+  the end of a table wants work.
+- ALMOST HIRES THE WRONG MAN, a talkative 9 over a quiet 13 with a bad hand, and
+  takes the test rather than the assurance. Then vouches for Gaara at the Roll
+  after asking him the same questions twice an hour apart, which is Oldstep's
+  method arriving in a town that never had it.
+- His one word about it is "fine", said on the way past a chair.
+
+Signe, clerk of the roll house, about fifty (ch21)
+- Writes the names. Does not look up until Gaara says he would rather admit to
+  nowhere than give her a lie. Then looks up.
+- Tells him where to sit and he sits there. Has something at the corner of her
+  mouth exactly once.
+- SHE IS THE POWER IN THAT BUILDING and both of them know it inside a minute.
+  She gives him her name unprompted: "In case you need to know who wrote it."
+- He tells her he will bring her a company and asks how impressed he should be
+  when he does. "Bring it first." "That is exactly what I would have said."
+
 Minor villagers
 Named villagers all came in with the old Chapter 6 and went out with it. Nobody
 in Oldstep beyond Marit, Hallvard and Solva has a name in the text right now.
@@ -474,6 +496,13 @@ longest quiet stretch in the book. Deliberate. Nothing has been killed since the
 Roofwalker in ch17. The six points are still banked and both skills are
 unchanged. It buys the Wold, the blade, and the grind that follows.
 
+Chapter 21: no mechanical change, FOURTH CHAPTER RUNNING. Nothing has been
+killed since the Roofwalker in ch17, nothing spent, six points still banked.
+This is now the longest quiet stretch in the book by a wide margin and the debt
+is real: the grind is owed and the reader can feel it being owed. What ch21
+gives instead is the SCALE, which is a system revelation rather than a system
+gain, and it does the work of a level-up without paying one.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -586,6 +615,31 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Chapter 21, and the scale went off in the wrong place on purpose ===
+The register said not to spend the level scale early, because the first trained
+soldier he reads is meant to be a moment. WRITTEN ANYWAY, IN THE WOLD, because
+delaying it would have been a cheat: a market town full of chartered companies
+has 12s and 14s standing in the street eating out of bowls, and a man who reads
+everybody cannot fail to see them.
+NOTHING IS SPENT. Nobody in the Wold is above 16 and the scale keeps going. What
+ch21 uses up is the VILLAGE version of the world, which had to go before a
+soldier could land at all. Ylva being nobody here is the cost, and he pays it by
+telling her on a street rather than letting a hall do it to her.
+THE GROUNDWORK IS WRITTEN AS WORK. Two hours of sitting in a corner doing
+nothing, reading who counts silver and who does not bother to watch. It is the
+author's own answer to his question about whether there is preparation before
+the guild, and the answer had to be shown rather than asserted.
+HE SELLS THE ANSWER AND NOT THE METHOD, and the narration says outright that
+what he gives as his reason is true and is not the reason. Rule one holds. And
+he hands over the falsification himself: put them in the yard for a minute.
+THE CLERK BEAT LANDED WHERE IT WAS DESIGNED TO. He reads the whole institution
+off a wall of shelves before crossing the room, and the chapter ends on him
+spelling his own name into it, which is ch18's reading lesson paying off three
+chapters later without anybody pointing at it.
+STILL NOT WRITTEN and deliberately held for 22: Ordulf, the Staple, Hades, the
+lord's man. One chapter, one job.
 
 
 === The merchants' guild is the Staple, because Mark was taken ===
@@ -1770,7 +1824,8 @@ nicht diese Zeile von Hand.
 18. Somebody Has to Hold Him
 19. A Name for the Knife
 20. Two Arms
-21. (planned) Ordulf, and the Wold
+21. The Only Book There Is
+22. (planned) Ordulf, the Staple, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -2391,6 +2446,30 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   unrepentant about the arithmetic. This is the ch20 hand-over-mouth callback's
   other half, and the difference between the two is stated in ch20.
 
+- (ch21) THE LEVEL SCALE DETONATES, AND IT HAPPENS IN THE WOLD RATHER THAN WITH
+  THE RIDERS. He walks into a market town and reads it the way he reads
+  everything, and the numbers stop being a village. A bored man eating out of a
+  bowl against a wall is a 14. Two 12s. A 16 on a barrel cleaning under a nail.
+  YLVA, THE HIGHEST NUMBER IN FORTY HOUSES, IS NOBODY HERE, and he tells her on
+  the street rather than letting a hall do it: "There is a man on that barrel
+  who does nothing all day but be sixteen."
+  THIS DOES NOT SPEND THE RIDERS. The scale keeps going and nobody in the Wold
+  is above 16. It spends the VILLAGE version of the world, which is what had to
+  go before a soldier could land.
+- (ch21) AND SIVERT GETS THE ANSWER THAT MATTERS. He asks what he is, which is
+  the first thing he has asked anybody in the book. "You are a two, and you were
+  a two when you put an iron bar into a Level 7's leg joint, and I have thought
+  about that on and off for a week. So I would not put very much on the number."
+  That is the book's own counter-argument to its own system, said out loud.
+- (ch21) HE SELLS THE PANEL WITHOUT SELLING THE METHOD, first time. A captain is
+  about to hire a 9 who talks over a 13 with a bad hand under the table, because
+  he cannot see either number. Gaara tells him the answer and gives the reason
+  as "by looking at them, in a room, for an hour and a half", WHICH IS TRUE AND
+  IS NOT THE REASON. Rule one intact and the line says so in narration.
+  AND HE OFFERS THE TEST HIMSELF: put them on something in the yard, a minute,
+  and if I am wrong I buy the table a jug I cannot afford. Selling a claim by
+  handing over the way to falsify it is the whole man.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -2715,6 +2794,41 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The Wold, and the only book there is (ch21)
+- THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.
+  Ninety feet of good coursed stone, then a squared butt end with the tooling
+  still crisp, then a ditch and a bank and a hedge round the rest. Somebody laid
+  out a wall for a town four times the size and stopped in the middle of a good
+  week, and the last stone they cut is finished on the face nobody will see.
+  "It has been like that my whole life," said Ylva. "That is what I said."
+- THE BED PRICES ARE ON THE PAGE and the clock is running: a coin buys three
+  nights on straw or one behind a bolt, a hot meal is half. Eleven coins is a
+  month of sleeping badly. He puts all three of them on straw and says plainly
+  that it is not hardness, it is being able to count.
+- HE WALKS PAST THE HALL ON PURPOSE, and it is the hardest thing he does that
+  day. A man who enters an institution cold and asks how it works has told the
+  room what he is. He hired people like that for nineteen years and never once
+  respected one.
+- HE SITS IN A CORNER AND DOES NOTHING FOR TWO HOURS, which is the groundwork,
+  and it is written as work rather than as waiting. He reads who counts the
+  silver, who watches the counting, and who does not bother, and has the shape
+  of a company in four minutes. He writes nothing down, because a man writing in
+  a corner is a man everybody is looking at.
+- HE READS THE INSTITUTION OFF ITS SHELVES, and this is the chapter's turn. The
+  roll house is the plainest building in town: no banner, nothing crossed on a
+  wall, nobody at the door, and behind the counter THE ONLY BOOKS HE HAS SEEN
+  SINCE HE ARRIVED. The thing is a list, so all of its power lives in the
+  writing, so THE CLERK OUTRANKS THE CAPTAIN, and he has that before he has
+  crossed the room.
+- AND HE SPELLS HIS OWN NAME, which is ch18 paying off exactly three chapters
+  later. Signe turns the book and asks how it is spelled. Eight days after
+  coming out of a hole with no language and no name he could give anybody, he
+  leans over a counter and puts himself into the only book there is.
+  "Signe. In case you need to know who wrote it." HE DID NEED TO KNOW THAT.
+- THE CHAPTER ENDS ON HIM FAILING TO BE MODEST. Two lines long and one of them
+  is a date, and he has been trying not to be pleased for the length of a
+  street, and it is going extremely badly.
 
 The second draft, and leaving (ch20)
 - SIVERT COMES TOO. Halle says one thing all morning and it is not to Gaara:

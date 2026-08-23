@@ -26,7 +26,8 @@ nicht diese Zeile von Hand.
 18. Somebody Has to Hold Him
 19. A Name for the Knife
 20. Two Arms
-21. (planned) Ordulf, and the Wold
+21. The Only Book There Is
+22. (planned) Ordulf, the Staple, and the lord's man
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -647,6 +648,30 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   unrepentant about the arithmetic. This is the ch20 hand-over-mouth callback's
   other half, and the difference between the two is stated in ch20.
 
+- (ch21) THE LEVEL SCALE DETONATES, AND IT HAPPENS IN THE WOLD RATHER THAN WITH
+  THE RIDERS. He walks into a market town and reads it the way he reads
+  everything, and the numbers stop being a village. A bored man eating out of a
+  bowl against a wall is a 14. Two 12s. A 16 on a barrel cleaning under a nail.
+  YLVA, THE HIGHEST NUMBER IN FORTY HOUSES, IS NOBODY HERE, and he tells her on
+  the street rather than letting a hall do it: "There is a man on that barrel
+  who does nothing all day but be sixteen."
+  THIS DOES NOT SPEND THE RIDERS. The scale keeps going and nobody in the Wold
+  is above 16. It spends the VILLAGE version of the world, which is what had to
+  go before a soldier could land.
+- (ch21) AND SIVERT GETS THE ANSWER THAT MATTERS. He asks what he is, which is
+  the first thing he has asked anybody in the book. "You are a two, and you were
+  a two when you put an iron bar into a Level 7's leg joint, and I have thought
+  about that on and off for a week. So I would not put very much on the number."
+  That is the book's own counter-argument to its own system, said out loud.
+- (ch21) HE SELLS THE PANEL WITHOUT SELLING THE METHOD, first time. A captain is
+  about to hire a 9 who talks over a 13 with a bad hand under the table, because
+  he cannot see either number. Gaara tells him the answer and gives the reason
+  as "by looking at them, in a room, for an hour and a half", WHICH IS TRUE AND
+  IS NOT THE REASON. Rule one intact and the line says so in narration.
+  AND HE OFFERS THE TEST HIMSELF: put them on something in the yard, a minute,
+  and if I am wrong I buy the table a jug I cannot afford. Selling a claim by
+  handing over the way to falsify it is the whole man.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -971,6 +996,41 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The Wold, and the only book there is (ch21)
+- THE WALL IS UNFINISHED and it is the Lodge planted without naming the Lodge.
+  Ninety feet of good coursed stone, then a squared butt end with the tooling
+  still crisp, then a ditch and a bank and a hedge round the rest. Somebody laid
+  out a wall for a town four times the size and stopped in the middle of a good
+  week, and the last stone they cut is finished on the face nobody will see.
+  "It has been like that my whole life," said Ylva. "That is what I said."
+- THE BED PRICES ARE ON THE PAGE and the clock is running: a coin buys three
+  nights on straw or one behind a bolt, a hot meal is half. Eleven coins is a
+  month of sleeping badly. He puts all three of them on straw and says plainly
+  that it is not hardness, it is being able to count.
+- HE WALKS PAST THE HALL ON PURPOSE, and it is the hardest thing he does that
+  day. A man who enters an institution cold and asks how it works has told the
+  room what he is. He hired people like that for nineteen years and never once
+  respected one.
+- HE SITS IN A CORNER AND DOES NOTHING FOR TWO HOURS, which is the groundwork,
+  and it is written as work rather than as waiting. He reads who counts the
+  silver, who watches the counting, and who does not bother, and has the shape
+  of a company in four minutes. He writes nothing down, because a man writing in
+  a corner is a man everybody is looking at.
+- HE READS THE INSTITUTION OFF ITS SHELVES, and this is the chapter's turn. The
+  roll house is the plainest building in town: no banner, nothing crossed on a
+  wall, nobody at the door, and behind the counter THE ONLY BOOKS HE HAS SEEN
+  SINCE HE ARRIVED. The thing is a list, so all of its power lives in the
+  writing, so THE CLERK OUTRANKS THE CAPTAIN, and he has that before he has
+  crossed the room.
+- AND HE SPELLS HIS OWN NAME, which is ch18 paying off exactly three chapters
+  later. Signe turns the book and asks how it is spelled. Eight days after
+  coming out of a hole with no language and no name he could give anybody, he
+  leans over a counter and puts himself into the only book there is.
+  "Signe. In case you need to know who wrote it." HE DID NEED TO KNOW THAT.
+- THE CHAPTER ENDS ON HIM FAILING TO BE MODEST. Two lines long and one of them
+  is a date, and he has been trying not to be pleased for the length of a
+  street, and it is going extremely badly.
 
 The second draft, and leaving (ch20)
 - SIVERT COMES TOO. Halle says one thing all morning and it is not to Gaara:

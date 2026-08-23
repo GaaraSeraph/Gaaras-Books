@@ -207,6 +207,13 @@ longest quiet stretch in the book. Deliberate. Nothing has been killed since the
 Roofwalker in ch17. The six points are still banked and both skills are
 unchanged. It buys the Wold, the blade, and the grind that follows.
 
+Chapter 21: no mechanical change, FOURTH CHAPTER RUNNING. Nothing has been
+killed since the Roofwalker in ch17, nothing spent, six points still banked.
+This is now the longest quiet stretch in the book by a wide margin and the debt
+is real: the grind is owed and the reader can feel it being owed. What ch21
+gives instead is the SCALE, which is a system revelation rather than a system
+gain, and it does the work of a level-up without paying one.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the

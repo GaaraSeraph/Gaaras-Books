@@ -3,6 +3,31 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Chapter 21, and the scale went off in the wrong place on purpose ===
+The register said not to spend the level scale early, because the first trained
+soldier he reads is meant to be a moment. WRITTEN ANYWAY, IN THE WOLD, because
+delaying it would have been a cheat: a market town full of chartered companies
+has 12s and 14s standing in the street eating out of bowls, and a man who reads
+everybody cannot fail to see them.
+NOTHING IS SPENT. Nobody in the Wold is above 16 and the scale keeps going. What
+ch21 uses up is the VILLAGE version of the world, which had to go before a
+soldier could land at all. Ylva being nobody here is the cost, and he pays it by
+telling her on a street rather than letting a hall do it to her.
+THE GROUNDWORK IS WRITTEN AS WORK. Two hours of sitting in a corner doing
+nothing, reading who counts silver and who does not bother to watch. It is the
+author's own answer to his question about whether there is preparation before
+the guild, and the answer had to be shown rather than asserted.
+HE SELLS THE ANSWER AND NOT THE METHOD, and the narration says outright that
+what he gives as his reason is true and is not the reason. Rule one holds. And
+he hands over the falsification himself: put them in the yard for a minute.
+THE CLERK BEAT LANDED WHERE IT WAS DESIGNED TO. He reads the whole institution
+off a wall of shelves before crossing the room, and the chapter ends on him
+spelling his own name into it, which is ch18's reading lesson paying off three
+chapters later without anybody pointing at it.
+STILL NOT WRITTEN and deliberately held for 22: Ordulf, the Staple, Hades, the
+lord's man. One chapter, one job.
+
+
 === The merchants' guild is the Staple, because Mark was taken ===
 Found by running the four guild names against all twenty chapters instead of
 assuming. guild, adventurer, roll, lodge, warrant and Hades: ZERO occurrences,
