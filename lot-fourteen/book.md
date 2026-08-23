@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 38 Kapitel, 109.588 Woerter.
+2 Baende, 38 Kapitel, 109.632 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 01 | v1.4 | 2.282 |
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
-| 2 | 04 | v1.0 | 2.137 |
+| 2 | 04 | v1.1 | 2.181 |
 
 ---
 
@@ -11912,7 +11912,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -11932,7 +11932,7 @@ Georgij found one on the Sunday night in about twenty minutes.
 
 The man had been seventy-six. He had run a coastal feeder line out of Mokpo for most of his life, sold it to somebody larger six years ago, and gone on going to things afterwards, which is what men do.
 
-Georgij had never met him. He read what there was and it took under an hour, and by the end of it he could have said four true things about the man, and did not intend to say any of them to anybody.
+Georgij had never met him. He read what there was and it took under an hour, and at the end of it he knew four true things about a man he was going to use.
 
 ---
 
@@ -12002,11 +12002,17 @@ He came over himself, which was the whole reason it had to be a room and not a t
 
 Georgij put his hands behind his back.
 
-"He was never for sale," he said. "Those were her words and not mine, and she said them to you in a chair in her own house, and I was not in the room."
+"He was never for sale," he said. "Five words. They were hers and not mine, and I was in the room when she said them."
 
-"I know where I was."
+"I remember who was in the room."
 
-"Thank you for the figure." He said it without any decoration on it at all. "It was higher than the one that is on me."
+---
+
+"And thank you." He said it without any decoration on it at all. "You have not moved off that figure from December to March. On the day you set it you gave her a reason for it, and the reason was a thing you had watched me do."
+
+"I remember what I said."
+
+"So do I. It is the only compliment anybody has ever paid me that arrived with a number on it. I have thought about that more than is useful. And I would sooner have had it from you than from anybody in this country."
 
 ---
 
@@ -12030,7 +12036,7 @@ It went across Sang-hoon's face for about a quarter of a second. Then it was gon
 
 "You did not know him."
 
-"I did not know him. I read four things about him on Sunday night and I am not going to repeat any of them, because I have no business having them." Georgij did not soften it. "I came because you come to these, and because there is no other room in this country I can walk into and find you in."
+"I did not know him. I read four things about him on Sunday night and came here on the strength of them." Georgij did not soften it. "You come to these. There is no other room in this country I can walk into and find you in."
 
 "You could have written to me."
 

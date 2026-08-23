@@ -400,8 +400,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:152 | Annie looked at that for a moment. |
 | 56 | b2ch03:170 | Annie did not move at all. |
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
-| 60 | b2ch04:236 | Annie was in the small room with the door open. |
-| 60 | b2ch04:248 | "Take the coat off," said Annie. |
+| 60 | b2ch04:242 | Annie was in the small room with the door open. |
+| 60 | b2ch04:254 | "Take the coat off," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1024,17 +1024,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 | 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
 | 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
-| 60 | b2ch04:100 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
-| 60 | b2ch04:110 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
-| 60 | b2ch04:114 | "You did not come here for a man from Mokpo," said Sang-hoon. |
-| 60 | b2ch04:128 | Sang-hoon put the cup down on the sill. |
-| 60 | b2ch04:138 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
-| 60 | b2ch04:150 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
-| 60 | b2ch04:164 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
-| 60 | b2ch04:184 | Sang-hoon did not say anything for a while. |
-| 60 | b2ch04:196 | Sang-hoon looked out of the window at a car park. |
-| 60 | b2ch04:208 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
-| 60 | b2ch04:220 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
+| 60 | b2ch04:106 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
+| 60 | b2ch04:116 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
+| 60 | b2ch04:120 | "You did not come here for a man from Mokpo," said Sang-hoon. |
+| 60 | b2ch04:134 | Sang-hoon put the cup down on the sill. |
+| 60 | b2ch04:144 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
+| 60 | b2ch04:156 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
+| 60 | b2ch04:170 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
+| 60 | b2ch04:190 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:202 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:214 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:226 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1074,12 +1074,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:130` (Tag 46) - one
 - `b2ch04:74` (Tag 60) - two
 - `b2ch04:82` (Tag 60) - two, two hundred million
-- `b2ch04:100` (Tag 60) - two
-- `b2ch04:138` (Tag 60) - four
-- `b2ch04:150` (Tag 60) - one, two
-- `b2ch04:164` (Tag 60) - fourteen, thirty, two
-- `b2ch04:208` (Tag 60) - one
-- `b2ch04:220` (Tag 60) - one
+- `b2ch04:106` (Tag 60) - two
+- `b2ch04:144` (Tag 60) - four
+- `b2ch04:156` (Tag 60) - one, two
+- `b2ch04:170` (Tag 60) - fourteen, thirty, two
+- `b2ch04:214` (Tag 60) - one
+- `b2ch04:226` (Tag 60) - one
 
 ---
 
@@ -1152,7 +1152,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
-| 60 | b2ch04:230 | Jang met the car on the gravel, which he does not do. |
+| 60 | b2ch04:236 | Jang met the car on the gravel, which he does not do. |
 
 ### Zahlen in der Naehe von Jang
 

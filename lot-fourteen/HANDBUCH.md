@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 87.108 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 87.314 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2328,11 +2328,13 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
-- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.0) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.1) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
 
   **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
 
   **Warum kein Brief und kein Mittelsmann:** *"Then you would have had a day to decide what I wanted."* Do-yun wird ausdruecklich nicht benutzt.
+
+  **Und er entschuldigt sich nirgends dafuer, einen fremden Toten zu benutzen.** Die erste Fassung hatte an zwei Stellen genau das - *"did not intend to say any of them to anybody"* im Erzaehler und *"because I have no business having them"* im Dialog. Beides ist `doc/01-craft.md` 2b: **ein Verdienst aus einer Unterlassung, die nichts kostet**, und im Dialog zusaetzlich eine Haltung, die angekuendigt statt vollzogen wird. Es steht jetzt kalt da: *"at the end of it he knew four true things about a man he was going to use"* und *"I read four things about him on Sunday night and came here on the strength of them."*
 
   **Der Eintrittspreis wird bezahlt, bevor Sang-hoon ueberhaupt auftaucht, und er ist Regel 2.** An der Tuer liegt ein Buch, in das jeder Besucher seinen Namen schreibt, daneben der Kasten fuer den Umschlag, und der Betrag kommt spaeter in die zweite Spalte. **Georgij hat nichts.** Er schreibt trotzdem seinen Namen und sagt es dem Mann am Tisch: **"I have nothing to put in it."** Auf dessen *"That is all right"* antwortet er *"It is not"* und laesst die Zeile durchstreichen, damit niemand es fuer ein Versehen haelt.
 
@@ -2340,7 +2342,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Sang-hoon kommt von selbst herueber**, was der ganze Grund war, warum es ein Raum sein musste und kein Telefon. Er faengt an, wo er aufgehoert hat: *"Two billion two hundred million. ... I have moved up. Say a number."*
 
-  **Und da faellt die Zeile, die seit Dezember bereitliegt:** *"He was never for sale. Those were her words and not mine, and she said them to you in a chair in her own house, and I was not in the room."* Dazu *"Thank you for the figure. It was higher than the one that is on me."* **Beides wahr, beides ein Zitat, und die Auslassung ist, dass inzwischen gar nichts mehr auf ihm steht.** Sang-hoons Antwort ist seine Selbstauskunft: *"I do not pay what a thing is worth. I pay what it costs to stop having to think about it."*
+  **Und da faellt die Zeile, die seit Dezember bereitliegt:** *"He was never for sale. Five words. They were hers and not mine, and I was in the room when she said them."* **Er war es**, Kapitel 33: Sang-hoon steht am Fenster, Annies Antwort nimmt fuenf Woerter, Georgij steht daneben. *(In der ersten Fassung stand hier "and I was not in the room". Das war schlicht unwahr, und zwar aus seinem Mund - der teuerste Regelbruch, den dieses Buch kennt.)*
+
+  **Und dann bedankt er sich, aber nicht fuer die Zahl.** Sang-hoon hat am 29. Dezember nicht nur geboten, er hat einen Grund dazu genannt, und der Grund war etwas, das er Georgij hatte tun sehen. *"It is the only compliment anybody has ever paid me that arrived with a number on it. I have thought about that more than is useful. And I would sooner have had it from you than from anybody in this country."* **Ein Mann, der nichts besitzt, misst Achtung in der einzigen Einheit, die je auf ihn angewandt wurde.** Sang-hoons Antwort davor ist seine Selbstauskunft: *"I do not pay what a thing is worth. I pay what it costs to stop having to think about it."*
 
   **Sang-hoon weiss, dass die Zeile gestrichen ist, und sagt es nicht.** Es geht ihm eine Viertelsekunde uebers Gesicht und bleibt seins. **Georgij schliesst darauf, er weiss es nicht** - der Erzaehler weiss hier ausdruecklich nicht mehr als er.
 
@@ -5098,8 +5102,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:152 | Annie looked at that for a moment. |
 | 56 | b2ch03:170 | Annie did not move at all. |
 | 56 | b2ch03:184 | "Keep it, then," said Annie. |
-| 60 | b2ch04:236 | Annie was in the small room with the door open. |
-| 60 | b2ch04:248 | "Take the coat off," said Annie. |
+| 60 | b2ch04:242 | Annie was in the small room with the door open. |
+| 60 | b2ch04:254 | "Take the coat off," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5722,17 +5726,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 | 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
 | 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
-| 60 | b2ch04:100 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
-| 60 | b2ch04:110 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
-| 60 | b2ch04:114 | "You did not come here for a man from Mokpo," said Sang-hoon. |
-| 60 | b2ch04:128 | Sang-hoon put the cup down on the sill. |
-| 60 | b2ch04:138 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
-| 60 | b2ch04:150 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
-| 60 | b2ch04:164 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
-| 60 | b2ch04:184 | Sang-hoon did not say anything for a while. |
-| 60 | b2ch04:196 | Sang-hoon looked out of the window at a car park. |
-| 60 | b2ch04:208 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
-| 60 | b2ch04:220 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
+| 60 | b2ch04:106 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
+| 60 | b2ch04:116 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
+| 60 | b2ch04:120 | "You did not come here for a man from Mokpo," said Sang-hoon. |
+| 60 | b2ch04:134 | Sang-hoon put the cup down on the sill. |
+| 60 | b2ch04:144 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
+| 60 | b2ch04:156 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
+| 60 | b2ch04:170 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
+| 60 | b2ch04:190 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:202 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:214 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:226 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -5772,12 +5776,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:130` (Tag 46) - one
 - `b2ch04:74` (Tag 60) - two
 - `b2ch04:82` (Tag 60) - two, two hundred million
-- `b2ch04:100` (Tag 60) - two
-- `b2ch04:138` (Tag 60) - four
-- `b2ch04:150` (Tag 60) - one, two
-- `b2ch04:164` (Tag 60) - fourteen, thirty, two
-- `b2ch04:208` (Tag 60) - one
-- `b2ch04:220` (Tag 60) - one
+- `b2ch04:106` (Tag 60) - two
+- `b2ch04:144` (Tag 60) - four
+- `b2ch04:156` (Tag 60) - one, two
+- `b2ch04:170` (Tag 60) - fourteen, thirty, two
+- `b2ch04:214` (Tag 60) - one
+- `b2ch04:226` (Tag 60) - one
 
 ---
 
@@ -5850,7 +5854,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
 | 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
-| 60 | b2ch04:230 | Jang met the car on the gravel, which he does not do. |
+| 60 | b2ch04:236 | Jang met the car on the gravel, which he does not do. |
 
 ### Zahlen in der Naehe von Jang
 
