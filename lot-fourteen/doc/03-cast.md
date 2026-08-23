@@ -119,7 +119,7 @@ Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
-**Hana** - Annies Verbündete, keine Angestellte. Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
+**Hana Seo-yeon** - Annies Verbündete, keine Angestellte. **Der volle Name steht einmal im Text**, Kapitel 31, aus Georgijs Mund: *"On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes."* Hana ist der Familienname, Seo-yeon der Vorname. **Bis zum 23.08. stand er in keinem Dokument.** Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
 **Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in `doc/04-world.md` unter "Hana: was sie einbringt und was sie dafuer bekommt".
 
@@ -216,7 +216,9 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 **Mr Hong** - Einundsechzig, kommt seit neunzehn Jahren zu dieser Veranstaltung, sitzt seit neunzehn Jahren am selben Tisch. Nicht unter den zwölf. Stellt Georgij die Frage nach der Ausbildung und wird dadurch zum Träger der Berater-Legende. Auf Georgijs Bitte um Orientierung nennt er drei Namen, denen man ausweichen sollte: Woo, Sunwoo und Choi Dae-ho.
 *Kanon, Kapitel 7.*
 
-**Chairman Woo** - **Verbündeter, nicht Gegner.** Schifffahrt, Terminal auf Yeongjong, zehn Monate ab Boden, nicht elf. Spricht jeden binnen neunzig Sekunden an. Auf die Frage, wer gesagt hat, es sei nicht machbar, redet er vier Minuten am Stück: Hafenbehörde, zwei Ausschüsse, der Beton, ein Satz seines Vaters von 1994. Nennt den Finanzier nicht, ist aber sichtlich zufrieden mit ihm, und sagt dabei zweimal ungewollt "Incheon".
+**Chairman Woo Jae-sung** - **Verbündeter, nicht Gegner.** Schifffahrt, Terminal auf Yeongjong, zehn Monate ab Boden, nicht elf. Spricht jeden binnen neunzig Sekunden an. Auf die Frage, wer gesagt hat, es sei nicht machbar, redet er vier Minuten am Stück: Hafenbehörde, zwei Ausschüsse, der Beton, ein Satz seines Vaters von 1994. Nennt den Finanzier nicht, ist aber sichtlich zufrieden mit ihm, und sagt dabei zweimal ungewollt "Incheon".
+
+**Der volle Name steht zweimal im Text**, Kapitel 26 und 29, und beide Male in der Form, in der man einen Buergen vorstellt: *"Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong terminal."* **Bis zum 23.08. stand er in keinem Dokument.**
 **Laut Hong:** Wird Georgij nach Yeongjong einladen und dann zutiefst beleidigt sein über alles, was Georgij darüber sagt.
 *Kanon, Kapitel 7.*
 

@@ -272,6 +272,17 @@ Ihr Name steht offen in der ersten Abteilung. Sie hat nichts versteckt, und es g
 
 **Der Fund liegt in der zweiten Abteilung**, bei Hypotheken, Höhe und Gläubigern. Dort steht, wie viel von den sechzehntausend Quadratmetern ihr tatsächlich gehört und wer sie im Ernstfall in der Hand hat. Sie hat nichts verborgen. Sie ist nur erheblich weniger frei, als sie am Esstisch gewirkt hat.
 
+### Benannte Firmen und Orte, die nur im Text standen
+
+**Nachgetragen am 23.08.** Sie kommen im Buch vor und in keinem Dokument, gefunden mit einem Lauf in der Gegenrichtung: nicht Dokument gegen Text, sondern **Text gegen Dokument**.
+
+- **Daehan Chemical** - viermal, und Georgijs Pruefstueck bei Sang-hoon: *"Daehan Chemical. Page thirty-one, the inventory footnote, and then you stopped."* Ein Vorstandsmitglied davon sass in einer Gesellschaft, die acht Jahre lang vierzig Prozent der Produktion abgenommen und im Fruehjahr nicht verlaengert hat.
+- **Seorim** - die Firma, die im April gegangen ist und ueber die niemand gedruckt hat. Hanas Beleg dafuer, dass Georgij mehr weiss, als er sagt: *"It was Seorim, wasn't it?"*
+- **Das Paradise in Busan** - **der Ort des Praezedenzfalls**, und er hatte bisher keinen Namen im Dokument. Dort wurden die zwei Direktoren der gekauften Firma einzeln hinbestellt, einen Monat nach dem Verkauf, vierhundert Kilometer von ihrem Arbeitsplatz. **Das ist die Methode, die den Kims bevorsteht**, und sie hat eine Adresse.
+- **Sulzer** - ein Schiffsmotor, einmal, als Detail auf einer Fotografie: *"That is a Sulzer and he has photographed the wrong end of it."* Kein Weltenbau, ein Kompetenzbeleg.
+
+---
+
 ### Der Köder: Hanseong
 
 **Ziel ist Sang-hoon.** Er soll Mittel binden, während er zugreift, damit er im entscheidenden Moment nicht flüssig genug ist. Das geht nur über seine eine Eigenschaft: Hat er einmal zugebissen, kann er nicht loslassen.
