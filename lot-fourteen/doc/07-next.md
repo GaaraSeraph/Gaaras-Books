@@ -451,6 +451,32 @@ existieren: Hwangs "in etwa zehn Tagen" und die auf den 31. Maerz vertagte
 Tuer in der Klausel. **Wer sie irgendwo zitiert findet, zitiert eine geloeschte
 Fassung.**
 
+- **Nam Byung-hee, vollstaendig, in drei bis vier Wochen. Zugesagt am 3. April,
+  Band 2, Kapitel 12.** *"I want everything she has, and I want it done by
+  people who are entitled to take it from her, and I want her to be somebody
+  nobody in that trade will read a letter from ever again."* **Der Deckel vom
+  11. Maerz ist dafuer aufgehoben** - er nennt Preise nicht mehr vorher und
+  liefert alles hinterher in einem Stueck.
+
+  **Annies zwei Bedingungen sind Schulden wie jede andere Zeile hier.** Erstens:
+  **kein unwahres Wort**, auch nicht am Ende, wenn Nam fragt warum. Zweitens:
+  **er kommt zurueck und sagt, ob es ihm gefallen hat, und sagt die Wahrheit
+  darueber.** Die zweite ist die, die eingeloest werden muss und die man am
+  leichtesten vergisst.
+
+  **Dazu ihr Satz an der Tuer:** kein Vierteljahr, kein Zusehen, *"you are not
+  going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
+  ohne zu warten, dass sie es bemerkt.**
+
+- **Die fuenf uebrigen Firmen der Spur, vollstaendig unter Annies Kontrolle.**
+  Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
+  ihr Monat fuer seine Gefuehle, und er sagt das auch so.
+
+- **Jang, drei Tage ab dem 3. April.** Keine harten Maenner - **Fahrer.** Wer
+  auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
+  Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
+  I have noticed that, and I would like it to go on."*
+
 - **"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL, Band 2,
   Kapitel 9.** Georgij sagt es zweimal, am 20. Maerz und noch einmal am 1. April,
   weil Annie ausdruecklich darum bittet, ihn ein zweites Mal daran zu binden.

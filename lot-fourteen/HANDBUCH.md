@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 100.418 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 101.985 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2149,6 +2149,11 @@ nachrechnen, und `check.py` tut das automatisch.
   an ihre sechs geschrieben und fragt statt dessen, **was er ist.** Er schreibt
   es ihr mit der Hand: der 4. Oktober, die Nummer, drei Zeilen ueber ihrer
   (Band 2, Kapitel 11)
+- Tag 182, Fr 3. April: **die Bitte.** Zum ersten Mal seit dem 2. Maerz gibt es
+  nichts zu berichten, und Annie sieht ihn deshalb an. Sie versucht es ihm
+  abzunehmen und laesst ihn dann von der Leine: **der Deckel vom 11. Maerz ist
+  aufgehoben.** Ihr Gegenwert sind die fuenf uebrigen Firmen der Spur. Danach
+  Jang an den Garagen (Band 2, Kapitel 12)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2825,6 +2830,37 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
 
   **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
+
+- **Band 2, Kapitel 12** *Sixteen days* (v1.0) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+
+  **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
+
+  **Sie loest den Tell aus Kapitel 7 ein, und zwar praezise und ohne Vorwurf:** *"You have been squaring things off since the eighteenth of March. Paper. Cups. The blotter, twice, in front of me. ... You do not fidget. You have never fidgeted in your life. You put things straight."* - **"Sixteen days," said Annie.**
+
+  **Dann versucht sie, es ihm abzunehmen**, und das Argument ist gut: achtundfuenfzig, vier Lastwagen, ertrunken, und er hat ihr das Wasser genommen. *"That is normally the end of it."*
+
+  **Seine Antwort hat zwei Haelften und er gibt sie in dieser Reihenfolge.** Erstens: **sie hatte recht**, jedes Wort, und wenn jemand Annie so behandelt haette, wuerde er ihn ohne zweiten Grund auseinandernehmen. Zweitens: **vier Tage.** Sie hat es selbst hineingeschrieben, damit niemand es fuer Zorn haelt. Fremdes Briefpapier, Annie mit Namen, unterschrieben als *Chair*, per Einschreiben, **damit es sich hinterher beweisen laesst.**
+
+  **Und die Haelfte, die es persoenlich macht:** *"The thing she picked up and pointed at you was me."* Dazu die Zeile, die den ganzen Band traegt: **"I am the weapon in every sentence. I have never minded that. I mind it when the hand is not yours."**
+
+  **Annie prueft ihn und findet keine Unschaerfe**, und das ist der Grund, aus dem sie ihn gehen laesst - nicht Mitleid und nicht Zustimmung. *"You are not angry. ... Anger makes people quick and rough and I cannot use anybody in that condition."* Und nach der Aufzaehlung der sechzehn Tage: **"You have not made one mistake. That is not what a man in a temper does. That is what a man does who has decided something and is waiting."**
+
+  **Die Bitte, im Kanon-Register: die Hoeflichkeit steigt, sie sinkt nicht.** Er steht dafuer auf. **"May I have this one, Mistress?"** Mit Zeichen, weil sie nein sagen koennte. Und der Umfang wird ausgesprochen: *"I want everything she has, and I want it done by people who are entitled to take it from her, and I want her to be somebody nobody in that trade will read a letter from ever again."*
+
+  **Der Preis ist der Deckel selbst.** *"I cannot tell you what a thing costs before I pay for it. ... If I stop to come home and name a figure, I will lose the week."* Er bittet darum, die Regel vom 11. Maerz auszusetzen - **die einzige Bitte in zwei Baenden, bei der sie haette nein sagen koennen.**
+
+  **Was Annie dafuer bekommt, und er bringt es von selbst mit:** die **fuenf uebrigen Firmen**, vollstaendig, nicht als Kunden und nicht als Absprache. Sein Grund ist ungeschoent: eine Privatrache, die nichts einbringt, waere ihr Monat fuer seine Gefuehle. *"It is also true that I want it. Both of those are the case, and the second one is not the smaller of the two."*
+
+  **Ihre zwei Bedingungen, und keine davon schuetzt Nam.**
+
+  1. **Kein unwahres Wort**, nicht um es zu beschleunigen, nicht um es haerter zu machen, nicht am Ende. Und ihre Begruendung ist nicht Moral: *"That rule is the only thing you have ever had that is yours, and I am not going to watch you spend it on a haulier in Ulsan."* Seine Antwort ist die kaelteste des Kapitels: **"I will not need to."** - *"No. I know."*
+  2. **"When it is finished you will come to this room and tell me whether you enjoyed it."** Und die Wahrheit darueber. *"I am aware of what I am asking for, and I am asking for it anyway."*
+
+  **Und der Satz an der Tuer, der Sang-hoon als Gegenbild benutzt:** *"I want her finished. I do not want her hurt for four months so that somebody can watch. Park Sang-hoon takes eighteen months over a man because he enjoys the second year. You are not going to become that."* Zeitrahmen: **drei Wochen, vier wenn der Zweite vorsichtig ist.**
+
+  **Jang an den Garagen, und er ist etwas anderes als erwartet.** Keine harten Maenner. **Fahrer.** *"I have known every man who drives for a house in this city for the better part of thirty years. About half of them owe me something. The ones who do not will talk anyway, because nobody has ever asked them anything in their lives."* Drei Tage. **Das ist Kapitel 3 mit lebenden Leuten statt mit Frachtbriefen.**
+
+  **Und seine letzte Zeile bindet ihn**, ohne dass er darum gebeten hat: *"You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on."*
 
 ---
 
@@ -4254,6 +4290,32 @@ existieren: Hwangs "in etwa zehn Tagen" und die auf den 31. Maerz vertagte
 Tuer in der Klausel. **Wer sie irgendwo zitiert findet, zitiert eine geloeschte
 Fassung.**
 
+- **Nam Byung-hee, vollstaendig, in drei bis vier Wochen. Zugesagt am 3. April,
+  Band 2, Kapitel 12.** *"I want everything she has, and I want it done by
+  people who are entitled to take it from her, and I want her to be somebody
+  nobody in that trade will read a letter from ever again."* **Der Deckel vom
+  11. Maerz ist dafuer aufgehoben** - er nennt Preise nicht mehr vorher und
+  liefert alles hinterher in einem Stueck.
+
+  **Annies zwei Bedingungen sind Schulden wie jede andere Zeile hier.** Erstens:
+  **kein unwahres Wort**, auch nicht am Ende, wenn Nam fragt warum. Zweitens:
+  **er kommt zurueck und sagt, ob es ihm gefallen hat, und sagt die Wahrheit
+  darueber.** Die zweite ist die, die eingeloest werden muss und die man am
+  leichtesten vergisst.
+
+  **Dazu ihr Satz an der Tuer:** kein Vierteljahr, kein Zusehen, *"you are not
+  going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
+  ohne zu warten, dass sie es bemerkt.**
+
+- **Die fuenf uebrigen Firmen der Spur, vollstaendig unter Annies Kontrolle.**
+  Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
+  ihr Monat fuer seine Gefuehle, und er sagt das auch so.
+
+- **Jang, drei Tage ab dem 3. April.** Keine harten Maenner - **Fahrer.** Wer
+  auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
+  Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
+  I have noticed that, and I would like it to go on."*
+
 - **"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL, Band 2,
   Kapitel 9.** Georgij sagt es zweimal, am 20. Maerz und noch einmal am 1. April,
   weil Annie ausdruecklich darum bittet, ihn ein zweites Mal daran zu binden.
@@ -5335,18 +5397,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 409 | 41 (b1ch01-b2ch11) | 1 | 74 |
+| Annie | 423 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
-| Park Sang-hoon | 106 | 20 (b1ch10-b2ch08) | 5 | 74 |
-| Jang | 67 | 17 (b1ch05-b2ch11) | 1 | 60 |
-| Mrs Seo | 59 | 23 (b1ch03-b2ch11) | 1 | 74 |
+| Park Sang-hoon | 107 | 21 (b1ch10-b2ch12) | 3 | 74 |
+| Jang | 71 | 18 (b1ch05-b2ch12) | 1 | 60 |
+| Mrs Seo | 60 | 24 (b1ch03-b2ch12) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
-| Mrs Sunwoo | 18 | 6 (b1ch07-b2ch11) | 1 | 60 |
+| Mrs Sunwoo | 19 | 7 (b1ch07-b2ch12) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
@@ -5370,7 +5432,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-409 Nennungen in 41 Kapiteln.
+423 Nennungen in 42 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5783,6 +5845,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:132 | "It is not a condition." Annie came back to the desk. "It is a thing I am telling you so.. |
 | 1 | b2ch11:144 | Annie looked at him. |
 | 1 | b2ch11:206 | A person who has been told the truth about somebody stops going and looking for it. He h.. |
+| 3 | b2ch12:14 | Annie let it go on for about forty seconds, which is a long time in a room with two peop.. |
+| 3 | b2ch12:28 | "You have been squaring things off since the eighteenth of March," said Annie. |
+| 3 | b2ch12:44 | "Sixteen days," said Annie. |
+| 3 | b2ch12:52 | "She is fifty-eight," said Annie. "She has four trucks and a yard with room for nine and.. |
+| 3 | b2ch12:78 | Annie did not move. |
+| 3 | b2ch12:86 | "And the other half," said Annie. "You have got two and you have said one." |
+| 3 | b2ch12:96 | Annie sat back very slowly. |
+| 3 | b2ch12:112 | Annie stood up and went round the desk and stood in front of him, which she does not do,.. |
+| 3 | b2ch12:150 | "And the price," said Annie. "Before you pay it. You agreed to that on the eleventh of M.. |
+| 3 | b2ch12:170 | Annie went back round the desk, which took her about four seconds, and he understood tha.. |
+| 3 | b2ch12:200 | Annie put her hand flat on the desk. |
+| 3 | b2ch12:214 | "No," said Annie. "I know." |
+| 3 | b2ch12:232 | "Then go," said Annie. |
+| 3 | b2ch12:254 | Annie put the thing down. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5881,6 +5957,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch10:22` (Tag 3) - eighty-one
 - `b2ch10:280` (Tag 3) - one
 - `b2ch11:132` (Tag 1) - two
+- `b2ch12:14` (Tag 3) - forty, two
+- `b2ch12:44` (Tag 3) - sixteen
+- `b2ch12:52` (Tag 3) - fifty-eight, four, nine and one
+- `b2ch12:86` (Tag 3) - one, two
+- `b2ch12:170` (Tag 3) - four
 
 ---
 
@@ -6330,7 +6411,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-106 Nennungen in 20 Kapiteln.
+107 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6440,6 +6521,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 | 5 | b2ch06:232 | "Park Sang-hoon." |
 | 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
+| 3 | b2ch12:242 | "I want her finished. I do not want her hurt for four months so that somebody can watch... |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -6487,12 +6569,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:260` (Tag 60) - one
 - `b2ch04:272` (Tag 60) - one
 - `b2ch08:32` (Tag 9) - one
+- `b2ch12:242` (Tag 3) - eighteen, four
 
 ---
 
 ### Jang
 
-67 Nennungen in 17 Kapiteln.
+71 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6563,6 +6646,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
 | 1 | b2ch11:188 | "Mr Jang asked me this morning whether anything had come for you." She said it without a.. |
+| 3 | b2ch12:264 | Jang was at the near end of the garages with the bonnet of the second car up and nothing.. |
+| 3 | b2ch12:270 | Jang wiped his hands and did not ask what for, which took a decision, because he is not .. |
+| 3 | b2ch12:280 | Jang thought about that for a moment. |
+| 3 | b2ch12:292 | "You will want the ones in Ulsan and not the ones here." Jang said it without any partic.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6598,12 +6685,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
 - `b2ch11:188` (Tag 1) - twenty
+- `b2ch12:292` (Tag 3) - two
 
 ---
 
 ### Mrs Seo
 
-59 Nennungen in 23 Kapiteln.
+60 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6666,6 +6754,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:176 | He had to ask Mrs Seo how a letter is sent. |
 | 1 | b2ch11:196 | "He said good." Mrs Seo straightened one thing on the desk that did not need straighteni.. |
+| 3 | b2ch12:296 | "You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on." |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -6997,7 +7086,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Sunwoo
 
-18 Nennungen in 6 Kapiteln.
+19 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7019,6 +7108,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
 | 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
 | 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 

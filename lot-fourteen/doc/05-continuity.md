@@ -121,6 +121,11 @@ nachrechnen, und `check.py` tut das automatisch.
   an ihre sechs geschrieben und fragt statt dessen, **was er ist.** Er schreibt
   es ihr mit der Hand: der 4. Oktober, die Nummer, drei Zeilen ueber ihrer
   (Band 2, Kapitel 11)
+- Tag 182, Fr 3. April: **die Bitte.** Zum ersten Mal seit dem 2. Maerz gibt es
+  nichts zu berichten, und Annie sieht ihn deshalb an. Sie versucht es ihm
+  abzunehmen und laesst ihn dann von der Leine: **der Deckel vom 11. Maerz ist
+  aufgehoben.** Ihr Gegenwert sind die fuenf uebrigen Firmen der Spur. Danach
+  Jang an den Garagen (Band 2, Kapitel 12)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -797,6 +802,37 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und das Haeusliche, das dieses Kapitel traegt.** Er muss Mrs Seo fragen, wie man einen Brief verschickt, zum zweiten Mal in vierzehn Tagen eine gewoehnliche Sache. Sie bringt abends den Einschreibbeleg - **das einzige Papier der Welt mit seinem Namen darauf, das er behalten darf.** Und Jang fragt sie seit dem 26. Maerz jeden Tag, ob etwas fuer ihn gekommen ist. Heute konnte sie ja sagen. *"He said good. That is all he said, and he went out to the cars."*
 
   **Der Schluss ueberspringt die Antwort und sagt statt dessen, was in der Zwischenzeit geschieht:** *"Nam Byung-hee did not answer it that week, or the next, and by the time she did the house on the river had stopped taking new consignments."*
+
+- **Band 2, Kapitel 12** *Sixteen days* (v1.0) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+
+  **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
+
+  **Sie loest den Tell aus Kapitel 7 ein, und zwar praezise und ohne Vorwurf:** *"You have been squaring things off since the eighteenth of March. Paper. Cups. The blotter, twice, in front of me. ... You do not fidget. You have never fidgeted in your life. You put things straight."* - **"Sixteen days," said Annie.**
+
+  **Dann versucht sie, es ihm abzunehmen**, und das Argument ist gut: achtundfuenfzig, vier Lastwagen, ertrunken, und er hat ihr das Wasser genommen. *"That is normally the end of it."*
+
+  **Seine Antwort hat zwei Haelften und er gibt sie in dieser Reihenfolge.** Erstens: **sie hatte recht**, jedes Wort, und wenn jemand Annie so behandelt haette, wuerde er ihn ohne zweiten Grund auseinandernehmen. Zweitens: **vier Tage.** Sie hat es selbst hineingeschrieben, damit niemand es fuer Zorn haelt. Fremdes Briefpapier, Annie mit Namen, unterschrieben als *Chair*, per Einschreiben, **damit es sich hinterher beweisen laesst.**
+
+  **Und die Haelfte, die es persoenlich macht:** *"The thing she picked up and pointed at you was me."* Dazu die Zeile, die den ganzen Band traegt: **"I am the weapon in every sentence. I have never minded that. I mind it when the hand is not yours."**
+
+  **Annie prueft ihn und findet keine Unschaerfe**, und das ist der Grund, aus dem sie ihn gehen laesst - nicht Mitleid und nicht Zustimmung. *"You are not angry. ... Anger makes people quick and rough and I cannot use anybody in that condition."* Und nach der Aufzaehlung der sechzehn Tage: **"You have not made one mistake. That is not what a man in a temper does. That is what a man does who has decided something and is waiting."**
+
+  **Die Bitte, im Kanon-Register: die Hoeflichkeit steigt, sie sinkt nicht.** Er steht dafuer auf. **"May I have this one, Mistress?"** Mit Zeichen, weil sie nein sagen koennte. Und der Umfang wird ausgesprochen: *"I want everything she has, and I want it done by people who are entitled to take it from her, and I want her to be somebody nobody in that trade will read a letter from ever again."*
+
+  **Der Preis ist der Deckel selbst.** *"I cannot tell you what a thing costs before I pay for it. ... If I stop to come home and name a figure, I will lose the week."* Er bittet darum, die Regel vom 11. Maerz auszusetzen - **die einzige Bitte in zwei Baenden, bei der sie haette nein sagen koennen.**
+
+  **Was Annie dafuer bekommt, und er bringt es von selbst mit:** die **fuenf uebrigen Firmen**, vollstaendig, nicht als Kunden und nicht als Absprache. Sein Grund ist ungeschoent: eine Privatrache, die nichts einbringt, waere ihr Monat fuer seine Gefuehle. *"It is also true that I want it. Both of those are the case, and the second one is not the smaller of the two."*
+
+  **Ihre zwei Bedingungen, und keine davon schuetzt Nam.**
+
+  1. **Kein unwahres Wort**, nicht um es zu beschleunigen, nicht um es haerter zu machen, nicht am Ende. Und ihre Begruendung ist nicht Moral: *"That rule is the only thing you have ever had that is yours, and I am not going to watch you spend it on a haulier in Ulsan."* Seine Antwort ist die kaelteste des Kapitels: **"I will not need to."** - *"No. I know."*
+  2. **"When it is finished you will come to this room and tell me whether you enjoyed it."** Und die Wahrheit darueber. *"I am aware of what I am asking for, and I am asking for it anyway."*
+
+  **Und der Satz an der Tuer, der Sang-hoon als Gegenbild benutzt:** *"I want her finished. I do not want her hurt for four months so that somebody can watch. Park Sang-hoon takes eighteen months over a man because he enjoys the second year. You are not going to become that."* Zeitrahmen: **drei Wochen, vier wenn der Zweite vorsichtig ist.**
+
+  **Jang an den Garagen, und er ist etwas anderes als erwartet.** Keine harten Maenner. **Fahrer.** *"I have known every man who drives for a house in this city for the better part of thirty years. About half of them owe me something. The ones who do not will talk anyway, because nobody has ever asked them anything in their lives."* Drei Tage. **Das ist Kapitel 3 mit lebenden Leuten statt mit Frachtbriefen.**
+
+  **Und seine letzte Zeile bindet ihn**, ohne dass er darum gebeten hat: *"You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on."*
 
 ---
 
