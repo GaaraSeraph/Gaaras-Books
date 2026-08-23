@@ -349,6 +349,24 @@ Kapitel 1 baut sie auf.
    Kostet nichts ausser Aktenarbeit, ist Georgijs eigenes Verfahren, und
    **niemand muss ihn beauftragen.** Georgij spricht die Zahl in Kapitel 1 selbst
    aus: *"There are four lines. I am one of them."*
+
+   **Stand nach Band 2, Kapitel 3: drei von vier Abenden aufgeloest, ein Name.**
+   Die dritte Zeile gehoert **Mrs Sunwoo**, und sie ist die falsche Haelfte -
+   eine Frau von einundachtzig neben Annie auf derselben Seite ergibt keine
+   Sperre, sondern eine Schlange. **Der vierte Abend hat kein Papier**: kein
+   Wagen bestellt, niemand verkoestigt, nur Stuhlverleih und Blumen.
+   Georgij haelt das fuer das Alter der Unterlagen.
+
+   **Das ist der Punkt, an dem Choi zum zweiten Mal an ihm vorbeilaeuft, ohne
+   dass er es merkt, und er darf es hier nicht merken.** Wer die Form kennt,
+   verhaelt sich korrekt darum herum, und korrektes Verhalten ist laut
+   Kapitel 12 die Unterschrift.
+
+   **Und Mrs Sunwoo wird nicht angegangen, bis es fertig vorbereitet ist.**
+   Hanas Regel von einer anderen Frau, die niemanden empfaengt: *not quickly
+   and not twice.* Wer seit vierzig Jahren vorsichtig ist, wird einmal gewarnt,
+   und ist danach vorsichtig in Bezug auf **eine bestimmte Sache** statt in
+   Bezug auf alles.
 2. **Das Haus beenden.** Nicht das Buch - **das Buch ist nicht mehr einholbar.**
    Die Liste geht laut Kapitel 1 per Post an jeden Kaeufer, seit vier Jahren. Man
    kann ein Buch verbrennen, keine Post. **Solange das Haus existiert, ist die
@@ -376,18 +394,17 @@ nicht um zu halten.
 
 ---
 
-### Der Preis, und er darf nicht weichgezeichnet werden
+### Der Preis
 
 **Einzelne aus einem Block herauszudrehen ist Sang-hoons Methode.** Zwei
 Direktoren, einzeln, vierhundert Kilometer von zu Hause, im Paradise in Busan.
-Band 1 hat vierunddreissig Kapitel gegen genau das gekaempft, und Georgij hat den
-Kims in Kapitel 26 in genau diesen Worten versprochen, dass es ihnen nicht
-passiert.
+Band 1 hat vierunddreissig Kapitel dagegen gekaempft, und Georgij hat den Kims in
+Kapitel 26 in genau diesen Worten versprochen, dass es ihnen nicht passiert.
 
-**Das ist kein Einwand, sondern der Fall, und das Buch hat ihn verdient. Aber es
-muss teuer sein, und niemand darf so tun, als waere es das nicht.** Wer die
-Uebernahme schreibt, ohne dass irgendwo im Text jemand benennt, wessen Verfahren
-das ist, hat die Szene nicht zu Ende gedacht.
+**Das ist kein Einwand, sondern der Fall, und das Buch hat ihn verdient.** Wie er
+bezahlt wird, steht schon fest: **von einer Figur im Raum, nicht von der
+Erzaehlstimme.** Wer die Uebernahme schreibt und niemanden darin hat, der
+ausspricht, wessen Verfahren das ist, hat die Szene nicht zu Ende gedacht.
 
 **Und der Preis hat einen Namen aus Kapitel 2.** Wenn Nams Verband unter Annies
 Zuteilung aufgeht, gehen die sechs Firmen nicht alle mit durch. **Der Mann aus

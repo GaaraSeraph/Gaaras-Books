@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 338 | 32 (b1ch01-b2ch02) | 1 | 74 |
-| Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
+| Annie | 347 | 33 (b1ch01-b2ch03) | 1 | 74 |
+| Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
 | Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
-| Mrs Seo | 52 | 19 (b1ch03-b2ch01) | 1 | 74 |
+| Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -37,9 +37,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
 | Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
+| Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Sunwoo | 3 | 1 (b1ch07) | 22 | 22 |
-| Choi Dae-ho | 2 | 1 (b1ch07) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -49,7 +49,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-338 Nennungen in 32 Kapiteln.
+347 Nennungen in 33 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -391,6 +391,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch02:152 | Annie looked at him for a moment. |
 | 53 | b2ch02:172 | "You wrote it out correctly," said Annie. |
 | 53 | b2ch02:184 | Annie did not argue with any part of that, which he had not expected either. |
+| 56 | b2ch03:8 | On the Wednesday night Annie had asked for the Ulsan one by name, from the filings and t.. |
+| 56 | b2ch03:96 | There are two reasons a person pays for that, and one of them is the reason Annie had. F.. |
+| 56 | b2ch03:110 | Deterrence needs the other side of it. A page with Annie on it and a woman of eighty-one.. |
+| 56 | b2ch03:126 | Annie came in at nine with the Yeouido people gone and her coat already off. |
+| 56 | b2ch03:140 | Annie went through it and asked four things. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 56 | b2ch03:152 | Annie looked at that for a moment. |
+| 56 | b2ch03:170 | Annie did not move at all. |
+| 56 | b2ch03:184 | "Keep it, then," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -471,12 +480,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:222` (Tag 51) - eight, ten
 - `b2ch02:66` (Tag 53) - four, one
 - `b2ch02:134` (Tag 53) - eight
+- `b2ch03:8` (Tag 56) - one, three
+- `b2ch03:96` (Tag 56) - one, two
+- `b2ch03:110` (Tag 56) - eighty-one, two
+- `b2ch03:126` (Tag 56) - nine
+- `b2ch03:140` (Tag 56) - four
 
 ---
 
 ## Hana
 
-161 Nennungen in 16 Kapiteln.
+162 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -641,6 +655,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
 | 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
+| 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -704,6 +719,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:50` (Tag 74) - thirty
 - `b1ch31:222` (Tag 74) - six
 - `b1ch31:336` (Tag 5) - twenty-two
+- `b2ch03:122` (Tag 56) - one
 
 ---
 
@@ -1152,7 +1168,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-52 Nennungen in 19 Kapiteln.
+53 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1208,6 +1224,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
 | 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1711,6 +1728,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Choi Dae-ho
+
+3 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+
+---
+
 ## Minister Min-ho
 
 3 Nennungen in 1 Kapiteln.
@@ -1743,21 +1777,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch07:192` (Tag 22) - ten
 - `b1ch07:274` (Tag 22) - forty, one
 - `b1ch07:292` (Tag 22) - twelve
-
----
-
-## Choi Dae-ho
-
-2 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
 
 ---
 

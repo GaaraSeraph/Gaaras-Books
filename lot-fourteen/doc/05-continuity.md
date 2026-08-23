@@ -75,6 +75,10 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 152, Mi 4. Maerz: Gimpo, Shins Hof. **Er bezahlt zum ersten Mal, statt zu
   nehmen**, und bekommt dafuer das Vetorecht von unten zu sehen (Band 2,
   Kapitel 2)
+- Tag 153 bis 155, Do 5. bis Sa 7. Maerz: **die Aktensuche nach den anderen zwei
+  Zeilen**, unbeauftragt. Drei von vier Abenden aufgeloest, **Mrs Sunwoo**
+  gefunden, der vierte Abend hat kein Papier. Abends Ulsan und die erste
+  offene Zurueckhaltung ihr gegenueber (Band 2, Kapitel 3)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -470,6 +474,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Ihr Auftrag am Schluss:** den Mann aus Ulsan namentlich, **nicht** ueber Shin, sondern aus den Meldungen und dann von jemandem, der selbst an dem Tor gestanden hat. Dazu ihre Prognose ohne Eile: *"They are all four of them worth having, and two of them will be gone by June."*
 
   **Der Schluss zaehlt die zweite Nichtantwort.** *"That was the second time in two days that a question he had put down in front of her had been stepped over rather than answered, and the first time had been about a name."* Und die Bilanz: Gestern hat er um ein Papier gebeten, das sagt, was er darf, und keines bekommen; heute hat er ohne Papier etwas von ihr verschenkt, hatte recht, und sie hat es stehenlassen. **Er geht die Osttreppe hinauf und zaehlt die Stufen nicht** - in Kapitel 34 hat er sie gezaehlt und zweiundzwanzig bekommen, was er seit Oktober wusste.
+
+- **Band 2, Kapitel 3** *We haven't met* (v1.0) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
+
+  **Niemand hat ihn darum gebeten, und das ist der erste Satz.** Ulsan war am Donnerstag um vier fertig. Was er mit den restlichen drei Tagen macht, entscheidet er selbst - und er beruft sich dabei auf ihren eigenen Satz vom Montag: *"Nobody has told you what to want."* **Sie hat es als Freigabe gemeint. Er nimmt es als eine, und er weiss, dass sie das nicht gemeint hat.** Dazu die Uebertretung in Fingernagelgroesse: Er nimmt den Katalog vom Schreibtisch im kleinen Zimmer mit nach oben, **das erste Ding, das er je aus diesem Raum genommen hat, ohne dass es ihm gereicht wurde.**
+
+  **Das Verfahren ist das aus Kapitel 7, zum zweiten Mal.** Er geht nicht ans Haus, er geht an **das Aussenherum eines Abends**: Fahrdienst, Blumen, Stuhlverleih, Abrechnungslaeufer. Vierhundertdreissig Namen kamen im Oktober aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung, und Choi Dae-ho war nicht darunter.
+
+  **Es funktioniert, und es funktioniert ueber Fahrtenzettel.** Eine Firma in Jung-gu hebt ihre Dockets sieben Jahre auf, wegen eines verlorenen Steuerstreits. Vier Fahrten auf dieselbe Strasse in drei Jahren sind ein Kunde. Dahinter eine Briefkastenfirma, zwei Zimmer und eine Sekretaerin, schlecht gebaut - *"whoever set it up had not been trying very hard, which by itself said something."*
+
+  **Und dahinter steht Mrs Sunwoo.** Entschieden am 23.08. Sie ist **nicht neu erfunden**: Kapitel 1 sagt, dass an dem Abend, an dem Georgij verkauft wird, ein Laeufer der Abrechnung **zu der Dame an der Saeule** heruntergeht - sie hat in diesem Raum gekauft. Kapitel 7 laesst sie ihm die Hand geben mit *"We haven't met."* **Ihr eigener Eintrag ist aelter**, drei Jahre zurueck, und der Kauf vom 4. Oktober gehoert nicht dazu; sie ist Stammkundin.
+
+  **Damit dreht sich eine Szene aus Kapitel 7 um.** Er hielt die vier Woerter fuer eine Hoeflichkeit. Sie waren eine Pruefung: **ob der Neue am Tisch weiss, was sie ist.** Er hat ihr mit dem Gesicht geantwortet, dass er es nicht weiss, und sie ist zufrieden weggegangen. *"He worked out on Saturday afternoon what she had actually been doing, and it took him under a minute once he stopped being flattered."*
+
+  **Was er nicht hat, ist die Zeile selbst.** Eine Referenz, eine Saison und ein Federstrich. Wer dort stand, steht nirgends. **Und das Motiv aus Kapitel 6 kommt veraendert wieder:** dort war es *withdrawn or sold*, hier ist es *"There are two reasons a person pays for that, and one of them is the reason Annie had. From the outside of an evening they look exactly alike."*
+
+  **Der vierte Abend hat kein Papier.** Kein Wagen bestellt, niemand verkoestigt, nur Stuhlverleih und Blumen fuer den Raum. Georgij geht ihn zweimal an, legt ihn hin und notiert sich als Grund **das Alter der Unterlagen, was vernuenftig ist.** Der Leser, der Kapitel 7 kennt, weiss, was ein leeres Ergebnis bedeutet. **Georgij nicht**, und er darf es hier nicht wissen - siehe `doc/07-next.md`.
+
+  **Und der Fund ist die falsche Haelfte.** Abschreckung braucht jemanden, der so gross ist, dass die Seite unbenutzbar wird. *"A page with Annie on it and a woman of eighty-one on it is a page with two people on it who can both be hurt, and that is not a deadlock, that is a queue."*
+
+  **Er geht Mrs Sunwoo nicht an**, und die Begruendung ist Hanas Regel von einer anderen Frau, die niemanden empfaengt: **Not quickly and not twice.** Eine Frau, die seit vierzig Jahren vorsichtig ist, wird einmal gewarnt, und danach ist sie vorsichtig in Bezug auf **eine bestimmte Sache** statt in Bezug auf alles, was schlimmer ist. Dazu: Er hat nichts, was sie will.
+
+  **Abends Ulsan, und Annies vierte Frage ist die gefaehrliche.** Nam Byung-hee hat die Firma seit dem Tod ihres Bruders, dazu den Vorsitz des Verbands der unabhaengigen Verlader - sechs Firmen, und sie schreibt ihnen **am Ersten jedes Monats**, ob es etwas zu schreiben gibt oder nicht. Die letzten drei Briefe sagen nichts und sind trotzdem abgegangen. Annies Schluss: *"Then she is not somebody who is going to be told to be patient."* Die vierte Frage lautet, ob Nam je etwas ausserhalb dieses Gewerbes gehalten hat, die Antwort ist nein, und **Annie legt bei der Antwort die Hand flach auf die Lehne.**
+
+  **Dann die Umkehrung, und sie ist der Kern des Kapitels.** Auf *"What have you been doing since Thursday afternoon."* laesst er **nichts weg** - er verweigert offen: *"Something of my own. I will tell you, and I am not going to tell you tonight."* Auf ihre Nachfrage bindet er sich dreifach: nicht heute, am Tag an dem es kostet bekommst Du alles, und **wenn Du jetzt fragst, sage ich es Dir jetzt.**
+
+  **Der Unterschied zwischen den beiden steht damit fest und ist der Schluss des Kapitels: Georgij haelt mit Frist zurueck, Annie ohne.** *"In eight days she had stepped over two of his questions and had not put a date on either."* Und die letzte Bewegung ist ihre Hand im Nacken auf dem Weg vorbei, wie zweimal im Februar.
+
+  **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
 ---
 

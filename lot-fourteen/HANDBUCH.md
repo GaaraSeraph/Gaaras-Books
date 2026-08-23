@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 84.113 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 85.673 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -88,7 +88,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Block J - Mapo-Bruecke **[GESCHRIEBEN, Kapitel 23]**](#block-j-mapo-bruecke-geschrieben-kapitel-23)
 - [Naechste Schritte und offene Faeden](#naechste-schritte-und-offene-faeden)  ·  `doc/07-next.md`
   - [Wie die Waffe unbrauchbar wird: drei Wege](#wie-die-waffe-unbrauchbar-wird-drei-wege)
-  - [Der Preis, und er darf nicht weichgezeichnet werden](#der-preis-und-er-darf-nicht-weichgezeichnet-werden)
+  - [Der Preis](#der-preis)
   - [Was NICHT vorher entschieden ist](#was-nicht-vorher-entschieden-ist)
   - [Bekannte Baustellen, Stand nach Kapitel 17](#bekannte-baustellen-stand-nach-kapitel-17)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
@@ -133,9 +133,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
   - [Mr Yeo](#mr-yeo)
+  - [Choi Dae-ho](#choi-dae-ho)
   - [Minister Min-ho](#minister-min-ho)
   - [Mrs Sunwoo](#mrs-sunwoo)
-  - [Choi Dae-ho](#choi-dae-ho)
   - [Mrs Ahn](#mrs-ahn)
   - [Tae-min](#tae-min)
   - [Mr Im](#mr-im)
@@ -1486,7 +1486,15 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 *Kanon, Kapitel 7.*
 
 **Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
-*Kanon, Kapitel 1 und 7.*
+
+**Und ab Band 2, Kapitel 3 ist sie eine der vier Zeilen.** Einundachtzig Jahre alt. Sie hat vor drei Jahren dafür bezahlt, dass ein Eintrag aus dem Register verschwindet, über eine schlecht gebaute Briefkastenfirma, und Georgij findet sie über die Fahrtenzettel eines Fahrdienstes in Jung-gu.
+
+**Nichts daran ist neu erfunden.** Kapitel 1 sagt, dass an dem Abend, an dem Georgij verkauft wird, ein Läufer der Abrechnung **zu der Dame an der Säule** heruntergeht - sie hat in diesem Keller gekauft. Ihr eigener gestrichener Eintrag ist älter; der Kauf vom 4. Oktober gehört nicht dazu.
+
+**Damit dreht sich die Szene aus Kapitel 7 um.** *"We haven't met"* war keine Höflichkeit, sondern eine Prüfung: ob der Neue am Tisch weiß, was sie ist. Er hat ihr mit dem Gesicht geantwortet, dass er es nicht weiß, und sie ist zufrieden weggegangen. **Wer sie künftig als harmlose alte Dame schreibt, schreibt gegen Kapitel 3.**
+
+**Sie wird nicht angegangen, bis es fertig vorbereitet ist** - Hanas Regel, *not quickly and not twice*. Eine Frau, die seit vierzig Jahren vorsichtig ist, wird einmal gewarnt.
+*Kanon, Kapitel 1 und 7, und Band 2 Kapitel 3.*
 
 **Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij fragt sie danach, statt ihr das Kleid zu loben, und sagt ihr, es sei die einzige interessante Entscheidung des Jahres gewesen, **und er meint es, und sie hört, dass er es meint**. Ihr Gesicht ändert sich kaum. Sie gibt ihm trotzdem **sechs** Minuten, was sie sonst nicht tut.
 **Korrigiert:** Das bewusst weggelassene Lächeln gilt nicht ihr, sondern der jungen Frau an der Bar (Kapitel 7 und 8). Bei Ryu steht im Text kein Wort über ein Lächeln.
@@ -1886,6 +1894,10 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 152, Mi 4. Maerz: Gimpo, Shins Hof. **Er bezahlt zum ersten Mal, statt zu
   nehmen**, und bekommt dafuer das Vetorecht von unten zu sehen (Band 2,
   Kapitel 2)
+- Tag 153 bis 155, Do 5. bis Sa 7. Maerz: **die Aktensuche nach den anderen zwei
+  Zeilen**, unbeauftragt. Drei von vier Abenden aufgeloest, **Mrs Sunwoo**
+  gefunden, der vierte Abend hat kein Papier. Abends Ulsan und die erste
+  offene Zurueckhaltung ihr gegenueber (Band 2, Kapitel 3)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -2281,6 +2293,34 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Ihr Auftrag am Schluss:** den Mann aus Ulsan namentlich, **nicht** ueber Shin, sondern aus den Meldungen und dann von jemandem, der selbst an dem Tor gestanden hat. Dazu ihre Prognose ohne Eile: *"They are all four of them worth having, and two of them will be gone by June."*
 
   **Der Schluss zaehlt die zweite Nichtantwort.** *"That was the second time in two days that a question he had put down in front of her had been stepped over rather than answered, and the first time had been about a name."* Und die Bilanz: Gestern hat er um ein Papier gebeten, das sagt, was er darf, und keines bekommen; heute hat er ohne Papier etwas von ihr verschenkt, hatte recht, und sie hat es stehenlassen. **Er geht die Osttreppe hinauf und zaehlt die Stufen nicht** - in Kapitel 34 hat er sie gezaehlt und zweiundzwanzig bekommen, was er seit Oktober wusste.
+
+- **Band 2, Kapitel 3** *We haven't met* (v1.0) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
+
+  **Niemand hat ihn darum gebeten, und das ist der erste Satz.** Ulsan war am Donnerstag um vier fertig. Was er mit den restlichen drei Tagen macht, entscheidet er selbst - und er beruft sich dabei auf ihren eigenen Satz vom Montag: *"Nobody has told you what to want."* **Sie hat es als Freigabe gemeint. Er nimmt es als eine, und er weiss, dass sie das nicht gemeint hat.** Dazu die Uebertretung in Fingernagelgroesse: Er nimmt den Katalog vom Schreibtisch im kleinen Zimmer mit nach oben, **das erste Ding, das er je aus diesem Raum genommen hat, ohne dass es ihm gereicht wurde.**
+
+  **Das Verfahren ist das aus Kapitel 7, zum zweiten Mal.** Er geht nicht ans Haus, er geht an **das Aussenherum eines Abends**: Fahrdienst, Blumen, Stuhlverleih, Abrechnungslaeufer. Vierhundertdreissig Namen kamen im Oktober aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung, und Choi Dae-ho war nicht darunter.
+
+  **Es funktioniert, und es funktioniert ueber Fahrtenzettel.** Eine Firma in Jung-gu hebt ihre Dockets sieben Jahre auf, wegen eines verlorenen Steuerstreits. Vier Fahrten auf dieselbe Strasse in drei Jahren sind ein Kunde. Dahinter eine Briefkastenfirma, zwei Zimmer und eine Sekretaerin, schlecht gebaut - *"whoever set it up had not been trying very hard, which by itself said something."*
+
+  **Und dahinter steht Mrs Sunwoo.** Entschieden am 23.08. Sie ist **nicht neu erfunden**: Kapitel 1 sagt, dass an dem Abend, an dem Georgij verkauft wird, ein Laeufer der Abrechnung **zu der Dame an der Saeule** heruntergeht - sie hat in diesem Raum gekauft. Kapitel 7 laesst sie ihm die Hand geben mit *"We haven't met."* **Ihr eigener Eintrag ist aelter**, drei Jahre zurueck, und der Kauf vom 4. Oktober gehoert nicht dazu; sie ist Stammkundin.
+
+  **Damit dreht sich eine Szene aus Kapitel 7 um.** Er hielt die vier Woerter fuer eine Hoeflichkeit. Sie waren eine Pruefung: **ob der Neue am Tisch weiss, was sie ist.** Er hat ihr mit dem Gesicht geantwortet, dass er es nicht weiss, und sie ist zufrieden weggegangen. *"He worked out on Saturday afternoon what she had actually been doing, and it took him under a minute once he stopped being flattered."*
+
+  **Was er nicht hat, ist die Zeile selbst.** Eine Referenz, eine Saison und ein Federstrich. Wer dort stand, steht nirgends. **Und das Motiv aus Kapitel 6 kommt veraendert wieder:** dort war es *withdrawn or sold*, hier ist es *"There are two reasons a person pays for that, and one of them is the reason Annie had. From the outside of an evening they look exactly alike."*
+
+  **Der vierte Abend hat kein Papier.** Kein Wagen bestellt, niemand verkoestigt, nur Stuhlverleih und Blumen fuer den Raum. Georgij geht ihn zweimal an, legt ihn hin und notiert sich als Grund **das Alter der Unterlagen, was vernuenftig ist.** Der Leser, der Kapitel 7 kennt, weiss, was ein leeres Ergebnis bedeutet. **Georgij nicht**, und er darf es hier nicht wissen - siehe `doc/07-next.md`.
+
+  **Und der Fund ist die falsche Haelfte.** Abschreckung braucht jemanden, der so gross ist, dass die Seite unbenutzbar wird. *"A page with Annie on it and a woman of eighty-one on it is a page with two people on it who can both be hurt, and that is not a deadlock, that is a queue."*
+
+  **Er geht Mrs Sunwoo nicht an**, und die Begruendung ist Hanas Regel von einer anderen Frau, die niemanden empfaengt: **Not quickly and not twice.** Eine Frau, die seit vierzig Jahren vorsichtig ist, wird einmal gewarnt, und danach ist sie vorsichtig in Bezug auf **eine bestimmte Sache** statt in Bezug auf alles, was schlimmer ist. Dazu: Er hat nichts, was sie will.
+
+  **Abends Ulsan, und Annies vierte Frage ist die gefaehrliche.** Nam Byung-hee hat die Firma seit dem Tod ihres Bruders, dazu den Vorsitz des Verbands der unabhaengigen Verlader - sechs Firmen, und sie schreibt ihnen **am Ersten jedes Monats**, ob es etwas zu schreiben gibt oder nicht. Die letzten drei Briefe sagen nichts und sind trotzdem abgegangen. Annies Schluss: *"Then she is not somebody who is going to be told to be patient."* Die vierte Frage lautet, ob Nam je etwas ausserhalb dieses Gewerbes gehalten hat, die Antwort ist nein, und **Annie legt bei der Antwort die Hand flach auf die Lehne.**
+
+  **Dann die Umkehrung, und sie ist der Kern des Kapitels.** Auf *"What have you been doing since Thursday afternoon."* laesst er **nichts weg** - er verweigert offen: *"Something of my own. I will tell you, and I am not going to tell you tonight."* Auf ihre Nachfrage bindet er sich dreifach: nicht heute, am Tag an dem es kostet bekommst Du alles, und **wenn Du jetzt fragst, sage ich es Dir jetzt.**
+
+  **Der Unterschied zwischen den beiden steht damit fest und ist der Schluss des Kapitels: Georgij haelt mit Frist zurueck, Annie ohne.** *"In eight days she had stepped over two of his questions and had not put a date on either."* Und die letzte Bewegung ist ihre Hand im Nacken auf dem Weg vorbei, wie zweimal im Februar.
+
+  **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
 ---
 
@@ -3560,6 +3600,24 @@ Kapitel 1 baut sie auf.
    Kostet nichts ausser Aktenarbeit, ist Georgijs eigenes Verfahren, und
    **niemand muss ihn beauftragen.** Georgij spricht die Zahl in Kapitel 1 selbst
    aus: *"There are four lines. I am one of them."*
+
+   **Stand nach Band 2, Kapitel 3: drei von vier Abenden aufgeloest, ein Name.**
+   Die dritte Zeile gehoert **Mrs Sunwoo**, und sie ist die falsche Haelfte -
+   eine Frau von einundachtzig neben Annie auf derselben Seite ergibt keine
+   Sperre, sondern eine Schlange. **Der vierte Abend hat kein Papier**: kein
+   Wagen bestellt, niemand verkoestigt, nur Stuhlverleih und Blumen.
+   Georgij haelt das fuer das Alter der Unterlagen.
+
+   **Das ist der Punkt, an dem Choi zum zweiten Mal an ihm vorbeilaeuft, ohne
+   dass er es merkt, und er darf es hier nicht merken.** Wer die Form kennt,
+   verhaelt sich korrekt darum herum, und korrektes Verhalten ist laut
+   Kapitel 12 die Unterschrift.
+
+   **Und Mrs Sunwoo wird nicht angegangen, bis es fertig vorbereitet ist.**
+   Hanas Regel von einer anderen Frau, die niemanden empfaengt: *not quickly
+   and not twice.* Wer seit vierzig Jahren vorsichtig ist, wird einmal gewarnt,
+   und ist danach vorsichtig in Bezug auf **eine bestimmte Sache** statt in
+   Bezug auf alles.
 2. **Das Haus beenden.** Nicht das Buch - **das Buch ist nicht mehr einholbar.**
    Die Liste geht laut Kapitel 1 per Post an jeden Kaeufer, seit vier Jahren. Man
    kann ein Buch verbrennen, keine Post. **Solange das Haus existiert, ist die
@@ -3587,18 +3645,17 @@ nicht um zu halten.
 
 ---
 
-### Der Preis, und er darf nicht weichgezeichnet werden
+### Der Preis
 
 **Einzelne aus einem Block herauszudrehen ist Sang-hoons Methode.** Zwei
 Direktoren, einzeln, vierhundert Kilometer von zu Hause, im Paradise in Busan.
-Band 1 hat vierunddreissig Kapitel gegen genau das gekaempft, und Georgij hat den
-Kims in Kapitel 26 in genau diesen Worten versprochen, dass es ihnen nicht
-passiert.
+Band 1 hat vierunddreissig Kapitel dagegen gekaempft, und Georgij hat den Kims in
+Kapitel 26 in genau diesen Worten versprochen, dass es ihnen nicht passiert.
 
-**Das ist kein Einwand, sondern der Fall, und das Buch hat ihn verdient. Aber es
-muss teuer sein, und niemand darf so tun, als waere es das nicht.** Wer die
-Uebernahme schreibt, ohne dass irgendwo im Text jemand benennt, wessen Verfahren
-das ist, hat die Szene nicht zu Ende gedacht.
+**Das ist kein Einwand, sondern der Fall, und das Buch hat ihn verdient.** Wie er
+bezahlt wird, steht schon fest: **von einer Figur im Raum, nicht von der
+Erzaehlstimme.** Wer die Uebernahme schreibt und niemanden darin hat, der
+ausspricht, wessen Verfahren das ist, hat die Szene nicht zu Ende gedacht.
 
 **Und der Preis hat einen Namen aus Kapitel 2.** Wenn Nams Verband unter Annies
 Zuteilung aufgeht, gehen die sechs Firmen nicht alle mit durch. **Der Mann aus
@@ -4623,12 +4680,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 338 | 32 (b1ch01-b2ch02) | 1 | 74 |
-| Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
+| Annie | 347 | 33 (b1ch01-b2ch03) | 1 | 74 |
+| Hana | 162 | 17 (b1ch09-b2ch03) | 1 | 74 |
 | Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
 | Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
-| Mrs Seo | 52 | 19 (b1ch03-b2ch01) | 1 | 74 |
+| Mrs Seo | 53 | 20 (b1ch03-b2ch03) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -4642,9 +4699,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
 | Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
+| Choi Dae-ho | 3 | 2 (b1ch07-b2ch03) | 22 | 56 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Sunwoo | 3 | 1 (b1ch07) | 22 | 22 |
-| Choi Dae-ho | 2 | 1 (b1ch07) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
 | Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
@@ -4654,7 +4711,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-338 Nennungen in 32 Kapiteln.
+347 Nennungen in 33 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4996,6 +5053,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch02:152 | Annie looked at him for a moment. |
 | 53 | b2ch02:172 | "You wrote it out correctly," said Annie. |
 | 53 | b2ch02:184 | Annie did not argue with any part of that, which he had not expected either. |
+| 56 | b2ch03:8 | On the Wednesday night Annie had asked for the Ulsan one by name, from the filings and t.. |
+| 56 | b2ch03:96 | There are two reasons a person pays for that, and one of them is the reason Annie had. F.. |
+| 56 | b2ch03:110 | Deterrence needs the other side of it. A page with Annie on it and a woman of eighty-one.. |
+| 56 | b2ch03:126 | Annie came in at nine with the Yeouido people gone and her coat already off. |
+| 56 | b2ch03:140 | Annie went through it and asked four things. |
+| 56 | b2ch03:144 | The fourth was whether Nam Byung-hee had ever held anything outside this trade, and the .. |
+| 56 | b2ch03:152 | Annie looked at that for a moment. |
+| 56 | b2ch03:170 | Annie did not move at all. |
+| 56 | b2ch03:184 | "Keep it, then," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5076,12 +5142,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:222` (Tag 51) - eight, ten
 - `b2ch02:66` (Tag 53) - four, one
 - `b2ch02:134` (Tag 53) - eight
+- `b2ch03:8` (Tag 56) - one, three
+- `b2ch03:96` (Tag 56) - one, two
+- `b2ch03:110` (Tag 56) - eighty-one, two
+- `b2ch03:126` (Tag 56) - nine
+- `b2ch03:140` (Tag 56) - four
 
 ---
 
 ### Hana
 
-161 Nennungen in 16 Kapiteln.
+162 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5246,6 +5317,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
 | 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
+| 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -5309,6 +5381,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:50` (Tag 74) - thirty
 - `b1ch31:222` (Tag 74) - six
 - `b1ch31:336` (Tag 5) - twenty-two
+- `b2ch03:122` (Tag 56) - one
 
 ---
 
@@ -5757,7 +5830,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-52 Nennungen in 19 Kapiteln.
+53 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5813,6 +5886,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
 | 51 | b2ch01:66 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
 | 51 | b2ch01:138 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -6316,6 +6390,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Choi Dae-ho
+
+3 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+
+---
+
 ### Minister Min-ho
 
 3 Nennungen in 1 Kapiteln.
@@ -6348,21 +6439,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch07:192` (Tag 22) - ten
 - `b1ch07:274` (Tag 22) - forty, one
 - `b1ch07:292` (Tag 22) - twelve
-
----
-
-### Choi Dae-ho
-
-2 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
 
 ---
 

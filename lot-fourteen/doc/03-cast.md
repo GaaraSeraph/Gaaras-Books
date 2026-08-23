@@ -300,7 +300,15 @@ Seite zu stehen. Aus dieser Gruppe kommen die Namen, die spaeter zaehlen.
 *Kanon, Kapitel 7.*
 
 **Mrs Sunwoo** - Die Dame an der Säule aus dem Keller. Reicht Georgij auf der Gala die Hand mit "We haven't met". Laut Hong charmant und hat in vierzig Jahren niemandem je etwas ganz erzählt.
-*Kanon, Kapitel 1 und 7.*
+
+**Und ab Band 2, Kapitel 3 ist sie eine der vier Zeilen.** Einundachtzig Jahre alt. Sie hat vor drei Jahren dafür bezahlt, dass ein Eintrag aus dem Register verschwindet, über eine schlecht gebaute Briefkastenfirma, und Georgij findet sie über die Fahrtenzettel eines Fahrdienstes in Jung-gu.
+
+**Nichts daran ist neu erfunden.** Kapitel 1 sagt, dass an dem Abend, an dem Georgij verkauft wird, ein Läufer der Abrechnung **zu der Dame an der Säule** heruntergeht - sie hat in diesem Keller gekauft. Ihr eigener gestrichener Eintrag ist älter; der Kauf vom 4. Oktober gehört nicht dazu.
+
+**Damit dreht sich die Szene aus Kapitel 7 um.** *"We haven't met"* war keine Höflichkeit, sondern eine Prüfung: ob der Neue am Tisch weiß, was sie ist. Er hat ihr mit dem Gesicht geantwortet, dass er es nicht weiß, und sie ist zufrieden weggegangen. **Wer sie künftig als harmlose alte Dame schreibt, schreibt gegen Kapitel 3.**
+
+**Sie wird nicht angegangen, bis es fertig vorbereitet ist** - Hanas Regel, *not quickly and not twice*. Eine Frau, die seit vierzig Jahren vorsichtig ist, wird einmal gewarnt.
+*Kanon, Kapitel 1 und 7, und Band 2 Kapitel 3.*
 
 **Mrs Ryu** - Die Schiedsverhandlung in Singapur, aus der sie tatsächlich hinausgegangen ist. Georgij fragt sie danach, statt ihr das Kleid zu loben, und sagt ihr, es sei die einzige interessante Entscheidung des Jahres gewesen, **und er meint es, und sie hört, dass er es meint**. Ihr Gesicht ändert sich kaum. Sie gibt ihm trotzdem **sechs** Minuten, was sie sonst nicht tut.
 **Korrigiert:** Das bewusst weggelassene Lächeln gilt nicht ihr, sondern der jungen Frau an der Bar (Kapitel 7 und 8). Bei Ryu steht im Text kein Wort über ein Lächeln.
