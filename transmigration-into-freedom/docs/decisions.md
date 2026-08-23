@@ -3,6 +3,45 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Magic arrives in chapter 16 as an invoice, not as a gift ===
+Sixteen chapters of MP 60, never spent, never touched, and the arc document has
+said since early on that the first instance must be done TO him or paid FOR by
+him. Chapter 16 was the last good place for it: four hours with his hands on a
+machine nobody in this world can read.
+What makes it work is that the discovery is arithmetic and not a feeling. He
+feels nothing at all. He notices because Hallvard's own numbers do not add up:
+nine hours to raise the gate, four to lower the same load with the same gear,
+and you have to lift a thing before you are allowed to drop it. The difference
+is being paid for, and he is the only person present who can see the account.
+Discarded: discovery by exhaustion, and discovery by a warning message. Both
+turn the system into an ally that tells him things, and the author's position
+is that it is a tool with a monopoly. It bills him and goes quiet.
+Also decided here: it draws on the whole crew and only Gaara can see it, so he
+either tells them mid-shift or becomes a man who spends people quietly. He
+tells them. That is the same asset chapter 14 was about.
+
+=== The quickie offer is made once, and the reason is the power gap ===
+The author asked for it: in the breaks he offers, and whether people take it up
+depends on the person. The risk in the scene is obvious, because he is the man
+giving orders in a tunnel where these people can die, so the scene names it
+instead of hoping the reader will not. He asks ONCE, a no costs nothing, and it
+moves nobody one place on the bar in either direction, and he says why: asking
+twice would not be asking.
+That also settles the Sivert direction from ch15 without moving it forward. He
+goes red, says nothing, and answers much later on his way out of the channel
+with somebody else's line. It stays his to refuse at no cost, which is the
+author's condition, verbatim.
+
+=== Chapter 15 counted eight people into a channel that had nine in it ===
+Six villagers plus Gaara, Marit and Hallvard is nine, and it was written as
+eight twice. Found while writing ch16, where the count matters, because Sivert
+leaves and the number has to drop to eight on the page. Also in ch15: he had
+been calling the knife the knife for two weeks, in a book where ch13 has him
+say in his own mouth that he has been in this world three days. Now four days.
+Same class as the calendar drift caught earlier: what gets checked stays right,
+and what nobody counts drifts.
+
+
 === No level up in chapter 6, and the reason is a rule I had broken ===
 The chapter first shipped with Level 3 landing over the body. The author caught
 it: two kills for level 2, two more for level 3, fast and linear. The pacing

@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 15 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 18.871 Woerter.
+Kanon: 16 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 20.738 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -132,6 +132,11 @@ The six (ch14, blooded ch15)
   the first time anybody has told me a number about myself."
 - VIDAR is the heavy man with the boar spear, named at last, mid-fight. Loses
   the spear to a five and gets it back by standing on the thing's head.
+- (ch16) Sivert goes back up the channel one-armed with the empty sledge when
+  the strapping soaks through, and argues about it first. Gaara sends him out
+  with a job and a reason, not as a punishment, and says so in front of the
+  crew. On the way he answers the standing offer without answering it: ask me
+  when I have two arms - which is Marit's line, and is now the village's.
 - SIVERT, nineteen, Halle's son, Level 2. Named at the trough in ch14 the same
   way Bern named himself before the fighting: "Sivert. In case."
   Does not run when told to. He puts his bar into a Level 7's leg
@@ -140,6 +145,18 @@ The six (ch14, blooded ch15)
 - Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
   man in this village. He is also exactly Gaara's age, which he points out
   himself, and which Gaara had managed not to notice for two days.
+- (ch16) THE STANDING OFFER, made once, in a rest break, to the whole crew:
+  four minutes behind the sledge, anybody who wants them. Vidar is married and
+  says so. Torv asks twice whether he means it and then says he will let him
+  know, in the tone of a man who will not. Ylva says no, flat, and gets told it
+  was the cleanest no he has had in this world. Bern laughs until he has to be
+  told twice to watch the gap. Ask says nothing. Hallvard says turn the drum.
+  Marit takes him up on it at the next break, in four minutes, and complains
+  about the number.
+  THE RULE HE STATES OUT LOUD, and it is the whole reason the scene works: he
+  asks once, a no costs nothing, and it moves nobody one place on the bar in
+  either direction, because he is the man giving the orders in that hole and
+  asking twice would not be asking.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in
@@ -338,6 +355,14 @@ MP 60 untouched, Class None, Dagger Mastery still D and now useless, because the
 knife it applies to is in two pieces. He is cut across the ribs. Halle's boy
 loses most of the skin off a forearm and keeps the arm.
 
+Chapter 16: no level, no allocation, no skill. Kills 12 to 13, and only the
+wedge-iron kill, because the counter does not count what the gate kills. The
+whole system budget of the chapter goes on MP, which moves for the first time
+in sixteen chapters: 60 to 3 over four hours on the windlass bar, taken, not
+spent, and unfelt. It regenerates two points during one speech. Afterwards the
+mark on the drum returns ??? and Drawn: 57 and nothing else. HP 196/220 at the
+start of the chapter, from the ribs in ch15.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -345,10 +370,12 @@ Pacing rules
   It nearly shipped that way in ch6. Level 3 must cost something of a different
   order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
-- MP is still untouched at the end of ch9. Magic has not arrived and must not
-  arrive as a present. When it comes, the first instance should be done TO him
-  or paid FOR by him, not cast by him. MP regenerates, which is why being drawn
-  on is not a wound but a subscription.
+- MP: DONE, ch16, and to the letter. It was done TO him and paid FOR by him, he
+  cast nothing, and he only found out because he read his own sheet while bored.
+  It regenerates, so being drawn on is rent and not a wound.
+  What must NOT happen next: he does not get to use it. The gap between being
+  billed for a resource and being able to spend it is the point, and it should
+  stay open for a good while yet.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
 
@@ -442,6 +469,45 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Magic arrives in chapter 16 as an invoice, not as a gift ===
+Sixteen chapters of MP 60, never spent, never touched, and the arc document has
+said since early on that the first instance must be done TO him or paid FOR by
+him. Chapter 16 was the last good place for it: four hours with his hands on a
+machine nobody in this world can read.
+What makes it work is that the discovery is arithmetic and not a feeling. He
+feels nothing at all. He notices because Hallvard's own numbers do not add up:
+nine hours to raise the gate, four to lower the same load with the same gear,
+and you have to lift a thing before you are allowed to drop it. The difference
+is being paid for, and he is the only person present who can see the account.
+Discarded: discovery by exhaustion, and discovery by a warning message. Both
+turn the system into an ally that tells him things, and the author's position
+is that it is a tool with a monopoly. It bills him and goes quiet.
+Also decided here: it draws on the whole crew and only Gaara can see it, so he
+either tells them mid-shift or becomes a man who spends people quietly. He
+tells them. That is the same asset chapter 14 was about.
+
+=== The quickie offer is made once, and the reason is the power gap ===
+The author asked for it: in the breaks he offers, and whether people take it up
+depends on the person. The risk in the scene is obvious, because he is the man
+giving orders in a tunnel where these people can die, so the scene names it
+instead of hoping the reader will not. He asks ONCE, a no costs nothing, and it
+moves nobody one place on the bar in either direction, and he says why: asking
+twice would not be asking.
+That also settles the Sivert direction from ch15 without moving it forward. He
+goes red, says nothing, and answers much later on his way out of the channel
+with somebody else's line. It stays his to refuse at no cost, which is the
+author's condition, verbatim.
+
+=== Chapter 15 counted eight people into a channel that had nine in it ===
+Six villagers plus Gaara, Marit and Hallvard is nine, and it was written as
+eight twice. Found while writing ch16, where the count matters, because Sivert
+leaves and the number has to drop to eight on the page. Also in ch15: he had
+been calling the knife the knife for two weeks, in a book where ch13 has him
+say in his own mouth that he has been in this world three days. Now four days.
+Same class as the calendar drift caught earlier: what gets checked stays right,
+and what nobody counts drifts.
 
 
 === No level up in chapter 6, and the reason is a rule I had broken ===
@@ -879,7 +945,8 @@ nicht diese Zeile von Hand.
 13. The Cost of Shutting a Door
 14. Say It in the Road
 15. Two to Four Hard Uses
-16. A Name for the Knife (planned)
+16. Something Is Drinking It
+17. A Name for the Knife (planned)
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -1166,6 +1233,42 @@ chapter is canon and this line gets fixed and re-tagged to the new chapter.
   uses for livestock. This is the tool with a monopoly, made physical: see
   character-arc.md section 3.
 
+- (ch16) MP MOVES FOR THE FIRST TIME, AND HE DID NOT SPEND IT. He carried 60
+  points from the first morning and never found a use for one of them. Four
+  hours on the windlass bar took 57. He notices it in the second hour because
+  he is bored, not because he felt anything: no heat, no drain, no warning, 60
+  down to 44 while he turned a drum.
+  THIS IS THE FIRST MAGIC IN THE BOOK AND IT IS DONE TO HIM. He casts nothing.
+  Something on the other end of an oak drum takes it, and he only knows because
+  he can read his own sheet.
+- (ch16) HOW HE WORKS IT OUT, and it is arithmetic, not intuition: Hallvard
+  said nine hours to raise the gate and four to lower it. Same load, same
+  blocks, same drum, and you have to lift the thing before you can drop it, so
+  gravity is no help. The difference between nine hours and four is being paid
+  for by somebody. Open: whether the raising took nine because the crews of the
+  time had nothing it could take, and whether Hallvard - who has no panel at
+  all (thread 10) - is simply not billable.
+- (ch16) IT TAKES FROM EVERYONE AND ONLY HE GETS AN ITEMISED BILL. Torv sits
+  down in the water and cannot say why. Marit is tired in a way she has no word
+  for. Bern says it about his legs twice. Gaara tells the whole crew what is
+  happening the moment he is sure, because he does not spend people quietly,
+  and he does not stop the work, because of the clock.
+- (ch16) MP IS RENT, NOT A WOUND. It comes back: two points during one speech.
+  He says so out loud, and says that if he is wrong about it they may be
+  extremely unpleasant to him for the rest of his life.
+- (ch16) THE COUNTER DOES NOT COUNT WHAT THE DOOR KILLS. The gate comes down
+  on a crawler at nine inches and Kills stays at 13. Consistent with ch15: it
+  only counts what he takes himself. He kills the Level 5 with a wedge iron,
+  badly, because Dagger Mastery D governs blades under forty centimetres and
+  has nothing to say about a square bar of soft iron. Four blows to open what
+  the knife would have opened once.
+- (ch16) THE MARK ON THE DRUM ANSWERS ONCE AND SAYS ALMOST NOTHING. Afterwards
+  the mark is WARM in a channel that is the temperature of the water, and the
+  panel finally returns something for it: [ ??? ] and then Drawn: 57.
+  A quantity and nothing else. No name, no source, no explanation. The same ???
+  as the dark behind the gate (thread 19), now attached to something he has had
+  his hands on for four hours.
+
 Current sheet
 Das laufende Statusfenster (Werte je Kapitel UND das Format) steht als EINE
 Quelle in character-arc.md, Abschnitt 4 (Progression Tracker). Hier nicht
@@ -1287,6 +1390,32 @@ The elder's secret (ch12) - the first arc's answer
   room; and he wants three or four hunting trips into that room BEFORE they seal
   it, because nothing else in the valley pays like a six. Hallvard calls it
   farming. Gaara calls it using, and says the difference is mostly timing.
+
+The gate is shut (ch16) - the first arc closes
+- FOUR HOURS, and they cost more than four hours. To shut a door that had stood
+  open since spring they first had to open it further: up one inch to free the
+  two squared blocks, then down. Ylva, Torv, Vidar and Gaara on the bars,
+  Hallvard and Ask on the wedges, Bern and Marit watching the gap. Gaara is on
+  a bar only because Sivert cannot be, and that is what puts his hands on the
+  drum for four hours.
+- THREE CRAWLERS CAME THROUGH while the gap was widest. Bern speared a 4.
+  Gaara killed a 5 with a wedge iron and was slower at it than Torv would have
+  been. The third got its head and shoulders under at eleven inches, and they
+  did not stop turning, and eight hundred years of iron came down on it at nine.
+- THE GATE IS ON ITS SILL. The flow that has run down that channel since spring
+  stops dead, the tube goes still, and the water starts climbing round their
+  knees, because water that has been leaving now has nowhere to go. Hallvard
+  gets them out: it will find its way in a day.
+- THE DRUM IS STILL DOWN THERE, abandoned in the water at the gate, because six
+  exhausted people were not carrying an oak windlass four hundred paces uphill.
+  It is Aldis Halden's gear and it is now on the wrong side of a day's flooding.
+- WHAT THIS COSTS GAARA, and he says it plainly: the room is behind the iron,
+  so there are no more sixes, so the farming plan from ch13 is dead before it
+  ran once. Nothing in this valley pays any more.
+- SO HE LEAVES. He tells Solva in the road that he goes in the morning, and
+  gives the true reason: in three days there will be men in that road asking
+  who opened a gate, every soul in Oldstep can now answer that honestly, and he
+  is the only one who cannot afford to be standing in it.
 
 Coming of age (ch15, from Marit)
 - SIXTEEN IS A MAN HERE. "Takes a man's work and a man's share and a man's
@@ -1438,8 +1567,12 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
    built for water, through a gate somebody raised eighteen inches and propped
    open. What remains is what they are running FROM, and who opened the door.
 5. Class is still None. No trigger seen yet.
-6. MP 60, still untouched by him. Nine chapters of carrying a number he has
-   never once spent. Magic remains unencountered.
+6. ANSWERED SIDEWAYS in ch16, and not the way anyone was waiting for. He still
+   has not spent a point of MP and still cannot do anything with it. Something
+   else spent 57 of it in four hours through an oak drum, and gave him a
+   quantity and no name. Magic entered the book as an invoice.
+   Still open: what MP is FOR in his hands, and whether he ever gets to use it
+   himself rather than being drawn on.
 7. The war in the east, and a lord who does not answer letters.
 8. The 11 coins and the script he cannot read. Translation covers speech;
    reading is untested.
@@ -1519,6 +1652,17 @@ Numbered for reference, not ranked. Numbers are never reused and never shuffled.
     So it was not a stick. It was a man walking about carrying one.
     Neither of them says a name. Gaara has already refused the thought once in
     the same chapter ("we are not doing that one yet").
+
+29. THE MARK ON THE DRUM, and what kind of world builds machines that bill the
+    person turning them. It reads ??? and reports Drawn: 57, it is warm
+    afterwards in a cold channel, and it was cut by the same people who laid
+    dressed stone to a measured gradient. First hard evidence that the
+    engineering and the magic are one discipline here (section 7, thread 12).
+    Hallvard has turned that drum for thirty-one years and never noticed.
+30. IT TOOK FROM ALL OF THEM. Torv, Marit and Bern were drawn on too and have
+    no way of knowing it. Six people in Oldstep are now down something they
+    cannot name, on Gaara's word that it comes back. He believes it comes back
+    because his own did. That is one data point and he knows it.
 
 === 7. LONG GAME (author's intent, not yet canon) ===
 

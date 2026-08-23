@@ -161,6 +161,14 @@ MP 60 untouched, Class None, Dagger Mastery still D and now useless, because the
 knife it applies to is in two pieces. He is cut across the ribs. Halle's boy
 loses most of the skin off a forearm and keeps the arm.
 
+Chapter 16: no level, no allocation, no skill. Kills 12 to 13, and only the
+wedge-iron kill, because the counter does not count what the gate kills. The
+whole system budget of the chapter goes on MP, which moves for the first time
+in sixteen chapters: 60 to 3 over four hours on the windlass bar, taken, not
+spent, and unfelt. It regenerates two points during one speech. Afterwards the
+mark on the drum returns ??? and Drawn: 57 and nothing else. HP 196/220 at the
+start of the chapter, from the ribs in ch15.
+
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
   the running total. Level 2 cost two crawlers. Level 3 costing two more is the
@@ -168,10 +176,12 @@ Pacing rules
   It nearly shipped that way in ch6. Level 3 must cost something of a different
   order, and it should not be more of the same animal.
 - Never give a skill he has not earned by doing the thing.
-- MP is still untouched at the end of ch9. Magic has not arrived and must not
-  arrive as a present. When it comes, the first instance should be done TO him
-  or paid FOR by him, not cast by him. MP regenerates, which is why being drawn
-  on is not a wound but a subscription.
+- MP: DONE, ch16, and to the letter. It was done TO him and paid FOR by him, he
+  cast nothing, and he only found out because he read his own sheet while bored.
+  It regenerates, so being drawn on is rent and not a wound.
+  What must NOT happen next: he does not get to use it. The gap between being
+  billed for a resource and being able to spend it is the point, and it should
+  stay open for a good while yet.
 - Class stays None until he has done something often enough that the choice is obvious and narrow. Ideally he dislikes the options.
 - No new named tier (guilds, ranks, factions) may be introduced without deciding at that moment how it interacts with the letter ranks.
 

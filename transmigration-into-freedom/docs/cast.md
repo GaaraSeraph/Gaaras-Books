@@ -115,6 +115,11 @@ The six (ch14, blooded ch15)
   the first time anybody has told me a number about myself."
 - VIDAR is the heavy man with the boar spear, named at last, mid-fight. Loses
   the spear to a five and gets it back by standing on the thing's head.
+- (ch16) Sivert goes back up the channel one-armed with the empty sledge when
+  the strapping soaks through, and argues about it first. Gaara sends him out
+  with a job and a reason, not as a punishment, and says so in front of the
+  crew. On the way he answers the standing offer without answering it: ask me
+  when I have two arms - which is Marit's line, and is now the village's.
 - SIVERT, nineteen, Halle's son, Level 2. Named at the trough in ch14 the same
   way Bern named himself before the fighting: "Sivert. In case."
   Does not run when told to. He puts his bar into a Level 7's leg
@@ -123,6 +128,18 @@ The six (ch14, blooded ch15)
 - Sivert is NOT a boy and the text stopped calling him one in ch15. Sixteen is a
   man in this village. He is also exactly Gaara's age, which he points out
   himself, and which Gaara had managed not to notice for two days.
+- (ch16) THE STANDING OFFER, made once, in a rest break, to the whole crew:
+  four minutes behind the sledge, anybody who wants them. Vidar is married and
+  says so. Torv asks twice whether he means it and then says he will let him
+  know, in the tone of a man who will not. Ylva says no, flat, and gets told it
+  was the cleanest no he has had in this world. Bern laughs until he has to be
+  told twice to watch the gap. Ask says nothing. Hallvard says turn the drum.
+  Marit takes him up on it at the next break, in four minutes, and complains
+  about the number.
+  THE RULE HE STATES OUT LOUD, and it is the whole reason the scene works: he
+  asks once, a no costs nothing, and it moves nobody one place on the bar in
+  either direction, because he is the man giving the orders in that hole and
+  asking twice would not be asking.
 - Hallvard does not move from the gear for the entire fight, looks at the boy's
   arm for four seconds, and says it wants washing in wine and will be ugly.
 - Ylva, Level 7, about forty, behind the smith's gate. The highest number in

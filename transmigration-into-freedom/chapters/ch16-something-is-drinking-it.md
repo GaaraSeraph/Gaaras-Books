@@ -1,0 +1,245 @@
+# Chapter 16: Something Is Drinking It
+
+Hallvard had said four hours, and the first of them went one tooth at a time.
+
+"Turn," said the old man.
+
+They turned. The chain came up out of the water tight as a bowstring, the drum moved the width of a hand, and the pawl went over and clicked.
+
+"That is one tooth," said Gaara. "At this rate we free the blocks in the spring, I miss a birthday, and somebody else marries my woman out of sheer boredom."
+
+"Turn."
+
+They turned.
+
+He was on a bar because Sivert could not be, and that was the whole of the arithmetic. One forearm with no skin on it is one man off the gear.
+
+So it was Ylva and Torv and Vidar and a man from another world with his ribs strapped up in somebody's shirt. Hallvard and Ask at the wedges. Bern standing in the water with the spear, watching the gap. Marit beside him with the axe. Sivert on the empty sledge, furious, holding his own arm like a parcel somebody had told him to mind.
+
+The gate was eighteen inches up on two squared blocks, and it had to go up one inch more before it could come down at all. That was the part nobody above ground would ever understand. To shut a door that had stood open since spring, they had first to open it further.
+
+"Rest," said Hallvard, at the top of the hour, and set the pawl.
+
+They came off the bars and stood in the water and breathed.
+
+"Right," said Gaara. "Standing offer, made once, so that nobody has to spend the next three hours wondering. Anybody who wants four minutes behind the sledge with me can have them. I am told I am good and I am reliably slow, and you may weigh those against one another."
+
+There were four different kinds of silence.
+
+"I am a married man," said Vidar.
+
+"You are, and she is a lucky woman, and I would like that passed on exactly as I said it."
+
+"Do you mean it?" said Torv. "Do you actually mean it, or is it a thing you say?"
+
+"I mean it."
+
+"Because you say a great many things."
+
+"I do, and I mean that one."
+
+Torv thought about it with his whole face, and then said he would let him know, in the tone of a man who would not.
+
+"No," said Ylva.
+
+"That is the cleanest no I have had in this world and I want you to know it was appreciated."
+
+Bern laughed until he had to be told twice to watch the gap. Ask said nothing at all, which was the most Ask thing available. Hallvard looked at the chain and said, "Turn the drum."
+
+Sivert went red and looked into the water.
+
+"That is a no from most of you and I have taken it as one," said Gaara. "I ask once. If anybody changes his mind he says so, and it costs him nothing, and it moves him not one place on the bar in either direction. I am the man giving the orders in this hole. That means asking twice would not be asking."
+
+"You could have asked me on my own," said Marit.
+
+"I could. Then it would have been a secret, and this channel has had enough of those in it." He got his hands back on the bar. "Also you would have said yes, and I would have had nothing to be brave about."
+
+"You have thought about this."
+
+"I have had nineteen years of watching men not think about it."
+
+He found the other thing in the second hour, and he found it because he was bored.
+
+[ STATUS ]
+
+Name: Gaara
+Level: 4
+Race: Human
+Class: None
+HP: 196/220
+MP: 44/60
+STR: 14
+DEX: 19
+CON: 10
+INT: 12
+WIS: 10
+
+He read it twice. Then he took the bar through four more turns and read it again.
+
+MP: 41/60
+
+He had carried that number since the first morning and never once found a use for it. Nobody had ever taken any of it either.
+
+"Hallvard. You said nine hours to raise it."
+
+"Nine, and a bit."
+
+"And four to lower. I asked you why, and you told me it goes down easier than it comes up."
+
+"It does."
+
+"It does not. Same load, same blocks, same drum, and gravity is no help at all, because you have to lift the thing before you are allowed to drop it." He put his hand flat on the oak. "There is a mark on this drum that you cannot read and that my head refuses to read. Something on the other end of it has taken sixteen of a number I have never spent in my life, in one hour, and I did not feel one point of it go."
+
+Hallvard came round the drum, slowly, the way old men come round things.
+
+"What number."
+
+"It does not matter what it is called. Call it the difference between nine hours and four."
+
+At the second rest Torv sat down in the water, which nobody had told him to do, and could not say why when he was asked. Marit said her hands were fine and that she was tired in a way she had no word for. Bern said the same thing about his legs, and then said it again in different words, because that is what Bern does.
+
+"It is taking from all of you," said Gaara. "I am the only one who gets an invoice."
+
+"Then we stop," said Marit.
+
+"No."
+
+"You told a village to its face that you do not spend people without telling them."
+
+"I do not. So I am telling them." He said it to all of them, in about forty words, and then he said the rest. "It comes back. Mine has come back two points while I have been standing here being honest at you. Whatever that is, it is rent and not a wound, and if I am wrong you may all be extremely unpleasant to me for the rest of my life, which on current form will not inconvenience you for long."
+
+"Turn," said Hallvard.
+
+They turned.
+
+She took him up on it at the third rest, behind the sledge, with her hand over his mouth for most of it, because a stone tube does things to sound that nobody enjoys.
+
+"Four minutes," said Marit afterwards, seeing to her belt.
+
+"Three and a half, and I have never been so ashamed of a personal best."
+
+"I have spent two days telling this village that you take your time."
+
+"I do take my time. I am taking it in instalments." He got his shirt down over the strapping. "I would like it noted that I am working under conditions."
+
+Sivert's arm opened again in the fourth hour, and it was Ylva who saw it, because the strapping had gone from grey to a colour that was not grey.
+
+"You are going up the channel," said Gaara.
+
+"I am not."
+
+"You are, and you are taking the empty sledge. When you get to Oldstep you will tell Solva that her loaf was the best thing I have eaten in this world, which is true and which she will not believe. Then you tell her the gate comes down today. Not what hour. I was wrong about an hour once this week and four people are dead of it."
+
+"I can hold a rope."
+
+"You went at a seven with an iron bar when I told you not to. There is not a man standing in this water who thinks you are walking out because you are less than the rest of us." He put the sledge rope into his good hand. "You are walking out because I am not going to explain to your mother that I kept you down here for the look of the thing."
+
+Sivert stood there with the rope and looked at him for slightly longer than he needed to.
+
+"Ask me when I have two arms," he said, and went up the channel.
+
+Marit, in the water, did not turn round.
+
+"That is my line."
+
+"It is the village's line now," said Gaara, watching him go. "I have lost control of it entirely and I have never been happier about anything."
+
+The gate came up its inch at four minutes past the fourth hour. Ask and Hallvard went in under it with the wedges, and the two blocks came out, and that was the moment the whole thing had been for.
+
+It was also the moment the gap was widest.
+
+The first one came through at a run, low and wet, and Bern had the spear into its side before Gaara had finished reading it.
+
+Gloom Crawler
+Level 4
+
+"Four. Bern, hold it off the drum and do not chase it."
+
+Gloom Crawler
+Level 5
+
+The five came at the bars.
+
+The pawl was holding the whole gate on one iron tooth, so he came off his bar and left it to do that.
+
+He went at it with an eighteen inch wedge iron, and his hands had no idea what to do with one. Rank D governed grip and edge alignment and thrust precision with blades under forty centimetres, and had nothing whatsoever to say about a square bar of soft iron. He knew where the seam was. He always knew where the seam was. He hit it four times to open what the knife would have opened once, and the fourth went in, and he was slower over the whole business than Torv would have been.
+
+Kills: 13
+
+"Thank you," said Gaara, to nobody in particular. "That was humiliating and I would like it struck from the record."
+
+"Down," said Hallvard. "Now. While it is off the blocks."
+
+They reversed the pawl and let it walk.
+
+Coming down was worse than going up, because a thing that heavy does not fall, it leans, and four people have to argue with it the whole way. The chain came off the drum a tooth at a time and the bars kicked back at every one of them.
+
+MP: 9/60
+
+The third crawler came through at eleven inches.
+
+It got its head and most of its shoulders under, and it saw eight people standing in a stone tube, and it came on.
+
+"Nobody stops," said Gaara. "Turn."
+
+They turned.
+
+Eight hundred years of iron came down on it at nine inches and did not slow, and did not notice, and went on to the sill.
+
+Kills: 13
+
+"Of course," he said. "It does not count what the door kills."
+
+The gate went onto its sill with a sound none of them had heard before. All of them would hear it again for the rest of their lives, at three in the morning, for no reason at all.
+
+Then the water stopped coming out from underneath it.
+
+That was the thing nobody had thought about. The cold flow that had run down that channel since spring simply stopped, and the tube went still, and the level began to climb around their knees, because water that has been leaving now had nowhere to go.
+
+MP: 3/60
+
+Gaara sat down in it with his back against dressed stone.
+
+"Out," said Hallvard. "All of you. It will find its way in a day, and I would rather not be standing here while it works out how."
+
+They went up the channel in the dark and left the drum where it stood in the water. There was no version of the next hour that had eight exhausted people carrying an oak windlass four hundred paces uphill.
+
+Gaara went last, and stopped, and put his hand flat on the drum one more time.
+
+It was warm.
+
+Everything else in that channel was the temperature of the water, and had been since long before anybody's grandmother was born. The mark on the oak was warm under his palm, and for the first time since Hallvard had lifted the flagstone in the byre, the thing in his head gave him something for it.
+
+[ ??? ]
+
+Drawn: 57
+
+That was all of it. No name, no source, no explanation. A quantity, a mark he could not read, and a machine that had just billed him and gone quiet.
+
+"You are talking to a barrel," said Marit, from up the tube.
+
+"I am being charged by a barrel. There is a difference and it is mostly in the paperwork."
+
+He came up after her with his legs going in a way he did not care for. The morning had turned properly bright while they were under it. He stood in the mouth of the ruin and did the sum he had been putting off for four hours.
+
+"He has been gone a night and a morning," he said. "Two days east, two days back, if they come at all, and if the ford is down."
+
+"Three days and a half."
+
+"Call it three, because I have never once been given the four days I was promised." He looked back down the tube. "And the room is behind eight hundred years of iron now, which means no more sixes, which means the only thing left in this valley worth my time is a woman with an axe. I am aware of how that sounds and I am far too tired to improve it."
+
+"You will want to improve it later."
+
+"I will want to improve it later," Gaara agreed. "At length. Twice."
+
+Solva was standing at the top of the road with Sivert beside her and his arm strapped again in something clean.
+
+"He says it is shut," she said.
+
+"It is shut."
+
+"And you are leaving."
+
+Gaara looked at her, and then at the forty houses behind her, and did not decorate it.
+
+"In the morning," he said. "In three days there will be men in this road asking who opened a gate. Every soul here can answer that honestly now. The only person in Oldstep who cannot afford to be standing in it is me."
