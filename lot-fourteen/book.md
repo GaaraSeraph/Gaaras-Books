@@ -2,51 +2,53 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 101.125 Woerter.
+1 Band, 34 Kapitel, 101.125 Woerter.
 
-Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
-hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
+Kanon sind die Dateien in `chapters/`.
+Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
+gegen die Kopfzeile geprueft. **Die Bandnummer steht in keiner
+Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
-| Kap | Fassung | Woerter |
-|---|---|---|
-| 01 | v6.5 | 2.403 |
-| 02 | v11.7 | 3.167 |
-| 03 | v2.7 | 3.374 |
-| 04 | v1.9 | 2.443 |
-| 05 | v5.10 | 4.327 |
-| 06 | v1.6 | 2.069 |
-| 07 | v6.5 | 3.856 |
-| 08 | v3.5 | 2.677 |
-| 09 | v3.3 | 3.119 |
-| 10 | v2.5 | 2.983 |
-| 11 | v2.8 | 2.730 |
-| 12 | v1.7 | 2.350 |
-| 13 | v2.5 | 2.834 |
-| 14 | v7.6 | 2.599 |
-| 15 | v2.7 | 4.208 |
-| 16 | v1.16 | 3.278 |
-| 17 | v12.10 | 2.709 |
-| 18 | v2.6 | 2.980 |
-| 19 | v1.9 | 3.210 |
-| 20 | v1.4 | 2.108 |
-| 21 | v1.7 | 4.080 |
-| 22 | v1.1 | 2.584 |
-| 23 | v3.5 | 2.653 |
-| 24 | v1.4 | 2.653 |
-| 25 | v1.3 | 2.550 |
-| 26 | v1.4 | 2.423 |
-| 27 | v3.2 | 3.102 |
-| 28 | v1.3 | 2.676 |
-| 29 | v1.3 | 1.993 |
-| 30 | v1.7 | 3.524 |
-| 31 | v1.6 | 3.256 |
-| 32 | v1.2 | 2.579 |
-| 33 | v1.11 | 3.335 |
-| 34 | v1.8 | 4.293 |
+| Band | Kap | Fassung | Woerter |
+|---|---|---|---|
+| 1 | 01 | v6.5 | 2.403 |
+| 1 | 02 | v11.7 | 3.167 |
+| 1 | 03 | v2.7 | 3.374 |
+| 1 | 04 | v1.9 | 2.443 |
+| 1 | 05 | v5.10 | 4.327 |
+| 1 | 06 | v1.6 | 2.069 |
+| 1 | 07 | v6.5 | 3.856 |
+| 1 | 08 | v3.5 | 2.677 |
+| 1 | 09 | v3.3 | 3.119 |
+| 1 | 10 | v2.5 | 2.983 |
+| 1 | 11 | v2.8 | 2.730 |
+| 1 | 12 | v1.7 | 2.350 |
+| 1 | 13 | v2.5 | 2.834 |
+| 1 | 14 | v7.6 | 2.599 |
+| 1 | 15 | v2.7 | 4.208 |
+| 1 | 16 | v1.16 | 3.278 |
+| 1 | 17 | v12.10 | 2.709 |
+| 1 | 18 | v2.6 | 2.980 |
+| 1 | 19 | v1.9 | 3.210 |
+| 1 | 20 | v1.4 | 2.108 |
+| 1 | 21 | v1.7 | 4.080 |
+| 1 | 22 | v1.1 | 2.584 |
+| 1 | 23 | v3.5 | 2.653 |
+| 1 | 24 | v1.4 | 2.653 |
+| 1 | 25 | v1.3 | 2.550 |
+| 1 | 26 | v1.4 | 2.423 |
+| 1 | 27 | v3.2 | 3.102 |
+| 1 | 28 | v1.3 | 2.676 |
+| 1 | 29 | v1.3 | 1.993 |
+| 1 | 30 | v1.7 | 3.524 |
+| 1 | 31 | v1.6 | 3.256 |
+| 1 | 32 | v1.2 | 2.579 |
+| 1 | 33 | v1.11 | 3.335 |
+| 1 | 34 | v1.8 | 4.293 |
 
 ---
 
-# Chapter 1: Merchandise doesn't talk
+# Book One · Chapter 1: Merchandise doesn't talk
 *Lot Fourteen* · Version 6.5 · EN
 
 *Day 1 · Saturday 4 October*
@@ -271,7 +273,7 @@ Annie didn't turn her head.
 
 ---
 
-# Chapter 2: Quid pro Quo
+# Book One · Chapter 2: Quid pro Quo
 *Lot Fourteen* · Version 11.7 · EN
 
 *Day 1 · Saturday 4 October*
@@ -610,7 +612,7 @@ Then he decided not to look at it again.
 
 ---
 
-# Chapter 3: Dead angles
+# Book One · Chapter 3: Dead angles
 *Lot Fourteen* · Version 2.7 · EN
 
 *Day 1 · Saturday 4 October*
@@ -901,7 +903,7 @@ He left the key where it was.
 
 ---
 
-# Chapter 4: Count again
+# Book One · Chapter 4: Count again
 *Lot Fourteen* · Version 1.9 · EN
 
 *Day 2 · Sunday 5 October*
@@ -1140,7 +1142,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 
 ---
 
-# Chapter 5: Seven Letters
+# Book One · Chapter 5: Seven Letters
 *Lot Fourteen* · Version 5.10 · EN
 
 ## Day Four · Tuesday 7 October
@@ -1509,7 +1511,7 @@ He stopped.
 
 ---
 
-# Chapter 6: Withdrawn or sold
+# Book One · Chapter 6: Withdrawn or sold
 *Lot Fourteen* · Version 1.6 · EN
 
 *Day 22 · Saturday 25 October*
@@ -1718,7 +1720,7 @@ Outside, the car came round onto the gravel and stopped.
 
 ---
 
-# Chapter 7: Where were you educated
+# Book One · Chapter 7: Where were you educated
 *Lot Fourteen* · Version 6.5 · EN
 
 *Day 22 · Saturday 25 October*
@@ -2069,7 +2071,7 @@ He had five.
 
 ---
 
-# Chapter 8: Something to do with my hands
+# Book One · Chapter 8: Something to do with my hands
 *Lot Fourteen* · Version 3.5 · EN
 
 *Day 22 · Saturday 25 October*
@@ -2332,7 +2334,7 @@ It was the only thing anybody had done for him all evening, and nobody in the ro
 
 ---
 
-# Chapter 9: The friendly ones
+# Book One · Chapter 9: The friendly ones
 *Lot Fourteen* · Version 3.3 · EN
 
 *Day 22 · Saturday 25 October*
@@ -2653,7 +2655,7 @@ He stopped.
 
 ---
 
-# Chapter 10: What did she pay for you
+# Book One · Chapter 10: What did she pay for you
 *Lot Fourteen* · Version 2.5 · EN
 
 *Day 22 · Saturday 25 October*
@@ -3022,7 +3024,7 @@ It was an instruction from a man who intended to be given something and had deci
 
 ---
 
-# Chapter 11: Thank you for telling me
+# Book One · Chapter 11: Thank you for telling me
 *Lot Fourteen* · Version 2.8 · EN
 
 *Day 22 · Saturday 25 October*
@@ -3315,7 +3317,7 @@ Then, a few seconds later, he heard a drawer.
 
 ---
 
-# Chapter 12: You are better when you don't know
+# Book One · Chapter 12: You are better when you don't know
 *Lot Fourteen* · Version 1.7 · EN
 
 ## Day Twenty-Three · Sunday 26 October
@@ -3598,7 +3600,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 
 ---
 
-# Chapter 13: The man with the open hand
+# Book One · Chapter 13: The man with the open hand
 *Lot Fourteen* · Version 2.5 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
@@ -3871,7 +3873,7 @@ He already knew which four minutes of this evening he would use to get it.
 
 ---
 
-# Chapter 14: In the same size type
+# Book One · Chapter 14: In the same size type
 *Lot Fourteen* · Version 7.6 · EN
 
 ## Day Thirty-One · Monday 3 November
@@ -4104,7 +4106,7 @@ Annie looked at him for a moment.
 
 ---
 
-# Chapter 15: Four thousand two hundred
+# Book One · Chapter 15: Four thousand two hundred
 *Lot Fourteen* · Version 2.7 · EN
 
 ## Day Forty-One · Thursday 13 November
@@ -4551,7 +4553,7 @@ She went out to her car.
 
 ---
 
-# Chapter 16: Where the walls are
+# Book One · Chapter 16: Where the walls are
 *Lot Fourteen* · Version 1.16 · EN
 
 *Day 46 · Tuesday 18 November*
@@ -4920,7 +4922,7 @@ He put the notebook back in his pocket and turned his head.
 
 ---
 
-# Chapter 17: I have never put it down
+# Book One · Chapter 17: I have never put it down
 *Lot Fourteen* · Version 12.10 · EN
 
 *Day 46 · Tuesday 18 November*
@@ -5189,7 +5191,7 @@ He did not turn round and look at the chair.
 
 ---
 
-# Chapter 18: On account
+# Book One · Chapter 18: On account
 *Lot Fourteen* · Version 2.6 · EN
 
 *Day 48 · Thursday 20 November*
@@ -5500,7 +5502,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 
 ---
 
-# Chapter 19: What happens on the Tuesday
+# Book One · Chapter 19: What happens on the Tuesday
 *Lot Fourteen* · Version 1.9 · EN
 
 *Day 48 · Thursday 20 November*
@@ -5833,7 +5835,7 @@ At the gate he stopped.
 
 ---
 
-# Chapter 20: I came back with a favour
+# Book One · Chapter 20: I came back with a favour
 *Lot Fourteen* · Version 1.4 · EN
 
 *Day 49 · Friday 21 November*
@@ -6084,7 +6086,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 
 ---
 
-# Chapter 21: The ones who come at nine
+# Book One · Chapter 21: The ones who come at nine
 *Lot Fourteen* · Version 1.7 · EN
 
 *Day 49 · Friday 21 November*
@@ -6527,7 +6529,7 @@ He was still holding his gloves.
 
 ---
 
-# Chapter 22: Not shown
+# Book One · Chapter 22: Not shown
 *Lot Fourteen* · Version 1.1 · EN
 
 *Day 55 · Thursday 27 November*
@@ -6822,7 +6824,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 
 ---
 
-# Chapter 23: Nobody weighs a door handle
+# Book One · Chapter 23: Nobody weighs a door handle
 *Lot Fourteen* · Version 3.5 · EN
 
 *Day 55 · Thursday 27 November*
@@ -7163,7 +7165,7 @@ Twice in one night, with the same woman, on facts he was holding.
 
 ---
 
-# Chapter 24: Have you eaten
+# Book One · Chapter 24: Have you eaten
 *Lot Fourteen* · Version 1.4 · EN
 
 *Day 55 · Thursday 27 November*
@@ -7540,7 +7542,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 
 ---
 
-# Chapter 25: The name on the paper
+# Book One · Chapter 25: The name on the paper
 *Lot Fourteen* · Version 1.3 · EN
 
 *Day 59 · Monday 1 December*
@@ -7855,7 +7857,7 @@ It would keep until she asked.
 
 ---
 
-# Chapter 26: The name and the control
+# Book One · Chapter 26: The name and the control
 *Lot Fourteen* · Version 1.4 · EN
 
 ## Day Sixty-Three · Friday 5 December
@@ -8188,7 +8190,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 
 ---
 
-# Chapter 27: Not out of your account
+# Book One · Chapter 27: Not out of your account
 *Lot Fourteen* · Version 3.2 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
@@ -8565,7 +8567,7 @@ She pulled the folder across the table at last and opened it and read the first 
 
 ---
 
-# Chapter 28: A woman in a room can be asked
+# Book One · Chapter 28: A woman in a room can be asked
 *Lot Fourteen* · Version 1.3 · EN
 
 ## Day Seventy · Friday 12 December
@@ -8880,7 +8882,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 
 ---
 
-# Chapter 29: The ones who came at seven
+# Book One · Chapter 29: The ones who came at seven
 *Lot Fourteen* · Version 1.3 · EN
 
 *Day 74 · Tuesday 16 December*
@@ -9119,7 +9121,7 @@ A man she had never met was standing exactly where four lines on a card had said
 
 ---
 
-# Chapter 30: Who do they telephone
+# Book One · Chapter 30: Who do they telephone
 *Lot Fourteen* · Version 1.7 · EN
 
 *Day 74 · Tuesday 16 December*
@@ -9554,7 +9556,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 
 ---
 
-# Chapter 31: A number and a date
+# Book One · Chapter 31: A number and a date
 *Lot Fourteen* · Version 1.6 · EN
 
 *Day 74 · Tuesday 16 December*
@@ -9943,7 +9945,7 @@ Chairman Woo was quiet for long enough that Georgij checked the line.
 
 ---
 
-# Chapter 32: In those words
+# Book One · Chapter 32: In those words
 *Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eighty · Monday 22 December
@@ -10234,7 +10236,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 
 ---
 
-# Chapter 33: That is five
+# Book One · Chapter 33: That is five
 *Lot Fourteen* · Version 1.11 · EN
 
 ## Day Eighty-Seven · Monday 29 December
@@ -10659,7 +10661,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 
 ---
 
-# Chapter 34: Then take it off
+# Book One · Chapter 34: Then take it off
 *Lot Fourteen* · Version 1.8 · EN
 
 ## Day Ninety-One · Friday 2 January

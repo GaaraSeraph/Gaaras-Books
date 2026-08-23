@@ -138,7 +138,7 @@ def inline(s):
     return s
 
 
-def parse(text, fname):
+def parse(text, fname, band=1, blabel=""):
     """Kapitel in Titel, Datum, Fassung und Absaetze zerlegen.
 
     Die Datumszeile ist die erste ganz kursive Zeile nach der Kopfzeile und
@@ -177,6 +177,8 @@ def parse(text, fname):
             body.append("<p>%s</p>" % inline(s))
 
     return {
+        "band": band,
+        "blabel": blabel,
         "num": int(m.group(1)),
         "title": title,
         "date": date,
@@ -196,40 +198,52 @@ def card(c, level=1):
         meta.append("<span>Fassung <b>%s</b></span>" % esc(c["version"]))
     meta.append("<span>%d Woerter</span>" % c["words"])
     tag = "header" if level == 1 else "div"
+    sep = " &nbsp;&#183;&nbsp; "
+    brow = sep.join(x for x in ("Lot Fourteen", esc(c.get("blabel") or ""),
+                                "Chapter %s" % label) if x)
     return ('<%s><div class="card">'
-            '<span class="eyebrow">Lot Fourteen &nbsp;&#183;&nbsp; Chapter %s</span>'
+            '<span class="eyebrow">%s</span>'
             "<h1>%s</h1></div>"
             '<div class="meta">%s</div></%s>'
-            % (tag, label, esc(c["title"]), "".join(meta), tag))
+            % (tag, brow, esc(c["title"]), "".join(meta), tag))
 
 
-def render(text, fname):
+def render(text, fname, blabel="", band=1):
     """Eine Seite fuer ein Kapitel."""
-    c = parse(text, fname)
+    c = parse(text, fname, band, blabel)
     return "\n".join([
         HEAD % {"title": esc(c["title"]), "css": CSS},
         '<div class="sheet">',
         card(c),
         "\n".join(c["body"]),
-        '<footer><span>%s</span><span>Kanon: chapters/</span></footer>' % esc(fname),
+        '<footer><span>%s</span><span>Kanon: %s</span></footer>'
+        % (esc(fname), esc(c["blabel"] or "chapters/")),
         "</div>",
     ])
 
 
-def render_book(pairs):
-    """Eine Seite fuer alle Kapitel, mit Inhaltsverzeichnis.
+def render_book(quads):
+    """Eine Seite fuer alle Kapitel aller Baende, mit Inhaltsverzeichnis.
 
-    pairs: Liste von (dateiname, text), in Kapitelreihenfolge.
+    quads: Liste von (dateiname, text, band, bandtitel), in Reihenfolge.
+    Die Anker tragen die Bandnummer, sonst zeigen in einem zweiten Band
+    alle Verweise auf Kapitel 1 des ersten.
     """
-    ch = [parse(t, f) for f, t in pairs]
+    ch = [parse(t, f, b, bl) for f, t, b, bl in quads]
     total = sum(c["words"] for c in ch)
-    toc = ["<ul class='toc'>"]
+    toc, seen = ["<ul class='toc'>"], None
     for c in ch:
+        if c["band"] != seen and c["blabel"]:
+            toc.append('<li class="band"><span class="n"></span>'
+                       '<span class="t"><b>%s</b></span>'
+                       '<span class="d"></span></li>' % esc(c["blabel"]))
+            seen = c["band"]
         toc.append(
             '<li><span class="n">%02d</span>'
-            '<a class="t" href="#ch%02d">%s</a>'
+            '<a class="t" href="#b%dch%02d">%s</a>'
             '<span class="d">%s</span></li>'
-            % (c["num"], c["num"], esc(c["title"]), esc(c["date"] or "")))
+            % (c["num"], c["band"], c["num"], esc(c["title"]),
+               esc(c["date"] or "")))
     toc.append("</ul>")
 
     out = [HEAD % {"title": "Lot Fourteen", "css": CSS}, '<div class="sheet" id="top">']
@@ -238,11 +252,14 @@ def render_book(pairs):
                "<h1>Lot Fourteen</h1></div>"
                '<div class="meta"><span>%d Kapitel</span>'
                "<span><b>%s</b> Woerter</span>"
-               "<span>Kanon: chapters/</span></div></header>"
-               % (len(ch), format(total, ",").replace(",", ".")))
+               "<span>%s</span></div></header>"
+               % (len(ch), format(total, ",").replace(",", "."),
+                  esc(", ".join(dict.fromkeys(
+                      c["blabel"] for c in ch if c["blabel"])) or "chapters/")))
     out.append("\n".join(toc))
     for c in ch:
-        out.append('<article class="chapter" id="ch%02d">' % c["num"])
+        out.append('<article class="chapter" id="b%dch%02d">'
+                   % (c["band"], c["num"]))
         out.append(card(c, level=2))
         out.append("\n".join(c["body"]))
         out.append('<p class="top"><a href="#top">&#8593; Inhalt</a></p>')

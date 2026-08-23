@@ -35,6 +35,42 @@ import glob
 NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
 HEAD = re.compile(r"Version\s+(\d+)\.(\d+)\s")
 
+# Baende. Jeder Band hat ein eigenes Kapitelverzeichnis und faengt wieder bei
+# Kapitel 1 an. Ein Band, dessen Ordner es nicht gibt oder der leer ist, wird
+# uebersprungen - solange chapters-2/ leer ist, baut das hier wie vorher.
+#
+# Die Bandnummer steht bewusst NICHT in den Kapiteldateien. Sie ergibt sich aus
+# dem Ordner und wird beim Bauen in die Titelzeile geschrieben. Stuende sie in
+# den Dateien, muessten vierunddreissig Kapitel eine Fassung hochsetzen, damit
+# oben ein Wort mehr steht - und sie koennte gegen den Ordner driften, in dem
+# die Datei liegt. Was abgeleitet werden kann, wird abgeleitet.
+BANDS = [
+    (1, "chapters", "Book One"),
+    (2, "chapters-2", "Book Two"),
+]
+
+
+def bands(root):
+    """Die Baende, die es als Ordner mit Kapiteln darin wirklich gibt."""
+    out = []
+    for num, sub, label in BANDS:
+        d = os.path.join(root, sub)
+        if os.path.isdir(d) and glob.glob(os.path.join(d, "ch*_en.md")):
+            out.append((num, d, label, sub))
+    return out
+
+
+def titled(label, text):
+    """Bandnummer in die Titelzeile schreiben, und nur in die erste Zeile.
+
+    Aus "# Chapter 15: Four thousand two hundred" wird
+    "# Book One \u00b7 Chapter 15: Four thousand two hundred".
+    Die Quelldatei bleibt unberuehrt."""
+    lines = text.split("\n")
+    if lines and lines[0].startswith("# "):
+        lines[0] = "# %s \u00b7 %s" % (label, lines[0][2:].strip())
+    return "\n".join(lines)
+
 
 def read_text(path):
     with open(path, encoding="utf-8") as fh:
@@ -145,7 +181,6 @@ FIGURES = {
     "Chairman Woo": [r"\bWoo\b"],
     "Mrs Sunwoo": [r"Sunwoo"],
     "Mrs Ryu": [r"\bRyu\b"],
-    "Yun-seo": [r"Yun-seo"],
     "Chef Bang": [r"\bBang\b"],
 }
 
@@ -173,6 +208,11 @@ def day_of(raw):
     return total or None
 
 
+def ref(band, num):
+    """Fundstelle ueber Baende hinweg eindeutig: b1ch15, b2ch01."""
+    return f"b{band}ch{num:02d}"
+
+
 def build_register(root, chapters):
     """Erzeugt BEGEGNUNGEN.md: wer wann wo vorkommt, mit Tag und Fundstelle.
 
@@ -183,7 +223,7 @@ def build_register(root, chapters):
     found = {name: [] for name in FIGURES}
     pats = {n: [re.compile(p) for p in ps] for n, ps in FIGURES.items()}
 
-    for num, ver, fname, text in chapters:
+    for band, blabel, num, ver, fname, text in chapters:
         lines = text.split("\n")
         day = None
         for i, line in enumerate(lines, 1):
@@ -198,7 +238,7 @@ def build_register(root, chapters):
                     zahlen = [z.group(0) for z in NUMS.finditer(line)]
                     # kein break: eine Zeile darf mehrere Figuren enthalten,
                     # und eine Begegnung zu zweit ist fuer beide eine.
-                    found[name].append((day, num, i, line.strip(), zahlen))
+                    found[name].append((day, band, num, i, line.strip(), zahlen))
 
     order = sorted(FIGURES, key=lambda n: (-len(found[n]), n))
     out = [
@@ -228,9 +268,10 @@ def build_register(root, chapters):
         if not eintraege:
             out.append(f"| {name} | **0** | - | - | - |")
             continue
-        kaps = sorted({e[1] for e in eintraege})
+        kaps = sorted({(e[1], e[2]) for e in eintraege})
         tage = sorted({e[0] for e in eintraege if e[0]})
-        spanne = f"{min(kaps):02d}-{max(kaps):02d}" if len(kaps) > 1 else f"{kaps[0]:02d}"
+        spanne = (f"{ref(*kaps[0])}-{ref(*kaps[-1])}" if len(kaps) > 1
+                  else ref(*kaps[0]))
         out.append(f"| {name} | {len(eintraege)} | {len(kaps)} ({spanne}) | "
                    f"{tage[0] if tage else '-'} | {tage[-1] if tage else '-'} |")
 
@@ -240,18 +281,18 @@ def build_register(root, chapters):
         if not eintraege:
             out.append("**Kommt im Text nicht vor.** Steht nur in `doc/`.")
             continue
-        kaps = sorted({e[1] for e in eintraege})
+        kaps = sorted({(e[1], e[2]) for e in eintraege})
         out.append(f"{len(eintraege)} Nennungen in {len(kaps)} Kapiteln.")
         out += ["", "| Tag | Fundstelle | Zeile |", "|---|---|---|"]
-        for day, num, i, line, _ in eintraege:
+        for day, band, num, i, line, _ in eintraege:
             kurz = line if len(line) <= 90 else line[:88] + ".."
             kurz = kurz.replace("|", "\\|")
-            out.append(f"| {day if day else '-'} | ch{num:02d}:{i} | {kurz} |")
-        mit_zahl = [(d, n, i, z) for d, n, i, l, z in eintraege if z]
+            out.append(f"| {day if day else '-'} | {ref(band, num)}:{i} | {kurz} |")
+        mit_zahl = [(d, b, n, i, z) for d, b, n, i, l, z in eintraege if z]
         if mit_zahl:
             out += ["", f"### Zahlen in der Naehe von {name}", ""]
-            for day, num, i, z in mit_zahl:
-                out.append(f"- `ch{num:02d}:{i}` (Tag {day if day else '?'}) - "
+            for day, band, num, i, z in mit_zahl:
+                out.append(f"- `{ref(band, num)}:{i}` (Tag {day if day else '?'}) - "
                            + ", ".join(sorted(set(x.lower() for x in z))))
     text = "\n".join(out) + "\n"
     write_text(os.path.join(root, "BEGEGNUNGEN.md"), text)
@@ -335,42 +376,50 @@ def build_reader(root, chapters):
     os.makedirs(readdir, exist_ok=True)
     for old in glob.glob(os.path.join(readdir, "*.html")):
         os.remove(old)
+    for old in glob.glob(os.path.join(readdir, "band-*", "*.html")):
+        os.remove(old)
 
-    pairs = [(fname, text + "\n") for _, _, fname, text in chapters]
-    for fname, text in pairs:
-        write_text(os.path.join(readdir, fname.replace(".md", ".html")),
-                   reader.render(text, fname))
-    write_text(os.path.join(readdir, "book.html"), reader.render_book(pairs))
-    return len(pairs)
+    quads = [(fname, text + "\n", band, blabel)
+             for band, blabel, _, _, fname, text in chapters]
+    for fname, text, band, blabel in quads:
+        d = os.path.join(readdir, f"band-{band}")
+        os.makedirs(d, exist_ok=True)
+        write_text(os.path.join(d, fname.replace(".md", ".html")),
+                   reader.render(text, fname, blabel))
+    write_text(os.path.join(readdir, "book.html"), reader.render_book(quads))
+    return len(quads)
 
 
 def main():
     root = sys.argv[1] if len(sys.argv) > 1 else "."
-    chapdir = os.path.join(root, "chapters")
     pastedir = os.path.join(root, "paste")
-    if not os.path.isdir(chapdir):
-        sys.exit(f"Kein Ordner {chapdir}.")
+    found = bands(root)
+    if not found:
+        sys.exit("Kein Band mit Kapiteln gefunden. Erwartet: "
+                 + ", ".join(sub for _, sub, _ in BANDS))
     os.makedirs(pastedir, exist_ok=True)
 
-    best = newest_chapters(chapdir)
-    if not best:
-        sys.exit(f"Keine Kapiteldateien in {chapdir}.")
-
     problems, chapters = [], []
-    for num in sorted(best):
-        ver, path = best[num]
-        text = read_text(path)
-        h = HEAD.search(text)
-        if not h:
-            problems.append(f"Kapitel {num:02d}: keine Versionszeile im Text")
-        elif (int(h.group(1)), int(h.group(2))) != ver:
-            problems.append(f"Kapitel {num:02d}: Dateiname sagt v{ver[0]}.{ver[1]}, "
-                            f"Kopfzeile sagt v{h.group(1)}.{h.group(2)}")
-        chapters.append((num, ver, os.path.basename(path), text.rstrip()))
-
-    missing = sorted(set(range(1, max(best) + 1)) - set(best))
-    if missing:
-        problems.append("Fehlende Kapitel: " + ", ".join(f"{n:02d}" for n in missing))
+    for band, chapdir, blabel, sub in found:
+        best = newest_chapters(chapdir)
+        for num in sorted(best):
+            ver, path = best[num]
+            text = read_text(path)
+            h = HEAD.search(text)
+            if not h:
+                problems.append(f"Band {band}, Kapitel {num:02d}: "
+                                f"keine Versionszeile im Text")
+            elif (int(h.group(1)), int(h.group(2))) != ver:
+                problems.append(
+                    f"Band {band}, Kapitel {num:02d}: Dateiname sagt "
+                    f"v{ver[0]}.{ver[1]}, Kopfzeile sagt "
+                    f"v{h.group(1)}.{h.group(2)}")
+            chapters.append((band, blabel, num, ver,
+                             os.path.basename(path), text.rstrip()))
+        missing = sorted(set(range(1, max(best) + 1)) - set(best))
+        if missing:
+            problems.append(f"Band {band}: fehlende Kapitel "
+                            + ", ".join(f"{n:02d}" for n in missing))
 
     if problems:
         print("BUILD ABGEBROCHEN")
@@ -378,49 +427,69 @@ def main():
             print("  " + p)
         sys.exit(1)
 
-    # Paste-Fassungen: erzeugt, nicht gepflegt. Veraltete verschwinden.
+    # Paste-Fassungen: erzeugt, nicht gepflegt. Veraltete verschwinden, und
+    # zwar auch die aus der Zeit vor den Baenden, die flach in paste/ lagen.
     for old in glob.glob(os.path.join(pastedir, "*_PASTE.txt")):
         os.remove(old)
-    for num, ver, fname, text in chapters:
-        out = os.path.join(pastedir, fname.replace(".md", "_PASTE.txt"))
-        write_text(out, to_paste(text + "\n"))
+    for old in glob.glob(os.path.join(pastedir, "band-*", "*_PASTE.txt")):
+        os.remove(old)
+    for band, blabel, num, ver, fname, text in chapters:
+        d = os.path.join(pastedir, f"band-{band}")
+        os.makedirs(d, exist_ok=True)
+        write_text(os.path.join(d, fname.replace(".md", "_PASTE.txt")),
+                   to_paste(titled(blabel, text) + "\n"))
 
-    # Lesefassungen. Eine md-Datei bekommt man zum Herunterladen, eine
-    # HTML-Seite kann man aufmachen. read/ ist nicht versioniert, es wird
-    # bei jedem Build neu geschrieben.
+    # Lesefassungen. read/ ist nicht versioniert und wird bei jedem Build neu
+    # geschrieben.
     nread = build_reader(root, chapters)
 
-    total = sum(len(c[3].split()) for c in chapters)
-    rows = [f"| {n:02d} | v{v[0]}.{v[1]} | {len(t.split()):,} |".replace(",", ".")
-            for n, v, f, t in chapters]
+    total = sum(len(c[5].split()) for c in chapters)
     head = [
         "# Lot Fourteen",
         "",
         "*Sammelband. Wird nicht bearbeitet.*",
         "",
-        f"{len(chapters)} Kapitel, {total:,} Woerter.".replace(",", "."),
+        "%s, %d Kapitel, %s Woerter."
+        % ("1 Band" if len(found) == 1 else f"{len(found)} Baende",
+           len(chapters), format(total, ",").replace(",", ".")),
         "",
-        "Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die",
-        "hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.",
+        "Kanon sind die Dateien in "
+        + ", ".join(f"`{sub}/`" for _, _, _, sub in found) + ".",
+        "Je Kapitel wird automatisch die hoechste Versionsnummer genommen und",
+        "gegen die Kopfzeile geprueft. **Die Bandnummer steht in keiner",
+        "Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.",
         "",
-        "| Kap | Fassung | Woerter |",
-        "|---|---|---|",
-    ] + rows
+        "| Band | Kap | Fassung | Woerter |",
+        "|---|---|---|---|",
+    ]
+    for band, blabel, n, v, f, t in chapters:
+        head.append("| %d | %02d | v%d.%d | %s |"
+                    % (band, n, v[0], v[1],
+                       format(len(t.split()), ",").replace(",", ".")))
+
+    body = [titled(bl, t) for _, bl, _, _, _, t in chapters]
     write_text(os.path.join(root, "book.md"),
                "\n".join(head) + "\n\n---\n\n"
-               + "\n\n---\n\n".join(c[3] for c in chapters) + "\n")
+               + "\n\n---\n\n".join(body) + "\n")
 
     nfig, register = build_register(root, chapters)
     ndocs = build_handbook(root, register)
 
     manifest = ["# Erzeugt von build.py. Ergebnis, nicht Eingabe.", ""]
-    for n, v, f, t in chapters:
-        manifest.append(f"ch{n:02d}  v{v[0]}.{v[1]:<5} {len(t.split()):>6} Woerter  {f}")
+    for band, blabel, n, v, f, t in chapters:
+        manifest.append(f"b{band}  ch{n:02d}  v{v[0]}.{v[1]:<5} "
+                        f"{len(t.split()):>6} Woerter  {f}")
     manifest.append("")
-    manifest.append(f"Gesamt: {len(chapters)} Kapitel, {total} Woerter")
+    manifest.append("Gesamt: %s, %d Kapitel, %d Woerter"
+                    % ("1 Band" if len(found) == 1 else f"{len(found)} Baende",
+                       len(chapters), total))
     manifest.append(f"Handbuch: {ndocs} Dokumente")
     write_text(os.path.join(root, "MANIFEST.txt"), "\n".join(manifest) + "\n")
 
+    for band, chapdir, blabel, sub in found:
+        n = sum(1 for c in chapters if c[0] == band)
+        w = sum(len(c[5].split()) for c in chapters if c[0] == band)
+        print(f"{blabel:<9} {n:>2} Kapitel, {w:>6} Woerter   {sub}/")
     print(f"book.md        {len(chapters)} Kapitel, {total} Woerter")
     print(f"HANDBUCH.md    {ndocs} Dokumente")
     print(f"BEGEGNUNGEN.md {nfig} Figuren im Text")

@@ -35,9 +35,38 @@ Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book.md`,
 auseinanderlaufen.
 
 `read/` ist die Fassung zum Anschauen: `reader.py` setzt jedes Kapitel als
-HTML-Seite, dazu `read/book.html` mit allen vierunddreissig und einem
-Inhaltsverzeichnis. Eine md-Datei bekommt man im Chat zum Herunterladen, eine
-HTML-Seite kann man aufmachen und lesen. Kanon bleibt `chapters/`.
+HTML-Seite unter `read/band-N/`, dazu `read/book.html` mit allen Kapiteln beider
+Baende und einem Inhaltsverzeichnis. Eine md-Datei bekommt man im Chat zum
+Herunterladen, eine HTML-Seite kann man aufmachen und lesen. Kanon bleiben
+`chapters/` und `chapters-2/`.
+
+---
+
+## Zwei Baende
+
+**Band 1 steht in `chapters/` und ist fertig erzaehlt**, vierunddreissig Kapitel,
+Tag 1 bis Tag 149. **Band 2 steht in `chapters-2/` und faengt wieder bei Kapitel 1
+an**, am Tag 150.
+
+**Die Bandnummer steht in keiner Kapiteldatei.** In der Datei steht weiterhin
+`# Chapter 1: ...`; woraus beim Bauen `# Book Two · Chapter 1: ...` wird. Die
+Nummer kommt aus dem Ordner. **Wer sie in die Kapitel schreibt, macht sie
+driftfaehig** und muss ausserdem vierunddreissig Fassungen hochsetzen, damit oben
+ein Wort mehr steht.
+
+**Was daran je Band getrennt laeuft:** die Kapitelnummern, die Basislinie in
+`.check-baseline` (Schluessel `b1/15`, `b2/1`) und die Kapitelliste in
+`doc/05-continuity.md`. Dort bekommen Band-2-Zeilen einen Praefix:
+
+```
+- **Kapitel 15** *Four thousand two hundred* (v2.7) - ...      <- Band 1
+- **Band 2, Kapitel 1** *Titel* (v1.0) - ...                   <- Band 2
+```
+
+**Was NICHT getrennt laeuft, und das ist Absicht:** die acht Dokumente in `doc/`,
+der Kalender und das Begegnungsregister. Es ist eine Geschichte und eine
+Figurenwelt. Der Kalender zaehlt ueber die Bandgrenze durch, und `check.py` prueft
+die Datumszeilen von Band 2 gegen denselben Kalender wie die von Band 1.
 
 Beides laeuft ausserdem von selbst: als Hook vor jedem Commit und als GitHub
 Action bei jedem Push. Der Hook baut und **blockiert bei einem Build-Fehler**,
@@ -55,10 +84,11 @@ die Kapitelpruefung warnt nur.
 
 | Ordner | Was |
 |---|---|
-| `chapters/` | Die Kapitel. Kanon |
-| `doc/` | Die acht Quelldokumente |
-| `paste/` | Einfuegefassungen. **Erzeugt**, nie bearbeiten |
-| `read/` | Lesefassungen als HTML, je Kapitel eine und `book.html` fuer alles. **Erzeugt**, nicht versioniert |
+| `chapters/` | Die Kapitel von **Band 1**. Kanon |
+| `chapters-2/` | Die Kapitel von **Band 2**, wieder ab `ch01`. Kanon |
+| `doc/` | Die acht Quelldokumente. Gelten fuer beide Baende |
+| `paste/band-N/` | Einfuegefassungen je Band. **Erzeugt**, nie bearbeiten |
+| `read/band-N/` | Lesefassungen als HTML, dazu `read/book.html` fuer alles. **Erzeugt**, nicht versioniert |
 
 **Die Regel dahinter:** Was oben liegt, liest man. Was in einem Ordner liegt,
 bearbeitet man. Von dem, was oben liegt, wird nur `CLAUDE.md` angefasst.

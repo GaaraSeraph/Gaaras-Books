@@ -28,6 +28,32 @@ import collections
 
 NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
 
+# Die Baende kommen aus build.py und werden hier NICHT noch einmal
+# aufgeschrieben. Zwei Listen desselben Inhalts driften auseinander, und dann
+# prueft check.py einen Ordner, den build.py nicht baut, oder umgekehrt.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from build import BANDS, bands as band_dirs  # noqa: E402
+
+
+def band_of(path):
+    """Band aus dem Ordner, in dem die Datei liegt."""
+    d = os.path.basename(os.path.dirname(os.path.abspath(path)))
+    for num, sub, label in BANDS:
+        if d == sub:
+            return num
+    return 1
+
+
+MEHRBANDIG = False
+
+
+def kap(key):
+    """(band, nummer) als Text. Der Band steht nur da, wenn es mehr als
+    einen gibt - sonst laese sich jede Meldung des ersten Bandes anders als
+    bisher, ohne dass sich etwas geaendert haette."""
+    band, num = key
+    return f"Band {band}, Kapitel {num}" if MEHRBANDIG else f"Kapitel {num}"
+
 # Ein Satz fuer die Wiederholungssuche. Bewusst grob: er bricht an
 # Anfuehrungszeichen und Zeilenenden, damit ein Beat zwischen zwei
 # Redebloecken einzeln gezaehlt wird und nicht mit der Rede verklebt.
@@ -287,6 +313,7 @@ def check(path):
         warns.append(f"{n} Woerter, ausserhalb der Spanne 2000 bis 4300.")
 
     paste = os.path.join(os.path.dirname(os.path.dirname(path)) or ".", "paste",
+                         f"band-{band_of(path)}",
                          os.path.basename(path).replace(".md", "_PASTE.txt"))
     if not os.path.exists(paste):
         warns.append("Keine Paste-Fassung. build.py laufen lassen.")
@@ -455,7 +482,8 @@ def numbers_report(files):
 
 
 CONTINUITY = ("doc", "05-continuity.md")
-STATE = re.compile(r"^(- \*\*Kapitel (\d+)\*\*[^()\n]*\()v(\d+)\.(\d+)(\))")
+STATE = re.compile(
+    r"^(- \*\*(?:Band (\d+), )?Kapitel (\d+)\*\*[^()\n]*\()v(\d+)\.(\d+)(\))")
 
 
 def chapter_state(root, best, fix=False):
@@ -487,24 +515,26 @@ def chapter_state(root, best, fix=False):
         m = STATE.match(line)
         if not m:
             continue
-        n = int(m.group(2))
-        seen.add(n)
-        if n not in best:
-            out.append((f"Kapitel {n} steht in der Liste, hat aber keine Datei.",
+        key = (int(m.group(2)) if m.group(2) else 1, int(m.group(3)))
+        seen.add(key)
+        if key not in best:
+            out.append((f"{kap(key)} steht in der Liste, hat aber keine Datei.",
                         False))
             continue
-        have, want = (int(m.group(3)), int(m.group(4))), best[n][0]
+        have, want = (int(m.group(4)), int(m.group(5))), best[key][0]
         if have == want:
             continue
         soll = "v%d.%d" % want
-        out.append(("Kapitel %d: Liste sagt v%d.%d, Datei ist %s."
-                    % (n, have[0], have[1], soll), fix))
+        out.append(("%s: Liste sagt v%d.%d, Datei ist %s."
+                    % (kap(key), have[0], have[1], soll), fix))
         if fix:
-            lines[i] = m.group(1) + soll + m.group(5) + line[m.end():]
+            lines[i] = m.group(1) + soll + m.group(6) + line[m.end():]
             changed = True
-    for n in sorted(set(best) - seen):
-        out.append((f"Kapitel {n} fehlt in der Liste und muss von Hand "
-                    f"eingetragen werden (Titel und Inhaltssatz).", False))
+    for key in sorted(set(best) - seen):
+        out.append((f"{kap(key)} fehlt in der Liste und muss von Hand "
+                    f"eingetragen werden (Titel und Inhaltssatz). "
+                    f"Zeilenanfang: - **{'' if key[0] == 1 else f'Band {key[0]}, '}"
+                    f"Kapitel {key[1]}**", False))
     if fix and changed:
         with open(p, "w", encoding="utf-8", newline="\n") as fh:
             fh.write("\n".join(lines))
@@ -514,7 +544,7 @@ def chapter_state(root, best, fix=False):
 BASELINE = ".check-baseline"
 
 
-def baseline_key(name):
+def baseline_key(name, band=1):
     """Kapitelnummer als Schluessel, nicht der Dateiname.
 
     Der Dateiname traegt die Fassung, und die aendert sich bei jeder
@@ -525,7 +555,7 @@ def baseline_key(name):
     geworden sein koennen.
     """
     m = NAME.match(name)
-    return int(m.group(1)) if m else None
+    return (band, int(m.group(1))) if m else None
 
 
 def read_baseline(root):
@@ -538,8 +568,17 @@ def read_baseline(root):
                 continue
             k, v = line.rsplit(None, 1)
             k = k.strip()
-            # Alte Zeilen stehen auf Dateinamen, neue auf Kapitelnummern.
-            key = baseline_key(k) if k.endswith(".md") else int(k)
+            # Drei Generationen von Schluesseln, und alle drei werden
+            # gelesen: Dateiname (aelteste), blosse Kapitelnummer, und
+            # b<Band>/<Nummer>. Die ersten beiden sind Band 1, es gab
+            # keinen anderen, als sie geschrieben wurden.
+            mb = re.match(r"^b(\d+)/(\d+)$", k)
+            if mb:
+                key = (int(mb.group(1)), int(mb.group(2)))
+            elif k.endswith(".md"):
+                key = baseline_key(k)
+            else:
+                key = (1, int(k))
             if key is not None:
                 out[key] = int(v)
     return out
@@ -643,7 +682,8 @@ def echo_report(best):
         for k in sorted(best):
             n = len(re.findall(muster, open(best[k][1], encoding="utf-8").read()))
             if n:
-                tr.append(f"{k}({n})" if n > 1 else str(k))
+                lab = f"b{k[0]}ch{k[1]:02d}" if MEHRBANDIG else str(k[1])
+                tr.append(f"{lab}({n})" if n > 1 else lab)
         print(f'  "{muster}": {len(tr)} Kapitel - {", ".join(tr)}')
 
 
@@ -652,18 +692,22 @@ def main():
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
     root = os.path.dirname(os.path.abspath(__file__))
 
+    global MEHRBANDIG
     best = {}
     # Relativ zum Skript, nicht zum aktuellen Verzeichnis: sonst findet der
     # Hook (der aus der Repo-Wurzel laeuft) keine Kapitel und die Sperrklinke
     # prueft ins Leere.
-    for p in (glob.glob(os.path.join(root, "chapters", "ch*_en.md"))
-              or glob.glob(os.path.join(root, "ch*_en.md"))):
-        m = NAME.match(os.path.basename(p))
-        if not m:
-            continue
-        k, v = int(m.group(1)), (int(m.group(2)), int(m.group(3)))
-        if k not in best or v > best[k][0]:
-            best[k] = (v, p)
+    gefunden = band_dirs(root) or [(1, root, "Book One", ".")]
+    MEHRBANDIG = len(gefunden) > 1
+    for band, chapdir, blabel, sub in gefunden:
+        for p in glob.glob(os.path.join(chapdir, "ch*_en.md")):
+            m = NAME.match(os.path.basename(p))
+            if not m:
+                continue
+            k = (band, int(m.group(1)))
+            v = (int(m.group(2)), int(m.group(3)))
+            if k not in best or v > best[k][0]:
+                best[k] = (v, p)
 
     if "--echoes" in flags:
         echo_report(best)
@@ -679,13 +723,15 @@ def main():
     counts, bad, worse, better = {}, 0, [], []
 
     for f in sorted(files):
-        key = os.path.basename(f)
+        base_name = os.path.basename(f)
+        band = band_of(f)
+        key = f"b{band} {base_name}" if MEHRBANDIG else base_name
         errs, warns = check(f)
-        num = baseline_key(key)
+        num = baseline_key(base_name, band)
         if num is not None:
             counts[num] = (len(errs), key)
         if not errs and not warns:
-            print(f"{key:<24} sauber")
+            print(f"{key:<27} sauber")
             continue
         print(f"\n{key}")
         for e in errs:
@@ -701,7 +747,7 @@ def main():
                      "python3 check.py --baseline\n")
             for k in sorted(counts):
                 n, name = counts[k]
-                fh.write(f"{k:<4}{n}    # {name}\n")
+                fh.write(f"{'b%d/%d' % k:<8}{n}    # {name}\n")
         print(f"\n{BASELINE} geschrieben.")
         sys.exit(0)
 
@@ -709,12 +755,12 @@ def main():
         b = base.get(k)
         if b is None:
             # Wirklich ein neues Kapitel. Nur dann, nicht bei neuer Fassung.
-            print(f"Kapitel {k} steht nicht in der Basislinie ({name}).")
+            print(f"{kap(k)} steht nicht in der Basislinie ({name}).")
             continue
         if n > b:
-            worse.append(f"Kapitel {k} ({name}): {b} geduldet, jetzt {n}")
+            worse.append(f"{kap(k)} ({name}): {b} geduldet, jetzt {n}")
         elif n < b:
-            better.append(f"Kapitel {k} ({name}): {b} auf {n}")
+            better.append(f"{kap(k)} ({name}): {b} auf {n}")
 
     fix = "--sync-state" in flags
     drift = [] if args else chapter_state(root, best, fix=fix)

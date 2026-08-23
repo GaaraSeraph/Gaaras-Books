@@ -18,33 +18,32 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 319 | 30 (01-34) | 1 | 74 |
-| Hana | 161 | 16 (09-31) | 1 | 74 |
-| Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
-| Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
-| Jang | 63 | 14 (05-34) | 4 | 55 |
-| Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
-| Kim Ye-rin | 44 | 11 (14-34) | 5 | 74 |
-| Kang Ji-hoon | 32 | 8 (09-31) | 22 | 74 |
-| Kim Do-yun | 31 | 9 (14-33) | 6 | 74 |
-| Mr Hong | 30 | 9 (07-23) | 22 | 55 |
-| Ji-won | 20 | 7 (03-20) | 1 | 49 |
-| Mr Pyo | 10 | 7 (05-31) | 1 | 74 |
-| Mr Ku | 9 | 7 (05-32) | 6 | 55 |
-| Bae | 6 | 3 (03-14) | 1 | 34 |
-| Mr Baek | 5 | 4 (05-24) | 6 | 55 |
-| Mr Noh | 5 | 1 (05) | 4 | 6 |
-| Chef Bang | 4 | 1 (08) | 22 | 22 |
-| Eun-ju | 4 | 3 (05-14) | 6 | 34 |
-| Mr Yeo | 4 | 2 (05-12) | 6 | 23 |
-| Minister Min-ho | 3 | 1 (09) | 22 | 22 |
-| Mrs Sunwoo | 3 | 1 (07) | 22 | 22 |
-| Choi Dae-ho | 2 | 1 (07) | 22 | 22 |
-| Mrs Ahn | 2 | 2 (05-25) | 6 | 59 |
-| Tae-min | 2 | 2 (05-22) | 6 | 55 |
-| Mr Im | 1 | 1 (05) | 6 | 6 |
-| Mrs Ryu | 1 | 1 (07) | 22 | 22 |
-| Yun-seo | **0** | - | - | - |
+| Annie | 319 | 30 (b1ch01-b1ch34) | 1 | 74 |
+| Hana | 161 | 16 (b1ch09-b1ch31) | 1 | 74 |
+| Chairman Woo | 123 | 23 (b1ch07-b1ch34) | 3 | 74 |
+| Park Sang-hoon | 86 | 16 (b1ch10-b1ch34) | 7 | 74 |
+| Jang | 63 | 14 (b1ch05-b1ch34) | 4 | 55 |
+| Mrs Seo | 49 | 18 (b1ch03-b1ch33) | 1 | 74 |
+| Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
+| Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
+| Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
+| Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
+| Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Mr Ku | 9 | 7 (b1ch05-b1ch32) | 6 | 55 |
+| Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
+| Mr Baek | 5 | 4 (b1ch05-b1ch24) | 6 | 55 |
+| Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
+| Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
+| Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
+| Mr Yeo | 4 | 2 (b1ch05-b1ch12) | 6 | 23 |
+| Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Mrs Sunwoo | 3 | 1 (b1ch07) | 22 | 22 |
+| Choi Dae-ho | 2 | 1 (b1ch07) | 22 | 22 |
+| Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
+| Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
+| Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
+| Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 
 ---
 
@@ -54,399 +53,399 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 1 | ch01:130 | Annie's expression didn't move. |
-| 1 | ch01:174 | "No." She said it the way you'd decline a second coffee. "My name is Annie. You will use.. |
-| 1 | ch01:186 | "Listen to it," he said. "*Contract.*" He was speaking to Annie without turning round, i.. |
-| 1 | ch01:190 | Annie held his gaze for a long moment. |
-| 1 | ch01:210 | Annie looked at it the way you look at something you own. |
-| 1 | ch01:218 | Annie didn't turn her head. |
-| 1 | ch02:20 | "I'm aware of what I'm listening to," Annie said. |
-| 1 | ch02:46 | Annie hadn't looked away once. |
-| 1 | ch02:66 | Annie turned her head. |
-| 1 | ch02:78 | Annie let a hundred metres of cypress go past before she answered, and Georgij used the .. |
-| 1 | ch02:122 | Annie didn't answer that. She looked out at the trees the way people look at trees when .. |
-| 1 | ch02:144 | He could have let the man arrive at it on his own. It would have taken until the gravel,.. |
-| 1 | ch02:148 | "Thank you for the coat, incidentally," he said to Annie. "It was on the seat when they .. |
-| 1 | ch02:170 | Nobody spoke again. The car came up the last of the drive at the speed of a car with now.. |
-| 1 | ch02:182 | The guard got out, came round, opened Annie's door. |
-| 1 | ch02:184 | Annie stepped out and started walking, heels on the stone, not waiting. She left the bag.. |
-| 1 | ch02:198 | Twenty metres up the path Annie had turned around. |
-| 1 | ch02:214 | Annie took it. |
-| 1 | ch02:266 | Annie was quiet for a moment. |
-| 1 | ch02:282 | Something moved behind Annie's face and was gone before it arrived. |
-| 1 | ch02:292 | Annie didn't move. |
-| 1 | ch02:300 | "Quid pro quo," Annie said, and turned the phrase over the way she had turned it in the .. |
-| 1 | ch02:326 | Annie opened the bag, took the remote out, and set it down on the stone next to the bowl. |
-| 1 | ch03:10 | Annie's footsteps went away down the hall and stopped, and a door closed somewhere he co.. |
-| 1 | ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
-| 1 | ch03:178 | The corridor on the first floor ran east to west and crossed another one that went back .. |
-| 1 | ch03:184 | "You went to the garage first," Annie said. "Then the south glass, and you stood in fron.. |
-| 1 | ch03:196 | Annie did not move. |
-| 1 | ch03:220 | "It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie sai.. |
-| 1 | ch03:232 | He said it lightly, the way you name the day of the week, and did not put anything on to.. |
-| 1 | ch03:242 | "Yes," Annie said. "I would." |
-| 1 | ch03:248 | Annie didn't answer. |
-| 1 | ch03:252 | Annie looked at him. |
-| 1 | ch03:270 | Annie stood in the dark of the crossing and did not say anything at all. |
-| 1 | ch03:278 | Something moved behind Annie's face and was gone before it arrived. |
-| 2 | ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
-| 2 | ch04:48 | At two minutes past seven Annie came into the kitchen. |
-| 2 | ch04:52 | Annie was dressed for the day, jacket on, and she came in the way somebody comes into a .. |
-| 2 | ch04:64 | Annie ate about a third of what was in front of her, drank all of the coffee, and read n.. |
-| 2 | ch04:94 | "Yours," Annie said. "Which is to say mine, and you will use them." |
-| 2 | ch04:102 | Annie looked at him for a moment. |
-| 2 | ch04:130 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
-| 2 | ch04:192 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
-| 2 | ch04:200 | "Would you," Annie said. |
-| 2 | ch04:206 | Annie did not say anything. |
-| 2 | ch04:228 | Annie looked at him across the desk. |
-| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
-| 9 | ch05:194 | Annie had come into the kitchen at seven on the first morning, and on the second, and no.. |
-| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
-| 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
-| 19 | ch05:292 | Annie went round the desk and moved the mouse and the light came up on her face, and she.. |
-| 19 | ch05:302 | Annie sat down. |
-| 19 | ch05:320 | Annie sat very still. |
-| 19 | ch05:324 | "Will I," Annie said. |
-| 19 | ch05:328 | "No," Annie said. "I don't imagine you did." |
-| 19 | ch05:342 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
-| 19 | ch05:366 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
-| 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
-| 22 | ch06:50 | Annie was watching him. |
-| 22 | ch06:86 | Annie sat back. |
-| 22 | ch06:96 | Annie looked at him for a moment. |
-| 22 | ch06:108 | "Quid pro quo," said Annie, and went back to her page. |
-| 22 | ch06:182 | Annie came down at nine minutes to seven. |
-| 22 | ch06:206 | "Well," said Annie. "Let's go and be looked at." |
-| 22 | ch07:18 | "There are three sorts of people in that room," Annie said. |
-| 22 | ch07:38 | Annie was quiet for a moment. |
-| 22 | ch07:94 | "Annie." |
-| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
-| 22 | ch07:132 | "He's very busy," said Annie. |
-| 22 | ch07:214 | He had spent four minutes in the car working out what to do if something did, and he had.. |
-| 22 | ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
-| 22 | ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
-| 22 | ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
-| 22 | ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
-| 22 | ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
-| 22 | ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
-| 22 | ch10:6 | He did not go and stand near Annie. |
-| 22 | ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
-| 22 | ch10:82 | "Georgij. I'm with Annie." |
-| 22 | ch10:142 | At three minutes to eleven, on the far side of the room, Annie looked up. |
-| 22 | ch10:200 | The two people who had been talking at Annie found somewhere else to be within about fif.. |
-| 22 | ch10:202 | Annie looked at Hana. |
-| 22 | ch10:206 | "Well," said Annie. |
-| 22 | ch10:214 | "Yes," said Annie. "He does that." |
-| 22 | ch10:218 | They talked for perhaps two minutes about a man at table three, and about the ceiling, a.. |
-| 22 | ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
-| 22 | ch11:8 | Georgij held the door. Annie got in, and he went round the back of the car and got in on.. |
-| 22 | ch11:12 | Annie put the clutch down on the seat between them. |
-| 22 | ch11:20 | "Well," said Annie. |
-| 22 | ch11:60 | "Take three," said Annie. "Go on." |
-| 22 | ch11:84 | "Yes," said Annie. "You would." |
-| 22 | ch11:104 | Annie looked out of her own window. |
-| 22 | ch11:118 | Annie turned her head. |
-| 22 | ch11:136 | "Go and get it," said Annie. |
-| 22 | ch11:166 | Annie did not move at all. |
-| 22 | ch11:182 | Annie was quiet for a long moment. |
-| 22 | ch11:210 | Annie turned her head. |
-| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | ch11:230 | Annie did not say anything for perhaps two hundred metres. |
-| 22 | ch11:238 | "Now say the other thing," said Annie. |
-| 22 | ch11:248 | Annie looked at him. |
-| 22 | ch11:260 | "I'm not going to give it to you," said Annie. |
-| 22 | ch11:272 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
-| 22 | ch11:286 | Annie went down the hall without taking her shoes off. |
-| 23 | ch12:62 | Annie did not send for him. |
-| 25 | ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 26 | ch12:186 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
-| 26 | ch12:202 | "Now the other part," said Annie. |
-| 26 | ch12:210 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
-| 26 | ch12:222 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
-| 26 | ch12:236 | "No," said Annie. "It isn't." |
-| 26 | ch12:246 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
-| 26 | ch12:250 | "Yes," said Annie. "It is." |
-| 26 | ch12:266 | "I know why," said Annie. |
-| 26 | ch12:276 | Annie looked at him across the desk for what felt like a considerable time. |
-| 27 | ch13:18 | Annie stopped with the cup halfway off its hook. |
-| 27 | ch13:34 | Annie did not sit. She stood at the window with her coffee for slightly longer than she .. |
-| 27 | ch13:82 | He did not take any of it to Annie. |
-| 34 | ch14:88 | Annie turned the first page over and did not read it. |
-| 34 | ch14:126 | Annie did not say anything to that, because there was nothing in it she did not know. |
-| 34 | ch14:138 | "Yes," said Annie. |
-| 34 | ch14:150 | Annie sat back. |
-| 34 | ch14:168 | Annie looked at him for rather longer than a moment. |
-| 34 | ch14:184 | Annie did not say anything to that at all. |
-| 34 | ch14:200 | "You want her here," said Annie. |
-| 34 | ch14:216 | Annie looked at him for a moment. |
-| 34 | ch14:230 | "Next Thursday," said Annie. |
-| 41 | ch15:28 | Then Annie put both hands on the table. |
-| 41 | ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
-| 41 | ch15:92 | Annie put her glass down. |
-| 41 | ch15:104 | Annie did not tell him he had read it wrongly, and did not tell him he had read it corre.. |
-| 41 | ch15:126 | "What I want is this." She put two fingers on the cloth. "If the Kims come out of the ot.. |
-| 41 | ch15:128 | "And then you have a tenant instead of a predator," said Annie. |
-| 41 | ch15:132 | "No," said Annie. "That's why I'm still listening." |
-| 41 | ch15:146 | "Because of him." She said it to Annie and not to him. "I told him on that floor that I .. |
-| 41 | ch15:148 | Annie did not look at either of them. |
-| 41 | ch15:158 | Annie did not say anything. |
-| 41 | ch15:166 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
-| 41 | ch15:168 | "He does," said Annie. |
-| 41 | ch15:194 | He gave her the three that meant nothing to him. He gave her the fourth. Because it was .. |
-| 41 | ch15:196 | Annie's face did nothing at all. |
-| 41 | ch15:232 | Annie said nothing whatsoever. |
-| 41 | ch15:276 | "And what is it for?" said Annie. |
-| 41 | ch15:320 | "That is what I am buying," said Annie. "Yes." |
-| 41 | ch15:326 | "And the third thing," said Annie. |
-| 41 | ch15:340 | "Probably," said Annie. |
-| 41 | ch15:344 | Annie looked at the pages. |
-| 41 | ch15:364 | Annie looked at her. |
-| 41 | ch15:384 | "It says that in November two women had an arrangement about Incheon, four months before.. |
-| 41 | ch15:390 | Annie was quiet for what felt like a considerable time. |
-| 41 | ch15:396 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
-| 41 | ch15:406 | "Yes," said Annie. "You would." |
-| 41 | ch15:432 | "The eighteenth," said Annie, when the door had closed. |
-| 41 | ch15:444 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
-| 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
-| 46 | ch16:140 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
-| 46 | ch16:160 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
-| 46 | ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 46 | ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch16:322 | "Well," said Annie. |
-| 46 | ch16:364 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
-| 46 | ch17:10 | "Kang," said Annie. |
-| 46 | ch17:60 | Annie turned her head. |
-| 46 | ch17:78 | "Then it is February," said Annie. "Not March and not the spring." |
-| 46 | ch17:82 | "January," said Annie. |
-| 46 | ch17:104 | "So she is not rich," said Annie. "She is leveraged." |
-| 46 | ch17:112 | Annie had not moved at all. |
-| 46 | ch17:120 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
-| 46 | ch17:134 | Beside him, Annie put her hand on the door. |
-| 46 | ch17:146 | "Go on," said Annie. |
-| 46 | ch17:210 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
-| 46 | ch17:236 | Annie put two fingers on the back of the chair and left them there. |
-| 46 | ch17:244 | Annie said nothing. |
-| 46 | ch17:248 | "I know," said Annie. "He came to me with it in his first week." |
-| 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
-| 48 | ch18:96 | He found Annie in the study at eleven. |
-| 48 | ch18:104 | Annie turned her chair a quarter turn. |
-| 48 | ch18:126 | Annie put down the pen she had not been using. |
-| 48 | ch18:142 | Annie looked at him. |
-| 48 | ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
-| 48 | ch18:168 | Annie turned the pen over once. |
-| 48 | ch18:182 | Annie sat back and let him stand there. |
-| 48 | ch18:198 | Annie sat with that. |
-| 48 | ch18:234 | Annie stopped. |
-| 48 | ch18:246 | Annie was quiet for a while. |
-| 48 | ch18:272 | Annie picked the pen up. |
-| 48 | ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
-| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
-| 49 | ch20:26 | Annie read the contract before she said anything at all. |
-| 49 | ch20:42 | Annie put the pages down and squared them. |
-| 49 | ch20:62 | Annie almost did something with her mouth and then did not. |
-| 49 | ch20:70 | Annie stopped. |
-| 49 | ch20:84 | Annie put two fingers on the corner of the contract. |
-| 49 | ch20:104 | Annie looked at him for slightly longer than the sentence needed. |
-| 49 | ch20:120 | Annie's hand stopped on the edge of the desk. |
-| 49 | ch20:140 | Annie was quiet for the length of the gardeners arriving. |
-| 49 | ch20:154 | Annie sat back in the chair. |
-| 49 | ch20:166 | Annie looked up. |
-| 49 | ch20:174 | Annie did not pick anything up and did not put anything down. |
-| 49 | ch20:180 | Annie did not say anything. |
-| 49 | ch20:204 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
-| 55 | ch22:10 | He telephoned Annie's office and asked for twenty minutes. |
-| 55 | ch22:18 | "He asked for the office and I said the house." Annie did not look up from the page. "A .. |
-| 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
-| 55 | ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
-| 55 | ch22:56 | Annie let that stand. |
-| 55 | ch22:64 | "You have read it," said Annie. |
-| 55 | ch22:74 | Annie said nothing. |
-| 55 | ch22:92 | He could have said nothing at all, and let Annie carry it, which is what a shadow is for. |
-| 55 | ch22:100 | Annie did not stand up and she did not send for anything. |
-| 55 | ch22:132 | Annie stood where she was with the remote in her hand, in the open, at the height of her.. |
-| 55 | ch22:148 | He said one thing, to Annie, in the flattest voice he had used all evening. |
-| 55 | ch22:162 | "You may go up," said Annie. |
-| 55 | ch22:180 | Annie did not move. |
-| 55 | ch22:208 | Annie's face did not do anything anywhere. |
-| 55 | ch22:232 | Annie said nothing. |
-| 55 | ch23:222 | Annie took her time with it. |
-| 55 | ch23:234 | "I did not decide to do it," said Annie. "That is the part I would change." |
-| 55 | ch23:246 | Annie did not answer straight away, and when she did she said it flatly, like a figure b.. |
-| 55 | ch23:256 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
-| 55 | ch23:266 | Annie did not answer. |
-| 55 | ch23:280 | Annie did not ask which. |
-| 55 | ch23:286 | He heard it about a second after it was gone, the way he had heard the other one go on a.. |
-| 55 | ch23:292 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
-| 55 | ch23:302 | Annie put her head back against the rail and looked at the underside of the roadway. |
-| 55 | ch23:322 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
-| 55 | ch23:338 | "I know," said Annie. "I was there for the other one." |
-| 55 | ch24:18 | Annie looked at the water through the rail. |
-| 55 | ch24:38 | Annie did not answer that. |
-| 55 | ch24:42 | Annie did not answer that either. |
-| 55 | ch24:66 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
-| 55 | ch24:88 | Annie did not look away from him. |
-| 55 | ch24:104 | Annie went still in a way he had seen twice before and had never yet been able to price. |
-| 55 | ch24:114 | Annie looked at the water for a while. |
-| 55 | ch24:126 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
-| 55 | ch24:138 | Annie turned her head. |
-| 55 | ch24:152 | Annie did not say anything for a moment. |
-| 55 | ch24:176 | Annie was quiet for a long time. |
-| 55 | ch24:186 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
-| 55 | ch24:228 | Annie did not say anything for a while. |
-| 55 | ch24:274 | "You are still wearing it," said Annie. |
-| 55 | ch24:296 | Annie looked out at the water where the other thing had gone. |
-| 55 | ch24:302 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | ch24:308 | "You said beautiful," said Annie. |
-| 55 | ch24:324 | Annie looked out at the place where the other thing had gone in. |
-| 55 | ch24:338 | "The car is at the end," said Annie. |
-| 55 | ch24:350 | Annie looked out of her side of it. |
-| 59 | ch25:34 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
-| 3 | ch26:8 | "Say it," said Annie. |
-| 3 | ch26:30 | Annie turned the page over so that it lay face down. |
-| 3 | ch26:62 | Annie looked at him for a second longer than the sentence needed. |
-| 7 | ch27:8 | Annie looked up. |
-| 7 | ch27:24 | Annie put the pen down. |
-| 7 | ch27:38 | Annie was quiet for a second. |
-| 7 | ch27:50 | Annie sat back. |
-| 7 | ch27:72 | Annie looked at him for a moment. |
-| 7 | ch27:90 | Annie did not say anything for a while. |
-| 7 | ch27:112 | "Yes," said Annie. "That is what worries me." |
-| 2 | ch28:288 | On the Monday evening Annie put her pen down and looked at him across the desk for sligh.. |
-| 2 | ch28:306 | Annie picked the pen back up, which meant the conversation was finished, and then did no.. |
-| 74 | ch29:6 | Annie did not come, and they had settled that on the Sunday in about ninety seconds. |
-| 74 | ch29:12 | "She does not come. She does not go anywhere that has a purpose she can see from the dri.. |
-| 74 | ch31:76 | Annie was in the chair on the left with nothing in her hands. |
-| 74 | ch31:84 | Annie did not move at all for a moment. |
-| 74 | ch31:106 | Annie's mouth did something for about a second. |
-| 74 | ch31:122 | Annie put her head back against the chair. |
-| 74 | ch31:130 | It took Annie a moment to answer. |
-| 74 | ch31:154 | Annie put two fingers on the arm of the chair and left them there. |
-| 74 | ch31:170 | Annie did not argue with it, which from her is not agreement and is not nothing. |
-| 74 | ch31:186 | Annie looked at him for a while. |
-| 74 | ch31:198 | Annie took a breath and let it out slowly and said nothing for a moment. |
-| 74 | ch31:210 | Annie took her time about it. |
-| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 74 | ch31:232 | Annie was already ahead of it. |
-| 74 | ch31:258 | Annie sat forward and put her elbows on her knees. |
-| 74 | ch31:282 | Annie did not move. |
-| 74 | ch31:298 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
-| 74 | ch31:308 | Annie got up. |
-| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:38 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
-| 7 | ch33:56 | Annie did not move. |
-| 7 | ch33:70 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
-| 7 | ch33:84 | Annie did not answer him and she did not stop him. |
-| 7 | ch33:160 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
-| 7 | ch33:224 | "Your offer," said Annie. |
-| 7 | ch33:232 | Annie's answer took five words. |
-| 7 | ch33:242 | "I know," said Annie. |
-| 7 | ch33:290 | "Sit down," said Annie. |
-| 7 | ch33:304 | Annie's face did nothing at all. |
-| 7 | ch33:320 | Annie let that stand where it was. |
-| 7 | ch33:340 | Annie was quiet. |
-| 7 | ch33:368 | Annie did not answer for some time. |
-| 7 | ch33:388 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
-| 7 | ch33:418 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
-| 1 | ch34:8 | "There is nothing for you between now and March," said Annie. "I am not asking whether y.. |
-| 1 | ch34:20 | Annie took her coat off the back of the chair and did not put it on. |
-| 46 | ch34:58 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
-| 46 | ch34:68 | Annie read it. She turned it face down on the desk, went on with what she had been doing.. |
-| 46 | ch34:74 | "No," said Annie. |
-| 46 | ch34:90 | On the twenty-third of January a renewal at the corporate services firm in Jung-gu came .. |
-| 46 | ch34:116 | Annie worked. |
-| 50 | ch34:234 | Annie came in after the car had gone down the drive. |
-| 50 | ch34:258 | "Say it," said Annie. |
-| 50 | ch34:274 | Annie was not surprised, which was worse. |
-| 50 | ch34:294 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
-| 50 | ch34:298 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
-| 50 | ch34:308 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
-| 50 | ch34:314 | Annie let the sheet lie where he had put it. |
-| 50 | ch34:326 | "The same account." Annie did not move in the chair. "Every room you go into and come ou.. |
-| 50 | ch34:354 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
-| 50 | ch34:368 | Annie did not get out of the chair she never uses. |
-| 50 | ch34:388 | "Then keep it for that," said Annie. |
-| 50 | ch34:414 | Annie did not help him. |
-| 50 | ch34:428 | "You are describing being free," said Annie. |
-| 50 | ch34:434 | Annie let the whole of it get to the floor before she said anything. |
-| 50 | ch34:462 | Annie looked at him. |
-| 50 | ch34:478 | "There is more of it," said Annie. "Say the rest." |
-| 50 | ch34:498 | Annie went as far as the window and stood with her back to the room. |
-| 50 | ch34:514 | Annie's hand came down on the back of his head and stayed there. |
+| 1 | b1ch01:130 | Annie's expression didn't move. |
+| 1 | b1ch01:174 | "No." She said it the way you'd decline a second coffee. "My name is Annie. You will use.. |
+| 1 | b1ch01:186 | "Listen to it," he said. "*Contract.*" He was speaking to Annie without turning round, i.. |
+| 1 | b1ch01:190 | Annie held his gaze for a long moment. |
+| 1 | b1ch01:210 | Annie looked at it the way you look at something you own. |
+| 1 | b1ch01:218 | Annie didn't turn her head. |
+| 1 | b1ch02:20 | "I'm aware of what I'm listening to," Annie said. |
+| 1 | b1ch02:46 | Annie hadn't looked away once. |
+| 1 | b1ch02:66 | Annie turned her head. |
+| 1 | b1ch02:78 | Annie let a hundred metres of cypress go past before she answered, and Georgij used the .. |
+| 1 | b1ch02:122 | Annie didn't answer that. She looked out at the trees the way people look at trees when .. |
+| 1 | b1ch02:144 | He could have let the man arrive at it on his own. It would have taken until the gravel,.. |
+| 1 | b1ch02:148 | "Thank you for the coat, incidentally," he said to Annie. "It was on the seat when they .. |
+| 1 | b1ch02:170 | Nobody spoke again. The car came up the last of the drive at the speed of a car with now.. |
+| 1 | b1ch02:182 | The guard got out, came round, opened Annie's door. |
+| 1 | b1ch02:184 | Annie stepped out and started walking, heels on the stone, not waiting. She left the bag.. |
+| 1 | b1ch02:198 | Twenty metres up the path Annie had turned around. |
+| 1 | b1ch02:214 | Annie took it. |
+| 1 | b1ch02:266 | Annie was quiet for a moment. |
+| 1 | b1ch02:282 | Something moved behind Annie's face and was gone before it arrived. |
+| 1 | b1ch02:292 | Annie didn't move. |
+| 1 | b1ch02:300 | "Quid pro quo," Annie said, and turned the phrase over the way she had turned it in the .. |
+| 1 | b1ch02:326 | Annie opened the bag, took the remote out, and set it down on the stone next to the bowl. |
+| 1 | b1ch03:10 | Annie's footsteps went away down the hall and stopped, and a door closed somewhere he co.. |
+| 1 | b1ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
+| 1 | b1ch03:178 | The corridor on the first floor ran east to west and crossed another one that went back .. |
+| 1 | b1ch03:184 | "You went to the garage first," Annie said. "Then the south glass, and you stood in fron.. |
+| 1 | b1ch03:196 | Annie did not move. |
+| 1 | b1ch03:220 | "It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie sai.. |
+| 1 | b1ch03:232 | He said it lightly, the way you name the day of the week, and did not put anything on to.. |
+| 1 | b1ch03:242 | "Yes," Annie said. "I would." |
+| 1 | b1ch03:248 | Annie didn't answer. |
+| 1 | b1ch03:252 | Annie looked at him. |
+| 1 | b1ch03:270 | Annie stood in the dark of the crossing and did not say anything at all. |
+| 1 | b1ch03:278 | Something moved behind Annie's face and was gone before it arrived. |
+| 2 | b1ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
+| 2 | b1ch04:48 | At two minutes past seven Annie came into the kitchen. |
+| 2 | b1ch04:52 | Annie was dressed for the day, jacket on, and she came in the way somebody comes into a .. |
+| 2 | b1ch04:64 | Annie ate about a third of what was in front of her, drank all of the coffee, and read n.. |
+| 2 | b1ch04:94 | "Yours," Annie said. "Which is to say mine, and you will use them." |
+| 2 | b1ch04:102 | Annie looked at him for a moment. |
+| 2 | b1ch04:130 | "Quid pro quo," Annie said, the way you would sign for a delivery, and went back to what.. |
+| 2 | b1ch04:192 | "That took you fifteen hours," Annie said. "I had a bet with myself about three days." |
+| 2 | b1ch04:200 | "Would you," Annie said. |
+| 2 | b1ch04:206 | Annie did not say anything. |
+| 2 | b1ch04:228 | Annie looked at him across the desk. |
+| 6 | b1ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 9 | b1ch05:194 | Annie had come into the kitchen at seven on the first morning, and on the second, and no.. |
+| 9 | b1ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 9 | b1ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
+| 19 | b1ch05:292 | Annie went round the desk and moved the mouse and the light came up on her face, and she.. |
+| 19 | b1ch05:302 | Annie sat down. |
+| 19 | b1ch05:320 | Annie sat very still. |
+| 19 | b1ch05:324 | "Will I," Annie said. |
+| 19 | b1ch05:328 | "No," Annie said. "I don't imagine you did." |
+| 19 | b1ch05:342 | Something moved behind Annie's face and stayed a little longer than usual before it went. |
+| 19 | b1ch05:366 | "No," Annie agreed, and there was nothing in her voice to take hold of anywhere. "I went.. |
+| 22 | b1ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
+| 22 | b1ch06:50 | Annie was watching him. |
+| 22 | b1ch06:86 | Annie sat back. |
+| 22 | b1ch06:96 | Annie looked at him for a moment. |
+| 22 | b1ch06:108 | "Quid pro quo," said Annie, and went back to her page. |
+| 22 | b1ch06:182 | Annie came down at nine minutes to seven. |
+| 22 | b1ch06:206 | "Well," said Annie. "Let's go and be looked at." |
+| 22 | b1ch07:18 | "There are three sorts of people in that room," Annie said. |
+| 22 | b1ch07:38 | Annie was quiet for a moment. |
+| 22 | b1ch07:94 | "Annie." |
+| 22 | b1ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | b1ch07:132 | "He's very busy," said Annie. |
+| 22 | b1ch07:214 | He had spent four minutes in the car working out what to do if something did, and he had.. |
+| 22 | b1ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
+| 22 | b1ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
+| 22 | b1ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
+| 22 | b1ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
+| 22 | b1ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
+| 22 | b1ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
+| 22 | b1ch10:6 | He did not go and stand near Annie. |
+| 22 | b1ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
+| 22 | b1ch10:82 | "Georgij. I'm with Annie." |
+| 22 | b1ch10:142 | At three minutes to eleven, on the far side of the room, Annie looked up. |
+| 22 | b1ch10:200 | The two people who had been talking at Annie found somewhere else to be within about fif.. |
+| 22 | b1ch10:202 | Annie looked at Hana. |
+| 22 | b1ch10:206 | "Well," said Annie. |
+| 22 | b1ch10:214 | "Yes," said Annie. "He does that." |
+| 22 | b1ch10:218 | They talked for perhaps two minutes about a man at table three, and about the ceiling, a.. |
+| 22 | b1ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
+| 22 | b1ch11:8 | Georgij held the door. Annie got in, and he went round the back of the car and got in on.. |
+| 22 | b1ch11:12 | Annie put the clutch down on the seat between them. |
+| 22 | b1ch11:20 | "Well," said Annie. |
+| 22 | b1ch11:60 | "Take three," said Annie. "Go on." |
+| 22 | b1ch11:84 | "Yes," said Annie. "You would." |
+| 22 | b1ch11:104 | Annie looked out of her own window. |
+| 22 | b1ch11:118 | Annie turned her head. |
+| 22 | b1ch11:136 | "Go and get it," said Annie. |
+| 22 | b1ch11:166 | Annie did not move at all. |
+| 22 | b1ch11:182 | Annie was quiet for a long moment. |
+| 22 | b1ch11:210 | Annie turned her head. |
+| 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | b1ch11:230 | Annie did not say anything for perhaps two hundred metres. |
+| 22 | b1ch11:238 | "Now say the other thing," said Annie. |
+| 22 | b1ch11:248 | Annie looked at him. |
+| 22 | b1ch11:260 | "I'm not going to give it to you," said Annie. |
+| 22 | b1ch11:272 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
+| 22 | b1ch11:286 | Annie went down the hall without taking her shoes off. |
+| 23 | b1ch12:62 | Annie did not send for him. |
+| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | b1ch12:186 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
+| 26 | b1ch12:202 | "Now the other part," said Annie. |
+| 26 | b1ch12:210 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
+| 26 | b1ch12:222 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
+| 26 | b1ch12:236 | "No," said Annie. "It isn't." |
+| 26 | b1ch12:246 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
+| 26 | b1ch12:250 | "Yes," said Annie. "It is." |
+| 26 | b1ch12:266 | "I know why," said Annie. |
+| 26 | b1ch12:276 | Annie looked at him across the desk for what felt like a considerable time. |
+| 27 | b1ch13:18 | Annie stopped with the cup halfway off its hook. |
+| 27 | b1ch13:34 | Annie did not sit. She stood at the window with her coffee for slightly longer than she .. |
+| 27 | b1ch13:82 | He did not take any of it to Annie. |
+| 34 | b1ch14:88 | Annie turned the first page over and did not read it. |
+| 34 | b1ch14:126 | Annie did not say anything to that, because there was nothing in it she did not know. |
+| 34 | b1ch14:138 | "Yes," said Annie. |
+| 34 | b1ch14:150 | Annie sat back. |
+| 34 | b1ch14:168 | Annie looked at him for rather longer than a moment. |
+| 34 | b1ch14:184 | Annie did not say anything to that at all. |
+| 34 | b1ch14:200 | "You want her here," said Annie. |
+| 34 | b1ch14:216 | Annie looked at him for a moment. |
+| 34 | b1ch14:230 | "Next Thursday," said Annie. |
+| 41 | b1ch15:28 | Then Annie put both hands on the table. |
+| 41 | b1ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
+| 41 | b1ch15:92 | Annie put her glass down. |
+| 41 | b1ch15:104 | Annie did not tell him he had read it wrongly, and did not tell him he had read it corre.. |
+| 41 | b1ch15:126 | "What I want is this." She put two fingers on the cloth. "If the Kims come out of the ot.. |
+| 41 | b1ch15:128 | "And then you have a tenant instead of a predator," said Annie. |
+| 41 | b1ch15:132 | "No," said Annie. "That's why I'm still listening." |
+| 41 | b1ch15:146 | "Because of him." She said it to Annie and not to him. "I told him on that floor that I .. |
+| 41 | b1ch15:148 | Annie did not look at either of them. |
+| 41 | b1ch15:158 | Annie did not say anything. |
+| 41 | b1ch15:166 | "You told me on the floor at the Grand Hotel that a tool you have used once should be us.. |
+| 41 | b1ch15:168 | "He does," said Annie. |
+| 41 | b1ch15:194 | He gave her the three that meant nothing to him. He gave her the fourth. Because it was .. |
+| 41 | b1ch15:196 | Annie's face did nothing at all. |
+| 41 | b1ch15:232 | Annie said nothing whatsoever. |
+| 41 | b1ch15:276 | "And what is it for?" said Annie. |
+| 41 | b1ch15:320 | "That is what I am buying," said Annie. "Yes." |
+| 41 | b1ch15:326 | "And the third thing," said Annie. |
+| 41 | b1ch15:340 | "Probably," said Annie. |
+| 41 | b1ch15:344 | Annie looked at the pages. |
+| 41 | b1ch15:364 | Annie looked at her. |
+| 41 | b1ch15:384 | "It says that in November two women had an arrangement about Incheon, four months before.. |
+| 41 | b1ch15:390 | Annie was quiet for what felt like a considerable time. |
+| 41 | b1ch15:396 | "I will sign it on Monday, in front of you, and you will not have to ask me twice." Anni.. |
+| 41 | b1ch15:406 | "Yes," said Annie. "You would." |
+| 41 | b1ch15:432 | "The eighteenth," said Annie, when the door had closed. |
+| 41 | b1ch15:444 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
+| 46 | b1ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
+| 46 | b1ch16:140 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
+| 46 | b1ch16:160 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
+| 46 | b1ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | b1ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | b1ch16:322 | "Well," said Annie. |
+| 46 | b1ch16:364 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
+| 46 | b1ch17:10 | "Kang," said Annie. |
+| 46 | b1ch17:60 | Annie turned her head. |
+| 46 | b1ch17:78 | "Then it is February," said Annie. "Not March and not the spring." |
+| 46 | b1ch17:82 | "January," said Annie. |
+| 46 | b1ch17:104 | "So she is not rich," said Annie. "She is leveraged." |
+| 46 | b1ch17:112 | Annie had not moved at all. |
+| 46 | b1ch17:120 | "I will tell her myself," said Annie. "By telephone, after Thursday, and not in writing .. |
+| 46 | b1ch17:134 | Beside him, Annie put her hand on the door. |
+| 46 | b1ch17:146 | "Go on," said Annie. |
+| 46 | b1ch17:210 | Annie went up the stairs without saying anything, and he went up after her, because she .. |
+| 46 | b1ch17:236 | Annie put two fingers on the back of the chair and left them there. |
+| 46 | b1ch17:244 | Annie said nothing. |
+| 46 | b1ch17:248 | "I know," said Annie. "He came to me with it in his first week." |
+| 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
+| 48 | b1ch18:96 | He found Annie in the study at eleven. |
+| 48 | b1ch18:104 | Annie turned her chair a quarter turn. |
+| 48 | b1ch18:126 | Annie put down the pen she had not been using. |
+| 48 | b1ch18:142 | Annie looked at him. |
+| 48 | b1ch18:158 | "And what does that teach him." Annie had not moved. "He was never going to buy it that .. |
+| 48 | b1ch18:168 | Annie turned the pen over once. |
+| 48 | b1ch18:182 | Annie sat back and let him stand there. |
+| 48 | b1ch18:198 | Annie sat with that. |
+| 48 | b1ch18:234 | Annie stopped. |
+| 48 | b1ch18:246 | Annie was quiet for a while. |
+| 48 | b1ch18:272 | Annie picked the pen up. |
+| 48 | b1ch18:282 | "Then take something with you that he has not asked for," said Annie, "because a man who.. |
+| 48 | b1ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 49 | b1ch20:26 | Annie read the contract before she said anything at all. |
+| 49 | b1ch20:42 | Annie put the pages down and squared them. |
+| 49 | b1ch20:62 | Annie almost did something with her mouth and then did not. |
+| 49 | b1ch20:70 | Annie stopped. |
+| 49 | b1ch20:84 | Annie put two fingers on the corner of the contract. |
+| 49 | b1ch20:104 | Annie looked at him for slightly longer than the sentence needed. |
+| 49 | b1ch20:120 | Annie's hand stopped on the edge of the desk. |
+| 49 | b1ch20:140 | Annie was quiet for the length of the gardeners arriving. |
+| 49 | b1ch20:154 | Annie sat back in the chair. |
+| 49 | b1ch20:166 | Annie looked up. |
+| 49 | b1ch20:174 | Annie did not pick anything up and did not put anything down. |
+| 49 | b1ch20:180 | Annie did not say anything. |
+| 49 | b1ch20:204 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
+| 55 | b1ch22:10 | He telephoned Annie's office and asked for twenty minutes. |
+| 55 | b1ch22:18 | "He asked for the office and I said the house." Annie did not look up from the page. "A .. |
+| 55 | b1ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
+| 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
+| 55 | b1ch22:56 | Annie let that stand. |
+| 55 | b1ch22:64 | "You have read it," said Annie. |
+| 55 | b1ch22:74 | Annie said nothing. |
+| 55 | b1ch22:92 | He could have said nothing at all, and let Annie carry it, which is what a shadow is for. |
+| 55 | b1ch22:100 | Annie did not stand up and she did not send for anything. |
+| 55 | b1ch22:132 | Annie stood where she was with the remote in her hand, in the open, at the height of her.. |
+| 55 | b1ch22:148 | He said one thing, to Annie, in the flattest voice he had used all evening. |
+| 55 | b1ch22:162 | "You may go up," said Annie. |
+| 55 | b1ch22:180 | Annie did not move. |
+| 55 | b1ch22:208 | Annie's face did not do anything anywhere. |
+| 55 | b1ch22:232 | Annie said nothing. |
+| 55 | b1ch23:222 | Annie took her time with it. |
+| 55 | b1ch23:234 | "I did not decide to do it," said Annie. "That is the part I would change." |
+| 55 | b1ch23:246 | Annie did not answer straight away, and when she did she said it flatly, like a figure b.. |
+| 55 | b1ch23:256 | "I have half of it," said Annie. "A man who does not break is a man nobody can hold. I f.. |
+| 55 | b1ch23:266 | Annie did not answer. |
+| 55 | b1ch23:280 | Annie did not ask which. |
+| 55 | b1ch23:286 | He heard it about a second after it was gone, the way he had heard the other one go on a.. |
+| 55 | b1ch23:292 | "So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the .. |
+| 55 | b1ch23:302 | Annie put her head back against the rail and looked at the underside of the roadway. |
+| 55 | b1ch23:322 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
+| 55 | b1ch23:338 | "I know," said Annie. "I was there for the other one." |
+| 55 | b1ch24:18 | Annie looked at the water through the rail. |
+| 55 | b1ch24:38 | Annie did not answer that. |
+| 55 | b1ch24:42 | Annie did not answer that either. |
+| 55 | b1ch24:66 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
+| 55 | b1ch24:88 | Annie did not look away from him. |
+| 55 | b1ch24:104 | Annie went still in a way he had seen twice before and had never yet been able to price. |
+| 55 | b1ch24:114 | Annie looked at the water for a while. |
+| 55 | b1ch24:126 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
+| 55 | b1ch24:138 | Annie turned her head. |
+| 55 | b1ch24:152 | Annie did not say anything for a moment. |
+| 55 | b1ch24:176 | Annie was quiet for a long time. |
+| 55 | b1ch24:186 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
+| 55 | b1ch24:228 | Annie did not say anything for a while. |
+| 55 | b1ch24:274 | "You are still wearing it," said Annie. |
+| 55 | b1ch24:296 | Annie looked out at the water where the other thing had gone. |
+| 55 | b1ch24:302 | "Good," said Annie. "Then neither of us has to be brave about it." |
+| 55 | b1ch24:308 | "You said beautiful," said Annie. |
+| 55 | b1ch24:324 | Annie looked out at the place where the other thing had gone in. |
+| 55 | b1ch24:338 | "The car is at the end," said Annie. |
+| 55 | b1ch24:350 | Annie looked out of her side of it. |
+| 59 | b1ch25:34 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
+| 3 | b1ch26:8 | "Say it," said Annie. |
+| 3 | b1ch26:30 | Annie turned the page over so that it lay face down. |
+| 3 | b1ch26:62 | Annie looked at him for a second longer than the sentence needed. |
+| 7 | b1ch27:8 | Annie looked up. |
+| 7 | b1ch27:24 | Annie put the pen down. |
+| 7 | b1ch27:38 | Annie was quiet for a second. |
+| 7 | b1ch27:50 | Annie sat back. |
+| 7 | b1ch27:72 | Annie looked at him for a moment. |
+| 7 | b1ch27:90 | Annie did not say anything for a while. |
+| 7 | b1ch27:112 | "Yes," said Annie. "That is what worries me." |
+| 2 | b1ch28:288 | On the Monday evening Annie put her pen down and looked at him across the desk for sligh.. |
+| 2 | b1ch28:306 | Annie picked the pen back up, which meant the conversation was finished, and then did no.. |
+| 74 | b1ch29:6 | Annie did not come, and they had settled that on the Sunday in about ninety seconds. |
+| 74 | b1ch29:12 | "She does not come. She does not go anywhere that has a purpose she can see from the dri.. |
+| 74 | b1ch31:76 | Annie was in the chair on the left with nothing in her hands. |
+| 74 | b1ch31:84 | Annie did not move at all for a moment. |
+| 74 | b1ch31:106 | Annie's mouth did something for about a second. |
+| 74 | b1ch31:122 | Annie put her head back against the chair. |
+| 74 | b1ch31:130 | It took Annie a moment to answer. |
+| 74 | b1ch31:154 | Annie put two fingers on the arm of the chair and left them there. |
+| 74 | b1ch31:170 | Annie did not argue with it, which from her is not agreement and is not nothing. |
+| 74 | b1ch31:186 | Annie looked at him for a while. |
+| 74 | b1ch31:198 | Annie took a breath and let it out slowly and said nothing for a moment. |
+| 74 | b1ch31:210 | Annie took her time about it. |
+| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 74 | b1ch31:232 | Annie was already ahead of it. |
+| 74 | b1ch31:258 | Annie sat forward and put her elbows on her knees. |
+| 74 | b1ch31:282 | Annie did not move. |
+| 74 | b1ch31:298 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
+| 74 | b1ch31:308 | Annie got up. |
+| 7 | b1ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | b1ch33:38 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
+| 7 | b1ch33:56 | Annie did not move. |
+| 7 | b1ch33:70 | Annie let it go on long enough that it stopped being a pause and became something else, .. |
+| 7 | b1ch33:84 | Annie did not answer him and she did not stop him. |
+| 7 | b1ch33:160 | Annie was behind him and could not see his face and would not need to, and he did not st.. |
+| 7 | b1ch33:224 | "Your offer," said Annie. |
+| 7 | b1ch33:232 | Annie's answer took five words. |
+| 7 | b1ch33:242 | "I know," said Annie. |
+| 7 | b1ch33:290 | "Sit down," said Annie. |
+| 7 | b1ch33:304 | Annie's face did nothing at all. |
+| 7 | b1ch33:320 | Annie let that stand where it was. |
+| 7 | b1ch33:340 | Annie was quiet. |
+| 7 | b1ch33:368 | Annie did not answer for some time. |
+| 7 | b1ch33:388 | "You have never asked me why I came out to that bridge," said Annie, "and you are not go.. |
+| 7 | b1ch33:418 | Annie did not say anything and did not take her hand away, and after a while the last of.. |
+| 1 | b1ch34:8 | "There is nothing for you between now and March," said Annie. "I am not asking whether y.. |
+| 1 | b1ch34:20 | Annie took her coat off the back of the chair and did not put it on. |
+| 46 | b1ch34:58 | Annie's capital went into the logistics arm in the second week of January, in three tran.. |
+| 46 | b1ch34:68 | Annie read it. She turned it face down on the desk, went on with what she had been doing.. |
+| 46 | b1ch34:74 | "No," said Annie. |
+| 46 | b1ch34:90 | On the twenty-third of January a renewal at the corporate services firm in Jung-gu came .. |
+| 46 | b1ch34:116 | Annie worked. |
+| 50 | b1ch34:234 | Annie came in after the car had gone down the drive. |
+| 50 | b1ch34:258 | "Say it," said Annie. |
+| 50 | b1ch34:274 | Annie was not surprised, which was worse. |
+| 50 | b1ch34:294 | Across the row, in a hand that was not Annie's, somebody had drawn a single stroke of a .. |
+| 50 | b1ch34:298 | "Struck," said Annie. "It took from the fourth of January to the nineteenth of February... |
+| 50 | b1ch34:308 | "Hear the reason," said Annie. "The whole of it, because the nicer version is available .. |
+| 50 | b1ch34:314 | Annie let the sheet lie where he had put it. |
+| 50 | b1ch34:326 | "The same account." Annie did not move in the chair. "Every room you go into and come ou.. |
+| 50 | b1ch34:354 | "It is dealt with," said Annie. "The man who fits them can be here on Tuesday. He will n.. |
+| 50 | b1ch34:368 | Annie did not get out of the chair she never uses. |
+| 50 | b1ch34:388 | "Then keep it for that," said Annie. |
+| 50 | b1ch34:414 | Annie did not help him. |
+| 50 | b1ch34:428 | "You are describing being free," said Annie. |
+| 50 | b1ch34:434 | Annie let the whole of it get to the floor before she said anything. |
+| 50 | b1ch34:462 | Annie looked at him. |
+| 50 | b1ch34:478 | "There is more of it," said Annie. "Say the rest." |
+| 50 | b1ch34:498 | Annie went as far as the window and stood with her back to the room. |
+| 50 | b1ch34:514 | Annie's hand came down on the back of his head and stayed there. |
 
 ### Zahlen in der Naehe von Annie
 
-- `ch01:174` (Tag 1) - two-twenty
-- `ch01:186` (Tag 1) - four
-- `ch02:78` (Tag 1) - hundred
-- `ch02:184` (Tag 1) - twenty
-- `ch02:198` (Tag 1) - twenty
-- `ch02:300` (Tag 1) - four
-- `ch03:44` (Tag 1) - one, seven, two
-- `ch03:178` (Tag 1) - one
-- `ch03:184` (Tag 1) - four, one
-- `ch03:220` (Tag 1) - four
-- `ch04:48` (Tag 2) - seven, two
-- `ch04:192` (Tag 2) - fifteen, three
-- `ch05:148` (Tag 6) - fourteen, one, three, two
-- `ch05:194` (Tag 9) - seven
-- `ch05:196` (Tag 9) - nine, seven
-- `ch05:198` (Tag 9) - eight, two
-- `ch05:366` (Tag 19) - nine
-- `ch06:18` (Tag 22) - seven, six
-- `ch06:182` (Tag 22) - nine, seven
-- `ch07:18` (Tag 22) - three
-- `ch07:214` (Tag 22) - four, three
-- `ch08:144` (Tag 22) - one, ten, two
-- `ch09:284` (Tag 22) - eight hundred, eleven, one, three, twenty-two, two
-- `ch10:8` (Tag 22) - twenty
-- `ch10:142` (Tag 22) - eleven, three
-- `ch10:200` (Tag 22) - fifteen, three, two
-- `ch10:218` (Tag 22) - three, two
-- `ch11:60` (Tag 22) - three
-- `ch11:214` (Tag 22) - eleven, twenty-five
-- `ch11:230` (Tag 22) - two hundred
-- `ch12:186` (Tag 26) - four, nineteen
-- `ch12:210` (Tag 26) - one
-- `ch12:222` (Tag 26) - one, twenty-six
-- `ch13:34` (Tag 27) - two
-- `ch15:126` (Tag 41) - twenty, two
-- `ch15:166` (Tag 41) - one
-- `ch15:194` (Tag 41) - three
-- `ch15:384` (Tag 41) - four, one, two
-- `ch15:444` (Tag 41) - four thousand two hundred
-- `ch16:12` (Tag 46) - two
-- `ch16:140` (Tag 46) - five, sixteen thousand
-- `ch16:160` (Tag 46) - one, two
-- `ch16:208` (Tag 46) - four hundred, one
-- `ch16:314` (Tag 46) - one, two
-- `ch16:364` (Tag 46) - ten
-- `ch17:236` (Tag 46) - two
-- `ch18:70` (Tag 48) - four
-- `ch18:96` (Tag 48) - eleven
-- `ch18:282` (Tag 48) - one
-- `ch20:84` (Tag 49) - two
-- `ch22:10` (Tag 55) - twenty
-- `ch22:38` (Tag 55) - two
-- `ch22:148` (Tag 55) - one
-- `ch23:256` (Tag 55) - one
-- `ch23:286` (Tag 55) - one
-- `ch23:292` (Tag 55) - ten
-- `ch23:322` (Tag 55) - four, twenty
-- `ch23:338` (Tag 55) - one
-- `ch24:186` (Tag 55) - twenty-three
-- `ch29:6` (Tag 74) - ninety
-- `ch29:12` (Tag 74) - twenty
-- `ch31:154` (Tag 74) - two
-- `ch31:228` (Tag 74) - one
-- `ch33:38` (Tag 7) - one, three
-- `ch33:70` (Tag 7) - fifteen
-- `ch33:232` (Tag 7) - five
-- `ch34:58` (Tag 46) - four, three
-- `ch34:68` (Tag 46) - one
-- `ch34:90` (Tag 46) - nine, twenty, two
-- `ch34:326` (Tag 50) - four
-- `ch34:354` (Tag 50) - forty
+- `b1ch01:174` (Tag 1) - two-twenty
+- `b1ch01:186` (Tag 1) - four
+- `b1ch02:78` (Tag 1) - hundred
+- `b1ch02:184` (Tag 1) - twenty
+- `b1ch02:198` (Tag 1) - twenty
+- `b1ch02:300` (Tag 1) - four
+- `b1ch03:44` (Tag 1) - one, seven, two
+- `b1ch03:178` (Tag 1) - one
+- `b1ch03:184` (Tag 1) - four, one
+- `b1ch03:220` (Tag 1) - four
+- `b1ch04:48` (Tag 2) - seven, two
+- `b1ch04:192` (Tag 2) - fifteen, three
+- `b1ch05:148` (Tag 6) - fourteen, one, three, two
+- `b1ch05:194` (Tag 9) - seven
+- `b1ch05:196` (Tag 9) - nine, seven
+- `b1ch05:198` (Tag 9) - eight, two
+- `b1ch05:366` (Tag 19) - nine
+- `b1ch06:18` (Tag 22) - seven, six
+- `b1ch06:182` (Tag 22) - nine, seven
+- `b1ch07:18` (Tag 22) - three
+- `b1ch07:214` (Tag 22) - four, three
+- `b1ch08:144` (Tag 22) - one, ten, two
+- `b1ch09:284` (Tag 22) - eight hundred, eleven, one, three, twenty-two, two
+- `b1ch10:8` (Tag 22) - twenty
+- `b1ch10:142` (Tag 22) - eleven, three
+- `b1ch10:200` (Tag 22) - fifteen, three, two
+- `b1ch10:218` (Tag 22) - three, two
+- `b1ch11:60` (Tag 22) - three
+- `b1ch11:214` (Tag 22) - eleven, twenty-five
+- `b1ch11:230` (Tag 22) - two hundred
+- `b1ch12:186` (Tag 26) - four, nineteen
+- `b1ch12:210` (Tag 26) - one
+- `b1ch12:222` (Tag 26) - one, twenty-six
+- `b1ch13:34` (Tag 27) - two
+- `b1ch15:126` (Tag 41) - twenty, two
+- `b1ch15:166` (Tag 41) - one
+- `b1ch15:194` (Tag 41) - three
+- `b1ch15:384` (Tag 41) - four, one, two
+- `b1ch15:444` (Tag 41) - four thousand two hundred
+- `b1ch16:12` (Tag 46) - two
+- `b1ch16:140` (Tag 46) - five, sixteen thousand
+- `b1ch16:160` (Tag 46) - one, two
+- `b1ch16:208` (Tag 46) - four hundred, one
+- `b1ch16:314` (Tag 46) - one, two
+- `b1ch16:364` (Tag 46) - ten
+- `b1ch17:236` (Tag 46) - two
+- `b1ch18:70` (Tag 48) - four
+- `b1ch18:96` (Tag 48) - eleven
+- `b1ch18:282` (Tag 48) - one
+- `b1ch20:84` (Tag 49) - two
+- `b1ch22:10` (Tag 55) - twenty
+- `b1ch22:38` (Tag 55) - two
+- `b1ch22:148` (Tag 55) - one
+- `b1ch23:256` (Tag 55) - one
+- `b1ch23:286` (Tag 55) - one
+- `b1ch23:292` (Tag 55) - ten
+- `b1ch23:322` (Tag 55) - four, twenty
+- `b1ch23:338` (Tag 55) - one
+- `b1ch24:186` (Tag 55) - twenty-three
+- `b1ch29:6` (Tag 74) - ninety
+- `b1ch29:12` (Tag 74) - twenty
+- `b1ch31:154` (Tag 74) - two
+- `b1ch31:228` (Tag 74) - one
+- `b1ch33:38` (Tag 7) - one, three
+- `b1ch33:70` (Tag 7) - fifteen
+- `b1ch33:232` (Tag 7) - five
+- `b1ch34:58` (Tag 46) - four, three
+- `b1ch34:68` (Tag 46) - one
+- `b1ch34:90` (Tag 46) - nine, twenty, two
+- `b1ch34:326` (Tag 50) - four
+- `b1ch34:354` (Tag 50) - forty
 
 ---
 
@@ -456,230 +455,230 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch09:26 | "My name is Hana." |
-| 22 | ch09:40 | That was not an accident. Being walked across a ballroom on the arm of Hana was a statem.. |
-| 22 | ch09:64 | Hana went to him the way you go to a door you have a key for. |
-| 22 | ch09:74 | Hana talked. |
-| 22 | ch09:82 | Not the whole of it, and not anything like the whole of it. He got the word. He got a da.. |
-| 22 | ch09:114 | "There," said Hana, without lifting her chin at anything. "By the second window on the i.. |
-| 22 | ch09:128 | Hana did not laugh at him, which he noted. |
-| 22 | ch09:152 | "Cold enough," said Hana. "You've gone quiet." |
-| 22 | ch09:166 | "That's a beautiful answer," said Hana, "and it isn't one." |
-| 22 | ch09:214 | Hana did not fill it. She waited exactly as long as it took, with her face entirely frie.. |
-| 22 | ch09:224 | Something went across Hana's face and it was not triumph, which he had expected, and it .. |
-| 22 | ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
-| 22 | ch09:266 | Hana let him do it. |
-| 22 | ch09:288 | Hana did not move. |
-| 22 | ch09:294 | "Yes," said Hana. |
-| 22 | ch09:302 | "Of course you do." Hana straightened her cuff. "Go and be somewhere else for twenty min.. |
-| 22 | ch09:306 | "Because I would like to see what she does," said Hana, "and so would you." |
-| 22 | ch09:314 | "I have known that woman for twelve years and she has never once brought anybody anywher.. |
-| 22 | ch09:318 | "I don't know yet," said Hana. "That's what I want you to take away with you." |
-| 22 | ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
-| 22 | ch10:126 | Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good.. |
-| 22 | ch10:144 | She was at the west end with two people who had been talking at her for a while. She loo.. |
-| 22 | ch10:146 | Hana was already looking at her. |
-| 22 | ch10:156 | Hana put her glass down and started walking. |
-| 22 | ch10:162 | He had been going north and he swung the line without breaking it, the way you change yo.. |
-| 22 | ch10:178 | Hana walked another three paces. |
-| 22 | ch10:192 | Hana was quiet for the last four paces. |
-| 22 | ch10:202 | Annie looked at Hana. |
-| 22 | ch10:204 | Then she looked at Georgij, and then at the space between his shoulder and Hana's, which.. |
-| 22 | ch10:208 | "He came with me," said Hana. |
-| 22 | ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
-| 22 | ch11:70 | "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I sh.. |
-| 22 | ch11:94 | "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she .. |
-| 22 | ch11:116 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
-| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 34 | ch14:120 | "The third is the only one that is urgent, and it is the one nobody has mentioned in thi.. |
-| 34 | ch14:198 | "I need Hana in a room, and my preference is that she comes here." |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:6 | Hana came at seven and did not bring anybody with her. |
-| 41 | ch15:18 | "Good," said Hana, and gave him her coat. |
-| 41 | ch15:40 | Hana laughed out loud. |
-| 41 | ch15:46 | "She holds one point four per cent." Hana said it flatly, the way you read out a bus num.. |
-| 41 | ch15:54 | "In twenty years nobody has been able to make that woman sign anything," said Hana, "bec.. |
-| 41 | ch15:62 | Hana put her glass down. |
-| 41 | ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
-| 41 | ch15:78 | Hana stopped. |
-| 41 | ch15:114 | Hana looked at him for a moment. |
-| 41 | ch15:122 | "You were ten minutes old to me on that terrace," said Hana, "and you were standing at m.. |
-| 41 | ch15:130 | "Then I have a tenant whose ownership I can read, and whose veto sits with you." Hana sh.. |
-| 41 | ch15:140 | Hana did not answer straight away. |
-| 41 | ch15:160 | Hana looked at him with her chin down for a moment, and then said, in a completely diffe.. |
-| 41 | ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | ch15:192 | "Give me the dates," said Hana. |
-| 41 | ch15:198 | Hana went through them twice. |
-| 41 | ch15:204 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
-| 41 | ch15:214 | Hana put the paper down. |
-| 41 | ch15:240 | Hana waited. |
-| 41 | ch15:248 | He looked at Hana. |
-| 41 | ch15:256 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
-| 41 | ch15:284 | Hana was very still. |
-| 41 | ch15:290 | Hana put her glass down. |
-| 41 | ch15:294 | "A poisoned apple," said Hana. |
-| 41 | ch15:312 | Hana had stopped moving. |
-| 41 | ch15:346 | "Will he take it?" she said, to Hana. |
-| 41 | ch15:348 | Hana did not answer straight away, which Georgij noticed and was glad of. |
-| 41 | ch15:360 | Hana put both hands on the table. |
-| 41 | ch15:368 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
-| 41 | ch15:372 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
-| 41 | ch15:386 | "So you would advise against it," said Hana. |
-| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 41 | ch15:412 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
-| 41 | ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
-| 46 | ch16:130 | The second was about Hana, and Georgij had not expected it to come from that direction. |
-| 46 | ch16:138 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
-| 46 | ch17:98 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
-| 49 | ch20:168 | "He said a veto over routes decides which box goes on which sailing when a sailing is fu.. |
-| 49 | ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
-| 49 | ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
-| 49 | ch21:52 | "Say what for," said Hana, "and then I will decide whether to be insulted." |
-| 49 | ch21:58 | Hana sat down. |
-| 49 | ch21:74 | Hana looked at the ceiling for a moment. |
-| 49 | ch21:88 | "It costs you your house on an evening when nine people under customs investigation are .. |
-| 49 | ch21:94 | Hana put her chin down for a second. |
-| 49 | ch21:124 | "I said *if*, and I am going to go on saying *if*, because I have asked that woman to fo.. |
-| 49 | ch21:130 | "Now the list," said Hana. "Not the whole of it, you would be here until Tuesday. The on.. |
-| 49 | ch21:142 | "There," said Hana. |
-| 49 | ch21:166 | Hana sat back and looked at him properly for the first time since the hall. |
-| 49 | ch21:224 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
-| 49 | ch21:246 | Hana got there about a second before he finished. |
-| 49 | ch21:254 | "Then he stays until half past nine." Hana was already somewhere else with it, and her v.. |
-| 49 | ch21:262 | "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the inv.. |
-| 49 | ch21:272 | "There is no such room in this house." Hana said it flatly and immediately, the way you .. |
-| 49 | ch21:282 | Hana looked at him for a moment. |
-| 49 | ch21:292 | Hana was quiet for a second. |
-| 49 | ch21:326 | "You can stop being delicate," said Hana. "I said all of it." |
-| 49 | ch21:334 | Hana stood in the corridor with her arms folded and looked at him for a moment. |
-| 49 | ch21:356 | Hana looked at the table, and then at the door, and then back at the table. |
-| 49 | ch21:368 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
-| 49 | ch21:382 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
-| 49 | ch21:390 | "Hana." |
-| 49 | ch21:402 | Hana's face did not do anything. |
-| 49 | ch21:412 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
-| 55 | ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
-| 6 | ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
-| 7 | ch27:22 | "Hana." |
-| 9 | ch27:158 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
-| 9 | ch27:164 | Hana put the pen down. |
-| 9 | ch27:178 | Hana did not move for a moment. |
-| 9 | ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
-| 9 | ch27:196 | Hana sat back. |
-| 9 | ch27:210 | Hana looked at the cards. |
-| 9 | ch27:222 | "I did not, because you can ask that woman once." Hana was entirely level about it. "Fou.. |
-| 9 | ch27:234 | "I have been waiting on Monday since the twenty-first of November," said Hana, "and I di.. |
-| 9 | ch27:260 | Hana did not touch the folder. |
-| 9 | ch27:274 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
-| 9 | ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| 9 | ch27:320 | Hana was quiet for a long time. |
-| 9 | ch27:342 | "That is not a gift," said Hana. |
-| 9 | ch27:352 | Hana laughed. |
-| - | ch28:10 | Hana put the page down. |
-| - | ch28:22 | Hana looked at the fire for a moment. |
-| - | ch28:46 | Hana had stopped moving. |
-| - | ch28:56 | Hana sat with that. |
-| - | ch28:64 | Hana looked at him. |
-| - | ch28:76 | Hana turned the card over that she had turned over twice already. |
-| - | ch28:92 | Hana was quiet for a while. |
-| - | ch28:102 | Hana was quiet for a moment. |
-| - | ch28:116 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
-| - | ch28:128 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
-| - | ch28:144 | "Why," said Hana. |
-| - | ch28:150 | Hana turned one of the cards over and pushed it across the table with two fingers. |
-| - | ch28:158 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
-| - | ch28:164 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
-| - | ch28:180 | Hana did not say anything. |
-| - | ch28:186 | Hana did not say anything. |
-| - | ch28:202 | Hana looked at him for a long moment. |
-| 1 | ch28:236 | It did not say what the evening was for, because that was not his to give away in a card.. |
-| 1 | ch28:240 | He put it in Hana's card, and put the card in Hana's envelope, and did not seal it. |
-| 1 | ch28:246 | Hana telephoned at twenty past four. |
-| 1 | ch28:264 | "That was her telling me she had understood every single thing about why I was standing .. |
-| 1 | ch28:268 | "We know she took her gloves off," said Hana. "I have been doing this for twenty years a.. |
-| 2 | ch28:276 | No card, no telephone, no message through Sung-ho, no line from anybody in that family. .. |
-| 74 | ch29:20 | Hana came out of the kitchen with her sleeves pushed up. |
-| 74 | ch29:54 | Hana's father had gone out on his own ships for thirty years with a camera he did not un.. |
-| 74 | ch29:64 | Hana came and stood with him and let him do it, and did not once mention that she had kn.. |
-| 74 | ch29:86 | Hana did it, because it was her house and because it had to look like her house. |
-| 74 | ch29:120 | Hana came past him at twenty past eight with an empty tray she had no business carrying. |
-| 74 | ch29:138 | Hana waited. |
-| 74 | ch29:162 | Hana put the tray down after all. |
-| 74 | ch29:174 | Hana was quiet. |
-| 74 | ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
-| 74 | ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
-| 74 | ch29:228 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
-| 74 | ch30:388 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
-| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
-| 74 | ch31:18 | Hana found him by the third door. |
-| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
-| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
-| 74 | ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
-| 74 | ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
-| 5 | ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
+| 22 | b1ch09:26 | "My name is Hana." |
+| 22 | b1ch09:40 | That was not an accident. Being walked across a ballroom on the arm of Hana was a statem.. |
+| 22 | b1ch09:64 | Hana went to him the way you go to a door you have a key for. |
+| 22 | b1ch09:74 | Hana talked. |
+| 22 | b1ch09:82 | Not the whole of it, and not anything like the whole of it. He got the word. He got a da.. |
+| 22 | b1ch09:114 | "There," said Hana, without lifting her chin at anything. "By the second window on the i.. |
+| 22 | b1ch09:128 | Hana did not laugh at him, which he noted. |
+| 22 | b1ch09:152 | "Cold enough," said Hana. "You've gone quiet." |
+| 22 | b1ch09:166 | "That's a beautiful answer," said Hana, "and it isn't one." |
+| 22 | b1ch09:214 | Hana did not fill it. She waited exactly as long as it took, with her face entirely frie.. |
+| 22 | b1ch09:224 | Something went across Hana's face and it was not triumph, which he had expected, and it .. |
+| 22 | b1ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
+| 22 | b1ch09:266 | Hana let him do it. |
+| 22 | b1ch09:288 | Hana did not move. |
+| 22 | b1ch09:294 | "Yes," said Hana. |
+| 22 | b1ch09:302 | "Of course you do." Hana straightened her cuff. "Go and be somewhere else for twenty min.. |
+| 22 | b1ch09:306 | "Because I would like to see what she does," said Hana, "and so would you." |
+| 22 | b1ch09:314 | "I have known that woman for twelve years and she has never once brought anybody anywher.. |
+| 22 | b1ch09:318 | "I don't know yet," said Hana. "That's what I want you to take away with you." |
+| 22 | b1ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
+| 22 | b1ch10:126 | Hana had told him thirty minutes ago, holding a glass, being kind about it: *It's a good.. |
+| 22 | b1ch10:144 | She was at the west end with two people who had been talking at her for a while. She loo.. |
+| 22 | b1ch10:146 | Hana was already looking at her. |
+| 22 | b1ch10:156 | Hana put her glass down and started walking. |
+| 22 | b1ch10:162 | He had been going north and he swung the line without breaking it, the way you change yo.. |
+| 22 | b1ch10:178 | Hana walked another three paces. |
+| 22 | b1ch10:192 | Hana was quiet for the last four paces. |
+| 22 | b1ch10:202 | Annie looked at Hana. |
+| 22 | b1ch10:204 | Then she looked at Georgij, and then at the space between his shoulder and Hana's, which.. |
+| 22 | b1ch10:208 | "He came with me," said Hana. |
+| 22 | b1ch10:222 | Then Hana said goodnight and went, and Annie turned back to the room, and did not say an.. |
+| 22 | b1ch11:70 | "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I sh.. |
+| 22 | b1ch11:94 | "Hana talked," he said. "Not carelessly. She has never once had to pay for anything she .. |
+| 22 | b1ch11:116 | "Nine of them, all in one room on a night they had a choice about. Customs in their logi.. |
+| 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 34 | b1ch14:120 | "The third is the only one that is urgent, and it is the one nobody has mentioned in thi.. |
+| 34 | b1ch14:198 | "I need Hana in a room, and my preference is that she comes here." |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:6 | Hana came at seven and did not bring anybody with her. |
+| 41 | b1ch15:18 | "Good," said Hana, and gave him her coat. |
+| 41 | b1ch15:40 | Hana laughed out loud. |
+| 41 | b1ch15:46 | "She holds one point four per cent." Hana said it flatly, the way you read out a bus num.. |
+| 41 | b1ch15:54 | "In twenty years nobody has been able to make that woman sign anything," said Hana, "bec.. |
+| 41 | b1ch15:62 | Hana put her glass down. |
+| 41 | b1ch15:72 | Hana looked at Annie. Annie gave her nothing at all to work with, and after a moment Han.. |
+| 41 | b1ch15:78 | Hana stopped. |
+| 41 | b1ch15:114 | Hana looked at him for a moment. |
+| 41 | b1ch15:122 | "You were ten minutes old to me on that terrace," said Hana, "and you were standing at m.. |
+| 41 | b1ch15:130 | "Then I have a tenant whose ownership I can read, and whose veto sits with you." Hana sh.. |
+| 41 | b1ch15:140 | Hana did not answer straight away. |
+| 41 | b1ch15:160 | Hana looked at him with her chin down for a moment, and then said, in a completely diffe.. |
+| 41 | b1ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | b1ch15:192 | "Give me the dates," said Hana. |
+| 41 | b1ch15:198 | Hana went through them twice. |
+| 41 | b1ch15:204 | "The fourth is nothing to me at all," said Hana, and looked up. "Should it be?" |
+| 41 | b1ch15:214 | Hana put the paper down. |
+| 41 | b1ch15:240 | Hana waited. |
+| 41 | b1ch15:248 | He looked at Hana. |
+| 41 | b1ch15:256 | Hana laughed, and it was the real one, the one she had given him once before on a cold t.. |
+| 41 | b1ch15:284 | Hana was very still. |
+| 41 | b1ch15:290 | Hana put her glass down. |
+| 41 | b1ch15:294 | "A poisoned apple," said Hana. |
+| 41 | b1ch15:312 | Hana had stopped moving. |
+| 41 | b1ch15:346 | "Will he take it?" she said, to Hana. |
+| 41 | b1ch15:348 | Hana did not answer straight away, which Georgij noticed and was glad of. |
+| 41 | b1ch15:360 | Hana put both hands on the table. |
+| 41 | b1ch15:368 | "I know what a conditional agreement is, and so do you." Hana said it entirely pleasantl.. |
+| 41 | b1ch15:372 | "That is the point," said Hana. "It costs you nothing today and everything in April. A w.. |
+| 41 | b1ch15:386 | "So you would advise against it," said Hana. |
+| 41 | b1ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 41 | b1ch15:412 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
+| 41 | b1ch15:426 | "You told me tonight that you were wrong about a man's character and you told me before .. |
+| 46 | b1ch16:130 | The second was about Hana, and Georgij had not expected it to come from that direction. |
+| 46 | b1ch16:138 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
+| 46 | b1ch17:98 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+| 49 | b1ch20:168 | "He said a veto over routes decides which box goes on which sailing when a sailing is fu.. |
+| 49 | b1ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
+| 49 | b1ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
+| 49 | b1ch21:52 | "Say what for," said Hana, "and then I will decide whether to be insulted." |
+| 49 | b1ch21:58 | Hana sat down. |
+| 49 | b1ch21:74 | Hana looked at the ceiling for a moment. |
+| 49 | b1ch21:88 | "It costs you your house on an evening when nine people under customs investigation are .. |
+| 49 | b1ch21:94 | Hana put her chin down for a second. |
+| 49 | b1ch21:124 | "I said *if*, and I am going to go on saying *if*, because I have asked that woman to fo.. |
+| 49 | b1ch21:130 | "Now the list," said Hana. "Not the whole of it, you would be here until Tuesday. The on.. |
+| 49 | b1ch21:142 | "There," said Hana. |
+| 49 | b1ch21:166 | Hana sat back and looked at him properly for the first time since the hall. |
+| 49 | b1ch21:224 | "There will be a photographer, because there is always a photographer, and he arrives at.. |
+| 49 | b1ch21:246 | Hana got there about a second before he finished. |
+| 49 | b1ch21:254 | "Then he stays until half past nine." Hana was already somewhere else with it, and her v.. |
+| 49 | b1ch21:262 | "I am not complaining," said Hana. "I chose it at four o'clock. I am telling you the inv.. |
+| 49 | b1ch21:272 | "There is no such room in this house." Hana said it flatly and immediately, the way you .. |
+| 49 | b1ch21:282 | Hana looked at him for a moment. |
+| 49 | b1ch21:292 | Hana was quiet for a second. |
+| 49 | b1ch21:326 | "You can stop being delicate," said Hana. "I said all of it." |
+| 49 | b1ch21:334 | Hana stood in the corridor with her arms folded and looked at him for a moment. |
+| 49 | b1ch21:356 | Hana looked at the table, and then at the door, and then back at the table. |
+| 49 | b1ch21:368 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | b1ch21:382 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
+| 49 | b1ch21:390 | "Hana." |
+| 49 | b1ch21:402 | Hana's face did not do anything. |
+| 49 | b1ch21:412 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
+| 55 | b1ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
+| 6 | b1ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
+| 7 | b1ch27:22 | "Hana." |
+| 9 | b1ch27:158 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
+| 9 | b1ch27:164 | Hana put the pen down. |
+| 9 | b1ch27:178 | Hana did not move for a moment. |
+| 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
+| 9 | b1ch27:196 | Hana sat back. |
+| 9 | b1ch27:210 | Hana looked at the cards. |
+| 9 | b1ch27:222 | "I did not, because you can ask that woman once." Hana was entirely level about it. "Fou.. |
+| 9 | b1ch27:234 | "I have been waiting on Monday since the twenty-first of November," said Hana, "and I di.. |
+| 9 | b1ch27:260 | Hana did not touch the folder. |
+| 9 | b1ch27:274 | "I never offered it." Hana put both hands on the arms of the chair. "That ground has not.. |
+| 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
+| 9 | b1ch27:320 | Hana was quiet for a long time. |
+| 9 | b1ch27:342 | "That is not a gift," said Hana. |
+| 9 | b1ch27:352 | Hana laughed. |
+| - | b1ch28:10 | Hana put the page down. |
+| - | b1ch28:22 | Hana looked at the fire for a moment. |
+| - | b1ch28:46 | Hana had stopped moving. |
+| - | b1ch28:56 | Hana sat with that. |
+| - | b1ch28:64 | Hana looked at him. |
+| - | b1ch28:76 | Hana turned the card over that she had turned over twice already. |
+| - | b1ch28:92 | Hana was quiet for a while. |
+| - | b1ch28:102 | Hana was quiet for a moment. |
+| - | b1ch28:116 | "It is not an offer, it is the only way it works." Hana put both hands flat on the table.. |
+| - | b1ch28:128 | "I know exactly what you are going to say about paper. You said it at my expense in Nove.. |
+| - | b1ch28:144 | "Why," said Hana. |
+| - | b1ch28:150 | Hana turned one of the cards over and pushed it across the table with two fingers. |
+| - | b1ch28:158 | "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed." |
+| - | b1ch28:164 | "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on.. |
+| - | b1ch28:180 | Hana did not say anything. |
+| - | b1ch28:186 | Hana did not say anything. |
+| - | b1ch28:202 | Hana looked at him for a long moment. |
+| 1 | b1ch28:236 | It did not say what the evening was for, because that was not his to give away in a card.. |
+| 1 | b1ch28:240 | He put it in Hana's card, and put the card in Hana's envelope, and did not seal it. |
+| 1 | b1ch28:246 | Hana telephoned at twenty past four. |
+| 1 | b1ch28:264 | "That was her telling me she had understood every single thing about why I was standing .. |
+| 1 | b1ch28:268 | "We know she took her gloves off," said Hana. "I have been doing this for twenty years a.. |
+| 2 | b1ch28:276 | No card, no telephone, no message through Sung-ho, no line from anybody in that family. .. |
+| 74 | b1ch29:20 | Hana came out of the kitchen with her sleeves pushed up. |
+| 74 | b1ch29:54 | Hana's father had gone out on his own ships for thirty years with a camera he did not un.. |
+| 74 | b1ch29:64 | Hana came and stood with him and let him do it, and did not once mention that she had kn.. |
+| 74 | b1ch29:86 | Hana did it, because it was her house and because it had to look like her house. |
+| 74 | b1ch29:120 | Hana came past him at twenty past eight with an empty tray she had no business carrying. |
+| 74 | b1ch29:138 | Hana waited. |
+| 74 | b1ch29:162 | Hana put the tray down after all. |
+| 74 | b1ch29:174 | Hana was quiet. |
+| 74 | b1ch29:188 | "Go and stand where you are going to stand," said Hana. "I will get to the hall if I get.. |
+| 74 | b1ch29:200 | "She will not want to be met. She will want to walk in and find the room already happeni.. |
+| 74 | b1ch29:228 | Nobody went to her. That was Hana, twenty metres away, not going to her, and it was the .. |
+| 74 | b1ch30:388 | "Send it to my brother's office and address it to my brother, and put a second copy in a.. |
+| 74 | b1ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
+| 74 | b1ch31:18 | Hana found him by the third door. |
+| 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 74 | b1ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
+| 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 
 ### Zahlen in der Naehe von Hana
 
-- `ch09:166` (Tag 22) - one
-- `ch09:302` (Tag 22) - twenty
-- `ch09:314` (Tag 22) - twelve
-- `ch10:8` (Tag 22) - twenty
-- `ch10:126` (Tag 22) - thirty
-- `ch10:144` (Tag 22) - thirty, two
-- `ch10:162` (Tag 22) - eight
-- `ch10:178` (Tag 22) - three
-- `ch10:192` (Tag 22) - four
-- `ch11:70` (Tag 22) - thirty
-- `ch11:94` (Tag 22) - five, three
-- `ch11:116` (Tag 22) - nine, one, six, two
-- `ch11:214` (Tag 22) - eleven, twenty-five
-- `ch14:120` (Tag 34) - eighteen, one, three
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch15:6` (Tag 41) - seven
-- `ch15:46` (Tag 41) - eleven, four, nine and seven, one, six, two
-- `ch15:54` (Tag 41) - twenty
-- `ch15:122` (Tag 41) - ten
-- `ch15:160` (Tag 41) - one
-- `ch15:256` (Tag 41) - one
-- `ch15:368` (Tag 41) - twenty
-- `ch15:372` (Tag 41) - ten
-- `ch16:138` (Tag 46) - three
-- `ch17:98` (Tag 46) - one, sixteen thousand
-- `ch20:168` (Tag 49) - four, nine
-- `ch21:36` (Tag 49) - four
-- `ch21:88` (Tag 49) - nine
-- `ch21:124` (Tag 49) - fourteen, two
-- `ch21:224` (Tag 49) - eight, nine, seven, ten, two
-- `ch21:254` (Tag 49) - four, nine, two
-- `ch21:262` (Tag 49) - four
-- `ch21:272` (Tag 49) - forty, four, thirty-eight, two
-- `ch21:368` (Tag 49) - four
-- `ch21:382` (Tag 49) - fifty-one, one
-- `ch21:412` (Tag 49) - one
-- `ch23:224` (Tag 55) - nineteen
-- `ch27:158` (Tag 9) - forty
-- `ch27:184` (Tag 9) - four, ninety, seven, three
-- `ch27:222` (Tag 9) - fourteen, twelve, twenty
-- `ch27:234` (Tag 9) - twenty
-- `ch27:274` (Tag 9) - one
-- `ch27:294` (Tag 9) - four, six
-- `ch28:116` (Tag ?) - ten, two
-- `ch28:150` (Tag ?) - one, two
-- `ch28:164` (Tag ?) - eighty thousand, four hundred, two
-- `ch28:236` (Tag 1) - twenty
-- `ch28:246` (Tag 1) - four, twenty
-- `ch28:268` (Tag 1) - twenty
-- `ch29:54` (Tag 74) - eleven, thirty
-- `ch29:64` (Tag 74) - one, six
-- `ch29:120` (Tag 74) - eight, twenty
-- `ch29:200` (Tag 74) - twenty
-- `ch29:228` (Tag 74) - twenty
-- `ch31:12` (Tag 74) - one
-- `ch31:24` (Tag 74) - four, twenty-nine
-- `ch31:34` (Tag 74) - four, one, three
-- `ch31:50` (Tag 74) - thirty
-- `ch31:222` (Tag 74) - six
-- `ch31:336` (Tag 5) - twenty-two
+- `b1ch09:166` (Tag 22) - one
+- `b1ch09:302` (Tag 22) - twenty
+- `b1ch09:314` (Tag 22) - twelve
+- `b1ch10:8` (Tag 22) - twenty
+- `b1ch10:126` (Tag 22) - thirty
+- `b1ch10:144` (Tag 22) - thirty, two
+- `b1ch10:162` (Tag 22) - eight
+- `b1ch10:178` (Tag 22) - three
+- `b1ch10:192` (Tag 22) - four
+- `b1ch11:70` (Tag 22) - thirty
+- `b1ch11:94` (Tag 22) - five, three
+- `b1ch11:116` (Tag 22) - nine, one, six, two
+- `b1ch11:214` (Tag 22) - eleven, twenty-five
+- `b1ch14:120` (Tag 34) - eighteen, one, three
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch15:6` (Tag 41) - seven
+- `b1ch15:46` (Tag 41) - eleven, four, nine and seven, one, six, two
+- `b1ch15:54` (Tag 41) - twenty
+- `b1ch15:122` (Tag 41) - ten
+- `b1ch15:160` (Tag 41) - one
+- `b1ch15:256` (Tag 41) - one
+- `b1ch15:368` (Tag 41) - twenty
+- `b1ch15:372` (Tag 41) - ten
+- `b1ch16:138` (Tag 46) - three
+- `b1ch17:98` (Tag 46) - one, sixteen thousand
+- `b1ch20:168` (Tag 49) - four, nine
+- `b1ch21:36` (Tag 49) - four
+- `b1ch21:88` (Tag 49) - nine
+- `b1ch21:124` (Tag 49) - fourteen, two
+- `b1ch21:224` (Tag 49) - eight, nine, seven, ten, two
+- `b1ch21:254` (Tag 49) - four, nine, two
+- `b1ch21:262` (Tag 49) - four
+- `b1ch21:272` (Tag 49) - forty, four, thirty-eight, two
+- `b1ch21:368` (Tag 49) - four
+- `b1ch21:382` (Tag 49) - fifty-one, one
+- `b1ch21:412` (Tag 49) - one
+- `b1ch23:224` (Tag 55) - nineteen
+- `b1ch27:158` (Tag 9) - forty
+- `b1ch27:184` (Tag 9) - four, ninety, seven, three
+- `b1ch27:222` (Tag 9) - fourteen, twelve, twenty
+- `b1ch27:234` (Tag 9) - twenty
+- `b1ch27:274` (Tag 9) - one
+- `b1ch27:294` (Tag 9) - four, six
+- `b1ch28:116` (Tag ?) - ten, two
+- `b1ch28:150` (Tag ?) - one, two
+- `b1ch28:164` (Tag ?) - eighty thousand, four hundred, two
+- `b1ch28:236` (Tag 1) - twenty
+- `b1ch28:246` (Tag 1) - four, twenty
+- `b1ch28:268` (Tag 1) - twenty
+- `b1ch29:54` (Tag 74) - eleven, thirty
+- `b1ch29:64` (Tag 74) - one, six
+- `b1ch29:120` (Tag 74) - eight, twenty
+- `b1ch29:200` (Tag 74) - twenty
+- `b1ch29:228` (Tag 74) - twenty
+- `b1ch31:12` (Tag 74) - one
+- `b1ch31:24` (Tag 74) - four, twenty-nine
+- `b1ch31:34` (Tag 74) - four, one, three
+- `b1ch31:50` (Tag 74) - thirty
+- `b1ch31:222` (Tag 74) - six
+- `b1ch31:336` (Tag 5) - twenty-two
 
 ---
 
@@ -689,202 +688,202 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
-| 22 | ch07:104 | Chairman Woo's face did what faces do. |
-| 22 | ch07:112 | "Ten," said Chairman Woo. |
-| 22 | ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
-| 22 | ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
-| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 22 | ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
-| 22 | ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
-| 22 | ch08:174 | "There you are," said Chairman Woo, thrilled. |
-| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
-| 22 | ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
-| 22 | ch10:14 | "There he is," said Chairman Woo. |
-| 22 | ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
-| 22 | ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
-| 22 | ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
-| 22 | ch10:56 | "Somebody at a dinner," said Chairman Woo. |
-| 22 | ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
-| 22 | ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
-| 22 | ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
-| 23 | ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
-| 25 | ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
-| 27 | ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
-| 27 | ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
-| 27 | ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
-| 27 | ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
-| 27 | ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
-| 27 | ch13:164 | Chairman Woo looked at him for a moment. |
-| 27 | ch13:182 | Woo said nothing for a while. |
-| 27 | ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
-| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
-| 27 | ch13:202 | Woo looked up. |
-| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
-| 27 | ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
-| 27 | ch13:228 | Chairman Woo put his chopsticks down. |
-| 27 | ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
-| 27 | ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
-| 34 | ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
-| 48 | ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
-| 48 | ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
-| 48 | ch19:42 | "Well," said Woo. |
-| 48 | ch19:56 | Chairman Woo looked out at the water. |
-| 48 | ch19:64 | "You want something," said Woo. |
-| 48 | ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
-| 48 | ch19:104 | Chairman Woo did not pick the paper up straight away. |
-| 48 | ch19:132 | Woo put the paper down and looked at him. |
-| 48 | ch19:148 | Chairman Woo did not say anything. |
-| 48 | ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
-| 48 | ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
-| 48 | ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
-| 48 | ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
-| 48 | ch19:210 | Chairman Woo unfolded the sheet. |
-| 48 | ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
-| 48 | ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
-| 48 | ch19:254 | Chairman Woo poured the last of the tea. |
-| 48 | ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
-| 48 | ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
-| 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
-| 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
-| 49 | ch20:218 | "Then find Chairman Woo a house." |
-| 49 | ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
-| 49 | ch21:60 | "Woo signed." |
-| 49 | ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
-| 49 | ch21:218 | "Woo at seven." |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
-| 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
-| 55 | ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
-| 59 | ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
-| 59 | ch25:66 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
-| 59 | ch25:240 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
-| 59 | ch25:264 | "The photographer goes at nine," said Woo. |
-| 59 | ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
-| 59 | ch25:292 | "Good," said Woo. "Do not do it again this year." |
-| 3 | ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
-| 6 | ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
-| 6 | ch26:126 | "Woo does not sign these," said the cousin. |
-| 6 | ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
-| 6 | ch26:310 | He put his hand back on Woo's contract. |
-| 7 | ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
-| 7 | ch27:66 | "And Woo." |
-| 7 | ch27:80 | "You want to put Woo on her land." |
-| 9 | ch27:118 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
-| 9 | ch27:128 | Woo made a noise that was not a word. |
-| 9 | ch27:148 | Woo laughed, badly, the way he had laughed at his own crane in October. |
-| 9 | ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
-| 9 | ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
-| 9 | ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| - | ch28:66 | "Woo at seven," she said. "And the Kims." |
-| - | ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
-| 74 | ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
-| 74 | ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
-| 74 | ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
-| 74 | ch29:92 | "Chairman Woo. This is Kim Sung-ho, whose father you used to shout at." |
-| 74 | ch29:94 | "His father deserved it," said Woo. |
-| 74 | ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
-| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
-| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
-| 74 | ch29:206 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
-| 74 | ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
-| 74 | ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
-| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
-| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
-| 74 | ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
-| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
-| 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 5 | ch31:322 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
-| 5 | ch31:338 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
-| 5 | ch31:348 | Woo did not say anything for a second. |
-| 5 | ch31:366 | Chairman Woo was quiet for long enough that Georgij checked the line. |
-| 5 | ch31:368 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
-| 5 | ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
-| - | ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
-| 46 | ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
+| 22 | b1ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
+| 22 | b1ch07:104 | Chairman Woo's face did what faces do. |
+| 22 | b1ch07:112 | "Ten," said Chairman Woo. |
+| 22 | b1ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
+| 22 | b1ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 22 | b1ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
+| 22 | b1ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
+| 22 | b1ch08:174 | "There you are," said Chairman Woo, thrilled. |
+| 22 | b1ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | b1ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
+| 22 | b1ch10:14 | "There he is," said Chairman Woo. |
+| 22 | b1ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
+| 22 | b1ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
+| 22 | b1ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
+| 22 | b1ch10:56 | "Somebody at a dinner," said Chairman Woo. |
+| 22 | b1ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
+| 22 | b1ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
+| 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | b1ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
+| 23 | b1ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
+| 25 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 27 | b1ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
+| 27 | b1ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
+| 27 | b1ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
+| 27 | b1ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
+| 27 | b1ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
+| 27 | b1ch13:164 | Chairman Woo looked at him for a moment. |
+| 27 | b1ch13:182 | Woo said nothing for a while. |
+| 27 | b1ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
+| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 27 | b1ch13:202 | Woo looked up. |
+| 27 | b1ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | b1ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
+| 27 | b1ch13:228 | Chairman Woo put his chopsticks down. |
+| 27 | b1ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
+| 27 | b1ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
+| 34 | b1ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
+| 48 | b1ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | b1ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | b1ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | b1ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | b1ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
+| 48 | b1ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
+| 48 | b1ch19:42 | "Well," said Woo. |
+| 48 | b1ch19:56 | Chairman Woo looked out at the water. |
+| 48 | b1ch19:64 | "You want something," said Woo. |
+| 48 | b1ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
+| 48 | b1ch19:104 | Chairman Woo did not pick the paper up straight away. |
+| 48 | b1ch19:132 | Woo put the paper down and looked at him. |
+| 48 | b1ch19:148 | Chairman Woo did not say anything. |
+| 48 | b1ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
+| 48 | b1ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
+| 48 | b1ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
+| 48 | b1ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
+| 48 | b1ch19:210 | Chairman Woo unfolded the sheet. |
+| 48 | b1ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
+| 48 | b1ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
+| 48 | b1ch19:254 | Chairman Woo poured the last of the tea. |
+| 48 | b1ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
+| 48 | b1ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
+| 48 | b1ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
+| 48 | b1ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
+| 48 | b1ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
+| 48 | b1ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
+| 48 | b1ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
+| 49 | b1ch20:218 | "Then find Chairman Woo a house." |
+| 49 | b1ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
+| 49 | b1ch21:60 | "Woo signed." |
+| 49 | b1ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
+| 49 | b1ch21:218 | "Woo at seven." |
+| 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
+| 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 55 | b1ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 59 | b1ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
+| 59 | b1ch25:66 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
+| 59 | b1ch25:240 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
+| 59 | b1ch25:264 | "The photographer goes at nine," said Woo. |
+| 59 | b1ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
+| 59 | b1ch25:292 | "Good," said Woo. "Do not do it again this year." |
+| 3 | b1ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
+| 6 | b1ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
+| 6 | b1ch26:126 | "Woo does not sign these," said the cousin. |
+| 6 | b1ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
+| 6 | b1ch26:310 | He put his hand back on Woo's contract. |
+| 7 | b1ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
+| 7 | b1ch27:66 | "And Woo." |
+| 7 | b1ch27:80 | "You want to put Woo on her land." |
+| 9 | b1ch27:118 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
+| 9 | b1ch27:128 | Woo made a noise that was not a word. |
+| 9 | b1ch27:148 | Woo laughed, badly, the way he had laughed at his own crane in October. |
+| 9 | b1ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
+| 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
+| 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
+| - | b1ch28:66 | "Woo at seven," she said. "And the Kims." |
+| - | b1ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 74 | b1ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
+| 74 | b1ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
+| 74 | b1ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
+| 74 | b1ch29:92 | "Chairman Woo. This is Kim Sung-ho, whose father you used to shout at." |
+| 74 | b1ch29:94 | "His father deserved it," said Woo. |
+| 74 | b1ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
+| 74 | b1ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | b1ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
+| 74 | b1ch29:206 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
+| 74 | b1ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
+| 74 | b1ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
+| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
+| 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 74 | b1ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
+| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 5 | b1ch31:322 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
+| 5 | b1ch31:338 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
+| 5 | b1ch31:348 | Woo did not say anything for a second. |
+| 5 | b1ch31:366 | Chairman Woo was quiet for long enough that Georgij checked the line. |
+| 5 | b1ch31:368 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
+| 5 | b1ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
+| - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
+| 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
-- `ch07:92` (Tag 22) - four, ninety
-- `ch07:112` (Tag 22) - ten
-- `ch07:124` (Tag 22) - four
-- `ch07:274` (Tag 22) - forty, one
-- `ch07:292` (Tag 22) - twelve
-- `ch08:154` (Tag 22) - four, nine, ten
-- `ch08:156` (Tag 22) - one
-- `ch09:48` (Tag 22) - four, nine
-- `ch11:38` (Tag 22) - four, six, two
-- `ch11:214` (Tag 22) - eleven, twenty-five
-- `ch11:242` (Tag 22) - fourteen, one
-- `ch12:68` (Tag 23) - nine, three
-- `ch12:138` (Tag 25) - four
-- `ch13:104` (Tag 27) - eight
-- `ch13:114` (Tag 27) - forty, one
-- `ch13:136` (Tag 27) - eighty, one, twenty
-- `ch13:190` (Tag 27) - one
-- `ch13:194` (Tag 27) - one, three
-- `ch13:246` (Tag 27) - six
-- `ch14:144` (Tag 34) - fifty-one
-- `ch18:288` (Tag 48) - nine, one, three
-- `ch19:16` (Tag 48) - fifty
-- `ch19:162` (Tag 48) - three, twenty
-- `ch19:176` (Tag 48) - fifty-one
-- `ch19:186` (Tag 48) - two
-- `ch19:198` (Tag 48) - two
-- `ch19:224` (Tag 48) - one
-- `ch19:302` (Tag 48) - one
-- `ch19:312` (Tag 48) - five
-- `ch19:318` (Tag 48) - two
-- `ch21:108` (Tag 49) - nine, seven, seventy-eight
-- `ch21:218` (Tag 49) - seven
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch21:418` (Tag 49) - six
-- `ch23:188` (Tag 55) - four
-- `ch24:106` (Tag 55) - one
-- `ch25:58` (Tag 59) - one, three
-- `ch25:66` (Tag 59) - three
-- `ch25:240` (Tag 59) - two
-- `ch25:264` (Tag 59) - nine
-- `ch26:50` (Tag 3) - one, two
-- `ch26:118` (Tag 6) - seven
-- `ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
-- `ch27:58` (Tag 7) - one, seven, three, two
-- `ch27:118` (Tag 9) - four, three
-- `ch27:162` (Tag 9) - one, seven
-- `ch27:184` (Tag 9) - four, ninety, seven, three
-- `ch27:294` (Tag 9) - four, six
-- `ch28:66` (Tag ?) - seven
-- `ch28:146` (Tag ?) - four, one, two
-- `ch29:40` (Tag 74) - four, seven
-- `ch29:46` (Tag 74) - seventy-eight
-- `ch29:56` (Tag 74) - forty
-- `ch29:104` (Tag 74) - two
-- `ch29:134` (Tag 74) - nine
-- `ch29:158` (Tag 74) - two
-- `ch30:32` (Tag 74) - seventy-eight
-- `ch30:162` (Tag 74) - one
-- `ch30:410` (Tag 74) - one
-- `ch31:24` (Tag 74) - four, twenty-nine
-- `ch31:28` (Tag 74) - four, three
-- `ch31:34` (Tag 74) - four, one, three
-- `ch31:92` (Tag 74) - nine, seven, six, twelve, two
-- `ch31:228` (Tag 74) - one
-- `ch31:322` (Tag 5) - eight, seventy-eight, two
-- `ch31:338` (Tag 5) - eleven, twenty-two
-- `ch31:368` (Tag 5) - nine
-- `ch31:386` (Tag 5) - one
-- `ch32:98` (Tag ?) - four, two
-- `ch34:46` (Tag 46) - seven, two
+- `b1ch07:92` (Tag 22) - four, ninety
+- `b1ch07:112` (Tag 22) - ten
+- `b1ch07:124` (Tag 22) - four
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b1ch08:154` (Tag 22) - four, nine, ten
+- `b1ch08:156` (Tag 22) - one
+- `b1ch09:48` (Tag 22) - four, nine
+- `b1ch11:38` (Tag 22) - four, six, two
+- `b1ch11:214` (Tag 22) - eleven, twenty-five
+- `b1ch11:242` (Tag 22) - fourteen, one
+- `b1ch12:68` (Tag 23) - nine, three
+- `b1ch12:138` (Tag 25) - four
+- `b1ch13:104` (Tag 27) - eight
+- `b1ch13:114` (Tag 27) - forty, one
+- `b1ch13:136` (Tag 27) - eighty, one, twenty
+- `b1ch13:190` (Tag 27) - one
+- `b1ch13:194` (Tag 27) - one, three
+- `b1ch13:246` (Tag 27) - six
+- `b1ch14:144` (Tag 34) - fifty-one
+- `b1ch18:288` (Tag 48) - nine, one, three
+- `b1ch19:16` (Tag 48) - fifty
+- `b1ch19:162` (Tag 48) - three, twenty
+- `b1ch19:176` (Tag 48) - fifty-one
+- `b1ch19:186` (Tag 48) - two
+- `b1ch19:198` (Tag 48) - two
+- `b1ch19:224` (Tag 48) - one
+- `b1ch19:302` (Tag 48) - one
+- `b1ch19:312` (Tag 48) - five
+- `b1ch19:318` (Tag 48) - two
+- `b1ch21:108` (Tag 49) - nine, seven, seventy-eight
+- `b1ch21:218` (Tag 49) - seven
+- `b1ch21:220` (Tag 49) - eight, nine, one, seven
+- `b1ch21:418` (Tag 49) - six
+- `b1ch23:188` (Tag 55) - four
+- `b1ch24:106` (Tag 55) - one
+- `b1ch25:58` (Tag 59) - one, three
+- `b1ch25:66` (Tag 59) - three
+- `b1ch25:240` (Tag 59) - two
+- `b1ch25:264` (Tag 59) - nine
+- `b1ch26:50` (Tag 3) - one, two
+- `b1ch26:118` (Tag 6) - seven
+- `b1ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
+- `b1ch27:58` (Tag 7) - one, seven, three, two
+- `b1ch27:118` (Tag 9) - four, three
+- `b1ch27:162` (Tag 9) - one, seven
+- `b1ch27:184` (Tag 9) - four, ninety, seven, three
+- `b1ch27:294` (Tag 9) - four, six
+- `b1ch28:66` (Tag ?) - seven
+- `b1ch28:146` (Tag ?) - four, one, two
+- `b1ch29:40` (Tag 74) - four, seven
+- `b1ch29:46` (Tag 74) - seventy-eight
+- `b1ch29:56` (Tag 74) - forty
+- `b1ch29:104` (Tag 74) - two
+- `b1ch29:134` (Tag 74) - nine
+- `b1ch29:158` (Tag 74) - two
+- `b1ch30:32` (Tag 74) - seventy-eight
+- `b1ch30:162` (Tag 74) - one
+- `b1ch30:410` (Tag 74) - one
+- `b1ch31:24` (Tag 74) - four, twenty-nine
+- `b1ch31:28` (Tag 74) - four, three
+- `b1ch31:34` (Tag 74) - four, one, three
+- `b1ch31:92` (Tag 74) - nine, seven, six, twelve, two
+- `b1ch31:228` (Tag 74) - one
+- `b1ch31:322` (Tag 5) - eight, seventy-eight, two
+- `b1ch31:338` (Tag 5) - eleven, twenty-two
+- `b1ch31:368` (Tag 5) - nine
+- `b1ch31:386` (Tag 5) - one
+- `b1ch32:98` (Tag ?) - four, two
+- `b1ch34:46` (Tag 46) - seven, two
 
 ---
 
@@ -894,129 +893,129 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch10:228 | Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in.. |
-| 22 | ch10:244 | The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enj.. |
-| 22 | ch10:246 | He gave him the wide one and it went nowhere. He asked him a question about a route into.. |
-| 22 | ch10:252 | None of them were about business and none of them were conversation. They were the quest.. |
-| 22 | ch10:258 | "You're the adviser," Sang-hoon said, eventually. |
-| 22 | ch10:270 | "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?" |
-| 22 | ch10:276 | He did not know. That was the whole of it and Georgij went over it twice while he was dr.. |
-| 22 | ch10:292 | Sang-hoon's eyebrows went up about a millimetre. |
-| 22 | ch10:304 | Sang-hoon laughed. |
-| 22 | ch10:312 | "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary." |
-| 22 | ch10:328 | Park Sang-hoon looked at him for slightly longer than he had looked at him all evening. |
-| 22 | ch10:340 | Sang-hoon considered that. |
-| 22 | ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
-| 22 | ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
-| 22 | ch11:142 | Then Sang-hoon, because Sang-hoon had been last. |
-| 22 | ch11:148 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
-| 27 | ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
-| 34 | ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
-| 34 | ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
-| 34 | ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
-| 41 | ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
-| 46 | ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
-| 46 | ch16:16 | Sang-hoon was already there. |
-| 46 | ch16:34 | "You ask people to guide you," said Sang-hoon. |
-| 46 | ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
-| 46 | ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
-| 46 | ch16:90 | Park Sang-hoon had his glass halfway up and put it back down on the cloth. |
-| 46 | ch16:100 | He did not explain it and he did not say the other four words that were available. Sang-.. |
-| 46 | ch16:102 | Sang-hoon poured himself water. |
-| 46 | ch16:126 | Sang-hoon nodded once and went on eating, and it went past like a car. |
-| 46 | ch16:142 | "She does," said Sang-hoon, to nobody in particular, and ate. |
-| 46 | ch16:162 | Sang-hoon put his glass down. |
-| 46 | ch16:180 | Park Sang-hoon looked at him for slightly too long. |
-| 46 | ch16:192 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
-| 46 | ch16:202 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
-| 46 | ch16:212 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
-| 46 | ch16:228 | Sang-hoon did not touch it. |
-| 46 | ch16:238 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
-| 46 | ch16:244 | Park Sang-hoon looked at him for some time. |
-| 46 | ch16:254 | "Go on," said Sang-hoon. |
-| 46 | ch16:258 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
-| 46 | ch16:274 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
-| 46 | ch16:284 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
-| 46 | ch16:298 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
-| 46 | ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
-| 46 | ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
-| 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
-| 46 | ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
-| 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
-| 48 | ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
-| 48 | ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
-| 48 | ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
-| 48 | ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
-| 55 | ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
-| 55 | ch22:34 | Sang-hoon stopped in the hall. |
-| 55 | ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
-| 55 | ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
-| 55 | ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
-| 55 | ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
-| 55 | ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
-| 55 | ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
-| 55 | ch22:138 | "Well," said Sang-hoon. |
-| 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
-| 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
-| 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
-| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
-| 7 | ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
-| 7 | ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
-| 7 | ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
-| 7 | ch33:98 | Sang-hoon did not smile. |
-| 7 | ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
-| 7 | ch33:134 | "Then spend it," said Park Sang-hoon. |
-| 7 | ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
-| 7 | ch33:164 | Then Park Sang-hoon laughed. |
-| 7 | ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
-| 7 | ch33:190 | "And in that quarter," said Sang-hoon. |
-| 7 | ch33:208 | Sang-hoon looked at him for some time. |
-| 7 | ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
-| 7 | ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
-| 7 | ch33:238 | Park Sang-hoon turned round then. |
-| 7 | ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
-| 46 | ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
+| 22 | b1ch10:228 | Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in.. |
+| 22 | b1ch10:244 | The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enj.. |
+| 22 | b1ch10:246 | He gave him the wide one and it went nowhere. He asked him a question about a route into.. |
+| 22 | b1ch10:252 | None of them were about business and none of them were conversation. They were the quest.. |
+| 22 | b1ch10:258 | "You're the adviser," Sang-hoon said, eventually. |
+| 22 | b1ch10:270 | "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?" |
+| 22 | b1ch10:276 | He did not know. That was the whole of it and Georgij went over it twice while he was dr.. |
+| 22 | b1ch10:292 | Sang-hoon's eyebrows went up about a millimetre. |
+| 22 | b1ch10:304 | Sang-hoon laughed. |
+| 22 | b1ch10:312 | "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary." |
+| 22 | b1ch10:328 | Park Sang-hoon looked at him for slightly longer than he had looked at him all evening. |
+| 22 | b1ch10:340 | Sang-hoon considered that. |
+| 22 | b1ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
+| 22 | b1ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
+| 22 | b1ch11:142 | Then Sang-hoon, because Sang-hoon had been last. |
+| 22 | b1ch11:148 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
+| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 34 | b1ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
+| 34 | b1ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
+| 34 | b1ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
+| 41 | b1ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | b1ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
+| 46 | b1ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
+| 46 | b1ch16:16 | Sang-hoon was already there. |
+| 46 | b1ch16:34 | "You ask people to guide you," said Sang-hoon. |
+| 46 | b1ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
+| 46 | b1ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
+| 46 | b1ch16:90 | Park Sang-hoon had his glass halfway up and put it back down on the cloth. |
+| 46 | b1ch16:100 | He did not explain it and he did not say the other four words that were available. Sang-.. |
+| 46 | b1ch16:102 | Sang-hoon poured himself water. |
+| 46 | b1ch16:126 | Sang-hoon nodded once and went on eating, and it went past like a car. |
+| 46 | b1ch16:142 | "She does," said Sang-hoon, to nobody in particular, and ate. |
+| 46 | b1ch16:162 | Sang-hoon put his glass down. |
+| 46 | b1ch16:180 | Park Sang-hoon looked at him for slightly too long. |
+| 46 | b1ch16:192 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | b1ch16:202 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
+| 46 | b1ch16:212 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | b1ch16:228 | Sang-hoon did not touch it. |
+| 46 | b1ch16:238 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | b1ch16:244 | Park Sang-hoon looked at him for some time. |
+| 46 | b1ch16:254 | "Go on," said Sang-hoon. |
+| 46 | b1ch16:258 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | b1ch16:274 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | b1ch16:284 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | b1ch16:298 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | b1ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | b1ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | b1ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
+| 48 | b1ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
+| 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
+| 48 | b1ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
+| 48 | b1ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
+| 48 | b1ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | b1ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
+| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
+| 55 | b1ch22:34 | Sang-hoon stopped in the hall. |
+| 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
+| 55 | b1ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
+| 55 | b1ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
+| 55 | b1ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
+| 55 | b1ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
+| 55 | b1ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
+| 55 | b1ch22:138 | "Well," said Sang-hoon. |
+| 55 | b1ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
+| 59 | b1ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
+| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 7 | b1ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | b1ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
+| 7 | b1ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
+| 7 | b1ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
+| 7 | b1ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
+| 7 | b1ch33:98 | Sang-hoon did not smile. |
+| 7 | b1ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
+| 7 | b1ch33:134 | "Then spend it," said Park Sang-hoon. |
+| 7 | b1ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
+| 7 | b1ch33:164 | Then Park Sang-hoon laughed. |
+| 7 | b1ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
+| 7 | b1ch33:190 | "And in that quarter," said Sang-hoon. |
+| 7 | b1ch33:208 | Sang-hoon looked at him for some time. |
+| 7 | b1ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
+| 7 | b1ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
+| 7 | b1ch33:238 | Park Sang-hoon turned round then. |
+| 7 | b1ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
-- `ch10:228` (Tag 22) - eleven, ten, two
-- `ch10:244` (Tag 22) - forty
-- `ch10:246` (Tag 22) - fourteen, one
-- `ch10:252` (Tag 22) - four
-- `ch10:276` (Tag 22) - nine, six
-- `ch10:346` (Tag 22) - ninety, one
-- `ch13:194` (Tag 27) - one, three
-- `ch14:136` (Tag 34) - eighteen, eleven
-- `ch14:148` (Tag 34) - one, three
-- `ch16:100` (Tag 46) - four
-- `ch16:192` (Tag 46) - two
-- `ch16:202` (Tag 46) - one, ten
-- `ch16:212` (Tag 46) - eighteen, two
-- `ch16:238` (Tag 46) - four, two
-- `ch16:258` (Tag 46) - one
-- `ch16:284` (Tag 46) - nineteen
-- `ch16:344` (Tag 46) - four
-- `ch17:8` (Tag 46) - one, twelve, two
-- `ch17:68` (Tag 46) - one
-- `ch18:70` (Tag 48) - four
-- `ch18:226` (Tag 48) - one, three
-- `ch18:250` (Tag 48) - ten, three
-- `ch19:290` (Tag 48) - one
-- `ch22:54` (Tag 55) - fifteen
-- `ch22:66` (Tag 55) - six, two
-- `ch23:28` (Tag 55) - four
-- `ch25:304` (Tag 59) - forty, seven, twelve
-- `ch30:410` (Tag 74) - one
-- `ch31:228` (Tag 74) - one
-- `ch33:48` (Tag 7) - ten, thirty-one
-- `ch33:152` (Tag 7) - eleven, one
-- `ch33:228` (Tag 7) - two, two hundred million
-- `ch33:270` (Tag 7) - eleven, forty
-- `ch34:130` (Tag 46) - one
+- `b1ch10:228` (Tag 22) - eleven, ten, two
+- `b1ch10:244` (Tag 22) - forty
+- `b1ch10:246` (Tag 22) - fourteen, one
+- `b1ch10:252` (Tag 22) - four
+- `b1ch10:276` (Tag 22) - nine, six
+- `b1ch10:346` (Tag 22) - ninety, one
+- `b1ch13:194` (Tag 27) - one, three
+- `b1ch14:136` (Tag 34) - eighteen, eleven
+- `b1ch14:148` (Tag 34) - one, three
+- `b1ch16:100` (Tag 46) - four
+- `b1ch16:192` (Tag 46) - two
+- `b1ch16:202` (Tag 46) - one, ten
+- `b1ch16:212` (Tag 46) - eighteen, two
+- `b1ch16:238` (Tag 46) - four, two
+- `b1ch16:258` (Tag 46) - one
+- `b1ch16:284` (Tag 46) - nineteen
+- `b1ch16:344` (Tag 46) - four
+- `b1ch17:8` (Tag 46) - one, twelve, two
+- `b1ch17:68` (Tag 46) - one
+- `b1ch18:70` (Tag 48) - four
+- `b1ch18:226` (Tag 48) - one, three
+- `b1ch18:250` (Tag 48) - ten, three
+- `b1ch19:290` (Tag 48) - one
+- `b1ch22:54` (Tag 55) - fifteen
+- `b1ch22:66` (Tag 55) - six, two
+- `b1ch23:28` (Tag 55) - four
+- `b1ch25:304` (Tag 59) - forty, seven, twelve
+- `b1ch30:410` (Tag 74) - one
+- `b1ch31:228` (Tag 74) - one
+- `b1ch33:48` (Tag 7) - ten, thirty-one
+- `b1ch33:152` (Tag 7) - eleven, one
+- `b1ch33:228` (Tag 7) - two, two hundred million
+- `b1ch33:270` (Tag 7) - eleven, forty
+- `b1ch34:130` (Tag 46) - one
 
 ---
 
@@ -1026,103 +1025,103 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
-| 4 | ch05:26 | By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a w.. |
-| 4 | ch05:30 | "Mr Jang. My name is Georgij." |
-| 4 | ch05:32 | "I know your name." Jang did not get up, and he did not pretend to be busy either. He tu.. |
-| 4 | ch05:36 | Jang looked at him. |
-| 4 | ch05:46 | Jang sat with that for a moment. There was a mug of instant coffee on the desk and he ha.. |
-| 4 | ch05:52 | "The gravel's been raked twice and there's still a stain under the second layer." Jang s.. |
-| 4 | ch05:62 | Jang looked at the sheets for a moment. Then he picked them up and read them, properly, .. |
-| 4 | ch05:74 | Jang put the sheets down. |
-| 4 | ch05:80 | "Second Wednesday of the month," Jang said. "The glass." |
-| 4 | ch05:84 | "I saw the anchors from the lawn this morning." Jang put the mug down properly. "That on.. |
-| 4 | ch05:92 | Jang read page six again. |
-| 4 | ch05:102 | Jang's chin came up half a centimetre. |
-| 4 | ch05:110 | Jang squared the nine sheets on the desk. |
-| 4 | ch05:122 | He walked the house with Jang for two hours and told him what he had and answered what h.. |
-| 4 | ch05:124 | By the end of it Jang had stopped calling him nothing at all and had started calling him.. |
-| 6 | ch05:188 | He put it at the top of what he was keeping for Jang, above the night man and above ever.. |
-| 22 | ch06:136 | At six Jang came to find him in the east room. |
-| 22 | ch06:146 | Jang stood in the doorway for a moment. |
-| 22 | ch11:10 | There was a second car waiting at the top of the ramp with two of Jang's people in it, a.. |
-| 23 | ch12:28 | Jang came up from the security office at nine with two sheets of paper. |
-| 23 | ch12:34 | Two of Jang's men on the cars. One inside the building who had not gone within forty met.. |
-| 23 | ch12:38 | "Three of those are drivers waiting," said Jang. "The fourth is a private hire that sat .. |
-| 23 | ch12:46 | "Mr Jang." |
-| 23 | ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
-| 27 | ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
-| 27 | ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:226 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
-| 41 | ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
-| 46 | ch16:10 | Jang's two men came as far as the lifts and no further. |
-| 46 | ch17:242 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
-| 46 | ch17:260 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
-| 48 | ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
-| 48 | ch18:10 | Jang brought it up himself. |
-| 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
-| 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
-| 55 | ch22:254 | Jang was at the inner door, and had been at the inner door for the whole of it, and had .. |
-| 55 | ch22:258 | "Yes," said Jang. |
-| 55 | ch22:262 | Jang took the packet out of his coat and a lighter out of the same pocket and put both o.. |
-| 55 | ch22:266 | "Keep the lighter," said Jang. |
-| 55 | ch22:276 | He had shown it to Jang on the fourth day, on the words *show me now*, and it had gone i.. |
-| 55 | ch22:286 | He stood in front of the roses for a while and smoked one of Jang's cigarettes all the w.. |
-| 55 | ch23:88 | Jang got there six minutes later. |
-| 55 | ch23:92 | "Mr Jang." |
-| 55 | ch23:98 | Jang stood there. |
-| 55 | ch23:108 | "I know what you have," said Jang. "I read the file before I took the job." |
-| 55 | ch23:116 | Then Georgij took the bottle and poured the second cup for Jang, with both hands, the wa.. |
-| 55 | ch23:118 | Jang looked at the cup and then at the man holding the bottle. |
-| 55 | ch23:124 | Jang drank it. |
-| 55 | ch23:132 | "She was already in the car." Jang put his cup down on the rail. "Since about ten past n.. |
-| 55 | ch23:144 | Jang refilled his own cup and did not offer the bottle. |
-| 55 | ch23:150 | "Everybody who has ever walked that fence in daylight knows about the garages." Jang dra.. |
-| 55 | ch23:160 | "I put it in again in my third week, because you do, and she said no again and did not g.. |
-| 55 | ch23:168 | "And you went over the east lawn instead," said Jang, "in front of the one camera in tha.. |
-| 55 | ch23:174 | "I am not going to ask you why," said Jang. "I would like to be clear that I know it was.. |
-| 55 | ch23:184 | Jang picked up the bottle and put his cup in his pocket. |
-| 55 | ch23:186 | "Mr Jang." |
-| 55 | ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
-| 7 | ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
-| 7 | ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
-| 46 | ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
-| 46 | ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
+| 4 | b1ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
+| 4 | b1ch05:26 | By ten o'clock Jang had asked for the camera schedule and had been told there wasn't a w.. |
+| 4 | b1ch05:30 | "Mr Jang. My name is Georgij." |
+| 4 | b1ch05:32 | "I know your name." Jang did not get up, and he did not pretend to be busy either. He tu.. |
+| 4 | b1ch05:36 | Jang looked at him. |
+| 4 | b1ch05:46 | Jang sat with that for a moment. There was a mug of instant coffee on the desk and he ha.. |
+| 4 | b1ch05:52 | "The gravel's been raked twice and there's still a stain under the second layer." Jang s.. |
+| 4 | b1ch05:62 | Jang looked at the sheets for a moment. Then he picked them up and read them, properly, .. |
+| 4 | b1ch05:74 | Jang put the sheets down. |
+| 4 | b1ch05:80 | "Second Wednesday of the month," Jang said. "The glass." |
+| 4 | b1ch05:84 | "I saw the anchors from the lawn this morning." Jang put the mug down properly. "That on.. |
+| 4 | b1ch05:92 | Jang read page six again. |
+| 4 | b1ch05:102 | Jang's chin came up half a centimetre. |
+| 4 | b1ch05:110 | Jang squared the nine sheets on the desk. |
+| 4 | b1ch05:122 | He walked the house with Jang for two hours and told him what he had and answered what h.. |
+| 4 | b1ch05:124 | By the end of it Jang had stopped calling him nothing at all and had started calling him.. |
+| 6 | b1ch05:188 | He put it at the top of what he was keeping for Jang, above the night man and above ever.. |
+| 22 | b1ch06:136 | At six Jang came to find him in the east room. |
+| 22 | b1ch06:146 | Jang stood in the doorway for a moment. |
+| 22 | b1ch11:10 | There was a second car waiting at the top of the ramp with two of Jang's people in it, a.. |
+| 23 | b1ch12:28 | Jang came up from the security office at nine with two sheets of paper. |
+| 23 | b1ch12:34 | Two of Jang's men on the cars. One inside the building who had not gone within forty met.. |
+| 23 | b1ch12:38 | "Three of those are drivers waiting," said Jang. "The fourth is a private hire that sat .. |
+| 23 | b1ch12:46 | "Mr Jang." |
+| 23 | b1ch12:56 | Jang collected his two sheets, and squared them, and did not look particularly pleased, .. |
+| 27 | b1ch13:40 | Jang had left him four registration plates and had declined, correctly, to telephone a h.. |
+| 27 | b1ch13:80 | He went down and gave Jang the account number, and the company, and all four of the date.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:226 | "No. It is a parked car and a company that exists in order not to be a name." Georgij pu.. |
+| 41 | b1ch15:436 | "Take Jang's people to the door and not through it. Come home afterwards and not in the .. |
+| 46 | b1ch16:10 | Jang's two men came as far as the lifts and no further. |
+| 46 | b1ch17:242 | "On my fourth day I gave Mr Jang nine sheets with every weakness in this building writte.. |
+| 46 | b1ch17:260 | And she had known since October what he had left off Jang's paper. She had carried it fo.. |
+| 48 | b1ch18:8 | A man brought it to the gate in a plain envelope with nothing written on the outside, ga.. |
+| 48 | b1ch18:10 | Jang brought it up himself. |
+| 55 | b1ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
+| 55 | b1ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | b1ch22:254 | Jang was at the inner door, and had been at the inner door for the whole of it, and had .. |
+| 55 | b1ch22:258 | "Yes," said Jang. |
+| 55 | b1ch22:262 | Jang took the packet out of his coat and a lighter out of the same pocket and put both o.. |
+| 55 | b1ch22:266 | "Keep the lighter," said Jang. |
+| 55 | b1ch22:276 | He had shown it to Jang on the fourth day, on the words *show me now*, and it had gone i.. |
+| 55 | b1ch22:286 | He stood in front of the roses for a while and smoked one of Jang's cigarettes all the w.. |
+| 55 | b1ch23:88 | Jang got there six minutes later. |
+| 55 | b1ch23:92 | "Mr Jang." |
+| 55 | b1ch23:98 | Jang stood there. |
+| 55 | b1ch23:108 | "I know what you have," said Jang. "I read the file before I took the job." |
+| 55 | b1ch23:116 | Then Georgij took the bottle and poured the second cup for Jang, with both hands, the wa.. |
+| 55 | b1ch23:118 | Jang looked at the cup and then at the man holding the bottle. |
+| 55 | b1ch23:124 | Jang drank it. |
+| 55 | b1ch23:132 | "She was already in the car." Jang put his cup down on the rail. "Since about ten past n.. |
+| 55 | b1ch23:144 | Jang refilled his own cup and did not offer the bottle. |
+| 55 | b1ch23:150 | "Everybody who has ever walked that fence in daylight knows about the garages." Jang dra.. |
+| 55 | b1ch23:160 | "I put it in again in my third week, because you do, and she said no again and did not g.. |
+| 55 | b1ch23:168 | "And you went over the east lawn instead," said Jang, "in front of the one camera in tha.. |
+| 55 | b1ch23:174 | "I am not going to ask you why," said Jang. "I would like to be clear that I know it was.. |
+| 55 | b1ch23:184 | Jang picked up the bottle and put his cup in his pocket. |
+| 55 | b1ch23:186 | "Mr Jang." |
+| 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 7 | b1ch33:12 | The gate opened for him. Jang was in the hall and did not need to be. |
+| 7 | b1ch33:150 | Jang, in the hall, would say afterwards that he heard nothing and had not been listening.. |
+| 46 | b1ch34:48 | Georgij heard about it four days later from Jang, who had it from a man on the gate. |
+| 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
 
 ### Zahlen in der Naehe von Jang
 
-- `ch05:24` (Tag 4) - eight, four, two
-- `ch05:26` (Tag 4) - eleven, one, ten
-- `ch05:32` (Tag 4) - four
-- `ch05:62` (Tag 4) - eleven
-- `ch05:84` (Tag 4) - one
-- `ch05:92` (Tag 4) - six
-- `ch05:110` (Tag 4) - nine
-- `ch05:122` (Tag 4) - two
-- `ch06:136` (Tag 22) - six
-- `ch11:10` (Tag 22) - two
-- `ch12:28` (Tag 23) - nine, two
-- `ch12:34` (Tag 23) - forty, one, two
-- `ch12:38` (Tag 23) - eight, eleven forty, three
-- `ch12:56` (Tag 23) - two
-- `ch13:40` (Tag 27) - four
-- `ch13:80` (Tag 27) - four
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch15:226` (Tag 41) - four, three
-- `ch16:10` (Tag 46) - two
-- `ch17:242` (Tag 46) - nine, three
-- `ch17:260` (Tag 46) - six
-- `ch18:8` (Tag 48) - one
-- `ch22:286` (Tag 55) - one
-- `ch23:88` (Tag 55) - six
-- `ch23:132` (Tag 55) - nine, ten
-- `ch23:150` (Tag 55) - one, two
-- `ch23:160` (Tag 55) - two
-- `ch23:168` (Tag 55) - one
-- `ch23:188` (Tag 55) - four
-- `ch34:48` (Tag 46) - four
-- `ch34:98` (Tag 46) - four
+- `b1ch05:24` (Tag 4) - eight, four, two
+- `b1ch05:26` (Tag 4) - eleven, one, ten
+- `b1ch05:32` (Tag 4) - four
+- `b1ch05:62` (Tag 4) - eleven
+- `b1ch05:84` (Tag 4) - one
+- `b1ch05:92` (Tag 4) - six
+- `b1ch05:110` (Tag 4) - nine
+- `b1ch05:122` (Tag 4) - two
+- `b1ch06:136` (Tag 22) - six
+- `b1ch11:10` (Tag 22) - two
+- `b1ch12:28` (Tag 23) - nine, two
+- `b1ch12:34` (Tag 23) - forty, one, two
+- `b1ch12:38` (Tag 23) - eight, eleven forty, three
+- `b1ch12:56` (Tag 23) - two
+- `b1ch13:40` (Tag 27) - four
+- `b1ch13:80` (Tag 27) - four
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch15:226` (Tag 41) - four, three
+- `b1ch16:10` (Tag 46) - two
+- `b1ch17:242` (Tag 46) - nine, three
+- `b1ch17:260` (Tag 46) - six
+- `b1ch18:8` (Tag 48) - one
+- `b1ch22:286` (Tag 55) - one
+- `b1ch23:88` (Tag 55) - six
+- `b1ch23:132` (Tag 55) - nine, ten
+- `b1ch23:150` (Tag 55) - one, two
+- `b1ch23:160` (Tag 55) - two
+- `b1ch23:168` (Tag 55) - one
+- `b1ch23:188` (Tag 55) - four
+- `b1ch34:48` (Tag 46) - four
+- `b1ch34:98` (Tag 46) - four
 
 ---
 
@@ -1132,85 +1131,85 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 1 | ch03:34 | "I am Mrs Seo. I run the house." |
-| 1 | ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
-| 1 | ch03:52 | Mrs Seo looked at him for a moment. |
-| 1 | ch03:56 | "Of course. Forgive me." He let it go where she had put it, and did not go back for it. .. |
-| 1 | ch03:76 | "At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being aske.. |
-| 1 | ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | ch03:164 | "Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anyth.. |
-| 1 | ch03:166 | "Then that will do." Georgij put his hands in his pockets, which took him out of the doo.. |
-| 1 | ch03:246 | "I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She.. |
-| 1 | ch03:282 | She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywh.. |
-| 2 | ch04:20 | He went down at five to seven, because Mrs Seo had said seven. |
-| 2 | ch04:34 | She looked at Mrs Seo, who did not look up from the stove. |
-| 2 | ch04:36 | "Anywhere at that end," Mrs Seo said. |
-| 2 | ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
-| 2 | ch04:58 | "Good morning, ma'am," said Mrs Seo, after a pause of about half a second that Georgij w.. |
-| 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
-| 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
-| 2 | ch04:74 | Mrs Seo wiped the same part of the counter twice. Then she said, without turning round a.. |
-| 4 | ch05:130 | That evening Mrs Seo sent a fresh pot down to the small office off the garage passage wi.. |
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | ch05:146 | Breakfast was the one place the money did not show, and only because Mrs Seo had taken t.. |
-| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
-| 9 | ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
-| 22 | ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
-| 22 | ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
-| 22 | ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
-| 22 | ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
-| 22 | ch06:170 | Mrs Seo stepped back. |
-| 22 | ch06:174 | "Yes, Mrs Seo." |
-| 22 | ch11:280 | Mrs Seo had left the hall light on and gone to bed. |
-| 23 | ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
-| 27 | ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
-| 27 | ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
-| 46 | ch17:208 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
-| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
-| 49 | ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
-| 55 | ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
-| 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
-| 55 | ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
-| 55 | ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | ch24:364 | Mrs Seo had the small room off the long one laid for two. |
-| 59 | ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
-| 1 | ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
-| 74 | ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
-| 74 | ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 1 | b1ch03:34 | "I am Mrs Seo. I run the house." |
+| 1 | b1ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
+| 1 | b1ch03:52 | Mrs Seo looked at him for a moment. |
+| 1 | b1ch03:56 | "Of course. Forgive me." He let it go where she had put it, and did not go back for it. .. |
+| 1 | b1ch03:76 | "At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being aske.. |
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:164 | "Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anyth.. |
+| 1 | b1ch03:166 | "Then that will do." Georgij put his hands in his pockets, which took him out of the doo.. |
+| 1 | b1ch03:246 | "I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She.. |
+| 1 | b1ch03:282 | She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywh.. |
+| 2 | b1ch04:20 | He went down at five to seven, because Mrs Seo had said seven. |
+| 2 | b1ch04:34 | She looked at Mrs Seo, who did not look up from the stove. |
+| 2 | b1ch04:36 | "Anywhere at that end," Mrs Seo said. |
+| 2 | b1ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
+| 2 | b1ch04:58 | "Good morning, ma'am," said Mrs Seo, after a pause of about half a second that Georgij w.. |
+| 2 | b1ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
+| 2 | b1ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
+| 2 | b1ch04:74 | Mrs Seo wiped the same part of the counter twice. Then she said, without turning round a.. |
+| 4 | b1ch05:130 | That evening Mrs Seo sent a fresh pot down to the small office off the garage passage wi.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:146 | Breakfast was the one place the money did not show, and only because Mrs Seo had taken t.. |
+| 9 | b1ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 9 | b1ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
+| 22 | b1ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
+| 22 | b1ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
+| 22 | b1ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
+| 22 | b1ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
+| 22 | b1ch06:170 | Mrs Seo stepped back. |
+| 22 | b1ch06:174 | "Yes, Mrs Seo." |
+| 22 | b1ch11:280 | Mrs Seo had left the hall light on and gone to bed. |
+| 23 | b1ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
+| 27 | b1ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
+| 27 | b1ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
+| 46 | b1ch17:208 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 49 | b1ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
+| 49 | b1ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
+| 55 | b1ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
+| 55 | b1ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
+| 55 | b1ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | b1ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
+| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | b1ch24:364 | Mrs Seo had the small room off the long one laid for two. |
+| 59 | b1ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
+| 1 | b1ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
+| 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
+| 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
+| 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
-- `ch03:44` (Tag 1) - one, seven, two
-- `ch03:56` (Tag 1) - four
-- `ch03:150` (Tag 1) - forty
-- `ch03:166` (Tag 1) - one, three, two
-- `ch04:20` (Tag 2) - five, seven
-- `ch04:62` (Tag 2) - one
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch05:146` (Tag 6) - nine, one
-- `ch05:196` (Tag 9) - nine, seven
-- `ch05:198` (Tag 9) - eight, two
-- `ch06:6` (Tag 22) - nine
-- `ch06:18` (Tag 22) - seven, six
-- `ch06:160` (Tag 22) - six, twenty
-- `ch06:166` (Tag 22) - nine, one
-- `ch12:8` (Tag 23) - four, nine
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch15:22` (Tag 41) - one, three
-- `ch20:16` (Tag 49) - nine
-- `ch21:12` (Tag 49) - six
-- `ch22:38` (Tag 55) - two
-- `ch22:280` (Tag 55) - eleven
-- `ch24:44` (Tag 55) - eight, one
-- `ch24:364` (Tag 55) - one, two
-- `ch25:8` (Tag 59) - one, two
-- `ch28:230` (Tag 1) - one
-- `ch31:68` (Tag 74) - one, three
-- `ch33:422` (Tag 7) - six
+- `b1ch03:44` (Tag 1) - one, seven, two
+- `b1ch03:56` (Tag 1) - four
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch03:166` (Tag 1) - one, three, two
+- `b1ch04:20` (Tag 2) - five, seven
+- `b1ch04:62` (Tag 2) - one
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:146` (Tag 6) - nine, one
+- `b1ch05:196` (Tag 9) - nine, seven
+- `b1ch05:198` (Tag 9) - eight, two
+- `b1ch06:6` (Tag 22) - nine
+- `b1ch06:18` (Tag 22) - seven, six
+- `b1ch06:160` (Tag 22) - six, twenty
+- `b1ch06:166` (Tag 22) - nine, one
+- `b1ch12:8` (Tag 23) - four, nine
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch15:22` (Tag 41) - one, three
+- `b1ch20:16` (Tag 49) - nine
+- `b1ch21:12` (Tag 49) - six
+- `b1ch22:38` (Tag 55) - two
+- `b1ch22:280` (Tag 55) - eleven
+- `b1ch24:44` (Tag 55) - eight, one
+- `b1ch24:364` (Tag 55) - one, two
+- `b1ch25:8` (Tag 59) - one, two
+- `b1ch28:230` (Tag 1) - one
+- `b1ch31:68` (Tag 74) - one, three
+- `b1ch33:422` (Tag 7) - six
 
 ---
 
@@ -1220,73 +1219,73 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 31 | ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
-| 41 | ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
-| 41 | ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
-| 41 | ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
-| 41 | ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
-| 46 | ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
-| 48 | ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
-| 49 | ch21:64 | "Ye-rin." |
-| 49 | ch21:66 | "Ye-rin." |
-| 49 | ch21:110 | "And Ye-rin?" |
-| 49 | ch21:112 | "Ye-rin comes at nine, if she comes." |
-| 49 | ch21:120 | "Ye-rin comes at nine." |
-| 49 | ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
-| 74 | ch29:230 | Kim Ye-rin looked at the room. |
-| 74 | ch30:60 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
-| 74 | ch30:94 | Ye-rin did not blink. |
-| 74 | ch30:126 | Kim Ye-rin said nothing at all. |
-| 74 | ch30:172 | Ye-rin did not move for a long time. |
-| 74 | ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
-| 74 | ch30:248 | Kim Ye-rin looked out at the black garden. |
-| 74 | ch30:274 | Ye-rin considered him for a moment. |
-| 74 | ch30:308 | Kim Ye-rin let the wind have a moment of it. |
-| 74 | ch30:350 | Ye-rin did not say anything. |
-| 74 | ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
-| 74 | ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
-| 74 | ch30:414 | Kim Ye-rin stood with her hand on the door. |
-| 74 | ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
-| 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | ch31:118 | He told her about the sentence he had refused to build, which was the reason to agree, a.. |
-| 74 | ch31:140 | Then the two things Ye-rin had wanted to buy with. |
-| 74 | ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
-| 5 | ch31:328 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
-| - | ch32:34 | Kim Ye-rin sat on the long side, third chair from the window, facing the door. |
-| - | ch32:84 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
-| - | ch32:154 | Then every person at that table turned and looked at Kim Ye-rin. |
-| - | ch32:176 | "You did not tell me," said Kim Ye-rin. |
-| - | ch32:180 | "It was twice, Ye-rin. In Busan and then in a hotel in Daejeon. It was not something I w.. |
-| - | ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
-| - | ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
-| - | ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
-| 7 | ch33:218 | "Ye-rin." |
-| 46 | ch34:56 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
+| 31 | b1ch14:18 | The quiet woman at the back of the group was Kim Ye-rin. Fifty-four. No seat on the boar.. |
+| 41 | b1ch15:36 | The Kims first, with names on the faces, because that was the piece that had been missin.. |
+| 41 | b1ch15:42 | "Ye-rin. Of course it is Ye-rin." She was delighted in a way that was not about Georgij... |
+| 41 | b1ch15:366 | "Tonight there is nothing to put on paper. There is no company, no money in it, no signa.. |
+| 41 | b1ch15:398 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
+| 46 | b1ch17:76 | "You already know there is no majority for him to buy, and you know Ye-rin has held thos.. |
+| 48 | b1ch18:112 | "No. If he signs in the first week of December he is short from December and clear again.. |
+| 49 | b1ch21:64 | "Ye-rin." |
+| 49 | b1ch21:66 | "Ye-rin." |
+| 49 | b1ch21:110 | "And Ye-rin?" |
+| 49 | b1ch21:112 | "Ye-rin comes at nine, if she comes." |
+| 49 | b1ch21:120 | "Ye-rin comes at nine." |
+| 49 | b1ch21:216 | "Tuesday the sixteenth," she said. "Not the second week, because everybody gives theirs .. |
+| 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | b1ch21:240 | "Your chairman leaves at nine. Ye-rin arrives at nine." |
+| 74 | b1ch29:230 | Kim Ye-rin looked at the room. |
+| 74 | b1ch30:60 | "Nobody has written to me in eleven years," said Kim Ye-rin. "People telephone my brothe.. |
+| 74 | b1ch30:94 | Ye-rin did not blink. |
+| 74 | b1ch30:126 | Kim Ye-rin said nothing at all. |
+| 74 | b1ch30:172 | Ye-rin did not move for a long time. |
+| 74 | b1ch30:210 | Kim Ye-rin looked at him with something in her face that had not been there. |
+| 74 | b1ch30:248 | Kim Ye-rin looked out at the black garden. |
+| 74 | b1ch30:274 | Ye-rin considered him for a moment. |
+| 74 | b1ch30:308 | Kim Ye-rin let the wind have a moment of it. |
+| 74 | b1ch30:350 | Ye-rin did not say anything. |
+| 74 | b1ch30:378 | Kim Ye-rin stood in the cold for a while and looked at the room through the glass. |
+| 74 | b1ch30:384 | "I learned it from him. She only read." Ye-rin turned. "You are going to send me a docum.. |
+| 74 | b1ch30:414 | Kim Ye-rin stood with her hand on the door. |
+| 74 | b1ch30:428 | "Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty." |
+| 74 | b1ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
+| 74 | b1ch31:118 | He told her about the sentence he had refused to build, which was the reason to agree, a.. |
+| 74 | b1ch31:140 | Then the two things Ye-rin had wanted to buy with. |
+| 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | b1ch31:328 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
+| - | b1ch32:34 | Kim Ye-rin sat on the long side, third chair from the window, facing the door. |
+| - | b1ch32:84 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
+| - | b1ch32:154 | Then every person at that table turned and looked at Kim Ye-rin. |
+| - | b1ch32:176 | "You did not tell me," said Kim Ye-rin. |
+| - | b1ch32:180 | "It was twice, Ye-rin. In Busan and then in a hotel in Daejeon. It was not something I w.. |
+| - | b1ch32:212 | Kim Ye-rin signed last, and she signed on page eleven, and it took her about four seconds. |
+| - | b1ch32:258 | Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away .. |
+| - | b1ch32:280 | Kim Ye-rin put her gloves on, one and then the other, and took her time about it. |
+| 7 | b1ch33:218 | "Ye-rin." |
+| 46 | b1ch34:56 | Both times the six telephoned Kim Ye-rin first, the way they had for twenty years. Both .. |
 
 ### Zahlen in der Naehe von Kim Ye-rin
 
-- `ch14:18` (Tag 31) - fifty-four
-- `ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
-- `ch17:76` (Tag 46) - four, six, twenty
-- `ch18:112` (Tag 48) - one, three
-- `ch21:112` (Tag 49) - nine
-- `ch21:120` (Tag 49) - nine
-- `ch21:216` (Tag 49) - three
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch21:240` (Tag 49) - nine
-- `ch30:60` (Tag 74) - eleven
-- `ch30:428` (Tag 74) - twenty, twenty-two
-- `ch31:92` (Tag 74) - nine, seven, six, twelve, two
-- `ch31:140` (Tag 74) - two
-- `ch31:222` (Tag 74) - six
-- `ch31:328` (Tag 5) - one, six
-- `ch32:84` (Tag ?) - eleven, forty-one, one, six
-- `ch32:212` (Tag ?) - eleven, four
-- `ch32:258` (Tag ?) - twenty
-- `ch32:280` (Tag ?) - one
-- `ch34:56` (Tag 46) - eleven, six, twenty
+- `b1ch14:18` (Tag 31) - fifty-four
+- `b1ch15:36` (Tag 41) - fifty-four, sixteen, twenty-three
+- `b1ch17:76` (Tag 46) - four, six, twenty
+- `b1ch18:112` (Tag 48) - one, three
+- `b1ch21:112` (Tag 49) - nine
+- `b1ch21:120` (Tag 49) - nine
+- `b1ch21:216` (Tag 49) - three
+- `b1ch21:220` (Tag 49) - eight, nine, one, seven
+- `b1ch21:240` (Tag 49) - nine
+- `b1ch30:60` (Tag 74) - eleven
+- `b1ch30:428` (Tag 74) - twenty, twenty-two
+- `b1ch31:92` (Tag 74) - nine, seven, six, twelve, two
+- `b1ch31:140` (Tag 74) - two
+- `b1ch31:222` (Tag 74) - six
+- `b1ch31:328` (Tag 5) - one, six
+- `b1ch32:84` (Tag ?) - eleven, forty-one, one, six
+- `b1ch32:212` (Tag ?) - eleven, four
+- `b1ch32:258` (Tag ?) - twenty
+- `b1ch32:280` (Tag ?) - one
+- `b1ch34:56` (Tag 46) - eleven, six, twenty
 
 ---
 
@@ -1296,55 +1295,55 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch09:100 | Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level,.. |
-| 22 | ch09:106 | Georgij glanced at him once, and Kang did not look away and did not look interested, and.. |
-| 22 | ch10:72 | Kang Ji-hoon was standing near the north bar with a glass of water and had been for some.. |
-| 22 | ch10:78 | "Mr Kang." |
-| 22 | ch10:92 | Kang Ji-hoon waited. |
-| 22 | ch10:102 | "Of course," said Kang Ji-hoon. |
-| 22 | ch10:118 | Kang laughed, and it was the first thing his face had done all evening, and it was over .. |
-| 22 | ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
-| 22 | ch11:64 | Then Kang. |
-| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
-| 25 | ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
-| 25 | ch12:94 | Kang laughed, the same short one, over in a moment. |
-| 25 | ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
-| 25 | ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
-| 25 | ch12:124 | "That is a much better answer than the one I expected," said Kang. |
-| 25 | ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
-| 25 | ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
-| 25 | ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
-| 25 | ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 25 | ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
-| 25 | ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
-| 46 | ch17:10 | "Kang," said Annie. |
-| 49 | ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
-| 49 | ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
-| 49 | ch21:148 | "Nothing is wrong with Kang." |
-| 49 | ch21:190 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
-| 49 | ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 74 | ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
-| 74 | ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
-| 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
-| 74 | ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
-| 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 22 | b1ch09:100 | Georgij put a name to him from a photograph on a ministry page: Kang Ji-hoon, mid-level,.. |
+| 22 | b1ch09:106 | Georgij glanced at him once, and Kang did not look away and did not look interested, and.. |
+| 22 | b1ch10:72 | Kang Ji-hoon was standing near the north bar with a glass of water and had been for some.. |
+| 22 | b1ch10:78 | "Mr Kang." |
+| 22 | b1ch10:92 | Kang Ji-hoon waited. |
+| 22 | b1ch10:102 | "Of course," said Kang Ji-hoon. |
+| 22 | b1ch10:118 | Kang laughed, and it was the first thing his face had done all evening, and it was over .. |
+| 22 | b1ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
+| 22 | b1ch11:64 | Then Kang. |
+| 22 | b1ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
+| 25 | b1ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
+| 25 | b1ch12:94 | Kang laughed, the same short one, over in a moment. |
+| 25 | b1ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
+| 25 | b1ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
+| 25 | b1ch12:124 | "That is a much better answer than the one I expected," said Kang. |
+| 25 | b1ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
+| 25 | b1ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
+| 25 | b1ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
+| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 25 | b1ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
+| 25 | b1ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
+| 46 | b1ch17:10 | "Kang," said Annie. |
+| 49 | b1ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
+| 49 | b1ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
+| 49 | b1ch21:148 | "Nothing is wrong with Kang." |
+| 49 | b1ch21:190 | "Kang Ji-hoon has been sitting across tables from me since before you could have found t.. |
+| 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 74 | b1ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | b1ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
+| 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
+| 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
 
 ### Zahlen in der Naehe von Kang Ji-hoon
 
-- `ch11:74` (Tag 22) - forty-three, sixty-one
-- `ch12:86` (Tag 25) - eight, four
-- `ch12:94` (Tag 25) - one
-- `ch12:124` (Tag 25) - one
-- `ch12:168` (Tag 25) - two
-- `ch12:170` (Tag 25) - two
-- `ch21:134` (Tag 49) - forty, nine, one, three, two
-- `ch21:190` (Tag 49) - forty
-- `ch21:220` (Tag 49) - eight, nine, one, seven
-- `ch29:134` (Tag 74) - nine
-- `ch29:158` (Tag 74) - two
-- `ch31:24` (Tag 74) - four, twenty-nine
-- `ch31:28` (Tag 74) - four, three
-- `ch31:34` (Tag 74) - four, one, three
+- `b1ch11:74` (Tag 22) - forty-three, sixty-one
+- `b1ch12:86` (Tag 25) - eight, four
+- `b1ch12:94` (Tag 25) - one
+- `b1ch12:124` (Tag 25) - one
+- `b1ch12:168` (Tag 25) - two
+- `b1ch12:170` (Tag 25) - two
+- `b1ch21:134` (Tag 49) - forty, nine, one, three, two
+- `b1ch21:190` (Tag 49) - forty
+- `b1ch21:220` (Tag 49) - eight, nine, one, seven
+- `b1ch29:134` (Tag 74) - nine
+- `b1ch29:158` (Tag 74) - two
+- `b1ch31:24` (Tag 74) - four, twenty-nine
+- `b1ch31:28` (Tag 74) - four, three
+- `b1ch31:34` (Tag 74) - four, one, three
 
 ---
 
@@ -1354,50 +1353,50 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 31 | ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
-| 31 | ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
-| 31 | ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
-| 41 | ch15:152 | "And Do-yun," said Georgij. |
-| 41 | ch15:184 | "Do-yun." |
-| 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 6 | ch26:92 | The third was Kim Do-yun. |
-| 6 | ch26:136 | Kim Do-yun spoke for the first time. |
-| 6 | ch26:148 | Do-yun's face did nothing at all. |
-| 6 | ch26:198 | "You are unusually direct," said Do-yun. |
-| 6 | ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | ch26:266 | Kim Do-yun got up and went to the window. |
-| 6 | ch26:276 | Do-yun turned round. |
-| 6 | ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
-| 74 | ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
-| 74 | ch29:208 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
-| 74 | ch30:328 | "The second thing. Do-yun." |
-| 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
-| 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
-| 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
-| 74 | ch31:178 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
-| - | ch32:22 | The other was Kim Do-yun, in a good coat again, who had arrived eleven minutes early and.. |
-| - | ch32:132 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
-| - | ch32:160 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
-| - | ch32:208 | Then Do-yun. |
-| - | ch32:220 | Kim Do-yun came over to Georgij at the door while the others were standing about the way.. |
-| - | ch32:226 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
-| - | ch32:236 | Do-yun did something with his mouth that was almost a smile again. |
-| - | ch32:242 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
-| 7 | ch33:14 | Kim Do-yun was in the car and stayed in it. |
+| 31 | b1ch14:22 | The one who kept fetching drinks was Kim Do-yun. |
+| 31 | b1ch14:26 | He had been wrong about Kim Do-yun and it took him about forty seconds with the photogra.. |
+| 31 | b1ch14:48 | He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it. |
+| 41 | b1ch15:152 | "And Do-yun," said Georgij. |
+| 41 | b1ch15:184 | "Do-yun." |
+| 41 | b1ch15:186 | "Do-yun." |
+| 46 | b1ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 6 | b1ch26:92 | The third was Kim Do-yun. |
+| 6 | b1ch26:136 | Kim Do-yun spoke for the first time. |
+| 6 | b1ch26:148 | Do-yun's face did nothing at all. |
+| 6 | b1ch26:198 | "You are unusually direct," said Do-yun. |
+| 6 | b1ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | b1ch26:266 | Kim Do-yun got up and went to the window. |
+| 6 | b1ch26:276 | Do-yun turned round. |
+| 6 | b1ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 74 | b1ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
+| 74 | b1ch29:208 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
+| 74 | b1ch30:328 | "The second thing. Do-yun." |
+| 74 | b1ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
+| 74 | b1ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
+| 74 | b1ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
+| 74 | b1ch31:178 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
+| - | b1ch32:22 | The other was Kim Do-yun, in a good coat again, who had arrived eleven minutes early and.. |
+| - | b1ch32:132 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
+| - | b1ch32:160 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
+| - | b1ch32:208 | Then Do-yun. |
+| - | b1ch32:220 | Kim Do-yun came over to Georgij at the door while the others were standing about the way.. |
+| - | b1ch32:226 | "She told me on Saturday." Do-yun had his coat over his arm. "You said the day this was .. |
+| - | b1ch32:236 | Do-yun did something with his mouth that was almost a smile again. |
+| - | b1ch32:242 | "I told him what is in two newspapers." Do-yun looked at the table where the pages were... |
+| 7 | b1ch33:14 | Kim Do-yun was in the car and stayed in it. |
 
 ### Zahlen in der Naehe von Kim Do-yun
 
-- `ch14:22` (Tag 31) - one
-- `ch14:26` (Tag 31) - forty
-- `ch16:208` (Tag 46) - four hundred, one
-- `ch26:286` (Tag 6) - one
-- `ch29:78` (Tag 74) - two
-- `ch30:342` (Tag 74) - four
-- `ch31:12` (Tag 74) - one
-- `ch32:22` (Tag ?) - eleven
-- `ch32:160` (Tag ?) - one, six, twenty-nine
-- `ch32:242` (Tag ?) - two
+- `b1ch14:22` (Tag 31) - one
+- `b1ch14:26` (Tag 31) - forty
+- `b1ch16:208` (Tag 46) - four hundred, one
+- `b1ch26:286` (Tag 6) - one
+- `b1ch29:78` (Tag 74) - two
+- `b1ch30:342` (Tag 74) - four
+- `b1ch31:12` (Tag 74) - one
+- `b1ch32:22` (Tag ?) - eleven
+- `b1ch32:160` (Tag ?) - one, six, twenty-nine
+- `b1ch32:242` (Tag ?) - two
 
 ---
 
@@ -1407,56 +1406,56 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch07:226 | The education question came at twelve minutes, from a man called Hong whose name he knew.. |
-| 22 | ch07:228 | "And where were you educated?" said Mr Hong. |
-| 22 | ch07:236 | Mr Hong laughed. Then he stopped laughing, which took him about a second and a half, and.. |
-| 22 | ch07:254 | Mr Hong enjoyed that, as he was intended to. |
-| 22 | ch07:270 | Mr Hong opened his mouth to laugh a second time and then did not. It is the most flatter.. |
-| 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | ch07:282 | "He has never come to this. Nineteen years, and I have never once seen him at it." Mr Ho.. |
-| 22 | ch07:286 | "You had better not," said Mr Hong, delighted, and went away to tell somebody. |
-| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 22 | ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
-| 22 | ch09:156 | "Everybody says that. Almost nobody does it." She turned so that her back was to the min.. |
-| 22 | ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
-| 22 | ch09:244 | "It worked beautifully, and Hong has now told the story seven times, and by Friday there.. |
-| 22 | ch09:248 | Then he did the arithmetic on how many people Hong had spoken to since, and found that h.. |
-| 22 | ch11:68 | "Hong." |
-| 22 | ch11:70 | "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I sh.. |
-| 22 | ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
-| 27 | ch13:96 | Two were ordinary houses. The third was a fund whose beneficial ownership ran into a cha.. |
-| 27 | ch13:186 | "There were three of them in the room," he said. "Two were lawyers and I have forgotten .. |
-| 27 | ch13:208 | "It's the only way left. I've spent six days looking for him in filings." Georgij turned.. |
-| 27 | ch13:210 | Chairman Woo did not react to Hong Kong. |
-| 27 | ch13:256 | He had a man of about fifty who spoke English with a Hong Kong accent and Korean with no.. |
-| 27 | ch13:258 | He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had .. |
-| 46 | ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
-| 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
-| 46 | ch17:40 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
-| 46 | ch17:114 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
-| 48 | ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
-| 49 | ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
-| 55 | ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
+| 22 | b1ch07:226 | The education question came at twelve minutes, from a man called Hong whose name he knew.. |
+| 22 | b1ch07:228 | "And where were you educated?" said Mr Hong. |
+| 22 | b1ch07:236 | Mr Hong laughed. Then he stopped laughing, which took him about a second and a half, and.. |
+| 22 | b1ch07:254 | Mr Hong enjoyed that, as he was intended to. |
+| 22 | b1ch07:270 | Mr Hong opened his mouth to laugh a second time and then did not. It is the most flatter.. |
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:282 | "He has never come to this. Nineteen years, and I have never once seen him at it." Mr Ho.. |
+| 22 | b1ch07:286 | "You had better not," said Mr Hong, delighted, and went away to tell somebody. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 22 | b1ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | b1ch09:156 | "Everybody says that. Almost nobody does it." She turned so that her back was to the min.. |
+| 22 | b1ch09:240 | "When you asked Hong who to be careful of." Hana smiled at him over the glass. "Nobody a.. |
+| 22 | b1ch09:244 | "It worked beautifully, and Hong has now told the story seven times, and by Friday there.. |
+| 22 | b1ch09:248 | Then he did the arithmetic on how many people Hong had spoken to since, and found that h.. |
+| 22 | b1ch11:68 | "Hong." |
+| 22 | b1ch11:70 | "Hong. And Hana had told me thirty minutes earlier that it was a good tool and that I sh.. |
+| 22 | b1ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
+| 27 | b1ch13:96 | Two were ordinary houses. The third was a fund whose beneficial ownership ran into a cha.. |
+| 27 | b1ch13:186 | "There were three of them in the room," he said. "Two were lawyers and I have forgotten .. |
+| 27 | b1ch13:208 | "It's the only way left. I've spent six days looking for him in filings." Georgij turned.. |
+| 27 | b1ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | b1ch13:256 | He had a man of about fifty who spoke English with a Hong Kong accent and Korean with no.. |
+| 27 | b1ch13:258 | He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had .. |
+| 46 | b1ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
+| 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | b1ch17:40 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
+| 46 | b1ch17:114 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
+| 48 | b1ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
+| 49 | b1ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
+| 55 | b1ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
 
 ### Zahlen in der Naehe von Mr Hong
 
-- `ch07:226` (Tag 22) - nineteen, twelve
-- `ch07:270` (Tag 22) - nineteen, sixty-one
-- `ch07:282` (Tag 22) - nineteen, one
-- `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `ch09:48` (Tag 22) - four, nine
-- `ch09:244` (Tag 22) - four, seven
-- `ch11:70` (Tag 22) - thirty
-- `ch11:74` (Tag 22) - forty-three, sixty-one
-- `ch13:96` (Tag 27) - two
-- `ch13:186` (Tag 27) - fifty, one, three, two
-- `ch13:208` (Tag 27) - six
-- `ch13:256` (Tag 27) - fifty
-- `ch16:40` (Tag 46) - one, two
-- `ch17:8` (Tag 46) - one, twelve, two
-- `ch17:40` (Tag 46) - one, seventeen, two
-- `ch17:114` (Tag 46) - three, two
-- `ch23:224` (Tag 55) - nineteen
+- `b1ch07:226` (Tag 22) - nineteen, twelve
+- `b1ch07:270` (Tag 22) - nineteen, sixty-one
+- `b1ch07:282` (Tag 22) - nineteen, one
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b1ch09:48` (Tag 22) - four, nine
+- `b1ch09:244` (Tag 22) - four, seven
+- `b1ch11:70` (Tag 22) - thirty
+- `b1ch11:74` (Tag 22) - forty-three, sixty-one
+- `b1ch13:96` (Tag 27) - two
+- `b1ch13:186` (Tag 27) - fifty, one, three, two
+- `b1ch13:208` (Tag 27) - six
+- `b1ch13:256` (Tag 27) - fifty
+- `b1ch16:40` (Tag 46) - one, two
+- `b1ch17:8` (Tag 46) - one, twelve, two
+- `b1ch17:40` (Tag 46) - one, seventeen, two
+- `b1ch17:114` (Tag 46) - three, two
+- `b1ch23:224` (Tag 55) - nineteen
 
 ---
 
@@ -1466,40 +1465,40 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 1 | ch03:40 | "I know what you are." Not unkindly, and not kindly either. "Your room is on the first f.. |
-| 1 | ch03:54 | "Ji-won," she said, to the stairs. |
-| 1 | ch03:90 | "Ji-won. Thank you for the light. Neither of us needed it and it was still the right thi.. |
-| 2 | ch04:26 | Ji-won was laying the long table. She saw him in the doorway and put down what she was h.. |
-| 2 | ch04:50 | Ji-won stopped with a plate in each hand. |
-| 2 | ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
-| 2 | ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
-| 2 | ch04:72 | Ji-won went. |
-| 2 | ch04:90 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
-| 2 | ch04:146 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
-| 4 | ch05:126 | Ji-won came out of the kitchen twice to see it. |
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
-| 9 | ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
-| 23 | ch12:10 | Ji-won came in at ten past and said good morning and then said, in the manner of somebod.. |
-| 23 | ch12:20 | "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she.. |
-| 27 | ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 49 | ch20:12 | Ji-won brought coffee up to the east room at half past seven and did not ask why he was .. |
-| 49 | ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
+| 1 | b1ch03:40 | "I know what you are." Not unkindly, and not kindly either. "Your room is on the first f.. |
+| 1 | b1ch03:54 | "Ji-won," she said, to the stairs. |
+| 1 | b1ch03:90 | "Ji-won. Thank you for the light. Neither of us needed it and it was still the right thi.. |
+| 2 | b1ch04:26 | Ji-won was laying the long table. She saw him in the doorway and put down what she was h.. |
+| 2 | b1ch04:50 | Ji-won stopped with a plate in each hand. |
+| 2 | b1ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
+| 2 | b1ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
+| 2 | b1ch04:72 | Ji-won went. |
+| 2 | b1ch04:90 | She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study.. |
+| 2 | b1ch04:146 | He spent the day on the ground floor with the laptop and a pot of tea that Ji-won brough.. |
+| 4 | b1ch05:126 | Ji-won came out of the kitchen twice to see it. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 9 | b1ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 23 | b1ch12:10 | Ji-won came in at ten past and said good morning and then said, in the manner of somebod.. |
+| 23 | b1ch12:20 | "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she.. |
+| 27 | b1ch13:8 | She had done it twice before in twenty-seven days, on the first two mornings, and not on.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 49 | b1ch20:12 | Ji-won brought coffee up to the east room at half past seven and did not ask why he was .. |
+| 49 | b1ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
 
 ### Zahlen in der Naehe von Ji-won
 
-- `ch03:40` (Tag 1) - seven
-- `ch04:62` (Tag 2) - one
-- `ch04:90` (Tag 2) - nine, one
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch05:148` (Tag 6) - fourteen, one, three, two
-- `ch05:196` (Tag 9) - nine, seven
-- `ch12:10` (Tag 23) - ten
-- `ch13:8` (Tag 27) - nine, seven, twenty-seven, two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch20:12` (Tag 49) - seven
-- `ch20:16` (Tag 49) - nine
+- `b1ch03:40` (Tag 1) - seven
+- `b1ch04:62` (Tag 2) - one
+- `b1ch04:90` (Tag 2) - nine, one
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:148` (Tag 6) - fourteen, one, three, two
+- `b1ch05:196` (Tag 9) - nine, seven
+- `b1ch12:10` (Tag 23) - ten
+- `b1ch13:8` (Tag 27) - nine, seven, twenty-seven, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch20:12` (Tag 49) - seven
+- `b1ch20:16` (Tag 49) - nine
 
 ---
 
@@ -1509,26 +1508,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch17:80 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
-| 46 | ch17:136 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
-| 46 | ch17:194 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
-| 49 | ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
-| 49 | ch21:422 | Mr Pyo brought the car round. |
-| 1 | ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
-| 74 | ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
-| 74 | ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 46 | b1ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | b1ch17:80 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
+| 46 | b1ch17:136 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
+| 46 | b1ch17:194 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
+| 49 | b1ch21:20 | Mr Pyo drove him. It was his week, and he did not need the address. |
+| 49 | b1ch21:422 | Mr Pyo brought the car round. |
+| 1 | b1ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
+| 74 | b1ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
+| 74 | b1ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:314` (Tag 46) - one, two
-- `ch17:80` (Tag 46) - four, two
-- `ch17:136` (Tag 46) - three, two
-- `ch28:244` (Tag 1) - eleven, one
-- `ch29:16` (Tag 74) - six
-- `ch31:56` (Tag 74) - eleven, ten
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch16:314` (Tag 46) - one, two
+- `b1ch17:80` (Tag 46) - four, two
+- `b1ch17:136` (Tag 46) - three, two
+- `b1ch28:244` (Tag 1) - eleven, one
+- `b1ch29:16` (Tag 74) - six
+- `b1ch31:56` (Tag 74) - eleven, ten
 
 ---
 
@@ -1538,23 +1537,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | ch24:346 | Mr Ku had the heater on. |
-| 7 | ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | ch32:254 | Mr Ku had the car turned round already. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
 
 ### Zahlen in der Naehe von Mr Ku
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch07:8` (Tag 22) - three
-- `ch11:6` (Tag 22) - seventeen
-- `ch27:100` (Tag 7) - one
-- `ch32:6` (Tag ?) - fifty, one
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
 
 ---
 
@@ -1564,18 +1563,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 1 | ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | ch03:168 | Bae's jaw moved. |
-| 1 | ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 
 ### Zahlen in der Naehe von Bae
 
-- `ch03:150` (Tag 1) - forty
-- `ch05:128` (Tag 4) - one, three, two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -1585,17 +1584,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `ch24:44` (Tag 55) - eight, one
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:44` (Tag 55) - eight, one
 
 ---
 
@@ -1605,18 +1604,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 4 | ch05:20 | He was not a replacement for the man on the gravel. He was the interim head of security... |
-| 4 | ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
-| 4 | ch05:40 | "When I chose the eye instead of the throat, part of the reason was that the next man th.. |
-| 6 | ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
-| 6 | ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+| 4 | b1ch05:20 | He was not a replacement for the man on the gravel. He was the interim head of security... |
+| 4 | b1ch05:24 | They gave Jang the security office off the garage passage. It had a wall of eight screen.. |
+| 4 | b1ch05:40 | "When I chose the eye instead of the throat, part of the reason was that the next man th.. |
+| 6 | b1ch05:148 | **Security.** Fourteen, which is not a small number and is not meant to be. Mr Noh above.. |
+| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
 
 ### Zahlen in der Naehe von Mr Noh
 
-- `ch05:20` (Tag 4) - twenty-two
-- `ch05:24` (Tag 4) - eight, four, two
-- `ch05:148` (Tag 6) - fourteen, one, three, two
-- `ch05:172` (Tag 6) - twenty-six
+- `b1ch05:20` (Tag 4) - twenty-two
+- `b1ch05:24` (Tag 4) - eight, four, two
+- `b1ch05:148` (Tag 6) - fourteen, one, three, two
+- `b1ch05:172` (Tag 6) - twenty-six
 
 ---
 
@@ -1626,15 +1625,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
-| 22 | ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
-| 22 | ch08:228 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
-| 22 | ch08:248 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
+| 22 | b1ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
+| 22 | b1ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
+| 22 | b1ch08:228 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
+| 22 | b1ch08:248 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
 
 ### Zahlen in der Naehe von Chef Bang
 
-- `ch08:218` (Tag 22) - eight, one, two
-- `ch08:228` (Tag 22) - eight hundred, sixty, sixty-two
+- `b1ch08:218` (Tag 22) - eight, one, two
+- `b1ch08:228` (Tag 22) - eight hundred, sixty, sixty-two
 
 ---
 
@@ -1644,16 +1643,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | ch05:180 | **Eun-ju.** Friendly with him on the second morning and friendlier on the third, and on .. |
-| 23 | ch12:24 | Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it.. |
-| 34 | ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:180 | **Eun-ju.** Friendly with him on the second morning and friendlier on the third, and on .. |
+| 23 | b1ch12:24 | Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 
 ### Zahlen in der Naehe von Eun-ju
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch12:24` (Tag 23) - eight
-- `ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch12:24` (Tag 23) - eight
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 
@@ -1663,17 +1662,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
-| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 23 | ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch05:172` (Tag 6) - twenty-six
-- `ch05:178` (Tag 6) - nineteen, two
-- `ch12:22` (Tag 23) - twenty
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:172` (Tag 6) - twenty-six
+- `b1ch05:178` (Tag 6) - nineteen, two
+- `b1ch12:22` (Tag 23) - twenty
 
 ---
 
@@ -1683,14 +1682,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch09:60 | Minister Min-ho was at the far end of the terrace with his back to the parapet, in an ov.. |
-| 22 | ch09:72 | Min-ho said almost nothing. He asked two questions, both short, both about other people... |
-| 22 | ch09:84 | He got that Min-ho already knew about the approach and had known before she told him, wh.. |
+| 22 | b1ch09:60 | Minister Min-ho was at the far end of the terrace with his back to the parapet, in an ov.. |
+| 22 | b1ch09:72 | Min-ho said almost nothing. He asked two questions, both short, both about other people... |
+| 22 | b1ch09:84 | He got that Min-ho already knew about the approach and had known before she told him, wh.. |
 
 ### Zahlen in der Naehe von Minister Min-ho
 
-- `ch09:60` (Tag 22) - two
-- `ch09:72` (Tag 22) - two
+- `b1ch09:60` (Tag 22) - two
+- `b1ch09:72` (Tag 22) - two
 
 ---
 
@@ -1700,15 +1699,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
-- `ch07:192` (Tag 22) - ten
-- `ch07:274` (Tag 22) - forty, one
-- `ch07:292` (Tag 22) - twelve
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
 
 ---
 
@@ -1718,12 +1717,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
-- `ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
 
 ---
 
@@ -1733,13 +1732,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 59 | ch25:20 | Not the way he had known it on the first night, which was three exits, twenty-two lenses.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 59 | b1ch25:20 | Not the way he had known it on the first night, which was three exits, twenty-two lenses.. |
 
 ### Zahlen in der Naehe von Mrs Ahn
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch25:20` (Tag 59) - four, fourteen, three, twenty-two, two
 
 ---
 
@@ -1749,12 +1748,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 55 | ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
+| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 55 | b1ch22:290 | He put the end of the cigarette out on the wall and put it in his pocket, because Tae-mi.. |
 
 ### Zahlen in der Naehe von Tae-min
 
-- `ch05:178` (Tag 6) - nineteen, two
+- `b1ch05:178` (Tag 6) - nineteen, two
 
 ---
 
@@ -1764,11 +1763,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 
 ### Zahlen in der Naehe von Mr Im
 
-- `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 
 ---
 
@@ -1778,10 +1777,4 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
-
----
-
-## Yun-seo
-
-**Kommt im Text nicht vor.** Steht nur in `doc/`.
+| 22 | b1ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
