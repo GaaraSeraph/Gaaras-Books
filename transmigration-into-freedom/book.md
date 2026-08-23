@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-25 Kapitel. 54.315 Woerter.
+25 Kapitel. 54.832 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -31,7 +31,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
 | 23 | Chapter 23: Two Coins Short | 2.531 |
-| 24 | Chapter 24: Somebody Has to Look at Him | 2.211 |
+| 24 | Chapter 24: Somebody Has to Look at Him | 2.728 |
 | 25 | Chapter 25: The First of Four | 1.611 |
 
 ---
@@ -5467,6 +5467,56 @@ He got moving again.
 "So you bought standing," said Ylva.
 
 "I bought standing," said Gaara. "It is the least interesting thing I have ever purchased and it is going to be the reason somebody comes back."
+
+They were four streets from the gate when he stopped again.
+
+"No," said Ylva.
+
+"You do not know what it is."
+
+"You have that face."
+
+"I have a very good face and it has never once been the problem."
+
+Frida was in the doorway of her own yard with a bucket and no interest in any of them.
+
+"You are leaving," she said.
+
+"In an hour. And I am going to be twenty miles away for a month, and this town is going to go on making bad bargains in your front room the entire time I am gone." He came up to the gatepost and leaned on it. "Somebody strikes a deal at your table about twice a day. I watched four of them do it on the night we came in and two of those are going to be an argument by spring."
+
+"That is not my business."
+
+"It is entirely your business, because the argument happens in your room, and you are the one who has to stand between two carters at midnight."
+
+Frida put the bucket down, which he took as an invoice.
+
+"Boards," said Gaara. "Thin elm, planed, and there are two hundred of them coming out of a village up the road because a man with one leg has nothing else to do with his hands. Both parties present. Their terms in their own words. Names at the bottom, or marks if they cannot write, and you witness it and you keep the board under your counter."
+
+"I cannot write."
+
+"You do not have to. It goes on the board before it ever gets to you." He was enjoying himself now and made no attempt to hide it. "The words that are the same every time get scored in first, up here, by me, this afternoon. What changes is a name, a number and a date, and there are three gaps for those, and anybody who can make a mark can fill in a gap."
+
+Frida looked at him for a long moment.
+
+"Half a coin," she said.
+
+"Half a coin, and you keep four of every five."
+
+"Why."
+
+"Because I am not here and you are, and because a fifth of something that runs without me is worth a great deal more to me than all of something that stops the day I leave." He straightened off the post. "And because in a year I would like every man in this town to have argued in front of one of those, and I do not much mind who got paid for it."
+
+"You want something else."
+
+"I want my mark on the corner of every single one."
+
+He cut the first one himself, on her step, with a knife he borrowed from her and did not give back for some minutes. The words along the top, the three gaps, and down in the right hand corner, three strokes, badly.
+
+Frida turned it over and looked at the flame.
+
+"What is that supposed to be."
+
+"It is a leaf," said Gaara. "Everybody says so. I have decided to stop fighting it."
 
 ---
 

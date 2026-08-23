@@ -3,6 +3,29 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== He leaves something in the Wold that earns without him ===
+Author: should he not arrange something in the town that brings money in? Yes,
+and everything needed for it was already built and sitting unused.
+FRIDA'S INN IS THE OBVIOUS SITE and the argument writes itself: bargains get
+struck at her table twice a day and the resulting arguments happen in her front
+room at midnight, so it is already her problem and he is only pricing it.
+THE IMPORTANT MOVE IS THAT HE SELLS A FORM AND NOT A SERVICE. In ch23 he sold
+his own labour at half a coin, which stops the day he leaves. Here the words
+that are identical every time get scored in ADVANCE and what remains is THREE
+GAPS - name, number, date. Frida cannot write and does not have to. That is the
+difference between a scribe and a printer, arrived at from the business end
+rather than the technical one.
+HE TAKES ONE FIFTH, which is the line that states the whole long game: a fifth
+of something that runs without him beats all of something that stops when he
+goes. Same shape as Marit running the city and Ylva keeping half the metal.
+AND THE FLAME GOES IN THE CORNER OF EVERY BOARD. That is a colophon on a mass
+produced object, roughly a year before he has any means of printing one, and
+nobody in the scene notices. It uses Bern's two hundred elm boards and the
+Staple mark, both already on the page, and invents nothing.
+Ends on him refusing to defend the drawing: "It is a leaf. Everybody says so. I
+have decided to stop fighting it."
+
+
 === Too much preparation, so ch25 goes in ===
 Author: six chapters of setup in a row and he is bored of it. Correct - 19 the
 smith, 20 the departure, 21 the guild, 22 the loft, 23 the registration, 24 the

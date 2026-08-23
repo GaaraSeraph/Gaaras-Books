@@ -1176,6 +1176,26 @@ Ordulf, and the one wall talking cannot get through (ch24)
   words, that THE BOOK IS THE PART HE IS DOING BUSINESS WITH AND NOT THE MAN.
   Registering Hades was not a formality, it was the collateral.
 - THE BLADE: eleven days, not for coin, against the first of the metal.
+- AND HE LEAVES SOMETHING IN THE TOWN THAT EARNS WHILE HE IS TWENTY MILES
+  AWAY (author's note, ch24 coda). FRIDA'S INN, because deals get struck at her
+  table about twice a day and the arguments happen in her front room at
+  midnight, which makes it entirely her business.
+  THE PRODUCT IS A FORM, NOT A SERVICE, and that is the whole point. The words
+  that are the same every time are scored in ADVANCE, by him, and what is left
+  is THREE GAPS: a name, a number, a date. Anybody who can make a mark can fill
+  in a gap. Frida cannot write and does not need to.
+  THE SPLIT: half a coin a bargain, and SHE KEEPS FOUR OF EVERY FIVE. His
+  stated reason is the thesis in one line: "a fifth of something that runs
+  without me is worth a great deal more to me than all of something that stops
+  the day I leave." Plus the real one: in a year he wants every man in that
+  town to have argued in front of one, and does not mind who was paid.
+  IT USES EVERYTHING ALREADY BUILT AND INVENTS NOTHING: Bern's two hundred elm
+  boards, the Staple registration, and the flame.
+  AND THE FLAME GOES IN THE CORNER OF EVERY ONE, which is A COLOPHON ON A MASS
+  PRODUCED OBJECT and neither of them calls it that. This is the first thing in
+  the world that is printed in every sense except the press.
+  "What is that supposed to be." "It is a leaf. Everybody says so. I have
+  decided to stop fighting it."
 
 The loft, and what he wakes up to (ch22)
 - HE DOES NOT ASK TWICE, AND NOW THE LINE IS TRUE. He corrects the count out
