@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 425 | 42 (b1ch01-b2ch12) | 1 | 74 |
+| Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
-| Jang | 70 | 17 (b1ch05-b2ch12) | 3 | 60 |
-| Mrs Seo | 59 | 24 (b1ch03-b2ch12) | 1 | 74 |
+| Jang | 72 | 17 (b1ch05-b2ch12) | 3 | 60 |
+| Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -53,7 +53,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-425 Nennungen in 42 Kapiteln.
+426 Nennungen in 42 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -482,6 +482,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:214 | "No," said Annie. "I know." |
 | 3 | b2ch12:232 | "Then go," said Annie. |
 | 3 | b2ch12:254 | Annie put the thing down. |
+| 3 | b2ch12:276 | "How will you know which he is," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1201,7 +1202,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-70 Nennungen in 17 Kapiteln.
+72 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1271,10 +1272,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
-| 3 | b2ch12:264 | Jang was at the near end of the garages with the bonnet of the second car up and nothing.. |
-| 3 | b2ch12:270 | Jang wiped his hands and did not ask what for, which took a decision, because he is not .. |
-| 3 | b2ch12:280 | Jang thought about that for a moment. |
-| 3 | b2ch12:292 | "You will want the ones in Ulsan and not the ones here." Jang said it without any partic.. |
+| 3 | b2ch12:286 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
+| 3 | b2ch12:294 | Jang closed the log and did not ask what for, which took a decision. |
+| 3 | b2ch12:308 | Jang looked at him for a moment. |
+| 3 | b2ch12:316 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
+| 3 | b2ch12:332 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
+| 3 | b2ch12:352 | Jang thought about that for a moment and did not appear to enjoy it. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1309,13 +1312,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:188` (Tag 55) - four
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
-- `b2ch12:292` (Tag 3) - two
+- `b2ch12:286` (Tag 3) - ten
 
 ---
 
 ## Mrs Seo
 
-59 Nennungen in 24 Kapiteln.
+58 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1377,7 +1380,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:344 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:170 | He went to find Mrs Seo about the train and did not have to ask her anything. |
-| 3 | b2ch12:296 | "You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on." |
 
 ### Zahlen in der Naehe von Mrs Seo
 

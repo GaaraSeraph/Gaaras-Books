@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 46 Kapitel, 130.278 Woerter.
+2 Baende, 46 Kapitel, 130.830 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -56,7 +56,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 09 | v2.1 | 2.496 |
 | 2 | 10 | v2.0 | 2.225 |
 | 2 | 11 | v2.0 | 2.498 |
-| 2 | 12 | v1.1 | 2.123 |
+| 2 | 12 | v1.2 | 2.675 |
 
 ---
 
@@ -14374,7 +14374,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -14630,42 +14630,102 @@ Annie put the thing down.
 
 "You have two of them."
 
-"I have two of them. She is first, because she is the one who touched you, and because taking her apart is the only way I get to look at the other one from underneath."
+"I have two of them, and I am going to say the second one out loud in this room now." He did not look away from her. "She is first, because she is the one who touched you, and because taking her apart is the only way I get to look at the other one from underneath. I am not going to have you told about him in three weeks as a thing that has already happened."
 
 ---
 
-He went out to the cars at about ten.
+"Say it, then."
 
-Jang was at the near end of the garages with the bonnet of the second car up and nothing wrong with it, which is what he does when he wants to be findable.
+"If he chose the page, and chose the week, and chose her, then he loses everything she loses." Georgij said it in the flattest voice he owns. "And he loses it afterwards, in that order, so that he has a fortnight to watch it coming towards him and know what it is."
+
+---
+
+"And if he was carrying it for somebody else."
+
+---
+
+"Then he is a hand, and I do not take hands apart." He did not soften any of it. "He keeps his firm and his name and every won of it. What he gets is that he finds out I know exactly who he is, on a day when nothing at all is happening, and after that he looks behind him at night for a number of years. That is the whole of what a messenger gets, and he will not enjoy any of it."
+
+---
+
+"How will you know which he is," said Annie.
+
+"By the week."
+
+---
+
+"A man carrying a thing gets rid of it when he is told to." Georgij turned his hand over. "That page went to Ulsan in the fourth week of the worst quarter of that woman's life, and not in January when she could still wait, and not in June when it would have been over. Somebody looked at a calendar. A hand does not look at a calendar."
+
+---
+
+Jang was in the gatehouse at about ten with the log in front of him and nothing to write in it.
+
+He has run the security of that house since the autumn, on an interim basis that everybody has stopped calling interim. He has worked for houses of that kind for thirty years and never once for a company that made anything.
 
 ---
 
 "I am going to need people," said Georgij.
 
-Jang wiped his hands and did not ask what for, which took a decision, because he is not incurious.
+Jang closed the log and did not ask what for, which took a decision.
 
 "What sort."
 
 ---
 
-"Not the sort you are thinking of. I do not need anybody hurt and I am not going to have anybody frightened in a car park." Georgij put his hands behind his back. "I need to know which firms on one lane out of Ulsan are behind on what, who they owe it to, and which of them has a driver who has stopped being paid on time. That is six companies and about forty people, and none of it is in a filing anywhere."
+"Two sorts and I will take them in order." Georgij put his hands behind his back. "The first is somebody who can find out what six small firms on one lane are actually afraid of. Not what they owe. What they are afraid of. And who each of the six would follow into a room if it came to a vote."
+
+"That is four days and two men and it is not difficult."
+
+"And the second is somebody who sits in a car outside a yard in Ulsan and writes down who comes to it."
 
 ---
 
-Jang thought about that for a moment.
+Jang looked at him for a moment.
 
-"Drivers," he said.
+"For how long."
 
-"Drivers."
-
-"I have known every man who drives for a house in this city for the better part of thirty years. About half of them owe me something. The ones who do not will talk anyway, because nobody has ever asked them anything in their lives." He put the bonnet down. "Give me three days."
+"Until the end of the month. I do not think anybody is going to come. I would like to be wrong in a way I can read afterwards."
 
 ---
 
-"Thank you."
+"You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort, because you have not asked and because you will not ask, and I would rather it was in the room than in your head."
 
-"You will want the ones in Ulsan and not the ones here." Jang said it without any particular expression. "That is two telephone calls further and it is the same two calls. And Georgij."
+"Go on."
+
+---
+
+"I know three men. Two of them used to do what I do and one of them never worked for anybody at all." He said it without any particular weight. "They are not thugs and I would not have them in this house if they were. They are people who go and stand in front of somebody, and that is a different trade, and it works about half the time and the other half it makes everything worse for a year."
+
+---
+
+"Not yet," said Georgij.
+
+---
+
+He did not say no.
+
+Jang heard him not say it, and put the log back in the drawer, and neither of them made anything of that either.
+
+---
+
+"One question," he said, "and then I will get on with it. Is any part of this going to arrive at that gate."
+
+"No."
+
+"Say why not. I have had two men in thirty years tell me no to that question and both of them were wrong, and one of them was me."
+
+---
+
+"Because nothing that happens to her will be done by anybody who can be traced back to this house," said Georgij. "The people who take it off her will be her own six, and they will be right to, and they will believe it was their own idea because it will have been. And a woman who has just lost everything to the people she has written to on the first of every month for twenty years does not get in a car and drive four hours to stand at a gate."
+
+"What does she do."
+
+"She goes home."
+
+---
+
+Jang thought about that for a moment and did not appear to enjoy it.
+
+"That is worse," he said.
 
 "Yes."
-
-"You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on."

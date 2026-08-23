@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 102.193 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 102.517 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2837,7 +2837,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.1) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.2) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -2864,9 +2864,17 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Satz an der Tuer, der Sang-hoon als Gegenbild benutzt:** *"I want her finished. I do not want her hurt for four months so that somebody can watch. Park Sang-hoon takes eighteen months over a man because he enjoys the second year. You are not going to become that."* Zeitrahmen: **drei Wochen, vier wenn der Zweite vorsichtig ist.**
 
-  **Jang an den Garagen, und er ist etwas anderes als erwartet.** Keine harten Maenner. **Fahrer.** *"I have known every man who drives for a house in this city for the better part of thirty years. About half of them owe me something. The ones who do not will talk anyway, because nobody has ever asked them anything in their lives."* Drei Tage. **Das ist Kapitel 3 mit lebenden Leuten statt mit Frachtbriefen.**
+  **Der zweite Mann wird im selben Gespraech ausgesprochen, und zwar vollstaendig.** *"I am not going to have you told about him in three weeks as a thing that has already happened."* Wenn er Seite, Woche und Person **ausgesucht** hat, verliert er alles, was sie verliert, **und zwar danach**, damit er es vierzehn Tage lang auf sich zukommen sieht. **Hat er nur getragen, ist er eine Hand**, und Hände nimmt Georgij nicht auseinander: er behaelt Firma, Namen und jeden Won, erfaehrt an einem beliebigen Tag, dass Georgij genau weiss, wer er ist, **und sieht sich danach jahrelang nachts um.**
 
-  **Und seine letzte Zeile bindet ihn**, ohne dass er darum gebeten hat: *"You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on."*
+  **Und die Probe, an der er die beiden unterscheidet, ist der Kalender.** *"A man carrying a thing gets rid of it when he is told to. ... Somebody looked at a calendar. A hand does not look at a calendar."*
+
+  **Jang im Pfoertnerhaus, und er ist, was `doc/03-cast.md` sagt: Interimschef der Sicherheit**, dreissig Jahre bei Haeusern dieser Art und nie bei einer Firma, die etwas herstellt. **In Fassung 1.1 stand er faelschlich an den Garagen und redete ueber Fahrer** - das ist Ku und Pyo, nicht er.
+
+  **Georgij bestellt zwei Sorten**: jemanden, der herausfindet, wovor sechs kleine Firmen tatsaechlich Angst haben und wem jede von ihnen in einen Raum folgen wuerde; und jemanden, der vor einem Hof in Ulsan sitzt und aufschreibt, wer kommt. *"I do not think anybody is going to come. I would like to be wrong in a way I can read afterwards."*
+
+  **Und Jang bietet die dritte Sorte von selbst an**, weil sie sonst im Kopf statt im Raum waere: drei Maenner, zwei davon aus seinem eigenen Fach. *"They are people who go and stand in front of somebody, and that is a different trade, and it works about half the time and the other half it makes everything worse for a year."* Georgij: **"Not yet."** - *"He did not say no. Jang heard him not say it."*
+
+  **Und die einzige Frage, die ein Sicherheitsmann stellt:** *"Is any part of this going to arrive at that gate."* Antwort: die eigenen sechs nehmen es ihr ab, sie werden im Recht sein und es fuer ihre eigene Idee halten, **und eine Frau, die alles an die Leute verloren hat, an die sie zwanzig Jahre lang am Ersten geschrieben hat, faehrt nicht vier Stunden an ein Tor. Sie geht nach Hause.** - **"That is worse," he said.** - *"Yes."*
 
 ---
 
@@ -5412,12 +5420,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 425 | 42 (b1ch01-b2ch12) | 1 | 74 |
+| Annie | 426 | 42 (b1ch01-b2ch12) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 124 | 24 (b1ch07-b2ch11) | 1 | 74 |
 | Park Sang-hoon | 108 | 22 (b1ch10-b2ch12) | 1 | 74 |
-| Jang | 70 | 17 (b1ch05-b2ch12) | 3 | 60 |
-| Mrs Seo | 59 | 24 (b1ch03-b2ch12) | 1 | 74 |
+| Jang | 72 | 17 (b1ch05-b2ch12) | 3 | 60 |
+| Mrs Seo | 58 | 23 (b1ch03-b2ch11) | 1 | 74 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -5447,7 +5455,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-425 Nennungen in 42 Kapiteln.
+426 Nennungen in 42 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -5876,6 +5884,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch12:214 | "No," said Annie. "I know." |
 | 3 | b2ch12:232 | "Then go," said Annie. |
 | 3 | b2ch12:254 | Annie put the thing down. |
+| 3 | b2ch12:276 | "How will you know which he is," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -6595,7 +6604,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-70 Nennungen in 17 Kapiteln.
+72 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6665,10 +6674,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
 | 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
-| 3 | b2ch12:264 | Jang was at the near end of the garages with the bonnet of the second car up and nothing.. |
-| 3 | b2ch12:270 | Jang wiped his hands and did not ask what for, which took a decision, because he is not .. |
-| 3 | b2ch12:280 | Jang thought about that for a moment. |
-| 3 | b2ch12:292 | "You will want the ones in Ulsan and not the ones here." Jang said it without any partic.. |
+| 3 | b2ch12:286 | Jang was in the gatehouse at about ten with the log in front of him and nothing to write.. |
+| 3 | b2ch12:294 | Jang closed the log and did not ask what for, which took a decision. |
+| 3 | b2ch12:308 | Jang looked at him for a moment. |
+| 3 | b2ch12:316 | "You can have both by Wednesday," said Jang. "Now I am going to offer you the third sort.. |
+| 3 | b2ch12:332 | Jang heard him not say it, and put the log back in the drawer, and neither of them made .. |
+| 3 | b2ch12:352 | Jang thought about that for a moment and did not appear to enjoy it. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -6703,13 +6714,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:188` (Tag 55) - four
 - `b1ch34:48` (Tag 46) - four
 - `b1ch34:98` (Tag 46) - four
-- `b2ch12:292` (Tag 3) - two
+- `b2ch12:286` (Tag 3) - ten
 
 ---
 
 ### Mrs Seo
 
-59 Nennungen in 24 Kapiteln.
+58 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -6771,7 +6782,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch08:344 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:170 | He went to find Mrs Seo about the train and did not have to ask her anything. |
-| 3 | b2ch12:296 | "You are asking me and not Mrs Seo. I have noticed that, and I would like it to go on." |
 
 ### Zahlen in der Naehe von Mrs Seo
 
