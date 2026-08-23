@@ -144,6 +144,13 @@ nachrechnen, und `check.py` tut das automatisch.
   Kwon wird Vorsitzender. Georgij ist in Seoul und sucht parallel den Versender:
   **drei der fuenf Namen vom Januar-Essen stehen auf der Versandliste**
   (Band 2, Kapitel 15)
+- Tag 199, Mo 20. April: **das Haus am Fluss nimmt keine Einlieferungen mehr an**
+  (Band 2, Kapitel 16, rueckblickend)
+- Tag 204, Sa 25. April: **Mr Ok.** Zwei der drei Namen fallen ohne Aufwand weg.
+  Der dritte hat am 12. Maerz um sechzehn Uhr vierzig eine Seite kopieren lassen,
+  **zweimal**, und in seinem Buero steht keine einzige Anweisung. **Nach Georgijs
+  eigener Probe ist er eine Hand.** Und die zweite Kopie ist irgendwo
+  (Band 2, Kapitel 16)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -955,6 +962,32 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und das, was er nicht aufschreibt.** Ins Notizbuch kommen fuenf Woerter. Was Cho gesagt hat, kommt nicht hinein: *"A thing that goes in the notebook stops having to be carried. That is the entire point of the notebook and he has known it since October, and he left it out anyway."*
 
   **Annie hat es ohne ihn mitverfolgt und sagt es auch:** *"I have had the Yeouido people watching the filings since Tuesday and I did not tell you, because you would have wanted to know why and the answer is that I wanted to see it happen."* Dann: *"Sit down and do not report to me. You do not have to and I have not asked."*
+
+- **Band 2, Kapitel 16** *A hand* (v1.0) - **Tag 204, Sa 25. April. Ein Tag am Schreibtisch, dann das kleine Zimmer.**
+
+  **Mrs Sunwoos April traegt: seit dem 20. April nimmt das Haus keine Einlieferungen mehr an.** Ohne Ankuendigung - *"It tells the fourth person who telephones that the spring sale is under review, and by the eighth person it has stopped being a rumour."* Zwoelf Mittagessen seit dem 24. Maerz, und Georgij weiss die Zahl, weil ihr Kalender offen liegt, **und hat beim Nachsehen zweimal etwas empfunden, das er nicht benennt.**
+
+  **Und er widersteht der ersten falschen Spur des Bandes:** zwei ihrer Tischgaeste stehen auf der Versandliste, einer davon auch auf der Januar-Liste. Er tut nichts damit. *"A coincidence in a city of that size is not a fact, and a man who forgets that ends up with the wrong person."*
+
+  **Zwei der drei Namen fallen ohne Aufwand weg**, und die Gruende sind Charakter und nicht Papier: der eine kauft seit sechs Jahren offen kleine Betriebe auf und haette sie an ein Telefon gebracht; der andere sitzt selbst im Ausschuss, **und wer bei einer Sache ist, weil sie ihm gehoert, stellt dort keine Frage, an die sich niemand erinnern soll.**
+
+  **Der dritte ist Mr Ok**, sechsundfuenfzig, Seeversicherungsmakler in zweiter Generation, elf Angestellte, kauft seit 2003 Keramik in dem Haus. **Er hat mit Kuestenverkehr nicht das Geringste zu tun** und war bei dem Essen, weil sein Vater immer hinging. *"That is not evidence of anything. A man is allowed to ask a question at a lunch."*
+
+  **Und dann macht Georgij zum ersten Mal in Band 2 das, was `doc/02-leads.md` seit jeher unter *Digitale Sicherheit* fuehrt**, und der Text beschreibt es ausdruecklich nicht: *"He is not going to write down how, and it does not matter."* Ein Buero mit elf Leuten seit 1978 in denselben zwei Etagen, ein Geraet im Flur seit 2019, **und ein Protokoll, in das nie jemand gesehen hat.** Fuenfzig Minuten, davon das meiste Lesen.
+
+  **Der Fund: 12. Maerz, sechzehn Uhr vierzig, eine Seite auf dem Glas, ZWEIMAL kopiert.** *"Two copies is a fact and one copy is an errand."* Das Konto gehoert einer Frau, die dort seit 2004 die Ablage macht. **Sie hat keine Sekunde darueber nachgedacht, weil man eine Seite kopiert, wenn man gebeten wird, eine Seite zu kopieren.**
+
+  **Und was das Protokoll nicht kann, gehoert zum Fund:** es sagt nicht, was danach mit den Kopien geschah. *"Somebody put one of them in an envelope. That is in no log anywhere and it never will be, and it is the reason a page arrives in Ulsan and a man in Jung-gu has no idea that he has done anything at all."*
+
+  **Der eigentliche Befund ist eine Abwesenheit.** Keine Nachricht, keine Notiz, kein Brief, kein Kalendereintrag, nichts am elften und nichts am zehnten. **Und damit greift Georgijs eigene Probe vom 3. April**, die Annie ihn zweimal hatte sagen lassen: *"Nobody sits down with a calendar on somebody else's behalf."* **In diesem Buero gibt es keinen Kalender. Also ist Mr Ok eine Hand.**
+
+  **Und das kostet ihn die Rache, die er seit dem 18. Maerz mit sich traegt.** *"He had wanted a man to take apart. ... What he has is a broker of fifty-six who buys ceramics and does what he is asked by somebody at a lunch."* Er schreibt trotzdem **Frightened only** auf und aendert es nicht: *"That is his own rule and he made it in front of her before he knew who it was going to protect, which is the only condition under which a rule is worth anything at all."*
+
+  **Die zweite Kopie ist der Schluss und sie ist das Erste seit acht Wochen, das ihm wirklich Angst macht.** Sie ist irgendwo, seit sechs Wochen, und musste noch nicht benutzt werden. **Und sie sagt etwas ueber den Versender, das Nams Lage nachtraeglich verschlimmert:** *"a man who makes two copies of a thing is a man who does not expect the first one to be enough. ... he had already decided in March that she might not do it, and that it would not particularly matter if she did not."*
+
+  **Annie sieht sein Gesicht, bevor er etwas sagt:** *"Say the bad one first."* Und danach: *"Tell me about the second copy from the beginning, and do not leave out the part where you are frightened, because I would rather have it from you than watch you carry it around the house for a fortnight."*
+
+  **Und das Vorziehen der Abrechnung**, die eigentlich fuer das Ende verabredet war: *"If I take him apart because I have been carrying something since March, then I am doing it for me, and I told you on the third of April that I would tell you the truth about that afterwards. This is the afterwards arriving early."*
 
 ---
 

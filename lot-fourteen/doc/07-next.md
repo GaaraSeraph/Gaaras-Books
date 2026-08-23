@@ -604,6 +604,22 @@ Fassung.**
   selbst ausgesucht hat. **Wer begreift, dass er benutzt wurde, geht selbst
   nachsehen**, und es gibt genau eine Person, zu der sie dafuer gehen koennte.
 
+- **DIE ZWEITE KOPIE. Kein Datum, hoechste Prioritaet, gesetzt in Band 2,
+  Kapitel 16.** Am 12. Maerz um sechzehn Uhr vierzig wurde die Seite **zweimal**
+  kopiert. Eine lag am 14. in Ulsan. **Die andere ist seit sechs Wochen
+  irgendwo und musste noch nicht benutzt werden.**
+
+  **Das ist das Erste in acht Wochen, das Georgij wirklich Angst macht**, und es
+  ist die groesste offene Drohung des Bandes. Sie sagt ausserdem etwas ueber den
+  Versender: wer zwei Kopien macht, rechnet nicht damit, dass die erste reicht.
+  **Nam war ihm von Anfang an entbehrlich.**
+
+- **Mr Ok, Seeversicherungsmakler in Jung-gu: eine Hand, und er wird nur
+  erschreckt.** Georgij hat *Frightened only* aufgeschrieben und nicht geaendert.
+  **Die Szene fehlt noch** und muss genau das sein und nichts darueber hinaus:
+  nicht die Firma, nicht die Familie, kein Won. Und die Frau aus der Ablage wird
+  nicht angefasst - sie hat eine Seite kopiert, weil man Seiten kopiert.
+
 - **Der Januar-Fund, Band 2, Kapitel 13. Das ist der bisher groesste Schritt zum
   Versender und er hat kein Datum.** In der ersten Januarwoche, bei einem
   Hafenbehoerden-Essen, fragt ein Mann Chairman Woo nach der Ulsan-Spur und nach
