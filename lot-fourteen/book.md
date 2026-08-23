@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-34 Kapitel. 99.728 Woerter.
+34 Kapitel. 99.793 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -28,7 +28,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 17 | v12.10 | 2.709 |
 | 18 | v2.6 | 2.980 |
 | 19 | v1.9 | 3.210 |
-| 20 | v1.3 | 2.050 |
+| 20 | v1.4 | 2.108 |
 | 21 | v1.6 | 4.079 |
 | 22 | v1.1 | 2.584 |
 | 23 | v3.5 | 2.653 |
@@ -39,7 +39,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 28 | v1.2 | 2.675 |
 | 29 | v1.3 | 1.993 |
 | 30 | v1.7 | 3.524 |
-| 31 | v1.5 | 3.249 |
+| 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.10 | 3.335 |
 | 34 | v1.1 | 2.969 |
@@ -5834,7 +5834,7 @@ At the gate he stopped.
 ---
 
 # Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5994,7 +5994,17 @@ Annie sat back in the chair.
 
 "And he told you what that is."
 
-"He told me what that is." A small pause. "He said a veto over routes decides which box goes on which sailing when a sailing is full, and that on those lanes it is full nine months of the year. He said you never have to refuse anybody and never have to explain why a man's cargo went on Thursday instead of Tuesday. You are simply the group whose boxes are already loaded, every time, for as long as you hold it."
+"He told me what it makes you."
+
+---
+
+Annie looked up.
+
+"He said a veto over routes decides which box goes on which sailing when a sailing is full, and that on those lanes it is full nine months of the year. He said you never have to refuse anybody and never have to explain why a man's cargo went on Thursday instead of Tuesday." Georgij's eyes went to the second page of the contract and came back. "I said all of that at this table on the thirteenth, with Hana four feet from me, and I said it as a reason to do it."
+
+"You did."
+
+"He said the same thing and then he said what it makes you. I had not put those two next to each other, and I have not been able to stop since Yeongjong."
 
 Annie did not pick anything up and did not put anything down.
 
@@ -9543,7 +9553,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -9689,9 +9699,11 @@ The limit on the veto first, because it had come first, and because he was not g
 
 "And you said."
 
-"No. Immediately, and without dressing it, and I told her why in one sentence. The man who decides which box goes on which sailing is the man who decides who loads it. A veto that cannot reach the yard is a line in a document."
+"No. Immediately, and without dressing it, and I told her why in one sentence."
 
 ---
+
+She had had that sentence from him in November, and he had had it from an old man in a shed at Yeongjong the day before that, and none of the three of them had improved it since.
 
 Annie put two fingers on the arm of the chair and left them there.
 

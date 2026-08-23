@@ -18,8 +18,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 310 | 30 (01-34) | 1 | 74 |
-| Hana | 160 | 15 (09-31) | 1 | 74 |
+| Annie | 311 | 30 (01-34) | 1 | 74 |
+| Hana | 161 | 16 (09-31) | 1 | 74 |
 | Chairman Woo | 123 | 23 (07-34) | 3 | 74 |
 | Park Sang-hoon | 86 | 16 (10-34) | 7 | 74 |
 | Jang | 63 | 14 (05-34) | 4 | 55 |
@@ -50,7 +50,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-310 Nennungen in 30 Kapiteln.
+311 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -251,9 +251,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | ch20:120 | Annie's hand stopped on the edge of the desk. |
 | 49 | ch20:140 | Annie was quiet for the length of the gardeners arriving. |
 | 49 | ch20:154 | Annie sat back in the chair. |
-| 49 | ch20:164 | Annie did not pick anything up and did not put anything down. |
-| 49 | ch20:170 | Annie did not say anything. |
-| 49 | ch20:194 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
+| 49 | ch20:166 | Annie looked up. |
+| 49 | ch20:174 | Annie did not pick anything up and did not put anything down. |
+| 49 | ch20:180 | Annie did not say anything. |
+| 49 | ch20:204 | Annie nodded once, the way you do when a figure comes out where you expected it to. |
 | 55 | ch22:10 | He telephoned Annie's office and asked for twenty minutes. |
 | 55 | ch22:18 | "He asked for the office and I said the house." Annie did not look up from the page. "A .. |
 | 55 | ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
@@ -320,17 +321,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:106 | Annie's mouth did something for about a second. |
 | 74 | ch31:122 | Annie put her head back against the chair. |
 | 74 | ch31:130 | It took Annie a moment to answer. |
-| 74 | ch31:152 | Annie put two fingers on the arm of the chair and left them there. |
-| 74 | ch31:168 | Annie did not argue with it, which from her is not agreement and is not nothing. |
-| 74 | ch31:184 | Annie looked at him for a while. |
-| 74 | ch31:196 | Annie took a breath and let it out slowly and said nothing for a moment. |
-| 74 | ch31:208 | Annie took her time about it. |
-| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 74 | ch31:230 | Annie was already ahead of it. |
-| 74 | ch31:256 | Annie sat forward and put her elbows on her knees. |
-| 74 | ch31:280 | Annie did not move. |
-| 74 | ch31:296 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
-| 74 | ch31:306 | Annie got up. |
+| 74 | ch31:154 | Annie put two fingers on the arm of the chair and left them there. |
+| 74 | ch31:170 | Annie did not argue with it, which from her is not agreement and is not nothing. |
+| 74 | ch31:186 | Annie looked at him for a while. |
+| 74 | ch31:198 | Annie took a breath and let it out slowly and said nothing for a moment. |
+| 74 | ch31:210 | Annie took her time about it. |
+| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 74 | ch31:232 | Annie was already ahead of it. |
+| 74 | ch31:258 | Annie sat forward and put her elbows on her knees. |
+| 74 | ch31:282 | Annie did not move. |
+| 74 | ch31:298 | "You are aware," said Annie, "that you have just done to me the thing I sent you out to .. |
+| 74 | ch31:308 | Annie got up. |
 | 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
 | 7 | ch33:38 | "I am going to make you an offer," he said to Annie, "and it is a serious one, and I hav.. |
 | 7 | ch33:56 | Annie did not move. |
@@ -428,8 +429,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch24:186` (Tag 55) - twenty-three
 - `ch29:6` (Tag 74) - ninety
 - `ch29:12` (Tag 74) - twenty
-- `ch31:152` (Tag 74) - two
-- `ch31:226` (Tag 74) - one
+- `ch31:154` (Tag 74) - two
+- `ch31:228` (Tag 74) - one
 - `ch33:38` (Tag 7) - one, three
 - `ch33:70` (Tag 7) - fifteen
 - `ch33:232` (Tag 7) - five
@@ -440,7 +441,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Hana
 
-160 Nennungen in 15 Kapiteln.
+161 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -519,6 +520,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:130 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | ch16:138 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | ch17:98 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
+| 49 | ch20:168 | "He said a veto over routes decides which box goes on which sailing when a sailing is fu.. |
 | 49 | ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
 | 49 | ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
 | 49 | ch21:52 | "Say what for," said Hana, "and then I will decide whether to be insulted." |
@@ -602,8 +604,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
 | 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
 | 74 | ch31:50 | Hana picked the tray up again, because there were still thirty people in her house and s.. |
-| 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
-| 5 | ch31:334 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
+| 74 | ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 
 ### Zahlen in der Naehe von Hana
 
@@ -632,6 +634,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:372` (Tag 41) - ten
 - `ch16:138` (Tag 46) - three
 - `ch17:98` (Tag 46) - one, sixteen thousand
+- `ch20:168` (Tag 49) - four, nine
 - `ch21:36` (Tag 49) - four
 - `ch21:88` (Tag 49) - nine
 - `ch21:124` (Tag 49) - fourteen, two
@@ -664,8 +667,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:24` (Tag 74) - four, twenty-nine
 - `ch31:34` (Tag 74) - four, one, three
 - `ch31:50` (Tag 74) - thirty
-- `ch31:220` (Tag 74) - six
-- `ch31:334` (Tag 5) - twenty-two
+- `ch31:222` (Tag 74) - six
+- `ch31:336` (Tag 5) - twenty-two
 
 ---
 
@@ -742,7 +745,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
 | 48 | ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
 | 48 | ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
-| 49 | ch20:208 | "Then find Chairman Woo a house." |
+| 49 | ch20:218 | "Then find Chairman Woo a house." |
 | 49 | ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
 | 49 | ch21:60 | "Woo signed." |
 | 49 | ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
@@ -789,13 +792,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
 | 74 | ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
 | 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 5 | ch31:320 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
-| 5 | ch31:336 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
-| 5 | ch31:346 | Woo did not say anything for a second. |
-| 5 | ch31:364 | Chairman Woo was quiet for long enough that Georgij checked the line. |
-| 5 | ch31:366 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
-| 5 | ch31:384 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
+| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 5 | ch31:322 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
+| 5 | ch31:338 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
+| 5 | ch31:348 | Woo did not say anything for a second. |
+| 5 | ch31:366 | Chairman Woo was quiet for long enough that Georgij checked the line. |
+| 5 | ch31:368 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
+| 5 | ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 | - | ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | ch34:6 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 
@@ -864,11 +867,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch31:28` (Tag 74) - four, three
 - `ch31:34` (Tag 74) - four, one, three
 - `ch31:92` (Tag 74) - nine, seven, six, twelve, two
-- `ch31:226` (Tag 74) - one
-- `ch31:320` (Tag 5) - eight, seventy-eight, two
-- `ch31:336` (Tag 5) - eleven, twenty-two
-- `ch31:366` (Tag 5) - nine
-- `ch31:384` (Tag 5) - one
+- `ch31:228` (Tag 74) - one
+- `ch31:322` (Tag 5) - eight, seventy-eight, two
+- `ch31:338` (Tag 5) - eleven, twenty-two
+- `ch31:368` (Tag 5) - nine
+- `ch31:386` (Tag 5) - one
 - `ch32:98` (Tag ?) - four, two
 - `ch34:6` (Tag 46) - seven, two
 
@@ -947,7 +950,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
 | 59 | ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
 | 74 | ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
-| 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 74 | ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 | 7 | ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
 | 7 | ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
 | 7 | ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
@@ -997,7 +1000,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch23:28` (Tag 55) - four
 - `ch25:304` (Tag 59) - forty, seven, twelve
 - `ch30:410` (Tag 74) - one
-- `ch31:226` (Tag 74) - one
+- `ch31:228` (Tag 74) - one
 - `ch33:48` (Tag 7) - ten, thirty-one
 - `ch33:152` (Tag 7) - eleven, one
 - `ch33:228` (Tag 7) - two, two hundred million
@@ -1238,8 +1241,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
 | 74 | ch31:118 | He told her about the sentence he had refused to build, which was the reason to agree, a.. |
 | 74 | ch31:140 | Then the two things Ye-rin had wanted to buy with. |
-| 74 | ch31:220 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
-| 5 | ch31:326 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
+| 74 | ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
+| 5 | ch31:328 | "Kim Ye-rin has agreed. The six bind into one block and it is directed by a named person.. |
 | - | ch32:34 | Kim Ye-rin sat on the long side, third chair from the window, facing the door. |
 | - | ch32:84 | The six bind their forty-one per cent into one block. The block votes as one. It is dire.. |
 | - | ch32:154 | Then every person at that table turned and looked at Kim Ye-rin. |
@@ -1266,8 +1269,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch30:428` (Tag 74) - twenty, twenty-two
 - `ch31:92` (Tag 74) - nine, seven, six, twelve, two
 - `ch31:140` (Tag 74) - two
-- `ch31:220` (Tag 74) - six
-- `ch31:326` (Tag 5) - one, six
+- `ch31:222` (Tag 74) - six
+- `ch31:328` (Tag 5) - one, six
 - `ch32:84` (Tag ?) - eleven, forty-one, one, six
 - `ch32:212` (Tag ?) - eleven, four
 - `ch32:258` (Tag ?) - twenty
@@ -1361,7 +1364,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch30:342 | "I thought about Kim Do-yun for four weeks in November and I have not stopped since." He.. |
 | 74 | ch30:346 | "Do-yun is worthless as payment, because the day you sign, we have him anyway. He is a K.. |
 | 74 | ch31:12 | Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun wa.. |
-| 74 | ch31:176 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
+| 74 | ch31:178 | Do-yun, whom she could deliver: refused. The day the block is written down and directed,.. |
 | - | ch32:22 | The other was Kim Do-yun, in a good coat again, who had arrived eleven minutes early and.. |
 | - | ch32:132 | Kim Do-yun was looking at the tablecloth with a small crease between his eyebrows. |
 | - | ch32:160 | The sister-in-law did it first and the legal pad cousin did it with her, and Sung-ho did.. |
