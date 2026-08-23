@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 22 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 48.315 Woerter.
+Alle 4 Dokumente am Stueck. 48.497 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -663,6 +663,22 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== The jokes move into the spec, not the review ===
+Author, and it is the correct correction to my own fix. I had put the rule at
+the top of CLAUDE.md as something to remember while writing, which is what has
+failed six times. HE WANTS IT DECIDED BEFORE THE PROSE EXISTS.
+SO IT IS A PROCEDURE NOW: list the scenes, write THE ACTUAL LINE for each one at
+planning time, send the list to him with the chapter proposal so he approves the
+jokes along with the plot, then write, THEN WALK THE FINISHED CHAPTER AND COUNT
+and report the number.
+THE TEST OF WHETHER A JOKE IS PLANNED is whether it can be written down at
+planning time. "A quip here" is not a plan. If the line cannot be produced
+before the scene is written, the scene is not planned yet.
+AND HE ASKED FOR MANUAL VERIFICATION AT THE START, until it is tuned. That is
+the honest form of enforcement here, because measurement showed a metric would
+lie about it, and because the alternative is another promise.
 
 
 === He should not have had to ask six times, and the metric lied ===

@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-22 Kapitel. 49.371 Woerter.
+22 Kapitel. 49.407 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -29,7 +29,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.882 |
-| 22 | Chapter 22: Two Coins Short | 2.605 |
+| 22 | Chapter 22: Two Coins Short | 2.641 |
 
 ---
 
@@ -5136,6 +5136,8 @@ Two strokes. One over the other. A gate half up.
 He came out into the street with a slate under his arm, a house in a book, and two coins that were already spoken for by a loft and a bowl. He stood in the light a moment doing nothing, which was becoming a thing he could do.
 
 Ylva was waiting by the well with her arms folded and a face he did not like.
+
+"That face has bad news in it," said Gaara, "and I have been a registered merchant for about four minutes. Whatever it is, it has beaten a record previously held by a company with actual walls."
 
 "I have been to Ordulf," she said.
 

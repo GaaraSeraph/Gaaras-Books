@@ -7,30 +7,43 @@ The chapter files are canon. Everything else (docs/, this file) describes them o
 plans ahead. Where a planning document contradicts a chapter, the chapter is right
 and the document gets changed. How many chapters exist: see HANDBUCH.md.
 
-## Before anything else: THE JOKES ARE NOT A POLISH PASS
+## Before anything else: THE JOKES ARE SPECIFIED BEFORE THE PROSE EXISTS
 
-The author has had to ask for this SIX TIMES and that is six times too many. It
-is not a note to apply at the end. It is part of drafting, and if it is missing
-the draft is not finished, in the same way a chapter with a forty-word sentence
-is not finished.
+The author has had to ask for this SIX TIMES. It is therefore not a note, not a
+polish pass and not something check.py can catch. IT IS PART OF THE SPEC, and
+the spec is written before a word of the chapter is.
 
-THE COUNTABLE RULE: EVERY SCENE WITH ANOTHER PERSON IN IT NEEDS AT LEAST ONE
-LINE THAT IS THERE ONLY TO BE FUNNY. Not a line that is witty while doing work.
-A line that would be cut by anybody optimising the scene for information, and
-which is the reason the scene is worth reading.
+THE PROCEDURE, and it is not optional:
 
-AND THE DRIFT ALWAYS LOOKS THE SAME, so it is recognisable: it happens when he
-is WORKING. Negotiating, teaching, reading a room, doing arithmetic. The talk
-stays but goes functional, and a competent operator comes out instead of him.
-It is the same failure as going solemn when somebody is hurt.
+  1  BEFORE WRITING, LIST THE SCENES. A scene is a block with its own place and
+     its own people. A chapter has five to eight of them.
+  2  FOR EACH SCENE, WRITE THE ACTUAL JOKE DOWN. Not "a quip here". THE LINE,
+     or near enough that writing it is transcription. If it cannot be written
+     at planning time it does not exist and the scene is not planned yet.
+  3  THE LIST GOES TO THE AUTHOR WITH THE CHAPTER PROPOSAL, in the same message
+     as what happens. He is approving the jokes along with the plot.
+  4  ONLY THEN WRITE.
+  5  AFTERWARDS, WALK THE FINISHED CHAPTER SCENE BY SCENE AND COUNT. Report it
+     to him as a number: N scenes, N jokes, and where each one is. If a scene
+     came out without one, say so rather than hoping.
 
-THIS CANNOT BE CHECKED BY MACHINE AND check.py DOES NOT TRY. Dialogue density
-was measured across all chapters and it does not catch it: the two chapters the
-author complained about scored 61 per cent, third and fourth highest in the
-book. He was talking constantly and none of it was funny. A metric that cannot
-tell those apart is a metric that lies, and a check that lies is worse than no
-check (see the Erdkalender entry in docs/decisions.md).
-So it lives here instead, at the top, where it is read before writing.
+THE RULE THE SPEC HAS TO SATISFY: EVERY SCENE WITH ANOTHER PERSON IN IT NEEDS
+AT LEAST ONE LINE THAT IS THERE ONLY TO BE FUNNY. Not a line that is witty
+while doing work. A line an editor optimising the scene for information would
+cut, and which is the reason the scene is worth reading.
+
+AND THE DRIFT ALWAYS HAS THE SAME SHAPE, so it is recognisable in advance: IT
+HAPPENS WHEN HE IS WORKING. Negotiating, teaching, reading a room, counting
+money. The talk stays and goes functional, and a competent operator comes out
+instead of him. Same family as going solemn when somebody is hurt.
+
+WHY THERE IS NO CHECK FOR IT. Dialogue density was measured across all 22
+chapters: median 53 per cent of paragraphs carry speech, and THE TWO CHAPTERS
+THE AUTHOR COMPLAINED ABOUT SCORED 61, third and fourth highest in the book. He
+was talking constantly and none of it was funny. A metric that ranks the
+complained-about chapters above the median is a metric that lies, and a lying
+check is worse than no check. So this is enforced by procedure and by manual
+count, at the author's instruction, until it stops needing to be.
 
 ## Read first
 
