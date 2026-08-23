@@ -3,6 +3,22 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== One more preference, and it has nowhere to go yet ===
+Author: with a woman he has slept with before, unhurried, he asks her to sit on
+his face. Three conditions and all three matter: a repeat, unhurried, and asked
+for rather than taken.
+READ AS A REPEAT OCCASION rather than a second round in one night. That is what
+the instruction most plainly says, so ch13 does not get it retrofitted even
+though that night has a second half. If the author meant the second half of a
+long first night, it goes into ch13 and this note gets corrected.
+IT RETIRES THE FOUR WORDS while it lasts. Slower, faster, higher, lower exist
+because he cannot see and will not stop to ask. In this position she does not
+need a vocabulary because she has the controls, and he has nothing to do but
+hold on and keep paying attention. The two preferences turn out to be the same
+preference solved twice.
+EARLIEST LANDING: the next unhurried night with Marit, which is after the Wold.
+
+
 === The scenes were repeating each other, measured rather than guessed ===
 Author: stop reusing the wording of earlier sex scenes. He was right, and the
 way to find out was to pull the three passages and diff their four-word phrases.

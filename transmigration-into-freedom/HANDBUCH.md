@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 20 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 33.098 Woerter.
+Alle 4 Dokumente am Stueck. 33.468 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -586,6 +586,22 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== One more preference, and it has nowhere to go yet ===
+Author: with a woman he has slept with before, unhurried, he asks her to sit on
+his face. Three conditions and all three matter: a repeat, unhurried, and asked
+for rather than taken.
+READ AS A REPEAT OCCASION rather than a second round in one night. That is what
+the instruction most plainly says, so ch13 does not get it retrofitted even
+though that night has a second half. If the author meant the second half of a
+long first night, it goes into ch13 and this note gets corrected.
+IT RETIRES THE FOUR WORDS while it lasts. Slower, faster, higher, lower exist
+because he cannot see and will not stop to ask. In this position she does not
+need a vocabulary because she has the controls, and he has nothing to do but
+hold on and keep paying attention. The two preferences turn out to be the same
+preference solved twice.
+EARLIEST LANDING: the next unhurried night with Marit, which is after the Wold.
 
 
 === The scenes were repeating each other, measured rather than guessed ===
@@ -1518,6 +1534,20 @@ is not guesswork, because a person in the dark cannot help answering.
   sound, and he says so and behaves so. That is the load-bearing sentence in
   every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER
   PERSON MAKES. He also specifically likes what a throat does around him.
+- WITH A WOMAN HE HAS BEEN WITH BEFORE, AND WHEN THERE IS TIME, HE ASKS HER TO
+  SIT ON HIS FACE. Note the three conditions and do not lose any of them: not
+  the first time with that person, not a hurried one, and HE ASKS. It is a
+  request from underneath, which is the whole reason it belongs to him: it is
+  the flexible half of him doing the asking, and the position hands her every
+  decision in the room.
+  IT ALSO RETIRES THE FOUR WORDS, and that is the neat part. Slower, faster,
+  higher and lower exist because he cannot see and will not stop to ask. Like
+  this she does not need a vocabulary, because she has the controls in her
+  hands, and he has nothing to do but hold on and pay attention.
+  NOT YET ON THE PAGE and it must not be retrofitted into either existing scene.
+  ch13 is her first time with him and ch16 is four minutes behind a sledge.
+  The earliest it can land is the next unhurried night with Marit, which by the
+  current plan is after he comes back from the Wold.
 - THE FOUR WORDS, established ch13 with Marit and now his standing practice with
   women. Before he goes down on somebody he hands over the vocabulary:
     SLOWER. FASTER. HIGHER. LOWER.

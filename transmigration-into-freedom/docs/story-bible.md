@@ -165,6 +165,20 @@ is not guesswork, because a person in the dark cannot help answering.
   sound, and he says so and behaves so. That is the load-bearing sentence in
   every one of these scenes: THE OBJECT OF THE EXERCISE IS THE SOUND THE OTHER
   PERSON MAKES. He also specifically likes what a throat does around him.
+- WITH A WOMAN HE HAS BEEN WITH BEFORE, AND WHEN THERE IS TIME, HE ASKS HER TO
+  SIT ON HIS FACE. Note the three conditions and do not lose any of them: not
+  the first time with that person, not a hurried one, and HE ASKS. It is a
+  request from underneath, which is the whole reason it belongs to him: it is
+  the flexible half of him doing the asking, and the position hands her every
+  decision in the room.
+  IT ALSO RETIRES THE FOUR WORDS, and that is the neat part. Slower, faster,
+  higher and lower exist because he cannot see and will not stop to ask. Like
+  this she does not need a vocabulary, because she has the controls in her
+  hands, and he has nothing to do but hold on and pay attention.
+  NOT YET ON THE PAGE and it must not be retrofitted into either existing scene.
+  ch13 is her first time with him and ch16 is four minutes behind a sledge.
+  The earliest it can land is the next unhurried night with Marit, which by the
+  current plan is after he comes back from the Wold.
 - THE FOUR WORDS, established ch13 with Marit and now his standing practice with
   women. Before he goes down on somebody he hands over the vocabulary:
     SLOWER. FASTER. HIGHER. LOWER.
