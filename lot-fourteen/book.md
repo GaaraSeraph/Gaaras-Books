@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-33 Kapitel. 96.013 Woerter.
+33 Kapitel. 96.095 Woerter.
 
 Kanon sind die Dateien in `chapters/`. Je Kapitel wird automatisch die
 hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
@@ -24,7 +24,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 13 | v2.4 | 2.828 |
 | 14 | v7.5 | 2.604 |
 | 15 | v2.5 | 4.232 |
-| 16 | v1.15 | 3.200 |
+| 16 | v1.16 | 3.278 |
 | 17 | v12.9 | 2.714 |
 | 18 | v2.5 | 2.991 |
 | 19 | v1.8 | 3.215 |
@@ -41,7 +41,7 @@ hoechste Versionsnummer genommen und gegen die Kopfzeile geprueft.
 | 30 | v1.6 | 3.529 |
 | 31 | v1.4 | 3.254 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.1 | 2.568 |
+| 33 | v1.2 | 2.572 |
 
 ---
 
@@ -4553,7 +4553,7 @@ She went out to her car.
 ---
 
 # Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.15 · EN
+*Lot Fourteen* · Version 1.16 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4634,6 +4634,24 @@ Park Sang-hoon looked at him for the first time since he had sat down.
 "Everybody in this city knows that."
 
 "Then it costs me nothing to say it, and I am not going to sit here hoping you never mention it." A small pause. "A man in my position who is coy about who owns him is out of this business in six months, and rightly."
+
+---
+
+"How much."
+
+"Two hundred and twenty million."
+
+Park Sang-hoon had his glass halfway up and put it back down on the cloth.
+
+"A year?"
+
+"No."
+
+---
+
+That was the whole of it.
+
+He did not explain it and he did not say the other four words that were available. Sang-hoon did not ask a third time, because he had understood it somewhere in the middle of his own second question and had heard himself finish it anyway.
 
 Sang-hoon poured himself water.
 
@@ -10206,7 +10224,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -10242,13 +10260,13 @@ Then he put his cup down.
 
 "Then say it out loud."
 
-"Two billion two hundred million won." He did not put anything around it. "For his contract, his release, his papers, whatever the correct word is in whatever arrangement you have. Today, in one payment, and I do not require to know what you paid."
+"Two billion two hundred million won." He did not put anything around it. "For his contract, his release, his papers, whatever the correct word is in whatever arrangement you have. Today, in one payment."
 
 ---
 
 The room was very quiet.
 
-"I have made a guess about what you paid," said Sang-hoon, "and I am not going to say it, because it would be discourteous and because I might be wrong by a factor. What I will say is that in thirty-one years I have never watched anything amortise the way that has, and I am offering you the whole of it in an afternoon."
+"He told me what you paid, in November, over dinner, without being asked twice," said Sang-hoon. "I asked him whether it was a yearly figure, which is the stupidest thing I have said out loud in some years, and he let me finish the question." He was entirely level about it. "That is ten times. In thirty-one years I have never watched anything amortise like that, and I am offering you the whole of it in an afternoon."
 
 He was not looking at Georgij at all, which was also correct.
 

@@ -93,6 +93,24 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 
 **Keine Zahlen zur eigenen Person.** "Drei Wochen" hat er fast gesagt und im letzten Moment gehört: Eine solche Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Drei Leute im Saal haben ein eigenes Datum, und eine davon hat ihm acht Minuten vorher die Hand gegeben. Also "not long", auf Nachfrage "less than a year", und das klingt von außen wie Bescheidenheit. Vagheit über sich selbst ist Auslassung und keine Lüge, und sie ist ab jetzt Regel: **Über andere ist er präzise, über sich vage - gegenüber Fremden ausnahmslos.** Die Regel hat eine dokumentierte Bruchstelle, und sie ist teuer: Vierzig Minuten später sagt er auf derselben Gala zu Kang *I'm three weeks into this*, also genau die Zahl, die er bei Hong geschluckt hat, und derselbe Mann ruft zwei Tage später an. Am Telefon in Kapitel 12 hält er sie dann wieder. Innerhalb der Allianz gilt sie nicht: Gegenüber Annie und Hana datiert er sich präzise, und in Kapitel 17 ist genau diese Präzision über sich selbst das, was er hergibt.
 
+**Die zweite Bruchstelle, und sie ist die teuerste im Buch.** In Kapitel 16, in den ersten zwanzig Minuten beim Abendessen mit Sang-hoon, nennt er die Zahl. Vollständig, flach, ohne einen Zusatz:
+
+> "How much."
+>
+> "Two hundred and twenty million."
+>
+> Park Sang-hoon had his glass halfway up and put it back down on the cloth.
+>
+> "A year?"
+>
+> "No."
+
+**Warum er es tut**, ist im selben Kapitel begründet und passt zu seiner Methode dort: *"you are going to have it from me instead of working it out"*, und zwei Seiten später über die neunzehn Seiten *"You would have worked it out before the end of the evening. I preferred to be the one who said it."* Er gibt die Zahl her, weil das Verschweigen ihn in dem Raum mehr gekostet hätte als das Sagen.
+
+**Und die Regel behält recht.** Ihre Begründung lautet: Eine Zahl ist ein Datum, und ein Datum kann man neben ein anderes legen. Genau das passiert dreizehn Kapitel später. In Kapitel 33 legt Sang-hoon die 220 Millionen neben 2,2 Milliarden, sagt "das ist das Zehnfache", und benutzt Georgijs eigene Offenheit vom November als Rechengrundlage für ein Angebot auf ihn. **Die Regel ist nicht falsch, weil er sie gebrochen hat. Sie hat dreizehn Kapitel gebraucht, um die Rechnung zu stellen.**
+
+Wer das später sauber machen will: nicht anfassen. Beide Stellen sind Absicht und hängen zusammen.
+
 **Den Rest baut der Saal.** Ausbildung, Werdegang, ein Haus, für das er vorher gearbeitet hat, ein erschreckender Preis für die Exklusivität. Kein Wort davon stammt von ihm. Menschen bauen den Rest selbst, sie sind darin besser als man selbst, und sie glauben ihrer eigenen Fassung, wie sie der fremden nie glauben würden.
 
 **Was die Legende sofort einbringt.** Als Neuling darf er die schmeichelhafteste Frage der Welt stellen, und sie ist ehrlich gemeint: "Who should I be careful of?" Niemand sagt einem, wen er fürchtet. Wen man fürchten *sollte*, sagt jeder gern, und die Auswahl der Namen verrät den Sprecher. So kommt Choi Dae-ho zum ersten Mal in den Text, und mit ihm die Schwachstelle von Georgijs Verfahren: Seine Listen erfassen, wer beim Hineingehen eine Spur hinterlässt, nicht, wer anwesend ist.

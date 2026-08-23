@@ -21,7 +21,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Annie | 287 | 29 (01-33) | 1 | 74 |
 | Hana | 160 | 15 (09-31) | 1 | 74 |
 | Chairman Woo | 122 | 22 (07-32) | 3 | 74 |
-| Park Sang-hoon | 82 | 15 (10-33) | 7 | 74 |
+| Park Sang-hoon | 84 | 15 (10-33) | 7 | 74 |
 | Jang | 61 | 13 (05-33) | 4 | 55 |
 | Mrs Seo | 49 | 18 (03-33) | 1 | 74 |
 | Kim Ye-rin | 43 | 10 (14-33) | 5 | 74 |
@@ -209,12 +209,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:434 | "The eighteenth," said Annie, when the door had closed. |
 | 41 | ch15:446 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
 | 46 | ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
-| 46 | ch16:122 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
-| 46 | ch16:142 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
-| 46 | ch16:304 | "Well," said Annie. |
-| 46 | ch16:346 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
+| 46 | ch16:140 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
+| 46 | ch16:160 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
+| 46 | ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:322 | "Well," said Annie. |
+| 46 | ch16:364 | Annie had not asked him a single question since the kerb. She was not going to, either, .. |
 | 46 | ch17:10 | "Kang," said Annie. |
 | 46 | ch17:60 | Annie turned her head. |
 | 46 | ch17:78 | "Then it is February," said Annie. "Not March and not the spring." |
@@ -384,11 +384,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:386` (Tag 41) - four, one, two
 - `ch15:446` (Tag 41) - four thousand two hundred
 - `ch16:12` (Tag 46) - two
-- `ch16:122` (Tag 46) - five, sixteen thousand
-- `ch16:142` (Tag 46) - one, two
-- `ch16:190` (Tag 46) - four hundred, one
-- `ch16:296` (Tag 46) - one, two
-- `ch16:346` (Tag 46) - ten
+- `ch16:140` (Tag 46) - five, sixteen thousand
+- `ch16:160` (Tag 46) - one, two
+- `ch16:208` (Tag 46) - four hundred, one
+- `ch16:314` (Tag 46) - one, two
+- `ch16:364` (Tag 46) - ten
 - `ch17:236` (Tag 46) - two
 - `ch18:70` (Tag 48) - four
 - `ch18:96` (Tag 48) - eleven
@@ -491,8 +491,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:400 | "I know why. You need the ministry quiet and you need Ye-rin, and I am the only door to .. |
 | 41 | ch15:414 | Hana took her coat herself, from the hall, and stopped for a moment beside the stone she.. |
 | 41 | ch15:428 | "You told me tonight that you were wrong about a man's character and you told me before .. |
-| 46 | ch16:112 | The second was about Hana, and Georgij had not expected it to come from that direction. |
-| 46 | ch16:120 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
+| 46 | ch16:130 | The second was about Hana, and Georgij had not expected it to come from that direction. |
+| 46 | ch16:138 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | ch17:98 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
 | 49 | ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
 | 49 | ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
@@ -605,7 +605,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch15:258` (Tag 41) - one
 - `ch15:370` (Tag 41) - twenty
 - `ch15:374` (Tag 41) - ten
-- `ch16:120` (Tag 46) - three
+- `ch16:138` (Tag 46) - three
 - `ch17:98` (Tag 46) - one, sixteen thousand
 - `ch21:36` (Tag 49) - four
 - `ch21:88` (Tag 49) - nine
@@ -849,7 +849,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-82 Nennungen in 15 Kapiteln.
+84 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -880,24 +880,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | ch16:34 | "You ask people to guide you," said Sang-hoon. |
 | 46 | ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
 | 46 | ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
-| 46 | ch16:84 | Sang-hoon poured himself water. |
-| 46 | ch16:108 | Sang-hoon nodded once and went on eating, and it went past like a car. |
-| 46 | ch16:124 | "She does," said Sang-hoon, to nobody in particular, and ate. |
-| 46 | ch16:144 | Sang-hoon put his glass down. |
-| 46 | ch16:162 | Park Sang-hoon looked at him for slightly too long. |
-| 46 | ch16:174 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
-| 46 | ch16:184 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
-| 46 | ch16:194 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
-| 46 | ch16:210 | Sang-hoon did not touch it. |
-| 46 | ch16:220 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
-| 46 | ch16:226 | Park Sang-hoon looked at him for some time. |
-| 46 | ch16:236 | "Go on," said Sang-hoon. |
-| 46 | ch16:240 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
-| 46 | ch16:256 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
-| 46 | ch16:266 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
-| 46 | ch16:280 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
-| 46 | ch16:290 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
-| 46 | ch16:326 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | ch16:90 | Park Sang-hoon had his glass halfway up and put it back down on the cloth. |
+| 46 | ch16:100 | He did not explain it and he did not say the other four words that were available. Sang-.. |
+| 46 | ch16:102 | Sang-hoon poured himself water. |
+| 46 | ch16:126 | Sang-hoon nodded once and went on eating, and it went past like a car. |
+| 46 | ch16:142 | "She does," said Sang-hoon, to nobody in particular, and ate. |
+| 46 | ch16:162 | Sang-hoon put his glass down. |
+| 46 | ch16:180 | Park Sang-hoon looked at him for slightly too long. |
+| 46 | ch16:192 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | ch16:202 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
+| 46 | ch16:212 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | ch16:228 | Sang-hoon did not touch it. |
+| 46 | ch16:238 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | ch16:244 | Park Sang-hoon looked at him for some time. |
+| 46 | ch16:254 | "Go on," said Sang-hoon. |
+| 46 | ch16:258 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | ch16:274 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | ch16:284 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | ch16:298 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
 | 46 | ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
 | 48 | ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
@@ -921,7 +923,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | ch31:226 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
 | 7 | ch33:16 | Annie had Georgij in the room before Sang-hoon was out of the car. |
 | 7 | ch33:28 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
-| 7 | ch33:44 | "I have made a guess about what you paid," said Sang-hoon, "and I am not going to say it.. |
+| 7 | ch33:44 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
 | 7 | ch33:64 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
 | 7 | ch33:74 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
 | 7 | ch33:84 | Sang-hoon did not smile. |
@@ -947,13 +949,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch13:194` (Tag 27) - one, three
 - `ch14:136` (Tag 34) - eighteen, eleven
 - `ch14:148` (Tag 34) - one, three
-- `ch16:174` (Tag 46) - two
-- `ch16:184` (Tag 46) - one, ten
-- `ch16:194` (Tag 46) - eighteen, two
-- `ch16:220` (Tag 46) - four, two
-- `ch16:240` (Tag 46) - one
-- `ch16:266` (Tag 46) - nineteen
-- `ch16:326` (Tag 46) - four
+- `ch16:100` (Tag 46) - four
+- `ch16:192` (Tag 46) - two
+- `ch16:202` (Tag 46) - one, ten
+- `ch16:212` (Tag 46) - eighteen, two
+- `ch16:238` (Tag 46) - four, two
+- `ch16:258` (Tag 46) - one
+- `ch16:284` (Tag 46) - nineteen
+- `ch16:344` (Tag 46) - four
 - `ch17:8` (Tag 46) - one, twelve, two
 - `ch17:68` (Tag 46) - one
 - `ch18:70` (Tag 48) - four
@@ -966,7 +969,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `ch25:304` (Tag 59) - forty, seven, twelve
 - `ch30:410` (Tag 74) - one
 - `ch31:226` (Tag 74) - one
-- `ch33:44` (Tag 7) - thirty-one
+- `ch33:44` (Tag 7) - ten, thirty-one
 - `ch33:138` (Tag 7) - eleven, one
 - `ch33:206` (Tag 7) - two, two hundred million
 - `ch33:248` (Tag 7) - eleven, forty
@@ -1307,7 +1310,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | ch15:152 | "And Do-yun," said Georgij. |
 | 41 | ch15:184 | "Do-yun." |
 | 41 | ch15:186 | "Do-yun." |
-| 46 | ch16:190 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
+| 46 | ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
 | 6 | ch26:92 | The third was Kim Do-yun. |
 | 6 | ch26:136 | Kim Do-yun spoke for the first time. |
 | 6 | ch26:148 | Do-yun's face did nothing at all. |
@@ -1336,7 +1339,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `ch14:22` (Tag 31) - one
 - `ch14:26` (Tag 31) - forty
-- `ch16:190` (Tag 46) - four hundred, one
+- `ch16:208` (Tag 46) - four hundred, one
 - `ch26:286` (Tag 6) - one
 - `ch29:78` (Tag 74) - two
 - `ch30:342` (Tag 74) - four
@@ -1456,7 +1459,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Tag | Fundstelle | Zeile |
 |---|---|---|
 | 6 | ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 46 | ch16:296 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
+| 46 | ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
 | 46 | ch17:80 | "February is when we lose her. It is not when we move." Georgij looked at the back of Mr.. |
 | 46 | ch17:136 | There was a small motor noise from the front of the car, and the panel behind Mr Pyo's h.. |
 | 46 | ch17:194 | The car stopped. Mr Pyo came round and opened her door and did not look at anybody, whic.. |
@@ -1469,7 +1472,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Mr Pyo
 
 - `ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `ch16:296` (Tag 46) - one, two
+- `ch16:314` (Tag 46) - one, two
 - `ch17:80` (Tag 46) - four, two
 - `ch17:136` (Tag 46) - three, two
 - `ch28:244` (Tag 1) - eleven, one

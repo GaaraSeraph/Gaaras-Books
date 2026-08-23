@@ -1,5 +1,5 @@
 # Chapter 33: That is five
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -35,13 +35,13 @@ Then he put his cup down.
 
 "Then say it out loud."
 
-"Two billion two hundred million won." He did not put anything around it. "For his contract, his release, his papers, whatever the correct word is in whatever arrangement you have. Today, in one payment, and I do not require to know what you paid."
+"Two billion two hundred million won." He did not put anything around it. "For his contract, his release, his papers, whatever the correct word is in whatever arrangement you have. Today, in one payment."
 
 ---
 
 The room was very quiet.
 
-"I have made a guess about what you paid," said Sang-hoon, "and I am not going to say it, because it would be discourteous and because I might be wrong by a factor. What I will say is that in thirty-one years I have never watched anything amortise the way that has, and I am offering you the whole of it in an afternoon."
+"He told me what you paid, in November, over dinner, without being asked twice," said Sang-hoon. "I asked him whether it was a yearly figure, which is the stupidest thing I have said out loud in some years, and he let me finish the question." He was entirely level about it. "That is ten times. In thirty-one years I have never watched anything amortise like that, and I am offering you the whole of it in an afternoon."
 
 He was not looking at Georgij at all, which was also correct.
 
