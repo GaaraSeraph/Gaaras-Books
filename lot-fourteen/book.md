@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 39 Kapitel, 112.929 Woerter.
+2 Baende, 39 Kapitel, 112.990 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 02 | v1.0 | 2.029 |
 | 2 | 03 | v1.0 | 2.015 |
 | 2 | 04 | v1.3 | 2.698 |
-| 2 | 05 | v1.2 | 2.780 |
+| 2 | 05 | v1.4 | 2.841 |
 
 ---
 
@@ -12220,7 +12220,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -12392,7 +12392,15 @@ The clock in the hall did the thing it does at the quarter, and neither of them 
 
 "Louder."
 
-"There is no such man as the one I have been describing. A page with four dull entries on it is worth nothing. A page with four entries on it, one of them attached to a man who lives in your house, is worth a very great deal. What makes it worth that is not the entry. It is that I have been walking round the city since March asking about it." He did not stop. "I have spent nine days building a tool that only works in the hand of a man nobody owns. Somebody owns me."
+"There is no such man as the one I have been describing. A page with four dull entries on it is worth nothing. A page with four entries on it, one of them attached to a man out of your house, is worth a very great deal. What makes it worth that is not the entry. It is that I have been walking round the city since March asking about it."
+
+---
+
+"And there is the second half of it, and it is mine and not yours," he said. "I have been doing all of this wearing a mark that is empty. Every man in that corridor read it and left me alone. Not one of them has looked."
+
+"And this afternoon."
+
+"This afternoon I made thirteen of them curious about the one book that would tell them there is nothing behind it."
 
 ---
 
@@ -12400,11 +12408,15 @@ Annie sat down at last, on the arm of the reading chair, which is not sitting.
 
 "That is why I have not moved since February," she said. "It was not patience and it was not cleverness. There is no move available to me that does not confirm the line matters, and there is no man available to me who is not visibly out of this house."
 
-"There is one thing you could do about it, and I am going to say it once so that it is not sitting in the room."
+"There is one thing that mends my half of it, and I am going to say it once so that it is not sitting in the room."
 
 "Say it."
 
-"You could let me go. Then the man I have been describing exists, and there is no second way of doing this." He said it evenly. "I have looked at it and put it down. I am telling you because you would have found out that I had looked, and then you would have had to wonder for a week whether I put it down."
+"You could have me put back in the book." He said it evenly. "A mark with something behind it works on everybody. A mark with nothing behind it works until one man checks."
+
+"And."
+
+"And it costs your name on a live page to do it." He did not look away. "I looked at it on Saturday and I put it down. I am telling you so that you do not spend a week wondering whether I put it down."
 
 ---
 

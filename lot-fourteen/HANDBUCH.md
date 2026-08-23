@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 89.274 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 89.476 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2378,7 +2378,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
 
-- **Band 2, Kapitel 5** *The east side* (v1.2) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
+- **Band 2, Kapitel 5** *The east side* (v1.4) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
 
   **Der Einstieg ist die Falle aus Kapitel 4, und er raeumt sie selbst ab.** Er sagt zuerst, was er nicht beweisen kann: Jang stand auf dem Kies, sie hatte es vor ihm. *"There is no way for me to show you which of us was going to say it first. ... I would only be asking you to take my word for the one thing my word is no good for."* Annies Antwort setzt das Thema: **"The order is not what is wrong with today."**
 
@@ -2388,7 +2388,13 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und warum er nicht fragen durfte, nicht konnte:** *"The one thing in this that has any value at all is that nobody sent me. ... You are the one person alive who cannot touch that book."*
 
-  **Der Fehler in seinem eigenen Argument, den sie ihn aussprechen laesst:** *"I am the line."* Eine Seite mit vier stumpfen Zeilen ist nichts wert; eine Seite, an der ein Mann aus ihrem Haus haengt, der seit Maerz danach fragt, ist sehr viel wert - **und zwar wegen des Fragens.** *"I have spent nine days building a tool that only works in the hand of a man nobody owns. Somebody owns me."* **Die Fassung mit doppelter Verneinung stand bis zum 23.08. da und war logisch richtig und unlesbar** - drei Verneinungen dicht hintereinander, der Leser muss einen Beweis mitrechnen. Ausserdem ist *instrument* im Buch die Vollmacht, seit Band 2, Kapitel 1. Er spricht die Folge einmal laut aus und legt sie hin: *"You could let me go. Then the man I have been describing exists, and there is no second way of doing this."* Sie geht darauf mit keinem Wort ein.
+  **Der Fehler in seinem eigenen Argument, den sie ihn aussprechen laesst:** *"I am the line."* Eine Seite mit vier stumpfen Zeilen ist nichts wert; eine Seite, an der ein Mann aus ihrem Haus haengt, der seit Maerz danach fragt, ist sehr viel wert - **und zwar wegen des Fragens.**
+
+  **Und dann die zweite Haelfte, die ihm gehoert und nicht ihr, und die in drei Fassungen falsch dastand.** Sie ergibt sich aus `doc/04-world.md`: seit dem 19. Februar ist der Eintrag **gestrichen**. Wer ihn ansieht, liest Besitz und fasst ihn nicht an; **wer nachschlaegt, findet nichts** - und dann steht *"a man who belongs to nobody is stock"*. Das Halsband ist ein **Zeichen ohne Deckung**. *"I have been doing all of this wearing a mark that is empty. Every man in that corridor read it and left me alone. Not one of them has looked."* - **"And this afternoon."** - *"This afternoon I made thirteen of them curious about the one book that would tell them there is nothing behind it."*
+
+  **Die drei gescheiterten Fassungen, weil der Fehler jedes Mal eine Ebene tiefer sass.** Erstens *"an instrument that only exists if I am not yours"*: logisch richtig, aber drei Verneinungen dicht hintereinander, und *instrument* ist im Buch die Vollmacht. Zweitens *"Somebody owns me"*: schickt den Leser aufs Papier. Drittens *"nobody can place"*: naeher dran, aber immer noch die falsche Gefahr. **Die Gefahr ist nicht, dass jemand herausfindet, dass er ihr gehoert. Die Gefahr ist, dass jemand herausfindet, dass er es nicht tut.**
+
+  **Daraus folgt auch, welche Option er weglegt, und die erste Fassung hatte die verkehrte.** *Freilassen* ist sinnlos - er ist auf dem Papier bereits frei. Die Option ist die umgekehrte: **sich wieder eintragen zu lassen.** *"A mark with something behind it works on everybody. A mark with nothing behind it works until one man checks."* - **"And."** - *"And it costs your name on a live page to do it."* Er legt also seinen eigenen Schutz hin, um sie nicht auf eine lebende Seite zu setzen, und sagt an keiner Stelle, dass er das tut. Sie geht darauf mit keinem Wort ein.
 
   **Was Annie tatsaechlich boese macht, und es ist ein Eigentumsdelikt.** Zwei Ausgaben an einem Nachmittag, beide von derselben Sache - seiner Unsichtbarkeit - und beide von ihm allein bepreist. Erstens Sang-hoon, der jetzt weiss, dass dieses Haus sich fuer ein Buch am Fluss interessiert. Zweitens **das Kondolenzbuch**: sein Name, mit Datum, an der Tuer eines Raumes mit dem halben Gewerbe darin, und dann die Bitte um den Strich, die ihn fuer jeden in Hoerweite merkbar macht. **Regel 2 dreht sich zum ersten Mal gegen ihn.** Er besitzt nichts - bisher war das seine Freiheit, hier ist es die Anklage.
 
@@ -5153,12 +5159,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:124 | Annie put one hand down on the desk. |
 | 60 | b2ch05:142 | Annie waited. |
 | 60 | b2ch05:162 | "That is a good argument," said Annie. "Now say the flaw in it, because you have known i.. |
-| 60 | b2ch05:178 | Annie sat down at last, on the arm of the reading chair, which is not sitting. |
-| 60 | b2ch05:190 | Annie was quiet for a moment. |
-| 60 | b2ch05:222 | Annie stood up off the arm of the chair. |
-| 60 | b2ch05:262 | Annie went to the drawer on the left of the desk, which he has watched her open perhaps .. |
-| 60 | b2ch05:280 | "The fourth one," said Annie. "The one with no car and no dinner." |
-| 60 | b2ch05:290 | She did not ask him what he thought it meant, and she did not ask him whether he had gon.. |
+| 60 | b2ch05:186 | Annie sat down at last, on the arm of the reading chair, which is not sitting. |
+| 60 | b2ch05:202 | Annie was quiet for a moment. |
+| 60 | b2ch05:234 | Annie stood up off the arm of the chair. |
+| 60 | b2ch05:274 | Annie went to the drawer on the left of the desk, which he has watched her open perhaps .. |
+| 60 | b2ch05:292 | "The fourth one," said Annie. "The one with no car and no dinner." |
+| 60 | b2ch05:302 | She did not ask him what he thought it meant, and she did not ask him whether he had gon.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -5247,8 +5253,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:110` (Tag 60) - nine, one
 - `b2ch05:124` (Tag 60) - one
 - `b2ch05:162` (Tag 60) - twelve
-- `b2ch05:262` (Tag 60) - four
-- `b2ch05:280` (Tag 60) - one
+- `b2ch05:274` (Tag 60) - four
+- `b2ch05:292` (Tag 60) - one
 
 ---
 
@@ -5800,8 +5806,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 | 60 | b2ch05:50 | "What did you pay Park Sang-hoon with." |
 | 60 | b2ch05:82 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
-| 60 | b2ch05:214 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
-| 60 | b2ch05:252 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
+| 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
+| 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -5922,7 +5928,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
-| 60 | b2ch05:318 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
+| 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
 
 ### Zahlen in der Naehe von Jang
 

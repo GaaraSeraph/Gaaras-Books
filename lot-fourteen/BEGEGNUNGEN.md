@@ -411,12 +411,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:124 | Annie put one hand down on the desk. |
 | 60 | b2ch05:142 | Annie waited. |
 | 60 | b2ch05:162 | "That is a good argument," said Annie. "Now say the flaw in it, because you have known i.. |
-| 60 | b2ch05:178 | Annie sat down at last, on the arm of the reading chair, which is not sitting. |
-| 60 | b2ch05:190 | Annie was quiet for a moment. |
-| 60 | b2ch05:222 | Annie stood up off the arm of the chair. |
-| 60 | b2ch05:262 | Annie went to the drawer on the left of the desk, which he has watched her open perhaps .. |
-| 60 | b2ch05:280 | "The fourth one," said Annie. "The one with no car and no dinner." |
-| 60 | b2ch05:290 | She did not ask him what he thought it meant, and she did not ask him whether he had gon.. |
+| 60 | b2ch05:186 | Annie sat down at last, on the arm of the reading chair, which is not sitting. |
+| 60 | b2ch05:202 | Annie was quiet for a moment. |
+| 60 | b2ch05:234 | Annie stood up off the arm of the chair. |
+| 60 | b2ch05:274 | Annie went to the drawer on the left of the desk, which he has watched her open perhaps .. |
+| 60 | b2ch05:292 | "The fourth one," said Annie. "The one with no car and no dinner." |
+| 60 | b2ch05:302 | She did not ask him what he thought it meant, and she did not ask him whether he had gon.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -505,8 +505,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:110` (Tag 60) - nine, one
 - `b2ch05:124` (Tag 60) - one
 - `b2ch05:162` (Tag 60) - twelve
-- `b2ch05:262` (Tag 60) - four
-- `b2ch05:280` (Tag 60) - one
+- `b2ch05:274` (Tag 60) - four
+- `b2ch05:292` (Tag 60) - one
 
 ---
 
@@ -1058,8 +1058,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
 | 60 | b2ch05:50 | "What did you pay Park Sang-hoon with." |
 | 60 | b2ch05:82 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
-| 60 | b2ch05:214 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
-| 60 | b2ch05:252 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
+| 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
+| 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1180,7 +1180,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch34:98 | He walked the house at night the way he had walked it on the fourth of October, and the .. |
 | 60 | b2ch04:286 | Jang met the car on the gravel, which he does not do. |
 | 60 | b2ch05:8 | "Jang was on the gravel," he said. "He does not stand out there, and knowing where the c.. |
-| 60 | b2ch05:318 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
+| 60 | b2ch05:330 | She had not asked him whether he would have told her if Jang had been in the kitchen. |
 
 ### Zahlen in der Naehe von Jang
 
