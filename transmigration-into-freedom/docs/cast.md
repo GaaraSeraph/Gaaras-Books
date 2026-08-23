@@ -268,6 +268,32 @@ Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
 
+Gunnar, the lord's man, out of the Wold, about forty (ch26)
+- A good coat, a bag, two wax tablets, two riders. Rode on Ketil's report.
+- NOT A VILLAIN AND MUST NOT BECOME ONE. He keeps a ledger, he has a superior,
+  and he does not want to be blamed. He is also not stupid: he hears the whole
+  argument for the crew and immediately asks to conscript them.
+- "I cannot engage anything. I do not have that." "No. You have the tablet."
+- He writes Oldstep onto a roll and rides out. THE THREAD HE LEAVES: somebody
+  above him now has a company name and a price in front of them.
+
+Solva, ch26: WENT UP, carried nothing, ran the bottom of the hill by mid
+morning because forty years of telling these men what to do does not switch
+off in a dead city. Asked to be shown where Teodor was and asked for nothing
+else. AND SHE IS THE ONE WHO SPOTS THE BUILT-UP HEEL in the boots, which
+nobody had looked at since ch3.
+
+Ylva, ch27: BATS SIVERT BACK WITH HER OWN SENTENCE, "Ask me in the spring,"
+and says out loud that she intends to get years out of it. Still not closed,
+still hers, and the spring promise now has two people waiting on it.
+
+Sivert, ch27: ASKS YLVA HIMSELF, with no run-up, in front of everybody. That
+is the arc from a boy who could not say anything to a man who says the thing
+cold. And he kisses Marit using the ladder Gaara taught him in the forge.
+
+Marit, ch27: RUNS THE ROOM, in the same week she ran the city. Solves the
+geometry of three people in one line and then revises it without a blush.
+
 Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
 - Forge three times the size of Rulf's, hot before dawn, racks down the whole
   south wall. LEVEL 9. Built like something you would need a horse to move.

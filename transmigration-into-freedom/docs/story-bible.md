@@ -31,7 +31,9 @@ nicht diese Zeile von Hand.
 23. Two Coins Short
 24. Somebody Has to Look at Him
 25. The First of Four
-26. (planned) the lord's man, and trip two with Solva
+26. Then Write Us Down
+27. Everything After That Is Filing
+28. (planned) the blade, and what a company owes the man who hired it
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -796,7 +798,12 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   DOWN. No grey at the edges, no arithmetic about whether the leg holds. "Oh,
   that is what that is for." That is the whole return on ch24, delivered
   physically rather than explained.
-  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, THREE unspent points.
+  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, SEVEN unspent points.
+  THE LADDER: a level pays one point more than the level before it, 3, 4, 5,
+  6, 7, and the +1 each to STR/DEX/CON on top is free and never in the pool.
+  AND HE HOLDS ALL SEVEN, which is new. Every purchase so far answered the
+  last fight; he wants to see what the city asks for before he buys. "I would
+  like to be rich in the correct currency."
   Arithmetic checked against ch24: 345 + 20 (level) + 15 (CON) = 380.
 - (ch25) THE LEVEL ECONOMY IS NOW STATED AS POLICY. "The nine in the avenue was
   worth most of a level on its own. The eleven was worth the rest of it and
@@ -1129,6 +1136,88 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The lord's man, and Oldstep goes on a roll (ch26)
+- GUNNAR, the lord's man out of the Wold, about forty, a good coat, a bag and
+  TWO WAX TABLETS. Two riders with him. He came on Ketil's report, nine days
+  after the horse left, and KETIL IS NOT WITH HIM, which Gaara notes and files.
+  He is not a villain and must never be written as one: a ledger, a superior,
+  and an appetite for not being blamed. "I have met four hundred of you."
+- THE DISPLAY WAS NOT STAGED, and that is the whole point of the chapter. The
+  bible had it as a thing to arrange; what actually happened is that the crew
+  came down the hill loaded at the moment the horses were in the road, so he
+  simply WALKED THE MAN PAST WHAT WAS ALREADY THERE. Four crawlers on a sledge,
+  Ylva sorting iron, Bern riving elm with one leg, six lines nailed to a byre.
+  "I have not tidied anything up for you and I would like that on the record."
+  The ch17-onward sharpening holds: DISPLAY THE CREW, NOT THE HOLE.
+- THE THREE SENTENCES he hands over, deliberately, because Gunnar will be asked
+  for them by a man who is not listening: there is more of it and it is worse;
+  it is handled, at their own cost, by people whose children are in the ground
+  over it; the war is east and nothing here pays for a soldier.
+- AND HIS OWN ARGUMENT COMES BACK AT HIM WITH A BAG ON. Gunnar asks for SIX
+  NAMES for the spring levy, precisely because he has been told these are not
+  villagers. "That is exactly the problem you have made for yourself."
+- THE COUNTER IS THE CHARACTER: he cannot refuse and does not try. HE CHANGES
+  THE UNIT. Not six men off a roll, a COMPANY ENGAGED FOR A SEASON at a stated
+  price, which is how a lord buys a bridge. This is the first commercial use of
+  the ch23 Staple registration and it is what Hades was for.
+  "Conscription is the worst procurement I have ever seen in either world. You
+  take the asset. You break it. You do not maintain it."
+- WHAT IS IRREVERSIBLE, and Hallvard watches it happen from his own doorway:
+  GUNNAR WRITES OLDSTEP DOWN. Name of the place, count of the houses, who
+  speaks for it, what comes out of the hill and what stands in front of it.
+  A THING ON A ROLL GETS TAXED AND GETS ASKED FOR MEN. It also EXISTS, and can
+  be written to, and can complain, and CAN BE PAID. Thirty-one years of staying
+  off every list ends in a morning, by Gaara's design, and cannot be undone.
+  Hallvard's line closes it: "Aldis would have burned the boards."
+- GUNNAR CANNOT ACTUALLY ENGAGE ANYTHING and says so. He has the tablet. That
+  is the honest limit of such a man and the reason the chapter does not cheat.
+- SOLVA WENT UP, and did not carry one thing, and by mid morning was running
+  the bottom of the hill because she has been telling these men what to do
+  since they were four. "One of those is a doctrine and I wrote it. The other
+  one is witchcraft."
+  SHE ASKS TO BE SHOWN WHERE TEODOR WAS, and gets forty seconds of exactly what
+  he found, and asks for nothing else.
+  AND SHE DIAGNOSES HIM IN THE STREET: the boots have a BUILT-UP HEEL, twice,
+  put there for Teodor's ankle, and Gaara has been walking on the wrong edge of
+  his foot since harvest. He cuts it out on Bern's bench the next morning and
+  gives the leather away. THE FIRST THING HE HAS EVER TAKEN OFF THOSE BOOTS.
+
+The night, and he stops counting (ch27)
+- SIVERT ASKS YLVA, with no run-up at all, in front of Marit and Gaara and a
+  fire. HER ANSWER IS HER OWN SENTENCE BACK: "Ask me in the spring." It is not
+  a no about him and it is not Gaara asking twice, which is why the offer had
+  to come from Sivert. "It is a good sentence. I am going to get years out of
+  it."
+- THREE PEOPLE, AND THE GOVERNING SENSE IS TRAFFIC. Every earlier scene has
+  one: ch13 inventory, ch16 speed, ch20 hearing, ch22 silence. THIS ONE IS
+  ALLOCATION, and it is the joke and the theme at once: a man who has spent all
+  day deciding what goes where has two hands and three people and loses control
+  of the distribution inside a minute. "I have run a floor of ninety people. I
+  have never once been this badly outnumbered." "Then stop running it."
+- MARIT RUNS IT, which is the bed version of the ch25 milestone, in the same
+  week. And she solves the geometry herself: "I am not doing anything with
+  him. I am doing something to you. He can hold you still." She then revises
+  it, out loud, and is not embarrassed.
+- THREE OF THE FOUR RESERVED IMAGES ARE SPENT HERE AND ONE IS NOT.
+  SITTING ON HIS FACE: all three conditions met, not her first time with him,
+  unhurried, and HE ASKS, lying down. The four words are retired exactly as the
+  bible said they would be, because she has the controls.
+  THE LEGS BEHIND THE EARS lands on SIVERT and is a comic beat first: he gets
+  two words out and never finishes the sentence. "You said you would. Everything
+  after that is filing."
+  THE VOCABULARY BEING ABANDONED: she stops using words at all in the middle.
+  HEELS UP AT THE RAFTERS IS STILL UNSPENT. The beam is in the room and was not
+  used, deliberately, so there is one left.
+- THE LADDER GETS INHERITED. Marit and Sivert kiss for the first time over the
+  top of him, and it goes up the ladder one step at a time because SIVERT
+  LEARNED IT OFF HIM IN THE FORGE AND IS NOW USING IT ON SOMEBODY ELSE. "That
+  is mine."
+- AND THE CLOSING BEAT IS THE CHAPTER'S ARGUMENT: Marit catches him doing
+  arithmetic in a bed and he is not. First time in the book. He still does not
+  spend the seven points, and by the morning the reason has changed: what is
+  coming next rode out of the road with a wax tablet, and there is no attribute
+  on the panel that is any use against it.
 
 The first trip, and the Stage 4 milestone lands (ch25)
 - MARIT TOOK THEM IN TWICE WHILE HE WAS AWAY AND LOST NOBODY. Four hours, then

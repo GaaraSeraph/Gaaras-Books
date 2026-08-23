@@ -2,8 +2,8 @@
 
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
-Kanon: 25 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 58.630 Woerter.
+Kanon: 27 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
+Alle 4 Dokumente am Stueck. 61.106 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -284,6 +284,32 @@ the front page for it - "I am not having what Bern has."
 Ask, ch25: THE PARTY'S EARLY WARNING, and it is involuntary. He stops, turns
 his head ten degrees, and goes still, and that is Ask being frightened. He has
 no other way of saying it and Marit is the one who worked that out.
+
+Gunnar, the lord's man, out of the Wold, about forty (ch26)
+- A good coat, a bag, two wax tablets, two riders. Rode on Ketil's report.
+- NOT A VILLAIN AND MUST NOT BECOME ONE. He keeps a ledger, he has a superior,
+  and he does not want to be blamed. He is also not stupid: he hears the whole
+  argument for the crew and immediately asks to conscript them.
+- "I cannot engage anything. I do not have that." "No. You have the tablet."
+- He writes Oldstep onto a roll and rides out. THE THREAD HE LEAVES: somebody
+  above him now has a company name and a price in front of them.
+
+Solva, ch26: WENT UP, carried nothing, ran the bottom of the hill by mid
+morning because forty years of telling these men what to do does not switch
+off in a dead city. Asked to be shown where Teodor was and asked for nothing
+else. AND SHE IS THE ONE WHO SPOTS THE BUILT-UP HEEL in the boots, which
+nobody had looked at since ch3.
+
+Ylva, ch27: BATS SIVERT BACK WITH HER OWN SENTENCE, "Ask me in the spring,"
+and says out loud that she intends to get years out of it. Still not closed,
+still hers, and the spring promise now has two people waiting on it.
+
+Sivert, ch27: ASKS YLVA HIMSELF, with no run-up, in front of everybody. That
+is the arc from a boy who could not say anything to a man who says the thing
+cold. And he kisses Marit using the ladder Gaara taught him in the forge.
+
+Marit, ch27: RUNS THE ROOM, in the same week she ran the city. Solves the
+geometry of three people in one line and then revises it without a blush.
 
 Ordulf, smith, in the Touch, about sixty (ch19 named, ch23 refuses, ch24 onstage)
 - Forge three times the size of Rulf's, hot before dawn, racks down the whole
@@ -616,11 +642,29 @@ ch23 or ch24 has to put him back in front of something that can hurt him.
 Chapter 25: LEVEL 6 at fifteen kills, and the price held. The nine in ch17 was
 worth most of a level; the eleven here was worth the rest and change; the five
 kills the party took that morning were worth nothing to him at all. ONE LEVEL IN
-EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, three unspent.
+EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, SEVEN unspent, and for the
+first time in the book HE DOES NOT SPEND THEM ON THE WAY HOME. Every purchase
+so far bought the answer to the fight he had just survived; he wants the next
+one to be bought against the fight ahead.
 THE STAGE 4 MILESTONE IS DELIVERED and it was overdue since ch12: Marit ran two
 trips into the city without him and lost nobody, using the wall instead of the
 numbers because she cannot see the numbers. She also improved the doctrine,
 which is the part that makes it a real handover rather than a copy of him.
+
+THE POINT LADDER, and it is arithmetic, not taste. A level pays out ONE MORE
+POINT THAN THE ONE BEFORE IT: level 1 to 2 pays 3, 2 to 3 pays 4, 3 to 4 pays
+5, 4 to 5 pays 6, 5 to 6 pays 7. On top of that every level gives a free +1 to
+STR, DEX and CON, which is not spendable and never counted in the pool.
+check.py fuehrt das jetzt als Kasse: Level-Zeile bucht ein, jeder
+"X: a to b"-Block bucht b-a aus, jede Unspent-Zeile ist ein Kassensturz.
+ch25 stand auf 3 statt 7 und ist so gefunden worden.
+
+Chapters 26 and 27: NO LEVEL, NO KILL WORTH COUNTING, AND THE BIGGEST CHANGE
+IN THE BOOK SO FAR. Oldstep goes onto a lord's roll, which cannot be undone,
+and Hades gets its first commercial use as a way of NOT handing over six men.
+The seven points stay unspent through both chapters, and the reason changes
+between them: in ch25 he is waiting to see what the city asks, and by the end
+of ch27 he knows what is actually coming and there is no attribute for it.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not
@@ -734,6 +778,72 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== ch26: the display happens by accident, and that is better ===
+The bible had the carcass display as something to ARRANGE. Written, it turned
+out stronger unstaged: the crew comes down the hill loaded at the moment the
+horses are in the road, so there is nothing to set up and he simply chooses the
+route. That keeps rule one intact without any effort at all, and it lets him
+say the line that makes the scene: "I have not tidied anything up for you."
+AND THE TRICK IS TURNED ON HIM IN THE SAME SCENE, which is what stops it being
+a man being clever at somebody. Pointing the appetite east works, and the
+appetite turns round and asks for the crew. His own argument with a bag on.
+THE COUNTER IS NOT A REFUSAL. He cannot refuse and says so. He changes the
+unit: not six men, a company engaged for a season. First commercial use of the
+ch23 registration, which is why that chapter existed.
+THE PRICE IS REAL AND PERMANENT: Oldstep goes on a roll. Taxed, levied, and
+also finally EXISTING - able to be written to, to complain, and to be paid.
+Hallvard watches his thirty-one years end from his own doorway.
+
+=== ch27: split off, and the night gets its own chapter ===
+The two ran to 3346 words as one file, which would have been the longest in the
+book. CLAUDE.md says find the seam and split rather than cut the talk, and the
+seam was clean: the horses leave, the village eats. 2337 and 1017.
+IT ALSO SERVES THE AUTHOR'S ACTUAL REQUEST. He asked for more sexual scenes;
+burying one behind a negotiation as an appendix is the opposite of that.
+
+=== The threesome, and why Gaara does not invite Ylva ===
+Author's standing instruction: if there is ever a threesome, he invites Ylva,
+and I decide whether she accepts. IT CANNOT BE HIM WHO ASKS. He asked her in
+ch21 and she said no, and "I do not ask twice" is his own rule and the reason
+her no was worth anything. So SIVERT ASKS HER, cold, with no run-up, which is
+also the biggest thing Sivert has ever done.
+SHE SAYS ASK ME IN THE SPRING, which is her ch24 line to Gaara, reused. Not a
+no about anybody. The spring promise now has two people waiting on it and the
+arc document's objection to spending her early is untouched.
+
+=== The governing sense of the ch27 scene is ALLOCATION ===
+Every scene has one so they cannot blur: ch13 inventory, ch16 speed, ch20
+hearing, ch22 silence. This one is a distribution problem, which is the joke
+and the theme in the same object: a man who has spent the entire day deciding
+what goes where has two hands and three people, and Marit takes it off him.
+THREE OF THE FOUR RESERVED IMAGES ARE SPENT, and heels-up-at-the-rafters is
+deliberately NOT, so there is one left. The beam is in the room, unused.
+THE FOUR WORDS RETIRE EXACTLY AS PLANNED, because she has the controls.
+
+=== The corporate joke ceiling is lifted for these two ===
+CLAUDE.md sets the normal dose at one or two a chapter and the ceiling at four.
+The author asked for MANY corporate and suggestive lines. ch26 runs to about
+seven and it holds, because the scene is an audit and the corporate register is
+the literal subject rather than a simile laid over something else. THE
+NARRATION STILL CARRIES NONE. That limit is not lifted and must not be.
+
+
+=== The attribute points go up by one a level, and check.py keeps the till ===
+Author caught it: 3, 4, 5, 6 and then ch25 said 3. The ladder is one more
+point per level and it had held for eleven status windows before it slipped.
+FIXED AS A LEDGER RATHER THAN A NUMBER, because a corrected number drifts
+again the next time. check.py walks each chapter IN DOCUMENT ORDER: a Level
+line pays in, an "X: a to b" block pays out b-a, an Unspent line is a till
+count. Document order matters - ch03 states the balance before spending it,
+ch11 after.
+PROVED BY WATCHING IT FIRE. Ledger in first, on the broken text: it reported
+ch25 and nothing else, so the other eleven windows are arithmetically clean.
+AND SEVEN UNSPENT POINTS NEEDED A REASON ON THE PAGE. He has spent every
+point within a minute of getting it three times running; holding them silently
+would be the character changing off-screen. So he says why, and it is a
+genuine shift: he has been buying the answer to the last fight.
 
 
 === A pre-scored form cannot hold dictated terms ===
@@ -2479,7 +2589,9 @@ nicht diese Zeile von Hand.
 23. Two Coins Short
 24. Somebody Has to Look at Him
 25. The First of Four
-26. (planned) the lord's man, and trip two with Solva
+26. Then Write Us Down
+27. Everything After That Is Filing
+28. (planned) the blade, and what a company owes the man who hired it
 
 Titles from Chapter 5 on should promise something rather than describe it.
 
@@ -3244,7 +3356,12 @@ nothing. The hole gets bigger, not smaller (thread 10, thread 27).
   DOWN. No grey at the edges, no arithmetic about whether the leg holds. "Oh,
   that is what that is for." That is the whole return on ch24, delivered
   physically rather than explained.
-  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, THREE unspent points.
+  NUMBERS: HP 286/380, STR 16, DEX 21, CON 18, Kills 15, SEVEN unspent points.
+  THE LADDER: a level pays one point more than the level before it, 3, 4, 5,
+  6, 7, and the +1 each to STR/DEX/CON on top is free and never in the pool.
+  AND HE HOLDS ALL SEVEN, which is new. Every purchase so far answered the
+  last fight; he wants to see what the city asks for before he buys. "I would
+  like to be rich in the correct currency."
   Arithmetic checked against ch24: 345 + 20 (level) + 15 (CON) = 380.
 - (ch25) THE LEVEL ECONOMY IS NOW STATED AS POLICY. "The nine in the avenue was
   worth most of a level on its own. The eleven was worth the rest of it and
@@ -3577,6 +3694,88 @@ The forge, and the first arrangement (ch19)
   cannot be charming about it. Forty, behind that gate since she was twenty,
   and a stranger told her a number about herself last week and she has not
   slept since. SHE IS THE COMPANION. Marit stays, Ylva goes.
+
+The lord's man, and Oldstep goes on a roll (ch26)
+- GUNNAR, the lord's man out of the Wold, about forty, a good coat, a bag and
+  TWO WAX TABLETS. Two riders with him. He came on Ketil's report, nine days
+  after the horse left, and KETIL IS NOT WITH HIM, which Gaara notes and files.
+  He is not a villain and must never be written as one: a ledger, a superior,
+  and an appetite for not being blamed. "I have met four hundred of you."
+- THE DISPLAY WAS NOT STAGED, and that is the whole point of the chapter. The
+  bible had it as a thing to arrange; what actually happened is that the crew
+  came down the hill loaded at the moment the horses were in the road, so he
+  simply WALKED THE MAN PAST WHAT WAS ALREADY THERE. Four crawlers on a sledge,
+  Ylva sorting iron, Bern riving elm with one leg, six lines nailed to a byre.
+  "I have not tidied anything up for you and I would like that on the record."
+  The ch17-onward sharpening holds: DISPLAY THE CREW, NOT THE HOLE.
+- THE THREE SENTENCES he hands over, deliberately, because Gunnar will be asked
+  for them by a man who is not listening: there is more of it and it is worse;
+  it is handled, at their own cost, by people whose children are in the ground
+  over it; the war is east and nothing here pays for a soldier.
+- AND HIS OWN ARGUMENT COMES BACK AT HIM WITH A BAG ON. Gunnar asks for SIX
+  NAMES for the spring levy, precisely because he has been told these are not
+  villagers. "That is exactly the problem you have made for yourself."
+- THE COUNTER IS THE CHARACTER: he cannot refuse and does not try. HE CHANGES
+  THE UNIT. Not six men off a roll, a COMPANY ENGAGED FOR A SEASON at a stated
+  price, which is how a lord buys a bridge. This is the first commercial use of
+  the ch23 Staple registration and it is what Hades was for.
+  "Conscription is the worst procurement I have ever seen in either world. You
+  take the asset. You break it. You do not maintain it."
+- WHAT IS IRREVERSIBLE, and Hallvard watches it happen from his own doorway:
+  GUNNAR WRITES OLDSTEP DOWN. Name of the place, count of the houses, who
+  speaks for it, what comes out of the hill and what stands in front of it.
+  A THING ON A ROLL GETS TAXED AND GETS ASKED FOR MEN. It also EXISTS, and can
+  be written to, and can complain, and CAN BE PAID. Thirty-one years of staying
+  off every list ends in a morning, by Gaara's design, and cannot be undone.
+  Hallvard's line closes it: "Aldis would have burned the boards."
+- GUNNAR CANNOT ACTUALLY ENGAGE ANYTHING and says so. He has the tablet. That
+  is the honest limit of such a man and the reason the chapter does not cheat.
+- SOLVA WENT UP, and did not carry one thing, and by mid morning was running
+  the bottom of the hill because she has been telling these men what to do
+  since they were four. "One of those is a doctrine and I wrote it. The other
+  one is witchcraft."
+  SHE ASKS TO BE SHOWN WHERE TEODOR WAS, and gets forty seconds of exactly what
+  he found, and asks for nothing else.
+  AND SHE DIAGNOSES HIM IN THE STREET: the boots have a BUILT-UP HEEL, twice,
+  put there for Teodor's ankle, and Gaara has been walking on the wrong edge of
+  his foot since harvest. He cuts it out on Bern's bench the next morning and
+  gives the leather away. THE FIRST THING HE HAS EVER TAKEN OFF THOSE BOOTS.
+
+The night, and he stops counting (ch27)
+- SIVERT ASKS YLVA, with no run-up at all, in front of Marit and Gaara and a
+  fire. HER ANSWER IS HER OWN SENTENCE BACK: "Ask me in the spring." It is not
+  a no about him and it is not Gaara asking twice, which is why the offer had
+  to come from Sivert. "It is a good sentence. I am going to get years out of
+  it."
+- THREE PEOPLE, AND THE GOVERNING SENSE IS TRAFFIC. Every earlier scene has
+  one: ch13 inventory, ch16 speed, ch20 hearing, ch22 silence. THIS ONE IS
+  ALLOCATION, and it is the joke and the theme at once: a man who has spent all
+  day deciding what goes where has two hands and three people and loses control
+  of the distribution inside a minute. "I have run a floor of ninety people. I
+  have never once been this badly outnumbered." "Then stop running it."
+- MARIT RUNS IT, which is the bed version of the ch25 milestone, in the same
+  week. And she solves the geometry herself: "I am not doing anything with
+  him. I am doing something to you. He can hold you still." She then revises
+  it, out loud, and is not embarrassed.
+- THREE OF THE FOUR RESERVED IMAGES ARE SPENT HERE AND ONE IS NOT.
+  SITTING ON HIS FACE: all three conditions met, not her first time with him,
+  unhurried, and HE ASKS, lying down. The four words are retired exactly as the
+  bible said they would be, because she has the controls.
+  THE LEGS BEHIND THE EARS lands on SIVERT and is a comic beat first: he gets
+  two words out and never finishes the sentence. "You said you would. Everything
+  after that is filing."
+  THE VOCABULARY BEING ABANDONED: she stops using words at all in the middle.
+  HEELS UP AT THE RAFTERS IS STILL UNSPENT. The beam is in the room and was not
+  used, deliberately, so there is one left.
+- THE LADDER GETS INHERITED. Marit and Sivert kiss for the first time over the
+  top of him, and it goes up the ladder one step at a time because SIVERT
+  LEARNED IT OFF HIM IN THE FORGE AND IS NOW USING IT ON SOMEBODY ELSE. "That
+  is mine."
+- AND THE CLOSING BEAT IS THE CHAPTER'S ARGUMENT: Marit catches him doing
+  arithmetic in a bed and he is not. First time in the book. He still does not
+  spend the seven points, and by the morning the reason has changed: what is
+  coming next rode out of the road with a wax tablet, and there is no attribute
+  on the panel that is any use against it.
 
 The first trip, and the Stage 4 milestone lands (ch25)
 - MARIT TOOK THEM IN TWICE WHILE HE WAS AWAY AND LOST NOBODY. Four hours, then

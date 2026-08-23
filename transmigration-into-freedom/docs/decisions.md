@@ -3,6 +3,72 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== ch26: the display happens by accident, and that is better ===
+The bible had the carcass display as something to ARRANGE. Written, it turned
+out stronger unstaged: the crew comes down the hill loaded at the moment the
+horses are in the road, so there is nothing to set up and he simply chooses the
+route. That keeps rule one intact without any effort at all, and it lets him
+say the line that makes the scene: "I have not tidied anything up for you."
+AND THE TRICK IS TURNED ON HIM IN THE SAME SCENE, which is what stops it being
+a man being clever at somebody. Pointing the appetite east works, and the
+appetite turns round and asks for the crew. His own argument with a bag on.
+THE COUNTER IS NOT A REFUSAL. He cannot refuse and says so. He changes the
+unit: not six men, a company engaged for a season. First commercial use of the
+ch23 registration, which is why that chapter existed.
+THE PRICE IS REAL AND PERMANENT: Oldstep goes on a roll. Taxed, levied, and
+also finally EXISTING - able to be written to, to complain, and to be paid.
+Hallvard watches his thirty-one years end from his own doorway.
+
+=== ch27: split off, and the night gets its own chapter ===
+The two ran to 3346 words as one file, which would have been the longest in the
+book. CLAUDE.md says find the seam and split rather than cut the talk, and the
+seam was clean: the horses leave, the village eats. 2337 and 1017.
+IT ALSO SERVES THE AUTHOR'S ACTUAL REQUEST. He asked for more sexual scenes;
+burying one behind a negotiation as an appendix is the opposite of that.
+
+=== The threesome, and why Gaara does not invite Ylva ===
+Author's standing instruction: if there is ever a threesome, he invites Ylva,
+and I decide whether she accepts. IT CANNOT BE HIM WHO ASKS. He asked her in
+ch21 and she said no, and "I do not ask twice" is his own rule and the reason
+her no was worth anything. So SIVERT ASKS HER, cold, with no run-up, which is
+also the biggest thing Sivert has ever done.
+SHE SAYS ASK ME IN THE SPRING, which is her ch24 line to Gaara, reused. Not a
+no about anybody. The spring promise now has two people waiting on it and the
+arc document's objection to spending her early is untouched.
+
+=== The governing sense of the ch27 scene is ALLOCATION ===
+Every scene has one so they cannot blur: ch13 inventory, ch16 speed, ch20
+hearing, ch22 silence. This one is a distribution problem, which is the joke
+and the theme in the same object: a man who has spent the entire day deciding
+what goes where has two hands and three people, and Marit takes it off him.
+THREE OF THE FOUR RESERVED IMAGES ARE SPENT, and heels-up-at-the-rafters is
+deliberately NOT, so there is one left. The beam is in the room, unused.
+THE FOUR WORDS RETIRE EXACTLY AS PLANNED, because she has the controls.
+
+=== The corporate joke ceiling is lifted for these two ===
+CLAUDE.md sets the normal dose at one or two a chapter and the ceiling at four.
+The author asked for MANY corporate and suggestive lines. ch26 runs to about
+seven and it holds, because the scene is an audit and the corporate register is
+the literal subject rather than a simile laid over something else. THE
+NARRATION STILL CARRIES NONE. That limit is not lifted and must not be.
+
+
+=== The attribute points go up by one a level, and check.py keeps the till ===
+Author caught it: 3, 4, 5, 6 and then ch25 said 3. The ladder is one more
+point per level and it had held for eleven status windows before it slipped.
+FIXED AS A LEDGER RATHER THAN A NUMBER, because a corrected number drifts
+again the next time. check.py walks each chapter IN DOCUMENT ORDER: a Level
+line pays in, an "X: a to b" block pays out b-a, an Unspent line is a till
+count. Document order matters - ch03 states the balance before spending it,
+ch11 after.
+PROVED BY WATCHING IT FIRE. Ledger in first, on the broken text: it reported
+ch25 and nothing else, so the other eleven windows are arithmetically clean.
+AND SEVEN UNSPENT POINTS NEEDED A REASON ON THE PAGE. He has spent every
+point within a minute of getting it three times running; holding them silently
+would be the character changing off-screen. So he says why, and it is a
+genuine shift: he has been buying the answer to the last fight.
+
+
 === A pre-scored form cannot hold dictated terms ===
 Author caught a straight contradiction: ch23 sells a service where both parties
 say their terms in their own words, and ch24 sells a board with three gaps in it.

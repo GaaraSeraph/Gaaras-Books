@@ -232,11 +232,29 @@ ch23 or ch24 has to put him back in front of something that can hurt him.
 Chapter 25: LEVEL 6 at fifteen kills, and the price held. The nine in ch17 was
 worth most of a level; the eleven here was worth the rest and change; the five
 kills the party took that morning were worth nothing to him at all. ONE LEVEL IN
-EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, three unspent.
+EIGHT DAYS. HP 286/380, STR 16, DEX 21, CON 18, SEVEN unspent, and for the
+first time in the book HE DOES NOT SPEND THEM ON THE WAY HOME. Every purchase
+so far bought the answer to the fight he had just survived; he wants the next
+one to be bought against the fight ahead.
 THE STAGE 4 MILESTONE IS DELIVERED and it was overdue since ch12: Marit ran two
 trips into the city without him and lost nobody, using the wall instead of the
 numbers because she cannot see the numbers. She also improved the doctrine,
 which is the part that makes it a real handover rather than a copy of him.
+
+THE POINT LADDER, and it is arithmetic, not taste. A level pays out ONE MORE
+POINT THAN THE ONE BEFORE IT: level 1 to 2 pays 3, 2 to 3 pays 4, 3 to 4 pays
+5, 4 to 5 pays 6, 5 to 6 pays 7. On top of that every level gives a free +1 to
+STR, DEX and CON, which is not spendable and never counted in the pool.
+check.py fuehrt das jetzt als Kasse: Level-Zeile bucht ein, jeder
+"X: a to b"-Block bucht b-a aus, jede Unspent-Zeile ist ein Kassensturz.
+ch25 stand auf 3 statt 7 und ist so gefunden worden.
+
+Chapters 26 and 27: NO LEVEL, NO KILL WORTH COUNTING, AND THE BIGGEST CHANGE
+IN THE BOOK SO FAR. Oldstep goes onto a lord's roll, which cannot be undone,
+and Hades gets its first commercial use as a way of NOT handing over six men.
+The seven points stay unspent through both chapters, and the reason changes
+between them: in ch25 he is waiting to see what the city asks, and by the end
+of ch27 he knows what is actually coming and there is no attribute for it.
 
 Pacing rules
 - Levels should get slower, not faster, and the test is the PRICE PER LEVEL, not

@@ -213,6 +213,7 @@ def progression(root):
     Nachvollziehen (Verlauf) und durchsetzen (keine Regression) in einem."""
     state = {k: None for k in ("Level", "HPmax", "MPmax", *STAT_KEYS, "Class", "Race")}
     skills = {}
+    pool = 0
     rows, viols = [], []
     for path in _chapters_in_order(root):
         ch = os.path.basename(path)[:4]
@@ -261,6 +262,43 @@ def progression(root):
             if name in skills and RANKVAL.get(rank, 0) < RANKVAL.get(skills[name], 0):
                 viols.append(f"{ch}: Skill {name} faellt {skills[name]} -> {rank}")
             skills[name] = rank
+        # Attributspunkte als Kasse fuehren: Stufe N -> N+1 zahlt N+2 aus
+        # (3, 4, 5, 6, 7 ...), jeder "X: a to b"-Block ist eine Abbuchung von
+        # b-a, und jede Unspent-Zeile ist ein Kassensturz. In DOKUMENT-
+        # REIHENFOLGE, weil der Stand in ch03 vor dem Ausgeben steht und in
+        # ch11 danach. Nach einem Fund wird die Kasse auf die Zeile gesetzt,
+        # sonst meldet ein einziger Zahlendreher jedes Kapitel danach mit.
+        lvl = state.get("Level")
+        for m in re.finditer(r"^(?:Level|Unspent Attribute Points|"
+                             + "|".join(STAT_KEYS) + r"):.*$", t, re.M):
+            line = m.group(0)
+            mm = re.match(r"^Level:\s*(\d+)", line)
+            if mm:
+                v = int(mm.group(1))
+                if isinstance(lvl, int) and v == lvl + 1:
+                    pool += lvl + 2
+                elif isinstance(lvl, int) and v > lvl:
+                    viols.append(f"{ch}: Level springt {lvl} -> {v}, "
+                                 f"Punkte dazwischen sind nicht ausgezahlt")
+                lvl = v
+                continue
+            mm = re.match(r"^Unspent Attribute Points:\s*(\d+)", line)
+            if mm:
+                v = int(mm.group(1))
+                if v != pool:
+                    viols.append(f"{ch}: Unspent steht auf {v}, die Kasse "
+                                 f"sagt {pool} (Stufe N -> N+1 zahlt N+2)")
+                pool = v
+                continue
+            mm = re.match(r"^(" + "|".join(STAT_KEYS) + r"):\s*(\d+)\s*to\s*(\d+)",
+                          line)
+            if mm:
+                pool -= int(mm.group(3)) - int(mm.group(2))
+                if pool < 0:
+                    viols.append(f"{ch}: {mm.group(1)}-Kauf ist {-pool} Punkte "
+                                 f"teurer als vorhanden")
+                    pool = 0
+
         for key, v in upd:
             old = state.get(key)
             if isinstance(v, int) and isinstance(old, int) and v < old:

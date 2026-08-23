@@ -1,0 +1,169 @@
+# Chapter 26: Then Write Us Down
+
+Solva went up on the second trip and did not carry a single thing, and by the middle of the morning she was running the bottom of the hill.
+
+Nobody had asked her to. Gaara had put her at the sledges because a woman of sixty with a bad hip was not going along a street front with a chisel. Within the hour she had taken the loading off Vidar and put Ask on the ropes, because Ask did not like standing still. She told Torv twice to set a thing down and pick it up properly.
+
+Torv set it down and picked it up properly.
+
+"She told me to put it down," he said afterwards, in the tone of a man reporting a crime committed against him. "And I put it down."
+
+"You did."
+
+"I did not even think about it."
+
+"Nobody ever does." Gaara went past him with an armful of strap hinge. "Marit calls a wall and you go to it because she is right and you know she is right. Solva says your name in that voice and you go because you are eleven years old and there is flour on her hands. One of those is a doctrine and I wrote it, and it took me six days and a stack of elm. The other one is witchcraft, and if I could get it into a jar I would never work again."
+
+At the fourth hour Solva asked him to show her where.
+
+He took her. It was four streets in and up a stair that had been a stair for eight hundred years. There was a room at the top with a low sill and nothing in it any more. She stood in the doorway of it for a while with her hands at her sides.
+
+"Was it fast."
+
+"I do not know," said Gaara. "I was not here and there is nobody who was. I can tell you what I found and I can tell you it is the only thing I know."
+
+"Tell me that then."
+
+He told her that. It took about forty seconds and he left nothing out and put nothing in, and when he had finished she nodded once at the sill and turned round and went back down the stair ahead of him.
+
+At the bottom she stopped.
+
+"Take the heel out of those boots," she said.
+
+He looked down at them.
+
+"They are built up. Twice. He wore through it because his ankle went out sideways and yours does not, so you have been walking on the wrong edge of your own foot since harvest." She was already moving. "You will get to thirty and it will come up through the hip and you will think it started there. Take it out tonight and give the leather to Bern for a strap."
+
+"That is the most useful thing anybody has said to me in this world."
+
+"Then people have not been saying much," said Solva.
+
+They came down at the third hour after noon with both sledges loaded and Sivert walking backwards down the steep part with a rope on his shoulder, and there were three horses standing in the road at Oldstep.
+
+Bern saw them first from his bench and did not get up, which was how Gaara knew.
+
+The lord's man was about forty and had a good coat and a bag. He stood in the middle of the road with the reins over his arm, looking at the six lines nailed to the front of Halle's byre. Two riders sat their horses behind him and had the look of men who had been told they were going somewhere worse.
+
+"You will be Gunnar," said Gaara.
+
+"You have not met me."
+
+"No. I have met four hundred of you." He put the end of the sledge rope down. "I have been you, and I have been the man who read what you wrote. And I have written the sentence you are going to write tonight, in the handwriting a man uses when he wants it to look as though nobody decided anything."
+
+Gunnar turned round and looked at him properly for the first time.
+
+"You have a face on you," he said.
+
+"Is it a face you would like to sit on?"
+
+Gunnar did not answer. He opened the bag, took out a wax tablet, and wrote something down, which Gaara found considerably more alarming than anything he could have said.
+
+Ketil was not with him. Gaara noted that, and put it in the place where he kept things he was not going to be able to do anything about for a week.
+
+"A man came to me nine days ago," said Gunnar. "He talked for most of an hour. There is a gate in a hillside. It was raised in the spring by the elder of this village, on his own arithmetic, and four people are dead of it. And all of it has been kept off every letter out of here for thirty-one years." He closed the tablet on his thumb. "I have ridden two days on that. So I would like to know what I am standing in."
+
+"Come and look at it, then. I have not tidied anything up for you and I would like that on the record, because everything you are about to see is inconvenient and none of it was arranged."
+
+He did not take him up the hill. He walked him eighty yards down the road instead.
+
+He walked him past the second sledge, where four crawlers were lying on their sides with their legs folded under them and the flies already on, and let him stop at it without being invited to. He walked him past Ylva, who was sorting eight hundred years of ironmongery into three piles by weight and did not look up. He walked him past Bern, who was sitting on a bench with one leg and a rive knife and a stack of split elm at his elbow, and told him what the stack was for. He walked him past Solva and Torv and Ask and Vidar, who were all filthy and all still standing, and he did not introduce one of them as anything.
+
+At the end of it he stopped at the byre and put two fingers on the boards nailed to the front of it.
+
+"Six lines," he said. "They are read out before anybody goes in. The top one is not mine. It belongs to the man on the bench and it was written after he lost the leg, and it says who is allowed to say stop, which is everybody."
+
+Gunnar read the boards for a long time for a man who could read.
+
+"Nine went up this morning," said Gaara. "Nine came down. That has happened three times now, and the worst of it is a shoulder, which was mine, and a leg, which was his. He is fed. He is working. His name is at the top of the thing they read out."
+
+"And the gate."
+
+"Is shut, and has a crew on it that lives here, and costs your lord exactly nothing." He took his hand off the boards. "Which is the only sentence in this valley you actually want. I will give you the other two as well, because nobody else will, and because you are going to be asked for them by a man who is not listening.
+
+"One. This came out of there and there is more of it, and what is behind the gate is worse than what is on that sledge.
+
+"Two. It is handled. It has been handled by people whose own children are in the ground over it, at their own cost, since harvest.
+
+"Three. There is a war in the east and that is where your lord's men are, and nothing here will pay for one of them."
+
+Gunnar looked at the sledge again for a while.
+
+"You have thought about what I am for," he said.
+
+"I have thought about very little else since a horse went out of this road nine days ago." Gaara leaned on the byre. "You keep a ledger, you have a superior, and what you want more than anything on this earth is never to be the man who is blamed. Every one of those is a decent quality and I am not being rude. I ran a floor of people who had them and half of them were better at the job than I was."
+
+"And the other half."
+
+"Wrote things down and waited to see if they went away," said Gaara. "Which is also what you are going to do, and I have arranged the morning so that the thing you write is true."
+
+Then Gunnar surprised him, which almost nobody did any more.
+
+He opened the bag again, took out a second tablet, and asked for six names.
+
+"For what."
+
+"For the spring. My lord takes men off the roll in the spring, and I have just walked past nine people who kill things above their weight and did it three times without losing anybody." He had the stylus ready. "You have spent an hour telling me these are not villagers. I believe you. That is exactly the problem you have made for yourself."
+
+Gaara stood there and felt the entire morning turn over in his hands.
+
+"That is my own argument coming back at me with a bag on."
+
+"Yes."
+
+"I pointed you east and you have gone east and you would like to take my people with you." He put his head back against the byre boards. "I have done that to men. I did it to a supplier in the second year and he took me out to dinner afterwards and I let him, which is the single worst thing I have ever done to anybody."
+
+"Six names," said Gunnar.
+
+"No."
+
+The two riders shifted. Gunnar did not.
+
+"I cannot take six men and you cannot stop me."
+
+"You can take six men, and I cannot stop you, and I am not going to try, because I have never once in my life won an argument by telling somebody they were not allowed." Gaara came off the byre. "I am going to sell you the same thing at a better price and you are going to take it, because conscription is the worst procurement I have ever seen in either world. You take the asset. You break it. You do not maintain it. You are then astonished when it does not come back. I have watched men do exactly that to a marriage."
+
+"Say the other price."
+
+"You do not take six men off a roll. You engage a company." He held Gunnar's eye. "There is a company. It is called Hades, it is in the Staple at the Wold, there is a name written in the book against it and the name is mine. You do not own a company. You hire one, for a season, for a stated thing, at a stated price, and when it is over it goes home and it is still alive and you can hire it again next year. That is how your lord buys a bridge, and nobody has ever once thought he was being unreasonable about the bridge."
+
+Gunnar looked at him with the stylus still up.
+
+"A company of nine farmers."
+
+"A company of nine people who have gone into that city three times and come out three times, which is three more than any man on your lord's roll has managed, including the ones with proper boots." He shrugged, and it hurt. "And you will not be the man who wrote down six names and got six funerals. You will be the man who found a thing that was already working and did not break it. That report writes itself, Gunnar. It writes itself in one line and nobody ever asks you about it again."
+
+There was a long pause, and in it Gaara could hear Bern's rive knife going, unhurried, twenty yards away.
+
+"I cannot engage anything," said Gunnar. "I do not have that."
+
+"No. You have the tablet."
+
+"I have the tablet."
+
+"Then write us down."
+
+And that was the part that could not be taken back, and Hallvard was standing in his own doorway when it happened, and Gaara had known he was there for some minutes and had not looked at him once.
+
+Gunnar wrote for a while. He asked for the name of the place, which he had, and the count of the houses, which Hallvard gave him from the doorway in a voice with nothing in it. He asked who spoke for it. He wrote down a company, and a village, and what came out of the hill, and what stood in front of it. When he had finished, Oldstep was on a roll for the first time in thirty-one years and probably a great deal longer.
+
+A thing on a roll gets taxed. A thing on a roll gets asked for men.
+
+A thing on a roll also exists, and can be written to, and can complain, and can be paid.
+
+Hallvard came out of his doorway when the horses had gone up the road and stood beside him looking at the same nothing.
+
+"Thirty-one years," he said, "I kept us off every list there is."
+
+"I know."
+
+"And you did it in a morning."
+
+"Yes," said Gaara.
+
+"You did not lie to him."
+
+"I have not said one untrue thing since I arrived in this world, and it is turning into a personality trait, which is humiliating. I had a whole reputation once." He watched the last horse go over the rise. "I chose what he looked at. I have never pretended that is not what I do."
+
+Hallvard was quiet for a while.
+
+"Aldis would have burned the boards," he said, and went in.

@@ -132,7 +132,7 @@ INT: 12
 WIS: 10
 Kills: 15
 
-Unspent Attribute Points: 3
+Unspent Attribute Points: 7
 
 He sat down on the sluice gate, which was the most expensive seat in the country, and read it while everybody else checked each other.
 
@@ -145,6 +145,22 @@ He sat down on the sluice gate, which was the most expensive seat in the country
 "So we hunt up," said Marit.
 
 "We hunt up on purpose and never by accident, and I want that on the front page too."
+
+Seven points sat at the bottom of the sheet doing nothing, and he left them there, and that hurt worse than the ribs.
+
+"You are making a face," said Ylva.
+
+"I have seven of the things and I am not spending them, and it is against my entire nature." He put his head back against the stone. "Every time so far I have bought the answer to the last fight. Speed, because something was faster than me. Meat, because something hit harder than me. It has worked twice and it is still the wrong way round."
+
+"And the right way round."
+
+"Is buying the answer to the next one." He looked up the hill at the city, which did not look back, being a city. "So I would like to go and find out what it intends to ask me, and then I would like to be rich in the correct currency."
+
+"Put them in your arms," said Torv.
+
+"Nobody has ever once thanked me for my arms," said Gaara. "STR is what a man buys when he wants to be looked at across a room. CON is what he buys when he wants to still be going at four in the morning, and I have had a great deal of feedback on the subject."
+
+Sivert went a remarkable colour and found something to do with a sledge.
 
 They took the gate down the hill on both sledges with everybody on it. Bern was at the bottom on his bench with a stack of elm at his elbow, and he counted the party twice before he let his face do anything.
 
