@@ -1157,7 +1157,12 @@ Hades, and the first money he ever earned here (ch23)
   Rule one holds and the warden is no wiser.
   AND HE CORRECTS THE WARDEN'S SPELLING, which is ch18 paying off a second time
   in two chapters, in one clause, without comment.
-- RUNA, THE BUTTON SELLER, AND THE ONLY PASS HE MAKES IN THE WOLD. Everybody
+- RUNA IS THE WOMAN WHO HIRED THE LEVEL 3 MAN, merged on the author's
+  instruction. She already knew her own judgement was right and paid twice
+  for external confirmation before she committed a wage, which is the actual
+  reason he is interested: she is careful with money in a way that shows
+  discipline rather than caution, not a supplier or a mark.
+- RUNA, THE BUTTON SELLER, AND THE PASS HE MAKES IN THE WOLD. Everybody
   else in that town is an institution or a supplier and he knows better. What he
   does is name his location and refuse to ask: "I am telling you where I am and
   not asking you for anything, because I have nine coins and no standing in this

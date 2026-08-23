@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 50.391 Woerter.
+23 Kapitel. 50.448 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -30,7 +30,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
 | 22 | Chapter 22: A Hand Changes a Noise | 1.188 |
-| 23 | Chapter 23: Two Coins Short | 2.431 |
+| 23 | Chapter 23: Two Coins Short | 2.488 |
 
 ---
 
@@ -5094,9 +5094,9 @@ He had been carrying eleven of them for eight days and it had not once occurred 
 
 He made four coins before midday.
 
-Two from the carters, who came back within the hour and then came back a second time with a different bargain and a different man. One from somebody buying a heifer who had watched the whole thing and did not want to be the fool who had not. The fourth was from a woman who wanted nothing written at all and paid him half a coin twice to sit down and tell her whether the man she was about to take on was worth the wage.
+Two from the carters, who came back within the hour and then came back a second time with a different bargain and a different man. One from somebody buying a heifer who had watched the whole thing and did not want to be the fool who had not. The fourth was from the woman on the stall beside his, who sold buttons, horn and bone and one tray of brass, and who had watched him settle the carters without once getting up to see it closer. She wanted nothing written at all. She paid him half a coin twice to sit down and tell her whether the man across the street was worth a wage in her workshop.
 
-He looked at the man across the street for about six seconds.
+He looked at the man for about six seconds.
 
 Level 3, and a way of standing that told him the rest.
 
@@ -5112,9 +5112,9 @@ She thought about it.
 
 "Since yesterday afternoon," said Gaara, and took her coin.
 
-The woman on the stall beside where he had set up sold buttons, horn and bone and one tray of brass, and she had been listening to all of it with her chin on her hand.
+She did not get up. She went back to the tray at her elbow and turned an antler button over between two fingers. It took Gaara a while to say anything else. He was working out why a woman who had just paid twice for a stranger's opinion had not once, in the whole exchange, looked like she needed one.
 
-"You are going to be a problem," she said.
+"You are going to be a problem," she said, before he got there.
 
 "I am so often told that, and never as early in the acquaintance as I would like." He turned round far enough to see the tray. "Those are cut from one antler and you have kept the grain running the same way across the whole tray, which nobody buying them will notice and which took you an hour longer than not doing it."
 

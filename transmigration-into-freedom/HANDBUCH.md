@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 52.248 Woerter.
+Alle 4 Dokumente am Stueck. 52.674 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -256,9 +256,16 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
-Runa, button seller (ch22)
+Runa, button seller (ch23)
 - Horn, bone and one tray of brass, on the stall beside where he sets up.
-  Listens to three hours of him working and never moves the stall.
+  Watches him settle the carters' dispute without once getting up for a
+  closer look, and never moves the stall for the whole three hours.
+- SHE IS THE WOMAN WHO HIRED THE LEVEL 3 MAN. Merged, on the author's
+  instruction: she already knew the man was fit for her workshop and paid a
+  stranger half a coin twice to say it back to her rather than trust her own
+  judgement. THIS IS WHAT DRAWS GAARA, NOT MONEY - a woman disciplined enough
+  to buy certainty before she commits a wage. He works out why she never once
+  looked like she needed the opinion she was paying for.
 - "You are going to be a problem." And then, on his non-offer: "It is an offer
   with the work moved onto me." She is the first person in this world to take
   him apart in one sentence without raising her voice.
@@ -674,6 +681,28 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== Runa is the woman who hired the Level 3 man ===
+Author, closing a question he asked in prose: is he drawn to Runa because he
+smelled money on her? Checked the text first rather than guessing - nothing
+supported that reading, and the money had just been deliberately stripped out of
+the pass for reading transactional.
+SO THE AUTHOR SUPPLIED THE ACTUAL REASON AND IT WAS ALREADY HALF-WRITTEN: the
+woman who paid Gaara half a coin twice to confirm the Level 3 man was worth a
+wage IS Runa. She runs a button workshop out of horn, bone and brass and needed
+a pair of hands for it. She had already worked out the man was fit for the job
+and paid a stranger to say it back to her rather than trust her own read, which
+the text already had Gaara call out: "you knew it before I opened my mouth...
+you wanted somebody with nothing to gain to say it out loud."
+THAT IS WHAT DRAWS HIM, and it answers the author's question precisely: not
+money, DISCIPLINE ABOUT MONEY. A woman who buys certainty before she commits a
+wage. He works out, sitting there, why she never once looked like she needed the
+opinion she had just paid for, and that is the thought that is still running when
+she opens with "you are going to be a problem."
+MERGED CLEANLY: her stall was already "beside where he had set up", so she was
+present for the carters' dispute too, and the button-tray compliment now follows
+directly from the hiring exchange with no re-introduction needed.
 
 
 === The mark is a flame, and Runa's scene had money in it that did not belong ===
@@ -3324,7 +3353,12 @@ Hades, and the first money he ever earned here (ch23)
   Rule one holds and the warden is no wiser.
   AND HE CORRECTS THE WARDEN'S SPELLING, which is ch18 paying off a second time
   in two chapters, in one clause, without comment.
-- RUNA, THE BUTTON SELLER, AND THE ONLY PASS HE MAKES IN THE WOLD. Everybody
+- RUNA IS THE WOMAN WHO HIRED THE LEVEL 3 MAN, merged on the author's
+  instruction. She already knew her own judgement was right and paid twice
+  for external confirmation before she committed a wage, which is the actual
+  reason he is interested: she is careful with money in a way that shows
+  discipline rather than caution, not a supplier or a mark.
+- RUNA, THE BUTTON SELLER, AND THE PASS HE MAKES IN THE WOLD. Everybody
   else in that town is an institution or a supplier and he knows better. What he
   does is name his location and refuse to ask: "I am telling you where I am and
   not asking you for anything, because I have nine coins and no standing in this

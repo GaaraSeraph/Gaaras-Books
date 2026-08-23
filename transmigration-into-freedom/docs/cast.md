@@ -239,9 +239,16 @@ The six (ch14, blooded ch15)
 
 THE WOLD
 
-Runa, button seller (ch22)
+Runa, button seller (ch23)
 - Horn, bone and one tray of brass, on the stall beside where he sets up.
-  Listens to three hours of him working and never moves the stall.
+  Watches him settle the carters' dispute without once getting up for a
+  closer look, and never moves the stall for the whole three hours.
+- SHE IS THE WOMAN WHO HIRED THE LEVEL 3 MAN. Merged, on the author's
+  instruction: she already knew the man was fit for her workshop and paid a
+  stranger half a coin twice to say it back to her rather than trust her own
+  judgement. THIS IS WHAT DRAWS GAARA, NOT MONEY - a woman disciplined enough
+  to buy certainty before she commits a wage. He works out why she never once
+  looked like she needed the opinion she was paying for.
 - "You are going to be a problem." And then, on his non-offer: "It is an offer
   with the work moved onto me." She is the first person in this world to take
   him apart in one sentence without raising her voice.

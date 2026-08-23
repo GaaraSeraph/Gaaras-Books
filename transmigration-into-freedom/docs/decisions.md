@@ -3,6 +3,28 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== Runa is the woman who hired the Level 3 man ===
+Author, closing a question he asked in prose: is he drawn to Runa because he
+smelled money on her? Checked the text first rather than guessing - nothing
+supported that reading, and the money had just been deliberately stripped out of
+the pass for reading transactional.
+SO THE AUTHOR SUPPLIED THE ACTUAL REASON AND IT WAS ALREADY HALF-WRITTEN: the
+woman who paid Gaara half a coin twice to confirm the Level 3 man was worth a
+wage IS Runa. She runs a button workshop out of horn, bone and brass and needed
+a pair of hands for it. She had already worked out the man was fit for the job
+and paid a stranger to say it back to her rather than trust her own read, which
+the text already had Gaara call out: "you knew it before I opened my mouth...
+you wanted somebody with nothing to gain to say it out loud."
+THAT IS WHAT DRAWS HIM, and it answers the author's question precisely: not
+money, DISCIPLINE ABOUT MONEY. A woman who buys certainty before she commits a
+wage. He works out, sitting there, why she never once looked like she needed the
+opinion she had just paid for, and that is the thought that is still running when
+she opens with "you are going to be a problem."
+MERGED CLEANLY: her stall was already "beside where he had set up", so she was
+present for the carters' dispute too, and the button-tray compliment now follows
+directly from the hiring exchange with no re-introduction needed.
+
+
 === The mark is a flame, and Runa's scene had money in it that did not belong ===
 THE MARK. Author's. Better than my gate-half-up because it is a PICTURE in a
 world where every trade signs with a shape, and the warden says so: a cross, a
