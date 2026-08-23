@@ -3,6 +3,21 @@ Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
 
 
+=== One very stupid noise ===
+Author's line, and it is the swerve the scene was missing. I had built the whole
+apparatus of silence and then let it work, which is tidy and not funny. The joke
+is that it fails once.
+AND IT IS HIS NOISE, NOT SIVERT'S, which is the part worth keeping. He gives
+away the heel of his own hand so somebody else can stay quiet, and makes no
+arrangement of any kind for himself. That is the man entire, and it is the same
+shape as everything else he does: he solves the other person's problem and
+forgets he is in the room.
+IT ALSO SHARPENS YLVA'S PAYOFF FROM A JOKE INTO A BETTER ONE. It was "you are
+extremely quiet for a man who cannot stop talking". Now it is past tense, and
+she waits, and then says ONE WORD: "Once."
+CHAPTER RETITLED to One Very Stupid Noise, because the line is now the chapter.
+
+
 === The loft becomes its own chapter, and the ask-twice rule gets fixed ===
 Three author notes, and the third repaired a tension I had knowingly left in.
 HE GIVES SIVERT THE HEEL OF HIS HAND TO BITE. Better than the version I wrote,

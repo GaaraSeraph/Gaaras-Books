@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-23 Kapitel. 49.964 Woerter.
+23 Kapitel. 50.074 Woerter.
 
 Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 
@@ -29,7 +29,7 @@ Kanon sind die `.md` in `chapters/`. Die `.txt` daneben ist erzeugt.
 | 19 | Chapter 19: A Name for the Knife | 2.239 |
 | 20 | Chapter 20: Two Arms | 2.692 |
 | 21 | Chapter 21: The Only Book There Is | 2.888 |
-| 22 | Chapter 22: Nothing to Hear but a Horse | 1.001 |
+| 22 | Chapter 22: One Very Stupid Noise | 1.111 |
 | 23 | Chapter 23: Two Coins Short | 2.191 |
 
 ---
@@ -4916,7 +4916,7 @@ He went out into the street. Ylva was waiting with her hands behind her back and
 
 ---
 
-# Chapter 22: Nothing to Hear but a Horse
+# Chapter 22: One Very Stupid Noise
 
 The straw was in a loft over the stable and it was the width of three people and not one inch wider.
 
@@ -4978,6 +4978,12 @@ So Gaara got the heel of his own hand up and offered it.
 
 Sivert understood, and took it, and bit down, and after that there was nothing in that loft to hear but a horse.
 
+Then Gaara made a noise.
+
+It was one noise, and it was not loud, and by every standard he had ever held himself to it was remarkably stupid. He had spent a quarter of an hour engineering silence for somebody else and had made no arrangement of any kind for himself.
+
+Nobody said a word about it. All three of them were awake. All three of them were thinking about it.
+
 The horse shifted underneath them and neither of them stopped.
 
 And the one thing Gaara wanted most he was not allowed to have. He had not seen that coming and it cost him more than he would have guessed. He worked for the sound. It is why he does any of this. Tonight it came to a breath going wrong, a hand closing, and once, very briefly, his own name in about four letters, and he had to accept that as the full reckoning.
@@ -4986,13 +4992,17 @@ He made it last as long as the straw and the silence would carry, which was cons
 
 Afterwards Sivert stayed where he was, tucked in under Gaara's chin, and got his wind back the way you do after a hill. He said nothing whatsoever, which by now meant a considerable amount.
 
-"You," said Ylva, into the dark, "are extremely quiet for a man who cannot stop talking."
+"You," said Ylva, into the dark, "were extremely quiet for a man who cannot stop talking."
 
 "That was the single hardest thing I have ever done."
 
+"Once."
+
+"I am aware of the once. I have been aware of the once since it happened."
+
 "I believe you."
 
-"I want that written down. I want Signe to write it down."
+"I want the rest of it written down. I want Signe to write it down." He put an arm over his eyes in the dark, which helped nobody. "I do not want the once in there."
 
 He was nearly asleep when Ylva spoke again.
 

@@ -3,7 +3,7 @@
 *Erzeugt aus `docs/`. Wird nicht bearbeitet.*
 
 Kanon: 23 Kapitel geschrieben (Stand aus dem Build, nicht von Hand).
-Alle 4 Dokumente am Stueck. 51.178 Woerter.
+Alle 4 Dokumente am Stueck. 51.455 Woerter.
 Geaendert wird die Quelldatei in `docs/`, danach `python3 build.py`.
 
 ## Inhalt
@@ -674,6 +674,21 @@ Solva
 DECISIONS AND WHAT WAS DISCARDED
 Each entry says WHAT was decided and WHY, so a later pass does not undo it by
 accident. Newest on top.
+
+
+=== One very stupid noise ===
+Author's line, and it is the swerve the scene was missing. I had built the whole
+apparatus of silence and then let it work, which is tidy and not funny. The joke
+is that it fails once.
+AND IT IS HIS NOISE, NOT SIVERT'S, which is the part worth keeping. He gives
+away the heel of his own hand so somebody else can stay quiet, and makes no
+arrangement of any kind for himself. That is the man entire, and it is the same
+shape as everything else he does: he solves the other person's problem and
+forgets he is in the room.
+IT ALSO SHARPENS YLVA'S PAYOFF FROM A JOKE INTO A BETTER ONE. It was "you are
+extremely quiet for a man who cannot stop talking". Now it is past tense, and
+she waits, and then says ONE WORD: "Once."
+CHAPTER RETITLED to One Very Stupid Noise, because the line is now the chapter.
 
 
 === The loft becomes its own chapter, and the ask-twice rule gets fixed ===
@@ -2139,7 +2154,7 @@ nicht diese Zeile von Hand.
 19. A Name for the Knife
 20. Two Arms
 21. The Only Book There Is
-22. Nothing to Hear but a Horse
+22. One Very Stupid Noise
 23. Two Coins Short
 24. (planned) Ordulf, and the lord's man
 
@@ -3189,6 +3204,15 @@ The loft, and what he wakes up to (ch22)
   never going to hold and both of them knew it about a minute before it was
   true. He offers, Sivert takes it, and after that there is nothing in that loft
   to hear but a horse. IT IS A GIVING GESTURE AND IT IS NOT REMARKED ON.
+- AND THEN GAARA MAKES THE NOISE, which is the joke the whole scene was built
+  to land. One noise, not loud, and by his own standards remarkably stupid. HE
+  SPENT A QUARTER OF AN HOUR ENGINEERING SILENCE FOR SOMEBODY ELSE AND MADE NO
+  ARRANGEMENT OF ANY KIND FOR HIMSELF, which is the man entire.
+  Nobody says a word about it. All three of them are awake. All three of them
+  are thinking about it.
+  YLVA COLLECTS IT LATER IN ONE WORD: "You were extremely quiet for a man who
+  cannot stop talking." "That was the single hardest thing I have ever done."
+  "Once." And he wants the rest of it written down and not the once.
 - AND THE MORNING IS THE POINT OF THE CHAPTER. He wakes with both of them on
   him: Sivert face down against his ribs, Ylva come across in the night with her
   head on his shoulder and an arm over the pair of them, asleep with her mouth
