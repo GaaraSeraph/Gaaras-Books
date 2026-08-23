@@ -671,7 +671,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.3) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.4) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -705,6 +705,15 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   jemand mit dem Band eine Seite herausgesucht** - der Bote steht auf der
   Kundenliste des Hauses. Dazu die eine harmlose Frage: *"How long have you had
   that."* - **"Since the fourteenth."**
+
+  **Und das Datum traegt mehr als die Huelle.** Zwoelf Tage zwischen dem Paket
+  am 2. Maerz und der Seite in Ulsan am 14. **Das ist nicht die Zeit zum
+  Bemerken, das ist die Zeit zum Benutzen.** Dazu der schwerste Schluss: die
+  Rueckseite traegt keinen einzigen Namen, eine Seite mit Los vierzehn ist also
+  wertlos fuer jeden, der nicht schon weiss, wessen sie ist. **Er wusste es vor
+  dem Paket. Das Paket war der Weg, es weiterzugeben, ohne der zu sein, der es
+  weiss.** Und die Zeile bleibt unaufgeloest stehen: drei Namen auf dieser Liste
+  hat er an einem Tisch sitzen sehen.
 
   **Und die Annahme, die ihn das kostet:** Er hat seit Mittwoch geglaubt, jemand
   habe sich mit ihr hingesetzt. Eine Seite in einer Huelle braucht kein

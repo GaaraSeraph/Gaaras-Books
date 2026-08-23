@@ -1,5 +1,5 @@
 # Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -308,6 +308,30 @@ The second is lying on a desk over a weighbridge in a plastic wallet.
 Every buyer at that house has the whole catalogue. She has one page of it, photocopied, and she has had it since the fourteenth of March. So somebody took a single page out of a bound book that had been posted to him personally, and copied it, and got it in front of a woman in Ulsan inside a fortnight of its arriving.
 
 That is not everybody in Korea. That is the list of people who buy at that house, which is not short and is not public and is a very great deal shorter than everybody in Korea.
+
+---
+
+And there is a date on it, which is worth more than the wallet.
+
+The parcel came up the drive on the second of March. The page was on a desk in Ulsan on the fourteenth. Twelve days.
+
+Everybody else who got that parcel opened it, looked at four references and a phrase, and put it away. Mrs Sunwoo put hers in a drawer under the tax papers and did not take it out again. Twelve days is not how long it takes a man to notice something. Twelve days is how long it takes a man to use a thing he has been waiting for.
+
+---
+
+And then the half of it that is worse.
+
+The back page carries references and seasons. It does not carry one single name. A page with lot fourteen on it is worth nothing whatever to a person who does not already know whose lot fourteen it was.
+
+So he knew before the parcel came. The parcel is not where he found it out. The parcel is how he could hand it over without being the man who knew.
+
+---
+
+Georgij looked out of the window at a town he could not name for a while after that.
+
+The list of people who know what was struck on the nineteenth of February is short enough to write on the back of a card, and he could write it now, and he did not take the card out.
+
+There are three names on it that he has eaten at a table with.
 
 ---
 

@@ -497,7 +497,25 @@ Fassung.**
   Band, hat eine Seite herausgesucht, kopiert und binnen vierzehn Tagen nach
   Ulsan gebracht.
 
-  **Zweitens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
+  **Zweitens: zwoelf Tage.** Das Paket kam am 2. Maerz die Auffahrt hoch, die
+  Seite lag am 14. in Ulsan. Alle anderen haben es aufgemacht und weggelegt -
+  Mrs Sunwoo unter die Steuerpapiere. **Zwoelf Tage sind nicht, wie lange jemand
+  braucht, um etwas zu bemerken, sondern wie lange jemand braucht, um etwas zu
+  benutzen, worauf er gewartet hat.**
+
+  **Drittens, und das ist der schwerste Schluss des Kapitels:** Auf der
+  Rueckseite stehen Fundstellen und Saisons und **kein einziger Name.** Eine
+  Seite mit *Los vierzehn* darauf ist wertlos fuer jeden, der nicht schon weiss,
+  wessen Los vierzehn es war. **Also wusste er es vor dem Paket. Das Paket ist
+  nicht, wo er es erfahren hat - es ist, wie er es weitergeben konnte, ohne der
+  zu sein, der es weiss.**
+
+  Und daraus die Zeile, die im Text unaufgeloest stehenbleibt: die Liste derer,
+  die von der Streichung wissen, passt auf eine Kartenrueckseite, **und drei
+  Namen darauf hat er an einem Tisch sitzen sehen** - Sang-hoon am 18. November,
+  Woo am 31. Oktober, Hana am 16. Dezember. Er nimmt die Karte nicht heraus.
+
+  **Viertens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
   angenommen, jemand habe sich mit ihr hingesetzt und es ihr erklaert. Dafuer
   gibt es keinen Grund mehr - eine Seite in einer Huelle braucht kein Gespraech,
   zwei Zeilen Begleitschreiben taeten es. **Ein Mann, der ein Treffen

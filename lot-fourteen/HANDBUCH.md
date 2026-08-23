@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 100.110 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 100.418 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -128,8 +128,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Hong](#mr-hong)
   - [Ji-won](#ji-won)
-  - [Shin](#shin)
   - [Mrs Sunwoo](#mrs-sunwoo)
+  - [Shin](#shin)
   - [Mr Ku](#mr-ku)
   - [Mrs Jeon](#mrs-jeon)
   - [Mr Pyo](#mr-pyo)
@@ -2699,7 +2699,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.3) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.4) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -2733,6 +2733,15 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   jemand mit dem Band eine Seite herausgesucht** - der Bote steht auf der
   Kundenliste des Hauses. Dazu die eine harmlose Frage: *"How long have you had
   that."* - **"Since the fourteenth."**
+
+  **Und das Datum traegt mehr als die Huelle.** Zwoelf Tage zwischen dem Paket
+  am 2. Maerz und der Seite in Ulsan am 14. **Das ist nicht die Zeit zum
+  Bemerken, das ist die Zeit zum Benutzen.** Dazu der schwerste Schluss: die
+  Rueckseite traegt keinen einzigen Namen, eine Seite mit Los vierzehn ist also
+  wertlos fuer jeden, der nicht schon weiss, wessen sie ist. **Er wusste es vor
+  dem Paket. Das Paket war der Weg, es weiterzugeben, ohne der zu sein, der es
+  weiss.** Und die Zeile bleibt unaufgeloest stehen: drei Namen auf dieser Liste
+  hat er an einem Tisch sitzen sehen.
 
   **Und die Annahme, die ihn das kostet:** Er hat seit Mittwoch geglaubt, jemand
   habe sich mit ihr hingesetzt. Eine Seite in einer Huelle braucht kein
@@ -4291,7 +4300,25 @@ Fassung.**
   Band, hat eine Seite herausgesucht, kopiert und binnen vierzehn Tagen nach
   Ulsan gebracht.
 
-  **Zweitens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
+  **Zweitens: zwoelf Tage.** Das Paket kam am 2. Maerz die Auffahrt hoch, die
+  Seite lag am 14. in Ulsan. Alle anderen haben es aufgemacht und weggelegt -
+  Mrs Sunwoo unter die Steuerpapiere. **Zwoelf Tage sind nicht, wie lange jemand
+  braucht, um etwas zu bemerken, sondern wie lange jemand braucht, um etwas zu
+  benutzen, worauf er gewartet hat.**
+
+  **Drittens, und das ist der schwerste Schluss des Kapitels:** Auf der
+  Rueckseite stehen Fundstellen und Saisons und **kein einziger Name.** Eine
+  Seite mit *Los vierzehn* darauf ist wertlos fuer jeden, der nicht schon weiss,
+  wessen Los vierzehn es war. **Also wusste er es vor dem Paket. Das Paket ist
+  nicht, wo er es erfahren hat - es ist, wie er es weitergeben konnte, ohne der
+  zu sein, der es weiss.**
+
+  Und daraus die Zeile, die im Text unaufgeloest stehenbleibt: die Liste derer,
+  die von der Streichung wissen, passt auf eine Kartenrueckseite, **und drei
+  Namen darauf hat er an einem Tisch sitzen sehen** - Sang-hoon am 18. November,
+  Woo am 31. Oktober, Hana am 16. Dezember. Er nimmt die Karte nicht heraus.
+
+  **Viertens, und es kostet Georgij eine Annahme:** Er hat seit dem 18. Maerz
   angenommen, jemand habe sich mit ihr hingesetzt und es ihr erklaert. Dafuer
   gibt es keinen Grund mehr - eine Seite in einer Huelle braucht kein Gespraech,
   zwei Zeilen Begleitschreiben taeten es. **Ein Mann, der ein Treffen
@@ -5319,8 +5346,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Hong | 30 | 9 (b1ch07-b1ch23) | 22 | 55 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mrs Sunwoo | 18 | 6 (b1ch07-b2ch11) | 1 | 60 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mrs Sunwoo | 17 | 5 (b1ch07-b2ch11) | 1 | 60 |
 | Mr Ku | 16 | 12 (b1ch05-b2ch10) | 3 | 60 |
 | Mrs Jeon | 11 | 3 (b2ch06-b2ch09) | 5 | 9 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
@@ -6635,7 +6662,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
 | 7 | b2ch07:86 | Mrs Seo met him in the hall at ten past two, which she does not. |
 | 9 | b2ch08:62 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
-| 9 | b2ch08:320 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
+| 9 | b2ch08:344 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
 | 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
 | 1 | b2ch11:176 | He had to ask Mrs Seo how a letter is sent. |
 | 1 | b2ch11:196 | "He said good." Mrs Seo straightened one thing on the desk that did not need straighteni.. |
@@ -6674,7 +6701,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch07:86` (Tag 7) - ten, two
 - `b2ch08:62` (Tag 9) - nine
-- `b2ch08:320` (Tag 9) - two
+- `b2ch08:344` (Tag 9) - two
 - `b2ch11:196` (Tag 1) - one
 
 ---
@@ -6968,6 +6995,46 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Sunwoo
+
+18 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch08:318` (Tag 9) - four, twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
+
+---
+
 ### Shin
 
 18 Nennungen in 1 Kapiteln.
@@ -7004,44 +7071,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:162` (Tag 53) - eight, five, one, two
 - `b2ch02:168` (Tag 53) - four, one, three
 - `b2ch02:186` (Tag 53) - one
-
----
-
-### Mrs Sunwoo
-
-17 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch09:212 | "Sunwoo." |
-| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch09:214` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:82` (Tag 3) - one
-- `b2ch10:100` (Tag 3) - forty-one
-- `b2ch10:186` (Tag 3) - one
-- `b2ch10:274` (Tag 3) - one
 
 ---
 
