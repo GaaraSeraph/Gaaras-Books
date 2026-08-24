@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 158.779 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 158.997 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5596,11 +5596,38 @@ ist verbindlich.** Was daran im Buch anders lauten muss:
   Sim ruft *"on behalf of somebody who would be grateful"*, und **Yeom kennt
   seinen Namen und gibt ihn nicht her**). Wenn Georgij den Satz zurueckgibt,
   sagt er damit: ich weiss, dass er von Dir kommt und nicht von ihm.
-- **Das Laecheln ist die Achse.** Die breite Fassung, in Daejeon mit
-  einundzwanzig gebaut, eine Viertelsekunde zu spaet (Band 1, Kapitel 7). **Zum
-  ersten Mal kalt.** Damit das eine Umkehr ist, muessen vorher warme dastehen -
-  in Band 2 gibt es bisher **null**. Ab jetzt keine Stilfrage, sondern eine
-  Anforderung des Schlusses.
+- **Das Laecheln ist die Achse, und es faellt genau zweimal kalt. Festgelegt
+  vom Autor am 25.08.** Die breite Fassung, in Daejeon mit einundzwanzig gebaut,
+  eine Viertelsekunde zu spaet (Band 1, Kapitel 7).
+
+  1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
+     mit dem Todesstoss und nicht mit der Begruendung davor.
+  2. **Beim Bericht an Annie danach**, und es bezieht sich ausdruecklich auf
+     Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
+     you about it afterwards."*
+
+     > "I am sorry, Mistress. I could not keep what I told you before." - das
+     > Laecheln kommt, **waehrend** er sich entschuldigt - "I enjoyed telling you
+     > this very much."
+
+     **Er luegt in keiner Silbe.** Beides ist wahr, und dass das Laecheln
+     waehrend der Entschuldigung ankommt, sagt dem Leser, welcher der beiden
+     Saetze der tragende ist. Es loest zugleich Annies zweite Bedingung vom
+     3. April ein (Kapitel 12), die seit dem 30. April offensteht, weil er im Zug
+     keine Antwort gefunden hat, die er aufschreiben wollte.
+
+  **Sonst nirgends. Kein drittes kaltes Laecheln im Buch.** Wer eines
+  einbaut, verbraucht eines von zweien.
+
+  **Und es ist der Zwilling der Schlusszeile des Bandes.** Zweimal verliert er
+  die Fassung, zweimal kommt die Wahrheit ungeplant heraus: einmal kalt, *ich
+  habe es genossen*, und einmal warm, *danke, dass Du mich gekauft hast*.
+  Derselbe Mann, derselbe Mechanismus, entgegengesetzte Richtung. **Das eine
+  macht das andere erst glaubhaft.**
+
+  **Warme Laecheln muessen dafuer vorher wieder vorkommen.** In Band 2 gibt es
+  bisher **null** in sechsundvierzig Kapiteln (Band 1: 49 Treffer in 21 von 34).
+  Ohne die warmen ist die kalte Fassung keine Umkehr, sondern nur ein Laecheln.
 - **"Please give me your guidance" kommt zurueck, und das ist kein Verstoss
   gegen `doc/01-craft.md` 2h.** Bei Woo und Sang-hoon war die Frage **Entnahme**.
   Bei Choi holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte
@@ -8166,7 +8193,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 634 | 68 (b1ch01-b2ch46) | 1 | 74 |
-| Park Sang-hoon | 234 | 38 (b1ch10-b2ch45) | 1 | 74 |
+| Park Sang-hoon | 233 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Jang | 135 | 30 (b1ch05-b2ch46) | 2 | 60 |
@@ -8755,13 +8782,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 47 | b2ch35:292 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
 | 47 | b2ch35:304 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
 | 47 | b2ch35:322 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
-| 51 | b2ch35:402 | Annie looked at him and waited. |
-| 51 | b2ch35:418 | Annie put down what was in her hand. |
-| 51 | b2ch35:434 | "Say it again," said Annie. |
-| 51 | b2ch35:442 | Annie stood at the window for a while and did not say anything, and he let her have it. |
-| 51 | b2ch35:462 | Annie came back from the window. |
-| 51 | b2ch35:502 | Annie let that stand. |
-| 51 | b2ch35:530 | *Annie, thirty-one times, and every one of them thinks it was a woman being polite about.. |
 | 51 | b2ch36:6 | Annie gave him the three things on Monday evening, in the room off the library, with the.. |
 | 51 | b2ch36:22 | "I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of pl.. |
 | 51 | b2ch36:30 | Annie had looked at him for a while before she answered that one. |
@@ -8771,6 +8791,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:70 | "Tomorrow you will give him the property and the home," said Annie, at the door. "Not th.. |
 | 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 51 | b2ch36:140 | "Annie has not let you," said Sang-hoon. |
+| 51 | b2ch36:285 | Annie had the folder in front of her and had not opened it. |
+| 51 | b2ch36:305 | Annie sat back. |
+| 51 | b2ch36:329 | "Say it in the order you would do it," said Annie. |
+| 51 | b2ch36:353 | Annie was quiet for long enough that he heard the hall. |
+| 51 | b2ch36:385 | Annie opened the folder then, and shut it again without taking anything out, which is a .. |
+| 51 | b2ch36:405 | "And the second one is still open from April," said Annie. |
+| 51 | b2ch36:443 | *Annie, thirty-one times, and every one of them believes it was a woman being polite abo.. |
 | 57 | b2ch37:46 | He read it twice, the second time slower, the way Annie reads things that matter, becaus.. |
 | 57 | b2ch37:58 | Georgij put the letter in the drawer that does not lock, because it was not the sort of .. |
 | 57 | b2ch37:76 | Annie read it without picking it up. |
@@ -8987,12 +9014,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch35:274` (Tag 47) - one, twenty
 - `b2ch35:304` (Tag 47) - eleven, one, thirty, three
 - `b2ch35:322` (Tag 47) - one
-- `b2ch35:530` (Tag 51) - one, thirty-one
 - `b2ch36:6` (Tag 51) - three
 - `b2ch36:30` (Tag 51) - one
 - `b2ch36:42` (Tag 51) - four, two
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 - `b2ch36:136` (Tag 51) - three
+- `b2ch36:405` (Tag 51) - one
+- `b2ch36:443` (Tag 51) - one, thirty-one
 - `b2ch37:142` (Tag 57) - two
 - `b2ch37:162` (Tag 57) - eleven, four, nine, three
 - `b2ch38:6` (Tag 59) - one
@@ -9020,7 +9048,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-234 Nennungen in 38 Kapiteln.
+233 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9165,7 +9193,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 47 | b2ch35:98 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
 | 47 | b2ch35:124 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
 | 47 | b2ch35:266 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
-| 51 | b2ch35:414 | "This morning I have thirty-one people who each made a decision at that man's table that.. |
 | 51 | b2ch36:82 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
 | 51 | b2ch36:86 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
 | 51 | b2ch36:108 | Sang-hoon did not move. |
@@ -9321,7 +9348,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch35:18` (Tag 47) - nine
 - `b2ch35:62` (Tag 47) - one
 - `b2ch35:266` (Tag 47) - eight
-- `b2ch35:414` (Tag 51) - four, thirty-one
 - `b2ch36:170` (Tag 51) - eleven
 - `b2ch36:182` (Tag 51) - four, two
 - `b2ch36:194` (Tag 51) - one

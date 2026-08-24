@@ -275,11 +275,38 @@ ist verbindlich.** Was daran im Buch anders lauten muss:
   Sim ruft *"on behalf of somebody who would be grateful"*, und **Yeom kennt
   seinen Namen und gibt ihn nicht her**). Wenn Georgij den Satz zurueckgibt,
   sagt er damit: ich weiss, dass er von Dir kommt und nicht von ihm.
-- **Das Laecheln ist die Achse.** Die breite Fassung, in Daejeon mit
-  einundzwanzig gebaut, eine Viertelsekunde zu spaet (Band 1, Kapitel 7). **Zum
-  ersten Mal kalt.** Damit das eine Umkehr ist, muessen vorher warme dastehen -
-  in Band 2 gibt es bisher **null**. Ab jetzt keine Stilfrage, sondern eine
-  Anforderung des Schlusses.
+- **Das Laecheln ist die Achse, und es faellt genau zweimal kalt. Festgelegt
+  vom Autor am 25.08.** Die breite Fassung, in Daejeon mit einundzwanzig gebaut,
+  eine Viertelsekunde zu spaet (Band 1, Kapitel 7).
+
+  1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
+     mit dem Todesstoss und nicht mit der Begruendung davor.
+  2. **Beim Bericht an Annie danach**, und es bezieht sich ausdruecklich auf
+     Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
+     you about it afterwards."*
+
+     > "I am sorry, Mistress. I could not keep what I told you before." - das
+     > Laecheln kommt, **waehrend** er sich entschuldigt - "I enjoyed telling you
+     > this very much."
+
+     **Er luegt in keiner Silbe.** Beides ist wahr, und dass das Laecheln
+     waehrend der Entschuldigung ankommt, sagt dem Leser, welcher der beiden
+     Saetze der tragende ist. Es loest zugleich Annies zweite Bedingung vom
+     3. April ein (Kapitel 12), die seit dem 30. April offensteht, weil er im Zug
+     keine Antwort gefunden hat, die er aufschreiben wollte.
+
+  **Sonst nirgends. Kein drittes kaltes Laecheln im Buch.** Wer eines
+  einbaut, verbraucht eines von zweien.
+
+  **Und es ist der Zwilling der Schlusszeile des Bandes.** Zweimal verliert er
+  die Fassung, zweimal kommt die Wahrheit ungeplant heraus: einmal kalt, *ich
+  habe es genossen*, und einmal warm, *danke, dass Du mich gekauft hast*.
+  Derselbe Mann, derselbe Mechanismus, entgegengesetzte Richtung. **Das eine
+  macht das andere erst glaubhaft.**
+
+  **Warme Laecheln muessen dafuer vorher wieder vorkommen.** In Band 2 gibt es
+  bisher **null** in sechsundvierzig Kapiteln (Band 1: 49 Treffer in 21 von 34).
+  Ohne die warmen ist die kalte Fassung keine Umkehr, sondern nur ein Laecheln.
 - **"Please give me your guidance" kommt zurueck, und das ist kein Verstoss
   gegen `doc/01-craft.md` 2h.** Bei Woo und Sang-hoon war die Frage **Entnahme**.
   Bei Choi holt sie nichts und kann nichts holen. **Dieselben Worte, umgekehrte

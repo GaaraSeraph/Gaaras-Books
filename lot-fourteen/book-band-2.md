@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 104.304 Woerter.
+Book Two, 46 Kapitel, 104.209 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,8 +45,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.0 | 2.379 |
 | 33 | v1.1 | 2.021 |
 | 34 | v1.2 | 2.261 |
-| 35 | v2.0 | 3.382 |
-| 36 | v1.3 | 2.075 |
+| 35 | v1.2 | 2.050 |
+| 36 | v2.0 | 3.312 |
 | 37 | v1.3 | 2.028 |
 | 38 | v1.2 | 2.014 |
 | 39 | v1.3 | 2.101 |
@@ -7154,8 +7154,8 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 
 ---
 
-# Book Two · Chapter 35: Who stopped
-*Lot Fourteen* · Version 2.0 · EN
+# Book Two · Chapter 35: Everything I am allowed to say
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Forty-Five · Friday 5 June
 
@@ -7343,118 +7343,10 @@ She almost smiled at that, the way she had on Wednesday, and went to the car wit
 
 Georgij stood in the cooling garage a moment longer before he went in to find something to eat. For once in eight months, somebody else had counted the hours for him and gotten the number right without being asked.
 
-## Day Two Hundred and Forty-Nine · Tuesday 9 June
-
-The list came up on the Tuesday morning, complete, in her own hand, with nothing written next to any of the names.
-
-Thirty-one of them. Eight years of a man's dinners, and every person who had sat down at one of them. Not one of those people knew that a woman in a house on the river had spent nine days asking about them without asking anybody a question.
-
-Georgij read it twice and did not recognise a single name, which he had expected, and then he stopped reading it as a list of people.
-
-A list of guests is a list of people. A list of guests **with the years against them** is a document, and a document can be asked the question that nobody at the table would ever have thought to ask.
-
-*Not who sat down. Who stopped.*
-
-He went back through it and marked the ones whose last year was not this one.
-
-Four.
-
-Three of the four came apart inside an hour, because most things do. One had died in the spring of the year before last, which the trade press had noticed for two paragraphs. One had gone to Vancouver with a company that had bought his. One had retired at sixty-eight and the retirement had a dinner and photographs and a wristwatch in them.
-
-The fourth had stopped coming five years ago and was still alive, still in Seoul, and still in the same trade at the same address.
-
-Georgij sat with that for a while.
-
-A man who has been dropped is not a man who has been warned. He does not have a line to the man who dropped him, so he cannot use one. And he has spent five years wondering what he did.
-
-*The ones who stopped are the ones who cannot warn him. Start there and the noise stays where I put it.*
-
-He took it up to her before lunch, because the thing he was going to say was not a thing to save until the evening.
-
-"I am going to use the list," said Georgij.
-
-"Say what that means, because it has four or five meanings and I want the one you are holding."
-
-"On the twenty-seventh of May I told you two things in this house." He had the sheet folded once, in his hand, and did not put it on the desk. "The first was that I was going to find the person. The second was that the rest of it would happen to him and that it would be complete."
-
-Annie looked at him and waited.
-
-"I have spent thirteen days on the first and none at all on the second," he said. "That was not a decision. I never made one. It simply turned out that finding a person is a thing I know how to do at a desk, and the other one is not."
-
-"And this morning."
-
-"This morning I have thirty-one people who each made a decision at that man's table that they could not account for afterwards, exactly the way Park Sang-hoon could not account for four." He turned the sheet over once and left it folded. "I do not have to prove anything to any of them. He never gave an order in his life. I only have to go and tell them what happened to them, and then it is theirs and not mine."
-
-Annie put down what was in her hand.
-
-"That does not touch him at all," she said. "Not one of those thirty-one can do anything to that man."
-
-"No. Every one of them can stop answering the telephone."
-
-The room did the thing it does when a sentence lands somewhere neither person had put it.
-
-"Say it again," said Annie.
-
-"He is not a company and he does not own anything and there is nothing to take off him." Georgij kept his hands where they were. "What he has is that people come when he calls. That is the whole of it. Thirty-one is not a case against him. Thirty-one is an empty table."
-
-Annie stood at the window for a while and did not say anything, and he let her have it.
-
-"There is a price and you have not said it," she said.
-
-"I have not said it because I only worked it out on the stairs." He said it flatly. "Every person I tell is a person who can repeat it. He does not need to be told directly. He needs to hear that somebody is asking, once, from anybody, and then he stops being findable, and he does it correctly and without a sound, and I never learn which day it happened."
-
-"Then you are trading."
-
-"I am trading how fast against how loud, and I do not get to have both." He looked at the folded sheet. "And there is a woman in a house whose gas comes every nine days instead of every thirty, so slow is not free either."
-
-Annie came back from the window.
-
-"Which one first."
-
-"The one who stopped five years ago and is still in the trade," said Georgij. "He was dropped. A man who has been dropped has no line to the man who dropped him, so he cannot carry anything back even if he wants to. And he has had five years to wonder what he did wrong, and nobody has ever once told him."
-
-"And you are going to."
-
-"Yes."
-
-"Say what it costs him to hear it."
-
-Georgij thought about that properly, because it was the right question and because she had asked it before he had.
-
-"Five years of a wrong answer," he said. "He has an explanation for it by now. Everybody does. Mine will be better than his, and he will believe it, and he will not be able to put the old one back."
-
-"That is a real thing to take off a man."
-
-"It is. I am going to take it anyway, and I am saying so out loud in this room, because the alternative is finding out in eight weeks that I have stopped noticing."
-
-Annie let that stand.
-
-"Then go on Thursday and not tomorrow," she said. "Tomorrow you would go with this morning still on you."
-
-"Yes, Mistress."
-
-He wrote it down at the desk in the small room afterward, and then he did something he had not done in eight months, which was to start a second page.
-
-The first page of that notebook has been the same page since October. What he has found, in the order he found it.
-
-The second page is shorter and it is going to get longer.
-
-*Who knows that somebody is asking.*
-
-*Mrs Gwak, since the thirtieth of May. Two practices on the telephone, since the twenty-third of June, and neither of them knows what for. A clerk with a reservation book. A man in Bundang who has never heard of me and whose manual I read.*
-
-*Annie, thirty-one times, and every one of them thinks it was a woman being polite about a dinner.*
-
-He looked at the two pages side by side for a while.
-
-He has spent this year finding people by what they left behind them without meaning to. There is no version of the next four weeks in which he does not leave the same thing, in the same quantity, for exactly the same sort of man to read.
-
-*Page one is what I have. Page two is what I have spent. I have never kept the second one before and I do not think that was because I was careful.*
-
 ---
 
-# Book Two · Chapter 36: Not the man, the four
-*Lot Fourteen* · Version 1.3 · EN
+# Book Two · Chapter 36: An empty table
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -7601,6 +7493,110 @@ He found Mr Ku with the car under the awning, out of the worst of it. He got in 
 Georgij wrote one line in the notebook before the car pulled away.
 
 *Eight years. Never once a woman. Find out why not.*
+
+* * *
+
+He did not ask her for the eight again.
+
+He had decided that on the stairs down, before the car, and he told her so at the desk that evening so that she would not have to spend the week wondering whether he would.
+
+"You were right about the eight," said Georgij. "I am not going to come back to it in a fortnight when it is more convenient. If they come to me some other way that is a different thing, and I will tell you when it happens."
+
+Annie had the folder in front of her and had not opened it.
+
+"Say why you have stopped wanting them, because you have not."
+
+"I have not stopped wanting them. I have stopped needing them." He put the sheet with the thirty-one names on the desk, folded once, and left it folded. "Eight people it happened to is a case. I have been building a case for two weeks without once asking myself who it would be presented to. There is no room. There is no panel and no prosecutor and no page in a newspaper that will run it, because at the end of every line the man is not there."
+
+"Then the eight are worth nothing to you."
+
+"The eight are worth everything to the eight." He said it evenly. "They are worth nothing against him, and I have been treating them as though they were evidence, which is a thing I would like to have noticed on my own."
+
+Annie sat back.
+
+"Then say what the other twenty-three are for."
+
+"They are what he has." Georgij put one finger on the folded edge and left it there. "He does not own a company. He does not sit on anything. There is nothing on this earth to take off that man except that people come when he telephones. Thirty-one is not a case against him."
+
+He stopped and let it be exactly the length it was.
+
+"Thirty-one is an empty table."
+
+The room did the thing it does when a sentence arrives somewhere neither person had put it.
+
+"Say it in the order you would do it," said Annie.
+
+"I go to them one at a time and I tell them what was done to them. I do not accuse him of anything, because he has never once claimed anything and there is nothing to disprove." He kept his hands flat. "Each one of them decides. I do not decide for them, and I do not ask them for anything. Any other version of it fails, because a man who has been argued into something argues himself back out of it within a month."
+
+"And you start with."
+
+"The ones who stopped." He turned the sheet over without unfolding it. "Four of the thirty-one stopped being invited. Three of those come apart in an hour, because one died, one went to Vancouver and one retired with a dinner and a wristwatch. The fourth stopped five years ago and is alive and still in the trade at the same address."
+
+"Say why him and not somebody easier."
+
+"Because a man who has been dropped has no line back to the man who dropped him." He said it without any pleasure in it. "He cannot carry a word of it home even if he wants to. And he has had five years to work out what he did wrong, and nobody has ever told him."
+
+Annie was quiet for long enough that he heard the hall.
+
+"You are going to take something off him," she said.
+
+"I am."
+
+"Say what."
+
+Georgij thought about that properly, because it was the right question and because she had asked it before he had.
+
+"His explanation," he said. "He has one by now. Everybody does, and after five years it has stopped hurting. Mine will be better than his and he will know it as soon as he hears it, and he will not be able to put the old one back afterward."
+
+"That is a real thing to take off a man."
+
+"It is. I am going to take it anyway, and I am saying so in this room, because the alternative is finding out in eight weeks that I have stopped saying it."
+
+Annie opened the folder then, and shut it again without taking anything out, which is a thing she does when she has decided something and is checking it once more on the way past.
+
+"The same two conditions as April," she said.
+
+"Yes, Mistress."
+
+"Say them."
+
+"Not one untrue word, including at the end, including when somebody asks me why." He did not hurry it. "And when it is finished I come to this room and tell you whether I enjoyed it, and it is the true answer and not the one that is easier to say in here."
+
+"And the second one is still open from April," said Annie.
+
+"It is."
+
+"I know it is. I have known since the thirtieth of April." She put both hands flat on the folder. "You gave me one sentence on a train and you have not given me the rest, and I let it stand, and I am going to go on letting it stand. I am not having it paid to me in a hurry on a Tuesday because it has become uncomfortable to carry."
+
+Georgij did not answer that at all, and she did not require him to.
+
+"Thursday," she said. "Not tomorrow. Tomorrow you would go with today still on you, and that man has waited five years and can wait two days."
+
+* * *
+
+He wrote it up in the small room afterward, and then he did something he had not done since October, which was to start a second page.
+
+The first page has been the same page all year. What he has found, in the order he found it.
+
+The second one is shorter and it is going to get longer.
+
+*Who knows that somebody is asking.*
+
+*Mrs Gwak, since the thirtieth of May. A clerk with a reservation book. Two practices on the telephone who do not know what for. A man in Bundang who has never heard of me.*
+
+*Annie, thirty-one times, and every one of them believes it was a woman being polite about a dinner.*
+
+*From Thursday, one more, and he will know exactly what it is for.*
+
+He sat and looked at the two pages next to each other for a while.
+
+He has spent this whole year finding people by what they left behind without meaning to. A slip in a corner box. A carbon copy. A name written in a hand that copied cards because a card is the only part of it anybody keeps.
+
+There is no version of the next four weeks in which he does not leave the same thing behind, in the same quantity, for exactly the sort of man who reads it.
+
+*Page one is what I have. Page two is what I have spent.*
+
+*I have never kept the second page before, and it was not because there was nothing on it.*
 
 ---
 
