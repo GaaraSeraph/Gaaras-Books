@@ -294,6 +294,17 @@ nachrechnen, und `check.py` tut das automatisch.
   nicht Choi Dae-ho selbst**, sondern jemand in dessen Auftrag. Annie und
   Georgij ziehen am Abend eine unbewiesene, schwere Vermutung: **Choi hat
   Sang-hoon womoeglich absichtlich erfahren lassen** (Band 2, Kapitel 39)
+- Tag 261, So 21. Juni: **Jangs Bericht nach sechzehn Beobachtungstagen.**
+  Vier Autos morgens und abends (Rota, nicht Familie), Waeschelieferung
+  dienstags, Lebensmittel freitags fuer sechs bis zehn Personen, ein Auto
+  bleibt nur mittwochs ueber Nacht. **Ein alter Mann an der Bushaltestelle
+  berichtet von einer Frau am Fenster im zweiten Stock, jeden Nachmittag
+  zur selben Zeit, seit Jahren.** Licht in elf von sechzehn Naechten,
+  immer aus bis zehn. Jangs Einordnung: *"Above the middle of it. Not
+  anywhere near the top."* **Georgij wird das Grundstueck weiterhin nicht
+  betreten - der naechste Schritt liegt bei Sang-hoons Grundbuchrecherche**
+  (Band 2, Kapitel 40)
+
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1707,7 +1718,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 - **Band 2, Kapitel 33** *A door with no name on it* (v1.0) - **Tag 243, Mi 3. Juni. Eine Szene, der Schreibtisch am Morgen.**
 
-  **Georgij bricht sein eigenes Muster:** zum ersten Mal seit Januar (in Wahrheit seit dem 20. Maerz, als er die vierte Zeile zum ersten Mal ausspricht) legt er eine laufende Ermittlung offen, bevor sie ihn etwas kostet, statt danach. *"I have not spent a won of yours on this and I have not used your name, and I only noticed this morning that both of those were decisions and I had not told you I was making them."*
+  **Georgij bricht sein eigenes Muster:** zum ersten Mal seit Januar (in Wahrheit seit dem 20. Maerz, als er die vierte Zeile zum ersten Mal ausspricht) legt er eine laufende Ermittlung offen, bevor sie ihn etwas kostet, statt danach. *"Since the flower shop, the only money that has gone into this is what you already handed me yourself, and I have not used your name once. I only noticed this morning that both of those were decisions, and I had not told you I was making them."* **Korrigiert am 24.08.:** die erste Fassung liess ihn behaupten, er habe "not spent a won" - falsch, Annie hatte ihm das Bargeld fuer den Blumenladen selbst gegeben (Kapitel 31).
 
   **Annie liest die Beweislage und liefert die Einordnung, die Georgij fehlt** - sie kennt die Sorte Adresse aus ihrem eigenen Geschaeft: *"A ward. A facility that takes people nobody wants found. Or a house that has been told to say no by somebody who pays its bills and does not live there."* Und die dritte ist die gefaehrliche, weil sie **nicht die Person darin schuetzt**, sondern denjenigen, der fuer das Schweigen zahlt.
 
@@ -1805,6 +1816,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Baek selbst bestaetigt das Wesentliche: zwei Maenner, kein Dritter - Yeom vollstaendig entlastet**, diesmal nicht vorlaeufig wie am Mittwoch. Und eine neue, praezise Probe: *"Did he eat."* **Der Kartenvorschlaeger hat gegessen, langsam, mit Kompliment an die Kueche - also nicht Choi Dae-ho selbst**, dessen Tick seit Kapitel 26 das genaue Gegenteil ist. Es gibt mindestens eine weitere Person in diesem Geflecht, die noch keinen Namen hat.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
+
+- **Band 2, Kapitel 40** *What the road knows* (v1.0) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+
+  **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
+
+  **Was er hat, ist ein Fahrplan statt eines Namens:** vier Autos morgens und abends (Rota, nicht Familie), ein Auto nur mittwochs ueber Nacht, Waeschelieferung dienstags, Lebensmittel freitags fuer sechs bis zehn Personen. **Und einen alten Mann an der Bushaltestelle**, der seit Jahren, ohne es zu wissen, eine Frau am Fenster im zweiten Stock beobachtet - jeden Nachmittag zur selben Zeit, nie draussen, nie Besuch. Licht in elf von sechzehn Naechten, immer aus bis zehn.
+
+  **Jangs dritte Vermutung ist die, die er "nicht seine, in diesem Raum zu sagen" nennt und trotzdem sagt:** eine Frau, die zu einer festen Stunde ans Fenster tritt, ist nicht ans Bett gefesselt, sondern ans Gebaeude - **und der Unterschied bedeutet, dass jemand entschieden hat, was fuer ein Leben ihr noch erlaubt sein soll, statt es zu beenden.** Mit zweiundzwanzig Jahren im Fach und einer eigenen Skala dahinter: *"Above the middle of it. Not anywhere near the top."*
+
+  **Annie zieht die Grenze, bevor Georgij sie ueberschreiten kann, und sagt es laut, damit er sie von ihr und nicht erst von sich selbst hoert:** der naechste Schritt ist keine Strasse mehr, sondern ein Grundbucheintrag - **Sang-hoons Weg, nicht ihrer.** Und sie erinnert sich ausdruecklich an den Preis der letzten Vier-Tage-Frist, um keinen neuen Termin zu erfinden, den sie nicht halten kann.
+
+  **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
 ---
 

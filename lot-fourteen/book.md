@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 73 Kapitel, 189.065 Woerter.
+2 Baende, 74 Kapitel, 191.080 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -77,13 +77,14 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 30 | v1.0 | 2.052 |
 | 2 | 31 | v1.0 | 2.354 |
 | 2 | 32 | v1.0 | 2.379 |
-| 2 | 33 | v1.0 | 2.005 |
+| 2 | 33 | v1.0 | 2.018 |
 | 2 | 34 | v1.0 | 2.254 |
 | 2 | 35 | v1.0 | 2.046 |
 | 2 | 36 | v1.0 | 2.001 |
 | 2 | 37 | v1.0 | 2.027 |
 | 2 | 38 | v1.0 | 2.010 |
 | 2 | 39 | v1.0 | 2.052 |
+| 2 | 40 | v1.0 | 2.002 |
 
 ---
 
@@ -21328,7 +21329,7 @@ Annie stood over it for a while and did not touch any of it.
 
 ---
 
-"Because on Friday I promised you something and I have been keeping it by accident since Saturday," said Georgij. "I have not spent a won of yours on this and I have not used your name, and I only noticed this morning that both of those were decisions and I had not told you I was making them."
+"Because on Friday I promised you something and I have been keeping it by accident since Saturday," said Georgij. "Since the flower shop, the only money that has gone into this is what you already handed me yourself, and I have not used your name once. I only noticed this morning that both of those were decisions, and I had not told you I was making them."
 
 ---
 
@@ -21574,7 +21575,7 @@ He turned round.
 
 "That is an honest answer."
 
-"It is the only kind I have got left to give you. I ran out of the other kind in March."
+"Mistress." He said it plainly, not as an endearment. "You have not, and you will not ever, hear a different kind of answer from me."
 
 ---
 
@@ -23349,3 +23350,236 @@ She closed the notebook and handed it back to him.
 ---
 
 "Go and eat something," she said. "You have spent your whole Friday finding out that a man you have never met is exactly as careful as we already knew he was." She looked at him a moment longer. "That fact is not going to get any lighter for being carried on an empty stomach."
+
+---
+
+# Book Two · Chapter 40: What the road knows
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Two Hundred and Sixty-One · Sunday 21 June
+
+Jang asked for the whole morning, and Annie gave it to him, which is not a thing she does for a report that could be delivered standing up.
+
+---
+
+They sat in the room off the library, the three of them, and Jang put a folded map on the desk before he said anything at all.
+
+---
+
+"I have not been onto the property," he said. "I have not spoken to anybody who works there. I have not used the route I had ready, because nobody told me to, and I do not go past a line I have not been given."
+
+---
+
+"Say what you have got instead," said Annie.
+
+---
+
+"Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre short of a gate that did not have a sign on it. "There is a lay-by here that a delivery van uses to turn round." Jang tapped the map twice. "From it you can see the gate, the drive, and about a third of the building, if you know when to look and you do not look for long."
+
+---
+
+Georgij sat with his hands on his knees and did not say anything.
+
+---
+
+Annie had a notepad open and had written nothing on it since Jang sat down. It is a thing she does when a report is worth her whole attention instead of half of it divided with her own hand.
+
+---
+
+"Sixteen days," she said. "Not fourteen, not a fortnight. Say why sixteen."
+
+---
+
+"Because that is what I actually watched, not what sounds tidy," said Jang. "The first few were spent finding the lay-by and working out which hours were worth sitting in it. I do not report a figure I have not earned."
+
+---
+
+"The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, marked for a facility, no name on the van that I could read from that distance. Fridays, a grocery order large enough for more than a family and small enough that it is not catering for a hotel. I counted the crates going in on three separate Fridays and they did not vary by more than one."
+
+---
+
+"How many people does that feed," said Annie.
+
+---
+
+"Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess and I am telling you it is a guess."
+
+---
+
+Georgij looked at the map.
+
+---
+
+"Staff."
+
+---
+
+"Four cars in the morning, four out in the evening, six days a week, which is a rota, not a family living there. One car stays overnight on Wednesdays only, and I do not know why Wednesday and not another day."
+
+---
+
+"Guess," said Annie.
+
+---
+
+"A doctor's rounds, or somebody who does the books once a week and does not want to drive back in the dark. I have not narrowed it further than that, because narrowing it would have meant getting close enough to read a number plate, and that was past the line I was given."
+
+---
+
+Jang put his finger on a second mark, further up the road. "There is a bus stop with a shelter three hundred metres past the gate, and an old man waits there most mornings for a bus that comes twice a day. I have spoken to him four times. He does not know I am asking about anything. He thinks I am waiting for the same bus."
+
+---
+
+"Say what he told you," said Georgij.
+
+---
+
+"That the place used to have a sign, years ago, and stopped having one. That the staff are decent and buy their cigarettes at the shop on the corner and are not talkative." Jang paused there, as though the next part needed its own room. "And that there is a woman who comes to the window on the second floor most afternoons, at the same hour, and stands there for a while. He has watched her do it for longer than he can put a number on, because he has been waiting for that bus for eleven years himself."
+
+---
+
+The room went very quiet.
+
+---
+
+"A woman," said Annie.
+
+---
+
+"He does not know an age. He said older, and he said it the way a man of seventy says older, which could mean anything from fifty to eighty." Jang did not look away from the map while he said it. "He has never seen her outside. He has never seen anybody come to see her."
+
+Jang said one more thing the old man had told him, without being asked. "He had assumed for years she was somebody's mother that nobody had time for. He had stopped thinking about it, because thinking about it did not help her, and it upset him."
+
+---
+
+Georgij sat very still.
+
+---
+
+"Second floor. Which window."
+
+---
+
+"Third from the left, facing the road. I have seen the light in it on eleven of the sixteen nights, always off by ten." Jang folded the map along its original creases, precisely, the way a man folds something he intends to hand over rather than keep. "That is everything I have that is not a guess. I have three guesses as well, and I will give you those too, but I want you to know which was which."
+
+---
+
+"Give me the guesses," said Annie.
+
+---
+
+"One. Whoever pays for that building pays for it to look exactly like what it is." Jang tapped the map once. "A place with no sign and a laundry contract is easier to leave alone than a place somebody has gone to trouble to hide." He held up a second finger. "Two. The staff are not frightened people. I have watched frightened people buy cigarettes and these are not that. They are ordinary people doing an ordinary job for what is probably good money, and they do not know what they are the edge of."
+
+---
+
+"And the third," said Georgij.
+
+---
+
+"The third is not mine to say in front of both of you," said Jang, "and I am going to say it anyway, because you asked me for guesses and not for comfort. A woman who stands at a window at the same hour every afternoon is not confined to a bed. She is confined to a building, and there is a difference, and the difference means somebody made a decision about what kind of a life she was allowed to have left, rather than deciding to end it."
+
+---
+
+Nobody said anything for a while.
+
+---
+
+"Say what makes you certain enough of that to say it out loud," said Annie.
+
+---
+
+Jang put both hands flat on the desk, either side of the folded map.
+
+---
+
+"Twenty-two years in this work," he said. "I have stood outside two other buildings like this one, for two other families, and both times the answer turned out to be worse than a window and a bus stop. I am not telling you it is not bad." He kept his hands flat on the desk. "I am telling you that a person who is allowed to stand at a window and choose when the light goes off has more left than most of what I have seen in this line of work. I have seen enough of it to have a scale."
+
+---
+
+"And if you are wrong."
+
+---
+
+"Then I am wrong, and you will have spent sixteen days of my time finding that out gently instead of finding it out the other way." Jang said it without any defensiveness in it at all. "I would rather be wrong that way round."
+
+---
+
+Georgij looked at the map, still folded, still in Jang's hands.
+
+---
+
+"You said a scale," he said. "Where does this sit on it."
+
+---
+
+"Above the middle of it," said Jang. "Not anywhere near the top." He looked between them once. "I am not going to lie to either of you to make the morning easier. I am not going to make it worse than it is either, because both of those are the same failure with a different direction."
+
+---
+
+Nobody in the room said anything for a while.
+
+---
+
+"That is either the kindest thing anybody has told me about this in four years," said Georgij, "or it is the worst, and I have not decided which."
+
+---
+
+"It is both," said Jang. "I have been doing this kind of work for a long time, and it is almost always both."
+
+---
+
+Annie looked at the map on the desk without touching it.
+
+---
+
+"You are not going in," she said. "Not through the tradesman's route, not through the old man, not through anything. Not yet."
+
+---
+
+"I was not going to ask," said Jang.
+
+---
+
+"I know you were not. I am saying it so that Georgij hears me say it to you and not only to him." She looked at Georgij directly. "The next step is not a road. It is a name on a registry, and that is Sang-hoon's road to walk, not ours, because he has people who can walk it without either of your faces attached to it."
+
+---
+
+Georgij did not argue with that, though it cost him something not to.
+
+---
+
+"You have not asked me what I would do," he said, "and I would like it on the record that I noticed you did not ask."
+
+---
+
+"I did not ask because I already know," said Annie. "You would take the tradesman's route tomorrow morning. You would be right about the risk to yourself and wrong about everybody else's." She glanced at Jang. "And I am not going to let you find that out the expensive way, when he has already told us both, without being asked, exactly how it usually goes wrong."
+
+---
+
+Jang did not say anything to that, which is its own kind of agreement, and Georgij noticed it and did not hold it against him.
+
+A man does not survive twenty-two years in this line of work by disagreeing with the person who signs for him, in a room he did not have to be in.
+
+---
+
+"When," said Georgij.
+
+---
+
+"When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not going to manufacture a date for you the way I did with four. The four days cost a florist a morning she did not need to spend wondering why a stranger had asked her about a man she had never met."
+
+---
+
+Jang stood up and put the map back in his coat.
+
+---
+
+"For what it is worth," he said, on his way to the door, "the light was on when I left this morning. She was awake before six." He stopped with his hand on the frame. "I do not know what that is worth. I have thought about it the whole drive back and I still do not know. But it seemed wrong to leave it out."
+
+---
+
+He went, and the door did the small ordinary thing that doors do when a large man closes them carefully because the house he is in is not his.
+
+Georgij sat with that detail longer than he sat with any of the others. It was the only one that had not come with a guess attached, and the only one Jang had offered without being asked for it at all. And a woman awake before six, in a building with a rota, is not, whatever else is true about her, asleep to what is happening to her.
+
+He wrote that down in the notebook exactly as he had thought it, without tidying it up, because he had learned this year that the untidy version is usually the true one.

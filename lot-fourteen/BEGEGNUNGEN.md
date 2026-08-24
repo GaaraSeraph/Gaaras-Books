@@ -18,11 +18,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 583 | 61 (b1ch01-b2ch39) | 1 | 74 |
-| Park Sang-hoon | 184 | 32 (b1ch10-b2ch39) | 1 | 74 |
+| Annie | 594 | 62 (b1ch01-b2ch40) | 1 | 74 |
+| Park Sang-hoon | 186 | 33 (b1ch10-b2ch40) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 90 | 24 (b1ch05-b2ch35) | 3 | 60 |
+| Jang | 114 | 25 (b1ch05-b2ch40) | 3 | 60 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
 | Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
 | Mrs Jeon | 52 | 12 (b2ch06-b2ch38) | 5 | 59 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-583 Nennungen in 61 Kapiteln.
+594 Nennungen in 62 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -645,6 +645,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:236 | "Before you were anywhere near this," said Annie, "which means it was not you he suspect.. |
 | 61 | b2ch39:248 | "Sang-hoon gave you the name for nothing, in a shed, of his own accord," said Annie. "A .. |
 | 61 | b2ch39:262 | "I do not know that yet, and neither do you," said Annie. "But it is the first time eith.. |
+| 3 | b2ch40:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
+| 3 | b2ch40:18 | "Say what you have got instead," said Annie. |
+| 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
+| 3 | b2ch40:46 | "How many people does that feed," said Annie. |
+| 3 | b2ch40:66 | "Guess," said Annie. |
+| 3 | b2ch40:90 | "A woman," said Annie. |
+| 3 | b2ch40:112 | "Give me the guesses," said Annie. |
+| 3 | b2ch40:132 | "Say what makes you certain enough of that to say it out loud," said Annie. |
+| 3 | b2ch40:176 | Annie looked at the map on the desk without touching it. |
+| 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
+| 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -801,12 +812,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch38:196` (Tag 59) - one
 - `b2ch39:200` (Tag 61) - two
 - `b2ch39:248` (Tag 61) - eight
+- `b2ch40:214` (Tag 3) - four
 
 ---
 
 ## Park Sang-hoon
 
-184 Nennungen in 32 Kapiteln.
+186 Nennungen in 33 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -994,6 +1006,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:248 | "Sang-hoon gave you the name for nothing, in a shed, of his own accord," said Annie. "A .. |
 | 61 | b2ch39:254 | He thought about the shed, and the way Sang-hoon had said the name flatly, without being.. |
 | 61 | b2ch39:258 | "He let Sang-hoon find out," he said slowly, "on purpose." |
+| 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
+| 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1074,6 +1088,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch38:206` (Tag 59) - one
 - `b2ch39:248` (Tag 61) - eight
 - `b2ch39:254` (Tag 61) - hundred and forty
+- `b2ch40:214` (Tag 3) - four
 
 ---
 
@@ -1558,7 +1573,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-90 Nennungen in 24 Kapiteln.
+114 Nennungen in 25 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1652,6 +1667,30 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 47 | b2ch35:256 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
 | 47 | b2ch35:280 | "Jang asked me a question I have been sitting with." |
 | 47 | b2ch35:312 | "That answers Jang's question," he said. |
+| 3 | b2ch40:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
+| 3 | b2ch40:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
+| 3 | b2ch40:22 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
+| 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
+| 3 | b2ch40:38 | "Because that is what I actually watched, not what sounds tidy," said Jang. "The first f.. |
+| 3 | b2ch40:42 | "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, m.. |
+| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess.. |
+| 3 | b2ch40:74 | Jang put his finger on a second mark, further up the road. "There is a bus stop with a s.. |
+| 3 | b2ch40:82 | "That the place used to have a sign, years ago, and stopped having one. That the staff a.. |
+| 3 | b2ch40:94 | "He does not know an age. He said older, and he said it the way a man of seventy says ol.. |
+| 3 | b2ch40:96 | Jang said one more thing the old man had told him, without being asked. "He had assumed .. |
+| 3 | b2ch40:108 | "Third from the left, facing the road. I have seen the light in it on eleven of the sixt.. |
+| 3 | b2ch40:116 | "One. Whoever pays for that building pays for it to look exactly like what it is." Jang .. |
+| 3 | b2ch40:124 | "The third is not mine to say in front of both of you," said Jang, "and I am going to sa.. |
+| 3 | b2ch40:136 | Jang put both hands flat on the desk, either side of the folded map. |
+| 3 | b2ch40:148 | "Then I am wrong, and you will have spent sixteen days of my time finding that out gentl.. |
+| 3 | b2ch40:152 | Georgij looked at the map, still folded, still in Jang's hands. |
+| 3 | b2ch40:160 | "Above the middle of it," said Jang. "Not anywhere near the top." He looked between them.. |
+| 3 | b2ch40:172 | "It is both," said Jang. "I have been doing this kind of work for a long time, and it is.. |
+| 3 | b2ch40:184 | "I was not going to ask," said Jang. |
+| 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
+| 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
+| 3 | b2ch40:218 | Jang stood up and put the map back in his coat. |
+| 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1693,6 +1732,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:156` (Tag 4) - four, one
 - `b2ch20:280` (Tag 11) - four, one
 - `b2ch35:244` (Tag 47) - four, one
+- `b2ch40:10` (Tag 3) - three
+- `b2ch40:22` (Tag 3) - one, sixteen
+- `b2ch40:42` (Tag 3) - one, three
+- `b2ch40:50` (Tag 3) - six and ten
+- `b2ch40:74` (Tag 3) - four, three hundred
+- `b2ch40:82` (Tag 3) - eleven, one
+- `b2ch40:94` (Tag 3) - eighty, fifty, seventy
+- `b2ch40:96` (Tag 3) - one
+- `b2ch40:108` (Tag 3) - eleven, sixteen, ten, three
+- `b2ch40:116` (Tag 3) - one, two
+- `b2ch40:148` (Tag 3) - sixteen
+- `b2ch40:228` (Tag 3) - one, six
 
 ---
 

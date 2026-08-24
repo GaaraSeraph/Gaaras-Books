@@ -752,9 +752,10 @@ Fassung.**
   Grundstuecksakte in Gangwon-do, der Verlust vor elf Jahren - und Sang-hoon
   bekommt die Haelfte davon (den Beweis, nicht die Blumenverkaeuferin).
 
-- **JANG AUF DER ZWEITEN ADRESSE.** Von aussen, seit dem 3. Juni. **Faellig:**
-  was er zurueckmeldet, und ob Georgij ueberhaupt noch hinfahren muss, wenn Jang
-  liefert.
+- **JANGS BERICHT LIEGT VOR (Kapitel 40, 21. Juni).** Rota-Personal, eine Frau
+  am Fenster im zweiten Stock, Licht immer aus bis zehn. Georgij betritt das
+  Grundstueck weiterhin nicht. **Faellig: Sang-hoons Grundbuchrecherche** - der
+  naechste Schritt ist ausdruecklich seiner, nicht Georgijs oder Jangs.
 
 - **SANG-HOONS VIER ENTSCHEIDUNGEN, seit April liegen geblieben.** Georgij hat
   es Annie am 3. Juni selbst zugegeben. **Faellig, und faellig bald** - Sang-hoon
