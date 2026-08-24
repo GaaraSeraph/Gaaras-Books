@@ -28,8 +28,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
+| Bae | 34 | 9 (b1ch03-b2ch52) | 1 | 34 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
-| Bae | 32 | 8 (b1ch03-b2ch51) | 1 | 34 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Baek | 30 | 9 (b1ch05-b2ch51) | 2 | 55 |
@@ -2509,6 +2509,67 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Bae
+
+34 Nennungen in 9 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
+| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
+| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
+| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
+| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
+| 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
+| 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
+| 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
+| 10 | b2ch47:258 | *Mrs Bae, 23 June. Telephoned a man.* |
+| 4 | b2ch49:6 | He went back to Mrs Bae on the Wednesday, in the afternoon, at the hour when the front o.. |
+| 4 | b2ch49:18 | Mrs Bae saw him through the glass before he reached the door, and did not look surprised.. |
+| 4 | b2ch49:38 | Mrs Bae put both hands on the desk with the book on it and left them there. |
+| 4 | b2ch49:58 | Mrs Bae looked at him for a moment and then, for the first time, sat down. |
+| 4 | b2ch49:126 | Mrs Bae took a moment, and when it came it came in order, the way it does from somebody .. |
+| 4 | b2ch49:150 | "He said: what did he look like. And I told him, and he said thank you." Mrs Bae lifted .. |
+| 4 | b2ch49:158 | "That is the part," said Mrs Bae. |
+| 4 | b2ch49:186 | Mrs Bae took that without flinching. |
+| 4 | b2ch49:230 | Mrs Bae looked at him for a long moment. |
+| 4 | b2ch49:262 | Mrs Bae did not follow it, and said so with her face and not her mouth. |
+| 4 | b2ch49:342 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
+| 3 | b2ch51:110 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
+| 5 | b2ch52:26 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
+| 5 | b2ch52:338 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+
+### Zahlen in der Naehe von Bae
+
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b2ch41:66` (Tag 4) - one
+- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
+- `b2ch41:128` (Tag 5) - one
+- `b2ch41:212` (Tag 5) - five, one, six
+- `b2ch41:224` (Tag 5) - five, three, two
+- `b2ch47:94` (Tag 10) - twenty-two
+- `b2ch47:144` (Tag 10) - nine, three, twenty
+- `b2ch47:248` (Tag 10) - one, two
+- `b2ch49:342` (Tag 4) - two
+- `b2ch51:110` (Tag 3) - one, twelve
+- `b2ch52:26` (Tag 5) - ten
+- `b2ch52:338` (Tag 5) - thirty
+
+---
+
 ## Mrs Sunwoo
 
 34 Nennungen in 14 Kapiteln.
@@ -2572,63 +2633,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:292` (Tag 17) - eighty-one, one, three
 - `b2ch23:84` (Tag 24) - three
 - `b2ch23:122` (Tag 24) - four, two
-
----
-
-## Bae
-
-32 Nennungen in 8 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | b1ch03:168 | Bae's jaw moved. |
-| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
-| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
-| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
-| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
-| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
-| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
-| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
-| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
-| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
-| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
-| 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
-| 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
-| 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
-| 10 | b2ch47:258 | *Mrs Bae, 23 June. Telephoned a man.* |
-| 4 | b2ch49:6 | He went back to Mrs Bae on the Wednesday, in the afternoon, at the hour when the front o.. |
-| 4 | b2ch49:18 | Mrs Bae saw him through the glass before he reached the door, and did not look surprised.. |
-| 4 | b2ch49:38 | Mrs Bae put both hands on the desk with the book on it and left them there. |
-| 4 | b2ch49:58 | Mrs Bae looked at him for a moment and then, for the first time, sat down. |
-| 4 | b2ch49:126 | Mrs Bae took a moment, and when it came it came in order, the way it does from somebody .. |
-| 4 | b2ch49:150 | "He said: what did he look like. And I told him, and he said thank you." Mrs Bae lifted .. |
-| 4 | b2ch49:158 | "That is the part," said Mrs Bae. |
-| 4 | b2ch49:186 | Mrs Bae took that without flinching. |
-| 4 | b2ch49:230 | Mrs Bae looked at him for a long moment. |
-| 4 | b2ch49:262 | Mrs Bae did not follow it, and said so with her face and not her mouth. |
-| 4 | b2ch49:342 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
-| 3 | b2ch51:110 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
-
-### Zahlen in der Naehe von Bae
-
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch05:128` (Tag 4) - one, three, two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b2ch41:66` (Tag 4) - one
-- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
-- `b2ch41:128` (Tag 5) - one
-- `b2ch41:212` (Tag 5) - five, one, six
-- `b2ch41:224` (Tag 5) - five, three, two
-- `b2ch47:94` (Tag 10) - twenty-two
-- `b2ch47:144` (Tag 10) - nine, three, twenty
-- `b2ch47:248` (Tag 10) - one, two
-- `b2ch49:342` (Tag 4) - two
-- `b2ch51:110` (Tag 3) - one, twelve
 
 ---
 
