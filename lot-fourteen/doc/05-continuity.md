@@ -527,7 +527,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
 
   **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
-- **Kapitel 28** *A woman in a room can be asked* (v1.4) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+- **Kapitel 28** *A woman in a room can be asked* (v1.5) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
 
@@ -696,7 +696,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.5) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.6) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
   **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und dessen Ende hat er auf dem Boden am Fenster verbracht, an ihren Beinen, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
 
@@ -748,7 +748,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die zweite Nichtantwort.** *"That was the second time in two days that a question he had put down in front of her had been stepped over rather than answered, and the first time had been about a name."* Und die Bilanz: Gestern hat er um ein Papier gebeten, das sagt, was er darf, und keines bekommen; heute hat er ohne Papier etwas von ihr verschenkt, hatte recht, und sie hat es stehenlassen. **Er geht die Osttreppe hinauf und zaehlt die Stufen nicht** - in Kapitel 34 hat er sie gezaehlt und zweiundzwanzig bekommen, was er seit Oktober wusste.
 
-- **Band 2, Kapitel 3** *We haven't met* (v1.1) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
+- **Band 2, Kapitel 3** *We haven't met* (v1.2) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
 
   **Niemand hat ihn darum gebeten, und das ist der erste Satz.** Ulsan war am Donnerstag um vier fertig. Was er mit den restlichen drei Tagen macht, entscheidet er selbst - und er beruft sich dabei auf ihren eigenen Satz vom Montag: *"Nobody has told you what to want."* **Sie hat es als Freigabe gemeint. Er nimmt es als eine, und er weiss, dass sie das nicht gemeint hat.** Dazu die Uebertretung in Fingernagelgroesse: Er nimmt den Katalog vom Schreibtisch im kleinen Zimmer mit nach oben, **das erste Ding, das er je aus diesem Raum genommen hat, ohne dass es ihm gereicht wurde.**
 
@@ -776,7 +776,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
-- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.4) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.5) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
 
   **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
 
@@ -822,7 +822,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Falle, die er sich selbst gestellt hat.** Jang steht auf dem Kies, was er nicht tut, und weiss seit halb zehn, wo der Wagen war - eine solche Halle veroeffentlicht Raumnummer und drei Tage. **Annie hat es zuerst.** Und Georgij hat am Samstag gesagt: *am Tag, an dem es zu kosten anfaengt, bekommst Du alles an dem Tag.* Er wollte es sagen, sie wusste es vorher, und **die Reihenfolge kann er nicht beweisen.** *"The trouble with a man who has never said anything untrue is that he has also never had to be believed."* Letzte Zeile des Kapitels: **"Take the coat off," said Annie.**
 
-- **Band 2, Kapitel 5** *The east side* (v1.5) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
+- **Band 2, Kapitel 5** *The east side* (v1.6) - **Tag 159, Mi 11. Maerz, abends. Eine Szene, das kleine Zimmer, unmittelbar an das Ende von Kapitel 4 anschliessend.**
 
   **Der Einstieg ist die Falle aus Kapitel 4, und er raeumt sie selbst ab.** Er sagt zuerst, was er nicht beweisen kann: Jang stand auf dem Kies, sie hatte es vor ihm. *"There is no way for me to show you which of us was going to say it first. ... I would only be asking you to take my word for the one thing my word is no good for."* Annies Antwort setzt das Thema: **"The order is not what is wrong with today."**
 
@@ -2495,6 +2495,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
 - **Band 2, Kapitel 48** *The one who does not leave* (v1.0) - **Tag 290, Mo 20. Juli.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 49** *What he asked her* (v1.0) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
