@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 645 | 68 (b1ch01-b2ch46) | 1 | 74 |
+| Annie | 644 | 68 (b1ch01-b2ch46) | 1 | 74 |
 | Park Sang-hoon | 246 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-645 Nennungen in 68 Kapiteln.
+644 Nennungen in 68 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -136,7 +136,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
 | 22 | b1ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
 | 22 | b1ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
-| 22 | b1ch09:12 | Up close the dark red was not red at all but something browner that had only been red un.. |
 | 22 | b1ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
 | 22 | b1ch10:6 | He did not go and stand near Annie. |
 | 22 | b1ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |

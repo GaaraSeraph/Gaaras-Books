@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.143 Woerter.
+Book One, 34 Kapitel, 101.146 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,13 +15,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v11.10 | 3.167 |
 | 03 | v2.8 | 3.374 |
 | 04 | v1.9 | 2.443 |
-| 05 | v5.10 | 4.327 |
-| 06 | v1.6 | 2.069 |
+| 05 | v5.11 | 4.330 |
+| 06 | v1.7 | 2.066 |
 | 07 | v6.5 | 3.856 |
-| 08 | v3.5 | 2.677 |
-| 09 | v3.3 | 3.119 |
+| 08 | v3.6 | 2.681 |
+| 09 | v3.4 | 3.118 |
 | 10 | v2.5 | 2.983 |
-| 11 | v2.9 | 2.730 |
+| 11 | v2.10 | 2.730 |
 | 12 | v1.8 | 2.350 |
 | 13 | v2.5 | 2.834 |
 | 14 | v7.7 | 2.599 |
@@ -1099,7 +1099,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Book One · Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.10 · EN
+*Lot Fourteen* · Version 5.11 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1191,7 +1191,7 @@ Jang read page six again.
 
 "This is a good establishment," he said. "I've run smaller ones for larger houses. Fourteen is not a thin number."
 
-"It's an excellent establishment and I've said so on the first page." Georgij inclined his head. "It has been pointed outward for twenty-two years by a man who is leaving in three weeks. Every hole in it is on the inside of a wall he was never asked to think about."
+"It's an excellent establishment and I've said so on the first page." Georgij inclined his head. "It has been pointed outward for twenty-two years by a man who is leaving at the end of the month. Every hole in it is on the inside of a wall he was never asked to think about."
 
 Then he said the two things he had not put on paper.
 
@@ -1446,7 +1446,7 @@ He stopped.
 ---
 
 # Book One · Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1508,7 +1508,7 @@ She let him wait, and went on looking at him, and there was nothing in her face 
 
 Withdrawn or sold. A catalogue prints neither, and both of those words fit inside the same silence, and there is no way in the world to tell them apart from the outside of it.
 
-He had asked her in the car on the first night, and again across this desk before that first day was out. He did not ask a third time.
+He had asked her in the car on the first night, and again across this desk on the second. He did not ask a third time.
 
 "There is something else in that file that I would like to put to you," he said instead, in exactly the register he had used for the car, "and it isn't the evening. It's the room."
 
@@ -1970,7 +1970,7 @@ He had five.
 ---
 
 # Book One · Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2166,7 +2166,7 @@ The auctioneer was a broadcaster with a good voice, and there was a lectern, and
 
 A guitar signed by somebody Georgij had never heard of, which went for thirty-eight million won to a man at table six who did not want it and did want eight hundred people to watch him not want it.
 
-A week in a villa on Jeju, with staff. Two paintings. A watch. A shooting weekend. A boat.
+A week in a villa on Jeju, with staff. Two paintings. A watch. A case of wine. A shooting weekend. A boat.
 
 Georgij sat on Annie's left with his hands loose on the cloth and watched.
 
@@ -2223,7 +2223,7 @@ It was the only thing anybody had done for him all evening, and nobody in the ro
 ---
 
 # Book One · Chapter 9: The friendly ones
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2233,7 +2233,7 @@ She came at him at a quarter past ten, when the speeches were over and the room 
 
 Georgij turned round.
 
-Up close the dark red was not red at all but something browner that had only been red under the lights. She was about Annie's age, and she had a glass she had been holding for a long time.
+Up close the dark red was not red at all but something browner that had only been red under the lights. She was past fifty, and she had a glass she had been holding for a long time.
 
 "I beg your pardon?"
 
@@ -2873,7 +2873,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Book One · Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.9 · EN
+*Lot Fourteen* · Version 2.10 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2885,7 +2885,7 @@ There was a second car waiting at the top of the ramp with two of Jang's people 
 
 Annie put the clutch down on the seat between them.
 
-The third time up this road. The same last five kilometres as the first time, in the same direction, three weeks and a day later.
+The third time on this road. The same last five kilometres as the first time, in the same direction, three weeks and a day later.
 
 She did not open the bag and she did not close it either, and it lay there with the catch resting shut and not fastened, which he noticed and did not look at.
 
