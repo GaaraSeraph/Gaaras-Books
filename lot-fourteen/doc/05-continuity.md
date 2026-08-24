@@ -681,13 +681,13 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 14** *In the same size type* (v7.7) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
 - **Kapitel 12** *You are better when you don't know* (v1.8) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
-- **Kapitel 11** *Thank you for telling me* (v2.9) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
+- **Kapitel 11** *Thank you for telling me* (v2.10) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
-- **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
-- **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
+- **Kapitel 9** *The friendly ones* (v3.4) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
+- **Kapitel 8** *Something to do with my hands* (v3.6) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.5) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
-- **Kapitel 6** *Withdrawn or sold* (v1.6) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.10) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 6** *Withdrawn or sold* (v1.7) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
+- **Kapitel 5** *Seven Letters* (v5.11) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.9) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.8) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
@@ -1811,7 +1811,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v1.3) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v2.0) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -1828,7 +1828,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.3) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v2.0) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -1840,7 +1840,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v1.2) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v2.0) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -1852,7 +1852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.3) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v2.0) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -1862,7 +1862,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *What the road knows* (v1.1) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *What the road knows* (v2.0) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -1874,7 +1874,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
-- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v1.1) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v2.0) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
 
   **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
 
@@ -1935,7 +1935,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
 
 
-- **Band 2, Kapitel 46** *Somebody in Seoul pays for it* (v1.0) - **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
+- **Band 2, Kapitel 46** *Somebody in Seoul pays for it* (v2.0) - **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
 
   **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
 
@@ -2550,6 +2550,46 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 1 bis 11 (25.08.)
+
+Gepruefte Blickwinkel: Rueckbezuege, Wissensstand der Sprechenden, eingeloeste
+Zusagen, Zahlen und Daten, und die Regel, dass Georgij nichts Unwahres sagt.
+
+**Was gehalten hat.** Die Uhr des Gala-Abends stimmt auf die Minute: Ankunft
+7:22, die Bildungsfrage bei zwoelf Minuten, Hongs Name bei siebzehn, und die
+dreiundsechzig Minuten, die Kapitel 8 zurueckrechnet, treffen genau dorthin.
+Der Florist deckt hundertvier Tische, der Saal hat hundertdrei plus Haupttisch.
+Achthundertsechsunddreissig Gedecke sind 103 x 8 + 12. Zweiundsechzig Millionen
+fuer einen Abend Koch sind dreieinhalb Mal weniger als zweihundertzwanzig, und
+genau das rechnet er aus. Dreissig Leute am Haushalt gehen auf, wenn Ji-won und
+die zwei oberen Maedchen zu den vier Maedchen gehoeren. Die Halsband-Warnung aus
+Kapitel 2 hat seit dem 24.08. ihren Satz in Kapitel 1.
+
+**Fuenf Korrekturen.**
+
+- **Kapitel 5:** *"a man who is leaving in three weeks"* -> *"at the end of the
+  month"*. Mr Noh geht Ende Oktober; an Tag 4 sind das vierundzwanzig Tage.
+  Derselbe Absatz sagt zweimal *end of the month*, und Georgij nennt im selben
+  Gespraech *eighteen days* auf den Tag genau.
+- **Kapitel 6:** *"again across this desk before that first day was out"* ->
+  *"on the second"*. Am ersten Abend war das Arbeitszimmer geschlossen; Kapitel 4
+  sagt das ausdruecklich, und die Frage nach Los elf faellt dort in die Nacht von
+  Tag 2.
+- **Kapitel 8:** Die Gala-Versteigerung kuendigt **neun** Lose an und nannte
+  acht. Ein Weinlos ergaenzt.
+- **Kapitel 9:** *"She was about Annie's age"* -> *"She was past fifty"*. Hana
+  ist einundfuenfzig (Kapitel 21, aus ihrem eigenen Mund), Annie
+  siebenunddreissig. Vierzehn Jahre sind nicht dasselbe Alter.
+- **Kapitel 11:** *"The third time up this road"* -> *"on this road"*. Hinauf ist
+  es die zweite Fahrt; auf der Strasse die dritte, und genau das sagt der
+  Folgesatz.
+
+**Offen, gehoert dem Autor.** *Bang* (Koch, Kapitel 8), *Baek* (Koch im Haus) und
+*Bae* (Torwache) stehen in einem Buch. Bang kommt nur in einer Szene vor, deshalb
+nicht angefasst.
 
 ---
 
