@@ -23,7 +23,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 10 | v2.1 | 2.225 |
 | 11 | v2.3 | 2.533 |
 | 12 | v1.4 | 2.902 |
-| 13 | v1.2 | 2.183 |
+| 13 | v1.3 | 2.183 |
 | 14 | v1.3 | 2.432 |
 | 15 | v1.1 | 2.020 |
 | 16 | v1.2 | 2.053 |
@@ -2705,7 +2705,7 @@ Jang thought about that for a moment and did not appear to enjoy it.
 ---
 
 # Book Two · Chapter 13: What it costs him
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Eighty-Eight · Thursday 9 April
 
@@ -2751,7 +2751,7 @@ Four of the five names were the same name, and it was the man with nine trucks a
 
 The terminal at Yeongjong is ten months old and looks it, in the way a thing looks new when the man who built it will not have anything on it repainted before it has earned the paint.
 
-Chairman Woo came out to the car himself, which he did in October as well.
+Chairman Woo came out to the car himself, which he did in November as well.
 
 "The twentieth of November," he said. "That is the last time you stood on this ground. You telephoned in December and you did not come. Now come in and look at the second berth, they finished it in February and nobody has been out to see it."
 

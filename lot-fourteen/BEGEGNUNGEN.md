@@ -1695,7 +1695,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 | 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
-| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in October as well. |
+| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in November as well. |
 | 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
 | 9 | b2ch13:84 | Woo did not answer for a moment. |
 | 9 | b2ch13:102 | Woo sat back and looked at him. |

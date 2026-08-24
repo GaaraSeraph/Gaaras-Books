@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 167.863 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 168.031 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3316,7 +3316,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die einzige Frage, die ein Sicherheitsmann stellt:** *"Is any part of this going to arrive at that gate."* Antwort: die eigenen sechs nehmen es ihr ab, sie werden im Recht sein und es fuer ihre eigene Idee halten, **und eine Frau, die alles an die Leute verloren hat, an die sie zwanzig Jahre lang am Ersten geschrieben hat, faehrt nicht vier Stunden an ein Tor. Sie geht nach Hause.** - **"That is worse," he said.** - *"Yes."*
 
-- **Band 2, Kapitel 13** *What it costs him* (v1.2) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
+- **Band 2, Kapitel 13** *What it costs him* (v1.3) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
 
   **Jangs vier Blatt sind der Beweis, dass die Maschine laeuft**, und sie sind konkret: ein Sohn an einer Universitaet in Australien und sieben Monate Restlaufzeit auf einem Kredit gegen den Hof; ein Teilhaber, der seit dem Tod seiner Frau heraus will und nur bleibt, weil es niemanden zum Verkaufen gibt; zwei Brueder, die seit 2019 nicht miteinander reden und beide mit der Frau des Juengeren; einer, der seit Februar still Arbeit von der Spur nimmt; ein Mann von vierzig, der die Firma im Herbst uebernommen hat und seither in keiner Sitzung ein Wort gesagt hat.
 
@@ -7463,6 +7463,23 @@ dem 24.08. offen.
 
 ---
 
+## Zwei Fragen aus dem Zuschreibungsdurchgang, die dem Autor gehoeren (25.08.)
+
+- **Band 2, Kapitel 7 und 12: *"the fourth week of the worst quarter of her
+  life"*.** Die Seite lag am **14. Maerz** auf ihrem Schreibtisch, und ihre Bahn
+  liegt seit **Januar** still. Das ist die zehnte oder elfte Woche, nicht die
+  vierte. Der Satz steht zweimal und traegt beide Male dasselbe Argument (*"Not
+  in January when she could still wait, and not in June when it would be
+  over"*), deshalb **nicht angefasst** - aber entweder ist die Woche gemeint,
+  die ich nicht sehe, oder es muesste *the eleventh week* heissen.
+- **Band 2, Kapitel 13: *"The terminal at Yeongjong is ten months old"*.** Zehn
+  Monate ist in Band 1 die **Bauzeit** (Kapitel 7: *"Was it eleven months from
+  the ground?" / "Ten."*), und der Beton ging in einem nassen Maerz hinein. Wenn
+  das Terminal im April zehn Monate alt ist, hat es im Juni eroeffnet. Moeglich,
+  aber die Zahl kollidiert mit der bekannteren. **Nicht angefasst.**
+
+---
+
 ## Wer gerade woran ist
 
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
@@ -10457,7 +10474,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
 | 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
-| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in October as well. |
+| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in November as well. |
 | 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
 | 9 | b2ch13:84 | Woo did not answer for a moment. |
 | 9 | b2ch13:102 | Woo sat back and looked at him. |
