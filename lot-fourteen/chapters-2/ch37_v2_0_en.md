@@ -1,5 +1,285 @@
-# Chapter 37: A piece of paper somewhere in the world
-*Lot Fourteen* · Version 1.3 · EN
+# Chapter 37: The one who asked a question
+*Lot Fourteen* · Version 2.0 · EN
+
+## Day Two Hundred and Fifty-One · Thursday 11 June
+
+Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and then signs a piece of paper that decides whose money it is.
+
+---
+
+His office is two rooms over a chandler's on the wrong side of Yeongdeungpo, with a window that has been painted shut and a wall of box files in date order that go back further than the lease does. There is one desk, one chair for a visitor, and a kettle that has been descaled by somebody who cared about the kettle.
+
+---
+
+Georgij had spent Wednesday deciding what to bring and had settled on one thing.
+
+---
+
+"The eleventh of March, five years ago," he said, before he had sat down. "You had dinner in a private room in Cheongdam. That was the last time you were asked."
+
+---
+
+Mr Ryu put the kettle down.
+
+---
+
+He did not ask who Georgij was, which was interesting, and he did not ask him to leave, which was more interesting than that.
+
+---
+
+"Sit down," he said.
+
+---
+
+Georgij sat.
+
+---
+
+"I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two men I drink with. It is not a thing a man says." He stayed standing, with the kettle between his hands. "And you have come up two flights of stairs with the date on you."
+
+---
+
+"Yes."
+
+---
+
+"Then say who you work for, because I am going to want to know that before anything else and I am not going to pretend otherwise."
+
+---
+
+"I work for a woman on the river. She has no interest in you and no business with you, and you will not hear from her." Georgij put his hands flat on his knees. "She is not why I am here and she does not know I am in this room this morning. I told her I was coming and she did not ask which man."
+
+---
+
+Mr Ryu looked at that for a while.
+
+---
+
+"That is a strange amount of detail to give away in a first minute."
+
+---
+
+"It is what I have got. Spending it now is cheaper than having you sit there for an hour working out what I am holding back."
+
+---
+
+Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men of that generation do instead of agreeing to a conversation.
+
+---
+
+"Ask me your question, then."
+
+---
+
+"I have not got one." Georgij said it plainly. "I came to tell you something and then to leave. You can ask me to go now and I will, and nothing happens afterward either way."
+
+---
+
+The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it finished.
+
+---
+
+"Nobody has ever come up here to tell me something," he said. "They come up here to have a hold looked at."
+
+---
+
+"I know. That is part of what I am going to tell you."
+
+---
+
+Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
+
+---
+
+"Go on."
+
+---
+
+"You went to that table for four years," said Georgij. "The last time was the eleventh of March, and you have not been asked since, and nobody has ever told you why."
+
+---
+
+"I know all of that. I have known it for five years."
+
+---
+
+"You have an explanation for it."
+
+---
+
+Mr Ryu did not answer straight away, and when he did his voice had changed by exactly the amount that a man's voice changes when somebody has walked into the middle of a private thing.
+
+---
+
+"I am sixty-something and there are younger men with better equipment," he said. "My firm is two rooms and it was four rooms once. Men stop being asked to dinners. It is not a mystery, it is arithmetic."
+
+---
+
+"That is a good explanation," said Georgij. "It fits everything you can see from this chair, and I would have arrived at it myself, and it is wrong."
+
+---
+
+Mr Ryu put both hands on the desk.
+
+---
+
+"Say the right one."
+
+---
+
+"At that dinner, late, you asked who the third man at the table was."
+
+---
+
+The room went completely quiet, and it was not the sort of quiet that waits for the next sentence. It was the other sort.
+
+---
+
+"I asked because he had not been introduced," said Mr Ryu, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
+
+---
+
+"Until now."
+
+---
+
+"I have thought about it every few months for five years and I have never once put it next to the invitations." He stopped. "That is not true. I have put it next to them and I have taken it away again, because the other explanation is smaller and does not require anybody to have done anything to me."
+
+---
+
+Georgij let that stand, because it was the whole thing and the man had said it himself.
+
+---
+
+"It is the only thing that is not allowed at that table," he said. "You may be used and you may be fed and you may go home pleased. You may not look at who is in the room. You did it once, in the ordinary way, and you were not asked again, and nobody was ever going to tell you."
+
+---
+
+Mr Ryu sat back.
+
+---
+
+"You said you came to tell me something. That is one thing. There is a second."
+
+---
+
+"There is a second."
+
+---
+
+"Then have it out."
+
+---
+
+"In the autumn of the year before that dinner, somebody at that table asked you casually who you would use for a bonded transfer if it were your own cargo." Georgij kept his hands where they were. "You gave a name. You gave the name of a good firm run by a man you had known twenty years, because it was true and it cost you nothing and it was a pleasant thing to be asked."
+
+---
+
+"I remember."
+
+---
+
+"Fourteen months later that firm was sold. The man who owned it took a price that people in your trade still talk about. He took it because two of his three contracts had gone somewhere else inside one quarter, and he did not know why either."
+
+---
+
+Mr Ryu did not move for a long moment.
+
+---
+
+"You are telling me that I did that."
+
+---
+
+"No." Georgij said it immediately and flatly, because there was one sentence in the whole morning that could not be allowed to sit even for a second in the wrong shape. "You answered a question at dinner honestly, about a firm you thought well of. A man asked it who had already decided what he was going to do with the answer. You were the reason he did not have to guess, and that is all you were, and you could not have known it."
+
+---
+
+"That is a distinction."
+
+---
+
+"It is the correct one, and I am not going to soften it past that, because if I do you will hear the soft version and go looking for the hard one later on your own."
+
+---
+
+The traffic outside did the thing traffic does when a room has gone quiet.
+
+---
+
+"What do you want from me," said Mr Ryu.
+
+---
+
+"Nothing at all."
+
+---
+
+"Say that again."
+
+---
+
+"Nothing." Georgij stood up. "I am not asking you for a statement, or for a name, or to make a telephone call, or to remember something. There is nothing you have that I need. I came up two flights of stairs to give a man his correct explanation and then to go back down them."
+
+---
+
+Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier.
+
+---
+
+"Then what am I supposed to do with it."
+
+---
+
+"Whatever you like. That is not a courtesy, it is the whole of it." Georgij put his chair back where it had been. "If somebody telephones you in a year and invites you to a dinner, you will already know what the dinner is. That is the only thing I have changed this morning, and I have changed it whether either of us wants it or not."
+
+---
+
+Mr Ryu got up and came round the desk, and at the door he did something Georgij had not planned for, which was to put out his hand.
+
+---
+
+"You have taken something off me," he said. "I want that said, because you have been very careful all morning to say the true version of everything else. For five years I have been a man whose business got smaller. From this afternoon I am a man who was used and dropped for asking a polite question, and I do not know yet which of those two I would rather have been."
+
+---
+
+"No," said Georgij. "I do not either, and I decided to come anyway, and I am not going to stand in your doorway and call that a favour."
+
+---
+
+Then he smiled at him.
+
+---
+
+It was the wide one, the one that goes all the way up and arrives about a quarter of a second late. It is the first time this year he has spent it on somebody who could not do a single thing for him.
+
+---
+
+Mr Ryu smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
+
+---
+
+"Go on," he said. "You have got somebody else to go and ruin an afternoon for."
+
+---
+
+Georgij went down the two flights and stood on the street for a moment before he walked to the bus.
+
+---
+
+*He has not told anybody in five years. Now one person knows, and it is me, and he will tell one person by Sunday because a man who has carried a thing that long does not carry it alone once it has a shape.*
+
+*That is how it starts. I have put a sentence into a trade that talks, and I cannot take it out again, and I knew that before I climbed the stairs.*
+
+---
+
+He wrote the name on the second page when he got back, under the four that were already there, and then he sat for a while with the pen not doing anything.
+
+---
+
+*Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
+
+---
 
 ## Day Two Hundred and Fifty-Five · Monday 15 June
 
@@ -195,7 +475,7 @@ What the morning needed, it turned out, was the other debt.
 
 ---
 
-He had not opened the file on Sang-hoon's four decisions since the day in the rain. The man and the building had eaten every hour he had, and it had felt, each time he thought about it, like the smaller of the two obligations. Sitting with a letter that had cost a woman her first coffee of a new job made the size of that excuse plain to him.
+He had not opened the file on Sang-hoon's four decisions since the day in the rain. The man and the building had eaten every hour he had, and since Thursday a third thing has been eating them as well. Each time he thought about the four it had felt like the smallest of the three obligations. Sitting with a letter that had cost a woman her first coffee of a new job made the size of that excuse plain to him.
 
 ---
 
