@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 159.787 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 160.071 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -151,8 +151,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Sunwoo](#mrs-sunwoo)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
-  - [Mr Kwon](#mr-kwon)
   - [Mr Yeo](#mr-yeo)
+  - [Mr Kwon](#mr-kwon)
   - [Mr Ku](#mr-ku)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Yeom](#mr-yeom)
@@ -161,9 +161,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Byun](#mr-byun)
   - [Mrs Ryu](#mrs-ryu)
   - [Shin](#shin)
+  - [Bae](#bae)
   - [Mr Pyo](#mr-pyo)
   - [Mr Baek](#mr-baek)
-  - [Bae](#bae)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
@@ -8205,19 +8205,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
+| Mr Yeo | 30 | 6 (b1ch05-b2ch41) | 5 | 46 |
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
-| Mr Yeo | 29 | 5 (b1ch05-b2ch34) | 6 | 46 |
 | Mr Ku | 28 | 19 (b1ch05-b2ch36) | 3 | 60 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mr Yeom | 25 | 3 (b2ch24-b2ch34) | 26 | 46 |
+| Mr Yeom | 26 | 4 (b2ch24-b2ch41) | 5 | 46 |
 | Choi Dae-ho | 20 | 11 (b1ch07-b2ch44) | 5 | 61 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
+| Bae | 15 | 4 (b1ch03-b2ch41) | 1 | 34 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Mr Baek | 9 | 6 (b1ch05-b2ch42) | 2 | 55 |
-| Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -8847,16 +8847,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:226 | Annie waited, because she has learned that when he agrees that quickly there is a second.. |
 | 3 | b2ch40:242 | Annie looked at him for a moment. |
 | 3 | b2ch40:302 | Annie had not said anything through any of that. |
-| 5 | b2ch41:20 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
-| 5 | b2ch41:24 | He was not going to use it, and the reason had nothing to do with the rule Annie had giv.. |
-| 5 | b2ch41:36 | A house call four years ago, in July, with the travelling costing about three times the .. |
-| 5 | b2ch41:106 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
-| 5 | b2ch41:122 | "Say the rest of what you have on him," said Annie. |
-| 5 | b2ch41:136 | Annie was quiet on the line for a moment. |
-| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:178 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
-| 5 | b2ch41:186 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
-| 5 | b2ch41:194 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
+| 5 | b2ch41:244 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
+| 5 | b2ch41:248 | He was not going to use it, and the reason had nothing to do with any rule Annie had eve.. |
+| 5 | b2ch41:260 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 5 | b2ch41:330 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 5 | b2ch41:346 | "Say the rest of what you have on him," said Annie. |
+| 5 | b2ch41:360 | Annie was quiet on the line for a moment. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:410 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 5 | b2ch41:418 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
 | 2 | b2ch42:102 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 5 | b2ch43:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
 | 5 | b2ch43:166 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
@@ -9039,12 +9039,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:252` (Tag 61) - eight
 - `b2ch39:366` (Tag 61) - seven, six, ten
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:20` (Tag 5) - eight
-- `b2ch41:36` (Tag 5) - four, one, three
-- `b2ch41:156` (Tag 5) - one
-- `b2ch41:178` (Tag 5) - four, two
-- `b2ch41:186` (Tag 5) - one, two
-- `b2ch41:194` (Tag 5) - four, one, two
+- `b2ch41:244` (Tag 5) - eight
+- `b2ch41:260` (Tag 5) - four, one, three
+- `b2ch41:380` (Tag 5) - one
+- `b2ch41:402` (Tag 5) - four, two
+- `b2ch41:410` (Tag 5) - one, two
+- `b2ch41:418` (Tag 5) - five, four, one, two
 - `b2ch42:102` (Tag 2) - eighteen
 - `b2ch43:10` (Tag 5) - three, two
 - `b2ch43:194` (Tag 5) - eighteen, four, one
@@ -9249,8 +9249,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
 | 3 | b2ch40:222 | "I agree with you about the road," he said. "I want that said in front of him and not to.. |
-| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:178 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 2 | b2ch42:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
 | 2 | b2ch42:14 | "I have had a week longer because a registry does not care how impatient either of us is.. |
 | 2 | b2ch42:22 | "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one.. |
@@ -9377,8 +9377,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:252` (Tag 61) - eight
 - `b2ch39:258` (Tag 61) - hundred and forty
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:156` (Tag 5) - one
-- `b2ch41:178` (Tag 5) - four, two
+- `b2ch41:380` (Tag 5) - one
+- `b2ch41:402` (Tag 5) - four, two
 - `b2ch42:6` (Tag 2) - four
 - `b2ch42:22` (Tag 2) - four, one, three
 - `b2ch42:30` (Tag 2) - eleven, one
@@ -10018,7 +10018,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:314 | Nobody answered him for a moment, and it was Jang who took it, because he was the only o.. |
 | 3 | b2ch40:326 | "It is still mine." Jang stood up then. "A man who watches a house for sixteen days and .. |
 | 3 | b2ch40:340 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
-| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
 | 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
@@ -10096,7 +10096,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:314` (Tag 3) - one
 - `b2ch40:326` (Tag 3) - one, sixteen
 - `b2ch40:340` (Tag 3) - one, six
-- `b2ch41:156` (Tag 5) - one
+- `b2ch41:380` (Tag 5) - one
 - `b2ch42:190` (Tag 2) - eleven, one, two
 - `b2ch44:10` (Tag 8) - eleven, sixteen
 - `b2ch44:98` (Tag 8) - one
@@ -10404,7 +10404,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:320 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
-| 5 | b2ch41:54 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
+| 5 | b2ch41:278 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:162 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
 | 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
@@ -10430,7 +10430,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
-- `b2ch41:54` (Tag 5) - forty, one, six
+- `b2ch41:278` (Tag 5) - forty, one, six
 - `b2ch42:162` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
 - `b2ch43:66` (Tag 5) - forty, one
@@ -10761,6 +10761,65 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Yeo
+
+30 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
+| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
+| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
+| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 26 | b2ch24:168 | Mr Yeom laughed at that. |
+| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
+| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
+| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
+| 32 | b2ch25:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
+| 32 | b2ch25:26 | Mr Yeom ate it. |
+| 32 | b2ch25:40 | "You are not eating," said Mr Yeom. |
+| 32 | b2ch25:58 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
+| 32 | b2ch25:70 | Mr Yeom picked his chopsticks back up. |
+| 32 | b2ch25:108 | Mr Yeom stopped with his chopsticks halfway. |
+| 32 | b2ch25:130 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
+| 32 | b2ch25:136 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
+| 32 | b2ch25:150 | Mr Yeom did not say anything at all for about six seconds. |
+| 32 | b2ch25:170 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
+| 32 | b2ch25:182 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
+| 32 | b2ch25:196 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
+| 32 | b2ch25:206 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
+| 32 | b2ch25:214 | Mr Yeom's face changed by about a millimetre. |
+| 32 | b2ch25:236 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
+| 32 | b2ch25:240 | "He said he was glad we had met," said Mr Yeom. |
+| 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
+| 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
+| 46 | b2ch34:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 5 | b2ch41:164 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
+
+### Zahlen in der Naehe von Mr Yeo
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:172` (Tag 6) - twenty-six
+- `b1ch05:178` (Tag 6) - nineteen, two
+- `b1ch12:22` (Tag 23) - twenty
+- `b2ch24:214` (Tag 26) - one, three
+- `b2ch24:258` (Tag 26) - one
+- `b2ch25:58` (Tag 32) - two
+- `b2ch25:130` (Tag 32) - one, ten, twenty-six
+- `b2ch25:136` (Tag 32) - one
+- `b2ch25:150` (Tag 32) - six
+- `b2ch25:170` (Tag 32) - four, one
+- `b2ch25:196` (Tag 32) - two
+- `b2ch25:206` (Tag 32) - four
+- `b2ch25:236` (Tag 32) - twenty
+- `b2ch25:304` (Tag 32) - ten, three
+- `b2ch34:80` (Tag 46) - thirty
+- `b2ch41:164` (Tag 5) - four
+
+---
+
 ### Mr Kwon
 
 29 Nennungen in 5 Kapiteln.
@@ -10815,63 +10874,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch20:36` (Tag 11) - four, seven, twenty, two
 - `b2ch24:80` (Tag 26) - one, sixty-three
 - `b2ch24:82` (Tag 26) - forty
-
----
-
-### Mr Yeo
-
-29 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
-| 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
-| 26 | b2ch24:142 | "You are not going to ask me how I know it was you," said Mr Yeom. |
-| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 26 | b2ch24:168 | Mr Yeom laughed at that. |
-| 26 | b2ch24:204 | "Good," said Mr Yeom, and put the telephone down. |
-| 26 | b2ch24:214 | Mr Yeom knows he was in that building at the beginning of May. There was nobody at the d.. |
-| 26 | b2ch24:258 | He does not know whether Mr Yeom is that man, or one of that man's, or somebody who has .. |
-| 32 | b2ch25:10 | Mr Yeom's table is the fourth from the door on the left and it has a reserved card on it.. |
-| 32 | b2ch25:26 | Mr Yeom ate it. |
-| 32 | b2ch25:40 | "You are not eating," said Mr Yeom. |
-| 32 | b2ch25:58 | "Now," said Mr Yeom. "I sold that house in December to people who had been asking me for.. |
-| 32 | b2ch25:70 | Mr Yeom picked his chopsticks back up. |
-| 32 | b2ch25:108 | Mr Yeom stopped with his chopsticks halfway. |
-| 32 | b2ch25:130 | "He came to me in February of last year," said Mr Yeom. "He was frightened. He said a bu.. |
-| 32 | b2ch25:136 | "That is the whole of why I let it go. A man who tells you a thing you would never have .. |
-| 32 | b2ch25:150 | Mr Yeom did not say anything at all for about six seconds. |
-| 32 | b2ch25:170 | "Somebody asked me for a favour four years ago," said Mr Yeom. "A lot going out with no .. |
-| 32 | b2ch25:182 | "No," said Mr Yeom, and he said it without any embarrassment at all, "and I would like y.. |
-| 32 | b2ch25:196 | "It paid in December," said Mr Yeom. "Somebody had been asking me for that house for two.. |
-| 32 | b2ch25:206 | "I have never known and I have never wanted to, and I have spent four years being extrem.. |
-| 32 | b2ch25:214 | Mr Yeom's face changed by about a millimetre. |
-| 32 | b2ch25:236 | Mr Yeom thought about that properly, which took about twenty seconds, and Georgij let it. |
-| 32 | b2ch25:240 | "He said he was glad we had met," said Mr Yeom. |
-| 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
-| 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
-| 46 | b2ch34:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
-
-### Zahlen in der Naehe von Mr Yeo
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch05:172` (Tag 6) - twenty-six
-- `b1ch05:178` (Tag 6) - nineteen, two
-- `b1ch12:22` (Tag 23) - twenty
-- `b2ch24:214` (Tag 26) - one, three
-- `b2ch24:258` (Tag 26) - one
-- `b2ch25:58` (Tag 32) - two
-- `b2ch25:130` (Tag 32) - one, ten, twenty-six
-- `b2ch25:136` (Tag 32) - one
-- `b2ch25:150` (Tag 32) - six
-- `b2ch25:170` (Tag 32) - four, one
-- `b2ch25:196` (Tag 32) - two
-- `b2ch25:206` (Tag 32) - four
-- `b2ch25:236` (Tag 32) - twenty
-- `b2ch25:304` (Tag 32) - ten, three
-- `b2ch34:80` (Tag 46) - thirty
 
 ---
 
@@ -10986,7 +10988,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Yeom
 
-25 Nennungen in 3 Kapiteln.
+26 Nennungen in 4 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11015,6 +11017,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
 | 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
 | 46 | b2ch34:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
+| 5 | b2ch41:164 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -11030,6 +11033,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:236` (Tag 32) - twenty
 - `b2ch25:304` (Tag 32) - ten, three
 - `b2ch34:80` (Tag 46) - thirty
+- `b2ch41:164` (Tag 5) - four
 
 ---
 
@@ -11054,7 +11058,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
 | 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
-| 5 | b2ch41:32 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
 | 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
 | 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
 | 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
@@ -11234,6 +11238,41 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Bae
+
+15 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
+| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
+| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
+| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
+
+### Zahlen in der Naehe von Bae
+
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b2ch41:66` (Tag 4) - one
+- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
+- `b2ch41:128` (Tag 5) - one
+- `b2ch41:212` (Tag 5) - five, one, six
+- `b2ch41:224` (Tag 5) - five, three, two
+
+---
+
 ### Mr Pyo
 
 11 Nennungen in 8 Kapiteln.
@@ -11290,27 +11329,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch42:54` (Tag 2) - one
 - `b2ch42:62` (Tag 2) - nineteen
 - `b2ch42:170` (Tag 2) - eleven
-
----
-
-### Bae
-
-6 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | b1ch03:168 | Bae's jaw moved. |
-| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-
-### Zahlen in der Naehe von Bae
-
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch05:128` (Tag 4) - one, three, two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 
 ---
 

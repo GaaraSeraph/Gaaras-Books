@@ -1,11 +1,235 @@
-# Chapter 41: The travelling cost more than the seeing
-*Lot Fourteen* · Version 1.1 · EN
+# Chapter 41: The name he books under
+*Lot Fourteen* · Version 2.0 · EN
+
+## Day Two Hundred and Sixty-Two · Monday 22 June
+
+He had written the number down on Friday and he kept to it, and it was harder than he had expected by about the third one.
+
+---
+
+Six kitchens. He had chosen them on Sunday evening from the list of rooms that take a private booking, weighted by how long the same person had been cooking in them. A room that has kept its cook is a room that has kept its memory.
+
+---
+
+He went in through the back of all six, in the middle of the afternoon, in the two hours when a kitchen has nothing to do and talks to whoever is standing in it.
+
+---
+
+He told every one of them the same true thing. That he was looking for a man, that he was asking for himself and not for anybody official, and that he was not going to explain why in their kitchen. Four of the six accepted that without a second thought, which told him something about how often men come to kitchens with worse questions.
+
+---
+
+The first three gave him nothing.
+
+---
+
+One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fitted. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
+
+---
+
+Three hours, three kitchens, three more lines on the second page.
+
+---
+
+The fourth was different, and he knew it in the first minute, because the man stopped what he was doing.
+
+---
+
+"You mean the one who asks about the stock," he said.
+
+---
+
+Georgij put his hands in his coat pockets so that they would have something to do.
+
+---
+
+"Say more."
+
+---
+
+"Older man, very pleasant. He came four or five times over the years, always a private room, always with somebody else, and he always came out to the pass on his way through and asked what was in something." The cook wiped down a board he had already wiped. "Not the way people ask. He listened to the answer. And he used my name afterward, which nobody does, because nobody learns it."
+
+---
+
+"When was the last one."
+
+---
+
+"Two years, near enough. Possibly more." He thought about it. "I could not swear to a month."
+
+---
+
+"Did he book it himself."
+
+---
+
+"He is not the sort of man who is on the door, if that is what you are asking. Somebody books and somebody pays and it is not always the same one, and I am at the other end of the building for both of those." The cook shrugged. "Ask the front. Ask Mrs Bae at the fifth place if you want a woman who has never in her life forgotten a booking."
+
+---
+
+Georgij thanked him, and went out through the back, and stood in the alley for a moment.
+
+---
+
+*Four or five times over the years, in one room, in one part of the city. That is not a man who is careful. That is a man who is careful about the things he has decided are the dangerous ones, and a cook is not on his list.*
+
+* * *
 
 ## Day Two Hundred and Sixty-Three · Tuesday 23 June
 
-He had two days with nothing to do and a rule about what he was allowed to do with them, so he did the part of the doctor that did not require going anywhere at all.
+Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has kept it for twenty-two years, and she keeps the book herself in pencil because a pen cannot be changed cleanly.
 
-It was, he thought later, the first task all month that fit entirely inside the rule instead of testing the edge of it.
+---
+
+She did not like him for the first four minutes and she did not pretend otherwise, which he preferred.
+
+---
+
+"You are asking me about a customer," she said.
+
+---
+
+"I am."
+
+---
+
+"Then you know what I am going to say."
+
+---
+
+"I do, and I am going to ask anyway, and then I am going to accept the answer and go." Georgij stood on the customer side of her desk and did not lean on it. "I am not from a newspaper and not from a ministry and there is nothing official anywhere in this. If you tell me to leave I will leave, and nobody will come after me who is worse than me."
+
+---
+
+Mrs Bae looked at him for a while.
+
+---
+
+"That last part is a strange thing to promise."
+
+---
+
+"It is the only part I can promise, so it is the one I said."
+
+---
+
+She turned the book round on the desk, which is not the same as answering.
+
+---
+
+"Describe him."
+
+---
+
+"Older. Very pleasant. He books a private room, he pays before the meal instead of after, and he pays cash. He eats everything on the plate and he leaves before the coffee." Georgij kept his hands where they were. "And on his way out he stops at the kitchen and asks what went into something, and then he uses the cook's name."
+
+---
+
+Mrs Bae put one finger on the edge of the book and left it there.
+
+---
+
+"He has been coming here for nine years," she said.
+
+---
+
+Georgij did not say anything at all, because there was nothing to say that would not have been in the way.
+
+---
+
+"Twice a year, sometimes three times. Never the same month twice running." She was not looking at him now, she was looking at the desk. "He pays first, in an envelope, and he has never once queried a bill or asked for a receipt, and he tips the room and not the person, which means everybody gets some, which means everybody likes him."
+
+---
+
+"Say the name on the booking."
+
+---
+
+She did not turn a page. She did not need to.
+
+---
+
+"Sim," said Mrs Bae.
+
+---
+
+The front of a restaurant with eleven tables did the ordinary things that a front of a restaurant does, and Georgij stood in the middle of it and did not move for slightly longer than he would have liked.
+
+---
+
+He has had that name since the thirtieth of May.
+
+It was written in a corner box on a florist's carbon copy in Hyoja-dong, in the hand of a man who copied cards into a book because a card is the only part of it anybody keeps. Twelve white stems, no wrap, twice, to an address that was not allowed a room number.
+
+And it is the name of a man who rang Mr Yeom four years ago and told him it was good to see him again. Yeom knows it and will not say it, and has kept it out of a principle that has nothing to do with any of this.
+
+---
+
+"You have gone very quiet," said Mrs Bae.
+
+---
+
+"I have. I am going to tell you why, because you have given me something and walking out with it for nothing would be theft." Georgij put both hands flat on the front of her desk at last. "I already had that name. I have had it for three weeks and I have been treating it as a man who makes telephone calls. You have just told me it is also the name he eats under, in this room, for nine years."
+
+---
+
+"Then it is not his name."
+
+---
+
+"No. A man does not use his own name for nine years in a room where he pays cash in an envelope."
+
+---
+
+Mrs Bae closed the book, unhurried, and put her hand flat on the cover.
+
+---
+
+"I have given you a thing I should not have given you," she said. "I would like to know why I did."
+
+---
+
+"Because I described him to you before I asked, and everything I said was right, and none of it was the sort of thing a man could have got from a list." He said it without any softness in it. "You already knew somebody was going to come and ask about him one day. Most people who keep a book that long do."
+
+---
+
+She did not agree with that out loud.
+
+---
+
+"He is a pleasant man," she said instead. "That is the part nobody is going to believe when this is over. He is genuinely pleasant, and my staff are pleased when the booking comes in, and I do not think he has ever done a single thing in this building that anybody could complain about."
+
+---
+
+"I know," said Georgij. "That is what he is for."
+
+---
+
+He did not go to the sixth kitchen.
+
+---
+
+He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same however he arranged it. He had said six and he had used five, and stopping under a number is not the same as going over one.
+
+---
+
+*Five of six. The sixth is not cancelled, it is unspent, and I am writing that down here so that it does not quietly become a seventh in ten days.*
+
+---
+
+Then the other half, and he made himself write that down as well, in the same hand and on the same page, because a man who only writes down his good afternoons is keeping a different sort of book.
+
+---
+
+*Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three rooms that gave me nothing and were asked anyway.*
+
+*I have asked five kitchens in one trade about a man whose entire method is being liked by kitchens. He will hear it. Not this week and probably not this month, and he will hear it.*
+
+*I knew that on Friday and I went on Monday.*
+
+* * *
+
+He gave the evenings to the doctor, because the part of that man that could be found at all could be found sitting down.
 
 ---
 
@@ -21,7 +245,7 @@ The laptop had been on the desk in the small room since his first week in the ho
 
 ---
 
-He was not going to use it, and the reason had nothing to do with the rule Annie had given him for this week.
+He was not going to use it, and the reason had nothing to do with any rule Annie had ever given him.
 
 ---
 
@@ -79,7 +303,7 @@ Georgij sat with that for a while, at the desk, before he wrote it down.
 
 ---
 
-The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and going anywhere at all was the one thing he had agreed not to do this week.
+The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people’s kitchens.
 
 ---
 
@@ -137,7 +361,7 @@ Annie was quiet on the line for a moment.
 
 ---
 
-"You did all of that from a desk," she said.
+"You did all of that at a desk, in the evenings, after five kitchens," she said.
 
 ---
 
@@ -149,7 +373,7 @@ Annie was quiet on the line for a moment.
 
 ---
 
-"I did all of that from a desk, because you told me the desk was where I was allowed to work this week." He sat with the notebook closed in front of him. "I would like it on the record that I held to it, even when the desk was slower than a doorstep would have been."
+"I did all of that at a desk, and I did not go near the one address you asked me to stay away from." He sat with the notebook closed in front of him. "I would like it on the record that the slow half of this week was the half that produced a name."
 
 ---
 
@@ -191,7 +415,7 @@ Tearing the page out would have said more about the name than keeping it did. He
 
 ---
 
-"Then we will have found, from a desk, in two days, without a single door opened, the one thing that has been standing between a locked building and a name for four years," said Annie. "That is not a small thing to have done with a rule you did not choose."
+"Then we will have found, in two evenings, without one door opened, the thing that has stood between a locked building and a name for four years," said Annie. "And you will have found the other half in five kitchens, which is the loud way, and I am not going to pretend I know yet which of the two we are going to end up paying for."
 
 ---
 
