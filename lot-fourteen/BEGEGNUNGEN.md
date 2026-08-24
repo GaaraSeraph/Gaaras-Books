@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 615 | 66 (b1ch01-b2ch44) | 1 | 74 |
-| Park Sang-hoon | 220 | 37 (b1ch10-b2ch44) | 1 | 74 |
+| Annie | 620 | 67 (b1ch01-b2ch45) | 1 | 74 |
+| Park Sang-hoon | 233 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 127 | 28 (b1ch05-b2ch44) | 2 | 60 |
+| Jang | 128 | 29 (b1ch05-b2ch45) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
-| Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
+| Mrs Seo | 70 | 30 (b1ch03-b2ch45) | 1 | 74 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-615 Nennungen in 66 Kapiteln.
+620 Nennungen in 67 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -677,6 +677,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch44:190 | "That is the part I believe without needing a second document," said Annie. "A rostered .. |
 | 8 | b2ch44:198 | "Or visits often enough that the difference does not matter to a tank." Annie looked at .. |
 | 8 | b2ch44:222 | "Then K waits, and tonight you have S, H, and a gap you can explain instead of only desc.. |
+| 11 | b2ch45:10 | Annie had pointed him at the places that keep no book, and he had taken the direction se.. |
+| 11 | b2ch45:219 | "Say it in the order you got it," said Annie. |
+| 11 | b2ch45:243 | Annie sat down on the edge of the desk with her back half to him and looked at the open .. |
+| 11 | b2ch45:275 | "You have written that sentence twice," said Annie. |
+| 11 | b2ch45:287 | He finished the line. Annie came off the edge of the desk and sat down on the floor at t.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -843,12 +848,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:10` (Tag 5) - three, two
 - `b2ch43:194` (Tag 5) - eighteen, four, one
 - `b2ch43:214` (Tag 5) - four
+- `b2ch45:10` (Tag 11) - one
+- `b2ch45:287` (Tag 11) - two
 
 ---
 
 ## Park Sang-hoon
 
-220 Nennungen in 37 Kapiteln.
+233 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1072,6 +1079,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:218 | He did not take that as a reason to stop. He took it as a description of the work still .. |
 | 8 | b2ch44:6 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
 | 8 | b2ch44:158 | "That the third reading I gave Sang-hoon at the restaurant was closer than the first two.. |
+| 11 | b2ch45:30 | Four entries, one under another, in one hand, one pen, one sitting. He had taken them of.. |
+| 11 | b2ch45:46 | He telephoned Sang-hoon before he had finished thinking it through, because another hour.. |
+| 11 | b2ch45:74 | "Five weeks," said Sang-hoon. "That is not a complaint. That book has been on my own des.. |
+| 11 | b2ch45:82 | "I will send it this afternoon," Sang-hoon said. "You may have the pages those four sit .. |
+| 11 | b2ch45:107 | It was one long book and not a set of year volumes. Georgij had not known that, because .. |
+| 11 | b2ch45:115 | He went backwards first, because the pages carried no year. Sang-hoon wrote a year at th.. |
+| 11 | b2ch45:143 | He telephoned Sang-hoon at half past five, with the book still open and the man in the g.. |
+| 11 | b2ch45:151 | Sang-hoon did not answer for a while. |
+| 11 | b2ch45:179 | "He asked whether I was going to the spring sale on the river." Sang-hoon said it the wa.. |
+| 11 | b2ch45:187 | "You are going to tell me he did not want me in that room," said Sang-hoon. |
+| 11 | b2ch45:199 | "Three weeks later," said Sang-hoon, "I sat down at his table and made the first of the .. |
+| 11 | b2ch45:247 | "That is what you have. Now say what he actually gave away, because you told Park Sang-h.. |
+| 11 | b2ch45:259 | "Yes." She put one hand flat on the page and did not turn it. "A man walks into an offic.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1179,6 +1199,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:218` (Tag 5) - one, three, two
 - `b2ch44:6` (Tag 8) - two
 - `b2ch44:158` (Tag 8) - eleven, four, one, two
+- `b2ch45:30` (Tag 11) - four, one
+- `b2ch45:74` (Tag 11) - eight, five, four, one, two
+- `b2ch45:82` (Tag 11) - four
+- `b2ch45:107` (Tag 11) - one
+- `b2ch45:115` (Tag 11) - eight, one
+- `b2ch45:143` (Tag 11) - five
+- `b2ch45:199` (Tag 11) - three
+- `b2ch45:259` (Tag 11) - one
 
 ---
 
@@ -1663,7 +1691,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-127 Nennungen in 28 Kapiteln.
+128 Nennungen in 29 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1794,6 +1822,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch44:134 | "Because a fixed round tells you nothing about the person receiving it. A round that onl.. |
 | 8 | b2ch44:138 | "Understood," said Georgij, and Jang rang off. |
 | 8 | b2ch44:186 | "Jang thinks the van comes only when it is called for, not on a route," said Georgij. "I.. |
+| 11 | b2ch45:34 | Three days ago he had written down Jang's van and Jang's schedule in the order Jang had .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1854,6 +1883,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch44:126` (Tag 8) - one
 - `b2ch44:134` (Tag 8) - one
 - `b2ch44:186` (Tag 8) - four, one
+- `b2ch45:34` (Tag 11) - one, three
 
 ---
 
@@ -1973,7 +2003,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-69 Nennungen in 29 Kapiteln.
+70 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2046,6 +2076,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 47 | b2ch35:132 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:6 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:20 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
+| 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2087,6 +2118,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:110` (Tag 26) - nine
 - `b2ch24:272` (Tag 26) - nine
 - `b2ch37:6` (Tag 57) - nine, one
+- `b2ch45:215` (Tag 11) - nine
 
 ---
 

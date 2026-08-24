@@ -4,6 +4,65 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 
 ---
 
+## Was zuletzt geschrieben wurde und was als Naechstes kommt
+
+*Vom Schreib-Chat gefuehrt, Stand 25.08. Alles darunter ab "Reihenfolge ab hier"
+ist aelter.*
+
+**Geschrieben: Band 2, Kapitel 45** *The line above it* (v1.0, Tag 279, Do 9. Juli).
+K bekommt ein Datum, und zwar aus dem einzigen Dokument, das Georgij die ganze
+Zeit selbst in der Hand hatte.
+
+- **Die zwei Tage nach Annies Richtung (Golf, Badehaus, Boot) bringen nichts**,
+  und der Grund wird ausgesprochen: um ein Auslaufregister zu lesen, muss man das
+  Boot kennen, und um das Boot zu kennen, den Mann.
+- **Der eigentliche Fund ist ein eigener Fehler.** Georgij hat den Kalender in
+  der ersten Juniwoche abgeschrieben und **vier Zeilen mitgenommen, ohne die
+  Seiten, auf denen sie standen.** Er faellt gegen seinen eigenen Satz aus
+  Kapitel 44 ueber Jangs Reihenfolge.
+- **Sang-hoons Bedingung:** die Seiten, auf denen die vier stehen, nicht das Buch.
+  Nichts erzwingt sie ausser Georgij, und Sang-hoon sagt das ausdruecklich.
+  Georgij legt zwei gefaltete Blaetter als Grenze ein. **Der Rest des Buches
+  bleibt ungelesen und ist damit weiter verfuegbar.**
+- **K ist der 24., 25. oder 26. Februar vor vier Jahren**, festgelegt durch die
+  datierten Eintraege darueber und darunter. **S ist der 20. Maerz.** Zwischen
+  beiden liegen zweiundzwanzig bis vierundzwanzig Tage, nicht drei Jahre.
+- **K war kein Abendessen.** Choi kam in Sang-hoons Buero, zwanzig Minuten, im
+  Mantel, am Ende eines Tages. *"Late"* heisst spaet am Tag und nicht spaet am
+  Abend, und Sang-hoon hat das Wort sechs Wochen lang falsch gelesen.
+- **Was gefragt wurde:** ob er zur Fruehjahrsauktion am Fluss gehe. Er sagte nein.
+  Er war seit Jahren nicht dort und hatte keinen Grund hinzugehen.
+- **Annies Schluss, und er ist der Ertrag des Kapitels: K ist keine Entscheidung,
+  sondern die Messung.** Man fragt einen Mann nach etwas, das ihn nichts kostet,
+  um zu sehen, ob man ueberhaupt eine Antwort bekommt. Die drei anderen kamen
+  danach, weil diese eine gut ausgegangen ist. **Von den vieren ist die kleinste
+  die einzige, in der es je um Sang-hoon selbst ging.**
+
+**Faellig als Naechstes, in dieser Reihenfolge:**
+
+1. **Sang-hoon bekommt Annies Lesart in einem Raum und nicht am Telefon.**
+   Georgij sagt es am Schluss selbst zu: *"I will ask him for an hour this week."*
+   Eine Zusage mit Frist, also eine Schuld wie jede andere hier.
+2. **Jang liest das Firmenschild am 16. Juli** (zehn Tage ab Kapitel 44, von
+   Georgij selbst befristet: *"Ten days is enough. Do not go closer for it before
+   then."*). Danach erst die Gasfirma, und **ueber deren Unterlagen und nicht
+   ueber das Tor** - wer taeglich nach dem Tank sieht.
+3. **K hat ein Datum und weiter keinen Namen.** Der naechste Ansatz ist der
+   Besucher selbst: ein Mann, der in ein Buero kommt, geht an einem Empfang
+   vorbei. Ob Sang-hoons Haus damals ein Besucherbuch gefuehrt hat, ist nicht
+   entschieden und gehoert entschieden, bevor jemand es voraussetzt.
+4. **Der Rest des Kalenders ist ausdruecklich nicht gelesen worden.** Wer ihn
+   spaeter braucht, muss ein zweites Mal fragen, und das kostet dann etwas.
+
+**Frage an den Inhalts-Chat, aus dem Schreiben aufgefallen:** Kapitel 43 (v1.2)
+datiert H auf **Ende August, drei Jahre nach S**, also den August des Vorjahres
+(*"I made a decision at that table last August"*). Kapitel 37 nennt **Y** dagegen
+*"the most recent, eleven months old"*, gerechnet vom 17. Juni, also etwa Juli
+des Vorjahres. **Damit waere H juenger als Y**, und Y ist im Text zweimal als die
+juengste der vier bezeichnet. Kapitel 45 haengt nicht daran - K liegt vor beiden.
+
+---
+
 ## Reihenfolge ab hier
 
 Was als Naechstes drankommt und in welcher Ordnung. Erledigtes wird gestrichen,
