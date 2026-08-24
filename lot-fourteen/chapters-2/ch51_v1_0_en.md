@@ -1,0 +1,331 @@
+# Chapter 51: The sixth one
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred · Thursday 30 July
+
+The second delivery came on the Thursday, at the same hour as the first, to the same gate, and Mrs Seo did not carry it at arm's length this time. She carried it the way a woman carries a thing she has been half expecting for twelve days.
+
+---
+
+Twelve white stems. No wrap.
+
+---
+
+"There is a card," she said.
+
+* * *
+
+It is a plain card, the size the shops keep behind the counter, and it has four lines on it in a hand that has been taught rather than allowed to develop.
+
+---
+
+*Saturday. Eight o'clock.*
+
+Then the name of a restaurant, and a district, and the words *the small room at the back*.
+
+And underneath, on the fourth line:
+
+*I have taken the room for the whole evening, so there is no hurry.*
+
+---
+
+No name. No initial. No question.
+
+---
+
+Georgij read it four times and did not touch anything else on the desk for a while.
+
+* * *
+
+He knew the restaurant before he had finished the second line, and knowing it was the whole of the message and everything else on the card was politeness.
+
+---
+
+There were six kitchens on the list he had made on a Sunday evening in June. He went to five of them. He stopped at five because he had put a number on it in front of Annie and written it down. Stopping under a number is not the same as going over one, and he had written that as well.
+
+---
+
+*Five of six. The sixth is not cancelled, it is unspent.*
+
+---
+
+The card names the sixth.
+
+---
+
+Georgij sat with that for a long time, and he did not enjoy any part of it, and he made himself go through it properly rather than admiring the shape of it.
+
+---
+
+*He knows there were six. He knows which five. He has spoken to enough of them to be able to count. Then he has looked at what is left, worked out which one I was going to walk into next, and taken it for a whole evening.*
+
+*He is not showing me that he is clever. He is showing me that he can count as well as I can, in the same trade, faster, and that he has been doing it for longer.*
+
+* * *
+
+Annie read the card without picking it up, twice, and put one finger on the fourth line.
+
+---
+
+"That is the sentence," she said.
+
+---
+
+"It is."
+
+---
+
+"Say it, because I want to hear whether we have got the same one."
+
+---
+
+"He has taken the room for the whole evening so that there is no hurry." Georgij had his hands on the back of the chair. "There is one reason a man books a room for a whole evening for two people. He does not know how long it is going to take, and he has decided that whatever it takes is what he is going to give it."
+
+---
+
+"That is a man who intends to talk."
+
+---
+
+"That is a man who has already decided to talk and is telling me so on a card, four days after he found out I exist." He did not sit down. "And he is not asking me for anything in exchange, and he has not put his name on it, and he has not said what it is about."
+
+---
+
+Annie stood back from the desk.
+
+---
+
+"Then say the other reading, because there is one and you have had it since ten past nine."
+
+---
+
+"The other reading is that a man who has been useful to somebody dangerous for eleven years has more than one way of solving a problem. A room at the back with no hurry is also a room at the back with no hurry." Georgij said it without any weight on it. "I do not believe it, and I am going to say why, and then I am going to say the part where I could be wrong."
+
+---
+
+"Go on."
+
+---
+
+"He asked Mrs Bae one question, and it was what I looked like. If a man in that position wanted the other thing, he would not need a room, a card, or a date. He would need an address, and he has had this one for twelve days."
+
+---
+
+Annie let that stand.
+
+---
+
+"And the part where you could be wrong."
+
+---
+
+"That I like the shape of it," said Georgij. "It is a beautiful piece of work and I have been admiring it since breakfast, and a man who is admiring a thing is not examining it. You have told me twice this month that I have started deciding what things are before I know."
+
+---
+
+"Three times," said Annie.
+
+---
+
+"Three times."
+
+* * *
+
+She did not tell him not to go, and he had known she would not, and he found that he had been braced for it anyway.
+
+---
+
+"You are going," she said.
+
+---
+
+"I am."
+
+---
+
+"Then here is what I want, and it is not a condition, because I am not going to start pretending I have a way of making you keep one."
+
+---
+
+"Say it."
+
+---
+
+"Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to protect you, because he is a driver and a driver is not that." She had both hands at her sides. "He is there so that at eleven o'clock somebody in the world knows the difference between a conversation that ran long and one that did not end."
+
+---
+
+"Yes, Mistress."
+
+---
+
+"And you take nothing in your pockets that anybody could take out of them." Annie looked at the card. "Not the notebook, not the list, and not that page."
+
+---
+
+Georgij did not answer straight away.
+
+---
+
+"I need the page," he said.
+
+---
+
+"You need what is on the page. There is a difference and you have known it since the day you told me the difference between a struck line and a person."
+
+---
+
+He stood with that for a moment.
+
+---
+
+"A copy," he said. "One copy of the one page, in an envelope, and nothing else in the envelope, and it comes back with me or it stays on that table and I do not mind which."
+
+---
+
+"That is what I meant."
+
+---
+
+"And Baek Jun-ho does not find out that a copy left this house until after Saturday, because if it goes wrong he will hear it from me and not from a man in a restaurant."
+
+---
+
+Annie nodded once, and that was the whole of the negotiation.
+
+* * *
+
+He telephoned Sang-hoon on the Friday morning, because a man who has been told something in a room on Tuesday is owed the sentence that makes it wrong.
+
+---
+
+"You told me not to do it in a restaurant," said Georgij.
+
+---
+
+"I did."
+
+---
+
+"It is a restaurant. I have not chosen it and I am not able to change it, and I would rather you heard that from me on a Friday than worked it out afterward."
+
+---
+
+There was a pause on the line that was not the line.
+
+---
+
+"Say who chose it."
+
+---
+
+"He did. He has taken the room for the whole evening." Georgij stood in the corridor with the receiver against his ear. "It is the sixth of the six kitchens I made a list of in June. I went to five and stopped, and I wrote down that the sixth was unspent, and on Thursday morning a card arrived with the sixth on it."
+
+---
+
+Sang-hoon did not say anything for long enough that Georgij could hear the yard behind him.
+
+---
+
+"Then he has been counting you," he said.
+
+---
+
+"He has been counting me since about the fifteenth, and he has done it out of the same trade I was counting him from, and he was faster." Georgij did not decorate it. "I have had that in front of me since Thursday and I have not found a way to make it smaller."
+
+---
+
+"Do not make it smaller. You are going to need it exactly that size at eight o'clock tomorrow." Something moved on the other end, a chair. "I am going to offer you a thing and you are going to say no to it, and I would like to have offered it anyway."
+
+---
+
+"Offer it."
+
+---
+
+"I can have four men within a hundred metres of that door for the whole of the evening, and not one of them would come in unless the room went quiet."
+
+---
+
+"No," said Georgij.
+
+---
+
+"Say why, properly."
+
+---
+
+"Because he would know inside a minute." He kept his hand where it was. "That man reads rooms for a living and he has read that street before he booked it. If there are four strangers on it who were not there on Wednesday, he sits down at that table already knowing that I brought a crowd to a conversation. Everything I want out of that hour is gone before either of us has spoken."
+
+---
+
+"That is the answer I expected and I still wish it were the other one." Sang-hoon let it sit. "Then I will tell you the useful part instead, and it is not about tomorrow."
+
+---
+
+"Go on."
+
+---
+
+"I have sat opposite that man once, at a table, and I did not know what he was, and I went home pleased." He said it flatly. "You are going to sit opposite him knowing exactly what he is, and you are going to go home in some state I cannot predict, and the difference between those two evenings is that you chose yours."
+
+---
+
+"Yes."
+
+---
+
+"Then whatever happens in that room, it is not the same as what happened in mine, and I would like you to have that in your pocket, since you are not taking anything else."
+
+
+* * *
+
+He spent Friday not preparing, which took more out of him than preparing would have.
+
+---
+
+He had learned that in December, in a car outside a house in Seongbuk, waiting to say four sentences to a man who ran a shipping line. A room where the other person has decided to talk is a room you can lose by arriving with a speech. There is no version of Saturday that goes well if he walks in having rehearsed the middle of it.
+
+---
+
+So he read the page again, twice, and did not write out a single sentence to say about it.
+
+---
+
+On Friday evening he did the one piece of preparation he permitted himself. It was a decision rather than a sentence, and he wrote it down so that it would still be there on Sunday, when he found out whether he had kept it.
+
+---
+
+*I am not going to accuse him of anything.*
+
+*I am not going to tell him what he has done. I am going to put one page on a table and let a man who has been reading paper for thirty years read it, and I am going to say nothing at all until he has finished.*
+
+*Everything I want out of that room depends on him getting there before I do.*
+
+---
+
+He looked at that for a while, because there was a second half and he had been not writing it since Thursday morning.
+
+---
+
+*And he is going to be pleasant to me. He is going to ask me something about myself, and he is going to mean it, and I am going to want to answer him.*
+
+*That is the trap, and it is not one he has set. It is simply what he is.*
+
+* * *
+
+Mrs Seo put the second twelve stems in water beside the first twelve, without being told, on the corner of the desk in the small room.
+
+---
+
+The first lot are twelve days old now and are doing what flowers do at twelve days.
+
+---
+
+She did not throw them out either, and nobody in the house had told her not to, and Georgij noticed that on the Friday night and did not know what to do with it except write it down.
+
+---
+
+*Two dozen white stems on one desk, one lot dying and one lot not yet. A woman who has worked in this house for nine years has decided on her own that neither of them goes in the bin.*
+
+*Everybody in this building has understood what those flowers are. Nobody has said a word about them to me except the two people who had to.*
