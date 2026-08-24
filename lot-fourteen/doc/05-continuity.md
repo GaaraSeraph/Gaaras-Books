@@ -1840,7 +1840,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v2.0) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v2.1) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -2494,6 +2494,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
+- **Band 2, Kapitel 48** *The one who does not leave* (v1.0) - **Tag 290, Mo 20. Juli.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
 ---
 
 ## Der Juli ist betreten
@@ -2584,6 +2588,39 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 2 unter dem Blickwinkel Zuschreibung (25.08.), Anfang
+
+**Der Blickwinkel:** wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Zwei
+Funde des Autors haben ihn ausgeloest, und beide sind von derselben Art.
+
+**Kapitel 38, die Karten.** *"But Yeom sat at that table eleven months ago and
+lost forty thousand won at cards he does not remember agreeing to play."* Das ist
+**Sang-hoon**, wortwoertlich, achtzig Zeilen vorher aus seinem eigenen Mund:
+*"I remember losing forty thousand won at cards I do not remember agreeing to
+play... it was Y who suggested the cards."* Der Absatz hatte damit auch die
+Schlussfolgerung des Kapitels aufgehoben, denn dieselbe Seite haelt fest, dass
+**Y nicht Yeom ist** (*"which was settled at eleven o'clock and holds"*). Yeoms
+eigene Spur ist eine andere und steht in Kapitel 34 im Notizbuch: *"Yeom, four
+years ago, on the telephone: glad we had met."* Der Absatz sagt das jetzt.
+
+**Kapitel 38, das erste Mal.** Annie sagte: *"That is the first time you have
+said you liked somebody in this business since you started it"*, und Georgij gab
+ihr recht. **Beides ist falsch, und der Beleg liegt bei ihr im Haus.**
+
+- **Band 1, Kapitel 27**, an ihrem Schreibtisch, am 9. Dezember, zu **ihr**:
+  *"I am also fond of her, and I am telling you that so that you have it, and it
+  is not the reason."* Ueber Hana.
+- **Band 1, Kapitel 19**, in einem Schuppen in Yeongjong, zu Chairman Woo:
+  *"And because I would like you to win this. That is not a strategy, Chairman.
+  It is just true, and I have had very little use for it."*
+
+Annie zaehlt jetzt richtig (*"That is the second time"*, mit Datum und Ort), und
+Georgij traegt Woo selbst nach und sagt dazu, dass er ihn im Bericht ausgelassen
+hat. **Der Warnsatz der Szene bleibt unveraendert** - Zuneigung spricht niemanden
+frei -, er steht nur nicht mehr auf einer falschen Behauptung.
 
 ---
 

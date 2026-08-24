@@ -1736,6 +1736,15 @@ dem 24.08. offen.
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
 ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
+- **25.08., Inhaltspruefung: Band 2, alle Kapitel, Blickwinkel Zuschreibung.**
+  Wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Ich fasse **nur
+  Stellen an, an denen etwas der falschen Person zugeschrieben ist**, und ich
+  gehe in Bloecken von vier bis sechs Kapiteln mit Push nach jedem Block.
+  Keine Interpunktion, keine Beats, keine neuen Szenen.
+  **Wenn die Stil-Sitzung noch in Band 2, Kapitel 1 bis 34 steht, hat sie
+  Vorfahrt** - ich ueberspringe jedes Kapitel, das dort offen ist, und hole es
+  nach. Band 1 ist frei, dort ist die Inhaltspruefung seit heute fertig.
+
 - **24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.** Erzaehlerformeln, das
   Komma-Mittel, Beats. Nur Interpunktion und Formulierung von Beats, keine
   Handlung und keine Zahlen.
