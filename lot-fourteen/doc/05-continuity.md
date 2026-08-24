@@ -249,6 +249,12 @@ nachrechnen, und `check.py` tut das automatisch.
   Unbewiesen, ein Habitus, zweimal, vier Jahre auseinander. Annie glaubt es
   ohne Beweis und stoppt trotzdem jede Bewegung fuer vier Tage - **niemand geht
   an eine der beiden Adressen, Sang-hoon erfaehrt nichts** (Band 2, Kapitel 34)
+- Tag 245, Fr 5. Juni: **Sang-hoon ruft an, zum ersten Mal in acht Monaten.**
+  Georgij haelt die vier Tage, ohne zu luegen: *"Not entirely mine."* Jang
+  bestaetigt separat, dass die zweite Adresse unberuehrt bleibt, und stellt
+  ihm dieselbe Frage wie Sang-hoon, ohne es zu wissen - **wessen vier Tage
+  sind das.** Annie zeigt am Abend elf von geplanten dreissig Namen (Band 2,
+  Kapitel 35)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1697,6 +1703,20 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Mrs Seo, zweimal in diesem Buch: Kaffee ohne Nachfrage, wenn jemand nicht ins Bett gegangen ist.** *"It is easier to run a house for people who do not tell me things than for people who tell me half of them."* Keine neue Figur, aber die erste eigene Zeile seit langem.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt einen Namen tragen, den sie nie haben wollten:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
+
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.0) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+
+  **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
+
+  **Die Frage, die ihn zwingt, ist die kleinste:** *"Whose four days."* Er antwortet **nicht** mit einer falschen Zuordnung, sondern haelt inne und gibt die einzige wahre Teilantwort, die in der Zeit verfuegbar ist: *"Not entirely mine."*
+
+  **Sang-hoon nennt das den Preis und respektiert ihn trotzdem:** *"That is a very expensive way to talk to a man who has just given you a name for nothing."* Und akzeptiert die Frist: **"Tuesday. Not before."**
+
+  **Der zweite Teil der Szene spiegelt den ersten, ohne dass die Figuren es wissen.** Jang, abgezogen von der zweiten Adresse, stellt Georgij fast wortgleich dieselbe Frage: *"Whether the person you got it from is the sort who wastes four days, or the sort who spends them."* **Georgij antwortet mit einem Urteil, das er sich selbst erst beim Aussprechen bestaetigt:** *"She spends them. I have watched her do it since October."*
+
+  **Annie schliesst die Szene, indem sie die Frage zurueckgibt, statt sie zu beantworten:** *"Ask me something you do not already know the answer to, and I will tell you whether I am wasting anything."* Und zeigt den ersten Ertrag: **elf Namen am Abend des ersten Tages, dreissig bis Sonntag geplant**, keiner der Befragten weiss, dass gefragt wird.
+
+  **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
 ---
 

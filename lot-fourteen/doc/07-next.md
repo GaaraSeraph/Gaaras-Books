@@ -713,6 +713,11 @@ Fassung.**
   in einer Firma, die zur Haelfte Annie gehoert.** Das ist Eindaemmung und
   Risiko in einem, und beide wissen es.
 
+- **SANG-HOON WEISS ES NOCH NICHT UND WARTET BIS DIENSTAG (9. Juni).**
+  Faellig genau an dem Tag: entweder Georgij hat etwas zum Vorlegen, oder er
+  muss Sang-hoon ein zweites Mal auf Zeit vertroesten, und Sang-hoon hat am
+  5. Juni bereits gesagt, dass er das nicht gern zweimal tut.
+
 - **CHOI DAE-HO VERKNUEPFT MIT SIM/DEM VIERTE-ZEILE-FADEN. Unbewiesen, aber
   geglaubt, seit dem 4. Juni.** Georgij hat es Annie noch am selben Morgen
   gesagt, Sang-hoon NICHT. **Faellig am 8. Juni** (vier Tage nach dem 4.):
