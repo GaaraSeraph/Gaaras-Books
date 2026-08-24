@@ -1,0 +1,248 @@
+# Chapter 20: I came back with a favour
+*Lot Fourteen* · Version 1.6 · EN
+
+*Day 49 · Friday 21 November*
+
+He wrote it out that night and slept on it, which he had learned to do at nineteen and had never once regretted.
+
+In the morning it was four pages and he cut it to two.
+
+---
+
+Ji-won brought coffee up to the east room at half past seven and did not ask why he was already at the desk. She put the cup down on the side away from the papers, without being told, which she had not done in October.
+
+"Thank you."
+
+"Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "She said to tell you and not to apologise for it."
+
+"Then I will be finished by nine."
+
+Georgij smiled at her, and meant it, and it got nothing at all and was not meant to.
+
+She went. He looked at the door for a moment and then went back to the second page.
+
+---
+
+Annie read the contract before she said anything at all.
+
+She read it the way she read everything, which was quickly and twice, and she stopped once at the second page and went back up four lines and then went on.
+
+"Seven," she said.
+
+"Seven. He asked for it that way and I did not argue him up."
+
+"You had ten."
+
+"I had ten and I did not need them." Georgij shrugged. "He does not want to tie an estate to something longer than a bank will look at. He said it in about twenty seconds and he had thought about it for years."
+
+"And the rate is his."
+
+"He wrote it in the margin first and then in the box, the way men of that generation do. It is inside."
+
+Annie put the pages down and squared them.
+
+"How far inside."
+
+"Comfortably." He stayed where he was. "Your people will have it before I say it out loud. You should read that number with the throughput beside it and not with me standing here."
+
+---
+
+"His conditions."
+
+"Two, and neither of them is money." He had the list in his head and did not look at the page. "A room with the family in it and somebody who can actually sign. Not the ones who talk, and not the nephew. Before the end of the year."
+
+"Which we do not have."
+
+"Which we do not have yet."
+
+"And the second?"
+
+"No photograph with a politician in it. He has spent his whole life not being in those and he is not starting at seventy-eight." A small pause. "He did not say anything about reporters. I noticed that and I did not point it out."
+
+Annie almost did something with her mouth and then did not.
+
+---
+
+"How did you get in the door."
+
+"I told him his apron is fourteen metres short on the north side."
+
+Annie stopped.
+
+"You told a man you wanted something from that his terminal has a defect in it."
+
+"I told him a true thing about the only object he cares about, and it is in the harbour authority's own drawings, which anybody may read." Georgij did not move. "Mr Hong warned me in October that he would invite me out there and then be offended by anything I said about it. So there was going to be a sentence, and it was going to have to be true."
+
+"And if you had picked the wrong true thing?"
+
+"Then I would have had a cold walk back to the gate and no contract." He said it without any decoration anywhere. "It was not blind. He built that terminal in ten months after nine years of being told it could not be done. A man like that has heard the praise. He has not heard the fourteen metres."
+
+"What did he say."
+
+"That in fifty-one years two people have said it to his face, and that the other one was his wife."
+
+Annie put two fingers on the corner of the contract.
+
+"Do not do that with me," she said.
+
+"No, Mistress."
+
+---
+
+"The twenty per cent," she said.
+
+"He is going to pay it out himself, and he worked that out in the office in about ninety seconds while I sat there. A third of his book under contract for seven years makes the terminal lendable and not merely bankable. He used that word. He can borrow against the contract at an ordinary rate from a house that will put its name at the bottom, and clear the fund in Singapore without ever finding out who was behind it."
+
+"You had seen that on the expressway."
+
+"I had."
+
+"And you let him get there."
+
+"Yes." He did not decorate it. "It was ninety seconds, and there is a difference between a man who is given a good reason and a man who finds one. He is going to be standing next to that family in public for a year. I would rather he did it because of something he worked out."
+
+Annie looked at him for slightly longer than the sentence needed.
+
+She did not say whether that was right.
+
+---
+
+"Then the other thing," said Georgij.
+
+"Go on."
+
+"You told me to take something with me that he had not asked for."
+
+"I did."
+
+"I gave him the account number of the corporate services company in Jung-gu, and three of the four dates from the block bookings." He said it plainly. "After he signed, and not before, so that it did not pay for anything."
+
+Annie's hand stopped on the edge of the desk.
+
+"Which three."
+
+"A Thursday in June, a Wednesday in September, and a Monday in October. Not the fourth."
+
+"Not the fourth."
+
+"No."
+
+The fourth was the fourth of October, and neither of them said so, and neither of them had to.
+
+---
+
+"He recognised the seventeenth of September," said Georgij. "Two men came to that office on that day and asked what he would take for the terminal and would not say who they were asking for. He threw them out in about four minutes, because the second crane was down and he was in a filthy temper, and that is why he remembers the date."
+
+"So the people who wanted his terminal and the car that waits outside buildings are the same account."
+
+"That is as far as it goes. I said so to him in those words. There is no name at the end of it, and I have been at that wall since October."
+
+Annie was quiet for the length of the gardeners arriving.
+
+She had had the name since his first week in the house. She did not offer it, and he did not ask for it, and both of those things had been true for forty-nine days.
+
+---
+
+"Anything else."
+
+"Yes, Mistress." He put both hands behind his back. "And you are not going to like the shape of it, so I would like to say the shape first."
+
+"Say it."
+
+"I am sorry. I could not do what you said. I came back with a favour."
+
+Annie sat back in the chair.
+
+"Go on."
+
+"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered. I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
+
+"And he told you what that is."
+
+"He told me what it makes you."
+
+---
+
+Annie looked up.
+
+"He said a veto over routes decides which box goes on which sailing when a sailing is full, and that on those lanes it is full nine months of the year. He said you never have to refuse anybody and never have to explain why a man's cargo went on Thursday instead of Tuesday." Georgij's eyes went to the second page of the contract and came back. "I said all of that at this table on the thirteenth, with Hana four feet from me, and I said it as a reason to do it."
+
+"You did."
+
+"He said the same thing and then he said what it makes you. I had not put those two next to each other, and I have not been able to stop since Yeongjong."
+
+Annie did not pick anything up and did not put anything down.
+
+"He is in that trade," said Georgij. "He said so. He said he had just signed seven years of it, and that he would like me to notice that he signed it anyway."
+
+---
+
+Annie did not say anything.
+
+She did not agree and she did not correct him. She did not tell him he had been careless, and she did not tell him he had not.
+
+She turned the contract round on the desk so that it faced her again, and looked at the second page for a while, at the four lines she had gone back to the first time.
+
+Georgij stood at the corner of the desk and waited, and found that he did not know a single thing about what was happening in front of him.
+
+He had been in eleven houses and had never once been unable to read a woman across a desk, and the difference now was not that she had become harder to read. It was that he had stopped assuming he could.
+
+---
+
+"And what did you say?"
+
+That was the whole of the question.
+
+"To which part?"
+
+"To the part about my hand and everybody's throat."
+
+Georgij did not answer straight away, because there was exactly one true answer and it was one word.
+
+"I said yes."
+
+Annie nodded once, the way you do when a figure comes out where you expected it to.
+
+Then she went back to the second page.
+
+---
+
+"The Hanseong offer goes out on Monday," she said. "Mr Chae has the structure and he does not have the reason, and he is not going to get it. Build the ceiling with him this afternoon and do not let him admire it."
+
+"Yes, Mistress."
+
+"And the lease is signed. Monday, in front of her, and she did not have to ask me twice." She said it without looking up. "You will want that on your paper somewhere."
+
+"I have it."
+
+"Then find Chairman Woo a house."
+
+---
+
+He went down through the hall at ten past nine with the gardeners already at the east side and the noise coming in through the glass.
+
+A house. Before the end of the year, with a family in it and somebody who could actually sign, and not a hotel, and not his, because he did not have one.
+
+He stood by the stone shelf with the shallow bowl on it and went through everybody he had met since the auction, in the order he had met them, which took about a minute and a half.
+
+There was one house.
+
+It belonged to a woman whose sixteen thousand square metres were charged to two thirds of their value. She had told him to pull the register on herself, in front of her own ally. And she was the only door in this country to a woman who received nobody.
+
+Georgij stood there for slightly longer than a man stands in a hall.
+
+Then he found the second problem, which was worse than the first.
+
+A house is a room with a roof on it. Nobody walks a family under customs investigation into a stranger's house in December because somebody asked them to. A house needs an evening, and an evening needs a reason.
+
+And a reason has to be one that explains itself. He had said so himself over her desk a fortnight ago: a reason that can be wrong is one somebody goes looking behind.
+
+He worked at that for a while, with the gardeners going at the east side, and the answer was so ordinary that he went through it twice looking for what was wrong with it.
+
+People give parties in December.
+
+One corner of his mouth went up, at nobody, in an empty hall. It was the first thing his face had done all morning that he had not decided on. Nobody in the house could see it, and that was the only reason it was allowed to happen.
+
+---
+
+Then he went back up to the east room and picked up the telephone, which was hers, in a house that was hers, to arrange an evening in somebody else's.

@@ -1,0 +1,338 @@
+# Chapter 23: Nobody weighs a door handle
+*Lot Fourteen* · Version 3.7 · EN
+
+*Day 55 · Thursday 27 November*
+
+He walked for about an hour and did not choose a direction until the ground gave him one, which it does in that city, because everything runs downhill to the same water.
+
+Then there was the river, and a footway along it, and further along the footway a bridge with a walkway on both sides of it.
+
+He went up onto it because it was the only thing in front of him that was not more river.
+
+---
+
+It was a Thursday evening and the city was going home, and he went down through it against most of the direction of it, past lit windows and the queues outside the places worth queueing for.
+
+His hands had stopped about twenty minutes after it happened. They started again somewhere around the second junction, for no reason and with nothing to do with the cold, and went on for a while and then stopped again.
+
+He noted it the way he noted everything, and filed it, and had nowhere to file it to.
+
+---
+
+He tried three times to do the work.
+
+There was a call to make to a man of seventy-eight about half an hour on the sixteenth of December. There was a terrace to have a heater lit on. There was a question about whether a man who has watched a woman answer a price with a switch will pay more attention afterwards or less.
+
+That last one was the whole of tomorrow and he could not get near it.
+
+He got as far as *Sang-hoon saw it* four separate times and stopped there four separate times, and the fourth time he understood that he was not failing to solve it. He did not want to.
+
+At a door in Yeouido on the eighteenth, a man had looked at him for slightly too long. Then he had said he was either exactly what he looked like, or the best-made thing anybody had ever put in front of him.
+
+It was a compliment with a hook in it, and he had enjoyed both halves.
+
+Tonight the man had got his answer, in under a second, for nothing, and had not enjoyed any part of it. Georgij had watched him not enjoy it. That was somehow the worst of it and he could not have explained why to anybody.
+
+---
+
+He had no money.
+
+Not a small amount, not an awkward amount. He could not buy a bus. He could not buy a coffee to sit down with, or a bed, or a telephone call, and there was nobody in this country to make one to.
+
+He had come out of that house with a lighter and another man's cigarettes. He would be back inside it before midnight, because there was no other outcome available anywhere, and there never had been.
+
+He had known that on the lawn. He had gone over the wall anyway.
+
+A man who demonstrates that he can leave, and cannot, has demonstrated one thing only, and it is not the thing he meant.
+
+---
+
+Nobody in four kilometres knew there was surgical steel under his collar. Nobody was looking for him either, and neither of those had been true at any point in seventeen years.
+
+He had expected that to feel like something.
+
+It was quiet, and it was a good deal quieter than he liked.
+
+---
+
+Halfway across he stopped and put his forearms on the rail.
+
+The water underneath was black and moving fast and made no sound that reached him over the traffic. There were lights on the south side in a long unbroken row and more of them on the water, upside down and coming apart.
+
+It was very cold and he did not do anything about that either.
+
+He had a lighter in one pocket and another man's cigarettes in the other, and a dead cigarette end he had carried out of the garden so that a gardener would not have to pick it up.
+
+That was the whole of it, and it had been the whole of it for seventeen years, and tonight was the first night the arithmetic had come anywhere near him.
+
+---
+
+He smoked two more and put both ends in his pocket with the first one.
+
+At some point he noticed there was writing on the rail.
+
+It was in Korean, low down and set into the metal, and it was not advertising and it was not a warning.
+
+*Have you eaten?*
+
+*How have you been?*
+
+*The best is still coming.*
+
+He took his forearms off the rail and stood back from it.
+
+Eleven houses, four languages, and he had put himself on that bridge like a tourist.
+
+---
+
+Jang got there six minutes later.
+
+He came up the walkway at a pace he would have been embarrassed to have described, and stopped four metres short, which is exactly where you stop.
+
+"Mr Jang."
+
+"Yes."
+
+"I know what this bridge is. I found out about ninety seconds ago." Georgij turned round so the man could see his face while he said it. "I am not going to do anything. You can stand there as long as you need to."
+
+Jang stood there.
+
+---
+
+After a while he came the four metres and put both hands on the rail.
+
+"There is a shop at the end. It is open."
+
+"I have nothing to pay with."
+
+"I know what you have," said Jang. "I read the file before I took the job."
+
+---
+
+He came back with a bottle and two paper cups.
+
+They drank the first one leaning on the rail with their backs to the traffic, and did not say anything at all, and it was not uncomfortable.
+
+Then Georgij took the bottle and poured the second cup for Jang, with both hands, the way you do it for a man older than you or above you.
+
+Jang looked at the cup and then at the man holding the bottle.
+
+"You should not do that."
+
+"No."
+
+Jang drank it.
+
+---
+
+"I telephoned the house from the shop," he said. "Before I bought this."
+
+"I would have thought less of you."
+
+"She was already in the car." Jang put his cup down on the rail. "Since about ten past nine. She did not ask me where you were."
+
+Georgij turned his head.
+
+"The east lawn."
+
+"I did not say that."
+
+"No," said Georgij. "You did not."
+
+---
+
+Jang refilled his own cup and did not offer the bottle.
+
+"The corner by the garages," he said, to the water. "Eleven seconds at the top of every minute, and the hedge covers the last four metres of it."
+
+"I know about the garages."
+
+"Everybody who has ever walked that fence in daylight knows about the garages." Jang drank half the cup. "I wrote it up in my first week. Two paragraphs, a drawing, and a price. It is a camera and a bracket and a man for one afternoon."
+
+"And."
+
+"She read it and said no."
+
+---
+
+Georgij turned his head.
+
+"I put it in again in my third week, because you do, and she said no again and did not give me a reason either time." Jang was still looking at the water. "It is the only recommendation of mine she has ever refused. I have spent two months deciding whether she is careless, and she is not careless."
+
+He finished the cup.
+
+"So there has been a way out of that property since before you arrived, and it is the one no lens covers, and it is still open tonight."
+
+"Yes."
+
+"And you went over the east lawn instead," said Jang, "in front of the one camera in that house that nobody looks at except her."
+
+---
+
+Neither of them said anything for a moment.
+
+"I am not going to ask you why," said Jang. "I would like to be clear that I know it was not because you did not know about the corner."
+
+"No."
+
+"Right." He put the cup down on the rail. "Nineteen years, and I have seen four men go over a wall. Three took the dark way. The fourth was a boy in Ulsan who wanted his mother to see him do it, and he stood under the light until she came out."
+
+---
+
+The car came onto the bridge from the far side and stopped where cars do not stop.
+
+Jang picked up the bottle and put his cup in his pocket.
+
+"Mr Jang."
+
+"Chairman Woo drinks this," said Jang, from four metres away. "Badly."
+
+Then he went.
+
+---
+
+The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and nothing about either of them was going to move for as long as it took.
+
+---
+
+She came along the walkway on her own.
+
+She was in the coat she had been wearing at four o'clock and had not changed anything else either. She did not stop opposite him and she did not stand in front of him.
+
+She turned round and put her forearms on the rail next to his, facing the same way, a hand's width apart.
+
+Then she sat down on the concrete with her back against the rail.
+
+There was no version of that woman anywhere in this country that sat down on anything.
+
+After a moment Georgij sat down beside her.
+
+---
+
+The traffic went over the joint in the roadway above them, one axle at a time.
+
+"Say why you did it," said Georgij.
+
+"You have worked it out."
+
+"I have four versions and I would rather have the one that is true."
+
+---
+
+Annie took her time with it.
+
+"You know what I am doing to the Kim family. You know what is in nineteen pages and whose desk they are on. You know about Incheon, and about Hana's charges, and about a fund in Hong Kong that I have never once said out loud in front of you." She was looking at the water and not at him. "Every person who has ever known a quarter of that had a place where they gave way. I knew where it was before I told them anything, and I have never in my life told anybody anything without knowing that first."
+
+"And you cannot find mine."
+
+"I have been looking since the fourth of October."
+
+---
+
+"So you looked for it in front of a witness."
+
+"I did not decide to do it," said Annie. "That is the part I would change."
+
+Georgij did not tell her that it was enough.
+
+"Then answer the other question."
+
+"Which one."
+
+"Did I break?"
+
+---
+
+Annie did not answer straight away, and when she did she said it flatly, like a figure being read off a page.
+
+"No."
+
+"You are sure."
+
+"You went over a wall in front of the one lens that reports to me. You walked an hour. You let a man from my own house buy you a drink." She turned her head for the first time. "And you are sitting on this bridge waiting to be collected. A man who has broken does none of those, and he certainly does not do them in that order."
+
+"Then you have your answer."
+
+"I have half of it," said Annie. "A man who does not break is a man nobody can hold. I found that out tonight, it cost me a great deal, and I did not enjoy one second of it."
+
+---
+
+"Haven't you been holding me just fine?"
+
+It came out of him with nothing in front of it, in the accent of a man who had not chosen the words, which had happened to him twice in seventeen years and both times in this country.
+
+"Fifty-five days. Every room I have walked into, every name I have found, every hour I have been awake." His voice came up for the first time since the fourth of October, not far, and enough. "You have had all of it and it has cost you a signature in October and nothing since. So why did you go and try to waste it?"
+
+Annie did not answer.
+
+---
+
+"I don't feel like calling you Mistress right now."
+
+Something went across her face and was gone.
+
+"My mistress is ruthless and beautiful and intelligent as hell," said Georgij, "and she has been all three of those every day since the fourth of October, and I have not had one hour of regret about who owns me. That is not a compliment. It is the reason I am still in the country."
+
+He looked straight at her, which he almost never did.
+
+"Tonight she was two of them."
+
+Annie did not ask which.
+
+---
+
+There had been a word in the middle of that with no business in a list about competence.
+
+He heard it about a second after it was gone, the way he had heard the other one go on a floor at the Grand Hotel, and there was nothing to be done with either of them. Annie had gone very slightly still at it and had come back, and he could not have said what the stillness was, and he had stopped being able to say what any of this was some hours ago.
+
+---
+
+The traffic went over the joint above them four or five times.
+
+"So. Annie." He let the name sit there, on a bridge, at half past ten at night, for the first time since she had told him he could use it in public. "Why in God's name did you do it?"
+
+---
+
+She did not answer straight away, and he filled it, which he had not done in a room since he was very much younger.
+
+"I have had four hours with that and I have got one sentence out of it," he said. "A man weighs the things he thinks are close to him. Nobody weighs a door handle."
+
+---
+
+Annie put her head back against the rail and looked at the underside of the roadway.
+
+"You think I did not weigh you," she said.
+
+"You told me you did not."
+
+"I told you I did not weigh it. The thing. The four seconds." She was still looking up. "I have known the price of everything in front of me since I was nineteen years old. It is the only thing about me that has never once been wrong."
+
+She brought her head forward again.
+
+"He asked what you would cost, and for about one second I did not know the answer."
+
+---
+
+Georgij did not say anything at all.
+
+"Not the number. I could have said a number and he would have believed it and we would have gone on to something else." Her hands were flat on her knees. "I did not know whether there was one. I went through a man who has been mine for eight weeks and could not find a price on him, and my hand was in my pocket before I got to the end of it."
+
+"That is not looking for where I break."
+
+"No," said Annie. "That is what I told myself in the four hours afterwards, and it is a better sentence, and I have been saying it to you for twenty minutes."
+
+---
+
+He sat with that.
+
+He had built that sentence out of the only evidence he had, and had been rather pleased with it on the way up the walkway, and it had been the wrong way round from top to bottom.
+
+Twice in one night, with the same woman, on facts he was holding.
+
+"Then I had it backwards."
+
+"Yes."
+
+"I have had it backwards twice tonight."
+
+"I know," said Annie. "I was there for the other one."
