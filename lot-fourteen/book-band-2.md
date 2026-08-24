@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 110.186 Woerter.
+Book Two, 46 Kapitel, 111.521 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -52,7 +52,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 39 | v2.0 | 2.942 |
 | 40 | v2.0 | 2.769 |
 | 41 | v2.0 | 3.904 |
-| 42 | v1.1 | 2.025 |
+| 42 | v2.0 | 3.360 |
 | 43 | v1.2 | 2.017 |
 | 44 | v1.2 | 2.006 |
 | 45 | v1.0 | 2.163 |
@@ -8765,12 +8765,124 @@ He wrote one more line before he put the notebook away for the night.
 
 ---
 
-# Book Two · Chapter 42: Four owners deep
-*Lot Fourteen* · Version 1.1 · EN
+# Book Two · Chapter 42: The evenings he lost nothing at
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
 Sang-hoon had chosen a table this time instead of a room, which meant he had decided the conversation could survive being overheard by people who were not listening for it. It was the kind of place where four other conversations were happening at once, and none of them mattered enough to anybody nearby to be worth catching.
+
+Georgij had decided on the walk from the car that he was going to go first, which is not the order either of them is used to.
+
+"Before you open that," he said, "I have something, and I want it on the table before yours. After yours it looks like a trade, and it is not one."
+
+Sang-hoon left his hand flat on the folder.
+
+"Go on."
+
+"The man who sat opposite you last August. The one who ate."
+
+The hand came off the folder.
+
+"You have a name."
+
+"I have a name he books under, which is not the same thing, and I am going to be exact about the difference." Georgij did not lower his voice, because lowering it in that room would have been the only thing anybody noticed. "He has been eating in a room near Sinsa for nine years. Twice a year, three times in a good year, never the same month twice running. He books it himself, he pays before the meal, in cash, in an envelope, and he has never once asked for a receipt."
+
+"That is a description and not a name."
+
+"The name on the booking is Sim."
+
+Sang-hoon turned his glass a quarter turn and left it there.
+
+"I have never heard that name in my life," he said.
+
+"No. You would not have." Georgij kept his hands where they were. "He does not use it in front of the people he is working on. He uses it with the people who bring the plates. He learns their names and he tips the room instead of the person, so that everybody gets a share, so that everybody likes him. He has done that for nine years in one building and I found it in two afternoons because nobody in this country has ever thought to ask a kitchen anything."
+
+Sang-hoon sat with that.
+
+"Say what you want for it."
+
+"Nothing. I said it was not a trade and I meant the whole sentence." Georgij put one finger on the cloth and took it away again. "What I want is two things you are not going to like, and neither of them is payment. They are conditions, and if you cannot hold to them, tell me now in this room instead of finding it out about yourself in three weeks."
+
+"Say them."
+
+"You do not use it. Not to look it up. Not to mention it to a man in a bar to see what his face does. Not to have somebody in your own building quietly check whether anybody called Sim has ever signed a lease."
+
+"And the second."
+
+"If you ever hear that name from anybody who is not me, you tell me the same day." He held the older man's eye. "Not at the next lunch. The same day."
+
+Sang-hoon did not answer straight away, and Georgij let him have the time, because a man who is being asked to sit on something is entitled to a moment of resenting it.
+
+"You are asking a man who runs eleven thousand people to hold a name in his mouth and do nothing at all with it," said Sang-hoon.
+
+"Yes."
+
+"I am going to do it." He said it flatly. "And I want you to understand that I am not doing it because you asked well. I have already found out this year what it costs to decide something at a table without knowing who else is at it. I am not going to make the same mistake standing up that I made sitting down."
+
+"Then there is one more thing, and it is a question, and it is not the one you think."
+
+"Ask it."
+
+"I am not going to ask whether you remember him." Georgij said it evenly. "You have already told me you cannot describe him, and I believe you, and asking twice would be an insult dressed as thoroughness."
+
+Sang-hoon almost smiled at that and did not quite.
+
+"Then what."
+
+"How many times have you eaten at a table with that man."
+
+"Four," said Sang-hoon.
+
+He stopped.
+
+Georgij did not help him, because it was not a thing that could be helped and because a man is entitled to arrive at it in his own time.
+
+"That is not the answer," said Sang-hoon.
+
+"No."
+
+"Four is the number of times I lost something." He put both hands on the table, either side of the folder he had not opened. "I have been counting the evenings I could not account for afterward, because those are the ones that hurt. I have never once counted the evenings where I went home with everything I arrived with."
+
+"Your four are not the map of where he has been," said Georgij. "They are the map of where he was successful. There is no reason on earth those two things should be the same size."
+
+Sang-hoon looked past him at nothing for a while.
+
+"There was an evening," he said, "and I have not thought about it in six years, because nothing happened to me at it."
+
+"Take your time with it."
+
+"There was a man called Im at that table. I have known him since we were both nobody. He agreed to something over the dessert, and it was a bad idea, and I remember thinking so, and I remember deciding it was not my business because he had not asked me." He said all of it in the same voice, which is how a man says a thing he has been carrying without knowing it was heavy. "His firm was gone inside two years and I put it down to him. I have put it down to him for six years."
+
+"Was the pleasant one at that table."
+
+"He was at that table," said Sang-hoon. "He ate, and he complimented something, and he left before the coffee, and I have never once put those three facts in a row until this minute."
+
+Neither of them said anything for a moment.
+
+Georgij had the folded sheet in his inside pocket, where it has been since Tuesday of the week before, with thirty-one names on it in Annie's hand and the years against them.
+
+He did not take it out, because taking it out would have made it a document, and the man across the table would have started reading it instead of remembering.
+
+He did not need to take it out.
+
+Im is on it.
+
+"You have gone somewhere," said Sang-hoon.
+
+"I have. The name you just said is on a list that a woman built in nine days, out of a diary and a great deal of asking. Until about forty seconds ago it was a column of people I had never met." Georgij let that be exactly as long as it was. "You have just turned one of them into an evening with a dessert in it."
+
+"There are others."
+
+"There are thirty. And I am not going to read them to you, because if I do you will start remembering the ones you want to be innocent and you will be very convincing about it, including to yourself." He put his hand flat. "I will bring you one at a time, when I have a reason, and you will tell me whether he was in the room."
+
+Sang-hoon took that better than Georgij had expected, and worse than he let it show.
+
+"You are managing me."
+
+"Yes," said Georgij. "I am telling you that I am doing it while I do it, which is the most I have ever been able to offer anybody, and it is more than that man has ever offered you."
+
+* * *
 
 "You have had a week longer than you asked me for," said Georgij, and did not make it sound like a complaint.
 

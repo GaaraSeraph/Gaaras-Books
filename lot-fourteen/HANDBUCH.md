@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 161.022 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 161.265 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8296,8 +8296,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 643 | 68 (b1ch01-b2ch46) | 1 | 74 |
-| Park Sang-hoon | 234 | 38 (b1ch10-b2ch45) | 1 | 74 |
+| Annie | 644 | 68 (b1ch01-b2ch46) | 1 | 74 |
+| Park Sang-hoon | 246 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 138 | 30 (b1ch05-b2ch46) | 2 | 60 |
@@ -8336,7 +8336,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-643 Nennungen in 68 Kapiteln.
+644 Nennungen in 68 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8961,7 +8961,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 5 | b2ch41:410 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
 | 5 | b2ch41:418 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
-| 2 | b2ch42:102 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
+| 2 | b2ch42:186 | Georgij had the folded sheet in his inside pocket, where it has been since Tuesday of th.. |
+| 2 | b2ch42:316 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 5 | b2ch43:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
 | 5 | b2ch43:166 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
 | 5 | b2ch43:178 | "Then stop looking at tables." Annie set her pen down. "A man who wants no record does n.. |
@@ -9149,7 +9150,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch41:402` (Tag 5) - four, two
 - `b2ch41:410` (Tag 5) - one, two
 - `b2ch41:418` (Tag 5) - five, four, one, two
-- `b2ch42:102` (Tag 2) - eighteen
+- `b2ch42:186` (Tag 2) - thirty-one
+- `b2ch42:316` (Tag 2) - eighteen
 - `b2ch43:10` (Tag 5) - three, two
 - `b2ch43:194` (Tag 5) - eighteen, four, one
 - `b2ch43:214` (Tag 5) - four
@@ -9162,7 +9164,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-234 Nennungen in 38 Kapiteln.
+246 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9356,25 +9358,37 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 2 | b2ch42:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
-| 2 | b2ch42:14 | "I have had a week longer because a registry does not care how impatient either of us is.. |
-| 2 | b2ch42:22 | "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one.. |
-| 2 | b2ch42:30 | "The fourth is a trust, and a trust is not required to say who benefits from it, which i.. |
-| 2 | b2ch42:42 | "The trust was formed in October, eleven years ago," said Sang-hoon. "I do not know what.. |
-| 2 | b2ch42:46 | Georgij did not answer that directly, and Sang-hoon did not press him on it, which was i.. |
-| 2 | b2ch42:54 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 2 | b2ch42:62 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 2 | b2ch42:78 | "Sixty-three, according to the bar association's own photograph, which is eleven years o.. |
-| 2 | b2ch42:86 | "Because a man who does this for money can be bought back out of it," said Sang-hoon. "A.. |
-| 2 | b2ch42:106 | Sang-hoon looked at him for a long moment before he answered. |
-| 2 | b2ch42:118 | "Same trust," said Sang-hoon. "Same solicitor. The lapsed clinic's lease, four years ago.. |
-| 2 | b2ch42:126 | "Or one reason that started eleven years ago and needed a doctor four years into it," sa.. |
-| 2 | b2ch42:146 | Sang-hoon did not say anything for a moment, and the silence went on long enough that Ge.. |
-| 2 | b2ch42:174 | "It is also the only version of this where nobody finds out we asked." Sang-hoon finally.. |
-| 2 | b2ch42:186 | "No," said Sang-hoon. "This is the part he thought was far enough from Singapore that no.. |
-| 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
-| 2 | b2ch42:198 | "Then say which one you are actually able to answer today." Sang-hoon set his cup down. .. |
-| 2 | b2ch42:210 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
-| 2 | b2ch42:228 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
+| 2 | b2ch42:18 | Sang-hoon left his hand flat on the folder. |
+| 2 | b2ch42:50 | Sang-hoon turned his glass a quarter turn and left it there. |
+| 2 | b2ch42:62 | Sang-hoon sat with that. |
+| 2 | b2ch42:90 | Sang-hoon did not answer straight away, and Georgij let him have the time, because a man.. |
+| 2 | b2ch42:94 | "You are asking a man who runs eleven thousand people to hold a name in his mouth and do.. |
+| 2 | b2ch42:118 | Sang-hoon almost smiled at that and did not quite. |
+| 2 | b2ch42:130 | "Four," said Sang-hoon. |
+| 2 | b2ch42:142 | "That is not the answer," said Sang-hoon. |
+| 2 | b2ch42:158 | Sang-hoon looked past him at nothing for a while. |
+| 2 | b2ch42:178 | "He was at that table," said Sang-hoon. "He ate, and he complimented something, and he l.. |
+| 2 | b2ch42:196 | "You have gone somewhere," said Sang-hoon. |
+| 2 | b2ch42:212 | Sang-hoon took that better than Georgij had expected, and worse than he let it show. |
+| 2 | b2ch42:228 | "I have had a week longer because a registry does not care how impatient either of us is.. |
+| 2 | b2ch42:236 | "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one.. |
+| 2 | b2ch42:244 | "The fourth is a trust, and a trust is not required to say who benefits from it, which i.. |
+| 2 | b2ch42:256 | "The trust was formed in October, eleven years ago," said Sang-hoon. "I do not know what.. |
+| 2 | b2ch42:260 | Georgij did not answer that directly, and Sang-hoon did not press him on it, which was i.. |
+| 2 | b2ch42:268 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 2 | b2ch42:276 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 2 | b2ch42:292 | "Sixty-three, according to the bar association's own photograph, which is eleven years o.. |
+| 2 | b2ch42:300 | "Because a man who does this for money can be bought back out of it," said Sang-hoon. "A.. |
+| 2 | b2ch42:320 | Sang-hoon looked at him for a long moment before he answered. |
+| 2 | b2ch42:332 | "Same trust," said Sang-hoon. "Same solicitor. The lapsed clinic's lease, four years ago.. |
+| 2 | b2ch42:340 | "Or one reason that started eleven years ago and needed a doctor four years into it," sa.. |
+| 2 | b2ch42:360 | Sang-hoon did not say anything for a moment, and the silence went on long enough that Ge.. |
+| 2 | b2ch42:388 | "It is also the only version of this where nobody finds out we asked." Sang-hoon finally.. |
+| 2 | b2ch42:400 | "No," said Sang-hoon. "This is the part he thought was far enough from Singapore that no.. |
+| 2 | b2ch42:404 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
+| 2 | b2ch42:412 | "Then say which one you are actually able to answer today." Sang-hoon set his cup down. .. |
+| 2 | b2ch42:424 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
+| 2 | b2ch42:442 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
 | 5 | b2ch43:6 | He had promised Sang-hoon an answer at the end of May, and it was July before he had one.. |
 | 5 | b2ch43:50 | Four years ago in March. Three years after that in August. Two tables, two hours, and be.. |
 | 5 | b2ch43:74 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
@@ -9484,19 +9498,22 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch41:380` (Tag 5) - one
 - `b2ch41:402` (Tag 5) - four, two
 - `b2ch42:6` (Tag 2) - four
-- `b2ch42:22` (Tag 2) - four, one, three
-- `b2ch42:30` (Tag 2) - eleven, one
-- `b2ch42:42` (Tag 2) - eleven
-- `b2ch42:54` (Tag 2) - one
-- `b2ch42:62` (Tag 2) - nineteen
-- `b2ch42:78` (Tag 2) - eleven, one, sixty-three
-- `b2ch42:118` (Tag 2) - four, one
-- `b2ch42:126` (Tag 2) - eleven, four, one, two
-- `b2ch42:186` (Tag 2) - two
-- `b2ch42:190` (Tag 2) - eleven, one, two
-- `b2ch42:198` (Tag 2) - one
-- `b2ch42:210` (Tag 2) - one
-- `b2ch42:228` (Tag 2) - one
+- `b2ch42:94` (Tag 2) - eleven thousand
+- `b2ch42:130` (Tag 2) - four
+- `b2ch42:178` (Tag 2) - three
+- `b2ch42:236` (Tag 2) - four, one, three
+- `b2ch42:244` (Tag 2) - eleven, one
+- `b2ch42:256` (Tag 2) - eleven
+- `b2ch42:268` (Tag 2) - one
+- `b2ch42:276` (Tag 2) - nineteen
+- `b2ch42:292` (Tag 2) - eleven, one, sixty-three
+- `b2ch42:332` (Tag 2) - four, one
+- `b2ch42:340` (Tag 2) - eleven, four, one, two
+- `b2ch42:400` (Tag 2) - two
+- `b2ch42:404` (Tag 2) - eleven, one, two
+- `b2ch42:412` (Tag 2) - one
+- `b2ch42:424` (Tag 2) - one
+- `b2ch42:442` (Tag 2) - one
 - `b2ch43:6` (Tag 5) - one
 - `b2ch43:50` (Tag 5) - four, three, two
 - `b2ch43:74` (Tag 5) - nine
@@ -10123,7 +10140,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:326 | "It is still mine." Jang stood up then. "A man who watches a house for sixteen days and .. |
 | 3 | b2ch40:340 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
 | 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
+| 2 | b2ch42:404 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
 | 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 8 | b2ch44:54 | He telephoned Jang before he wrote anything more permanent than that. |
@@ -10201,7 +10218,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:326` (Tag 3) - one, sixteen
 - `b2ch40:340` (Tag 3) - one, six
 - `b2ch41:380` (Tag 5) - one
-- `b2ch42:190` (Tag 2) - eleven, one, two
+- `b2ch42:404` (Tag 2) - eleven, one, two
 - `b2ch44:10` (Tag 8) - eleven, sixteen
 - `b2ch44:98` (Tag 8) - one
 - `b2ch44:126` (Tag 8) - one
@@ -10509,7 +10526,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:320 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
 | 5 | b2ch41:278 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
-| 2 | b2ch42:162 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
+| 2 | b2ch42:376 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
 | 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
 | 8 | b2ch44:46 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
@@ -10535,7 +10552,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 - `b2ch41:278` (Tag 5) - forty, one, six
-- `b2ch42:162` (Tag 2) - one, twenty-three
+- `b2ch42:376` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
 - `b2ch43:66` (Tag 5) - forty, one
 - `b2ch44:46` (Tag 8) - one
@@ -11420,9 +11437,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
 | 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 2 | b2ch42:54 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 2 | b2ch42:62 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 2 | b2ch42:170 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+| 2 | b2ch42:268 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 2 | b2ch42:276 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 2 | b2ch42:384 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
 
 ### Zahlen in der Naehe von Mr Baek
 
@@ -11430,9 +11447,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch24:44` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 51) - four, six
-- `b2ch42:54` (Tag 2) - one
-- `b2ch42:62` (Tag 2) - nineteen
-- `b2ch42:170` (Tag 2) - eleven
+- `b2ch42:268` (Tag 2) - one
+- `b2ch42:276` (Tag 2) - nineteen
+- `b2ch42:384` (Tag 2) - eleven
 
 ---
 
