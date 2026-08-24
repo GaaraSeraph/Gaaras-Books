@@ -30,7 +30,7 @@ python3 build.py
 ```
 
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
-Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book.md`,
+Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
 auseinanderlaufen.
 
@@ -77,7 +77,8 @@ die Kapitelpruefung warnt nur.
 | Oben | Was |
 |---|---|
 | `CLAUDE.md` | Diese Datei. Die einzige oben, die von Hand bearbeitet wird |
-| `book.md` | Lesefassung der Geschichte. **Erzeugt** |
+| `book-band-1.md` | Lesefassung von Band 1 am Stueck. **Erzeugt** |
+| `book-band-2.md` | Lesefassung von Band 2 am Stueck. **Erzeugt** |
 | `HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
 | `BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
 | `MANIFEST.txt` | Baubericht. **Erzeugt** |

@@ -1938,7 +1938,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
 | 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
 | 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I have been aw.. |
 | 15 | b2ch21:122 | Mr Hwang did not answer. |
 | 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
 | 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
@@ -2758,7 +2758,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it in November, si.. |
+| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
 | 17 | b2ch22:18 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
 | 17 | b2ch22:40 | Mr Byun sat down on his own sofa and looked at him. |
 | 17 | b2ch22:52 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
@@ -2780,7 +2780,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Byun
 
-- `b2ch22:6` (Tag 17) - six, twenty-six
+- `b2ch22:6` (Tag 17) - ten, twenty-six
 - `b2ch22:18` (Tag 17) - one, three
 - `b2ch22:52` (Tag 17) - four, one
 - `b2ch22:118` (Tag 17) - four

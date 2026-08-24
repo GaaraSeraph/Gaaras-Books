@@ -869,3 +869,39 @@ Georgij.* sind keine Abfertigungen, sondern genau der Fall, fuer den die Regel
 das Zeichen vorsieht. Sie haben es bekommen. Der Rest der Form bleibt bei denen,
 die den Zug haben. **Stand danach: rund zehn Vorkommen in Band 2. Das ist die
 Obergrenze, nicht der Anfang einer Gewohnheit.**
+
+
+---
+
+## Byun geht Ende Februar, entschieden am 24.08.
+
+Der Widerspruch: Band 1, Kapitel 34 sagt, Annies Kauf lief vom 4. Januar bis zum
+19. Februar, und Kapitel 22 laesst Byun ihre vier Besuche aus erster Hand
+erinnern - *"she was the only one of them who frightened me"*. Gleichzeitig stand
+dreimal im Text, er habe das Haus im November verlassen.
+
+**Gewaehlt wurde das Datum, nicht die Szene.** Die Erinnerung ist zu gut, um sie
+jemand anderem zu geben, und Band 1 ist Kanon. Also ist der November gefallen.
+
+**Was der Tausch einbringt.** Aus einer Reparatur wird eine Schaerfung: Byun hat
+die letzte Loeschung verkauft, **nachdem** Hwang die Praxis abgestellt hatte, im
+selben Haus, in dem Hwang seit Oktober sass. Hwangs *"This house has not sold a
+deletion since the eleventh of December"* war der Satz, an dem der Widerspruch
+haftete; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
+und er sagt es unaufgefordert. Der Mann, dessen Wert seine Genauigkeit ist,
+liefert die eigene Luecke mit, und Georgij muss sie ihm nicht abringen.
+
+**Nicht geaendert:** Yeoms Bericht in Kapitel 25, Byun sei im Februar des
+Vorjahres zu ihm gekommen und habe von *einer* Gebuehr gesprochen. Das ist ein
+frueheres Gestaendnis ueber einen aelteren Vorgang und bleibt richtig.
+
+---
+
+## Eine Lesefassung je Band, entschieden am 24.08.
+
+`book.md` hatte sechsundsiebzig Kapitel und beide Baende in einer Datei. Geteilt
+in `book-band-1.md` und `book-band-2.md`, erzeugt von `build.py` wie vorher.
+Mitgezogen: `CLAUDE.md`, `README.md`, `chapters-2/README.md` und die Liste der
+erzeugten Dateien in `.github/workflows/build.yml` - **letzteres ist die Stelle,
+die es sonst still zerlegt haette**, weil der Workflow nur zurueckschreibt, was
+namentlich in dieser Liste steht.

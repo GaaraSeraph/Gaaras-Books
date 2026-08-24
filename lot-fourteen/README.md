@@ -10,6 +10,6 @@ cover/      Coverbild
 Start mit CLAUDE.md. Dort stehen die Formatregeln, die Stimme und die
 Kontinuitaets-Fallen.
 
-Lesefassung der Geschichte: book.md. Alle Regeln und der Kanon am Stueck:
+Lesefassung je Band: book-band-1.md und book-band-2.md. Alle Regeln und der Kanon am Stueck:
 HANDBUCH.md. Wie viele Kapitel es gibt und wie lang sie sind: MANIFEST.txt, vom
 Build geschrieben. Was als Naechstes kommt: doc/07-next.md.

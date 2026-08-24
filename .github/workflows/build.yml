@@ -47,7 +47,7 @@ jobs:
           # || true verschluckt es. So sah es lange aus wie ein Erfolg,
           # waehrend BEGEGNUNGEN.md - hier bis heute gar nicht genannt -
           # nie zurueckgeschrieben wurde.
-          for gen in book.md HANDBUCH.md MANIFEST.txt BEGEGNUNGEN.md paste; do
+          for gen in book.md book-band-1.md book-band-2.md HANDBUCH.md MANIFEST.txt BEGEGNUNGEN.md paste; do
             git add "*/$gen" 2>/dev/null || true
           done
           git add '*/chapters/*.txt' 2>/dev/null || true
