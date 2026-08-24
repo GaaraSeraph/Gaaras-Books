@@ -584,7 +584,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und dann geht Sung-ho telefonieren**, neunzehn Minuten, und Georgij sitzt mit dem Mantel auf den Knien in einem Raum, in dem die Entscheidung nicht faellt. Sie faellt bei einer Frau, die nicht im Gebaeude ist, die er nie getroffen hat, die 1,4 Prozent haelt und die man **einmal** fragen kann. Ihm geht dabei auf, dass Hana ihm das im November im Klartext gesagt hat und dass er es als Schwierigkeit gehoert hat statt als Tatsache.
 
   **Ergebnis:** Die Kims kommen am 16., vollzaehlig. Ueber Anteile, Sicherheiten und Routen ist nichts entschieden, und Sung-ho sagt ausdruecklich, dass niemand im Raum die Befugnis dazu hat. Der Schluss ist ein durchgestrichener Satz im Notizbuch: *She said yes* - weggestrichen, weil er es nicht weiss und bis zum Sechzehnten nicht wissen wird.
-- **Kapitel 25** *The name on the paper* (v1.3) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
+- **Kapitel 25** *The name on the paper* (v1.4) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
 
   **Er kennt Annies Haus inzwischen ganz**, und der Text sagt, wie: nicht mehr als drei Ausgaenge und zweiundzwanzig Objektive, sondern so, wie man ein Haus kennt, in dem man wohnt - welche der vierzehn Erdgeschosstueren bei Nasse klemmen, dass der zweite Stock vier Zimmer hat und zwei davon zu sind. Er hat nichts davon gesucht; es ist ueber neunundfuenfzig Tage angekommen.
 
@@ -623,7 +623,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 **Offen bleibt nur noch, wann er faellt**, also wann Georgij ihn ausspricht.
 
-- **Kapitel 23** *Nobody weighs a door handle* (v3.5) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
+- **Kapitel 23** *Nobody weighs a door handle* (v3.6) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
   **Der Hoehepunkt ist der Entzug der Anrede.** Auf ihr *"A man who does not break is a man nobody can hold"* kontert er mit dem, was tatsaechlich der Fall ist: **Sie hat ihn fuenfundfuenfzig Tage lang tadellos gehalten**, jeden Raum, jeden Namen, jede wache Stunde, fuer eine Unterschrift im Oktober und nichts weiter. *"So why did you go and try to waste it?"*
 
@@ -675,7 +675,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** *I came back with a favour* (v1.4) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.9) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.6) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.10) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *I have never put it down* (v12.11) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.7) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.6) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -2518,6 +2518,10 @@ erste Juli-Szene gelesen.
 | **Dr Oh Seung-min** | 58 | 13. August | Kapitel 41; vor vier Jahren vierundfuenfzig |
 | **Baek Jun-ho** | 63 | 26. September | Kapitel 42 |
 | **Nam Byung-hees Neffe** | 23 | 9. August | Kapitel 19 |
+| **Hana Seo-yeon** | 51 | 22. Juli | Band 1, Kapitel 21, aus ihrem eigenen Mund: *"I have a house with nobody in it on Fridays, and I am fifty-one"* |
+| **Kim Ye-rin** | 54 | 5. August | Band 1, Kapitel 26, 28 und 30 |
+| **Kang** | 43 | 25. August | Band 1, Kapitel 11 |
+| **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **offen** | **offen** | Dreissig Jahre im Gewerbe (12, 13, 40), kein Alter im Text |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
@@ -2529,6 +2533,23 @@ die Zahl in einen Satz kommt. Und wer ein Alter aus einer anderen Zahl ableitet 
 *"since I was twenty-four"*, *"eight years at that table"* - rechnet beide
 Richtungen nach, weil genau dort der Fehler bei Woo entstanden ist: das Alter
 wurde geaendert und die abgeleitete Zahl blieb stehen.
+
+---
+
+## Elf Haeuser, nicht zwoelf
+
+**Entschieden am 24.08.** Die festgelegte Zeile in Kapitel 24 sagt *"Eleven
+houses. Seventeen years."*, und Kapitel 1, 2 und 20 sagen dasselbe. Kapitel 23
+sagte *"Twelve houses, four languages"* und Kapitel 25 zweimal zwoelf.
+
+**Kapitel 23 und 24 spielen in derselben Nacht auf der Mapo-Bruecke**, und
+dieselbe Dreier-Aufzaehlung stand dort einmal mit zwoelf und einmal mit elf. Es
+gaebe eine Lesart, in der beides stimmt - elf vor Annie, zwoelf mit ihr -, aber
+sie traegt nicht ueber zwei Kapitel derselben Nacht, und die festgelegte Zeile
+entscheidet. Alle drei stehen jetzt auf elf.
+
+**Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
+steht der Widerspruch am selben Abend wieder da.
 
 ---
 
@@ -2574,6 +2595,9 @@ offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
   Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
   Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Kapitel 17 sagte am Dienstag "on Tuesday".** Sang-hoon hat es ihm am
+  Abend desselben Tages gesagt, beim Essen; zwei Tage spaeter, in Kapitel 18,
+  ist dasselbe "on Tuesday" richtig. Steht jetzt auf *tonight*.
 - **Die Lesefassung ist geteilt:** `book-band-1.md` und `book-band-2.md`.
 - **Georgij hat in Band 2 keine eigene Kontraktion.** Der einzige Treffer ist ein
   Zitat: *"Tell her we haven't met."* (Kapitel 10). Siehe `doc/01-craft.md`,

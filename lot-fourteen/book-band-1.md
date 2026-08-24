@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.125 Woerter.
+Book One, 34 Kapitel, 101.124 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -27,15 +27,15 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 14 | v7.6 | 2.599 |
 | 15 | v2.7 | 4.208 |
 | 16 | v1.16 | 3.278 |
-| 17 | v12.10 | 2.709 |
+| 17 | v12.11 | 2.708 |
 | 18 | v2.6 | 2.980 |
 | 19 | v1.9 | 3.210 |
 | 20 | v1.4 | 2.108 |
 | 21 | v1.7 | 4.080 |
 | 22 | v1.1 | 2.584 |
-| 23 | v3.5 | 2.653 |
+| 23 | v3.6 | 2.653 |
 | 24 | v1.4 | 2.653 |
-| 25 | v1.3 | 2.550 |
+| 25 | v1.4 | 2.550 |
 | 26 | v1.4 | 2.423 |
 | 27 | v3.2 | 3.102 |
 | 28 | v1.3 | 2.676 |
@@ -4663,7 +4663,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.10 · EN
+*Lot Fourteen* · Version 12.11 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4713,7 +4713,7 @@ It did not take its time now.
 
 "And then?"
 
-"Then he is bound. He will have paid for four routes and bought a fight with the half that would not sit in a room." He sat back. "He will win it. He took Pyeongtaek apart one director at a time and he is better at that than anybody in this country. It will take him a quarter, and he thinks he has a quarter, because he told me on Tuesday that a family takes two years."
+"Then he is bound. He will have paid for four routes and bought a fight with the half that would not sit in a room." He sat back. "He will win it. He took Pyeongtaek apart one director at a time and he is better at that than anybody in this country. It will take him a quarter, and he thinks he has a quarter, because he told me tonight that a family takes two years."
 
 "There is a third thing and he gave it to me without knowing he had it in his hand."
 
@@ -6345,7 +6345,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Book One · Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6415,7 +6415,7 @@ It was in Korean, low down and set into the metal, and it was not advertising an
 
 He took his forearms off the rail and stood back from it.
 
-Twelve houses, four languages, and he had put himself on that bridge like a tourist.
+Eleven houses, four languages, and he had put himself on that bridge like a tourist.
 
 Jang got there six minutes later.
 
@@ -6951,7 +6951,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -6975,7 +6975,7 @@ There was exactly one thing in it he had never found.
 
 For thirteen days in October a small dark object had not been on the shelf, and had not been anywhere he walked past. Once, after the gala, he had heard a drawer close from the wrong end of a corridor. He had not gone looking then either, which had been a decision, and he had made it at the top of the stairs in about a second and a half.
 
-In fifty-nine days in twelve houses' worth of practice, that was the only object that had ever stayed hidden from him, and it had belonged to the only person who had ever bought him.
+In fifty-nine days in eleven houses' worth of practice, that was the only object that had ever stayed hidden from him, and it had belonged to the only person who had ever bought him.
 
 Mr Chae came at ten on the Monday with a leather case and a younger man who carried nothing and said nothing and was not introduced.
 
@@ -7051,7 +7051,7 @@ The line was two-thirds of the way down, in the ordinary place, with a printed n
 
 He had never in his life signed anything.
 
-Not a contract, not a lease, not a receipt, not a delivery docket, not a hotel register, not a card in a shop. In seventeen years across twelve houses the entire administrative record of his existence had been other people's paperwork about him, and he had read a great deal of it and had never once been asked to write on any.
+Not a contract, not a lease, not a receipt, not a delivery docket, not a hotel register, not a card in a shop. In seventeen years across eleven houses the entire administrative record of his existence had been other people's paperwork about him, and he had read a great deal of it and had never once been asked to write on any.
 
 He did not know whether he had a signature.
 
