@@ -674,13 +674,13 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 20** *I came back with a favour* (v1.5) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.10) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
-- **Kapitel 18** *On account* (v2.7) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
+- **Kapitel 18** *On account* (v2.8) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.12) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
-- **Kapitel 15** *Four thousand two hundred* (v2.7) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
-- **Kapitel 14** *In the same size type* (v7.7) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
-- **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.8) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 15** *Four thousand two hundred* (v2.8) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
+- **Kapitel 14** *In the same size type* (v7.8) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
+- **Kapitel 13** *The man with the open hand* (v2.6) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
+- **Kapitel 12** *You are better when you don't know* (v1.9) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.10) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.4) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
@@ -1888,7 +1888,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *Four owners deep* (v1.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *Four owners deep* (v2.0) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -1900,7 +1900,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Six weeks before* (v1.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *A shape the size of a person* (v2.0) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -1912,7 +1912,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.2) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+- **Band 2, Kapitel 44** *Somebody in Seoul pays for it* (v2.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
 
   **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
 
@@ -1922,7 +1922,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
-- **Band 2, Kapitel 45** *The line above it* (v1.0) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
+- **Band 2, Kapitel 45** *The line above it* (v1.1) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
 
   **Zwei Tage an K ergeben nichts**, und der Fund kommt nicht von draussen, sondern aus seiner eigenen Abschrift. Er hat Sang-hoons Kalender in der ersten Juniwoche kopiert und dabei vier Zeilen herausgenommen und alles stehen lassen, wonebem sie standen. *"K has no date because I did not copy one, which is not the same as there having been none."* Drei Tage vorher hat er Jangs Lieferwagen ausdruecklich in der Reihenfolge notiert, in der Jang ihn bemerkt hat, mit der Begruendung dazu - und die eigene Liste nie umgedreht.
 
@@ -1935,7 +1935,12 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
 
 
-- **Band 2, Kapitel 46** *Somebody in Seoul pays for it* (v2.0) - **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
+**Kapitel 46 gibt es nicht mehr.** Die Schreibsitzung hat es am 25.08. in
+Kapitel 44 gezogen (*"44 und 46 werden eins"*), und 43 und 44 haben dabei neue
+Titel bekommen. Die folgenden Notizen sind die des alten 46 und stehen hier
+unveraendert, weil sie **noch nicht gegen die neue Fassung geprueft** sind - das
+gehoert der Schreibsitzung, nicht der Inhaltspruefung. Was davon in Kapitel 44
+ueberlebt hat, ist offen. Alte Kopfzeile: **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
 
   **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
 
@@ -2550,6 +2555,55 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 12 bis 15 (25.08.)
+
+**Der Anruf von Kang faellt jetzt auf Mittwoch, Tag 26.** Er stand auf Dienstag,
+Tag 25, und **fuenf Stellen an drei Orten** zeigten auf den vierten Tag: Kapitel 9
+zweimal (*"It would be four days before he understood"*, dazu Hanas *"in about
+four days"*), und im Anruf selbst *"four days after"*, *"four nights ago"* und
+Kangs *"I found that interesting for four days"*. Von Samstagnacht aus ist
+Dienstag drei Naechte und Mittwoch vier. Der Anruf ist gewandert, nicht die
+Zahlen. Annies *"I've spent four of those days"* stimmt damit auch: die Nacht
+nach der Gala zaehlt zum 22.
+
+**Die drei unbrauchbaren Daten heissen jetzt Juni, September, Oktober.** Sie
+standen als *"a Thursday in June, a Wednesday in September and a Monday last
+month"*, und **zwei davon waren derselbe Monat** - Georgij schreibt sie an Tag
+27/28 auf, also ist *last month* der September. Hana zaehlt sie in Kapitel 15
+aber an den Monatsnamen ab (*"June, I don't have. September I don't have."*),
+und das geht nur mit drei verschiedenen Monaten. Der September bleibt beim
+Mittwoch, weil Woo *"six weeks ago"* vor dem 25. Oktober zum zweiten Mal
+angesprochen wurde und Kapitel 19 genau das einloest. Also faellt der Montag in
+den Oktober. Geaendert in **Kapitel 13 (zweimal), 15 und 18**.
+
+**Weiter korrigiert.**
+
+- **Kapitel 14:** *"Three cancellations last week, which Hana had on a terrace"*.
+  Hana hatte auf der Terrasse den Zoll, nicht die Stornierungen, und die
+  Terrasse lag zwoelf Tage vor *last week*. Jetzt: *"and Hana had the customs on
+  a terrace at the gala"*.
+- **Kapitel 14:** *"useful again, Underneath every one"* - Komma statt Punkt vor
+  einem Grossbuchstaben. Dazu der **einzige krumme Apostroph in Band 1**
+  (*eleven o'clock*).
+- **Kapitel 15:** *"seventeen frames"* -> *"seventeen frames across the four
+  years"*. Die dreiundzwanzig Bilder sind die **einer** Gala; siebzehn Bilder mit
+  zwei Leuten *"four years apart"* koennen nicht aus denselben dreiundzwanzig
+  kommen.
+- **Kapitel 15:** *"forty-one holdings on that side"* -> **achtunddreissig**. Auf
+  zwei Seiten standen drei verschiedene Einundvierzig: der Tag, die Kim-Anteile
+  (gerechnet, 11+9+7+6+4+4, die bleiben) und die Parzellen.
+
+**Was gehalten hat.** Woos einundfuenfzig Jahre im Gewerbe stimmen mit
+achtundsiebzig und Eintritt mit siebenundzwanzig. Der Zoll sitzt an Tag 34
+achtzehn Tage im Gebaeude - Hana sagte an Tag 22 sechs. Kim Ye-rins
+zweiundvierzig Komma vier gehen auf. Die achtzehnte ist Tag 46 und traegt
+Kapitel 16. *Next Thursday* an einem Donnerstag ist Tag 41 und traegt Kapitel 15.
+
+**Offen, gehoert der Stil-Sitzung.** Band 2, Kapitel 41 hat den einzigen
+verbliebenen krummen Apostroph im ganzen Buch.
 
 ---
 
