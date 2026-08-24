@@ -18,14 +18,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 594 | 62 (b1ch01-b2ch40) | 1 | 74 |
-| Park Sang-hoon | 186 | 33 (b1ch10-b2ch40) | 1 | 74 |
+| Annie | 602 | 63 (b1ch01-b2ch41) | 1 | 74 |
+| Park Sang-hoon | 188 | 34 (b1ch10-b2ch41) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 114 | 25 (b1ch05-b2ch40) | 3 | 60 |
+| Jang | 115 | 26 (b1ch05-b2ch41) | 3 | 60 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
 | Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
-| Mrs Jeon | 52 | 12 (b2ch06-b2ch38) | 5 | 59 |
+| Mrs Jeon | 53 | 13 (b2ch06-b2ch41) | 5 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-594 Nennungen in 62 Kapiteln.
+602 Nennungen in 63 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -656,6 +656,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:176 | Annie looked at the map on the desk without touching it. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 5 | b2ch41:12 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 5 | b2ch41:82 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 5 | b2ch41:98 | "Say the rest of what you have on him," said Annie. |
+| 5 | b2ch41:112 | Annie was quiet on the line for a moment. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:162 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 5 | b2ch41:170 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -813,12 +821,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:200` (Tag 61) - two
 - `b2ch39:248` (Tag 61) - eight
 - `b2ch40:214` (Tag 3) - four
+- `b2ch41:12` (Tag 5) - four, one, three
+- `b2ch41:132` (Tag 5) - one
+- `b2ch41:154` (Tag 5) - four, two
+- `b2ch41:162` (Tag 5) - one, two
+- `b2ch41:170` (Tag 5) - four, one, two
 
 ---
 
 ## Park Sang-hoon
 
-186 Nennungen in 33 Kapiteln.
+188 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1008,6 +1021,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:258 | "He let Sang-hoon find out," he said slowly, "on purpose." |
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1089,6 +1104,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:248` (Tag 61) - eight
 - `b2ch39:254` (Tag 61) - hundred and forty
 - `b2ch40:214` (Tag 3) - four
+- `b2ch41:132` (Tag 5) - one
+- `b2ch41:154` (Tag 5) - four, two
 
 ---
 
@@ -1573,7 +1590,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-114 Nennungen in 25 Kapiteln.
+115 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1691,6 +1708,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:218 | Jang stood up and put the map back in his coat. |
 | 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1744,6 +1762,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:116` (Tag 3) - one, two
 - `b2ch40:148` (Tag 3) - sixteen
 - `b2ch40:228` (Tag 3) - one, six
+- `b2ch41:132` (Tag 5) - one
 
 ---
 
@@ -1974,7 +1993,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Jeon
 
-52 Nennungen in 12 Kapiteln.
+53 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2030,6 +2049,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:40 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 5 | b2ch41:30 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -2051,6 +2071,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
+- `b2ch41:30` (Tag 5) - forty, one, six
 
 ---
 

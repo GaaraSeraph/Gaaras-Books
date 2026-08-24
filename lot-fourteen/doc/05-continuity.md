@@ -304,6 +304,17 @@ nachrechnen, und `check.py` tut das automatisch.
   anywhere near the top."* **Georgij wird das Grundstueck weiterhin nicht
   betreten - der naechste Schritt liegt bei Sang-hoons Grundbuchrecherche**
   (Band 2, Kapitel 40)
+- Tag 263, Di 23. Juni: **der Arzt-Faden, ganz vom Schreibtisch aus.**
+  Elf registrierte Hausbesuch-Praxen landesweit vor vier Jahren, sechs
+  sofort ausgeschlossen (Paediatrie, geschlossen, zu weit weg), eine
+  Klinikgruppe wegen eigener Revision, zwei per Telefon als gewoehnliches
+  Geschaeft bestaetigt. **Bleiben zwei - eine mit erloschener statt
+  geschlossener Zulassung**, die andere von Kollegen gedeckt, die ihn nie
+  aus der Naehe gesehen haben, aber als harmlos entlarvt, sobald Georgij
+  ihre Klinik direkt anruft. **Dr. Oh Seung-min, vierundfuenfzig beim
+  Hausbesuch vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
+  niemanden ausser Annie - nicht Sang-hoon, nicht Jang, nicht einmal ins
+  Notizbuch ein zweites Mal (Band 2, Kapitel 41)
 
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -1828,6 +1839,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie zieht die Grenze, bevor Georgij sie ueberschreiten kann, und sagt es laut, damit er sie von ihr und nicht erst von sich selbst hoert:** der naechste Schritt ist keine Strasse mehr, sondern ein Grundbucheintrag - **Sang-hoons Weg, nicht ihrer.** Und sie erinnert sich ausdruecklich an den Preis der letzten Vier-Tage-Frist, um keinen neuen Termin zu erfinden, den sie nicht halten kann.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
+
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v1.0) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+
+  **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
+
+  **Die Filterkette, sauber nachvollziehbar:** elf Praxen landesweit vor vier Jahren registriert. Sechs sofort raus (Paediatrie, geschlossen, zu weit weg). Eine Klinikgruppe raus, weil eine Rechnung dieser Groesse eine interne Revision nicht vier Jahre lang ueberlebt. Zwei per Telefon bestaetigt als gewoehnliches, ehrliches Geschaeft - **und Georgij fragt wahrheitsgemaess, ohne zu sagen warum, nie mit einer erfundenen Begruendung** (eine fruehe Fassung hatte ihn hier luegen lassen, was Regel 1 gebrochen haette - korrigiert).
+
+  **Bleiben zwei. Einer wird ueber die Aerztekammer geprueft und faellt heraus**, weil seine beiden Buergen ihn all die Jahre aus naechster Naehe kannten - ein Mann, der wirklich zwanzig Jahre lang gewoehnliche Hausbesuche gemacht hat. **Der andere hat eine erloschene statt geschlossene Zulassung** - ein Unterschied, den Georgij selbst benennt: *"A practice that was allowed to disappear rather than told to."*
+
+  **Dr. Oh Seung-min.** Vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig, falls die Zulassung ihm je gehoert hat. Die registrierte Adresse in Jung-gu ist seit anderthalb Jahren eine Zahnarztpraxis - **Georgij faehrt nicht hin, weil das Nichthinfahren die eine Regel war, die er diese Woche nicht brechen wollte.**
+
+  **Annie nimmt den Namen entgegen und sperrt ihn sofort weg** - nicht Sang-hoon, nicht Jang, nicht einmal ein zweiter Notizbucheintrag. *"Everything on paper is eventually read by somebody it was not written for."* Der naechste Schritt haengt jetzt allein daran, ob Sang-hoons Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen Zulassung findet wie hinter dem Pflegeheim bei Wonju.
 
 ---
 

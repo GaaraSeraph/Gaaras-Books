@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 143.845 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 144.648 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2421,6 +2421,17 @@ nachrechnen, und `check.py` tut das automatisch.
   anywhere near the top."* **Georgij wird das Grundstueck weiterhin nicht
   betreten - der naechste Schritt liegt bei Sang-hoons Grundbuchrecherche**
   (Band 2, Kapitel 40)
+- Tag 263, Di 23. Juni: **der Arzt-Faden, ganz vom Schreibtisch aus.**
+  Elf registrierte Hausbesuch-Praxen landesweit vor vier Jahren, sechs
+  sofort ausgeschlossen (Paediatrie, geschlossen, zu weit weg), eine
+  Klinikgruppe wegen eigener Revision, zwei per Telefon als gewoehnliches
+  Geschaeft bestaetigt. **Bleiben zwei - eine mit erloschener statt
+  geschlossener Zulassung**, die andere von Kollegen gedeckt, die ihn nie
+  aus der Naehe gesehen haben, aber als harmlos entlarvt, sobald Georgij
+  ihre Klinik direkt anruft. **Dr. Oh Seung-min, vierundfuenfzig beim
+  Hausbesuch vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
+  niemanden ausser Annie - nicht Sang-hoon, nicht Jang, nicht einmal ins
+  Notizbuch ein zweites Mal (Band 2, Kapitel 41)
 
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -3945,6 +3956,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie zieht die Grenze, bevor Georgij sie ueberschreiten kann, und sagt es laut, damit er sie von ihr und nicht erst von sich selbst hoert:** der naechste Schritt ist keine Strasse mehr, sondern ein Grundbucheintrag - **Sang-hoons Weg, nicht ihrer.** Und sie erinnert sich ausdruecklich an den Preis der letzten Vier-Tage-Frist, um keinen neuen Termin zu erfinden, den sie nicht halten kann.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
+
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v1.0) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+
+  **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
+
+  **Die Filterkette, sauber nachvollziehbar:** elf Praxen landesweit vor vier Jahren registriert. Sechs sofort raus (Paediatrie, geschlossen, zu weit weg). Eine Klinikgruppe raus, weil eine Rechnung dieser Groesse eine interne Revision nicht vier Jahre lang ueberlebt. Zwei per Telefon bestaetigt als gewoehnliches, ehrliches Geschaeft - **und Georgij fragt wahrheitsgemaess, ohne zu sagen warum, nie mit einer erfundenen Begruendung** (eine fruehe Fassung hatte ihn hier luegen lassen, was Regel 1 gebrochen haette - korrigiert).
+
+  **Bleiben zwei. Einer wird ueber die Aerztekammer geprueft und faellt heraus**, weil seine beiden Buergen ihn all die Jahre aus naechster Naehe kannten - ein Mann, der wirklich zwanzig Jahre lang gewoehnliche Hausbesuche gemacht hat. **Der andere hat eine erloschene statt geschlossene Zulassung** - ein Unterschied, den Georgij selbst benennt: *"A practice that was allowed to disappear rather than told to."*
+
+  **Dr. Oh Seung-min.** Vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig, falls die Zulassung ihm je gehoert hat. Die registrierte Adresse in Jung-gu ist seit anderthalb Jahren eine Zahnarztpraxis - **Georgij faehrt nicht hin, weil das Nichthinfahren die eine Regel war, die er diese Woche nicht brechen wollte.**
+
+  **Annie nimmt den Namen entgegen und sperrt ihn sofort weg** - nicht Sang-hoon, nicht Jang, nicht einmal ein zweiter Notizbucheintrag. *"Everything on paper is eventually read by somebody it was not written for."* Der naechste Schritt haengt jetzt allein daran, ob Sang-hoons Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen Zulassung findet wie hinter dem Pflegeheim bei Wonju.
 
 ---
 
@@ -5703,13 +5726,12 @@ Fassung.**
   aber ein Umzug aus der Stadt heraus, einen Tag vor der zweiten Lieferung.
   **Wer bezahlt einen Wagen und laesst ihn ueber ein Auktionshaus abrechnen.**
 
-- **DER ARZT IM JULI. Ab Kapitel 30 der Faden, und Annie hat gesagt warum.**
-  *"That is the first piece of paper in this entire business that was made by
-  somebody who was not in the trade."* **Eine Praxis fuehrt Akten, und wer im
-  Juli jemanden gesehen hat, hat in das Feld fuer den Namen etwas geschrieben.**
-  Alles andere in diesem Geschaeft ist von Leuten gemacht worden, die Papier
-  verschwinden lassen koennen. Eine Empfangskraft kann das nicht und hat es nie
-  gebraucht.
+- **DER ARZT: NAME GEFUNDEN, NIEMANDEM AUSSER ANNIE GESAGT (Kapitel 41).**
+  Dr. Oh Seung-min, erloschene statt geschlossene Zulassung, registrierte
+  Adresse jetzt eine Zahnarztpraxis in Jung-gu. **Faellig: ob Sang-hoons
+  Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen
+  Zulassung findet wie hinter dem Pflegeheim bei Wonju.** Wenn ja, ist der
+  Arzt- und der Pflegeheim-Faden derselbe Faden.
 
 - **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.
@@ -5774,6 +5796,16 @@ Fassung.**
   Datum, ueber die man das Buch aufschlagen kann. **Und Hwang hat sich verbeten,
   dass sie ein zweites Mal gesagt wird** - wenn sie eintrifft, dann als Tatsache
   und ohne Georgij im Raum.
+
+  **Entschieden (24.08.): Yeom ist es, der die Tuer oeffnet, nicht Annie und
+  nicht Sang-hoon.** Passt zu seinem eigenen Handlungsbogen (Kapitel 25, die
+  moralische Unruhe darueber, was in seinem eigenen Haus lief, ohne dass er
+  eingriff) und zur Prognose selbst - *"beneath you"* verlangt eine kleine,
+  beilaeufige Tuer, keine grosse Rettung. **Yeom muss Hwang nicht selbst
+  anstellen, nur eine Empfehlung geben, ohne dass es wie eine Rettungsaktion
+  aussieht.** Faellig als Nebenbemerkung in einem spaeteren Yeom- oder
+  Sang-hoon-Gespraech, kein eigenes Kapitel - und erst, wenn die Story bei
+  Oktober ankommt.
 
 - **Die Settlement-Buecher liegen in einem Lager.** Seit dem 20. Mai, gegen ein
   von Hwang unterschriebenes Verzeichnis, bei einem Fonds ohne Interesse daran.
@@ -6928,14 +6960,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 594 | 62 (b1ch01-b2ch40) | 1 | 74 |
-| Park Sang-hoon | 186 | 33 (b1ch10-b2ch40) | 1 | 74 |
+| Annie | 602 | 63 (b1ch01-b2ch41) | 1 | 74 |
+| Park Sang-hoon | 188 | 34 (b1ch10-b2ch41) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 114 | 25 (b1ch05-b2ch40) | 3 | 60 |
+| Jang | 115 | 26 (b1ch05-b2ch41) | 3 | 60 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
 | Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
-| Mrs Jeon | 52 | 12 (b2ch06-b2ch38) | 5 | 59 |
+| Mrs Jeon | 53 | 13 (b2ch06-b2ch41) | 5 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -6968,7 +7000,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-594 Nennungen in 62 Kapiteln.
+602 Nennungen in 63 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7566,6 +7598,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:176 | Annie looked at the map on the desk without touching it. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 5 | b2ch41:12 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 5 | b2ch41:82 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 5 | b2ch41:98 | "Say the rest of what you have on him," said Annie. |
+| 5 | b2ch41:112 | Annie was quiet on the line for a moment. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:162 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 5 | b2ch41:170 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7723,12 +7763,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:200` (Tag 61) - two
 - `b2ch39:248` (Tag 61) - eight
 - `b2ch40:214` (Tag 3) - four
+- `b2ch41:12` (Tag 5) - four, one, three
+- `b2ch41:132` (Tag 5) - one
+- `b2ch41:154` (Tag 5) - four, two
+- `b2ch41:162` (Tag 5) - one, two
+- `b2ch41:170` (Tag 5) - four, one, two
 
 ---
 
 ### Park Sang-hoon
 
-186 Nennungen in 33 Kapiteln.
+188 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7918,6 +7963,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:258 | "He let Sang-hoon find out," he said slowly, "on purpose." |
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -7999,6 +8046,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:248` (Tag 61) - eight
 - `b2ch39:254` (Tag 61) - hundred and forty
 - `b2ch40:214` (Tag 3) - four
+- `b2ch41:132` (Tag 5) - one
+- `b2ch41:154` (Tag 5) - four, two
 
 ---
 
@@ -8483,7 +8532,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-114 Nennungen in 25 Kapiteln.
+115 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8601,6 +8650,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:218 | Jang stood up and put the map back in his coat. |
 | 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
+| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -8654,6 +8704,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:116` (Tag 3) - one, two
 - `b2ch40:148` (Tag 3) - sixteen
 - `b2ch40:228` (Tag 3) - one, six
+- `b2ch41:132` (Tag 5) - one
 
 ---
 
@@ -8884,7 +8935,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-52 Nennungen in 12 Kapiteln.
+53 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8940,6 +8991,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:40 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 5 | b2ch41:30 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -8961,6 +9013,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
+- `b2ch41:30` (Tag 5) - forty, one, six
 
 ---
 

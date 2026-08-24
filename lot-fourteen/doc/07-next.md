@@ -779,13 +779,12 @@ Fassung.**
   aber ein Umzug aus der Stadt heraus, einen Tag vor der zweiten Lieferung.
   **Wer bezahlt einen Wagen und laesst ihn ueber ein Auktionshaus abrechnen.**
 
-- **DER ARZT IM JULI. Ab Kapitel 30 der Faden, und Annie hat gesagt warum.**
-  *"That is the first piece of paper in this entire business that was made by
-  somebody who was not in the trade."* **Eine Praxis fuehrt Akten, und wer im
-  Juli jemanden gesehen hat, hat in das Feld fuer den Namen etwas geschrieben.**
-  Alles andere in diesem Geschaeft ist von Leuten gemacht worden, die Papier
-  verschwinden lassen koennen. Eine Empfangskraft kann das nicht und hat es nie
-  gebraucht.
+- **DER ARZT: NAME GEFUNDEN, NIEMANDEM AUSSER ANNIE GESAGT (Kapitel 41).**
+  Dr. Oh Seung-min, erloschene statt geschlossene Zulassung, registrierte
+  Adresse jetzt eine Zahnarztpraxis in Jung-gu. **Faellig: ob Sang-hoons
+  Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen
+  Zulassung findet wie hinter dem Pflegeheim bei Wonju.** Wenn ja, ist der
+  Arzt- und der Pflegeheim-Faden derselbe Faden.
 
 - **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.
@@ -850,6 +849,16 @@ Fassung.**
   Datum, ueber die man das Buch aufschlagen kann. **Und Hwang hat sich verbeten,
   dass sie ein zweites Mal gesagt wird** - wenn sie eintrifft, dann als Tatsache
   und ohne Georgij im Raum.
+
+  **Entschieden (24.08.): Yeom ist es, der die Tuer oeffnet, nicht Annie und
+  nicht Sang-hoon.** Passt zu seinem eigenen Handlungsbogen (Kapitel 25, die
+  moralische Unruhe darueber, was in seinem eigenen Haus lief, ohne dass er
+  eingriff) und zur Prognose selbst - *"beneath you"* verlangt eine kleine,
+  beilaeufige Tuer, keine grosse Rettung. **Yeom muss Hwang nicht selbst
+  anstellen, nur eine Empfehlung geben, ohne dass es wie eine Rettungsaktion
+  aussieht.** Faellig als Nebenbemerkung in einem spaeteren Yeom- oder
+  Sang-hoon-Gespraech, kein eigenes Kapitel - und erst, wenn die Story bei
+  Oktober ankommt.
 
 - **Die Settlement-Buecher liegen in einem Lager.** Seit dem 20. Mai, gegen ein
   von Hwang unterschriebenes Verzeichnis, bei einem Fonds ohne Interesse daran.
