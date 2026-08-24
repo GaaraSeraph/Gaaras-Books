@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 656 | 70 (b1ch01-b2ch48) | 1 | 74 |
+| Annie | 660 | 71 (b1ch01-b2ch49) | 1 | 74 |
 | Park Sang-hoon | 260 | 39 (b1ch10-b2ch48) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
@@ -30,6 +30,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
+| Bae | 31 | 7 (b1ch03-b2ch49) | 1 | 34 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Yeo | 30 | 6 (b1ch05-b2ch41) | 5 | 46 |
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
@@ -37,7 +38,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Yeom | 26 | 4 (b2ch24-b2ch41) | 5 | 46 |
 | Choi Dae-ho | 21 | 12 (b1ch07-b2ch48) | 2 | 61 |
-| Bae | 20 | 6 (b1ch03-b2ch47) | 1 | 34 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-656 Nennungen in 70 Kapiteln.
+660 Nennungen in 71 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -718,6 +718,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:294 | Annie did not tell him he was right, which he noticed, and which he was grateful for in .. |
 | 2 | b2ch48:330 | Annie waited. |
 | 2 | b2ch48:342 | "Then that is as far as it goes tonight," said Annie. |
+| 4 | b2ch49:10 | Annie had not told him to go and had not told him not to, and had said one sentence abou.. |
+| 4 | b2ch49:270 | He told Annie in the small room before dinner, in order, and it took under three minutes. |
+| 4 | b2ch49:286 | "Then you were right on Saturday and now you have got it from a second room." Annie did .. |
+| 4 | b2ch49:314 | Annie let that stand in the room for a moment. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -898,6 +902,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch47:228` (Tag 10) - one
 - `b2ch48:230` (Tag 2) - twelve
 - `b2ch48:270` (Tag 2) - one
+- `b2ch49:10` (Tag 4) - one
+- `b2ch49:270` (Tag 4) - three
+- `b2ch49:286` (Tag 4) - eleven
 
 ---
 
@@ -2588,6 +2595,61 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Bae
+
+31 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
+| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
+| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
+| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
+| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
+| 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
+| 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
+| 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
+| 10 | b2ch47:258 | *Mrs Bae, 23 June. Telephoned a man.* |
+| 4 | b2ch49:6 | He went back to Mrs Bae on the Wednesday, in the afternoon, at the hour when the front o.. |
+| 4 | b2ch49:18 | Mrs Bae saw him through the glass before he reached the door, and did not look surprised.. |
+| 4 | b2ch49:38 | Mrs Bae put both hands on the desk with the book on it and left them there. |
+| 4 | b2ch49:58 | Mrs Bae looked at him for a moment and then, for the first time, sat down. |
+| 4 | b2ch49:126 | Mrs Bae took a moment, and when it came it came in order, the way it does from somebody .. |
+| 4 | b2ch49:150 | "He said: what did he look like. And I told him, and he said thank you." Mrs Bae lifted .. |
+| 4 | b2ch49:158 | "That is the part," said Mrs Bae. |
+| 4 | b2ch49:186 | Mrs Bae took that without flinching. |
+| 4 | b2ch49:230 | Mrs Bae looked at him for a long moment. |
+| 4 | b2ch49:262 | Mrs Bae did not follow it, and said so with her face and not her mouth. |
+| 4 | b2ch49:342 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
+
+### Zahlen in der Naehe von Bae
+
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b2ch41:66` (Tag 4) - one
+- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
+- `b2ch41:128` (Tag 5) - one
+- `b2ch41:212` (Tag 5) - five, one, six
+- `b2ch41:224` (Tag 5) - five, three, two
+- `b2ch47:94` (Tag 10) - twenty-two
+- `b2ch47:144` (Tag 10) - nine, three, twenty
+- `b2ch47:248` (Tag 10) - one, two
+- `b2ch49:342` (Tag 4) - two
+
+---
+
 ## Kim Do-yun
 
 31 Nennungen in 9 Kapiteln.
@@ -2959,49 +3021,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:286` (Tag 61) - eleven, four, one
 - `b2ch43:18` (Tag 5) - one
 - `b2ch43:234` (Tag 5) - one, six
-
----
-
-## Bae
-
-20 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | b1ch03:168 | Bae's jaw moved. |
-| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
-| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
-| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
-| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
-| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
-| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
-| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
-| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
-| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
-| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
-| 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
-| 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
-| 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
-| 10 | b2ch47:258 | *Mrs Bae, 23 June. Telephoned a man.* |
-
-### Zahlen in der Naehe von Bae
-
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch05:128` (Tag 4) - one, three, two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b2ch41:66` (Tag 4) - one
-- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
-- `b2ch41:128` (Tag 5) - one
-- `b2ch41:212` (Tag 5) - five, one, six
-- `b2ch41:224` (Tag 5) - five, three, two
-- `b2ch47:94` (Tag 10) - twenty-two
-- `b2ch47:144` (Tag 10) - nine, three, twenty
-- `b2ch47:248` (Tag 10) - one, two
 
 ---
 
