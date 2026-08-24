@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 688 | 74 (b1ch01-b2ch55) | 1 | 74 |
+| Annie | 689 | 75 (b1ch01-b2ch57) | 1 | 74 |
 | Park Sang-hoon | 273 | 41 (b1ch10-b2ch51) | 1 | 74 |
+| Chairman Woo | 177 | 31 (b1ch07-b2ch57) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
-| Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
-| Mrs Seo | 78 | 34 (b1ch03-b2ch54) | 1 | 74 |
+| Mrs Seo | 80 | 35 (b1ch03-b2ch57) | 1 | 74 |
 | Mr Hwang | 71 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Mr Yeo | 55 | 9 (b1ch05-b2ch55) | 5 | 46 |
@@ -40,8 +40,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Choi Dae-ho | 21 | 12 (b1ch07-b2ch48) | 2 | 61 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Mrs Ryu | 20 | 4 (b1ch07-b2ch57) | 21 | 59 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
-| Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-688 Nennungen in 74 Kapiteln.
+689 Nennungen in 75 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -750,6 +750,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:212 | Annie listened to the whole of it standing in the doorway with one hand on the frame. |
 | 16 | b2ch55:236 | "You have. And I have let you, because it is my house and my money and the line on that .. |
 | 16 | b2ch55:256 | Annie came round the desk and stood behind the chair. |
+| 21 | b2ch57:418 | It was a page out of Annie's own hand, and it was eleven lines long, and it was the seco.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -944,6 +945,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:290` (Tag 10) - four
 - `b2ch54:314` (Tag 10) - one
 - `b2ch55:212` (Tag 16) - one
+- `b2ch57:418` (Tag 21) - eleven
 
 ---
 
@@ -1355,6 +1357,300 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Chairman Woo
+
+177 Nennungen in 31 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
+| 22 | b1ch07:104 | Chairman Woo's face did what faces do. |
+| 22 | b1ch07:112 | "Ten," said Chairman Woo. |
+| 22 | b1ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
+| 22 | b1ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 22 | b1ch08:156 | Chairman Woo found him at ten to nine, and he had four people with him. |
+| 22 | b1ch08:158 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
+| 22 | b1ch08:176 | "There you are," said Chairman Woo, thrilled. |
+| 22 | b1ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
+| 22 | b1ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
+| 22 | b1ch10:14 | "There he is," said Chairman Woo. |
+| 22 | b1ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
+| 22 | b1ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
+| 22 | b1ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
+| 22 | b1ch10:56 | "Somebody at a dinner," said Chairman Woo. |
+| 22 | b1ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
+| 22 | b1ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
+| 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
+| 22 | b1ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
+| 23 | b1ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
+| 26 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 27 | b1ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
+| 27 | b1ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
+| 27 | b1ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
+| 27 | b1ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
+| 27 | b1ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
+| 27 | b1ch13:164 | Chairman Woo looked at him for a moment. |
+| 27 | b1ch13:182 | Woo said nothing for a while. |
+| 27 | b1ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
+| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 27 | b1ch13:202 | Woo looked up. |
+| 27 | b1ch13:210 | Chairman Woo did not react to Hong Kong. |
+| 27 | b1ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
+| 27 | b1ch13:228 | Chairman Woo put his chopsticks down. |
+| 27 | b1ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
+| 27 | b1ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
+| 34 | b1ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
+| 48 | b1ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
+| 48 | b1ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
+| 48 | b1ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
+| 48 | b1ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
+| 48 | b1ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
+| 48 | b1ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
+| 48 | b1ch19:42 | "Well," said Woo. |
+| 48 | b1ch19:56 | Chairman Woo looked out at the water. |
+| 48 | b1ch19:64 | "You want something," said Woo. |
+| 48 | b1ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
+| 48 | b1ch19:104 | Chairman Woo did not pick the paper up straight away. |
+| 48 | b1ch19:132 | Woo put the paper down and looked at him. |
+| 48 | b1ch19:148 | Chairman Woo did not say anything. |
+| 48 | b1ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
+| 48 | b1ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
+| 48 | b1ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
+| 48 | b1ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
+| 48 | b1ch19:210 | Chairman Woo unfolded the sheet. |
+| 48 | b1ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
+| 48 | b1ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
+| 48 | b1ch19:254 | Chairman Woo poured the last of the tea. |
+| 48 | b1ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
+| 48 | b1ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
+| 48 | b1ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
+| 48 | b1ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
+| 48 | b1ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
+| 48 | b1ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
+| 48 | b1ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
+| 49 | b1ch20:218 | "Then find Chairman Woo a house." |
+| 49 | b1ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
+| 49 | b1ch21:60 | "Woo signed." |
+| 49 | b1ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
+| 49 | b1ch21:218 | "Woo at seven." |
+| 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
+| 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be through the door .. |
+| 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
+| 55 | b1ch24:108 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 59 | b1ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
+| 59 | b1ch25:66 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
+| 59 | b1ch25:240 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
+| 59 | b1ch25:264 | "The photographer goes at nine," said Woo. |
+| 59 | b1ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
+| 59 | b1ch25:292 | "Good," said Woo. "Do not do it again this year." |
+| 3 | b1ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
+| 6 | b1ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
+| 6 | b1ch26:126 | "Woo does not sign these," said the cousin. |
+| 6 | b1ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
+| 6 | b1ch26:310 | He put his hand back on Woo's contract. |
+| 7 | b1ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
+| 7 | b1ch27:66 | "And Woo." |
+| 7 | b1ch27:80 | "You want to put Woo on her land." |
+| 9 | b1ch27:118 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
+| 9 | b1ch27:128 | Woo made a noise that was not a word. |
+| 9 | b1ch27:148 | Woo laughed, badly, the way he had laughed at his own crane in October. |
+| 9 | b1ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
+| 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
+| 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
+| - | b1ch28:66 | "Woo at seven," she said. "And the Kims." |
+| - | b1ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| 74 | b1ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
+| 74 | b1ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
+| 74 | b1ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
+| 74 | b1ch29:92 | "Chairman Woo. This is Kim Sung-ho, whose father you used to shout at." |
+| 74 | b1ch29:94 | "His father deserved it," said Woo. |
+| 74 | b1ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
+| 74 | b1ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
+| 74 | b1ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
+| 74 | b1ch29:206 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
+| 74 | b1ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
+| 74 | b1ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
+| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
+| 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
+| 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
+| 74 | b1ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
+| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 5 | b1ch31:322 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
+| 5 | b1ch31:338 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
+| 5 | b1ch31:348 | Woo did not say anything for a second. |
+| 5 | b1ch31:366 | Chairman Woo was quiet for long enough that Georgij checked the line. |
+| 5 | b1ch31:368 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
+| 5 | b1ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
+| - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
+| 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
+| 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
+| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in November as well. |
+| 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
+| 9 | b2ch13:84 | Woo did not answer for a moment. |
+| 9 | b2ch13:102 | Woo sat back and looked at him. |
+| 9 | b2ch13:126 | Woo did not say anything for a while. |
+| 9 | b2ch13:144 | "That is either the most honest thing anybody has said to me this year or it is the most.. |
+| 9 | b2ch13:150 | "Now tell me what it is for," said Woo, "because five firms do not need work in the midd.. |
+| 9 | b2ch13:162 | Woo listened to the whole of it without moving. |
+| 9 | b2ch13:178 | "I am seventy-eight," said Woo. "I have finished four men in my life and I remember the .. |
+| 9 | b2ch13:184 | "Yes." Woo pulled a pad towards him. "Seven years." |
+| 9 | b2ch13:200 | At the car, at the end, Woo did the thing he did in October, which is to give away somet.. |
+| 9 | b2ch13:210 | "At a lunch. Six of us, one of those things the port authority does in the new year." Wo.. |
+| 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
+| 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
+| 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
+| 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check. Chairman Woo will co.. |
+| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
+| 4 | b2ch14:180 | That is what he promised her on the third of April. It was not a figure of speech, and W.. |
+| 4 | b2ch14:270 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
+| 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
+| 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
+| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in November, after the pape.. |
+| 21 | b2ch57:22 | Chairman Woo came out to the car himself, which is the third time. |
+| 21 | b2ch57:50 | Woo stopped with his hand on the back of his own chair. |
+| 21 | b2ch57:70 | Woo sat down. |
+| 21 | b2ch57:106 | Woo did not perform anything. |
+| 21 | b2ch57:126 | "Then it is a business," said Woo. |
+| 21 | b2ch57:134 | "No. Hear the whole of it, because you have said yes too quickly and you are not usually.. |
+| 21 | b2ch57:142 | "You have the one who pays," said Woo. "You told me that in the first two minutes and yo.. |
+| 21 | b2ch57:150 | "He is the weakest point and he is not the useful one." Woo tapped the desk once with tw.. |
+| 21 | b2ch57:158 | Then Woo went quiet, and it was a different quiet from the first one. |
+| 21 | b2ch57:170 | "I am aware of the arrangement. I made most of it." Woo looked out at the water for a mo.. |
+| 21 | b2ch57:178 | "I have never told anybody about the other one," said Woo. |
+| 21 | b2ch57:186 | Two containers, a declaration that had been made by a man who no longer worked for him, .. |
+| 21 | b2ch57:198 | "A young man came out to the yard. On his own, in his own car, on a Wednesday in April.".. |
+| 21 | b2ch57:206 | "He asked me one question," said Woo. "Not about the declaration. He had the declaration.. |
+| 21 | b2ch57:214 | "He asked me who I would telephone if it went badly." Woo said it exactly, in the way of.. |
+| 21 | b2ch57:226 | "I named three men. I did it in about four seconds, which is the part I have had to live.. |
+| 21 | b2ch57:238 | Woo got there on his own, and it took him perhaps twenty seconds, and Georgij watched a .. |
+| 21 | b2ch57:242 | "He did not want it for the case," said Woo. |
+| 21 | b2ch57:250 | "He wanted to know who I had." Woo said it flatly and then he said the rest of it more s.. |
+| 21 | b2ch57:258 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
+| 21 | b2ch57:262 | "I am spending the three hours," said Woo. |
+| 21 | b2ch57:270 | "No," said Woo. "That is the entire reason I am able to. If you had asked me in April I .. |
+| 21 | b2ch57:286 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
+| 21 | b2ch57:302 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
+| 21 | b2ch57:322 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
+| 21 | b2ch57:330 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
+| 21 | b2ch57:350 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
+| 21 | b2ch57:366 | Woo took his hand off the roof of the car. |
+| 21 | b2ch57:382 | *Chairman Woo has been telling himself for twenty-three years that one of three men paid.. |
+
+### Zahlen in der Naehe von Chairman Woo
+
+- `b1ch07:92` (Tag 22) - four, ninety
+- `b1ch07:112` (Tag 22) - ten
+- `b1ch07:124` (Tag 22) - four
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b1ch08:156` (Tag 22) - four, nine, ten
+- `b1ch08:158` (Tag 22) - one
+- `b1ch09:48` (Tag 22) - four, nine
+- `b1ch11:38` (Tag 22) - four, six, two
+- `b1ch11:214` (Tag 22) - eleven, twenty-five
+- `b1ch11:242` (Tag 22) - fourteen, one
+- `b1ch12:68` (Tag 23) - nine, three
+- `b1ch12:138` (Tag 26) - four
+- `b1ch13:104` (Tag 27) - eight
+- `b1ch13:114` (Tag 27) - forty, one
+- `b1ch13:136` (Tag 27) - eighty, one, twenty
+- `b1ch13:190` (Tag 27) - one
+- `b1ch13:194` (Tag 27) - one, three
+- `b1ch13:246` (Tag 27) - six
+- `b1ch14:144` (Tag 34) - fifty-one
+- `b1ch18:288` (Tag 48) - nine, one, three
+- `b1ch19:16` (Tag 48) - fifty
+- `b1ch19:162` (Tag 48) - three, twenty
+- `b1ch19:176` (Tag 48) - fifty-one
+- `b1ch19:186` (Tag 48) - two
+- `b1ch19:198` (Tag 48) - two
+- `b1ch19:224` (Tag 48) - one
+- `b1ch19:302` (Tag 48) - one
+- `b1ch19:312` (Tag 48) - five
+- `b1ch19:318` (Tag 48) - two
+- `b1ch21:108` (Tag 49) - nine, seven, seventy-eight
+- `b1ch21:218` (Tag 49) - seven
+- `b1ch21:220` (Tag 49) - eight, nine, one, seven
+- `b1ch21:418` (Tag 49) - six
+- `b1ch23:188` (Tag 55) - four
+- `b1ch24:108` (Tag 55) - one
+- `b1ch25:58` (Tag 59) - one, three
+- `b1ch25:66` (Tag 59) - three
+- `b1ch25:240` (Tag 59) - two
+- `b1ch25:264` (Tag 59) - nine
+- `b1ch26:50` (Tag 3) - one, two
+- `b1ch26:118` (Tag 6) - seven
+- `b1ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
+- `b1ch27:58` (Tag 7) - one, seven, three, two
+- `b1ch27:118` (Tag 9) - four, three
+- `b1ch27:162` (Tag 9) - one, seven
+- `b1ch27:184` (Tag 9) - four, ninety, seven, three
+- `b1ch27:294` (Tag 9) - four, six
+- `b1ch28:66` (Tag ?) - seven
+- `b1ch28:146` (Tag ?) - four, one, two
+- `b1ch29:40` (Tag 74) - four, seven
+- `b1ch29:46` (Tag 74) - seventy-eight
+- `b1ch29:56` (Tag 74) - forty
+- `b1ch29:104` (Tag 74) - two
+- `b1ch29:134` (Tag 74) - nine
+- `b1ch29:158` (Tag 74) - two
+- `b1ch30:32` (Tag 74) - seventy-eight
+- `b1ch30:162` (Tag 74) - one
+- `b1ch30:410` (Tag 74) - one
+- `b1ch31:24` (Tag 74) - four, twenty-nine
+- `b1ch31:28` (Tag 74) - four, three
+- `b1ch31:34` (Tag 74) - four, one, three
+- `b1ch31:92` (Tag 74) - nine, seven, six, twelve, two
+- `b1ch31:228` (Tag 74) - one
+- `b1ch31:322` (Tag 5) - eight, seventy-eight, two
+- `b1ch31:338` (Tag 5) - eleven, twenty-two
+- `b1ch31:368` (Tag 5) - nine
+- `b1ch31:386` (Tag 5) - one
+- `b1ch32:98` (Tag ?) - four, two
+- `b1ch34:46` (Tag 46) - seven, two
+- `b2ch11:146` (Tag 1) - three, twenty
+- `b2ch13:72` (Tag 9) - three
+- `b2ch13:144` (Tag 9) - twenty-seven
+- `b2ch13:150` (Tag 9) - five, one
+- `b2ch13:178` (Tag 9) - four, four and two, seventy-eight
+- `b2ch13:184` (Tag 9) - seven
+- `b2ch13:210` (Tag 9) - one, six
+- `b2ch13:234` (Tag 9) - fifteen, five
+- `b2ch14:32` (Tag 4) - five, four, one, seven, six
+- `b2ch14:100` (Tag 4) - five, seven
+- `b2ch14:180` (Tag 4) - seven
+- `b2ch14:270` (Tag 4) - five, six, three
+- `b2ch15:52` (Tag 4) - five, six
+- `b2ch20:36` (Tag 11) - four, seven, twenty, two
+- `b2ch38:230` (Tag 59) - one, three
+- `b2ch38:371` (Tag 59) - three, two
+- `b2ch57:134` (Tag 21) - four hundred
+- `b2ch57:142` (Tag 21) - one, two
+- `b2ch57:150` (Tag 21) - fifty-one, one, two
+- `b2ch57:158` (Tag 21) - one
+- `b2ch57:170` (Tag 21) - fifty-one, four hundred, one, two
+- `b2ch57:178` (Tag 21) - one
+- `b2ch57:186` (Tag 21) - two
+- `b2ch57:198` (Tag 21) - forty, one, thirty-five, thirty-six, twenty-three
+- `b2ch57:206` (Tag 21) - one
+- `b2ch57:226` (Tag 21) - four, six, three
+- `b2ch57:238` (Tag 21) - seventy-eight, twenty
+- `b2ch57:250` (Tag 21) - one, three, twenty-three, two
+- `b2ch57:258` (Tag 21) - fourteen, three, twenty-three
+- `b2ch57:262` (Tag 21) - three
+- `b2ch57:286` (Tag 21) - seventy-eight, two, two thousand and two
+- `b2ch57:322` (Tag 21) - nine hundred, one, six, ten
+- `b2ch57:330` (Tag 21) - four, one
+- `b2ch57:350` (Tag 21) - one
+- `b2ch57:382` (Tag 21) - one, three, twenty-three
+
+---
+
 ## Hana
 
 165 Nennungen in 19 Kapiteln.
@@ -1595,252 +1891,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Chairman Woo
-
-148 Nennungen in 30 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:92 | Chairman Woo came at them within ninety seconds, because Chairman Woo comes at everybody.. |
-| 22 | b1ch07:104 | Chairman Woo's face did what faces do. |
-| 22 | b1ch07:112 | "Ten," said Chairman Woo. |
-| 22 | b1ch07:124 | Chairman Woo took a breath, and Georgij had four minutes of his life back. |
-| 22 | b1ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 22 | b1ch08:156 | Chairman Woo found him at ten to nine, and he had four people with him. |
-| 22 | b1ch08:158 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
-| 22 | b1ch08:176 | "There you are," said Chairman Woo, thrilled. |
-| 22 | b1ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
-| 22 | b1ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
-| 22 | b1ch10:14 | "There he is," said Chairman Woo. |
-| 22 | b1ch10:16 | The old man had reached the stage of the evening where he had stopped moving and was let.. |
-| 22 | b1ch10:24 | Chairman Woo looked extremely pleased and made a determined effort not to. |
-| 22 | b1ch10:34 | "Thursday," said Chairman Woo, immediately, having clearly not intended to say anything .. |
-| 22 | b1ch10:56 | "Somebody at a dinner," said Chairman Woo. |
-| 22 | b1ch11:38 | Woo first, because Woo was first: four minutes on Yeongjong, the tonnage financed by som.. |
-| 22 | b1ch11:50 | "Now I think a man who deflects a harmless question isn't being private. He's covering s.. |
-| 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
-| 22 | b1ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
-| 23 | b1ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
-| 26 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
-| 27 | b1ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
-| 27 | b1ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
-| 27 | b1ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
-| 27 | b1ch13:136 | "I could fund it. I could not fund it and also sleep." Woo pushed his bowl away. "Eighty.. |
-| 27 | b1ch13:156 | "Somebody deciding you're worth the trouble." Woo shrugged. "After that it's paperwork." |
-| 27 | b1ch13:164 | Chairman Woo looked at him for a moment. |
-| 27 | b1ch13:182 | Woo said nothing for a while. |
-| 27 | b1ch13:190 | "He did not give anybody a card. He was not that sort." Woo turned the spoon over. "He a.. |
-| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
-| 27 | b1ch13:202 | Woo looked up. |
-| 27 | b1ch13:210 | Chairman Woo did not react to Hong Kong. |
-| 27 | b1ch13:218 | At some point Woo told a story about a shipping agent in Busan in 1994 that was very fun.. |
-| 27 | b1ch13:228 | Chairman Woo put his chopsticks down. |
-| 27 | b1ch13:246 | "Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the in.. |
-| 27 | b1ch13:268 | At some point in the next month he was going to need Chairman Woo to do something expens.. |
-| 34 | b1ch14:144 | "Customers never come back for money. They come back because somebody they trust is stan.. |
-| 48 | b1ch18:218 | "Chairman Woo. I want him standing next to the Kims, in public and on paper, before the .. |
-| 48 | b1ch18:288 | Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have.. |
-| 48 | b1ch18:298 | Twice this year somebody had tried to buy the terminal at Yeongjong and had refused to s.. |
-| 48 | b1ch18:308 | It was the shape of the door the name walks through, and it had cost Annie nothing at al.. |
-| 48 | b1ch19:16 | Chairman Woo met him at the gate in a coat that had cost less than anything Georgij had .. |
-| 48 | b1ch19:36 | The second was that Chairman Woo was watching him look at it, and had been since the gate. |
-| 48 | b1ch19:42 | "Well," said Woo. |
-| 48 | b1ch19:56 | Chairman Woo looked out at the water. |
-| 48 | b1ch19:64 | "You want something," said Woo. |
-| 48 | b1ch19:82 | Woo sat down heavily, the way a man does when his back has an opinion. |
-| 48 | b1ch19:104 | Chairman Woo did not pick the paper up straight away. |
-| 48 | b1ch19:132 | Woo put the paper down and looked at him. |
-| 48 | b1ch19:148 | Chairman Woo did not say anything. |
-| 48 | b1ch19:162 | "Twenty per cent of this," said Woo, "has been owed since the year I built it, to a fund.. |
-| 48 | b1ch19:176 | "It took me fifty-one years." Woo pulled the contract towards him. "Give me a pen." |
-| 48 | b1ch19:186 | "Of course it is inside. I am not going to be the reason a boy has to telephone a woman .. |
-| 48 | b1ch19:198 | The tea came, and it was terrible, and Woo drank two cups of it. |
-| 48 | b1ch19:210 | Chairman Woo unfolded the sheet. |
-| 48 | b1ch19:224 | Chairman Woo looked at the sheet for a long time, and then he put one finger on the seco.. |
-| 48 | b1ch19:244 | "You have given me something," said Chairman Woo eventually. "And you did it after I sig.. |
-| 48 | b1ch19:254 | Chairman Woo poured the last of the tea. |
-| 48 | b1ch19:266 | "She asks them." Woo repeated it without any weight anywhere. "And what happens to a man.. |
-| 48 | b1ch19:280 | "You came out here to save a family," said Chairman Woo, "so that the woman who owns you.. |
-| 48 | b1ch19:292 | "That is exactly it." Woo was almost pleased. "You do understand it. I was not sure whet.. |
-| 48 | b1ch19:302 | "Because in about a year a man in this trade will find that his boxes keep missing saili.. |
-| 48 | b1ch19:312 | "Don't." Woo was already standing up. "I have given you a bad afternoon and you have giv.. |
-| 48 | b1ch19:318 | Georgij told him about the drainage on the east side of the shed, which was two things. .. |
-| 48 | b1ch19:330 | "You have not got a house either." Woo looked at him for slightly too long, in a way tha.. |
-| 49 | b1ch20:218 | "Then find Chairman Woo a house." |
-| 49 | b1ch21:56 | "I need a house with a family in it, before the end of the year," said Georgij. "Not a h.. |
-| 49 | b1ch21:60 | "Woo signed." |
-| 49 | b1ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
-| 49 | b1ch21:218 | "Woo at seven." |
-| 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be through the door .. |
-| 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
-| 55 | b1ch24:108 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
-| 59 | b1ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
-| 59 | b1ch25:66 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
-| 59 | b1ch25:240 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
-| 59 | b1ch25:264 | "The photographer goes at nine," said Woo. |
-| 59 | b1ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
-| 59 | b1ch25:292 | "Good," said Woo. "Do not do it again this year." |
-| 3 | b1ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
-| 6 | b1ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
-| 6 | b1ch26:126 | "Woo does not sign these," said the cousin. |
-| 6 | b1ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
-| 6 | b1ch26:310 | He put his hand back on Woo's contract. |
-| 7 | b1ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
-| 7 | b1ch27:66 | "And Woo." |
-| 7 | b1ch27:80 | "You want to put Woo on her land." |
-| 9 | b1ch27:118 | Chairman Woo said yes in about four minutes, which was three and a half minutes longer t.. |
-| 9 | b1ch27:128 | Woo made a noise that was not a word. |
-| 9 | b1ch27:148 | Woo laughed, badly, the way he had laughed at his own crane in October. |
-| 9 | b1ch27:162 | "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except o.. |
-| 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
-| 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
-| - | b1ch28:66 | "Woo at seven," she said. "And the Kims." |
-| - | b1ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
-| 74 | b1ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
-| 74 | b1ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
-| 74 | b1ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
-| 74 | b1ch29:92 | "Chairman Woo. This is Kim Sung-ho, whose father you used to shout at." |
-| 74 | b1ch29:94 | "His father deserved it," said Woo. |
-| 74 | b1ch29:104 | Woo had his stick back and was pointing at the 1974 photograph with it. Sung-ho stood at.. |
-| 74 | b1ch29:134 | "Kang comes at half past," he said. "Chairman Woo will still be here. At half past nine .. |
-| 74 | b1ch29:158 | "On Thursday there is going to be a photograph of Chairman Woo standing with that family.. |
-| 74 | b1ch29:206 | Woo was in the chair by the window that nobody had asked him about, with the cousin sitt.. |
-| 74 | b1ch30:32 | Then to the old man in the chair by the window. Chairman Woo got up for her, which at se.. |
-| 74 | b1ch30:162 | "The third thing is a question, and it is the only reason I asked to be out here, and it.. |
-| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
-| 74 | b1ch31:24 | "Then you know more than my own hall does." Hana put the tray down on the sill and left .. |
-| 74 | b1ch31:28 | "A photograph of a hatch cover." She was pleased about it in a way she was not going to .. |
-| 74 | b1ch31:34 | "The fourth minute Woo asked him whether the ministry had finished with the shipping des.. |
-| 74 | b1ch31:92 | He gave her the two minutes to nine and the coat she carried in over her arm. He gave he.. |
-| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 5 | b1ch31:322 | He telephoned Chairman Woo at eight, from the passage, because a man of seventy-eight ha.. |
-| 5 | b1ch31:338 | "Twenty-two minutes." Woo made a noise. "It took me eleven months to get her brother to .. |
-| 5 | b1ch31:348 | Woo did not say anything for a second. |
-| 5 | b1ch31:366 | Chairman Woo was quiet for long enough that Georgij checked the line. |
-| 5 | b1ch31:368 | "He was a small man with bad teeth," said Woo at last, "and he has been dead since 2011,.. |
-| 5 | b1ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
-| - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
-| 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
-| 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
-| 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in November as well. |
-| 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
-| 9 | b2ch13:84 | Woo did not answer for a moment. |
-| 9 | b2ch13:102 | Woo sat back and looked at him. |
-| 9 | b2ch13:126 | Woo did not say anything for a while. |
-| 9 | b2ch13:144 | "That is either the most honest thing anybody has said to me this year or it is the most.. |
-| 9 | b2ch13:150 | "Now tell me what it is for," said Woo, "because five firms do not need work in the midd.. |
-| 9 | b2ch13:162 | Woo listened to the whole of it without moving. |
-| 9 | b2ch13:178 | "I am seventy-eight," said Woo. "I have finished four men in my life and I remember the .. |
-| 9 | b2ch13:184 | "Yes." Woo pulled a pad towards him. "Seven years." |
-| 9 | b2ch13:200 | At the car, at the end, Woo did the thing he did in October, which is to give away somet.. |
-| 9 | b2ch13:210 | "At a lunch. Six of us, one of those things the port authority does in the new year." Wo.. |
-| 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
-| 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
-| 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
-| 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check. Chairman Woo will co.. |
-| 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
-| 4 | b2ch14:180 | That is what he promised her on the third of April. It was not a figure of speech, and W.. |
-| 4 | b2ch14:270 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
-| 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
-| 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in November, after the pape.. |
-
-### Zahlen in der Naehe von Chairman Woo
-
-- `b1ch07:92` (Tag 22) - four, ninety
-- `b1ch07:112` (Tag 22) - ten
-- `b1ch07:124` (Tag 22) - four
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b1ch08:156` (Tag 22) - four, nine, ten
-- `b1ch08:158` (Tag 22) - one
-- `b1ch09:48` (Tag 22) - four, nine
-- `b1ch11:38` (Tag 22) - four, six, two
-- `b1ch11:214` (Tag 22) - eleven, twenty-five
-- `b1ch11:242` (Tag 22) - fourteen, one
-- `b1ch12:68` (Tag 23) - nine, three
-- `b1ch12:138` (Tag 26) - four
-- `b1ch13:104` (Tag 27) - eight
-- `b1ch13:114` (Tag 27) - forty, one
-- `b1ch13:136` (Tag 27) - eighty, one, twenty
-- `b1ch13:190` (Tag 27) - one
-- `b1ch13:194` (Tag 27) - one, three
-- `b1ch13:246` (Tag 27) - six
-- `b1ch14:144` (Tag 34) - fifty-one
-- `b1ch18:288` (Tag 48) - nine, one, three
-- `b1ch19:16` (Tag 48) - fifty
-- `b1ch19:162` (Tag 48) - three, twenty
-- `b1ch19:176` (Tag 48) - fifty-one
-- `b1ch19:186` (Tag 48) - two
-- `b1ch19:198` (Tag 48) - two
-- `b1ch19:224` (Tag 48) - one
-- `b1ch19:302` (Tag 48) - one
-- `b1ch19:312` (Tag 48) - five
-- `b1ch19:318` (Tag 48) - two
-- `b1ch21:108` (Tag 49) - nine, seven, seventy-eight
-- `b1ch21:218` (Tag 49) - seven
-- `b1ch21:220` (Tag 49) - eight, nine, one, seven
-- `b1ch21:418` (Tag 49) - six
-- `b1ch23:188` (Tag 55) - four
-- `b1ch24:108` (Tag 55) - one
-- `b1ch25:58` (Tag 59) - one, three
-- `b1ch25:66` (Tag 59) - three
-- `b1ch25:240` (Tag 59) - two
-- `b1ch25:264` (Tag 59) - nine
-- `b1ch26:50` (Tag 3) - one, two
-- `b1ch26:118` (Tag 6) - seven
-- `b1ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
-- `b1ch27:58` (Tag 7) - one, seven, three, two
-- `b1ch27:118` (Tag 9) - four, three
-- `b1ch27:162` (Tag 9) - one, seven
-- `b1ch27:184` (Tag 9) - four, ninety, seven, three
-- `b1ch27:294` (Tag 9) - four, six
-- `b1ch28:66` (Tag ?) - seven
-- `b1ch28:146` (Tag ?) - four, one, two
-- `b1ch29:40` (Tag 74) - four, seven
-- `b1ch29:46` (Tag 74) - seventy-eight
-- `b1ch29:56` (Tag 74) - forty
-- `b1ch29:104` (Tag 74) - two
-- `b1ch29:134` (Tag 74) - nine
-- `b1ch29:158` (Tag 74) - two
-- `b1ch30:32` (Tag 74) - seventy-eight
-- `b1ch30:162` (Tag 74) - one
-- `b1ch30:410` (Tag 74) - one
-- `b1ch31:24` (Tag 74) - four, twenty-nine
-- `b1ch31:28` (Tag 74) - four, three
-- `b1ch31:34` (Tag 74) - four, one, three
-- `b1ch31:92` (Tag 74) - nine, seven, six, twelve, two
-- `b1ch31:228` (Tag 74) - one
-- `b1ch31:322` (Tag 5) - eight, seventy-eight, two
-- `b1ch31:338` (Tag 5) - eleven, twenty-two
-- `b1ch31:368` (Tag 5) - nine
-- `b1ch31:386` (Tag 5) - one
-- `b1ch32:98` (Tag ?) - four, two
-- `b1ch34:46` (Tag 46) - seven, two
-- `b2ch11:146` (Tag 1) - three, twenty
-- `b2ch13:72` (Tag 9) - three
-- `b2ch13:144` (Tag 9) - twenty-seven
-- `b2ch13:150` (Tag 9) - five, one
-- `b2ch13:178` (Tag 9) - four, four and two, seventy-eight
-- `b2ch13:184` (Tag 9) - seven
-- `b2ch13:210` (Tag 9) - one, six
-- `b2ch13:234` (Tag 9) - fifteen, five
-- `b2ch14:32` (Tag 4) - five, four, one, seven, six
-- `b2ch14:100` (Tag 4) - five, seven
-- `b2ch14:180` (Tag 4) - seven
-- `b2ch14:270` (Tag 4) - five, six, three
-- `b2ch15:52` (Tag 4) - five, six
-- `b2ch20:36` (Tag 11) - four, seven, twenty, two
-- `b2ch38:230` (Tag 59) - one, three
-- `b2ch38:371` (Tag 59) - three, two
-
----
-
 ## Jang
 
 136 Nennungen in 31 Kapiteln.
@@ -2059,7 +2109,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-78 Nennungen in 34 Kapiteln.
+80 Nennungen in 35 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2141,6 +2191,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch54:40 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
 | 10 | b2ch54:234 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
 | 10 | b2ch54:366 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
+| 21 | b2ch57:406 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 21 | b2ch57:414 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3287,6 +3339,44 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Ryu
+
+20 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
+| 53 | b2ch37:6 | Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and .. |
+| 53 | b2ch37:22 | Mr Ryu put the kettle down. |
+| 53 | b2ch37:38 | "I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two.. |
+| 53 | b2ch37:54 | Mr Ryu looked at that for a while. |
+| 53 | b2ch37:66 | Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men .. |
+| 53 | b2ch37:78 | The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it .. |
+| 53 | b2ch37:90 | Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first d.. |
+| 53 | b2ch37:110 | Mr Ryu did not answer straight away, and when he did his voice had changed by exactly th.. |
+| 53 | b2ch37:122 | Mr Ryu put both hands on the desk. |
+| 53 | b2ch37:138 | "I asked because he had not been introduced," said Mr Ryu, and it came out of him in one.. |
+| 53 | b2ch37:158 | Mr Ryu sat back. |
+| 53 | b2ch37:186 | Mr Ryu did not move for a long moment. |
+| 53 | b2ch37:210 | "What do you want from me," said Mr Ryu. |
+| 53 | b2ch37:226 | Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier. |
+| 53 | b2ch37:238 | Mr Ryu got up and came round the desk, and at the door he did something Georgij had not .. |
+| 53 | b2ch37:258 | Mr Ryu smiled back before he had decided to, which is what that smile is for, and then l.. |
+| 53 | b2ch37:280 | *Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the a.. |
+| 59 | b2ch38:325 | Mr Ryu he had never met. |
+| 21 | b2ch57:426 | *Ryu has telephoned two of them himself. I did not ask him to and he has not told me wha.. |
+
+### Zahlen in der Naehe von Mrs Ryu
+
+- `b2ch37:38` (Tag 53) - two
+- `b2ch37:66` (Tag 53) - two
+- `b2ch37:138` (Tag 53) - five, nine, one
+- `b2ch37:226` (Tag 53) - ten
+- `b2ch37:280` (Tag 53) - eleven, one
+- `b2ch57:426` (Tag 21) - two
+
+---
+
 ## Mr Byun
 
 19 Nennungen in 2 Kapiteln.
@@ -3323,42 +3413,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:238` (Tag 17) - two
 - `b2ch22:274` (Tag 17) - twenty-six
 - `b2ch23:16` (Tag 24) - one, three
-
----
-
-## Mrs Ryu
-
-19 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:166 | He asked Mrs Ryu about the arbitration. He asked her whether she had actually walked out.. |
-| 53 | b2ch37:6 | Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and .. |
-| 53 | b2ch37:22 | Mr Ryu put the kettle down. |
-| 53 | b2ch37:38 | "I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two.. |
-| 53 | b2ch37:54 | Mr Ryu looked at that for a while. |
-| 53 | b2ch37:66 | Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men .. |
-| 53 | b2ch37:78 | The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it .. |
-| 53 | b2ch37:90 | Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first d.. |
-| 53 | b2ch37:110 | Mr Ryu did not answer straight away, and when he did his voice had changed by exactly th.. |
-| 53 | b2ch37:122 | Mr Ryu put both hands on the desk. |
-| 53 | b2ch37:138 | "I asked because he had not been introduced," said Mr Ryu, and it came out of him in one.. |
-| 53 | b2ch37:158 | Mr Ryu sat back. |
-| 53 | b2ch37:186 | Mr Ryu did not move for a long moment. |
-| 53 | b2ch37:210 | "What do you want from me," said Mr Ryu. |
-| 53 | b2ch37:226 | Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier. |
-| 53 | b2ch37:238 | Mr Ryu got up and came round the desk, and at the door he did something Georgij had not .. |
-| 53 | b2ch37:258 | Mr Ryu smiled back before he had decided to, which is what that smile is for, and then l.. |
-| 53 | b2ch37:280 | *Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the a.. |
-| 59 | b2ch38:325 | Mr Ryu he had never met. |
-
-### Zahlen in der Naehe von Mrs Ryu
-
-- `b2ch37:38` (Tag 53) - two
-- `b2ch37:66` (Tag 53) - two
-- `b2ch37:138` (Tag 53) - five, nine, one
-- `b2ch37:226` (Tag 53) - ten
-- `b2ch37:280` (Tag 53) - eleven, one
 
 ---
 

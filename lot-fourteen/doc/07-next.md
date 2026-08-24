@@ -73,9 +73,29 @@ herauskommt.
 Bruder hat die Konsignation unterschrieben, weil wer hineingeht nicht
 unterschreiben darf, und sie hat ihm das erst im Korridor gesagt.
 
-**Offen und faellig:** die uebrigen dreissig vom Tisch (als Wirkung schreiben,
-nicht als Aufzaehlung), Mrs Sunwoo, Chairman Woo und die drei ungetilgten
-Stunden, Nam Byung-hee, das Haus beenden, das Geld (Baek, der Trust - **erst
+**Kapitel 57 (Tag 318, Mo 17. August): Woo hat die drei Stunden ausgegeben**,
+ungefragt, nachdem Georgij ihm ausdruecklich gesagt hat, dass er nicht dafuer
+gekommen ist. Drei Dinge kommen daraus:
+
+1. **Choi hat vor 23 Jahren Woos Zollakte geschlossen** und dafuer nichts
+   genommen ausser einer Antwort: wen Woo anrufen wuerde, wenn es schiefgeht.
+   **Niemand hat bezahlt.** Damit hat der Feldzug seine Umkehrung: das Buch
+   endet damit, dass niemand mehr ans Telefon geht, und es faengt damit an, dass
+   Choi als Erstes wissen wollte, wen ein Mann anrufen kann.
+2. **Woo war selbst auf einem der Abendessen**, vor zehn Jahren, und steht nicht
+   auf Annies Einunddreissiger-Liste. Er findet es am Auto selbst heraus.
+   **Die Liste ist zu kurz, und das ist ab jetzt bekannt.**
+3. **Der naechste Zug ist nicht Baek, sondern der Besteller.** Woos Satz: der
+   Zahler sieht eine Summe im Monat, der Besteller weiss, welche Farbe die
+   Waende haben. Sauerstoff, Blumen, Heizung, Personal - jemand fuehrt das.
+
+**Und Annie hat am selben Abend eine Seite in die Halle gelegt:** Ryu hat von
+sich aus zwei vom Tisch angerufen. Der Feldzug laeuft jetzt auch ohne Georgij,
+und das ist die Frage, mit der Kapitel 58 aufmacht.
+
+**Offen und faellig:** der Besteller, Mrs Sunwoo, Woos Rueckruf (wer die Akte
+schliessen liess), die uebrigen vom Tisch (als Wirkung schreiben, nicht als
+Aufzaehlung), Nam Byung-hee, das Haus beenden, das Geld (Baek, der Trust - **erst
 wenn Annie sie auffangen kann**), das Zimmer, wie Choi es erfaehrt, das
 Endgespraech, die Schlusszeile. **Etwa zwoelf Kapitel, Landung bei ungefaehr 67.**
 

@@ -2530,6 +2530,35 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 - **Band 2, Kapitel 56** *Four streets* (v1.0) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
 
+- **Band 2, Kapitel 57** *Nobody paid* (v1.0) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
+  - Woo hatte vor **23 Jahren** (2002) eine Zollsache. Ein Staatsanwalt von
+    fuenfunddreissig oder sechsunddreissig kam allein in den Hof, ass das
+    Mittagessen nicht an und stellte **eine** Frage: *"who I would telephone if
+    it went badly."* Woo nannte drei Namen. Sechs Wochen spaeter war die Akte zu,
+    ohne Begruendung. **Niemand hat bezahlt.** Choi ist 59, war also 36. Deckt
+    sich mit Kapitel 26 (*"Former prosecutor, out early and nobody says why"*)
+    und mit Kapitel 27 (Annie mit vierzehn am Vatertisch, dreiundzwanzig Jahre).
+  - **Woo war vor zehn Jahren auf einem der Abendessen**, sechs Personen, privater
+    Raum, **niemand am Kopfende**. Im November danach hat er etwas fallenlassen,
+    das er vier Jahre gewollt hatte, und es seither seinem Alter zugeschrieben.
+    Er war 68. Er findet es am Auto selbst heraus, Georgij sagt es ihm nicht.
+    **Woo steht nicht auf Annies Einunddreissiger-Liste** - das ist ausdruecklich
+    im Text und der Grund, warum es kein Zufall ist, sondern die Aussage, dass die
+    Liste zu kurz ist.
+  - **Der Fund von Woo, strategisch:** der Zahler (Baek) sieht eine Summe im
+    Monat, der **Besteller** weiss, welche Farbe die Waende haben. Sauerstoff,
+    Blumen, Heizung, Personal - das ist ein Betrieb, und irgendwer fuehrt ihn.
+    Damit steht der naechste Zug fest und es ist nicht Baek.
+  - **Am Schluss:** Annie legt eine Seite in die Halle, elf Zeilen, Name zwei und
+    drei vom Tisch. Darunter: **Ryu hat von sich aus zwei von ihnen angerufen**,
+    ohne Auftrag, und ihr nicht gesagt, was er gesagt hat.
+  - Woos Finanzier aus B1 13 (*"what would happen to the terminal if I died on
+    the Tuesday"*) ist **nicht** Choi und darf nie mit ihm verwechselt werden.
+    Der Text benennt die beiden ausdruecklich als zwei verschiedene Maenner.
+
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
   vier Jahre aelter) gehoeren in das Geburtstagsregister.
