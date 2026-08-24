@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 10 Dokumente am Stueck plus das Begegnungsregister. 178.278 Woerter.
+Alle 10 Dokumente am Stueck plus das Begegnungsregister. 178.522 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -4143,7 +4143,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.5) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.6) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -4157,7 +4157,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v2.0) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v2.1) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -4220,7 +4220,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
-- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v2.1) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v2.3) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
 
   **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
 
@@ -4234,7 +4234,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *Four owners deep* (v2.0) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *Four owners deep* (v2.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -4836,7 +4836,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
 
-- **Band 2, Kapitel 47** *Twelve white stems* (v1.0) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
+- **Band 2, Kapitel 47** *Twelve white stems* (v1.1) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
@@ -4844,37 +4844,37 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 49** *What he asked her* (v1.0) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
+- **Band 2, Kapitel 49** *What he asked her* (v1.1) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.0) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.1) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 51** *The sixth one* (v1.0) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
+- **Band 2, Kapitel 51** *The sixth one* (v1.1) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.0) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.1) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 53** *The one I did not say in May* (v1.0) - **Tag 305, Di 4. August. "I am the February one."**
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.1) - **Tag 305, Di 4. August. "I am the February one."**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 54** *Clause eleven* (v1.0) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+- **Band 2, Kapitel 54** *Clause eleven* (v1.1) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 55** *Consigned by* (v1.1) - **Tag 313, Mi 12. August. Der Auskunftsstand ist nicht leer. Hand im Haar, das erste Mal seit dem 4. Juni.**
+- **Band 2, Kapitel 55** *Consigned by* (v1.2) - **Tag 313, Mi 12. August. Der Auskunftsstand ist nicht leer. Hand im Haar, das erste Mal seit dem 4. Juni.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.0) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.1) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
 
 - **Band 2, Kapitel 57** *Nobody paid* (v1.0) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
@@ -9010,7 +9010,38 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    (`chapters/ch08_v3_5_en.md`, *"...Yes."*), der einzige typografische
    Apostroph (`ch14`, *o'clock*) und das einzige Semikolon (`ch27`).
 
-10. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
+10. **Der Takt-Trenner ist keine Marke mehr.** Gezaehlt am 24.08. ueber den
+    ganzen Kanon:
+
+    | | Absaetze je Kapitel | Takt-Trenner je Kapitel | ein Trenner je |
+    |---|---|---|---|
+    | Band 1 | 143 | 16 | **8,5 Absaetze** |
+    | Band 2, Kapitel 1 bis 34 | 101 | 53 | **1,9 Absaetze** |
+    | Band 2, Kapitel 35 bis 56 | 100 | 90 | **1,1 Absaetze** |
+
+    In Kapitel 50, 52 und 53 stehen 92 Trenner auf 94 Absaetze. **Ein Zeichen,
+    das zwischen fast allem steht, unterscheidet nichts mehr.**
+
+    **Und es ist nicht nur die Quelle.** `build.py` macht aus jedem `---` in der
+    Einfuegefassung ein `* * *`. In `paste/band-2/ch52` steht damit ein
+    Szenentrenner zwischen jeder einzelnen Replik - und die Einfuegefassung ist
+    die, die auf die Plattform geht. Die HTML-Lesefassung desselben Kapitels hat
+    zweiundneunzig `<hr>`.
+
+    **Warum das hier steht und nicht schon gemacht ist:** Eine mechanische Regel
+    reicht nicht. Der naechstliegende Griff - jeden Trenner zwischen zwei
+    Repliken loeschen - nimmt 730 Stueck weg und laesst immer noch einen je 1,8
+    Absaetze stehen. Auf Band-1-Dichte kaeme man nur, indem man rund
+    fuenfzehnhundert Trenner einzeln beurteilt, und das ist die Seitengestalt von
+    vierzig Prozent des Buchs. **Das ist eine Entscheidung des Autors und keine
+    Reparatur.**
+
+    Die drei moeglichen Antworten: (a) so lassen und die Ungleichheit zwischen
+    den Baenden hinnehmen, (b) eine Zieldichte festlegen und den Bestand darauf
+    bringen, (c) nur die Regel fuer neue Kapitel festschreiben und den Altbestand
+    stehen lassen.
+
+11. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
     Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
     sondern zwei Mitglieder einer Familie: **ein eigener Satz, dessen einzige
     Aufgabe es ist, den Ton der eben gesprochenen Replik zu etikettieren.**
@@ -10211,16 +10242,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:226 | Annie waited, because she has learned that when he agrees that quickly there is a second.. |
 | 3 | b2ch40:242 | Annie looked at him for a moment. |
 | 3 | b2ch40:302 | Annie had not said anything through any of that. |
-| 5 | b2ch41:256 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
-| 5 | b2ch41:260 | He was not going to use it, and the reason had nothing to do with any rule Annie had eve.. |
-| 5 | b2ch41:272 | A house call four years ago, in July, with the travelling costing about three times the .. |
-| 5 | b2ch41:346 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
-| 5 | b2ch41:362 | "Say the rest of what you have on him," said Annie. |
-| 5 | b2ch41:376 | Annie was quiet on the line for a moment. |
-| 5 | b2ch41:396 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:418 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
-| 5 | b2ch41:426 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
-| 5 | b2ch41:434 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
+| 5 | b2ch41:244 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
+| 5 | b2ch41:248 | He was not going to use it, and the reason had nothing to do with any rule Annie had eve.. |
+| 5 | b2ch41:260 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 5 | b2ch41:330 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 5 | b2ch41:346 | "Say the rest of what you have on him," said Annie. |
+| 5 | b2ch41:360 | Annie was quiet on the line for a moment. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:410 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 5 | b2ch41:418 | "Then we will have found, in two evenings, without one door opened, the thing that has s.. |
 | 2 | b2ch42:186 | Georgij had the folded sheet in his inside pocket, where it has been since Tuesday of th.. |
 | 2 | b2ch42:316 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 5 | b2ch43:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
@@ -10444,12 +10475,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:366` (Tag 61) - seven, six, ten
 - `b2ch40:124` (Tag 3) - one
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:256` (Tag 5) - eight
-- `b2ch41:272` (Tag 5) - four, one, three
-- `b2ch41:396` (Tag 5) - one
-- `b2ch41:418` (Tag 5) - four, two
-- `b2ch41:426` (Tag 5) - one, two
-- `b2ch41:434` (Tag 5) - five, four, one, two
+- `b2ch41:244` (Tag 5) - eight
+- `b2ch41:260` (Tag 5) - four, one, three
+- `b2ch41:380` (Tag 5) - one
+- `b2ch41:402` (Tag 5) - four, two
+- `b2ch41:410` (Tag 5) - one, two
+- `b2ch41:418` (Tag 5) - five, four, one, two
 - `b2ch42:186` (Tag 2) - thirty-one
 - `b2ch42:316` (Tag 2) - eighteen
 - `b2ch43:10` (Tag 5) - three, two
@@ -10672,8 +10703,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
 | 3 | b2ch40:222 | "I agree with you about the road," he said. "I want that said in front of him and not to.. |
-| 5 | b2ch41:396 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:418 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:402 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 2 | b2ch42:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
 | 2 | b2ch42:18 | Sang-hoon left his hand flat on the folder. |
 | 2 | b2ch42:50 | Sang-hoon turned his glass a quarter turn and left it there. |
@@ -10839,8 +10870,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:252` (Tag 61) - eight
 - `b2ch39:258` (Tag 61) - hundred and forty
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:396` (Tag 5) - one
-- `b2ch41:418` (Tag 5) - four, two
+- `b2ch41:380` (Tag 5) - one
+- `b2ch41:402` (Tag 5) - four, two
 - `b2ch42:6` (Tag 2) - four
 - `b2ch42:94` (Tag 2) - eleven thousand
 - `b2ch42:130` (Tag 2) - four
@@ -11543,7 +11574,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:314 | Nobody answered him for a moment, and it was Jang who took it, because he was the only o.. |
 | 3 | b2ch40:326 | "It is still mine." Jang stood up then. "A man who watches a house for sixteen days and .. |
 | 3 | b2ch40:340 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
-| 5 | b2ch41:396 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:380 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:404 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 5 | b2ch43:86 | Jang telephoned at half past twelve, before Georgij had left for the restaurant, and sai.. |
 | 5 | b2ch43:98 | "The rota is nine people," said Jang. "Four cars, morning and evening, two of them carry.. |
@@ -11621,7 +11652,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:314` (Tag 3) - one
 - `b2ch40:326` (Tag 3) - one, sixteen
 - `b2ch40:340` (Tag 3) - one, six
-- `b2ch41:396` (Tag 5) - one
+- `b2ch41:380` (Tag 5) - one
 - `b2ch42:404` (Tag 2) - eleven, one, two
 - `b2ch43:86` (Tag 5) - twelve
 - `b2ch43:98` (Tag 5) - four, nine, ten, two
@@ -11949,7 +11980,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:320 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 5 | b2ch41:290 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
+| 5 | b2ch41:278 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:376 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
 | 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
@@ -11976,7 +12007,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 - `b2ch38:230` (Tag 59) - one, three
-- `b2ch41:290` (Tag 5) - forty, one, six
+- `b2ch41:278` (Tag 5) - forty, one, six
 - `b2ch42:376` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
 - `b2ch43:66` (Tag 5) - forty, one
@@ -12019,7 +12050,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
 | 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
 | 46 | b2ch34:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
-| 5 | b2ch41:176 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
+| 5 | b2ch41:164 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
 | 8 | b2ch53:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 8 | b2ch53:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
 | 8 | b2ch53:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
@@ -12064,7 +12095,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:236` (Tag 32) - twenty
 - `b2ch25:304` (Tag 32) - ten, three
 - `b2ch34:80` (Tag 46) - thirty
-- `b2ch41:176` (Tag 5) - four
+- `b2ch41:164` (Tag 5) - four
 - `b2ch53:14` (Tag 8) - four
 - `b2ch53:198` (Tag 8) - three
 - `b2ch53:286` (Tag 8) - one
@@ -12107,7 +12138,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 32 | b2ch25:256 | At the door Mr Yeom shook his hand and did not make anything of it. |
 | 32 | b2ch25:304 | What he knows is that Mr Yeom ate everything in front of him and talked while he did it... |
 | 46 | b2ch34:80 | Mr Yeom, on a telephone in his own house, had never met the caller and never would. Mrs .. |
-| 5 | b2ch41:176 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
+| 5 | b2ch41:164 | And it is the name of a man who rang Mr Yeom four years ago and told him it was good to .. |
 | 8 | b2ch53:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 8 | b2ch53:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
 | 8 | b2ch53:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
@@ -12148,7 +12179,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch25:236` (Tag 32) - twenty
 - `b2ch25:304` (Tag 32) - ten, three
 - `b2ch34:80` (Tag 46) - thirty
-- `b2ch41:176` (Tag 5) - four
+- `b2ch41:164` (Tag 5) - four
 - `b2ch53:14` (Tag 8) - four
 - `b2ch53:198` (Tag 8) - three
 - `b2ch53:286` (Tag 8) - one
@@ -12318,15 +12349,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
 | 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
 | 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 4 | b2ch41:78 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
-| 5 | b2ch41:92 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
-| 5 | b2ch41:116 | Mrs Bae looked at him for a while. |
-| 5 | b2ch41:140 | Mrs Bae put one finger on the edge of the book and left it there. |
-| 5 | b2ch41:164 | "Sim," said Mrs Bae. |
-| 5 | b2ch41:180 | "You have gone very quiet," said Mrs Bae. |
-| 5 | b2ch41:196 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
-| 5 | b2ch41:224 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
-| 5 | b2ch41:236 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
+| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
+| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
+| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
+| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
 | 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
 | 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
 | 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
@@ -12353,11 +12384,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch03:150` (Tag 1) - forty
 - `b1ch05:128` (Tag 4) - one, three, two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b2ch41:78` (Tag 4) - one
-- `b2ch41:92` (Tag 5) - eleven, twenty-two, two
-- `b2ch41:140` (Tag 5) - one
-- `b2ch41:224` (Tag 5) - five, one, six
-- `b2ch41:236` (Tag 5) - five, three, two
+- `b2ch41:66` (Tag 4) - one
+- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
+- `b2ch41:128` (Tag 5) - one
+- `b2ch41:212` (Tag 5) - five, one, six
+- `b2ch41:224` (Tag 5) - five, three, two
 - `b2ch47:94` (Tag 10) - twenty-two
 - `b2ch47:144` (Tag 10) - nine, three, twenty
 - `b2ch47:248` (Tag 10) - one, two
@@ -12801,7 +12832,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
 | 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
-| 5 | b2ch41:268 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
 | 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
 | 5 | b2ch43:234 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
 | 5 | b2ch43:286 | "Say where that would be, for a man like Choi." |
