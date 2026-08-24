@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 169.024 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 169.452 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -4828,6 +4828,51 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Zuschreibung, Band 2, Kapitel 12 bis 18 und Streifzug ueber 19 bis 50 (25.08.)
+
+**Korrigiert.**
+
+- **Kapitel 13:** *"Chairman Woo came out to the car himself, which he did in
+  October as well."* Georgij war genau **einmal** in Yeongjong, am 20. November,
+  und Woo sagt es vier Zeilen spaeter selbst (*"That is the last time you stood
+  on this ground"*). Im Oktober haben sie sich auf der Gala getroffen. Der
+  zweite Oktober-Verweis desselben Kapitels (*"Woo did the thing he did in
+  October, which is to give away something nobody has asked him for"*) **stimmt**
+  - das ist Band 1, Kapitel 10, die zwei Angebote fuer das Terminal.
+- **Kapitel 38:** *"the three dates he gave Chairman Woo in December"* ->
+  **November**. Band 1, Kapitel 19, Tag 48: er legt den gefalteten Bogen hin,
+  **nachdem** unterschrieben ist, am 20. November.
+
+**Geprueft und stehen gelassen, mit Begruendung.**
+
+- **Kapitel 17 und 18: *"since December"*.** Annie sagt in Kapitel 18 selbst
+  *"I have been sitting on the whole of it since December"*, und Kapitel 17
+  spiegelt das. Band 1, Kapitel 12 hat sie den **Namen** aber schon seit dem
+  10. Oktober (*"I've had the name for nineteen days"*) und verweigert ihn am
+  29. Oktober ausdruecklich. **Beides kann stimmen** - der Name ist das eine,
+  *the whole of it* das andere -, und die beiden Band-2-Stellen stuetzen
+  einander. Wer es enger fassen will, muss beide anfassen, nicht eine.
+- **Kapitel 26: *"That is the first time you have said that to me."*** Sang-hoon
+  ueber *"I do not know yet"*. In Band 1 hat Georgij ihm viermal *"I am not going
+  to answer that"* gesagt, nie *ich weiss es nicht*. Haelt.
+- **Kapitel 10: *"None of them are mine"*** neben *"The fourth of October.
+  Fourteen."* Kein Widerspruch, sondern der Unterschied zwischen dem Eintrag und
+  dem Menschen darauf, und Mrs Sunwoo bemerkt ihn ausdruecklich.
+- **Der Satz des Fremden** wird dreimal leicht verschieden wiedergegeben
+  (*"good to see us again"*, *"glad we had met"*, *"glad we finally met"*),
+  waehrend Kapitel 34 auf *"said in that exact shape"* besteht. Das ist
+  wiedergegebene Rede und deshalb zulaessig, aber es ist die duennste Naht in dem
+  Strang.
+
+**Was die Streifzuege ueber Kapitel 19 bis 50 nicht gefunden haben.** Keine
+falsche Zahl aus Band 1 (zweihundertzwanzig, neunzehn Seiten, einundvierzig
+Prozent, elf Haeuser, siebzehn Jahre kommen dort ueberhaupt nicht mehr vor). Die
+Rueckverweise auf Los elf und Los vierzehn stimmen. Mrs Jeons *"come back when
+you have your name"* vom 16. Maerz wird in Kapitel 28 wortgetreu zitiert. Kwons
+Partner ist dreiundsechzig in Kapitel 13, 14 und 24.
 
 ---
 
