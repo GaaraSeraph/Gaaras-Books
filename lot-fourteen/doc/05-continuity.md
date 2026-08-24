@@ -1874,7 +1874,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
-- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v1.0) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v1.1) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
 
   **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
 
@@ -1885,6 +1885,8 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Dr. Oh Seung-min.** Vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig, falls die Zulassung ihm je gehoert hat. Die registrierte Adresse in Jung-gu ist seit anderthalb Jahren eine Zahnarztpraxis - **Georgij faehrt nicht hin, weil das Nichthinfahren die eine Regel war, die er diese Woche nicht brechen wollte.**
 
   **Annie nimmt den Namen entgegen und sperrt ihn sofort weg** - nicht Sang-hoon, nicht Jang, nicht einmal ein zweiter Notizbucheintrag. *"Everything on paper is eventually read by somebody it was not written for."* Der naechste Schritt haengt jetzt allein daran, ob Sang-hoons Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen Zulassung findet wie hinter dem Pflegeheim bei Wonju.
+
+  **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
 - **Band 2, Kapitel 42** *Four owners deep* (v1.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
@@ -1931,6 +1933,21 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und K war kein Abendessen.** Es war Sang-hoons eigenes Buero, zwanzig Minuten im Stehen, der Mantel blieb an, und Choi kam zu ihm - was er nie zuvor getan hat. *Late* war nie eine Uhrzeit am Abend, sondern spaet am Tag. Die Frage lautete, ob Sang-hoon zur Fruehjahrsauktion am Fluss gehe, und die Antwort war nein.
 
   **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
+
+
+- **Band 2, Kapitel 46** *Somebody in Seoul pays for it* (v1.0) - **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
+
+  **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
+
+  **Und damit ist die Papierstrasse zu Ende.** Wer ein Konto haelt und wer anruft, steht in keinem Register der Welt.
+
+  **Die Bitte, und sie ist die erste ihrer Art seit Oktober.** Er will das System der Firma oeffnen. Das Werkzeug ist Annies Laptop, seit seiner ersten Woche im kleinen Zimmer, und der Grund, ihn ein Jahr lang nicht angefasst zu haben, steht in Kapitel 41 in der Fassung 1.1: **Papier hinterlaesst keine Handschrift, und Choi Dae-ho liest Handschrift.** Annie rechnet ihm den Preis vor, den er selbst nicht gesehen hat - wenn im Oktober jemand fragt, wessen Haus dahintersteht, ist es ihres. Deshalb *"May I do it tonight, Mistress?"*, und deshalb ihr Ja mit drei Auflagen: einmal, alles aufschreiben, die Liste bleibt im Haus.
+
+  **Was die Nacht bringt.** Das Konto haelt **eine Frau mit einem Namen**, der in keiner der vierhundertdreissig aus Band 1 vorkommt. Die Rechnungsadresse liegt **nicht in Gangwon-do, sondern in Seoul**, in einem Bezirk, den Georgij zu Fuss erreicht.
+
+  **Und die Kurve, die das Kapitel traegt:** die Abstaende zwischen den Lieferungen ueber vier Jahre - erst dreissig, dann vierundzwanzig, dann sechzehn, jetzt neun. **Eine Luecke passt nicht: einundfuenfzig Tage im zweiten Herbst**, mitten in einer Strecke von Vierundzwanzigern.
+
+  **Die Entscheidung am Schluss ist keine Fertigkeit, sondern eine Wahl.** Das System hat ihn protokolliert, er koennte die Zeile in einer Minute entfernen und tut es nicht: *"A removed line is the loudest thing in a log."* Beide Moeglichkeiten stehen mit Begruendung im Notizbuch, die verworfene zuerst, damit Annie am Morgen sieht, dass er die andere gekannt hat.
 
 
 ---
