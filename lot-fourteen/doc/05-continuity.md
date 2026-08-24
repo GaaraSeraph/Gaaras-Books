@@ -443,8 +443,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 ### Stand der Kapitel
 
-- **Kapitel 1** *Merchandise doesn't talk* (v6.7) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
-- **Kapitel 2** *Quid pro Quo* (v11.9) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 1** *Merchandise doesn't talk* (v6.8) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
+- **Kapitel 2** *Quid pro Quo* (v11.10) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 34** *Then take it off* (v1.8) - **Drei Abschnitte, und der Schluss von Band 1.**
 
   **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
@@ -482,7 +482,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 33** *That is five* (v1.11) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
 - **Kapitel 31** *A number and a date* (v1.6) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
-- **Kapitel 30** *Who do they telephone* (v1.7) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 30** *Who do they telephone* (v1.8) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -553,7 +553,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
-- **Kapitel 27** *Not out of your account* (v3.2) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v3.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -575,7 +575,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-- **Kapitel 26** *The name and the control* (v1.4) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
+- **Kapitel 26** *The name and the control* (v1.5) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
 
@@ -595,7 +595,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Seine Unterschrift entsteht in zwei Sekunden** und wird die bleiben, die er sein Leben lang benutzt: der gedruckte Name in einer Hand ohne Schnoerkel, *"the signature of a competent man of no particular background, which is precisely what it was."*
 
   **Und Chae zieht eine Grenze, die spaeter zaehlt:** Es gibt eine vierte Gegenpartei, die nicht auf dem Papier steht. Wenn Annie Georgij je bittet, ihr gegenueber zu zeichnen, ist das nicht dieses Instrument, und er soll vorher anrufen. *"Would you take that call?" - "I would take that call, on a Sunday."*
-- **Kapitel 24** *Have you eaten* (v1.4) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
+- **Kapitel 24** *Have you eaten* (v1.5) - Zweite Haelfte derselben Nacht auf der Bruecke. Die Ecke bei den Garagen, der Beweis, dass er nicht fuer Geld bleibt, die drei Kippenstummel und ihr erstes echtes Lachen. Der Praezedenzfall vom Kies, die Unterschriftsvollmacht - und Georgijs eigener Einwand dagegen. Ihr Name. Die Fernbedienung in den Han. Das Halsband bleibt und bekommt seinen Grund. Im Wagen die Frage vom Gelaender.
 
   **Der Fehler mit der Vollmacht ist seiner, und das ist entscheidend.** Er hat den Preis verlangt, die Form gewaehlt und sie *payment* genannt; sie hat innerhalb einer Minute geliefert. Ihre Zeile *"Do not thank me for that. It is what it costs"* ist richtig - sie erkennt an, dass sie schuldet. **Eine Fassung, in der er ihr das vorwirft, ist unlogisch**, und genau die stand hier zuerst.
 
@@ -647,7 +647,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Damit hat Georgij sich zweimal in vier Tagen in derselben Frau geirrt**, auf Tatsachen, die er in der Hand hielt - Kapitel 20 ueber dem Schreibtisch, und hier. *"I have had it backwards twice since Friday."* - *"I know. I was there for the other one."*
 
-- **Kapitel 22** *Not shown* (v1.1) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
+- **Kapitel 22** *Not shown* (v1.2) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 
   **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in vier Stellen festgelegt und laeuft so:
 
@@ -672,16 +672,16 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** stand bis zum 23.08. auf *"He told me what that is"* und schrieb damit Woo die Mechanik zu, die Georgij eine Woche vorher **vor Annie** vorgetragen hatte. Sie war im Raum, sie haette es gewusst. Jetzt: *"He told me what it makes you"*, und Georgij sagt von sich aus dazu, wo er den Satz zuerst benutzt hat und wofuer. **Damit traegt Annies Schweigen danach etwas**, statt nur dazustehen.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
 
-- **Kapitel 20** *I came back with a favour* (v1.4) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
-- **Kapitel 19** *What happens on the Tuesday* (v1.9) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
-- **Kapitel 18** *On account* (v2.6) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.11) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 20** *I came back with a favour* (v1.5) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
+- **Kapitel 19** *What happens on the Tuesday* (v1.10) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 18** *On account* (v2.7) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
+- **Kapitel 17** *I have never put it down* (v12.12) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.7) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
-- **Kapitel 14** *In the same size type* (v7.6) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
+- **Kapitel 14** *In the same size type* (v7.7) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.7) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
-- **Kapitel 11** *Thank you for telling me* (v2.8) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
+- **Kapitel 12** *You are better when you don't know* (v1.8) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 11** *Thank you for telling me* (v2.9) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.3) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.5) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
@@ -689,7 +689,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 6** *Withdrawn or sold* (v1.6) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.10) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.9) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
-- **Kapitel 3** *Dead angles* (v2.7) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
+- **Kapitel 3** *Dead angles* (v2.8) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
 #### Band 2
 

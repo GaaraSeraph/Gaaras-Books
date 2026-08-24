@@ -1,7 +1,7 @@
-Book One · Chapter 14: In the same size type
-Lot Fourteen · Version 7.6 · EN
+# Chapter 14: In the same size type
+*Lot Fourteen* · Version 7.7 · EN
 
-Day Thirty-One · Monday 3 November
+## Day Thirty-One · Monday 3 November
 
 He closed the faces with photographers.
 
@@ -21,7 +21,7 @@ And in sixteen of the twenty-three frames in which the family appeared, she was 
 
 The one who kept fetching drinks was Kim Do-yun.
 
-* * *
+---
 
 He had been wrong about Kim Do-yun and it took him about forty seconds with the photographs to find out.
 
@@ -47,9 +47,9 @@ It was the second time in a fortnight that his reading of a person had been hand
 
 He wrote Kim Do-yun's name at the top of a clean page and did not put anything under it.
 
-* * *
+---
 
-Day Thirty-Three · Wednesday 5 November
+## Day Thirty-Three · Wednesday 5 November
 
 Hanseong came out of the wrong drawer.
 
@@ -69,9 +69,9 @@ Georgij read the whole thing twice and then sat very still.
 
 Then he began to write.
 
-* * *
+---
 
-Day Thirty-Four · Thursday 6 November
+## Day Thirty-Four · Thursday 6 November
 
 He went to her on the second day of the writing, with eight pages of it done and nothing in his hands.
 
@@ -91,7 +91,7 @@ Annie turned the first page over and did not read it.
 
 "He will not tell me I am wrong about it. He does not correct people with sentences." Georgij said it flatly and without any decoration anywhere. "He will take the routes. He will take them in the next four to six weeks, because a split board sells cheaply and sells fast. He will have to put real money against them, and he will have to put it in early enough that he still believes it was his own idea."
 
-"How much?"
+"How much."
 
 "Between four hundred and six hundred billion for control, and it will not be the purchase that costs him. It will be what comes after." He took his hands out from behind his back. "Four routes with berths he cannot let go idle, in a group with no working board. He will spend the first three months finding out that nobody at Hanseong can sign anything, and while he is finding that out he will be paying slot fees on lanes that are running at sixty per cent."
 
@@ -167,11 +167,11 @@ He was aware of it about a second after it was on him, and he did not put it awa
 
 Annie looked at him for rather longer than a moment.
 
-"Does it work because it is true?"
+"Does it work because it is true."
 
-"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says this is a guess in the middle of it."
+"Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says *this is a guess* in the middle of it."
 
-"Could you have written it if it had not been true?"
+"Could you have written it if it had not been true."
 
 There it was.
 
@@ -189,7 +189,7 @@ Then she squared them and put them down.
 
 "Finish it," she said.
 
-* * *
+---
 
 "There's a second thing."
 
@@ -228,3 +228,4 @@ Annie looked at him for a moment.
 "That's the whole of the cost."
 
 "Next Thursday," said Annie.
+

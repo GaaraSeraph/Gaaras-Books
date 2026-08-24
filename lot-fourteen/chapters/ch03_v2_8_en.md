@@ -1,0 +1,288 @@
+# Chapter 3: Dead angles
+*Lot Fourteen* · Version 2.8 · EN
+
+*Day 1 · Saturday 4 October*
+
+The hall smelled of nothing at all.
+
+That was the first thing. The houses he had been through usually smelled of something. Wax, or lilies, or the last cigarette of a man who was allowed to smoke indoors. This one had been built and then kept, and whoever kept it had been doing it long enough to have got rid of the smell of keeping it.
+
+Annie's footsteps went away down the hall and stopped, and a door closed somewhere he couldn't see.
+
+He stood where she had left him and did what he always did, which took about nine seconds and had never once been a decision.
+
+Two doors off the hall, the left one open onto dark and the right one shut. A staircase going up along the far wall with nothing on the inner side to hold. At the end of the hall a wall of glass from floor to ceiling, and behind it the hill going down and the city a long way off. That meant the glass faced south and the drive he had come up faced north.
+
+Four ways out of the hall, counting the stairs. The only one he had ever used was behind him.
+
+Nine seconds.
+
+Then the front door opened again and a woman came in from the drive.
+
+---
+
+She was somewhere past sixty and dressed as though she had not been in bed, which at that hour meant she had been waiting up. Sleeves pushed to the elbow. A cloth in one hand.
+
+She looked at him the way you look at a delivery that has arrived at the wrong time but is nonetheless the correct delivery.
+
+"You have blood on your right hand," she said.
+
+"I do."
+
+She held the cloth out. He took it, and she waited while he used it, and she did not watch his face while he did.
+
+"I am Mrs Seo. I run the house."
+
+"Georgij." He gave her a small bow from the waist, the shallow correct kind, and he meant it. "Thank you for waiting up. I don't imagine anybody asked you to."
+
+Something in her face moved about a millimetre and went back.
+
+"I know what you are." Not unkindly, and not kindly either. "Your room is on the first floor, east end. Ji-won will take you up. Breakfast is from seven, in the kitchen, and if you want it earlier than that you will have to say so tonight."
+
+"Seven is fine."
+
+In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kitchen at seven with the staff, and one of those two things was going to have to give, and it was not going to give tonight and not by him.
+
+She put out her hand for the cloth and he gave it back. She folded it once and put it in her apron, which meant it was not going into a bin in this house, and he noted that and put it away with the rest.
+
+"Has anybody called an ambulance?" he said.
+
+He asked it plainly, without weight, because he wanted to know and because there was no version of that question that got kinder by being asked cleverly.
+
+Mrs Seo looked at him for a moment.
+
+"Ji-won," she said, to the stairs.
+
+"Of course. Forgive me." He let it go where she had put it, and did not go back for it. "It's a well-run house. I've been in a good many and I can usually tell in about four minutes. Goodnight, Mrs Seo."
+
+---
+
+The girl was about twenty and had been standing on the third step for the whole of it.
+
+She went up ahead of him with a torch she didn't need, because every second light in the house was on, and she kept turning round to check that he was still there. Each time she did it she apologised.
+
+"It's a nice house," Georgij said.
+
+"Yes."
+
+"How long have you been in it?"
+
+"Fourteen months." She looked back again. "Sorry."
+
+Georgij smiled at her. He kept it small, because a large one at one in the morning from a man with a collar on would have been a second thing for her to be frightened of.
+
+"You don't need to keep saying that. Is it just the two of you?"
+
+"At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being asked something she could answer got the rest out before she had decided to say it. "The men are at the gate. They don't come up unless somebody calls, that's the rule, ma'am doesn't like them in the house, she says it's like living in a bank."
+
+"How many men?"
+
+"Three." A pause, and then her face came apart a little at one corner. "Two."
+
+"Two," Georgij said, and said it the way you would confirm a delivery time, so that she had somewhere ordinary to put her face for a moment.
+
+They had got to the top of the stairs. She stood holding the torch in both hands.
+
+"It's been a bad night for everybody who was in it," he said. "It won't be like this tomorrow. And if it is, it won't be your part of it."
+
+"Yes."
+
+"Ji-won. Thank you for the light. Neither of us needed it and it was still the right thing to bring."
+
+She went back down looking slightly less like someone leaving a room she had been made to enter.
+
+He had not been collecting anything. It had arrived anyway, the way it always did, and he would rather it had come from somebody else.
+
+---
+
+The room was at the east end, and it was a good room, which he had not expected and did not trust.
+
+A bed. A chair by the window. A wardrobe with eight wooden hangers in it and nothing else, and it took him a moment to work out why the hangers bothered him, which was that he had nothing to hang on them.
+
+The window glass was thick and set in a frame that went into the stone rather than into a wooden surround. Two panes, no catch on the outside, no hinge he could reach. He would need a chair and about four minutes and everyone in the house would hear all of it.
+
+The door had a lock.
+
+He stood and looked at it for longer than the lock deserved. It was an ordinary brass mortice lock with an ordinary brass key, and the key was in it, on his side of the door.
+
+She had told him in the car that he would not be kept in a room that locked. She had not said anything about the other direction, and he did not believe for a moment that she had failed to notice there was one.
+
+He did not turn it.
+
+He sat on the edge of the bed with the coat still on, because it was the only thing anybody had given him to keep and he had not yet decided how to feel about that. And he sat there a while.
+
+Then he went to have a look at the house.
+
+---
+
+The garage door was steel and it had an electronic lock, and that was the whole of his opinion about the garage door. Electronic locks are decisions somebody else has already made. He tried the handle once to see which way the mechanism had been set to fail, and it had been set to fail shut, which was correct and which somebody had had to specify.
+
+The south glass had no door in it anywhere along its length. A wall of it, three storeys, and not one way through. That was expensive and it was also a choice, and he stood in front of it for a while working out which of the two it had been about.
+
+The cameras were in the upper corner of every room, tilted about forty-five degrees.
+
+He walked the ground floor and looked at each one and then looked at what it could not see, which is a different walk and takes longer. Under each camera there was a wedge of floor perhaps a metre and a half deep that it did not cover. Behind each of the columns in the long room there was a strip of the same. He counted the columns. He stood behind the third one and turned round and could not find a lens anywhere from there.
+
+He went back through the hall on his way to the stairs. The remote was where she had left it, next to the bowl, and he went past it at the same speed he had gone past the bowl.
+
+On the first-floor landing there was a window facing east.
+
+Below it the ground went out flat for about twenty metres to a wall, and along the base of the wall there were rose bushes, old ones, planted close. The camera on that corner of the house was aimed down the drive.
+
+Georgij stood at the window for some time.
+
+Then he counted the exits. There were three of them. One of them was the front door he had come in through, and one of them was the garage. The third one was a door off the kitchen that would put him out on the north side in front of the gatehouse.
+
+---
+
+He was at that third door when somebody put a hand flat on it from the other side.
+
+"Don't."
+
+The voice was young. Georgij took his hand off the handle and stepped back one pace, which was more than the situation required, and waited.
+
+The door opened. The man on the other side of it was about twenty-five and had come up from the gate at a run and was trying not to show it.
+
+"You're the new one."
+
+"I'm lot fourteen," Georgij said pleasantly. "Georgij."
+
+"Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and then at Georgij's hands, and then at the doorframe behind him. "Mrs Seo rang down. She said you'd been going room to room for forty minutes."
+
+"I have."
+
+"Why?"
+
+"Because I don't know it."
+
+Bae thought about that. He was working out whether it was an answer, and he was taking too long, and he knew he was taking too long, and Georgij watched him decide not to pretend otherwise.
+
+"I'm supposed to ask you to stay inside."
+
+"Supposed to by whom?"
+
+"Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anything tonight."
+
+"Then that will do." Georgij put his hands in his pockets, which took him out of the doorway without either of them having to negotiate it. "You looked at my hands before you looked at my face, which is the right order and most men never learn it. You kept the door between us until you'd decided what I was. And when I asked who had sent you, you said Mrs Seo, and then you told me that nobody else had, which you did not have to do." He said it in the same tone he had used for the roses and the glass, because it was the same kind of statement. "All three were right. The man on the gravel tonight had two years on that gate and never learned the third one."
+
+Bae's jaw moved.
+
+"He was on the gate with me for two years."
+
+"I'm aware. I'm not asking you to like it."
+
+He turned and went back through the kitchen, and Bae stood in the door and watched him the whole way, which was also right.
+
+---
+
+The corridor on the first floor ran east to west and crossed another one that went back into the north side of the house, and Annie was sitting in a chair at the crossing with her shoes off.
+
+He had gone past this crossing twice tonight. She had been sitting in it for at least one of those, and he had not seen her, and it was the first thing in the house that had got past him.
+
+He stopped at a courteous distance and waited to be spoken to.
+
+"You went to the garage first," Annie said. "Then the south glass, and you stood in front of it for four minutes. Then the long room, and then you got interested in the columns, and then you stood behind the third one for a while. After that the landing window, and you were at the landing window longer than you were anywhere else, including the glass. Then the kitchen door and my gate man."
+
+"Yes, Mistress."
+
+"Say the thing you've come up here to say."
+
+"You have twenty-two cameras and they're all in the same place." He said it without any particular emphasis, because it did not need one. "Upper corner, tilted down at about forty-five. That angle is for a man coming in through a window. It gives you a clean picture of anyone crossing the middle of a room and it gives you nothing at all about anyone standing under it. There's a metre and a half of dead floor beneath every single one. Behind the columns you have the same again, and the columns are in the room you'd put people in."
+
+"Go on."
+
+"They face the wrong threat. The whole system is built against a man who isn't in the house yet." A small pause. "I came in through the front door with your handbag over my arm."
+
+Annie did not move.
+
+"Twenty-four," she said.
+
+"I'm sorry?"
+
+"Twenty-four cameras. You missed two, and I'm not going to tell you where, because you'll enjoy the rest of the week more if I don't." She let that sit exactly as long as it needed. "The angles are mine. I drew them. I sat with the man for three days over that drawing and he wanted them at fifteen degrees and in the ceiling, and I sent him away twice."
+
+"Then you know about the dead floor."
+
+"I put it there."
+
+Georgij was quiet for a moment. He had come up the corridor expecting to be tolerated and had not planned past that.
+
+"Column three," he said. "This crossing. And I'd expect one at your own door."
+
+"There is."
+
+"You're sitting in one now."
+
+"I am."
+
+"That's a great deal of trouble to go to for somewhere to sit."
+
+"It's a great deal of trouble to go to for somewhere nobody can watch me sit," Annie said. "The recordings go to a company in Yeouido. A man I have never met looks at them if I ask him to, and once a quarter he sends an invoice with the number of hours on it, and the number has been the same for four years. Which means he is not looking at them and is not even troubling to lie about it well." She turned her head. "Nobody watches this house except me."
+
+"And tonight you were watching."
+
+"Tonight I was watching."
+
+He inclined his head, and meant it.
+
+"Why tell me any of that," she said. "You could have carried it for a month and been extremely useful with it in about six weeks."
+
+"Quid pro quo."
+
+He said it lightly, the way you name the day of the week, and did not put anything on top of it. Annie let it go past without picking it up, which he thought was probably the correct handling.
+
+"The system isn't wrong," she said. "It's a house, not a facility. If I built it against the people who live in it, I would have to live in it."
+
+"Yes."
+
+"You'd have built it differently."
+
+"I'd have built it uglier." He put both hands behind his back. "Two in the long room at ceiling height and no columns. A door in the south glass, because a wall with no door in it is a wall people die against. And a second man in the house at night, on the inside, not at the gate, awake, with nothing to do but be awake." A pause. "It would be a worse house to live in and it would be a much duller one to be a guest in, and you would hate all of it inside a week."
+
+"Yes," Annie said. "I would."
+
+The house made a sound somewhere below them, a door or a chair, and neither of them looked at it.
+
+"I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She sent me upstairs, which is what I would have done."
+
+Annie didn't answer.
+
+"She did make a call on the drive. I heard the length of it from the path. Under a minute, and she gave no address, which means whoever she called already has it. No ambulance has come up the drive and it has been an hour." He said it in the same courteous register he had used for the cameras. "There isn't a hospital in this city that takes a man with a puncture wound to the eye and doesn't file. So either somebody has decided which hospital, or he isn't going to one."
+
+Annie looked at him.
+
+"You have been in my house an hour," she said, "and you have found the roses on the east wall, the fail-shut on the garage, three exits, twenty-two of my twenty-four cameras and every dead angle on this floor."
+
+"Yes, Mistress."
+
+"So let me save you the rest of the week."
+
+She stood up, and picked her shoes up off the floor by the heels, and for a moment she was simply a woman at one in the morning at the crossing of two corridors in her own house.
+
+"There are no exits, Georgij."
+
+"Four, Mistress."
+
+He said it courteously and without a trace of triumph in it, because there wasn't any.
+
+"Three out of the house. The front door, which nobody has locked and which I came in through an hour ago. The garage, at whatever hour a car goes out of it. The kitchen door, if I'm willing to be seen by one man. And then the east wall, behind the roses, where your camera is pointed at the drive." A small pause. "There have been exits in every house I've been in. It has never once been the difficult part."
+
+Annie stood in the dark of the crossing and did not say anything at all.
+
+"May I say something that isn't a correction?"
+
+"Say it."
+
+"You drew those angles yourself, and you sent a professional away twice over three days for a drawing." He inclined his head, and it was the second time that night he had given somebody a proper one. "Eleven houses. Not one of the people who owned them had been in the room when their own security was designed, and most of them could not have told you where the cameras were. This is the best-built house anybody has kept me in, and you are the reason it is."
+
+Something moved behind Annie's face and was gone before it arrived.
+
+She went west along the corridor. The door that closed behind her was at the far end of the same floor he had been given a room on, with the crossing lying between the two.
+
+She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywhere at any time except breakfast, which had been Mrs Seo's instruction and not hers.
+
+She had used his name. He worked out, standing at the crossing after she had gone, that it was the first time anybody in the house had said it to him. And that somewhere in the last five hours he had stopped being told and started being watched instead, and he was not yet sure which of the two was more expensive.
+
+He went down the east corridor to the room with the good window and the brass key.
+
+He left the key where it was.

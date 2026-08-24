@@ -1,7 +1,7 @@
-Book One · Chapter 11: Thank you for telling me
-Lot Fourteen · Version 2.8 · EN
+# Chapter 11: Thank you for telling me
+*Lot Fourteen* · Version 2.9 · EN
 
-Day 22 · Saturday 25 October
+*Day 22 · Saturday 25 October*
 
 The car came round at seventeen minutes past midnight and Mr Ku had the heater on already, which he had not been asked to do.
 
@@ -27,7 +27,7 @@ Neither of them said anything until the ramp.
 
 "Go on."
 
-* * *
+---
 
 He gave it to her from seven twenty-two.
 
@@ -39,7 +39,7 @@ Woo first, because Woo was first: four minutes on Yeongjong, the tonnage finance
 
 And the dinner.
 
-"I asked him who introduced him to his financier. He said somebody at a dinner, and then he waved at a woman across the room, and that was the end of it."
+"I asked him who introduced him to his financier. He said *somebody at a dinner*, and then he waved at a woman across the room, and that was the end of it."
 
 "You didn't push."
 
@@ -53,13 +53,13 @@ And the dinner.
 
 "I've thought of one, and it fits, and things that fit at half past midnight are exactly what I ought to be frightened of." He let it go there and did not say it. "I'll get it properly. His terminal took ten months and there was a bank in it, and banks leave a syndicate, and a syndicate is eleven or twelve people who all had to sign something. One of them will have talked to somebody, and I want it out of a document, not out of a mood."
 
-"How long?"
+"How long."
 
 "Two weeks. Possibly three."
 
 "Take three," said Annie. "Go on."
 
-* * *
+---
 
 Then Kang.
 
@@ -83,11 +83,11 @@ He stopped.
 
 "Yes," said Annie. "You would."
 
-* * *
+---
 
 He gave her the girl from the foundation and the fourteen sites and the three that had not spent it on staff. He gave her the two directors at the Paradise, and the February sale, and the March dinners a month afterwards, one man at a time, four hundred kilometres from where either of them worked.
 
-He gave her the word container, on its own, off a terrace, in the middle of a sentence about something else.
+He gave her the word *container*, on its own, off a terrace, in the middle of a sentence about something else.
 
 He told her he could make nothing of it.
 
@@ -121,7 +121,7 @@ Annie turned her head.
 
 "A woman in her fifties at the back, who did not speak once in four minutes and had the whole group arranged round her. Twice somebody said something and looked at her before going on, and neither of them knew they had done it." A pause. "She is the one I want. He is the one I can find."
 
-"Which of them is which?"
+"Which of them is which."
 
 "That's the difficulty." He said it without any embellishment at all, because it was not a good answer and dressing it up would not have made it one. "I have all eleven of their names. Two of them have been photographed. The other nine have spent their entire lives in a business that nobody points a camera at, and I stood eight metres from them for four seconds and could not put a single name on a single face."
 
@@ -129,7 +129,7 @@ Annie turned her head.
 
 "Late thirties, the shortest of the men, fetched drinks twice while I watched, laughed a quarter of a beat behind the room. And a woman in her fifties who said nothing and had the group built round her. Four or five names each." He turned his head. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
 
-"So how do you close it?"
+"So how do you close it."
 
 "Somebody's mouth. It always is." A small pause. "Do you want to give me the name, or shall I go and get it?"
 
@@ -137,7 +137,7 @@ Annie turned her head.
 
 "Yes."
 
-* * *
+---
 
 Then Sang-hoon, because Sang-hoon had been last.
 
@@ -171,7 +171,7 @@ Annie did not move at all.
 
 "Yes."
 
-"What did you tell him?"
+"What did you tell him."
 
 "Two hundred and twenty million."
 
@@ -189,21 +189,21 @@ Annie was quiet for a long moment.
 
 "No, Mistress." He said it without any performance in it at all. "I gave a man the exact figure. He put it in the wrong column, and he'll keep it in the wrong column for as long as nothing else lands next to it, and I have no control at all over what lands next to it. That was the cheapest available answer and it was not a safe one."
 
-* * *
+---
 
 They were on the road up when he gave her the last of it.
 
 "There is one more from the floor, and it comes before that one." He looked at the trees. "I took her hand and kissed it. Over the fingers, in the European way, in front of four or five people who will describe it inside the week and use that word."
 
-"Why?"
+"Why."
 
 "Because eight hundred people had spent the evening deciding what I am. I gave them an answer that is not one and let them keep it." A pause. "She said it was the first defensive thing she had seen me do, and that she would have done exactly the same."
 
-"Does it hold?"
+"Does it hold."
 
 "A fortnight. Then somebody who was not there asks somebody who was, and the answer gets shorter every time it is passed on, and short answers are the ones people check."
 
-* * *
+---
 
 "I broke the rule you gave me in this car."
 
@@ -215,11 +215,11 @@ Annie turned her head.
 
 The cypresses started.
 
-"What did she do?"
+"What did she do."
 
-"Nothing. She said yes, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
+"Nothing. She said *yes*, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
 
-"What did you tell her that was true?"
+"What did you tell her that was true."
 
 "She asked where my people come from."
 
@@ -233,7 +233,7 @@ Annie did not say anything for perhaps two hundred metres.
 
 That was all of it. She did not say it warmly and she did not say it coldly, and there was nothing after it, and Georgij discovered that he would very much rather have been shouted at.
 
-* * *
+---
 
 "Now say the other thing," said Annie.
 
@@ -273,7 +273,7 @@ The car slowed for the turn.
 
 She said it looking straight ahead, in exactly the tone she had used for the seating and the coat and the tailor, and she did not add anything to it, and the car came onto the gravel and stopped.
 
-* * *
+---
 
 He got out and went round and held her door, and she got out, and she took the clutch with her.
 

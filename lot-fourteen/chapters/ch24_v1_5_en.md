@@ -1,11 +1,11 @@
-Book One · Chapter 24: Have you eaten
-Lot Fourteen · Version 1.4 · EN
+# Chapter 24: Have you eaten
+*Lot Fourteen* · Version 1.5 · EN
 
-Day 55 · Thursday 27 November
+*Day 55 · Thursday 27 November*
 
 Below them the river went on going east, and the car stood on the bridge with its lights on, and Mr Ku by the front wing had not moved at all.
 
-* * *
+---
 
 "You went over the east wall."
 
@@ -25,7 +25,7 @@ Annie looked at the water through the rail.
 
 "That is part of it."
 
-* * *
+---
 
 "Say the other part."
 
@@ -47,7 +47,7 @@ Annie did not answer that either.
 
 "Nobody is paid to run."
 
-* * *
+---
 
 "Say what you came out here for."
 
@@ -65,7 +65,7 @@ Fifty-five days, four contracts, a terminal at Yeongjong and a chairman's signat
 
 Annie did not answer, and the traffic went on going over the joint, and after a while it became clear that she was not going to.
 
-* * *
+---
 
 "On your gravel on the first night I took a man's eye out," said Georgij.
 
@@ -75,7 +75,7 @@ Annie did not answer, and the traffic went on going over the joint, and after a 
 
 "I remember what I paid in."
 
-* * *
+---
 
 "I took the hand off and left the rest of you where it was. Those were my words."
 
@@ -83,7 +83,7 @@ He turned his head.
 
 "Tonight there is no hand."
 
-* * *
+---
 
 Annie did not look away from him.
 
@@ -95,7 +95,7 @@ Annie did not look away from him.
 
 "What you paid me in on the gravel. Something you have got and I have not."
 
-* * *
+---
 
 "Go on."
 
@@ -105,11 +105,11 @@ Annie went still in a way he had seen twice before and had never yet been able t
 
 "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to sign with and that it was the arrangement." He kept his hands where they were. "It was true, and it cost me nothing, because he had already decided he liked me. It will cost me the next one."
 
-"How many next ones?"
+"How many next ones."
 
 "Four rooms between now and February. In two of them I will be asked a question that can only be answered with a name on a line, and the answer will have to be that I telephone a woman from a shed."
 
-* * *
+---
 
 Annie looked at the water for a while.
 
@@ -121,7 +121,7 @@ Annie looked at the water for a while.
 
 "Since about the second junction," said Georgij, "and I would have thought about it eventually anyway, and tonight is when I stopped being able to do without it."
 
-* * *
+---
 
 Annie was quiet long enough for a lorry to go over the joint above them and be gone.
 
@@ -131,7 +131,7 @@ Annie was quiet long enough for a lorry to go over the joint above them and be g
 
 "Do not thank me for that. It is what it costs."
 
-* * *
+---
 
 "It is not, though."
 
@@ -147,7 +147,7 @@ Annie turned her head.
 
 "I will keep it, because I cannot work without it." Georgij did not move. "It settles nothing, and I asked for it as though it did."
 
-* * *
+---
 
 Annie did not say anything for a moment.
 
@@ -159,7 +159,7 @@ Annie did not say anything for a moment.
 
 "That was me saying it." He did not turn round. "I do not know."
 
-* * *
+---
 
 He tried, and she let him.
 
@@ -171,7 +171,7 @@ Ask him what he wanted and there was a flat place where the answer goes.
 
 "I am sorry," he said. "I am not being modest and I am not managing you. There is nothing there. I have looked."
 
-* * *
+---
 
 Annie was quiet for a long time.
 
@@ -185,7 +185,7 @@ She said it again.
 
 "That is my name," said Annie. "It is on nothing. My mother used it and my brother used it and both of them are dead. Everybody else in this country has called me Annie since I was twenty-three, including the men who work for me and including the man I married."
 
-* * *
+---
 
 He did not say anything.
 
@@ -193,21 +193,21 @@ He did not say anything.
 
 "Why?"
 
-"Because you cannot want anything, and I am not going to leave you sitting on a bridge with nothing, and I have been thinking about it since you said door handle." She looked away again. "And because you gave me one on the fourth of October in the back of a car and I did not give you anything back."
+"Because you cannot want anything, and I am not going to leave you sitting on a bridge with nothing, and I have been thinking about it since you said *door handle*." She looked away again. "And because you gave me one on the fourth of October in the back of a car and I did not give you anything back."
 
-* * *
+---
 
 Georgij sat with it.
 
 He did not say it out loud, then or later.
 
-He had a place to put a thing like that, which was the same place he put a face at a door and a number in a margin. Hye-jin went in there and stayed, and he did not take it out again for a very long time.
+He had a place to put a thing like that, which was the same place he put a face at a door and a number in a margin. *Hye-jin* went in there and stayed, and he did not take it out again for a very long time.
 
 "Thank you," he said.
 
 "That one you may thank me for."
 
-* * *
+---
 
 "There is a second thing and it is smaller."
 
@@ -223,7 +223,7 @@ He had a place to put a thing like that, which was the same place he put a face 
 
 "It is a request. I know the difference. I am making it anyway." He looked at her properly for the first time since she had sat down. "Tonight a man I have worked in front of twice found out in under a second what I am. Tomorrow I have to walk back into a room and be worth something to you. I can still do that, and I will, and I can do it about four more times."
 
-* * *
+---
 
 Annie did not say anything for a while.
 
@@ -233,7 +233,7 @@ Annie did not say anything for a while.
 
 "Yes."
 
-* * *
+---
 
 She reached into the pocket of her coat.
 
@@ -247,7 +247,7 @@ Under the collar of his shirt the steel sat where it always sat.
 
 Neither of them pretended otherwise.
 
-* * *
+---
 
 Then she picked it up again.
 
@@ -257,7 +257,7 @@ He was up by the time she opened her hand.
 
 It went down without any noise that got back up to them, and the river took it east at the speed the river was going.
 
-* * *
+---
 
 Neither of them said anything for a while.
 
@@ -269,7 +269,7 @@ He could not read this one.
 
 He did not know whether he had just watched a woman disarm herself, or a woman who had proved four hours ago that she could do it and no longer needed the thing in her hand to say so.
 
-* * *
+---
 
 "You are still wearing it," said Annie.
 
@@ -283,7 +283,7 @@ He heard himself do it, and so did she, and neither of them made anything of it.
 
 "Say why not, so that I know you know."
 
-* * *
+---
 
 "Because it is the only thing standing between me and a room with nineteen other people in it," said Georgij.
 
@@ -291,7 +291,7 @@ He heard himself do it, and so did she, and neither of them made anything of it.
 
 "A man who belongs to somebody is expensive to touch. A man who belongs to nobody is stock." He said it as flatly as she had. "There were four in that cellar with no mark on them at all and every one of them went for under a third of what I did. The collar is not what holds me. It is what makes it too much trouble to take me off you."
 
-* * *
+---
 
 Annie looked out at the water where the other thing had gone.
 
@@ -301,7 +301,7 @@ Annie looked out at the water where the other thing had gone.
 
 "Good," said Annie. "Then neither of us has to be brave about it."
 
-* * *
+---
 
 They stood at the rail for a while and neither of them started anything.
 
@@ -315,7 +315,7 @@ They stood at the rail for a while and neither of them started anything.
 
 "Why?"
 
-* * *
+---
 
 "Because it is true," said Georgij, "and because tonight I was not selecting."
 
@@ -329,7 +329,7 @@ Annie looked out at the place where the other thing had gone in.
 
 "That was not an order," she said, after a moment. "I do not know what it was."
 
-* * *
+---
 
 Georgij stood at the rail beside her.
 
@@ -341,7 +341,7 @@ They walked back along the walkway with about a hand's width between them.
 
 Behind them, low down on the rail, the small set letters went on saying what they had said to everybody who stopped there for years, and neither of them mentioned it.
 
-* * *
+---
 
 Mr Ku had the heater on.
 
@@ -359,7 +359,7 @@ Georgij did not answer straight away.
 
 She did not say anything else the whole way up the hill, and neither did he.
 
-* * *
+---
 
 Mrs Seo had the small room off the long one laid for two.
 

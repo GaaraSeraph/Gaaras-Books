@@ -11,9 +11,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.7 | 2.422 |
-| 02 | v11.9 | 3.167 |
-| 03 | v2.7 | 3.374 |
+| 01 | v6.8 | 2.422 |
+| 02 | v11.10 | 3.167 |
+| 03 | v2.8 | 3.374 |
 | 04 | v1.9 | 2.443 |
 | 05 | v5.10 | 4.327 |
 | 06 | v1.6 | 2.069 |
@@ -21,26 +21,26 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 08 | v3.5 | 2.677 |
 | 09 | v3.3 | 3.119 |
 | 10 | v2.5 | 2.983 |
-| 11 | v2.8 | 2.730 |
-| 12 | v1.7 | 2.350 |
+| 11 | v2.9 | 2.730 |
+| 12 | v1.8 | 2.350 |
 | 13 | v2.5 | 2.834 |
-| 14 | v7.6 | 2.599 |
+| 14 | v7.7 | 2.599 |
 | 15 | v2.7 | 4.208 |
 | 16 | v1.16 | 3.278 |
-| 17 | v12.11 | 2.708 |
-| 18 | v2.6 | 2.980 |
-| 19 | v1.9 | 3.210 |
-| 20 | v1.4 | 2.108 |
+| 17 | v12.12 | 2.708 |
+| 18 | v2.7 | 2.980 |
+| 19 | v1.10 | 3.210 |
+| 20 | v1.5 | 2.108 |
 | 21 | v1.7 | 4.080 |
-| 22 | v1.1 | 2.584 |
+| 22 | v1.2 | 2.584 |
 | 23 | v3.6 | 2.653 |
-| 24 | v1.4 | 2.653 |
+| 24 | v1.5 | 2.653 |
 | 25 | v1.4 | 2.550 |
-| 26 | v1.4 | 2.423 |
-| 27 | v3.2 | 3.102 |
+| 26 | v1.5 | 2.423 |
+| 27 | v3.3 | 3.102 |
 | 28 | v1.3 | 2.676 |
 | 29 | v1.3 | 1.993 |
-| 30 | v1.7 | 3.524 |
+| 30 | v1.8 | 3.524 |
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
 | 33 | v1.11 | 3.335 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.7 · EN
+*Lot Fourteen* · Version 6.8 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -163,7 +163,7 @@ She didn't react. He couldn't tell whether that had been the right answer or the
 
 "I thought about it."
 
-"When?"
+"When."
 
 "When he bought the boy."
 
@@ -179,7 +179,7 @@ Annie's expression didn't move.
 
 "It was entirely my intention," he purred.
 
-"I'm aware. I'm telling you what most people say." She turned her head. "Why don't you?"
+"I'm aware. I'm telling you what most people say." She turned her head. "Why don't you."
 
 "Because it's expensive." He settled back into the seat. "You have to remember who heard it, and what it touched, and you have to keep feeding it for as long as that person is alive." He put both hands flat on his knees. "I've never had a door that locked from my side. A man with no privacy can't afford to own anything that has to be maintained in secret. So I stopped."
 
@@ -201,7 +201,7 @@ He said it courteously.
 
 Something happened behind her face and was gone before it arrived.
 
-"Do you know what you cost me?"
+"Do you know what you cost me."
 
 "Two hundred and twenty million."
 
@@ -270,7 +270,7 @@ Annie didn't turn her head.
 ---
 
 # Book One · Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.9 · EN
+*Lot Fourteen* · Version 11.10 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -314,7 +314,7 @@ The guard was watching him in the mirror instead of the road.
 
 Annie hadn't looked away once.
 
-"Was that instructed?"
+"Was that instructed."
 
 The guard faced front.
 
@@ -593,7 +593,7 @@ Then he decided not to look at it again.
 ---
 
 # Book One · Chapter 3: Dead angles
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -807,7 +807,7 @@ Georgij was quiet for a moment. He had come up the corridor expecting to be tole
 
 He inclined his head, and meant it.
 
-"Why tell me any of that?" she said. "You could have carried it for a month and been extremely useful with it in about six weeks."
+"Why tell me any of that," she said. "You could have carried it for a month and been extremely useful with it in about six weeks."
 
 "Quid pro quo."
 
@@ -2873,7 +2873,7 @@ It was an instruction from a man who intended to be given something and had deci
 ---
 
 # Book One · Chapter 11: Thank you for telling me
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2925,7 +2925,7 @@ And the dinner.
 
 "I've thought of one, and it fits, and things that fit at half past midnight are exactly what I ought to be frightened of." He let it go there and did not say it. "I'll get it properly. His terminal took ten months and there was a bank in it, and banks leave a syndicate, and a syndicate is eleven or twelve people who all had to sign something. One of them will have talked to somebody, and I want it out of a document, not out of a mood."
 
-"How long?"
+"How long."
 
 "Two weeks. Possibly three."
 
@@ -2989,7 +2989,7 @@ Annie turned her head.
 
 "A woman in her fifties at the back, who did not speak once in four minutes and had the whole group arranged round her. Twice somebody said something and looked at her before going on, and neither of them knew they had done it." A pause. "She is the one I want. He is the one I can find."
 
-"Which of them is which?"
+"Which of them is which."
 
 "That's the difficulty." He said it without any embellishment at all, because it was not a good answer and dressing it up would not have made it one. "I have all eleven of their names. Two of them have been photographed. The other nine have spent their entire lives in a business that nobody points a camera at, and I stood eight metres from them for four seconds and could not put a single name on a single face."
 
@@ -2997,7 +2997,7 @@ Annie turned her head.
 
 "Late thirties, the shortest of the men, fetched drinks twice while I watched, laughed a quarter of a beat behind the room. And a woman in her fifties who said nothing and had the group built round her. Four or five names each." He turned his head. "Paper gives you names. It does not give you faces, and I have been building this on paper for three weeks."
 
-"So how do you close it?"
+"So how do you close it."
 
 "Somebody's mouth. It always is." A small pause. "Do you want to give me the name, or shall I go and get it?"
 
@@ -3037,7 +3037,7 @@ Annie did not move at all.
 
 "Yes."
 
-"What did you tell him?"
+"What did you tell him."
 
 "Two hundred and twenty million."
 
@@ -3059,11 +3059,11 @@ They were on the road up when he gave her the last of it.
 
 "There is one more from the floor, and it comes before that one." He looked at the trees. "I took her hand and kissed it. Over the fingers, in the European way, in front of four or five people who will describe it inside the week and use that word."
 
-"Why?"
+"Why."
 
 "Because eight hundred people had spent the evening deciding what I am. I gave them an answer that is not one and let them keep it." A pause. "She said it was the first defensive thing she had seen me do, and that she would have done exactly the same."
 
-"Does it hold?"
+"Does it hold."
 
 "A fortnight. Then somebody who was not there asks somebody who was, and the answer gets shorter every time it is passed on, and short answers are the ones people check."
 
@@ -3077,11 +3077,11 @@ Annie turned her head.
 
 The cypresses started.
 
-"What did she do?"
+"What did she do."
 
 "Nothing. She said *yes*, and then she put her glass down on a table, which is not a thing a woman of that sort does, and then she sent me across the room to stand near you." He looked at the trees. "She didn't ask about it. She won't. She'll keep it, and she'll be kind about it, and it will cost me every time she is."
 
-"What did you tell her that was true?"
+"What did you tell her that was true."
 
 "She asked where my people come from."
 
@@ -3150,7 +3150,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Book One · Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3284,7 +3284,7 @@ Georgij closed his eyes for a moment, in a room where nobody could see him do it
 
 "That's fair."
 
-"Is it a technique?"
+"Is it a technique."
 
 "It's a habit and it's a new one." He said it lightly, and every word of it was true. "I am standing in rooms full of men who have been doing this since before I could read, and I would be a fool not to ask them things. I asked two of them in one evening and it did not occur to me until afterwards that they might compare notes." A small pause. "I'll be more careful. Not because it wasn't sincere. Because it looked like something."
 
@@ -3672,7 +3672,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Book One · Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.6 · EN
+*Lot Fourteen* · Version 7.7 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3758,7 +3758,7 @@ Annie turned the first page over and did not read it.
 
 "He will not tell me I am wrong about it. He does not correct people with sentences." Georgij said it flatly and without any decoration anywhere. "He will take the routes. He will take them in the next four to six weeks, because a split board sells cheaply and sells fast. He will have to put real money against them, and he will have to put it in early enough that he still believes it was his own idea."
 
-"How much?"
+"How much."
 
 "Between four hundred and six hundred billion for control, and it will not be the purchase that costs him. It will be what comes after." He took his hands out from behind his back. "Four routes with berths he cannot let go idle, in a group with no working board. He will spend the first three months finding out that nobody at Hanseong can sign anything, and while he is finding that out he will be paying slot fees on lanes that are running at sixty per cent."
 
@@ -3834,11 +3834,11 @@ He was aware of it about a second after it was on him, and he did not put it awa
 
 Annie looked at him for rather longer than a moment.
 
-"Does it work because it is true?"
+"Does it work because it is true."
 
 "Yes. It works for no other reason. He has been lied to by professionals for fifteen years and he is very good at it. He has almost certainly never in his life been handed a paper that says *this is a guess* in the middle of it."
 
-"Could you have written it if it had not been true?"
+"Could you have written it if it had not been true."
 
 There it was.
 
@@ -4663,7 +4663,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.11 · EN
+*Lot Fourteen* · Version 12.12 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4707,7 +4707,7 @@ It did not take its time now.
 
 "He read it twice because it is good work. There is not one untrue word in it anywhere." The smile did not go anywhere. "He has taken a bite out of the apple, and he is carrying the rest of it around in his coat until Thursday. He will spend the first month telling people he found it himself."
 
-"When does he move?"
+"When does he move."
 
 "Four to six weeks. Half that board wants out badly enough to sign anything, and will sign cheaply, and that is the half he will sit down with."
 
@@ -4771,7 +4771,7 @@ Annie had not moved at all.
 
 "Somebody buys three charges over a couple of months, and a letter comes in the spring, and the person who can call in two thirds of her land is somebody she has never met. Buying positions in things is what a private equity company in Hong Kong exists for."
 
-"Has anybody started?"
+"Has anybody started."
 
 "Not as of yesterday. Not one of the three has moved. I am telling you the shape of a door. I am not telling you that anybody is standing in it."
 
@@ -4912,7 +4912,7 @@ He did not turn round and look at the chair.
 ---
 
 # Book One · Chapter 18: On account
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -4998,13 +4998,13 @@ He found Annie in the study at eleven.
 
 "He has read it twice and corrected it in four places, and he has put page sixteen on top."
 
-"Which is sixteen?"
+"Which is sixteen."
 
 "The board that split in March, and the four men who stopped coming." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read when you have decided and you are choosing which of them to telephone."
 
 Annie turned her chair a quarter turn.
 
-"How long?"
+"How long."
 
 "I told you four to six weeks on Tuesday. I was wrong by half." He said it flatly and did not soften it. "He will have it inside a fortnight. He was already working when he sent this back, and he sent it back early, and both of those are the same fact."
 
@@ -5032,7 +5032,7 @@ Annie put down the pen she had not been using.
 
 "I want a rival bid that loses," he said. "And I would like it to lose for a reason that is written down, and that has nothing to do with either of us."
 
-"How does it lose?"
+"How does it lose."
 
 "You bid for the whole of it."
 
@@ -5082,7 +5082,7 @@ Annie sat back and let him stand there.
 
 "Yes."
 
-"Is any of that in your pages?"
+"Is any of that in your pages."
 
 "Every line of it that is a fact, and nothing that is a plan. The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."
 
@@ -5138,15 +5138,15 @@ Annie was quiet for a while.
 
 "He will take a third of shares in a business under a contract he cannot alter and did not write." Georgij did not move. "That is a different terminal, and very nearly a different trade."
 
-"What does it cost me?"
+"What does it cost me."
 
 "I do not know yet, and that is the honest answer." He said it immediately. "The volumes are yours and the rate is his, and he has been setting terminal rates since before I was born. I would like your authority to agree it in the room."
 
-"How much authority?"
+"How much authority."
 
 "More than I expect to use." Georgij said it without any decoration anywhere. "I am telling you that on purpose, because you would find it out afterwards and then it would be a different conversation. I expect to settle near the middle of what a terminal of that size charges. I would like to be able to go to the top of it without telephoning you."
 
-"Why?"
+"Why."
 
 "Because he is seventy-eight and he does not do business on Mondays with people who had to ask."
 
@@ -5189,7 +5189,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5431,7 +5431,7 @@ The room went on being a room.
 
 "He waits," said Georgij.
 
-"He waits." The old man sat back. "What does she take from the Kims? Not the lorries. Say it."
+"He waits." The old man sat back. "What does she take from the Kims. Not the lorries. Say it."
 
 "Shares, security and a veto over routes."
 
@@ -5488,7 +5488,7 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5526,7 +5526,7 @@ She read it the way she read everything, which was quickly and twice, and she st
 
 Annie put the pages down and squared them.
 
-"How far inside?"
+"How far inside."
 
 "Comfortably." He stayed where he was. "Your people will have it before I say it out loud. You should read that number with the throughput beside it and not with me standing here."
 
@@ -5544,7 +5544,7 @@ Annie put the pages down and squared them.
 
 Annie almost did something with her mouth and then did not.
 
-"How did you get in the door?"
+"How did you get in the door."
 
 "I told him his apron is fourteen metres short on the north side."
 
@@ -5558,7 +5558,7 @@ Annie stopped.
 
 "Then I would have had a cold walk back to the gate and no contract." He said it without any decoration anywhere. "It was not blind. He built that terminal in ten months after nine years of being told it could not be done. A man like that has heard the praise. He has not heard the fourteen metres."
 
-"What did he say?"
+"What did he say."
 
 "That in fifty-one years two people have said it to his face, and that the other one was his wife."
 
@@ -5596,7 +5596,7 @@ She did not say whether that was right.
 
 Annie's hand stopped on the edge of the desk.
 
-"Which three?"
+"Which three."
 
 "A Thursday in June, a Wednesday in September, and a Monday last month. Not the fourth."
 
@@ -6094,7 +6094,7 @@ He was still holding his gloves.
 ---
 
 # Book One · Chapter 22: Not shown
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6294,7 +6294,7 @@ There was a long moment in which the only thing that happened was that she did n
 
 "I am going to go out for a while," said Georgij.
 
-"Where?"
+"Where."
 
 "Out."
 
@@ -6630,7 +6630,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Book One · Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6722,7 +6722,7 @@ Annie went still in a way he had seen twice before and had never yet been able t
 
 "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to sign with and that it was the arrangement." He kept his hands where they were. "It was true, and it cost me nothing, because he had already decided he liked me. It will cost me the next one."
 
-"How many next ones?"
+"How many next ones."
 
 "Four rooms between now and February. In two of them I will be asked a question that can only be answered with a name on a line, and the answer will have to be that I telephone a woman from a shed."
 
@@ -7220,7 +7220,7 @@ It would keep until she asked.
 ---
 
 # Book One · Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7260,7 +7260,7 @@ She let that stand for a moment.
 
 "Yes."
 
-"How long have you had it ready?"
+"How long have you had it ready."
 
 "Since the sixth of November." He said it flatly. "It has been waiting for two things that did not exist yet. Chairman Woo's signature was one, and the other one was in this filing."
 
@@ -7501,7 +7501,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.2 · EN
+*Lot Fourteen* · Version 3.3 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7543,7 +7543,7 @@ Annie was quiet for a second.
 
 Annie sat back.
 
-"How much does it cost me?"
+"How much does it cost me."
 
 "Nothing. That is most of why I want to do it."
 
@@ -8276,7 +8276,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8570,7 +8570,7 @@ She was looking at him with her head very slightly on one side.
 
 "I could have said yes and this would have been finished ten minutes ago."
 
-"Why did you not?"
+"Why did you not."
 
 "Because you are going to be in rooms with me for the next fifteen years," said Georgij, "and I would like all of them to be like this one."
 
@@ -8602,7 +8602,7 @@ Kim Ye-rin stood in the cold for a while and looked at the room through the glas
 
 She went to the door and put her hand on it and did not open it.
 
-"Is there anything else you have and have not used?"
+"Is there anything else you have and have not used."
 
 Georgij thought about it for exactly as long as it deserved.
 

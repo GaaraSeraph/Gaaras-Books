@@ -1,7 +1,7 @@
-Book One · Chapter 18: On account
-Lot Fourteen · Version 2.6 · EN
+# Chapter 18: On account
+*Lot Fourteen* · Version 2.7 · EN
 
-Day 48 · Thursday 20 November
+*Day 48 · Thursday 20 November*
 
 The document came back at ten past nine in the morning.
 
@@ -17,7 +17,7 @@ Jang brought it up himself.
 
 "I know you would." Georgij smiled at him, briefly and without any work in it, because the man had told him a thing nobody had asked him to tell.
 
-* * *
+---
 
 Georgij counted them before he read anything. Nineteen.
 
@@ -33,31 +33,31 @@ He sat looking at that for rather longer than it takes to look at a page.
 
 A man who is deciding whether to buy a shipping group reads the routes first, because the routes are what he would be buying. A man who has already decided reads the page that tells him who to sit down with. Sang-hoon had not put it on top to be clever. He had put it on top last, when he finished with it, and he had not bothered to put it back.
 
-* * *
+---
 
 There were four marks in the whole nineteen pages, and all four were in pencil.
 
 On page seven, beside his slot fee for the Busan lane, a figure. It was higher than his own by about a fifth, and it was written in the margin without a comment.
 
-On page eleven, beside a paragraph that said this is a guess in the middle of it, a single word.
+On page eleven, beside a paragraph that said *this is a guess* in the middle of it, a single word.
 
-No.
+*No.*
 
 On page nine, beside the two rumours from two mouths that had no reason to know each other, another one.
 
-Same.
+*Same.*
 
 And on page sixteen, beside the sentence naming the four men who had stopped coming to the board in March:
 
-Which.
+*Which.*
 
-* * *
+---
 
 Georgij put that page down and stood up and walked to the window, which he did not often do.
 
 Two sources that corroborate each other are worth ten times one source. That was the whole reason the rumour was in the document. It had come to him twice, from a man in a shipping agency and from a woman who audits nobody that man has ever met.
 
-Same.
+*Same.*
 
 One mouth, dressed as two. Somebody had walked it round the long way and back again, and Georgij had received it at both ends and counted it twice, and had felt rather good about it for four days.
 
@@ -65,7 +65,7 @@ He went back to the desk and wrote the correction on the inside cover of the fil
 
 Then he did the other sum, which took longer and was less pleasant.
 
-* * *
+---
 
 He had given Park Sang-hoon four walls and a map of where they stood. He had given him confirmation, on the record, that Annie's side already held part of the Kim family. He had said out loud in the room what that cost him, because saying it was worth more than hiding it.
 
@@ -81,7 +81,7 @@ A man who owes a great deal and pays a little of it quickly is not a man clearin
 
 The car had left Yeouido at half past seven for exactly that reason.
 
-* * *
+---
 
 Georgij sat back.
 
@@ -91,19 +91,19 @@ Which meant there would be another evening.
 
 That was worth more than the corrections, and the corrections were worth a great deal.
 
-* * *
+---
 
 He found Annie in the study at eleven.
 
 "He has read it twice and corrected it in four places, and he has put page sixteen on top."
 
-"Which is sixteen?"
+"Which is sixteen."
 
 "The board that split in March, and the four men who stopped coming." He stayed at the corner of the desk. "That is not a page you read to decide. That is a page you read when you have decided and you are choosing which of them to telephone."
 
 Annie turned her chair a quarter turn.
 
-"How long?"
+"How long."
 
 "I told you four to six weeks on Tuesday. I was wrong by half." He said it flatly and did not soften it. "He will have it inside a fortnight. He was already working when he sent this back, and he sent it back early, and both of those are the same fact."
 
@@ -115,7 +115,7 @@ She did not say anything to that for a moment.
 
 "Say what you want."
 
-* * *
+---
 
 "Two things, Mistress, and the first one will sound like the opposite of what we agreed."
 
@@ -133,9 +133,9 @@ Annie put down the pen she had not been using.
 
 "I want a rival bid that loses," he said. "And I would like it to lose for a reason that is written down, and that has nothing to do with either of us."
 
-* * *
+---
 
-"How does it lose?"
+"How does it lose."
 
 "You bid for the whole of it."
 
@@ -149,7 +149,7 @@ Annie looked at him.
 
 "They will not. They will not even receive it in the same week."
 
-* * *
+---
 
 "So I am seen to want it, and I am seen to be sensible, and I fail."
 
@@ -163,7 +163,7 @@ Annie looked at him.
 
 "I have shut the front door where he can see it." He said it without any weight anywhere. "A serious buyer walked up to it with money and went away again, for a reason that is on a page he read twice. A man who watches that happen stops looking for a third way in. He stops looking, and he stops asking people, and asking people is the only way anybody ever finds out what I am doing."
 
-* * *
+---
 
 Annie turned the pen over once.
 
@@ -189,11 +189,11 @@ Annie sat back and let him stand there.
 
 "Yes."
 
-"Is any of that in your pages?"
+"Is any of that in your pages."
 
 "Every line of it that is a fact, and nothing that is a plan. The disposal question is not in there at all. He brought that with him, which is how I know he had already decided. A man who is still weighing a thing does not ask what he will have to fight afterwards."
 
-* * *
+---
 
 Annie sat with that.
 
@@ -211,7 +211,7 @@ There it was.
 
 "I thought about it while I was standing at the window being pleased with a man for correcting my work." Georgij put both hands behind his back. "The pleasure was the useful part. It told me what he wants me to feel, and a man does not spend a car journey at half past seven in the morning on a feeling he does not want."
 
-* * *
+---
 
 "The second thing."
 
@@ -225,7 +225,7 @@ There it was.
 
 "It is sold within a year and split three ways, and one of the three is Sang-hoon. He has said that out loud once in his life, to a man who lent him money, and I do not think he has said it since."
 
-* * *
+---
 
 "You want me to buy a terminal."
 
@@ -241,7 +241,7 @@ Annie stopped.
 
 "Ten years, minimum volumes, with a number in it that means something." He did not soften it. "That is the most valuable single thing anybody in this city could hand him, and no part of it is a favour. There is no version of it that does not cost you real money if I have judged the throughput wrong."
 
-* * *
+---
 
 Annie was quiet for a while.
 
@@ -253,21 +253,21 @@ Annie was quiet for a while.
 
 "He will take a third of shares in a business under a contract he cannot alter and did not write." Georgij did not move. "That is a different terminal, and very nearly a different trade."
 
-* * *
+---
 
-"What does it cost me?"
+"What does it cost me."
 
 "I do not know yet, and that is the honest answer." He said it immediately. "The volumes are yours and the rate is his, and he has been setting terminal rates since before I was born. I would like your authority to agree it in the room."
 
-"How much authority?"
+"How much authority."
 
 "More than I expect to use." Georgij said it without any decoration anywhere. "I am telling you that on purpose, because you would find it out afterwards and then it would be a different conversation. I expect to settle near the middle of what a terminal of that size charges. I would like to be able to go to the top of it without telephoning you."
 
-"Why?"
+"Why."
 
 "Because he is seventy-eight and he does not do business on Mondays with people who had to ask."
 
-* * *
+---
 
 Annie picked the pen up.
 
@@ -281,7 +281,7 @@ Annie picked the pen up.
 
 "Then take something with you that he has not asked for," said Annie, "because a man who is enjoying himself gives away the wrong things by accident, and I would rather you gave away the right one on purpose."
 
-* * *
+---
 
 He went down to the east room and got out the file.
 
