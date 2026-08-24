@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 45 Kapitel, 100.500 Woerter.
+Book Two, 45 Kapitel, 100.528 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.5 | 2.286 |
-| 02 | v1.1 | 2.031 |
+| 02 | v1.2 | 2.059 |
 | 03 | v1.1 | 2.017 |
 | 04 | v1.4 | 2.702 |
 | 05 | v1.5 | 2.848 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 36 | v1.3 | 2.075 |
 | 37 | v1.2 | 2.028 |
 | 38 | v1.2 | 2.014 |
-| 39 | v1.2 | 2.101 |
+| 39 | v1.3 | 2.101 |
 | 40 | v1.1 | 2.002 |
 | 41 | v1.0 | 2.003 |
 | 42 | v1.1 | 2.025 |
@@ -289,11 +289,13 @@ It was the first evening on which only the first half of that was true.
 ---
 
 # Book Two · Chapter 2: The order of loading
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty-Two · Wednesday 4 March
 
 Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for.
+
+The two drivers used to go week and week about. That stopped in March, without anybody saying so: Mr Pyo has her, and Mr Ku has him.
 
 The yard was off a road with three yards on it and the other two were bigger. Room for eight and four trucks in it. One of the four had its bonnet up, and there was rain standing in the engine bay, so it had been up since the weekend and nobody had put anything over it.
 
@@ -7810,7 +7812,7 @@ He went in with her, and did not argue, because for once the thing she was telli
 ---
 
 # Book Two · Chapter 39: A room that is somebody else's now
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -7834,7 +7836,7 @@ The new owner was a woman of about forty with a headset and a tablet, and she wa
 
 "Do you have a name for him."
 
-"Mr Baek. I have not spoken to him since the day I signed. My solicitor has an address for the deposit return and I do not know if it is current." She looked at him properly for the first time. "You are the second person to ask me about a private dinner from before my time. The first one asked in April and I told him the same thing I am telling you."
+"Mr Sohn. I have not spoken to him since the day I signed. My solicitor has an address for the deposit return and I do not know if it is current." She looked at him properly for the first time. "You are the second person to ask me about a private dinner from before my time. The first one asked in April and I told him the same thing I am telling you."
 
 Georgij went very still.
 
@@ -7850,35 +7852,35 @@ A man tidying up after himself does not usually check twice that a room has been
 
 * * *
 
-He found Mr Baek two streets over, at a smaller place with no sign at all, cooking for regulars who did not need one.
+He found Mr Sohn two streets over, at a smaller place with no sign at all, cooking for regulars who did not need one.
 
-Mr Baek remembered the room, the date, and the party of two, because he had done the ordering himself and it had been an unusually good bottle for a table that small.
+Mr Sohn remembered the room, the date, and the party of two, because he had done the ordering himself and it had been an unusually good bottle for a table that small.
 
 "Two men," he said. "The one who booked it gave a name I have long since lost and paid in cash before he left, which nobody does. I remember because I thought at the time that a man who pays before the meal is either very rude or very careful, and he was not rude."
 
 "Was there a third man in the room at any point. Not seated. Standing in the doorway, or brought in partway through."
 
-Mr Baek thought about that properly, the way a man thinks who is used to being asked what somebody ordered and not what somebody did.
+Mr Sohn thought about that properly, the way a man thinks who is used to being asked what somebody ordered and not what somebody did.
 
 "No," he said. "Two men the whole evening, and I would have noticed a third, because a private room with two covers and a visitor is the kind of thing a kitchen talks about the next morning."
 
-"I do not know a Yeom," said Mr Baek, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash by a man who left before the coffee, which is also not a thing people do."
+"I do not know a Yeom," said Mr Sohn, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash by a man who left before the coffee, which is also not a thing people do."
 
 "Describe the one who did not book it."
 
-Mr Baek considered that the way a man considers a dish he cooked once, a long time ago, and has not been asked to remember since.
+Mr Sohn considered that the way a man considers a dish he cooked once, a long time ago, and has not been asked to remember since.
 
 "Older. Pleasant. He complimented the wine and asked what went into the sauce, and I told him, and he thanked me by name, which is unusual, because most men in a private room never learn a cook's name at all." He wiped his hands on the apron he was not wearing, out of habit. "He left before the coffee too. I remember thinking it was strange that neither of them wanted it, on a night that cold."
 
 "Did he eat."
 
-Mr Baek looked at him properly for the first time in the conversation.
+Mr Sohn looked at him properly for the first time in the conversation.
 
 "That is a strange thing to ask about a man's dinner."
 
 "Say it anyway."
 
-"He ate," said Mr Baek. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month, which a cook remembers whether he believes it or not." He tilted his head slightly. "Why does that matter to you."
+"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month, which a cook remembers whether he believes it or not." He tilted his head slightly. "Why does that matter to you."
 
 "It matters, and I am not going to explain why in your kitchen," said Georgij. "You have told me the one thing I came for and you did not know you had it, and I would rather you went on not knowing."
 
@@ -7888,7 +7890,7 @@ That was worth having, even cold. Whoever suggested the cards was somebody Choi 
 
 "Which one left first."
 
-"The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Baek shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
+"The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Sohn shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
 
 Georgij stood in a restaurant with no sign, being handed the one answer he had actually needed.
 

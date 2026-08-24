@@ -1,5 +1,5 @@
 # Chapter 39: A room that is somebody else's now
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -41,7 +41,7 @@ The new owner was a woman of about forty with a headset and a tablet, and she wa
 
 ---
 
-"Mr Baek. I have not spoken to him since the day I signed. My solicitor has an address for the deposit return and I do not know if it is current." She looked at him properly for the first time. "You are the second person to ask me about a private dinner from before my time. The first one asked in April and I told him the same thing I am telling you."
+"Mr Sohn. I have not spoken to him since the day I signed. My solicitor has an address for the deposit return and I do not know if it is current." She looked at him properly for the first time. "You are the second person to ask me about a private dinner from before my time. The first one asked in April and I told him the same thing I am telling you."
 
 ---
 
@@ -67,11 +67,11 @@ A man tidying up after himself does not usually check twice that a room has been
 
 * * *
 
-He found Mr Baek two streets over, at a smaller place with no sign at all, cooking for regulars who did not need one.
+He found Mr Sohn two streets over, at a smaller place with no sign at all, cooking for regulars who did not need one.
 
 ---
 
-Mr Baek remembered the room, the date, and the party of two, because he had done the ordering himself and it had been an unusually good bottle for a table that small.
+Mr Sohn remembered the room, the date, and the party of two, because he had done the ordering himself and it had been an unusually good bottle for a table that small.
 
 ---
 
@@ -83,7 +83,7 @@ Mr Baek remembered the room, the date, and the party of two, because he had done
 
 ---
 
-Mr Baek thought about that properly, the way a man thinks who is used to being asked what somebody ordered and not what somebody did.
+Mr Sohn thought about that properly, the way a man thinks who is used to being asked what somebody ordered and not what somebody did.
 
 ---
 
@@ -91,7 +91,7 @@ Mr Baek thought about that properly, the way a man thinks who is used to being a
 
 ---
 
-"I do not know a Yeom," said Mr Baek, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash by a man who left before the coffee, which is also not a thing people do."
+"I do not know a Yeom," said Mr Sohn, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash by a man who left before the coffee, which is also not a thing people do."
 
 ---
 
@@ -99,7 +99,7 @@ Mr Baek thought about that properly, the way a man thinks who is used to being a
 
 ---
 
-Mr Baek considered that the way a man considers a dish he cooked once, a long time ago, and has not been asked to remember since.
+Mr Sohn considered that the way a man considers a dish he cooked once, a long time ago, and has not been asked to remember since.
 
 ---
 
@@ -111,7 +111,7 @@ Mr Baek considered that the way a man considers a dish he cooked once, a long ti
 
 ---
 
-Mr Baek looked at him properly for the first time in the conversation.
+Mr Sohn looked at him properly for the first time in the conversation.
 
 ---
 
@@ -121,7 +121,7 @@ Mr Baek looked at him properly for the first time in the conversation.
 
 ---
 
-"He ate," said Mr Baek. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month, which a cook remembers whether he believes it or not." He tilted his head slightly. "Why does that matter to you."
+"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month, which a cook remembers whether he believes it or not." He tilted his head slightly. "Why does that matter to you."
 
 ---
 
@@ -141,7 +141,7 @@ That was worth having, even cold. Whoever suggested the cards was somebody Choi 
 
 ---
 
-"The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Baek shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
+"The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Sohn shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
 
 ---
 

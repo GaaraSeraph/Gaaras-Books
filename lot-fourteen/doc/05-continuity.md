@@ -348,6 +348,16 @@ beide.
 
 ### Die Fahrerwoche
 
+**Die Tabelle endet mit Band 1, nachgetragen am 24.08.** Ab Maerz gibt es keinen
+Wochenwechsel mehr: Mr Pyo faehrt Annie, Mr Ku faehrt Georgij. Gesagt wird es
+einmal, in Band 2, Kapitel 2. Vorher liess Kapitel 4 (Tag 159), Kapitel 10
+(Tag 172) und Kapitel 31 (Tag 239) Mr Ku in einer Pyo-Woche fahren, Kapitel 31
+sogar am Wechseltag selbst - derselbe Fehler, den diese Tabelle weiter unten
+fuer Band 1 schon einmal verbucht hat. Der Text will an diesen drei Stellen
+Mr Ku (seine Schweigsamkeit ist ein laufendes Motiv), also ist der Dienstplan
+gewichen und nicht die Figur. **Wer die Tabelle auf Band 2 anwendet, prueft
+gegen eine Regel, die es dort nicht mehr gibt.**
+
 **Der Wechsel liegt am Samstag.** Das ist nirgends ausgesprochen und ergibt sich
 zwingend aus zwei Stellen, die beide Kanon sind: Kapitel 11 an Tag 22, Samstag
 25. Oktober, fährt **Mr Ku**; Kapitel 16 an Tag 46, Dienstag 18. November, fährt
@@ -714,7 +724,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
 
-- **Band 2, Kapitel 2** *The order of loading* (v1.1) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
+- **Band 2, Kapitel 2** *The order of loading* (v1.2) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
 
   **Die Regel dahinter ist `doc/01-craft.md` 2h.** Er laeuft nicht mit stumpfem Werkzeug hinein und scheitert. Er steht drei Sekunden in dem Hof und **legt alle vier Eroeffnungen ab**, bevor er den Mund aufmacht. Drei sind fuer Raeume, in denen der andere noch entscheidet, was Georgij ist; Shin entscheidet gar nichts, er hat vier Lastwagen und seit fuenf Wochen keine Ladung. Die vierte ist die Frage nach dem, vor dem man sich hueten soll, und die gehoert einem Neuling.
 
@@ -1842,7 +1852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.2) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.3) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 

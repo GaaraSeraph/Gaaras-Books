@@ -80,6 +80,24 @@ zu machen, mit dem sie nichts zu tun haben will.
 Annie weiss das, weil sie es im Oktober selbst gemacht hat. Siehe "Die Pipeline"
 oben.
 
+**Und was Band 2 daraus gemacht hat, nachgetragen am 24.08.** Alles oben
+beschreibt ein laufendes Geschaeft und einen erledigten Vorgang. Beides gilt
+nicht mehr:
+
+- **Der Eintrag ist nicht geloescht, sondern behalten.** Auf der letzten Seite
+  des aufgeraeumten Katalogs stehen vier Referenzen unter der Zeile *retained
+  and not disclosed*, zwei davon sind Annies. Sie hat zweimal bezahlt und
+  zweimal einen Strich bekommen. *"You were not sold silence. You were sold a
+  piece of stationery."* (Band 2, Kapitel 9.)
+- **Das Haus gibt es nicht mehr.** Ab dem 20. April nimmt es nichts mehr an, am
+  29. April schliesst es, im Mai wird es abgewickelt. Die Abrechnungsbuecher
+  stehen seit dem 20. Mai in einem Lager eines Fonds, der sie irgendwann
+  einstampfen laesst. Wer kuenftig etwas mit dem Register vorhat, hat kein Haus
+  mehr, das man dazu bringen koennte.
+- **Die Seite ueberlebt das Haus.** Sechshundertvierzig Adressen haben sie im
+  Maerz bekommen. *"A page from a dealer that no longer exists, that nobody
+  stands behind and nobody will confirm, is a photocopy of an allegation."*
+
 **Regel fuers Schreiben:** nie erklaeren. Das Register taucht nur dort auf, wo
 jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
 offen liegt.

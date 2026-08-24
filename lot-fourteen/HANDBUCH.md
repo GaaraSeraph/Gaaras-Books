@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 152.910 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 153.042 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -135,15 +135,15 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kim Do-yun](#kim-do-yun)
   - [Mr Kwon](#mr-kwon)
   - [Mr Yeo](#mr-yeo)
-  - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Ku](#mr-ku)
+  - [Nam Byung-hee](#nam-byung-hee)
   - [Mr Yeom](#mr-yeom)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
   - [Choi Dae-ho](#choi-dae-ho)
-  - [Mr Baek](#mr-baek)
   - [Shin](#shin)
   - [Mr Pyo](#mr-pyo)
+  - [Mr Baek](#mr-baek)
   - [Bae](#bae)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
@@ -1346,7 +1346,9 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Tae-min** - Neunzehn, unter Yeo, hat Angst vor Yeo. Macht montags und donnerstags den Ostrasen, also die zwei Tage der Woche, an denen ein Mann vor den Rosen steht.
 *Kanon, Kapitel 5.*
 
-**Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
+**Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. **Ab Maerz, Band 2,
+ist der Wechsel weg:** Mr Pyo faehrt Annie, Mr Ku faehrt Georgij, und in Band 2
+kommt Pyo darum nicht mehr vor. Gesagt wird es einmal, in Kapitel 2. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
 *Kanon, Kapitel 3 und 5.*
 
 **Mr Chae** - **Annies Mann fuer das Papier.** Kein Hausangestellter, kein Vertrauter, kein Freund: der Jurist, der die Strukturen baut, in denen ihr Geld sich bewegt. Ende fuenfzig. Er hat noch nie in diesem Haus uebernachtet und wird nie zum Essen bleiben.
@@ -1879,6 +1881,24 @@ zu machen, mit dem sie nichts zu tun haben will.
 **zurueckgezogen**. Das Haus aendert Eintraege, wenn jemand dafuer bezahlt, und
 Annie weiss das, weil sie es im Oktober selbst gemacht hat. Siehe "Die Pipeline"
 oben.
+
+**Und was Band 2 daraus gemacht hat, nachgetragen am 24.08.** Alles oben
+beschreibt ein laufendes Geschaeft und einen erledigten Vorgang. Beides gilt
+nicht mehr:
+
+- **Der Eintrag ist nicht geloescht, sondern behalten.** Auf der letzten Seite
+  des aufgeraeumten Katalogs stehen vier Referenzen unter der Zeile *retained
+  and not disclosed*, zwei davon sind Annies. Sie hat zweimal bezahlt und
+  zweimal einen Strich bekommen. *"You were not sold silence. You were sold a
+  piece of stationery."* (Band 2, Kapitel 9.)
+- **Das Haus gibt es nicht mehr.** Ab dem 20. April nimmt es nichts mehr an, am
+  29. April schliesst es, im Mai wird es abgewickelt. Die Abrechnungsbuecher
+  stehen seit dem 20. Mai in einem Lager eines Fonds, der sie irgendwann
+  einstampfen laesst. Wer kuenftig etwas mit dem Register vorhat, hat kein Haus
+  mehr, das man dazu bringen koennte.
+- **Die Seite ueberlebt das Haus.** Sechshundertvierzig Adressen haben sie im
+  Maerz bekommen. *"A page from a dealer that no longer exists, that nobody
+  stands behind and nobody will confirm, is a photocopy of an allegation."*
 
 **Regel fuers Schreiben:** nie erklaeren. Das Register taucht nur dort auf, wo
 jemand etwas damit tun will. Es ist kein Weltenbau, es ist eine Rechnung, die
@@ -2475,6 +2495,16 @@ beide.
 
 ### Die Fahrerwoche
 
+**Die Tabelle endet mit Band 1, nachgetragen am 24.08.** Ab Maerz gibt es keinen
+Wochenwechsel mehr: Mr Pyo faehrt Annie, Mr Ku faehrt Georgij. Gesagt wird es
+einmal, in Band 2, Kapitel 2. Vorher liess Kapitel 4 (Tag 159), Kapitel 10
+(Tag 172) und Kapitel 31 (Tag 239) Mr Ku in einer Pyo-Woche fahren, Kapitel 31
+sogar am Wechseltag selbst - derselbe Fehler, den diese Tabelle weiter unten
+fuer Band 1 schon einmal verbucht hat. Der Text will an diesen drei Stellen
+Mr Ku (seine Schweigsamkeit ist ein laufendes Motiv), also ist der Dienstplan
+gewichen und nicht die Figur. **Wer die Tabelle auf Band 2 anwendet, prueft
+gegen eine Regel, die es dort nicht mehr gibt.**
+
 **Der Wechsel liegt am Samstag.** Das ist nirgends ausgesprochen und ergibt sich
 zwingend aus zwei Stellen, die beide Kanon sind: Kapitel 11 an Tag 22, Samstag
 25. Oktober, fährt **Mr Ku**; Kapitel 16 an Tag 46, Dienstag 18. November, fährt
@@ -2841,7 +2871,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
 
-- **Band 2, Kapitel 2** *The order of loading* (v1.1) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
+- **Band 2, Kapitel 2** *The order of loading* (v1.2) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
 
   **Die Regel dahinter ist `doc/01-craft.md` 2h.** Er laeuft nicht mit stumpfem Werkzeug hinein und scheitert. Er steht drei Sekunden in dem Hof und **legt alle vier Eroeffnungen ab**, bevor er den Mund aufmacht. Drei sind fuer Raeume, in denen der andere noch entscheidet, was Georgij ist; Shin entscheidet gar nichts, er hat vier Lastwagen und seit fuenf Wochen keine Ladung. Die vierte ist die Frage nach dem, vor dem man sich hueten soll, und die gehoert einem Neuling.
 
@@ -3969,7 +3999,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.2) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.3) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -7558,15 +7588,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Yeo | 29 | 5 (b1ch05-b2ch34) | 6 | 46 |
+| Mr Ku | 28 | 19 (b1ch05-b2ch36) | 3 | 60 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Mr Ku | 27 | 19 (b1ch05-b2ch36) | 3 | 60 |
 | Mr Yeom | 25 | 3 (b2ch24-b2ch34) | 26 | 46 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Choi Dae-ho | 18 | 10 (b1ch07-b2ch44) | 5 | 61 |
-| Mr Baek | 18 | 7 (b1ch05-b2ch42) | 2 | 61 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
+| Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
+| Mr Baek | 9 | 6 (b1ch05-b2ch42) | 2 | 55 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
@@ -7919,12 +7949,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch01:226 | "You have read it," said Annie. |
 | 51 | b2ch01:254 | Annie looked at the window and not at the desk, and for a while she did not say anything.. |
 | 51 | b2ch01:264 | Annie put her hand flat on the arm of the chair. |
-| 53 | b2ch02:66 | It was worse than the four lines Annie had turned face down in January had assumed. It w.. |
-| 53 | b2ch02:134 | Annie came out of the small room at half past eight. |
-| 53 | b2ch02:142 | Annie did not put anything down. |
-| 53 | b2ch02:152 | Annie looked at him for a moment. |
-| 53 | b2ch02:172 | "You wrote it out correctly," said Annie. |
-| 53 | b2ch02:184 | Annie did not argue with any part of that, which he had not expected either. |
+| 53 | b2ch02:70 | It was worse than the four lines Annie had turned face down in January had assumed. It w.. |
+| 53 | b2ch02:138 | Annie came out of the small room at half past eight. |
+| 53 | b2ch02:146 | Annie did not put anything down. |
+| 53 | b2ch02:156 | Annie looked at him for a moment. |
+| 53 | b2ch02:176 | "You wrote it out correctly," said Annie. |
+| 53 | b2ch02:188 | Annie did not argue with any part of that, which he had not expected either. |
 | 56 | b2ch03:8 | On the Wednesday night Annie had asked for the Ulsan one by name, from the filings and t.. |
 | 56 | b2ch03:96 | There are two reasons a person pays for that, and one of them is the reason Annie had. F.. |
 | 56 | b2ch03:110 | Deterrence needs the other side of it. A page with Annie on it and a woman of eighty-one.. |
@@ -8285,8 +8315,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch01:138` (Tag 51) - three, two
 - `b2ch01:146` (Tag 51) - forty, twenty-two
 - `b2ch01:222` (Tag 51) - eight, ten
-- `b2ch02:66` (Tag 53) - four, one
-- `b2ch02:134` (Tag 53) - eight
+- `b2ch02:70` (Tag 53) - four, one
+- `b2ch02:138` (Tag 53) - eight
 - `b2ch03:8` (Tag 56) - one, three
 - `b2ch03:96` (Tag 56) - one, two
 - `b2ch03:110` (Tag 56) - eighty-one, two
@@ -10176,6 +10206,60 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Ku
+
+28 Nennungen in 19 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:346 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
+| 53 | b2ch02:126 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:250 | "No," said Mr Ku. |
+| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
+| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
+| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
+| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
+| 41 | b2ch31:134 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
+| 41 | b2ch31:418 | Mr Ku had the car at the end of the street with the engine off and the window down. |
+| 41 | b2ch31:432 | Mr Ku looked at his empty hands in the mirror and pulled out. |
+| 51 | b2ch36:262 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch02:10` (Tag 53) - two
+- `b2ch09:302` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:252` (Tag 3) - fifty-five
+- `b2ch14:232` (Tag 4) - one
+- `b2ch14:236` (Tag 4) - forty
+- `b2ch20:280` (Tag 11) - four, one
+- `b2ch26:290` (Tag 38) - one
+- `b2ch31:134` (Tag 41) - two
+
+---
+
 ### Nam Byung-hee
 
 28 Nennungen in 10 Kapiteln.
@@ -10228,58 +10312,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch19:192` (Tag 11) - one
 - `b2ch20:36` (Tag 11) - four, seven, twenty, two
 - `b2ch22:94` (Tag 17) - fifty-eight, four
-
----
-
-### Mr Ku
-
-27 Nennungen in 19 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:122 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:302 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:252 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:232 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:236 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:250 | "No," said Mr Ku. |
-| 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
-| 38 | b2ch26:290 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:370 | Mr Ku had the car by the wall. |
-| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
-| 41 | b2ch31:134 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
-| 41 | b2ch31:418 | Mr Ku had the car at the end of the street with the engine off and the window down. |
-| 41 | b2ch31:432 | Mr Ku looked at his empty hands in the mirror and pulled out. |
-| 51 | b2ch36:262 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch09:302` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:252` (Tag 3) - fifty-five
-- `b2ch14:232` (Tag 4) - one
-- `b2ch14:236` (Tag 4) - forty
-- `b2ch20:280` (Tag 11) - four, one
-- `b2ch26:290` (Tag 38) - one
-- `b2ch31:134` (Tag 41) - two
 
 ---
 
@@ -10455,90 +10487,48 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Baek
-
-18 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 61 | b2ch39:44 | "Mr Baek. I have not spoken to him since the day I signed. My solicitor has an address f.. |
-| 61 | b2ch39:70 | He found Mr Baek two streets over, at a smaller place with no sign at all, cooking for r.. |
-| 61 | b2ch39:74 | Mr Baek remembered the room, the date, and the party of two, because he had done the ord.. |
-| 61 | b2ch39:86 | Mr Baek thought about that properly, the way a man thinks who is used to being asked wha.. |
-| 61 | b2ch39:94 | "I do not know a Yeom," said Mr Baek, before Georgij could ask. "I know a party of two, .. |
-| 61 | b2ch39:102 | Mr Baek considered that the way a man considers a dish he cooked once, a long time ago, .. |
-| 61 | b2ch39:114 | Mr Baek looked at him properly for the first time in the conversation. |
-| 61 | b2ch39:124 | "He ate," said Mr Baek. "Slowly, and he finished the plate, and he told me it was the be.. |
-| 61 | b2ch39:144 | "The older one. About ten minutes before the other, on his own, no goodbye that carried .. |
-| 2 | b2ch42:54 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 2 | b2ch42:62 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 2 | b2ch42:170 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:44` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 51) - four, six
-- `b2ch39:44` (Tag 61) - one
-- `b2ch39:70` (Tag 61) - one, two
-- `b2ch39:74` (Tag 61) - two
-- `b2ch39:94` (Tag 61) - two
-- `b2ch39:144` (Tag 61) - one, ten
-- `b2ch42:54` (Tag 2) - one
-- `b2ch42:62` (Tag 2) - nineteen
-- `b2ch42:170` (Tag 2) - eleven
-
----
-
 ### Shin
 
 18 Nennungen in 1 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 53 | b2ch02:10 | Shin came out himself. There was nobody to send. |
-| 53 | b2ch02:16 | Three were for rooms in which the other man was still deciding what Georgij was. Shin wa.. |
-| 53 | b2ch02:30 | Shin wiped his hands down the front of his coat and said nothing at all. |
-| 53 | b2ch02:36 | Shin stood there for a while. |
-| 53 | b2ch02:40 | "There was nothing he was permitted to tell you." Georgij took a folded sheet out of his.. |
-| 53 | b2ch02:44 | Shin looked at the sheet in his own hand and then at the yard. |
-| 53 | b2ch02:56 | Shin put the sheet away in an inside pocket without unfolding it, which was what Georgij.. |
-| 53 | b2ch02:64 | The second was what he owed, and Shin gave him that one at the same speed, which not one.. |
-| 53 | b2ch02:74 | Shin went on anyway, walking him back over the yard, and this was the part that was not .. |
-| 53 | b2ch02:78 | "You want to know what it's actually like now, go and stand at the Incheon gate at four .. |
-| 53 | b2ch02:84 | "The order of loading." Shin stopped walking. "Nine months of the year that place is ful.. |
-| 53 | b2ch02:88 | "There's a fellow out of Ulsan I've known eight years. Chemicals. One lane, nothing else.. |
-| 53 | b2ch02:96 | "Somebody bought something over the winter," said Shin. "Nobody knows what and nobody in.. |
-| 53 | b2ch02:110 | At the gate Shin asked what house he was from, which is what a man asks when he does not.. |
-| 53 | b2ch02:118 | Shin took that the way a man takes the first straight answer he has had since January, w.. |
-| 53 | b2ch02:162 | Two of them he could not answer. One was how long the Ulsan one had been rolling before .. |
-| 53 | b2ch02:168 | "Shin says three or four out of Gimpo alone, and Gimpo is one road with three yards on i.. |
-| 53 | b2ch02:186 | "Bring me the Ulsan one by name," she said. "Not from Shin. From the filings, and then f.. |
+| 53 | b2ch02:14 | Shin came out himself. There was nobody to send. |
+| 53 | b2ch02:20 | Three were for rooms in which the other man was still deciding what Georgij was. Shin wa.. |
+| 53 | b2ch02:34 | Shin wiped his hands down the front of his coat and said nothing at all. |
+| 53 | b2ch02:40 | Shin stood there for a while. |
+| 53 | b2ch02:44 | "There was nothing he was permitted to tell you." Georgij took a folded sheet out of his.. |
+| 53 | b2ch02:48 | Shin looked at the sheet in his own hand and then at the yard. |
+| 53 | b2ch02:60 | Shin put the sheet away in an inside pocket without unfolding it, which was what Georgij.. |
+| 53 | b2ch02:68 | The second was what he owed, and Shin gave him that one at the same speed, which not one.. |
+| 53 | b2ch02:78 | Shin went on anyway, walking him back over the yard, and this was the part that was not .. |
+| 53 | b2ch02:82 | "You want to know what it's actually like now, go and stand at the Incheon gate at four .. |
+| 53 | b2ch02:88 | "The order of loading." Shin stopped walking. "Nine months of the year that place is ful.. |
+| 53 | b2ch02:92 | "There's a fellow out of Ulsan I've known eight years. Chemicals. One lane, nothing else.. |
+| 53 | b2ch02:100 | "Somebody bought something over the winter," said Shin. "Nobody knows what and nobody in.. |
+| 53 | b2ch02:114 | At the gate Shin asked what house he was from, which is what a man asks when he does not.. |
+| 53 | b2ch02:122 | Shin took that the way a man takes the first straight answer he has had since January, w.. |
+| 53 | b2ch02:166 | Two of them he could not answer. One was how long the Ulsan one had been rolling before .. |
+| 53 | b2ch02:172 | "Shin says three or four out of Gimpo alone, and Gimpo is one road with three yards on i.. |
+| 53 | b2ch02:190 | "Bring me the Ulsan one by name," she said. "Not from Shin. From the filings, and then f.. |
 
 ### Zahlen in der Naehe von Shin
 
-- `b2ch02:16` (Tag 53) - five, four, three
-- `b2ch02:40` (Tag 53) - four, twenty-six
-- `b2ch02:64` (Tag 53) - four, one
-- `b2ch02:78` (Tag 53) - four, twelve
-- `b2ch02:84` (Tag 53) - four, nine, one, three
-- `b2ch02:88` (Tag 53) - eight, one, two
-- `b2ch02:162` (Tag 53) - eight, five, one, two
-- `b2ch02:168` (Tag 53) - four, one, three
-- `b2ch02:186` (Tag 53) - one
+- `b2ch02:20` (Tag 53) - five, four, three
+- `b2ch02:44` (Tag 53) - four, twenty-six
+- `b2ch02:68` (Tag 53) - four, one
+- `b2ch02:82` (Tag 53) - four, twelve
+- `b2ch02:88` (Tag 53) - four, nine, one, three
+- `b2ch02:92` (Tag 53) - eight, one, two
+- `b2ch02:166` (Tag 53) - eight, five, one, two
+- `b2ch02:172` (Tag 53) - four, one, three
+- `b2ch02:190` (Tag 53) - one
 
 ---
 
 ### Mr Pyo
 
-10 Nennungen in 7 Kapiteln.
+11 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10552,6 +10542,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b1ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
 | 74 | b1ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
 | 74 | b1ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 
@@ -10562,6 +10553,35 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch28:244` (Tag 1) - eleven, one
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
+- `b2ch02:10` (Tag 53) - two
+
+---
+
+### Mr Baek
+
+9 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 2 | b2ch42:54 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 2 | b2ch42:62 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 2 | b2ch42:170 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:44` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 51) - four, six
+- `b2ch42:54` (Tag 2) - one
+- `b2ch42:62` (Tag 2) - nineteen
+- `b2ch42:170` (Tag 2) - eleven
 
 ---
 

@@ -51,7 +51,9 @@ Georgij behandelt sie mit echtem Respekt, weil sie ihn verdient. Sie ist die kom
 **Tae-min** - Neunzehn, unter Yeo, hat Angst vor Yeo. Macht montags und donnerstags den Ostrasen, also die zwei Tage der Woche, an denen ein Mann vor den Rosen steht.
 *Kanon, Kapitel 5.*
 
-**Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
+**Mr Ku und Mr Pyo** - Zwei Fahrer, im Wochenwechsel. **Ab Maerz, Band 2,
+ist der Wechsel weg:** Mr Pyo faehrt Annie, Mr Ku faehrt Georgij, und in Band 2
+kommt Pyo darum nicht mehr vor. Gesagt wird es einmal, in Kapitel 2. In der Auktionsnacht war keiner von beiden dabei, und der Grund ist kein Dienstplan, sondern dass Annie an diesem Abend niemanden dabeihaben wollte. Georgij versteht das am dritten Tag und sagt es niemandem.
 *Kanon, Kapitel 3 und 5.*
 
 **Mr Chae** - **Annies Mann fuer das Papier.** Kein Hausangestellter, kein Vertrauter, kein Freund: der Jurist, der die Strukturen baut, in denen ihr Geld sich bewegt. Ende fuenfzig. Er hat noch nie in diesem Haus uebernachtet und wird nie zum Essen bleiben.
