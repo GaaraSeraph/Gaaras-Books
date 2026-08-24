@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 162.979 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 163.303 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2855,7 +2855,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 **Offen bleibt nur noch, wann er faellt**, also wann Georgij ihn ausspricht.
 
-- **Kapitel 23** *Nobody weighs a door handle* (v3.6) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
+- **Kapitel 23** *Nobody weighs a door handle* (v3.7) - Erste Haelfte der Nacht nach dem Bruch. Eine Stunde bergab durch eine Stadt, die nach Hause geht; die Haende gehen an und wieder aus; viermal bis *Sang-hoon saw it* und nicht weiter. Kein Geld, kein Ort, kein anderes Ergebnis als zurueck vor Mitternacht. Die Mapo-Bruecke, deren Bedeutung er erst an der Schrift im Gelaender begreift. Jang im Laufschritt, der Sake aus seiner Tasche, das Einschenken mit beiden Haenden, die Ecke bei den Garagen. Dann Annie auf dem Beton, die Bruchfrage, **der Entzug der Anrede**, und ihre Antwort, die seine Lesart umwirft.
 
   **Der Hoehepunkt ist der Entzug der Anrede.** Auf ihr *"A man who does not break is a man nobody can hold"* kontert er mit dem, was tatsaechlich der Fall ist: **Sie hat ihn fuenfundfuenfzig Tage lang tadellos gehalten**, jeden Raum, jeden Namen, jede wache Stunde, fuer eine Unterschrift im Oktober und nichts weiter. *"So why did you go and try to waste it?"*
 
@@ -2879,7 +2879,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Damit hat Georgij sich zweimal in vier Tagen in derselben Frau geirrt**, auf Tatsachen, die er in der Hand hielt - Kapitel 20 ueber dem Schreibtisch, und hier. *"I have had it backwards twice since Friday."* - *"I know. I was there for the other one."*
 
-- **Kapitel 22** *Not shown* (v1.2) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
+- **Kapitel 22** *Not shown* (v1.3) - Sang-hoon kommt auf das Anwesen und fragt vor Annie, was Georgij kosten würde. Sie greift in die Jackentasche und bricht damit ihre eigene Regel aus Kapitel 12. Der quid pro quo fällt zum ersten Mal als Waffe. Er geht in den Garten, raucht eine von Jangs Zigaretten und über die Mauer.
 
   **Wo die Fernbedienung ist, und warum das zaehlt.** Sie liegt **nicht** auf der Steinablage. Der Weg ist in vier Stellen festgelegt und laeuft so:
 
@@ -2894,7 +2894,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.7) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.8) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 **Wem der Routen-Satz gehoert, festgeschrieben am 23.08.** Er wandert durch sechs Kapitel und die Herkunft war in einem davon falsch.
@@ -2904,7 +2904,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** stand bis zum 23.08. auf *"He told me what that is"* und schrieb damit Woo die Mechanik zu, die Georgij eine Woche vorher **vor Annie** vorgetragen hatte. Sie war im Raum, sie haette es gewusst. Jetzt: *"He told me what it makes you"*, und Georgij sagt von sich aus dazu, wo er den Satz zuerst benutzt hat und wofuer. **Damit traegt Annies Schweigen danach etwas**, statt nur dazustehen.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
 
-- **Kapitel 20** *I came back with a favour* (v1.5) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
+- **Kapitel 20** *I came back with a favour* (v1.6) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.11) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.8) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.13) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
@@ -4814,6 +4814,39 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 20 bis 23 (25.08.)
+
+- **Kapitel 21:** *"his first night in this country"* -> *"his first night in
+  it"*. Der 4. Oktober war seine erste Nacht in **diesem Haus**. Im Land ist er
+  seit Jahren: mit zwanzig in einem Haus in Busan (Kapitel 6), elf Haeuser in
+  siebzehn Jahren, und Kapitel 23 sagt *"both times in this country"*, was nur
+  Sinn hat, wenn er lange darin ist.
+- **Kapitel 21:** *"four hours of my Friday"* -> **drei**. Er kommt um zwei,
+  sitzt zwei Stunden (*"you sat in my house for two hours"*, *"I chose that at
+  four o'clock"*), dann vierzig Minuten Rundgang und neunzig Sekunden Halle. Und
+  *four hours* steht im selben Kapitel schon fuer den Abend des Sechzehnten.
+- **Kapitel 21:** zwei Anfuehrungen auf einer Zeile beim selben Sprecher
+  (*"...in some years." "That last one is not my business."*). Zu einer Rede
+  zusammengezogen.
+- **Kapitel 22:** *"asked him a question at a door"* -> **at a table**. Die vier
+  Fragen fielen am Tisch; an der Tuer hat **Georgij** gefragt. Kapitel 23 gibt
+  die Tuerszene richtig wieder (*"a man had looked at him for slightly too
+  long"*), und daran laesst es sich pruefen.
+- **Kapitel 23:** *"twice since Friday"* -> **tonight**. Vier Zeilen darueber
+  steht *"Twice in one night, with the same woman"*, und Annies Antwort *"I was
+  there for the other one"* zeigt auf das lange Zimmer desselben Abends.
+- **Kapitel 20:** das Datums-Etikett auf *"a Monday in October"* gezogen, wie in
+  13, 15 und 18.
+
+**Was gehalten hat.** *"at this table on the thirteenth"* ist Tag 41. *"nine
+days ago"* in Kapitel 22 ist die Fahrt aus Kapitel 17. *"the first eight days"*
+und *"five weeks"* fuer die Fernbedienung gehen beide auf. Kamera
+vierundzwanzig, *show me now* am vierten Tag, Tae-min montags und donnerstags -
+und Tag 55 **ist** ein Donnerstag. **Dienstag, der 16. Dezember, ist wirklich ein
+Dienstag** (Tag 74). Mr Pyo faehrt in seiner Woche.
 
 ---
 
@@ -9410,7 +9443,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | b1ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
 | 48 | b1ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | b1ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
-| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
+| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a table on the eighteenth of November and had.. |
 | 55 | b1ch22:34 | Sang-hoon stopped in the hall. |
 | 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
 | 55 | b1ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
@@ -9826,7 +9859,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:326 | "You can stop being delicate," said Hana. "I said all of it." |
 | 49 | b1ch21:334 | Hana stood in the corridor with her arms folded and looked at him for a moment. |
 | 49 | b1ch21:356 | Hana looked at the table, and then at the door, and then back at the table. |
-| 49 | b1ch21:368 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | b1ch21:368 | "Don't," said Hana. "You have had three hours of my Friday and you are about to have my .. |
 | 49 | b1ch21:382 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
 | 49 | b1ch21:390 | "Hana." |
 | 49 | b1ch21:402 | Hana's face did not do anything. |
@@ -9928,7 +9961,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch21:254` (Tag 49) - four, nine, two
 - `b1ch21:262` (Tag 49) - four
 - `b1ch21:272` (Tag 49) - forty, four, thirty-eight, two
-- `b1ch21:368` (Tag 49) - four
+- `b1ch21:368` (Tag 49) - three
 - `b1ch21:382` (Tag 49) - fifty-one, one
 - `b1ch21:412` (Tag 49) - one
 - `b1ch23:224` (Tag 55) - nineteen

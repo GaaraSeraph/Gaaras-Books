@@ -955,7 +955,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 48 | b1ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
 | 48 | b1ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
 | 48 | b1ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
-| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
+| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a table on the eighteenth of November and had.. |
 | 55 | b1ch22:34 | Sang-hoon stopped in the hall. |
 | 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
 | 55 | b1ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
@@ -1371,7 +1371,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:326 | "You can stop being delicate," said Hana. "I said all of it." |
 | 49 | b1ch21:334 | Hana stood in the corridor with her arms folded and looked at him for a moment. |
 | 49 | b1ch21:356 | Hana looked at the table, and then at the door, and then back at the table. |
-| 49 | b1ch21:368 | "Don't," said Hana. "You have had four hours of my Friday and you are about to have my D.. |
+| 49 | b1ch21:368 | "Don't," said Hana. "You have had three hours of my Friday and you are about to have my .. |
 | 49 | b1ch21:382 | "It is not kind at all, it is a report." Hana did not move off the frame. "I have a hous.. |
 | 49 | b1ch21:390 | "Hana." |
 | 49 | b1ch21:402 | Hana's face did not do anything. |
@@ -1473,7 +1473,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch21:254` (Tag 49) - four, nine, two
 - `b1ch21:262` (Tag 49) - four
 - `b1ch21:272` (Tag 49) - forty, four, thirty-eight, two
-- `b1ch21:368` (Tag 49) - four
+- `b1ch21:368` (Tag 49) - three
 - `b1ch21:382` (Tag 49) - fifty-one, one
 - `b1ch21:412` (Tag 49) - one
 - `b1ch23:224` (Tag 55) - nineteen

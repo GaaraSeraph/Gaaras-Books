@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.188 Woerter.
+Book One, 34 Kapitel, 101.186 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -30,10 +30,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 17 | v12.13 | 2.743 |
 | 18 | v2.8 | 2.980 |
 | 19 | v1.11 | 3.210 |
-| 20 | v1.5 | 2.108 |
-| 21 | v1.7 | 4.080 |
-| 22 | v1.2 | 2.584 |
-| 23 | v3.6 | 2.653 |
+| 20 | v1.6 | 2.108 |
+| 21 | v1.8 | 4.079 |
+| 22 | v1.3 | 2.584 |
+| 23 | v3.7 | 2.652 |
 | 24 | v1.5 | 2.653 |
 | 25 | v1.4 | 2.550 |
 | 26 | v1.5 | 2.423 |
@@ -5486,7 +5486,7 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5596,7 +5596,7 @@ Annie's hand stopped on the edge of the desk.
 
 "Which three."
 
-"A Thursday in June, a Wednesday in September, and a Monday last month. Not the fourth."
+"A Thursday in June, a Wednesday in September, and a Monday in October. Not the fourth."
 
 "Not the fourth."
 
@@ -5709,7 +5709,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Book One · Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5977,7 +5977,7 @@ Hana was quiet for a second.
 
 It took forty minutes and she did not hurry any of it.
 
-He went through it the way he had gone through a house on a hill on his first night in this country. Twice. Once for what was there, and once for what could not be seen from where. The difference was the hour, and the owner walking beside him, and her permission in his pocket. And that he said what he was looking at out loud as he went, because she had asked a question with *All of it* in it.
+He went through it the way he had gone through a house on a hill on his first night in it. Twice. Once for what was there, and once for what could not be seen from where. The difference was the hour, and the owner walking beside him, and her permission in his pocket. And that he said what he was looking at out loud as he went, because she had asked a question with *All of it* in it.
 
 The dining room seats twenty-two and has done since her father. The service corridor runs behind it and comes out by the pantry, which means food and staff never cross the hall. Two staircases. The second one is at the north end and is the one the caterers will use. It is also the only way from the kitchen to the first floor that misses the door of the room the coats will be in.
 
@@ -5995,7 +5995,7 @@ Upstairs he looked at four rooms and did not go into three of them.
 
 "Which is what?"
 
-"Which of them lock. Which of them a person could be shown into if the evening went sideways." He said it without any weight at all. "And that your late father's study still has his desk in it and has not been used for anything in some years." "That last one is not my business."
+"Which of them lock. Which of them a person could be shown into if the evening went sideways." He said it without any weight at all. "And that your late father's study still has his desk in it and has not been used for anything in some years. That last one is not my business."
 
 Hana stood in the corridor with her arms folded and looked at him for a moment.
 
@@ -6025,7 +6025,7 @@ Georgij smiled at her then, and meant it, and did not do anything with it.
 
 "Thank you."
 
-"Don't," said Hana. "You have had four hours of my Friday and you are about to have my December, and I gave you both of them for reasons that are mine."
+"Don't," said Hana. "You have had three hours of my Friday and you are about to have my December, and I gave you both of them for reasons that are mine."
 
 He was putting his coat on in the hall when she said it.
 
@@ -6092,7 +6092,7 @@ He was still holding his gloves.
 ---
 
 # Book One · Chapter 22: Not shown
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6114,7 +6114,7 @@ It came out badly at about four o'clock, on the stairs, when it was too late to 
 
 He had thought it through as a negotiation and had made a list, and every item on the list had been about Hanseong.
 
-Park Sang-hoon had asked him a question at a door on the eighteenth of November and had not been given an answer.
+Park Sang-hoon had asked him a question at a table on the eighteenth of November and had not been given an answer.
 
 He came at half past five with one man, and the man stayed in the car.
 
@@ -6343,7 +6343,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Book One · Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6621,7 +6621,7 @@ Twice in one night, with the same woman, on facts he was holding.
 
 "Yes."
 
-"I have had it backwards twice since Friday."
+"I have had it backwards twice tonight."
 
 "I know," said Annie. "I was there for the other one."
 
