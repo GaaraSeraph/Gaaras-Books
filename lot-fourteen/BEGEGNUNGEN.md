@@ -20,8 +20,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 660 | 71 (b1ch01-b2ch49) | 1 | 74 |
 | Park Sang-hoon | 260 | 39 (b1ch10-b2ch48) | 1 | 74 |
-| Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
+| Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
+| Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
 | Mrs Seo | 73 | 32 (b1ch03-b2ch47) | 1 | 74 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
@@ -1300,7 +1300,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Hana
 
-163 Nennungen in 18 Kapiteln.
+165 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1467,6 +1467,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 | 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
 | 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -1532,12 +1534,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:336` (Tag 5) - twenty-two
 - `b2ch03:122` (Tag 56) - one
 - `b2ch11:146` (Tag 1) - three
+- `b2ch38:230` (Tag 59) - one, three
 
 ---
 
 ## Chairman Woo
 
-147 Nennungen in 30 Kapiteln.
+148 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1687,6 +1690,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
 | 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in December, after the pape.. |
 
 ### Zahlen in der Naehe von Chairman Woo
@@ -1775,6 +1779,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:270` (Tag 4) - five, six, three
 - `b2ch15:52` (Tag 4) - five, six
 - `b2ch20:36` (Tag 11) - four, seven, twenty, two
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch38:371` (Tag 59) - three, two
 
 ---
@@ -2189,7 +2194,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:308 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:360 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 57 | b2ch37:496 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
-| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 5 | b2ch43:38 | *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a ho.. |
 | 5 | b2ch43:214 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
 | 5 | b2ch43:226 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
@@ -2227,6 +2232,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch37:496` (Tag 57) - six, three
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:214` (Tag 5) - seven, six, three
 - `b2ch43:226` (Tag 5) - one, six
@@ -2290,7 +2296,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:56 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:320 | *Jeon Mi-ja* |
-| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 5 | b2ch41:278 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:376 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
@@ -2317,6 +2323,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch41:278` (Tag 5) - forty, one, six
 - `b2ch42:376` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two

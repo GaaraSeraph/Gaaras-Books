@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 49 Kapitel, 119.389 Woerter.
+Book Two, 49 Kapitel, 119.478 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 35 | v1.2 | 2.050 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
-| 38 | v2.0 | 2.888 |
+| 38 | v2.1 | 2.977 |
 | 39 | v2.0 | 2.942 |
 | 40 | v2.0 | 2.769 |
 | 41 | v2.0 | 3.904 |
@@ -7907,7 +7907,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8027,11 +8027,11 @@ It is a thing she does when she has already decided what she is going to say and
 
 Annie looked at him properly then, the way she does when a sentence has told her more than the speaker meant it to.
 
-"That is the first time you have said you liked somebody in this business since you started it," she said.
+"That is the second time," she said. "The first was Hana, at that desk, in December. You used the word fond, and you told me in the same sentence that it was not the reason."
 
-Georgij thought about that for a moment and found she was right, and had not noticed it himself until she said it out loud.
+Georgij thought about that for a moment and found she was right, and had not noticed himself doing it twice until she put the two of them next to each other.
 
-"I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though I did not want to. Liking is a different register and I have not had much use for it."
+"I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though I did not want to. Liking is a different register and I have not had much use for it. It has happened three times since October. Hana. Chairman Woo, in a shed at Yeongjong, and I never put that one in the report. And now a man I may have to take apart." He kept his eyes on the path. "All three of them had given me something they did not have to."
 
 "And Yeom got it anyway."
 
@@ -8075,7 +8075,7 @@ Georgij sat down properly then, because the thing that had just arrived needed a
 
 Y is not Yeom, which was settled at eleven o'clock and holds.
 
-But Yeom sat at that table eleven months ago and lost forty thousand won at cards he does not remember agreeing to play. Somebody at that table suggested the cards. Yeom went home pleased and has never thought about the evening since.
+But a man rang Yeom four years ago and told him it was good to see him again, and Yeom had never met him in his life. Somebody used that voice on him, and used it on him first. Yeom has never thought about it as anything but a strange telephone call.
 
 *He is not a letter. He is one of the thirty-one, and he has been one since Tuesday, and I have spent two days treating him as a thing to rule out.*
 

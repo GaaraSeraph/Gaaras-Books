@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 165.736 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 166.282 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -4072,7 +4072,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v2.0) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v2.1) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -4726,6 +4726,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
+- **Band 2, Kapitel 48** *The one who does not leave* (v1.0) - **Tag 290, Mo 20. Juli.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
 ---
 
 ## Der Juli ist betreten
@@ -4816,6 +4820,39 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 2 unter dem Blickwinkel Zuschreibung (25.08.), Anfang
+
+**Der Blickwinkel:** wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Zwei
+Funde des Autors haben ihn ausgeloest, und beide sind von derselben Art.
+
+**Kapitel 38, die Karten.** *"But Yeom sat at that table eleven months ago and
+lost forty thousand won at cards he does not remember agreeing to play."* Das ist
+**Sang-hoon**, wortwoertlich, achtzig Zeilen vorher aus seinem eigenen Mund:
+*"I remember losing forty thousand won at cards I do not remember agreeing to
+play... it was Y who suggested the cards."* Der Absatz hatte damit auch die
+Schlussfolgerung des Kapitels aufgehoben, denn dieselbe Seite haelt fest, dass
+**Y nicht Yeom ist** (*"which was settled at eleven o'clock and holds"*). Yeoms
+eigene Spur ist eine andere und steht in Kapitel 34 im Notizbuch: *"Yeom, four
+years ago, on the telephone: glad we had met."* Der Absatz sagt das jetzt.
+
+**Kapitel 38, das erste Mal.** Annie sagte: *"That is the first time you have
+said you liked somebody in this business since you started it"*, und Georgij gab
+ihr recht. **Beides ist falsch, und der Beleg liegt bei ihr im Haus.**
+
+- **Band 1, Kapitel 27**, an ihrem Schreibtisch, am 9. Dezember, zu **ihr**:
+  *"I am also fond of her, and I am telling you that so that you have it, and it
+  is not the reason."* Ueber Hana.
+- **Band 1, Kapitel 19**, in einem Schuppen in Yeongjong, zu Chairman Woo:
+  *"And because I would like you to win this. That is not a strategy, Chairman.
+  It is just true, and I have had very little use for it."*
+
+Annie zaehlt jetzt richtig (*"That is the second time"*, mit Datum und Ort), und
+Georgij traegt Woo selbst nach und sagt dazu, dass er ihn im Bericht ausgelassen
+hat. **Der Warnsatz der Szene bleibt unveraendert** - Zuneigung spricht niemanden
+frei -, er steht nur nicht mehr auf einer falschen Behauptung.
 
 ---
 
@@ -7376,6 +7413,15 @@ dem 24.08. offen.
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
 ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
+- **25.08., Inhaltspruefung: Band 2, alle Kapitel, Blickwinkel Zuschreibung.**
+  Wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Ich fasse **nur
+  Stellen an, an denen etwas der falschen Person zugeschrieben ist**, und ich
+  gehe in Bloecken von vier bis sechs Kapiteln mit Push nach jedem Block.
+  Keine Interpunktion, keine Beats, keine neuen Szenen.
+  **Wenn die Stil-Sitzung noch in Band 2, Kapitel 1 bis 34 steht, hat sie
+  Vorfahrt** - ich ueberspringe jedes Kapitel, das dort offen ist, und hole es
+  nach. Band 1 ist frei, dort ist die Inhaltspruefung seit heute fertig.
+
 - **24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.** Erzaehlerformeln, das
   Komma-Mittel, Beats. Nur Interpunktion und Formulierung von Beats, keine
   Handlung und keine Zahlen.
@@ -8681,8 +8727,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 660 | 71 (b1ch01-b2ch49) | 1 | 74 |
 | Park Sang-hoon | 260 | 39 (b1ch10-b2ch48) | 1 | 74 |
-| Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
+| Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
+| Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
 | Mrs Seo | 73 | 32 (b1ch03-b2ch47) | 1 | 74 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
@@ -9961,7 +10007,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Hana
 
-163 Nennungen in 18 Kapiteln.
+165 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10128,6 +10174,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 | 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
 | 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -10193,12 +10241,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:336` (Tag 5) - twenty-two
 - `b2ch03:122` (Tag 56) - one
 - `b2ch11:146` (Tag 1) - three
+- `b2ch38:230` (Tag 59) - one, three
 
 ---
 
 ### Chairman Woo
 
-147 Nennungen in 30 Kapiteln.
+148 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10348,6 +10397,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
 | 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in December, after the pape.. |
 
 ### Zahlen in der Naehe von Chairman Woo
@@ -10436,6 +10486,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:270` (Tag 4) - five, six, three
 - `b2ch15:52` (Tag 4) - five, six
 - `b2ch20:36` (Tag 11) - four, seven, twenty, two
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch38:371` (Tag 59) - three, two
 
 ---
@@ -10850,7 +10901,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:308 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:360 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 57 | b2ch37:496 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
-| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 5 | b2ch43:38 | *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a ho.. |
 | 5 | b2ch43:214 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
 | 5 | b2ch43:226 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
@@ -10888,6 +10939,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch37:496` (Tag 57) - six, three
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:214` (Tag 5) - seven, six, three
 - `b2ch43:226` (Tag 5) - one, six
@@ -10951,7 +11003,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:56 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:320 | *Jeon Mi-ja* |
-| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 5 | b2ch41:278 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:376 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
@@ -10978,6 +11030,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
+- `b2ch38:230` (Tag 59) - one, three
 - `b2ch41:278` (Tag 5) - forty, one, six
 - `b2ch42:376` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
