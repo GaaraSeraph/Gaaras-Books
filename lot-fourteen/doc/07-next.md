@@ -779,12 +779,18 @@ Fassung.**
   aber ein Umzug aus der Stadt heraus, einen Tag vor der zweiten Lieferung.
   **Wer bezahlt einen Wagen und laesst ihn ueber ein Auktionshaus abrechnen.**
 
-- **DER ARZT: NAME GEFUNDEN, NIEMANDEM AUSSER ANNIE GESAGT (Kapitel 41).**
-  Dr. Oh Seung-min, erloschene statt geschlossene Zulassung, registrierte
-  Adresse jetzt eine Zahnarztpraxis in Jung-gu. **Faellig: ob Sang-hoons
-  Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen
-  Zulassung findet wie hinter dem Pflegeheim bei Wonju.** Wenn ja, ist der
-  Arzt- und der Pflegeheim-Faden derselbe Faden.
+- **ARZT- UND PFLEGEHEIM-FADEN SIND BESTAETIGT DERSELBE FADEN (Kapitel 42).**
+  Ein Trust, verwaltet seit elf Jahren von Solicitor Baek Jun-ho (Yeouido,
+  nicht der Koch), steht hinter beidem - der erloschenen Arztzulassung
+  UND dem Pflegeheim bei Wonju. **Zwei Daten offen: Trust vor elf Jahren
+  gegruendet, Arztbesuch vor vier.** Georgijs dritte Lesart (ein Grund,
+  der nach elf Jahren versagt hat) ist unbewiesen.
+
+  **Faellig, ausdruecklich als eigene Aufgabe von Sang-hoon gestellt:**
+  ob die Frau, die Jang beobachtet hat, dieselbe ist, fuer die der Trust
+  vor elf Jahren gebaut wurde - nicht ob sie noch lebt (das weiss man aus
+  Kapitel 40 bereits), sondern ob es dieselbe Person ist. **Zwei
+  verschiedene Fragen, noch nicht getrennt beantwortet.**
 
 - **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.

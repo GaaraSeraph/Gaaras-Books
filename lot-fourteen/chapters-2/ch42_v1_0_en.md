@@ -1,0 +1,232 @@
+# Chapter 42: Four owners deep
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Two Hundred and Seventy · Tuesday 30 June
+
+Sang-hoon had chosen a table this time instead of a room, which meant he had decided the conversation could survive being overheard by people who were not listening for it. It was the kind of place where four other conversations were happening at once, and none of them mattered enough to anybody nearby to be worth catching.
+
+---
+
+"You have had a week longer than you asked me for," said Georgij, and did not make it sound like a complaint.
+
+---
+
+"I have had a week longer because a registry does not care how impatient either of us is." Sang-hoon set a folder down between them and did not open it yet. "I am going to tell you what it took to get this before I tell you what it says, because the first part explains why you are not going to like how long the second part took."
+
+---
+
+"Say it."
+
+---
+
+"Four owners is not four names," said Sang-hoon. "It is four holding companies, each one owning the company below it, and the bottom one owning the land. Three of the four are registered in this country and exist for no reason except to own the company beneath them. They have no offices. They have no other business. They file exactly the paperwork the law requires and not one page more."
+
+---
+
+"And the fourth."
+
+---
+
+"The fourth is a trust, and a trust is not required to say who benefits from it, which is the entire reason a man builds one instead of a company." Sang-hoon opened the folder at last. "But a trust has to say who administers it, because somebody has to sign the cheques." Sang-hoon tapped the page once. "The person who has signed for this one, every year, for eleven years, is a solicitor in Yeouido who does this for eleven other trusts besides."
+
+---
+
+Georgij went very still.
+
+---
+
+"Eleven years," said Georgij quietly.
+
+---
+
+"The trust was formed in October, eleven years ago," said Sang-hoon. "I do not know what that date means to you. I can see on your face that it means something."
+
+---
+
+Georgij did not answer that directly, and Sang-hoon did not press him on it, which was itself a kind of answer.
+
+---
+
+"Say the solicitor's full name."
+
+---
+
+"Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because I did not want to hand you a coincidence and have you build a theory on it." Sang-hoon's voice did not change. "He has no history with the trade you have been working in. He administers trusts for people who want their names kept off paper, which in this country is a legitimate profession and a crowded one. He has never once been investigated for anything, because being investigated is the one thing a man in his line of work cannot survive twice."
+
+---
+
+"Twice."
+
+---
+
+"He was investigated once. Nineteen years ago, for a different client entirely, and he was cleared." Sang-hoon closed the folder halfway. "I am telling you that because a man who has been that close to the edge once does not build a second trust carelessly. Whatever else Baek Jun-ho is, he is not stupid, and he is not going to be frightened into telling you anything by a stranger standing in his office."
+
+---
+
+"I was not going to go to his office."
+
+---
+
+"I know you were not. I am telling you anyway, because you have gone to other offices this year on less provocation than this, and I would like it on the record that I said so before you did anything, not after."
+
+---
+
+"Say what the man looks like."
+
+---
+
+"Sixty-three, according to the bar association's own photograph, which is eleven years old and probably flattering. Married, no children the record shows, a house in Seongbuk-dong he has owned since before the trust existed." Sang-hoon said it the way a man reads a shopping list. "Nothing about him suggests he has ever once needed the money. That is either the most honest fact in the whole file or the most carefully arranged one, and I have not decided which."
+
+---
+
+"Say why that actually matters."
+
+---
+
+"Because a man who does this for money can be bought back out of it," said Sang-hoon. "A man who does it because he has decided it is simply his profession, the way another man decides to be a surgeon, cannot be bought at all. You can only wait for him to retire or die, and I do not know his age well enough to tell you which comes first."
+
+---
+
+Georgij looked at the folder without reaching for it.
+
+---
+
+"Does the trust connect to the doctor," he said.
+
+---
+
+"Say that again."
+
+---
+
+"There is a second address. A lapsed medical licence, a clinic that has been a dental office for eighteen months. I have not told you about it because Annie asked me not to, and I am telling you now because it is faster than making you find it yourself." Georgij kept his hands on the table. "Does the same trust sit behind it."
+
+---
+
+Sang-hoon looked at him for a long moment before he answered.
+
+---
+
+"You have been keeping things from me on a schedule," he said. "I do not love that, and I am not going to pretend I do, and I am also not going to waste the next ten minutes on it, because the answer to your question is yes."
+
+---
+
+The restaurant went on being a restaurant around them.
+
+---
+
+"Same trust," said Sang-hoon. "Same solicitor. The lapsed clinic's lease, four years ago, was held by the third company down, the one that owns nothing but shares in the company beneath it. Whoever built this built it once and used it twice, which tells you something about how confident he was that nobody would ever check the second time."
+
+---
+
+"Eleven years for the building. Four years for the clinic." Georgij said the two numbers slowly, the way he does when he is checking that he has not made them fit each other by wanting to. "Two different dates. Possibly two different reasons."
+
+---
+
+"Or one reason that started eleven years ago and needed a doctor four years into it," said Sang-hoon. "I am not going to tell you which, because I do not know, and I have watched you build a true thing out of two facts before and I have also watched you build a wrong one. I would rather you took the time to be right."
+
+---
+
+Georgij sat with both explanations and did not choose between them.
+
+---
+
+"There is a third possibility," he said, "and I do not like it, and I am going to say it anyway."
+
+---
+
+"Say it."
+
+---
+
+"That it was never one reason at all." Georgij kept his hands flat on the table. "Eleven years ago he built a place to keep somebody, for whatever the original reason was. Four years ago something happened to her that a lawyer's trust could not fix, and he had to bring in a doctor because the alternative was worse for him than the expense. That would make the doctor not the start of it, but the first time it went wrong."
+
+---
+
+Sang-hoon did not say anything for a moment, and the silence went on long enough that Georgij nearly filled it himself.
+
+---
+
+"That is worse than either of my two," he said finally.
+
+---
+
+"I know."
+
+---
+
+"Say why you think it."
+
+---
+
+"Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-three years where the travelling cost more than the seeing. A man does not call an outside doctor, at that price, for somebody he is keeping well." Georgij looked at the folder without opening it. "He calls one when whatever he was managing on his own has stopped being manageable."
+
+---
+
+"What do you want to do with the solicitor," he said.
+
+---
+
+"Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, going back further than eleven years, because a man does not learn to build something this clean on his first attempt." Sang-hoon finally slid the folder across the table. "That is slower than going to his office and asking. It is also the only version of this where nobody finds out we asked."
+
+---
+
+Georgij took the folder and did not open it at the table.
+
+---
+
+"You said a week ago that you would find out what he actually owns behind the lawyers in Singapore," he said. "This is not Singapore."
+
+---
+
+"No," said Sang-hoon. "This is the part he thought was far enough from Singapore that nobody would ever put the two together. I have not found the Singapore end yet. I found this because I was looking somewhere he did not expect anybody to look, which is a description of everything useful I have ever done in this business."
+
+---
+
+"Then find out whether the woman Jang has been watching is the same woman this trust was built for eleven years ago," said Sang-hoon, "before you find out anything else, because those are two different questions and I have watched you let one stand in for the other."
+
+---
+
+"I know they are different questions."
+
+"Then say which one you are actually able to answer today." Sang-hoon set his cup down. "A man who has not decided that is going to walk into a building one day without knowing what he is prepared to find."
+
+---
+
+Georgij did not have an answer ready, and he did not manufacture one to fill the silence.
+
+---
+
+"I do not know yet," he said, and left it there.
+
+---
+
+"That is an honest answer, and it is also the first time you have given me one that frightened me a little," said Sang-hoon. "Find out. Both halves of it. Take the time it needs, and do not bring me the wrong one quickly to make either of us feel better."
+
+---
+
+He signalled for the bill before either of them had eaten anything, which neither of them commented on. Georgij noticed it anyway, and filed it away with everything else he had learned that afternoon.
+
+---
+
+"Four owners," he said, standing. "One trust. Eleven years for the building and four for the doctor, and I do not know yet which of those numbers is the true beginning of it." He looked down at Georgij once more. "Find out. I am tired of being one of the people this happened to and not knowing when it started happening."
+
+---
+
+He went, and Georgij sat alone with a folder he had not opened and two dates that would not sit still next to each other no matter how he arranged them.
+
+The restaurant filled and emptied around him for a while, and he did not notice which. He opened the folder eventually, not because he had decided to, but because sitting with it closed had started to feel like its own kind of avoidance, and avoidance was not a habit he wanted to discover he had.
+
+---
+
+He wrote them down exactly as Sang-hoon had given them, without deciding which one mattered more.
+
+Deciding that too early was the mistake he had already promised himself, twice this month, that he was not going to make a third time.
+
+---
+
+*Eleven years. Four years. One trust, built once, used twice.*
+
+*Somebody needed a place to keep a person before they ever needed a doctor to visit her.*
+
+*A place is not a kindness. A doctor called in when the place stopped being enough is not a kindness either. Both are the minimum required to keep something from becoming visible, and neither one was ever about her.*

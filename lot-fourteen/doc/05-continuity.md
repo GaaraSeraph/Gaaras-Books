@@ -315,6 +315,17 @@ nachrechnen, und `check.py` tut das automatisch.
   Hausbesuch vor vier Jahren, jetzt achtundfuenfzig.** Der Name geht an
   niemanden ausser Annie - nicht Sang-hoon, nicht Jang, nicht einmal ins
   Notizbuch ein zweites Mal (Band 2, Kapitel 41)
+- Tag 270, Di 30. Juni: **Sang-hoons Grundbuchrecherche liegt vor.** Vier
+  Eigentuemer sind vier Firmen tief plus ein Trust, verwaltet seit elf
+  Jahren von Solicitor Baek Jun-ho (Yeouido, nicht der Koch). **Derselbe
+  Trust steht hinter der erloschenen Arztzulassung** - einmal gebaut,
+  zweimal benutzt. Zwei Daten, die nicht zusammenpassen wollen: **Trust
+  gegruendet vor elf Jahren, Arztbesuch vor vier.** Georgij bringt eine
+  dritte, duesterere Lesart ins Spiel: nicht zwei Gruende, sondern einer,
+  der vier Jahre in seine Laufzeit versagt hat und einen Arzt brauchte.
+  Sang-hoon setzt die Aufgabe: **klaeren, ob die Frau, die Jang beobachtet
+  hat, dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde**
+  (Band 2, Kapitel 42)
 
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
@@ -1851,6 +1862,16 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Dr. Oh Seung-min.** Vierundfuenfzig beim Hausbesuch vor vier Jahren, jetzt achtundfuenfzig, falls die Zulassung ihm je gehoert hat. Die registrierte Adresse in Jung-gu ist seit anderthalb Jahren eine Zahnarztpraxis - **Georgij faehrt nicht hin, weil das Nichthinfahren die eine Regel war, die er diese Woche nicht brechen wollte.**
 
   **Annie nimmt den Namen entgegen und sperrt ihn sofort weg** - nicht Sang-hoon, nicht Jang, nicht einmal ein zweiter Notizbucheintrag. *"Everything on paper is eventually read by somebody it was not written for."* Der naechste Schritt haengt jetzt allein daran, ob Sang-hoons Grundbuchrecherche dieselben vier Eigentuemer hinter der erloschenen Zulassung findet wie hinter dem Pflegeheim bei Wonju.
+
+- **Band 2, Kapitel 42** *Four owners deep* (v1.0) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+
+  **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
+
+  **Der Trust wurde vor elf Jahren gegruendet.** Georgij braucht keine Erklaerung, was ihm das bedeutet - Annie hat mit vierzehn genau das bemerkt, das sie erst mit dreissig verstand (Kapitel 27). **Und derselbe Trust steht hinter der erloschenen Arztzulassung aus Kapitel 41** - einmal gebaut, zweimal benutzt, weil der Erbauer sich sicher genug war, dass niemand je nachpruefen wuerde.
+
+  **Zwei Daten, die sich nicht zusammenlegen lassen, und Georgij haelt sich bewusst zurueck, keins davon vorschnell zu waehlen:** elf Jahre fuer das Gebaeude, vier fuer den Arzt. Dann bringt er selbst eine dritte, duesterere Lesart ins Spiel - **nicht zwei Gruende, sondern einer, der nach elf Jahren zum ersten Mal versagt hat und einen Arzt brauchte, weil die Alternative schlimmer gewesen waere.** *"That would make the doctor not the start of it, but the first time it went wrong."*
+
+  **Sang-hoon gibt die Aufgabe zurueck, praeziser als Georgij sie sich selbst gestellt hatte:** nicht ob die Frau noch lebt, sondern **ob die Frau, die Jang beobachtet hat, ueberhaupt dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde.** Zwei verschiedene Fragen, und Georgij gibt zu, dass er sie bislang wie eine behandelt hat.
 
 ---
 
