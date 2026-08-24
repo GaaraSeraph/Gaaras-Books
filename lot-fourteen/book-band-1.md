@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.184 Woerter.
+Book One, 34 Kapitel, 101.191 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -40,11 +40,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 27 | v3.4 | 3.101 |
 | 28 | v1.4 | 2.676 |
 | 29 | v1.4 | 1.990 |
-| 30 | v1.8 | 3.524 |
-| 31 | v1.6 | 3.256 |
+| 30 | v1.9 | 3.524 |
+| 31 | v1.7 | 3.256 |
 | 32 | v1.2 | 2.579 |
-| 33 | v1.11 | 3.335 |
-| 34 | v1.8 | 4.293 |
+| 33 | v1.12 | 3.342 |
+| 34 | v1.9 | 4.293 |
 
 ---
 
@@ -8274,7 +8274,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8614,7 +8614,7 @@ Kim Ye-rin stood with her hand on the door.
 
 "Why give me that at all, if it proves nothing."
 
-"Because you have spent six weeks thinking somebody in your own building did it," said Georgij, "and you have been looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."
+"Because you have spent eight weeks thinking somebody in your own building did it," said Georgij, "and you have been looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."
 
 She opened the door and the noise of the party came out at them, and the warm air went past her into the cold.
 
@@ -8631,7 +8631,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Book One · Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8829,7 +8829,7 @@ Annie was already ahead of it.
 
 "It was worth nothing to us, which is why I could give it."
 
-"It was worth a great deal to us and you know it, and you will do me the courtesy of saying so." She turned in the chair. "She has spent six weeks looking at nine people at her own dinner table. From tonight she looks at one man in Yeouido instead, and he is the man who wants this family broken, and she will never say his name to anybody because she never says anything to anybody. That is the single best-placed piece of information in this country and it cost us a guess."
+"It was worth a great deal to us and you know it, and you will do me the courtesy of saying so." She turned in the chair. "She has spent eight weeks looking at nine people at her own dinner table. From tonight she looks at one man in Yeouido instead, and he is the man who wants this family broken, and she will never say his name to anybody because she never says anything to anybody. That is the single best-placed piece of information in this country and it cost us a guess."
 
 Georgij inclined his head.
 
@@ -9193,13 +9193,13 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Book One · Chapter 33: That is five
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
 He came up the drive.
 
-That was the first thing about it, and Georgij thought it was the whole of it until he was proved wrong about an hour later. In November this man had gone over the east wall, at a corner where a camera turns away for eleven seconds. He had walked into a lit room without being announced, and he had been correct about every part of it.
+That was the first thing about it, and Georgij thought it was the whole of it until he was proved wrong about an hour later. In November it had been Georgij who went over the east wall, in front of the one lens in that house that nobody looks at except her. This man had walked into a lit room without being announced, and he had been correct about every part of it.
 
 On the twenty-ninth of December he telephoned at half past ten, was given two o'clock, and arrived at four minutes to.
 
@@ -9534,7 +9534,7 @@ Mrs Seo came in at six and made up the fire, which she does not do on a Monday, 
 ---
 
 # Book One · Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -9562,9 +9562,9 @@ The structure was eleven days old. Money was going to move through it in three p
 
 That was competent. It was the sort of thing she would do. He was satisfied with it for about a week.
 
-In November he had been wrong about this woman twice in four days, on facts he was holding at the time.
+In November he had been wrong about this woman twice in one night, on facts he was holding at the time.
 
-This one took ten weeks.
+This one took eight weeks.
 
 ## Day One Hundred and Forty-Five · Wednesday 25 February
 

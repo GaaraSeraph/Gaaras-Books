@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 163.938 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 164.474 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2677,7 +2677,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.8) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
 - **Kapitel 2** *Quid pro Quo* (v11.10) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
-- **Kapitel 34** *Then take it off* (v1.8) - **Drei Abschnitte, und der Schluss von Band 1.**
+- **Kapitel 34** *Then take it off* (v1.9) - **Drei Abschnitte, und der Schluss von Band 1.**
 
   **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
 
@@ -2711,10 +2711,10 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Der Registereintrag zum Schluss, und die drei Dokumente.** *There is no column on that page for what a man is called. There has never been one, because a name is the one thing in the transaction that nobody on either side of it needs.* Die anderen beiden - die im Oktober geordneten Papiere und die Vollmacht - tragen seinen Namen und handeln davon, **was er tun darf**. Das Registerblatt war das einzige, das davon handelte, **was er ist**.
 
-- **Kapitel 33** *That is five* (v1.11) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
+- **Kapitel 33** *That is five* (v1.12) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
 - **Kapitel 32** *In those words* (v1.2) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
-- **Kapitel 31** *A number and a date* (v1.6) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
-- **Kapitel 30** *Who do they telephone* (v1.8) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 31** *A number and a date* (v1.7) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
+- **Kapitel 30** *Who do they telephone* (v1.9) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -4816,6 +4816,70 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 30 bis 34 (25.08.) - Band 1 ist durch
+
+**Kapitel 33 schrieb Georgijs Mauer Sang-hoon zu.** Der Absatz lautete *"In
+November this man had gone over the east wall, at a corner where a camera turns
+away for eleven seconds."* Zwei Fehler in einem Satz: **Sang-hoon kam im
+November die Auffahrt herauf** (Kapitel 22, halb sechs, Mrs Seo nimmt den
+Mantel), und **Georgij ging ueber den Ostrasen und ausdruecklich nicht ueber die
+Garagenecke** - Kapitel 22 und 23 machen genau daraus die Szene: *"you went over
+the east lawn instead, in front of the one camera in that house that nobody
+looks at except her."* Steht jetzt richtig, und damit hat Annies Schlusssatz
+*"why you came up the drive instead of over the wall"* endlich einen Bezug im
+Kapitel.
+
+**Weiter korrigiert.**
+
+- **Kapitel 30 und 31:** *"six weeks"* -> **acht**. Ye-rin verdaechtigt ihre
+  eigene Familie, seit der Zoll im Gebaeude sitzt, und das ist der Oktober. Am
+  16. Dezember sind das achtundfuenfzig Tage.
+- **Kapitel 34:** *"twice in four days"* -> **twice in one night**. Kapitel 23
+  sagt es selbst (*"Twice in one night, with the same woman"*), und Annies *"I
+  was there for the other one"* zeigt auf das lange Zimmer desselben Abends.
+- **Kapitel 34:** *"This one took ten weeks"* -> **acht**. Vom 2. Januar bis zum
+  1. Maerz sind es achtundfuenfzig Tage.
+
+**Was gehalten hat, und der Schluss rechnet erstaunlich sauber.**
+Sang-hoons *"That is five"* stimmt gegen Kapitel 16 (*"That is four. Two of them
+are mine"*). **Zwei Milliarden zweihundert Millionen sind genau das Zehnfache
+von zweihundertzwanzig.** *Siebenunddreissig Tage* fuehren auf den 22. November,
+*vierundneunzig Tage* auf die Bruecke am 27. November, *fuenfundsiebzig Tage* auf
+den 16. Dezember. Die Struktur ist am 2. Januar **elf Tage** alt (unterschrieben
+am 22. Dezember). Jae-won haelt **neun Prozent**, wie Hana es in Kapitel 15
+aufzaehlt. Do-yun steht **sechs Tage** nach der Terrasse vor der Tuer. Der
+Fahrerplan stimmt bis zum letzten Kapitel. Und **Tag 149 ist der 1. Maerz nur,
+wenn der Februar achtundzwanzig Tage hat** - hat er.
+
+---
+
+## Band 1 ist inhaltlich durch (25.08.)
+
+Vierunddreissig Kapitel, sieben Bloecke, **dreissig Korrekturen**. Geprueft
+wurde auf: Rueckbezuege, Wissensstand der Sprechenden, eingeloeste Zusagen,
+Zahlen, Daten und Wochentage, und die Regel, dass Georgij nichts Unwahres sagt.
+
+**Die drei Muster, die sich durchzogen.**
+
+1. **Zwei Stellen verwechselten das Haus mit dem Land.** Kapitel 21 (*"his first
+   night in this country"*) und Kapitel 27 (*"You have been in this country nine
+   weeks"*). Georgij ist seit Wochen in diesem Haus und seit Jahren in diesem
+   Land - Busan mit zwanzig, Daejeon mit einundzwanzig, und Kapitel 34 sagt *"put
+   on his knees in four countries"*.
+2. **Rueckbezuege auf den falschen Tag.** Die Einladung nach Yeongjong, die
+   zweite Frage nach Los elf, die Grundbuchabteilung, Sang-hoons unbeantwortete
+   Frage, der Anruf von Kang.
+3. **Zaehlungen, die der Text an anderer Stelle selbst widerlegt.** Die eigenen
+   Laecheln, die neun Lose, die zwei Stunden im Keller, die sechs Tage fuer
+   neunzehn Seiten, Kim Do-yuns Alter, Hanas Alter.
+
+**Was ueberhaupt nicht zu beanstanden war:** die Uhr des Gala-Abends, die
+Gebotsleiter, die Tischzahlen im Ballsaal, der gesamte Fahrerplan, alle
+Wochentage, und praktisch jede Stelle, an der Georgij eine Frist oder eine
+Summe nennt.
 
 ---
 

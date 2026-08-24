@@ -29,11 +29,11 @@ b1  ch26  v1.6       2423 Woerter  ch26_v1_6_en.md
 b1  ch27  v3.4       3101 Woerter  ch27_v3_4_en.md
 b1  ch28  v1.4       2676 Woerter  ch28_v1_4_en.md
 b1  ch29  v1.4       1990 Woerter  ch29_v1_4_en.md
-b1  ch30  v1.8       3524 Woerter  ch30_v1_8_en.md
-b1  ch31  v1.6       3256 Woerter  ch31_v1_6_en.md
+b1  ch30  v1.9       3524 Woerter  ch30_v1_9_en.md
+b1  ch31  v1.7       3256 Woerter  ch31_v1_7_en.md
 b1  ch32  v1.2       2579 Woerter  ch32_v1_2_en.md
-b1  ch33  v1.11      3335 Woerter  ch33_v1_11_en.md
-b1  ch34  v1.8       4293 Woerter  ch34_v1_8_en.md
+b1  ch33  v1.12      3342 Woerter  ch33_v1_12_en.md
+b1  ch34  v1.9       4293 Woerter  ch34_v1_9_en.md
 b2  ch01  v1.5       2286 Woerter  ch01_v1_5_en.md
 b2  ch02  v1.3       2058 Woerter  ch02_v1_3_en.md
 b2  ch03  v1.1       2017 Woerter  ch03_v1_1_en.md
@@ -82,5 +82,5 @@ b2  ch45  v1.1       2176 Woerter  ch45_v1_1_en.md
 b2  ch46  v1.0       2358 Woerter  ch46_v1_0_en.md
 b2  ch47  v1.0       1924 Woerter  ch47_v1_0_en.md
 
-Gesamt: 2 Baende, 81 Kapitel, 216160 Woerter
+Gesamt: 2 Baende, 81 Kapitel, 216167 Woerter
 Handbuch: 10 Dokumente
