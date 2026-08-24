@@ -1677,3 +1677,16 @@ Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
   Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
   Satz von Annie oder im Erzaehltext schliesst die Luecke.
 - **doc/06-plot.md endet mit Band 1.**
+
+---
+
+## Wer gerade woran ist
+
+Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
+ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
+
+- **24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.** Erzaehlerformeln, das
+  Komma-Mittel, Beats. Nur Interpunktion und Formulierung von Beats, keine
+  Handlung und keine Zahlen.
+  **Kapitel 35 bis 46 fasse ich nicht an**, solange dort der v2.0-Durchgang
+  laeuft.
