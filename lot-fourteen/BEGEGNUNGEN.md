@@ -18,15 +18,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 513 | 54 (b1ch01-b2ch31) | 1 | 74 |
+| Annie | 527 | 55 (b1ch01-b2ch33) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Park Sang-hoon | 128 | 25 (b1ch10-b2ch27) | 1 | 74 |
-| Jang | 78 | 21 (b1ch05-b2ch24) | 3 | 60 |
+| Park Sang-hoon | 129 | 26 (b1ch10-b2ch33) | 1 | 74 |
+| Jang | 82 | 22 (b1ch05-b2ch33) | 3 | 60 |
 | Mrs Seo | 64 | 26 (b1ch03-b2ch24) | 1 | 74 |
-| Mr Hwang | 57 | 9 (b2ch07-b2ch32) | 3 | 44 |
+| Mr Hwang | 60 | 10 (b2ch07-b2ch33) | 3 | 45 |
+| Mrs Jeon | 46 | 8 (b2ch06-b2ch33) | 5 | 45 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
-| Mrs Jeon | 44 | 7 (b2ch06-b2ch32) | 5 | 44 |
 | Mr Hong | 35 | 10 (b1ch07-b2ch26) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-513 Nennungen in 54 Kapiteln.
+527 Nennungen in 55 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -575,6 +575,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b2ch31:80 | Annie read the line twice. |
 | 41 | b2ch31:94 | Annie sat with the page in front of her for a while. |
 | 41 | b2ch31:124 | Annie opened the drawer and counted out notes and put them on top of the copied page. |
+| 45 | b2ch33:14 | Annie stood over it for a while and did not touch any of it. |
+| 45 | b2ch33:32 | Annie sat down and picked up the flower slips first. |
+| 45 | b2ch33:62 | Annie put the slips down. |
+| 45 | b2ch33:74 | "A desk that says no is one of three things," said Annie. "A ward. A facility that takes.. |
+| 45 | b2ch33:112 | Annie looked at the notebook, open on the desk, and did not read it upside down, because.. |
+| 45 | b2ch33:128 | "That is the first time you have said that sentence in this house," said Annie. |
+| 45 | b2ch33:148 | "You do not go near either address without telling me first," said Annie. "Not asking. T.. |
+| 45 | b2ch33:178 | Annie's mouth moved, very slightly, at the second word, and she did not comment on it an.. |
+| 45 | b2ch33:210 | Annie put the sheet in the drawer with the rest. |
+| 45 | b2ch33:228 | "That is either very disciplined or very frightened, and I am not certain which," said A.. |
+| 45 | b2ch33:260 | "You have been doing this since March and I have only just been told the shape of it," s.. |
+| 45 | b2ch33:286 | Annie had the drawer open again and was putting the copies in it in the order he had giv.. |
+| 45 | b2ch33:306 | Annie closed the drawer and turned the key. |
+| 45 | b2ch33:318 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -710,6 +724,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch30:348` (Tag 40) - nine
 - `b2ch30:390` (Tag 40) - one, twenty, two
 - `b2ch31:46` (Tag 41) - seven, ten
+- `b2ch33:74` (Tag 45) - one, three
+- `b2ch33:148` (Tag 45) - one
 
 ---
 
@@ -1194,7 +1210,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-128 Nennungen in 25 Kapiteln.
+129 Nennungen in 26 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1326,6 +1342,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
 | 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
 | 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 45 | b2ch33:236 | "There is also Sang-hoon's four," she said. "He gave you a task in April and I have hear.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1382,12 +1399,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:192` (Tag 38) - four
 - `b2ch26:272` (Tag 38) - four
 - `b2ch27:204` (Tag 38) - sixty-eight
+- `b2ch33:236` (Tag 45) - four
 
 ---
 
 ## Jang
 
-78 Nennungen in 21 Kapiteln.
+82 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1469,6 +1487,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:156 | And Jang found the way into every one of them, in four pages, without being asked for it. |
 | 11 | b2ch20:280 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
 | 26 | b2ch24:68 | Jang saw him do it and did not say anything about it. |
+| 45 | b2ch33:318 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
+| 45 | b2ch33:326 | Jang was in the kitchen doorway with a cup he had not started on, which is a thing Jang .. |
+| 45 | b2ch33:340 | Jang put the cup down without drinking from it. |
+| 45 | b2ch33:352 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1627,7 +1649,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Hwang
 
-57 Nennungen in 9 Kapiteln.
+60 Nennungen in 10 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1688,6 +1710,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
 | 41 | b2ch31:98 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
 | 44 | b2ch32:380 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
+| 45 | b2ch33:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
+| 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -1716,6 +1741,82 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch28:356` (Tag 39) - one
 - `b2ch29:272` (Tag 40) - six hundred and forty
 - `b2ch32:380` (Tag 44) - five
+- `b2ch33:10` (Tag 45) - two
+- `b2ch33:214` (Tag 45) - one
+
+---
+
+## Mrs Jeon
+
+46 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
+| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
+| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
+| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
+| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
+| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
+| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
+| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
+| 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
+| 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
+| 39 | b2ch28:396 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
+| 40 | b2ch29:24 | "You," said Mrs Jeon. |
+| 40 | b2ch29:66 | "Four minutes," said Mrs Jeon. |
+| 40 | b2ch29:84 | Mrs Jeon looked at the window for a moment. |
+| 40 | b2ch29:110 | Mrs Jeon did not answer that. |
+| 40 | b2ch29:144 | Mrs Jeon put the biro down flat. |
+| 40 | b2ch29:202 | "Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and .. |
+| 40 | b2ch29:208 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
+| 40 | b2ch29:230 | Mrs Jeon did not move. |
+| 40 | b2ch29:268 | "It went to every buyer in March," said Mrs Jeon. |
+| 40 | b2ch29:276 | Mrs Jeon looked at the closed cover under her hands. |
+| 40 | b2ch29:294 | Mrs Jeon sat back in the chair for the first time since he came in. |
+| 40 | b2ch29:350 | "Mrs Jeon." |
+| 40 | b2ch29:384 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
+| 40 | b2ch30:30 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
+| 44 | b2ch32:26 | Mrs Jeon put her hand flat on the green cover and left it there. |
+| 44 | b2ch32:54 | "Sit down," said Mrs Jeon. |
+| 44 | b2ch32:98 | Mrs Jeon sat back. |
+| 44 | b2ch32:126 | Mrs Jeon looked at him across her own table. |
+| 44 | b2ch32:152 | "I have been handled," said Mrs Jeon. |
+| 44 | b2ch32:202 | "I am fifty-one," said Mrs Jeon. "I have four months of money and a son who is going to .. |
+| 44 | b2ch32:218 | Mrs Jeon looked at the wall for a while. |
+| 44 | b2ch32:240 | "You have come for something else," said Mrs Jeon. "You would have brought that book bac.. |
+| 44 | b2ch32:254 | Mrs Jeon put her glass down. |
+| 44 | b2ch32:272 | "About three times." Mrs Jeon turned her hand over on the table. "I remember it because .. |
+| 44 | b2ch32:290 | Mrs Jeon looked at the table between them. |
+| 44 | b2ch32:302 | "A reference," said Mrs Jeon. "Six characters. The same six that were on my clearing sli.. |
+| 44 | b2ch32:326 | "You are not asking me where," said Mrs Jeon. |
+| 44 | b2ch32:342 | Mrs Jeon sat with both hands round the glass. |
+| 44 | b2ch32:374 | "Mrs Jeon." |
+| 44 | b2ch32:392 | Mrs Jeon did not answer for a while. |
+| 44 | b2ch32:428 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
+| 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
+
+### Zahlen in der Naehe von Mrs Jeon
+
+- `b2ch06:56` (Tag 5) - fifty
+- `b2ch06:110` (Tag 5) - one
+- `b2ch06:154` (Tag 5) - four
+- `b2ch07:34` (Tag 7) - three
+- `b2ch07:66` (Tag 7) - one
+- `b2ch07:78` (Tag 7) - one
+- `b2ch09:252` (Tag 9) - five, six
+- `b2ch28:70` (Tag 39) - four, twenty-three
+- `b2ch29:66` (Tag 40) - four
+- `b2ch29:202` (Tag 40) - one, twenty-three
+- `b2ch30:30` (Tag 40) - fifty-one, twenty-three
+- `b2ch32:202` (Tag 44) - fifty-one, four
+- `b2ch32:272` (Tag 44) - three
+- `b2ch32:302` (Tag 44) - six
+- `b2ch32:428` (Tag 44) - four, one
+- `b2ch33:214` (Tag 45) - one
 
 ---
 
@@ -1792,77 +1893,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:258` (Tag ?) - twenty
 - `b1ch32:280` (Tag ?) - one
 - `b1ch34:56` (Tag 46) - eleven, six, twenty
-
----
-
-## Mrs Jeon
-
-44 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
-| 5 | b2ch06:62 | Mrs Jeon had a receipt book open in front of her and did not close it. |
-| 5 | b2ch06:80 | Mrs Jeon looked at him through the glass for a while. |
-| 5 | b2ch06:110 | Mrs Jeon put one hand flat on the counter and left it there. |
-| 5 | b2ch06:154 | Mrs Jeon looked at him for what was probably four seconds. |
-| 5 | b2ch06:188 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
-| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 7 | b2ch07:66 | "The back page is his as well. He put the retained ones together in one list because the.. |
-| 7 | b2ch07:78 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
-| 9 | b2ch09:252 | "Mrs Jeon at the settlement desk, who is out in six weeks anyway and who I am going to b.. |
-| 39 | b2ch28:70 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 39 | b2ch28:396 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
-| 40 | b2ch29:24 | "You," said Mrs Jeon. |
-| 40 | b2ch29:66 | "Four minutes," said Mrs Jeon. |
-| 40 | b2ch29:84 | Mrs Jeon looked at the window for a moment. |
-| 40 | b2ch29:110 | Mrs Jeon did not answer that. |
-| 40 | b2ch29:144 | Mrs Jeon put the biro down flat. |
-| 40 | b2ch29:202 | "Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and .. |
-| 40 | b2ch29:208 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
-| 40 | b2ch29:230 | Mrs Jeon did not move. |
-| 40 | b2ch29:268 | "It went to every buyer in March," said Mrs Jeon. |
-| 40 | b2ch29:276 | Mrs Jeon looked at the closed cover under her hands. |
-| 40 | b2ch29:294 | Mrs Jeon sat back in the chair for the first time since he came in. |
-| 40 | b2ch29:350 | "Mrs Jeon." |
-| 40 | b2ch29:384 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
-| 40 | b2ch30:30 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
-| 44 | b2ch32:26 | Mrs Jeon put her hand flat on the green cover and left it there. |
-| 44 | b2ch32:54 | "Sit down," said Mrs Jeon. |
-| 44 | b2ch32:98 | Mrs Jeon sat back. |
-| 44 | b2ch32:126 | Mrs Jeon looked at him across her own table. |
-| 44 | b2ch32:152 | "I have been handled," said Mrs Jeon. |
-| 44 | b2ch32:202 | "I am fifty-one," said Mrs Jeon. "I have four months of money and a son who is going to .. |
-| 44 | b2ch32:218 | Mrs Jeon looked at the wall for a while. |
-| 44 | b2ch32:240 | "You have come for something else," said Mrs Jeon. "You would have brought that book bac.. |
-| 44 | b2ch32:254 | Mrs Jeon put her glass down. |
-| 44 | b2ch32:272 | "About three times." Mrs Jeon turned her hand over on the table. "I remember it because .. |
-| 44 | b2ch32:290 | Mrs Jeon looked at the table between them. |
-| 44 | b2ch32:302 | "A reference," said Mrs Jeon. "Six characters. The same six that were on my clearing sli.. |
-| 44 | b2ch32:326 | "You are not asking me where," said Mrs Jeon. |
-| 44 | b2ch32:342 | Mrs Jeon sat with both hands round the glass. |
-| 44 | b2ch32:374 | "Mrs Jeon." |
-| 44 | b2ch32:392 | Mrs Jeon did not answer for a while. |
-| 44 | b2ch32:428 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
-
-### Zahlen in der Naehe von Mrs Jeon
-
-- `b2ch06:56` (Tag 5) - fifty
-- `b2ch06:110` (Tag 5) - one
-- `b2ch06:154` (Tag 5) - four
-- `b2ch07:34` (Tag 7) - three
-- `b2ch07:66` (Tag 7) - one
-- `b2ch07:78` (Tag 7) - one
-- `b2ch09:252` (Tag 9) - five, six
-- `b2ch28:70` (Tag 39) - four, twenty-three
-- `b2ch29:66` (Tag 40) - four
-- `b2ch29:202` (Tag 40) - one, twenty-three
-- `b2ch30:30` (Tag 40) - fifty-one, twenty-three
-- `b2ch32:202` (Tag 44) - fifty-one, four
-- `b2ch32:272` (Tag 44) - three
-- `b2ch32:302` (Tag 44) - six
-- `b2ch32:428` (Tag 44) - four, one
 
 ---
 

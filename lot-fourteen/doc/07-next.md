@@ -713,6 +713,15 @@ Fassung.**
   in einer Firma, die zur Haelfte Annie gehoert.** Das ist Eindaemmung und
   Risiko in einem, und beide wissen es.
 
+- **JANG AUF DER ZWEITEN ADRESSE.** Von aussen, seit dem 3. Juni. **Faellig:**
+  was er zurueckmeldet, und ob Georgij ueberhaupt noch hinfahren muss, wenn Jang
+  liefert.
+
+- **SANG-HOONS VIER ENTSCHEIDUNGEN, seit April liegen geblieben.** Georgij hat
+  es Annie am 3. Juni selbst zugegeben. **Faellig, und faellig bald** - Sang-hoon
+  hat in Kapitel 26 gesagt, er werde die vier finden, bevor Sang-hoon es tut,
+  und das war ein Versprechen, keine Beobachtung.
+
 - **SIM. Der erste Name auf der Gegenseite, der aus einem Beleg kommt und nicht
   aus einem Verhoer.** Eckfeld beider Blumenzettel, Telefonnummer mit altem
   Vorwahlblock. **Der Mann, der Fremden sagt, es sei schoen, sie wiederzusehen**

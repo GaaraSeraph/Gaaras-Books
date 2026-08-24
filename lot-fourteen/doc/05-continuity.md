@@ -235,6 +235,13 @@ nachrechnen, und `check.py` tut das automatisch.
   ausserhalb der Stadt, die Anfahrt dreimal so teuer wie der Termin, **und im
   Feld fuer den Namen standen sechs Zeichen, naemlich die Losnummer.** Er nimmt
   die Adresse nicht (Band 2, Kapitel 32)
+- Tag 243, Mi 3. Juni: **er legt alles auf den Schreibtisch, bevor gefrühstückt
+  wird.** Byuns Zettel, Hwangs Zettel, das kopierte Heft, die zwei
+  Blumenbelege, das Notizbuch. **Erstes Mal, dass Annie die ganze Fadenlaenge
+  sieht.** Sie verbietet ihm nichts, verlangt aber Meldung vor jedem Schritt an
+  beide Adressen und setzt Jang auf die zweite - **von aussen, bevor sein Name
+  irgendwo faellt.** *"You do not go near either address without telling me
+  first. Not asking. Telling."* (Band 2, Kapitel 33)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1645,6 +1652,22 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und daran haengt der Schluss.** Freitagnacht heisst: **Annie hat den Brief geschrieben, unterschrieben und aus dem Haus gehabt, waehrend er auf dem Boden neben ihrem Schreibtisch schlief.** *"Eleven minutes, she had said, and about four days. It is the fourth day."* - **"He has not been punished. He has been shown."**
 
   **Bewusster Widerhall:** *"You are a very strange young man"* steht gegen Mr Byuns *"Then you are a very cruel young man"* aus Kapitel 22. Zwei Urteile ueber denselben Mann aus zwei Zimmern, und das Buch faellt keines davon selbst.
+
+- **Band 2, Kapitel 33** *A door with no name on it* (v1.0) - **Tag 243, Mi 3. Juni. Eine Szene, der Schreibtisch am Morgen.**
+
+  **Georgij bricht sein eigenes Muster:** zum ersten Mal seit Januar (in Wahrheit seit dem 20. Maerz, als er die vierte Zeile zum ersten Mal ausspricht) legt er eine laufende Ermittlung offen, bevor sie ihn etwas kostet, statt danach. *"I have not spent a won of yours on this and I have not used your name, and I only noticed this morning that both of those were decisions and I had not told you I was making them."*
+
+  **Annie liest die Beweislage und liefert die Einordnung, die Georgij fehlt** - sie kennt die Sorte Adresse aus ihrem eigenen Geschaeft: *"A ward. A facility that takes people nobody wants found. Or a house that has been told to say no by somebody who pays its bills and does not live there."* Und die dritte ist die gefaehrliche, weil sie **nicht die Person darin schuetzt**, sondern denjenigen, der fuer das Schweigen zahlt.
+
+  **Der Grund, warum er nicht hingefahren ist, ist zum ersten Mal nicht Vorsicht, sondern eine echte Neubewertung:** *"I do not know who is paying for the desk that says no, and every other man in this has been somebody I could stand in a room with and outlast ... I have been walking into empty buildings and cold flats all year and calling it work."*
+
+  **Und der Satz, der die Szene traegt:** *"I brought it to you because if it goes wrong, it does not go wrong to me alone. It goes wrong to whoever I work for, in whatever room I am standing in when it happens."* **Annie: "That is the first time you have said that sentence in this house."**
+
+  **Ihre Antwort ist keine Erlaubnis, sondern eine Bedingung, formuliert genau nach der Lehre aus Kapitel 30:** *"You do not go near either address without telling me first. Not asking. Telling."* Und sie setzt Jang auf die zweite Adresse, **von aussen, bevor sein Name irgendwo faellt.**
+
+  **Drei offene Faeden werden im selben Gespraech genannt und bewusst nicht geschlossen:** Hwangs Bitte um Anerkennung fuer Mrs Jeon (das Blatt liegt ungelesen bei Georgij), und Sang-hoons vier unerklaerte Entscheidungen, die seit April liegen geblieben sind, weil die vierte-Zeile-Sache die Zeit gefressen hat. *"Then say that to him before he says it to you." - "I intend to."*
+
+  **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
 
 ---
 
