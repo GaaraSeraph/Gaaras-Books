@@ -713,6 +713,21 @@ Fassung.**
   in einer Firma, die zur Haelfte Annie gehoert.** Das ist Eindaemmung und
   Risiko in einem, und beide wissen es.
 
+- **DIE FRAU, DIE CHOI DAE-HO VOR ELF JAHREN VERLOR (oder: die ihn schlug).**
+  Ein Zimmer, eine abgesagte Hochzeit, vier Jahre Auslandsaufenthalt. Zwei
+  Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
+  angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
+
+- **DIE VIER ENTSCHEIDUNGEN SIND WEITERHIN UNGEFUNDEN.** Sang-hoon haelt
+  ausdruecklich an der Schuld fest (*"I have not forgiven the debt"*).
+  **Georgij muss dafuer noch einen eigenen Ansatz finden**, getrennt vom
+  Pflegeheim-Faden.
+
+- **DAS PFLEGEHEIM AUSSERHALB WONJUS.** Noch nicht bestaetigt als die zweite
+  Blumenadresse. Sang-hoon ermittelt ab jetzt parallel und unabhaengig ueber
+  die Grundstuecksakte. **Zwei Ermittlungsstraenge auf dasselbe Ziel - Faellig:
+  ob sie sich koordinieren oder sich gegenseitig ins Gehege kommen.**
+
 - **SANG-HOON WEISS ES NOCH NICHT UND WARTET BIS DIENSTAG (9. Juni).**
   Faellig genau an dem Tag: entweder Georgij hat etwas zum Vorlegen, oder er
   muss Sang-hoon ein zweites Mal auf Zeit vertroesten, und Sang-hoon hat am

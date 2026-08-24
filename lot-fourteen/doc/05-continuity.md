@@ -255,6 +255,15 @@ nachrechnen, und `check.py` tut das automatisch.
   ihm dieselbe Frage wie Sang-hoon, ohne es zu wissen - **wessen vier Tage
   sind das.** Annie zeigt am Abend elf von geplanten dreissig Namen (Band 2,
   Kapitel 35)
+- Tag 248-249, Mo/Di 8./9. Juni: **Annies drei Ergebnisse und das Treffen mit
+  Sang-hoon.** Einunddreissig Namen, elf davon mit unerklaerten Wendepunkten;
+  ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief, der ein
+  Pflegeheim ausserhalb Wonjus finanziert und keine Namen an der Tuer fuehrt;
+  und ein einziges Mal, vor elf Jahren, an dem jemand ihn hat verlieren sehen -
+  unbenannt. **Georgij legt Sang-hoon die halbe Wahrheit vor** (den Mann, nicht
+  die vier Entscheidungen) **und Sang-hoon liefert die andere Haelfte selbst
+  zurueck: er hat seit Samstag unabhaengig dieselbe Grundstuecksakte verfolgt**
+  (Band 2, Kapitel 36)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1717,6 +1726,21 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie schliesst die Szene, indem sie die Frage zurueckgibt, statt sie zu beantworten:** *"Ask me something you do not already know the answer to, and I will tell you whether I am wasting anything."* Und zeigt den ersten Ertrag: **elf Namen am Abend des ersten Tages, dreissig bis Sonntag geplant**, keiner der Befragten weiss, dass gefragt wird.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
+
+- **Band 2, Kapitel 36** *Not the man, the four* (v1.0) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+
+  **Annies drei Ergebnisse, wortgenau gehalten:**
+  1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
+  2. **Ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief**, der ein namenloses Pflegeheim ausserhalb Wonjus finanziert. Noch nicht bestaetigt als die zweite Blumenadresse, aber vom Typ her passend.
+  3. **Einmal, vor elf Jahren, hat ihn jemand verlieren sehen.** Ein Zimmer, eine Hochzeit, die nicht stattfand, vier Jahre Auslandsaufenthalt danach, zwei unabhaengige Zeugen, die das Wort *"unrecognisable"* benutzen. **Kein Name. Zwei Gespraechspartner brachen ab, als sie ein zweites Mal gefragt wurden.**
+
+  **Das Dienstagstreffen ist die erste offene Kommunikation seit Kapitel 26, und Georgij liefert bewusst nur die Haelfte des Schuldigen:** *"I have the man ... I do not have the four decisions ... neither of those is what you told me to bring you."* **Er nennt das nicht Erfolg, sondern die ehrliche Haelfte:** *"I would rather hand you an honest half than a whole thing I have padded to look finished."*
+
+  **Die Wendung, die das Kapitel traegt: Sang-hoon wusste es schon.** Er hat seit Samstag unabhaengig dieselbe Grundstuecksakte in Gangwon-do verfolgt, aus einem eigenen Verdacht, und wartete ab, ob Georgij es selbst sagen wuerde: *"I did not say it first because I wanted to hear whether you would."* **Zum ersten Mal seit Beginn dieses Fadens ziehen die beiden Ermittlungen aus verschiedenen Richtungen an derselben Tuer.**
+
+  **Und Sang-hoon liefert am Schluss einen neuen, ungeoeffneten Faden:** in acht Jahren Tischgesellschaft hat Choi Dae-ho kein einziges Mal eine Frau erwaehnt - *"the one subject he has never once brought up."* Georgijs Notizbucheintrag haelt es fest, ohne zu deuten: *"Eight years. Never once a woman. Find out why not."*
+
+  **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
 ---
 
