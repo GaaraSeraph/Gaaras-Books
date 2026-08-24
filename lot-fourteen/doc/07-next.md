@@ -1731,6 +1731,19 @@ dem 24.08. offen.
 
 ---
 
+## Fuer die Stil-Sitzung, aus dem Zuschreibungsdurchgang (25.08.)
+
+Beim Absuchen von Band 2 auf Zuschreibungen sind zwei Formeln aufgefallen, die
+woertlich mehrfach dastehen. Das ist nicht mein Ressort, aber es faellt beim
+Lesen auf:
+
+- **"He cannot do both at once and he has never in his life noticed that it
+  shows."** Steht **dreimal** nahezu wortgleich: Kapitel 18, 24 und 26.
+- **"Mrs Jeon had taught him that without meaning to, the first time she
+  opened the exercise book."** Steht **zweimal**: Kapitel 41 und 43.
+
+---
+
 ## Zwei Fragen aus dem Zuschreibungsdurchgang, die dem Autor gehoeren (25.08.)
 
 - **Band 2, Kapitel 7 und 12: *"the fourth week of the worst quarter of her
