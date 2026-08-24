@@ -900,7 +900,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.5) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.6) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -1003,7 +1003,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-- **Band 2, Kapitel 11** *What she cannot prove* (v2.2) - **Tag 180, Mi 1. April. Vier Szenen: die verstrichene Woche, der Brief, das kleine Zimmer, und der Hof in Ulsan am selben Nachmittag.**
+- **Band 2, Kapitel 11** *What she cannot prove* (v2.3) - **Tag 180, Mi 1. April. Vier Szenen: die verstrichene Woche, der Brief, das kleine Zimmer, und der Hof in Ulsan am selben Nachmittag.**
 
   **Fassung 1 hiess *In my own hand* und liess ihn die Antwort schreiben. Am 23.08. vom Autor verworfen, aus zwei Gruenden, und beide stimmen.**
 
@@ -2502,6 +2502,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
+- **Band 2, Kapitel 50** *The one he kept* (v1.0) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
 ---
 
 ## Der Juli ist betreten
@@ -2592,6 +2596,53 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Zuschreibung, Band 2, Kapitel 1 bis 11 (25.08.)
+
+**Kapitel 11 hatte drei Zuschreibungen in einem Satz und zwei davon falsch.**
+Der Satz lautete: *"Park Sang-hoon since the fourth of October, because he was
+in the room. Chairman Woo since the end of that month. Hana Seo-yeon since
+December."*
+
+- **Sang-hoon war am 4. Oktober nicht im Keller.** Im Raum waren neunzehn
+  Kaeufer, darunter Mrs Sunwoo, zwei Reihen vor Annie. Sang-hoon hat es am
+  **27. November** gesehen, als Annie in Band 1, Kapitel 22 den Knopf drueckte:
+  *"Sang-hoon looked at the collar for as long as it takes to read a short
+  word."*
+- **Hana weiss es seit dem 25. Oktober**, nicht seit Dezember, und zwar aus
+  seinem eigenen Mund um fuenf vor halb elf auf dem Parkett (Band 1, Kapitel 9),
+  und Kapitel 21 rechnet es selbst nach: *"You have carried that for four weeks
+  and never once spent it."*
+- **Chairman Woo** ist an keiner Stelle beider Baende belegt. Der Satz sagt das
+  jetzt: er ist nie gefragt worden und hat nie gefragt.
+
+**Kapitel 8 nahm Kapitel 10 die Pointe weg.** Im Zug am 20. Maerz stand:
+*"Mrs Sunwoo put hers in a drawer under the tax papers and did not take it out
+again."* Das erfaehrt er erst am **24. Maerz** in ihrem eigenen Zimmer, und dort
+traegt es die Szene (*"She knew exactly where it was. She had put it there
+herself and had not looked at it again."*). Der Satz ist gestrichen.
+
+**Weiter korrigiert.** Kapitel 1: acht Wochen statt zehn. Kapitel 3: sechs Tage
+statt acht. Kapitel 4: die Frage nach der Verfuegung stand auf keiner Seite,
+sondern mitten in einem Gespraech ueber eine Decke. Kapitel 5: *designation*
+statt *dedication*.
+
+**Und eine eigene Korrektur zurueckgenommen.** Ich hatte heute Vormittag in
+Band 1, Kapitel 28 *"four hours"* auf *"two hours"* gezogen, weil Kapitel 1
+zweimal zwei Stunden sagt. Band 2 sagt zweimal vier: Kapitel 3 (*"An auction of
+that kind is four hours in a building"*) und Kapitel 6 (*"in the cellar of it for
+four hours"*). **Die beiden Zahlen messen Verschiedenes** - Kapitel 1 zaehlt die
+Zeit im Saal, Band 2 die Zeit im Gebaeude. Vier ist wiederhergestellt.
+
+**Was gehalten hat.** *"None of them are mine"* in Kapitel 10 ist kein
+Widerspruch zu *"The fourth of October. Fourteen."*, sondern der Unterschied
+zwischen einem Eintrag und dem Menschen darauf, und Mrs Sunwoo bemerkt ihn
+ausdruecklich. Die sechs Minuten, die sie ihm im Oktober gab, stehen in Kapitel 3
+und Kapitel 10 gleich. *"He had not read the name at all"* widerspricht nicht
+*"There is a name at the bottom of that page"* - er hat gesehen, dass einer da
+steht, und ihn nicht gelesen.
 
 ---
 

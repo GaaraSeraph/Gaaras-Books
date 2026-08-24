@@ -1,0 +1,380 @@
+# Chapter 8: Nobody sent me
+*Lot Fourteen* · Version 1.6 · EN
+
+## Day One Hundred and Sixty-Eight · Friday 20 March
+
+He read the letter for the fourth time on the Thursday night and found the word on the fourth reading, which is late for him.
+
+*I want somebody to answer them.*
+
+Not you. Somebody.
+
+---
+
+A woman who has written the same six people once a month for twenty years does not put a word in a letter by accident. She had built a door into it and had not drawn attention to the door.
+
+---
+
+"She is not asking for you," he said. "She has been careful about that. She asks for an hour, the six of them, and somebody to answer them, and the somebody is not specified anywhere on the page."
+
+Annie read it again with her thumb on the line.
+
+"She is leaving me a way to send a man."
+
+"She is leaving anybody a way to come. Which is not the same, and I think she means the second one."
+
+---
+
+"Then the price," said Annie. "Before, and not after."
+
+---
+
+"If I go, I am the house. Whatever I say in that room is what your house said, and she will be entitled to that reading, because I have not got anything else to be." He set it out flat. "And I cannot sign anything. The paper in the drawer covers a man at a desk near the river and Park Sang-hoon and one month. It does not cover Ulsan and I am not going to stretch it."
+
+"So you can promise her nothing."
+
+"I can promise her that I will argue for something. That is the whole of it."
+
+---
+
+"And if it goes badly."
+
+"Then she has spoken to somebody from this house at last, and she will say so in the letter she writes on the first, and the letter will be worse." He did not soften it. "It goes from a woman with a page to a woman with a page and a meeting."
+
+---
+
+Annie put the letter down.
+
+"I am not going to tell you to go," she said.
+
+"No, Mistress."
+
+"I want that to be true when somebody asks you. Not a form of words. True."
+
+---
+
+"It will be."
+
+"Then it is your afternoon and not mine, and you will tell me what it cost before you tell me what came of it, and you will do that tonight and not tomorrow."
+
+* * *
+
+He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan.
+
+He has never in his life bought a ticket for anything. He said so, in one sentence, without arranging his face about it, because she was going to work it out inside a minute anyway and it is quicker to say things.
+
+---
+
+She did not make a business of it.
+
+There was an envelope on the table outside his room in the morning. A ticket, and a second ticket for the way back. A card with the platform on it, and the time of the last train that would still get him home the same night.
+
+Nothing else was in the envelope. She had not put money in it, and he understood that she had thought about whether to and had decided against, and he was grateful in a way he did not examine.
+
+* * *
+
+The yard is behind a fuel depot on the north side of the harbour road, and there are four trucks in it and room for nine.
+
+Nobody stopped him at the gate because there was nobody at the gate. A woman of about thirty came out of the office with a clipboard, looked at him, and went back in without saying anything, and half a minute later Nam Byung-hee came out instead.
+
+---
+
+She is fifty-eight and she looked at him the way you look at a delivery you did not order.
+
+"You are not from here."
+
+"No."
+
+"Say your name."
+
+---
+
+He said it.
+
+It meant nothing to her at all, and he watched it mean nothing, and for about a second he was a man standing in a yard.
+
+---
+
+"And what are you."
+
+"I work in the house you wrote to on Wednesday."
+
+---
+
+Nam Byung-hee did not move for about two seconds.
+
+Then she looked past him at the gate, and at the road behind the gate, and at the place where a car would be if there were one.
+
+"Where is your car."
+
+"I came on the train."
+
+---
+
+"Did she send you."
+
+"No."
+
+---
+
+"That is the answer everybody gives."
+
+"It is also the true one. I told her on Thursday night what it would cost her if I came. She declined to tell me to go. She said out loud that she wanted that to be true and not a form of words." He did not decorate it. "So it is. I am here because I read your letter four times and found the word *somebody* in it, and it is not there by accident."
+
+---
+
+She looked at him for a while after that.
+
+"Come in out of the yard," she said. "I am not giving you an hour. You can have as long as it takes me to be sure you are wasting it."
+
+---
+
+The office is one room over the weighbridge and there is a calendar on the wall with nothing written on it since January.
+
+She did not offer him anything and she did not sit down, so neither did he.
+
+---
+
+"You know what I have," said Nam Byung-hee.
+
+"You have the back page of a tidied catalogue and somebody has told you what the phrase on it means."
+
+"Then you know what I can do with it."
+
+"I know what you said you would do with it, and I believe you. There is not one untrue sentence in that letter. A person who is going to lie usually puts the lie in the third paragraph." He kept his hands at his sides. "I am not here about the page. I am here about the first paragraph."
+
+---
+
+He had looked at the desk when he came in, because he looks at desks.
+
+There is one sheet in a plastic wallet on the corner of it, and it is a photocopy, and it is a photocopy of a single page.
+
+Every buyer at that house got the whole catalogue in March. Bound, posted, a printed label on the outside of a flat parcel. What is lying on that desk is not what those people got. It is one page out of it, taken out by somebody who had the rest of it.
+
+---
+
+"How long have you had that."
+
+"Since the fourteenth."
+
+"Thank you."
+
+---
+
+He did not ask her who had given it to her, and he had settled that in the car to the station on the Thursday night and did not reopen it in the room.
+
+She would have told him. She is a woman who tells people things and has spent twenty years finding out that it does not help.
+
+And she would have understood, in the two seconds it took her to answer, what she was saying. That somebody came a long way to put one page in front of a woman in Ulsan. That he chose the page, and chose the week, and chose her.
+
+After that she is not a woman with a grievance any more. She is a woman who has been used, and a woman who has been used goes and finds out for herself.
+
+There is exactly one person she could go to.
+
+---
+
+She waited.
+
+"You wrote that nobody has refused you anything, because nobody has had to." Georgij did not look away from her. "That is the most exact sentence in it, and I do not think you knew how exact it was."
+
+---
+
+"Explain it to me, then. Since January nobody else has."
+
+---
+
+"There is a veto," he said. "It is not a rule and it is not a tariff and it is not anybody at the port disliking you. It is a private clause in an agreement between shareholders. It does not exist anywhere you could go and look at it. The people who use it do not have to say one word to anybody in order to use it. There is no office. There is nobody to write to. None of that is accidental. It is what the thing is for."
+
+---
+
+Nam Byung-hee sat down after all.
+
+"Say the rest."
+
+"It is not aimed at you." He said it carefully, because it was the part he had to get exactly right. "You are not in anybody's way, and taking your lane apart buys the person holding it nothing whatsoever. You are the floor of a room somebody else is standing in."
+
+---
+
+"That is worse."
+
+"Yes."
+
+"I have six firms and forty-one people and one of them is my brother's boy, and you are telling me we are underneath somebody's furniture."
+
+"I am telling you what is true. If you want it to sound better than that, somebody will be along inside a fortnight who can do that for you."
+
+---
+
+She laughed at that, once, and it was not a nice laugh and she did not apologise for it.
+
+---
+
+"So what have you come to sell me."
+
+"Nothing. I have nothing to sign with."
+
+---
+
+He used to put a second half on that sentence. It was taken off him on the second of March, in the small room, by the only person entitled to take it. He has not found anything to put there since, and in an office over a weighbridge in Ulsan the bare half of it sounded like exactly what it was.
+
+---
+
+"I cannot move a container and I cannot lift the veto," he said. "Nobody has given me the authority to offer you anything. You would find that out inside a week, and then every other thing I have said in this room today would be worth nothing."
+
+---
+
+"Then why are you standing in my office."
+
+---
+
+"Because there are two things I can do," said Georgij. "The first one I have already done. Nobody had told you what was happening to you, and now somebody has, and that is yours whatever else comes of today."
+
+"And the second."
+
+"I will go back tonight and argue that you are not in the way of anything. If I am right about that, it costs the person holding the veto nothing at all to stop standing on you, and people do not usually refuse to do things that cost them nothing."
+
+---
+
+"And if you are wrong."
+
+"Then nothing happens, and you have lost eight days, and you write on the first exactly as you were going to."
+
+---
+
+Nam Byung-hee put both hands flat on the desk.
+
+"You want me to hold it past the twenty-sixth."
+
+"I want you to hold it past the twenty-sixth."
+
+"For a man who came on the train and cannot sign anything."
+
+"Yes."
+
+---
+
+"How will I know."
+
+"You will know because cargo moves." He said it in the same voice as the rest. "Not because anybody writes to you. Nobody is going to write to you, and if somebody did you should not believe it. Watch the lane."
+
+---
+
+She was quiet for a while and the room was quiet with her.
+
+"Twenty years I have written on the first," she said. "Do you know how many answers I have had."
+
+"No."
+
+"Four. All four of them were from the same man and he is dead." She said it without any self-pity in it at all, which made it worse. "You came on a Friday to a yard you had never heard of. You have stood in my office for twenty minutes and told me three things I did not know and nothing at all that I wanted to hear. And you have not once said the word *unfortunately*."
+
+---
+
+"I will give you until the first," said Nam Byung-hee. "Not the twenty-sixth and not longer than the first. On the first I write, and if the lane is still dead I will write about all of it."
+
+"That is more than I came for."
+
+"It is exactly what I was always going to do. I have simply told you." She stood up. "Write your name down for me before you go."
+
+---
+
+He wrote it on the corner of a delivery pad on her desk, in his own hand, with nothing under it.
+
+No title. No house. No telephone number, because he does not have one that is his.
+
+She tore the corner off and put it in the pocket of her coat, which was on the back of the chair, and she did not look at it again while he was in the room.
+
+---
+
+The train back was the one on the card and it was two thirds empty.
+
+He sat with his back to the direction of travel and set it out both ways, because a man who only counts what a thing cost him has stopped doing arithmetic and started feeling sorry for himself.
+
+---
+
+What it had cost is short and all of it is real. She knows there is a veto and roughly where it lives, and on Friday morning she did not. She has spoken to somebody out of that house, which she had not. And she has his name in her coat.
+
+---
+
+What he had came to three, and he had gone down there for one of them.
+
+The demand had changed shape in that room. She had written asking for an hour with six men in it. An hour with six men in it is the one thing in this that cannot be given, because it is the admission itself. She had let him leave asking for cargo instead.
+
+Cargo admits nothing. Cargo is a lane going back to what it was, and not one person has to say a word out loud in order for it to happen. He had gone down there against a demand that could not be met and had come back with one that could.
+
+---
+
+The second is lying on a desk over a weighbridge in a plastic wallet.
+
+Every buyer at that house has the whole catalogue. She has one page of it, photocopied, and she has had it since the fourteenth of March. So somebody took a single page out of a bound book that had been posted to him personally, and copied it, and got it in front of a woman in Ulsan inside a fortnight of its arriving.
+
+That is not everybody in Korea. That is the list of people who buy at that house, which is not short and is not public and is a very great deal shorter than everybody in Korea.
+
+---
+
+And there is a date on it, which is worth more than the wallet.
+
+The parcel came up the drive on the second of March. The page was on a desk in Ulsan on the fourteenth. Twelve days.
+
+Everybody else who got that parcel opened it, looked at four references and a phrase, and put it away. Twelve days is not how long it takes a man to notice something. Twelve days is how long it takes a man to use a thing he has been waiting for.
+
+---
+
+And then the half of it that is worse.
+
+The back page carries references and seasons. It does not carry one single name. A page with lot fourteen on it is worth nothing whatever to a person who does not already know whose lot fourteen it was.
+
+So he knew before the parcel came. The parcel is not where he found it out. The parcel is how he could hand it over without being the man who knew.
+
+---
+
+Georgij looked out of the window at a town he could not name for a while after that.
+
+The list of people who know what was struck on the nineteenth of February is short enough to write on the back of a card, and he could write it now, and he did not take the card out.
+
+There are three names on it that he has eaten at a table with.
+
+---
+
+And it costs him a thing he has been carrying since Wednesday, which is that somebody sat down with her and explained it to her.
+
+He has no reason left to think that. A page in a plastic wallet does not need a conversation, and two lines on a covering note would have done the whole of it.
+
+A man who arranges a meeting can be found afterwards. A man who posts something cannot.
+
+He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the most useful thing he had learned all day, and it meant he had spent two days looking for the wrong shape.
+
+---
+
+The third he had not gone for and would not have got by asking.
+
+She had looked at his name and it had meant nothing to her.
+
+Whoever did this gave her the page and did not give her the man on it. That is not an oversight. That is a decision, and a decision of that kind tells you what somebody is keeping something back for.
+
+---
+
+There is a fourth item and he did not put it on either side of the line, because he had not decided which side it belonged on.
+
+A woman who is drowning does whatever occurs to her, on any morning, without warning anybody. A woman who is not drowning any more stays where she has been put.
+
+---
+
+The last piece did not come out well.
+
+---
+
+She has a photocopy of a back page with four references on it and a phrase underneath.
+
+She has now also got a name, written out by hand on the corner of a delivery pad, at her own request, from a man who walked into her yard and gave it to her.
+
+She does not know that they are the same thing.
+
+---
+
+Somebody will tell her. Not this month and possibly not this year, but somebody will, because the sort of person who found her in the first place does not do that once and then leave the rest to chance.
+
+And on the day she is told, she will remember that she asked for it.
+
+---
+
+He got home at twenty past eleven and stood in the doorway of the small room. He said what it had cost, and then what had come of it, in that order. That was the ceiling she had put on him on the eleventh, and he had begun to see the point of the ceiling.
