@@ -166,16 +166,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch11:272 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
 | 22 | b1ch11:286 | Annie went down the hall without taking her shoes off. |
 | 23 | b1ch12:62 | Annie did not send for him. |
-| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 26 | b1ch12:186 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
-| 26 | b1ch12:202 | "Now the other part," said Annie. |
-| 26 | b1ch12:210 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
-| 26 | b1ch12:222 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
-| 26 | b1ch12:236 | "No," said Annie. "It isn't." |
-| 26 | b1ch12:246 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
-| 26 | b1ch12:250 | "Yes," said Annie. "It is." |
-| 26 | b1ch12:266 | "I know why," said Annie. |
-| 26 | b1ch12:276 | Annie looked at him across the desk for what felt like a considerable time. |
+| 26 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | b1ch12:184 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
+| 26 | b1ch12:200 | "Now the other part," said Annie. |
+| 26 | b1ch12:208 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
+| 26 | b1ch12:220 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
+| 26 | b1ch12:234 | "No," said Annie. "It isn't." |
+| 26 | b1ch12:244 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
+| 26 | b1ch12:248 | "Yes," said Annie. "It is." |
+| 26 | b1ch12:264 | "I know why," said Annie. |
+| 26 | b1ch12:274 | Annie looked at him across the desk for what felt like a considerable time. |
 | 27 | b1ch13:18 | Annie stopped with the cup halfway off its hook. |
 | 27 | b1ch13:34 | Annie did not sit. She stood at the window with her coffee for slightly longer than she .. |
 | 27 | b1ch13:82 | He did not take any of it to Annie. |
@@ -745,9 +745,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:60` (Tag 22) - three
 - `b1ch11:214` (Tag 22) - eleven, twenty-five
 - `b1ch11:230` (Tag 22) - two hundred
-- `b1ch12:186` (Tag 26) - four, nineteen
-- `b1ch12:210` (Tag 26) - one
-- `b1ch12:222` (Tag 26) - one, twenty-six
+- `b1ch12:184` (Tag 26) - four, nineteen
+- `b1ch12:208` (Tag 26) - one
+- `b1ch12:220` (Tag 26) - one, twenty-six
 - `b1ch13:34` (Tag 27) - two
 - `b1ch15:126` (Tag 41) - twenty, two
 - `b1ch15:166` (Tag 41) - one
@@ -1531,7 +1531,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
 | 22 | b1ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
 | 23 | b1ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
-| 25 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 26 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
 | 27 | b1ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
 | 27 | b1ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
 | 27 | b1ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
@@ -1671,7 +1671,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:214` (Tag 22) - eleven, twenty-five
 - `b1ch11:242` (Tag 22) - fourteen, one
 - `b1ch12:68` (Tag 23) - nine, three
-- `b1ch12:138` (Tag 25) - four
+- `b1ch12:138` (Tag 26) - four
 - `b1ch13:104` (Tag 27) - eight
 - `b1ch13:114` (Tag 27) - forty, one
 - `b1ch13:136` (Tag 27) - eighty, one, twenty
@@ -2513,17 +2513,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
 | 22 | b1ch11:64 | Then Kang. |
 | 22 | b1ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
-| 25 | b1ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
-| 25 | b1ch12:94 | Kang laughed, the same short one, over in a moment. |
-| 25 | b1ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
-| 25 | b1ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
-| 25 | b1ch12:124 | "That is a much better answer than the one I expected," said Kang. |
-| 25 | b1ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
-| 25 | b1ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
-| 25 | b1ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
-| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 25 | b1ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
-| 25 | b1ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
+| 26 | b1ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
+| 26 | b1ch12:94 | Kang laughed, the same short one, over in a moment. |
+| 26 | b1ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
+| 26 | b1ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
+| 26 | b1ch12:124 | "That is a much better answer than the one I expected," said Kang. |
+| 26 | b1ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
+| 26 | b1ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
+| 26 | b1ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
+| 26 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | b1ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
+| 26 | b1ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
 | 46 | b1ch17:10 | "Kang," said Annie. |
 | 49 | b1ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
 | 49 | b1ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
@@ -2539,11 +2539,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Kang Ji-hoon
 
 - `b1ch11:74` (Tag 22) - forty-three, sixty-one
-- `b1ch12:86` (Tag 25) - eight, four
-- `b1ch12:94` (Tag 25) - one
-- `b1ch12:124` (Tag 25) - one
-- `b1ch12:168` (Tag 25) - two
-- `b1ch12:170` (Tag 25) - two
+- `b1ch12:86` (Tag 26) - eight, four
+- `b1ch12:94` (Tag 26) - one
+- `b1ch12:124` (Tag 26) - one
+- `b1ch12:168` (Tag 26) - two
+- `b1ch12:170` (Tag 26) - two
 - `b1ch21:134` (Tag 49) - forty, nine, one, three, two
 - `b1ch21:190` (Tag 49) - forty
 - `b1ch21:220` (Tag 49) - eight, nine, one, seven

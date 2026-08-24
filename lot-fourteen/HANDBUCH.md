@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 161.888 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 162.378 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2906,13 +2906,13 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 - **Kapitel 20** *I came back with a favour* (v1.5) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.10) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
-- **Kapitel 18** *On account* (v2.7) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
+- **Kapitel 18** *On account* (v2.8) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.12) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
-- **Kapitel 15** *Four thousand two hundred* (v2.7) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
-- **Kapitel 14** *In the same size type* (v7.7) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
-- **Kapitel 13** *The man with the open hand* (v2.5) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.8) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 15** *Four thousand two hundred* (v2.8) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
+- **Kapitel 14** *In the same size type* (v7.8) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
+- **Kapitel 13** *The man with the open hand* (v2.6) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
+- **Kapitel 12** *You are better when you don't know* (v1.9) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.10) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.5) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.4) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
@@ -4120,7 +4120,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *Four owners deep* (v1.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *Four owners deep* (v2.0) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -4132,7 +4132,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Six weeks before* (v1.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *A shape the size of a person* (v2.0) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -4144,7 +4144,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.2) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+- **Band 2, Kapitel 44** *Somebody in Seoul pays for it* (v2.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
 
   **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
 
@@ -4154,7 +4154,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
-- **Band 2, Kapitel 45** *The line above it* (v1.0) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
+- **Band 2, Kapitel 45** *The line above it* (v1.1) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
 
   **Zwei Tage an K ergeben nichts**, und der Fund kommt nicht von draussen, sondern aus seiner eigenen Abschrift. Er hat Sang-hoons Kalender in der ersten Juniwoche kopiert und dabei vier Zeilen herausgenommen und alles stehen lassen, wonebem sie standen. *"K has no date because I did not copy one, which is not the same as there having been none."* Drei Tage vorher hat er Jangs Lieferwagen ausdruecklich in der Reihenfolge notiert, in der Jang ihn bemerkt hat, mit der Begruendung dazu - und die eigene Liste nie umgedreht.
 
@@ -4167,7 +4167,12 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
 
 
-- **Band 2, Kapitel 46** *Somebody in Seoul pays for it* (v2.0) - **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
+**Kapitel 46 gibt es nicht mehr.** Die Schreibsitzung hat es am 25.08. in
+Kapitel 44 gezogen (*"44 und 46 werden eins"*), und 43 und 44 haben dabei neue
+Titel bekommen. Die folgenden Notizen sind die des alten 46 und stehen hier
+unveraendert, weil sie **noch nicht gegen die neue Fassung geprueft** sind - das
+gehoert der Schreibsitzung, nicht der Inhaltspruefung. Was davon in Kapitel 44
+ueberlebt hat, ist offen. Alte Kopfzeile: **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
 
   **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
 
@@ -4782,6 +4787,55 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 12 bis 15 (25.08.)
+
+**Der Anruf von Kang faellt jetzt auf Mittwoch, Tag 26.** Er stand auf Dienstag,
+Tag 25, und **fuenf Stellen an drei Orten** zeigten auf den vierten Tag: Kapitel 9
+zweimal (*"It would be four days before he understood"*, dazu Hanas *"in about
+four days"*), und im Anruf selbst *"four days after"*, *"four nights ago"* und
+Kangs *"I found that interesting for four days"*. Von Samstagnacht aus ist
+Dienstag drei Naechte und Mittwoch vier. Der Anruf ist gewandert, nicht die
+Zahlen. Annies *"I've spent four of those days"* stimmt damit auch: die Nacht
+nach der Gala zaehlt zum 22.
+
+**Die drei unbrauchbaren Daten heissen jetzt Juni, September, Oktober.** Sie
+standen als *"a Thursday in June, a Wednesday in September and a Monday last
+month"*, und **zwei davon waren derselbe Monat** - Georgij schreibt sie an Tag
+27/28 auf, also ist *last month* der September. Hana zaehlt sie in Kapitel 15
+aber an den Monatsnamen ab (*"June, I don't have. September I don't have."*),
+und das geht nur mit drei verschiedenen Monaten. Der September bleibt beim
+Mittwoch, weil Woo *"six weeks ago"* vor dem 25. Oktober zum zweiten Mal
+angesprochen wurde und Kapitel 19 genau das einloest. Also faellt der Montag in
+den Oktober. Geaendert in **Kapitel 13 (zweimal), 15 und 18**.
+
+**Weiter korrigiert.**
+
+- **Kapitel 14:** *"Three cancellations last week, which Hana had on a terrace"*.
+  Hana hatte auf der Terrasse den Zoll, nicht die Stornierungen, und die
+  Terrasse lag zwoelf Tage vor *last week*. Jetzt: *"and Hana had the customs on
+  a terrace at the gala"*.
+- **Kapitel 14:** *"useful again, Underneath every one"* - Komma statt Punkt vor
+  einem Grossbuchstaben. Dazu der **einzige krumme Apostroph in Band 1**
+  (*eleven o'clock*).
+- **Kapitel 15:** *"seventeen frames"* -> *"seventeen frames across the four
+  years"*. Die dreiundzwanzig Bilder sind die **einer** Gala; siebzehn Bilder mit
+  zwei Leuten *"four years apart"* koennen nicht aus denselben dreiundzwanzig
+  kommen.
+- **Kapitel 15:** *"forty-one holdings on that side"* -> **achtunddreissig**. Auf
+  zwei Seiten standen drei verschiedene Einundvierzig: der Tag, die Kim-Anteile
+  (gerechnet, 11+9+7+6+4+4, die bleiben) und die Parzellen.
+
+**Was gehalten hat.** Woos einundfuenfzig Jahre im Gewerbe stimmen mit
+achtundsiebzig und Eintritt mit siebenundzwanzig. Der Zoll sitzt an Tag 34
+achtzehn Tage im Gebaeude - Hana sagte an Tag 22 sechs. Kim Ye-rins
+zweiundvierzig Komma vier gehen auf. Die achtzehnte ist Tag 46 und traegt
+Kapitel 16. *Next Thursday* an einem Donnerstag ist Tag 41 und traegt Kapitel 15.
+
+**Offen, gehoert der Stil-Sitzung.** Band 2, Kapitel 41 hat den einzigen
+verbliebenen krummen Apostroph im ganzen Buch.
 
 ---
 
@@ -8505,16 +8559,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch11:272 | "Because I've looked at it," said Annie, "and it changes what I am going to have to ask .. |
 | 22 | b1ch11:286 | Annie went down the hall without taking her shoes off. |
 | 23 | b1ch12:62 | Annie did not send for him. |
-| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 26 | b1ch12:186 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
-| 26 | b1ch12:202 | "Now the other part," said Annie. |
-| 26 | b1ch12:210 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
-| 26 | b1ch12:222 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
-| 26 | b1ch12:236 | "No," said Annie. "It isn't." |
-| 26 | b1ch12:246 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
-| 26 | b1ch12:250 | "Yes," said Annie. "It is." |
-| 26 | b1ch12:266 | "I know why," said Annie. |
-| 26 | b1ch12:276 | Annie looked at him across the desk for what felt like a considerable time. |
+| 26 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | b1ch12:184 | "I've had the name for nineteen days," said Annie. "You worked that out in the car and y.. |
+| 26 | b1ch12:200 | "Now the other part," said Annie. |
+| 26 | b1ch12:208 | "I know exactly what he wants," said Annie, "and I have exactly one of it in this house." |
+| 26 | b1ch12:220 | "With the collar," said Annie. "Not shown. Not announced. Found." She said it in the fla.. |
+| 26 | b1ch12:234 | "No," said Annie. "It isn't." |
+| 26 | b1ch12:244 | "Then I will not tell you his name, or the date, or what he has done, and you will walk .. |
+| 26 | b1ch12:248 | "Yes," said Annie. "It is." |
+| 26 | b1ch12:264 | "I know why," said Annie. |
+| 26 | b1ch12:274 | Annie looked at him across the desk for what felt like a considerable time. |
 | 27 | b1ch13:18 | Annie stopped with the cup halfway off its hook. |
 | 27 | b1ch13:34 | Annie did not sit. She stood at the window with her coffee for slightly longer than she .. |
 | 27 | b1ch13:82 | He did not take any of it to Annie. |
@@ -9084,9 +9138,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:60` (Tag 22) - three
 - `b1ch11:214` (Tag 22) - eleven, twenty-five
 - `b1ch11:230` (Tag 22) - two hundred
-- `b1ch12:186` (Tag 26) - four, nineteen
-- `b1ch12:210` (Tag 26) - one
-- `b1ch12:222` (Tag 26) - one, twenty-six
+- `b1ch12:184` (Tag 26) - four, nineteen
+- `b1ch12:208` (Tag 26) - one
+- `b1ch12:220` (Tag 26) - one, twenty-six
 - `b1ch13:34` (Tag 27) - two
 - `b1ch15:126` (Tag 41) - twenty, two
 - `b1ch15:166` (Tag 41) - one
@@ -9870,7 +9924,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch11:214 | "Annie in public, and the other word nowhere at all." His hands stayed where they were o.. |
 | 22 | b1ch11:242 | "You've been holding something since Woo. You've given me fourteen minutes of everything.. |
 | 23 | b1ch12:68 | The syndicate on Woo's terminal turned out to be nine institutions, which meant nine set.. |
-| 25 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
+| 26 | b1ch12:138 | "On Saturday you asked me for guidance. Chairman Woo has told several people that you as.. |
 | 27 | b1ch13:104 | The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and.. |
 | 27 | b1ch13:114 | "He is not wrong. He is simply not the one eating it." Chairman Woo tucked his napkin in.. |
 | 27 | b1ch13:126 | Woo had bought the ground in a year when nobody wanted it, on the advice of a man who wa.. |
@@ -10010,7 +10064,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch11:214` (Tag 22) - eleven, twenty-five
 - `b1ch11:242` (Tag 22) - fourteen, one
 - `b1ch12:68` (Tag 23) - nine, three
-- `b1ch12:138` (Tag 25) - four
+- `b1ch12:138` (Tag 26) - four
 - `b1ch13:104` (Tag 27) - eight
 - `b1ch13:114` (Tag 27) - forty, one
 - `b1ch13:136` (Tag 27) - eighty, one, twenty
@@ -10852,17 +10906,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch10:134 | There was nothing to be done about it now. A man who goes back to correct that sort of t.. |
 | 22 | b1ch11:64 | Then Kang. |
 | 22 | b1ch11:74 | "Hong is sixty-one and it flattered him. Kang is forty-three and he heard a man telling .. |
-| 25 | b1ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
-| 25 | b1ch12:94 | Kang laughed, the same short one, over in a moment. |
-| 25 | b1ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
-| 25 | b1ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
-| 25 | b1ch12:124 | "That is a much better answer than the one I expected," said Kang. |
-| 25 | b1ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
-| 25 | b1ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
-| 25 | b1ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
-| 25 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
-| 25 | b1ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
-| 25 | b1ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
+| 26 | b1ch12:86 | "Mr Kang Ji-hoon, Ministry of Land, Infrastructure and Transport." As though they had no.. |
+| 26 | b1ch12:94 | Kang laughed, the same short one, over in a moment. |
+| 26 | b1ch12:102 | "There has been some interest in a change of designation on the eastern side at Incheon... |
+| 26 | b1ch12:112 | He could not deflect, because Kang was listening for a deflection and would have heard i.. |
+| 26 | b1ch12:124 | "That is a much better answer than the one I expected," said Kang. |
+| 26 | b1ch12:134 | "May I say something," said Kang, "and you can take it as rudeness if you like." |
+| 26 | b1ch12:148 | "Yes," said Kang Ji-hoon. "It did." |
+| 26 | b1ch12:156 | "Then read the 2019 amendment first, and don't read the guidance notes, because the guid.. |
+| 26 | b1ch12:166 | He had not told Kang his side's position, because he did not have it. What he had told h.. |
+| 26 | b1ch12:168 | That was the useful sentence. Kang could take it to his minister on any Tuesday of the y.. |
+| 26 | b1ch12:170 | Georgij did not know which of those two Kang would carry, and he could not correct eithe.. |
 | 46 | b1ch17:10 | "Kang," said Annie. |
 | 49 | b1ch21:134 | "Two shipping families who are not the Kims, because forty people out of one trade is a .. |
 | 49 | b1ch21:146 | "You went somewhere for about a quarter of a second." She was entirely pleasant about it.. |
@@ -10878,11 +10932,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Kang Ji-hoon
 
 - `b1ch11:74` (Tag 22) - forty-three, sixty-one
-- `b1ch12:86` (Tag 25) - eight, four
-- `b1ch12:94` (Tag 25) - one
-- `b1ch12:124` (Tag 25) - one
-- `b1ch12:168` (Tag 25) - two
-- `b1ch12:170` (Tag 25) - two
+- `b1ch12:86` (Tag 26) - eight, four
+- `b1ch12:94` (Tag 26) - one
+- `b1ch12:124` (Tag 26) - one
+- `b1ch12:168` (Tag 26) - two
+- `b1ch12:170` (Tag 26) - two
 - `b1ch21:134` (Tag 49) - forty, nine, one, three, two
 - `b1ch21:190` (Tag 49) - forty
 - `b1ch21:220` (Tag 49) - eight, nine, one, seven

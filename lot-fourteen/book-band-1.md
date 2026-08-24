@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.146 Woerter.
+Book One, 34 Kapitel, 101.153 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -22,13 +22,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 09 | v3.4 | 3.118 |
 | 10 | v2.5 | 2.983 |
 | 11 | v2.10 | 2.730 |
-| 12 | v1.8 | 2.350 |
-| 13 | v2.5 | 2.834 |
-| 14 | v7.7 | 2.599 |
-| 15 | v2.7 | 4.208 |
+| 12 | v1.9 | 2.347 |
+| 13 | v2.6 | 2.834 |
+| 14 | v7.8 | 2.605 |
+| 15 | v2.8 | 4.212 |
 | 16 | v1.16 | 3.278 |
 | 17 | v12.12 | 2.708 |
-| 18 | v2.7 | 2.980 |
+| 18 | v2.8 | 2.980 |
 | 19 | v1.10 | 3.210 |
 | 20 | v1.5 | 2.108 |
 | 21 | v1.7 | 4.080 |
@@ -3150,7 +3150,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Book One · Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3208,7 +3208,7 @@ Jang collected his two sheets, and squared them, and did not look particularly p
 
 Annie did not send for him.
 
-Not on the twenty-third and not on the twenty-fourth. He saw her twice, once in the hall and once from a window, and on both occasions she nodded and went on.
+Not on the twenty-third, not on the twenty-fourth and not on the twenty-fifth. He saw her twice, once in the hall and once from a window, and on both occasions she nodded and went on.
 
 So he worked.
 
@@ -3220,7 +3220,7 @@ He did not enjoy it.
 
 He had noticed at the auction, and again in the ballroom, that he was becoming a man who preferred rooms to documents, and he did not think that was a good thing to be becoming.
 
-## Day Twenty-Five · Tuesday 28 October
+## Day Twenty-Six · Wednesday 29 October
 
 The telephone rang at twenty past four in the afternoon.
 
@@ -3246,7 +3246,7 @@ He had put the smile on before he said it. Nobody could see it, at either end, a
 
 "There has been some interest in a change of designation on the eastern side at Incheon. Port land. It would be a fairly technical thing." Kang's voice did not go anywhere at all. "What is your side's position on it?"
 
-There it was, on a Tuesday afternoon, four days after he had walked across a room and shown a man exactly where to put it.
+There it was, on a Wednesday afternoon, four days after he had walked across a room and shown a man exactly where to put it.
 
 He could not say *I don't know*, because he did know five fragments and *I don't know* was not true.
 
@@ -3313,8 +3313,6 @@ That was the useful sentence. Kang could take it to his minister on any Tuesday 
 Georgij did not know which of those two Kang would carry, and he could not correct either without inventing.
 
 He also did not know whether the line had been recorded. He assumed it had, which cost nothing, and which he had assumed from the second the number came up.
-
-## Day Twenty-Six · Wednesday 29 October
 
 She sent for him at eight in the evening, which she had never done.
 
@@ -3417,7 +3415,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 ---
 
 # Book One · Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3473,7 +3471,7 @@ That was the end of it. He knew what that sort of company was for. It exists so 
 
 The four dates were another matter.
 
-Three of them meant nothing to him at all. A Thursday in June. A Wednesday in September. A Monday last month.
+Three of them meant nothing to him at all. A Thursday in June. A Wednesday in September. A Monday in October.
 
 The fourth one he did not have to look up.
 
@@ -3487,7 +3485,7 @@ On the fourth date, whoever it belonged to had presumably also not gone in, beca
 
 So there was somebody who waited outside.
 
-That was the whole of it, and it was not very much. He had a company that existed in order not to be a name. He had four dates, and three of them were a Thursday in June, a Wednesday in September and a Monday last month, and they meant nothing whatsoever to him and probably meant a great deal to somebody.
+That was the whole of it, and it was not very much. He had a company that existed in order not to be a name. He had four dates, and three of them were a Thursday in June, a Wednesday in September and a Monday in October, and they meant nothing whatsoever to him and probably meant a great deal to somebody.
 
 He went down and gave Jang the account number, and the company, and all four of the dates, and thanked him for the plates.
 
@@ -3672,7 +3670,7 @@ He already knew which four minutes of this evening he would use to get it.
 ---
 
 # Book One · Chapter 14: In the same size type
-*Lot Fourteen* · Version 7.7 · EN
+*Lot Fourteen* · Version 7.8 · EN
 
 ## Day Thirty-One · Monday 3 November
 
@@ -3784,7 +3782,7 @@ A second finger.
 
 "And the third?"
 
-"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." A third finger. "Customs has been sitting in that building for eighteen days. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, which Hana had on a terrace and did not think was the interesting part."
+"The third is the only one that is urgent, and it is the one nobody has mentioned in this house." A third finger. "Customs has been sitting in that building for eighteen days. Their problem this month has nothing to do with who owns them. Their customers are leaving. Three cancellations last week, and Hana had the customs on a terrace at the gala and did not think that was the interesting part."
 
 He put one hand flat.
 
@@ -3796,7 +3794,7 @@ Annie did not say anything to that, because there was nothing in it she did not 
 
 "Go on."
 
-"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again, Underneath every one of your supply contracts there is a delivery clause with a number in it. The number is not there to be reasonable."
+"A reactor that stops does not simply start again on Thursday." He put one finger down and left it there. "You lose the batch in it. You lose the two behind it. A plant that has been cold for a week is four weeks away from being useful again. Underneath every one of your supply contracts there is a delivery clause with a number in it. The number is not there to be reasonable."
 
 "You have read my contracts."
 
@@ -3886,7 +3884,7 @@ Annie looked at him for a moment.
 
 "Say it."
 
-"At the gala you and she did not exchange one word until eleven o’clock," said Georgij. "Both of you had arranged that in advance. Anybody who was watching that room and can count has that. If she comes up this drive on Thursday, then whatever the two of you were not doing at the Grand Hotel, you have stopped not doing."
+"At the gala you and she did not exchange one word until eleven o'clock," said Georgij. "Both of you had arranged that in advance. Anybody who was watching that room and can count has that. If she comes up this drive on Thursday, then whatever the two of you were not doing at the Grand Hotel, you have stopped not doing."
 
 "Yes."
 
@@ -3897,7 +3895,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -3929,7 +3927,7 @@ He gave them the room first, because the room was what they did not have.
 
 The Kims first, with names on the faces, because that was the piece that had been missing since the gala. Kim Ye-rin, fifty-four, no seat and no signature and no title, and in sixteen frames out of twenty-three standing where she could see the doors.
 
-"I can show you why I think it. I cannot prove one word of it," he said. "There are seventeen frames in which somebody says something and looks at her in the middle of the sentence before going on. Two different people, four years apart, neither of them aware they are doing it. None of that proves anything, and it is all I have."
+"I can show you why I think it. I cannot prove one word of it," he said. "There are seventeen frames across the four years in which somebody says something and looks at her in the middle of the sentence before going on. Two different people, four years apart, neither of them aware they are doing it. None of that proves anything, and it is all I have."
 
 Hana laughed out loud.
 
@@ -3973,7 +3971,7 @@ Hana stopped.
 
 "You knew."
 
-"Since Tuesday." He put his hands flat on the cloth. "I have been reading the eastern parcel for a fortnight because Incheon is the whole of this, and the first thing you do with a parcel is find out who owns it. There are forty-one holdings on that side. Yours is the fourth largest and it stands in your own name, which nobody does while they are hiding something."
+"Since Tuesday." He put his hands flat on the cloth. "I have been reading the eastern parcel for a fortnight because Incheon is the whole of this, and the first thing you do with a parcel is find out who owns it. There are thirty-eight holdings on that side. Yours is the fourth largest and it stands in your own name, which nobody does while they are hiding something."
 
 "And you have sat on it since Tuesday."
 
@@ -4087,7 +4085,7 @@ Annie's face did nothing at all.
 
 Hana went through them twice.
 
-"June, I don't have. September I don't have." She stopped at the third. "The Monday last month is the night before the ministry published the consultation on the eastern parcel. Which could be nothing. Consultations leak for a week beforehand and everybody knows a day early."
+"June, I don't have. September I don't have." She stopped at the third. "The Monday in October is the night before the ministry published the consultation on the eastern parcel. Which could be nothing. Consultations leak for a week beforehand and everybody knows a day early."
 
 "And the fourth?"
 
@@ -4912,7 +4910,7 @@ He did not turn round and look at the chair.
 ---
 
 # Book One · Chapter 18: On account
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5168,7 +5166,7 @@ Nine institutions in the syndicate on Woo's terminal. Three of them large enough
 
 That wall had been standing in front of him since October and it was standing there still.
 
-Underneath it, on the inside cover, in his own hand, were three dates that had meant nothing to him for three weeks. A Thursday in June. A Wednesday in September. A Monday last month.
+Underneath it, on the inside cover, in his own hand, were three dates that had meant nothing to him for three weeks. A Thursday in June. A Wednesday in September. A Monday in October.
 
 And an account number belonging to a corporate services company in Jung-gu with six employees, which existed so that somebody else did not have to appear on a docket.
 
