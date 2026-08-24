@@ -1718,7 +1718,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in December, after the pape.. |
+| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in November, after the pape.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 

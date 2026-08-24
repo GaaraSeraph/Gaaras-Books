@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 35 | v1.2 | 2.050 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
-| 38 | v2.1 | 2.977 |
+| 38 | v2.2 | 2.977 |
 | 39 | v2.0 | 2.942 |
 | 40 | v2.0 | 2.769 |
 | 41 | v2.0 | 3.904 |
@@ -7910,7 +7910,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8114,7 +8114,7 @@ Put them in the same afternoon and the first one stops being a gift. It becomes 
 
 Georgij sat with that until the light in the small room had moved off the desk.
 
-It is the same shape as the three dates he gave Chairman Woo in December, after the paper was signed and not before, so that they paid for nothing. He had understood it then as a courtesy he could afford. He understands it now as the only part of the method that actually holds anything up, and he has just found out what it costs when the two halves land on the same man.
+It is the same shape as the three dates he gave Chairman Woo in November, after the paper was signed and not before, so that they paid for nothing. He had understood it then as a courtesy he could afford. He understands it now as the only part of the method that actually holds anything up, and he has just found out what it costs when the two halves land on the same man.
 
 He did not go up and tell her.
 

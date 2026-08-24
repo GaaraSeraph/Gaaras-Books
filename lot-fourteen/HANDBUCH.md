@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 168.031 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 168.117 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -4072,7 +4072,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v2.1) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v2.2) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -7463,6 +7463,19 @@ dem 24.08. offen.
 
 ---
 
+## Fuer die Stil-Sitzung, aus dem Zuschreibungsdurchgang (25.08.)
+
+Beim Absuchen von Band 2 auf Zuschreibungen sind zwei Formeln aufgefallen, die
+woertlich mehrfach dastehen. Das ist nicht mein Ressort, aber es faellt beim
+Lesen auf:
+
+- **"He cannot do both at once and he has never in his life noticed that it
+  shows."** Steht **dreimal** nahezu wortgleich: Kapitel 18, 24 und 26.
+- **"Mrs Jeon had taught him that without meaning to, the first time she
+  opened the exercise book."** Steht **zweimal**: Kapitel 41 und 43.
+
+---
+
 ## Zwei Fragen aus dem Zuschreibungsdurchgang, die dem Autor gehoeren (25.08.)
 
 - **Band 2, Kapitel 7 und 12: *"the fourth week of the worst quarter of her
@@ -10497,7 +10510,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in December, after the pape.. |
+| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in November, after the pape.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
