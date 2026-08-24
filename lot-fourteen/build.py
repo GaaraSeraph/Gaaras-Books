@@ -60,6 +60,25 @@ def bands(root):
     return out
 
 
+def unruled(text):
+    """Den Takt-Trenner aus der Lesefassung nehmen.
+
+    Die Quelldateien setzen zwischen zwei Bloecken eine Zeile mit ---. Das ist
+    ein Takt und keine Abschnittsgrenze; in Band 2 steht er alle fuenfeinhalb
+    Zeilen. In Markdown wird daraus eine volle Trennlinie, und ein Buch mit
+    zweitausendvierhundert Trennlinien liest sich nach nichts.
+
+    Die Absatzleerzeile traegt den Takt ohnehin, echte Abschnitte stehen als
+    Datumszeile (## Day ...) im Kapitel, und die Trennlinien zwischen den
+    Kapiteln setzt der Build selbst. `read/` behaelt sein zentriertes
+    Ornament, `paste/` behaelt die Trenner - dort werden sie gebraucht."""
+    out = [ln for ln in text.split("\n") if ln.strip() != "---"]
+    joined = "\n".join(out)
+    while "\n\n\n" in joined:
+        joined = joined.replace("\n\n\n", "\n\n")
+    return joined
+
+
 def titled(label, text):
     """Bandnummer in die Titelzeile schreiben, und nur in die erste Zeile.
 
@@ -484,7 +503,7 @@ def main():
             head.append("| %02d | v%d.%d | %s |"
                         % (n, v[0], v[1],
                            format(len(t.split()), ",").replace(",", ".")))
-        body = [titled(bl, t) for _, bl, _, _, _, t in bchaps]
+        body = [unruled(titled(bl, t)) for _, bl, _, _, _, t in bchaps]
         name = "book-band-%d.md" % bband
         write_text(os.path.join(root, name),
                    "\n".join(head) + "\n\n---\n\n"
