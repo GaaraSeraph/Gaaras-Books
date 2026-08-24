@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.124 Woerter.
+Book One, 34 Kapitel, 101.123 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,8 +11,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.5 | 2.403 |
-| 02 | v11.7 | 3.167 |
+| 01 | v6.6 | 2.403 |
+| 02 | v11.8 | 3.166 |
 | 03 | v2.7 | 3.374 |
 | 04 | v1.9 | 2.443 |
 | 05 | v5.10 | 4.327 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.5 · EN
+*Lot Fourteen* · Version 6.6 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -91,7 +91,7 @@ The woman in the last row had not looked at the platform once. She had been watc
 
 "We'll open at forty."
 
-The middle started at forty and died at a hundred and ten. The front dropped out between one-fifty and one-sixty, each with the same small shake of the head.
+The middle started at forty and died at a hundred and ten. The front dropped out between one-fifty and one-ninety, each with the same small shake of the head.
 
 At two hundred there was one left. Second row. The man who had bought the boy.
 
@@ -270,7 +270,7 @@ Annie didn't turn her head.
 ---
 
 # Book One · Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.7 · EN
+*Lot Fourteen* · Version 11.8 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -450,7 +450,7 @@ Georgij picked up the bag as he came.
 
 The stud gave under his thumb on the way up out of the car. It was a manicure set. The scissors were the second thing in the roll, and he had them out and through the man's eye without any particular effort, the way you'd post a letter.
 
-"I did mention the collar wouldn't protect you."
+"I did mention what my file says."
 
 He said it kindly.
 

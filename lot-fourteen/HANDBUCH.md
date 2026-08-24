@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 154.873 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 155.006 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2590,8 +2590,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 ### Stand der Kapitel
 
-- **Kapitel 1** *Merchandise doesn't talk* (v6.5) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
-- **Kapitel 2** *Quid pro Quo* (v11.7) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 1** *Merchandise doesn't talk* (v6.6) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
+- **Kapitel 2** *Quid pro Quo* (v11.8) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 34** *Then take it off* (v1.8) - **Drei Abschnitte, und der Schluss von Band 1.**
 
   **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
@@ -4742,6 +4742,17 @@ offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
   Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
   Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Kapitel 2 berief sich auf einen Satz, den es nicht gibt.** Nach dem Stich
+  auf der Auffahrt sagte Georgij *"I did mention the collar wouldn't protect
+  you."* Erwaehnt hat er das Halsband nie; was er im Wagen gesagt hat, ist
+  *"and I'll be exactly what my file says I am."* Die Zeile zeigt jetzt
+  dorthin: **"I did mention what my file says."** Der Gegenbeleg steht vier
+  Absaetze weiter, wo das Buch es richtig macht: *"A transfer of debt is a
+  contract. I said so in your car."*
+- **Die Gebotsleiter in Kapitel 1 hatte eine Luecke von vierzig Millionen.**
+  Die Mitte stirbt bei hundertzehn, die Front stieg zwischen hundertfuenfzig
+  und hundertsechzig aus - und danach steigt der Preis noch bis zweihundert,
+  ohne dass jemand dagegenhaelt. Die Front steigt jetzt bis hundertneunzig aus.
 - **Kapitel 17 sagte am Dienstag "on Tuesday".** Sang-hoon hat es ihm am
   Abend desselben Tages gesagt, beim Essen; zwei Tage spaeter, in Kapitel 18,
   ist dasselbe "on Tuesday" richtig. Steht jetzt auf *tonight*.
