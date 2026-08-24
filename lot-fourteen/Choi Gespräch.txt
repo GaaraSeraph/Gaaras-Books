@@ -1,0 +1,116 @@
+"I take it you read the curtain from agatha christie. mr x is very likely one you admired. I did, too. I have thought about it. I liked how Poirot did not see a different out than killing him. My morals differ- I have no moral issues whatsoever. So it would have been onesided. I have the means, I have the people, I have the grudge. But it would be a stain on my record. And you would get an easy way out of what you have done. I do not like that ending.
+so I will be very through with you. you know and have been waiting. Not knowing if a nameless lot with the number 14 would do the same to you as he did to a woman with a logistics company your actions ruined. Now you know.
+And you will never know if one of the people you have manipulated will see it the same way I do or if they think you need more punishment. I will leave that to your Imagination.
+
+so now I have something to ask you. Please give me your guidance: how does a man with nothing left escape what is coming for him, not knowing what comes for him?"
+
+irgendwie diese Richtung.
+
+choi hat deutlich länger als 8 Jahre nie verloren, er hat Annies Vater schon betört.
+
+__
+
+Szenenentwurf — Ort und Datum noch offen, wird nach der Reparatur eingeordnet:
+
+He did not sit down, and he did not ask Choi Dae-ho to either.
+
+"You have read Curtain," said Georgij. "I take it you admired Mr X. I did as well."
+
+Choi did not answer that, and the not-answering was itself an answer.
+
+"I have thought about ending this the way it ends in that book," said Georgij. "A man decides he cannot be stopped by anything that has a name, so he stops being stopped by law and does it himself. I understand the appeal. I do not share the difficulty he had with it afterward. Killing you would cost me nothing I would notice."
+
+"Then why have you not."
+
+"Because it would be one-sided," said Georgij. "You have spent longer than eight years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private, and it would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
+
+"Say what you are going to do instead."
+
+"Nothing, tonight." Georgij kept his hands at his sides. "You have known I was coming. You have been waiting to find out whether a lot with a number on it and no name of his own would do to you what you did to a woman with four trucks and a lane on the Ulsan coast. You built the page. I was the hand that sent it. I am not going to pretend that makes either of us clean."
+
+"And now."
+
+"Now you know it was found," said Georgij. "That is the whole of tonight. I am not going to tell you who else knows, or how many of the people you have had dinner with have already been told, or which of them think a conversation is enough and which of them do not. I am not going to tell you because I have not decided it myself, and even if I had, you would not get it from me standing in a room where I hold every part of the advantage."
+
+Choi Dae-ho said nothing for a long moment.
+
+"You want me to live with that," he said.
+
+"I want you to live with not knowing which one of them decides you have not been punished enough," said Georgij. "You are very good at reading a room. I am told you have never once been wrong about what a person wants before they know it themselves. I would like your guidance, since you are the expert in the room and I am only the one who arranged it."
+
+He let that sit for exactly as long as it needed to.
+
+"How does a man with nothing left escape a thing he cannot see coming?"
+
+Choi did not have an answer, and for the first time since Georgij had walked into that room, it showed on his face for slightly longer than a quarter of a second.
+
+"No," said Georgij. "I did not think you would."
+
+He left before the silence could turn into anything Choi could use.
+
+Anmerkungen zur Übersetzung ins Buch:
+
+„I do not share the difficulty he had with it afterward" ersetzt „no moral issues whatsoever" — Kapitel 27 hat bereits festgelegt, dass Kindesmissbrauch die eine Grenze ist, an der Georgij tatsächlich Hand anlegt; völlige moralische Gleichgültigkeit wäre also nicht wahr. Diese Formulierung bleibt wahr, ohne zu behaupten, er habe gar keine Moral.
+Die „quarter of a second"-Zeile am Schluss ist ein bewusster Echo auf die Legende aus Kapitel „Ein Lächeln, das eine Viertelsekunde zu spät kommt" (doc/02-leads.md) — dieselbe Waffe, jetzt gegen Choi gerichtet.
+Kontraktionsfrei durchgehend, wie es sich für eine Szene gehört, in der er die Fassung vollständig hält.
+
+__
+schreibe den Autorennamen (Agatha Christie), damit Leser das verstehen. Dialog ist schön. Es fehlt nur das Lächeln wie bei Sang-Hoon, nur kälter. Dieses "asking for guidance" ist der Todesstoß jedes Antagonisten in jedem Buch, was wir geschrieben haben oder schreiben werden. Es sollte ähnlich sein.
+
+Und ich würde mich gerne verabschieden oder begrüßen mit Chois Markensatz "It has been good to see you again" oder wie auch immer er das sagt
+
+___
+
+Szene, überarbeitet:
+
+He did not sit down, and he did not ask Choi Dae-ho to either.
+
+"It has been good to see you again," said Georgij.
+
+He said it exactly the way it had been said to a florist in Hyoja-dong, and to a man on a telephone four years before that, and he watched it land as what it was.
+
+Something crossed Choi's face for less than a second, and it was the first thing Georgij had seen him not choose to show.
+
+"You have read Agatha Christie's Curtain," said Georgij. "I take it you admired Mr X. I did as well."
+
+Choi did not answer that, and the not-answering was itself an answer.
+
+"I have thought about ending this the way it ends in that book," said Georgij. "A man decides he cannot be stopped by anything that has a name, so he stops being stopped by law and does it himself. I understand the appeal. I do not share the difficulty he had with it afterward. Killing you would cost me nothing I would notice."
+
+"Then why have you not."
+
+Georgij smiled at him then. It was the wide one, the one that goes all the way up and arrives about a quarter of a second late, built in a house in Daejeon when he was twenty-one and never once wasted on anybody who mattered.
+
+He had never once used it cold before.
+
+"Because it would be one-sided," he said, and let the smile go out exactly when he meant it to. "You have spent longer than eight years arranging things so that other people carry the weight and you carry none of it. A killing is quick, and it is private, and it would let you finish exactly the way you have lived, which is without ever once finding out what it costs to be found out. I am not going to hand you that."
+
+"Say what you are going to do instead."
+
+"Nothing, tonight." Georgij kept his hands at his sides. "You have known I was coming. You have been waiting to find out whether a lot with a number on it and no name of his own would do to you what you did to a woman with four trucks and a lane on the Ulsan coast. You built the page. I was the hand that sent it. I am not going to pretend that makes either of us clean."
+
+"And now."
+
+"Now you know it was found," said Georgij. "That is the whole of tonight. I am not going to tell you who else knows, or how many of the people you have had dinner with have already been told, or which of them think a conversation is enough and which of them do not. I am not going to tell you because I have not decided it myself, and even if I had, you would not get it from me standing in a room where I hold every part of the advantage."
+
+Choi Dae-ho said nothing for a long moment.
+
+"You want me to live with that," he said.
+
+"I want you to live with not knowing which one of them decides you have not been punished enough," said Georgij. "You are very good at reading a room. I am told you have never once been wrong about what a person wants before they know it themselves. I would like your guidance, since you are the expert in the room and I am only the one who arranged it."
+
+He let that sit for exactly as long as it needed to.
+
+"How does a man with nothing left escape a thing he cannot see coming?"
+
+Choi did not have an answer, and for the first time since Georgij had walked into that room, it showed on his face for slightly longer than a quarter of a second.
+
+"No," said Georgij. "I did not think you would."
+
+He went to the door and stopped there, the way he does when there is one more thing.
+
+"It has been good to see you again," he said, and this time he meant every word of it as a threat and none of it as anything else, and left before the silence could turn into something Choi could use.
+
+Die Übernahme des Lächelns ist jetzt die Achse der Szene: Es baut sich am gleichen Ort auf, an dem Choi seinen Satz benutzt — beide haben ein trainiertes Werkzeug aus früher Jugend, beide setzen es normalerweise warm ein, und Georgij zeigt ihm hier zum ersten Mal die kalte Version, die er noch nie gebraucht hat. Das Lächeln geht genau dann aus, wenn er es will — das ist die Zeile aus doc/02-leads.md über die seltenste, teuerste Variante seines Lächelns, jetzt gegen Choi gerichtet.
+
+Der Satz "It has been good to see you again" rahmt die ganze Szene — als Gruß, der Choi sofort zeigt, dass sein eigenes Werkzeug gegen ihn verwendet wird, und als Abschied, der es endgültig macht.
