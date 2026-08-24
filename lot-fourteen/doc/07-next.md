@@ -1187,3 +1187,59 @@ Fassung.**
   muss, damit es Absicht bleibt. Choi Dae-ho ist seit Kapitel 7 ein Name ohne
   Szene. Die Familie Lee steht im Figurenverzeichnis und ist in siebzehn
   Kapiteln nicht vorgekommen.
+
+
+---
+
+## Offen nach dem Kontinuitaetsdurchgang vom 24.08.
+
+**1. Der Byun-Knoten. Nicht repariert, weil er eine Entscheidung braucht.**
+Band 1, Kapitel 34 ist Kanon: *"It took from the fourth of January to the
+nineteenth of February."* Annie war in dieser Zeit viermal in dem Gebaeude, und
+Byun erinnert diese Besuche in Kapitel 22 aus erster Hand - *"she was the only
+one of them who frightened me"*. Dagegen stehen vier Saetze:
+
+- Kapitel 22: er habe das Haus **im November** verlassen, sechs Wochen vor dem
+  Abschluss des Fonds.
+- Kapitel 21: Hwang habe die **vier** Gebuehren in der zweiten Dezemberwoche
+  gefunden - die zweite Gebuehr derselben Kaeuferin gab es da noch nicht.
+- Kapitel 21: *"This house has not sold a deletion since the eleventh of
+  December"* - Annie hat am 19. Februar genau das bekommen.
+- Kapitel 21: *"He left in November, before I came"* - Hwangs eigene Zahlen
+  (neun Wochen vor dem 11.12., fuenf Monate vor dem 18. Maerz) setzen seine
+  Ankunft auf Mitte Oktober.
+
+**Die kleinste Loesung ist ein Datum:** Byun geht erst Ende Februar. Dann hat er
+Annies Kauf selbst abgewickelt, und zwar hinter Hwangs Ruecken, nachdem Hwang die
+Praxis am 11. Dezember abgestellt zu haben glaubte - das macht Kapitel 21
+schaerfer statt schwaecher, aber es ist eine Aenderung an der Geschichte und
+keine Korrektur. **Solange das nicht entschieden ist, bleiben alle vier Saetze
+so stehen, wie sie sind.**
+
+**2. Drei angekuendigte Rechnungen, die nie kommen.** Alle drei sind keine
+Textfehler, sie brauchen eine Szene oder eine Streichung:
+
+- **Kapitel 5:** *"You do not yet. You will in about a month."* Der Preis fuer den
+  Nachmittag am Kondolenzbuch, dreizehn Maenner in Hoerweite. Keiner der dreizehn
+  taucht je wieder auf; Yeom findet ihn ueber das Registerformular. Faellig
+  Anfang April, am 30. Juni immer noch offen.
+- **Kapitel 18:** *"You will get there in about four days and it will be yours."*
+  Gemeint sind die zwei Maenner, die Choi haben essen sehen. Bis Kapitel 42 nie
+  benannt - und der Faden laeuft stattdessen ueber Sang-hoon, der ihn **nie** hat
+  essen sehen und also keiner der fuenf ist.
+- **Kapitel 2:** *"two of them will be gone by June."* Shin kommt nach Kapitel 2
+  in keinem Kapitel mehr vor. Es ist der 30. Juni.
+
+**3. Wissen, das aufhoert benutzt zu werden.**
+
+- **Mrs Sunwoo** sagt in Kapitel 10, es habe **vor** der Seite andere gegeben, sie
+  kenne zwei, beide tot. Nach dem 27. Mai, als der Name faellt, geht niemand zu
+  der einzigen Person mit einundvierzig Jahren Wissen darueber, wer in dem Haus
+  kauft - obwohl Hongs Dreierliste sie und Choi in einem Atemzug nennt.
+- **Mr Ok** hat seit Kapitel 17 die Anweisung, jederzeit ja zu sagen und niemanden
+  zu warnen. Der Stolperdraht wird nach Kapitel 20 nie wieder geprueft.
+
+**4. Ein Ermessensfall, absichtlich stehengelassen.** *"What is in the folder."*
+(Kapitel 35). Georgij fragt Annie, nachdem sie ihn ausdruecklich dazu eingeladen
+hat; sie koennte trotzdem nein sagen. `check.py` meldet die Stelle als
+Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.

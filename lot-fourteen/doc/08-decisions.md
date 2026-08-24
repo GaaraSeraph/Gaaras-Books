@@ -805,3 +805,67 @@ Auktionshauses. Eine gestrichene Zeile darin erzeugt keine Staatsangehoerigkeit
 und kein Konto. Papiere gibt es seit Oktober, weil ihre Compliance sie brauchte.
 **Regel 2 gilt am 1. Maerz unveraendert.**
 
+
+
+---
+
+## Kontinuitaetsdurchgang Band 2, entschieden am 24.08.
+
+Drei Durchgaenge ueber alle 42 Kapitel von Band 2: Zahlen und Zeitachse,
+Wissens- und Zusagenkette, Punkt oder Fragezeichen. Was dabei entschieden wurde:
+
+**Woo ist achtundsiebzig, und er ist mit siebenundzwanzig eingestiegen.** Band 2,
+Kapitel 13 liess ihn zweimal *"I am seventy-five"* sagen. Band 1 sagt viermal
+achtundsiebzig, einmal aus seinem eigenen Mund (*"I am not starting at
+seventy-eight"*), und vielfach *"fifty-one years"* im Gewerbe. Der aeltere und
+haeufigere Text gewinnt. **Die Gegenprobe war der eigentliche Fund:** wer nur das
+Alter hochsetzt, erzeugt aus *"since I was twenty-four"* vierundfuenfzig Jahre
+und zerschiesst die einundfuenfzig, die quer durch Band 1 stehen. Also ist der
+Einstieg mitgegangen: siebenundzwanzig.
+
+**Dienstzeiten sind auf die haeufigere Zahl gezogen.** Byun sechsundzwanzig Jahre
+(viermal gegen einmal zweiundzwanzig), Jang dreissig Jahre (dreimal gegen zweimal
+zweiundzwanzig - die zweiundzwanzig gehoeren Mr Noh und sind vermutlich von dort
+herueber), Mrs Seo neun Jahre (Band 1 und Annies eigener Mund gegen zweimal elf
+in Kapitel 24).
+
+**Die vierte Gebuehr wurde am Abend bezahlt und nicht vier Jahre spaeter.** Byun
+und Yeom sagen es beide so, und Kapitel 22 zaehlt sie unter *"two others going
+back four years"*. Kapitel 29 und 33 hatten daraus *"last year"* und *"four years
+late"* gemacht, und Kapitel 29 stuetzte darauf die ganze Ueberzeugung von
+Mrs Jeon. Die Argumentation laeuft jetzt ueber das, was ohnehin die staerkere
+Fassung war und in Kapitel 27 schon steht: **eine Abwesenheit im Buch ist eine
+Frage, eine Zahlung ist ein Dienstag.**
+
+**Kapitel 34 weiss das Grundstueck noch nicht.** Es kam aus Annies Auftrag und
+wird erst in Kapitel 36 geliefert. Kapitel 34 nennt jetzt, was er am 4. Juni
+wirklich hat: zwei Adressen und einen Arzt, der ueber eine Losnummer bezahlt
+wurde.
+
+**Annie hebt ihr eigenes Verbot ausdruecklich auf.** Das Verbot aus Kapitel 34
+(*"Not the florist and not the addresses"*) wurde in Kapitel 36 gebrochen, ohne
+dass jemand es bemerkte - bei einem Mann, der jede solche Entscheidung
+mitspricht, und einen Tag nach einer Szene, die ihn beim Einhalten zeigt. Statt
+den Bruch zu erzaehlen, hebt sie ihn am Montagabend auf, und zwar nur zur
+Haelfte: die Blumenfrau bleibt geschuetzt.
+
+**Annies Auskunft ueber das Essen geht nicht an einen Koch.** In Kapitel 39 gab
+Georgij Mr Baek die ganze Regel, um zu erklaeren, warum die Frage zaehlt. Das ist
+nach dem 29. Mai, faellt also unter seine eigene Zusage. Er sagt jetzt, dass er
+es nicht erklaeren wird; die Folgerung steht im Erzaehltext.
+
+**Vier Bitten bekommen ihr Fragezeichen.** *Will you give me his name?* (18),
+*Will you give me the two names?* (10), *Who told you?* (25), *Have you ever
+watched him eat?* (26). Die Probe ist in allen vier Faellen im Text beantwortet:
+der andere sagt nein. Die Marke gehoert dem, der den Zug abgibt, auch wenn die
+Zeile kalt ist. Der Gegenbeleg stand im selben Buch - *"Did you meet him?"* in
+Kapitel 1 ist dieselbe Bitte an dieselbe Frau mit demselben Ausgang und hatte das
+Zeichen. Dazu **"What do you want?"** aus Byuns Mund in Kapitel 22, der an dieser
+Stelle nichts mehr fordert.
+
+**Das Komma-Mittel wird wieder eingehegt.** *"Is there anything I should do,"
+said Mr Ok.*, *"When," said Georgij.* und *"What did the fund tell you," said
+Georgij.* sind keine Abfertigungen, sondern genau der Fall, fuer den die Regel
+das Zeichen vorsieht. Sie haben es bekommen. Der Rest der Form bleibt bei denen,
+die den Zug haben. **Stand danach: rund zehn Vorkommen in Band 2. Das ist die
+Obergrenze, nicht der Anfang einer Gewohnheit.**
