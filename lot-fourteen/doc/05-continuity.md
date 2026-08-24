@@ -242,6 +242,13 @@ nachrechnen, und `check.py` tut das automatisch.
   beide Adressen und setzt Jang auf die zweite - **von aussen, bevor sein Name
   irgendwo faellt.** *"You do not go near either address without telling me
   first. Not asking. Telling."* (Band 2, Kapitel 33)
+- Tag 244, Do 4. Juni: **er liest das Notizbuch von vorn und findet den Satz
+  zweimal.** Mrs Gwaks *"good to see us again"* und Sang-hoons Profil aus
+  Kapitel 26 - *"He tells people he is glad they have finally met. The first
+  time. When they have never met."* **Es ist derselbe Mann: Choi Dae-ho.**
+  Unbewiesen, ein Habitus, zweimal, vier Jahre auseinander. Annie glaubt es
+  ohne Beweis und stoppt trotzdem jede Bewegung fuer vier Tage - **niemand geht
+  an eine der beiden Adressen, Sang-hoon erfaehrt nichts** (Band 2, Kapitel 34)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1668,6 +1675,28 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Drei offene Faeden werden im selben Gespraech genannt und bewusst nicht geschlossen:** Hwangs Bitte um Anerkennung fuer Mrs Jeon (das Blatt liegt ungelesen bei Georgij), und Sang-hoons vier unerklaerte Entscheidungen, die seit April liegen geblieben sind, weil die vierte-Zeile-Sache die Zeit gefressen hat. *"Then say that to him before he says it to you." - "I intend to."*
 
   **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
+
+- **Band 2, Kapitel 34** *The best company in the room* (v1.0) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
+
+  **Der grosse Konvergenzpunkt zweier Ermittlungen, die Georgij selbst in Kapitel 33 noch als getrennt bezeichnet hat.** Er liest das Notizbuch von vorn und legt zwei Eintraege nebeneinander: Herrn Yeoms *"glad we had met"* (Kapitel 25/31) gegen Sang-hoons Auskunft aus Kapitel 26, *"He tells people he is glad they have finally met. The first time. When they have never met."*
+
+  **Die Probe, bevor er es glaubt:** *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart ... is not a coincidence twice."*
+
+  **Und die Zusammenfassung in drei Zeilen, die die Ermittlung der letzten sieben Kapitel neu einordnet:** ein Mann, der andere in Zimmer stellt und sich nicht selbst an den Tisch setzt; einer, der seinen eigenen Namen vier Jahre spaeter aus einem Buch herauskauft, weil es ihm mehr wert ist, nichts geschuldet zu haben, als das Geld; einer, dessen einziger Fehler acht Jahre lang derselbe Satz an Fremde ist.
+
+  **Choi Dae-ho.** Zum ersten Mal seit Kapitel 26 wieder im Text, und zum ersten Mal mit einer konkreten Handlung verbunden statt nur mit einem Namen in Georgijs Notizbuch.
+
+  **Er bringt es sofort zu Annie, ungeschminkt als Vermutung und nicht als Beweis:** *"I cannot prove it. I have one habit, twice, four years apart, and nothing else that would stand up anywhere that mattered."*
+
+  **Annies Reaktion ist keine Bestaetigung, sondern eine Risikoabschaetzung, und sie zieht die Konsequenz sofort:** *"Then the florist is not safe either."* Georgij hatte das noch nicht bedacht - **die vierte Regel dieses Buches** (jeder Satz muss etwas tun) zeigt hier ihre haesslichste Seite: jeder, der ihm in den letzten anderthalb Wochen geholfen hat, ist jetzt ein Name, den ein gefaehrlicher Mann erreichen koennte.
+
+  **Ihr Befehl ist eine Vier-Tage-Pause fuer alle**, Jang eingeschlossen, und ein Ausschluss: **Sang-hoon erfaehrt nichts**, obwohl er genau danach gefragt hat (*"Not the man. The four."*, Kapitel 26). Annies Begruendung: *"If you hand him a name you cannot prove ... he will act on it. That is not something either of you can take back."*
+
+  **Und der Moment, an dem Georgij zum ersten Mal in elf Wochen (seit dem 20. Maerz, nicht mit Datum benannt, aber die Rechnung stimmt) stillhalten muss, statt selbst zu entscheiden, wann er einen Raum betritt** - er nennt es nicht Kraenkung, aber er muss sich zwingen, es nicht als eine zu hoeren.
+
+  **Mrs Seo, zweimal in diesem Buch: Kaffee ohne Nachfrage, wenn jemand nicht ins Bett gegangen ist.** *"It is easier to run a house for people who do not tell me things than for people who tell me half of them."* Keine neue Figur, aber die erste eigene Zeile seit langem.
+
+  **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt einen Namen tragen, den sie nie haben wollten:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
 ---
 
