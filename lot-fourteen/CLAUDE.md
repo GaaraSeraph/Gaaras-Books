@@ -29,6 +29,11 @@ python3 check.py chapters/chNN_vX_Y_en.md
 python3 build.py
 ```
 
+`zuschreibung.py` sucht **Zuschreibungsfehler**: eine Tat oder ein Satz, der
+der falschen Person zugeschrieben ist. Es **eicht sich zuerst selbst** an einem
+bekannten Fund und meldet gar nichts, wenn die Eichung durchfaellt. Der
+Kopfkommentar erklaert, wie man aus einem einzelnen Fund einen Streifzug macht.
+
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
 Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
