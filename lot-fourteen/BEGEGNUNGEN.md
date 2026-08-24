@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 675 | 73 (b1ch01-b2ch54) | 1 | 74 |
+| Annie | 676 | 73 (b1ch01-b2ch54) | 1 | 74 |
 | Park Sang-hoon | 273 | 41 (b1ch10-b2ch51) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
 | Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-675 Nennungen in 73 Kapiteln.
+676 Nennungen in 73 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -80,11 +80,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b1ch02:184 | Annie stepped out and started walking, heels on the stone, not waiting. She left the bag.. |
 | 1 | b1ch02:198 | Twenty metres up the path Annie had turned around. |
 | 1 | b1ch02:214 | Annie took it. |
-| 1 | b1ch02:266 | Annie was quiet for a moment. |
-| 1 | b1ch02:282 | Something moved behind Annie's face and was gone before it arrived. |
-| 1 | b1ch02:292 | Annie didn't move. |
-| 1 | b1ch02:300 | "Quid pro quo," Annie said, and turned the phrase over the way she had turned it in the .. |
-| 1 | b1ch02:326 | Annie opened the bag, took the remote out, and set it down on the stone next to the bowl. |
+| 1 | b1ch02:242 | Annie looked at his hands. |
+| 1 | b1ch02:268 | Annie was quiet for a moment. |
+| 1 | b1ch02:284 | Something moved behind Annie's face and was gone before it arrived. |
+| 1 | b1ch02:294 | Annie didn't move. |
+| 1 | b1ch02:302 | "Quid pro quo," Annie said, and turned the phrase over the way she had turned it in the .. |
+| 1 | b1ch02:328 | Annie opened the bag, took the remote out, and set it down on the stone next to the bowl. |
 | 1 | b1ch03:10 | Annie's footsteps went away down the hall and stopped, and a door closed somewhere he co.. |
 | 1 | b1ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
 | 1 | b1ch03:178 | The corridor on the first floor ran east to west and crossed another one that went back .. |
@@ -133,9 +134,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch07:132 | "He's very busy," said Annie. |
 | 22 | b1ch07:214 | He had spent four minutes in the car working out what to do if something did, and he had.. |
 | 22 | b1ch07:260 | His eyebrows went up half a millimetre. He glanced at Annie, who was looking at the far .. |
-| 22 | b1ch08:144 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
-| 22 | b1ch08:210 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
-| 22 | b1ch08:252 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
+| 22 | b1ch08:146 | Not at Annie, who was ten metres away and easier to look at. Not at the room. She was st.. |
+| 22 | b1ch08:212 | Georgij sat on Annie's left with his hands loose on the cloth and watched. |
+| 22 | b1ch08:254 | He did it at exactly the speed of the people around him, and he stopped at exactly the m.. |
 | 22 | b1ch09:284 | He had been given one rule in that car three weeks ago and it had two halves. Annie in p.. |
 | 22 | b1ch10:6 | He did not go and stand near Annie. |
 | 22 | b1ch10:8 | Hana had given him twenty minutes and an instruction, and the instruction was designed s.. |
@@ -289,25 +290,26 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch23:322 | "No," said Annie. "That is what I told myself in the four hours afterwards, and it is a .. |
 | 55 | b1ch23:338 | "I know," said Annie. "I was there for the other one." |
 | 55 | b1ch24:18 | Annie looked at the water through the rail. |
-| 55 | b1ch24:38 | Annie did not answer that. |
-| 55 | b1ch24:42 | Annie did not answer that either. |
-| 55 | b1ch24:66 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
-| 55 | b1ch24:88 | Annie did not look away from him. |
-| 55 | b1ch24:104 | Annie went still in a way he had seen twice before and had never yet been able to price. |
-| 55 | b1ch24:114 | Annie looked at the water for a while. |
-| 55 | b1ch24:126 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
-| 55 | b1ch24:138 | Annie turned her head. |
-| 55 | b1ch24:152 | Annie did not say anything for a moment. |
-| 55 | b1ch24:176 | Annie was quiet for a long time. |
-| 55 | b1ch24:186 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
-| 55 | b1ch24:228 | Annie did not say anything for a while. |
-| 55 | b1ch24:274 | "You are still wearing it," said Annie. |
-| 55 | b1ch24:296 | Annie looked out at the water where the other thing had gone. |
-| 55 | b1ch24:302 | "Good," said Annie. "Then neither of us has to be brave about it." |
-| 55 | b1ch24:308 | "You said beautiful," said Annie. |
-| 55 | b1ch24:324 | Annie looked out at the place where the other thing had gone in. |
-| 55 | b1ch24:338 | "The car is at the end," said Annie. |
-| 55 | b1ch24:350 | Annie looked out of her side of it. |
+| 55 | b1ch24:24 | Annie put her hands on the rail. |
+| 55 | b1ch24:40 | Annie did not answer that. |
+| 55 | b1ch24:44 | Annie did not answer that either. |
+| 55 | b1ch24:68 | Annie did not answer, and the traffic went on going over the joint, and after a while it.. |
+| 55 | b1ch24:90 | Annie did not look away from him. |
+| 55 | b1ch24:106 | Annie went still in a way he had seen twice before and had never yet been able to price. |
+| 55 | b1ch24:116 | Annie looked at the water for a while. |
+| 55 | b1ch24:128 | Annie was quiet long enough for a lorry to go over the joint above them and be gone. |
+| 55 | b1ch24:140 | Annie turned her head. |
+| 55 | b1ch24:154 | Annie did not say anything for a moment. |
+| 55 | b1ch24:178 | Annie was quiet for a long time. |
+| 55 | b1ch24:188 | "That is my name," said Annie. "It is on nothing. My mother used it and my brother used .. |
+| 55 | b1ch24:230 | Annie did not say anything for a while. |
+| 55 | b1ch24:276 | "You are still wearing it," said Annie. |
+| 55 | b1ch24:298 | Annie looked out at the water where the other thing had gone. |
+| 55 | b1ch24:304 | "Good," said Annie. "Then neither of us has to be brave about it." |
+| 55 | b1ch24:310 | "You said beautiful," said Annie. |
+| 55 | b1ch24:326 | Annie looked out at the place where the other thing had gone in. |
+| 55 | b1ch24:340 | "The car is at the end," said Annie. |
+| 55 | b1ch24:352 | Annie looked out of her side of it. |
 | 59 | b1ch25:34 | Georgij had been given the east room for it, which meant Annie was not going to be in it. |
 | 3 | b1ch26:8 | "Say it," said Annie. |
 | 3 | b1ch26:30 | Annie turned the page over so that it lay face down. |
@@ -510,7 +512,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch20:14 | "Come in and shut it," said Annie. |
 | 11 | b2ch20:52 | Annie did not say anything about any of it, which he had expected, because she does not .. |
 | 11 | b2ch20:82 | Annie sat back. |
-| 11 | b2ch20:96 | "How do you know," said Annie. |
 | 11 | b2ch20:110 | Annie thought about that for a moment and let it go, and it was not agreement. |
 | 11 | b2ch20:126 | "Say it properly," said Annie. |
 | 11 | b2ch20:134 | "No," said Annie. |
@@ -745,7 +746,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch02:78` (Tag 1) - hundred
 - `b1ch02:184` (Tag 1) - twenty
 - `b1ch02:198` (Tag 1) - twenty
-- `b1ch02:300` (Tag 1) - four
+- `b1ch02:302` (Tag 1) - four
 - `b1ch03:44` (Tag 1) - one, seven, two
 - `b1ch03:178` (Tag 1) - one
 - `b1ch03:184` (Tag 1) - four, one
@@ -761,7 +762,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch06:182` (Tag 22) - nine, seven
 - `b1ch07:18` (Tag 22) - three
 - `b1ch07:214` (Tag 22) - four, three
-- `b1ch08:144` (Tag 22) - one, ten, two
+- `b1ch08:146` (Tag 22) - one, ten, two
 - `b1ch09:284` (Tag 22) - eight hundred, eleven, one, three, twenty-two, two
 - `b1ch10:8` (Tag 22) - twenty
 - `b1ch10:142` (Tag 22) - eleven, three
@@ -798,7 +799,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch23:292` (Tag 55) - ten
 - `b1ch23:322` (Tag 55) - four, twenty
 - `b1ch23:338` (Tag 55) - one
-- `b1ch24:186` (Tag 55) - twenty-three
+- `b1ch24:188` (Tag 55) - twenty-three
 - `b1ch29:6` (Tag 74) - ninety
 - `b1ch29:12` (Tag 74) - twenty
 - `b1ch31:154` (Tag 74) - two
@@ -1590,9 +1591,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch07:130 | "You should come and see it," said Chairman Woo, to Annie, meaning Georgij. |
 | 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
 | 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 22 | b1ch08:154 | Chairman Woo found him at ten to nine, and he had four people with him. |
-| 22 | b1ch08:156 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
-| 22 | b1ch08:174 | "There you are," said Chairman Woo, thrilled. |
+| 22 | b1ch08:156 | Chairman Woo found him at ten to nine, and he had four people with him. |
+| 22 | b1ch08:158 | "This is the one I was telling you about," said Chairman Woo, which is a sentence that h.. |
+| 22 | b1ch08:176 | "There you are," said Chairman Woo, thrilled. |
 | 22 | b1ch09:48 | "You've been busy. Woo has told four people about you. Hong has told everybody, and Hong.. |
 | 22 | b1ch10:10 | He went and found Chairman Woo instead, and he did it in the open, across the middle of .. |
 | 22 | b1ch10:14 | "There he is," said Chairman Woo. |
@@ -1658,7 +1659,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
 | 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be through the door .. |
 | 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
-| 55 | b1ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
+| 55 | b1ch24:108 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
 | 59 | b1ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
 | 59 | b1ch25:66 | Georgij read all three pages before he said anything, and read them the way Woo had read.. |
 | 59 | b1ch25:240 | "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two.. |
@@ -1722,7 +1723,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch13:220 | "I do not have it and I did not ask for it, because he was not asking me for anything an.. |
 | 9 | b2ch13:234 | Woo told him, and it took about fifteen seconds, and there were five names in it. |
 | 4 | b2ch14:32 | "Chairman Woo Jae-sung is going to put seven years of coastal feeder work on this lane,".. |
-| 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check." He did not soften i.. |
+| 4 | b2ch14:100 | "It is the whole of the answer. There is nothing about me to check. Chairman Woo will co.. |
 | 4 | b2ch14:114 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
 | 4 | b2ch14:180 | That is what he promised her on the third of April. It was not a figure of speech, and W.. |
 | 4 | b2ch14:270 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
@@ -1739,8 +1740,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch07:124` (Tag 22) - four
 - `b1ch07:274` (Tag 22) - forty, one
 - `b1ch07:292` (Tag 22) - twelve
-- `b1ch08:154` (Tag 22) - four, nine, ten
-- `b1ch08:156` (Tag 22) - one
+- `b1ch08:156` (Tag 22) - four, nine, ten
+- `b1ch08:158` (Tag 22) - one
 - `b1ch09:48` (Tag 22) - four, nine
 - `b1ch11:38` (Tag 22) - four, six, two
 - `b1ch11:214` (Tag 22) - eleven, twenty-five
@@ -1769,7 +1770,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch21:220` (Tag 49) - eight, nine, one, seven
 - `b1ch21:418` (Tag 49) - six
 - `b1ch23:188` (Tag 55) - four
-- `b1ch24:106` (Tag 55) - one
+- `b1ch24:108` (Tag 55) - one
 - `b1ch25:58` (Tag 59) - one, three
 - `b1ch25:66` (Tag 59) - three
 - `b1ch25:240` (Tag 59) - two
@@ -2085,8 +2086,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 55 | b1ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
 | 55 | b1ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
 | 55 | b1ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | b1ch24:364 | Mrs Seo had the small room off the long one laid for two. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | b1ch24:366 | Mrs Seo had the small room off the long one laid for two. |
 | 59 | b1ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
 | 1 | b1ch28:230 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
 | 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
@@ -2145,8 +2146,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch21:12` (Tag 49) - six
 - `b1ch22:38` (Tag 55) - two
 - `b1ch22:280` (Tag 55) - eleven
-- `b1ch24:44` (Tag 55) - eight, one
-- `b1ch24:364` (Tag 55) - one, two
+- `b1ch24:46` (Tag 55) - eight, one
+- `b1ch24:366` (Tag 55) - one, two
 - `b1ch25:8` (Tag 59) - one, two
 - `b1ch28:230` (Tag 1) - one
 - `b1ch31:68` (Tag 74) - one, three
@@ -2770,7 +2771,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
 | 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
 | 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
 | 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
 | 2 | b2ch42:268 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
 | 2 | b2ch42:276 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
@@ -2805,7 +2806,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:44` (Tag 55) - eight, one
+- `b1ch24:46` (Tag 55) - eight, one
 - `b2ch01:18` (Tag 51) - four, six
 - `b2ch42:268` (Tag 2) - one
 - `b2ch42:276` (Tag 2) - nineteen
@@ -3012,8 +3013,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
 | 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
 | 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:346 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short .. |
+| 55 | b1ch24:348 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone. Use the one in the passage." A short .. |
 | - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
 | - | b1ch32:254 | Mr Ku had the car turned round already. |
 | 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
@@ -3429,15 +3430,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 22 | b1ch08:218 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
-| 22 | b1ch08:220 | Chef Bang was standing to the left of the lectern in his whites. |
-| 22 | b1ch08:228 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
-| 22 | b1ch08:248 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
+| 22 | b1ch08:220 | "Chef Bang Seung-min. Trained in Lyon and in Tokyo. Two restaurants, one of which none o.. |
+| 22 | b1ch08:222 | Chef Bang was standing to the left of the lectern in his whites. |
+| 22 | b1ch08:230 | The auctioneer worked it very well. He got it to sixty and then to sixty-two, and then h.. |
+| 22 | b1ch08:250 | Applause, and Chef Bang bowed to it, twice, once to the room and once to the table that .. |
 
 ### Zahlen in der Naehe von Chef Bang
 
-- `b1ch08:218` (Tag 22) - eight, one, two
-- `b1ch08:228` (Tag 22) - eight hundred, sixty, sixty-two
+- `b1ch08:220` (Tag 22) - eight, one, two
+- `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
 
 ---
 

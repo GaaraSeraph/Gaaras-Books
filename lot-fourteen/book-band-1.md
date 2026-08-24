@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.191 Woerter.
+Book One, 34 Kapitel, 101.201 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,19 +11,19 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.8 | 2.422 |
-| 02 | v11.10 | 3.167 |
+| 01 | v6.9 | 2.416 |
+| 02 | v11.11 | 3.172 |
 | 03 | v2.8 | 3.374 |
 | 04 | v1.9 | 2.443 |
 | 05 | v5.11 | 4.330 |
 | 06 | v1.7 | 2.066 |
 | 07 | v6.5 | 3.856 |
-| 08 | v3.6 | 2.681 |
+| 08 | v3.7 | 2.689 |
 | 09 | v3.4 | 3.118 |
 | 10 | v2.5 | 2.983 |
 | 11 | v2.10 | 2.730 |
 | 12 | v1.9 | 2.347 |
-| 13 | v2.6 | 2.834 |
+| 13 | v2.7 | 2.830 |
 | 14 | v7.8 | 2.605 |
 | 15 | v2.8 | 4.212 |
 | 16 | v1.16 | 3.278 |
@@ -34,10 +34,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 21 | v1.9 | 4.082 |
 | 22 | v1.3 | 2.584 |
 | 23 | v3.7 | 2.652 |
-| 24 | v1.5 | 2.653 |
+| 24 | v1.6 | 2.660 |
 | 25 | v1.5 | 2.549 |
 | 26 | v1.6 | 2.423 |
-| 27 | v3.4 | 3.101 |
+| 27 | v3.5 | 3.101 |
 | 28 | v1.5 | 2.676 |
 | 29 | v1.4 | 1.990 |
 | 30 | v1.9 | 3.524 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.8 · EN
+*Lot Fourteen* · Version 6.9 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -111,7 +111,7 @@ He said it gently. The room did not go quiet - rooms don't - but the middle lost
 
 "Merchandise doesn't talk."
 
-"Of course. I do apologise." Georgij inclined his head, and kept his voice warm and unhurried, and let it carry. "I only wondered whether the house had confirmed the gentleman's funds."
+"Of course. I do apologise." Georgij inclined his head and let the question carry. "I only wondered whether the house had confirmed the gentleman's funds."
 
 He didn't hurry it. He had eleven houses' worth of this and he laid it out the way you'd read a delivery note.
 
@@ -270,7 +270,7 @@ Annie didn't turn her head.
 ---
 
 # Book One · Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.10 · EN
+*Lot Fourteen* · Version 11.11 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -495,6 +495,8 @@ She looked past him to where the man was curled on the gravel.
 "It was eleven centimetres from your hand for most of that drive."
 
 "Twelve, before the last corner."
+
+Annie looked at his hands.
 
 "So why?"
 
@@ -1970,7 +1972,7 @@ He had five.
 ---
 
 # Book One · Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2066,7 +2068,9 @@ He understood that inside about fifteen seconds, from the way the shorter one wa
 
 "You were at the Paradise," the taller one said. "In March."
 
-"...Yes."
+The shorter one took his time over it.
+
+"Yes."
 
 "So was I."
 
@@ -3415,7 +3419,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 ---
 
 # Book One · Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.7 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3573,7 +3577,7 @@ Then he laughed, and it was not a warm laugh, and it was the first thing all eve
 
 "I told you on Saturday I wasn't going to tell you."
 
-"You did, and I didn't ask you again on Saturday, and I've thought about very little else since." Georgij said it without any pressure anywhere in it. "I'm asking you now because we are two men eating soup and not two men in a ballroom. And because you can tell me to stop and I will stop. We can talk about concrete for another hour and I will enjoy it."
+"You did, and I didn't ask you again on Saturday, and I've thought about very little else since." Georgij put his spoon down. "I'm asking you now because we are two men eating soup and not two men in a ballroom. And because you can tell me to stop and I will stop. We can talk about concrete for another hour and I will enjoy it."
 
 The old man sat back.
 
@@ -6628,7 +6632,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Book One · Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6647,6 +6651,8 @@ Annie looked at the water through the rail.
 "Then you did not leave."
 
 "No."
+
+Annie put her hands on the rail.
 
 "Because it is not finished."
 
@@ -7499,7 +7505,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7579,7 +7585,7 @@ Annie did not say anything for a while.
 
 She picked the pen up again, which meant it was decided, and did not say so, which meant something else.
 
-"Take Mr Ku on Thursday. Do not take my telephone; use the one in the passage." A short pause. "And Georgij."
+"Take Mr Ku on Thursday. Do not take my telephone. Use the one in the passage." A short pause. "And Georgij."
 
 "Mistress."
 
