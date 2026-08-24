@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 644 | 68 (b1ch01-b2ch46) | 1 | 74 |
+| Annie | 650 | 69 (b1ch01-b2ch47) | 1 | 74 |
 | Park Sang-hoon | 246 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 131 | 30 (b1ch05-b2ch45) | 2 | 60 |
-| Mrs Seo | 71 | 31 (b1ch03-b2ch46) | 1 | 74 |
+| Mrs Seo | 73 | 32 (b1ch03-b2ch47) | 1 | 74 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
@@ -36,12 +36,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 28 | 19 (b1ch05-b2ch36) | 3 | 60 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Yeom | 26 | 4 (b2ch24-b2ch41) | 5 | 46 |
+| Bae | 20 | 6 (b1ch03-b2ch47) | 1 | 34 |
+| Choi Dae-ho | 20 | 11 (b1ch07-b2ch47) | 5 | 61 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
-| Choi Dae-ho | 19 | 10 (b1ch07-b2ch43) | 5 | 61 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Bae | 16 | 5 (b1ch03-b2ch46) | 1 | 34 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Mr Baek | 9 | 6 (b1ch05-b2ch42) | 2 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-644 Nennungen in 68 Kapiteln.
+650 Nennungen in 69 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -706,6 +706,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch46:254 | Annie sat down at last. |
 | 5 | b2ch46:290 | "Then here is the one thing I want from today, and it is not about him." Annie put the p.. |
 | 5 | b2ch46:314 | Annie looked at him for a long moment. |
+| 10 | b2ch47:116 | Annie came in at half past ten and did not comment on the flowers for a full minute, whi.. |
+| 10 | b2ch47:128 | Annie went and stood over them and did not touch them either. |
+| 10 | b2ch47:156 | Annie looked at him for a while. |
+| 10 | b2ch47:176 | Annie sat down on the edge of the desk, on the side away from the flowers. |
+| 10 | b2ch47:208 | Annie let that sit. |
+| 10 | b2ch47:228 | Annie had them put in water in the small room, on the corner of the desk, where Georgij .. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -882,6 +888,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch45:10` (Tag 11) - four, one
 - `b2ch45:287` (Tag 11) - two
 - `b2ch46:290` (Tag 5) - one
+- `b2ch47:116` (Tag 10) - ten
+- `b2ch47:228` (Tag 10) - one
 
 ---
 
@@ -1947,7 +1955,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-71 Nennungen in 31 Kapiteln.
+73 Nennungen in 32 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2022,6 +2030,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
 | 5 | b2ch46:186 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
+| 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
+| 10 | b2ch47:28 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2064,6 +2074,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:272` (Tag 26) - nine
 - `b2ch37:286` (Tag 57) - nine, one
 - `b2ch45:215` (Tag 11) - nine
+- `b2ch47:6` (Tag 10) - nine, ten
+- `b2ch47:28` (Tag 10) - nineteen
 
 ---
 
@@ -2872,6 +2884,93 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Bae
+
+20 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
+| 1 | b1ch03:168 | Bae's jaw moved. |
+| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
+| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
+| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
+| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
+| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
+| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
+| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
+| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
+| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
+| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
+| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
+| 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
+| 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
+| 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |
+| 10 | b2ch47:258 | *Mrs Bae, 23 June. Telephoned a man.* |
+
+### Zahlen in der Naehe von Bae
+
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch05:128` (Tag 4) - one, three, two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b2ch41:66` (Tag 4) - one
+- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
+- `b2ch41:128` (Tag 5) - one
+- `b2ch41:212` (Tag 5) - five, one, six
+- `b2ch41:224` (Tag 5) - five, three, two
+- `b2ch47:94` (Tag 10) - twenty-two
+- `b2ch47:144` (Tag 10) - nine, three, twenty
+- `b2ch47:248` (Tag 10) - one, two
+
+---
+
+## Choi Dae-ho
+
+20 Nennungen in 11 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
+| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
+| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
+| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
+| 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
+| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:234 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:286 | "Say where that would be, for a man like Choi." |
+| 10 | b2ch47:188 | "He has not told Choi Dae-ho," he said slowly. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+- `b2ch33:50` (Tag 45) - four, one, two
+- `b2ch34:42` (Tag 46) - four, one, six, two
+- `b2ch36:12` (Tag 51) - four, one
+- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
+- `b2ch36:136` (Tag 51) - three
+- `b2ch39:136` (Tag 61) - one
+- `b2ch39:286` (Tag 61) - eleven, four, one
+- `b2ch43:18` (Tag 5) - one
+- `b2ch43:234` (Tag 5) - one, six
+
+---
+
 ## Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -2912,49 +3011,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch20:12` (Tag 49) - seven
 - `b1ch20:16` (Tag 49) - nine
-
----
-
-## Choi Dae-ho
-
-19 Nennungen in 10 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
-| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
-| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
-| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
-| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
-| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
-| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
-| 5 | b2ch43:234 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 5 | b2ch43:286 | "Say where that would be, for a man like Choi." |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
-- `b2ch33:50` (Tag 45) - four, one, two
-- `b2ch34:42` (Tag 46) - four, one, six, two
-- `b2ch36:12` (Tag 51) - four, one
-- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
-- `b2ch36:136` (Tag 51) - three
-- `b2ch39:136` (Tag 61) - one
-- `b2ch39:286` (Tag 61) - eleven, four, one
-- `b2ch43:18` (Tag 5) - one
-- `b2ch43:234` (Tag 5) - one, six
 
 ---
 
@@ -3069,42 +3125,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:166` (Tag 53) - eight, five, one, two
 - `b2ch02:172` (Tag 53) - four, one, three
 - `b2ch02:190` (Tag 53) - one
-
----
-
-## Bae
-
-16 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:158 | Bae thought about that. He was working out whether it was an answer, and he was taking t.. |
-| 1 | b1ch03:168 | Bae's jaw moved. |
-| 1 | b1ch03:174 | He turned and went back through the kitchen, and Bae stood in the door and watched him t.. |
-| 4 | b1ch05:128 | Bae had spent three days as one of two men on a gate that had been built for three, and .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 4 | b2ch41:66 | "He is not the sort of man who is on the door, if that is what you are asking. Somebody .. |
-| 5 | b2ch41:80 | Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has.. |
-| 5 | b2ch41:104 | Mrs Bae looked at him for a while. |
-| 5 | b2ch41:128 | Mrs Bae put one finger on the edge of the book and left it there. |
-| 5 | b2ch41:152 | "Sim," said Mrs Bae. |
-| 5 | b2ch41:168 | "You have gone very quiet," said Mrs Bae. |
-| 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
-| 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
-| 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
-| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
-
-### Zahlen in der Naehe von Bae
-
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch05:128` (Tag 4) - one, three, two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b2ch41:66` (Tag 4) - one
-- `b2ch41:80` (Tag 5) - eleven, twenty-two, two
-- `b2ch41:128` (Tag 5) - one
-- `b2ch41:212` (Tag 5) - five, one, six
-- `b2ch41:224` (Tag 5) - five, three, two
 
 ---
 
