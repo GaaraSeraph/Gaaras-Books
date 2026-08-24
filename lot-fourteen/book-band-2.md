@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 56 Kapitel, 137.499 Woerter.
+Book Two, 56 Kapitel, 137.476 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
 | 34 | v1.2 | 2.261 |
-| 35 | v2.1 | 3.317 |
+| 35 | v2.2 | 3.294 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
@@ -7165,7 +7165,7 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 ---
 
 # Book Two · Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7207,23 +7207,21 @@ He looked at the chair.
 
 He sat down on the floor with his back against the sofa, on her side of the room, and it took him longer than it should have, and she let it.
 
-The first time he sat on a floor in this house was the fourth of October, in a room downstairs, at a window, because standing would have been a claim and a chair would have been a bigger one. He worked it out inside a minute that night. He was very pleased with himself about it at the time.
+He sits on the floor beside her desk most days and has done since about the second week. It is where he sits. Nobody in the house has ever remarked on it, including him.
 
-He has not sat on a floor since, except at that desk in March with a page in his hand, and he did not choose that one either.
+"You did the arithmetic on the stairs," said Annie.
 
-"You are thinking about October," said Annie.
-
-"I am."
+"I did."
 
 "Say it, and then we will have said it and it will be over."
 
 He put one hand flat on the carpet.
 
-"In October I sat on a floor because it was the cheapest thing available and I had worked out the arithmetic before I sat down." He did not look up. "I have just done it again on the stairs, without meaning to, and I got as far as the third step before I noticed."
+"In my fourth week I worked out where in a room it is cheapest to be, and I have done it in every room in this house every day since, and I do it now without noticing." He did not look up. "I noticed tonight. I got as far as the third step."
 
 "And then what."
 
-"And then I came in anyway and sat down anyway, and I am telling you that I did the arithmetic, because you would know if I did not."
+"And then I came up anyway and knocked anyway, and I am telling you that I did it, because you would know if I did not."
 
 Annie did not say anything to that.
 
@@ -7257,7 +7255,7 @@ Nothing happened for about three seconds.
 
 "Say why."
 
-"Because I have been on a floor in this house twice and both times it was a calculation." He had one hand flat on the carpet and left it there. "And I would like to have been on one once when it was not."
+"Because I sit on a floor in this house every day and it is where I sit, and in ten months there has not been one hour in which anybody was down here with me." He had one hand flat on the carpet and left it there. "In March I sat at a window against your legs, and it was the best evening I have had since I was nine, and you were in a chair."
 
 He heard her put the book on the arm of the sofa.
 

@@ -4,6 +4,106 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 
 ---
 
+## Uebergabe an den naechsten Schreib-Chat
+
+*Geschrieben am 25.08. am Ende einer langen Sitzung, in der Band 2 von 46 auf 56
+Kapitel gegangen ist und Kapitel 35 bis 55 zum Teil neu geschrieben wurden. Wer
+hier neu anfaengt, liest `CLAUDE.md`, dann diesen Abschnitt, dann
+`doc/09-arbeitsteilung.md`, dann `doc/05-continuity.md`.*
+
+---
+
+### Was in dieser Sitzung diagnostiziert wurde, und es traegt alles Weitere
+
+**Der Autor hat gemeldet, dass er sich in Band 2 inkompetent und passiv liest.
+Nachgezaehlt, und er hatte recht.** Die Befunde, alle mechanisch belegt:
+
+- Kapitel 26 bis 45 waren **eine einzige Ermittlung**, 43.000 Woerter, und die
+  Person auf der vierten Zeile hatte danach keinen Namen.
+- Ab Kapitel 35 standen elf Kapitel lang **nur drei Menschen** im Buch.
+- Georgij **laechelt** in Band 2 kein einziges Mal (Band 1: 49 Treffer in 21 von
+  34 Kapiteln). Seine erste handfeste Faehigkeit, die **Maschine**, kam in 46
+  Kapiteln nicht vor (Band 1: in 14 Kapiteldateien).
+- Band 2 hatte **kein einziges Kapitel ueber 3300 Woertern**, Band 1 hatte acht.
+- **Die Ursache stand in `doc/07-next.md`:** das Ziel von Band 2 war defensiv
+  formuliert, und `doc/01-craft.md` 2i sagt seit Kapitel 11 woertlich, dass
+  defensive Ziele genau diesen Bogen erzeugen, jedes Mal.
+
+**Das Ziel ist ersetzt und steht jetzt vorne in `doc/07-next.md`:** Choi Dae-ho
+hat am Ende nichts, niemand geht an sein Telefon. Dazu die sechs Wege und die
+erzwungene Reihenfolge. **Wer ein Kapitel plant, stellt die Probe: bringt es Choi
+einen Anruf naeher an niemanden?**
+
+---
+
+### Die drei stehenden Proben, alle in `doc/02-leads.md`
+
+1. **Ein Fund wird ausgegeben, nicht gemeldet.** Drei Stufen: ohne Rueckfrage,
+   angekuendigt-nicht-erbeten, wirklich erbeten. Zweimal nacheinander nichts
+   getan, was er nicht vorher jemandem vorgelegt hat, ist ein Fehler.
+2. **Das Angebot ist die Folge, nie der Anfang.** Leute duerfen ihm etwas
+   anbieten - aber nur, wenn er sie in der Hand hat oder vorher etwas getan hat,
+   und der Leser muss den Zug gesehen haben. *Wer hat sich in diesem Kapitel
+   entschieden, er oder jemand anders?*
+3. **Die Rangordnung im Haus ist absolut.** Auf Augenhoehe mit Annie redet nur
+   Georgij. *Wuerde die Figur diesen Satz zu jemandem sagen, der sie bezahlt?*
+
+**Und die Kette:** alle zwanzig Kapitel eine wirklich romantische Szene,
+dazwischen kleine Dinge von ihr, die tatsaechlich vorkommen. Der Anlauf auf die
+Schlusszeile laeuft ueber **Erschoepfung**, nie ueber Ruhe.
+
+---
+
+### Wo der Band steht (Stand Kapitel 56, Tag 315, Freitag 14. August)
+
+**Der Feldzug laeuft.** Von Annies einunddreissig Namen ist **einer** angesprochen
+(Mr Ryu, Kapitel 37). Sang-hoon haelt Sims Arbeitsnamen und benutzt ihn nicht.
+Yeom liest vier Jahre Quartalsmappen. Baek Jun-ho weiss, was er unterschrieben
+hat.
+
+**Sim ist gedreht, aber nicht umgedreht** (Kapitel 52). Er hat Choi nicht
+gemeldet, dass er gefunden wurde, und liest zu Hause elf Jahre Briefe. Er hat
+Choi ausdruecklich **nicht** hergegeben.
+
+**Das Haus sitzt in seiner eigenen Klausel** (Kapitel 54/55). Seit dem 10. August
+steht unter ihrer Losnummer ein Auskunftsblatt in der Dauerreihe, aus der nichts
+herauskommt.
+
+**Und sie hat einen Namen: Ahn Jung-hee**, fuenfunddreissig, Kapitel 56. Ihr
+Bruder hat die Konsignation unterschrieben, weil wer hineingeht nicht
+unterschreiben darf, und sie hat ihm das erst im Korridor gesagt.
+
+**Offen und faellig:** die uebrigen dreissig vom Tisch (als Wirkung schreiben,
+nicht als Aufzaehlung), Mrs Sunwoo, Chairman Woo und die drei ungetilgten
+Stunden, Nam Byung-hee, das Haus beenden, das Geld (Baek, der Trust - **erst
+wenn Annie sie auffangen kann**), das Zimmer, wie Choi es erfaehrt, das
+Endgespraech, die Schlusszeile. **Etwa zwoelf Kapitel, Landung bei ungefaehr 67.**
+
+**Der Autor am 25.08.: es muss wirklich gut sein, aber nichts wird gestreckt, um
+laenger zu sein.** Was sich nicht auf einen eigenen Zug reduzieren laesst, wird
+zusammengelegt.
+
+---
+
+### Zwei Arbeitsregeln, die diese Sitzung teuer gelernt hat
+
+**Kapitel duerfen umgeschrieben werden, und zwar rueckwaerts.** `doc/01-craft.md`
+sagt es jetzt ausbuchstabiert: *Fehler bleiben Fehler* ist eine **Figurenregel**
+und keine Redaktionsregel. Ein geschriebenes Kapitel ist kein Ereignis, das gegen
+den Autor gilt. In dieser Sitzung sind so 35, 36, 37, 38, 39, 40, 41, 42, 43, 44
+und 50 nachtraeglich repariert worden.
+
+**Und der Fehler, der in dieser Sitzung dreimal passiert ist: eine Zeile
+behaupten, ohne sie zu pruefen.** Zuletzt in Kapitel 35 - *"I have been on a
+floor in this house twice and both times it was a calculation"*, waehrend im Text
+dreimal steht *"the floor at the side of the desk, which is where he sits"*. Und
+davor: die acht Jahre, die Sang-hoons Dienstzeit sind und nicht Chois Laufbahn;
+die vierzig Tausend Won beim Kartenspiel, die Sang-hoon verloren hat und nicht
+Yeom; eine Notizbuchseite, die Leute auffuehrte, die Georgij noch nicht kannte.
+**Jede Zeile, die auf eine fruehere Szene zeigt, wird vorher gegriffen.**
+
+---
+
 ## Der Zielpunkt von Band 2
 
 *Festgelegt vom Autor am 25.08. Alles, was ab hier geschrieben wird, laeuft
