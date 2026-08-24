@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 112.320 Woerter.
+Book Two, 45 Kapitel, 110.694 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -54,9 +54,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 41 | v2.0 | 3.904 |
 | 42 | v2.0 | 3.360 |
 | 43 | v2.0 | 2.816 |
-| 44 | v1.2 | 2.006 |
-| 45 | v1.0 | 2.163 |
-| 46 | v2.0 | 2.149 |
+| 44 | v2.0 | 2.516 |
+| 45 | v1.1 | 2.176 |
 
 ---
 
@@ -9183,8 +9182,8 @@ He did not take that as a reason to stop. He took it as a description of the wor
 
 ---
 
-# Book Two · Chapter 44: A van that comes every ten days
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 44: Somebody in Seoul pays for it
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
 
@@ -9212,112 +9211,136 @@ He sat with that for a while before he wrote anything down, because a single fil
 
 *Fire safety filing, medical oxygen, July four years ago. Never renewed as new. Never cancelled either. One event, not an ongoing arrangement that simply started somewhere further back and was only now on record.*
 
-He telephoned Jang before he wrote anything more permanent than that.
+A filing of that kind has to say who put the equipment in, because the authority wants a name to telephone when something goes wrong at three in the morning. There is a company on the line under the address, three characters, the first of them the word for oxygen.
 
-"You have been watching that building since June," said Georgij. "Has anything ever been delivered to it that was not food."
+Georgij read it twice and then sat back from the desk, because the useful part of the morning had just ended and he could feel it end.
 
-"Say what you mean by that."
+An address that stores oxygen is a fact about a building. A company that delivers it is a fact about a trade. Neither of them is a fact about a person, and the person is the entire thing.
 
-"Medical equipment. A van that is not a grocer's van."
+He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it.
 
-Jang did not answer straight away, which was a thing Jang did when he was checking his own memory against itself before handing it over.
+Industrial gas is licensed and the licences are published by province, because a firm that puts pressurised cylinders in private houses is a firm the fire authority wants to be able to name. The company on the filing is one of six in that province, and the only one of the six with medical certification. Its own advertising says so on the front page, because certification is a thing a firm boasts about rather than hides.
 
-"There is a van," he said. "Grey, a gas company's name on the side, not one I had reason to notice until you asked. It comes about every ten days. It has come every time I have been watching, which is thirty-one days now."
+That took forty minutes and it produced nothing he had not already had at ten past nine.
 
-"Say the company's name."
+Because a company has customers, and a customer has an account, and an account has a person on it who is billed and a person who telephones. Neither of those is public anywhere in the world. There is no register of who buys oxygen. There is no annual list, no provincial filing, no ministry that publishes it once a year so that anybody can check.
 
-"I did not write it down, because you did not tell me it mattered. I can tell you it was three characters and started with the word for oxygen, and I can go and stand there again in ten days and read it properly if you need more than that."
+Everything worth having was on the other side of a company that had no reason to tell him anything, and there was no paper road there at all.
 
-"Ten days is enough. Do not go closer for it before then."
-
-"Does it come to the neighbouring houses as well."
-
-"No. I checked that the second week, because a van on a fixed schedule is the kind of thing worth checking once and then leaving alone. The house on either side gets ordinary deliveries. That van goes only to the one address."
-
-Georgij wrote it down exactly as Jang had given it, the van first and the schedule second, because a fact reported in the order it was noticed is worth more than one reordered afterward to sound like a discovery.
-
-"Thirty-one days is not four years," he said.
-
-"No, it is not. I can tell you the van has been coming for thirty-one days. I cannot tell you it has been coming for four years, because I was not standing there four years ago, and neither was anybody I would trust to remember it accurately if they had been."
-
-"I know. I am not asking you to say more than you have seen."
-
-"Good. That is the only reason I am telling you any of it." Jang paused. "Is this the sort of thing that changes what I am doing up there."
-
-"No. Keep doing exactly what you have been doing. I would rather have three more weeks of the same van at the same interval than one week of you going closer to look at the label."
-
-Jang said nothing to that for a moment, and Georgij understood the silence was agreement rather than argument.
-
-"There is one more thing," Jang said, before Georgij could end the call. "The van does not come at the same hour twice. Morning once, afternoon twice, once close to evening. If it were a normal delivery round, it would keep to a route and a time. This one does not, and I have wondered since the second week whether that is because somebody rings ahead only when a tank is close to empty, rather than on a fixed schedule at all."
-
-"Say why that matters to you."
-
-"Because a fixed round tells you nothing about the person receiving it. A round that only comes when called for tells you somebody inside that house is watching the level in a tank closely enough to know when to make the call." Jang let that sit for a moment. "That is not staff covering a schedule. That is somebody paying close attention to one specific need, every single day."
-
-"Understood," said Georgij, and Jang rang off.
-
-Georgij sat with two facts that had never been meant to sit next to each other. A fire safety filing that began in a specific July, four years ago, and a gas van that a man watching from outside had noticed without being told what to look for. Neither one, alone, proved anything. Together they agreed, and an agreement between two documents that did not know the other existed was the only kind of proof this year had ever given him.
+*I have an address that keeps a tank, a month four years ago, and the name of the firm that fills it. What I do not have is the one thing Sang-hoon actually asked me for, and there is no version of the next four weeks in which I get it from a desk by being patient.*
 
 * * *
 
-He brought it to Annie that evening, in the small room, before either of them had eaten.
+He went up to her at seven, before either of them had eaten, and said it in one sentence because dressing it would have been asking.
 
-"The filing and the van agree with each other," he said. "Something changed at that address four years ago that needed equipment. Equipment that is still being delivered now."
+"I am going to open the gas company's system tonight."
 
-"Say what you think that proves."
+Annie was at the desk with the ledger open and did not close it.
 
-"That the third reading I gave Sang-hoon at the restaurant was closer than the first two. One person, kept eleven years, whose condition changed for the worse four years in." He kept his hands flat on the desk. "Not two women. One, and a decline."
+"Say what that gets you."
 
-Annie did not answer at once, and when she did, it was not agreement.
+"Who holds the account. Who signs the notes at the door. Every call-off for four years with a date on it." He stood where he was. "None of that exists on paper anywhere I can reach, and I have been treating a thing I cannot reach as a thing I do not need."
 
-"It proves that a piece of medical equipment arrived four years ago and has stayed," she said. "It does not prove who it arrived for. You have built a true thing out of two facts before, and you have also built a wrong one, and the difference between them was never how confident you felt while you were doing it."
+"And you have not done it once since March."
 
-"I know."
+"I have not done it once since October." He kept his hands at his sides. "It is the fastest thing I have and it is the only one that writes my name down while I use it. Everything else this year I have done by hand, on purpose, because the man we are looking at reads handwriting and paper does not have one."
 
-"Say it back to me, so I know you actually do."
+Annie put the pen down across the ledger.
 
-"Equipment does not have a name on it," said Georgij. "A person could have been replaced the same month the equipment arrived, and the equipment would look exactly the same either way. I have proof that something happened. I do not have proof of who it happened to."
+"Then say what has changed tonight, and do not tell me it is the filing, because you have had things like the filing all year and none of them has ever made you break a rule you set yourself."
 
-"That is the correct amount of certainty to have tonight." Annie sat down across from him. "It is also more than you had on Friday, and I am not going to pretend that is nothing."
+Georgij took longer over that than he wanted to.
 
-"Jang thinks the van comes only when it is called for, not on a route," said Georgij. "If that is true, it means somebody in that house is watching the level in a tank closely enough to know the exact day to ring. That is not a facility rostering a delivery. That is one person paying attention to one other person, every day, for four years."
+"The dates," he said. "A supplier keeps every delivery it has ever made, because that is how it invoices. Four years of dates against one address is a chart of how she is doing, drawn by a firm that has no idea it drew it. It exists, and it has existed the whole time I have been reading reservation books."
 
-"That is the part I believe without needing a second document," said Annie. "A rostered facility does not watch a tank that closely. A person who is afraid of running out does. Whoever is inside that house with her did not stop caring the day the equipment arrived. They have kept caring every single day since, and that is not something a trust pays a solicitor to do on its behalf."
+"And it is not going to get better while you are careful."
 
-"Then somebody lives there with her."
+"No."
 
-"Or visits often enough that the difference does not matter to a tank." Annie looked at him for a moment. "I would like that to be the next thing you find out, and I would like you to find it from a gas company's records rather than by standing outside a gate to see who opens the door."
+Annie was quiet for a moment, and when she spoke it was not about the machine.
 
-"That is what I intend to do."
+"You have not counted the price, and I am going to count it for you, because you cannot." She turned in the chair to face him properly. "If somebody opens that firm's records tonight and somebody clever looks at it in October, the question they ask is whose it was. You are not on anything. No account, no company, no lease, no telephone in your name anywhere in this country. There is nothing at the end of that line except this house."
 
-"I know it is. I am saying it anyway, because you have a way of hearing your own good intentions and treating them as though they were already finished work." She said it without any edge to it, the way a person states a fact they have already forgiven once.
+He had not thought of it, and he did not pretend otherwise.
 
-"I looked at K again as well, before I came up," he said. "A club membership list is a kind of registry too. If Choi belongs to a golf club, the club will have a roster, and a roster is a document like any other."
+"You are right," said Georgij.
 
-"And."
+"I know I am right. Say it back so that we are both certain what you are asking me for."
 
-"Three clubs near enough to be plausible. None of them will give a membership list to somebody who is not a member, and I am not going to become one to read four names off a page." He said it without frustration, as a fact rather than a complaint. "K is going to need a different kind of document, and I have not found it yet."
+"Every other thing I have done this year, I have paid for myself, and I have said so each time, and it has been true each time." He put one hand flat on the corner of the desk. "This is the first one I cannot pay for. If it goes wrong it goes wrong to you, and there is no version of it where it does not, because I do not exist in a form that anybody could send a bill to."
 
-"Then K waits, and tonight you have S, H, and a gap you can explain instead of only describe." Annie stood. "That is not a small week."
+"I am telling you because the bill for it arrives at your door and not mine," said Georgij. "I am not asking you whether I may. I am telling you at seven instead of at midnight, so that you have the whole evening to stop me, and if you do not stop me I am going to do it tonight."
 
-He wrote the last of it down after she had gone up, because the room was quieter without her in it and the sentence came out truer for the quiet.
+Annie looked at him for what felt like a long time and was probably three seconds.
 
-*Two documents that never knew about each other agree on a date. They do not agree on a name, and I am not going to write one down until something else agrees with them too.*
+"Say what you would have done if I had been in Busan today."
 
-*Eleven years for the building. Four years for the equipment. The gap between them is the only fact I actually have.*
+"The same thing, and told you tomorrow morning."
 
-*Somebody watches a tank closely enough to call before it runs dry. Find that somebody through the gas company, not through the gate.*
+"Good." She picked the pen up again and did not use it. "That is the first thing you have brought me in a month without a may I in front of it. Write down every place you go into and leave the list in this house. I am not stopping you and I am not giving you permission either, because you have spent this whole quarter standing in my library waiting to be sent."
+
+"That is fair."
+
+"It is not fair. It is accurate." She turned the pen over once. "You have been slow all year on purpose and you were right to be. Being right about that does not entitle you to be slow after it has stopped working, and it stopped working in June, and neither of us said so."
+
+* * *
+
+It took him until three in the morning, and most of that was reading rather than getting in.
+
+Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system, along with about two hundred other small suppliers, from a company in Bundang that sells scheduling software to anybody with vans. The company in Bundang publishes an installation manual on its own website so that its customers can set the software up themselves. On page seven of that manual is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
+
+Georgij read the manual first, in full, which took twenty minutes and was the only part of the night he enjoyed.
+
+Then he wrote in the notebook, before he touched anything, because a list made afterward is a list made by a man who already knows how it went.
+
+*Bundang, scheduling software. Support account from the installation manual. If it has been changed, I stop and tell her it did not work.*
+
+It had not been changed. Nobody with six vans changes it. The instruction sits on page seven of a manual that exists so that a man who does not read manuals can get his vans running on a Tuesday.
+
+The account for the address was not held by a trust and not by a solicitor in Yeouido.
+
+It was held by a woman, and she had a name, and the name was not in any of the four hundred and thirty he had worked through this year.
+
+He wrote it down and looked at it and did not feel the thing he had been waiting all year to feel.
+
+Because underneath it was the billing address, and the billing address was not in Gangwon-do at all. Somebody in Seoul has been paying for the oxygen in that house for four years, in a district Georgij could walk to, and the post for it goes through a door that a person opens.
+
+Then the orders, which is what he had come for.
+
+Four years of them, in a list, with a date against each one and nothing else. The system exists to tell a driver where to be. It has no interest at all in the person at the other end.
+
+He copied them out by hand in date order and did not tidy them, and then he counted the gaps between them, and that was when the night stopped being work.
+
+The first year they are thirty and thirty-two and twenty-nine days apart. The second year, twenty-four and twenty-two and twenty-five. The third year, mostly sixteens and seventeens. This year they are twelve, and twelve, and ten, and the last two are nine.
+
+There is one gap in the whole four years that does not belong to the curve. Fifty-one days, in the second autumn, in the middle of a stretch where everything either side of it is twenty-four. Either nobody was in that house for fifty-one days, or nobody in it needed anything for fifty-one days, and he could not think of a third thing while he was sitting there looking at it.
+
+He sat back from the desk and did the one piece of the night that was a decision rather than a skill.
+
+The system had recorded him. It records everybody, and it had written down the account he used and the hour he used it, and he could take that line out in under a minute, and he was not going to.
+
+A removed line is the loudest thing in a log. Anybody who ever looks will find a place where a record ought to be and is not. That alone tells him somebody who understood the system had been inside it and had cared enough to tidy after himself. A line that is simply there reads as what it is nine times out of ten. The installer's own support account, at an hour when a firm with six vans has nobody awake, is a supplier in Bundang running a maintenance job.
+
+He wrote both options down with the reason under each, and the second one at the bottom, so that when Annie read the list in the morning she would see that he had known about the first.
+
+Then he wrote the last of it, and it took him two attempts, because the first one was about the machine.
+
+*Thirty days, then twenty-four, then sixteen, then nine.*
+
+*Every one of those is a day somebody stood in a hall and decided a tank was low enough to telephone about. Got it right every time for four years, and more often each year.*
+
+*Nobody has come for her in four years. Somebody has counted for her every single day of them.*
 
 ---
 
 # Book Two · Chapter 45: The line above it
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
 
 He had given K two days and had nothing to show for either of them.
 
-Annie had pointed him at the places that keep no book, and he had taken the direction seriously enough to spend Tuesday and Wednesday inside it. A bathhouse with private rooms keeps a till roll and a laundry count, which he established in one telephone call to a linen supplier who had no reason to lie about towels. A golf course keeps tee times and a roster, and he had already refused the only way in to the second of those. A boat keeps nothing at all until it leaves a harbour, and then the harbour keeps a record of the boat and not of the men on it.
+Annie had pointed him at the places that keep no book, and he had taken the direction seriously enough to spend Tuesday and Wednesday inside it. A bathhouse with private rooms keeps a till roll and a laundry count, which he established in one telephone call to a linen supplier who had no reason to lie about towels. A golf course keeps tee times and a roster, and the only way to read the roster is to join the club, which he was not going to do for four names on a page. A boat keeps nothing at all until it leaves a harbour, and then the harbour keeps a record of the boat and not of the men on it.
 
 The boat had held him most of Wednesday, because it was the first of the three that opened at all. Then he saw the shape of it properly. To read a departure record he had to know the boat, and to know the boat he had to know the man, and the man was what he was looking for.
 
@@ -9329,7 +9352,7 @@ There was nothing else on the desk, so he read his own four lines again, and thi
 
 Four entries, one under another, in one hand, one pen, one sitting. He had taken them off pages that were months and years apart and set them down as a list. The list was tidy, and it was his, and it was the only version of Sang-hoon's calendar he had looked at since the first week of June.
 
-Three days ago he had written down Jang's van and Jang's schedule in the order Jang had given them to him. He had put the reason beside them, which was that the order a thing is noticed in is worth more than a tidy one imposed afterward. He had written that about another man's work and had not once turned it round.
+Two weeks ago he had written down Jang's rota and Jang's grocery numbers in the order Jang had given them to him. He had put the reason beside them, which was that the order a thing is noticed in is worth more than a tidy one imposed afterward. He had written that about another man's work and had not once turned it round.
 
 He sat still for a while with his hands flat on either side of the page.
 
@@ -9464,146 +9487,3 @@ He finished the line. Annie came off the edge of the desk and sat down on the fl
 "He should hear it from a person and not a telephone," said Georgij. "I will ask him for an hour this week, Mistress."
 
 "Then it keeps until he gives you one." She reached up without looking and put two fingers on his wrist and took them away again. "Give the man in the grey suit his book and send him home. He has been sitting in my hall for five hours with his hat on his knees, and somebody in this house ought to notice."
-
----
-
-# Book Two · Chapter 46: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.0 · EN
-
-## Day Two Hundred and Eighty · Friday 10 July
-
-The company took him an hour, and the hour was the part that told him he had been wrong about the week.
-
-Jang had given him three things without being asked for any of them. Three characters. The first of them the word for oxygen. One district, one address, no other house on that road.
-
-Industrial gas is a licensed trade and the licences are listed by province, because a company that puts pressurised cylinders in private houses is a company the fire authority wants to be able to name. Six firms in the province. Four of them are out on the name alone, because Jang counted three characters and theirs run to two or to four. Of the remaining two, one supplies welding shops and has no medical certification at all, which its own advertising says on the front page, because medical certification is a thing a firm boasts about rather than hides.
-
-That left one, and he had it before ten.
-
-He sat and looked at the name for a while and did not feel any of the things he had expected to feel.
-
-Jang was going to stand on that road on the sixteenth. He was going to wait for a van in a lay-by a kilometre short of an unmarked gate and read a label off the side of it. Georgij had told him to do exactly that four days ago and had thought it a careful instruction at the time.
-
-It was careful. It was also a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time.
-
-He telephoned Jang before he had decided anything else.
-
-"Do not go up on the sixteenth," said Georgij.
-
-"Say whether that is because you have it or because something has changed up there."
-
-"Because I have it. The company is licensed and the licence is public and it took an hour, and I should have looked there before I asked a man to wait in a lay-by for ten days."
-
-Jang made a short sound that was not quite agreement.
-
-"I have waited in worse places for less," he said. "But I will take it. Do you want me off the road entirely."
-
-"No. Stay exactly where you have been. I would rather you were watching the house than reading a lorry."
-
-He put the telephone down and sat with what was actually in front of him, which was not the name of a company.
-
-A company has customers, and customers have accounts, and an account has a person on it who is billed and a person who telephones. Neither of those is public anywhere in the world. There is no register of who buys oxygen. There is no annual list, no provincial filing, no ministry that publishes it once a year so that anybody can check.
-
-He had got as far as a company. Everything worth having was on the other side of it, and there was no paper road there at all.
-
-* * *
-
-He went up to her at seven, before either of them had eaten, and said it in one sentence because dressing it would have been asking.
-
-"I am going to open the gas company's system tonight."
-
-Annie was at the desk with the ledger open and did not close it.
-
-"Say what that gets you."
-
-"Who holds the account. Who signs the notes at the door. Every call-off for four years with a date on it." He stood where he was. "None of that exists on paper anywhere I can reach, and I have been treating a thing I cannot reach as a thing I do not need."
-
-"And you have not done it once since March."
-
-"I have not done it once since October." He kept his hands at his sides. "It is the fastest thing I have and it is the only one that writes my name down while I use it. Everything else this year I have done by hand, on purpose, because the man we are looking at reads handwriting and paper does not have one."
-
-Annie put the pen down across the ledger.
-
-"Then say what has changed tonight, and do not tell me it is Jang, because you would have found another way to keep him off that road."
-
-Georgij took longer over that than he wanted to.
-
-"The intervals," he said. "Jang says the van comes when it is called for, on nobody's route. Every call is a day somebody decided a tank was low. Four years of those, in order, is a chart of how she is doing. It exists, and it has existed the whole time I have been reading reservation books."
-
-"And it is not going to get better while you are careful."
-
-"No."
-
-Annie was quiet for a moment, and when she spoke it was not about the machine.
-
-"You have not counted the price, and I am going to count it for you, because you cannot." She turned in the chair to face him properly. "If somebody opens that firm's records tonight and somebody clever looks at it in October, the question they ask is whose it was. You are not on anything. No account, no company, no lease, no telephone in your name anywhere in this country. There is nothing at the end of that line except this house."
-
-He had not thought of it, and he did not pretend otherwise.
-
-"You are right," said Georgij.
-
-"I know I am right. Say it back so that we are both certain what you are asking me for."
-
-"Every other thing I have done this year, I have paid for myself, and I have said so each time, and it has been true each time." He put one hand flat on the corner of the desk. "This is the first one I cannot pay for. If it goes wrong it goes wrong to you, and there is no version of it where it does not, because I do not exist in a form that anybody could send a bill to."
-
-"I am telling you because the bill for it arrives at your door and not mine," said Georgij. "I am not asking you whether I may. I am telling you at seven instead of at midnight, so that you have the whole evening to stop me, and if you do not stop me I am going to do it tonight."
-
-Annie looked at him for what felt like a long time and was probably three seconds.
-
-"Say what you would have done if I had been in Busan today."
-
-"The same thing, and told you tomorrow morning."
-
-"Good." She picked the pen up again and did not use it. "That is the first thing you have brought me in a month without a may I in front of it. Write down every place you go into and leave the list in this house. I am not stopping you and I am not giving you permission either, because you have spent this whole quarter standing in my library waiting to be sent."
-
-"That is fair."
-
-"It is not fair. It is accurate." She turned the pen over once. "You have been slow all year on purpose and you were right to be. Being right about that does not entitle you to be slow after it has stopped working, and it stopped working in June, and neither of us said so."
-
-* * *
-
-It took him until three in the morning, and most of that was reading rather than getting in.
-
-Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system, along with about two hundred other small suppliers, from a company in Bundang that sells scheduling software to anybody with vans. The company in Bundang publishes an installation manual on its own website so that its customers can set the software up themselves. On page seven of that manual is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
-
-Georgij read the manual first, in full, which took twenty minutes and was the only part of the night he enjoyed.
-
-Then he wrote in the notebook, before he touched anything, because a list made afterward is a list made by a man who already knows how it went.
-
-*Bundang, scheduling software. Support account from the installation manual. If it has been changed, I stop and tell her it did not work.*
-
-It had not been changed. Nobody with six vans changes it. The instruction sits on page seven of a manual that exists so that a man who does not read manuals can get his vans running on a Tuesday.
-
-The account for the address was not held by a trust and not by a solicitor in Yeouido.
-
-It was held by a woman, and she had a name, and the name was not in any of the four hundred and thirty he had worked through this year.
-
-He wrote it down and looked at it and did not feel the thing he had been waiting all year to feel.
-
-Because underneath it was the billing address, and the billing address was not in Gangwon-do at all. Somebody in Seoul has been paying for the oxygen in that house for four years, in a district Georgij could walk to, and the post for it goes through a door that a person opens.
-
-Then the orders, which is what he had come for.
-
-Four years of them, in a list, with a date against each one and nothing else. The system exists to tell a driver where to be. It has no interest at all in the person at the other end.
-
-He copied them out by hand in date order and did not tidy them, and then he counted the gaps between them, and that was when the night stopped being work.
-
-The first year they are thirty and thirty-two and twenty-nine days apart. The second year, twenty-four and twenty-two and twenty-five. The third year, mostly sixteens and seventeens. This year they are twelve, and twelve, and ten, and the last two are nine.
-
-There is one gap in the whole four years that does not belong to the curve. Fifty-one days, in the second autumn, in the middle of a stretch where everything either side of it is twenty-four. Either nobody was in that house for fifty-one days, or nobody in it needed anything for fifty-one days, and he could not think of a third thing while he was sitting there looking at it.
-
-He sat back from the desk and did the one piece of the night that was a decision rather than a skill.
-
-The system had recorded him. It records everybody, and it had written down the account he used and the hour he used it, and he could take that line out in under a minute, and he was not going to.
-
-A removed line is the loudest thing in a log. Anybody who ever looks will find a place where a record ought to be and is not. That alone tells him somebody who understood the system had been inside it and had cared enough to tidy after himself. A line that is simply there reads as what it is nine times out of ten. The installer's own support account, at an hour when a firm with six vans has nobody awake, is a supplier in Bundang running a maintenance job.
-
-He wrote both options down with the reason under each, and the second one at the bottom, so that when Annie read the list in the morning she would see that he had known about the first.
-
-Then he wrote the last of it, and it took him two attempts, because the first one was about the machine.
-
-*Thirty days, then twenty-four, then sixteen, then nine.*
-
-*Every one of those is a day somebody stood in a hall and decided a tank was low enough to telephone about. Got it right every time for four years, and more often each year.*
-
-*Nobody has come for her in four years. Somebody has counted for her every single day of them.*

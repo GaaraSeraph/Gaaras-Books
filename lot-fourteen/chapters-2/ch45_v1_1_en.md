@@ -1,5 +1,5 @@
 # Chapter 45: The line above it
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
 
@@ -7,7 +7,7 @@ He had given K two days and had nothing to show for either of them.
 
 ---
 
-Annie had pointed him at the places that keep no book, and he had taken the direction seriously enough to spend Tuesday and Wednesday inside it. A bathhouse with private rooms keeps a till roll and a laundry count, which he established in one telephone call to a linen supplier who had no reason to lie about towels. A golf course keeps tee times and a roster, and he had already refused the only way in to the second of those. A boat keeps nothing at all until it leaves a harbour, and then the harbour keeps a record of the boat and not of the men on it.
+Annie had pointed him at the places that keep no book, and he had taken the direction seriously enough to spend Tuesday and Wednesday inside it. A bathhouse with private rooms keeps a till roll and a laundry count, which he established in one telephone call to a linen supplier who had no reason to lie about towels. A golf course keeps tee times and a roster, and the only way to read the roster is to join the club, which he was not going to do for four names on a page. A boat keeps nothing at all until it leaves a harbour, and then the harbour keeps a record of the boat and not of the men on it.
 
 ---
 
@@ -31,7 +31,7 @@ Four entries, one under another, in one hand, one pen, one sitting. He had taken
 
 ---
 
-Three days ago he had written down Jang's van and Jang's schedule in the order Jang had given them to him. He had put the reason beside them, which was that the order a thing is noticed in is worth more than a tidy one imposed afterward. He had written that about another man's work and had not once turned it round.
+Two weeks ago he had written down Jang's rota and Jang's grocery numbers in the order Jang had given them to him. He had put the reason beside them, which was that the order a thing is noticed in is worth more than a tidy one imposed afterward. He had written that about another man's work and had not once turned it round.
 
 ---
 

@@ -256,7 +256,15 @@ weiss, was es wert ist.
 ### Das Endgespraech
 
 **Der Entwurf des Autors liegt in der Datei "Choi Gespraech" im Projektordner und
-ist verbindlich.** Was daran im Buch anders lauten muss:
+ist verbindlich.**
+
+**Stand 25.08.: Band 2 hat 45 Kapitel.** Das alte Kapitel 46 (die Maschine) ist
+in Kapitel 44 aufgegangen, weil 44 und 46 zweimal dieselbe Form hatten -
+Schreibtisch, Jang am Telefon, Bericht an Annie. Die Nacht mit der Gasfirma
+liegt jetzt am 6. Juli und nicht am 10. Juli, und Jangs Lieferwagen ist
+entfallen: die Brandschutzmeldung nennt die Firma selbst, und die
+unregelmaessigen Abstaende faellt Georgij in den Daten auf, statt sie vorher von
+Jang zu hoeren. Was daran im Buch anders lauten muss:
 
 - **Die acht Jahre fallen weg.** Sie sind **Sang-hoons** Dienstzeit an dem Tisch
   (Kapitel 26: *"since I was fifty-one"*, er ist neunundfuenfzig), nicht Chois
