@@ -18,10 +18,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 634 | 68 (b1ch01-b2ch46) | 1 | 74 |
+| Annie | 635 | 68 (b1ch01-b2ch46) | 1 | 74 |
 | Park Sang-hoon | 233 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
+| Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 135 | 30 (b1ch05-b2ch46) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 70 | 30 (b1ch03-b2ch45) | 1 | 74 |
@@ -39,7 +39,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Choi Dae-ho | 19 | 11 (b1ch07-b2ch44) | 5 | 61 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
-| Mrs Ryu | 18 | 2 (b1ch07-b2ch37) | 22 | 53 |
+| Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Mr Baek | 9 | 6 (b1ch05-b2ch42) | 2 | 55 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-634 Nennungen in 68 Kapiteln.
+635 Nennungen in 68 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -647,6 +647,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:218 | Annie looked at him properly then, the way she does when a sentence has told her more th.. |
 | 59 | b2ch38:240 | Annie considered him for a moment. |
 | 59 | b2ch38:272 | Annie looked at him for a while, the wind doing what it does to hair and to nothing else.. |
+| 59 | b2ch38:327 | Yeom gave him lunch in May and told him the truth about a thing that could have ended a .. |
 | 61 | b2ch39:160 | He telephoned Sang-hoon that evening, from the house, on a line Annie had already told h.. |
 | 61 | b2ch39:204 | Annie was still in the library when he brought her the notebook, and she read the two li.. |
 | 61 | b2ch39:216 | Annie sat with that for a moment. |
@@ -1468,7 +1469,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-146 Nennungen in 29 Kapiteln.
+147 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1618,6 +1619,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
 | 11 | b2ch20:36 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 59 | b2ch38:371 | It is the same shape as the three dates he gave Chairman Woo in December, after the pape.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1705,6 +1707,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:270` (Tag 4) - five, six, three
 - `b2ch15:52` (Tag 4) - five, six
 - `b2ch20:36` (Tag 11) - four, seven, twenty, two
+- `b2ch38:371` (Tag 59) - three, two
 
 ---
 
@@ -2965,7 +2968,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Ryu
 
-18 Nennungen in 2 Kapiteln.
+19 Nennungen in 3 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2987,6 +2990,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch37:238 | Mr Ryu got up and came round the desk, and at the door he did something Georgij had not .. |
 | 53 | b2ch37:258 | Mr Ryu smiled back before he had decided to, which is what that smile is for, and then l.. |
 | 53 | b2ch37:280 | *Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the a.. |
+| 59 | b2ch38:325 | Mr Ryu he had never met. |
 
 ### Zahlen in der Naehe von Mrs Ryu
 

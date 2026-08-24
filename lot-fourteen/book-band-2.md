@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 106.094 Woerter.
+Book Two, 46 Kapitel, 106.968 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -48,7 +48,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 35 | v1.2 | 2.050 |
 | 36 | v2.0 | 3.312 |
 | 37 | v2.0 | 3.913 |
-| 38 | v1.2 | 2.014 |
+| 38 | v2.0 | 2.888 |
 | 39 | v1.3 | 2.101 |
 | 40 | v1.1 | 2.002 |
 | 41 | v1.1 | 2.299 |
@@ -7901,8 +7901,8 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 
 ---
 
-# Book Two · Chapter 38: The one with two parts
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 38: Tell him or ask him
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8055,6 +8055,68 @@ Annie looked at him for a while, the wind doing what it does to hair and to noth
 "Come inside," she said. "It is going to feel like progress a great deal less before it feels like it more, and there is no sense standing out here waiting for the second part to arrive early."
 
 He went in with her, and did not argue, because for once the thing she was telling him to do was exactly the thing he had already decided, in the last few seconds, that he wanted.
+
+* * *
+
+He did not go and confirm anything that afternoon. He went to the small room and took the folded sheet out of the drawer that does not lock, and opened it for the first time since Tuesday.
+
+Thirty-one names, in her hand, with the years against them.
+
+Yeom is on it.
+
+He had known that in the abstract since Tuesday morning, in the way a man knows a fact he has read and not yet had happen to him. Seeing it in a column, four lines from the bottom, with last year against it, is a different piece of information entirely.
+
+Georgij sat down properly then, because the thing that had just arrived needed a chair.
+
+Y is not Yeom, which was settled at eleven o'clock and holds.
+
+But Yeom sat at that table eleven months ago and lost forty thousand won at cards he does not remember agreeing to play. Somebody at that table suggested the cards. Yeom went home pleased and has never thought about the evening since.
+
+*He is not a letter. He is one of the thirty-one, and he has been one since Tuesday, and I have spent two days treating him as a thing to rule out.*
+
+He wrote that down before he let himself have the next part.
+
+On Tuesday, in a room upstairs in this house, he had said out loud that he would go to them one at a time and tell them what had been done to them. Each one would decide, and he would not decide for them.
+
+He had said it about a column of names, which is an easy thing to say about a column.
+
+Mr Ryu he had never met.
+
+Yeom gave him lunch in May and told him the truth about a thing that could have ended a comfortable old age, and did it without being pushed. Georgij had come away liking him, and had said so to Annie in a garden this afternoon, and had been careful with the word.
+
+*If I leave out the ones I like, I am not running anything. I have a preference and a list, and the list is decoration.*
+
+He looked at that sentence for a while and did not soften it.
+
+Then the second half arrived, and it was worse, and it arrived because he had been sitting still long enough to let it.
+
+Yeom knows the name of the man who telephoned him four years ago.
+
+He said so in his own dining room, comfortably, with his hands flat on either side of a plate. *A man on the telephone whose name I know and which I am not going to give you.* Seven people in a lifetime and never once handed one of them to anybody.
+
+Which means there are two things Georgij could do in that house, and both of them are correct, and he cannot do both in the same room.
+
+He can go and tell Yeom what was done to him at that table. That is a gift, it costs Yeom something to hear, and it asks for nothing.
+
+He can go and ask Yeom for the name on the telephone. That is a request, and it asks a man to break the one rule he has kept for a working lifetime.
+
+Put them in the same afternoon and the first one stops being a gift. It becomes the thing that was paid before the asking, and every man alive can feel the difference, and Yeom in particular would feel it inside four seconds and would be right to.
+
+*Tell him, or ask him. Not both, and not one after the other, and not in the same month if I can help it.*
+
+Georgij sat with that until the light in the small room had moved off the desk.
+
+It is the same shape as the three dates he gave Chairman Woo in December, after the paper was signed and not before, so that they paid for nothing. He had understood it then as a courtesy he could afford. He understands it now as the only part of the method that actually holds anything up, and he has just found out what it costs when the two halves land on the same man.
+
+He did not go up and tell her.
+
+Not because he was hiding it, and not because she would have disagreed with him. Because she had told him four hours earlier to apply a thing before he went and not after. He had applied it, and it had produced a harder answer than the one she had been warning him about.
+
+He wanted to be sure of it for a day before he handed it to anybody, including her.
+
+*Yeom gets told. Not this week, and not by a man who wants something in his coat while he does it.*
+
+*And the name he is keeping will have to come from somewhere else, or not at all. I would like it on this page that I worked that out on the seventeenth, and not afterward when it had become convenient.*
 
 ---
 
