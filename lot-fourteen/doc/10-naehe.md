@@ -56,7 +56,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
 | 7 | B2 23 | Mi 13. Mai | Sie schickt ihn hoch: *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
-| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er bekommt die Bitte nicht heraus, weil es keine Fassung davon gibt, die ihm zusteht: *"I have had it for about an hour and there is no version of it that is mine to say."* Sie liest es und tut es. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
+| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
@@ -149,7 +149,10 @@ nine years old and had stopped."* **Daher kommt "since I was nine".**
 Und sie gibt ihm ihren Namen. *"That is my name. It is on nothing. My mother used
 it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
 nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
-thing like that … Hye-jin went in there and stayed."*
+thing like that … Hye-jin went in there and stayed, and he did not take it out
+again for a very long time."* **Eingelöst in B2 35, am 4. Juni, sechs Monate und
+eine Woche später.** Das ist die einzige Stelle, an der er ihn ausspricht, und
+das war die ganze Zeit die Zahlung, die noch offen stand.
 
 ### B1 34 · So 1. März · Der Boden neben ihr
 
@@ -167,15 +170,29 @@ Die Mitte: die Hand im Haar, und die Arithmetik hört auf. *"He keeps one way ou
 inside his field and he prices the distance to it. He has done it since he was
 nineteen and does not know how to stop. He stopped."*
 
-Die Bitte, die es nicht gibt: Sie zählt die drei davor auf, in der Reihenfolge,
-in der sie passiert sind — *"A piece of paper. A room with nobody else in it. And
-a woman in Ulsan."* Und dann kommt die vierte nicht. **Nicht aus Takt, sondern
-weil sie ihm nicht zusteht:** jede Fassung wäre ein Satz, in dem er seiner Herrin
-sagt, wohin sie sich in ihrem eigenen Zimmer zu setzen hat. *"Cannot or will
-not." — "Cannot."* Sie legt das Buch weg und kommt runter, ohne dass er sich
-umdreht, weil auch das der Satz gewesen wäre. Hinterher: *"I did not ask you for
-this." — "No. You did not, and you would not have, and both of us knew that four
-minutes ago."*
+**Die vierte Bitte in acht Monaten, und sie ist die Einlösung der Brücke.** Sie
+zählt die drei davor auf, in der Reihenfolge, in der sie passiert sind — *"A piece
+of paper. A room with nobody else in it. And a woman in Ulsan."* Dann fragt er
+nach dem Namen:
+
+> *"On a bridge in November you gave me something and told me it was on nothing
+> and that I could not spend it. I have not said it since. Not out loud, not in
+> this house, not once. And I have not been sure for six months whether it was
+> given to me or shown to me."*
+
+**Er bittet sie nicht, herunterzukommen.** Das täte er nie, es steht ihm nicht zu,
+und die Frage nach dem Namen ist die teurere. Sie beantwortet sie, indem sie das
+Buch weglegt und runterkommt — **bevor** sie ein Wort sagt. *"She did it before she
+answered him. He understood the order of those two things about a second
+afterward."* Erst dann: *"Say it," said Annie.* Und: *"He said it."*
+
+Der Name steht nicht auf der Seite. Er stand auch in B1 24 nicht auf der Seite,
+als sie ihn gab (*"she said something in Korean, two syllables"*), und er bleibt
+seiner.
+
+Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." —
+"No. You did not, and you would not have, and both of us knew that four minutes
+ago."*
 
 Die Umkehrung: zwei Finger unter das Halsband, und *"I am not taking it off
 tonight … And not tonight is not the same as not."*

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 56 Kapitel, 138.091 Woerter.
+Book Two, 56 Kapitel, 138.132 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
 | 34 | v1.2 | 2.261 |
-| 35 | v2.3 | 3.893 |
+| 35 | v2.4 | 3.934 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
@@ -7165,7 +7165,7 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 ---
 
 # Book Two · Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7249,27 +7249,31 @@ That is the part he could not have described to anybody afterward, and did not w
 
 Annie's hand stopped.
 
-"You have asked me for three things in ten months," she said. "A piece of paper. A room with nobody else in it. And a woman in Ulsan." Her hand had not moved. "Ask."
+"You have asked me for three things in eight months," she said. "A piece of paper. A room with nobody else in it. And a woman in Ulsan." Her hand had not moved. "Ask."
 
 Georgij sat with that for a moment. She had put them in the order they happened and had not needed any time at all to do it. And she had counted the one he called the smaller one on the bridge, which he had assumed she would have let go of by Christmas.
 
-He looked at the wall opposite rather than at her, and did not say anything.
+He looked at the wall opposite rather than at her.
 
-"Ask."
+"On a bridge in November you gave me something and told me it was on nothing and that I could not spend it." He kept his hand flat on the carpet. "I have not said it since. Not out loud, not in this house, not once. And I have not been sure for six months whether it was given to me or shown to me."
 
-He had the shape of it. He had had the shape of it since the third step of the stairs. What he did not have was a sentence. Every version he tried was one in which he told her where to put herself in her own room. There is no arrangement of those words that a man wearing what he wears is entitled to say out loud.
+"And you have gone six months without asking."
 
-"I cannot," he said.
+"I have gone six months without needing to know," said Georgij. "That ran out on the third step of your stairs."
 
-"Cannot or will not."
+Nothing happened for about three seconds.
 
-"Cannot. It is not the second one and I would say so." His hand was flat on the carpet. "I have had it for about an hour and there is no version of it that is mine to say."
+He heard her put the book on the arm of the sofa.
 
-Annie did not answer.
+Then she came down onto the floor beside him, without any of the noise a person makes doing that, and sat with her back against the same sofa and her shoulder against his arm.
 
-He heard her put the book on the arm of the sofa, and he did not turn his head, because turning his head would have been the sentence by other means.
+She did it before she answered him. He understood the order of those two things about a second afterward, and in seventeen years it is the only occasion on which an answer has arrived before the words for it.
 
-Then she came down onto the floor beside him, without any of the noise a person makes doing that. She sat with her back against the same sofa and her shoulder against his arm, and did not say a single word about it.
+"Say it," said Annie.
+
+He said it.
+
+He had not had it in his mouth since a bridge in November. He had been afraid of getting it wrong, in the way a man is afraid of a thing he has not admitted to being afraid of. He did not get it wrong.
 
 * * *
 
@@ -7281,7 +7285,7 @@ Neither of them said anything for a while.
 
 "I have sat on a floor in this house nearly every day since March and you had never once been on it." He did not move his hand off the carpet. "I have thought about that chair a great deal more than I have thought about the window, and I was not going to tell you that, and I did not ask you for this."
 
-"No," said Annie. "You did not, and you would not have, and both of us knew that four minutes ago." Her shoulder stayed where it was. "You have spent ten months in this house on the understanding that nothing arrives in it that you have not first worked out how to be worth. I am not going to argue with you about that tonight. I am going to sit here instead, which is quicker."
+"No," said Annie. "You did not, and you would not have, and both of us knew that four minutes ago." Her shoulder stayed where it was. "You have spent eight months in this house on the understanding that nothing arrives in it that you have not first worked out how to be worth. I am not going to argue with you about that tonight. I am going to sit here instead, which is quicker."
 
 * * *
 
@@ -7293,7 +7297,7 @@ She has put her hand on the back of his neck twice in February, on her way past 
 
 Every one of those was above it.
 
-She has never touched the thing itself, in either direction, in ten months, and he had assumed until this moment that it was a decision she had made in the first week and had not revisited.
+She has never touched the thing itself, in either direction, in eight months, and he had assumed until this moment that it was a decision she had made in the first week and had not revisited.
 
 It is warm, because it has been on him since the second house.
 

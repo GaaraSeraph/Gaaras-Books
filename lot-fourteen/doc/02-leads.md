@@ -190,9 +190,14 @@ seine Herrin. Er darf ihr widersprechen, er darf ihr etwas hinlegen, das sie
 nicht bestellt hat, und er darf sie in eine Ecke reden - all das ist bezahlt.
 Was er nicht darf, ist ihr sagen, wo sie sitzen soll. In Kapitel 35 (v2.3) stand
 in einer frueheren Fassung *"Come down here"* als Bitte von ihm, und das ist
-falsch herum: **wenn sie auf den Boden kommt, kommt es von ihr.** Repariert,
-indem er den Satz nicht herausbekommt - nicht aus Takt, sondern weil es keine
-Fassung davon gibt, die ihm zusteht - und sie es liest und tut.
+falsch herum: **wenn sie auf den Boden kommt, kommt es von ihr.**
+
+**Repariert wurde es nicht, indem er kleiner gemacht wurde.** Die erste Fassung
+liess ihn stumm auf dem Boden sitzen und darueber nachdenken, was ihm nicht
+zusteht - das ist dieselbe Passivitaet in hoeflich. In v2.4 bittet er stattdessen
+um etwas, das ihm sehr wohl zusteht und das teurer ist: den Namen aussprechen zu
+duerfen, den sie ihm im November auf der Bruecke gegeben hat. Sie beantwortet die
+Frage, indem sie runterkommt, bevor sie ein Wort sagt.
 
 **Die zweite Probe, fuer jede Szene zwischen den beiden:** Wenn er es
 ausgesprochen haette, waere es eine Anweisung an die Frau, der er gehoert? Dann

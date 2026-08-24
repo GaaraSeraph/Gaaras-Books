@@ -604,17 +604,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch35:78 | "You did the arithmetic on the stairs," said Annie. |
 | 46 | b2ch35:106 | Annie did not say anything to that. |
 | 46 | b2ch35:146 | Annie's hand stopped. |
-| 46 | b2ch35:182 | Annie did not answer. |
-| 46 | b2ch35:210 | "No," said Annie. "You did not, and you would not have, and both of us knew that four mi.. |
-| 46 | b2ch35:262 | "I am not taking it off tonight," said Annie. |
-| 47 | b2ch35:350 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:458 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
-| 47 | b2ch35:478 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
-| 47 | b2ch35:496 | Annie set the papers down. |
-| 47 | b2ch35:596 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
-| 47 | b2ch35:614 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
-| 47 | b2ch35:626 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
-| 47 | b2ch35:644 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
+| 46 | b2ch35:190 | "Say it," said Annie. |
+| 46 | b2ch35:218 | "No," said Annie. "You did not, and you would not have, and both of us knew that four mi.. |
+| 46 | b2ch35:270 | "I am not taking it off tonight," said Annie. |
+| 47 | b2ch35:358 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:466 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
+| 47 | b2ch35:486 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
+| 47 | b2ch35:504 | Annie set the papers down. |
+| 47 | b2ch35:604 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
+| 47 | b2ch35:622 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
+| 47 | b2ch35:634 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
+| 47 | b2ch35:652 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
 | 51 | b2ch36:6 | Annie gave him the three things on Monday evening, in the room off the library, with the.. |
 | 51 | b2ch36:22 | "I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of pl.. |
 | 51 | b2ch36:30 | Annie had looked at him for a while before she answered that one. |
@@ -891,10 +891,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:208` (Tag 46) - four, three
 - `b2ch34:248` (Tag 46) - two
 - `b2ch35:46` (Tag 46) - eleven
-- `b2ch35:210` (Tag 46) - four, ten
-- `b2ch35:596` (Tag 47) - one, twenty
-- `b2ch35:626` (Tag 47) - eleven, one, thirty, three
-- `b2ch35:644` (Tag 47) - one
+- `b2ch35:218` (Tag 46) - eight, four
+- `b2ch35:604` (Tag 47) - one, twenty
+- `b2ch35:634` (Tag 47) - eleven, one, thirty, three
+- `b2ch35:652` (Tag 47) - one
 - `b2ch36:6` (Tag 51) - three
 - `b2ch36:30` (Tag 51) - one
 - `b2ch36:42` (Tag 51) - four, two
@@ -1084,15 +1084,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:60 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
 | 46 | b2ch34:176 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
 | 46 | b2ch34:248 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
-| 47 | b2ch35:328 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
-| 47 | b2ch35:340 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
-| 47 | b2ch35:350 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:384 | Sang-hoon made a sound that was almost a laugh and was not one. |
-| 47 | b2ch35:400 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
-| 47 | b2ch35:408 | Sang-hoon did not answer straight away. |
-| 47 | b2ch35:420 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
-| 47 | b2ch35:446 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
-| 47 | b2ch35:588 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
+| 47 | b2ch35:336 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
+| 47 | b2ch35:348 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
+| 47 | b2ch35:358 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:392 | Sang-hoon made a sound that was almost a laugh and was not one. |
+| 47 | b2ch35:408 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
+| 47 | b2ch35:416 | Sang-hoon did not answer straight away. |
+| 47 | b2ch35:428 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
+| 47 | b2ch35:454 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
+| 47 | b2ch35:596 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
 | 51 | b2ch36:82 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
 | 51 | b2ch36:86 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
 | 51 | b2ch36:108 | Sang-hoon did not move. |
@@ -1284,10 +1284,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:236` (Tag 45) - four
 - `b2ch34:60` (Tag 46) - eight, four
 - `b2ch34:248` (Tag 46) - two
-- `b2ch35:328` (Tag 47) - eight, nine, ten
-- `b2ch35:340` (Tag 47) - nine
-- `b2ch35:384` (Tag 47) - one
-- `b2ch35:588` (Tag 47) - eight
+- `b2ch35:336` (Tag 47) - eight, nine, ten
+- `b2ch35:348` (Tag 47) - nine
+- `b2ch35:392` (Tag 47) - one
+- `b2ch35:596` (Tag 47) - eight
 - `b2ch36:170` (Tag 51) - eleven
 - `b2ch36:182` (Tag 51) - four, two
 - `b2ch36:194` (Tag 51) - one
@@ -1928,13 +1928,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:340 | Jang put the cup down without drinking from it. |
 | 45 | b2ch33:352 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
 | 46 | b2ch34:156 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
-| 47 | b2ch35:518 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
-| 47 | b2ch35:530 | Jang stood with his hands in his coat pockets and did not take them out. |
-| 47 | b2ch35:554 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
-| 47 | b2ch35:566 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
-| 47 | b2ch35:578 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
-| 47 | b2ch35:602 | "Jang asked me a question I have been sitting with." |
-| 47 | b2ch35:634 | "That answers Jang's question," he said. |
+| 47 | b2ch35:526 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
+| 47 | b2ch35:538 | Jang stood with his hands in his coat pockets and did not take them out. |
+| 47 | b2ch35:562 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
+| 47 | b2ch35:574 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
+| 47 | b2ch35:586 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
+| 47 | b2ch35:610 | "Jang asked me a question I have been sitting with." |
+| 47 | b2ch35:642 | "That answers Jang's question," he said. |
 | 3 | b2ch40:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
 | 3 | b2ch40:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
 | 3 | b2ch40:22 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
@@ -2021,7 +2021,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:46` (Tag 9) - six
 - `b2ch14:156` (Tag 4) - four, one
 - `b2ch20:280` (Tag 11) - four, one
-- `b2ch35:566` (Tag 47) - four, one
+- `b2ch35:574` (Tag 47) - four, one
 - `b2ch40:10` (Tag 3) - three
 - `b2ch40:22` (Tag 3) - one, sixteen
 - `b2ch40:38` (Tag 3) - sixteen
@@ -2127,7 +2127,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
 | 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
 | 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
-| 47 | b2ch35:454 | Mrs Seo passed with a tray and did not stop. |
+| 47 | b2ch35:462 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
