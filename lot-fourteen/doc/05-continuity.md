@@ -512,7 +512,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Das Geschenk danach, damit es nichts bezahlt:** wer den Container hingestellt hat, ausdruecklich als Vermutung. Der Grund ist nicht taktisch - *"you have spent six weeks looking at nine people at dinner and wondering. That is a bad way to live and it is worse than useless, and you can stop."*
 
   **Ihre Anweisungen zum Schluss** sind die Zusage: Dokument an den Bruder ins Buero, zweite Kopie in einem blanken Umschlag ueber Hana an einem Donnerstag, und die sechs hoeren Georgijs Satz **vor** dem guten Teil. Dann: *"Twenty-two minutes. I told my driver twenty."*
-- **Kapitel 29** *The ones who came at seven* (v1.3) - Der Abend, sechs bis neun.
+- **Kapitel 29** *The ones who came at seven* (v1.4) - Der Abend, sechs bis neun.
 
   **Annie kommt nicht, und das ist entschieden und begruendet:** *"If I am in that house it is my evening. Then it is a chaebol standing in a room with a family under investigation, and everybody spends the week deciding what it was for."* Georgij ist da und jeder weiss, wessen er ist, und das ist der Unterschied zwischen einer Besprechung und einer Party.
 
@@ -527,7 +527,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
 
   **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
-- **Kapitel 28** *A woman in a room can be asked* (v1.3) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+- **Kapitel 28** *A woman in a room can be asked* (v1.4) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
 
@@ -553,7 +553,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
-- **Kapitel 27** *Not out of your account* (v3.3) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v3.4) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -575,7 +575,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-- **Kapitel 26** *The name and the control* (v1.5) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
+- **Kapitel 26** *The name and the control* (v1.6) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
 
@@ -584,7 +584,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und dann geht Sung-ho telefonieren**, neunzehn Minuten, und Georgij sitzt mit dem Mantel auf den Knien in einem Raum, in dem die Entscheidung nicht faellt. Sie faellt bei einer Frau, die nicht im Gebaeude ist, die er nie getroffen hat, die 1,4 Prozent haelt und die man **einmal** fragen kann. Ihm geht dabei auf, dass Hana ihm das im November im Klartext gesagt hat und dass er es als Schwierigkeit gehoert hat statt als Tatsache.
 
   **Ergebnis:** Die Kims kommen am 16., vollzaehlig. Ueber Anteile, Sicherheiten und Routen ist nichts entschieden, und Sung-ho sagt ausdruecklich, dass niemand im Raum die Befugnis dazu hat. Der Schluss ist ein durchgestrichener Satz im Notizbuch: *She said yes* - weggestrichen, weil er es nicht weiss und bis zum Sechzehnten nicht wissen wird.
-- **Kapitel 25** *The name on the paper* (v1.4) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
+- **Kapitel 25** *The name on the paper* (v1.5) - Montag, die Vollmacht. **Mr Chaes erster Auftritt.** Er erklaert das Instrument, Georgij findet die Widerrufsklausel im ersten Durchgang und will sie ausdruecklich behalten: Wenn Annie in vier Sekunden beenden kann, muss sie beim Geben nicht vorsichtig sein. Dann die Unterschriftszeile - **er hat in seinem Leben noch nie etwas unterschrieben** - und der aufgedruckte Nachname, den er noch nie gesehen hat. Chaes Satz ueber die zwei Dokumente. Der Anruf bei Woo um die halbe Stunde, ohne Begruendung. Und am Donnerstag kauft Sang-hoon.
 
   **Er kennt Annies Haus inzwischen ganz**, und der Text sagt, wie: nicht mehr als drei Ausgaenge und zweiundzwanzig Objektive, sondern so, wie man ein Haus kennt, in dem man wohnt - welche der vierzehn Erdgeschosstueren bei Nasse klemmen, dass der zweite Stock vier Zimmer hat und zwei davon zu sind. Er hat nichts davon gesucht; es ist ueber neunundfuenfzig Tage angekommen.
 
@@ -662,7 +662,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.8) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.9) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 **Wem der Routen-Satz gehoert, festgeschrieben am 23.08.** Er wandert durch sechs Kapitel und die Herkunft war in einem davon falsch.
@@ -2551,6 +2551,8 @@ erste Juli-Szene gelesen.
 | **Baek Jun-ho** | 63 | 26. September | Kapitel 42 |
 | **Nam Byung-hees Neffe** | 23 | 9. August | Kapitel 19 |
 | **Hana Seo-yeon** | 51 | 22. Juli | Band 1, Kapitel 21, aus ihrem eigenen Mund: *"I have a house with nobody in it on Fridays, and I am fifty-one"* |
+| **Kim Sung-ho** | 61 | 30. Juli | Band 1, Kapitel 26. Aelterer Bruder von Ye-rin, haelt den Titel |
+| **Kim Do-yun** | 38 | 6. September | Band 1, Kapitel 9 und 11 (*"late thirties"*), Kapitel 26 |
 | **Kim Ye-rin** | 54 | 5. August | Band 1, Kapitel 26, 28 und 30 |
 | **Kang** | 43 | 25. August | Band 1, Kapitel 11 |
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
@@ -2582,6 +2584,70 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 24 bis 29 (25.08.)
+
+**Die zweite Landes-Verwechslung.** Kapitel 27 liess Hana sagen *"You have been
+in this country nine weeks"*, und Georgij antwortet *"Ten on Saturday"*. Er ist
+seit **Wochen in diesem Haus** und seit **Jahren in diesem Land**: mit zwanzig
+in Busan, mit einundzwanzig in Daejeon, elf Haeuser in siebzehn Jahren, und
+Kapitel 23 sagt *"both times in this country"*. Steht jetzt auf *"You have been
+doing this nine weeks."* Dieselbe Verwechslung stand in Kapitel 21 und ist dort
+mit korrigiert.
+
+**Der Zoll ist seit Oktober im Kim-Gebaeude, und das steht dreifach fest:** Hana
+an Tag 22 (*"six days"*), Kapitel 14 an Tag 34 (*"eighteen days"*), Kapitel 17 an
+Tag 46 (*"a month"*). Zwei Stellen rechneten gegen ein anderes Datum:
+
+- **Kapitel 26:** *"fourteen days after customs went into your building"* ->
+  **zweiunddreissig**. Der Vertrag ist auf den 20. November datiert.
+- **Kapitel 29:** *"since the fourth of November"* -> **since October**. Drei
+  Absaetze vorher sagt dasselbe Kapitel *"has not been anywhere since October"*.
+
+**Weiter korrigiert.**
+
+- **Kapitel 25:** *"eight days ago"* -> **seven**. Das Gebot ging Montag, den
+  24. November hinaus, und Mr Chae sagt es an Montag, dem 1. Dezember.
+- **Kapitel 25:** *"Two weeks after the fourth of October"* -> *"In the second
+  week of October"*, weil Mr Chae genau das zwei Zeilen vorher sagt.
+- **Kapitel 25:** der aufgeschobene Anruf bei Woo dauert **zehn** Tage, nicht
+  neun: das Loch im Ablauf faellt an Tag 49, der Anruf an Tag 59.
+- **Kapitel 26:** Kim Do-yun ist **achtunddreissig**, nicht vierunddreissig.
+  Kapitel 9 und 11 sagen zweimal *"late thirties"*, und der Irrtum, um den es in
+  der Szene geht, ist sein Charakter und nicht sein Alter.
+- **Kapitel 27:** die Grundbuchabteilung wurde am **17.** November gezogen, nicht
+  am 11. Kapitel 15 kuendigt den Montag an, Kapitel 16 sagt *"the previous
+  afternoon"* vor Tag 46, und Hana liest den Pachtvertrag *"since the
+  seventeenth"*.
+- **Kapitel 28:** der Keller waren **zwei** Stunden, nicht vier - Kapitel 1 sagt
+  es zweimal. Und die neunzehn Seiten entstanden in **sechs** Tagen, nicht drei;
+  Kapitel 15 nennt die Zahl.
+- **Kapitel 21/29:** Hana sagte *"Woo will be an hour early"*, und im selben
+  Kapitel *"He will come at seven and be gone by nine"*. Kapitel 29 laesst ihn um
+  vier nach sieben kommen und Georgij *"You are early"* sagen. Jetzt: *through
+  the door on the hour* und *"You are prompt."*
+
+**Was gehalten hat, und es ist erstaunlich viel.** *"the fifth of November"* ist
+der Tag, an dem er Hanseong findet. *"fifty-four nights ago"* fuer die
+Fernbedienung geht auf. **Die dreizehn Tage in Kapitel 25** sind genau Tag 9 bis
+Tag 21 - vom Verschwinden der Fernbedienung bis zum Abend, an dem er sie in ihrer
+Tasche sieht. Sechzehntausend Quadratmeter minus vier Gebaeude auf fuenf sind elf
+fuer Woo, und der ist tausend kuerzer als seine zwoelf in Yeonan. Drei Dienstage
+zwischen dem 21. November und dem 9. Dezember sind wirklich drei. Der
+Fahrerplan stimmt an allen vier Stellen.
+
+**Offen, gehoert dem Autor.**
+
+- **Kapitel 24:** *"There were four in that cellar with no mark on them at all
+  and every one of them went for under a third of what I did."* Ein Drittel von
+  zweihundertzwanzig sind dreiundsiebzig; Los elf ging fuer achtzig und Los
+  zwoelf fuer hundertsechzig. **Nicht geaendert**, weil die vier nicht die
+  beiden sein muessen, die Kapitel 1 nennt - aber wer beim Lesen mitrechnet,
+  stolpert.
+- **Kapitel 29** hat drei Elfen auf drei Seiten: elf Bilderrahmen, elfmal
+  vorgestellt, elf Minuten nach acht. Die dritte traegt die Szene.
 
 ---
 
