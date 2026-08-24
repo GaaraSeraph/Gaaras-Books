@@ -93,10 +93,24 @@ blieb).
    Zeichen dahinter* haette 159 Stellen umgedreht, davon 116 im fertigen Band 2,
    und den Abschnitt *"Punkt oder Fragezeichen"* aus `CLAUDE.md` entfernt.
 
-3. **Band 1 hat keine Szenengrenzen.** Gezaehlt am 24.08.: Band 1 null, Band 2
-   sechsunddreissig in vierundzwanzig Kapiteln.
+3. ~~**Band 1 hat keine Szenengrenzen.**~~ **Erledigt.** Vierundfuenfzig
+   Grenzen in dreissig von vierunddreissig Kapiteln.
 
-   **Aber die Quelle, die hier stand, gibt es fuer Band 1 nicht.** In der
+   Dichte zum Vergleich: Band 1 steht danach bei 1,59 Grenzen je Kapitel und
+   0,53 je tausend Woerter, Band 2 bei 1,72 und 0,71. Band 1 ist also eher
+   zurueckhaltend gesetzt und laesst sich leichter nachschaerfen als
+   zurueckbauen. Ohne Grenze bleiben vier Kapitel: 2 und 11 sind je eine
+   durchgehende Autofahrt, 14 und 27 teilen ueber Tageszeilen.
+
+   **Wie es ging, und das ist der Teil, der beim naechsten Mal Zeit spart:**
+   der Trenner stand ueberall schon da. Es war keine Frage, wo etwas
+   eingefuegt wird, sondern welcher der 630 Takt-Trenner in Wahrheit ein
+   Orts- oder Zeitwechsel ist. Ein Filter auf Zeit- und Ortsangaben hinter dem
+   Trenner hat 148 Verdachtsfaelle geliefert und dabei die Ankunft in Kapitel 7
+   uebersehen, weil *carpet* nicht in der Wortliste stand - **also am Ende alle
+   630 einzeln angesehen.**
+
+   **Und die Quelle, die hier stand, gibt es fuer Band 1 nicht.** In der
    Kapitelliste von `doc/05-continuity.md` tragen die Band-2-Zeilen achtundvierzig
    Szenenangaben, die Band-1-Zeilen **zwei**, und eine davon ist Kapitel 5. Es
    ist also nicht dieselbe Arbeit wie in Band 2 und kein Abschreiben von einer
