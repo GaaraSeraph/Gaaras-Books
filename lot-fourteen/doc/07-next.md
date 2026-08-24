@@ -1731,6 +1731,23 @@ dem 24.08. offen.
 
 ---
 
+## Zwei Fragen aus dem Zuschreibungsdurchgang, die dem Autor gehoeren (25.08.)
+
+- **Band 2, Kapitel 7 und 12: *"the fourth week of the worst quarter of her
+  life"*.** Die Seite lag am **14. Maerz** auf ihrem Schreibtisch, und ihre Bahn
+  liegt seit **Januar** still. Das ist die zehnte oder elfte Woche, nicht die
+  vierte. Der Satz steht zweimal und traegt beide Male dasselbe Argument (*"Not
+  in January when she could still wait, and not in June when it would be
+  over"*), deshalb **nicht angefasst** - aber entweder ist die Woche gemeint,
+  die ich nicht sehe, oder es muesste *the eleventh week* heissen.
+- **Band 2, Kapitel 13: *"The terminal at Yeongjong is ten months old"*.** Zehn
+  Monate ist in Band 1 die **Bauzeit** (Kapitel 7: *"Was it eleven months from
+  the ground?" / "Ten."*), und der Beton ging in einem nassen Maerz hinein. Wenn
+  das Terminal im April zehn Monate alt ist, hat es im Juni eroeffnet. Moeglich,
+  aber die Zahl kollidiert mit der bekannteren. **Nicht angefasst.**
+
+---
+
 ## Wer gerade woran ist
 
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
