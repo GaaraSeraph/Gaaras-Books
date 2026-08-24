@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.153 Woerter.
+Book One, 34 Kapitel, 101.188 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -27,9 +27,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 14 | v7.8 | 2.605 |
 | 15 | v2.8 | 4.212 |
 | 16 | v1.16 | 3.278 |
-| 17 | v12.12 | 2.708 |
+| 17 | v12.13 | 2.743 |
 | 18 | v2.8 | 2.980 |
-| 19 | v1.10 | 3.210 |
+| 19 | v1.11 | 3.210 |
 | 20 | v1.5 | 2.108 |
 | 21 | v1.7 | 4.080 |
 | 22 | v1.2 | 2.584 |
@@ -4661,7 +4661,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.12 · EN
+*Lot Fourteen* · Version 12.13 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4697,9 +4697,9 @@ The wide one that goes all the way up and arrives a quarter of a second late, wh
 
 Every one of them curated for a situation, aimed at a face, pointed at a result. He could have named the house each came out of and roughly what it had cost to learn.
 
-Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, for a third name that had cost him something to say.
+In seventeen years not one of them had been his own. There had been six since October, and he could have named all six. The first had gone to the woman who runs her house, on his second morning. The fourth to Mr Hong at the gala, for a third name that had cost him something to say. The sixth to Park Sang-hoon, three hours ago, across a table with the plates still on it.
 
-This was the other one, and it was the second time in twelve days. Over her desk it had come up slowly, from somewhere behind the courtesy, and had taken its time.
+The fifth had come up over her desk twelve days ago, slowly, from somewhere behind the courtesy, and had taken its time.
 
 It did not take its time now.
 
@@ -5187,11 +5187,11 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 48 · Thursday 20 November*
 
-The invitation had been sitting there since the seventh of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.
+The invitation had been sitting there since the twenty-fifth of October, in the way that invitations from men of that age sit there, repeated at intervals and never quite made into a date.
 
 Georgij made it into a date at half past eleven, in one telephone call, and was told to come that afternoon and to wear something he did not mind ruining.
 

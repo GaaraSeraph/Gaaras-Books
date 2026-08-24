@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 650 | 69 (b1ch01-b2ch47) | 1 | 74 |
-| Park Sang-hoon | 246 | 38 (b1ch10-b2ch45) | 1 | 74 |
+| Park Sang-hoon | 247 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 131 | 30 (b1ch05-b2ch45) | 2 | 60 |
@@ -895,7 +895,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-246 Nennungen in 38 Kapiteln.
+247 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -947,6 +947,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
 | 46 | b1ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | b1ch17:40 | In seventeen years not one of them had been his own. There had been six since October, a.. |
 | 46 | b1ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
 | 48 | b1ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
 | 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
@@ -1166,6 +1167,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch16:284` (Tag 46) - nineteen
 - `b1ch16:344` (Tag 46) - four
 - `b1ch17:8` (Tag 46) - one, twelve, two
+- `b1ch17:40` (Tag 46) - one, seventeen, six, three
 - `b1ch17:68` (Tag 46) - one
 - `b1ch18:70` (Tag 48) - four
 - `b1ch18:226` (Tag 48) - one, three
@@ -2392,7 +2394,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b1ch13:258 | He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had .. |
 | 46 | b1ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
 | 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
-| 46 | b1ch17:40 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
+| 46 | b1ch17:40 | In seventeen years not one of them had been his own. There had been six since October, a.. |
 | 46 | b1ch17:114 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 | 48 | b1ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
 | 49 | b1ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
@@ -2420,7 +2422,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch13:256` (Tag 27) - fifty
 - `b1ch16:40` (Tag 46) - one, two
 - `b1ch17:8` (Tag 46) - one, twelve, two
-- `b1ch17:40` (Tag 46) - one, seventeen, two
+- `b1ch17:40` (Tag 46) - one, seventeen, six, three
 - `b1ch17:114` (Tag 46) - three, two
 - `b1ch23:224` (Tag 55) - nineteen
 - `b2ch26:198` (Tag 38) - fifty-nine

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 162.378 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 162.979 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2905,9 +2905,9 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
 
 - **Kapitel 20** *I came back with a favour* (v1.5) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
-- **Kapitel 19** *What happens on the Tuesday* (v1.10) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 19** *What happens on the Tuesday* (v1.11) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.8) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.12) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *I have never put it down* (v12.13) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.16) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.8) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.8) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
@@ -4167,7 +4167,8 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
 
 
-**Kapitel 46 gibt es nicht mehr.** Die Schreibsitzung hat es am 25.08. in
+**Das alte Kapitel 46 gibt es nicht mehr, die Nummer schon wieder.**
+Die Schreibsitzung hat es am 25.08. in
 Kapitel 44 gezogen (*"44 und 46 werden eins"*), und 43 und 44 haben dabei neue
 Titel bekommen. Die folgenden Notizen sind die des alten 46 und stehen hier
 unveraendert, weil sie **noch nicht gegen die neue Fassung geprueft** sind - das
@@ -4717,6 +4718,32 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   aufgefallen, nachdem er geschrieben war.
 
 
+- **Band 2, Kapitel 46** *The post still comes* (v1.0) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
+
+- **Band 2, Kapitel 47** *Twelve white stems* (v1.0) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
+
+  **Noch nicht inhaltlich geprueft.** Wie 46.
+
+---
+
+## Der Juli ist betreten
+
+**Seit dem 25.08. steht Text jenseits von Tag 280.** Kapitel 46 spielt am
+13. Juli, Kapitel 47 am 18. Juli. Damit ist die Grenze ueberschritten, vor der
+das Geburtstagsregister warnt: **die unerzaehlte Strecke, in der alle
+Geburtstage liegen, ist jetzt erzaehlte Zeit.**
+
+Wer zwischen dem 1. und dem 18. Juli schreibt, hat drei Geburtstage im Ruecken:
+**Mrs Sunwoo am 4. Juli (wird 82), Mr Yeom am 15. Juli (wird 64), Mrs Jeon am
+24. Juli (noch nicht)**. Kapitel 46 und 47 nennen kein Alter und keine dieser
+Figuren, also ist bisher nichts verrutscht.
+
+**Wer weiterschreibt, liest die Tabelle vorher.** Ab dem 22. Juli wird Hana
+zweiundfuenfzig, ab dem 27. Sang-hoon sechzig, und beide sind in Band 2 mit ihrer
+alten Zahl im Text.
+
 ---
 
 ## Geburtstage und Alter
@@ -4787,6 +4814,41 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Band 1, Inhaltsdurchgang Kapitel 16 bis 19 (25.08.)
+
+**Kapitel 17 zaehlte seine eigenen Laecheln falsch, und das war die groesste
+Korrektur des Tages.** Der Satz lautete *"Two of them in seventeen years had
+been his own"*, und der Text weist **sechs** aus, jedes davon ausdruecklich als
+ungerichtet markiert:
+
+| # | Wem | Kapitel | Beleg im Text |
+|---|---|---|---|
+| 1 | Mrs Seo | 4 | *"He was not after anything with it"* |
+| 2 | Dem Schneider | 5 | von Kapitel 16 rueckwirkend bestaetigt |
+| 3 | Mr Jang | 6 | *"did not have to do and got nothing for"* |
+| 4 | Mr Hong | 7 | *"the only one that was his"* |
+| 5 | Annie, ueber dem Schreibtisch | 14 | *"It was not one he had built"* |
+| 6 | Park Sang-hoon | 16 | *"not aimed at a result"* - drei Stunden vor dieser Fahrt |
+
+**Und alle sechs liegen nach dem 4. Oktober.** In siebzehn Jahren davor keines.
+Das ist der Befund, und er traegt genau das, was das Kapitel behauptet: *"I did
+not decide to stop... They were yours."* Der Satz steht jetzt so da. Das Laecheln
+im Wagen ist das siebte, das an Jang in Kapitel 18 das achte.
+
+**Kapitel 19: die Einladung nach Yeongjong stand auf dem 7. Oktober.** An dem Tag
+kannte Chairman Woo ihn nicht - sie begegnen sich zum ersten Mal auf der Gala.
+Steht jetzt auf dem **25. Oktober**.
+
+**Was gehalten hat, und es ist viel.** Der 17. September **war** ein Mittwoch.
+Woos zwanzig Prozent aus Kapitel 19 sind die *"last twenty"* aus Kapitel 13. Der
+Bericht kommt am Donnerstag zurueck, wie in Kapitel 16 versprochen. *"the
+previous afternoon"* in Kapitel 16 ist der Montag, den er in Kapitel 15
+angekuendigt hat, und *"five days ago"* ist genau der Abend mit Hana. Die neun
+Blaetter an Jang stammen aus Kapitel 5, Tag 4. Die zwei Geruechte aus zwei
+Muendern sind in Kapitel 18 **ein** Mund, und der Bleistift sagt es in einem Wort.
 
 ---
 
@@ -8412,7 +8474,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 650 | 69 (b1ch01-b2ch47) | 1 | 74 |
-| Park Sang-hoon | 246 | 38 (b1ch10-b2ch45) | 1 | 74 |
+| Park Sang-hoon | 247 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 131 | 30 (b1ch05-b2ch45) | 2 | 60 |
@@ -9288,7 +9350,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-246 Nennungen in 38 Kapiteln.
+247 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9340,6 +9402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
 | 46 | b1ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
 | 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | b1ch17:40 | In seventeen years not one of them had been his own. There had been six since October, a.. |
 | 46 | b1ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
 | 48 | b1ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
 | 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
@@ -9559,6 +9622,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch16:284` (Tag 46) - nineteen
 - `b1ch16:344` (Tag 46) - four
 - `b1ch17:8` (Tag 46) - one, twelve, two
+- `b1ch17:40` (Tag 46) - one, seventeen, six, three
 - `b1ch17:68` (Tag 46) - one
 - `b1ch18:70` (Tag 48) - four
 - `b1ch18:226` (Tag 48) - one, three
@@ -10785,7 +10849,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b1ch13:258 | He had a fund that ran into Singapore and came out in Hong Kong, and an old man who had .. |
 | 46 | b1ch16:40 | "Hong. And a man from Land and Infrastructure who talks to my people about other things... |
 | 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
-| 46 | b1ch17:40 | Two of them in seventeen years had been his own. One had gone to Mr Hong at the gala, fo.. |
+| 46 | b1ch17:40 | In seventeen years not one of them had been his own. There had been six since October, a.. |
 | 46 | b1ch17:114 | "Somebody buys three charges over a couple of months, and a letter comes in the spring, .. |
 | 48 | b1ch19:38 | Mr Hong had said this would happen. He had said it in a ballroom with a glass in his han.. |
 | 49 | b1ch20:74 | "I told him a true thing about the only object he cares about, and it is in the harbour .. |
@@ -10813,7 +10877,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch13:256` (Tag 27) - fifty
 - `b1ch16:40` (Tag 46) - one, two
 - `b1ch17:8` (Tag 46) - one, twelve, two
-- `b1ch17:40` (Tag 46) - one, seventeen, two
+- `b1ch17:40` (Tag 46) - one, seventeen, six, three
 - `b1ch17:114` (Tag 46) - three, two
 - `b1ch23:224` (Tag 55) - nineteen
 - `b2ch26:198` (Tag 38) - fifty-nine
