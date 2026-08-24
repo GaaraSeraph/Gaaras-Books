@@ -1227,7 +1227,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:106` (Tag 60) - two
 - `b2ch04:144` (Tag 60) - four
 - `b2ch04:156` (Tag 60) - one, two
-- `b2ch04:170` (Tag 60) - fourteen, thirty, two
+- `b2ch04:170` (Tag 60) - thirty, two
 - `b2ch04:226` (Tag 60) - four, nineteen
 - `b2ch04:260` (Tag 60) - one
 - `b2ch04:272` (Tag 60) - one

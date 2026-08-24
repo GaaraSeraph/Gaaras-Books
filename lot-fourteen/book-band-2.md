@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 50 Kapitel, 121.980 Woerter.
+Book Two, 50 Kapitel, 121.997 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,11 +11,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.5 | 2.286 |
+| 01 | v1.6 | 2.286 |
 | 02 | v1.3 | 2.058 |
-| 03 | v1.1 | 2.017 |
-| 04 | v1.4 | 2.702 |
-| 05 | v1.5 | 2.848 |
+| 03 | v1.2 | 2.017 |
+| 04 | v1.5 | 2.719 |
+| 05 | v1.6 | 2.848 |
 | 06 | v1.1 | 2.435 |
 | 07 | v1.3 | 2.316 |
 | 08 | v1.5 | 3.200 |
@@ -65,7 +65,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book Two · Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
@@ -167,7 +167,7 @@ At the door she stopped, which she had not done then.
 
 Georgij stayed where he was for a moment after she had gone.
 
-On the second of January he had come off the stairs with a reason inside ten minutes, and he had been satisfied with it for about a week, and it had been wrong for ten of them.
+On the second of January he had come off the stairs with a reason inside ten minutes, and he had been satisfied with it for about a week, and it had been wrong for eight of them.
 
 This morning he had nothing at all. That is not the same thing as having nothing to do, and he had spent the winter learning the difference.
 
@@ -457,7 +457,7 @@ He went up the east stairs and did not count them.
 ---
 
 # Book Two · Chapter 3: We haven't met
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Fifty-Five · Saturday 7 March
 
@@ -607,7 +607,7 @@ He had given her a term. Not tonight, and on the day it costs you, and if you as
 
 That is how he does it. He has done it since October: a ceiling, named counterparties, a date after which it is dead and I ask you again.
 
-In eight days she had stepped over two of his questions and had not put a date on either.
+In six days she had stepped over two of his questions and had not put a date on either.
 
 He went up and did not make anything of it. There is nothing to make of it that would survive being said out loud. And a man who counts what he is owed by the person he belongs to has started keeping a different sort of book.
 
@@ -620,7 +620,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -746,7 +746,7 @@ Georgij had known since Sunday what he had.
 
 "You want to know how it was done."
 
-"I know how it was done. I have had two and a half months and I am not stupid." Sang-hoon's voice did not go up. "I know the report was true. I know the board could not sell and I asked you about it myself, on page fourteen, and bought it anyway. I have been over that evening more times than I have been over anything since I was thirty."
+"I know how it was done. I have had two and a half months and I am not stupid." Sang-hoon's voice did not go up. "I know the report was true. I know the board could not sell, and I asked you about it myself, in the middle of a conversation about a ceiling, and it was not on any page you gave me, and I bought it anyway. I have been over that evening more times than I have been over anything since I was thirty."
 
 He put one finger down on the sill.
 
@@ -849,7 +849,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -947,7 +947,7 @@ Annie put one hand down on the desk.
 
 "I know what I did in December."
 
-"You made a condition about how it was to be done, and the condition was that it must not be a gift, because a gift would have made her poorer and more careful." He did not hurry it. "What it did in the end was not take the threat off her. Nobody can do that. It took away the thing that made her worth threatening. The ground stopped being a dedication and started being a rent, and the third charge on it stopped being a cliff in the spring and became a line in a schedule."
+"You made a condition about how it was to be done, and the condition was that it must not be a gift, because a gift would have made her poorer and more careful." He did not hurry it. "What it did in the end was not take the threat off her. Nobody can do that. It took away the thing that made her worth threatening. The ground stopped being a designation and started being a rent, and the third charge on it stopped being a cliff in the spring and became a line in a schedule."
 
 "The east side."
 

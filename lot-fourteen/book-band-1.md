@@ -38,7 +38,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.5 | 2.549 |
 | 26 | v1.6 | 2.423 |
 | 27 | v3.4 | 3.101 |
-| 28 | v1.4 | 2.676 |
+| 28 | v1.5 | 2.676 |
 | 29 | v1.4 | 1.990 |
 | 30 | v1.9 | 3.524 |
 | 31 | v1.7 | 3.256 |
@@ -7812,7 +7812,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8064,7 +8064,7 @@ Georgij had been standing since he came in and had not been asked to sit.
 
 Annie picked the pen back up, which meant the conversation was finished, and then did not use it.
 
-"You have," she said. "You had one in October. You stood in a cellar with a number pinned on you for two hours and could not do anything about that either."
+"You have," she said. "You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."
 
 "That is not the same."
 
