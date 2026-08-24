@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 52 Kapitel, 126.466 Woerter.
+Book Two, 52 Kapitel, 126.477 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -18,10 +18,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 05 | v1.6 | 2.848 |
 | 06 | v1.1 | 2.435 |
 | 07 | v1.3 | 2.316 |
-| 08 | v1.5 | 3.200 |
+| 08 | v1.6 | 3.182 |
 | 09 | v2.2 | 2.496 |
 | 10 | v2.1 | 2.225 |
-| 11 | v2.2 | 2.504 |
+| 11 | v2.3 | 2.533 |
 | 12 | v1.4 | 2.902 |
 | 13 | v1.2 | 2.183 |
 | 14 | v1.3 | 2.432 |
@@ -1506,7 +1506,7 @@ He did not tear it out and he did not correct it. He wrote the date underneath a
 ---
 
 # Book Two · Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -1738,7 +1738,7 @@ And there is a date on it, which is worth more than the wallet.
 
 The parcel came up the drive on the second of March. The page was on a desk in Ulsan on the fourteenth. Twelve days.
 
-Everybody else who got that parcel opened it, looked at four references and a phrase, and put it away. Mrs Sunwoo put hers in a drawer under the tax papers and did not take it out again. Twelve days is not how long it takes a man to notice something. Twelve days is how long it takes a man to use a thing he has been waiting for.
+Everybody else who got that parcel opened it, looked at four references and a phrase, and put it away. Twelve days is not how long it takes a man to notice something. Twelve days is how long it takes a man to use a thing he has been waiting for.
 
 And then the half of it that is worse.
 
@@ -2223,7 +2223,7 @@ She listened to the end and then asked one question, which was not about Mrs Sun
 ---
 
 # Book Two · Chapter 11: What she cannot prove
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day One Hundred and Eighty · Wednesday 1 April
 
@@ -2333,7 +2333,7 @@ He stood there for a moment with that.
 
 "Say that you know it in a way that means you have imagined it."
 
-"Three people have known since the autumn and none of them has ever said it," said Georgij. "Park Sang-hoon since the fourth of October, because he was in the room. Chairman Woo since the end of that month. Hana Seo-yeon since December, and she has never once let it into her face."
+"Three people outside this house have known since the autumn and none of them has ever said it," said Georgij. "Hana Seo-yeon since the twenty-fifth of October, out of my own mouth on a floor at the Grand Hotel, and she has never once let it into her face. Chairman Woo since about that week, and he has never been told and has never asked. Park Sang-hoon since the twenty-seventh of November, because you showed him in your own long room."
 
 "Go on."
 

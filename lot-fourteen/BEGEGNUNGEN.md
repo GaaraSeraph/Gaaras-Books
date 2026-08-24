@@ -29,7 +29,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Bae | 34 | 9 (b1ch03-b2ch52) | 1 | 34 |
-| Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
+| Mrs Sunwoo | 33 | 13 (b1ch07-b2ch26) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Baek | 30 | 9 (b1ch05-b2ch51) | 2 | 55 |
@@ -1031,7 +1031,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
 | 5 | b2ch06:232 | "Park Sang-hoon." |
 | 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
-| 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
 | 3 | b2ch12:242 | "I want her finished. I do not want her hurt for four months so that somebody can watch... |
 | 11 | b2ch19:24 | He did not ask him, because a man who telephones Park Sang-hoon to ask which people have.. |
 | 38 | b2ch26:6 | The reason he did not do this in March is that doing it would have told Park Sang-hoon a.. |
@@ -1245,7 +1245,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch04:260` (Tag 60) - one
 - `b2ch04:272` (Tag 60) - one
 - `b2ch08:32` (Tag 9) - one
-- `b2ch11:146` (Tag 1) - three
+- `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch12:242` (Tag 3) - eighteen, four
 - `b2ch26:14` (Tag 38) - five, four
 - `b2ch26:24` (Tag 38) - forty, two
@@ -1493,7 +1493,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 74 | b1ch31:222 | Ye-rin's instructions, which were the agreement: the document to Sung-ho's office, addre.. |
 | 5 | b1ch31:336 | "On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes." |
 | 56 | b2ch03:122 | So it is one approach and he has not got it ready, and the rule for that is the one Hana.. |
-| 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
 | 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 
@@ -1560,7 +1560,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:222` (Tag 74) - six
 - `b1ch31:336` (Tag 5) - twenty-two
 - `b2ch03:122` (Tag 56) - one
-- `b2ch11:146` (Tag 1) - three
+- `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch38:230` (Tag 59) - one, three
 
 ---
@@ -1694,7 +1694,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b1ch31:386 | "Of course you will," said Chairman Woo. "That is the only trick you have got, and it is.. |
 | - | b1ch32:98 | "On Thursday the eighteenth, Chairman Woo of the Yeongjong terminal was in two newspaper.. |
 | 46 | b1ch34:46 | The first cargo under Chairman Woo's seven years crossed the quay at Yeongjong on the ni.. |
-| 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
 | 9 | b2ch13:58 | Chairman Woo came out to the car himself, which he did in October as well. |
 | 9 | b2ch13:72 | "Now," said Woo, in the office at the end of the shed with the sea on three sides of it,.. |
 | 9 | b2ch13:84 | Woo did not answer for a moment. |
@@ -1792,7 +1792,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:386` (Tag 5) - one
 - `b1ch32:98` (Tag ?) - four, two
 - `b1ch34:46` (Tag 46) - seven, two
-- `b2ch11:146` (Tag 1) - three
+- `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch13:72` (Tag 9) - three
 - `b2ch13:144` (Tag 9) - twenty-seven
 - `b2ch13:150` (Tag 9) - five, one
@@ -2572,7 +2572,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Sunwoo
 
-34 Nennungen in 14 Kapiteln.
+33 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2580,7 +2580,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
 | 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
 | 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch08:318 | Everybody else who got that parcel opened it, looked at four references and a phrase, an.. |
 | 9 | b2ch09:212 | "Sunwoo." |
 | 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
 | 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
@@ -2616,7 +2615,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch07:192` (Tag 22) - ten
 - `b1ch07:274` (Tag 22) - forty, one
 - `b1ch07:292` (Tag 22) - twelve
-- `b2ch08:318` (Tag 9) - four, twelve
 - `b2ch09:214` (Tag 9) - eighty-one, one, three
 - `b2ch10:52` (Tag 3) - eighty-one
 - `b2ch10:82` (Tag 3) - one
