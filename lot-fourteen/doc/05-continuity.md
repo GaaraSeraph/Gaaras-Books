@@ -2626,7 +2626,7 @@ wenn der Februar achtundzwanzig Tage hat** - hat er.
 
 ## Band 1 ist inhaltlich durch (25.08.)
 
-Vierunddreissig Kapitel, sieben Bloecke, **dreissig Korrekturen**. Geprueft
+Vierunddreissig Kapitel, sieben Bloecke, **fuenfunddreissig Funde an neununddreissig Textstellen**. Geprueft
 wurde auf: Rueckbezuege, Wissensstand der Sprechenden, eingeloeste Zusagen,
 Zahlen, Daten und Wochentage, und die Regel, dass Georgij nichts Unwahres sagt.
 
