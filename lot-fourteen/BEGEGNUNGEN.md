@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 660 | 71 (b1ch01-b2ch49) | 1 | 74 |
-| Park Sang-hoon | 260 | 39 (b1ch10-b2ch48) | 1 | 74 |
+| Park Sang-hoon | 270 | 40 (b1ch10-b2ch50) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
 | Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
@@ -33,6 +33,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Bae | 31 | 7 (b1ch03-b2ch49) | 1 | 34 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Yeo | 30 | 6 (b1ch05-b2ch41) | 5 | 46 |
+| Mr Baek | 29 | 8 (b1ch05-b2ch50) | 2 | 55 |
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
 | Mr Ku | 28 | 19 (b1ch05-b2ch36) | 3 | 60 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
@@ -43,7 +44,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Ryu | 19 | 3 (b1ch07-b2ch38) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
-| Mr Baek | 10 | 7 (b1ch05-b2ch48) | 2 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -910,7 +910,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-260 Nennungen in 39 Kapiteln.
+270 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1174,6 +1174,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:194 | Sang-hoon looked at the folded sheet and did not touch it. |
 | 2 | b2ch48:214 | Sang-hoon looked at him for a long moment. |
 | 2 | b2ch48:246 | "I know it was not on purpose. You have not done anything on purpose since Saturday morn.. |
+| 10 | b2ch50:6 | Sang-hoon sent for him at ten in the morning, to his own office, which he has not done o.. |
+| 10 | b2ch50:22 | "This is Baek Jun-ho," said Sang-hoon. |
+| 10 | b2ch50:70 | Sang-hoon did it properly, which is to say he did not perform any of it. |
+| 10 | b2ch50:94 | "It is your question. I have been sitting in it since the twenty-sixth of May and I have.. |
+| 10 | b2ch50:186 | Sang-hoon looked at him and said nothing, which confirmed it. |
+| 10 | b2ch50:248 | He looked at Sang-hoon, and Sang-hoon looked back at him, and neither of them said anyth.. |
+| 10 | b2ch50:276 | "Take as long as you want," said Sang-hoon. |
+| 10 | b2ch50:352 | Georgij stayed behind for a moment, and Sang-hoon did not fill the silence, which he has.. |
+| 10 | b2ch50:360 | "He kept a copy for four years and did not know why." Sang-hoon turned his chair slightl.. |
+| 10 | b2ch50:388 | Sang-hoon looked at him for a while. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1295,6 +1305,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch45:259` (Tag 11) - one
 - `b2ch48:30` (Tag 2) - three
 - `b2ch48:126` (Tag 2) - eight, fifty-nine, four, one
+- `b2ch50:6` (Tag 10) - eight, ten
+- `b2ch50:94` (Tag 10) - sixty, twenty
+- `b2ch50:360` (Tag 10) - four, one
 
 ---
 
@@ -2769,6 +2782,66 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Baek
+
+29 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 2 | b2ch42:268 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 2 | b2ch42:276 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 2 | b2ch42:384 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+| 2 | b2ch48:190 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
+| 10 | b2ch50:22 | "This is Baek Jun-ho," said Sang-hoon. |
+| 10 | b2ch50:46 | Baek Jun-ho did not move at all. |
+| 10 | b2ch50:102 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
+| 10 | b2ch50:114 | "It is a set of instructions and a bank account, and nothing else. My job is to do what .. |
+| 10 | b2ch50:130 | "In eleven years I have never met anybody connected with it, been to the property, or sp.. |
+| 10 | b2ch50:142 | Baek thought about that. |
+| 10 | b2ch50:150 | "Four years ago the instructions were amended," said Baek. "That is the part Mr Park ask.. |
+| 10 | b2ch50:166 | "I wrote once, in the ordinary way. I received a very courteous letter explaining that t.. |
+| 10 | b2ch50:182 | "There is a second thing," said Baek, "and it is the reason I agreed to sit in this room.. |
+| 10 | b2ch50:190 | "In July, four years ago, I paid an invoice from a medical practice for a house call out.. |
+| 10 | b2ch50:206 | "I paid it," said Baek. "I paid it because it was properly rendered and inside the instr.. |
+| 10 | b2ch50:240 | "Say what it is," said Baek. "You know and I do not, and I have carried it for four year.. |
+| 10 | b2ch50:256 | Baek Jun-ho sat very still. |
+| 10 | b2ch50:272 | "I would like to sit for a moment," said Baek. |
+| 10 | b2ch50:292 | "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Ba.. |
+| 10 | b2ch50:300 | "Do not do that." Baek said it quite sharply, and it was the first time his voice had do.. |
+| 10 | b2ch50:312 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
+| 10 | b2ch50:324 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
+| 10 | b2ch50:344 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:44` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 51) - four, six
+- `b2ch42:268` (Tag 2) - one
+- `b2ch42:276` (Tag 2) - nineteen
+- `b2ch42:384` (Tag 2) - eleven
+- `b2ch48:190` (Tag 2) - eleven
+- `b2ch50:102` (Tag 10) - eleven, one
+- `b2ch50:130` (Tag 10) - eleven
+- `b2ch50:150` (Tag 10) - four
+- `b2ch50:166` (Tag 10) - four
+- `b2ch50:190` (Tag 10) - four
+- `b2ch50:206` (Tag 10) - eleven
+- `b2ch50:240` (Tag 10) - four
+- `b2ch50:292` (Tag 10) - one
+- `b2ch50:300` (Tag 10) - four
+- `b2ch50:312` (Tag 10) - one
+- `b2ch50:324` (Tag 10) - eleven
+
+---
+
 ## Mr Kwon
 
 29 Nennungen in 5 Kapiteln.
@@ -3216,36 +3289,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch29:16` (Tag 74) - six
 - `b1ch31:56` (Tag 74) - eleven, ten
 - `b2ch02:10` (Tag 53) - two
-
----
-
-## Mr Baek
-
-10 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 2 | b2ch42:268 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 2 | b2ch42:276 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 2 | b2ch42:384 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
-| 2 | b2ch48:190 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:44` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 51) - four, six
-- `b2ch42:268` (Tag 2) - one
-- `b2ch42:276` (Tag 2) - nineteen
-- `b2ch42:384` (Tag 2) - eleven
-- `b2ch48:190` (Tag 2) - eleven
 
 ---
 
