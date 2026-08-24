@@ -18,11 +18,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 620 | 67 (b1ch01-b2ch45) | 1 | 74 |
+| Annie | 627 | 68 (b1ch01-b2ch46) | 1 | 74 |
 | Park Sang-hoon | 233 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 128 | 29 (b1ch05-b2ch45) | 2 | 60 |
+| Jang | 135 | 30 (b1ch05-b2ch46) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 70 | 30 (b1ch03-b2ch45) | 1 | 74 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
@@ -37,8 +37,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Yeom | 25 | 3 (b2ch24-b2ch34) | 26 | 46 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
+| Choi Dae-ho | 19 | 11 (b1ch07-b2ch44) | 5 | 61 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
-| Choi Dae-ho | 18 | 10 (b1ch07-b2ch44) | 5 | 61 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Mr Baek | 9 | 6 (b1ch05-b2ch42) | 2 | 55 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-620 Nennungen in 67 Kapiteln.
+627 Nennungen in 68 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -657,14 +657,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:176 | Annie looked at the map on the desk without touching it. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
-| 5 | b2ch41:12 | A house call four years ago, in July, with the travelling costing about three times the .. |
-| 5 | b2ch41:82 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
-| 5 | b2ch41:98 | "Say the rest of what you have on him," said Annie. |
-| 5 | b2ch41:112 | Annie was quiet on the line for a moment. |
-| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
-| 5 | b2ch41:162 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
-| 5 | b2ch41:170 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
+| 5 | b2ch41:20 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
+| 5 | b2ch41:24 | He was not going to use it, and the reason had nothing to do with the rule Annie had giv.. |
+| 5 | b2ch41:36 | A house call four years ago, in July, with the travelling costing about three times the .. |
+| 5 | b2ch41:106 | He telephoned Annie from the small room instead of going to find her, because it felt li.. |
+| 5 | b2ch41:122 | "Say the rest of what you have on him," said Annie. |
+| 5 | b2ch41:136 | Annie was quiet on the line for a moment. |
+| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:178 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:186 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
+| 5 | b2ch41:194 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
 | 2 | b2ch42:102 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
 | 5 | b2ch43:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
 | 5 | b2ch43:166 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
@@ -682,6 +684,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch45:243 | Annie sat down on the edge of the desk with her back half to him and looked at the open .. |
 | 11 | b2ch45:275 | "You have written that sentence twice," said Annie. |
 | 11 | b2ch45:287 | He finished the line. Annie came off the edge of the desk and sat down on the floor at t.. |
+| 2 | b2ch46:84 | Annie was at the desk with the ledger open and did not close it. |
+| 2 | b2ch46:104 | Annie put the pen down across the ledger. |
+| 2 | b2ch46:128 | Annie was quiet for a moment, and when she spoke it was not about the machine. |
+| 2 | b2ch46:160 | Annie looked at him for what felt like a long time and was probably three seconds. |
+| 2 | b2ch46:250 | He wrote both options down with the reason under each, and the second one at the bottom,.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -839,17 +846,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:204` (Tag 61) - two
 - `b2ch39:252` (Tag 61) - eight
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:12` (Tag 5) - four, one, three
-- `b2ch41:132` (Tag 5) - one
-- `b2ch41:154` (Tag 5) - four, two
-- `b2ch41:162` (Tag 5) - one, two
-- `b2ch41:170` (Tag 5) - four, one, two
+- `b2ch41:20` (Tag 5) - eight
+- `b2ch41:36` (Tag 5) - four, one, three
+- `b2ch41:156` (Tag 5) - one
+- `b2ch41:178` (Tag 5) - four, two
+- `b2ch41:186` (Tag 5) - one, two
+- `b2ch41:194` (Tag 5) - four, one, two
 - `b2ch42:102` (Tag 2) - eighteen
 - `b2ch43:10` (Tag 5) - three, two
 - `b2ch43:194` (Tag 5) - eighteen, four, one
 - `b2ch43:214` (Tag 5) - four
 - `b2ch45:10` (Tag 11) - one
 - `b2ch45:287` (Tag 11) - two
+- `b2ch46:160` (Tag 2) - three
+- `b2ch46:250` (Tag 2) - one
 
 ---
 
@@ -1045,8 +1055,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:262 | "He let Sang-hoon find out," he said slowly, "on purpose." |
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
-| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
-| 5 | b2ch41:154 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
+| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:178 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 2 | b2ch42:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
 | 2 | b2ch42:14 | "I have had a week longer because a registry does not care how impatient either of us is.. |
 | 2 | b2ch42:22 | "Four owners is not four names," said Sang-hoon. "It is four holding companies, each one.. |
@@ -1173,8 +1183,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:252` (Tag 61) - eight
 - `b2ch39:258` (Tag 61) - hundred and forty
 - `b2ch40:214` (Tag 3) - four
-- `b2ch41:132` (Tag 5) - one
-- `b2ch41:154` (Tag 5) - four, two
+- `b2ch41:156` (Tag 5) - one
+- `b2ch41:178` (Tag 5) - four, two
 - `b2ch42:6` (Tag 2) - four
 - `b2ch42:22` (Tag 2) - four, one, three
 - `b2ch42:30` (Tag 2) - eleven, one
@@ -1691,7 +1701,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-128 Nennungen in 29 Kapiteln.
+135 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1809,7 +1819,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:218 | Jang stood up and put the map back in his coat. |
 | 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
-| 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
+| 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
 | 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
@@ -1823,6 +1833,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch44:138 | "Understood," said Georgij, and Jang rang off. |
 | 8 | b2ch44:186 | "Jang thinks the van comes only when it is called for, not on a route," said Georgij. "I.. |
 | 11 | b2ch45:34 | Three days ago he had written down Jang's van and Jang's schedule in the order Jang had .. |
+| 2 | b2ch46:10 | Jang had given him three things without being asked for any of them. Three characters. T.. |
+| 2 | b2ch46:14 | Industrial gas is a licensed trade and the licences are listed by province, because a co.. |
+| 2 | b2ch46:26 | Jang was going to stand on that road on the sixteenth. He was going to wait for a van in.. |
+| 2 | b2ch46:34 | He telephoned Jang before he had decided anything else. |
+| 2 | b2ch46:50 | Jang made a short sound that was not quite agreement. |
+| 2 | b2ch46:108 | "Then say what has changed tonight, and do not tell me it is Jang, because you would hav.. |
+| 2 | b2ch46:116 | "The intervals," he said. "Jang says the van comes when it is called for, on nobody's ro.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -1876,7 +1893,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:116` (Tag 3) - one, two
 - `b2ch40:148` (Tag 3) - sixteen
 - `b2ch40:228` (Tag 3) - one, six
-- `b2ch41:132` (Tag 5) - one
+- `b2ch41:156` (Tag 5) - one
 - `b2ch42:190` (Tag 2) - eleven, one, two
 - `b2ch44:10` (Tag 8) - eleven, sixteen
 - `b2ch44:98` (Tag 8) - one
@@ -1884,6 +1901,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch44:134` (Tag 8) - one
 - `b2ch44:186` (Tag 8) - four, one
 - `b2ch45:34` (Tag 11) - one, three
+- `b2ch46:10` (Tag 2) - one, three
+- `b2ch46:14` (Tag 2) - four, one, six, three, two
+- `b2ch46:26` (Tag 2) - four
+- `b2ch46:116` (Tag 2) - four
 
 ---
 
@@ -2180,7 +2201,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:40 | *Jeon Mi-ja* |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
-| 5 | b2ch41:30 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
+| 5 | b2ch41:54 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:162 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
 | 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
@@ -2206,7 +2227,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
-- `b2ch41:30` (Tag 5) - forty, one, six
+- `b2ch41:54` (Tag 5) - forty, one, six
 - `b2ch42:162` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
 - `b2ch43:66` (Tag 5) - forty, one
@@ -2852,6 +2873,48 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Choi Dae-ho
+
+19 Nennungen in 11 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
+| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
+| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
+| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
+| 5 | b2ch41:32 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
+| 8 | b2ch44:210 | "I looked at K again as well, before I came up," he said. "A club membership list is a k.. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+- `b2ch33:50` (Tag 45) - four, one, two
+- `b2ch34:42` (Tag 46) - four, one, six, two
+- `b2ch36:12` (Tag 51) - four, one
+- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
+- `b2ch36:136` (Tag 51) - three
+- `b2ch39:136` (Tag 61) - one
+- `b2ch43:18` (Tag 5) - one
+- `b2ch43:130` (Tag 5) - one, six
+
+---
+
 ## Mr Byun
 
 19 Nennungen in 2 Kapiteln.
@@ -2888,47 +2951,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:238` (Tag 17) - two
 - `b2ch22:274` (Tag 17) - twenty-six
 - `b2ch23:16` (Tag 24) - one, three
-
----
-
-## Choi Dae-ho
-
-18 Nennungen in 10 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
-| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
-| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
-| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
-| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
-| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
-| 8 | b2ch44:210 | "I looked at K again as well, before I came up," he said. "A club membership list is a k.. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
-- `b2ch33:50` (Tag 45) - four, one, two
-- `b2ch34:42` (Tag 46) - four, one, six, two
-- `b2ch36:12` (Tag 51) - four, one
-- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
-- `b2ch36:136` (Tag 51) - three
-- `b2ch39:136` (Tag 61) - one
-- `b2ch43:18` (Tag 5) - one
-- `b2ch43:130` (Tag 5) - one, six
 
 ---
 
