@@ -718,12 +718,21 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT UND NICHT YEOM.** Annie waehlte Y
-  zuerst (Kapitel 38); Sang-hoon nannte Yeom, Georgij hat ihn selbst entlastet,
-  weil Yeom laut Kapitel 25 Empfaenger und nicht Sprecher des Anrufer-Tics war.
-  **Faellig: die Restaurant-Buchpruefung, ob Yeom ueberhaupt in der Naehe des
-  Kartenabends war** - angekuendigt, noch nicht geschrieben. **S, H, K bleiben
-  komplett offen.**
+- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT, YEOM VOLLSTAENDIG ENTLASTET, DER
+  KARTENVORSCHLAEGER IMMER NOCH NAMENLOS.** Restaurant-Buchpruefung erledigt
+  (Kapitel 39): zwei Maenner, kein Dritter, Yeom war nie im Raum. Der Begleiter
+  hat gegessen - **also nicht Choi Dae-ho persoenlich, sondern ein Mittelsmann,
+  freundlich, aeltere Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
+  **S, H, K bleiben komplett offen.**
+
+- **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
+  dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,
+  sobald die Spur kalt war. **Faellig: derselbe Mittelsmann wie beim Kartenabend,
+  oder eine dritte Person.** Und die schwere, unbewiesene Vermutung aus
+  Kapitel 39: **Choi hat Sang-hoon womoeglich absichtlich erfahren lassen**,
+  weil ein langsames Lecken durch einen Mann mit acht Jahren Hebel guenstiger
+  ist als eine kalte Enttarnung durch einen Fremden. Weder bestaetigt noch
+  verworfen.
 
 - **DAS PFLEGEHEIM AUSSERHALB WONJUS.** Noch nicht bestaetigt als die zweite
   Blumenadresse. Sang-hoon ermittelt ab jetzt parallel und unabhaengig ueber

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 141.354 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 142.468 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -140,10 +140,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
   - [Shin](#shin)
+  - [Mr Baek](#mr-baek)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
-  - [Mr Baek](#mr-baek)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
   - [Eun-ju](#eun-ju)
@@ -2401,6 +2401,16 @@ nachrechnen, und `check.py` tut das automatisch.
   Kartenabend gewesen sein. **Ein geteilter Anfangsbuchstabe ist kein Hinweis,
   nur der Schatten von einem.** Yeom bleibt vorlaeufig entlastet, die
   Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 38)
+- Tag 259, Fr 19. Juni: **die Restaurant-Buchpruefung.** Vier Lokale bei Sinsa
+  haben seit letztem Juli den Besitzer gewechselt; das gesuchte gehoert jetzt
+  einer Frau, die nichts vom Vorbesitzer Mr Baek hat ausser einer kaputten
+  Kaffeemaschine - **und die im April bereits einen zweiten Fragesteller
+  hatte**, der beim ersten toten Punkt sofort abzog. Baek selbst, zwei Strassen
+  weiter, bestaetigt: zwei Maenner, kein Dritter, **Yeom vollstaendig
+  entlastet.** Der Begleiter, der die Karten vorschlug, hat gegessen - **also
+  nicht Choi Dae-ho selbst**, sondern jemand in dessen Auftrag. Annie und
+  Georgij ziehen am Abend eine unbewiesene, schwere Vermutung: **Choi hat
+  Sang-hoon womoeglich absichtlich erfahren lassen** (Band 2, Kapitel 39)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3903,9 +3913,20 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.0) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+
+  **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
+
+  **Ein Aufraeumer, der sein eigenes Werk ein zweites Mal prueft, ist kein aengstlicher Mann.** *"He checks once, and he checks early, and he does not come back unless he has a reason to think somebody else might be looking."*
+
+  **Baek selbst bestaetigt das Wesentliche: zwei Maenner, kein Dritter - Yeom vollstaendig entlastet**, diesmal nicht vorlaeufig wie am Mittwoch. Und eine neue, praezise Probe: *"Did he eat."* **Der Kartenvorschlaeger hat gegessen, langsam, mit Kompliment an die Kueche - also nicht Choi Dae-ho selbst**, dessen Tick seit Kapitel 26 das genaue Gegenteil ist. Es gibt mindestens eine weitere Person in diesem Geflecht, die noch keinen Namen hat.
+
+  **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
+
 ---
 
 ## Die Wut, die niemand sieht ausser Annie
+
 
 **Festgelegt am 23.08. vom Autor.** Georgij ist seit dem **18. Maerz** in kalter
 Wut, seit dem Augenblick, in dem Nam Byung-hees Brief auf dem Tisch lag. Nicht
@@ -5598,12 +5619,21 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT UND NICHT YEOM.** Annie waehlte Y
-  zuerst (Kapitel 38); Sang-hoon nannte Yeom, Georgij hat ihn selbst entlastet,
-  weil Yeom laut Kapitel 25 Empfaenger und nicht Sprecher des Anrufer-Tics war.
-  **Faellig: die Restaurant-Buchpruefung, ob Yeom ueberhaupt in der Naehe des
-  Kartenabends war** - angekuendigt, noch nicht geschrieben. **S, H, K bleiben
-  komplett offen.**
+- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT, YEOM VOLLSTAENDIG ENTLASTET, DER
+  KARTENVORSCHLAEGER IMMER NOCH NAMENLOS.** Restaurant-Buchpruefung erledigt
+  (Kapitel 39): zwei Maenner, kein Dritter, Yeom war nie im Raum. Der Begleiter
+  hat gegessen - **also nicht Choi Dae-ho persoenlich, sondern ein Mittelsmann,
+  freundlich, aeltere Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
+  **S, H, K bleiben komplett offen.**
+
+- **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
+  dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,
+  sobald die Spur kalt war. **Faellig: derselbe Mittelsmann wie beim Kartenabend,
+  oder eine dritte Person.** Und die schwere, unbewiesene Vermutung aus
+  Kapitel 39: **Choi hat Sang-hoon womoeglich absichtlich erfahren lassen**,
+  weil ein langsames Lecken durch einen Mann mit acht Jahren Hebel guenstiger
+  ist als eine kalte Enttarnung durch einen Fremden. Weder bestaetigt noch
+  verworfen.
 
 - **DAS PFLEGEHEIM AUSSERHALB WONJUS.** Noch nicht bestaetigt als die zweite
   Blumenadresse. Sang-hoon ermittelt ab jetzt parallel und unabhaengig ueber
@@ -6874,8 +6904,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 577 | 60 (b1ch01-b2ch38) | 1 | 74 |
-| Park Sang-hoon | 174 | 31 (b1ch10-b2ch38) | 1 | 74 |
+| Annie | 583 | 61 (b1ch01-b2ch39) | 1 | 74 |
+| Park Sang-hoon | 184 | 32 (b1ch10-b2ch39) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Jang | 90 | 24 (b1ch05-b2ch35) | 3 | 60 |
@@ -6895,10 +6925,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Choi Dae-ho | 13 | 7 (b1ch07-b2ch36) | 22 | 56 |
+| Mr Baek | 15 | 6 (b1ch05-b2ch39) | 6 | 61 |
+| Choi Dae-ho | 14 | 8 (b1ch07-b2ch39) | 22 | 61 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
-| Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Eun-ju | 4 | 3 (b1ch05-b1ch14) | 6 | 34 |
@@ -6914,7 +6944,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-577 Nennungen in 60 Kapiteln.
+583 Nennungen in 61 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7495,6 +7525,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:218 | Annie looked at him properly then, the way she does when a sentence has told her more th.. |
 | 59 | b2ch38:240 | Annie considered him for a moment. |
 | 59 | b2ch38:272 | Annie looked at him for a while, the wind doing what it does to hair and to nothing else.. |
+| 61 | b2ch39:156 | He telephoned Sang-hoon that evening, from the house, on a line Annie had already told h.. |
+| 61 | b2ch39:200 | Annie was still in the library when he brought her the notebook, and she read the two li.. |
+| 61 | b2ch39:212 | Annie sat with that for a moment. |
+| 61 | b2ch39:236 | "Before you were anywhere near this," said Annie, "which means it was not you he suspect.. |
+| 61 | b2ch39:248 | "Sang-hoon gave you the name for nothing, in a shed, of his own accord," said Annie. "A .. |
+| 61 | b2ch39:262 | "I do not know that yet, and neither do you," said Annie. "But it is the first time eith.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7649,12 +7685,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch38:6` (Tag 59) - one
 - `b2ch38:180` (Tag 59) - four
 - `b2ch38:196` (Tag 59) - one
+- `b2ch39:200` (Tag 61) - two
+- `b2ch39:248` (Tag 61) - eight
 
 ---
 
 ### Park Sang-hoon
 
-174 Nennungen in 31 Kapiteln.
+184 Nennungen in 32 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7832,6 +7870,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:134 | Sang-hoon made a sound that might have been approval, and might equally have been the so.. |
 | 59 | b2ch38:166 | "Because he is already on the wrong end of that sentence." Georgij stood at the edge of .. |
 | 59 | b2ch38:206 | "I am not disappointed. I am relieved." He looked at the hedge rather than at her. "And .. |
+| 61 | b2ch39:64 | Somebody had already come asking about that dinner in April, weeks before Sang-hoon had .. |
+| 61 | b2ch39:128 | "It matters because a man I am looking for never eats in front of anybody he is working .. |
+| 61 | b2ch39:156 | He telephoned Sang-hoon that evening, from the house, on a line Annie had already told h.. |
+| 61 | b2ch39:164 | Sang-hoon did not say anything for a moment. |
+| 61 | b2ch39:176 | "That is not caution," said Sang-hoon. "That is a man who does this often enough to have.. |
+| 61 | b2ch39:184 | "Good," said Sang-hoon. "I did not want it to be him either, and I notice that neither d.. |
+| 61 | b2ch39:244 | "Sang-hoon," said Georgij. |
+| 61 | b2ch39:248 | "Sang-hoon gave you the name for nothing, in a shed, of his own accord," said Annie. "A .. |
+| 61 | b2ch39:254 | He thought about the shed, and the way Sang-hoon had said the name flatly, without being.. |
+| 61 | b2ch39:258 | "He let Sang-hoon find out," he said slowly, "on purpose." |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -7910,6 +7958,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch38:86` (Tag 59) - one
 - `b2ch38:166` (Tag 59) - four, one
 - `b2ch38:206` (Tag 59) - one
+- `b2ch39:248` (Tag 61) - eight
+- `b2ch39:254` (Tag 61) - hundred and forty
 
 ---
 
@@ -9551,9 +9601,45 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Baek
+
+15 Nennungen in 6 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 61 | b2ch39:44 | "Mr Baek. I have not spoken to him since the day I signed. My solicitor has an address f.. |
+| 61 | b2ch39:70 | He found Mr Baek two streets over, at a smaller place with no sign at all, cooking for r.. |
+| 61 | b2ch39:74 | Mr Baek remembered the room, the date, and the party of two, because he had done the ord.. |
+| 61 | b2ch39:86 | Mr Baek thought about that properly, the way a man thinks who is used to being asked wha.. |
+| 61 | b2ch39:94 | "I do not know a Yeom," said Mr Baek, before Georgij could ask. "I know a party of two, .. |
+| 61 | b2ch39:102 | Mr Baek considered that the way a man considers a dish he cooked once, a long time ago, .. |
+| 61 | b2ch39:114 | Mr Baek looked at him properly for the first time in the conversation. |
+| 61 | b2ch39:124 | "He ate," said Mr Baek. "Slowly, and he finished the plate, and he told me it was the be.. |
+| 61 | b2ch39:140 | "The older one. About ten minutes before the other, on his own, no goodbye that carried .. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:44` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 51) - four, six
+- `b2ch39:44` (Tag 61) - one
+- `b2ch39:70` (Tag 61) - one, two
+- `b2ch39:74` (Tag 61) - two
+- `b2ch39:94` (Tag 61) - two
+- `b2ch39:140` (Tag 61) - one, ten
+
+---
+
 ### Choi Dae-ho
 
-13 Nennungen in 7 Kapiteln.
+14 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9570,6 +9656,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
 | 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
 | 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 61 | b2ch39:132 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -9581,6 +9668,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:12` (Tag 51) - four, one
 - `b2ch36:60` (Tag 51) - eleven, four, one, thirty
 - `b2ch36:124` (Tag 51) - three
+- `b2ch39:132` (Tag 61) - one
 
 ---
 
@@ -9631,28 +9719,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch03:150` (Tag 1) - forty
 - `b1ch05:128` (Tag 4) - one, three, two
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-
----
-
-### Mr Baek
-
-6 Nennungen in 5 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:212 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:44 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:44` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 51) - four, six
 
 ---
 

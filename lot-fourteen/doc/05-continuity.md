@@ -284,6 +284,16 @@ nachrechnen, und `check.py` tut das automatisch.
   Kartenabend gewesen sein. **Ein geteilter Anfangsbuchstabe ist kein Hinweis,
   nur der Schatten von einem.** Yeom bleibt vorlaeufig entlastet, die
   Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 38)
+- Tag 259, Fr 19. Juni: **die Restaurant-Buchpruefung.** Vier Lokale bei Sinsa
+  haben seit letztem Juli den Besitzer gewechselt; das gesuchte gehoert jetzt
+  einer Frau, die nichts vom Vorbesitzer Mr Baek hat ausser einer kaputten
+  Kaffeemaschine - **und die im April bereits einen zweiten Fragesteller
+  hatte**, der beim ersten toten Punkt sofort abzog. Baek selbst, zwei Strassen
+  weiter, bestaetigt: zwei Maenner, kein Dritter, **Yeom vollstaendig
+  entlastet.** Der Begleiter, der die Karten vorschlug, hat gegessen - **also
+  nicht Choi Dae-ho selbst**, sondern jemand in dessen Auftrag. Annie und
+  Georgij ziehen am Abend eine unbewiesene, schwere Vermutung: **Choi hat
+  Sang-hoon womoeglich absichtlich erfahren lassen** (Band 2, Kapitel 39)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1786,9 +1796,20 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.0) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+
+  **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
+
+  **Ein Aufraeumer, der sein eigenes Werk ein zweites Mal prueft, ist kein aengstlicher Mann.** *"He checks once, and he checks early, and he does not come back unless he has a reason to think somebody else might be looking."*
+
+  **Baek selbst bestaetigt das Wesentliche: zwei Maenner, kein Dritter - Yeom vollstaendig entlastet**, diesmal nicht vorlaeufig wie am Mittwoch. Und eine neue, praezise Probe: *"Did he eat."* **Der Kartenvorschlaeger hat gegessen, langsam, mit Kompliment an die Kueche - also nicht Choi Dae-ho selbst**, dessen Tick seit Kapitel 26 das genaue Gegenteil ist. Es gibt mindestens eine weitere Person in diesem Geflecht, die noch keinen Namen hat.
+
+  **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
+
 ---
 
 ## Die Wut, die niemand sieht ausser Annie
+
 
 **Festgelegt am 23.08. vom Autor.** Georgij ist seit dem **18. Maerz** in kalter
 Wut, seit dem Augenblick, in dem Nam Byung-hees Brief auf dem Tisch lag. Nicht
