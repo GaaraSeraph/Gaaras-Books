@@ -147,6 +147,44 @@ der Anfang.
 jemand anders? Zweimal nacheinander *jemand anders* ist derselbe Fehler wie
 oben, in besseren Kleidern.
 
+---
+
+### Die Kette zwischen den beiden, und wie oft sie faellig ist
+
+**Festgelegt am 25.08. vom Autor.**
+
+1. **Etwa alle zwanzig Kapitel eine wirklich romantische Szene.** Nicht eine
+   Beruehrung im Vorbeigehen, sondern eine Szene, die dafuer da ist. Zuletzt
+   gezaehlt: Band 2, Kapitel 18 (die Hand am Hals ueber dem Halsband). Seither
+   sechsunddreissig Kapitel. **Ueberfaellig.**
+2. **Dazwischen kleine Dinge von ihr**, und sie muessen tatsaechlich vorkommen
+   und nicht nur moeglich sein. Die Hand im Haar steht in Band 2, Kapitel 9 und
+   20 und dann bis Kapitel 55 nicht mehr - dreieinhalb Monate Erzaehlzeit ohne
+   eine einzige. Das ist keine Kurve, das ist ein Loch.
+3. **Und der Anlauf auf die Schlusszeile laeuft ueber Erschoepfung, nicht ueber
+   Ruhe.** Kapitel 48 bricht den Satz selbst ab, Kapitel 54 vertagt Klausel vier
+   auf September. Beides zieht an. Beides darf nicht aufgeloest werden, bevor es
+   reisst.
+
+### Die Rangordnung im Haus, und sie ist absolut
+
+**Ebenfalls am 25.08. vom Autor, nach einem Fund in Kapitel 40.**
+
+**Auf Augenhoehe mit Annie redet in diesem Haus ausschliesslich Georgij.** Das
+ist sein Vorrecht, es ist in Band 1 bezahlt worden, und es ist eines der wenigen
+Dinge, die er tatsaechlich hat.
+
+**Jang hat in Kapitel 40 (v2.0) mit ihr geredet wie ein Kollege:** er hat ihre
+Frage umformuliert (*"not what sounds tidy"*), sie mit Georgij zu einem *"both of
+you"* zusammengefasst und angekuendigt, er werde etwas trotzdem sagen. Ein Mann
+mit dreissig Jahren in diesem Gewerbe, der fuer sie arbeitet, tut nichts davon.
+Repariert in v2.1: er antwortet, er formuliert nicht um, er richtet den Bericht
+an den, der ihn geholt hat, und fuer den einen harten Satz wartet er, bis sie
+einen Finger vom Tisch nimmt.
+
+**Die Probe:** Wuerde die Figur diesen Satz zu jemandem sagen, der sie bezahlt?
+Wenn nein, gehoert er Georgij oder er gehoert niemandem.
+
 **Und die Grenze bleibt, was sie war:** `doc/02-leads.md` sagt, wo sein
 Verfahren endet - Namen ohne Gesichter, und geschlossen wird das nur ueber den
 Mund eines anderen Menschen. **Genau das ist in Band 2 dreimal liegen

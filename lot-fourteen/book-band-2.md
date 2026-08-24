@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 54 Kapitel, 131.726 Woerter.
+Book Two, 55 Kapitel, 133.967 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -50,8 +50,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
 | 39 | v2.0 | 2.942 |
-| 40 | v2.0 | 2.769 |
-| 41 | v2.1 | 3.904 |
+| 40 | v2.1 | 2.762 |
+| 41 | v2.1 | 4.094 |
 | 42 | v2.0 | 3.360 |
 | 43 | v2.0 | 2.816 |
 | 44 | v2.0 | 2.516 |
@@ -65,6 +65,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 52 | v1.0 | 2.311 |
 | 53 | v1.0 | 2.494 |
 | 54 | v1.0 | 2.499 |
+| 55 | v1.0 | 2.058 |
 
 ---
 
@@ -8352,7 +8353,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 40: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8372,7 +8373,7 @@ Annie had a notepad open and had written nothing on it since Jang sat down. It i
 
 "Sixteen days," she said. "Not fourteen, not a fortnight. Say why sixteen."
 
-"Because that is what I actually watched, not what sounds tidy," said Jang. "The first few were spent finding the lay-by and working out which hours were worth sitting in it. I do not report a figure I have not earned."
+"Sixteen is what I watched," said Jang, to Georgij, because it was Georgij who had hired him. "The first few days went on finding the lay-by and working out which hours were worth sitting in. I have not counted those."
 
 "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, marked for a facility, no name on the van that I could read from that distance. Fridays, a grocery order large enough for more than a family and small enough that it is not catering for a hotel. I counted the crates going in on three separate Fridays and they did not vary by more than one."
 
@@ -8416,7 +8417,7 @@ Georgij sat very still.
 
 "And the third," said Georgij.
 
-"The third is not mine to say in front of both of you," said Jang, "and I am going to say it anyway, because you asked me for guesses and not for comfort. A woman who stands at a window at the same hour every afternoon is not confined to a bed. She is confined to a building, and there is a difference, and the difference means somebody made a decision about what kind of a life she was allowed to have left, rather than deciding to end it."
+"The third one is not mine to say in this room," said Jang. He waited, and Annie moved one finger off the desk, and he went on. "A woman who stands at a window at the same hour every afternoon is not confined to a bed. She is confined to a building, and there is a difference, and the difference means somebody made a decision about what kind of a life she was allowed to have left, rather than deciding to end it."
 
 Nobody said anything for a while.
 
@@ -8434,13 +8435,13 @@ Georgij looked at the map, still folded, still in Jang's hands.
 
 "You said a scale," he said. "Where does this sit on it."
 
-"Above the middle of it," said Jang. "Not anywhere near the top." He looked between them once. "I am not going to lie to either of you to make the morning easier. I am not going to make it worse than it is either, because both of those are the same failure with a different direction."
+"Above the middle of it," said Jang. "Not anywhere near the top." He looked at the folded map rather than at either of them. "I will not make it easier than it is to get out of this room, and I will not make it worse to sound useful. Those are the same failure pointing in different directions."
 
 Nobody in the room said anything for a while.
 
 "That is either the kindest thing anybody has told me about this in four years," said Georgij, "or it is the worst, and I have not decided which."
 
-"It is both," said Jang. "I have been doing this kind of work for a long time, and it is almost always both."
+"It is both," said Jang. "In this kind of work it is almost always both, and I have stopped expecting otherwise."
 
 Annie looked at the map on the desk without touching it.
 
@@ -8547,7 +8548,11 @@ He told every one of them the same true thing. That he was looking for a man, th
 
 The first three gave him nothing.
 
+<<<<<<< HEAD
 One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fitted. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
+=======
+One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fit. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
+>>>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 Three hours, three kitchens, three more lines on the second page.
 
@@ -8561,11 +8566,19 @@ Georgij put his hands in his coat pockets so that they would have something to d
 
 "Older man, very pleasant. He came four or five times over the years, always a private room, always with somebody else, and he always came out to the pass on his way through and asked what was in something." The cook wiped down a board he had already wiped. "Not the way people ask. He listened to the answer. And he used my name afterward, which nobody does, because nobody learns it."
 
+<<<<<<< HEAD
 "When was the last one."
+=======
+"When was the last one?"
+>>>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 "Two years, near enough. Possibly more." He thought about it. "I could not swear to a month."
 
+<<<<<<< HEAD
 "Did he book it himself."
+=======
+"Did he book it himself?"
+>>>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 "He is not the sort of man who is on the door, if that is what you are asking. Somebody books and somebody pays and it is not always the same one, and I am at the other end of the building for both of those." The cook shrugged. "Ask the front. Ask Mrs Bae at the fifth place if you want a woman who has never in her life forgotten a booking."
 
@@ -8697,7 +8710,11 @@ Georgij sat with that for a while, at the desk, before he wrote it down.
 
 *Lapsed licence, not closed licence. A practice that was allowed to disappear rather than told to. Nobody chose that. It simply happened, and it was allowed to.*
 
+<<<<<<< HEAD
 The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people's kitchens.
+=======
+The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people’s kitchens.
+>>>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 The other of the two, the one whose name meant nothing to him, took longer to close out, because closing it out properly meant reading rather than guessing.
 
@@ -11301,3 +11318,194 @@ He wrote it up at half past nine, on the first page, and it is four lines long.
 And then, on the second page, because the second page gets everything:
 
 *Mrs Seo, since ten past nine this morning, and she is not on this page because she found something out. She is on it because she handed a man a key without asking him a single question, and I have not decided whether that is trust or nine years of a household learning not to.*
+
+---
+
+# Book Two · Chapter 55: Consigned by
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Thirteen · Wednesday 12 August
+
+It took three days, exactly as Mr Yeom had said it would, and then it took two more because the post is the post.
+
+He brought it himself rather than telephoning, at half past ten in the morning, in a car he had driven, and he did not come in.
+
+"I have not opened it," he said, at the gate. "It has my name on it and I have not opened it, and I have been sitting outside your gate for six minutes deciding whether that was principle or cowardice."
+
+"It is your letter."
+
+"It is not my letter." He handed it across. "I have been a director of that fund for eight months and I have opened one folder in that time, and I am not going to make the first thing I read properly be this."
+
+He turned the car round in the road and went.
+
+* * *
+
+It is one sheet, on the house's paper, and it is headed *Statement of Record* and then, underneath, *furnished under clause 11*.
+
+The first paragraph acknowledges the request and quotes the clause back at itself. The statement has been prepared from the permanent series, it says, and entered in the permanent series under the reference of the lot to which it relates.
+
+The entry number of the statement is given. It is the next number in the sequence.
+
+Georgij read that line twice before he read anything else, because it is the whole thing and everything after it is content.
+
+*It exists. As of the tenth of August there is an entry in a permanent series, under her number, in a house that cannot take an entry out.*
+
+*Whatever else happens this year, that is now true and stays true, and I did it with a drawer key and eleven pages and a man who changed one word.*
+
+* * *
+
+Then he read the rest, and it was not what he had built the letter for.
+
+He had built it for *nil*.
+
+The record is not nil.
+
+* * *
+
+The renumbering.
+
+Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps forty times since, and he has never once thought about what it actually required a man to do.
+
+Thirty years, four systems, one sequence. A man came into that building in the autumn and went through three decades of paper and gave every lot in the history of the house a permanent number.
+
+Including the ones that were not there any more.
+
+A man who is tidying finds a gap. A man who is proud of his tidiness does not skip it. He writes down that there is a gap, and where the gap is, and what he could recover about what used to be in it, because a sequence with a silent hole in it is not a sequence.
+
+The strike-through in the old book removed the line.
+
+The renumbering, three years later, recorded that a line had been removed, under a permanent number, in a series that nothing comes out of.
+
+*He did not know what he was doing. He was doing his job better than anybody has ever done it in that building. It is the most dangerous thing anybody in this business has done to that man in twenty years, and he did it with a pencil in the autumn.*
+
+* * *
+
+The statement runs to eleven lines.
+
+It gives the lot reference and the date of entry into the old series, which is the twelfth of February, four years ago. Georgij sat down when he read it, because he has been carrying the spring in his head since May.
+
+She was in that book from February. Not from the spring. She was catalogued, and held, and open, for seven weeks before the sale at which she was not sold.
+
+It gives the date of removal from the old series.
+
+It gives the fact of removal and does not give a reason, because the old book did not record one and the man who made the new series would not invent one.
+
+And it gives, because the old book gave it, and because a house that renumbered everything did not renumber selectively, the field that every lot in that building has had since the place opened.
+
+*Consigned by.*
+
+* * *
+
+There is a name in it.
+
+There is a name and there is an address, and the address is four streets from a building in Seodaemun with eight flats and a lift bolted on the outside.
+
+Georgij sat in the small room with a sheet of paper on the desk and two vases of white stems going over at different rates, and did not move for about four minutes.
+
+He has spent three months asking who took her out.
+
+It has not occurred to him once, in three months, to ask who brought her in.
+
+* * *
+
+*Somebody walked her into that building.*
+
+*Somebody filled in a form and gave an address four streets from her own. The house took her and catalogued her and held her open for seven weeks. Then a man telephoned Mr Yeom and asked him for a favour on behalf of somebody who would be grateful.*
+
+*The favour was not the beginning. The favour was the tidying up afterward.*
+
+He wrote that and then made himself write the next part, because it was the part he did not want.
+
+*Everything I have built since May has been about a man who arranges things and a man who is pleasant to kitchens and a woman who has been kept in a house for eleven years.*
+
+*None of them put her in that book. A person with an address did that, and the address is four streets from hers, and there is exactly one kind of person who lives four streets from you and can walk you into a building like that.*
+
+* * *
+
+He did not take it up to her straight away.
+
+He sat with it for two hours and did the whole of it himself, on the page, in the order it came, and he made himself write the second reading before he was pleased with the first one.
+
+*Seven weeks catalogued and open and not sold. A lot goes in and goes out. Seven weeks is what happens when a house is holding a thing for somebody who has not decided yet.*
+
+*Or for somebody who has decided and is waiting for a reason, and I would like it on this page that the second one took me forty minutes longer than the first and that I did not want it.*
+
+And the other half, which he wrote standing up.
+
+*A person who walks a member of their own family into a building like that has told themselves a story about it. They have had four years to make it a good one, and I am going to walk into a room where somebody believes it.*
+
+*I could take it off them. It is what I have been doing since June and it works and it would work on this one, and it would get me a name and a date and it would end a person.*
+
+*And I am going to that address inside a fortnight, and both of those sentences are true at once, and I am writing them one under the other so that neither of them gets to be the only one.*
+
+He read the two pages back and noticed something that had not been true since about the middle of June.
+
+He had not brought any of it upstairs to have it turned over.
+
+* * *
+
+She came down at half past eleven, which she does not do.
+
+"You have been down here since ten," she said.
+
+"I have."
+
+"Say what it is, and say it finished, because you have had thirteen hours and I am not going to do the interesting part for you at this hour."
+
+He gave it to her finished, in four minutes, both readings, and the fortnight, and the thing about the story that a family tells itself.
+
+Annie listened to the whole of it standing in the doorway with one hand on the frame.
+
+"Good," she said, when he had stopped.
+
+"That is all."
+
+"That is all, because there is nothing left in it for me to do." She came in properly then. "In June you brought me halves. That was correct in June. It has not been correct since about the end of July and I have been waiting to see how long it would take you to stop."
+
+Georgij sat with that.
+
+"I have been using you as the second half of my own head," he said.
+
+"You have. And I have let you, because it is my house and my money and the line on that page is mine, and it has been very easy for both of us to call it ours." Annie did not soften it. "It is not ours. The part you are doing now is yours. You have been calling it my business since May and it stopped being my business on the day you started counting kitchens."
+
+Neither of them said anything for a moment.
+
+"Then I will stop saying it," said Georgij.
+
+"Do not stop saying it to me. Stop saying it to yourself." She looked at the sheet on the desk. "That is a piece of paper that exists because you read a clause in a contract nobody has ever read. There is no version of this month in which that is mine."
+
+He did not answer, because there was nothing to put next to it.
+
+Annie came round the desk and stood behind the chair.
+
+She has not done that since the thirtieth of April.
+
+She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it. She left it there while she read the eleven lines over his shoulder.
+
+Georgij closed his eyes and did not move at all.
+
+"You have not slept properly since the eighteenth of July," she said.
+
+"No."
+
+"I know. I have not said anything about it for three weeks because you were doing something and I was not going to be the reason it stopped." Her hand did not move. "It is finished for tonight. The address is four streets from a flat and it has been there for four years and it will be there on Friday."
+
+"Yes, Mistress."
+
+"And this house is not a place where you sit up alone at half past eleven with a page about a person who was sold." She took her hand away, slowly, which is how she does it when she means it to be noticed. "Come up."
+
+He came up.
+
+* * *
+
+He wrote it up at eleven and the entry is four lines and the last one is the only one he had to think about.
+
+*The statement exists and is entered and cannot be removed. It cost eleven pages, a drawer key, and one word from a man of sixty-three.*
+
+*She went into the book on the twelfth of February, four years ago, and stayed in it for seven weeks.*
+
+*There is a consignor with an address four streets from her own.*
+
+And underneath, on its own, because he sat and looked at the page for a while before he put it down.
+
+*I have been calling her the person nobody can prove exists. Somebody proved it. They filled in a form in February and signed it, and the house has kept their handwriting for four years and did not know it was keeping anything at all.*
