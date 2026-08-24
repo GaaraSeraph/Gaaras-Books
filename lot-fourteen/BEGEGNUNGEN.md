@@ -18,14 +18,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 551 | 58 (b1ch01-b2ch36) | 1 | 74 |
+| Annie | 565 | 59 (b1ch01-b2ch37) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Park Sang-hoon | 156 | 29 (b1ch10-b2ch36) | 1 | 74 |
+| Park Sang-hoon | 163 | 30 (b1ch10-b2ch37) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Jang | 90 | 24 (b1ch05-b2ch35) | 3 | 60 |
-| Mrs Seo | 67 | 28 (b1ch03-b2ch35) | 1 | 74 |
-| Mr Hwang | 61 | 11 (b2ch07-b2ch34) | 3 | 46 |
-| Mrs Jeon | 50 | 10 (b2ch06-b2ch36) | 5 | 51 |
+| Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
+| Mr Hwang | 64 | 12 (b2ch07-b2ch37) | 3 | 57 |
+| Mrs Jeon | 51 | 11 (b2ch06-b2ch37) | 5 | 57 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 37 | 12 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-551 Nennungen in 58 Kapiteln.
+565 Nennungen in 59 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -613,6 +613,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 51 | b2ch36:128 | "Annie has not let you," said Sang-hoon. |
+| 57 | b2ch37:46 | He read it twice, the second time slower, the way Annie reads things that matter, becaus.. |
+| 57 | b2ch37:58 | Georgij put the letter in the drawer that does not lock, because it was not the sort of .. |
+| 57 | b2ch37:76 | Annie read it without picking it up. |
+| 57 | b2ch37:88 | "Even the kind reason," said Annie. |
+| 57 | b2ch37:94 | Annie looked at the letter for a moment longer. |
+| 57 | b2ch37:106 | Annie sat back. |
+| 57 | b2ch37:118 | Annie looked at him for a moment the way she looks at a figure she has already checked t.. |
+| 57 | b2ch37:130 | Something in Annie's face settled, the way it does when an answer has met whatever she w.. |
+| 57 | b2ch37:142 | "That is the entire dispute of this business in two sentences," said Annie, "and she wro.. |
+| 57 | b2ch37:162 | "I know you are not," said Annie. "That is why I am telling you anyway. The nephew who r.. |
+| 57 | b2ch37:172 | "She was always going to be very good at this," said Annie. "The only thing that was eve.. |
+| 57 | b2ch37:180 | "Georgij," said Annie, before he could say it. |
+| 57 | b2ch37:204 | It was the same desk he had sat against, on the floor, on the night he had told Annie ev.. |
+| 57 | b2ch37:254 | It was not the morning Annie had meant when she sent him away from the desk. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -760,6 +774,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:42` (Tag 51) - four, two
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 - `b2ch36:124` (Tag 51) - three
+- `b2ch37:142` (Tag 57) - two
+- `b2ch37:162` (Tag 57) - eleven, four, nine, three
 
 ---
 
@@ -1002,7 +1018,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-156 Nennungen in 29 Kapiteln.
+163 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1162,6 +1178,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:210 | "I do not know yet," said Sang-hoon. "But I have been at that man's table for eight year.. |
 | 51 | b2ch36:218 | Sang-hoon stood without finishing anything on the table in front of him. |
 | 51 | b2ch36:230 | A waiter came in to clear the table Sang-hoon had not eaten from, and stopped in the doo.. |
+| 57 | b2ch37:198 | He had not opened the file on Sang-hoon's four decisions since the day in the rain. The .. |
+| 57 | b2ch37:206 | Eight years of dinners. No guest list survives any of them, because a man who gives dinn.. |
+| 57 | b2ch37:218 | *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating.. |
+| 57 | b2ch37:224 | Four letters. Four decisions Sang-hoon has never been able to account for. |
+| 57 | b2ch37:232 | What he had instead was four evenings, and four moods attached to them in Sang-hoon's ow.. |
+| 57 | b2ch37:236 | *7:30* is early, which for Sang-hoon means important enough to arrive rested for. |
+| 57 | b2ch37:250 | *S, H, K, Y. Not enough letters to be a coincidence and not enough to be an answer eithe.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -1231,6 +1254,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:194` (Tag 51) - four, one
 - `b2ch36:210` (Tag 51) - eight, one
 - `b2ch36:230` (Tag 51) - one, two
+- `b2ch37:198` (Tag 57) - four, two
+- `b2ch37:206` (Tag 57) - eight, four, one
+- `b2ch37:224` (Tag 57) - four
+- `b2ch37:232` (Tag 57) - four
 
 ---
 
@@ -1618,7 +1645,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-67 Nennungen in 28 Kapiteln.
+69 Nennungen in 29 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1689,6 +1716,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:220 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
 | 46 | b2ch34:230 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
 | 47 | b2ch35:132 | Mrs Seo passed with a tray and did not stop. |
+| 57 | b2ch37:6 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
+| 57 | b2ch37:20 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -1729,12 +1758,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:96` (Tag 26) - six, three, twenty
 - `b2ch24:110` (Tag 26) - eleven
 - `b2ch24:272` (Tag 26) - eleven
+- `b2ch37:6` (Tag 57) - nine, one
 
 ---
 
 ## Mr Hwang
 
-61 Nennungen in 11 Kapiteln.
+64 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1799,6 +1829,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
 | 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
 | 46 | b2ch34:192 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
+| 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
+| 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -1830,12 +1863,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:10` (Tag 45) - two
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:192` (Tag 46) - one
+- `b2ch37:216` (Tag 57) - six, two
 
 ---
 
 ## Mrs Jeon
 
-50 Nennungen in 10 Kapiteln.
+51 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1889,6 +1923,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:192 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 51 | b2ch36:56 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
+| 57 | b2ch37:40 | *Jeon Mi-ja* |
 
 ### Zahlen in der Naehe von Mrs Jeon
 

@@ -264,6 +264,13 @@ nachrechnen, und `check.py` tut das automatisch.
   die vier Entscheidungen) **und Sang-hoon liefert die andere Haelfte selbst
   zurueck: er hat seit Samstag unabhaengig dieselbe Grundstuecksakte verfolgt**
   (Band 2, Kapitel 36)
+- Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
+  Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
+  war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
+  wrong about the book."* Georgij haendigt es Hwang **nicht** aus - es sollte
+  existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
+  seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
+  aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 37)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1741,6 +1748,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und Sang-hoon liefert am Schluss einen neuen, ungeoeffneten Faden:** in acht Jahren Tischgesellschaft hat Choi Dae-ho kein einziges Mal eine Frau erwaehnt - *"the one subject he has never once brought up."* Georgijs Notizbucheintrag haelt es fest, ohne zu deuten: *"Eight years. Never once a woman. Find out why not."*
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
+
+- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.0) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+
+  **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
+
+  **Georgij gibt das Blatt nicht an Hwang weiter, und die Begruendung ist die Lehre des ganzen Fadens:** *"He asked for this because he wanted to be forgiven for something, and if I hand it to him, I am the one deciding that he has earned it, and that is not mine to decide."* Annie prueft die Antwort wie eine Zahl, die sie zum dritten Mal nachrechnet, nicht aus Zweifel, sondern aus Gewohnheit - und sie haelt.
+
+  **Annie liefert im Gegenzug, ungefragt, wie ihr erster Tag lief:** binnen anderthalb Stunden findet Mrs Jeon vier Dinge in einem Aktenschrank, die der Neffe drei Jahre lang nicht bemerkt hat. **"She was always going to be very good at this. The only thing that was ever in question was whether anybody would let her be."**
+
+  **Und dann schickt Annie ihn weg von genau diesem Thema** - *"Go and do something today that is not this"* - und er nutzt den freien Vormittag fuer die andere liegen gebliebene Schuld: **Sang-hoons vier Entscheidungen**, seit dem Regentag in Kapitel 36 nicht mehr angefasst. Vier Initialen aus Sang-hoons eigenem Kalender - S, H, K, Y - mit Uhrzeiten und Stimmungen statt Namen, und die Einsicht, dass ein Buchstabe kein Hinweis ist, sondern nur der Schatten von einem.
+
+  **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
 ---
 
