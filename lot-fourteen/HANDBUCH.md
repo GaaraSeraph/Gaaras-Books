@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 172.597 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 172.732 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -7720,6 +7720,29 @@ Lesen auf:
   the ground?" / "Ten."*), und der Beton ging in einem nassen Maerz hinein. Wenn
   das Terminal im April zehn Monate alt ist, hat es im Juni eroeffnet. Moeglich,
   aber die Zahl kollidiert mit der bekannteren. **Nicht angefasst.**
+
+---
+
+## Angehalten am 25.08.: Zuschreibungsdurchgang Band 2, Kapitel 19 bis 53
+
+Auf Wunsch des Autors gestoppt, um Tokens zu sparen. **Sieben von neun
+Lesergruppen sind fertig und zwischengespeichert** (Kapitel 19 bis 50 im
+Wesentlichen gelesen), es fehlen die letzten zwei Gruppen und die **gesamte
+Gegenpruefung**. Neunundzwanzig Rohkandidaten liegen vor, **keiner davon
+geprueft** - nach dem heutigen Tag ist damit zu rechnen, dass die Gegenpruefung
+den groesseren Teil davon wegnimmt.
+
+Fortsetzen (nur in derselben Sitzung greift der Zwischenspeicher):
+
+    Workflow({scriptPath: ".../workflows/scripts/lot-fourteen-attribution-wf_08341d45-40c.js",
+              resumeFromRunId: "wf_08341d45-40c"})
+
+In einer neuen Sitzung laeuft dasselbe Skript ohne Zwischenspeicher noch einmal
+von vorn; das kostet die sieben Gruppen erneut, aendert am Ergebnis aber nichts.
+
+**Bis dahin gilt: Kapitel 19 bis 53 sind auf Zuschreibung NICHT geprueft.**
+Geprueft und korrigiert sind Kapitel 1 bis 18, dazu Kapitel 38 aus den beiden
+Funden des Autors.
 
 ---
 
