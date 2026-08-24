@@ -184,6 +184,15 @@ Regie sagt, dass er es nicht ist.
 *clever as hell* und deshalb richtig. Ein Mann, der schmeichelt, waehlt das
 zweite. Ein Mann, der es ernst meint und nicht mehr waehlt, sagt das erste.
 
+**Nachtrag vom 24.08., Band 2.** Georgij hat in den zweiundvierzig Kapiteln von
+Band 2 **keine einzige eigene Kontraktion**. Es gibt genau einen Treffer, und er
+ist ein Zitat: *"Tell her we haven't met."* (Band 2, Kapitel 10, am Gartentor).
+Das ist Mrs Sunwoos Satz aus dem Ballsaal, woertlich zurueckgegeben - die ganze
+Szene haengt daran, dass er ihn unveraendert hergibt, und sie sagt es zwei
+Repliken spaeter selbst: *"I have been saying it for a very long time and nobody
+has ever handed it back."* **Er zaehlt nicht als vierte.** Wer die drei aus Band 1
+nachzaehlt, findet ihn, und muss ihn nicht ein zweites Mal pruefen.
+
 ### 2d. Die Stiftshuette
 
 **Ein Vorgang wird einmal ausgefuehrt und danach nur noch beruehrt.**
