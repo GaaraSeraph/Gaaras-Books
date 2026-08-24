@@ -1861,6 +1861,29 @@ Lesen auf:
 
 ---
 
+## Angehalten am 25.08.: Zuschreibungsdurchgang Band 2, Kapitel 19 bis 53
+
+Auf Wunsch des Autors gestoppt, um Tokens zu sparen. **Sieben von neun
+Lesergruppen sind fertig und zwischengespeichert** (Kapitel 19 bis 50 im
+Wesentlichen gelesen), es fehlen die letzten zwei Gruppen und die **gesamte
+Gegenpruefung**. Neunundzwanzig Rohkandidaten liegen vor, **keiner davon
+geprueft** - nach dem heutigen Tag ist damit zu rechnen, dass die Gegenpruefung
+den groesseren Teil davon wegnimmt.
+
+Fortsetzen (nur in derselben Sitzung greift der Zwischenspeicher):
+
+    Workflow({scriptPath: ".../workflows/scripts/lot-fourteen-attribution-wf_08341d45-40c.js",
+              resumeFromRunId: "wf_08341d45-40c"})
+
+In einer neuen Sitzung laeuft dasselbe Skript ohne Zwischenspeicher noch einmal
+von vorn; das kostet die sieben Gruppen erneut, aendert am Ergebnis aber nichts.
+
+**Bis dahin gilt: Kapitel 19 bis 53 sind auf Zuschreibung NICHT geprueft.**
+Geprueft und korrigiert sind Kapitel 1 bis 18, dazu Kapitel 38 aus den beiden
+Funden des Autors.
+
+---
+
 ## Wer gerade woran ist
 
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
