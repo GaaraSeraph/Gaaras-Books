@@ -558,7 +558,7 @@ Die einzige Ausnahme sind Abfertigungen, die mit Komma und Redebegleitsatz stehe
 
 Imperative sind ohnehin keine Fragen: "Go on." "Say why." "Say how differently."
 
-**Fehler bleiben Fehler.** Georgij darf sich im Nachhinein nicht als heimlicher Planer herausstellen. Wenn ein Patzer gut ausgeht, ist er trotzdem ein Patzer, und er sagt das auch. Seine zwei Sätze dazu in Kapitel 11, beide wörtlich im Text: *"I thought that was a good decision for about three hours."* Und über den Anruf, den er sich selbst eingebrockt hat: *"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on."* Das ist die stärkste Schicht des Kapitels und der Maßstab für alles Weitere. Ein unschlagbarer Georgij wäre ein langweiliger.
+**Fehler bleiben Fehler, und zwar im Text und nicht am Manuskript** (die ausbuchstabierte Fassung steht weiter unten unter derselben Ueberschrift). Georgij darf sich im Nachhinein nicht als heimlicher Planer herausstellen; ein Kapitel darf jederzeit umgeschrieben werden. Wenn ein Patzer gut ausgeht, ist er trotzdem ein Patzer, und er sagt das auch. Seine zwei Sätze dazu in Kapitel 11, beide wörtlich im Text: *"I thought that was a good decision for about three hours."* Und über den Anruf, den er sich selbst eingebrockt hat: *"He didn't have to find the gap. I walked across a room and showed it to him. There is nobody else to put that on."* Das ist die stärkste Schicht des Kapitels und der Maßstab für alles Weitere. Ein unschlagbarer Georgij wäre ein langweiliger.
 
 **Prüfregel:** Jeder Rückverweis muss eine nachweisbare Stelle im Text haben. "Raised it", "used it", "the line", "on its own" sind nur zulässig, wenn im Text steht, worauf sie sich beziehen.
 
@@ -787,11 +787,40 @@ ueber die Lage sagt, die Stelle benennen, an der sie es erfahren hat. Findet man
 sie nicht, ist entweder der Satz falsch oder die Stelle fehlt - und in einem
 Planungsdokument gelesen zu haben zaehlt nicht.
 
-### Fehler bleiben Fehler
+### Fehler bleiben Fehler - im Text, nicht am Manuskript
 
-Er darf sich nicht nachtraeglich als heimlicher Planer herausstellen. Geht ein
-Patzer gut aus, ist er trotzdem ein Patzer, und er sagt das auch. Ein
-unschlagbarer Georgij waere ein langweiliger.
+**Das ist eine Figurenregel und keine Redaktionsregel, und die Verwechslung ist
+am 25.08. tatsaechlich passiert.** Sie steht hier ausbuchstabiert, damit sie
+nicht ein zweites Mal jemanden davon abhaelt, ein schwaches Kapitel
+umzuschreiben.
+
+**Was die Regel sagt.** Georgij darf sich **innerhalb des fertigen Textes** nicht
+nachtraeglich als heimlicher Planer herausstellen. Geht ein Patzer gut aus, ist
+er trotzdem ein Patzer, und er sagt das auch. Wer sich in Kapitel 3 verplappert,
+darf in Kapitel 9 nicht so tun, als sei das ein Zug gewesen. Ein unschlagbarer
+Georgij waere ein langweiliger.
+
+**Was die Regel ausdruecklich NICHT sagt.** Sie sagt nichts darueber, was der
+Autor mit dem Manuskript machen darf. **Ein geschriebenes Kapitel ist kein
+Ereignis, das gegen den Autor gilt.** Es darf jederzeit umgeschrieben,
+gestrichen, ersetzt oder zusammengelegt werden, auch spaet, auch ueber zwanzig
+Kapitel hinweg, und der einzige noetige Grund ist, dass es beim Lesen nicht
+taugt.
+
+**Woher die Verwechslung kommt.** `CLAUDE.md` sagt *"Kanon sind die
+Kapiteldateien"*. Das heisst: **der Text schlaegt das Planungsdokument.** Es
+heisst nicht: der Text schlaegt den Autor. Wo ein Dokument dem Text
+widerspricht, wird das Dokument geaendert. Wo der Autor dem Text widerspricht,
+wird der Text geaendert.
+
+**Die Probe, ein Satz.** Geht es darum, ob eine **Figur** etwas gewusst oder
+gekonnt hat? Dann gilt die Regel. Geht es darum, ob ein **Kapitel** gut ist?
+Dann gilt sie nicht, und die Frage ist allein, ob es umgeschrieben gehoert.
+
+**Und die Folge daraus, damit sie hier steht:** Wenn eine Umschreibung die
+Figur rueckwirkend kompetenter macht, ist das kein Verstoss. Die Figur war nie
+etwas anderes; **die Fassung war es.** Verboten ist nur, den Patzer stehen zu
+lassen und ihn im Nachhinein zum Plan zu erklaeren.
 
 ### Ihre Repliken
 

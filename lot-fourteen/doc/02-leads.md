@@ -89,6 +89,44 @@ Der Zorn wird nicht gezeigt, sondern gehalten, sechzehn Tage lang, und ist
 Wut, die niemand sieht außer Annie“. **Die Ruhe ist der Zustand, nicht die
 Abwesenheit des Zorns.**
 
+**Ein Fund wird ausgegeben und nicht gemeldet. Festgelegt am 25.08. vom Autor,
+nachdem Band 2 nachgezaehlt worden war.**
+
+Von Kapitel 33 bis 46 hat jedes Kapitel dieselbe Form: er findet etwas, und er
+traegt es jemandem hin. Annie oder Sang-hoon. In Kapitel 36 bekommt er drei
+Ergebnisse sogar von ihr. **Das ist kein Ermittlungstempo, das ist ein Kurier.**
+
+**Die Ursache ist eine Fehllesung von "Er besitzt nichts".** Nichts zu besitzen
+heisst kein Geld, kein Konto, keine Beziehungen. **Es heisst nicht: keine
+Befugnis.** Das steht nirgends, und in Band 1 hat er ohne jede Rueckfrage
+neunzehn Seiten geschrieben, Hanseong gefahren, Woo geholt und Raeume bestellt.
+
+**Drei Stufen, und sie gelten ab hier:**
+
+1. **Ohne Rueckfrage.** Alles, was nur seine Zeit, seinen Kopf und seine
+   Faehigkeiten kostet: lesen, rechnen, telefonieren, in einen Raum gehen, einen
+   Menschen fragen, ein System oeffnen. Er legt es **danach** offen und
+   vollstaendig. Das ist die Zusage aus Kapitel 33, und sie heisst Offenlegung
+   und nicht Erlaubnis.
+2. **Angekuendigt, nicht erbeten.** Alles, was ihren Namen oder ihr Haus
+   sichtbar macht. Er sagt es so frueh, dass sie es abstellen kann, und handelt,
+   wenn sie es nicht abstellt. Der Unterschied zwischen *"May I"* und *"Der
+   Preis landet bei Dir, sag jetzt, wenn ich es lassen soll"* ist der ganze
+   Unterschied zwischen den beiden Baenden.
+3. **Wirklich erbeten.** Geld, und alles, wofuer sie geradestehen muesste.
+
+**Die Probe pro Kapitel:** Hat er etwas getan, das er niemandem vorher vorgelegt
+hat? Zweimal nacheinander nein ist ein Fehler und kein Tempo.
+
+**Und die Grenze bleibt, was sie war:** `doc/02-leads.md` sagt, wo sein
+Verfahren endet - Namen ohne Gesichter, und geschlossen wird das nur ueber den
+Mund eines anderen Menschen. **Genau das ist in Band 2 dreimal liegen
+geblieben.** Mr Yeom hat dem Begleiter am Tisch ins Gesicht gesehen und ist nie
+danach gefragt worden. Mrs Sunwoo hat einundvierzig Jahre Wissen darueber, wer
+in dem Haus kauft, und ist seit dem 27. Mai nicht angesprochen worden. Chairman
+Woo hat einundfuenfzig Jahre in dem Gewerbe, schuldet drei ungetilgte Stunden
+und war seit dem 14. April nicht auf der Seite.
+
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
 **Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Wird nicht abgenommen. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 102.897 Woerter.
+Book Two, 46 Kapitel, 102.972 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -56,7 +56,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 43 | v1.2 | 2.017 |
 | 44 | v1.2 | 2.006 |
 | 45 | v1.0 | 2.163 |
-| 46 | v1.0 | 2.074 |
+| 46 | v2.0 | 2.149 |
 
 ---
 
@@ -8746,7 +8746,7 @@ He finished the line. Annie came off the edge of the desk and sat down on the fl
 ---
 
 # Book Two · Chapter 46: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Eighty · Friday 10 July
 
@@ -8806,7 +8806,7 @@ Annie put the pen down across the ledger.
 
 Georgij took longer over that than he wanted to.
 
-"The intervals," he said. "Jang says the van comes when it is called for, on nobody's route. Every call is a day somebody decided a tank was low. Four years of those, in order, is not a delivery record. It is a chart of how she is doing, and it exists, and it has existed the whole time I have been reading reservation books."
+"The intervals," he said. "Jang says the van comes when it is called for, on nobody's route. Every call is a day somebody decided a tank was low. Four years of those, in order, is a chart of how she is doing. It exists, and it has existed the whole time I have been reading reservation books."
 
 "And it is not going to get better while you are careful."
 
@@ -8824,17 +8824,19 @@ He had not thought of it, and he did not pretend otherwise.
 
 "Every other thing I have done this year, I have paid for myself, and I have said so each time, and it has been true each time." He put one hand flat on the corner of the desk. "This is the first one I cannot pay for. If it goes wrong it goes wrong to you, and there is no version of it where it does not, because I do not exist in a form that anybody could send a bill to."
 
-"Then ask me properly."
-
-"May I do it tonight, Mistress?"
+"I am telling you because the bill for it arrives at your door and not mine," said Georgij. "I am not asking you whether I may. I am telling you at seven instead of at midnight, so that you have the whole evening to stop me, and if you do not stop me I am going to do it tonight."
 
 Annie looked at him for what felt like a long time and was probably three seconds.
 
-"Yes," she said. "Once, tonight, and not again without asking. You write down every place you go into and you leave the list in this house. And when it is done you will not apologise to me for having asked, because I am saying yes with my eyes open and I do not want it given back to me in three weeks as a debt."
+"Say what you would have done if I had been in Busan today."
 
-"Understood."
+"The same thing, and told you tomorrow morning."
 
-"One more thing." She picked the pen up again and did not use it. "You have been slow all year on purpose and you were right to be. Being right about that does not entitle you to be slow after it has stopped working, and it stopped working in June, and neither of us said so."
+"Good." She picked the pen up again and did not use it. "That is the first thing you have brought me in a month without a may I in front of it. Write down every place you go into and leave the list in this house. I am not stopping you and I am not giving you permission either, because you have spent this whole quarter standing in my library waiting to be sent."
+
+"That is fair."
+
+"It is not fair. It is accurate." She turned the pen over once. "You have been slow all year on purpose and you were right to be. Being right about that does not entitle you to be slow after it has stopped working, and it stopped working in June, and neither of us said so."
 
 * * *
 

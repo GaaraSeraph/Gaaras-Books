@@ -687,8 +687,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch46:84 | Annie was at the desk with the ledger open and did not close it. |
 | 2 | b2ch46:104 | Annie put the pen down across the ledger. |
 | 2 | b2ch46:128 | Annie was quiet for a moment, and when she spoke it was not about the machine. |
-| 2 | b2ch46:160 | Annie looked at him for what felt like a long time and was probably three seconds. |
-| 2 | b2ch46:250 | He wrote both options down with the reason under each, and the second one at the bottom,.. |
+| 2 | b2ch46:156 | Annie looked at him for what felt like a long time and was probably three seconds. |
+| 2 | b2ch46:254 | He wrote both options down with the reason under each, and the second one at the bottom,.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -858,8 +858,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:214` (Tag 5) - four
 - `b2ch45:10` (Tag 11) - one
 - `b2ch45:287` (Tag 11) - two
-- `b2ch46:160` (Tag 2) - three
-- `b2ch46:250` (Tag 2) - one
+- `b2ch46:156` (Tag 2) - three
+- `b2ch46:254` (Tag 2) - one
 
 ---
 
