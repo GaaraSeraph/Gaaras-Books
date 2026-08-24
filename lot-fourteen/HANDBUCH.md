@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 169.492 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 169.767 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1199,6 +1199,35 @@ neunzehn Seiten geschrieben, Hanseong gefahren, Woo geholt und Raeume bestellt.
 
 **Die Probe pro Kapitel:** Hat er etwas getan, das er niemandem vorher vorgelegt
 hat? Zweimal nacheinander nein ist ein Fehler und kein Tempo.
+
+**Und die zweite Probe, ergaenzt am 25.08. vom Autor, nachdem der Kurier in einer
+neuen Verkleidung zurueckkam.** In den Kapiteln 50, 52 und 53 kam der Ertrag
+dreimal hintereinander ueber das **Gewissen eines anderen**: Baek legte eine
+Kopie hin, Sim kam von selbst, Yeom bot seine Mappen an. Das ist nicht mehr der
+Bote, aber es ist sein Zwilling - **der anstaendige Mann, dem Leute Dinge
+geben** -, und auf Dauer liest es sich genauso passiv, nur sympathischer.
+
+**Die Regel dazu, und sie verbietet das Angebot nicht:** Leute duerfen ihm etwas
+anbieten. Aber nur, wenn er sie **in der Hand hat** oder vorher **etwas getan
+hat**, und der Leser muss den Zug gesehen haben. Das Angebot ist die Folge, nie
+der Anfang.
+
+**Wie die drei Faelle danach stehen:**
+
+- **Kapitel 52 haelt.** Sim kommt, weil fuenf Kuechen und eine Zeugin in Bewegung
+  gesetzt wurden, und er sagt im Raum selbst, dass er die fuenf gezaehlt hat.
+- **Kapitel 53 haelt.** Yeom bietet seine Position an, nachdem Georgij ihm die
+  eine Regel geopfert hat, die er seit seinem neunzehnten Jahr haelt. Yeom
+  benennt den Tausch an der Tuer.
+- **Kapitel 50 hielt nicht und ist auf v2.0 repariert.** Baek legte die Kopie aus
+  eigenem Antrieb hin. Jetzt leitet Georgij sie her - eine Zeile in elf Jahren
+  beanstandet, und es war nicht diese; ein Mann, der nichts beanstandet und von
+  einer Sache beunruhigt ist, vergisst sie oder nimmt eine Kopie - und der Handel
+  wird offen benannt statt verschwiegen.
+
+**Die Probe, ein Satz:** Wer hat sich in diesem Kapitel entschieden, er oder
+jemand anders? Zweimal nacheinander *jemand anders* ist derselbe Fehler wie
+oben, in besseren Kleidern.
 
 **Und die Grenze bleibt, was sie war:** `doc/02-leads.md` sagt, wo sein
 Verfahren endet - Namen ohne Gesichter, und geschlossen wird das nur ueber den
