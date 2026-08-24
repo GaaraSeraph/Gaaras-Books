@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.186 Woerter.
+Book One, 34 Kapitel, 101.184 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -31,15 +31,15 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 18 | v2.8 | 2.980 |
 | 19 | v1.11 | 3.210 |
 | 20 | v1.6 | 2.108 |
-| 21 | v1.8 | 4.079 |
+| 21 | v1.9 | 4.082 |
 | 22 | v1.3 | 2.584 |
 | 23 | v3.7 | 2.652 |
 | 24 | v1.5 | 2.653 |
-| 25 | v1.4 | 2.550 |
-| 26 | v1.5 | 2.423 |
-| 27 | v3.3 | 3.102 |
-| 28 | v1.3 | 2.676 |
-| 29 | v1.3 | 1.993 |
+| 25 | v1.5 | 2.549 |
+| 26 | v1.6 | 2.423 |
+| 27 | v3.4 | 3.101 |
+| 28 | v1.4 | 2.676 |
+| 29 | v1.4 | 1.990 |
 | 30 | v1.8 | 3.524 |
 | 31 | v1.6 | 3.256 |
 | 32 | v1.2 | 2.579 |
@@ -5709,7 +5709,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Book One · Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6067,7 +6067,7 @@ Hana looked at him for a moment, and then she laughed, and this time it was the 
 
 "Yes."
 
-"Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and somebody will have to be standing there when he is."
+"Tuesday the sixteenth. Come at six and be useful, because Woo will be through the door on the hour and somebody will have to be standing there when he is."
 
 Mr Pyo brought the car round.
 
@@ -6949,7 +6949,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -7071,7 +7071,7 @@ Nothing happened in his face. Nothing was permitted to happen in his face in fro
 
 Georgij sat with the sheet in front of him.
 
-Two weeks after the fourth of October, somebody had sat at a desk and given a man a surname, so that a document could be made to hold. It would have taken about four minutes. Whoever did it had chosen those syllables out of the air, or off a list, or off a wall, and had then gone to lunch.
+In the second week of October, somebody had sat at a desk and given a man a surname, so that a document could be made to hold. It would have taken about four minutes. Whoever did it had chosen those syllables out of the air, or off a list, or off a wall, and had then gone to lunch.
 
 *Where do your people come from.*
 
@@ -7097,7 +7097,7 @@ Mr Chae did not move for a moment.
 
 Then he did something he had not done all morning, which was to take his glasses off.
 
-"In twenty-three years I have drawn two documents for that woman whose purpose I did not know," he said. "One of them went out eight days ago. It was a bid for a company that cannot accept a bid, because the board it needs has not met since March." He did not raise his voice at all. "That is a fact I put in the report she read before she instructed me."
+"In twenty-three years I have drawn two documents for that woman whose purpose I did not know," he said. "One of them went out seven days ago. It was a bid for a company that cannot accept a bid, because the board it needs has not met since March." He did not raise his voice at all. "That is a fact I put in the report she read before she instructed me."
 
 He folded the glasses.
 
@@ -7147,7 +7147,7 @@ Then he went down the stairs.
 
 Georgij stood at the window until the car had gone.
 
-Then he sat down at the desk and did the next thing on the paper, which was a telephone call he had been putting off for nine days.
+Then he sat down at the desk and did the next thing on the paper, which was a telephone call he had been putting off for ten days.
 
 "Chairman."
 
@@ -7218,7 +7218,7 @@ It would keep until she asked.
 ---
 
 # Book One · Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7300,7 +7300,7 @@ The third was Kim Do-yun.
 
 Georgij had been ready for that since Friday and had built the entire hour around it.
 
-He had put this man at the top of a page in November on the basis of two trips to a bar, and had been wrong. He had written the name on a clean sheet and put nothing under it. Now the name was in a chair by the window with its jacket buttoned, thirty-four years old, entirely at ease, and Georgij looked at him for exactly as long as he looked at the cousin.
+He had put this man at the top of a page in November on the basis of two trips to a bar, and had been wrong. He had written the name on a clean sheet and put nothing under it. Now the name was in a chair by the window with its jacket buttoned, thirty-eight years old, entirely at ease, and Georgij looked at him for exactly as long as he looked at the cousin.
 
 "Mr Kim," he said, to all three of them at once, which is a thing you can do in this language and cannot do in most.
 
@@ -7328,7 +7328,7 @@ The cousin picked the page up before Sung-ho did, which told Georgij something h
 
 "And he signed one for a family that is being turned over by customs."
 
-"He signed it on the twentieth of November, which is fourteen days after customs went into your building." Georgij did not move. "He knew. I told him, in his own office, before I asked him for anything."
+"He signed it on the twentieth of November, which is thirty-two days after customs went into your building." Georgij did not move. "He knew. I told him, in his own office, before I asked him for anything."
 
 Kim Do-yun spoke for the first time.
 
@@ -7499,7 +7499,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.3 · EN
+*Lot Fourteen* · Version 3.4 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7523,7 +7523,7 @@ Annie put the pen down.
 
 "Go on."
 
-"On the eleventh of November I pulled the second section on her sixteen thousand square metres, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
+"On the seventeenth of November I pulled the second section on her sixteen thousand square metres, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
 
 "On the one thing she is asking us to protect."
 
@@ -7795,7 +7795,7 @@ It was the real one, and it went on for a while. At the end of it she pressed th
 
 "Yes."
 
-"You have been in this country nine weeks."
+"You have been doing this nine weeks."
 
 "Ten on Saturday."
 
@@ -7812,7 +7812,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -7994,7 +7994,7 @@ The lamp over the step came on as he passed under it, because it was five o'cloc
 
 He wrote it between six and half past eight in the morning and it came to four lines.
 
-That was not the difficulty. He had written nineteen pages about a shipping group in three days in November and had enjoyed most of it, because nineteen pages is a place to hide and four lines is not. Everything he knew how to do took up room. What was left when you took the room away was whether the thing was true and whether the person reading it would believe a stranger.
+That was not the difficulty. He had written nineteen pages about a shipping group in six days in November and had enjoyed most of it, because nineteen pages is a place to hide and four lines is not. Everything he knew how to do took up room. What was left when you took the room away was whether the thing was true and whether the person reading it would believe a stranger.
 
 He wrote nine versions.
 
@@ -8064,7 +8064,7 @@ Georgij had been standing since he came in and had not been asked to sit.
 
 Annie picked the pen back up, which meant the conversation was finished, and then did not use it.
 
-"You have," she said. "You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."
+"You have," she said. "You had one in October. You stood in a cellar with a number pinned on you for two hours and could not do anything about that either."
 
 "That is not the same."
 
@@ -8073,7 +8073,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 ---
 
 # Book One · Chapter 29: The ones who came at seven
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8109,7 +8109,7 @@ Chairman Woo came at four minutes past seven and was the second guest in the hou
 
 He had a stick, which he had not had at Yeongjong, and he used it going up the two steps and then handed it to somebody as though it were a coat.
 
-"You are early," said Georgij.
+"You are prompt," said Georgij.
 
 "I am seventy-eight and I have never once been late to anything." Woo looked past him down the long room. "Where are the photographs?"
 
@@ -8153,7 +8153,7 @@ A man of seventy-eight was there, explaining to nobody in particular what was wr
 
 "His father deserved it," said Woo.
 
-Sung-ho laughed, once, and it was the first time anybody in that family had laughed in a room with strangers in it since the fourth of November.
+Sung-ho laughed, once, and it was the first time anybody in that family had laughed in a room with strangers in it since October.
 
 The picture happened at eleven minutes past eight and took about four seconds.
 

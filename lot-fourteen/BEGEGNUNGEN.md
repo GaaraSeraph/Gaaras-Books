@@ -1584,7 +1584,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:108 | "Chairman Woo is seventy-eight. He will come at seven and be gone by nine and he will ha.. |
 | 49 | b1ch21:218 | "Woo at seven." |
 | 49 | b1ch21:220 | "Woo at seven, and I will put him next to my father's shipping photographs, which are te.. |
-| 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be an hour early and.. |
+| 49 | b1ch21:418 | "Tuesday the sixteenth. Come at six and be useful, because Woo will be through the door .. |
 | 55 | b1ch23:188 | "Chairman Woo drinks this," said Jang, from four metres away. "Badly." |
 | 55 | b1ch24:106 | "On Thursday I sat in a shed at Yeongjong and told Chairman Woo that I had nothing to si.. |
 | 59 | b1ch25:58 | "Three counterparties by name. Chairman Woo and the terminal company at Yeongjong, the K.. |
