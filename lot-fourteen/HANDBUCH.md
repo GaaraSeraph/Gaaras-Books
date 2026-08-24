@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 159.602 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 159.787 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8192,11 +8192,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 640 | 68 (b1ch01-b2ch46) | 1 | 74 |
-| Park Sang-hoon | 233 | 38 (b1ch10-b2ch45) | 1 | 74 |
+| Annie | 643 | 68 (b1ch01-b2ch46) | 1 | 74 |
+| Park Sang-hoon | 234 | 38 (b1ch10-b2ch45) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 147 | 30 (b1ch07-b2ch38) | 1 | 74 |
-| Jang | 135 | 30 (b1ch05-b2ch46) | 2 | 60 |
+| Jang | 138 | 30 (b1ch05-b2ch46) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 70 | 30 (b1ch03-b2ch45) | 1 | 74 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
@@ -8232,7 +8232,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-640 Nennungen in 68 Kapiteln.
+643 Nennungen in 68 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8844,6 +8844,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:176 | Annie looked at the map on the desk without touching it. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 3 | b2ch40:226 | Annie waited, because she has learned that when he agrees that quickly there is a second.. |
+| 3 | b2ch40:242 | Annie looked at him for a moment. |
+| 3 | b2ch40:302 | Annie had not said anything through any of that. |
 | 5 | b2ch41:20 | The laptop had been on the desk in the small room since his first week in the house. Ann.. |
 | 5 | b2ch41:24 | He was not going to use it, and the reason had nothing to do with the rule Annie had giv.. |
 | 5 | b2ch41:36 | A house call four years ago, in July, with the travelling costing about three times the .. |
@@ -9055,7 +9058,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-233 Nennungen in 38 Kapiteln.
+234 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9245,6 +9248,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 61 | b2ch39:262 | "He let Sang-hoon find out," he said slowly, "on purpose." |
 | 3 | b2ch40:188 | "I know you were not. I am saying it so that Georgij hears me say it to you and not only.. |
 | 3 | b2ch40:214 | "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not .. |
+| 3 | b2ch40:222 | "I agree with you about the road," he said. "I want that said in front of him and not to.. |
 | 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 5 | b2ch41:178 | "Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that .. |
 | 2 | b2ch42:6 | Sang-hoon had chosen a table this time instead of a room, which meant he had decided the.. |
@@ -9893,7 +9897,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-135 Nennungen in 30 Kapiteln.
+138 Nennungen in 30 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10009,8 +10013,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:184 | "I was not going to ask," said Jang. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
-| 3 | b2ch40:218 | Jang stood up and put the map back in his coat. |
-| 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
+| 3 | b2ch40:254 | Then he turned to Jang, who had sat through all of it with the folded map in both hands... |
+| 3 | b2ch40:286 | Jang sat with that for a while, and it was the good kind of quiet, the sort that means a.. |
+| 3 | b2ch40:314 | Nobody answered him for a moment, and it was Jang who took it, because he was the only o.. |
+| 3 | b2ch40:326 | "It is still mine." Jang stood up then. "A man who watches a house for sixteen days and .. |
+| 3 | b2ch40:340 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
 | 5 | b2ch41:156 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
@@ -10084,7 +10091,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:108` (Tag 3) - eleven, sixteen, ten, three
 - `b2ch40:116` (Tag 3) - one, two
 - `b2ch40:148` (Tag 3) - sixteen
-- `b2ch40:228` (Tag 3) - one, six
+- `b2ch40:254` (Tag 3) - two
+- `b2ch40:286` (Tag 3) - thirty
+- `b2ch40:314` (Tag 3) - one
+- `b2ch40:326` (Tag 3) - one, sixteen
+- `b2ch40:340` (Tag 3) - one, six
 - `b2ch41:156` (Tag 5) - one
 - `b2ch42:190` (Tag 2) - eleven, one, two
 - `b2ch44:10` (Tag 8) - eleven, sixteen

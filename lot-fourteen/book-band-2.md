@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 107.814 Woerter.
+Book Two, 46 Kapitel, 108.581 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -50,7 +50,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 37 | v2.0 | 3.913 |
 | 38 | v2.0 | 2.888 |
 | 39 | v2.0 | 2.942 |
-| 40 | v1.1 | 2.002 |
+| 40 | v2.0 | 2.769 |
 | 41 | v1.1 | 2.299 |
 | 42 | v1.1 | 2.025 |
 | 43 | v1.2 | 2.017 |
@@ -8343,8 +8343,8 @@ Page two is longer than it was on Tuesday. Page one is not.
 
 ---
 
-# Book Two · Chapter 40: What the road knows
-*Lot Fourteen* · Version 1.1 · EN
+# Book Two · Chapter 40: Somebody who did not arrive in a car
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8456,7 +8456,63 @@ A man does not survive thirty years in this line of work by disagreeing with the
 
 "When Sang-hoon has it," said Annie. "Which may be days and may be longer, and I am not going to manufacture a date for you the way I did with four. The four days cost a florist a morning she did not need to spend wondering why a stranger had asked her about a man she had never met."
 
-Jang stood up and put the map back in his coat.
+Georgij put both hands on the edge of the desk and left them there.
+
+"I agree with you about the road," he said. "I want that said in front of him and not to you afterward on a landing. It is not a road, and Sang-hoon has people whose faces are worth less than ours, and I am not going to argue for the gate."
+
+Annie waited, because she has learned that when he agrees that quickly there is a second half.
+
+"And here is what I am doing while we wait for him, so that nobody in this room finds out about it in ten days." He kept his hands where they were. "On Monday I start on the six kitchens. That is a road as well. It has no gate at the end of it and neither of our faces on it, and you have already heard exactly what it costs, because I told you on Friday before I had decided to walk it."
+
+"That is a different thing entirely and you know it is."
+
+"I do. I am saying it now so that in a week nobody can tell me I slid out of one and into the other while everybody was looking at a map."
+
+Annie looked at him for a moment.
+
+"You have said something like that twice this week," she said.
+
+"I have. I would like it to still be true the third time."
+
+Then he turned to Jang, who had sat through all of it with the folded map in both hands. He had the expression of a man who has been in a great many rooms where two other people decided something.
+
+"There is one more thing and it does not need a road either," said Georgij.
+
+"Say it."
+
+"You told us groceries on a Friday, for six to ten people."
+
+"I did. That is the delivery man's own estimate and not mine, and I asked him nothing. He said it in a lay-by while he was smoking, about a house he delivers to, the way men do."
+
+"And four cars in the morning and four in the evening, which is a rota and not a family."
+
+"Yes."
+
+"Then somebody could count." Georgij did not raise his voice at all. "Not go closer. Count. Four cars is a number of people. A rota has shifts and a shift has a size, and a house that feeds ten on a Friday is feeding somebody who did not arrive in one of those four cars."
+
+Jang sat with that for a while, and it was the good kind of quiet, the sort that means a man is checking a thing against thirty years before he agrees to it.
+
+"That is arithmetic and a delivery van," he said. "I can do both from where I am already standing, and I would not have to speak to one new person to do it."
+
+"How long."
+
+"Two weeks to be certain of a number. Four days to be suspicious of one." He turned the folded map over once in his hands. "And I will tell you which of those two I am giving you when I give it to you, because the difference between them is the whole of it."
+
+Annie had not said anything through any of that.
+
+"That is what I meant," she said. "Do that."
+
+"And if the number does not fit," said Georgij.
+
+Nobody answered him for a moment, and it was Jang who took it, because he was the only one in the room who had stood on the road.
+
+"Then there is somebody in that house who is not staff and is not the woman at the window," he said. "I have been up there sixteen days and I have counted one lit window and four cars, and I have never once asked myself who else is inside a building that big. That is my failure and not yours, and I would like it written down as mine."
+
+"It is not a failure," said Georgij. "Nobody told you to count the food. I did not think of it either, and I have had your report in front of me for an hour."
+
+"It is still mine." Jang stood up then. "A man who watches a house for sixteen days and only counts the things he was asked about has watched a house for sixteen days and learned one thing."
+
+He put the map back in his coat.
 
 "For what it is worth," he said, on his way to the door, "the light was on when I left this morning. She was awake before six." He stopped with his hand on the frame. "I do not know what that is worth. I have thought about it the whole drive back and I still do not know. But it seemed wrong to leave it out."
 
