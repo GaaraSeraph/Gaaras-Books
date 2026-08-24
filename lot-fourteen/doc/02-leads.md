@@ -185,6 +185,20 @@ einen Finger vom Tisch nimmt.
 **Die Probe:** Wuerde die Figur diesen Satz zu jemandem sagen, der sie bezahlt?
 Wenn nein, gehoert er Georgij oder er gehoert niemandem.
 
+**Die Kehrseite, und sie gilt genauso: Georgij weist Annie nichts an.** Sie ist
+seine Herrin. Er darf ihr widersprechen, er darf ihr etwas hinlegen, das sie
+nicht bestellt hat, und er darf sie in eine Ecke reden - all das ist bezahlt.
+Was er nicht darf, ist ihr sagen, wo sie sitzen soll. In Kapitel 35 (v2.3) stand
+in einer frueheren Fassung *"Come down here"* als Bitte von ihm, und das ist
+falsch herum: **wenn sie auf den Boden kommt, kommt es von ihr.** Repariert,
+indem er den Satz nicht herausbekommt - nicht aus Takt, sondern weil es keine
+Fassung davon gibt, die ihm zusteht - und sie es liest und tut.
+
+**Die zweite Probe, fuer jede Szene zwischen den beiden:** Wenn er es
+ausgesprochen haette, waere es eine Anweisung an die Frau, der er gehoert? Dann
+spricht er es nicht aus, und die Bewegung gehoert ihr. Das Register steht in
+`doc/10-naehe.md`.
+
 **Und die Grenze bleibt, was sie war:** `doc/02-leads.md` sagt, wo sein
 Verfahren endet - Namen ohne Gesichter, und geschlossen wird das nur ueber den
 Mund eines anderen Menschen. **Genau das ist in Band 2 dreimal liegen

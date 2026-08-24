@@ -56,7 +56,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
 | 7 | B2 23 | Mi 13. Mai | Sie schickt ihn hoch: *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
-| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter**, und er hat darum gebeten. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
+| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er bekommt die Bitte nicht heraus, weil es keine Fassung davon gibt, die ihm zusteht: *"I have had it for about an hour and there is no version of it that is mine to say."* Sie liest es und tut es. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
@@ -167,9 +167,15 @@ Die Mitte: die Hand im Haar, und die Arithmetik hört auf. *"He keeps one way ou
 inside his field and he prices the distance to it. He has done it since he was
 nineteen and does not know how to stop. He stopped."*
 
-Die Bitte: **die vierte in zehn Monaten.** Sie zählt die drei davor auf, in der
-Reihenfolge, in der sie passiert sind — *"A piece of paper. A room with nobody
-else in it. And a woman in Ulsan."* Dann: *"Come down here."* Und sie tut es.
+Die Bitte, die es nicht gibt: Sie zählt die drei davor auf, in der Reihenfolge,
+in der sie passiert sind — *"A piece of paper. A room with nobody else in it. And
+a woman in Ulsan."* Und dann kommt die vierte nicht. **Nicht aus Takt, sondern
+weil sie ihm nicht zusteht:** jede Fassung wäre ein Satz, in dem er seiner Herrin
+sagt, wohin sie sich in ihrem eigenen Zimmer zu setzen hat. *"Cannot or will
+not." — "Cannot."* Sie legt das Buch weg und kommt runter, ohne dass er sich
+umdreht, weil auch das der Satz gewesen wäre. Hinterher: *"I did not ask you for
+this." — "No. You did not, and you would not have, and both of us knew that four
+minutes ago."*
 
 Die Umkehrung: zwei Finger unter das Halsband, und *"I am not taking it off
 tonight … And not tonight is not the same as not."*

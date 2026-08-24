@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 56 Kapitel, 137.846 Woerter.
+Book Two, 56 Kapitel, 138.091 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
 | 34 | v1.2 | 2.261 |
-| 35 | v2.3 | 3.648 |
+| 35 | v2.3 | 3.893 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
@@ -7253,19 +7253,35 @@ Annie's hand stopped.
 
 Georgij sat with that for a moment. She had put them in the order they happened and had not needed any time at all to do it. And she had counted the one he called the smaller one on the bridge, which he had assumed she would have let go of by Christmas.
 
-He looked at the wall opposite rather than at her.
+He looked at the wall opposite rather than at her, and did not say anything.
 
-"Come down here."
+"Ask."
 
-Nothing happened for about three seconds.
+He had the shape of it. He had had the shape of it since the third step of the stairs. What he did not have was a sentence. Every version he tried was one in which he told her where to put herself in her own room. There is no arrangement of those words that a man wearing what he wears is entitled to say out loud.
 
-"Say why."
+"I cannot," he said.
 
-"Because I have sat on a floor in this house nearly every day since March, and you have never once been on it." He had one hand flat on the carpet and left it there. "On the second of March I sat at a window against your legs and it was the best evening I have had since I was nine years old. You were in a chair. I have thought about the chair a great deal more than I have thought about the window."
+"Cannot or will not."
 
-He heard her put the book on the arm of the sofa.
+"Cannot. It is not the second one and I would say so." His hand was flat on the carpet. "I have had it for about an hour and there is no version of it that is mine to say."
+
+Annie did not answer.
+
+He heard her put the book on the arm of the sofa, and he did not turn his head, because turning his head would have been the sentence by other means.
 
 Then she came down onto the floor beside him, without any of the noise a person makes doing that. She sat with her back against the same sofa and her shoulder against his arm, and did not say a single word about it.
+
+* * *
+
+Neither of them said anything for a while.
+
+"On the second of March I sat at a window against your legs," said Georgij, eventually, "and it was the best evening I have had since I was nine years old. You were in a chair."
+
+"I know. I was in it."
+
+"I have sat on a floor in this house nearly every day since March and you had never once been on it." He did not move his hand off the carpet. "I have thought about that chair a great deal more than I have thought about the window, and I was not going to tell you that, and I did not ask you for this."
+
+"No," said Annie. "You did not, and you would not have, and both of us knew that four minutes ago." Her shoulder stayed where it was. "You have spent ten months in this house on the understanding that nothing arrives in it that you have not first worked out how to be worth. I am not going to argue with you about that tonight. I am going to sit here instead, which is quicker."
 
 * * *
 
