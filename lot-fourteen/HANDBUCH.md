@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 169.767 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 170.176 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -8884,21 +8884,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 667 | 72 (b1ch01-b2ch51) | 1 | 74 |
+| Annie | 675 | 73 (b1ch01-b2ch54) | 1 | 74 |
 | Park Sang-hoon | 273 | 41 (b1ch10-b2ch51) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
 | Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
-| Mrs Seo | 75 | 33 (b1ch03-b2ch51) | 1 | 74 |
-| Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
+| Mrs Seo | 78 | 34 (b1ch03-b2ch54) | 1 | 74 |
+| Mr Hwang | 71 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
-| Mr Yeo | 51 | 7 (b1ch05-b2ch53) | 5 | 46 |
-| Mr Yeom | 47 | 5 (b2ch24-b2ch53) | 5 | 46 |
+| Mr Yeo | 53 | 8 (b1ch05-b2ch54) | 5 | 46 |
+| Mr Yeom | 49 | 6 (b2ch24-b2ch54) | 5 | 46 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Bae | 35 | 10 (b1ch03-b2ch53) | 1 | 34 |
 | Mr Baek | 34 | 9 (b1ch05-b2ch51) | 2 | 55 |
-| Mrs Sunwoo | 33 | 13 (b1ch07-b2ch26) | 1 | 60 |
+| Mrs Sunwoo | 34 | 14 (b1ch07-b2ch54) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mr Ku | 29 | 20 (b1ch05-b2ch51) | 3 | 60 |
@@ -8924,7 +8924,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-667 Nennungen in 72 Kapiteln.
+675 Nennungen in 73 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9595,6 +9595,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:126 | "Three times," said Annie. |
 | 3 | b2ch51:162 | "And you take nothing in your pockets that anybody could take out of them." Annie looked.. |
 | 3 | b2ch51:194 | Annie nodded once, and that was the whole of the negotiation. |
+| 10 | b2ch54:36 | The terms of business are eleven pages and Annie has a copy, because everybody who buys .. |
+| 10 | b2ch54:218 | Annie looked at the papers before she looked at him, which told him she had recognised t.. |
+| 10 | b2ch54:238 | Annie came and stood at the corner of the desk. |
+| 10 | b2ch54:270 | Annie put the page down and did not say anything for a while. |
+| 10 | b2ch54:290 | Annie looked at him for what was probably four seconds. |
+| 10 | b2ch54:314 | "I am going to tell you one thing about it and it is not about whether." Annie turned th.. |
+| 10 | b2ch54:334 | "Sit down," said Annie. |
+| 10 | b2ch54:342 | Annie took her hand off the papers. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -9781,6 +9789,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch51:44` (Tag 3) - five, one, six
 - `b2ch51:66` (Tag 3) - one
 - `b2ch51:126` (Tag 3) - three
+- `b2ch54:36` (Tag 10) - eleven
+- `b2ch54:290` (Tag 10) - four
+- `b2ch54:314` (Tag 10) - one
 
 ---
 
@@ -10894,7 +10905,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-75 Nennungen in 33 Kapiteln.
+78 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10973,6 +10984,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch47:28 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
 | 3 | b2ch51:6 | The second delivery came on the Thursday, at the same hour as the first, to the same gat.. |
 | 3 | b2ch51:317 | Mrs Seo put the second twelve stems in water beside the first twelve, without being told.. |
+| 10 | b2ch54:40 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
+| 10 | b2ch54:234 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
+| 10 | b2ch54:366 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -11019,12 +11033,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch47:28` (Tag 10) - nineteen
 - `b2ch51:6` (Tag 3) - twelve
 - `b2ch51:317` (Tag 3) - twelve
+- `b2ch54:40` (Tag 10) - nine, ten
+- `b2ch54:234` (Tag 10) - nine, ten
+- `b2ch54:366` (Tag 10) - nine, ten
 
 ---
 
 ### Mr Hwang
 
-70 Nennungen in 14 Kapiteln.
+71 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11098,6 +11115,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:226 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
 | 5 | b2ch43:238 | "You did not know Hwang was coming." |
 | 5 | b2ch43:242 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
+| 10 | b2ch54:140 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -11134,6 +11152,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:214` (Tag 5) - seven, six, three
 - `b2ch43:226` (Tag 5) - one, six
+- `b2ch54:140` (Tag 10) - four, one, thirty
 
 ---
 
@@ -11232,7 +11251,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Yeo
 
-51 Nennungen in 7 Kapiteln.
+53 Nennungen in 8 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11287,6 +11306,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
 | 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
 | 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
+| 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
+| 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
@@ -11312,12 +11333,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch53:286` (Tag 8) - one
 - `b2ch53:310` (Tag 8) - one, two
 - `b2ch53:318` (Tag 8) - four
+- `b2ch54:154` (Tag 10) - four, nine
 
 ---
 
 ### Mr Yeom
 
-47 Nennungen in 5 Kapiteln.
+49 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11368,6 +11390,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
 | 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
 | 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
+| 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
+| 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -11389,6 +11413,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch53:286` (Tag 8) - one
 - `b2ch53:310` (Tag 8) - one, two
 - `b2ch53:318` (Tag 8) - four
+- `b2ch54:154` (Tag 10) - four, nine
 
 ---
 
@@ -11667,7 +11692,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Sunwoo
 
-33 Nennungen in 13 Kapiteln.
+34 Nennungen in 14 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11704,6 +11729,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
 | 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 10 | b2ch54:20 | Mrs Sunwoo told him that in October, in a ballroom, without any idea what she was handin.. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
 
@@ -11726,6 +11752,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:292` (Tag 17) - eighty-one, one, three
 - `b2ch23:84` (Tag 24) - three
 - `b2ch23:122` (Tag 24) - four, two
+- `b2ch54:20` (Tag 10) - four, nineteen, one, thirty
 
 ---
 

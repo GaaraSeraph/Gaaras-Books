@@ -87,6 +87,7 @@ b2  ch50  v2.0       2977 Woerter  ch50_v2_0_en.md
 b2  ch51  v1.0       2158 Woerter  ch51_v1_0_en.md
 b2  ch52  v1.0       2311 Woerter  ch52_v1_0_en.md
 b2  ch53  v1.0       2494 Woerter  ch53_v1_0_en.md
+b2  ch54  v1.0       2499 Woerter  ch54_v1_0_en.md
 
-Gesamt: 2 Baende, 87 Kapitel, 230637 Woerter
+Gesamt: 2 Baende, 88 Kapitel, 233136 Woerter
 Handbuch: 10 Dokumente
