@@ -77,6 +77,7 @@ b2  ch40  v1.0       2002 Woerter  ch40_v1_0_en.md
 b2  ch41  v1.0       2003 Woerter  ch41_v1_0_en.md
 b2  ch42  v1.0       2007 Woerter  ch42_v1_0_en.md
 b2  ch43  v1.0       2010 Woerter  ch43_v1_0_en.md
+b2  ch44  v1.0       2001 Woerter  ch44_v1_0_en.md
 
-Gesamt: 2 Baende, 77 Kapitel, 197100 Woerter
+Gesamt: 2 Baende, 78 Kapitel, 199101 Woerter
 Handbuch: 9 Dokumente

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 146.970 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 147.985 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -139,9 +139,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Yeom](#mr-yeom)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
+  - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Baek](#mr-baek)
   - [Shin](#shin)
-  - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Pyo](#mr-pyo)
   - [Bae](#bae)
   - [Mr Noh](#mr-noh)
@@ -2446,6 +2446,15 @@ nachrechnen, und `check.py` tut das automatisch.
   S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
   vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
   weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 43)
+- Tag 276, Mo 6. Juli: **Brandschutz-Meldung und Jangs Gasflaschen-Lieferwagen
+  bestaetigen sich gegenseitig.** Medizinischer Sauerstoff wurde am
+  Pflegeheim bei Wonju genau einmal gemeldet, im Juli vor vier Jahren, nie
+  storniert. Jang beobachtet seit drei Wochen denselben Lieferwagen, nur an
+  diesem Haus, ohne festen Rhythmus - vermutlich bestellt statt Routine.
+  **Stuetzt Georgijs dritte Lesart** (eine Person, elf Jahre gehalten, vor
+  vier Jahren verschlechtert), **beweist aber keinen Namen.** Annie bremst
+  ausdruecklich. K weiterhin offen, jetzt mit ausgeschlossenem Ansatz
+  (Golfclub-Mitgliederlisten nicht zugaenglich) (Band 2, Kapitel 44)
   (Band 2, Kapitel 42)
 
 
@@ -4005,6 +4014,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie liefert die Richtung fuer K:** kein Tisch, keine Rechnung - ein Golfplatz, ein privates Badehaus, irgendein Ort, an dem ein Treffen wie Freizeit aussieht und deshalb keine Quittung braucht. Dazu eine neue Einzelheit ueber ihren Vater: **er hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt**, niemand hat je aufgeschrieben, was dort entschieden wurde.
 
   *Korrekturhinweis 24.08.: Die erste Fassung hatte H versehentlich als "zwei Jahre nach S" und an einer Stelle als "vor drei Jahren" datiert - beides widersprach der Tatsache, dass Hwang laut Kapitel 21 erst seit Mai bekannt und (fuenf Monate zurueckgerechnet) im Dezember desselben jetzt laufenden Zeitraums ins Haus kam. Korrigiert auf "drei Jahre nach S" (ergibt Oktober, knapp ein Jahr vor der aktuellen Kapitelzeit), passend zu den sechs Wochen vor Hwangs Ankunft.*
+
+---
+
+- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+
+  **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
+
+  **Jang bestaetigt es von aussen, ohne dass Georgij ihm sagt, was er sucht:** ein grauer Lieferwagen einer Gasfirma, seit drei Wochen beobachtet, ausschliesslich an dieser Adresse, **ohne festen Rhythmus** - Jangs eigene Deutung: bestellt, wenn ein Tank zur Neige geht, nicht auf Route. **Zwei Dokumente, die einander nie kannten, stimmen ueberein.**
+
+  **Annie bremst die Schlussfolgerung, bevor Georgij sie zu weit treibt:** die Ausruestung beweise, dass etwas geschah, nicht fuer wen. *"You have built a true thing out of two facts before, and you have also built a wrong one, and the difference between them was never how confident you felt while you were doing it."* Sie stimmt aber der zweiten Lesart zu, die Jangs Detail liefert - **jemand beobachtet den Tank taeglich genug, um den Anruf rechtzeitig zu machen, und das ist keine Einrichtung, die einen Dienstplan fuehrt, sondern eine Person, die sich kuemmert.**
+
+  **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
 ---
 
@@ -5716,6 +5737,11 @@ Fassung.**
   Orte ohne Rechnung: Golfplatz, Badehaus, ein Boot. **Faellig: wo genau, und
   wer.**
 
+  **Kapitel 44: Golfclub-Ansatz fuer K bereits geprueft und ausgeschlossen** -
+  Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij
+  lehnt einen Beitritt dafuer ab. **K braucht ein anderes Dokument, noch nicht
+  gefunden.**
+
 - **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
   dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,
   sobald die Spur kalt war. **Faellig: derselbe Mittelsmann wie beim Kartenabend,
@@ -5782,6 +5808,16 @@ Fassung.**
   vor elf Jahren gebaut wurde - nicht ob sie noch lebt (das weiss man aus
   Kapitel 40 bereits), sondern ob es dieselbe Person ist. **Zwei
   verschiedene Fragen, noch nicht getrennt beantwortet.**
+
+  **Kapitel 44: starke Indizien, kein Name.** Brandschutz-Meldung fuer
+  medizinischen Sauerstoff (genau einmal, Juli vor vier Jahren) und Jangs
+  unabhaengig beobachteter Gaslieferwagen (drei Wochen, kein fester
+  Rhythmus, nur diese Adresse) stimmen ueberein und stuetzen Georgijs
+  dritte Lesart aus Kapitel 42 (eine Person, elf Jahre gehalten, vor vier
+  Jahren verschlechtert). **Beweist keinen Namen.** Annie bremst
+  ausdruecklich. Neu und noch offen: **jemand beobachtet den Tank taeglich
+  genug, um rechtzeitig anzurufen** - entweder lebt jemand mit ihr im Haus,
+  oder besucht sie oft genug. **Faellig: wer, ueber die Gasfirma.**
 
 - **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.
@@ -7010,14 +7046,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 608 | 65 (b1ch01-b2ch43) | 1 | 74 |
-| Park Sang-hoon | 218 | 36 (b1ch10-b2ch43) | 1 | 74 |
+| Annie | 614 | 66 (b1ch01-b2ch44) | 1 | 74 |
+| Park Sang-hoon | 221 | 37 (b1ch10-b2ch44) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 116 | 27 (b1ch05-b2ch42) | 2 | 60 |
+| Jang | 126 | 28 (b1ch05-b2ch44) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
-| Mrs Jeon | 56 | 15 (b2ch06-b2ch43) | 2 | 59 |
+| Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -7030,9 +7066,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeom | 25 | 3 (b2ch24-b2ch34) | 26 | 46 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
+| Choi Dae-ho | 18 | 10 (b1ch07-b2ch44) | 5 | 61 |
 | Mr Baek | 18 | 7 (b1ch05-b2ch42) | 2 | 61 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Choi Dae-ho | 17 | 9 (b1ch07-b2ch43) | 5 | 61 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -7050,7 +7086,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-608 Nennungen in 65 Kapiteln.
+614 Nennungen in 66 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7662,6 +7698,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:178 | "Then stop looking at tables." Annie set her pen down. "A man who wants no record does n.. |
 | 5 | b2ch43:194 | "I grew up watching my own father do business on a golf course twice a month and call it.. |
 | 5 | b2ch43:214 | K would not be like that, and he understood why the moment Annie said it aloud. A golf c.. |
+| 8 | b2ch44:146 | He brought it to Annie that evening, in the small room, before either of them had eaten. |
+| 8 | b2ch44:162 | Annie did not answer at once, and when she did, it was not agreement. |
+| 8 | b2ch44:182 | "That is the correct amount of certainty to have tonight." Annie sat down across from hi.. |
+| 8 | b2ch44:190 | "That is the part I believe without needing a second document," said Annie. "A rostered .. |
+| 8 | b2ch44:198 | "Or visits often enough that the difference does not matter to a tank." Annie looked at .. |
+| 8 | b2ch44:222 | "Then K waits, and tonight you have S, H, and a gap you can explain instead of only desc.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7833,7 +7875,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-218 Nennungen in 36 Kapiteln.
+221 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8055,6 +8097,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:150 | "Then it happened somewhere I have not yet thought to be ashamed of." Sang-hoon almost l.. |
 | 5 | b2ch43:158 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
 | 5 | b2ch43:218 | He did not take that as a reason to stop. He took it as a description of the work still .. |
+| 8 | b2ch44:6 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
+| 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
+| 8 | b2ch44:158 | "That the third reading I gave Sang-hoon at the restaurant was closer than the first two.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -8161,6 +8206,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:150` (Tag 5) - one, two
 - `b2ch43:158` (Tag 5) - six
 - `b2ch43:218` (Tag 5) - one, three, two
+- `b2ch44:6` (Tag 8) - two
+- `b2ch44:26` (Tag 8) - three
+- `b2ch44:158` (Tag 8) - eleven, four, one, two
 
 ---
 
@@ -8645,7 +8693,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-116 Nennungen in 27 Kapiteln.
+126 Nennungen in 28 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8765,6 +8813,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:228 | Georgij sat with that detail longer than he sat with any of the others. It was the only .. |
 | 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:186 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
+| 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
+| 8 | b2ch44:54 | He telephoned Jang before he wrote anything more permanent than that. |
+| 8 | b2ch44:70 | Jang did not answer straight away, which was a thing Jang did when he was checking his o.. |
+| 8 | b2ch44:98 | Georgij wrote it down exactly as Jang had given it, the van first and the schedule secon.. |
+| 8 | b2ch44:114 | "Good. That is the only reason I am telling you any of it." Jang paused. "Is this the so.. |
+| 8 | b2ch44:122 | Jang said nothing to that for a moment, and Georgij understood the silence was agreement.. |
+| 8 | b2ch44:126 | "There is one more thing," Jang said, before Georgij could end the call. "The van does n.. |
+| 8 | b2ch44:134 | "Because a fixed round tells you nothing about the person receiving it. A round that onl.. |
+| 8 | b2ch44:138 | "Understood," said Jang, and rang off. |
+| 8 | b2ch44:186 | "Jang thinks the van comes only when it is called for, not on a route," said Georgij. "I.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -8820,6 +8878,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:228` (Tag 3) - one, six
 - `b2ch41:132` (Tag 5) - one
 - `b2ch42:186` (Tag 2) - eleven, one, two
+- `b2ch44:10` (Tag 8) - eleven, sixteen
+- `b2ch44:98` (Tag 8) - one
+- `b2ch44:126` (Tag 8) - one
+- `b2ch44:134` (Tag 8) - one
+- `b2ch44:186` (Tag 8) - four, one
 
 ---
 
@@ -9058,7 +9121,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-56 Nennungen in 15 Kapiteln.
+57 Nennungen in 16 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9118,6 +9181,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch42:162 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
 | 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
 | 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
+| 8 | b2ch44:46 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -9143,6 +9207,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch42:162` (Tag 2) - one, twenty-three
 - `b2ch43:42` (Tag 5) - one, two
 - `b2ch43:66` (Tag 5) - forty, one
+- `b2ch44:46` (Tag 8) - one
 
 ---
 
@@ -9819,6 +9884,47 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Choi Dae-ho
+
+18 Nennungen in 10 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
+| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
+| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
+| 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 61 | b2ch39:132 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
+| 5 | b2ch43:18 | He had already found Y in it, three weeks ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
+| 8 | b2ch44:210 | "I looked at K again as well, before I came up," he said. "A club membership list is a k.. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+- `b2ch33:50` (Tag 45) - four, one, two
+- `b2ch34:42` (Tag 46) - four, one, six, two
+- `b2ch36:12` (Tag 51) - four, one
+- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
+- `b2ch36:124` (Tag 51) - three
+- `b2ch39:132` (Tag 61) - one
+- `b2ch43:18` (Tag 5) - one, three
+- `b2ch43:130` (Tag 5) - one, six
+
+---
+
 ### Mr Baek
 
 18 Nennungen in 7 Kapiteln.
@@ -9897,46 +10003,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch02:162` (Tag 53) - eight, five, one, two
 - `b2ch02:168` (Tag 53) - four, one, three
 - `b2ch02:186` (Tag 53) - one
-
----
-
-### Choi Dae-ho
-
-17 Nennungen in 9 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
-| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
-| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
-| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
-| 61 | b2ch39:132 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 5 | b2ch43:18 | He had already found Y in it, three weeks ago, sitting at a table with a companion who a.. |
-| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
-- `b2ch33:50` (Tag 45) - four, one, two
-- `b2ch34:42` (Tag 46) - four, one, six, two
-- `b2ch36:12` (Tag 51) - four, one
-- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
-- `b2ch36:124` (Tag 51) - three
-- `b2ch39:132` (Tag 61) - one
-- `b2ch43:18` (Tag 5) - one, three
-- `b2ch43:130` (Tag 5) - one, six
 
 ---
 

@@ -732,6 +732,11 @@ Fassung.**
   Orte ohne Rechnung: Golfplatz, Badehaus, ein Boot. **Faellig: wo genau, und
   wer.**
 
+  **Kapitel 44: Golfclub-Ansatz fuer K bereits geprueft und ausgeschlossen** -
+  Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij
+  lehnt einen Beitritt dafuer ab. **K braucht ein anderes Dokument, noch nicht
+  gefunden.**
+
 - **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
   dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,
   sobald die Spur kalt war. **Faellig: derselbe Mittelsmann wie beim Kartenabend,
@@ -798,6 +803,16 @@ Fassung.**
   vor elf Jahren gebaut wurde - nicht ob sie noch lebt (das weiss man aus
   Kapitel 40 bereits), sondern ob es dieselbe Person ist. **Zwei
   verschiedene Fragen, noch nicht getrennt beantwortet.**
+
+  **Kapitel 44: starke Indizien, kein Name.** Brandschutz-Meldung fuer
+  medizinischen Sauerstoff (genau einmal, Juli vor vier Jahren) und Jangs
+  unabhaengig beobachteter Gaslieferwagen (drei Wochen, kein fester
+  Rhythmus, nur diese Adresse) stimmen ueberein und stuetzen Georgijs
+  dritte Lesart aus Kapitel 42 (eine Person, elf Jahre gehalten, vor vier
+  Jahren verschlechtert). **Beweist keinen Namen.** Annie bremst
+  ausdruecklich. Neu und noch offen: **jemand beobachtet den Tank taeglich
+  genug, um rechtzeitig anzurufen** - entweder lebt jemand mit ihr im Haus,
+  oder besucht sie oft genug. **Faellig: wer, ueber die Gasfirma.**
 
 - **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.

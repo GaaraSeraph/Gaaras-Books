@@ -329,6 +329,15 @@ nachrechnen, und `check.py` tut das automatisch.
   S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
   vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
   weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 43)
+- Tag 276, Mo 6. Juli: **Brandschutz-Meldung und Jangs Gasflaschen-Lieferwagen
+  bestaetigen sich gegenseitig.** Medizinischer Sauerstoff wurde am
+  Pflegeheim bei Wonju genau einmal gemeldet, im Juli vor vier Jahren, nie
+  storniert. Jang beobachtet seit drei Wochen denselben Lieferwagen, nur an
+  diesem Haus, ohne festen Rhythmus - vermutlich bestellt statt Routine.
+  **Stuetzt Georgijs dritte Lesart** (eine Person, elf Jahre gehalten, vor
+  vier Jahren verschlechtert), **beweist aber keinen Namen.** Annie bremst
+  ausdruecklich. K weiterhin offen, jetzt mit ausgeschlossenem Ansatz
+  (Golfclub-Mitgliederlisten nicht zugaenglich) (Band 2, Kapitel 44)
   (Band 2, Kapitel 42)
 
 
@@ -1888,6 +1897,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Annie liefert die Richtung fuer K:** kein Tisch, keine Rechnung - ein Golfplatz, ein privates Badehaus, irgendein Ort, an dem ein Treffen wie Freizeit aussieht und deshalb keine Quittung braucht. Dazu eine neue Einzelheit ueber ihren Vater: **er hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt**, niemand hat je aufgeschrieben, was dort entschieden wurde.
 
   *Korrekturhinweis 24.08.: Die erste Fassung hatte H versehentlich als "zwei Jahre nach S" und an einer Stelle als "vor drei Jahren" datiert - beides widersprach der Tatsache, dass Hwang laut Kapitel 21 erst seit Mai bekannt und (fuenf Monate zurueckgerechnet) im Dezember desselben jetzt laufenden Zeitraums ins Haus kam. Korrigiert auf "drei Jahre nach S" (ergibt Oktober, knapp ein Jahr vor der aktuellen Kapitelzeit), passend zu den sechs Wochen vor Hwangs Ankunft.*
+
+---
+
+- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+
+  **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
+
+  **Jang bestaetigt es von aussen, ohne dass Georgij ihm sagt, was er sucht:** ein grauer Lieferwagen einer Gasfirma, seit drei Wochen beobachtet, ausschliesslich an dieser Adresse, **ohne festen Rhythmus** - Jangs eigene Deutung: bestellt, wenn ein Tank zur Neige geht, nicht auf Route. **Zwei Dokumente, die einander nie kannten, stimmen ueberein.**
+
+  **Annie bremst die Schlussfolgerung, bevor Georgij sie zu weit treibt:** die Ausruestung beweise, dass etwas geschah, nicht fuer wen. *"You have built a true thing out of two facts before, and you have also built a wrong one, and the difference between them was never how confident you felt while you were doing it."* Sie stimmt aber der zweiten Lesart zu, die Jangs Detail liefert - **jemand beobachtet den Tank taeglich genug, um den Anruf rechtzeitig zu machen, und das ist keine Einrichtung, die einen Dienstplan fuehrt, sondern eine Person, die sich kuemmert.**
+
+  **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
 ---
 
