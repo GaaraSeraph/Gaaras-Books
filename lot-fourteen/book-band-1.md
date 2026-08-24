@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.123 Woerter.
+Book One, 34 Kapitel, 101.143 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,8 +11,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.6 | 2.403 |
-| 02 | v11.8 | 3.166 |
+| 01 | v6.7 | 2.422 |
+| 02 | v11.9 | 3.167 |
 | 03 | v2.7 | 3.374 |
 | 04 | v1.9 | 2.443 |
 | 05 | v5.10 | 4.327 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.6 · EN
+*Lot Fourteen* · Version 6.7 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -231,7 +231,7 @@ The guard's eyes came up in the mirror.
 
 "Listen to it," he said. "*Contract.*" He was speaking to Annie without turning round, in the tone men use for a dog that has got onto the furniture. "Ma'am, it's got a collar on and it's using the word contract. Four houses sent that back. Four. You want to know what a thing like that is doing right now, it's counting how many of us are in the car."
 
-"Three," Georgij said pleasantly. "Including the woman who pays you."
+"Three," Georgij said pleasantly. "Including the woman who pays you." He did not turn round. "And the collar is on my throat. It has never once protected anybody else's."
 
 Annie held his gaze for a long moment.
 
@@ -270,7 +270,7 @@ Annie didn't turn her head.
 ---
 
 # Book One · Chapter 2: Quid pro Quo
-*Lot Fourteen* · Version 11.8 · EN
+*Lot Fourteen* · Version 11.9 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -450,7 +450,7 @@ Georgij picked up the bag as he came.
 
 The stud gave under his thumb on the way up out of the car. It was a manicure set. The scissors were the second thing in the roll, and he had them out and through the man's eye without any particular effort, the way you'd post a letter.
 
-"I did mention what my file says."
+"I did mention the collar wouldn't protect you."
 
 He said it kindly.
 

@@ -1,7 +1,7 @@
 # Erzeugt von build.py. Ergebnis, nicht Eingabe.
 
-b1  ch01  v6.6       2403 Woerter  ch01_v6_6_en.md
-b1  ch02  v11.8       3166 Woerter  ch02_v11_8_en.md
+b1  ch01  v6.7       2422 Woerter  ch01_v6_7_en.md
+b1  ch02  v11.9       3167 Woerter  ch02_v11_9_en.md
 b1  ch03  v2.7       3374 Woerter  ch03_v2_7_en.md
 b1  ch04  v1.9       2443 Woerter  ch04_v1_9_en.md
 b1  ch05  v5.10      4327 Woerter  ch05_v5_10_en.md
@@ -81,5 +81,5 @@ b2  ch44  v1.2       2006 Woerter  ch44_v1_2_en.md
 b2  ch45  v1.0       2163 Woerter  ch45_v1_0_en.md
 b2  ch46  v1.0       2074 Woerter  ch46_v1_0_en.md
 
-Gesamt: 2 Baende, 80 Kapitel, 204020 Woerter
+Gesamt: 2 Baende, 80 Kapitel, 204040 Woerter
 Handbuch: 10 Dokumente

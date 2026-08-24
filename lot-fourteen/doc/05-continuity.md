@@ -443,8 +443,8 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
 ### Stand der Kapitel
 
-- **Kapitel 1** *Merchandise doesn't talk* (v6.6) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
-- **Kapitel 2** *Quid pro Quo* (v11.8) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 1** *Merchandise doesn't talk* (v6.7) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
+- **Kapitel 2** *Quid pro Quo* (v11.9) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 34** *Then take it off* (v1.8) - **Drei Abschnitte, und der Schluss von Band 1.**
 
   **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
@@ -2595,13 +2595,16 @@ offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
   Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
   Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
   Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
-- **Kapitel 2 berief sich auf einen Satz, den es nicht gibt.** Nach dem Stich
-  auf der Auffahrt sagte Georgij *"I did mention the collar wouldn't protect
-  you."* Erwaehnt hat er das Halsband nie; was er im Wagen gesagt hat, ist
-  *"and I'll be exactly what my file says I am."* Die Zeile zeigt jetzt
-  dorthin: **"I did mention what my file says."** Der Gegenbeleg steht vier
-  Absaetze weiter, wo das Buch es richtig macht: *"A transfer of debt is a
-  contract. I said so in your car."*
+- **Die Warnung an den Wachmann steht jetzt im Wagen, wo sie hingehoert.**
+  Kapitel 2 beruft sich nach dem Stich auf *"I did mention the collar
+  wouldn't protect you."* - gesagt hatte er es nirgends. Statt den
+  Rueckbezug zu aendern, ist der Satz nachgetragen: in Kapitel 1 bringt der
+  Wachmann das Halsband selbst ins Spiel (*"it's got a collar on"*), und
+  Georgij beantwortet beide Haelften seiner Rede - *"Three. Including the
+  woman who pays you." ... "And the collar is on my throat. It has never
+  once protected anybody else's."* Damit ist die Drohung angesagt, bevor
+  sie eingeloest wird, und Annies *"You waited, though"* auf der Auffahrt
+  bekommt einen zweiten Boden.
 - **Die Gebotsleiter in Kapitel 1 hatte eine Luecke von vierzig Millionen.**
   Die Mitte stirbt bei hundertzehn, die Front stieg zwischen hundertfuenfzig
   und hundertsechzig aus - und danach steigt der Preis noch bis zweihundert,
