@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 158.092 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 158.637 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -131,6 +131,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ye-rin wird im Dezember angesprochen, nicht im Januar](#ye-rin-wird-im-dezember-angesprochen-nicht-im-januar)
   - [Annie geht auf Woos Satz mit keinem Wort ein](#annie-geht-auf-woos-satz-mit-keinem-wort-ein)
 - [Arbeitsteilung: Stil und Inhalt](#arbeitsteilung-stil-und-inhalt)  ·  `doc/09-arbeitsteilung.md`
+  - [Was wirklich kollidiert](#was-wirklich-kollidiert)
+  - [Die vier Regeln](#die-vier-regeln)
+  - [Wenn es doch kollidiert](#wenn-es-doch-kollidiert)
+  - [Wer schreibt in welches Dokument](#wer-schreibt-in-welches-dokument)
+  - [Und der Uebergabepunkt](#und-der-uebergabepunkt)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -7913,7 +7918,7 @@ maschinell pruefen und tut es noch nicht.
 
 # Arbeitsteilung: Stil und Inhalt
 
-Ab dem 24.08. laufen zwei getrennte Sitzungen an diesem Buch. Dieses Dokument
+Ab dem 24.08. laufen drei getrennte Sitzungen an diesem Buch. Dieses Dokument
 sagt, wer was hat, was schon geprueft ist, und was offen liegt. **Wer eine
 Sitzung aufmacht, liest es zuerst und danach `doc/05-continuity.md`.**
 
@@ -8045,6 +8050,86 @@ Commit alles neu baut.
    Geburtstagsregister. Wer schreibt, liest die Datei zuerst - sonst schreibt er
    gegen einen Stand, den es nicht mehr gibt. Genau so sind Kapitel 43 und 44
    entstanden, mit drei Verweisen auf einen April, den es nicht gab.
+
+---
+
+---
+
+## Drei Sitzungen, Stand 24.08.
+
+Seit heute laufen drei: **Schreiben**, **Stil**, **Inhalt**. Dieser Abschnitt
+sagt, woran sie sich tatsaechlich stossen und was dagegen hilft. Er ist aus
+Schaden geschrieben - an einem Tag mussten drei Rebases von Hand aufgeloest
+werden, und zwei Kapitel wurden gegen einen Kanon geschrieben, den es nicht mehr
+gab.
+
+### Was wirklich kollidiert
+
+**Nicht die Prosa.** An keiner einzigen Textstelle sind sich zwei Sitzungen in
+die Quere gekommen. Kollidiert sind drei Dinge, und alle drei sind loesbar:
+
+1. **Die erzeugten Dateien.** `book-band-1.md`, `book-band-2.md`, `HANDBUCH.md`,
+   `MANIFEST.txt`, `BEGEGNUNGEN.md`, `paste/`. Jede Sitzung baut beim Commit
+   alles neu, und jeder Neubau beruehrt alle achtzig Kapitel. **Das war die
+   Ursache von drei Konflikten an einem Tag.**
+2. **Der Kanon.** Wenn die Inhaltssitzung Woos Alter oder Byuns Abgang aendert,
+   ist das fuer die Schreibsitzung unsichtbar. Kapitel 43 und 44 sind so
+   entstanden - mit drei Verweisen auf einen April, den es nicht mehr gab.
+3. **Die Versionsnummern.** Wenn zwei Sitzungen dasselbe Kapitel hochsetzen,
+   entstehen zwei Dateien mit demselben neuen Namen. Das ist der einzige
+   Konflikt, den git nicht selbst aufloesen kann.
+
+### Die vier Regeln
+
+**1. Nur eine Sitzung committet Erzeugtes - am besten keine.** Die GitHub-Action
+baut bei jedem Push auf `main` ohnehin neu und schreibt das Ergebnis zurueck. Wer
+lokal baut, um zu pruefen, ist richtig; wer das Ergebnis mitcommittet, erzeugt
+den naechsten Konflikt. **Damit faellt Ursache 1 ganz weg.**
+
+**2. `git pull --rebase` vor jeder Sitzung, und nicht nur vor dem Push.** Die
+Schreibsitzung liest danach `doc/05-continuity.md`, Abschnitt *"Korrigiert am
+..."*. Zwei Minuten, und sie haetten die drei Aprils verhindert.
+
+**3. Kurze Fenster.** Ein Block sind zwei bis drei Kapitel: lesen, reparieren,
+Versionen hochsetzen, pushen. Zwischen Pull und Push liegt eine halbe Stunde und
+nicht ein Nachmittag. Damit ist Ursache 3 fast ausgeschlossen, weil zwei
+Sitzungen selten im selben halben Stunde dasselbe Kapitel hochsetzen.
+
+**4. Ein Kapitel gehoert zur Zeit einer Sitzung.** Stil und Inhalt fassen beide
+bestehende Kapitel an - das ist die einzige echte Ueberschneidung. Also nicht
+gleichzeitig am selben Band: einer nimmt Band 1, der andere Band 2, oder sie
+tauschen blockweise. Die Schreibsitzung faellt aus der Frage heraus, weil sie
+neue Dateien anlegt und keine bestehenden aendert.
+
+### Wenn es doch kollidiert
+
+**Erzeugte Dateien werden nie von Hand aufgeloest.** `build.py` laufen lassen,
+`git add`, `git rebase --continue`. Das dauert Sekunden und ist immer richtig,
+weil die Dateien aus den Quellen folgen.
+
+**Bei zwei gleichnamigen Kapitelversionen** gewinnt keine automatisch. Beide
+Fassungen ansehen, die Aenderungen zusammenfuehren, **eine** neue Nummer
+vergeben, und in `doc/05-continuity.md` eintragen, was zusammengelegt wurde.
+
+### Wer schreibt in welches Dokument
+
+| Datei | Sitzung |
+|---|---|
+| `chapters-2/` neue Kapitel | Schreiben |
+| bestehende Kapitel | Stil **oder** Inhalt, nach Regel 4 |
+| `doc/01-craft.md` | Stil |
+| `doc/05-continuity.md`, `doc/08-decisions.md` | Inhalt |
+| `doc/06-plot.md` | Schreiben |
+| `doc/07-next.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
+| `doc/09-arbeitsteilung.md` | wer die Aufteilung aendert, und zwar bevor er sie aendert |
+
+### Und der Uebergabepunkt
+
+`doc/05-continuity.md` ist die Stelle, an der die drei einander erreichen. Dort
+stehen die Kapitelliste, das Geburtstagsregister und die Liste der geaenderten
+Kanonzahlen. **Wer etwas am Kanon aendert, traegt es dort ein, bevor er pusht.**
+Wer schreibt, liest es, bevor er anfaengt. Alles andere ist Chatverlauf und damit
+weg.
 
 ---
 
