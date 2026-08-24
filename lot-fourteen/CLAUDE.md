@@ -63,7 +63,7 @@ ein Wort mehr steht.
 - **Band 2, Kapitel 1** *Titel* (v1.0) - ...                   <- Band 2
 ```
 
-**Was NICHT getrennt laeuft, und das ist Absicht:** die acht Dokumente in `doc/`,
+**Was NICHT getrennt laeuft, und das ist Absicht:** die Dokumente in `doc/`,
 der Kalender und das Begegnungsregister. Es ist eine Geschichte und eine
 Figurenwelt. Der Kalender zaehlt ueber die Bandgrenze durch, und `check.py` prueft
 die Datumszeilen von Band 2 gegen denselben Kalender wie die von Band 1.
@@ -87,7 +87,7 @@ die Kapitelpruefung warnt nur.
 |---|---|
 | `chapters/` | Die Kapitel von **Band 1**. Kanon |
 | `chapters-2/` | Die Kapitel von **Band 2**, wieder ab `ch01`. Kanon |
-| `doc/` | Die acht Quelldokumente. Gelten fuer beide Baende |
+| `doc/` | Die neun Quelldokumente. Gelten fuer beide Baende |
 | `paste/band-N/` | Einfuegefassungen je Band. **Erzeugt**, nie bearbeiten |
 | `read/band-N/` | Lesefassungen als HTML, dazu `read/book.html` fuer alles. **Erzeugt**, nicht versioniert |
 
@@ -116,7 +116,7 @@ Motivwiederholung faengt, weil man den Nachbartext im Kopf hat.
 
 **3. Pruefauftraege an Agenten**, fuer alles, was das ganze Buch auf einmal
 braucht: Zahlen quer ueber vierunddreissig Kapitel, Zeitangaben gegen den Kalender,
-Dokument gegen Text. Ein Leser kann 50.000 Woerter plus acht Dokumente nicht mit
+Dokument gegen Text. Ein Leser kann 50.000 Woerter plus neun Dokumente nicht mit
 der noetigen Genauigkeit halten, vier Leser mit je einem Auftrag schon.
 
 **Was in jeden Auftrag gehoert:** welche Dateien Kanon sind (namentlich, es
@@ -246,7 +246,8 @@ scheint.
 | `doc/06-plot.md` | Stoffbloecke. Kein Kanon, keine Kapitel |
 | `doc/07-next.md` | Naechste Schritte und offene Faeden |
 | `doc/08-decisions.md` | Was entschieden wurde und warum |
-| `HANDBUCH.md` | **Erzeugt.** Alle acht am Stueck, mit Inhaltsverzeichnis |
+| `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
+| `HANDBUCH.md` | **Erzeugt.** Alle neun am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
 

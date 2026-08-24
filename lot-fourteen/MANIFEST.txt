@@ -80,4 +80,4 @@ b2  ch43  v1.2       2017 Woerter  ch43_v1_2_en.md
 b2  ch44  v1.2       2006 Woerter  ch44_v1_2_en.md
 
 Gesamt: 2 Baende, 78 Kapitel, 199462 Woerter
-Handbuch: 9 Dokumente
+Handbuch: 10 Dokumente

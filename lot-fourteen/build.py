@@ -342,7 +342,7 @@ def build_register(root, chapters):
 
 def build_handbook(root, register=None):
     """Alle doc/-Dokumente am Stueck, plus das Begegnungsregister als letzter
-    Teil. Das Register ist erzeugt und die acht Dokumente sind Quelle, aber
+    Teil. Das Register ist erzeugt und die Dokumente sind Quelle, aber
     beim Nachschlagen will man beides in einer Datei: wer eine Figurenszene
     schreibt, braucht die Beschreibung aus doc/03 und die Chronik aus dem
     Register nebeneinander."""
