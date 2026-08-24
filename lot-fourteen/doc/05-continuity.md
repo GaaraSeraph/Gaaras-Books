@@ -1268,7 +1268,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
-- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.2) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.3) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
 
   **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
 
@@ -1298,7 +1298,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
-- **Band 2, Kapitel 21** *Tidily* (v1.3) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+- **Band 2, Kapitel 21** *Tidily* (v1.4) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
   **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vieren gesagt.
 
@@ -1343,7 +1343,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
 
-- **Band 2, Kapitel 22** *I did not offer you anything* (v1.1) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
+- **Band 2, Kapitel 22** *I did not offer you anything* (v1.2) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
 
   **Mr Byun**, achtundsechzig, hat das Register des Hauses **sechsundzwanzig Jahre** gefuehrt und ist im November gegangen, weil er nicht fuer Leute arbeiten wollte, die ihn fragen, was er den ganzen Tag macht. **Erster Auftritt und einziger.**
 
@@ -1373,7 +1373,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
 
-- **Band 2, Kapitel 23** *Three of the four* (v1.1) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
+- **Band 2, Kapitel 23** *Three of the four* (v1.2) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
 
   **Das Kapitel beginnt mit einem Versprechen, das er nicht halten kann, und er laesst es sich nicht als Formsache durchgehen.** Er hat Byun gesagt, die vier Kaeufer wuerden informiert. **Er erreicht drei. Der vierte ist der Mann, den er sucht.** *"He said a thing in a room that will be three quarters true, and Mr Byun will go to his grave not knowing which quarter, and the only person who is ever going to notice is Georgij."*
 
@@ -1801,7 +1801,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v1.1) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v1.2) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -2503,6 +2503,11 @@ offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
 - **Kapitel 34 kennt das Grundstueck in Gangwon-do noch nicht.** Es ist Annies
   Fund und kommt erst in Kapitel 36.
 - **Sang-hoons Auftrag faellt am 27. Mai im Schuppen**, nicht im April.
+- **Mr Byun verlaesst das Haus Ende Februar**, nicht im November, und hat Annies
+  Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
+  Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
+  Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Die Lesefassung ist geteilt:** `book-band-1.md` und `book-band-2.md`.
 - **Georgij hat in Band 2 keine eigene Kontraktion.** Der einzige Treffer ist ein
   Zitat: *"Tell her we haven't met."* (Kapitel 10). Siehe `doc/01-craft.md`,
   Abschnitt 2c.

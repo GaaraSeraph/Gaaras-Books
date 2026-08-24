@@ -7,7 +7,7 @@ dem die Datei liegt, und wird von `build.py` in die Titelzeile geschrieben:
 
     chapters-2/ch01_v1_0_en.md
     # Chapter 1: ...              <- so steht es in der Datei
-    # Book Two . Chapter 1: ...   <- so steht es in book.md, paste/ und read/
+    # Book Two . Chapter 1: ...   <- so steht es in book-band-2.md, paste/ und read/
 
 **Warum nicht in die Datei.** Sonst muessten vierunddreissig Kapitel des ersten
 Bandes eine Fassung hochsetzen, damit oben ein Wort mehr steht - und die

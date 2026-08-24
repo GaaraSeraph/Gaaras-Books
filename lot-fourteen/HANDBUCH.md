@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 150.162 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 150.553 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3394,7 +3394,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
-- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.2) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.3) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
 
   **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
 
@@ -3424,7 +3424,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
-- **Band 2, Kapitel 21** *Tidily* (v1.3) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+- **Band 2, Kapitel 21** *Tidily* (v1.4) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
   **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vieren gesagt.
 
@@ -3469,7 +3469,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
 
-- **Band 2, Kapitel 22** *I did not offer you anything* (v1.1) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
+- **Band 2, Kapitel 22** *I did not offer you anything* (v1.2) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
 
   **Mr Byun**, achtundsechzig, hat das Register des Hauses **sechsundzwanzig Jahre** gefuehrt und ist im November gegangen, weil er nicht fuer Leute arbeiten wollte, die ihn fragen, was er den ganzen Tag macht. **Erster Auftritt und einziger.**
 
@@ -3499,7 +3499,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
 
-- **Band 2, Kapitel 23** *Three of the four* (v1.1) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
+- **Band 2, Kapitel 23** *Three of the four* (v1.2) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
 
   **Das Kapitel beginnt mit einem Versprechen, das er nicht halten kann, und er laesst es sich nicht als Formsache durchgehen.** Er hat Byun gesagt, die vier Kaeufer wuerden informiert. **Er erreicht drei. Der vierte ist der Mann, den er sucht.** *"He said a thing in a room that will be three quarters true, and Mr Byun will go to his grave not knowing which quarter, and the only person who is ever going to notice is Georgij."*
 
@@ -3927,7 +3927,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v1.1) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v1.2) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -4629,6 +4629,11 @@ offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
 - **Kapitel 34 kennt das Grundstueck in Gangwon-do noch nicht.** Es ist Annies
   Fund und kommt erst in Kapitel 36.
 - **Sang-hoons Auftrag faellt am 27. Mai im Schuppen**, nicht im April.
+- **Mr Byun verlaesst das Haus Ende Februar**, nicht im November, und hat Annies
+  Kauf vom 4. Januar bis 19. Februar selbst abgewickelt - zehn Wochen nachdem
+  Hwang die Praxis abgestellt zu haben glaubte. Hwang findet im Dezember drei
+  Gebuehren, die vierte erst, als der Katalog beim Drucker liegt.
+- **Die Lesefassung ist geteilt:** `book-band-1.md` und `book-band-2.md`.
 - **Georgij hat in Band 2 keine eigene Kontraktion.** Der einzige Treffer ist ein
   Zitat: *"Tell her we haven't met."* (Kapitel 10). Siehe `doc/01-craft.md`,
   Abschnitt 2c.
@@ -6310,28 +6315,32 @@ Fassung.**
 
 ## Offen nach dem Kontinuitaetsdurchgang vom 24.08.
 
-**1. Der Byun-Knoten. Nicht repariert, weil er eine Entscheidung braucht.**
-Band 1, Kapitel 34 ist Kanon: *"It took from the fourth of January to the
-nineteenth of February."* Annie war in dieser Zeit viermal in dem Gebaeude, und
-Byun erinnert diese Besuche in Kapitel 22 aus erster Hand - *"she was the only
-one of them who frightened me"*. Dagegen stehen vier Saetze:
+**1. Der Byun-Knoten: entschieden und umgesetzt am 24.08.**
+Er bleibt bis Ende Februar. Damit hat er Annies Kauf vom 4. Januar bis 19. Februar
+selbst abgewickelt, und zwar **hinter Hwangs Ruecken**, zehn Wochen nachdem Hwang
+die Praxis am 11. Dezember abgestellt zu haben glaubte. Die letzte der vier
+Gebuehren ist sein Abgang: eine Woche spaeter geht er aus dem Haus.
 
-- Kapitel 22: er habe das Haus **im November** verlassen, sechs Wochen vor dem
-  Abschluss des Fonds.
-- Kapitel 21: Hwang habe die **vier** Gebuehren in der zweiten Dezemberwoche
-  gefunden - die zweite Gebuehr derselben Kaeuferin gab es da noch nicht.
-- Kapitel 21: *"This house has not sold a deletion since the eleventh of
-  December"* - Annie hat am 19. Februar genau das bekommen.
-- Kapitel 21: *"He left in November, before I came"* - Hwangs eigene Zahlen
-  (neun Wochen vor dem 11.12., fuenf Monate vor dem 18. Maerz) setzen seine
-  Ankunft auf Mitte Oktober.
+Was daran haengt und jetzt so im Text steht:
 
-**Die kleinste Loesung ist ein Datum:** Byun geht erst Ende Februar. Dann hat er
-Annies Kauf selbst abgewickelt, und zwar hinter Hwangs Ruecken, nachdem Hwang die
-Praxis am 11. Dezember abgestellt zu haben glaubte - das macht Kapitel 21
-schaerfer statt schwaecher, aber es ist eine Aenderung an der Geschichte und
-keine Korrektur. **Solange das nicht entschieden ist, bleiben alle vier Saetze
-so stehen, wie sie sind.**
+- Hwang findet im Dezember **drei** Gebuehren, nicht vier. Die vierte ist auf den
+  19. Februar datiert, und er findet sie erst, als der Katalog schon beim Drucker
+  liegt. Er sagt es von sich aus, bevor Georgij danach fragt - das ist sein
+  Register.
+- Sein Stolzsatz traegt die Korrektur in sich: *"I did it in nine weeks and it
+  took ten more before it was true."* Neun Wochen von seinem Antritt bis zum
+  11. Dezember, zehn weitere bis zum 19. Februar. Beide Zahlen rechnen auf.
+- Er und Byun haben sich also vier Monate lang im selben Haus aufgehalten, und er
+  hat es nicht bemerkt. Dazu passt, was er in Kapitel 28 selbst sagt: *"I have
+  been in this building since the autumn and I have been down to that floor
+  twice."*
+- Ueber Byuns Abgang sagt er jetzt: *"a week after the last of them went through,
+  and I have never been able to decide whether those are two facts or one."*
+
+**Was das kostet und warum es trotzdem richtig ist:** Hwangs sauberster Satz ist
+nicht mehr wahr, und er weiss es. Das schwaecht ihn nicht, es macht ihn genauer -
+und es gibt Kapitel 21 einen zweiten Boden, weil der Mann, der die Praxis
+abgestellt hat, danebenstand, waehrend sie ein letztes Mal benutzt wurde.
 
 **2. Drei angekuendigte Rechnungen, die nie kommen.** Alle drei sind keine
 Textfehler, sie brauchen eine Szene oder eine Streichung:
@@ -7234,6 +7243,42 @@ Georgij.* sind keine Abfertigungen, sondern genau der Fall, fuer den die Regel
 das Zeichen vorsieht. Sie haben es bekommen. Der Rest der Form bleibt bei denen,
 die den Zug haben. **Stand danach: rund zehn Vorkommen in Band 2. Das ist die
 Obergrenze, nicht der Anfang einer Gewohnheit.**
+
+
+---
+
+## Byun geht Ende Februar, entschieden am 24.08.
+
+Der Widerspruch: Band 1, Kapitel 34 sagt, Annies Kauf lief vom 4. Januar bis zum
+19. Februar, und Kapitel 22 laesst Byun ihre vier Besuche aus erster Hand
+erinnern - *"she was the only one of them who frightened me"*. Gleichzeitig stand
+dreimal im Text, er habe das Haus im November verlassen.
+
+**Gewaehlt wurde das Datum, nicht die Szene.** Die Erinnerung ist zu gut, um sie
+jemand anderem zu geben, und Band 1 ist Kanon. Also ist der November gefallen.
+
+**Was der Tausch einbringt.** Aus einer Reparatur wird eine Schaerfung: Byun hat
+die letzte Loeschung verkauft, **nachdem** Hwang die Praxis abgestellt hatte, im
+selben Haus, in dem Hwang seit Oktober sass. Hwangs *"This house has not sold a
+deletion since the eleventh of December"* war der Satz, an dem der Widerspruch
+haftete; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
+und er sagt es unaufgefordert. Der Mann, dessen Wert seine Genauigkeit ist,
+liefert die eigene Luecke mit, und Georgij muss sie ihm nicht abringen.
+
+**Nicht geaendert:** Yeoms Bericht in Kapitel 25, Byun sei im Februar des
+Vorjahres zu ihm gekommen und habe von *einer* Gebuehr gesprochen. Das ist ein
+frueheres Gestaendnis ueber einen aelteren Vorgang und bleibt richtig.
+
+---
+
+## Eine Lesefassung je Band, entschieden am 24.08.
+
+`book.md` hatte sechsundsiebzig Kapitel und beide Baende in einer Datei. Geteilt
+in `book-band-1.md` und `book-band-2.md`, erzeugt von `build.py` wie vorher.
+Mitgezogen: `CLAUDE.md`, `README.md`, `chapters-2/README.md` und die Liste der
+erzeugten Dateien in `.github/workflows/build.yml` - **letzteres ist die Stelle,
+die es sonst still zerlegt haette**, weil der Workflow nur zurueckschreibt, was
+namentlich in dieser Liste steht.
 
 ---
 
@@ -9111,7 +9156,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
 | 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
 | 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I have been aw.. |
 | 15 | b2ch21:122 | Mr Hwang did not answer. |
 | 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
 | 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
@@ -10064,7 +10109,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
-| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it in November, si.. |
+| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
 | 17 | b2ch22:18 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
 | 17 | b2ch22:40 | Mr Byun sat down on his own sofa and looked at him. |
 | 17 | b2ch22:52 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
@@ -10086,7 +10131,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Zahlen in der Naehe von Mr Byun
 
-- `b2ch22:6` (Tag 17) - six, twenty-six
+- `b2ch22:6` (Tag 17) - ten, twenty-six
 - `b2ch22:18` (Tag 17) - one, three
 - `b2ch22:52` (Tag 17) - four, one
 - `b2ch22:118` (Tag 17) - four

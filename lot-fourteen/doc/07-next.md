@@ -1215,28 +1215,32 @@ Fassung.**
 
 ## Offen nach dem Kontinuitaetsdurchgang vom 24.08.
 
-**1. Der Byun-Knoten. Nicht repariert, weil er eine Entscheidung braucht.**
-Band 1, Kapitel 34 ist Kanon: *"It took from the fourth of January to the
-nineteenth of February."* Annie war in dieser Zeit viermal in dem Gebaeude, und
-Byun erinnert diese Besuche in Kapitel 22 aus erster Hand - *"she was the only
-one of them who frightened me"*. Dagegen stehen vier Saetze:
+**1. Der Byun-Knoten: entschieden und umgesetzt am 24.08.**
+Er bleibt bis Ende Februar. Damit hat er Annies Kauf vom 4. Januar bis 19. Februar
+selbst abgewickelt, und zwar **hinter Hwangs Ruecken**, zehn Wochen nachdem Hwang
+die Praxis am 11. Dezember abgestellt zu haben glaubte. Die letzte der vier
+Gebuehren ist sein Abgang: eine Woche spaeter geht er aus dem Haus.
 
-- Kapitel 22: er habe das Haus **im November** verlassen, sechs Wochen vor dem
-  Abschluss des Fonds.
-- Kapitel 21: Hwang habe die **vier** Gebuehren in der zweiten Dezemberwoche
-  gefunden - die zweite Gebuehr derselben Kaeuferin gab es da noch nicht.
-- Kapitel 21: *"This house has not sold a deletion since the eleventh of
-  December"* - Annie hat am 19. Februar genau das bekommen.
-- Kapitel 21: *"He left in November, before I came"* - Hwangs eigene Zahlen
-  (neun Wochen vor dem 11.12., fuenf Monate vor dem 18. Maerz) setzen seine
-  Ankunft auf Mitte Oktober.
+Was daran haengt und jetzt so im Text steht:
 
-**Die kleinste Loesung ist ein Datum:** Byun geht erst Ende Februar. Dann hat er
-Annies Kauf selbst abgewickelt, und zwar hinter Hwangs Ruecken, nachdem Hwang die
-Praxis am 11. Dezember abgestellt zu haben glaubte - das macht Kapitel 21
-schaerfer statt schwaecher, aber es ist eine Aenderung an der Geschichte und
-keine Korrektur. **Solange das nicht entschieden ist, bleiben alle vier Saetze
-so stehen, wie sie sind.**
+- Hwang findet im Dezember **drei** Gebuehren, nicht vier. Die vierte ist auf den
+  19. Februar datiert, und er findet sie erst, als der Katalog schon beim Drucker
+  liegt. Er sagt es von sich aus, bevor Georgij danach fragt - das ist sein
+  Register.
+- Sein Stolzsatz traegt die Korrektur in sich: *"I did it in nine weeks and it
+  took ten more before it was true."* Neun Wochen von seinem Antritt bis zum
+  11. Dezember, zehn weitere bis zum 19. Februar. Beide Zahlen rechnen auf.
+- Er und Byun haben sich also vier Monate lang im selben Haus aufgehalten, und er
+  hat es nicht bemerkt. Dazu passt, was er in Kapitel 28 selbst sagt: *"I have
+  been in this building since the autumn and I have been down to that floor
+  twice."*
+- Ueber Byuns Abgang sagt er jetzt: *"a week after the last of them went through,
+  and I have never been able to decide whether those are two facts or one."*
+
+**Was das kostet und warum es trotzdem richtig ist:** Hwangs sauberster Satz ist
+nicht mehr wahr, und er weiss es. Das schwaecht ihn nicht, es macht ihn genauer -
+und es gibt Kapitel 21 einen zweiten Boden, weil der Mann, der die Praxis
+abgestellt hat, danebenstand, waehrend sie ein letztes Mal benutzt wurde.
 
 **2. Drei angekuendigte Rechnungen, die nie kommen.** Alle drei sind keine
 Textfehler, sie brauchen eine Szene oder eine Streichung:

@@ -7,7 +7,7 @@ Aufruf:  python3 build.py            aus dem Projektordner
 
 Erzeugt aus den Quellen:
   paste/chNN_vX_Y_en_PASTE.txt   Einfuegefassungen ohne Markdown
-  book.md                        alle Kapitel am Stueck
+  book-band-N.md                 alle Kapitel eines Bandes am Stueck
   HANDBUCH.md                    alle doc/-Dokumente am Stueck, mit Inhalt
   MANIFEST.txt                   Baubericht
 
@@ -458,33 +458,42 @@ def main():
     nread = build_reader(root, chapters)
 
     total = sum(len(c[5].split()) for c in chapters)
-    head = [
-        "# Lot Fourteen",
-        "",
-        "*Sammelband. Wird nicht bearbeitet.*",
-        "",
-        "%s, %d Kapitel, %s Woerter."
-        % ("1 Band" if len(found) == 1 else f"{len(found)} Baende",
-           len(chapters), format(total, ",").replace(",", ".")),
-        "",
-        "Kanon sind die Dateien in "
-        + ", ".join(f"`{sub}/`" for _, _, _, sub in found) + ".",
-        "Je Kapitel wird automatisch die hoechste Versionsnummer genommen und",
-        "gegen die Kopfzeile geprueft. **Die Bandnummer steht in keiner",
-        "Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.",
-        "",
-        "| Band | Kap | Fassung | Woerter |",
-        "|---|---|---|---|",
-    ]
-    for band, blabel, n, v, f, t in chapters:
-        head.append("| %d | %02d | v%d.%d | %s |"
-                    % (band, n, v[0], v[1],
-                       format(len(t.split()), ",").replace(",", ".")))
+    books = []
+    for bband, bchapdir, bblabel, bsub in found:
+        bchaps = [c for c in chapters if c[0] == bband]
+        if not bchaps:
+            continue
+        bwords = sum(len(c[5].split()) for c in bchaps)
+        head = [
+            "# Lot Fourteen \u00b7 %s" % bblabel,
+            "",
+            "*Lesefassung eines Bandes. Wird nicht bearbeitet.*",
+            "",
+            "%s, %d Kapitel, %s Woerter."
+            % (bblabel, len(bchaps), format(bwords, ",").replace(",", ".")),
+            "",
+            "Kanon sind die Dateien in `%s/`." % bsub,
+            "Je Kapitel wird automatisch die hoechste Versionsnummer genommen und",
+            "gegen die Kopfzeile geprueft. **Die Bandnummer steht in keiner",
+            "Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.",
+            "",
+            "| Kap | Fassung | Woerter |",
+            "|---|---|---|",
+        ]
+        for _b, _bl, n, v, f, t in bchaps:
+            head.append("| %02d | v%d.%d | %s |"
+                        % (n, v[0], v[1],
+                           format(len(t.split()), ",").replace(",", ".")))
+        body = [titled(bl, t) for _, bl, _, _, _, t in bchaps]
+        name = "book-band-%d.md" % bband
+        write_text(os.path.join(root, name),
+                   "\n".join(head) + "\n\n---\n\n"
+                   + "\n\n---\n\n".join(body) + "\n")
+        books.append((name, len(bchaps), bwords))
 
-    body = [titled(bl, t) for _, bl, _, _, _, t in chapters]
-    write_text(os.path.join(root, "book.md"),
-               "\n".join(head) + "\n\n---\n\n"
-               + "\n\n---\n\n".join(body) + "\n")
+    stale = os.path.join(root, "book.md")
+    if os.path.exists(stale):
+        os.remove(stale)
 
     nfig, register = build_register(root, chapters)
     ndocs = build_handbook(root, register)
@@ -504,7 +513,8 @@ def main():
         n = sum(1 for c in chapters if c[0] == band)
         w = sum(len(c[5].split()) for c in chapters if c[0] == band)
         print(f"{blabel:<9} {n:>2} Kapitel, {w:>6} Woerter   {sub}/")
-    print(f"book.md        {len(chapters)} Kapitel, {total} Woerter")
+    for bname, bn, bw in books:
+        print(f"{bname:<15}{bn:>2} Kapitel, {bw:>6} Woerter")
     print(f"HANDBUCH.md    {ndocs} Dokumente")
     print(f"BEGEGNUNGEN.md {nfig} Figuren im Text")
     print(f"paste/         {len(chapters)} Einfuegefassungen")
