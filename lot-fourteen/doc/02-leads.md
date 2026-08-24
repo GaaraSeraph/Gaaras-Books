@@ -215,7 +215,13 @@ und war seit dem 14. April nicht auf der Seite.
 
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
-**Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Wird nicht abgenommen. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.
+**Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.
+
+**Es wird nicht abgenommen, und das ist keine offene Frage.** Der Autor hat sich am Ende von Band 1 ausdruecklich dagegen gewehrt, und der Text hat die Sache erledigt: **Band 1, Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays on." - "Then it stays on," said Georgij.*** Am 1. Maerz, an dem Morgen, an dem seine Zeile gestrichen war und sie ihm nichts mehr verkaufen koennte.
+
+**Und der Satz, um den es dabei geht:** *"On the bridge I told you the collar is not what holds me. I have not changed my mind about that in ninety-four days. It is not what holds me and it never was. … **It is what holds you.** I have known that since about the second week of October and I have never said it out loud. There was no afternoon in this whole autumn in which saying it would have been anything other than a demand."* Ihre Antwort: *"That is the most expensive thing you have ever said to me."*
+
+**Daraus folgt fuer jede spaetere Szene:** Das Halsband ist kein Countdown und kein Bandende. Es ist nichts, worauf zugearbeitet wird. Wer es anfasst, fasst das an, was **sie** haelt, und nicht das, was ihn haelt. Eine Zeile wie *"it comes off on a day we have both decided about"* macht eine geschlossene Sache wieder auf und richtet den Rest des Buches auf ein Ereignis aus, das nie stattfindet. Sie stand am 25.08. in Kapitel 35 v2.0 bis v2.4 und ist entfernt.
 
 **Unter Strom.** Er wehrt sich nicht. Wer den Körper bekämpft, zittert danach eine Minute lang vor Publikum. Also lässt er es geschehen wie Wetter. Das Gesicht bewegt sich nicht. Marmor. Elf Häuser haben ihn das gekostet, und es ist das Einzige, was ihm gehört.
 

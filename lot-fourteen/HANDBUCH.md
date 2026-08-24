@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 10 Dokumente am Stueck plus das Begegnungsregister. 175.909 Woerter.
+Alle 10 Dokumente am Stueck plus das Begegnungsregister. 176.377 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1319,7 +1319,13 @@ und war seit dem 14. April nicht auf der Seite.
 
 **Was ihn auslöst:** Was Erwachsene mit Kindern vorhaben. Bei Los elf hat er einen Käufer ruiniert, ohne die Stimme zu heben.
 
-**Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Wird nicht abgenommen. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.
+**Halsband.** Seit dem zweiten Haus. Sitzt eng unter dem Kiefer. Fernbedienung. Auf Veranstaltungen unter einem hochgeschlossenen Kragen verborgen, die Fernbedienung liegt dann in Annies Handtasche.
+
+**Es wird nicht abgenommen, und das ist keine offene Frage.** Der Autor hat sich am Ende von Band 1 ausdruecklich dagegen gewehrt, und der Text hat die Sache erledigt: **Band 1, Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays on." - "Then it stays on," said Georgij.*** Am 1. Maerz, an dem Morgen, an dem seine Zeile gestrichen war und sie ihm nichts mehr verkaufen koennte.
+
+**Und der Satz, um den es dabei geht:** *"On the bridge I told you the collar is not what holds me. I have not changed my mind about that in ninety-four days. It is not what holds me and it never was. … **It is what holds you.** I have known that since about the second week of October and I have never said it out loud. There was no afternoon in this whole autumn in which saying it would have been anything other than a demand."* Ihre Antwort: *"That is the most expensive thing you have ever said to me."*
+
+**Daraus folgt fuer jede spaetere Szene:** Das Halsband ist kein Countdown und kein Bandende. Es ist nichts, worauf zugearbeitet wird. Wer es anfasst, fasst das an, was **sie** haelt, und nicht das, was ihn haelt. Eine Zeile wie *"it comes off on a day we have both decided about"* macht eine geschlossene Sache wieder auf und richtet den Rest des Buches auf ein Ereignis aus, das nie stattfindet. Sie stand am 25.08. in Kapitel 35 v2.0 bis v2.4 und ist entfernt.
 
 **Unter Strom.** Er wehrt sich nicht. Wer den Körper bekämpft, zittert danach eine Minute lang vor Publikum. Also lässt er es geschehen wie Wetter. Das Gesicht bewegt sich nicht. Marmor. Elf Häuser haben ihn das gekostet, und es ist das Einzige, was ihm gehört.
 
@@ -4137,7 +4143,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.4) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.5) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -9299,9 +9305,17 @@ Halsband an und nie an das Halsband selbst.**
   ninety-four days."*)
 - Der Schneider legt in B1 5 zwei Finger unter die Vorderkante, um zu messen.
   Das ist **nicht** sie und darf nie mit ihr verwechselt werden.
-- In 35 sagt sie: *"It comes off on a day we have both decided about, in
-  daylight, with nobody else in the house."* Das ist eine Verabredung und ein
-  Bandende. **Vor der Schlusszeile geht es nicht ab.**
+- **Es geht nicht ab. Nie. Das ist keine offene Frage und kein Bandende.**
+  Band 1 Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays
+  on." - "Then it stays on," said Georgij.* Siehe `doc/02-leads.md`, Abschnitt
+  Halsband. In Kapitel 35 stand von v2.0 bis v2.4 eine Verabredung ueber das
+  Abnehmen. Sie ist entfernt. **Wer sie wieder hinschreibt, hat B1 34 nicht
+  gelesen.**
+- Was das Halsband stattdessen ist, sagt er am 1. Maerz: *"It is not what holds
+  me and it never was. … It is what holds you."* **Wenn sie es beruehrt,
+  beruehrt sie das, was sie haelt.** Genau das tut sie in 35, zum ersten und
+  bisher einzigen Mal, und das Gespraech danach handelt von diesem Satz und von
+  nichts anderem.
 
 ---
 
@@ -9387,8 +9401,15 @@ Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." —
 "No. You did not, and you would not have, and both of us knew that four minutes
 ago."*
 
-Die Umkehrung: zwei Finger unter das Halsband, und *"I am not taking it off
-tonight … And not tonight is not the same as not."*
+Die Umkehrung: zwei Finger unter das Halsband, zum ersten Mal in acht Monaten.
+**Nicht, weil es abgenommen wird — das ist seit dem 1. März erledigt —, sondern
+weil sie das anfasst, wovon er ihr gesagt hat, dass es sie hält.** Das Gespräch
+danach handelt ausschließlich von diesem Satz: dass er ihn seit der zweiten
+Oktoberwoche hatte und bis März nicht ausgegeben hat, und dass er sich den einen
+Morgen ausgesucht hat, an dem sie ihn nicht mit Papier beantworten konnte.
+*"It was on purpose. It was the only morning in five months on which saying it
+cost me something instead of buying me something."* Und ihre Antwort auf sein
+*"Yes, Mistress"*: **"Not to that one."**
 
 Der Schluss: sie sagt seinen Namen, richtig, und erklärt nicht, woher sie das
 hat. Er legt ihn **nicht** dorthin, wo er Gesichter an Türen und Zahlen am Rand
@@ -9435,7 +9456,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 687 | 74 (b1ch01-b2ch55) | 1 | 74 |
+| Annie | 688 | 74 (b1ch01-b2ch55) | 1 | 74 |
 | Park Sang-hoon | 273 | 41 (b1ch10-b2ch51) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
 | Chairman Woo | 148 | 30 (b1ch07-b2ch38) | 1 | 74 |
@@ -9475,7 +9496,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-687 Nennungen in 74 Kapiteln.
+688 Nennungen in 74 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -10023,15 +10044,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch35:146 | Annie's hand stopped. |
 | 46 | b2ch35:190 | "Say it," said Annie. |
 | 46 | b2ch35:218 | "No," said Annie. "You did not, and you would not have, and both of us knew that four mi.. |
-| 46 | b2ch35:270 | "I am not taking it off tonight," said Annie. |
-| 47 | b2ch35:358 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:466 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
-| 47 | b2ch35:486 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
-| 47 | b2ch35:504 | Annie set the papers down. |
-| 47 | b2ch35:604 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
-| 47 | b2ch35:622 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
-| 47 | b2ch35:634 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
-| 47 | b2ch35:652 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
+| 46 | b2ch35:270 | "On the first of March you told me that this is not what holds you," said Annie. |
+| 46 | b2ch35:298 | "There was one," said Annie. "You picked the one morning on which I could not answer it .. |
+| 47 | b2ch35:374 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:482 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
+| 47 | b2ch35:502 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
+| 47 | b2ch35:520 | Annie set the papers down. |
+| 47 | b2ch35:620 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
+| 47 | b2ch35:638 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
+| 47 | b2ch35:650 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
+| 47 | b2ch35:668 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
 | 51 | b2ch36:6 | Annie gave him the three things on Monday evening, in the room off the library, with the.. |
 | 51 | b2ch36:22 | "I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of pl.. |
 | 51 | b2ch36:30 | Annie had looked at him for a while before she answered that one. |
@@ -10309,9 +10331,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:248` (Tag 46) - two
 - `b2ch35:46` (Tag 46) - eleven
 - `b2ch35:218` (Tag 46) - eight, four
-- `b2ch35:604` (Tag 47) - one, twenty
-- `b2ch35:634` (Tag 47) - eleven, one, thirty, three
-- `b2ch35:652` (Tag 47) - one
+- `b2ch35:298` (Tag 46) - one
+- `b2ch35:620` (Tag 47) - one, twenty
+- `b2ch35:650` (Tag 47) - eleven, one, thirty, three
+- `b2ch35:668` (Tag 47) - one
 - `b2ch36:6` (Tag 51) - three
 - `b2ch36:30` (Tag 51) - one
 - `b2ch36:42` (Tag 51) - four, two
@@ -10501,15 +10524,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:60 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
 | 46 | b2ch34:176 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
 | 46 | b2ch34:248 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
-| 47 | b2ch35:336 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
-| 47 | b2ch35:348 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
-| 47 | b2ch35:358 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:392 | Sang-hoon made a sound that was almost a laugh and was not one. |
-| 47 | b2ch35:408 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
-| 47 | b2ch35:416 | Sang-hoon did not answer straight away. |
-| 47 | b2ch35:428 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
-| 47 | b2ch35:454 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
-| 47 | b2ch35:596 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
+| 47 | b2ch35:352 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
+| 47 | b2ch35:364 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
+| 47 | b2ch35:374 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:408 | Sang-hoon made a sound that was almost a laugh and was not one. |
+| 47 | b2ch35:424 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
+| 47 | b2ch35:432 | Sang-hoon did not answer straight away. |
+| 47 | b2ch35:444 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
+| 47 | b2ch35:470 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
+| 47 | b2ch35:612 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
 | 51 | b2ch36:82 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
 | 51 | b2ch36:86 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
 | 51 | b2ch36:108 | Sang-hoon did not move. |
@@ -10701,10 +10724,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:236` (Tag 45) - four
 - `b2ch34:60` (Tag 46) - eight, four
 - `b2ch34:248` (Tag 46) - two
-- `b2ch35:336` (Tag 47) - eight, nine, ten
-- `b2ch35:348` (Tag 47) - nine
-- `b2ch35:392` (Tag 47) - one
-- `b2ch35:596` (Tag 47) - eight
+- `b2ch35:352` (Tag 47) - eight, nine, ten
+- `b2ch35:364` (Tag 47) - nine
+- `b2ch35:408` (Tag 47) - one
+- `b2ch35:612` (Tag 47) - eight
 - `b2ch36:170` (Tag 51) - eleven
 - `b2ch36:182` (Tag 51) - four, two
 - `b2ch36:194` (Tag 51) - one
@@ -11345,13 +11368,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:340 | Jang put the cup down without drinking from it. |
 | 45 | b2ch33:352 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
 | 46 | b2ch34:156 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
-| 47 | b2ch35:526 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
-| 47 | b2ch35:538 | Jang stood with his hands in his coat pockets and did not take them out. |
-| 47 | b2ch35:562 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
-| 47 | b2ch35:574 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
-| 47 | b2ch35:586 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
-| 47 | b2ch35:610 | "Jang asked me a question I have been sitting with." |
-| 47 | b2ch35:642 | "That answers Jang's question," he said. |
+| 47 | b2ch35:542 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
+| 47 | b2ch35:554 | Jang stood with his hands in his coat pockets and did not take them out. |
+| 47 | b2ch35:578 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
+| 47 | b2ch35:590 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
+| 47 | b2ch35:602 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
+| 47 | b2ch35:626 | "Jang asked me a question I have been sitting with." |
+| 47 | b2ch35:658 | "That answers Jang's question," he said. |
 | 3 | b2ch40:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
 | 3 | b2ch40:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
 | 3 | b2ch40:22 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
@@ -11438,7 +11461,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:46` (Tag 9) - six
 - `b2ch14:156` (Tag 4) - four, one
 - `b2ch20:280` (Tag 11) - four, one
-- `b2ch35:574` (Tag 47) - four, one
+- `b2ch35:590` (Tag 47) - four, one
 - `b2ch40:10` (Tag 3) - three
 - `b2ch40:22` (Tag 3) - one, sixteen
 - `b2ch40:38` (Tag 3) - sixteen
@@ -11544,7 +11567,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
 | 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
 | 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
-| 47 | b2ch35:462 | Mrs Seo passed with a tray and did not stop. |
+| 47 | b2ch35:478 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |

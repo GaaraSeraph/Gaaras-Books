@@ -106,9 +106,17 @@ Halsband an und nie an das Halsband selbst.**
   ninety-four days."*)
 - Der Schneider legt in B1 5 zwei Finger unter die Vorderkante, um zu messen.
   Das ist **nicht** sie und darf nie mit ihr verwechselt werden.
-- In 35 sagt sie: *"It comes off on a day we have both decided about, in
-  daylight, with nobody else in the house."* Das ist eine Verabredung und ein
-  Bandende. **Vor der Schlusszeile geht es nicht ab.**
+- **Es geht nicht ab. Nie. Das ist keine offene Frage und kein Bandende.**
+  Band 1 Kapitel 34 heisst *"Then take it off"* und endet auf *"Then it stays
+  on." - "Then it stays on," said Georgij.* Siehe `doc/02-leads.md`, Abschnitt
+  Halsband. In Kapitel 35 stand von v2.0 bis v2.4 eine Verabredung ueber das
+  Abnehmen. Sie ist entfernt. **Wer sie wieder hinschreibt, hat B1 34 nicht
+  gelesen.**
+- Was das Halsband stattdessen ist, sagt er am 1. Maerz: *"It is not what holds
+  me and it never was. … It is what holds you."* **Wenn sie es beruehrt,
+  beruehrt sie das, was sie haelt.** Genau das tut sie in 35, zum ersten und
+  bisher einzigen Mal, und das Gespraech danach handelt von diesem Satz und von
+  nichts anderem.
 
 ---
 
@@ -194,8 +202,15 @@ Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." —
 "No. You did not, and you would not have, and both of us knew that four minutes
 ago."*
 
-Die Umkehrung: zwei Finger unter das Halsband, und *"I am not taking it off
-tonight … And not tonight is not the same as not."*
+Die Umkehrung: zwei Finger unter das Halsband, zum ersten Mal in acht Monaten.
+**Nicht, weil es abgenommen wird — das ist seit dem 1. März erledigt —, sondern
+weil sie das anfasst, wovon er ihr gesagt hat, dass es sie hält.** Das Gespräch
+danach handelt ausschließlich von diesem Satz: dass er ihn seit der zweiten
+Oktoberwoche hatte und bis März nicht ausgegeben hat, und dass er sich den einen
+Morgen ausgesucht hat, an dem sie ihn nicht mit Papier beantworten konnte.
+*"It was on purpose. It was the only morning in five months on which saying it
+cost me something instead of buying me something."* Und ihre Antwort auf sein
+*"Yes, Mistress"*: **"Not to that one."**
 
 Der Schluss: sie sagt seinen Namen, richtig, und erklärt nicht, woher sie das
 hat. Er legt ihn **nicht** dorthin, wo er Gesichter an Türen und Zahlen am Rand

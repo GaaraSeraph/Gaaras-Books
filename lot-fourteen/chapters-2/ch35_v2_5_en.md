@@ -1,5 +1,5 @@
 # Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -267,39 +267,55 @@ Her fingers stayed exactly where they were.
 
 ---
 
-"I am not taking it off tonight," said Annie.
+"On the first of March you told me that this is not what holds you," said Annie.
 
 ---
 
-"I know. I did not ask."
+"I did."
 
 ---
 
-"No. I am saying it because you are going to lie awake wondering whether I was about to, and you should have the answer now and sleep." She did not move her hand. "It comes off on a day we have both decided about, in daylight, with nobody else in the house, and not at midnight on a floor because a man came up the stairs with nothing in his hands."
+"And then you told me what it does hold." Her fingers did not move at all. "I said it stays on and you said it stays on, and neither of us has been back to it in three months, and I have not stopped thinking about it since. Not about taking it off."
 
 ---
 
-"Yes, Mistress."
+"About what, then."
 
 ---
 
-"And not tonight is not the same as not."
+"About the fact that you had it worked out in the second week of October and carried it round until March without spending it."
 
 ---
 
-She put her hand back into his hair and left it there, and neither of them said anything for a long time.
+Georgij did not open his eyes.
 
 ---
 
-At some point past midnight she said his name.
+"There was no afternoon in that autumn in which saying it would have been anything other than a demand."
 
 ---
 
-Not the way it is said in this country, and not the way it was said in any of the eleven houses. She got it right, and she did not explain where she had got it from, and he did not ask her.
+"There was one," said Annie. "You picked the one morning on which I could not answer it with paper. I said so at the time and you did not deny it."
 
 ---
 
-He has a place where he puts a face at a door and a number in a margin. He put two syllables of Korean in there on a bridge in November and has not taken them out since. He did not put this one in there.
+"It was on purpose," said Georgij. "It was the only morning in five months on which saying it cost me something instead of buying me something. That was the whole of the reason and I have not been sorry about it once."
+
+---
+
+Her fingers came out from under the collar and went back to where they have been before, at the back of his neck, above it.
+
+---
+
+"Yes, Mistress," he said, because that is what he says.
+
+---
+
+"Not to that one."
+
+---
+
+She put her hand into his hair and left it there, and neither of them said anything for a long time.
 
 * * *
 
