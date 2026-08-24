@@ -107,12 +107,15 @@ blieb).
    ist eine Entscheidung und keiner ein Fehler - das Skript entscheidet die
    Machtlage nicht und darf es nicht.
 
-5. **Erzaehlerformeln**, und es ist ein Band-2-Problem: *"did not soften"*
-   steht in 18 Kapiteln von Band 2 und in 5 von Band 1, *"did not look away"* in
-   16 gegen 6. Zwei, die `check.py` nicht meldet: ***"not going to pretend"***
-   steht in Band 1 **kein einziges Mal** und in Band 2 in neun Kapiteln, und
-   ***"said it flatly"*** in 24 von 80 Kapiteln, also ueber der Schwelle von 19.
-   Vollstaendig mit `python3 check.py --echoes`.
+5. **Erzaehlerformeln.** *"did not soften"* und *"did not look away"* sind
+   **in Band 2, Kapitel 1 bis 34 erledigt** (24.08., 39 Stellen: 25
+   zusammengelegt, 10 neue Beats, 2 im Erzaehltext, 2 behalten). Beide stehen
+   danach unter der Schwelle und fallen aus dem Bericht.
+
+   **Offen bleiben zwei, die `check.py` nicht meldet:** ***"not going to
+   pretend"*** steht in Band 1 **kein einziges Mal** und in Band 2 in neun
+   Kapiteln, und ***"said it flatly"*** in 24 von 80 Kapiteln. Vollstaendig mit
+   `python3 check.py --echoes`.
 
 6. **Ermessensfaelle aus dem dritten Durchgang**, bewusst stehengelassen:
    Kapitel 13 Z.212 und Z.230 (Georgij bei Woo, dieselbe Haltung wie bei
@@ -123,16 +126,77 @@ blieb).
    die dritte spielt im selben Raum wie die zweite. Gesetzt an Annies *"Now the
    other thing"* - das ist eine Ermessensfrage und gehoert angesehen.
 
-8. **Das Komma-Mittel steht bei 25 und die Obergrenze ist zehn.** Gezaehlt am
-   24.08. ueber beide Baende, Aussagen und Imperative herausgerechnet: fuenf in
-   Band 1, **zwanzig in Band 2**. Es doppelt sich schon woertlich - *"What are
-   you going to do,"* in Band 2, Kapitel 26 und 27, *"When,"* in 24 und 40,
-   *"What,"* in 7 und 30. Aus der Ausnahme ist das dritte Register geworden.
+8. **Das Komma-Mittel, und warum die Obergrenze zehn nicht stimmt.** Gezaehlt
+   am 24.08. ueber beide Baende, Aussagen und Imperative herausgerechnet: 25
+   Vorkommen, fuenf in Band 1 und zwanzig in Band 2.
+
+   **Sechs davon sind aufgeloest** (Kapitel 12, 15, 20, 21, 24, 27 von Band 2).
+   Wo der Sprecher aus dem Umfeld ohnehin eindeutig ist, faellt der Begleitsatz
+   weg und es bleibt die nackte Forderung mit Punkt stehen, was die Hausform
+   ist: aus *"What do I get," she said.* wird *"What do I get."* Dazu eine
+   Umformulierung, weil *"What are you going to do,"* in Kapitel 26 aus
+   Sang-hoons Mund und zwei Kapitel spaeter identisch aus ihrem kam.
+
+   **Die uebrigen neunzehn bleiben, und der Grund gehoert ins Dokument:** Das
+   Komma-Mittel ist keine Stilmarotte, es ist **der mechanische Preis des
+   Punkt-Registers.** Eine Forderung traegt einen Punkt. Ein kleingeschriebener
+   Redebegleitsatz vertraegt keinen Punkt vor sich. Wo also eine Forderung einen
+   Begleitsatz braucht - weil kein Nachbarabsatz den Sprecher nennt -, gibt es
+   genau drei Moeglichkeiten, und zwei davon sind schlechter:
+
+   - Begleitsatz weglassen: der Sprecher wird unklar.
+   - Fragezeichen setzen: die Regel aus `CLAUDE.md` bricht.
+   - Komma setzen: das Mittel.
+
+   **Je konsequenter das Punkt-Register laeuft, desto oefter kommt das Mittel
+   also vor. Die Zahl zehn war eine Schaetzung aus der Zeit, als beides noch
+   nicht zusammengedacht war.** Was bleibt, ist die woertliche Dopplung als
+   Pruefpunkt: dieselbe Forderung aus zwei Muendern in benachbarten Kapiteln ist
+   ein Fund, neunzehn Vorkommen ueber achtzig Kapitel sind keiner.
 
 9. **Drei mechanische Ausreisser**, jeder genau einmal im ganzen Buch und
    deshalb ohne Urteil entscheidbar: die einzigen Auslassungspunkte
    (`chapters/ch08_v3_5_en.md`, *"...Yes."*), der einzige typografische
    Apostroph (`ch14`, *o'clock*) und das einzige Semikolon (`ch27`).
+
+10. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
+    Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
+    sondern zwei Mitglieder einer Familie: **ein eigener Satz, dessen einzige
+    Aufgabe es ist, den Ton der eben gesprochenen Replik zu etikettieren.**
+
+    | | |
+    |---|---|
+    | Vorkommen ueber beide Baende | **347** |
+    | verschiedene Wendungen dafuer | **259** |
+    | davon mit Sprecher davor | 243, also **3,7 je Kapitel in Band 1** und 2,5 in Band 2 |
+
+    Die haeufigsten: *said it* (19), *did not soften it* (19), *said it flatly*
+    (13), *said it plainly* (9), *said it perfectly evenly* (6), *said it out
+    loud* (5).
+
+    **Warum nie etwas angeschlagen hat:** `check.py` vergleicht Zeichenketten.
+    259 Wendungen fuer einen Griff heissen, dass keine einzelne je eine Quote
+    reisst. Es ist dieselbe Luecke, die `doc/01-craft.md` fuer *did not soften*
+    beschreibt, nur eine Ebene hoeher - **nicht eine wiederholte Formel, sondern
+    ein wiederholter Zug.**
+
+    **Und es ist kein Altbestand.** In `ch40_v2_0` und `ch42_v2_0`, beide am
+    24.08. geschrieben, steht er weiter: *"Jang said it without any
+    defensiveness in it at all."*, *"He said it flatly."*, *"Georgij said it
+    evenly."* Band 1 ist sogar dichter als Band 2. Das ist der Standard-Beat des
+    Buchs, und die Schreibsitzung reproduziert ihn gerade weiter.
+
+    **Dieselben Kapitel zeigen aber auch, was stattdessen geht** - klein,
+    koerperlich, mit einem Gegenstand, der in der Szene schon liegt: *"Jang
+    tapped the map once."*, *"He held up a second finger."*, *"He kept his hands
+    flat on the desk."*, *"Georgij put one finger on the cloth and took it away
+    again."*
+
+    **Was zu entscheiden ist, und es ist keine Reparatur mehr, sondern eine
+    Stilfrage:** ob eine Quote gilt, etwa hoechstens zwei je Kapitel. Das waeren
+    rund 50 Eingriffe in Band 2 und 70 in Band 1, und es veraendert die
+    Erzaehlstimme hoerbar. Deshalb steht es hier und ist nicht nebenbei gemacht
+    worden.
 
 ---
 

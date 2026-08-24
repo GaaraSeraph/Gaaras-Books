@@ -1775,8 +1775,19 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
   Vorfahrt** - ich ueberspringe jedes Kapitel, das dort offen ist, und hole es
   nach. Band 1 ist frei, dort ist die Inhaltspruefung seit heute fertig.
 
-- **24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.** Erzaehlerformeln, das
-  Komma-Mittel, Beats. Nur Interpunktion und Formulierung von Beats, keine
-  Handlung und keine Zahlen.
-  **Kapitel 35 bis 46 fasse ich nicht an**, solange dort der v2.0-Durchgang
-  laeuft.
+- ~~**24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.**~~ **Erledigt.**
+  Erzaehlerformeln, Selbstkommentar, Komma-Mittel, Beats. Was dabei
+  entschieden wurde, steht in `doc/09-arbeitsteilung.md`, Punkte 5, 8, 9 und 10,
+  und die neue vierte Sorte in `doc/01-craft.md`, Abschnitt 5.
+
+  **Nachtrag zu den zwei Stellen, die ich hier fuer den v2.0-Durchgang
+  hingelegt hatte:** Der typografische Apostroph in Kapitel 41 ist erledigt
+  (`ch41_v2_1`, es war `people's` und nicht `building's`, meine Zeilenangabe war
+  falsch). **Damit ist der ganze Kanon mechanisch sauber** - keine
+  Auslassungspunkte, keine typografischen Anfuehrungszeichen, kein Semikolon,
+  kein Gedankenstrich, in achtzig Kapiteln.
+
+  Den Beat in Kapitel 42 (*"Georgij let that be exactly as long as it was."*)
+  habe ich angesehen und **stehen gelassen**: `check.py` meldet ihn als
+  Tonetikette, aber die Laenge der Pause ist hier der Inhalt, und die naechste
+  Replik loest sie ein. Ein Hinweis, der seine Arbeit tut, ist kein Fund.

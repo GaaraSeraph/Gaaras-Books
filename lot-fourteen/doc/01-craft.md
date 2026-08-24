@@ -554,6 +554,18 @@ Drei Sorten fallen darunter:
 
 Der Unterschied zu Gruppe drei ist einzig, ob ein vollständiger Aussagesatz dasteht. "And you said no." ist eine Sonde und behält den Punkt. "And him?" ist eine Aufforderung und bekommt das Zeichen.
 
+4. **Der Aussagesatz mit Frageintonation:** "That's it?" "That's all of it?" "You'll sign it?" "That is all you are going to say about it?" **Das ist keine eigene Klasse und bekommt keine eigene Regel** - die Probe ist dieselbe wie überall. Aber sie fällt bei dieser Form fast immer auf die Seite des Zeichens, und das hat einen Grund, den man benennen kann: Ein Aussagesatz mit Frageintonation **verlangt keine Auskunft.** Der Sprecher hat schon gehört, was gesagt wurde, und fragt nur, ob es wirklich alles war. Er fordert nichts Neues, er gibt dem anderen die Gelegenheit, es zu bestätigen oder zurückzunehmen - und damit ist es genau der Fall aus Gruppe drei, wer den anderen weiterreden lässt.
+
+   **Nachgeprüft am 24.08., alle sechs im Buch, keine geändert.** Auch die von Annie in Kapitel 11 (*"That's it?"*, als er nichts weiter will) und von Ye-rins zweitem Cousin in Kapitel 32, obwohl in beiden Fällen die fordernde Seite spricht.
+
+   **Und die Gegenprobe steht im selben Kapitel wie eine davon.** Kapitel 34 hat beide Formen, drei Seiten auseinander:
+
+   > *"That is all of it?"* - Georgij an Mr Chae, und Chae antwortet mit denselben Wörtern und einem Punkt: *"That is all of it."*
+   >
+   > *"Is that all of it."* - Annie, mit dem Blatt vor sich auf dem Tisch.
+
+   Die erste ist ein Nachfassen und die zweite ein Verlangen nach dem Rest, und man sieht den Unterschied am Satzbau: **umgestellt ist Forderung, nicht umgestellt ist Nachfassen.** Das ist kein zusätzliches Kriterium, sondern ein Symptom - wer den Rest verlangt, baut den Satz auch als Frage.
+
 Die einzige Ausnahme sind Abfertigungen, die mit Komma und Redebegleitsatz stehen und dadurch als Nicht-Frage markiert sind: "Will I," Annie said. "Would you," Annie said. Das Mittel ist selten und verliert seine Wirkung, wenn es überall steht.
 
 Imperative sind ohnehin keine Fragen: "Go on." "Say why." "Say how differently."
