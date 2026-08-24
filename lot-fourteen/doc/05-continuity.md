@@ -245,10 +245,14 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 244, Do 4. Juni: **er liest das Notizbuch von vorn und findet den Satz
   zweimal.** Mrs Gwaks *"good to see us again"* und Sang-hoons Profil aus
   Kapitel 26 - *"He tells people he is glad they have finally met. The first
-  time. When they have never met."* **Es ist derselbe Mann: Choi Dae-ho.**
-  Unbewiesen, ein Habitus, zweimal, vier Jahre auseinander. Annie glaubt es
-  ohne Beweis und stoppt trotzdem jede Bewegung fuer vier Tage - **niemand geht
-  an eine der beiden Adressen, Sang-hoon erfaehrt nichts** (Band 2, Kapitel 34)
+  time. When they have never met."* **Dass es Choi Dae-ho ist, wissen beide
+  schon seit dem 27. Mai (Kapitel 27) - neu ist, dass zwei Fremde, die nie
+  voneinander gehoert haben, unabhaengig denselben Satz bezeugen.** Annies
+  eigenes Wissen seit ihrem vierzehnten Jahr war nie mehr als ihr Wort; das
+  hier ist das erste Stueck, das nicht an ihr allein haengt. Sie stoppt trotzdem
+  jede Bewegung fuer vier Tage - **niemand geht an eine der beiden Adressen,
+  Sang-hoon erfaehrt nicht, dass eine Blumenverkaeuferin und eine Adresse jetzt
+  in der Sache stehen** (Band 2, Kapitel 34)
 - Tag 245, Fr 5. Juni: **Sang-hoon ruft an, zum ersten Mal in acht Monaten.**
   Georgij haelt die vier Tage, ohne zu luegen: *"Not entirely mine."* Jang
   bestaetigt separat, dass die zweite Adresse unberuehrt bleibt, und stellt
@@ -260,10 +264,12 @@ nachrechnen, und `check.py` tut das automatisch.
   ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief, der ein
   Pflegeheim ausserhalb Wonjus finanziert und keine Namen an der Tuer fuehrt;
   und ein einziges Mal, vor elf Jahren, an dem jemand ihn hat verlieren sehen -
-  unbenannt. **Georgij legt Sang-hoon die halbe Wahrheit vor** (den Mann, nicht
-  die vier Entscheidungen) **und Sang-hoon liefert die andere Haelfte selbst
-  zurueck: er hat seit Samstag unabhaengig dieselbe Grundstuecksakte verfolgt**
-  (Band 2, Kapitel 36)
+  unbenannt. **Georgij bringt Sang-hoon nicht den Namen** (den hat Sang-hoon
+  ihm selbst in Kapitel 26 gegeben) **sondern das erste Beweisstueck, das
+  ausserhalb dieses Hauses steht** - und liefert damit trotzdem nur die Haelfte
+  der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
+  liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
+  dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 36)
 - Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
   Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
   war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
@@ -1707,25 +1713,23 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 - **Band 2, Kapitel 34** *The best company in the room* (v1.0) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
-  **Der grosse Konvergenzpunkt zweier Ermittlungen, die Georgij selbst in Kapitel 33 noch als getrennt bezeichnet hat.** Er liest das Notizbuch von vorn und legt zwei Eintraege nebeneinander: Herrn Yeoms *"glad we had met"* (Kapitel 25/31) gegen Sang-hoons Auskunft aus Kapitel 26, *"He tells people he is glad they have finally met. The first time. When they have never met."*
+  **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
-  **Die Probe, bevor er es glaubt:** *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart ... is not a coincidence twice."*
+  Er liest das Notizbuch von vorn und legt zwei Eintraege nebeneinander: Herrn Yeoms *"glad we had met"* (Kapitel 25/31) gegen Sang-hoons Auskunft aus Kapitel 26, *"He tells people he is glad they have finally met. The first time. When they have never met."* **Nicht die Identitaet ist die Entdeckung dieser Nacht - die kennt er seit Mai -, sondern dass zwei Fremde, die nie voneinander gehoert haben, unabhaengig denselben Satz bezeugen.** *"Now it does not need her to have been right alone."*
 
-  **Und die Zusammenfassung in drei Zeilen, die die Ermittlung der letzten sieben Kapitel neu einordnet:** ein Mann, der andere in Zimmer stellt und sich nicht selbst an den Tisch setzt; einer, der seinen eigenen Namen vier Jahre spaeter aus einem Buch herauskauft, weil es ihm mehr wert ist, nichts geschuldet zu haben, als das Geld; einer, dessen einziger Fehler acht Jahre lang derselbe Satz an Fremde ist.
+  **Die Probe, bevor er es fuer belastbar haelt:** *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart ... is not a coincidence twice."*
 
-  **Choi Dae-ho.** Zum ersten Mal seit Kapitel 26 wieder im Text, und zum ersten Mal mit einer konkreten Handlung verbunden statt nur mit einem Namen in Georgijs Notizbuch.
+  **Er bringt es zu Annie und benennt genau, was neu ist:** *"It is him. I have known that since the twenty-seventh of May, the same as you. What I have this morning that I did not have then is two people who have never heard of each other saying the same six words in the same shape."* Annie: **"That is not nothing."** Sie hat es seit ihrem vierzehnten Jahr getragen, ohne es je einem anderen Menschen zur Nachpruefung geben zu koennen - jetzt kann sie.
 
-  **Er bringt es sofort zu Annie, ungeschminkt als Vermutung und nicht als Beweis:** *"I cannot prove it. I have one habit, twice, four years apart, and nothing else that would stand up anywhere that mattered."*
+  **Annies Reaktion ist keine Bestaetigung des Namens, sondern eine Risikoabschaetzung, und sie zieht die Konsequenz sofort:** *"Then the florist is not safe either."* Georgij hatte das noch nicht bedacht - jeder, der ihm in den letzten anderthalb Wochen geholfen hat, ist jetzt ein Name, den ein gefaehrlicher Mann erreichen koennte, falls je bekannt wird, wer gefragt hat.
 
-  **Annies Reaktion ist keine Bestaetigung, sondern eine Risikoabschaetzung, und sie zieht die Konsequenz sofort:** *"Then the florist is not safe either."* Georgij hatte das noch nicht bedacht - **die vierte Regel dieses Buches** (jeder Satz muss etwas tun) zeigt hier ihre haesslichste Seite: jeder, der ihm in den letzten anderthalb Wochen geholfen hat, ist jetzt ein Name, den ein gefaehrlicher Mann erreichen koennte.
-
-  **Ihr Befehl ist eine Vier-Tage-Pause fuer alle**, Jang eingeschlossen, und ein Ausschluss: **Sang-hoon erfaehrt nichts**, obwohl er genau danach gefragt hat (*"Not the man. The four."*, Kapitel 26). Annies Begruendung: *"If you hand him a name you cannot prove ... he will act on it. That is not something either of you can take back."*
+  **Ihr Befehl ist eine Vier-Tage-Pause fuer alle**, Jang eingeschlossen. **Sang-hoon erfaehrt nicht, dass eine Blumenverkaeuferin und eine Adresse jetzt in der Sache stehen** - den Mann hat er, den Rest noch nicht. Annies Begruendung: *"If you hand him a florist and an address he cannot yet protect ... he will act on it. That is not something either of you can take back."*
 
   **Und der Moment, an dem Georgij zum ersten Mal in elf Wochen (seit dem 20. Maerz, nicht mit Datum benannt, aber die Rechnung stimmt) stillhalten muss, statt selbst zu entscheiden, wann er einen Raum betritt** - er nennt es nicht Kraenkung, aber er muss sich zwingen, es nicht als eine zu hoeren.
 
   **Mrs Seo, zweimal in diesem Buch: Kaffee ohne Nachfrage, wenn jemand nicht ins Bett gegangen ist.** *"It is easier to run a house for people who do not tell me things than for people who tell me half of them."* Keine neue Figur, aber die erste eigene Zeile seit langem.
 
-  **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt einen Namen tragen, den sie nie haben wollten:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
+  **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
 - **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.0) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
@@ -1748,7 +1752,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   2. **Ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief**, der ein namenloses Pflegeheim ausserhalb Wonjus finanziert. Noch nicht bestaetigt als die zweite Blumenadresse, aber vom Typ her passend.
   3. **Einmal, vor elf Jahren, hat ihn jemand verlieren sehen.** Ein Zimmer, eine Hochzeit, die nicht stattfand, vier Jahre Auslandsaufenthalt danach, zwei unabhaengige Zeugen, die das Wort *"unrecognisable"* benutzen. **Kein Name. Zwei Gespraechspartner brachen ab, als sie ein zweites Mal gefragt wurden.**
 
-  **Das Dienstagstreffen ist die erste offene Kommunikation seit Kapitel 26, und Georgij liefert bewusst nur die Haelfte des Schuldigen:** *"I have the man ... I do not have the four decisions ... neither of those is what you told me to bring you."* **Er nennt das nicht Erfolg, sondern die ehrliche Haelfte:** *"I would rather hand you an honest half than a whole thing I have padded to look finished."*
+  **Korrigiert am 24.08.** Die erste Fassung liess Georgij "I believe it is Choi Dae-ho" zu Sang-hoon sagen, als sei der Name neu - **das widersprach Kapitel 26 direkt, wo Sang-hoon ihm genau diesen Namen selbst gegeben hat.** Die Fassung unten laesst Georgij stattdessen das liefern, was tatsaechlich neu ist: Beweismaterial, das ausserhalb dieses Hauses steht.
+
+  **Das Dienstagstreffen ist die erste offene Kommunikation seit Kapitel 26, und Georgij liefert bewusst nur die Haelfte des Geschuldeten:** *"I have something on him now that is not only your word and mine, and it did not exist a week ago ... I do not have the four decisions ... it is not what you told me to bring you."* **Er nennt das nicht Erfolg, sondern die ehrliche Haelfte:** *"I would rather hand you an honest half than a whole thing I have padded to look finished."*
 
   **Die Wendung, die das Kapitel traegt: Sang-hoon wusste es schon.** Er hat seit Samstag unabhaengig dieselbe Grundstuecksakte in Gangwon-do verfolgt, aus einem eigenen Verdacht, und wartete ab, ob Georgij es selbst sagen wuerde: *"I did not say it first because I wanted to hear whether you would."* **Zum ersten Mal seit Beginn dieses Fadens ziehen die beiden Ermittlungen aus verschiedenen Richtungen an derselben Tuer.**
 

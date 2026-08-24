@@ -25,7 +25,7 @@ Georgij stood in the corridor with the receiver against his ear and did the arit
 
 He can say that he has movement. He cannot say what it is.
 
-He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyoja-dong who has no idea what she gave him. He cannot let a true sentence, said whole, arrive at Sang-hoon's ear a day before Annie is ready for it to.
+Sang-hoon already has the name. Saying it again on an open line, next to flowers and a street in Hyoja-dong, would put a shape around a woman who has no idea what she gave him. He cannot let that sentence, said whole, arrive on a telephone a day before Annie is ready for it to.
 
 ---
 

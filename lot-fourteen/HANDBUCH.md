@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 141.137 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 141.354 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2362,10 +2362,14 @@ nachrechnen, und `check.py` tut das automatisch.
 - Tag 244, Do 4. Juni: **er liest das Notizbuch von vorn und findet den Satz
   zweimal.** Mrs Gwaks *"good to see us again"* und Sang-hoons Profil aus
   Kapitel 26 - *"He tells people he is glad they have finally met. The first
-  time. When they have never met."* **Es ist derselbe Mann: Choi Dae-ho.**
-  Unbewiesen, ein Habitus, zweimal, vier Jahre auseinander. Annie glaubt es
-  ohne Beweis und stoppt trotzdem jede Bewegung fuer vier Tage - **niemand geht
-  an eine der beiden Adressen, Sang-hoon erfaehrt nichts** (Band 2, Kapitel 34)
+  time. When they have never met."* **Dass es Choi Dae-ho ist, wissen beide
+  schon seit dem 27. Mai (Kapitel 27) - neu ist, dass zwei Fremde, die nie
+  voneinander gehoert haben, unabhaengig denselben Satz bezeugen.** Annies
+  eigenes Wissen seit ihrem vierzehnten Jahr war nie mehr als ihr Wort; das
+  hier ist das erste Stueck, das nicht an ihr allein haengt. Sie stoppt trotzdem
+  jede Bewegung fuer vier Tage - **niemand geht an eine der beiden Adressen,
+  Sang-hoon erfaehrt nicht, dass eine Blumenverkaeuferin und eine Adresse jetzt
+  in der Sache stehen** (Band 2, Kapitel 34)
 - Tag 245, Fr 5. Juni: **Sang-hoon ruft an, zum ersten Mal in acht Monaten.**
   Georgij haelt die vier Tage, ohne zu luegen: *"Not entirely mine."* Jang
   bestaetigt separat, dass die zweite Adresse unberuehrt bleibt, und stellt
@@ -2377,10 +2381,12 @@ nachrechnen, und `check.py` tut das automatisch.
   ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief, der ein
   Pflegeheim ausserhalb Wonjus finanziert und keine Namen an der Tuer fuehrt;
   und ein einziges Mal, vor elf Jahren, an dem jemand ihn hat verlieren sehen -
-  unbenannt. **Georgij legt Sang-hoon die halbe Wahrheit vor** (den Mann, nicht
-  die vier Entscheidungen) **und Sang-hoon liefert die andere Haelfte selbst
-  zurueck: er hat seit Samstag unabhaengig dieselbe Grundstuecksakte verfolgt**
-  (Band 2, Kapitel 36)
+  unbenannt. **Georgij bringt Sang-hoon nicht den Namen** (den hat Sang-hoon
+  ihm selbst in Kapitel 26 gegeben) **sondern das erste Beweisstueck, das
+  ausserhalb dieses Hauses steht** - und liefert damit trotzdem nur die Haelfte
+  der eigentlichen Schuld (den Mann, nicht die vier Entscheidungen). **Sang-hoon
+  liefert die andere Haelfte selbst zurueck: er hat seit Samstag unabhaengig
+  dieselbe Grundstuecksakte verfolgt** (Band 2, Kapitel 36)
 - Tag 255, Mo 15. Juni: **Mrs Jeons erster Arbeitstag bei Gwangyang, und ein
   Brief kommt mit Gwangyang-Poststempel an: das Blatt, das sie Hwang schuldig
   war, datiert auf denselben Morgen.** *"He was correct about the desk. He was
@@ -3824,25 +3830,23 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 - **Band 2, Kapitel 34** *The best company in the room* (v1.0) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
-  **Der grosse Konvergenzpunkt zweier Ermittlungen, die Georgij selbst in Kapitel 33 noch als getrennt bezeichnet hat.** Er liest das Notizbuch von vorn und legt zwei Eintraege nebeneinander: Herrn Yeoms *"glad we had met"* (Kapitel 25/31) gegen Sang-hoons Auskunft aus Kapitel 26, *"He tells people he is glad they have finally met. The first time. When they have never met."*
+  **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
-  **Die Probe, bevor er es glaubt:** *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart ... is not a coincidence twice."*
+  Er liest das Notizbuch von vorn und legt zwei Eintraege nebeneinander: Herrn Yeoms *"glad we had met"* (Kapitel 25/31) gegen Sang-hoons Auskunft aus Kapitel 26, *"He tells people he is glad they have finally met. The first time. When they have never met."* **Nicht die Identitaet ist die Entdeckung dieser Nacht - die kennt er seit Mai -, sondern dass zwei Fremde, die nie voneinander gehoert haben, unabhaengig denselben Satz bezeugen.** *"Now it does not need her to have been right alone."*
 
-  **Und die Zusammenfassung in drei Zeilen, die die Ermittlung der letzten sieben Kapitel neu einordnet:** ein Mann, der andere in Zimmer stellt und sich nicht selbst an den Tisch setzt; einer, der seinen eigenen Namen vier Jahre spaeter aus einem Buch herauskauft, weil es ihm mehr wert ist, nichts geschuldet zu haben, als das Geld; einer, dessen einziger Fehler acht Jahre lang derselbe Satz an Fremde ist.
+  **Die Probe, bevor er es fuer belastbar haelt:** *"A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart ... is not a coincidence twice."*
 
-  **Choi Dae-ho.** Zum ersten Mal seit Kapitel 26 wieder im Text, und zum ersten Mal mit einer konkreten Handlung verbunden statt nur mit einem Namen in Georgijs Notizbuch.
+  **Er bringt es zu Annie und benennt genau, was neu ist:** *"It is him. I have known that since the twenty-seventh of May, the same as you. What I have this morning that I did not have then is two people who have never heard of each other saying the same six words in the same shape."* Annie: **"That is not nothing."** Sie hat es seit ihrem vierzehnten Jahr getragen, ohne es je einem anderen Menschen zur Nachpruefung geben zu koennen - jetzt kann sie.
 
-  **Er bringt es sofort zu Annie, ungeschminkt als Vermutung und nicht als Beweis:** *"I cannot prove it. I have one habit, twice, four years apart, and nothing else that would stand up anywhere that mattered."*
+  **Annies Reaktion ist keine Bestaetigung des Namens, sondern eine Risikoabschaetzung, und sie zieht die Konsequenz sofort:** *"Then the florist is not safe either."* Georgij hatte das noch nicht bedacht - jeder, der ihm in den letzten anderthalb Wochen geholfen hat, ist jetzt ein Name, den ein gefaehrlicher Mann erreichen koennte, falls je bekannt wird, wer gefragt hat.
 
-  **Annies Reaktion ist keine Bestaetigung, sondern eine Risikoabschaetzung, und sie zieht die Konsequenz sofort:** *"Then the florist is not safe either."* Georgij hatte das noch nicht bedacht - **die vierte Regel dieses Buches** (jeder Satz muss etwas tun) zeigt hier ihre haesslichste Seite: jeder, der ihm in den letzten anderthalb Wochen geholfen hat, ist jetzt ein Name, den ein gefaehrlicher Mann erreichen koennte.
-
-  **Ihr Befehl ist eine Vier-Tage-Pause fuer alle**, Jang eingeschlossen, und ein Ausschluss: **Sang-hoon erfaehrt nichts**, obwohl er genau danach gefragt hat (*"Not the man. The four."*, Kapitel 26). Annies Begruendung: *"If you hand him a name you cannot prove ... he will act on it. That is not something either of you can take back."*
+  **Ihr Befehl ist eine Vier-Tage-Pause fuer alle**, Jang eingeschlossen. **Sang-hoon erfaehrt nicht, dass eine Blumenverkaeuferin und eine Adresse jetzt in der Sache stehen** - den Mann hat er, den Rest noch nicht. Annies Begruendung: *"If you hand him a florist and an address he cannot yet protect ... he will act on it. That is not something either of you can take back."*
 
   **Und der Moment, an dem Georgij zum ersten Mal in elf Wochen (seit dem 20. Maerz, nicht mit Datum benannt, aber die Rechnung stimmt) stillhalten muss, statt selbst zu entscheiden, wann er einen Raum betritt** - er nennt es nicht Kraenkung, aber er muss sich zwingen, es nicht als eine zu hoeren.
 
   **Mrs Seo, zweimal in diesem Buch: Kaffee ohne Nachfrage, wenn jemand nicht ins Bett gegangen ist.** *"It is easier to run a house for people who do not tell me things than for people who tell me half of them."* Keine neue Figur, aber die erste eigene Zeile seit langem.
 
-  **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt einen Namen tragen, den sie nie haben wollten:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
+  **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
 - **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.0) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
@@ -3865,7 +3869,9 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   2. **Ein Immobilienbesitz in Gangwon-do, vier Eigentuemer tief**, der ein namenloses Pflegeheim ausserhalb Wonjus finanziert. Noch nicht bestaetigt als die zweite Blumenadresse, aber vom Typ her passend.
   3. **Einmal, vor elf Jahren, hat ihn jemand verlieren sehen.** Ein Zimmer, eine Hochzeit, die nicht stattfand, vier Jahre Auslandsaufenthalt danach, zwei unabhaengige Zeugen, die das Wort *"unrecognisable"* benutzen. **Kein Name. Zwei Gespraechspartner brachen ab, als sie ein zweites Mal gefragt wurden.**
 
-  **Das Dienstagstreffen ist die erste offene Kommunikation seit Kapitel 26, und Georgij liefert bewusst nur die Haelfte des Schuldigen:** *"I have the man ... I do not have the four decisions ... neither of those is what you told me to bring you."* **Er nennt das nicht Erfolg, sondern die ehrliche Haelfte:** *"I would rather hand you an honest half than a whole thing I have padded to look finished."*
+  **Korrigiert am 24.08.** Die erste Fassung liess Georgij "I believe it is Choi Dae-ho" zu Sang-hoon sagen, als sei der Name neu - **das widersprach Kapitel 26 direkt, wo Sang-hoon ihm genau diesen Namen selbst gegeben hat.** Die Fassung unten laesst Georgij stattdessen das liefern, was tatsaechlich neu ist: Beweismaterial, das ausserhalb dieses Hauses steht.
+
+  **Das Dienstagstreffen ist die erste offene Kommunikation seit Kapitel 26, und Georgij liefert bewusst nur die Haelfte des Geschuldeten:** *"I have something on him now that is not only your word and mine, and it did not exist a week ago ... I do not have the four decisions ... it is not what you told me to bring you."* **Er nennt das nicht Erfolg, sondern die ehrliche Haelfte:** *"I would rather hand you an honest half than a whole thing I have padded to look finished."*
 
   **Die Wendung, die das Kapitel traegt: Sang-hoon wusste es schon.** Er hat seit Samstag unabhaengig dieselbe Grundstuecksakte in Gangwon-do verfolgt, aus einem eigenen Verdacht, und wartete ab, ob Georgij es selbst sagen wuerde: *"I did not say it first because I wanted to hear whether you would."* **Zum ersten Mal seit Beginn dieses Fadens ziehen die beiden Ermittlungen aus verschiedenen Richtungen an derselben Tuer.**
 
@@ -5609,13 +5615,13 @@ Fassung.**
   muss Sang-hoon ein zweites Mal auf Zeit vertroesten, und Sang-hoon hat am
   5. Juni bereits gesagt, dass er das nicht gern zweimal tut.
 
-- **CHOI DAE-HO VERKNUEPFT MIT SIM/DEM VIERTE-ZEILE-FADEN. Unbewiesen, aber
-  geglaubt, seit dem 4. Juni.** Georgij hat es Annie noch am selben Morgen
-  gesagt, Sang-hoon NICHT. **Faellig am 8. Juni** (vier Tage nach dem 4.):
-  Annies drei Rechercheergebnisse - wer sonst an seinem Tisch sass, was er
-  hinter den Anwaelten in Singapur wirklich besitzt, ob ihn je jemand hat
-  verlieren sehen. **Das ist der Moment, an dem die vier Tage entweder
-  Bewegung freigeben oder die naechste Vier-Tage-Frist eroeffnen.**
+- **DIE SIM/VIERTE-ZEILE-SPUR HAT SEIT DEM 4. JUNI EXTERNES BEWEISMATERIAL.**
+  Choi Dae-ho als Urheber ist seit Kapitel 27 (27. Mai) bekannt - neu am
+  4. Juni ist, dass zwei einander unbekannte Zeugen (Yeom, Mrs Gwak)
+  unabhaengig denselben Satz bezeugen. **Erledigt am 8./9. Juni** (Kapitel 36):
+  Annies drei Rechercheergebnisse liegen vor - einunddreissig Namen, die
+  Grundstuecksakte in Gangwon-do, der Verlust vor elf Jahren - und Sang-hoon
+  bekommt die Haelfte davon (den Beweis, nicht die Blumenverkaeuferin).
 
 - **JANG AUF DER ZWEITEN ADRESSE.** Von aussen, seit dem 3. Juni. **Faellig:**
   was er zurueckmeldet, und ob Georgij ueberhaupt noch hinfahren muss, wenn Jang
@@ -6868,7 +6874,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 574 | 60 (b1ch01-b2ch38) | 1 | 74 |
+| Annie | 577 | 60 (b1ch01-b2ch38) | 1 | 74 |
 | Park Sang-hoon | 174 | 31 (b1ch10-b2ch38) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
@@ -6877,7 +6883,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
 | Mrs Jeon | 52 | 12 (b2ch06-b2ch38) | 5 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
-| Mr Hong | 37 | 12 (b1ch07-b2ch36) | 22 | 55 |
+| Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -6889,7 +6895,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Choi Dae-ho | 14 | 7 (b1ch07-b2ch36) | 22 | 56 |
+| Choi Dae-ho | 13 | 7 (b1ch07-b2ch36) | 22 | 56 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Baek | 6 | 5 (b1ch05-b2ch01) | 6 | 55 |
@@ -6908,7 +6914,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-574 Nennungen in 60 Kapiteln.
+577 Nennungen in 60 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7439,15 +7445,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:286 | Annie had the drawer open again and was putting the copies in it in the order he had giv.. |
 | 45 | b2ch33:306 | Annie closed the drawer and turned the key. |
 | 45 | b2ch33:318 | "Go and have your coffee before it is cold," said Annie, "and send Jang up to me on your.. |
+| 46 | b2ch34:40 | He has known since the twenty-seventh of May whose habit this is. Annie has known since .. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
 | 46 | b2ch34:88 | He went up at half past six and Annie was already awake, which she should not have been .. |
 | 46 | b2ch34:102 | Annie read them the way she reads everything that matters, twice, and the second time sl.. |
 | 46 | b2ch34:118 | Annie kept her eyes on the page. |
 | 46 | b2ch34:124 | Annie sat with both hands flat on the desk. |
-| 46 | b2ch34:148 | Annie stood up. |
-| 46 | b2ch34:172 | "You are not to tell Sang-hoon," said Annie. "Not yet. Not the man's name and not the ha.. |
-| 46 | b2ch34:204 | "I am telling you to sit on it for four days," said Annie, "while I find out three thing.. |
-| 46 | b2ch34:266 | He did not mean Annie when he wrote it, and he sat with that for a while before he let h.. |
-| 47 | b2ch35:28 | He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyo.. |
+| 46 | b2ch34:152 | Annie stood up. |
+| 46 | b2ch34:176 | "You are not to tell Sang-hoon that any of this has gone further than it had on Tuesday,.. |
+| 46 | b2ch34:208 | "I am telling you to sit on it for four days," said Annie, "while I find out three thing.. |
+| 46 | b2ch34:248 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
+| 46 | b2ch34:272 | He did not mean Annie when he wrote it, and he sat with that for a while before he let h.. |
+| 47 | b2ch35:28 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
 | 47 | b2ch35:136 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
 | 47 | b2ch35:156 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
 | 47 | b2ch35:174 | Annie set the papers down. |
@@ -7623,8 +7632,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch31:46` (Tag 41) - seven, ten
 - `b2ch33:74` (Tag 45) - one, three
 - `b2ch33:148` (Tag 45) - one
+- `b2ch34:40` (Tag 46) - fourteen, thirty, twenty
 - `b2ch34:88` (Tag 46) - six
-- `b2ch34:204` (Tag 46) - four, three
+- `b2ch34:208` (Tag 46) - four, three
+- `b2ch34:248` (Tag 46) - two
 - `b2ch35:274` (Tag 47) - one, twenty
 - `b2ch35:304` (Tag 47) - eleven, one, thirty, three
 - `b2ch35:322` (Tag 47) - one
@@ -7776,12 +7787,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
 | 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 45 | b2ch33:236 | "There is also Sang-hoon's four," she said. "He gave you a task in April and I have hear.. |
-| 46 | b2ch34:58 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
-| 46 | b2ch34:128 | "Sang-hoon has been at that man's table for eight years and did not know," she said. "Ho.. |
-| 46 | b2ch34:172 | "You are not to tell Sang-hoon," said Annie. "Not yet. Not the man's name and not the ha.. |
+| 46 | b2ch34:60 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
+| 46 | b2ch34:176 | "You are not to tell Sang-hoon that any of this has gone further than it had on Tuesday,.. |
+| 46 | b2ch34:248 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
 | 47 | b2ch35:6 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
 | 47 | b2ch35:18 | "I have had three days of thinking about a sentence I said to you in a shed," said Sang-.. |
-| 47 | b2ch35:28 | He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyo.. |
+| 47 | b2ch35:28 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
 | 47 | b2ch35:62 | Sang-hoon made a sound that was almost a laugh and was not one. |
 | 47 | b2ch35:78 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
 | 47 | b2ch35:86 | Sang-hoon did not answer straight away. |
@@ -7878,8 +7889,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:272` (Tag 38) - four
 - `b2ch27:204` (Tag 38) - sixty-eight
 - `b2ch33:236` (Tag 45) - four
-- `b2ch34:58` (Tag 46) - eight, four
-- `b2ch34:128` (Tag 46) - eight, one, seven, three
+- `b2ch34:60` (Tag 46) - eight, four
+- `b2ch34:248` (Tag 46) - two
 - `b2ch35:6` (Tag 47) - eight, nine, ten
 - `b2ch35:18` (Tag 47) - three
 - `b2ch35:62` (Tag 47) - one
@@ -8469,7 +8480,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:326 | Jang was in the kitchen doorway with a cup he had not started on, which is a thing Jang .. |
 | 45 | b2ch33:340 | Jang put the cup down without drinking from it. |
 | 45 | b2ch33:352 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
-| 46 | b2ch34:152 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. If t.. |
+| 46 | b2ch34:156 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
 | 47 | b2ch35:196 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
 | 47 | b2ch35:208 | Jang stood with his hands in his coat pockets and did not take them out. |
 | 47 | b2ch35:232 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
@@ -8591,8 +8602,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:96 | At twenty to three on the Tuesday afternoon the telephone in the small room rang, which .. |
 | 26 | b2ch24:110 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
-| 46 | b2ch34:220 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
-| 46 | b2ch34:230 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
+| 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
+| 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
 | 47 | b2ch35:132 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:6 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:20 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
@@ -8706,7 +8717,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
 | 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
 | 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
-| 46 | b2ch34:192 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
@@ -8741,7 +8752,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch32:380` (Tag 44) - five
 - `b2ch33:10` (Tag 45) - two
 - `b2ch33:214` (Tag 45) - one
-- `b2ch34:192` (Tag 46) - one
+- `b2ch34:196` (Tag 46) - one
 - `b2ch37:216` (Tag 57) - six, two
 
 ---
@@ -8798,8 +8809,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch32:428 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
 | 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
 | 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
-| 46 | b2ch34:156 | "Mrs Jeon." |
-| 46 | b2ch34:192 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 46 | b2ch34:160 | "Mrs Jeon." |
+| 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 51 | b2ch36:56 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:40 | *Jeon Mi-ja* |
@@ -8823,7 +8834,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch32:302` (Tag 44) - six
 - `b2ch32:428` (Tag 44) - four, one
 - `b2ch33:214` (Tag 45) - one
-- `b2ch34:192` (Tag 46) - one
+- `b2ch34:196` (Tag 46) - one
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 
 ---
@@ -8906,7 +8917,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hong
 
-37 Nennungen in 12 Kapiteln.
+36 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8945,7 +8956,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:234 | "No," he said. "Listen to me, because I am about to be useful and I am not going to be a.. |
 | 38 | b2ch26:242 | "You are saying Hong was arranged as well." |
 | 38 | b2ch26:294 | *Hong. 25 Oct. Third of three. Ask who put him at that table.* |
-| 46 | b2ch34:128 | "Sang-hoon has been at that man's table for eight years and did not know," she said. "Ho.. |
 | 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
 
 ### Zahlen in der Naehe von Mr Hong
@@ -8971,7 +8981,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:218` (Tag 38) - three, twenty
 - `b2ch26:234` (Tag 38) - one, three
 - `b2ch26:294` (Tag 38) - three
-- `b2ch34:128` (Tag 46) - eight, one, seven, three
 - `b2ch36:12` (Tag 51) - four, one
 
 ---
@@ -9544,7 +9553,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-14 Nennungen in 7 Kapiteln.
+13 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9555,12 +9564,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
 | 38 | b2ch27:14 | "Choi Dae-ho," he said. |
-| 46 | b2ch34:70 | Choi Dae-ho does not eat in front of the people he is working on. |
-| 46 | b2ch34:110 | "I think the man who arranged the flowers for whoever is on the fourth line is Choi Dae-.. |
-| 47 | b2ch35:28 | He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyo.. |
+| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
+| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
 | 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
 | 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 51 | b2ch36:92 | "I believe it is Choi Dae-ho," he said. "I do not have proof that would stand anywhere i.. |
 | 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
@@ -9568,10 +9576,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
 - `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
 - `b2ch26:198` (Tag 38) - fifty-nine
-- `b2ch34:110` (Tag 46) - four, one
+- `b2ch33:50` (Tag 45) - four, one, two
+- `b2ch34:42` (Tag 46) - four, one, six, two
 - `b2ch36:12` (Tag 51) - four, one
 - `b2ch36:60` (Tag 51) - eleven, four, one, thirty
-- `b2ch36:92` (Tag 51) - eight, four, two
 - `b2ch36:124` (Tag 51) - three
 
 ---

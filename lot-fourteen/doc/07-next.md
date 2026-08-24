@@ -735,13 +735,13 @@ Fassung.**
   muss Sang-hoon ein zweites Mal auf Zeit vertroesten, und Sang-hoon hat am
   5. Juni bereits gesagt, dass er das nicht gern zweimal tut.
 
-- **CHOI DAE-HO VERKNUEPFT MIT SIM/DEM VIERTE-ZEILE-FADEN. Unbewiesen, aber
-  geglaubt, seit dem 4. Juni.** Georgij hat es Annie noch am selben Morgen
-  gesagt, Sang-hoon NICHT. **Faellig am 8. Juni** (vier Tage nach dem 4.):
-  Annies drei Rechercheergebnisse - wer sonst an seinem Tisch sass, was er
-  hinter den Anwaelten in Singapur wirklich besitzt, ob ihn je jemand hat
-  verlieren sehen. **Das ist der Moment, an dem die vier Tage entweder
-  Bewegung freigeben oder die naechste Vier-Tage-Frist eroeffnen.**
+- **DIE SIM/VIERTE-ZEILE-SPUR HAT SEIT DEM 4. JUNI EXTERNES BEWEISMATERIAL.**
+  Choi Dae-ho als Urheber ist seit Kapitel 27 (27. Mai) bekannt - neu am
+  4. Juni ist, dass zwei einander unbekannte Zeugen (Yeom, Mrs Gwak)
+  unabhaengig denselben Satz bezeugen. **Erledigt am 8./9. Juni** (Kapitel 36):
+  Annies drei Rechercheergebnisse liegen vor - einunddreissig Namen, die
+  Grundstuecksakte in Gangwon-do, der Verlust vor elf Jahren - und Sang-hoon
+  bekommt die Haelfte davon (den Beweis, nicht die Blumenverkaeuferin).
 
 - **JANG AUF DER ZWEITEN ADRESSE.** Von aussen, seit dem 3. Juni. **Faellig:**
   was er zurueckmeldet, und ob Georgij ueberhaupt noch hinfahren muss, wenn Jang

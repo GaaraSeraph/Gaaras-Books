@@ -2,7 +2,7 @@
 
 *Sammelband. Wird nicht bearbeitet.*
 
-2 Baende, 72 Kapitel, 186.766 Woerter.
+2 Baende, 72 Kapitel, 187.013 Woerter.
 
 Kanon sind die Dateien in `chapters/`, `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -77,10 +77,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 2 | 30 | v1.0 | 2.052 |
 | 2 | 31 | v1.0 | 2.354 |
 | 2 | 32 | v1.0 | 2.379 |
-| 2 | 33 | v1.0 | 2.010 |
-| 2 | 34 | v1.0 | 2.002 |
-| 2 | 35 | v1.0 | 2.038 |
-| 2 | 36 | v1.0 | 2.009 |
+| 2 | 33 | v1.0 | 2.005 |
+| 2 | 34 | v1.0 | 2.254 |
+| 2 | 35 | v1.0 | 2.046 |
+| 2 | 36 | v1.0 | 2.001 |
 | 2 | 37 | v1.0 | 2.027 |
 | 2 | 38 | v1.0 | 2.010 |
 
@@ -21349,7 +21349,7 @@ She read them twice.
 
 ---
 
-"A man who orders flowers by telephone for people he has never met, and tells florists it is good to see them again," said Georgij. "I do not know yet whether he is also the one who arranged the doctor, but a car, two deliveries and a house call inside the same few months is not four coincidences. He is not the one who wanted any of it hidden. He is the one who was told to hide it."
+"A man who orders flowers by telephone for people he has never met, and tells florists it is good to see them again," said Georgij. "I do not know yet whether he is also the one who arranged the doctor, but a car, two deliveries and a house call inside the same few months is not four coincidences. He is not Choi Dae-ho. He is the one Choi Dae-ho tells to make the calls."
 
 ---
 
@@ -21698,15 +21698,17 @@ He read them across from each other for a long time before he let himself think 
 
 ---
 
-*It is the same man.*
+*Now it does not need her to have been right alone.*
 
 ---
 
-He sat with the sentence for a while and did not write it down. A thing that specific, once it is on paper, stops being a guess and starts being a claim, and he was not ready to make a claim yet.
+He has known since the twenty-seventh of May whose habit this is. Annie has known since she was thirty, and before that since she was fourteen, and neither of those is a thing that can be shown to anybody. A daughter's memory is not evidence. It is the truest thing in the house and it would not survive a single hard question from a stranger.
+
+What sat on the table in front of him at one in the morning was not a name. It was two people who had never met Choi Dae-ho in their lives, four years and one telephone call apart, describing the same six words in the same shape. Two witnesses who owe him nothing and have never heard of each other.
 
 ---
 
-He made himself take it apart before he believed it, the way he would have taken apart anybody else's claim.
+He made himself take it apart before he trusted it, the way he would have taken apart anybody else's claim.
 
 Two people, four years and one telephone number apart, who each told a stranger they had never met that it was good to see them again. That is a habit, and habits are not evidence. A habit shared by two different men is a coincidence. A habit that specific, said in that exact shape, twice, four years apart, to a florist and to a businessman who had never laid eyes on the caller either time, is not a coincidence twice.
 
@@ -21728,13 +21730,11 @@ A man who arranges other people into rooms and does not sit at the table himself
 
 A man who pays to have his own name kept out of a ledger four years after the fact, because being owed nothing was worth more to him than the money he spent proving it.
 
-A man whose only mistake in eight years was a sentence he could not stop himself from saying to strangers. It is the sentence he uses on everybody, and he has said it so many times that it has worn a groove.
+A man whose only mistake in this whole business is a sentence he cannot stop himself from saying to strangers. It is the sentence he uses on everybody, and he has said it so many times that it has worn a groove.
 
 ---
 
-Choi Dae-ho does not eat in front of the people he is working on.
-
-He also, apparently, cannot stop telling them it is good to see them again.
+That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other than in Annie's own memory of a room she was not old enough to be allowed into.
 
 ---
 
@@ -21772,7 +21772,7 @@ Annie read them the way she reads everything that matters, twice, and the second
 
 ---
 
-"I think the man who arranged the flowers for whoever is on the fourth line is Choi Dae-ho," said Georgij. "I cannot prove it. I have one habit, twice, four years apart, and nothing else that would stand up anywhere that mattered."
+"It is him," said Georgij. "I have known that since the twenty-seventh of May, the same as you." He put one hand flat on the desk. "What I have this morning that I did not have then is two people who have never heard of each other saying the same six words in the same shape. Neither of them was told to say it by us."
 
 ---
 
@@ -21782,7 +21782,7 @@ Annie read them the way she reads everything that matters, twice, and the second
 
 Annie kept her eyes on the page.
 
-"It is not proof either, and I am not going to hand you the second as though it were the first. I have been wrong about people before, and every time it has cost somebody more than it cost me."
+"It is not proof of anything I could take to a room full of strangers, but it is a great deal more than I have ever had. I have carried this since I was fourteen years old and I have never once been able to hand it to another person and have them check it for themselves. This morning I can."
 
 ---
 
@@ -21790,7 +21790,11 @@ Annie sat with both hands flat on the desk.
 
 ---
 
-"Sang-hoon has been at that man's table for eight years and did not know," she said. "Hong gave you the name in a list of three at your first dinner in this country and it took you seven months to hear it. Your own procedure cannot find him at all. And you are telling me that a florist in Hyoja-dong may have done in one telephone call what none of that could do."
+"Say what it actually gets us," she said, "because I do not want to sit here being moved by it before I know what it does."
+
+---
+
+"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us a property in Gangwon-do that traces back to him through people who are not you or me. It does not get us a court. It gets us the first thing in twenty-three years that is not only your word."
 
 ---
 
@@ -21798,7 +21802,7 @@ Annie sat with both hands flat on the desk.
 
 ---
 
-"Then the florist is not safe either."
+"Then the florist is not safe either," she said.
 
 ---
 
@@ -21814,7 +21818,7 @@ Annie stood up.
 
 ---
 
-"Nobody goes near either address today," she said. "Not you, not Jang, not anybody. If this is who you think it is, then every person who has touched any part of it in the last week is a name he could reach for. I am not going to find out how long his reach is by testing it with people who work for me."
+"Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Every person who has touched any part of it in the last week is a name he could reach for if he ever works out what has been asked and by whom. I am not going to find out how long his reach is by testing it with people who work for me."
 
 ---
 
@@ -21834,7 +21838,7 @@ She stopped with her hand on the frame.
 
 ---
 
-"You are not to tell Sang-hoon," said Annie. "Not yet. Not the man's name and not the habit and not any of it."
+"You are not to tell Sang-hoon that any of this has gone further than it had on Tuesday," said Annie. "Not the florist and not the property. He already has the man. He does not get the rest of it yet."
 
 ---
 
@@ -21842,11 +21846,11 @@ Georgij looked at her for a moment before he answered. The last time he had held
 
 ---
 
-"He asked me for the four decisions. This may be one of them."
+"He asked me for the four decisions. This may touch one of them."
 
 ---
 
-"It may be all four of them," she said, "and that is exactly why. If you hand him a name you cannot prove, in a week where he has already told you he will not be useful to you again this year, he will act on it. That is not something either of you can take back." She looked at him. "You said it yourself on Wednesday. If this goes wrong, it does not go wrong to you alone."
+"It may touch all four of them," she said, "and that is exactly why. If you hand him a florist and an address he cannot yet protect, in a week where he has already told you he will not be useful to you again this year, he will act on it. He will act before either of us has decided what acting on it should look like." She looked at him. "That is not something either of you can take back. You said it yourself on Wednesday. If this goes wrong, it does not go wrong to you alone."
 
 ---
 
@@ -21862,7 +21866,7 @@ This was the first time in eleven weeks that being told to wait was not an insul
 
 ---
 
-"You are telling me to sit on the only real thing I have found in five months."
+"You are telling me to sit on the best thing I have found in five months."
 
 ---
 
@@ -21870,11 +21874,11 @@ This was the first time in eleven weeks that being told to wait was not an insul
 
 ---
 
-"And if I am wrong."
+"And if it comes to nothing."
 
 ---
 
-"Then you will have cost nobody four days that mattered," she said, "and if you are right, you will have cost him four days he did not know he was being given, which is the only kind of head start anybody has ever had on a man like that."
+"Then you will have cost nobody four days that mattered," she said. "And if it comes to something, you will have cost him four days he did not know he was being given, which is the only kind of head start anybody has ever had on a man like that."
 
 ---
 
@@ -21904,7 +21908,9 @@ Georgij sat down at the desk with the notebook still open at the two old pages.
 
 ---
 
-He read the entry from the shed again, in his own handwriting, from a week ago. In the shed he had not known enough to be frightened by it.
+He read the entry from the shed again, in his own handwriting, from a week ago.
+
+On the day he wrote it he had already had the name for two days. He had still needed Sang-hoon to say it, in a room with a hull in it, before it felt like a fact and not a thing Annie had believed since she was a child.
 
 ---
 
@@ -21920,7 +21926,7 @@ She had trusted him because he had not told her a story. He had not thought, unt
 
 The girl who had gone up the ladder for the blue books. The husband who used to copy cards into a register that nobody but a stranger would ever read again. A driver who had spent eighteen years writing down where every delivery went, and had no way of knowing that one slip of it would be worth what it was worth to anybody.
 
-None of them had asked for any part of this. All of them now knew a name they had never had a reason to hold.
+None of them had asked for any part of this. All of them had, without knowing it, corroborated a fourteen-year-old's memory that nobody had ever been able to check.
 
 ---
 
@@ -21959,7 +21965,7 @@ Georgij stood in the corridor with the receiver against his ear and did the arit
 
 He can say that he has movement. He cannot say what it is.
 
-He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyoja-dong who has no idea what she gave him. He cannot let a true sentence, said whole, arrive at Sang-hoon's ear a day before Annie is ready for it to.
+Sang-hoon already has the name. Saying it again on an open line, next to flowers and a street in Hyoja-dong, would put a shape around a woman who has no idea what she gave him. He cannot let that sentence, said whole, arrive on a telephone a day before Annie is ready for it to.
 
 ---
 
@@ -22358,7 +22364,7 @@ Georgij sat down across from him.
 
 ---
 
-"I believe it is Choi Dae-ho," he said. "I do not have proof that would stand anywhere it mattered. I have a habit, said in an identical shape, four years apart, to two people who had never met him. I have a property in Gangwon-do that traces to him through four owners and pays for a nursing home outside Wonju that will not confirm who is inside it. And I have your own eight years, which you gave me for nothing in a shed."
+"I have something on him now that is not only your word and mine," he said, "and it did not exist a week ago." "A habit, said in an identical shape, four years apart, to two people who had never met each other and never will. A property in Gangwon-do that traces to him through four owners and pays for a nursing home outside Wonju that will not confirm who is inside it."
 
 ---
 
@@ -22366,11 +22372,11 @@ Sang-hoon did not move.
 
 ---
 
-"That is more than a habit," he said.
+"That is more than a habit," he said, "and it is more than I had this morning."
 
 ---
 
-"It is more than a habit and it is less than the four things you actually asked me for. I do not have the four decisions. I have the man, and I have the shape of one building he is paying to keep quiet, and neither of those is what you told me to bring you."
+"It is more than a habit and it is less than the four things you actually asked me for. I do not have the four decisions. I have the shape of one building he is paying to keep quiet, and it is not what you told me to bring you."
 
 ---
 
