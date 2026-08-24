@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.201 Woerter.
+Book One, 34 Kapitel, 101.309 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,45 +11,45 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v6.9 | 2.416 |
+| 01 | v6.10 | 2.418 |
 | 02 | v11.11 | 3.172 |
-| 03 | v2.8 | 3.374 |
-| 04 | v1.9 | 2.443 |
-| 05 | v5.11 | 4.330 |
-| 06 | v1.7 | 2.066 |
-| 07 | v6.5 | 3.856 |
-| 08 | v3.7 | 2.689 |
-| 09 | v3.4 | 3.118 |
-| 10 | v2.5 | 2.983 |
+| 03 | v2.9 | 3.378 |
+| 04 | v1.10 | 2.445 |
+| 05 | v5.12 | 4.336 |
+| 06 | v1.8 | 2.070 |
+| 07 | v6.6 | 3.860 |
+| 08 | v3.8 | 2.691 |
+| 09 | v3.5 | 3.120 |
+| 10 | v2.6 | 2.985 |
 | 11 | v2.10 | 2.730 |
-| 12 | v1.9 | 2.347 |
-| 13 | v2.7 | 2.830 |
+| 12 | v1.10 | 2.351 |
+| 13 | v2.8 | 2.832 |
 | 14 | v7.8 | 2.605 |
-| 15 | v2.8 | 4.212 |
-| 16 | v1.16 | 3.278 |
-| 17 | v12.13 | 2.743 |
-| 18 | v2.8 | 2.980 |
-| 19 | v1.11 | 3.210 |
-| 20 | v1.6 | 2.108 |
-| 21 | v1.9 | 4.082 |
-| 22 | v1.3 | 2.584 |
-| 23 | v3.7 | 2.652 |
-| 24 | v1.6 | 2.660 |
-| 25 | v1.5 | 2.549 |
-| 26 | v1.6 | 2.423 |
+| 15 | v2.9 | 4.216 |
+| 16 | v1.17 | 3.282 |
+| 17 | v12.14 | 2.747 |
+| 18 | v2.9 | 2.984 |
+| 19 | v1.12 | 3.214 |
+| 20 | v1.7 | 2.112 |
+| 21 | v1.10 | 4.090 |
+| 22 | v1.4 | 2.588 |
+| 23 | v3.8 | 2.654 |
+| 24 | v1.7 | 2.664 |
+| 25 | v1.6 | 2.555 |
+| 26 | v1.7 | 2.425 |
 | 27 | v3.5 | 3.101 |
-| 28 | v1.5 | 2.676 |
-| 29 | v1.4 | 1.990 |
-| 30 | v1.9 | 3.524 |
-| 31 | v1.7 | 3.256 |
-| 32 | v1.2 | 2.579 |
-| 33 | v1.12 | 3.342 |
-| 34 | v1.9 | 4.293 |
+| 28 | v1.6 | 2.680 |
+| 29 | v1.5 | 1.992 |
+| 30 | v1.10 | 3.526 |
+| 31 | v1.8 | 3.262 |
+| 32 | v1.3 | 2.583 |
+| 33 | v1.13 | 3.346 |
+| 34 | v1.10 | 4.295 |
 
 ---
 
 # Book One · Chapter 1: Merchandise doesn't talk
-*Lot Fourteen* · Version 6.9 · EN
+*Lot Fourteen* · Version 6.10 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -136,6 +136,8 @@ She didn't raise her voice. It came out flat and faintly bored, the voice of a w
 The man in the second row was already being spoken to, quietly, by somebody from the house. He would not be collecting anything tonight. By Friday he would be explaining himself to people who did not accept explanations, and lot eleven would go back into next month's catalogue, which was not a good outcome.
 
 It was a better one.
+
+* * *
 
 The car was black and boxy with a dent in the passenger door that nobody had bothered to fix. That told him more than anything else had all night, though he could not have said what.
 
@@ -595,7 +597,7 @@ Then he decided not to look at it again.
 ---
 
 # Book One · Chapter 3: Dead angles
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 *Day 1 · Saturday 4 October*
 
@@ -685,6 +687,8 @@ She went back down looking slightly less like someone leaving a room she had bee
 
 He had not been collecting anything. It had arrived anyway, the way it always did, and he would rather it had come from somebody else.
 
+* * *
+
 The room was at the east end, and it was a good room, which he had not expected and did not trust.
 
 A bed. A chair by the window. A wardrobe with eight wooden hangers in it and nothing else, and it took him a moment to work out why the hangers bothered him, which was that he had nothing to hang on them.
@@ -758,6 +762,8 @@ Bae's jaw moved.
 "I'm aware. I'm not asking you to like it."
 
 He turned and went back through the kitchen, and Bae stood in the door and watched him the whole way, which was also right.
+
+* * *
 
 The corridor on the first floor ran east to west and crossed another one that went back into the north side of the house, and Annie was sitting in a chair at the crossing with her shoes off.
 
@@ -874,7 +880,7 @@ He left the key where it was.
 ---
 
 # Book One · Chapter 4: Count again
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 2 · Sunday 5 October*
 
@@ -955,6 +961,8 @@ Mrs Seo wiped the same part of the counter twice. Then she said, without turning
 "I know." She put the cloth down. "That is why I am going to be polite to you for a while longer than I had planned."
 
 Georgij smiled at her. He was not after anything with it, and she would have known if he had been.
+
+* * *
 
 She sent for him at nine, which is to say Ji-won came to say that ma'am was in the study. The study turned out to be the room on the right off the hall. It was the one that had been shut on the first night.
 
@@ -1101,7 +1109,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Book One · Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.11 · EN
+*Lot Fourteen* · Version 5.12 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1235,6 +1243,8 @@ He got it because he ate at the end of the long table at seven, and people talk 
 
 Thirty people drew money from the estate. Fourteen of them were security.
 
+* * *
+
 **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accounts and the outside firms. Four maids on two shifts, six to two and two to ten, except Eun-ju, who works eight to four because the bus from Nowon does not do better. Ji-won, who lives in above the kitchen. And two more on the upper floors, whose names he had by the second afternoon and whose Sundays he had by the fourth. Mr Baek the cook, in at eleven with two kitchen staff and four more on any night there are guests. Mrs Ahn, who comes six mornings a week and does nothing but laundry and has done nothing but laundry since 2009. Mr Im on the maintenance rota, four days. Two drivers, Mr Ku and Mr Pyo, on alternate weeks. Mr Yeo and three under him on the grounds, plus a contract crew every second Monday.
 
 Breakfast was the one place the money did not show, and only because Mrs Seo had taken that woman's tray up herself for nine years and would go on doing it until she was carried out.
@@ -1286,6 +1296,8 @@ Mrs Seo's tray went up at seven as it had for nine years, and a place was laid a
 Nobody had said a word about any of it. Annie had made her point in front of the whole staff and then stopped making it. Mrs Seo had lost the argument and kept the kitchen. Georgij watched the two of them arrive at that over eight days, without either of them speaking to the other about it once.
 
 He had settled a great many things with a great many people over seventeen years, and he had never once settled one without somebody having to say out loud who had given way. Those two had done it in eight days without a word, and neither of them had lost her footing. It was the first thing in the house he did not think he could have done himself.
+
+* * *
 
 The tailor came at eleven and was in the house for fifty minutes, and in that time he said perhaps thirty words, most of them numbers.
 
@@ -1340,6 +1352,8 @@ Twelve of the ninety-one mattered.
 Of those twelve, nine were connected to at least one other in a way that the room would not know about.
 
 He finished on the evening of the nineteenth day.
+
+* * *
 
 Her study was empty at nine because she was in Yeouido and would be back at eleven.
 
@@ -1448,7 +1462,7 @@ He stopped.
 ---
 
 # Book One · Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1572,6 +1586,8 @@ Not up. Level. Men lift the chin when there is something at the throat, and then
 
 "He knows, sir."
 
+* * *
+
 At six Jang came to find him in the east room.
 
 "Two of mine go with the car. Song on the door of it and one inside the building who will not be near you." He said it the way you read out a delivery note, which Georgij noticed and liked. "I'll be at the hotel from half five. Service corridor behind the ballroom, second door, and there is a man on it who has my name."
@@ -1593,6 +1609,8 @@ Jang stood in the doorway for a moment.
 "I will," said Georgij, and meant it.
 
 He smiled at him as well, which he did not have to do and got nothing for, and he was pleased in a way he did not examine.
+
+* * *
 
 At six he shaved, and at twenty past he dressed, and at half past he went down and let Mrs Seo look at him.
 
@@ -1643,7 +1661,7 @@ Outside, the car came round onto the gravel and stopped.
 ---
 
 # Book One · Chapter 7: Where were you educated
-*Lot Fourteen* · Version 6.5 · EN
+*Lot Fourteen* · Version 6.6 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1693,6 +1711,8 @@ Something moved behind her face, and this time it very nearly arrived before it 
 
 "Your quarter of an hour starts at the door. I'll take my arm back when I take it. I won't tell you first, and you won't put it back." She looked out of her own window. "Between that and nine o'clock I don't want to see you. Not across a room and not at the edge of one. If I want you, I'll find you."
 
+* * *
+
 There were photographers on the carpet, which he had known there would be, and it was still not the same as knowing it.
 
 Eighteen seconds from the car door to the doors of the hotel. He had counted it off the four previous years of pictures, because photographs have timestamps and photographers do not delete anything.
@@ -1710,6 +1730,8 @@ Somebody shouted a name. Not hers.
 Somewhere at the edge of it, past the rope and behind the second stanchion, a heavy man in a plain suit was standing. He had put himself where a man puts himself when he wants to see the car and the doors at the same time. He did not look at Georgij. Georgij did not look at him.
 
 Then the doors, and the noise changed, and they were inside.
+
+* * *
 
 The first fifteen minutes belonged to her.
 
@@ -1972,7 +1994,7 @@ He had five.
 ---
 
 # Book One · Chapter 8: Something to do with my hands
-*Lot Fourteen* · Version 3.7 · EN
+*Lot Fourteen* · Version 3.8 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2049,6 +2071,8 @@ It was the first sentence anybody had said to him all evening that he had not st
 Which was true, as far as it went.
 
 It was also the first thing he had said in seventy minutes that he had not decided on before he said it, and he heard that happen, and he went away from her carrying it.
+
+* * *
 
 At twenty-five to nine he was standing at the north end of the bar, in a place where a man can be looking at nothing in particular. There were two people between himself and the two men he was listening to.
 
@@ -2227,7 +2251,7 @@ It was the only thing anybody had done for him all evening, and nobody in the ro
 ---
 
 # Book One · Chapter 9: The friendly ones
-*Lot Fourteen* · Version 3.4 · EN
+*Lot Fourteen* · Version 3.5 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2280,6 +2304,8 @@ He decided it was probably all three and stopped trying to rank them.
 They had got to the west side, where the glass doors stood open on the terrace and the cold came in in a slab.
 
 "Come outside. It's foul out there and everybody worth hearing is in it."
+
+* * *
 
 Minister Min-ho was at the far end of the terrace with his back to the parapet, in an overcoat somebody had brought him, with two men and a woman around him and a cigarette he was not smoking.
 
@@ -2530,7 +2556,7 @@ He stopped.
 ---
 
 # Book One · Chapter 10: What did she pay for you
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -2741,6 +2767,8 @@ Nobody mentioned Incheon. Nobody mentioned the Kims. Nobody mentioned customs, o
 Then Hana said goodnight and went, and Annie turned back to the room, and did not say anything to him about any of it.
 
 Not then. Not in the car.
+
+* * *
 
 Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in that room was sitting down.
 
@@ -3154,7 +3182,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Book One · Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3177,6 +3205,8 @@ Ji-won came in at ten past and said good morning and then said, in the manner of
 Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly too long, and took the coffee outside.
 
 Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in eight hours, which Georgij found considerably more interesting than if she had.
+
+* * *
 
 Jang came up from the security office at nine with two sheets of paper.
 
@@ -3318,6 +3348,8 @@ Georgij did not know which of those two Kang would carry, and he could not corre
 
 He also did not know whether the line had been recorded. He assumed it had, which cost nothing, and which he had assumed from the second the number came up.
 
+* * *
+
 She sent for him at eight in the evening, which she had never done.
 
 The study had one lamp on, and the machine under the window was off, and there was nothing on the desk at all, which in that room meant she had cleared it before he came in.
@@ -3419,7 +3451,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 ---
 
 # Book One · Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.7 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3510,6 +3542,8 @@ Two were ordinary houses. The third was a fund whose beneficial ownership ran in
 So he had a company behind a chain behind a fund.
 
 He had no person at all. Since the second day he had known that he was not going to get one this way. That was the third time in four weeks that the same wall had come up in front of him.
+
+* * *
 
 The restaurant was in Seongbuk-dong and had eight tables and no sign on the outside, and Chairman Woo had been going there since 1991.
 
@@ -3899,7 +3933,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -3916,6 +3950,8 @@ She stopped in the hall for a moment beside the stone shelf with the shallow bow
 "No."
 
 "Good," said Hana, and gave him her coat.
+
+* * *
 
 They ate in the small room off the long one. Mrs Seo had laid it for three without being told how to lay it for three.
 
@@ -4307,6 +4343,8 @@ Then, to Georgij, at the door:
 
 She went out to her car.
 
+* * *
+
 "The eighteenth," said Annie, when the door had closed.
 
 "Yes, Mistress."
@@ -4324,7 +4362,7 @@ She went out to her car.
 ---
 
 # Book One · Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.16 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4335,6 +4373,8 @@ There was a room off it with a table for six in it and two places laid at one en
 Jang's two men came as far as the lifts and no further.
 
 That had been Annie's instruction and Georgij had intended to follow it anyway, because a man who brings people through a door into a room laid for two has said something about the evening before he sits down.
+
+* * *
 
 Sang-hoon was already there.
 
@@ -4608,6 +4648,8 @@ At the door Sang-hoon shook his hand, which he had not done on arrival.
 
 He turned and went back into the room where the nineteen pages were.
 
+* * *
+
 Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week about and this one was his. Annie was in the back of it.
 
 He looked up at the ninth floor before he looked at her, which was the right order and which he did not enjoy. The windows were lit and there was nobody standing in any of them.
@@ -4665,7 +4707,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.13 · EN
+*Lot Fourteen* · Version 12.14 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4855,6 +4897,8 @@ He had nothing of his own to keep, so he had never once had to clear a room for 
 
 Somebody else had heard the difference before he did.
 
+* * *
+
 The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always was and the shallow bowl was on it and there was nothing beside the bowl.
 
 Annie went up the stairs without saying anything, and he went up after her, because she had not sent him anywhere else.
@@ -4897,6 +4941,8 @@ Annie said nothing.
 
 Then she picked nothing up and moved nothing and went west along the corridor, and the door at the far end closed.
 
+* * *
+
 Georgij stood at the crossing in the dark.
 
 He had counted the metre and a half of dead floor under every camera in this house on his first night, and had been rather pleased with himself about it, and had gone to bed.
@@ -4914,7 +4960,7 @@ He did not turn round and look at the chair.
 ---
 
 # Book One · Chapter 18: On account
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -4995,6 +5041,8 @@ The debt was still there and both of them knew the size of it, and Sang-hoon had
 Which meant there would be another evening.
 
 That was worth more than the corrections, and the corrections were worth a great deal.
+
+* * *
 
 He found Annie in the study at eleven.
 
@@ -5164,6 +5212,8 @@ Annie picked the pen up.
 
 "Then take something with you that he has not asked for," said Annie, "because a man who is enjoying himself gives away the wrong things by accident, and I would rather you gave away the right one on purpose."
 
+* * *
+
 He went down to the east room and got out the file.
 
 Nine institutions in the syndicate on Woo's terminal. Three of them large enough to have needed an internal approval, and an internal approval has a name at the bottom of it, and not one of the three publishes the name.
@@ -5191,7 +5241,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5200,6 +5250,8 @@ The invitation had been sitting there since the twenty-fifth of October, in the 
 Georgij made it into a date at half past eleven, in one telephone call, and was told to come that afternoon and to wear something he did not mind ruining.
 
 He took a folder with him.
+
+* * *
 
 Yeongjong in November is a flat cold place with the sea on three sides of it and nothing at all to stand behind.
 
@@ -5244,6 +5296,8 @@ Nobody said anything for a moment.
 Chairman Woo looked out at the water.
 
 "Fourteen metres," he said. "In fifty-one years two people have said that to my face, and the other one was my wife."
+
+* * *
 
 They went into the office at the end of the shed, which had a heater, one desk, and a photograph of a ship on the wall.
 
@@ -5490,13 +5544,15 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 49 · Friday 21 November*
 
 He wrote it out that night and slept on it, which he had learned to do at nineteen and had never once regretted.
 
 In the morning it was four pages and he cut it to two.
+
+* * *
 
 Ji-won brought coffee up to the east room at half past seven and did not ask why he was already at the desk. She put the cup down on the side away from the papers, without being told, which she had not done in October.
 
@@ -5684,6 +5740,8 @@ Then she went back to the second page.
 
 "Then find Chairman Woo a house."
 
+* * *
+
 He went down through the hall at ten past nine with the gardeners already at the east side and the noise coming in through the glass.
 
 A house. Before the end of the year, with a family in it and somebody who could actually sign, and not a hotel, and not his, because he did not have one.
@@ -5713,7 +5771,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Book One · Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5729,6 +5787,8 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 "Then come here. Two o'clock, and eat before you come, because I have nothing in."
 
+* * *
+
 Mr Pyo drove him. It was his week, and he did not need the address.
 
 The house was north of the river and up, on a road that stopped being a road about forty metres past her gate. Old money, old trees, a wall built when walls were built out of stone by men who were paid by the day.
@@ -5740,6 +5800,8 @@ The gate was good and the hinges had been replaced this year. The gravel had bee
 It was a very good house, kept by a woman who was paying for exactly the parts that people see from the road.
 
 He had the second section on her land in his head, three charges and a little over two thirds, and he put it beside the gutter and left it there.
+
+* * *
 
 She opened her own door.
 
@@ -5979,6 +6041,8 @@ Hana was quiet for a second.
 
 "All of it, please, and the parts you would not show a guest first."
 
+* * *
+
 It took forty minutes and she did not hurry any of it.
 
 He went through it the way he had gone through a house on a hill on his first night in it. Twice. Once for what was there, and once for what could not be seen from where. The difference was the hour, and the owner walking beside him, and her permission in his pocket. And that he said what he was looking at out loud as he went, because she had asked a question with *All of it* in it.
@@ -6030,6 +6094,8 @@ Georgij smiled at her then, and meant it, and did not do anything with it.
 "Thank you."
 
 "Don't," said Hana. "You have had three hours of my Friday and you are about to have my December, and I gave you both of them for reasons that are mine."
+
+* * *
 
 He was putting his coat on in the hall when she said it.
 
@@ -6096,7 +6162,7 @@ He was still holding his gloves.
 ---
 
 # Book One · Chapter 22: Not shown
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6119,6 +6185,8 @@ It came out badly at about four o'clock, on the stairs, when it was too late to 
 He had thought it through as a negotiation and had made a list, and every item on the list had been about Hanseong.
 
 Park Sang-hoon had asked him a question at a table on the eighteenth of November and had not been given an answer.
+
+* * *
 
 He came at half past five with one man, and the man stayed in the car.
 
@@ -6322,6 +6390,8 @@ Jang took the packet out of his coat and a lighter out of the same pocket and pu
 
 "Keep the lighter," said Jang.
 
+* * *
+
 The garden at eight in the evening in the last week of November is a cold, black, entirely honest place.
 
 He went east, across twenty metres of flat lawn, to the old roses along the wall.
@@ -6347,7 +6417,7 @@ Then he found the place where the ground comes up, in full view of a lens that r
 ---
 
 # Book One · Chapter 23: Nobody weighs a door handle
-*Lot Fourteen* · Version 3.7 · EN
+*Lot Fourteen* · Version 3.8 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6356,6 +6426,8 @@ He walked for about an hour and did not choose a direction until the ground gave
 Then there was the river, and a footway along it, and further along the footway a bridge with a walkway on both sides of it.
 
 He went up onto it because it was the only thing in front of him that was not more river.
+
+* * *
 
 It was a Thursday evening and the city was going home, and he went down through it against most of the direction of it, past lit windows and the queues outside the places worth queueing for.
 
@@ -6632,7 +6704,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Book One · Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6924,6 +6996,8 @@ They walked back along the walkway with about a hand's width between them.
 
 Behind them, low down on the rail, the small set letters went on saying what they had said to everybody who stopped there for years, and neither of them mentioned it.
 
+* * *
+
 Mr Ku had the heater on.
 
 The car came down off the bridge and turned east along the river, and the lights on the far bank went past in the window at the speed lights go past.
@@ -6940,6 +7014,8 @@ Georgij did not answer straight away.
 
 She did not say anything else the whole way up the hill, and neither did he.
 
+* * *
+
 Mrs Seo had the small room off the long one laid for two.
 
 Nobody had asked her to and nobody had told her when they would be back. She had put the hall lamp on and left the passage one off, which is what that woman does instead of speaking.
@@ -6955,7 +7031,7 @@ Then he went in and sat down opposite her and they ate, at ten past eleven at ni
 ---
 
 # Book One · Chapter 25: The name on the paper
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 *Day 59 · Monday 1 December*
 
@@ -6980,6 +7056,8 @@ There was exactly one thing in it he had never found.
 For thirteen days in October a small dark object had not been on the shelf, and had not been anywhere he walked past. Once, after the gala, he had heard a drawer close from the wrong end of a corridor. He had not gone looking then either, which had been a decision, and he had made it at the top of the stairs in about a second and a half.
 
 In fifty-nine days in eleven houses' worth of practice, that was the only object that had ever stayed hidden from him, and it had belonged to the only person who had ever bought him.
+
+* * *
 
 Mr Chae came at ten on the Monday with a leather case and a younger man who carried nothing and said nothing and was not introduced.
 
@@ -7155,6 +7233,8 @@ Georgij stood at the window until the car had gone.
 
 Then he sat down at the desk and did the next thing on the paper, which was a telephone call he had been putting off for ten days.
 
+* * *
+
 "Chairman."
 
 "You," said Woo. "Good. My wife has asked me twice who you were and I have given her two different answers."
@@ -7209,6 +7289,8 @@ He put the telephone down and sat for a moment with his hand still on it.
 
 Then he wrote the date and the words *half past nine* in the notebook, under a line about a heater on a terrace, and closed it.
 
+* * *
+
 On the Thursday of that week a filing appeared in the ordinary place at the ordinary hour, and by lunchtime three people had telephoned the house about it, and none of them was anybody.
 
 Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He had taken it from seven shareholders who had not sat in a room together since March, at a price somewhere between generous and sensible, and he had done it in twelve days.
@@ -7224,7 +7306,7 @@ It would keep until she asked.
 ---
 
 # Book One · Chapter 26: The name and the control
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Sixty-Three · Friday 5 December
 
@@ -7293,6 +7375,8 @@ Georgij came in at ten to eleven and gave his name at the desk.
 He sat in the lobby for the eight minutes with his coat on his knees, which is what a man does when he does not expect to be there long enough to hang it up.
 
 He had one folder.
+
+* * *
 
 They took him up to the fourth floor, to a room with a long table and a picture window that looked directly at the roof of the building next door.
 
@@ -7818,7 +7902,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -7948,6 +8032,8 @@ Georgij looked at the card for a moment.
 
 "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed."
 
+* * *
+
 He was in the hall with his coat when she came out after him.
 
 "The lamp is mended," said Hana. "Over the step. It was eighty thousand won and a man on a ladder, and it has been broken for two years, and I have walked under it perhaps four hundred times."
@@ -8052,6 +8138,8 @@ The contracts were signed. The photographer was booked from seven and gone at ni
 
 Everything on the paper was finished.
 
+* * *
+
 On the Monday evening Annie put her pen down and looked at him across the desk for slightly longer than anything required.
 
 "You have gone quiet."
@@ -8079,7 +8167,7 @@ Annie picked the pen back up, which meant the conversation was finished, and the
 ---
 
 # Book One · Chapter 29: The ones who came at seven
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8090,6 +8178,8 @@ Annie did not come, and they had settled that on the Sunday in about ninety seco
 "And she does not come."
 
 "She does not come. She does not go anywhere that has a purpose she can see from the drive." Annie turned a page. "You will be there and everybody will know whose you are, and that is not the same thing at all. It is the difference between a meeting and a party, and it is the whole of what you have been building since the twenty-first."
+
+* * *
 
 Mr Pyo had him at the gate at six, which was his week.
 
@@ -8280,7 +8370,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8315,6 +8405,8 @@ Georgij gave it forty seconds.
 Nobody in that room saw him go, because thirty people were talking and because he had spent two hours making sure that the corner nearest the hall was a place a man could leave from.
 
 He closed the door behind him.
+
+* * *
 
 It was eight below and there was a heater that had not been lit in four years and had been lit since five.
 
@@ -8637,7 +8729,7 @@ After that she crossed to her brother and put two fingers on his sleeve, and he 
 ---
 
 # Book One · Chapter 31: A number and a date
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8648,6 +8740,8 @@ His sister said something to him that took about nine seconds. He nodded twice. 
 Three people in that room understood what they had watched.
 
 Hana was one, from the far end, with a tray she was not carrying anywhere. Kim Do-yun was another, and his face did what it had done in the boardroom, which was nothing at all. The third was a man from a bank in Myeongdong. He understood only that a quiet woman had arrived late and left early, and that the chairman of a shipping group had stopped talking when she touched his sleeve. He will tell that at lunch on Friday to somebody who will not know what it is.
+
+* * *
 
 Georgij came in off the terrace with cold in his coat and was warm again in about four minutes, which is the wrong length of time for what had just happened.
 
@@ -8683,6 +8777,8 @@ Hana picked the tray up again, because there were still thirty people in her hou
 
 "Go home, Mr Georgij."
 
+* * *
+
 Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and got no report.
 
 Georgij sat in the back with his coat still on and did not take out the notebook.
@@ -8690,6 +8786,8 @@ Georgij sat in the back with his coat still on and did not take out the notebook
 There was nothing in that evening he was going to forget. Writing it down in a moving car would have made four pages out of what one sentence already said, which is that a woman who had never signed anything had agreed to be named in a document.
 
 He counted the toll gantries instead. There are six.
+
+* * *
 
 The hall lamp was on and the passage lamp was off.
 
@@ -8964,7 +9062,7 @@ Chairman Woo was quiet for long enough that Georgij checked the line.
 ---
 
 # Book One · Chapter 32: In those words
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Eighty · Monday 22 December
 
@@ -8975,6 +9073,8 @@ Kim Sung-ho lived in Seongbuk-dong in a house that had been built in about 1974 
 That was the first useful thing Georgij learned that afternoon. A man who has had money for twenty-two years and still has the kitchen his mother chose did not come into this to be rich. A man who did not come into it to be rich cannot be frightened with the loss of money alone.
 
 He put that away for later and went in.
+
+* * *
 
 There were nine of them in the end, in a dining room with a table that seated ten.
 
@@ -9168,6 +9268,8 @@ Sung-ho shook his hand at the door and held it about a second longer than the ha
 
 Mr Ku had the car turned round already.
 
+* * *
+
 Kim Ye-rin was standing in the drive with her coat on and her driver twenty metres away with the door open, and she was not going anywhere yet.
 
 "Mr Georgij."
@@ -9199,7 +9301,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Book One · Chapter 33: That is five
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -9429,6 +9531,8 @@ Nobody said anything out there either.
 
 Then the car went down the drive, and the gate did what the gate does.
 
+* * *
+
 The room was very quiet again and the light had gone from the window.
 
 Georgij stood where he was and found that his hands were not entirely steady and that this had been true for some minutes.
@@ -9535,12 +9639,14 @@ He did not count this.
 
 Annie did not say anything and did not take her hand away, and after a while the last of the light went off the window frame and neither of them got up to do anything about it.
 
+* * *
+
 Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobody said anything about that either.
 
 ---
 
 # Book One · Chapter 34: Then take it off
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Ninety-One · Friday 2 January
 
@@ -9717,6 +9823,8 @@ Mr Chae looked at it for about a second on his way past.
 "No."
 
 "Then I have not seen it." He put his coat on without help. "I am at home today. The number is the same one."
+
+* * *
 
 Annie came in after the car had gone down the drive.
 
