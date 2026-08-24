@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 111.521 Woerter.
+Book Two, 46 Kapitel, 112.320 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -53,7 +53,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 40 | v2.0 | 2.769 |
 | 41 | v2.0 | 3.904 |
 | 42 | v2.0 | 3.360 |
-| 43 | v1.2 | 2.017 |
+| 43 | v2.0 | 2.816 |
 | 44 | v1.2 | 2.006 |
 | 45 | v1.0 | 2.163 |
 | 46 | v2.0 | 2.149 |
@@ -9006,8 +9006,8 @@ Deciding that too early was the mistake he had already promised himself, twice t
 
 ---
 
-# Book Two · Chapter 43: Six weeks before
-*Lot Fourteen* · Version 1.2 · EN
+# Book Two · Chapter 43: A shape the size of a person
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9050,6 +9050,62 @@ He closed the notebook a little after nine and telephoned Sang-hoon before he co
 "You told me in May that this was the only thing you had ever asked me for," said Georgij. "I have two of the four now, and an honest nothing for the third."
 
 "Say them where I can hear your face as well as your voice."
+
+* * *
+
+Jang telephoned at half past twelve, before Georgij had left for the restaurant, and said the word before he said anything else.
+
+"Suspicious," he said. "Not certain. I told you I would say which one I was giving you, and I am giving you the smaller one."
+
+"Then give me the smaller one and do not improve it on the way."
+
+"The rota is nine people," said Jang. "Four cars, morning and evening, two of them carrying two. I have counted that on four separate mornings and it has been nine every time. Two of the nine are the same two who do the Wednesday night, so a Wednesday is nine plus nobody and not ten."
+
+"Go on."
+
+"The Friday delivery is a standing order. The grocer's man told me the number himself, in a lay-by, while he was eating, and I did not ask him for it." Jang paused in the way he does when he is making sure of a sentence before he hands it over. "It feeds more than nine, and it has fed more than nine every Friday I have watched. Not double. One person's worth more, near enough, and the same amount every week."
+
+Georgij stood with the receiver against his ear and did not write anything down yet.
+
+"Say the part you have not said."
+
+"He has been on that round for six years, and he said it without me asking, because a man talks about the odd houses." Jang took a breath. "The standing order went up once in six years. It went up in the summer four years ago and it has never gone back down."
+
+Neither of them said anything for a moment. Georgij could hear a road behind Jang, and a bird, and a man breathing carefully because he had just said a thing and did not want to decorate it.
+
+"That is the whole of it," said Jang. "I want to be exact about what it is not. It is not a person. It is a quantity of food, from a man who is guessing at his own numbers, about a house he delivers to and does not go into."
+
+"I know what it is."
+
+"Then say it back to me, because I have been standing here for two hours deciding whether to telephone at all, and I would like to hear that you have it in the right size."
+
+Georgij put his hand flat on the wall beside the telephone.
+
+"A house that feeds nine people feeds ten," he said. "It has done since the summer four years ago, and the tenth one did not arrive in a car this morning and has not arrived in a car on any morning you have watched. That is not proof of a person. It is a shape the size of one."
+
+"Yes," said Jang. "That is the size of it."
+
+"Then it is enough for today, and it is more than anybody has had in eleven years. You got it out of a man eating his lunch in a lay-by, without going one metre closer to that gate than you already were."
+
+Jang did not say anything to that, which is how he takes it when somebody has noticed.
+
+"Two more weeks and I can give you the other word," he said.
+
+"Take the two weeks."
+
+He rang off, and Georgij stood in the corridor for a while with his hand still on the wall.
+
+Four years ago in July a doctor drove a long way to see a patient who was written down as a lot number. Four years ago in the same summer a standing order at a grocer's went up by one person and never came down.
+
+Two men who have never met, neither of whom knows what he is holding, describing the same arrival from two sides of a wall.
+
+He wrote it down and then did the harder thing, which was to decide what to do with it before he walked into a restaurant.
+
+*Not tonight. He has had Sim for three days and he has held it, and a man who is holding one thing for me does not get a second one on Friday to find out whether he can carry both.*
+
+*And it is not his road. She said that in front of Jang on the twenty-first and she was right. The first thing to come off that house in eleven years does not get spent on a man who cannot use it.*
+
+He put the notebook in the drawer that does not lock and went to get the car.
 
 * * *
 
