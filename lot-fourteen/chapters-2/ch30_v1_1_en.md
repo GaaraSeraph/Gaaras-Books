@@ -1,5 +1,5 @@
 # Chapter 30: A person with nothing
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -345,7 +345,7 @@ The house was quiet and the pen went on and the light outside the window went or
 
 ---
 
-At about half past nine Annie put her hand down into his hair without looking, which she has done twice now and which is becoming a thing that happens.
+At about half past nine Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens.
 
 ---
 

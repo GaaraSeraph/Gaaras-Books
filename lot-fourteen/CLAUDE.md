@@ -21,6 +21,9 @@ Danach:
 2. Bei einer Figurenszene: `doc/02-leads.md`.
 3. Bei einer Verhandlungsszene: `doc/04-world.md` ganz.
 4. Beim Pruefen von Daten und Motiven: `doc/05-continuity.md`.
+5. Bei jeder Szene, in der die beiden einander anfassen: `doc/10-naehe.md`.
+   Jede Ruecksicht auf eine fruehere Beruehrung wird dort gegriffen und nicht
+   aus dem Gedaechtnis geschrieben.
 
 ## Bevor Du etwas abgibst
 
@@ -92,7 +95,7 @@ die Kapitelpruefung warnt nur.
 |---|---|
 | `chapters/` | Die Kapitel von **Band 1**. Kanon |
 | `chapters-2/` | Die Kapitel von **Band 2**, wieder ab `ch01`. Kanon |
-| `doc/` | Die neun Quelldokumente. Gelten fuer beide Baende |
+| `doc/` | Die zehn Quelldokumente. Gelten fuer beide Baende |
 | `paste/band-N/` | Einfuegefassungen je Band. **Erzeugt**, nie bearbeiten |
 | `read/band-N/` | Lesefassungen als HTML, dazu `read/book.html` fuer alles. **Erzeugt**, nicht versioniert |
 
@@ -121,7 +124,7 @@ Motivwiederholung faengt, weil man den Nachbartext im Kopf hat.
 
 **3. Pruefauftraege an Agenten**, fuer alles, was das ganze Buch auf einmal
 braucht: Zahlen quer ueber vierunddreissig Kapitel, Zeitangaben gegen den Kalender,
-Dokument gegen Text. Ein Leser kann 50.000 Woerter plus neun Dokumente nicht mit
+Dokument gegen Text. Ein Leser kann 50.000 Woerter plus zehn Dokumente nicht mit
 der noetigen Genauigkeit halten, vier Leser mit je einem Auftrag schon.
 
 **Was in jeden Auftrag gehoert:** welche Dateien Kanon sind (namentlich, es
@@ -252,7 +255,8 @@ scheint.
 | `doc/07-next.md` | Naechste Schritte und offene Faeden |
 | `doc/08-decisions.md` | Was entschieden wurde und warum |
 | `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
-| `HANDBUCH.md` | **Erzeugt.** Alle neun am Stueck, mit Inhaltsverzeichnis |
+| `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
+| `HANDBUCH.md` | **Erzeugt.** Alle zehn am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
 

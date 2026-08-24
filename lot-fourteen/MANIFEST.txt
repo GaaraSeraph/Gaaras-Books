@@ -63,12 +63,12 @@ b2  ch26  v1.2       2029 Woerter  ch26_v1_2_en.md
 b2  ch27  v1.3       2035 Woerter  ch27_v1_3_en.md
 b2  ch28  v1.2       2465 Woerter  ch28_v1_2_en.md
 b2  ch29  v1.4       2612 Woerter  ch29_v1_4_en.md
-b2  ch30  v1.0       2052 Woerter  ch30_v1_0_en.md
+b2  ch30  v1.1       2054 Woerter  ch30_v1_1_en.md
 b2  ch31  v1.1       2356 Woerter  ch31_v1_1_en.md
 b2  ch32  v1.0       2379 Woerter  ch32_v1_0_en.md
 b2  ch33  v1.2       2015 Woerter  ch33_v1_2_en.md
 b2  ch34  v1.2       2261 Woerter  ch34_v1_2_en.md
-b2  ch35  v2.2       3294 Woerter  ch35_v2_2_en.md
+b2  ch35  v2.3       3648 Woerter  ch35_v2_3_en.md
 b2  ch36  v2.0       3317 Woerter  ch36_v2_0_en.md
 b2  ch37  v2.0       3913 Woerter  ch37_v2_0_en.md
 b2  ch38  v2.2       2977 Woerter  ch38_v2_2_en.md
@@ -88,8 +88,8 @@ b2  ch51  v1.0       2158 Woerter  ch51_v1_0_en.md
 b2  ch52  v1.0       2311 Woerter  ch52_v1_0_en.md
 b2  ch53  v1.0       2494 Woerter  ch53_v1_0_en.md
 b2  ch54  v1.0       2499 Woerter  ch54_v1_0_en.md
-b2  ch55  v1.0       2058 Woerter  ch55_v1_0_en.md
+b2  ch55  v1.1       2072 Woerter  ch55_v1_1_en.md
 b2  ch56  v1.0       2265 Woerter  ch56_v1_0_en.md
 
-Gesamt: 2 Baende, 90 Kapitel, 238785 Woerter
-Handbuch: 10 Dokumente
+Gesamt: 2 Baende, 90 Kapitel, 239155 Woerter
+Handbuch: 11 Dokumente

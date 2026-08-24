@@ -34,6 +34,14 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/10-naehe.md` gehoert allen dreien.** Neu am 25.08. Es ist das Register
+jeder koerperlichen Szene zwischen Annie und Georgij, chronologisch, mit der
+Zeile, die tatsaechlich im Buch steht: der Boden, die Hand im Haar, der Nacken
+und das Halsband, die kleinen Dinge, die drei grossen Szenen. Anlass waren vier
+Rueckverweise in der Kette, die sich gegenseitig widersprachen (Kapitel 30, 35
+und 55, alle am 25.08. korrigiert). **Wer eine Beruehrung schreibt oder prueft,
+greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
+
 ---
 
 ## Schon geprueft am 24.08., Band 2 - nicht zweimal machen

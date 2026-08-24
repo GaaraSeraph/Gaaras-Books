@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 172.732 Woerter.
+Alle 10 Dokumente am Stueck plus das Begegnungsregister. 175.391 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -142,6 +142,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wenn es doch kollidiert](#wenn-es-doch-kollidiert)
   - [Wer schreibt in welches Dokument](#wer-schreibt-in-welches-dokument)
   - [Und der Uebergabepunkt](#und-der-uebergabepunkt)
+- [Nähe: das Register](#n-he-das-register)  ·  `doc/10-naehe.md`
+  - [B1 24 · Do 27. November · Die Brücke](#b1-24-do-27-november-die-br-cke)
+  - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
+  - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -3942,7 +3946,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
 
-- **Band 2, Kapitel 30** *A person with nothing* (v1.0) - **Tag 238, Fr 29. Mai, zwanzig nach sieben. Eine Szene, das kleine Zimmer, bis halb zwoelf.**
+- **Band 2, Kapitel 30** *A person with nothing* (v1.1) - **Tag 238, Fr 29. Mai, zwanzig nach sieben. Eine Szene, das kleine Zimmer, bis halb zwoelf.**
 
   **Der erste Absatz benennt die Reihenfolge, die er NICHT nimmt, und dass er sie kann:** erst das Mitgebrachte, dann der Preis, wenn der Raum schon zufrieden ist. *"He has used that order on other people this year and it works."* **Er sagt es andersherum, und das ist der ganze Anfang.**
 
@@ -4114,7 +4118,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.2) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.3) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -4179,7 +4183,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *What the road knows* (v2.0) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *What the road knows* (v2.1) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -4822,6 +4826,34 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 - **Band 2, Kapitel 50** *The one he kept* (v2.0) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 51** *The sixth one* (v1.0) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 52** *Against her return* (v1.0) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.0) - **Tag 305, Di 4. August. "I am the February one."**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 54** *Clause eleven* (v1.0) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+- **Band 2, Kapitel 55** *Consigned by* (v1.1) - **Tag 313, Mi 12. August. Der Auskunftsstand ist nicht leer. Hand im Haar, das erste Mal seit dem 4. Juni.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
+  30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
+
+- **Band 2, Kapitel 56** *Four streets* (v1.0) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
+  vier Jahre aelter) gehoeren in das Geburtstagsregister.
 
 ---
 
@@ -8757,6 +8789,14 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/10-naehe.md` gehoert allen dreien.** Neu am 25.08. Es ist das Register
+jeder koerperlichen Szene zwischen Annie und Georgij, chronologisch, mit der
+Zeile, die tatsaechlich im Buch steht: der Boden, die Hand im Haar, der Nacken
+und das Halsband, die kleinen Dinge, die drei grossen Szenen. Anlass waren vier
+Rueckverweise in der Kette, die sich gegenseitig widersprachen (Kapitel 30, 35
+und 55, alle am 25.08. korrigiert). **Wer eine Beruehrung schreibt oder prueft,
+greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
+
 ---
 
 ## Schon geprueft am 24.08., Band 2 - nicht zweimal machen
@@ -9129,6 +9169,207 @@ weg.
 > (Punkt 8) und die Szenengrenzen von Band 1 (Punkt 3). Bring Zahlen mit und
 > keine Eindruecke - und wenn eine Zahl im Dokument nicht stimmt, zaehl nach und
 > schreib sie um. Drei standen hier falsch.
+
+---
+
+# Nähe: das Register
+
+Jede körperliche Szene zwischen Annie und Georgij, in der Reihenfolge, in der sie
+passiert ist, mit der Zeile, die im Buch steht. Wer eine Szene schreibt, die auf
+eine frühere zeigt, greift sie **hier** und schreibt sie nicht aus dem Gedächtnis.
+
+---
+
+## Warum es dieses Dokument gibt
+
+Am 25.08. standen in Kapitel 35 drei Rückverweise, die falsch waren: sie habe
+ihre Hand im November im Wagen auf dem Halsband gehabt (nie passiert), sie habe
+im März ihre Hand über dem Halsband an seiner Kehle gehabt und ihm gesagt, wofür
+es da sei (nie passiert), und er sitze seit der zweiten Woche im Haus auf dem
+Boden neben ihrem Schreibtisch (er tut es seit dem 11. März). Gleichzeitig stand
+in Kapitel 55, sie habe ihm seit dem 30. April nicht mehr durchs Haar gefahren,
+während sie es in 27, 30 und 35 tut, und in Kapitel 30 stand "twice now", während
+es das dritte Mal war.
+
+Vier Fehler in einer Kette, die aus zwölf Zeilen besteht. Das passiert, weil die
+Kette nirgends stand. Jetzt steht sie hier.
+
+**Regel:** Wer eine dieser Zeilen ändert oder eine neue schreibt, trägt sie hier
+ein, im selben Commit.
+
+---
+
+## Die Kadenz
+
+Der Autor am 25.08.: **alle zwanzig Kapitel eine wirklich romantische Szene,
+dazwischen kleine Dinge von ihr, die tatsächlich vorkommen.**
+
+Die großen Szenen bisher: **B1 24** (die Brücke, ihr Name), **B1 34** (der Boden
+neben ihr), **B2 35** (die Nacht vom 4. Juni). Das ist ein Abstand von zehn
+Kapiteln, dann von einem, und dann von vierunddreißig. Die nächste ist um
+**Kapitel 57 bis 60** fällig und darf nicht in die Landung rutschen.
+
+Die kleinen Dinge sind der Unterschied zwischen einer Beziehung und drei Szenen.
+Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
+
+**Der Anlauf auf die Schlusszeile läuft über Erschöpfung, nie über Ruhe.**
+
+---
+
+## Register A · Der Boden
+
+Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
+
+| | Kapitel | Tag | Was |
+|---|---|---|---|
+| 1 | B1 34 | So 1. März | **Er geht zu ihr runter.** *"He went down onto the floor beside her, which took about two seconds and which nobody in that room had asked for, and sat back on his heels with his shoulder against her leg."* |
+| 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
+| 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
+| 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
+| 5 | B2 15, 16, 20, 30 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
+| 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
+| 7 | B2 23 | Mi 13. Mai | Sie schickt ihn hoch: *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
+| 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
+| 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter**, und er hat darum gebeten. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
+| 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
+
+**Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
+11. März fast täglich. Keine Zeile darf das umdrehen.
+
+---
+
+## Register B · Die Hand im Haar
+
+Das ist die Geste, die der Autor als die vermisste benannt hat.
+
+| | Kapitel | Tag | Zeile |
+|---|---|---|---|
+| 1 | B2 9 | Fr 20. März | *"Somewhere in the middle of it she put her hand down without looking away from the page and left it in his hair."* |
+| 2 | B2 20 | Do 30. April | *"She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up."* |
+| 3 | B2 27 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
+| 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
+| 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
+| 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
+
+**Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste. Wer
+eine neue schreibt, zählt hier weiter und schreibt keine Zahl aus dem Kopf.
+
+---
+
+## Register C · Der Nacken und das Halsband
+
+Die wichtigste Unterscheidung im ganzen Buch: **sie fasst ihn immer über dem
+Halsband an und nie an das Halsband selbst.**
+
+| | Kapitel | Tag | Zeile |
+|---|---|---|---|
+| 1 | B1 34 | Mi 25. Februar | Das erste Mal. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
+| 2 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, eins davon auf der Seite. |
+| 3 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
+| 4 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
+| 5 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
+| 6 | **B2 35** | **Do 4. Juni** | Zwei Finger **unter** das Halsband, an der Seite, wo die Haut ist. Das erste Mal überhaupt. |
+
+**Kanon zum Halsband selbst:**
+
+- Es ist seit dem **zweiten Haus** an ihm (B1 1). Nicht seit er elf war.
+- Er sagt auf der Brücke, wofür es da ist, nicht sie: *"A man who belongs to
+  somebody is expensive to touch. A man who belongs to nobody is stock. … The
+  collar is not what holds me. It is what makes it too much trouble to take me."*
+  (B1 24, aufgegriffen in B1 34: *"I have not changed my mind about that in
+  ninety-four days."*)
+- Der Schneider legt in B1 5 zwei Finger unter die Vorderkante, um zu messen.
+  Das ist **nicht** sie und darf nie mit ihr verwechselt werden.
+- In 35 sagt sie: *"It comes off on a day we have both decided about, in
+  daylight, with nobody else in the house."* Das ist eine Verabredung und ein
+  Bandende. **Vor der Schlusszeile geht es nicht ab.**
+
+---
+
+## Register D · Die kleinen Dinge
+
+Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
+
+| Kapitel | Was |
+|---|---|
+| B1 6 | *"Eat something before you go. … a man who has not eaten agrees to things at eleven o'clock that he would not agree to at eight."* |
+| B1 5, 28, 31 | *"Go to bed, Georgij."* Dreimal, jedes Mal am Ende eines Tages, den sie gezählt hat und er nicht. |
+| B1 23 / 24 | *"Have you eaten?"* — die Frage, die dem Kapitel den Titel gibt. |
+| B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
+| B2 30 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
+| B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
+| B2 35 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
+| B2 55 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |
+
+**Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
+fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
+etwas in seiner Handschrift aufhebt. Dass sie ihn in einem Raum voller Leute
+zuerst ansieht. Jede davon ist eine halbe Seite und keine Szene.
+
+---
+
+## Register E · Die großen Szenen, in voller Länge
+
+### B1 24 · Do 27. November · Die Brücke
+
+Zwei Bitten, und sie zählt beide. Die erste ist **etwas zum Unterschreiben**
+(*"Something to sign with"*). Die zweite ist die kleinere und die eigentliche:
+*"Never in front of anybody. Do it in a corridor. Do it in that study with the
+door shut. Do it while I am asleep."*
+
+Dann fragt sie ihn, was er will, und er findet nichts: *"He had wanted things at
+nine years old and had stopped."* **Daher kommt "since I was nine".**
+
+Und sie gibt ihm ihren Namen. *"That is my name. It is on nothing. My mother used
+it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
+nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
+thing like that … Hye-jin went in there and stayed."*
+
+### B1 34 · So 1. März · Der Boden neben ihr
+
+Er geht runter, ohne dass jemand darum gebeten hat, und sitzt auf den Fersen mit
+der Schulter an ihrem Bein. Das ist die Szene, aus der die Gewohnheit wird.
+
+### B2 35 · Do 4. Juni · Die Nacht mit leeren Händen
+
+Der Aufbau: er kommt mit nichts nach oben, und **sie** verbietet den Bericht.
+*"You have brought me something every evening for eleven days and I have taken
+all of it. Tonight you came up the stairs with your hands empty and knocked
+anyway, and that is what tonight is going to be."*
+
+Die Mitte: die Hand im Haar, und die Arithmetik hört auf. *"He keeps one way out
+inside his field and he prices the distance to it. He has done it since he was
+nineteen and does not know how to stop. He stopped."*
+
+Die Bitte: **die vierte in zehn Monaten.** Sie zählt die drei davor auf, in der
+Reihenfolge, in der sie passiert sind — *"A piece of paper. A room with nobody
+else in it. And a woman in Ulsan."* Dann: *"Come down here."* Und sie tut es.
+
+Die Umkehrung: zwei Finger unter das Halsband, und *"I am not taking it off
+tonight … And not tonight is not the same as not."*
+
+Der Schluss: sie sagt seinen Namen, richtig, und erklärt nicht, woher sie das
+hat. Er legt ihn **nicht** dorthin, wo er Gesichter an Türen und Zahlen am Rand
+hinlegt. Das ist die Gegenbewegung zu Hye-jin auf der Brücke und die einzige
+Stelle im Buch, an der er etwas nicht wegräumt.
+
+Und die Zeile, die den Preis nennt: *"On the second of March I sat at a window
+against your legs and it was the best evening I have had since I was nine years
+old. You were in a chair. I have thought about the chair a great deal more than I
+have thought about the window."*
+
+---
+
+## Die Probe
+
+Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
+
+1. **Steht sie in einem der Register oben?** Wenn nein: sie ist nicht passiert.
+2. **Stimmt die Zahl?** Zählen, nicht schätzen. Vier Fehler dieser Art in einer
+   Sitzung, alle durch "ich glaube, es war zweimal".
+3. **Über dem Halsband oder daran?** Es gibt genau eine Stelle im ganzen Buch, an
+   der jemand außer einem Schneider das Halsband selbst berührt, und das ist
+   Kapitel 35.
 
 ---
 
@@ -9737,16 +9978,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch35:46 | "Do not tell me about it. Not tonight." Annie closed the book without marking it. "You h.. |
 | 46 | b2ch35:78 | "You did the arithmetic on the stairs," said Annie. |
 | 46 | b2ch35:106 | Annie did not say anything to that. |
-| 46 | b2ch35:134 | Annie's hand stopped. |
-| 46 | b2ch35:214 | "I am not taking it off tonight," said Annie. |
-| 47 | b2ch35:290 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:398 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
-| 47 | b2ch35:418 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
-| 47 | b2ch35:436 | Annie set the papers down. |
-| 47 | b2ch35:536 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
-| 47 | b2ch35:554 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
-| 47 | b2ch35:566 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
-| 47 | b2ch35:584 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
+| 46 | b2ch35:146 | Annie's hand stopped. |
+| 46 | b2ch35:234 | "I am not taking it off tonight," said Annie. |
+| 47 | b2ch35:322 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:430 | Georgij went and found Annie in the room off the library, where she keeps the papers tha.. |
+| 47 | b2ch35:450 | Annie looked at him for a moment the way she had looked at the notebook on Wednesday, wh.. |
+| 47 | b2ch35:468 | Annie set the papers down. |
+| 47 | b2ch35:568 | Annie found him there twenty minutes later, on her way to the car, with a folder under o.. |
+| 47 | b2ch35:586 | Annie stood in the doorway of the garage with the evening coming down orange behind her. |
+| 47 | b2ch35:598 | "The first of the three things," said Annie. "Who else has sat at that man's table. I ha.. |
+| 47 | b2ch35:616 | "Go and eat something," said Annie. "You have been running on coffee since one o'clock t.. |
 | 51 | b2ch36:6 | Annie gave him the three things on Monday evening, in the room off the library, with the.. |
 | 51 | b2ch36:22 | "I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of pl.. |
 | 51 | b2ch36:30 | Annie had looked at him for a while before she answered that one. |
@@ -10013,7 +10254,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch30:242` (Tag 40) - ten
 - `b2ch30:286` (Tag 40) - one
 - `b2ch30:330` (Tag 40) - four
-- `b2ch30:348` (Tag 40) - nine
+- `b2ch30:348` (Tag 40) - nine, three
 - `b2ch30:390` (Tag 40) - one, twenty, two
 - `b2ch31:46` (Tag 41) - seven, ten
 - `b2ch33:74` (Tag 45) - one, three
@@ -10023,9 +10264,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:208` (Tag 46) - four, three
 - `b2ch34:248` (Tag 46) - two
 - `b2ch35:46` (Tag 46) - eleven
-- `b2ch35:536` (Tag 47) - one, twenty
-- `b2ch35:566` (Tag 47) - eleven, one, thirty, three
-- `b2ch35:584` (Tag 47) - one
+- `b2ch35:568` (Tag 47) - one, twenty
+- `b2ch35:598` (Tag 47) - eleven, one, thirty, three
+- `b2ch35:616` (Tag 47) - one
 - `b2ch36:6` (Tag 51) - three
 - `b2ch36:30` (Tag 51) - one
 - `b2ch36:42` (Tag 51) - four, two
@@ -10215,15 +10456,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:60 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
 | 46 | b2ch34:176 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
 | 46 | b2ch34:248 | On the day he wrote it he had already had the name for two days. He had still needed San.. |
-| 47 | b2ch35:268 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
-| 47 | b2ch35:280 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
-| 47 | b2ch35:290 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
-| 47 | b2ch35:324 | Sang-hoon made a sound that was almost a laugh and was not one. |
-| 47 | b2ch35:340 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
-| 47 | b2ch35:348 | Sang-hoon did not answer straight away. |
-| 47 | b2ch35:360 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
-| 47 | b2ch35:386 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
-| 47 | b2ch35:528 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
+| 47 | b2ch35:300 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
+| 47 | b2ch35:312 | "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-h.. |
+| 47 | b2ch35:322 | Sang-hoon already has the name. Saying it again on an open line, next to flowers and a s.. |
+| 47 | b2ch35:356 | Sang-hoon made a sound that was almost a laugh and was not one. |
+| 47 | b2ch35:372 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
+| 47 | b2ch35:380 | Sang-hoon did not answer straight away. |
+| 47 | b2ch35:392 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
+| 47 | b2ch35:418 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
+| 47 | b2ch35:560 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
 | 51 | b2ch36:82 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
 | 51 | b2ch36:86 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
 | 51 | b2ch36:108 | Sang-hoon did not move. |
@@ -10415,10 +10656,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:236` (Tag 45) - four
 - `b2ch34:60` (Tag 46) - eight, four
 - `b2ch34:248` (Tag 46) - two
-- `b2ch35:268` (Tag 47) - eight, nine, ten
-- `b2ch35:280` (Tag 47) - nine
-- `b2ch35:324` (Tag 47) - one
-- `b2ch35:528` (Tag 47) - eight
+- `b2ch35:300` (Tag 47) - eight, nine, ten
+- `b2ch35:312` (Tag 47) - nine
+- `b2ch35:356` (Tag 47) - one
+- `b2ch35:560` (Tag 47) - eight
 - `b2ch36:170` (Tag 51) - eleven
 - `b2ch36:182` (Tag 51) - four, two
 - `b2ch36:194` (Tag 51) - one
@@ -11059,13 +11300,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch33:340 | Jang put the cup down without drinking from it. |
 | 45 | b2ch33:352 | Jang looked at him for a moment the way a man looks at a colleague he has decided not to.. |
 | 46 | b2ch34:156 | "Nobody goes near either address today," she said. "Not you, not Jang, not anybody. Ever.. |
-| 47 | b2ch35:458 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
-| 47 | b2ch35:470 | Jang stood with his hands in his coat pockets and did not take them out. |
-| 47 | b2ch35:494 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
-| 47 | b2ch35:506 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
-| 47 | b2ch35:518 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
-| 47 | b2ch35:542 | "Jang asked me a question I have been sitting with." |
-| 47 | b2ch35:574 | "That answers Jang's question," he said. |
+| 47 | b2ch35:490 | Jang found him in the garage corridor an hour later, in the coat he wears when he means .. |
+| 47 | b2ch35:502 | Jang stood with his hands in his coat pockets and did not take them out. |
+| 47 | b2ch35:526 | Jang took that the way a man takes an answer he has had to give himself more than once i.. |
+| 47 | b2ch35:538 | "I am asking whether the person you got it from is the sort who wastes four days, or the.. |
+| 47 | b2ch35:550 | Jang nodded once, the way he does when a figure has been confirmed rather than offered. |
+| 47 | b2ch35:574 | "Jang asked me a question I have been sitting with." |
+| 47 | b2ch35:606 | "That answers Jang's question," he said. |
 | 3 | b2ch40:6 | Jang asked for the whole morning, and Annie gave it to him, which is not a thing she doe.. |
 | 3 | b2ch40:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
 | 3 | b2ch40:22 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
@@ -11152,7 +11393,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch13:46` (Tag 9) - six
 - `b2ch14:156` (Tag 4) - four, one
 - `b2ch20:280` (Tag 11) - four, one
-- `b2ch35:506` (Tag 47) - four, one
+- `b2ch35:538` (Tag 47) - four, one
 - `b2ch40:10` (Tag 3) - three
 - `b2ch40:22` (Tag 3) - one, sixteen
 - `b2ch40:38` (Tag 3) - sixteen
@@ -11258,7 +11499,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
 | 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
 | 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
-| 47 | b2ch35:394 | Mrs Seo passed with a tray and did not stop. |
+| 47 | b2ch35:426 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |

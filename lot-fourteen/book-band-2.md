@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 56 Kapitel, 137.476 Woerter.
+Book Two, 56 Kapitel, 137.846 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -40,12 +40,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 27 | v1.3 | 2.035 |
 | 28 | v1.2 | 2.465 |
 | 29 | v1.4 | 2.612 |
-| 30 | v1.0 | 2.052 |
+| 30 | v1.1 | 2.054 |
 | 31 | v1.1 | 2.356 |
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
 | 34 | v1.2 | 2.261 |
-| 35 | v2.2 | 3.294 |
+| 35 | v2.3 | 3.648 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
@@ -65,7 +65,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 52 | v1.0 | 2.311 |
 | 53 | v1.0 | 2.494 |
 | 54 | v1.0 | 2.499 |
-| 55 | v1.0 | 2.058 |
+| 55 | v1.1 | 2.072 |
 | 56 | v1.0 | 2.265 |
 
 ---
@@ -6074,7 +6074,7 @@ He is going to have to go into the small room tonight and say so.
 ---
 
 # Book Two · Chapter 30: A person with nothing
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6264,7 +6264,7 @@ He has not stopped for one day and he has not been told to, and he has kept it o
 
 The house was quiet and the pen went on and the light outside the window went orange and then went.
 
-At about half past nine Annie put her hand down into his hair without looking, which she has done twice now and which is becoming a thing that happens.
+At about half past nine Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens.
 
 He said something with his eyes shut.
 
@@ -7165,7 +7165,7 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 ---
 
 # Book Two · Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7207,7 +7207,7 @@ He looked at the chair.
 
 He sat down on the floor with his back against the sofa, on her side of the room, and it took him longer than it should have, and she let it.
 
-He sits on the floor beside her desk most days and has done since about the second week. It is where he sits. Nobody in the house has ever remarked on it, including him.
+He has sat on the floor at the side of her desk since the eleventh of March. He went down onto the carpet at her feet that evening without being told to, and neither of them has said anything about it since. It is where he sits. Nobody in this house has ever remarked on it, including him.
 
 "You did the arithmetic on the stairs," said Annie.
 
@@ -7225,7 +7225,13 @@ He put one hand flat on the carpet.
 
 Annie did not say anything to that.
 
-She put one hand into his hair, at the back, and left it there, and he did not move at all.
+She put one hand into his hair, at the back, and left it there.
+
+She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her.
+
+He did not move at all.
+
+There is a thing he does in every room he has ever been in. He keeps one way out inside his field and he prices the distance to it. He has done it since he was nineteen and does not know how to stop. He stopped. He could not afterward have said at what point in the hour it went.
 
 * * *
 
@@ -7243,9 +7249,9 @@ That is the part he could not have described to anybody afterward, and did not w
 
 Annie's hand stopped.
 
-"You have asked me for three things in ten months," she said. "A piece of paper. A man's whole company. And a woman in Ulsan." Her hand had not moved. "Ask."
+"You have asked me for three things in ten months," she said. "A piece of paper. A room with nobody else in it. And a woman in Ulsan." Her hand had not moved. "Ask."
 
-Georgij sat with that for a moment, because she had put them in the order they happened and two of the three were about somebody being finished.
+Georgij sat with that for a moment. She had put them in the order they happened and had not needed any time at all to do it. And she had counted the one he called the smaller one on the bridge, which he had assumed she would have let go of by Christmas.
 
 He looked at the wall opposite rather than at her.
 
@@ -7255,7 +7261,7 @@ Nothing happened for about three seconds.
 
 "Say why."
 
-"Because I sit on a floor in this house every day and it is where I sit, and in ten months there has not been one hour in which anybody was down here with me." He had one hand flat on the carpet and left it there. "In March I sat at a window against your legs, and it was the best evening I have had since I was nine, and you were in a chair."
+"Because I have sat on a floor in this house nearly every day since March, and you have never once been on it." He had one hand flat on the carpet and left it there. "On the second of March I sat at a window against your legs and it was the best evening I have had since I was nine years old. You were in a chair. I have thought about the chair a great deal more than I have thought about the window."
 
 He heard her put the book on the arm of the sofa.
 
@@ -7267,7 +7273,11 @@ After a while she reached over and put two fingers under the collar, at the side
 
 She has never done that.
 
-She has had her hand on it in a car in November. She had her hand flat against his throat over it in March and told him what it was for. She has never once put anything underneath it.
+She has put her hand on the back of his neck twice in February, on her way past and on her way to something else. Again on the eleventh of March, and that was the first time she did not go on to anything. In the study on the twenty-seventh of April, flat against the side of his neck, and then she sent him to bed. On Friday for about six seconds, and she said nothing at all while she did it.
+
+Every one of those was above it.
+
+She has never touched the thing itself, in either direction, in ten months, and he had assumed until this moment that it was a decision she had made in the first week and had not revisited.
 
 It is warm, because it has been on him since the second house.
 
@@ -7293,7 +7303,13 @@ Her fingers stayed exactly where they were.
 
 "And not tonight is not the same as not."
 
-Neither of them said anything after that for a long time.
+She put her hand back into his hair and left it there, and neither of them said anything for a long time.
+
+At some point past midnight she said his name.
+
+Not the way it is said in this country, and not the way it was said in any of the eleven houses. She got it right, and she did not explain where she had got it from, and he did not ask her.
+
+He has a place where he puts a face at a door and a number in a margin. He put two syllables of Korean in there on a bridge in November and has not taken them out since. He did not put this one in there.
 
 * * *
 
@@ -11469,7 +11485,7 @@ And then, on the second page, because the second page gets everything:
 ---
 
 # Book Two · Chapter 55: Consigned by
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Thirteen · Wednesday 12 August
 
@@ -11625,7 +11641,7 @@ He did not answer, because there was nothing to put next to it.
 
 Annie came round the desk and stood behind the chair.
 
-She has not done that since the thirtieth of April.
+She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to.
 
 She put one hand into his hair, at the back, the way she used to in the spring when a day had been long and neither of them said anything about it. She left it there while she read the eleven lines over his shoulder.
 
