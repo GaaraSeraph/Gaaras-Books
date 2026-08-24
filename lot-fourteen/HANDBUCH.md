@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 145.829 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 146.970 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -124,8 +124,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Hana](#hana)
   - [Chairman Woo](#chairman-woo)
   - [Jang](#jang)
-  - [Mrs Seo](#mrs-seo)
   - [Mr Hwang](#mr-hwang)
+  - [Mrs Seo](#mrs-seo)
   - [Mrs Jeon](#mrs-jeon)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Hong](#mr-hong)
@@ -2442,6 +2442,10 @@ nachrechnen, und `check.py` tut das automatisch.
   der vier Jahre in seine Laufzeit versagt hat und einen Arzt brauchte.
   Sang-hoon setzt die Aufgabe: **klaeren, ob die Frau, die Jang beobachtet
   hat, dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde**
+- Tag 273, Fr 3. Juli: **Sang-hoons vier Entscheidungen, zwei mehr datiert.**
+  S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
+  vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
+  weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 43)
   (Band 2, Kapitel 42)
 
 
@@ -3989,6 +3993,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Zwei Daten, die sich nicht zusammenlegen lassen, und Georgij haelt sich bewusst zurueck, keins davon vorschnell zu waehlen:** elf Jahre fuer das Gebaeude, vier fuer den Arzt. Dann bringt er selbst eine dritte, duesterere Lesart ins Spiel - **nicht zwei Gruende, sondern einer, der nach elf Jahren zum ersten Mal versagt hat und einen Arzt brauchte, weil die Alternative schlimmer gewesen waere.** *"That would make the doctor not the start of it, but the first time it went wrong."*
 
   **Sang-hoon gibt die Aufgabe zurueck, praeziser als Georgij sie sich selbst gestellt hatte:** nicht ob die Frau noch lebt, sondern **ob die Frau, die Jang beobachtet hat, ueberhaupt dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde.** Zwei verschiedene Fragen, und Georgij gibt zu, dass er sie bislang wie eine behandelt hat.
+
+---
+
+- **Band 2, Kapitel 43** *Six weeks before* (v1.0) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+
+  **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
+
+  **Sang-hoon bestaetigt S sofort** - er kannte das Datum bereits. **H trifft ihn anders:** die Sechs-Wochen-Distanz zu Hwangs Ankunft war ihm nie aufgefallen. Er gibt die Sache hinter der Oktober-Entscheidung zu - eine Schiffsladung ueber seinen eigenen Namen bewegt, ohne Rechnung, ohne Nachfrage - und erkennt, dass es **die letzte kleine Entscheidung war, bevor Choi einen Fremden brauchte, um das Haus sauber zu halten.** Namen bekommt weder S noch H in diesem Kapitel, nur Daten und die Art der Entscheidung bei H.
+
+  **Annie liefert die Richtung fuer K:** kein Tisch, keine Rechnung - ein Golfplatz, ein privates Badehaus, irgendein Ort, an dem ein Treffen wie Freizeit aussieht und deshalb keine Quittung braucht. Dazu eine neue Einzelheit ueber ihren Vater: **er hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt**, niemand hat je aufgeschrieben, was dort entschieden wurde.
+
+  *Korrekturhinweis 24.08.: Die erste Fassung hatte H versehentlich als "zwei Jahre nach S" und an einer Stelle als "vor drei Jahren" datiert - beides widersprach der Tatsache, dass Hwang laut Kapitel 21 erst seit Mai bekannt und (fuenf Monate zurueckgerechnet) im Dezember desselben jetzt laufenden Zeitraums ins Haus kam. Korrigiert auf "drei Jahre nach S" (ergibt Oktober, knapp ein Jahr vor der aktuellen Kapitelzeit), passend zu den sechs Wochen vor Hwangs Ankunft.*
 
 ---
 
@@ -5686,12 +5702,19 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT, YEOM VOLLSTAENDIG ENTLASTET, DER
-  KARTENVORSCHLAEGER IMMER NOCH NAMENLOS.** Restaurant-Buchpruefung erledigt
-  (Kapitel 39): zwei Maenner, kein Dritter, Yeom war nie im Raum. Der Begleiter
-  hat gegessen - **also nicht Choi Dae-ho persoenlich, sondern ein Mittelsmann,
-  freundlich, aeltere Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
-  **S, H, K bleiben komplett offen.**
+- **DIE VIER ENTSCHEIDUNGEN: Y GEPRUEFT, S UND H JETZT DATIERT (OHNE NAMEN), K
+  KOMPLETT OFFEN.** Restaurant-Buchpruefung erledigt (Kapitel 39): zwei Maenner,
+  kein Dritter, Yeom war nie im Raum. Der Begleiter hat gegessen - **also nicht
+  Choi Dae-ho persoenlich, sondern ein Mittelsmann, freundlich, aeltere
+  Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
+
+  **Kapitel 43:** S (Maerz, vor vier Jahren, derselbe Fruehling wie Los sechs)
+  und H (Oktober, drei Jahre danach - sechs Wochen vor Hwangs Ankunft) haben
+  Datum und Sang-hoons eigenes Gestaendnis (eine Ladung ohne Rechnung ueber
+  seinen Namen bewegt), aber keinen Namen fuer die Gegenseite am Tisch. **K hat
+  gar nichts** - kein Treffer in vier Jahren Reservierungsbuch. Annie weist auf
+  Orte ohne Rechnung: Golfplatz, Badehaus, ein Boot. **Faellig: wo genau, und
+  wer.**
 
 - **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
   dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,
@@ -6987,14 +7010,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 603 | 64 (b1ch01-b2ch42) | 1 | 74 |
-| Park Sang-hoon | 208 | 35 (b1ch10-b2ch42) | 1 | 74 |
+| Annie | 608 | 65 (b1ch01-b2ch43) | 1 | 74 |
+| Park Sang-hoon | 218 | 36 (b1ch10-b2ch43) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Jang | 116 | 27 (b1ch05-b2ch42) | 2 | 60 |
+| Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
-| Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
-| Mrs Jeon | 54 | 14 (b2ch06-b2ch42) | 2 | 59 |
+| Mrs Jeon | 56 | 15 (b2ch06-b2ch43) | 2 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -7009,7 +7032,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Mr Baek | 18 | 7 (b1ch05-b2ch42) | 2 | 61 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Choi Dae-ho | 14 | 8 (b1ch07-b2ch39) | 22 | 61 |
+| Choi Dae-ho | 17 | 9 (b1ch07-b2ch43) | 5 | 61 |
 | Mr Pyo | 10 | 7 (b1ch05-b1ch31) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -7027,7 +7050,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-603 Nennungen in 64 Kapiteln.
+608 Nennungen in 65 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7634,6 +7657,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:162 | "Then we have found a second man doing the same thing for a different reason, and I woul.. |
 | 5 | b2ch41:170 | "Then we will have found, from a desk, in two days, without a single door opened, the on.. |
 | 2 | b2ch42:102 | "There is a second address. A lapsed medical licence, a clinic that has been a dental of.. |
+| 5 | b2ch43:10 | Georgij spread three things across the small room's desk before Annie was even awake. Th.. |
+| 5 | b2ch43:166 | Annie was in the small room when he came back, going through a delivery ledger of her ow.. |
+| 5 | b2ch43:178 | "Then stop looking at tables." Annie set her pen down. "A man who wants no record does n.. |
+| 5 | b2ch43:194 | "I grew up watching my own father do business on a golf course twice a month and call it.. |
+| 5 | b2ch43:214 | K would not be like that, and he understood why the moment Annie said it aloud. A golf c.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7797,12 +7825,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch41:162` (Tag 5) - one, two
 - `b2ch41:170` (Tag 5) - four, one, two
 - `b2ch42:102` (Tag 2) - eighteen
+- `b2ch43:10` (Tag 5) - three, two
+- `b2ch43:194` (Tag 5) - eighteen, four, one
+- `b2ch43:214` (Tag 5) - four
 
 ---
 
 ### Park Sang-hoon
 
-208 Nennungen in 35 Kapiteln.
+218 Nennungen in 36 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8014,6 +8045,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch42:192 | "Then say which one you are actually able to answer today." Sang-hoon set his cup down. .. |
 | 2 | b2ch42:204 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
 | 2 | b2ch42:222 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
+| 5 | b2ch43:6 | He had promised Sang-hoon an answer in April, and it was July before he had one worth gi.. |
+| 5 | b2ch43:50 | Four years ago in March. Three years after that in October. Two tables, two hours, and b.. |
+| 5 | b2ch43:74 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
+| 5 | b2ch43:86 | They met at the same table as Tuesday, because Sang-hoon had said on the telephone that .. |
+| 5 | b2ch43:98 | Sang-hoon's face did not move, and that itself was the answer, because his face had move.. |
+| 5 | b2ch43:126 | Sang-hoon set the cup down without having drunk from it once. |
+| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:150 | "Then it happened somewhere I have not yet thought to be ashamed of." Sang-hoon almost l.. |
+| 5 | b2ch43:158 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
+| 5 | b2ch43:218 | He did not take that as a reason to stop. He took it as a description of the work still .. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -8112,6 +8153,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch42:192` (Tag 2) - one
 - `b2ch42:204` (Tag 2) - one
 - `b2ch42:222` (Tag 2) - one
+- `b2ch43:6` (Tag 5) - one
+- `b2ch43:50` (Tag 5) - four, three, two
+- `b2ch43:74` (Tag 5) - nine
+- `b2ch43:86` (Tag 5) - one
+- `b2ch43:130` (Tag 5) - one, six
+- `b2ch43:150` (Tag 5) - one, two
+- `b2ch43:158` (Tag 5) - six
+- `b2ch43:218` (Tag 5) - one, three, two
 
 ---
 
@@ -8774,6 +8823,120 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Hwang
+
+70 Nennungen in 14 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
+| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
+| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
+| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
+| 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
+| 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
+| 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
+| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
+| 15 | b2ch21:122 | Mr Hwang did not answer. |
+| 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
+| 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
+| 15 | b2ch21:170 | "And the page that did that," said Mr Hwang. |
+| 15 | b2ch21:176 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
+| 15 | b2ch21:192 | "Lot fourteen," said Mr Hwang. |
+| 15 | b2ch21:204 | Mr Hwang looked at the floor of a room with three crates in it. |
+| 15 | b2ch21:224 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
+| 15 | b2ch21:242 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
+| 15 | b2ch21:256 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
+| 15 | b2ch21:274 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
+| 15 | b2ch21:288 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
+| 15 | b2ch21:308 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
+| 15 | b2ch21:318 | "Mr Hwang." |
+| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
+| 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
+| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch27:320 | Mr Hwang keeps everything. |
+| 39 | b2ch28:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
+| 39 | b2ch28:34 | "You," said Mr Hwang. |
+| 39 | b2ch28:40 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
+| 39 | b2ch28:56 | Mr Hwang stood with one hand on the box file. |
+| 39 | b2ch28:68 | Mr Hwang did not go to a box and did not open anything. |
+| 39 | b2ch28:80 | "No," said Mr Hwang. "I have not had to look that up once since the twelfth of May, and .. |
+| 39 | b2ch28:92 | "Because it was correct." Mr Hwang said it without any defence in it at all, which is ne.. |
+| 39 | b2ch28:108 | "You are going to tell me that is the same thing again," said Mr Hwang. |
+| 39 | b2ch28:114 | Mr Hwang turned back to the table and moved the box file about an inch to the left, whic.. |
+| 39 | b2ch28:126 | "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. ".. |
+| 39 | b2ch28:154 | "I said that the house was in wind-up," said Mr Hwang, "and that reopening a matter in w.. |
+| 39 | b2ch28:168 | "I did not open it. She had it in her hands and she was holding it out and I did not put.. |
+| 39 | b2ch28:172 | Georgij looked at the two crates and did not look at Mr Hwang at all. |
+| 39 | b2ch28:186 | Mr Hwang looked up at that. |
+| 39 | b2ch28:194 | Mr Hwang stood very still for a while. |
+| 39 | b2ch28:208 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
+| 39 | b2ch28:216 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
+| 39 | b2ch28:232 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
+| 39 | b2ch28:260 | Mr Hwang did not say anything for a moment. |
+| 39 | b2ch28:280 | "There is one thing," said Mr Hwang. |
+| 39 | b2ch28:302 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
+| 39 | b2ch28:306 | "Mr Hwang." |
+| 39 | b2ch28:316 | Mr Hwang picked the page back up off the table and turned it the right way round. |
+| 39 | b2ch28:344 | Mr Hwang looked at the crate he had closed. |
+| 39 | b2ch28:356 | "I am not the custodian of anything in this building any more." Mr Hwang put one hand fl.. |
+| 39 | b2ch28:362 | "Yes," said Mr Hwang. "You should." |
+| 39 | b2ch28:380 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
+| 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
+| 41 | b2ch31:98 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
+| 44 | b2ch32:380 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
+| 45 | b2ch33:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
+| 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
+| 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
+| 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
+| 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
+| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
+| 5 | b2ch43:38 | *H. 7:30. October, three years later. Six weeks before Hwang was brought into a house th.. |
+| 5 | b2ch43:110 | "H. Half past seven, in October, three years after the first. Six weeks before a man cal.. |
+| 5 | b2ch43:122 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
+| 5 | b2ch43:134 | "You did not know Hwang was coming." |
+| 5 | b2ch43:138 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
+
+### Zahlen in der Naehe von Mr Hwang
+
+- `b2ch07:34` (Tag 7) - three
+- `b2ch10:262` (Tag 3) - one
+- `b2ch21:20` (Tag 15) - three
+- `b2ch21:66` (Tag 15) - three
+- `b2ch21:76` (Tag 15) - five, three
+- `b2ch21:158` (Tag 15) - eight, one
+- `b2ch21:176` (Tag 15) - one
+- `b2ch21:192` (Tag 15) - fourteen
+- `b2ch21:204` (Tag 15) - three
+- `b2ch21:256` (Tag 15) - twenty
+- `b2ch21:288` (Tag 15) - fifteen
+- `b2ch21:308` (Tag 15) - five, four, twenty
+- `b2ch27:306` (Tag 38) - four
+- `b2ch28:28` (Tag 39) - two
+- `b2ch28:56` (Tag 39) - one
+- `b2ch28:92` (Tag 39) - eleven, one, twelve
+- `b2ch28:154` (Tag 39) - twenty-three
+- `b2ch28:168` (Tag 39) - four
+- `b2ch28:172` (Tag 39) - two
+- `b2ch28:208` (Tag 39) - one, twenty
+- `b2ch28:216` (Tag 39) - one, two
+- `b2ch28:280` (Tag 39) - one
+- `b2ch28:356` (Tag 39) - one
+- `b2ch29:272` (Tag 40) - six hundred and forty
+- `b2ch32:380` (Tag 44) - five
+- `b2ch33:10` (Tag 45) - two
+- `b2ch33:214` (Tag 45) - one
+- `b2ch34:196` (Tag 46) - one
+- `b2ch37:216` (Tag 57) - six, two
+- `b2ch43:38` (Tag 5) - six, three
+- `b2ch43:110` (Tag 5) - seven, six, three
+- `b2ch43:122` (Tag 5) - one, six
+
+---
+
 ### Mrs Seo
 
 69 Nennungen in 29 Kapiteln.
@@ -8893,115 +9056,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Hwang
-
-65 Nennungen in 13 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 7 | b2ch07:34 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 3 | b2ch10:262 | And with the one fact that changes the size of it, which is that what Mr Hwang found was.. |
-| 15 | b2ch21:20 | Mr Hwang was in the room at the end with three crates open and a list. |
-| 15 | b2ch21:42 | Mr Hwang put the list down on the table. |
-| 15 | b2ch21:54 | "You are correct," said Mr Hwang. "I want to say that first so that we are not doing the.. |
-| 15 | b2ch21:66 | "He paid the fee. It is in the ledger with the other three and it is the same money in t.. |
-| 15 | b2ch21:76 | "They do not go together at all, and I have had five months on it." Mr Hwang picked the .. |
-| 15 | b2ch21:96 | "Nothing," said Mr Hwang. |
-| 15 | b2ch21:108 | "They paid for a service," said Mr Hwang. "The service was not performed. I am aware of .. |
-| 15 | b2ch21:122 | Mr Hwang did not answer. |
-| 15 | b2ch21:134 | Mr Hwang picked the list up again and then put it down without looking at it. |
-| 15 | b2ch21:158 | Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds. |
-| 15 | b2ch21:170 | "And the page that did that," said Mr Hwang. |
-| 15 | b2ch21:176 | Mr Hwang sat down on one of the crates, which is not a chair, and put his forearms on hi.. |
-| 15 | b2ch21:192 | "Lot fourteen," said Mr Hwang. |
-| 15 | b2ch21:204 | Mr Hwang looked at the floor of a room with three crates in it. |
-| 15 | b2ch21:224 | Mr Hwang nodded slowly, once, and did not say anything about it at all. |
-| 15 | b2ch21:242 | Mr Hwang sat on the crate with his forearms on his knees and did not move. |
-| 15 | b2ch21:256 | "You want something," said Mr Hwang. "You have not asked for it yet and you have been in.. |
-| 15 | b2ch21:274 | Mr Hwang did not answer for a moment, and it was not reluctance and it was not calculati.. |
-| 15 | b2ch21:288 | Mr Hwang got up off the crate and went to the table and wrote on the back of the list. H.. |
-| 15 | b2ch21:308 | "Do not." Mr Hwang went back to the crates. "I have just done in twenty seconds the thin.. |
-| 15 | b2ch21:318 | "Mr Hwang." |
-| 26 | b2ch24:156 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
-| 26 | b2ch24:218 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 38 | b2ch27:306 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 38 | b2ch27:320 | Mr Hwang keeps everything. |
-| 39 | b2ch28:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
-| 39 | b2ch28:34 | "You," said Mr Hwang. |
-| 39 | b2ch28:40 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
-| 39 | b2ch28:56 | Mr Hwang stood with one hand on the box file. |
-| 39 | b2ch28:68 | Mr Hwang did not go to a box and did not open anything. |
-| 39 | b2ch28:80 | "No," said Mr Hwang. "I have not had to look that up once since the twelfth of May, and .. |
-| 39 | b2ch28:92 | "Because it was correct." Mr Hwang said it without any defence in it at all, which is ne.. |
-| 39 | b2ch28:108 | "You are going to tell me that is the same thing again," said Mr Hwang. |
-| 39 | b2ch28:114 | Mr Hwang turned back to the table and moved the box file about an inch to the left, whic.. |
-| 39 | b2ch28:126 | "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. ".. |
-| 39 | b2ch28:154 | "I said that the house was in wind-up," said Mr Hwang, "and that reopening a matter in w.. |
-| 39 | b2ch28:168 | "I did not open it. She had it in her hands and she was holding it out and I did not put.. |
-| 39 | b2ch28:172 | Georgij looked at the two crates and did not look at Mr Hwang at all. |
-| 39 | b2ch28:186 | Mr Hwang looked up at that. |
-| 39 | b2ch28:194 | Mr Hwang stood very still for a while. |
-| 39 | b2ch28:208 | "There is a bus every twenty minutes from the station and it is the fourth stop," said M.. |
-| 39 | b2ch28:216 | "She asked me for a reference on the twelfth," said Mr Hwang. "I wrote her one. It is tw.. |
-| 39 | b2ch28:232 | Mr Hwang nodded once, slowly, as though somebody had confirmed a figure. |
-| 39 | b2ch28:260 | Mr Hwang did not say anything for a moment. |
-| 39 | b2ch28:280 | "There is one thing," said Mr Hwang. |
-| 39 | b2ch28:302 | He did not agree to it. He also did not refuse, and Mr Hwang had been in enough rooms by.. |
-| 39 | b2ch28:306 | "Mr Hwang." |
-| 39 | b2ch28:316 | Mr Hwang picked the page back up off the table and turned it the right way round. |
-| 39 | b2ch28:344 | Mr Hwang looked at the crate he had closed. |
-| 39 | b2ch28:356 | "I am not the custodian of anything in this building any more." Mr Hwang put one hand fl.. |
-| 39 | b2ch28:362 | "Yes," said Mr Hwang. "You should." |
-| 39 | b2ch28:380 | Mr Hwang would not take the exercise book in January, and it went back out of that build.. |
-| 40 | b2ch29:272 | "It went to six hundred and forty of them in March and it has been lying in their drawer.. |
-| 41 | b2ch31:98 | "Then here is what you are about to do, and I want you to hear it before you enjoy the r.. |
-| 44 | b2ch32:380 | "Mr Hwang asked me for something and I did not answer him," said Georgij. "I want to giv.. |
-| 45 | b2ch33:10 | Byun's folded sheet. Hwang's compliments slip with the address on the back. The copied p.. |
-| 45 | b2ch33:102 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
-| 45 | b2ch33:214 | "And the page from Mrs Jeon. The one for Hwang." |
-| 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
-| 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
-| 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
-| 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
-| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
-
-### Zahlen in der Naehe von Mr Hwang
-
-- `b2ch07:34` (Tag 7) - three
-- `b2ch10:262` (Tag 3) - one
-- `b2ch21:20` (Tag 15) - three
-- `b2ch21:66` (Tag 15) - three
-- `b2ch21:76` (Tag 15) - five, three
-- `b2ch21:158` (Tag 15) - eight, one
-- `b2ch21:176` (Tag 15) - one
-- `b2ch21:192` (Tag 15) - fourteen
-- `b2ch21:204` (Tag 15) - three
-- `b2ch21:256` (Tag 15) - twenty
-- `b2ch21:288` (Tag 15) - fifteen
-- `b2ch21:308` (Tag 15) - five, four, twenty
-- `b2ch27:306` (Tag 38) - four
-- `b2ch28:28` (Tag 39) - two
-- `b2ch28:56` (Tag 39) - one
-- `b2ch28:92` (Tag 39) - eleven, one, twelve
-- `b2ch28:154` (Tag 39) - twenty-three
-- `b2ch28:168` (Tag 39) - four
-- `b2ch28:172` (Tag 39) - two
-- `b2ch28:208` (Tag 39) - one, twenty
-- `b2ch28:216` (Tag 39) - one, two
-- `b2ch28:280` (Tag 39) - one
-- `b2ch28:356` (Tag 39) - one
-- `b2ch29:272` (Tag 40) - six hundred and forty
-- `b2ch32:380` (Tag 44) - five
-- `b2ch33:10` (Tag 45) - two
-- `b2ch33:214` (Tag 45) - one
-- `b2ch34:196` (Tag 46) - one
-- `b2ch37:216` (Tag 57) - six, two
-
----
-
 ### Mrs Jeon
 
-54 Nennungen in 14 Kapiteln.
+56 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9059,6 +9116,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
 | 5 | b2ch41:30 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
 | 2 | b2ch42:162 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
+| 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
+| 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -9082,6 +9141,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:66` (Tag 51) - eight, eleven, one
 - `b2ch41:30` (Tag 5) - forty, one, six
 - `b2ch42:162` (Tag 2) - one, twenty-three
+- `b2ch43:42` (Tag 5) - one, two
+- `b2ch43:66` (Tag 5) - forty, one
 
 ---
 
@@ -9841,7 +9902,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Choi Dae-ho
 
-14 Nennungen in 8 Kapiteln.
+17 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9859,6 +9920,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
 | 51 | b2ch36:124 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 61 | b2ch39:132 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
+| 5 | b2ch43:18 | He had already found Y in it, three weeks ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -9871,6 +9935,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:60` (Tag 51) - eleven, four, one, thirty
 - `b2ch36:124` (Tag 51) - three
 - `b2ch39:132` (Tag 61) - one
+- `b2ch43:18` (Tag 5) - one, three
+- `b2ch43:130` (Tag 5) - one, six
 
 ---
 

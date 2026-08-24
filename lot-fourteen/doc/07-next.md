@@ -718,12 +718,19 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT, YEOM VOLLSTAENDIG ENTLASTET, DER
-  KARTENVORSCHLAEGER IMMER NOCH NAMENLOS.** Restaurant-Buchpruefung erledigt
-  (Kapitel 39): zwei Maenner, kein Dritter, Yeom war nie im Raum. Der Begleiter
-  hat gegessen - **also nicht Choi Dae-ho persoenlich, sondern ein Mittelsmann,
-  freundlich, aeltere Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
-  **S, H, K bleiben komplett offen.**
+- **DIE VIER ENTSCHEIDUNGEN: Y GEPRUEFT, S UND H JETZT DATIERT (OHNE NAMEN), K
+  KOMPLETT OFFEN.** Restaurant-Buchpruefung erledigt (Kapitel 39): zwei Maenner,
+  kein Dritter, Yeom war nie im Raum. Der Begleiter hat gegessen - **also nicht
+  Choi Dae-ho persoenlich, sondern ein Mittelsmann, freundlich, aeltere
+  Erscheinung, kennt Kochnamen.** Faellig: wer das ist.
+
+  **Kapitel 43:** S (Maerz, vor vier Jahren, derselbe Fruehling wie Los sechs)
+  und H (Oktober, drei Jahre danach - sechs Wochen vor Hwangs Ankunft) haben
+  Datum und Sang-hoons eigenes Gestaendnis (eine Ladung ohne Rechnung ueber
+  seinen Namen bewegt), aber keinen Namen fuer die Gegenseite am Tisch. **K hat
+  gar nichts** - kein Treffer in vier Jahren Reservierungsbuch. Annie weist auf
+  Orte ohne Rechnung: Golfplatz, Badehaus, ein Boot. **Faellig: wo genau, und
+  wer.**
 
 - **DER APRIL-AUFRAEUMER.** Ein zweiter, unbenannter Mann pruefte im April
   dieselbe Kueche wie Georgij im Juni - "gut gekleidet, leise Stimme", zog ab,

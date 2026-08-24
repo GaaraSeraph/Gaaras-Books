@@ -325,6 +325,10 @@ nachrechnen, und `check.py` tut das automatisch.
   der vier Jahre in seine Laufzeit versagt hat und einen Arzt brauchte.
   Sang-hoon setzt die Aufgabe: **klaeren, ob die Frau, die Jang beobachtet
   hat, dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde**
+- Tag 273, Fr 3. Juli: **Sang-hoons vier Entscheidungen, zwei mehr datiert.**
+  S (Maerz, vor vier Jahren) und H (Oktober, drei Jahre danach, sechs Wochen
+  vor Hwangs Ankunft) haben jetzt Daten ohne Namen. K bleibt offen - Annie
+  weist auf Orte ohne Rechnung: Golfplatz, Badehaus (Band 2, Kapitel 43)
   (Band 2, Kapitel 42)
 
 
@@ -1872,6 +1876,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Zwei Daten, die sich nicht zusammenlegen lassen, und Georgij haelt sich bewusst zurueck, keins davon vorschnell zu waehlen:** elf Jahre fuer das Gebaeude, vier fuer den Arzt. Dann bringt er selbst eine dritte, duesterere Lesart ins Spiel - **nicht zwei Gruende, sondern einer, der nach elf Jahren zum ersten Mal versagt hat und einen Arzt brauchte, weil die Alternative schlimmer gewesen waere.** *"That would make the doctor not the start of it, but the first time it went wrong."*
 
   **Sang-hoon gibt die Aufgabe zurueck, praeziser als Georgij sie sich selbst gestellt hatte:** nicht ob die Frau noch lebt, sondern **ob die Frau, die Jang beobachtet hat, ueberhaupt dieselbe ist, fuer die der Trust vor elf Jahren gebaut wurde.** Zwei verschiedene Fragen, und Georgij gibt zu, dass er sie bislang wie eine behandelt hat.
+
+---
+
+- **Band 2, Kapitel 43** *Six weeks before* (v1.0) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+
+  **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
+
+  **Sang-hoon bestaetigt S sofort** - er kannte das Datum bereits. **H trifft ihn anders:** die Sechs-Wochen-Distanz zu Hwangs Ankunft war ihm nie aufgefallen. Er gibt die Sache hinter der Oktober-Entscheidung zu - eine Schiffsladung ueber seinen eigenen Namen bewegt, ohne Rechnung, ohne Nachfrage - und erkennt, dass es **die letzte kleine Entscheidung war, bevor Choi einen Fremden brauchte, um das Haus sauber zu halten.** Namen bekommt weder S noch H in diesem Kapitel, nur Daten und die Art der Entscheidung bei H.
+
+  **Annie liefert die Richtung fuer K:** kein Tisch, keine Rechnung - ein Golfplatz, ein privates Badehaus, irgendein Ort, an dem ein Treffen wie Freizeit aussieht und deshalb keine Quittung braucht. Dazu eine neue Einzelheit ueber ihren Vater: **er hat zweimal im Monat auf einem Golfplatz Geschaefte gemacht und es Sport genannt**, niemand hat je aufgeschrieben, was dort entschieden wurde.
+
+  *Korrekturhinweis 24.08.: Die erste Fassung hatte H versehentlich als "zwei Jahre nach S" und an einer Stelle als "vor drei Jahren" datiert - beides widersprach der Tatsache, dass Hwang laut Kapitel 21 erst seit Mai bekannt und (fuenf Monate zurueckgerechnet) im Dezember desselben jetzt laufenden Zeitraums ins Haus kam. Korrigiert auf "drei Jahre nach S" (ergibt Oktober, knapp ein Jahr vor der aktuellen Kapitelzeit), passend zu den sechs Wochen vor Hwangs Ankunft.*
 
 ---
 
