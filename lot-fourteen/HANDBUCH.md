@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 164.474 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 164.847 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -4858,7 +4858,7 @@ wenn der Februar achtundzwanzig Tage hat** - hat er.
 
 ## Band 1 ist inhaltlich durch (25.08.)
 
-Vierunddreissig Kapitel, sieben Bloecke, **dreissig Korrekturen**. Geprueft
+Vierunddreissig Kapitel, sieben Bloecke, **fuenfunddreissig Funde an neununddreissig Textstellen**. Geprueft
 wurde auf: Rueckbezuege, Wissensstand der Sprechenden, eingeloeste Zusagen,
 Zahlen, Daten und Wochentage, und die Regel, dass Georgij nichts Unwahres sagt.
 
@@ -7325,6 +7325,49 @@ Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
   Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
   Satz von Annie oder im Erzaehltext schliesst die Luecke.
 - **doc/06-plot.md endet mit Band 1.**
+
+---
+
+## Offen nach dem Band-1-Durchgang vom 25.08.
+
+**Band 1 ist inhaltlich durch.** Alle vierunddreissig Kapitel, sieben Bloecke,
+fuenfunddreissig Funde. Die Einzelheiten stehen in `doc/05-continuity.md`. Was
+hier steht, ist das, was **nicht** korrigiert wurde, weil es dem Autor gehoert.
+
+**Zwei Rechnungen, die ich stehen gelassen habe.**
+
+- **Kapitel 24:** *"There were four in that cellar with no mark on them at all
+  and every one of them went for under a third of what I did."* Ein Drittel von
+  zweihundertzwanzig sind dreiundsiebzig. Los elf ging fuer achtzig, Los zwoelf
+  fuer hundertsechzig. **Nicht geaendert**, weil die vier nicht die beiden sein
+  muessen, die Kapitel 1 nennt - aber ein Leser, der mitrechnet, stolpert, und
+  dieses Buch erzieht zum Mitrechnen. Wenn es dich stoert, ist die sichere
+  Fassung *"not one of them made what I did"*.
+- **Kapitel 26:** *"a man who has not been photographed with anybody since
+  1998"*. Woo ist seit vier Jahren auf jeder Gala und in zweitausend Bildern.
+  Der Satz haelt nur, wenn *photographed with* das gestellte Bild neben einer
+  benannten Person meint - was er vermutlich soll, und was Kapitel 21 stuetzt.
+  Stehen gelassen, aber es ist die duennste Stelle in Band 1.
+
+**Drei Zahlen, die sich haeufen.**
+
+- **Elf** traegt in Band 1 sehr viel: elf Haeuser, elf Bilderrahmen, elfmal
+  vorgestellt, elf Minuten nach acht, elf Sekunden Kamera, elf Sekunden Gesicht,
+  elf Minuten Schweigen, elf Monate bis zu einem Mittagessen, elf Jahre Fracht,
+  elf Jahre Genehmigungen, Seite elf. Nichts davon ist falsch. Kapitel 29 und 33
+  haben je drei davon auf wenigen Seiten.
+- **Zwanzig Jahre** bei Hana: sie hat zwanzig Jahre Telefonnummern, kommt seit
+  zwanzig Jahren auf solche Terrassen, kennt Ye-rin zwanzig Jahre - und sagt in
+  Kapitel 21 *"In twenty-five years"* ueber dasselbe Handwerk.
+- **Achtundzwanzig Tage im Februar.** Tag 149 ist der 1. Maerz nur damit. Steht
+  jetzt fest verbucht, aber wer je einen Schaltjahr-Gedanken hat, bricht Band 2
+  mit.
+
+**Und eine Beobachtung, keine Korrektur.** Georgij laechelt in Band 1
+**achtmal** ungerichtet, und alle acht liegen nach dem 4. Oktober. In Band 2
+kein einziges Mal. Kapitel 17 zaehlt die ersten sechs jetzt ausdruecklich auf.
+Ob das ein Bogen ist oder ein Verlust, ist deine Entscheidung, und sie steht seit
+dem 24.08. offen.
 
 ---
 
