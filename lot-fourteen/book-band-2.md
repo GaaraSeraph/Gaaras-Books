@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 53 Kapitel, 128.971 Woerter.
+Book Two, 53 Kapitel, 129.446 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -60,7 +60,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 47 | v1.0 | 1.924 |
 | 48 | v1.0 | 2.326 |
 | 49 | v1.0 | 2.087 |
-| 50 | v1.0 | 2.502 |
+| 50 | v2.0 | 2.977 |
 | 51 | v1.0 | 2.158 |
 | 52 | v1.0 | 2.311 |
 | 53 | v1.0 | 2.494 |
@@ -10223,7 +10223,7 @@ And underneath, because he had promised himself in June that the page would hold
 ---
 
 # Book Two · Chapter 50: The one he kept
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
 
@@ -10323,23 +10323,65 @@ Georgij put one hand flat on the arm of the chair, which was as much as he permi
 
 * * *
 
-"There is a second thing," said Baek, "and it is the reason I agreed to sit in this room, and I would like it understood that Mr Park did not know about it when he asked me."
+Georgij had been waiting for the schedule since the word amended, and now that he had it he did not ask for anything else.
 
-Sang-hoon looked at him and said nothing, which confirmed it.
+He went the other way instead, which is the way he has gone in every room since June, and it works exactly once per man.
 
-"In July, four years ago, I paid an invoice from a medical practice for a house call outside Seoul." Baek reached down beside the chair and brought up a document case that had been there the whole time and that Georgij had not once looked at. "The travelling cost more than the attendance. That is unusual and it is not improper, and it fell squarely inside the instructions, and I paid it inside the month."
+"In July, four years ago, that trust paid a medical invoice," said Georgij. "A house call outside Seoul. The travelling cost three times the attendance and it was settled inside the month."
 
-He did not open the case yet.
+Baek Jun-ho did not move.
 
-"In the box where the patient's name goes," he said, "there is a reference of six characters. It is not a name, a hospital number or an insurance number, and I have looked at all three formats for thirty years."
+"How do you know that."
 
-Nobody in the room said anything.
+"Because a woman at a settlement counter passed it on the ninth of January and has not had a comfortable hour since, and because it was paid." Georgij did not hurry any of it. "An invoice of that shape, against that address, in that month. There is exactly one account in this country it could have come out of, and you have just spent ten minutes telling me that you are the only man who signs on it."
 
-"I paid it," said Baek. "I paid it because it was properly rendered and inside the instructions, and because a solicitor who queries every unusual line in eleven years of a trust is a solicitor who does not have eleven trusts." He put both hands flat on the case. "And then I did a thing I have never done before or since, and I have never been able to give myself a reason for it that I would say out loud."
+Sang-hoon looked from one of them to the other and did not say anything.
 
-"You kept a copy," said Georgij.
+"You have not asked me a question yet," said Baek.
+
+"No. I am going to say a thing instead, and you will tell me whether it is true, and if it is not true I will have been wrong out loud in front of both of you." Georgij put one hand flat on the arm of the chair. "You kept a copy."
+
+The room did not do anything at all for about four seconds.
+
+"Say why you think that."
+
+"Because in eleven years you have queried one line, and it was the flat, and it was not that invoice." He kept his voice exactly where it was. "A man who queries nothing and is troubled by one thing does one of two things with it. He forgets it inside a year, or he takes a copy and never mentions it to anybody, and afterward he cannot explain to himself why."
+
+Baek Jun-ho put both hands on the document case beside his chair, which had been there the whole time and which Georgij had not once looked at.
+
+"And the reason you think it is the second one."
+
+"Because you have not forgotten it. You are sitting in a room on a Tuesday morning with a man you had never heard of on Friday."
+
+Nobody said anything for a moment.
+
+"I paid it because it was properly rendered and inside the instructions," said Baek, "and because a solicitor who queries every unusual line in eleven years of a trust is a solicitor who does not have eleven trusts." He did not open the case. "And then I did a thing I have never done before or since."
+
+"Say it out loud rather than letting me say it for you," said Georgij. "It is yours."
 
 "I kept a copy."
+
+* * *
+
+There was a silence after that which Sang-hoon did not fill. Georgij let it run to the end of itself, because the next part had to be said by the man holding the case.
+
+"You want it," said Baek.
+
+"I do."
+
+"Then say what I get, and do not tell me that I get to do the right thing, because I have been doing the right thing on that account for eleven years and it has brought me here."
+
+Georgij did not decorate it.
+
+"You get to be told what you have been signing," he said. "I am the only person alive who can tell you. I have known since the second of June and it has been in a locked drawer since. I am going to tell you whether or not you open that case, because you earned it by sitting down."
+
+Baek looked at him for a long moment.
+
+"That is a strange way to negotiate," he said.
+
+"It is not a negotiation. I am saying both halves at the same time so that neither of us has to pretend it is one." Georgij kept his hand where it was. "You have something I need and I have something you have wanted for four years. If I hand you mine first you will hand me yours, and I want both of us watching me do it in that order."
+
+Baek Jun-ho opened the case.
 
 * * *
 
@@ -10355,13 +10397,13 @@ He has known what is on that page since the second of June. A woman at a settlem
 
 This is the page.
 
-"Say what it is," said Baek. "You know and I do not, and I have carried it for four years, and I would rather have it than go on being a man who kept a copy and never asked."
+"It is not a name, a hospital number or an insurance number," said Baek. "I have looked at all three formats for thirty years and it is none of the three, and that is as far as I have ever got with it."
 
-Georgij did not answer immediately.
+"I know what it is," said Georgij, "and I said I would tell you first, so I am going to tell you before anybody in this room touches that sleeve."
 
-He looked at Sang-hoon, and Sang-hoon looked back at him, and neither of them said anything, and the decision was his and both of them knew it.
+"Then tell me."
 
-"It is a lot number," said Georgij.
+"It is a lot number."
 
 Baek Jun-ho sat very still.
 
