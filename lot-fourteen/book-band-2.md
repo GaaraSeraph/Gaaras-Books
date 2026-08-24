@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 55 Kapitel, 133.967 Woerter.
+Book Two, 55 Kapitel, 135.209 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -45,7 +45,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
 | 34 | v1.2 | 2.261 |
-| 35 | v1.2 | 2.050 |
+| 35 | v2.0 | 3.292 |
 | 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.2 | 2.977 |
@@ -7164,7 +7164,153 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 ---
 
 # Book Two · Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 2.0 · EN
+
+## Day Two Hundred and Forty-Four · Thursday 4 June
+
+He had written the line at about eleven and sat with it for a quarter of an hour before he let himself notice which woman he had meant. Then he put the notebook in the drawer and went up.
+
+There was a light under her door.
+
+There has been a light under her door on perhaps forty nights this year and he has knocked on about nine of them. On the other thirty-one he has stood in a corridor for a moment and gone to his own room, and neither of them has ever mentioned it.
+
+He knocked.
+
+* * *
+
+She was on the small sofa with a book she was not reading and her shoes off, which is the only untidy thing she does.
+
+"You have been down there since seven," she said.
+
+"I have."
+
+"Do not tell me about it."
+
+Georgij stopped just inside the door.
+
+"Say that again."
+
+"Do not tell me about it. Not tonight." Annie closed the book without marking it. "You have brought me something every evening for eleven days and I have taken all of it. Tonight you came up the stairs with your hands empty and knocked anyway, and that is what tonight is going to be."
+
+He stood in the middle of her floor and found that he had nothing arranged for it.
+
+"Then I do not know what to do," he said.
+
+"No," she said. "I know. Sit down."
+
+He looked at the chair.
+
+"Not there."
+
+* * *
+
+He sat down on the floor with his back against the sofa, on her side of the room, and it took him longer than it should have, and she let it.
+
+The first time he sat on a floor in this house was the fourth of October, in a room downstairs, at a window, because standing would have been a claim and a chair would have been a bigger one. He worked it out inside a minute that night. He was very pleased with himself about it at the time.
+
+He has not sat on a floor since, except at that desk in March with a page in his hand, and he did not choose that one either.
+
+"You are thinking about October," said Annie.
+
+"I am."
+
+"Say it, and then we will have said it and it will be over."
+
+He put one hand flat on the carpet.
+
+"In October I sat on a floor because it was the cheapest thing available and I had worked out the arithmetic before I sat down." He did not look up. "I have just done it again on the stairs, without meaning to, and I got as far as the third step before I noticed."
+
+"And then what."
+
+"And then I came in anyway and sat down anyway, and I am telling you that I did the arithmetic, because you would know if I did not."
+
+Annie did not say anything to that.
+
+She put one hand into his hair, at the back, and left it there, and he did not move at all.
+
+* * *
+
+They stayed like that for a while, and the house did the things a house does at half past eleven.
+
+Somewhere below them a door was shut carefully by somebody who did not want to be heard shutting it. A car went past on the road, and then, after a long time, another one.
+
+She did not ask him anything.
+
+That is the part he could not have described to anybody afterward, and did not write down, and has thought about since. A woman who asks four questions a minute for eleven hours a day sat in her own room for the better part of an hour and asked him nothing at all.
+
+* * *
+
+"May I ask you for something?"
+
+Annie's hand stopped.
+
+"You have asked me for two things in ten months," she said. "One of them was a piece of paper and one of them was for me to buy a man's whole company. Ask."
+
+Georgij looked at the wall opposite rather than at her.
+
+"Come down here."
+
+Nothing happened for about three seconds.
+
+"Say why."
+
+"Because I have been on a floor in this house twice and both times it was a calculation." He had one hand flat on the carpet and left it there. "And I would like to have been on one once when it was not."
+
+He heard her put the book on the arm of the sofa.
+
+Then she came down onto the floor beside him, without any of the noise a person makes doing that. She sat with her back against the same sofa and her shoulder against his arm, and did not say a single word about it.
+
+* * *
+
+After a while she reached over and put two fingers under the collar, at the side, where the skin is.
+
+She has never done that.
+
+She has had her hand on it in a car in November. She had her hand flat against his throat over it in March and told him what it was for. She has never once put anything underneath it.
+
+It is warm, because it has been on him since the second house.
+
+"Does that hurt," she said.
+
+"No."
+
+"Say the true answer rather than the fast one."
+
+Georgij closed his eyes.
+
+"It has not hurt since the third house," he said. "It is warm. That is all it is. It is the only part of me that is always the same temperature and I have not thought about that in about nine years."
+
+Her fingers stayed exactly where they were.
+
+"I am not taking it off tonight," said Annie.
+
+"I know. I did not ask."
+
+"No. I am saying it because you are going to lie awake wondering whether I was about to, and you should have the answer now and sleep." She did not move her hand. "It comes off on a day we have both decided about, in daylight, with nobody else in the house, and not at midnight on a floor because a man came up the stairs with nothing in his hands."
+
+"Yes, Mistress."
+
+"And not tonight is not the same as not."
+
+Neither of them said anything after that for a long time.
+
+* * *
+
+He went to his own room at about one, because she did not tell him not to and because he did not ask, and both of those were choices and both of them knew it.
+
+At the door he stopped, and she was already looking at him.
+
+"You did not tell me what you found tonight," she said.
+
+"No."
+
+"Good. It will still be there in the morning and so will I."
+
+He wrote nothing at all in the notebook that night.
+
+The first page has an entry for every single day since the eleventh of March, and there is a gap on the fourth of June, and he has never explained it and is not going to.
+
+* * *
 
 ## Day Two Hundred and Forty-Five · Friday 5 June
 

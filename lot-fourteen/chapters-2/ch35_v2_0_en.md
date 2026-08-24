@@ -1,11 +1,273 @@
-Book Two · Chapter 35: Everything I am allowed to say
-Lot Fourteen · Version 1.2 · EN
+# Chapter 35: Everything I am allowed to say
+*Lot Fourteen* · Version 2.0 · EN
 
-Day Two Hundred and Forty-Five · Friday 5 June
+## Day Two Hundred and Forty-Four · Thursday 4 June
+
+He had written the line at about eleven and sat with it for a quarter of an hour before he let himself notice which woman he had meant. Then he put the notebook in the drawer and went up.
+
+---
+
+There was a light under her door.
+
+---
+
+There has been a light under her door on perhaps forty nights this year and he has knocked on about nine of them. On the other thirty-one he has stood in a corridor for a moment and gone to his own room, and neither of them has ever mentioned it.
+
+---
+
+He knocked.
+
+* * *
+
+She was on the small sofa with a book she was not reading and her shoes off, which is the only untidy thing she does.
+
+---
+
+"You have been down there since seven," she said.
+
+---
+
+"I have."
+
+---
+
+"Do not tell me about it."
+
+---
+
+Georgij stopped just inside the door.
+
+---
+
+"Say that again."
+
+---
+
+"Do not tell me about it. Not tonight." Annie closed the book without marking it. "You have brought me something every evening for eleven days and I have taken all of it. Tonight you came up the stairs with your hands empty and knocked anyway, and that is what tonight is going to be."
+
+---
+
+He stood in the middle of her floor and found that he had nothing arranged for it.
+
+---
+
+"Then I do not know what to do," he said.
+
+---
+
+"No," she said. "I know. Sit down."
+
+---
+
+He looked at the chair.
+
+---
+
+"Not there."
+
+* * *
+
+He sat down on the floor with his back against the sofa, on her side of the room, and it took him longer than it should have, and she let it.
+
+---
+
+The first time he sat on a floor in this house was the fourth of October, in a room downstairs, at a window, because standing would have been a claim and a chair would have been a bigger one. He worked it out inside a minute that night. He was very pleased with himself about it at the time.
+
+---
+
+He has not sat on a floor since, except at that desk in March with a page in his hand, and he did not choose that one either.
+
+---
+
+"You are thinking about October," said Annie.
+
+---
+
+"I am."
+
+---
+
+"Say it, and then we will have said it and it will be over."
+
+---
+
+He put one hand flat on the carpet.
+
+---
+
+"In October I sat on a floor because it was the cheapest thing available and I had worked out the arithmetic before I sat down." He did not look up. "I have just done it again on the stairs, without meaning to, and I got as far as the third step before I noticed."
+
+---
+
+"And then what."
+
+---
+
+"And then I came in anyway and sat down anyway, and I am telling you that I did the arithmetic, because you would know if I did not."
+
+---
+
+Annie did not say anything to that.
+
+---
+
+She put one hand into his hair, at the back, and left it there, and he did not move at all.
+
+* * *
+
+They stayed like that for a while, and the house did the things a house does at half past eleven.
+
+---
+
+Somewhere below them a door was shut carefully by somebody who did not want to be heard shutting it. A car went past on the road, and then, after a long time, another one.
+
+---
+
+She did not ask him anything.
+
+---
+
+That is the part he could not have described to anybody afterward, and did not write down, and has thought about since. A woman who asks four questions a minute for eleven hours a day sat in her own room for the better part of an hour and asked him nothing at all.
+
+* * *
+
+"May I ask you for something?"
+
+---
+
+Annie's hand stopped.
+
+---
+
+"You have asked me for two things in ten months," she said. "One of them was a piece of paper and one of them was for me to buy a man's whole company. Ask."
+
+---
+
+Georgij looked at the wall opposite rather than at her.
+
+---
+
+"Come down here."
+
+---
+
+Nothing happened for about three seconds.
+
+---
+
+"Say why."
+
+---
+
+"Because I have been on a floor in this house twice and both times it was a calculation." He had one hand flat on the carpet and left it there. "And I would like to have been on one once when it was not."
+
+---
+
+He heard her put the book on the arm of the sofa.
+
+---
+
+Then she came down onto the floor beside him, without any of the noise a person makes doing that. She sat with her back against the same sofa and her shoulder against his arm, and did not say a single word about it.
+
+* * *
+
+After a while she reached over and put two fingers under the collar, at the side, where the skin is.
+
+---
+
+She has never done that.
+
+---
+
+She has had her hand on it in a car in November. She had her hand flat against his throat over it in March and told him what it was for. She has never once put anything underneath it.
+
+---
+
+It is warm, because it has been on him since the second house.
+
+---
+
+"Does that hurt," she said.
+
+---
+
+"No."
+
+---
+
+"Say the true answer rather than the fast one."
+
+---
+
+Georgij closed his eyes.
+
+---
+
+"It has not hurt since the third house," he said. "It is warm. That is all it is. It is the only part of me that is always the same temperature and I have not thought about that in about nine years."
+
+---
+
+Her fingers stayed exactly where they were.
+
+---
+
+"I am not taking it off tonight," said Annie.
+
+---
+
+"I know. I did not ask."
+
+---
+
+"No. I am saying it because you are going to lie awake wondering whether I was about to, and you should have the answer now and sleep." She did not move her hand. "It comes off on a day we have both decided about, in daylight, with nobody else in the house, and not at midnight on a floor because a man came up the stairs with nothing in his hands."
+
+---
+
+"Yes, Mistress."
+
+---
+
+"And not tonight is not the same as not."
+
+---
+
+Neither of them said anything after that for a long time.
+
+* * *
+
+He went to his own room at about one, because she did not tell him not to and because he did not ask, and both of those were choices and both of them knew it.
+
+---
+
+At the door he stopped, and she was already looking at him.
+
+---
+
+"You did not tell me what you found tonight," she said.
+
+---
+
+"No."
+
+---
+
+"Good. It will still be there in the morning and so will I."
+
+---
+
+He wrote nothing at all in the notebook that night.
+
+---
+
+The first page has an entry for every single day since the eleventh of March, and there is a gap on the fourth of June, and he has never explained it and is not going to.
+
+* * *
+
+## Day Two Hundred and Forty-Five · Friday 5 June
 
 Sang-hoon telephoned at ten past nine, which he has never done before in eight months, because Sang-hoon does not telephone.
 
-* * *
+---
 
 "You are not at your desk," said Georgij.
 
@@ -13,253 +275,253 @@ Sang-hoon telephoned at ten past nine, which he has never done before in eight m
 
 "You did not."
 
-* * *
+---
 
 "I have had nine days of thinking about a sentence I said to you in a shed," said Sang-hoon, "and I would like to know whether it has produced anything." He did not pause for an answer. "I am asking on the telephone because I am not going to be in a room with you again until Tuesday, and I do not enjoy waiting."
 
-* * *
+---
 
 Georgij stood in the corridor with the receiver against his ear and did the arithmetic he had already done twice that morning.
 
-* * *
+---
 
 He can say that he has movement. He cannot say what it is.
 
 Sang-hoon already has the name. Saying it again on an open line, next to flowers and a street in Hyoja-dong, would put a shape around a woman who has no idea what she gave him. He cannot let that sentence, said whole, arrive on a telephone a day before Annie is ready for it to.
 
-* * *
+---
 
 "There is movement," said Georgij.
 
-* * *
+---
 
 "Say the shape of it."
 
-* * *
+---
 
 "I cannot yet. Not because I am protecting you from it and not because I am protecting myself. There is a third party in it who has not been told anything is happening, and if word of this reaches the wrong table before she is somewhere safe, it goes badly for her specifically."
 
-* * *
+---
 
 The line was quiet for a moment.
 
-* * *
+---
 
 "A woman."
 
 "Yes."
 
-* * *
+---
 
 "Is she one of the four."
 
-* * *
+---
 
 "No," said Georgij. "She is somebody who could get hurt because of how close she has stood to this without knowing it, and I am not going to spend her safety to satisfy your Tuesday."
 
-* * *
+---
 
 Sang-hoon made a sound that was almost a laugh and was not one.
 
-* * *
+---
 
 "That is the first time in eight months you have told me no on the telephone," he said. "You have always found a way to make it sound like yes with conditions."
 
-* * *
+---
 
 "This is yes with conditions. The condition is four days, and it started yesterday, and I am not going to move it because you rang."
 
-* * *
+---
 
 "Whose four days."
 
-* * *
+---
 
 Georgij stood with the receiver against his ear and did not answer straight away, because the true version of the answer would tell Sang-hoon exactly what he was not supposed to be told.
 
-* * *
+---
 
 "Not entirely mine," said Georgij. "I am not going to say more than that on a telephone, and I would rather you thought worse of me for saying too little than better of me for anything else."
 
-* * *
+---
 
 Sang-hoon did not answer straight away.
 
-* * *
+---
 
 "That is a very expensive way to talk to a man who has just given you a name for nothing," he said.
 
-* * *
+---
 
 "I know exactly how expensive it is. That is why I am doing it this way and not the other one."
 
-* * *
+---
 
 The car noise on the line changed, which meant Sang-hoon had turned a corner or a page.
 
-* * *
+---
 
 "Four days," he said. "Tuesday, then. Not before."
 
 "Not before."
 
-* * *
+---
 
 "And if it is what I think it is."
 
-* * *
+---
 
 Georgij stood with his back against the wall.
 
-* * *
+---
 
 "If it is what you think it is," he said, "you are going to have to decide something about eight years of your own life, and I am not going to be the one who chooses when you do that either. That is the other reason for the four days, and it is not the smaller one."
 
-* * *
+---
 
 There was a long silence that was not the car.
 
-* * *
+---
 
 "You are a strange thing to have working for somebody else's house," said Sang-hoon, "and I mean that as the compliment it very nearly is." The line clicked once. "Tuesday."
 
-* * *
+---
 
 He rang off without saying anything further, which is not a thing he does, and Georgij stood in the corridor with the receiver still warm in his hand.
 
-* * *
+---
 
 Mrs Seo passed with a tray and did not stop.
 
-———
+* * *
 
 Georgij went and found Annie in the room off the library, where she keeps the papers that are not in the desk that locks, and told her all of it, in order.
 
-* * *
+---
 
 She listened without writing anything down.
 
-* * *
+---
 
 "He asked whose four days they were."
 
 "Yes."
 
-* * *
+---
 
 "And you told him the truth before you had decided what it was."
 
 "Yes. I said not entirely mine, because that was the only true thing available in the time I had, and I have not worked out since whether it was also the whole truth."
 
-* * *
+---
 
 Annie looked at him for a moment the way she had looked at the notebook on Wednesday, which is to say properly.
 
-* * *
+---
 
 "Most people would have said mine, and let it stand, because it is shorter and nobody could have proved otherwise."
 
 "Most people are not measured against a rule where the whole point is that it does not bend for convenience."
 
-* * *
+---
 
 "And what did it cost you to answer it honestly instead."
 
-* * *
+---
 
 "A question I do not have an answer to yet, about whose four days they actually are," said Georgij, "and I would like to know that myself before Tuesday."
 
-* * *
+---
 
 Annie set the papers down.
 
-* * *
+---
 
 "They are mine," she said, "in the sense that I am the one who can afford to spend them and you cannot. They are yours in the sense that you are the one who will have to live in whatever room comes after Tuesday. I do not think that divides as cleanly as either of us would like it to."
 
-* * *
+---
 
 "No," said Georgij. "I do not think it does either."
 
-* * *
+---
 
 She went back to the papers, and he stood there a moment longer than the conversation required.
 
 For the length of one telephone call that morning he had been, without deciding to be, exactly as careful with the truth as the book he keeps in his own head says a man is allowed to be. It had not felt like a technicality even once.
 
-* * *
+---
 
 He wrote nothing about it in the notebook. Some things, he has learned this year, are worth more left where they happened.
 
-———
+* * *
 
 Jang found him in the garage corridor an hour later, in the coat he wears when he means to be outdoors and has been told not to go.
 
-* * *
+---
 
 "I have not been to the second address," he said. "I want that said out loud once, by me, so that if it matters later it is on record who said it and when."
 
-* * *
+---
 
 "It is on record. I heard you say it."
 
-* * *
+---
 
 Jang stood with his hands in his coat pockets and did not take them out.
 
-* * *
+---
 
 "I had a route worked out by Wednesday afternoon," he said. "A tradesman's approach, a reason to be on that street that would not survive a second look but would survive a first one, which is all it needed to. I have not used it and I am not going to, and I would like to know how long that is going to sit unused, because a plan that waits too long stops being current."
 
-* * *
+---
 
 "Four days from Wednesday. Tuesday."
 
-* * *
+---
 
 "That is not an answer to my question."
 
-* * *
+---
 
 Georgij looked at him properly.
 
-* * *
+---
 
 "No," he said, "it is not, and I do not have a better one, because I do not know myself what Tuesday actually produces. I know what it is supposed to produce. I do not know that it will."
 
-* * *
+---
 
 Jang took that the way a man takes an answer he has had to give himself more than once in his own career.
 
-* * *
+---
 
 "Eight families," he said. "I have waited on worse instructions than this one for worse reasons, and I have never once been told why by the person giving them, and I have got used to that being how it works. I am not asking you to change that."
 
-* * *
+---
 
 "Then what are you asking."
 
-* * *
+---
 
 "I am asking whether the person you got it from is the sort who wastes four days, or the sort who spends them." Jang finally took his hands out of his pockets. "Because I have worked for both, and they look identical from where I am standing, and it has cost me a great deal over the years to find out which one I had after the fact instead of before."
 
-* * *
+---
 
 Georgij thought about that for a moment before he answered, because it deserved one and not a reflex.
 
-* * *
+---
 
 "She spends them," he said. "I have watched her do it since October and I have never once seen the four days come back empty. I am not saying that to be loyal. I am saying it because it is the truest thing I have got to give you in place of a reason."
 
-* * *
+---
 
 Jang nodded once, the way he does when a figure has been confirmed rather than offered.
 
-* * *
+---
 
 "Good," he said. "I did not need the reason. I needed to know whether the wait was being run by somebody who knows what waiting is for."
 
-* * *
+---
 
 He went back up the corridor toward the house.
 
@@ -269,63 +531,63 @@ Whose four days are they.
 
 He still did not have an answer that was his alone, and for the first time all day he found that he did not mind not having one.
 
-* * *
+---
 
 Annie found him there twenty minutes later, on her way to the car, with a folder under one arm that had not been in her hand that morning.
 
-* * *
+---
 
 "You are still out here."
 
 "Jang asked me a question I have been sitting with."
 
-* * *
+---
 
 "Say it."
 
-* * *
+---
 
 "Whether the person running the four days wastes them or spends them," said Georgij. "I told him you spend them. I would like to know if that was true or if I said it because it was the answer he needed."
 
-* * *
+---
 
 Annie stood in the doorway of the garage with the evening coming down orange behind her.
 
-* * *
+---
 
 "Ask me something you do not already know the answer to," she said, "and I will tell you whether I am wasting anything."
 
-* * *
+---
 
 "What is in the folder."
 
-* * *
+---
 
 "The first of the three things," said Annie. "Who else has sat at that man's table. I have eleven names by this evening and I expect to have thirty by Sunday, and not one of them knows I am asking, which is the part that took the longest."
 
-* * *
+---
 
 Georgij looked at the folder and did not ask to see it.
 
-* * *
+---
 
 "That answers Jang's question," he said.
 
 "It was never really his question. It was yours, and you gave it to him because it was easier to ask on somebody else's behalf."
 
-* * *
+---
 
 He did not deny it.
 
-* * *
+---
 
 "Go and eat something," said Annie. "You have been running on coffee since one o'clock this morning." She looked at him a moment longer. "It is starting to show in how carefully you are choosing your words, which is a thing I only notice in you when you are tired enough to need to."
 
-* * *
+---
 
 "Yes, Mistress."
 
-* * *
+---
 
 She almost smiled at that, the way she had on Wednesday, and went to the car without saying anything else.
 
