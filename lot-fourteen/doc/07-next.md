@@ -1328,3 +1328,22 @@ Textfehler, sie brauchen eine Szene oder eine Streichung:
 (Kapitel 35). Georgij fragt Annie, nachdem sie ihn ausdruecklich dazu eingeladen
 hat; sie koennte trotzdem nein sagen. `check.py` meldet die Stelle als
 Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
+
+---
+
+## Aus dem gruendlichen Durchgang vom 24.08.
+
+- **Das Lächeln fehlt in Band 2 vollstaendig.** Einzelheiten in
+  `doc/05-continuity.md` unter "Die Lächeln". Entweder es wird dort als Bogen
+  festgeschrieben und die offenen Sorten werden geschlossen, oder eine davon
+  gehoert in eines der naechsten Kapitel.
+- **Der Haushalt ist in Band 2 fast weg.** Ji-won, Eun-ju, Mrs Ahn und Mr Im
+  kommen in null Kapiteln vor, Yun in einem, Mr Yeo in drei. Dieselbe
+  Ausduennung, die hier fuer Band 1 ab Kapitel 13 schon steht.
+- **Die zweite Blumenadresse und das Heim bei Wonju sind nicht foermlich
+  dasselbe.** Kapitel 36 sagt es ausdruecklich: *"I have not confirmed that
+  yet."* Kapitel 44 sucht die Brandschutzmeldung dann an der Adresse, die Jang
+  beobachtet, und findet sie **im selben Juli wie den Arztbesuch**. Das waere die
+  Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
+  Satz von Annie oder im Erzaehltext schliesst die Luecke.
+- **doc/06-plot.md endet mit Band 1.**

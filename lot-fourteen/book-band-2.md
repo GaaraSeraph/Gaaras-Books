@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 102.898 Woerter.
+Book Two, 46 Kapitel, 102.897 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -12,7 +12,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | Kap | Fassung | Woerter |
 |---|---|---|
 | 01 | v1.5 | 2.286 |
-| 02 | v1.2 | 2.059 |
+| 02 | v1.3 | 2.058 |
 | 03 | v1.1 | 2.017 |
 | 04 | v1.4 | 2.702 |
 | 05 | v1.5 | 2.848 |
@@ -47,7 +47,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 34 | v1.2 | 2.261 |
 | 35 | v1.2 | 2.050 |
 | 36 | v1.3 | 2.075 |
-| 37 | v1.2 | 2.028 |
+| 37 | v1.3 | 2.028 |
 | 38 | v1.2 | 2.014 |
 | 39 | v1.3 | 2.101 |
 | 40 | v1.1 | 2.002 |
@@ -290,13 +290,13 @@ It was the first evening on which only the first half of that was true.
 ---
 
 # Book Two · Chapter 2: The order of loading
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Fifty-Two · Wednesday 4 March
 
 Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for.
 
-The two drivers used to go week and week about. That stopped in March, without anybody saying so: Mr Pyo has her, and Mr Ku has him.
+The two drivers used to go week and week about. That has stopped, without anybody saying so: Mr Pyo has her, and Mr Ku has him.
 
 The yard was off a road with three yards on it and the other two were bigger. Room for eight and four trucks in it. One of the four had its bonnet up, and there was rain standing in the engine bay, so it had been up since the weekend and nobody had put anything over it.
 
@@ -7497,7 +7497,7 @@ Georgij wrote one line in the notebook before the car pulled away.
 ---
 
 # Book Two · Chapter 37: A piece of paper somewhere in the world
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Fifty-Five · Monday 15 June
 
@@ -7613,7 +7613,7 @@ He took the thin folder down to the small room and spread out what little there 
 
 It was the same desk he had sat against, on the floor, on the night he had told Annie everything and then fallen asleep before she had finished reading it.
 
-Eight years of dinners. No guest list survives any of them, because a man who gives dinners in his own house does not need caterers who keep one. What survives instead is Sang-hoon's own calendar, which Georgij had copied by hand in the week after the launch and never gone back to, four entries marked only with a single letter and a time.
+Eight years of dinners. No guest list survives any of them, because a man who gives dinners in his own house does not need caterers who keep one. What survives instead is Sang-hoon's own calendar, which Georgij had copied by hand in the first week of June and never gone back to, four entries marked only with a single letter and a time.
 
 He read the four letters again, this time with the flower slips and the Byun ledger fresh enough in his head to see them differently.
 

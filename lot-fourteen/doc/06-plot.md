@@ -453,3 +453,13 @@ Rohmaterial Szene 12. Sie setzt sich neben ihn auf den Beton.
 Dass sie in der Schublade liegt, ist inzwischen über Kapitel 11 halb gesetzt. Wenn Block F die Bestätigung liefert, ist das Ablegen auf dem Beton der dritte Auftritt desselben Gegenstands und der einzige, bei dem sie ihn aus der Hand gibt.
 
 ---
+
+---
+
+## Band 2 steht hier nicht, Stand 24.08.
+
+Dieses Dokument endet mit Block I und Kapitel 24 von Band 1. Band 2 hat
+fuenfundvierzig Kapitel und keinen einzigen Eintrag hier. Das ist kein Fehler -
+`CLAUDE.md` sagt, dieses Dokument sei kein Kanon -, aber wer nach dem Stoff von
+Band 2 sucht, findet ihn nur in `doc/07-next.md` und in der Kapitelliste von
+`doc/05-continuity.md`, und beide sind dafuer nicht gebaut.

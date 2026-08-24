@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 9 Dokumente am Stueck plus das Begegnungsregister. 153.411 Woerter.
+Alle 9 Dokumente am Stueck plus das Begegnungsregister. 154.200 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2871,7 +2871,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
 
-- **Band 2, Kapitel 2** *The order of loading* (v1.2) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
+- **Band 2, Kapitel 2** *The order of loading* (v1.3) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
 
   **Die Regel dahinter ist `doc/01-craft.md` 2h.** Er laeuft nicht mit stumpfem Werkzeug hinein und scheitert. Er steht drei Sekunden in dem Hof und **legt alle vier Eroeffnungen ab**, bevor er den Mund aufmacht. Drei sind fuer Raeume, in denen der andere noch entscheidet, was Georgij ist; Shin entscheidet gar nichts, er hat vier Lastwagen und seit fuenf Wochen keine Ladung. Die vierte ist die Frage nach dem, vor dem man sich hueten soll, und die gehoert einem Neuling.
 
@@ -3975,7 +3975,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.2) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.3) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -4061,11 +4061,24 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
 
-  **Jang bestaetigt es von aussen, ohne dass Georgij ihm sagt, was er sucht:** ein grauer Lieferwagen einer Gasfirma, seit drei Wochen beobachtet, ausschliesslich an dieser Adresse, **ohne festen Rhythmus** - Jangs eigene Deutung: bestellt, wenn ein Tank zur Neige geht, nicht auf Route. **Zwei Dokumente, die einander nie kannten, stimmen ueberein.**
+  **Jang bestaetigt es von aussen, ohne dass Georgij ihm sagt, was er sucht:** ein grauer Lieferwagen einer Gasfirma, seit einunddreissig Tagen beobachtet, ausschliesslich an dieser Adresse, **ohne festen Rhythmus** - Jangs eigene Deutung: bestellt, wenn ein Tank zur Neige geht, nicht auf Route. **Zwei Dokumente, die einander nie kannten, stimmen ueberein.**
 
   **Annie bremst die Schlussfolgerung, bevor Georgij sie zu weit treibt:** die Ausruestung beweise, dass etwas geschah, nicht fuer wen. *"You have built a true thing out of two facts before, and you have also built a wrong one, and the difference between them was never how confident you felt while you were doing it."* Sie stimmt aber der zweiten Lesart zu, die Jangs Detail liefert - **jemand beobachtet den Tank taeglich genug, um den Anruf rechtzeitig zu machen, und das ist keine Einrichtung, die einen Dienstplan fuehrt, sondern eine Person, die sich kuemmert.**
 
   **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
+
+- **Band 2, Kapitel 45** *The line above it* (v1.0) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
+
+  **Zwei Tage an K ergeben nichts**, und der Fund kommt nicht von draussen, sondern aus seiner eigenen Abschrift. Er hat Sang-hoons Kalender in der ersten Juniwoche kopiert und dabei vier Zeilen herausgenommen und alles stehen lassen, wonebem sie standen. *"K has no date because I did not copy one, which is not the same as there having been none."* Drei Tage vorher hat er Jangs Lieferwagen ausdruecklich in der Reihenfolge notiert, in der Jang ihn bemerkt hat, mit der Begruendung dazu - und die eigene Liste nie umgedreht.
+
+  **Sang-hoon gibt die Seiten heraus, nicht das Buch.** Ein Mann im grauen Anzug wartet fuenf Stunden in der Halle und weiss nicht, was er traegt. Sang-hoons eigener Befund dazu: *"That book has been on my own desk for eight years ... and I have never once read what was above them either."*
+
+  **K ist datiert: der 24., 25. oder 26. Februar, vier Jahre zurueck.** S steht auf dem 20. Maerz. Damit liegen zwischen K und S **zweiundzwanzig bis vierundzwanzig Tage** und nicht drei Jahre. Die drei Tage bleiben drei, bis etwas anderes sie schliesst.
+
+  **Und K war kein Abendessen.** Es war Sang-hoons eigenes Buero, zwanzig Minuten im Stehen, der Mantel blieb an, und Choi kam zu ihm - was er nie zuvor getan hat. *Late* war nie eine Uhrzeit am Abend, sondern spaet am Tag. Die Frage lautete, ob Sang-hoon zur Fruehjahrsauktion am Fluss gehe, und die Antwort war nein.
+
+  **Annies Lesart, und sie dreht den ganzen Strang:** Choi wollte die Antwort nicht, er wollte wissen, **ob** er eine bekommt. *"K is the measurement. The three you have been calling decisions came afterward, and they came afterward because that one went well."* Der kleinste der vier ist der einzige, bei dem es um Sang-hoon selbst ging.
+
 
 ---
 
@@ -4141,6 +4154,19 @@ einen Zweck, kein Gefühl. Wärmegrade lassen sich beliebig vermehren und ergebe
 eine Liste; Aufgaben nicht. Wer eine neue Art erfindet, sieht vorher hier nach.
 
 Jeder Eintrag hat eine Fundstelle oder ist als **offen** markiert.
+
+**Und der Befund vom 24.08., der den ganzen Katalog betrifft: in Band 2 laechelt
+Georgij nicht ein einziges Mal.** Fuenfundvierzig Kapitel, achtundneunzigtausend
+Woerter, fuenf Monate. Die fuenf Treffer im Text gehoeren anderen: Mrs Sunwoo in
+Kapitel 10, Sang-hoon in 26, 36 und 43, Annie in 35 - und drei davon sind
+*almost*. Sein Hauptwerkzeug, fuer das dieser Katalog angelegt wurde und dessen
+offene Sorten in `doc/07-next.md` gefuehrt werden, kommt in Band 2 nicht vor.
+
+Das kann die Kurve sein, die auch die Kontraktionen und die Fragezeichen nehmen -
+je weniger Boden er unter sich hat, desto weniger fuehrt er auf. Dann gehoert es
+hier hingeschrieben, und die offenen Sorten gehoeren geschlossen statt gefuehrt.
+Es kann auch sein, dass es niemandem aufgefallen ist. **Entschieden hat es
+niemand.**
 
 #### I. Die Fassade - getragen, nicht gezielt
 
@@ -4638,6 +4664,20 @@ wurde geaendert und die abgeleitete Zahl blieb stehen.
 
 ## Korrigiert am 24.08., Kanon ab jetzt
 
+**Die zwei stehenden check.py-Fehler sind geprueft und bleiben.** Beide melden
+eine Zahl-Konstante mit einem anderen Subjekt, und das Skript kann das nicht
+sehen:
+
+- **Band 1, Kapitel 6, Zeile 40:** *"Male, twenty-two, two languages."* Das ist
+  ein anderes Los im Katalog. Georgij hat vier Sprachen; hier steht ein anderer
+  Mann auf der Buehne.
+- **Band 1, Kapitel 12, Zeilen 28 und 56:** *"Jang came up from the security
+  office at nine with two sheets of paper."* Das sind Jangs zwei Blaetter und
+  nicht der Bericht, der acht, neun oder neunzehn Seiten hat.
+
+Sie sind in der Basislinie verbucht und erzeugen keine neue Verschuldung. **Wer
+sie im Lauf sieht, hat nichts gefunden.**
+
 Drei Durchgaenge ueber Band 2: Zahlen und Zeitachse, Wissens- und Zusagenkette,
 Punkt oder Fragezeichen. Die Begruendungen stehen in `doc/08-decisions.md`, was
 offen blieb in `doc/07-next.md`. Die Zahlen und Tatsachen, die ab jetzt gelten:
@@ -5126,6 +5166,16 @@ Rohmaterial Szene 12. Sie setzt sich neben ihn auf den Beton.
 Dass sie in der Schublade liegt, ist inzwischen über Kapitel 11 halb gesetzt. Wenn Block F die Bestätigung liefert, ist das Ablegen auf dem Beton der dritte Auftritt desselben Gegenstands und der einzige, bei dem sie ihn aus der Hand gibt.
 
 ---
+
+---
+
+## Band 2 steht hier nicht, Stand 24.08.
+
+Dieses Dokument endet mit Block I und Kapitel 24 von Band 1. Band 2 hat
+fuenfundvierzig Kapitel und keinen einzigen Eintrag hier. Das ist kein Fehler -
+`CLAUDE.md` sagt, dieses Dokument sei kein Kanon -, aber wer nach dem Stoff von
+Band 2 sucht, findet ihn nur in `doc/07-next.md` und in der Kapitelliste von
+`doc/05-continuity.md`, und beide sind dafuer nicht gebaut.
 
 ---
 
@@ -6459,6 +6509,25 @@ Textfehler, sie brauchen eine Szene oder eine Streichung:
 (Kapitel 35). Georgij fragt Annie, nachdem sie ihn ausdruecklich dazu eingeladen
 hat; sie koennte trotzdem nein sagen. `check.py` meldet die Stelle als
 Verdachtsfall. Entscheidung gehoert dem Text, nicht dem Skript.
+
+---
+
+## Aus dem gruendlichen Durchgang vom 24.08.
+
+- **Das Lächeln fehlt in Band 2 vollstaendig.** Einzelheiten in
+  `doc/05-continuity.md` unter "Die Lächeln". Entweder es wird dort als Bogen
+  festgeschrieben und die offenen Sorten werden geschlossen, oder eine davon
+  gehoert in eines der naechsten Kapitel.
+- **Der Haushalt ist in Band 2 fast weg.** Ji-won, Eun-ju, Mrs Ahn und Mr Im
+  kommen in null Kapiteln vor, Yun in einem, Mr Yeo in drei. Dieselbe
+  Ausduennung, die hier fuer Band 1 ab Kapitel 13 schon steht.
+- **Die zweite Blumenadresse und das Heim bei Wonju sind nicht foermlich
+  dasselbe.** Kapitel 36 sagt es ausdruecklich: *"I have not confirmed that
+  yet."* Kapitel 44 sucht die Brandschutzmeldung dann an der Adresse, die Jang
+  beobachtet, und findet sie **im selben Juli wie den Arztbesuch**. Das waere die
+  Bestaetigung - sie liegt auf der Seite und wird von niemandem aufgehoben. Ein
+  Satz von Annie oder im Erzaehltext schliesst die Luecke.
+- **doc/06-plot.md endet mit Band 1.**
 
 ---
 
@@ -10243,7 +10312,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
 | - | b1ch32:254 | Mr Ku had the car turned round already. |
 | 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
 | 53 | b2ch02:126 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
 | 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 | 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
@@ -10564,7 +10633,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b1ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
 | 74 | b1ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
 | 74 | b1ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
-| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 

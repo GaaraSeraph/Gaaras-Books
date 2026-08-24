@@ -2688,7 +2688,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
 | - | b1ch32:254 | Mr Ku had the car turned round already. |
 | 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
 | 53 | b2ch02:126 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
 | 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
 | 5 | b2ch06:192 | Mr Ku had the car on the far side of the street and did not ask. |
@@ -3009,7 +3009,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b1ch28:244 | Mr Pyo took it out at eleven and was back by one, and Georgij did not ask him anything a.. |
 | 74 | b1ch29:16 | Mr Pyo had him at the gate at six, which was his week. |
 | 74 | b1ch31:56 | Mr Pyo had the car at the bottom of the drive at ten past eleven, and did not ask, and g.. |
-| 53 | b2ch02:10 | The two drivers used to go week and week about. That stopped in March, without anybody s.. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
 
 ### Zahlen in der Naehe von Mr Pyo
 

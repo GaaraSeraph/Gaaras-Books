@@ -1,5 +1,5 @@
 # Chapter 37: A piece of paper somewhere in the world
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Fifty-Five · Monday 15 June
 
@@ -203,7 +203,7 @@ He took the thin folder down to the small room and spread out what little there 
 
 It was the same desk he had sat against, on the floor, on the night he had told Annie everything and then fallen asleep before she had finished reading it.
 
-Eight years of dinners. No guest list survives any of them, because a man who gives dinners in his own house does not need caterers who keep one. What survives instead is Sang-hoon's own calendar, which Georgij had copied by hand in the week after the launch and never gone back to, four entries marked only with a single letter and a time.
+Eight years of dinners. No guest list survives any of them, because a man who gives dinners in his own house does not need caterers who keep one. What survives instead is Sang-hoon's own calendar, which Georgij had copied by hand in the first week of June and never gone back to, four entries marked only with a single letter and a time.
 
 ---
 
