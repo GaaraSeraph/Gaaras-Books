@@ -181,7 +181,38 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    (`chapters/ch08_v3_5_en.md`, *"...Yes."*), der einzige typografische
    Apostroph (`ch14`, *o'clock*) und das einzige Semikolon (`ch27`).
 
-10. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
+10. **Der Takt-Trenner ist keine Marke mehr.** Gezaehlt am 24.08. ueber den
+    ganzen Kanon:
+
+    | | Absaetze je Kapitel | Takt-Trenner je Kapitel | ein Trenner je |
+    |---|---|---|---|
+    | Band 1 | 143 | 16 | **8,5 Absaetze** |
+    | Band 2, Kapitel 1 bis 34 | 101 | 53 | **1,9 Absaetze** |
+    | Band 2, Kapitel 35 bis 56 | 100 | 90 | **1,1 Absaetze** |
+
+    In Kapitel 50, 52 und 53 stehen 92 Trenner auf 94 Absaetze. **Ein Zeichen,
+    das zwischen fast allem steht, unterscheidet nichts mehr.**
+
+    **Und es ist nicht nur die Quelle.** `build.py` macht aus jedem `---` in der
+    Einfuegefassung ein `* * *`. In `paste/band-2/ch52` steht damit ein
+    Szenentrenner zwischen jeder einzelnen Replik - und die Einfuegefassung ist
+    die, die auf die Plattform geht. Die HTML-Lesefassung desselben Kapitels hat
+    zweiundneunzig `<hr>`.
+
+    **Warum das hier steht und nicht schon gemacht ist:** Eine mechanische Regel
+    reicht nicht. Der naechstliegende Griff - jeden Trenner zwischen zwei
+    Repliken loeschen - nimmt 730 Stueck weg und laesst immer noch einen je 1,8
+    Absaetze stehen. Auf Band-1-Dichte kaeme man nur, indem man rund
+    fuenfzehnhundert Trenner einzeln beurteilt, und das ist die Seitengestalt von
+    vierzig Prozent des Buchs. **Das ist eine Entscheidung des Autors und keine
+    Reparatur.**
+
+    Die drei moeglichen Antworten: (a) so lassen und die Ungleichheit zwischen
+    den Baenden hinnehmen, (b) eine Zieldichte festlegen und den Bestand darauf
+    bringen, (c) nur die Regel fuer neue Kapitel festschreiben und den Altbestand
+    stehen lassen.
+
+11. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
     Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
     sondern zwei Mitglieder einer Familie: **ein eigener Satz, dessen einzige
     Aufgabe es ist, den Ton der eben gesprochenen Replik zu etikettieren.**

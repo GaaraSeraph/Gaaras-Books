@@ -1797,7 +1797,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.5) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.6) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -1811,7 +1811,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v2.0) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v2.1) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -1874,7 +1874,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss gehoert Jang, nicht Georgij:** *"The light was on when I left this morning. She was awake before six."* Kein Kommentar, keine Deutung - nur die eine Tatsache, die ohne Vermutung auskommt.
 
-- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v2.1) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
+- **Band 2, Kapitel 41** *The travelling cost more than the seeing* (v2.3) - **Tag 263, Di 23. Juni. Das kleine Zimmer, ein ganzer Tag am Schreibtisch.**
 
   **Der Arzt-Faden aus Kapitel 30/32, endlich aufgenommen - und ganz ohne eine einzige Tuer.** Georgij nutzt das erzwungene Stillhalten fuer genau die Ermittlung, die keine Adresse braucht: Hausbesuch-Praxen sind oeffentlich lizenziert, und eine Rechnung, deren Anfahrt dreimal so teuer war wie der Termin selbst, ist keine Stadtrechnung.
 
@@ -1888,7 +1888,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *Four owners deep* (v2.0) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *Four owners deep* (v2.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -2490,7 +2490,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
 
-- **Band 2, Kapitel 47** *Twelve white stems* (v1.0) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
+- **Band 2, Kapitel 47** *Twelve white stems* (v1.1) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
@@ -2498,37 +2498,37 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 49** *What he asked her* (v1.0) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
+- **Band 2, Kapitel 49** *What he asked her* (v1.1) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.0) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.1) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 51** *The sixth one* (v1.0) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
+- **Band 2, Kapitel 51** *The sixth one* (v1.1) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.0) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.1) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 53** *The one I did not say in May* (v1.0) - **Tag 305, Di 4. August. "I am the February one."**
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.1) - **Tag 305, Di 4. August. "I am the February one."**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 54** *Clause eleven* (v1.0) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+- **Band 2, Kapitel 54** *Clause eleven* (v1.1) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 55** *Consigned by* (v1.1) - **Tag 313, Mi 12. August. Der Auskunftsstand ist nicht leer. Hand im Haar, das erste Mal seit dem 4. Juni.**
+- **Band 2, Kapitel 55** *Consigned by* (v1.2) - **Tag 313, Mi 12. August. Der Auskunftsstand ist nicht leer. Hand im Haar, das erste Mal seit dem 4. Juni.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.0) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.1) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
 
 - **Band 2, Kapitel 57** *Nobody paid* (v1.0) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
