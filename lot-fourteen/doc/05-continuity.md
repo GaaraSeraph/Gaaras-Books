@@ -271,6 +271,13 @@ nachrechnen, und `check.py` tut das automatisch.
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
   aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 37)
+- Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
+  zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
+  bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
+  Anrufer-Tics, kann also nicht gleichzeitig der Anrufer bei Sang-hoons
+  Kartenabend gewesen sein. **Ein geteilter Anfangsbuchstabe ist kein Hinweis,
+  nur der Schatten von einem.** Yeom bleibt vorlaeufig entlastet, die
+  Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 38)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -1760,6 +1767,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann schickt Annie ihn weg von genau diesem Thema** - *"Go and do something today that is not this"* - und er nutzt den freien Vormittag fuer die andere liegen gebliebene Schuld: **Sang-hoons vier Entscheidungen**, seit dem Regentag in Kapitel 36 nicht mehr angefasst. Vier Initialen aus Sang-hoons eigenem Kalender - S, H, K, Y - mit Uhrzeiten und Stimmungen statt Namen, und die Einsicht, dass ein Buchstabe kein Hinweis ist, sondern nur der Schatten von einem.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
+
+- **Band 2, Kapitel 38** *The one with two parts* (v1.0) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+
+  **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
+
+  **Sang-hoon nennt einen Namen, bevor Georgij fragen muss: Yeom.** Derselbe Mann, der in Kapitel 25 den anonymen Anruf bekam - *"glad we had met"*, an einen Fremden gerichtet. **Und Georgij faengt den Fehler in Echtzeit ab, bevor er ihn Sang-hoon als fertige Antwort gibt:** Yeom steht am Ende dieses Satzes, nicht am Anfang. Wer angerufen wurde, kann nicht im selben Atemzug der Anrufer bei Sang-hoons Kartenabend sein, ohne dass das Buch das ausdruecklich behauptet - und das behauptet es nicht.
+
+  **Die Regel, die er sich selbst vorspricht, ist die aus Kapitel 37, jetzt gegen die eigene Zuneigung gewendet:** *"A shared initial is not a lead. It is the shadow of one."* Sang-hoon haelt dagegen - vielleicht hat der Anruf vor vier Jahren aus einem Opfer einen Mitwisser gemacht -, und Georgij laesst die Moeglichkeit stehen, ohne sie zu entscheiden.
+
+  **Im Garten gibt Annie dem Nachmittag seine schaerfste Wendung:** nicht die Logik ist das Risiko, sondern dass er Yeom mag. *"Liking a man does not clear him. It only makes it more expensive if he is not clear."* **Erstmals seit Bandbeginn benennt der Text, dass Georgij jemanden in diesem Geschaeft gemocht hat und nicht nur respektiert** - eine Unterscheidung, die er selbst zieht und die ihn ueberrascht.
+
+  **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
 ---
 

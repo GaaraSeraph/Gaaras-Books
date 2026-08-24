@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 140.240 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 141.137 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -120,8 +120,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
-  - [Hana](#hana)
   - [Park Sang-hoon](#park-sang-hoon)
+  - [Hana](#hana)
   - [Chairman Woo](#chairman-woo)
   - [Jang](#jang)
   - [Mrs Seo](#mrs-seo)
@@ -2388,6 +2388,13 @@ nachrechnen, und `check.py` tut das automatisch.
   existieren, nicht gelesen werden. **Nebenbei: er nimmt sich zum ersten Mal
   seit dem Regentag Sang-hoons vier Entscheidungen wieder vor** - vier Initialen
   aus Sang-hoons eigenem Kalender, noch keine Namen (Band 2, Kapitel 37)
+- Tag 257, Mi 17. Juni: **Annie waehlt "Y", die juengste der vier Initialen,
+  zuerst.** Sang-hoon nennt Yeom - und Georgij faengt den eigenen Fehler ab,
+  bevor er ihn ausspricht: Yeom war laut Kapitel 25 selbst Empfaenger des
+  Anrufer-Tics, kann also nicht gleichzeitig der Anrufer bei Sang-hoons
+  Kartenabend gewesen sein. **Ein geteilter Anfangsbuchstabe ist kein Hinweis,
+  nur der Schatten von einem.** Yeom bleibt vorlaeufig entlastet, die
+  Restaurant-Buchpruefung steht noch aus (Band 2, Kapitel 38)
 
 **Das Jahr bleibt ungenannt, aber `check.py` rechnet mit dem 4. Oktober 2025.**
 Der Februar hat damit achtundzwanzig Tage, und daraus folgen Tag 145 fuer den
@@ -3877,6 +3884,18 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und dann schickt Annie ihn weg von genau diesem Thema** - *"Go and do something today that is not this"* - und er nutzt den freien Vormittag fuer die andere liegen gebliebene Schuld: **Sang-hoons vier Entscheidungen**, seit dem Regentag in Kapitel 36 nicht mehr angefasst. Vier Initialen aus Sang-hoons eigenem Kalender - S, H, K, Y - mit Uhrzeiten und Stimmungen statt Namen, und die Einsicht, dass ein Buchstabe kein Hinweis ist, sondern nur der Schatten von einem.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
+
+- **Band 2, Kapitel 38** *The one with two parts* (v1.0) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+
+  **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
+
+  **Sang-hoon nennt einen Namen, bevor Georgij fragen muss: Yeom.** Derselbe Mann, der in Kapitel 25 den anonymen Anruf bekam - *"glad we had met"*, an einen Fremden gerichtet. **Und Georgij faengt den Fehler in Echtzeit ab, bevor er ihn Sang-hoon als fertige Antwort gibt:** Yeom steht am Ende dieses Satzes, nicht am Anfang. Wer angerufen wurde, kann nicht im selben Atemzug der Anrufer bei Sang-hoons Kartenabend sein, ohne dass das Buch das ausdruecklich behauptet - und das behauptet es nicht.
+
+  **Die Regel, die er sich selbst vorspricht, ist die aus Kapitel 37, jetzt gegen die eigene Zuneigung gewendet:** *"A shared initial is not a lead. It is the shadow of one."* Sang-hoon haelt dagegen - vielleicht hat der Anruf vor vier Jahren aus einem Opfer einen Mitwisser gemacht -, und Georgij laesst die Moeglichkeit stehen, ohne sie zu entscheiden.
+
+  **Im Garten gibt Annie dem Nachmittag seine schaerfste Wendung:** nicht die Logik ist das Risiko, sondern dass er Yeom mag. *"Liking a man does not clear him. It only makes it more expensive if he is not clear."* **Erstmals seit Bandbeginn benennt der Text, dass Georgij jemanden in diesem Geschaeft gemocht hat und nicht nur respektiert** - eine Unterscheidung, die er selbst zieht und die ihn ueberrascht.
+
+  **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
 ---
 
@@ -5573,11 +5592,12 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: JETZT VIER INITIALEN, NOCH KEIN NAME.** S, H, K,
-  Y, aus Sang-hoons eigenem Kalender, mit Uhrzeit und Stimmung statt Namen
-  (Kapitel 37). Annie hat am Abend eine Reihenfolge vorgeschlagen, die von
-  Georgijs eigener abweicht - **welche zuerst, ist der naechste Schritt und
-  noch nicht im Text.**
+- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT UND NICHT YEOM.** Annie waehlte Y
+  zuerst (Kapitel 38); Sang-hoon nannte Yeom, Georgij hat ihn selbst entlastet,
+  weil Yeom laut Kapitel 25 Empfaenger und nicht Sprecher des Anrufer-Tics war.
+  **Faellig: die Restaurant-Buchpruefung, ob Yeom ueberhaupt in der Naehe des
+  Kartenabends war** - angekuendigt, noch nicht geschrieben. **S, H, K bleiben
+  komplett offen.**
 
 - **DAS PFLEGEHEIM AUSSERHALB WONJUS.** Noch nicht bestaetigt als die zweite
   Blumenadresse. Sang-hoon ermittelt ab jetzt parallel und unabhaengig ueber
@@ -6848,14 +6868,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 565 | 59 (b1ch01-b2ch37) | 1 | 74 |
+| Annie | 574 | 60 (b1ch01-b2ch38) | 1 | 74 |
+| Park Sang-hoon | 174 | 31 (b1ch10-b2ch38) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
-| Park Sang-hoon | 163 | 30 (b1ch10-b2ch37) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
 | Jang | 90 | 24 (b1ch05-b2ch35) | 3 | 60 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
-| Mr Hwang | 64 | 12 (b2ch07-b2ch37) | 3 | 57 |
-| Mrs Jeon | 51 | 11 (b2ch06-b2ch37) | 5 | 57 |
+| Mr Hwang | 65 | 13 (b2ch07-b2ch38) | 3 | 59 |
+| Mrs Jeon | 52 | 12 (b2ch06-b2ch38) | 5 | 59 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 37 | 12 (b1ch07-b2ch36) | 22 | 55 |
 | Mrs Sunwoo | 34 | 14 (b1ch07-b2ch26) | 1 | 60 |
@@ -6888,7 +6908,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-565 Nennungen in 59 Kapiteln.
+574 Nennungen in 60 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -7457,6 +7477,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:180 | "Georgij," said Annie, before he could say it. |
 | 57 | b2ch37:204 | It was the same desk he had sat against, on the floor, on the night he had told Annie ev.. |
 | 57 | b2ch37:254 | It was not the morning Annie had meant when she sent him away from the desk. |
+| 59 | b2ch38:6 | Annie had picked the most recent one, and she had given her reason before he asked for it. |
+| 59 | b2ch38:150 | He found Annie in the garden, which is not a place she is often in before evening, stand.. |
+| 59 | b2ch38:158 | Annie turned round. |
+| 59 | b2ch38:170 | Annie was quiet for a moment, and the wind moved through the hedge behind her without ei.. |
+| 59 | b2ch38:180 | "That is worth more than the four seconds cost you," said Annie. "What have you got inst.. |
+| 59 | b2ch38:196 | Annie unfolded her arms and put one hand flat on the wall beside her. |
+| 59 | b2ch38:218 | Annie looked at him properly then, the way she does when a sentence has told her more th.. |
+| 59 | b2ch38:240 | Annie considered him for a moment. |
+| 59 | b2ch38:272 | Annie looked at him for a while, the wind doing what it does to hair and to nothing else.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -7606,6 +7635,270 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:124` (Tag 51) - three
 - `b2ch37:142` (Tag 57) - two
 - `b2ch37:162` (Tag 57) - eleven, four, nine, three
+- `b2ch38:6` (Tag 59) - one
+- `b2ch38:180` (Tag 59) - four
+- `b2ch38:196` (Tag 59) - one
+
+---
+
+### Park Sang-hoon
+
+174 Nennungen in 31 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch10:228 | Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in.. |
+| 22 | b1ch10:244 | The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enj.. |
+| 22 | b1ch10:246 | He gave him the wide one and it went nowhere. He asked him a question about a route into.. |
+| 22 | b1ch10:252 | None of them were about business and none of them were conversation. They were the quest.. |
+| 22 | b1ch10:258 | "You're the adviser," Sang-hoon said, eventually. |
+| 22 | b1ch10:270 | "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?" |
+| 22 | b1ch10:276 | He did not know. That was the whole of it and Georgij went over it twice while he was dr.. |
+| 22 | b1ch10:292 | Sang-hoon's eyebrows went up about a millimetre. |
+| 22 | b1ch10:304 | Sang-hoon laughed. |
+| 22 | b1ch10:312 | "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary." |
+| 22 | b1ch10:328 | Park Sang-hoon looked at him for slightly longer than he had looked at him all evening. |
+| 22 | b1ch10:340 | Sang-hoon considered that. |
+| 22 | b1ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
+| 22 | b1ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
+| 22 | b1ch11:142 | Then Sang-hoon, because Sang-hoon had been last. |
+| 22 | b1ch11:148 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
+| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
+| 34 | b1ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
+| 34 | b1ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
+| 34 | b1ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
+| 41 | b1ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
+| 41 | b1ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
+| 46 | b1ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
+| 46 | b1ch16:16 | Sang-hoon was already there. |
+| 46 | b1ch16:34 | "You ask people to guide you," said Sang-hoon. |
+| 46 | b1ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
+| 46 | b1ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
+| 46 | b1ch16:90 | Park Sang-hoon had his glass halfway up and put it back down on the cloth. |
+| 46 | b1ch16:100 | He did not explain it and he did not say the other four words that were available. Sang-.. |
+| 46 | b1ch16:102 | Sang-hoon poured himself water. |
+| 46 | b1ch16:126 | Sang-hoon nodded once and went on eating, and it went past like a car. |
+| 46 | b1ch16:142 | "She does," said Sang-hoon, to nobody in particular, and ate. |
+| 46 | b1ch16:162 | Sang-hoon put his glass down. |
+| 46 | b1ch16:180 | Park Sang-hoon looked at him for slightly too long. |
+| 46 | b1ch16:192 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
+| 46 | b1ch16:202 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
+| 46 | b1ch16:212 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
+| 46 | b1ch16:228 | Sang-hoon did not touch it. |
+| 46 | b1ch16:238 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
+| 46 | b1ch16:244 | Park Sang-hoon looked at him for some time. |
+| 46 | b1ch16:254 | "Go on," said Sang-hoon. |
+| 46 | b1ch16:258 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
+| 46 | b1ch16:274 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
+| 46 | b1ch16:284 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
+| 46 | b1ch16:298 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
+| 46 | b1ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
+| 46 | b1ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
+| 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
+| 46 | b1ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
+| 48 | b1ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
+| 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
+| 48 | b1ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
+| 48 | b1ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
+| 48 | b1ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
+| 48 | b1ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
+| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
+| 55 | b1ch22:34 | Sang-hoon stopped in the hall. |
+| 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
+| 55 | b1ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
+| 55 | b1ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
+| 55 | b1ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
+| 55 | b1ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
+| 55 | b1ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
+| 55 | b1ch22:138 | "Well," said Sang-hoon. |
+| 55 | b1ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
+| 59 | b1ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
+| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
+| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
+| 7 | b1ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
+| 7 | b1ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
+| 7 | b1ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
+| 7 | b1ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
+| 7 | b1ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
+| 7 | b1ch33:98 | Sang-hoon did not smile. |
+| 7 | b1ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
+| 7 | b1ch33:134 | "Then spend it," said Park Sang-hoon. |
+| 7 | b1ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
+| 7 | b1ch33:164 | Then Park Sang-hoon laughed. |
+| 7 | b1ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
+| 7 | b1ch33:190 | "And in that quarter," said Sang-hoon. |
+| 7 | b1ch33:208 | Sang-hoon looked at him for some time. |
+| 7 | b1ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
+| 7 | b1ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
+| 7 | b1ch33:238 | Park Sang-hoon turned round then. |
+| 7 | b1ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
+| 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
+| 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
+| 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
+| 60 | b2ch04:106 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
+| 60 | b2ch04:116 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
+| 60 | b2ch04:120 | "You did not come here for a man from Mokpo," said Sang-hoon. |
+| 60 | b2ch04:134 | Sang-hoon put the cup down on the sill. |
+| 60 | b2ch04:144 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
+| 60 | b2ch04:156 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
+| 60 | b2ch04:170 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
+| 60 | b2ch04:210 | Sang-hoon did not say anything for a while. |
+| 60 | b2ch04:226 | "I found four," said Sang-hoon. "In pencil. I read the nineteen pages twice to do it, an.. |
+| 60 | b2ch04:248 | Sang-hoon looked out of the window at a car park. |
+| 60 | b2ch04:260 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
+| 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
+| 60 | b2ch05:50 | "What did you pay Park Sang-hoon with." |
+| 60 | b2ch05:82 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
+| 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
+| 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
+| 5 | b2ch06:232 | "Park Sang-hoon." |
+| 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
+| 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
+| 3 | b2ch12:242 | "I want her finished. I do not want her hurt for four months so that somebody can watch... |
+| 11 | b2ch19:24 | He did not ask him, because a man who telephones Park Sang-hoon to ask which people have.. |
+| 38 | b2ch26:6 | The reason he did not do this in March is that doing it would have told Park Sang-hoon a.. |
+| 38 | b2ch26:14 | Anybody may come. That is the whole of the point and it is why Sang-hoon said *four or f.. |
+| 38 | b2ch26:24 | Sang-hoon came over himself, through about forty people, and two of them tried to interc.. |
+| 38 | b2ch26:52 | Sang-hoon looked at him for about two seconds. |
+| 38 | b2ch26:62 | Sang-hoon did not move at all. |
+| 38 | b2ch26:84 | Sang-hoon stood in the second room of a shed with a hull in it and did not answer for wh.. |
+| 38 | b2ch26:102 | "That is the most expensive sentence anybody has said to me this year," said Sang-hoon, .. |
+| 38 | b2ch26:116 | "And I have never once seen him put anything in his mouth," said Park Sang-hoon. |
+| 38 | b2ch26:134 | "Say the rest of it," said Sang-hoon. "You are working out how to put it and there is no.. |
+| 38 | b2ch26:164 | Sang-hoon looked at him. |
+| 38 | b2ch26:180 | Park Sang-hoon put his glass down on a table that was not intended for glasses. |
+| 38 | b2ch26:192 | "That is what you came for," said Sang-hoon. "You did not ask and you were not going to .. |
+| 38 | b2ch26:216 | "You have gone somewhere," said Sang-hoon. |
+| 38 | b2ch26:228 | "That is not a failure," said Sang-hoon. |
+| 38 | b2ch26:252 | "What are you going to do," said Sang-hoon. |
+| 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
+| 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
+| 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
+| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 45 | b2ch33:236 | "There is also Sang-hoon's four," she said. "He gave you a task in April and I have hear.. |
+| 46 | b2ch34:58 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
+| 46 | b2ch34:128 | "Sang-hoon has been at that man's table for eight years and did not know," she said. "Ho.. |
+| 46 | b2ch34:172 | "You are not to tell Sang-hoon," said Annie. "Not yet. Not the man's name and not the ha.. |
+| 47 | b2ch35:6 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
+| 47 | b2ch35:18 | "I have had three days of thinking about a sentence I said to you in a shed," said Sang-.. |
+| 47 | b2ch35:28 | He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyo.. |
+| 47 | b2ch35:62 | Sang-hoon made a sound that was almost a laugh and was not one. |
+| 47 | b2ch35:78 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
+| 47 | b2ch35:86 | Sang-hoon did not answer straight away. |
+| 47 | b2ch35:98 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
+| 47 | b2ch35:124 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
+| 47 | b2ch35:266 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
+| 51 | b2ch36:70 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
+| 51 | b2ch36:74 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
+| 51 | b2ch36:96 | Sang-hoon did not move. |
+| 51 | b2ch36:108 | "You are telling me you have failed," said Sang-hoon, and did not say it unkindly. |
+| 51 | b2ch36:128 | "Annie has not let you," said Sang-hoon. |
+| 51 | b2ch36:134 | Sang-hoon sat back. |
+| 51 | b2ch36:146 | Something in Sang-hoon's face eased by a fraction that a stranger would not have caught. |
+| 51 | b2ch36:158 | Sang-hoon considered that for what felt like a long time and was probably eleven seconds. |
+| 51 | b2ch36:170 | "There was no arrangement," said Sang-hoon. "There was a man who told me he needed four .. |
+| 51 | b2ch36:182 | "I suspected before you told me. There is a difference, and you have been the one drawin.. |
+| 51 | b2ch36:194 | "Nothing, yet. I want to know who owns it under the four owners." Sang-hoon looked at hi.. |
+| 51 | b2ch36:206 | Sang-hoon looked at the window for a moment before he answered, and Georgij had the sens.. |
+| 51 | b2ch36:210 | "I do not know yet," said Sang-hoon. "But I have been at that man's table for eight year.. |
+| 51 | b2ch36:218 | Sang-hoon stood without finishing anything on the table in front of him. |
+| 51 | b2ch36:230 | A waiter came in to clear the table Sang-hoon had not eaten from, and stopped in the doo.. |
+| 57 | b2ch37:198 | He had not opened the file on Sang-hoon's four decisions since the day in the rain. The .. |
+| 57 | b2ch37:206 | Eight years of dinners. No guest list survives any of them, because a man who gives dinn.. |
+| 57 | b2ch37:218 | *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating.. |
+| 57 | b2ch37:224 | Four letters. Four decisions Sang-hoon has never been able to account for. |
+| 57 | b2ch37:232 | What he had instead was four evenings, and four moods attached to them in Sang-hoon's ow.. |
+| 57 | b2ch37:236 | *7:30* is early, which for Sang-hoon means important enough to arrive rested for. |
+| 57 | b2ch37:250 | *S, H, K, Y. Not enough letters to be a coincidence and not enough to be an answer eithe.. |
+| 59 | b2ch38:18 | He telephoned Sang-hoon on the Wednesday and did not dress the question up. |
+| 59 | b2ch38:36 | Sang-hoon made the sound again that was almost a laugh. |
+| 59 | b2ch38:48 | "Yeom," said Sang-hoon. "The man who used to own the auction house on the river. You hav.. |
+| 59 | b2ch38:68 | "Unless he does know," said Sang-hoon. "Unless four years bought more than a bad evening." |
+| 59 | b2ch38:80 | "That is a more careful answer than the one you started with," said Sang-hoon. |
+| 59 | b2ch38:86 | "Then Y is still nobody," said Sang-hoon. "I have lost an evening's worth of cards to a .. |
+| 59 | b2ch38:102 | Sang-hoon considered that. |
+| 59 | b2ch38:118 | Georgij had thought about that on the walk to the telephone, before Sang-hoon had even a.. |
+| 59 | b2ch38:134 | Sang-hoon made a sound that might have been approval, and might equally have been the so.. |
+| 59 | b2ch38:166 | "Because he is already on the wrong end of that sentence." Georgij stood at the edge of .. |
+| 59 | b2ch38:206 | "I am not disappointed. I am relieved." He looked at the hedge rather than at her. "And .. |
+
+### Zahlen in der Naehe von Park Sang-hoon
+
+- `b1ch10:228` (Tag 22) - eleven, ten, two
+- `b1ch10:244` (Tag 22) - forty
+- `b1ch10:246` (Tag 22) - fourteen, one
+- `b1ch10:252` (Tag 22) - four
+- `b1ch10:276` (Tag 22) - nine, six
+- `b1ch10:346` (Tag 22) - ninety, one
+- `b1ch13:194` (Tag 27) - one, three
+- `b1ch14:136` (Tag 34) - eighteen, eleven
+- `b1ch14:148` (Tag 34) - one, three
+- `b1ch16:100` (Tag 46) - four
+- `b1ch16:192` (Tag 46) - two
+- `b1ch16:202` (Tag 46) - one, ten
+- `b1ch16:212` (Tag 46) - eighteen, two
+- `b1ch16:238` (Tag 46) - four, two
+- `b1ch16:258` (Tag 46) - one
+- `b1ch16:284` (Tag 46) - nineteen
+- `b1ch16:344` (Tag 46) - four
+- `b1ch17:8` (Tag 46) - one, twelve, two
+- `b1ch17:68` (Tag 46) - one
+- `b1ch18:70` (Tag 48) - four
+- `b1ch18:226` (Tag 48) - one, three
+- `b1ch18:250` (Tag 48) - ten, three
+- `b1ch19:290` (Tag 48) - one
+- `b1ch22:54` (Tag 55) - fifteen
+- `b1ch22:66` (Tag 55) - six, two
+- `b1ch23:28` (Tag 55) - four
+- `b1ch25:304` (Tag 59) - forty, seven, twelve
+- `b1ch30:410` (Tag 74) - one
+- `b1ch31:228` (Tag 74) - one
+- `b1ch33:48` (Tag 7) - ten, thirty-one
+- `b1ch33:152` (Tag 7) - eleven, one
+- `b1ch33:228` (Tag 7) - two, two hundred million
+- `b1ch33:270` (Tag 7) - eleven, forty
+- `b1ch34:130` (Tag 46) - one
+- `b2ch04:74` (Tag 60) - two
+- `b2ch04:82` (Tag 60) - two, two hundred million
+- `b2ch04:106` (Tag 60) - two
+- `b2ch04:144` (Tag 60) - four
+- `b2ch04:156` (Tag 60) - one, two
+- `b2ch04:170` (Tag 60) - fourteen, thirty, two
+- `b2ch04:226` (Tag 60) - four, nineteen
+- `b2ch04:260` (Tag 60) - one
+- `b2ch04:272` (Tag 60) - one
+- `b2ch08:32` (Tag 9) - one
+- `b2ch11:146` (Tag 1) - three
+- `b2ch12:242` (Tag 3) - eighteen, four
+- `b2ch26:14` (Tag 38) - five, four
+- `b2ch26:24` (Tag 38) - forty, two
+- `b2ch26:52` (Tag 38) - two
+- `b2ch26:84` (Tag 38) - four
+- `b2ch26:192` (Tag 38) - four
+- `b2ch26:272` (Tag 38) - four
+- `b2ch27:204` (Tag 38) - sixty-eight
+- `b2ch33:236` (Tag 45) - four
+- `b2ch34:58` (Tag 46) - eight, four
+- `b2ch34:128` (Tag 46) - eight, one, seven, three
+- `b2ch35:6` (Tag 47) - eight, nine, ten
+- `b2ch35:18` (Tag 47) - three
+- `b2ch35:62` (Tag 47) - one
+- `b2ch35:266` (Tag 47) - eight
+- `b2ch36:158` (Tag 51) - eleven
+- `b2ch36:170` (Tag 51) - four, two
+- `b2ch36:182` (Tag 51) - one
+- `b2ch36:194` (Tag 51) - four, one
+- `b2ch36:210` (Tag 51) - eight, one
+- `b2ch36:230` (Tag 51) - one, two
+- `b2ch37:198` (Tag 57) - four, two
+- `b2ch37:206` (Tag 57) - eight, four, one
+- `b2ch37:224` (Tag 57) - four
+- `b2ch37:232` (Tag 57) - four
+- `b2ch38:68` (Tag 59) - four
+- `b2ch38:80` (Tag 59) - one
+- `b2ch38:86` (Tag 59) - one
+- `b2ch38:166` (Tag 59) - four, one
+- `b2ch38:206` (Tag 59) - one
 
 ---
 
@@ -7843,251 +8136,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch31:336` (Tag 5) - twenty-two
 - `b2ch03:122` (Tag 56) - one
 - `b2ch11:146` (Tag 1) - three
-
----
-
-### Park Sang-hoon
-
-163 Nennungen in 30 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch10:228 | Park Sang-hoon was at table two, sitting down, at ten past eleven, when almost nobody in.. |
-| 22 | b1ch10:244 | The thing about Sang-hoon, which Georgij understood inside forty seconds and did not enj.. |
-| 22 | b1ch10:246 | He gave him the wide one and it went nowhere. He asked him a question about a route into.. |
-| 22 | b1ch10:252 | None of them were about business and none of them were conversation. They were the quest.. |
-| 22 | b1ch10:258 | "You're the adviser," Sang-hoon said, eventually. |
-| 22 | b1ch10:270 | "No." Sang-hoon looked at the floor for a moment. "What did she pay for you?" |
-| 22 | b1ch10:276 | He did not know. That was the whole of it and Georgij went over it twice while he was dr.. |
-| 22 | b1ch10:292 | Sang-hoon's eyebrows went up about a millimetre. |
-| 22 | b1ch10:304 | Sang-hoon laughed. |
-| 22 | b1ch10:312 | "So do I," said Park Sang-hoon. "It would be a great pity if you were ordinary." |
-| 22 | b1ch10:328 | Park Sang-hoon looked at him for slightly longer than he had looked at him all evening. |
-| 22 | b1ch10:340 | Sang-hoon considered that. |
-| 22 | b1ch10:346 | "No," said Sang-hoon. "There are about ninety of them. You're the only one who has worke.. |
-| 22 | b1ch10:354 | "I know." Park Sang-hoon stood up. "Bring whatever it is you're going to bring. I'd rath.. |
-| 22 | b1ch11:142 | Then Sang-hoon, because Sang-hoon had been last. |
-| 22 | b1ch11:148 | Then he gave her the dinner. After the fifteenth, at Sang-hoon's office's convenience, a.. |
-| 27 | b1ch13:194 | "I told him it would be sold within a year and split three ways and probably one of the .. |
-| 34 | b1ch14:86 | "Every line of it, and where it isn't a fact it says what it is." He stayed where he was.. |
-| 34 | b1ch14:136 | "I have read the eleven that are public, and I have read what your customers file, which.. |
-| 34 | b1ch14:148 | "Because twice this year somebody has tried to buy his terminal and would not say who wa.. |
-| 41 | b1ch15:176 | "That's Sang-hoon," said Hana. "That is exactly Sang-hoon. He never buys anything once." |
-| 41 | b1ch15:278 | "It's for Park Sang-hoon," said Georgij. "I am going to give it to him on the eighteenth.. |
-| 46 | b1ch16:6 | The office was in Yeouido on the ninth floor of a building Park Sang-hoon had bought in .. |
-| 46 | b1ch16:16 | Sang-hoon was already there. |
-| 46 | b1ch16:34 | "You ask people to guide you," said Sang-hoon. |
-| 46 | b1ch16:44 | Something happened at the corner of Sang-hoon's mouth. |
-| 46 | b1ch16:66 | Park Sang-hoon looked at him for the first time since he had sat down. |
-| 46 | b1ch16:90 | Park Sang-hoon had his glass halfway up and put it back down on the cloth. |
-| 46 | b1ch16:100 | He did not explain it and he did not say the other four words that were available. Sang-.. |
-| 46 | b1ch16:102 | Sang-hoon poured himself water. |
-| 46 | b1ch16:126 | Sang-hoon nodded once and went on eating, and it went past like a car. |
-| 46 | b1ch16:142 | "She does," said Sang-hoon, to nobody in particular, and ate. |
-| 46 | b1ch16:162 | Sang-hoon put his glass down. |
-| 46 | b1ch16:180 | Park Sang-hoon looked at him for slightly too long. |
-| 46 | b1ch16:192 | Sang-hoon talked about the two companies for the better part of an hour, because Georgij.. |
-| 46 | b1ch16:202 | "That is the part people get wrong," said Sang-hoon. "They think you buy the company. Yo.. |
-| 46 | b1ch16:212 | "With a family? Two years. Eighteen months if somebody frightens them for me." Sang-hoon.. |
-| 46 | b1ch16:228 | Sang-hoon did not touch it. |
-| 46 | b1ch16:238 | "That is four. Two of them are mine, and they come from a man who told me at the start o.. |
-| 46 | b1ch16:244 | Park Sang-hoon looked at him for some time. |
-| 46 | b1ch16:254 | "Go on," said Sang-hoon. |
-| 46 | b1ch16:258 | "In the same size type." Sang-hoon put one finger on the corner of the first page and le.. |
-| 46 | b1ch16:274 | Park Sang-hoon did not say anything for a moment, and did not take his hand off the page.. |
-| 46 | b1ch16:284 | Sang-hoon was almost pleasant. Georgij was extremely pleasant. The nineteen pages sat at.. |
-| 46 | b1ch16:298 | At the door Sang-hoon shook his hand, which he had not done on arrival. |
-| 46 | b1ch16:308 | "And you are either exactly what you look like," said Park Sang-hoon, "or you are the be.. |
-| 46 | b1ch16:344 | Four times he had told Park Sang-hoon that they had reached a wall, and four times he ha.. |
-| 46 | b1ch17:8 | Sang-hoon had had him checked before he came through the door. He had said so at twelve .. |
-| 46 | b1ch17:68 | "Sang-hoon put the container into that shipment, and he did not do it to slow them down... |
-| 48 | b1ch18:34 | A man who is deciding whether to buy a shipping group reads the routes first, because th.. |
-| 48 | b1ch18:70 | He had given Park Sang-hoon four walls and a map of where they stood. He had given him c.. |
-| 48 | b1ch18:88 | The debt was still there and both of them knew the size of it, and Sang-hoon had just to.. |
-| 48 | b1ch18:226 | "It is sold within a year and split three ways, and one of the three is Sang-hoon. He ha.. |
-| 48 | b1ch18:250 | "It solves the Tuesday without anybody buying anything." He said it carefully, because i.. |
-| 48 | b1ch19:290 | "Because the other thing is certain and this one is only likely," said Georgij. "When yo.. |
-| 55 | b1ch22:26 | Park Sang-hoon had asked him a question at a door on the eighteenth of November and had .. |
-| 55 | b1ch22:34 | Sang-hoon stopped in the hall. |
-| 55 | b1ch22:44 | They were good minutes. Sang-hoon asked about Hanseong the way a man asks about weather .. |
-| 55 | b1ch22:54 | "It was a serious number," said Sang-hoon. "That is what interested me. It was not a nui.. |
-| 55 | b1ch22:66 | "I have. It came to me in a restaurant, from him, and it was the best piece of work anyb.. |
-| 55 | b1ch22:78 | "So I am going to ask you a question," said Sang-hoon, "and I am going to ask it in fron.. |
-| 55 | b1ch22:90 | He could have said something flattering and empty, and Sang-hoon would have heard the em.. |
-| 55 | b1ch22:134 | Sang-hoon looked at the collar for as long as it takes to read a short word. |
-| 55 | b1ch22:138 | "Well," said Sang-hoon. |
-| 55 | b1ch23:28 | He got as far as *Sang-hoon saw it* four separate times and stopped there four separate .. |
-| 59 | b1ch25:304 | Park Sang-hoon had bought the forty per cent of the Hanseong Group that wanted out. He h.. |
-| 74 | b1ch30:410 | "The container in your shipment was put there. I believe it was Park Sang-hoon's people,.. |
-| 74 | b1ch31:228 | "I told her it was put there, and that I believe it was Park Sang-hoon's people, in the .. |
-| 7 | b1ch33:20 | Annie had Georgij in the room before Sang-hoon was out of the car. |
-| 7 | b1ch33:32 | Park Sang-hoon was entirely pleasant and his coat was over the back of a chair he had no.. |
-| 7 | b1ch33:48 | "He told me what you paid, in November, over dinner, without being asked twice," said Sa.. |
-| 7 | b1ch33:68 | Sang-hoon waited, because he had asked a woman a question and she had not answered, and .. |
-| 7 | b1ch33:88 | Park Sang-hoon had not moved since he put the number down. He had let the silence run fo.. |
-| 7 | b1ch33:98 | Sang-hoon did not smile. |
-| 7 | b1ch33:124 | "That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you.. |
-| 7 | b1ch33:134 | "Then spend it," said Park Sang-hoon. |
-| 7 | b1ch33:152 | Park Sang-hoon sat entirely still with one hand on each knee for what Georgij counted at.. |
-| 7 | b1ch33:164 | Then Park Sang-hoon laughed. |
-| 7 | b1ch33:178 | Sang-hoon nodded slowly, twice, at nothing in the middle of the room. |
-| 7 | b1ch33:190 | "And in that quarter," said Sang-hoon. |
-| 7 | b1ch33:208 | Sang-hoon looked at him for some time. |
-| 7 | b1ch33:220 | Georgij did not answer that, and it was not a refusal, and Sang-hoon did not turn round .. |
-| 7 | b1ch33:228 | "My offer stands until I am in the car," said Sang-hoon, still at the window. "It will n.. |
-| 7 | b1ch33:238 | Park Sang-hoon turned round then. |
-| 7 | b1ch33:270 | "The second is for you and not for her." Sang-hoon's voice did not change at all. "You s.. |
-| 46 | b1ch34:130 | And he had an opinion about whether it was correct. That was what Park Sang-hoon had act.. |
-| 60 | b2ch04:74 | Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, .. |
-| 60 | b2ch04:82 | "Two billion two hundred million," said Sang-hoon. |
-| 60 | b2ch04:106 | Sang-hoon laughed at that, once, and two men down the corridor looked over and then look.. |
-| 60 | b2ch04:116 | It went across Sang-hoon's face for about a quarter of a second. Then it was gone, and i.. |
-| 60 | b2ch04:120 | "You did not come here for a man from Mokpo," said Sang-hoon. |
-| 60 | b2ch04:134 | Sang-hoon put the cup down on the sill. |
-| 60 | b2ch04:144 | That was the whole of the ask, and Sang-hoon took about four seconds over it, which for .. |
-| 60 | b2ch04:156 | "Settlement." Sang-hoon watched two men go past with their coats over their arms. "There.. |
-| 60 | b2ch04:170 | "I know how it was done. I have had two and a half months and I am not stupid." Sang-hoo.. |
-| 60 | b2ch04:210 | Sang-hoon did not say anything for a while. |
-| 60 | b2ch04:226 | "I found four," said Sang-hoon. "In pencil. I read the nineteen pages twice to do it, an.. |
-| 60 | b2ch04:248 | Sang-hoon looked out of the window at a car park. |
-| 60 | b2ch04:260 | "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say i.. |
-| 60 | b2ch04:272 | Sang-hoon had one more thing at the car door, and he said it as though it had only just .. |
-| 60 | b2ch05:50 | "What did you pay Park Sang-hoon with." |
-| 60 | b2ch05:82 | "And it cost you Sang-hoon knowing that this house is interested in a book by the river." |
-| 60 | b2ch05:226 | She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-hoon she.. |
-| 60 | b2ch05:264 | "The counterparties are Park Sang-hoon, the desk in settlement, and nobody else without .. |
-| 5 | b2ch06:232 | "Park Sang-hoon." |
-| 9 | b2ch08:32 | "If I go, I am the house. Whatever I say in that room is what your house said, and she w.. |
-| 1 | b2ch11:146 | "Three people have known since the autumn and none of them has ever said it," said Georg.. |
-| 3 | b2ch12:242 | "I want her finished. I do not want her hurt for four months so that somebody can watch... |
-| 11 | b2ch19:24 | He did not ask him, because a man who telephones Park Sang-hoon to ask which people have.. |
-| 38 | b2ch26:6 | The reason he did not do this in March is that doing it would have told Park Sang-hoon a.. |
-| 38 | b2ch26:14 | Anybody may come. That is the whole of the point and it is why Sang-hoon said *four or f.. |
-| 38 | b2ch26:24 | Sang-hoon came over himself, through about forty people, and two of them tried to interc.. |
-| 38 | b2ch26:52 | Sang-hoon looked at him for about two seconds. |
-| 38 | b2ch26:62 | Sang-hoon did not move at all. |
-| 38 | b2ch26:84 | Sang-hoon stood in the second room of a shed with a hull in it and did not answer for wh.. |
-| 38 | b2ch26:102 | "That is the most expensive sentence anybody has said to me this year," said Sang-hoon, .. |
-| 38 | b2ch26:116 | "And I have never once seen him put anything in his mouth," said Park Sang-hoon. |
-| 38 | b2ch26:134 | "Say the rest of it," said Sang-hoon. "You are working out how to put it and there is no.. |
-| 38 | b2ch26:164 | Sang-hoon looked at him. |
-| 38 | b2ch26:180 | Park Sang-hoon put his glass down on a table that was not intended for glasses. |
-| 38 | b2ch26:192 | "That is what you came for," said Sang-hoon. "You did not ask and you were not going to .. |
-| 38 | b2ch26:216 | "You have gone somewhere," said Sang-hoon. |
-| 38 | b2ch26:228 | "That is not a failure," said Sang-hoon. |
-| 38 | b2ch26:252 | "What are you going to do," said Sang-hoon. |
-| 38 | b2ch26:262 | Park Sang-hoon picked his glass back up and did not drink out of it. |
-| 38 | b2ch26:272 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
-| 38 | b2ch27:30 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
-| 38 | b2ch27:204 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
-| 45 | b2ch33:236 | "There is also Sang-hoon's four," she said. "He gave you a task in April and I have hear.. |
-| 46 | b2ch34:58 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
-| 46 | b2ch34:128 | "Sang-hoon has been at that man's table for eight years and did not know," she said. "Ho.. |
-| 46 | b2ch34:172 | "You are not to tell Sang-hoon," said Annie. "Not yet. Not the man's name and not the ha.. |
-| 47 | b2ch35:6 | Sang-hoon telephoned at ten past nine, which he has never done before in eight months, b.. |
-| 47 | b2ch35:18 | "I have had three days of thinking about a sentence I said to you in a shed," said Sang-.. |
-| 47 | b2ch35:28 | He cannot say Choi Dae-ho, and he cannot say flowers, and he cannot say a florist in Hyo.. |
-| 47 | b2ch35:62 | Sang-hoon made a sound that was almost a laugh and was not one. |
-| 47 | b2ch35:78 | Georgij stood with the receiver against his ear and did not answer straight away, becaus.. |
-| 47 | b2ch35:86 | Sang-hoon did not answer straight away. |
-| 47 | b2ch35:98 | The car noise on the line changed, which meant Sang-hoon had turned a corner or a page. |
-| 47 | b2ch35:124 | "You are a strange thing to have working for somebody else's house," said Sang-hoon, "an.. |
-| 47 | b2ch35:266 | Georgij stood by the cars for a while afterward. A man who has worked for eight families.. |
-| 51 | b2ch36:70 | Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his o.. |
-| 51 | b2ch36:74 | "You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched.. |
-| 51 | b2ch36:96 | Sang-hoon did not move. |
-| 51 | b2ch36:108 | "You are telling me you have failed," said Sang-hoon, and did not say it unkindly. |
-| 51 | b2ch36:128 | "Annie has not let you," said Sang-hoon. |
-| 51 | b2ch36:134 | Sang-hoon sat back. |
-| 51 | b2ch36:146 | Something in Sang-hoon's face eased by a fraction that a stranger would not have caught. |
-| 51 | b2ch36:158 | Sang-hoon considered that for what felt like a long time and was probably eleven seconds. |
-| 51 | b2ch36:170 | "There was no arrangement," said Sang-hoon. "There was a man who told me he needed four .. |
-| 51 | b2ch36:182 | "I suspected before you told me. There is a difference, and you have been the one drawin.. |
-| 51 | b2ch36:194 | "Nothing, yet. I want to know who owns it under the four owners." Sang-hoon looked at hi.. |
-| 51 | b2ch36:206 | Sang-hoon looked at the window for a moment before he answered, and Georgij had the sens.. |
-| 51 | b2ch36:210 | "I do not know yet," said Sang-hoon. "But I have been at that man's table for eight year.. |
-| 51 | b2ch36:218 | Sang-hoon stood without finishing anything on the table in front of him. |
-| 51 | b2ch36:230 | A waiter came in to clear the table Sang-hoon had not eaten from, and stopped in the doo.. |
-| 57 | b2ch37:198 | He had not opened the file on Sang-hoon's four decisions since the day in the rain. The .. |
-| 57 | b2ch37:206 | Eight years of dinners. No guest list survives any of them, because a man who gives dinn.. |
-| 57 | b2ch37:218 | *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating.. |
-| 57 | b2ch37:224 | Four letters. Four decisions Sang-hoon has never been able to account for. |
-| 57 | b2ch37:232 | What he had instead was four evenings, and four moods attached to them in Sang-hoon's ow.. |
-| 57 | b2ch37:236 | *7:30* is early, which for Sang-hoon means important enough to arrive rested for. |
-| 57 | b2ch37:250 | *S, H, K, Y. Not enough letters to be a coincidence and not enough to be an answer eithe.. |
-
-### Zahlen in der Naehe von Park Sang-hoon
-
-- `b1ch10:228` (Tag 22) - eleven, ten, two
-- `b1ch10:244` (Tag 22) - forty
-- `b1ch10:246` (Tag 22) - fourteen, one
-- `b1ch10:252` (Tag 22) - four
-- `b1ch10:276` (Tag 22) - nine, six
-- `b1ch10:346` (Tag 22) - ninety, one
-- `b1ch13:194` (Tag 27) - one, three
-- `b1ch14:136` (Tag 34) - eighteen, eleven
-- `b1ch14:148` (Tag 34) - one, three
-- `b1ch16:100` (Tag 46) - four
-- `b1ch16:192` (Tag 46) - two
-- `b1ch16:202` (Tag 46) - one, ten
-- `b1ch16:212` (Tag 46) - eighteen, two
-- `b1ch16:238` (Tag 46) - four, two
-- `b1ch16:258` (Tag 46) - one
-- `b1ch16:284` (Tag 46) - nineteen
-- `b1ch16:344` (Tag 46) - four
-- `b1ch17:8` (Tag 46) - one, twelve, two
-- `b1ch17:68` (Tag 46) - one
-- `b1ch18:70` (Tag 48) - four
-- `b1ch18:226` (Tag 48) - one, three
-- `b1ch18:250` (Tag 48) - ten, three
-- `b1ch19:290` (Tag 48) - one
-- `b1ch22:54` (Tag 55) - fifteen
-- `b1ch22:66` (Tag 55) - six, two
-- `b1ch23:28` (Tag 55) - four
-- `b1ch25:304` (Tag 59) - forty, seven, twelve
-- `b1ch30:410` (Tag 74) - one
-- `b1ch31:228` (Tag 74) - one
-- `b1ch33:48` (Tag 7) - ten, thirty-one
-- `b1ch33:152` (Tag 7) - eleven, one
-- `b1ch33:228` (Tag 7) - two, two hundred million
-- `b1ch33:270` (Tag 7) - eleven, forty
-- `b1ch34:130` (Tag 46) - one
-- `b2ch04:74` (Tag 60) - two
-- `b2ch04:82` (Tag 60) - two, two hundred million
-- `b2ch04:106` (Tag 60) - two
-- `b2ch04:144` (Tag 60) - four
-- `b2ch04:156` (Tag 60) - one, two
-- `b2ch04:170` (Tag 60) - fourteen, thirty, two
-- `b2ch04:226` (Tag 60) - four, nineteen
-- `b2ch04:260` (Tag 60) - one
-- `b2ch04:272` (Tag 60) - one
-- `b2ch08:32` (Tag 9) - one
-- `b2ch11:146` (Tag 1) - three
-- `b2ch12:242` (Tag 3) - eighteen, four
-- `b2ch26:14` (Tag 38) - five, four
-- `b2ch26:24` (Tag 38) - forty, two
-- `b2ch26:52` (Tag 38) - two
-- `b2ch26:84` (Tag 38) - four
-- `b2ch26:192` (Tag 38) - four
-- `b2ch26:272` (Tag 38) - four
-- `b2ch27:204` (Tag 38) - sixty-eight
-- `b2ch33:236` (Tag 45) - four
-- `b2ch34:58` (Tag 46) - eight, four
-- `b2ch34:128` (Tag 46) - eight, one, seven, three
-- `b2ch35:6` (Tag 47) - eight, nine, ten
-- `b2ch35:18` (Tag 47) - three
-- `b2ch35:62` (Tag 47) - one
-- `b2ch35:266` (Tag 47) - eight
-- `b2ch36:158` (Tag 51) - eleven
-- `b2ch36:170` (Tag 51) - four, two
-- `b2ch36:182` (Tag 51) - one
-- `b2ch36:194` (Tag 51) - four, one
-- `b2ch36:210` (Tag 51) - eight, one
-- `b2ch36:230` (Tag 51) - one, two
-- `b2ch37:198` (Tag 57) - four, two
-- `b2ch37:206` (Tag 57) - eight, four, one
-- `b2ch37:224` (Tag 57) - four
-- `b2ch37:232` (Tag 57) - four
 
 ---
 
@@ -8594,7 +8642,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-64 Nennungen in 12 Kapiteln.
+65 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8662,6 +8710,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
 | 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
+| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -8699,7 +8748,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-51 Nennungen in 11 Kapiteln.
+52 Nennungen in 12 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8754,6 +8803,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:56 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
 | 51 | b2ch36:66 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
 | 57 | b2ch37:40 | *Jeon Mi-ja* |
+| 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 

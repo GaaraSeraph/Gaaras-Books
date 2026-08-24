@@ -718,11 +718,12 @@ Fassung.**
   Zeugen, kein Name, beide brachen beim zweiten Nachfragen ab. **Noch nicht
   angefasst - vermutlich ein spaeter Faden, nicht der naechste.**
 
-- **DIE VIER ENTSCHEIDUNGEN: JETZT VIER INITIALEN, NOCH KEIN NAME.** S, H, K,
-  Y, aus Sang-hoons eigenem Kalender, mit Uhrzeit und Stimmung statt Namen
-  (Kapitel 37). Annie hat am Abend eine Reihenfolge vorgeschlagen, die von
-  Georgijs eigener abweicht - **welche zuerst, ist der naechste Schritt und
-  noch nicht im Text.**
+- **DIE VIER ENTSCHEIDUNGEN: "Y" GEPRUEFT UND NICHT YEOM.** Annie waehlte Y
+  zuerst (Kapitel 38); Sang-hoon nannte Yeom, Georgij hat ihn selbst entlastet,
+  weil Yeom laut Kapitel 25 Empfaenger und nicht Sprecher des Anrufer-Tics war.
+  **Faellig: die Restaurant-Buchpruefung, ob Yeom ueberhaupt in der Naehe des
+  Kartenabends war** - angekuendigt, noch nicht geschrieben. **S, H, K bleiben
+  komplett offen.**
 
 - **DAS PFLEGEHEIM AUSSERHALB WONJUS.** Noch nicht bestaetigt als die zweite
   Blumenadresse. Sang-hoon ermittelt ab jetzt parallel und unabhaengig ueber
