@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 10 Dokumente am Stueck plus das Begegnungsregister. 177.791 Woerter.
+Alle 10 Dokumente am Stueck plus das Begegnungsregister. 178.278 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -9273,6 +9273,40 @@ ein, im selben Commit.
 
 ---
 
+## Nachgeprueft am 25.08. (Inhaltssitzung)
+
+Alle einundfuenfzig Zitate des Dokuments gegen die lebenden Kapiteldateien
+geprueft. **Sechs Stellen stimmten nicht**, und eine davon ist genau der Fehler,
+gegen den dieses Dokument geschrieben wurde:
+
+- **Der zweite Satz ueber den Stuhl gibt es nicht.** Zitiert war *"You were in a
+  chair. I have thought about the chair a great deal more than I have thought
+  about the window."* Kapitel 35 endet nach *"You were in a chair."* Der zweite
+  Satz stand nur hier. **Er ist gut und er ist ungeschrieben** - wer ihn haben
+  will, schreibt ihn ins Kapitel und traegt ihn dann hier ein, in dieser
+  Reihenfolge und nicht umgekehrt.
+- **Register A 7** stand auf B2 23 / 13. Mai. Die Zeile steht in **B2 27**,
+  Mittwoch, dem 27. Mai. Kapitel 23 enthaelt sie nicht.
+- **Register A 5** fuehrte *"which is where he sits"* fuer 15, 16, 20 **und 30**.
+  In 30 steht es nicht.
+- **Register C fehlten die zwei Band-1-Beruehrungen** vor dem Februar-Eintrag:
+  B1 33 (die Seite des Gesichts, 29. Dezember) und B1 34 (der Hinterkopf, am
+  Fenster, 1. Maerz). Ohne die erste geht der Zaehler in B2 18 nicht auf.
+- **Register C** nannte eines der zwei Februar-Male *auf der Seite*. Beide sind
+  im Nacken; die Seite ist der 29. Dezember.
+- **Register D** zaehlte *"Go to bed, Georgij."* dreimal. Zweimal mit Namen
+  (B1 5, B1 28); B1 31 hat die kurze Form ohne ihn.
+
+**Was gehalten hat:** alle Tagesangaben gegen die Datumszeilen der Kapitel. Der
+Zaehler der Hand im Haar (9, 20, 27, 30, 35, 55) gegen *"three times since
+March"* in 30 und *"four times since March"* in 35. Dass Annie vor dem 4. Juni
+**nie** auf dem Boden war, in beiden Baenden. Und die wichtigste Zeile des
+Dokuments: **sie fasst in Band 1 nie das Halsband an.** Die zwei Finger unter der
+Vorderkante in B1 5 sind der Schneider, und unter dem Halsband ist im ganzen Buch
+genau eine Stelle, B2 35.
+
+---
+
 ## Die Kadenz
 
 Der Autor am 25.08.: **alle zwanzig Kapitel eine wirklich romantische Szene,
@@ -9300,9 +9334,9 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
 | 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
-| 5 | B2 15, 16, 20, 30 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
+| 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
-| 7 | B2 23 | Mi 13. Mai | Sie schickt ihn hoch: *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
+| 7 | B2 27 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
 | 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
@@ -9337,12 +9371,19 @@ Halsband an und nie an das Halsband selbst.**
 
 | | Kapitel | Tag | Zeile |
 |---|---|---|---|
-| 1 | B1 34 | Mi 25. Februar | Das erste Mal. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
-| 2 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, eins davon auf der Seite. |
-| 3 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
-| 4 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
-| 5 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
-| 6 | **B2 35** | **Do 4. Juni** | Zwei Finger **unter** das Halsband, an der Seite, wo die Haut ist. Das erste Mal überhaupt. |
+| 1 | B1 33 | Mo 29. Dezember | **Das wirklich erste Mal, und es fehlte hier.** *"It came round and settled along the side of his face, cool from the room, the heel of it just under the bone."* |
+| 2 | B1 34 | Februar | Zusammenfassend, keine Szene. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
+| 3 | B1 34 | So 1. März | Am Fenster, nachdem er von sich aus heruntergegangen ist. *"Annie's hand came down on the back of his head and stayed there."* |
+| 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
+| 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
+| 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
+| 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
+| 8 | **B2 35** | **Do 4. Juni** | Zwei Finger **unter** das Halsband, an der Seite, wo die Haut ist. Das erste Mal überhaupt. |
+
+**Die drei, die B2 18 zaehlt.** *"which she has done perhaps three times since
+October"* geht genau auf, wenn man B1 33 und die zwei Februar-Male aus B1 34
+zusammennimmt. **Ohne B1 33 stimmt der Zaehler im Buch nicht** - das ist der
+Beleg dafuer, dass die Zeile hier hingehoert.
 
 **Kanon zum Halsband selbst:**
 
@@ -9375,7 +9416,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | Kapitel | Was |
 |---|---|
 | B1 6 | *"Eat something before you go. … a man who has not eaten agrees to things at eleven o'clock that he would not agree to at eight."* |
-| B1 5, 28, 31 | *"Go to bed, Georgij."* Dreimal, jedes Mal am Ende eines Tages, den sie gezählt hat und er nicht. |
+| B1 5, 28 | *"Go to bed, Georgij."* **Zweimal** mit Namen. In B1 31 steht die kurze Form *"Go to bed."* ohne ihn, was etwas anderes ist. |
 | B1 23 / 24 | *"Have you eaten?"* — die Frage, die dem Kapitel den Titel gibt. |
 | B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
 | B2 30 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
@@ -9402,8 +9443,8 @@ door shut. Do it while I am asleep."*
 Dann fragt sie ihn, was er will, und er findet nichts: *"He had wanted things at
 nine years old and had stopped."* **Daher kommt "since I was nine".**
 
-Und sie gibt ihm ihren Namen. *"That is my name. It is on nothing. My mother used
-it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
+Und sie gibt ihm ihren Namen. *"That is my name," said Annie. "It is on nothing. My
+mother used it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
 nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
 thing like that … Hye-jin went in there and stayed, and he did not take it out
 again for a very long time."* **Eingelöst in B2 35, am 4. Juni, sechs Monate und
@@ -9466,9 +9507,10 @@ hinlegt. Das ist die Gegenbewegung zu Hye-jin auf der Brücke und die einzige
 Stelle im Buch, an der er etwas nicht wegräumt.
 
 Und die Zeile, die den Preis nennt: *"On the second of March I sat at a window
-against your legs and it was the best evening I have had since I was nine years
-old. You were in a chair. I have thought about the chair a great deal more than I
-have thought about the window."*
+against your legs," said Georgij, eventually, "and it was the best evening I have
+had since I was nine years old. You were in a chair."* Der Satz endet dort.
+**Der zweite Satz ueber den Stuhl steht nicht im Buch** und stand am 25.08. nur
+in diesem Dokument. Er ist ungeschrieben und verfuegbar.
 
 ---
 
