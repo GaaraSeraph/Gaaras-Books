@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 44 Kapitel, 98.264 Woerter.
+Book Two, 44 Kapitel, 98.337 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -11,29 +11,29 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 
 | Kap | Fassung | Woerter |
 |---|---|---|
-| 01 | v1.4 | 2.282 |
-| 02 | v1.0 | 2.029 |
-| 03 | v1.0 | 2.015 |
-| 04 | v1.3 | 2.698 |
+| 01 | v1.5 | 2.286 |
+| 02 | v1.1 | 2.031 |
+| 03 | v1.1 | 2.017 |
+| 04 | v1.4 | 2.702 |
 | 05 | v1.5 | 2.848 |
-| 06 | v1.0 | 2.429 |
-| 07 | v1.2 | 2.314 |
-| 08 | v1.4 | 3.196 |
+| 06 | v1.1 | 2.435 |
+| 07 | v1.3 | 2.316 |
+| 08 | v1.5 | 3.200 |
 | 09 | v2.2 | 2.496 |
 | 10 | v2.1 | 2.225 |
-| 11 | v2.1 | 2.498 |
-| 12 | v1.3 | 2.900 |
-| 13 | v1.1 | 2.181 |
-| 14 | v1.2 | 2.430 |
-| 15 | v1.0 | 2.018 |
-| 16 | v1.1 | 2.051 |
+| 11 | v2.2 | 2.504 |
+| 12 | v1.4 | 2.902 |
+| 13 | v1.2 | 2.183 |
+| 14 | v1.3 | 2.432 |
+| 15 | v1.1 | 2.020 |
+| 16 | v1.2 | 2.053 |
 | 17 | v1.1 | 2.005 |
 | 18 | v1.2 | 2.023 |
-| 19 | v1.1 | 2.177 |
+| 19 | v1.2 | 2.179 |
 | 20 | v1.3 | 2.141 |
 | 21 | v1.4 | 2.580 |
 | 22 | v1.2 | 2.005 |
-| 23 | v1.2 | 2.004 |
+| 23 | v1.3 | 2.008 |
 | 24 | v1.1 | 2.062 |
 | 25 | v1.1 | 2.144 |
 | 26 | v1.1 | 2.039 |
@@ -41,25 +41,25 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 28 | v1.2 | 2.465 |
 | 29 | v1.4 | 2.612 |
 | 30 | v1.0 | 2.052 |
-| 31 | v1.0 | 2.354 |
+| 31 | v1.1 | 2.356 |
 | 32 | v1.0 | 2.379 |
 | 33 | v1.1 | 2.021 |
 | 34 | v1.2 | 2.261 |
-| 35 | v1.1 | 2.046 |
-| 36 | v1.2 | 2.073 |
-| 37 | v1.1 | 2.027 |
-| 38 | v1.1 | 2.012 |
-| 39 | v1.1 | 2.097 |
+| 35 | v1.2 | 2.050 |
+| 36 | v1.3 | 2.075 |
+| 37 | v1.2 | 2.028 |
+| 38 | v1.2 | 2.014 |
+| 39 | v1.2 | 2.101 |
 | 40 | v1.1 | 2.002 |
 | 41 | v1.0 | 2.003 |
 | 42 | v1.1 | 2.025 |
-| 43 | v1.0 | 2.010 |
-| 44 | v1.0 | 2.001 |
+| 43 | v1.2 | 2.017 |
+| 44 | v1.2 | 2.006 |
 
 ---
 
 # Book Two · Chapter 1: Nothing to sign with
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Fifty · Monday 2 March
 
@@ -165,6 +165,8 @@ On the second of January he had come off the stairs with a reason inside ten min
 
 This morning he had nothing at all. That is not the same thing as having nothing to do, and he had spent the winter learning the difference.
 
+* * *
+
 The catalogue came at eleven in a flat parcel with a printed label, addressed to the house and not to anybody in it.
 
 Mrs Seo put it on the desk in the small room with three other things. It lay there until two. Annie was in Yeouido, and there was no reason on earth for Georgij to be in that room.
@@ -233,6 +235,8 @@ Yesterday he had told her that what was round his neck went on working for exact
 
 Somebody had made the book portable. It had come up the drive that morning in a flat parcel with a printed label on it.
 
+* * *
+
 Annie came back from Yeouido at ten past eight.
 
 The catalogue was where he had left it, closed and square to the edge, with the other three things beside it.
@@ -284,7 +288,7 @@ It was the first evening on which only the first half of that was true.
 ---
 
 # Book Two · Chapter 2: The order of loading
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Fifty-Two · Wednesday 4 March
 
@@ -384,6 +388,8 @@ It was the correct trade. He had been in that yard under a minute when he unders
 
 It also has a shape. A man who pays in one particular currency, three times, has signed something.
 
+* * *
+
 Annie came out of the small room at half past eight.
 
 He gave her the two things first, because those were the things that had been asked for, and she had them in under a minute and did not look surprised by either.
@@ -443,7 +449,7 @@ He went up the east stairs and did not count them.
 ---
 
 # Book Two · Chapter 3: We haven't met
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Fifty-Five · Saturday 7 March
 
@@ -537,6 +543,8 @@ For it: nothing at all. He has no currency she wants. He is a man with no money 
 
 So it is one approach and he has not got it ready, and the rule for that is the one Hana said out loud on a Thursday in November about a different woman who receives nobody. Not quickly and not twice.
 
+* * *
+
 Annie came in at nine with the Yeouido people gone and her coat already off.
 
 He gave her Ulsan.
@@ -604,7 +612,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -655,6 +663,8 @@ There is a particular quality to that half-second. Contempt would be easier. It 
 The man put a line through it.
 
 Then Georgij went in and bowed twice and came out again, which took about ninety seconds and which he did properly, because a room like that is the last one in which a man ought to be economical.
+
+* * *
 
 Park Sang-hoon was in the corridor at the end, near the window where the smokers stand, with two men who wanted things from him and were not going to get them today.
 
@@ -809,6 +819,8 @@ Sang-hoon had one more thing at the car door, and he said it as though it had on
 "Why?"
 
 "Because I have wanted to buy you twice and been told no twice, and both times I went home and thought about the work and not about the price." He got in. "That is the whole of it. A man should say a thing like that once and then not go on about it."
+
+* * *
 
 Jang met the car on the gravel, which he does not do.
 
@@ -1078,7 +1090,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1103,6 +1115,8 @@ Georgij knew the shape of it because he had built one in December.
 He wrote that down on the Friday, in one line, and did not soften it and did not look at it again.
 
 He went over the whole thing on the Sunday with the three filings side by side and the dates in a column, in that order, before he decided he was going.
+
+* * *
 
 The house is a building near the river with a public stair on the west side.
 
@@ -1216,6 +1230,8 @@ Georgij sat very still.
 
 "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at last. "Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."
 
+* * *
+
 Mr Ku had the car on the far side of the street and did not ask.
 
 He was home before three and did not start anything, which is not like him.
@@ -1276,6 +1292,8 @@ He had given her that on the Wednesday in the middle of twelve minutes of other 
 
 He did it that evening. It took seven minutes. It cost precisely what he had said it would cost and produced precisely what Annie had said it would produce.
 
+* * *
+
 What he did afterwards, on the Monday night, was the other half.
 
 A settlement that never happened is still a fact about somebody. A house that does not send a bill has been told not to, and an instruction of that size comes from an owner.
@@ -1297,7 +1315,7 @@ He had no way of knowing that it was the second time.
 ---
 
 # Book Two · Chapter 7: Not the first
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Sixty-Six · Wednesday 18 March
 
@@ -1358,6 +1376,8 @@ There is no fault anywhere in that sentence. That is what makes it the worst one
 "Thank you."
 
 "I have not done you a kindness. I have been paid, properly, by somebody who told me the price out loud before he agreed to it, and I would like that written down somewhere as well."
+
+* * *
 
 Mrs Seo met him in the hall at ten past two, which she does not.
 
@@ -1476,7 +1496,7 @@ He did not tear it out and he did not correct it. He wrote the date underneath a
 ---
 
 # Book Two · Chapter 8: Nobody sent me
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -1520,6 +1540,8 @@ Annie put the letter down.
 
 "Then it is your afternoon and not mine, and you will tell me what it cost before you tell me what came of it, and you will do that tonight and not tomorrow."
 
+* * *
+
 He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan.
 
 He has never in his life bought a ticket for anything. He said so, in one sentence, without arranging his face about it, because she was going to work it out inside a minute anyway and it is quicker to say things.
@@ -1529,6 +1551,8 @@ She did not make a business of it.
 There was an envelope on the table outside his room in the morning. A ticket, and a second ticket for the way back. A card with the platform on it, and the time of the last train that would still get him home the same night.
 
 Nothing else was in the envelope. She had not put money in it, and he understood that she had thought about whether to and had decided against, and he was grateful in a way he did not examine.
+
+* * *
 
 The yard is behind a fuel depot on the north side of the harbour road, and there are four trucks in it and room for nine.
 
@@ -2189,7 +2213,7 @@ She listened to the end and then asked one question, which was not about Mrs Sun
 ---
 
 # Book Two · Chapter 11: What she cannot prove
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day One Hundred and Eighty · Wednesday 1 April
 
@@ -2204,6 +2228,8 @@ Mrs Sunwoo had lunch twice in the last week of March.
 He knows that because he spent forty minutes on the Thursday somewhere he had no business being, which is a thing he has not had to do since October and had not enjoyed being out of practice at. He knows the rest because on the Friday a firm that has bought at that house since 1988 cancelled a viewing without giving a reason.
 
 That is one cancellation. It is also the fourth day.
+
+* * *
 
 The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it up without stopping in the hall this time, which is how quickly a house learns a thing.
 
@@ -2222,6 +2248,8 @@ The second letter he has ever received.
 > You told me you work in the house I wrote to. So does a gardener. You came on a train. You would not promise me anything. You would not let a man at a desk write a figure beside your name at a funeral, which I know about because I make it my business to find out why a person does an odd thing.
 >
 > I am fifty-eight and I would rather be told an unpleasant thing on the first of April than a pleasant one in June.
+
+* * *
 
 He read it standing at the window in his own room and then went down and put it on the desk in front of Annie without being asked.
 
@@ -2313,6 +2341,8 @@ Annie looked at him.
 
 "Yes. Do not lose that again."
 
+* * *
+
 He went to find Mrs Seo about the train and did not have to ask her anything.
 
 There was already an envelope on the table outside his room. Two tickets, the twelve forty and the last one back, and a card with the platform on it. She had put it there before nine.
@@ -2392,7 +2422,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -2608,6 +2638,8 @@ He said that without any hesitation at all, and it is the only thing all afterno
 
 "A man who is carrying a thing gets rid of it on the day he is told to get rid of it." Georgij turned his hand over. "That page went to Ulsan in the fourth week, and not in January when she could still wait, and not in June when it would have been over. Somebody sat down with a calendar. Nobody sits down with a calendar on somebody else's behalf."
 
+* * *
+
 Jang was in the gatehouse at about ten with the log in front of him and nothing to write in it.
 
 He has run the security of that house since the autumn, on an interim basis that everybody has stopped calling interim. He has worked for houses of that kind for thirty years and never once for a company that made anything.
@@ -2663,7 +2695,7 @@ Jang thought about that for a moment and did not appear to enjoy it.
 ---
 
 # Book Two · Chapter 13: What it costs him
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day One Hundred and Eighty-Eight · Thursday 9 April
 
@@ -2704,6 +2736,8 @@ Four of the five names were the same name, and it was the man with nine trucks a
 "And the man outside the yard."
 
 "Since Monday. Nothing yet. He has a reason to be on that road and he is being paid by somebody in Busan who thinks he is doing something else, which is the arrangement I would want if it were me."
+
+* * *
 
 The terminal at Yeongjong is ten months old and looks it, in the way a thing looks new when the man who built it will not have anything on it repainted before it has earned the paint.
 
@@ -2852,7 +2886,7 @@ That is a very short list as well.
 ---
 
 # Book Two · Chapter 14: Ask her
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day One Hundred and Ninety-Three · Tuesday 14 April
 
@@ -3046,6 +3080,8 @@ That is the arrangement now, and it is eleven days old, and this is the first we
 
 It turns out to be quieter than he had expected, and not in the way he had expected.
 
+* * *
+
 The four remaining firms did not need a visit and did not get one.
 
 Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same words, and asked each of them the same three questions. What tonnage can you commit. What is your insurance position. **And: who is authorised to enter into an agreement on your behalf, and has anybody done so in the last six months.**
@@ -3077,7 +3113,7 @@ The fifth was Mr Kwon. He answered the third question in nine words. Then he tel
 ---
 
 # Book Two · Chapter 15: One word, and it was true
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Two · Thursday 23 April
 
@@ -3126,6 +3162,8 @@ Three is not an answer. Three is a shape.
 All three of them are exactly the sort of man who would be at that lunch and would also buy at that house, which is another way of saying that nothing has been eliminated. What he has is that the two lists touch, and that they touch in three places and not in none.
 
 He wrote the three on a separate page and put the six hundred and forty in a drawer, and he did not look at either again that day.
+
+* * *
 
 The telephone went at twenty past four.
 
@@ -3260,7 +3298,7 @@ Annie did not answer for a moment.
 ---
 
 # Book Two · Chapter 16: A hand
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Four · Saturday 25 April
 
@@ -3371,6 +3409,8 @@ He does not know where the other one went.
 He does not know whether it has been used or is going to be. It may be sitting in a drawer in a house somewhere in this country, belonging to somebody who has been waiting since March for a reason to open it.
 
 That is the first thing in eight weeks that has actually frightened him.
+
+* * *
 
 He went down at about six and stood in the doorway of the small room, and Annie looked up and saw his face and put down what she was holding before he had said anything at all.
 
@@ -3785,7 +3825,7 @@ Then she got up and came round the desk and stood in front of him. She put her h
 ---
 
 # Book Two · Chapter 19: The third time
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Nine · Thursday 30 April
 
@@ -3816,6 +3856,8 @@ Mrs Seo left the envelope on the table outside his room on the Wednesday night w
 Two tickets and the card with the platform, and a small paper bag with two of the rice cakes that the boy makes on Wednesdays.
 
 She did not mention it in the morning and neither did he.
+
+* * *
 
 The yard on the thirtieth of April has two trucks in it and room for nine.
 
@@ -4587,7 +4629,7 @@ He went down eight floors and out onto a street by the river, and read the four 
 ---
 
 # Book Two · Chapter 23: Three of the four
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Twenty-Two · Wednesday 13 May
 
@@ -4657,6 +4699,8 @@ Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1
 
 "I am eighty-one. I have not the time to hold things against people who tell me the truth. There are so few of them that I would run out of afternoons."
 
+* * *
+
 He told Annie on the Thursday, in the small room, standing, in the same form he had used with Mrs Sunwoo.
 
 "You are aware that I already know all of this," said Annie.
@@ -4686,6 +4730,8 @@ She did not answer that immediately.
 "Sit down," she said. "You have been standing in doorways for a week and it is beginning to look like a position."
 
 He sat down on the floor at the side of the desk.
+
+* * *
 
 "Now the other thing," said Annie. "You have had it since Wednesday and you have not brought it to me, and that is not the arrangement, because there is not an arrangement any more and you know exactly what I mean."
 
@@ -6235,7 +6281,7 @@ At about half past eleven she said one word out loud, to nobody at all.
 ---
 
 # Book Two · Chapter 31: Nobody hides flowers
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Thirty-Nine · Saturday 30 May
 
@@ -6312,6 +6358,8 @@ Georgij stood on the other side of the desk.
 Annie opened the drawer and counted out notes and put them on top of the copied page.
 
 "Take Ku and do not park in front of it," she said.
+
+* * *
 
 The shop is in a street of low buildings behind a hill in Hyoja-dong, third one along, with a green awning that has been mended.
 
@@ -7103,7 +7151,7 @@ He did not mean Annie when he wrote it, and he sat with that for a while before 
 ---
 
 # Book Two · Chapter 35: Everything I am allowed to say
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Forty-Five · Friday 5 June
 
@@ -7177,6 +7225,8 @@ He rang off without saying anything further, which is not a thing he does, and G
 
 Mrs Seo passed with a tray and did not stop.
 
+* * *
+
 Georgij went and found Annie in the room off the library, where she keeps the papers that are not in the desk that locks, and told her all of it, in order.
 
 She listened without writing anything down.
@@ -7210,6 +7260,8 @@ She went back to the papers, and he stood there a moment longer than the convers
 For the length of one telephone call that morning he had been, without deciding to be, exactly as careful with the truth as the book he keeps in his own head says a man is allowed to be. It had not felt like a technicality even once.
 
 He wrote nothing about it in the notebook. Some things, he has learned this year, are worth more left where they happened.
+
+* * *
 
 Jang found him in the garage corridor an hour later, in the coat he wears when he means to be outdoors and has been told not to go.
 
@@ -7290,7 +7342,7 @@ Georgij stood in the cooling garage a moment longer before he went in to find so
 ---
 
 # Book Two · Chapter 36: Not the man, the four
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -7335,6 +7387,8 @@ Eleven names in a column, and against each one a single line. A firm that lost a
 "And Thursday?"
 
 "Thursday was Thursday," she said. "I have had four days since, and so has he."
+
+* * *
 
 Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his own table for it, not a launch or a shed but a private room above a restaurant Georgij had not been to before.
 
@@ -7439,7 +7493,7 @@ Georgij wrote one line in the notebook before the car pulled away.
 ---
 
 # Book Two · Chapter 37: A piece of paper somewhere in the world
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Fifty-Five · Monday 15 June
 
@@ -7561,7 +7615,7 @@ He read the four letters again, this time with the flower slips and the Byun led
 
 *S. 8pm.* March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.
 
-*H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house that was already dying and did not know it yet.
+*H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a house that was already dying and did not know it yet.
 
 *K. Late.* No year at all, which meant Sang-hoon himself had not thought it worth dating when he wrote it down, which in turn meant that at the time it had seemed like nothing.
 
@@ -7598,7 +7652,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 38: The one with two parts
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -7678,6 +7732,8 @@ He rang off soon after, and Georgij stood with the receiver in his hand for a mo
 
 He thought about a florist who had gone back three years in her own order book, and a settlement clerk who had gone through hers twice in twenty-three. And a man who loses forty thousand won at cards he does not remember agreeing to play, and calls it an ordinary evening.
 
+* * *
+
 He found Annie in the garden, which is not a place she is often in before evening, standing near the wall with her arms folded against a wind that had not been in the forecast.
 
 "Not Yeom," he said, before she could ask.
@@ -7753,7 +7809,7 @@ He went in with her, and did not argue, because for once the thing she was telli
 ---
 
 # Book Two · Chapter 39: A room that is somebody else's now
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -7790,6 +7846,8 @@ That was the whole of it, and it was also, Georgij thought on the way out, a gre
 Somebody had already come asking about that dinner in April, weeks before Sang-hoon had ever told Georgij what happened at it, and had left without pressing when the trail went cold in an office instead of a kitchen.
 
 A man tidying up after himself does not usually check twice that a room has been emptied. He checks once, and he checks early, and he does not come back unless he has a reason to think somebody else might be looking.
+
+* * *
 
 He found Mr Baek two streets over, at a smaller place with no sign at all, cooking for regulars who did not need one.
 
@@ -7836,6 +7894,8 @@ Georgij stood in a restaurant with no sign, being handed the one answer he had a
 "Then Yeom was never in that room," he said, half to himself.
 
 A man who eats a full plate and still leaves before the coffee is not avoiding the table. He is avoiding whatever comes after it, in a room that has emptied enough to talk in.
+
+* * *
 
 He telephoned Sang-hoon that evening, from the house, on a line Annie had already told him was clean.
 
@@ -8265,17 +8325,17 @@ Deciding that too early was the mistake he had already promised himself, twice t
 ---
 
 # Book Two · Chapter 43: Six weeks before
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
-He had promised Sang-hoon an answer in April, and it was July before he had one worth giving.
+He had promised Sang-hoon an answer at the end of May, and it was July before he had one worth giving.
 
-Georgij spread three things across the small room's desk before Annie was even awake. The restaurant's reservation book, copied out over two evenings in June and handed back exactly when he had said he would. Byun's folded sheet, read so many times the crease in it had gone soft. And the notebook, open at a page he had left blank on purpose in April.
+Georgij spread three things across the small room's desk before Annie was even awake. The restaurant's reservation book, copied out over two evenings in June and handed back exactly when he had said he would. Byun's folded sheet, read so many times the crease in it had gone soft. And the notebook, open at a page he had left blank on purpose in May.
 
 The reservation book gave him tables, not names. A table booked under one initial, a time, and sometimes a note about who had paid and who had not.
 
-He had already found Y in it, three weeks ago, sitting at a table with a companion who ate while Choi Dae-ho never came at all. That one was finished. Yeom had been cleared, and the companion still had no name.
+He had already found Y in it, a fortnight ago, sitting at a table with a companion who ate while Choi Dae-ho never came at all. That one was finished. Yeom had been cleared, and the companion still had no name.
 
 Three letters remained, and he had spent the whole of Thursday on the first two.
 
@@ -8285,13 +8345,13 @@ He had written that line in May and left it alone since, because a single date w
 
 The second date changed it from a guess into something he could stand behind.
 
-*H. 7:30. October, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
+*H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
 
 He sat back and read the two lines together, the way Mrs Jeon had taught him to read a column instead of a single figure. One line proves nothing. Two lines, laid side by side, either agree with each other or they do not, and either answer is worth having.
 
 Byun's sheet was the reason he trusted the second line at all. A single word on it, half the name of a delivery firm, matched a line in the reservation book he had not been looking for. It named a driver sent to the same address, that same October. Two documents that had never been meant to sit next to each other agreed anyway. That was the closest thing to proof he was going to get without asking somebody who could still be hurt by the answer.
 
-Four years ago in March. Three years after that in October. Two tables, two hours, and between them the exact stretch of time it had taken the house's secret to outgrow what Sang-hoon could carry alone. By October it needed a stranger's hands on it.
+Four years ago in March. Three years after that in August. Two tables, two hours, and between them the exact stretch of time it had taken the house's secret to outgrow what Sang-hoon could carry alone. By October it needed a stranger's hands on it.
 
 He did not think that was a coincidence. He had spent enough of this year finding out what a coincidence actually looks like to know the difference, and this was not one. This was two ends of the same rope, and he had been holding both without noticing they were already tied together.
 
@@ -8305,9 +8365,11 @@ He wrote that down as well, because a list that only shows what was found is a w
 
 He closed the notebook a little after nine and telephoned Sang-hoon before he could decide that a Friday morning was the wrong time for it.
 
-"You told me in April that this was the only thing you had ever asked me for," said Georgij. "I have two of the four now, and an honest nothing for the third."
+"You told me in May that this was the only thing you had ever asked me for," said Georgij. "I have two of the four now, and an honest nothing for the third."
 
 "Say them where I can hear your face as well as your voice."
+
+* * *
 
 They met at the same table as Tuesday, because Sang-hoon had said on the telephone that a place which had already carried one hard conversation could carry a second one without anybody at the next table noticing the difference.
 
@@ -8321,7 +8383,7 @@ Sang-hoon's face did not move, and that itself was the answer, because his face 
 
 "I have known that one since the night it happened. Say the second."
 
-"H. Half past seven, in October, three years after the first. Six weeks before a man called Hwang was brought into a house that did not yet know it was dying."
+"H. Half past seven, in August, three years after the first. Six weeks before a man called Hwang was brought into a house that did not yet know it was dying."
 
 Something moved in him then that had not moved for the first date.
 
@@ -8335,7 +8397,7 @@ Sang-hoon set the cup down without having drunk from it once.
 
 "You did not know Hwang was coming."
 
-"Nobody knew Hwang was coming. That is rather the point of what I am telling you." He looked at Georgij for a long moment. "I made a decision at that table last October and have been calling it small ever since. You have just told me it was the last small decision before somebody decided that small was not going to work anymore."
+"Nobody knew Hwang was coming. That is rather the point of what I am telling you." He looked at Georgij for a long moment. "I made a decision at that table last August and have been calling it small ever since. You have just told me it was the last small decision before somebody decided that small was not going to work anymore."
 
 Georgij did not offer him anything to soften that, because there was nothing true he could have offered instead.
 
@@ -8345,7 +8407,7 @@ Georgij did not offer him anything to soften that, because there was nothing tru
 
 "I know."
 
-"Find where a man decides something when there is no table and no bill to prove he was ever there." Sang-hoon stood, and left money for a lunch neither of them had eaten again. "I have carried that October for the better part of a year without knowing it was six weeks. I did not expect the man who finally counted them to be you."
+"Find where a man decides something when there is no table and no bill to prove he was ever there." Sang-hoon stood, and left money for a lunch neither of them had eaten again. "I have carried that August for the better part of a year without knowing it was six weeks. I did not expect the man who finally counted them to be you."
 
 He went, and Georgij sat alone with the notebook open at a page that had two finished lines and a third one waiting on nothing.
 
@@ -8384,7 +8446,7 @@ He did not take that as a reason to stop. He took it as a description of the wor
 ---
 
 # Book Two · Chapter 44: A van that comes every ten days
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
 
@@ -8398,7 +8460,7 @@ A house that keeps a person for eleven years is one kind of building. A house th
 
 Any address that stores medical oxygen has to be registered with the local fire safety authority, because oxygen in a private house is the kind of risk an inspector is required to know about. The filing is not secret. It exists so that a fire crew arriving at three in the morning knows what they are walking into.
 
-He found the district's compliance list for the year of the doctor's July visit and searched it against the address Sang-hoon had given him three days before. The list itself was nothing dramatic, a spreadsheet the fire authority published once a year so that insurers and inspectors could cross-check it against their own records, sorted by street and not by anything more useful than that.
+He found the district's compliance list for the year of the doctor's July visit and searched it against the address Jang had been watching since the beginning of June. The list itself was nothing dramatic, a spreadsheet the fire authority published once a year so that insurers and inspectors could cross-check it against their own records, sorted by street and not by anything more useful than that.
 
 Nothing.
 
@@ -8422,7 +8484,7 @@ He telephoned Jang before he wrote anything more permanent than that.
 
 Jang did not answer straight away, which was a thing Jang did when he was checking his own memory against itself before handing it over.
 
-"There is a van," he said. "Grey, a gas company's name on the side, not one I had reason to notice until you asked. It comes about every ten days. It has come every time I have been watching, which is three weeks now."
+"There is a van," he said. "Grey, a gas company's name on the side, not one I had reason to notice until you asked. It comes about every ten days. It has come every time I have been watching, which is thirty-one days now."
 
 "Say the company's name."
 
@@ -8436,9 +8498,9 @@ Jang did not answer straight away, which was a thing Jang did when he was checki
 
 Georgij wrote it down exactly as Jang had given it, the van first and the schedule second, because a fact reported in the order it was noticed is worth more than one reordered afterward to sound like a discovery.
 
-"Three weeks is not four years," he said.
+"Thirty-one days is not four years," he said.
 
-"No, it is not. I can tell you the van has been coming for three weeks. I cannot tell you it has been coming for four years, because I was not standing there four years ago, and neither was anybody I would trust to remember it accurately if they had been."
+"No, it is not. I can tell you the van has been coming for thirty-one days. I cannot tell you it has been coming for four years, because I was not standing there four years ago, and neither was anybody I would trust to remember it accurately if they had been."
 
 "I know. I am not asking you to say more than you have seen."
 
@@ -8454,9 +8516,11 @@ Jang said nothing to that for a moment, and Georgij understood the silence was a
 
 "Because a fixed round tells you nothing about the person receiving it. A round that only comes when called for tells you somebody inside that house is watching the level in a tank closely enough to know when to make the call." Jang let that sit for a moment. "That is not staff covering a schedule. That is somebody paying close attention to one specific need, every single day."
 
-"Understood," said Jang, and rang off.
+"Understood," said Georgij, and Jang rang off.
 
 Georgij sat with two facts that had never been meant to sit next to each other. A fire safety filing that began in a specific July, four years ago, and a gas van that a man watching from outside had noticed without being told what to look for. Neither one, alone, proved anything. Together they agreed, and an agreement between two documents that did not know the other existed was the only kind of proof this year had ever given him.
+
+* * *
 
 He brought it to Annie that evening, in the small room, before either of them had eaten.
 

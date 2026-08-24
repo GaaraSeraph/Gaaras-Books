@@ -19,10 +19,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 615 | 66 (b1ch01-b2ch44) | 1 | 74 |
-| Park Sang-hoon | 221 | 37 (b1ch10-b2ch44) | 1 | 74 |
+| Park Sang-hoon | 220 | 37 (b1ch10-b2ch44) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 126 | 28 (b1ch05-b2ch44) | 2 | 60 |
+| Jang | 127 | 28 (b1ch05-b2ch44) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
@@ -848,7 +848,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-221 Nennungen in 37 Kapiteln.
+220 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1060,8 +1060,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch42:198 | "Then say which one you are actually able to answer today." Sang-hoon set his cup down. .. |
 | 2 | b2ch42:210 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
 | 2 | b2ch42:228 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
-| 5 | b2ch43:6 | He had promised Sang-hoon an answer in April, and it was July before he had one worth gi.. |
-| 5 | b2ch43:50 | Four years ago in March. Three years after that in October. Two tables, two hours, and b.. |
+| 5 | b2ch43:6 | He had promised Sang-hoon an answer at the end of May, and it was July before he had one.. |
+| 5 | b2ch43:50 | Four years ago in March. Three years after that in August. Two tables, two hours, and be.. |
 | 5 | b2ch43:74 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
 | 5 | b2ch43:86 | They met at the same table as Tuesday, because Sang-hoon had said on the telephone that .. |
 | 5 | b2ch43:98 | Sang-hoon's face did not move, and that itself was the answer, because his face had move.. |
@@ -1071,7 +1071,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:158 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
 | 5 | b2ch43:218 | He did not take that as a reason to stop. He took it as a description of the work still .. |
 | 8 | b2ch44:6 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
-| 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 8 | b2ch44:158 | "That the third reading I gave Sang-hoon at the restaurant was closer than the first two.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -1179,7 +1178,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:158` (Tag 5) - six
 - `b2ch43:218` (Tag 5) - one, three, two
 - `b2ch44:6` (Tag 8) - two
-- `b2ch44:26` (Tag 8) - three
 - `b2ch44:158` (Tag 8) - eleven, four, one, two
 
 ---
@@ -1665,7 +1663,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-126 Nennungen in 28 Kapiteln.
+127 Nennungen in 28 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1786,6 +1784,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
+| 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 8 | b2ch44:54 | He telephoned Jang before he wrote anything more permanent than that. |
 | 8 | b2ch44:70 | Jang did not answer straight away, which was a thing Jang did when he was checking his o.. |
 | 8 | b2ch44:98 | Georgij wrote it down exactly as Jang had given it, the van first and the schedule secon.. |
@@ -1793,7 +1792,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch44:122 | Jang said nothing to that for a moment, and Georgij understood the silence was agreement.. |
 | 8 | b2ch44:126 | "There is one more thing," Jang said, before Georgij could end the call. "The van does n.. |
 | 8 | b2ch44:134 | "Because a fixed round tells you nothing about the person receiving it. A round that onl.. |
-| 8 | b2ch44:138 | "Understood," said Jang, and rang off. |
+| 8 | b2ch44:138 | "Understood," said Georgij, and Jang rang off. |
 | 8 | b2ch44:186 | "Jang thinks the van comes only when it is called for, not on a route," said Georgij. "I.. |
 
 ### Zahlen in der Naehe von Jang
@@ -1927,10 +1926,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
-| 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
+| 57 | b2ch37:216 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
-| 5 | b2ch43:38 | *H. 7:30. October, three years later. Six weeks before Hwang was brought into a house th.. |
-| 5 | b2ch43:110 | "H. Half past seven, in October, three years after the first. Six weeks before a man cal.. |
+| 5 | b2ch43:38 | *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a ho.. |
+| 5 | b2ch43:110 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
 | 5 | b2ch43:122 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
 | 5 | b2ch43:134 | "You did not know Hwang was coming." |
 | 5 | b2ch43:138 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
@@ -1965,7 +1964,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:10` (Tag 45) - two
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
-- `b2ch37:216` (Tag 57) - six, two
+- `b2ch37:216` (Tag 57) - six, three
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:110` (Tag 5) - seven, six, three
 - `b2ch43:122` (Tag 5) - one, six
@@ -2878,7 +2877,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
 | 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 5 | b2ch43:18 | He had already found Y in it, three weeks ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
 | 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
 | 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
 | 8 | b2ch44:210 | "I looked at K again as well, before I came up," he said. "A club membership list is a k.. |
@@ -2894,7 +2893,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:60` (Tag 51) - eleven, four, one, thirty
 - `b2ch36:136` (Tag 51) - three
 - `b2ch39:136` (Tag 61) - one
-- `b2ch43:18` (Tag 5) - one, three
+- `b2ch43:18` (Tag 5) - one
 - `b2ch43:130` (Tag 5) - one, six
 
 ---

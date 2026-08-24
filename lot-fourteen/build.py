@@ -115,11 +115,19 @@ def newest_chapters(chapdir):
 
 
 def to_paste(md):
-    t = re.sub(r"^#{1,3} ", "", md, flags=re.M)
+    # Die Szenengrenze zuerst aus dem Weg raeumen: "* * *" sieht fuer die
+    # Kursiv-Ersetzung darunter wie eine Betonung aus und kaeme als " * "
+    # wieder heraus. Der Build hat genau das gemeldet, statt es durchzulassen.
+    SZENE = "\x00SZENE\x00"
+    t = re.sub(r"^\* \* \*$", SZENE, md, flags=re.M)
+    t = re.sub(r"^#{1,3} ", "", t, flags=re.M)
     t = re.sub(r"\*\*([^*\n]+)\*\*", r"\1", t)
     t = re.sub(r"^\*(.+)\*$", r"\1", t, flags=re.M)
     t = re.sub(r"\*([^*\n]+)\*", r"\1", t)
     t = t.replace("\n---\n", "\n* * *\n")
+    # Der Takt bekommt * * *, die Szene einen laengeren Strich, damit die
+    # Einfuegefassung die Unterscheidung nicht einebnet.
+    t = t.replace(SZENE, "\u2014\u2014\u2014")
     # Blockzitate: der Text eines Briefes, ohne die Markdown-Markierung.
     t = re.sub(r"^> ?", "", t, flags=re.M)
     # Kein Test auf ">": die Ersetzung darueber hat jedes davon entfernt.

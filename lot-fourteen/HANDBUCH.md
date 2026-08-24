@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 8 Dokumente am Stueck plus das Begegnungsregister. 150.553 Woerter.
+Alle 8 Dokumente am Stueck plus das Begegnungsregister. 150.549 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2812,7 +2812,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 **Die Zeilen tragen hier einen Bandpraefix**, weil die Nummern von vorne
 anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
-- **Band 2, Kapitel 1** *Nothing to sign with* (v1.4) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
+- **Band 2, Kapitel 1** *Nothing to sign with* (v1.5) - **Tag 150, Mo 2. Maerz, der Tag nach dem Schluss von Band 1. Ein Tag, drei Szenen.**
 
   **Der Einfall, und die zwei Fristen laufen einen Tag auseinander.** Annies Sperre (*"nothing for you between now and March"*) endet, als Maerz anfaengt, also am **Sonntag**, dem 1. Maerz - und dessen Ende hat er auf dem Boden am Fenster verbracht, an ihren Beinen, ohne einmal daran zu denken. Die Vollmacht stirbt am Ende desselben Sonntags um Mitternacht. **Erst der Montag ist der Tag, an dem er wieder anfaengt**, und er zieht in zwei Richtungen: *"So on the Monday he was permitted to work and had nothing to work with."*
 
@@ -2840,7 +2840,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss** holt den Titel zurueck: Er hatte Woo im November gesagt, er habe nichts zu zeichnen, und das sei keine Bescheidenheit, sondern die Abmachung. *"It was the first evening on which only the first half of that was true."*
 
-- **Band 2, Kapitel 2** *The order of loading* (v1.0) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
+- **Band 2, Kapitel 2** *The order of loading* (v1.1) - **Tag 152, Mi 4. Maerz. Zwei Szenen: Shins Hof in Gimpo, dann das Haus am Abend.**
 
   **Die Regel dahinter ist `doc/01-craft.md` 2h.** Er laeuft nicht mit stumpfem Werkzeug hinein und scheitert. Er steht drei Sekunden in dem Hof und **legt alle vier Eroeffnungen ab**, bevor er den Mund aufmacht. Drei sind fuer Raeume, in denen der andere noch entscheidet, was Georgij ist; Shin entscheidet gar nichts, er hat vier Lastwagen und seit fuenf Wochen keine Ladung. Die vierte ist die Frage nach dem, vor dem man sich hueten soll, und die gehoert einem Neuling.
 
@@ -2864,7 +2864,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die zweite Nichtantwort.** *"That was the second time in two days that a question he had put down in front of her had been stepped over rather than answered, and the first time had been about a name."* Und die Bilanz: Gestern hat er um ein Papier gebeten, das sagt, was er darf, und keines bekommen; heute hat er ohne Papier etwas von ihr verschenkt, hatte recht, und sie hat es stehenlassen. **Er geht die Osttreppe hinauf und zaehlt die Stufen nicht** - in Kapitel 34 hat er sie gezaehlt und zweiundzwanzig bekommen, was er seit Oktober wusste.
 
-- **Band 2, Kapitel 3** *We haven't met* (v1.0) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
+- **Band 2, Kapitel 3** *We haven't met* (v1.1) - **Tag 155, Sa 7. Maerz. Drei Tage Aktenarbeit, rueckblickend erzaehlt, dann der Abend.**
 
   **Niemand hat ihn darum gebeten, und das ist der erste Satz.** Ulsan war am Donnerstag um vier fertig. Was er mit den restlichen drei Tagen macht, entscheidet er selbst - und er beruft sich dabei auf ihren eigenen Satz vom Montag: *"Nobody has told you what to want."* **Sie hat es als Freigabe gemeint. Er nimmt es als eine, und er weiss, dass sie das nicht gemeint hat.** Dazu die Uebertretung in Fingernagelgroesse: Er nimmt den Katalog vom Schreibtisch im kleinen Zimmer mit nach oben, **das erste Ding, das er je aus diesem Raum genommen hat, ohne dass es ihm gereicht wurde.**
 
@@ -2892,7 +2892,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
-- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.3) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.4) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
 
   **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
 
@@ -2968,7 +2968,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.0) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.1) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -2990,7 +2990,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
 
-- **Band 2, Kapitel 7** *Not the first* (v1.2) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
+- **Band 2, Kapitel 7** *Not the first* (v1.3) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 
   **Vormittags zahlt Mrs Jeon.** Sang-hoon hat am Montag um zehn nach acht bei ihr angerufen, vier Minuten, ohne eine einzige Frage - er hatte entschieden, bevor er den Hoerer abnahm.
 
@@ -3016,7 +3016,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist ueber ihn und nicht ueber den Gegner.** Er schlaegt sein eigenes Notizbuch beim 5. Maerz auf und liest seine eigene Handschrift ueber die Verbandssatzung: ***"Mostly nothing. One clause about who may speak for the members in a dealing with a carrier."*** Er hat die einzige Rechtsstellung, die diese Frau besitzt, vor zwei Wochen in der Hand gehabt und *mostly nothing* danebengeschrieben. **Er reisst es nicht heraus und korrigiert es nicht.** Er schreibt das Datum darunter.
 
-- **Band 2, Kapitel 8** *Nobody sent me* (v1.4) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
+- **Band 2, Kapitel 8** *Nobody sent me* (v1.5) - **Tag 168, Fr 20. Maerz. Drei Szenen: der Donnerstagabend, die Fahrt, der Hof in Ulsan.**
 
   **Die Tuer steht im Brief selbst, und er findet sie erst beim vierten Lesen.** *"I want somebody to answer them."* **Nicht Du. Irgendwer.** Eine Frau, die zwanzig Jahre lang jeden Monat an dieselben sechs Leute schreibt, setzt kein Wort aus Versehen.
 
@@ -3119,7 +3119,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annies einzige Frage am Abend gilt nicht Mrs Sunwoo:** *"Say the fourth line to me again."* - *"No car. No dinner. No settlement. The house carried it."* - **"Yes. That is the one I want."**
 
-- **Band 2, Kapitel 11** *What she cannot prove* (v2.1) - **Tag 180, Mi 1. April. Vier Szenen: die verstrichene Woche, der Brief, das kleine Zimmer, und der Hof in Ulsan am selben Nachmittag.**
+- **Band 2, Kapitel 11** *What she cannot prove* (v2.2) - **Tag 180, Mi 1. April. Vier Szenen: die verstrichene Woche, der Brief, das kleine Zimmer, und der Hof in Ulsan am selben Nachmittag.**
 
   **Fassung 1 hiess *In my own hand* und liess ihn die Antwort schreiben. Am 23.08. vom Autor verworfen, aus zwei Gruenden, und beide stimmen.**
 
@@ -3149,7 +3149,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.3) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.4) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -3200,7 +3200,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die einzige Frage, die ein Sicherheitsmann stellt:** *"Is any part of this going to arrive at that gate."* Antwort: die eigenen sechs nehmen es ihr ab, sie werden im Recht sein und es fuer ihre eigene Idee halten, **und eine Frau, die alles an die Leute verloren hat, an die sie zwanzig Jahre lang am Ersten geschrieben hat, faehrt nicht vier Stunden an ein Tor. Sie geht nach Hause.** - **"That is worse," he said.** - *"Yes."*
 
-- **Band 2, Kapitel 13** *What it costs him* (v1.1) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
+- **Band 2, Kapitel 13** *What it costs him* (v1.2) - **Tag 188, Do 9. April. Zwei Szenen: Jangs Lieferung am Mittwoch, dann Yeongjong.**
 
   **Jangs vier Blatt sind der Beweis, dass die Maschine laeuft**, und sie sind konkret: ein Sohn an einer Universitaet in Australien und sieben Monate Restlaufzeit auf einem Kredit gegen den Hof; ein Teilhaber, der seit dem Tod seiner Frau heraus will und nur bleibt, weil es niemanden zum Verkaufen gibt; zwei Brueder, die seit 2019 nicht miteinander reden und beide mit der Frau des Juengeren; einer, der seit Februar still Arbeit von der Spur nimmt; ein Mann von vierzig, der die Firma im Herbst uebernommen hat und seither in keiner Sitzung ein Wort gesagt hat.
 
@@ -3226,7 +3226,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Letzte Zeile: **"That is a very short list as well."**
 
-- **Band 2, Kapitel 14** *Ask her* (v1.2) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
+- **Band 2, Kapitel 14** *Ask her* (v1.3) - **Tag 193, Di 14. April, dazu die Woche danach in Raffung.**
 
   **Das Verfahren ist Mrs Sunwoo, auf einen Mann mit neun Lastwagen angewendet:** ein wahrer Satz, dann aufhoeren. Sieben Jahre Ankerpapier, **fuenf Firmen und nicht sechs**, einer nach dem anderen, und der Erste setzt den Satz fuer die uebrigen vier. Aus dem Satz gestrichen hat er auf dem Sonntag das Wort *opportunity*.
 
@@ -3250,7 +3250,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Beobachter meldet nichts, was der Befund ist**, und dazu eine Zeile, um die niemand gebeten hat: am Samstagabend brannte das Licht ueber der Waage bis halb elf, und irgendwann kam sie heraus und sah eine Weile vier Lastwagen an.
 
-- **Band 2, Kapitel 15** *One word, and it was true* (v1.0) - **Tag 202, Do 23. April. Zwei Straenge an einem Nachmittag: die Suche in Seoul, dann der Anruf um zwanzig nach vier.**
+- **Band 2, Kapitel 15** *One word, and it was true* (v1.1) - **Tag 202, Do 23. April. Zwei Straenge an einem Nachmittag: die Suche in Seoul, dann der Anruf um zwanzig nach vier.**
 
   **Er ist nicht im Raum und es gibt keine Fassung, in der er es sein koennte.** Er hat es am Mittwochabend trotzdem vier Minuten lang geprueft.
 
@@ -3278,7 +3278,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Annie hat es ohne ihn mitverfolgt und sagt es auch:** *"I have had the Yeouido people watching the filings since Tuesday and I did not tell you, because you would have wanted to know why and the answer is that I wanted to see it happen."* Dann: *"Sit down and do not report to me. You do not have to and I have not asked."*
 
-- **Band 2, Kapitel 16** *A hand* (v1.1) - **Tag 204, Sa 25. April. Ein Tag am Schreibtisch, dann das kleine Zimmer.**
+- **Band 2, Kapitel 16** *A hand* (v1.2) - **Tag 204, Sa 25. April. Ein Tag am Schreibtisch, dann das kleine Zimmer.**
 
   **Mrs Sunwoos April traegt: seit dem 20. April nimmt das Haus keine Einlieferungen mehr an.** Ohne Ankuendigung - *"It tells the fourth person who telephones that the spring sale is under review, and by the eighth person it has stopped being a rumour."* Zwoelf Mittagessen seit dem 24. Maerz, und Georgij weiss die Zahl, weil ihr Kalender offen liegt, **und hat beim Nachsehen zweimal etwas empfunden, das er nicht benennt.**
 
@@ -3358,7 +3358,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und auf der Treppe faengt er sofort an**, und macht es richtig: die Liste wird nicht heute Abend geschrieben, sondern am Mittwoch, auf Papier, mit Daten, in der Reihenfolge der Mahlzeiten, *"because that is how a list stops being a feeling."* **Neun Mahlzeiten seit Oktober**, und eine davon ist der 18. November, und er weiss schon, was dort stehen wird, **und schreibt es trotzdem der Reihe nach hin.**
 
-- **Band 2, Kapitel 19** *The third time* (v1.1) - **Tag 209, Do 30. April. Der Hof in Ulsan zum dritten Mal, dazu der Mittwoch davor.**
+- **Band 2, Kapitel 19** *The third time* (v1.2) - **Tag 209, Do 30. April. Der Hof in Ulsan zum dritten Mal, dazu der Mittwoch davor.**
 
   **Die Liste der neun Mahlzeiten wird geschrieben und sofort durchgestrichen.** Annie hatte **met** gesagt, er hatte **eaten with** gehoert, *"and he had heard it because a list of nine meals is a thing a man can do in an hour at his own desk."* Getroffen hat er seit Oktober ueber vierhundert. **Der Mittwoch produziert nichts ausser einer genauen Vorstellung davon, wie viel es ist.**
 
@@ -3499,7 +3499,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Einloesung von Kapitel 20 steht am Schluss und ist der Grund, warum das Kapitel gebraucht wurde:** er hat nichts davon vorher entschieden. Er ging mit vier Daten und einer Adresse hin. **Den Rest entschied er im Stehen, in den vier Sekunden, in denen ein Achtundsechzigjaehriger sich erinnern musste, welche vier.** Und: *"Nobody put a ceiling on it, nobody is going to audit it, and there is no room he has to walk into afterwards and say what it cost."*
 
-- **Band 2, Kapitel 23** *Three of the four* (v1.2) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
+- **Band 2, Kapitel 23** *Three of the four* (v1.3) - **Tag 222, Mi 13. Mai, und der Donnerstag darauf. Drei Szenen: das Haus auf dem Huegel, das kleine Zimmer, und eine Entscheidung, die nicht faellt.**
 
   **Das Kapitel beginnt mit einem Versprechen, das er nicht halten kann, und er laesst es sich nicht als Formsache durchgehen.** Er hat Byun gesagt, die vier Kaeufer wuerden informiert. **Er erreicht drei. Der vierte ist der Mann, den er sucht.** *"He said a thing in a room that will be three quarters true, and Mr Byun will go to his grave not knowing which quarter, and the only person who is ever going to notice is Georgij."*
 
@@ -3783,7 +3783,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und um halb zwoelf sagt sie ein Wort laut, zu niemandem: "Yes."** Woraufhin, bleibt offen und soll offen bleiben.
 
-- **Band 2, Kapitel 31** *Nobody hides flowers* (v1.0) - **Tag 239, Sa 30. Mai. Zwei Szenen, der Schreibtisch vor sieben und ein Blumengeschaeft in Hyoja-dong.**
+- **Band 2, Kapitel 31** *Nobody hides flowers* (v1.1) - **Tag 239, Sa 30. Mai. Zwei Szenen, der Schreibtisch vor sieben und ein Blumengeschaeft in Hyoja-dong.**
 
   **Das Kapitel beginnt mit dem Anschluss an Kapitel 30:** er wacht um eins auf dem Boden des kleinen Zimmers auf, **mit einem Mantel ueber sich, der ihm nicht gehoert.** Um zehn vor sieben liegt der Mantel wieder ueber der Armlehne. Es wird kein Wort darueber gesagt.
 
@@ -3913,7 +3913,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.1) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v1.2) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -3927,7 +3927,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *Not the man, the four* (v1.2) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *Not the man, the four* (v1.3) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -3944,7 +3944,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.1) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *A piece of paper somewhere in the world* (v1.2) - **Tag 255, Mo 15. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -3956,7 +3956,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v1.1) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v1.2) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -3968,7 +3968,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.1) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v1.2) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -4014,7 +4014,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Six weeks before* (v1.0) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *Six weeks before* (v1.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -4026,7 +4026,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+- **Band 2, Kapitel 44** *A van that comes every ten days* (v1.2) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
 
   **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
 
@@ -7303,10 +7303,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 615 | 66 (b1ch01-b2ch44) | 1 | 74 |
-| Park Sang-hoon | 221 | 37 (b1ch10-b2ch44) | 1 | 74 |
+| Park Sang-hoon | 220 | 37 (b1ch10-b2ch44) | 1 | 74 |
 | Hana | 163 | 18 (b1ch09-b2ch11) | 1 | 74 |
 | Chairman Woo | 146 | 29 (b1ch07-b2ch26) | 1 | 74 |
-| Jang | 126 | 28 (b1ch05-b2ch44) | 2 | 60 |
+| Jang | 127 | 28 (b1ch05-b2ch44) | 2 | 60 |
 | Mr Hwang | 70 | 14 (b2ch07-b2ch43) | 3 | 59 |
 | Mrs Seo | 69 | 29 (b1ch03-b2ch37) | 1 | 74 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
@@ -8132,7 +8132,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Park Sang-hoon
 
-221 Nennungen in 37 Kapiteln.
+220 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -8344,8 +8344,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch42:198 | "Then say which one you are actually able to answer today." Sang-hoon set his cup down. .. |
 | 2 | b2ch42:210 | "That is an honest answer, and it is also the first time you have given me one that frig.. |
 | 2 | b2ch42:228 | He wrote them down exactly as Sang-hoon had given them, without deciding which one matte.. |
-| 5 | b2ch43:6 | He had promised Sang-hoon an answer in April, and it was July before he had one worth gi.. |
-| 5 | b2ch43:50 | Four years ago in March. Three years after that in October. Two tables, two hours, and b.. |
+| 5 | b2ch43:6 | He had promised Sang-hoon an answer at the end of May, and it was July before he had one.. |
+| 5 | b2ch43:50 | Four years ago in March. Three years after that in August. Two tables, two hours, and be.. |
 | 5 | b2ch43:74 | He closed the notebook a little after nine and telephoned Sang-hoon before he could deci.. |
 | 5 | b2ch43:86 | They met at the same table as Tuesday, because Sang-hoon had said on the telephone that .. |
 | 5 | b2ch43:98 | Sang-hoon's face did not move, and that itself was the answer, because his face had move.. |
@@ -8355,7 +8355,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:158 | "Find where a man decides something when there is no table and no bill to prove he was e.. |
 | 5 | b2ch43:218 | He did not take that as a reason to stop. He took it as a description of the work still .. |
 | 8 | b2ch44:6 | Sang-hoon had given him a question with two halves, and Georgij had spent the weekend de.. |
-| 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 8 | b2ch44:158 | "That the third reading I gave Sang-hoon at the restaurant was closer than the first two.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
@@ -8463,7 +8462,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:158` (Tag 5) - six
 - `b2ch43:218` (Tag 5) - one, three, two
 - `b2ch44:6` (Tag 8) - two
-- `b2ch44:26` (Tag 8) - three
 - `b2ch44:158` (Tag 8) - eleven, four, one, two
 
 ---
@@ -8949,7 +8947,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-126 Nennungen in 28 Kapiteln.
+127 Nennungen in 28 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -9070,6 +9068,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:132 | "Noted," said Annie quietly, and there was something in the one word that was almost war.. |
 | 2 | b2ch42:190 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
 | 8 | b2ch44:10 | Whether the woman was still alive, Jang had already answered in June, from a window and .. |
+| 8 | b2ch44:26 | He found the district's compliance list for the year of the doctor's July visit and sear.. |
 | 8 | b2ch44:54 | He telephoned Jang before he wrote anything more permanent than that. |
 | 8 | b2ch44:70 | Jang did not answer straight away, which was a thing Jang did when he was checking his o.. |
 | 8 | b2ch44:98 | Georgij wrote it down exactly as Jang had given it, the van first and the schedule secon.. |
@@ -9077,7 +9076,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch44:122 | Jang said nothing to that for a moment, and Georgij understood the silence was agreement.. |
 | 8 | b2ch44:126 | "There is one more thing," Jang said, before Georgij could end the call. "The van does n.. |
 | 8 | b2ch44:134 | "Because a fixed round tells you nothing about the person receiving it. A round that onl.. |
-| 8 | b2ch44:138 | "Understood," said Jang, and rang off. |
+| 8 | b2ch44:138 | "Understood," said Georgij, and Jang rang off. |
 | 8 | b2ch44:186 | "Jang thinks the van comes only when it is called for, not on a route," said Georgij. "I.. |
 
 ### Zahlen in der Naehe von Jang
@@ -9211,10 +9210,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch34:196 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
 | 57 | b2ch37:28 | He took the envelope to the small room and did not open it straight away. He sat with it.. |
 | 57 | b2ch37:80 | "You are not going to give this to Hwang," she said. It was not a question. |
-| 57 | b2ch37:216 | *H. 7:30.* A February two years later. Six weeks before Hwang was brought in to a house .. |
+| 57 | b2ch37:216 | *H. 7:30.* A late August, three years later. Six weeks before Hwang was brought in to a .. |
 | 59 | b2ch38:230 | "I have respected people," he said. "Hwang. Mrs Jeon. Byun, at the end, a little, though.. |
-| 5 | b2ch43:38 | *H. 7:30. October, three years later. Six weeks before Hwang was brought into a house th.. |
-| 5 | b2ch43:110 | "H. Half past seven, in October, three years after the first. Six weeks before a man cal.. |
+| 5 | b2ch43:38 | *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a ho.. |
+| 5 | b2ch43:110 | "H. Half past seven, in August, three years after the first. Six weeks before a man call.. |
 | 5 | b2ch43:122 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
 | 5 | b2ch43:134 | "You did not know Hwang was coming." |
 | 5 | b2ch43:138 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
@@ -9249,7 +9248,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch33:10` (Tag 45) - two
 - `b2ch33:214` (Tag 45) - one
 - `b2ch34:196` (Tag 46) - one
-- `b2ch37:216` (Tag 57) - six, two
+- `b2ch37:216` (Tag 57) - six, three
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:110` (Tag 5) - seven, six, three
 - `b2ch43:122` (Tag 5) - one, six
@@ -10162,7 +10161,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
 | 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
 | 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 5 | b2ch43:18 | He had already found Y in it, three weeks ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
 | 5 | b2ch43:130 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
 | 5 | b2ch43:182 | "Say where that would be, for a man like Choi." |
 | 8 | b2ch44:210 | "I looked at K again as well, before I came up," he said. "A club membership list is a k.. |
@@ -10178,7 +10177,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch36:60` (Tag 51) - eleven, four, one, thirty
 - `b2ch36:136` (Tag 51) - three
 - `b2ch39:136` (Tag 61) - one
-- `b2ch43:18` (Tag 5) - one, three
+- `b2ch43:18` (Tag 5) - one
 - `b2ch43:130` (Tag 5) - one, six
 
 ---

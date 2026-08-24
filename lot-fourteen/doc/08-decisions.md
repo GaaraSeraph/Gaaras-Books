@@ -905,3 +905,35 @@ Mitgezogen: `CLAUDE.md`, `README.md`, `chapters-2/README.md` und die Liste der
 erzeugten Dateien in `.github/workflows/build.yml` - **letzteres ist die Stelle,
 die es sonst still zerlegt haette**, weil der Workflow nur zurueckschreibt, was
 namentlich in dieser Liste steht.
+
+
+---
+
+## Zwei Trenner, entschieden am 24.08.
+
+Die Quelldateien hatten einen Trenner fuer zwei verschiedene Dinge. In Band 2
+steht  alle fuenfeinhalb Zeilen; das ist ein **Takt** zwischen zwei
+Bloecken. Zweimal im Kapitel ist derselbe Strich aber eine **Szenengrenze**.
+Markdown kennt den Unterschied nicht und hat aus beidem eine Trennlinie
+gemacht: 2450 Stueck in der Lesefassung von Band 2.
+
+**Ab jetzt:**
+
+-  ist der Takt. In  faellt er weg, die Absatzleerzeile
+  traegt ihn. In  bleibt er das zentrierte Ornament, in  wird er
+  wie bisher zu .
+-  ist die Szenengrenze. In  und in  ist er ein
+  Strich, in  ein langer Gedankenstrich.
+
+**Gesetzt sind sie nach den Szenenbeschreibungen in diesem Dokument**, nicht
+nach Gefuehl:  sagt je Kapitel, aus wie vielen Szenen es
+besteht und welche das sind. Band 2 hat danach **zweiunddreissig** Grenzen in
+vierundvierzig Kapiteln. Ein Automatismus wurde versucht und verworfen - er traf
+vier von vierundvierzig Kapiteln richtig.
+
+**Offen:** Band 1 hat noch keine Szenengrenzen. Dieselbe Arbeit, vierunddreissig
+Kapitel, dieselbe Quelle.
+
+**Und die Probe, die dazugehoert:** Die Zahl der  in einem Kapitel muss
+der Szenenzahl aus diesem Dokument minus eins entsprechen. Das laesst sich
+maschinell pruefen und tut es noch nicht.

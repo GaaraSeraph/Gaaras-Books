@@ -85,6 +85,9 @@ blockquote p{ margin:0 0 0.85rem; }
 blockquote p:last-child{ margin-bottom:0; }
 em{ font-style:italic; }
 hr{ border:0; height:1.9rem; margin:2rem 0 2.1rem; position:relative; }
+hr.scene{ height:0; border-top:1px solid var(--rule); margin:2.6rem auto 2.7rem;
+  width:38%; }
+hr.scene::after{ content:none; }
 hr::after{
   content:"\\00B7 \\00B7 \\00B7"; position:absolute; inset:0; display:flex;
   align-items:center; justify-content:center; letter-spacing:0.75em;
@@ -188,7 +191,9 @@ def parse(text, fname, band=1, blabel=""):
         flush_quote()
         if not s:
             continue
-        if re.match(r"^-{3,}$", s):
+        if s == "* * *":
+            body.append('<hr class="scene">')
+        elif re.match(r"^-{3,}$", s):
             body.append("<hr>")
         elif s.startswith("## "):
             body.append("<h2>%s</h2>" % esc(s[3:].strip()))
