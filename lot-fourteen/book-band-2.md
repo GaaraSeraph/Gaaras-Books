@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 46 Kapitel, 106.968 Woerter.
+Book Two, 46 Kapitel, 107.814 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -46,10 +46,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 33 | v1.1 | 2.021 |
 | 34 | v1.2 | 2.261 |
 | 35 | v1.2 | 2.050 |
-| 36 | v2.0 | 3.312 |
+| 36 | v2.0 | 3.317 |
 | 37 | v2.0 | 3.913 |
 | 38 | v2.0 | 2.888 |
-| 39 | v1.3 | 2.101 |
+| 39 | v2.0 | 2.942 |
 | 40 | v1.1 | 2.002 |
 | 41 | v1.1 | 2.299 |
 | 42 | v1.1 | 2.025 |
@@ -7582,7 +7582,9 @@ The second one is shorter and it is going to get longer.
 
 *Who knows that somebody is asking.*
 
-*Mrs Gwak, since the thirtieth of May. A clerk with a reservation book. Two practices on the telephone who do not know what for. A man in Bundang who has never heard of me.*
+*Mrs Gwak, since the thirtieth of May, and the girl who was filling buckets at the back of that shop while we talked.*
+
+*Whoever at that home outside Wonju has now taken a telephone call asking who lives there.*
 
 *Annie, thirty-one times, and every one of them believes it was a woman being polite about a dinner.*
 
@@ -8120,8 +8122,8 @@ He wanted to be sure of it for a day before he handed it to anybody, including h
 
 ---
 
-# Book Two · Chapter 39: A room that is somebody else's now
-*Lot Fourteen* · Version 1.3 · EN
+# Book Two · Chapter 39: The man kitchens talk to
+*Lot Fourteen* · Version 2.0 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -8269,7 +8271,75 @@ He thought about the shed, and the way Sang-hoon had said the name flatly, witho
 
 She closed the notebook and handed it back to him.
 
-"Go and eat something," she said. "You have spent your whole Friday finding out that a man you have never met is exactly as careful as we already knew he was." She looked at him a moment longer. "That fact is not going to get any lighter for being carried on an empty stomach."
+Georgij did not put it away.
+
+"There is one more thing and I have been carrying it since four o'clock," he said. "I wanted to have looked at it properly before I put it in front of you, because the first time I looked at it I liked it too much."
+
+"Then say it badly and we will tidy it afterward."
+
+"The one who was not Choi ate his dinner, complimented the wine, asked what went into the sauce, and thanked the cook by name." He stayed where he was. "A cook who served him once, eleven months ago, on a night he has had no reason to think about since, gave me all four of those without being pressed."
+
+Annie did not say anything, which is how she asks him to keep going.
+
+"A man doing that work is supposed to be nobody," said Georgij. "The whole of his value is that afterward nobody can describe him. Every professional I have met this year has been forgettable on purpose, and the one at that table made a stranger remember him for eleven months and did it while paying attention to a sauce."
+
+"Say why he does it."
+
+"Because he cannot help it. He is pleasant to the people who bring the plates, and he wants them to like him, and he has wanted that for long enough that it has stopped being a decision." Georgij looked at the closed notebook. "It is the only weakness anybody on that side has shown me all year."
+
+Annie came round the desk and stood where she could see his face.
+
+"Then you have a road."
+
+"I have a road. Cooks move, and they move inside the same trade, and a cook who has been thanked by name remembers it for years because it almost never happens to him." He said it evenly, because the next half was the part he had spent two hours not liking. "Four years of private rooms is a great many kitchens, and I would need to ask perhaps six of them before one of them says yes, that man, he asked me about the stock."
+
+"And."
+
+"And the road to him is the road he walks." Georgij put the notebook down on the desk between them, closed. "Every kitchen I ask is a kitchen that talks to other kitchens. The man I am asking about is the man kitchens talk to. There is no version of this where I go looking for him along the one path he is standing on and he does not eventually hear his own description coming back at him."
+
+The room did what it does.
+
+"Then you have found the fastest road and it is also the loudest," said Annie.
+
+"Yes."
+
+"Are you going to walk it."
+
+"Yes," said Georgij. "Somebody walked into that woman's restaurant in April and left again as soon as he was satisfied it was empty. That is what happens to the rooms I am slow about, and I am not going to be careful at the expense of the next kitchen he gets to first and call it discipline."
+
+Annie let that sit exactly as long as it deserved and no longer.
+
+"Then put a number on it before you start."
+
+"Six kitchens."
+
+"Say it as a sentence."
+
+"Six kitchens, and if six do not produce him, I stop and I find another road." He did not hedge it. "Not seven. Not six and then one more because the sixth was promising."
+
+"Six," said Annie. "And you will want it to be seven in about ten days."
+
+"Probably sooner."
+
+"Then write down tonight what you are going to do when you want it to be seven." She picked her pen up and did not use it, which is the thing she does instead of pointing. "Not in ten days, when you want it. Tonight, while it costs you nothing to be honest about it."
+
+He wrote it at the desk in the small room, on the first page, with the date against it, in the flattest sentence he could build.
+
+*Six kitchens, from Monday. When I want a seventh I will stop and tell her that I want one, before I go, and she will not have to notice.*
+
+Then he turned to the second page and added the two that Friday had cost him.
+
+*Mr Sohn, since four o'clock, and he is a cook, and cooks talk to cooks.*
+
+*A woman with a headset in a restaurant near Sinsa, who has now been asked twice by two different men about the same dinner, and who will remember the second one better than the first.*
+
+He looked at the two pages next to each other for a while, the way he had on Tuesday.
+
+Page two is longer than it was on Tuesday. Page one is not.
+
+*The second page is filling faster than the first one, and it has been doing that since the day I stopped waiting to be sent.*
+
+*I do not think that is going to stop being true. I would like it written down that I knew it on the nineteenth and went to Monday's kitchen anyway.*
 
 ---
 

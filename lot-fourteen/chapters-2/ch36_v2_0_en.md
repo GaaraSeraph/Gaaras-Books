@@ -438,7 +438,9 @@ The second one is shorter and it is going to get longer.
 
 *Who knows that somebody is asking.*
 
-*Mrs Gwak, since the thirtieth of May. A clerk with a reservation book. Two practices on the telephone who do not know what for. A man in Bundang who has never heard of me.*
+*Mrs Gwak, since the thirtieth of May, and the girl who was filling buckets at the back of that shop while we talked.*
+
+*Whoever at that home outside Wonju has now taken a telephone call asking who lives there.*
 
 *Annie, thirty-one times, and every one of them believes it was a woman being polite about a dinner.*
 
