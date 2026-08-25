@@ -154,8 +154,11 @@ Sie kennt zwei Faelle von vor dieser Seite, beide Beteiligten tot. **Was Hwang
 gefunden hat, war nur, was jemand aufgeschrieben hatte.**
 
 **Damit ist es keine Bloesse mehr, sondern ein Betrug**, und das ist juristisch
-wie erzaehlerisch etwas anderes: *"A person with a secret has to be quiet and a
-person who has been cheated does not."* **Wer kuenftig schreibt, der Eintrag sei
+wie erzaehlerisch etwas anderes. **Mrs Sunwoo sagt es in Kapitel 10 selbst, und
+sie sagt es schaerfer, als eine Merkregel es koennte:** *"a woman of eighty-one
+who has been personally cheated is the most credible witness in this city, and
+the moment there are two of us it becomes a dispute."* Wer betrogen wurde, muss
+nicht schweigen - wer nur ein Geheimnis hat, schon. **Wer kuenftig schreibt, der Eintrag sei
 geloescht, schreibt gegen den Text.** Der Mann mit dem Werkzeug koennte am Dienstag da
 sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht

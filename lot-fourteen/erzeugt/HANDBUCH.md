@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 226.326 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 226.830 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -110,6 +110,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Zwei Arbeitsregeln, die diese Sitzung teuer gelernt hat](#zwei-arbeitsregeln-die-diese-sitzung-teuer-gelernt-hat)
   - [Zuerst: das Ziel war defensiv, und das war die Krankheit](#zuerst-das-ziel-war-defensiv-und-das-war-die-krankheit)
   - [Das Ziel, neu](#das-ziel-neu)
+  - [1. Die fuenf Firmen der Ulsan-Spur](#1-die-fuenf-firmen-der-ulsan-spur)
+  - [2. Annies *"You will in about a month."*](#2-annies-you-will-in-about-a-month)
   - [1. Das Geld: der Trust und Baek Jun-ho](#1-das-geld-der-trust-und-baek-jun-ho)
   - [2. Die Haende: Sim und die Mittelsmaenner](#2-die-haende-sim-und-die-mittelsmaenner)
   - [3. Der Tisch: die dreiundzwanzig Jahre](#3-der-tisch-die-dreiundzwanzig-jahre)
@@ -2547,8 +2549,11 @@ Sie kennt zwei Faelle von vor dieser Seite, beide Beteiligten tot. **Was Hwang
 gefunden hat, war nur, was jemand aufgeschrieben hatte.**
 
 **Damit ist es keine Bloesse mehr, sondern ein Betrug**, und das ist juristisch
-wie erzaehlerisch etwas anderes: *"A person with a secret has to be quiet and a
-person who has been cheated does not."* **Wer kuenftig schreibt, der Eintrag sei
+wie erzaehlerisch etwas anderes. **Mrs Sunwoo sagt es in Kapitel 10 selbst, und
+sie sagt es schaerfer, als eine Merkregel es koennte:** *"a woman of eighty-one
+who has been personally cheated is the most credible witness in this city, and
+the moment there are two of us it becomes a dispute."* Wer betrogen wurde, muss
+nicht schweigen - wer nur ein Geheimnis hat, schon. **Wer kuenftig schreibt, der Eintrag sei
 geloescht, schreibt gegen den Text.** Der Mann mit dem Werkzeug koennte am Dienstag da
 sein. **Wer kuenftig schreibt, das Halsband stehe fuer Besitz, schreibt gegen den
 Text**: seit dem 1. Maerz steht es fuer gar nichts ausser dafuer, dass er es nicht
@@ -7253,6 +7258,62 @@ Aufsichtsrat, ist in keinem Geschaeftsbericht zu finden - er gibt Abendessen."*
 **Und die Symmetrie traegt den ganzen Band:** Georgij besitzt nichts und
 ueberlebt es. Choi besitzt nichts und ist genau deshalb vollstaendig
 zerstoerbar.
+
+---
+
+## Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen
+
+**Am 25.08. beim Abgleich der Schuldenliste gegen den Text gefunden, und sie
+stehen hier vorn, weil sie unten in der Liste vier Monate lang niemand gesehen
+hat.** Beide sind Zusagen an **Annie**, beide von Georgij, und beide sind
+laenger ueberfaellig als jeder andere Posten.
+
+### 1. Die fuenf Firmen der Ulsan-Spur
+
+**Zugesagt in Kapitel 12, Freitag dem 3. April, ungefragt und von ihm selbst:**
+
+> *"There are six firms in that association and one of them is hers. When it is
+> over the other five will be yours, completely, not as customers and not as an
+> arrangement."*
+
+**Was der Text bisher zeigt:** der Mechanismus laeuft in 13 und 14 - Woos
+Anwalt schreibt alle fuenf an, *"By the Monday all five had written back to the
+lawyer"* - und Nam ist am 23. April erledigt (Kapitel 21: *"By the
+twenty-third of April she had lost the chair of her association"*).
+
+**Was der Text nicht zeigt:** die Uebereignung. Nach Kapitel 24 kommt der
+Verband in **vierundvierzig Kapiteln** nicht mehr vor.
+
+**Warum es nicht nachgereicht werden kann, ohne dass es etwas kostet:** Der
+Eintrag in der Schuldenliste sagt es selbst - ohne die fuenf war es *ihr Monat
+fuer seine Gefuehle*, und er sagt das dort auch so. Es sind **alle fuenf**, nicht
+vier und nicht die zwei leichten. **Jang hat den Weg in jede einzelne in vier
+Blatt geliefert, ungefragt** - das Material liegt also bereit und wird nicht
+benutzt.
+
+### 2. Annies *"You will in about a month."*
+
+**Kapitel 5, Mittwoch der 11. Maerz, faellig Anfang April:**
+
+> *"I am not giving you this because you have earned it this afternoon. Some of
+> this afternoon was very expensive."* - *"I know what it cost."* - **"You do
+> not yet. You will in about a month."**
+
+**Sie weiss dort etwas, das er nicht weiss, und der Text schuldet die
+Aufloesung.** Am 25.08. den ganzen Band abgesucht: die Wendung *in about a
+month* steht genau noch einmal, in Kapitel 49 aus **Mrs Baes** Mund
+(*"you are going to want to, in about a month"*) - andere Sache, andere Person.
+**Kein Rueckbezug in dreiundsechzig Kapiteln.**
+
+**Die Regel dazu steht in der Schuldenliste und gilt weiter:** wenn Annie es
+sagt, weiss sie es. Sie darf sich nicht geirrt haben, und es darf nicht als
+Stimmung stehenbleiben. Der Kandidat, der nach der Neufassung am besten passt,
+ist unveraendert: die Auskunft ueber Hanseong, die Sang-hoon am 11. Maerz
+bekommen hat, kommt zurueck - er hat seither das vollstaendige Bild davon, wie
+Georgij arbeitet, und er ist der Einzige, der es hat.
+
+**Beide Posten stehen ausfuehrlich in der Schuldenliste weiter unten** unter
+*Faelliges mit Datum*; hier steht nur, was zum Weiterschreiben gebraucht wird.
 
 ---
 
