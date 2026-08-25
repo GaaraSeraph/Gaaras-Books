@@ -155,7 +155,28 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    ist eine Entscheidung und keiner ein Fehler - das Skript entscheidet die
    Machtlage nicht und darf es nicht.
 
-5. **Erzaehlerformeln.** *"did not soften"* und *"did not look away"* sind
+5. ~~**Erzaehlerformeln.**~~ **Erledigt fuer Band 1 am 25.08. - und der Befund
+   ist, dass Band 1 nie das Problem war.** Gezaehlt ueber beide Baende:
+
+   | | Band 1 (34 Kap.) | Band 2 (70 Kap.) |
+   |---|---|---|
+   | *did not soften* | 5 | **12** |
+   | *did not look away* | 6 | **10** |
+   | *without any … in it at all* | **1** | **9** |
+
+   **Und in Band 2 stehen sie geballt in den neuesten Kapiteln:** K67 bis K70
+   tragen allein **dreizehn** der zweiundzwanzig. **Die Formel wird gerade neu
+   angelegt, waehrend hier steht, dass sie abgebaut wird.** Das gehoert der
+   Schreibsitzung und nicht mir.
+
+   In Band 1 angefasst wurde genau eine Stelle, und die war doppelt: b1 K18 hatte
+   *"He said it flatly and did not soften it."* - Ton **und** Formel in einem
+   Beat, und vierzig Zeilen weiter noch ein *"He did not soften it."* Der
+   doppelte ist raus, der einzelne steht.
+
+   Der urspruengliche Eintrag lautete:
+
+   *"did not soften"* und *"did not look away"* sind
    **in Band 2, Kapitel 1 bis 34 erledigt** (24.08., 39 Stellen: 25
    zusammengelegt, 10 neue Beats, 2 im Erzaehltext, 2 behalten). Beide stehen
    danach unter der Schwelle und fallen aus dem Bericht.
@@ -270,7 +291,34 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
     und nicht rechnen** - die verbleibenden 2220 sind nicht mehr mechanisch
     trennbar.
 
-11. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
+11. ~~**Der Ton-etikettierende Beat.**~~ **Erledigt am 25.08.** Band 2 lief im
+    August, Band 1 jetzt: **zweiunddreissig reine Ton-Etiketten entfernt** aus
+    einundzwanzig Kapiteln.
+
+    **Die Probe war dieselbe wie in Band 2:** ein Ton-Beat verdient seinen
+    Platz, wenn er **etwas anderes tut als den Ton zu benennen** - einen Grund
+    (*because it did not need one*), einen Vergleich (*in the same courteous
+    register he had used for the cameras*), ein empfangenes Urteil (*which he
+    liked*), eine Richtung (*to the water*), ein Tempo (*immediately*), oder
+    eine Gegenueberstellung, die traegt (*He said it kindly* - nach dem Auge auf
+    dem Kies).
+
+    Gefallen sind die, die **nur** den Ton nennen - *plainly, flatly, levelly,
+    without any weight* - und in Reichweite ohnehin etwas Koerperliches haben.
+
+    **Band 1 war dabei deutlich besser als Band 2:** von 102 Stellen trugen 29
+    von sich aus etwas, und von den uebrigen sind rund fuenfzehn ebenfalls
+    stehengeblieben, weil sie Richtung, Tempo oder Wiederholung angeben und
+    nicht Ton. **Kein einziger Beat wurde erfunden** - jede Stelle ist ein
+    Zusammenlegen der zwei Redeteile.
+
+    Stand danach: **Band 1 69 Ton-Beats, 2,0 je Kapitel, 0,68 je 1000 Woerter.
+    Band 2 140, 2,0 je Kapitel, 0,81.** Die beiden Baende liegen damit erstmals
+    gleichauf, und Band 1 ist die duennere Haelfte.
+
+    Der urspruengliche Eintrag lautete:
+
+    **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
     Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
     sondern zwei Mitglieder einer Familie: **ein eigener Satz, dessen einzige
     Aufgabe es ist, den Ton der eben gesprochenen Replik zu etikettieren.**

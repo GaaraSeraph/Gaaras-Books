@@ -1100,3 +1100,65 @@ ersten in den zweiten Redeblock gerueckt, damit zwischen Sang-hoons beiden
 Bloecken der koerperliche Beat steht (Grundregel 5). Der Satz sagt dasselbe an
 derselben Stelle des Gedankens - aber es ist eine Umstellung und keine reine
 Einfuegung, deshalb steht sie hier.
+
+---
+
+### Band 1: die Ton-Etiketten, und der Befund ist, dass Band 1 nicht das Problem war
+
+**Zweiunddreissig reine Ton-Etiketten entfernt** aus einundzwanzig Kapiteln,
+dazu eine doppelte Formel in b1 K18.
+
+**Meldung 1 - gestrichene Beats.** Alle zweiunddreissig sind **Zusammenlegungen
+zweier Redeteile**, kein Sprecherwechsel wird dadurch unklar - der Sprecher
+steht in beiden Faellen im selben Absatz:
+
+> vorher: *"I'm what it costs." He said it without any particular weight on it.
+> "There's nothing else of mine anywhere in the world."*
+> jetzt: *"I'm what it costs. There's nothing else of mine anywhere in the
+> world."*
+
+Zwei standen als **eigener Absatz** und sind ganz gefallen (b1 K26 *"He said it
+without a single softening word in it anywhere."*, b1 K18 der doppelte).
+
+**Meldung 2, 3 und 4:** keine. **Gegenprobe `faktenspur.py`:** sieben Kapitel,
+und jede Meldung ist derselbe Posten - `Georgij` um eins oder zwei niedriger,
+weil in den gestrichenen Beats sein Name stand.
+
+**Was geblieben ist und warum.** Von 102 Stellen trugen 29 von sich aus etwas.
+Von den uebrigen sind rund fuenfzehn ebenfalls stehengeblieben, weil sie nicht
+den Ton angeben, sondern etwas anderes:
+
+| bleibt | weil |
+|---|---|
+| *He said it kindly.* (b1 K02, nach dem Auge auf dem Kies) | Gegenueberstellung, und sie ist das Grauen |
+| *He said it courteously.* (b1 K01) | Rueckgriff - sie hat ihm die Hoeflichkeit gerade verboten |
+| *He said it immediately.* (b1 K18) | Tempo, und die Schnelligkeit ist die Antwort |
+| *He said it to the water.* (b1 K24) | Richtung |
+| *She said it again.* (b1 K24) | Wiederholung |
+| *She said it to Annie and not to him.* (b1 K15) | Adressat |
+| *She said it flatly and it was not flat underneath.* (b1 K31) | die zweite Haelfte |
+| *She said it kindly. She was going to be kind about it for the rest of her life, and it was going to cost him every time.* (b1 K09) | der Satz danach |
+
+**Kein einziger Beat wurde erfunden.**
+
+**Stand:** Band 1 **69** Ton-Beats, 2,0 je Kapitel, **0,68 je 1000 Woerter**;
+Band 2 **140**, 2,0 je Kapitel, 0,81. Erstmals gleichauf, und Band 1 ist die
+duennere Haelfte.
+
+#### Und der eigentliche Befund, der nicht Band 1 betrifft
+
+| | Band 1 (34 Kap.) | Band 2 (70 Kap.) |
+|---|---|---|
+| *did not soften* | 5 | **12** |
+| *did not look away* | 6 | **10** |
+| *without any … in it at all* | **1** | **9** |
+
+**In Band 2 stehen sie geballt in den neuesten Kapiteln: K67 bis K70 tragen
+allein dreizehn der zweiundzwanzig.** *did not look away* steht achtmal in
+diesen vier Kapiteln.
+
+**Die Formel wird gerade neu angelegt, waehrend in `doc/09` steht, dass sie
+abgebaut wird.** Das gehoert der Schreibsitzung, nicht dem Stil-Durchgang, und
+es ist der Grund, warum Punkt 5 dort jetzt mit der Zahl statt mit einer Absicht
+steht: **ein Posten, der nach jedem Durchgang wieder auflaeuft, ist keine
+Aufraeumarbeit, sondern eine Gewohnheit beim Schreiben.**

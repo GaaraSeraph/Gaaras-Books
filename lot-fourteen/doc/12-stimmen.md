@@ -587,10 +587,22 @@ Wagentür, in derselben Reihenfolge wie in K33.
 **Stand: Band 1 sechs, Band 2 zwei.** Sparsam und an der Bandgrenze, also genau
 dort, wo die Linie abgerissen war.
 
-**Was daran festgelegt ist:** die Anrede ist keine Höflichkeit, sondern ein
-Tausch. **Wer sie einsetzt, setzt beide Hälften.** Eine allein gegebene Anrede
-ist im Buch das Gegenteil - sie ist das, was Georgij den ganzen Band 1 lang tut
-und nicht zurückbekommt.
+**Was daran festgelegt ist, und der Autor hat es am 25.08. eingegrenzt:**
+
+> *"Mr Georgij nennen mich nur einige wenige Menschen."*
+
+**Es ist keine Anredeform, es ist eine Liste.** Vier Personen im ganzen Buch:
+**Kim Ye-rin** (die erste, b1 K30 und K32), **Hana** (b1 K31), **Park Sang-hoon**
+(b1 K33 zweimal, b2 K04 zweimal) und **Mr Chae** (b1 K34). Sonst niemand, und
+**wer sie einer fünften Figur gibt, macht aus einer Auszeichnung eine
+Höflichkeitsform.**
+
+Woo sagt sie nicht. Mrs Sunwoo sagt *"Young man."* Annie sagt den Vornamen. Der
+Haushalt sagt gar nichts. **Das ist kein Versehen, das ist die Skala.**
+
+**Und die Anrede ist ein Tausch, keine Höflichkeit. Wer sie einsetzt, setzt
+beide Hälften.** Eine allein gegebene Anrede ist im Buch das Gegenteil - sie ist
+das, was Georgij den ganzen Band 1 lang tut und nicht zurückbekommt.
 
 **Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
 wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
