@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.618 Woerter.
+Book Two, 68 Kapitel, 169.002 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -66,7 +66,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 53 | v1.3 | 2.548 |
 | 54 | v1.2 | 2.862 |
 | 55 | v1.2 | 2.060 |
-| 56 | v1.3 | 2.328 |
+| 56 | v1.4 | 2.712 |
 | 57 | v1.2 | 2.870 |
 | 58 | v1.4 | 2.353 |
 | 59 | v1.3 | 2.239 |
@@ -11774,7 +11774,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 ---
 
 # Book Two · Chapter 56: Four streets
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -11851,6 +11851,42 @@ The story is not long and Mr Ahn did not decorate any of it, and Georgij underst
 The debt was his. Not hers, and he said that first, before anything else, and he said it in a voice that had said it to himself a great many times.
 
 A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippines. It came to Mr Ahn in the second week of January, with a figure that had grown twice on the way.
+
+"Sixty-one million and four hundred thousand," said Mr Ahn.
+
+He said it the way he says a price for a bearing, and then he said the rest of it, and that was not the same.
+
+"I could've got to about half of it in two years. Three, if the summer went badly." He turned the fan housing a quarter turn and stopped. "I've had four years to wonder if they'd have taken half. I don't know. I never asked them, so I never will."
+
+"What did the consignment realise."
+
+"Sixty-one million and four hundred thousand."
+
+Georgij did not move.
+
+"To the won," said Mr Ahn. "There's nothing on top of it. Not one won." He pulled the drawer under the bench half open and pushed it shut again. "The paper's in there. I've looked at it about nine hundred times."
+
+* * *
+
+Georgij stood in a repair shop and did the thing he does, and did it silently, and did not like where it went.
+
+*A consignment is not an auction. Nobody bid. There was no room and nobody raised a hand and there was no second person in it who wanted her.*
+
+*Somebody named a figure that was already written down, because the figure was the whole of what the family needed, and a woman who solves the thing in front of her does not haggle about her own number.*
+
+*And the striking-out was never invoiced to anybody. On the other three lines there is a fee, because somebody came back later and paid to have an entry taken away.*
+
+*Nobody paid a fee for hers, because it was not a service. It was a term.*
+
+*He did not buy a person. He bought a person who does not appear anywhere, and the second half of that came free with the first.*
+
+* * *
+
+He has been in a room three floors under an empty shopping complex in Gangnam where a woman at the back raised her hand and said a number.
+
+He did not do the arithmetic in the shop, and he did not do it in the car, and he had it anyway before he got to the end of the street.
+
+A bit over a quarter.
 
 "They weren't the sort who break things," he said. "They were the sort who sit in the shop. Three afternoons. Bought a fan off me on the second one and paid for it, and I gave them the guarantee card with it, because that's what you do."
 

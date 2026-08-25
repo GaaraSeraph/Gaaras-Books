@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 222.808 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 223.127 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5289,7 +5289,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.3) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.4) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -5299,6 +5299,31 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   sich darin nie um mehr als ein Jahr. **Faellig fuer den Inhalts-Chat:** Mr Ahn
   ist neununddreissig, nicht fuenfundvierzig, falls das Geburtstagsregister es
   schon anders fuehrt.
+
+  **v1.4 am 25.08.: was fuer sie bezahlt wurde.** Frage des Autors, und der Text
+  hat es in sechsundfuenfzig Kapiteln nie gesagt.
+  - **Die Schuld: einundsechzig Millionen vierhunderttausend Won.** Eine
+    Buergschaft auf einen Werkstattmietvertrag, zweimal gewachsen. Mr Ahn nennt
+    die Zahl aus dem Kopf und sagt sie zweimal.
+  - **Die Konsignation hat exakt dieselbe Summe erloest. Auf den Won. Nichts
+    darueber.**
+  - **Und daraus faellt der Mechanismus, den der Text bisher nur in Teilen hatte:**
+    eine Konsignation ist keine Versteigerung. Niemand hat geboten, es gab keinen
+    Raum und keinen zweiten Interessenten. Jemand hat eine Zahl genannt, die schon
+    aufgeschrieben war, weil sie genau das Loch war, das die Familie hatte.
+  - **Und damit erklaert sich Kapitel 10:** ihre Zeile ist die einzige der vier,
+    die **nie fakturiert** wurde. Bei den anderen drei steht eine Gebuehr, weil
+    jemand spaeter kam und fuer eine Loeschung bezahlt hat. **Bei ihr war die
+    Streichung keine Leistung, sondern eine Bedingung des Verkaufs.** *"He did not
+    buy a person. He bought a person who does not appear anywhere, and the second
+    half of that came free with the first."*
+  - **Die Rechnung, die Georgij nicht aufschreibt:** er ist selbst fuer
+    zweihundertzwanzig Millionen weggegangen, mit Bietern in einem Raum. Sie fuer
+    einundsechzig Komma vier. Er macht es nicht im Laden und nicht im Wagen und
+    hat es trotzdem vor dem Ende der Strasse. **"A bit over a quarter."**
+  - **Faellig fuer den Inhalts-Chat:** die Zahl gegen `doc/04-world.md` pruefen -
+    ob eine Buergschaft dieser Groesse zu einer Werkstatt in dieser Gegend passt,
+    und ob die Hausprovision irgendwo auftauchen muss.
 
 
 - **Band 2, Kapitel 57** *Nobody paid* (v1.2) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
@@ -13651,7 +13676,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Yeom | 51 | 7 (b2ch24-b2ch55) | 5 | 46 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
-| Mr Ahn | 33 | 3 (b2ch56-b2ch63) | 18 | 29 |
+| Mr Ahn | 35 | 3 (b2ch56-b2ch63) | 18 | 29 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
@@ -16807,7 +16832,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ahn
 
-33 Nennungen in 3 Kapiteln.
+35 Nennungen in 3 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -16816,15 +16841,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 18 | b2ch56:98 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
 | 18 | b2ch56:132 | The story is not long and Mr Ahn did not decorate any of it, and Georgij understood abou.. |
 | 18 | b2ch56:140 | A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippin.. |
-| 18 | b2ch56:160 | "Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down .. |
-| 18 | b2ch56:168 | "Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved t.. |
-| 18 | b2ch56:184 | Mr Ahn did not answer straight away. |
-| 18 | b2ch56:204 | "Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot numbe.. |
-| 18 | b2ch56:244 | "So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the r.. |
-| 18 | b2ch56:302 | Mr Ahn stood up from the stool and did not come round the bench. |
-| 18 | b2ch56:326 | Mr Ahn put one hand on the bench. |
-| 18 | b2ch56:338 | At the door there was one more thing, and it was Mr Ahn who did it. |
-| 18 | b2ch56:354 | "You have stood in my shop for twenty minutes and you have not once told me a lie and yo.. |
+| 18 | b2ch56:144 | "Sixty-one million and four hundred thousand," said Mr Ahn. |
+| 18 | b2ch56:168 | "To the won," said Mr Ahn. "There's nothing on top of it. Not one won." He pulled the dr.. |
+| 18 | b2ch56:220 | "Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down .. |
+| 18 | b2ch56:228 | "Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved t.. |
+| 18 | b2ch56:244 | Mr Ahn did not answer straight away. |
+| 18 | b2ch56:264 | "Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot numbe.. |
+| 18 | b2ch56:304 | "So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the r.. |
+| 18 | b2ch56:362 | Mr Ahn stood up from the stool and did not come round the bench. |
+| 18 | b2ch56:386 | Mr Ahn put one hand on the bench. |
+| 18 | b2ch56:398 | At the door there was one more thing, and it was Mr Ahn who did it. |
+| 18 | b2ch56:414 | "You have stood in my shop for twenty minutes and you have not once told me a lie and yo.. |
 | 25 | b2ch60:70 | *Mr Ahn sat in a shop on a corner for four years with his sister's name in his mouth, on.. |
 | 29 | b2ch63:20 | The bell went and Mr Ahn looked up and did not stand. |
 | 29 | b2ch63:44 | "Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the clot.. |
@@ -16849,12 +16876,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b2ch56:98` (Tag 18) - four, thirty-five, thirty-one
 - `b2ch56:132` (Tag 18) - four, one
-- `b2ch56:160` (Tag 18) - four, one
-- `b2ch56:168` (Tag 18) - four, thirty-one
-- `b2ch56:204` (Tag 18) - four
-- `b2ch56:326` (Tag 18) - one
-- `b2ch56:338` (Tag 18) - one
-- `b2ch56:354` (Tag 18) - twenty
+- `b2ch56:144` (Tag 18) - sixty-one million and four hundred thousand
+- `b2ch56:168` (Tag 18) - nine hundred, one
+- `b2ch56:220` (Tag 18) - four, one
+- `b2ch56:228` (Tag 18) - four, thirty-one
+- `b2ch56:264` (Tag 18) - four
+- `b2ch56:386` (Tag 18) - one
+- `b2ch56:398` (Tag 18) - one
+- `b2ch56:414` (Tag 18) - twenty
 - `b2ch60:70` (Tag 25) - four
 - `b2ch63:120` (Tag 29) - four
 - `b2ch63:176` (Tag 29) - four
@@ -17528,8 +17557,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 18 | b2ch56:98 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
 | 18 | b2ch56:120 | Ahn Jung-hee. Thirty-five. |
 | 18 | b2ch56:128 | "Ahn Jung-hee." |
-| 18 | b2ch56:386 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
-| 18 | b2ch56:398 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
+| 18 | b2ch56:446 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
+| 18 | b2ch56:458 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
 | 21 | b2ch57:82 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
 | 22 | b2ch58:14 | *Do Kyung-ae.* |
 | 22 | b2ch58:208 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
@@ -17546,7 +17575,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b2ch56:98` (Tag 18) - four, thirty-five, thirty-one
 - `b2ch56:120` (Tag 18) - thirty-five
-- `b2ch56:398` (Tag 18) - thirty-five, thirty-one
+- `b2ch56:458` (Tag 18) - thirty-five, thirty-one
 - `b2ch57:82` (Tag 21) - four, thirty-five, thirty-one
 - `b2ch58:208` (Tag 22) - three
 - `b2ch59:54` (Tag 22) - nine, three

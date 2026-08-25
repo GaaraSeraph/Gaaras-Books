@@ -2565,7 +2565,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.3) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.4) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -2575,6 +2575,31 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   sich darin nie um mehr als ein Jahr. **Faellig fuer den Inhalts-Chat:** Mr Ahn
   ist neununddreissig, nicht fuenfundvierzig, falls das Geburtstagsregister es
   schon anders fuehrt.
+
+  **v1.4 am 25.08.: was fuer sie bezahlt wurde.** Frage des Autors, und der Text
+  hat es in sechsundfuenfzig Kapiteln nie gesagt.
+  - **Die Schuld: einundsechzig Millionen vierhunderttausend Won.** Eine
+    Buergschaft auf einen Werkstattmietvertrag, zweimal gewachsen. Mr Ahn nennt
+    die Zahl aus dem Kopf und sagt sie zweimal.
+  - **Die Konsignation hat exakt dieselbe Summe erloest. Auf den Won. Nichts
+    darueber.**
+  - **Und daraus faellt der Mechanismus, den der Text bisher nur in Teilen hatte:**
+    eine Konsignation ist keine Versteigerung. Niemand hat geboten, es gab keinen
+    Raum und keinen zweiten Interessenten. Jemand hat eine Zahl genannt, die schon
+    aufgeschrieben war, weil sie genau das Loch war, das die Familie hatte.
+  - **Und damit erklaert sich Kapitel 10:** ihre Zeile ist die einzige der vier,
+    die **nie fakturiert** wurde. Bei den anderen drei steht eine Gebuehr, weil
+    jemand spaeter kam und fuer eine Loeschung bezahlt hat. **Bei ihr war die
+    Streichung keine Leistung, sondern eine Bedingung des Verkaufs.** *"He did not
+    buy a person. He bought a person who does not appear anywhere, and the second
+    half of that came free with the first."*
+  - **Die Rechnung, die Georgij nicht aufschreibt:** er ist selbst fuer
+    zweihundertzwanzig Millionen weggegangen, mit Bietern in einem Raum. Sie fuer
+    einundsechzig Komma vier. Er macht es nicht im Laden und nicht im Wagen und
+    hat es trotzdem vor dem Ende der Strasse. **"A bit over a quarter."**
+  - **Faellig fuer den Inhalts-Chat:** die Zahl gegen `doc/04-world.md` pruefen -
+    ob eine Buergschaft dieser Groesse zu einer Werkstatt in dieser Gegend passt,
+    und ob die Hausprovision irgendwo auftauchen muss.
 
 
 - **Band 2, Kapitel 57** *Nobody paid* (v1.2) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
