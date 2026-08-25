@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 828 | 87 (b1ch01-b2ch75) | 1 | 74 |
+| Annie | 834 | 88 (b1ch01-b2ch76) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
+| Chairman Woo | 233 | 39 (b1ch07-b2ch76) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
 | Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
-| Mrs Seo | 96 | 44 (b1ch03-b2ch75) | 1 | 74 |
+| Mrs Seo | 97 | 45 (b1ch03-b2ch76) | 1 | 74 |
 | Mrs Jeon | 80 | 18 (b2ch06-b2ch71) | 2 | 59 |
 | Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
@@ -36,7 +36,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Mr Ku | 30 | 21 (b1ch05-b2ch69) | 3 | 60 |
+| Mr Ku | 31 | 22 (b1ch05-b2ch76) | 3 | 60 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Choi Dae-ho | 28 | 17 (b1ch07-b2ch75) | 2 | 61 |
@@ -58,10 +58,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Mr Im | 2 | 2 (b1ch05-b2ch76) | 6 | 59 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
-| Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 | Mr Ok | **0** | - | - | - |
 
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-828 Nennungen in 87 Kapiteln.
+834 Nennungen in 88 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -901,6 +901,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:442 | "There is a last thing," said Annie. |
 | 53 | b2ch75:470 | Annie sat with both hands flat on either side of four blank sheets of paper. |
 | 53 | b2ch75:490 | "Go and eat something," said Annie, "and then go up that hill and hold a piece of someth.. |
+| 56 | b2ch76:20 | She is fifty-four and has run that house for nine years and has been handed sealed thing.. |
+| 59 | b2ch76:72 | Annie read it standing. |
+| 59 | b2ch76:88 | Annie did not move her hand off the page. |
+| 59 | b2ch76:100 | "Then say the whole of the count," said Annie. |
+| 59 | b2ch76:112 | Annie looked at him for slightly longer than she needed to. |
+| 59 | b2ch76:160 | "I am not working," said Annie. "You are not to make that into a task." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1134,6 +1140,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:394` (Tag 53) - four, twenty-six
 - `b2ch75:470` (Tag 53) - four
 - `b2ch75:490` (Tag 53) - four
+- `b2ch76:20` (Tag 56) - fifty-four, four, nine, one, six
 
 ---
 
@@ -1550,7 +1557,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-231 Nennungen in 38 Kapiteln.
+233 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1785,6 +1792,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:62 | "No. Chairman Woo said that too, and in nearly those words. You do not get a man of thir.. |
 | 53 | b2ch75:154 | "That is the whole of the second part," said Georgij, "and I want to be exact about it. .. |
 | 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
+| 56 | b2ch76:28 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
+| 59 | b2ch76:54 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1931,6 +1940,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:62` (Tag 53) - thirty-six
 - `b2ch75:154` (Tag 53) - four, one, seventy-eight, two
 - `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
+- `b2ch76:28` (Tag 56) - five, one, seven
+- `b2ch76:54` (Tag 59) - one, three
 
 ---
 
@@ -2597,7 +2608,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-96 Nennungen in 44 Kapiteln.
+97 Nennungen in 45 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2697,6 +2708,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:262 | He ate at the long table in the kitchen with the staff at half past nine, which Mrs Seo .. |
 | 49 | b2ch72:78 | At about eleven Mrs Seo came through with a message that had come in on the house line a.. |
 | 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
+| 56 | b2ch76:18 | Mrs Seo took them in her own handbag and posted them from four different places over abo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2758,6 +2770,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:262` (Tag 44) - nine, ninety
 - `b2ch72:78` (Tag 49) - eleven, ten, twenty
 - `b2ch75:394` (Tag 53) - four, twenty-six
+- `b2ch76:18` (Tag 56) - five, four
 
 ---
 
@@ -3733,7 +3746,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Ku
 
-30 Nennungen in 21 Kapiteln.
+31 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3767,6 +3780,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:190 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
 | 3 | b2ch51:114 | "Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to pro.. |
 | 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
+| 59 | b2ch76:98 | Out in the drive Mr Ku moved the car about four metres for no reason anybody could see a.. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -3786,6 +3800,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch31:110` (Tag 41) - two
 - `b2ch51:114` (Tag 3) - eleven, one
 - `b2ch69:26` (Tag 44) - eight, one, ten
+- `b2ch76:98` (Tag 59) - four
 
 ---
 
@@ -4526,6 +4541,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Im
+
+2 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 59 | b2ch76:50 | Mr Im brought it up because it was the wrong size for the tray. |
+
+### Zahlen in der Naehe von Mr Im
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+
+---
+
 ## Mrs Ahn
 
 2 Nennungen in 2 Kapiteln.
@@ -4570,20 +4600,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Tae-min
 
 - `b1ch05:178` (Tag 6) - nineteen, two
-
----
-
-## Mr Im
-
-1 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-
-### Zahlen in der Naehe von Mr Im
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 
 ---
 

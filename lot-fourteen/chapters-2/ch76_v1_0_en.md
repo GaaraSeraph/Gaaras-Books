@@ -1,0 +1,174 @@
+# Chapter 76: What came back
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Fifty-Three · Monday 21 September
+
+She named the two things on the Monday, as she had said she would, and she did it in about forty seconds on her way out to the car.
+
+The first was a holding in a cold store at Gunsan that she has had since she was thirty-one and that pays for itself twice over. The second was the ground behind the workshop, which is not worth what the cold store is worth and which she has refused to sell three times in four years for reasons she has never given anybody.
+
+She did not say which of the two she minded. She said the dates by which each would be gone and she got into the car.
+
+The third thing, the one she had promised to somebody else, she did not name, and Georgij did not ask for it, and that was the whole of the transaction.
+
+* * *
+
+The letters had gone out on the Saturday.
+
+Mrs Seo took them in her own handbag and posted them from four different places over about five hours, which is a Saturday spent, and she was not told what was in them and did not ask.
+
+She is fifty-four and has run that house for nine years and has been handed sealed things before. What was different about this one was that she was given it by hand, in the passage, by a woman who does not come down to the passage, and that there was no envelope for a fifth. She came back and said that one of the four post offices in Bucheon had been shut for refurbishment and that she had gone on to Sosa. Annie said that was correct and thanked her. That was the last anybody in that house said about it out loud for six days.
+
+The letters are four pages of the same nine lines, in her handwriting, on paper with nothing at the top of it.
+
+---
+
+*The eighteenth of September.*
+
+*In April this house arranged seven years of work on the Ulsan lane for five haulage firms. Yours was one of the five. It was arranged by me and it was not arranged by Chairman Woo, whose paper you signed.*
+
+*You do not owe me anything for it. Not a load, not a rate, not a name in a room, and not one hour of anything in the seven years.*
+
+*There is no second half to this arrangement. There was never going to be one.*
+
+*If anybody ever tells you otherwise, show them this.*
+
+*This should have reached you in April.*
+
+---
+
+There is no request in it anywhere, and nothing that asks to be answered, and she did not put an address on any of the four.
+
+* * *
+
+## Day Three Hundred and Fifty-Six · Thursday 24 September
+
+Nothing came back on the Monday or the Tuesday, which was expected, and nothing came back on the Wednesday, which was also expected and which he noticed himself noticing.
+
+On the Thursday the second post brought a large envelope addressed to the house in a hand that presses hard, with the stamps in the wrong corner and no sender on the back of it.
+
+Mr Im brought it up because it was the wrong size for the tray.
+
+Inside it, folded once and put back the way it came out, was the letter to Mr Pyeon.
+
+He is the one at Yangsan with the three flatbeds and the daughter who does his invoices. He signed Chairman Woo's paper in the first week of May and he has run that lane every week since, and nobody in this house has spoken to him or of him since April.
+
+The postmark is Tuesday, twelve minutes past two, from a counter about a kilometre from his gate.
+
+So the letter reached him with the first delivery on the Tuesday morning and was in a bag going the other way by the middle of the afternoon.
+
+Somewhere in between, a man with three flatbeds stood in a yard and read nine lines and knew exactly what he was holding.
+
+His daughter does his invoices, which means she opens the post, which means she read it first and gave it to him and then went back to the invoices. Nobody in that house on that river will ever know what she said to him about it, or whether she said anything at all.
+
+On the back of the page, in pencil, in the same hard hand, there are six words.
+
+*Understood. Please do not send another.*
+
+* * *
+
+Georgij took it up at twenty past four and put it on the desk face down, with the pencil side showing, because turning it over for her would have been a way of deciding what she saw first.
+
+Annie read it standing.
+
+She read the six words, and then she turned the page over and read her own nine lines, which she had not seen since Friday, and then she put it down and stood with one hand flat on it.
+
+"Say it," she said, "and do not be careful."
+
+"He is right and we are wrong."
+
+"Say why, properly. I want to hear whether it is the same why."
+
+"A man with three flatbeds and a daughter who does the invoices does not want a signed page in his yard from a house on this river," said Georgij. "It is not a receipt. It is a relationship." He did not stop anywhere. "Anybody who finds it in a drawer in four years has him in a room. And what he has to say in that room is that a woman he never met arranged seven years of his life for nothing. There is not one man on that coast who would believe the last two words."
+
+"Go on."
+
+"He has spent five months not knowing what he owed, and that was bad. On Tuesday morning he found out what he owed, and it was nothing, and that was better." Georgij did not soften it. "And then he had a piece of paper in his hand that could take the whole of it off him again. He had it because of me and because of you, and he did the only thing available to a man in his position at half past eight in the morning."
+
+Annie did not move her hand off the page.
+
+"He sent it back inside about six hours," she said. "That is not a man who thought about it."
+
+"No. That is a man who knew the answer before he finished reading it."
+
+* * *
+
+She was quiet for a while, and the room was quiet with her.
+
+Out in the drive Mr Ku moved the car about four metres for no reason anybody could see and then switched the engine off again.
+
+"Then say the whole of the count," said Annie.
+
+"In April you told me to go and tell all five that they owe you nothing, and I did not do it, and it cost four men five months." Georgij had his hands at his sides. "On Friday you did it yourself in the only form left, and the form is dangerous to them, and the danger is the direct consequence of the delay. If it had been said in a yard in April, out loud, with nothing on paper, it would have cost nobody anything."
+
+"That is the count."
+
+"That is the count."
+
+"And who carries it."
+
+"You are going to say that you do," said Georgij, "and you are going to be wrong, and I am not going to argue with you about it this afternoon, because arguing would be a way of being useful."
+
+Annie looked at him for slightly longer than she needed to.
+
+"That is very nearly cheek," she said.
+
+"It is exactly cheek. It is also true."
+
+* * *
+
+She did not write to the other three and she did not send anybody, and she did not have the three remaining letters chased or recalled, because a recalled letter is a second document and worse than the first.
+
+What she did was three things, and all three of them took about a quarter of an hour and none of them left the house.
+
+She had Mr Pyeon's letter burned in the grate in the small room, in front of her, that afternoon. It is September and there had been no fire in that room since the second week of April, so one had to be laid for it, and it took about twenty minutes, and she waited.
+
+She watched it go and did not say anything while it went, and the six words in pencil went first, because pencil is on the back and the back was down.
+
+She wrote the date and the six words in the back of the green book, in pencil, where she keeps the things that are not transactions, and she did not write his name next to them.
+
+And she said one sentence to Georgij on the landing at about six, which is not where she says things.
+
+"If the other three keep theirs, they are keeping something that can be used against them, and they are keeping it because I sent it. If they burn theirs, then four men have had a thing taken off them twice." She had one hand on the rail. "There is no version of this in which I have done them a kindness, and I am going to sit with that for a while, and you are not to help."
+
+"No, Mistress."
+
+* * *
+
+He went down and did the evening's work and did not do it well.
+
+At about nine he found that he had read the same page of Yeom's fourth folder three times and could not have said what was on it. He stopped and sat back and let himself have the thing he had been holding off since four.
+
+*Four men have been carrying an invented debt since April because I did not do a thing that would have taken me two days and four hundred kilometres.*
+
+*I have spent this month being told that I put a line through people. That is the wrong shape and it has been comfortable. A line through a person leaves them alone.*
+
+*What I did to those four is the opposite. I left something running in them.*
+
+He wrote that down and looked at it for a while and then wrote one more line underneath it, and it is the first thing he has written in that book all year that is not about the campaign.
+
+*Mr Pyeon read nine lines and understood the whole of the danger in the time it takes to walk from a gate to a house.*
+
+*Nobody in that man's life has ever once described him as clever.*
+
+* * *
+
+He went up at half past ten and she was not at the desk. She was in the chair by the window with the green book shut on her knee and the lamp off, which is a thing she does about twice a year.
+
+He stopped in the doorway.
+
+"I am not working," said Annie. "You are not to make that into a task."
+
+"No, Mistress."
+
+"Sit down and do not talk to me for a while."
+
+He went down onto the carpet at the side of the desk, which is where he sits, and did not talk to her for a while. After about ten minutes she put her hand down into his hair without looking away from the window and left it there.
+
+That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either.
+
+* * *
+
+The three remaining letters were never mentioned again by anybody, and no answer to any of them ever came to that house.
+
+Whether that is because the other three understood it exactly as Mr Pyeon did, or because they put it in a drawer and got on with the week, is a thing that nobody on that river ever found out.

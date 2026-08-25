@@ -3475,6 +3475,57 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Choi Dae-ho spricht weiterhin nicht** und ist am Ende von 75 zum ersten Mal
     im Buch etwas anderes als ein Gegner: ein Gegenstand, den jemand gemacht hat.
 
+- **Band 2, Kapitel 76** *What came back* (v1.0) - **Tag 353 bis 356, Mo 21. bis Do 24. September. Ein Dokument, eine Woche, und der teuerste Brief ihres Lebens kommt zurueck.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Formal ein Bruch, und zwar mit Absicht.** Gemessen am 25.08.: die Kapitel
+    68 bis 75 liegen bei **60 bis 77 Prozent Dialog** und bei bis zu 42
+    Szenentrennern, waehrend B2 1-50 bei 54 Prozent und 2,0 Szenen liegt. **Das
+    Buch war zu einer Folge von Verhoeren in Raeumen geworden.** Kapitel 76 hat
+    **28 Prozent Dialog**, keine einzige Szene mit zwei Leuten und einer Frage,
+    und traegt stattdessen ein abgedrucktes Dokument.
+  - **Der Brief steht im Text**, neun Zeilen, ihre Handschrift, kein Briefkopf,
+    keine Anrede, keine Bitte, keine Absenderadresse. Letzte Zeile: *This should
+    have reached you in April.*
+  - **Die zwei Dinge sind benannt** (Zusage aus 74, faellig Tag 353): ein Anteil
+    an einem Kuehlhaus in Gunsan, seit sie einunddreissig ist, und **der Grund
+    hinter der Werkstatt**, den sie in vier Jahren dreimal nicht verkauft hat, ohne
+    je zu sagen warum. Sie nennt beides in vierzig Sekunden auf dem Weg zum Wagen
+    und sagt nicht, welches von beiden sie mehr kostet. **Das dritte, das sie
+    jemandem versprochen hat, nennt sie nicht, und er fragt nicht.**
+  - **MR PYEON SCHICKT SEINEN ZURUECK**, am Tag des Empfangs, Poststempel Dienstag
+    vierzehn Uhr zwoelf, etwa einen Kilometer von seinem Tor. Sechs Woerter in
+    Bleistift auf der Rueckseite: *"Understood. Please do not send another."*
+  - **Und der Grund ist der, den beide sofort sehen:** ein unterschriebenes Blatt
+    aus diesem Haus ist in seinem Hof keine Quittung, sondern **eine Beziehung**.
+    Wer es in vier Jahren in einer Schublade findet, hat ihn in einem Raum, und
+    dort muesste er sagen, dass eine Frau, die er nie getroffen hat, ihm sieben
+    Jahre geschenkt hat. *"There is not one man on that coast who would believe
+    the last two words."*
+  - **Die Rechnung geht ganz auf:** waere es im April in einem Hof gesagt worden,
+    laut und ohne Papier, haette es niemanden etwas gekostet. **Die Gefahr ist die
+    unmittelbare Folge der Verspaetung.**
+  - **Was sie tut, und alles davon bleibt im Haus:** sie laesst den Brief im Kamin
+    verbrennen und wartet zwanzig Minuten, bis ein Feuer gelegt ist; sie traegt
+    Datum und die sechs Woerter hinten ins gruene Buch, ohne seinen Namen; und sie
+    sagt einen Satz auf dem Treppenabsatz, wo sie keine Saetze sagt. *"There is no
+    version of this in which I have done them a kindness, and I am going to sit
+    with that for a while, and you are not to help."*
+  - **Die drei uebrigen Briefe werden nie wieder erwaehnt**, und es kommt nie eine
+    Antwort. Ob die anderen drei es genauso gelesen haben oder ob sie es in eine
+    Schublade gelegt haben, erfaehrt niemand.
+  - **Georgijs eigener Befund korrigiert Annies Diagnose aus 69:** *"I have spent
+    this month being told that I put a line through people. That is the wrong
+    shape and it has been comfortable. A line through a person leaves them alone.
+    What I did to those four is the opposite. I left something running in them."*
+  - **Register B 9** (`doc/10-naehe.md`): abends, sie sitzt ohne Lampe am Fenster
+    und arbeitet nicht, was sie etwa zweimal im Jahr tut. *"Sit down and do not
+    talk to me for a while."* **Der Text zaehlt mit und er nicht.**
+  - **NEUER KANON: Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen,
+    die Tochter macht die Rechnungen und hat den Brief zuerst gelesen. **Er
+    spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
+    `doc/12-stimmen.md`.
+
 
 
 ---

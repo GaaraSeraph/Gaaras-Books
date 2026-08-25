@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 259.034 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 260.169 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -283,10 +283,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Chef Bang](#chef-bang)
   - [Mrs Jeon Mi-ja](#mrs-jeon-mi-ja)
   - [Minister Min-ho](#minister-min-ho)
+  - [Mr Im](#mr-im)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
-  - [Mr Im](#mr-im)
   - [Mrs Ryu](#mrs-ryu)
   - [Mr Ok](#mr-ok)
 
@@ -1717,6 +1717,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
 | **Baek Jun-ho** | Solicitor in Yeouido, verwaltet den Trust seit elf Jahren | B2 42 | **Faellig, aber zuletzt.** Das Geld ist der Sauerstoff |
 | **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
+| **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | Seit Ende August im Haus in Gangwon-do, der erste neue Wachmann in vier Jahren | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
 | **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
 | **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | Erledigt seit Mai |
@@ -6294,6 +6295,57 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Ihre Antwort ist zwei Woerter lang und dann *"Thank you."*
   - **Choi Dae-ho spricht weiterhin nicht** und ist am Ende von 75 zum ersten Mal
     im Buch etwas anderes als ein Gegner: ein Gegenstand, den jemand gemacht hat.
+
+- **Band 2, Kapitel 76** *What came back* (v1.0) - **Tag 353 bis 356, Mo 21. bis Do 24. September. Ein Dokument, eine Woche, und der teuerste Brief ihres Lebens kommt zurueck.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Formal ein Bruch, und zwar mit Absicht.** Gemessen am 25.08.: die Kapitel
+    68 bis 75 liegen bei **60 bis 77 Prozent Dialog** und bei bis zu 42
+    Szenentrennern, waehrend B2 1-50 bei 54 Prozent und 2,0 Szenen liegt. **Das
+    Buch war zu einer Folge von Verhoeren in Raeumen geworden.** Kapitel 76 hat
+    **28 Prozent Dialog**, keine einzige Szene mit zwei Leuten und einer Frage,
+    und traegt stattdessen ein abgedrucktes Dokument.
+  - **Der Brief steht im Text**, neun Zeilen, ihre Handschrift, kein Briefkopf,
+    keine Anrede, keine Bitte, keine Absenderadresse. Letzte Zeile: *This should
+    have reached you in April.*
+  - **Die zwei Dinge sind benannt** (Zusage aus 74, faellig Tag 353): ein Anteil
+    an einem Kuehlhaus in Gunsan, seit sie einunddreissig ist, und **der Grund
+    hinter der Werkstatt**, den sie in vier Jahren dreimal nicht verkauft hat, ohne
+    je zu sagen warum. Sie nennt beides in vierzig Sekunden auf dem Weg zum Wagen
+    und sagt nicht, welches von beiden sie mehr kostet. **Das dritte, das sie
+    jemandem versprochen hat, nennt sie nicht, und er fragt nicht.**
+  - **MR PYEON SCHICKT SEINEN ZURUECK**, am Tag des Empfangs, Poststempel Dienstag
+    vierzehn Uhr zwoelf, etwa einen Kilometer von seinem Tor. Sechs Woerter in
+    Bleistift auf der Rueckseite: *"Understood. Please do not send another."*
+  - **Und der Grund ist der, den beide sofort sehen:** ein unterschriebenes Blatt
+    aus diesem Haus ist in seinem Hof keine Quittung, sondern **eine Beziehung**.
+    Wer es in vier Jahren in einer Schublade findet, hat ihn in einem Raum, und
+    dort muesste er sagen, dass eine Frau, die er nie getroffen hat, ihm sieben
+    Jahre geschenkt hat. *"There is not one man on that coast who would believe
+    the last two words."*
+  - **Die Rechnung geht ganz auf:** waere es im April in einem Hof gesagt worden,
+    laut und ohne Papier, haette es niemanden etwas gekostet. **Die Gefahr ist die
+    unmittelbare Folge der Verspaetung.**
+  - **Was sie tut, und alles davon bleibt im Haus:** sie laesst den Brief im Kamin
+    verbrennen und wartet zwanzig Minuten, bis ein Feuer gelegt ist; sie traegt
+    Datum und die sechs Woerter hinten ins gruene Buch, ohne seinen Namen; und sie
+    sagt einen Satz auf dem Treppenabsatz, wo sie keine Saetze sagt. *"There is no
+    version of this in which I have done them a kindness, and I am going to sit
+    with that for a while, and you are not to help."*
+  - **Die drei uebrigen Briefe werden nie wieder erwaehnt**, und es kommt nie eine
+    Antwort. Ob die anderen drei es genauso gelesen haben oder ob sie es in eine
+    Schublade gelegt haben, erfaehrt niemand.
+  - **Georgijs eigener Befund korrigiert Annies Diagnose aus 69:** *"I have spent
+    this month being told that I put a line through people. That is the wrong
+    shape and it has been comfortable. A line through a person leaves them alone.
+    What I did to those four is the opposite. I left something running in them."*
+  - **Register B 9** (`doc/10-naehe.md`): abends, sie sitzt ohne Lampe am Fenster
+    und arbeitet nicht, was sie etwa zweimal im Jahr tut. *"Sit down and do not
+    talk to me for a while."* **Der Text zaehlt mit und er nicht.**
+  - **NEUER KANON: Mr Pyeon**, einer der fuenf, Yangsan, drei Pritschenwagen,
+    die Tochter macht die Rechnungen und hat den Brief zuerst gelesen. **Er
+    spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
+    `doc/12-stimmen.md`.
 
 
 
@@ -11607,11 +11659,12 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
+| 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
 | 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
 | 7 | B2 59 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 
 **Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste,
-59 das siebte, 72 das achte. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
+59 das siebte, 72 das achte, 76 das neunte. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
 aus dem Kopf. **Ab 59 zählt Georgij selbst nicht mehr mit**, und das ist eine
 Figurenentwicklung und keine Erlaubnis, die Kette zu vergessen.
 
@@ -14945,7 +14998,7 @@ wird.**
 - [KEINE] **B2 74** Georgij an Annie · gesagt Tag 350 · faellig offen · "you have told her you will be at her table on the twenty-third" · Keine neue Zusage, sondern die Wiedergabe von B2 71. `--neu` findet sie, weil der Wortlaut abweicht
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
 - [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
-- [BEZAHLT] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · **Einer in B2 69 (Kwon, und nur weil er selbst vorfuhr), die anderen vier in B2 75, einhunderteinundvierzig Tage spaet und nicht von ihm.** Sie schreibt vier Briefe von Hand, unterschrieben und datiert, ohne Briefkopf; Mrs Seo verschickt sie aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht
+- [BEZAHLT] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · **Einer in B2 69 (Kwon, und nur weil er selbst vorfuhr), die anderen vier in B2 75, einhunderteinundvierzig Tage spaet und nicht von ihm.** **Und in B2 76 kommt einer der vier zurueck:** Mr Pyeon schickt ihn am Tag des Empfangs ungeoeffnet-wieder-gefaltet zurueck, weil ein unterschriebenes Blatt aus diesem Haus in seinem Hof keine Quittung ist, sondern eine Beziehung. **Die Zusage bleibt bezahlt - die Form war der Fehler und nicht die Bezahlung.** Sie schreibt vier Briefe von Hand, unterschrieben und datiert, ohne Briefkopf; Mrs Seo verschickt sie aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
 - [KEINE] **B2 06** Annie an Georgij · gesagt Tag 164 · faellig bei nichts · "You are mine... It has no end on it. Build on this one." · **Kein Posten mit Faelligkeit, sondern ein Zustand.** Sie kann ihn nicht erfuellen, nur brechen; ein Bruch waere VERFALLEN und keine Ueberfaelligkeit. Steht hier, damit er nicht als vergessener Faden wiederkommt
@@ -16610,6 +16663,18 @@ Halbgeviertstrich, ignoriert den Bindestrich.
 
 *Unsicher:* keiner.
 
+**Ein eigener Fehler beim Push, und er gehoert hierher.** Beim Rebase kollidierte
+`doc/10-naehe.md` - kein generiertes File, sondern ein Dokument der anderen
+Sitzung. Mein `git add -A` hat den Konflikt **mitsamt den Markern** eingecheckt.
+Sofort bemerkt und behoben: Inhalt der anderen Sitzung uebernommen, mein
+Strichtausch darauf angewandt (`bb8dc90`).
+
+**Die Lehre:** die Regel *"generierte Dateien nie von Hand aufloesen, `build.py`
+laufen lassen"* verleitet dazu, im Rebase pauschal `git add -A` zu tippen. Das
+ist nur fuer `erzeugt/` und `read/` richtig. **Bei jedem anderen Konflikt erst
+`git status --short | grep '^UU'` lesen** - und wenn eine Datei dabei ist, die
+niemand erzeugt, von Hand entscheiden, wessen Inhalt gilt.
+
 ---
 
 # Begegnungsregister
@@ -16632,13 +16697,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 828 | 87 (b1ch01-b2ch75) | 1 | 74 |
+| Annie | 834 | 88 (b1ch01-b2ch76) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
+| Chairman Woo | 233 | 39 (b1ch07-b2ch76) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
 | Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
-| Mrs Seo | 96 | 44 (b1ch03-b2ch75) | 1 | 74 |
+| Mrs Seo | 97 | 45 (b1ch03-b2ch76) | 1 | 74 |
 | Mrs Jeon | 80 | 18 (b2ch06-b2ch71) | 2 | 59 |
 | Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
@@ -16650,7 +16715,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Mr Ku | 30 | 21 (b1ch05-b2ch69) | 3 | 60 |
+| Mr Ku | 31 | 22 (b1ch05-b2ch76) | 3 | 60 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Choi Dae-ho | 28 | 17 (b1ch07-b2ch75) | 2 | 61 |
@@ -16672,10 +16737,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Mr Im | 2 | 2 (b1ch05-b2ch76) | 6 | 59 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
-| Mr Im | 1 | 1 (b1ch05) | 6 | 6 |
 | Mrs Ryu | 1 | 1 (b1ch07) | 22 | 22 |
 | Mr Ok | **0** | - | - | - |
 
@@ -16683,7 +16748,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-828 Nennungen in 87 Kapiteln.
+834 Nennungen in 88 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17515,6 +17580,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:442 | "There is a last thing," said Annie. |
 | 53 | b2ch75:470 | Annie sat with both hands flat on either side of four blank sheets of paper. |
 | 53 | b2ch75:490 | "Go and eat something," said Annie, "and then go up that hill and hold a piece of someth.. |
+| 56 | b2ch76:20 | She is fifty-four and has run that house for nine years and has been handed sealed thing.. |
+| 59 | b2ch76:72 | Annie read it standing. |
+| 59 | b2ch76:88 | Annie did not move her hand off the page. |
+| 59 | b2ch76:100 | "Then say the whole of the count," said Annie. |
+| 59 | b2ch76:112 | Annie looked at him for slightly longer than she needed to. |
+| 59 | b2ch76:160 | "I am not working," said Annie. "You are not to make that into a task." |
 
 ### Zahlen in der Naehe von Annie
 
@@ -17748,6 +17819,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:394` (Tag 53) - four, twenty-six
 - `b2ch75:470` (Tag 53) - four
 - `b2ch75:490` (Tag 53) - four
+- `b2ch76:20` (Tag 56) - fifty-four, four, nine, one, six
 
 ---
 
@@ -18164,7 +18236,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-231 Nennungen in 38 Kapiteln.
+233 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -18399,6 +18471,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:62 | "No. Chairman Woo said that too, and in nearly those words. You do not get a man of thir.. |
 | 53 | b2ch75:154 | "That is the whole of the second part," said Georgij, "and I want to be exact about it. .. |
 | 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
+| 56 | b2ch76:28 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
+| 59 | b2ch76:54 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -18545,6 +18619,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:62` (Tag 53) - thirty-six
 - `b2ch75:154` (Tag 53) - four, one, seventy-eight, two
 - `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
+- `b2ch76:28` (Tag 56) - five, one, seven
+- `b2ch76:54` (Tag 59) - one, three
 
 ---
 
@@ -19211,7 +19287,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-96 Nennungen in 44 Kapiteln.
+97 Nennungen in 45 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -19311,6 +19387,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:262 | He ate at the long table in the kitchen with the staff at half past nine, which Mrs Seo .. |
 | 49 | b2ch72:78 | At about eleven Mrs Seo came through with a message that had come in on the house line a.. |
 | 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
+| 56 | b2ch76:18 | Mrs Seo took them in her own handbag and posted them from four different places over abo.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -19372,6 +19449,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:262` (Tag 44) - nine, ninety
 - `b2ch72:78` (Tag 49) - eleven, ten, twenty
 - `b2ch75:394` (Tag 53) - four, twenty-six
+- `b2ch76:18` (Tag 56) - five, four
 
 ---
 
@@ -20347,7 +20425,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-30 Nennungen in 21 Kapiteln.
+31 Nennungen in 22 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -20381,6 +20459,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch36:190 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
 | 3 | b2ch51:114 | "Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to pro.. |
 | 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
+| 59 | b2ch76:98 | Out in the drive Mr Ku moved the car about four metres for no reason anybody could see a.. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -20400,6 +20479,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch31:110` (Tag 41) - two
 - `b2ch51:114` (Tag 3) - eleven, one
 - `b2ch69:26` (Tag 44) - eight, one, ten
+- `b2ch76:98` (Tag 59) - four
 
 ---
 
@@ -21140,6 +21220,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Im
+
+2 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 59 | b2ch76:50 | Mr Im brought it up because it was the wrong size for the tray. |
+
+### Zahlen in der Naehe von Mr Im
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+
+---
+
 ### Mrs Ahn
 
 2 Nennungen in 2 Kapiteln.
@@ -21184,20 +21279,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 ### Zahlen in der Naehe von Tae-min
 
 - `b1ch05:178` (Tag 6) - nineteen, two
-
----
-
-### Mr Im
-
-1 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-
-### Zahlen in der Naehe von Mr Im
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
 
 ---
 
