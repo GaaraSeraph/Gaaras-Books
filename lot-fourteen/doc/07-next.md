@@ -202,7 +202,29 @@ zerstoerbar.
 
 ---
 
-## Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen
+## ~~Zwei Zusagen, die auf dem Weg dorthin bezahlt werden muessen~~ - beide bezahlt in Kapitel 69
+
+> **Bezahlt am 25.08. in Band 2, Kapitel 69** (Mi 9. September), und nicht so,
+> wie dieser Abschnitt es erwartet hat: **nicht durch Liefern, sondern durch
+> Benennen.**
+>
+> - **Die fuenf Firmen.** Georgij sagt selbst, dass er sie nicht geliefert hat:
+>   *"On the third of April I stood in a room and told her that when it was over
+>   the other five would be hers. Completely. Not as customers and not as an
+>   arrangement."* Und: *"She got nothing. Woo got five customers on seven years
+>   and a very good afternoon, and I have been out there since June taking his
+>   help."* Dazu Mr Kwon, der viermal vergeblich angerufen hat.
+> - **"You will in about a month."** Wird woertlich aufgemacht: *"You said that
+>   some of that afternoon had been very expensive, and that I did not yet know
+>   what it had cost, and that I would in about a month."* Annie loest auf und
+>   **benennt die Verspaetung selbst**: *"The month I said you would need was so
+>   that you could watch yourself do it once more and notice. It took six."*
+>
+> **Der Rueckbezug auf den 11. Maerz stimmt** (*"On the eleventh of March you came
+> in here and told me about a catalogue and four references"* - Kapitel 5), und
+> sechs Monate vom 11. Maerz auf den 9. September gehen auf. **Neu im Kanon:**
+> Mr Kwon ist **vierundfuenfzig** (*"I am fifty-four and I have been doing this
+> since I was twenty-two"*), eingetragen in `doc/05`.
 
 **Am 25.08. beim Abgleich der Schuldenliste gegen den Text gefunden, und sie
 stehen hier vorn, weil sie unten in der Liste vier Monate lang niemand gesehen
@@ -1212,10 +1234,14 @@ Fassung.**
   going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
   ohne zu warten, dass sie es bemerkt.**
 
-- **UEBERFAELLIG. Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies
+- ~~**UEBERFAELLIG.**~~ **BEZAHLT.** Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies
   Eigentum.** Steht seit Kapitel 24 nicht mehr im Text.
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
+
+  **BEZAHLT in Kapitel 69 (Mi 9. September), durch Benennen und nicht durch
+  Liefern:** *"She got nothing. Woo got five customers on seven years and a very
+  good afternoon, and I have been out there since June taking his help."*
 
   **Am 25.08. nachgemessen, und es ist schlimmer als der Eintrag sagt.** Die
   Zusage steht in Kapitel 12 (Fr 3. April): *"There are six firms in that
@@ -1275,11 +1301,15 @@ Fassung.**
   vierten Tag. Der Verlauf muss im Text vorkommen und darf nicht als erledigt
   vorausgesetzt werden.
 
-- **UEBERFAELLIG. "You will in about a month." - FAELLIG ANFANG APRIL, Band 2,
+- ~~**UEBERFAELLIG.**~~ **BEZAHLT.** "You will in about a month." - FAELLIG ANFANG APRIL, Band 2,
   Kapitel 5**
   (Tag 159, 11. Maerz). Annie: *"I am not giving you this because you have earned
   it this afternoon. Some of this afternoon was very expensive."* - *"I know what
   it cost."* - **"You do not yet. You will in about a month."**
+
+  **BEZAHLT in Kapitel 69 (Mi 9. September).** Annie loest auf und benennt die
+  Verspaetung selbst: *"The month I said you would need was so that you could
+  watch yourself do it once more and notice. It took six."*
 
   **Am 25.08. nachgemessen: kein Rueckbezug in dreiundsechzig Kapiteln.** Die
   Wendung *in about a month* steht im ganzen Band genau noch einmal, in Kapitel

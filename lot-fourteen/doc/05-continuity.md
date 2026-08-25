@@ -3096,8 +3096,8 @@ alle Geburtstage in den Juli, August oder September legen, weil das die einzige
 Strecke war, die nicht erzaehlt wird. Damit hatte jede Figur ueber beide Baende
 **genau eine** Altersangabe.
 
-**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 68 und
-dem **7. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
+**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 69 und
+dem **9. September** (Tag 341). Die Strecke, in der die Geburtstage geparkt waren, ist
 erzaehlte Zeit geworden - und drei Altersangaben standen prompt gegen ihren
 eigenen Geburtstag:
 
@@ -3133,7 +3133,7 @@ ist verbraucht: die naechste Altersangabe zu ihnen ist die falsche.
 
 | Figur | Geburtstag | Tag | wird |
 |---|---|---|---|
-| Choi Dae-ho | Di 8. September | 340 | 60 |
+| ~~Choi Dae-ho~~ | ~~Di 8. September~~ | 340 | **passiert. Er ist seit Tag 340 sechzig** |
 | Mr Hwang | Fr 11. September | 343 | 51 |
 | **Georgij** | **Sa 12. September** | **344** | **27** |
 
@@ -3157,7 +3157,7 @@ weiterhin hinter der Front, damit ihre Zahl bis dahin stillsteht.
 | **Georgij** | 26, **ab Tag 344 (12. September) 27** | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
-| **Choi Dae-ho** | 59 | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
+| **Choi Dae-ho** | 59, **ab Tag 340 (8. September) 60** | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
 | **Mrs Sunwoo** | 81 | **29. September** (war 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
@@ -3178,6 +3178,7 @@ weiterhin hinter der Front, damit ihre Zahl bis dahin stillsteht.
 | **Kim Ye-rin** | 54 | 5. August | Band 1, Kapitel 26, 28 und 30 |
 | **Kang** | 43 | 25. August | Band 1, Kapitel 11 |
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
+| **Mr Kwon** | 54 | **30. September** | **Band 2, Kapitel 69, aus seinem eigenen Mund:** *"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive."* Neun Lastwagen auf einer Spur aus Ulsan, eine der fuenf Firmen |
 | **Sim** | 63 | **1. Oktober** | **Band 2, Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
 | **Mrs Ha** | 58 | **2. Oktober** | **Band 2, Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
