@@ -1161,6 +1161,18 @@ Fassung.**
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
 
+  **Am 25.08. nachgemessen, und es ist schlimmer als der Eintrag sagt.** Die
+  Zusage steht in Kapitel 12 (Fr 3. April): *"There are six firms in that
+  association and one of them is hers. When it is over the other five will be
+  yours, completely, not as customers and not as an arrangement."* Der
+  Mechanismus laeuft in 13 und 14 (*"By the Monday all five had written back to
+  the lawyer"*), Nam ist am 23. April erledigt (Kapitel 21: *"By the
+  twenty-third of April she had lost the chair of her association"*) - und
+  **danach kommt der Verband in vierundvierzig Kapiteln nicht mehr vor.** Die
+  Uebereignung wird nirgends gezeigt. **Vier Monate erzaehlte Zeit ueberfaellig,**
+  und der Eintrag sagt selbst, was daran haengt: ohne sie war es ihr Monat fuer
+  seine Gefuehle.
+
   **Alle fuenf, und nicht vier, und nicht die zwei leichten.** Der Mechanismus
   steht in Band 2, Kapitel 14: Woos sieben Jahre machen aus fuenf Firmen, die
   nichts wert waren, fuenf Firmen mit verkaeuflichen Anteilen - **und Jang hat
@@ -1212,6 +1224,13 @@ Fassung.**
   (Tag 159, 11. Maerz). Annie: *"I am not giving you this because you have earned
   it this afternoon. Some of this afternoon was very expensive."* - *"I know what
   it cost."* - **"You do not yet. You will in about a month."**
+
+  **Am 25.08. nachgemessen: kein Rueckbezug in dreiundsechzig Kapiteln.** Die
+  Wendung *in about a month* steht im ganzen Band genau noch einmal, in Kapitel
+  49 aus Mrs Baes Mund (*"you are going to want to, in about a month"*), und
+  das ist eine andere Sache und eine andere Person. Annies Zeile aus Kapitel 5
+  ist damit **vier Monate erzaehlte Zeit ueberfaellig** und steht weiter als
+  Stimmung da, was der Eintrag ausdruecklich verbietet.
 
   **Sie weiss dort etwas, das er nicht weiss, und der Text schuldet die
   Aufloesung.** Sie darf nicht als Stimmung stehenbleiben. **Noch nicht
@@ -1380,10 +1399,17 @@ Fassung.**
   nichts, aber er verwahrt jetzt etwas. **Faellig: wann es kommt, und was
   passiert, wenn er es doch braucht.**
 
-- **MRS JEON FAENGT AN.** Startdatum darf sie selbst waehlen, Mitte des Monats
+- ~~**RS JS JEON FAENGT AN.** Startdatum darf sie selbst waehlen, Mitte des Monats
   im Gespraech. **Ab dann sitzt eine Frau, die Georgij auseinandernehmen koennte,
   in einer Firma, die zur Haelfte Annie gehoert.** Das ist Eindaemmung und
   Risiko in einem, und beide wissen es.
+
+  **BEZAHLT am 25.08. nachgewiesen, Kapitel 37 (Do 11. Juni):** *"She was at
+  the desk with the ledgers from the Gwangyang firm's first week already in
+  front of her, which meant somebody there had sent them the moment there was
+  anything to send."* Dazu ihr Brief an Georgij, *"a Gwangyang postmark"*.
+  **Damit ist auch "Mrs Jeon geht Mitte Mai aus dem Gebaeude" eingeloest** -
+  wer im Juni in Gwangyang die Buecher fuehrt, ist aus dem Gebaeude heraus.
 
 - **DIE FRAU, DIE CHOI DAE-HO VOR ELF JAHREN VERLOR (oder: die ihn schlug).**
   Ein Zimmer, eine abgesagte Hochzeit, vier Jahre Auslandsaufenthalt. Zwei
@@ -1486,19 +1512,32 @@ Fassung.**
   genug, um rechtzeitig anzurufen** - entweder lebt jemand mit ihr im Haus,
   oder besucht sie oft genug. **Faellig: wer, ueber die Gasfirma.**
 
-- **Mrs Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
+- ~~**rs Js Jeon bekommt die Gwangyang-Stelle.** Entschieden von Annie in Kapitel 30,
   nicht als Gunst, sondern weil ein Mensch mit nichts genau ein Gut hat.
   **Faellig: das Angebot geht raus, mit dem Eigentuemernamen auf der ersten
   Seite.** Ob sie es annimmt, ist offen und muss offen gespielt werden - sie hat
   im April schon einmal nein gesagt.
 
+  **BEZAHLT am 25.08. nachgewiesen, Kapitel 37 (Do 11. Juni):** *"She was at
+  the desk with the ledgers from the Gwangyang firm's first week already in
+  front of her, which meant somebody there had sent them the moment there was
+  anything to send."* Dazu ihr Brief an Georgij, *"a Gwangyang postmark"*.
+  **Damit ist auch "Mrs Jeon geht Mitte Mai aus dem Gebaeude" eingeloest** -
+  wer im Juni in Gwangyang die Buecher fuehrt, ist aus dem Gebaeude heraus.
+
   **Und die Nebenwirkung steht schon im Text:** sie wird binnen einer Woche
   ausrechnen, dass man sie mit Absicht sicher gemacht hat, **und sie darf das
   uebelnehmen.**
 
-- **In etwa vier Tagen.** *"You are going to feel it in about four days when you
+- ~~**In etwa vier Tagen.**~~ *"You are going to feel it in about four days when you
   notice that I did the thing you should have done in April and that it took me
   eleven minutes."* **Das ist der 2. Juni, und es ist eine Ansage mit Datum.**
+
+  **BEZAHLT am 25.08. nachgewiesen, Kapitel 32 (Di 2. Juni), auf den Tag:**
+  *"Eleven minutes, she had said, and about four days."* Und was er dann
+  merkt, steht ausgeschrieben: *"She heard the worst thing he has done to her
+  this year, and she took eleven minutes, and inside those eleven minutes she
+  solved the thing he had put a line through in March and not looked at since."*
 
 - **Der Satz, den er am 29. Mai nicht zu Ende gesagt hat.** *"I do not mind being
   corrected by you"* - und dann hoerte er das Ende kommen. **Annie: "Then do not.
@@ -1518,9 +1557,14 @@ Fassung.**
   Der Fahrer ist der zweite: jemand hat den Menschen physisch aus dem Gebaeude
   gefahren und ist dafuer bezahlt worden.
 
-- **DAS HEFT GEHT AM DIENSTAG ZURUECK.** Zugesagt, mit Datum: *"I will bring it
+- ~~**DAS HEFT GEHT AM DIENSTAG ZURUECK.** Zugesagt, mit Datum: *"I will bring it
   back on Tuesday."* **Er hat sie geliehen bekommen, nicht geschenkt.** Und die
   Zusage darunter ist unbefristet: sie hoert es von ihm und von niemandem sonst.
+
+  **BEZAHLT am 25.08. nachgewiesen, Kapitel 32 (Di 2. Juni), erste Handlung des
+  Kapitels:** *"He put the exercise book on the table before he sat down."* Der
+  Rueckbezug steht vier Zeilen spaeter: *"the way she had turned the exercise
+  book round on Friday."*
 
 - **Hwangs Bitte hat eine Antwort bekommen, ohne dass er sie gestellt hat.**
   Mrs Jeon, an der Tuer: *"tell him from me that I kept mine too, and that I
