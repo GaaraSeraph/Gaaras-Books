@@ -22,6 +22,7 @@ Rueckgabewert 1, wenn ein Fehler gefunden wurde. Warnungen aendern ihn nicht.
 import re
 import sys
 import glob
+import io
 import os
 import datetime
 import collections
@@ -32,6 +33,10 @@ NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
 # aufgeschrieben. Zwei Listen desselben Inhalts driften auseinander, und dann
 # prueft check.py einen Ordner, den build.py nicht baut, oder umgekehrt.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+EM_STRICH = "—"
+EN_STRICH = "–"
+
 
 def projektwurzel(start=None):
     """Das Projektverzeichnis finden statt es anzunehmen.
@@ -786,6 +791,40 @@ def formel_report(best, knapp=False):
                   + (" ..." if len(kaps) > 14 else ""))
 
 
+def striche_report(root):
+    """Gedankenstriche in den Dokumenten. doc/01-craft.md, Abschnitt 5:
+    "Keine Gedankenstriche, nur Bindestriche."
+
+    Das Buch selbst war am 25.08. sauber - null Treffer in chapters/ und
+    chapters-2/. Die 69 Treffer standen alle in doc/, wo die Regel genauso
+    gilt und nur niemand nachgesehen hatte.
+
+    **Nicht geprueft wird paste/**: die 377 Szenentrenner dort sind drei
+    Geviertstriche und werden von build.py aus `* * *` erzeugt. Sie sind
+    Struktur und kein Satzzeichen. Und **werkzeug/belege.py behaelt zwei**,
+    in seiner Normalisierungstabelle - der Zitatpruefer braucht sie, um
+    Striche in fremden Zitaten wegzuraeumen.
+
+    Meldet und blockiert nicht. Ein Schreib-Durchgang soll nicht an einem
+    Satzzeichen haengenbleiben.
+    """
+    treffer = []
+    for p in sorted(glob.glob(os.path.join(root, "doc", "*.md"))):
+        text = io.open(p, encoding="utf-8").read()
+        for i, z in enumerate(text.split(chr(10)), 1):
+            n = z.count(EM_STRICH) + z.count(EN_STRICH)
+            if n:
+                treffer.append((os.path.basename(p), i, n))
+    if treffer:
+        gesamt = sum(n for _, _, n in treffer)
+        print("Gedankenstriche in doc/ (doc/01-craft.md, Abschnitt 5): "
+              "%d in %d Zeilen" % (gesamt, len(treffer)))
+        for name, i, n in treffer[:12]:
+            print("  %-24s Zeile %-5d %d" % (name, i, n))
+        if len(treffer) > 12:
+            print("  ... und %d weitere Zeilen" % (len(treffer) - 12))
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
@@ -876,6 +915,7 @@ def main():
             print("  Versionsnummern nachziehen mit: python3 check.py --sync-state")
     if not args:
         formel_report(best, knapp=True)
+        striche_report(root)
 
     if base:
         if better:

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 258.644 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 259.195 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -240,6 +240,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was dabei doch zu berichtigen war](#was-dabei-doch-zu-berichtigen-war)
   - [Zwei Sachfragen an den Inhalts-Chat, nicht von mir zu entscheiden](#zwei-sachfragen-an-den-inhalts-chat-nicht-von-mir-zu-entscheiden)
   - [Der Durchgang fortgesetzt: alle uebrigen Figuren](#der-durchgang-fortgesetzt-alle-uebrigen-figuren)
+  - [Gedankenstriche: 69 ersetzt, und die Regel stand laengst da](#gedankenstriche-69-ersetzt-und-die-regel-stand-laengst-da)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -788,7 +789,15 @@ three weeks answering. Tonight I stop."*
 - **Fragezeichen** nach der mechanischen Regel in `doc/01-craft.md`:
   Aussagesyntax behaelt den Punkt, Fragesyntax und verkuerzte Fragen bekommen das
   Zeichen. `check.py` meldet Verdachtsfaelle, entscheidet aber nicht.
-- **Keine Gedankenstriche**, nur Bindestriche.
+- **Keine Gedankenstriche**, nur Bindestriche. **Gilt fuer die Dokumente
+  genauso.** Am 25.08. war das Buch sauber - null Treffer in `chapters/`
+  und `chapters-2/` - und in `doc/` standen 69. `check.py` meldet sie jetzt
+  bei jedem Lauf, ohne zu blockieren.
+  **Zwei Stellen bleiben und sind kein Verstoss:** die 377 Szenentrenner in
+  `paste/` (drei Geviertstriche, von `build.py` aus `* * *` erzeugt - das ist
+  Struktur) und zwei Zeichen in der Normalisierungstabelle von
+  `werkzeug/belege.py`, mit denen der Zitatpruefer Striche aus fremden
+  Zitaten raeumt.
 - **Anfuehrungszeichen** bei jeder direkten Rede. Erinnerte Rede wird zu
   indirekter umgebaut, statt ohne Zeichen dazustehen.
 - **Klare Absatztrennung zwischen Sprechern.** Keine Replik teilt sich einen
@@ -1283,9 +1292,9 @@ eigenen Person**. Diese drei brechen am leichtesten und fallen am meisten auf.
 
 26. Vier Sprachen. Mit neun verkauft, gegen eine Schuld seiner Mutter, deren Höhe er nie gesehen hat und die bei jedem Besitzerwechsel gewachsen ist. **Siebzehn Jahre Eigentum, und seit dem 19. Februar nicht mehr.**
 
-**Diese Zeile stand bis zum 25.08. als *„Seit siebzehn Jahren Eigentum"* da und war seit Band 1, Kapitel 34 falsch.** Annie hat die Zeile im Buch streichen lassen — vier Termine in sieben Wochen, beim dritten Mal nicht wegen des Geldes. Er sagt es selbst: *„A man who belongs to nobody is stock, and since the nineteenth of February I belong to nobody."* Annie: *„You are describing being free."*
+**Diese Zeile stand bis zum 25.08. als *„Seit siebzehn Jahren Eigentum"* da und war seit Band 1, Kapitel 34 falsch.** Annie hat die Zeile im Buch streichen lassen - vier Termine in sieben Wochen, beim dritten Mal nicht wegen des Geldes. Er sagt es selbst: *„A man who belongs to nobody is stock, and since the nineteenth of February I belong to nobody."* Annie: *„You are describing being free."*
 
-**Und dann bleibt er.** Am 1. März wird ihm angeboten, das Halsband abzunehmen, und er lehnt ab — nicht aus Vorsicht, sondern weil *„It is not what holds me and it never was. It is what holds you."* **Er gehört ihr seitdem, weil er sich dafür entschieden hat, und nicht, weil ein Eintrag es sagt.** Wer ihn ab dem 19. Februar als Eigentum beschreibt, hat das Ende von Band 1 nicht gelesen; wer ihn als frei beschreibt, hat den 1. März nicht gelesen.
+**Und dann bleibt er.** Am 1. März wird ihm angeboten, das Halsband abzunehmen, und er lehnt ab - nicht aus Vorsicht, sondern weil *„It is not what holds me and it never was. It is what holds you."* **Er gehört ihr seitdem, weil er sich dafür entschieden hat, und nicht, weil ein Eintrag es sagt.** Wer ihn ab dem 19. Februar als Eigentum beschreibt, hat das Ende von Band 1 nicht gelesen; wer ihn als frei beschreibt, hat den 1. März nicht gelesen.
 
 Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund vermerkt, davor war er ein Kind, und Kinder werden ohne Papierkram weitergereicht. Die vier Häuser hielten ihn im Schnitt vierundneunzig Tage.
 
@@ -1575,7 +1584,7 @@ eine, die niemand außer ihr zu sehen bekommt.
 hat, bekommt es umsonst; wer nicht, verliert nichts.
 
 **Regel ab hier:** Vor anderen zuckt er weiterhin nicht. Fällt es ein zweites
-Mal, dann wieder vor ihr — und beim Bruch wird es teuer, weil sie dann weiß, was
+Mal, dann wieder vor ihr - und beim Bruch wird es teuer, weil sie dann weiß, was
 es bedeutet.
 
 ### Bei Verbündeten läuft kein Verfahren
@@ -1627,7 +1636,7 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Sie fährt schmal.** Zur Auktion kein zweiter Mann, kein zweiter Wagen, niemand vom Haus auf der Treppe. Der Wachmann fährt selbst. An solchen Abenden soll niemand später etwas beschreiben können.
 
-**Namensregel:** In der Öffentlichkeit "Annie". Sonst nirgends. Privat sagt er "Mistress". Ein Regelbruch in die eine oder andere Richtung hören beide sofort. **Der Grund dafür stand hier falsch** — *„privat ist er Eigentum"* gilt nur bis zum 19. Februar. Danach ist die Anrede eine Entscheidung und keine Tatsache, und **das macht sie schwerer und nicht leichter**.
+**Namensregel:** In der Öffentlichkeit "Annie". Sonst nirgends. Privat sagt er "Mistress". Ein Regelbruch in die eine oder andere Richtung hören beide sofort. **Der Grund dafür stand hier falsch** - *„privat ist er Eigentum"* gilt nur bis zum 19. Februar. Danach ist die Anrede eine Entscheidung und keine Tatsache, und **das macht sie schwerer und nicht leichter**.
 
 **Ihr Auftrag an ihn** (Kapitel 2, in der Auffahrt ausgesprochen): Blut an den Händen kann jeder, die hat sie mehrfach eingekauft und sie waren billig. Was sie nie hatte, ist einer, der weiß, an welchen Abenden die Hände sauber bleiben müssen, und der es weiß, ohne dass man ihm einen Zettel hinlegt. Der erste Abend war die Hälfte, die jeder kann.
 
@@ -1847,14 +1856,14 @@ Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
-**Annies Vater** — tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
+**Annies Vater** - tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
 dieser Band überhaupt läuft. **Er steht seit dem 25.08. hier, weil er im Buch
 stand und in keinem Figurendokument.** Kein Name im Text.
 
 - **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, Kapitel 62: *"your father
   brought Choi Dae-ho into your house"*, und zuvor: *"Your father brought a man
   to a table twenty-three years ago and was pleased with himself about it, and
-  he has been dead for twenty-three years."* **Beides im selben Jahr** — er hat
+  he has been dead for twenty-three years."* **Beides im selben Jahr** - er hat
   den Mann geholt und ist gestorben, ohne zu sehen, was daraus wurde.
 - **Annie war vierzehn.** Kapitel 27, aus ihrem Mund: *"I was fourteen. He was
   at my father's table before I was allowed at it."* Kapitel 62 setzt nach:
@@ -1873,7 +1882,7 @@ stand und in keinem Figurendokument.** Kein Name im Text.
 **Die Rechnung, die daran hängt, und sie geht auf.** Sie hat es mit vierzehn
 bemerkt, mit dreißig verstanden, und Kapitel 61 sagt: *"She has known for seven
 years that there was a man at her father's table who was wrong."* Sie ist
-siebenunddreißig — vierzehn plus dreiundzwanzig, dreißig plus sieben.
+siebenunddreißig - vierzehn plus dreiundzwanzig, dreißig plus sieben.
 
 **Und die Regel, die Georgij daraus zieht** (Kapitel 62): *"Everything that man
 has done since is his own... none of it is a debt that came down to you."* Wer
@@ -8141,7 +8150,7 @@ Kapitel 30). Sie holt niemanden heraus, **sie schliesst ein Konto**, das ein Man
 elf Jahre offen gehalten hat, und sie ist die Einzige im Land, die weiss, was das
 kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
 
-**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** — sie ist gesetzt und steht **noch nicht im Text**:
+**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** - sie ist gesetzt und steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -8163,7 +8172,7 @@ das hier ist der Grund, den er ihr gibt.
 ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
 überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
 
-**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text — er beginnt mit einem Bruchteil,
+**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text - er beginnt mit einem Bruchteil,
 korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
 und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
 
@@ -8201,7 +8210,7 @@ Frau tut, die er sehr mag.
 **Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
 hat er **Hana** die Hand geküsst, *"over the fingers, in the European way, in
 front of four or five people who will describe it inside the week and use that
-word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
+word"* - und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
 *"the first defensive thing she had seen me do."*
 
 | | Band 1, Kapitel 11 | Bandende |
@@ -8210,21 +8219,21 @@ word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbs
 | Wo | Ballsaal, vor vier oder fünf Leuten | Niemand sonst im Haus |
 | Was | Handrücken, über die Finger, europäisch | **Die Fingerspitzen** |
 | Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
-| Sein Wort dafür | *defensive* | — |
+| Sein Wort dafür | *defensive* | - |
 
 **Die Regel für die Szene:** kein höfisches Vokabular. Nicht *bowed*, nicht *took
 her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
 wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
 passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
 
-**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** — auch das folgende steht **noch nicht im Text**:
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** - auch das folgende steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
 Reihenfolge offen und beim Schreiben zu entscheiden. Eintragen in
 `doc/10-naehe.md`, Register A bis C, sobald sie geschrieben ist.
 
-**Der Anlauf läuft über Erschöpfung, nie über Ruhe** — das steht seit dem 25.08.
+**Der Anlauf läuft über Erschöpfung, nie über Ruhe** - das steht seit dem 25.08.
 oben in diesem Dokument und gilt für diese Szene besonders.
 
 ---
@@ -8265,7 +8274,7 @@ Jang zu hoeren. Was daran im Buch anders lauten muss:
 
   1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
      mit dem Todesstoss und nicht mit der Begruendung davor.
-  2. **Beim Bericht an Annie danach** — Vorschlag, noch nicht im Text —, und es bezieht sich ausdruecklich auf
+  2. **Beim Bericht an Annie danach** - Vorschlag, noch nicht im Text -, und es bezieht sich ausdruecklich auf
      Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
      you about it afterwards."*
 
@@ -8363,7 +8372,7 @@ Zeit selbst in der Hand hatte.
 1. **Sang-hoon bekommt Annies Lesart in einem Raum und nicht am Telefon.**
    Georgij sagt es am Schluss selbst zu: *"I will ask him for an hour this week."*
    Eine Zusage mit Frist, also eine Schuld wie jede andere hier.
-2. **Jang liest das Firmenschild** — **die Frist ist am 25.08. gestrichen, weil
+2. **Jang liest das Firmenschild** - **die Frist ist am 25.08. gestrichen, weil
    sie keine Quelle hat.** Hier stand *"Ten days is enough. Do not go closer for
    it before then."* als Georgijs Zusage aus Kapitel 44. **Der Satz steht in
    keiner Fassung**, und Kapitel 44 befristet nichts: Jang beobachtet dort
@@ -8595,14 +8604,14 @@ Bezahlung. Die Bitte steht weiter offen.
 **Hier stand bis zum 23.08.:** *"Erst danach die Blöcke F bis J, und zwar mit
 Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt."*
 **Das war zu diesem Zeitpunkt drei Monate Erzählzeit überholt.** Der Bruch ist am
-27. November gefallen, Tag 55, Kapitel 22 bis 24 — Salon, Mauer, Brücke, alles in
+27. November gefallen, Tag 55, Kapitel 22 bis 24 - Salon, Mauer, Brücke, alles in
 derselben Nacht. Block F ist aufgelöst, Block G, I und J sind geschrieben, Block H
 ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/06-plot.md` ist ab
 hier vollständig Herkunftsnotiz.
 
 **Und das ist die eigentliche Auskunft dieser Liste:** Der Geschäftsstrang ist
-gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Choi
-Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
+gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht - Zollakte, Choi
+Dae-ho, Los elf, die Pipeline - sind Fäden ohne Zähne; keiner davon kann noch
 schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 
 **Das war bis Kapitel 33 die einzige Sache, die noch scheitern konnte:** was
@@ -8647,7 +8656,7 @@ sie nichts mehr kostet, es zu beenden. Er hat es ihr selbst vorgerechnet.
 
 Nichts davon wird in 34 angefasst, und das ist Absicht.
 
-1. **Los elf und der Name des Garanten** — dieselbe Vorenthaltung, beide Hälften
+1. **Los elf und der Name des Garanten** - dieselbe Vorenthaltung, beide Hälften
    gehören zusammen (Punkt 9 oben). Der Junge wird laut Absprache vom 23.08.
    irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen. **Annie
    sagt in Kapitel 34, dass sie viermal in dem Gebäude war und dass es beim
@@ -8655,7 +8664,7 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 2. **Ye-rin kommt von selbst zurück**, sobald das Vetorecht beisst und die Kims
    merken, dass sie Personal geworden sind. Der ungenannte Preis liegt bereit und
    gehört ihr zum Anbieten.
-3. **Sang-hoon zahlt nicht zweimal — vier andere schon.** Annie sagt das in 34
+3. **Sang-hoon zahlt nicht zweimal - vier andere schon.** Annie sagt das in 34
    ausdrücklich, und sie sagt dazu, dass er innerhalb eines Jahres recht behalten
    wird mit „zu niedrig".
 4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
@@ -8944,7 +8953,7 @@ Fassung.**
 - ~~**Jang, drei Tage ab dem 3. April.**~~ **BEZAHLT, Kapitel 13:** *"Jang came on
   the Wednesday, two days early, with a folder."* Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
-  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** —
+  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** -
   *"You are asking me and not Mrs Seo. I have noticed that, and I would like it
   to go on."* Am 25.08. geprüft: in keiner Fassung, nicht in Kapitel 13 und
   nirgends sonst. Was Jang wirklich sagt, ist seine Linie: *"I have not used
@@ -10043,8 +10052,8 @@ Die neunzehn sind tragend, die dreihundert waren es nie:
   building who know what I am."* Drei von neunzehn ist eine Belastung, die man
   tragen kann. Drei von dreihundert ist keine Aussage.
 
-Der Faden über Kapitel 6 — die drei Namen auf den einundneunzig, Annies
-*"it's been handled"* — setzt voraus, dass der Keller abzählbar war. Gestrichen
+Der Faden über Kapitel 6 - die drei Namen auf den einundneunzig, Annies
+*"it's been handled"* - setzt voraus, dass der Keller abzählbar war. Gestrichen
 wurde deshalb nur die Zwischenklausel, ohne Ersatz: die Sitzordnung vier
 Absätze früher setzt den Maßstab besser, als eine Zahl es könnte.
 
@@ -11618,8 +11627,13 @@ Halsband an und nie an das Halsband selbst.**
 | 1 | B1 33 | Mo 29. Dezember | **Das wirklich erste Mal, und es fehlte hier.** *"It came round and settled along the side of his face, cool from the room, the heel of it just under the bone."* |
 | 2 | B1 34 | Februar | Zusammenfassend, keine Szene. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
 | 3 | B1 34 | So 1. März | Am Fenster, nachdem er von sich aus heruntergegangen ist. *"Annie's hand came down on the back of his head and stayed there."* |
+<<<<<<< HEAD
 | 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. **Achtung auf die Stellung:** sie steht, und er geht deshalb **nicht** an die Seite des Schreibtischs, sondern vor sie hin - *"which is a different place and which he has never done"*. Die Wendung *"down onto the carpet at her feet"* gehoert der sitzenden Annie und darf hier nicht stehen; in v1.6 stand sie da und war ein Fehler. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
+=======
+| 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
+| 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* - **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
+>>>>>>> cae0d8c (Gedankenstriche: 69 in doc/ durch Bindestriche ersetzt, Regel an check.py gehaengt)
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
 | 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
@@ -11662,7 +11676,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 |---|---|
 | B1 6 | *"Eat something before you go. … a man who has not eaten agrees to things at eleven o'clock that he would not agree to at eight."* |
 | B1 5, 28 | *"Go to bed, Georgij."* **Zweimal** mit Namen. In B1 31 steht die kurze Form *"Go to bed."* ohne ihn, was etwas anderes ist. |
-| B1 23 / 24 | *"Have you eaten?"* — die Frage, die dem Kapitel den Titel gibt. |
+| B1 23 / 24 | *"Have you eaten?"* - die Frage, die dem Kapitel den Titel gibt. |
 | B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
 | B2 30 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
 | B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
@@ -11713,7 +11727,7 @@ Dann fragt sie ihn, was er will, und er findet nichts: *"He had wanted things at
 nine years old and had stopped."* **Daher kommt "since I was nine".**
 
 Und sie gibt ihm ihren Namen. *"That is my name," said Annie. "It is on nothing. My
-mother used it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
+mother used it and my brother used it and both of them are dead."* - **Hye-jin.** Er sagt es
 nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
 thing like that … Hye-jin went in there and stayed, and he did not take it out
 again for a very long time."* **Eingelöst in B2 35, am 4. Juni, sechs Monate und
@@ -11737,7 +11751,7 @@ inside his field and he prices the distance to it. He has done it since he was
 nineteen and does not know how to stop. He stopped."*
 
 **Die vierte Bitte in acht Monaten, und sie ist die Einlösung der Brücke.** Sie
-zählt die drei davor auf, in der Reihenfolge, in der sie passiert sind — *"A piece
+zählt die drei davor auf, in der Reihenfolge, in der sie passiert sind - *"A piece
 of paper. A room with nobody else in it. And a woman in Ulsan."* Dann fragt er
 nach dem Namen:
 
@@ -11748,7 +11762,7 @@ nach dem Namen:
 
 **Er bittet sie nicht, herunterzukommen.** Das täte er nie, es steht ihm nicht zu,
 und die Frage nach dem Namen ist die teurere. Sie beantwortet sie, indem sie das
-Buch weglegt und runterkommt — **bevor** sie ein Wort sagt. *"She did it before she
+Buch weglegt und runterkommt - **bevor** sie ein Wort sagt. *"She did it before she
 answered him. He understood the order of those two things about a second
 afterward."* Erst dann: *"Say it," said Annie.* Und: *"He said it."*
 
@@ -11756,12 +11770,12 @@ Der Name steht nicht auf der Seite. Er stand auch in B1 24 nicht auf der Seite,
 als sie ihn gab (*"she said something in Korean, two syllables"*), und er bleibt
 seiner.
 
-Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." —
+Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." -
 "No. You did not, and you would not have, and both of us knew that four minutes
 ago."*
 
 Die Umkehrung: zwei Finger unter das Halsband, zum ersten Mal in acht Monaten.
-**Nicht, weil es abgenommen wird — das ist seit dem 1. März erledigt —, sondern
+**Nicht, weil es abgenommen wird - das ist seit dem 1. März erledigt -, sondern
 weil sie das anfasst, wovon er ihr gesagt hat, dass es sie hält.** Das Gespräch
 danach handelt ausschließlich von diesem Satz: dass er ihn seit der zweiten
 Oktoberwoche hatte und bis März nicht ausgegeben hat, und dass er sich den einen
@@ -11816,7 +11830,7 @@ Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
 
 # Wie geprüft wird
 
-Dieses Dokument sagt nicht, **was** im Buch steht — das steht in `doc/05`. Es
+Dieses Dokument sagt nicht, **was** im Buch steht - das steht in `doc/05`. Es
 sagt, **wie man nachsieht**, und was das Nachsehen am 25.08. an sich selbst
 gelernt hat.
 
@@ -11835,7 +11849,7 @@ Sorte findet, ohne dass jemand ihn liest.
 
 ---
 
-## Aus einem Fund einen Streifzug machen — vier Schritte
+## Aus einem Fund einen Streifzug machen - vier Schritte
 
 1. **Die Klasse benennen.** Der Kartenfehler in Kapitel 38 ist kein Kartenfehler.
    Er ist ein Fall von: *dieselbe seltene Sache steht zweimal in einem Kapitel,
@@ -11843,7 +11857,7 @@ Sorte findet, ohne dass jemand ihn liest.
 2. **Die Klasse bekommt eine Signatur**, die eine Maschine sehen kann.
 3. **Der Detektor wird am bekannten Exemplar geeicht.** Findet er den Fehler
    nicht, den er finden können muss, ist er wertlos.
-4. **Erst dann der Lauf** — und ein leeres Ergebnis ist dann ein Ergebnis.
+4. **Erst dann der Lauf** - und ein leeres Ergebnis ist dann ein Ergebnis.
 
 **Schritt 3 ist der, den man ausläßt, und der einzige, der etwas beweist.**
 Der Detektor in `zuschreibung.py` hat drei Anläufe gebraucht:
@@ -11869,7 +11883,7 @@ Meldung**, wenn die Eichung durchfällt.
 **1. Eine Zahl, die in beiden Bänden steht, wird in beiden geprüft, bevor eine
 davon geändert wird.**
 Ich habe in Band 1 Kapitel 28 *„four hours"* auf *„two hours"* gezogen, weil
-Kapitel 1 zweimal zwei Stunden sagt. Band 2 sagt an zwei Stellen vier — und die
+Kapitel 1 zweimal zwei Stunden sagt. Band 2 sagt an zwei Stellen vier - und die
 beiden Zahlen messen Verschiedenes: Kapitel 1 zählt die Zeit **im Saal**, Band 2
 die Zeit **im Gebäude**. Die Korrektur war der Fehler. Zurückgenommen.
 
@@ -11880,12 +11894,12 @@ denselben Durchgang schickt, hat den Durchgang nicht gemacht.
 **3. Der Blickwinkel wird vorher benannt.**
 Ohne Grenze findet ein Durchgang alles ein bisschen und nichts ganz. Die bisher
 gelaufenen: Rückbezüge, Wissensstand, eingelöste Zusagen, Interpunktion, Zahlen
-und Daten, Sinn der Aussagen — und zuletzt **Zuschreibung**.
+und Daten, Sinn der Aussagen - und zuletzt **Zuschreibung**.
 
 **4. Ein Fund ohne Gegenbeleg ist eine Meinung.**
 Kapitel und Wortlaut der Gegenstelle gehören dazu, sonst wird er nicht gemeldet.
 
-**5. Was sich nicht beweisen läßt, bleibt stehen — mit dem Grund.**
+**5. Was sich nicht beweisen läßt, bleibt stehen - mit dem Grund.**
 Am 25.08. zwei Vorschläge zurückgehalten: einer betraf einen Absatz, der **in
 sich stimmig** ist, der andere war eine Ergänzung und keine Korrektur.
 
@@ -11902,12 +11916,12 @@ meldet.**
 und die Kapitelprüfung **312, dann 61, dann 12**. Am Buch hat sich dabei nichts
 geändert. Wer die erste Zahl gemeldet hätte, hätte den Autor durch
 zweihundert Falschmeldungen geschickt, um drei echte zu finden. **Die Zahl sinkt,
-bis jeder verbleibende Fund einzeln erklärbar ist** — erst dann wird berichtet.
+bis jeder verbleibende Fund einzeln erklärbar ist** - erst dann wird berichtet.
 Was jede Runde gekostet hat, steht als Kommentar im Programm, damit die nächste
 Fassung nicht wieder dagegen läuft.
 
 **9. Ein Dokument darf ein Zitat nur so gut kennen, wie es dasteht.**
-Aus dem Gedächtnis geschriebene Zitate sind immer *besser* als das Original —
+Aus dem Gedächtnis geschriebene Zitate sind immer *besser* als das Original -
 pointierter, symmetrischer, mit einer Zusatzklausel, die die These stützt. Genau
 daran erkennt man sie. Drei Fälle in `doc/05` am 25.08., alle drei zugespitzt
 gegenüber dem Buch, und einer davon trug den ganzen Absatz.
@@ -11917,24 +11931,24 @@ Eine Zahl, die sich um ein Drittel bewegt, ist als Zwischenstand irreführend.
 
 ---
 
-**10. Ein Detektor muss Behauptung und Vorschlag auseinanderhalten können —
+**10. Ein Detektor muss Behauptung und Vorschlag auseinanderhalten können -
 und wenn er es nicht kann, muss man es ihm sagen.**
 `belege.py` hat in `doc/12-stimmen.md` **zwanzig** Falschzitate gemeldet.
-Achtzehn davon sind absichtlich erfundene Repliken — *so würde Jang reden*. Der
+Achtzehn davon sind absichtlich erfundene Repliken - *so würde Jang reden*. Der
 Hinweis kam aus der Stilsitzung, und er war richtig: eine Zahl, die zu neunzig
 Prozent aus Absicht besteht, gewöhnt alle daran, sie zu ignorieren, **und dann
 fängt sie auch das echte Falschzitat nicht mehr.** Das Programm liest jetzt
 drei Töpfe: *ohne Beleg*, *alte Fassung*, *Vorschlag*. Nichts wird
-unterdrückt — die zwei Nebentöpfe werden gezählt und stehen im Bericht.
+unterdrückt - die zwei Nebentöpfe werden gezählt und stehen im Bericht.
 
 **Und die Probe darauf hat gestimmt:** von den zwanzig blieb einer übrig, und
-der war echt. Hanas Stimmblatt stand auf einem Satz, den es nicht gibt —
+der war echt. Hanas Stimmblatt stand auf einem Satz, den es nicht gibt -
 *"Half of what I say on a terrace I say on purpose."* Der Text sagt es
 besser, in Kapitel 21, aus ihrem eigenen Mund: *"I am not being careless for
 you. In twenty-five years I have not put one sentence into one room without
 knowing what it would do when it got there."*
 
-**Wer Vorschläge schreibt, markiert sie** — ein Wort genügt, in der Überschrift
+**Wer Vorschläge schreibt, markiert sie** - ein Wort genügt, in der Überschrift
 oder im Absatz davor: *Beispiel*, *Vorschlag*, *Muster*, *Entwurf*, *Probe*,
 *so würde*, *nicht im Text*. Keine neue Syntax; die Blätter schreiben ohnehin
 *Ein Beispiel, ruhig*.
@@ -11954,7 +11968,7 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 | **Falscher Sprecher** | ein *he said*, dessen Träger nicht auszumachen ist | B2 42 (der Anwalt) |
 | **Rückbezug auf den falschen Tag** | *„you told me on the…"* | B1 19 (die Einladung), B1 22 (Tisch statt Tür), B2 20 |
 | **Ein Dokument, das das Buch aus dem Gedächtnis zitiert** | ein Register, das eine Zeile führt, die es im Text nicht gibt | `doc/10-naehe.md` (der zweite Satz über den Stuhl) |
-| **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register — typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 44, und schrieb sie Annie statt Sang-hoon zu |
+| **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register - typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 44, und schrieb sie Annie statt Sang-hoon zu |
 | **Ein Alter, das seinen eigenen Geburtstag überholt** | eine Zahl im Text gegen die Geburtstagstabelle, sobald die geparkte Strecke erzählt wird | Yeom, Woo, Mrs Sunwoo und Annie am 25.08. |
 | **Eine Spanne, die sich selbst aufhebt** | *since I was X*, wo X das heutige Alter der Figur ist | B2 62: Annie sagt *since I was thirty-seven* und ist siebenunddreißig |
 
@@ -11967,24 +11981,24 @@ Inhaltsprüfung, nicht danach.** Drei Gründe:
 
 1. **Eine Inhaltskorrektur ist ein umgeschriebener Satz.** Wird derselbe Satz
    danach in die Stimme gezogen, kann die Zahl darin wieder verschwinden. Wer
-   zuletzt schreibt, hat recht — und das soll der Inhalt sein.
+   zuletzt schreibt, hat recht - und das soll der Inhalt sein.
 2. **Befunde gegen einen Wortlaut, den es nicht mehr gibt, sind wertlos.** Am
    25.08. lagen genau dafür Notizen im Register: die des alten Kapitels 46,
    geschrieben gegen eine Fassung, die es nach der Umnummerierung nicht mehr gab.
 3. **Warten kostet nichts**, weil das Archiv jede Fassung behält. Der Zustand
-   vor dem Durchgang muss nicht gesichert werden — er liegt schon da, und
+   vor dem Durchgang muss nicht gesichert werden - er liegt schon da, und
    `faktenspur.py --seit <sha>` holt ihn.
 
 **Zwei Dinge gehören aber davor.** Erstens: wer die Stimmen anlegt, muss die
 **Festgelegten Zeilen** aus `doc/05` vor sich haben. Ein Stimmblatt glättet sie
 sonst, und ein Zurücknehmen ist teurer als ein Nichtanfassen. Zweitens: die
 Fakten stehen in wörtlicher Rede. *"I am fifty-nine"*, *"since I was
-twenty-six"*, *"it was Y who suggested the cards"* — alles Stimme und alles
+twenty-six"*, *"it was Y who suggested the cards"* - alles Stimme und alles
 Kanon.
 
 **Gemessen am 25.08.:** seit dem ersten Stimmen-Commit haben **acht Kapitel**
 eine Zahl, ein Datum oder einen Namen bewegt. Das auffälligste Muster ist
-kein Zahlenfehler, sondern eine **sinkende Namensdichte** — gestrichene
+kein Zahlenfehler, sondern eine **sinkende Namensdichte** - gestrichene
 Sprecherangaben, etwa in Kapitel 60 das gelöschte *"Georgij said it without
 any weight on it."* Das ist genau der Boden, auf dem die Klasse **falscher
 Sprecher** wächst.
@@ -12010,7 +12024,7 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
 | `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text, getrennt nach *ohne Beleg* / *alte Fassung* / *Vorschlag*; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
 | `werkzeug/faktenspur.py` | was ein Stildurchgang an Zahlen, Daten und Namen bewegt hat; `--seit <sha>` gegen den Stand vor dem Durchgang | **ja**, drei Proben, darunter eine reine Stiländerung, die schweigen muss |
-| `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
+| `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | - |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
 eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`.
@@ -13772,7 +13786,7 @@ man ihm.
 **Und er beendet Gespräche selbst**, was in diesem Buch außer ihm nur Annie tut:
 *"I am now going to eat and you are going to let me."*
 
-**Er sagt den Satz, den sonst niemand sagt** — über sich selbst zuerst. In
+**Er sagt den Satz, den sonst niemand sagt** - über sich selbst zuerst. In
 Kapitel 26 zählt er vier Entscheidungen auf, die er an Chois Tischen getroffen
 und nie erklären konnte, und er tut es unaufgefordert.
 
@@ -14332,7 +14346,7 @@ you say about it."*
 
 **Er ist die Quelle der Berater-Legende**, weil er die Frage nach der Ausbildung
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
-sollte** — Woo, Sunwoo und Choi.
+sollte** - Woo, Sunwoo und Choi.
 
 ### Mrs Sunwoo (81 Jahre)
 
@@ -14406,7 +14420,7 @@ Anrechnung. **Er darf nicht:** eine moralische Rechtfertigung ohne Erbfolge -
 
 **Der Amtston, und darunter nichts.** Beide reden in Zuständigkeiten. Do-yuns
 Gesicht tut nichts, und das ist seine Replik. Sie sind austauschbar **mit
-Absicht** — sie sind das Milieu und keine Menschen, und das darf man hören.
+Absicht** - sie sind das Milieu und keine Menschen, und das darf man hören.
 
 ### Shin (4 Repliken)
 
@@ -14855,7 +14869,7 @@ Eine Zeile je Zusage, und das Format ist maschinenlesbar. Wer es ändert, änder
 den Ausdruck in `zusagen.py` mit.
 
 ```
-- [OFFEN] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 210 · "Zitat" · —
+- [OFFEN] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 210 · "Zitat" · -
 ```
 
 - **Status**: `OFFEN`, `BEZAHLT` oder `VERFALLEN`. Verfallen heißt: die Figur hat
@@ -14864,12 +14878,12 @@ den Ausdruck in `zusagen.py` mit.
 - **Fälligkeit**: entweder `Tag N` in Erzähltagen oder `bei <Ereignis>`.
   **`offen` gibt es seit dem 25.08. nicht mehr**, und das ist die Antwort auf
   einen Einwand des Autors: eine Zusage ohne genannte Frist hat trotzdem einen
-  Auslöser — *wenn sie herauskommt*, *wenn es vorbei ist*, *wenn er den Namen
+  Auslöser - *wenn sie herauskommt*, *wenn es vorbei ist*, *wenn er den Namen
   hat*. Wer den nicht hinschreibt, kann später nicht prüfen, ob er eingetreten
   ist, und die Zusage ist dann kein offener Faden, sondern ein unsichtbarer.
   `zusagen.py` listet beide Sorten getrennt und **meldet jede Zeile, die weder
   einen Tag noch ein Ereignis trägt**, mit Rückgabewert 1.
-- **Eingelöst**: das Kapitel, das sie bezahlt, oder `—`.
+- **Eingelöst**: das Kapitel, das sie bezahlt, oder `-`.
 
 **Nach jedem geschriebenen Kapitel:**
 
@@ -14902,13 +14916,13 @@ wird.**
 
 ## Offen
 
-- [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
+- [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · -
 - [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 405 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · **Frist am Tag 350 nach vorn gerueckt:** Kapitel 72 hat November statt Weihnachten ergeben, Kapitel 74 setzt den Kauf auf vor Ende Oktober
 - [BEZAHLT] **B2 68** Georgij an Sim · gesagt Tag 339 · faellig Tag 346 · "There is a difference. You will not be able to hear it and she will." · B2 72: sie sagt am 14. seinen Namen, zum ersten Mal in vier Jahren. **Sim und Mr Ahn lesen es als Abschied, und keiner von beiden war am siebten in dem Zimmer** (Notiz im Wagen, B2 74 v1.1)
 - [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
 - [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig bei dem Tag, an dem die Frau in Gangwon-do ihn nicht mehr braucht · "After the fourteenth I am finished." · **Kein Bruch, und das steht schon in 68:** auf *"Say the whole of it"* praezisiert er auf *"when the woman in Gangwon-do does not need me any more"*. Der Anruf am 28. September (B2 72) ist die Erfuellung und nicht der Verstoss
-- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig bei dem Ende des Feldzugs gegen Choi · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
-- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · —
+- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig bei dem Ende des Feldzugs gegen Choi · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · -
+- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · -
 - [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
 - [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 322 · "Put it in front of me on Friday. Not today." · B2 60: *"He put all of it in front of Annie at seven on the Friday evening"* - am Tag. **Stand bis zum 25.08. falsch als offen und mit falschem Kapitel und Tag im Buch.**
@@ -14916,19 +14930,19 @@ wird.**
 - [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an, ohne dass ihr jemand ein Datum nennen kann · —
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an, ohne dass ihr jemand ein Datum nennen kann · -
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · -
 - [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 410 · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
-- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · —
-- [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig bei Ahn Jung-hees Rueckkehr · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 410 · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · -
+- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · -
+- [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig bei Ahn Jung-hees Rueckkehr · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · -
 - [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
-- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · —
+- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · -
 - [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
-- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
-- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig bei dem Tag, an dem er den Namen hat · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · -
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · -
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig bei dem Tag, an dem er den Namen hat · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · -
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
@@ -16554,6 +16568,50 @@ markiert.
 
 **Moon Hae-sook und Mr Tak sprechen noch nicht** - ihre Blaetter sind vorab
 geschrieben. Da ist nichts anzugleichen, solange keine Replik existiert.
+
+*Unsicher:* keiner.
+
+### Gedankenstriche: 69 ersetzt, und die Regel stand laengst da
+
+**Gemessen vor dem Eingriff:**
+
+| Ort | Treffer | |
+|---|---|---|
+| `chapters/`, `chapters-2/` | **0** | **Das Buch war sauber.** Kein einziger Gedankenstrich in 109 Kapiteln |
+| `doc/*.md` | **69** | in acht Dateien |
+| `erzeugt/` | 69 | dieselben, aus doc erzeugt |
+| `paste/` | 1131 | **nicht angefasst** - das sind die 377 Szenentrenner, drei Geviertstriche, von `build.py` aus `* * *` erzeugt. Struktur, kein Satzzeichen |
+| `werkzeug/belege.py` | 2 | **nicht angefasst** - Normalisierungstabelle, mit der der Zitatpruefer Striche aus fremden Zitaten raeumt. Wer sie ersetzt, macht den Pruefer blind |
+
+**Die Regel gab es schon:** `doc/01-craft.md`, Abschnitt 5 - *"Keine
+Gedankenstriche, nur Bindestriche."* Sie wurde im Buch eingehalten und in den
+Dokumenten nie geprueft.
+
+**Vor dem Ersetzen die Formen gezaehlt**, weil ein Strich, der an einem Wort
+klebt, anders ersetzt werden muss als einer zwischen Leerzeichen:
+
+| Form | Anzahl |
+|---|---|
+| ` - ` zwischen Leerzeichen | 48 |
+| ` -` am Zeilenende | 18 |
+| ` -,` vor Komma | 2 |
+| in Backticks | 1 |
+
+**Kein einziger Fall klebte an einem Wort**, also war der direkte Austausch
+ueberall richtig.
+
+**Eine Stelle war heikel und ist geprueft worden.** In `doc/13-zusagen.md` ist
+der Strich kein Satzzeichen, sondern ein **Platzhalter im maschinenlesbaren
+Format**: *"Eingeloest: das Kapitel, das sie bezahlt, oder `-`."* Die Felder
+selbst trennt `zusagen.py` mit `·` und nicht mit einem Strich, und das Skript
+enthaelt den Geviertstrich nirgends literal - das Feld ist frei. Ersetzt,
+Definitionszeile mitgezogen, `zusagen.py` laeuft unveraendert (BEZAHLT 23).
+
+**Damit es nicht wiederkommt:** `check.py` hat jetzt `striche_report()` und
+meldet bei jedem Lauf jede Fundstelle in `doc/` mit Datei und Zeile. **Es
+blockiert nicht** - ein Schreib-Durchgang soll nicht an einem Satzzeichen
+haengenbleiben. Gegengeprueft mit einer Probedatei: meldet Geviert- und
+Halbgeviertstrich, ignoriert den Bindestrich.
 
 *Unsicher:* keiner.
 

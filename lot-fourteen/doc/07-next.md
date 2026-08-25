@@ -478,7 +478,7 @@ Kapitel 30). Sie holt niemanden heraus, **sie schliesst ein Konto**, das ein Man
 elf Jahre offen gehalten hat, und sie ist die Einzige im Land, die weiss, was das
 kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
 
-**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** — sie ist gesetzt und steht **noch nicht im Text**:
+**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** - sie ist gesetzt und steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -500,7 +500,7 @@ das hier ist der Grund, den er ihr gibt.
 ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
 überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
 
-**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text — er beginnt mit einem Bruchteil,
+**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text - er beginnt mit einem Bruchteil,
 korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
 und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
 
@@ -538,7 +538,7 @@ Frau tut, die er sehr mag.
 **Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
 hat er **Hana** die Hand geküsst, *"over the fingers, in the European way, in
 front of four or five people who will describe it inside the week and use that
-word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
+word"* - und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
 *"the first defensive thing she had seen me do."*
 
 | | Band 1, Kapitel 11 | Bandende |
@@ -547,21 +547,21 @@ word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbs
 | Wo | Ballsaal, vor vier oder fünf Leuten | Niemand sonst im Haus |
 | Was | Handrücken, über die Finger, europäisch | **Die Fingerspitzen** |
 | Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
-| Sein Wort dafür | *defensive* | — |
+| Sein Wort dafür | *defensive* | - |
 
 **Die Regel für die Szene:** kein höfisches Vokabular. Nicht *bowed*, nicht *took
 her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
 wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
 passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
 
-**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** — auch das folgende steht **noch nicht im Text**:
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** - auch das folgende steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
 Reihenfolge offen und beim Schreiben zu entscheiden. Eintragen in
 `doc/10-naehe.md`, Register A bis C, sobald sie geschrieben ist.
 
-**Der Anlauf läuft über Erschöpfung, nie über Ruhe** — das steht seit dem 25.08.
+**Der Anlauf läuft über Erschöpfung, nie über Ruhe** - das steht seit dem 25.08.
 oben in diesem Dokument und gilt für diese Szene besonders.
 
 ---
@@ -602,7 +602,7 @@ Jang zu hoeren. Was daran im Buch anders lauten muss:
 
   1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
      mit dem Todesstoss und nicht mit der Begruendung davor.
-  2. **Beim Bericht an Annie danach** — Vorschlag, noch nicht im Text —, und es bezieht sich ausdruecklich auf
+  2. **Beim Bericht an Annie danach** - Vorschlag, noch nicht im Text -, und es bezieht sich ausdruecklich auf
      Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
      you about it afterwards."*
 
@@ -700,7 +700,7 @@ Zeit selbst in der Hand hatte.
 1. **Sang-hoon bekommt Annies Lesart in einem Raum und nicht am Telefon.**
    Georgij sagt es am Schluss selbst zu: *"I will ask him for an hour this week."*
    Eine Zusage mit Frist, also eine Schuld wie jede andere hier.
-2. **Jang liest das Firmenschild** — **die Frist ist am 25.08. gestrichen, weil
+2. **Jang liest das Firmenschild** - **die Frist ist am 25.08. gestrichen, weil
    sie keine Quelle hat.** Hier stand *"Ten days is enough. Do not go closer for
    it before then."* als Georgijs Zusage aus Kapitel 44. **Der Satz steht in
    keiner Fassung**, und Kapitel 44 befristet nichts: Jang beobachtet dort
@@ -932,14 +932,14 @@ Bezahlung. Die Bitte steht weiter offen.
 **Hier stand bis zum 23.08.:** *"Erst danach die Blöcke F bis J, und zwar mit
 Abstand. Der Bruch trägt nur, wenn zwischen Kapitel 16 und ihm noch Arbeit liegt."*
 **Das war zu diesem Zeitpunkt drei Monate Erzählzeit überholt.** Der Bruch ist am
-27. November gefallen, Tag 55, Kapitel 22 bis 24 — Salon, Mauer, Brücke, alles in
+27. November gefallen, Tag 55, Kapitel 22 bis 24 - Salon, Mauer, Brücke, alles in
 derselben Nacht. Block F ist aufgelöst, Block G, I und J sind geschrieben, Block H
 ist gestrichen. Aus den Blöcken ist nichts mehr zu holen; `doc/06-plot.md` ist ab
 hier vollständig Herkunftsnotiz.
 
 **Und das ist die eigentliche Auskunft dieser Liste:** Der Geschäftsstrang ist
-gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht — Zollakte, Choi
-Dae-ho, Los elf, die Pipeline — sind Fäden ohne Zähne; keiner davon kann noch
+gewonnen und läuft nur noch ab. Was oben unter 7 bis 10 steht - Zollakte, Choi
+Dae-ho, Los elf, die Pipeline - sind Fäden ohne Zähne; keiner davon kann noch
 schiefgehen, und Los elf gehört ohnehin in einen zweiten Band.
 
 **Das war bis Kapitel 33 die einzige Sache, die noch scheitern konnte:** was
@@ -984,7 +984,7 @@ sie nichts mehr kostet, es zu beenden. Er hat es ihr selbst vorgerechnet.
 
 Nichts davon wird in 34 angefasst, und das ist Absicht.
 
-1. **Los elf und der Name des Garanten** — dieselbe Vorenthaltung, beide Hälften
+1. **Los elf und der Name des Garanten** - dieselbe Vorenthaltung, beide Hälften
    gehören zusammen (Punkt 9 oben). Der Junge wird laut Absprache vom 23.08.
    irgendwo geschult; wo, steht nirgends und muss auch nirgends stehen. **Annie
    sagt in Kapitel 34, dass sie viermal in dem Gebäude war und dass es beim
@@ -992,7 +992,7 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 2. **Ye-rin kommt von selbst zurück**, sobald das Vetorecht beisst und die Kims
    merken, dass sie Personal geworden sind. Der ungenannte Preis liegt bereit und
    gehört ihr zum Anbieten.
-3. **Sang-hoon zahlt nicht zweimal — vier andere schon.** Annie sagt das in 34
+3. **Sang-hoon zahlt nicht zweimal - vier andere schon.** Annie sagt das in 34
    ausdrücklich, und sie sagt dazu, dass er innerhalb eines Jahres recht behalten
    wird mit „zu niedrig".
 4. **Choi Dae-ho**, den Georgijs Verfahren nicht finden kann. **Die Zollakte und
@@ -1281,7 +1281,7 @@ Fassung.**
 - ~~**Jang, drei Tage ab dem 3. April.**~~ **BEZAHLT, Kapitel 13:** *"Jang came on
   the Wednesday, two days early, with a folder."* Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
-  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** —
+  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** -
   *"You are asking me and not Mrs Seo. I have noticed that, and I would like it
   to go on."* Am 25.08. geprüft: in keiner Fassung, nicht in Kapitel 13 und
   nirgends sonst. Was Jang wirklich sagt, ist seine Linie: *"I have not used

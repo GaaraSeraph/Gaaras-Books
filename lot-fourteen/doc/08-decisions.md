@@ -164,8 +164,8 @@ Die neunzehn sind tragend, die dreihundert waren es nie:
   building who know what I am."* Drei von neunzehn ist eine Belastung, die man
   tragen kann. Drei von dreihundert ist keine Aussage.
 
-Der Faden über Kapitel 6 — die drei Namen auf den einundneunzig, Annies
-*"it's been handled"* — setzt voraus, dass der Keller abzählbar war. Gestrichen
+Der Faden über Kapitel 6 - die drei Namen auf den einundneunzig, Annies
+*"it's been handled"* - setzt voraus, dass der Keller abzählbar war. Gestrichen
 wurde deshalb nur die Zwischenklausel, ohne Ersatz: die Sitzordnung vier
 Absätze früher setzt den Maßstab besser, als eine Zahl es könnte.
 

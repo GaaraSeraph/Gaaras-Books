@@ -132,8 +132,13 @@ Halsband an und nie an das Halsband selbst.**
 | 1 | B1 33 | Mo 29. Dezember | **Das wirklich erste Mal, und es fehlte hier.** *"It came round and settled along the side of his face, cool from the room, the heel of it just under the bone."* |
 | 2 | B1 34 | Februar | Zusammenfassend, keine Szene. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
 | 3 | B1 34 | So 1. März | Am Fenster, nachdem er von sich aus heruntergegangen ist. *"Annie's hand came down on the back of his head and stayed there."* |
+<<<<<<< HEAD
 | 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. **Achtung auf die Stellung:** sie steht, und er geht deshalb **nicht** an die Seite des Schreibtischs, sondern vor sie hin - *"which is a different place and which he has never done"*. Die Wendung *"down onto the carpet at her feet"* gehoert der sitzenden Annie und darf hier nicht stehen; in v1.6 stand sie da und war ein Fehler. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
+=======
+| 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
+| 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* - **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
+>>>>>>> cae0d8c (Gedankenstriche: 69 in doc/ durch Bindestriche ersetzt, Regel an check.py gehaengt)
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
 | 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
@@ -176,7 +181,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 |---|---|
 | B1 6 | *"Eat something before you go. … a man who has not eaten agrees to things at eleven o'clock that he would not agree to at eight."* |
 | B1 5, 28 | *"Go to bed, Georgij."* **Zweimal** mit Namen. In B1 31 steht die kurze Form *"Go to bed."* ohne ihn, was etwas anderes ist. |
-| B1 23 / 24 | *"Have you eaten?"* — die Frage, die dem Kapitel den Titel gibt. |
+| B1 23 / 24 | *"Have you eaten?"* - die Frage, die dem Kapitel den Titel gibt. |
 | B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
 | B2 30 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
 | B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
@@ -227,7 +232,7 @@ Dann fragt sie ihn, was er will, und er findet nichts: *"He had wanted things at
 nine years old and had stopped."* **Daher kommt "since I was nine".**
 
 Und sie gibt ihm ihren Namen. *"That is my name," said Annie. "It is on nothing. My
-mother used it and my brother used it and both of them are dead."* — **Hye-jin.** Er sagt es
+mother used it and my brother used it and both of them are dead."* - **Hye-jin.** Er sagt es
 nie laut, in diesem Kapitel nicht und später nicht: *"He had a place to put a
 thing like that … Hye-jin went in there and stayed, and he did not take it out
 again for a very long time."* **Eingelöst in B2 35, am 4. Juni, sechs Monate und
@@ -251,7 +256,7 @@ inside his field and he prices the distance to it. He has done it since he was
 nineteen and does not know how to stop. He stopped."*
 
 **Die vierte Bitte in acht Monaten, und sie ist die Einlösung der Brücke.** Sie
-zählt die drei davor auf, in der Reihenfolge, in der sie passiert sind — *"A piece
+zählt die drei davor auf, in der Reihenfolge, in der sie passiert sind - *"A piece
 of paper. A room with nobody else in it. And a woman in Ulsan."* Dann fragt er
 nach dem Namen:
 
@@ -262,7 +267,7 @@ nach dem Namen:
 
 **Er bittet sie nicht, herunterzukommen.** Das täte er nie, es steht ihm nicht zu,
 und die Frage nach dem Namen ist die teurere. Sie beantwortet sie, indem sie das
-Buch weglegt und runterkommt — **bevor** sie ein Wort sagt. *"She did it before she
+Buch weglegt und runterkommt - **bevor** sie ein Wort sagt. *"She did it before she
 answered him. He understood the order of those two things about a second
 afterward."* Erst dann: *"Say it," said Annie.* Und: *"He said it."*
 
@@ -270,12 +275,12 @@ Der Name steht nicht auf der Seite. Er stand auch in B1 24 nicht auf der Seite,
 als sie ihn gab (*"she said something in Korean, two syllables"*), und er bleibt
 seiner.
 
-Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." —
+Hinterher, und ausdrücklich nicht als Bitte: *"I did not ask you for this." -
 "No. You did not, and you would not have, and both of us knew that four minutes
 ago."*
 
 Die Umkehrung: zwei Finger unter das Halsband, zum ersten Mal in acht Monaten.
-**Nicht, weil es abgenommen wird — das ist seit dem 1. März erledigt —, sondern
+**Nicht, weil es abgenommen wird - das ist seit dem 1. März erledigt -, sondern
 weil sie das anfasst, wovon er ihr gesagt hat, dass es sie hält.** Das Gespräch
 danach handelt ausschließlich von diesem Satz: dass er ihn seit der zweiten
 Oktoberwoche hatte und bis März nicht ausgegeben hat, und dass er sich den einen

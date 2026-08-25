@@ -37,9 +37,9 @@ eigenen Person**. Diese drei brechen am leichtesten und fallen am meisten auf.
 
 26. Vier Sprachen. Mit neun verkauft, gegen eine Schuld seiner Mutter, deren Höhe er nie gesehen hat und die bei jedem Besitzerwechsel gewachsen ist. **Siebzehn Jahre Eigentum, und seit dem 19. Februar nicht mehr.**
 
-**Diese Zeile stand bis zum 25.08. als *„Seit siebzehn Jahren Eigentum"* da und war seit Band 1, Kapitel 34 falsch.** Annie hat die Zeile im Buch streichen lassen — vier Termine in sieben Wochen, beim dritten Mal nicht wegen des Geldes. Er sagt es selbst: *„A man who belongs to nobody is stock, and since the nineteenth of February I belong to nobody."* Annie: *„You are describing being free."*
+**Diese Zeile stand bis zum 25.08. als *„Seit siebzehn Jahren Eigentum"* da und war seit Band 1, Kapitel 34 falsch.** Annie hat die Zeile im Buch streichen lassen - vier Termine in sieben Wochen, beim dritten Mal nicht wegen des Geldes. Er sagt es selbst: *„A man who belongs to nobody is stock, and since the nineteenth of February I belong to nobody."* Annie: *„You are describing being free."*
 
-**Und dann bleibt er.** Am 1. März wird ihm angeboten, das Halsband abzunehmen, und er lehnt ab — nicht aus Vorsicht, sondern weil *„It is not what holds me and it never was. It is what holds you."* **Er gehört ihr seitdem, weil er sich dafür entschieden hat, und nicht, weil ein Eintrag es sagt.** Wer ihn ab dem 19. Februar als Eigentum beschreibt, hat das Ende von Band 1 nicht gelesen; wer ihn als frei beschreibt, hat den 1. März nicht gelesen.
+**Und dann bleibt er.** Am 1. März wird ihm angeboten, das Halsband abzunehmen, und er lehnt ab - nicht aus Vorsicht, sondern weil *„It is not what holds me and it never was. It is what holds you."* **Er gehört ihr seitdem, weil er sich dafür entschieden hat, und nicht, weil ein Eintrag es sagt.** Wer ihn ab dem 19. Februar als Eigentum beschreibt, hat das Ende von Band 1 nicht gelesen; wer ihn als frei beschreibt, hat den 1. März nicht gelesen.
 
 Elf Platzierungen, vier Rückgaben. Nur die letzten vier haben einen Grund vermerkt, davor war er ein Kind, und Kinder werden ohne Papierkram weitergereicht. Die vier Häuser hielten ihn im Schnitt vierundneunzig Tage.
 
@@ -329,7 +329,7 @@ eine, die niemand außer ihr zu sehen bekommt.
 hat, bekommt es umsonst; wer nicht, verliert nichts.
 
 **Regel ab hier:** Vor anderen zuckt er weiterhin nicht. Fällt es ein zweites
-Mal, dann wieder vor ihr — und beim Bruch wird es teuer, weil sie dann weiß, was
+Mal, dann wieder vor ihr - und beim Bruch wird es teuer, weil sie dann weiß, was
 es bedeutet.
 
 ### Bei Verbündeten läuft kein Verfahren
@@ -381,7 +381,7 @@ Zahlt 220 Millionen Won für ihn. Wird nicht laut, wird nicht wütend, antwortet
 
 **Sie fährt schmal.** Zur Auktion kein zweiter Mann, kein zweiter Wagen, niemand vom Haus auf der Treppe. Der Wachmann fährt selbst. An solchen Abenden soll niemand später etwas beschreiben können.
 
-**Namensregel:** In der Öffentlichkeit "Annie". Sonst nirgends. Privat sagt er "Mistress". Ein Regelbruch in die eine oder andere Richtung hören beide sofort. **Der Grund dafür stand hier falsch** — *„privat ist er Eigentum"* gilt nur bis zum 19. Februar. Danach ist die Anrede eine Entscheidung und keine Tatsache, und **das macht sie schwerer und nicht leichter**.
+**Namensregel:** In der Öffentlichkeit "Annie". Sonst nirgends. Privat sagt er "Mistress". Ein Regelbruch in die eine oder andere Richtung hören beide sofort. **Der Grund dafür stand hier falsch** - *„privat ist er Eigentum"* gilt nur bis zum 19. Februar. Danach ist die Anrede eine Entscheidung und keine Tatsache, und **das macht sie schwerer und nicht leichter**.
 
 **Ihr Auftrag an ihn** (Kapitel 2, in der Auffahrt ausgesprochen): Blut an den Händen kann jeder, die hat sie mehrfach eingekauft und sie waren billig. Was sie nie hatte, ist einer, der weiß, an welchen Abenden die Hände sauber bleiben müssen, und der es weiß, ohne dass man ihm einen Zettel hinlegt. Der erste Abend war die Hälfte, die jeder kann.
 

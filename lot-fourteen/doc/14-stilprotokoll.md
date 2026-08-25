@@ -1553,3 +1553,47 @@ markiert.
 geschrieben. Da ist nichts anzugleichen, solange keine Replik existiert.
 
 *Unsicher:* keiner.
+
+### Gedankenstriche: 69 ersetzt, und die Regel stand laengst da
+
+**Gemessen vor dem Eingriff:**
+
+| Ort | Treffer | |
+|---|---|---|
+| `chapters/`, `chapters-2/` | **0** | **Das Buch war sauber.** Kein einziger Gedankenstrich in 109 Kapiteln |
+| `doc/*.md` | **69** | in acht Dateien |
+| `erzeugt/` | 69 | dieselben, aus doc erzeugt |
+| `paste/` | 1131 | **nicht angefasst** - das sind die 377 Szenentrenner, drei Geviertstriche, von `build.py` aus `* * *` erzeugt. Struktur, kein Satzzeichen |
+| `werkzeug/belege.py` | 2 | **nicht angefasst** - Normalisierungstabelle, mit der der Zitatpruefer Striche aus fremden Zitaten raeumt. Wer sie ersetzt, macht den Pruefer blind |
+
+**Die Regel gab es schon:** `doc/01-craft.md`, Abschnitt 5 - *"Keine
+Gedankenstriche, nur Bindestriche."* Sie wurde im Buch eingehalten und in den
+Dokumenten nie geprueft.
+
+**Vor dem Ersetzen die Formen gezaehlt**, weil ein Strich, der an einem Wort
+klebt, anders ersetzt werden muss als einer zwischen Leerzeichen:
+
+| Form | Anzahl |
+|---|---|
+| ` - ` zwischen Leerzeichen | 48 |
+| ` -` am Zeilenende | 18 |
+| ` -,` vor Komma | 2 |
+| in Backticks | 1 |
+
+**Kein einziger Fall klebte an einem Wort**, also war der direkte Austausch
+ueberall richtig.
+
+**Eine Stelle war heikel und ist geprueft worden.** In `doc/13-zusagen.md` ist
+der Strich kein Satzzeichen, sondern ein **Platzhalter im maschinenlesbaren
+Format**: *"Eingeloest: das Kapitel, das sie bezahlt, oder `-`."* Die Felder
+selbst trennt `zusagen.py` mit `·` und nicht mit einem Strich, und das Skript
+enthaelt den Geviertstrich nirgends literal - das Feld ist frei. Ersetzt,
+Definitionszeile mitgezogen, `zusagen.py` laeuft unveraendert (BEZAHLT 23).
+
+**Damit es nicht wiederkommt:** `check.py` hat jetzt `striche_report()` und
+meldet bei jedem Lauf jede Fundstelle in `doc/` mit Datei und Zeile. **Es
+blockiert nicht** - ein Schreib-Durchgang soll nicht an einem Satzzeichen
+haengenbleiben. Gegengeprueft mit einer Probedatei: meldet Geviert- und
+Halbgeviertstrich, ignoriert den Bindestrich.
+
+*Unsicher:* keiner.

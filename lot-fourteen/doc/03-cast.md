@@ -202,14 +202,14 @@ Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
-**Annies Vater** — tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
+**Annies Vater** - tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
 dieser Band überhaupt läuft. **Er steht seit dem 25.08. hier, weil er im Buch
 stand und in keinem Figurendokument.** Kein Name im Text.
 
 - **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, Kapitel 62: *"your father
   brought Choi Dae-ho into your house"*, und zuvor: *"Your father brought a man
   to a table twenty-three years ago and was pleased with himself about it, and
-  he has been dead for twenty-three years."* **Beides im selben Jahr** — er hat
+  he has been dead for twenty-three years."* **Beides im selben Jahr** - er hat
   den Mann geholt und ist gestorben, ohne zu sehen, was daraus wurde.
 - **Annie war vierzehn.** Kapitel 27, aus ihrem Mund: *"I was fourteen. He was
   at my father's table before I was allowed at it."* Kapitel 62 setzt nach:
@@ -228,7 +228,7 @@ stand und in keinem Figurendokument.** Kein Name im Text.
 **Die Rechnung, die daran hängt, und sie geht auf.** Sie hat es mit vierzehn
 bemerkt, mit dreißig verstanden, und Kapitel 61 sagt: *"She has known for seven
 years that there was a man at her father's table who was wrong."* Sie ist
-siebenunddreißig — vierzehn plus dreiundzwanzig, dreißig plus sieben.
+siebenunddreißig - vierzehn plus dreiundzwanzig, dreißig plus sieben.
 
 **Und die Regel, die Georgij daraus zieht** (Kapitel 62): *"Everything that man
 has done since is his own... none of it is a debt that came down to you."* Wer

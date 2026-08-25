@@ -477,7 +477,15 @@ three weeks answering. Tonight I stop."*
 - **Fragezeichen** nach der mechanischen Regel in `doc/01-craft.md`:
   Aussagesyntax behaelt den Punkt, Fragesyntax und verkuerzte Fragen bekommen das
   Zeichen. `check.py` meldet Verdachtsfaelle, entscheidet aber nicht.
-- **Keine Gedankenstriche**, nur Bindestriche.
+- **Keine Gedankenstriche**, nur Bindestriche. **Gilt fuer die Dokumente
+  genauso.** Am 25.08. war das Buch sauber - null Treffer in `chapters/`
+  und `chapters-2/` - und in `doc/` standen 69. `check.py` meldet sie jetzt
+  bei jedem Lauf, ohne zu blockieren.
+  **Zwei Stellen bleiben und sind kein Verstoss:** die 377 Szenentrenner in
+  `paste/` (drei Geviertstriche, von `build.py` aus `* * *` erzeugt - das ist
+  Struktur) und zwei Zeichen in der Normalisierungstabelle von
+  `werkzeug/belege.py`, mit denen der Zitatpruefer Striche aus fremden
+  Zitaten raeumt.
 - **Anfuehrungszeichen** bei jeder direkten Rede. Erinnerte Rede wird zu
   indirekter umgebaut, statt ohne Zeichen dazustehen.
 - **Klare Absatztrennung zwischen Sprechern.** Keine Replik teilt sich einen

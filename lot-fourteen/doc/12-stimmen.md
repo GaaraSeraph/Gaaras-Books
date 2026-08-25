@@ -1744,7 +1744,7 @@ man ihm.
 **Und er beendet Gespräche selbst**, was in diesem Buch außer ihm nur Annie tut:
 *"I am now going to eat and you are going to let me."*
 
-**Er sagt den Satz, den sonst niemand sagt** — über sich selbst zuerst. In
+**Er sagt den Satz, den sonst niemand sagt** - über sich selbst zuerst. In
 Kapitel 26 zählt er vier Entscheidungen auf, die er an Chois Tischen getroffen
 und nie erklären konnte, und er tut es unaufgefordert.
 
@@ -2304,7 +2304,7 @@ you say about it."*
 
 **Er ist die Quelle der Berater-Legende**, weil er die Frage nach der Ausbildung
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
-sollte** — Woo, Sunwoo und Choi.
+sollte** - Woo, Sunwoo und Choi.
 
 ### Mrs Sunwoo (81 Jahre)
 
@@ -2378,7 +2378,7 @@ Anrechnung. **Er darf nicht:** eine moralische Rechtfertigung ohne Erbfolge -
 
 **Der Amtston, und darunter nichts.** Beide reden in Zuständigkeiten. Do-yuns
 Gesicht tut nichts, und das ist seine Replik. Sie sind austauschbar **mit
-Absicht** — sie sind das Milieu und keine Menschen, und das darf man hören.
+Absicht** - sie sind das Milieu und keine Menschen, und das darf man hören.
 
 ### Shin (4 Repliken)
 
