@@ -11,7 +11,11 @@ It was an office on the second floor of a building in Jongno with three doors of
 
 ---
 
+<<<<<<< HEAD
 "I have had this for nineteen years," said Sim, "and I have brought four people to it, and you are the fourth, and one of the other three is dead."
+=======
+"I have had this for nineteen years," said Sim. "Four people have sat where you are sitting. You are the fourth." He put the cup down. "One of the other three is dead."
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 ---
 
@@ -21,7 +25,11 @@ It was an office on the second floor of a building in Jongno with three doors of
 
 "Do not thank me for the room. Thank me for the tea, which is better than it needs to be, and which I have made myself, because there is nobody here and there has never been anybody here."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 He had made the tea before Georgij arrived, and it was at the right temperature, which meant he had timed it.
 
@@ -45,7 +53,11 @@ He had made the tea before Georgij arrived, and it was at the right temperature,
 
 "Then get it out of your mouth and let me have it. You have been carrying it since Tuesday and I have been carrying it since Tuesday, and mine is worse, because I have not known what it is."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 Georgij took the notebook out and did not open it.
 
@@ -81,7 +93,11 @@ Sim looked at him for a moment.
 
 "Then we are both having an honest afternoon," he said. "Sit down properly. You are going to be here a while and that chair is worse than it looks."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "Ask me the question," said Georgij.
 
@@ -121,7 +137,11 @@ Sim sat back.
 
 "Tell me," he said.
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 Georgij told him all of it and it took eleven minutes.
 
@@ -145,7 +165,11 @@ Sim did not say anything at all.
 
 "She is the person you have been telephoning about the heating," said Georgij.
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 The office on the second floor did what a room does at four in the afternoon.
 
@@ -181,7 +205,11 @@ Georgij did not say anything.
 
 "It is not nothing at all." His voice did not change. "That is a woman who was bought four years ago telling a man she has never met which room gets the sun. And the man wrote guttering in his book and rang off."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "There is a second half," said Georgij, "and it is worse than the first one, and you are going to have it now."
 
@@ -225,7 +253,11 @@ Sim was quiet for a long moment.
 
 "That is the second time you have refused to give me something comfortable," he said, "and both times it has been the more expensive answer, and I have noticed both times."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "Now the sentence," said Sim.
 
@@ -269,7 +301,11 @@ Sim put one finger on the edge of the page and did not touch the writing.
 
 "That is what he said. In those words."
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "I have a question and it is not the one you are braced for," said Sim.
 
@@ -305,7 +341,11 @@ Georgij did not answer straight away.
 
 Georgij sat in an office in Jongno and had nothing whatsoever to add to that.
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "You have not asked me whether I will do it," said Sim.
 
@@ -357,7 +397,11 @@ Then Sim said, quite gently, that there was no hurry at all, and that he would h
 
 He was on that telephone for another nineteen minutes.
 
+<<<<<<< HEAD
 ---
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 He put it down at ten to six and sat with his hand on it.
 

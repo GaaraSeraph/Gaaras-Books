@@ -112,9 +112,58 @@ Wer diese benutzt, **ist** Georgij. Deshalb sind alle austauschbar.
 4. **Die Negativ-Definition.** *"Not the number. Not who knew."*
 5. **Die Selbstdiagnose.** Figuren, die ihre eigene Psychologie laut erklären.
 
-**Wer davon was darf:** Georgij alle fünf. Annie 1, 4 und 5, aber immer über den
-Zuhörer. Sang-hoon 3 und 4. **Alle anderen keinen einzigen**, es sei denn, es
-steht ausdrücklich in ihrem Blatt.
+**Wer davon was darf:** Georgij 1, 3, 4 und 5. **Annie 2**, siehe die Korrektur
+unten. Sang-hoon 2 und 3. Woo 3. **Alle anderen keinen einzigen**, es sei denn,
+es steht ausdrücklich in ihrem Blatt.
+
+### Korrektur vom 25.08.: Tic 2 gehört Annie, nicht Georgij
+
+**Mit `werkzeug/stimmen.py` nachgemessen, und ich hatte ihn unter dem falschen
+Namen abgelegt.** Der selbstkommentierende Relativsatz je 1000 Wörter, nur Band 2,
+nur sicher zugeordnete Repliken:
+
+| | Band 1 | Band 2 |
+|---|---|---|
+| **Annie** | 1,0 | **2,0** |
+| Georgij | 0,7 | **0,4** |
+
+**Fünffach, und sie steigert sich über den Band, während er abnimmt.** Über beide
+Bände hat Annie 1,8 und Georgij 0,3, den niedrigsten Wert aller gut belegten
+Sprecher. Sang-hoon liegt bei 1,6, Woo bei 0,8.
+
+**Und die Belege zeigen, dass es zwei verschiedene Bewegungen sind.** Annie hängt
+ein **Urteil über den Zuhörer** an:
+
+> *"…which is a thing I only notice in you when you are tired enough to need to."*
+> *"…and not one of them knows I am asking, which is the part that took the longest."*
+> *"I am going to sit here instead, which is quicker."*
+
+Georgijs drei in Band 2 schränken einen **Sachverhalt** ein, nicht einen Menschen:
+*"One of them was never invoiced to anybody, which is a different thing and I do
+not have it."*
+
+**Woraus folgt, und es ändert die Diagnose:** wer als Nebenfigur einen
+annotierenden Relativsatz benutzt, klingt nicht nach Georgij, sondern nach
+**Annie**. Und das ist schlimmer, weil ihr Register das seltenste im Buch ist.
+
+### Und ein zweiter Befund, den niemand geplant hat
+
+**Kontraktionen je 1000 Wörter:**
+
+| | Band 1 | Band 2 |
+|---|---|---|
+| Georgij | 9,5 | **0,4** |
+| Annie | 18,0 | **2,4** |
+
+Georgijs Absturz ist die Regel und sie greift sichtbar. **Annies ist es nicht.**
+Sie hat achtzig Prozent ihrer Kontraktionen abgelegt, ohne dass es je jemand
+entschieden hat, und sie ist damit dem Register des Mannes gefolgt, den sie
+gekauft hat.
+
+**Das ist entweder die beste ungeplante Figurenentwicklung im Buch oder Drift,
+und es ist eine Entscheidung des Autors, welches von beidem.** Wenn es
+Entwicklung ist, gehört sie einmal benannt. Wenn es Drift ist, gehören ihr in den
+letzten Kapiteln Kontraktionen zurückgegeben.
 
 ---
 
@@ -1447,6 +1496,56 @@ vorhandenen. Findet sich dieselbe, gehört die Trennung in **beide** Blätter, m
 einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
 
 ---
+
+---
+
+## Der Messstand am 25.08., nach dem ersten Durchgang
+
+**Gemessen mit `werkzeug/stimmen.py --tics`**, Haustics je 1000 Wörter, nur
+sicher zugeordnete Repliken.
+
+**Sauber, also ohne einen einzigen fremden Tic:** Yeom, Sim, Sohn, Hong, Kang,
+Ye-rin.
+
+**Signatur sichtbar und richtig:**
+
+| Figur | Wert | Was das heisst |
+|---|---|---|
+| **Mr Ahn** | Kontraktion 106,7 | Der hoechste Wert im Buch, um Faktor sechs. Genau seine Signatur |
+| Mrs Seo | Kontraktion 17,9 | Zivilistin im eigenen Haus |
+| Jang | Kontraktion 13,8 | Und sonst nichts. Sauber |
+| Hana | Kontraktion 11,9 | Sie redet gesprochen, nicht gebaut |
+| Woo | Und-Kette 3,3, Selbstdiagnose 1,7 | Beides seins, siehe sein Blatt |
+
+**Noch offen, mit Zahl, fuer den Stil-Durchgang:**
+
+| Figur | Befund | Was zu tun ist |
+|---|---|---|
+| **Mr Byun** | which-Satz 5,5 | Hoechster Wert im Buch. Er redet in Handelsbrauch, nicht in Anmerkungen |
+| **Mrs Jeon Mi-ja** | which-Satz 3,0 | Ihre Maschine ist der Vorgang. Ein Vorgang kommentiert sich nicht |
+| **Mr Koh** | Negativ-Def 9,0 | **Fehlmeldung, nicht anfassen.** Siehe unten |
+
+**Am 25.08. behoben, alle vier von mir eingebaut:** Mr Sohn (which-Satz 9,0, der
+hoechste Wert im Buch), Mr Koh (Und-Kette 8,5), Mr Ahn (Und-Kette 5,7) und Sim
+(Und-Kette 4,3). Alle vier stehen jetzt auf null.
+
+### Eine Fehlmeldungsklasse, und sie ist wichtig
+
+Der Ausdruck sucht `Not X. Not Y.` und findet damit zwei verschiedene Dinge:
+
+- **Georgijs Negativ-Definition** ist eine **Umdeutung**: *"Not the number. Not
+  who knew."* Er sagt, was eine Sache **nicht** ist, um zu sagen, was sie ist.
+- **Anaphorische Aufzaehlung** ist gewoehnliche Rede: *"Not to my wife. Not to
+  the two men I drink with."* Das ist eine Liste von Menschen, die es nicht
+  erfahren haben, und keine Definition.
+
+**Mr Kohs Zeile bleibt, wie sie ist.** Sie ist die beste, die er hat.
+
+**Aber der Zaehler hat trotzdem etwas gefunden:** dieselbe anaphorische
+Konstruktion stand am 25.08. in zwei verschiedenen Muendern, bei Koh und bei Mr
+Ahn, und beide Male hatte ich sie geschrieben. **Ein Tic, der nicht Georgij
+gehoert, sondern dem Schreibenden.** Ahns ist umgebaut, Kohs bleibt. Ein drittes
+Vorkommen waere ein Fehler.
 
 ---
 

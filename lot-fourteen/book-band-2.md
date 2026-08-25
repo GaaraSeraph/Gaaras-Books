@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 66 Kapitel, 162.558 Woerter.
+Book Two, 66 Kapitel, 162.827 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -47,9 +47,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 34 | v1.3 | 2.260 |
 | 35 | v2.7 | 3.966 |
 | 36 | v2.1 | 3.315 |
-| 37 | v2.2 | 3.912 |
+| 37 | v2.3 | 3.914 |
 | 38 | v2.4 | 2.977 |
-| 39 | v2.2 | 2.940 |
+| 39 | v2.3 | 2.943 |
 | 40 | v2.3 | 2.783 |
 | 41 | v2.3 | 3.902 |
 | 42 | v2.3 | 3.354 |
@@ -73,8 +73,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.1 | 2.516 |
 | 61 | v1.1 | 2.330 |
 | 62 | v1.1 | 2.136 |
-| 63 | v1.1 | 2.133 |
-| 64 | v1.1 | 2.270 |
+| 63 | v1.2 | 2.158 |
+| 64 | v1.1 | 2.509 |
 | 65 | v1.1 | 2.175 |
 | 66 | v1.1 | 2.137 |
 
@@ -7799,7 +7799,7 @@ There is no version of the next four weeks in which he does not leave the same t
 ---
 
 # Book Two · Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -7869,7 +7869,7 @@ Mr Koh put both hands on the desk.
 
 The room went completely quiet, and it was not the sort of quiet that waits for the next sentence. It was the other sort.
 
-"I asked because he had not been introduced," said Mr Koh, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
+"I asked because he had not been introduced," said Mr Koh, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine. He did not eat. Nobody said his name." Mr Koh had both hands round the kettle. "After an hour I asked, in the ordinary way, the way you ask. Somebody answered me pleasantly. I got into a taxi still turning it over, and then I did not think about it again for five years."
 
 "Until now."
 
@@ -8319,7 +8319,7 @@ He wanted to be sure of it for a day before he handed it to anybody, including h
 ---
 
 # Book Two · Chapter 39: The man kitchens talk to
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -8371,7 +8371,7 @@ Mr Sohn thought about that properly, the way a man thinks who is used to being a
 
 "No," he said. "Two men the whole evening, and I would have noticed a third, because a private room with two covers and a visitor is the kind of thing a kitchen talks about the next morning."
 
-"I do not know a Yeom," said Mr Sohn, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash by a man who left before the coffee, which is also not a thing people do."
+"I do not know a Yeom," said Mr Sohn, before Georgij could ask. "I know a party of two, a very good bottle, and a bill paid in cash." Mr Sohn wiped the board down. "And a man who left before the coffee. People do not do that."
 
 "Describe the one who booked it."
 
@@ -8387,7 +8387,7 @@ Mr Sohn looked at him properly for the first time in the conversation.
 
 "Say it anyway."
 
-"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month, which a cook remembers whether he believes it or not." He tilted his head slightly. "Why does that matter to you."
+"He ate," said Mr Sohn. "Slowly, and he finished the plate, and he told me it was the best thing he had eaten that month. A cook remembers that. Believing it is a separate question." He tilted his head slightly. "Why does that matter to you."
 
 "It matters, and I am not going to explain why in your kitchen," said Georgij. "You have told me the one thing I came for and you did not know you had it, and I would rather you went on not knowing."
 
@@ -13129,7 +13129,7 @@ He waited.
 ---
 
 # Book Two · Chapter 63: One sentence
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
 
@@ -13155,7 +13155,9 @@ There was a pump on the bench this time, in pieces, with the impeller out and se
 
 Georgij stayed inside the door, where he stood in July.
 
-"Come in properly," said Mr Ahn. "You stood there last time and I let you, and I've thought about that since and I'd rather you didn't."
+"Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the cloth down. "I've thought about it since. Don't."
+
+* * *
 
 Georgij came in properly and sat on the stool at the end of the bench, which put him lower than the man who owned the shop, and did that on purpose.
 
@@ -13177,6 +13179,8 @@ Mr Ahn put both hands flat on the bench either side of the pump.
 
 "Go on then."
 
+* * *
+
 "There is a house with nine people working a rota and food delivered every week for ten," said Georgij. "The order went up by one in the summer four years ago and it has never come back down. There is a person in that house who does not go home."
 
 "That could be anybody."
@@ -13193,6 +13197,8 @@ Mr Ahn looked at the pump.
 
 "No," said Georgij. "It took me sixteen days, and I had it in my coat the whole time."
 
+* * *
+
 "The second thing," said Mr Ahn. "You said four."
 
 "The second thing is that somebody is going to stand underneath her before anybody takes the floor away." Georgij said it plainly. "There is a woman on the river who agreed to it and did not need persuading. I am not going to explain the mechanism today, because you would not sleep and it is not a thing you can help with."
@@ -13202,6 +13208,8 @@ Mr Ahn looked at the pump.
 "You do not have any."
 
 "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first pleasant thing anybody's said to me about it. Everybody else has been careful."
+
+* * *
 
 "The third thing," said Georgij.
 
@@ -13227,6 +13235,8 @@ The compressor came on again behind the wall.
 
 "And it's right." He picked the impeller up off the cloth and put it down again about four centimetres away. "I'd have been on a bus by Friday. I'd have told myself I was only going to look at the road."
 
+* * *
+
 Neither of them said anything for a while.
 
 "Then what's the fourth," said Mr Ahn.
@@ -13247,6 +13257,8 @@ Mr Ahn understood it before the end.
 
 "It has to sound like a man making conversation on a telephone, and it has to go through her like a train."
 
+* * *
+
 Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again.
 
 "Give me a minute."
@@ -13261,6 +13273,8 @@ Then he stopped, with one hand on the pump.
 
 "Have you got a pen."
 
+* * *
+
 He did not write it. He said it, and made Georgij write it, and then made him read it back twice.
 
 "The one by the door is doing better this year."
@@ -13273,7 +13287,9 @@ Georgij looked at the page.
 
 Georgij did not write that part down.
 
-"Nobody knows that," said Mr Ahn. "Not my wife's family. Not the woman from the noodle place." He put the cloth down. "I've never said it out loud to a living person until just now, because there's nothing in it. It's a thing my sister said outside a door on a Tuesday."
+"Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle place doesn't, and she's the one who buys the thing." He put the cloth down. "I've never said it out loud to a living person until just now, because there's nothing in it. It's a thing my sister said outside a door on a Tuesday."
+
+* * *
 
 "And she will hear the rest of it," said Georgij.
 
@@ -13288,6 +13304,8 @@ Georgij did not write that part down.
 Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was not four seconds either.
 
 "She'll be furious," he said. "That's fine. She's been furious with me since she was nine."
+
+* * *
 
 At the door, Georgij stopped, and it was not the same door and not the same stop.
 
@@ -13344,11 +13362,20 @@ Sim chose the room, which Georgij had expected, and it was not a restaurant.
 
 It was an office on the second floor of a building in Jongno with three doors off a corridor and a plate on none of them. Two chairs, a desk, a filing cabinet with a lock that works, and a window that looks at the back of a bank.
 
+<<<<<<< HEAD
 "I have had this for nineteen years," said Sim, "and I have brought four people to it, and you are the fourth, and one of the other three is dead."
+=======
+"I have had this for nineteen years," said Sim. "Four people have sat where you are sitting. You are the fourth." He put the cup down. "One of the other three is dead."
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "Thank you."
 
 "Do not thank me for the room. Thank me for the tea, which is better than it needs to be, and which I have made myself, because there is nobody here and there has never been anybody here."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 He had made the tea before Georgij arrived, and it was at the right temperature, which meant he had timed it.
 
@@ -13361,6 +13388,11 @@ He had made the tea before Georgij arrived, and it was at the right temperature,
 "That is accurate."
 
 "Then get it out of your mouth and let me have it. You have been carrying it since Tuesday and I have been carrying it since Tuesday, and mine is worse, because I have not known what it is."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 Georgij took the notebook out and did not open it.
 
@@ -13379,6 +13411,11 @@ Sim did not move.
 Sim looked at him for a moment.
 
 "Then we are both having an honest afternoon," he said. "Sit down properly. You are going to be here a while and that chair is worse than it looks."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "Ask me the question," said Georgij.
 
@@ -13400,6 +13437,11 @@ Sim sat back.
 
 "Tell me," he said.
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
+
 Georgij told him all of it and it took eleven minutes.
 
 The nine on the rota and the food for ten. The person who does not go home. The heating and the second bathroom, and what those two things mean about who is in that building on the day the men come.
@@ -13411,6 +13453,11 @@ Then the name, and then the other name.
 Sim did not say anything at all.
 
 "She is the person you have been telephoning about the heating," said Georgij.
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 The office on the second floor did what a room does at four in the afternoon.
 
@@ -13429,6 +13476,11 @@ Georgij did not say anything.
 "That is not nothing."
 
 "It is not nothing at all." His voice did not change. "That is a woman who was bought four years ago telling a man she has never met which room gets the sun. And the man wrote guttering in his book and rang off."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "There is a second half," said Georgij, "and it is worse than the first one, and you are going to have it now."
 
@@ -13452,6 +13504,11 @@ Sim was quiet for a long moment.
 
 "That is the second time you have refused to give me something comfortable," he said, "and both times it has been the more expensive answer, and I have noticed both times."
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
+
 "Now the sentence," said Sim.
 
 Georgij opened the notebook and turned it round.
@@ -13474,6 +13531,11 @@ Sim put one finger on the edge of the page and did not touch the writing.
 
 "That is what he said. In those words."
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
+
 "I have a question and it is not the one you are braced for," said Sim.
 
 "Go on."
@@ -13491,6 +13553,11 @@ Georgij did not answer straight away.
 "I know there is not. I have been through it four times since you said the word telephone." He turned his cup back a quarter turn. "Then I am going to do the only thing available, which is to be slow. I am going to talk to her about the gutters for eleven minutes and say it at the end. Then I am not going to ring off. I am going to keep talking about nothing at all for as long as she wants me to."
 
 Georgij sat in an office in Jongno and had nothing whatsoever to add to that.
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 "You have not asked me whether I will do it," said Sim.
 
@@ -13519,6 +13586,11 @@ Nobody said anything on either end of it for a long time.
 Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, and that the gutters could certainly wait until spring.
 
 He was on that telephone for another nineteen minutes.
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
 
 He put it down at ten to six and sat with his hand on it.
 
