@@ -102,7 +102,7 @@ b2  ch65  v1.5       2130 Woerter  ch65_v1_5_en.md
 b2  ch66  v1.3       2096 Woerter  ch66_v1_3_en.md
 b2  ch67  v1.3       2493 Woerter  ch67_v1_3_en.md
 b2  ch68  v1.2       2447 Woerter  ch68_v1_2_en.md
-b2  ch69  v1.2       2944 Woerter  ch69_v1_2_en.md
+b2  ch69  v1.3       2944 Woerter  ch69_v1_3_en.md
 b2  ch70  v1.0       2275 Woerter  ch70_v1_0_en.md
 b2  ch71  v1.0       3431 Woerter  ch71_v1_0_en.md
 b2  ch72  v1.0       2300 Woerter  ch72_v1_0_en.md

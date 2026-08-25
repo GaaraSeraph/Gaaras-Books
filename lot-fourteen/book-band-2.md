@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.096 |
 | 67 | v1.3 | 2.493 |
 | 68 | v1.2 | 2.447 |
-| 69 | v1.2 | 2.944 |
+| 69 | v1.3 | 2.944 |
 | 70 | v1.0 | 2.275 |
 | 71 | v1.0 | 3.431 |
 | 72 | v1.0 | 2.300 |
@@ -14618,7 +14618,7 @@ He sat with the pen in his hand for a while.
 ---
 
 # Book Two · Chapter 69: The call he did not take
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Forty-One · Wednesday 9 September
 
@@ -14784,7 +14784,7 @@ At the car, Mr Kwon stopped with the door open.
 
 Georgij stood in the drive and gave him the true one, because there was no version of that morning in which he was going to give him anything else.
 
-"Because on the fifteenth of May your partner sold his half and went to live near his daughter, and you rang me about it," he said. "I had arranged the thing that made it possible for him to sell and I had not thought about him once. There was nothing I could have said into that telephone that was not either a lie or unkind, and I decided that not saying it was the third option."
+"Because on the eighteenth of May your partner sold his half and went to live near his daughter, and you rang me about it," he said. "I had arranged the thing that made it possible for him to sell and I had not thought about him once. There was nothing I could have said into that telephone that was not either a lie or unkind, and I decided that not saying it was the third option."
 
 "And now."
 
