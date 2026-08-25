@@ -751,7 +751,7 @@ genau den Figuren, die ein eigenes Kapitel tragen.** Die Falle steht wörtlich i
 | **Mr Koh** | 3 | 1 | Der Satz, den ein Mann nicht sagt |
 | **Chef Bang** | 1 | 1 | Verbeugt sich zweimal |
 | **Mrs Uhm** | 1 | 1 | Kopiert, was zu kopieren ist |
-| **Baek Jun-ho** | 1 | 1 | Noch offen |
+| **Baek Jun-ho** | 14 | 1 | Beziffert das eigene Unbehagen |
 | **Eun-ju** | 1 | 1 | Der Bus |
 
 **Wer unten kein eigenes Blatt hat, hat die Maschine aus der Tabelle und sonst
@@ -2249,10 +2249,78 @@ einmal zu dem Tisch, der ihn gekauft hat.
 loud to anybody. Not to my wife. Not to the two men I drink with. It is not a
 thing a man says."* Wenn er wieder auftritt, kommt er von dort.
 
-**Baek Jun-ho** hat eine Replik und steht noch bevor. **Seine Stimme ist offen
-und muss entschieden werden, bevor Kapitel 65 oder 66 ihn anfasst.** Vorschlag:
-ein Mann, der elf Jahre lang Rechnungen abgezeichnet hat, redet in
-Verantwortlichkeiten und nicht in Beträgen.
+**Baek Jun-ho** ist hier erledigt und der Absatz war schon beim Schreiben falsch:
+er hat **vierzehn** Repliken, nicht eine, und ein volles Blatt weiter oben mit
+gemessenen Werten. Der Vorschlag *"redet in Verantwortlichkeiten und nicht in
+Beträgen"* ist von der Messung überholt worden - **er beziffert das eigene
+Unbehagen**, was etwas anderes und besseres ist.
+
+---
+
+## Zwei Blätter, bevor die Figuren sie brauchen
+
+**Am 25.08. angelegt, auf Anweisung des Autors, und zwar bevor eine Zeile von
+ihnen im Text steht.** Der Grund steht in der Geschichte dieses Dokuments: Sim,
+Mr Ahn, die Frau mit der Gießkanne und Mrs Ha haben alle zuerst geredet und
+danach ein Blatt bekommen, und jedes Mal musste rückwirkend umgeschrieben werden.
+
+### Moon Hae-sook (Sauerstoff, elf Jahre, kein Los)
+
+**Sie ist die einzige Figur des Buches, für die nie jemand bezahlt hat.** Sie
+wurde nicht gekauft, sie wird gehalten; es gibt keine Losnummer, keinen Beleg und
+keine Zeile in einem Buch. **Daraus folgt ihr Register, und es ist der schärfste
+Gegensatz im ganzen Roman:** jede andere Figur hier spricht in Vorgängen, Preisen
+und Daten. **Sie kann es nicht**, weil es über sie keinen Vorgang gibt.
+
+**Ihre Maschine ist die Gegenwart und die kleine körperliche Tatsache.** Was
+gerade im Zimmer ist: das Licht, der Zug unter der Tür, wer welche Jacke anhat,
+dass der Kessel zweimal klickt. Elf Jahre lang war das das einzige, was sie hatte,
+das nachprüfbar wahr war. **Sie erzählt nichts, was länger her ist als heute**,
+ohne dass jemand sie ausdrücklich danach fragt, und dann tut sie es ungern.
+
+**Und die Regel, die ein Schreiber am ehesten bricht:** ihre Sätze sind kurz,
+**aber nicht aus Macht.** Kurz ist in diesem Buch überall Autorität - Annies
+Register, Georgijs kalte Fassung. **Bei ihr ist es die Lunge.** Ein Leser, der
+das verwechselt, hat die Szene verloren, und ein Schreiber, der ihr Annies
+Flachheit gibt, hat sie zu einer weiteren Herrin gemacht. Der Unterschied wird
+**körperlich** markiert und nie erklärt: sie hört mitten im Satz auf und fängt
+ihn nicht noch einmal an.
+
+**Sie fragt nicht, was als Nächstes passiert.** Elf Jahre haben ihr beigebracht,
+dass eine Frage eine Lüge erzeugt. Wenn sie doch fragt, ist das der Umschlagpunkt
+der Szene und es steht nur einmal da.
+
+**Verboten:** jede Zahl. Kein Datum, kein Preis, keine Jahresangabe über sich
+selbst. Wer ihr eine Zahl gibt, gibt ihr einen Vorgang, und der ist der Kern
+dessen, was ihr genommen wurde. Ausgenommen ist der Oktober ihrer Mutter, und
+den sagt sie nicht als Datum, sondern als Wetter.
+
+**Was sie will und was mit dem Fall nichts zu tun hat:** dass jemand ihr sagt,
+was aus den Leuten geworden ist, die eingeladen waren. Nicht warum sie
+geschwiegen haben. **Was aus ihnen geworden ist.**
+
+### Mr Tak (seit Ende August im Haus, Gangwon-do)
+
+**Der einzige Mensch im Buch, der in dem Haus ist und nicht weiss, was das Haus
+ist.** Sieben Wochen, ein befristeter Posten, niemand hat ihm etwas gesagt, weil
+es sich für sieben Wochen nicht lohnt.
+
+**Seine Maschine ist die Auskunft über das, worüber er Auskunft geben darf:** die
+Straße da hoch, der Zustand der Straße, das Wetter, die Fahrzeit, der
+Schichtwechsel. Er gibt sie freiwillig und in Mengen, weil sie das einzige ist,
+was ihm gehört. **Er hat Sim seinen Nachnamen gegeben, bevor er gefragt wurde.**
+
+**Er sagt *sie* und *die Dame* und nie einen Namen**, weil ihm keiner genannt
+wurde, und ihm fällt nicht auf, dass das ungewöhnlich ist.
+
+**Alles Institutionelle ist bei ihm *sie* im Plural** - *they said*, *they have
+me till the end of the month*. Er ist die einzige Figur, die die Gegenseite als
+Arbeitgeber und nicht als Macht beschreibt, und **genau daran hört der Leser, dass
+das Haus abgewickelt wird**, bevor es jemand ausspricht.
+
+**Verboten:** Verdacht. Er ahnt nichts, er deutet nichts an, und er ist kein
+Mitwisser. Wer ihn wissend schreibt, nimmt dem Befund aus Kapitel 73 die
+Grundlage.
 
 ---
 
