@@ -1606,7 +1606,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch14:164 | That is what he promised her on the third of April. It was not a figure of speech, and W.. |
 | 4 | b2ch14:250 | Woo's lawyer wrote to all five of them on the Thursday, on the same day, in the same wor.. |
 | 4 | b2ch15:52 | That is a room with six men in it, and Woo gave him five of the names at a car door on t.. |
-| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
+| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
 | 11 | b2ch20:64 | "Every one of the five was told who asked Chairman Woo, individually, by me, on the day .. |
 | 11 | b2ch20:72 | "That a woman on the river wanted a lane out of Ulsan. That Chairman Woo was asked. That.. |
 | 38 | b2ch26:160 | Woo. Sunwoo. Choi Dae-ho. |
@@ -1772,7 +1772,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch14:164` (Tag 4) - seven
 - `b2ch14:250` (Tag 4) - five, six, three
 - `b2ch15:52` (Tag 4) - five, six
-- `b2ch20:32` (Tag 11) - four, seven, twenty, two
+- `b2ch20:32` (Tag 11) - five, seven, twenty, two
 - `b2ch20:64` (Tag 11) - five, four, one
 - `b2ch38:156` (Tag 59) - one, three
 - `b2ch38:284` (Tag 59) - three, two
@@ -3285,7 +3285,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch15:162 | He does not say that often, and he had not planned to, and it came out before he had dec.. |
 | 4 | b2ch15:166 | "She stayed and helped stack the chairs. It is what she has done after every meeting for.. |
 | 11 | b2ch19:126 | "Your nephew started at Mr Kwon's on the twentieth of April. He is on the nine-truck rot.. |
-| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
+| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
 | 26 | b2ch24:78 | Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at in one meet.. |
 | 26 | b2ch24:80 | He is going to live about forty minutes from his daughter. Mr Kwon telephoned Georgij ab.. |
 | 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
@@ -3319,7 +3319,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch15:140` (Tag 4) - four, one, seven
 - `b2ch15:166` (Tag 4) - twenty
 - `b2ch19:126` (Tag 11) - nine, ten
-- `b2ch20:32` (Tag 11) - four, seven, twenty, two
+- `b2ch20:32` (Tag 11) - five, seven, twenty, two
 - `b2ch24:78` (Tag 26) - one, sixty-three
 - `b2ch24:80` (Tag 26) - forty
 - `b2ch69:26` (Tag 44) - eight, one, ten
@@ -3662,7 +3662,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch19:176 | "Why," said Nam Byung-hee. "You had never met me. I did not know your name until you wro.. |
 | 11 | b2ch19:194 | Nam Byung-hee sat back in her chair and put both hands in her lap and did not say anythi.. |
 | 11 | b2ch19:238 | Nam Byung-hee stood in her own gate with her hands in her coat. |
-| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon sig.. |
+| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
 | 17 | b2ch22:74 | "There is a woman in Ulsan called Nam Byung-hee," said Georgij. "She is fifty-eight. On .. |
 | 44 | b2ch69:214 | "That Nam Byung-hee wrote to a house on the river about something that was none of her b.. |
 
@@ -3681,7 +3681,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch17:56` (Tag 8) - four, one, six, twenty
 - `b2ch19:130` (Tag 11) - one
 - `b2ch19:160` (Tag 11) - one
-- `b2ch20:32` (Tag 11) - four, seven, twenty, two
+- `b2ch20:32` (Tag 11) - five, seven, twenty, two
 - `b2ch22:74` (Tag 17) - fifty-eight, four
 - `b2ch69:214` (Tag 44) - one
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 70 Kapitel, 172.123 Woerter.
+Book Two, 70 Kapitel, 172.120 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -30,7 +30,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 17 | v1.3 | 1.972 |
 | 18 | v1.4 | 2.033 |
 | 19 | v1.4 | 2.120 |
-| 20 | v1.8 | 2.643 |
+| 20 | v1.9 | 2.641 |
 | 21 | v1.7 | 2.574 |
 | 22 | v1.7 | 1.986 |
 | 23 | v1.6 | 2.014 |
@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.096 |
 | 67 | v1.3 | 2.493 |
 | 68 | v1.2 | 2.447 |
-| 69 | v1.1 | 2.945 |
+| 69 | v1.2 | 2.944 |
 | 70 | v1.0 | 2.275 |
 
 ---
@@ -4078,7 +4078,7 @@ He thought about that on the platform for twenty minutes and on the train for fo
 ---
 
 # Book Two · Chapter 20: Cheaper than deciding
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Two Hundred and Nine · Thursday 30 April
 
@@ -4102,7 +4102,7 @@ He stood at the corner of the desk and did it in order and it took four minutes.
 
 The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches in the diary and does not need any of them.
 
-Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon signed on the twenty-seventh. The other four sign Chairman Woo's paper in the first week of May, seven years, the same document as the anchor cargo.
+Nam Byung-hee has two trucks, no chair, no work and no association standing. All five have signed Chairman Woo's paper, seven years, the same document as the anchor cargo. Mr Kwon was the last of them, on the twenty-seventh.
 
 The five halves come onto the market between the middle of May and the middle of June, five separate afternoons, and there is one buyer on that coast with money in her hand and it is not a metaphor.
 
@@ -14615,7 +14615,7 @@ He sat with the pen in his hand for a while.
 ---
 
 # Book Two · Chapter 69: The call he did not take
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Forty-One · Wednesday 9 September
 
@@ -14815,7 +14815,7 @@ He wrote it up before he did anything else, and he did not arrange it.
 
 *And the rest of it is worse and I am going to write it anyway.*
 
-*On the third of April I told her the lane would be hers, and she asked me what she got and I answered, and then I finished the thing and went to the next one. The five firms have been Woo's customers since the first week of May. I have been out on that island twice since, taking his help, and it has never once occurred to me what I was standing in.*
+*On the third of April I told her the lane would be hers, and she asked me what she got and I answered, and then I finished the thing and went to the next one. The five firms have been Woo's customers since the end of April. I have been out on that island twice since, taking his help, and it has never once occurred to me what I was standing in.*
 
 He sat with the pen for a while.
 

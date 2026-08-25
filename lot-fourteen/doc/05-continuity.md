@@ -1278,7 +1278,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
-- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.8) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.9) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
 
   **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
 
@@ -3039,7 +3039,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 69** *The call he did not take* (v1.1) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+- **Band 2, Kapitel 69** *The call he did not take* (v1.2) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
   auf zwei Funde des Pruefers hin.
@@ -3268,8 +3268,8 @@ steht der Widerspruch am selben Abend wieder da.
 
 ---
 
-## OFFEN: Kapitel 20 zaehlt fuenf Mitteilungen, von denen vier noch nicht
-stattgefunden haben koennen (25.08.)
+## ~~OFFEN:~~ ERLEDIGT: Kapitel 20 zaehlte fuenf Mitteilungen, von denen vier noch
+nicht stattgefunden haben konnten (25.08.)
 
 **Gefunden beim Nachpruefen der Kapitel 20 (v1.8) und 69 (v1.1), beide am
 25.08. neu.** Die Zusage vom 3. April ist damit eingeloest, und das haelt - der
@@ -3294,7 +3294,28 @@ you drove into my yard and told me who had asked Chairman Woo"*, und der 27.
 ist laut Kapitel 20 **Kwons** Unterschriftstag. Jede Mitteilung faellt also auf
 den Unterschriftstag der jeweiligen Firma.
 
-**Zwei Wege hinaus, und es ist eine Autorenentscheidung:**
+**Vom Autor entschieden am 25.08.: Weg 2, die Unterschriften wandern.** Kapitel
+20 steht jetzt auf v1.9: *"All five have signed Chairman Woo's paper, seven
+years, the same document as the anchor cargo. **Mr Kwon was the last of them, on
+the twenty-seventh.**"* Damit ist das Perfekt gedeckt, und Kwons
+Unterschriftstag bleibt der 27. - den braucht Kapitel 69.
+
+**Eine Folgestelle musste mit**, und nur eine: Kapitel 69 sagte *"The five firms
+have been Woo's customers since the first week of May"* und sagt jetzt *"since
+the end of April"* (v1.2).
+
+**Und es passt besser als vorher.** Kapitel 14 hatte Kwon ohnehin als letzten:
+*"The fifth was Mr Kwon. He answered the third question in nine words."* Er war
+schon dort der Fuenfte, jetzt ist er es auch beim Unterschreiben.
+
+**Nicht angefasst und geprueft unberuehrt:** *"The five halves come onto the
+market between the middle of May and the middle of June"* (das sind die
+Teilhaber-Haelften, ein anderer Vorgang), Mr Hwangs erste Maiwoche in Kapitel 56
+(die Abrechnungsbuecher), und Georgijs *"I have known that since about the first
+week of May"* in 69 - er hat es ein paar Tage nach den Unterschriften begriffen,
+und das stimmt weiter.
+
+**Die beiden Wege, die zur Wahl standen:**
 
 1. **Die Zahl an den Kalender anpassen** - nur Kwon ist unterrichtet, die
    uebrigen vier bekommen denselben Satz in der ersten Maiwoche. **Das ist die

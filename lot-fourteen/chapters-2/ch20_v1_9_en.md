@@ -1,7 +1,7 @@
-Book Two · Chapter 20: Cheaper than deciding
-Lot Fourteen · Version 1.8 · EN
+# Chapter 20: Cheaper than deciding
+*Lot Fourteen* · Version 1.9 · EN
 
-Day Two Hundred and Nine · Thursday 30 April
+## Day Two Hundred and Nine · Thursday 30 April
 
 He got in at twenty past eleven and the light in the small room was on.
 
@@ -11,7 +11,7 @@ There was nothing on the desk.
 
 "Come in and shut it," said Annie.
 
-* * *
+---
 
 He shut it, which is the second time that door has been shut with him inside the room.
 
@@ -21,15 +21,15 @@ He shut it, which is the second time that door has been shut with him inside the
 
 "You told me on the twentieth of March that it would be finished by the end of April. I made you say it again on the first, because I wanted it to be a date and not a thing a man says at midnight." She had her hands flat on the desk. "It is the thirtieth of April at twenty past eleven. Report."
 
-* * *
+---
 
 He stood at the corner of the desk and did it in order and it took four minutes.
 
-* * *
+---
 
 The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches in the diary and does not need any of them.
 
-Nam Byung-hee has two trucks, no chair, no work and no association standing. Mr Kwon signed on the twenty-seventh. The other four sign Chairman Woo's paper in the first week of May, seven years, the same document as the anchor cargo.
+Nam Byung-hee has two trucks, no chair, no work and no association standing. All five have signed Chairman Woo's paper, seven years, the same document as the anchor cargo. Mr Kwon was the last of them, on the twenty-seventh.
 
 The five halves come onto the market between the middle of May and the middle of June, five separate afternoons, and there is one buyer on that coast with money in her hand and it is not a metaphor.
 
@@ -39,123 +39,123 @@ The man who chose her has nine lines of description and a sentence and no name.
 
 "You have left one out."
 
-* * *
+---
 
 "I have not left it out. I put it last because it is the only part of the month that is finished, and I did not want it standing in front of the parts that are not."
 
-* * *
+---
 
 "Then say it."
 
-* * *
+---
 
 "The five are yours."
 
-———
+* * *
 
 Annie put the pen down, which she does not do in the middle of a report.
 
-* * *
+---
 
 "Say that so that I can check it."
 
-* * *
+---
 
 "Every one of the five was told who asked Chairman Woo, individually, by me, on the day he signed." Georgij did not decorate any of it. "Not by telephone and not through the association. I drove to four yards and a kitchen and I said the same sentence in the same words five times."
 
-* * *
+---
 
 "Say the sentence."
 
-* * *
+---
 
 "That a woman on the river wanted a lane out of Ulsan. That Chairman Woo was asked. That he then made his own decision about his own quay with his own money."
 
-* * *
+---
 
 "And what did it cost me."
 
-* * *
+---
 
 "Nothing." He did not soften it. "Not one won. Not one hour. Not one telephone call, and there is nothing coming later that I have not put in front of you tonight."
 
-———
+* * *
 
 Annie sat with that for a moment.
 
-* * *
+---
 
 "On the third of April you stood in this room and told me that in about three weeks five frightened men were going to be extremely grateful to somebody, and that the somebody could be me."
 
-* * *
+---
 
 "I did."
 
-* * *
+---
 
 "It is the thirtieth."
 
-* * *
+---
 
 "Twenty-seven days," said Georgij.
 
-* * *
+---
 
 Annie almost smiled at that, and it did not get anywhere near her face, and she did not say the thing that goes there.
 
-* * *
+---
 
 "Then there is one more instruction and you are not going to like it," she said.
 
-* * *
+---
 
 "Go on."
 
-* * *
+---
 
 "Go back and tell all five that they do not owe me anything."
 
-———
+* * *
 
 Georgij did not answer straight away.
 
-* * *
+---
 
 "That is the part that is worth having," he said.
 
-* * *
+---
 
 "I know what it is worth. I have had gratitude in this business for twenty years and I can price it in about four seconds." Annie had not raised her voice. "A man who thinks he owes you is a man somebody else can collect from. Not me. Somebody. And he will pay, because he has been waiting a year to feel better."
 
-* * *
+---
 
 "They will not believe it."
 
-* * *
+---
 
 "Then say it twice."
 
-* * *
+---
 
 "I will say it once and properly." He did not look away. "I am not driving back down there this week. Five men who have just signed seven years do not want to see me again in April." He said it in the flat voice. "It will keep."
 
-* * *
+---
 
 "It will keep," said Annie.
 
-* * *
+---
 
 She picked the pen back up, and it was the only thing she let go of that evening without finishing, and neither of them noticed at the time.
 
-———
+* * *
 
 "That is the month," said Georgij.
 
-* * *
+---
 
 "That is the month."
 
-* * *
+---
 
 Annie did not say anything about any of it, which he had expected, because she does not congratulate people and it has never once occurred to her that anybody might want her to.
 
@@ -165,13 +165,13 @@ Annie did not say anything about any of it, which he had expected, because she d
 
 "I am not going to ask it gently and I am not going to give you a way of answering it that lets you past. I have thought about how to put it since about six o'clock." She looked at him. "Did you enjoy it."
 
-* * *
+---
 
 He did not answer straight away, and she let him not answer.
 
 "Yes," he said. "Once. For about a second and a half, at a gate, at four o'clock this afternoon."
 
-* * *
+---
 
 He had promised her that answer on the third of April, and he had brought back the version that cost him something.
 
@@ -179,7 +179,7 @@ He had promised her that answer on the third of April, and he had brought back t
 
 "She asked what would happen if she talked anyway. And I told her I would come back a fourth time and there would be nothing in my hands then either." He said it perfectly evenly. "It is true, and it was the correct thing to say, and I would say it again in that position tomorrow, and I enjoyed saying it."
 
-* * *
+---
 
 Annie sat back.
 
@@ -199,7 +199,7 @@ Annie sat back.
 
 "She is not. She had the advantage of not caring what the answer was."
 
-* * *
+---
 
 Annie thought about that for a moment and let it go, and it was not agreement.
 
@@ -207,7 +207,7 @@ Annie thought about that for a moment and let it go, and it was not agreement.
 
 "I would like the ceiling back."
 
-* * *
+---
 
 The clock in the hall did the thing it does at the quarter.
 
@@ -217,7 +217,7 @@ The clock in the hall did the thing it does at the quarter.
 
 "No," said Annie.
 
-* * *
+---
 
 He did not move.
 
@@ -229,7 +229,7 @@ He did not move.
 
 "It is exactly what you are doing and you know the shape of it better than anybody alive, because it is what you have done to eleven people since October." She did not raise her voice. "You put a rule in front of a man so that he does not have to make the decision again in June. It works every single time, and it works because a rule is cheaper than deciding."
 
-* * *
+---
 
 Georgij stood there and did not have anything at all.
 
@@ -239,7 +239,7 @@ Georgij stood there and did not have anything at all.
 
 "Then you will get it wrong, and you will find out, and it will cost somebody something." She held his eye. "That is what it costs to be the person deciding. You have had two months of it now and I am not going to take it off you because the second month was unpleasant."
 
-* * *
+---
 
 He did not say anything for a while.
 
@@ -249,7 +249,7 @@ He did not say anything for a while.
 
 "Yes. It is also the only one of the two that is worth anything, and you would have told anybody else exactly that."
 
-* * *
+---
 
 He looked at the desk for a moment.
 
@@ -259,29 +259,29 @@ He looked at the desk for a moment.
 
 "I have not been afraid of very much since October," said Georgij. "I have been afraid of four things and I could name all four. As of this afternoon there are five, and the fifth one is that I am going to be all right about it."
 
-* * *
+---
 
 He had counted his fears the way he counts everything else, and the new one was about himself.
 
-* * *
+---
 
 Annie did not answer that for a moment.
 
 "Yes," she said. "That is the correct one to be afraid of, and I would have been disappointed in you if it had taken you until June."
 
-* * *
+---
 
 She got up and came round the desk.
 
 "Sit down on the floor."
 
-* * *
+---
 
 He sat down at the side of the desk with his back against it, which is where he sits. She sat on the arm of the reading chair, which is not sitting. Neither of them said anything for a while.
 
 "What happens to her now," said Annie.
 
-* * *
+---
 
 She has not asked one question about that woman since the third of April, and he had stopped expecting her to.
 
@@ -291,7 +291,7 @@ She has not asked one question about that woman since the third of April, and he
 
 "She is fifty-eight, and she is the most competent person I have sat in a room with since December, and I am saying that as a piece of information and not as a sentiment."
 
-* * *
+---
 
 Annie looked at the window.
 
@@ -333,7 +333,7 @@ Annie looked at the window.
 
 "He said something to you on an expressway on the fourteenth of April about a yard in Gimhae." She was looking at the window and not at him. "He came and told Mrs Seo that he had said it and that he was not sure whether he should have. He has been worrying about it for a fortnight."
 
-* * *
+---
 
 Georgij put his head back against the side of the desk.
 
@@ -343,6 +343,6 @@ Georgij put his head back against the side of the desk.
 
 "Yes, Mistress."
 
-* * *
+---
 
 She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up.
