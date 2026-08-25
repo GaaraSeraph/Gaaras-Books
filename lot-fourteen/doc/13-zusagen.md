@@ -95,7 +95,7 @@ wird.**
 - [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
 - [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
 - [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
-- [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
+- [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 322 · "Put it in front of me on Friday. Not today." · B2 60: *"He put all of it in front of Annie at seven on the Friday evening"* - am Tag. **Stand bis zum 25.08. falsch als offen und mit falschem Kapitel und Tag im Buch.**
 - [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
 - [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
@@ -112,10 +112,11 @@ wird.**
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —
-- [OFFEN] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig offen · "I am going to say it again now to all six, in the same words, because I promised" · —
+- [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
 
+- [KEINE] **B2 74** Georgij an Annie · gesagt Tag 350 · faellig offen · "you have told her you will be at her table on the twenty-third" · Keine neue Zusage, sondern die Wiedergabe von B2 71. `--neu` findet sie, weil der Wortlaut abweicht
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
 - [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
 - [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
