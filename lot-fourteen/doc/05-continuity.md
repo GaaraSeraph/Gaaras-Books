@@ -1308,7 +1308,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
 
-- **Band 2, Kapitel 21** *Tidily* (v1.5) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
+- **Band 2, Kapitel 21** *Tidily* (v1.6) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
   **Am 23.08. gegen meine eigene erste Anlage korrigiert.** Ich hatte Hwangs Haltung als unangreifbar gebaut. **Sie ist es nicht**, und der Autor hat gesagt warum: vier bezahlte, arrangierte und abgesegnete Auftraege wurden nicht ausgefuehrt, er hat es gewusst, und er hat weder erfuellt noch erstattet noch es den vieren gesagt.
 
@@ -1525,7 +1525,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
-- **Band 2, Kapitel 28** *He keeps everything* (v1.2) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+- **Band 2, Kapitel 28** *He keeps everything* (v1.3) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 
   **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
 
@@ -1571,7 +1571,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.4) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.5) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -1625,7 +1625,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss ist die erste Sache in zwei Baenden, die er ohne Erlaubnis getan hat.** Er rechnet es auf der Rueckfahrt zweimal durch und bekommt zweimal dasselbe Ergebnis, **naemlich dass sie es nicht tun wird, und dass er damit recht hat, und dass Rechthaben nicht der Punkt ist.** *"Nobody gave him leave to do it. He is going to have to go into the small room tonight and say so."*
 
-- **Band 2, Kapitel 30** *A person with nothing* (v1.1) - **Tag 238, Fr 29. Mai, zwanzig nach sieben. Eine Szene, das kleine Zimmer, bis halb zwoelf.**
+- **Band 2, Kapitel 30** *A person with nothing* (v1.2) - **Tag 238, Fr 29. Mai, zwanzig nach sieben. Eine Szene, das kleine Zimmer, bis halb zwoelf.**
 
   **Der erste Absatz benennt die Reihenfolge, die er NICHT nimmt, und dass er sie kann:** erst das Mitgebrachte, dann der Preis, wenn der Raum schon zufrieden ist. *"He has used that order on other people this year and it works."* **Er sagt es andersherum, und das ist der ganze Anfang.**
 
@@ -1761,7 +1761,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Bewusster Widerhall:** *"You are a very strange young man"* steht gegen Mr Byuns *"Then you are a very cruel young man"* aus Kapitel 22. Zwei Urteile ueber denselben Mann aus zwei Zimmern, und das Buch faellt keines davon selbst.
 
-- **Band 2, Kapitel 33** *A door with no name on it* (v1.2) - **Tag 243, Mi 3. Juni. Eine Szene, der Schreibtisch am Morgen.**
+- **Band 2, Kapitel 33** *A door with no name on it* (v1.3) - **Tag 243, Mi 3. Juni. Eine Szene, der Schreibtisch am Morgen.**
 
   **Georgij bricht sein eigenes Muster:** zum ersten Mal seit Januar (in Wahrheit seit dem 20. Maerz, als er die vierte Zeile zum ersten Mal ausspricht) legt er eine laufende Ermittlung offen, bevor sie ihn etwas kostet, statt danach. *"Since the flower shop, the only money that has gone into this is what you already handed me yourself, and I have not used your name once. I only noticed this morning that both of those were decisions, and I had not told you I was making them."* **Korrigiert am 24.08.:** die erste Fassung liess ihn behaupten, er habe "not spent a won" - falsch, Annie hatte ihm das Bargeld fuer den Blumenladen selbst gegeben (Kapitel 31).
 
@@ -2515,7 +2515,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.2) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.3) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2523,7 +2523,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.2) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.3) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
@@ -2761,7 +2761,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
-- **Band 2, Kapitel 63** *One sentence* (v1.3) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.4) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
@@ -2933,7 +2933,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.0) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.1) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen

@@ -294,3 +294,64 @@ Sang-hoon dessen Namen kennt, steht nirgends. Die Zeile ist inhaltlich als
 Anweisung an Georgij lesbar, also **kein sicherer Fund** - ich habe nichts
 geaendert und trage sie hier ein.
 
+#### Block 4 - K21, K28, K29, K30, K33, K50, K52, K63, K68 (13 Kommentare)
+
+Die zweite Stufe: neun Kapitel zwischen 8,0 und 9,5. Weniger je Kapitel als in
+Block 3, weil diese Kapitel den Erzaehler ueberwiegend schon haben - K30 endet
+auf *"He has never done that in a room with her in it."*, K52 auf *"There is one
+other man in this story who does not eat in front of the person he is working
+on."* Dort wird nichts danebengesetzt.
+
+**Meldung 2 - Zahl, Datum oder Dauer in einem eingesetzten Satz**
+
+| Kap | Eingesetzt | Woher |
+|---|---|---|
+| K21 | *"That is the arithmetic he has been carrying **since April**..."* | Georgij: *"I have been trying since the twenty-third of April"* |
+| K28 | *"...carried it up **three floors**..."* | Hwang sitzt im dritten Stock, im Kapitel |
+| K50 | *"A solicitor got to it in **ninety seconds** ... and it had taken Georgij **five months**."* | *"He took about ninety seconds"*; Beginn 2. Maerz, Kapiteltag 28. Juli |
+| K52 | *"...for **eleven years** ... **one page** and **nine minutes**."* | elf Jahre Blumen; Georgij spricht in neun Minuten einen Satz |
+| K63 | *"He had spent **seven minutes**..."* | *"He took about seven."* |
+| K63 | *"...a fact from when she was **nine**."* | Mr Ahn: *"She's been furious with me since she was nine."* |
+| K68 | *"A man had found out at **sixty-three** what he was for..."* | Sim: *"I am sixty-three ... I have just found out what it was for."* |
+| K68 | *"...the **two** words he did not use."* | *only* und *just*, im Kapitel benannt |
+
+**Meldung 3 - Absoluta in eingesetzten Saetzen**
+
+| Kap | Eingesetzt | Deckung |
+|---|---|---|
+| K21 | *"**Nobody** in that building had **ever** said it to him..."* | Erzaehlerurteil. Siehe *Unsicher* |
+| K28 | *"...the **one** man in that building who would have known what it was."* | Hwang hebt alles auf und ist der Verwalter |
+| K29 | *"...the **one** line that could end the house he lives in..."* | im Kapitel ausgefuehrt |
+| K29 | *"...the **only** part of it that was ever hers."* | ihre eigene Zeile: *"I bought the book myself"* |
+| K30 | *"...and **nobody** had asked her for either."* | im Wechsel nachpruefbar |
+| K63 | *"...the **one** thing he owns that nobody could have taken off him..."* | seine eigene Zeile: *"Nobody knows that."* |
+
+**Meldung 1 und 4:** keine.
+
+**Gegenprobe `faktenspur.py --seit e6e4d76`:** sieben Kapitel, alles oben
+aufgeloest. K30 und K33 meldet sie nicht - dort steht in keinem der zwei Saetze
+eine Zahl.
+
+**Unsicher**
+
+- **K21** - *"Nobody in that building had ever said it to him, because everybody
+  in that building had thought he was the improvement."* Behauptung ueber ein
+  ganzes Haus ueber fuenf Monate. Traegt den Sinn, ist aber nicht belegbar.
+- **K52, beim Gegenlesen ersetzt.** Erste Fassung: *"...for eleven years without
+  once having to think about it."* Das ist falsch: Sim sagt im selben Kapitel,
+  er habe die Leute **selbst ausgesucht und sei zweimal hingefahren**. Jetzt:
+  *"...and had never once been given a reason to ask."*
+- **K63, beim Gegenlesen ersetzt, und das ist der Fund dieses Blocks.** Erste
+  Fassung: *"It is the first thing he has said about her in either conversation
+  that was not about the four years."* Gegengelesen an **b2 K56**, wo Mr Ahn
+  sagt: *"I've told her everything since we were small."* **Der Superlativ war
+  schlicht falsch**, und er wurde erst gefunden, weil ich ihn fuer dieses Blatt
+  belegen wollte. Jetzt steht dort ein Satz ohne Superlativ.
+
+**Damit zum dritten Mal dieselbe Fehlerklasse, und sie hat jetzt eine Form:**
+der Erzaehlerkommentar greift ueber die Szene hinaus - auf ein anderes Kapitel,
+auf ein ganzes Gebaeude, auf elf Jahre - und **niemandem faellt es auf, weil der
+Erzaehler nicht widersprochen wird.** Die Gegenprobe, die es faengt, ist nicht
+`faktenspur.py`: es ist der Zwang, fuer jedes Absolutum eine Fundstelle in
+dieses Blatt zu schreiben.
+
