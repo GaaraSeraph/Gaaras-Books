@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 169.004 Woerter.
+Book Two, 68 Kapitel, 169.131 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -67,7 +67,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 54 | v1.2 | 2.862 |
 | 55 | v1.2 | 2.060 |
 | 56 | v1.4 | 2.712 |
-| 57 | v1.2 | 2.870 |
+| 57 | v1.3 | 2.997 |
 | 58 | v1.4 | 2.353 |
 | 59 | v1.3 | 2.239 |
 | 60 | v1.2 | 2.488 |
@@ -12035,7 +12035,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 57: Nobody paid
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Eighteen · Monday 17 August
 
@@ -12175,7 +12175,11 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 
 "I did not ask for them."
 
-"No," said Woo. "That is the entire reason I am able to. If you had asked me in April I would have given them to you and I would have thought about it every week since, and by August I would have found something wrong with you."
+"You have not asked for them twice now, and you are the only man alive who has ever had to be told what he is owed." Woo turned his hand over on the desk. "In November you sat in a shed at Yeongjong and talked to me for three hours and wanted nothing at the end of it. Nobody has done that to me since 1994. I have been in your debt since, and in April I refused to settle it on a lane."
+
+"You said it would have to be worth what it was worth."
+
+"It is. I am paying it this afternoon and I am choosing what it goes on, and I have been waiting ten months to be allowed to." He pulled a pad towards him. "And I could only choose it because you did not ask. If you had asked me in April I would have given them to you and thought about it every week since, and by August I would have found something wrong with you."
 
 He pulled a pad towards him, which is what he does instead of agreeing to things.
 

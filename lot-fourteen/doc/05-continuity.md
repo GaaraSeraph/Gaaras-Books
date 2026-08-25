@@ -2602,7 +2602,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.2) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.3) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2634,6 +2634,30 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
   vier Jahre aelter) gehoeren in das Geburtstagsregister.
+  **v1.3 am 25.08.: die Richtung der Schuld steht jetzt im Kapitel.** Frage des
+  Autors - *"Er hat die drei Stunden doch angeboten, wieso gibt er sein Geschenk
+  aus?"*
+  - **Er hat sie nicht angeboten. Georgij hat sie ihm gegeben.** Im November,
+    drei Stunden in einer Baracke auf Yeongjong, an deren Ende Georgij nichts
+    wollte. *"You are the only man in this country who has ever talked to me for
+    three hours without wanting anything at the end of it."* **Woo ist seither der
+    Schuldner.**
+  - Kapitel 13 (9. April) sagt es ausdruecklich, aus Woos Mund: *"You came here to
+    ask me for something you thought I owed you. What you are getting instead is a
+    customer."* Er weigert sich, auf einer Fahrspur zu zahlen, und **nimmt sich
+    damit das Recht, selbst zu bestimmen, wofuer es draufgeht.**
+  - Ausgeben heisst also **bezahlen** und nicht schenken. Das stand in Kapitel 57
+    nirgends, und der Leser musste sich eine Zeile aus Kapitel 13 merken,
+    vierundvierzig Kapitel frueher. **Jetzt sagt Woo es selbst**, in seinem
+    Register, als Korrektur der Praemisse.
+
+  **FUER DEN INHALTS-CHAT, Band 2 Kapitel 13:** die Zeile *"I still have the three
+  hours. I am seventy-eight and I would rather be owed than paid"* ist die Quelle
+  der Verwirrung. **Woo ist an dieser Stelle der Schuldner**, aber *to be owed* ist
+  die Position des Glaeubigers. Entweder ist es ein Dreher, oder es ist gemeint als
+  *"ich bleibe lieber in der Schuld, als sie zu begleichen"* - dann fehlt dem Satz
+  ein Wort. Nicht von mir geaendert.
+
 
 - **Band 2, Kapitel 58** *The tenth plate* (v1.4) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
 

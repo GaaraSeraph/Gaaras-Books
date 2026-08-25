@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 226.067 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 226.326 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5359,7 +5359,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.2) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.3) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -5391,6 +5391,30 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
   vier Jahre aelter) gehoeren in das Geburtstagsregister.
+  **v1.3 am 25.08.: die Richtung der Schuld steht jetzt im Kapitel.** Frage des
+  Autors - *"Er hat die drei Stunden doch angeboten, wieso gibt er sein Geschenk
+  aus?"*
+  - **Er hat sie nicht angeboten. Georgij hat sie ihm gegeben.** Im November,
+    drei Stunden in einer Baracke auf Yeongjong, an deren Ende Georgij nichts
+    wollte. *"You are the only man in this country who has ever talked to me for
+    three hours without wanting anything at the end of it."* **Woo ist seither der
+    Schuldner.**
+  - Kapitel 13 (9. April) sagt es ausdruecklich, aus Woos Mund: *"You came here to
+    ask me for something you thought I owed you. What you are getting instead is a
+    customer."* Er weigert sich, auf einer Fahrspur zu zahlen, und **nimmt sich
+    damit das Recht, selbst zu bestimmen, wofuer es draufgeht.**
+  - Ausgeben heisst also **bezahlen** und nicht schenken. Das stand in Kapitel 57
+    nirgends, und der Leser musste sich eine Zeile aus Kapitel 13 merken,
+    vierundvierzig Kapitel frueher. **Jetzt sagt Woo es selbst**, in seinem
+    Register, als Korrektur der Praemisse.
+
+  **FUER DEN INHALTS-CHAT, Band 2 Kapitel 13:** die Zeile *"I still have the three
+  hours. I am seventy-eight and I would rather be owed than paid"* ist die Quelle
+  der Verwirrung. **Woo ist an dieser Stelle der Schuldner**, aber *to be owed* ist
+  die Position des Glaeubigers. Entweder ist es ein Dreher, oder es ist gemeint als
+  *"ich bleibe lieber in der Schuld, als sie zu begleichen"* - dann fehlt dem Satz
+  ein Wort. Nicht von mir geaendert.
+
 
 - **Band 2, Kapitel 58** *The tenth plate* (v1.4) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
 
@@ -14687,7 +14711,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:212 | Annie listened to the whole of it standing in the doorway with one hand on the frame. |
 | 16 | b2ch55:236 | "You have. And I have let you, because it is my house and my money and the line on that .. |
 | 16 | b2ch55:256 | Annie came round the desk and stood behind the chair. |
-| 21 | b2ch57:418 | It was a page out of Annie's own hand, and it was eleven lines long, and it was the seco.. |
+| 21 | b2ch57:426 | It was a page out of Annie's own hand, and it was eleven lines long, and it was the seco.. |
 | 22 | b2ch58:70 | Annie was at the desk in the small room and the page from the hall was in front of her, .. |
 | 22 | b2ch58:102 | "That is a man being frightened, and he is frightened of a room and not of a person, and.. |
 | 22 | b2ch58:122 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Koh te.. |
@@ -14930,7 +14954,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:334` (Tag 10) - four
 - `b2ch54:358` (Tag 10) - one
 - `b2ch55:212` (Tag 16) - one
-- `b2ch57:418` (Tag 21) - eleven
+- `b2ch57:426` (Tag 21) - eleven
 - `b2ch58:70` (Tag 22) - two
 - `b2ch58:102` (Tag 22) - eleven, one, two
 - `b2ch59:304` (Tag 22) - one
@@ -15530,14 +15554,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 21 | b2ch57:250 | "He wanted to know who I had." Woo said it flatly and then he said the rest of it more s.. |
 | 21 | b2ch57:258 | "The third is alive. I have not had a real conversation with him since my wife died." Wo.. |
 | 21 | b2ch57:262 | "I am spending the three hours," said Woo. |
-| 21 | b2ch57:270 | "No," said Woo. "That is the entire reason I am able to. If you had asked me in April I .. |
-| 21 | b2ch57:286 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
-| 21 | b2ch57:302 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
-| 21 | b2ch57:322 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
-| 21 | b2ch57:330 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
-| 21 | b2ch57:350 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
-| 21 | b2ch57:366 | Woo took his hand off the roof of the car. |
-| 21 | b2ch57:382 | *Chairman Woo has been telling himself for twenty-three years that one of three men paid.. |
+| 21 | b2ch57:270 | "You have not asked for them twice now, and you are the only man alive who has ever had .. |
+| 21 | b2ch57:294 | "It is an old man asking about an old case that had his own name on it. That is the leas.. |
+| 21 | b2ch57:310 | At the car, at the end, Woo did the thing he did in October and again in April, which is.. |
+| 21 | b2ch57:330 | "I am going to, and you are going to let me get to the end of it, because I have only ju.. |
+| 21 | b2ch57:338 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
+| 21 | b2ch57:358 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
+| 21 | b2ch57:374 | Woo took his hand off the roof of the car. |
+| 21 | b2ch57:390 | *Chairman Woo has been telling himself for twenty-three years that one of three men paid.. |
 | 25 | b2ch60:336 | "Chairman Woo," she said. "He asked after you by name and he said the words please and t.. |
 | 25 | b2ch60:344 | "I have it," said Woo. |
 | 25 | b2ch60:368 | "And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Someb.. |
@@ -15680,11 +15704,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:250` (Tag 21) - one, three, twenty-three, two
 - `b2ch57:258` (Tag 21) - fourteen, three, twenty-three
 - `b2ch57:262` (Tag 21) - three
-- `b2ch57:286` (Tag 21) - seventy-eight, two, two thousand and two
-- `b2ch57:322` (Tag 21) - nine hundred, one, six, ten
-- `b2ch57:330` (Tag 21) - four, one
-- `b2ch57:350` (Tag 21) - one
-- `b2ch57:382` (Tag 21) - one, three, twenty-three
+- `b2ch57:270` (Tag 21) - three
+- `b2ch57:294` (Tag 21) - seventy-eight, two, two thousand and two
+- `b2ch57:330` (Tag 21) - nine hundred, one, six, ten
+- `b2ch57:338` (Tag 21) - four, one
+- `b2ch57:358` (Tag 21) - one
+- `b2ch57:390` (Tag 21) - one, three, twenty-three
 - `b2ch60:336` (Tag 25) - nine
 - `b2ch61:18` (Tag 27) - nine, one
 - `b2ch61:82` (Tag 27) - eleven, seventy-four
@@ -16414,8 +16439,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch54:62 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
 | 10 | b2ch54:278 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
 | 10 | b2ch54:410 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
-| 21 | b2ch57:406 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
-| 21 | b2ch57:414 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
+| 21 | b2ch57:414 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 21 | b2ch57:422 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
 | 22 | b2ch58:46 | Mrs Seo caught him at ten past seven with the coffee already poured, which is not a cour.. |
 | 22 | b2ch58:66 | "I would not." Mrs Seo looked at him properly for about a second. "There's a plate for y.. |
 | 22 | b2ch59:368 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
@@ -17691,7 +17716,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch37:258 | Mr Koh smiled back before he had decided to, which is what that smile is for, and then l.. |
 | 53 | b2ch37:280 | *Mr Koh, since eleven o'clock this morning. And he is the first one who knows what the a.. |
 | 59 | b2ch38:325 | Mr Koh he had never met. |
-| 21 | b2ch57:426 | *Koh has telephoned two of them himself. I did not ask him to and he has not told me wha.. |
+| 21 | b2ch57:434 | *Koh has telephoned two of them himself. I did not ask him to and he has not told me wha.. |
 | 22 | b2ch58:82 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
 | 22 | b2ch58:122 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Koh te.. |
 
@@ -17702,7 +17727,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch37:138` (Tag 53) - five, nine, one
 - `b2ch37:226` (Tag 53) - ten
 - `b2ch37:280` (Tag 53) - eleven, one
-- `b2ch57:426` (Tag 21) - two
+- `b2ch57:434` (Tag 21) - two
 - `b2ch58:82` (Tag 22) - eight, one
 
 ---
