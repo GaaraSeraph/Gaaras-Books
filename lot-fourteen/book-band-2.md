@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.642 Woerter.
+Book Two, 68 Kapitel, 168.626 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -32,7 +32,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 19 | v1.3 | 2.151 |
 | 20 | v1.6 | 2.168 |
 | 21 | v1.6 | 2.611 |
-| 22 | v1.5 | 2.047 |
+| 22 | v1.6 | 2.023 |
 | 23 | v1.5 | 2.046 |
 | 24 | v1.3 | 2.050 |
 | 25 | v1.2 | 2.128 |
@@ -77,7 +77,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 64 | v1.3 | 2.310 |
 | 65 | v1.3 | 2.182 |
 | 66 | v1.2 | 2.123 |
-| 67 | v1.1 | 2.560 |
+| 67 | v1.2 | 2.568 |
 | 68 | v1.1 | 2.504 |
 
 ---
@@ -4488,7 +4488,7 @@ He wrote the time in the second column of the visitors' book on the way out, bec
 ---
 
 # Book Two · Chapter 22: I did not offer you anything
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Fifteen · Wednesday 6 May
 
@@ -4651,8 +4651,6 @@ Mr Byun stood in the middle of his sitting room.
 "Then you are a very cruel young man."
 
 "No," said Georgij. "I have been in three rooms in the last three weeks and in two of them that would have been true. In this one it is not, and you have not got the first idea why, and I am not going to explain it to you."
-
-The difference is whether the man doing it wants to, and it makes no difference whatever to the man it is done to.
 
 He got as far as the door.
 
@@ -14029,7 +14027,7 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 ---
 
 # Book Two · Chapter 67: Four hundred and one
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14151,7 +14149,7 @@ Neither of them said anything.
 
 "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday."
 
-It is the last thing she is known to have decided, and it was about flowers.
+She had finished deciding before she came up those stairs, and the only thing she had left to arrange was where the flowers went.
 
 * * *
 
