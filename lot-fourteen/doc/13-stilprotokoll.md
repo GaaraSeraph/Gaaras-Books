@@ -877,3 +877,82 @@ Kapitel geschrieben, und bei Jang ist genau das schon passiert.
 
 **Noch offen:** Mrs Seo, Yeom, Hwang, Mrs Jeon, Mrs Bae, Mrs Gwak, Mr Sohn,
 Mr Koh, Mr Byun, Mr Chae, Sang-hoon, Hana.
+
+---
+
+### doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler
+
+Alle gelesenen Blaetter durch. **Kein einziges war ohne Fehler.** Zwei davon
+hatten bereits ins Buch gewirkt und sind zurueckgenommen.
+
+#### Was ins Buch gewirkt hatte
+
+| Blatt | Behauptung | Was daraus im Buch wurde |
+|---|---|---|
+| Jang | *"Er zieht zusammen, in beiden Baenden"* | zwei Kontraktionen in b2 K40, von mir. **Zurueckgenommen, ch40 v2.6** |
+| Mrs Seo | Standeslinie 17,9 | zwei Kontraktionen in b2 K34 und K37, von mir. **Zurueckgenommen, v1.4 und v2.4** |
+
+**Beide Male hat sich die Behauptung selbst gemessen:** das Blatt sagte, die
+Figur ziehe zusammen; ich machte sie zusammenziehen; das Werkzeug meldete danach,
+dass sie zusammenzieht. Ohne diese Eingriffe hat **Mrs Seo im ganzen Buch keine
+einzige** Kontraktion und **Jang drei**, alle drei in einem Wechsel ueber Kies in
+b1 K05.
+
+#### Die uebrigen Fehler
+
+| Blatt | stand da | Befund |
+|---|---|---|
+| **Ye-rin** | *"Kein Titel, kein Name"* | Sie sagt **"Mr Georgij."** - der Schluss von b1 K30 |
+| Ye-rin | *"Kein Wort ueber Gefuehle"* | *"I have disliked everything so far."* |
+| Ye-rin | *"keine Frage, die sie nicht selbst beantwortet"* | mindestens acht, Georgij beantwortet die meisten |
+| Ye-rin | *"spricht nie zuerst aus sich selbst"* | zweite Kapitelhaelfte ausschliesslich aus sich selbst |
+| Ye-rin | *"wenn sie sich umdreht, ist das die Szene"* | fuenfmal markiert, zwei davon Ereignisse |
+| Ye-rin | *"17 Repliken"* | rund **57 allein in b1 K30** |
+| **Jang** | *"der langsatzigste Sprecher des Buchs"* | Mittelfeld: Hwang 11,9 · Georgij 11,6 · **Jang 11,2** |
+| Jang | *"Er laesst sich nicht einschenken"* | b1 K23: *"You should not do that."* - **und trinkt es** |
+| Jang | 45 Repliken, 721 W, Ø 12,2 | 40 Repliken, 585 W, Ø 11,2 |
+| **Mrs Seo** | *"hoechste Personendichte, 20,5, fuenfmal Georgij"* | **17,5, vierter Platz**, doppelt Georgij |
+| Mrs Seo | *"In neun Jahren nicht, was in dem Umschlag ist"* | steht nirgends. Ersetzt: **keine Frage in dreizehn Repliken** |
+| Mrs Seo | zwei Beispielbloecke | **sieben erfundene Kontraktionen** fuer eine Figur, die keine hat |
+| **Yeom** | *"Er lacht, was in diesem Buch fast niemand tut"* | im Buch wird **35 Mal** gelacht; **Yeom genau einmal** |
+| **Hwang** | *"dichteste Datums- und Uhrzeitzaehlung"* | **haelt** - mit Schwelle ab 90 Woertern |
+| **Mrs Gwak** | *"zweithoechster Jahreswert nach Sim"* | **hoechster**; Sim nicht unter den ersten fuenf |
+| **Mrs Jeon** | *"die einzige Nebenfigur, die sagt, dass sie gehandhabt wird"* | Sang-hoon in b2 K42: *"You are managing me."* |
+| Mrs Jeon | Zitat *"until the end"* | der Text sagt *"until the day it did"* |
+| **Mr Byun** | *"hoechste Personendichte im Buch"* | zweiter, hinter Ahn (22,5 zu 22,0) |
+| **Mr Koh** | *"Er darf: Kontraktionen"* | **keine einzige** in sieben Repliken |
+| Mr Koh | 6 Repliken | 7 |
+| **Mr Sohn** | Zitat mit which-Satz | **existiert in keiner lebenden Fassung.** Der Text hat zwei Hauptsaetze - besser, und das Blatt hat den Verstoss gelobt |
+| Mr Sohn | 7 Repliken | 8 |
+| **Hana** | *"dichteste Personenzaehlerin nach Mrs Seo"* | **siebter Platz** (13,2) |
+| **Sang-hoon** | *"benotet die Aeusserung - das tut sonst niemand"* | **Yeoms Blatt sagt zwei Seiten weiter, dass er es auch tut**. Das Dokument widersprach sich selbst |
+
+#### Und ein Fehler beim Korrigieren, der die Regel bestaetigt
+
+Beim Berichtigen von Mrs Seos Personendichte habe ich **Mr Sohn mit 27,8 an die
+Spitze gesetzt.** Das kam aus einem eigenen Hilfsskript mit lockererer
+Sprecherzuordnung; `stimmen.py` misst ihn bei 9,3. **Dasselbe bei Hwang** (18,0
+statt 16,3) und **bei Mrs Gwak** (Mr Baek als angeblicher Spitzenreiter, ein
+Zuordnungsartefakt).
+
+**Alle drei sind zurueckgenommen. Es gilt, was das Werkzeug im Repo sagt** - ein
+Skript, das im Scratchpad liegt und einmal laeuft, ist keine Messung, sondern
+eine Meinung mit Ziffern.
+
+#### Die Fehlerklasse, und sie ist bei Blaettern anders als bei Kommentaren
+
+**Dreiundzwanzig Fehler, und nur drei waren Erfindungen.** Die anderen zwanzig
+sind zwei Sorten:
+
+1. **Der Superlativ aus dem Kopf.** *Die hoechste, die einzige, der
+   langsatzigste, das tut sonst niemand.* Neun Faelle. Jeder war eine richtige
+   Beobachtung, die beim Aufschreiben eine Stufe zu weit gegangen ist.
+2. **Die Messung, die gedriftet ist.** Sieben Faelle. Niemand hat etwas falsch
+   gemacht - es sind Kapitel dazugekommen.
+
+**Daraus die Regel fuer Blaetter, und sie ist strenger als die fuer
+Erzaehlerkommentare:** ein Kommentar steht an einer Stelle im Buch, ein Blatt
+wird in hundert Kapitel geschrieben. **Ein Superlativ in einem Stimmblatt braucht
+die Rangfolge daneben, nicht nur eine Fundstelle** - sonst ist er nur noch nicht
+widerlegt. Und **jede Zahl braucht den Befehl daneben**, mit dem man sie
+nachrechnet.

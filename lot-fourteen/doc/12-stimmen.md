@@ -617,7 +617,7 @@ jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
 Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
 a name."*
 
-**Dazu gemessen, 1205 Wörter, und ein Befund, der aussieht wie ein Fehler und
+**Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
 keiner ist.**
 
 Woo hat **die dichteste Und-Kette im ganzen Buch: 3,3 je 1000 Wörter** - gegen
@@ -851,9 +851,21 @@ nicht getan hat, und kein Schluss, den er nicht selbst gelaufen ist. Kein
 
 ### Mrs Seo (neun Jahre, führt das Haus)
 
-**Gemessen: 16 zugeordnete Repliken, 195 Wörter.** Wenig, aber sie hat die
-**höchste Personendichte im ganzen Buch** - 20,5 Nennungen je 1000 Wörter,
-fünfmal so dicht wie Georgij. Ein Kopf ist für sie eine Arbeitsmenge.
+**Nachgemessen am 25.08.: 13 zugeordnete Repliken, 114 Wörter.**
+
+**Hier stand: *"die höchste Personendichte im ganzen Buch - 20,5 je 1000 Wörter,
+fünfmal so dicht wie Georgij."* Beide Hälften sind falsch.** Sie misst **17,5** und
+steht damit **an vierter Stelle**: Mr Ahn 22,5 · Mr Byun 22,0 · Mr Koh 18,0 ·
+Mrs Seo 17,5. Georgij liegt bei 9,4, also ist sie **doppelt** so dicht und nicht
+fünfmal.
+
+*(Auch diese Korrektur musste einmal korrigiert werden: der erste Anlauf setzte
+Mr Sohn mit 27,8 an die Spitze. Das kam aus einem Hilfsskript mit lockererer
+Sprecherzuordnung; `stimmen.py` misst ihn bei 9,3. **Es gilt, was das Werkzeug
+sagt, das im Repo liegt.**)*
+
+**Was bleibt und trägt:** sie zählt Köpfe deutlich dichter als die Prinzipale,
+und ein Kopf ist für sie eine Arbeitsmenge. Die Rangfolge war Schmuck.
 
 **Die Maschine.** Nicht "Dienstplan". Genauer: **Sie berichtet Abweichungen von
 der Routine, und die Routine ist ihre Maßeinheit - für Zeit, für Menschen und
@@ -883,8 +895,13 @@ und gehören **Georgij**, der damit Bae beurteilt. Sie stehen in derselben Zeile
 wie die Wörter *"said Mrs Seo"*, weil er sie zitiert. Wer ihr Blatt aus dem Text
 nachzieht, faellt darauf herein - ich bin darauf hereingefallen.
 
-**Sie fragt nicht.** In neun Jahren nicht, was in dem Umschlag ist. Das ist ihr
-Zurückhalten, und es ist keine Diskretion, sondern Arbeitsteilung.
+**Sie fragt nicht**, und das ist nachzählbar: **in dreizehn Repliken über beide
+Bände steht keine einzige Frage.** Das ist ihr Zurückhalten, und es ist keine
+Diskretion, sondern Arbeitsteilung.
+
+*(Hier stand: "In neun Jahren nicht, was in dem Umschlag ist." Der Umschlag steht
+in b1 K06 und sie trägt ihn herein - dass sie nicht gefragt hat, steht nirgends.
+Erfunden, und ersetzt durch die Zahl, die dasteht.)*
 
 **Er darf... sie darf:** Personen und Dienstjahre zählen. Die Abweichung melden
 statt der Sache. Anweisungen geben, die wie Fürsorge klingen. *ma'am* zu Annie,
@@ -912,15 +929,22 @@ Gefühl.
 **Ruhig, eine Abweichung:**
 
 > "The gate was opened twice last night and the second time nobody came in." She
-> put the tray down and did not go. "Three weeks running, this. I'll want a
-> fourth before I say it's anything."
+> put the tray down and did not go. "Three weeks running. I will want a fourth
+> before I say it is anything."
 
 **Warm, an Georgij, ohne ein warmes Wort:**
 
-> "There's a plate in the small room." She took the two glasses off the table.
-> "You were down at four the last three mornings and you'll be down at four
-> tomorrow. That's nine years of me knowing what a man does when he isn't
-> sleeping, and it isn't a comment."
+> "There is a plate in the small room." She took the two glasses off the table.
+> "You were down at four the last three mornings and you will be down at four
+> tomorrow. That is nine years of me knowing what a man does when he is not
+> sleeping, and it is not a comment."
+
+**Beide Beispiele standen bis zum 25.08. mit sieben Kontraktionen da** - *I'll*,
+*it's*, *There's*, *you'll*, *That's*, *isn't*, *isn't*. **Mrs Seo hat im
+ganzen Buch keine.** Die zwei, die im Text standen, waren aus diesem Durchgang
+und sind zurückgenommen (b2 K34 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihre
+eigene Zeile: *"It is easier to run a house for people who do not tell me
+things."*
 
 ### Mr Ahn (39, repariert Kleinmotoren)
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
@@ -944,7 +968,13 @@ Immobilien verkauft hat, rechnet in Kalendern.
 **Er kommt zuerst.** Er ruft an, statt angerufen zu werden, und er sagt gleich,
 warum er anruft. *"I thought it would be quicker to telephone you than to let you
 spend four hundred thousand won finding out that there is nothing in those
-filings."* Er lacht, was in diesem Buch fast niemand tut.
+filings."*
+
+*(Hier stand: "Er lacht, was in diesem Buch fast niemand tut." Beide Hälften
+sind falsch. Nachgezählt wird im Buch **fünfunddreißig Mal** gelacht - Hana
+fünfmal, Georgij fünfmal, Sang-hoon dreimal, Woo und Kang je zweimal, dazu der
+Saal siebenmal. **Und Mr Yeom lacht genau einmal**, in b2 K24. Gestrichen; das
+Anrufen bleibt, das ist belegt.)*
 
 **Die Maschine ist tiefer als die Abkürzung: Er läuft die nächsten zwei Züge des
 anderen, bevor der sie macht, und sagt sie laut.** Viermal belegt:
@@ -977,6 +1007,10 @@ Beide sind Berufsbeurteiler, also ist die Ähnlichkeit begründet, aber sie muss
 sichtbar getrennt bleiben: **Sang-hoon benotet und handelt dann nach der Note.
 Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
+
+**Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
+b2 K24, K25, K34, K41, K53, K54, K55; Sang-hoon in b1 K10, K16, K22, K33 und
+b2 K4, K26, K35, K36, K38, K39, K42, K43, K45, K48, K50. **Keine Überschneidung.**
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
 
@@ -1014,8 +1048,17 @@ benutzen.
 
 ### Mr Hwang (der Sanierer)
 
-**24 Repliken, 368 Wörter.** Zählt Daten 16,3 und Minuten 13,6 - die dichteste
-Datums- und Uhrzeitzählung im ganzen Buch.
+**24 Repliken, 368 Wörter.** Zählt Daten 16,3 und Minuten 13,6.
+
+**Nachgeprüft am 25.08. mit `stimmen.py`, und der Superlativ hält - mit einer
+Schwelle.** Unter allen Figuren mit mehr als 90 Wörtern eigener Rede ist er bei
+beiden der dichteste: Daten Hwang 16,3 · Yeom 10,9 · Mrs Jeon 9,1; Uhrzeiten
+Hwang 13,6 · Mr Ahn 11,2 · Mr Koh 9,0.
+
+**Ohne Schwelle stünden Kang (33,3 bei Daten, aus 30 Wörtern) und Ye-rin (41,7
+bei Uhrzeiten, aus 24 Wörtern) darüber - beides eine einzige Nennung.** Wer aus
+dieser Tabelle zitiert, nennt die Schwelle mit, sonst gewinnt immer die Figur
+mit der kürzesten Rede.
 
 **Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
 abnehmen muss: *"You are correct. I want to say that first so that we are not
@@ -1064,17 +1107,22 @@ das Gegenteil und benennt **die Transaktion, in der sie selbst steckt**:
 > *"You are somebody's. I could see that in March and I can see it now. **Whose.**"*
 > *"**I have been handled.**"*
 
-**Sie ist die einzige Nebenfigur im Buch, die laut sagt, dass sie gerade
-gehandhabt wird.** Das ist kein Verfahrensbericht, das ist eine Frau mit
-dreiundzwanzig Jahren Abrechnung, die den Vorgang erkennt, weil sie den ganzen
-Tag Vorgänge liest.
+**Sie sagt laut, dass sie gerade gehandhabt wird**, und das ist kein
+Verfahrensbericht - das ist eine Frau mit dreiundzwanzig Jahren Abrechnung, die
+den Vorgang erkennt, weil sie den ganzen Tag Vorgänge liest.
+
+*(Hier stand "die einzige Nebenfigur im Buch, die das laut sagt". Falsch:
+Park Sang-hoon sagt in b2 K42 **"You are managing me."** und bekommt darauf ein
+"Yes". Sie ist nicht die einzige - sie ist die einzige, die es über
+dreiundzwanzig Jahre hochrechnet: "Do you know how many times in twenty-three
+years I have been handled by that building.")*
 
 **Die Maschine: die ausgerichtete Botschaft.** Sie hat keinen Zugang zu den
 Prinzipalen, also spricht sie **durch** den, der vor ihr steht, hindurch -
 dreimal belegt:
 
 > *"**You may tell him from me** that I kept mine too, and that I bought the book
-> myself, and that it did not take a great deal of courage until the end."*
+> myself, and that it did not take a great deal of courage until the day it did."*
 > *"**Tell her** that I read all four pages of the terms and that the third one is
 > generous in a way that somebody thought about."*
 > *"**And tell her** that I noticed it was posted on Friday night."*
@@ -1106,8 +1154,12 @@ anybody keeps."* · *"If a delivery did not go into a hand he put down why."*
 
 **Und sie hat einen Berufsstolz, der sie die Arbeit selbst machen lässt:** *"Not
 once, and I looked, **because I do not like being wrong about a customer.** I
-sat here and went back three years."* Sie zählt Jahre mit 20,4 je 1000 Wörtern -
-der zweithöchste Wert im Buch nach Sim.
+sat here and went back three years."* Sie zählt Jahre mit 20,4 je 1000 Wörtern und ist
+damit **die dichteste Jahreszählerin des Buchs** unter allen Figuren über 90
+Wörtern; es folgen Yeom mit 13,1 und Mrs Ha mit 10,0.
+
+*(Hier stand "der zweithöchste Wert im Buch nach Sim". Das war aus dem Kopf: Sim
+taucht bei den Jahren gar nicht unter den ersten fünf auf.)*
 
 ### Mr Sohn (kocht ohne Schild)
 **Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
@@ -1115,11 +1167,19 @@ Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, w
 der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
 paid in cash by a man who left before the coffee."*
 
-**Gegengelesen, sieben Repliken, das Blatt stimmt.** Zwei Ergänzungen:
+**Gegengelesen, acht Repliken.** Zwei Ergänzungen, und eine Berichtigung:
 
 **Er beurteilt Menschen danach, wie sie essen** - und misstraut dem Lob:
-*"Slowly, and he finished the plate, and he told me it was the best thing he had
-eaten that month, **which a cook remembers whether he believes it or not.**"*
+
+> *"Slowly, and he finished the plate, and he told me it was the best thing he
+> had eaten that month. **A cook remembers that. Believing it is a separate
+> question.**"*
+
+*(Hier stand dieselbe Stelle mit einem which-Satz: "...that month, which a cook
+remembers whether he believes it or not." **Diesen Satz gibt es in keiner
+lebenden Fassung.** Der Text hat inzwischen zwei kurze Hauptsätze, und das ist
+besser - der which-Satz ist genau das, was diese Blätter den Nebenfiguren sonst
+verbieten. Das Blatt hat die alte Fassung zitiert und den Verstoß gelobt.)*
 
 **Und er stellt Gegenfragen, mit Punkt.** *"Why does that matter to you."* In
 seiner eigenen Küche fordert er, und die Regel aus `CLAUDE.md` gibt ihm dafür
@@ -1196,11 +1256,11 @@ und nie erklären konnte, und er tut es unaufgefordert.
 
 **Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
 
-**116 Repliken, 1850 Wörter, Ø 11,9 - die größte Nebenstimme des Buchs.**
+**116 Repliken, 1849 Wörter, Ø 11,6 - die größte Nebenstimme des Buchs.**
 Zählt Personen 8,6 und Jahre 8,1.
 
-**Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.** Das tut
-sonst niemand, und es ist durchgehend belegt:
+**Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.**
+Durchgehend belegt:
 
 > *"That is the most expensive sentence anybody has said to me this year."*
 > *"That is a more careful answer than the one you started with."*
@@ -1211,6 +1271,13 @@ sonst niemand, und es ist durchgehend belegt:
 
 Ein Mann, der seit einunddreißig Jahren beruflich Leute einschätzt, tut es
 **laut**. Wer ihm eine Replik schreibt, die direkt antwortet, hat ihn verloren.
+
+*(Hier stand "Das tut sonst niemand." Falsch, und dieses Dokument widerspricht
+sich damit selbst: **Mr Yeoms Blatt sagt zwei Seiten weiter, dass er ebenfalls
+benotet**, und nennt es ausdrücklich "Sang-hoons Signatur". Die Trennung steht
+dort und gilt: Sang-hoon benotet und handelt dann nach der Note, Yeom benotet und
+sagt dann, warum er gefragt hat. Sie stehen in keinem gemeinsamen Kapitel -
+nachgeprüft am 25.08.)*
 
 **Der zweite Zug: er berichtet seinen eigenen Denkvorgang, mit Uhrzeit.**
 *"I have watched you not ask for four minutes."* · *"I have never once put those
@@ -1288,8 +1355,14 @@ schreibt, schreibt gegen Kapitel 11.
 
 **Dazu gemessen, 63 zugeordnete Repliken:**
 
-**63 Repliken, 756 Wörter, Ø 9,6.** Zählt Personen 13,2 und Minuten 5,3 -
-**die dichteste Personenzählerin nach Mrs Seo**, und das ist ihr Beruf: Sie
+**63 Repliken, 756 Wörter, Ø 9,6.** Zählt Personen 13,2 und Minuten 5,3.
+
+*(Hier stand "die dichteste Personenzählerin nach Mrs Seo". Falsch: mit 13,2
+steht sie an **siebter** Stelle - Ahn 22,5 · Byun 22,0 · Koh 18,0 · Mrs Seo 17,5 ·
+Sim 14,6 · Hong 13,5 · Hana 13,2. Was trägt, ist nicht der Rang, sondern der
+Grund:)*
+
+Es ist ihr Beruf: Sie
 kennt nicht Firmen, sie kennt, wer in ihnen sitzt.
 
 **Die Maschine: sie beantwortet die Frage und hängt den Preis der Antwort an.**
@@ -1518,8 +1591,11 @@ zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 **Dazu gemessen, elf zugeordnete Repliken:**
 
 **11 Repliken, 182 Wörter, und er hatte kein Blatt.** Er zählt Personen mit
-**22,0 je 1000 Wörtern - der höchste Wert im ganzen Buch**, weil er sich in
-einer Reihe von Menschen sieht.
+**22,0 je 1000 Wörtern - der zweithöchste Wert im Buch**, knapp hinter Mr Ahn
+mit 22,5, weil er sich in einer Reihe von Menschen sieht.
+
+*(Hier stand "der höchste Wert im ganzen Buch". Um ein halbes Zehntel falsch,
+und das ist die Sorte Superlativ, die niemand nachrechnet.)*
 
 **Die Maschine: er verteidigt sich, indem er sich in eine Erbfolge stellt.**
 
@@ -1560,8 +1636,8 @@ fährt.
 
 ### Mr Koh (Ladungsbesichtiger, zwei Zimmer über einem Schiffsausrüster)
 
-**6 Repliken, und er hatte kein Blatt.** Ein Mann, der in Laderäume steigt und
-unterschreibt, wem das Geld gehört.
+**7 Repliken, 111 Wörter, und er hatte kein Blatt.** Ein Mann, der in Laderäume
+steigt und unterschreibt, wem das Geld gehört.
 
 **Die Maschine: er beziffert, was ein Satz kostet, bevor er ihn sagt.**
 
@@ -1580,8 +1656,9 @@ introduced. That is all."* Er registriert die Abweichung vom Verfahren, nicht
 die Person.
 
 **Er darf:** Aufzählungen von Verneinungen als Kostenrechnung, die Taxierung des
-Gegenübers, Kontraktionen. **Er darf nicht:** den which-Satz, Adjektive über
-Menschen, jede Selbsterklärung über sein Zögern.
+Gegenübers. **Er darf nicht:** den which-Satz, Adjektive über Menschen, jede
+Selbsterklärung über sein Zögern - **und keine Kontraktionen.** Hier stand das
+Gegenteil; nachgezählt hat er in sieben Repliken **keine einzige**.
 
 ---
 
