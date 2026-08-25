@@ -2817,7 +2817,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch49:342 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
 | 3 | b2ch51:110 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
 | 5 | b2ch52:26 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
-| 5 | b2ch52:338 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+| 5 | b2ch52:482 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 8 | b2ch53:162 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
 
 ### Zahlen in der Naehe von Bae
@@ -2836,7 +2836,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch49:342` (Tag 4) - two
 - `b2ch51:110` (Tag 3) - one, twelve
 - `b2ch52:26` (Tag 5) - ten
-- `b2ch52:338` (Tag 5) - thirty
+- `b2ch52:482` (Tag 5) - thirty
 - `b2ch53:162` (Tag 8) - forty, four, one, two
 
 ---

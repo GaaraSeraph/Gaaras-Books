@@ -34,6 +34,19 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/12-stimmen.md` gehoert allen dreien.** Neu am 25.08., nach dem Befund des
+Autors: *"Die Charaktere sind sehr austauschbar. Ausser mit Annie sind alle
+Dialoge gleich."* Nachgemessen und bestaetigt: sieben Sprecher liegen zwischen
+6,8 und 8,4 Woertern mittlerer Satzlaenge, und in 240.000 Woertern steht **kein
+einziges Ausrufezeichen**. Das Dokument haelt je Figur die rhetorische Maschine,
+das eigene Anliegen und die fuenf Haustics fest, die Georgij gehoeren.
+
+**Fuer den Stil-Chat stehen dort zwei Praezisierungen, die er braucht:** die
+Punkt-oder-Fragezeichen-Regel gilt fuer **Machttransaktionen** und nicht fuer
+Geplauder - wer die soziale Frage einer Nachbarin auf einen Punkt korrigiert,
+macht sie wieder zu Georgij. Und die Vierzig-Wort-Grenze ist fuer Georgijs
+Register gebaut; unterhalb davon liegt Faktor vier ungenutzt.
+
 **`doc/10-naehe.md` gehoert allen dreien.** Neu am 25.08. Es ist das Register
 jeder koerperlichen Szene zwischen Annie und Georgij, chronologisch, mit der
 Zeile, die tatsaechlich im Buch steht: der Boden, die Hand im Haar, der Nacken

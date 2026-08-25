@@ -2510,9 +2510,33 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.1) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.2) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
+  schlechtes Gewissen nur wegen eines Sklaven?"* und *"kennt er die Rechnung
+  tatsaechlich? Dann haette er sich das eher zusammenreimen koennen."* Drei
+  Einbauten, alle aus vorhandenem Kanon:
+  - **Sim hat in elf Jahren keine einzige Rechnung gesehen und kann keine sehen.**
+    Die Arztrechnung ging an das Auktionshaus (Kapitel 32), bezahlt wird ueber den
+    Trust und Baek (42), die Sauerstoff-Rechnungsadresse liegt in Seoul (44). Und
+    sein eigener Kanon aus Mrs Baes Mund (41): *"He pays first, in an envelope, and
+    he has never once queried a bill or asked for a receipt."* Seine
+    Professionalitaet ist die Augenbinde: *"a receipt is a piece of paper with two
+    names on it."*
+  - **Die Sieben-Jahre-Luecke.** Die Brandschutzanmeldung fuer den Sauerstoff ist
+    aus dem Juli vor vier Jahren, ein einzelnes Ereignis, nichts davor (Kapitel
+    44). Sim schickt seit **elf** Jahren Blumen. Sieben Jahre lang hatte das Haus
+    keinen Arzt und keinen Tank. Der gesamte medizinische Apparat ist exakt so alt
+    wie der Mensch ohne Namen. **Er hatte nicht versagt zu denken:** *"You did not
+    fail to work it out. You were answered before you had a question."*
+  - **Sein aktiver Zug, ohne sein Prinzip zu brechen.** Man kann einem Haushalt
+    keinen Arzt und keine Wohnung hinzufuegen, ohne mit jemandem *im Haus* zu
+    sprechen. Sim hat seit vier Jahren denselben Gegenpart dort, mit Namen, und
+    schreibt ihn auf. Das ist nicht *him*. **Das ist der Besteller, den Woo in
+    Kapitel 57 meint** (*"the one who orders knows what colour the walls are"*).
+  - Dazu Sims Register durchgehalten, wo es ernst wird. Siehe `doc/12-stimmen.md`.
+
 
 - **Band 2, Kapitel 53** *The one I did not say in May* (v1.2) - **Tag 305, Di 4. August. "I am the February one."**
 

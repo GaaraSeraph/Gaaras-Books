@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 11 Dokumente am Stueck plus das Begegnungsregister. 180.183 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 182.380 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -147,6 +147,18 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
   - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
 - [Wie geprüft wird](#wie-gepr-ft-wird)  ·  `doc/11-pruefen.md`
+- [Stimmen: wer wie spricht](#stimmen-wer-wie-spricht)  ·  `doc/12-stimmen.md`
+  - [1. Jede Figur will etwas, das mit Georgijs Sache nichts zu tun hat](#1-jede-figur-will-etwas-das-mit-georgijs-sache-nichts-zu-tun-hat)
+  - [2. Jede Figur kommt anders von A nach B](#2-jede-figur-kommt-anders-von-a-nach-b)
+  - [3. Das Register hält, wenn es ernst wird](#3-das-register-h-lt-wenn-es-ernst-wird)
+  - [Georgij](#georgij)
+  - [Annie](#annie)
+  - [Chairman Woo (78, seit 51 Jahren im Gewerbe)](#chairman-woo-78-seit-51-jahren-im-gewerbe)
+  - [Sim (dreißig Jahre Fixer)](#sim-drei-ig-jahre-fixer)
+  - [Jang (58, acht Familien, dreißig Jahre)](#jang-58-acht-familien-drei-ig-jahre)
+  - [Mrs Seo (neun Jahre, führt das Haus)](#mrs-seo-neun-jahre-f-hrt-das-haus)
+  - [Mr Ahn (39, repariert Kleinmotoren)](#mr-ahn-39-repariert-kleinmotoren)
+  - [Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)](#zivilisten-die-gie-erin-nachbarn-ladenpersonal)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -4857,9 +4869,33 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.1) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.2) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
+  schlechtes Gewissen nur wegen eines Sklaven?"* und *"kennt er die Rechnung
+  tatsaechlich? Dann haette er sich das eher zusammenreimen koennen."* Drei
+  Einbauten, alle aus vorhandenem Kanon:
+  - **Sim hat in elf Jahren keine einzige Rechnung gesehen und kann keine sehen.**
+    Die Arztrechnung ging an das Auktionshaus (Kapitel 32), bezahlt wird ueber den
+    Trust und Baek (42), die Sauerstoff-Rechnungsadresse liegt in Seoul (44). Und
+    sein eigener Kanon aus Mrs Baes Mund (41): *"He pays first, in an envelope, and
+    he has never once queried a bill or asked for a receipt."* Seine
+    Professionalitaet ist die Augenbinde: *"a receipt is a piece of paper with two
+    names on it."*
+  - **Die Sieben-Jahre-Luecke.** Die Brandschutzanmeldung fuer den Sauerstoff ist
+    aus dem Juli vor vier Jahren, ein einzelnes Ereignis, nichts davor (Kapitel
+    44). Sim schickt seit **elf** Jahren Blumen. Sieben Jahre lang hatte das Haus
+    keinen Arzt und keinen Tank. Der gesamte medizinische Apparat ist exakt so alt
+    wie der Mensch ohne Namen. **Er hatte nicht versagt zu denken:** *"You did not
+    fail to work it out. You were answered before you had a question."*
+  - **Sein aktiver Zug, ohne sein Prinzip zu brechen.** Man kann einem Haushalt
+    keinen Arzt und keine Wohnung hinzufuegen, ohne mit jemandem *im Haus* zu
+    sprechen. Sim hat seit vier Jahren denselben Gegenpart dort, mit Namen, und
+    schreibt ihn auf. Das ist nicht *him*. **Das ist der Besteller, den Woo in
+    Kapitel 57 meint** (*"the one who orders knows what colour the walls are"*).
+  - Dazu Sims Register durchgehalten, wo es ernst wird. Siehe `doc/12-stimmen.md`.
+
 
 - **Band 2, Kapitel 53** *The one I did not say in May* (v1.2) - **Tag 305, Di 4. August. "I am the February one."**
 
@@ -8932,6 +8968,19 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/12-stimmen.md` gehoert allen dreien.** Neu am 25.08., nach dem Befund des
+Autors: *"Die Charaktere sind sehr austauschbar. Ausser mit Annie sind alle
+Dialoge gleich."* Nachgemessen und bestaetigt: sieben Sprecher liegen zwischen
+6,8 und 8,4 Woertern mittlerer Satzlaenge, und in 240.000 Woertern steht **kein
+einziges Ausrufezeichen**. Das Dokument haelt je Figur die rhetorische Maschine,
+das eigene Anliegen und die fuenf Haustics fest, die Georgij gehoeren.
+
+**Fuer den Stil-Chat stehen dort zwei Praezisierungen, die er braucht:** die
+Punkt-oder-Fragezeichen-Regel gilt fuer **Machttransaktionen** und nicht fuer
+Geplauder - wer die soziale Frage einer Nachbarin auf einen Punkt korrigiert,
+macht sie wieder zu Georgij. Und die Vierzig-Wort-Grenze ist fuer Georgijs
+Register gebaut; unterhalb davon liegt Faktor vier ungenutzt.
+
 **`doc/10-naehe.md` gehoert allen dreien.** Neu am 25.08. Es ist das Register
 jeder koerperlichen Szene zwischen Annie und Georgij, chronologisch, mit der
 Zeile, die tatsaechlich im Buch steht: der Boden, die Hand im Haar, der Nacken
@@ -9761,6 +9810,245 @@ eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`
 2. Ist die Zahl gezählt oder geschätzt?
 3. Habe ich versucht, meinen eigenen Fund umzuwerfen?
 4. Wenn nichts gefunden wurde: **war der Detektor geeicht?**
+
+---
+
+# Stimmen: wer wie spricht
+
+Jede Figur hat eine eigene Maschine und ein eigenes Anliegen. Wer eine Szene mit
+einer Nebenfigur schreibt, holt sich beides **hier** und schreibt nicht einfach
+gute Sätze.
+
+---
+
+## Der Befund, gemessen am 25.08.
+
+Der Autor: *"Die Charaktere sind sehr austauschbar. Außer mit Annie sind alle
+Dialoge gleich."* Nachgemessen über alle zugeordneten Dialogzeilen beider Bände:
+
+| Sprecher | Zeilen | Ø Satz | über 25 Wörter | Kontraktionen |
+|---|---|---|---|---|
+| Georgij | 357 | 8,4 | 1 % | 0,8 % |
+| Annie | 159 | 7,0 | 1 % | 0,6 % |
+| Sang-hoon | 48 | 7,5 | 0 % | 0,3 % |
+| Hana | 29 | 7,5 | 0 % | 1,8 % |
+| Jang | 18 | 7,2 | 6 % | 0,0 % |
+| Woo | 17 | 6,8 | 0 % | 0,0 % |
+| Mrs Jeon | 13 | 7,0 | 0 % | 0,0 % |
+
+**Sieben Figuren, Spanne 1,6 Wörter.** Ein Milliardär von achtundsiebzig, eine
+Sachbearbeiterin, ein Sicherheitsmann und eine Frau mit einer Gießkanne haben
+denselben Puls.
+
+**Und null Ausrufezeichen in 240.000 Wörtern.** Das Buch hat genau ein
+emotionales Register, und es ist Georgijs, das nie laut wird.
+
+---
+
+## Der eigentliche Bruchpunkt
+
+**Das Register bricht genau dort weg, wo die Szene ernst wird.**
+
+Kapitel 52 fängt vollkommen richtig an:
+
+> *He had asked her about the walk from the station and had said the wrong tram
+> number on purpose, so that she could correct him.*
+>
+> *"The soup is the reason to come. I have ordered it for both of us and you are
+> under no obligation to touch it."*
+
+Zwanzig Zeilen später, sobald die Rechnung auf dem Tisch liegt:
+
+> *"A woman who is ill. A house in the country with staff in it. A man who does
+> not want it known that he pays for it, which is not unusual and is not always
+> shameful."*
+
+Das ist Georgij. **Jede Figur startet in ihrer eigenen Stimme und endet in
+seiner, sobald es zählt** - und das ist genau verkehrt herum. Je ernster die
+Szene, desto **mehr** Register, nicht weniger. Ein Mann, der dreißig Jahre lang
+freundlich war, wird im schlimmsten Moment seines Lebens nicht nüchtern. Er wird
+noch freundlicher, und das ist das Grauen.
+
+---
+
+## Die drei Regeln
+
+### 1. Jede Figur will etwas, das mit Georgijs Sache nichts zu tun hat
+
+Das ist der wichtigste Punkt und der, an dem alle bisherigen Nebenfiguren
+scheitern. Sie wollen nur, was die Szene will. Deshalb sind sie **Quellen und
+keine Menschen.**
+
+Mrs Kwons Sohn ist an der Hanyang-Universität und die Frau mit der Gießkanne
+hofft, dass ihrer wenigstens an die Ajou kommt. Eun-jus Bus geht um zehn nach.
+Jang sitzt seit sechzehn Tagen in einer Bucht und ist achtundfünfzig. **Die
+Information über den Fall fällt dabei nebenbei ab, und der Leser sieht Georgij
+sie einsammeln.**
+
+Probe: *Was will diese Figur in dieser Szene, das nichts mit dem Fall zu tun
+hat?* Wenn die Antwort nichts ist, ist es keine Figur.
+
+### 2. Jede Figur kommt anders von A nach B
+
+Nicht anderes Vokabular. Eine andere **rhetorische Maschine**.
+
+| Figur | Maschine | Beantwortet sie die Frage? |
+|---|---|---|
+| **Georgij** | Aussage, dann die Rechnung dahinter, dann was es kostet. Endet auf einem Preis | Ja, vollständig |
+| **Annie** | Sie erklärt nie die Sache, sie erklärt **ihn**. Beweismittel ist immer ein **Datum** | Nein, sie stellt eine bessere |
+| **Woo** | **Korrektur der Prämisse.** *"Then it is a business." - "No. Hear the whole of it."* | Nein, er berichtigt |
+| **Sim** | **Der andere.** Keine Aussagen über die Welt, sondern Angebote. Information kommt als Höflichkeit verpackt | Er beantwortet die Frage, die er dem anderen gern gestellt hätte |
+| **Jang** | **Sicherheitsstufen.** Sortiert vor der Übergabe in beobachtet / gehört / geraten und mischt nie | Ja, aber ausdrücklich sortiert |
+| **Mrs Seo** | **Dienstplan.** Rechnet alles in Haushaltsfolgen um | Nein, sie beantwortet die Frage, die gestellt werden sollte |
+| **Mr Ahn** | **Der Gegenstand in seinen Händen.** Fristen und Durchlaufzeiten für alles | Über Umwege, mit einem Bauteil |
+| **Zivilisten** | **Assoziation statt Argument.** Sie schließen nicht. Ein Ding erinnert an das nächste | Nein, sie merken nicht, dass eine gestellt wurde |
+
+**Die Opposition, die das Buch trägt:** Georgij gibt niemandem Daten über sich
+selbst - das ist seine einzige Regel, seit er neunzehn ist (Kapitel 53). Annie
+gibt ihm ausschließlich Daten über ihn selbst. *"since the eighteenth of March",
+"twelve minutes", "nine days", "on the eleventh of March".*
+
+### 3. Das Register hält, wenn es ernst wird
+
+Siehe oben. Der häufigste Fehler im ganzen Buch.
+
+---
+
+## Die fünf Haustics, und sie gehören Georgij
+
+Wer diese benutzt, **ist** Georgij. Deshalb sind alle austauschbar.
+
+1. **Keine Kontraktionen.** Das ist seine Band-2-Regel und sie ist auf alle
+   übergelaufen. Zivilisten ziehen zusammen. Handwerker ziehen zusammen.
+   Alte Damen ziehen zusammen.
+2. **Der selbstkommentierende Relativsatz.** *"...which is a thing that costs
+   nothing and buys about four seconds."* *"...which is how I met him."*
+3. **Die Und-Kette mit drei Gliedern.** *"und X, und Y, und Z."*
+4. **Die Negativ-Definition.** *"Not the number. Not who knew."*
+5. **Die Selbstdiagnose.** Figuren, die ihre eigene Psychologie laut erklären.
+
+**Wer davon was darf:** Georgij alle fünf. Annie 1, 4 und 5, aber immer über den
+Zuhörer. Sang-hoon 3 und 4. **Alle anderen keinen einzigen**, es sei denn, es
+steht ausdrücklich in ihrem Blatt.
+
+---
+
+## Drei Werkzeuge, die das Buch sich selbst verboten hat
+
+- **Ausrufezeichen.** Null in beiden Bänden. Ein Zivilist, der sich über die
+  Nachbarn aufregt, benutzt eines.
+- **Direkte Anrede, die Zustimmung einfordert.** *"You hear that?"*
+- **Soziale Fragen**, die nichts abfragen. *"Fourth floor, is it?"* - das hält
+  den anderen im Gespräch und will keine Auskunft.
+
+**Wichtig für den Stil-Chat:** Die Punkt-oder-Fragezeichen-Regel in `CLAUDE.md`
+gilt für **Machttransaktionen**. Geplauder ist keine. Wer die soziale Frage einer
+Nachbarin auf einen Punkt korrigiert, macht sie wieder zu Georgij.
+
+**Und `check.py`s Vierzig-Wort-Grenze ist für Georgijs Register gebaut.** Sie
+bleibt, aber unterhalb von vierzig liegt Faktor vier ungenutzt, und alle sitzen
+bei sieben. Georgij ist **kurz und tragend**. Ein Zivilist ist **lang und
+tragfrei**: Nebenordnung, Anschlüsse mit *und / nur / weil*, die nirgends landen.
+
+---
+
+## Der Musterfall
+
+**Vom Autor selbst geschrieben, am 25.08., als drei Anläufe von mir gescheitert
+waren.** Die Frau mit der Gießkanne aus Kapitel 46:
+
+> *"Fourth floor, is it? Nobody in it, hasn't been for years. They did not even
+> bother to send someone to keep their part of the schedule of community
+> cleaning. You hear that? Absolutely no respect for their neighbours." She had
+> the can in both hands and did not put it down. "There was a girl in there at
+> one point. That's the one with the bicycle in the hall that everybody went
+> over. Mrs Kwon on the second would know it all, only she's at her son's till
+> Thursday. Oh she never stops talking about her son when she is here! Can't stop
+> bragging about him getting into Hanyang University. Oh if only my son was that
+> diligent. I hope he will at least get into Ajou University."*
+
+**Warum das funktioniert und meine drei Versuche nicht:**
+
+1. Sie hat ein **eigenes Anliegen**: den Reinigungsdienst und ihren Sohn. Die
+   vierte Etage interessiert sie nicht.
+2. Sie **rekrutiert ihn** in ihre Beschwerde: *"You hear that?"*
+3. Sie **geht woanders hin und bleibt dort.** Mrs Kwon, der Sohn, Hanyang, ihr
+   eigener Sohn, Ajou. Am Ende der Rede redet sie über sich und hat die vierte
+   Etage vergessen.
+4. **Ausrufezeichen.** Zweimal.
+5. **Kein einziger Schluss.** Kein Syllogismus, keine Rechnung, kein Preis.
+6. **Status und Sorge**, Hanyang gegen Ajou. Das verortet sie in vier Wörtern.
+
+Was ich stattdessen geschrieben hatte: *"if she's not been in that flat since
+before my hip, she's not going to want a folder."* Das ist ein Syllogismus. Das
+ist Georgijs Maschine mit Blumentöpfen darin.
+
+---
+
+## Die Blätter
+
+### Georgij
+Kurz und tragend, acht Wörter. Keine Kontraktionen in Band 2. Nennt über sich
+selbst nie eine Zahl. Über andere präzise bis zur Grausamkeit. Endet auf dem
+Preis. Sagt nie etwas Unwahres.
+
+### Annie
+Sieben Wörter, flach, Punkt statt Fragezeichen. **Erklärt ihn und nicht die
+Sache**, und ihr Beweismittel ist ein Datum. Befehle ohne Weichmacher: *"Sit
+down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
+entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
+(siehe `doc/10-naehe.md`).
+
+### Chairman Woo (78, seit 51 Jahren im Gewerbe)
+**Korrigiert die Prämisse, statt zu antworten.** Redet in Jahreszahlen und
+Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende
+jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
+Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
+a name."*
+
+### Sim (dreißig Jahre Fixer)
+**Sein Instrument ist die Freundlichkeit**, und er legt es nie ab. *"Tips the
+room and not the person, which means everybody gets some, which means everybody
+likes him."* *"Says it is good to see people he has never met."* Bezahlt vorher,
+im Umschlag, nimmt nie eine Quittung. Fragt Fremden nach ihrem Weg. Sagt den
+falschen Tram-Anschluss absichtlich, damit der andere ihn verbessern darf.
+**Im schlimmsten Moment macht er den Gastgeber weiter.** Sein Bruch ist nicht
+Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun hat.
+
+### Jang (58, acht Familien, dreißig Jahre)
+**Sortiert vor der Übergabe: beobachtet, gehört, geraten.** Mischt die Stufen
+nie und benennt die eigene Unsicherheit ungefragt: *"That is a guess and I am
+telling you it is a guess."* Sein Anliegen ist nicht der Fall, sondern ob der,
+der die Anweisung gibt, sie wert ist. Er hat für beide Sorten gearbeitet. Er
+steht und setzt sich nicht.
+
+### Mrs Seo (neun Jahre, führt das Haus)
+**Rechnet alles in Dienstplan um.** Der Fall interessiert sie nicht, der
+Haushalt schon. Sie ist neun Jahre länger da als Georgij und hat das noch nie
+ausgespielt. Sie zählt auch - aber sie zählt Arbeit: *"Three weeks running,
+this."* Sie fragt nicht, was in dem Umschlag ist.
+
+### Mr Ahn (39, repariert Kleinmotoren)
+**Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
+Steht schon in seiner ersten Zeile: *"It will be Tuesday. Whatever it is."*
+Zieht zusammen. Beantwortet Fragen über seine Schwester, indem er ein Bauteil
+in die Hand nimmt.
+
+### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
+Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
+Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,
+die nicht im Gewerbe sind, und das muss man hören.**
+
+---
+
+## Die Probe
+
+**Name abdecken. Drei Zeilen lesen. Sprecher benennen.**
+
+Wer das nicht kann, hat Georgij geschrieben.
+
+Zweite Probe, für Nebenfiguren: **Streiche jeden Satz, der etwas über den Fall
+sagt. Bleibt eine Person übrig?**
 
 ---
 
@@ -12583,7 +12871,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch49:342 | *Mrs Bae, and I have taken her off page two and put her on the third list, and she is th.. |
 | 3 | b2ch51:110 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
 | 5 | b2ch52:26 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
-| 5 | b2ch52:338 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
+| 5 | b2ch52:482 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 8 | b2ch53:162 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
 
 ### Zahlen in der Naehe von Bae
@@ -12602,7 +12890,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch49:342` (Tag 4) - two
 - `b2ch51:110` (Tag 3) - one, twelve
 - `b2ch52:26` (Tag 5) - ten
-- `b2ch52:338` (Tag 5) - thirty
+- `b2ch52:482` (Tag 5) - thirty
 - `b2ch53:162` (Tag 8) - forty, four, one, two
 
 ---

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 57 Kapitel, 140.750 Woerter.
+Book Two, 57 Kapitel, 141.588 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -62,7 +62,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 49 | v1.1 | 2.081 |
 | 50 | v2.2 | 2.960 |
 | 51 | v1.2 | 2.148 |
-| 52 | v1.1 | 2.295 |
+| 52 | v1.2 | 3.133 |
 | 53 | v1.2 | 2.484 |
 | 54 | v1.1 | 2.487 |
 | 55 | v1.2 | 2.060 |
@@ -10813,7 +10813,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 52: Against her return
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -10903,6 +10903,16 @@ The room did what a small room at the back of a restaurant does.
 
 "Yes."
 
+"I have never seen one."
+
+"Say that again."
+
+"A bill. From that house, or to it, or about it. In eleven years." He had still not looked up from the page. "I pay in an envelope and I do not take receipts. I have not taken one in thirty years, because a receipt is a piece of paper with two names on it."
+
+One finger moved a fraction along the edge of the page and stopped.
+
+"That is the first thing you learn and it is most of the trade," said Sim. "I have spent thirty years making certain that nothing of this kind exists anywhere I could reach it. It appears that I was very good at it."
+
 He did not look up.
 
 "July, four years ago," he said. "I sent flowers on the sixth and the twenty-seventh of April that year. I have sent them twice a year since, in April and in October. In April she was told, and October was her mother's month. I was given both of those dates in a letter eleven years ago and never once a reason for either."
@@ -10911,7 +10921,15 @@ Georgij did not move.
 
 "Say what you understood the arrangement to be," he said, and it was the only sentence he permitted himself in nine minutes.
 
-"A woman who is ill. A house in the country with staff in it. A man who does not want it known that he pays for it, which is not unusual and is not always shameful." Sim still had not looked up. "In four years I have been told twice that she was worse. Both times I was told by letter, and both times I was asked to add something to the household, and both times I did it inside a week."
+"You will have to forgive me. I am going to be slower than you want." Sim moved his bowl an inch to the left so that it was not between them. "A lady who is not well. A house in the country, and good people in it. I chose the people myself and I went out twice to look at them, and nobody had asked me to do that."
+
+He said all of it the way a man recommends a dish.
+
+"And a gentleman who does not want it talked about. There is nothing shameful in that. I have done four of them and two were sad and none of them were wrong."
+
+"Go on."
+
+"Twice in four years I was told she was worse. Both times by letter. Both times the letter asked that something be added to the household, and both times it was done inside the week." He looked up. "I was glad to. I would like you to have heard me say that part."
 
 "What did you add."
 
@@ -10957,6 +10975,46 @@ There is one other man in this story who does not eat in front of the person he 
 
 Georgij did not say that out loud. He wrote it on the back of the envelope afterward, in the car, and he has not decided yet whether it was a kindness or a failure of nerve.
 
+"There is one more thing," said Georgij, "and then you have everything I have."
+
+"Go on."
+
+"That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
+
+Sim did not move for a long moment.
+
+"Eleven years of flowers," he said.
+
+"Yes."
+
+"And seven of them with nothing in that house at all." He was not asking. "No tank. No doctor. Nobody driving four hours to get there."
+
+"Nothing that anybody is required to write down."
+
+Sim put one hand flat on the table beside the page and left it there.
+
+"She was not worse."
+
+"I have not said that."
+
+"You have not said a great many things this evening and I have understood every one of them." It came out level and it did not stay level all the way to the end. "Somebody arrived. Everything that was described to me as an illness arrived in the same month as the somebody. I put two of those things there myself, and I was glad to, and I have just said so out loud in front of you."
+
+"You were not slow," said Georgij.
+
+"Do not."
+
+"I am going to, and then I will stop." He did not soften any of it. "A man who is told she is worse has an explanation for a doctor, a tank, four more staff and a flat. It covers every fact he can see. It is the only one he was ever offered."
+
+"Say the rest of it."
+
+"You did not fail to work it out. You were answered before you had a question."
+
+Sim was quiet for about four seconds.
+
+"That is the kindest thing anybody has said to me in eleven years," he said, "and you have made certain that it is also true, and I cannot get the two of them apart. I have been getting those two apart professionally since before you were born."
+
+* * *
+
 "I am not going to give you him," said Sim.
 
 "I have not asked you for him."
@@ -10967,6 +11025,22 @@ Georgij did not say that out loud. He wrote it on the back of the envelope after
 
 "They have looked identical for thirty years," said Sim. "Tonight is the first evening they have not."
 
+Then he straightened his cuff, which is a thing he does before he arranges something.
+
+"I am going to give you something else."
+
+"I have not asked for that either."
+
+"No, and you are going to let me finish, because I have spent thirty years being the man who arranges things in every room he sits in, and I would like to do it once more this evening." He was entirely courteous about it. "You cannot add a doctor to a household from a table in Seoul. You cannot add a flat either. Somebody in that house takes the telephone call and says yes. Somebody in that house lets the man in at the gate."
+
+Georgij kept both hands where they were.
+
+"I have spoken to the same person for four years," said Sim. "About the heating. About whether the second bathroom was worth doing. About a woman I have never met, in a house I have never been to."
+
+"That person is not him."
+
+"That person has never been him, and has never once pretended to be, and would not know how." Sim took a pen out of his inside pocket, which is where the envelope had been in Georgij's. "I am going to write it down now, before eleven o'clock, because at eleven o'clock I am going to be a man who has had time to think about it."
+
 He put one hand on the page and pushed it back across the table, and Georgij did not take it.
 
 "Keep it," said Georgij. "It is a copy. There is one more and it is with the man who kept it for four years without knowing why."
@@ -10975,7 +11049,7 @@ Sim looked at the page for a long moment and then folded it once, along a crease
 
 "What will you do," said Georgij.
 
-"Nothing tonight, which I expect is what you were going to say to me if I had asked you the same thing." Sim stood up, and put both hands on the back of his chair, and did not push it in. "I am going to go home and sit up. I have eleven years of letters, because I keep everything, and I am going to go through them and find out how many said something that a kind man could hold."
+"Nothing further tonight. I have already done the one thing I was going to do, and I did it before I could think better of it." Sim stood up, and put both hands on the back of his chair, and did not push it in. "Then I am going to go home and sit up. I keep everything. Eleven years of letters, and two of them said she was worse, and I am going to find out what else was in those two."
 
 "And then."
 

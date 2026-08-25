@@ -21,7 +21,10 @@ Danach:
 2. Bei einer Figurenszene: `doc/02-leads.md`.
 3. Bei einer Verhandlungsszene: `doc/04-world.md` ganz.
 4. Beim Pruefen von Daten und Motiven: `doc/05-continuity.md`.
-5. Bei jeder Szene, in der die beiden einander anfassen: `doc/10-naehe.md`.
+5. **Bei jeder Szene mit einer Nebenfigur: `doc/12-stimmen.md`.** Dort steht,
+   was diese Figur will, das mit dem Fall nichts zu tun hat, und wie sie von A
+   nach B kommt. Ohne das schreibt man Georgij mit einem anderen Namen davor.
+6. Bei jeder Szene, in der die beiden einander anfassen: `doc/10-naehe.md`.
    Jede Ruecksicht auf eine fruehere Beruehrung wird dort gegriffen und nicht
    aus dem Gedaechtnis geschrieben.
 
@@ -261,6 +264,7 @@ scheint.
 | `doc/08-decisions.md` | Was entschieden wurde und warum |
 | `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
+| `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
 | `HANDBUCH.md` | **Erzeugt.** Alle zehn am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
