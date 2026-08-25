@@ -191,9 +191,9 @@ FIGURES = {
     "Annie": [r"Annie"],
     "Mrs Seo": [r"Mrs Seo"],
     "Ji-won": [r"Ji-won"],
-    "Bae": [r"\bBae\b"],
+    "Bae": [r"(?<!Mrs )\bBae\b(?! Jun-ho)"],  # B1 K3, der Wachmann
     "Eun-ju": [r"Eun-ju"],
-    "Mr Baek": [r"Mr Baek", r"\bBaek\b"],
+    "Mr Baek": [r"Mr Baek", r"\bBaek\b(?! Jun-ho)"],  # der Koch, B1. Nicht Baek Jun-ho
     "Mr Yeo": [r"Mr Yeo", r"\bYeo\b"],
     "Tae-min": [r"Tae-min"],
     "Mr Ku": [r"Mr Ku"],
@@ -221,8 +221,18 @@ FIGURES = {
     "Mrs Uhm": [r"Mrs Uhm"],
     "Mr Byun": [r"Mr Byun", r"Byun"],
     "Mr Yeom": [r"Mr Yeom", r"Yeom"],
-    "Mrs Ryu": [r"\bRyu\b"],
+    "Mrs Ryu": [r"Mrs Ryu"],  # B1 K7. Nicht Mr Ryu aus B2 K37
     "Chef Bang": [r"\bBang\b"],
+    # Band 2, nachgetragen am 25.08. Standen bis dahin in keiner Liste.
+    "Sim": [r"\bSim\b"],
+    "Ahn Jung-hee": [r"Ahn Jung-hee", r"Jung-hee", r"Do Kyung-ae", r"Kyung-ae"],
+    "Mr Ahn": [r"Mr Ahn"],
+    "Mrs Bae": [r"Mrs Bae"],
+    "Mr Ryu": [r"Mr Ryu"],
+    "Mrs Gwak": [r"Mrs Gwak", r"\bGwak\b"],
+    "Mr Sohn": [r"Mr Sohn", r"\bSohn\b"],
+    "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho"],
+    "Mrs Jeon Mi-ja": [r"Jeon Mi-ja", r"Mi-ja"],
 }
 
 DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")

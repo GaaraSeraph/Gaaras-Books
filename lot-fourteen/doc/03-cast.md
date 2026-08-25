@@ -502,3 +502,175 @@ Jahren hat das an dem Schalter niemand getan.
 *Kanon, Kapitel 7, 8 und 11. Namenlos.*
 
 ---
+
+---
+
+## Band 2: die eigene Besetzung
+
+*Nachgetragen am 25.08. Diese Figuren standen bis dahin in keinem Dokument,
+obwohl Yeom 83, Sim 43 und Mrs Bae 29 Fundstellen hat. Wie sie sprechen, steht in
+`doc/12-stimmen.md`; hier steht, was sie sind.*
+
+**Ahn Jung-hee** - **Die vierte Zeile, und sie hat seit Kapitel 56 einen Namen.**
+Fünfunddreißig. War einunddreißig, als sie ging, im Februar vor vier Jahren.
+Neun Jahre in einem Büro, Wohnung vier Straßen den Hügel hoch von der Werkstatt
+ihres Bruders.
+
+Ihr Bruder hatte für einen Werkstattmietvertrag gebürgt und der Mann ging auf die
+Philippinen. Sie hat es an einem Sonntag erfahren und war am Donnerstag mit Namen,
+Adresse und einer fertigen Abmachung zurück. **Vier Tage, und sie hat ihn nicht
+gefragt.** Dass die Person, die hineingeht, nicht selbst unterschreiben darf, hat
+sie ihm erst im Korridor gesagt.
+
+**Und ab Kapitel 58 ist sie zugleich der Besteller.** Im Haus heißt sie **Do
+Kyung-ae**. Sie führt den Haushalt seit etwa drei einhalb Jahren, bestellt den
+Sauerstoff für die Frau, für die sie dort ist, telefoniert mit Sim über die
+Heizung und darüber, ob das zweite Bad sich lohnt, und geht nach dem Tank sehen.
+Neun Personen stehen auf dem Dienstplan, das Essen reicht für zehn.
+
+**Sie hat kein Papier.** Kein Mietvertrag, kein Anschluss, kein Fahrzeug, kein
+Arbeitsverhältnis, kein Melderegistereintrag - **dieselbe Lage, in der Georgij
+siebzehn Jahre war**, und der Grund, warum er es als Einziger erkennt.
+
+**Der Satz ihres Bruders, und er ist ihre Beschreibung:** *"She is the sort who
+fixes the thing in front of her. And the thing in front of her was me."*
+*Kanon, Band 2 Kapitel 56 und 58.*
+
+**Mr Ahn** - Neununddreißig, repariert Kleinmotoren an einer Ecke in einem Laden
+mit zwei Zimmern dahinter. Ihr Bruder, vier Jahre älter. **Er hat die Konsignation
+unterschrieben** und trägt das seit vier Jahren. *"Anybody who ever looks at it,
+for the rest of time, sees a man who walked his sister into a building."*
+
+**Georgij liest ihn beim Hereinkommen als fünfundvierzig** und irrt sich darin nie
+um mehr als ein Jahr. Die Zahl steht in Kapitel 56 als eigener Takt.
+
+**Und der Zug, den Georgij bei ihm nicht macht:** es gibt einen Satz, der ihn
+entlasten würde, und Georgij hat ihn nach zwanzig Sekunden und sagt ihn nicht.
+*"He has had four years and eleven months on his own with this. He gets to find
+it."*
+*Kanon, Band 2 Kapitel 56.*
+
+**Sim** - **Chois Hände, und sein Instrument ist die Freundlichkeit.** Dreißig
+Jahre Fixer. Bestellt die Blumen seit elf Jahren, zweimal im Jahr, April und
+Oktober. Hat vor vier Jahren den Arzt und die Wohnung hinzugefügt.
+
+**Er ist überall beliebt und das ist die Arbeit:** *"He tips the room and not the
+person, which means everybody gets some, which means everybody likes him."* Zahlt
+vorher, im Umschlag, hat in dreißig Jahren nie eine Quittung genommen. *"Says it
+is good to see people he has never met."*
+
+**Choi hat ihn aus einer Lage geholt, aus der er allein nicht herausgekommen
+wäre**, bevor er ihn brauchte, und hat es in dreißig Jahren nie erwähnt. Deshalb:
+*"I am not going to give you him."* **Diese Weigerung hält.**
+
+**Gedreht am 1. August, nicht umgedreht** (Kapitel 52). Er hat Choi nicht
+gemeldet, dass er gefunden wurde. Er hat den Menschen im Haus hergegeben, weil das
+nicht *him* ist.
+*Kanon, Band 2 Kapitel 31, 41, 47, 49, 52.*
+
+**Mr Yeom** - Dritte Etage in Jung-gu, zehn Firmen ohne Personal. Ruft Georgij
+nach dem Registerantrag von sich aus an, statt ihn vierhunderttausend Won
+ausgeben zu lassen. **Er kennt Sims Namen und gibt ihn nicht her** - aus einem
+Prinzip, das mit dieser Sache nichts zu tun hat.
+
+Vor vier Jahren hat ihn jemand um einen Gefallen gebeten und er hat Byun das
+Honorar aus der eigenen Tasche im Umschlag gegeben. *"Yeom sold and got out."*
+Er liest inzwischen vier Jahre Quartalsmappen.
+*Kanon, Band 2 Kapitel 24, 25, 34, 41, 53, 54, 55.*
+
+**Mr Hwang** - Der Sanierer. Hat das Auktionshaus seit dem Jahr, in dem sein
+Vater starb, zu einem ordentlich geführten Geschäft gemacht, und **ist nie
+hinunter auf die Fläche gegangen**. Fand es in der zweiten Dezemberwoche in den
+Abrechnungsbüchern und brauchte dafür eine Stunde. *"They paid for a service. The
+service was not performed."* Zwölf Fälle an einem Nachmittag, aus einer Tabelle.
+
+**Der Satz, der ihn beschreibt:** *"My father's house. He ran it for thirty years
+and I have run it since the year he died, and I never once went down to the
+floor. I have said that in this room as though it were modesty."*
+*Kanon, Band 2 Kapitel 21, 28, 32.*
+
+**Mr Byun** - Sechsundzwanzig Jahre im Haus. Hat Geld für eine Leistung genommen,
+die dieses Haus schon verkaufte, bevor er sich in den Stuhl setzte, **und sagt es
+ohne jede Abwehr**. *"I did what was done."* Erledigt seit Mai.
+*Kanon, Band 2 Kapitel 22.*
+
+**Mrs Jeon Mi-ja** - Einundfünfzig, dreiundzwanzig Jahre in der Abrechnung dieses
+Hauses, seit dem 12. Mai draußen. Zweite Etage hinter einer Drogerie. **Sie hat
+die Rechnung mit der Losnummer im Patientenfeld durchgelassen** und ist essen
+gegangen. Ihre eigene Formulierung ist der Maßstab für alle folgenden.
+*Kanon, Band 2 Kapitel 28, 30, 32.*
+
+**Mrs Bae** - **Nicht der Wachmann Bae aus Band 1, Kapitel 3.** Zwei verschiedene
+Menschen, gleicher Name (siehe Warnung unten). Sie führt den Empfang eines Hauses
+mit elf Tischen und zwei Nebenzimmern, seit zweiundzwanzig Jahren, und **schreibt
+das Buch selbst mit Bleistift, weil ein Kugelschreiber sich nicht sauber ändern
+lässt.** Sie gibt Georgij den Namen auf der Reservierung und ruft Sim am nächsten
+Morgen an und sagt ihm, was sie getan hat - **ohne sich zu entschuldigen**, weil
+sie es dem Mann gegenüber, dem sie es angetan hat, nicht bereuen wollte.
+*Kanon, Band 2 Kapitel 41, 49.*
+
+**Mr Ryu** - **Nicht Mrs Ryu aus Band 1, Kapitel 7.** Der Erste von Annies
+einunddreißig Namen, angesprochen am 11. Juni. Besichtigt Ladung: geht mit
+Taschenlampe und Klemmbrett in einen Laderaum und unterschreibt dann ein Papier,
+das entscheidet, wessen Geld es ist.
+
+**Er hat fünf Jahre lang mit niemandem darüber geredet**, nicht mit seiner Frau
+und nicht mit den zwei Männern, mit denen er trinkt. *"I asked because he had not
+been introduced."*
+
+**Und er ist der Erste, der von sich aus weitergeht:** er hat am 11. und am 13.
+August zwei weitere vom Tisch angerufen, ohne Auftrag, und niemandem gesagt, was
+er gesagt hat. Annie dazu: *"this stops being a campaign and starts being
+weather."*
+*Kanon, Band 2 Kapitel 37, 57, 58.*
+
+**Mr Sohn** - Kocht zwei Straßen weiter an einem kleineren Ort ganz ohne Schild,
+für Stammgäste, die keines brauchen. Erinnert sich an das Zimmer, das Datum und
+den Tisch für zwei, weil er die Bestellung selbst gemacht hat und die Flasche
+ungewöhnlich gut war für einen so kleinen Tisch. **Er hat im August ein Essen
+abgesagt, zu dem er seit neun Jahren geht, und selbst angerufen statt anrufen zu
+lassen.**
+*Kanon, Band 2 Kapitel 39 und 58.*
+
+**Mrs Gwak** - Der Blumenladen in Hyoja-dong. Führt das Durchschreibebuch weiter,
+das ihr Mann angelegt hat. *"That is my husband's writing. He copied the cards
+into the book. He said a card is the only part of it anybody keeps."* Dreißig
+Jahre Dauerbestellungen und ein Los jedes Frühjahr, **und als das Haus zumachte,
+hat niemand angerufen**: *"My son found out from a man who does the windows."*
+*Kanon, Band 2 Kapitel 31.*
+
+**Baek Jun-ho** - Solicitor in Yeouido, verwaltet den Trust seit elf Jahren.
+**Ausdrücklich nicht der Koch Baek** - der Text sagt das selbst, weil Sang-hoon es
+geprüft hat, bevor er den Namen hergibt. Vor neunzehn Jahren einmal untersucht,
+für einen ganz anderen Mandanten, und entlastet.
+
+**Er ist der weichste Punkt der ganzen Struktur**, weil er als Einziger etwas zu
+verlieren hat, das ihm gehört: eine Zulassung. Choi hat keine. **Und laut Woo ist
+er trotzdem nicht der nützliche Punkt**, weil der, der zahlt, einmal im Monat eine
+Summe sieht und nicht weiß, welche Farbe die Wände haben.
+*Kanon, Band 2 Kapitel 42, 48, 50, und Woo in 57.*
+
+**Mrs Uhm** - Macht die Ablage in Yeoms Haus seit 2004. Hat die Seite kopiert,
+ohne eine Sekunde darüber nachzudenken, weil ein Mensch, der eine Seite kopieren
+soll, die Seite kopiert. **Sie wird von niemandem behelligt werden, jemals.**
+*Kanon, Band 2 Kapitel 17 und 18.*
+
+---
+
+## Zwei Namen für zwei Menschen, und das ist ein Problem
+
+**Am 25.08. beim Nachtragen aufgefallen. Entscheidung steht aus.**
+
+- **Bae.** In Band 1, Kapitel 3 ist Bae der Wachmann am Tor, der Georgij an der
+  Küchentür stellt. In Band 2, Kapitel 41 ist **Mrs Bae** die Frau am Empfang mit
+  dem Bleistiftbuch. Verschiedene Menschen.
+- **Ryu.** In Band 1, Kapitel 7 ist **Mrs Ryu** die Frau aus dem Schiedsverfahren
+  in Singapur. In Band 2, Kapitel 37 ist **Mr Ryu** der Ladungsbesichtiger und der
+  Erste vom Tisch. Verschiedene Menschen.
+
+**Was daran real kaputt war:** `BEGEGNUNGEN.md` hat beide Paare zusammengeworfen,
+weil die Namensliste in `build.py` sie ohne Anrede gesucht hat. Am 25.08.
+getrennt.
+
+**Offen bleibt die literarische Frage**, ob zwei Baes und zwei Ryus im selben Buch
+bleiben dürfen. Mr Ryu ist die jüngere Figur und am billigsten umzubenennen.

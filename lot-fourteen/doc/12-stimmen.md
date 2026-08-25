@@ -231,6 +231,63 @@ she's thirty-five now"*). Das war bis zum 25.08. ein Widerspruch und ist jetzt
 der Befund: Georgij irrt sich bei so etwas nie um mehr als ein Jahr, und die
 Zahl steht als eigener Takt da.
 
+### Mr Yeom (dritte Etage, Jung-gu)
+**Er kommt zuerst.** Er ruft an, statt angerufen zu werden, und er sagt gleich,
+warum er anruft. Seine Maschine ist **die Abkürzung**: er nimmt dem anderen den
+Umweg ab und sagt dabei, dass er es tut. *"I thought it would be quicker to
+telephone you than to let you spend four hundred thousand won finding out that
+there is nothing in those filings."* Er lacht, was in diesem Buch fast niemand
+tut. Und er hat ein Prinzip, das mit der Sache nichts zu tun hat und trotzdem
+alles blockiert.
+
+### Mrs Bae (zweiundzwanzig Jahre am Empfang)
+**Der Gegenstand ist das Buch.** Sie antwortet aus dem Buch, ohne umzublättern,
+weil sie es nicht muss. Bleistift, nicht Kugelschreiber, und sie sagt warum.
+Sie beschreibt Menschen über ihr Zahlverhalten und ihr Trinkgeld, weil das ist,
+was ein Empfang von einem Menschen sieht. **Und sie entschuldigt sich nicht.**
+
+### Mr Hwang (der Sanierer)
+**Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
+abnehmen muss. *"You are correct. I want to say that first so that we are not
+doing the part where you prove it to me."* Seine Maschine ist die **Vorwegnahme**:
+er kennt die nächste Frage und beantwortet sie, bevor sie kommt. Zahlen und
+Stunden statt Adjektiven.
+
+### Mrs Jeon Mi-ja (dreiundzwanzig Jahre Abrechnung)
+**Der Vorgang, nie die Person.** Sie sagt, was durchgelassen wurde und was sie
+danach getan hat, in der Reihenfolge der Bearbeitung. Ihr Satz ist der Maßstab
+für alle Mitwisser im Buch. Keine Rechtfertigung, keine Bitte.
+
+### Mrs Gwak (Blumenladen, Hyoja-dong)
+**Zivilistin, aber nicht wie die Gießerin.** Sie redet über ihren Mann und seine
+Handschrift, weil das Buch seins ist. Ihr Anliegen: dass niemand angerufen hat,
+als das Haus zumachte. *"My son found out from a man who does the windows."*
+
+### Mr Sohn (kocht ohne Schild)
+**Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
+Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, was
+der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
+paid in cash by a man who left before the coffee."*
+
+### Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage
+
+**Sie hat im ganzen Buch noch nie gesprochen.** Sie wird in Kapitel 63 oder
+danach zum ersten Mal reden, und wenn sie dabei wie alle anderen klingt, ist der
+ganze Band umsonst.
+
+**Was aus dem Text schon feststeht:** neun Jahre Büro. Sie hat eine Sache in vier
+Tagen gelöst, ohne jemanden zu fragen. Sie führt seit drei einhalb Jahren einen
+Haushalt, den sie nicht bestellt hat, und sie hat die Bestellungen übernommen,
+weil es sonst niemand tat. Sie hat ihrem Bruder das Schlimmste erst im Korridor
+gesagt.
+
+**Vorschlag, aber nicht entschieden:** ihre Maschine ist **die erledigte Sache**.
+Sie spricht in abgeschlossenen Vorgängen und nie in Absichten - was gemacht ist,
+wann es gemacht wurde, was als Nächstes fällig ist. Ein Mensch, der vier Jahre
+in einem Haus lebt, in dem er nichts entscheiden darf, entscheidet über alles,
+worüber er darf, und redet nur darüber. **Sie fragt nichts, weil Fragen in
+diesem Haus nichts einbringt.**
+
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
 Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,
