@@ -110,9 +110,12 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
+| 7 | B2 59 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 
-**Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste. Wer
-eine neue schreibt, zählt hier weiter und schreibt keine Zahl aus dem Kopf.
+**Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste,
+59 das siebte. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
+aus dem Kopf. **Ab 59 zählt Georgij selbst nicht mehr mit**, und das ist eine
+Figurenentwicklung und keine Erlaubnis, die Kette zu vergessen.
 
 ---
 

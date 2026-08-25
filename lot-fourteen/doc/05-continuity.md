@@ -2605,6 +2605,56 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
   vier Jahre aelter) gehoeren in das Geburtstagsregister.
 
+- **Band 2, Kapitel 58** *The tenth plate* (v1.0) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  **Neuer Kanon:**
+  - Sim schrieb am 1. August **Do Kyung-ae** auf. Georgij hat den Namen drei Tage
+    lang durchgesucht (kein Mietvertrag, kein Anschluss, kein Fahrzeug, kein
+    Bankprodukt, kein Arbeitsverhaeltnis, kein Melderegistereintrag) und am
+    4. August geschlossen, es sei ein Arbeitsname. **Das war falsch.**
+  - **Die Rechnung steht seit Kapitel 48 (20. Juli) im Text:** neun Personen auf
+    dem Dienstplan, elfmal gezaehlt, und eine Dauerbestellung beim Kaufmann, die
+    **zehn** ernaehrt und im Sommer vor vier Jahren um eins gestiegen und nie
+    wieder gefallen ist. **Neun gehen nach Hause. Der zehnte nicht.**
+  - Dazu Sims Satz: er redet mit dieser Person ueber die Heizung und darueber, ob
+    das zweite Bad sich lohnt. **Wer auf einem Dienstplan steht, entscheidet nicht
+    ueber Kapitalmassnahmen.**
+  - **Do Kyung-ae ist Ahn Jung-hee.** Sie fuehrt den Haushalt seit etwa drei
+    einhalb Jahren, bestellt den Sauerstoff fuer die Frau, fuer die sie dort ist,
+    und sieht nach dem Tank. Der fehlende Papierbestand ist kein Beweis fuer einen
+    falschen Namen, sondern dafuer, dass die Person nie aufgeschrieben wurde -
+    **dieselbe Lage, in der Georgij siebzehn Jahre war.**
+  - **Und der Knoten:** er hat als Einziger eine Leitung in dieses Haus, und er
+    kann nicht daran ziehen. Wer hineingreift, macht sie teuer statt nuetzlich.
+  - Dazu Annies Seite: **Ryu hat Mr Sohn am 11. und Mr Baek Hyun-woo am 13.
+    angerufen**, unbeauftragt. Sohn hat ein Essen abgesagt, zu dem er seit neun
+    Jahren geht, und hat selbst angerufen statt jemanden anrufen zu lassen.
+    Annie: *"this stops being a campaign and starts being weather."*
+  - Mrs Seo und Annie sprechen hier zum ersten Mal nach `doc/12-stimmen.md`.
+
+- **Band 2, Kapitel 59** *Buy her* (v1.0) - **Tag 319, Di 18. August, derselbe Tag. Die fuenfte Bitte.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Die Zaehlung:** vier Bitten in acht Monaten (Papier, ein Raum ohne andere,
+    die Frau in Ulsan, der Name auf der Bruecke). **Dies ist die fuenfte und die
+    erste, die nicht ihn betrifft.**
+  - Er muss die Mechanik selbst aussprechen und braucht sechs Sekunden dafuer:
+    **"Buy her."** Und er benennt die Symmetrie, ohne einen Vorwurf daraus zu
+    machen: *"asking you to do to a woman in Gangwon-do the thing you did to me
+    in a cellar in Gangnam."*
+  - **Annies Ja stand vor der Frage fest**, und sie laesst ihn trotzdem den
+    ganzen Preis anhoeren. Bedingung von ihm: das Instrument endet an dem Tag, an
+    dem **sie** es sagt, und das erfaehrt sie in der ersten Stunde von jemandem,
+    der weder Annie noch Georgij ist.
+  - **Vier Fragen von Annie**, und die vierte ist die offene Wunde des Bandes:
+    *"What happens to the woman on the oxygen."* Antwort: *"I do not know … She
+    is not the reason for the order of operations. She is the cost of them."*
+    **Faellig am Freitag, 21. August (Kapitel 60).**
+  - Die Hand im Haar ist die **siebte** (siehe `doc/10-naehe.md`, Register B), und
+    er hat aufgehoert mitzuzaehlen, was im Text steht.
+
+
 ---
 
 ## Der Juli ist betreten
