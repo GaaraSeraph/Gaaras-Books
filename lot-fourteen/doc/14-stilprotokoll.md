@@ -1597,3 +1597,15 @@ haengenbleiben. Gegengeprueft mit einer Probedatei: meldet Geviert- und
 Halbgeviertstrich, ignoriert den Bindestrich.
 
 *Unsicher:* keiner.
+
+**Ein eigener Fehler beim Push, und er gehoert hierher.** Beim Rebase kollidierte
+`doc/10-naehe.md` - kein generiertes File, sondern ein Dokument der anderen
+Sitzung. Mein `git add -A` hat den Konflikt **mitsamt den Markern** eingecheckt.
+Sofort bemerkt und behoben: Inhalt der anderen Sitzung uebernommen, mein
+Strichtausch darauf angewandt (`bb8dc90`).
+
+**Die Lehre:** die Regel *"generierte Dateien nie von Hand aufloesen, `build.py`
+laufen lassen"* verleitet dazu, im Rebase pauschal `git add -A` zu tippen. Das
+ist nur fuer `erzeugt/` und `read/` richtig. **Bei jedem anderen Konflikt erst
+`git status --short | grep '^UU'` lesen** - und wenn eine Datei dabei ist, die
+niemand erzeugt, von Hand entscheiden, wessen Inhalt gilt.
