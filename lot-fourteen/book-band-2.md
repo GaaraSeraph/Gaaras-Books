@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 167.534 Woerter.
+Book Two, 68 Kapitel, 167.844 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,25 +15,25 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v1.3 | 2.058 |
 | 03 | v1.2 | 2.017 |
 | 04 | v1.6 | 2.718 |
-| 05 | v1.7 | 2.835 |
+| 05 | v1.8 | 2.853 |
 | 06 | v1.2 | 2.421 |
 | 07 | v1.4 | 2.319 |
 | 08 | v1.7 | 3.175 |
-| 09 | v2.3 | 2.484 |
+| 09 | v2.4 | 2.549 |
 | 10 | v2.2 | 2.218 |
 | 11 | v2.4 | 2.525 |
-| 12 | v1.5 | 2.888 |
+| 12 | v1.6 | 2.941 |
 | 13 | v1.4 | 2.184 |
 | 14 | v1.4 | 2.416 |
 | 15 | v1.2 | 2.018 |
 | 16 | v1.3 | 2.048 |
 | 17 | v1.2 | 1.995 |
-| 18 | v1.2 | 2.023 |
+| 18 | v1.3 | 2.061 |
 | 19 | v1.3 | 2.151 |
-| 20 | v1.5 | 2.126 |
+| 20 | v1.6 | 2.168 |
 | 21 | v1.5 | 2.568 |
-| 22 | v1.4 | 2.001 |
-| 23 | v1.4 | 1.998 |
+| 22 | v1.5 | 2.047 |
+| 23 | v1.5 | 2.046 |
 | 24 | v1.3 | 2.050 |
 | 25 | v1.2 | 2.128 |
 | 26 | v1.3 | 2.029 |
@@ -867,7 +867,7 @@ The trouble with a man who has never said anything untrue is that he has also ne
 ---
 
 # Book Two · Chapter 5: The east side
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -1038,6 +1038,8 @@ She looked at him for slightly too long, the way Sang-hoon had, and unlike Sang-
 "That is a filthy thing to have to put in a report."
 
 "It is the only true thing I have that is worth anything to you. I would rather it were the records work. It is not."
+
+It was the only asset he had ever had, and it was not anything he had done.
 
 Annie stood up off the arm of the chair.
 
@@ -1803,7 +1805,7 @@ He got home at twenty past eleven and stood in the doorway of the small room. He
 ---
 
 # Book Two · Chapter 9: What you paid for
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -1854,6 +1856,8 @@ Annie went round the desk and sat down, which she does perhaps twice a month.
 "No, Mistress."
 
 "You are permitted to be pleased. Do not look it."
+
+She had corrected herself out loud in front of him, and she does not do that.
 
 "There is a fourth thing," said Georgij, "and it is a question, and I have been not asking it since the second of March."
 
@@ -1914,6 +1918,8 @@ Annie did not move at all for a while.
 Annie stood up and went to the window and did not draw the curtain.
 
 "I have been robbed exactly once in my life before tonight," she said, "and I was twenty-two, and it was six hundred thousand won out of a coat."
+
+It was the only thing she said all evening about how it felt, and she had put it in a figure and a coat.
 
 "There is a part of this that is not analysis," said Georgij, "and I am going to say it before we go on, because if I leave it until the end it will look like decoration."
 
@@ -1986,6 +1992,8 @@ Annie sat down again.
 "You are going to be able to do something about a clerk."
 
 "I am going to be able to do something about a clerk. I am not going to be able to do anything about the man."
+
+He had counted the people it would cost before he counted what it would win, and he had counted them out loud.
 
 "You have not put the woman in Ulsan on that list," said Annie.
 
@@ -2448,7 +2456,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -2523,6 +2531,8 @@ Annie sat back very slowly.
 "I am the weapon in every sentence. I have never minded that." He looked up. "I mind it when the hand is not yours."
 
 Nobody said anything for a while after that.
+
+It was the nearest thing to a complaint he had ever made in that room, and it was not about being a weapon.
 
 Annie stood up and went round the desk and stood in front of him, which she does not do, and looked at him for a long time in a way that had nothing sentimental in it at all.
 
@@ -2601,6 +2611,8 @@ There was a pause of about two seconds.
 "Say it as a sentence."
 
 "When it is finished I will tell you whether I enjoyed it, and it will be the true answer and not the one that is easier to say in this room."
+
+She had asked for the one report he could not prepare, and he had agreed to bring it before either of them knew what would be in it.
 
 "Then go," said Annie.
 
@@ -3674,7 +3686,7 @@ She has been declining to give him that face since December, and she has had a r
 ---
 
 # Book Two · Chapter 18: The face on it
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Six · Monday 27 April
 
@@ -3693,6 +3705,8 @@ And then the ninth.
 "At the end of the lunch he stood up and shook Mr Ok's hand and said that he was glad they had finally met."
 
 "They had never met before," said Georgij.
+
+Eight of the nine lines described a man. The ninth described what he does.
 
 Annie was standing at the window when he began and she was still standing at it when he finished, and nothing whatever happened to her face.
 
@@ -3797,6 +3811,8 @@ Georgij looked up.
 "It means that Mr Ok was being worked on at a lunch in January and did not know it."
 
 "It means rather more than that." Annie picked up the notebook and turned it round and read the ninth line again. "It means that every man in this city who has ever sat down to a meal with him and watched him eat is a man he was not working on. And I can think of five of those and you have met two of them."
+
+She had given him a test he could run on his own memory, and no way at all to check the answer.
 
 Georgij stood absolutely still.
 
@@ -4058,7 +4074,7 @@ He thought about that on the platform for twenty minutes and on the train for fo
 ---
 
 # Book Two · Chapter 20: Cheaper than deciding
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Nine · Thursday 30 April
 
@@ -4105,6 +4121,8 @@ Annie did not say anything about any of it, which he had expected, because she d
 He did not answer straight away, and she let him not answer.
 
 "Yes," he said. "Once. For about a second and a half, at a gate, at four o'clock this afternoon."
+
+He had promised her that answer on the third of April, and he had brought back the version that cost him something.
 
 "Say what it was."
 
@@ -4175,6 +4193,8 @@ He looked at the desk for a moment.
 "Say it."
 
 "I have not been afraid of very much since October," said Georgij. "I have been afraid of four things and I could name all four. As of this afternoon there are five, and the fifth one is that I am going to be all right about it."
+
+He had counted his fears the way he counts everything else, and the new one was about himself.
 
 Annie did not answer that for a moment.
 
@@ -4462,7 +4482,7 @@ He wrote the time in the second column of the visitors' book on the way out, bec
 ---
 
 # Book Two · Chapter 22: I did not offer you anything
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Fifteen · Wednesday 6 May
 
@@ -4600,6 +4620,8 @@ Georgij stood very still.
 
 The flat was very quiet.
 
+It is the one part of that minute Mr Byun never understood, and it is the part Georgij came away with.
+
 "You wrote something down," said Georgij.
 
 "How do you know that?"
@@ -4623,6 +4645,8 @@ Mr Byun stood in the middle of his sitting room.
 "Then you are a very cruel young man."
 
 "No," said Georgij. "I have been in three rooms in the last three weeks and in two of them that would have been true. In this one it is not, and you have not got the first idea why, and I am not going to explain it to you."
+
+The difference is whether the man doing it wants to, and it makes no difference whatever to the man it is done to.
 
 He got as far as the door.
 
@@ -4655,7 +4679,7 @@ He went down eight floors and out onto a street by the river, and read the four 
 ---
 
 # Book Two · Chapter 23: Three of the four
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Twenty-Two · Wednesday 13 May
 
@@ -4712,6 +4736,8 @@ She rang the bell and asked for the diary.
 "You do not want to know how."
 
 "No. I want you to be able to say afterwards that you did not tell me."
+
+He had given her the address and the daughter-in-law's family without being asked for either, and then arranged not to know what she did with them.
 
 Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971.
 
@@ -4830,6 +4856,8 @@ He sat with that for a while.
 "There is one more thing you should have before you decide," said Annie. "It is not going to help and I am going to give it to you anyway. It is the second piece I have taken off that shelf since December, and I would like you to notice that I am counting."
 
 "I have noticed."
+
+She was naming the price before she paid it, which is the rule she had put on him in March.
 
 "The man you are looking for does not own anything at that address either," she said. "Not one share of one company on that floor. He is not on any of it and he never has been."
 
