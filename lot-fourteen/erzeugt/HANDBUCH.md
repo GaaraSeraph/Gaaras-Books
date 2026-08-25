@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 198.560 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 207.467 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -158,6 +158,15 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [1. Jede Figur will etwas, das mit Georgijs Sache nichts zu tun hat](#1-jede-figur-will-etwas-das-mit-georgijs-sache-nichts-zu-tun-hat)
   - [2. Jede Figur kommt anders von A nach B](#2-jede-figur-kommt-anders-von-a-nach-b)
   - [3. Das Register hält, wenn es ernst wird](#3-das-register-h-lt-wenn-es-ernst-wird)
+  - [1. Jede Figur zählt etwas anderes, auch wenn es nicht gebraucht wird](#1-jede-figur-z-hlt-etwas-anderes-auch-wenn-es-nicht-gebraucht-wird)
+  - [2. Was sie zurückhält, sagt mehr als was sie sagt](#2-was-sie-zur-ckh-lt-sagt-mehr-als-was-sie-sagt)
+  - [3. Wärme ist ein Bruch der eigenen Maschine, markiert und nie benannt](#3-w-rme-ist-ein-bruch-der-eigenen-maschine-markiert-und-nie-benannt)
+  - [4. Unter Druck verstärkt sich das eigene Register, nie Georgijs](#4-unter-druck-verst-rkt-sich-das-eigene-register-nie-georgijs)
+  - [5. Jede Figur hat eine Körpergewohnheit, und sie ersetzt das Gefühlswort](#5-jede-figur-hat-eine-k-rpergewohnheit-und-sie-ersetzt-das-gef-hlswort)
+  - [1. Angestellte untereinander reden anders als mit Annie](#1-angestellte-untereinander-reden-anders-als-mit-annie)
+  - [2. Chaebols reden miteinander, als wären sie gleich](#2-chaebols-reden-miteinander-als-w-ren-sie-gleich)
+  - [3. Hochrangige reden mit ihm wie mit ihresgleichen, und das ist bezahlt](#3-hochrangige-reden-mit-ihm-wie-mit-ihresgleichen-und-das-ist-bezahlt)
+  - [4. Die Beats tragen den Rang, nicht nur der Dialog](#4-die-beats-tragen-den-rang-nicht-nur-der-dialog)
   - [Georgij](#georgij)
   - [Annie](#annie)
   - [Chairman Woo (78, seit 51 Jahren im Gewerbe)](#chairman-woo-78-seit-51-jahren-im-gewerbe)
@@ -168,7 +177,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Yeom (dritte Etage, Jung-gu)](#mr-yeom-dritte-etage-jung-gu)
   - [Mrs Bae (zweiundzwanzig Jahre am Empfang)](#mrs-bae-zweiundzwanzig-jahre-am-empfang)
   - [Mr Hwang (der Sanierer)](#mr-hwang-der-sanierer)
-  - [Mrs Jeon Mi-ja (dreiundzwanzig Jahre Abrechnung)](#mrs-jeon-mi-ja-dreiundzwanzig-jahre-abrechnung)
+  - [Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)](#mrs-jeon-mi-ja-51-dreiundzwanzig-jahre-abrechnung)
   - [Mrs Gwak (Blumenladen, Hyoja-dong)](#mrs-gwak-blumenladen-hyoja-dong)
   - [Mr Sohn (kocht ohne Schild)](#mr-sohn-kocht-ohne-schild)
   - [Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage](#ahn-jung-hee-noch-keine-stimme-und-das-ist-die-wichtigste-offene-frage)
@@ -183,6 +192,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Byun (11 Repliken)](#mr-byun-11-repliken)
   - [Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)](#kang-ji-hoon-kim-do-yun-12-und-8-repliken)
   - [Shin (4 Repliken)](#shin-4-repliken)
+  - [Mr Koh (Ladungsbesichtiger, zwei Zimmer über einem Schiffsausrüster)](#mr-koh-ladungsbesichtiger-zwei-zimmer-ber-einem-schiffsausr-ster)
   - [Die kleinen Rollen](#die-kleinen-rollen)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -196,8 +206,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Sim](#sim)
   - [Mrs Jeon](#mrs-jeon)
   - [Mr Yeo](#mr-yeo)
-  - [Mr Yeom](#mr-yeom)
   - [Mrs Sunwoo](#mrs-sunwoo)
+  - [Mr Yeom](#mr-yeom)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Hong](#mr-hong)
   - [Mr Ahn](#mr-ahn)
@@ -207,8 +217,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Kwon](#mr-kwon)
   - [Mrs Bae](#mrs-bae)
   - [Nam Byung-hee](#nam-byung-hee)
-  - [Mr Baek](#mr-baek)
   - [Choi Dae-ho](#choi-dae-ho)
+  - [Mr Baek](#mr-baek)
   - [Mr Koh](#mr-koh)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
@@ -222,8 +232,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Eun-ju](#eun-ju)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
+  - [Mrs Ha](#mrs-ha)
   - [Mrs Jeon Mi-ja](#mrs-jeon-mi-ja)
   - [Minister Min-ho](#minister-min-ho)
+  - [Moon Hae-sook](#moon-hae-sook)
   - [Mrs Ahn](#mrs-ahn)
   - [Mrs Uhm](#mrs-uhm)
   - [Tae-min](#tae-min)
@@ -3378,7 +3390,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.8) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
-- **Kapitel 6** *Withdrawn or sold* (v1.8) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
+- **Kapitel 6** *Withdrawn or sold* (v1.9) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.12) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.10) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
@@ -4045,7 +4057,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
 
-- **Band 2, Kapitel 22** *I did not offer you anything* (v1.3) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
+- **Band 2, Kapitel 22** *I did not offer you anything* (v1.4) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
 
   **Mr Byun**, achtundsechzig, hat das Register des Hauses **sechsundzwanzig Jahre** gefuehrt und ist im November gegangen, weil er nicht fuer Leute arbeiten wollte, die ihn fragen, was er den ganzen Tag macht. **Erster Auftritt und einziger.**
 
@@ -4469,7 +4481,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
 
-- **Band 2, Kapitel 34** *The best company in the room* (v1.2) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
+- **Band 2, Kapitel 34** *The best company in the room* (v1.3) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
   **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
@@ -4520,7 +4532,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *The one who asked a question* (v2.1) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *The one who asked a question* (v2.2) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -4544,7 +4556,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *The man kitchens talk to* (v2.1) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *The man kitchens talk to* (v2.2) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -4554,7 +4566,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.2) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.3) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -4705,13 +4717,11 @@ Motive leben von Variation, nicht von Wiederholung. Zu jedem steht hier, wo es
 herkommt, wie oft es schon gefallen ist und was beim naechsten Mal anders sein
 muss.
 
-## Wiederkehrende Bilder
-
 - **Die Fernbedienung, die abgelegt wird.** Annie nimmt sie in der ersten Nacht aus der Handtasche und legt sie **innen** neben die Schlüsselschale auf den Steinvorsprung an der Haustür, auf Hüfthöhe, ohne Kommentar. Nicht draußen: sie behält sie, sie benutzt sie nur nie. In siebzehn Jahren hat Georgij so ein Ding nie außerhalb einer Hand gesehen. Später verschwindet sie vom Vorsprung und liegt in ihrem Schreibtisch. Das Bild kehrt auf der Mapo-Brücke wieder.
 - **Elf Zentimeter.** Der Abstand von seiner linken Hand zur offenen Handtasche während der Fahrt. Zwölf vor der letzten Kurve. Er zählt immer.
 - **Die Handtasche.** Bleibt auf der Fahrt offen zwischen ihnen liegen. Inhalt, den er sehen kann: Telefon, Kartenetui, flache Lederrolle mit Druckknopf, Maniküre oder Nähzeug, beides brauchbar. Annie lässt sie beim Aussteigen auf dem Sitz, weil jemand dafür bezahlt wird, sie zu tragen. Georgij nimmt sie mit, benutzt die Schere, wischt sie ab, legt sie zurück und reicht ihm die Tasche mit "Your bag, Mistress".
 - **Marmor.** Sein Gesicht unter Strom.
-- **Los elf.** Der Junge kommt nächsten Monat zurück in den Katalog, zu niedrigerer Taxe.
+- **Los elf.** Stand Band 1, Kapitel 2: der Junge kommt naechsten Monat zurueck in den Katalog, zu niedrigerer Taxe. **Ueberholt, nachgetragen am 25.08.:** Im Novemberkatalog steht er nicht (Kapitel 6), und in Band 2, Kapitel 1 findet Georgij **elf und vierzehn vier Zeilen auseinander** unter *retained and not disclosed*. Annie hat zweimal bezahlt. Offen ausgesprochen in Band 2, Kapitel 29: *"a woman who bought two people on the fourth of October"*. Der Faden laeuft bis Kapitel 53.
 
 ### Die Lächeln
 
@@ -5178,7 +5188,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   aufgefallen, nachdem er geschrieben war.
 
 
-- **Band 2, Kapitel 46** *The post still comes* (v1.1) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
+- **Band 2, Kapitel 46** *The post still comes* (v1.2) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
   **v1.1 am 25.08.: die Frau mit den Pflanzen nach `doc/12-stimmen.md`.** Sie ist
@@ -5198,7 +5208,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 49** *What he asked her* (v1.1) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
+- **Band 2, Kapitel 49** *What he asked her* (v1.2) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -5252,7 +5262,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.2) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.3) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -5532,6 +5542,51 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     **Er muss in Kapitel 66 oder 67 fallen.**
 
 
+- **Band 2, Kapitel 66** *What silence costs* (v1.0) - **Tag 334, Mi 2. September. Der zweite Name faellt, und er entscheidet, sichtbar zu werden.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **NEUER KANON, Name: die Frau am Sauerstoff heisst Moon Hae-sook.** Vaters
+    Firma machte Schiffsbeschlaege und wurde in den Neunzigern verkauft. **Die
+    Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, und Sim
+    weiss es bis heute nicht.
+  - **Woraus folgt, und es steht im Text:** wer Sim vor elf Jahren beide Daten in
+    einem Brief gab, kannte den Monat ihrer Mutter. Den kannte niemand ausserhalb
+    der Familie. **Er war in diesem Haus.**
+  - **Die Hochzeit:** zweite Aprilwoche, elf Tische, Einladungen erste
+    Februarwoche, **zurueckgezogen in der zweiten Maerzwoche per Karte**, elf
+    Woerter, ohne Grund und ohne Entschuldigung: *"We are grateful for your
+    kindness and ask for your understanding."* Georgijs Befund: das ist kein
+    Familiensatz, das ist die Formulierung eines Mannes. Kuerzestmoeglich und
+    unbeantwortbar.
+  - **Die vier, die geschwiegen haben** (aus Mrs Sunwoos neun Jahre alten Seiten):
+    einer tot, einer seit dem Folgejahr in Vancouver, eine hat noch alles und zwei
+    Dinge mehr - **und Mrs Ha**, die dreissig Jahre Blumen und Waesche in Saele
+    geliefert hat, diese Hochzeit gemacht hat und ihr Geschaeft **vor vier Jahren
+    verloren** hat.
+  - **Georgijs Regel dazu:** was vier Menschen gleichzeitig zum Schweigen bringt
+    und elf Jahre haelt, ist ein Druckmittel, und ein Druckmittel ist etwas, das
+    ein Mensch **hat**. Wer nichts mehr hat, ist nicht mehr gebunden. Und niemand
+    ist in vier Jahren nachsehen gegangen.
+  - **DIE ENTSCHEIDUNG, und sie kippt den Band:** er geht am **Freitag, 4.
+    September, gegen elf Uhr, nach Mapo** zu Mrs Im, und er weiss vorher, dass sie
+    telefonieren wird. *"That is not a risk I am accepting. It is the outcome I am
+    choosing."* Alle drei Tueren fuehren dazu, dass Choi es erfaehrt - ueber das
+    Geld (dann verlegt er sie), ueber ein Dokument (dann weiss er nicht, wer es
+    hat), oder ueber einen Mann mit einer Frage (dann weiss er alles und kann am
+    wenigsten). **Ein vorsichtiger Mann verschwindet korrekt. Ein sicherer Mann
+    hoert auf herauszufinden und faengt an zu entscheiden.**
+  - Annie stoppt ihn nicht und laesst den Grund zu Protokoll geben, in zwei
+    Teilen, und der zweite ist, dass sie den Fehler gesucht und nicht gefunden
+    hat. **Ihre einzige Bedingung: Jang sitzt im Wagen.** *"He has been in a
+    lay-by since June. He can have a street."*
+  - Sie hiess beim Schreiben zuerst **Mrs Im** und wurde noch am selben Tag zu
+    **Mrs Ha**, weil es im Haushalt bereits einen **Mr Im** gibt (`doc/03-cast.md`,
+    Band 1, Wartungsrota).
+  - **Faellig: Mrs Ha, Mrs Sunwoos vier und Moon Hae-sook gehoeren in
+    `doc/03-cast.md`, und Mrs Ha braucht ein Blatt in `doc/12-stimmen.md`, bevor
+    Kapitel 67 sie sprechen laesst.**
+
+
 ---
 
 ## Der Juli ist betreten
@@ -5558,27 +5613,50 @@ alten Zahl im Text.
 achtundsiebzig und in Band 2 zweimal fuenfundsiebzig, und niemand hat es gemerkt,
 weil es keine Stelle gab, an der man nachsieht. Diese Tabelle ist diese Stelle.
 
-**Wie die Geburtstage liegen, und warum.** Das Buch erzaehlt vom 4. Oktober
-(Tag 1) bis zum 30. Juni (Tag 270). **Alle Geburtstage liegen im Juli, August
-oder September** - in der einzigen Strecke, die nicht erzaehlt wird. Damit hat
-jede Figur ueber beide Baende hinweg **genau eine** Altersangabe, und keine Szene
-muss einen Geburtstag bemerken.
+**Wie die Geburtstage lagen, und warum das nicht mehr traegt.** Der Einfall war:
+alle Geburtstage in den Juli, August oder September legen, weil das die einzige
+Strecke war, die nicht erzaehlt wird. Damit hatte jede Figur ueber beide Baende
+**genau eine** Altersangabe.
 
-**Die Grenze, und sie kommt bald:** Wer ueber Tag 270 hinausschreibt, betritt den
-Juli. Ab dort werden Geburtstage erzaehlbar, und diese Tabelle gehoert vor die
-erste Juli-Szene gelesen.
+**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 65 und
+dem **1. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
+erzaehlte Zeit geworden - und drei Altersangaben standen prompt gegen ihren
+eigenen Geburtstag:
+
+| Figur | Alter im Text | Kapitel, Datum | Geburtstag stand auf | waere also |
+|---|---|---|---|---|
+| Mr Yeom | dreiundsechzig | 53 und 55, 4. und 12. August | 15. Juli | vierundsechzig |
+| Chairman Woo | achtundsiebzig, dreimal | 61, 23. August | 19. August | neunundsiebzig |
+| Mrs Sunwoo | einundachtzig | 65, 1. September | 4. Juli | zweiundachtzig |
+
+**Aufgeloest ueber die Geburtstage und nicht ueber den Text**, weil diese drei
+Daten erfunden waren und nie in einem Satz standen - sie liegen jetzt hinter dem
+1. September. Der Text bleibt unangetastet und behaelt recht.
+
+**Und einer ist kein Buchhaltungsposten mehr:** Park Sang-hoons Geburtstag steht
+seit Kapitel 50 **im Buch**. *"It was Monday. It was my birthday. I did not want
+to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
+ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
+*"I am fifty-nine"* - beides stimmt und muss so bleiben.
+
+**Das Fenster ist jetzt der 2. September bis 3. Oktober, zweiunddreissig Tage,
+und es schrumpft mit jedem Kapitel.** Wer ueber Anfang Oktober hinausschreibt,
+hat kein unerzaehltes Fenster mehr, und dann gibt es nur noch eine Moeglichkeit:
+**Alter werden mitgefuehrt statt geparkt**, und diese Tabelle bekommt eine
+Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
+*Geburtstag* als das, was sie immer war - eine Parkposition und keine Figurentatsache.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | 3. August | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9) |
-| **Park Sang-hoon** | 59 | 27. Juli | Kapitel 26: *"since I was fifty-one"*, dazu *"Eight years"* |
+| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
-| **Chairman Woo Jae-sung** | 78 | 19. August | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | 81 | 4. Juli | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
+| **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
+| **Mrs Sunwoo** | 81 | **29. September** (war 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
-| **Mr Yeom** | 63 | 15. Juli | Kapitel 23 und 25 |
+| **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
 | **Mr Ok** | 56 | 2. August | Kapitel 16 |
 | **Mrs Jeon Mi-ja** | 51 | 24. Juli | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
 | **Mr Hwang** | 50 | 11. September | Kapitel 21: *"He is about fifty."* Die Untergrenze steht fest, seit er sagt, Mrs Sunwoo kaufe dort, seit er ein Junge war |
@@ -5600,8 +5678,9 @@ erste Juli-Szene gelesen.
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
-gibt, traegt sie mit einem Geburtstag im Fenster Juli bis September ein, **bevor**
-die Zahl in einen Satz kommt. Und wer ein Alter aus einer anderen Zahl ableitet -
+gibt, traegt sie mit einem Geburtstag im Fenster **2. September bis 3. Oktober** ein,
+**bevor** die Zahl in einen Satz kommt - und prueft, ob das Fenster ueberhaupt
+noch existiert. Und wer ein Alter aus einer anderen Zahl ableitet -
 *"since I was twenty-four"*, *"eight years at that table"* - rechnet beide
 Richtungen nach, weil genau dort der Fehler bei Woo entstanden ist: das Alter
 wurde geaendert und die abgeleitete Zahl blieb stehen.
@@ -10744,6 +10823,263 @@ ist Georgijs Maschine mit Blumentöpfen darin.
 
 ---
 
+## Fünf Regeln, die für jede Figur gelten
+
+Die drei Regeln oben sagen, **dass** jede Figur anders sein muss. Diese fünf
+sagen, **woran man das schreibt.** Sie gelten für den Hauptcast wie für eine
+Frau mit einer Gießkanne.
+
+### 1. Jede Figur zählt etwas anderes, auch wenn es nicht gebraucht wird
+
+**Gemessen am 25.08., Nennungen je 1000 Wörter eigener Rede.** Das ist keine
+Erfindung, das steht schon halb im Text und war nur nie festgeschrieben:
+
+| Figur | zählt am dichtesten | dann |
+|---|---|---|
+| **Sim** | **Jahre 18,3** | Personen 6,1 |
+| **Mrs Seo** | **Personen 20,5** | Dienstjahre 10,3 |
+| **Woo** | **Jahre 8,3** | Minuten 6,7 |
+| **Sang-hoon** | Jahre 8,0 | Wochen 2,3 |
+| **Georgij** | **Daten 7,9** | Jahre 4,5, Personen 3,8 |
+| **Annie** | Daten 5,6 | **Tage 4,2, Minuten 3,7** |
+| **Jang** | Personen 4,6 | Tage 3,0 |
+
+Mrs Seo nennt Personen **fünfmal so dicht wie Georgij**, weil ein Kopf für sie
+eine Arbeitsmenge ist. Woo und Sim rechnen in Jahren, weil beide ihr Leben in
+einem Gewerbe verbracht haben und das ihre einzige Währung ist. Annie zählt
+**Minuten und Tage an ihm** - sie misst nicht die Sache, sie misst ihn.
+
+**Die Regel:** Wer eine Figur schreibt, gibt ihr ihre Einheit, auch in einem
+Satz, in dem es um etwas anderes geht. Eine Figur, die in der falschen Einheit
+rechnet, ist die falsche Figur.
+
+### 2. Was sie zurückhält, sagt mehr als was sie sagt
+
+Jede Figur hält gegenüber jeder Stellung etwas anderes zurück, **und das
+Zurückhalten wird sichtbar gemacht**, nicht verschwiegen:
+
+- **Georgij** hält Zahlen über sich selbst zurück. Seine einzige Regel, seit er
+  neunzehn ist.
+- **Jang** hält die dritte Stufe vor Annie zurück und sagt, dass er es tut:
+  *"The third one is not mine to say in this room."*
+- **Mrs Seo** hält die Frage zurück. Sie fragt nicht, was in dem Umschlag ist,
+  in neun Jahren nicht.
+- **Woo** hält den Namen zurück, bis er ihn hergibt, und benennt es:
+  *"Do not thank me. I have not given you a name."*
+- **Annie** hält nichts zurück und das ist ihr Kennzeichen. Sie sagt die Sache
+  und danach, was sie über den anderen weiß.
+
+**Die Probe:** Was weiß diese Figur in dieser Szene, das sie nicht sagt, und
+merkt der Leser, dass sie es nicht sagt?
+
+### 3. Wärme ist ein Bruch der eigenen Maschine, markiert und nie benannt
+
+**Keine Figur in diesem Buch sagt das Warme.** Es kommt immer als Tatsache, als
+Gegenstand oder als Dienstleistung. Und es ist immer ein Verstoß gegen die
+eigene Vorschrift:
+
+- **Jang** berichtet ungefragt etwas, wofür er keinen Beleg hat - das Innenleben
+  eines alten Mannes an einer Bushaltestelle. Der Erzähler benennt den Bruch
+  selbst: *"without being asked."*
+- **Woo** gibt am Ende jedes Treffens ungefragt etwas her. Dreimal belegt.
+- **Mrs Seo** sagt nicht, dass sie sich sorgt. Sie sagt: *"Drink it before it
+  goes cold. You did that yesterday as well."* Die Sorge steckt darin, dass sie
+  es gestern gesehen hat.
+- **Sim** macht im schlimmsten Moment den Gastgeber weiter. Die Wärme läuft
+  weiter, wenn sie nichts mehr zu tun hat, und das ist das Grauen.
+- **Annie** wird nie sprachlich weich. Ihr Weichwerden ist ausschließlich
+  körperlich (`doc/10-naehe.md`).
+
+**Was dabei nicht passiert:** Die Sätze werden nicht kürzer, nicht weicher, und
+es kommen keine Adjektive dazu. **Nur der Inhalt leckt.** Wer eine Figur warm
+schreiben will, gibt ihr nichts Freundliches zu sagen, sondern etwas zu tun oder
+etwas herzugeben, das nicht in ihrem Auftrag steht.
+
+### 4. Unter Druck verstärkt sich das eigene Register, nie Georgijs
+
+Die Regel steht oben schon; hier steht, was **verstärken** je Figur heißt, damit
+sie anwendbar ist:
+
+| Figur | unter Druck |
+|---|---|
+| **Georgij** | kürzer, und der Preis kommt früher |
+| **Annie** | das Datum wird genauer und sie sagt, was er getan hat |
+| **Jang** | feinere Körnung: von der Stufe zur Uhrzeit zur Wiederholung |
+| **Woo** | er korrigiert schon die Frage, nicht mehr nur die Prämisse |
+| **Sim** | mehr Gastgeber, nicht weniger |
+| **Mrs Seo** | sie sagt die Folge für den Haushalt, nicht das Gefühl |
+| **Zivilisten** | schneller, lauter, noch weiter weg vom Thema |
+
+### 5. Jede Figur hat eine Körpergewohnheit, und sie ersetzt das Gefühlswort
+
+Eine, nicht drei, und sie kommt wieder. Jang steht und spricht zum Gegenstand.
+Woo schüttelt keine Hände. Sim bezahlt vorher, im Umschlag, und nimmt keine
+Quittung. Mrs Seo nimmt die Gläser weg. **Wo bei einer anderen Figur ein
+Gefühlswort stünde, steht bei dieser die Gewohnheit** - und wenn sie einmal
+unterbleibt, ist das die Szene.
+
+---
+
+---
+
+## Das Anredesystem, und dass es zerfallen ist
+
+**Gezählt am 25.08. über beide Bände.** Die Anrede verortet im Buch jeden
+Sprecher genau, und sie tut es in einem Wort:
+
+| Anrede | Wer | Band 1 | Band 2 |
+|---|---|---|---|
+| *Mistress* | Georgij, und nur er | 64 | 34 |
+| *Chairman* | an Woo, von allen | 87 | 16 |
+| *ma'am* | **der Haushalt**: der Wachmann, Mrs Seo, Ji-won | 7 | **0** |
+| *ma'am* | **Jang** an Annie. Nichts an Georgij | wird gesetzt | wird gesetzt |
+
+**Die dritte Zeile ist ein Fund.** Das eigene Wort des Haushalts kommt in Band 2
+kein einziges Mal mehr vor. Mrs Seo und Ji-won reden weiter, aber sie reden nicht
+mehr wie Personal. Das ist dasselbe Zusammenfallen wie bei den Kontraktionen und
+den Satzlängen, nur an der Stelle, an der es am schnellsten auffällt.
+
+**Die Regel, die daraus folgt:** Die Anrede ist keine Höflichkeit, sie ist die
+Stellung, und sie ist das billigste Mittel im ganzen Buch: **ein Wort verortet
+einen Sprecher, wo sonst ein Absatz nötig wäre.** Wer sie streicht, hebt den
+Rang auf.
+
+**Wer welches Wort hat, und warum:** Georgij *Mistress*, weil er ihr gehört
+und weil es das einzige ist, das er nicht hergibt (Kapitel 34). Jang und der
+Haushalt *ma'am*, weil sie bezahlt werden. **Niemand sagt zu Georgij etwas** -
+er hat keinen Rang, den man anreden könnte, und das ist der Witz an ihm.
+
+---
+
+---
+
+## Wer mit wem redet, und woran der Leser es hört
+
+Die Blätter sagen, **wie** eine Figur redet. Dieser Abschnitt sagt, **mit wem** -
+und das ist nicht dasselbe. Eine Figur, die zu allen gleich spricht, hat kein
+Verhältnis zu irgendjemandem.
+
+### 1. Angestellte untereinander reden anders als mit Annie
+
+**Vierunddreißig Szenen haben zwei Angestellte gleichzeitig im Raum**, und in
+keiner ist der Unterschied bisher zu hören.
+
+| | mit Annie | untereinander |
+|---|---|---|
+| Anrede | *ma'am* | keine, oder der Vorname: *"Ji-won,"* |
+| Form | Bericht | das Haus am Laufen halten |
+| Erklärt | alles, was sie wissen muss | nichts, sie wissen es beide |
+| Kontraktionen | wenige | viele |
+| Beschwerde | nie | ja, und zwar über Vorgänge, nicht über Personen |
+
+**Der Kern: untereinander erklären sie nichts.** Zwischen zwei Leuten, die
+dasselbe Haus neun Jahre lang kennen, ist ein halber Satz genug - *"Das Tablett
+war um vier nach oben"* braucht keine Erläuterung, und wer eine mitliefert,
+redet in Wahrheit mit dem Leser. Vor Annie dagegen wird vollständig berichtet,
+weil sie das Ergebnis will und nicht den Weg.
+
+### 2. Chaebols reden miteinander, als wären sie gleich
+
+**Gemessen: zwischen Prinzipalen fällt kein einziger Titel.** Sie benutzen
+Vornamen, sparsam - *Ye-rin*, *Hana*, *Do-yun*, *Annie* - und sonst nichts.
+*Chairman* steht vierundzwanzigmal als Anrede im Buch und kommt **jedes Mal von
+Georgij**, nie von einem anderen Prinzipal.
+
+**Die Regel dahinter:** Unter ihnen wird der Rang nicht ausgesprochen, weil er
+vorausgesetzt ist. **In dem Moment, in dem einer von ihnen einen Titel benutzt,
+räumt er etwas ein** - und dann muss es der Szene wert sein. Sie fragen einander
+auch nicht um Erlaubnis: keine Bitten, keine Weichmacher, und Widerspruch kommt
+ohne Anlauf.
+
+### 3. Hochrangige reden mit ihm wie mit ihresgleichen, und das ist bezahlt
+
+**Die Asymmetrie steht schon in den Zahlen.** Georgij gibt Titel: *Mistress*
+neunundachtzigmal, *Chairman* vierundzwanzigmal. Er bekommt keinen einzigen
+zurück - **es gibt im ganzen Buch kein Rangwort für ihn.** Was er bekommt, ist
+sein Vorname, zwölfmal, von Annie, Hana und Sang-hoon.
+
+**Er ist der einzige Mensch im Buch, der die Ehrerbietung noch zahlt, und alle
+über ihm haben aufgehört, sie einzutreiben.**
+
+**Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
+wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
+in jeder Szene, bis zum Schluss. Wer ihn einem Prinzipal gegenüber locker
+sprechen lässt, hat die Figur verloren.
+
+**Aber es sind zwei verschiedene Dinge, und sie kommen nacheinander.**
+
+**Am Anfang, solange niemand weiß, was er ist, ist die Gleichstellung
+Vorsicht.** Ein gut angezogener Mann, den man in einem solchen Saal nicht kennt,
+kann jedermanns Mann sein, und wer ihn schlecht behandelt, stößt womöglich
+jemand anderem vor den Kopf. Also redet man mit ihm auf Augenhöhe, weil das die
+billigste Versicherung ist. **Das ist keine Achtung, das ist Risikovermeidung**,
+und man hört es daran, dass sie ihn dabei die ganze Zeit **einzuordnen
+versuchen**:
+
+> *"And where were you educated?"* - Hong, bei zwölf Minuten
+> *"Who did you work for before her?"* - Hana, bei vierzig Sekunden
+> *"What did she pay for you?"* - Sang-hoon
+
+Drei Platzierungsfragen von drei Leuten, und jede ist ein Versuch, ihn in eine
+Spalte zu schreiben.
+
+**Später wissen sie genau, was er ist - eine Ware, elfmal weitergereicht - und
+reden trotzdem so mit ihm. Ab da ist es Respekt**, und er ist teuer, weil er
+gegen alles läuft, was diese Leute sonst tun.
+
+**Die Naht zwischen beidem ist im Text greifbar:** Sie hört auf, wenn jemand
+aufhört zu **fragen**, was er ist, und anfängt zu **bezahlen**, was er kann. Das
+ist der Moment, an dem die Figur ihre Meinung über ihn gebildet hat, und er
+gehört sichtbar gemacht - einmal je Figur, und dann nie wieder.
+
+**Wofür der Respekt gewährt wird, muss im selben Kapitel stehen.** Sonst liest es sich
+als Höflichkeit, und Höflichkeit ist wertlos. Die Belege, die es im Buch schon
+gibt, sind alle Bezahlung für eine Leistung:
+
+- **Woo verweigert das Ritual:** *"Do not thank me. I have not given you a
+  name."* Er nimmt den Dank nicht an, weil Dank ein Rangverhältnis behauptet.
+- **Woo gibt am Ende jedes Treffens ungefragt etwas her.** Dreimal belegt.
+- **Sang-hoon sagt ihm etwas, das ihn etwas kostet:** dass er zweimal versucht
+  hat, ihn zu kaufen, und zweimal ein Nein bekommen hat.
+- **Sang-hoons *"Ask."*** - er macht das Register auf, statt es zu verwalten.
+
+**Die Probe:** Streiche die freundliche Geste. Bleibt im Kapitel eine Leistung
+übrig, für die sie die Quittung ist? Wenn nicht, ist es Nettigkeit und gehört
+weg.
+
+### 4. Die Beats tragen den Rang, nicht nur der Dialog
+
+**Ein Leser soll nicht alles aus der Unterhaltung erfahren.** Das Verhältnis
+zwischen zwei Leuten steht zwischen den Zeilen oder es steht nicht da.
+
+Der Musterfall steht in Band 1, Kapitel 5, und er erledigt in einem Beat, wofür
+ein Absatz Erklärung nötig wäre:
+
+> *Jang did not get up, and he did not pretend to be busy either. He turned his
+> chair to face the door properly, which was better manners than getting up
+> would have been.*
+
+Das sagt: er ist Georgij nicht untergeordnet, er ist ihm nicht feindlich, und er
+weiß auf den Zentimeter genau, was die richtige Form ist. **Drei Rangfragen in
+einem Satz, und keine davon wird ausgesprochen.**
+
+Der Gegenfall ist der Beat, der nichts trägt: *"He did not soften it."* Der sagt
+über das Verhältnis im Raum nichts, und davon sind am 24.08. neununddreißig
+Stück verschwunden.
+
+**Die Regel:** In jeder Szene mit einem Rangunterschied trägt **mindestens ein
+Beat** die Rangfrage. Wer steht, wer sitzt, wer zuerst spricht, wer wem etwas
+abnimmt, wer wartet, wer den Stuhl dreht, wer die Gläser wegnimmt, wer die Tür
+offen lässt.
+
+**Die Probe, und sie ist die schärfste in diesem Dokument:** *Streiche alle
+Repliken. Ist aus dem, was übrig bleibt, noch erkennbar, wer hier wem
+gegenübersteht?*
+
+---
+
+---
+
 ## Der Index: alle dreiunddreißig, die sprechen
 
 **Gezählt am 25.08.** über beide Bände, zugeordnet nur, wo genau ein Name in der
@@ -10827,17 +11163,231 @@ falschen Tram-Anschluss absichtlich, damit der andere ihn verbessern darf.
 Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun hat.
 
 ### Jang (58, acht Familien, dreißig Jahre)
-**Sortiert vor der Übergabe: beobachtet, gehört, geraten.** Mischt die Stufen
-nie und benennt die eigene Unsicherheit ungefragt: *"That is a guess and I am
-telling you it is a guess."* Sein Anliegen ist nicht der Fall, sondern ob der,
-der die Anweisung gibt, sie wert ist. Er hat für beide Sorten gearbeitet. Er
-steht und setzt sich nicht.
+
+**Gemessen am 25.08. über 45 zugeordnete Repliken aus neun Szenen, 721 Wörter.**
+Ø 12,2 Wörter je Satz, längster Satz 37, zehn Prozent über 25 Wörtern.
+**Er ist damit der langsatzigste Sprecher des Buchs** - alle anderen liegen bei
+sieben bis acht. Seine Stimme ist nicht abwesend, sie ist unfertig.
+
+**Die Maschine.** Nicht die drei Stufen, die sind nur die Oberfläche. Darunter:
+**Er übergibt keine Tatsache ohne ihre Herkunft und ihre Grenze, und die Grenze
+nennt er, bevor jemand fragt.** Reihenfolge: was er nicht getan hat, was er
+beobachtet hat, wie oft, wo es aufhört.
+
+> *"I have not been onto the property. I have not spoken to anybody who works
+> there. I have not used the route I had ready, because nobody told me to, and I
+> do not go past a line I have not been given."*
+
+Nie eine Zahl ohne Methode: *"I have counted that on four separate mornings and
+it has been nine every time."* Und er bietet die schwächere Stufe ungefragt an,
+statt sie zu verschweigen: *"Now I am going to offer you the third sort, because
+you have not asked and because you will not ask."*
+
+**Das Anliegen.** Nicht Sicherheit. **Ein Mann zu sein, dessen Berichte gelesen
+werden.** Die Wunde steht auf der Brücke: *"I wrote it up in my first week. Two
+paragraphs, a drawing, and a price." … "She read it and said no." … "I put it in
+again in my third week, because you do, and she said no again and did not give me
+a reason either time."* Deshalb bittet er in Kapitel 40 um den ganzen Vormittag,
+und deshalb zählt der Text extra, dass Annies Notizblock leer bleibt.
+
+**Er darf:** verneinen über Beweise. Zahlen mit Methode. Dienstjahre über sich
+selbst, nie Gefühle. Aufzählungen mit Komma statt mit *und*. **Er zieht
+zusammen, in beiden Bänden** - er hat keinen Grund, formeller zu werden,
+während Georgij den Boden unter sich verliert.
+
+**Er darf nicht:** den which-Satz, die Und-Kette mit drei Gliedern, die
+Negativ-Definition über **Bedeutung**, die Selbstdiagnose. Der Unterschied bei
+der Verneinung ist scharf und wird sonst falsch repariert: *"It is not a person.
+It is a quantity of food"* ist seins, er grenzt ab, was seine Beobachtung
+hergibt. *"Not the number. Not who knew."* wäre Georgij, das grenzt ab, was
+etwas bedeutet.
+
+**Körper.** Er steht. Sitzt er, dreht er den Stuhl, statt aufzustehen. Er
+spricht zum Gegenstand - zur Karte, zum Wasser, zum Bericht. Er lässt sich
+nicht einschenken.
+
+#### Wie er mit wem redet
+
+**Er sagt *ma'am* zu Annie und nichts zu Georgij, und das ist das ganze
+System in einem Wort.** Gemessen stand er bei null Anreden - das war nicht
+Charakter, das war das Zusammenfallen, das im Abschnitt oben gemessen ist. Er
+bekommt sie zurück.
+
+**Zwei Männer im selben Haus, zwei Wörter für dieselbe Frau, und der
+Unterschied ist, was sie ihr sind.** Georgij sagt *Mistress*, weil er ihr
+gehört und weil es das einzige Wort ist, das er nicht hergibt. Jang sagt
+*ma'am*, weil sie ihn bezahlt. Das eine ist Eigentum, das andere ist ein
+Arbeitsverhältnis, und sie klingen nur so lange gleich, wie niemand es
+aufschreibt.
+
+**Sparsam gesetzt, nicht in jeder Antwort.** Zwei bis drei in einer langen
+Szene, und immer an einer von drei Stellen: wenn er einen Bericht aufmacht,
+wenn er Autorität für sich beansprucht, und wenn er eine Anweisung annimmt.
+Wer es überall hinsetzt, macht einen Diener aus ihm, und er ist keiner.
+
+- **Zu Annie.** Er antwortet vollständig und weicht nie aus, aber er markiert
+  die Grenze des Raumes: *"The third one is not mine to say in this room."* Er
+  nennt ihr die Stufe ausdrücklich, auch wenn sie nicht danach fragt. Und er
+  legt ihr den Preis der Anweisung hin, bevor sie ihn bezahlt, ohne die
+  Anweisung zu bestreiten. Nichts wird weicher gemacht: *"I will not make it
+  easier than it is to get out of this room, and I will not make it worse to
+  sound useful."*
+- **Zu Georgij.** Direkt bis zur Grobheit, und persönlich. *"I know what you
+  have. I read the file before I took the job."* *"You should not do that."* Er
+  sagt ihm **purchase** ins Gesicht: *"You are the first purchase who has ever
+  come to introduce himself."* Und er richtet die Antwort an ihn, auch wenn
+  Annie gefragt hat - der Text sagt es ausdrücklich: *"said Jang, to Georgij,
+  because it was Georgij the sixteen days had been for."*
+- **Zu Fremden und Nachgeordneten.** Er fragt und schreibt auf. Er sagt nicht,
+  wofür.
+
+#### Was passiert, wenn er warm wird
+
+**Er sagt nie das Warme. Er bricht seine eigene Vorschrift zugunsten des
+anderen, und er markiert den Bruch.** Das ist die ganze Mechanik, und sie ist
+im Text schon fünfmal belegt:
+
+1. **Er berichtet etwas, wofür er keinen Beleg hat, und gibt es trotzdem her.**
+   Der Erzähler benennt es selbst: *"Jang said one more thing the old man had
+   told him, without being asked. 'He had assumed for years she was somebody's
+   mother that nobody had time for.'"* Sechzehn Tage Fernglas, und was er
+   ungefragt mitbringt, ist das Innenleben eines Fremden.
+2. **Er verzichtet auf eine Frage, zu der er berechtigt wäre.** *"I am not going
+   to ask you why."*
+3. **Er verteidigt die Kompetenz des anderen ungefragt.** *"I would like to be
+   clear that I know it was not because you did not know about the corner."*
+4. **Er erbringt eine Leistung, ohne sie zu benennen.** Die Flasche und zwei
+   Pappbecher auf der Brücke, und vorher die Wahrheit, dass er im Haus angerufen
+   hat. *"Keep the lighter."*
+5. **Er wählt die Richtung, in der er lieber falsch liegt.** *"Then I am wrong,
+   and you will have spent sixteen days of my time finding that out gently
+   instead of finding it out badly. I would rather be wrong that way round."*
+   Das ist Mitgefühl für eine Frau, die er nur durch ein Fernglas kennt.
+
+**Und was dabei nicht passiert:** Seine Sätze werden nicht kürzer und nicht
+weicher. Keine Adjektive, keine Berührung, keine Frage nach dem Befinden. **Nur
+der Inhalt leckt.** Wer Jang warm schreiben will, gibt ihm nichts Freundliches
+zu sagen - er gibt ihm etwas zu tun oder etwas herzugeben, das nicht in seinem
+Auftrag steht.
+
+#### Unter Druck und im schlimmsten Moment
+
+Nach der Regel oben muss das Register **stärker** werden. Bei ihm heißt das
+**feinere Körnung**: von der Stufe zur Uhrzeit, von der Uhrzeit zur
+Wiederholung. Die Genauigkeit ist das Gefühl. **Er sagt nie, dass ihn etwas
+ärgert - er sagt, wann er es aufgeschrieben hat.**
+
+#### Vier Beispiele
+
+**Ruhig, ungefragt:**
+
+> "Two cars this week that are not on the rota. The first is the gardener's
+> brother and I have that from the gardener, not from the plate. The second I
+> have a plate for and nothing else, and I have not run it, because running it
+> puts a name in somebody's book. It's probably a delivery. I'd rather say it's
+> probably than say it's nothing."
+
+**Unter Druck, er soll über die Linie:**
+
+> "I'll go in if you tell me to go in." He did not move off the door. "Sixteen
+> days are worth what they are worth because nobody knows anybody is looking.
+> The morning after I go in, they know. I'm not arguing with the instruction.
+> I'm telling you the price of it before you buy it, because afterwards is too
+> late to be told."
+
+**Der schlimmste Moment, seine Empfehlung liegt zum dritten Mal ungelesen da:**
+
+> "The ninth of April, twenty past eight in the morning. On the desk, not in the
+> tray, because the tray is for the week and that was not for the week." He was
+> looking at the map and not at her. "The second one was the sixth of May, and I
+> put it in the tray that time, because I had thought about it. Two paragraphs,
+> a drawing, and a price, three times, and I have never once been told which of
+> the three was wrong."
+
+**Warm, zu einem Mann, der es schlecht hat:**
+
+> "There's a chair in the office and the heater works." He did not look at him
+> while he said it. "I've got the gate until six either way. You do not have to
+> be anywhere and nobody has asked me where you are." A pause of about four
+> seconds. "The old man at the stop asks after you. I did not tell him
+> anything, but I thought you would want to know that somebody does."
+
+Die Probe: In allen vieren steht eine Zahl mit ihrer Herkunft, etwas, das er
+nicht getan hat, und kein Schluss, den er nicht selbst gelaufen ist. Kein
+*which*, keine Und-Kette, keine Selbsterklärung. Und er zieht zusammen.
 
 ### Mrs Seo (neun Jahre, führt das Haus)
-**Rechnet alles in Dienstplan um.** Der Fall interessiert sie nicht, der
-Haushalt schon. Sie ist neun Jahre länger da als Georgij und hat das noch nie
-ausgespielt. Sie zählt auch - aber sie zählt Arbeit: *"Three weeks running,
-this."* Sie fragt nicht, was in dem Umschlag ist.
+
+**Gemessen: 16 zugeordnete Repliken, 195 Wörter.** Wenig, aber sie hat die
+**höchste Personendichte im ganzen Buch** - 20,5 Nennungen je 1000 Wörter,
+fünfmal so dicht wie Georgij. Ein Kopf ist für sie eine Arbeitsmenge.
+
+**Die Maschine.** Nicht "Dienstplan". Genauer: **Sie berichtet Abweichungen von
+der Routine, und die Routine ist ihre Maßeinheit - für Zeit, für Menschen und
+für Gefühl.**
+
+> *"She said to leave it where you would see it and not to bring it up to you,
+> and then she said it twice, **which she does not do**."*
+
+Die Nachricht ist nicht, was Annie gesagt hat. Die Nachricht ist, dass sie es
+zweimal gesagt hat. Dasselbe in *"Drink it before it goes cold. **You did that
+yesterday as well**."*
+
+**Das Anliegen, und es ist kein Ehrgeiz.** Sie ist neun Jahre länger im Haus
+als Georgij und spielt es nie aus - **weil es nichts auszuspielen gibt.** Sie
+weiß, wo sie steht, und niemand ist in Sicht, der sie überholt. Dienstjahre
+sind für sie **kein Rang, sondern Kompetenz**: Wer länger da ist, ist jemand,
+der länger nützlich ist, und das ist ein Gewinn für das Haus und kein Wettbewerb.
+
+**Daraus folgt ihr Maßstab für Menschen, und er ist hart:** *Hat diese Person
+gelernt, was ihre Zeit ihr hätte beibringen müssen?* Nicht wie lange jemand da
+ist, sondern was er in der Zeit geworden ist.
+
+**Achtung bei der Zuordnung.** Zwei Sätze, die wie ihre klingen und es nicht
+sind: *"You looked at my hands before you looked at my face"* und *"two years on
+that gate and never learned the third one"* stehen beide in Band 1, Kapitel 3
+und gehören **Georgij**, der damit Bae beurteilt. Sie stehen in derselben Zeile
+wie die Wörter *"said Mrs Seo"*, weil er sie zitiert. Wer ihr Blatt aus dem Text
+nachzieht, faellt darauf herein - ich bin darauf hereingefallen.
+
+**Sie fragt nicht.** In neun Jahren nicht, was in dem Umschlag ist. Das ist ihr
+Zurückhalten, und es ist keine Diskretion, sondern Arbeitsteilung.
+
+**Er darf... sie darf:** Personen und Dienstjahre zählen. Die Abweichung melden
+statt der Sache. Anweisungen geben, die wie Fürsorge klingen. *ma'am* zu Annie,
+Vorname zu Ji-won, **nichts zu Georgij**.
+
+**Sie darf nicht:** die Negativ-Definition. *"Not one person."* stand in Band 1,
+Kapitel 6 hinter ihrer eigenen Zählung und ist Georgijs Werkzeug. Ihre Fassung
+derselben Sache ist eine **Zahl und eine Folge für die Arbeit**, kein Kommentar.
+
+**Der which-Satz dagegen gehört ihr, aber nur in einer Form.** *"…and then she
+said it twice, **which she does not do**"* ist ihre Maschine: der Relativsatz
+markiert die Abweichung von der Gewohnheit. Verboten ist der andere, der den
+eigenen Zug kommentiert - *"…which is a thing that costs nothing"*. Der erste
+sagt etwas über die Welt, der zweite über den Sprecher.
+
+**Körper.** Sie nimmt die Gläser weg. Sie stellt etwas hin und geht nicht
+sofort.
+
+**Warm:** die Fürsorge kommt als Anweisung, mit dem Beleg daneben, dass sie
+mitgezählt hat. **Unter Druck:** sie sagt die Folge für den Haushalt, nie das
+Gefühl.
+
+#### Zwei Beispiele
+
+**Ruhig, eine Abweichung:**
+
+> "The gate was opened twice last night and the second time nobody came in." She
+> put the tray down and did not go. "Three weeks running, this. I'll want a
+> fourth before I say it's anything."
+
+**Warm, an Georgij, ohne ein warmes Wort:**
+
+> "There's a plate in the small room." She took the two glasses off the table.
+> "You were down at four the last three mornings and you'll be down at four
+> tomorrow. That's nine years of me knowing what a man does when he isn't
+> sleeping, and it isn't a comment."
 
 ### Mr Ahn (39, repariert Kleinmotoren)
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
@@ -10854,42 +11404,193 @@ der Befund: Georgij irrt sich bei so etwas nie um mehr als ein Jahr, und die
 Zahl steht als eigener Takt da.
 
 ### Mr Yeom (dritte Etage, Jung-gu)
+
+**25 Repliken, 457 Wörter.** Zählt Jahre 13,1 und Daten 10,9 - ein Mann, der
+Immobilien verkauft hat, rechnet in Kalendern.
+
 **Er kommt zuerst.** Er ruft an, statt angerufen zu werden, und er sagt gleich,
-warum er anruft. Seine Maschine ist **die Abkürzung**: er nimmt dem anderen den
-Umweg ab und sagt dabei, dass er es tut. *"I thought it would be quicker to
-telephone you than to let you spend four hundred thousand won finding out that
-there is nothing in those filings."* Er lacht, was in diesem Buch fast niemand
-tut. Und er hat ein Prinzip, das mit der Sache nichts zu tun hat und trotzdem
-alles blockiert.
+warum er anruft. *"I thought it would be quicker to telephone you than to let you
+spend four hundred thousand won finding out that there is nothing in those
+filings."* Er lacht, was in diesem Buch fast niemand tut.
+
+**Die Maschine ist tiefer als die Abkürzung: Er läuft die nächsten zwei Züge des
+anderen, bevor der sie macht, und sagt sie laut.** Viermal belegt:
+
+> *"You are not going to ask me how I know it was you."*
+> *"…you are going to think it was cowardice and it was not."*
+> *"And you are not going to ask me for it, because…"*
+> *"I know. **I only wanted to hear whether you would say so.**"*
+
+Der letzte ist der schärfste: Er hat die Antwort schon gehabt und die Frage
+trotzdem gestellt, um zu sehen, ob der andere sie ehrlich beantwortet. **Das ist
+kein Verhör, das ist ein Verkäufer, der seit vierzig Jahren Leute an Tischen
+sitzen sieht.**
+
+**Und er ersetzt Moral durch Rechnen, ausdrücklich:** *"you are going to think it
+was cowardice and it was not. **It was arithmetic.**"* Wer ihm eine moralische
+Begründung schreibt, hat ihn verloren.
+
+**Er korrigiert ein einzelnes Wort.** *"Change* supply *to* furnish."* Bei einem
+Mann, dessen Berufsleben an Vertragsverben hängt, ist das kein Pedanterie-Gag,
+sondern seine Fachlichkeit in vier Wörtern.
+
+**Warm:** Er sagt, wann er aufgehört hat, mit sich im Reinen zu sein - *"I was
+comfortable about it for four years and I have not been comfortable since May."*
+Ein Datum statt eines Gefühls.
+
+**Achtung, Kollision.** Yeom benotet Antworten - *"That is a very good answer"*,
+*"That is not what I expected you to say"* - und das ist **Sang-hoons Signatur**.
+Beide sind Berufsbeurteiler, also ist die Ähnlichkeit begründet, aber sie muss
+sichtbar getrennt bleiben: **Sang-hoon benotet und handelt dann nach der Note.
+Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
+und nie beide im selben Kapitel.
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
-**Der Gegenstand ist das Buch.** Sie antwortet aus dem Buch, ohne umzublättern,
-weil sie es nicht muss. Bleistift, nicht Kugelschreiber, und sie sagt warum.
-Sie beschreibt Menschen über ihr Zahlverhalten und ihr Trinkgeld, weil das ist,
-was ein Empfang von einem Menschen sieht. **Und sie entschuldigt sich nicht.**
+
+**Nur drei getaggte Repliken, aber ein ganzes Kapitel** - Band 2, Kapitel 49 ist
+ein Zweipersonenstück im bloßen Wechsel. Aus dem Kapitel gelesen, nicht gezählt.
+
+**Der Gegenstand ist das Buch**, und der Bleistift ist die Regel dahinter.
+Ihr stärkster Satz trägt beides:
+
+> *"I have kept a book in pencil for twenty-two years. **I do not need a lesson
+> from you about telling people the truth in the correct order.**"*
+
+**Ein Buch in Bleistift heißt: Dinge werden berichtigt, und das ist keine
+Unehrlichkeit.** Das ist ihr ganzes Verhältnis zur Wahrheit, und sie verteidigt
+es gegen einen Mann, der davon lebt, die Reihenfolge zu wählen.
+
+**Die Maschine: sie sagt, um welche Uhrzeit sie ihre Meinung geändert hat.**
+Kein Gefühl, ein Zeitverlauf:
+
+> *"Because on the Wednesday night I decided I was not going to, and I was very
+> satisfied with myself about it, **and then I woke up at four and I was not
+> satisfied any more.**"*
+
+**Und sie stellt den Rang gleich, körperlich.** Eine Empfangsdame, die einen
+Mann aus dem Chaebol-Umfeld hinsetzt: *"Sit down, then. I am not going to talk
+about this looking up at somebody."* Sie nennt das Haus außerdem **ihr Gebäude** -
+*"a strange sort of man to have in my building twice."*
+
+**Sie beschreibt Menschen über ihr Zahlverhalten**, weil das ist, was ein Empfang
+sieht. **Sie entschuldigt sich nicht**, und sie korrigiert die Annahme über ihr
+eigenes Befinden: *"That is not what I have been awake about."*
+
+**Sie darf nicht:** sich rechtfertigen, um Verständnis bitten, ein Gefühlswort
+benutzen.
 
 ### Mr Hwang (der Sanierer)
-**Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
-abnehmen muss. *"You are correct. I want to say that first so that we are not
-doing the part where you prove it to me."* Seine Maschine ist die **Vorwegnahme**:
-er kennt die nächste Frage und beantwortet sie, bevor sie kommt. Zahlen und
-Stunden statt Adjektiven.
 
-### Mrs Jeon Mi-ja (dreiundzwanzig Jahre Abrechnung)
-**Der Vorgang, nie die Person.** Sie sagt, was durchgelassen wurde und was sie
-danach getan hat, in der Reihenfolge der Bearbeitung. Ihr Satz ist der Maßstab
-für alle Mitwisser im Buch. Keine Rechtfertigung, keine Bitte.
+**24 Repliken, 368 Wörter.** Zählt Daten 16,3 und Minuten 13,6 - die dichteste
+Datums- und Uhrzeitzählung im ganzen Buch.
+
+**Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
+abnehmen muss: *"You are correct. I want to say that first so that we are not
+doing the part where you prove it to me."* Und er zieht die Frage vor, die
+kommen wird: *"You want something. **You have not asked for it yet and you have
+been in this room for twenty minutes.**"*
+
+**Aber das Material, mit dem er vorwegnimmt, ist immer die Akte - und das ist
+der Unterschied zu Yeom.** Yeom kennt Menschen, weil er ihnen gegenübergesessen
+hat. Hwang kennt sie, **weil sie ein Formular ausgefüllt haben**:
+
+> *"There is a bus every twenty minutes from the station and it is the fourth
+> stop. **I know that because she wrote it on her application when she came and
+> nobody has ever asked her for a new one.**"*
+
+Ein Mann, der die Busverbindung einer Sachbearbeiterin kennt, weil sie
+dreiundzwanzig Jahre alt in einem Ordner steht. **Jede Nähe, die er zu einem
+Menschen hat, ist dokumentarisch**, und er nennt die Fundstelle mit.
+
+**Warm: die Wärme ist ein Schriftstück, und er misst sie in Seiten.**
+
+> *"I wrote her one. **It is two pages and every sentence in it is true and I
+> have never written a better one about anybody.**"*
+
+Er sagt nicht, dass er sie schätzt. Er sagt, wie lang das Zeugnis ist und dass
+jeder Satz darin wahr ist - was bei ihm dasselbe bedeutet und mehr kostet.
+
+**Unter Druck** wird er **verfahrensförmig**: Er sagt, in welchem Zustand das
+Verfahren ist und was daraus folgt - *"the house was in wind-up, and that
+reopening a matter in wind-up requires the administrator's consent."* Keine
+Rechtfertigung, eine Rechtslage.
+
+**Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
+**Er darf nicht:** den which-Satz, die Und-Kette, Adjektive über Menschen.
+
+**Körper.** Er hat das Papier in der Hand, bevor er darüber spricht.
+
+### Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)
+
+**25 Repliken, 328 Wörter.** Zählt Daten 9,1 und Monate 6,1.
+
+**Korrektur am ersten Blatt.** Dort stand *"der Vorgang, nie die Person"*. Über
+fünfundzwanzig Repliken gelesen stimmt das nicht - sie tut zweimal ausdrücklich
+das Gegenteil und benennt **die Transaktion, in der sie selbst steckt**:
+
+> *"You are somebody's. I could see that in March and I can see it now. **Whose.**"*
+> *"**I have been handled.**"*
+
+**Sie ist die einzige Nebenfigur im Buch, die laut sagt, dass sie gerade
+gehandhabt wird.** Das ist kein Verfahrensbericht, das ist eine Frau mit
+dreiundzwanzig Jahren Abrechnung, die den Vorgang erkennt, weil sie den ganzen
+Tag Vorgänge liest.
+
+**Die Maschine: die ausgerichtete Botschaft.** Sie hat keinen Zugang zu den
+Prinzipalen, also spricht sie **durch** den, der vor ihr steht, hindurch -
+dreimal belegt:
+
+> *"**You may tell him from me** that I kept mine too, and that I bought the book
+> myself, and that it did not take a great deal of courage until the end."*
+> *"**Tell her** that I read all four pages of the terms and that the third one is
+> generous in a way that somebody thought about."*
+> *"**And tell her** that I noticed it was posted on Friday night."*
+
+Der letzte ist der beste: Sie nimmt das Geschenk an **und** lässt ausrichten, dass
+sie den Zeitstempel gesehen hat. Nichts geht bei ihr unbemerkt durch, und sie
+sorgt dafür, dass der Absender das weiß.
+
+**Das Anliegen.** Vier Monate Geld, ein Sohn, der nächsten Monat ein Angebot
+macht, und die Absicht, es anzunehmen - *"and I would like it understood by
+somebody"*. Sie will nicht gerettet werden. Sie will, dass jemand es zur
+Kenntnis nimmt.
+
+**Ihre Furcht ist berufsförmig:** *"A line that arrives in the book and nobody
+will say where it came from is the one thing I know how to be afraid of."*
+
+**Keine Rechtfertigung, keine Bitte.** Und sie setzt Leute hin: *"Sit down."*
 
 ### Mrs Gwak (Blumenladen, Hyoja-dong)
 **Zivilistin, aber nicht wie die Gießerin.** Sie redet über ihren Mann und seine
 Handschrift, weil das Buch seins ist. Ihr Anliegen: dass niemand angerufen hat,
 als das Haus zumachte. *"My son found out from a man who does the windows."*
 
+**Gegengelesen, sechs Repliken, und das Blatt stimmt.** Zwei Ergänzungen:
+
+**Sie spricht durch abwesende Männer.** Ihr Mann und Mr Han, der achtzehn Jahre
+gefahren ist, liefern ihr die Sätze: *"He said a card is the only part of it
+anybody keeps."* · *"If a delivery did not go into a hand he put down why."*
+
+**Und sie hat einen Berufsstolz, der sie die Arbeit selbst machen lässt:** *"Not
+once, and I looked, **because I do not like being wrong about a customer.** I
+sat here and went back three years."* Sie zählt Jahre mit 20,4 je 1000 Wörtern -
+der zweithöchste Wert im Buch nach Sim.
+
 ### Mr Sohn (kocht ohne Schild)
 **Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
 Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, was
 der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
 paid in cash by a man who left before the coffee."*
+
+**Gegengelesen, sieben Repliken, das Blatt stimmt.** Zwei Ergänzungen:
+
+**Er beurteilt Menschen danach, wie sie essen** - und misstraut dem Lob:
+*"Slowly, and he finished the plate, and he told me it was the best thing he had
+eaten that month, **which a cook remembers whether he believes it or not.**"*
+
+**Und er stellt Gegenfragen, mit Punkt.** *"Why does that matter to you."* In
+seiner eigenen Küche fordert er, und die Regel aus `CLAUDE.md` gibt ihm dafür
+den Punkt.
 
 ### Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage
 
@@ -10943,6 +11644,85 @@ und nie erklären konnte, und er tut es unaufgefordert.
 
 **Verboten:** die Und-Kette. Er baut kurz und schlägt zu.
 
+**Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
+
+**116 Repliken, 1850 Wörter, Ø 11,9 - die größte Nebenstimme des Buchs.**
+Zählt Personen 8,6 und Jahre 8,1.
+
+**Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.** Das tut
+sonst niemand, und es ist durchgehend belegt:
+
+> *"That is the most expensive sentence anybody has said to me this year."*
+> *"That is a more careful answer than the one you started with."*
+> *"That is not the answer."*
+> *"That is the first untrue thing you have ever built out of me."*
+> *"That is an honest answer, and it is also the first time you have given me
+> one that frightened me a little."*
+
+Ein Mann, der seit einunddreißig Jahren beruflich Leute einschätzt, tut es
+**laut**. Wer ihm eine Replik schreibt, die direkt antwortet, hat ihn verloren.
+
+**Der zweite Zug: er berichtet seinen eigenen Denkvorgang, mit Uhrzeit.**
+*"I have watched you not ask for four minutes."* · *"I have never once put those
+three facts in a row until this minute."* · *"I notice that neither did you, and
+neither of us is going to pretend that is nothing."*
+
+**Und er protokolliert.** *"I would like it on the record that I gave you the
+chance."* Zweimal. Das ist seine Form von Fairness: Er macht die Gelegenheit
+aktenkundig, statt großzügig zu sein.
+
+**Das Anliegen.** Er hat acht Jahre an Chois Tisch gesessen und **eine einzige
+Frage nie gestellt.** Was er will, ist nicht der Fall - es ist herauszufinden,
+was er in diesen acht Jahren nicht wissen wollte. *"Asking why was the one thing
+that table had already taught me not to do."*
+
+**Wie mit wem.** Zu Georgij kein Name und kein Titel, nie - aber er benennt,
+**was** er ist, als Einschätzung und nicht als Beleidigung: *"You are a strange
+thing to have working for somebody else's house."* Zu Annie an ihrer eigenen Tür,
+und er sagt dazu, dass er es dort gesagt hat.
+
+**Warm: die Gabe kommt mit ihrer Grenze im selben Atemzug.**
+
+> *"You may have the pages those four sit on. **Not the book.** There are things
+> further back in it that are mine and are not this."*
+
+Er gibt und sagt genau, wo das Geben aufhört - und das ist mehr wert als ein
+unbegrenztes Angebot, weil man sich darauf verlassen kann.
+
+**Unter Druck** wird er genauer über sein eigenes Bemerken und **langsamer**:
+*"Find out. Both halves of it. Take the time it needs, and do not bring me the
+wrong one quickly to make either of us feel better."* Er ist außerdem der
+einzige Mächtige im Buch, der **Angst zugibt**.
+
+**Er darf:** die Und-Kette, die Negativ-Definition - er sortiert damit Beweise
+wie ein Prüfer. Zahlen über Menschen und Jahre.
+
+**Er darf nicht:** die Selbstdiagnose. **Und Vorsicht beim which-Satz:** Er hat
+mit 3,3 je 1000 Wörtern die **höchste Rate im Buch**, zehnmal Georgijs 0,3.
+Der Tic in Haustic-Liste Nummer zwei ist in der direkten Rede seiner, nicht
+Georgijs. Zwei bis drei je Kapitel, nicht mehr.
+
+**Körper.** Er nimmt einen Tisch und kein Zimmer. Er stellt das Glas ab, bevor
+er etwas Teures sagt.
+
+#### Zwei Beispiele
+
+**Er benotet, dann antwortet er:**
+
+> "That is the second time this year somebody has told me something true in
+> order to be believed about something else." He put the glass down. "It works.
+> I want you to know that I can see it working and that I am letting it."
+
+**Unter Druck, und er gibt Angst zu:**
+
+> "I have eleven thousand people and a name that survives me by about a week if
+> I get this wrong." He did not raise his voice at all. "You are asking me to
+> hold something and do nothing with it, and I have watched you be right twice.
+> That is not enough for a third time and we both know it. Bring me the second
+> half."
+
+---
+
 ### Hana Seo-yeon (58 Repliken)
 
 **Ihre Maschine ist die Anmerkung.** Sie beschreibt den Raum, während er läuft,
@@ -10956,11 +11736,125 @@ Menschen laut ein und will hören, ob es stimmt.
 *"Half of what I say on a terrace I say on purpose."* Wer sie geschwätzig
 schreibt, schreibt gegen Kapitel 11.
 
+**Dazu gemessen, 63 zugeordnete Repliken:**
+
+**63 Repliken, 756 Wörter, Ø 9,6.** Zählt Personen 13,2 und Minuten 5,3 -
+**die dichteste Personenzählerin nach Mrs Seo**, und das ist ihr Beruf: Sie
+kennt nicht Firmen, sie kennt, wer in ihnen sitzt.
+
+**Die Maschine: sie beantwortet die Frage und hängt den Preis der Antwort an.**
+Nicht Georgijs Preis am Ende einer Rechnung, sondern **die Rechnung, die sie
+selbst gerade aufgemacht hat**:
+
+> *"I am not complaining. I chose it at four o'clock. **I am telling you the
+> invoice so that you do not go home thinking it was free.**"*
+> *"You have had three hours of my Friday and you are about to have my December,
+> and I gave you both of them for reasons that are mine."*
+
+**Sie nennt den Betrag und lässt ihn stehen.** Das ist das Gegenteil von
+Großzügigkeit und das Gegenteil von Vorwurf: Es ist Buchführung zwischen
+Erwachsenen.
+
+**Das Anliegen.** Zwanzig Jahre lang die Frau, die weiß, wen man anruft, und
+die nie selbst am Tisch sitzt. Was sie will, ist einmal auf der Seite zu stehen,
+die entscheidet - *"I am not doing this out of affection for anybody at this
+table."*
+
+**Wie mit wem.** Zu Georgij vom ersten Satz an **direkt und ohne Umweg**:
+*"You've gone quiet."* · *"That's a beautiful answer, and it isn't one."* Sie
+ist die einzige Figur, die ihm eine Antwort **zurückgibt**. Zu Annie als
+Ebenbürtige, ohne Titel, mit zwanzig Jahren Bekanntschaft im Rücken.
+
+**Kontraktionen: 11,9 je 1000 Wörter** - dreimal Georgijs. Das ist ihr
+deutlichstes Erkennungszeichen und es steht schon im Text. Nicht wegreparieren.
+
+**Warm:** Sie mendet die Lampe über der Stufe, die seit zwei Jahren kaputt ist,
+und sagt dazu, was sie gekostet hat - *"eighty thousand won and a man on a
+ladder"* - und dass sie viermal hundert Mal darunter durchgegangen ist. **Der
+Gegenstand ist die Zuneigung, der Preis ist die Verlegenheit darüber.**
+
+**Unter Druck** wird sie **kürzer und grober**: *"Don't."* · *"I said all of
+it."*
+
+**Sie darf nicht:** die Negativ-Definition, den which-Satz, die Selbstdiagnose.
+**Sie darf:** ziehen zusammen, Menschen zählen, Preise nennen, und als Einzige
+Georgij unterbrechen.
+
+**Körper.** Sie dreht das Glas eine Vierteldrehung und stellt es ab. Sie sitzt
+zurück, wenn sie etwas hergibt.
+
+#### Ein Beispiel, unter Druck
+
+> "Don't." She turned the glass a quarter turn and left it. "You are about to
+> tell me it is not a favour. It's a favour. I've done four hundred of them and
+> I know what they look like from this side of the table." A beat. "Ask me for
+> the next one anyway."
+
+---
+
 ### Kim Ye-rin (17 Repliken)
 
 **Sie berichtigt, wer was hat.** Kurz, absolut, immer über Besitz und Stellung.
 *"Her brother has the title. She has the family."* Kein Wort über Gefühle, keine
 Frage, die sie nicht selbst beantwortet.
+
+**Dazu gemessen, aus Band 1, Kapitel 30 gelesen:**
+
+**Nur fünf getaggte Repliken - und ein ganzes Kapitel im bloßen Wechsel.**
+`stimmen.py` findet sie deshalb kaum; ihr Blatt ist aus Band 1, Kapitel 30
+gelesen und nicht gezählt.
+
+**Die Maschine: sie spricht nie zuerst aus sich selbst.** Sie kommt über
+Dritte - was man ihr gesagt hat, was ihr Bruder tut, was die meisten Männer
+täten:
+
+> *"They tell me you are hers."*
+> *"And that she paid a great deal."*
+> *"Most men would have found a way not to answer that."*
+> *"My brother's people have never found any of it."*
+
+**Sie misst den Menschen vor sich gegen eine Klasse**, nie gegen sich. Und die
+Umkehrung ist ihr stärkster Zug:
+
+> *"I read it twice on Saturday and once more last night, and I have decided
+> what I think about it, **and I am not going to tell you what that is**."*
+
+**Sie hält ihr Urteil zurück und sagt, dass sie es zurückhält.** Das ist Macht
+ohne Unterschrift - zwanzig Jahre lang genau das, was sie kann.
+
+**Das Anliegen.** Nicht der Anteil. **Einmal gefragt zu werden.** Elf Jahre
+lang hat ihr niemand geschrieben, man telefoniert mit ihrem Bruder. Die Karte
+ist der Grund, warum sie überhaupt auf der Terrasse steht.
+
+**Wie mit wem.** Zu Georgij: nackte Forderungen mit Punkt - *"How much."* ·
+*"Which six."* · *"How long did it take."* Kein Titel, kein Name. Über ihren
+Bruder redet sie in der dritten Person, auch wenn er im Haus ist.
+
+**Warm, und es ist die reinste Fassung der Regel im ganzen Buch:**
+
+> *"Twenty-two minutes. **I told my driver twenty**."*
+
+Zwei Minuten über dem eigenen Fahrplan, gesagt als Tatsache. Kein warmes Wort,
+keine Erklärung. **Das ist alles, was sie hergibt, und es ist sehr viel.**
+
+**Unter Druck** dreht sie sich **weg**, nicht hin: Sie steht mit dem Rücken zum
+Haus, geht vier Schritte am Geländer entlang, legt die Hand auf die Tür und
+öffnet sie nicht.
+
+**Sie darf nicht:** Kontraktionen, den which-Satz, die Und-Kette, jede Form von
+Selbsterklärung. **Sie darf:** die dritte Person für Anwesende, die nackte
+Forderung, und den Satz, der ihr Urteil ausdrücklich einbehält.
+
+**Körper.** Sie dreht sich nicht um. Wenn sie sich umdreht, ist das die Szene.
+
+#### Ein Beispiel, ruhig
+
+> "My brother's people looked at you for four days." She did not turn round.
+> "They came back with a price and a date and nothing else, and my brother was
+> satisfied with that." A pause of about four seconds. "I am not. Say the part
+> they did not find."
+
+---
 
 ### Mr Chae (14 Repliken)
 
@@ -10968,6 +11862,36 @@ Frage, die sie nicht selbst beantwortet.
 ist, schreibt die Antwort auf und stellt keine zweite Frage. Annie über ihn:
 *"Mr Chae will not be told why and he will not enjoy it."* **Das ist seine
 Charakterisierung und er weiß nichts davon.**
+
+**Dazu gemessen, sieben zugeordnete Repliken:**
+
+**7 Repliken, und er hatte kein Blatt.**
+
+**Die Maschine: er markiert die Grenze seiner eigenen Nachforschung, bevor
+jemand fragt.**
+
+> *"Before that there was a gap, **which I did not enquire into, and I am not
+> going to enquire into it now.**"*
+
+**Und er sagt ausdrücklich, was er nicht tut**, um Zeit zu sparen - nicht aus
+Höflichkeit: *"**I am not asking you.** I want to be precise about that, because
+you are going to be in a room with me again and it will save us both an
+afternoon."*
+
+**Achtung, Kollision mit Hwang.** Beide sind Verfahrensmänner, die benennen, was
+sie nicht tun werden. Die Trennung: **Hwang nimmt die Frage des anderen vorweg
+und beantwortet sie. Chae weist die Frage ab, die er nicht gestellt hat.** Der
+eine liefert mehr als verlangt, der andere weniger, und beide sagen dazu, warum.
+Ihre Autorität ist außerdem verschieden: Hwangs ist die Abwicklung, Chaes ist
+das Mandat.
+
+**Seine Wärme ist eine Verfügbarkeit mit Zeitangabe:** *"I would take that call,
+on a Sunday."*
+
+**Körper.** Er hat den Koffer und macht ihn zu, wenn er fertig ist - und die
+Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
+
+---
 
 ### Mr Kwon (14 Repliken)
 
@@ -11002,6 +11926,36 @@ etwas zu verteidigen gibt. *"I took money for a service that this house had been
 selling since before I sat down in that chair. I did what was done."* Sechsund-
 zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 
+**Dazu gemessen, elf zugeordnete Repliken:**
+
+**11 Repliken, 182 Wörter, und er hatte kein Blatt.** Er zählt Personen mit
+**22,0 je 1000 Wörtern - der höchste Wert im ganzen Buch**, weil er sich in
+einer Reihe von Menschen sieht.
+
+**Die Maschine: er verteidigt sich, indem er sich in eine Erbfolge stellt.**
+
+> *"I took money for a service that this house had been selling since before I
+> sat down in that chair, and I did what was done. I did not invent it. **The man
+> before me did it and the man before him.**"*
+
+**Er baut seine eigene Strafmilderung, während er redet**, und er sagt es
+ausdrücklich: *"I want that considered. **I want it taken into account that I am
+telling you and that I did not have to.**"*
+
+**Er zählt die Besucher.** *"You are the fourth one and I have told the other
+three everything I know."* Er weiß genau, an welcher Stelle er in einer Kette
+steht - von Vorgängern, von Befragern, von Jahren.
+
+**Das Anliegen:** dass jemand einmal fragt, wie es früher in dem Gebäude war.
+*"Do you know what that building was like when I started in it."* Niemand fragt
+ihn das, und er stellt die Frage selbst.
+
+**Er darf:** die Erbfolge, die Zählung der Besucher, die ausdrückliche Bitte um
+Anrechnung. **Er darf nicht:** eine moralische Rechtfertigung ohne Erbfolge -
+*"Nobody was hurt"* ist die Grenze, und weiter geht er nicht.
+
+---
+
 ### Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)
 
 **Der Amtston, und darunter nichts.** Beide reden in Zuständigkeiten. Do-yuns
@@ -11014,6 +11968,35 @@ Absicht** — sie sind das Milieu und keine Menschen, und das darf man hören.
 was looking at his own trucks and not at Georgij."* Seine Maschine: er beschreibt
 eine Lage über die Bewegung von Dingen. Wartezeiten, Ladereihenfolgen, wer wann
 fährt.
+
+### Mr Koh (Ladungsbesichtiger, zwei Zimmer über einem Schiffsausrüster)
+
+**6 Repliken, und er hatte kein Blatt.** Ein Mann, der in Laderäume steigt und
+unterschreibt, wem das Geld gehört.
+
+**Die Maschine: er beziffert, was ein Satz kostet, bevor er ihn sagt.**
+
+> *"I have not said that out loud to anybody. **Not to my wife. Not to the two
+> men I drink with. It is not a thing a man says.**"*
+
+Er sagt nicht, dass es ihm schwerfällt. **Er zählt auf, wem er es nicht gesagt
+hat** - und die Aufzählung ist die Schwierigkeit.
+
+**Und er schätzt den Besucher wie eine Ladung:** *"And you have come up two
+flights of stairs **with the date on you**."* Er liest Menschen, wie er Fracht
+liest: was sie mitbringen, steht ihnen an.
+
+**Seine eine Frage ist die eines Gutachters:** *"I asked because he had not been
+introduced. That is all."* Er registriert die Abweichung vom Verfahren, nicht
+die Person.
+
+**Er darf:** Aufzählungen von Verneinungen als Kostenrechnung, die Taxierung des
+Gegenübers, Kontraktionen. **Er darf nicht:** den which-Satz, Adjektive über
+Menschen, jede Selbsterklärung über sein Zögern.
+
+---
+
+---
 
 ### Die kleinen Rollen
 
@@ -11066,6 +12049,27 @@ sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
 
 ---
 
+## Die Kollisionsprobe, nach jedem neuen Blatt
+
+**Jedes Blatt für sich kann richtig sein, und zwei Figuren klingen trotzdem wie
+eine.** Das ist am 25.08. zweimal passiert und beide Male erst beim Gegenlesen
+aufgefallen:
+
+| Signatur | gehört | kollidiert mit | Trennung |
+|---|---|---|---|
+| Die Äußerung benoten | **Sang-hoon** | **Yeom** | Sang-hoon handelt nach der Note, Yeom sagt danach, warum er gefragt hat |
+| Benennen, was man nicht tun wird | **Hwang** | **Chae** | Hwang nimmt die Frage vorweg und liefert mehr, Chae weist sie ab und liefert weniger |
+| Durch Abwesende sprechen | **Ye-rin** (der Bruder) | **Mrs Gwak** (der Mann, Mr Han) | Ye-rin schiebt Verantwortung weg, Mrs Gwak holt sich Autorität |
+| Die Uhrzeit als Gefühl | **Jang** | **Mrs Bae** | Jang datiert seine Arbeit, Mrs Bae ihren Sinneswandel |
+
+**Die Regel:** Wer ein Blatt schreibt, hält seine Maschine gegen alle
+vorhandenen. Findet sich dieselbe, gehört die Trennung in **beide** Blätter, mit
+einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
+
+---
+
+---
+
 ## Die Probe
 
 **Name abdecken. Drei Zeilen lesen. Sprecher benennen.**
@@ -11097,18 +12101,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 732 | 80 (b1ch01-b2ch62) | 1 | 74 |
+| Annie | 738 | 81 (b1ch01-b2ch66) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 216 | 35 (b1ch07-b2ch63) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 137 | 32 (b1ch05-b2ch58) | 2 | 60 |
-| Mrs Seo | 90 | 40 (b1ch03-b2ch62) | 1 | 74 |
+| Jang | 137 | 33 (b1ch05-b2ch66) | 2 | 60 |
+| Mrs Seo | 91 | 41 (b1ch03-b2ch66) | 1 | 74 |
 | Mr Hwang | 72 | 15 (b2ch07-b2ch54) | 3 | 59 |
-| Sim | 67 | 12 (b2ch31-b2ch64) | 2 | 45 |
+| Sim | 68 | 13 (b2ch31-b2ch66) | 2 | 45 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Mr Yeo | 55 | 9 (b1ch05-b2ch55) | 5 | 46 |
+| Mrs Sunwoo | 53 | 17 (b1ch07-b2ch66) | 1 | 60 |
 | Mr Yeom | 51 | 7 (b2ch24-b2ch55) | 5 | 46 |
-| Mrs Sunwoo | 47 | 16 (b1ch07-b2ch65) | 1 | 60 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mr Ahn | 33 | 3 (b2ch56-b2ch63) | 18 | 29 |
@@ -11118,8 +12122,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
 | Mrs Bae | 29 | 7 (b2ch41-b2ch53) | 3 | 10 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
+| Choi Dae-ho | 26 | 16 (b1ch07-b2ch66) | 2 | 61 |
 | Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
-| Choi Dae-ho | 25 | 15 (b1ch07-b2ch62) | 2 | 61 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
@@ -11133,8 +12137,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
+| Mrs Ha | 4 | 1 (b2ch66) | 37 | 37 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
+| Moon Hae-sook | 2 | 1 (b2ch66) | 37 | 37 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
 | Mrs Uhm | 2 | 1 (b2ch17) | 8 | 8 |
 | Tae-min | 2 | 2 (b1ch05-b1ch22) | 6 | 55 |
@@ -11146,7 +12152,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-732 Nennungen in 80 Kapiteln.
+738 Nennungen in 81 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -11882,6 +12888,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch62:294 | Annie got up and went to the window, and stood with her back to the room. |
 | 27 | b2ch62:314 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
 | 27 | b2ch62:366 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
+| 37 | b2ch66:166 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
+| 37 | b2ch66:174 | Annie put the pen down. |
+| 37 | b2ch66:194 | Annie did not say anything for a moment. |
+| 37 | b2ch66:222 | Annie came round the desk and stood at the corner of it. |
+| 37 | b2ch66:262 | Annie stood at the corner of her desk for a while. |
+| 37 | b2ch66:290 | "There is one condition," said Annie. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -12086,6 +13098,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch62:174` (Tag 27) - thirty
 - `b2ch62:190` (Tag 27) - four hundred, thirty, two
 - `b2ch62:314` (Tag 27) - one
+- `b2ch66:290` (Tag 37) - one
 
 ---
 
@@ -13103,7 +14116,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-137 Nennungen in 32 Kapiteln.
+137 Nennungen in 33 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -13203,7 +14216,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
 | 3 | b2ch40:38 | "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij the sixteen d.. |
 | 3 | b2ch40:42 | "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, m.. |
-| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess.. |
+| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That's a guess .. |
 | 3 | b2ch40:74 | Jang put his finger on a second mark, further up the road. "There is a bus stop with a s.. |
 | 3 | b2ch40:82 | "That the place used to have a sign, years ago, and stopped having one. That the staff a.. |
 | 3 | b2ch40:94 | "He does not know an age. He said older, and he said it the way a man of seventy says ol.. |
@@ -13212,11 +14225,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:116 | "One. Whoever pays for that building pays for it to look exactly like what it is." Jang .. |
 | 3 | b2ch40:124 | "The third one is not mine to say in this room," said Jang. He waited, and Annie moved o.. |
 | 3 | b2ch40:136 | Jang put both hands flat on the desk, either side of the folded map. |
-| 3 | b2ch40:148 | "Then I am wrong, and you will have spent sixteen days of my time finding that out gentl.. |
 | 3 | b2ch40:152 | Georgij looked at the map, still folded, still in Jang's hands. |
 | 3 | b2ch40:160 | "Above the middle of it," said Jang. "Not anywhere near the top." He looked at the folde.. |
-| 3 | b2ch40:172 | "It is both," said Jang. "In this kind of work it is almost always both, and I have stop.. |
-| 3 | b2ch40:184 | "I was not going to ask," said Jang. |
+| 3 | b2ch40:172 | "It is both," said Jang. "In this kind of work it is almost always both. The second of t.. |
+| 3 | b2ch40:184 | "I wasn't going to ask, ma'am," said Jang. |
 | 3 | b2ch40:200 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:204 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:254 | Then he turned to Jang, who had sat through all of it with the folded map in both hands... |
@@ -13244,6 +14256,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:34 | "I have had three weeks and I have an answer, and it is not the one you asked me for." G.. |
 | 2 | b2ch48:74 | "That is what Jang said, in those words, and he made me repeat it back to him before he .. |
 | 22 | b2ch58:130 | Then he got the July folder out, and the June one, and Jang's second report, and put the.. |
+| 37 | b2ch66:298 | "Jang goes with you to Mapo and sits in the car, and I am not discussing it, and you are.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -13297,7 +14310,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch40:108` (Tag 3) - eleven, sixteen, ten, three
 - `b2ch40:116` (Tag 3) - one, two
 - `b2ch40:124` (Tag 3) - one
-- `b2ch40:148` (Tag 3) - sixteen
+- `b2ch40:172` (Tag 3) - two
 - `b2ch40:254` (Tag 3) - two
 - `b2ch40:286` (Tag 3) - thirty
 - `b2ch40:314` (Tag 3) - one
@@ -13321,7 +14334,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-90 Nennungen in 40 Kapiteln.
+91 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -13390,10 +14403,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:110 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
 | 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
-| 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
+| 46 | b2ch34:234 | "Good," said Mrs Seo. "It's easier to run a house for people who do not tell me things t.. |
 | 47 | b2ch35:478 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
-| 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
+| 57 | b2ch37:300 | "Yes," said Mrs Seo. "It's also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
 | 5 | b2ch46:214 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
 | 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
@@ -13415,6 +14428,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:46 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
 | 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
 | 27 | b2ch62:350 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
+| 37 | b2ch66:144 | He sat with that from about seven until Mrs Seo came past at twenty to eight and told hi.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -13431,7 +14445,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch06:6` (Tag 22) - nine
 - `b1ch06:18` (Tag 22) - seven, six
 - `b1ch06:160` (Tag 22) - six, twenty
-- `b1ch06:166` (Tag 22) - nine, one
+- `b1ch06:166` (Tag 22) - nine
 - `b1ch12:8` (Tag 23) - four, nine
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch15:22` (Tag 41) - one, three
@@ -13471,6 +14485,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch61:18` (Tag 27) - nine, one
 - `b2ch61:46` (Tag 27) - seventy-eight
 - `b2ch62:18` (Tag 27) - six, ten
+- `b2ch66:144` (Tag 37) - eight, forty, seven, twenty
 
 ---
 
@@ -13594,7 +14609,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-67 Nennungen in 12 Kapiteln.
+68 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -13665,6 +14680,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:382 | "I think it means she heard it." Sim looked up at last, and his face had not changed at .. |
 | 31 | b2ch64:390 | "There is one more thing," said Sim, "and you will not like it." |
 | 31 | b2ch64:418 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
+| 37 | b2ch66:42 | *Sim has been putting flowers in a house twice a year for eleven years. April, because i.. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -13698,6 +14714,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:370` (Tag 31) - four, nineteen
 - `b2ch64:382` (Tag 31) - four
 - `b2ch64:390` (Tag 31) - one
+- `b2ch66:42` (Tag 37) - eleven
 
 ---
 
@@ -13886,6 +14903,99 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Sunwoo
+
+53 Nennungen in 17 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
+| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
+| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
+| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
+| 16 | b2ch55:68 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
+| 36 | b2ch65:10 | "Five months," said Mrs Sunwoo. |
+| 36 | b2ch65:34 | Mrs Sunwoo did not move at all. |
+| 36 | b2ch65:54 | "Then say the part you came for," said Mrs Sunwoo. |
+| 36 | b2ch65:78 | Mrs Sunwoo sat with that for a while. |
+| 36 | b2ch65:102 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
+| 36 | b2ch65:134 | "Now my turn," said Mrs Sunwoo. |
+| 36 | b2ch65:170 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
+| 36 | b2ch65:206 | "There was no story," said Mrs Sunwoo. |
+| 36 | b2ch65:234 | "All four, and two of them were women who have never changed a subject in their lives." .. |
+| 36 | b2ch65:262 | "To whom." Mrs Sunwoo said it without any self-pity. "I am a woman who buys porcelain. I.. |
+| 36 | b2ch65:294 | Mrs Sunwoo looked at him for a long moment. |
+| 36 | b2ch65:330 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
+| 37 | b2ch66:34 | Her father's firm made fittings for ships and sold up in the nineties. Her mother was at.. |
+| 37 | b2ch66:54 | Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at .. |
+| 37 | b2ch66:62 | They were withdrawn in the second week of March, by a card. It gave no reason and did no.. |
+| 37 | b2ch66:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
+| 37 | b2ch66:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
+| 37 | b2ch66:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+- `b2ch16:12` (Tag 6) - twenty
+- `b2ch19:32` (Tag 11) - three
+- `b2ch20:34` (Tag 11) - three
+- `b2ch22:60` (Tag 17) - one
+- `b2ch22:114` (Tag 17) - four, one
+- `b2ch22:150` (Tag 17) - eleven
+- `b2ch22:292` (Tag 17) - eighty-one, one, three
+- `b2ch23:84` (Tag 24) - three
+- `b2ch23:122` (Tag 24) - four, two
+- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
+- `b2ch55:68` (Tag 16) - forty
+- `b2ch65:10` (Tag 36) - five
+- `b2ch65:234` (Tag 36) - forty-one, four, one, two
+- `b2ch66:34` (Tag 37) - thirty
+- `b2ch66:54` (Tag 37) - eleven, one
+- `b2ch66:62` (Tag 37) - eleven
+- `b2ch66:96` (Tag 37) - nine
+- `b2ch66:112` (Tag 37) - nine, twenty
+
+---
+
 ### Mr Yeom
 
 51 Nennungen in 7 Kapiteln.
@@ -13967,88 +15077,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:142` (Tag 16) - four, seven
-
----
-
-### Mrs Sunwoo
-
-47 Nennungen in 16 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch09:212 | "Sunwoo." |
-| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
-| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
-| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
-| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
-| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
-| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
-| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
-| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
-| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
-| 16 | b2ch55:68 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
-| 36 | b2ch65:10 | "Five months," said Mrs Sunwoo. |
-| 36 | b2ch65:34 | Mrs Sunwoo did not move at all. |
-| 36 | b2ch65:54 | "Then say the part you came for," said Mrs Sunwoo. |
-| 36 | b2ch65:78 | Mrs Sunwoo sat with that for a while. |
-| 36 | b2ch65:102 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
-| 36 | b2ch65:134 | "Now my turn," said Mrs Sunwoo. |
-| 36 | b2ch65:170 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
-| 36 | b2ch65:206 | "There was no story," said Mrs Sunwoo. |
-| 36 | b2ch65:234 | "All four, and two of them were women who have never changed a subject in their lives." .. |
-| 36 | b2ch65:262 | "To whom." Mrs Sunwoo said it without any self-pity. "I am a woman who buys porcelain. I.. |
-| 36 | b2ch65:294 | Mrs Sunwoo looked at him for a long moment. |
-| 36 | b2ch65:330 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch09:214` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:82` (Tag 3) - one
-- `b2ch10:100` (Tag 3) - forty-one
-- `b2ch10:186` (Tag 3) - one
-- `b2ch10:274` (Tag 3) - one
-- `b2ch15:38` (Tag 4) - one
-- `b2ch16:12` (Tag 6) - twenty
-- `b2ch19:32` (Tag 11) - three
-- `b2ch20:34` (Tag 11) - three
-- `b2ch22:60` (Tag 17) - one
-- `b2ch22:114` (Tag 17) - four, one
-- `b2ch22:150` (Tag 17) - eleven
-- `b2ch22:292` (Tag 17) - eighty-one, one, three
-- `b2ch23:84` (Tag 24) - three
-- `b2ch23:122` (Tag 24) - four, two
-- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
-- `b2ch55:68` (Tag 16) - forty
-- `b2ch65:10` (Tag 36) - five
-- `b2ch65:234` (Tag 36) - forty-one, four, one, two
 
 ---
 
@@ -14590,6 +15618,60 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Choi Dae-ho
+
+26 Nennungen in 16 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
+| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
+| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
+| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
+| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
+| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
+| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
+| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
+| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
+| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
+| 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
+| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
+| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
+| 5 | b2ch43:234 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
+| 5 | b2ch43:286 | "Say where that would be, for a man like Choi." |
+| 10 | b2ch47:188 | "He has not told Choi Dae-ho," he said slowly. |
+| 2 | b2ch48:206 | "And if he goes to Choi Dae-ho the same afternoon." |
+| 25 | b2ch60:58 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
+| 25 | b2ch60:66 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
+| 27 | b2ch61:94 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
+| 27 | b2ch62:238 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
+| 37 | b2ch66:190 | "And if the arrangement still holds, she will telephone somebody, and inside a day Choi .. |
+
+### Zahlen in der Naehe von Choi Dae-ho
+
+- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
+- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
+- `b2ch26:198` (Tag 38) - fifty-nine
+- `b2ch33:50` (Tag 45) - four, one, two
+- `b2ch34:42` (Tag 46) - four, one, six, two
+- `b2ch36:12` (Tag 51) - four, one
+- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
+- `b2ch36:136` (Tag 51) - three
+- `b2ch39:136` (Tag 61) - one
+- `b2ch39:286` (Tag 61) - eleven, four, one
+- `b2ch43:18` (Tag 5) - one
+- `b2ch43:234` (Tag 5) - one, six
+- `b2ch60:58` (Tag 25) - eleven, hundred and forty
+- `b2ch60:66` (Tag 25) - five
+- `b2ch61:94` (Tag 27) - eleven, one, two thousand and two
+- `b2ch66:190` (Tag 37) - eleven
+
+---
+
 ### Mr Baek
 
 26 Nennungen in 10 Kapiteln.
@@ -14642,58 +15724,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:82` (Tag 22) - eight, one
 - `b2ch58:302` (Tag 22) - one
 - `b2ch59:294` (Tag 22) - eleven
-
----
-
-### Choi Dae-ho
-
-25 Nennungen in 15 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:278 | "And Choi Dae-ho," said Mr Hong. "Who is not here, and who will know your name by Tuesda.. |
-| 22 | b1ch07:294 | Choi Dae-ho was not on the ninety-one and not on the four hundred and thirty. A man does.. |
-| 56 | b2ch03:40 | He had done this once before, in his first fortnight, for a charity gala with eight hund.. |
-| 38 | b2ch26:184 | "Choi Dae-ho," he said. |
-| 38 | b2ch26:198 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
-| 45 | b2ch33:50 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
-| 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
-| 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
-| 51 | b2ch36:12 | *"He is not a financier. He does not own anything."* Hong had been right about that, and.. |
-| 51 | b2ch36:60 | Eleven names in a column, and against each one a single line. A firm that lost a licence.. |
-| 51 | b2ch36:136 | "Outside Wonju. It does not put names on the door and it will not confirm anyone by tele.. |
-| 61 | b2ch39:136 | That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho t.. |
-| 61 | b2ch39:286 | "The one who was not Choi ate his dinner, complimented the wine, asked what went into th.. |
-| 5 | b2ch41:256 | Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and.. |
-| 5 | b2ch43:18 | He had already found Y in it, a fortnight ago, sitting at a table with a companion who a.. |
-| 5 | b2ch43:234 | "That was the dinner where Choi asked me to move a shipment through my own name with no .. |
-| 5 | b2ch43:286 | "Say where that would be, for a man like Choi." |
-| 10 | b2ch47:188 | "He has not told Choi Dae-ho," he said slowly. |
-| 2 | b2ch48:206 | "And if he goes to Choi Dae-ho the same afternoon." |
-| 25 | b2ch60:58 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
-| 25 | b2ch60:66 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
-| 27 | b2ch61:94 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
-| 27 | b2ch62:238 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
-
-### Zahlen in der Naehe von Choi Dae-ho
-
-- `b1ch07:294` (Tag 22) - four hundred and thirty, ninety-one, one
-- `b2ch03:40` (Tag 56) - eight hundred, four hundred and thirty
-- `b2ch26:198` (Tag 38) - fifty-nine
-- `b2ch33:50` (Tag 45) - four, one, two
-- `b2ch34:42` (Tag 46) - four, one, six, two
-- `b2ch36:12` (Tag 51) - four, one
-- `b2ch36:60` (Tag 51) - eleven, four, one, thirty
-- `b2ch36:136` (Tag 51) - three
-- `b2ch39:136` (Tag 61) - one
-- `b2ch39:286` (Tag 61) - eleven, four, one
-- `b2ch43:18` (Tag 5) - one
-- `b2ch43:234` (Tag 5) - one, six
-- `b2ch60:58` (Tag 25) - eleven, hundred and forty
-- `b2ch60:66` (Tag 25) - five
-- `b2ch61:94` (Tag 27) - eleven, one, two thousand and two
 
 ---
 
@@ -15105,6 +16135,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Ha
+
+4 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:100 | The fourth is a woman called Mrs Ha. |
+| 37 | b2ch66:104 | Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty ye.. |
+| 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
+| 37 | b2ch66:306 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
+
+### Zahlen in der Naehe von Mrs Ha
+
+- `b2ch66:104` (Tag 37) - four hundred, thirty
+- `b2ch66:138` (Tag 37) - eleven
+- `b2ch66:306` (Tag 37) - eleven, one
+
+---
+
 ### Mrs Jeon Mi-ja
 
 4 Nennungen in 3 Kapiteln.
@@ -15137,6 +16186,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch09:60` (Tag 22) - two
 - `b1ch09:72` (Tag 22) - two
+
+---
+
+### Moon Hae-sook
+
+2 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:30 | Moon Hae-sook. |
+| 37 | b2ch66:320 | *Nobody has looked at Moon Hae-sook for eleven years except the man who pays for her.* |
+
+### Zahlen in der Naehe von Moon Hae-sook
+
+- `b2ch66:320` (Tag 37) - eleven
 
 ---
 

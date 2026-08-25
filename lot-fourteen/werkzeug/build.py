@@ -262,6 +262,8 @@ FIGURES = {
     "Mr Sohn": [r"Mr Sohn", r"\bSohn\b"],
     "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho"],
     "Mrs Jeon Mi-ja": [r"Jeon Mi-ja", r"Mi-ja"],
+    "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
+    "Mrs Ha": [r"Mrs Ha"],
 }
 
 DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")

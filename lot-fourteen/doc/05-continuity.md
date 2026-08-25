@@ -2838,6 +2838,51 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     **Er muss in Kapitel 66 oder 67 fallen.**
 
 
+- **Band 2, Kapitel 66** *What silence costs* (v1.0) - **Tag 334, Mi 2. September. Der zweite Name faellt, und er entscheidet, sichtbar zu werden.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **NEUER KANON, Name: die Frau am Sauerstoff heisst Moon Hae-sook.** Vaters
+    Firma machte Schiffsbeschlaege und wurde in den Neunzigern verkauft. **Die
+    Mutter starb im Oktober** - das ist der Grund fuer Sims Oktoberblumen, und Sim
+    weiss es bis heute nicht.
+  - **Woraus folgt, und es steht im Text:** wer Sim vor elf Jahren beide Daten in
+    einem Brief gab, kannte den Monat ihrer Mutter. Den kannte niemand ausserhalb
+    der Familie. **Er war in diesem Haus.**
+  - **Die Hochzeit:** zweite Aprilwoche, elf Tische, Einladungen erste
+    Februarwoche, **zurueckgezogen in der zweiten Maerzwoche per Karte**, elf
+    Woerter, ohne Grund und ohne Entschuldigung: *"We are grateful for your
+    kindness and ask for your understanding."* Georgijs Befund: das ist kein
+    Familiensatz, das ist die Formulierung eines Mannes. Kuerzestmoeglich und
+    unbeantwortbar.
+  - **Die vier, die geschwiegen haben** (aus Mrs Sunwoos neun Jahre alten Seiten):
+    einer tot, einer seit dem Folgejahr in Vancouver, eine hat noch alles und zwei
+    Dinge mehr - **und Mrs Ha**, die dreissig Jahre Blumen und Waesche in Saele
+    geliefert hat, diese Hochzeit gemacht hat und ihr Geschaeft **vor vier Jahren
+    verloren** hat.
+  - **Georgijs Regel dazu:** was vier Menschen gleichzeitig zum Schweigen bringt
+    und elf Jahre haelt, ist ein Druckmittel, und ein Druckmittel ist etwas, das
+    ein Mensch **hat**. Wer nichts mehr hat, ist nicht mehr gebunden. Und niemand
+    ist in vier Jahren nachsehen gegangen.
+  - **DIE ENTSCHEIDUNG, und sie kippt den Band:** er geht am **Freitag, 4.
+    September, gegen elf Uhr, nach Mapo** zu Mrs Im, und er weiss vorher, dass sie
+    telefonieren wird. *"That is not a risk I am accepting. It is the outcome I am
+    choosing."* Alle drei Tueren fuehren dazu, dass Choi es erfaehrt - ueber das
+    Geld (dann verlegt er sie), ueber ein Dokument (dann weiss er nicht, wer es
+    hat), oder ueber einen Mann mit einer Frage (dann weiss er alles und kann am
+    wenigsten). **Ein vorsichtiger Mann verschwindet korrekt. Ein sicherer Mann
+    hoert auf herauszufinden und faengt an zu entscheiden.**
+  - Annie stoppt ihn nicht und laesst den Grund zu Protokoll geben, in zwei
+    Teilen, und der zweite ist, dass sie den Fehler gesucht und nicht gefunden
+    hat. **Ihre einzige Bedingung: Jang sitzt im Wagen.** *"He has been in a
+    lay-by since June. He can have a street."*
+  - Sie hiess beim Schreiben zuerst **Mrs Im** und wurde noch am selben Tag zu
+    **Mrs Ha**, weil es im Haushalt bereits einen **Mr Im** gibt (`doc/03-cast.md`,
+    Band 1, Wartungsrota).
+  - **Faellig: Mrs Ha, Mrs Sunwoos vier und Moon Hae-sook gehoeren in
+    `doc/03-cast.md`, und Mrs Ha braucht ein Blatt in `doc/12-stimmen.md`, bevor
+    Kapitel 67 sie sprechen laesst.**
+
+
 ---
 
 ## Der Juli ist betreten
