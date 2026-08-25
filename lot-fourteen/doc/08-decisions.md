@@ -8,7 +8,7 @@ vier Dateien lokalen Muells. Jetzt:
 
 | | |
 |---|---|
-| `werkzeug/` | `build.py`, `check.py`, `reader.py`, `zuschreibung.py` |
+| `werkzeug/` | `build.py`, `check.py`, `reader.py`, `zuschreibung.py`, `stimmen.py`, `belege.py`, `faktenspur.py` (die letzten drei kamen am 25.08. dazu) |
 | `erzeugt/` | `HANDBUCH.md`, `BEGEGNUNGEN.md`, `MANIFEST.txt` |
 | `doc/00-readme.md` | war `README.md` |
 | geloescht | `live.txt`, `chapters_live.txt`, `chapters-2_live.txt`, `__pycache__/` (nie verfolgt) |
@@ -37,6 +37,62 @@ sowohl die zwei Aufrufe als auch die Liste der zurueckzuschreibenden Dateien.
 ---
 
 Damit nichts zweimal verhandelt wird und Gestrichenes nicht durch Zufall zurueckkommt.
+
+---
+
+## Das Ziel von Band 2 ist ausgewechselt, 25.08.
+
+**Vom Autor entschieden, und es ist die groesste Entscheidung des Tages.** Sie
+stand bis zum Dokumentendurchgang nur in `doc/07-next.md` - **und genau deshalb
+hat das alte Ziel dort achthundert Zeilen weiter unten unveraendert als Kanon
+weitergestanden.** Ein Ziel, das nirgends als Entscheidung gefuehrt wird, hat
+nichts, was auf es zeigt, wenn es sich aendert. Deshalb steht es jetzt hier.
+
+| | |
+|---|---|
+| **Alt, bis 25.08.** | *Dass die Zeile nicht gegen sie verwendbar ist* |
+| **Neu, ab 25.08.** | **Choi Dae-ho hat am Ende nichts. Niemand geht an sein Telefon. Niemand isst mit ihm.** |
+
+**Die Begruendung ist eine Handwerksregel und keine Geschmacksfrage.** `doc/01-craft.md`
+Abschnitt 2i sagt seit Kapitel 11: ein Ziel ist ein Zustand, den man
+**herstellt**; wer auf eine **Gefahr** hinarbeitet, bekommt einen bestimmten
+Bogen, *jedes Mal, unvermeidlich*. Die Regel stand da, das Ziel wurde nie
+geaendert, und die vorhergesagte Folge ist eingetreten: Kapitel 26 bis 45 sind
+eine einzige Ermittlung, ab 35 stehen elf Kapitel lang drei Menschen im Buch,
+und Georgij laechelt in 46 Kapiteln kein einziges Mal.
+
+**Was daraus folgt und leicht uebersehen wird:** Choi war in der Tabelle
+*Gegner, Gegenstand, Ziel* als **Gegner** gefuehrt, der Nam die Waffe gibt.
+**Er ist jetzt das Ziel.** Fuer Nam und den Sanierer stimmt die Zeile weiter.
+
+**Die Probe fuer jedes geplante Kapitel:** *bringt es Choi einen Anruf naeher an
+niemanden?*
+
+---
+
+## Geburtstage werden nicht mehr geparkt, 25.08.
+
+**Aus der Not entschieden, nicht aus Ueberzeugung.** Das Verfahren war: alle
+erfundenen Geburtstage in die unerzaehlte Strecke Juli bis September legen,
+damit jede Figur ueber beide Baende genau **eine** Altersangabe hat. Das hat
+getragen, solange diese Strecke unerzaehlt war.
+
+**Sie ist es nicht mehr.** Band 2 stand am Morgen des 25.08. bei Kapitel 65 und
+dem 1. September, am Abend bei Kapitel 69 und dem 9. September, und **Tag 366
+ist der 4. Oktober** - der Jahrestag der Auktion, auf den das Buch sichtbar
+zulaeuft. Vier Alter standen an einem Tag gegen ihren eigenen Geburtstag: Yeom,
+Woo, Mrs Sunwoo und Annie.
+
+**Ab jetzt gilt die Spalte *Geburtstag* als Datum und nicht als Parkposition:**
+ab diesem Tag ist die Figur ein Jahr aelter, und `doc/05-continuity.md` sagt es
+in der Tabelle. Neue Figuren bekommen ihren Geburtstag weiterhin hinter der
+Erzaehlfront, damit ihre Zahl bis dahin stillsteht.
+
+**Der Fall, an dem es haengt, ist geprueft und harmlos:** Georgij wird an Tag
+344, dem 12. September, **siebenundzwanzig**. Seine Sechsundzwanzig steht im
+ganzen Buch nur zweimal, und beide Male ist es der Katalog vom 4. Oktober -
+*"Lot fourteen. Male, twenty-six."* und der Widerhall in Kapitel 2. Datierte
+Papiere, keine laufende Altersangabe. **Kein Satz muss umgeschrieben werden.**
 
 ---
 
