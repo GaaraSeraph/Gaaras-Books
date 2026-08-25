@@ -97,15 +97,18 @@ wird.**
 - [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
 - [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
 - [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
-- [OFFEN] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · —
+- [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig offen · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
+- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig offen · "You will be told, and you will not be told the comfortable part of it." · —
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig offen · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
-- [OFFEN] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen - die einzige der vier Tatsachen, die nur in eine Richtung geht · —
+- [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
 - [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · —
-- [OFFEN] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · —
+- [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —

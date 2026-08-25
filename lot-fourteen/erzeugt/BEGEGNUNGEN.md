@@ -18,21 +18,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 775 | 85 (b1ch01-b2ch72) | 1 | 74 |
+| Annie | 794 | 86 (b1ch01-b2ch74) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 224 | 36 (b1ch07-b2ch69) | 1 | 74 |
+| Chairman Woo | 225 | 37 (b1ch07-b2ch74) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 143 | 34 (b1ch05-b2ch67) | 2 | 60 |
-| Sim | 106 | 16 (b2ch31-b2ch73) | 2 | 50 |
+| Jang | 144 | 35 (b1ch05-b2ch74) | 2 | 60 |
+| Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
 | Mrs Seo | 95 | 43 (b1ch03-b2ch72) | 1 | 74 |
 | Mrs Jeon | 78 | 18 (b2ch06-b2ch71) | 2 | 59 |
+| Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
-| Mr Ahn | 72 | 6 (b2ch56-b2ch73) | 18 | 50 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
 | Mrs Sunwoo | 52 | 17 (b1ch07-b2ch66) | 1 | 60 |
+| Mr Kwon | 45 | 7 (b2ch14-b2ch74) | 4 | 53 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
-| Mr Kwon | 44 | 6 (b2ch14-b2ch69) | 4 | 44 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-775 Nennungen in 85 Kapiteln.
+794 Nennungen in 86 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -848,6 +848,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:394 | Annie put her hand down into his hair and left it there, and he could not have said afte.. |
 | 49 | b2ch72:418 | "She knows exactly what she moved," said Annie. "She does not know who is standing on th.. |
 | 49 | b2ch72:458 | Annie looked at him for slightly longer than she needed to. |
+| 53 | b2ch74:154 | "Say the whole of it and do not sort it for me," said Annie. |
+| 53 | b2ch74:166 | "And say which of the two you believe," said Annie. |
+| 53 | b2ch74:182 | Annie looked at him for slightly longer than she needed to. |
+| 53 | b2ch74:194 | "Now the part you have been carrying since Tuesday and have not put on my desk," said An.. |
+| 53 | b2ch74:218 | "Then get the dates out and put them next to each other," said Annie, "because you have .. |
+| 53 | b2ch74:254 | "You did not cause November," said Annie. "You have wanted to for four days, because a m.. |
+| 53 | b2ch74:278 | Annie went back to the desk and sat down. |
+| 53 | b2ch74:286 | "I have been building this against a house that finishes at Christmas and a man to deal .. |
+| 53 | b2ch74:302 | "Two things I like and one I have promised somebody else," said Annie. "I will say which.. |
+| 53 | b2ch74:314 | Annie did not move at all. |
+| 53 | b2ch74:326 | "No," said Annie. |
+| 53 | b2ch74:350 | "And it is worse than the first," said Annie. "The first one is using a man. The second .. |
+| 53 | b2ch74:366 | "That is either true on the seventeenth of November or it was never true and I was arran.. |
+| 53 | b2ch74:374 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
+| 53 | b2ch74:394 | "It is not about your safety." Annie held his eye. "You are known. On the fourth of Sept.. |
+| 53 | b2ch74:426 | "You have a woman going to Gwangyang on the first of October and you have told her you w.. |
+| 53 | b2ch74:442 | "Now say the thing I have not asked you for," said Annie. |
+| 53 | b2ch74:462 | "I know what he does. I have known that since March." Annie looked straight at him. "I h.. |
+| 53 | b2ch74:478 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1061,6 +1080,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch71:22` (Tag 45) - six
 - `b2ch71:82` (Tag 45) - four
 - `b2ch72:418` (Tag 49) - one
+- `b2ch74:166` (Tag 53) - two
+- `b2ch74:254` (Tag 53) - four
+- `b2ch74:286` (Tag 53) - six
+- `b2ch74:302` (Tag 53) - one, two
+- `b2ch74:350` (Tag 53) - one
+- `b2ch74:366` (Tag 53) - one
+- `b2ch74:374` (Tag 53) - five
+- `b2ch74:426` (Tag 53) - six, twenty
+- `b2ch74:478` (Tag 53) - twenty, twenty-five
 
 ---
 
@@ -1477,7 +1505,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-224 Nennungen in 36 Kapiteln.
+225 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1705,6 +1733,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:130 | *She got nothing. Woo got five customers on seven years and a very good afternoon, and I.. |
 | 44 | b2ch69:344 | *On the third of April I told her the lane would be hers, and she asked me what she got .. |
 | 44 | b2ch69:372 | "You have had none of it. You have had a very good afternoon for Chairman Woo and five h.. |
+| 53 | b2ch74:478 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1844,6 +1873,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:130` (Tag 44) - five, seven
 - `b2ch69:344` (Tag 44) - five, one
 - `b2ch69:372` (Tag 44) - five, one
+- `b2ch74:478` (Tag 53) - twenty, twenty-five
 
 ---
 
@@ -2093,7 +2123,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-143 Nennungen in 34 Kapiteln.
+144 Nennungen in 35 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2240,6 +2270,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:266 | "Well," said Jang. |
 | 39 | b2ch67:276 | Jang started the car. |
 | 39 | b2ch67:288 | Jang did not say anything, because he had never been given the name. |
+| 53 | b2ch74:374 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2314,12 +2345,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:98` (Tag 22) - one
 - `b2ch67:6` (Tag 39) - forty, two
 - `b2ch67:264` (Tag 39) - eleven, twelve
+- `b2ch74:374` (Tag 53) - five
 
 ---
 
 ## Sim
 
-106 Nennungen in 16 Kapiteln.
+116 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2429,6 +2461,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:274 | "There is one more thing and it is mine and not hers," said Sim. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
+| 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
+| 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
+| 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
+| 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |
+| 51 | b2ch74:74 | "The shortest of the sixteen was four minutes and about ten seconds, and that was the se.. |
+| 51 | b2ch74:102 | "There is a second half and you have not asked for it," said Sim, "and I am going to giv.. |
+| 51 | b2ch74:118 | "I did not put it in on Monday because I did not know it was a thing." Sim said it witho.. |
+| 51 | b2ch74:126 | Sim stood up and put the cup and the saucer on the tray, which nobody had asked him to do. |
+| 53 | b2ch74:162 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
+| 53 | b2ch74:402 | "Three things and they are all small and they are all yours." She counted on nothing. "S.. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -2485,6 +2527,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:274` (Tag 49) - one
 - `b2ch72:306` (Tag 49) - one
 - `b2ch73:420` (Tag 50) - six, thirty
+- `b2ch74:66` (Tag 51) - thirty
+- `b2ch74:74` (Tag 51) - eleven, four, one, six, sixteen, ten
+- `b2ch74:102` (Tag 51) - two
+- `b2ch74:118` (Tag 51) - four, sixteen
+- `b2ch74:162` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
+- `b2ch74:402` (Tag 53) - three, twenty
 
 ---
 
@@ -2773,6 +2821,120 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Ahn
+
+74 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 18 | b2ch56:48 | Mr Ahn sat down on the stool behind the bench, slowly, the way a man sits when his legs .. |
+| 18 | b2ch56:64 | Mr Ahn looked at him for a long moment. |
+| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
+| 18 | b2ch56:104 | The story is not long and Mr Ahn did not decorate any of it, and Georgij understood abou.. |
+| 18 | b2ch56:112 | A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippin.. |
+| 18 | b2ch56:114 | "Sixty-one million and four hundred thousand," said Mr Ahn. |
+| 18 | b2ch56:130 | "To the won," said Mr Ahn. "There's nothing on top of it. Not one won." He pulled the dr.. |
+| 18 | b2ch56:174 | "Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down .. |
+| 18 | b2ch56:180 | "Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved t.. |
+| 18 | b2ch56:190 | Mr Ahn did not answer straight away. |
+| 18 | b2ch56:202 | "Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot numbe.. |
+| 18 | b2ch56:228 | "So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the r.. |
+| 18 | b2ch56:278 | Mr Ahn stood up from the stool and did not come round the bench. |
+| 18 | b2ch56:294 | Mr Ahn put one hand on the bench. |
+| 18 | b2ch56:302 | At the door there was one more thing, and it was Mr Ahn who did it. |
+| 18 | b2ch56:312 | "You have stood in my shop for twenty minutes and you have not once told me a lie and yo.. |
+| 25 | b2ch60:68 | *Mr Ahn sat in a shop on a corner for four years with his sister's name in his mouth, on.. |
+| 29 | b2ch63:20 | The bell went and Mr Ahn looked up and did not stand. |
+| 29 | b2ch63:36 | "Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the clot.. |
+| 29 | b2ch63:50 | Mr Ahn did not move at all. |
+| 29 | b2ch63:62 | Mr Ahn put both hands flat on the bench either side of the pump. |
+| 29 | b2ch63:80 | Mr Ahn looked at the pump. |
+| 29 | b2ch63:88 | "The second thing," said Mr Ahn. "You said four." |
+| 29 | b2ch63:96 | "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first plea.. |
+| 29 | b2ch63:110 | Mr Ahn had gone very still. |
+| 29 | b2ch63:124 | "That's the cruellest thing anybody's said to me in four years," said Mr Ahn. |
+| 29 | b2ch63:134 | "Then what's the fourth," said Mr Ahn. |
+| 29 | b2ch63:140 | Mr Ahn understood it before the end. |
+| 29 | b2ch63:156 | Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again. |
+| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 29 | b2ch63:194 | "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle pla.. |
+| 29 | b2ch63:204 | "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any p.. |
+| 29 | b2ch63:214 | Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was.. |
+| 29 | b2ch63:234 | Mr Ahn looked at him. |
+| 29 | b2ch63:244 | "How long," said Mr Ahn. |
+| 44 | b2ch69:468 | "Mr Ahn," said Annie. "You went up a hill and you took nothing off him and you were righ.. |
+| 45 | b2ch70:14 | The bell went and Mr Ahn looked up and put the screwdriver down before he had finished t.. |
+| 45 | b2ch70:38 | Mr Ahn stood absolutely still with the cloth in his hand. |
+| 45 | b2ch70:66 | Mr Ahn put the cloth down on the bench and put both hands on the edge of it. |
+| 45 | b2ch70:94 | "It's one thing. She always said one thing four ways when she couldn't say it once." Mr .. |
+| 45 | b2ch70:110 | Mr Ahn's hands stopped. |
+| 45 | b2ch70:142 | Mr Ahn looked at him. |
+| 45 | b2ch70:174 | Mr Ahn wiped his hands, which did not need doing. |
+| 45 | b2ch70:186 | "You came up that hill in July and took nothing off me. Then you came in August and took.. |
+| 45 | b2ch70:206 | "No. And that's your business and I'm not owed it." Mr Ahn turned the fan housing a quar.. |
+| 45 | b2ch70:226 | "You want me to ask you something so you've got a job." Mr Ahn almost got something out .. |
+| 45 | b2ch70:234 | "Hold that," said Mr Ahn. |
+| 45 | b2ch70:246 | Mr Ahn talked, on and off, and none of it was about his sister. |
+| 45 | b2ch70:278 | At the end Mr Ahn took the housing off him and set it on the bench and looked at it rath.. |
+| 45 | b2ch70:302 | "No. It's mine. I've had it since we shared a flat and she used to sit in front of it in.. |
+| 45 | b2ch70:322 | Mr Ahn nodded once. |
+| 45 | b2ch70:338 | Mr Ahn did not say anything for a long moment. |
+| 50 | b2ch73:18 | "Tuesday," said Mr Ahn. |
+| 50 | b2ch73:38 | Mr Ahn looked at him for about two seconds and then put both hands on the edge of it. |
+| 50 | b2ch73:58 | Mr Ahn did not move at all. |
+| 50 | b2ch73:78 | "Say what the man on the telephone made of it," said Mr Ahn. |
+| 50 | b2ch73:94 | Mr Ahn picked the cloth up and put it down again without using it. |
+| 50 | b2ch73:110 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
+| 50 | b2ch73:138 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
+| 50 | b2ch73:154 | "There's a second one and you'll have had it already," said Mr Ahn. |
+| 50 | b2ch73:182 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
+| 50 | b2ch73:218 | Mr Ahn did not say anything for a moment. |
+| 50 | b2ch73:230 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
+| 50 | b2ch73:246 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
+| 50 | b2ch73:282 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
+| 50 | b2ch73:290 | "So either she was already standing next to it, which she has never been," said Mr Ahn, .. |
+| 50 | b2ch73:302 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
+| 50 | b2ch73:314 | "It's not for you," said Mr Ahn. "Don't make it that." |
+| 50 | b2ch73:338 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
+| 50 | b2ch73:358 | Mr Ahn plugged the fan in at the wall. |
+| 50 | b2ch73:382 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
+| 50 | b2ch73:402 | Mr Ahn almost got out the thing that is not quite a laugh. |
+| 53 | b2ch74:162 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
+| 53 | b2ch74:410 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
+
+### Zahlen in der Naehe von Mr Ahn
+
+- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
+- `b2ch56:104` (Tag 18) - four, one
+- `b2ch56:114` (Tag 18) - sixty-one million and four hundred thousand
+- `b2ch56:130` (Tag 18) - nine hundred, one
+- `b2ch56:174` (Tag 18) - four, one
+- `b2ch56:180` (Tag 18) - four, thirty-one
+- `b2ch56:202` (Tag 18) - four
+- `b2ch56:294` (Tag 18) - one
+- `b2ch56:302` (Tag 18) - one
+- `b2ch56:312` (Tag 18) - twenty
+- `b2ch60:68` (Tag 25) - four
+- `b2ch63:88` (Tag 29) - four
+- `b2ch63:124` (Tag 29) - four
+- `b2ch63:188` (Tag 29) - eleven, one
+- `b2ch63:194` (Tag 29) - one
+- `b2ch63:204` (Tag 29) - one
+- `b2ch63:214` (Tag 29) - four, seven
+- `b2ch70:94` (Tag 45) - four, nine, one
+- `b2ch70:186` (Tag 45) - sixteen
+- `b2ch70:226` (Tag 45) - eleven, one
+- `b2ch73:38` (Tag 50) - two
+- `b2ch73:138` (Tag 50) - eighteen, four, one, twenty
+- `b2ch73:154` (Tag 50) - one
+- `b2ch73:282` (Tag 50) - four, one
+- `b2ch73:302` (Tag 50) - eight, four, one, three, two
+- `b2ch73:338` (Tag 50) - four
+- `b2ch74:162` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
+- `b2ch74:410` (Tag 53) - four, thirty-nine
+
+---
+
 ## Mr Hwang
 
 74 Nennungen in 17 Kapiteln.
@@ -2892,116 +3054,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:162` (Tag 10) - four, one, thirty
 - `b2ch69:440` (Tag 44) - five, four
 - `b2ch71:70` (Tag 45) - eight, eleven, four, four and five, nine, six hundred, ten
-
----
-
-## Mr Ahn
-
-72 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 18 | b2ch56:48 | Mr Ahn sat down on the stool behind the bench, slowly, the way a man sits when his legs .. |
-| 18 | b2ch56:64 | Mr Ahn looked at him for a long moment. |
-| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
-| 18 | b2ch56:104 | The story is not long and Mr Ahn did not decorate any of it, and Georgij understood abou.. |
-| 18 | b2ch56:112 | A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippin.. |
-| 18 | b2ch56:114 | "Sixty-one million and four hundred thousand," said Mr Ahn. |
-| 18 | b2ch56:130 | "To the won," said Mr Ahn. "There's nothing on top of it. Not one won." He pulled the dr.. |
-| 18 | b2ch56:174 | "Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down .. |
-| 18 | b2ch56:180 | "Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved t.. |
-| 18 | b2ch56:190 | Mr Ahn did not answer straight away. |
-| 18 | b2ch56:202 | "Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot numbe.. |
-| 18 | b2ch56:228 | "So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the r.. |
-| 18 | b2ch56:278 | Mr Ahn stood up from the stool and did not come round the bench. |
-| 18 | b2ch56:294 | Mr Ahn put one hand on the bench. |
-| 18 | b2ch56:302 | At the door there was one more thing, and it was Mr Ahn who did it. |
-| 18 | b2ch56:312 | "You have stood in my shop for twenty minutes and you have not once told me a lie and yo.. |
-| 25 | b2ch60:68 | *Mr Ahn sat in a shop on a corner for four years with his sister's name in his mouth, on.. |
-| 29 | b2ch63:20 | The bell went and Mr Ahn looked up and did not stand. |
-| 29 | b2ch63:36 | "Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the clot.. |
-| 29 | b2ch63:50 | Mr Ahn did not move at all. |
-| 29 | b2ch63:62 | Mr Ahn put both hands flat on the bench either side of the pump. |
-| 29 | b2ch63:80 | Mr Ahn looked at the pump. |
-| 29 | b2ch63:88 | "The second thing," said Mr Ahn. "You said four." |
-| 29 | b2ch63:96 | "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first plea.. |
-| 29 | b2ch63:110 | Mr Ahn had gone very still. |
-| 29 | b2ch63:124 | "That's the cruellest thing anybody's said to me in four years," said Mr Ahn. |
-| 29 | b2ch63:134 | "Then what's the fourth," said Mr Ahn. |
-| 29 | b2ch63:140 | Mr Ahn understood it before the end. |
-| 29 | b2ch63:156 | Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 29 | b2ch63:194 | "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle pla.. |
-| 29 | b2ch63:204 | "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any p.. |
-| 29 | b2ch63:214 | Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was.. |
-| 29 | b2ch63:234 | Mr Ahn looked at him. |
-| 29 | b2ch63:244 | "How long," said Mr Ahn. |
-| 44 | b2ch69:468 | "Mr Ahn," said Annie. "You went up a hill and you took nothing off him and you were righ.. |
-| 45 | b2ch70:14 | The bell went and Mr Ahn looked up and put the screwdriver down before he had finished t.. |
-| 45 | b2ch70:38 | Mr Ahn stood absolutely still with the cloth in his hand. |
-| 45 | b2ch70:66 | Mr Ahn put the cloth down on the bench and put both hands on the edge of it. |
-| 45 | b2ch70:94 | "It's one thing. She always said one thing four ways when she couldn't say it once." Mr .. |
-| 45 | b2ch70:110 | Mr Ahn's hands stopped. |
-| 45 | b2ch70:142 | Mr Ahn looked at him. |
-| 45 | b2ch70:174 | Mr Ahn wiped his hands, which did not need doing. |
-| 45 | b2ch70:186 | "You came up that hill in July and took nothing off me. Then you came in August and took.. |
-| 45 | b2ch70:206 | "No. And that's your business and I'm not owed it." Mr Ahn turned the fan housing a quar.. |
-| 45 | b2ch70:226 | "You want me to ask you something so you've got a job." Mr Ahn almost got something out .. |
-| 45 | b2ch70:234 | "Hold that," said Mr Ahn. |
-| 45 | b2ch70:246 | Mr Ahn talked, on and off, and none of it was about his sister. |
-| 45 | b2ch70:278 | At the end Mr Ahn took the housing off him and set it on the bench and looked at it rath.. |
-| 45 | b2ch70:302 | "No. It's mine. I've had it since we shared a flat and she used to sit in front of it in.. |
-| 45 | b2ch70:322 | Mr Ahn nodded once. |
-| 45 | b2ch70:338 | Mr Ahn did not say anything for a long moment. |
-| 50 | b2ch73:18 | "Tuesday," said Mr Ahn. |
-| 50 | b2ch73:38 | Mr Ahn looked at him for about two seconds and then put both hands on the edge of it. |
-| 50 | b2ch73:58 | Mr Ahn did not move at all. |
-| 50 | b2ch73:78 | "Say what the man on the telephone made of it," said Mr Ahn. |
-| 50 | b2ch73:94 | Mr Ahn picked the cloth up and put it down again without using it. |
-| 50 | b2ch73:110 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
-| 50 | b2ch73:138 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
-| 50 | b2ch73:154 | "There's a second one and you'll have had it already," said Mr Ahn. |
-| 50 | b2ch73:182 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
-| 50 | b2ch73:218 | Mr Ahn did not say anything for a moment. |
-| 50 | b2ch73:230 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
-| 50 | b2ch73:246 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
-| 50 | b2ch73:282 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
-| 50 | b2ch73:290 | "So either she was already standing next to it, which she has never been," said Mr Ahn, .. |
-| 50 | b2ch73:302 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
-| 50 | b2ch73:314 | "It's not for you," said Mr Ahn. "Don't make it that." |
-| 50 | b2ch73:338 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
-| 50 | b2ch73:358 | Mr Ahn plugged the fan in at the wall. |
-| 50 | b2ch73:382 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
-| 50 | b2ch73:402 | Mr Ahn almost got out the thing that is not quite a laugh. |
-
-### Zahlen in der Naehe von Mr Ahn
-
-- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
-- `b2ch56:104` (Tag 18) - four, one
-- `b2ch56:114` (Tag 18) - sixty-one million and four hundred thousand
-- `b2ch56:130` (Tag 18) - nine hundred, one
-- `b2ch56:174` (Tag 18) - four, one
-- `b2ch56:180` (Tag 18) - four, thirty-one
-- `b2ch56:202` (Tag 18) - four
-- `b2ch56:294` (Tag 18) - one
-- `b2ch56:302` (Tag 18) - one
-- `b2ch56:312` (Tag 18) - twenty
-- `b2ch60:68` (Tag 25) - four
-- `b2ch63:88` (Tag 29) - four
-- `b2ch63:124` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch63:194` (Tag 29) - one
-- `b2ch63:204` (Tag 29) - one
-- `b2ch63:214` (Tag 29) - four, seven
-- `b2ch70:94` (Tag 45) - four, nine, one
-- `b2ch70:186` (Tag 45) - sixteen
-- `b2ch70:226` (Tag 45) - eleven, one
-- `b2ch73:38` (Tag 50) - two
-- `b2ch73:138` (Tag 50) - eighteen, four, one, twenty
-- `b2ch73:154` (Tag 50) - one
-- `b2ch73:282` (Tag 50) - four, one
-- `b2ch73:302` (Tag 50) - eight, four, one, three, two
-- `b2ch73:338` (Tag 50) - four
 
 ---
 
@@ -3275,6 +3327,90 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Kwon
+
+45 Nennungen in 7 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 4 | b2ch14:6 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
+| 4 | b2ch14:20 | Mr Kwon looked at him for a moment. |
+| 4 | b2ch14:40 | Mr Kwon did not say anything for about eight seconds. |
+| 4 | b2ch14:54 | Mr Kwon put both forearms on the desk. |
+| 4 | b2ch14:74 | Mr Kwon sat back. |
+| 4 | b2ch14:90 | Mr Kwon looked at him for a long moment. |
+| 4 | b2ch14:100 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
+| 4 | b2ch14:108 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
+| 4 | b2ch14:110 | "He says the rate is real," said Mr Kwon, putting it down. |
+| 4 | b2ch14:120 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
+| 4 | b2ch14:166 | "You have not offered me anything," said Mr Kwon after a while. |
+| 4 | b2ch14:176 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
+| 4 | b2ch14:190 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
+| 4 | b2ch14:200 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
+| 4 | b2ch14:206 | There it was, and Mr Kwon had built it well and had probably not meant to. |
+| 4 | b2ch14:284 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
+| 4 | b2ch15:72 | "It is done," said Mr Kwon. |
+| 4 | b2ch15:90 | "Straight away," said Mr Kwon. "Not a second. Not one of those things where a person tak.. |
+| 4 | b2ch15:100 | "That is all she said," said Mr Kwon. "One word. She could have said it was association .. |
+| 4 | b2ch15:110 | "After that it was not really a discussion," said Mr Kwon. "Somebody has to say the word.. |
+| 4 | b2ch15:120 | "Cho is the man of forty who has not said one word at a meeting since October, and he sa.. |
+| 4 | b2ch15:140 | "Her firm is a member. It is still a member. Nobody moved to expel her and I would have .. |
+| 4 | b2ch15:148 | "You were not there," said Mr Kwon. |
+| 4 | b2ch15:162 | He does not say that often, and he had not planned to, and it came out before he had dec.. |
+| 4 | b2ch15:166 | "She stayed and helped stack the chairs. It is what she has done after every meeting for.. |
+| 11 | b2ch19:126 | "Your nephew started at Mr Kwon's on the twentieth of April. He is on the nine-truck rot.. |
+| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
+| 26 | b2ch24:78 | Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at in one meet.. |
+| 26 | b2ch24:80 | He is going to live about forty minutes from his daughter. Mr Kwon telephoned Georgij ab.. |
+| 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
+| 44 | b2ch69:30 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
+| 44 | b2ch69:62 | Mr Kwon did not say anything for a moment. |
+| 44 | b2ch69:82 | "You did the same at four other places on four other days. I know that because we compar.. |
+| 44 | b2ch69:90 | "You did not come back," said Mr Kwon. "That is the whole reason I am here, and it has t.. |
+| 44 | b2ch69:114 | "I did. In June." Mr Kwon said it flatly. "He said the price was not his to quote, and t.. |
+| 44 | b2ch69:150 | "Mistress," said Georgij. "This is Mr Kwon. He has nine trucks on a lane out of Ulsan an.. |
+| 44 | b2ch69:158 | "He has driven four hours to find out what the five of them owe you." Georgij did not lo.. |
+| 44 | b2ch69:174 | "Mr Kwon," she said. "Sit down, and do not tell me you would rather stand, because you h.. |
+| 44 | b2ch69:202 | Mr Kwon did not turn round. |
+| 44 | b2ch69:226 | "I am not being clever. I have run nine trucks for thirty-two years." Mr Kwon did not mo.. |
+| 44 | b2ch69:242 | Mr Kwon was quiet for about four seconds. |
+| 44 | b2ch69:270 | At the car, Mr Kwon stopped with the door open. |
+| 44 | b2ch69:302 | Mr Kwon looked at him for a long moment. |
+| 44 | b2ch69:314 | "He is forty minutes from the girl. He has a boat that does not go anywhere and he telep.. |
+| 53 | b2ch74:338 | "That nobody uses them," said Georgij. "That Mr Kwon is asked one question, which is who.. |
+
+### Zahlen in der Naehe von Mr Kwon
+
+- `b2ch14:6` (Tag 4) - nine
+- `b2ch14:40` (Tag 4) - eight
+- `b2ch14:108` (Tag 4) - one
+- `b2ch14:120` (Tag 4) - eleven, nine
+- `b2ch14:190` (Tag 4) - one
+- `b2ch14:284` (Tag 4) - nine
+- `b2ch15:90` (Tag 4) - one
+- `b2ch15:100` (Tag 4) - one
+- `b2ch15:110` (Tag 4) - five, one, six
+- `b2ch15:120` (Tag 4) - forty, one, six, twenty
+- `b2ch15:140` (Tag 4) - four, one, seven
+- `b2ch15:166` (Tag 4) - twenty
+- `b2ch19:126` (Tag 11) - nine, ten
+- `b2ch20:32` (Tag 11) - five, seven, twenty, two
+- `b2ch24:78` (Tag 26) - one, sixty-three
+- `b2ch24:80` (Tag 26) - forty
+- `b2ch69:26` (Tag 44) - eight, one, ten
+- `b2ch69:30` (Tag 44) - nine
+- `b2ch69:82` (Tag 44) - eleven, four, one
+- `b2ch69:90` (Tag 44) - four, one
+- `b2ch69:150` (Tag 44) - five, nine, one
+- `b2ch69:158` (Tag 44) - five, four, one
+- `b2ch69:174` (Tag 44) - four
+- `b2ch69:226` (Tag 44) - four, nine, thirty-two, three
+- `b2ch69:242` (Tag 44) - four
+- `b2ch69:314` (Tag 44) - eleven, forty, nineteen
+- `b2ch74:338` (Tag 53) - one
+
+---
+
 ## Kim Ye-rin
 
 44 Nennungen in 11 Kapiteln.
@@ -3348,88 +3484,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:258` (Tag ?) - twenty
 - `b1ch32:280` (Tag ?) - one
 - `b1ch34:56` (Tag 46) - eleven, six, twenty
-
----
-
-## Mr Kwon
-
-44 Nennungen in 6 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 4 | b2ch14:6 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
-| 4 | b2ch14:20 | Mr Kwon looked at him for a moment. |
-| 4 | b2ch14:40 | Mr Kwon did not say anything for about eight seconds. |
-| 4 | b2ch14:54 | Mr Kwon put both forearms on the desk. |
-| 4 | b2ch14:74 | Mr Kwon sat back. |
-| 4 | b2ch14:90 | Mr Kwon looked at him for a long moment. |
-| 4 | b2ch14:100 | He heard Woo say the number of years, twice, because Mr Kwon made him say it twice. |
-| 4 | b2ch14:108 | He heard Mr Kwon laugh at that, once, and it was not a friendly laugh but it was a real .. |
-| 4 | b2ch14:110 | "He says the rate is real," said Mr Kwon, putting it down. |
-| 4 | b2ch14:120 | Mr Kwon got up and went to the window, which looks at nine trucks and room for eleven. |
-| 4 | b2ch14:166 | "You have not offered me anything," said Mr Kwon after a while. |
-| 4 | b2ch14:176 | At the door Mr Kwon said the thing that Georgij had been waiting for since the apron. |
-| 4 | b2ch14:190 | "One thing," said Mr Kwon from the doorway. "You said ask her. You did not say what to a.. |
-| 4 | b2ch14:200 | Mr Kwon stood in his own doorway with his hands in his pockets and looked at him for a m.. |
-| 4 | b2ch14:206 | There it was, and Mr Kwon had built it well and had probably not meant to. |
-| 4 | b2ch14:284 | The fifth was Mr Kwon. He answered the third question in nine words. Then he telephoned .. |
-| 4 | b2ch15:72 | "It is done," said Mr Kwon. |
-| 4 | b2ch15:90 | "Straight away," said Mr Kwon. "Not a second. Not one of those things where a person tak.. |
-| 4 | b2ch15:100 | "That is all she said," said Mr Kwon. "One word. She could have said it was association .. |
-| 4 | b2ch15:110 | "After that it was not really a discussion," said Mr Kwon. "Somebody has to say the word.. |
-| 4 | b2ch15:120 | "Cho is the man of forty who has not said one word at a meeting since October, and he sa.. |
-| 4 | b2ch15:140 | "Her firm is a member. It is still a member. Nobody moved to expel her and I would have .. |
-| 4 | b2ch15:148 | "You were not there," said Mr Kwon. |
-| 4 | b2ch15:162 | He does not say that often, and he had not planned to, and it came out before he had dec.. |
-| 4 | b2ch15:166 | "She stayed and helped stack the chairs. It is what she has done after every meeting for.. |
-| 11 | b2ch19:126 | "Your nephew started at Mr Kwon's on the twentieth of April. He is on the nine-truck rot.. |
-| 11 | b2ch20:32 | Nam Byung-hee has two trucks, no chair, no work and no association standing. All five ha.. |
-| 26 | b2ch24:78 | Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at in one meet.. |
-| 26 | b2ch24:80 | He is going to live about forty minutes from his daughter. Mr Kwon telephoned Georgij ab.. |
-| 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
-| 44 | b2ch69:30 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
-| 44 | b2ch69:62 | Mr Kwon did not say anything for a moment. |
-| 44 | b2ch69:82 | "You did the same at four other places on four other days. I know that because we compar.. |
-| 44 | b2ch69:90 | "You did not come back," said Mr Kwon. "That is the whole reason I am here, and it has t.. |
-| 44 | b2ch69:114 | "I did. In June." Mr Kwon said it flatly. "He said the price was not his to quote, and t.. |
-| 44 | b2ch69:150 | "Mistress," said Georgij. "This is Mr Kwon. He has nine trucks on a lane out of Ulsan an.. |
-| 44 | b2ch69:158 | "He has driven four hours to find out what the five of them owe you." Georgij did not lo.. |
-| 44 | b2ch69:174 | "Mr Kwon," she said. "Sit down, and do not tell me you would rather stand, because you h.. |
-| 44 | b2ch69:202 | Mr Kwon did not turn round. |
-| 44 | b2ch69:226 | "I am not being clever. I have run nine trucks for thirty-two years." Mr Kwon did not mo.. |
-| 44 | b2ch69:242 | Mr Kwon was quiet for about four seconds. |
-| 44 | b2ch69:270 | At the car, Mr Kwon stopped with the door open. |
-| 44 | b2ch69:302 | Mr Kwon looked at him for a long moment. |
-| 44 | b2ch69:314 | "He is forty minutes from the girl. He has a boat that does not go anywhere and he telep.. |
-
-### Zahlen in der Naehe von Mr Kwon
-
-- `b2ch14:6` (Tag 4) - nine
-- `b2ch14:40` (Tag 4) - eight
-- `b2ch14:108` (Tag 4) - one
-- `b2ch14:120` (Tag 4) - eleven, nine
-- `b2ch14:190` (Tag 4) - one
-- `b2ch14:284` (Tag 4) - nine
-- `b2ch15:90` (Tag 4) - one
-- `b2ch15:100` (Tag 4) - one
-- `b2ch15:110` (Tag 4) - five, one, six
-- `b2ch15:120` (Tag 4) - forty, one, six, twenty
-- `b2ch15:140` (Tag 4) - four, one, seven
-- `b2ch15:166` (Tag 4) - twenty
-- `b2ch19:126` (Tag 11) - nine, ten
-- `b2ch20:32` (Tag 11) - five, seven, twenty, two
-- `b2ch24:78` (Tag 26) - one, sixty-three
-- `b2ch24:80` (Tag 26) - forty
-- `b2ch69:26` (Tag 44) - eight, one, ten
-- `b2ch69:30` (Tag 44) - nine
-- `b2ch69:82` (Tag 44) - eleven, four, one
-- `b2ch69:90` (Tag 44) - four, one
-- `b2ch69:150` (Tag 44) - five, nine, one
-- `b2ch69:158` (Tag 44) - five, four, one
-- `b2ch69:174` (Tag 44) - four
-- `b2ch69:226` (Tag 44) - four, nine, thirty-two, three
-- `b2ch69:242` (Tag 44) - four
-- `b2ch69:314` (Tag 44) - eleven, forty, nineteen
 
 ---
 

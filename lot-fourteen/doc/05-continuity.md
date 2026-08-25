@@ -3269,6 +3269,70 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.0) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+
+  **1. Sims Zaehlung (Mittwoch, Jongno).**
+  - **Warum er die Zahlen hat, und es ist sein Instrument von innen:** *"A man who
+    is kept waiting fidgets, and a man who fidgets is asking for something, and I
+    have never in my working life asked anybody for anything. So I count. It keeps
+    the face still."* Dreissig Jahre Tuerstehen als Messgeraet.
+  - **Sechzehn Anrufe in vier Jahren.** Kuerzeste Wartezeit vier Minuten zehn (der
+    zweite Anruf ueberhaupt), Schnitt um sechs, **laengste elf - am 27. August**.
+    **Am 14. September: einundvierzig Sekunden.**
+  - **Und die Haelfte, nach der niemand gefragt hat:** bei allen sechzehn eine Tuer,
+    dann lange nichts, dann wieder eine Tuer. Ein langer Korridor. **Am 14.
+    September eine Tuer und ein Stuhl, der geschoben wird. Ein Zimmer neben dem
+    Zimmer.** Sim hat es in vier Jahren nie bemerkt, weil ihn nie jemand gefragt
+    hat, wie lange es dauert.
+  - **Sims Preis, und er ist kein Preis:** am Ende soll ihm jemand sagen, was das
+    war. Georgij sagt zu, und zwar ausdruecklich ohne den bequemen Teil.
+
+  **2. Der Freitag.**
+  - **Er waehlt nicht zwischen den beiden Lesarten und begruendet das:**
+    *"forty-one seconds is not enough to put a woman's goodbye down with... If I
+    finish it this morning I will have done it because holding two things is
+    uncomfortable."*
+  - **DIE ENTLASTUNG, und sie kommt von ihr und mechanisch:** Mr Tak ist seit Ende
+    August im Haus, der Dachsatz fiel am 27. August, die elf Minuten am selben
+    Abend. **Alles davon liegt vor dem 4. September.** *"You did not cause
+    November. You have wanted to for four days, because a man who caused a thing
+    is a man who was doing something."*
+  - **Woraus der kalte Befund folgt:** das Haus sollte immer vor dem Winter
+    geschlossen werden, entschieden spaetestens Mitte August, **und das ganze Jahr
+    lief gegen eine Uhr, von der niemand in diesem Raum wusste.**
+  - **Die Zahl:** sechs Wochen frueher kaufen kostet **zwischen 460 und 510
+    Millionen Won**, und die Breite ist der Teil, den sie nicht mag - ein laufendes
+    Haus hat eine Preisliste, ein abgewickeltes einen Mann in Eile. Zwei Dinge, die
+    sie mag, und eines, das sie jemandem versprochen hat, muessen raus. **Welche,
+    sagt sie am Montag** (Tag 353).
+  - **DIE FUENF SPEDITIONEN SIND GESPERRT, und das ist die teuerste Entscheidung im
+    Kapitel.** Georgij legt sie auf den Tisch, weil das Vorlegen richtig ist, und
+    bietet von sich aus die schwaechere Fassung an (Kwon eine einzige Frage
+    stellen). **Annie nennt die schwaechere Fassung die schlimmere:** *"The first
+    one is using a man. The second one is using a man and building him a floor to
+    stand on afterwards."* Und der Satz, der es traegt: *"A promise you keep until
+    it is expensive is not one."*
+  - **Er verlangt es ausdruecklich als Anweisung**, weil er um vier Uhr morgens
+    einen Grund finden wird. *"None of the five. Not asked, not telephoned, not
+    driven past."*
+  - **Er ist von der Strasse**, und die Begruendung ist nicht seine Sicherheit:
+    **ein bekannter Mann erhoeht jeden Preis im Raum**, und sie kauft gerade zu
+    einem Aufschlag, den sie ohnehin nicht mag.
+  - **Seine drei Aufgaben, alle klein:** Sims Telefon am Leben halten bis zum 28.,
+    Mr Ahn nicht allein lassen (*"He is the piece I am most afraid of"*), und der
+    23. Oktober bei Mrs Jeon steht. **Nichts, was ein Mensch ist, verschiebt sich.**
+  - **UND DANN FRAGT SIE.** Nicht weil sie etwas gemerkt hat, sondern weil sie
+    einen Mann bepreisen muss und nicht weiss, was er ist. *"Men do not stop the
+    thing that pays for them... I know what he does. I have known that since March.
+    I have never known how he got to my father's table."*
+  - **Damit ist Woos Frist aus Kapitel 61 abgelaufen**, sechsundzwanzig Tage nach
+    dem 24. August. Schlusszeile des Kapitels: *"Say how he got to my father's
+    table."*
+  - **OFFEN FUER DIE NAECHSTE SITZUNG:** Kapitel 75 ist die Antwort, und das ist die
+    groesste Szene des Bandes. Sie ist bewusst nicht in 74 mit hineingeschrieben.
+
 
 ---
 
