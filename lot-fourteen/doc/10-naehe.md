@@ -92,6 +92,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
 | 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
+| 11 | B2 70/71 | Do 10. Sept | **Sie schickt ihn zum ersten Mal ausdruecklich runter**, und das ist die Umkehrung von 7. *"Sit down," said Annie. He looked at the chair. "Not there."* Er fragt nicht, wofuer, und sie benennt genau das: *"Six weeks ago you would have wanted to know what it was for."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
 11. März fast täglich. Keine Zeile darf das umdrehen.
@@ -178,6 +179,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
 | B2 35 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
 | B2 55 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |
+| B2 71 | **Sie bestellt sein Essen, ohne zu fragen**, und sagt nie, dass sie es war - wie der Mantel in B2 31. *"food on the side in the kitchen, still warm, from the place on the road that does the soup he eats and not the one he says he likes."* Der Unterschied zwischen den beiden Laeden ist das ganze Eintragsgewicht. |
 
 **Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
 fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie

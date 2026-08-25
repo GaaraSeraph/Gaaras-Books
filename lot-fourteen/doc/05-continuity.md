@@ -3125,6 +3125,59 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
 
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.0) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat
+    zwischen Auffahrt und Treppe eine Route ueber fuenf Menschen in drei Tagen
+    gebaut, bis Freitag, und Annie hat ihm genau das am Vortag vorhergesagt.
+    **Sie weigert sich, eine auszusuchen:** *"If I pick, you will go and do it
+    beautifully and you will have learned that I pick. Pick."*
+  - **Er waehlt Mrs Jeon, und die Begruendung ist die harte:** bei den anderen
+    hoerte die Arbeit auf, bei ihr hoerte die Arbeit auf **und er hat sich einen
+    Grund erzaehlt** - *"the less of this that is in you, the better that is for
+    you"*, am 2. Juni, in ihrem eigenen Zimmer. Es war wahr. Es war auch das
+    bequemste wahre Ding auf dem Tisch.
+  - **DIE UEBERFAELLIGE ZUSAGE AUS KAPITEL 32 IST HIER BEZAHLT, siebzig Tage
+    spaet.** *"I have four months of money and a son who is going to offer next
+    month, and I am going to take it."* Der Sohn hat am 3. Juli angeboten, ein
+    Zimmer, mit der Schwiegertochter zustimmend in der Tuer. **Sie hat die Haelfte
+    genommen**: nicht das Zimmer, sondern die Miete auf diese Wohnung, die er seit
+    dem 1. August zahlt und die neun Tage seines Monats sind. *"I have spent six
+    weeks working out whether that is honest and I have not got anywhere."*
+  - **Und die zweite Zusage aus 32 liegt seit dem 14. Juni in der Schublade.** Die
+    eine Seite ueber den 9. Januar, unterschrieben und datiert, ohne Umschlag.
+    **Neunundachtzig Tage.** Ihre Begruendung: *"A page like that is handed across
+    a table. There has to be somebody on the other side of the table, and for
+    eighty-nine days there was not."* Die neunte Zeile: *I am not writing this so
+    that anybody is forgiven. I am writing it because it happened and because I
+    was in the room.*
+  - **Was er ihr NICHT abnimmt**, und das ist die Stelle, an der er zum ersten Mal
+    in diesem Zimmer nicht ordentlich ist: er weigert sich, die Schuld ganz auf
+    sich zu nehmen, *"because that would be me doing the work again"*. Ihre
+    Antwort: *"That is the first thing you have said in this room in three visits
+    that was not tidy."*
+  - **Gwangyang steht seit dem 30. Mai still.** Startdatum ihr ueberlassen, vier
+    hoefliche Anrufe in vier Monaten, nicht gewaehlt. **Ihr eigener Befund:**
+    *"I have had two things given to me since May. Both of them were kind and
+    neither of them was asked for... I am beginning to think that I cannot take
+    anything that arrives on its own."*
+  - **DIE ZUSAGE AUS KAPITEL 59 HAT JETZT EINEN NAMEN.** *"she is told that in the
+    first hour by somebody who is not you and not me"* - **das ist Mrs Jeon.** Er
+    hatte im Bus beschlossen, sie um nichts zu bitten, und das war zum zweiten Mal
+    in zehn Tagen die bequeme Regel. Der Grund, den er ihr ungeschminkt sagt: sie
+    ist die Einzige, die je am anderen Ende dieser Rechnung sass und danach
+    essen gegangen ist.
+  - **Ihre Bedingung**, und sie ist die Umkehrung des ganzen Buches: *"You will
+    tell me her name before I am in the room with her. Not the reference. The
+    name, and how it is written, and which part of it her mother used."* Georgij
+    hat ihn noch nicht.
+  - **Sie ruft Montag in Gwangyang an**, Antritt 1. Oktober. Er kommt am
+    23. Oktober wieder heraus und bringt wieder nichts.
+  - **Neu in Register D:** das Essen steht warm in der Kueche, aus dem Laden mit
+    der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
+    **Niemand sagt an diesem Abend ein Wort darueber.**
+
 
 ---
 

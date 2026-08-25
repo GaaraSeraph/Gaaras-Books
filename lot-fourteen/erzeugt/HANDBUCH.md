@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 236.750 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 239.013 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -218,6 +218,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [doc/12 gegengelesen, die gelesenen Blaetter zuerst](#doc-12-gegengelesen-die-gelesenen-blaetter-zuerst)
   - [doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler](#doc-12-vollstaendig-gegengelesen-zwoelf-blaetter-dreiundzwanzig-fehler)
   - [doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter](#doc-12-der-rest-die-regeln-die-achsen-der-index-die-gemessenen-blaetter)
+  - [Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert](#die-anrede-fuer-georgij-in-band-2-vom-autor-als-drift-bestaetigt-repariert)
 - [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -228,8 +229,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Jang](#jang)
   - [Mrs Seo](#mrs-seo)
   - [Sim](#sim)
-  - [Mr Hwang](#mr-hwang)
   - [Mrs Jeon](#mrs-jeon)
+  - [Mr Hwang](#mr-hwang)
   - [Mr Yeo](#mr-yeo)
   - [Mr Ahn](#mr-ahn)
   - [Mr Yeom](#mr-yeom)
@@ -1681,7 +1682,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
 | **Baek Jun-ho** | Solicitor in Yeouido, verwaltet den Trust seit elf Jahren | B2 42 | **Faellig, aber zuletzt.** Das Geld ist der Sauerstoff |
 | **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
-| **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | Gegeben, was sie hatte |
+| **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
 | **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | Erledigt seit Mai |
 | **Mrs Bae** | Zweiundzwanzig Jahre am Empfang, fuehrt das Buch mit Bleistift. **Nicht Bae aus Band 1** | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | Kocht ohne Schild fuer Stammgaeste. Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
@@ -3559,7 +3560,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Das letzte Wort ist eines, das er selbst nicht bemerkt hat, bis es heraus war.** *"Belongs. On the seventh of March, by a man with no line, no owner and no date anywhere in the world. He did not correct it."*
 
-- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.8) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
+- **Band 2, Kapitel 4** *I have nothing to put in it* (v1.9) - **Tag 159, Mi 11. Maerz. Eine Trauerfeier, ein Korridor, und die Heimfahrt.**
 
   **Er sucht nicht den Mann, er sucht den Kalender.** *"A man with thirty-one years in a trade that size is on a schedule whether he likes it or not, and most of it is private and about four days of it a year are not."* Startbahnen, Uebergaben, fremde Terminaleroeffnungen - **und Trauerfeiern, weil die angekuendigt werden und jeder kommen darf.** Er findet eine am Sonntagabend in zwanzig Minuten. Der Tote ist ein Mann aus Mokpo, sechsundsiebzig, den er nie getroffen hat.
 
@@ -5907,6 +5908,59 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     hat nicht versagt, es bei seiner Schwester zu sehen. **Er war der, dem sie es
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
+
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.0) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat
+    zwischen Auffahrt und Treppe eine Route ueber fuenf Menschen in drei Tagen
+    gebaut, bis Freitag, und Annie hat ihm genau das am Vortag vorhergesagt.
+    **Sie weigert sich, eine auszusuchen:** *"If I pick, you will go and do it
+    beautifully and you will have learned that I pick. Pick."*
+  - **Er waehlt Mrs Jeon, und die Begruendung ist die harte:** bei den anderen
+    hoerte die Arbeit auf, bei ihr hoerte die Arbeit auf **und er hat sich einen
+    Grund erzaehlt** - *"the less of this that is in you, the better that is for
+    you"*, am 2. Juni, in ihrem eigenen Zimmer. Es war wahr. Es war auch das
+    bequemste wahre Ding auf dem Tisch.
+  - **DIE UEBERFAELLIGE ZUSAGE AUS KAPITEL 32 IST HIER BEZAHLT, siebzig Tage
+    spaet.** *"I have four months of money and a son who is going to offer next
+    month, and I am going to take it."* Der Sohn hat am 3. Juli angeboten, ein
+    Zimmer, mit der Schwiegertochter zustimmend in der Tuer. **Sie hat die Haelfte
+    genommen**: nicht das Zimmer, sondern die Miete auf diese Wohnung, die er seit
+    dem 1. August zahlt und die neun Tage seines Monats sind. *"I have spent six
+    weeks working out whether that is honest and I have not got anywhere."*
+  - **Und die zweite Zusage aus 32 liegt seit dem 14. Juni in der Schublade.** Die
+    eine Seite ueber den 9. Januar, unterschrieben und datiert, ohne Umschlag.
+    **Neunundachtzig Tage.** Ihre Begruendung: *"A page like that is handed across
+    a table. There has to be somebody on the other side of the table, and for
+    eighty-nine days there was not."* Die neunte Zeile: *I am not writing this so
+    that anybody is forgiven. I am writing it because it happened and because I
+    was in the room.*
+  - **Was er ihr NICHT abnimmt**, und das ist die Stelle, an der er zum ersten Mal
+    in diesem Zimmer nicht ordentlich ist: er weigert sich, die Schuld ganz auf
+    sich zu nehmen, *"because that would be me doing the work again"*. Ihre
+    Antwort: *"That is the first thing you have said in this room in three visits
+    that was not tidy."*
+  - **Gwangyang steht seit dem 30. Mai still.** Startdatum ihr ueberlassen, vier
+    hoefliche Anrufe in vier Monaten, nicht gewaehlt. **Ihr eigener Befund:**
+    *"I have had two things given to me since May. Both of them were kind and
+    neither of them was asked for... I am beginning to think that I cannot take
+    anything that arrives on its own."*
+  - **DIE ZUSAGE AUS KAPITEL 59 HAT JETZT EINEN NAMEN.** *"she is told that in the
+    first hour by somebody who is not you and not me"* - **das ist Mrs Jeon.** Er
+    hatte im Bus beschlossen, sie um nichts zu bitten, und das war zum zweiten Mal
+    in zehn Tagen die bequeme Regel. Der Grund, den er ihr ungeschminkt sagt: sie
+    ist die Einzige, die je am anderen Ende dieser Rechnung sass und danach
+    essen gegangen ist.
+  - **Ihre Bedingung**, und sie ist die Umkehrung des ganzen Buches: *"You will
+    tell me her name before I am in the room with her. Not the reference. The
+    name, and how it is written, and which part of it her mother used."* Georgij
+    hat ihn noch nicht.
+  - **Sie ruft Montag in Gwangyang an**, Antritt 1. Oktober. Er kommt am
+    23. Oktober wieder heraus und bringt wieder nichts.
+  - **Neu in Register D:** das Essen steht warm in der Kueche, aus dem Laden mit
+    der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
+    **Niemand sagt an diesem Abend ein Wort darueber.**
 
 
 ---
@@ -11151,6 +11205,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
 | 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
+| 11 | B2 70/71 | Do 10. Sept | **Sie schickt ihn zum ersten Mal ausdruecklich runter**, und das ist die Umkehrung von 7. *"Sit down," said Annie. He looked at the chair. "Not there."* Er fragt nicht, wofuer, und sie benennt genau das: *"Six weeks ago you would have wanted to know what it was for."* |
 
 **Feststehend:** Vor dem 4. Juni war sie nie auf dem Boden. Er war es seit dem
 11. März fast täglich. Keine Zeile darf das umdrehen.
@@ -11237,6 +11292,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
 | B2 35 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
 | B2 55 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |
+| B2 71 | **Sie bestellt sein Essen, ohne zu fragen**, und sagt nie, dass sie es war - wie der Mantel in B2 31. *"food on the side in the kitchen, still warm, from the place on the road that does the soup he eats and not the one he says he likes."* Der Unterschied zwischen den beiden Laeden ist das ganze Eintragsgewicht. |
 
 **Noch nicht benutzt und verfügbar:** dass sie sein Essen bestellt, ohne zu
 fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
@@ -12141,9 +12197,29 @@ hat.
 
 **Die sechs sind damit festgelegt und werden nicht angefasst.**
 
-**Und daraus eine offene Frage an den Autor, keine Behauptung:** in Band 2 steht
-**keine einzige** mehr. Ist das gewollt - er ist dort bekannt, also fällt der
-Titel weg -, oder ist es abgerissen? Der Bogen endet mitten in der Bewegung.
+**Am 25.08. vom Autor entschieden: es war Drift, keine Absicht.** In Band 2 stand
+keine einzige mehr, obwohl **Sang-hoon in elf Kapiteln spricht** - und er ist
+der, der sie zweimal gesagt hat. (Ye-rin und Mr Chae kommen in Band 2 gar nicht
+mehr zu Wort, Hana nur in K03.)
+
+**Repariert in b2 K04, der ersten gemeinsamen Szene von Band 2, an genau den zwei
+Stellen, die schon die halbe Form hatten.** Die Anrede ist nämlich **ein Paar**:
+
+> b1 K33, beim Gruß: *"Chairman Park."* / *"Mr Georgij."* / *"I would like to ask
+> you for guidance."*
+> b1 K33, an der Tür: *"Mr Georgij."* / *"Chairman."*
+
+In b2 K04 stand beide Male nur die eine Hälfte - Georgij sagt *"Chairman."* und
+bekommt nichts zurück. Jetzt steht das Paar wieder da, beim Gruß und an der
+Wagentür, in derselben Reihenfolge wie in K33.
+
+**Stand: Band 1 sechs, Band 2 zwei.** Sparsam und an der Bandgrenze, also genau
+dort, wo die Linie abgerissen war.
+
+**Was daran festgelegt ist:** die Anrede ist keine Höflichkeit, sondern ein
+Tausch. **Wer sie einsetzt, setzt beide Hälften.** Eine allein gegebene Anrede
+ist im Buch das Gegenteil - sie ist das, was Georgij den ganzen Band 1 lang tut
+und nicht zurückbekommt.
 
 **Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
 wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
@@ -14632,6 +14708,50 @@ gut formuliert ist.**
 
 ---
 
+### Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert
+
+Aus dem doc/12-Durchgang war eine Frage offengeblieben: *"Mr Georgij"* steht
+sechsmal in b1 K30 bis K34 und in Band 2 kein einziges Mal. **Antwort des
+Autors: keine Absicht.**
+
+**Meldung 1 - eingesetzte Anreden in woertlicher Rede.** Zwei Stellen, beide in
+**b2 K04** (ch04 v1.9), beide von **Park Sang-hoon** an Georgij:
+
+| Zeile vorher | Zeile jetzt |
+|---|---|
+| *"I have thought about it since December and I have not moved off it..."* | *"**Mr Georgij.** I have thought about it since December..."* |
+| *"I am telling you where I am." He had the door open and did not get in yet. "Four or five of these a year..."* | *"**Mr Georgij.**" He had the door open and did not get in yet. "I am telling you where I am. Four or five of these a year..."* |
+
+**Warum genau diese zwei und keine anderen.** Die Anrede ist im Buch **ein
+Paar** - einer gibt den Titel, der andere gibt ihn zurueck:
+
+> b1 K33, beim Gruss: *"Chairman Park."* / *"Mr Georgij."*
+> b1 K33, an der Tuer: *"Mr Georgij."* / *"Chairman."*
+
+**In b2 K04 stand beide Male nur die eine Haelfte da.** Georgij sagt
+*"Chairman."* und bekommt nichts zurueck - beim Gruss und an der Wagentuer, in
+genau der Szene, in der Sang-hoon ihm das Groesste sagt, was er ihm im ganzen
+Buch sagt (*"I have wanted to buy you twice and been told no twice, and both
+times I went home and thought about the work and not about the price"*).
+
+**Nicht gestreut.** Sang-hoon spricht in elf Band-2-Kapiteln; angefasst ist
+eines, und zwar das erste. Stand jetzt: **Band 1 sechs, Band 2 zwei.**
+
+**Meldung 2 und 3:** keine Zahl, kein Datum, kein Absolutum eingesetzt.
+`faktenspur.py` meldet fuer ch04 nur `Georgij 20 -> 22` - die zwei Anreden.
+
+**Meldung 4:** keine festgelegte Zeile beruehrt. Die Stelle ist mit dieser
+Reparatur allerdings **selbst festgelegt worden** und steht so in `doc/12`:
+**wer die Anrede einsetzt, setzt beide Haelften.**
+
+**Unsicher:** in der zweiten Stelle ist *"I am telling you where I am."* aus dem
+ersten in den zweiten Redeblock gerueckt, damit zwischen Sang-hoons beiden
+Bloecken der koerperliche Beat steht (Grundregel 5). Der Satz sagt dasselbe an
+derselben Stelle des Gedankens - aber es ist eine Umstellung und keine reine
+Einfuegung, deshalb steht sie hier.
+
+---
+
 # Das Schuldbuch
 
 Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
@@ -14728,16 +14848,22 @@ wird.**
 - [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
 - [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
 - [OFFEN] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · —
-- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · —
+- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
 - [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
 - [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
 - [OFFEN] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · —
-- [OFFEN] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · —
+- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · —
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —
 - [OFFEN] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig offen · "I am going to say it again now to all six, in the same words, because I promised" · —
 
 ## Bezahlt
 
+- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
 - [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
 - [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
@@ -14822,15 +14948,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 759 | 83 (b1ch01-b2ch70) | 1 | 74 |
+| Annie | 767 | 84 (b1ch01-b2ch71) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 224 | 36 (b1ch07-b2ch69) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 143 | 34 (b1ch05-b2ch67) | 2 | 60 |
 | Mrs Seo | 94 | 42 (b1ch03-b2ch69) | 1 | 74 |
 | Sim | 92 | 14 (b2ch31-b2ch68) | 2 | 45 |
-| Mr Hwang | 73 | 16 (b2ch07-b2ch69) | 3 | 59 |
-| Mrs Jeon | 58 | 17 (b2ch06-b2ch69) | 2 | 59 |
+| Mrs Jeon | 78 | 18 (b2ch06-b2ch71) | 2 | 59 |
+| Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mr Ahn | 52 | 5 (b2ch56-b2ch70) | 18 | 45 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
@@ -14873,7 +14999,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-759 Nennungen in 83 Kapiteln.
+767 Nennungen in 84 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -15636,6 +15762,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch70:400 | Annie put the pen down. |
 | 45 | b2ch70:416 | Annie did not say anything for a moment. |
 | 45 | b2ch70:428 | Annie looked at him for slightly longer than she needed to. |
+| 45 | b2ch71:22 | "Six weeks ago you would have wanted to know what it was for," said Annie. |
+| 45 | b2ch71:54 | Annie put the pen down. |
+| 45 | b2ch71:66 | "Say the route," said Annie. |
+| 45 | b2ch71:82 | "So you have put a man's four months in a slot before a telephone call," said Annie, "an.. |
+| 45 | b2ch71:118 | "That is the last thing I am going to do for you this year," said Annie. "If I pick, you.. |
+| 45 | b2ch71:146 | Annie did not say anything for a while. |
+| 45 | b2ch71:166 | "Tomorrow, then," said Annie. "Not in the morning." |
+| 46 | b2ch71:738 | Annie looked at him for slightly longer than she needed to and then went back to the page. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -15846,6 +15980,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:250` (Tag 44) - one
 - `b2ch69:400` (Tag 44) - four
 - `b2ch69:448` (Tag 44) - eighteen, four, six
+- `b2ch71:22` (Tag 45) - six
+- `b2ch71:82` (Tag 45) - four
 
 ---
 
@@ -17412,9 +17548,130 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Jeon
+
+78 Nennungen in 18 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
+| 5 | b2ch06:60 | Mrs Jeon had a receipt book open in front of her and did not close it. |
+| 5 | b2ch06:76 | Mrs Jeon looked at him through the glass for a while. |
+| 5 | b2ch06:102 | Mrs Jeon put one hand flat on the counter and left it there. |
+| 5 | b2ch06:144 | Mrs Jeon looked at him for what was probably four seconds. |
+| 5 | b2ch06:172 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
+| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
+| 7 | b2ch07:30 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
+| 7 | b2ch07:56 | "The back page is his as well. He put the retained ones together in one list because the.. |
+| 7 | b2ch07:66 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
+| 9 | b2ch09:220 | "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to.. |
+| 39 | b2ch28:60 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
+| 39 | b2ch28:306 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
+| 40 | b2ch29:24 | "You," said Mrs Jeon. |
+| 40 | b2ch29:58 | "Four minutes," said Mrs Jeon. |
+| 40 | b2ch29:72 | Mrs Jeon looked at the window for a moment. |
+| 40 | b2ch29:90 | Mrs Jeon did not answer that. |
+| 40 | b2ch29:114 | Mrs Jeon put the biro down flat. |
+| 40 | b2ch29:154 | "Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and .. |
+| 40 | b2ch29:158 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
+| 40 | b2ch29:178 | Mrs Jeon did not move. |
+| 40 | b2ch29:202 | "It went to every buyer in March," said Mrs Jeon. |
+| 40 | b2ch29:208 | Mrs Jeon looked at the closed cover under her hands. |
+| 40 | b2ch29:224 | Mrs Jeon sat back in the chair for the first time since he came in. |
+| 40 | b2ch29:264 | "Mrs Jeon." |
+| 40 | b2ch29:292 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
+| 40 | b2ch30:24 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
+| 44 | b2ch32:24 | Mrs Jeon put her hand flat on the green cover and left it there. |
+| 44 | b2ch32:46 | "Sit down," said Mrs Jeon. |
+| 44 | b2ch32:78 | Mrs Jeon sat back. |
+| 44 | b2ch32:94 | Mrs Jeon looked at him across her own table. |
+| 44 | b2ch32:112 | "I have been handled," said Mrs Jeon. |
+| 44 | b2ch32:146 | "I am fifty-one," said Mrs Jeon. "I have four months of money and a son who is going to .. |
+| 44 | b2ch32:156 | Mrs Jeon looked at the wall for a while. |
+| 44 | b2ch32:174 | "You have come for something else," said Mrs Jeon. "You would have brought that book bac.. |
+| 44 | b2ch32:184 | Mrs Jeon put her glass down. |
+| 44 | b2ch32:196 | "About three times." Mrs Jeon turned her hand over on the table. "I remember it because .. |
+| 44 | b2ch32:210 | Mrs Jeon looked at the table between them. |
+| 44 | b2ch32:216 | "A reference," said Mrs Jeon. "Six characters. The same six that were on my clearing sli.. |
+| 44 | b2ch32:234 | "You are not asking me where," said Mrs Jeon. |
+| 44 | b2ch32:244 | Mrs Jeon sat with both hands round the glass. |
+| 44 | b2ch32:266 | "Mrs Jeon." |
+| 44 | b2ch32:280 | Mrs Jeon did not answer for a while. |
+| 44 | b2ch32:308 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
+| 45 | b2ch33:72 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
+| 45 | b2ch33:154 | "And the page from Mrs Jeon. The one for Hwang." |
+| 46 | b2ch34:138 | "Mrs Jeon." |
+| 46 | b2ch34:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
+| 51 | b2ch36:42 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
+| 51 | b2ch36:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
+| 57 | b2ch37:230 | *Jeon Mi-ja* |
+| 59 | b2ch38:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
+| 5 | b2ch41:224 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
+| 2 | b2ch42:242 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
+| 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
+| 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
+| 8 | b2ch44:46 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
+| 44 | b2ch69:440 | "You do the same thing to people." She did not raise her voice at any point. "You go in,.. |
+| 45 | b2ch71:126 | "Mrs Jeon," he said. |
+| 46 | b2ch71:202 | "It is September," said Mrs Jeon. |
+| 46 | b2ch71:218 | Mrs Jeon looked at him for a moment. Then she opened the door the whole way and went bac.. |
+| 46 | b2ch71:250 | Mrs Jeon stopped with her hand on the back of the chair. |
+| 46 | b2ch71:282 | "So sit down and be told what it was on this end," said Mrs Jeon, "and do not tell me yo.. |
+| 46 | b2ch71:310 | "There is no going on. That is the whole of it, and it took me until the middle of July .. |
+| 46 | b2ch71:342 | "Because I told you on the second of June that it goes to you because you are the one wh.. |
+| 46 | b2ch71:362 | Mrs Jeon sat down. |
+| 46 | b2ch71:418 | "I said in this room that I was going to take it," said Mrs Jeon. "I took the half of it.. |
+| 46 | b2ch71:458 | Mrs Jeon looked at the wall for a while, which she also did on the second of June. |
+| 46 | b2ch71:478 | "And you remembered it," said Mrs Jeon, "and you did not come back for fourteen weeks. B.. |
+| 46 | b2ch71:506 | "Say it in the order it happens," said Mrs Jeon, "and do not put the reason first." |
+| 46 | b2ch71:514 | Mrs Jeon did not move at all. |
+| 46 | b2ch71:530 | "Go on," said Mrs Jeon. |
+| 46 | b2ch71:554 | "Why me," said Mrs Jeon. |
+| 46 | b2ch71:570 | Mrs Jeon's hands stayed exactly where they were. |
+| 46 | b2ch71:578 | "That is the worst thing anybody has ever asked me for," said Mrs Jeon. |
+| 46 | b2ch71:602 | Mrs Jeon put both hands flat on the table and pushed herself up out of the chair. |
+| 46 | b2ch71:630 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
+| 46 | b2ch71:654 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
+
+### Zahlen in der Naehe von Mrs Jeon
+
+- `b2ch06:56` (Tag 5) - fifty
+- `b2ch06:102` (Tag 5) - one
+- `b2ch06:144` (Tag 5) - four
+- `b2ch07:30` (Tag 7) - three
+- `b2ch07:56` (Tag 7) - one
+- `b2ch07:66` (Tag 7) - one
+- `b2ch09:220` (Tag 9) - five, seven
+- `b2ch28:60` (Tag 39) - four, twenty-three
+- `b2ch29:58` (Tag 40) - four
+- `b2ch29:154` (Tag 40) - one, twenty-three
+- `b2ch30:24` (Tag 40) - fifty-one, twenty-three
+- `b2ch32:146` (Tag 44) - fifty-one, four
+- `b2ch32:196` (Tag 44) - three
+- `b2ch32:216` (Tag 44) - six
+- `b2ch32:308` (Tag 44) - four, one
+- `b2ch33:154` (Tag 45) - one
+- `b2ch34:166` (Tag 46) - one
+- `b2ch36:50` (Tag 51) - eight, eleven, one
+- `b2ch38:156` (Tag 59) - one, three
+- `b2ch41:224` (Tag 5) - forty, one, six
+- `b2ch42:242` (Tag 2) - one, twenty-three
+- `b2ch43:42` (Tag 5) - one, two
+- `b2ch43:66` (Tag 5) - forty, one
+- `b2ch44:46` (Tag 8) - one
+- `b2ch69:440` (Tag 44) - five, four
+- `b2ch71:218` (Tag 46) - twenty
+- `b2ch71:310` (Tag 46) - one
+- `b2ch71:342` (Tag 46) - eighty-nine, one
+- `b2ch71:418` (Tag 46) - six
+- `b2ch71:478` (Tag 46) - fourteen, one
+- `b2ch71:630` (Tag 46) - ninety-one
+
+---
+
 ### Mr Hwang
 
-73 Nennungen in 16 Kapiteln.
+74 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17491,6 +17748,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch54:38 | Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It .. |
 | 10 | b2ch54:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
 | 44 | b2ch69:440 | "You do the same thing to people." She did not raise her voice at any point. "You go in,.. |
+| 45 | b2ch71:70 | "Byun at nine, because his office opens at half past eight and he is on his own until te.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -17529,101 +17787,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:180` (Tag 5) - one, six
 - `b2ch54:162` (Tag 10) - four, one, thirty
 - `b2ch69:440` (Tag 44) - five, four
-
----
-
-### Mrs Jeon
-
-58 Nennungen in 17 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 5 | b2ch06:56 | Mrs Jeon was behind the glass. She is somewhere near fifty. She has been at that desk si.. |
-| 5 | b2ch06:60 | Mrs Jeon had a receipt book open in front of her and did not close it. |
-| 5 | b2ch06:76 | Mrs Jeon looked at him through the glass for a while. |
-| 5 | b2ch06:102 | Mrs Jeon put one hand flat on the counter and left it there. |
-| 5 | b2ch06:144 | Mrs Jeon looked at him for what was probably four seconds. |
-| 5 | b2ch06:172 | "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at las.. |
-| 7 | b2ch07:6 | Mrs Jeon had the receipt book shut when he came in, which was the whole of her greeting .. |
-| 7 | b2ch07:30 | "Hwang," said Mrs Jeon. "He was Mr Hwang then and he is Mr Hwang now, and in between he .. |
-| 7 | b2ch07:56 | "The back page is his as well. He put the retained ones together in one list because the.. |
-| 7 | b2ch07:66 | "One more thing and then you should go," said Mrs Jeon through the glass. "He keeps ever.. |
-| 9 | b2ch09:220 | "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to.. |
-| 39 | b2ch28:60 | "Jeon Mi-ja," he said. "Twenty-three years at that desk. Her last day was the twelfth of.. |
-| 39 | b2ch28:306 | *Jeon Mi-ja. 9 Jan. Held it out. He did not take it.* |
-| 40 | b2ch29:24 | "You," said Mrs Jeon. |
-| 40 | b2ch29:58 | "Four minutes," said Mrs Jeon. |
-| 40 | b2ch29:72 | Mrs Jeon looked at the window for a moment. |
-| 40 | b2ch29:90 | Mrs Jeon did not answer that. |
-| 40 | b2ch29:114 | Mrs Jeon put the biro down flat. |
-| 40 | b2ch29:154 | "Twenty-three years in settlement," said Mrs Jeon. "A line that arrives in the book and .. |
-| 40 | b2ch29:158 | "Then you may have the rest of the question," said Mrs Jeon. "You are somebody's. I coul.. |
-| 40 | b2ch29:178 | Mrs Jeon did not move. |
-| 40 | b2ch29:202 | "It went to every buyer in March," said Mrs Jeon. |
-| 40 | b2ch29:208 | Mrs Jeon looked at the closed cover under her hands. |
-| 40 | b2ch29:224 | Mrs Jeon sat back in the chair for the first time since he came in. |
-| 40 | b2ch29:264 | "Mrs Jeon." |
-| 40 | b2ch29:292 | "There is a man in that building who is proud of keeping everything," said Mrs Jeon. "Yo.. |
-| 40 | b2ch30:24 | "Jeon Mi-ja. Fifty-one. Twenty-three years in the settlement office of that house, out o.. |
-| 44 | b2ch32:24 | Mrs Jeon put her hand flat on the green cover and left it there. |
-| 44 | b2ch32:46 | "Sit down," said Mrs Jeon. |
-| 44 | b2ch32:78 | Mrs Jeon sat back. |
-| 44 | b2ch32:94 | Mrs Jeon looked at him across her own table. |
-| 44 | b2ch32:112 | "I have been handled," said Mrs Jeon. |
-| 44 | b2ch32:146 | "I am fifty-one," said Mrs Jeon. "I have four months of money and a son who is going to .. |
-| 44 | b2ch32:156 | Mrs Jeon looked at the wall for a while. |
-| 44 | b2ch32:174 | "You have come for something else," said Mrs Jeon. "You would have brought that book bac.. |
-| 44 | b2ch32:184 | Mrs Jeon put her glass down. |
-| 44 | b2ch32:196 | "About three times." Mrs Jeon turned her hand over on the table. "I remember it because .. |
-| 44 | b2ch32:210 | Mrs Jeon looked at the table between them. |
-| 44 | b2ch32:216 | "A reference," said Mrs Jeon. "Six characters. The same six that were on my clearing sli.. |
-| 44 | b2ch32:234 | "You are not asking me where," said Mrs Jeon. |
-| 44 | b2ch32:244 | Mrs Jeon sat with both hands round the glass. |
-| 44 | b2ch32:266 | "Mrs Jeon." |
-| 44 | b2ch32:280 | Mrs Jeon did not answer for a while. |
-| 44 | b2ch32:308 | "Tell her that I read all four pages of the terms and that the third one is generous in .. |
-| 45 | b2ch33:72 | "Because I do not know who is paying for the desk that says no," he said, "and every oth.. |
-| 45 | b2ch33:154 | "And the page from Mrs Jeon. The one for Hwang." |
-| 46 | b2ch34:138 | "Mrs Jeon." |
-| 46 | b2ch34:166 | He has been the one deciding when to move since March. Byun's door, Hwang's crates, Mrs .. |
-| 51 | b2ch36:42 | It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the.. |
-| 51 | b2ch36:50 | "No. Eight of the eleven are alive, and none of them know why it happened to them, and I.. |
-| 57 | b2ch37:230 | *Jeon Mi-ja* |
-| 59 | b2ch38:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 5 | b2ch41:224 | He wrote each of the six down before he crossed them off, because a list that only shows.. |
-| 2 | b2ch42:242 | "Because Mrs Jeon told me it was the only medical invoice she ever passed in twenty-thre.. |
-| 5 | b2ch43:42 | He sat back and read the two lines together, the way Mrs Jeon had taught him to read a c.. |
-| 5 | b2ch43:66 | He wrote that down as well, because a list that only shows what was found is a worse lis.. |
-| 8 | b2ch44:46 | He sat with that for a while before he wrote anything down, because a single filing, how.. |
-| 44 | b2ch69:440 | "You do the same thing to people." She did not raise her voice at any point. "You go in,.. |
-
-### Zahlen in der Naehe von Mrs Jeon
-
-- `b2ch06:56` (Tag 5) - fifty
-- `b2ch06:102` (Tag 5) - one
-- `b2ch06:144` (Tag 5) - four
-- `b2ch07:30` (Tag 7) - three
-- `b2ch07:56` (Tag 7) - one
-- `b2ch07:66` (Tag 7) - one
-- `b2ch09:220` (Tag 9) - five, seven
-- `b2ch28:60` (Tag 39) - four, twenty-three
-- `b2ch29:58` (Tag 40) - four
-- `b2ch29:154` (Tag 40) - one, twenty-three
-- `b2ch30:24` (Tag 40) - fifty-one, twenty-three
-- `b2ch32:146` (Tag 44) - fifty-one, four
-- `b2ch32:196` (Tag 44) - three
-- `b2ch32:216` (Tag 44) - six
-- `b2ch32:308` (Tag 44) - four, one
-- `b2ch33:154` (Tag 45) - one
-- `b2ch34:166` (Tag 46) - one
-- `b2ch36:50` (Tag 51) - eight, eleven, one
-- `b2ch38:156` (Tag 59) - one, three
-- `b2ch41:224` (Tag 5) - forty, one, six
-- `b2ch42:242` (Tag 2) - one, twenty-three
-- `b2ch43:42` (Tag 5) - one, two
-- `b2ch43:66` (Tag 5) - forty, one
-- `b2ch44:46` (Tag 8) - one
-- `b2ch69:440` (Tag 44) - five, four
+- `b2ch71:70` (Tag 45) - eight, eleven, four, four and five, nine, six hundred, ten
 
 ---
 
