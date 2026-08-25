@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.303 Woerter.
+Book One, 34 Kapitel, 101.436 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -25,7 +25,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 12 | v1.10 | 2.351 |
 | 13 | v2.9 | 2.826 |
 | 14 | v7.8 | 2.605 |
-| 15 | v2.9 | 4.216 |
+| 15 | v2.10 | 4.237 |
 | 16 | v1.17 | 3.282 |
 | 17 | v12.14 | 2.747 |
 | 18 | v2.9 | 2.984 |
@@ -37,10 +37,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 24 | v1.7 | 2.664 |
 | 25 | v1.6 | 2.555 |
 | 26 | v1.7 | 2.425 |
-| 27 | v3.5 | 3.101 |
-| 28 | v1.6 | 2.680 |
+| 27 | v3.6 | 3.142 |
+| 28 | v1.7 | 2.722 |
 | 29 | v1.5 | 1.992 |
-| 30 | v1.10 | 3.526 |
+| 30 | v1.11 | 3.555 |
 | 31 | v1.8 | 3.262 |
 | 32 | v1.3 | 2.583 |
 | 33 | v1.14 | 3.345 |
@@ -3933,7 +3933,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.9 · EN
+*Lot Fourteen* · Version 2.10 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4078,6 +4078,8 @@ Hana did not answer straight away.
 Annie did not look at either of them.
 
 "No," she said. "It isn't."
+
+Two women had settled what he is, across a table, in the third person, and neither of them had asked him.
 
 "And Do-yun," said Georgij.
 
@@ -7589,7 +7591,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.5 · EN
+*Lot Fourteen* · Version 3.6 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7837,6 +7839,8 @@ Georgij said nothing, which was correct.
 
 "That is the whole of it, and it is not clever of you, and I would like you to know that I know that as well." She opened it. "It is only that you were the one man alive who had both pages on the same desk."
 
+He owns nothing and can sign nothing, and for one afternoon that was the whole of his qualification.
+
 "Why," she said, a minute later.
 
 "Because it takes the designation out of the middle of your life."
@@ -7899,10 +7903,12 @@ She pulled the folder across the table at last and opened it and read the first 
 
 "No," said Georgij. "He is going to argue with you for a fortnight and get about six per cent of it. Then he is going to tell people for the rest of his life that a woman took him apart over floor space at Incheon."
 
+Nobody in it was going to owe anybody anything afterwards, which is not how the rest of the year has gone.
+
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8032,6 +8038,8 @@ Georgij looked at the card for a moment.
 
 "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed."
 
+She had told him that people have been covering for him all year, and she had put it where it would sting.
+
 * * *
 
 He was in the hall with his coat when she came out after him.
@@ -8075,6 +8083,8 @@ Hana looked at him for a long moment.
 "Then I will take both, and neither of us will mention it again, and you will not say it in front of her."
 
 "No."
+
+He had told a woman a thing he has never told anybody, and she had answered by counting it.
 
 "You are going to be the most solvent person in that room on Tuesday night," he said, "and none of them are going to know it, and you and I are going to be the only two people there who do."
 
@@ -8370,7 +8380,7 @@ A man she had never met was standing exactly where four lines on a card had said
 ---
 
 # Book One · Chapter 30: Who do they telephone
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 74 · Tuesday 16 December*
 
@@ -8583,6 +8593,8 @@ Kim Ye-rin looked out at the black garden.
 "It does not have to be your name in 2045."
 
 "No. It has to be somebody's, and there has never been a document to put a name into." She turned round. "You have just offered me the first one."
+
+He had come out onto a terrace with a question and no answer to it, and she had supplied both the answer and the reason to take it.
 
 Neither of them said anything for a while.
 
