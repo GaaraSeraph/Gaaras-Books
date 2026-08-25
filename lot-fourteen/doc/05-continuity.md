@@ -1353,7 +1353,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Klammer:** er traegt sich beim Hereingehen selbst in das Besucherbuch ein, weil niemand da ist, und beim Hinausgehen die Uhrzeit in die zweite Spalte. **Das Buch ist am Freitag in einer Kiste.**
 
-- **Band 2, Kapitel 22** *I did not offer you anything* (v1.5) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
+- **Band 2, Kapitel 22** *I did not offer you anything* (v1.6) - **Tag 215, Mi 6. Mai. Eine Szene, achter Stock in Seongdong, mit Blick auf den Fluss.**
 
   **Mr Byun**, achtundsechzig, hat das Register des Hauses **sechsundzwanzig Jahre** gefuehrt und ist im November gegangen, weil er nicht fuer Leute arbeiten wollte, die ihn fragen, was er den ganzen Tag macht. **Erster Auftritt und einziger.**
 
@@ -2890,7 +2890,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Kapitel 67 sie sprechen laesst.**
 
 
-- **Band 2, Kapitel 67** *Four hundred and one* (v1.1) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.2) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.

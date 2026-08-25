@@ -156,7 +156,7 @@ once*, *the one who could carry it*). **Alle aus dem Kapitel selbst.**
   Urteil ueber Mr Yeoms Innenleben, nicht ueber Georgijs Wahrnehmung. Das Buch
   steht sonst hinter Georgijs Auge. Wenn Du die Kamera streng willst, muss es
   *"and Georgij took it as the largest one the man had"* heissen.
-- **b2 K61, Woos vier Tage.** Erste Fassung des Schlusskommentars gab ihm ein
+- **b2 K61, Woos vier Tage.** Erster Entwurf des Schlusskommentars gab ihm ein
   **falsches Motiv** (er habe es getragen, damit Georgij es nicht von jemand
   Schlimmerem hoere). Im Text wartet er die vier Tage, *"because I was waiting
   for the rest of it"*. Ersetzt durch das Motiv, das er selbst nennt: *"I have
@@ -220,11 +220,11 @@ Saetze eine Zahl.
   (*"you have not got the first idea why, and I am not going to explain it to
   you"*). Das kann gewollt sein - der Leser bekommt, was Byun nicht bekommt -
   oder es nimmt der Verweigerung die Spitze. **Autorenentscheidung.**
-- **K18, beim Schreiben selbst gefangen und ersetzt.** Erste Fassung: *"...and he
+- **K18, beim Schreiben selbst gefangen und ersetzt.** Erster Entwurf: *"...and he
   had started running it before she finished the sentence."* Das widerspricht dem
   spaeteren *"He went at it on the stairs afterwards and did not get anywhere."*
   Jetzt: *"...and no way at all to check the answer."*
-- **K23, ebenso.** Erste Fassung: *"He had handed a man to a woman of eighty-one
+- **K23, ebenso.** Erster Entwurf: *"He had handed a man to a woman of eighty-one
   ... Both halves were deliberate."* Damit haette der Erzaehler Mrs Sunwoos
   Lesart (*"You are inviting me to do something"*) gegen Georgijs ausdrueckliches
   Dementi bestaetigt. Jetzt steht nur, was auf der Seite steht: *"He had given
@@ -337,7 +337,7 @@ eine Zahl.
 - **K21** - *"Nobody in that building had ever said it to him, because everybody
   in that building had thought he was the improvement."* Behauptung ueber ein
   ganzes Haus ueber fuenf Monate. Traegt den Sinn, ist aber nicht belegbar.
-- **K52, beim Gegenlesen ersetzt.** Erste Fassung: *"...for eleven years without
+- **K52, beim Gegenlesen ersetzt.** Erster Entwurf: *"...for eleven years without
   once having to think about it."* Das ist falsch: Sim sagt im selben Kapitel,
   er habe die Leute **selbst ausgesucht und sei zweimal hingefahren**. Jetzt:
   *"...and had never once been given a reason to ask."*
@@ -517,3 +517,80 @@ wurde jeder einzelne beim Versuch, ihn fuer dieses Blatt zu belegen.
 jedes Absolutum mit einer Fundstelle einzutragen, ist nicht die Buchhaltung
 hinterher. **Sie ist die Pruefung.**
 
+---
+
+### Nachtrag: zwei Entscheidungen des Autors, und eine davon ist ein belegter Fehler
+
+Beide Stellen standen unter *Unsicher* und sind vom Autor entschieden worden.
+
+#### 1. b2 K22 - der Kommentar ist ersatzlos entfernt
+
+> gestrichen: *"The difference is whether the man doing it wants to, and it
+> makes no difference whatever to the man it is done to."*
+
+**Er beantwortete, was Georgij eine Zeile vorher ausdruecklich verweigert**
+(*"you have not got the first idea why, and I am not going to explain it to
+you"*). Der Erzaehler hat die Verweigerung damit aufgehoben. `ch22` ist auf
+v1.6, an der Stelle steht nichts mehr.
+
+#### 2. b2 K67 - geprueft, widerlegt, ersetzt
+
+> alt: *"It is the last thing she is known to have decided, and it was about
+> flowers."*
+> neu: *"She had finished deciding before she came up those stairs, and the only
+> thing she had left to arrange was where the flowers went."*
+
+**Der alte Satz behauptete den Zeitstrahl, und der Text widerspricht ihm an drei
+Stellen, alle in b2 K40:**
+
+| Fundstelle | Wortlaut |
+|---|---|
+| K40, Jangs dritte Vermutung | *"a person who is allowed to stand at a window and **choose when the light goes off** has more left than most of what I have seen"* |
+| K40, Jangs Zaehlung | *"I have seen the light in it on **eleven of the sixteen nights**, always off by ten."* |
+| K40, Kapitelschluss | *"a woman awake before six, in a building with a rota, is **not, whatever else is true about her, asleep to what is happening to her**."* |
+
+Die dritte ist die schlimmste: **das ist der Erzaehler selbst, und er sagt das
+Gegenteil.** Mein Satz in K67 haette also einen Erzaehlerabsatz gegen einen
+anderen gestellt, elf Kapitel auseinander, und in beiden haette der Leser dem
+Erzaehler geglaubt.
+
+**Der Ersatz benutzt nur die Szene** - Mrs Ha: *"She had decided something and
+she'd finished deciding it. There was nothing left in her about it at all."* -
+und behauptet nichts ueber die elf Jahre danach.
+
+**Auch mein eigener Rueckfall war unsicher** - ein verworfener Entwurf:
+
+> *"the last thing she asked anybody for"*
+
+Auch das ist eine Aussage ueber den Zeitstrahl, und die Blumen sind ausserdem
+keine Bitte, sondern eine Anweisung (*"send them to the hospital in Mapo"*).
+**Ein kleinerer Superlativ ist derselbe Fehler in leiser.**
+
+#### Was das fuer die Fehlerklasse heisst
+
+Bisher hiess sie: *der Erzaehlerkommentar behauptet mehr, als die Szene
+hergibt.* Sie ist jetzt schaerfer:
+
+> **Ein Erzaehlerkommentar darf nichts behaupten, was ausserhalb seiner eigenen
+> Szene liegt.** Nicht ueber ein anderes Kapitel, nicht ueber die Jahre davor
+> oder danach, nicht ueber ein Gebaeude, nicht ueber die Handlung als ganze.
+> Alles davon ist ungeprueft und wird geglaubt.
+
+Die sieben Faelle dieses Durchgangs passen ausnahmslos in diesen Satz.
+`faktenspur.py` hat keinen davon gefunden, `check.py` keinen, `belege.py`
+keinen. Gefunden wurden sechs beim Belegen fuer dieses Blatt und **einer vom
+Autor beim Lesen des Blatts** - was der eigentliche Zweck des Blatts ist.
+
+#### Eine Falle in `belege.py`, gefunden beim Schreiben dieses Nachtrags
+
+Die Vorschlagsmarke wird **nur in der letzten Zeile des Absatzes vor dem Zitat**
+gelesen, nicht irgendwo im Absatz. `vorschlagszeilen()` setzt `vorlauf` bei
+jeder nichtleeren Zeile neu, also loescht die zweite Zeile eines umgebrochenen
+Absatzes die Marke aus der ersten wieder.
+
+In einem Repo, in dem alle Dokumente auf achtzig Zeichen umgebrochen sind, ist
+das die haeufigste Art, wie eine richtig gemeinte Markierung stillschweigend
+nicht wirkt. Wer markiert, schreibt das Wort in die **letzte** Zeile vor dem
+Zitat - oder `vorlauf` merkt sich die Marke bis zur naechsten Leerzeile.
+
+**Nicht von mir geaendert**, `belege.py` gehoert der Pruefsitzung.
