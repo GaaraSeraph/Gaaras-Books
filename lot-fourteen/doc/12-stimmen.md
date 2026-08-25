@@ -582,6 +582,41 @@ jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
 Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
 a name."*
 
+**Dazu gemessen, 1205 Wörter, und ein Befund, der aussieht wie ein Fehler und
+keiner ist.**
+
+Woo hat **die dichteste Und-Kette im ganzen Buch: 3,3 je 1000 Wörter** - gegen
+Georgijs 1,0. Nach Haustic 3 müsste das die schlimmste Stelle des Buchs sein.
+Sie ist es nicht, und der Grund gehört ins Blatt:
+
+> Georgij: *"…**and** it had cost Annie nothing at all, **and** Chairman Woo had
+> not asked for it."* - jedes Glied ist ein **Schluss** aus dem davor.
+> Woo: *"I sat across a table from him nine or ten times, **and** I liked him,
+> **and** he beat me twice on ground I should have had."* - jedes Glied ist ein
+> **Posten**, und in fast jedem steht eine Zahl.
+
+**Georgijs Kette denkt, Woos Kette zählt.** Die Messung sieht nur die Syntax;
+das Ohr hört den Inhalt. Wer Woos Ketten glättet, nimmt einem Achtundsiebzig-
+jährigen das Hauptbuch weg. **Sie bleiben.**
+
+Was ihm dagegen wirklich nicht gehört, war die **Negativdefinition** - zwei
+Stellen, beide ersetzt durch seine eigene Bewegung, die Korrektur der Prämisse:
+
+> b1 K13: *"…the interesting question is **not** who put it there. The
+> interesting question is who is going to be standing there with an open hand."*
+> → *"…**you are asking the wrong question. Ask** who is going to be standing
+> there with an open hand."*
+> b1 K19: *"And you did it after I signed, **which means** you were not paying
+> for the signature."* → *"And you did it after I signed. **Men pay before.**"*
+
+Der zweite ersetzt zugleich den selbstkommentierenden which-Satz durch das,
+was Woo statt einer Erklärung hat: **eine Regel des Gewerbes, flach hingelegt.**
+
+**Hana und Ye-rin brauchten am Text nichts.** Beider Blätter stehen bereits im
+Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung, Ye-rin kommt
+in allen fünf getaggten Repliken über Dritte. Kein Eingriff ist besser als ein
+erfundener.
+
 ### Sim (dreißig Jahre Fixer)
 **Sein Instrument ist die Freundlichkeit**, und er legt es nie ab. *"Tips the
 room and not the person, which means everybody gets some, which means everybody
