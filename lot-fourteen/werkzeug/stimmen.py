@@ -50,7 +50,21 @@ TICS = {
     "Negativ-Def":     r"\bNot [a-z][^.]{0,30}\.\s+Not \b",
     "Selbstdiagnose":  r"\bI have (stopped|never been able to|got as far as|"
                        r"given up)\b",
-    "Kontraktion":     r"\b\w+'(?:s|t|re|ve|ll|d|m)\b",
+    # Kontraktion ohne Genitive. Der Ausdruck stand bis zum 25.08. auf
+    # r"\b\w+'(?:s|t|re|ve|ll|d|m)\b" und traf jedes *Woo's*, *brother's*,
+    # *somebody's mother*. Wer viel ueber fremdes Eigentum redet, sah dadurch
+    # aus wie jemand, der zusammenzieht - und die Standeslinie in doc/12 ist
+    # genau eine Aussage darueber, wer zusammenzieht. Mrs Gwak stand dort bei
+    # 10,2 und zieht kein einziges Mal zusammen.
+    #
+    # 't 're 've 'll 'd 'm sind eindeutig. Bei 's entscheidet der Kontext:
+    # nach einem Pronomen ist es immer eine Kontraktion, sonst entscheidet das
+    # folgende Wort - *the gravel's been raked* gegen *the gravel's colour*.
+    "Kontraktion":     r"\b\w+'(?:t|re|ve|ll|d|m)\b"
+                       r"|\b(?:it|that|there|here|he|she|what|who|where|when|"
+                       r"why|how|let|this)'s\b"
+                       r"|\b\w+'s\s+(?:been|got|not|going|just|only|still|"
+                       r"always|never|already|about|gone|coming|done)\b",
     "Ausrufezeichen":  r"!",
     "soziale Frage":   r",\s*(is it|isn't it|are you|aren't you)\?",
 }

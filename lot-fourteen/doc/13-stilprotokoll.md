@@ -776,3 +776,104 @@ Befehl danebenzuschreiben.
 gemessenen** - Ye-rins Blatt steht ausdruecklich auf *"aus Band 1, Kapitel 30
 gelesen und nicht gezaehlt"*, weil `stimmen.py` bei ihr nur fuenf Repliken
 findet. Wer `doc/12` durchgeht, faengt dort an und nicht bei den Tabellen.
+
+---
+
+### doc/12 gegengelesen, die gelesenen Blaetter zuerst
+
+Auftrag des Autors, nachdem die Pruefsitzung an Hanas Blatt eine erfundene
+Selbstaussage gefunden hatte. Bisher zwei Blaetter durch - **Ye-rin und Jang -
+und beide waren falsch, Jang auf eine Art, die bereits ins Buch geschrieben
+worden war.**
+
+#### Der schwerste Fund: ein Defekt in `stimmen.py`, und das Werkzeug ist meins
+
+Der Kontraktionszaehler stand auf `\w+'(?:s|t|re|ve|ll|d|m)` und traf
+**jeden Genitiv** - *Woo's*, *brother's*, *somebody's mother*. Wer viel ueber
+fremdes Eigentum redet, sah aus wie jemand, der zusammenzieht.
+
+**Die Standeslinie in `doc/12` war genau eine Aussage darueber, wer zusammenzieht,
+und sie stand vollstaendig auf diesem Zaehler.**
+
+| | stand in doc/12 | misst wirklich |
+|---|---|---|
+| Mr Ahn | 106,7 | **78,7** |
+| **Mrs Seo** | **17,9** | **0** |
+| Jang | 13,8 | **3,4** |
+| Hana | 11,9 | 5,3 |
+| **Mrs Gwak** | **10,2** | **0** |
+| **Mr Chae** | **8,9** | **0** |
+| Annie | 6,3 | 3,5 |
+| Woo | 4,1 | 1,7 |
+| Sang-hoon | 3,8 | 1,1 |
+| Georgij | 3,4 | **2,5** |
+
+**Drei Figuren standen bei zehn bis achtzehn und ziehen kein einziges Mal
+zusammen.** Und Georgij zieht oefter zusammen als Woo und Sang-hoon - in der
+alten Tabelle stand er ganz unten.
+
+**Die Regel, die darauf stand, ist gefallen:** *"Wer nicht im Gewerbe ist, zieht
+zusammen."* Mrs Seo fuehrt einen Haushalt, Mrs Gwak hat einen Blumenladen, beide
+null. **Ein Durchgang nach dieser Regel haette drei Figuren ein Register
+erfunden.**
+
+**Was statt dessen dasteht und brauchbarer ist:** Mr Ahn 78,7, eine
+Groessenordnung ueber allen; danach Rauschen; und **dreizehn benannte Figuren
+bei exakt null**, quer ueber beide Baende. Die Null ist ein Verbot und keine
+Tendenz.
+
+`stimmen.py` ist repariert und eicht sich an acht Proben, darunter *the gravel's
+been raked* gegen *the gravel's colour*.
+
+#### Jang: vier Behauptungen, vier falsch - und eine hatte schon gewirkt
+
+| Behauptung | Befund |
+|---|---|
+| *"Er zieht zusammen, in beiden Baenden."* | **Drei Kontraktionen im ganzen Buch**, alle drei in **einem** Wechsel ueber Kies in b1 K05. Sonst nirgends |
+| *"Er ist der langsatzigste Sprecher des Buchs, alle anderen liegen bei sieben bis acht."* | Hwang 11,9 · Georgij und Sang-hoon 11,6 · Yeom 11,4 · **Jang 11,2** · Woo 11,0. Mittelfeld |
+| *"Er laesst sich nicht einschenken."* | b1 K23: Georgij schenkt ihm mit beiden Haenden ein, er sagt *"You should not do that."* - **und trinkt es** |
+| 45 Repliken, 721 Woerter, Ø 12,2, laengster 37 | jetzt 40 Repliken, 585 Woerter, Ø 11,2, 8 Prozent ueber 25 |
+
+**Die erste hat bereits ins Buch gewirkt.** Auf sie hin sind in b2 K40 zwei
+Kontraktionen in Jangs Repliken geschrieben worden. **Damit hat sich die
+Behauptung selbst gemessen:** das Blatt sagte, er ziehe zusammen; ich machte ihn
+zusammenziehen; das Werkzeug meldete danach, dass er zusammenzieht.
+**Zurueckgenommen in ch40 v2.6.** Das *ma'am* bleibt - das ist die Entscheidung
+des Autors und nicht meine Ableitung.
+
+#### Ye-rin: fuenf Behauptungen, fuenf falsch
+
+| Behauptung | Befund |
+|---|---|
+| *"Kein Titel, kein Name."* | Sie sagt **"Mr Georgij."** - einmal, an der Tuer, unmittelbar vor den zweiundzwanzig Minuten |
+| *"Kein Wort ueber Gefuehle."* | *"I have disliked everything so far."* · *"You are very bad at selling things."* |
+| *"keine Frage, die sie nicht selbst beantwortet"* | Sie stellt in b1 K30 mindestens acht und Georgij beantwortet die meisten |
+| *"sie spricht nie zuerst aus sich selbst"* | In der zweiten Haelfte des Kapitels ausschliesslich aus sich selbst. **Der Wechsel ist ihr Bogen** |
+| *"Wenn sie sich umdreht, ist das die Szene."* | Fuenfmal markiert, **zwei** davon Ereignisse |
+
+**Die erste ist die gefaehrlichste, die dieser Durchgang gefunden hat.** Ein
+Stildurchgang, der dem Blatt gefolgt waere, haette **"Mr Georgij." gestrichen** -
+die einzige Anrede, die sie im ganzen Buch benutzt, und der Schluss des Kapitels.
+Sie steht jetzt im Blatt als **festgelegt**.
+
+Dazu die Ueberschrift: *"Kim Ye-rin (17 Repliken)"*. Die Terrassenszene in b1 K30
+hat **117 Redeabsaetze im Wechsel**, also rund siebenundfuenfzig fuer sie - in
+einem Kapitel. Die Falle steht woertlich in `CLAUDE.md` und hat trotzdem
+funktioniert.
+
+#### Was das ueber die Blaetter sagt
+
+**Zwei gelesene Blaetter, neun falsche Behauptungen.** Keine davon war eine
+Erfindung aus dem Nichts - jede war eine **Verallgemeinerung aus einer richtigen
+Beobachtung**: Ye-rin benutzt fast nie eine Anrede, also *"kein Titel, kein
+Name"*; Jang spricht knapp, also *"der langsatzigste"* (im Kopf gedreht und nie
+nachgezaehlt).
+
+**Die Fehlerklasse ist damit dieselbe wie bei den Erzaehlerkommentaren, und der
+Massstab auch:** ein Blatt darf ueber die Szene hinausgreifen, aber jeder Griff
+muss belegt sein. **Der Unterschied ist der Preis.** Ein falscher
+Erzaehlerkommentar steht an einer Stelle. Ein falsches Blatt wird in hundert
+Kapitel geschrieben, und bei Jang ist genau das schon passiert.
+
+**Noch offen:** Mrs Seo, Yeom, Hwang, Mrs Jeon, Mrs Bae, Mrs Gwak, Mr Sohn,
+Mr Koh, Mr Byun, Mr Chae, Sang-hoon, Hana.
