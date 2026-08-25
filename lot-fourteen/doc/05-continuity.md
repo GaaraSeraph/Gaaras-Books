@@ -3020,6 +3020,57 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
+- **Band 2, Kapitel 69** *The call he did not take* (v1.0) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
+  auf zwei Funde des Pruefers hin.
+
+  **1. Die fuenf Firmen** (zugesagt 3. April, Kapitel 12: *"the other five will be
+  yours, completely, not as customers and not as an arrangement"*).
+  - **Der Befund war schlimmer als der Eintrag.** Sie haben Arbeit bekommen -
+    Kapitel 20: *"Mr Kwon signed on the twenty-seventh. The other four sign
+    Chairman Woo's paper in the first week of May."* Aber das sind **Woos** Kunden
+    auf **Woos** Papier. Annie war die Fahrspur versprochen und hat **nichts**
+    bekommen.
+  - **Und der Keim lag seit Kapitel 24 im Text:** *"Mr Kwon telephoned Georgij
+    about it and Georgij did not take the call."* Vier Anrufe insgesamt: Mai, Juni
+    zweimal, 11. August. Keinen zurueckgerufen.
+  - **Mr Kwon faehrt am 9. September vier Stunden hoch und steht am Tor.** Er will
+    nichts rueckgaengig machen und um nichts bitten. Er will **wissen, wem er
+    danken soll**, und hat vier Monate dafuer gebraucht. Woo hatte ihn im Juni
+    weitergeschickt: *"he should go and ask the person who did not take his
+    telephone call."*
+  - **Annies Antwort ist die eigentliche Bezahlung, und sie gibt ihm nichts:**
+    *"Nothing was arranged for the five of you. You were arranged for."* Und dann:
+    *"You do not owe anybody in this house one hour of anything… If you go home
+    believing that you do, somebody will ask you for it inside a year and you will
+    not be able to say no."*
+  - **Und der Grund fuer die vier nicht angenommenen Anrufe kommt heraus:** Kwon
+    wollte im Mai sagen, dass sein Partner in Ordnung ist. Georgij hatte in zwei
+    Sekunden im Wagen entschieden, was in dem Anruf steht, **auf der Grundlage
+    dessen, was er selbst gefuehlt haette.**
+
+  **2. Annies "You will in about a month"** (Kapitel 5, 11. Maerz, faellig Anfang
+  April, sechs Monate offen).
+  - Sie loest es selbst ein und sagt, warum sie achtzehn Wochen gewartet hat: haette
+    sie es gesagt, waere es eine Anweisung geworden und **bis Freitag schoen
+    erledigt.**
+  - **Was der Nachmittag gekostet hat, ist nicht der Name im Buch.** Er hat in
+    Jung-gu seinen eigenen Namen in ein Kurierbuch geschrieben, einen Strich
+    dadurch ziehen lassen und ist nie wiedergekommen. *"You do the same thing to
+    people."* Ihre Liste: Byun, Mrs Jeon, Hwang, die Frau mit der Giesskanne, fuenf
+    Spediteure, ein Mann mit vier Anrufen.
+  - **Und die eine, die sie absichtlich ausgelassen und dann nachgereicht hat:
+    Mr Ahn.** Schlusszeile des Kapitels: er faehrt nicht am Freitag, sondern
+    morgen, **und ohne irgendetwas mitzunehmen.**
+  - Er hat den Lerneffekt schon gehabt (ein gestrichener Strich ist ein Eintrag,
+    April, fremde Seite; Yeom fand ihn im Mai ueber ein eigenhaendig
+    unterschriebenes Formular). **Annie: das ist, was er gelernt hat, und nicht,
+    was es gekostet hat.**
+  - Mr Kwon ist 54 und macht das seit seinem zweiundzwanzigsten Lebensjahr,
+    zweiunddreissig Jahre (hier zum ersten Mal beziffert).
+
+
 ---
 
 ## Der Juli ist betreten
