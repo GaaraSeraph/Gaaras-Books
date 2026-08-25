@@ -3628,9 +3628,67 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Der Bodenwert ist **drei Zahlen**, und er legt die dritte nach oben: was das
     Gelaende wert ist, was **dieses** Gelaende wert ist, und was es einem Mann wert
     ist, der binnen drei Wochen verkaufen muss und nicht sagen kann, warum.
-  - **OFFEN FUER DIE NAECHSTE SITZUNG:** Kapitel 79 ist Annie und Woo, mit ihrem
-    Vater zwischen ihnen. **Ob sie ihm sagt, dass sie es seit dem 18. September
-    weiss, ist noch nicht entschieden.**
+  - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
+    Siehe Kapitel 79.
+
+- **Band 2, Kapitel 79** *What it is worth* (v1.0) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, und er verliert das Gelaende.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit
+    den drei Zahlen. Georgij braucht elf Kilometer, um zu begreifen, dass sie
+    nichts auf einen Tisch legen koennen will.
+  - **Woo liest den Raum an der Tuer:** *"You have brought him. Then it is not
+    about ground."*
+  - **DIE REIHENFOLGE IST DER PREIS.** Sie sagt es in der ersten Minute, vor
+    jeder Bitte, mit Datum: der 24. August, fuenfzig Minuten, ihr eigenes
+    Arbeitszimmer, und seit dem 18. September hat sie es. *"I am not going to sit
+    in your house and ask you for a favour while that is true."*
+  - **Und der Vorwurf ist nicht, dass Georgij geredet hat.** Woo trifft die
+    genaue Stelle: *"two people have had it between them since the eighteenth of
+    September and have been choosing when I would find out... I have spent
+    seventeen days being the only man in this who did not know where he stood."*
+    Und dann die Symmetrie, die die Szene traegt: **"That is exactly the thing I
+    refused to do to you in August, and the pair of you have done it to me."**
+  - **Georgij wird nicht geschuetzt und schuetzt sich nicht.** Auf die Frage, wer
+    in den fuenfundzwanzig Tagen entschieden hat, sagt er *"I decided"* und
+    benennt es: *"It was me choosing the morning."*
+  - **Woos Urteil darueber, und es ist das Haerteste im Kapitel**, weil es kein
+    Freispruch ist: *"It looks like restraint from inside. From outside it is a
+    man keeping the last decision for himself... You did not do a wrong thing. You
+    did a thing that is only distinguishable from the wrong one by what you did on
+    the day she asked."*
+  - **Sie sagt nicht, wofuer sie das Geld braucht**, und benennt selbst, was das
+    ist: *"I have taken away your reason to believe me on a Monday morning and
+    then I have asked you to believe me anyway."* **Woos Antwort darauf ist der
+    schlimmste Satz, den sie an dem Tag hoert:** *"That is the first thing this
+    morning that your father would have done."*
+  - **Er gibt es her, ohne Bedingungen, und sagt, warum das schlimmer ist:**
+    *"A promise with no paper is worth exactly what the person holding it says it
+    is worth on the morning it is tested. You have told me this morning what mine
+    is worth."*
+  - **Was er damit wollte, sagt er erst danach und ans Fenster:** Container, vier
+    Jahre lang jede Hartflaeche an dem Abschnitt geprueft, drei von vier
+    ueberschwemmen. Bauen wollte er nichts. *"I was going to have it and let
+    somebody younger find out in about six years that I had been right."*
+  - **DIE UNGEFRAGTE GABE AN DER TUER**, wie jedes Mal seit Oktober, und sie ist
+    diesmal eine Ohrfeige: **Cha Tae-seong in Gimpo**, seit Juni knapp an
+    Hoffläche, zahlt ein Fuenftel mehr und in neun Tagen. *"I am not doing it for
+    you... And you are not going to thank me, because I have not given you
+    anything. I have given the ground a price."*
+  - **Georgijs Lesart der Halle**, im Wagen: Woo hat es acht Minuten nach dem
+    Verlust getan, **in der Halle und nicht im Zimmer**, damit es nicht Teil des
+    Gespraechs ueber ihren Vater werden kann.
+  - **Und Annies letzter Satz, den sie einmal sagt:** *"He was right about the
+    twenty-five days and I have not said so... I have been doing the same thing to
+    you since the second of March and I did it for six months longer than you did
+    it to me."*
+  - **NEUER KANON: Cha Tae-seong**, Gimpo. **Er spricht nicht** und steht deshalb
+    nur im Cast. Der Name hiess beim Schreiben zuerst **Ryu Tae-seong** und wurde
+    noch am selben Tag geaendert, weil *Ryu* in b2 K38 vorkommt und **Mr Ryu
+    bereits einmal aus demselben Grund zu Mr Koh** geworden ist.
+  - **Schuldbuch:** die Aprilzusage an Woo ist der **erste und bisher einzige
+    VERFALLEN-Eintrag des Buches.** Verfallen und nicht offen, weil der Text es
+    weiss und sie es selbst so nennt, bevor sie hinfaehrt.
 
 
 

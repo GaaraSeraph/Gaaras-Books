@@ -18,11 +18,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 845 | 90 (b1ch01-b2ch78) | 1 | 74 |
+| Annie | 854 | 91 (b1ch01-b2ch79) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 234 | 40 (b1ch07-b2ch78) | 1 | 74 |
+| Chairman Woo | 248 | 41 (b1ch07-b2ch79) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
+| Jang | 146 | 37 (b1ch05-b2ch79) | 2 | 60 |
 | Sim | 133 | 19 (b2ch31-b2ch78) | 2 | 53 |
 | Mrs Seo | 97 | 45 (b1ch03-b2ch76) | 1 | 74 |
 | Mr Ahn | 85 | 8 (b2ch56-b2ch77) | 3 | 53 |
@@ -34,7 +34,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 45 | 7 (b2ch14-b2ch74) | 4 | 53 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
-| Mr Ku | 34 | 23 (b1ch05-b2ch78) | 3 | 60 |
+| Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-845 Nennungen in 90 Kapiteln.
+854 Nennungen in 91 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -918,6 +918,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch78:138 | "That is the second time this month you have done that to me and I want it to go on happ.. |
 | 7 | b2ch78:150 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
 | 7 | b2ch78:182 | Annie stood in the passage with the sheet in her hand. |
+| 10 | b2ch79:26 | "It is about ground," said Annie. "It is not only about ground, and you have worked that.. |
+| 10 | b2ch79:36 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
+| 10 | b2ch79:70 | Annie did not defend it. |
+| 10 | b2ch79:108 | Annie let a moment go past. |
+| 10 | b2ch79:130 | "I need a great deal of money faster than I can decently raise it, and I am not going to.. |
+| 10 | b2ch79:140 | Annie did not answer that. |
+| 10 | b2ch79:174 | Annie stood in the hall. |
+| 10 | b2ch79:186 | "Say what he did in the hall," said Annie. |
+| 10 | b2ch79:198 | Annie looked out of the window for a while. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1157,6 +1166,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:68` (Tag 6) - one
 - `b2ch78:138` (Tag 7) - four, one, six
 - `b2ch78:150` (Tag 7) - one, two
+- `b2ch79:36` (Tag 10) - fifty, twenty, twenty-five
 
 ---
 
@@ -1573,7 +1583,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-234 Nennungen in 40 Kapiteln.
+248 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1811,6 +1821,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 56 | b2ch76:28 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
 | 59 | b2ch76:54 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
 | 7 | b2ch78:98 | "Chairman Woo," said Annie. |
+| 10 | b2ch79:14 | The house is older than the road it stands on and has been added to twice, both times ba.. |
+| 10 | b2ch79:38 | Woo did not move at all. |
+| 10 | b2ch79:46 | "How much of it," said Woo. |
+| 10 | b2ch79:56 | Woo looked at the table for a while. |
+| 10 | b2ch79:66 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
+| 10 | b2ch79:78 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
+| 10 | b2ch79:94 | "Yes," said Woo. "It was." |
+| 10 | b2ch79:104 | "You do not know it in the way you are going to know it. You are twenty-six." Woo did no.. |
+| 10 | b2ch79:112 | Woo put one hand flat. |
+| 10 | b2ch79:120 | "Why," said Woo. |
+| 10 | b2ch79:126 | Woo looked at her properly for the first time since the hall. |
+| 10 | b2ch79:136 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
+| 10 | b2ch79:144 | "You will have it," said Woo. |
+| 10 | b2ch79:178 | "I am not doing it for you." Woo did not put his hand out. "I have looked at that ground.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1959,6 +1983,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
 - `b2ch76:28` (Tag 56) - five, one, seven
 - `b2ch76:54` (Tag 59) - one, three
+- `b2ch79:66` (Tag 10) - four
+- `b2ch79:78` (Tag 10) - twenty-five
+- `b2ch79:104` (Tag 10) - one, twenty-six
+- `b2ch79:112` (Tag 10) - one
+- `b2ch79:178` (Tag 10) - four
 
 ---
 
@@ -2208,7 +2237,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-145 Nennungen in 36 Kapiteln.
+146 Nennungen in 37 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2357,6 +2386,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:288 | Jang did not say anything, because he had never been given the name. |
 | 53 | b2ch74:528 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
 | 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
+| 10 | b2ch79:200 | "Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes t.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -3696,7 +3726,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Ku
 
-34 Nennungen in 23 Kapiteln.
+35 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3734,6 +3764,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:36 | Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask.. |
 | 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
 | 6 | b2ch78:80 | Mr Ku had the car door open on the drive and had been standing beside it for four minute.. |
+| 10 | b2ch79:10 | Mr Ku had them there at four minutes to ten. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -3757,6 +3788,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:36` (Tag 6) - eight, eleven, twenty
 - `b2ch78:74` (Tag 6) - thirty, two
 - `b2ch78:80` (Tag 6) - four
+- `b2ch79:10` (Tag 10) - four, ten
 
 ---
 

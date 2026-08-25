@@ -63,6 +63,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
 | **Baek Jun-ho** | Solicitor in Yeouido, verwaltet den Trust seit elf Jahren | B2 42 | **Faellig, aber zuletzt.** Das Geld ist der Sauerstoff |
 | **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
+| **Cha Tae-seong** | Gimpo, seit Juni knapp an Hoffläche, hat Geld, das dieses Jahr weg muss | B2 79 (nur genannt) | **Woos ungefragte Gabe:** zahlt ein Fuenftel mehr und in neun Tagen |
 | **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | Seit Ende August im Haus in Gangwon-do, der erste neue Wachmann in vier Jahren | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
 | **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
