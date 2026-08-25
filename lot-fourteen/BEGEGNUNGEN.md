@@ -709,13 +709,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch45:243 | Annie sat down on the edge of the desk with her back half to him and looked at the open .. |
 | 11 | b2ch45:275 | "You have written that sentence twice," said Annie. |
 | 11 | b2ch45:287 | He finished the line. Annie came off the edge of the desk and sat down on the floor at t.. |
-| 5 | b2ch46:186 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
-| 5 | b2ch46:198 | Annie did not sit down. |
-| 5 | b2ch46:214 | "That is the same man," said Annie. |
-| 5 | b2ch46:230 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
-| 5 | b2ch46:254 | Annie sat down at last. |
-| 5 | b2ch46:290 | "Then here is the one thing I want from today, and it is not about him." Annie put the p.. |
-| 5 | b2ch46:314 | Annie looked at him for a long moment. |
+| 5 | b2ch46:214 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
+| 5 | b2ch46:226 | Annie did not sit down. |
+| 5 | b2ch46:242 | "That is the same man," said Annie. |
+| 5 | b2ch46:258 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
+| 5 | b2ch46:282 | Annie sat down at last. |
+| 5 | b2ch46:318 | "Then here is the one thing I want from today, and it is not about him." Annie put the p.. |
+| 5 | b2ch46:342 | Annie looked at him for a long moment. |
 | 10 | b2ch47:116 | Annie came in at half past ten and did not comment on the flowers for a full minute, whi.. |
 | 10 | b2ch47:128 | Annie went and stood over them and did not touch them either. |
 | 10 | b2ch47:156 | Annie looked at him for a while. |
@@ -930,7 +930,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch44:267` (Tag 8) - one
 - `b2ch45:10` (Tag 11) - four, one
 - `b2ch45:287` (Tag 11) - two
-- `b2ch46:290` (Tag 5) - one
+- `b2ch46:318` (Tag 5) - one
 - `b2ch47:116` (Tag 10) - ten
 - `b2ch47:228` (Tag 10) - one
 - `b2ch48:230` (Tag 2) - twelve
@@ -2184,7 +2184,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
 | 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
-| 5 | b2ch46:186 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
+| 5 | b2ch46:214 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
 | 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
 | 10 | b2ch47:28 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
 | 3 | b2ch51:6 | The second delivery came on the Thursday, at the same hour as the first, to the same gat.. |
@@ -2799,7 +2799,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch41:184 | Mrs Bae closed the book, unhurried, and put her hand flat on the cover. |
 | 5 | b2ch41:212 | He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same.. |
 | 5 | b2ch41:224 | *Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three roo.. |
-| 5 | b2ch46:226 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
+| 5 | b2ch46:254 | "I have found out that Mrs Bae likes him, and the cook likes him, and a woman with a wat.. |
 | 10 | b2ch47:94 | Mrs Bae has kept a book in pencil for twenty-two years and has never in her life forgott.. |
 | 10 | b2ch47:144 | "Mrs Bae rang him." He said it flatly and completely. "The woman in the fifth kitchen. S.. |
 | 10 | b2ch47:248 | *Mrs Bae, and she is not on page two, she is on page one, because she is not somebody wh.. |

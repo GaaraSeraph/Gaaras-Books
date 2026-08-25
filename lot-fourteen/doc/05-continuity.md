@@ -2486,9 +2486,17 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   aufgefallen, nachdem er geschrieben war.
 
 
-- **Band 2, Kapitel 46** *The post still comes* (v1.0) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
+- **Band 2, Kapitel 46** *The post still comes* (v1.1) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
+  **v1.1 am 25.08.: die Frau mit den Pflanzen nach `doc/12-stimmen.md`.** Sie ist
+  die einzige Zivilistin im Buch und klang wie Georgij. Jetzt hat sie ein eigenes
+  Anliegen (der Reinigungsdienst, Mrs Kwons Sohn an der Hanyang, ihr eigener und
+  die Ajou), zieht zusammen, benutzt Ausrufezeichen und soziale Fragen, und
+  **beantwortet die Frage nicht** - sie fragt zurueck, was er gemeint hat.
+  Inhaltlich unveraendert: dieselben sieben Auskuenfte, nur faellt jede jetzt
+  nebenbei ab. Die Vorlage stammt vom Autor und steht in `doc/12-stimmen.md`.
+
 
 - **Band 2, Kapitel 47** *Twelve white stems* (v1.2) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
 
@@ -2552,7 +2560,17 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.1) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.2) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+  **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
+  Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
+  four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
+  Werkbank an. **Und der Widerspruch zwischen "a man of about forty-five" und
+  "four years under me" ist kein Fehler mehr, sondern ein Takt:** er ist
+  neununddreissig, Georgij hat ihn auf fuenfundvierzig gelesen, und Georgij irrt
+  sich darin nie um mehr als ein Jahr. **Faellig fuer den Inhalts-Chat:** Mr Ahn
+  ist neununddreissig, nicht fuenfundvierzig, falls das Geburtstagsregister es
+  schon anders fuehrt.
+
 
 - **Band 2, Kapitel 57** *Nobody paid* (v1.0) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 

@@ -216,8 +216,16 @@ this."* Sie fragt nicht, was in dem Umschlag ist.
 ### Mr Ahn (39, repariert Kleinmotoren)
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
 Steht schon in seiner ersten Zeile: *"It will be Tuesday. Whatever it is."*
-Zieht zusammen. Beantwortet Fragen über seine Schwester, indem er ein Bauteil
-in die Hand nimmt.
+Und in Kapitel 56: *"I've had a bearing take longer than four days."* Zieht
+zusammen. Beantwortet Fragen über seine Schwester, indem er etwas auf der
+Werkbank anfasst: das Gehäuse eine Vierteldrehung, eine Schraube vier Zentimeter
+weiter, ein Lappen über Hände, die sauber sind.
+
+**Er ist neununddreißig und Georgij liest ihn als fünfundvierzig.** Beides steht
+im Text (Kapitel 56: *"a man of about forty-five"* und *"four years under me…
+she's thirty-five now"*). Das war bis zum 25.08. ein Widerspruch und ist jetzt
+der Befund: Georgij irrt sich bei so etwas nie um mehr als ein Jahr, und die
+Zahl steht als eigener Takt da.
 
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale

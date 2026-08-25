@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 57 Kapitel, 141.588 Woerter.
+Book Two, 57 Kapitel, 141.906 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -56,7 +56,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 43 | v2.0 | 2.816 |
 | 44 | v2.1 | 2.516 |
 | 45 | v1.1 | 2.176 |
-| 46 | v1.0 | 2.358 |
+| 46 | v1.1 | 2.599 |
 | 47 | v1.2 | 1.918 |
 | 48 | v1.0 | 2.326 |
 | 49 | v1.1 | 2.081 |
@@ -66,7 +66,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 53 | v1.2 | 2.484 |
 | 54 | v1.1 | 2.487 |
 | 55 | v1.2 | 2.060 |
-| 56 | v1.1 | 2.251 |
+| 56 | v1.2 | 2.328 |
 | 57 | v1.0 | 2.882 |
 
 ---
@@ -9675,7 +9675,7 @@ He finished the line. Annie came off the edge of the desk and sat down on the fl
 ---
 
 # Book Two · Chapter 46: The post still comes
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
 
@@ -9713,33 +9713,47 @@ Georgij was on the pavement again inside ninety seconds.
 
 The woman who was watering the pots on the ground floor had already decided to talk to him before he had decided how to ask.
 
-"You are looking for the fourth floor," she said.
+"Fourth floor, is it?" She had the can in both hands and did not put it down. "Nobody in it. Hasn't been for years, and they've never once sent anybody down for the cleaning rota. Not once! Everybody else does their week."
 
-"I am."
+Georgij put his hands where she could see them, which costs nothing and buys about four seconds, and which she did not notice at all.
 
-"Everybody who comes here is looking for the fourth floor, and there has not been anybody in it for years, and I have stopped being polite about saying so."
+"You hear that? No respect for the neighbours." She moved along to the next one without looking at which. "There was a girl in there at one point. That's the one with the bicycle in the hall that everybody went over. Mrs Kwon on the second would know it all, only she's at her son's till Thursday. Oh, she never stops about that son! Hanyang University, and we hear it every time she's here. If mine was half that diligent. I'd take Ajou."
 
-Georgij stopped where he was and put his hands where she could see them, which is a thing that costs nothing and buys about four seconds.
+Georgij stood in a doorway in Seodaemun and let a woman water four pots.
 
 "How many is everybody."
 
-"You are the third in four years, and the other two were selling something." She went on with the watering. "The post still comes. That is the part I would find strange if I had not stopped finding it strange."
+"How many is what?"
 
-"Who takes it."
+"You said everybody comes looking for the fourth floor."
 
-"A man. Not often. Three or four times a year, less than that some years." She moved the can to the next pot. "Ordinary. Not young. He has a key to the box and no key to the building, which is how I met him. He stood out there and waited for somebody to come out, and I was the somebody."
+"Did I." She thought about it for exactly as long as it deserved. "Well, you're the third in four years and the other two had folders, so you're ahead of them." She stopped over one pot and frowned at it. "This one by the step has never took. Three I've put in there. My husband said it's the drain under it, and he was wrong about nearly everything and right about that."
+
+"And nobody comes for the fourth floor at all."
+
+"The post still comes, mind. That's the thing." She was saying it to the pot. "Every week, near enough. It falls out when the box gets full and I put it back through, because who else is going to."
+
+"Who empties it."
+
+"He does."
+
+"Say who."
+
+"A man! Three times a year. Four." The can went down at last. "Not young. He's got the key to the box and none for the door, which is how I ever met him at all. Stood out there in the rain the first time, waiting for somebody to come out, and I was the somebody. I said you'll catch your death standing about like that. He said he'd been colder."
 
 "Say what he was like when you let him in."
 
 She thought about that in a way that told him nobody had asked her a question about it in four years.
 
-"Pleasant," she said. "Very. He apologised for the trouble and he asked me how the pots did in the winter, and I told him, and the next time he came he asked whether the one by the step had survived it." She put the can down. "It had not. He was sorry about it. I remember thinking that a man who remembers a plant is a better sort of man than most of what comes through that door."
+"Oh, he's lovely." She said it with her whole face. "Apologised for the trouble. Asked how the pots do in the winter, and then he listened to the answer, which men don't. And the next time he came he asked after the one by the step. A year later! He remembered which one it was."
 
 Georgij stood in a stairwell doorway in Seodaemun on a Monday morning and did not let anything happen on his face at all.
 
+"It had died," she said. "He was sorry. Properly sorry, you could see it on him. A man who remembers a plant. There's not many come through that door I'd say that about."
+
 "Has he been recently."
 
-"Not since the spring. Perhaps March." She looked at him properly. "You have gone a funny colour. Do you want to sit down."
+"Not since the spring. March, was it. It was still cold." She looked at him properly for the first time since he had come in. "You've gone a funny colour. Do you want to sit down? There's a chair just inside the door."
 
 "No. Thank you." He got it out level. "You have been very helpful and I am not going to pretend you have not, and I would like to tell you one true thing in return, because you have given me three."
 
@@ -9749,7 +9763,7 @@ Georgij stood in a stairwell doorway in Seodaemun on a Monday morning and did no
 
 She put one hand on the rail.
 
-"That is not what people say."
+"That's not what people say."
 
 "No. People say the other thing, and then the person they said it to has to carry it." He stayed where he was. "You are watering pots in a building you live in. There is nothing here that is worth you being careful about, and if you are careful he will know you were careful, and that will be worse for you than the truth by a very long way."
 
@@ -11655,7 +11669,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 ---
 
 # Book Two · Chapter 56: Four streets
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -11693,7 +11707,7 @@ Mr Ahn sat down on the stool behind the bench, slowly, the way a man sits when h
 
 "Yes."
 
-"I have been waiting four years for somebody to come through that door and say that, and I had got as far as deciding that nobody ever would." He put both hands flat on the bench either side of the fan. "And it is a foreigner in a good coat on a Friday afternoon."
+"Four years I've waited for somebody to come through that door and say that. I'd got as far as writing it off." He put both hands flat on the bench either side of the fan. "And it's a foreigner in a good coat on a Friday afternoon."
 
 "Yes."
 
@@ -11709,7 +11723,11 @@ Mr Ahn looked at him for a long moment.
 
 He did not make him ask twice, and Georgij has thought since about how rare that is.
 
-"Her name is Ahn Jung-hee," said Mr Ahn. "She is my sister. She is four years younger than me and she was thirty-one when she went, so she is thirty-five now if she is anything."
+"Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when she went, so she's thirty-five now, if she's anything."
+
+Georgij had put him at forty-five inside two seconds of coming through the door, and he is never wrong about that by more than a year.
+
+Thirty-nine.
 
 Georgij stood in a repair shop on a corner and did not write it down. Taking a notebook out at that moment would have made it a transaction, and he was never in his life going to forget it.
 
@@ -11729,15 +11747,23 @@ The debt was his. Not hers, and he said that first, before anything else, and he
 
 A guarantee on a workshop lease, and the man he had guaranteed for went to the Philippines. It came to Mr Ahn in the second week of January, with a figure that had grown twice on the way.
 
-"They were not the kind who break things," he said. "They were the kind who sit in the shop. Three afternoons. They bought a fan on the second one and paid for it."
+"They weren't the sort who break things," he said. "They were the sort who sit in the shop. Three afternoons. Bought a fan off me on the second one and paid for it, and I gave them the guarantee card with it, because that's what you do."
 
 "Go on."
 
-"She came round on the Sunday and I told her, because I have told her everything since we were children and I did not think about it for one second before I did it." He looked at the fan rather than at Georgij. "And on the Thursday she came back with a name and an address and told me what she had arranged, and she had arranged all of it herself, and she had not asked me."
+"Sunday she came round. I told her." He looked at the fan and not at Georgij. "Took about a minute. I've told her everything since we were small. There's no work in it."
+
+He turned the fan housing over on the bench and did not look inside it.
+
+"Thursday she's back. Name, address, the whole thing arranged." Mr Ahn set a screw down and squared it up with one finger. "Four days. I've had a bearing take longer than four days to come in. And she never asked me."
 
 Neither of them said anything.
 
-"She was thirty-one and she worked in an office and she had a flat four streets from here," said Mr Ahn. "I have gone over it a thousand times, and she did not do it because she was desperate and she did not do it because anybody made her. She did it because she is the sort of person who solves the thing in front of her, and the thing in front of her was me."
+"Thirty-one. Worked in an office. Flat four streets up the hill." Mr Ahn had not moved the screw again. "I've had four years to go over it and I've gone over it. She wasn't desperate. Nobody made her."
+
+"Then why."
+
+"Because she's the sort who fixes the thing in front of her." He put one hand flat on the fan. "That's the whole of it. And the thing in front of her was me."
 
 "Did you know what the house was," said Georgij.
 
@@ -11751,7 +11777,11 @@ Mr Ahn did not answer straight away.
 
 The bell over the door did not ring and nobody came in, and the afternoon went on outside.
 
-"Not the details," said Mr Ahn. "I did not know what a lot number was until you said the word consignment just now, and I understood it in about a second and a half. That is the only new thing that has happened to me in four years. I knew what sort of place it was. She told me. She did not make it sound better than it was, because she has never once done that in her life."
+"Not the details." Mr Ahn had his hand on the fan again. "I didn't know what a lot number was till you said consignment just now. Took me a second and a half. That's the only new thing that's happened to me in four years."
+
+"But you knew the sort of place."
+
+"She told me. Straight out, sitting where you are." He turned the housing a quarter turn and stopped. "She's never once made a thing sound better than it was. Not since we were small."
 
 "And you let her."
 
@@ -11759,11 +11789,19 @@ The bell over the door did not ring and nobody came in, and the afternoon went o
 
 He said that flatly and then he stopped, and the stopping was the worst part of the afternoon.
 
-"She could not sign it," he said, after a while. "That is the arrangement. The person going in does not sign. Somebody else does, and the somebody else has to be family or it does not go through. She had found that out before the Thursday, and she did not tell me until we were in the corridor."
+"She couldn't sign it," he said, after a while. "That's how it's done. Whoever goes in doesn't sign. It has to be family or it doesn't go through."
+
+He wiped his hands on the cloth on the bench, which did not need doing.
+
+"She'd known that since before the Thursday. Four days she had it. And she told me in the corridor."
 
 Georgij did not say anything at all.
 
-"So the name on your form is mine," said Mr Ahn, "and everybody who ever looks at it for the rest of time will see a man who walked his sister into a building. That is correct. That is what it says and that is what I did, and I have had four years and I have never once found a sentence that makes it into anything else."
+"So the name on your form's mine," said Mr Ahn. "Anybody who ever looks at it, for the rest of time, sees a man who walked his sister into a building."
+
+He said the next part without any weight on it at all.
+
+"That's correct. That's what it says and that's what I did. Four years I've had. I've never once found a sentence that turns it into something else."
 
 *Do not take it off him.*
 
@@ -11819,7 +11857,11 @@ Georgij stopped with his hand on the frame.
 
 "That is accurate."
 
-"I fix things that people bring in. I am not clever." He picked the screwdriver back up and did not use it. "But I have been in a room with a person who was arranging something for somebody else and had already decided not to say all of it. I did not notice at the time. I have had four years to learn what it looks like from the outside."
+"I fix things people bring in. I'm not clever." He picked the screwdriver back up and did not use it. "But I've sat in a room with somebody who was arranging a thing for somebody else and had already decided what she wasn't going to say. Didn't notice it at the time."
+
+He put the screwdriver down again, in the same place.
+
+"Four years is a long time to learn what that looks like from outside. I'd have had it in an afternoon if I'd been looking."
 
 Georgij stood in the doorway of a repair shop and took that in the size it was.
 
