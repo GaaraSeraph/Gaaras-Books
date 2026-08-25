@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 169.002 Woerter.
+Book Two, 68 Kapitel, 169.004 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -44,10 +44,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 31 | v1.1 | 2.356 |
 | 32 | v1.2 | 2.417 |
 | 33 | v1.3 | 2.037 |
-| 34 | v1.3 | 2.260 |
+| 34 | v1.4 | 2.261 |
 | 35 | v2.7 | 3.966 |
 | 36 | v2.1 | 3.315 |
-| 37 | v2.3 | 3.914 |
+| 37 | v2.4 | 3.915 |
 | 38 | v2.4 | 2.977 |
 | 39 | v2.3 | 2.943 |
 | 40 | v2.6 | 2.835 |
@@ -7062,7 +7062,7 @@ Georgij stood in the kitchen on his own and poured a cup he had been told to hav
 ---
 
 # Book Two · Chapter 34: The best company in the room
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7194,7 +7194,7 @@ Mrs Seo came in with coffee he had not asked for and put it down without comment
 
 "No."
 
-"Good," said Mrs Seo. "It's easier to run a house for people who do not tell me things than for people who tell me half of them." She looked at him for a moment on her way to the door. "Drink it before it goes cold. You did that yesterday as well."
+"Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things than for people who tell me half of them." She looked at him for a moment on her way to the door. "Drink it before it goes cold. You did that yesterday as well."
 
 She went out and left him with the cup and the notebook.
 
@@ -7847,7 +7847,7 @@ There is no version of the next four weeks in which he does not leave the same t
 ---
 
 # Book Two · Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -8001,7 +8001,7 @@ Georgij looked at it. His own name, block letters, no return address, a Gwangyan
 
 "Today is the fifteenth," he said.
 
-"Yes," said Mrs Seo. "It's also a Monday, if that means anything to you."
+"Yes," said Mrs Seo. "It is also a Monday, if that means anything to you."
 
 It meant a great deal to him, more than the date alone could account for, and he did not say so.
 
