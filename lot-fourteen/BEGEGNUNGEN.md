@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 689 | 75 (b1ch01-b2ch57) | 1 | 74 |
-| Park Sang-hoon | 273 | 41 (b1ch10-b2ch51) | 1 | 74 |
+| Park Sang-hoon | 274 | 41 (b1ch10-b2ch51) | 1 | 74 |
 | Chairman Woo | 177 | 31 (b1ch07-b2ch57) | 1 | 74 |
 | Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
 | Jang | 136 | 31 (b1ch05-b2ch48) | 2 | 60 |
@@ -951,7 +951,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-273 Nennungen in 41 Kapiteln.
+274 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1171,6 +1171,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch42:332 | "Same trust," said Sang-hoon. "Same solicitor. The lapsed clinic's lease, four years ago.. |
 | 2 | b2ch42:340 | "Or one reason that started eleven years ago and needed a doctor four years into it," sa.. |
 | 2 | b2ch42:360 | Sang-hoon did not say anything for a moment, and the silence went on long enough that Ge.. |
+| 2 | b2ch42:380 | "What do you want to do with the solicitor," said Sang-hoon. |
 | 2 | b2ch42:388 | "It is also the only version of this where nobody finds out we asked." Sang-hoon finally.. |
 | 2 | b2ch42:400 | "No," said Sang-hoon. "This is the part he thought was far enough from Singapore that no.. |
 | 2 | b2ch42:404 | "Then find out whether the woman Jang has been watching is the same woman this trust was.. |
@@ -1218,7 +1219,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch50:6 | Sang-hoon sent for him at ten in the morning, to his own office, which he has not done o.. |
 | 10 | b2ch50:22 | "This is Baek Jun-ho," said Sang-hoon. |
 | 10 | b2ch50:70 | Sang-hoon did it properly, which is to say he did not perform any of it. |
-| 10 | b2ch50:94 | "It is your question. I have been sitting in it since the twenty-sixth of May and I have.. |
+| 10 | b2ch50:94 | "It is your question. I have been sitting in it since the twenty-seventh of May and I ha.. |
 | 10 | b2ch50:206 | Sang-hoon looked from one of them to the other and did not say anything. |
 | 10 | b2ch50:258 | There was a silence after that which Sang-hoon did not fill. Georgij let it run to the e.. |
 | 10 | b2ch50:356 | "Take as long as you want," said Sang-hoon. |
@@ -1991,7 +1992,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:10 | They sat in the room off the library, the three of them, and Jang put a folded map on th.. |
 | 3 | b2ch40:22 | "Sixteen days of a road." Jang unfolded the map and put one finger on a bend a kilometre.. |
 | 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
-| 3 | b2ch40:38 | "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij who had hired.. |
+| 3 | b2ch40:38 | "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij the sixteen d.. |
 | 3 | b2ch40:42 | "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, m.. |
 | 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess.. |
 | 3 | b2ch40:74 | Jang put his finger on a second mark, further up the road. "There is a bus stop with a s.. |
