@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.315 Woerter.
+Book One, 34 Kapitel, 101.303 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -23,13 +23,13 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 10 | v2.6 | 2.985 |
 | 11 | v2.10 | 2.730 |
 | 12 | v1.10 | 2.351 |
-| 13 | v2.8 | 2.832 |
+| 13 | v2.9 | 2.826 |
 | 14 | v7.8 | 2.605 |
 | 15 | v2.9 | 4.216 |
 | 16 | v1.17 | 3.282 |
 | 17 | v12.14 | 2.747 |
 | 18 | v2.9 | 2.984 |
-| 19 | v1.12 | 3.214 |
+| 19 | v1.13 | 3.208 |
 | 20 | v1.7 | 2.112 |
 | 21 | v1.10 | 4.090 |
 | 22 | v1.4 | 2.588 |
@@ -3451,7 +3451,7 @@ And it was true, and both of them knew it was true. Georgij went up the stairs u
 ---
 
 # Book One · Chapter 13: The man with the open hand
-*Lot Fourteen* · Version 2.8 · EN
+*Lot Fourteen* · Version 2.9 · EN
 
 *Days 27 to 28 · Thursday 30 to Friday 31 October*
 
@@ -3681,7 +3681,7 @@ Georgij, who had not said the word *container* and had not been going to, kept h
 
 "And if it wasn't theirs?"
 
-"Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and the interesting question is not who put it there. The interesting question is who is going to be standing there with an open hand in about six weeks, offering to make it all go away."
+"Then somebody has gone to a very great deal of trouble," said Chairman Woo, "and you are asking the wrong question. Ask who is going to be standing there with an open hand in about six weeks, offering to make it all go away."
 
 He picked his chopsticks back up.
 
@@ -5241,7 +5241,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5461,7 +5461,7 @@ He put the sheet down on the desk and squared it with the edge, which was the fi
 
 They sat with that.
 
-"You have given me something," said Chairman Woo eventually. "And you did it after I signed, which means you were not paying for the signature."
+"You have given me something," said Chairman Woo eventually. "And you did it after I signed. Men pay before."
 
 "No."
 

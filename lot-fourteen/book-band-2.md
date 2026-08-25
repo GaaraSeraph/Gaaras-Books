@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 167.389 Woerter.
+Book Two, 68 Kapitel, 167.534 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -63,7 +63,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 50 | v2.2 | 2.960 |
 | 51 | v1.2 | 2.148 |
 | 52 | v1.2 | 3.133 |
-| 53 | v1.2 | 2.484 |
+| 53 | v1.3 | 2.548 |
 | 54 | v1.2 | 2.862 |
 | 55 | v1.2 | 2.060 |
 | 56 | v1.3 | 2.328 |
@@ -71,7 +71,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 58 | v1.4 | 2.353 |
 | 59 | v1.2 | 2.190 |
 | 60 | v1.2 | 2.488 |
-| 61 | v1.2 | 2.314 |
+| 61 | v1.3 | 2.395 |
 | 62 | v1.3 | 2.109 |
 | 63 | v1.3 | 2.137 |
 | 64 | v1.2 | 2.260 |
@@ -11105,7 +11105,7 @@ He had paid at half past seven, before the meal, as he always does. The girl at 
 ---
 
 # Book Two · Chapter 53: The one I did not say in May
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Five · Tuesday 4 August
 
@@ -11161,6 +11161,8 @@ Mr Yeom sat with both hands flat on either side of his plate for a while.
 
 "Yes."
 
+He had known on the way over that this was what he was bringing. A man is owed the real size of it.
+
 "Then say the second thing, and do not stop to be careful with me, because I am sixty-three and I would rather have it in one go."
 
 "The name you would not give me in May," said Georgij. "I have it."
@@ -11215,6 +11217,8 @@ Mr Yeom looked at him.
 
 Georgij put both hands in his lap, which is not a thing he does.
 
+He had never given anybody a date about himself. He was about to give one away for nothing.
+
 "In May I told you that I work for the woman who owns the two entries. October and February." He said it evenly and did not decorate it. "That was true and it was chosen, and I chose it in your hallway before you opened the door, and I have thought about it every day since."
 
 Mr Yeom went very still.
@@ -11260,6 +11264,8 @@ Mr Yeom put one hand on the window frame.
 He came back to the table eventually and sat down and did not touch the food again.
 
 "I am not going to apologise to you," he said. "You would not know what to do with it and I would not know how to make it the right size."
+
+It was an apology with the word left out of it, and it was the largest one the man had.
 
 "No. Thank you."
 
@@ -12739,7 +12745,7 @@ Georgij stood in the hall of a house on the river with the receiver still warm i
 ---
 
 # Book Two · Chapter 61: The doorway
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -12754,6 +12760,8 @@ Mrs Seo had the door open before he was out of it.
 "There is a chair in the hall."
 
 "I am not going to need it."
+
+It was thanks, and she had answered it, and neither of them had used a word that would have had to be explained afterwards.
 
 * * *
 
@@ -12873,6 +12881,8 @@ Georgij stood at the window.
 
 "The third part is that I have sat in that woman's dining room and looked at her father's photographs and told her they were terrible." Woo let that stand. "And I have thought since Thursday about whether an old man is entitled to be wrong about this out loud in her own house." Woo let that sit. "I decided that I am not. That is why I am saying it to you in a room she is not in."
 
+He had spent four days deciding which of the two people in this house he was entitled to hurt, and he had chosen the one who could carry it.
+
 "He did not know," said Georgij, still at the glass.
 
 "Say what you mean."
@@ -12930,6 +12940,8 @@ Georgij stood in the hall.
 "No," said Woo. "I do not think she has either. And I would like you to consider, before you go up those stairs, that you may not be the one who is about to tell her anything."
 
 He got into the car and did not look back at the house, and the car went down the drive and out through the gate.
+
+He had come across a city on a Sunday so that the name would be said properly once. That was the whole of the visit.
 
 Georgij stood in the hall of a house on the river for a while.
 
