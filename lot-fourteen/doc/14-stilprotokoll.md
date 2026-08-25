@@ -1206,6 +1206,55 @@ steht und nicht im Dokument.**
 #### Nebenher aufgeraeumt: zwei Dateien hiessen doc/13
 
 Die Pruefsitzung hat `doc/13-zusagen.md` angelegt und in `CLAUDE.md` eingetragen,
-waehrend dieses Blatt schon `doc/13-stilprotokoll.md` hiess. **Umbenannt in
+waehrend dieses Blatt schon unter derselben Nummer lief (13-stilprotokoll). **Umbenannt in
 `doc/14-stilprotokoll.md`**, Verweise in `doc/09` nachgezogen. `doc/13` gehoert
 jetzt eindeutig dem Schuldbuch.
+
+---
+
+### Die fuenf neuen Blaetter gegengelesen, und wer sonst noch fehlt
+
+**Auftrag: die fuenf wie die anderen pruefen, und nachsehen, ob jemand fehlt.**
+
+#### Sechs Fehler in fuenf frisch geschriebenen Blaettern
+
+| Blatt | stand da | Befund |
+|---|---|---|
+| **Nam Byung-hee** | *"Ihr erstes Wort ist **immer** die Zaehlung"* | In b2 K08, beim **ersten** Treffen, sagt sie *"You are not from here."* und *"Say your name."* Die Zaehlung faengt erst an, nachdem sie weiss, wer er ist - **ein Bogen, kein Tic** |
+| Nam Byung-hee | *"eine der saubersten Stimmen im Buch"* | sagt wenig: **dreizehn von dreissig** Sprechern haben keinen Haustic. Ersetzt durch das, was belegbar ist - der Erzaehler in b2 K08: *"without any self-pity in it at all, which made it worse"* |
+| **Baek Jun-ho** | *"mit Abstand vor Hwang (11,9)"* | zweiter ist **Mr Chae mit 12,4** |
+| Baek Jun-ho | Jahre 22,5, *"ebenfalls der hoechste Wert"* | zweiter hinter Ye-rin (41,7 aus 24 Woertern). Hoechster **ab 90 Woertern** - Schwelle ergaenzt |
+| **Kim Sung-ho** | *"Drei Repliken, und alle drei sind Anweisungen"* | **Fuenf**, und *"You work for the woman."* ist keine Anweisung. Eine Zeile in K26 gehoert **Georgij** und stand nur neben Sung-hos Namen |
+| **Mr Ku** | *"Zwei Repliken, und beide sind Ereignisse"* | **eine**. Die zweite Fundstelle ist Erzaehlung - und die ist der eigentliche Auftritt, weil **nicht dasteht, was er gesagt hat** |
+| **Mr Ok** | *"die vollstaendigste Personenbeschreibung im Buch"* | unbelegbarer Superlativ. Jetzt: die Beschreibung, aus der Georgij in b2 K18 die neun Zeilen zieht |
+
+**Dabei ist Sung-hos Maschine erst sichtbar geworden.** Er urteilt ueber das, was
+gerade passiert ist, und haengt eine Anweisung an, beides in einem Atemzug:
+*"It was fair and he answered it." Sung-ho had not raised his voice. "Now sit
+still."* Und er gibt Georgij am Ende von b1 K32 die Hand und haelt sie eine
+Sekunde zu lang - **der Gegensatz zu Woo, der in beiden Baenden keine einzige
+schuettelt.**
+
+#### Fehlt sonst jemand: drei, und keiner braucht ein Stimmblatt
+
+Ueber alle Namensformen im Buch geprueft, nicht nur ueber Begleitsaetze.
+
+**Minister Min-ho (b1 K09) spricht nie**, und der Erzaehler sagt, dass das die
+Figur ist: *"Min-ho said almost nothing. He asked two questions, both short."*
+**Die zwei Fragen werden genannt und nicht wiedergegeben.** Vier Minuten, die das
+Kapitel tragen, ohne ein Zitat. Eingetragen neben Choi Dae-ho, damit ihm niemand
+versehentlich eine Replik gibt.
+
+**Mrs Ryu (b1 K07)** antwortet nur in indirekter Rede. **Zehn weitere Namen**
+werden genannt und sprechen nie - Mr Noh, Chef Bang Seung-min, Mrs Uhm, Miss Heo,
+Mr Han, Min-a, Hyun-woo, Hye-jin, Mr Tak, Jae-sung. Alle aufgelistet, damit die
+Liste beim naechsten Mal nicht wieder von vorn erarbeitet wird.
+
+**Und zwei Namen sind keine zweiten Personen:** *Do Kyung-ae* ist Ahn Jung-hees
+Deckname, *Moon Hae-sook* die Frau am Fenster.
+
+#### Die neuen Kapitel
+
+Band 2 steht inzwischen bei **K74**. In K69 bis K74 sprechen Ahn, Mrs Jeon,
+Mr Kwon und Sim - **alle vier haben ein Blatt. Kein neuer Sprecher ohne
+Eintrag.**

@@ -1768,15 +1768,26 @@ Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
 stumm galt. Sie ist die Gegenspielerin des halben Bandes 2.
 
 **Gemessen: 10 zugeordnete Repliken, 93 Wörter, Ø 7,8 - keine einzige über 25
-Wörtern, kein Haustic, keine Kontraktion.** Eine der saubersten Stimmen im Buch,
-und das ist kein Zufall: sie sagt nichts, was sie nicht belegen kann.
+Wörtern, kein Haustic, keine Kontraktion.** Das allein sagt wenig: dreizehn von
+dreissig Sprechern haben keinen Haustic, und alle kurz sprechenden Figuren haben
+keine langen Sätze.
 
-**Die Maschine: sie beginnt mit der Zählung des Vorgangs, nicht mit dem
-Vorgang.** Ihr erstes Wort ist immer, das wievielte Mal es ist oder was der
-andere nicht getan hat:
+**Was ihr gehört, ist der Inhalt, und der Erzähler sagt es aus:** *"She said it
+without any self-pity in it at all, **which made it worse**"* (b2 K08). **Sie
+benutzt kein einziges Gefühlswort über sich** - über zwanzig Jahre unbeantwortete
+Briefe, sechs Wochen Zerstörung und den Verlust der Firma.
+
+**Die Maschine: ab dem zweiten Treffen beginnt sie mit der Zählung des Vorgangs
+und nicht mit dem Vorgang.** Ihr erstes Wort ist dann, das wievielte Mal es ist
+oder was der andere nicht getan hat:
 
 > *"**You could have written**,"* (b2 K11, das erste, was sie zu ihm sagt)
 > *"**Third time**,"* (b2 K19, dito)
+
+*(Hier stand "ihr erstes Wort ist **immer**". Falsch: in b2 K08, beim ersten
+Mal, sagt sie **"You are not from here."** und dann **"Say your name."** - sie
+verortet ihn erst. Die Zählung fängt an, nachdem sie weiss, wer er ist, und
+**das ist ein Bogen und kein Tic.**)*
 
 **Und sie rechnet sich selbst mit ein.** Das ist ihre Signatur und es gibt sie
 sonst bei niemandem:
@@ -1822,8 +1833,12 @@ ist, und nie, wie es sich anfühlt.
 
 **Gemessen: 14 Repliken, 267 Wörter, Ø 15,7 Wörter je Satz und 18 Prozent über
 25 - beides der höchste Wert im ganzen Buch.** Er ist **der langsatzigste
-Sprecher**, mit Abstand vor Hwang (11,9). Zählt Jahre mit 22,5 je 1000 Wörtern,
-ebenfalls der höchste Wert.
+Sprecher des Buchs**, vor Mr Chae (12,4) und Hwang (11,9).
+
+Zählt Jahre mit 22,5 je 1000 Wörtern - **der höchste Wert unter allen Figuren
+über 90 Wörtern**; darüber steht nur Ye-rin mit 41,7, und das ist eine einzige
+Nennung aus 24 Wörtern. *(Hier stand "ebenfalls der höchste Wert", ohne die
+Schwelle.)*
 
 **Die Maschine: er beziffert den eigenen Zweifel, statt ihn zu äussern.**
 
@@ -1855,21 +1870,38 @@ nicht erwähnt, bis er ihn aufmacht.
 
 ---
 
-### Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)
+### Kim Sung-ho (61, der Vorsitzende der Familie, b1 K26 und K32)
 
-**Drei Repliken, und alle drei sind Anweisungen an andere Leute.**
+**Fünf Repliken**, nicht drei - beim ersten Anlauf falsch gezählt, weil eine der
+Zeilen in K26 (*"Because a man who has not been photographed with anybody since
+1998…"*) **Georgij gehört** und nur neben seinem Namen steht.
 
-> *"You work for the woman."* - Feststellung, keine Frage
-> *"Say what control means."* - Befehl im Register der Prinzipalen
-> *"That is enough, Jae-won."* - er beendet den Widerspruch eines Verwandten
+**Die Maschine: er urteilt über das, was gerade passiert ist, und hängt eine
+Anweisung an.** Beides in einem Atemzug, und der klarste Fall steht in K32:
 
-**Die Maschine: er redet nie über die Sache, sondern über die Zuständigkeit.**
-Wer im Raum was sagen darf, und wer aufhört. **Er stellt keine einzige Frage im
-ganzen Buch.**
+> *"**It was fair and he answered it.**" Sung-ho had not raised his voice.
+> "**Now sit still.**"*
 
-**Er darf:** den Vornamen eines Verwandten als ganzen Satz, die Forderung mit
-Punkt. **Er darf nicht:** erklären, warum. Ein Vorsitzender, der begründet, hat
-schon verloren - und seine Schwester ist die, die begründet.
+Dasselbe ohne das Urteil: *"That is enough, Jae-won."* Dasselbe ohne die
+Anweisung: *"You work for the woman."* - eine Verortung, keine Frage.
+
+**Er stellt in beiden Kapiteln keine einzige Frage.** Er verlangt: *"Say what
+control means."*
+
+**Und er kündigt es an, wenn er aus dem eigenen Register geht** - das ist seine
+einzige Wärme und sie steht in K26:
+
+> *"Then I will say the thing I did not expect to say this morning."*
+
+**Körper, und es ist der Gegensatz zu Woo.** Am Ende von K32 gibt er Georgij die
+Hand *"and held it about a second longer than the handshake needed, which from
+that man was a great deal"*. **Woo schüttelt in beiden Bänden keine einzige
+Hand. Sung-ho tut es einmal und der Erzähler sagt dazu, was es wert war.**
+
+**Er darf:** das Urteil plus die Anweisung, den Vornamen eines Verwandten als
+ganzen Satz, die Forderung mit Punkt. **Er darf nicht:** begründen. Ein
+Vorsitzender, der begründet, hat schon verloren - und seine Schwester ist die,
+die begründet.
 
 ---
 
@@ -1878,8 +1910,9 @@ schon verloren - und seine Schwester ist die, die begründet.
 **Vier Repliken, und er ist der Mann, an dem Sims Methode vorgeführt wird.**
 
 **Die Maschine: er schiebt zuerst weg und liefert dann alles.** *"That has
-nothing to do with me,"* - und drei Repliken später die vollständigste
-Personenbeschreibung im Buch, ohne dass jemand nachbohrt.
+nothing to do with me,"* - und drei Repliken später die Personenbeschreibung,
+aus der Georgij in b2 K18 seine **neun Zeilen** zieht, ohne dass jemand
+nachbohrt.
 
 **Sein Detail ist das, was er für nebensächlich hält:** *"He did not eat
 anything at that lunch, not one thing, and I noticed it because my mother would
@@ -1893,9 +1926,14 @@ einer Entschuldigung dafür, dass er sie gemacht hat.**
 
 ### Mr Ku (Fahrer)
 
-**Zwei Repliken im ganzen Buch, und beide sind Ereignisse.** Der Erzähler sagt
-es selbst: *"Then Mr Ku said something on the expressway, about forty minutes
-out, **which he has not done since October**."*
+**Eine einzige Replik im ganzen Buch** - *"No,"* in b2 K14. *(Hier stand
+"zwei"; die zweite Fundstelle ist keine Replik, sondern Erzählung.)*
+
+**Und diese Erzählung ist der eigentliche Auftritt:** *"Then Mr Ku said something
+on the expressway, about forty minutes out, **which he has not done since
+October**."* **Was er gesagt hat, steht nicht da.** Wir erfahren in b2 K20 nur,
+dass es *"the most useful thing anybody said to me all month"* war - aus Georgijs
+Mund und nicht aus seinem.
 
 **Er ist die Figur, bei der Schweigen der Normalzustand ist.** Wer ihm eine
 dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
@@ -2074,6 +2112,41 @@ etwas.
 
 **Die Probe für das Endgespräch:** kein Satz von ihm darf eine Rechtfertigung
 sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
+
+### Und er ist nicht der einzige Stumme
+
+**Minister Min-ho, b1 K09: null Zitate, und der Erzähler sagt ausdrücklich, dass
+das die Figur ist.**
+
+> *"Min-ho **said almost nothing**. He asked two questions, both short, both
+> about other people. He agreed with a thing somebody said and it cost him
+> nothing to agree."*
+
+**Die zwei Fragen werden genannt und nicht wiedergegeben.** Vier Minuten auf
+einer Terrasse, *"the most useful four minutes of the night, and not one second
+of it was about the minister"* - und wir hören ihn kein einziges Mal.
+
+**Wer ihm eine Replik gibt, macht aus einer Machtdemonstration eine
+Nebenrolle.** Ein Mann, dessen Anwesenheit ein Kapitel trägt, ohne dass ein
+Wort von ihm zitiert wird, ist stärker als jede Zeile, die man ihm schreiben
+könnte. Dasselbe Mittel wie bei Choi Dae-ho, nur über vier Minuten statt über
+hundert Kapitel.
+
+**Mrs Ryu (b1 K07)** ist der dritte Fall und der leiseste: sie antwortet, aber
+nur in indirekter Rede - *"He asked Mrs Ryu about the arbitration … **She said**
+that…"* Auch das bleibt so.
+
+### Wer nur genannt wird und nie spricht
+
+Nachgezählt am 25.08. über alle 108 Kapitel, damit niemand ihnen versehentlich
+eine Stimme gibt: **Mr Noh** (b1 K05), **Chef Bang Seung-min** (b1 K08),
+**Jae-sung** (Woo Jae-sung, der volle Name des Chairmans), **Mrs Uhm** (b2 K17),
+**Miss Heo** (b2 K29), **Mr Han** (b2 K31), **Min-a** (b2 K31), **Hyun-woo**
+(b2 K58), **Hye-jin** (b1 K24), **Mr Tak** (b2 K72, K74).
+
+**Und die zwei Namen, die keine zweite Person sind:** *Do Kyung-ae* ist Ahn
+Jung-hees Deckname, *Moon Hae-sook* die Frau am Fenster. Wer sie als eigene
+Figuren zählt, zählt vier Frauen, wo zwei sind.
 
 ---
 
