@@ -2926,6 +2926,44 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
+- **Band 2, Kapitel 68** *What he was for* (v1.0) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
+    und sagt das ausdruecklich, damit Georgij es gegen etwas pruefen kann. Er
+    nennt alle vier Besuche aus dem Gedaechtnis und stellt fest, dass er sie **nie
+    nebeneinandergelegt hat.**
+  - **Der Auftrag, woertlich:** eine Familie habe einen sehr schlechten Monat
+    gehabt, waere dankbar, wenn es nicht besprochen wuerde, und diese vier seien
+    am naechsten dran gewesen. *"And that I should be kind to them and ask them
+    for nothing, because asking makes people talk."* Er hat es nicht geglaubt - er
+    ist nie bis zum Glauben gekommen.
+  - **Der Befund ueber elf Jahre Briefe:** er hat sie seit dem 1. August auf die
+    falsche Sache hin gelesen, naemlich darauf, ob er belogen wurde. **Er hat
+    keinen einzigen unwahren Satz gefunden.** *"He has never once needed to lie to
+    me."*
+  - **Und der Satz, der sein Leben umdreht:** *"In thirty years I have never been
+    sent anywhere to be unpleasant to anybody."* Nicht eine erhobene Stimme, keine
+    Drohung, keine Rechnung auf einem Tisch. Vierhundertmal geschickt worden, um
+    gemocht zu werden.
+  - **Georgij stellt die Frage nach dem 14. nicht.** Er hat sie vier Minuten lang
+    im Mund und gibt sie nicht aus. Sim macht den Anruf trotzdem, aus eigenem
+    Grund: an dem Tag wartet eine Frau auf ein Telefon, und es gibt genau einen
+    Mann, von dem sie es erwartet.
+  - **SIMS AUSSTIEG IST FESTGELEGT:** nach dem 14. September ist er fertig. Er
+    macht den Anruf und so viele weitere, wie sie braucht, **und danach laesst er
+    sich von niemandem mehr benutzen, auch nicht von Georgij und auch nicht fuer
+    den besten Grund.** *"I am sixty-three. I have got one instrument and I have
+    just found out what it was for."*
+  - **Und Georgijs eigene Rechnung am Schluss, und sie bleibt offen:** er hat seit
+    Maerz elf Menschen dieselbe Sache angetan - die Wahrheit gesagt, und jeden
+    einzelnen nach dem ausgewaehlt, was er ist. **Der Unterschied, den er
+    beansprucht, ist, dass er sagt, wofuer es ist, bevor sie antworten.** Er
+    schreibt ausdruecklich auf, dass er nicht weiss, ob das ein Unterschied in der
+    Art ist, damit er es spaeter nicht abstreiten kann.
+  - Sim ist 63 (hier zum ersten Mal beziffert).
+
+
 ---
 
 ## Der Juli ist betreten

@@ -1546,6 +1546,22 @@ Ye-rin.
 hoechste Wert im Buch), Mr Koh (Und-Kette 8,5), Mr Ahn (Und-Kette 5,7) und Sim
 (Und-Kette 4,3). Alle vier stehen jetzt auf null.
 
+### Was die Messung beim Schreiben tatsaechlich gefangen hat
+
+**Zweimal dieselbe Figur, zweimal derselbe Fehler, an zwei verschiedenen Tagen.**
+Sim hat in Kapitel 64 eine Und-Kette bekommen (4,3), die entfernt wurde, und in
+Kapitel 68 sofort wieder eine (3,9). Dazu dreimal Georgijs Negativ-Definition in
+seinem Mund. Alles nach dem Schreiben gemessen und vor dem Commit behoben.
+
+**Und Mrs Ha in Kapitel 67**, deren Blatt **vor** dem Kapitel geschrieben wurde:
+erster Durchgang Und-Kette 5,0, nach der Reparatur null, danach nur noch
+Kontraktion 14,9 und mittlere Satzlaenge 7,7 - die kuerzeste aller gut belegten
+Sprecher.
+
+**Die Lehre ist unangenehm und gehoert hierher:** ein Blatt vorher zu schreiben
+verhindert den Fehler nicht. Es macht ihn nur findbar. **Ohne den Lauf nach dem
+Schreiben waeren alle vier Faelle im Buch geblieben.**
+
 ### Eine Fehlmeldungsklasse, und sie ist wichtig
 
 Der Ausdruck sucht `Not X. Not Y.` und findet damit zwei verschiedene Dinge:
