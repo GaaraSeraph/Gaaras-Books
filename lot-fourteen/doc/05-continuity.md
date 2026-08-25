@@ -2550,7 +2550,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 54** *Clause eleven* (v1.1) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+- **Band 2, Kapitel 54** *Clause eleven* (v1.2) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 

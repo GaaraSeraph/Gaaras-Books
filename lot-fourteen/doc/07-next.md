@@ -400,6 +400,84 @@ weiss, was es wert ist.
 
 ---
 
+---
+
+## Was er ihr danach sagt, und es ist Kanon
+
+**Vom Autor am 25.08. vorgegeben.** Nach dem Endgespräch, nicht vorher. Sie ist
+bei dem Gespräch nicht im Raum (Kapitel 62), also erfährt sie es hinterher, und
+das hier ist der Grund, den er ihr gibt.
+
+**Der Kern, in seinen Worten:** *Jemand hat eine Waffe auf Dich gerichtet. Dass
+ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
+überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
+
+**Die Ausführung im Register des Buches** — er beginnt mit einem Bruchteil,
+korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
+und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
+
+> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
+> half of why it was personal."*
+>
+> *He stopped, because he had heard it go and it was not accurate.*
+>
+> *"That is not half. It is a great deal less than half, and I could give you the
+> number, and I am not going to, because giving you the number would be the
+> fourth cleverest thing I have done this year."*
+>
+> *"Then give me the rest of it."*
+>
+> *"If the world points anything at you at all, I will burn the world down."*
+
+**Warum das die Landung des ganzen Bandes ist:** Georgijs Maschine endet in jedem
+Satz auf einem Preis (`doc/12-stimmen.md`). Das ist der erste und einzige Satz
+in zwei Bänden, in dem kein Preis steht. **Der Text kommentiert es nicht.** Wer
+danach einen Beat schreibt, der erklärt, was gerade passiert ist, nimmt es weg.
+
+**Und die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem großen
+Satz stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein
+anderer Mann.
+
+---
+
+## Die Schlussgeste: ihre Fingerspitzen
+
+**Vom Autor am 25.08. festgelegt, mit ausdrücklicher Abgrenzung.**
+
+Am Ende des Bandes küsst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
+Frau tut, die er sehr mag.
+
+**Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
+hat er **Hana** die Hand geküsst, *"over the fingers, in the European way, in
+front of four or five people who will describe it inside the week and use that
+word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
+*"the first defensive thing she had seen me do."*
+
+| | Band 1, Kapitel 11 | Bandende |
+|---|---|---|
+| Wem | Hana | Annie |
+| Wo | Ballsaal, vor vier oder fünf Leuten | Niemand sonst im Haus |
+| Was | Handrücken, über die Finger, europäisch | **Die Fingerspitzen** |
+| Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
+| Sein Wort dafür | *defensive* | — |
+
+**Die Regel für die Szene:** kein höfisches Vokabular. Nicht *bowed*, nicht *took
+her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
+wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
+passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
+
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen:**
+
+> *"You are such a beautiful, strong woman. Thank you for buying me."*
+
+Reihenfolge offen und beim Schreiben zu entscheiden. Eintragen in
+`doc/10-naehe.md`, Register A bis C, sobald sie geschrieben ist.
+
+**Der Anlauf läuft über Erschöpfung, nie über Ruhe** — das steht seit dem 25.08.
+oben in diesem Dokument und gilt für diese Szene besonders.
+
+---
+
 ### Das Endgespraech
 
 **Der Entwurf des Autors liegt in der Datei "Choi Gespraech" im Projektordner und

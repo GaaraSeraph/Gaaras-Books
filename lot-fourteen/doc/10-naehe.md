@@ -269,6 +269,24 @@ in diesem Dokument. Er ist ungeschrieben und verfuegbar.
 
 ---
 
+## Die Schlussgeste, vorgemerkt und noch nicht geschrieben
+
+**Am Ende des Bandes küsst er ihr die Fingerspitzen.** Festgelegt vom Autor am
+25.08. Die Ausführung und die Abgrenzung stehen in `doc/07-next.md`.
+
+**Die eine Sache, die hier stehen muss:** das ist **nicht** die Geste aus Band 1,
+Kapitel 11. Dort hat er **Hana** die Hand geküsst, *"over the fingers, in the
+European way, in front of four or five people"*, und es war ein Werkzeug. Es ist
+der einzige Handkuss im ganzen Buch und er gehört einer anderen Frau, in der
+Öffentlichkeit, aus Berechnung.
+
+**Fingerspitzen, allein, zu nichts.** Wenn ein Leser bei der Schlussszene an die
+Gala denkt, ist sie misslungen.
+
+Wird hier in Register A bis C nachgetragen, sobald sie im Text steht.
+
+---
+
 ## Die Probe
 
 Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:

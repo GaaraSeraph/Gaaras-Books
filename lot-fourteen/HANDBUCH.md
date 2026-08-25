@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 196.925 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 197.666 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5223,7 +5223,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 54** *Clause eleven* (v1.1) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+- **Band 2, Kapitel 54** *Clause eleven* (v1.2) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -6984,6 +6984,84 @@ kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
 **Er sagt sie nicht ueber sich.** Er sagt sie, waehrend er zusieht, wie sie es
 fuer jemand anderen noch einmal tut, und er ist der Einzige auf der Welt, der
 weiss, was es wert ist.
+
+---
+
+---
+
+## Was er ihr danach sagt, und es ist Kanon
+
+**Vom Autor am 25.08. vorgegeben.** Nach dem Endgespräch, nicht vorher. Sie ist
+bei dem Gespräch nicht im Raum (Kapitel 62), also erfährt sie es hinterher, und
+das hier ist der Grund, den er ihr gibt.
+
+**Der Kern, in seinen Worten:** *Jemand hat eine Waffe auf Dich gerichtet. Dass
+ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
+überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
+
+**Die Ausführung im Register des Buches** — er beginnt mit einem Bruchteil,
+korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
+und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
+
+> *"Somebody pointed a weapon at you," he said. "That the weapon was me is one
+> half of why it was personal."*
+>
+> *He stopped, because he had heard it go and it was not accurate.*
+>
+> *"That is not half. It is a great deal less than half, and I could give you the
+> number, and I am not going to, because giving you the number would be the
+> fourth cleverest thing I have done this year."*
+>
+> *"Then give me the rest of it."*
+>
+> *"If the world points anything at you at all, I will burn the world down."*
+
+**Warum das die Landung des ganzen Bandes ist:** Georgijs Maschine endet in jedem
+Satz auf einem Preis (`doc/12-stimmen.md`). Das ist der erste und einzige Satz
+in zwei Bänden, in dem kein Preis steht. **Der Text kommentiert es nicht.** Wer
+danach einen Beat schreibt, der erklärt, was gerade passiert ist, nimmt es weg.
+
+**Und die Reihenfolge ist erzwungen:** die Selbstkorrektur muss vor dem großen
+Satz stehen. Ein Mann, der zuerst pathetisch wird und dann rechnet, ist ein
+anderer Mann.
+
+---
+
+## Die Schlussgeste: ihre Fingerspitzen
+
+**Vom Autor am 25.08. festgelegt, mit ausdrücklicher Abgrenzung.**
+
+Am Ende des Bandes küsst er ihr die **Fingerspitzen**. Wie ein Mann es bei einer
+Frau tut, die er sehr mag.
+
+**Das ist NICHT die Geste aus Band 1, Kapitel 11, und darf nie so klingen.** Dort
+hat er **Hana** die Hand geküsst, *"over the fingers, in the European way, in
+front of four or five people who will describe it inside the week and use that
+word"* — und es war ein Werkzeug, öffentlich, defensiv, berechnet. Hana selbst:
+*"the first defensive thing she had seen me do."*
+
+| | Band 1, Kapitel 11 | Bandende |
+|---|---|---|
+| Wem | Hana | Annie |
+| Wo | Ballsaal, vor vier oder fünf Leuten | Niemand sonst im Haus |
+| Was | Handrücken, über die Finger, europäisch | **Die Fingerspitzen** |
+| Wozu | Damit achthundert Leute eine falsche Antwort behalten | **Zu nichts** |
+| Sein Wort dafür | *defensive* | — |
+
+**Die Regel für die Szene:** kein höfisches Vokabular. Nicht *bowed*, nicht *took
+her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
+wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
+passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
+
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen:**
+
+> *"You are such a beautiful, strong woman. Thank you for buying me."*
+
+Reihenfolge offen und beim Schreiben zu entscheiden. Eintragen in
+`doc/10-naehe.md`, Register A bis C, sobald sie geschrieben ist.
+
+**Der Anlauf läuft über Erschöpfung, nie über Ruhe** — das steht seit dem 25.08.
+oben in diesem Dokument und gilt für diese Szene besonders.
 
 ---
 
@@ -10239,6 +10317,24 @@ in diesem Dokument. Er ist ungeschrieben und verfuegbar.
 
 ---
 
+## Die Schlussgeste, vorgemerkt und noch nicht geschrieben
+
+**Am Ende des Bandes küsst er ihr die Fingerspitzen.** Festgelegt vom Autor am
+25.08. Die Ausführung und die Abgrenzung stehen in `doc/07-next.md`.
+
+**Die eine Sache, die hier stehen muss:** das ist **nicht** die Geste aus Band 1,
+Kapitel 11. Dort hat er **Hana** die Hand geküsst, *"over the fingers, in the
+European way, in front of four or five people"*, und es war ein Werkzeug. Es ist
+der einzige Handkuss im ganzen Buch und er gehört einer anderen Frau, in der
+Öffentlichkeit, aus Berechnung.
+
+**Fingerspitzen, allein, zu nichts.** Wenn ein Leser bei der Schlussszene an die
+Gala denkt, ist sie misslungen.
+
+Wird hier in Register A bis C nachgetragen, sobald sie im Text steht.
+
+---
+
 ## Die Probe
 
 Vor jeder Zeile, die auf eine frühere Berührung zeigt, drei Fragen:
@@ -10919,7 +11015,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 137 | 32 (b1ch05-b2ch58) | 2 | 60 |
 | Mrs Seo | 90 | 40 (b1ch03-b2ch62) | 1 | 74 |
-| Mr Hwang | 71 | 15 (b2ch07-b2ch54) | 3 | 59 |
+| Mr Hwang | 72 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Sim | 67 | 12 (b2ch31-b2ch64) | 2 | 45 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Mr Yeo | 55 | 9 (b1ch05-b2ch55) | 5 | 46 |
@@ -11643,14 +11739,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:126 | "Three times," said Annie. |
 | 3 | b2ch51:162 | "And you take nothing in your pockets that anybody could take out of them." Annie looked.. |
 | 3 | b2ch51:194 | Annie nodded once, and that was the whole of the negotiation. |
-| 10 | b2ch54:36 | The terms of business are eleven pages and Annie has a copy, because everybody who buys .. |
-| 10 | b2ch54:218 | Annie looked at the papers before she looked at him, which told him she had recognised t.. |
-| 10 | b2ch54:238 | Annie came and stood at the corner of the desk. |
-| 10 | b2ch54:270 | Annie put the page down and did not say anything for a while. |
-| 10 | b2ch54:290 | Annie looked at him for what was probably four seconds. |
-| 10 | b2ch54:314 | "I am going to tell you one thing about it and it is not about whether." Annie turned th.. |
-| 10 | b2ch54:334 | "Sit down," said Annie. |
-| 10 | b2ch54:342 | Annie took her hand off the papers. |
+| 10 | b2ch54:58 | The terms of business are eleven pages and Annie has a copy, because everybody who buys .. |
+| 10 | b2ch54:262 | Annie looked at the papers before she looked at him, which told him she had recognised t.. |
+| 10 | b2ch54:282 | Annie came and stood at the corner of the desk. |
+| 10 | b2ch54:314 | Annie put the page down and did not say anything for a while. |
+| 10 | b2ch54:334 | Annie looked at him for what was probably four seconds. |
+| 10 | b2ch54:358 | "I am going to tell you one thing about it and it is not about whether." Annie turned th.. |
+| 10 | b2ch54:378 | "Sit down," said Annie. |
+| 10 | b2ch54:386 | Annie took her hand off the papers. |
 | 16 | b2ch55:212 | Annie listened to the whole of it standing in the doorway with one hand on the frame. |
 | 16 | b2ch55:236 | "You have. And I have let you, because it is my house and my money and the line on that .. |
 | 16 | b2ch55:256 | Annie came round the desk and stood behind the chair. |
@@ -11888,9 +11984,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch51:44` (Tag 3) - five, one, six
 - `b2ch51:66` (Tag 3) - one
 - `b2ch51:126` (Tag 3) - three
-- `b2ch54:36` (Tag 10) - eleven
-- `b2ch54:290` (Tag 10) - four
-- `b2ch54:314` (Tag 10) - one
+- `b2ch54:58` (Tag 10) - eleven
+- `b2ch54:334` (Tag 10) - four
+- `b2ch54:358` (Tag 10) - one
 - `b2ch55:212` (Tag 16) - one
 - `b2ch57:418` (Tag 21) - eleven
 - `b2ch58:70` (Tag 22) - two
@@ -13216,9 +13312,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch47:28 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
 | 3 | b2ch51:6 | The second delivery came on the Thursday, at the same hour as the first, to the same gat.. |
 | 3 | b2ch51:317 | Mrs Seo put the second twelve stems in water beside the first twelve, without being told.. |
-| 10 | b2ch54:40 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
-| 10 | b2ch54:234 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
-| 10 | b2ch54:366 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
+| 10 | b2ch54:62 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
+| 10 | b2ch54:278 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
+| 10 | b2ch54:410 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
 | 21 | b2ch57:406 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
 | 21 | b2ch57:414 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
 | 22 | b2ch58:46 | Mrs Seo caught him at ten past seven with the coffee already poured, which is not a cour.. |
@@ -13277,9 +13373,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch47:28` (Tag 10) - nineteen
 - `b2ch51:6` (Tag 3) - twelve
 - `b2ch51:317` (Tag 3) - twelve
-- `b2ch54:40` (Tag 10) - nine, ten
-- `b2ch54:234` (Tag 10) - nine, ten
-- `b2ch54:366` (Tag 10) - nine, ten
+- `b2ch54:62` (Tag 10) - nine, ten
+- `b2ch54:278` (Tag 10) - nine, ten
+- `b2ch54:410` (Tag 10) - nine, ten
 - `b2ch58:46` (Tag 22) - seven, ten
 - `b2ch58:66` (Tag 22) - nine, six
 - `b2ch59:362` (Tag 22) - nine, one, six
@@ -13292,7 +13388,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Hwang
 
-71 Nennungen in 15 Kapiteln.
+72 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -13366,7 +13462,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch43:226 | "Six weeks. I do not have the day itself, only the distance. I know the day Hwang arrive.. |
 | 5 | b2ch43:238 | "You did not know Hwang was coming." |
 | 5 | b2ch43:242 | "Nobody knew Hwang was coming. That is rather the point of what I am telling you." He lo.. |
-| 10 | b2ch54:140 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
+| 10 | b2ch54:38 | Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It .. |
+| 10 | b2ch54:162 | It names the lot by its reference in the permanent series, which he has, because Byun so.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -13403,7 +13500,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch43:38` (Tag 5) - six, three
 - `b2ch43:214` (Tag 5) - seven, six, three
 - `b2ch43:226` (Tag 5) - one, six
-- `b2ch54:140` (Tag 10) - four, one, thirty
+- `b2ch54:162` (Tag 10) - four, one, thirty
 
 ---
 
@@ -13666,8 +13763,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
 | 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
 | 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
-| 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
-| 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
+| 10 | b2ch54:198 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
+| 10 | b2ch54:218 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:142 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 
@@ -13695,7 +13792,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch53:286` (Tag 8) - one
 - `b2ch53:310` (Tag 8) - one, two
 - `b2ch53:318` (Tag 8) - four
-- `b2ch54:154` (Tag 10) - four, nine
+- `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:142` (Tag 16) - four, seven
 
@@ -13754,8 +13851,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
 | 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
 | 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
-| 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
-| 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
+| 10 | b2ch54:198 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
+| 10 | b2ch54:218 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:142 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 
@@ -13779,7 +13876,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch53:286` (Tag 8) - one
 - `b2ch53:310` (Tag 8) - one, two
 - `b2ch53:318` (Tag 8) - four
-- `b2ch54:154` (Tag 10) - four, nine
+- `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:142` (Tag 16) - four, seven
 
@@ -13970,7 +14067,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
 | 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
 | 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 10 | b2ch54:20 | Mrs Sunwoo told him that in October, in a ballroom, without any idea what she was handin.. |
+| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
 | 16 | b2ch55:68 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
 
 ### Zahlen in der Naehe von Mrs Sunwoo
@@ -13994,7 +14091,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:292` (Tag 17) - eighty-one, one, three
 - `b2ch23:84` (Tag 24) - three
 - `b2ch23:122` (Tag 24) - four, two
-- `b2ch54:20` (Tag 10) - four, nineteen, one, thirty
+- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
 - `b2ch55:68` (Tag 16) - forty
 
 ---

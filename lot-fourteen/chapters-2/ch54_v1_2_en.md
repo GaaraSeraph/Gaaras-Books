@@ -1,5 +1,5 @@
 # Chapter 54: Clause eleven
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Seven · Thursday 6 August
 
@@ -7,17 +7,39 @@ He decided on the Wednesday night that he was not going to tell her first, and h
 
 ---
 
-*Not because she would stop me. Because the moment I put it in front of her it becomes hers. What I am about to build is the first thing this year with her name nowhere on it, and it cannot be that and also have been discussed in her library.*
+*Not because she would stop me. Because the moment I put it in front of her it becomes hers.*
+
+*What I am about to build is the first thing this year that will exist on paper with her name nowhere on it.*
 
 *I will tell her when it is done and before it is sent. That is the arrangement I am making with myself at half past eleven on a Wednesday, alone, and I am writing it here so that it is a promise and not an intention.*
 
 ---
 
-The house on the river keeps a permanent series now.
+The house on the river has been winding up since April.
 
 ---
 
-Mrs Sunwoo told him that in October, in a ballroom, without any idea what she was handing over. The new man tidied everything. One series, the whole thirty years in one sequence. Before him you could not find a lot from four years ago without knowing which of four systems it had been entered under, and now a girl of nineteen can find anything in the place in about a minute.
+There are no settlements. There is no desk and no glass panel and no chair on the visitor's side, and there is a man on the third floor with two crates and a schedule of things to be closed.
+
+---
+
+And it still keeps a permanent series.
+
+---
+
+That is the whole of what Georgij worked out on the Thursday morning, and it took him eleven weeks to arrive at, and it had been sitting in front of him the entire time.
+
+---
+
+A house that is winding up is still a house. Its terms of business bind it until somebody signs the series over to an archive or a successor, and until that morning it has to answer for what it holds. Nobody has told Georgij when that morning is.
+
+---
+
+Nobody has told Hwang either, because a fund decides that and a fund is in no hurry. It is the only reason this is possible in August, and there is no version in which it is still possible in the spring.
+
+---
+
+Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what she was handing over. The new man tidied everything. One series, the whole thirty years in one sequence. Before him you could not find a lot from four years ago without knowing which of four systems it had been entered under, and now a girl of nineteen can find anything in the place in about a minute.
 
 ---
 
@@ -142,6 +164,28 @@ It names the lot by its reference in the permanent series, which he has, because
 And it gives an address for the reply that is not this house and never has been.
 
 ---
+
+He read the four sentences back at about seven in the evening and then sat with the page for a while, because something in it was not right and it was not the drafting.
+
+---
+
+*Her terms of business. Her copy. Her drawer, opened with a key her housekeeper handed me without asking why. Her lot number.*
+
+*I wrote at half past eleven last night that this is the first thing this year with her name nowhere on it. There is not one part of it that is not hers. The only thing I have added is the four sentences and the address for the reply.*
+
+---
+
+He did not cross the line out, because a reason written on Wednesday is a record of what a man thought on Wednesday.
+
+---
+
+He wrote the correction underneath it instead.
+
+---
+
+*Nothing here was built without her. It is the first thing this year that will not have her name on the paper, and I have got that by taking every other part of it out of her house. I would like that noticed by somebody, and the only person who could notice it is the one I am not going to tell until Friday.*
+
+* * *
 
 The address is the part that cost him something.
 
