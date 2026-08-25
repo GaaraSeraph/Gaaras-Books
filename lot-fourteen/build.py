@@ -228,7 +228,7 @@ FIGURES = {
     "Ahn Jung-hee": [r"Ahn Jung-hee", r"Jung-hee", r"Do Kyung-ae", r"Kyung-ae"],
     "Mr Ahn": [r"Mr Ahn"],
     "Mrs Bae": [r"Mrs Bae"],
-    "Mr Ryu": [r"Mr Ryu"],
+    "Mr Koh": [r"Mr Koh", r"\bKoh\b"],
     "Mrs Gwak": [r"Mrs Gwak", r"\bGwak\b"],
     "Mr Sohn": [r"Mr Sohn", r"\bSohn\b"],
     "Baek Jun-ho": [r"Baek Jun-ho", r"Jun-ho"],

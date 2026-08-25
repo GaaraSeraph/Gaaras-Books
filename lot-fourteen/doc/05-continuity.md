@@ -1828,7 +1828,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *The one who asked a question* (v2.0) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *The one who asked a question* (v2.1) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -1840,7 +1840,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *Tell him or ask him* (v2.3) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *Tell him or ask him* (v2.4) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -2572,7 +2572,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   schon anders fuehrt.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.0) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.1) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2595,7 +2595,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Blumen, Heizung, Personal - das ist ein Betrieb, und irgendwer fuehrt ihn.
     Damit steht der naechste Zug fest und es ist nicht Baek.
   - **Am Schluss:** Annie legt eine Seite in die Halle, elf Zeilen, Name zwei und
-    drei vom Tisch. Darunter: **Ryu hat von sich aus zwei von ihnen angerufen**,
+    drei vom Tisch. Darunter: **Koh hat von sich aus zwei von ihnen angerufen**,
     ohne Auftrag, und ihr nicht gesagt, was er gesagt hat.
   - Woos Finanzier aus B1 13 (*"what would happen to the terminal if I died on
     the Tuesday"*) ist **nicht** Choi und darf nie mit ihm verwechselt werden.
@@ -2605,7 +2605,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   **Faellig fuer den Inhalts-Chat:** Ahn Jung-hee (35) und ihr Bruder Mr Ahn (39,
   vier Jahre aelter) gehoeren in das Geburtstagsregister.
 
-- **Band 2, Kapitel 58** *The tenth plate* (v1.0) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
+- **Band 2, Kapitel 58** *The tenth plate* (v1.1) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon:**
@@ -2627,7 +2627,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     **dieselbe Lage, in der Georgij siebzehn Jahre war.**
   - **Und der Knoten:** er hat als Einziger eine Leitung in dieses Haus, und er
     kann nicht daran ziehen. Wer hineingreift, macht sie teuer statt nuetzlich.
-  - Dazu Annies Seite: **Ryu hat Mr Sohn am 11. und Mr Baek Hyun-woo am 13.
+  - Dazu Annies Seite: **Koh hat Mr Sohn am 11. und Mr Baek Hyun-woo am 13.
     angerufen**, unbeauftragt. Sohn hat ein Essen abgesagt, zu dem er seit neun
     Jahren geht, und hat selbst angerufen statt jemanden anrufen zu lassen.
     Annie: *"this stops being a campaign and starts being weather."*

@@ -609,7 +609,7 @@ Morgen an und sagt ihm, was sie getan hat - **ohne sich zu entschuldigen**, weil
 sie es dem Mann gegenüber, dem sie es angetan hat, nicht bereuen wollte.
 *Kanon, Band 2 Kapitel 41, 49.*
 
-**Mr Ryu** - **Nicht Mrs Ryu aus Band 1, Kapitel 7.** Der Erste von Annies
+**Mr Koh** - **Umbenannt am 25.08.** Hiess bis dahin Mr Koh und kollidierte mit Mrs Ryu aus Band 1, Kapitel 7. Der Erste von Annies
 einunddreißig Namen, angesprochen am 11. Juni. Besichtigt Ladung: geht mit
 Taschenlampe und Klemmbrett in einen Laderaum und unterschreibt dann ein Papier,
 das entscheidet, wessen Geld es ist.
@@ -664,13 +664,15 @@ soll, die Seite kopiert. **Sie wird von niemandem behelligt werden, jemals.**
 - **Bae.** In Band 1, Kapitel 3 ist Bae der Wachmann am Tor, der Georgij an der
   Küchentür stellt. In Band 2, Kapitel 41 ist **Mrs Bae** die Frau am Empfang mit
   dem Bleistiftbuch. Verschiedene Menschen.
-- **Ryu.** In Band 1, Kapitel 7 ist **Mrs Ryu** die Frau aus dem Schiedsverfahren
-  in Singapur. In Band 2, Kapitel 37 ist **Mr Ryu** der Ladungsbesichtiger und der
-  Erste vom Tisch. Verschiedene Menschen.
+- **Ryu. ERLEDIGT am 25.08.** Der Ladungsbesichtiger aus Band 2, Kapitel 37 heisst
+  jetzt **Mr Koh**. Mrs Ryu aus Band 1, Kapitel 7 bleibt, wie sie ist. Geaendert in
+  den Kapiteln 37, 38, 57 und 58.
 
 **Was daran real kaputt war:** `BEGEGNUNGEN.md` hat beide Paare zusammengeworfen,
 weil die Namensliste in `build.py` sie ohne Anrede gesucht hat. Am 25.08.
 getrennt.
 
-**Offen bleibt die literarische Frage**, ob zwei Baes und zwei Ryus im selben Buch
-bleiben dürfen. Mr Ryu ist die jüngere Figur und am billigsten umzubenennen.
+**Offen bleibt nur Bae.** Der Wachmann aus Band 1 und die Frau am Empfang aus
+Band 2 heißen weiterhin beide so. Im Text trennt die Anrede sie zuverlässig: der
+Wachmann wird nie "Mr Bae" genannt und sie heißt immer "Mrs Bae". Wenn das
+irgendwann doch stört, ist der Wachmann die kleinere Figur.

@@ -1,9 +1,9 @@
 # Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
-Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and then signs a piece of paper that decides whose money it is.
+Mr Koh surveys cargo, which means he walks into a hold with a torch and a clipboard and then signs a piece of paper that decides whose money it is.
 
 ---
 
@@ -19,7 +19,7 @@ Georgij had spent Wednesday deciding what to bring and had settled on one thing.
 
 ---
 
-Mr Ryu put the kettle down.
+Mr Koh put the kettle down.
 
 ---
 
@@ -35,7 +35,7 @@ Georgij sat.
 
 ---
 
-"I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two men I drink with. It is not a thing a man says." He stayed standing, with the kettle between his hands. "And you have come up two flights of stairs with the date on you."
+"I have not said that out loud to anybody," said Mr Koh. "Not to my wife. Not to the two men I drink with. It is not a thing a man says." He stayed standing, with the kettle between his hands. "And you have come up two flights of stairs with the date on you."
 
 ---
 
@@ -51,7 +51,7 @@ Georgij sat.
 
 ---
 
-Mr Ryu looked at that for a while.
+Mr Koh looked at that for a while.
 
 ---
 
@@ -63,7 +63,7 @@ Mr Ryu looked at that for a while.
 
 ---
 
-Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men of that generation do instead of agreeing to a conversation.
+Mr Koh put two cups out without asking whether anybody wanted tea, which is a thing men of that generation do instead of agreeing to a conversation.
 
 ---
 
@@ -75,7 +75,7 @@ Mr Ryu put two cups out without asking whether anybody wanted tea, which is a th
 
 ---
 
-The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it finished.
+The kettle got to the noise it makes before it boils and Mr Koh turned it off before it finished.
 
 ---
 
@@ -87,7 +87,7 @@ The kettle got to the noise it makes before it boils and Mr Ryu turned it off be
 
 ---
 
-Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
+Mr Koh sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
 
 ---
 
@@ -107,7 +107,7 @@ Mr Ryu sat down in his own chair, on the far side of his own desk, which was the
 
 ---
 
-Mr Ryu did not answer straight away, and when he did his voice had changed by exactly the amount that a man's voice changes when somebody has walked into the middle of a private thing.
+Mr Koh did not answer straight away, and when he did his voice had changed by exactly the amount that a man's voice changes when somebody has walked into the middle of a private thing.
 
 ---
 
@@ -119,7 +119,7 @@ Mr Ryu did not answer straight away, and when he did his voice had changed by ex
 
 ---
 
-Mr Ryu put both hands on the desk.
+Mr Koh put both hands on the desk.
 
 ---
 
@@ -135,7 +135,7 @@ The room went completely quiet, and it was not the sort of quiet that waits for 
 
 ---
 
-"I asked because he had not been introduced," said Mr Ryu, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
+"I asked because he had not been introduced," said Mr Koh, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
 
 ---
 
@@ -155,7 +155,7 @@ Georgij let that stand, because it was the whole thing and the man had said it h
 
 ---
 
-Mr Ryu sat back.
+Mr Koh sat back.
 
 ---
 
@@ -183,7 +183,7 @@ Mr Ryu sat back.
 
 ---
 
-Mr Ryu did not move for a long moment.
+Mr Koh did not move for a long moment.
 
 ---
 
@@ -207,7 +207,7 @@ The traffic outside did the thing traffic does when a room has gone quiet.
 
 ---
 
-"What do you want from me," said Mr Ryu.
+"What do you want from me," said Mr Koh.
 
 ---
 
@@ -223,7 +223,7 @@ The traffic outside did the thing traffic does when a room has gone quiet.
 
 ---
 
-Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier.
+Mr Koh looked at him with an expression that had not been in the room ten minutes earlier.
 
 ---
 
@@ -235,7 +235,7 @@ Mr Ryu looked at him with an expression that had not been in the room ten minute
 
 ---
 
-Mr Ryu got up and came round the desk, and at the door he did something Georgij had not planned for, which was to put out his hand.
+Mr Koh got up and came round the desk, and at the door he did something Georgij had not planned for, which was to put out his hand.
 
 ---
 
@@ -255,7 +255,7 @@ It was the wide one, the one that goes all the way up and arrives about a quarte
 
 ---
 
-Mr Ryu smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
+Mr Koh smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
 
 ---
 
@@ -277,7 +277,7 @@ He wrote the name on the second page when he got back, under the four that were 
 
 ---
 
-*Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
+*Mr Koh, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
 
 ---
 

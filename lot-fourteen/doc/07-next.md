@@ -57,7 +57,7 @@ Schlusszeile laeuft ueber **Erschoepfung**, nie ueber Ruhe.
 ### Wo der Band steht (Stand Kapitel 56, Tag 315, Freitag 14. August)
 
 **Der Feldzug laeuft.** Von Annies einunddreissig Namen ist **einer** angesprochen
-(Mr Ryu, Kapitel 37). Sang-hoon haelt Sims Arbeitsnamen und benutzt ihn nicht.
+(Mr Koh, Kapitel 37). Sang-hoon haelt Sims Arbeitsnamen und benutzt ihn nicht.
 Yeom liest vier Jahre Quartalsmappen. Baek Jun-ho weiss, was er unterschrieben
 hat.
 
@@ -89,7 +89,7 @@ gekommen ist. Drei Dinge kommen daraus:
    Zahler sieht eine Summe im Monat, der Besteller weiss, welche Farbe die
    Waende haben. Sauerstoff, Blumen, Heizung, Personal - jemand fuehrt das.
 
-**Und Annie hat am selben Abend eine Seite in die Halle gelegt:** Ryu hat von
+**Und Annie hat am selben Abend eine Seite in die Halle gelegt:** Koh hat von
 sich aus zwei vom Tisch angerufen. Der Feldzug laeuft jetzt auch ohne Georgij,
 und das ist die Frage, mit der Kapitel 58 aufmacht.
 

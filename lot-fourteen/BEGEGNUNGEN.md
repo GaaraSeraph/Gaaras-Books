@@ -40,9 +40,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
 | Choi Dae-ho | 25 | 15 (b1ch07-b2ch62) | 2 | 61 |
+| Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
-| Mr Ryu | 19 | 3 (b2ch37-b2ch58) | 22 | 59 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Mr Ahn | 15 | 2 (b2ch56-b2ch60) | 18 | 25 |
 | Mrs Gwak | 15 | 3 (b2ch31-b2ch36) | 41 | 51 |
@@ -762,7 +762,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 21 | b2ch57:418 | It was a page out of Annie's own hand, and it was eleven lines long, and it was the seco.. |
 | 22 | b2ch58:70 | Annie was at the desk in the small room and the page from the hall was in front of her, .. |
 | 22 | b2ch58:102 | "That is a man being frightened, and he is frightened of a room and not of a person, and.. |
-| 22 | b2ch58:122 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Ryu te.. |
+| 22 | b2ch58:122 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Koh te.. |
 | 22 | b2ch59:14 | "You did not eat," said Annie. |
 | 22 | b2ch59:50 | Annie did not say anything at all. |
 | 22 | b2ch59:58 | Annie got up and went to the window and did not look out of it. |
@@ -3507,6 +3507,46 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mr Koh
+
+21 Nennungen in 4 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 53 | b2ch37:6 | Mr Koh surveys cargo, which means he walks into a hold with a torch and a clipboard and .. |
+| 53 | b2ch37:22 | Mr Koh put the kettle down. |
+| 53 | b2ch37:38 | "I have not said that out loud to anybody," said Mr Koh. "Not to my wife. Not to the two.. |
+| 53 | b2ch37:54 | Mr Koh looked at that for a while. |
+| 53 | b2ch37:66 | Mr Koh put two cups out without asking whether anybody wanted tea, which is a thing men .. |
+| 53 | b2ch37:78 | The kettle got to the noise it makes before it boils and Mr Koh turned it off before it .. |
+| 53 | b2ch37:90 | Mr Koh sat down in his own chair, on the far side of his own desk, which was the first d.. |
+| 53 | b2ch37:110 | Mr Koh did not answer straight away, and when he did his voice had changed by exactly th.. |
+| 53 | b2ch37:122 | Mr Koh put both hands on the desk. |
+| 53 | b2ch37:138 | "I asked because he had not been introduced," said Mr Koh, and it came out of him in one.. |
+| 53 | b2ch37:158 | Mr Koh sat back. |
+| 53 | b2ch37:186 | Mr Koh did not move for a long moment. |
+| 53 | b2ch37:210 | "What do you want from me," said Mr Koh. |
+| 53 | b2ch37:226 | Mr Koh looked at him with an expression that had not been in the room ten minutes earlier. |
+| 53 | b2ch37:238 | Mr Koh got up and came round the desk, and at the door he did something Georgij had not .. |
+| 53 | b2ch37:258 | Mr Koh smiled back before he had decided to, which is what that smile is for, and then l.. |
+| 53 | b2ch37:280 | *Mr Koh, since eleven o'clock this morning. And he is the first one who knows what the a.. |
+| 59 | b2ch38:325 | Mr Koh he had never met. |
+| 21 | b2ch57:426 | *Koh has telephoned two of them himself. I did not ask him to and he has not told me wha.. |
+| 22 | b2ch58:82 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+| 22 | b2ch58:122 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Koh te.. |
+
+### Zahlen in der Naehe von Mr Koh
+
+- `b2ch37:38` (Tag 53) - two
+- `b2ch37:66` (Tag 53) - two
+- `b2ch37:138` (Tag 53) - five, nine, one
+- `b2ch37:226` (Tag 53) - ten
+- `b2ch37:280` (Tag 53) - eleven, one
+- `b2ch57:426` (Tag 21) - two
+- `b2ch58:82` (Tag 22) - eight, one
+
+---
+
 ## Ji-won
 
 20 Nennungen in 7 Kapiteln.
@@ -3586,43 +3626,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch22:238` (Tag 17) - two
 - `b2ch22:274` (Tag 17) - twenty-six
 - `b2ch23:16` (Tag 24) - one, three
-
----
-
-## Mr Ryu
-
-19 Nennungen in 3 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 53 | b2ch37:6 | Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and .. |
-| 53 | b2ch37:22 | Mr Ryu put the kettle down. |
-| 53 | b2ch37:38 | "I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two.. |
-| 53 | b2ch37:54 | Mr Ryu looked at that for a while. |
-| 53 | b2ch37:66 | Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men .. |
-| 53 | b2ch37:78 | The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it .. |
-| 53 | b2ch37:90 | Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first d.. |
-| 53 | b2ch37:110 | Mr Ryu did not answer straight away, and when he did his voice had changed by exactly th.. |
-| 53 | b2ch37:122 | Mr Ryu put both hands on the desk. |
-| 53 | b2ch37:138 | "I asked because he had not been introduced," said Mr Ryu, and it came out of him in one.. |
-| 53 | b2ch37:158 | Mr Ryu sat back. |
-| 53 | b2ch37:186 | Mr Ryu did not move for a long moment. |
-| 53 | b2ch37:210 | "What do you want from me," said Mr Ryu. |
-| 53 | b2ch37:226 | Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier. |
-| 53 | b2ch37:238 | Mr Ryu got up and came round the desk, and at the door he did something Georgij had not .. |
-| 53 | b2ch37:258 | Mr Ryu smiled back before he had decided to, which is what that smile is for, and then l.. |
-| 53 | b2ch37:280 | *Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the a.. |
-| 59 | b2ch38:325 | Mr Ryu he had never met. |
-| 22 | b2ch58:82 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-
-### Zahlen in der Naehe von Mr Ryu
-
-- `b2ch37:38` (Tag 53) - two
-- `b2ch37:66` (Tag 53) - two
-- `b2ch37:138` (Tag 53) - five, nine, one
-- `b2ch37:226` (Tag 53) - ten
-- `b2ch37:280` (Tag 53) - eleven, one
-- `b2ch58:82` (Tag 22) - eight, one
 
 ---
 

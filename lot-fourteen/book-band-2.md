@@ -47,8 +47,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 34 | v1.2 | 2.261 |
 | 35 | v2.7 | 3.966 |
 | 36 | v2.1 | 3.315 |
-| 37 | v2.0 | 3.913 |
-| 38 | v2.3 | 2.977 |
+| 37 | v2.1 | 3.913 |
+| 38 | v2.4 | 2.977 |
 | 39 | v2.1 | 2.940 |
 | 40 | v2.2 | 2.769 |
 | 41 | v2.3 | 3.902 |
@@ -67,8 +67,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 54 | v1.1 | 2.487 |
 | 55 | v1.2 | 2.060 |
 | 56 | v1.2 | 2.328 |
-| 57 | v1.0 | 2.882 |
-| 58 | v1.0 | 2.379 |
+| 57 | v1.1 | 2.882 |
+| 58 | v1.1 | 2.379 |
 | 59 | v1.0 | 2.237 |
 | 60 | v1.0 | 2.534 |
 | 61 | v1.0 | 2.344 |
@@ -7795,11 +7795,11 @@ There is no version of the next four weeks in which he does not leave the same t
 ---
 
 # Book Two · Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.0 · EN
+*Lot Fourteen* · Version 2.1 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
-Mr Ryu surveys cargo, which means he walks into a hold with a torch and a clipboard and then signs a piece of paper that decides whose money it is.
+Mr Koh surveys cargo, which means he walks into a hold with a torch and a clipboard and then signs a piece of paper that decides whose money it is.
 
 His office is two rooms over a chandler's on the wrong side of Yeongdeungpo, with a window that has been painted shut and a wall of box files in date order that go back further than the lease does. There is one desk, one chair for a visitor, and a kettle that has been descaled by somebody who cared about the kettle.
 
@@ -7807,7 +7807,7 @@ Georgij had spent Wednesday deciding what to bring and had settled on one thing.
 
 "The eleventh of March, five years ago," he said, before he had sat down. "You had dinner in a private room in Cheongdam. That was the last time you were asked."
 
-Mr Ryu put the kettle down.
+Mr Koh put the kettle down.
 
 He did not ask who Georgij was, which was interesting, and he did not ask him to leave, which was more interesting than that.
 
@@ -7815,7 +7815,7 @@ He did not ask who Georgij was, which was interesting, and he did not ask him to
 
 Georgij sat.
 
-"I have not said that out loud to anybody," said Mr Ryu. "Not to my wife. Not to the two men I drink with. It is not a thing a man says." He stayed standing, with the kettle between his hands. "And you have come up two flights of stairs with the date on you."
+"I have not said that out loud to anybody," said Mr Koh. "Not to my wife. Not to the two men I drink with. It is not a thing a man says." He stayed standing, with the kettle between his hands. "And you have come up two flights of stairs with the date on you."
 
 "Yes."
 
@@ -7823,25 +7823,25 @@ Georgij sat.
 
 "I work for a woman on the river. She has no interest in you and no business with you, and you will not hear from her." Georgij put his hands flat on his knees. "She is not why I am here and she does not know I am in this room this morning. I told her I was coming and she did not ask which man."
 
-Mr Ryu looked at that for a while.
+Mr Koh looked at that for a while.
 
 "That is a strange amount of detail to give away in a first minute."
 
 "It is what I have got. Spending it now is cheaper than having you sit there for an hour working out what I am holding back."
 
-Mr Ryu put two cups out without asking whether anybody wanted tea, which is a thing men of that generation do instead of agreeing to a conversation.
+Mr Koh put two cups out without asking whether anybody wanted tea, which is a thing men of that generation do instead of agreeing to a conversation.
 
 "Ask me your question, then."
 
 "I have not got one." Georgij said it plainly. "I came to tell you something and then to leave. You can ask me to go now and I will, and nothing happens afterward either way."
 
-The kettle got to the noise it makes before it boils and Mr Ryu turned it off before it finished.
+The kettle got to the noise it makes before it boils and Mr Koh turned it off before it finished.
 
 "Nobody has ever come up here to tell me something," he said. "They come up here to have a hold looked at."
 
 "I know. That is part of what I am going to tell you."
 
-Mr Ryu sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
+Mr Koh sat down in his own chair, on the far side of his own desk, which was the first defensive thing he had done.
 
 "Go on."
 
@@ -7851,13 +7851,13 @@ Mr Ryu sat down in his own chair, on the far side of his own desk, which was the
 
 "You have an explanation for it."
 
-Mr Ryu did not answer straight away, and when he did his voice had changed by exactly the amount that a man's voice changes when somebody has walked into the middle of a private thing.
+Mr Koh did not answer straight away, and when he did his voice had changed by exactly the amount that a man's voice changes when somebody has walked into the middle of a private thing.
 
 "I am sixty-something and there are younger men with better equipment," he said. "My firm is two rooms and it was four rooms once. Men stop being asked to dinners. It is not a mystery, it is arithmetic."
 
 "That is a good explanation," said Georgij. "It fits everything you can see from this chair, and I would have arrived at it myself, and it is wrong."
 
-Mr Ryu put both hands on the desk.
+Mr Koh put both hands on the desk.
 
 "Say the right one."
 
@@ -7865,7 +7865,7 @@ Mr Ryu put both hands on the desk.
 
 The room went completely quiet, and it was not the sort of quiet that waits for the next sentence. It was the other sort.
 
-"I asked because he had not been introduced," said Mr Ryu, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
+"I asked because he had not been introduced," said Mr Koh, and it came out of him in one piece, the way a thing does when it has been folded up in somebody for five years. "That is all. He sat down at nine and he did not eat and nobody said his name and after an hour I asked, in the ordinary way, the way you ask. And somebody answered me pleasantly and it was not an answer, and I remember thinking about it in the taxi and then I never thought about it again."
 
 "Until now."
 
@@ -7875,7 +7875,7 @@ Georgij let that stand, because it was the whole thing and the man had said it h
 
 "It is the only thing that is not allowed at that table," he said. "You may be used and you may be fed and you may go home pleased. You may not look at who is in the room. You did it once, in the ordinary way, and you were not asked again, and nobody was ever going to tell you."
 
-Mr Ryu sat back.
+Mr Koh sat back.
 
 "You said you came to tell me something. That is one thing. There is a second."
 
@@ -7889,7 +7889,7 @@ Mr Ryu sat back.
 
 "Fourteen months later that firm was sold. The man who owned it took a price that people in your trade still talk about. He took it because two of his three contracts had gone somewhere else inside one quarter, and he did not know why either."
 
-Mr Ryu did not move for a long moment.
+Mr Koh did not move for a long moment.
 
 "You are telling me that I did that."
 
@@ -7901,7 +7901,7 @@ Mr Ryu did not move for a long moment.
 
 The traffic outside did the thing traffic does when a room has gone quiet.
 
-"What do you want from me," said Mr Ryu.
+"What do you want from me," said Mr Koh.
 
 "Nothing at all."
 
@@ -7909,13 +7909,13 @@ The traffic outside did the thing traffic does when a room has gone quiet.
 
 "Nothing." Georgij stood up. "I am not asking you for a statement, or for a name, or to make a telephone call, or to remember something. There is nothing you have that I need. I came up two flights of stairs to give a man his correct explanation and then to go back down them."
 
-Mr Ryu looked at him with an expression that had not been in the room ten minutes earlier.
+Mr Koh looked at him with an expression that had not been in the room ten minutes earlier.
 
 "Then what am I supposed to do with it."
 
 "Whatever you like. That is not a courtesy, it is the whole of it." Georgij put his chair back where it had been. "If somebody telephones you in a year and invites you to a dinner, you will already know what the dinner is. That is the only thing I have changed this morning, and I have changed it whether either of us wants it or not."
 
-Mr Ryu got up and came round the desk, and at the door he did something Georgij had not planned for, which was to put out his hand.
+Mr Koh got up and came round the desk, and at the door he did something Georgij had not planned for, which was to put out his hand.
 
 "You have taken something off me," he said. "I want that said, because you have been very careful all morning to say the true version of everything else. For five years I have been a man whose business got smaller. From this afternoon I am a man who was used and dropped for asking a polite question, and I do not know yet which of those two I would rather have been."
 
@@ -7925,7 +7925,7 @@ Then he smiled at him.
 
 It was the wide one, the one that goes all the way up and arrives about a quarter of a second late. It is the first time this year he has spent it on somebody who could not do a single thing for him.
 
-Mr Ryu smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
+Mr Koh smiled back before he had decided to, which is what that smile is for, and then looked faintly annoyed with himself, which is also what it is for.
 
 "Go on," he said. "You have got somebody else to go and ruin an afternoon for."
 
@@ -7937,7 +7937,7 @@ Georgij went down the two flights and stood on the street for a moment before he
 
 He wrote the name on the second page when he got back, under the four that were already there, and then he sat for a while with the pen not doing anything.
 
-*Mr Ryu, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
+*Mr Koh, since eleven o'clock this morning. And he is the first one who knows what the asking is for.*
 
 ## Day Two Hundred and Fifty-Five · Monday 15 June
 
@@ -8096,7 +8096,7 @@ She was, he thought later, almost certainly right, and he wrote her reasoning in
 ---
 
 # Book Two · Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -8274,7 +8274,7 @@ On Tuesday, in a room upstairs in this house, he had said out loud that he would
 
 He had said it about a column of names, which is an easy thing to say about a column.
 
-Mr Ryu he had never met.
+Mr Koh he had never met.
 
 Yeom gave him lunch in May and told him the truth about a thing that could have ended a comfortable old age, and did it without being pushed. Georgij had come away liking him, and had said so to Annie in a garden this afternoon, and had been careful with the word.
 
@@ -11899,7 +11899,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 57: Nobody paid
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Eighteen · Monday 17 August
 
@@ -12137,7 +12137,7 @@ It was a page out of Annie's own hand, and it was eleven lines long, and it was 
 
 Underneath, in the same hand and smaller:
 
-*Ryu has telephoned two of them himself. I did not ask him to and he has not told me what he said.*
+*Koh has telephoned two of them himself. I did not ask him to and he has not told me what he said.*
 
 *That is two more than you have done and none of it is yours, and I would like you to sit with that for one evening before you decide what it means.*
 
@@ -12148,7 +12148,7 @@ He went and ate something first.
 ---
 
 # Book Two · Chapter 58: The tenth plate
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -12196,7 +12196,7 @@ Annie was at the desk in the small room and the page from the hall was in front 
 
 "I read it in the hall and I read it again upstairs."
 
-"And then you went to bed at one, which is the third time in eight days." She did not look up. "Mr Ryu telephoned Mr Sohn on the eleventh and Mr Baek Hyun-woo on the thirteenth. He has not told me what he said to either of them and I am not going to ask him."
+"And then you went to bed at one, which is the third time in eight days." She did not look up. "Mr Koh telephoned Mr Sohn on the eleventh and Mr Baek Hyun-woo on the thirteenth. He has not told me what he said to either of them and I am not going to ask him."
 
 "Why not."
 
@@ -12216,7 +12216,7 @@ Georgij stood at the side of her desk and did not sit down on the floor.
 
 "Say the part you have not said."
 
-"Weather does not stop when you want it to." Annie looked at him then. "Every man Ryu telephones is a man who might telephone the wrong person on a Thursday. I have no way of holding any of it and neither have you." She held his eye. "I have known that since the ninth of June and I have said nothing, because you were not ready to hear it."
+"Weather does not stop when you want it to." Annie looked at him then. "Every man Koh telephones is a man who might telephone the wrong person on a Thursday. I have no way of holding any of it and neither have you." She held his eye. "I have known that since the ninth of June and I have said nothing, because you were not ready to hear it."
 
 * * *
 

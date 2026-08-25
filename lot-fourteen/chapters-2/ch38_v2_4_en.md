@@ -1,5 +1,5 @@
 # Chapter 38: Tell him or ask him
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Two Hundred and Fifty-Seven · Wednesday 17 June
 
@@ -322,7 +322,7 @@ He had said it about a column of names, which is an easy thing to say about a co
 
 ---
 
-Mr Ryu he had never met.
+Mr Koh he had never met.
 
 Yeom gave him lunch in May and told him the truth about a thing that could have ended a comfortable old age, and did it without being pushed. Georgij had come away liking him, and had said so to Annie in a garden this afternoon, and had been careful with the word.
 
