@@ -2013,13 +2013,11 @@ Motive leben von Variation, nicht von Wiederholung. Zu jedem steht hier, wo es
 herkommt, wie oft es schon gefallen ist und was beim naechsten Mal anders sein
 muss.
 
-## Wiederkehrende Bilder
-
 - **Die Fernbedienung, die abgelegt wird.** Annie nimmt sie in der ersten Nacht aus der Handtasche und legt sie **innen** neben die Schlüsselschale auf den Steinvorsprung an der Haustür, auf Hüfthöhe, ohne Kommentar. Nicht draußen: sie behält sie, sie benutzt sie nur nie. In siebzehn Jahren hat Georgij so ein Ding nie außerhalb einer Hand gesehen. Später verschwindet sie vom Vorsprung und liegt in ihrem Schreibtisch. Das Bild kehrt auf der Mapo-Brücke wieder.
 - **Elf Zentimeter.** Der Abstand von seiner linken Hand zur offenen Handtasche während der Fahrt. Zwölf vor der letzten Kurve. Er zählt immer.
 - **Die Handtasche.** Bleibt auf der Fahrt offen zwischen ihnen liegen. Inhalt, den er sehen kann: Telefon, Kartenetui, flache Lederrolle mit Druckknopf, Maniküre oder Nähzeug, beides brauchbar. Annie lässt sie beim Aussteigen auf dem Sitz, weil jemand dafür bezahlt wird, sie zu tragen. Georgij nimmt sie mit, benutzt die Schere, wischt sie ab, legt sie zurück und reicht ihm die Tasche mit "Your bag, Mistress".
 - **Marmor.** Sein Gesicht unter Strom.
-- **Los elf.** Der Junge kommt nächsten Monat zurück in den Katalog, zu niedrigerer Taxe.
+- **Los elf.** Stand Band 1, Kapitel 2: der Junge kommt naechsten Monat zurueck in den Katalog, zu niedrigerer Taxe. **Ueberholt, nachgetragen am 25.08.:** Im Novemberkatalog steht er nicht (Kapitel 6), und in Band 2, Kapitel 1 findet Georgij **elf und vierzehn vier Zeilen auseinander** unter *retained and not disclosed*. Annie hat zweimal bezahlt. Offen ausgesprochen in Band 2, Kapitel 29: *"a woman who bought two people on the fourth of October"*. Der Faden laeuft bis Kapitel 53.
 
 ### Die Lächeln
 
@@ -2866,27 +2864,50 @@ alten Zahl im Text.
 achtundsiebzig und in Band 2 zweimal fuenfundsiebzig, und niemand hat es gemerkt,
 weil es keine Stelle gab, an der man nachsieht. Diese Tabelle ist diese Stelle.
 
-**Wie die Geburtstage liegen, und warum.** Das Buch erzaehlt vom 4. Oktober
-(Tag 1) bis zum 30. Juni (Tag 270). **Alle Geburtstage liegen im Juli, August
-oder September** - in der einzigen Strecke, die nicht erzaehlt wird. Damit hat
-jede Figur ueber beide Baende hinweg **genau eine** Altersangabe, und keine Szene
-muss einen Geburtstag bemerken.
+**Wie die Geburtstage lagen, und warum das nicht mehr traegt.** Der Einfall war:
+alle Geburtstage in den Juli, August oder September legen, weil das die einzige
+Strecke war, die nicht erzaehlt wird. Damit hatte jede Figur ueber beide Baende
+**genau eine** Altersangabe.
 
-**Die Grenze, und sie kommt bald:** Wer ueber Tag 270 hinausschreibt, betritt den
-Juli. Ab dort werden Geburtstage erzaehlbar, und diese Tabelle gehoert vor die
-erste Juli-Szene gelesen.
+**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 65 und
+dem **1. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
+erzaehlte Zeit geworden - und drei Altersangaben standen prompt gegen ihren
+eigenen Geburtstag:
+
+| Figur | Alter im Text | Kapitel, Datum | Geburtstag stand auf | waere also |
+|---|---|---|---|---|
+| Mr Yeom | dreiundsechzig | 53 und 55, 4. und 12. August | 15. Juli | vierundsechzig |
+| Chairman Woo | achtundsiebzig, dreimal | 61, 23. August | 19. August | neunundsiebzig |
+| Mrs Sunwoo | einundachtzig | 65, 1. September | 4. Juli | zweiundachtzig |
+
+**Aufgeloest ueber die Geburtstage und nicht ueber den Text**, weil diese drei
+Daten erfunden waren und nie in einem Satz standen - sie liegen jetzt hinter dem
+1. September. Der Text bleibt unangetastet und behaelt recht.
+
+**Und einer ist kein Buchhaltungsposten mehr:** Park Sang-hoons Geburtstag steht
+seit Kapitel 50 **im Buch**. *"It was Monday. It was my birthday. I did not want
+to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
+ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
+*"I am fifty-nine"* - beides stimmt und muss so bleiben.
+
+**Das Fenster ist jetzt der 2. September bis 3. Oktober, zweiunddreissig Tage,
+und es schrumpft mit jedem Kapitel.** Wer ueber Anfang Oktober hinausschreibt,
+hat kein unerzaehltes Fenster mehr, und dann gibt es nur noch eine Moeglichkeit:
+**Alter werden mitgefuehrt statt geparkt**, und diese Tabelle bekommt eine
+Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
+*Geburtstag* als das, was sie immer war - eine Parkposition und keine Figurentatsache.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | 3. August | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9) |
-| **Park Sang-hoon** | 59 | 27. Juli | Kapitel 26: *"since I was fifty-one"*, dazu *"Eight years"* |
+| **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
-| **Chairman Woo Jae-sung** | 78 | 19. August | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
-| **Mrs Sunwoo** | 81 | 4. Juli | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
+| **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
+| **Mrs Sunwoo** | 81 | **29. September** (war 4. Juli) | Kapitel 10 und 23. Kauft seit einundvierzig Jahren in dem Haus |
 | **Nam Byung-hee** | 58 | 21. September | Kapitel 8, 11 (ihr eigener Brief), 19, 20, 21, 22 |
 | **Mr Byun** | 68 | 30. August | Kapitel 22. Register sechsundzwanzig Jahre |
-| **Mr Yeom** | 63 | 15. Juli | Kapitel 23 und 25 |
+| **Mr Yeom** | 63 | **24. September** (war 15. Juli) | Kapitel 23 und 25 |
 | **Mr Ok** | 56 | 2. August | Kapitel 16 |
 | **Mrs Jeon Mi-ja** | 51 | 24. Juli | Kapitel 30; in Kapitel 6 aus Georgijs Blick *"somewhere near fifty"*. Dreiundzwanzig Jahre am Schalter |
 | **Mr Hwang** | 50 | 11. September | Kapitel 21: *"He is about fifty."* Die Untergrenze steht fest, seit er sagt, Mrs Sunwoo kaufe dort, seit er ein Junge war |
@@ -2908,8 +2929,9 @@ erste Juli-Szene gelesen.
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
-gibt, traegt sie mit einem Geburtstag im Fenster Juli bis September ein, **bevor**
-die Zahl in einen Satz kommt. Und wer ein Alter aus einer anderen Zahl ableitet -
+gibt, traegt sie mit einem Geburtstag im Fenster **2. September bis 3. Oktober** ein,
+**bevor** die Zahl in einen Satz kommt - und prueft, ob das Fenster ueberhaupt
+noch existiert. Und wer ein Alter aus einer anderen Zahl ableitet -
 *"since I was twenty-four"*, *"eight years at that table"* - rechnet beide
 Richtungen nach, weil genau dort der Fehler bei Woo entstanden ist: das Alter
 wurde geaendert und die abgeleitete Zahl blieb stehen.
