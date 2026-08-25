@@ -3584,6 +3584,54 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
+- **Band 2, Kapitel 78** *The number* (v1.0) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, ein Versprechen zu brechen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mrs Jeon faengt in Gwangyang an**, und der Text weiss ueber den Tag nichts
+    ausser dem Datum. Georgij ueberlegt um vier, sie anzurufen, und rechnet in
+    unter einer Minute aus, dass der Anruf nur ihn selbst beruhigen wuerde. **Er
+    telefoniert nicht und traegt stattdessen den 23. Oktober darunter ein.**
+  - **DIE NUMMER IST WEG.** Sim probiert es dreimal an einem Abend: einundvierzig
+    Klingelzeichen, dann noch einmal nichts, dann um sechs der Ton fuer eine
+    abgeschaltete Leitung. Fuenfzig Minuten insgesamt.
+  - **Und dann faehrt er heraus, was er nie getan hat**, und telefoniert vorher aus
+    einer Zelle an der Strasse an, damit niemand an einer Tuer etwas entscheiden
+    muss. Er behaelt den Mantel an und bleibt stehen. **Was er will, ist keine
+    Beteiligung:** *"I am not asking to be inside anything and I would refuse it
+    if it were offered. I want to be told whether the thing I have been doing four
+    times a year for four years is over."*
+  - **Annie sagt es ihm ganz**, auch die zweite Haelfte: der letzte Anruf der Welt
+    mit dieser Frau war seiner, und sie war die ganze Zeit drei Tage voraus. Und
+    dann: *"She spent her last one on you because you were the only line out. That
+    is not something to carry badly."*
+  - **Sims eigener Vorwurf an der Tuer** und die Antwort darauf, und es ist Georgij,
+    der sie ohne Rueckversicherung gibt: er hat ihren Namen beide Male
+    zurueckgesagt, am 14. und am 28., vor dem Aufhaengen, und wusste es nicht.
+    *"Then it was answered."*
+  - **DAS DRITTE DING HAT EINEN NAMEN: Chairman Woo**, und es ist **die
+    Hartflaeche auf der Ostseite**, elftausend Quadratmeter entwaessertes Gelaende
+    mit Tor. Im April versprochen, ohne Papier, auf Abruf, fuer den Fruehling.
+    *"He said that was the best kind."*
+  - **UND SIE BENENNT, WAS SIE DAMIT TUT.** Georgij haelt ihr ihren eigenen Satz
+    vom 18. September vor (*"A promise you keep until it is expensive is not
+    one"*), und sie nimmt nichts davon zurueck: *"I am going to break a promise to
+    a man of seventy-eight because it has got expensive... That is what I am.
+    There is no second half to that sentence."* **Er bietet ihr keine an.**
+  - **Der Brief als Ausweg wird ausdruecklich auf den Tisch gelegt und verworfen**,
+    und der Grund ist Kapitel 76: *"I sent four letters a fortnight ago and one of
+    them came back with six words on it, and I am not going to learn that lesson
+    twice at somebody else's expense."*
+  - **Montag, zehn Uhr, bei ihm, und Georgij ist im Raum.** Zwei Gruende, und sie
+    sagt den zweiten laut und einmal: *"I do not know what he will say when I take
+    it back, and I have never in my life needed a second person in a room for that
+    reason."*
+  - Der Bodenwert ist **drei Zahlen**, und er legt die dritte nach oben: was das
+    Gelaende wert ist, was **dieses** Gelaende wert ist, und was es einem Mann wert
+    ist, der binnen drei Wochen verkaufen muss und nicht sagen kann, warum.
+  - **OFFEN FUER DIE NAECHSTE SITZUNG:** Kapitel 79 ist Annie und Woo, mit ihrem
+    Vater zwischen ihnen. **Ob sie ihm sagt, dass sie es seit dem 18. September
+    weiss, ist noch nicht entschieden.**
+
 
 
 ---

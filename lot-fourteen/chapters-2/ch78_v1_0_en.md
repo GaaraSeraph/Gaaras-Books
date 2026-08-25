@@ -1,0 +1,184 @@
+# Chapter 78: The number
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Sixty-Three · Thursday 1 October
+
+Mrs Jeon started at Gwangyang on the Thursday.
+
+Nobody in that house knew anything about the day except the date, which she had given him on the eleventh of September in a flat in Incheon with the tape still over the name on the bell. She will have got up early. She will have been at a desk that somebody had cleared for her by somebody who did not know what to clear off it. She is fifty-one and it is her first new desk in twenty-three years.
+
+Georgij thought about telephoning her at about four in the afternoon.
+
+He worked out in under a minute what the call would be. It would be a call to find out whether she was all right. A woman who has been in a room since eight is not helped by a man four hundred kilometres away wanting to know that, and the only person it would settle is the one making it.
+
+He wrote the date in the book and put the twenty-third of October under it and did not telephone.
+
+* * *
+
+Sim telephoned the house in Gangwon-do at ten past five, three days after he had last done it and on no schedule that anybody had ever agreed to.
+
+The number rang.
+
+It rang for a long time and nobody answered it. He stood in the box and let it go on ringing, because a man who puts the receiver down at the eighth ring has decided something.
+
+He counted forty-one rings and then put it down.
+
+He telephoned again at twenty past. It rang again and nobody answered.
+
+At six o'clock he tried a third time and got the tone that means the line has been disconnected, and that was the whole of it, and it had taken fifty minutes.
+
+* * *
+
+He came to the house.
+
+He has never done that, and he telephoned first from a box on the road to say that he was going to, so that nobody in the house would have to decide anything at a door.
+
+Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask why. He came up the drive at twenty to eight in a coat that has been very good for about eleven years.
+
+He stood in the hall and would not take it off.
+
+"Forty-one rings, then nothing, then the tone," he said. "I am not going to dress any of it up. The number is gone."
+
+"Sit down," said Annie.
+
+"I would rather stand, and I know what that looks like."
+
+* * *
+
+She did not make him do it and she did not say anything about it afterwards.
+
+"Say what you want," she said, "because you have come a long way at your own expense to deliver forty seconds of information and you could have telephoned it."
+
+Sim straightened his cuff, which he does.
+
+"I want somebody in this house to tell me what happens now," he said. "Not what you are going to do. I am not asking to be inside anything and I would refuse it if it were offered. I want to be told whether the thing I have been doing four times a year for four years is over. If it is over, then a woman has been out of reach since Wednesday, and I would like to know that this evening rather than work it out over a fortnight."
+
+Annie looked at him for slightly longer than she needed to.
+
+"It is over," she said. "There is no version in which that number comes back and there is no second number. Whoever is running that wind-up cut the line on the day they said they would and they did it because a line is a thing that costs eleven thousand won a month and produces nothing."
+
+"Thank you."
+
+"You are not going to like the rest of it and I am going to say it anyway, because you came out here for the whole thing and not for the first half." She did not soften it. "The last conversation anybody outside that building will have with her was yours, on Monday, and she used it to give you a survey and a room, and she was three days ahead of us the entire time."
+
+Sim did not move for a moment.
+
+"I would have telephoned on the Tuesday if I had known," he said.
+
+"You did not know. She did." Annie did not blink. "She spent her last one on you because you were the only line out. That is not something to carry badly."
+
+* * *
+
+He was in the hall for about eleven minutes altogether.
+
+At the door he did the thing he has done at every door in thirty years. He asked Mr Ku about the road back and whether the works at Toegyewon were finished. Mr Ku said they were not. Sim said that he had thought so and that it was a shame, and the two of them talked about it for a minute and a half.
+
+Then he stopped on the step with one hand on the frame.
+
+"There is a thing I have been carrying since Monday and I am going to put it down here rather than take it home," he said. "On the fourteenth she said thank you and I read it as a goodbye. On the twenty-eighth she said it again and I stopped being able to. And now the line is cut, and if the second one was a goodbye then I have had the whole of it and did not answer it properly."
+
+Mr Ku had the car door open on the drive and had been standing beside it for four minutes without making any noise about it.
+
+Georgij was standing behind Annie in the hall and did not look at her before he answered, which is a thing he would have done in March.
+
+"You said her name back to her twice," he said. "On the fourteenth and on the twenty-eighth, at the end of the call, before you rang off. I have your own account of both and you did it without noticing."
+
+Sim stood on the step for a moment.
+
+"I did," he said.
+
+"Then it was answered."
+
+* * *
+
+## Day Three Hundred and Sixty-Four · Friday 2 October
+
+She said it at nine in the morning in the small room and she said it standing up, which is how she does the ones she has decided about overnight.
+
+"Chairman Woo," said Annie.
+
+Georgij put the folder down.
+
+"The east side."
+
+"The hard standing on the east side. Eleven thousand square metres of drained open ground with a gate, which is the only thing on this river he has wanted from me in four years, and which he has never once asked for twice." She had both hands flat on the desk. "I told him in April that it was his when he wanted it and that there would be no paper until there needed to be. He said that was the best kind and that he would want it in the spring."
+
+"And now it goes on the market."
+
+"Now it goes to whoever pays first, and it pays for about a fifth of what I have to find, and there is no version of this in which he is not told to his face."
+
+* * *
+
+Georgij stood in the middle of the room and did the arithmetic he did not want to do.
+
+"On the eighteenth of September you told me that a promise you keep until it is expensive is not one," he said.
+
+"I did."
+
+"And this one has become expensive."
+
+"Yes."
+
+"Then say the whole of it and do not let me say it for you, because I would make it kinder and you would let me."
+
+Annie did not take any time over it.
+
+"I am going to break a promise to a man of seventy-eight because it has got expensive," she said, "and I have spent this month telling you that this is the one thing a person does not do, and I was right when I said it and I am not going to unsay it. That is what I am. There is no second half to that sentence."
+
+Georgij did not offer her one.
+
+* * *
+
+"There is a version where you do not go," he said. "You send a letter and it is correct and he is entitled to be told in writing and nobody could fault it."
+
+"There is."
+
+"I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
+
+"That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. It is a thing said in a room. I sent four letters a fortnight ago and one of them came back with six words on it, and I am not going to learn that lesson twice at somebody else's expense."
+
+"Then when."
+
+"Monday. He is seventy-eight and he does not do afternoons well, so it will be at ten, and I am going to him and he is not coming here." She looked at the window. "And you are going to be in the room."
+
+* * *
+
+Georgij stood very still.
+
+"Say why," he said, "because you have kept me off every road since the eighteenth."
+
+"Two reasons and you will only like the first one." Annie did not look away from the window. "The first is that he has known you since October and he came across a city on a Sunday in August to say something to you and not to me. If you are not in that room, he will spend the whole of it working out why."
+
+"And the second."
+
+"The second is that I do not know what he will say when I take it back, and I have never in my life needed a second person in a room for that reason." She turned round. "I would like it noted that I have said that out loud once and I am not going to say it again."
+
+"It is noted, Mistress."
+
+"Then go and find out what eleven thousand metres of drained ground with a gate is worth this month, and do not be gentle about the number, and have it on my desk by six."
+
+* * *
+
+It took him until half past four and most of it was telephone work, and he did it from the small office and not from a car, because he is off the road.
+
+The number is not one number. It is three, and they are a long way apart, and the distance between them is the whole of the problem.
+
+There is what the ground is worth to somebody who wants ground. There is what it is worth to somebody who wants that ground, on that river, with that gate, in a month when two of the four operators on the reach are short of yard space. And there is what it is worth to a man who has to sell inside three weeks and cannot say why.
+
+He wrote all three on one sheet with the dates he had got them from, and he put the third one at the top, because that is the one that is true.
+
+He put it on the blotter at ten to six and did not stay in the room while she read it.
+
+She came out at about seven and found him at the far end of the passage doing nothing.
+
+"The third one," she said.
+
+"Yes, Mistress."
+
+"You put it at the top."
+
+"It is the one that is true. The other two are what the ground is worth and neither of them is available to you."
+
+Annie stood in the passage with the sheet in her hand.
+
+"You have got better at that than I would like," she said, and went upstairs, and that was the end of the week.

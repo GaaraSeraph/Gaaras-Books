@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 261.874 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 263.041 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -259,9 +259,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Kwon](#mr-kwon)
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Hong](#mr-hong)
+  - [Mr Ku](#mr-ku)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
-  - [Mr Ku](#mr-ku)
   - [Mrs Bae](#mrs-bae)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Choi Dae-ho](#choi-dae-ho)
@@ -6404,6 +6404,54 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim kuendigt ungefragt den naechsten Anruf fuer **Donnerstag** an, um
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
+
+- **Band 2, Kapitel 78** *The number* (v1.0) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, ein Versprechen zu brechen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mrs Jeon faengt in Gwangyang an**, und der Text weiss ueber den Tag nichts
+    ausser dem Datum. Georgij ueberlegt um vier, sie anzurufen, und rechnet in
+    unter einer Minute aus, dass der Anruf nur ihn selbst beruhigen wuerde. **Er
+    telefoniert nicht und traegt stattdessen den 23. Oktober darunter ein.**
+  - **DIE NUMMER IST WEG.** Sim probiert es dreimal an einem Abend: einundvierzig
+    Klingelzeichen, dann noch einmal nichts, dann um sechs der Ton fuer eine
+    abgeschaltete Leitung. Fuenfzig Minuten insgesamt.
+  - **Und dann faehrt er heraus, was er nie getan hat**, und telefoniert vorher aus
+    einer Zelle an der Strasse an, damit niemand an einer Tuer etwas entscheiden
+    muss. Er behaelt den Mantel an und bleibt stehen. **Was er will, ist keine
+    Beteiligung:** *"I am not asking to be inside anything and I would refuse it
+    if it were offered. I want to be told whether the thing I have been doing four
+    times a year for four years is over."*
+  - **Annie sagt es ihm ganz**, auch die zweite Haelfte: der letzte Anruf der Welt
+    mit dieser Frau war seiner, und sie war die ganze Zeit drei Tage voraus. Und
+    dann: *"She spent her last one on you because you were the only line out. That
+    is not something to carry badly."*
+  - **Sims eigener Vorwurf an der Tuer** und die Antwort darauf, und es ist Georgij,
+    der sie ohne Rueckversicherung gibt: er hat ihren Namen beide Male
+    zurueckgesagt, am 14. und am 28., vor dem Aufhaengen, und wusste es nicht.
+    *"Then it was answered."*
+  - **DAS DRITTE DING HAT EINEN NAMEN: Chairman Woo**, und es ist **die
+    Hartflaeche auf der Ostseite**, elftausend Quadratmeter entwaessertes Gelaende
+    mit Tor. Im April versprochen, ohne Papier, auf Abruf, fuer den Fruehling.
+    *"He said that was the best kind."*
+  - **UND SIE BENENNT, WAS SIE DAMIT TUT.** Georgij haelt ihr ihren eigenen Satz
+    vom 18. September vor (*"A promise you keep until it is expensive is not
+    one"*), und sie nimmt nichts davon zurueck: *"I am going to break a promise to
+    a man of seventy-eight because it has got expensive... That is what I am.
+    There is no second half to that sentence."* **Er bietet ihr keine an.**
+  - **Der Brief als Ausweg wird ausdruecklich auf den Tisch gelegt und verworfen**,
+    und der Grund ist Kapitel 76: *"I sent four letters a fortnight ago and one of
+    them came back with six words on it, and I am not going to learn that lesson
+    twice at somebody else's expense."*
+  - **Montag, zehn Uhr, bei ihm, und Georgij ist im Raum.** Zwei Gruende, und sie
+    sagt den zweiten laut und einmal: *"I do not know what he will say when I take
+    it back, and I have never in my life needed a second person in a room for that
+    reason."*
+  - Der Bodenwert ist **drei Zahlen**, und er legt die dritte nach oben: was das
+    Gelaende wert ist, was **dieses** Gelaende wert ist, und was es einem Mann wert
+    ist, der binnen drei Wochen verkaufen muss und nicht sagen kann, warum.
+  - **OFFEN FUER DIE NAECHSTE SITZUNG:** Kapitel 79 ist Annie und Woo, mit ihrem
+    Vater zwischen ihnen. **Ob sie ihm sagt, dass sie es seit dem 18. September
+    weiss, ist noch nicht entschieden.**
 
 
 
@@ -15039,8 +15087,10 @@ wird.**
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an, ohne dass ihr jemand ein Datum nennen kann · -
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
 - [BEZAHLT] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · B2 76, am Montag, in vierzig Sekunden auf dem Weg zum Wagen: der Kuehlhausanteil in Gunsan und der Grund hinter der Werkstatt. **Das dritte nennt sie nicht**
-- [OFFEN] **B2 77** Annie an Georgij · gesagt Tag 360 · faellig Tag 364 · "I will tell you on Friday who he is." - der Mann, dem das dritte Ding versprochen ist · -
-- [OFFEN] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · -
+- [BEZAHLT] **B2 77** Annie an Georgij · gesagt Tag 360 · faellig Tag 364 · "I will tell you on Friday who he is." · B2 78, am Freitag um neun, im Stehen: **Chairman Woo**, und es ist die Hartflaeche auf der Ostseite
+- [OFFEN] **B2 78** Annie an Chairman Woo · gesagt Tag 209 (April) · faellig bei dem Tag, an dem er sie haben will · "it was his when he wanted it and there would be no paper until there needed to be" · **Wird am Tag 367 gebrochen.** Steht hier, damit der Bruch einen Posten hat und nicht nur eine Szene
+- [OFFEN] **B2 78** Annie an Georgij · gesagt Tag 364 · faellig Tag 367 · "Monday... at ten, and I am going to him... And you are going to be in the room." · -
+- [BEZAHLT] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · B2 78, dreimal an einem Abend: einundvierzig Klingelzeichen, dann nichts, dann der Ton. **Die Nummer ist weg**
 - [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 410 · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · -
 - [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · -
@@ -15048,7 +15098,7 @@ wird.**
 - [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
 - [BEZAHLT] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." · B2 77, am Tag, zehn nach fuenf, und er kuendigt im selben Gespraech den naechsten fuer Donnerstag an
 - [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · -
+- [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · B2 78, am Donnerstag. **Niemand in dem Haus weiss etwas ueber den Tag ausser dem Datum**, und Georgij telefoniert absichtlich nicht
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · -
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig bei dem Tag, an dem er den Namen hat · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · -
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
@@ -16797,15 +16847,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 835 | 89 (b1ch01-b2ch77) | 1 | 74 |
+| Annie | 845 | 90 (b1ch01-b2ch78) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 233 | 39 (b1ch07-b2ch76) | 1 | 74 |
+| Chairman Woo | 234 | 40 (b1ch07-b2ch78) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
-| Sim | 128 | 18 (b2ch31-b2ch77) | 2 | 53 |
+| Sim | 133 | 19 (b2ch31-b2ch78) | 2 | 53 |
 | Mrs Seo | 97 | 45 (b1ch03-b2ch76) | 1 | 74 |
 | Mr Ahn | 85 | 8 (b2ch56-b2ch77) | 3 | 53 |
-| Mrs Jeon | 80 | 18 (b2ch06-b2ch71) | 2 | 59 |
+| Mrs Jeon | 81 | 19 (b2ch06-b2ch78) | 2 | 59 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
@@ -16813,9 +16863,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 45 | 7 (b2ch14-b2ch74) | 4 | 53 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
+| Mr Ku | 34 | 23 (b1ch05-b2ch78) | 3 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Mr Ku | 31 | 22 (b1ch05-b2ch76) | 3 | 60 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Choi Dae-ho | 28 | 17 (b1ch07-b2ch75) | 2 | 61 |
@@ -16848,7 +16898,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-835 Nennungen in 89 Kapiteln.
+845 Nennungen in 90 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17687,6 +17737,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch76:112 | Annie looked at him for slightly longer than she needed to. |
 | 59 | b2ch76:160 | "I am not working," said Annie. "You are not to make that into a task." |
 | 3 | b2ch77:230 | He took it up at twenty past nine and Annie read the four lines twice and put the sheet .. |
+| 6 | b2ch78:36 | Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask.. |
+| 6 | b2ch78:42 | "Sit down," said Annie. |
+| 6 | b2ch78:56 | Annie looked at him for slightly longer than she needed to. |
+| 6 | b2ch78:68 | "You did not know. She did." Annie did not blink. "She spent her last one on you because.. |
+| 6 | b2ch78:82 | Georgij was standing behind Annie in the hall and did not look at her before he answered.. |
+| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
+| 7 | b2ch78:124 | Annie did not take any time over it. |
+| 7 | b2ch78:138 | "That is the second time this month you have done that to me and I want it to go on happ.. |
+| 7 | b2ch78:150 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
+| 7 | b2ch78:182 | Annie stood in the passage with the sheet in her hand. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -17922,6 +17982,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:490` (Tag 53) - four
 - `b2ch76:20` (Tag 56) - fifty-four, four, nine, one, six
 - `b2ch77:230` (Tag 3) - four, nine, twenty
+- `b2ch78:36` (Tag 6) - eight, eleven, twenty
+- `b2ch78:68` (Tag 6) - one
+- `b2ch78:138` (Tag 7) - four, one, six
+- `b2ch78:150` (Tag 7) - one, two
 
 ---
 
@@ -18338,7 +18402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-233 Nennungen in 39 Kapiteln.
+234 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -18575,6 +18639,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
 | 56 | b2ch76:28 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
 | 59 | b2ch76:54 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
+| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -19202,7 +19267,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-128 Nennungen in 18 Kapiteln.
+133 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -19334,6 +19399,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch77:152 | "That is a survey," said Sim. "You do not put a man in a roof space with a torch for hal.. |
 | 3 | b2ch77:158 | "There is a last thing and it is not information," said Sim. |
 | 3 | b2ch77:170 | Sim did not answer straight away. |
+| 6 | b2ch78:18 | Sim telephoned the house in Gangwon-do at ten past five, three days after he had last do.. |
+| 6 | b2ch78:52 | Sim straightened his cuff, which he does. |
+| 6 | b2ch78:64 | Sim did not move for a moment. |
+| 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
+| 6 | b2ch78:86 | Sim stood on the step for a moment. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -19405,6 +19475,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:138` (Tag 3) - eleven, one
 - `b2ch77:148` (Tag 3) - four, twenty
 - `b2ch77:152` (Tag 3) - one
+- `b2ch78:18` (Tag 6) - five, ten, three
+- `b2ch78:74` (Tag 6) - thirty, two
 
 ---
 
@@ -19707,7 +19779,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-80 Nennungen in 18 Kapiteln.
+81 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -19791,6 +19863,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch71:642 | Mrs Jeon sat down at her own table. |
 | 46 | b2ch71:662 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
 | 46 | b2ch71:694 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
+| 6 | b2ch78:6 | Mrs Jeon started at Gwangyang on the Thursday. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -20450,6 +20523,72 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Ku
+
+34 Nennungen in 23 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
+| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
+| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
+| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
+| 55 | b1ch24:348 | Mr Ku had the heater on. |
+| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone. Use the one in the passage." A short .. |
+| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
+| - | b1ch32:254 | Mr Ku had the car turned round already. |
+| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
+| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
+| 53 | b2ch02:116 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
+| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
+| 5 | b2ch06:176 | Mr Ku had the car on the far side of the street and did not ask. |
+| 9 | b2ch09:264 | "You have never had anything to sign with. It has never once been the problem." She put .. |
+| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
+| 3 | b2ch10:220 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
+| 4 | b2ch14:212 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
+| 4 | b2ch14:216 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
+| 4 | b2ch14:230 | "No," said Mr Ku. |
+| 11 | b2ch20:330 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
+| 38 | b2ch26:226 | He wrote one line in the notebook before Mr Ku started it. |
+| 39 | b2ch28:280 | Mr Ku had the car by the wall. |
+| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
+| 41 | b2ch31:110 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
+| 41 | b2ch31:344 | Mr Ku had the car at the end of the street with the engine off and the window down. |
+| 41 | b2ch31:354 | Mr Ku looked at his empty hands in the mirror and pulled out. |
+| 51 | b2ch36:190 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
+| 3 | b2ch51:114 | "Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to pro.. |
+| 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
+| 59 | b2ch76:98 | Out in the drive Mr Ku moved the car about four metres for no reason anybody could see a.. |
+| 6 | b2ch78:36 | Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask.. |
+| 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
+| 6 | b2ch78:80 | Mr Ku had the car door open on the drive and had been standing beside it for four minute.. |
+
+### Zahlen in der Naehe von Mr Ku
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch07:8` (Tag 22) - three
+- `b1ch11:6` (Tag 22) - seventeen
+- `b1ch27:100` (Tag 7) - one
+- `b1ch32:6` (Tag ?) - fifty, one
+- `b2ch02:10` (Tag 53) - two
+- `b2ch09:264` (Tag 9) - eighty-one
+- `b2ch10:22` (Tag 3) - eighty-one
+- `b2ch10:220` (Tag 3) - fifty-five
+- `b2ch14:212` (Tag 4) - one
+- `b2ch14:216` (Tag 4) - forty
+- `b2ch20:330` (Tag 11) - four, one
+- `b2ch26:226` (Tag 38) - one
+- `b2ch31:110` (Tag 41) - two
+- `b2ch51:114` (Tag 3) - eleven, one
+- `b2ch69:26` (Tag 44) - eight, one, ten
+- `b2ch76:98` (Tag 59) - four
+- `b2ch78:36` (Tag 6) - eight, eleven, twenty
+- `b2ch78:74` (Tag 6) - thirty, two
+- `b2ch78:80` (Tag 6) - four
+
+---
+
 ### Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -20558,66 +20697,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:22` (Tag ?) - eleven
 - `b1ch32:160` (Tag ?) - one, six, twenty-nine
 - `b1ch32:242` (Tag ?) - two
-
----
-
-### Mr Ku
-
-31 Nennungen in 22 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 22 | b1ch07:8 | Three weeks ago he had been on the other side of it. In the back of a boxy black car wit.. |
-| 22 | b1ch11:6 | The car came round at seventeen minutes past midnight and Mr Ku had the heater on alread.. |
-| 55 | b1ch23:194 | The car stayed where it was with its lights on, and Mr Ku stayed by the front wing, and .. |
-| 55 | b1ch24:6 | Below them the river went on going east, and the car stood on the bridge with its lights.. |
-| 55 | b1ch24:348 | Mr Ku had the heater on. |
-| 7 | b1ch27:100 | "Take Mr Ku on Thursday. Do not take my telephone. Use the one in the passage." A short .. |
-| - | b1ch32:6 | Mr Ku had the car at half past one and it was his week again, and the drive took fifty m.. |
-| - | b1ch32:254 | Mr Ku had the car turned round already. |
-| 53 | b2ch02:6 | Mr Ku drove him out to Gimpo on the Wednesday morning and did not ask what for. |
-| 53 | b2ch02:10 | The two drivers used to go week and week about. That has stopped, without anybody saying.. |
-| 53 | b2ch02:116 | Mr Ku had the engine on before Georgij reached the car, because it was cold and because .. |
-| 60 | b2ch04:26 | Mr Ku drove him and did not ask, again. |
-| 5 | b2ch06:176 | Mr Ku had the car on the far side of the street and did not ask. |
-| 9 | b2ch09:264 | "You have never had anything to sign with. It has never once been the problem." She put .. |
-| 3 | b2ch10:22 | Mr Ku parked where the gate could see the car, on the gravel, at an angle, with the engi.. |
-| 3 | b2ch10:220 | Mr Ku had the car where he had left it and the engine off, and had been sitting in it fo.. |
-| 4 | b2ch14:212 | He got in the car and Mr Ku pulled out onto a road with a fuel depot on one side of it, .. |
-| 4 | b2ch14:216 | Then Mr Ku said something on the expressway, about forty minutes out, which he has not d.. |
-| 4 | b2ch14:230 | "No," said Mr Ku. |
-| 11 | b2ch20:330 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
-| 38 | b2ch26:226 | He wrote one line in the notebook before Mr Ku started it. |
-| 39 | b2ch28:280 | Mr Ku had the car by the wall. |
-| 40 | b2ch29:12 | He could have come in the car. Mr Ku offered twice and did not press it the second time,.. |
-| 41 | b2ch31:110 | Mr Ku put him down two streets away without being asked to, which is Mr Ku having listen.. |
-| 41 | b2ch31:344 | Mr Ku had the car at the end of the street with the engine off and the window down. |
-| 41 | b2ch31:354 | Mr Ku looked at his empty hands in the mirror and pulled out. |
-| 51 | b2ch36:190 | He found Mr Ku with the car under the awning, out of the worst of it. He got in without .. |
-| 3 | b2ch51:114 | "Mr Ku takes you and Mr Ku stays outside for the whole of it, and he is not there to pro.. |
-| 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
-| 59 | b2ch76:98 | Out in the drive Mr Ku moved the car about four metres for no reason anybody could see a.. |
-
-### Zahlen in der Naehe von Mr Ku
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch07:8` (Tag 22) - three
-- `b1ch11:6` (Tag 22) - seventeen
-- `b1ch27:100` (Tag 7) - one
-- `b1ch32:6` (Tag ?) - fifty, one
-- `b2ch02:10` (Tag 53) - two
-- `b2ch09:264` (Tag 9) - eighty-one
-- `b2ch10:22` (Tag 3) - eighty-one
-- `b2ch10:220` (Tag 3) - fifty-five
-- `b2ch14:212` (Tag 4) - one
-- `b2ch14:216` (Tag 4) - forty
-- `b2ch20:330` (Tag 11) - four, one
-- `b2ch26:226` (Tag 38) - one
-- `b2ch31:110` (Tag 41) - two
-- `b2ch51:114` (Tag 3) - eleven, one
-- `b2ch69:26` (Tag 44) - eight, one, ten
-- `b2ch76:98` (Tag 59) - four
 
 ---
 
