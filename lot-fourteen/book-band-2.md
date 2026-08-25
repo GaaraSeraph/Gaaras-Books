@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 70 Kapitel, 172.120 Woerter.
+Book Two, 70 Kapitel, 172.124 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.7 | 2.281 |
 | 02 | v1.4 | 2.048 |
 | 03 | v1.3 | 2.016 |
-| 04 | v1.8 | 2.730 |
+| 04 | v1.9 | 2.734 |
 | 05 | v1.9 | 2.833 |
 | 06 | v1.3 | 2.408 |
 | 07 | v1.5 | 2.305 |
@@ -640,7 +640,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -704,7 +704,7 @@ He came over himself, which was the whole reason it had to be a room and not a t
 
 "Chairman."
 
-"I have thought about it since December and I have not moved off it, and I am not going to." He had a paper cup of something he was not drinking. "I have moved up. Say a number."
+"Mr Georgij. I have thought about it since December and I have not moved off it, and I am not going to." He had a paper cup of something he was not drinking. "I have moved up. Say a number."
 
 Georgij put his hands behind his back.
 
@@ -844,7 +844,7 @@ Sang-hoon had one more thing at the car door, and he said it as though it had on
 
 "Chairman."
 
-"I am telling you where I am." He had the door open and did not get in yet. "Four or five of these a year, until I am the one in the room. You will not have to write to anybody. You will not have to ask a man for a favour or stand in an office and be looked at. You come and stand in a corridor, and I will come over, and it will cost you nothing to find out whether I am still saying this."
+"Mr Georgij." He had the door open and did not get in yet. "I am telling you where I am. Four or five of these a year, until I am the one in the room. You will not have to write to anybody. You will not have to ask a man for a favour or stand in an office and be looked at. You come and stand in a corridor, and I will come over, and it will cost you nothing to find out whether I am still saying this."
 
 "Why?"
 
