@@ -990,20 +990,36 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 eine Zeile hier stehen laesst und das Datum ueberschreitet, hat ein Versprechen
 gebrochen, das im Text steht.
 
+**Abgerechnet am 25.08., Band 2 steht bei Kapitel 57, Tag 318, dem 17. August.**
+Fuenf Zeilen sind bezahlt und unten gestrichen. **Drei sind offen und
+ueberfaellig**, und zwei davon haben ein Datum aus dem April:
+
+1. **Annies zweite Bedingung: ob es ihm gefallen hat.** Zugesagt am 3. April
+   (Kapitel 12), faellig, sobald die Sache erledigt ist - erledigt ist sie seit
+   dem 23. April. Am 9. Juni, in Kapitel 36, **verspricht er es noch einmal**,
+   woertlich, statt es einzuloesen. Ein zweites Versprechen ist keine Zahlung.
+2. **Alle fuenf Firmen in Annies Eigentum.** Woos Papier haben sie Ende April
+   gezeichnet, aber **die fuenf Verkaeufe an sie stehen nirgends im Text.** Die
+   Spur bricht nach Kapitel 24 ab; seither sind dreiunddreissig Kapitel
+   vergangen. Genau das, wovor die Zeile selbst warnt: *als Absicht verdunstet.*
+3. **"You will in about a month."** Faellig Anfang April, gesagt am 11. Maerz.
+   Der Band steht im August, und der Text hat es nie aufgeloest.
+
 **Stand nach der Neufassung von Kapitel 9 bis 11 am 23.08.** Zwei alte Zeilen
 sind ersatzlos entfallen, weil die Kapitel, die sie gesetzt haben, nicht mehr
 existieren: Hwangs "in etwa zehn Tagen" und die auf den 31. Maerz vertagte
 Tuer in der Klausel. **Wer sie irgendwo zitiert findet, zitiert eine geloeschte
 Fassung.**
 
-- **Nam Byung-hee, vollstaendig, in drei bis vier Wochen. Zugesagt am 3. April,
+- ~~**Nam Byung-hee, vollstaendig, in drei bis vier Wochen.**~~ **BEZAHLT am
+  23. April, Kapitel 15: vier dafuer, eine dagegen, Cho enthaelt sich.** Zugesagt am 3. April,
   Band 2, Kapitel 12.** *"I want everything she has, and I want it done by
   people who are entitled to take it from her, and I want her to be somebody
   nobody in that trade will read a letter from ever again."* **Der Deckel vom
   11. Maerz ist dafuer aufgehoben** - er nennt Preise nicht mehr vorher und
   liefert alles hinterher in einem Stueck.
 
-  **Annies zwei Bedingungen sind Schulden wie jede andere Zeile hier.** Erstens:
+  **Die Tat ist bezahlt, die zwei Bedingungen sind es nicht.** **Annies zwei Bedingungen sind Schulden wie jede andere Zeile hier.** Erstens:
   **kein unwahres Wort**, auch nicht am Ende, wenn Nam fragt warum. Zweitens:
   **er kommt zurueck und sagt, ob es ihm gefallen hat, und sagt die Wahrheit
   darueber.** Die zweite ist die, die eingeloest werden muss und die man am
@@ -1013,7 +1029,8 @@ Fassung.**
   going to become that"*, und wenn er merkt, dass er es wird, **hoert er auf,
   ohne zu warten, dass sie es bemerkt.**
 
-- **Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies Eigentum.**
+- **UEBERFAELLIG. Alle fuenf uebrigen Firmen der Spur, vollstaendig, in Annies
+  Eigentum.** Steht seit Kapitel 24 nicht mehr im Text.
   Von Georgij selbst angeboten und nicht von ihr verlangt. Ohne das waere es
   ihr Monat fuer seine Gefuehle, und er sagt das auch so.
 
@@ -1032,19 +1049,23 @@ Fassung.**
   **Muss im Text tatsaechlich stattfinden.** Fuenf Verkaeufe, fuenf Nachmittage,
   und die Zeile darf nicht als Absicht verdunsten.
 
-- **Chairman Woos sieben Jahre.** Zugesagt am 9. April, dasselbe Papier wie die
+- ~~**Chairman Woos sieben Jahre.**~~ **BEZAHLT, Kapitel 20:** *"Kwon signed on
+  the twenty-seventh. The other four sign Chairman Woo's paper in the first week
+  of May, seven years, the same document as the anchor cargo."* Zugesagt am 9. April, dasselbe Papier wie die
   Ankerladung, gezeichnet vom selben Anwalt. **Muss im Text tatsaechlich
   gezeichnet werden** und darf nicht als Absichtserklaerung verdunsten. Und:
   Georgij hat die Schuld ausdruecklich **nicht** getilgt - *"Then you still have
   the three hours."* Sie steht weiter offen und ist damit weiter verfuegbar.
 
-- **Jang, drei Tage ab dem 3. April.** Keine harten Maenner - **Fahrer.** Wer
+- ~~**Jang, drei Tage ab dem 3. April.**~~ **BEZAHLT, Kapitel 13:** *"Jang came on
+  the Wednesday, two days early, with a folder."* Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
   Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
   I have noticed that, and I would like it to go on."*
 
-- **"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL, Band 2,
-  Kapitel 9.** Georgij sagt es zweimal, am 20. Maerz und noch einmal am 1. April,
+- ~~**"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL.**~~ **BEZAHLT,
+  Kapitel 16, und zehn Tage vor der Frist:** *"The house on the river stopped
+  taking new consignments on the twentieth of April."** Band 2, Kapitel 9.** Georgij sagt es zweimal, am 20. Maerz und noch einmal am 1. April,
   weil Annie ausdruecklich darum bittet, ihn ein zweites Mal daran zu binden.
   **Das ist das erste ausgesprochene Ziel des ganzen Bandes** und es ist eine
   Frist, kein Vorsatz.
@@ -1055,7 +1076,8 @@ Fassung.**
   vierten Tag. Der Verlauf muss im Text vorkommen und darf nicht als erledigt
   vorausgesetzt werden.
 
-- **"You will in about a month." - FAELLIG ANFANG APRIL, Band 2, Kapitel 5**
+- **UEBERFAELLIG. "You will in about a month." - FAELLIG ANFANG APRIL, Band 2,
+  Kapitel 5**
   (Tag 159, 11. Maerz). Annie: *"I am not giving you this because you have earned
   it this afternoon. Some of this afternoon was very expensive."* - *"I know what
   it cost."* - **"You do not yet. You will in about a month."**
@@ -1068,7 +1090,9 @@ Fassung.**
   arbeitet, und er ist der Einzige, der es hat. **Regel dazu: wenn Annie es
   sagt, weiss sie es. Sie darf sich irren, aber sie darf nicht geraten haben.**
 
-- **Nams Antwort auf seinen Brief.** Kapitel 11 sagt, sie habe weder in der
+- ~~**Nams Antwort auf seinen Brief.**~~ **BEZAHLT im selben Kapitel:** *"By the
+  time she did, the house on the river had stopped taking new consignments, and it
+  was not to Georgij."* Kapitel 11 sagt, sie habe weder in der
   Woche noch in der darauf geantwortet, **und dass bis dahin das Haus am Fluss
   keine neuen Einlieferungen mehr annahm.** Beides muss eingeloest werden: die
   Antwort selbst, und der Zustand des Hauses zu dem Zeitpunkt.

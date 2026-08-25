@@ -23,7 +23,7 @@ Annie nimmt den Satz im Wagen weder an noch ab. Sie kontert nur, sie habe nicht 
 
 Annies Gegenleistung ist keine Entschuldigung, sondern Bezahlung in der geforderten Währung: Sie sagt ihm, wofür er da ist, statt ihn es über ein Jahr herausfinden zu lassen wie die letzten vier.
 
-Der Satz kommt wieder. Er steht am Ende zwischen ihnen, wenn es ernst wird. Bis zum Bruch soll er noch zwei- bis dreimal beiläufig fallen, ohne Nachdruck.
+Der Satz kommt wieder. Er steht am Ende zwischen ihnen, wenn es ernst wird. **Eingelöst, nachgezählt am 25.08.:** Er faellt nach der Auffahrt noch zweimal beilaeufig, in Band 1, Kapitel 17 und Kapitel 22 - und der Bruch ist Kapitel 22 bis 24. Damit ist diese Anweisung erledigt und keine Vorgabe mehr. **In Band 2 faellt er in siebenundfuenfzig Kapiteln kein einziges Mal.** Ob das Absicht ist oder Verlust, gehoert dem Autor.
 
 ---
 
@@ -78,9 +78,14 @@ Dazu handfeste Fähigkeiten, die niemand in seiner Akte vermerkt hat, weil niema
 **Sein Verhältnis zu Kompetenz.** Er hält viel von seiner eigenen und noch mehr von fremder. Kompetente Menschen behandelt er mit echtem Respekt, unabhängig von deren Rang. Inkompetenz ist für ihn keine Schwäche, sondern eine Beleidigung, und sein einziger echter Auslöser neben Kindern.
 
 **Und Annie hält es genauso, festgelegt am 23.08.** Sie duldet Inkompetenz so
-wenig wie er. Das ist keine Charakterspiegelung, sondern der Grund, warum in
-Band 2 offenbleibt, ob Nam Byung-hee überlebt: Es hängt daran, wie gut sie in
-ihrem ersten Raum ist, und das wird dort entschieden und nicht vorher.
+wenig wie er. Das war der Grund, warum offenblieb, ob Nam Byung-hee ueberlebt.
+
+**Entschieden, und zwar im Text. Nachgetragen am 25.08.** Ihr erster Raum ist
+Band 2, Kapitel 15, der 23. April: **vier dafuer, eine dagegen, Cho enthaelt
+sich.** Sie verliert den Vorsitz, sie sagt im Raum die Wahrheit, als eine Luege
+sie gerettet haette, und danach stapelt sie die Stuehle. Georgij hat den Ausgang
+vorher an Woo benannt (*"Her nothing."*, Kapitel 13). **Nach Kapitel 22 kommt
+sie in Band 2 nicht mehr vor.** Die Frage steht hier ab jetzt nicht mehr offen.
 
 **Und der dritte Auslöser, ab Band 2:** dass jemand **Annie** angreift, und
 zwar besonders dann, wenn die Waffe **er selbst** ist. Nam Byung-hee, 18. März.
