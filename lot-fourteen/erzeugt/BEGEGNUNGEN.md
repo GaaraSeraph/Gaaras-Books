@@ -18,13 +18,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 794 | 86 (b1ch01-b2ch74) | 1 | 74 |
+| Annie | 819 | 87 (b1ch01-b2ch75) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 225 | 37 (b1ch07-b2ch74) | 1 | 74 |
+| Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 144 | 35 (b1ch05-b2ch74) | 2 | 60 |
+| Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
 | Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
-| Mrs Seo | 95 | 43 (b1ch03-b2ch72) | 1 | 74 |
+| Mrs Seo | 96 | 44 (b1ch03-b2ch75) | 1 | 74 |
 | Mrs Jeon | 78 | 18 (b2ch06-b2ch71) | 2 | 59 |
 | Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
@@ -39,23 +39,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 30 | 21 (b1ch05-b2ch69) | 3 | 60 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
-| Choi Dae-ho | 26 | 16 (b1ch07-b2ch66) | 2 | 61 |
+| Choi Dae-ho | 28 | 17 (b1ch07-b2ch75) | 2 | 61 |
 | Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
 | Mrs Ha | 24 | 3 (b2ch66-b2ch68) | 37 | 42 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 20 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
-| Ahn Jung-hee | 16 | 8 (b2ch56-b2ch64) | 18 | 31 |
+| Ahn Jung-hee | 17 | 9 (b2ch56-b2ch74) | 18 | 53 |
 | Mrs Gwak | 15 | 3 (b2ch31-b2ch36) | 41 | 51 |
 | Baek Jun-ho | 13 | 4 (b2ch42-b2ch51) | 2 | 10 |
 | Mr Sohn | 12 | 2 (b2ch39-b2ch58) | 22 | 61 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
+| Moon Hae-sook | 5 | 3 (b2ch66-b2ch74) | 37 | 53 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
-| Moon Hae-sook | 4 | 2 (b2ch66-b2ch68) | 37 | 42 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-794 Nennungen in 86 Kapiteln.
+819 Nennungen in 87 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -848,25 +848,50 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:394 | Annie put her hand down into his hair and left it there, and he could not have said afte.. |
 | 49 | b2ch72:418 | "She knows exactly what she moved," said Annie. "She does not know who is standing on th.. |
 | 49 | b2ch72:458 | Annie looked at him for slightly longer than she needed to. |
-| 53 | b2ch74:154 | "Say the whole of it and do not sort it for me," said Annie. |
-| 53 | b2ch74:166 | "And say which of the two you believe," said Annie. |
-| 53 | b2ch74:182 | Annie looked at him for slightly longer than she needed to. |
-| 53 | b2ch74:194 | "Now the part you have been carrying since Tuesday and have not put on my desk," said An.. |
-| 53 | b2ch74:218 | "Then get the dates out and put them next to each other," said Annie, "because you have .. |
-| 53 | b2ch74:254 | "You did not cause November," said Annie. "You have wanted to for four days, because a m.. |
-| 53 | b2ch74:278 | Annie went back to the desk and sat down. |
-| 53 | b2ch74:286 | "I have been building this against a house that finishes at Christmas and a man to deal .. |
-| 53 | b2ch74:302 | "Two things I like and one I have promised somebody else," said Annie. "I will say which.. |
-| 53 | b2ch74:314 | Annie did not move at all. |
-| 53 | b2ch74:326 | "No," said Annie. |
-| 53 | b2ch74:350 | "And it is worse than the first," said Annie. "The first one is using a man. The second .. |
-| 53 | b2ch74:366 | "That is either true on the seventeenth of November or it was never true and I was arran.. |
-| 53 | b2ch74:374 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
-| 53 | b2ch74:394 | "It is not about your safety." Annie held his eye. "You are known. On the fourth of Sept.. |
-| 53 | b2ch74:426 | "You have a woman going to Gwangyang on the first of October and you have told her you w.. |
-| 53 | b2ch74:442 | "Now say the thing I have not asked you for," said Annie. |
-| 53 | b2ch74:462 | "I know what he does. I have known that since March." Annie looked straight at him. "I h.. |
-| 53 | b2ch74:478 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
+| 53 | b2ch74:172 | "Say the whole of it and do not sort it for me," said Annie. |
+| 53 | b2ch74:184 | "And say which of the two you believe," said Annie. |
+| 53 | b2ch74:200 | Annie looked at him for slightly longer than she needed to. |
+| 53 | b2ch74:212 | "Now the part you have been carrying since Tuesday and have not put on my desk," said An.. |
+| 53 | b2ch74:236 | "Then get the dates out and put them next to each other," said Annie, "because you have .. |
+| 53 | b2ch74:272 | "You did not cause November," said Annie. "You have wanted to for four days, because a m.. |
+| 53 | b2ch74:296 | Annie went back to the desk and sat down. |
+| 53 | b2ch74:316 | Annie did not move at all. |
+| 53 | b2ch74:352 | "Then say the thing you have worked out in the last twenty seconds," said Annie, "becaus.. |
+| 53 | b2ch74:372 | "Then the number I gave you this morning is wrong," said Annie. |
+| 53 | b2ch74:388 | "I can buy a lot," said Annie. "A lot has a number, and a number goes in a box on a form.. |
+| 53 | b2ch74:396 | "She was never sold. She has been kept." Annie did not blink. "There is nothing to write.. |
+| 53 | b2ch74:424 | Annie let that sit for a while, which she does not usually do. |
+| 53 | b2ch74:440 | "I have been building this against a house that finishes at Christmas and a man to deal .. |
+| 53 | b2ch74:456 | "Two things I like and one I have promised somebody else," said Annie. "I will say which.. |
+| 53 | b2ch74:468 | Annie put the pen down on the far side of the blotter. |
+| 53 | b2ch74:480 | "No," said Annie. |
+| 53 | b2ch74:504 | "And it is worse than the first," said Annie. "The first one is using a man. The second .. |
+| 53 | b2ch74:520 | "That is either true on the seventeenth of November or it was never true and I was arran.. |
+| 53 | b2ch74:528 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
+| 53 | b2ch74:548 | "It is not about your safety." Annie held his eye. "You are known. On the fourth of Sept.. |
+| 53 | b2ch74:580 | "You have a woman going to Gwangyang on the first of October and you have told her you w.. |
+| 53 | b2ch74:596 | "Now say the thing I have not asked you for," said Annie. |
+| 53 | b2ch74:616 | "I know what he does. I have known that since March." Annie looked straight at him. "I h.. |
+| 53 | b2ch74:632 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
+| 53 | b2ch75:30 | Annie did not move. |
+| 53 | b2ch75:54 | Annie looked at the window and not at him. |
+| 53 | b2ch75:78 | "Now the other one," said Annie. |
+| 53 | b2ch75:86 | Annie put both hands flat on the desk. |
+| 53 | b2ch75:114 | Annie stood up. |
+| 53 | b2ch75:150 | Annie was entirely still. |
+| 53 | b2ch75:174 | "And the third part," said Annie. |
+| 53 | b2ch75:190 | Annie went round the desk and stood at the window with her back to the room. |
+| 53 | b2ch75:238 | Annie turned round. |
+| 53 | b2ch75:282 | "Nine days ago I stood in my drive and told a man that he owes this house nothing," said.. |
+| 53 | b2ch75:306 | "One. Out of five. On the thirtieth of April I gave you one instruction about those men .. |
+| 53 | b2ch75:330 | Annie put one hand on the back of the reading chair. |
+| 53 | b2ch75:366 | "No," said Annie. "It is not." |
+| 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
+| 53 | b2ch75:414 | "Now say what he is," said Annie, without looking up. "You have told me and I have not s.. |
+| 53 | b2ch75:426 | Annie put the pen down across the top of the first letter. |
+| 53 | b2ch75:442 | "There is a last thing," said Annie. |
+| 53 | b2ch75:470 | Annie sat with both hands flat on either side of four blank sheets of paper. |
+| 53 | b2ch75:490 | "Go and eat something," said Annie, "and then go up that hill and hold a piece of someth.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1080,15 +1105,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch71:22` (Tag 45) - six
 - `b2ch71:82` (Tag 45) - four
 - `b2ch72:418` (Tag 49) - one
-- `b2ch74:166` (Tag 53) - two
-- `b2ch74:254` (Tag 53) - four
-- `b2ch74:286` (Tag 53) - six
-- `b2ch74:302` (Tag 53) - one, two
-- `b2ch74:350` (Tag 53) - one
-- `b2ch74:366` (Tag 53) - one
-- `b2ch74:374` (Tag 53) - five
-- `b2ch74:426` (Tag 53) - six, twenty
-- `b2ch74:478` (Tag 53) - twenty, twenty-five
+- `b2ch74:184` (Tag 53) - two
+- `b2ch74:272` (Tag 53) - four
+- `b2ch74:352` (Tag 53) - twenty
+- `b2ch74:396` (Tag 53) - eleven
+- `b2ch74:440` (Tag 53) - six
+- `b2ch74:456` (Tag 53) - one, two
+- `b2ch74:504` (Tag 53) - one
+- `b2ch74:520` (Tag 53) - one
+- `b2ch74:528` (Tag 53) - five
+- `b2ch74:580` (Tag 53) - six, twenty
+- `b2ch74:632` (Tag 53) - twenty, twenty-five
+- `b2ch75:78` (Tag 53) - one
+- `b2ch75:282` (Tag 53) - nine
+- `b2ch75:306` (Tag 53) - five, four, one
+- `b2ch75:330` (Tag 53) - one
+- `b2ch75:394` (Tag 53) - four, twenty-six
+- `b2ch75:470` (Tag 53) - four
+- `b2ch75:490` (Tag 53) - four
 
 ---
 
@@ -1505,7 +1539,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-225 Nennungen in 37 Kapiteln.
+231 Nennungen in 38 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1733,7 +1767,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:130 | *She got nothing. Woo got five customers on seven years and a very good afternoon, and I.. |
 | 44 | b2ch69:344 | *On the third of April I told her the lane would be hers, and she asked me what she got .. |
 | 44 | b2ch69:372 | "You have had none of it. You have had a very good afternoon for Chairman Woo and five h.. |
-| 53 | b2ch74:478 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
+| 53 | b2ch74:632 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
+| 53 | b2ch75:14 | "I am going to give it to you in the order Chairman Woo gave it to me, and I am not goin.. |
+| 53 | b2ch75:26 | "Chairman Woo has believed for twenty-three years that somebody paid for him," said Geor.. |
+| 53 | b2ch75:42 | "There was a prosecutor of thirty-six who had read a file and gone out to a yard and ask.. |
+| 53 | b2ch75:62 | "No. Chairman Woo said that too, and in nearly those words. You do not get a man of thir.. |
+| 53 | b2ch75:154 | "That is the whole of the second part," said Georgij, "and I want to be exact about it. .. |
+| 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1873,7 +1913,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:130` (Tag 44) - five, seven
 - `b2ch69:344` (Tag 44) - five, one
 - `b2ch69:372` (Tag 44) - five, one
-- `b2ch74:478` (Tag 53) - twenty, twenty-five
+- `b2ch74:632` (Tag 53) - twenty, twenty-five
+- `b2ch75:14` (Tag 53) - two
+- `b2ch75:26` (Tag 53) - twenty-three
+- `b2ch75:42` (Tag 53) - thirty-six, two thousand and two
+- `b2ch75:62` (Tag 53) - thirty-six
+- `b2ch75:154` (Tag 53) - four, one, seventy-eight, two
+- `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
 
 ---
 
@@ -2123,7 +2169,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-144 Nennungen in 35 Kapiteln.
+145 Nennungen in 36 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2270,7 +2316,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:266 | "Well," said Jang. |
 | 39 | b2ch67:276 | Jang started the car. |
 | 39 | b2ch67:288 | Jang did not say anything, because he had never been given the name. |
-| 53 | b2ch74:374 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
+| 53 | b2ch74:528 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
+| 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2345,7 +2392,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:98` (Tag 22) - one
 - `b2ch67:6` (Tag 39) - forty, two
 - `b2ch67:264` (Tag 39) - eleven, twelve
-- `b2ch74:374` (Tag 53) - five
+- `b2ch74:528` (Tag 53) - five
+- `b2ch75:394` (Tag 53) - four, twenty-six
 
 ---
 
@@ -2469,8 +2517,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch74:102 | "There is a second half and you have not asked for it," said Sim, "and I am going to giv.. |
 | 51 | b2ch74:118 | "I did not put it in on Monday because I did not know it was a thing." Sim said it witho.. |
 | 51 | b2ch74:126 | Sim stood up and put the cup and the saucer on the tray, which nobody had asked him to do. |
-| 53 | b2ch74:162 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
-| 53 | b2ch74:402 | "Three things and they are all small and they are all yours." She counted on nothing. "S.. |
+| 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
+| 53 | b2ch74:556 | "Three things and they are all small and they are all yours." She counted on nothing. "S.. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -2531,14 +2579,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch74:74` (Tag 51) - eleven, four, one, six, sixteen, ten
 - `b2ch74:102` (Tag 51) - two
 - `b2ch74:118` (Tag 51) - four, sixteen
-- `b2ch74:162` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
-- `b2ch74:402` (Tag 53) - three, twenty
+- `b2ch74:180` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
+- `b2ch74:556` (Tag 53) - three, twenty
 
 ---
 
 ## Mrs Seo
 
-95 Nennungen in 43 Kapiteln.
+96 Nennungen in 44 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2637,6 +2685,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:258 | "It is the only thing worth giving." She straightened up. "You are going to eat somethin.. |
 | 44 | b2ch69:262 | He ate at the long table in the kitchen with the staff at half past nine, which Mrs Seo .. |
 | 49 | b2ch72:78 | At about eleven Mrs Seo came through with a message that had come in on the house line a.. |
+| 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2697,6 +2746,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:14` (Tag 44) - eight
 - `b2ch69:262` (Tag 44) - nine, ninety
 - `b2ch72:78` (Tag 49) - eleven, ten, twenty
+- `b2ch75:394` (Tag 53) - four, twenty-six
 
 ---
 
@@ -2899,8 +2949,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 50 | b2ch73:358 | Mr Ahn plugged the fan in at the wall. |
 | 50 | b2ch73:382 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
 | 50 | b2ch73:402 | Mr Ahn almost got out the thing that is not quite a laugh. |
-| 53 | b2ch74:162 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
-| 53 | b2ch74:410 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
+| 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
+| 53 | b2ch74:564 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
 
 ### Zahlen in der Naehe von Mr Ahn
 
@@ -2930,8 +2980,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch73:282` (Tag 50) - four, one
 - `b2ch73:302` (Tag 50) - eight, four, one, three, two
 - `b2ch73:338` (Tag 50) - four
-- `b2ch74:162` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
-- `b2ch74:410` (Tag 53) - four, thirty-nine
+- `b2ch74:180` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
+- `b2ch74:564` (Tag 53) - four, thirty-nine
 
 ---
 
@@ -3377,7 +3427,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:270 | At the car, Mr Kwon stopped with the door open. |
 | 44 | b2ch69:302 | Mr Kwon looked at him for a long moment. |
 | 44 | b2ch69:314 | "He is forty minutes from the girl. He has a boat that does not go anywhere and he telep.. |
-| 53 | b2ch74:338 | "That nobody uses them," said Georgij. "That Mr Kwon is asked one question, which is who.. |
+| 53 | b2ch74:492 | "That nobody uses them," said Georgij. "That Mr Kwon is asked one question, which is who.. |
 
 ### Zahlen in der Naehe von Mr Kwon
 
@@ -3407,7 +3457,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:226` (Tag 44) - four, nine, thirty-two, three
 - `b2ch69:242` (Tag 44) - four
 - `b2ch69:314` (Tag 44) - eleven, forty, nineteen
-- `b2ch74:338` (Tag 53) - one
+- `b2ch74:492` (Tag 53) - one
 
 ---
 
@@ -3841,7 +3891,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-26 Nennungen in 16 Kapiteln.
+28 Nennungen in 17 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3871,6 +3921,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
 | 27 | b2ch62:166 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
 | 37 | b2ch66:180 | "And if the arrangement still holds, she will telephone somebody, and inside a day Choi .. |
+| 53 | b2ch75:106 | "And that is Choi Dae-ho." |
+| 53 | b2ch75:110 | "That is Choi Dae-ho." |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 
@@ -4160,7 +4212,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Ahn Jung-hee
 
-16 Nennungen in 8 Kapiteln.
+17 Nennungen in 9 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4180,6 +4232,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
 | 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
+| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
 
 ### Zahlen in der Naehe von Ahn Jung-hee
 
@@ -4195,6 +4248,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch63:58` (Tag 29) - four
 - `b2ch63:188` (Tag 29) - eleven, one
 - `b2ch64:92` (Tag 31) - four, nine, thirty-five
+- `b2ch74:340` (Tag 53) - four, one, two
 
 ---
 
@@ -4366,6 +4420,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Moon Hae-sook
+
+5 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:30 | Moon Hae-sook. |
+| 37 | b2ch66:266 | *Nobody has looked at Moon Hae-sook for eleven years except the man who pays for her.* |
+| 42 | b2ch68:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
+| 42 | b2ch68:208 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
+| 53 | b2ch74:324 | "Moon Hae-sook." |
+
+### Zahlen in der Naehe von Moon Hae-sook
+
+- `b2ch66:266` (Tag 37) - eleven
+- `b2ch68:208` (Tag 42) - eleven, four, one
+
+---
+
 ## Mr Noh
 
 5 Nennungen in 1 Kapiteln.
@@ -4402,24 +4475,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch08:220` (Tag 22) - eight, one, two
 - `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
-
----
-
-## Moon Hae-sook
-
-4 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 37 | b2ch66:30 | Moon Hae-sook. |
-| 37 | b2ch66:266 | *Nobody has looked at Moon Hae-sook for eleven years except the man who pays for her.* |
-| 42 | b2ch68:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
-| 42 | b2ch68:208 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
-
-### Zahlen in der Naehe von Moon Hae-sook
-
-- `b2ch66:266` (Tag 37) - eleven
-- `b2ch68:208` (Tag 42) - eleven, four, one
 
 ---
 

@@ -88,9 +88,10 @@ wird.**
 ## Offen
 
 - [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
-- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 442 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · —
+- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 405 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · **Frist am Tag 350 nach vorn gerueckt:** Kapitel 72 hat November statt Weihnachten ergeben, Kapitel 74 setzt den Kauf auf vor Ende Oktober
+- [BEZAHLT] **B2 68** Georgij an Sim · gesagt Tag 339 · faellig Tag 346 · "There is a difference. You will not be able to hear it and she will." · B2 72: sie sagt am 14. seinen Namen, zum ersten Mal in vier Jahren. **Sim und Mr Ahn lesen es als Abschied, und keiner von beiden war am siebten in dem Zimmer** (Notiz im Wagen, B2 74 v1.1)
 - [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
-- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · —
+- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · **Kein Bruch, und das steht schon in 68:** auf *"Say the whole of it"* praezisiert er auf *"when the woman in Gangwon-do does not need me any more"*. Der Anruf am 28. September (B2 72) ist die Erfuellung und nicht der Verstoss
 - [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
 - [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
 - [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
@@ -103,6 +104,7 @@ wird.**
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
+- [OFFEN] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" - vier Seiten in ihrer Handschrift, der teuerste Beleg, den sie je gemacht hat · —
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig offen · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
 - [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig offen · "You will be told, and you will not be told the comfortable part of it." · —
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig offen · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
@@ -119,7 +121,7 @@ wird.**
 - [KEINE] **B2 74** Georgij an Annie · gesagt Tag 350 · faellig offen · "you have told her you will be at her table on the twenty-third" · Keine neue Zusage, sondern die Wiedergabe von B2 71. `--neu` findet sie, weil der Wortlaut abweicht
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
 - [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
-- [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
+- [BEZAHLT] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · **Einer in B2 69 (Kwon, und nur weil er selbst vorfuhr), die anderen vier in B2 75, einhunderteinundvierzig Tage spaet und nicht von ihm.** Sie schreibt vier Briefe von Hand, unterschrieben und datiert, ohne Briefkopf; Mrs Seo verschickt sie aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
 - [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach

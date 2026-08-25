@@ -2740,7 +2740,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Ein Saal in Jung-gu fuehrt seit 1988 Buecher, und die Frau, die dort seit
     neunzehn Jahren den Kalender macht, erinnert sich an die Absage, **weil die
     Anzahlung nie abgeholt wurde.** Die Buchung lief auf den Familiennamen der
-    Braut. **Der Name steht noch nicht im Text.**
+    Braut. **Nachgetragen: der Name ist seit Kapitel 66 im Text - Moon Hae-sook.**
   - **Und "October was her mother's month" ist kein Datum**, sondern eine Auskunft
     ueber eine Lebenslage: wer Sim das gesagt hat, kannte die Mutter, also lebte
     die Mutter, als die Sache eingerichtet wurde.
@@ -2910,7 +2910,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Neuer Kanon:** die Familie der Frau am Sauerstoff hat jetzt einen
     Familiennamen - **auf drei Seiten in Mrs Sunwoos Handschrift, und der Name
     steht noch nicht im Text**, weil das Kapitel auf der ersten Seite endet.
-    **Er muss in Kapitel 66 oder 67 fallen.**
+    **Nachgetragen: er faellt in Kapitel 66.**
 
 
 - **Band 2, Kapitel 66** *What silence costs* (v1.3) - **Tag 334, Mi 2. September. Der zweite Name faellt, und er entscheidet, sichtbar zu werden.**
@@ -2953,9 +2953,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sie hiess beim Schreiben zuerst **Mrs Im** und wurde noch am selben Tag zu
     **Mrs Ha**, weil es im Haushalt bereits einen **Mr Im** gibt (`doc/03-cast.md`,
     Band 1, Wartungsrota).
-  - **Faellig: Mrs Ha, Mrs Sunwoos vier und Moon Hae-sook gehoeren in
-    `doc/03-cast.md`, und Mrs Ha braucht ein Blatt in `doc/12-stimmen.md`, bevor
-    Kapitel 67 sie sprechen laesst.**
+  - **Erledigt am 25.08.:** Mrs Ha und Moon Hae-sook stehen jetzt in
+    `doc/03-cast.md`, Mrs Ha hat ein Blatt in `doc/12-stimmen.md`. **Offen bleibt
+    nur Mrs Sunwoos vier**, und die sind eine Liste in ihrer Handschrift und keine
+    Figuren.
 
 
 - **Band 2, Kapitel 67** *Four hundred and one* (v1.3) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
@@ -3269,7 +3270,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.0) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.1) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -3332,6 +3333,84 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     table."*
   - **OFFEN FUER DIE NAECHSTE SITZUNG:** Kapitel 75 ist die Antwort, und das ist die
     groesste Szene des Bandes. Sie ist bewusst nicht in 74 mit hineingeschrieben.
+
+  **Nachtrag 25.08., v1.1 - zwei Dinge, die in v1.0 offen lagen und zu spaet
+  gewesen waeren:**
+  - **DIE ZWEITE FRAU FEHLTE.** In v1.0 sagen beide vier Tage lang *sie* und *die
+    Frau*, und in dem Gebaeude sind zwei. Georgij hoert sich selbst dabei zu und
+    benennt es: Ahn Jung-hee hat einen Bruder an einer Tuer, einen Mann am Telefon
+    und ihn. **Moon Hae-sook hat seit elf Jahren niemanden.**
+  - **Und daraus die Wand, die den ganzen Plan aendert:** Annie kann ein Los
+    kaufen, weil ein Los eine Nummer hat und eine Nummer in ein Kaestchen geht.
+    *"She was never sold. She has been kept... a man does not sell you a thing he
+    has spent eleven years not admitting he has."* **Die eine ist ein Geschaeft,
+    die andere nicht.**
+  - **Woraus folgt, was der Monat ist:** alles in dem Haus laesst sich abwickeln -
+    die Rota, die Essensbestellung, der Arzt, das Los auf einem Formular. **Eines
+    nicht.** Ein Mann, der schliesst, muss vor dem Winter etwas mit ihr machen.
+    *"That is what the month is."*
+  - **Zweiter Nachtrag, klein:** am 7. September hat Georgij Sim gesagt, es gebe
+    einen Unterschied und *"you will not be able to hear it and she will"*. Am 14.
+    hat sie seinen Namen gesagt. Das stand in v1.0 unverbunden da und ist jetzt
+    eine Notiz im Wagen. **Zwei Maenner lesen das als Abschied, und keiner von
+    beiden war am siebten in dem Zimmer.**
+
+- **Band 2, Kapitel 75** *The man at the table* (v1.0) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Er gibt es in Woos Reihenfolge und verbessert nichts daran.** Woo als Tuer;
+    der Staatsanwalt von sechsunddreissig, der einen Hof besuchte und eine Frage
+    stellte, die niemandem eingefallen war; die Einstellung im Fruehjahr 2002; elf
+    Tage spaeter steht er in einem fremden Haus in einem guten Mantel und hat
+    nichts zu verkaufen. **Und das Verfahren:** *"You give him one thing to do
+    that he cannot undo, and then he leaves on his own, and he never once says
+    why."*
+  - **Der Name faellt in zwei Zuegen:** Schiffe, Incheon, aus dem Nichts
+    hochgekommen, konnte keinen Vertrag lesen, war in vier Sekunden richtig ueber
+    Menschen. *"Your father."* Und dann: *"That is Choi Dae-ho."*
+  - **SIE VERSUCHT ES ZUERST ZU BRECHEN**, und zwar sofort und ausdruecklich, weil
+    sie es lieber heute zerbrochen haette als im November. Georgij trennt Woos drei
+    Teile sauber: vier Worte auf einem Korridor, ein Satz bei einem Mittagessen
+    2002, und dazwischen ein Achtundsiebzigjaehriger, der zwei Dinge nebeneinander
+    legt. **Er sagt ausdruecklich, wie duenn die Beleglage ist.**
+  - **Warum er es trotzdem genommen hat:** die Form erklaert elf Jahre. *"A man who
+    bought his position guards it. A man who was given it does not, because he has
+    never once been asked to account for it."*
+  - **Die fuenfundzwanzig Tage.** Er sagt ohne Zoegern, dass er es ihr beim ersten
+    Mal gesagt haette, wenn sie fragt, und dass er es nicht von sich aus
+    angesprochen haette - und benennt den Unterschied selbst: *"The second one is
+    that I decided when you were ready."*
+  - **UND SIE LEGT ES NEBEN IHREN VATER:** *"It is also the precise thing my father
+    did to a man of thirty-six. He gave him something he had not asked for and
+    could not hand back. He chose the moment and he was very kind about it."*
+  - **DANN MERKT SIE ES SELBST**, mitten im Raum, ohne dass jemand es ihr vorhaelt:
+    sie hat am 30. April eine fuenf Wort lange Anweisung gegeben, er hat sie nicht
+    ausgefuehrt, **sie hat nicht nachgesehen**, und vier Maenner tragen seit fuenf
+    Monaten eine Schuld, die es nicht gibt. *"I have spent the last ten minutes
+    being told that my father made a man by giving him a thing he could not give
+    back. I have four of them."*
+  - **Georgijs einziger Unterschied, und er sagt selbst, was er wert ist:** *"It is
+    not the same thing because you did not do it on purpose, and that is the only
+    difference I can find, and it is not worth very much to a man in a yard in
+    Ulsan."*
+  - **DIE VIER BRIEFE.** Von Hand, unterschrieben, datiert, ohne Briefkopf. Der
+    teuerste Beleg, den sie je gemacht hat, und das Gegenstueck zum Verfahren ihres
+    Vaters: **er hat einem Mann etwas gegeben, das dieser nie verbuchen konnte -
+    sie legt es auf Papier, damit man es verbuchen kann.** Mrs Seo verschickt sie
+    aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht. Georgij und
+    Jang fassen sie nicht an, das Verbot aus 74 bleibt unangetastet.
+  - **UND DIE WAND, DIE DEN BAND TRAEGT:** *"Nobody has ever paid him anything. He
+    was given... a thing that was given has no price, and a man who has no price
+    cannot be bought out, and I have been building the wrong instrument since
+    March."*
+  - **Der unfreundlichste Satz des Buches, und sie verlangt ihn:** ihr Vater wurde
+    nicht getaeuscht. *"He spent forty years being right about people in four
+    seconds, and he looked at a prosecutor of thirty-six who had just ended
+    himself, and he knew exactly what he was looking at. He was pleased with it."*
+    Ihre Antwort ist zwei Woerter lang und dann *"Thank you."*
+  - **Choi Dae-ho spricht weiterhin nicht** und ist am Ende von 75 zum ersten Mal
+    im Buch etwas anderes als ein Gegner: ein Gegenstand, den jemand gemacht hat.
+
 
 
 ---
