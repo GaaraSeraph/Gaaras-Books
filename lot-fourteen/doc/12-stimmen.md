@@ -1352,19 +1352,29 @@ benutzen.
 
 **Nachgeprüft am 25.08. mit `stimmen.py`, und der Superlativ hält - mit einer
 Schwelle.** Unter allen Figuren mit mehr als 90 Wörtern eigener Rede ist er bei
-beiden der dichteste: Daten Hwang 16,3 · Yeom 10,9 · Mrs Jeon 9,1; Uhrzeiten
-Hwang 13,6 · Mr Ahn 11,2 · Mr Koh 9,0.
+beiden **Platz eins**, und mit Abstand: Daten 16,3 vor 10,9, Uhrzeiten 13,6 vor
+9,3.
 
-**Ohne Schwelle stünden Kang (33,3 bei Daten, aus 30 Wörtern) und Ye-rin (41,7
-bei Uhrzeiten, aus 24 Wörtern) darüber - beides eine einzige Nennung.** Wer aus
-dieser Tabelle zitiert, nennt die Schwelle mit, sonst gewinnt immer die Figur
-mit der kürzesten Rede.
+**Ohne Schwelle stünden Figuren mit zwei Dutzend Wörtern darüber - eine einzige
+Nennung reicht dann für den ersten Platz.** Wer aus dieser Tabelle zitiert,
+nennt die Schwelle mit.
+
+**Hier stand die volle Verfolgerliste mit Namen und Ziffern, und sie war nach
+drei Wochen falsch** (Mr Ahn stand bei Uhrzeiten auf 11,2 und steht auf 7,9,
+weil er in K73 viel geredet und dabei keine Uhrzeit genannt hat; bei den Daten
+ist er inzwischen an Mrs Jeon vorbei). **Hwangs eigene zwei Zahlen sind seine
+Identität und bleiben stehen. Die Rangliste dahinter gehört nicht ins Blatt,
+sondern in den Befehl:**
+
+```
+python3 werkzeug/stimmen.py            # Spalte "zaehlt am dichtesten"
+```
 
 **Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
 abnehmen muss: *"You are correct. I want to say that first so that we are not
-doing the part where you prove it to me."* Und er zieht die Frage vor, die
+doing the part where you prove it to me."* (b2 K21) Und er zieht die Frage vor, die
 kommen wird: *"You want something. **You have not asked for it yet and you have
-been in this room for twenty minutes.**"*
+been in this room for twenty minutes.**"* (b2 K21)
 
 **Aber das Material, mit dem er vorwegnimmt, ist immer die Akte - und das ist
 der Unterschied zu Yeom.** Yeom kennt Menschen, weil er ihnen gegenübergesessen
@@ -1372,7 +1382,7 @@ hat. Hwang kennt sie, **weil sie ein Formular ausgefüllt haben**:
 
 > *"There is a bus every twenty minutes from the station and it is the fourth
 > stop. **I know that because she wrote it on her application when she came and
-> nobody has ever asked her for a new one.**"*
+> nobody has ever asked her for a new one.**"* (b2 K28)
 
 Ein Mann, der die Busverbindung einer Sachbearbeiterin kennt, weil sie
 dreiundzwanzig Jahre alt in einem Ordner steht. **Jede Nähe, die er zu einem
@@ -1381,14 +1391,14 @@ Menschen hat, ist dokumentarisch**, und er nennt die Fundstelle mit.
 **Warm: die Wärme ist ein Schriftstück, und er misst sie in Seiten.**
 
 > *"I wrote her one. **It is two pages and every sentence in it is true and I
-> have never written a better one about anybody.**"*
+> have never written a better one about anybody.**"* (b2 K28)
 
 Er sagt nicht, dass er sie schätzt. Er sagt, wie lang das Zeugnis ist und dass
 jeder Satz darin wahr ist - was bei ihm dasselbe bedeutet und mehr kostet.
 
 **Unter Druck** wird er **verfahrensförmig**: Er sagt, in welchem Zustand das
 Verfahren ist und was daraus folgt - *"the house was in wind-up, and that
-reopening a matter in wind-up requires the administrator's consent."* Keine
+reopening a matter in wind-up requires the administrator's consent."* (b2 K28) Keine
 Rechtfertigung, eine Rechtslage.
 
 **Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
@@ -1465,7 +1475,13 @@ taucht bei den Jahren gar nicht unter den ersten fünf auf.)*
 **Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
 Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, was
 der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
-paid in cash by a man who left before the coffee."*
+paid in cash."* - *"And a man who left before the coffee. **People do not do
+that.**"*
+
+*(Hier stand beides als **ein** Satz, zusammengezogen. Es sind zwei Repliken,
+und die Fuge ist die Stelle, wo er aufhört zu berichten und anfängt zu
+urteilen: **People do not do that.** Wer die beiden verschmilzt, nimmt ihm den
+einzigen Satz, in dem er eine Meinung hat.)*
 
 **Gegengelesen, acht Repliken.** Zwei Ergänzungen, und eine Berichtigung:
 
@@ -1858,16 +1874,30 @@ Unterschied zwischen ihnen ist der ganze Handel.
 
 ---
 
-### Mr Chae (14 Repliken)
+### Mr Chae (b1 K25 und b1 K34)
 
 **Der Zeichner der Instrumente. Struktur ja, Zweck nie.** Er fragt, wofür etwas
 ist, schreibt die Antwort auf und stellt keine zweite Frage. Annie über ihn:
 *"Mr Chae will not be told why and he will not enjoy it."* **Das ist seine
 Charakterisierung und er weiß nichts davon.**
 
-**Dazu gemessen, sieben zugeordnete Repliken:**
+**Die Zahl in diesem Blatt war zweimal falsch, und beide Male aus demselben
+Grund.** Im Kopf stand *14*, im Text *7 zugeordnete Repliken*. **Von Hand
+nachgezählt sind es rund siebzehn** - sieben in b1 K25, zehn in b1 K34.
 
-**7 Repliken, und er hatte kein Blatt.**
+**`stimmen.py` sieht die zehn nicht, und das ist ein Loch im Werkzeug, nicht in
+der Figur.** Zwei Ursachen greifen hier zusammen:
+
+1. **b1 K34 ist eine Zweipersonenszene.** Der Dialog läuft im blossen Wechsel,
+   die meisten Repliken haben überhaupt keinen Begleitsatz.
+2. **Wo einer steht, ist es ein Handlungsverb und kein Sprechverb:**
+   *"That is what it was for." **Mr Chae closed the case** and did not open it
+   again."* Das Werkzeug sucht `said|asked|shrugged|added|repeated` und geht
+   daran vorbei.
+
+**Für Chae heisst das: das Kapitel wird gelesen und nicht gezählt.** Die
+Messwerte in der Gesamttabelle (112 Wörter) sind entsprechend nur der
+K25-Anteil und taugen nicht für einen Vergleich.
 
 **Die Maschine: er markiert die Grenze seiner eigenen Nachforschung, bevor
 jemand fragt.**
@@ -1891,7 +1921,12 @@ das Mandat.
 on a Sunday."*
 
 **Körper.** Er hat den Koffer und macht ihn zu, wenn er fertig ist - und die
-Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
+Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe. **Der Text sagt
+es selbst**, b1 K34: *"Georgij watched him square the case and close the two
+catches **in the order he had closed them in December**."* Und zwei Absätze
+später wird die Geste zu dem, worauf sich Georgijs ganze Bewegung richtet:
+*"It was aimed at **a lawyer's two catches** and at nothing else in that room,
+and Mr Chae did not see it."*
 
 ---
 
@@ -2125,11 +2160,15 @@ zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 **Dazu gemessen, elf zugeordnete Repliken:**
 
 **11 Repliken, 182 Wörter, und er hatte kein Blatt.** Er zählt Personen mit
-**22,0 je 1000 Wörtern - der zweithöchste Wert im Buch**, knapp hinter Mr Ahn
-mit 22,5, weil er sich in einer Reihe von Menschen sieht.
+**22,0 je 1000 Wörtern**, weil er sich in einer Reihe von Menschen sieht.
 
-*(Hier stand "der höchste Wert im ganzen Buch". Um ein halbes Zehntel falsch,
-und das ist die Sorte Superlativ, die niemand nachrechnet.)*
+*(Dieser Platz ist zweimal gekippt. Zuerst stand hier "der höchste Wert im
+ganzen Buch", dann - berichtigt - "der zweithöchste, knapp hinter Mr Ahn mit
+22,5". **Am 25.08. ist Mr Ahn auf 15,8 gefallen**, weil er in K73 viel geredet
+und dabei kaum von Menschen gesprochen hat, und damit ist die erste, verworfene
+Fassung wieder richtig. **Byuns eigene 22,0 haben sich nie bewegt. Der Rang um
+ihn herum bewegt sich dauernd** - deshalb steht er hier nicht mehr, sondern
+wird geholt:* `python3 werkzeug/stimmen.py`*.)*
 
 **Die Maschine: er verteidigt sich, indem er sich in eine Erbfolge stellt.**
 

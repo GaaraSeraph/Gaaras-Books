@@ -16,6 +16,15 @@ Kapitel 30 ein ganzes Kapitel und findet sich hier mit fuenf Zeilen. **Eine
 niedrige Zahl heisst nicht wenig Text, sondern wenig Begleitsatz** - fuer solche
 Figuren wird das Kapitel gelesen und nicht gezaehlt.
 
+**Die dritte Grenze: Handlungs-Begleitsaetze.** Gesucht wird nach
+`said|asked|shrugged|added|repeated`. Eine Replik, deren Begleitsatz ein
+Handlungsverb benutzt - *"That is what it was for." **Mr Chae closed the case**
+and did not open it again."* - ist unsichtbar. Mr Chae hat dadurch zehn seiner
+siebzehn Repliken verloren, und doc/12 hat den Fehler in zwei verschiedenen
+Zahlen weitergegeben. **Die Verbliste zu erweitern hilft nicht**: ein
+Handlungsverb neben einer Replik sagt nicht, dass der Handelnde spricht. Fuer
+solche Kapitel gilt dasselbe wie fuer Zweipersonenszenen - lesen, nicht zaehlen.
+
 **Die Zuordnung ist die Falle, und sie hat mich schon zweimal erwischt.**
 Ein Begleitsatz im Text ("said Mrs Seo") kann innerhalb einer fremden Replik
 stehen, weil eine Figur eine andere zitiert. Deshalb wird die Replik nur
