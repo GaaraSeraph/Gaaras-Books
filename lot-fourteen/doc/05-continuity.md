@@ -2551,7 +2551,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Dazu Sims Register durchgehalten, wo es ernst wird. Siehe `doc/12-stimmen.md`.
 
 
-- **Band 2, Kapitel 53** *The one I did not say in May* (v1.2) - **Tag 305, Di 4. August. "I am the February one."**
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.3) - **Tag 305, Di 4. August. "I am the February one."**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2694,7 +2694,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
     him where he is."*
 
-- **Band 2, Kapitel 61** *The doorway* (v1.2) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 61** *The doorway* (v1.3) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.

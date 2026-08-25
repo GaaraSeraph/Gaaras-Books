@@ -26,7 +26,27 @@ Ohne den SHA ist `--seit` Raterei.
 
 | Durchgang | Datum | Ausgangsstand | Kapitel | Stand |
 |---|---|---|---|---|
-| *(erste Zeile eintragen, bevor das erste Kapitel angefasst wird)* | | | | |
+| Erzaehlerkommentare, Band 2 | 25.08.2026 | `14a893e` | b2 K01-K68 | laeuft |
+
+**Was dieser Durchgang tut, und warum er die vier Meldungen anders trifft als
+erwartet.** Er schreibt **keine woertliche Rede um**. Er setzt Absaetze
+*dazwischen*: der Erzaehler benennt wieder, was eine Szene zurueckhaelt.
+Gemessen am 25.08.: Band 1 hat 25 solche Saetze (0,25 je 1000 Woerter), Band 2
+hat 4 (0,02) - der Erzaehler ist nach Band 1 verstummt, und das Erklaeren ist
+in die Muender der Figuren gewandert (Band 1 25:21, Band 2 4:46).
+
+Daraus folgt fuer dieses Blatt:
+
+- **Meldung 1** (Sprecherangaben) faellt fast weg - es wird nichts gestrichen.
+- **Meldung 2 und 3 sind die schweren.** Jeder eingesetzte Satz ist eine **neue
+  Tatsachenbehauptung des Erzaehlers**, und der Erzaehler wiegt schwerer als
+  eine Figur. Steht darin eine Dauer (*four days*) oder ein Absolutum (*never*,
+  *the largest*, *the whole of it*), steht sie unten - auch wenn ich sie aus
+  dem Kapitel selbst genommen habe. **Woher ich sie habe, steht dabei.**
+- **Meldung 4:** die festgelegten Zeilen in `doc/05` verbieten dem Erzaehler
+  ausdruecklich, auf sie zu zeigen (*best-made thing*, *was nicht Arbeit war*,
+  *die zwei Haende*). Alle drei liegen in Band 1. In Band 2 wird kein
+  Kommentar in ihre Naehe gesetzt.
 
 ---
 
@@ -81,3 +101,52 @@ eintragen.
 ---
 
 ## Durchgaenge
+
+---
+
+### Durchgang Erzaehlerkommentare, Band 2 - Ausgangsstand `14a893e`
+
+Fortlaufend, blockweise. Form der Kommentare: kein Kursiv, ein bis zwei Saetze,
+eigener Absatz hinter dem Beat, nennt die **Handlung** und nicht das Gefuehl,
+sieht durch Georgij. Zwei bis drei je Kapitel.
+
+#### Block 1 - K53, K61 (Muster, vom Autor abgenommen)
+
+**Meldung 2 - Dauer in einem eingesetzten Satz**
+
+| Kap | Eingesetzt | Woher die Zahl |
+|---|---|---|
+| b2 K61 | *"He had spent **four days** deciding which of the two people in this house he was entitled to hurt, and he had chosen the one who could carry it."* | Woo im selben Kapitel: *"it took me four days"*, *"I have had it four days"* |
+
+**Meldung 3 - Absoluta in eingesetzten Saetzen**
+
+| Kap | Eingesetzt | Deckung im Text |
+|---|---|---|
+| b2 K53 | *"He had **never** given anybody a date about himself."* | Georgij zwei Absaetze spaeter: *"I do not give anybody dates about myself. It is the one rule I have had since I was nineteen."* |
+| b2 K53 | *"...and it was **the largest one** the man had."* | **keine woertliche Deckung** - Erzaehlerurteil ueber Mr Yeom. Siehe *Unsicher*. |
+| b2 K61 | *"...**neither** of them had used a word that would have had to be explained afterwards."* | pruefbar am Wechsel selbst (Woo: *"I am not going to need it."* / Mrs Seo: *"There is a chair in the hall."*) |
+| b2 K61 | *"That was **the whole of** the visit."* | Woos eigener Abgang: *"I am going to go home and be old."* |
+
+**Meldung 1 und 4:** keine. Nichts gestrichen, keine festgelegte Zeile beruehrt.
+
+**Gegenprobe `faktenspur.py --seit 14a893e`** meldet genau diese beiden Kapitel
+und nichts sonst. Aufgeloest: `one` +2 in K53 (*the largest one*, *give one
+away*); in K61 `four` +1 und `two` +1 (*four days*, *the two people in this
+house*), `sunday` +1 und `one` +1 (*across a city on a Sunday*, *said properly
+once*, *the one who could carry it*). **Alle aus dem Kapitel selbst.**
+
+**Unsicher**
+
+- **b2 K53, die Apologie-Stelle.** *"it was the largest one the man had"* ist ein
+  Urteil ueber Mr Yeoms Innenleben, nicht ueber Georgijs Wahrnehmung. Das Buch
+  steht sonst hinter Georgijs Auge. Wenn Du die Kamera streng willst, muss es
+  *"and Georgij took it as the largest one the man had"* heissen.
+- **b2 K61, Woos vier Tage.** Erste Fassung des Schlusskommentars gab ihm ein
+  **falsches Motiv** (er habe es getragen, damit Georgij es nicht von jemand
+  Schlimmerem hoere). Im Text wartet er die vier Tage, *"because I was waiting
+  for the rest of it"*. Ersetzt durch das Motiv, das er selbst nennt: *"I have
+  been in one room in my life where a name was said badly."* **Der Fehler ist
+  nicht im Buch gelandet**, steht aber hier, weil er die Fehlerklasse dieses
+  Durchgangs zeigt: **ein Erzaehlerkommentar erfindet ein Motiv, das die Figur
+  nicht hat.**
+
