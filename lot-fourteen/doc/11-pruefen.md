@@ -120,6 +120,37 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 
 ---
 
+## Reihenfolge: erst Stil, dann Inhalt
+
+**Ein Durchgang, der jede Aussage an `doc/12-stimmen.md` anpasst, geht vor der
+Inhaltsprüfung, nicht danach.** Drei Gründe:
+
+1. **Eine Inhaltskorrektur ist ein umgeschriebener Satz.** Wird derselbe Satz
+   danach in die Stimme gezogen, kann die Zahl darin wieder verschwinden. Wer
+   zuletzt schreibt, hat recht — und das soll der Inhalt sein.
+2. **Befunde gegen einen Wortlaut, den es nicht mehr gibt, sind wertlos.** Am
+   25.08. lagen genau dafür Notizen im Register: die des alten Kapitels 46,
+   geschrieben gegen eine Fassung, die es nach der Umnummerierung nicht mehr gab.
+3. **Warten kostet nichts**, weil das Archiv jede Fassung behält. Der Zustand
+   vor dem Durchgang muss nicht gesichert werden — er liegt schon da, und
+   `faktenspur.py --seit <sha>` holt ihn.
+
+**Zwei Dinge gehören aber davor.** Erstens: wer die Stimmen anlegt, muss die
+**Festgelegten Zeilen** aus `doc/05` vor sich haben. Ein Stimmblatt glättet sie
+sonst, und ein Zurücknehmen ist teurer als ein Nichtanfassen. Zweitens: die
+Fakten stehen in wörtlicher Rede. *"I am fifty-nine"*, *"since I was
+twenty-six"*, *"it was Y who suggested the cards"* — alles Stimme und alles
+Kanon.
+
+**Gemessen am 25.08.:** seit dem ersten Stimmen-Commit haben **acht Kapitel**
+eine Zahl, ein Datum oder einen Namen bewegt. Das auffälligste Muster ist
+kein Zahlenfehler, sondern eine **sinkende Namensdichte** — gestrichene
+Sprecherangaben, etwa in Kapitel 60 das gelöschte *"Georgij said it without
+any weight on it."* Das ist genau der Boden, auf dem die Klasse **falscher
+Sprecher** wächst.
+
+---
+
 ## Was ein Streifzug nicht kann
 
 Er findet **Instanzen einer bekannten Klasse**. Er findet **nie eine neue
@@ -138,6 +169,7 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 | `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
 | `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
+| `werkzeug/faktenspur.py` | was ein Stildurchgang an Zahlen, Daten und Namen bewegt hat; `--seit <sha>` gegen den Stand vor dem Durchgang | **ja**, drei Proben, darunter eine reine Stiländerung, die schweigen muss |
 | `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
