@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.436 Woerter.
+Book One, 34 Kapitel, 101.410 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -37,8 +37,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 24 | v1.7 | 2.664 |
 | 25 | v1.6 | 2.555 |
 | 26 | v1.7 | 2.425 |
-| 27 | v3.6 | 3.142 |
-| 28 | v1.7 | 2.722 |
+| 27 | v3.7 | 3.120 |
+| 28 | v1.8 | 2.718 |
 | 29 | v1.5 | 1.992 |
 | 30 | v1.11 | 3.555 |
 | 31 | v1.8 | 3.262 |
@@ -7591,7 +7591,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.6 · EN
+*Lot Fourteen* · Version 3.7 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7903,12 +7903,10 @@ She pulled the folder across the table at last and opened it and read the first 
 
 "No," said Georgij. "He is going to argue with you for a fortnight and get about six per cent of it. Then he is going to tell people for the rest of his life that a woman took him apart over floor space at Incheon."
 
-Nobody in it was going to owe anybody anything afterwards, which is not how the rest of the year has gone.
-
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -8038,7 +8036,7 @@ Georgij looked at the card for a moment.
 
 "No, it is not." Hana had gone back to the stack. "It is the first time you have noticed."
 
-She had told him that people have been covering for him all year, and she had put it where it would sting.
+He has been counting what everything costs since October, and she had just told him he has been counting one side of it.
 
 * * *
 
@@ -8084,7 +8082,7 @@ Hana looked at him for a long moment.
 
 "No."
 
-He had told a woman a thing he has never told anybody, and she had answered by counting it.
+He had given her two things and called it one, and she counted them.
 
 "You are going to be the most solvent person in that room on Tuesday night," he said, "and none of them are going to know it, and you and I are going to be the only two people there who do."
 

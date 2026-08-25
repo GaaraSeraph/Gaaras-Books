@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.626 Woerter.
+Book Two, 68 Kapitel, 168.612 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -22,7 +22,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 09 | v2.4 | 2.549 |
 | 10 | v2.2 | 2.218 |
 | 11 | v2.4 | 2.525 |
-| 12 | v1.6 | 2.941 |
+| 12 | v1.7 | 2.945 |
 | 13 | v1.4 | 2.184 |
 | 14 | v1.4 | 2.416 |
 | 15 | v1.2 | 2.018 |
@@ -38,11 +38,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.2 | 2.128 |
 | 26 | v1.3 | 2.029 |
 | 27 | v1.4 | 2.035 |
-| 28 | v1.3 | 2.492 |
-| 29 | v1.5 | 2.664 |
+| 28 | v1.4 | 2.484 |
+| 29 | v1.6 | 2.658 |
 | 30 | v1.2 | 2.079 |
 | 31 | v1.1 | 2.356 |
-| 32 | v1.1 | 2.420 |
+| 32 | v1.2 | 2.417 |
 | 33 | v1.3 | 2.037 |
 | 34 | v1.3 | 2.260 |
 | 35 | v2.7 | 3.966 |
@@ -50,7 +50,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 37 | v2.3 | 3.914 |
 | 38 | v2.4 | 2.977 |
 | 39 | v2.3 | 2.943 |
-| 40 | v2.4 | 2.841 |
+| 40 | v2.5 | 2.831 |
 | 41 | v2.3 | 3.902 |
 | 42 | v2.4 | 3.414 |
 | 43 | v2.0 | 2.816 |
@@ -60,7 +60,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 47 | v1.2 | 1.918 |
 | 48 | v1.1 | 2.354 |
 | 49 | v1.2 | 2.081 |
-| 50 | v2.3 | 2.984 |
+| 50 | v2.4 | 2.989 |
 | 51 | v1.2 | 2.148 |
 | 52 | v1.3 | 3.160 |
 | 53 | v1.3 | 2.548 |
@@ -72,10 +72,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 59 | v1.3 | 2.239 |
 | 60 | v1.2 | 2.488 |
 | 61 | v1.3 | 2.395 |
-| 62 | v1.4 | 2.173 |
+| 62 | v1.5 | 2.164 |
 | 63 | v1.4 | 2.193 |
-| 64 | v1.3 | 2.310 |
-| 65 | v1.3 | 2.182 |
+| 64 | v1.4 | 2.313 |
+| 65 | v1.4 | 2.192 |
 | 66 | v1.2 | 2.123 |
 | 67 | v1.2 | 2.568 |
 | 68 | v1.1 | 2.504 |
@@ -2458,7 +2458,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -2534,7 +2534,7 @@ Annie sat back very slowly.
 
 Nobody said anything for a while after that.
 
-It was the nearest thing to a complaint he had ever made in that room, and it was not about being a weapon.
+In March he told her that his one asset is that other men want him. Three weeks later he told her whose hand he wants on it.
 
 Annie stood up and went round the desk and stood in front of him, which she does not do, and looked at him for a long time in a way that had nothing sentimental in it at all.
 
@@ -5656,7 +5656,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 28: He keeps everything
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5736,7 +5736,7 @@ Mr Hwang turned back to the table and moved the box file about an inch to the le
 
 The room was very cold.
 
-She had bought the book herself and carried it up three floors to the one man in that building who would have known what it was.
+She had bought the book herself and carried it up three floors to the man who keeps everything.
 
 "Of what," said Georgij.
 
@@ -5889,7 +5889,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6097,7 +6097,7 @@ She pushed the book about two inches across the table towards him and took her h
 
 "Not to keep," she said. "Copy it and bring it back. I have had it for twenty-three years and I would like it in this flat."
 
-She had given him everything in it and kept the object, which is the only part of it that was ever hers.
+She had given him everything in it and kept the book, which she had bought herself.
 
 "I will bring it back on Tuesday."
 
@@ -6606,7 +6606,7 @@ Mr Ku looked at his empty hands in the mirror and pulled out.
 ---
 
 # Book Two · Chapter 32: Where the name goes
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Forty-Two · Tuesday 2 June
 
@@ -6728,7 +6728,7 @@ Mrs Jeon looked at the wall for a while.
 
 "She has been right about me for eight months."
 
-It is the only thing he said all morning that he had not decided on the bus.
+She had not asked him anything about himself, and he answered as though she had.
 
 "And how do you find that."
 
@@ -6826,7 +6826,7 @@ Mrs Jeon did not answer for a while.
 
 "Then it will exist and I will write it," she said, "and he does not get to have it."
 
-She had given him the thing he asked for and kept back the only part of it that would have helped him.
+She granted it exactly as he had asked for it, and took it out of his hands in the same sentence.
 
 She got up and took the two glasses to the sink.
 
@@ -8588,7 +8588,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 40: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8678,7 +8678,7 @@ Nobody in the room said anything for a while.
 
 "It is both," said Jang. "In this kind of work it is almost always both. The second of the two buildings is still standing, and I take the long way past it."
 
-It is the only thing he said all morning that was about himself, and he put it on the end of a sentence about a road.
+He had been asked about a scale and had answered with a building he still walks the long way round.
 
 Annie looked at the map on the desk without touching it.
 
@@ -8688,7 +8688,7 @@ Annie looked at the map on the desk without touching it.
 
 "I know you were not. I am saying it so that Georgij hears me say it to you and not only to him." She looked at Georgij directly. "The next step is not a road. It is a name on a registry, and that is Sang-hoon's road to walk, not ours, because he has people who can walk it without either of your faces attached to it."
 
-She had said no to Georgij in front of the man who would have had to carry it out, which is a different refusal from the one on a landing.
+She had refused him in front of the man who would have had to carry it out, and she said so while she was doing it.
 
 Georgij did not argue with that, though it cost him something not to.
 
@@ -10470,7 +10470,7 @@ And underneath, because he had promised himself in June that the page would hold
 ---
 
 # Book Two · Chapter 50: The one he kept
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.4 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
 
@@ -10660,7 +10660,7 @@ He took about ninety seconds, and when he came back he came back all at once, wh
 
 "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Baek had gone entirely grey around the mouth. "Somebody has been having me pay the rates on a flat belonging to a person who was bought, so that the person would go on existing on paper."
 
-A solicitor got to it in ninety seconds out of one page and a utility bill, and it had taken Georgij five months.
+A solicitor of thirty years got there out of one page and a utility bill, and he got there before the man who had brought him the page.
 
 "I do not know that yet," said Georgij, "and I am not going to let you have it as a fact from me when it is a reading. I have two documents and a quantity of groceries."
 
@@ -13016,7 +13016,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13194,7 +13194,7 @@ Georgij stayed where he was.
 
 "A man who nobody will come to dinner with," said Georgij.
 
-It is the only thing anybody has found that will work on him, and it is made out of the one thing he cannot do while he is working.
+He had been asked what a man is and had answered with what is going to be done to him.
 
 She came away from the window and stopped about a metre from him, which is where she stopped in June.
 
@@ -13440,7 +13440,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 ---
 
 # Book Two · Chapter 64: The one who orders
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
 
@@ -13656,12 +13656,12 @@ Georgij put one hand flat on the arm of the chair.
 
 "I said I would telephone on the fourteenth of September, because that is when a man telephones about a roof." Sim was entirely level. "And then I said that if the weather turned before that, I would telephone sooner."
 
-It is the only promise anybody has made her in four years, and it is about a roof.
+It is the answer to the first question she has asked him in four years, and it is about a roof.
 
 ---
 
 # Book Two · Chapter 65: No story at all
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Thirty-Three · Tuesday 1 September
 
@@ -13831,7 +13831,7 @@ Georgij stopped.
 
 "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand flat on the arm of the chair. "But I have thought a great deal about a man who tells an old woman the truth about himself in order to be allowed to tell her a worse truth about her own affairs. I have decided what I think. Whoever owns you does not."
 
-It is the only sentence anybody has said to him this year that he is not allowed to agree with.
+In March she told him she had never in her life told anybody anything the whole way through. She had just done it, and she had done it to him.
 
 He got out of that house and into the car before he opened the folder, and then he did not open it for another two minutes.
 
