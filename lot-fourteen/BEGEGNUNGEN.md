@@ -29,9 +29,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Mr Yeo | 55 | 9 (b1ch05-b2ch55) | 5 | 46 |
 | Mr Yeom | 51 | 7 (b2ch24-b2ch55) | 5 | 46 |
+| Mrs Sunwoo | 47 | 16 (b1ch07-b2ch65) | 1 | 60 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
-| Mrs Sunwoo | 35 | 15 (b1ch07-b2ch55) | 1 | 60 |
 | Mr Ahn | 33 | 3 (b2ch56-b2ch63) | 18 | 29 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -2891,6 +2891,88 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Sunwoo
+
+47 Nennungen in 16 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:32 | "Sunwoo," said Annie. |
+| 9 | b2ch09:212 | "Sunwoo." |
+| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
+| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
+| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
+| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
+| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
+| 16 | b2ch55:68 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
+| 36 | b2ch65:10 | "Five months," said Mrs Sunwoo. |
+| 36 | b2ch65:34 | Mrs Sunwoo did not move at all. |
+| 36 | b2ch65:54 | "Then say the part you came for," said Mrs Sunwoo. |
+| 36 | b2ch65:78 | Mrs Sunwoo sat with that for a while. |
+| 36 | b2ch65:102 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
+| 36 | b2ch65:134 | "Now my turn," said Mrs Sunwoo. |
+| 36 | b2ch65:170 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
+| 36 | b2ch65:206 | "There was no story," said Mrs Sunwoo. |
+| 36 | b2ch65:234 | "All four, and two of them were women who have never changed a subject in their lives." .. |
+| 36 | b2ch65:262 | "To whom." Mrs Sunwoo said it without any self-pity. "I am a woman who buys porcelain. I.. |
+| 36 | b2ch65:294 | Mrs Sunwoo looked at him for a long moment. |
+| 36 | b2ch65:330 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch09:214` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:82` (Tag 3) - one
+- `b2ch10:100` (Tag 3) - forty-one
+- `b2ch10:186` (Tag 3) - one
+- `b2ch10:274` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+- `b2ch16:12` (Tag 6) - twenty
+- `b2ch19:32` (Tag 11) - three
+- `b2ch20:34` (Tag 11) - three
+- `b2ch22:60` (Tag 17) - one
+- `b2ch22:114` (Tag 17) - four, one
+- `b2ch22:150` (Tag 17) - eleven
+- `b2ch22:292` (Tag 17) - eighty-one, one, three
+- `b2ch23:84` (Tag 24) - three
+- `b2ch23:122` (Tag 24) - four, two
+- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
+- `b2ch55:68` (Tag 16) - forty
+- `b2ch65:10` (Tag 36) - five
+- `b2ch65:234` (Tag 36) - forty-one, four, one, two
+
+---
+
 ## Kim Ye-rin
 
 44 Nennungen in 11 Kapiteln.
@@ -3034,74 +3116,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:234` (Tag 38) - one, three
 - `b2ch26:294` (Tag 38) - three
 - `b2ch36:12` (Tag 51) - four, one
-
----
-
-## Mrs Sunwoo
-
-35 Nennungen in 15 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:32 | "Sunwoo," said Annie. |
-| 9 | b2ch09:212 | "Sunwoo." |
-| 9 | b2ch09:214 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:288 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:72 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:82 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:100 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:116 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:140 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:186 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:222 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:274 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
-| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
-| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 11 | b2ch20:34 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 17 | b2ch22:60 | "One of them was Mrs Sunwoo." |
-| 17 | b2ch22:114 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 17 | b2ch22:150 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 17 | b2ch22:292 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
-| 24 | b2ch23:34 | Mrs Sunwoo sat very still. |
-| 24 | b2ch23:66 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
-| 24 | b2ch23:84 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
-| 24 | b2ch23:104 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
-| 24 | b2ch23:122 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
-| 38 | b2ch26:206 | Woo. Sunwoo. Choi Dae-ho. |
-| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
-| 16 | b2ch55:68 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch09:214` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:82` (Tag 3) - one
-- `b2ch10:100` (Tag 3) - forty-one
-- `b2ch10:186` (Tag 3) - one
-- `b2ch10:274` (Tag 3) - one
-- `b2ch15:38` (Tag 4) - one
-- `b2ch16:12` (Tag 6) - twenty
-- `b2ch19:32` (Tag 11) - three
-- `b2ch20:34` (Tag 11) - three
-- `b2ch22:60` (Tag 17) - one
-- `b2ch22:114` (Tag 17) - four, one
-- `b2ch22:150` (Tag 17) - eleven
-- `b2ch22:292` (Tag 17) - eighty-one, one, three
-- `b2ch23:84` (Tag 24) - three
-- `b2ch23:122` (Tag 24) - four, two
-- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
-- `b2ch55:68` (Tag 16) - forty
 
 ---
 

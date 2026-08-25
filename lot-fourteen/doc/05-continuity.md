@@ -2807,6 +2807,39 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     er steht.**
 
 
+- **Band 2, Kapitel 65** *No story at all* (v1.0) - **Tag 333, Di 1. September. Mrs Sunwoo, nach fuenf Monaten.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Er kommt, um sie zu warnen, und will nichts.** Die Klausel elf wirkt fuer
+    jeden, der sie liest, also auch gegen ihre eigene gestrichene Zeile. Und sie
+    hoert auf zu wirken, sobald die Dauerreihe an ein Archiv geht: *"after that it
+    is not a house any more, it is a box."* Damit hat auch sie ein Fenster.
+  - Sein Rat ist genau der Zug, den er selbst gemacht hat: **nicht** um Loeschung
+    bitten, sondern um ein Auskunftsblatt, und es aus dem Gebaeude schaffen.
+  - **Sie hat seit der letzten Maerzwoche eine Mappe neben ihrem Sessel** und
+    viermal nicht hergegeben, weil sie nicht wusste, was sie wert ist. Sie gibt
+    sie erst, nachdem er gesagt hat, wonach er sucht - **er fragt ungeschuetzt,
+    weil man nicht gleichzeitig bitten und vorsichtig sein kann.**
+  - **DER FUND, und er ist der wichtigste seit dem zehnten Teller:** Mrs Sunwoo
+    war zu der Hochzeit vor elf Jahren eingeladen und hat sich etwas dafuer
+    gekauft. Und danach gab es **keine Geschichte**. Nicht die falsche, nicht die
+    grausame - gar keine. Sie hat im ersten Monat vier Leute gefragt, und alle
+    vier haben das Thema gewechselt, zwei davon Frauen, die das nie tun.
+    **In einundvierzig Jahren hat sie ein solches Schweigen einmal erlebt.**
+  - Georgijs Auslegung, und sie steht im Text: das ist keine fehlende Information,
+    sondern **eine Arbeit**. Jemand ist im ersten Monat zu vier Leuten gegangen
+    und hat es elf Jahre gehalten, und keiner der vier hat je verglichen, weil es
+    nichts zu vergleichen gab.
+  - **Ihre einzige Bedingung:** er kommt wieder und sagt ihr, was passiert ist,
+    und zwar die ganze Fassung und nicht die bequeme. Er sagt zu, und sie wirft
+    ihm vor, zu schnell zugesagt zu haben, und er erklaert warum.
+  - **Und der Satz zum Schluss, ungefragt:** *"Whoever owns you does not."*
+  - **Neuer Kanon:** die Familie der Frau am Sauerstoff hat jetzt einen
+    Familiennamen - **auf drei Seiten in Mrs Sunwoos Handschrift, und der Name
+    steht noch nicht im Text**, weil das Kapitel auf der ersten Seite endet.
+    **Er muss in Kapitel 66 oder 67 fallen.**
+
+
 ---
 
 ## Der Juli ist betreten
