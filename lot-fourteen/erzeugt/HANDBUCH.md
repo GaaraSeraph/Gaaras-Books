@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 257.023 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 257.725 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -193,7 +193,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ahn Jung-hee - NOCH KEIN DIREKTES ZITAT, und das ist die wichtigste offene Frage](#ahn-jung-hee-noch-kein-direktes-zitat-und-das-ist-die-wichtigste-offene-frage)
   - [Mrs Ha (dreissig Jahre Blumen und Waesche in Saele, Kapitel 67)](#mrs-ha-dreissig-jahre-blumen-und-waesche-in-saele-kapitel-67)
   - [Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)](#zivilisten-die-gie-erin-nachbarn-ladenpersonal)
-  - [Park Sang-hoon (101 Repliken, 26 Kapitel)](#park-sang-hoon-101-repliken-26-kapitel)
+  - [Park Sang-hoon (116 Repliken in 15 Kapiteln)](#park-sang-hoon-116-repliken-in-15-kapiteln)
   - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
   - [Kim Ye-rin (17 Repliken im Index - tatsächlich über fünfzig allein in b1 K30)](#kim-ye-rin-17-repliken-im-index-tats-chlich-ber-f-nfzig-allein-in-b1-k30)
   - [Mr Chae (b1 K25 und b1 K34)](#mr-chae-b1-k25-und-b1-k34)
@@ -12828,9 +12828,26 @@ zweites Mal so schreibt, nimmt der ersten alles.
 Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende
 jedes Treffens ungefragt etwas her - **und der Erzähler sagt es selbst**:
 *"Woo did the thing he has done **every time since October**"* (b2 K61). Hier
-stand *"dreimal belegt"*. Schüttelt keine Hände. Verweigert Dank: *"**Don't**
-thank me. I have not given you a name."* (hier stand *"Do not"*; er zieht an
-dieser Stelle zusammen, und es ist eine seiner zwei Kontraktionen im Buch).
+stand *"dreimal belegt"*. Schüttelt keine Hände. Verweigert Dank.
+
+**Diese Zeile steht zweimal im Buch, als Echo über die Bandgrenze, und sie ist
+nicht identisch:**
+
+| | |
+|---|---|
+| b1 K13 | *"Thank you, Chairman." / "**Don't** thank me. I have not given you a name."* |
+| b2 K57 | *"Thank you, Chairman." / "**Do not** thank me. I have not given you a name."* |
+
+Gleicher Stichsatz, gleiche Antwort, **eine Kontraktion Unterschied**. Ob das
+Absicht ist, entscheidet der Autor - es ist ein wiederholter Satz und keine
+Marotte. **Bis dahin wird an keiner der beiden Stellen etwas geändert.**
+
+*(Hier stand ausserdem "eine seiner **zwei** Kontraktionen im Buch". Es sind
+**drei**, und alle drei stehen in b1 K13: "Don't thank me", "Somebody deciding
+**you're** worth the trouble", "After that **it's** paperwork." `stimmen.py`
+sieht die erste nicht, weil sie ohne Begleitsatz dasteht. **b1 K13 ist sein
+einziges Kapitel mit Kontraktionen** - in b2 K57 zieht er kein einziges Mal
+zusammen.)*
 
 **Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
 keiner ist.**
@@ -12861,6 +12878,31 @@ Stellen, beide ersetzt durch seine eigene Bewegung, die Korrektur der Prämisse:
 
 Der zweite ersetzt zugleich den selbstkommentierenden which-Satz durch das,
 was Woo statt einer Erklärung hat: **eine Regel des Gewerbes, flach hingelegt.**
+
+**Eine Negativdefinition steht noch da, und sie muss stehen bleiben.** b2 K57
+misst 0,9 - das sieht aus wie ein Rückfall und ist das Gegenteil:
+
+> *"He asked me who I would telephone if it went badly." **Woo said it exactly,
+> in the way of a man repeating something he has repeated to himself.** "Not who
+> I had told. Not who knew. Who I would telephone."*
+
+**Das ist nicht Woos Figur, das ist Choi Dae-hos Frage in Woos Mund**, und der
+Erzähler sagt im Begleitsatz ausdrücklich, dass sie wiederholt wird. Sie ist
+seit dreiundzwanzig Jahren wörtlich in ihm. **Wer die Regel "Negativdefinition
+gehört ihm nicht" mechanisch anwendet, löscht die Frage, an der der halbe Fall
+hängt.** Siehe *Choi Dae-ho*: es ist die einzige belegte Frage von ihm, die
+nicht nach einem Geschäft fragt, sondern nach einer Verbindung.
+
+**Und in demselben Kapitel steht seine einzige Selbstdiagnose** - gemessen 1,7,
+und auch sie ist keine Marotte, sondern der Grund, warum es das Kapitel gibt:
+
+> *"I have believed for twenty-three years that one of those three men paid
+> somebody for me. **I have never been able to work out which, and I have never
+> been able to ask.**"*
+
+**Beides zusammen macht b2 K57 zu seiner Ausnahme im Buch:** das eine Kapitel,
+in dem er nicht die Prämisse korrigiert, sondern zugibt, dass er eine Frage
+dreiundzwanzig Jahre lang nicht gestellt hat.
 
 **Hana und Ye-rin brauchten am Text nichts.** Beider Blätter stehen bereits im
 Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung. *(Hier stand
@@ -13695,7 +13737,7 @@ die nicht im Gewerbe sind, und das muss man hören.**
 
 ---
 
-### Park Sang-hoon (101 Repliken, 26 Kapitel)
+### Park Sang-hoon (116 Repliken in 15 Kapiteln)
 
 **Die größte Lücke im Register bis zum 25.08.** Er redet mehr als Woo und hatte
 kein Blatt.
@@ -13713,7 +13755,24 @@ man ihm.
 Kapitel 26 zählt er vier Entscheidungen auf, die er an Chois Tischen getroffen
 und nie erklären konnte, und er tut es unaufgefordert.
 
-**Verboten:** die Und-Kette. Er baut kurz und schlägt zu.
+**Hier stand *"Verboten: die Und-Kette. Er baut kurz und schlägt zu."* Das ist
+falsch, und dieses Blatt widerspricht sich damit selbst** - weiter unten steht
+*"Er darf: die Und-Kette, die Negativ-Definition - er sortiert damit Beweise wie
+ein Prüfer."* **Der Text gibt der zweiten Fassung recht.** Er hat im ganzen Buch
+genau zwei Und-Ketten, und beide tun **dasselbe**: drei Sachen aufzählen und
+dann den Augenblick datieren, in dem sie zusammenkamen.
+
+> b2 K42: *"He ate, and he complimented something, and he left before the
+> coffee, **and I have never once put those three facts in a row until this
+> minute**."*
+> b2 K45: *"I had not been in years and I had no reason to go, and I told him so,
+> and he thanked me and put his hat on and left, **and I have never once**…"*
+
+**Die Und-Kette ist bei ihm kein Redefluss, sondern das Sortieren von Beweisen,
+und sie endet immer auf der Erkenntnis.** Ein Durchgang nach der alten Regel
+hätte beide gestrichen - und damit die zwei Stellen, an denen der Mann merkt,
+was er acht Jahre lang nicht gesehen hat. **Er baut kurz, ausser wenn er
+sortiert.**
 
 **Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
 
@@ -13745,9 +13804,25 @@ nachgeprüft am 25.08.)*
 three facts in a row until this minute."* · *"I notice that neither did you, and
 neither of us is going to pretend that is nothing."*
 
-**Und er protokolliert.** *"I would like it on the record that I gave you the
-chance."* Zweimal. Das ist seine Form von Fairness: Er macht die Gelegenheit
-aktenkundig, statt großzügig zu sein.
+**Und er protokolliert.** Zweimal, in b2 K26 und b2 K42. Das ist seine Form von
+Fairness: Er macht die Gelegenheit aktenkundig, statt großzügig zu sein.
+
+> b2 K26: *"You did not ask and you were not going to ask, and I have watched you
+> not ask for four minutes. **I would like it on the record that I gave it to you
+> and that you did not.**"*
+
+*(Hier stand als Zitat: "I would like it on the record that I gave you the
+chance." **Diesen Satz gibt es nicht** - er ist eine Zusammenfassung, die als
+Zitat gesetzt war. Die echte Zeile ist härter, weil sie die Ablehnung
+mitprotokolliert.)*
+
+**Achtung, zweite Kollision - und es ist dieselbe wie bei der Benotung.** Die
+Formel gehört ihm nicht allein: **Georgij benutzt sie ebenfalls zweimal**, beide
+Male gegenüber Annie - b2 K40 *"I would like it on the record that I noticed you
+did not ask"* und b2 K41 *"…that the slow half of this week was the half that
+worked."* **Die Trennung liegt im Gegenstand:** Sang-hoon protokolliert eine
+**Gelegenheit, die er gegeben hat**; Georgij protokolliert **sein eigenes
+Bemerken**. Nie beide in derselben Szene.
 
 **Das Anliegen.** Er hat acht Jahre an Chois Tisch gesessen und **eine einzige
 Frage nie gestellt.** Was er will, ist nicht der Fall - es ist herauszufinden,
