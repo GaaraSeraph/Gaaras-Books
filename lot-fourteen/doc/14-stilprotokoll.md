@@ -1258,3 +1258,34 @@ Deckname, *Moon Hae-sook* die Frau am Fenster.
 Band 2 steht inzwischen bei **K74**. In K69 bis K74 sprechen Ahn, Mrs Jeon,
 Mr Kwon und Sim - **alle vier haben ein Blatt. Kein neuer Sprecher ohne
 Eintrag.**
+
+---
+
+### Min-ho und Mrs Ryu gegengelesen: drei Fehler, und einer verdeckte den Beat
+
+**Min-ho, geprueft ueber alle zehn Fundstellen** (b1 K09, K11, K12, K15).
+**Null Zitate bestaetigt** - in keiner einzigen steht ein Wort von ihm in
+Anfuehrungszeichen.
+
+| stand da | Befund |
+|---|---|
+| das Zitat endete bei *"it cost him nothing to agree."* | **Der Satz geht weiter und endet besser:** *"…and he did not repeat it."* Ein Maechtiger, der einmal zustimmt und es nicht wiederholt |
+| *"ein Mann, dessen Anwesenheit ein Kapitel traegt"* | **Zu gross.** Er traegt **vier Minuten** eines Kapitels, das Hana gehoert. Was zaehlt: die vier Minuten wirken in drei Kapiteln nach - b1 K15 zweimal, *"you were standing at my elbow being enchanting at a minister"* - **ohne dass er je zitiert wird** |
+
+**Mrs Ryu: eine einzige Fundstelle im ganzen Buch**, b1 K07 Z166. Der Eintrag
+sagte, sie antworte in indirekter Rede. **Das stimmt und es ist nicht der
+Punkt** - und der Punkt stand zwei Zeilen weiter, ungelesen:
+
+> *"Her face did not change very much. But **she talked to him for six minutes,
+> and she was not a woman who gave six minutes**."*
+
+**Ihre Figur ist eine Dauer.** Der ganze Wortwechsel wird zusammengefasst statt
+zitiert, und das Ergebnis steht als **Zahl** da und nicht als Satz. Wer ihr eine
+Replik gibt, muss die sechs Minuten aufgeben, und die sechs Minuten sind das
+Einzige, was sie ist.
+
+**Die Lehre, und sie gilt fuer alle drei Stummen:** bei einer Figur ohne Replik
+steht ihr Blatt nicht in dem, was sie sagt, sondern in dem, was der Erzaehler
+ueber sie **misst** - zwei Fragen, vier Minuten, sechs Minuten. **Wer nur nach
+Anfuehrungszeichen sucht, findet bei ihnen nichts und schreibt deshalb nichts
+auf.**

@@ -2115,26 +2115,46 @@ sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
 
 ### Und er ist nicht der einzige Stumme
 
-**Minister Min-ho, b1 K09: null Zitate, und der Erzähler sagt ausdrücklich, dass
-das die Figur ist.**
+**Minister Min-ho: null Zitate im ganzen Buch.** Gegengelesen am 25.08. über
+alle Fundstellen - zehn, in b1 K09, K11, K12 und K15 -, und in keiner einzigen
+steht ein Wort von ihm in Anführungszeichen.
+
+**Der Erzähler sagt ausdrücklich, dass das die Figur ist**, und der Satz endet
+besser, als ich ihn zuerst zitiert habe:
 
 > *"Min-ho **said almost nothing**. He asked two questions, both short, both
 > about other people. He agreed with a thing somebody said and it cost him
-> nothing to agree."*
+> nothing to agree **and he did not repeat it**."*
 
-**Die zwei Fragen werden genannt und nicht wiedergegeben.** Vier Minuten auf
-einer Terrasse, *"the most useful four minutes of the night, and not one second
-of it was about the minister"* - und wir hören ihn kein einziges Mal.
+**Die zwei Fragen werden gezählt und nicht wiedergegeben.** *"Four minutes on
+the terrace, and it was the most useful four minutes of the night, **and not one
+second of it was about the minister**."*
+
+*(Hier stand "ein Mann, dessen Anwesenheit ein Kapitel trägt". Zu gross: er
+trägt **vier Minuten** eines Kapitels, das Hana gehört. Was tatsächlich zählt,
+ist, dass die vier Minuten in drei Kapiteln nachwirken - b1 K15 zweimal, aus
+Hanas Mund: *"you were standing at my elbow being enchanting at a minister"* -
+**ohne dass er je zitiert wird.**)*
 
 **Wer ihm eine Replik gibt, macht aus einer Machtdemonstration eine
-Nebenrolle.** Ein Mann, dessen Anwesenheit ein Kapitel trägt, ohne dass ein
-Wort von ihm zitiert wird, ist stärker als jede Zeile, die man ihm schreiben
-könnte. Dasselbe Mittel wie bei Choi Dae-ho, nur über vier Minuten statt über
-hundert Kapitel.
+Nebenrolle.** Dasselbe Mittel wie bei Choi Dae-ho, nur über vier Minuten statt
+über hundert Kapitel.
 
-**Mrs Ryu (b1 K07)** ist der dritte Fall und der leiseste: sie antwortet, aber
-nur in indirekter Rede - *"He asked Mrs Ryu about the arbitration … **She said**
-that…"* Auch das bleibt so.
+**Mrs Ryu: eine einzige Stelle im ganzen Buch**, b1 K07, und sie ist die
+leiseste der drei.
+
+> *"He asked Mrs Ryu about the arbitration. He asked her whether she had
+> actually walked out of the room in Singapore … **She said that she had.**"*
+> *"Her face did not change very much. But **she talked to him for six minutes,
+> and she was not a woman who gave six minutes**."*
+
+*(Hier stand nur "sie antwortet in indirekter Rede". Das ist richtig und es ist
+nicht der Punkt. **Ihre Figur ist eine Dauer:** sechs Minuten von einer Frau,
+die keine sechs Minuten gibt. Der ganze Wortwechsel wird zusammengefasst und
+nicht zitiert, und das Ergebnis steht als **Zahl** da, nicht als Satz.)*
+
+**Sie bleibt so.** Wer ihr eine Replik gibt, muss die sechs Minuten aufgeben -
+und die sechs Minuten sind das Einzige, was sie ist.
 
 ### Wer nur genannt wird und nie spricht
 
