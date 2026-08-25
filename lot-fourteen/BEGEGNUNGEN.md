@@ -18,12 +18,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 718 | 79 (b1ch01-b2ch61) | 1 | 74 |
+| Annie | 732 | 80 (b1ch01-b2ch62) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 209 | 33 (b1ch07-b2ch61) | 1 | 74 |
-| Hana | 165 | 19 (b1ch09-b2ch38) | 1 | 74 |
+| Chairman Woo | 215 | 34 (b1ch07-b2ch62) | 1 | 74 |
+| Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 137 | 32 (b1ch05-b2ch58) | 2 | 60 |
-| Mrs Seo | 88 | 39 (b1ch03-b2ch61) | 1 | 74 |
+| Mrs Seo | 90 | 40 (b1ch03-b2ch62) | 1 | 74 |
 | Mr Hwang | 71 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Mrs Jeon | 57 | 16 (b2ch06-b2ch44) | 2 | 59 |
 | Mr Yeo | 55 | 9 (b1ch05-b2ch55) | 5 | 46 |
@@ -38,7 +38,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 29 | 20 (b1ch05-b2ch51) | 3 | 60 |
 | Mr Kwon | 29 | 5 (b2ch14-b2ch24) | 4 | 26 |
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
-| Choi Dae-ho | 24 | 14 (b1ch07-b2ch61) | 2 | 61 |
+| Choi Dae-ho | 25 | 15 (b1ch07-b2ch62) | 2 | 61 |
 | Mrs Ryu | 22 | 5 (b1ch07-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
@@ -58,7 +58,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-718 Nennungen in 79 Kapiteln.
+732 Nennungen in 80 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -780,6 +780,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | b2ch60:320 | Annie looked at him. |
 | 27 | b2ch61:30 | Annie met him at the foot of the stairs and did not come further than that. |
 | 27 | b2ch61:42 | Annie looked at him for a moment. |
+| 27 | b2ch62:30 | Annie was at the desk with nothing in front of her at all, which he has seen twice. |
+| 27 | b2ch62:50 | "Say what he told you," said Annie. |
+| 27 | b2ch62:78 | Annie did not move at all. |
+| 27 | b2ch62:122 | Annie sat with that. |
+| 27 | b2ch62:154 | Annie almost smiled at that, and it did not get anywhere near her face. |
+| 27 | b2ch62:174 | "I did not understand what he was until I was thirty," said Annie, "and what I understoo.. |
+| 27 | b2ch62:190 | "They did not ask because my father had brought him, and nobody in that house ever asked.. |
+| 27 | b2ch62:206 | Annie did not answer for a while. |
+| 27 | b2ch62:222 | Annie did not pretend not to know what he meant. |
+| 27 | b2ch62:242 | Annie held his eye for a long moment. |
+| 27 | b2ch62:278 | Annie looked at him. |
+| 27 | b2ch62:294 | Annie got up and went to the window, and stood with her back to the room. |
+| 27 | b2ch62:314 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
+| 27 | b2ch62:366 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -981,6 +995,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch60:144` (Tag 25) - seven
 - `b2ch60:156` (Tag 25) - eleven, three
 - `b2ch60:192` (Tag 25) - eleven, four
+- `b2ch62:174` (Tag 27) - thirty
+- `b2ch62:190` (Tag 27) - four hundred, thirty, two
+- `b2ch62:314` (Tag 27) - one
 
 ---
 
@@ -1397,7 +1414,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-209 Nennungen in 33 Kapiteln.
+215 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1610,6 +1627,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:330 | At the door, in the hall, with the car already turned round, Woo did the thing he has do.. |
 | 27 | b2ch61:342 | "Two thousand and two is twenty-three years ago and she was fourteen." Woo had one hand .. |
 | 27 | b2ch61:362 | "No," said Woo. "I do not think she has either. And I would like you to consider, before.. |
+| 27 | b2ch62:14 | *Woo said I have until she asks. He also said I may not be the one telling her anything... |
+| 27 | b2ch62:66 | He gave it to her the way Woo had given it to him. The clerk of seventy-four and the she.. |
+| 27 | b2ch62:98 | "How much of that is Woo," she said. |
+| 27 | b2ch62:102 | "He divided it himself, without being asked, and he divided it three ways." Georgij did .. |
+| 27 | b2ch62:118 | "Your father told him he had spent forty years being right about people in four seconds .. |
+| 27 | b2ch62:198 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -1736,12 +1759,17 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch61:318` (Tag 27) - fourteen
 - `b2ch61:342` (Tag 27) - fourteen, one, thirty, twenty-three, two thousand and two
 - `b2ch61:362` (Tag 27) - one
+- `b2ch62:14` (Tag 27) - one, two
+- `b2ch62:66` (Tag 27) - eleven, fifty, seventy-four, thirty-six, two thousand and two
+- `b2ch62:102` (Tag 27) - four, thirty-one, three
+- `b2ch62:118` (Tag 27) - forty, four, one, two thousand and two
+- `b2ch62:198` (Tag 27) - nineteen, one
 
 ---
 
 ## Hana
 
-165 Nennungen in 19 Kapiteln.
+167 Nennungen in 20 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1910,6 +1938,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:146 | "Three people outside this house have known since the autumn and none of them has ever s.. |
 | 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
+| 27 | b2ch62:198 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
+| 27 | b2ch62:298 | "I have been doing this since I was thirty-seven and I do not think I have ever been rea.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -1976,6 +2006,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:122` (Tag 56) - one
 - `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch38:230` (Tag 59) - one, three
+- `b2ch62:198` (Tag 27) - nineteen, one
+- `b2ch62:298` (Tag 27) - thirty-seven
 
 ---
 
@@ -2199,7 +2231,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-88 Nennungen in 39 Kapiteln.
+90 Nennungen in 40 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2291,6 +2323,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:10 | Mrs Seo had the door open before he was out of it. |
 | 27 | b2ch61:18 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 27 | b2ch61:46 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
+| 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
+| 27 | b2ch62:350 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -2346,6 +2380,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch60:332` (Tag 25) - nine
 - `b2ch61:18` (Tag 27) - nine, one
 - `b2ch61:46` (Tag 27) - seventy-eight
+- `b2ch62:18` (Tag 27) - six, ten
 
 ---
 
@@ -3364,7 +3399,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-24 Nennungen in 14 Kapiteln.
+25 Nennungen in 15 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3392,6 +3427,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | b2ch60:58 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
 | 25 | b2ch60:66 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
 | 27 | b2ch61:94 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
+| 27 | b2ch62:238 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
 
 ### Zahlen in der Naehe von Choi Dae-ho
 

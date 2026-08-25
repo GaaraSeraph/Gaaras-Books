@@ -184,6 +184,10 @@ down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
 entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
 (siehe `doc/10-naehe.md`).
 
+**Ihr Register bricht genau einmal, in Kapitel 62.** Sie erklaert dort sich
+selbst statt ihn, und es ist die einzige Stelle im ganzen Buch. Wer sie ein
+zweites Mal so schreibt, nimmt der ersten alles.
+
 ### Chairman Woo (78, seit 51 Jahren im Gewerbe)
 **Korrigiert die Prämisse, statt zu antworten.** Redet in Jahreszahlen und
 Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende

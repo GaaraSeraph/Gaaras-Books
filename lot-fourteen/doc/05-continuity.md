@@ -2720,6 +2720,42 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
+- **Band 2, Kapitel 62** *At thirty* (v1.0) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
+    Belegstaerke. Annie fragt nur: *"How much of that is Woo."*
+  - **Was sie mit dreissig verstanden hat, ist nicht, dass Choi gefaehrlich war.
+    Es ist, dass er angekommen ist** - dass er nicht immer da war, sondern in
+    einem bestimmten Fruehjahr kam, und dass nie jemand gefragt hat, wie.
+  - **Und daraus faellt der Grund fuer den ganzen Band:** sie hat es Georgij
+    gegeben, weil er der einzige Mensch in diesem Land ist, der herausfinden kann,
+    dass ihr Vater Choi ins Haus geholt hat, **und niemanden hat, dem er es sagen
+    koennte.** *"You were not investigating him. You were paying something."*
+  - Sie raeumt selbst ein, was sie ihm schuldet: fuenf Monate Feldzug mit drei
+    Vierteln des Grundes. Und **Georgij macht keinen Vorwurf daraus**, was sie
+    ausdruecklich zu Protokoll gibt.
+  - **Festgelegt:** Annie ist beim Endgespraech **nicht im Raum**. Begruendung im
+    Text und sie ist taktisch, nicht ruehrend.
+  - **Annies Register bricht hier zum ersten Mal.** Sie erklaert nicht ihn,
+    sondern sich - das einzige Mal im Buch. Siehe `doc/12-stimmen.md`.
+
+  **ZWEI ZAHLEN FUER DEN INHALTS-CHAT, beide beim Schreiben aufgefallen:**
+
+  1. **B1 Kapitel 30: *"I have known that since I was forty-one."*** Das macht
+     Annie mindestens einundvierzig. Sie war aber vierzehn, als Choi an den Tisch
+     kam, Choi ist neunundfuenfzig und war damals sechsunddreissig - **das ergibt
+     siebenunddreissig.** Und dasselbe Kapitel ist voll von *"forty-one per
+     cent"*. **Verdacht auf Zahlenkontamination aus dem Anteilssatz.** Nicht von
+     mir geaendert, Band 1 gehoert dem Pruefer.
+  2. **Wann ist Annies Vater gestorben?** B1 15 sagt *"She does the family money.
+     She has done it since the father died"* und *"not one of those six has voted
+     against her since 2009"*. Mit vierzehn fuehrt niemand Familienfinanzen, also
+     liegt der Tod **deutlich nach** dem Fruehjahr, in dem Choi kam. Ich hatte in
+     einer ersten Fassung September 2002 geschrieben und es wieder entfernt.
+     **Im Text steht jetzt kein Sterbedatum.**
+
+
 ---
 
 ## Der Juli ist betreten
