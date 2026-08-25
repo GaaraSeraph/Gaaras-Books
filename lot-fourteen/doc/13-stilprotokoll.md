@@ -421,3 +421,99 @@ gegen den Kalender geprueft gehoert. Und **Band 1 ist noch nicht angefasst** -
 dort ist die Erzaehlerdichte hoeher (13,4 gegen 12,4) und das duennste Kapitel
 liegt bei 4,0, also ist mit deutlich weniger zu rechnen als in Band 2.
 
+---
+
+### Durchgang Erzaehlerkommentare, Band 1 - Ausgangsstand `6c70e36`
+
+Dasselbe Verfahren, dieselbe Form. **Vier von vierunddreissig Kapiteln
+angefasst, sechs Saetze.** Das ist weniger als ein Fuenftel der Band-2-Quote,
+und der Grund steht in der Messung: Band 1 hat 13,4 Erzaehlerabsaetze je 1000
+Woerter gegen 12,4, und nur acht Kapitel liegen unter 9,5.
+
+**Ein Befund, der die Auswahl geaendert hat.** Elf Band-1-Kapitel enden auf
+einer Figurenzeile - in Band 2 waren es zwei, und dort war das eine Luecke. In
+Band 1 ist es **Absicht und es traegt**:
+
+> K01: *"Unless somebody buys him first."*
+> K05: *"I went back and watched you not do it nine times."*
+> K19: *"You have not got a house either. ... Then find somebody who has."*
+> K28: *"It is exactly the same, and it came out well. Go to bed, Georgij."*
+> K31: *"...one day it is going to get you into a room you should not be in."*
+
+**Hinter keinen davon gehoert ein Erzaehlerabsatz.** Ein Kapitel, das so endet,
+endet dort mit Absicht. Die Heuristik aus Band 5 ist hier also **kein
+Fehlersignal, sondern eine Stilangabe** - und sie steht hier, damit sie nicht in
+einem spaeteren Durchgang als Mangel gelesen wird.
+
+**Gepruefte und absichtlich nicht angefasste Kapitel:** K11 (6,6), K19 (8,5),
+K21 (9,2), K31 (9,4). K11 traegt bereits *"Georgij discovered that he would very
+much rather have been shouted at."*, K19 *"There is a difference between a man
+who is given a good reason and a man who finds one."*, K21 laendet auf vierzig
+Minuten Hausbegehung, K31 auf Woos Schlusszeile.
+
+**Die sechs Kommentare**
+
+| Kap | Eingesetzt |
+|---|---|
+| K15 | *"Two women had settled what he is, across a table, in the third person, and neither of them had asked him."* |
+| K27 | *"He owns nothing and can sign nothing, and for one afternoon that was the whole of his qualification."* |
+| K27 | *"Nobody in it was going to owe anybody anything afterwards, which is not how the rest of the year has gone."* |
+| K28 | *"She had told him that people have been covering for him all year, and she had put it where it would sting."* |
+| K28 | *"He had told a woman a thing he has never told anybody, and she had answered by counting it."* |
+| K30 | *"He had come out onto a terrace with a question and no answer to it, and she had supplied both the answer and the reason to take it."* |
+
+**Meldung 2 - Zahl in einem eingesetzten Satz**
+
+| Kap | Eingesetzt | Woher |
+|---|---|---|
+| K15 | *"...in the **third** person..."* | grammatischer Begriff, keine Angabe |
+| K15 | *"**Two** women..."* | Annie und Hana, im Raum |
+| K27 | *"...for **one** afternoon..."* | die sechs Stunden des Kapitels |
+
+**Meldung 3 - Absoluta**
+
+| Kap | Eingesetzt | Deckung |
+|---|---|---|
+| K27 | *"He owns **nothing** and can sign **nothing**..."* | Grundregel 2 in `CLAUDE.md` |
+| K27 | *"**Nobody** in it was going to owe anybody anything..."* | Georgij: *"there is nothing in it for me at all"* |
+| K28 | *"...a thing he has **never** told anybody..."* | seine eigene Zeile: *"In seventeen years, nobody in a house I was working in has wanted anything from me that was not work."* |
+
+**Meldung 1 und 4:** keine gestrichen. **Eine eingesetzt** - siehe unten.
+
+**Gegenprobe `faktenspur.py --seit 6c70e36`:** zwei Kapitel, beide oben
+aufgeloest.
+
+**Unsicher**
+
+- **b1 K28, und das ist die einzige Meldung der Klasse 1 im ganzen Durchgang.**
+  An der Stelle *"Then I will take both..."* / *"No."* / *"You are going to be
+  the most solvent person in that room..."* standen **zwei Redebloecke Georgijs
+  hintereinander ohne etwas Koerperliches dazwischen** - gegen Grundregel 5. Der
+  Erzaehlerkommentar schliesst die Luecke und uebernimmt damit zugleich die
+  Sprecherkennzeichnung. **Er ist also nicht nur Ton, und deshalb steht er hier.**
+  Wenn er faellt, muss an seiner Stelle ein Beat stehen.
+- **b1 K27** - *"which is not how the rest of the year has gone"*. Ein Urteil
+  ueber siebenundsechzig Tage, aus Kapitel 27 heraus gesagt. Traegt, ist aber
+  eine Aussage ueber das Buch und nicht ueber die Szene.
+
+---
+
+## Der Durchgang ist abgeschlossen
+
+**102 Kapitel gemessen, 33 angefasst, 73 Saetze eingesetzt.**
+
+| | Kapitel | angefasst | Saetze |
+|---|---|---|---|
+| Band 2 | 68 | 29 | 67 |
+| Band 1 | 34 | 4 | 6 |
+
+**Die Fehlerklasse dieses Durchgangs, in einem Satz:** *der Erzaehlerkommentar
+behauptet mehr, als die Szene hergibt* - ein Motiv, das die Figur nicht hat, ein
+Superlativ ueber ein anderes Kapitel, eine Absicht, die die Figur bestreitet.
+**Sechsmal passiert, sechsmal gefunden, keinmal von einem Werkzeug.** Gefunden
+wurde jeder einzelne beim Versuch, ihn fuer dieses Blatt zu belegen.
+
+**Daraus die Empfehlung fuer den naechsten Durchgang dieser Art:** die Pflicht,
+jedes Absolutum mit einer Fundstelle einzutragen, ist nicht die Buchhaltung
+hinterher. **Sie ist die Pruefung.**
+
