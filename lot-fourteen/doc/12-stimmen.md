@@ -1184,19 +1184,81 @@ und sind zurückgenommen (b2 K34 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihr
 eigene Zeile: *"It is easier to run a house for people who do not tell me
 things."*
 
-### Mr Ahn (39, repariert Kleinmotoren)
+### Mr Ahn (39, repariert Kleinmotoren) - 35 Repliken
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
-Steht schon in seiner ersten Zeile: *"It will be Tuesday. Whatever it is."*
-Und in Kapitel 56: *"I've had a bearing take longer than four days."* Zieht
-zusammen. Beantwortet Fragen über seine Schwester, indem er etwas auf der
-Werkbank anfasst: das Gehäuse eine Vierteldrehung, eine Schraube vier Zentimeter
-weiter, ein Lappen über Hände, die sauber sind.
+Steht schon in seiner ersten Zeile (b2 K56 Z28): *"It will be Tuesday. Whatever
+it is."* Und derselbe Satz, der ihre Entführung an einer Lieferzeit misst:
+*"Four days. **I've had a bearing take longer than four days to come in.** And
+she never asked me."*
+
+**Er zieht zusammen - und das ist zu klein gesagt. Er ist die stärkste einzelne
+Stimmenmarke, die im ganzen Buch gemessen ist:**
+
+| Figur | Kontraktionen je 1000 Wörter |
+|---|---|
+| **Mr Ahn** | **73,9** |
+| Hana | 5,3 |
+| Jang | 3,4 |
+| Georgij / Woo | 1,7 |
+
+Nachzumessen mit `python3 werkzeug/stimmen.py --tics`. **Faktor vierzehn zum
+Nächstbesten.** Wer ihm eine unkontrahierte Zeile schreibt, hört sofort auf, er
+zu sein.
+
+**Beantwortet Fragen über seine Schwester, indem er etwas auf der Werkbank
+anfasst.** Das ist keine Angewohnheit in einem Kapitel, sondern **eine
+durchgehende Geste über drei**, und sie hat ein Maß:
+
+| | |
+|---|---|
+| b2 K56 | *"He turned the fan housing **a quarter turn** and stopped."* - zweimal, beide Male auf eine Frage nach ihr |
+| b2 K63 | *"He picked the impeller up off the cloth and put it down again about **four centimetres** away."* |
+| b2 K73 | *"He moved a screwdriver **four centimetres** along the bench."* |
+
+Dazu der Lappen über Hände, die sauber sind: *"He wiped his hands on the cloth
+on the bench, **which did not need doing**."* (K56)
 
 **Er ist neununddreißig und Georgij liest ihn als fünfundvierzig.** Beides steht
-im Text (Kapitel 56: *"a man of about forty-five"* und *"four years under me…
-she's thirty-five now"*). Das war bis zum 25.08. ein Widerspruch und ist jetzt
-der Befund: Georgij irrt sich bei so etwas nie um mehr als ein Jahr, und die
-Zahl steht als eigener Takt da.
+im Text, und beides ist inzwischen **ausdrücklich** belegt statt hergeleitet:
+
+> b2 K56 Z26: *"There was **a man of about forty-five** at a bench…"*
+> b2 K56 Z78: *"Georgij had put him at forty-five inside two seconds of coming
+> through the door, and **he is never wrong about that by more than a year**."*
+> b2 K74 Z564, Annie: *"He has a month and a van in his head and **he is
+> thirty-nine**…"*
+
+**Der absolute Satz gehört dem Buch, nicht diesem Blatt** - *he is never wrong
+by more than a year* steht wörtlich im Text, und genau deshalb sind die sechs
+Jahre ein gesetzter Befund und kein Versehen. Vier Jahre Warten haben ihn
+altern lassen, und der Erzähler zeigt es, indem er sich zum einzigen Mal irrt.
+
+#### Was das Blatt nicht hatte: K63, K70, K73
+
+Das Blatt stand allein auf K56. **Zwei Drittel seiner Repliken stehen in K63,
+K70 und K73**, und dort steht seine Methode:
+
+**Er denkt über Menschen wie über eine Maschine, die falsch läuft** - nicht als
+Bild, sondern als Verfahren. Er sucht den Fehler an der Betriebsart, nicht am
+Motiv:
+
+> b2 K73: *"**Whoever's in that room is bored.**" Mr Ahn said it without any
+> weight at all. "You don't get bored watching somebody. **You get bored waiting
+> for a lorry.**"*
+
+> b2 K73: *"A house that's being kept doesn't change its people at the end of
+> August. It changes them **in March, when the year turns and the money's set**.
+> You change them in August when you know you won't be paying anybody in
+> December."*
+
+**Und der Ton, wenn er von ihr redet, ist immer noch die Fristenrechnung** -
+b2 K63: *"That's the cruellest thing anybody's said to me **in four years**."*
+Das Einzige, was er über sie weiß und nie nachprüfen konnte, ist eine Dauer:
+*"Somebody has to go and get her and **that takes as long as it takes**."* (K73)
+
+**Sein einziger Satz, der nichts misst**, steht am Ende von K63 und ist deshalb
+der schwerste, den er hat:
+
+> *"**It's not for you.** … **Don't make it that.**"*
 
 ### Mr Yeom (dritte Etage, Jung-gu)
 
@@ -1423,11 +1485,20 @@ verbieten. Das Blatt hat die alte Fassung zitiert und den Verstoß gelobt.)*
 seiner eigenen Küche fordert er, und die Regel aus `CLAUDE.md` gibt ihm dafür
 den Punkt.
 
-### Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage
+### Ahn Jung-hee - NOCH KEIN DIREKTES ZITAT, und das ist die wichtigste offene Frage
 
-**Sie hat im ganzen Buch noch nie gesprochen.** Sie wird in Kapitel 63 oder
-danach zum ersten Mal reden, und wenn sie dabei wie alle anderen klingt, ist der
-ganze Band umsonst.
+**Hier stand *"Sie hat im ganzen Buch noch nie gesprochen"* und *"Sie wird in
+Kapitel 63 oder danach zum ersten Mal reden".* Beides ist überholt, und dieser
+Abschnitt sagte es weiter unten selbst** - sie hat in K64 und in K72 geredet.
+Der Kopf war nicht nachgezogen worden.
+
+**Der Kern stimmt trotzdem, und er stimmt genauer als vorher: es gibt im ganzen
+Buch kein einziges direktes Zitat von ihr.** Beide Auftritte laufen über Sim,
+der sie am Telefon wiedergibt. **Ihr erster Satz in Anführungszeichen ist noch
+nicht geschrieben**, und wenn er wie alle anderen klingt, ist der ganze Band
+umsonst.
+
+Die beiden Auftritte stehen unten in der Reihenfolge, in der sie im Buch stehen.
 
 **Was aus dem Text schon feststeht:** neun Jahre Büro. Sie hat eine Sache in vier
 Tagen gelöst, ohne jemanden zu fragen. Sie führt seit drei einhalb Jahren einen
@@ -1435,21 +1506,32 @@ Haushalt, den sie nicht bestellt hat, und sie hat die Bestellungen übernommen,
 weil es sonst niemand tat. Sie hat ihrem Bruder das Schlimmste erst im Korridor
 gesagt.
 
-**Am 14. September hat sie ein zweites Mal gesprochen** (Kapitel 72), wieder ueber
-Sim, wieder ueberwacht, und es ist dieselbe Maschine in einer schaerferen Fassung:
-drei Mitteilungen, alle drei in Saetzen versteckt, die vom Dach handeln. Ein Monat
-(*"It will not have to last past November"*), eine Warnung ueber die Nummer, und
-ein Name. **Was daraus feststeht und nicht mehr Vorschlag ist:** sie sagt nie, was
-sie meint, sondern immer eine wahre Sache, unter der es liegt. Wer ihr eine
-direkte Zeile gibt, solange sie in dem Haus ist, hat beide Auftritte nicht
-gelesen. **Die Frage, wie sie frei redet, ist damit weiter offen** und wird erst
-in der ersten Stunde nach der Uebergabe beantwortet, vor Mrs Jeon.
+**Erster Auftritt, 27. August (Kapitel 64)** - berichtet von Sim:
 
-**Sie hat am 27. August zum ersten Mal gesprochen** (Kapitel 64), und es war ein
-einziger Satz, viermal wiederholt, ueber neunzehn Minuten: *"The shed roof should
-be done properly or not at all."* **Das ist ihre Stimme unter Aufsicht** und nicht
-ihre Stimme. Wenn sie zum ersten Mal frei redet, muss der Unterschied hoerbar
-sein.
+> *"She said the shed roof should be done properly or not at all." … "**She said
+> it four times, in four different ways, over nineteen minutes**, and it…"*
+
+**Hier stand *"ein einziger Satz, viermal wiederholt".* Das Buch sagt etwas
+anderes und Genaueres: *four times, in four different ways*.** Sie wiederholt
+nicht, sie **formuliert um, bis es ankommt** - neunzehn Minuten lang, gegen einen
+Zuhörer, der nicht zurückfragen kann. Das ist ihre Stimme unter Aufsicht und
+nicht ihre Stimme.
+
+**Zweiter Auftritt, 14. September (Kapitel 72)** - dieselbe Maschine, schärfer.
+Drei Mitteilungen, alle drei in Sätzen versteckt, die vom Dach handeln: ein
+Monat (*"She said it will not have to last past November"*), eine Warnung über
+die Nummer, ein Name. **Und das Buch stellt es ausdrücklich als Berichtigung
+einer Annahme hin**, damit es niemand überliest:
+
+> Z338: *"Two. She says nothing that is not about a roof."*
+> Z342: *"**Wrong. She said three things that were not about a roof and she said
+> all three of them inside sentences that were.**"*
+
+**Was daraus feststeht und nicht mehr Vorschlag ist:** sie sagt nie, was sie
+meint, sondern immer eine wahre Sache, unter der es liegt. Wer ihr eine direkte
+Zeile gibt, solange sie in dem Haus ist, hat beide Auftritte nicht gelesen.
+**Die Frage, wie sie frei redet, ist weiter offen** und wird erst in der ersten
+Stunde nach der Übergabe beantwortet, vor Mrs Jeon.
 
 **Vorschlag, aber nicht entschieden:** ihre Maschine ist **die erledigte Sache**.
 Sie spricht in abgeschlossenen Vorgängen und nie in Absichten - was gemacht ist,
