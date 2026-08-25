@@ -429,8 +429,24 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 | `doc/05-continuity.md`, `doc/08-decisions.md` | Inhalt |
 | `doc/06-plot.md` | Schreiben |
 | `doc/07-next.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
+| `doc/13-stilprotokoll.md` | **Stil**, waehrend des Durchgangs. Die Inhaltspruefung liest nur |
 | `doc/11-pruefen.md` | wer prueft, und zwar sofort nachdem er etwas gelernt hat |
 | `doc/09-arbeitsteilung.md` | wer die Aufteilung aendert, und zwar bevor er sie aendert |
+
+### Und der zweite Uebergabepunkt: das Stilprotokoll
+
+Seit dem 25.08. gibt es `doc/13-stilprotokoll.md`. **Ein Durchgang, der jede
+Aussage an `doc/12-stimmen.md` anpasst, schreibt woertliche Rede um, und in
+woertlicher Rede stehen die Fakten.** Ohne Protokoll muesste die
+Inhaltspruefung danach hundert Kapitel neu lesen; mit Protokoll liest sie die
+Zeilen, die sich bewegt haben.
+
+Die Reihenfolge ist **erst Stil, dann Inhalt** - die Begruendung steht in
+`doc/11-pruefen.md`. Kurz: wer zuletzt schreibt, hat recht, und das soll der
+Inhalt sein; Befunde gegen einen Wortlaut, den es nicht mehr gibt, sind wertlos;
+und Warten kostet nichts, weil das Archiv jede Fassung behaelt.
+
+---
 
 ### Und der Uebergabepunkt
 
