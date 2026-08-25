@@ -2085,9 +2085,23 @@ Verantwortlichkeiten und nicht in Beträgen.
 
 ## Choi Dae-ho hat noch nie gesprochen
 
-**Nachgezählt am 25.08. über alle 108 Kapitel: null Repliken bei 22
-Fundstellen.** Jeder Treffer auf seinen Namen in einer Dialogzeile ist ein
-anderer Mensch, der über ihn redet. **Das hält.**
+**Nachgezählt am 25.08. über alle 109 Kapitel: null Repliken.** Jeder Treffer
+auf seinen Namen in einer Dialogzeile ist ein anderer Mensch, der über ihn
+redet - zuletzt Georgij und Annie in b2 K75, *"And that is Choi Dae-ho."*
+**Das hält.**
+
+**Hier stand eine nackte Kapitelzahl, und sie war schon veraltet, als ich sie
+schrieb** (*"achtundneunzig"*, während das Buch bei 108 stand; eine Stunde
+später bei 109). Die Zahl gehört nicht ins Blatt, der Befehl gehört hinein:
+
+```
+python3 werkzeug/stimmen.py "Choi Dae-ho"     # muss leer bleiben
+grep -n '"[^"]*Dae-ho' chapters/*_en.md chapters-2/*_en.md
+```
+
+**Solange jeder Treffer aus dem grep ein anderer Sprecher ist, der ihn nennt,
+steht das Blatt.** Der Tag, an dem einer davon er selbst ist, ist ein Ereignis
+des Buchs und keine Zahlenpflege.
 
 **Das ist kein Versehen, es ist die Figur.** `doc/03-cast.md`: *"Er sitzt in
 nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden -
