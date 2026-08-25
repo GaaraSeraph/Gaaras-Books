@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 250.414 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 250.971 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -180,7 +180,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Georgij](#georgij)
   - [Annie](#annie)
   - [Chairman Woo (78, seit 51 Jahren im Gewerbe)](#chairman-woo-78-seit-51-jahren-im-gewerbe)
-  - [Sim (dreißig Jahre Fixer)](#sim-drei-ig-jahre-fixer)
+  - [Sim (dreißig Jahre Fixer, 63)](#sim-drei-ig-jahre-fixer-63)
   - [Jang (58, acht Familien, dreißig Jahre)](#jang-58-acht-familien-drei-ig-jahre)
   - [Mrs Seo (neun Jahre, führt das Haus)](#mrs-seo-neun-jahre-f-hrt-das-haus)
   - [Mr Ahn (39, repariert Kleinmotoren)](#mr-ahn-39-repariert-kleinmotoren)
@@ -12760,14 +12760,66 @@ eigenes Blatt sagt inzwischen das Genauere: in der ersten Hälfte von b1 K30 ja,
 in der zweiten ausschliesslich aus sich selbst, und der Wechsel ist ihr Bogen.)*
 Kein Eingriff ist besser als ein erfundener.
 
-### Sim (dreißig Jahre Fixer)
-**Sein Instrument ist die Freundlichkeit**, und er legt es nie ab. *"Tips the
-room and not the person, which means everybody gets some, which means everybody
-likes him."* *"Says it is good to see people he has never met."* Bezahlt vorher,
-im Umschlag, nimmt nie eine Quittung. Fragt Fremden nach ihrem Weg. Sagt den
-falschen Tram-Anschluss absichtlich, damit der andere ihn verbessern darf.
-**Im schlimmsten Moment macht er den Gastgeber weiter.** Sein Bruch ist nicht
-Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun hat.
+### Sim (dreißig Jahre Fixer, 63)
+**Sein Instrument ist die Freundlichkeit**, und dreißig Jahre lang legt er es
+nie ab. *"Tips the room and not the person, which means everybody gets some,
+which means everybody likes him."* (b2 K41, Mrs Jeon) *"Says it is good to see
+people he has never met."* (b2 K31, Georgijs Notizkarte) Bezahlt vorher, im
+Umschlag, nimmt nie eine Quittung - erst von Mrs Jeon bezeugt, dann aus seinem
+eigenen Mund: *"I pay in an envelope and I do not take receipts."* (b2 K52)
+Fragt Fremde nach ihrem Weg. **Sagt die falsche Tram-Nummer absichtlich, damit
+der andere ihn verbessern darf** - zweimal belegt, und das zweite Mal erklärt er
+es selbst, mit dem Satz, der die Technik erst fertig macht:
+
+> b2 K72: *"I told him the tram I had taken to the office this morning and I got
+> it wrong on purpose. He corrected me. **Then I heard about the road up there
+> and how long he has been on it.**" … "Everything he had, and **I did not ask
+> him one question**."*
+
+**65 Repliken** (`python3 werkzeug/stimmen.py Sim`). Und hier liegt der Fehler
+dieses Blattes: **64 davon stehen in b2 K52, K64, K68, K72 und K74** - also
+hinter allem, was oben zitiert ist. Das Blatt stand auf K31 und K41 und hat
+danach nicht mehr gelesen.
+
+#### Der Satz, den das Buch umgedreht hat
+
+**Hier stand: *"Im schlimmsten Moment macht er den Gastgeber weiter. Sein Bruch
+ist nicht Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun
+hat."*** Bis K41 stimmt das. **In K52 tut das Buch das Gegenteil**, und es
+markiert den Moment ausdrücklich als den ersten:
+
+> *"Do not do that." **It came out of him at last, and it was not loud, and it
+> was the first thing he had said all evening that had not been arranged.**
+> "… Do not start being kind to me at the end of it."*
+
+> *"They have looked identical for thirty years," said Sim. "**Tonight is the
+> first evening they have not.**"*
+
+**Sein Bruch ist genau, dass die Wärme aufhört** - eine Zeile lang, leise, und
+danach nimmt er sie wieder auf. Aber nicht mehr automatisch: er **benennt sie
+und wählt sie**, im selben Kapitel, später:
+
+> *"No, and you are going to let me finish, because I have spent thirty years
+> being the man who arranges things in every room he sits in, and **I would like
+> to do it once more this evening**."*
+
+**Die Reihenfolge ist die Figur:** automatisch (K41) → gebrochen (K52 Z204) →
+benannt und gewählt (K52 Z290) → aufgegeben (K68). Wer das alte Blatt benutzt,
+schreibt ihm die Wärme als Panzer, den er nie ablegt - und das Buch hat ihn
+längst ablegen lassen.
+
+Und das Buch unterscheidet die beiden Lächeln selbst, damit niemand sie
+verwechselt: *"it was not the smile from Mrs Bae's front desk, and it was not a
+performance either."* (K52)
+
+#### Was das Blatt nicht hatte
+
+| | |
+|---|---|
+| **Wofür das Instrument da war** | *"I have been sent to be liked, **four hundred times**, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."* (K68) |
+| **Wie es endet** | *"I am sixty-three. **I have got one instrument and I have just found out what it was for.** I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."* (K68) |
+| **Woher er kommt** | Mit **sechsunddreißig** aus einem Dienst herausgeholt (K75) |
+| **Was er nicht ist** | *"I have never been sent anywhere to be unpleasant to anybody." … "Not a raised voice, not a threat, not a bill produced on a table."* (K68) |
 
 ### Jang (58, acht Familien, dreißig Jahre)
 

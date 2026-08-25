@@ -1315,3 +1315,53 @@ Erfindung und Sims Werkzeug** ist. Beide benutzen sie, und wer das verwechselt,
 gibt Choi eine Zeile, die im Buch fast immer ein anderer sagt.
 
 *Unsicher:* keiner.
+
+### Sim gegengelesen - eine neue Fehlerklasse: das Blatt hat aufgehoert zu lesen
+
+**Alles Zitierte haelt.** *"Tips the room and not the person"* (b2 K41),
+*"Says it is good to see people he has never met"* (b2 K31), Umschlag ohne
+Quittung (K41, dann aus seinem eigenen Mund in K52), die falsche Tram-Nummer
+mit Absicht (K52, und in K72 erklaert er sie selbst). Nichts erfunden.
+
+**Und trotzdem ist das Blatt falsch, auf eine Art, die bei Choi nicht vorkam.**
+
+| | |
+|---|---|
+| **Das Blatt zitiert** | b2 K31 und K41 |
+| **Sim hat** | **65 Repliken - 64 davon in K52, K64, K68, K72, K74** |
+
+Der Schlusssatz des Blattes lautete: *"Im schlimmsten Moment macht er den
+Gastgeber weiter. Sein Bruch ist nicht Kaelte, sondern dass die Waerme
+weiterlaeuft, wenn sie nichts mehr zu tun hat."* **Bis K41 stimmt das. In K52
+tut das Buch das Gegenteil und markiert es ausdruecklich als den ersten Mal:**
+
+> *"Do not do that." **It came out of him at last, and it was not loud, and it
+> was the first thing he had said all evening that had not been arranged.**"*
+
+> *"They have looked identical for thirty years," said Sim. "**Tonight is the
+> first evening they have not.**"*
+
+**Die Figur ist die Reihenfolge:** automatisch (K41) → gebrochen (K52 Z204) →
+benannt und gewaehlt (K52 Z290, *"I would like to do it once more this
+evening"*) → aufgegeben (K68, *"I would rather have nothing than go on being
+it"*). Wer dem alten Blatt folgt, schreibt ihm die Waerme als Panzer, den er
+nie ablegt - **und das Buch hat ihn vor dreiundzwanzig Kapiteln ablegen
+lassen.**
+
+**Der Unterschied zu allen bisherigen Funden:** Chois Blatt war eine richtige
+Beobachtung, einen Schritt zu weit geschrieben. Sims Blatt war **richtig, als
+es geschrieben wurde, und das Buch ist weitergegangen**. Kein Satz darin war je
+falsch. Es ist trotzdem unbrauchbar.
+
+**Daraus folgt eine Pruefung, die auf jedes Blatt gehoert und auf keinem steht:**
+
+```
+python3 werkzeug/stimmen.py <Figur> | tail -1     # wie viele Repliken
+python3 werkzeug/stimmen.py <Figur> | awk '{print $1,$2}' | sort | uniq -c
+```
+
+**Wenn die Mehrheit der Repliken in Kapiteln steht, die das Blatt nicht
+zitiert, ist das Blatt veraltet** - unabhaengig davon, ob ein einziger Satz
+darin falsch ist. Bei Sim: 64 von 65.
+
+*Unsicher:* keiner.
