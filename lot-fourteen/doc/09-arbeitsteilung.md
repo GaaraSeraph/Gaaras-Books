@@ -416,6 +416,7 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 | `doc/05-continuity.md`, `doc/08-decisions.md` | Inhalt |
 | `doc/06-plot.md` | Schreiben |
 | `doc/07-next.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
+| `doc/11-pruefen.md` | wer prueft, und zwar sofort nachdem er etwas gelernt hat |
 | `doc/09-arbeitsteilung.md` | wer die Aufteilung aendert, und zwar bevor er sie aendert |
 
 ### Und der Uebergabepunkt

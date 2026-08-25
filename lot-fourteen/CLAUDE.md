@@ -32,6 +32,11 @@ python3 check.py chapters/chNN_vX_Y_en.md
 python3 build.py
 ```
 
+**Wie geprueft wird, steht in `doc/11-pruefen.md`.** Vier Schritte, um aus einem
+einzelnen Fund einen Streifzug zu machen, sieben Regeln mit je einem Fehler
+dahinter, und der Katalog der Fehlerklassen, die es bisher gibt. Wer einen neuen
+Durchgang plant, faengt dort an und nicht bei Null.
+
 `zuschreibung.py` sucht **Zuschreibungsfehler**: eine Tat oder ein Satz, der
 der falschen Person zugeschrieben ist. Es **eicht sich zuerst selbst** an einem
 bekannten Fund und meldet gar nichts, wenn die Eichung durchfaellt. Der
