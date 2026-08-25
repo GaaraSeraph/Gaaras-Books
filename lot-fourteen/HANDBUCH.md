@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 182.379 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 182.262 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -7934,26 +7934,15 @@ Lesen auf:
 
 ---
 
-## Angehalten am 25.08.: Zuschreibungsdurchgang Band 2, Kapitel 19 bis 53
+## Erledigt: Zuschreibungsdurchgang Band 2, Kapitel 19 bis 53 (25.08.)
 
-Auf Wunsch des Autors gestoppt, um Tokens zu sparen. **Sieben von neun
-Lesergruppen sind fertig und zwischengespeichert** (Kapitel 19 bis 50 im
-Wesentlichen gelesen), es fehlen die letzten zwei Gruppen und die **gesamte
-Gegenpruefung**. Neunundzwanzig Rohkandidaten liegen vor, **keiner davon
-geprueft** - nach dem heutigen Tag ist damit zu rechnen, dass die Gegenpruefung
-den groesseren Teil davon wegnimmt.
+Am 25.08. zwischendurch angehalten, am selben Tag zu Ende gelaufen.
+**Neunundzwanzig Rohfunde, zwanzig haben die Gegenpruefung ueberlebt**, dazu
+einer aus der Belegpruefung. **Neunzehn angewandt, zwei begruendet
+zurueckgehalten.** Alles steht in `doc/05-continuity.md`.
 
-Fortsetzen (nur in derselben Sitzung greift der Zwischenspeicher):
-
-    Workflow({scriptPath: ".../workflows/scripts/lot-fourteen-attribution-wf_08341d45-40c.js",
-              resumeFromRunId: "wf_08341d45-40c"})
-
-In einer neuen Sitzung laeuft dasselbe Skript ohne Zwischenspeicher noch einmal
-von vorn; das kostet die sieben Gruppen erneut, aendert am Ergebnis aber nichts.
-
-**Bis dahin gilt: Kapitel 19 bis 53 sind auf Zuschreibung NICHT geprueft.**
-Geprueft und korrigiert sind Kapitel 1 bis 18, dazu Kapitel 38 aus den beiden
-Funden des Autors.
+**Nicht geprueft und weiterhin offen: Kapitel 54 aufwaerts.** Die sind
+entstanden, waehrend der Durchgang lief, und waren nie in ihm drin.
 
 ---
 
@@ -7962,14 +7951,12 @@ Funden des Autors.
 Nach `doc/09-arbeitsteilung.md`, Regel 4: wer einen Block nimmt, traegt ihn hier
 ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
-- **25.08., Inhaltspruefung: Band 2, alle Kapitel, Blickwinkel Zuschreibung.**
-  Wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Ich fasse **nur
-  Stellen an, an denen etwas der falschen Person zugeschrieben ist**, und ich
-  gehe in Bloecken von vier bis sechs Kapiteln mit Push nach jedem Block.
-  Keine Interpunktion, keine Beats, keine neuen Szenen.
-  **Wenn die Stil-Sitzung noch in Band 2, Kapitel 1 bis 34 steht, hat sie
-  Vorfahrt** - ich ueberspringe jedes Kapitel, das dort offen ist, und hole es
-  nach. Band 1 ist frei, dort ist die Inhaltspruefung seit heute fertig.
+- ~~**25.08., Inhaltspruefung: Band 2, Blickwinkel Zuschreibung.**~~
+  **Erledigt bis Kapitel 53.** Neunzehn Korrekturen in vierzehn Kapiteln, das
+  Protokoll steht in `doc/05-continuity.md`. Wie geprueft wurde, steht seit dem
+  25.08. in `doc/11-pruefen.md`.
+  **Offen: Kapitel 54 aufwaerts**, und die Klasse ist bekannt, also faengt der
+  naechste Durchgang nicht bei Null an.
 
 - ~~**24.08., Stil-Sitzung: Band 2, Kapitel 1 bis 34.**~~ **Erledigt.**
   Erzaehlerformeln, Selbstkommentar, Komma-Mittel, Beats. Was dabei
