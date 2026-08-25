@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.587 Woerter.
+Book Two, 68 Kapitel, 168.642 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -14,7 +14,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 01 | v1.6 | 2.286 |
 | 02 | v1.3 | 2.058 |
 | 03 | v1.2 | 2.017 |
-| 04 | v1.6 | 2.718 |
+| 04 | v1.7 | 2.747 |
 | 05 | v1.8 | 2.853 |
 | 06 | v1.2 | 2.421 |
 | 07 | v1.4 | 2.319 |
@@ -55,7 +55,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 42 | v2.4 | 3.414 |
 | 43 | v2.0 | 2.816 |
 | 44 | v2.1 | 2.516 |
-| 45 | v1.1 | 2.176 |
+| 45 | v1.2 | 2.202 |
 | 46 | v1.2 | 2.599 |
 | 47 | v1.2 | 1.918 |
 | 48 | v1.1 | 2.354 |
@@ -638,7 +638,7 @@ He did not correct it.
 ---
 
 # Book Two · Chapter 4: I have nothing to put in it
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day One Hundred and Fifty-Nine · Wednesday 11 March
 
@@ -825,6 +825,8 @@ Sang-hoon looked out of the window at a car park.
 "You gave it to me. I went and got it, and you handed it over, and both of those are true and neither of them cancels the other."
 
 "You know what the worst of it is." It was not a question and it did not get a mark. "I would do the three and a half hours again. With you, next week, if you asked. That is not a man who has learned something. That is a man who found out what he is."
+
+He had said the worst thing a man in his position can say about himself, and he had said it to somebody with nothing to trade it to.
 
 "The name in settlement," said Sang-hoon, after a while, "is not one I am going to say in a corridor with a funeral in it."
 
@@ -9583,7 +9585,7 @@ Then he wrote the last of it, and it took him two attempts, because the first on
 ---
 
 # Book Two · Chapter 45: The line above it
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Seventy-Nine · Thursday 9 July
 
@@ -9736,6 +9738,8 @@ He finished the line. Annie came off the edge of the desk and sat down on the fl
 "He should hear it from a person and not a telephone," said Georgij. "I will ask him for an hour this week, Mistress."
 
 "Then it keeps until he gives you one." She reached up without looking and put two fingers on his wrist and took them away again. "Give the man in the grey suit his book and send him home. He has been sitting in my hall for five hours with his hat on his knees, and somebody in this house ought to notice."
+
+She put two fingers on his wrist and then sent him to be decent to a stranger, and only one of those was an instruction.
 
 ---
 
