@@ -1289,3 +1289,29 @@ steht ihr Blatt nicht in dem, was sie sagt, sondern in dem, was der Erzaehler
 ueber sie **misst** - zwei Fragen, vier Minuten, sechs Minuten. **Wer nur nach
 Anfuehrungszeichen sucht, findet bei ihnen nichts und schreibt deshalb nichts
 auf.**
+
+### Choi Dae-ho gegengelesen - vier Fehler, einer davon umgedreht
+
+**Die Kernaussage haelt:** null Repliken, nachgezaehlt ueber alle 108 Kapitel
+bei 22 Fundstellen auf seinen Namen. Der Eintrag sagte *"achtundneunzig
+Kapitel"* - das Buch ist seither um zehn gewachsen.
+
+| stand da | Befund |
+|---|---|
+| *"ausgerichtet von Sim und von **Yeom**"* | **Yeom steht auf der falschen Seite des Satzes, und das Buch berichtigt es selbst.** Georgij, b2 K38: *"That puts him **on the end of the sentence, not the one saying it**."* Yeom ist Empfaenger |
+| *"viermal belegt"* | Die vier in b2 K53 sind **Empfaenger einer Methode**, nicht Belege einer Stimme. Belegt ist die Zeile in **zwei Muendern**: Choi selbst bei Mr Oks Mittagessen (b2 K17/K18), Sim bei Mrs Gwak, Yeom und Mrs Ha |
+| *"Er stellt **genau eine** Frage"* | **Falsch.** Allein in Mr Oks Bericht vier: Ulsan-Kueste, die kleinen Betreiber, einer davon namentlich, die Kataloge. Singulaer an Woos Frage ist etwas anderes - sie fragt **nicht nach einem Geschaeft, sondern nach einer Verbindung**, und Woo sagt genau das: *"Not who I had told. Not who knew. Who I would telephone."* |
+| *"**er isst nichts**"* | **Das Gegenteil dessen, was im Buch steht.** Annie, b2 K18: *"He eats a great deal, and he enjoys it, and he does it at his own table and nowhere else. **He does not eat in front of people he is working on.**"* |
+
+**Der letzte ist der teuerste.** Ein Mann, der nichts isst, ist eine Marotte.
+Ein Mann, der viel isst und ausgerechnet dann nicht, wenn er arbeitet, ist eine
+**Landkarte** - Georgij benutzt sie in b2 K42 und K62, um zu bestimmen, wo Choi
+gearbeitet hat. Wer dem alten Eintrag folgt, schreibt die Marotte und nimmt dem
+Buch den Hebel.
+
+**Und der zweite ist die Falle fuers Schreiben:** wer Choi endlich sprechen
+laesst, muss wissen, dass *"It has been good to see you again"* **seine
+Erfindung und Sims Werkzeug** ist. Beide benutzen sie, und wer das verwechselt,
+gibt Choi eine Zeile, die im Buch fast immer ein anderer sagt.
+
+*Unsicher:* keiner.

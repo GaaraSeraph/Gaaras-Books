@@ -2085,8 +2085,9 @@ Verantwortlichkeiten und nicht in Beträgen.
 
 ## Choi Dae-ho hat noch nie gesprochen
 
-**Nachgezählt am 25.08.: null Repliken in achtundneunzig Kapiteln.** Jeder Treffer
-auf seinen Namen in einer Dialogzeile ist ein anderer Mensch, der über ihn redet.
+**Nachgezählt am 25.08. über alle 108 Kapitel: null Repliken bei 22
+Fundstellen.** Jeder Treffer auf seinen Namen in einer Dialogzeile ist ein
+anderer Mensch, der über ihn redet. **Das hält.**
 
 **Das ist kein Versehen, es ist die Figur.** `doc/03-cast.md`: *"Er sitzt in
 nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden -
@@ -2101,14 +2102,61 @@ was zitiert werden kann.
 2. **Und wenn er dann spricht, muss die Stimme bereits im Buch sein.** Sie steht
    da, in fremden Mündern, und ist über vier Bände Fundstellen konsistent:
 
-> *"It has been good to see you again"* - zu Menschen, die er nie getroffen hat,
-> ausgerichtet von Sim und von Yeom, viermal belegt.
+> *"It has been good to see you again"* - zu Menschen, die er nie getroffen hat.
 
-**Das ist sein ganzes Register:** die vorweggenommene Vertrautheit. Er behandelt
-jeden so, als sei die Beziehung schon geschlossen, und der andere kann nicht
-widersprechen, ohne unhöflich zu sein. **Er stellt genau eine Frage** (Woo, 2002:
-*"who I would telephone if it went badly"*), er isst nichts, und er erklärt nie
-etwas.
+**Das ist sein Register:** die vorweggenommene Vertrautheit. Er behandelt jeden
+so, als sei die Beziehung schon geschlossen, und der andere kann nicht
+widersprechen, ohne unhöflich zu sein.
+
+**Hier stand *"ausgerichtet von Sim und von Yeom, viermal belegt"*. Yeom steht
+auf der falschen Seite des Satzes, und das Buch berichtigt es selbst** - Georgij
+in b2 K38: *"That puts him **on the end of the sentence, not the one saying
+it**."* Yeom ist Empfänger, nicht Überbringer.
+
+**Und die Stimme ist doppelt belegt, in zwei Mündern.** Das ist der eigentliche
+Befund:
+
+| gesagt von | zu | wo |
+|---|---|---|
+| **Choi selbst** | Mr Ok, beim Mittagessen im Januar | b2 K17, K18 |
+| **Sim** | Mrs Gwak am Telefon | b2 K31, K47 |
+| **Sim** | Mr Yeom, vor vier Jahren | b2 K38, K41, K53 |
+| **Sim** | Mrs Ha, vor elf Jahren | b2 K67 |
+
+Georgij zählt in b2 K53 **vier Empfänger einer Methode** auf: *"a florist in
+Hyoja-dong … a woman who has kept a restaurant book in pencil for twenty-two
+years … a solicitor in Yeouido eleven years ago, and on you."*
+
+**Wer die Zeile schreibt, muss wissen, in wessen Mund sie steht.** Sie ist
+Chois Erfindung und Sims Werkzeug, und beide benutzen sie.
+
+#### Zwei Korrekturen, die einen Durchgang in die Irre geführt hätten
+
+**Hier stand: *"Er stellt genau eine Frage."* Falsch.** In Mr Oks Bericht
+(b2 K17) stellt er allein vier: ob Ok je an der Küste von Ulsan Geschäfte
+gemacht habe, wie die kleinen Betreiber dort seien, dann nach einem davon
+namentlich, und später, ob Ok die Kataloge des Hauses bekomme.
+
+**Was singulär ist, ist eine andere Sache:** von allen belegten Fragen ist Woos
+die einzige, die **nicht nach einem Geschäft fragt, sondern nach einer
+Verbindung** - und Woo sagt genau das:
+
+> *"He asked me who I would telephone if it went badly." … "**Not who I had
+> told. Not who knew. Who I would telephone.**"*
+
+**Und hier stand: *"er isst nichts".* Das ist das Gegenteil dessen, was im Buch
+steht**, und es ist sein wichtigster Tell:
+
+> Annie, b2 K18: *"**He eats a great deal, and he enjoys it**, and he does it at
+> his own table and nowhere else. **He does not eat in front of people he is
+> working on.** … he has never in his life noticed that it shows."*
+
+**Ein Mann, der nichts isst, ist eine Marotte. Ein Mann, der viel isst und
+ausgerechnet dann nicht, wenn er arbeitet, ist eine Landkarte** - und genau so
+benutzt Georgij sie in b2 K42 und K62. Wer dem alten Eintrag folgt, nimmt dem
+Buch seinen Hebel.
+
+**Er erklärt nie etwas** - das hält.
 
 **Die Probe für das Endgespräch:** kein Satz von ihm darf eine Rechtfertigung
 sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.

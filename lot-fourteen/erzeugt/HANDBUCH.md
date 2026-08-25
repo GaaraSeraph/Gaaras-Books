@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 247.972 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 250.320 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -199,7 +199,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
   - [Nam Byung-hee (58, eine Fahrspur aus Ulsan, zwanzig Jahre)](#nam-byung-hee-58-eine-fahrspur-aus-ulsan-zwanzig-jahre)
   - [Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)](#baek-jun-ho-63-anwalt-elf-treuhandschaften-b2-k50)
-  - [Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)](#kim-sung-ho-der-vorsitzende-der-familie-b1-k26-und-k32)
+  - [Kim Sung-ho (61, der Vorsitzende der Familie, b1 K26 und K32)](#kim-sung-ho-61-der-vorsitzende-der-familie-b1-k26-und-k32)
   - [Mr Ok (b2 K17)](#mr-ok-b2-k17)
   - [Mr Ku (Fahrer)](#mr-ku-fahrer)
   - [Mr Kwon (14 Repliken)](#mr-kwon-14-repliken)
@@ -210,6 +210,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Shin (4 Repliken)](#shin-4-repliken)
   - [Mr Koh (Ladungsbesichtiger, zwei Zimmer über einem Schiffsausrüster)](#mr-koh-ladungsbesichtiger-zwei-zimmer-ber-einem-schiffsausr-ster)
   - [Die kleinen Rollen](#die-kleinen-rollen)
+  - [Und er ist nicht der einzige Stumme](#und-er-ist-nicht-der-einzige-stumme)
+  - [Wer nur genannt wird und nie spricht](#wer-nur-genannt-wird-und-nie-spricht)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
   - [Eine Fehlmeldungsklasse, und sie ist wichtig](#eine-fehlmeldungsklasse-und-sie-ist-wichtig)
 - [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
@@ -227,6 +229,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert](#die-anrede-fuer-georgij-in-band-2-vom-autor-als-drift-bestaetigt-repariert)
   - [Band 1: die Ton-Etiketten, und der Befund ist, dass Band 1 nicht das Problem war](#band-1-die-ton-etiketten-und-der-befund-ist-dass-band-1-nicht-das-problem-war)
   - [Fuenf Sprecher hatten kein Blatt, und die Ursache war ein Werkzeug](#fuenf-sprecher-hatten-kein-blatt-und-die-ursache-war-ein-werkzeug)
+  - [Die fuenf neuen Blaetter gegengelesen, und wer sonst noch fehlt](#die-fuenf-neuen-blaetter-gegengelesen-und-wer-sonst-noch-fehlt)
+  - [Min-ho und Mrs Ryu gegengelesen: drei Fehler, und einer verdeckte den Beat](#min-ho-und-mrs-ryu-gegengelesen-drei-fehler-und-einer-verdeckte-den-beat)
+  - [Choi Dae-ho gegengelesen - vier Fehler, einer davon umgedreht](#choi-dae-ho-gegengelesen-vier-fehler-einer-davon-umgedreht)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -13690,15 +13695,26 @@ Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
 stumm galt. Sie ist die Gegenspielerin des halben Bandes 2.
 
 **Gemessen: 10 zugeordnete Repliken, 93 Wörter, Ø 7,8 - keine einzige über 25
-Wörtern, kein Haustic, keine Kontraktion.** Eine der saubersten Stimmen im Buch,
-und das ist kein Zufall: sie sagt nichts, was sie nicht belegen kann.
+Wörtern, kein Haustic, keine Kontraktion.** Das allein sagt wenig: dreizehn von
+dreissig Sprechern haben keinen Haustic, und alle kurz sprechenden Figuren haben
+keine langen Sätze.
 
-**Die Maschine: sie beginnt mit der Zählung des Vorgangs, nicht mit dem
-Vorgang.** Ihr erstes Wort ist immer, das wievielte Mal es ist oder was der
-andere nicht getan hat:
+**Was ihr gehört, ist der Inhalt, und der Erzähler sagt es aus:** *"She said it
+without any self-pity in it at all, **which made it worse**"* (b2 K08). **Sie
+benutzt kein einziges Gefühlswort über sich** - über zwanzig Jahre unbeantwortete
+Briefe, sechs Wochen Zerstörung und den Verlust der Firma.
+
+**Die Maschine: ab dem zweiten Treffen beginnt sie mit der Zählung des Vorgangs
+und nicht mit dem Vorgang.** Ihr erstes Wort ist dann, das wievielte Mal es ist
+oder was der andere nicht getan hat:
 
 > *"**You could have written**,"* (b2 K11, das erste, was sie zu ihm sagt)
 > *"**Third time**,"* (b2 K19, dito)
+
+*(Hier stand "ihr erstes Wort ist **immer**". Falsch: in b2 K08, beim ersten
+Mal, sagt sie **"You are not from here."** und dann **"Say your name."** - sie
+verortet ihn erst. Die Zählung fängt an, nachdem sie weiss, wer er ist, und
+**das ist ein Bogen und kein Tic.**)*
 
 **Und sie rechnet sich selbst mit ein.** Das ist ihre Signatur und es gibt sie
 sonst bei niemandem:
@@ -13744,8 +13760,12 @@ ist, und nie, wie es sich anfühlt.
 
 **Gemessen: 14 Repliken, 267 Wörter, Ø 15,7 Wörter je Satz und 18 Prozent über
 25 - beides der höchste Wert im ganzen Buch.** Er ist **der langsatzigste
-Sprecher**, mit Abstand vor Hwang (11,9). Zählt Jahre mit 22,5 je 1000 Wörtern,
-ebenfalls der höchste Wert.
+Sprecher des Buchs**, vor Mr Chae (12,4) und Hwang (11,9).
+
+Zählt Jahre mit 22,5 je 1000 Wörtern - **der höchste Wert unter allen Figuren
+über 90 Wörtern**; darüber steht nur Ye-rin mit 41,7, und das ist eine einzige
+Nennung aus 24 Wörtern. *(Hier stand "ebenfalls der höchste Wert", ohne die
+Schwelle.)*
 
 **Die Maschine: er beziffert den eigenen Zweifel, statt ihn zu äussern.**
 
@@ -13777,21 +13797,38 @@ nicht erwähnt, bis er ihn aufmacht.
 
 ---
 
-### Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)
+### Kim Sung-ho (61, der Vorsitzende der Familie, b1 K26 und K32)
 
-**Drei Repliken, und alle drei sind Anweisungen an andere Leute.**
+**Fünf Repliken**, nicht drei - beim ersten Anlauf falsch gezählt, weil eine der
+Zeilen in K26 (*"Because a man who has not been photographed with anybody since
+1998…"*) **Georgij gehört** und nur neben seinem Namen steht.
 
-> *"You work for the woman."* - Feststellung, keine Frage
-> *"Say what control means."* - Befehl im Register der Prinzipalen
-> *"That is enough, Jae-won."* - er beendet den Widerspruch eines Verwandten
+**Die Maschine: er urteilt über das, was gerade passiert ist, und hängt eine
+Anweisung an.** Beides in einem Atemzug, und der klarste Fall steht in K32:
 
-**Die Maschine: er redet nie über die Sache, sondern über die Zuständigkeit.**
-Wer im Raum was sagen darf, und wer aufhört. **Er stellt keine einzige Frage im
-ganzen Buch.**
+> *"**It was fair and he answered it.**" Sung-ho had not raised his voice.
+> "**Now sit still.**"*
 
-**Er darf:** den Vornamen eines Verwandten als ganzen Satz, die Forderung mit
-Punkt. **Er darf nicht:** erklären, warum. Ein Vorsitzender, der begründet, hat
-schon verloren - und seine Schwester ist die, die begründet.
+Dasselbe ohne das Urteil: *"That is enough, Jae-won."* Dasselbe ohne die
+Anweisung: *"You work for the woman."* - eine Verortung, keine Frage.
+
+**Er stellt in beiden Kapiteln keine einzige Frage.** Er verlangt: *"Say what
+control means."*
+
+**Und er kündigt es an, wenn er aus dem eigenen Register geht** - das ist seine
+einzige Wärme und sie steht in K26:
+
+> *"Then I will say the thing I did not expect to say this morning."*
+
+**Körper, und es ist der Gegensatz zu Woo.** Am Ende von K32 gibt er Georgij die
+Hand *"and held it about a second longer than the handshake needed, which from
+that man was a great deal"*. **Woo schüttelt in beiden Bänden keine einzige
+Hand. Sung-ho tut es einmal und der Erzähler sagt dazu, was es wert war.**
+
+**Er darf:** das Urteil plus die Anweisung, den Vornamen eines Verwandten als
+ganzen Satz, die Forderung mit Punkt. **Er darf nicht:** begründen. Ein
+Vorsitzender, der begründet, hat schon verloren - und seine Schwester ist die,
+die begründet.
 
 ---
 
@@ -13800,8 +13837,9 @@ schon verloren - und seine Schwester ist die, die begründet.
 **Vier Repliken, und er ist der Mann, an dem Sims Methode vorgeführt wird.**
 
 **Die Maschine: er schiebt zuerst weg und liefert dann alles.** *"That has
-nothing to do with me,"* - und drei Repliken später die vollständigste
-Personenbeschreibung im Buch, ohne dass jemand nachbohrt.
+nothing to do with me,"* - und drei Repliken später die Personenbeschreibung,
+aus der Georgij in b2 K18 seine **neun Zeilen** zieht, ohne dass jemand
+nachbohrt.
 
 **Sein Detail ist das, was er für nebensächlich hält:** *"He did not eat
 anything at that lunch, not one thing, and I noticed it because my mother would
@@ -13815,9 +13853,14 @@ einer Entschuldigung dafür, dass er sie gemacht hat.**
 
 ### Mr Ku (Fahrer)
 
-**Zwei Repliken im ganzen Buch, und beide sind Ereignisse.** Der Erzähler sagt
-es selbst: *"Then Mr Ku said something on the expressway, about forty minutes
-out, **which he has not done since October**."*
+**Eine einzige Replik im ganzen Buch** - *"No,"* in b2 K14. *(Hier stand
+"zwei"; die zweite Fundstelle ist keine Replik, sondern Erzählung.)*
+
+**Und diese Erzählung ist der eigentliche Auftritt:** *"Then Mr Ku said something
+on the expressway, about forty minutes out, **which he has not done since
+October**."* **Was er gesagt hat, steht nicht da.** Wir erfahren in b2 K20 nur,
+dass es *"the most useful thing anybody said to me all month"* war - aus Georgijs
+Mund und nicht aus seinem.
 
 **Er ist die Figur, bei der Schweigen der Normalzustand ist.** Wer ihm eine
 dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
@@ -13969,8 +14012,9 @@ Verantwortlichkeiten und nicht in Beträgen.
 
 ## Choi Dae-ho hat noch nie gesprochen
 
-**Nachgezählt am 25.08.: null Repliken in achtundneunzig Kapiteln.** Jeder Treffer
-auf seinen Namen in einer Dialogzeile ist ein anderer Mensch, der über ihn redet.
+**Nachgezählt am 25.08. über alle 108 Kapitel: null Repliken bei 22
+Fundstellen.** Jeder Treffer auf seinen Namen in einer Dialogzeile ist ein
+anderer Mensch, der über ihn redet. **Das hält.**
 
 **Das ist kein Versehen, es ist die Figur.** `doc/03-cast.md`: *"Er sitzt in
 nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden -
@@ -13985,17 +14029,119 @@ was zitiert werden kann.
 2. **Und wenn er dann spricht, muss die Stimme bereits im Buch sein.** Sie steht
    da, in fremden Mündern, und ist über vier Bände Fundstellen konsistent:
 
-> *"It has been good to see you again"* - zu Menschen, die er nie getroffen hat,
-> ausgerichtet von Sim und von Yeom, viermal belegt.
+> *"It has been good to see you again"* - zu Menschen, die er nie getroffen hat.
 
-**Das ist sein ganzes Register:** die vorweggenommene Vertrautheit. Er behandelt
-jeden so, als sei die Beziehung schon geschlossen, und der andere kann nicht
-widersprechen, ohne unhöflich zu sein. **Er stellt genau eine Frage** (Woo, 2002:
-*"who I would telephone if it went badly"*), er isst nichts, und er erklärt nie
-etwas.
+**Das ist sein Register:** die vorweggenommene Vertrautheit. Er behandelt jeden
+so, als sei die Beziehung schon geschlossen, und der andere kann nicht
+widersprechen, ohne unhöflich zu sein.
+
+**Hier stand *"ausgerichtet von Sim und von Yeom, viermal belegt"*. Yeom steht
+auf der falschen Seite des Satzes, und das Buch berichtigt es selbst** - Georgij
+in b2 K38: *"That puts him **on the end of the sentence, not the one saying
+it**."* Yeom ist Empfänger, nicht Überbringer.
+
+**Und die Stimme ist doppelt belegt, in zwei Mündern.** Das ist der eigentliche
+Befund:
+
+| gesagt von | zu | wo |
+|---|---|---|
+| **Choi selbst** | Mr Ok, beim Mittagessen im Januar | b2 K17, K18 |
+| **Sim** | Mrs Gwak am Telefon | b2 K31, K47 |
+| **Sim** | Mr Yeom, vor vier Jahren | b2 K38, K41, K53 |
+| **Sim** | Mrs Ha, vor elf Jahren | b2 K67 |
+
+Georgij zählt in b2 K53 **vier Empfänger einer Methode** auf: *"a florist in
+Hyoja-dong … a woman who has kept a restaurant book in pencil for twenty-two
+years … a solicitor in Yeouido eleven years ago, and on you."*
+
+**Wer die Zeile schreibt, muss wissen, in wessen Mund sie steht.** Sie ist
+Chois Erfindung und Sims Werkzeug, und beide benutzen sie.
+
+#### Zwei Korrekturen, die einen Durchgang in die Irre geführt hätten
+
+**Hier stand: *"Er stellt genau eine Frage."* Falsch.** In Mr Oks Bericht
+(b2 K17) stellt er allein vier: ob Ok je an der Küste von Ulsan Geschäfte
+gemacht habe, wie die kleinen Betreiber dort seien, dann nach einem davon
+namentlich, und später, ob Ok die Kataloge des Hauses bekomme.
+
+**Was singulär ist, ist eine andere Sache:** von allen belegten Fragen ist Woos
+die einzige, die **nicht nach einem Geschäft fragt, sondern nach einer
+Verbindung** - und Woo sagt genau das:
+
+> *"He asked me who I would telephone if it went badly." … "**Not who I had
+> told. Not who knew. Who I would telephone.**"*
+
+**Und hier stand: *"er isst nichts".* Das ist das Gegenteil dessen, was im Buch
+steht**, und es ist sein wichtigster Tell:
+
+> Annie, b2 K18: *"**He eats a great deal, and he enjoys it**, and he does it at
+> his own table and nowhere else. **He does not eat in front of people he is
+> working on.** … he has never in his life noticed that it shows."*
+
+**Ein Mann, der nichts isst, ist eine Marotte. Ein Mann, der viel isst und
+ausgerechnet dann nicht, wenn er arbeitet, ist eine Landkarte** - und genau so
+benutzt Georgij sie in b2 K42 und K62. Wer dem alten Eintrag folgt, nimmt dem
+Buch seinen Hebel.
+
+**Er erklärt nie etwas** - das hält.
 
 **Die Probe für das Endgespräch:** kein Satz von ihm darf eine Rechtfertigung
 sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
+
+### Und er ist nicht der einzige Stumme
+
+**Minister Min-ho: null Zitate im ganzen Buch.** Gegengelesen am 25.08. über
+alle Fundstellen - zehn, in b1 K09, K11, K12 und K15 -, und in keiner einzigen
+steht ein Wort von ihm in Anführungszeichen.
+
+**Der Erzähler sagt ausdrücklich, dass das die Figur ist**, und der Satz endet
+besser, als ich ihn zuerst zitiert habe:
+
+> *"Min-ho **said almost nothing**. He asked two questions, both short, both
+> about other people. He agreed with a thing somebody said and it cost him
+> nothing to agree **and he did not repeat it**."*
+
+**Die zwei Fragen werden gezählt und nicht wiedergegeben.** *"Four minutes on
+the terrace, and it was the most useful four minutes of the night, **and not one
+second of it was about the minister**."*
+
+*(Hier stand "ein Mann, dessen Anwesenheit ein Kapitel trägt". Zu gross: er
+trägt **vier Minuten** eines Kapitels, das Hana gehört. Was tatsächlich zählt,
+ist, dass die vier Minuten in drei Kapiteln nachwirken - b1 K15 zweimal, aus
+Hanas Mund: *"you were standing at my elbow being enchanting at a minister"* -
+**ohne dass er je zitiert wird.**)*
+
+**Wer ihm eine Replik gibt, macht aus einer Machtdemonstration eine
+Nebenrolle.** Dasselbe Mittel wie bei Choi Dae-ho, nur über vier Minuten statt
+über hundert Kapitel.
+
+**Mrs Ryu: eine einzige Stelle im ganzen Buch**, b1 K07, und sie ist die
+leiseste der drei.
+
+> *"He asked Mrs Ryu about the arbitration. He asked her whether she had
+> actually walked out of the room in Singapore … **She said that she had.**"*
+> *"Her face did not change very much. But **she talked to him for six minutes,
+> and she was not a woman who gave six minutes**."*
+
+*(Hier stand nur "sie antwortet in indirekter Rede". Das ist richtig und es ist
+nicht der Punkt. **Ihre Figur ist eine Dauer:** sechs Minuten von einer Frau,
+die keine sechs Minuten gibt. Der ganze Wortwechsel wird zusammengefasst und
+nicht zitiert, und das Ergebnis steht als **Zahl** da, nicht als Satz.)*
+
+**Sie bleibt so.** Wer ihr eine Replik gibt, muss die sechs Minuten aufgeben -
+und die sechs Minuten sind das Einzige, was sie ist.
+
+### Wer nur genannt wird und nie spricht
+
+Nachgezählt am 25.08. über alle 108 Kapitel, damit niemand ihnen versehentlich
+eine Stimme gibt: **Mr Noh** (b1 K05), **Chef Bang Seung-min** (b1 K08),
+**Jae-sung** (Woo Jae-sung, der volle Name des Chairmans), **Mrs Uhm** (b2 K17),
+**Miss Heo** (b2 K29), **Mr Han** (b2 K31), **Min-a** (b2 K31), **Hyun-woo**
+(b2 K58), **Hye-jin** (b1 K24), **Mr Tak** (b2 K72, K74).
+
+**Und die zwei Namen, die keine zweite Person sind:** *Do Kyung-ae* ist Ahn
+Jung-hees Deckname, *Moon Hae-sook* die Frau am Fenster. Wer sie als eigene
+Figuren zählt, zählt vier Frauen, wo zwei sind.
 
 ---
 
@@ -15513,9 +15659,115 @@ steht und nicht im Dokument.**
 #### Nebenher aufgeraeumt: zwei Dateien hiessen doc/13
 
 Die Pruefsitzung hat `doc/13-zusagen.md` angelegt und in `CLAUDE.md` eingetragen,
-waehrend dieses Blatt schon `doc/13-stilprotokoll.md` hiess. **Umbenannt in
+waehrend dieses Blatt schon unter derselben Nummer lief (13-stilprotokoll). **Umbenannt in
 `doc/14-stilprotokoll.md`**, Verweise in `doc/09` nachgezogen. `doc/13` gehoert
 jetzt eindeutig dem Schuldbuch.
+
+---
+
+### Die fuenf neuen Blaetter gegengelesen, und wer sonst noch fehlt
+
+**Auftrag: die fuenf wie die anderen pruefen, und nachsehen, ob jemand fehlt.**
+
+#### Sechs Fehler in fuenf frisch geschriebenen Blaettern
+
+| Blatt | stand da | Befund |
+|---|---|---|
+| **Nam Byung-hee** | *"Ihr erstes Wort ist **immer** die Zaehlung"* | In b2 K08, beim **ersten** Treffen, sagt sie *"You are not from here."* und *"Say your name."* Die Zaehlung faengt erst an, nachdem sie weiss, wer er ist - **ein Bogen, kein Tic** |
+| Nam Byung-hee | *"eine der saubersten Stimmen im Buch"* | sagt wenig: **dreizehn von dreissig** Sprechern haben keinen Haustic. Ersetzt durch das, was belegbar ist - der Erzaehler in b2 K08: *"without any self-pity in it at all, which made it worse"* |
+| **Baek Jun-ho** | *"mit Abstand vor Hwang (11,9)"* | zweiter ist **Mr Chae mit 12,4** |
+| Baek Jun-ho | Jahre 22,5, *"ebenfalls der hoechste Wert"* | zweiter hinter Ye-rin (41,7 aus 24 Woertern). Hoechster **ab 90 Woertern** - Schwelle ergaenzt |
+| **Kim Sung-ho** | *"Drei Repliken, und alle drei sind Anweisungen"* | **Fuenf**, und *"You work for the woman."* ist keine Anweisung. Eine Zeile in K26 gehoert **Georgij** und stand nur neben Sung-hos Namen |
+| **Mr Ku** | *"Zwei Repliken, und beide sind Ereignisse"* | **eine**. Die zweite Fundstelle ist Erzaehlung - und die ist der eigentliche Auftritt, weil **nicht dasteht, was er gesagt hat** |
+| **Mr Ok** | *"die vollstaendigste Personenbeschreibung im Buch"* | unbelegbarer Superlativ. Jetzt: die Beschreibung, aus der Georgij in b2 K18 die neun Zeilen zieht |
+
+**Dabei ist Sung-hos Maschine erst sichtbar geworden.** Er urteilt ueber das, was
+gerade passiert ist, und haengt eine Anweisung an, beides in einem Atemzug:
+*"It was fair and he answered it." Sung-ho had not raised his voice. "Now sit
+still."* Und er gibt Georgij am Ende von b1 K32 die Hand und haelt sie eine
+Sekunde zu lang - **der Gegensatz zu Woo, der in beiden Baenden keine einzige
+schuettelt.**
+
+#### Fehlt sonst jemand: drei, und keiner braucht ein Stimmblatt
+
+Ueber alle Namensformen im Buch geprueft, nicht nur ueber Begleitsaetze.
+
+**Minister Min-ho (b1 K09) spricht nie**, und der Erzaehler sagt, dass das die
+Figur ist: *"Min-ho said almost nothing. He asked two questions, both short."*
+**Die zwei Fragen werden genannt und nicht wiedergegeben.** Vier Minuten, die das
+Kapitel tragen, ohne ein Zitat. Eingetragen neben Choi Dae-ho, damit ihm niemand
+versehentlich eine Replik gibt.
+
+**Mrs Ryu (b1 K07)** antwortet nur in indirekter Rede. **Zehn weitere Namen**
+werden genannt und sprechen nie - Mr Noh, Chef Bang Seung-min, Mrs Uhm, Miss Heo,
+Mr Han, Min-a, Hyun-woo, Hye-jin, Mr Tak, Jae-sung. Alle aufgelistet, damit die
+Liste beim naechsten Mal nicht wieder von vorn erarbeitet wird.
+
+**Und zwei Namen sind keine zweiten Personen:** *Do Kyung-ae* ist Ahn Jung-hees
+Deckname, *Moon Hae-sook* die Frau am Fenster.
+
+#### Die neuen Kapitel
+
+Band 2 steht inzwischen bei **K74**. In K69 bis K74 sprechen Ahn, Mrs Jeon,
+Mr Kwon und Sim - **alle vier haben ein Blatt. Kein neuer Sprecher ohne
+Eintrag.**
+
+---
+
+### Min-ho und Mrs Ryu gegengelesen: drei Fehler, und einer verdeckte den Beat
+
+**Min-ho, geprueft ueber alle zehn Fundstellen** (b1 K09, K11, K12, K15).
+**Null Zitate bestaetigt** - in keiner einzigen steht ein Wort von ihm in
+Anfuehrungszeichen.
+
+| stand da | Befund |
+|---|---|
+| das Zitat endete bei *"it cost him nothing to agree."* | **Der Satz geht weiter und endet besser:** *"…and he did not repeat it."* Ein Maechtiger, der einmal zustimmt und es nicht wiederholt |
+| *"ein Mann, dessen Anwesenheit ein Kapitel traegt"* | **Zu gross.** Er traegt **vier Minuten** eines Kapitels, das Hana gehoert. Was zaehlt: die vier Minuten wirken in drei Kapiteln nach - b1 K15 zweimal, *"you were standing at my elbow being enchanting at a minister"* - **ohne dass er je zitiert wird** |
+
+**Mrs Ryu: eine einzige Fundstelle im ganzen Buch**, b1 K07 Z166. Der Eintrag
+sagte, sie antworte in indirekter Rede. **Das stimmt und es ist nicht der
+Punkt** - und der Punkt stand zwei Zeilen weiter, ungelesen:
+
+> *"Her face did not change very much. But **she talked to him for six minutes,
+> and she was not a woman who gave six minutes**."*
+
+**Ihre Figur ist eine Dauer.** Der ganze Wortwechsel wird zusammengefasst statt
+zitiert, und das Ergebnis steht als **Zahl** da und nicht als Satz. Wer ihr eine
+Replik gibt, muss die sechs Minuten aufgeben, und die sechs Minuten sind das
+Einzige, was sie ist.
+
+**Die Lehre, und sie gilt fuer alle drei Stummen:** bei einer Figur ohne Replik
+steht ihr Blatt nicht in dem, was sie sagt, sondern in dem, was der Erzaehler
+ueber sie **misst** - zwei Fragen, vier Minuten, sechs Minuten. **Wer nur nach
+Anfuehrungszeichen sucht, findet bei ihnen nichts und schreibt deshalb nichts
+auf.**
+
+### Choi Dae-ho gegengelesen - vier Fehler, einer davon umgedreht
+
+**Die Kernaussage haelt:** null Repliken, nachgezaehlt ueber alle 108 Kapitel
+bei 22 Fundstellen auf seinen Namen. Der Eintrag sagte *"achtundneunzig
+Kapitel"* - das Buch ist seither um zehn gewachsen.
+
+| stand da | Befund |
+|---|---|
+| *"ausgerichtet von Sim und von **Yeom**"* | **Yeom steht auf der falschen Seite des Satzes, und das Buch berichtigt es selbst.** Georgij, b2 K38: *"That puts him **on the end of the sentence, not the one saying it**."* Yeom ist Empfaenger |
+| *"viermal belegt"* | Die vier in b2 K53 sind **Empfaenger einer Methode**, nicht Belege einer Stimme. Belegt ist die Zeile in **zwei Muendern**: Choi selbst bei Mr Oks Mittagessen (b2 K17/K18), Sim bei Mrs Gwak, Yeom und Mrs Ha |
+| *"Er stellt **genau eine** Frage"* | **Falsch.** Allein in Mr Oks Bericht vier: Ulsan-Kueste, die kleinen Betreiber, einer davon namentlich, die Kataloge. Singulaer an Woos Frage ist etwas anderes - sie fragt **nicht nach einem Geschaeft, sondern nach einer Verbindung**, und Woo sagt genau das: *"Not who I had told. Not who knew. Who I would telephone."* |
+| *"**er isst nichts**"* | **Das Gegenteil dessen, was im Buch steht.** Annie, b2 K18: *"He eats a great deal, and he enjoys it, and he does it at his own table and nowhere else. **He does not eat in front of people he is working on.**"* |
+
+**Der letzte ist der teuerste.** Ein Mann, der nichts isst, ist eine Marotte.
+Ein Mann, der viel isst und ausgerechnet dann nicht, wenn er arbeitet, ist eine
+**Landkarte** - Georgij benutzt sie in b2 K42 und K62, um zu bestimmen, wo Choi
+gearbeitet hat. Wer dem alten Eintrag folgt, schreibt die Marotte und nimmt dem
+Buch den Hebel.
+
+**Und der zweite ist die Falle fuers Schreiben:** wer Choi endlich sprechen
+laesst, muss wissen, dass *"It has been good to see you again"* **seine
+Erfindung und Sims Werkzeug** ist. Beide benutzen sie, und wer das verwechselt,
+gibt Choi eine Zeile, die im Buch fast immer ein anderer sagt.
+
+*Unsicher:* keiner.
 
 ---
 
