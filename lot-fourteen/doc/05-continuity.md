@@ -1278,7 +1278,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
-- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.4) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.5) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
 
   **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
 
@@ -1409,7 +1409,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und das zweite Stueck vom Regal, und Annie zaehlt selbst mit:** der Mann, den er sucht, **besitzt an dieser Adresse ebenfalls nichts.** Keine Anteile, an keiner der zehn, nie. *"He is the reason ten companies with no staff are on the third floor of a building in Jung-gu, and there is no document anywhere in this country that says so, and there never will be, and that is what you are proposing to walk towards."*
 
-- **Band 2, Kapitel 24** *Ten minutes on a Friday* (v1.2) - **Tag 224 bis 228, Fr 15. bis Di 19. Mai.**
+- **Band 2, Kapitel 24** *Ten minutes on a Friday* (v1.3) - **Tag 224 bis 228, Fr 15. bis Di 19. Mai.**
 
   **Die schwerste Entscheidung des Bandes faellt, und sie ist Papierkram.** Ein Registerauszug, zehn Minuten, ein Formular und eine Gebuehr, *"done about four thousand times a day by clerks who are thinking about lunch"*. Und: **"He put his own name on it, because there is nobody else's he could have used."**
 
@@ -1463,7 +1463,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Dazu Georgijs einziger Rat an Yeom, und er ist ernst gemeint:** *"Do not say the rest of that out loud in this room. ... you have just told me you do not know who you did it for, and that is the only thing keeping you comfortable, and it is a great deal safer than knowing."*
 
-- **Band 2, Kapitel 26** *The third name on a list of three* (v1.2) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
+- **Band 2, Kapitel 26** *The third name on a list of three* (v1.3) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
 
   **Der Grund, es im Maerz nicht zu tun, ist am 15. Mai um zwanzig nach neun in ein Registeramt gegangen.** Deshalb geht er jetzt hin. Das Korridorangebot aus Kapitel 4 wird zum ersten Mal so benutzt, wie es gemeint war, **und Sang-hoon kommt durch vierzig Leute selbst herueber**: *"There is never a corridor. It is a figure of speech and you knew what I meant in March."*
 
@@ -1491,7 +1491,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.3) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+- **Band 2, Kapitel 27** *What he collects* (v1.4) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -1797,7 +1797,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss zaehlt die Leute auf, die ohne es zu wissen jetzt zur Bestaetigung einer Kindheitserinnerung geworden sind:** die Aushilfe, der Mann, der die Kaertchen kopiert hat, der Fahrer, der auf jeden Zettel geschrieben hat. **Und die letzte Zeile im Notizbuch ist fuer die Blumenverkaeuferin gedacht und nicht fuer Annie**, was ihm erst auffaellt, als er sie schon geschrieben hat: *"Four days. Not hers to lose either."*
 
-- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.6) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
+- **Band 2, Kapitel 35** *Everything I am allowed to say* (v2.7) - **Tag 245, Fr 5. Juni. Ein Telefonat, ein Korridor, der Garagengang am Abend.**
 
   **Sang-hoon bricht sein eigenes Muster** (*"Sang-hoon does not telephone"*) und fragt direkt nach dem Kapitel-26-Auftrag. Die Szene ist eine Probe auf Regel 1 unter Zeitdruck: Georgij darf schweigen, weglassen, nicht aber luegen.
 
@@ -1840,7 +1840,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Name faellt in diesem Kapitel.** Annie liest am Abend die vier Zeilen und waehlt eine andere zuerst als Georgij - **welche, bleibt offen fuer das naechste Kapitel, das den Faden aufnimmt.**
 
-- **Band 2, Kapitel 38** *The one with two parts* (v2.2) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
+- **Band 2, Kapitel 38** *The one with two parts* (v2.3) - **Tag 257, Mi 17. Juni. Ein Telefonat, dann der Garten am Nachmittag.**
 
   **Annie waehlt "Y" zuerst, mit Begruendung:** *"Eleven months is close enough that people still remember what they wore. Four years is a story by now."* Georgij haette mit der aeltesten Initiale angefangen, weil sie naeher an Los sechs liegt - **sie laesst die Meinungsverschiedenheit stehen, ohne sie zu kommentieren.**
 
@@ -1852,7 +1852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ergebnis des Kapitels: eine Methode, kein Name.** Yeom ist vorlaeufig entlastet, nicht bewiesen unschuldig - die Restaurant-Buchpruefung folgt. Sang-hoon bekommt die korrigierte statt der ordentlichen Antwort, **und Georgij nennt es selbst: "the same answer, corrected."**
 
-- **Band 2, Kapitel 39** *A room that is somebody else's now* (v2.0) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
+- **Band 2, Kapitel 39** *A room that is somebody else's now* (v2.1) - **Tag 259, Fr 19. Juni. Zwei Kuechen, ein Gespraech in der Bibliothek am Abend.**
 
   **Die Restaurant-Buchpruefung aus Kapitel 38, und sie foerdert mehr zutage als sie sollte.** Vier Lokale bei Sinsa haben seit letztem Juli den Besitzer gewechselt. Das gesuchte gehoert jetzt einer Frau, die vom Vorbesitzer Mr Baek nichts hat ausser einer kaputten Kaffeemaschine - **und die im April bereits einmal danach gefragt wurde**, von einem Mann, der abzog, sobald die Spur in einem Buero statt in einer Kueche endete.
 
@@ -1862,7 +1862,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *What the road knows* (v2.1) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *What the road knows* (v2.2) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -1888,7 +1888,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Nachgetragen in Fassung 1.1:** Das Kapitel sagt jetzt aus, **warum** er den schnellen Weg nicht nimmt, und legt damit das Werkzeug fuer Kapitel 46 hin. Der Laptop steht seit seiner ersten Woche im kleinen Zimmer, von Annie selbst dorthin gestellt. Der Grund ist nicht die Regel dieser Woche: **Papier hinterlaesst keine Handschrift.** Jedes Register, das er dieses Jahr gelesen hat, haette jeder lesen koennen - und Choi Dae-ho liest Handschrift.
 
-- **Band 2, Kapitel 42** *Four owners deep* (v2.1) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
+- **Band 2, Kapitel 42** *Four owners deep* (v2.2) - **Tag 270, Di 30. Juni. Ein Restaurant, ein Tisch statt eines Privatraums.**
 
   **Sang-hoon liefert das Ergebnis, das der ganze Faden seit Kapitel 33 gebraucht hat.** Vier Eigentuemer sind vier Firmen, drei davon reine Huellen ohne eigenes Geschaeft. **Die vierte ist ein Trust** - und ein Trust muss niemanden nennen, der davon profitiert, nur wer ihn verwaltet: Solicitor **Baek Jun-ho**, Yeouido, seit elf Jahren, ausdruecklich nicht der Koch aus Kapitel 39 (Sang-hoon hat es selbst geprueft, bevor er den Namen brachte - dieselbe Vorsicht, die Georgij sich seit Kapitel 37 selbst auferlegt hat).
 
@@ -1912,7 +1912,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 44** *Somebody in Seoul pays for it* (v2.0) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
+- **Band 2, Kapitel 44** *Somebody in Seoul pays for it* (v2.1) - **Tag 276, Mo 6. Juli. Zwei Szenen: das kleine Zimmer am Tag, dann der Abend mit Annie.**
 
   **Georgij nimmt sich Sang-hoons Aufgabe aus Kapitel 42 vor - nicht ob die Frau lebt, sondern ob sie dieselbe ist.** Statt an ein Tor zu gehen, sucht er nach dem, was ein Haus mit einer medizinischen Notwendigkeit anmelden muss: **eine Brandschutz-Meldung fuer medizinischen Sauerstoff.** Die Adresse aus Sang-hoons Grundbuchrecherche taucht in der Meldeliste **genau einmal auf, im Juli vor vier Jahren** - weder frueher noch spaeter storniert.
 
@@ -2490,7 +2490,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
 
-- **Band 2, Kapitel 47** *Twelve white stems* (v1.1) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
+- **Band 2, Kapitel 47** *Twelve white stems* (v1.2) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
@@ -2502,11 +2502,11 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.1) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.2) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 51** *The sixth one* (v1.1) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
+- **Band 2, Kapitel 51** *The sixth one* (v1.2) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2514,7 +2514,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 53** *The one I did not say in May* (v1.1) - **Tag 305, Di 4. August. "I am the February one."**
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.2) - **Tag 305, Di 4. August. "I am the February one."**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2653,6 +2653,74 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Zuschreibung, Band 2, Kapitel 19 bis 53 - der Durchgang ist durch (25.08.)
+
+Neun Lesegruppen mit dem Kanonblatt, danach jeder Fund durch einen Gegenpruefer,
+dessen Auftrag lautete zu **widerlegen**. **Neunundzwanzig Rohfunde, zwanzig
+haben ueberlebt.** Dazu ein einundzwanzigster, den ich beim Nachpruefen der
+Belege selbst gefunden habe. **Neunzehn sind angewandt, zwei zurueckgehalten.** Beim Push kollidierten
+sechs Versionsnummern mit einer anderen Sitzung; nach der Regel aus doc/09 hat
+ihre Fassung gewonnen und meine Aenderungen sitzen obendrauf.
+
+**Die vier, die den Kalender falsch hatten.**
+
+- **Kapitel 27 und 35: der Abend am Fenster war der 1. Maerz, nicht der 2.**
+  Band 1, Kapitel 34 ist Tag 149, Sonntag, der 1. Maerz, und Band 2, Kapitel 1
+  sagt *"the end of that Sunday"*. Kapitel 35 liess Georgij *"On the second of
+  March I sat at a window against your legs"* sagen, Kapitel 27 liess Annie
+  ihren Satz vom kein Strich, kein Besitzer, kein Datum auf den **2. Januar**
+  datieren - gesagt hat sie ihn am 1. Maerz, und am 2. Januar konnte sie ihn
+  nicht sagen, weil der Strich erst am 19. Februar fiel.
+- **Kapitel 20:** *"You told me on the third"* -> **zwanzigsten Maerz**. Das
+  Versprechen Ende April faellt in Kapitel 9, und Annies Bedingung *"say it
+  again on the first"* haengt daran.
+- **Kapitel 26:** *"the fourteenth minute of the first evening"* ->
+  **siebzehnte**. Band 1, Kapitel 7: *"he had been inside the building seventeen
+  minutes when somebody handed him... the exact shape"*.
+- **Kapitel 47** (mein eigener Fund): zweimal *"the twenty-third of June"* fuer
+  die Bae-Szene. Kapitel 41 traegt **Tag 262, Montag, den 22. Juni**.
+
+**Die vier, bei denen eine Tat oder ein Satz gewandert ist** - dieselbe Klasse
+wie der Kartenfehler:
+
+- **Kapitel 42:** *"You said a week ago that you would find out what he actually
+  owns behind the lawyers in Singapore"*, gesagt zu Sang-hoon. Die Wortfolge
+  steht im ganzen Buch genau zweimal, und das andere Mal ist **Annie** in
+  Kapitel 34. Sang-hoons eigene Zusage lautet anders.
+- **Kapitel 40:** *"because it was Georgij who had hired him"*. **Jang ist von
+  ihrem Haus eingestellt worden**, nicht von Georgij.
+- **Kapitel 40:** die Sechs-bis-zehn-Schaetzung war *"the delivery man's own
+  estimate and not mine"* - sie ist **Jangs eigene**, eine Stunde vorher im
+  selben Raum, aus seiner Kistenzaehlung.
+- **Kapitel 42:** *"What do you want to do with the solicitor," he said.* - der
+  Sprecher ist Sang-hoon und war nicht auszumachen.
+
+**Die uebrigen sieben.** Kapitel 24 zaehlte drei Besuche *"in the order they
+happened"* und hatte Hwang (4. Mai) hinter Byun (6. Mai) - die Reihenfolge ist
+gedreht. Kapitel 38 fusionierte zwei Telefonate zu einem. Kapitel 39 fragte nach
+*"the one who did not book it"*, obwohl die Buchungsgewohnheit von dem stammt,
+der bucht. Kapitel 42 machte aus einem Essen vor elf Monaten *"last August"*.
+Kapitel 44 datierte eine Handlung auf Oktober statt April. Kapitel 50 hatte drei
+Stellen (26. statt 27. Mai; ein Datum am falschen Satzteil; vier Tage statt
+einer Nacht). Kapitel 51 machte aus einem Vierzehntag vier Tage. Kapitel 53
+machte aus sechs Wochen drei und aus *zuletzt benutzt* *zuerst benutzt*.
+
+**Zwei zurueckgehalten, und zwar bewusst.**
+
+- **Kapitel 49**, der Anruf am Donnerstag. Der Absatz ist **in sich stimmig**
+  (Donnerstag angerufen, *"the day after"*, Mittwochnacht entschieden). Der
+  Vorschlag haengt an einem Besuchsdatum, das ich nicht selbst belegen konnte.
+  Wer den Tag des Besuchs kennt, entscheidet.
+- **Kapitel 53**, der zweite Teil des Vorschlags war eine **Ergaenzung** und
+  keine Korrektur. Angewandt ist nur *three weeks* -> *six weeks*, und das ist
+  gerechnet: 22. Juni bis 4. August.
+
+**Was die Gegenpruefung weggenommen hat:** neun von neunundzwanzig. Die
+haeufigste Widerlegung war, dass zwei Angaben Verschiedenes messen, oder dass
+eine Figur im Dialog zulaessig ungenau spricht.
 
 ---
 
