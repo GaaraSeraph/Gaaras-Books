@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 241.507 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 242.478 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -219,6 +219,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler](#doc-12-vollstaendig-gegengelesen-zwoelf-blaetter-dreiundzwanzig-fehler)
   - [doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter](#doc-12-der-rest-die-regeln-die-achsen-der-index-die-gemessenen-blaetter)
   - [Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert](#die-anrede-fuer-georgij-in-band-2-vom-autor-als-drift-bestaetigt-repariert)
+  - [Band 1: die Ton-Etiketten, und der Befund ist, dass Band 1 nicht das Problem war](#band-1-die-ton-etiketten-und-der-befund-ist-dass-band-1-nicht-das-problem-war)
 - [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -3229,7 +3230,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 ### Stand der Kapitel
 
 - **Kapitel 1** *Merchandise doesn't talk* (v6.10) - Auktion, Los elf, der Zuschlag, die Fahrt, quid pro quo. Endet auf "Unless somebody buys him first."
-- **Kapitel 2** *Quid pro Quo* (v11.11) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
+- **Kapitel 2** *Quid pro Quo* (v11.12) - Die Auffahrt, zwei Stromstöße, das Angebot zu Los elf, das Auge, die Einlösung des Vertragssatzes, ihr Auftrag, die Fernbedienung neben der Schlüsselschale.
 - **Kapitel 34** *Then take it off* (v1.10) - **Drei Abschnitte, und der Schluss von Band 1.**
 
   **Tag 91, Fr 2. Januar. Der Befehl.** Sie sitzt eine Stunde vor dem Wagen im kleinen Zimmer und hat nach niemandem geschickt. *"There is nothing for you between now and March. ... You will not open anything new. You will not go and look at anybody."* **Er fragt nicht nach dem Grund, sondern nach der Kante** - *"Does that include what is already open?"* -, und die Kante ist enger als erhofft: *"It includes going and looking."* Sie stellt fest, dass er nicht gefragt hat, sagt nichts dazu und geht.
@@ -3264,10 +3265,10 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Der Registereintrag zum Schluss, und die drei Dokumente.** *There is no column on that page for what a man is called. There has never been one, because a name is the one thing in the transaction that nobody on either side of it needs.* Die anderen beiden - die im Oktober geordneten Papiere und die Vollmacht - tragen seinen Namen und handeln davon, **was er tun darf**. Das Registerblatt war das einzige, das davon handelte, **was er ist**.
 
-- **Kapitel 33** *That is five* (v1.14) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
-- **Kapitel 32** *In those words* (v1.3) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
-- **Kapitel 31** *A number and a date* (v1.8) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
-- **Kapitel 30** *Who do they telephone* (v1.11) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
+- **Kapitel 33** *That is five* (v1.15) - Tag 87, Montag der 29., in der toten Woche zwischen den Jahren. Sang-hoon kommt **die Auffahrt herauf**, angemeldet, nicht ueber die Mauer, und bietet **2.200.000.000 Won**. Annies Hand geht nirgendwohin; die Jacke haengt in einem anderen Zimmer. Sie dreht den Kopf fuenfzehn Grad zu Georgij, und das ist alles, was sie tut. **Er bittet sie vorher um Erlaubnis, ihre Anweisung aus 17 zu brechen** ("Be pleased with it in this car and nowhere else"). Dann die **fuenfte und letzte Guidance**, und er sagt vorher, dass er diesmal nicht wirklich fragt: *"Please guide me. How does a man let go of a sweet, sweet, beautiful, poisoned apple that he has already bitten into?"* Elf Sekunden, dann lacht Sang-hoon. Auf die Kims: *"There is nothing to announce."* - *"That is not an answer."* - *"It is the whole answer."* Annies vier Woerter: **"He was never for sale."** Und an der Tuer legt Sang-hoon **eine Zahl in Georgijs Kopf**, sagt, sie sei zu niedrig, und dass er nicht zweimal zahlt. Im Maerz will Annie ihn fragen, was er will.
+- **Kapitel 32** *In those words* (v1.4) - Tag 80, Montag der 22., in Sung-hos Haus von 1974. Neun Leute, Ye-rin zum ersten Mal seit zwanzig Jahren mit einem Fremden in einem Raum, auf dem Stuhl, von dem aus man beide Tueren sieht. Georgij steht und macht die unangenehme Haelfte zuerst. **Die schaebige Frage - "How much are they paying you?" - und die wahre Antwort: nichts, und er wird nicht bezahlt.** Dann sagt der Cousin mit dem Temperament, dass ihm zweimal Geld geboten wurde, und **der ganze Tisch dreht sich zu Ye-rin um, ohne dass einer es entscheidet.** Die siebzehn Fotos aus 15, live, in anderthalb Sekunden. Georgij sagt nichts dazu, weil Benennen es zum Trick machen wuerde. Unterschrift um zehn nach vier, Ye-rin zuletzt auf Seite elf. Do-yun am Tuerrahmen: sechs Tage statt vierzehn.
+- **Kapitel 31** *A number and a date* (v1.9) - Der Rest des Abends, die Heimfahrt, und Annie wach im kleinen Zimmer mit nichts in den Haenden. Der Bericht gerafft. **Dann fragt sie ihn, was er will, und er sagt es nicht** - mit derselben Begruendung, die er eine Stunde vorher Ye-rin gegeben hat, und sie erkennt es. Sie setzt **Maerz** darauf. Am Morgen Woo am Telefon: es hat funktioniert, die Fotos waren nicht verschwendet, und seine eine Frage aus Kapitel 13 hat es getan. Der Raum: Montag, der 22., bei Sung-ho, kein Hotel.
+- **Kapitel 30** *Who do they telephone* (v1.12) - Die Terrasse, zweiundzwanzig Minuten. **Das eine Gespraech, und es ist gelungen.**
 
   **Sie geht selbst hinaus**, ohne Mantel, und stellt sich an die Ecke, von der aus das Glas den ganzen Raum gibt - dorthin, wo sie die Tueren sieht. Er gibt es vierzig Sekunden und folgt.
 
@@ -3312,7 +3313,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
 
   **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
-- **Kapitel 28** *A woman in a room can be asked* (v1.8) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+- **Kapitel 28** *A woman in a room can be asked* (v1.9) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
 
@@ -3338,7 +3339,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
-- **Kapitel 27** *Not out of your account* (v3.7) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v3.8) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -3360,7 +3361,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Die Lampe ueber der Stufe ist repariert**, achtzigtausend Won und ein Mann auf einer Leiter, nach zwei Jahren. Sie sagt es ihm von sich aus, damit er es nicht zaehlt.
 
-- **Kapitel 26** *The name and the control* (v1.7) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
+- **Kapitel 26** *The name and the control* (v1.8) - Zwei Tage. Freitag faellt der Apfelsatz, den er seit September traegt: *"He has eaten the apple. All of it, in twelve days."* Montag steht er zum ersten Mal vor der Familie Kim, in ihrem eigenen Gebaeude, an ihrem Tisch.
 
   **Er legt Woos Vertrag zuerst hin, bedingungslos**, bevor er irgendetwas verlangt - sieben Jahre Ladung, ausgefertigt am 20. November, vierzehn Tage nachdem der Zoll ins Gebaeude ging. Dann verkauft er ihnen den schlimmsten Teil zuerst, weil sie ihn ohnehin finden wuerden: **"You keep the name. And she gets the control."** Der Satz aus `doc/04-world.md`, aus seinem Mund und nicht aus ihrem, ohne ein einziges weichmachendes Wort.
 
@@ -3447,7 +3448,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   Kapitel 6 bestaetigt die Frist in der ersten Zeile: *"the place the remote had lain for the first eight days he was in the house."* Der Gala-Absatz schliesst mit *"he was going to know it every minute until they came home."*
 
   **Seither traegt sie sie am Koerper, und er weiss es jede Minute.** Genau das macht Kapitel 22 hart: Er hat sie an dem Abend die Jacke anziehen sehen. Er wusste, wo das Ding ist, und hat es nicht gedacht. **Eine Fassung, in der er ueberrascht ist, weil das Geraet irgendwo lag, ist falsch.**
-- **Kapitel 21** *The ones who come at nine* (v1.10) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
+- **Kapitel 21** *The ones who come at nine* (v1.11) - Hanas Haus. Der Abend im Dezember wird gebaut: drei Wellen, die Laufordnung, der Fotograf bis neun. Kang steht auf ihrer Gaesteliste, seit neun Jahren, und Georgij kann nichts dagegen sagen, ohne zu erklaeren warum - sie sieht das Zoegern trotzdem. Sie fragt, wofuer der Abend ist, und nimmt die Frage selbst zurueck, und der Grund ist Kang. Die Rechnung dafuer stellt sie ihm noch im selben Gespraech, als das Loch in der Laufordnung auffaellt. **Der Rundgang durch das ganze Haus**, vierzig Minuten, auf seine Bitte und mit ihrer Erlaubnis - zweimal, einmal fuer das, was da ist, und einmal fuer das, was von wo nicht zu sehen ist, genau wie in Kapitel 3, nur bei Tageslicht und mit der Eigentuemerin daneben. Zwei Treppen, der Dienstflur hinter dem Esszimmer, die kaputte Lampe ueber der Stufe, das Arbeitszimmer ihres verstorbenen Vaters. **Und die vier Minuten in der Halle, die er abgeht** - drei Meter zwischen der Stelle, an der ein Ankommender wartet, und der, an der ein Gehender wartet, mit einem Steintisch dazwischen, der etwas Hohes bekommt. *"Your mother's housekeeper was arranging a party. I am arranging four minutes."* Die Terrasse als Ort fuer Ye-rin. Der Flirt in der Halle, der nicht abgewiesen, sondern ueberholt wird.
 
   **Kein Hanseong in diesem Kapitel, und das ist Absicht.** Eine Fassung hatte Georgij hier darum bitten lassen, das Scheingebot ueber Kang streuen zu lassen. Das ist ueberfluessig: Sang-hoon steht drei Tage nach dem Gebot selbst in Annies Salon (Kapitel 22) und redet darueber. Er weiss es aus erster Hand, lange bevor eine Dezember-Einladung herausgeht. **Damit ist Kang kein Werkzeug, sondern eine Belastung** - ein Mann, der an Sang-hoons Leute durchsticht, steht in dem Raum, in dem Woo oeffentlich neben die Kims tritt.
 **Wem der Routen-Satz gehoert, festgeschrieben am 23.08.** Er wandert durch sechs Kapitel und die Herkunft war in einem davon falsch.
@@ -3457,23 +3458,23 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** stand bis zum 23.08. auf *"He told me what that is"* und schrieb damit Woo die Mechanik zu, die Georgij eine Woche vorher **vor Annie** vorgetragen hatte. Sie war im Raum, sie haette es gewusst. Jetzt: *"He told me what it makes you"*, und Georgij sagt von sich aus dazu, wo er den Satz zuerst benutzt hat und wofuer. **Damit traegt Annies Schweigen danach etwas**, statt nur dazustehen.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
 
-- **Kapitel 20** *I came back with a favour* (v1.7) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
-- **Kapitel 19** *What happens on the Tuesday* (v1.13) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
-- **Kapitel 18** *On account* (v2.9) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.14) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
-- **Kapitel 16** *Where the walls are* (v1.17) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
-- **Kapitel 15** *Four thousand two hundred* (v2.10) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
-- **Kapitel 14** *In the same size type* (v7.8) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
-- **Kapitel 13** *The man with the open hand* (v2.9) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
+- **Kapitel 20** *I came back with a favour* (v1.8) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
+- **Kapitel 19** *What happens on the Tuesday* (v1.14) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
+- **Kapitel 18** *On account* (v2.11) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
+- **Kapitel 17** *I have never put it down* (v12.15) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 16** *Where the walls are* (v1.18) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
+- **Kapitel 15** *Four thousand two hundred* (v2.11) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
+- **Kapitel 14** *In the same size type* (v7.9) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
+- **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
 - **Kapitel 12** *You are better when you don't know* (v1.10) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
-- **Kapitel 11** *Thank you for telling me* (v2.10) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
+- **Kapitel 11** *Thank you for telling me* (v2.11) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.6) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.8) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
-- **Kapitel 6** *Withdrawn or sold* (v1.9) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.12) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
-- **Kapitel 4** *Count again* (v1.10) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
+- **Kapitel 6** *Withdrawn or sold* (v1.10) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
+- **Kapitel 5** *Seven Letters* (v5.13) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 4** *Count again* (v1.11) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
 #### Band 2
@@ -10835,7 +10836,28 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    ist eine Entscheidung und keiner ein Fehler - das Skript entscheidet die
    Machtlage nicht und darf es nicht.
 
-5. **Erzaehlerformeln.** *"did not soften"* und *"did not look away"* sind
+5. ~~**Erzaehlerformeln.**~~ **Erledigt fuer Band 1 am 25.08. - und der Befund
+   ist, dass Band 1 nie das Problem war.** Gezaehlt ueber beide Baende:
+
+   | | Band 1 (34 Kap.) | Band 2 (70 Kap.) |
+   |---|---|---|
+   | *did not soften* | 5 | **12** |
+   | *did not look away* | 6 | **10** |
+   | *without any … in it at all* | **1** | **9** |
+
+   **Und in Band 2 stehen sie geballt in den neuesten Kapiteln:** K67 bis K70
+   tragen allein **dreizehn** der zweiundzwanzig. **Die Formel wird gerade neu
+   angelegt, waehrend hier steht, dass sie abgebaut wird.** Das gehoert der
+   Schreibsitzung und nicht mir.
+
+   In Band 1 angefasst wurde genau eine Stelle, und die war doppelt: b1 K18 hatte
+   *"He said it flatly and did not soften it."* - Ton **und** Formel in einem
+   Beat, und vierzig Zeilen weiter noch ein *"He did not soften it."* Der
+   doppelte ist raus, der einzelne steht.
+
+   Der urspruengliche Eintrag lautete:
+
+   *"did not soften"* und *"did not look away"* sind
    **in Band 2, Kapitel 1 bis 34 erledigt** (24.08., 39 Stellen: 25
    zusammengelegt, 10 neue Beats, 2 im Erzaehltext, 2 behalten). Beide stehen
    danach unter der Schwelle und fallen aus dem Bericht.
@@ -10950,7 +10972,34 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
     und nicht rechnen** - die verbleibenden 2220 sind nicht mehr mechanisch
     trennbar.
 
-11. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
+11. ~~**Der Ton-etikettierende Beat.**~~ **Erledigt am 25.08.** Band 2 lief im
+    August, Band 1 jetzt: **zweiunddreissig reine Ton-Etiketten entfernt** aus
+    einundzwanzig Kapiteln.
+
+    **Die Probe war dieselbe wie in Band 2:** ein Ton-Beat verdient seinen
+    Platz, wenn er **etwas anderes tut als den Ton zu benennen** - einen Grund
+    (*because it did not need one*), einen Vergleich (*in the same courteous
+    register he had used for the cameras*), ein empfangenes Urteil (*which he
+    liked*), eine Richtung (*to the water*), ein Tempo (*immediately*), oder
+    eine Gegenueberstellung, die traegt (*He said it kindly* - nach dem Auge auf
+    dem Kies).
+
+    Gefallen sind die, die **nur** den Ton nennen - *plainly, flatly, levelly,
+    without any weight* - und in Reichweite ohnehin etwas Koerperliches haben.
+
+    **Band 1 war dabei deutlich besser als Band 2:** von 102 Stellen trugen 29
+    von sich aus etwas, und von den uebrigen sind rund fuenfzehn ebenfalls
+    stehengeblieben, weil sie Richtung, Tempo oder Wiederholung angeben und
+    nicht Ton. **Kein einziger Beat wurde erfunden** - jede Stelle ist ein
+    Zusammenlegen der zwei Redeteile.
+
+    Stand danach: **Band 1 69 Ton-Beats, 2,0 je Kapitel, 0,68 je 1000 Woerter.
+    Band 2 140, 2,0 je Kapitel, 0,81.** Die beiden Baende liegen damit erstmals
+    gleichauf, und Band 1 ist die duennere Haelfte.
+
+    Der urspruengliche Eintrag lautete:
+
+    **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
     Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
     sondern zwei Mitglieder einer Familie: **ein eigener Satz, dessen einzige
     Aufgabe es ist, den Ton der eben gesprochenen Replik zu etikettieren.**
@@ -12309,10 +12358,22 @@ Wagentür, in derselben Reihenfolge wie in K33.
 **Stand: Band 1 sechs, Band 2 zwei.** Sparsam und an der Bandgrenze, also genau
 dort, wo die Linie abgerissen war.
 
-**Was daran festgelegt ist:** die Anrede ist keine Höflichkeit, sondern ein
-Tausch. **Wer sie einsetzt, setzt beide Hälften.** Eine allein gegebene Anrede
-ist im Buch das Gegenteil - sie ist das, was Georgij den ganzen Band 1 lang tut
-und nicht zurückbekommt.
+**Was daran festgelegt ist, und der Autor hat es am 25.08. eingegrenzt:**
+
+> *"Mr Georgij nennen mich nur einige wenige Menschen."*
+
+**Es ist keine Anredeform, es ist eine Liste.** Vier Personen im ganzen Buch:
+**Kim Ye-rin** (die erste, b1 K30 und K32), **Hana** (b1 K31), **Park Sang-hoon**
+(b1 K33 zweimal, b2 K04 zweimal) und **Mr Chae** (b1 K34). Sonst niemand, und
+**wer sie einer fünften Figur gibt, macht aus einer Auszeichnung eine
+Höflichkeitsform.**
+
+Woo sagt sie nicht. Mrs Sunwoo sagt *"Young man."* Annie sagt den Vornamen. Der
+Haushalt sagt gar nichts. **Das ist kein Versehen, das ist die Skala.**
+
+**Und die Anrede ist ein Tausch, keine Höflichkeit. Wer sie einsetzt, setzt
+beide Hälften.** Eine allein gegebene Anrede ist im Buch das Gegenteil - sie ist
+das, was Georgij den ganzen Band 1 lang tut und nicht zurückbekommt.
 
 **Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
 wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
@@ -14855,6 +14916,68 @@ Einfuegung, deshalb steht sie hier.
 
 ---
 
+### Band 1: die Ton-Etiketten, und der Befund ist, dass Band 1 nicht das Problem war
+
+**Zweiunddreissig reine Ton-Etiketten entfernt** aus einundzwanzig Kapiteln,
+dazu eine doppelte Formel in b1 K18.
+
+**Meldung 1 - gestrichene Beats.** Alle zweiunddreissig sind **Zusammenlegungen
+zweier Redeteile**, kein Sprecherwechsel wird dadurch unklar - der Sprecher
+steht in beiden Faellen im selben Absatz:
+
+> vorher: *"I'm what it costs." He said it without any particular weight on it.
+> "There's nothing else of mine anywhere in the world."*
+> jetzt: *"I'm what it costs. There's nothing else of mine anywhere in the
+> world."*
+
+Zwei standen als **eigener Absatz** und sind ganz gefallen (b1 K26 *"He said it
+without a single softening word in it anywhere."*, b1 K18 der doppelte).
+
+**Meldung 2, 3 und 4:** keine. **Gegenprobe `faktenspur.py`:** sieben Kapitel,
+und jede Meldung ist derselbe Posten - `Georgij` um eins oder zwei niedriger,
+weil in den gestrichenen Beats sein Name stand.
+
+**Was geblieben ist und warum.** Von 102 Stellen trugen 29 von sich aus etwas.
+Von den uebrigen sind rund fuenfzehn ebenfalls stehengeblieben, weil sie nicht
+den Ton angeben, sondern etwas anderes:
+
+| bleibt | weil |
+|---|---|
+| *He said it kindly.* (b1 K02, nach dem Auge auf dem Kies) | Gegenueberstellung, und sie ist das Grauen |
+| *He said it courteously.* (b1 K01) | Rueckgriff - sie hat ihm die Hoeflichkeit gerade verboten |
+| *He said it immediately.* (b1 K18) | Tempo, und die Schnelligkeit ist die Antwort |
+| *He said it to the water.* (b1 K24) | Richtung |
+| *She said it again.* (b1 K24) | Wiederholung |
+| *She said it to Annie and not to him.* (b1 K15) | Adressat |
+| *She said it flatly and it was not flat underneath.* (b1 K31) | die zweite Haelfte |
+| *She said it kindly. She was going to be kind about it for the rest of her life, and it was going to cost him every time.* (b1 K09) | der Satz danach |
+
+**Kein einziger Beat wurde erfunden.**
+
+**Stand:** Band 1 **69** Ton-Beats, 2,0 je Kapitel, **0,68 je 1000 Woerter**;
+Band 2 **140**, 2,0 je Kapitel, 0,81. Erstmals gleichauf, und Band 1 ist die
+duennere Haelfte.
+
+#### Und der eigentliche Befund, der nicht Band 1 betrifft
+
+| | Band 1 (34 Kap.) | Band 2 (70 Kap.) |
+|---|---|---|
+| *did not soften* | 5 | **12** |
+| *did not look away* | 6 | **10** |
+| *without any … in it at all* | **1** | **9** |
+
+**In Band 2 stehen sie geballt in den neuesten Kapiteln: K67 bis K70 tragen
+allein dreizehn der zweiundzwanzig.** *did not look away* steht achtmal in
+diesen vier Kapiteln.
+
+**Die Formel wird gerade neu angelegt, waehrend in `doc/09` steht, dass sie
+abgebaut wird.** Das gehoert der Schreibsitzung, nicht dem Stil-Durchgang, und
+es ist der Grund, warum Punkt 5 dort jetzt mit der Zahl statt mit einer Absicht
+steht: **ein Posten, der nach jedem Durchgang wieder auflaeuft, ist keine
+Aufraeumarbeit, sondern eine Gewohnheit beim Schreiben.**
+
+---
+
 # Das Schuldbuch
 
 Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
@@ -16600,11 +16723,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b1ch25:264 | "The photographer goes at nine," said Woo. |
 | 59 | b1ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
 | 59 | b1ch25:292 | "Good," said Woo. "Do not do it again this year." |
-| 3 | b1ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
+| 3 | b1ch26:50 | "Since the sixth of November. It has been waiting for two things that did not exist yet... |
 | 6 | b1ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
 | 6 | b1ch26:126 | "Woo does not sign these," said the cousin. |
-| 6 | b1ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
-| 6 | b1ch26:310 | He put his hand back on Woo's contract. |
+| 6 | b1ch26:210 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
+| 6 | b1ch26:308 | He put his hand back on Woo's contract. |
 | 7 | b1ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
 | 7 | b1ch27:66 | "And Woo." |
 | 7 | b1ch27:80 | "You want to put Woo on her land." |
@@ -16615,7 +16738,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
 | - | b1ch28:66 | "Woo at seven," she said. "And the Kims." |
-| - | b1ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| - | b1ch28:146 | "Because everybody in this has had the worst part first except her. Woo got it in a shed.. |
 | 74 | b1ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
 | 74 | b1ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
 | 74 | b1ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
@@ -16787,7 +16910,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch25:264` (Tag 59) - nine
 - `b1ch26:50` (Tag 3) - one, two
 - `b1ch26:118` (Tag 6) - seven
-- `b1ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
+- `b1ch26:210` (Tag 6) - eight, forty, nine, one, seven, two
 - `b1ch27:58` (Tag 7) - one, seven, three, two
 - `b1ch27:118` (Tag 9) - four, three
 - `b1ch27:162` (Tag 9) - one, seven
@@ -16993,7 +17116,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:402 | Hana's face did not do anything. |
 | 49 | b1ch21:412 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 | 55 | b1ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
-| 6 | b1ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
+| 6 | b1ch26:260 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
 | 7 | b1ch27:22 | "Hana." |
 | 9 | b1ch27:158 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
 | 9 | b1ch27:164 | Hana put the pen down. |
@@ -18614,11 +18737,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b1ch26:92 | The third was Kim Do-yun. |
 | 6 | b1ch26:136 | Kim Do-yun spoke for the first time. |
 | 6 | b1ch26:148 | Do-yun's face did nothing at all. |
-| 6 | b1ch26:198 | "You are unusually direct," said Do-yun. |
-| 6 | b1ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | b1ch26:266 | Kim Do-yun got up and went to the window. |
-| 6 | b1ch26:276 | Do-yun turned round. |
-| 6 | b1ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 6 | b1ch26:196 | "You are unusually direct," said Do-yun. |
+| 6 | b1ch26:242 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | b1ch26:264 | Kim Do-yun got up and went to the window. |
+| 6 | b1ch26:274 | Do-yun turned round. |
+| 6 | b1ch26:284 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | b1ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
 | 74 | b1ch29:208 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
 | 74 | b1ch30:332 | "The second thing. Do-yun." |
@@ -18641,7 +18764,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:22` (Tag 31) - one
 - `b1ch14:26` (Tag 31) - forty
 - `b1ch16:208` (Tag 46) - four hundred, one
-- `b1ch26:286` (Tag 6) - one
+- `b1ch26:284` (Tag 6) - one
 - `b1ch29:78` (Tag 74) - two
 - `b1ch30:346` (Tag 74) - four
 - `b1ch31:12` (Tag 74) - one

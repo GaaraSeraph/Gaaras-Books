@@ -1563,11 +1563,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b1ch25:264 | "The photographer goes at nine," said Woo. |
 | 59 | b1ch25:282 | Woo was quiet for long enough that Georgij could hear a crane somewhere behind him. |
 | 59 | b1ch25:292 | "Good," said Woo. "Do not do it again this year." |
-| 3 | b1ch26:50 | "Since the sixth of November." He said it flatly. "It has been waiting for two things th.. |
+| 3 | b1ch26:50 | "Since the sixth of November. It has been waiting for two things that did not exist yet... |
 | 6 | b1ch26:118 | "Chairman Woo Jae-sung has signed seven years of anchor cargo across the Yeongjong termi.. |
 | 6 | b1ch26:126 | "Woo does not sign these," said the cousin. |
-| 6 | b1ch26:212 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
-| 6 | b1ch26:310 | He put his hand back on Woo's contract. |
+| 6 | b1ch26:210 | "Forty people. Chairman Woo will be there from seven. There is a photographer until nine.. |
+| 6 | b1ch26:308 | He put his hand back on Woo's contract. |
 | 7 | b1ch27:58 | "It does not cost you anything because it is not your money and it is not your land," sa.. |
 | 7 | b1ch27:66 | "And Woo." |
 | 7 | b1ch27:80 | "You want to put Woo on her land." |
@@ -1578,7 +1578,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b1ch27:184 | "She knows the date, she knows my house, she knows Woo is coming at seven, because Sung-.. |
 | 9 | b1ch27:294 | "So the answer to your obvious thing is that I have been sitting on empty hardstanding f.. |
 | - | b1ch28:66 | "Woo at seven," she said. "And the Kims." |
-| - | b1ch28:146 | "Because everybody in this has had the worst part first except her." He said it without .. |
+| - | b1ch28:146 | "Because everybody in this has had the worst part first except her. Woo got it in a shed.. |
 | 74 | b1ch29:40 | Chairman Woo came at four minutes past seven and was the second guest in the house. |
 | 74 | b1ch29:46 | "I am seventy-eight and I have never once been late to anything." Woo looked past him do.. |
 | 74 | b1ch29:56 | Chairman Woo Jae-sung stood in front of them for the better part of forty minutes and ha.. |
@@ -1750,7 +1750,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch25:264` (Tag 59) - nine
 - `b1ch26:50` (Tag 3) - one, two
 - `b1ch26:118` (Tag 6) - seven
-- `b1ch26:212` (Tag 6) - eight, forty, nine, one, seven, two
+- `b1ch26:210` (Tag 6) - eight, forty, nine, one, seven, two
 - `b1ch27:58` (Tag 7) - one, seven, three, two
 - `b1ch27:118` (Tag 9) - four, three
 - `b1ch27:162` (Tag 9) - one, seven
@@ -1956,7 +1956,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch21:402 | Hana's face did not do anything. |
 | 49 | b1ch21:412 | Hana looked at him for a moment, and then she laughed, and this time it was the real one.. |
 | 55 | b1ch23:224 | "You know what I am doing to the Kim family. You know what is in nineteen pages and whos.. |
-| 6 | b1ch26:262 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
+| 6 | b1ch26:260 | Hana had told him so in plain words at a dinner table in November. He had heard it as a .. |
 | 7 | b1ch27:22 | "Hana." |
 | 9 | b1ch27:158 | Hana had the fire lit in the long room at the back and a stack of cards on the table bes.. |
 | 9 | b1ch27:164 | Hana put the pen down. |
@@ -3577,11 +3577,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b1ch26:92 | The third was Kim Do-yun. |
 | 6 | b1ch26:136 | Kim Do-yun spoke for the first time. |
 | 6 | b1ch26:148 | Do-yun's face did nothing at all. |
-| 6 | b1ch26:198 | "You are unusually direct," said Do-yun. |
-| 6 | b1ch26:244 | The cousin looked at the window. Do-yun looked at Georgij. |
-| 6 | b1ch26:266 | Kim Do-yun got up and went to the window. |
-| 6 | b1ch26:276 | Do-yun turned round. |
-| 6 | b1ch26:286 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
+| 6 | b1ch26:196 | "You are unusually direct," said Do-yun. |
+| 6 | b1ch26:242 | The cousin looked at the window. Do-yun looked at Georgij. |
+| 6 | b1ch26:264 | Kim Do-yun got up and went to the window. |
+| 6 | b1ch26:274 | Do-yun turned round. |
+| 6 | b1ch26:284 | Do-yun looked at him a moment longer, and then did something with his mouth that was alm.. |
 | 74 | b1ch29:78 | Kim Sung-ho came through the door first and stopped for a second the way a man does when.. |
 | 74 | b1ch29:208 | Sung-ho was talking to the woman who writes about houses. Do-yun was at the far end with.. |
 | 74 | b1ch30:332 | "The second thing. Do-yun." |
@@ -3604,7 +3604,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:22` (Tag 31) - one
 - `b1ch14:26` (Tag 31) - forty
 - `b1ch16:208` (Tag 46) - four hundred, one
-- `b1ch26:286` (Tag 6) - one
+- `b1ch26:284` (Tag 6) - one
 - `b1ch29:78` (Tag 74) - two
 - `b1ch30:346` (Tag 74) - four
 - `b1ch31:12` (Tag 74) - one

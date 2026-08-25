@@ -1,38 +1,38 @@
 # Erzeugt von build.py. Ergebnis, nicht Eingabe.
 
 b1  ch01  v6.10      2418 Woerter  ch01_v6_10_en.md
-b1  ch02  v11.11      3172 Woerter  ch02_v11_11_en.md
+b1  ch02  v11.12      3163 Woerter  ch02_v11_12_en.md
 b1  ch03  v2.9       3378 Woerter  ch03_v2_9_en.md
-b1  ch04  v1.10      2445 Woerter  ch04_v1_10_en.md
-b1  ch05  v5.12      4336 Woerter  ch05_v5_12_en.md
-b1  ch06  v1.9       2077 Woerter  ch06_v1_9_en.md
+b1  ch04  v1.11      2441 Woerter  ch04_v1_11_en.md
+b1  ch05  v5.13      4324 Woerter  ch05_v5_13_en.md
+b1  ch06  v1.10      2068 Woerter  ch06_v1_10_en.md
 b1  ch07  v6.6       3860 Woerter  ch07_v6_6_en.md
 b1  ch08  v3.8       2691 Woerter  ch08_v3_8_en.md
 b1  ch09  v3.5       3120 Woerter  ch09_v3_5_en.md
 b1  ch10  v2.6       2985 Woerter  ch10_v2_6_en.md
-b1  ch11  v2.10      2730 Woerter  ch11_v2_10_en.md
+b1  ch11  v2.11      2722 Woerter  ch11_v2_11_en.md
 b1  ch12  v1.10      2351 Woerter  ch12_v1_10_en.md
-b1  ch13  v2.9       2826 Woerter  ch13_v2_9_en.md
-b1  ch14  v7.8       2605 Woerter  ch14_v7_8_en.md
-b1  ch15  v2.10      4237 Woerter  ch15_v2_10_en.md
-b1  ch16  v1.17      3282 Woerter  ch16_v1_17_en.md
-b1  ch17  v12.14      2747 Woerter  ch17_v12_14_en.md
-b1  ch18  v2.9       2984 Woerter  ch18_v2_9_en.md
-b1  ch19  v1.13      3208 Woerter  ch19_v1_13_en.md
-b1  ch20  v1.7       2112 Woerter  ch20_v1_7_en.md
-b1  ch21  v1.10      4090 Woerter  ch21_v1_10_en.md
+b1  ch13  v2.10      2822 Woerter  ch13_v2_10_en.md
+b1  ch14  v7.9       2601 Woerter  ch14_v7_9_en.md
+b1  ch15  v2.11      4227 Woerter  ch15_v2_11_en.md
+b1  ch16  v1.18      3271 Woerter  ch16_v1_18_en.md
+b1  ch17  v12.15      2743 Woerter  ch17_v12_15_en.md
+b1  ch18  v2.11      2957 Woerter  ch18_v2_11_en.md
+b1  ch19  v1.14      3197 Woerter  ch19_v1_14_en.md
+b1  ch20  v1.8       2101 Woerter  ch20_v1_8_en.md
+b1  ch21  v1.11      4072 Woerter  ch21_v1_11_en.md
 b1  ch22  v1.4       2588 Woerter  ch22_v1_4_en.md
 b1  ch23  v3.8       2654 Woerter  ch23_v3_8_en.md
 b1  ch24  v1.7       2664 Woerter  ch24_v1_7_en.md
 b1  ch25  v1.6       2555 Woerter  ch25_v1_6_en.md
-b1  ch26  v1.7       2425 Woerter  ch26_v1_7_en.md
-b1  ch27  v3.7       3120 Woerter  ch27_v3_7_en.md
-b1  ch28  v1.8       2718 Woerter  ch28_v1_8_en.md
+b1  ch26  v1.8       2410 Woerter  ch26_v1_8_en.md
+b1  ch27  v3.8       3108 Woerter  ch27_v3_8_en.md
+b1  ch28  v1.9       2710 Woerter  ch28_v1_9_en.md
 b1  ch29  v1.5       1992 Woerter  ch29_v1_5_en.md
-b1  ch30  v1.11      3555 Woerter  ch30_v1_11_en.md
-b1  ch31  v1.8       3262 Woerter  ch31_v1_8_en.md
-b1  ch32  v1.3       2583 Woerter  ch32_v1_3_en.md
-b1  ch33  v1.14      3345 Woerter  ch33_v1_14_en.md
+b1  ch30  v1.12      3551 Woerter  ch30_v1_12_en.md
+b1  ch31  v1.9       3258 Woerter  ch31_v1_9_en.md
+b1  ch32  v1.4       2579 Woerter  ch32_v1_4_en.md
+b1  ch33  v1.15      3341 Woerter  ch33_v1_15_en.md
 b1  ch34  v1.10      4295 Woerter  ch34_v1_10_en.md
 b2  ch01  v1.7       2281 Woerter  ch01_v1_7_en.md
 b2  ch02  v1.4       2048 Woerter  ch02_v1_4_en.md
@@ -108,5 +108,5 @@ b2  ch71  v1.0       3431 Woerter  ch71_v1_0_en.md
 b2  ch72  v1.0       2300 Woerter  ch72_v1_0_en.md
 b2  ch73  v1.0       2175 Woerter  ch73_v1_0_en.md
 
-Gesamt: 2 Baende, 107 Kapitel, 281440 Woerter
+Gesamt: 2 Baende, 107 Kapitel, 281247 Woerter
 Handbuch: 16 Dokumente
