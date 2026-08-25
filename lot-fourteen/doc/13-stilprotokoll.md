@@ -355,3 +355,69 @@ Erzaehler nicht widersprochen wird.** Die Gegenprobe, die es faengt, ist nicht
 `faktenspur.py`: es ist der Zwang, fuer jedes Absolutum eine Fundstelle in
 dieses Blatt zu schreiben.
 
+#### Block 5 - der Rest von Band 2, und warum er fast leer ist (2 Kommentare)
+
+**Die restlichen einundvierzig Kapitel sind durchgesehen und zwei davon
+angefasst.** Das ist kein Abbruch, sondern der Befund.
+
+Statt jedes Kapitel ganz zu lesen, ist gemessen worden, **wo der Leser am
+laengsten allein ist**: die laengste Strecke aufeinanderfolgender Absaetze ohne
+einen tragenden Erzaehlerabsatz. Die zwoelf laengsten Strecken sind dann von
+Hand angesehen worden. Ergebnis: **jede einzelne landet auf einem
+Erzaehlerabsatz**, und zwar auf einem guten -
+
+> b2 K15: *"A man who says a true thing in a room and then does not act on it
+> has made himself feel better and changed nothing whatever."*
+> b2 K27: *"There was nothing available that was both true and small enough to
+> survive being said."*
+> b2 K07: *"There is no fault anywhere in that sentence. That is what makes it
+> the worst one he has had all month."*
+
+**Der Erzaehler steht dort, wo er hingehoert: am Ende der Strecke, nicht
+mittendrin.** Danebenzuschreiben waere Polsterung.
+
+Zweite Probe: **von einundzwanzig Kapiteln enden neunzehn auf Erzaehlung**, nur
+K24 und K45 auf einer Figurenzeile. K24 traegt drei Absaetze vorher bereits
+*"A table at half past twelve is a table at which somebody is going to have to
+decide whether to eat."* - dort ist nichts offen. **K45 war offen**, und hat
+einen bekommen.
+
+**Die zwei Kommentare**
+
+| Kap | Eingesetzt | Warum dort |
+|---|---|---|
+| K04 | *"He had said the worst thing a man in his position can say about himself, and he had said it to somebody with nothing to trade it to."* | die laengste Strecke des ganzen Bandes (30 Absaetze) landet erst zwei Repliken spaeter |
+| K45 | *"She put two fingers on his wrist and then sent him to be decent to a stranger, and only one of those was an instruction."* | Kapitelschluss auf einer Figurenzeile, ohne Landung |
+
+**Meldung 2:** K45 *two fingers* / *one* - beides steht in derselben Replik.
+**Meldung 1, 3 und 4:** keine.
+
+---
+
+### Stand des Durchgangs
+
+**Band 2 ist durch. 29 von 68 Kapiteln angefasst, 67 Saetze eingesetzt.**
+
+| Block | Kapitel | Saetze | Auswahl nach |
+|---|---|---|---|
+| 1 | K53, K61 | 6 | Muster, vom Autor abgenommen |
+| 2 | K05 K09 K12 K18 K20 K22 K23 | 14 | Erzaehlerdichte unter 8,0 |
+| 3 | K32 K40 K42 K48 K59 K62 K64 K65 K67 | 17 | Erzaehlerdichte unter 8,0 |
+| 4 | K21 K28 K29 K30 K33 K50 K52 K63 K68 | 13 | Erzaehlerdichte 8,0 bis 9,5 |
+| 5 | K04, K45 | 2 | laengste erzaehlerfreie Strecke, Kapitelschluss ohne Landung |
+
+**Die neununddreissig nicht angefassten Kapitel sind gelesen oder gemessen und
+absichtlich so geblieben.**
+
+**Vier eigene Saetze sind waehrend des Durchgangs als falsch erkannt und ersetzt
+worden** (K61, K18, K23, K52, K63 - fuenf, genau genommen), **und alle fuenf
+sind an derselben Stelle gefunden worden: beim Versuch, sie fuer dieses Blatt zu
+belegen.** Kein Werkzeug hat einen davon gefunden. `faktenspur.py` kann sie
+nicht finden, weil in vieren keine Zahl steht.
+
+**Was noch offen ist:** die Absoluta unter *Unsicher* in Block 3 und 4,
+insbesondere **K67** (*"the last thing she is known to have decided"*), das
+gegen den Kalender geprueft gehoert. Und **Band 1 ist noch nicht angefasst** -
+dort ist die Erzaehlerdichte hoeher (13,4 gegen 12,4) und das duennste Kapitel
+liegt bei 4,0, also ist mit deutlich weniger zu rechnen als in Band 2.
+
