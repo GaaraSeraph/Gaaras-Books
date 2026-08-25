@@ -1056,3 +1056,47 @@ richtige Beobachtung, die beim Aufschreiben eine Stufe zu weit geht. *Sie benutz
 fast nie eine Anrede* wird zu *kein Titel, kein Name*. *Er spricht knapp* wird zu
 *der langsatzigste*. **Ein Stimmblatt ist genau da am gefaehrlichsten, wo es
 gut formuliert ist.**
+
+---
+
+### Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert
+
+Aus dem doc/12-Durchgang war eine Frage offengeblieben: *"Mr Georgij"* steht
+sechsmal in b1 K30 bis K34 und in Band 2 kein einziges Mal. **Antwort des
+Autors: keine Absicht.**
+
+**Meldung 1 - eingesetzte Anreden in woertlicher Rede.** Zwei Stellen, beide in
+**b2 K04** (ch04 v1.9), beide von **Park Sang-hoon** an Georgij:
+
+| Zeile vorher | Zeile jetzt |
+|---|---|
+| *"I have thought about it since December and I have not moved off it..."* | *"**Mr Georgij.** I have thought about it since December..."* |
+| *"I am telling you where I am." He had the door open and did not get in yet. "Four or five of these a year..."* | *"**Mr Georgij.**" He had the door open and did not get in yet. "I am telling you where I am. Four or five of these a year..."* |
+
+**Warum genau diese zwei und keine anderen.** Die Anrede ist im Buch **ein
+Paar** - einer gibt den Titel, der andere gibt ihn zurueck:
+
+> b1 K33, beim Gruss: *"Chairman Park."* / *"Mr Georgij."*
+> b1 K33, an der Tuer: *"Mr Georgij."* / *"Chairman."*
+
+**In b2 K04 stand beide Male nur die eine Haelfte da.** Georgij sagt
+*"Chairman."* und bekommt nichts zurueck - beim Gruss und an der Wagentuer, in
+genau der Szene, in der Sang-hoon ihm das Groesste sagt, was er ihm im ganzen
+Buch sagt (*"I have wanted to buy you twice and been told no twice, and both
+times I went home and thought about the work and not about the price"*).
+
+**Nicht gestreut.** Sang-hoon spricht in elf Band-2-Kapiteln; angefasst ist
+eines, und zwar das erste. Stand jetzt: **Band 1 sechs, Band 2 zwei.**
+
+**Meldung 2 und 3:** keine Zahl, kein Datum, kein Absolutum eingesetzt.
+`faktenspur.py` meldet fuer ch04 nur `Georgij 20 -> 22` - die zwei Anreden.
+
+**Meldung 4:** keine festgelegte Zeile beruehrt. Die Stelle ist mit dieser
+Reparatur allerdings **selbst festgelegt worden** und steht so in `doc/12`:
+**wer die Anrede einsetzt, setzt beide Haelften.**
+
+**Unsicher:** in der zweiten Stelle ist *"I am telling you where I am."* aus dem
+ersten in den zweiten Redeblock gerueckt, damit zwischen Sang-hoons beiden
+Bloecken der koerperliche Beat steht (Grundregel 5). Der Satz sagt dasselbe an
+derselben Stelle des Gedankens - aber es ist eine Umstellung und keine reine
+Einfuegung, deshalb steht sie hier.

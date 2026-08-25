@@ -568,9 +568,29 @@ hat.
 
 **Die sechs sind damit festgelegt und werden nicht angefasst.**
 
-**Und daraus eine offene Frage an den Autor, keine Behauptung:** in Band 2 steht
-**keine einzige** mehr. Ist das gewollt - er ist dort bekannt, also fällt der
-Titel weg -, oder ist es abgerissen? Der Bogen endet mitten in der Bewegung.
+**Am 25.08. vom Autor entschieden: es war Drift, keine Absicht.** In Band 2 stand
+keine einzige mehr, obwohl **Sang-hoon in elf Kapiteln spricht** - und er ist
+der, der sie zweimal gesagt hat. (Ye-rin und Mr Chae kommen in Band 2 gar nicht
+mehr zu Wort, Hana nur in K03.)
+
+**Repariert in b2 K04, der ersten gemeinsamen Szene von Band 2, an genau den zwei
+Stellen, die schon die halbe Form hatten.** Die Anrede ist nämlich **ein Paar**:
+
+> b1 K33, beim Gruß: *"Chairman Park."* / *"Mr Georgij."* / *"I would like to ask
+> you for guidance."*
+> b1 K33, an der Tür: *"Mr Georgij."* / *"Chairman."*
+
+In b2 K04 stand beide Male nur die eine Hälfte - Georgij sagt *"Chairman."* und
+bekommt nichts zurück. Jetzt steht das Paar wieder da, beim Gruß und an der
+Wagentür, in derselben Reihenfolge wie in K33.
+
+**Stand: Band 1 sechs, Band 2 zwei.** Sparsam und an der Bandgrenze, also genau
+dort, wo die Linie abgerissen war.
+
+**Was daran festgelegt ist:** die Anrede ist keine Höflichkeit, sondern ein
+Tausch. **Wer sie einsetzt, setzt beide Hälften.** Eine allein gegebene Anrede
+ist im Buch das Gegenteil - sie ist das, was Georgij den ganzen Band 1 lang tut
+und nicht zurückbekommt.
 
 **Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
 wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
