@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 211.264 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 211.548 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5471,7 +5471,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
-- **Band 2, Kapitel 63** *One sentence* (v1.2) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.3) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
@@ -10729,6 +10729,22 @@ Drittel. Die häufigsten Widerlegungen: zwei Angaben messen Verschiedenes; eine
 Figur spricht im Dialog zulässig ungenau; die Gegenstelle steht in einer
 überholten Fassung.
 
+**8. Ein Detektor, der zu viel meldet, ist so wertlos wie einer, der nichts
+meldet.**
+`belege.py` hat am 25.08. in vier Fassungen gemeldet: **265, dann 236, dann 46**,
+und die Kapitelprüfung **312, dann 61, dann 12**. Am Buch hat sich dabei nichts
+geändert. Wer die erste Zahl gemeldet hätte, hätte den Autor durch
+zweihundert Falschmeldungen geschickt, um drei echte zu finden. **Die Zahl sinkt,
+bis jeder verbleibende Fund einzeln erklärbar ist** — erst dann wird berichtet.
+Was jede Runde gekostet hat, steht als Kommentar im Programm, damit die nächste
+Fassung nicht wieder dagegen läuft.
+
+**9. Ein Dokument darf ein Zitat nur so gut kennen, wie es dasteht.**
+Aus dem Gedächtnis geschriebene Zitate sind immer *besser* als das Original —
+pointierter, symmetrischer, mit einer Zusatzklausel, die die These stützt. Genau
+daran erkennt man sie. Drei Fälle in `doc/05` am 25.08., alle drei zugespitzt
+gegenüber dem Buch, und einer davon trug den ganzen Absatz.
+
 **7. Kein Zwischenstand ohne Gegenprüfung.**
 Eine Zahl, die sich um ein Drittel bewegt, ist als Zwischenstand irreführend.
 
@@ -10747,6 +10763,9 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 | **Falscher Sprecher** | ein *he said*, dessen Träger nicht auszumachen ist | B2 42 (der Anwalt) |
 | **Rückbezug auf den falschen Tag** | *„you told me on the…"* | B1 19 (die Einladung), B1 22 (Tisch statt Tür), B2 20 |
 | **Ein Dokument, das das Buch aus dem Gedächtnis zitiert** | ein Register, das eine Zeile führt, die es im Text nicht gibt | `doc/10-naehe.md` (der zweite Satz über den Stuhl) |
+| **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register — typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 44, und schrieb sie Annie statt Sang-hoon zu |
+| **Ein Alter, das seinen eigenen Geburtstag überholt** | eine Zahl im Text gegen die Geburtstagstabelle, sobald die geparkte Strecke erzählt wird | Yeom, Woo, Mrs Sunwoo und Annie am 25.08. |
+| **Eine Spanne, die sich selbst aufhebt** | *since I was X*, wo X das heutige Alter der Figur ist | B2 62: Annie sagt *since I was thirty-seven* und ist siebenunddreißig |
 
 ---
 
@@ -10767,6 +10786,7 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 |---|---|---|
 | `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
+| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
 | `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
