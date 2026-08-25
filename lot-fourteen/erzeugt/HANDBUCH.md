@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 244.246 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 245.752 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -197,6 +197,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
   - [Kim Ye-rin (17 Repliken im Index - tatsächlich über fünfzig allein in b1 K30)](#kim-ye-rin-17-repliken-im-index-tats-chlich-ber-f-nfzig-allein-in-b1-k30)
   - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
+  - [Nam Byung-hee (58, eine Fahrspur aus Ulsan, zwanzig Jahre)](#nam-byung-hee-58-eine-fahrspur-aus-ulsan-zwanzig-jahre)
+  - [Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)](#baek-jun-ho-63-anwalt-elf-treuhandschaften-b2-k50)
+  - [Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)](#kim-sung-ho-der-vorsitzende-der-familie-b1-k26-und-k32)
+  - [Mr Ok (b2 K17)](#mr-ok-b2-k17)
+  - [Mr Ku (Fahrer)](#mr-ku-fahrer)
   - [Mr Kwon (14 Repliken)](#mr-kwon-14-repliken)
   - [Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)](#mr-hong-10-repliken-61-jahre-neunzehn-jahre-derselbe-tisch)
   - [Mrs Sunwoo (81 Jahre)](#mrs-sunwoo-81-jahre)
@@ -207,7 +212,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die kleinen Rollen](#die-kleinen-rollen)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
   - [Eine Fehlmeldungsklasse, und sie ist wichtig](#eine-fehlmeldungsklasse-und-sie-ist-wichtig)
-- [Stilprotokoll](#stilprotokoll)  ·  `doc/13-stilprotokoll.md`
+- [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
+- [Stilprotokoll](#stilprotokoll)  ·  `doc/14-stilprotokoll.md`
   - [Durchgang Erzaehlerkommentare, Band 2 - Ausgangsstand `14a893e`](#durchgang-erzaehlerkommentare-band-2-ausgangsstand-14a893e)
   - [Stand des Durchgangs](#stand-des-durchgangs)
   - [Durchgang Erzaehlerkommentare, Band 1 - Ausgangsstand `6c70e36`](#durchgang-erzaehlerkommentare-band-1-ausgangsstand-6c70e36)
@@ -220,7 +226,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter](#doc-12-der-rest-die-regeln-die-achsen-der-index-die-gemessenen-blaetter)
   - [Die Anrede fuer Georgij in Band 2 - vom Autor als Drift bestaetigt, repariert](#die-anrede-fuer-georgij-in-band-2-vom-autor-als-drift-bestaetigt-repariert)
   - [Band 1: die Ton-Etiketten, und der Befund ist, dass Band 1 nicht das Problem war](#band-1-die-ton-etiketten-und-der-befund-ist-dass-band-1-nicht-das-problem-war)
-- [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
+  - [Fuenf Sprecher hatten kein Blatt, und die Ursache war ein Werkzeug](#fuenf-sprecher-hatten-kein-blatt-und-die-ursache-war-ein-werkzeug)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -11267,13 +11273,13 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 | `doc/05-continuity.md`, `doc/08-decisions.md` | Inhalt |
 | `doc/06-plot.md` | Schreiben |
 | `doc/07-next.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
-| `doc/13-stilprotokoll.md` | **Stil**, waehrend des Durchgangs. Die Inhaltspruefung liest nur |
+| `doc/14-stilprotokoll.md` | **Stil**, waehrend des Durchgangs. Die Inhaltspruefung liest nur |
 | `doc/11-pruefen.md` | wer prueft, und zwar sofort nachdem er etwas gelernt hat |
 | `doc/09-arbeitsteilung.md` | wer die Aufteilung aendert, und zwar bevor er sie aendert |
 
 ### Und der zweite Uebergabepunkt: das Stilprotokoll
 
-Seit dem 25.08. gibt es `doc/13-stilprotokoll.md`. **Ein Durchgang, der jede
+Seit dem 25.08. gibt es `doc/14-stilprotokoll.md`. **Ein Durchgang, der jede
 Aussage an `doc/12-stimmen.md` anpasst, schreibt woertliche Rede um, und in
 woertlicher Rede stehen die Fakten.** Ohne Protokoll muesste die
 Inhaltspruefung danach hundert Kapitel neu lesen; mit Protokoll liest sie die
@@ -12523,7 +12529,18 @@ gegenübersteht?*
 
 ---
 
-## Der Index: alle dreiunddreißig, die sprechen
+## Der Index: wer spricht
+
+**Die Überschrift lautete bis zum 25.08. *"alle dreiunddreißig, die sprechen"*,
+und das *alle* war falsch.** Fünf Sprecher fehlten - **Nam Byung-hee, Baek
+Jun-ho, Kim Sung-ho, Mr Ok und Mr Ku** -, und der Grund war kein Übersehen,
+sondern ein Werkzeug: `stimmen.py` führte eine Namensliste, in der sie nicht
+standen, also galten sie als stumm, also kamen sie in keine Messung, also
+schrieb niemand ein Blatt. **Nam Byung-hee trägt das halbe Band 2.**
+
+Die Liste ist ergänzt und `stimmen.py` zählt jetzt **30 Sprecher mit mindestens
+zwei zugeordneten Repliken**. Wer die Namensliste des Werkzeugs anfasst, prüft
+sie gegen die Sprecher im Text und nicht gegen das Gedächtnis.
 
 **Gezählt am 25.08.** über beide Bände, zugeordnet nur, wo genau ein Name in der
 Zeile steht. Das ist die Arbeitsliste für den Stil-Durchgang: **jede Figur mit
@@ -12673,10 +12690,15 @@ Satz, 8 Prozent über 25.**
 
 **Hier stand: *"Er ist damit der langsatzigste Sprecher des Buchs - alle anderen
 liegen bei sieben bis acht."* Das ist falsch und war es auch beim Schreiben.**
-Gemessen liegen Hwang bei 11,9, Georgij und Sang-hoon bei 11,6, Yeom bei 11,4,
-Jang bei 11,2, Woo bei 11,0. Bei sieben bis acht liegen Mr Ahn, Mrs Ha, Mrs Seo,
-Mr Sohn und Mr Hong - also die kurzen Nebenrollen und nicht *alle anderen*.
-**Jang steht im Mittelfeld, und die Satzlänge ist kein Merkmal von ihm.**
+Gemessen liegen **Baek Jun-ho bei 15,7**, Hwang bei 11,9, Georgij und Sang-hoon
+bei 11,6, Yeom bei 11,4, Jang bei 11,2, Woo bei 11,0. **Jang steht im
+Mittelfeld, und die Satzlänge ist kein Merkmal von ihm** - sie ist eines von
+Baek Jun-ho.
+
+*(Auch diese Korrektur musste am 25.08. nachkorrigiert werden: im ersten Anlauf
+stand hier Hwang an der Spitze, weil `stimmen.py` Baek Jun-ho gar nicht kannte.
+**Dritter Fall, in dem die luechenhafte Figurenliste einen falschen Superlativ
+erzeugt hat.**)*
 
 Was von dem Absatz übrig bleibt und trägt: seine Stimme ist nicht abwesend, sie
 ist unfertig - aber das steht auf der Maschine unten und nicht auf einer Zahl.
@@ -13580,6 +13602,147 @@ Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
 
 ---
 
+### Nam Byung-hee (58, eine Fahrspur aus Ulsan, zwanzig Jahre)
+
+**Bis zum 25.08. hatte sie kein Blatt und stand in keinem Index** - weil
+`stimmen.py` ihren Namen nicht in der Figurenliste hatte und sie deshalb als
+stumm galt. Sie ist die Gegenspielerin des halben Bandes 2.
+
+**Gemessen: 10 zugeordnete Repliken, 93 Wörter, Ø 7,8 - keine einzige über 25
+Wörtern, kein Haustic, keine Kontraktion.** Eine der saubersten Stimmen im Buch,
+und das ist kein Zufall: sie sagt nichts, was sie nicht belegen kann.
+
+**Die Maschine: sie beginnt mit der Zählung des Vorgangs, nicht mit dem
+Vorgang.** Ihr erstes Wort ist immer, das wievielte Mal es ist oder was der
+andere nicht getan hat:
+
+> *"**You could have written**,"* (b2 K11, das erste, was sie zu ihm sagt)
+> *"**Third time**,"* (b2 K19, dito)
+
+**Und sie rechnet sich selbst mit ein.** Das ist ihre Signatur und es gibt sie
+sonst bei niemandem:
+
+> *"That is the most honest sentence anybody has said in this office in nine
+> years, **and I am including me**."*
+
+**Das Anliegen, und es hat mit dem Fall nichts zu tun: beantwortet zu werden.**
+Sie schreibt seit zwanzig Jahren am ersten jedes Monats an sechs Firmen. Vier
+Antworten in zwanzig Jahren, alle vier von demselben Mann, und der ist tot.
+*"I want somebody to answer them. Not me. Them."*
+
+**Sie lügt nicht, und das ist von aussen bezeugt** - Mr Kwon in b2 K15: *"She
+does not lie. I have known that for twenty years and I have never once had it
+cost me anything."* Wer ihr eine Ausrede schreibt, schreibt gegen das ganze
+Kapitel.
+
+**Sie setzt Fristen und nennt beide Ränder.** *"I will give you until the first.
+Not the twenty-sixth and not longer than the first."*
+
+**Sie kündigt ihre Frage an, bevor sie sie stellt.** *"One question," said Nam
+Byung-hee.* - und dann eine einzige, mit Punkt: *"Why. You had never met me."*
+
+**Warm gibt es bei ihr nicht. Was es gibt, ist die Rechnung gegen sich selbst:**
+*"You could have got out of that. Nobody in the world would have known. I would
+not have known."*
+
+**Körper.** Sie setzt sich mitten in einem fremden Satz hin und der andere hört
+nicht auf zu sprechen. Sie legt eine Hand flach auf den Tisch und lässt sie
+liegen. Sie steht in ihrem eigenen Tor mit den Händen in den Manteltaschen.
+
+**Sie darf:** die nackte Forderung mit Punkt, die Zählung des Vorgangs, die
+Frist mit beiden Rändern, sich selbst in die Rechnung nehmen.
+**Sie darf nicht:** Kontraktionen (null im Buch), jeden Haustic, jedes Adjektiv
+über einen Menschen, und **keine Klage** - sie beschreibt, was nicht passiert
+ist, und nie, wie es sich anfühlt.
+
+---
+
+### Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)
+
+**Bis zum 25.08. ohne Blatt**, aus demselben Grund wie Nam Byung-hee.
+
+**Gemessen: 14 Repliken, 267 Wörter, Ø 15,7 Wörter je Satz und 18 Prozent über
+25 - beides der höchste Wert im ganzen Buch.** Er ist **der langsatzigste
+Sprecher**, mit Abstand vor Hwang (11,9). Zählt Jahre mit 22,5 je 1000 Wörtern,
+ebenfalls der höchste Wert.
+
+**Die Maschine: er beziffert den eigenen Zweifel, statt ihn zu äussern.**
+
+> *"I would like to be **exact about the size of my discomfort**. It is small,
+> it has never kept me from sleeping, and it has never gone away."*
+
+Ein Mann, der dreissig Jahre lang Unbehagen als Posten geführt hat. **Wer ihm
+ein Gefühl schreibt, hat ihn verloren; er gibt eine Grössenangabe.**
+
+**Er verteidigt sich über den Berufsstand, nicht über sich:** *"a solicitor who
+queries every unusual line in eleven years of a trust is a solicitor who does
+not have eleven trusts."*
+
+**Er sagt selbst, wo die Regel bricht** - und das ist die Szene: *"And then I
+did a thing I have never done before or since."*
+
+**Und er weist Schonung zurück, einmal, scharf** - die einzige Stelle, an der
+seine Stimme etwas tut: *"Do not do that. I am not a client and I am not a
+witness and you are not protecting me. I have signed that schedule every year
+for four years and I would like to be told what I have been signing, **in the
+largest size it might be**."*
+
+**Er darf:** lange Sätze, Jahreszahlen, Berufsstandsargumente, die Grössenangabe
+statt des Gefühls. **Er darf nicht:** Kontraktionen (null), Haustics (null),
+Sympathiebekundungen.
+
+**Körper.** Der Aktenkoffer steht die ganze Szene neben seinem Stuhl und wird
+nicht erwähnt, bis er ihn aufmacht.
+
+---
+
+### Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)
+
+**Drei Repliken, und alle drei sind Anweisungen an andere Leute.**
+
+> *"You work for the woman."* - Feststellung, keine Frage
+> *"Say what control means."* - Befehl im Register der Prinzipalen
+> *"That is enough, Jae-won."* - er beendet den Widerspruch eines Verwandten
+
+**Die Maschine: er redet nie über die Sache, sondern über die Zuständigkeit.**
+Wer im Raum was sagen darf, und wer aufhört. **Er stellt keine einzige Frage im
+ganzen Buch.**
+
+**Er darf:** den Vornamen eines Verwandten als ganzen Satz, die Forderung mit
+Punkt. **Er darf nicht:** erklären, warum. Ein Vorsitzender, der begründet, hat
+schon verloren - und seine Schwester ist die, die begründet.
+
+---
+
+### Mr Ok (b2 K17)
+
+**Vier Repliken, und er ist der Mann, an dem Sims Methode vorgeführt wird.**
+
+**Die Maschine: er schiebt zuerst weg und liefert dann alles.** *"That has
+nothing to do with me,"* - und drei Repliken später die vollständigste
+Personenbeschreibung im Buch, ohne dass jemand nachbohrt.
+
+**Sein Detail ist das, was er für nebensächlich hält:** *"He did not eat
+anything at that lunch, not one thing, and I noticed it because my mother would
+have made a remark."* **Die Beobachtung, die alles trägt, kommt bei ihm mit
+einer Entschuldigung dafür, dass er sie gemacht hat.**
+
+**Und er endet auf der Frage eines Mannes, der nicht weiss, was er getan hat:**
+*"Is there anything I should do?"*
+
+---
+
+### Mr Ku (Fahrer)
+
+**Zwei Repliken im ganzen Buch, und beide sind Ereignisse.** Der Erzähler sagt
+es selbst: *"Then Mr Ku said something on the expressway, about forty minutes
+out, **which he has not done since October**."*
+
+**Er ist die Figur, bei der Schweigen der Normalzustand ist.** Wer ihm eine
+dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
+
+---
+
 ### Mr Kwon (14 Repliken)
 
 **Der flache Bericht, aus dem der Weichmacher entfernt ist.** Er spricht aus
@@ -13872,6 +14035,189 @@ Wer das nicht kann, hat Georgij geschrieben.
 
 Zweite Probe, für Nebenfiguren: **Streiche jeden Satz, der etwas über den Fall
 sagt. Bleibt eine Person übrig?**
+
+---
+
+# Das Schuldbuch
+
+Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
+geführt und mit `werkzeug/zusagen.py` gegen den Erzählkalender gerechnet.
+
+---
+
+## Warum es das gibt
+
+**Am 25.08. sind zwei Zusagen als überfällig gefunden worden, beide von Hand,
+beide Monate zu spät.**
+
+Die fünf Firmen aus Kapitel 12 (3. April): *„When it is over the other five will
+be yours, completely, not as customers and not as an arrangement."* Der Verband
+kam in vierundvierzig Kapiteln nicht mehr vor.
+
+**Und beim Bezahlen ist der zweite Fehler aufgefallen, der schlimmer war als der
+erste.** Ich hatte die Zusage zuerst in Kapitel 69 eingelöst, im September. Der
+Autor: *„Kapitel 69 ist ein bisschen spät, meinst Du nicht? Das sollte als
+immediate win dastehen, nachdem ich fertig bin mit der Dame mit vier Trucks."*
+
+Er hat recht, und die Zusage sagt es selbst: *„in about three weeks they are going
+to be extremely grateful to somebody. That somebody can be you and it will cost
+you nothing you have not already spent."* **Das ist Dankbarkeit, sofort, umsonst**
+- und keine Eigentumsübertragung. Sie gehört an den 30. April, in denselben
+Bericht wie Nam Byung-hees Ende. **Jetzt steht sie in Kapitel 20**, siebenundzwanzig
+Tage nach der Zusage und drei vor der Frist.
+
+**Was in Kapitel 69 übrigbleibt, ist die kleinere und wahrere Schuld:** Annies
+Anschlussauftrag vom selben Abend, den Georgij mit *„It will keep"* verschoben hat.
+Fünf Männer, denen niemand gesagt hat, dass sie nichts schulden. Kwon fährt im
+September vier Stunden, um zu fragen, was der Preis ist.
+
+Annies *„You will in about a month"* aus Kapitel 5 (11. März), fällig Anfang
+April, offen bis September. Sechs Monate.
+
+**Beide standen im Text und in keiner Liste.** Das ist derselbe Fehlertyp wie die
+falschen Rückverweise, die zu `doc/10-naehe.md` geführt haben, und wie die
+behaupteten Stimmen, die zu `doc/12-stimmen.md` geführt haben: **was nicht
+gemessen wird, driftet.**
+
+---
+
+## Wie man es führt
+
+Eine Zeile je Zusage, und das Format ist maschinenlesbar. Wer es ändert, ändert
+den Ausdruck in `zusagen.py` mit.
+
+```
+- [OFFEN] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 210 · "Zitat" · —
+```
+
+- **Status**: `OFFEN`, `BEZAHLT` oder `VERFALLEN`. Verfallen heißt: die Figur hat
+  die Zusage gebrochen und **der Text weiß das**. Eine gebrochene Zusage, die der
+  Text nicht bemerkt, ist offen und nicht verfallen.
+- **Fälligkeit** in Erzähltagen, oder `offen`, wenn keine Frist genannt wurde.
+- **Eingelöst**: das Kapitel, das sie bezahlt, oder `—`.
+
+**Nach jedem geschriebenen Kapitel:**
+
+```bash
+python3 werkzeug/zusagen.py --neu
+```
+
+Das listet Zusagen mit Frist, die im Buch fehlen. Jede wird eingetragen oder es
+wird hier begründet, warum sie keine ist.
+
+**Und `zusagen.py` ohne Argument gibt den Stand.** Überfällig, offen, bezahlt.
+Es endet mit Rückgabewert 1, solange etwas überfällig ist.
+
+---
+
+## Was das Werkzeug nicht kann
+
+**Es entscheidet nicht, ob etwas eine Zusage ist.** Das ist Urteil und bleibt es.
+
+**Und `--neu` findet nur Zusagen mit einer Frist im selben Satz.** *„I am going to
+have him before the end of the year"* wird gefunden. *„I will not tell him"* nicht.
+Fristlose Zusagen kommen von Hand hier hinein, mit `faellig offen`.
+
+Das ist Absicht und folgt Regel 8 aus `doc/11-pruefen.md`: ein Detektor, der jeden
+Satz mit *I will* meldet, ist so wertlos wie einer, der nichts meldet. **Diese
+Fassung meldet lieber zu wenig und verlässt sich darauf, dass die Liste gepflegt
+wird.**
+
+---
+
+## Offen
+
+- [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
+- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 442 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · —
+- [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
+- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · —
+- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
+- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
+- [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
+- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
+- [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
+- [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
+- [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
+- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
+- [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
+- [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
+- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig offen · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
+- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig offen · "You will be told, and you will not be told the comfortable part of it." · —
+- [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig offen · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
+- [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
+- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · —
+- [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
+- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —
+- [OFFEN] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig offen · "I am going to say it again now to all six, in the same words, because I promised" · —
+
+## Bezahlt
+
+- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
+- [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
+- [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
+- [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
+- [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach
+- [BEZAHLT] **B1 24** Annie an Georgij · gesagt Tag 55 · faellig Tag 58 · "Monday. Named, capped, and it dies on the first of March." · B1 25
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 203 · "I want her. Not the letter, not the lane, not an apology, and not a settlement." · B2 19 und 20, Nam Byung-hee am 23. April
+- [BEZAHLT] **B2 09** Georgij an Annie · gesagt Tag 168 · faellig Tag 217 · "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to be able to do something about" · B2 32, sie gibt das Buch her und behaelt die Entscheidung
+- [BEZAHLT] **B2 57** Woo an Georgij · gesagt Tag 318 · faellig Tag 322 · "I will come to you." · B2 61, Sonntag im Haus
+
+---
+
+## Geprüft und keine Zusage
+
+**Das ist der wichtigste Abschnitt der Datei.** Ohne ihn meldet `--neu` dieselben
+dreizehn Fundstellen bis in alle Ewigkeit, und nach der zweiten Woche sieht
+niemand mehr hin. Wer eine Fundstelle hier ablegt, schreibt dazu, warum sie keine
+Zusage ist.
+
+- [KEINE] **B1 03** Mrs Seo an Georgij · gesagt Tag 1 · faellig offen · "Your room is on the first floor, east end. Ji-won will take you up. Breakfast is from seven" · Hausordnung, keine Zusage
+- [KEINE] **B1 21** Hana an Georgij · gesagt Tag 49 · faellig offen · "Not the second week, because everybody gives theirs in the second week and Ye-rin will already have said no" · Lagebeschreibung ueber Dritte
+- [KEINE] **B1 25** Georgij an Annie · gesagt Tag 59 · faellig offen · "It expires on the first of March at midnight. Not the second. There is no grace period" · Beschreibung eines Instruments, keine Zusage. Die Zusage dazu steht bei B1 24
+- [KEINE] **B2 08** Shin an Georgij · gesagt Tag 168 · faellig offen · "Not the twenty-sixth and not longer than the first. On the first I write" · Absicht eines Dritten in eigener Sache, nicht an Georgij gerichtet
+- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "You went into that building four times over seven weeks, and you gave up something on the third visit" · Beschreibung der Vergangenheit
+- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
+- [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
+- [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
+
+---
+
+## Was das Werkzeug beim ersten Lauf gefunden hat, das niemand hatte
+
+**Zwei, und beide sind offen.** Sie stehen oben in der Liste und hier steht,
+warum sie zaehlen.
+
+**Mrs Jeon, Kapitel 32 (2. Juni):** *"I have four months of money and a son who is
+going to offer next month, and I am going to take it."* Vier Monate Geld ab Juni,
+das Angebot des Sohnes im Juli. **Faellig etwa Tag 273 und seit siebzig Tagen
+offen.** Sie ist die Figur, die Georgij ausdruecklich als sein Spiegelbild im
+Kleinen gefuehrt wird (`doc/03-cast.md`), und der Text hat sie nach dem 2. Juni
+fallen lassen.
+
+**Annie, Kapitel 59 (18. August):** *"in about a week you will have found a way to
+make it about you and I would like to have said this first."* **Faellig Tag 326.**
+Sie sagt eine Sache voraus, die er tun wird, und sie hat sich bisher nicht
+gezeigt - was entweder heisst, dass sie unrecht hatte, oder dass es niemand
+aufgegriffen hat. Bei dieser Figur ist das erste unwahrscheinlich.
+
+---
+
+## Zwei Beobachtungen aus der ersten Fuellung
+
+**Erstens: Georgij macht kaum Zusagen mit Frist.** Das ist Figur und kein Mangel -
+er sagt, was er tut, während er es tut. Die drei, die er gemacht hat, sind alle
+gegenüber Annie, und **zwei davon hat er nicht gehalten.**
+
+**Zweitens: Annie macht Zusagen und hält sie ausnahmslos**, und sie datiert sie
+beim Sagen. Das ist dieselbe Maschine wie in `doc/12-stimmen.md`: ihr Beweismittel
+ist ein Datum. **Sie ist die einzige Figur im Buch, deren Zusagen sich mit einer
+Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
 
 ---
 
@@ -15042,186 +15388,50 @@ Aufraeumarbeit, sondern eine Gewohnheit beim Schreiben.**
 
 ---
 
-# Das Schuldbuch
+### Fuenf Sprecher hatten kein Blatt, und die Ursache war ein Werkzeug
 
-Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
-geführt und mit `werkzeug/zusagen.py` gegen den Erzählkalender gerechnet.
+Frage des Autors: *"Haben wir alle Charaktere und ihre Sprecharten?"* **Nein.**
 
----
+| fehlte | Repliken | wo |
+|---|---|---|
+| **Nam Byung-hee** | 10 | b2 K08, K11, K19 - **die Gegenspielerin des halben Bandes 2** |
+| **Baek Jun-ho** | 14 | b2 K50, eine ganze Szene |
+| **Kim Sung-ho** | 3 | b1 K26, K32 - der Vorsitzende der Familie |
+| **Mr Ok** | 4 | b2 K17 |
+| **Mr Ku** | 2 | b2 K14 |
 
-## Warum es das gibt
+**Die Ursache ist keine Nachlaessigkeit, sondern eine Kette:** `stimmen.py`
+fuehrt in `FIGUREN` eine Namensliste. Wer dort fehlt, wird nicht zugeordnet -
+also nicht gemessen - also steht er in keinem Index - also schreibt niemand ein
+Blatt. **Nam Byung-hee war fuer das Werkzeug stumm, obwohl sie dreizehn Kapitel
+lang die Handlung traegt.**
 
-**Am 25.08. sind zwei Zusagen als überfällig gefunden worden, beide von Hand,
-beide Monate zu spät.**
+Ausserdem fehlten **Mrs Sunwoo** und **Shin**, die zwar ein Blatt hatten, aber
+nie gemessen worden sind - deshalb stand in Mrs Sunwoos Ueberschrift eine Zahl
+aus dem Index statt aus der Messung.
 
-Die fünf Firmen aus Kapitel 12 (3. April): *„When it is over the other five will
-be yours, completely, not as customers and not as an arrangement."* Der Verband
-kam in vierundvierzig Kapiteln nicht mehr vor.
+**Die Liste ist ergaenzt** (Nam Byung-hee, Baek, Ok, Shin, Sunwoo, Eun-ju, Yeo,
+Uhm, Heo) und im Kopfkommentar steht jetzt, was passiert, wenn jemand fehlt.
+`stimmen.py` zaehlt danach **30 Sprecher mit mindestens zwei Repliken**.
 
-**Und beim Bezahlen ist der zweite Fehler aufgefallen, der schlimmer war als der
-erste.** Ich hatte die Zusage zuerst in Kapitel 69 eingelöst, im September. Der
-Autor: *„Kapitel 69 ist ein bisschen spät, meinst Du nicht? Das sollte als
-immediate win dastehen, nachdem ich fertig bin mit der Dame mit vier Trucks."*
+#### Und der dritte falsche Superlativ aus derselben Ursache
 
-Er hat recht, und die Zusage sagt es selbst: *„in about three weeks they are going
-to be extremely grateful to somebody. That somebody can be you and it will cost
-you nothing you have not already spent."* **Das ist Dankbarkeit, sofort, umsonst**
-- und keine Eigentumsübertragung. Sie gehört an den 30. April, in denselben
-Bericht wie Nam Byung-hees Ende. **Jetzt steht sie in Kapitel 20**, siebenundzwanzig
-Tage nach der Zusage und drei vor der Frist.
+Jangs Blatt sagte *"der langsatzigste Sprecher des Buchs"*. Am 25.08. korrigiert
+zu *"Hwang 11,9, Jang 11,2, Mittelfeld"*. **Auch das war falsch:** mit der
+ergaenzten Liste misst **Baek Jun-ho 15,7 Woerter je Satz und 18 Prozent ueber
+25 - beides der hoechste Wert im Buch**, mit grossem Abstand.
 
-**Was in Kapitel 69 übrigbleibt, ist die kleinere und wahrere Schuld:** Annies
-Anschlussauftrag vom selben Abend, den Georgij mit *„It will keep"* verschoben hat.
-Fünf Männer, denen niemand gesagt hat, dass sie nichts schulden. Kwon fährt im
-September vier Stunden, um zu fragen, was der Preis ist.
+**Dreimal hat dieselbe Luecke einen falschen Superlativ erzeugt** (Jang zweimal,
+Mrs Sunwoos Replikenzahl einmal). Eine Messung ist nur so gut wie die Liste, auf
+der sie laeuft, und **die Liste stand nirgends unter Verdacht, weil sie im Code
+steht und nicht im Dokument.**
 
-Annies *„You will in about a month"* aus Kapitel 5 (11. März), fällig Anfang
-April, offen bis September. Sechs Monate.
+#### Nebenher aufgeraeumt: zwei Dateien hiessen doc/13
 
-**Beide standen im Text und in keiner Liste.** Das ist derselbe Fehlertyp wie die
-falschen Rückverweise, die zu `doc/10-naehe.md` geführt haben, und wie die
-behaupteten Stimmen, die zu `doc/12-stimmen.md` geführt haben: **was nicht
-gemessen wird, driftet.**
-
----
-
-## Wie man es führt
-
-Eine Zeile je Zusage, und das Format ist maschinenlesbar. Wer es ändert, ändert
-den Ausdruck in `zusagen.py` mit.
-
-```
-- [OFFEN] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 210 · "Zitat" · —
-```
-
-- **Status**: `OFFEN`, `BEZAHLT` oder `VERFALLEN`. Verfallen heißt: die Figur hat
-  die Zusage gebrochen und **der Text weiß das**. Eine gebrochene Zusage, die der
-  Text nicht bemerkt, ist offen und nicht verfallen.
-- **Fälligkeit** in Erzähltagen, oder `offen`, wenn keine Frist genannt wurde.
-- **Eingelöst**: das Kapitel, das sie bezahlt, oder `—`.
-
-**Nach jedem geschriebenen Kapitel:**
-
-```bash
-python3 werkzeug/zusagen.py --neu
-```
-
-Das listet Zusagen mit Frist, die im Buch fehlen. Jede wird eingetragen oder es
-wird hier begründet, warum sie keine ist.
-
-**Und `zusagen.py` ohne Argument gibt den Stand.** Überfällig, offen, bezahlt.
-Es endet mit Rückgabewert 1, solange etwas überfällig ist.
-
----
-
-## Was das Werkzeug nicht kann
-
-**Es entscheidet nicht, ob etwas eine Zusage ist.** Das ist Urteil und bleibt es.
-
-**Und `--neu` findet nur Zusagen mit einer Frist im selben Satz.** *„I am going to
-have him before the end of the year"* wird gefunden. *„I will not tell him"* nicht.
-Fristlose Zusagen kommen von Hand hier hinein, mit `faellig offen`.
-
-Das ist Absicht und folgt Regel 8 aus `doc/11-pruefen.md`: ein Detektor, der jeden
-Satz mit *I will* meldet, ist so wertlos wie einer, der nichts meldet. **Diese
-Fassung meldet lieber zu wenig und verlässt sich darauf, dass die Liste gepflegt
-wird.**
-
----
-
-## Offen
-
-- [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
-- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 442 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · —
-- [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
-- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · —
-- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
-- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
-- [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
-- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
-- [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
-- [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
-- [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
-- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
-- [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
-- [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig offen · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
-- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig offen · "You will be told, and you will not be told the comfortable part of it." · —
-- [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig offen · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
-- [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
-- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · —
-- [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
-- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
-- [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —
-- [OFFEN] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig offen · "I am going to say it again now to all six, in the same words, because I promised" · —
-
-## Bezahlt
-
-- [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig offen · "I will write one page and I will sign it and I will put the date on it, and it goes to you." · B2 71: geschrieben am 14. Juni, neunundachtzig Tage in der Schublade, weil sie nicht postet, was ueber einen Tisch gehoert
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
-- [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
-- [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
-- [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
-- [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach
-- [BEZAHLT] **B1 24** Annie an Georgij · gesagt Tag 55 · faellig Tag 58 · "Monday. Named, capped, and it dies on the first of March." · B1 25
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 203 · "I want her. Not the letter, not the lane, not an apology, and not a settlement." · B2 19 und 20, Nam Byung-hee am 23. April
-- [BEZAHLT] **B2 09** Georgij an Annie · gesagt Tag 168 · faellig Tag 217 · "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to be able to do something about" · B2 32, sie gibt das Buch her und behaelt die Entscheidung
-- [BEZAHLT] **B2 57** Woo an Georgij · gesagt Tag 318 · faellig Tag 322 · "I will come to you." · B2 61, Sonntag im Haus
-
----
-
-## Geprüft und keine Zusage
-
-**Das ist der wichtigste Abschnitt der Datei.** Ohne ihn meldet `--neu` dieselben
-dreizehn Fundstellen bis in alle Ewigkeit, und nach der zweiten Woche sieht
-niemand mehr hin. Wer eine Fundstelle hier ablegt, schreibt dazu, warum sie keine
-Zusage ist.
-
-- [KEINE] **B1 03** Mrs Seo an Georgij · gesagt Tag 1 · faellig offen · "Your room is on the first floor, east end. Ji-won will take you up. Breakfast is from seven" · Hausordnung, keine Zusage
-- [KEINE] **B1 21** Hana an Georgij · gesagt Tag 49 · faellig offen · "Not the second week, because everybody gives theirs in the second week and Ye-rin will already have said no" · Lagebeschreibung ueber Dritte
-- [KEINE] **B1 25** Georgij an Annie · gesagt Tag 59 · faellig offen · "It expires on the first of March at midnight. Not the second. There is no grace period" · Beschreibung eines Instruments, keine Zusage. Die Zusage dazu steht bei B1 24
-- [KEINE] **B2 08** Shin an Georgij · gesagt Tag 168 · faellig offen · "Not the twenty-sixth and not longer than the first. On the first I write" · Absicht eines Dritten in eigener Sache, nicht an Georgij gerichtet
-- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "You went into that building four times over seven weeks, and you gave up something on the third visit" · Beschreibung der Vergangenheit
-- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
-- [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
-- [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
-- [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
-
----
-
-## Was das Werkzeug beim ersten Lauf gefunden hat, das niemand hatte
-
-**Zwei, und beide sind offen.** Sie stehen oben in der Liste und hier steht,
-warum sie zaehlen.
-
-**Mrs Jeon, Kapitel 32 (2. Juni):** *"I have four months of money and a son who is
-going to offer next month, and I am going to take it."* Vier Monate Geld ab Juni,
-das Angebot des Sohnes im Juli. **Faellig etwa Tag 273 und seit siebzig Tagen
-offen.** Sie ist die Figur, die Georgij ausdruecklich als sein Spiegelbild im
-Kleinen gefuehrt wird (`doc/03-cast.md`), und der Text hat sie nach dem 2. Juni
-fallen lassen.
-
-**Annie, Kapitel 59 (18. August):** *"in about a week you will have found a way to
-make it about you and I would like to have said this first."* **Faellig Tag 326.**
-Sie sagt eine Sache voraus, die er tun wird, und sie hat sich bisher nicht
-gezeigt - was entweder heisst, dass sie unrecht hatte, oder dass es niemand
-aufgegriffen hat. Bei dieser Figur ist das erste unwahrscheinlich.
-
----
-
-## Zwei Beobachtungen aus der ersten Fuellung
-
-**Erstens: Georgij macht kaum Zusagen mit Frist.** Das ist Figur und kein Mangel -
-er sagt, was er tut, während er es tut. Die drei, die er gemacht hat, sind alle
-gegenüber Annie, und **zwei davon hat er nicht gehalten.**
-
-**Zweitens: Annie macht Zusagen und hält sie ausnahmslos**, und sie datiert sie
-beim Sagen. Das ist dieselbe Maschine wie in `doc/12-stimmen.md`: ihr Beweismittel
-ist ein Datum. **Sie ist die einzige Figur im Buch, deren Zusagen sich mit einer
-Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
+Die Pruefsitzung hat `doc/13-zusagen.md` angelegt und in `CLAUDE.md` eingetragen,
+waehrend dieses Blatt schon `doc/13-stilprotokoll.md` hiess. **Umbenannt in
+`doc/14-stilprotokoll.md`**, Verweise in `doc/09` nachgezogen. `doc/13` gehoert
+jetzt eindeutig dem Schuldbuch.
 
 ---
 
