@@ -852,7 +852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.3) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.4) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -873,6 +873,53 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was es kostet, sagt Georgij, weil sie es nicht sagen wird:** das dritte, was Sang-hoon erfaehrt, und dass er der Mann sein darf, der es geloest hat. Und **es benutzt den Korridor**, den Sang-hoon einmal angeboten und danach nicht mehr erwaehnt hat. Annies Antwort: *"It is exactly what a man means when he says that. That is why it costs."* Dazu ihre Auflage: *"You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."*
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
+
+  **Nachtrag 25.08., v1.4 - eine Zusage aus Band 1, die neun Monate niemand hatte.**
+  - **Band 1, Kapitel 31, 16. Dezember:** Annie fordert ihn auf, sich etwas zu
+    wuenschen. Er lehnt ab und begruendet es: *"There is a thing that would be
+    worth asking for. It is a large price and you do not have to pay it this
+    year. If it ever has to be paid, you will think of it yourself in about four
+    seconds. It is not mine to have put in your head in December."* Und sie:
+    **"I will ask you again in March, and you will not be able to say it is not
+    the moment."** **Sie hat nie wieder gefragt.**
+  - **Gefunden am 25.08.** bei der Suche nach fristlosen Zusagen. `zusagen.py --neu`
+    sieht sie nicht, weil sie keine Zeitangabe im Satz hat, und im Schuldbuch
+    stand sie ueberhaupt nicht.
+  - **Warum sie nicht in der Zukunft einloesbar war:** Maerz ist seit einem halben
+    Buch vorbei. Also ist sie dort eingeloest worden, wo sie faellig war -
+    **Montag, der 16. Maerz, auf den Tag drei Monate.**
+  - **Was die Sache im Dezember war, ergibt sich aus dem Kalender und aus nichts
+    sonst:** die Streichung im Buch. Er war am 16. Dezember Eigentum und konnte
+    seine Besitzerin nicht darum bitten, ohne dass es eine Forderung wird.
+    **Annie hat am 4. Januar angefangen und war am 19. Februar fertig** - drei
+    Wochen nach dem Gespraech, ungefragt. *"You will think of it yourself in
+    about four seconds"* ist damit woertlich eingetreten.
+  - **Woraus folgt, was im Maerz noch offen war**, und es steht seit Band 1,
+    Kapitel 34 im Text: **"I'm afraid of Tuesdays."** Sie hat ihn freigelassen
+    und ihm dabei den Boden weggenommen, ohne es zu wissen, und am 1. Maerz
+    konnte sie *"the one morning on which I cannot answer it with paper"* nicht
+    beantworten. **Am 16. Maerz muss sie zum zweiten Mal, und diesmal antwortet
+    sie.**
+  - **Die Bitte, und sie ist kein Kauf und kein Eintrag:** *"Say that I am
+    yours."* Er nennt vorher den Preis, weil sein Register das verlangt: keine
+    Frist, kein Deckel, keine benannte Gegenpartei, kein Ausgang - und eine Form,
+    die nicht durchsetzbar und niemandem vorzeigbar ist, sodass sie das Ganze
+    traegt und er nichts. **Und die zweite Haelfte des Preises sagt sie selbst:**
+    ein freier Mann, der bleibt, koennte spaeter in jedem Raum behaupten, dieses
+    Haus habe ihn gehalten, und **seit Februar gibt es kein Dokument, das ihm
+    widerspricht.**
+  - **Ihre Antwort ist die Umkehrung von Kapitel 5, fuenf Tage vorher.** Dort:
+    *"I will not say that twice, and you are not to build anything on it."*
+    Hier: *"You are mine... It has no end on it. **Build on this one.**"*
+  - **Register A 3b:** er bittet **im Stehen** und geht erst danach hinunter,
+    weil *"a man who asks for a thing from the floor is not asking"*. Sie fasst
+    ihn nicht an, und der Text sagt, dass das richtig war. Das ist die Umkehrung
+    von Register A 9 am 4. Juni, wo **sie** vor der Antwort heruntergeht.
+  - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
+    Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
+  - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.
+    *"If the world points anything at you at all, I will burn the world down"*
+    bleibt der **einzige** Satz in zwei Baenden ohne Preis darin.
 
 - **Band 2, Kapitel 7** *Not the first* (v1.5) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 

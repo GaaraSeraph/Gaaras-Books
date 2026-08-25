@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 255.472 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 256.479 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3662,7 +3662,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.3) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.4) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -3683,6 +3683,53 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Was es kostet, sagt Georgij, weil sie es nicht sagen wird:** das dritte, was Sang-hoon erfaehrt, und dass er der Mann sein darf, der es geloest hat. Und **es benutzt den Korridor**, den Sang-hoon einmal angeboten und danach nicht mehr erwaehnt hat. Annies Antwort: *"It is exactly what a man means when he says that. That is why it costs."* Dazu ihre Auflage: *"You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."*
 
   **Der Schluss ist die zweite Begegnung mit Choi, und sie darf nicht gemerkt werden.** Eine Abrechnung, die nie stattgefunden hat, heisst, dass das Haus angewiesen wurde, keine zu schicken, und so eine Anweisung kommt von einem Eigentuemer. Der Eigentuemer ist ein Fonds, vier Gesellschaften tief, die vierte an einer Adresse in Jung-gu mit neun weiteren. **Georgij erkennt die Bauform, bevor er durch die zweite Schicht ist** - zweimal im Herbst gesehen, beide Male von unten, beide Male ohne Namen am Ende. Also **bricht er ab**: keine Unterlagen bestellt, kein Registerauszug, keine einzige Anfrage mit Datum, und um zwanzig nach eins liegt alles so, wie er es vorgefunden hat. Letzte Zeile: **"He had no way of knowing that it was the second time."**
+
+  **Nachtrag 25.08., v1.4 - eine Zusage aus Band 1, die neun Monate niemand hatte.**
+  - **Band 1, Kapitel 31, 16. Dezember:** Annie fordert ihn auf, sich etwas zu
+    wuenschen. Er lehnt ab und begruendet es: *"There is a thing that would be
+    worth asking for. It is a large price and you do not have to pay it this
+    year. If it ever has to be paid, you will think of it yourself in about four
+    seconds. It is not mine to have put in your head in December."* Und sie:
+    **"I will ask you again in March, and you will not be able to say it is not
+    the moment."** **Sie hat nie wieder gefragt.**
+  - **Gefunden am 25.08.** bei der Suche nach fristlosen Zusagen. `zusagen.py --neu`
+    sieht sie nicht, weil sie keine Zeitangabe im Satz hat, und im Schuldbuch
+    stand sie ueberhaupt nicht.
+  - **Warum sie nicht in der Zukunft einloesbar war:** Maerz ist seit einem halben
+    Buch vorbei. Also ist sie dort eingeloest worden, wo sie faellig war -
+    **Montag, der 16. Maerz, auf den Tag drei Monate.**
+  - **Was die Sache im Dezember war, ergibt sich aus dem Kalender und aus nichts
+    sonst:** die Streichung im Buch. Er war am 16. Dezember Eigentum und konnte
+    seine Besitzerin nicht darum bitten, ohne dass es eine Forderung wird.
+    **Annie hat am 4. Januar angefangen und war am 19. Februar fertig** - drei
+    Wochen nach dem Gespraech, ungefragt. *"You will think of it yourself in
+    about four seconds"* ist damit woertlich eingetreten.
+  - **Woraus folgt, was im Maerz noch offen war**, und es steht seit Band 1,
+    Kapitel 34 im Text: **"I'm afraid of Tuesdays."** Sie hat ihn freigelassen
+    und ihm dabei den Boden weggenommen, ohne es zu wissen, und am 1. Maerz
+    konnte sie *"the one morning on which I cannot answer it with paper"* nicht
+    beantworten. **Am 16. Maerz muss sie zum zweiten Mal, und diesmal antwortet
+    sie.**
+  - **Die Bitte, und sie ist kein Kauf und kein Eintrag:** *"Say that I am
+    yours."* Er nennt vorher den Preis, weil sein Register das verlangt: keine
+    Frist, kein Deckel, keine benannte Gegenpartei, kein Ausgang - und eine Form,
+    die nicht durchsetzbar und niemandem vorzeigbar ist, sodass sie das Ganze
+    traegt und er nichts. **Und die zweite Haelfte des Preises sagt sie selbst:**
+    ein freier Mann, der bleibt, koennte spaeter in jedem Raum behaupten, dieses
+    Haus habe ihn gehalten, und **seit Februar gibt es kein Dokument, das ihm
+    widerspricht.**
+  - **Ihre Antwort ist die Umkehrung von Kapitel 5, fuenf Tage vorher.** Dort:
+    *"I will not say that twice, and you are not to build anything on it."*
+    Hier: *"You are mine... It has no end on it. **Build on this one.**"*
+  - **Register A 3b:** er bittet **im Stehen** und geht erst danach hinunter,
+    weil *"a man who asks for a thing from the floor is not asking"*. Sie fasst
+    ihn nicht an, und der Text sagt, dass das richtig war. Das ist die Umkehrung
+    von Register A 9 am 4. Juni, wo **sie** vor der Antwort heruntergeht.
+  - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
+    Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
+  - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.
+    *"If the world points anything at you at all, I will burn the world down"*
+    bleibt der **einzige** Satz in zwei Baenden ohne Preis darin.
 
 - **Band 2, Kapitel 7** *Not the first* (v1.5) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 
@@ -11506,6 +11553,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 1 | B1 34 | So 1. März | **Er geht zu ihr runter.** *"He went down onto the floor beside her, which took about two seconds and which nobody in that room had asked for, and sat back on his heels with his shoulder against her leg."* |
 | 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
 | 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
+| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking"*, und geht erst hinunter, nachdem sie geantwortet hat. Danach: *"She did not touch him, and she did not say anything else about it, and both of those were correct."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. |
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
 | 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
@@ -12720,6 +12768,15 @@ Sache**, und ihr Beweismittel ist ein Datum. Befehle ohne Weichmacher: *"Sit
 down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
 entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
 (siehe `doc/10-naehe.md`).
+
+**Und das ist der Grund, warum Kapitel 6 kein Bruch ist**, obwohl dort der
+groesste Satz steht, den sie im Buch ueber die beiden sagt. *"You are mine... It
+has no end on it. Build on this one."* enthaelt **kein einziges weiches Wort**,
+keine Begruendung ueber sich selbst und keinen Zusatz. Es ist eine Feststellung
+und ein Befehl, also genau ihr Grundregister, angewandt auf den teuersten
+Gegenstand, den es gibt. **Wer die Stelle waermer schreibt, macht sie zu einer
+anderen Frau.** Und die koerperliche Regel bleibt gewahrt: sie fasst ihn dabei
+**nicht** an, und der Text sagt ausdruecklich, dass das richtig war.
 
 **Ihr Register bricht genau einmal, in Kapitel 62.** Sie erklaert dort sich
 selbst statt ihn, und es ist die einzige Stelle im ganzen Buch. Wer sie ein
@@ -14744,6 +14801,8 @@ wird.**
 - [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
 - [BEZAHLT] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · **Einer in B2 69 (Kwon, und nur weil er selbst vorfuhr), die anderen vier in B2 75, einhunderteinundvierzig Tage spaet und nicht von ihm.** Sie schreibt vier Briefe von Hand, unterschrieben und datiert, ohne Briefkopf; Mrs Seo verschickt sie aus vier verschiedenen Orten und erfaehrt nicht, was drinsteht
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
+- [BEZAHLT] **B1 31** Annie an Georgij · gesagt Tag 74 · faellig Tag 164 · "I will ask you again in March, and you will not be able to say it is not the moment, because in March it will be." · B2 06, am 16. Maerz, auf den Tag drei Monate. **Stand bis zum 25.08. ueberhaupt nicht im Schuldbuch und war neun Erzaehlmonate unbezahlt** - gefunden bei der Suche nach fristlosen Zusagen, weil `--neu` sie nicht sieht
+- [KEINE] **B2 06** Annie an Georgij · gesagt Tag 164 · faellig bei nichts · "You are mine... It has no end on it. Build on this one." · **Kein Posten mit Faelligkeit, sondern ein Zustand.** Sie kann ihn nicht erfuellen, nur brechen; ein Bruch waere VERFALLEN und keine Ueberfaelligkeit. Steht hier, damit er nicht als vergessener Faden wiederkommt
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
 - [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach
 - [BEZAHLT] **B1 24** Annie an Georgij · gesagt Tag 55 · faellig Tag 58 · "Monday. Named, capped, and it dies on the first of March." · B1 25
@@ -16311,7 +16370,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 819 | 87 (b1ch01-b2ch75) | 1 | 74 |
+| Annie | 826 | 87 (b1ch01-b2ch75) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -16362,7 +16421,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-819 Nennungen in 87 Kapiteln.
+826 Nennungen in 87 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -16736,6 +16795,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:206 | "So no," said Annie. |
 | 5 | b2ch06:228 | "And it uses the corridor," said Annie. |
 | 5 | b2ch06:246 | He did it that evening. It took seven minutes. It cost precisely what he had said it wou.. |
+| 5 | b2ch06:254 | "It is the sixteenth of March," said Annie. |
+| 5 | b2ch06:298 | Annie sat entirely still. |
+| 5 | b2ch06:310 | Annie did not help him. |
+| 5 | b2ch06:326 | "There is nothing to write that on," said Annie. |
+| 5 | b2ch06:342 | "Say the price," said Annie. "You said you would say it first and you have said the chea.. |
+| 5 | b2ch06:362 | Annie was quiet for what was probably eight seconds. |
+| 5 | b2ch06:398 | "On the eleventh I told you I would not say a thing twice and that you were not to build.. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |
@@ -17276,6 +17342,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:242` (Tag 60) - four
 - `b2ch05:258` (Tag 60) - one
 - `b2ch06:246` (Tag 5) - seven
+- `b2ch06:362` (Tag 5) - eight
 - `b2ch07:82` (Tag 7) - one
 - `b2ch07:162` (Tag 7) - one
 - `b2ch09:38` (Tag 9) - one, two

@@ -18,7 +18,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 819 | 87 (b1ch01-b2ch75) | 1 | 74 |
+| Annie | 826 | 87 (b1ch01-b2ch75) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-819 Nennungen in 87 Kapiteln.
+826 Nennungen in 87 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -443,6 +443,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:206 | "So no," said Annie. |
 | 5 | b2ch06:228 | "And it uses the corridor," said Annie. |
 | 5 | b2ch06:246 | He did it that evening. It took seven minutes. It cost precisely what he had said it wou.. |
+| 5 | b2ch06:254 | "It is the sixteenth of March," said Annie. |
+| 5 | b2ch06:298 | Annie sat entirely still. |
+| 5 | b2ch06:310 | Annie did not help him. |
+| 5 | b2ch06:326 | "There is nothing to write that on," said Annie. |
+| 5 | b2ch06:342 | "Say the price," said Annie. "You said you would say it first and you have said the chea.. |
+| 5 | b2ch06:362 | Annie was quiet for what was probably eight seconds. |
+| 5 | b2ch06:398 | "On the eleventh I told you I would not say a thing twice and that you were not to build.. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |
@@ -983,6 +990,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:242` (Tag 60) - four
 - `b2ch05:258` (Tag 60) - one
 - `b2ch06:246` (Tag 5) - seven
+- `b2ch06:362` (Tag 5) - eight
 - `b2ch07:82` (Tag 7) - one
 - `b2ch07:162` (Tag 7) - one
 - `b2ch09:38` (Tag 9) - one, two

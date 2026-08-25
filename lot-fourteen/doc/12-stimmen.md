@@ -783,6 +783,15 @@ down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
 entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
 (siehe `doc/10-naehe.md`).
 
+**Und das ist der Grund, warum Kapitel 6 kein Bruch ist**, obwohl dort der
+groesste Satz steht, den sie im Buch ueber die beiden sagt. *"You are mine... It
+has no end on it. Build on this one."* enthaelt **kein einziges weiches Wort**,
+keine Begruendung ueber sich selbst und keinen Zusatz. Es ist eine Feststellung
+und ein Befehl, also genau ihr Grundregister, angewandt auf den teuersten
+Gegenstand, den es gibt. **Wer die Stelle waermer schreibt, macht sie zu einer
+anderen Frau.** Und die koerperliche Regel bleibt gewahrt: sie fasst ihn dabei
+**nicht** an, und der Text sagt ausdruecklich, dass das richtig war.
+
 **Ihr Register bricht genau einmal, in Kapitel 62.** Sie erklaert dort sich
 selbst statt ihn, und es ist die einzige Stelle im ganzen Buch. Wer sie ein
 zweites Mal so schreibt, nimmt der ersten alles.
