@@ -7,15 +7,29 @@ war `doc/10-naehe.md`, wo ein Satz ueber einen Stuhl im Register stand, den es i
 Buch nie gab. Ein Register, das erfindet, ist schlimmer als keines: es wird
 geglaubt.
 
-Signatur: ein Zitat in Anfuehrungszeichen, englisch, laenger als sechs Woerter,
-das sich in keiner lebenden Kapitelfassung wiederfindet.
+Drei Sorten, und sie auseinanderzuhalten ist der ganze Wert des Programms:
 
-Die Eichung steht unten und laeuft bei jedem Start. Sie nimmt einen echten Satz
-aus dem Buch (muss gefunden werden) und denselben Satz mit einem geaenderten Wort
-(darf nicht gefunden werden). Faellt sie durch, meldet das Programm nichts -
-siehe `doc/11-pruefen.md`, Schritt 3.
+  ohne Beleg      steht in keiner Fassung. Das ist der Fund.
+  alte Fassung    steht in einer ueberholten Fassung. Geschichte, kein Fehler.
+  Vorschlag       steht in einem Block, der Sprache vorschlaegt statt sie zu
+                  belegen - *so wuerde Jang reden*. Absicht, kein Fehler.
+
+Die dritte Sorte kam am 25.08. aus der Stilsitzung: `doc/12-stimmen.md` erfindet
+absichtlich Repliken, und die als Falschzitate zu zaehlen treibt die Zahl so
+hoch, dass sich alle daran gewoehnen, sie zu ignorieren. Dann faengt sie auch
+das echte Falschzitat nicht mehr. Das ist Regel 8 in `doc/11-pruefen.md`.
+
+Zweiter Modus: `--kapitel` prueft, ob ein Zitat unter der richtigen Kapitelnummer
+steht. Ein Register kann eine Zeile richtig zitieren und falsch einordnen.
+
+Die Eichung laeuft bei jedem Start und meldet nichts, wenn sie durchfaellt -
+`doc/11-pruefen.md`, Schritt 3.
 """
-import io, os, re, sys, glob
+import io
+import os
+import re
+import sys
+import glob
 
 DEUTSCH = set(u"""der die das und nicht ist ein eine eines einem einen dass sich wird kann
 auch sie ich den dem von fuer für aus wie oder nur noch mehr sind hat haben war waren
@@ -24,7 +38,14 @@ kapitel band satz zeile seite gilt gibt keine kein weil damit dann diese dieser 
 man wer wo was warum nichts alles etwas immer nie jetzt hier dort ohne durch gegen""".split())
 
 ENGLISCH = set(u"""the and of to in a is was that it he she they for on with as at but not
-you i have has had do did not be been are were would could this his her him them my me""".split())
+you i have has had do did be been are were would could this his her him them my me""".split())
+
+VORSCHLAGSWORT = [u"vorschlag", u"beispiel", u"muster", u"entwurf", u"probe",
+                  u"so würde", u"so wuerde", u"so klingt", u"nicht im text",
+                  u"vom autor selbst", u"anläufe", u"anlaeufe"]
+
+N = 5
+GRENZE = 0.55
 
 
 def projektwurzel(start=None):
@@ -54,30 +75,78 @@ def lebende(ordner):
 
 
 def norm(s):
-    for a, b in ((u"\u2019", "'"), (u"\u2018", "'"), (u"\u201c", '"'), (u"\u201d", '"'),
-                 (u"\u2014", "-"), (u"\u2013", "-"), (u"\u00b7", " "), (u"\u00a0", " ")):
+    for a, b in ((u"’", "'"), (u"‘", "'"), (u"“", '"'), (u"”", '"'),
+                 (u"—", " "), (u"–", " "), (u"·", " "), (u" ", " ")):
         s = s.replace(a, b)
-    s = s.replace("*", "").replace("_", "").replace(">", " ")
-    return re.sub(r"\s+", " ", s).strip()
+    return s.replace("*", "").replace("_", "").replace(">", " ")
+
+
+def woerter(s):
+    return re.findall(r"[a-z0-9']+", norm(s).lower())
+
+
+def ngramme(ws, n=N):
+    return set(" ".join(ws[i:i + n]) for i in range(len(ws) - n + 1))
+
+
+def machen(texte):
+    """Ein Korpus ist Wortkette UND Fuenfergruppen. Beides wird gebraucht."""
+    ws = []
+    for t in texte:
+        ws.extend(woerter(t))
+        ws.append(u"||")
+    return {"wort": u" " + u" ".join(ws) + u" ", "ng": ngramme(ws)}
 
 
 def korpus(root, alle=False):
-    """alle=False: nur die lebenden Fassungen. alle=True: auch das Archiv.
-
-    Der Unterschied traegt die ganze Meldung. Ein Zitat, das in einer alten
-    Fassung steht, ist ein historisches Zitat und kein Fehler. Ein Zitat, das in
-    KEINER Fassung steht, ist aus dem Gedaechtnis geschrieben.
-    """
-    teile = []
+    texte = []
     for d in ("chapters", "chapters-2"):
         ordner = os.path.join(root, d)
-        pfade = glob.glob(os.path.join(ordner, "ch*_v*_en.md")) if alle             else lebende(ordner).values()
+        pfade = glob.glob(os.path.join(ordner, "ch*_v*_en.md")) if alle \
+            else list(lebende(ordner).values())
         for p in pfade:
-            teile.append(norm(io.open(p, encoding="utf-8").read()))
-    return " || ".join(teile)
+            texte.append(io.open(p, encoding="utf-8").read())
+    return machen(texte)
 
 
-QUOTE = re.compile(u'[\u201c"]([^\u201c\u201d"]{30,400})[\u201d"]')
+def deckung(q, K):
+    """Anteil der Woerter, die in einer Fuenfergruppe stehen, die es im Buch gibt."""
+    ws = woerter(q)
+    if len(ws) < N + 2:
+        return 0.0
+    gedeckt = [False] * len(ws)
+    for i in range(len(ws) - N + 1):
+        if " ".join(ws[i:i + N]) in K["ng"]:
+            for j in range(i, i + N):
+                gedeckt[j] = True
+    return float(sum(gedeckt)) / len(ws)
+
+
+def stuecke_stehen(q, K):
+    """Jedes Komma-Stueck von mindestens drei Woertern steht woertlich im Buch.
+
+    Das faengt die wieder zusammengesetzte Replik, in der eine Sprecherangabe
+    steckt. Zwei echte Falschmeldungen frueherer Fassungen:
+        *"I would take that call, on a Sunday."*
+      gegen  *"I would take that call," said Mr Chae, "on a Sunday."*
+        *"That's a beautiful answer, and it isn't one."*
+      gegen  *"That's a beautiful answer," said Hana, "and it isn't one."*
+    Beim zweiten sitzt die Angabe nach dem vierten Wort - dort ueberlebt keine
+    einzige Fuenfergruppe, und die Deckung allein war blind dafuer.
+    """
+    stuecke = re.split(r"[,;:]|\.\.\.|…", norm(q))
+    lang = [woerter(s) for s in stuecke]
+    lang = [w for w in lang if len(w) >= 3]
+    if not lang:
+        return False
+    return all((u" " + u" ".join(w) + u" ") in K["wort"] for w in lang)
+
+
+def steht_im_text(q, K):
+    return deckung(q, K) >= GRENZE or stuecke_stehen(q, K)
+
+
+QUOTE = re.compile(u'[“"]([^“”"]{30,400})[”"]')
 
 
 def englisch(q):
@@ -89,131 +158,122 @@ def englisch(q):
     return en >= 3 and en > de * 2
 
 
-def zitate(pfad):
-    txt = io.open(pfad, encoding="utf-8").read()
+def zitate_aus(txt):
     for m in QUOTE.finditer(txt):
         q = m.group(1)
         if "|" in q or "###" in q or "](" in q:
             continue
         if not englisch(q):
             continue
-        zeile = txt.count("\n", 0, m.start()) + 1
-        yield zeile, q
+        yield txt.count("\n", 0, m.start()) + 1, q
 
 
-N = 5
+def vorschlagszeilen(txt):
+    """Welche Zeilen stehen in einem Block, der Sprache vorschlaegt statt sie zu belegen.
 
-
-def woerter(s):
-    return re.findall(r"[a-z0-9']+", norm(s).lower())
-
-
-def ngramme(ws, n=N):
-    return set(" ".join(ws[i:i + n]) for i in range(len(ws) - n + 1))
-
-
-def deckung(q, korp):
-    """Anteil der Woerter, die in einer Fuenfergruppe stehen, die es im Buch gibt.
-
-    Nicht die Zeichenkette vergleichen und auch nicht blosse Fuenfergruppen
-    zaehlen, sondern messen, wieviel vom Zitat sich im Buch wiederfindet. Drei
-    echte Falschmeldungen der frueheren Fassungen haben das erzwungen:
-      - ein grossgeschriebenes Bruchstueck: *"The shed roof should be done..."*
-        gegen *"She said the shed roof should be done..."*;
-      - eine wieder zusammengesetzte Replik mit Sprecherangabe darin:
-        *"I would take that call, on a Sunday."* gegen
-        *"I would take that call," said Mr Chae, "on a Sunday."* - dort liegen
-        drei von vier Fuenfergruppen quer ueber die Naht;
-      - Auslassungen mit drei Punkten.
-    Alle drei sind richtig zitiert. Wer dagegen Wortgruppen erfindet, deckt
-    grosse Teile seines eigenen Zitats nicht ab.
+    Marke ist ein Wort aus VORSCHLAGSWORT, entweder in der Ueberschrift des
+    Abschnitts oder im Absatz unmittelbar vor dem Zitat. Kein neues Zeichen und
+    keine neue Syntax - die Dokumente schreiben ohnehin *Ein Beispiel, ruhig*.
     """
-    ws = woerter(q)
-    if len(ws) < N + 2:
-        return 1.0
-    gedeckt = [False] * len(ws)
-    for i in range(len(ws) - N + 1):
-        if " ".join(ws[i:i + N]) in korp:
-            for j in range(i, i + N):
-                gedeckt[j] = True
-    return float(sum(gedeckt)) / len(ws)
+    zeilen = txt.split("\n")
+    aus = [False] * (len(zeilen) + 2)
+    ueberschrift = False
+    vorlauf = False
+    for i, l in enumerate(zeilen):
+        k = l.strip().lower()
+        if l.startswith("#"):
+            ueberschrift = any(w in k for w in VORSCHLAGSWORT)
+            vorlauf = False
+        elif k and not l.lstrip().startswith(">"):
+            vorlauf = any(w in k for w in VORSCHLAGSWORT)
+        aus[i + 1] = ueberschrift or vorlauf
+    return aus
 
 
-def steht_im_text(q, korp, grenze=0.55):
-    return deckung(q, korp) >= grenze
+def eichung(K):
+    """Sechs Zitatproben und zwei Blockproben.
+
+    Fuenf der sechs muessen schweigen, und jede der fuenf war einmal eine echte
+    Falschmeldung dieses Programms.
+    """
+    proben = [
+        (u"She said the shed roof should be done properly or not at all", False),
+        (u"The shed roof should be done properly or not at all", False),
+        (u"I would take that call, on a Sunday.", False),
+        (u"That's a beautiful answer, and it isn't one.", False),
+        (u"She said the shed roof... properly or not at all", False),
+        (u"She said the shed roof should be measured by a man from Busan who "
+         u"counts the nails and writes them in a book that nobody ever reads", True),
+    ]
+    for q, soll in proben:
+        if (not steht_im_text(q, K)) != soll:
+            return False, u"Probe falsch beantwortet: " + q[:52]
+    a = u'## Ein Beispiel\n\n> "Nobody in this trade has ever said that to me."\n'
+    if not vorschlagszeilen(a)[3]:
+        return False, u"Vorschlagsblock nicht erkannt"
+    b = u'## Kapitel 12\n\n> "Nobody in this trade has ever said that to me."\n'
+    if vorschlagszeilen(b)[3]:
+        return False, u"gewoehnlicher Block faelschlich als Vorschlag gelesen"
+    return True, u"sechs Zitatproben, zwei Blockproben"
 
 
-def eichung(korp):
-    """Vier Proben. Zwei muessen durchgehen, zwei muessen auffallen."""
-    echt = "She said the shed roof should be done properly or not at all"
-    bruch = "The shed roof should be done properly or not at all"
-    geteilt = "I would take that call, on a Sunday."
-    erfunden = "She said the shed roof should be measured by a man from Busan "                "who counts the nails and writes them in a book"
-    proben = [(echt, False), (bruch, False), (geteilt, False), (erfunden, True)]
-    for q, soll_auffallen in proben:
-        auffaellig = not steht_im_text(q, korp)
-        if auffaellig != soll_auffallen:
-            return False, "Probe falsch beantwortet: " + q[:50]
-    return True, "vier Proben, zwei davon Falschmeldungen von Fassung 1"
+def dokumente(root):
+    d = sorted(glob.glob(os.path.join(root, "doc", "*.md")))
+    return [x for x in d + [os.path.join(root, "CLAUDE.md")] if os.path.exists(x)]
 
 
 def main():
     root = projektwurzel()
-    gesamt = ngramme(woerter(korpus(root)))
-    archiv = ngramme(woerter(korpus(root, alle=True)))
-    ok, was = eichung(gesamt)
-    print("Eichung: %s (%s)" % ("bestanden" if ok else "DURCHGEFALLEN", was))
-    print("")
+    live = korpus(root)
+    archiv = korpus(root, alle=True)
+    ok, was = eichung(live)
+    print(u"Eichung: %s (%s)" % (u"bestanden" if ok else u"DURCHGEFALLEN", was))
+    print(u"")
     if not ok:
-        print("Kein Ergebnis. Ein ungeeichter Detektor meldet nichts.")
+        print(u"Kein Ergebnis. Ein ungeeichter Detektor meldet nichts.")
         return 2
     zeigen = "-v" in sys.argv
-    docs = sorted(glob.glob(os.path.join(root, "doc", "*.md")))
-    docs += [os.path.join(root, "CLAUDE.md")]
-    tot = fehl = veraltet = 0
-    for d in docs:
-        if not os.path.exists(d):
-            continue
-        bad, alt = [], 0
-        for zeile, q in zitate(d):
+    tot = fehl = veraltet = vorschlaege = 0
+    for d in dokumente(root):
+        txt = io.open(d, encoding="utf-8").read()
+        marke = vorschlagszeilen(txt)
+        bad, alt, vor = [], 0, 0
+        for zeile, q in zitate_aus(txt):
             tot += 1
-            if steht_im_text(q, gesamt):
+            if steht_im_text(q, live):
                 continue
             if steht_im_text(q, archiv):
                 alt += 1
-                continue
-            bad.append((zeile, q))
+            elif zeile < len(marke) and marke[zeile]:
+                vor += 1
+            else:
+                bad.append((zeile, q))
         fehl += len(bad)
         veraltet += alt
-        name = os.path.relpath(d, root).replace("\\", "/")
-        if bad or alt:
-            print("%-26s  erfunden %-4d  aus alten Fassungen %d"
-                  % (name, len(bad), alt))
-            if zeigen:
-                for zeile, q in bad:
-                    print("      Zeile %-5d %s" % (zeile, q[:140].replace(chr(10), " ")))
-    print("")
-    print("%d englische Zitate geprueft." % tot)
-    print("%d stehen in KEINER Fassung - aus dem Gedaechtnis geschrieben." % fehl)
-    print("%d stehen in einer ueberholten Fassung - Geschichte, kein Fehler." % veraltet)
+        vorschlaege += vor
+        if bad or alt or vor:
+            print(u"%-26s  ohne Beleg %-4d alte Fassung %-4d Vorschlag %d"
+                  % (os.path.relpath(d, root).replace(chr(92), "/"), len(bad), alt, vor))
+            for zeile, q in bad:
+                print(u"      Zeile %-5d %s" % (zeile, q[:135].replace(chr(10), " ")))
+            if zeigen and vor:
+                print(u"      (%d Vorschlagszitate nicht aufgefuehrt)" % vor)
+    print(u"")
+    print(u"%d englische Zitate geprueft." % tot)
+    print(u"%d ohne Beleg - stehen in keiner Fassung." % fehl)
+    print(u"%d aus ueberholten Fassungen, %d aus Vorschlagsbloecken." % (veraltet, vorschlaege))
     return 1 if fehl else 0
 
 
 # ---------------------------------------------------------------------------
 # Zweite Klasse: richtiges Zitat, falsches Kapitel.
 #
-# Ein Kapitelregister ordnet jedem Zitat eine Nummer zu. Die Nummer kann falsch
-# sein, ohne dass am Zitat etwas auffaellt - der Satz steht ja im Buch. Signatur:
-# das Zitat steht in genau einem Kapitel, und das ist nicht das, unter dem es im
-# Dokument steht.
-# ---------------------------------------------------------------------------
-
 # Nur echte Registereintraege zaehlen als Marke - Listenzeilen der Form
 #   - **Band 2, Kapitel 45** *Titel* (v1.1) - ...
 # Eine Fassung, die einfach die zuletzt erwaehnte Kapitelnummer nahm, hat 312
 # Treffer gemeldet: in Fliesstext wird staendig eine Nummer genannt, und danach
-# lag jedes Zitat der naechsten zwanzig Absaetze angeblich falsch. Ungeeicht und
-# unbrauchbar.
+# lag jedes Zitat der naechsten zwanzig Absaetze angeblich falsch.
+# ---------------------------------------------------------------------------
 MARKE = re.compile(r"^- \*\*Band (1|2), Kapitel (\d+)\*\*", re.M)
 
 
@@ -221,57 +281,52 @@ def kapitelkorpora(root):
     aus = {}
     for band, d in (("1", "chapters"), ("2", "chapters-2")):
         for ch, p in lebende(os.path.join(root, d)).items():
-            aus[(band, int(ch[2:]))] = ngramme(woerter(io.open(p, encoding="utf-8").read()))
+            aus[(band, int(ch[2:]))] = machen([io.open(p, encoding="utf-8").read()])
     return aus
-
-
-def wo_steht(q, korpora, grenze=0.55):
-    return [k for k, g in korpora.items() if deckung(q, g) >= grenze]
 
 
 def kapitelpruefung(root):
     korpora = kapitelkorpora(root)
-    docs = sorted(glob.glob(os.path.join(root, "doc", "*.md")))
     treffer = 0
-    for d in docs:
+    for d in dokumente(root):
         txt = io.open(d, encoding="utf-8").read()
         marken = [(m.start(), m.group(1), int(m.group(2))) for m in MARKE.finditer(txt)]
         if not marken:
             continue
+        marke = vorschlagszeilen(txt)
         bad = []
-        for zeile, q in zitate(d):
+        for zeile, q in zitate_aus(txt):
+            if zeile < len(marke) and marke[zeile]:
+                continue
             pos = sum(len(x) + 1 for x in txt.split(chr(10))[:zeile - 1])
             davor = [m for m in marken if m[0] <= pos]
-            if not davor:
-                continue
             # Nur was noch im Eintrag steht. Ohne diese Schranke wirkt die letzte
-            # Marke des Registers bis ans Dateiende weiter und faerbt jedes Zitat
-            # der Durchgangsprotokolle falsch ein - 61 Scheintreffer.
-            if txt.count(chr(10), davor[-1][0], pos) > 40:
+            # Marke bis ans Dateiende weiter und faerbt jedes Zitat der
+            # Durchgangsprotokolle falsch ein - 61 Scheintreffer.
+            if not davor or txt.count(chr(10), davor[-1][0], pos) > 40:
                 continue
-            band, kap = davor[-1][1], davor[-1][2]
-            orte = wo_steht(q, korpora)
-            if len(orte) == 1 and orte[0] != (band, kap):
-                bad.append((zeile, band, kap, orte[0], q))
+            orte = [k for k, K in korpora.items() if steht_im_text(q, K)]
+            if len(orte) == 1 and orte[0] != (davor[-1][1], davor[-1][2]):
+                bad.append((zeile, davor[-1][1], davor[-1][2], orte[0], q))
         if bad:
             treffer += len(bad)
-            print("")
+            print(u"")
             print(os.path.relpath(d, root).replace(chr(92), "/"))
             for zeile, band, kap, ort, q in bad:
-                print("  Zeile %-5d steht unter B%s %s, gehoert zu B%s %s"
+                print(u"  Zeile %-5d steht unter B%s %s, gehoert zu B%s %s"
                       % (zeile, band, kap, ort[0], ort[1]))
-                print("        %s" % q[:130].replace(chr(10), " "))
-    print("")
-    print("%d Zitate stehen unter der falschen Kapitelnummer." % treffer)
+                print(u"        %s" % q[:125].replace(chr(10), " "))
+    print(u"")
+    print(u"%d Zitate stehen unter der falschen Kapitelnummer." % treffer)
+    print(u"Jedes einzeln pruefen: ein Eintrag darf ein anderes Kapitel zitieren.")
     return treffer
 
 
 if __name__ == "__main__":
     if "--kapitel" in sys.argv:
-        root = projektwurzel()
-        gesamt = ngramme(woerter(korpus(root)))
-        ok, was = eichung(gesamt)
-        print("Eichung: %s (%s)" % ("bestanden" if ok else "DURCHGEFALLEN", was))
-        print("")
-        sys.exit(2 if not ok else (1 if kapitelpruefung(root) else 0))
+        wurzel = projektwurzel()
+        gut, text = eichung(korpus(wurzel))
+        print(u"Eichung: %s (%s)" % (u"bestanden" if gut else u"DURCHGEFALLEN", text))
+        print(u"")
+        sys.exit(2 if not gut else (1 if kapitelpruefung(wurzel) else 0))
     sys.exit(main())

@@ -1214,7 +1214,7 @@ flattering thing you can say to an old man."*
 Menschen laut ein und will hören, ob es stimmt.
 
 **Drei Prozent Unvorsichtigkeit, und die sind gewählt** (`doc/03-cast.md`).
-*"Half of what I say on a terrace I say on purpose."* Wer sie geschwätzig
+*"I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there."* Wer sie geschwätzig
 schreibt, schreibt gegen Kapitel 11.
 
 **Dazu gemessen, 63 zugeordnete Repliken:**

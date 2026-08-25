@@ -104,4 +104,4 @@ b2  ch67  v1.0       2526 Woerter  ch67_v1_0_en.md
 b2  ch68  v1.0       2459 Woerter  ch68_v1_0_en.md
 
 Gesamt: 2 Baende, 102 Kapitel, 268704 Woerter
-Handbuch: 14 Dokumente
+Handbuch: 15 Dokumente

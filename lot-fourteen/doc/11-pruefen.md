@@ -101,6 +101,30 @@ Eine Zahl, die sich um ein Drittel bewegt, ist als Zwischenstand irreführend.
 
 ---
 
+**10. Ein Detektor muss Behauptung und Vorschlag auseinanderhalten können —
+und wenn er es nicht kann, muss man es ihm sagen.**
+`belege.py` hat in `doc/12-stimmen.md` **zwanzig** Falschzitate gemeldet.
+Achtzehn davon sind absichtlich erfundene Repliken — *so würde Jang reden*. Der
+Hinweis kam aus der Stilsitzung, und er war richtig: eine Zahl, die zu neunzig
+Prozent aus Absicht besteht, gewöhnt alle daran, sie zu ignorieren, **und dann
+fängt sie auch das echte Falschzitat nicht mehr.** Das Programm liest jetzt
+drei Töpfe: *ohne Beleg*, *alte Fassung*, *Vorschlag*. Nichts wird
+unterdrückt — die zwei Nebentöpfe werden gezählt und stehen im Bericht.
+
+**Und die Probe darauf hat gestimmt:** von den zwanzig blieb einer übrig, und
+der war echt. Hanas Stimmblatt stand auf einem Satz, den es nicht gibt —
+*"Half of what I say on a terrace I say on purpose."* Der Text sagt es
+besser, in Kapitel 21, aus ihrem eigenen Mund: *"I am not being careless for
+you. In twenty-five years I have not put one sentence into one room without
+knowing what it would do when it got there."*
+
+**Wer Vorschläge schreibt, markiert sie** — ein Wort genügt, in der Überschrift
+oder im Absatz davor: *Beispiel*, *Vorschlag*, *Muster*, *Entwurf*, *Probe*,
+*so würde*, *nicht im Text*. Keine neue Syntax; die Blätter schreiben ohnehin
+*Ein Beispiel, ruhig*.
+
+---
+
 ## Die Klassen, die es bisher gibt
 
 Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
@@ -168,7 +192,7 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 |---|---|---|
 | `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
-| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
+| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text, getrennt nach *ohne Beleg* / *alte Fassung* / *Vorschlag*; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
 | `werkzeug/faktenspur.py` | was ein Stildurchgang an Zahlen, Daten und Namen bewegt hat; `--seit <sha>` gegen den Stand vor dem Durchgang | **ja**, drei Proben, darunter eine reine Stiländerung, die schweigen muss |
 | `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 

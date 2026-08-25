@@ -80,6 +80,21 @@ Erzaehlerformeln, Echos, Beats, die zwei Trenner. Reiner Ton, kein Inhalt.
 
 ---
 
+## Erfundene Repliken markieren
+
+`doc/12-stimmen.md` erfindet absichtlich Sprache, um eine Stimme zu zeigen.
+`werkzeug/belege.py` hat die zuerst als Falschzitate gezaehlt - zwanzig Stueck,
+achtzehn davon Absicht. **Ein Wort im Absatz davor oder in der Ueberschrift**
+genuegt, damit das Werkzeug sie richtig einsortiert: *Beispiel*, *Vorschlag*,
+*Muster*, *Entwurf*, *Probe*, *so wuerde*, *nicht im Text*. Keine neue Syntax.
+
+**Warum das nicht Kosmetik ist:** von den zwanzig blieb nach der Trennung einer
+uebrig, und der war echt - Hanas Blatt stand auf einem Satz, den es im Buch
+nicht gibt. Eine Zahl, die zu neunzig Prozent aus Absicht besteht, wird
+ignoriert, und dann faellt der eine nicht mehr auf.
+
+---
+
 ## Unsicher
 
 Wo eine Stimmkorrektur den Sinn verschoben haben koennte, auch ohne dass eine

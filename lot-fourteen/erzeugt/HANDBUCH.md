@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 211.548 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 212.763 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -148,6 +148,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die fuenf Regeln](#die-fuenf-regeln)
   - [Wenn es doch kollidiert](#wenn-es-doch-kollidiert)
   - [Wer schreibt in welches Dokument](#wer-schreibt-in-welches-dokument)
+  - [Und der zweite Uebergabepunkt: das Stilprotokoll](#und-der-zweite-uebergabepunkt-das-stilprotokoll)
   - [Und der Uebergabepunkt](#und-der-uebergabepunkt)
 - [Nähe: das Register](#n-he-das-register)  ·  `doc/10-naehe.md`
   - [B1 24 · Do 27. November · Die Brücke](#b1-24-do-27-november-die-br-cke)
@@ -200,6 +201,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die kleinen Rollen](#die-kleinen-rollen)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
   - [Eine Fehlmeldungsklasse, und sie ist wichtig](#eine-fehlmeldungsklasse-und-sie-ist-wichtig)
+- [Stilprotokoll](#stilprotokoll)  ·  `doc/13-stilprotokoll.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -1789,7 +1791,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 
 **Ab Kapitel 21 festgelegt.** Einundfünfzig. **Ein Haus nördlich des Flusses**, altes Geld, alte Bäume, eine Steinmauer. Freitags ist niemand darin; die Frau, die kommt, kommt montags und donnerstags. Sie öffnet ihre Tür selbst. Sie erlaubt seit 2011 keine Fotografien in ihrem Haus, und jeder auf ihrer Gästeliste weiß das - was aus einer Marotte Woos zweite Bedingung erfüllbar macht. Kang Ji-hoon kommt seit neun Jahren zu Weihnachten dorthin, seine Frau und sie haben dieselben Prüfungen geschrieben. **Sie kennt Georgijs Lage seit der Gala aus seinem eigenen Mund** und hat sie nie erwähnt.
 
-**Sie ist keine Plaudertasche, und das ist die wichtigste Regel zu ihr.** Kapitel 11, Georgij an Annies Tisch, im Wortlaut: *"Hana talked. **Not carelessly.**"* Ihre Straflosigkeit macht sie **lauter**, nicht unvorsichtiger - drei Prozent, und die sind gewählt. Sie streut seit fünfundzwanzig Jahren gezielt und sagt es in Kapitel 21 selbst: *"Half of what I say on a terrace I say on purpose."*
+**Sie ist keine Plaudertasche, und das ist die wichtigste Regel zu ihr.** Kapitel 11, Georgij an Annies Tisch, im Wortlaut: *"Hana talked. **Not carelessly.**"* Ihre Straflosigkeit macht sie **lauter**, nicht unvorsichtiger - drei Prozent, und die sind gewählt. Sie streut seit fünfundzwanzig Jahren gezielt und sagt es in Kapitel 21 selbst: *"I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there."*
 
 **Daraus folgt, was man mit ihr nicht schreiben darf.** Keine Szene, in der jemand ihr erklärt, was ihr eigenes Reden wert ist, und keine, in der sie versehentlich etwas ausplaudert. In der ersten Fassung von Kapitel 21 stand beides, und sie schneidet es dort inzwischen ab.
 
@@ -10312,8 +10314,24 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 | `doc/05-continuity.md`, `doc/08-decisions.md` | Inhalt |
 | `doc/06-plot.md` | Schreiben |
 | `doc/07-next.md` | alle drei: Schreiben vorn, Pruefende hinten anhaengen |
+| `doc/13-stilprotokoll.md` | **Stil**, waehrend des Durchgangs. Die Inhaltspruefung liest nur |
 | `doc/11-pruefen.md` | wer prueft, und zwar sofort nachdem er etwas gelernt hat |
 | `doc/09-arbeitsteilung.md` | wer die Aufteilung aendert, und zwar bevor er sie aendert |
+
+### Und der zweite Uebergabepunkt: das Stilprotokoll
+
+Seit dem 25.08. gibt es `doc/13-stilprotokoll.md`. **Ein Durchgang, der jede
+Aussage an `doc/12-stimmen.md` anpasst, schreibt woertliche Rede um, und in
+woertlicher Rede stehen die Fakten.** Ohne Protokoll muesste die
+Inhaltspruefung danach hundert Kapitel neu lesen; mit Protokoll liest sie die
+Zeilen, die sich bewegt haben.
+
+Die Reihenfolge ist **erst Stil, dann Inhalt** - die Begruendung steht in
+`doc/11-pruefen.md`. Kurz: wer zuletzt schreibt, hat recht, und das soll der
+Inhalt sein; Befunde gegen einen Wortlaut, den es nicht mehr gibt, sind wertlos;
+und Warten kostet nichts, weil das Archiv jede Fassung behaelt.
+
+---
 
 ### Und der Uebergabepunkt
 
@@ -10750,6 +10768,30 @@ Eine Zahl, die sich um ein Drittel bewegt, ist als Zwischenstand irreführend.
 
 ---
 
+**10. Ein Detektor muss Behauptung und Vorschlag auseinanderhalten können —
+und wenn er es nicht kann, muss man es ihm sagen.**
+`belege.py` hat in `doc/12-stimmen.md` **zwanzig** Falschzitate gemeldet.
+Achtzehn davon sind absichtlich erfundene Repliken — *so würde Jang reden*. Der
+Hinweis kam aus der Stilsitzung, und er war richtig: eine Zahl, die zu neunzig
+Prozent aus Absicht besteht, gewöhnt alle daran, sie zu ignorieren, **und dann
+fängt sie auch das echte Falschzitat nicht mehr.** Das Programm liest jetzt
+drei Töpfe: *ohne Beleg*, *alte Fassung*, *Vorschlag*. Nichts wird
+unterdrückt — die zwei Nebentöpfe werden gezählt und stehen im Bericht.
+
+**Und die Probe darauf hat gestimmt:** von den zwanzig blieb einer übrig, und
+der war echt. Hanas Stimmblatt stand auf einem Satz, den es nicht gibt —
+*"Half of what I say on a terrace I say on purpose."* Der Text sagt es
+besser, in Kapitel 21, aus ihrem eigenen Mund: *"I am not being careless for
+you. In twenty-five years I have not put one sentence into one room without
+knowing what it would do when it got there."*
+
+**Wer Vorschläge schreibt, markiert sie** — ein Wort genügt, in der Überschrift
+oder im Absatz davor: *Beispiel*, *Vorschlag*, *Muster*, *Entwurf*, *Probe*,
+*so würde*, *nicht im Text*. Keine neue Syntax; die Blätter schreiben ohnehin
+*Ein Beispiel, ruhig*.
+
+---
+
 ## Die Klassen, die es bisher gibt
 
 Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
@@ -10766,6 +10808,37 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 | **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register — typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 44, und schrieb sie Annie statt Sang-hoon zu |
 | **Ein Alter, das seinen eigenen Geburtstag überholt** | eine Zahl im Text gegen die Geburtstagstabelle, sobald die geparkte Strecke erzählt wird | Yeom, Woo, Mrs Sunwoo und Annie am 25.08. |
 | **Eine Spanne, die sich selbst aufhebt** | *since I was X*, wo X das heutige Alter der Figur ist | B2 62: Annie sagt *since I was thirty-seven* und ist siebenunddreißig |
+
+---
+
+## Reihenfolge: erst Stil, dann Inhalt
+
+**Ein Durchgang, der jede Aussage an `doc/12-stimmen.md` anpasst, geht vor der
+Inhaltsprüfung, nicht danach.** Drei Gründe:
+
+1. **Eine Inhaltskorrektur ist ein umgeschriebener Satz.** Wird derselbe Satz
+   danach in die Stimme gezogen, kann die Zahl darin wieder verschwinden. Wer
+   zuletzt schreibt, hat recht — und das soll der Inhalt sein.
+2. **Befunde gegen einen Wortlaut, den es nicht mehr gibt, sind wertlos.** Am
+   25.08. lagen genau dafür Notizen im Register: die des alten Kapitels 46,
+   geschrieben gegen eine Fassung, die es nach der Umnummerierung nicht mehr gab.
+3. **Warten kostet nichts**, weil das Archiv jede Fassung behält. Der Zustand
+   vor dem Durchgang muss nicht gesichert werden — er liegt schon da, und
+   `faktenspur.py --seit <sha>` holt ihn.
+
+**Zwei Dinge gehören aber davor.** Erstens: wer die Stimmen anlegt, muss die
+**Festgelegten Zeilen** aus `doc/05` vor sich haben. Ein Stimmblatt glättet sie
+sonst, und ein Zurücknehmen ist teurer als ein Nichtanfassen. Zweitens: die
+Fakten stehen in wörtlicher Rede. *"I am fifty-nine"*, *"since I was
+twenty-six"*, *"it was Y who suggested the cards"* — alles Stimme und alles
+Kanon.
+
+**Gemessen am 25.08.:** seit dem ersten Stimmen-Commit haben **acht Kapitel**
+eine Zahl, ein Datum oder einen Namen bewegt. Das auffälligste Muster ist
+kein Zahlenfehler, sondern eine **sinkende Namensdichte** — gestrichene
+Sprecherangaben, etwa in Kapitel 60 das gelöschte *"Georgij said it without
+any weight on it."* Das ist genau der Boden, auf dem die Klasse **falscher
+Sprecher** wächst.
 
 ---
 
@@ -10786,7 +10859,8 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 |---|---|---|
 | `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
 | `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
-| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
+| `werkzeug/belege.py` | jedes englische Zitat der Dokumente gegen den Text, getrennt nach *ohne Beleg* / *alte Fassung* / *Vorschlag*; `--kapitel` zusätzlich die Kapitelnummer | **ja**, vier Proben, zwei davon frühere Falschmeldungen |
+| `werkzeug/faktenspur.py` | was ein Stildurchgang an Zahlen, Daten und Namen bewegt hat; `--seit <sha>` gegen den Stand vor dem Durchgang | **ja**, drei Proben, darunter eine reine Stiländerung, die schweigen muss |
 | `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
@@ -11984,7 +12058,7 @@ flattering thing you can say to an old man."*
 Menschen laut ein und will hören, ob es stimmt.
 
 **Drei Prozent Unvorsichtigkeit, und die sind gewählt** (`doc/03-cast.md`).
-*"Half of what I say on a terrace I say on purpose."* Wer sie geschwätzig
+*"I am not being careless for you. In twenty-five years I have not put one sentence into one room without knowing what it would do when it got there."* Wer sie geschwätzig
 schreibt, schreibt gegen Kapitel 11.
 
 **Dazu gemessen, 63 zugeordnete Repliken:**
@@ -12395,6 +12469,107 @@ Wer das nicht kann, hat Georgij geschrieben.
 
 Zweite Probe, für Nebenfiguren: **Streiche jeden Satz, der etwas über den Fall
 sagt. Bleibt eine Person übrig?**
+
+---
+
+# Stilprotokoll
+
+**Wem es gehoert:** der Stilsitzung. Sie schreibt hier, die Inhaltspruefung
+liest hier. Niemand sonst schreibt hinein - deshalb ist es eine eigene Datei und
+nicht ein Abschnitt in `doc/05`, das schon zweimal kollidiert ist.
+
+**Wozu.** Ein Durchgang, der jede Aussage an `doc/12-stimmen.md` anpasst,
+schreibt woertliche Rede um. In woertlicher Rede stehen die Fakten: *"I am
+fifty-nine"*, *"since I was twenty-six"*, *"it was Y who suggested the cards"*.
+Ohne Protokoll muss die Inhaltspruefung danach hundert Kapitel neu lesen. Mit
+Protokoll liest sie die Zeilen, die sich bewegt haben.
+
+**Die Gegenprobe dazu** ist `werkzeug/faktenspur.py --seit <sha>`. Sie findet,
+was an Zahlen, Daten und Namen anders ist. Sie findet **nicht**, was gleich
+zaehlt und anders bedeutet. Genau dafuer ist dieses Blatt da.
+
+---
+
+## Ausgangsstand
+
+**Vor dem Durchgang eintragen, in einer Zeile:**
+
+    Durchgang <Name>, begonnen <Datum>, Ausgangsstand <sha>
+
+Ohne den SHA ist `--seit` Raterei.
+
+| Durchgang | Datum | Ausgangsstand | Kapitel | Stand |
+|---|---|---|---|---|
+| *(erste Zeile eintragen, bevor das erste Kapitel angefasst wird)* | | | | |
+
+---
+
+## Was gemeldet wird
+
+Vier Sachen, und nur diese vier. Alles andere kostet die Inhaltspruefung nichts.
+
+**1. Eine gestrichene oder eingesetzte Sprecherangabe.**
+Kapitel, und die Zeile so, wie sie vorher dastand. Das ist die wichtigste der
+vier: mit jeder gestrichenen Angabe haengt der Sprecher nur noch am Zusammenhang,
+und *falscher Sprecher* ist eine belegte Fehlerklasse in diesem Buch.
+Beispiel aus Kapitel 60: gestrichen wurde *"Georgij said it without any weight on
+it."*
+
+**2. Ein umformulierter Satz, in dem eine Zahl, ein Datum, ein Alter oder eine
+Dauer steht.** Kapitel, vorher, nachher. Auch dann, wenn die Zahl selbst
+gleich geblieben ist - *"four hours"* im Saal und *"four hours"* im Gebaeude sind
+zwei verschiedene Angaben, und die Verwechslung hat schon einmal eine falsche
+Korrektur ausgeloest.
+
+**3. Eine angefasste absolute Behauptung.** *the first time*, *never*, *only*,
+*since*, *not once*. Diese Saetze sind fast immer Kanon und fast nie nur Ton.
+
+**4. Eine festgelegte Zeile, die das Stimmblatt aendern wollte.**
+Die Liste steht in `doc/05-continuity.md` unter **Festgelegte Zeilen**.
+**Nicht aendern - hier eintragen.** Ein Zuruecknehmen ist teurer als ein
+Nichtanfassen, und der Autor entscheidet das, nicht das Stimmblatt.
+
+**Nicht gemeldet wird:** Satzzeichen, Satzlaenge, Absatzbau, Tics,
+Erzaehlerformeln, Echos, Beats, die zwei Trenner. Reiner Ton, kein Inhalt.
+
+---
+
+## Erfundene Repliken markieren
+
+`doc/12-stimmen.md` erfindet absichtlich Sprache, um eine Stimme zu zeigen.
+`werkzeug/belege.py` hat die zuerst als Falschzitate gezaehlt - zwanzig Stueck,
+achtzehn davon Absicht. **Ein Wort im Absatz davor oder in der Ueberschrift**
+genuegt, damit das Werkzeug sie richtig einsortiert: *Beispiel*, *Vorschlag*,
+*Muster*, *Entwurf*, *Probe*, *so wuerde*, *nicht im Text*. Keine neue Syntax.
+
+**Warum das nicht Kosmetik ist:** von den zwanzig blieb nach der Trennung einer
+uebrig, und der war echt - Hanas Blatt stand auf einem Satz, den es im Buch
+nicht gibt. Eine Zahl, die zu neunzig Prozent aus Absicht besteht, wird
+ignoriert, und dann faellt der eine nicht mehr auf.
+
+---
+
+## Unsicher
+
+Wo eine Stimmkorrektur den Sinn verschoben haben koennte, auch ohne dass eine
+Zahl gewandert ist. Eine Zeile genuegt: Kapitel, Stelle, woran es liegt. Lieber
+eine zu viel.
+
+---
+
+## Zwei Regeln, die nicht verhandelbar sind
+
+**Keine Zahl, kein Name, kein Datum und kein Alter wird geaendert, damit ein
+Satz besser klingt.** Wenn die Stimme es verlangt, bleibt die Zahl stehen und
+die Forderung kommt in dieses Blatt.
+
+**Keine Sprecherangabe wird gestrichen, wenn der Sprecher im selben Wechsel
+nicht anders erkennbar ist.** Im Zweifel stehen lassen und unter *Unsicher*
+eintragen.
+
+---
+
+## Durchgaenge
 
 ---
 
