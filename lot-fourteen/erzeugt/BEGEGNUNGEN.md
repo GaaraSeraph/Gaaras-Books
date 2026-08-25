@@ -25,7 +25,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
 | Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
 | Mrs Seo | 96 | 44 (b1ch03-b2ch75) | 1 | 74 |
-| Mrs Jeon | 78 | 18 (b2ch06-b2ch71) | 2 | 59 |
+| Mrs Jeon | 80 | 18 (b2ch06-b2ch71) | 2 | 59 |
 | Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
@@ -839,7 +839,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch71:118 | "That is the last thing I am going to do for you this year," said Annie. "If I pick, you.. |
 | 45 | b2ch71:146 | Annie did not say anything for a while. |
 | 45 | b2ch71:166 | "Tomorrow, then," said Annie. "Not in the morning." |
-| 46 | b2ch71:738 | Annie looked at him for slightly longer than she needed to and then went back to the page. |
+| 46 | b2ch71:778 | Annie looked at him for slightly longer than she needed to and then went back to the page. |
 | 49 | b2ch72:22 | "Say what happens today," said Annie. |
 | 49 | b2ch72:38 | Annie took a sheet out of the drawer and put it on the desk on his side. |
 | 49 | b2ch72:74 | Annie folded it once and put it under the corner of the blotter where he could see it al.. |
@@ -2752,7 +2752,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Jeon
 
-78 Nennungen in 18 Kapiteln.
+80 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2832,8 +2832,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch71:570 | Mrs Jeon's hands stayed exactly where they were. |
 | 46 | b2ch71:578 | "That is the worst thing anybody has ever asked me for," said Mrs Jeon. |
 | 46 | b2ch71:602 | Mrs Jeon put both hands flat on the table and pushed herself up out of the chair. |
-| 46 | b2ch71:630 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
-| 46 | b2ch71:654 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
+| 46 | b2ch71:630 | Mrs Jeon turned round. |
+| 46 | b2ch71:642 | Mrs Jeon sat down at her own table. |
+| 46 | b2ch71:662 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
+| 46 | b2ch71:694 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -2867,7 +2869,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch71:342` (Tag 46) - eighty-nine, one
 - `b2ch71:418` (Tag 46) - six
 - `b2ch71:478` (Tag 46) - fourteen, one
-- `b2ch71:630` (Tag 46) - ninety-one
+- `b2ch71:662` (Tag 46) - fourteen
 
 ---
 

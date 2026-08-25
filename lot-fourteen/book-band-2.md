@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 75 Kapitel, 186.040 Woerter.
+Book Two, 75 Kapitel, 186.259 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -81,7 +81,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 68 | v1.2 | 2.447 |
 | 69 | v1.3 | 2.944 |
 | 70 | v1.0 | 2.275 |
-| 71 | v1.0 | 3.431 |
+| 71 | v1.1 | 3.650 |
 | 72 | v1.0 | 2.300 |
 | 73 | v1.0 | 2.175 |
 | 74 | v1.1 | 3.471 |
@@ -15160,7 +15160,7 @@ He looked at the chair.
 ---
 
 # Book Two · Chapter 71: The page in the drawer
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Forty-Two · Thursday 10 September
 
@@ -15466,7 +15466,7 @@ He sat at her table for eleven more minutes. He heard four calls in four weeks a
 
 "Then you have wasted a bus fare."
 
-"It is not for now. It is for about March."
+"It is not for now and I cannot tell you when it is."
 
 "Say it in the order it happens," said Mrs Jeon, "and do not put the reason first."
 
@@ -15490,7 +15490,7 @@ Mrs Jeon did not move at all.
 
 "And."
 
-"And she has to be told that in the first hour," said Georgij. "Not in March. Not when somebody has the time. In the first hour, by a person who is not the woman who paid and is not me."
+"And she has to be told that in the first hour," said Georgij. "Not the week after. Not when somebody has the time. In the first hour, by a person who is not the woman who paid and is not me."
 
 * * *
 
@@ -15536,15 +15536,41 @@ Mrs Jeon put both hands flat on the table and pushed herself up out of the chair
 
 She stood at the window for a while with her back to him.
 
-"March," she said.
+"Now the date," she said.
 
-"About March. It may be later. It will not be sooner."
+"I do not have one."
 
-"Then I have six months, and I am not going to spend them in this flat waiting for a date that belongs to somebody else. I have done four years of that once."
+"Then give me the nearest thing you have to one, and I will tell you what it is worth."
+
+* * *
+
+"The house she is in will be finished before Christmas, and everything I know about the timing of it comes out of that one fact," said Georgij. "If you made me put a month on it I would say the early part of next year, and I would be guessing, and you would write it down."
+
+Mrs Jeon turned round.
+
+"I have had twenty-three years of men giving me a month because a woman across a table wanted a month," she said. "You are the first one who has said he was guessing before I asked him."
+
+"It would be in a box on a form by Friday and it would be wrong."
+
+* * *
+
+Mrs Jeon sat down at her own table.
+
+"Then there is no date and I am not going to be given one," she said, "and I have spent twenty-three years watching people behave badly about exactly that."
+
+"Yes."
+
+"I am not going to sit in this flat waiting for a date that belongs to somebody else. I have done four years of that once."
 
 "No."
 
-"I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first of October. I will do the ninety-one days properly. When it is March I will get on a train."
+"I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first of October. I will do the work properly from the first day, and when you give me the fourteen days I will put it down in the middle of whatever I am holding and get on a train."
+
+* * *
+
+"They will have had you eleven weeks," said Georgij.
+
+"Then they will have had eleven good ones."
 
 * * *
 
@@ -15564,7 +15590,7 @@ Georgij stood up.
 
 At the door she said one more thing.
 
-"You will come out here before March."
+"You will come out here before it happens, whenever it is."
 
 "Yes."
 

@@ -3126,7 +3126,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
 
-- **Band 2, Kapitel 71** *The page in the drawer* (v1.0) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.1) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat

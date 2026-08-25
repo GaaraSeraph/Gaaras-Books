@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 250.971 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 251.380 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -232,6 +232,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die fuenf neuen Blaetter gegengelesen, und wer sonst noch fehlt](#die-fuenf-neuen-blaetter-gegengelesen-und-wer-sonst-noch-fehlt)
   - [Min-ho und Mrs Ryu gegengelesen: drei Fehler, und einer verdeckte den Beat](#min-ho-und-mrs-ryu-gegengelesen-drei-fehler-und-einer-verdeckte-den-beat)
   - [Choi Dae-ho gegengelesen - vier Fehler, einer davon umgedreht](#choi-dae-ho-gegengelesen-vier-fehler-einer-davon-umgedreht)
+  - [Sim gegengelesen - eine neue Fehlerklasse: das Blatt hat aufgehoert zu lesen](#sim-gegengelesen-eine-neue-fehlerklasse-das-blatt-hat-aufgehoert-zu-lesen)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -5925,7 +5926,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
 
-- **Band 2, Kapitel 71** *The page in the drawer* (v1.0) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.1) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat
@@ -14434,10 +14435,10 @@ wird.**
 - [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
+- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · Sie nimmt die erste Stunde an, ohne dass ihr jemand ein Datum nennen kann · —
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · —
-- [OFFEN] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" - vier Seiten in ihrer Handschrift, der teuerste Beleg, den sie je gemacht hat · —
+- [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig offen · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · —
 - [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig offen · "You will be told, and you will not be told the comfortable part of it." · —
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig offen · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · —
@@ -15835,6 +15836,56 @@ gibt Choi eine Zeile, die im Buch fast immer ein anderer sagt.
 
 *Unsicher:* keiner.
 
+### Sim gegengelesen - eine neue Fehlerklasse: das Blatt hat aufgehoert zu lesen
+
+**Alles Zitierte haelt.** *"Tips the room and not the person"* (b2 K41),
+*"Says it is good to see people he has never met"* (b2 K31), Umschlag ohne
+Quittung (K41, dann aus seinem eigenen Mund in K52), die falsche Tram-Nummer
+mit Absicht (K52, und in K72 erklaert er sie selbst). Nichts erfunden.
+
+**Und trotzdem ist das Blatt falsch, auf eine Art, die bei Choi nicht vorkam.**
+
+| | |
+|---|---|
+| **Das Blatt zitiert** | b2 K31 und K41 |
+| **Sim hat** | **65 Repliken - 64 davon in K52, K64, K68, K72, K74** |
+
+Der Schlusssatz des Blattes lautete: *"Im schlimmsten Moment macht er den
+Gastgeber weiter. Sein Bruch ist nicht Kaelte, sondern dass die Waerme
+weiterlaeuft, wenn sie nichts mehr zu tun hat."* **Bis K41 stimmt das. In K52
+tut das Buch das Gegenteil und markiert es ausdruecklich als den ersten Mal:**
+
+> *"Do not do that." **It came out of him at last, and it was not loud, and it
+> was the first thing he had said all evening that had not been arranged.**"*
+
+> *"They have looked identical for thirty years," said Sim. "**Tonight is the
+> first evening they have not.**"*
+
+**Die Figur ist die Reihenfolge:** automatisch (K41) → gebrochen (K52 Z204) →
+benannt und gewaehlt (K52 Z290, *"I would like to do it once more this
+evening"*) → aufgegeben (K68, *"I would rather have nothing than go on being
+it"*). Wer dem alten Blatt folgt, schreibt ihm die Waerme als Panzer, den er
+nie ablegt - **und das Buch hat ihn vor dreiundzwanzig Kapiteln ablegen
+lassen.**
+
+**Der Unterschied zu allen bisherigen Funden:** Chois Blatt war eine richtige
+Beobachtung, einen Schritt zu weit geschrieben. Sims Blatt war **richtig, als
+es geschrieben wurde, und das Buch ist weitergegangen**. Kein Satz darin war je
+falsch. Es ist trotzdem unbrauchbar.
+
+**Daraus folgt eine Pruefung, die auf jedes Blatt gehoert und auf keinem steht:**
+
+```
+python3 werkzeug/stimmen.py <Figur> | tail -1     # wie viele Repliken
+python3 werkzeug/stimmen.py <Figur> | awk '{print $1,$2}' | sort | uniq -c
+```
+
+**Wenn die Mehrheit der Repliken in Kapiteln steht, die das Blatt nicht
+zitiert, ist das Blatt veraltet** - unabhaengig davon, ob ein einziger Satz
+darin falsch ist. Bei Sim: 64 von 65.
+
+*Unsicher:* keiner.
+
 ---
 
 # Begegnungsregister
@@ -15864,7 +15915,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Jang | 145 | 36 (b1ch05-b2ch75) | 2 | 60 |
 | Sim | 116 | 17 (b2ch31-b2ch74) | 2 | 53 |
 | Mrs Seo | 96 | 44 (b1ch03-b2ch75) | 1 | 74 |
-| Mrs Jeon | 78 | 18 (b2ch06-b2ch71) | 2 | 59 |
+| Mrs Jeon | 80 | 18 (b2ch06-b2ch71) | 2 | 59 |
 | Mr Ahn | 74 | 7 (b2ch56-b2ch74) | 18 | 53 |
 | Mr Hwang | 74 | 17 (b2ch07-b2ch71) | 3 | 59 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
@@ -16678,7 +16729,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch71:118 | "That is the last thing I am going to do for you this year," said Annie. "If I pick, you.. |
 | 45 | b2ch71:146 | Annie did not say anything for a while. |
 | 45 | b2ch71:166 | "Tomorrow, then," said Annie. "Not in the morning." |
-| 46 | b2ch71:738 | Annie looked at him for slightly longer than she needed to and then went back to the page. |
+| 46 | b2ch71:778 | Annie looked at him for slightly longer than she needed to and then went back to the page. |
 | 49 | b2ch72:22 | "Say what happens today," said Annie. |
 | 49 | b2ch72:38 | Annie took a sheet out of the drawer and put it on the desk on his side. |
 | 49 | b2ch72:74 | Annie folded it once and put it under the corner of the blotter where he could see it al.. |
@@ -18591,7 +18642,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-78 Nennungen in 18 Kapiteln.
+80 Nennungen in 18 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -18671,8 +18722,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch71:570 | Mrs Jeon's hands stayed exactly where they were. |
 | 46 | b2ch71:578 | "That is the worst thing anybody has ever asked me for," said Mrs Jeon. |
 | 46 | b2ch71:602 | Mrs Jeon put both hands flat on the table and pushed herself up out of the chair. |
-| 46 | b2ch71:630 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
-| 46 | b2ch71:654 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
+| 46 | b2ch71:630 | Mrs Jeon turned round. |
+| 46 | b2ch71:642 | Mrs Jeon sat down at her own table. |
+| 46 | b2ch71:662 | "I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first.. |
+| 46 | b2ch71:694 | "Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about .. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -18706,7 +18759,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch71:342` (Tag 46) - eighty-nine, one
 - `b2ch71:418` (Tag 46) - six
 - `b2ch71:478` (Tag 46) - fourteen, one
-- `b2ch71:630` (Tag 46) - ninety-one
+- `b2ch71:662` (Tag 46) - fourteen
 
 ---
 
