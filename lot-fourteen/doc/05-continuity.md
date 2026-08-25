@@ -3224,6 +3224,51 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
     nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
 
+- **Band 2, Kapitel 73** *What the month is for* (v1.0) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Georgij bringt November hoch und macht es nicht leichter.** Er gibt die drei
+    Saetze weiter und dazu seine eigene Auslegung vom Vorabend, woertlich: *"That
+    she is closing her books, and I wrote that down in front of the woman I work
+    for at nine o'clock last night, in those words."*
+  - **DIE UMKEHRUNG, und sie ist der Kern des Kapitels:** *"You're both wrong."*
+    Begruendung aus der Familie und nicht aus dem Fach: seine Schwester hat in
+    ihrem Leben nie gesagt, dass etwas nicht halten muesse. Der Kessel im Haus der
+    Mutter haette 2004 raus gemusst und lief, bis sie ging. **Sie hat nicht gesagt,
+    dass sie fertig ist. Sie hat gesagt, dass das Haus fertig ist.**
+  - **Und der Satz, der den Band dreht:** *"A person who's finished doesn't tell
+    you when... That's not a goodbye. She's told you when the van comes."*
+  - **Die Nummer ebenso:** sie sagt ihm, er solle nichts hineinlesen, **was die
+    einzige Art ist, ihm zu sagen, alles hineinzulesen.** Vierzehn Tage Vorlauf
+    darauf, dass die Tuer zugeht.
+  - **Mr Ahn sagt die andere Haelfte selbst und ungefragt:** er kann sich
+    vollstaendig irren, und wenn er sich irrt, hat er Georgij ein Lebewohl
+    ausgeredet. *"Then hold both of them and don't put either one down until
+    something makes you."*
+  - **Die vier Tatsachen aus dem Anruf, einzeln gegen beide Lesarten gestellt.**
+    Neuer Mann seit Ende August (man wechselt Leute im Maerz, nicht im August, es
+    sei denn, man zahlt im Dezember niemanden mehr). Nachname ungefragt (niemand
+    hat ihm etwas gesagt, weil es sich fuer acht Wochen nicht lohnt). Radio (man
+    langweilt sich nicht beim Bewachen, sondern beim Warten auf einen Lastwagen).
+    Sechsundzwanzig Minuten (wer aufpassen sollte, ist schon weg).
+  - **UND DIE EINE, DIE NUR IN EINE RICHTUNG GEHT:** *"She was brought inside a
+    minute."* Sie ist nie in der Naehe dieses Telefons. Jemand muss sie holen, und
+    das dauert, so lange es dauert. **Entweder stand sie daneben, was sie nie tut,
+    oder sie ist in einen anderen Teil des Hauses verlegt worden.**
+  - **Der Auftrag, und es ist der erste, den in dieser Werkstatt jemand an Georgij
+    stellt:** Sim fragen, wie lange es sonst dauert. *"If it's always been under a
+    minute I've built the whole of this out of a boiler. If it's ever been eight,
+    then something happened in that house in the last three weeks."*
+  - **Der Ventilator laeuft.** Er geht in die Ecke und bleibt dort, **bis sie
+    hereinkommt und ihn selbst ausschaltet.** Mr Ahn will das nicht wiederholt und
+    nicht bearbeitet haben: *"It's a fan in a corner. I'll pay the electricity."*
+    Georgij hat den nuetzlichen Satz dazu im Mund und benutzt ihn nicht, und sagt
+    das.
+  - **Regel 2 bleibt gewahrt:** Georgij bekommt den Ventilator nicht. Er gehoert
+    Mr Ahn, steht in Mr Ahns Ecke und wird von Mr Ahns Strom betrieben.
+  - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
+    *"thirty-five years of her"*).
+
 
 ---
 
