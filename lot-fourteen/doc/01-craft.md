@@ -113,7 +113,8 @@ else paid for."* Der Erzaehler hatte sie vorweggenommen und dabei verdorben.
 
 **Zweite Schicht, im selben Kapitel und im selben Durchgang gefunden.** Auch wenn
 die Versuchung echt ist, wird sie nicht angekuendigt. Ebenfalls Kapitel 21,
-Fassung 1.0, auf Hanas Frage, was sie bekommt:
+Fassung 1.0, auf Hanas Frage, was sie bekommt - **die Fassung 1.0 liegt nicht
+mehr im Archiv, der Wortlaut steht also in keiner Fassung mehr:**
 
 > "Nothing that is not already yours. The lease was signed on Monday and I am
 > not going to stand in your house and offer you a thing you have already been
@@ -437,19 +438,39 @@ three weeks answering. Tonight I stop."*
 
 `doc/05-continuity.md` fuehrt jede Sorte mit Fundstelle.
 
-- **Wird ueberhaupt gelaechelt?** Der Charme ist Georgijs Hauptwerkzeug. In
-  Kapitel 2 bis 6 kommt kein einziges Laecheln vor, und das ist ein bekanntes
-  Loch, kein Vorbild.
+- **Wird ueberhaupt gelaechelt?** Der Charme ist Georgijs Hauptwerkzeug.
+  **Nachgezaehlt am 25.08.: das Loch ist zugegangen und stand hier noch offen.**
+  Hier stand *"in Kapitel 2 bis 6 kommt kein einziges Laecheln vor"*. In
+  Wahrheit laechelt Georgij inzwischen in **3, 4, 5 und 6** je einmal, und jedes
+  ist gerichtet: *"Georgij smiled at her. He kept it small"* (3), *"He was not
+  after anything with it"* (4), *"most of it was in the chin"* (5), *"which he
+  did not have to do and got nothing for"* (6). **Uebrig bleibt genau Kapitel
+  2.** Band 1 hat 49 Laecheln in 21 von 34 Kapiteln, Band 2 16 in 11 von 68.
 - **Ist es eine Sorte, die es schon gibt?** Keine neue erfinden, ohne
   nachzusehen.
 - **Wem gilt es?** Jedes gebaute Laecheln ist auf ein Gesicht gerichtet und auf
   ein Ergebnis gezielt. Eines ohne Empfaenger ist eine Ausnahme und hat eine
   Geschichte, die in Kapitel 14 anfaengt.
 - Dasselbe gilt fuers Lachen. Kang, Sang-hoon, Woo und Hana haben je ein
-  wiedererkennbares. **Georgij lacht zweimal**, und der Unterschied ist der
-  Punkt: Kapitel 7 an Mrs Sunwoo ueber die Decke, gebaut wie die Laecheln
-  daneben, und Kapitel 13 ueber Woos Schiffsagenten, *which was not work*. Der
-  Zusatz ergibt nur Sinn, weil es den Vergleichsfall gibt.
+  wiedererkennbares. **Georgij lacht dreimal** - hier stand bis zum 25.08.
+  *zweimal*, und der dritte ist seither dazugekommen. Der Unterschied ist der
+  Punkt:
+  1. **Band 1, Kapitel 7** (Sa 25. Oktober), an Mrs Sunwoo ueber die Decke:
+     *"He laughed. She was pleased. She went away."* **Gebaut**, wie die
+     Laecheln daneben.
+  2. **Band 1, Kapitel 13** (Do 30. Oktober), ueber Woos Schiffsagenten:
+     *"Georgij laughed properly at it, which was not work."* **Echt.** Der
+     Zusatz ergibt nur Sinn, weil es den Vergleichsfall fuenf Tage vorher gibt.
+  3. **Band 2, Kapitel 54** (Do 6. August): *"He laughed at something that is
+     not funny to anybody else and would not survive being explained."*
+     **Echt**, und der Satz davor setzt eine Frequenz: *"did the thing he does
+     about once a year."*
+
+  **Die Frequenz geht auf, aber nur wegen der Unterscheidung.** Drei Lacher in
+  zehn Monaten waeren nicht *einmal im Jahr*, und zwei davon liegen fuenf Tage
+  auseinander. Die **echten** sind Kapitel 13 und Band 2 Kapitel 54, zwischen
+  ihnen liegen **zweihundertachtzig Tage**. Wer den Lacher aus Kapitel 7 als
+  echt schreibt, macht die Zeile in Kapitel 54 falsch.
 
 ### 5. Satzzeichen
 
@@ -537,7 +558,7 @@ was mechanisch pruefbar ist.
 ### Ton
 Kalt, transaktional, Machtdynamik unter Höflichkeit. Dialog trägt die Handlung. Kurze Sätze. Figuren antworten unvollständig, brechen ab, schweigen an der falschen Stelle. Keine Aphorismenketten. Keine "Das ist nicht X, das ist Y"-Konstruktionen, höchstens **eine** pro Kapitel und nur, wenn sie es trägt.
 
-**Zweiter Tic, genauso häufig: "I would rather X than Y".** In Kapitel 14 stand er achtmal, in Kapitel 15 sechsmal. Höchstens **einmal pro Kapitel**, und dann nur, wenn wirklich eine Abwägung gemeint ist. Sonst gerade sagen: "I am going to say it now", "Asking you at the table is cheaper", "You are both getting it tonight".
+**Zweiter Tic: "I would rather X than Y".** In Kapitel 14 stand er achtmal, in Kapitel 15 sechsmal. **Nachgezählt am 25.08.: erledigt.** In beiden Bänden hat **kein einziges Kapitel** mehr als einen. Die Regel gilt weiter, der Bestand ist abgetragen. Höchstens **einmal pro Kapitel**, und dann nur, wenn wirklich eine Abwägung gemeint ist. Sonst gerade sagen; Beispiele, gebaut und nicht aus dem Text: "I am going to say it now", "Asking you at the table is cheaper", "You are both getting it tonight".
 
 **Die Suchliste läuft nach jeder Überarbeitung, nicht nur nach dem ersten Entwurf.** Beim Nachbessern entstehen die Konstruktionen neu, weil sie sich beim Erklären von selbst anbieten. In Kapitel 14 waren nach der dritten Runde wieder sechs drin, alle neu.
 
@@ -580,8 +601,6 @@ Imperative sind ohnehin keine Fragen: "Go on." "Say why." "Say how differently."
 
 ## Dialogregeln
 
-## Dialogregeln
-
 **Zwischen zwei Blöcken derselben Figur steht immer etwas Körperliches.** Redet eine Figur über mehrere Absätze, muss zwischen ihnen eine Handlung stehen, ein Blick, eine Hand, ein Gesicht, das sich nicht bewegt. Sonst liest sich der zweite Absatz, als hätte inzwischen die andere Figur gesprochen, und der Leser muss zurückspringen und die Sprecher neu abzählen. Der Beat ist keine Verzierung, er ist die Sprecherkennzeichnung.
 
 Beispiel aus Kapitel 17, Annies Rede an der Kreuzung: *Nothing moved in her face anywhere*, dann *She looked away from the chair*, dann zwei Finger auf der Stuhllehne, dann *Her hand stayed where it was*. Vier Blöcke, vier Beats, kein einziger Sprechertag nötig.
@@ -590,7 +609,7 @@ Beispiel aus Kapitel 17, Annies Rede an der Kreuzung: *Nothing moved in her face
 
 **Kurze Sätze am Schluss einer Rede.** Wo eine Figur Nachdruck braucht, wird nicht verlängert, sondern gekürzt. "I have never put it down. Not one night." Dann der Beat. Dann "And this is my house."
 
-**Keine Selbstkommentare über die eigene Redlichkeit.** Georgij neigt dazu, seine Genauigkeit anzukündigen, statt genau zu sein: "I am not going to pretend", "I would like to be careful with the word", "I am saying so before I say it". Höchstens einer pro Kapitel, und nur, wenn er auf eine Frage antwortet und Inhalt trägt. Der Rest ist Eitelkeit und liest sich als solche.
+**Keine Selbstkommentare über die eigene Redlichkeit.** Georgij neigt dazu, seine Genauigkeit anzukündigen, statt genau zu sein; Beispiele, gebaut und nicht aus dem Text: "I am not going to pretend", "I would like to be careful with the word", "I am saying so before I say it". Höchstens einer pro Kapitel, und nur, wenn er auf eine Frage antwortet und Inhalt trägt. Der Rest ist Eitelkeit und liest sich als solche.
 
 **Der Bericht ist kein Duell.** Wenn er ihr etwas meldet, sagt er, was war, und sie nimmt es oder stellt eine Frage. Kein Behaupten, Einwenden, Absichern, Quittieren. "He has bitten." "Yes." Der Beweis stand einen Absatz vorher und wird nicht wiederholt.
 - Klare Absatztrennung zwischen den Sprechern. Keine Replik teilt sich einen Absatz mit der Handlung des anderen
