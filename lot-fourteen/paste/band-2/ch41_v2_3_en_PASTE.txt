@@ -1,5 +1,5 @@
 Book Two · Chapter 41: The name he books under
-Lot Fourteen · Version 2.1 · EN
+Lot Fourteen · Version 2.3 · EN
 
 Day Two Hundred and Sixty-Two · Monday 22 June
 
@@ -23,11 +23,7 @@ The first three gave him nothing.
 
 * * *
 
-<<<<<<< HEAD
-One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fitted. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
-=======
 One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fit. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
->>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 * * *
 
@@ -55,11 +51,7 @@ Georgij put his hands in his coat pockets so that they would have something to d
 
 * * *
 
-<<<<<<< HEAD
-"When was the last one."
-=======
 "When was the last one?"
->>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 * * *
 
@@ -67,11 +59,7 @@ Georgij put his hands in his coat pockets so that they would have something to d
 
 * * *
 
-<<<<<<< HEAD
-"Did he book it himself."
-=======
 "Did he book it himself?"
->>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 * * *
 
@@ -85,7 +73,7 @@ Georgij thanked him, and went out through the back, and stood in the alley for a
 
 Four or five times over the years, in one room, in one part of the city. That is not a man who is careful. That is a man who is careful about the things he has decided are the dangerous ones, and a cook is not on his list.
 
-———
+* * *
 
 Day Two Hundred and Sixty-Three · Tuesday 23 June
 
@@ -315,11 +303,7 @@ Lapsed licence, not closed licence. A practice that was allowed to disappear rat
 
 * * *
 
-<<<<<<< HEAD
 The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people's kitchens.
-=======
-The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people’s kitchens.
->>>>>> 23b78be (Band 2, Kapitel 55, plus vier Korrekturen vom Autor)
 
 * * *
 

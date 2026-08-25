@@ -1,5 +1,5 @@
 Book Two · Chapter 53: The one I did not say in May
-Lot Fourteen · Version 1.0 · EN
+Lot Fourteen · Version 1.1 · EN
 
 Day Three Hundred and Five · Tuesday 4 August
 
@@ -37,7 +37,11 @@ Mr Yeom was in the same room as in May, with the same table, and he did not look
 
 Georgij sat down, and ate, and it was very good, and he let ten minutes go before he started, because a man of sixty-three who has made lunch is owed ten minutes.
 
+<<<<<<< HEAD
+* * *
+=======
 ———
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 "I have come to tell you three things," said Georgij, "and to ask you for nothing at all, and I am going to say that at the start rather than at the end, because at the end it sounds like a technique."
 
@@ -105,7 +109,11 @@ Mr Yeom sat with both hands flat on either side of his plate for a while.
 
 "Then say the second thing, and do not stop to be careful with me, because I am sixty-three and I would rather have it in one go."
 
+<<<<<<< HEAD
+* * *
+=======
 ———
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 "The name you would not give me in May," said Georgij. "I have it."
 
@@ -193,7 +201,11 @@ Mr Yeom looked at him.
 
 "The other part is that it is the last thing in this business that belongs to anybody," said Georgij, "and I have spent five weeks taking things off people who did not know they were holding them, and I would like there to be one I did not take."
 
+<<<<<<< HEAD
+* * *
+=======
 ———
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 "There was a third thing," said Mr Yeom, after a while. "You said three."
 
@@ -247,7 +259,11 @@ Mr Yeom did not say anything for a long time, and when he did his voice was not 
 
 * * *
 
+<<<<<<< HEAD
 "I did not say, and I am not going to tell you it was tactics, because it was not." Georgij made himself finish it. "I do not give anybody dates about myself. It is the one rule I have had since I was nineteen and it has kept me alive in four houses. And in May I used it in your dining room on a man who was giving me the truth for nothing, and I have known since about the Thursday afterward that I owed you this sentence."
+=======
+"I did not say, and I am not going to tell you it was tactics, because it was not." Georgij made himself finish it. "I do not give anybody dates about myself. It is the one rule I have had since I was nineteen and it has kept me alive in eleven houses. And in May I used it in your dining room on a man who was giving me the truth for nothing, and I have known since about the Thursday afterward that I owed you this sentence."
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 * * *
 
@@ -293,7 +309,11 @@ Mr Yeom put one hand on the window frame.
 
 "It is an ordinary piece of information," said Georgij. "That is the whole of what I am trying to tell you about that building."
 
+<<<<<<< HEAD
+* * *
+=======
 ———
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 He came back to the table eventually and sat down and did not touch the food again.
 
@@ -337,7 +357,11 @@ Mr Yeom looked at him.
 
 "For the one who went out with no invoice," he said, "because he did not go out of a building. He went out of mine."
 
+<<<<<<< HEAD
+* * *
+=======
 ———
+>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 At the door, Georgij stopped, and it was Mr Yeom who spoke first.
 

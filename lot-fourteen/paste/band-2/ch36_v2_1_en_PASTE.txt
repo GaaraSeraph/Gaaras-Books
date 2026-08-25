@@ -1,5 +1,5 @@
 Book Two · Chapter 36: An empty table
-Lot Fourteen · Version 2.0 · EN
+Lot Fourteen · Version 2.1 · EN
 
 Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -268,7 +268,7 @@ Georgij wrote one line in the notebook before the car pulled away.
 Eight years. Never once a woman. Find out why not.
 
 
-———
+* * *
 
 He did not ask her for the eight again.
 

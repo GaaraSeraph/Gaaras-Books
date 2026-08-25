@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 57 Kapitel, 140.746 Woerter.
+Book Two, 57 Kapitel, 140.928 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -63,7 +63,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 50 | v2.1 | 2.959 |
 | 51 | v1.1 | 2.148 |
 | 52 | v1.1 | 2.295 |
-| 53 | v1.1 | 2.484 |
+| 53 | v1.1 | 2.666 |
 | 54 | v1.1 | 2.487 |
 | 55 | v1.2 | 2.060 |
 | 56 | v1.1 | 2.251 |
@@ -11030,6 +11030,11 @@ Mr Yeom was in the same room as in May, with the same table, and he did not look
 
 Georgij sat down, and ate, and it was very good, and he let ten minutes go before he started, because a man of sixty-three who has made lunch is owed ten minutes.
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
+
 "I have come to tell you three things," said Georgij, "and to ask you for nothing at all, and I am going to say that at the start rather than at the end, because at the end it sounds like a technique."
 
 "Then say the first one."
@@ -11063,6 +11068,11 @@ Mr Yeom sat with both hands flat on either side of his plate for a while.
 "Yes."
 
 "Then say the second thing, and do not stop to be careful with me, because I am sixty-three and I would rather have it in one go."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 "The name you would not give me in May," said Georgij. "I have it."
 
@@ -11108,6 +11118,11 @@ Mr Yeom looked at him.
 
 "The other part is that it is the last thing in this business that belongs to anybody," said Georgij, "and I have spent five weeks taking things off people who did not know they were holding them, and I would like there to be one I did not take."
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
+
 "There was a third thing," said Mr Yeom, after a while. "You said three."
 
 "There is a third thing and it is the one I have been not saying since May."
@@ -11134,7 +11149,11 @@ Mr Yeom did not say anything for a long time, and when he did his voice was not 
 
 "And you did not say."
 
+<<<<<<< HEAD
 "I did not say, and I am not going to tell you it was tactics, because it was not." Georgij made himself finish it. "I do not give anybody dates about myself. It is the one rule I have had since I was nineteen and it has kept me alive in four houses. And in May I used it in your dining room on a man who was giving me the truth for nothing, and I have known since about the Thursday afterward that I owed you this sentence."
+=======
+"I did not say, and I am not going to tell you it was tactics, because it was not." Georgij made himself finish it. "I do not give anybody dates about myself. It is the one rule I have had since I was nineteen and it has kept me alive in eleven houses. And in May I used it in your dining room on a man who was giving me the truth for nothing, and I have known since about the Thursday afterward that I owed you this sentence."
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 Mr Yeom stood up.
 
@@ -11158,6 +11177,11 @@ Mr Yeom put one hand on the window frame.
 
 "It is an ordinary piece of information," said Georgij. "That is the whole of what I am trying to tell you about that building."
 
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
+
 He came back to the table eventually and sat down and did not touch the food again.
 
 "I am not going to apologise to you," he said. "You would not know what to do with it and I would not know how to make it the right size."
@@ -11179,6 +11203,11 @@ Georgij did not say anything at all.
 Mr Yeom looked at him.
 
 "For the one who went out with no invoice," he said, "because he did not go out of a building. He went out of mine."
+
+<<<<<<< HEAD
+=======
+* * *
+>>>>>>> 84a1efe (Kapitel 53 auf v1.1: elf Haeuser, nicht vier)
 
 At the door, Georgij stopped, and it was Mr Yeom who spoke first.
 
