@@ -199,6 +199,38 @@ Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
 
+**Annies Vater** — tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
+dieser Band überhaupt läuft. **Er steht seit dem 25.08. hier, weil er im Buch
+stand und in keinem Figurendokument.** Kein Name im Text.
+
+- **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, Kapitel 62: *"your father
+  brought Choi Dae-ho into your house"*, und zuvor: *"Your father brought a man
+  to a table twenty-three years ago and was pleased with himself about it, and
+  he has been dead for twenty-three years."* **Beides im selben Jahr** — er hat
+  den Mann geholt und ist gestorben, ohne zu sehen, was daraus wurde.
+- **Annie war vierzehn.** Kapitel 27, aus ihrem Mund: *"I was fourteen. He was
+  at my father's table before I was allowed at it."* Kapitel 62 setzt nach:
+  *"What I have never said is that he had not been there the summer before."*
+- **Woher er kam.** Kapitel 62: *"He had two lorries and a shed and he could
+  not read a contract, and by the end he had four hundred people."*
+- **Was das mit der Familie gemacht hat:** *"nobody in that house ever asked my
+  father about anything"*, und *"That family has spent thirty years agreeing
+  that he was right about everything."*
+- **Woo möchte ihn.** Kapitel 62: *"a man of seventy-eight who liked my
+  father"*; Kapitel 61: Woo hat in Annies Esszimmer gesessen, die Fotografien
+  ihres Vaters angesehen und ihr gesagt, sie seien schrecklich. Und der Vater
+  zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
+  about people in four seconds and had found a man who could do it in one."*
+
+**Die Rechnung, die daran hängt, und sie geht auf.** Sie hat es mit vierzehn
+bemerkt, mit dreißig verstanden, und Kapitel 61 sagt: *"She has known for seven
+years that there was a man at her father's table who was wrong."* Sie ist
+siebenunddreißig — vierzehn plus dreiundzwanzig, dreißig plus sieben.
+
+**Und die Regel, die Georgij daraus zieht** (Kapitel 62): *"Everything that man
+has done since is his own... none of it is a debt that came down to you."* Wer
+den Vater als Entschuldigung für Annie schreibt, schreibt gegen diese Szene.
+
 **Hana Seo-yeon** - Annies Verbündete, keine Angestellte. **Der volle Name steht einmal im Text**, Kapitel 31, aus Georgijs Mund: *"On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes."* Hana ist der Familienname, Seo-yeon der Vorname. **Bis zum 23.08. stand er in keinem Dokument.** Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
 **Ihr eigener Einsatz: Lagerflächen in Incheon**, deren Wert am Status des Geländes hängt, den sie letztes Jahr selbst durchgedrückt hat. Sie sagt das niemandem. Georgij findet es selbst, über ihre eigene Formulierung auf der Terrasse und einen Nachmittag im Grundbuch. Ihr Name steht offen darin, sie hat nichts versteckt. Was ihn beschäftigt, sind die Belastungen und die Gläubiger. Einzelheiten in `doc/04-world.md` unter "Hana: was sie einbringt und was sie dafuer bekommt".

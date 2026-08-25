@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 223.127 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 225.425 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -120,12 +120,12 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Aufloesung: das Zimmer, vor elf Jahren](#die-aufloesung-das-zimmer-vor-elf-jahren)
   - [Sie ist kein Requisit, und so bleibt es](#sie-ist-kein-requisit-und-so-bleibt-es)
   - [Das Endgespraech](#das-endgespraech)
-  - [Fuer den Inhalts-Chat, faellig sofort](#fuer-den-inhalts-chat-faellig-sofort)
+  - [~~Fuer den Inhalts-Chat, faellig sofort~~ - alle vier erledigt (25.08.)](#fuer-den-inhalts-chat-faellig-sofort-alle-vier-erledigt-25-08)
   - [Wie die Waffe unbrauchbar wird: drei Wege](#wie-die-waffe-unbrauchbar-wird-drei-wege)
   - [Der Preis](#der-preis)
   - [Was NICHT vorher entschieden ist](#was-nicht-vorher-entschieden-ist)
   - [Faelliges mit Datum](#faelliges-mit-datum)
-  - [Bekannte Baustellen, Stand nach Kapitel 17](#bekannte-baustellen-stand-nach-kapitel-17)
+  - [Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt](#bekannte-baustellen-angelegt-nach-kapitel-17-seither-weitergepflegt)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -214,6 +214,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Band 1 vollstaendig durchgegangen - und das Ergebnis ist ein Nicht-Ergebnis](#band-1-vollstaendig-durchgegangen-und-das-ergebnis-ist-ein-nicht-ergebnis)
   - [Nachtrag zur Pruefsitzung: meine eigenen Zahlen in doc/12](#nachtrag-zur-pruefsitzung-meine-eigenen-zahlen-in-doc-12)
   - [doc/12 gegengelesen, die gelesenen Blaetter zuerst](#doc-12-gegengelesen-die-gelesenen-blaetter-zuerst)
+  - [doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler](#doc-12-vollstaendig-gegengelesen-zwoelf-blaetter-dreiundzwanzig-fehler)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -1794,6 +1795,38 @@ aus Freundschaft, und das ist Absicht.
 Die Mechanik dahinter steht in `doc/04-world.md` unter "Das Geschaeft".
 
 ### Annies Seite
+
+**Annies Vater** — tot, seit dreiundzwanzig Jahren, und er ist der Grund, aus dem
+dieser Band überhaupt läuft. **Er steht seit dem 25.08. hier, weil er im Buch
+stand und in keinem Figurendokument.** Kein Name im Text.
+
+- **Er hat Choi Dae-ho ins Haus gebracht.** Georgij, Kapitel 62: *"your father
+  brought Choi Dae-ho into your house"*, und zuvor: *"Your father brought a man
+  to a table twenty-three years ago and was pleased with himself about it, and
+  he has been dead for twenty-three years."* **Beides im selben Jahr** — er hat
+  den Mann geholt und ist gestorben, ohne zu sehen, was daraus wurde.
+- **Annie war vierzehn.** Kapitel 27, aus ihrem Mund: *"I was fourteen. He was
+  at my father's table before I was allowed at it."* Kapitel 62 setzt nach:
+  *"What I have never said is that he had not been there the summer before."*
+- **Woher er kam.** Kapitel 62: *"He had two lorries and a shed and he could
+  not read a contract, and by the end he had four hundred people."*
+- **Was das mit der Familie gemacht hat:** *"nobody in that house ever asked my
+  father about anything"*, und *"That family has spent thirty years agreeing
+  that he was right about everything."*
+- **Woo möchte ihn.** Kapitel 62: *"a man of seventy-eight who liked my
+  father"*; Kapitel 61: Woo hat in Annies Esszimmer gesessen, die Fotografien
+  ihres Vaters angesehen und ihr gesagt, sie seien schrecklich. Und der Vater
+  zu Woo, ohne einen Namen zu nennen: *"he had spent forty years being right
+  about people in four seconds and had found a man who could do it in one."*
+
+**Die Rechnung, die daran hängt, und sie geht auf.** Sie hat es mit vierzehn
+bemerkt, mit dreißig verstanden, und Kapitel 61 sagt: *"She has known for seven
+years that there was a man at her father's table who was wrong."* Sie ist
+siebenunddreißig — vierzehn plus dreiundzwanzig, dreißig plus sieben.
+
+**Und die Regel, die Georgij daraus zieht** (Kapitel 62): *"Everything that man
+has done since is his own... none of it is a debt that came down to you."* Wer
+den Vater als Entschuldigung für Annie schreibt, schreibt gegen diese Szene.
 
 **Hana Seo-yeon** - Annies Verbündete, keine Angestellte. **Der volle Name steht einmal im Text**, Kapitel 31, aus Georgijs Mund: *"On Hana Seo-yeon's terrace, in the cold, in twenty-two minutes."* Hana ist der Familienname, Seo-yeon der Vorname. **Bis zum 23.08. stand er in keinem Dokument.** Sitzt beim Frühstück am langen Tisch mit schwarzem Kaffee und einem Tablet und ist vor allen anderen da. Kühl, präzise, wird ungeduldig, wenn jemand zu spät kommt. Hat einen eigenen Kanal ins Büro von Minister Min-ho. Hat letztes Jahr auf die Umwidmung in Incheon gedrängt. Recherchiert selbst und über Nacht.
 Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind der Schutzschild.
@@ -4501,7 +4534,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
 
-- **Band 2, Kapitel 34** *The best company in the room* (v1.3) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
+- **Band 2, Kapitel 34** *The best company in the room* (v1.4) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
   **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
@@ -4552,7 +4585,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Ausdruecklich nicht geloest in diesem Kapitel:** wer die vier Entscheidungen betrifft, wer im Pflegeheim ist, wer Choi Dae-ho vor elf Jahren verloren hat gesehen. **Drei offene Fragen bleiben offen, mit Absicht.**
 
-- **Band 2, Kapitel 37** *The one who asked a question* (v2.3) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
+- **Band 2, Kapitel 37** *The one who asked a question* (v2.4) - **Tag 251, Do 11. Juni. Der Schreibtisch, der Post, das kleine Zimmer.**
 
   **Mrs Jeons erster Tag bei Gwangyang, und sie beginnt ihn, indem sie eine fremde Schuld begleicht statt der eigenen Arbeit.** Der Brief, den sie Hwang in Kapitel 32 versprochen hat, kommt mit Gwangyang-Poststempel am selben Morgen: *"He was correct about the desk. He was wrong about the book. I am writing this so that somewhere it says which was which."*
 
@@ -7053,6 +7086,11 @@ Schlusszeile laeuft ueber **Erschoepfung**, nie ueber Ruhe.
 
 ### Wo der Band steht (Stand Kapitel 56, Tag 315, Freitag 14. August)
 
+> *Historischer Stand. Band 2 steht am 25.08. bei **Kapitel 68, Tag 339,
+> Montag dem 7. September**, und das Buch laeuft auf Tag 366, den 4. Oktober
+> zu - den Jahrestag der Auktion. Wer den aktuellen Stand sucht, sucht hier
+> falsch.*
+
 **Der Feldzug laeuft.** Von Annies einunddreissig Namen ist **einer** angesprochen
 (Mr Koh, Kapitel 37). Sang-hoon haelt Sims Arbeitsnamen und benutzt ihn nicht.
 Yeom liest vier Jahre Quartalsmappen. Baek Jun-ho weiss, was er unterschrieben
@@ -7091,6 +7129,11 @@ sich aus zwei vom Tisch angerufen. Der Feldzug laeuft jetzt auch ohne Georgij,
 und das ist die Frage, mit der Kapitel 58 aufmacht.
 
 ### Stand nach Kapitel 61 (Tag 324, Sonntag 23. August)
+
+> *Historischer Stand. Band 2 steht am 25.08. bei **Kapitel 68, Tag 339,
+> Montag dem 7. September**, und das Buch laeuft auf Tag 366, den 4. Oktober
+> zu - den Jahrestag der Auktion. Wer den aktuellen Stand sucht, sucht hier
+> falsch.*
 
 **Der Besteller ist gefunden und es ist sie selbst.** Do Kyung-ae, der Name auf
 Sims Zettel, ist Ahn Jung-hee. Sie fuehrt den Haushalt, in dem sie gehalten
@@ -7387,7 +7430,7 @@ Kapitel 30). Sie holt niemanden heraus, **sie schliesst ein Konto**, das ein Man
 elf Jahre offen gehalten hat, und sie ist die Einzige im Land, die weiss, was das
 kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
 
-**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus:**
+**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** — sie ist gesetzt und steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -7409,7 +7452,7 @@ das hier ist der Grund, den er ihr gibt.
 ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
 überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
 
-**Die Ausführung im Register des Buches** — er beginnt mit einem Bruchteil,
+**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text — er beginnt mit einem Bruchteil,
 korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
 und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
 
@@ -7463,7 +7506,7 @@ her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
 wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
 passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
 
-**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen:**
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** — auch das folgende steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -7511,7 +7554,7 @@ Jang zu hoeren. Was daran im Buch anders lauten muss:
 
   1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
      mit dem Todesstoss und nicht mit der Begruendung davor.
-  2. **Beim Bericht an Annie danach**, und es bezieht sich ausdruecklich auf
+  2. **Beim Bericht an Annie danach** — Vorschlag, noch nicht im Text —, und es bezieht sich ausdruecklich auf
      Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
      you about it afterwards."*
 
@@ -7550,17 +7593,23 @@ schon weg ist.** Bis dahin darf er nichts merken.
 
 ---
 
-### Fuer den Inhalts-Chat, faellig sofort
+### ~~Fuer den Inhalts-Chat, faellig sofort~~ - alle vier erledigt (25.08.)
 
-1. **Die acht Jahre sind Sang-hoons.** Ueberall pruefen, wo sie faelschlich fuer
-   Chois Laufbahn stehen, auch in `doc/03-cast.md`. Richtige Zahl: **mindestens
-   dreiundzwanzig**, Beleg Kapitel 27.
-2. **Annies Vater steht im Buch (Kapitel 27) und in keinem Dokument.** Nachtragen
-   in `doc/03-cast.md` und `doc/05-continuity.md`.
-3. **Sim: Yeom kennt seinen Namen und gibt ihn nicht her** (Kapitel 25). Als
-   offene, kalte Spur mit Datum eintragen.
-4. **Kurier-Stellen listen**, siehe `doc/02-leads.md`, "Ein Fund wird ausgegeben
-   und nicht gemeldet". Nicht reparieren, nur listen.
+1. ~~**Die acht Jahre sind Sang-hoons.**~~ **Nichts zu reparieren.** In
+   `doc/03-cast.md` steht bei Choi nur *Neunundfuenfzig*; die acht Jahre dort
+   gehoeren Mr Hong (Band 1, Kapitel 7, andere acht Jahre). `doc/05` fuehrt sie
+   an drei Stellen richtig als Sang-hoons Zeit an Chois Tisch.
+2. ~~**Annies Vater steht im Buch und in keinem Dokument.**~~ **Nachgetragen**
+   in `doc/03-cast.md` unter *Annies Seite*, mit den Belegen aus den Kapiteln
+   27, 61 und 62. Er hat Choi ins Haus gebracht und ist im selben Jahr
+   gestorben; Annie war vierzehn. In `doc/05` stand er bereits.
+3. ~~**Sim: Yeom kennt seinen Namen und gibt ihn nicht her.**~~ Steht in
+   `doc/03-cast.md`, Zeile zu Mr Yeom. **Und die Spur ist nicht mehr kalt:**
+   Sim ist seit Kapitel 64 eine tragende Figur, in Kapitel 68 dreiundsechzig
+   und aus eigenem Mund.
+4. ~~**Kurier-Stellen listen.**~~ Steht in `doc/02-leads.md`: die Form von
+   Kapitel 33 bis 46, die Probe pro Kapitel, und die Nachpruefung von 50, 52
+   und 53 (50 hielt nicht und ist repariert).
 
 ---
 
@@ -7603,16 +7652,14 @@ Zeit selbst in der Hand hatte.
 1. **Sang-hoon bekommt Annies Lesart in einem Raum und nicht am Telefon.**
    Georgij sagt es am Schluss selbst zu: *"I will ask him for an hour this week."*
    Eine Zusage mit Frist, also eine Schuld wie jede andere hier.
-2. **Jang liest das Firmenschild am 16. Juli** (zehn Tage ab Kapitel 44, von
-   Georgij selbst befristet: *"Ten days is enough. Do not go closer for it before
-   then."*). Danach erst die Gasfirma, und **ueber deren Unterlagen und nicht
-   ueber das Tor** - wer taeglich nach dem Tank sieht.
-3. **K hat ein Datum und weiter keinen Namen.** Der naechste Ansatz ist der
-   Besucher selbst: ein Mann, der in ein Buero kommt, geht an einem Empfang
-   vorbei. Ob Sang-hoons Haus damals ein Besucherbuch gefuehrt hat, ist nicht
-   entschieden und gehoert entschieden, bevor jemand es voraussetzt.
-4. **Der Rest des Kalenders ist ausdruecklich nicht gelesen worden.** Wer ihn
-   spaeter braucht, muss ein zweites Mal fragen, und das kostet dann etwas.
+2. **Jang liest das Firmenschild** — **die Frist ist am 25.08. gestrichen, weil
+   sie keine Quelle hat.** Hier stand *"Ten days is enough. Do not go closer for
+   it before then."* als Georgijs Zusage aus Kapitel 44. **Der Satz steht in
+   keiner Fassung**, und Kapitel 44 befristet nichts: Jang beobachtet dort
+   *"since the beginning of June"* und hatte im Juni *"sixteen days of
+   watching"*. Der 16. Juli war aus einer Zahl gerechnet, die es nicht gibt.
+   Bleibt als **offener Faden ohne Termin**; wer ihn will, muss die Frist
+   erst in einen Satz schreiben.
 
 **Frage an den Inhalts-Chat, aus dem Schreiben aufgefallen:** Kapitel 43 (v1.2)
 datiert H auf **Ende August, drei Jahre nach S**, also den August des Vorjahres
@@ -7926,7 +7973,14 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 
 ---
 
-## Band 2: Gegner, Gegenstand, Ziel
+## Band 2: Gegner, Gegenstand, Ziel (23.08.) - die Zielzeile ist ueberholt
+
+> **Achtung, am 25.08. beim Dokumentendurchgang gefunden: dieser Abschnitt
+> fuehrte noch das Ziel, das am 25.08. ausdruecklich verworfen wurde.** Die
+> Zeile *"Dass die Zeile nicht gegen sie verwendbar ist"* steht oben unter
+> **Der Zielpunkt von Band 2** als die **Krankheit** - eine Gefahr und kein
+> Ziel, und die Ursache von zwanzig trockenen Kapiteln. **Es gilt der
+> Abschnitt oben.** Hier steht nur noch, was daran weiter traegt.
 
 **Entschieden am 23.08., und ohne diesen Abschnitt verwechselt man Gegner und
 Ziel.** Band 1 hat dieselbe Grammatik benutzt: Gegner war Sang-hoon, Gegenstand
@@ -7936,8 +7990,9 @@ gebunden und ferngehalten, nicht angegriffen.
 | | Band 2 |
 |---|---|
 | **Gegner** | **Nam Byung-hee** feuert. **Choi Dae-ho** gibt ihr die Waffe. **Der Sanierer** hat sie gebaut, ohne es zu wollen |
+| **Und was sich dabei verschoben hat** | **Choi ist seit dem 25.08. nicht mehr nur der Lieferant der Waffe, sondern das Ziel.** Die Zeile *Gegner* stimmt fuer Nam und den Sanierer weiter; fuer Choi nicht mehr |
 | **Gegenstand** | **Annie selbst.** Kein Unternehmen und keine Route - die gestrichene Zeile vom 19. Februar |
-| **Ziel** | **Dass die Zeile nicht gegen sie verwendbar ist** |
+| ~~**Ziel**~~ | ~~Dass die Zeile nicht gegen sie verwendbar ist~~ **- verworfen am 25.08. Das Ziel ist: Choi Dae-ho hat am Ende nichts, und niemand geht an sein Telefon.** |
 
 **Nam ist der Gegner und nicht das Ziel.** Sie ist ausserdem die **Uhr**: Sie
 ertrinkt seit Januar, also redet sie als Erste.
@@ -8060,10 +8115,10 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
-- **DIE ZEILE AM ENDE DES BANDES. Vom Autor gesetzt am 23.08., und sie ist der
+- **DIE ZEILE AM ENDE DES BANDES**, ein Vorschlag und noch nicht im Text. **Vom Autor gesetzt am 23.08., und sie ist der
   Zielpunkt, auf den Band 2 zulaeuft.**
 
-  **Unter Erschoepfung, ungeplant, in einem Zug:** *"You are such a beautiful,
+  **Unter Erschoepfung, ungeplant, in einem Zug** - der Vorschlag, noch nicht im Text: *"You are such a beautiful,
   strong woman. Thank you for buying me."* Sinngemaess und in seinem Register,
   nicht woertlich - aber **die zweite Haelfte muss so dastehen.**
 
@@ -8162,8 +8217,12 @@ Fassung.**
 - ~~**Jang, drei Tage ab dem 3. April.**~~ **BEZAHLT, Kapitel 13:** *"Jang came on
   the Wednesday, two days early, with a folder."* Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
-  Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
-  I have noticed that, and I would like it to go on."*
+  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** —
+  *"You are asking me and not Mrs Seo. I have noticed that, and I would like it
+  to go on."* Am 25.08. geprüft: in keiner Fassung, nicht in Kapitel 13 und
+  nirgends sonst. Was Jang wirklich sagt, ist seine Linie: *"I have not used
+  the route I had ready, because nobody told me to, and I do not go past a line
+  I have not been given."*
 
 - ~~**"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL.**~~ **BEZAHLT,
   Kapitel 16, und zehn Tage vor der Frist:** *"The house on the river stopped
@@ -8701,7 +8760,12 @@ Fassung.**
 
 ---
 
-### Bekannte Baustellen, Stand nach Kapitel 17
+### Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt
+
+*Die Ueberschrift sagte bis zum 25.08. nur "Stand nach Kapitel 17" und las sich
+damit wie ein Fundstueck aus dem Fruehjahr. Die Eintraege darunter sind
+aktueller als die Ueberschrift - der erste ist auf null erledigt und traegt das
+Datum 22.08.*
 
 - **Bandwurmsaetze: erledigt, alle siebzehn auf null.** Der Eintrag stand hier
   noch auf sechzehn in Kapitel 7, zwoelf in Kapitel 13 und je elf in 4, 6, 8 und
@@ -9975,7 +10039,7 @@ jemand anderem zu geben, und Band 1 ist Kanon. Also ist der November gefallen.
 die letzte Loeschung verkauft, **nachdem** Hwang die Praxis abgestellt hatte, im
 selben Haus, in dem Hwang seit Oktober sass. Hwangs *"This house has not sold a
 deletion since the eleventh of December"* war der Satz, an dem der Widerspruch
-haftete; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
+haftete - er steht so in keiner Fassung mehr; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
 und er sagt es unaufgefordert. Der Mann, dessen Wert seine Genauigkeit ist,
 liefert die eigene Luecke mit, und Georgij muss sie ihm nicht abringen.
 
@@ -11641,7 +11705,7 @@ jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
 Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
 a name."*
 
-**Dazu gemessen, 1205 Wörter, und ein Befund, der aussieht wie ein Fehler und
+**Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
 keiner ist.**
 
 Woo hat **die dichteste Und-Kette im ganzen Buch: 3,3 je 1000 Wörter** - gegen
@@ -11875,9 +11939,21 @@ nicht getan hat, und kein Schluss, den er nicht selbst gelaufen ist. Kein
 
 ### Mrs Seo (neun Jahre, führt das Haus)
 
-**Gemessen: 16 zugeordnete Repliken, 195 Wörter.** Wenig, aber sie hat die
-**höchste Personendichte im ganzen Buch** - 20,5 Nennungen je 1000 Wörter,
-fünfmal so dicht wie Georgij. Ein Kopf ist für sie eine Arbeitsmenge.
+**Nachgemessen am 25.08.: 13 zugeordnete Repliken, 114 Wörter.**
+
+**Hier stand: *"die höchste Personendichte im ganzen Buch - 20,5 je 1000 Wörter,
+fünfmal so dicht wie Georgij."* Beide Hälften sind falsch.** Sie misst **17,5** und
+steht damit **an vierter Stelle**: Mr Ahn 22,5 · Mr Byun 22,0 · Mr Koh 18,0 ·
+Mrs Seo 17,5. Georgij liegt bei 9,4, also ist sie **doppelt** so dicht und nicht
+fünfmal.
+
+*(Auch diese Korrektur musste einmal korrigiert werden: der erste Anlauf setzte
+Mr Sohn mit 27,8 an die Spitze. Das kam aus einem Hilfsskript mit lockererer
+Sprecherzuordnung; `stimmen.py` misst ihn bei 9,3. **Es gilt, was das Werkzeug
+sagt, das im Repo liegt.**)*
+
+**Was bleibt und trägt:** sie zählt Köpfe deutlich dichter als die Prinzipale,
+und ein Kopf ist für sie eine Arbeitsmenge. Die Rangfolge war Schmuck.
 
 **Die Maschine.** Nicht "Dienstplan". Genauer: **Sie berichtet Abweichungen von
 der Routine, und die Routine ist ihre Maßeinheit - für Zeit, für Menschen und
@@ -11907,8 +11983,13 @@ und gehören **Georgij**, der damit Bae beurteilt. Sie stehen in derselben Zeile
 wie die Wörter *"said Mrs Seo"*, weil er sie zitiert. Wer ihr Blatt aus dem Text
 nachzieht, faellt darauf herein - ich bin darauf hereingefallen.
 
-**Sie fragt nicht.** In neun Jahren nicht, was in dem Umschlag ist. Das ist ihr
-Zurückhalten, und es ist keine Diskretion, sondern Arbeitsteilung.
+**Sie fragt nicht**, und das ist nachzählbar: **in dreizehn Repliken über beide
+Bände steht keine einzige Frage.** Das ist ihr Zurückhalten, und es ist keine
+Diskretion, sondern Arbeitsteilung.
+
+*(Hier stand: "In neun Jahren nicht, was in dem Umschlag ist." Der Umschlag steht
+in b1 K06 und sie trägt ihn herein - dass sie nicht gefragt hat, steht nirgends.
+Erfunden, und ersetzt durch die Zahl, die dasteht.)*
 
 **Er darf... sie darf:** Personen und Dienstjahre zählen. Die Abweichung melden
 statt der Sache. Anweisungen geben, die wie Fürsorge klingen. *ma'am* zu Annie,
@@ -11936,15 +12017,22 @@ Gefühl.
 **Ruhig, eine Abweichung:**
 
 > "The gate was opened twice last night and the second time nobody came in." She
-> put the tray down and did not go. "Three weeks running, this. I'll want a
-> fourth before I say it's anything."
+> put the tray down and did not go. "Three weeks running. I will want a fourth
+> before I say it is anything."
 
 **Warm, an Georgij, ohne ein warmes Wort:**
 
-> "There's a plate in the small room." She took the two glasses off the table.
-> "You were down at four the last three mornings and you'll be down at four
-> tomorrow. That's nine years of me knowing what a man does when he isn't
-> sleeping, and it isn't a comment."
+> "There is a plate in the small room." She took the two glasses off the table.
+> "You were down at four the last three mornings and you will be down at four
+> tomorrow. That is nine years of me knowing what a man does when he is not
+> sleeping, and it is not a comment."
+
+**Beide Beispiele standen bis zum 25.08. mit sieben Kontraktionen da** - *I'll*,
+*it's*, *There's*, *you'll*, *That's*, *isn't*, *isn't*. **Mrs Seo hat im
+ganzen Buch keine.** Die zwei, die im Text standen, waren aus diesem Durchgang
+und sind zurückgenommen (b2 K34 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihre
+eigene Zeile: *"It is easier to run a house for people who do not tell me
+things."*
 
 ### Mr Ahn (39, repariert Kleinmotoren)
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
@@ -11968,7 +12056,13 @@ Immobilien verkauft hat, rechnet in Kalendern.
 **Er kommt zuerst.** Er ruft an, statt angerufen zu werden, und er sagt gleich,
 warum er anruft. *"I thought it would be quicker to telephone you than to let you
 spend four hundred thousand won finding out that there is nothing in those
-filings."* Er lacht, was in diesem Buch fast niemand tut.
+filings."*
+
+*(Hier stand: "Er lacht, was in diesem Buch fast niemand tut." Beide Hälften
+sind falsch. Nachgezählt wird im Buch **fünfunddreißig Mal** gelacht - Hana
+fünfmal, Georgij fünfmal, Sang-hoon dreimal, Woo und Kang je zweimal, dazu der
+Saal siebenmal. **Und Mr Yeom lacht genau einmal**, in b2 K24. Gestrichen; das
+Anrufen bleibt, das ist belegt.)*
 
 **Die Maschine ist tiefer als die Abkürzung: Er läuft die nächsten zwei Züge des
 anderen, bevor der sie macht, und sagt sie laut.** Viermal belegt:
@@ -12001,6 +12095,10 @@ Beide sind Berufsbeurteiler, also ist die Ähnlichkeit begründet, aber sie muss
 sichtbar getrennt bleiben: **Sang-hoon benotet und handelt dann nach der Note.
 Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
+
+**Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
+b2 K24, K25, K34, K41, K53, K54, K55; Sang-hoon in b1 K10, K16, K22, K33 und
+b2 K4, K26, K35, K36, K38, K39, K42, K43, K45, K48, K50. **Keine Überschneidung.**
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
 
@@ -12038,8 +12136,17 @@ benutzen.
 
 ### Mr Hwang (der Sanierer)
 
-**24 Repliken, 368 Wörter.** Zählt Daten 16,3 und Minuten 13,6 - die dichteste
-Datums- und Uhrzeitzählung im ganzen Buch.
+**24 Repliken, 368 Wörter.** Zählt Daten 16,3 und Minuten 13,6.
+
+**Nachgeprüft am 25.08. mit `stimmen.py`, und der Superlativ hält - mit einer
+Schwelle.** Unter allen Figuren mit mehr als 90 Wörtern eigener Rede ist er bei
+beiden der dichteste: Daten Hwang 16,3 · Yeom 10,9 · Mrs Jeon 9,1; Uhrzeiten
+Hwang 13,6 · Mr Ahn 11,2 · Mr Koh 9,0.
+
+**Ohne Schwelle stünden Kang (33,3 bei Daten, aus 30 Wörtern) und Ye-rin (41,7
+bei Uhrzeiten, aus 24 Wörtern) darüber - beides eine einzige Nennung.** Wer aus
+dieser Tabelle zitiert, nennt die Schwelle mit, sonst gewinnt immer die Figur
+mit der kürzesten Rede.
 
 **Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
 abnehmen muss: *"You are correct. I want to say that first so that we are not
@@ -12088,17 +12195,22 @@ das Gegenteil und benennt **die Transaktion, in der sie selbst steckt**:
 > *"You are somebody's. I could see that in March and I can see it now. **Whose.**"*
 > *"**I have been handled.**"*
 
-**Sie ist die einzige Nebenfigur im Buch, die laut sagt, dass sie gerade
-gehandhabt wird.** Das ist kein Verfahrensbericht, das ist eine Frau mit
-dreiundzwanzig Jahren Abrechnung, die den Vorgang erkennt, weil sie den ganzen
-Tag Vorgänge liest.
+**Sie sagt laut, dass sie gerade gehandhabt wird**, und das ist kein
+Verfahrensbericht - das ist eine Frau mit dreiundzwanzig Jahren Abrechnung, die
+den Vorgang erkennt, weil sie den ganzen Tag Vorgänge liest.
+
+*(Hier stand "die einzige Nebenfigur im Buch, die das laut sagt". Falsch:
+Park Sang-hoon sagt in b2 K42 **"You are managing me."** und bekommt darauf ein
+"Yes". Sie ist nicht die einzige - sie ist die einzige, die es über
+dreiundzwanzig Jahre hochrechnet: "Do you know how many times in twenty-three
+years I have been handled by that building.")*
 
 **Die Maschine: die ausgerichtete Botschaft.** Sie hat keinen Zugang zu den
 Prinzipalen, also spricht sie **durch** den, der vor ihr steht, hindurch -
 dreimal belegt:
 
 > *"**You may tell him from me** that I kept mine too, and that I bought the book
-> myself, and that it did not take a great deal of courage until the end."*
+> myself, and that it did not take a great deal of courage until the day it did."*
 > *"**Tell her** that I read all four pages of the terms and that the third one is
 > generous in a way that somebody thought about."*
 > *"**And tell her** that I noticed it was posted on Friday night."*
@@ -12130,8 +12242,12 @@ anybody keeps."* · *"If a delivery did not go into a hand he put down why."*
 
 **Und sie hat einen Berufsstolz, der sie die Arbeit selbst machen lässt:** *"Not
 once, and I looked, **because I do not like being wrong about a customer.** I
-sat here and went back three years."* Sie zählt Jahre mit 20,4 je 1000 Wörtern -
-der zweithöchste Wert im Buch nach Sim.
+sat here and went back three years."* Sie zählt Jahre mit 20,4 je 1000 Wörtern und ist
+damit **die dichteste Jahreszählerin des Buchs** unter allen Figuren über 90
+Wörtern; es folgen Yeom mit 13,1 und Mrs Ha mit 10,0.
+
+*(Hier stand "der zweithöchste Wert im Buch nach Sim". Das war aus dem Kopf: Sim
+taucht bei den Jahren gar nicht unter den ersten fünf auf.)*
 
 ### Mr Sohn (kocht ohne Schild)
 **Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
@@ -12139,11 +12255,19 @@ Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, w
 der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
 paid in cash by a man who left before the coffee."*
 
-**Gegengelesen, sieben Repliken, das Blatt stimmt.** Zwei Ergänzungen:
+**Gegengelesen, acht Repliken.** Zwei Ergänzungen, und eine Berichtigung:
 
 **Er beurteilt Menschen danach, wie sie essen** - und misstraut dem Lob:
-*"Slowly, and he finished the plate, and he told me it was the best thing he had
-eaten that month, **which a cook remembers whether he believes it or not.**"*
+
+> *"Slowly, and he finished the plate, and he told me it was the best thing he
+> had eaten that month. **A cook remembers that. Believing it is a separate
+> question.**"*
+
+*(Hier stand dieselbe Stelle mit einem which-Satz: "...that month, which a cook
+remembers whether he believes it or not." **Diesen Satz gibt es in keiner
+lebenden Fassung.** Der Text hat inzwischen zwei kurze Hauptsätze, und das ist
+besser - der which-Satz ist genau das, was diese Blätter den Nebenfiguren sonst
+verbieten. Das Blatt hat die alte Fassung zitiert und den Verstoß gelobt.)*
 
 **Und er stellt Gegenfragen, mit Punkt.** *"Why does that matter to you."* In
 seiner eigenen Küche fordert er, und die Regel aus `CLAUDE.md` gibt ihm dafür
@@ -12220,11 +12344,11 @@ und nie erklären konnte, und er tut es unaufgefordert.
 
 **Dazu gemessen, und die Warnung zum which-Satz gehoert dringend dazu:**
 
-**116 Repliken, 1850 Wörter, Ø 11,9 - die größte Nebenstimme des Buchs.**
+**116 Repliken, 1849 Wörter, Ø 11,6 - die größte Nebenstimme des Buchs.**
 Zählt Personen 8,6 und Jahre 8,1.
 
-**Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.** Das tut
-sonst niemand, und es ist durchgehend belegt:
+**Die Maschine: er benotet die Äußerung, bevor er auf sie antwortet.**
+Durchgehend belegt:
 
 > *"That is the most expensive sentence anybody has said to me this year."*
 > *"That is a more careful answer than the one you started with."*
@@ -12235,6 +12359,13 @@ sonst niemand, und es ist durchgehend belegt:
 
 Ein Mann, der seit einunddreißig Jahren beruflich Leute einschätzt, tut es
 **laut**. Wer ihm eine Replik schreibt, die direkt antwortet, hat ihn verloren.
+
+*(Hier stand "Das tut sonst niemand." Falsch, und dieses Dokument widerspricht
+sich damit selbst: **Mr Yeoms Blatt sagt zwei Seiten weiter, dass er ebenfalls
+benotet**, und nennt es ausdrücklich "Sang-hoons Signatur". Die Trennung steht
+dort und gilt: Sang-hoon benotet und handelt dann nach der Note, Yeom benotet und
+sagt dann, warum er gefragt hat. Sie stehen in keinem gemeinsamen Kapitel -
+nachgeprüft am 25.08.)*
 
 **Der zweite Zug: er berichtet seinen eigenen Denkvorgang, mit Uhrzeit.**
 *"I have watched you not ask for four minutes."* · *"I have never once put those
@@ -12312,8 +12443,14 @@ schreibt, schreibt gegen Kapitel 11.
 
 **Dazu gemessen, 63 zugeordnete Repliken:**
 
-**63 Repliken, 756 Wörter, Ø 9,6.** Zählt Personen 13,2 und Minuten 5,3 -
-**die dichteste Personenzählerin nach Mrs Seo**, und das ist ihr Beruf: Sie
+**63 Repliken, 756 Wörter, Ø 9,6.** Zählt Personen 13,2 und Minuten 5,3.
+
+*(Hier stand "die dichteste Personenzählerin nach Mrs Seo". Falsch: mit 13,2
+steht sie an **siebter** Stelle - Ahn 22,5 · Byun 22,0 · Koh 18,0 · Mrs Seo 17,5 ·
+Sim 14,6 · Hong 13,5 · Hana 13,2. Was trägt, ist nicht der Rang, sondern der
+Grund:)*
+
+Es ist ihr Beruf: Sie
 kennt nicht Firmen, sie kennt, wer in ihnen sitzt.
 
 **Die Maschine: sie beantwortet die Frage und hängt den Preis der Antwort an.**
@@ -12542,8 +12679,11 @@ zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 **Dazu gemessen, elf zugeordnete Repliken:**
 
 **11 Repliken, 182 Wörter, und er hatte kein Blatt.** Er zählt Personen mit
-**22,0 je 1000 Wörtern - der höchste Wert im ganzen Buch**, weil er sich in
-einer Reihe von Menschen sieht.
+**22,0 je 1000 Wörtern - der zweithöchste Wert im Buch**, knapp hinter Mr Ahn
+mit 22,5, weil er sich in einer Reihe von Menschen sieht.
+
+*(Hier stand "der höchste Wert im ganzen Buch". Um ein halbes Zehntel falsch,
+und das ist die Sorte Superlativ, die niemand nachrechnet.)*
 
 **Die Maschine: er verteidigt sich, indem er sich in eine Erbfolge stellt.**
 
@@ -12584,8 +12724,8 @@ fährt.
 
 ### Mr Koh (Ladungsbesichtiger, zwei Zimmer über einem Schiffsausrüster)
 
-**6 Repliken, und er hatte kein Blatt.** Ein Mann, der in Laderäume steigt und
-unterschreibt, wem das Geld gehört.
+**7 Repliken, 111 Wörter, und er hatte kein Blatt.** Ein Mann, der in Laderäume
+steigt und unterschreibt, wem das Geld gehört.
 
 **Die Maschine: er beziffert, was ein Satz kostet, bevor er ihn sagt.**
 
@@ -12604,8 +12744,9 @@ introduced. That is all."* Er registriert die Abweichung vom Verfahren, nicht
 die Person.
 
 **Er darf:** Aufzählungen von Verneinungen als Kostenrechnung, die Taxierung des
-Gegenübers, Kontraktionen. **Er darf nicht:** den which-Satz, Adjektive über
-Menschen, jede Selbsterklärung über sein Zögern.
+Gegenübers. **Er darf nicht:** den which-Satz, Adjektive über Menschen, jede
+Selbsterklärung über sein Zögern - **und keine Kontraktionen.** Hier stand das
+Gegenteil; nachgezählt hat er in sieben Repliken **keine einzige**.
 
 ---
 
@@ -13639,6 +13780,85 @@ Kapitel geschrieben, und bei Jang ist genau das schon passiert.
 
 **Noch offen:** Mrs Seo, Yeom, Hwang, Mrs Jeon, Mrs Bae, Mrs Gwak, Mr Sohn,
 Mr Koh, Mr Byun, Mr Chae, Sang-hoon, Hana.
+
+---
+
+### doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler
+
+Alle gelesenen Blaetter durch. **Kein einziges war ohne Fehler.** Zwei davon
+hatten bereits ins Buch gewirkt und sind zurueckgenommen.
+
+#### Was ins Buch gewirkt hatte
+
+| Blatt | Behauptung | Was daraus im Buch wurde |
+|---|---|---|
+| Jang | *"Er zieht zusammen, in beiden Baenden"* | zwei Kontraktionen in b2 K40, von mir. **Zurueckgenommen, ch40 v2.6** |
+| Mrs Seo | Standeslinie 17,9 | zwei Kontraktionen in b2 K34 und K37, von mir. **Zurueckgenommen, v1.4 und v2.4** |
+
+**Beide Male hat sich die Behauptung selbst gemessen:** das Blatt sagte, die
+Figur ziehe zusammen; ich machte sie zusammenziehen; das Werkzeug meldete danach,
+dass sie zusammenzieht. Ohne diese Eingriffe hat **Mrs Seo im ganzen Buch keine
+einzige** Kontraktion und **Jang drei**, alle drei in einem Wechsel ueber Kies in
+b1 K05.
+
+#### Die uebrigen Fehler
+
+| Blatt | stand da | Befund |
+|---|---|---|
+| **Ye-rin** | *"Kein Titel, kein Name"* | Sie sagt **"Mr Georgij."** - der Schluss von b1 K30 |
+| Ye-rin | *"Kein Wort ueber Gefuehle"* | *"I have disliked everything so far."* |
+| Ye-rin | *"keine Frage, die sie nicht selbst beantwortet"* | mindestens acht, Georgij beantwortet die meisten |
+| Ye-rin | *"spricht nie zuerst aus sich selbst"* | zweite Kapitelhaelfte ausschliesslich aus sich selbst |
+| Ye-rin | *"wenn sie sich umdreht, ist das die Szene"* | fuenfmal markiert, zwei davon Ereignisse |
+| Ye-rin | *"17 Repliken"* | rund **57 allein in b1 K30** |
+| **Jang** | *"der langsatzigste Sprecher des Buchs"* | Mittelfeld: Hwang 11,9 · Georgij 11,6 · **Jang 11,2** |
+| Jang | *"Er laesst sich nicht einschenken"* | b1 K23: *"You should not do that."* - **und trinkt es** |
+| Jang | 45 Repliken, 721 W, Ø 12,2 | 40 Repliken, 585 W, Ø 11,2 |
+| **Mrs Seo** | *"hoechste Personendichte, 20,5, fuenfmal Georgij"* | **17,5, vierter Platz**, doppelt Georgij |
+| Mrs Seo | *"In neun Jahren nicht, was in dem Umschlag ist"* | steht nirgends. Ersetzt: **keine Frage in dreizehn Repliken** |
+| Mrs Seo | zwei Beispielbloecke | **sieben erfundene Kontraktionen** fuer eine Figur, die keine hat |
+| **Yeom** | *"Er lacht, was in diesem Buch fast niemand tut"* | im Buch wird **35 Mal** gelacht; **Yeom genau einmal** |
+| **Hwang** | *"dichteste Datums- und Uhrzeitzaehlung"* | **haelt** - mit Schwelle ab 90 Woertern |
+| **Mrs Gwak** | *"zweithoechster Jahreswert nach Sim"* | **hoechster**; Sim nicht unter den ersten fuenf |
+| **Mrs Jeon** | *"die einzige Nebenfigur, die sagt, dass sie gehandhabt wird"* | Sang-hoon in b2 K42: *"You are managing me."* |
+| Mrs Jeon | Zitat *"until the end"* | der Text sagt *"until the day it did"* |
+| **Mr Byun** | *"hoechste Personendichte im Buch"* | zweiter, hinter Ahn (22,5 zu 22,0) |
+| **Mr Koh** | *"Er darf: Kontraktionen"* | **keine einzige** in sieben Repliken |
+| Mr Koh | 6 Repliken | 7 |
+| **Mr Sohn** | Zitat mit which-Satz | **existiert in keiner lebenden Fassung.** Der Text hat zwei Hauptsaetze - besser, und das Blatt hat den Verstoss gelobt |
+| Mr Sohn | 7 Repliken | 8 |
+| **Hana** | *"dichteste Personenzaehlerin nach Mrs Seo"* | **siebter Platz** (13,2) |
+| **Sang-hoon** | *"benotet die Aeusserung - das tut sonst niemand"* | **Yeoms Blatt sagt zwei Seiten weiter, dass er es auch tut**. Das Dokument widersprach sich selbst |
+
+#### Und ein Fehler beim Korrigieren, der die Regel bestaetigt
+
+Beim Berichtigen von Mrs Seos Personendichte habe ich **Mr Sohn mit 27,8 an die
+Spitze gesetzt.** Das kam aus einem eigenen Hilfsskript mit lockererer
+Sprecherzuordnung; `stimmen.py` misst ihn bei 9,3. **Dasselbe bei Hwang** (18,0
+statt 16,3) und **bei Mrs Gwak** (Mr Baek als angeblicher Spitzenreiter, ein
+Zuordnungsartefakt).
+
+**Alle drei sind zurueckgenommen. Es gilt, was das Werkzeug im Repo sagt** - ein
+Skript, das im Scratchpad liegt und einmal laeuft, ist keine Messung, sondern
+eine Meinung mit Ziffern.
+
+#### Die Fehlerklasse, und sie ist bei Blaettern anders als bei Kommentaren
+
+**Dreiundzwanzig Fehler, und nur drei waren Erfindungen.** Die anderen zwanzig
+sind zwei Sorten:
+
+1. **Der Superlativ aus dem Kopf.** *Die hoechste, die einzige, der
+   langsatzigste, das tut sonst niemand.* Neun Faelle. Jeder war eine richtige
+   Beobachtung, die beim Aufschreiben eine Stufe zu weit gegangen ist.
+2. **Die Messung, die gedriftet ist.** Sieben Faelle. Niemand hat etwas falsch
+   gemacht - es sind Kapitel dazugekommen.
+
+**Daraus die Regel fuer Blaetter, und sie ist strenger als die fuer
+Erzaehlerkommentare:** ein Kommentar steht an einer Stelle im Buch, ein Blatt
+wird in hundert Kapitel geschrieben. **Ein Superlativ in einem Stimmblatt braucht
+die Rangfolge daneben, nicht nur eine Fundstelle** - sonst ist er nur noch nicht
+widerlegt. Und **jede Zahl braucht den Befehl daneben**, mit dem man sie
+nachrechnet.
 
 ---
 
@@ -16119,10 +16339,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:110 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
 | 26 | b2ch24:272 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
 | 46 | b2ch34:224 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
-| 46 | b2ch34:234 | "Good," said Mrs Seo. "It's easier to run a house for people who do not tell me things t.. |
+| 46 | b2ch34:234 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
 | 47 | b2ch35:478 | Mrs Seo passed with a tray and did not stop. |
 | 57 | b2ch37:286 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
-| 57 | b2ch37:300 | "Yes," said Mrs Seo. "It's also a Monday, if that means anything to you." |
+| 57 | b2ch37:300 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
 | 11 | b2ch45:215 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
 | 5 | b2ch46:214 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
 | 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |

@@ -923,7 +923,7 @@ jemand anderem zu geben, und Band 1 ist Kanon. Also ist der November gefallen.
 die letzte Loeschung verkauft, **nachdem** Hwang die Praxis abgestellt hatte, im
 selben Haus, in dem Hwang seit Oktober sass. Hwangs *"This house has not sold a
 deletion since the eleventh of December"* war der Satz, an dem der Widerspruch
-haftete; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
+haftete - er steht so in keiner Fassung mehr; jetzt sagt er stattdessen, dass sie danach noch einmal verkauft wurde,
 und er sagt es unaufgefordert. Der Mann, dessen Wert seine Genauigkeit ist,
 liefert die eigene Luecke mit, und Georgij muss sie ihm nicht abringen.
 

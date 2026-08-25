@@ -56,6 +56,11 @@ Schlusszeile laeuft ueber **Erschoepfung**, nie ueber Ruhe.
 
 ### Wo der Band steht (Stand Kapitel 56, Tag 315, Freitag 14. August)
 
+> *Historischer Stand. Band 2 steht am 25.08. bei **Kapitel 68, Tag 339,
+> Montag dem 7. September**, und das Buch laeuft auf Tag 366, den 4. Oktober
+> zu - den Jahrestag der Auktion. Wer den aktuellen Stand sucht, sucht hier
+> falsch.*
+
 **Der Feldzug laeuft.** Von Annies einunddreissig Namen ist **einer** angesprochen
 (Mr Koh, Kapitel 37). Sang-hoon haelt Sims Arbeitsnamen und benutzt ihn nicht.
 Yeom liest vier Jahre Quartalsmappen. Baek Jun-ho weiss, was er unterschrieben
@@ -94,6 +99,11 @@ sich aus zwei vom Tisch angerufen. Der Feldzug laeuft jetzt auch ohne Georgij,
 und das ist die Frage, mit der Kapitel 58 aufmacht.
 
 ### Stand nach Kapitel 61 (Tag 324, Sonntag 23. August)
+
+> *Historischer Stand. Band 2 steht am 25.08. bei **Kapitel 68, Tag 339,
+> Montag dem 7. September**, und das Buch laeuft auf Tag 366, den 4. Oktober
+> zu - den Jahrestag der Auktion. Wer den aktuellen Stand sucht, sucht hier
+> falsch.*
 
 **Der Besteller ist gefunden und es ist sie selbst.** Do Kyung-ae, der Name auf
 Sims Zettel, ist Ahn Jung-hee. Sie fuehrt den Haushalt, in dem sie gehalten
@@ -390,7 +400,7 @@ Kapitel 30). Sie holt niemanden heraus, **sie schliesst ein Konto**, das ein Man
 elf Jahre offen gehalten hat, und sie ist die Einzige im Land, die weiss, was das
 kostet, weil sie es einmal getan hat und das Ergebnis neben ihr steht.
 
-**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus:**
+**Damit hat die festgeschriebene Schlusszeile des Bandes einen Mechanismus** — sie ist gesetzt und steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -412,7 +422,7 @@ das hier ist der Grund, den er ihr gibt.
 ich diese Waffe war, ist ein Teil davon, und es ist der kleinere. Wenn die Welt
 überhaupt irgendetwas auf Dich richtet, brenne ich die Welt nieder.*
 
-**Die Ausführung im Register des Buches** — er beginnt mit einem Bruchteil,
+**Die Ausführung im Register des Buches**, ein Vorschlag und noch nicht im Text — er beginnt mit einem Bruchteil,
 korrigiert sich selbst nach unten, weil er sich bei Zahlen nicht ungenau erträgt,
 und sagt dann den einzigen Satz seines Lebens ohne Preis darin:
 
@@ -466,7 +476,7 @@ her hand*, nichts, was nach Etikette klingt. Er hat in siebzehn Jahren gelernt,
 wie man eine Hand als Instrument küsst, und das ist genau das, was hier nicht
 passieren darf. **Wenn ein Leser die Gala erinnert, ist die Szene misslungen.**
 
-**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen:**
+**Und sie gehört mit der festgeschriebenen Schlusszeile zusammen** — auch das folgende steht **noch nicht im Text**:
 
 > *"You are such a beautiful, strong woman. Thank you for buying me."*
 
@@ -514,7 +524,7 @@ Jang zu hoeren. Was daran im Buch anders lauten muss:
 
   1. **Bei der Guidance-Frage an Choi.** Nicht frueher in der Szene - es kommt
      mit dem Todesstoss und nicht mit der Begruendung davor.
-  2. **Beim Bericht an Annie danach**, und es bezieht sich ausdruecklich auf
+  2. **Beim Bericht an Annie danach** — Vorschlag, noch nicht im Text —, und es bezieht sich ausdruecklich auf
      Kapitel 27, wo Georgij ihr gesagt hat: *"I am not going to enjoy telling
      you about it afterwards."*
 
@@ -553,17 +563,23 @@ schon weg ist.** Bis dahin darf er nichts merken.
 
 ---
 
-### Fuer den Inhalts-Chat, faellig sofort
+### ~~Fuer den Inhalts-Chat, faellig sofort~~ - alle vier erledigt (25.08.)
 
-1. **Die acht Jahre sind Sang-hoons.** Ueberall pruefen, wo sie faelschlich fuer
-   Chois Laufbahn stehen, auch in `doc/03-cast.md`. Richtige Zahl: **mindestens
-   dreiundzwanzig**, Beleg Kapitel 27.
-2. **Annies Vater steht im Buch (Kapitel 27) und in keinem Dokument.** Nachtragen
-   in `doc/03-cast.md` und `doc/05-continuity.md`.
-3. **Sim: Yeom kennt seinen Namen und gibt ihn nicht her** (Kapitel 25). Als
-   offene, kalte Spur mit Datum eintragen.
-4. **Kurier-Stellen listen**, siehe `doc/02-leads.md`, "Ein Fund wird ausgegeben
-   und nicht gemeldet". Nicht reparieren, nur listen.
+1. ~~**Die acht Jahre sind Sang-hoons.**~~ **Nichts zu reparieren.** In
+   `doc/03-cast.md` steht bei Choi nur *Neunundfuenfzig*; die acht Jahre dort
+   gehoeren Mr Hong (Band 1, Kapitel 7, andere acht Jahre). `doc/05` fuehrt sie
+   an drei Stellen richtig als Sang-hoons Zeit an Chois Tisch.
+2. ~~**Annies Vater steht im Buch und in keinem Dokument.**~~ **Nachgetragen**
+   in `doc/03-cast.md` unter *Annies Seite*, mit den Belegen aus den Kapiteln
+   27, 61 und 62. Er hat Choi ins Haus gebracht und ist im selben Jahr
+   gestorben; Annie war vierzehn. In `doc/05` stand er bereits.
+3. ~~**Sim: Yeom kennt seinen Namen und gibt ihn nicht her.**~~ Steht in
+   `doc/03-cast.md`, Zeile zu Mr Yeom. **Und die Spur ist nicht mehr kalt:**
+   Sim ist seit Kapitel 64 eine tragende Figur, in Kapitel 68 dreiundsechzig
+   und aus eigenem Mund.
+4. ~~**Kurier-Stellen listen.**~~ Steht in `doc/02-leads.md`: die Form von
+   Kapitel 33 bis 46, die Probe pro Kapitel, und die Nachpruefung von 50, 52
+   und 53 (50 hielt nicht und ist repariert).
 
 ---
 
@@ -606,16 +622,14 @@ Zeit selbst in der Hand hatte.
 1. **Sang-hoon bekommt Annies Lesart in einem Raum und nicht am Telefon.**
    Georgij sagt es am Schluss selbst zu: *"I will ask him for an hour this week."*
    Eine Zusage mit Frist, also eine Schuld wie jede andere hier.
-2. **Jang liest das Firmenschild am 16. Juli** (zehn Tage ab Kapitel 44, von
-   Georgij selbst befristet: *"Ten days is enough. Do not go closer for it before
-   then."*). Danach erst die Gasfirma, und **ueber deren Unterlagen und nicht
-   ueber das Tor** - wer taeglich nach dem Tank sieht.
-3. **K hat ein Datum und weiter keinen Namen.** Der naechste Ansatz ist der
-   Besucher selbst: ein Mann, der in ein Buero kommt, geht an einem Empfang
-   vorbei. Ob Sang-hoons Haus damals ein Besucherbuch gefuehrt hat, ist nicht
-   entschieden und gehoert entschieden, bevor jemand es voraussetzt.
-4. **Der Rest des Kalenders ist ausdruecklich nicht gelesen worden.** Wer ihn
-   spaeter braucht, muss ein zweites Mal fragen, und das kostet dann etwas.
+2. **Jang liest das Firmenschild** — **die Frist ist am 25.08. gestrichen, weil
+   sie keine Quelle hat.** Hier stand *"Ten days is enough. Do not go closer for
+   it before then."* als Georgijs Zusage aus Kapitel 44. **Der Satz steht in
+   keiner Fassung**, und Kapitel 44 befristet nichts: Jang beobachtet dort
+   *"since the beginning of June"* und hatte im Juni *"sixteen days of
+   watching"*. Der 16. Juli war aus einer Zahl gerechnet, die es nicht gibt.
+   Bleibt als **offener Faden ohne Termin**; wer ihn will, muss die Frist
+   erst in einen Satz schreiben.
 
 **Frage an den Inhalts-Chat, aus dem Schreiben aufgefallen:** Kapitel 43 (v1.2)
 datiert H auf **Ende August, drei Jahre nach S**, also den August des Vorjahres
@@ -929,7 +943,14 @@ Nichts davon wird in 34 angefasst, und das ist Absicht.
 
 ---
 
-## Band 2: Gegner, Gegenstand, Ziel
+## Band 2: Gegner, Gegenstand, Ziel (23.08.) - die Zielzeile ist ueberholt
+
+> **Achtung, am 25.08. beim Dokumentendurchgang gefunden: dieser Abschnitt
+> fuehrte noch das Ziel, das am 25.08. ausdruecklich verworfen wurde.** Die
+> Zeile *"Dass die Zeile nicht gegen sie verwendbar ist"* steht oben unter
+> **Der Zielpunkt von Band 2** als die **Krankheit** - eine Gefahr und kein
+> Ziel, und die Ursache von zwanzig trockenen Kapiteln. **Es gilt der
+> Abschnitt oben.** Hier steht nur noch, was daran weiter traegt.
 
 **Entschieden am 23.08., und ohne diesen Abschnitt verwechselt man Gegner und
 Ziel.** Band 1 hat dieselbe Grammatik benutzt: Gegner war Sang-hoon, Gegenstand
@@ -939,8 +960,9 @@ gebunden und ferngehalten, nicht angegriffen.
 | | Band 2 |
 |---|---|
 | **Gegner** | **Nam Byung-hee** feuert. **Choi Dae-ho** gibt ihr die Waffe. **Der Sanierer** hat sie gebaut, ohne es zu wollen |
+| **Und was sich dabei verschoben hat** | **Choi ist seit dem 25.08. nicht mehr nur der Lieferant der Waffe, sondern das Ziel.** Die Zeile *Gegner* stimmt fuer Nam und den Sanierer weiter; fuer Choi nicht mehr |
 | **Gegenstand** | **Annie selbst.** Kein Unternehmen und keine Route - die gestrichene Zeile vom 19. Februar |
-| **Ziel** | **Dass die Zeile nicht gegen sie verwendbar ist** |
+| ~~**Ziel**~~ | ~~Dass die Zeile nicht gegen sie verwendbar ist~~ **- verworfen am 25.08. Das Ziel ist: Choi Dae-ho hat am Ende nichts, und niemand geht an sein Telefon.** |
 
 **Nam ist der Gegner und nicht das Ziel.** Sie ist ausserdem die **Uhr**: Sie
 ertrinkt seit Januar, also redet sie als Erste.
@@ -1063,10 +1085,10 @@ schliesst, streicht ihn hier und vermerkt in welchem Kapitel.
 
 ### Faelliges mit Datum
 
-- **DIE ZEILE AM ENDE DES BANDES. Vom Autor gesetzt am 23.08., und sie ist der
+- **DIE ZEILE AM ENDE DES BANDES**, ein Vorschlag und noch nicht im Text. **Vom Autor gesetzt am 23.08., und sie ist der
   Zielpunkt, auf den Band 2 zulaeuft.**
 
-  **Unter Erschoepfung, ungeplant, in einem Zug:** *"You are such a beautiful,
+  **Unter Erschoepfung, ungeplant, in einem Zug** - der Vorschlag, noch nicht im Text: *"You are such a beautiful,
   strong woman. Thank you for buying me."* Sinngemaess und in seinem Register,
   nicht woertlich - aber **die zweite Haelfte muss so dastehen.**
 
@@ -1165,8 +1187,12 @@ Fassung.**
 - ~~**Jang, drei Tage ab dem 3. April.**~~ **BEZAHLT, Kapitel 13:** *"Jang came on
   the Wednesday, two days early, with a folder."* Keine harten Maenner - **Fahrer.** Wer
   auf der Spur wem was schuldet und wer nicht mehr puenktlich bezahlt wird.
-  Und seine Bedingung, ungefragt gestellt: *"You are asking me and not Mrs Seo.
-  I have noticed that, and I would like it to go on."*
+  **Seine Bedingung stand hier mit einem Wortlaut, den es nicht gibt** —
+  *"You are asking me and not Mrs Seo. I have noticed that, and I would like it
+  to go on."* Am 25.08. geprüft: in keiner Fassung, nicht in Kapitel 13 und
+  nirgends sonst. Was Jang wirklich sagt, ist seine Linie: *"I have not used
+  the route I had ready, because nobody told me to, and I do not go past a line
+  I have not been given."*
 
 - ~~**"Das Haus ist Ende April erledigt." - FAELLIG ENDE APRIL.**~~ **BEZAHLT,
   Kapitel 16, und zehn Tage vor der Frist:** *"The house on the river stopped
@@ -1704,7 +1730,12 @@ Fassung.**
 
 ---
 
-### Bekannte Baustellen, Stand nach Kapitel 17
+### Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt
+
+*Die Ueberschrift sagte bis zum 25.08. nur "Stand nach Kapitel 17" und las sich
+damit wie ein Fundstueck aus dem Fruehjahr. Die Eintraege darunter sind
+aktueller als die Ueberschrift - der erste ist auf null erledigt und traegt das
+Datum 22.08.*
 
 - **Bandwurmsaetze: erledigt, alle siebzehn auf null.** Der Eintrag stand hier
   noch auf sechzehn in Kapitel 7, zwoelf in Kapitel 13 und je elf in 4, 6, 8 und

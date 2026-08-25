@@ -42,7 +42,9 @@ you i have has had do did be been are were would could this his her him them my 
 
 VORSCHLAGSWORT = [u"vorschlag", u"beispiel", u"muster", u"entwurf", u"probe",
                   u"so würde", u"so wuerde", u"so klingt", u"nicht im text",
-                  u"vom autor selbst", u"anläufe", u"anlaeufe"]
+                  u"vom autor selbst", u"anläufe", u"anlaeufe",
+                  u"keiner fassung", u"nicht gibt", u"gibt es nicht",
+                  u"noch nicht im", u"ein vorschlag", u"sichere fassung"]
 
 N = 5
 GRENZE = 0.55
@@ -171,22 +173,57 @@ def zitate_aus(txt):
 def vorschlagszeilen(txt):
     """Welche Zeilen stehen in einem Block, der Sprache vorschlaegt statt sie zu belegen.
 
-    Marke ist ein Wort aus VORSCHLAGSWORT, entweder in der Ueberschrift des
-    Abschnitts oder im Absatz unmittelbar vor dem Zitat. Kein neues Zeichen und
-    keine neue Syntax - die Dokumente schreiben ohnehin *Ein Beispiel, ruhig*.
+    Absatzweise, in zwei Durchgaengen, und beides musste sein:
+      - Eine Fassung setzte die Marke zeilenweise und verlor sie wieder, sobald
+        der einleitende Absatz ueber zwei Zeilen lief. Fuenf von sieben
+        Markierungen blieben wirkungslos.
+      - Eine Fassung wertete den Absatz nur bis zur Zitatzeile aus. Damit fiel
+        jeder Absatz durch, der das Zitat vorne traegt und erst danach sagt,
+        dass es im Buch nicht steht - also genau die Korrekturen.
+    Deshalb erst die Absaetze bilden, dann markieren.
+
+    Kein neues Zeichen und keine neue Syntax; die Blaetter schreiben ohnehin
+    *Ein Beispiel, ruhig* oder *steht noch nicht im Text*.
     """
-    zeilen = txt.split("\n")
+    zeilen = txt.split(chr(10))
+    bloecke = []          # (start, ende, text, ist_zitat)
+    lauf, start, zitat = [], None, False
+    for i, l in enumerate(zeilen):
+        roh = l.strip()
+        ist_q = l.lstrip().startswith(">")
+        if not roh or l.startswith("#") or ist_q != zitat:
+            if lauf:
+                bloecke.append((start, i - 1, " ".join(lauf).lower(), zitat))
+                lauf, start = [], None
+        if not roh:
+            continue
+        if l.startswith("#"):
+            bloecke.append((i, i, roh.lower(), None))
+            zitat = False
+            continue
+        if start is None:
+            start, zitat = i, ist_q
+        lauf.append(roh)
+    if lauf:
+        bloecke.append((start, len(zeilen) - 1, " ".join(lauf).lower(), zitat))
+
+    def markiert(s):
+        return any(w in s for w in VORSCHLAGSWORT)
+
     aus = [False] * (len(zeilen) + 2)
     ueberschrift = False
-    vorlauf = False
-    for i, l in enumerate(zeilen):
-        k = l.strip().lower()
-        if l.startswith("#"):
-            ueberschrift = any(w in k for w in VORSCHLAGSWORT)
-            vorlauf = False
-        elif k and not l.lstrip().startswith(">"):
-            vorlauf = any(w in k for w in VORSCHLAGSWORT)
-        aus[i + 1] = ueberschrift or vorlauf
+    vorher = False        # der letzte Nicht-Zitat-Absatz war markiert
+    for a, b, s, ist_q in bloecke:
+        if ist_q is None:
+            ueberschrift = markiert(s)
+            vorher = False
+            continue
+        eigen = markiert(s)
+        an = ueberschrift or eigen or (ist_q and vorher)
+        for k in range(a, b + 1):
+            aus[k + 1] = an
+        if not ist_q:
+            vorher = eigen
     return aus
 
 
@@ -211,10 +248,18 @@ def eichung(K):
     a = u'## Ein Beispiel\n\n> "Nobody in this trade has ever said that to me."\n'
     if not vorschlagszeilen(a)[3]:
         return False, u"Vorschlagsblock nicht erkannt"
-    b = u'## Kapitel 12\n\n> "Nobody in this trade has ever said that to me."\n'
+    b = u'## Kapitel 12{n}{n}> "Nobody in this trade has ever said that to me."{n}'.format(n=chr(10))
     if vorschlagszeilen(b)[3]:
         return False, u"gewoehnlicher Block faelschlich als Vorschlag gelesen"
-    return True, u"sechs Zitatproben, zwei Blockproben"
+    # Der einleitende Absatz laeuft ueber zwei Zeilen - die Marke muss halten.
+    c = u'Ein Beispiel, und es ist{n}nur ein Muster:{n}{n}> "Nobody in this trade has ever said that to me."{n}'.format(n=chr(10))
+    if not vorschlagszeilen(c)[4]:
+        return False, u"mehrzeiliger Einleitungsabsatz verliert die Marke"
+    # Das Zitat steht VORNE im Absatz, die Marke erst dahinter.
+    d = u'Hier stand "Nobody in this trade has ever said that to me." als Beleg,{n}und der Satz steht in keiner Fassung.{n}'.format(n=chr(10))
+    if not vorschlagszeilen(d)[1]:
+        return False, u"Marke hinter dem Zitat wird nicht gesehen"
+    return True, u"sechs Zitatproben, vier Blockproben"
 
 
 def dokumente(root):
