@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 211.160 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 211.264 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3309,9 +3309,9 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   **Der Fehler mit der Vollmacht ist seiner, und das ist entscheidend.** Er hat den Preis verlangt, die Form gewaehlt und sie *payment* genannt; sie hat innerhalb einer Minute geliefert. Ihre Zeile *"Do not thank me for that. It is what it costs"* ist richtig - sie erkennt an, dass sie schuldet. **Eine Fassung, in der er ihr das vorwirft, ist unlogisch**, und genau die stand hier zuerst.
 
-  Jetzt korrigiert er sich selbst, unaufgefordert und gegen den eigenen Vorteil: *"I asked you for that as payment. I chose the form, I named the price, and you agreed to it inside a minute. None of that is on you."* Das ist die Regel aus `doc/01-craft.md`: Ein Patzer bleibt ein Patzer, auch wenn er gut ausgeht, und er sagt das auch.
+  Jetzt korrigiert er sich selbst, unaufgefordert und gegen den eigenen Vorteil: *"I asked you for it because I cannot do the work without it, and the work is yours as well."* Das ist die Regel aus `doc/01-craft.md`: Ein Patzer bleibt ein Patzer, auch wenn er gut ausgeht, und er sagt das auch.
 
-  **Die Vollmacht ist keine Bezahlung, und er sagt es selbst.** Er hat sie verlangt, weil er ohne sie nicht arbeiten kann - und rechnet dann nach: *"It is a better tool for your house and nothing else. You have just paid me by making me more useful to you, and I nearly took it."* Das ist der Kern der Figur: Er rechnet praezise, auch gegen den eigenen Vorteil.
+  **Die Vollmacht ist keine Bezahlung, und er sagt es selbst.** Er hat sie verlangt, weil er ohne sie nicht arbeiten kann - und rechnet dann nach: *"I have been sitting here calling it payment for four minutes. It is a better tool for your house and nothing else."* Das ist der Kern der Figur: Er rechnet praezise, auch gegen den eigenen Vorteil.
 
   **Dann fragt sie, was er will, und er kann es nicht beantworten.** Nicht aus Bescheidenheit und nicht als Technik. Er zerlegt die Frage wie jede andere, und es gibt keine Teile. *"There is nothing there. I have looked."* Ein Junge in dem Gewerbe, der etwas will, hat jemandem gezeigt, wo man drueckt; mit neunzehn war aus der Disziplin eine Tatsache geworden.
 
@@ -4628,7 +4628,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Jang bestaetigt es von aussen, ohne dass Georgij ihm sagt, was er sucht:** ein grauer Lieferwagen einer Gasfirma, seit einunddreissig Tagen beobachtet, ausschliesslich an dieser Adresse, **ohne festen Rhythmus** - Jangs eigene Deutung: bestellt, wenn ein Tank zur Neige geht, nicht auf Route. **Zwei Dokumente, die einander nie kannten, stimmen ueberein.**
 
-  **Annie bremst die Schlussfolgerung, bevor Georgij sie zu weit treibt:** die Ausruestung beweise, dass etwas geschah, nicht fuer wen. *"You have built a true thing out of two facts before, and you have also built a wrong one, and the difference between them was never how confident you felt while you were doing it."* Sie stimmt aber der zweiten Lesart zu, die Jangs Detail liefert - **jemand beobachtet den Tank taeglich genug, um den Anruf rechtzeitig zu machen, und das ist keine Einrichtung, die einen Dienstplan fuehrt, sondern eine Person, die sich kuemmert.**
+  **Wer die Schlussfolgerung bremst - und es ist nicht Annie und nicht dieses Kapitel.** Die Zeile gehoert **Sang-hoon in Kapitel 42**: *"I am not going to tell you which, because I do not know, and I have watched you build a true thing out of two facts before and I have also watched you build a wrong one. I would rather you took the time to be right."* Dieser Absatz stand hier dreifach falsch - falsche Sprecherin, falsches Kapitel, und ein Wortlaut, den es nie gab. **In Kapitel 44 bremst Annie tatsaechlich, aber mit einer anderen Rechnung:** *"You have not counted the price, and I am going to count it for you, because you cannot."*
 
   **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
@@ -4648,10 +4648,13 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 **Das alte Kapitel 46 gibt es nicht mehr, die Nummer schon wieder.**
 Die Schreibsitzung hat es am 25.08. in
 Kapitel 44 gezogen (*"44 und 46 werden eins"*), und 43 und 44 haben dabei neue
-Titel bekommen. Die folgenden Notizen sind die des alten 46 und stehen hier
-unveraendert, weil sie **noch nicht gegen die neue Fassung geprueft** sind - das
-gehoert der Schreibsitzung, nicht der Inhaltspruefung. Was davon in Kapitel 44
-ueberlebt hat, ist offen. Alte Kopfzeile: **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
+Titel bekommen. Die folgenden Notizen sind die des alten 46.
+**Am 25.08. beantwortet: sie beschreiben das heutige Kapitel 44.** Jede englische
+Zeile aus diesem Block steht dort - die Lieferabstaende *"Thirty days, then
+twenty-four, then sixteen, then nine"*, die einundfuenfzig Tage im zweiten Herbst
+und *"A removed line is the loudest thing in a log."* Gefunden mit
+`werkzeug/belege.py --kapitel`, das jedes Zitat dem Kapitel zuordnet, in dem es
+wirklich steht. Offen bleibt nur die alte Kopfzeile: Alte Kopfzeile: **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
 
   **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
 
@@ -4705,8 +4708,12 @@ werden.** Beim ersten Lesen unsichtbar, beim zweiten unuebersehbar:
 3. **Band 2, Kapitel 8**, auf der Rueckfahrt: der dritte Posten, den er auf
    keine Seite der Rechnung schreibt, *"because he had not decided which side it
    belonged on."*
-4. **Band 2, Kapitel 11**, um elf Uhr nachts: der Brief hat zwei Wirkungen, und
-   er legt keine davon vor die andere.
+4. **Band 2, Kapitel 11**, gegen ein Uhr nachts am Schreibtisch, mit dem
+   Fahrschein vor sich: was er Nam gesagt hat, hat zwei Wirkungen. *"A person who
+   has been told the truth about somebody stops going and looking for it... It is
+   also what you do to somebody you are going to want standing still."* Und dann:
+   *"Both of those are the case. He sat with the two of them for a while and did
+   not put either one in front of the other."*
 
 **Dazu die Auslassung, die Annie laut bemerkt.** In Kapitel 9 zaehlt er drei
 Leute auf, die es treffen wird und die nichts getan haben. **Nam ist nicht
