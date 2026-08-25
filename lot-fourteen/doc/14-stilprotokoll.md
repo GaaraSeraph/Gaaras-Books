@@ -1162,3 +1162,50 @@ abgebaut wird.** Das gehoert der Schreibsitzung, nicht dem Stil-Durchgang, und
 es ist der Grund, warum Punkt 5 dort jetzt mit der Zahl statt mit einer Absicht
 steht: **ein Posten, der nach jedem Durchgang wieder auflaeuft, ist keine
 Aufraeumarbeit, sondern eine Gewohnheit beim Schreiben.**
+
+---
+
+### Fuenf Sprecher hatten kein Blatt, und die Ursache war ein Werkzeug
+
+Frage des Autors: *"Haben wir alle Charaktere und ihre Sprecharten?"* **Nein.**
+
+| fehlte | Repliken | wo |
+|---|---|---|
+| **Nam Byung-hee** | 10 | b2 K08, K11, K19 - **die Gegenspielerin des halben Bandes 2** |
+| **Baek Jun-ho** | 14 | b2 K50, eine ganze Szene |
+| **Kim Sung-ho** | 3 | b1 K26, K32 - der Vorsitzende der Familie |
+| **Mr Ok** | 4 | b2 K17 |
+| **Mr Ku** | 2 | b2 K14 |
+
+**Die Ursache ist keine Nachlaessigkeit, sondern eine Kette:** `stimmen.py`
+fuehrt in `FIGUREN` eine Namensliste. Wer dort fehlt, wird nicht zugeordnet -
+also nicht gemessen - also steht er in keinem Index - also schreibt niemand ein
+Blatt. **Nam Byung-hee war fuer das Werkzeug stumm, obwohl sie dreizehn Kapitel
+lang die Handlung traegt.**
+
+Ausserdem fehlten **Mrs Sunwoo** und **Shin**, die zwar ein Blatt hatten, aber
+nie gemessen worden sind - deshalb stand in Mrs Sunwoos Ueberschrift eine Zahl
+aus dem Index statt aus der Messung.
+
+**Die Liste ist ergaenzt** (Nam Byung-hee, Baek, Ok, Shin, Sunwoo, Eun-ju, Yeo,
+Uhm, Heo) und im Kopfkommentar steht jetzt, was passiert, wenn jemand fehlt.
+`stimmen.py` zaehlt danach **30 Sprecher mit mindestens zwei Repliken**.
+
+#### Und der dritte falsche Superlativ aus derselben Ursache
+
+Jangs Blatt sagte *"der langsatzigste Sprecher des Buchs"*. Am 25.08. korrigiert
+zu *"Hwang 11,9, Jang 11,2, Mittelfeld"*. **Auch das war falsch:** mit der
+ergaenzten Liste misst **Baek Jun-ho 15,7 Woerter je Satz und 18 Prozent ueber
+25 - beides der hoechste Wert im Buch**, mit grossem Abstand.
+
+**Dreimal hat dieselbe Luecke einen falschen Superlativ erzeugt** (Jang zweimal,
+Mrs Sunwoos Replikenzahl einmal). Eine Messung ist nur so gut wie die Liste, auf
+der sie laeuft, und **die Liste stand nirgends unter Verdacht, weil sie im Code
+steht und nicht im Dokument.**
+
+#### Nebenher aufgeraeumt: zwei Dateien hiessen doc/13
+
+Die Pruefsitzung hat `doc/13-zusagen.md` angelegt und in `CLAUDE.md` eingetragen,
+waehrend dieses Blatt schon `doc/13-stilprotokoll.md` hiess. **Umbenannt in
+`doc/14-stilprotokoll.md`**, Verweise in `doc/09` nachgezogen. `doc/13` gehoert
+jetzt eindeutig dem Schuldbuch.

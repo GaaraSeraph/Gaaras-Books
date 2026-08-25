@@ -688,7 +688,18 @@ gegenübersteht?*
 
 ---
 
-## Der Index: alle dreiunddreißig, die sprechen
+## Der Index: wer spricht
+
+**Die Überschrift lautete bis zum 25.08. *"alle dreiunddreißig, die sprechen"*,
+und das *alle* war falsch.** Fünf Sprecher fehlten - **Nam Byung-hee, Baek
+Jun-ho, Kim Sung-ho, Mr Ok und Mr Ku** -, und der Grund war kein Übersehen,
+sondern ein Werkzeug: `stimmen.py` führte eine Namensliste, in der sie nicht
+standen, also galten sie als stumm, also kamen sie in keine Messung, also
+schrieb niemand ein Blatt. **Nam Byung-hee trägt das halbe Band 2.**
+
+Die Liste ist ergänzt und `stimmen.py` zählt jetzt **30 Sprecher mit mindestens
+zwei zugeordneten Repliken**. Wer die Namensliste des Werkzeugs anfasst, prüft
+sie gegen die Sprecher im Text und nicht gegen das Gedächtnis.
 
 **Gezählt am 25.08.** über beide Bände, zugeordnet nur, wo genau ein Name in der
 Zeile steht. Das ist die Arbeitsliste für den Stil-Durchgang: **jede Figur mit
@@ -838,10 +849,15 @@ Satz, 8 Prozent über 25.**
 
 **Hier stand: *"Er ist damit der langsatzigste Sprecher des Buchs - alle anderen
 liegen bei sieben bis acht."* Das ist falsch und war es auch beim Schreiben.**
-Gemessen liegen Hwang bei 11,9, Georgij und Sang-hoon bei 11,6, Yeom bei 11,4,
-Jang bei 11,2, Woo bei 11,0. Bei sieben bis acht liegen Mr Ahn, Mrs Ha, Mrs Seo,
-Mr Sohn und Mr Hong - also die kurzen Nebenrollen und nicht *alle anderen*.
-**Jang steht im Mittelfeld, und die Satzlänge ist kein Merkmal von ihm.**
+Gemessen liegen **Baek Jun-ho bei 15,7**, Hwang bei 11,9, Georgij und Sang-hoon
+bei 11,6, Yeom bei 11,4, Jang bei 11,2, Woo bei 11,0. **Jang steht im
+Mittelfeld, und die Satzlänge ist kein Merkmal von ihm** - sie ist eines von
+Baek Jun-ho.
+
+*(Auch diese Korrektur musste am 25.08. nachkorrigiert werden: im ersten Anlauf
+stand hier Hwang an der Spitze, weil `stimmen.py` Baek Jun-ho gar nicht kannte.
+**Dritter Fall, in dem die luechenhafte Figurenliste einen falschen Superlativ
+erzeugt hat.**)*
 
 Was von dem Absatz übrig bleibt und trägt: seine Stimme ist nicht abwesend, sie
 ist unfertig - aber das steht auf der Maschine unten und nicht auf einer Zahl.
@@ -1742,6 +1758,147 @@ on a Sunday."*
 
 **Körper.** Er hat den Koffer und macht ihn zu, wenn er fertig ist - und die
 Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
+
+---
+
+### Nam Byung-hee (58, eine Fahrspur aus Ulsan, zwanzig Jahre)
+
+**Bis zum 25.08. hatte sie kein Blatt und stand in keinem Index** - weil
+`stimmen.py` ihren Namen nicht in der Figurenliste hatte und sie deshalb als
+stumm galt. Sie ist die Gegenspielerin des halben Bandes 2.
+
+**Gemessen: 10 zugeordnete Repliken, 93 Wörter, Ø 7,8 - keine einzige über 25
+Wörtern, kein Haustic, keine Kontraktion.** Eine der saubersten Stimmen im Buch,
+und das ist kein Zufall: sie sagt nichts, was sie nicht belegen kann.
+
+**Die Maschine: sie beginnt mit der Zählung des Vorgangs, nicht mit dem
+Vorgang.** Ihr erstes Wort ist immer, das wievielte Mal es ist oder was der
+andere nicht getan hat:
+
+> *"**You could have written**,"* (b2 K11, das erste, was sie zu ihm sagt)
+> *"**Third time**,"* (b2 K19, dito)
+
+**Und sie rechnet sich selbst mit ein.** Das ist ihre Signatur und es gibt sie
+sonst bei niemandem:
+
+> *"That is the most honest sentence anybody has said in this office in nine
+> years, **and I am including me**."*
+
+**Das Anliegen, und es hat mit dem Fall nichts zu tun: beantwortet zu werden.**
+Sie schreibt seit zwanzig Jahren am ersten jedes Monats an sechs Firmen. Vier
+Antworten in zwanzig Jahren, alle vier von demselben Mann, und der ist tot.
+*"I want somebody to answer them. Not me. Them."*
+
+**Sie lügt nicht, und das ist von aussen bezeugt** - Mr Kwon in b2 K15: *"She
+does not lie. I have known that for twenty years and I have never once had it
+cost me anything."* Wer ihr eine Ausrede schreibt, schreibt gegen das ganze
+Kapitel.
+
+**Sie setzt Fristen und nennt beide Ränder.** *"I will give you until the first.
+Not the twenty-sixth and not longer than the first."*
+
+**Sie kündigt ihre Frage an, bevor sie sie stellt.** *"One question," said Nam
+Byung-hee.* - und dann eine einzige, mit Punkt: *"Why. You had never met me."*
+
+**Warm gibt es bei ihr nicht. Was es gibt, ist die Rechnung gegen sich selbst:**
+*"You could have got out of that. Nobody in the world would have known. I would
+not have known."*
+
+**Körper.** Sie setzt sich mitten in einem fremden Satz hin und der andere hört
+nicht auf zu sprechen. Sie legt eine Hand flach auf den Tisch und lässt sie
+liegen. Sie steht in ihrem eigenen Tor mit den Händen in den Manteltaschen.
+
+**Sie darf:** die nackte Forderung mit Punkt, die Zählung des Vorgangs, die
+Frist mit beiden Rändern, sich selbst in die Rechnung nehmen.
+**Sie darf nicht:** Kontraktionen (null im Buch), jeden Haustic, jedes Adjektiv
+über einen Menschen, und **keine Klage** - sie beschreibt, was nicht passiert
+ist, und nie, wie es sich anfühlt.
+
+---
+
+### Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)
+
+**Bis zum 25.08. ohne Blatt**, aus demselben Grund wie Nam Byung-hee.
+
+**Gemessen: 14 Repliken, 267 Wörter, Ø 15,7 Wörter je Satz und 18 Prozent über
+25 - beides der höchste Wert im ganzen Buch.** Er ist **der langsatzigste
+Sprecher**, mit Abstand vor Hwang (11,9). Zählt Jahre mit 22,5 je 1000 Wörtern,
+ebenfalls der höchste Wert.
+
+**Die Maschine: er beziffert den eigenen Zweifel, statt ihn zu äussern.**
+
+> *"I would like to be **exact about the size of my discomfort**. It is small,
+> it has never kept me from sleeping, and it has never gone away."*
+
+Ein Mann, der dreissig Jahre lang Unbehagen als Posten geführt hat. **Wer ihm
+ein Gefühl schreibt, hat ihn verloren; er gibt eine Grössenangabe.**
+
+**Er verteidigt sich über den Berufsstand, nicht über sich:** *"a solicitor who
+queries every unusual line in eleven years of a trust is a solicitor who does
+not have eleven trusts."*
+
+**Er sagt selbst, wo die Regel bricht** - und das ist die Szene: *"And then I
+did a thing I have never done before or since."*
+
+**Und er weist Schonung zurück, einmal, scharf** - die einzige Stelle, an der
+seine Stimme etwas tut: *"Do not do that. I am not a client and I am not a
+witness and you are not protecting me. I have signed that schedule every year
+for four years and I would like to be told what I have been signing, **in the
+largest size it might be**."*
+
+**Er darf:** lange Sätze, Jahreszahlen, Berufsstandsargumente, die Grössenangabe
+statt des Gefühls. **Er darf nicht:** Kontraktionen (null), Haustics (null),
+Sympathiebekundungen.
+
+**Körper.** Der Aktenkoffer steht die ganze Szene neben seinem Stuhl und wird
+nicht erwähnt, bis er ihn aufmacht.
+
+---
+
+### Kim Sung-ho (der Vorsitzende der Familie, b1 K26 und K32)
+
+**Drei Repliken, und alle drei sind Anweisungen an andere Leute.**
+
+> *"You work for the woman."* - Feststellung, keine Frage
+> *"Say what control means."* - Befehl im Register der Prinzipalen
+> *"That is enough, Jae-won."* - er beendet den Widerspruch eines Verwandten
+
+**Die Maschine: er redet nie über die Sache, sondern über die Zuständigkeit.**
+Wer im Raum was sagen darf, und wer aufhört. **Er stellt keine einzige Frage im
+ganzen Buch.**
+
+**Er darf:** den Vornamen eines Verwandten als ganzen Satz, die Forderung mit
+Punkt. **Er darf nicht:** erklären, warum. Ein Vorsitzender, der begründet, hat
+schon verloren - und seine Schwester ist die, die begründet.
+
+---
+
+### Mr Ok (b2 K17)
+
+**Vier Repliken, und er ist der Mann, an dem Sims Methode vorgeführt wird.**
+
+**Die Maschine: er schiebt zuerst weg und liefert dann alles.** *"That has
+nothing to do with me,"* - und drei Repliken später die vollständigste
+Personenbeschreibung im Buch, ohne dass jemand nachbohrt.
+
+**Sein Detail ist das, was er für nebensächlich hält:** *"He did not eat
+anything at that lunch, not one thing, and I noticed it because my mother would
+have made a remark."* **Die Beobachtung, die alles trägt, kommt bei ihm mit
+einer Entschuldigung dafür, dass er sie gemacht hat.**
+
+**Und er endet auf der Frage eines Mannes, der nicht weiss, was er getan hat:**
+*"Is there anything I should do?"*
+
+---
+
+### Mr Ku (Fahrer)
+
+**Zwei Repliken im ganzen Buch, und beide sind Ereignisse.** Der Erzähler sagt
+es selbst: *"Then Mr Ku said something on the expressway, about forty minutes
+out, **which he has not done since October**."*
+
+**Er ist die Figur, bei der Schweigen der Normalzustand ist.** Wer ihm eine
+dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
 
 ---
 

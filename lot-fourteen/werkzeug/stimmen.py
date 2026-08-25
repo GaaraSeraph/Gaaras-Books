@@ -27,10 +27,16 @@ import re
 import sys
 import collections
 
+# Wer hier fehlt, ist fuer dieses Programm stumm - und wer stumm ist, kommt in
+# keinen Index und bekommt kein Stimmblatt. Am 25.08. sind so **fuenf Sprecher**
+# durchgefallen, darunter **Nam Byung-hee**, die das halbe Band 2 traegt.
+# Die Liste wird gegen die Sprecher im Text geprueft und nicht aus dem
+# Gedaechtnis gepflegt: `stimmen.py --fehlend`.
 FIGUREN = ["Georgij", "Annie", "Sang-hoon", "Hana", "Jang", "Woo", "Mrs Seo",
            "Ye-rin", "Sim", "Byun", "Chae", "Yeom", "Hwang", "Mrs Jeon", "Mrs Bae",
            "Mrs Gwak", "Mrs Ha", "Kwon", "Moon", "Sohn", "Ahn", "Koh", "Ji-won", "Do-yun", "Sung-ho", "Hong",
-           "Kang", "Pyo", "Ku", "Bae"]
+           "Kang", "Pyo", "Ku", "Bae",
+           "Nam Byung-hee", "Baek", "Ok", "Shin", "Sunwoo", "Eun-ju", "Yeo", "Uhm", "Heo"]
 
 EINHEITEN = {
     "Jahre":    r"\b(year|years)\b",
