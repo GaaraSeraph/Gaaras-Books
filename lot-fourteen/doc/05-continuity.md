@@ -3690,6 +3690,62 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     VERFALLEN-Eintrag des Buches.** Verfallen und nicht offen, weil der Text es
     weiss und sie es selbst so nennt, bevor sie hinfaehrt.
 
+- **Band 2, Kapitel 80** *The only door* (v1.0) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Jang berichtet in seiner Ordnung** (Tatsache, Herkunft, Grenze): Cha nimmt
+    es, gesagt in den ersten vier Minuten; **aber** Jang hat kein Geld gesehen und
+    sagt das ausdruecklich, mit seiner eigenen Fehlerquote dazu. Und zum Grund,
+    warum das Geld dieses Jahr weg muss: *"He did not say and I did not ask,
+    because asking would have made it a thing I was interested in."*
+  - **Verkauft am Freitagmorgen, ein Fuenftel ueber der besten der drei Zahlen**,
+    also genau da, wo Woo es acht Minuten nach dem Verlust in seiner Halle gesagt
+    hatte. Georgij schreibt es auf: *"Woo was right about the price and right
+    about the man, and neither of us has earned that."*
+  - **Die Zahl steht: 481 Millionen Won, liquide am 22. Oktober.** Unteres Ende
+    der Spanne vom 18. September, und **es gibt nichts mehr zu verkaufen, das
+    nicht auffiele.**
+  - **ES GIBT GENAU EINE TUER, UND SIE HEISST MR HWANG.** Die Frau in dem Haus
+    ist eine Konsignation auf einem Buch, das einem Haus gehoert, das abgewickelt
+    wird. Wer das Papier unterschreibt, ist der Mann, der die Abwicklung fuehrt.
+    Georgij hat seit Montag nach einer zweiten gesucht und keine gefunden.
+  - **Und das ist die Falle des ganzen Bandes, jetzt an der aufrichtigsten Figur:**
+    Hwang hat am 9. Januar vor vier Jahren ein Buch nicht genommen und weiss seit
+    Mai, dass die Frau recht hatte. Er ist der einzige Mann im Gewerbe, der
+    aufgehoert hat, Menschen ueber diesen Schreibtisch zu schicken, **und genau
+    deshalb der einzige, dem man es zutrauen kann.** *"A man decided in about May
+    that he would never again put a person through that office, and the first
+    thing the world does with a decision like that is send somebody along with a
+    good reason."*
+  - **Georgij formuliert die Regel des Buches**, ungefragt und auf ihre
+    Aufforderung: *"Somebody gets made by being handed a good reason at the wrong
+    moment."* Ihr Vater 2002. Choi an Sim, elf Jahre. Und er selbst an elf
+    Menschen zwischen Maerz und August.
+  - **ANNIES VERFAHREN, und sie nennt es das Einzige, was sie dieses Jahr gelernt
+    hat:** Hwang erfaehrt alles **vor** seiner Antwort. Name, Haus, Monat, und dass
+    sie im November in einem Lieferwagen sitzt, wenn er nein sagt. *"And then he
+    answers, and whatever he answers is his."*
+  - **Die Selbstbindung, dreimal gesagt:** *"If he refuses after that, we do not go
+    back."* Beim dritten Mal auf ihre Aufforderung hin so, dass er es um vier Uhr
+    morgens noch meint. *"I will hate it, and I will not do it."*
+  - **Die zweite Wand steht ausdruecklich mit auf dem Tisch:** Moon Hae-sook ist
+    kein Kauf, weil es nichts zu kaufen gibt. Sie wird **in derselben Stunde**
+    gefragt und nicht in einem zweiten Gespraech, *"because a second conversation
+    is how a thing gets left"*. Hwang ist moeglicherweise der einzige lebende
+    Mensch, der sagen kann, wie sie in das Haus kam und wer den Sauerstoff zahlt.
+  - **Er geht allein.** Ihre Begruendung: *"If I am in that room he is being asked
+    by a buyer, and he has spent this year deciding what he thinks about buyers."*
+  - **Und sie sagt einmal laut, was das Geld ist**, mit Datum, damit sie es im
+    November nicht anders nennen kann: 481 Millionen in einem Konto mit ihrem Namen
+    darauf, und am Ende ein Formular mit einer Frau darauf. *"It is not noted. It
+    is heard, and that is a different thing."*
+  - **Georgijs eigenes Problem am Schluss, aufgeschrieben, damit er es Donnerstag
+    nicht abstreiten kann:** die Sims-Methode funktionierte, weil er nichts von der
+    Form des Satzes hatte. **Am Donnerstag hat er alles davon.** *"So the sentence
+    has to be built by somebody who is not going to be in the room, and there is
+    nobody."*
+  - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
+
 
 
 ---
