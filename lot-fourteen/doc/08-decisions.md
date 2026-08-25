@@ -96,6 +96,24 @@ Papiere, keine laufende Altersangabe. **Kein Satz muss umgeschrieben werden.**
 
 ---
 
+## Annie erklaert sich in Kapitel 62, und das ist erlaubt, 25.08.
+
+**Vom Autor entschieden.** `doc/12-stimmen.md` fuehrt als Annies staerkste Regel:
+*sie erklaert nie die Sache, sie erklaert **ihn**.* In der neuen Passage in
+Kapitel 62 erklaert sie sich selbst - und das ist **kein Fehler und keine
+Abweichung, die repariert werden darf**.
+
+**Der Grund:** sie ist aufgebracht. Georgij hat ihr gerade gesagt, dass ihr
+Gestaendnis eine Kategorie verwechselt, und er hat es mit ihrem eigenen Satz vom
+sechzehnten Maerz belegt. An dieser Stelle ist der Regelbruch die Figur und
+nicht der Fehler.
+
+**Wer einen Stildurchgang macht, laesst diese Passage stehen.** Sie wuerde sonst
+genau als das auffallen, was sie ist: eine Abweichung von einem gemessenen
+Muster. Sie ist gewollt.
+
+---
+
 ## Entscheidungen
 
 Damit nichts zweimal verhandelt wird. Jeder Eintrag sagt, was entschieden wurde

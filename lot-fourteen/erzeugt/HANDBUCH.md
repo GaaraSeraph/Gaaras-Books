@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 264.312 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 264.505 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5679,7 +5679,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.6) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.7) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -10201,6 +10201,24 @@ Papiere, keine laufende Altersangabe. **Kein Satz muss umgeschrieben werden.**
 
 ---
 
+## Annie erklaert sich in Kapitel 62, und das ist erlaubt, 25.08.
+
+**Vom Autor entschieden.** `doc/12-stimmen.md` fuehrt als Annies staerkste Regel:
+*sie erklaert nie die Sache, sie erklaert **ihn**.* In der neuen Passage in
+Kapitel 62 erklaert sie sich selbst - und das ist **kein Fehler und keine
+Abweichung, die repariert werden darf**.
+
+**Der Grund:** sie ist aufgebracht. Georgij hat ihr gerade gesagt, dass ihr
+Gestaendnis eine Kategorie verwechselt, und er hat es mit ihrem eigenen Satz vom
+sechzehnten Maerz belegt. An dieser Stelle ist der Regelbruch die Figur und
+nicht der Fehler.
+
+**Wer einen Stildurchgang macht, laesst diese Passage stehen.** Sie wuerde sonst
+genau als das auffallen, was sie ist: eine Abweichung von einem gemessenen
+Muster. Sie ist gewollt.
+
+---
+
 ## Entscheidungen
 
 Damit nichts zweimal verhandelt wird. Jeder Eintrag sagt, was entschieden wurde
@@ -12356,6 +12374,7 @@ Nicht anderes Vokabular. Eine andere **rhetorische Maschine**.
 |---|---|---|
 | **Georgij** | Aussage, dann die Rechnung dahinter, dann was es kostet. Endet auf einem Preis | Ja, vollständig |
 | **Annie** | Sie erklärt nie die Sache, sie erklärt **ihn**. Beweismittel ist immer ein **Datum** | Nein, sie stellt eine bessere |
+| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** — siehe `doc/08-decisions.md` | |
 | **Woo** | **Korrektur der Prämisse.** *"Then it is a business." - "No. Hear the whole of it."* | Nein, er berichtigt |
 | **Sim** | **Der andere.** Keine Aussagen über die Welt, sondern Angebote. Information kommt als Höflichkeit verpackt | Er beantwortet die Frage, die er dem anderen gern gestellt hätte |
 | **Jang** | **Sicherheitsstufen.** Sortiert vor der Übergabe in beobachtet / gehört / geraten und mischt nie | Ja, aber ausdrücklich sortiert |
@@ -16907,7 +16926,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 854 | 91 (b1ch01-b2ch79) | 1 | 74 |
+| Annie | 856 | 91 (b1ch01-b2ch79) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 248 | 41 (b1ch07-b2ch79) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -16958,7 +16977,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-854 Nennungen in 91 Kapiteln.
+856 Nennungen in 91 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -17703,10 +17722,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch62:146 | Annie did not answer for a while. |
 | 27 | b2ch62:158 | Annie did not pretend not to know what he meant. |
 | 27 | b2ch62:170 | Annie held his eye for a long moment. |
-| 27 | b2ch62:194 | Annie looked at him. |
-| 27 | b2ch62:208 | Annie got up and went to the window, and stood with her back to the room. |
-| 27 | b2ch62:220 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
-| 27 | b2ch62:254 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
+| 27 | b2ch62:188 | Annie did not sit back again. |
+| 27 | b2ch62:210 | "But you have answered a question about permission," said Annie, "and I did not ask one." |
+| 27 | b2ch62:232 | Annie looked at him. |
+| 27 | b2ch62:246 | Annie got up and went to the window, and stood with her back to the room. |
+| 27 | b2ch62:258 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
+| 27 | b2ch62:292 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
 | 37 | b2ch66:166 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
 | 37 | b2ch66:172 | Annie put the pen down. |
 | 37 | b2ch66:184 | Annie did not say anything for a moment. |
@@ -18022,7 +18043,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch60:168` (Tag 25) - eleven, four
 - `b2ch62:128` (Tag 27) - thirty
 - `b2ch62:136` (Tag 27) - four hundred, thirty, two
-- `b2ch62:220` (Tag 27) - one
+- `b2ch62:210` (Tag 27) - one
+- `b2ch62:258` (Tag 27) - one
 - `b2ch66:240` (Tag 37) - one
 - `b2ch69:190` (Tag 44) - one
 - `b2ch69:250` (Tag 44) - one
@@ -19052,7 +19074,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:150 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 27 | b2ch62:140 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
-| 27 | b2ch62:210 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
+| 27 | b2ch62:248 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -19120,7 +19142,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:126` (Tag 1) - three, twenty
 - `b2ch38:156` (Tag 59) - one, three
 - `b2ch62:140` (Tag 27) - nineteen, one
-- `b2ch62:210` (Tag 27) - thirty
+- `b2ch62:248` (Tag 27) - thirty
 
 ---
 
@@ -19665,7 +19687,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 27 | b2ch61:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
 | 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
-| 27 | b2ch62:244 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
+| 27 | b2ch62:282 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
 | 37 | b2ch66:144 | He sat with that from about seven until Mrs Seo came past at twenty to eight and told hi.. |
 | 44 | b2ch69:14 | Mrs Seo found him in the small room at half past eight on the Wednesday with the folder .. |
 | 44 | b2ch69:258 | "It is the only thing worth giving." She straightened up. "You are going to eat somethin.. |
@@ -21244,7 +21266,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
 | 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:196 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 27 | b2ch62:234 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
 | 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
@@ -21260,7 +21282,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:40` (Tag 22) - nine, three
 - `b2ch60:188` (Tag 25) - four
 - `b2ch60:220` (Tag 25) - four
-- `b2ch62:196` (Tag 27) - eleven, twenty-three
+- `b2ch62:234` (Tag 27) - eleven, twenty-three
 - `b2ch63:58` (Tag 29) - four
 - `b2ch63:188` (Tag 29) - eleven, one
 - `b2ch64:92` (Tag 31) - four, nine, thirty-five

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 79 Kapitel, 195.938 Woerter.
+Book Two, 79 Kapitel, 196.274 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -72,7 +72,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 59 | v1.4 | 2.177 |
 | 60 | v1.3 | 2.443 |
 | 61 | v1.4 | 2.327 |
-| 62 | v1.6 | 2.104 |
+| 62 | v1.7 | 2.440 |
 | 63 | v1.5 | 2.136 |
 | 64 | v1.5 | 2.246 |
 | 65 | v1.5 | 2.130 |
@@ -13243,7 +13243,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13374,6 +13374,36 @@ Annie held his eye for a long moment.
 "There is nothing to accuse you of."
 
 "There is a great deal to accuse me of and you are going to have to be cleverer than that." She sat back. "I did not tell you what I was sending you at. I let you go at it for five months with three quarters of the reason. And when you brought me eight names in June I said take the whole table, and I knew exactly which table it was, and I did not say so."
+
+"Mistress. I think you are misunderstanding something fundamental."
+
+"Which is."
+
+"I am yours. You said so yourself, on the sixteenth of March. I am free for you to use as you wish."
+
+Annie did not sit back again.
+
+"On the eleventh of March I told you that I would not say a thing twice and that you were not to build anything on it," she said. "On the sixteenth I told you to build on that one."
+
+"You did."
+
+"And you have. Five months later, in a chair, while I was telling you what I had done to you." She let that stand where it was. "You could not have picked a worse afternoon for it and you did not pick it at all, which is why I am still sitting here."
+
+She turned the pen a quarter turn on the desk and left it where it was.
+
+"I said it with no end on it and no Tuesday in it. I said I would not have either of us calling it something else in August." Her voice was where it had been all evening. "It is the twenty-third."
+
+"I know what the date is," said Georgij.
+
+"Then you know I am not going to tell you I meant it smaller than you are using it. I said you are mine. I said it out loud in a room with nothing to write it on, and I have not taken it back."
+
+Georgij did not move.
+
+"But you have answered a question about permission," said Annie, "and I did not ask one."
+
+"No, Mistress."
+
+"I have never once wondered whether I was allowed to use you." She said it without any weight on it at all. "You were in this and you did not know you were in it, and there is nothing I said in March that covers that. You have just gone looking for a sentence that would, which is the first time you have done my work for me."
 
 Neither of them said anything for a while.
 
