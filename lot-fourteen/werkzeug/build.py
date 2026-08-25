@@ -114,6 +114,35 @@ def newest_chapters(chapdir):
     return best
 
 
+def projektwurzel(start=None):
+    """Das Projektverzeichnis finden statt es anzunehmen.
+
+    Die Skripte lagen bis zum 25.08. neben chapters/ und haben ihre Wurzel aus
+    dem eigenen Dateipfad abgeleitet. Seit sie in werkzeug/ liegen, geht das
+    nicht mehr. Statt eine feste Ebene hochzugehen, wird nach oben gesucht, bis
+    ein Verzeichnis chapters/ UND doc/ enthaelt - dann laufen sie von ueberall.
+    """
+    import os
+    d = os.path.dirname(os.path.abspath(start or __file__))
+    for _ in range(4):
+        if os.path.isdir(os.path.join(d, "chapters")) and os.path.isdir(os.path.join(d, "doc")):
+            return d
+        p = os.path.dirname(d)
+        if p == d:
+            break
+        d = p
+    return os.path.dirname(os.path.abspath(start or __file__))
+
+
+def erzeugt_dir(root):
+    """HANDBUCH, BEGEGNUNGEN und MANIFEST liegen seit dem 25.08. in erzeugt/,
+    damit im Projektverzeichnis nur die zwei Lesefassungen stehen."""
+    import os
+    d = os.path.join(root, "erzeugt")
+    os.makedirs(d, exist_ok=True)
+    return d
+
+
 def to_paste(md):
     # Die Szenengrenze zuerst aus dem Weg raeumen: "* * *" sieht fuer die
     # Kursiv-Ersetzung darunter wie eine Betonung aus und kaeme als " * "
@@ -346,7 +375,7 @@ def build_register(root, chapters):
                 out.append(f"- `{ref(band, num)}:{i}` (Tag {day if day else '?'}) - "
                            + ", ".join(sorted(set(x.lower() for x in z))))
     text = "\n".join(out) + "\n"
-    write_text(os.path.join(root, "BEGEGNUNGEN.md"), text)
+    write_text(os.path.join(erzeugt_dir(root), "BEGEGNUNGEN.md"), text)
     return sum(1 for n in found if found[n]), text
 
 
@@ -406,7 +435,7 @@ def build_handbook(root, register=None):
         "## Inhalt",
         "",
     ] + toc
-    write_text(os.path.join(root, "HANDBUCH.md"),
+    write_text(os.path.join(erzeugt_dir(root), "HANDBUCH.md"),
                "\n".join(head) + "\n\n---\n\n" + "\n\n---\n\n".join(body) + "\n")
     return len(files) + nreg
 
@@ -443,6 +472,8 @@ def build_reader(root, chapters):
 
 def main():
     root = sys.argv[1] if len(sys.argv) > 1 else "."
+    if not os.path.isdir(os.path.join(root, "chapters")):
+        root = projektwurzel()
     pastedir = os.path.join(root, "paste")
     found = bands(root)
     if not found:
@@ -544,7 +575,7 @@ def main():
                     % ("1 Band" if len(found) == 1 else f"{len(found)} Baende",
                        len(chapters), total))
     manifest.append(f"Handbuch: {ndocs} Dokumente")
-    write_text(os.path.join(root, "MANIFEST.txt"), "\n".join(manifest) + "\n")
+    write_text(os.path.join(erzeugt_dir(root), "MANIFEST.txt"), "\n".join(manifest) + "\n")
 
     for band, chapdir, blabel, sub in found:
         n = sum(1 for c in chapters if c[0] == band)

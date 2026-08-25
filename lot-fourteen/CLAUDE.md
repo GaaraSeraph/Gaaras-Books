@@ -31,8 +31,8 @@ Danach:
 ## Bevor Du etwas abgibst
 
 ```
-python3 check.py chapters/chNN_vX_Y_en.md
-python3 build.py
+python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+python3 werkzeug/build.py
 ```
 
 **Wie geprueft wird, steht in `doc/11-pruefen.md`.** Vier Schritte, um aus einem
@@ -95,9 +95,9 @@ die Kapitelpruefung warnt nur.
 | `CLAUDE.md` | Diese Datei. Die einzige oben, die von Hand bearbeitet wird |
 | `book-band-1.md` | Lesefassung von Band 1 am Stueck. **Erzeugt** |
 | `book-band-2.md` | Lesefassung von Band 2 am Stueck. **Erzeugt** |
-| `HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
-| `BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
-| `MANIFEST.txt` | Baubericht. **Erzeugt** |
+| `erzeugt/HANDBUCH.md` | Lesefassung aller Regeln und des Kanons. **Erzeugt** |
+| `erzeugt/BEGEGNUNGEN.md` | Wer wann vorkommt, mit Tag und Fundstelle. **Erzeugt** |
+| `erzeugt/MANIFEST.txt` | Baubericht. **Erzeugt** |
 
 | Ordner | Was |
 |---|---|
@@ -265,7 +265,7 @@ scheint.
 | `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
-| `HANDBUCH.md` | **Erzeugt.** Alle zehn am Stueck, mit Inhaltsverzeichnis |
+| `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
 

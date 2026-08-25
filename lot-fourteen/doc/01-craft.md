@@ -475,8 +475,8 @@ three weeks answering. Tonight I stop."*
 ### 7. Zum Schluss
 
 ```
-python3 check.py chNN_vX_Y_en.md
-python3 build.py . .
+python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+python3 werkzeug/build.py
 ```
 
 Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.

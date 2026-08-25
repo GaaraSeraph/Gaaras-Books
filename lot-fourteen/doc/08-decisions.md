@@ -1,5 +1,41 @@
 # Entscheidungen und Verworfenes
 
+## Das Projektverzeichnis haelt nur noch die zwei Lesefassungen, 25.08.
+
+**Vom Autor gewuenscht.** In `lot-fourteen/` lagen neben `book-band-1.md` und
+`book-band-2.md` noch vier Skripte, drei erzeugte Dokumente, eine README und
+vier Dateien lokalen Muells. Jetzt:
+
+| | |
+|---|---|
+| `werkzeug/` | `build.py`, `check.py`, `reader.py`, `zuschreibung.py` |
+| `erzeugt/` | `HANDBUCH.md`, `BEGEGNUNGEN.md`, `MANIFEST.txt` |
+| `doc/00-readme.md` | war `README.md` |
+| geloescht | `live.txt`, `chapters_live.txt`, `chapters-2_live.txt`, `__pycache__/` (nie verfolgt) |
+
+**`CLAUDE.md` bleibt liegen, und das ist keine Nachlaessigkeit.** Claude Code
+laedt die Datei ueber ihren Ort. Wer sie verschiebt, nimmt allen drei Sitzungen
+ihre Anweisungen weg.
+
+**Die Aufrufe haben sich geaendert:**
+
+    python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+    python3 werkzeug/build.py
+
+**Und der eigentliche Eingriff steckt nicht im Verschieben.** `check.py` und
+`zuschreibung.py` haben ihr Projektverzeichnis aus **dem eigenen Dateipfad**
+abgeleitet (`os.path.dirname(os.path.abspath(__file__))`). Ein blosses
+Verschieben haette sie sofort und still kaputtgemacht: sie haetten
+`werkzeug/doc/` und `werkzeug/chapters/` gesucht. Beide **suchen die Wurzel
+jetzt**, statt sie anzunehmen - nach oben, bis ein Verzeichnis `chapters/` und
+`doc/` enthaelt. Damit laufen sie von ueberall, auch aus der Repo-Wurzel.
+
+**Geprueft:** `book-band-1.md` und `book-band-2.md` sind nach dem Umbau
+**byte-identisch** (gleiche Pruefsumme wie vorher). Die Action ist nachgezogen,
+sowohl die zwei Aufrufe als auch die Liste der zurueckzuschreibenden Dateien.
+
+---
+
 Damit nichts zweimal verhandelt wird und Gestrichenes nicht durch Zufall zurueckkommt.
 
 ---

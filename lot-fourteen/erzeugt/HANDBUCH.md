@@ -2,12 +2,13 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 198.273 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 198.560 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
 ## Inhalt
 
+- [Lot Fourteen. Literarischer Roman, laufende Arbeit. Suedkorea, Gegenwart,](#lot-fourteen-literarischer-roman-laufende-arbeit-suedkorea-gegenwart)  ·  `doc/00-readme.md`
 - [Handwerk](#handwerk)  ·  `doc/01-craft.md`
   - [0. Die Wortzahl ist keine Schere](#0-die-wortzahl-ist-keine-schere)
   - [1. Bandwurmsaetze](#1-bandwurmsaetze)
@@ -229,6 +230,24 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Im](#mr-im)
   - [Mrs Ryu](#mrs-ryu)
   - [Mr Ok](#mr-ok)
+
+---
+
+Lot Fourteen. Literarischer Roman, laufende Arbeit. Suedkorea, Gegenwart,
+Chaebol-Milieu. Manuskript auf Englisch, Absprachen auf Deutsch.
+
+<img src="cover/lot-fourteen.jpg" alt="Cover: Lot Fourteen" width="360">
+
+chapters/   die Kapitel, chNN_vX_Y_en.md; der Build nimmt immer die hoechste Version
+doc/        die acht Quelldokumente (craft, leads, cast, world, continuity, plot, next, decisions)
+cover/      Coverbild
+
+Start mit CLAUDE.md. Dort stehen die Formatregeln, die Stimme und die
+Kontinuitaets-Fallen.
+
+Lesefassung je Band: book-band-1.md und book-band-2.md. Alle Regeln und der Kanon am Stueck:
+HANDBUCH.md. Wie viele Kapitel es gibt und wie lang sie sind: MANIFEST.txt, vom
+Build geschrieben. Was als Naechstes kommt: doc/07-next.md.
 
 ---
 
@@ -709,8 +728,8 @@ three weeks answering. Tonight I stop."*
 ### 7. Zum Schluss
 
 ```
-python3 check.py chNN_vX_Y_en.md
-python3 build.py . .
+python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+python3 werkzeug/build.py
 ```
 
 Dann `doc/01-craft.md` fuer alles, was ein Programm nicht entscheiden kann.
@@ -8675,6 +8694,42 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
 
 # Entscheidungen und Verworfenes
 
+## Das Projektverzeichnis haelt nur noch die zwei Lesefassungen, 25.08.
+
+**Vom Autor gewuenscht.** In `lot-fourteen/` lagen neben `book-band-1.md` und
+`book-band-2.md` noch vier Skripte, drei erzeugte Dokumente, eine README und
+vier Dateien lokalen Muells. Jetzt:
+
+| | |
+|---|---|
+| `werkzeug/` | `build.py`, `check.py`, `reader.py`, `zuschreibung.py` |
+| `erzeugt/` | `HANDBUCH.md`, `BEGEGNUNGEN.md`, `MANIFEST.txt` |
+| `doc/00-readme.md` | war `README.md` |
+| geloescht | `live.txt`, `chapters_live.txt`, `chapters-2_live.txt`, `__pycache__/` (nie verfolgt) |
+
+**`CLAUDE.md` bleibt liegen, und das ist keine Nachlaessigkeit.** Claude Code
+laedt die Datei ueber ihren Ort. Wer sie verschiebt, nimmt allen drei Sitzungen
+ihre Anweisungen weg.
+
+**Die Aufrufe haben sich geaendert:**
+
+    python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+    python3 werkzeug/build.py
+
+**Und der eigentliche Eingriff steckt nicht im Verschieben.** `check.py` und
+`zuschreibung.py` haben ihr Projektverzeichnis aus **dem eigenen Dateipfad**
+abgeleitet (`os.path.dirname(os.path.abspath(__file__))`). Ein blosses
+Verschieben haette sie sofort und still kaputtgemacht: sie haetten
+`werkzeug/doc/` und `werkzeug/chapters/` gesucht. Beide **suchen die Wurzel
+jetzt**, statt sie anzunehmen - nach oben, bis ein Verzeichnis `chapters/` und
+`doc/` enthaelt. Damit laufen sie von ueberall, auch aus der Repo-Wurzel.
+
+**Geprueft:** `book-band-1.md` und `book-band-2.md` sind nach dem Umbau
+**byte-identisch** (gleiche Pruefsumme wie vorher). Die Action ist nachgezogen,
+sowohl die zwei Aufrufe als auch die Liste der zurueckzuschreibenden Dateien.
+
+---
+
 Damit nichts zweimal verhandelt wird und Gestrichenes nicht durch Zufall zurueckkommt.
 
 ---
@@ -9767,7 +9822,7 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    **Offen bleiben zwei, die `check.py` nicht meldet:** ***"not going to
    pretend"*** steht in Band 1 **kein einziges Mal** und in Band 2 in neun
    Kapiteln, und ***"said it flatly"*** in 24 von 80 Kapiteln. Vollstaendig mit
-   `python3 check.py --echoes`.
+   `python3 werkzeug/check.py --echoes`.
 
 6. **Ermessensfaelle aus dem dritten Durchgang**, bewusst stehengelassen:
    Kapitel 13 Z.212 und Z.230 (Georgij bei Woo, dieselbe Haltung wie bei
@@ -9937,8 +9992,8 @@ gab.
 **Nicht die Prosa.** An keiner einzigen Textstelle sind sich zwei Sitzungen in
 die Quere gekommen. Kollidiert sind drei Dinge, und alle drei sind loesbar:
 
-1. **Die erzeugten Dateien.** `book-band-1.md`, `book-band-2.md`, `HANDBUCH.md`,
-   `MANIFEST.txt`, `BEGEGNUNGEN.md`, `paste/`. Jede Sitzung baut beim Commit
+1. **Die erzeugten Dateien.** `book-band-1.md`, `book-band-2.md`, `erzeugt/`
+   (HANDBUCH, BEGEGNUNGEN, MANIFEST) und `paste/`. Jede Sitzung baut beim Commit
    alles neu, und jeder Neubau beruehrt alle achtzig Kapitel. **Das war die
    Ursache von drei Konflikten an einem Tag.**
 2. **Der Kanon.** Wenn die Inhaltssitzung Woos Alter oder Byuns Abgang aendert,
@@ -10029,7 +10084,7 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 2. Die eigenen Aenderungen dort **auf die fremde Fassung neu aufsetzen**, je
    eine Nummer hoeher. Nicht cherry-picken: das legt die eigene, niedrigere
    Nummer daneben und faellt genau in die stille Haelfte von oben.
-3. `build.py`, `check.py`, ein Commit, pushen.
+3. `werkzeug/build.py`, `werkzeug/check.py`, ein Commit, pushen.
 4. Im geteilten Baum `git reset --mixed origin/main` und `git checkout --`
    **nur** fuer die eigenen Pfade. Fremde uncommittete Arbeit bleibt unberuehrt.
 5. Danach `git status` lesen und pruefen, ob dabei eine fremde Datei aus dem
@@ -10499,9 +10554,9 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 
 | | Was es prüft | Eicht sich selbst |
 |---|---|---|
-| `check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
-| `zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
-| `build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
+| `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
+| `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
+| `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
 eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`.

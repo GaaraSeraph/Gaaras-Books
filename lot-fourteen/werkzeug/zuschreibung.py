@@ -65,6 +65,27 @@ SPEAK = re.compile(r"(?:said|says|asked)\s+([A-Z][A-Za-z-]+(?:\s+[A-Z][A-Za-z-]+
 _WORD = {}
 
 
+def projektwurzel(start=None):
+    """Das Projektverzeichnis finden statt es anzunehmen.
+
+    Die Skripte lagen bis zum 25.08. neben chapters/ und haben ihre Wurzel aus
+    dem eigenen Dateipfad abgeleitet. Seit sie in werkzeug/ liegen, geht das
+    nicht mehr. Statt eine feste Ebene hochzugehen, wird nach oben gesucht, bis
+    ein Verzeichnis chapters/ UND doc/ enthaelt - dann laufen sie von ueberall.
+    """
+    import os
+    d = os.path.dirname(os.path.abspath(start or __file__))
+    for _ in range(4):
+        if os.path.isdir(os.path.join(d, "chapters")) and os.path.isdir(os.path.join(d, "doc")):
+            return d
+        p = os.path.dirname(d)
+        if p == d:
+            break
+        d = p
+    return os.path.dirname(os.path.abspath(start or __file__))
+
+
+
 def sentences(text):
     body = "\n".join(text.split("\n")[4:])
     body = body.replace("---", " ").replace("* * *", " ")
@@ -155,7 +176,7 @@ def eichung(root):
 
 
 if __name__ == "__main__":
-    root = os.path.dirname(os.path.abspath(__file__))
+    root = projektwurzel()
     print("Zuschreibung")
     bestanden = eichung(root)
     if "--eichung" in sys.argv:

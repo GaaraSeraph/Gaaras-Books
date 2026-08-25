@@ -101,4 +101,4 @@ b2  ch64  v1.0       2290 Woerter  ch64_v1_0_en.md
 b2  ch65  v1.0       2195 Woerter  ch65_v1_0_en.md
 
 Gesamt: 2 Baende, 99 Kapitel, 261874 Woerter
-Handbuch: 13 Dokumente
+Handbuch: 14 Dokumente

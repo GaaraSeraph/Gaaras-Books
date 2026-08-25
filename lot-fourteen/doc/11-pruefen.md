@@ -116,9 +116,9 @@ Arbeitsteilung: **lesen findet die Klasse, das Skript findet den Rest.**
 
 | | Was es prüft | Eicht sich selbst |
 |---|---|---|
-| `check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
-| `zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
-| `build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
+| `werkzeug/check.py` | Satzlänge, Datumszeilen, Versionsnummern, Zahl-Konstanten, Formeln | nein |
+| `werkzeug/zuschreibung.py` | Zuschreibungsfehler nach Klasse 1 | **ja**, und meldet sonst nichts |
+| `werkzeug/build.py` | erzeugt die Lesefassungen; nie von Hand auflösen | — |
 
 **Die zwei stehenden `check.py`-Fehler sind geprüft und bleiben.** Sie melden
 eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`.

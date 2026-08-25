@@ -32,6 +32,26 @@ NAME = re.compile(r"^ch(\d{2})_v(\d+)[._](\d+)_en\.md$")
 # aufgeschrieben. Zwei Listen desselben Inhalts driften auseinander, und dann
 # prueft check.py einen Ordner, den build.py nicht baut, oder umgekehrt.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+def projektwurzel(start=None):
+    """Das Projektverzeichnis finden statt es anzunehmen.
+
+    Die Skripte lagen bis zum 25.08. neben chapters/ und haben ihre Wurzel aus
+    dem eigenen Dateipfad abgeleitet. Seit sie in werkzeug/ liegen, geht das
+    nicht mehr. Statt eine feste Ebene hochzugehen, wird nach oben gesucht, bis
+    ein Verzeichnis chapters/ UND doc/ enthaelt - dann laufen sie von ueberall.
+    """
+    import os
+    d = os.path.dirname(os.path.abspath(start or __file__))
+    for _ in range(4):
+        if os.path.isdir(os.path.join(d, "chapters")) and os.path.isdir(os.path.join(d, "doc")):
+            return d
+        p = os.path.dirname(d)
+        if p == d:
+            break
+        d = p
+    return os.path.dirname(os.path.abspath(start or __file__))
+
 from build import BANDS, bands as band_dirs  # noqa: E402
 
 
@@ -769,7 +789,7 @@ def formel_report(best, knapp=False):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = {a for a in sys.argv[1:] if a.startswith("--")}
-    root = os.path.dirname(os.path.abspath(__file__))
+    root = projektwurzel()
 
     global MEHRBANDIG
     best = {}

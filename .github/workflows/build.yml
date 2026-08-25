@@ -23,16 +23,16 @@ jobs:
       - name: Erzeugte Dateien neu bauen
         run: |
           for proj in */; do
-            [ -f "$proj/build.py" ] || continue
-            python3 "$proj/build.py" "$proj"
+            [ -f "$proj/werkzeug/build.py" ] || continue
+            python3 "$proj/werkzeug/build.py" "$proj"
           done
 
       - name: Kapitel pruefen (blockiert nicht)
         continue-on-error: true
         run: |
           for proj in */; do
-            [ -f "$proj/check.py" ] || continue
-            python3 "$proj/check.py" "$proj"/chapters/*.md || true
+            [ -f "$proj/werkzeug/check.py" ] || continue
+            python3 "$proj/werkzeug/check.py" "$proj"/chapters/*.md || true
           done
 
       - name: Ergebnis zurueckschreiben
@@ -47,7 +47,7 @@ jobs:
           # || true verschluckt es. So sah es lange aus wie ein Erfolg,
           # waehrend BEGEGNUNGEN.md - hier bis heute gar nicht genannt -
           # nie zurueckgeschrieben wurde.
-          for gen in book.md book-band-1.md book-band-2.md HANDBUCH.md MANIFEST.txt BEGEGNUNGEN.md paste; do
+          for gen in book.md book-band-1.md book-band-2.md erzeugt paste; do
             git add "*/$gen" 2>/dev/null || true
           done
           git add '*/chapters/*.txt' 2>/dev/null || true

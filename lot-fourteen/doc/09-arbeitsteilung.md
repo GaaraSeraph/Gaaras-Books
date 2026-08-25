@@ -150,7 +150,7 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
    **Offen bleiben zwei, die `check.py` nicht meldet:** ***"not going to
    pretend"*** steht in Band 1 **kein einziges Mal** und in Band 2 in neun
    Kapiteln, und ***"said it flatly"*** in 24 von 80 Kapiteln. Vollstaendig mit
-   `python3 check.py --echoes`.
+   `python3 werkzeug/check.py --echoes`.
 
 6. **Ermessensfaelle aus dem dritten Durchgang**, bewusst stehengelassen:
    Kapitel 13 Z.212 und Z.230 (Georgij bei Woo, dieselbe Haltung wie bei
@@ -320,8 +320,8 @@ gab.
 **Nicht die Prosa.** An keiner einzigen Textstelle sind sich zwei Sitzungen in
 die Quere gekommen. Kollidiert sind drei Dinge, und alle drei sind loesbar:
 
-1. **Die erzeugten Dateien.** `book-band-1.md`, `book-band-2.md`, `HANDBUCH.md`,
-   `MANIFEST.txt`, `BEGEGNUNGEN.md`, `paste/`. Jede Sitzung baut beim Commit
+1. **Die erzeugten Dateien.** `book-band-1.md`, `book-band-2.md`, `erzeugt/`
+   (HANDBUCH, BEGEGNUNGEN, MANIFEST) und `paste/`. Jede Sitzung baut beim Commit
    alles neu, und jeder Neubau beruehrt alle achtzig Kapitel. **Das war die
    Ursache von drei Konflikten an einem Tag.**
 2. **Der Kanon.** Wenn die Inhaltssitzung Woos Alter oder Byuns Abgang aendert,
@@ -412,7 +412,7 @@ Verfahren, das am 24.08. funktioniert hat, in fuenf Schritten:
 2. Die eigenen Aenderungen dort **auf die fremde Fassung neu aufsetzen**, je
    eine Nummer hoeher. Nicht cherry-picken: das legt die eigene, niedrigere
    Nummer daneben und faellt genau in die stille Haelfte von oben.
-3. `build.py`, `check.py`, ein Commit, pushen.
+3. `werkzeug/build.py`, `werkzeug/check.py`, ein Commit, pushen.
 4. Im geteilten Baum `git reset --mixed origin/main` und `git checkout --`
    **nur** fuer die eigenen Pfade. Fremde uncommittete Arbeit bleibt unberuehrt.
 5. Danach `git status` lesen und pruefen, ob dabei eine fremde Datei aus dem
