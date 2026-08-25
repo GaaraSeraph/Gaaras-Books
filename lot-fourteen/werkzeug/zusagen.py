@@ -13,6 +13,13 @@ Was nicht geprueft wird, driftet.** Also wird es geprueft.
     python3 zusagen.py --neu        Zusagen im Text, die im Buch fehlen
     python3 zusagen.py --alle       auch die bezahlten einzeln
 
+**Jede Zusage ist entweder zeitgebunden oder ereignisgebunden**, und `faellig
+offen` gibt es nicht mehr. Eine Zusage ohne genannte Frist hat trotzdem einen
+Ausloeser - *wenn sie herauskommt*, *wenn es vorbei ist*, *wenn er den Namen hat* -
+und wer den nicht hinschreibt, kann spaeter nicht pruefen, ob er eingetreten ist.
+`faellig bei <Ereignis>` ist die Form dafuer, und wer keins von beidem hinschreibt,
+wird gemeldet.
+
 Vier Zustaende: OFFEN, BEZAHLT, VERFALLEN und KEINE. **KEINE ist der wichtigste
 von den vieren**, weil `--neu` sonst dieselben dreizehn Fundstellen bis in alle
 Ewigkeit meldet und man nach der zweiten Woche aufhoert hinzusehen. Was einmal
@@ -39,7 +46,7 @@ BUCH = os.path.join(WURZEL, "doc", "13-zusagen.md")
 
 ZEILE = re.compile(
     r"^- \[(OFFEN|BEZAHLT|VERFALLEN|KEINE)\]\s+\*\*(B[12]) (\d+)\*\*\s+(.+?)\s+·\s+"
-    r"gesagt Tag (\d+)\s+·\s+faellig (Tag (\d+)|offen)\s+·\s+(.+?)\s+·\s+(.+?)\s*$")
+    r"gesagt Tag (\d+)\s+·\s+faellig (Tag (\d+)|bei (.+?)|offen)\s+·\s+(.+?)\s+·\s+(.+?)\s*$")
 
 ZUSAGE = re.compile(r"\b(I will|I am going to|you will|I shall|I promise)\b")
 FRIST = re.compile(
@@ -126,7 +133,8 @@ def lies_buch():
                     "kap": int(m.group(3)), "wer": m.group(4),
                     "gesagt": int(m.group(5)),
                     "faellig": int(m.group(7)) if m.group(7) else None,
-                    "zitat": m.group(8).strip('*" '), "eingeloest": m.group(9),
+                    "ereignis": m.group(8),
+                    "zitat": m.group(9).strip('*" '), "eingeloest": m.group(10),
                 })
     return eintraege, None
 
@@ -142,7 +150,7 @@ def stand(alle=False):
     print(f"Erzaehlstand: Tag {heute} "
           f"({letzte[-1][0]} Kapitel {letzte[-1][1]})\n")
 
-    ueberfaellig, offen, bezahlt = [], [], []
+    ueberfaellig, offen, bezahlt, ereignis, ohne = [], [], [], [], []
     for e in eintraege:
         if e["status"] == "KEINE":
             continue
@@ -150,8 +158,12 @@ def stand(alle=False):
             bezahlt.append(e)
         elif e["faellig"] and e["faellig"] < heute:
             ueberfaellig.append(e)
-        else:
+        elif e["faellig"]:
             offen.append(e)
+        elif e.get("ereignis"):
+            ereignis.append(e)
+        else:
+            ohne.append(e)
 
     if ueberfaellig:
         print(f"UEBERFAELLIG ({len(ueberfaellig)})")
@@ -162,18 +174,33 @@ def stand(alle=False):
         print()
 
     if offen:
-        print(f"OFFEN ({len(offen)})")
-        for e in sorted(offen, key=lambda x: (x["faellig"] or 99999)):
-            wann = f"Tag {e['faellig']}, in {e['faellig'] - heute}" \
-                if e["faellig"] else "ohne Frist"
+        print(f"OFFEN, ZEITGEBUNDEN ({len(offen)})")
+        for e in sorted(offen, key=lambda x: x["faellig"]):
+            wann = f"Tag {e['faellig']}, in {e['faellig'] - heute}"
             print(f"  {e['band']} {e['kap']:2d}  {wann:20s} {e['wer']}")
+        print()
+
+    if ereignis:
+        print(f"OFFEN, EREIGNISGEBUNDEN ({len(ereignis)})")
+        for e in sorted(ereignis, key=lambda x: x["ereignis"]):
+            print(f"  {e['band']} {e['kap']:2d}  bei {e['ereignis']}")
+            print(f"          {e['wer']}")
+        print()
+
+    # Eine Zusage ohne Tag und ohne Ereignis kann nie geprueft werden. Das ist
+    # kein offener Faden, sondern ein unsichtbarer, und deshalb ist es ein Fehler.
+    if ohne:
+        print(f"OHNE FAELLIGKEIT ({len(ohne)}) - weder Tag noch Ereignis. "
+              f"Jede davon bekommt eins oder wird geloescht.")
+        for e in ohne:
+            print(f"  Zeile {e['zeile']:4d}  {e['band']} {e['kap']:2d}  {e['wer']}")
         print()
 
     print(f"BEZAHLT ({len(bezahlt)})")
     if alle:
         for e in bezahlt:
             print(f"  {e['band']} {e['kap']:2d}  {e['wer']} -> {e['eingeloest']}")
-    return 1 if ueberfaellig else 0
+    return 1 if (ueberfaellig or ohne) else 0
 
 
 def neu():
