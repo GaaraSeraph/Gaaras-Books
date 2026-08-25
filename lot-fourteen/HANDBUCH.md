@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 195.093 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 196.728 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -172,6 +172,17 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Sohn (kocht ohne Schild)](#mr-sohn-kocht-ohne-schild)
   - [Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage](#ahn-jung-hee-noch-keine-stimme-und-das-ist-die-wichtigste-offene-frage)
   - [Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)](#zivilisten-die-gie-erin-nachbarn-ladenpersonal)
+  - [Park Sang-hoon (101 Repliken, 26 Kapitel)](#park-sang-hoon-101-repliken-26-kapitel)
+  - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
+  - [Kim Ye-rin (17 Repliken)](#kim-ye-rin-17-repliken)
+  - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
+  - [Mr Kwon (14 Repliken)](#mr-kwon-14-repliken)
+  - [Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)](#mr-hong-10-repliken-61-jahre-neunzehn-jahre-derselbe-tisch)
+  - [Mrs Sunwoo (8 Repliken, 81 Jahre)](#mrs-sunwoo-8-repliken-81-jahre)
+  - [Mr Byun (11 Repliken)](#mr-byun-11-repliken)
+  - [Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)](#kang-ji-hoon-kim-do-yun-12-und-8-repliken)
+  - [Shin (4 Repliken)](#shin-4-repliken)
+  - [Die kleinen Rollen](#die-kleinen-rollen)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -10545,6 +10556,54 @@ ist Georgijs Maschine mit Blumentöpfen darin.
 
 ---
 
+## Der Index: alle dreiunddreißig, die sprechen
+
+**Gezählt am 25.08.** über beide Bände, zugeordnet nur, wo genau ein Name in der
+Zeile steht. Das ist die Arbeitsliste für den Stil-Durchgang: **jede Figur mit
+einem Blatt kann repariert werden, jede ohne nicht.**
+
+| Figur | Repliken | Kapitel | Die Maschine |
+|---|---|---|---|
+| **Georgij** | 585 | 95 | Aussage, Rechnung, Preis. Endet auf einem Preis |
+| **Annie** | 231 | 64 | Erklärt **ihn**, nie die Sache. Beweismittel ist ein Datum |
+| **Chairman Woo** | 105 | 26 | Korrigiert die Prämisse, statt zu antworten |
+| **Park Sang-hoon** | 101 | 26 | Das Lob mit der Klinge. Und er beendet Gespräche selbst |
+| **Hana Seo-yeon** | 58 | 13 | Die Anmerkung. Sie kommentiert den Raum, während er läuft |
+| **Jang** | 45 | 13 | Sicherheitsstufen: beobachtet, gehört, geraten. Mischt nie |
+| **Sim** | 29 | 5 | Der andere. Angebote statt Aussagen |
+| **Mr Hwang** | 27 | 4 | Vorwegnahme. Sagt das Belastende zuerst |
+| **Mr Yeom** | 26 | 7 | Die Abkürzung. Nimmt dem anderen den Umweg ab |
+| **Mrs Jeon Mi-ja** | 23 | 8 | Der Vorgang, nie die Person |
+| **Mrs Seo** | 20 | 15 | Dienstplan. Rechnet alles in Haushaltsfolgen um |
+| **Kim Ye-rin** | 17 | 8 | Berichtigt, wer was hat |
+| **Mr Chae** | 14 | 7 | Die Form. Struktur ja, Zweck nie |
+| **Mr Kwon** | 14 | 5 | Der flache Bericht ohne Weichmacher |
+| **Mr Ahn** | 13 | 2 | Der Gegenstand in der Hand. Fristen für alles |
+| **Kang Ji-hoon** | 12 | 3 | Der Amtston, und darunter nichts |
+| **Mr Byun** | 11 | 3 | Der Handelsbrauch. *"I did what was done."* |
+| **Mr Hong** | 10 | 7 | Die Führung. Stellt Leute über ihre Schwächen vor |
+| **Kim Do-yun** | 8 | 4 | Das Minimum |
+| **Mrs Sunwoo** | 8 | 4 | Die Zahl zuerst. *"Forty-one years."* |
+| **Mrs Bae** | 8 | 6 | Der Gegenstand ist das Buch |
+| **Choi Dae-ho** | **0** | 0 | **Er hat noch nie gesprochen. Siehe unten** |
+| **Mrs Gwak** | 7 | 2 | Assoziation, über ihren Mann |
+| **Shin** | 4 | 1 | Redet zu seinen Lastwagen, nicht zu Menschen |
+| **Mr Sohn** | 4 | 2 | Erinnert Bestellungen, nicht Menschen |
+| **Ahn Jung-hee** | 4 | 3 | **Noch keine freie Stimme. Siehe unten** |
+| **Ji-won** | 3 | 1 | Erleichterung, etwas beantworten zu können |
+| **Mr Ku** | 3 | 3 | Fährt und sagt Zeiten |
+| **Mr Koh** | 3 | 1 | Der Satz, den ein Mann nicht sagt |
+| **Chef Bang** | 1 | 1 | Verbeugt sich zweimal |
+| **Mrs Uhm** | 1 | 1 | Kopiert, was zu kopieren ist |
+| **Baek Jun-ho** | 1 | 1 | Noch offen |
+| **Eun-ju** | 1 | 1 | Der Bus |
+
+**Wer unten kein eigenes Blatt hat, hat die Maschine aus der Tabelle und sonst
+nichts** - das ist Absicht bei Figuren unter fünf Repliken. Wer wächst, bekommt
+eins.
+
+---
+
 ## Die Blätter
 
 ### Georgij
@@ -10673,6 +10732,149 @@ diesem Haus nichts einbringt.**
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
 Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,
 die nicht im Gewerbe sind, und das muss man hören.**
+
+---
+
+### Park Sang-hoon (101 Repliken, 26 Kapitel)
+
+**Die größte Lücke im Register bis zum 25.08.** Er redet mehr als Woo und hatte
+kein Blatt.
+
+**Seine Maschine ist das Lob mit der Klinge darin.** Er sagt einem Menschen
+präzise, was der Mensch ist, und die Präzision ist die Drohung. *"It would be a
+great pity if you were ordinary."* *"There are about ninety of them. You're the
+only one who has worked it out."* Er schmeichelt nie ungenau, und deshalb glaubt
+man ihm.
+
+**Und er beendet Gespräche selbst**, was in diesem Buch außer ihm nur Annie tut:
+*"I am now going to eat and you are going to let me."*
+
+**Er sagt den Satz, den sonst niemand sagt** — über sich selbst zuerst. In
+Kapitel 26 zählt er vier Entscheidungen auf, die er an Chois Tischen getroffen
+und nie erklären konnte, und er tut es unaufgefordert.
+
+**Verboten:** die Und-Kette. Er baut kurz und schlägt zu.
+
+### Hana Seo-yeon (58 Repliken)
+
+**Ihre Maschine ist die Anmerkung.** Sie beschreibt den Raum, während er läuft,
+und sagt dem anderen, was er gerade getan hat. *"Nobody asks that. It is the most
+flattering thing you can say to an old man."*
+
+**Ihr Anliegen ist nicht der Fall, sondern ob sie recht hat.** Sie schätzt
+Menschen laut ein und will hören, ob es stimmt.
+
+**Drei Prozent Unvorsichtigkeit, und die sind gewählt** (`doc/03-cast.md`).
+*"Half of what I say on a terrace I say on purpose."* Wer sie geschwätzig
+schreibt, schreibt gegen Kapitel 11.
+
+### Kim Ye-rin (17 Repliken)
+
+**Sie berichtigt, wer was hat.** Kurz, absolut, immer über Besitz und Stellung.
+*"Her brother has the title. She has the family."* Kein Wort über Gefühle, keine
+Frage, die sie nicht selbst beantwortet.
+
+### Mr Chae (14 Repliken)
+
+**Der Zeichner der Instrumente. Struktur ja, Zweck nie.** Er fragt, wofür etwas
+ist, schreibt die Antwort auf und stellt keine zweite Frage. Annie über ihn:
+*"Mr Chae will not be told why and he will not enjoy it."* **Das ist seine
+Charakterisierung und er weiß nichts davon.**
+
+### Mr Kwon (14 Repliken)
+
+**Der flache Bericht, aus dem der Weichmacher entfernt ist.** Er spricht aus
+Türrahmen und sagt Dinge zu Ende. *"Not a second. Not one of those things where a
+person takes a breath first."* Er stellt fest, wann etwas **nicht** passiert ist.
+
+### Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)
+
+**Die Führung.** Er stellt Menschen über ihre Schwächen vor, herzlich, in einem
+Zug, und merkt nicht, dass er das tut. *"Chairman Woo, who you have already met,
+and who will invite you to Yeongjong and then be extremely offended by whatever
+you say about it."*
+
+**Er ist die Quelle der Berater-Legende**, weil er die Frage nach der Ausbildung
+gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
+sollte** — Woo, Sunwoo und Choi.
+
+### Mrs Sunwoo (8 Repliken, 81 Jahre)
+
+**Die Zahl zuerst.** *"Forty-one years."* Sie beginnt mit einer Dauer und macht
+sie dann zu einer Aussage. *"I have bought from that house for forty-one years
+and I have never once been given a reason to raise my voice in it."*
+
+**Sie beendet nie einen Satz ganz** — vierzig Jahre lang niemandem etwas ganz
+erzählt. Wer sie ausreden lässt, schreibt gegen Kapitel 3.
+
+### Mr Byun (11 Repliken)
+
+**Der Handelsbrauch.** Er verteidigt sich nicht, weil er nicht begreift, dass es
+etwas zu verteidigen gibt. *"I took money for a service that this house had been
+selling since before I sat down in that chair. I did what was done."* Sechsund-
+zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
+
+### Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)
+
+**Der Amtston, und darunter nichts.** Beide reden in Zuständigkeiten. Do-yuns
+Gesicht tut nichts, und das ist seine Replik. Sie sind austauschbar **mit
+Absicht** — sie sind das Milieu und keine Menschen, und das darf man hören.
+
+### Shin (4 Repliken)
+
+**Er redet zu seinen eigenen Lastwagen und nicht zu dem Mann neben ihm.** *"Shin
+was looking at his own trucks and not at Georgij."* Seine Maschine: er beschreibt
+eine Lage über die Bewegung von Dingen. Wartezeiten, Ladereihenfolgen, wer wann
+fährt.
+
+### Die kleinen Rollen
+
+**Ji-won** antwortet erleichtert, weil sie etwas gefragt wurde, das sie
+beantworten kann, und redet dann zu viel. **Eun-ju** ist der Bus aus Nowon.
+**Mr Ku** sagt Zeiten. **Mrs Uhm** kopiert, was zu kopieren ist, ohne eine
+Sekunde nachzudenken. **Chef Bang** verbeugt sich zweimal, einmal in den Saal,
+einmal zu dem Tisch, der ihn gekauft hat.
+
+**Mr Koh** hat drei Repliken und eine davon trägt ihn: *"I have not said that out
+loud to anybody. Not to my wife. Not to the two men I drink with. It is not a
+thing a man says."* Wenn er wieder auftritt, kommt er von dort.
+
+**Baek Jun-ho** hat eine Replik und steht noch bevor. **Seine Stimme ist offen
+und muss entschieden werden, bevor Kapitel 65 oder 66 ihn anfasst.** Vorschlag:
+ein Mann, der elf Jahre lang Rechnungen abgezeichnet hat, redet in
+Verantwortlichkeiten und nicht in Beträgen.
+
+---
+
+## Choi Dae-ho hat noch nie gesprochen
+
+**Nachgezählt am 25.08.: null Repliken in achtundneunzig Kapiteln.** Jeder Treffer
+auf seinen Namen in einer Dialogzeile ist ein anderer Mensch, der über ihn redet.
+
+**Das ist kein Versehen, es ist die Figur.** `doc/03-cast.md`: *"Er sitzt in
+nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden -
+er gibt Abendessen."* Ein Mann, der nie einen Auftrag erteilt, sagt auch nichts,
+was zitiert werden kann.
+
+**Woraus zwei Regeln folgen:**
+
+1. **Er bekommt bis zum Endgespräch keine einzige Replik.** Keine Rückblende, kein
+   Telefonat, kein wiedergegebener Satz aus zweiter Hand, der als Zitat gebaut
+   ist. Wer ihm vorher eine Zeile gibt, gibt neunundneunzig Kapitel Aufbau her.
+2. **Und wenn er dann spricht, muss die Stimme bereits im Buch sein.** Sie steht
+   da, in fremden Mündern, und ist über vier Bände Fundstellen konsistent:
+
+> *"It has been good to see you again"* - zu Menschen, die er nie getroffen hat,
+> ausgerichtet von Sim und von Yeom, viermal belegt.
+
+**Das ist sein ganzes Register:** die vorweggenommene Vertrautheit. Er behandelt
+jeden so, als sei die Beziehung schon geschlossen, und der andere kann nicht
+widersprechen, ohne unhöflich zu sein. **Er stellt genau eine Frage** (Woo, 2002:
+*"who I would telephone if it went badly"*), er isst nichts, und er erklärt nie
+etwas.
+
+**Die Probe für das Endgespräch:** kein Satz von ihm darf eine Rechtfertigung
+sein. Er hat nie eine gebraucht und wird an dem Abend nicht damit anfangen.
 
 ---
 
