@@ -1,0 +1,346 @@
+# Chapter 41: The name he books under
+*Lot Fourteen* · Version 2.4 · EN
+
+## Day Two Hundred and Sixty-Two · Monday 22 June
+
+He had written the number down on Friday and he kept to it, and it was harder than he had expected by about the third one.
+
+---
+
+Six kitchens. He had chosen them on Sunday evening from the list of rooms that take a private booking, weighted by how long the same person had been cooking in them. A room that has kept its cook is a room that has kept its memory.
+
+---
+
+He went in through the back of all six, in the middle of the afternoon, in the two hours when a kitchen has nothing to do and talks to whoever is standing in it.
+
+---
+
+He told every one of them the same true thing. That he was looking for a man, that he was asking for himself and not for anybody official, and that he was not going to explain why in their kitchen. Four of the six accepted that without a second thought, which told him something about how often men come to kitchens with worse questions.
+
+---
+
+The first three gave him nothing.
+
+---
+
+One had changed its cook eighteen months ago. One took private bookings so rarely that the woman at the desk could list all of them from memory and none of them fit. The third had a cook who had been there nine years and remembered a great many pleasant older men, which is the same as remembering none.
+
+---
+
+Three hours, three kitchens, three more lines on the second page.
+
+---
+
+The fourth was different, and he knew it in the first minute, because the man stopped what he was doing.
+
+"You mean the one who asks about the stock," he said.
+
+---
+
+Georgij put his hands in his coat pockets so that they would have something to do.
+
+"Say more."
+
+"Older man, very pleasant. He came four or five times over the years, always a private room, always with somebody else, and he always came out to the pass on his way through and asked what was in something." The cook wiped down a board he had already wiped. "Not the way people ask. He listened to the answer. And he used my name afterward, which nobody does, because nobody learns it."
+
+"When was the last one?"
+
+"Two years, near enough. Possibly more." He thought about it. "I could not swear to a month."
+
+"Did he book it himself?"
+
+"He is not the sort of man who is on the door, if that is what you are asking. Somebody books and somebody pays and it is not always the same one, and I am at the other end of the building for both of those." The cook shrugged. "Ask the front. Ask Mrs Bae at the fifth place if you want a woman who has never in her life forgotten a booking."
+
+---
+
+Georgij thanked him, and went out through the back, and stood in the alley for a moment.
+
+---
+
+*Four or five times over the years, in one room, in one part of the city. That is not a man who is careful. That is a man who is careful about the things he has decided are the dangerous ones, and a cook is not on his list.*
+
+---
+
+## Day Two Hundred and Sixty-Three · Tuesday 23 June
+
+Mrs Bae keeps the front of a place with eleven tables and two private rooms, and she has kept it for twenty-two years, and she keeps the book herself in pencil because a pen cannot be changed cleanly.
+
+---
+
+She did not like him for the first four minutes and she did not pretend otherwise, which he preferred.
+
+"You are asking me about a customer," she said.
+
+"I am."
+
+"Then you know what I am going to say."
+
+"I do, and I am going to ask anyway, and then I am going to accept the answer and go." Georgij stood on the customer side of her desk and did not lean on it. "I am not from a newspaper and not from a ministry and there is nothing official anywhere in this. If you tell me to leave I will leave, and nobody will come after me who is worse than me."
+
+---
+
+Mrs Bae looked at him for a while.
+
+"That last part is a strange thing to promise."
+
+"It is the only part I can promise, so it is the one I said."
+
+---
+
+She turned the book round on the desk, which is not the same as answering.
+
+"Describe him."
+
+"Older. Very pleasant. He books a private room, he pays before the meal instead of after, and he pays cash. He eats everything on the plate and he leaves before the coffee." Georgij kept his hands where they were. "And on his way out he stops at the kitchen and asks what went into something, and then he uses the cook's name."
+
+---
+
+Mrs Bae put one finger on the edge of the book and left it there.
+
+"He has been coming here for nine years," she said.
+
+---
+
+Georgij did not say anything at all, because there was nothing to say that would not have been in the way.
+
+"Twice a year, sometimes three times. Never the same month twice running." She was not looking at him now, she was looking at the desk. "He pays first, in an envelope, and he has never once queried a bill or asked for a receipt, and he tips the room and not the person, which means everybody gets some, which means everybody likes him."
+
+"Say the name on the booking."
+
+---
+
+She did not turn a page. She did not need to.
+
+"Sim," said Mrs Bae.
+
+---
+
+The front of a restaurant with eleven tables did the ordinary things that a front of a restaurant does, and Georgij stood in the middle of it and did not move for slightly longer than he would have liked.
+
+---
+
+He has had that name since the thirtieth of May.
+
+It was written in a corner box on a florist's carbon copy in Hyoja-dong, in the hand of a man who copied cards into a book because a card is the only part of it anybody keeps. Twelve white stems, no wrap, twice, to an address that was not allowed a room number.
+
+And it is the name of a man who rang Mr Yeom four years ago and told him it was good to see him again. Yeom knows it and will not say it, and has kept it out of a principle that has nothing to do with any of this.
+
+"You have gone very quiet," said Mrs Bae.
+
+"I have. I am going to tell you why, because you have given me something and walking out with it for nothing would be theft." Georgij put both hands flat on the front of her desk at last. "I already had that name. I have had it for three weeks and I have been treating it as a man who makes telephone calls. You have just told me it is also the name he eats under, in this room, for nine years."
+
+"Then it is not his name."
+
+"No. A man does not use his own name for nine years in a room where he pays cash in an envelope."
+
+---
+
+Mrs Bae closed the book, unhurried, and put her hand flat on the cover.
+
+"I have given you a thing I should not have given you," she said. "I would like to know why I did."
+
+"Because I described him to you before I asked, and everything I said was right, and none of it was the sort of thing a man could have got from a list." He said it without any softness in it. "You already knew somebody was going to come and ask about him one day. Most people who keep a book that long do."
+
+---
+
+She did not agree with that out loud.
+
+"He is a pleasant man," she said instead. "That is the part nobody is going to believe when this is over. He is genuinely pleasant, and my staff are pleased when the booking comes in, and I do not think he has ever done a single thing in this building that anybody could complain about."
+
+"I know," said Georgij. "That is what he is for."
+
+---
+
+He did not go to the sixth kitchen.
+
+---
+
+He stood outside Mrs Bae's for a moment and did the arithmetic, and it came out the same however he arranged it. He had said six and he had used five, and stopping under a number is not the same as going over one.
+
+---
+
+*Five of six. The sixth is not cancelled, it is unspent, and I am writing that down here so that it does not quietly become a seventh in ten days.*
+
+---
+
+Then the other half, and he made himself write that down as well, in the same hand and on the same page, because a man who only writes down his good afternoons is keeping a different sort of book.
+
+---
+
+*Five kitchens in two days. Mrs Bae, a cook who knows he asks about the stock, three rooms that gave me nothing and were asked anyway.*
+
+*I have asked five kitchens in one trade about a man whose entire method is being liked by kitchens. He will hear it. Not this week and probably not this month, and he will hear it.*
+
+*I knew that on Friday and I went on Monday.*
+
+* * *
+
+He gave the evenings to the doctor, because the part of that man that could be found at all could be found sitting down.
+
+---
+
+There was a faster way, and there had been one since March.
+
+---
+
+The ministry publishes its list once a year. Behind the list sits the office that keeps it, and the office that keeps it is four men in Sejong sharing one machine and a password rule nobody has rewritten since the office was set up. Georgij had looked at it in April, for about as long as it takes to be sure, the way a man looks at a door he does not intend to open. He could have had every house-call registration in the country before lunch, including the ones the annual list leaves out.
+
+---
+
+The laptop had been on the desk in the small room since his first week in the house. Annie had put it there herself, with a telephone face down beside it, and in eight months nobody had ever asked him what he did with it.
+
+---
+
+He was not going to use it, and the reason had nothing to do with any rule Annie had ever given him.
+
+---
+
+Paper leaves no handwriting. Every register he had read this year, every ledger and every reservation book, had been read by a man who could have been anybody, and the reading had left nothing behind that pointed at a house on the river. A machine is not like that. A machine remembers who came in and at what hour, and it remembers it in a form somebody can put in a folder and hand to a careful man later, as a favour.
+
+---
+
+Choi Dae-ho reads handwriting. It is the only thing about him Georgij is certain of, and it is why the whole of this year has been done slowly, by hand, on purpose.
+
+---
+
+A house call four years ago, in July, with the travelling costing about three times the attendance. Annie had already told him what that meant: a piece of paper made by somebody who was not in the trade, and had never needed to learn how to make one disappear.
+
+---
+
+He started with the licence.
+
+A doctor who does house calls has to register the practice as one that does house calls, because the insurance is different. The registration is public. The ministry that issues it publishes a list once a year so that patients can check who is allowed to come to their door.
+
+---
+
+Four years ago there were eleven practices in the whole country registered for house calls at a rate that would explain a bill three times the size of the visit itself. Most house-call medicine is cheap, because most of it is old people in the same city who cannot get to a clinic. A bill that size is not a city bill.
+
+---
+
+He crossed off six inside an hour. Two were paediatric, which made no sense against anything he had. Two had closed within the year, one to retirement and one to a merger, and neither had existed long enough before that to have been doing this four years ago in July specifically. Two were in Busan and Daegu, four and five hours respectively from anywhere the flowers or the car had ever pointed.
+
+---
+
+He wrote each of the six down before he crossed them off, because a list that only shows what survives is a worse list than one that shows what was ruled out and why. Mrs Jeon had taught him that without meaning to, the first time she opened the exercise book and he saw forty lines that were not accusations, only records.
+
+---
+
+That left five. One of the five belonged to a hospital group large enough that a single house call routed through an auction house would have been noticed by somebody in the group's own accounts long before now. Groups that size audit themselves for reasons that have nothing to do with honesty and everything to do with tax, and a stray invoice does not survive four years inside a structure like that. He crossed it off as well.
+
+---
+
+That left four, and of the four, two did ordinary long-distance work for wealthy families who wanted a specific doctor and did not mind paying for the drive. He telephoned both and asked, truthfully and without saying why, whether they still did that kind of work. Both did, cheerfully, and neither had any reason to be careful about the answer, because neither had anything to hide.
+
+---
+
+That left two.
+
+---
+
+One had a name on it that meant nothing to him. The other did not have a name on it at all. The licence had lapsed three years ago and nobody had filed to close it properly, which is a different thing from closing. It is the kind of gap a careful man leaves when he stops needing a cover rather than stops working.
+
+---
+
+Georgij sat with that for a while, at the desk, before he wrote it down.
+
+---
+
+*Lapsed licence, not closed licence. A practice that was allowed to disappear rather than told to. Nobody chose that. It simply happened, and it was allowed to.*
+
+---
+
+The address on the lapsed registration was a clinic in Jung-gu that had become, according to the building's own records, a dental office eighteen months ago. He did not go and look at it. Looking at a dental office would have told him nothing that the paper had not already told him, and he had spent the daylight of both those days in other people's kitchens.
+
+---
+
+The other of the two, the one whose name meant nothing to him, took longer to close out, because closing it out properly meant reading rather than guessing.
+
+---
+
+He found the doctor's own professional record with the medical association, which is a different register from the ministry's and keeps things the ministry does not. Continuing education credits. Malpractice history, if there is one. The date a doctor last renewed, and whether a colleague vouched for the renewal, which most licensing bodies require and most doctors treat as a formality nobody reads.
+
+---
+
+This one had been vouched for, every year, by two colleagues in the same district hospital, and both of them still worked there. Both answered when the hospital's own switchboard put the call through, and both remembered him as an ordinary, slightly dull man who had done twenty years of unremarkable house calls before retiring to look after a sick wife. Nothing about him bent.
+
+---
+
+He crossed that name off last of all, and it was the crossing off that told him the most, because it meant the shape he was looking for was not two men who fit the same pattern. It was one man, working alone, whose own colleagues had long since stopped being able to vouch for him from close enough to notice anything at all.
+
+---
+
+He had, by the end of the afternoon, exactly one name.
+
+---
+
+He telephoned Annie from the small room instead of going to find her, because it felt like the kind of thing that should stay on a telephone even inside the same house.
+
+"I have a licence that lapsed instead of closing," he said, "three years after a house call that cost three times what it should have. I have not gone anywhere and I have not spoken to anybody who could carry the question back to where it came from."
+
+"Say the name that is on it."
+
+"Dr Oh Seung-min. I do not know if that is a real name or a licensed one that somebody borrowed. I am not going to find out by asking, because asking is the one thing on this list that is not free."
+
+"Say the rest of what you have on him," said Annie.
+
+"Registered for house calls nine years ago, before any of this started. The licence went unpaid three years back, not disputed, not contested, simply not renewed. Nobody at the ministry followed up, because a licence that lapses quietly looks exactly like a man who retired or died, and neither of those gets a phone call." Georgij kept the notebook open in front of him without looking at it. "The registered address in Jung-gu is a dental office now. I have not been to look at it and I am not going to be the one who does."
+
+"Say his age."
+
+"The professional record gives a birth year that would make him fifty-eight now." Georgij paused there. "If the licence is real and belonged to him the whole time, he would have been fifty-four when he made that visit. Old enough to have been doing this for decades. Young enough to still be doing it now, somewhere, under a name that has not lapsed."
+
+---
+
+Annie was quiet on the line for a moment.
+
+"You did all of that at a desk, in the evenings, after five kitchens," she said.
+
+"I told you I would, standing in this same room, and I have thought about that sentence every hour since."
+
+"You did, and I have watched you keep smaller promises than that one for longer than a week now, so I am not surprised. I am pleased, which is not the same thing, and I do not say it often enough to be sure you can tell the difference when I do."
+
+"I did all of that at a desk, and I did not go near the one address you asked me to stay away from." He sat with the notebook closed in front of him. "I would like it on the record that the slow half of this week was the half that produced a name."
+
+"Noted," said Annie quietly, and there was something in the one word that was almost warmth. "Give the name to nobody but me. Not Sang-hoon, not Jang, not the notebook if you can help it."
+
+"Say why not the notebook," said Georgij.
+
+"Because a name that only exists in your head and mine cannot be read over your shoulder," she said, "and I have started assuming, this month, that everything on paper is eventually read by somebody it was not written for." She said it without drama, as a fact rather than a fear.
+
+---
+
+He did not write it down again after that. He had already written it once, and he sat looking at the two words for a while before he decided that once was going to have to be enough of a record, and closed the notebook on it.
+
+Tearing the page out would have said more about the name than keeping it did. He left it where it was, one line among a hundred others, and trusted that a single true fact does not announce itself just because he knows what it costs.
+
+"What happens to Dr Oh," he said.
+
+"Nothing happens to Dr Oh today," said Annie. "Today he becomes a name in a drawer that only two people can open." She set the pen down. "He stays there until Sang-hoon's registry work tells us whether the building outside Wonju and the lapsed licence are pointing at the same four owners, or two different ones."
+
+"And if they are two different owners."
+
+"Then we have found a second man doing the same thing for a different reason, and I would rather know that now than assume it away because one answer was tidier than two." Annie let a moment pass. "But I do not think it will be two. A method this specific does not get invented twice by accident in the same country in the same decade."
+
+"And if they are the same."
+
+"Then we will have found, in two evenings, without one door opened, the thing that has stood between a locked building and a name for four years," said Annie. "And you will have found the other half in five kitchens, which is the loud way, and I am not going to pretend I know yet which of the two we are going to end up paying for."
+
+---
+
+Georgij sat alone in the small room with the window going dark.
+
+He thought about a doctor who did house calls for a rate that only made sense for the very rich. A man who had let his own licence die quietly rather than be caught not renewing it. A man who had, four years ago in July, driven somewhere that cost three times what the visit was worth, to see a person whose name went into a book as six characters and a lot number.
+
+---
+
+He sat there for a while and thought about how little of the day had actually cost anything, and how much it had still managed to weigh.
+
+He wrote one more line before he put the notebook away for the night.
+
+---
+
+*He did not close the door. He let it swing shut on its own and walked away before anybody heard it.*
+
+*That is not a man who thinks he is finished being useful. That is a man keeping a door he might need again.*
+
+*Fifty-four, four years ago. Fifty-eight now, somewhere, if the register has not lied to itself as well as to everyone else.*

@@ -1,0 +1,336 @@
+# Chapter 36: An empty table
+*Lot Fourteen* · Version 2.2 · EN
+
+## Day Two Hundred and Forty-Nine · Tuesday 9 June
+
+Annie gave him the three things on Monday evening, in the room off the library, with the folder closed on the desk between them the whole time she talked.
+
+---
+
+Thirty-one names by Sunday. Eleven of them had something happen to them within a year of sitting at that table that they had never afterward been able to explain to their own satisfaction.
+
+*"He is not a financier. He does not own anything."* Hong had been right about that, and right in the particular way that turns out to matter: everything traced to Choi Dae-ho stopped one hand before it reached him. Except one thing. A property holding company in Gangwon-do, four owners deep, that pays the operating costs of a private nursing home outside Wonju.
+
+A nursing home that does not put names on its doors and does not confirm who is inside it to anybody who telephones.
+
+"That is the second address," said Georgij.
+
+"I have not confirmed that yet," said Annie. "I have confirmed that it is the sort of place your description matches." Annie set the folder down. "The money for it comes from a man who owns nothing and somehow pays for a building in a province he has no other business in at all."
+
+"And the third thing."
+
+---
+
+Annie had looked at him for a while before she answered that one.
+
+"Once," she said. "Eleven years ago, before any of the people I spoke to knew him the way they know him now."
+
+"Say what you have got, even if it is not a name."
+
+"A room, a wedding that did not happen, and a man who left the country for four years afterward." She paused. "He came back changed enough that two people used the word unrecognisable to me, independently, in different rooms, in the same week." Annie kept her hands flat on the folder. "Nobody I found would say who was in the room with him. Two of them stopped the conversation entirely when I asked a second time."
+
+---
+
+She had not offered anything further and he had not asked for it, because a thing that makes grown men stop talking twice is not a thing you get on a Monday evening with time still on the clock.
+
+"And the eleven," he said. "The ones something happened to."
+
+---
+
+Annie opened the folder for the first time since he had come in and turned it round so it faced him.
+
+It was the way Mrs Jeon had turned the exercise book, the way she herself had turned the letter for Mrs Jeon.
+
+---
+
+Eleven names in a column, and against each one a single line. A firm that lost a licence it had held for thirty years. A marriage that ended within four months of a dinner nobody outside it could explain. A man who resigned from a board he had built, citing health, and was dead within the year of something the death certificate did not specify. None of the eleven lines said Choi Dae-ho anywhere on them.
+
+"You are not going to give me the names," said Georgij.
+
+"No. Eight of the eleven are alive, and none of them know why it happened to them, and I am not going to hand you eight more people to feel responsible for on top of the ones you already have." Annie closed the folder. "You have Mrs Jeon and Mrs Gwak. That is enough weight for one week."
+
+"Tomorrow you will give him the property and the home," said Annie, at the door. "Not the shop, not her name and not the street. He has people who can walk a registry without either of our faces on it, and they will walk it better knowing what they are looking for."
+
+"And Thursday?"
+
+"Thursday was Thursday," she said. "I have had four days since, and so has he."
+
+* * *
+
+Tuesday came in wet, the first real rain since the middle of May. Sang-hoon was at his own table for it, not a launch or a shed but a private room above a restaurant Georgij had not been to before.
+
+"You are on time," said Sang-hoon. He had a bowl in front of him that he had not touched and did not look as though he intended to. "I want that noted, because I told you Tuesday and did not say what hour, and you decided for yourself that punctual meant early."
+
+"It seemed the correct read of it."
+
+"It was." He poured nothing and did not offer to. "Say it."
+
+---
+
+Georgij noticed the bowl before he answered, and noticed himself noticing it, and put the observation away for later without saying anything about it out loud.
+
+---
+
+Georgij sat down across from him.
+
+"I have something on him now that is not only your word and mine," he said, "and it did not exist a week ago. A habit, said in an identical shape, four years apart, to two people who had never met each other and never will. A property in Gangwon-do that traces to him through four owners and pays for a nursing home outside Wonju that will not confirm who is inside it."
+
+---
+
+Sang-hoon did not move.
+
+"That is more than a habit," he said, "and it is more than I had this morning."
+
+"It is more than a habit and it is less than the four things you actually asked me for. I do not have the four decisions. I have the shape of one building he is paying to keep quiet, and it is not what you told me to bring you."
+
+"You are telling me you have failed," said Sang-hoon, and did not say it unkindly.
+
+"I am telling you I have half of it," said Georgij, "and I would rather hand you an honest half than a whole thing I have padded to look finished."
+
+---
+
+The rain went on outside the window and neither of them looked at it.
+
+"Say the nursing home again."
+
+"Outside Wonju. It does not put names on the door and it will not confirm anyone by telephone. There is a person in it who received flowers twice, three weeks apart, moved there from an address in the city, and had a doctor's visit paid for through a lot number where a name should have gone." Georgij put both hands flat on the table before he went on. "I do not know who that person is. I have chosen not to find out yet, because finding out means going near a building that Choi Dae-ho pays for, and Annie has not let anyone go near it until we understood more than we did on Wednesday."
+
+"Annie has not let you," said Sang-hoon.
+
+"No."
+
+---
+
+Sang-hoon sat back.
+
+"That is either the most sensible thing anybody has told me all year," he said, "or it is the first time in eight months I have watched you let somebody else decide when you move, and I am trying to work out which one I am looking at."
+
+"Both," said Georgij. "It does not have to be only one."
+
+---
+
+Something in Sang-hoon's face eased by a fraction that a stranger would not have caught.
+
+"Good answer," he said. "Now. The four."
+
+"I do not have them yet. I have not had time to look, because the last five days went into the man and not the decisions, and I am not going to pretend that was the plan from the start. It was not. It was where the evidence happened to lead."
+
+---
+
+Sang-hoon considered that for what felt like a long time and was probably eleven seconds.
+
+"Then here is what happens next," he said. "You are going to go and find the four, because that is still owed and I have not forgiven the debt. And I am going to make my own inquiries about a nursing home outside Wonju, quietly, through people who have never heard your name or mine in the same sentence."
+
+"That was not the arrangement."
+
+"There was no arrangement," said Sang-hoon. "There was a man who told me he needed four days, and the four days are over. I did not spend them doing nothing either." He watched that land. "I have had somebody looking at Gangwon-do land registries since Saturday, on a hunch that had nothing to do with you." He watched that land. "It is an interesting thing to discover that we have been circling the same building from two different roads."
+
+---
+
+Georgij went very still.
+
+"You knew before I told you."
+
+"I suspected before you told me. There is a difference, and you have been the one drawing it all week, on the telephone and everywhere else." Sang-hoon almost smiled, which is not a thing he does often. "I did not say it first because I wanted to hear whether you would."
+
+---
+
+The rain eased outside and started again, harder.
+
+"What do you want from the building," said Georgij.
+
+"Nothing, yet. I want to know who owns it under the four owners." Sang-hoon looked at him directly. "A chain that long is not built to hide a nursing home. It is built to hide the fact that somebody with a great deal of money is frightened of one specific person finding out he pays for it, and I do not think that person is you."
+
+---
+
+Georgij did not answer that immediately, because it deserved thought and not a reflex.
+
+"Say who you think it is," said Georgij.
+
+---
+
+Sang-hoon looked at the window for a moment before he answered, and Georgij had the sense, not for the first time that morning, that the rain was doing some of his thinking for him.
+
+"I do not know yet," said Sang-hoon. "But I have been at that man's table for eight years." He set his cup down. "There is exactly one subject he has never once brought up in front of me, in eight years, over dinners where he has discussed everything else that could be discussed. He has never once mentioned a woman."
+
+---
+
+Neither of them said anything for a while, and the rain filled the space where a sentence would otherwise have gone.
+
+---
+
+Sang-hoon stood without finishing anything on the table in front of him.
+
+"Find your four," he said. "I will find mine. And when we have both got what we came for, we are going to sit at a table again, and this time I am going to choose what is on it."
+
+---
+
+He went, and left Georgij sitting in a private room above a restaurant with the rain running down a window that had never once, in the whole conversation, been the thing either man was actually looking at.
+
+---
+
+A waiter came in to clear the table Sang-hoon had not eaten from, and stopped in the doorway when he saw it had one occupant instead of two.
+
+"Will there be anything else, sir."
+
+"No. Thank you."
+
+---
+
+The waiter took the two untouched cups and the pot that had gone cold without either of them drinking from it.
+
+Georgij sat there for a while after he had gone. He thought about a man who has had dinner with somebody for eight years without once eating in front of him. And a man across the table from that man today who had not eaten either, though for an entirely different reason.
+
+---
+
+It occurred to him, on the stairs down, that he did not know which of the two habits was the more dangerous one to have learned.
+
+---
+
+He found Mr Ku with the car under the awning, out of the worst of it. He got in without being asked whether he wanted the heater on, because it was June, and Mr Ku knows the difference between cold and something else that looks like it from the outside.
+
+---
+
+Georgij wrote one line in the notebook before the car pulled away.
+
+*Eight years. Never once a woman. Find out why not.*
+
+---
+
+He did not ask her for the eight again.
+
+---
+
+He had decided that on the stairs down, before the car, and he told her so at the desk that evening so that she would not have to spend the week wondering whether he would.
+
+"You were right about the eight," said Georgij. "I am not going to come back to it in a fortnight when it is more convenient. If they come to me some other way that is a different thing, and I will tell you when it happens."
+
+---
+
+Annie had the folder in front of her and had not opened it.
+
+"Say why you have stopped wanting them, because you have not."
+
+"I have not stopped wanting them. I have stopped needing them." He put the sheet with the thirty-one names on the desk, folded once, and left it folded. "Eight people it happened to is a case. I have been building a case for two weeks without once asking myself who it would be presented to. There is no room. There is no panel and no prosecutor and no page in a newspaper that will run it, because at the end of every line the man is not there."
+
+"Then the eight are worth nothing to you."
+
+"The eight are worth everything to the eight." He said it evenly. "They are worth nothing against him, and I have been treating them as though they were evidence, which is a thing I would like to have noticed on my own."
+
+---
+
+Annie sat back.
+
+"Then say what the other twenty-three are for."
+
+"They are what he has." Georgij put one finger on the folded edge and left it there. "He does not own a company. He does not sit on anything. There is nothing on this earth to take off that man except that people come when he telephones. Thirty-one is not a case against him."
+
+---
+
+He stopped and let it be exactly the length it was.
+
+"Thirty-one is an empty table."
+
+---
+
+The room did the thing it does when a sentence arrives somewhere neither person had put it.
+
+"Say it in the order you would do it," said Annie.
+
+"I go to them one at a time and I tell them what was done to them. I do not accuse him of anything, because he has never once claimed anything and there is nothing to disprove." He kept his hands flat. "Each one of them decides. I do not decide for them, and I do not ask them for anything. Any other version of it fails, because a man who has been argued into something argues himself back out of it within a month."
+
+"And you start with."
+
+"The ones who stopped." He turned the sheet over without unfolding it. "Four of the thirty-one stopped being invited. Three of those come apart in an hour, because one died, one went to Vancouver and one retired with a dinner and a wristwatch. The fourth stopped five years ago and is alive and still in the trade at the same address."
+
+"Say why him and not somebody easier."
+
+"Because a man who has been dropped has no line back to the man who dropped him." He said it without any pleasure in it. "He cannot carry a word of it home even if he wants to. And he has had five years to work out what he did wrong, and nobody has ever told him."
+
+---
+
+Annie was quiet for long enough that he heard the hall.
+
+"You are going to take something off him," she said.
+
+"I am."
+
+"Say what."
+
+---
+
+Georgij thought about that properly, because it was the right question and because she had asked it before he had.
+
+"His explanation," he said. "He has one by now. Everybody does, and after five years it has stopped hurting. Mine will be better than his and he will know it as soon as he hears it, and he will not be able to put the old one back afterward."
+
+"That is a real thing to take off a man."
+
+"It is. I am going to take it anyway, and I am saying so in this room, because the alternative is finding out in eight weeks that I have stopped saying it."
+
+---
+
+Annie opened the folder then, and shut it again without taking anything out, which is a thing she does when she has decided something and is checking it once more on the way past.
+
+"The same two conditions as April," she said.
+
+"Yes, Mistress."
+
+"Say them."
+
+"Not one untrue word, including at the end, including when somebody asks me why." He did not hurry it. "And when it is finished I come to this room and tell you whether I enjoyed it, and it is the true answer and not the one that is easier to say in here."
+
+"And the second one is still open from April," said Annie.
+
+"It is."
+
+"I know it is. I have known since the thirtieth of April." She put both hands flat on the folder. "You gave me one sentence on a train and you have not given me the rest, and I let it stand, and I am going to go on letting it stand. I am not having it paid to me in a hurry on a Tuesday because it has become uncomfortable to carry."
+
+---
+
+Georgij did not answer that at all, and she did not require him to.
+
+"Thursday," she said. "Not tomorrow. Tomorrow you would go with today still on you, and that man has waited five years and can wait two days."
+
+---
+
+* * *
+
+He wrote it up in the small room afterward, and then he did something he had not done since October, which was to start a second page.
+
+---
+
+The first page has been the same page all year. What he has found, in the order he found it.
+
+---
+
+The second one is shorter and it is going to get longer.
+
+---
+
+*Who knows that somebody is asking.*
+
+*Mrs Gwak, since the thirtieth of May, and the girl who was filling buckets at the back of that shop while we talked.*
+
+*Whoever at that home outside Wonju has now taken a telephone call asking who lives there.*
+
+*Annie, thirty-one times, and every one of them believes it was a woman being polite about a dinner.*
+
+*From Thursday, one more, and he will know exactly what it is for.*
+
+---
+
+He sat and looked at the two pages next to each other for a while.
+
+---
+
+He has spent this whole year finding people by what they left behind without meaning to. A slip in a corner box. A carbon copy. A name written in a hand that copied cards because a card is the only part of it anybody keeps.
+
+---
+
+There is no version of the next four weeks in which he does not leave the same thing behind, in the same quantity, for exactly the sort of man who reads it.
+
+---
+
+*Page one is what I have. Page two is what I have spent.*
+
+*I have never kept the second page before, and it was not because there was nothing on it.*

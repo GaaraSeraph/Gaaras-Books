@@ -212,18 +212,50 @@ greift sie dort und zaehlt dort, und traegt eine neue im selben Commit nach.**
     die, die auf die Plattform geht. Die HTML-Lesefassung desselben Kapitels hat
     zweiundneunzig `<hr>`.
 
-    **Warum das hier steht und nicht schon gemacht ist:** Eine mechanische Regel
-    reicht nicht. Der naechstliegende Griff - jeden Trenner zwischen zwei
-    Repliken loeschen - nimmt 730 Stueck weg und laesst immer noch einen je 1,8
-    Absaetze stehen. Auf Band-1-Dichte kaeme man nur, indem man rund
-    fuenfzehnhundert Trenner einzeln beurteilt, und das ist die Seitengestalt von
-    vierzig Prozent des Buchs. **Das ist eine Entscheidung des Autors und keine
-    Reparatur.**
+    **Entschieden und erledigt am 25.08.** Der Autor hat die Entscheidung
+    abgegeben (*"ist mir relativ egal, es muss halt gut sein"*), also steht
+    hier, wie sie gefallen ist und woran.
 
-    Die drei moeglichen Antworten: (a) so lassen und die Ungleichheit zwischen
-    den Baenden hinnehmen, (b) eine Zieldichte festlegen und den Bestand darauf
-    bringen, (c) nur die Regel fuer neue Kapitel festschreiben und den Altbestand
-    stehen lassen.
+    **Die Regel kam nicht aus dem Kopf, sondern aus Band 1.** Gemessen, an
+    welcher Grenze ein Trenner steht:
+
+    | vor einer Replik | Band 1 | Band 2 |
+    |---|---|---|
+    | Rede - Rede | 6 % | 68 % |
+    | Erzaehlung - Rede | 8 % | 85 % |
+    | Beat - Rede | 3 % | 80 % |
+
+    | nach einer Replik | Band 1 | Band 2 |
+    |---|---|---|
+    | Rede - Erzaehlung | 35 % | 98 % |
+    | Rede - Beat | 36 % | 99 % |
+
+    **Band 1 waehlt, Band 2 nicht.** Bei achtzig bis neunundneunzig Prozent ist
+    der Trenner kein Mittel mehr, sondern Zeichensetzung. Und die zwei hoechsten
+    Werte von Band 1 stehen beide **hinter** einer Replik, die drei niedrigsten
+    **davor**. Daraus die Regel, positiv:
+
+    > **Der Takt-Trenner markiert die Stille nach einem Satz, nicht den Anlauf
+    > zu einem. Er steht hinter einer Replik, nie unmittelbar davor.**
+
+    **2742 Trenner entfernt, in allen 68 Kapiteln von Band 2.** Band 2 steht
+    danach bei **einem je 3,1 Absaetzen** statt 1,4. Keine Prosa angefasst -
+    `faktenspur.py` meldet null bewegte Zahlen, und der Unterschied zwischen
+    alter und neuer Fassung sind ausschliesslich Leerzeilen.
+
+    **Band 1 bleibt unangetastet, und das ist kein Versehen.** Dort stehen 145
+    Trenner vor einer Replik, bei drei bis acht Prozent - also gewaehlt, und
+    jeder von ihnen ist ein Themenwechsel: *"That one you may thank me for." /
+    --- / "There is a second thing and it is smaller."* **Die Regel verbietet
+    die Automatik, nicht die Wahl.**
+
+    **Was bleibt und bewusst bleibt:** Band 2 steht bei 3,1 gegen Band 1s 8,4.
+    Die restlichen Trenner sitzen alle hinter einer Replik oder zwischen zwei
+    Erzaehlabsaetzen - also an Band 1s bevorzugten Stellen, nur dichter. Das ist
+    eine andere Textur und kein Fehler mehr: Band 2 hat mehr Szenen, mehr
+    Personen und kuerzere Beats. **Wer es weiter zurueckbauen will, muss lesen
+    und nicht rechnen** - die verbleibenden 2220 sind nicht mehr mechanisch
+    trennbar.
 
 11. **Der Ton-etikettierende Beat, und das ist der grosse offene Posten.**
     Gezaehlt am 24.08. Die beiden Formeln aus Punkt 5 sind nicht die Krankheit,
