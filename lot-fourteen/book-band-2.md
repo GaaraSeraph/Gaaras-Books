@@ -72,7 +72,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 59 | v1.1 | 2.217 |
 | 60 | v1.1 | 2.516 |
 | 61 | v1.1 | 2.330 |
-| 62 | v1.1 | 2.136 |
+| 62 | v1.2 | 2.136 |
 | 63 | v1.2 | 2.158 |
 | 64 | v1.1 | 2.509 |
 | 65 | v1.1 | 2.175 |
@@ -12938,7 +12938,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13090,7 +13090,7 @@ Annie looked at him.
 
 Annie got up and went to the window, and stood with her back to the room.
 
-"I have been doing this since I was thirty-seven and I do not think I have ever been read that accurately," she said, at the glass. "Not by my brother, not by Hana, not by anybody at that table."
+"I have been doing this since I was thirty and I do not think I have ever been read that accurately," she said, at the glass. "Not by my brother, not by Hana, not by anybody at that table."
 
 "I am sorry."
 

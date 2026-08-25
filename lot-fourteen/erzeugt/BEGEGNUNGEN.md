@@ -1970,7 +1970,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 27 | b2ch62:198 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
-| 27 | b2ch62:298 | "I have been doing this since I was thirty-seven and I do not think I have ever been rea.. |
+| 27 | b2ch62:298 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -2038,7 +2038,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch38:230` (Tag 59) - one, three
 - `b2ch62:198` (Tag 27) - nineteen, one
-- `b2ch62:298` (Tag 27) - thirty-seven
+- `b2ch62:298` (Tag 27) - thirty
 
 ---
 

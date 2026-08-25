@@ -95,7 +95,7 @@ b2  ch58  v1.3       2363 Woerter  ch58_v1_3_en.md
 b2  ch59  v1.1       2217 Woerter  ch59_v1_1_en.md
 b2  ch60  v1.1       2516 Woerter  ch60_v1_1_en.md
 b2  ch61  v1.1       2330 Woerter  ch61_v1_1_en.md
-b2  ch62  v1.1       2136 Woerter  ch62_v1_1_en.md
+b2  ch62  v1.2       2136 Woerter  ch62_v1_2_en.md
 b2  ch63  v1.2       2158 Woerter  ch63_v1_2_en.md
 b2  ch64  v1.1       2509 Woerter  ch64_v1_1_en.md
 b2  ch65  v1.1       2175 Woerter  ch65_v1_1_en.md

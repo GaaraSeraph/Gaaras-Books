@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 208.676 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 209.078 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -5426,7 +5426,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.1) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.2) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -5599,21 +5599,15 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 ## Der Juli ist betreten
 
-**Seit dem 25.08. steht Text jenseits von Tag 280.** Kapitel 46 spielt am
-13. Juli, Kapitel 47 am 18. Juli. Damit ist die Grenze ueberschritten, vor der
-das Geburtstagsregister warnt: **die unerzaehlte Strecke, in der alle
-Geburtstage liegen, ist jetzt erzaehlte Zeit.**
+**Ueberholt am 25.08. und stehengelassen als Zeitmarke.** Dieser Abschnitt
+notierte am Vormittag, dass Band 2 mit den Kapiteln 46 und 47 zum ersten Mal in
+die geparkte Strecke hineinschreibt, und nannte drei Geburtstage, die inzwischen
+alle verschoben sind. **Wer hier nach Daten sucht, sucht falsch** - sie stehen im
+Abschnitt darunter.
 
-Wer zwischen dem 1. und dem 18. Juli schreibt, hat drei Geburtstage im Ruecken:
-**Mrs Sunwoo am 4. Juli (wird 82), Mr Yeom am 15. Juli (wird 64), Mrs Jeon am
-24. Juli (noch nicht)**. Kapitel 46 und 47 nennen kein Alter und keine dieser
-Figuren, also ist bisher nichts verrutscht.
-
-**Wer weiterschreibt, liest die Tabelle vorher.** Ab dem 22. Juli wird Hana
-zweiundfuenfzig, ab dem 27. Sang-hoon sechzig, und beide sind in Band 2 mit ihrer
-alten Zahl im Text.
-
----
+Was von ihm bleibt, ist die Beobachtung, wie schnell das ging: zwischen dem
+Satz *"die Grenze kommt bald"* und dem ersten Alter, das gegen seinen eigenen
+Geburtstag stand, lagen keine zwei Tage Schreiben.
 
 ## Geburtstage und Alter
 
@@ -5626,8 +5620,8 @@ alle Geburtstage in den Juli, August oder September legen, weil das die einzige
 Strecke war, die nicht erzaehlt wird. Damit hatte jede Figur ueber beide Baende
 **genau eine** Altersangabe.
 
-**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 65 und
-dem **1. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
+**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 66 und
+dem **2. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
 erzaehlte Zeit geworden - und drei Altersangaben standen prompt gegen ihren
 eigenen Geburtstag:
 
@@ -5636,6 +5630,7 @@ eigenen Geburtstag:
 | Mr Yeom | dreiundsechzig | 53 und 55, 4. und 12. August | 15. Juli | vierundsechzig |
 | Chairman Woo | achtundsiebzig, dreimal | 61, 23. August | 19. August | neunundsiebzig |
 | Mrs Sunwoo | einundachtzig | 65, 1. September | 4. Juli | zweiundachtzig |
+| Annie | siebenunddreissig, ausgerechnet | 61, 23. August: *"Two thousand and two is twenty-three years ago and she was fourteen."* | 3. August | achtunddreissig |
 
 **Aufgeloest ueber die Geburtstage und nicht ueber den Text**, weil diese drei
 Daten erfunden waren und nie in einem Satz standen - sie liegen jetzt hinter dem
@@ -5647,8 +5642,11 @@ to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
 ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
 *"I am fifty-nine"* - beides stimmt und muss so bleiben.
 
-**Das Fenster ist jetzt der 2. September bis 3. Oktober, zweiunddreissig Tage,
-und es schrumpft mit jedem Kapitel.** Wer ueber Anfang Oktober hinausschreibt,
+**Das Fenster ist jetzt der 3. September bis 3. Oktober, einunddreissig Tage,
+und es schrumpft im Wochentakt** - beim Schreiben dieses Absatzes stand Band 2
+auf Kapitel 65 und dem 1. September, eine Stunde spaeter lag Kapitel 66 auf dem
+2. September vor. **Mr Chaes Geburtstag, der 3. September, ist damit die
+naechste Stelle, an der es klemmt.** Wer ueber Anfang Oktober hinausschreibt,
 hat kein unerzaehltes Fenster mehr, und dann gibt es nur noch eine Moeglichkeit:
 **Alter werden mitgefuehrt statt geparkt**, und diese Tabelle bekommt eine
 Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
@@ -5657,7 +5655,7 @@ Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
 | **Georgij** | 26 | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
-| **Annie** | 37 | 3. August | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9) |
+| **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
 | **Chairman Woo Jae-sung** | 78 | **27. September** (war 19. August) | Band 1, Kapitel 18 und 19, viermal, davon einmal aus seinem Mund. Im Gewerbe **seit siebenundzwanzig**, also einundfuenfzig Jahre |
@@ -5686,7 +5684,7 @@ Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
-gibt, traegt sie mit einem Geburtstag im Fenster **2. September bis 3. Oktober** ein,
+gibt, traegt sie mit einem Geburtstag im Fenster **3. September bis 3. Oktober** ein,
 **bevor** die Zahl in einen Satz kommt - und prueft, ob das Fenster ueberhaupt
 noch existiert. Und wer ein Alter aus einer anderen Zahl ableitet -
 *"since I was twenty-four"*, *"eight years at that table"* - rechnet beide
@@ -5709,6 +5707,46 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Alter jenseits von Kapitel 53 - die erste Probe (25.08.)
+
+Der Zuschreibungsdurchgang endet bei Kapitel 53. Die Kapitel 54 bis 66 sind
+entstanden, waehrend er lief, und haben noch keinen gesehen. Erste mechanische
+Probe darueber: **jede Altersangabe in Kapitel 43 aufwaerts gegen die
+Geburtstagstabelle.**
+
+**Ein Fund, Kapitel 62.** Annie sagt am Fenster: *"I have been doing this since
+I was thirty-seven and I do not think I have ever been read that accurately."*
+**Sie ist siebenunddreissig.** Der Satz gibt ihr damit null Jahre Handwerk - und
+sie hat Georgij im Oktober auf einer Auktion gekauft.
+
+Die Zahl steht dreifach im selben Kapitel:
+
+- **Ihr Alter.** Kapitel 61, Woo: *"Two thousand and two is twenty-three years
+  ago and she was fourteen."* Vierzehn plus dreiundzwanzig.
+- **Wann sie es verstanden hat.** Zwei Wechsel vorher, aus ihrem Mund:
+  *"I did not understand what he was until I was thirty."* Dazu Kapitel 27:
+  *"I noticed at fourteen and I did not understand it until I was about thirty."*
+- **Wie lange das her ist.** Georgij, im selben Gespraech: *"You have believed
+  for seven years that it is."* Siebenunddreissig minus sieben.
+
+**Steht jetzt auf *"since I was thirty"*** (v1.2). Die drei Zahlen des Absatzes
+- dreissig, sieben, siebenunddreissig - gehen damit auf. Wer die Spanne anders
+haben will, verschiebt Georgijs *"seven years"* mit, sonst faellt die Rechnung
+wieder auseinander.
+
+**Kein Widerspruch zu Kapitel 23** (*"four men sell four things to four funds
+since I was twenty-six"*): das ist zusehen, nicht tun.
+
+**Was die Probe sonst gefunden hat: nichts.** Yeom (63 in 54 und 55), Woo (78 in
+57, 60, 61) und Mrs Sunwoo (81 in 65) stimmen jetzt, weil die Geburtstage
+verschoben wurden. Alle uebrigen Figuren mit einem Geburtstag in der erzaehlten
+Julistrecke - Cho, Hana, Mrs Jeon, Kwons Partner, Kim Sung-ho, Mr Ok, Kim
+Ye-rin, Mr Hong, Dr Oh, Kang, Mr Byun - **bekommen in Kapitel 43 bis 66 kein
+Alter genannt.** Sie sind nicht falsch, sie sind ungedeckt: das naechste Mal,
+dass eine dieser Zahlen in einen Satz kommt, ist sie es.
 
 ---
 
@@ -5872,7 +5910,7 @@ steht, und ihn nicht gelesen.
 
 ---
 
-## Band 2 unter dem Blickwinkel Zuschreibung (25.08.), Anfang
+## Zuschreibung, Band 2 - die zwei Funde des Autors, die den Durchgang ausgeloest haben (25.08.)
 
 **Der Blickwinkel:** wem gehoert die Handlung, wem das Gefuehl, wem der Satz. Zwei
 Funde des Autors haben ihn ausgeloest, und beide sind von derselben Art.
@@ -14193,7 +14231,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 59 | b2ch38:222 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:230 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
 | 27 | b2ch62:198 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
-| 27 | b2ch62:298 | "I have been doing this since I was thirty-seven and I do not think I have ever been rea.. |
+| 27 | b2ch62:298 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -14261,7 +14299,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch11:146` (Tag 1) - three, twenty
 - `b2ch38:230` (Tag 59) - one, three
 - `b2ch62:198` (Tag 27) - nineteen, one
-- `b2ch62:298` (Tag 27) - thirty-seven
+- `b2ch62:298` (Tag 27) - thirty
 
 ---
 
