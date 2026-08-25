@@ -85,7 +85,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 1 | B1 34 | So 1. März | **Er geht zu ihr runter.** *"He went down onto the floor beside her, which took about two seconds and which nobody in that room had asked for, and sat back on his heels with his shoulder against her leg."* |
 | 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
 | 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
-| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking"*, und geht erst hinunter, nachdem sie geantwortet hat. Danach: *"She did not touch him, and she did not say anything else about it, and both of those were correct."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. |
+| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking for it"*, und geht erst hinunter, nachdem sie geantwortet hat: *"Now come here."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. Was danach passiert, steht in Register F. |
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
 | 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
@@ -187,6 +187,25 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
 etwas in seiner Handschrift aufhebt. Dass sie ihn in einem Raum voller Leute
 zuerst ansieht. Jede davon ist eine halbe Seite und keine Szene.
+
+---
+
+## Register F · Was er von sich aus tut
+
+**Am 25.08. angelegt, und das Fehlen war der Grund für einen Fehler.** In der
+ersten Fassung von B2 6 stand, sie fasse ihn nach dem größten Satz des Buches
+nicht an, *"and that was correct"*. Der Autor hat das zurückgewiesen, und er hatte
+recht: **die Zurückhaltung war meine und nicht seine.** Alle Register A bis E
+zählen, was **sie** tut. Was **er** tut, stand nirgends, und deshalb war nicht zu
+sehen, wie selten es ist.
+
+| | Kapitel | Tag | Was |
+|---|---|---|---|
+| 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
+| 2 | **B2 6** | **Mo 16. März** | **Er nimmt zum ersten Mal ihre Hand.** *"Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there."* Der Text zählt es selbst gegen den 1. März: *"nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either."* Ihre Antwort ist ein Daumen über den Wangenknochen, einmal. |
+
+**Zwei in sechs Monaten, und beide nach dem teuersten Satz der jeweiligen
+Szene.** Wer eine dritte schreibt, muss wissen, dass sie die dritte ist.
 
 ---
 

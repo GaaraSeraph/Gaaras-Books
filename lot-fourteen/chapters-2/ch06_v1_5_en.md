@@ -1,7 +1,7 @@
-Book Two · Chapter 6: I have to ask
-Lot Fourteen · Version 1.4 · EN
+# Chapter 6: I have to ask
+*Lot Fourteen* · Version 1.5 · EN
 
-Day One Hundred and Sixty-Four · Monday 16 March
+## Day One Hundred and Sixty-Four · Monday 16 March
 
 He did not ask one person about the new man.
 
@@ -9,7 +9,7 @@ A man who is brought into a house to clean it out has cleaned out other houses, 
 
 From that he got the order it comes in.
 
-* * *
+---
 
 It is always the same order and it is not the order anybody expects.
 
@@ -17,23 +17,23 @@ The new man does not start with the desk that handles the money. He starts with 
 
 And the tell, four to six weeks ahead of it, is a request in writing: would you set out, in your own words, how your filing works.
 
-* * *
+---
 
 Nobody at a desk has ever read that sentence and understood it.
 
 They sit down flattered and write four pages and hand over the whole architecture of their own protection, and six weeks later a man they have never met knows which drawer to open first.
 
-* * *
+---
 
 Georgij knew the shape of it because he had built one in December.
 
 He wrote that down on the Friday, in one line, and left it as it came.
 
-* * *
+---
 
 He went over the whole thing on the Sunday with the three filings side by side and the dates in a column, in that order, before he decided he was going.
 
-———
+* * *
 
 The house is a building near the river with a public stair on the west side.
 
@@ -41,13 +41,13 @@ He had been in it once, in October. He had come in at the back and gone down. He
 
 He came in through the front door on the Monday at eleven and nobody stopped him.
 
-* * *
+---
 
 He had settled that on the Sunday and did not open it again on the day.
 
 In that building a clerk with a terminal can look up what is behind the thing round his neck. It takes under a minute, and what such a clerk finds is nothing. He went in anyway. There was no version of the month in which he did not.
 
-* * *
+---
 
 Settlement is on the first floor at the end, past two rooms with nothing in them.
 
@@ -61,7 +61,7 @@ Mrs Jeon had a receipt book open in front of her and did not close it.
 
 "Four minutes."
 
-* * *
+---
 
 He gave it to her in order and he did not hurry any of it.
 
@@ -71,7 +71,7 @@ Then the dates. Six weeks from the letter to the first desk, and about twelve da
 
 "And the second desk is this one," he said.
 
-* * *
+---
 
 Mrs Jeon looked at him through the glass for a while.
 
@@ -83,7 +83,7 @@ Mrs Jeon looked at him through the glass for a while.
 
 "It is not, and you know it is not, or you would not have said it in that voice." He kept his hands where she could see them. "You have it now. You can send me down the stairs and you will still have it. That was the whole reason for the order I said it in."
 
-* * *
+---
 
 She did not thank him.
 
@@ -97,7 +97,7 @@ That is not ingratitude. She had come in that morning with twenty-three years be
 
 "I have a copy of the back page. It came up a drive in a flat parcel with a printed label on it, and so did one to every buyer on their list."
 
-* * *
+---
 
 Mrs Jeon put one hand flat on the counter and left it there.
 
@@ -109,7 +109,7 @@ Mrs Jeon put one hand flat on the counter and left it there.
 
 "I do not." He did not dress it up. "That is why I am asking you and not telling you. Say the price."
 
-* * *
+---
 
 She took her time about it, which was correct.
 
@@ -119,19 +119,19 @@ She took her time about it, which was correct.
 
 "Anybody's, so long as it is not out of this trade." She said it quite steadily. "In eight weeks I go out of that door with twenty-three years that I cannot put on a single piece of paper. There is no reference from this house that is worth anything anywhere. What I need is one person who will take a telephone call and say one sentence about me, and be somebody whose sentence carries."
 
-* * *
+---
 
 Georgij did not answer.
 
-* * *
+---
 
 He knew who he could ask before she had finished the second sentence. He knew what it was worth to her. And he knew that saying yes in that room would have closed the whole thing in under a minute.
 
-He also knew what Annie had said in the small room on the Wednesday. The price, before it is paid.
+He also knew what Annie had said in the small room on the Wednesday. *The price, before it is paid.*
 
 "I have to ask," he said.
 
-* * *
+---
 
 There is a particular silence that follows that sentence at a counter, and he had heard it before from the other side of one.
 
@@ -139,7 +139,7 @@ There is a particular silence that follows that sentence at a counter, and he ha
 
 "I am not going to stand here and promise you a thing I do not own." He held her eye. "The name that would do this belongs to somebody else. I can go and ask for it today and I think I will get it. I am not going to say yes to you on the strength of what I think."
 
-* * *
+---
 
 Mrs Jeon looked at him for what was probably four seconds.
 
@@ -159,7 +159,7 @@ He had been standing the whole time. He sat down on the one chair.
 
 "The oldest of those four never came through this desk."
 
-* * *
+---
 
 Georgij sat very still.
 
@@ -171,11 +171,11 @@ Georgij sat very still.
 
 "That is not a thing that happens at all." Mrs Jeon took her hand off the counter at last. "Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."
 
-———
+* * *
 
 Mr Ku had the car on the far side of the street and did not ask.
 
-* * *
+---
 
 He was home before three and did not start anything, which is not like him.
 
@@ -187,7 +187,7 @@ When the car came up the drive at twenty past five he went and stood in the smal
 
 "There is a woman at that desk who goes out of the building in eight weeks with twenty-three years she cannot write down anywhere. She wants one name. Somebody outside the trade who will take a call and say one sentence about her and be worth listening to."
 
-* * *
+---
 
 Annie put the coat on the arm of the chair by the door.
 
@@ -205,13 +205,13 @@ Annie put the coat on the arm of the chair by the door.
 
 "So no," said Annie.
 
-* * *
+---
 
 She went to the window and did not draw the curtain.
 
 "Park Sang-hoon."
 
-* * *
+---
 
 Georgij had got there in the car and had spent the rest of the journey wishing he had not.
 
@@ -227,7 +227,7 @@ Georgij had got there in the car and had spent the rest of the journey wishing h
 
 "And it uses the corridor," said Annie.
 
-* * *
+---
 
 He had given her that on the Wednesday in the middle of twelve minutes of other things, and she had kept the word.
 
@@ -241,199 +241,227 @@ He had given her that on the Wednesday in the middle of twelve minutes of other 
 
 "You will tell him what she is going to be able to say about him afterwards, before you ask him. He will say it does not matter. Tell him anyway."
 
-* * *
+---
 
 He did it that evening. It took seven minutes. It cost precisely what he had said it would cost and produced precisely what Annie had said it would produce.
 
-———
+* * *
 
 She was still in the small room when he came back, which she had no reason to be.
 
-* * *
+---
 
 "It is the sixteenth of March," said Annie.
 
-* * *
+---
 
 Georgij stopped just inside the door.
 
-* * *
+---
 
 "Yes, Mistress."
 
-* * *
+---
 
-"On the sixteenth of December I told you I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "That was three months ago tonight and I have not asked. Ask me for something."
-
-———
-
-He did not sit down and he did not go round the desk.
+"On the sixteenth of December I told you that I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "It is the moment. Ask me for something."
 
 * * *
 
-He has gone down onto that carpet every evening for five days without a word being said about it, and he stayed on his feet, because a man who asks for a thing from the floor is not asking.
+He did not go round the desk.
+
+---
+
+He has gone down onto that carpet every evening for five days without a word being said about it. He stayed on his feet, because a man who asks for a thing from the floor is not asking for it.
+
+---
+
+"On the first of March I told you I was afraid of Tuesdays," he said.
+
+---
+
+"You did."
+
+---
+
+"I have had it every day since and it has not once got smaller."
 
 * * *
 
-"There is a price in it and I am going to say the price first," he said, "because you would."
+Annie sat back.
 
-* * *
+---
 
-"Go on."
+"You gave me half of it on the first and I could not answer the half you gave me," she said. "Give me the rest."
 
-———
+---
 
-"On the nineteenth of February you had a line struck out of a book. It took seven weeks and you were in that building four times and the third time was not about money." Georgij did not look away from her. "I have not thanked you for it, and I am not going to tonight, because there is a thing underneath it that I have owed you since the first of March."
+"Before the nineteenth of February, being finished with me would have cost you weeks." He kept his hands at his sides. "A price. A room. People who would have had to be in it and a man like the one who was here at ten. Nine mornings of watching it happen, and somewhere around the ninth you might have found that you did not want to."
 
-* * *
+---
 
-"You said it on the first."
+"And now there is nothing to sell."
 
-* * *
+---
 
-"I said half of it. I said I was afraid of Tuesdays and you had nothing to answer it with, and I let you off, and I have let you off for fifteen days."
-
-———
-
-Annie sat entirely still.
-
-* * *
-
-"Then say the other half."
-
-* * *
-
-"Before February, finishing with me would have cost you weeks. A price, a room, people, a signature, and nine mornings of looking at it while it happened." He kept his hands at his sides. "You paid a great deal of money to take that away from me. You did not know that was what you were buying and I did know, on the morning you told me, and I said the cheap half of it instead."
-
-* * *
-
-Annie did not help him.
-
-* * *
-
-"Ask," she said.
-
-———
-
-"Say that I am yours."
+"Now you can do it on a Tuesday, in a hall, between two other things, and it is finished before you get to the end of the sentence."
 
 * * *
 
 The small room did what a room does at half past nine.
 
-* * *
+---
 
-"There is nothing to write that on," said Annie.
+"You paid seven weeks for that," said Georgij, "and four mornings in that building, and the third one was not about money. You did not know that was what you were buying." He did not soften any of it. "I knew on the morning you told me, and I said the cheap half of it and let you off, and I have let you off for fifteen days."
 
-* * *
+---
 
-"No. That is the whole of what I am asking for and it is why I could not ask in December." Georgij did not soften one word of it. "In December you owned me and it would have been a slave asking not to be sold. It would have been a demand and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
+Annie did not help him.
 
-* * *
+---
 
-"And now."
+"Then ask."
 
-* * *
+---
 
-"Now there is no paper on either side and nothing in it for either of us, and I am free to walk out of this house on any morning I choose. If you say it tonight, it is a thing you have decided."
-
-———
-
-"Say the price," said Annie. "You said you would say it first and you have said the cheap half of that as well."
+"Take Tuesday off me."
 
 * * *
 
-Georgij took a moment over it, which he does not usually need.
+"That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on."
+
+---
+
+Georgij stood in the middle of a small room and did the only thing left.
+
+---
+
+"Say that I am yours."
+
+---
+
+"There is nothing to write that on."
+
+---
+
+"No, and that is the whole of what I am asking for."
 
 * * *
 
-"You have never in your life agreed to anything you could not close," he said. "There is a date on it, or a cap, or a named counterparty, or all three. That is how you have stayed alive in a trade that ate your father's friends."
+Annie did not move at all.
+
+---
+
+"In December I could not ask you," said Georgij. "You owned me. It would have been a slave asking not to be sold, and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
+
+---
+
+"And tonight."
+
+---
+
+"Tonight there is no paper on either side and I can walk out of this house on any morning I choose." He held her eye. "If you say it now, it is a thing you decided."
 
 * * *
 
-"Go on."
+"There is a price in it and I am going to say it, because you would say it to me."
 
-* * *
-
-"I am asking you for the one arrangement that has none of those. No term, no cap, nobody named, and no way out that does not cost you something." He held her eye. "And I am asking for it in a form that cannot be enforced and cannot be shown to anybody, which means you would be carrying the whole of it and I would be carrying none."
-
-———
-
-Annie was quiet for what was probably eight seconds.
-
-* * *
-
-"There is a second half of that price and you have not said it," she said, "and I am going to say it, because I would rather have it in the room."
-
-* * *
+---
 
 "Say it."
 
+---
+
+"You have never in your life agreed to a thing you could not close. There is a date on it, or a cap, or a named counterparty, and usually all three." Georgij did not stop anywhere. "I am asking for the one that has none of them, in a form that cannot be enforced and cannot be shown to anybody, so that you carry the whole of it and I carry none of it."
+
+---
+
+Annie was quiet for about eight seconds.
+
 * * *
 
-"A man who is free and stays is a man who can be believed about anything afterwards." She said it flatly and without any accusation in it whatsoever. "If you ever stood in a room and said that this house kept you, there is no document on earth that would contradict you, and there has not been since February."
+"There is a second half of that price and you have not said it," she said, and there was no accusation anywhere in it. "A man who is free and stays can afterwards stand in any room he likes and say that this house kept him. Since February there is no document on earth that would contradict him."
 
-* * *
+---
 
 "That is correct."
 
-* * *
+---
 
-"You have just asked me to hand you that and then trust you with it."
+"You are asking me to hand you that and then trust you with it."
 
-* * *
+---
 
 "Yes."
 
-———
+---
+
+"Say why I would."
+
+---
+
+"I have no answer to that which is not an argument," said Georgij, "and you would hear an argument. So I am not going to make one."
+
+* * *
 
 She got up.
 
-* * *
+---
 
 She did not come round the desk, and she did not go to the window, and she did nothing at all with her hands.
 
-* * *
+---
 
-"On the eleventh I told you I would not say a thing twice and that you were not to build anything on it," said Annie.
+"On the eleventh I told you that I would not say a thing twice and that you were not to build anything on it," said Annie.
 
-* * *
+---
 
 "I remember it."
 
-* * *
+---
 
 "You are mine."
 
-———
-
-Georgij did not say anything.
-
 * * *
 
-"I am not going to write it down, because there is nothing to write it on, and I am not going to say it in a way that lets either of us call it something else in August." Her voice had not changed anywhere in the whole of it. "It has no end on it. Build on this one."
+Georgij did not say anything at all.
 
-* * *
+---
+
+"It has no end on it and there is no Tuesday in it," said Annie, and her voice had not changed anywhere in the whole of it. "And I am not going to say it in a way that lets either of us call it something else in August. Build on this one."
+
+---
 
 "Yes, Mistress."
 
+---
+
+"Now come here."
+
 * * *
-
-"Now sit down."
-
-———
 
 He went round the desk and down onto the carpet at her feet.
 
+---
+
+Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there.
+
+---
+
+He did not do anything else with it and he did not say anything, and nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either.
+
+---
+
+Annie let him.
+
+---
+
+After a while her thumb went once along his cheekbone and stopped, and neither of them said anything for some time, and the house did the things a house does at ten in the evening.
+
 * * *
 
-She did not touch him, and she did not say anything else about it, and both of those were correct and they both knew it.
+He went downstairs at about eleven and worked until twenty past one, because that was what the rest of the evening was for and neither of them was going to pretend otherwise.
 
 * * *
-
-He sat there for about four minutes and then went downstairs and worked until twenty past one, because that is what the evening was for and neither of them was going to pretend otherwise.
-
-———
 
 What he did afterwards, on the Monday night, was the other half.
 
@@ -441,18 +469,18 @@ A settlement that never happened is still a fact about somebody. A house that do
 
 The house has an owner. The owner is a fund, and the fund is four companies deep, and the fourth one is registered at an address in Jung-gu that also holds nine others.
 
-* * *
+---
 
 He knew the shape of it before he was through the second layer.
 
 He had seen it twice in the autumn, both times from underneath, both times without anybody's name at the end of it. It is not the ordinary kind of nesting. Somebody had built it to be dull, and had gone to a great deal of trouble to make each individual step look like the sort of thing a lazy accountant does.
 
-* * *
+---
 
 So he stopped.
 
 He did not order the fourth company's filings. He did not send for the register extract on the Jung-gu address. He did not put a single request into a system with a date on it, and he closed the whole thing at twenty past one in the morning and left it exactly as he had found it.
 
-That was the correct thing to do and he did it quickly, out of the same instinct that had made him say put a line through it at a desk on the eleventh.
+That was the correct thing to do and he did it quickly, out of the same instinct that had made him say *put a line through it* at a desk on the eleventh.
 
 He had no way of knowing that it was the second time.

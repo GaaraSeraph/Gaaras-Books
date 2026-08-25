@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 256.479 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 256.925 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3662,7 +3662,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.4) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.5) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -3721,10 +3721,23 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   - **Ihre Antwort ist die Umkehrung von Kapitel 5, fuenf Tage vorher.** Dort:
     *"I will not say that twice, and you are not to build anything on it."*
     Hier: *"You are mine... It has no end on it. **Build on this one.**"*
-  - **Register A 3b:** er bittet **im Stehen** und geht erst danach hinunter,
-    weil *"a man who asks for a thing from the floor is not asking"*. Sie fasst
-    ihn nicht an, und der Text sagt, dass das richtig war. Das ist die Umkehrung
-    von Register A 9 am 4. Juni, wo **sie** vor der Antwort heruntergeht.
+  - **Die Bitte selbst faellt zweimal**, und die erste Fassung wird
+    zurueckgewiesen: *"Take Tuesday off me."* - *"That is a feeling and I do not
+    buy those. Put it in a form I can act on."* Erst dann kommt *"Say that I am
+    yours."* **Sie zwingt ihn, es handelbar zu machen**, und das ist der Grund,
+    warum der Satz ueberhaupt gesagt werden kann.
+  - **Und die einzige Frage, die er nicht beantwortet:** *"Say why I would."* -
+    *"I have no answer to that which is not an argument, and you would hear an
+    argument. So I am not going to make one."*
+  - **Register A 3b:** er bittet **im Stehen** und geht erst hinunter, als sie
+    *"Now come here"* sagt. Das ist die Umkehrung von Register A 9 am 4. Juni, wo
+    **sie** vor der Antwort heruntergeht.
+  - **REGISTER F, NEU:** danach nimmt er ihre Hand vom Sessel und legt die Seite
+    seines Gesichts hinein. **Es ist erst das zweite Mal in sechs Monaten, dass er
+    von sich aus etwas tut** - das erste war der 1. Maerz auf dem Boden am
+    Fenster, und der Text zaehlt es selbst gegen jenen Abend. Ihre Antwort ist
+    ein Daumen ueber den Wangenknochen, einmal. **In der ersten Fassung fasste sie
+    ihn nicht an, und das war meine Zurueckhaltung und nicht seine.**
   - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
     Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
   - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.
@@ -11553,7 +11566,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 1 | B1 34 | So 1. März | **Er geht zu ihr runter.** *"He went down onto the floor beside her, which took about two seconds and which nobody in that room had asked for, and sat back on his heels with his shoulder against her leg."* |
 | 2 | B2 1 | Mo 2. März | Der Abend am Fenster. *"He spent the end of that Sunday on the floor at a window, against her legs, and it did not once occur to him that he was free to go and look at somebody."* Sie sitzt im Sessel. |
 | 3 | B2 5 | Mi 11. März | **Der Anfang der Gewohnheit.** *"He went round the desk. She did not have to say the rest of it, and he went down onto the carpet at her feet, which has stopped needing a word between them."* |
-| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking"*, und geht erst hinunter, nachdem sie geantwortet hat. Danach: *"She did not touch him, and she did not say anything else about it, and both of those were correct."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. |
+| 3b | **B2 6** | **Mo 16. März** | **Die einzige Stelle, an der er absichtlich NICHT runtergeht.** Er bittet im Stehen, weil *"a man who asks for a thing from the floor is not asking for it"*, und geht erst hinunter, nachdem sie geantwortet hat: *"Now come here."* Die Umkehrung von Register A 9, wo **sie** vor der Antwort heruntergeht. Was danach passiert, steht in Register F. |
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
 | 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
@@ -11655,6 +11668,25 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 fragen. Dass sie einen Termin verschiebt und ihm nicht sagt, warum. Dass sie
 etwas in seiner Handschrift aufhebt. Dass sie ihn in einem Raum voller Leute
 zuerst ansieht. Jede davon ist eine halbe Seite und keine Szene.
+
+---
+
+## Register F · Was er von sich aus tut
+
+**Am 25.08. angelegt, und das Fehlen war der Grund für einen Fehler.** In der
+ersten Fassung von B2 6 stand, sie fasse ihn nach dem größten Satz des Buches
+nicht an, *"and that was correct"*. Der Autor hat das zurückgewiesen, und er hatte
+recht: **die Zurückhaltung war meine und nicht seine.** Alle Register A bis E
+zählen, was **sie** tut. Was **er** tut, stand nirgends, und deshalb war nicht zu
+sehen, wie selten es ist.
+
+| | Kapitel | Tag | Was |
+|---|---|---|---|
+| 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
+| 2 | **B2 6** | **Mo 16. März** | **Er nimmt zum ersten Mal ihre Hand.** *"Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there."* Der Text zählt es selbst gegen den 1. März: *"nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either."* Ihre Antwort ist ein Daumen über den Wangenknochen, einmal. |
+
+**Zwei in sechs Monaten, und beide nach dem teuersten Satz der jeweiligen
+Szene.** Wer eine dritte schreibt, muss wissen, dass sie die dritte ist.
 
 ---
 
@@ -16370,7 +16402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 826 | 87 (b1ch01-b2ch75) | 1 | 74 |
+| Annie | 828 | 87 (b1ch01-b2ch75) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 231 | 38 (b1ch07-b2ch75) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -16421,7 +16453,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-826 Nennungen in 87 Kapiteln.
+828 Nennungen in 87 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -16796,12 +16828,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:228 | "And it uses the corridor," said Annie. |
 | 5 | b2ch06:246 | He did it that evening. It took seven minutes. It cost precisely what he had said it wou.. |
 | 5 | b2ch06:254 | "It is the sixteenth of March," said Annie. |
-| 5 | b2ch06:298 | Annie sat entirely still. |
-| 5 | b2ch06:310 | Annie did not help him. |
-| 5 | b2ch06:326 | "There is nothing to write that on," said Annie. |
-| 5 | b2ch06:342 | "Say the price," said Annie. "You said you would say it first and you have said the chea.. |
-| 5 | b2ch06:362 | Annie was quiet for what was probably eight seconds. |
-| 5 | b2ch06:398 | "On the eleventh I told you I would not say a thing twice and that you were not to build.. |
+| 5 | b2ch06:290 | Annie sat back. |
+| 5 | b2ch06:318 | Annie did not help him. |
+| 5 | b2ch06:330 | "That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on." |
+| 5 | b2ch06:350 | Annie did not move at all. |
+| 5 | b2ch06:378 | Annie was quiet for about eight seconds. |
+| 5 | b2ch06:414 | "On the eleventh I told you that I would not say a thing twice and that you were not to .. |
+| 5 | b2ch06:430 | "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not c.. |
+| 5 | b2ch06:454 | Annie let him. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |
@@ -17342,7 +17376,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:242` (Tag 60) - four
 - `b2ch05:258` (Tag 60) - one
 - `b2ch06:246` (Tag 5) - seven
-- `b2ch06:362` (Tag 5) - eight
+- `b2ch06:378` (Tag 5) - eight
+- `b2ch06:430` (Tag 5) - one
 - `b2ch07:82` (Tag 7) - one
 - `b2ch07:162` (Tag 7) - one
 - `b2ch09:38` (Tag 9) - one, two

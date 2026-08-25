@@ -852,7 +852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.4) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.5) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -911,10 +911,23 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   - **Ihre Antwort ist die Umkehrung von Kapitel 5, fuenf Tage vorher.** Dort:
     *"I will not say that twice, and you are not to build anything on it."*
     Hier: *"You are mine... It has no end on it. **Build on this one.**"*
-  - **Register A 3b:** er bittet **im Stehen** und geht erst danach hinunter,
-    weil *"a man who asks for a thing from the floor is not asking"*. Sie fasst
-    ihn nicht an, und der Text sagt, dass das richtig war. Das ist die Umkehrung
-    von Register A 9 am 4. Juni, wo **sie** vor der Antwort heruntergeht.
+  - **Die Bitte selbst faellt zweimal**, und die erste Fassung wird
+    zurueckgewiesen: *"Take Tuesday off me."* - *"That is a feeling and I do not
+    buy those. Put it in a form I can act on."* Erst dann kommt *"Say that I am
+    yours."* **Sie zwingt ihn, es handelbar zu machen**, und das ist der Grund,
+    warum der Satz ueberhaupt gesagt werden kann.
+  - **Und die einzige Frage, die er nicht beantwortet:** *"Say why I would."* -
+    *"I have no answer to that which is not an argument, and you would hear an
+    argument. So I am not going to make one."*
+  - **Register A 3b:** er bittet **im Stehen** und geht erst hinunter, als sie
+    *"Now come here"* sagt. Das ist die Umkehrung von Register A 9 am 4. Juni, wo
+    **sie** vor der Antwort heruntergeht.
+  - **REGISTER F, NEU:** danach nimmt er ihre Hand vom Sessel und legt die Seite
+    seines Gesichts hinein. **Es ist erst das zweite Mal in sechs Monaten, dass er
+    von sich aus etwas tut** - das erste war der 1. Maerz auf dem Boden am
+    Fenster, und der Text zaehlt es selbst gegen jenen Abend. Ihre Antwort ist
+    ein Daumen ueber den Wangenknochen, einmal. **In der ersten Fassung fasste sie
+    ihn nicht an, und das war meine Zurueckhaltung und nicht seine.**
   - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
     Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
   - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.

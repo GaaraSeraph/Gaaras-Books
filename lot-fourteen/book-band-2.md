@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 75 Kapitel, 187.302 Woerter.
+Book Two, 75 Kapitel, 187.354 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.3 | 2.016 |
 | 04 | v1.9 | 2.734 |
 | 05 | v1.9 | 2.833 |
-| 06 | v1.4 | 3.451 |
+| 06 | v1.5 | 3.503 |
 | 07 | v1.5 | 2.305 |
 | 08 | v1.8 | 3.155 |
 | 09 | v2.6 | 2.525 |
@@ -1127,7 +1127,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1339,79 +1339,89 @@ Georgij stopped just inside the door.
 
 "Yes, Mistress."
 
-"On the sixteenth of December I told you I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "That was three months ago tonight and I have not asked. Ask me for something."
+"On the sixteenth of December I told you that I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "It is the moment. Ask me for something."
 
 * * *
 
-He did not sit down and he did not go round the desk.
+He did not go round the desk.
 
-He has gone down onto that carpet every evening for five days without a word being said about it, and he stayed on his feet, because a man who asks for a thing from the floor is not asking.
+He has gone down onto that carpet every evening for five days without a word being said about it. He stayed on his feet, because a man who asks for a thing from the floor is not asking for it.
 
-"There is a price in it and I am going to say the price first," he said, "because you would."
+"On the first of March I told you I was afraid of Tuesdays," he said.
 
-"Go on."
+"You did."
 
-* * *
-
-"On the nineteenth of February you had a line struck out of a book. It took seven weeks and you were in that building four times and the third time was not about money." Georgij did not look away from her. "I have not thanked you for it, and I am not going to tonight, because there is a thing underneath it that I have owed you since the first of March."
-
-"You said it on the first."
-
-"I said half of it. I said I was afraid of Tuesdays and you had nothing to answer it with, and I let you off, and I have let you off for fifteen days."
+"I have had it every day since and it has not once got smaller."
 
 * * *
 
-Annie sat entirely still.
+Annie sat back.
 
-"Then say the other half."
+"You gave me half of it on the first and I could not answer the half you gave me," she said. "Give me the rest."
 
-"Before February, finishing with me would have cost you weeks. A price, a room, people, a signature, and nine mornings of looking at it while it happened." He kept his hands at his sides. "You paid a great deal of money to take that away from me. You did not know that was what you were buying and I did know, on the morning you told me, and I said the cheap half of it instead."
+"Before the nineteenth of February, being finished with me would have cost you weeks." He kept his hands at his sides. "A price. A room. People who would have had to be in it and a man like the one who was here at ten. Nine mornings of watching it happen, and somewhere around the ninth you might have found that you did not want to."
 
-Annie did not help him.
+"And now there is nothing to sell."
 
-"Ask," she said.
+"Now you can do it on a Tuesday, in a hall, between two other things, and it is finished before you get to the end of the sentence."
 
 * * *
-
-"Say that I am yours."
 
 The small room did what a room does at half past nine.
 
-"There is nothing to write that on," said Annie.
+"You paid seven weeks for that," said Georgij, "and four mornings in that building, and the third one was not about money. You did not know that was what you were buying." He did not soften any of it. "I knew on the morning you told me, and I said the cheap half of it and let you off, and I have let you off for fifteen days."
 
-"No. That is the whole of what I am asking for and it is why I could not ask in December." Georgij did not soften one word of it. "In December you owned me and it would have been a slave asking not to be sold. It would have been a demand and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
+Annie did not help him.
 
-"And now."
+"Then ask."
 
-"Now there is no paper on either side and nothing in it for either of us, and I am free to walk out of this house on any morning I choose. If you say it tonight, it is a thing you have decided."
-
-* * *
-
-"Say the price," said Annie. "You said you would say it first and you have said the cheap half of that as well."
-
-Georgij took a moment over it, which he does not usually need.
-
-"You have never in your life agreed to anything you could not close," he said. "There is a date on it, or a cap, or a named counterparty, or all three. That is how you have stayed alive in a trade that ate your father's friends."
-
-"Go on."
-
-"I am asking you for the one arrangement that has none of those. No term, no cap, nobody named, and no way out that does not cost you something." He held her eye. "And I am asking for it in a form that cannot be enforced and cannot be shown to anybody, which means you would be carrying the whole of it and I would be carrying none."
+"Take Tuesday off me."
 
 * * *
 
-Annie was quiet for what was probably eight seconds.
+"That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on."
 
-"There is a second half of that price and you have not said it," she said, "and I am going to say it, because I would rather have it in the room."
+Georgij stood in the middle of a small room and did the only thing left.
+
+"Say that I am yours."
+
+"There is nothing to write that on."
+
+"No, and that is the whole of what I am asking for."
+
+* * *
+
+Annie did not move at all.
+
+"In December I could not ask you," said Georgij. "You owned me. It would have been a slave asking not to be sold, and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
+
+"And tonight."
+
+"Tonight there is no paper on either side and I can walk out of this house on any morning I choose." He held her eye. "If you say it now, it is a thing you decided."
+
+* * *
+
+"There is a price in it and I am going to say it, because you would say it to me."
 
 "Say it."
 
-"A man who is free and stays is a man who can be believed about anything afterwards." She said it flatly and without any accusation in it whatsoever. "If you ever stood in a room and said that this house kept you, there is no document on earth that would contradict you, and there has not been since February."
+"You have never in your life agreed to a thing you could not close. There is a date on it, or a cap, or a named counterparty, and usually all three." Georgij did not stop anywhere. "I am asking for the one that has none of them, in a form that cannot be enforced and cannot be shown to anybody, so that you carry the whole of it and I carry none of it."
+
+Annie was quiet for about eight seconds.
+
+* * *
+
+"There is a second half of that price and you have not said it," she said, and there was no accusation anywhere in it. "A man who is free and stays can afterwards stand in any room he likes and say that this house kept him. Since February there is no document on earth that would contradict him."
 
 "That is correct."
 
-"You have just asked me to hand you that and then trust you with it."
+"You are asking me to hand you that and then trust you with it."
 
 "Yes."
+
+"Say why I would."
+
+"I have no answer to that which is not an argument," said Georgij, "and you would hear an argument. So I am not going to make one."
 
 * * *
 
@@ -1419,7 +1429,7 @@ She got up.
 
 She did not come round the desk, and she did not go to the window, and she did nothing at all with her hands.
 
-"On the eleventh I told you I would not say a thing twice and that you were not to build anything on it," said Annie.
+"On the eleventh I told you that I would not say a thing twice and that you were not to build anything on it," said Annie.
 
 "I remember it."
 
@@ -1427,21 +1437,29 @@ She did not come round the desk, and she did not go to the window, and she did n
 
 * * *
 
-Georgij did not say anything.
+Georgij did not say anything at all.
 
-"I am not going to write it down, because there is nothing to write it on, and I am not going to say it in a way that lets either of us call it something else in August." Her voice had not changed anywhere in the whole of it. "It has no end on it. Build on this one."
+"It has no end on it and there is no Tuesday in it," said Annie, and her voice had not changed anywhere in the whole of it. "And I am not going to say it in a way that lets either of us call it something else in August. Build on this one."
 
 "Yes, Mistress."
 
-"Now sit down."
+"Now come here."
 
 * * *
 
 He went round the desk and down onto the carpet at her feet.
 
-She did not touch him, and she did not say anything else about it, and both of those were correct and they both knew it.
+Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there.
 
-He sat there for about four minutes and then went downstairs and worked until twenty past one, because that is what the evening was for and neither of them was going to pretend otherwise.
+He did not do anything else with it and he did not say anything, and nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either.
+
+Annie let him.
+
+After a while her thumb went once along his cheekbone and stopped, and neither of them said anything for some time, and the house did the things a house does at ten in the evening.
+
+* * *
+
+He went downstairs at about eleven and worked until twenty past one, because that was what the rest of the evening was for and neither of them was going to pretend otherwise.
 
 * * *
 
