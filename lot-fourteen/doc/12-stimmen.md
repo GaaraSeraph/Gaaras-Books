@@ -268,26 +268,54 @@ Zurückhalten wird sichtbar gemacht**, nicht verschwiegen:
   neunzehn ist.
 - **Jang** hält die dritte Stufe vor Annie zurück und sagt, dass er es tut:
   *"The third one is not mine to say in this room."*
-- **Mrs Seo** hält die Frage zurück. Sie fragt nicht, was in dem Umschlag ist,
-  in neun Jahren nicht.
+- **Mrs Seo** hält die Frage zurück - **in dreizehn Repliken über beide Bände
+  steht keine einzige.** *(Hier stand "Sie fragt nicht, was in dem Umschlag ist,
+  in neun Jahren nicht." Der Umschlag steht in b1 K06 und sie trägt ihn herein;
+  dass sie nicht gefragt hat, steht nirgends. Zweiter Fundort derselben
+  Erfindung - der erste war ihr Blatt.)*
 - **Woo** hält den Namen zurück, bis er ihn hergibt, und benennt es:
-  *"Do not thank me. I have not given you a name."*
-- **Annie** hält nichts zurück und das ist ihr Kennzeichen. Sie sagt die Sache
-  und danach, was sie über den anderen weiß.
+  *"**Don't** thank me. I have not given you a name."* *(Hier stand "Do not
+  thank me". Woo zieht an dieser Stelle zusammen, und es ist eine seiner zwei
+  Kontraktionen im ganzen Buch - genau die Sorte Detail, die ein Blatt einebnet,
+  wenn es aus dem Gedächtnis zitiert.)*
+- **Annie hält am meisten zurück von allen, und hier stand das Gegenteil.**
+
+  Der alte Text lautete: *"Annie hält nichts zurück und das ist ihr
+  Kennzeichen."* Das ist nicht ungenau, das ist verkehrt herum, und die
+  Handlung beider Bände hängt daran:
+
+  > b1 K11: *"I'm not going to give it to you," said Annie.*
+  > b1 K12: *"I've had the name for nineteen days ... I'm still not going to
+  > give it to you."*
+  > b1 K34: *"I am not going to tell you what it cost and I will not give you
+  > the figure if you ask me for it."*
+  > b2 K18: *"Do not thank me for that. I have been sitting on the whole of it
+  > since December and I have just given you the smallest piece I could get
+  > away with, and both of us are aware of it."*
+  > b2 K27: *"I have spent sixty-eight days arranging for it to be later."*
+
+  **Ihr Kennzeichen ist nicht, dass sie nichts zurückhält. Es ist, dass sie das
+  Zurückhalten ansagt** - mit Frist, mit Grund und ohne Entschuldigung. Wer
+  ihrem alten Blatteintrag folgt, schreibt eine Frau, die auskunftsfreudig ist,
+  und nimmt dem Buch seinen Motor.
 
 **Die Probe:** Was weiß diese Figur in dieser Szene, das sie nicht sagt, und
 merkt der Leser, dass sie es nicht sagt?
 
 ### 3. Wärme ist ein Bruch der eigenen Maschine, markiert und nie benannt
 
-**Keine Figur in diesem Buch sagt das Warme.** Es kommt immer als Tatsache, als
-Gegenstand oder als Dienstleistung. Und es ist immer ein Verstoß gegen die
-eigene Vorschrift:
+**Keine Figur in diesem Buch sagt das Warme - mit einer einzigen Ausnahme, und
+die Ausnahme ist gebaut.** Sonst kommt es als Tatsache, als Gegenstand oder als
+Dienstleistung, und immer als Verstoß gegen die eigene Vorschrift:
 
 - **Jang** berichtet ungefragt etwas, wofür er keinen Beleg hat - das Innenleben
   eines alten Mannes an einer Bushaltestelle. Der Erzähler benennt den Bruch
   selbst: *"without being asked."*
-- **Woo** gibt am Ende jedes Treffens ungefragt etwas her. Dreimal belegt.
+- **Woo** gibt am Ende jedes Treffens ungefragt etwas her, **und der Erzähler
+  sagt es selbst**: *"At the door, in the hall, with the car already turned
+  round, Woo did the thing he has done **every time since October**."* (b2 K61).
+  *(Hier stand "Dreimal belegt" - das war zu wenig und machte aus einer
+  Gewohnheit einen Zufall.)*
 - **Mrs Seo** sagt nicht, dass sie sich sorgt. Sie sagt: *"Drink it before it
   goes cold. You did that yesterday as well."* Die Sorge steckt darin, dass sie
   es gestern gesehen hat.
@@ -296,8 +324,19 @@ eigene Vorschrift:
 - **Annie** wird nie sprachlich weich. Ihr Weichwerden ist ausschließlich
   körperlich (`doc/10-naehe.md`).
 
-**Was dabei nicht passiert:** Die Sätze werden nicht kürzer, nicht weicher, und
-es kommen keine Adjektive dazu. **Nur der Inhalt leckt.** Wer eine Figur warm
+**Die eine Ausnahme, und sie gehört Sim.** In b2 K52, an der Tür, nach dem
+schlimmsten Abend seines Lebens:
+
+> *"May I ask you one thing that is nothing to do with any of it," he said.*
+> *"You may ask."*
+> *"**Are you all right.**"*
+
+**Er markiert sie selbst, bevor er sie sagt** - *nothing to do with any of it*.
+Das ist der Grund, warum sie funktioniert und warum es sie genau einmal gibt.
+Wer eine zweite schreibt, hat die erste ausgegeben.
+
+**Was dabei sonst nicht passiert:** Die Sätze werden nicht kürzer, nicht weicher,
+und es kommen keine Adjektive dazu. **Nur der Inhalt leckt.** Wer eine Figur warm
 schreiben will, gibt ihr nichts Freundliches zu sagen, sondern etwas zu tun oder
 etwas herzugeben, das nicht in ihrem Auftrag steht.
 
@@ -386,11 +425,21 @@ und er ist der einzige, der es richtig macht.
 
 ### 6. Jede Figur hat eine Körpergewohnheit, und sie ersetzt das Gefühlswort
 
-Eine, nicht drei, und sie kommt wieder. Jang steht und spricht zum Gegenstand.
-Woo schüttelt keine Hände. Sim bezahlt vorher, im Umschlag, und nimmt keine
-Quittung. Mrs Seo nimmt die Gläser weg. **Wo bei einer anderen Figur ein
-Gefühlswort stünde, steht bei dieser die Gewohnheit** - und wenn sie einmal
-unterbleibt, ist das die Szene.
+Eine, nicht drei, und **sie kommt wieder** - das ist die halbe Regel. Jang steht
+und spricht zum Gegenstand. Woo schüttelt keine Hände (nachgesehen: in elf
+Stellen mit *hand* oder *shake* keine einzige, während Sang-hoon in b1 K16
+ausdrücklich eine gibt). Sim bezahlt vorher, im Umschlag, und nimmt keine
+Quittung - *"I pay in an envelope and I do not take receipts."*
+
+**Für Mrs Seo stand hier "sie nimmt die Gläser weg". Das ist die falsche
+Gewohnheit.** *"Mrs Seo took the glasses"* steht **einmal** im ganzen Buch, in
+b1 K22. Was wiederkommt, ist **das Tablett um sieben** - fünfmal, über beide
+Bände, und mit der Dauer daneben: *"the way she had for nine years"* ·
+*"the way it has gone up at seven since October."* **Eine Gewohnheit, die
+einmal vorkommt, ist keine.**
+
+**Wo bei einer anderen Figur ein Gefühlswort stünde, steht bei dieser die
+Gewohnheit** - und wenn sie einmal unterbleibt, ist das die Szene.
 
 ---
 
@@ -443,16 +492,23 @@ Verhältnis zu irgendjemandem.
 
 ### 1. Angestellte untereinander reden anders als mit Annie
 
-**Vierunddreißig Szenen haben zwei Angestellte gleichzeitig im Raum**, und in
-keiner ist der Unterschied bisher zu hören.
+**Sechsunddreißig Kapitel nennen zwei oder mehr Hausleute** (Mrs Seo, Jang,
+Ji-won, Mr Baek, Mr Ku, Mr Pyo, Eun-ju, Bae, Mr Yeo, Tae-min, Yun), und in
+keinem ist der Unterschied bisher zu hören. *(Hier stand "vierunddreißig
+Szenen" - es sind Kapitel und nicht Szenen, und es sind inzwischen sechsunddreißig.)*
 
 | | mit Annie | untereinander |
 |---|---|---|
 | Anrede | *ma'am* | keine, oder der Vorname: *"Ji-won,"* |
 | Form | Bericht | das Haus am Laufen halten |
 | Erklärt | alles, was sie wissen muss | nichts, sie wissen es beide |
-| Kontraktionen | wenige | viele |
 | Beschwerde | nie | ja, und zwar über Vorgänge, nicht über Personen |
+
+**Die Zeile *Kontraktionen: wenige / viele* stand hier und ist gestrichen.** Sie
+kam aus dem defekten Zähler (siehe Regel 5). Nachgemessen ziehen **weder
+Mrs Seo noch Jang irgendwo zusammen** - Jang dreimal im ganzen Buch, und alle
+drei in einem Wechsel über Kies. **Der Haushalt unterscheidet sich nicht durch
+Kontraktionen. Er unterscheidet sich dadurch, dass er einander nichts erklärt.**
 
 **Der Kern: untereinander erklären sie nichts.** Zwischen zwei Leuten, die
 dasselbe Haus neun Jahre lang kennen, ist ein halber Satz genug - *"Das Tablett
@@ -462,10 +518,13 @@ weil sie das Ergebnis will und nicht den Weg.
 
 ### 2. Chaebols reden miteinander, als wären sie gleich
 
-**Gemessen: zwischen Prinzipalen fällt kein einziger Titel.** Sie benutzen
-Vornamen, sparsam - *Ye-rin*, *Hana*, *Do-yun*, *Annie* - und sonst nichts.
-*Chairman* steht vierundzwanzigmal als Anrede im Buch und kommt **jedes Mal von
-Georgij**, nie von einem anderen Prinzipal.
+**Zwischen Prinzipalen fällt kein Titel.** Sie benutzen Vornamen, sparsam -
+*Ye-rin*, *Hana*, *Do-yun*, *Annie* - und sonst nichts.
+
+*(Hier stand: "*Chairman* steht vierundzwanzigmal als Anrede und kommt jedes Mal
+von Georgij." Nachgezählt am 25.08.: **dreiundsechzigmal**, und **nicht** jedes
+Mal von ihm - **Jang** und **Kang Ji-hoon** sagen es ebenfalls. Beide sind keine
+Prinzipale, die Regel bleibt also stehen; die Zahl und das *jedes Mal* nicht.)*
 
 **Die Regel dahinter:** Unter ihnen wird der Rang nicht ausgesprochen, weil er
 vorausgesetzt ist. **In dem Moment, in dem einer von ihnen einen Titel benutzt,
@@ -475,13 +534,43 @@ ohne Anlauf.
 
 ### 3. Hochrangige reden mit ihm wie mit ihresgleichen, und das ist bezahlt
 
-**Die Asymmetrie steht schon in den Zahlen.** Georgij gibt Titel: *Mistress*
-neunundachtzigmal, *Chairman* vierundzwanzigmal. Er bekommt keinen einzigen
-zurück - **es gibt im ganzen Buch kein Rangwort für ihn.** Was er bekommt, ist
-sein Vorname, zwölfmal, von Annie, Hana und Sang-hoon.
+**Die Asymmetrie steht in den Zahlen, aber sie hört auf - und das stand hier
+falsch.**
 
-**Er ist der einzige Mensch im Buch, der die Ehrerbietung noch zahlt, und alle
-über ihm haben aufgehört, sie einzutreiben.**
+Georgij gibt Titel: *Mistress* **hundertdreimal**, *Chairman* dreiundsechzigmal
+(hier stand 89 und 24). Was er zurückbekommt, ist überwiegend sein Vorname -
+grob gezählt zweiunddreißigmal, in Band 1 dreiundzwanzig und in Band 2 neun
+(hier stand: zwölfmal).
+
+**Und hier stand: *"Er bekommt keinen einzigen zurück - es gibt im ganzen Buch
+kein Rangwort für ihn."* Das ist der schwerste Irrtum in diesem Dokument.**
+
+Es gibt **sechs**, und sie stehen alle in den letzten fünf Kapiteln von Band 1:
+
+| | wer | wo |
+|---|---|---|
+| b1 K30 | **Kim Ye-rin**, an der Tür | die erste überhaupt |
+| b1 K31 | **Hana** | *"Go home, Mr Georgij."* |
+| b1 K32 | **Kim Ye-rin**, in der Auffahrt | |
+| b1 K33 | **Park Sang-hoon** | direkt nach Georgijs *"Chairman Park."* |
+| b1 K33 | **Park Sang-hoon**, an der Tür | wo er wieder die Hand nicht gibt |
+| b1 K34 | **Mr Chae** | |
+
+**Das ist kein Ausrutscher, das ist ein Bogen.** Er fängt bei Kapitel 30 an -
+auf der Terrasse, bei der Frau, die ihn zwanzig Minuten lang gar nicht angeredet
+hat - und danach tun es alle. In K33 sagt Georgij *"Chairman Park."* und bekommt
+im selben Wechsel *"Mr Georgij."* zurück. **Genau der Vorgang, von dem dieser
+Abschnitt behauptete, es gebe ihn nicht.**
+
+**Der Text macht also längst, was hier als Aufgabe stand** - und ein Durchgang
+nach dem alten Eintrag hätte alle sechs gestrichen, weil das Blatt sie verboten
+hat.
+
+**Die sechs sind damit festgelegt und werden nicht angefasst.**
+
+**Und daraus eine offene Frage an den Autor, keine Behauptung:** in Band 2 steht
+**keine einzige** mehr. Ist das gewollt - er ist dort bekannt, also fällt der
+Titel weg -, oder ist es abgerissen? Der Bogen endet mitten in der Bewegung.
 
 **Und das ist genau der Punkt, der geschrieben werden muss:** Die Gleichstellung
 wird **gewährt**, nicht genommen. Georgij nimmt sie nie an - er behält den Titel,
