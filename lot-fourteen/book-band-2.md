@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.266 Woerter.
+Book Two, 68 Kapitel, 168.587 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -31,19 +31,19 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 18 | v1.3 | 2.061 |
 | 19 | v1.3 | 2.151 |
 | 20 | v1.6 | 2.168 |
-| 21 | v1.5 | 2.568 |
+| 21 | v1.6 | 2.611 |
 | 22 | v1.5 | 2.047 |
 | 23 | v1.5 | 2.046 |
 | 24 | v1.3 | 2.050 |
 | 25 | v1.2 | 2.128 |
 | 26 | v1.3 | 2.029 |
 | 27 | v1.4 | 2.035 |
-| 28 | v1.2 | 2.465 |
-| 29 | v1.4 | 2.612 |
-| 30 | v1.1 | 2.054 |
+| 28 | v1.3 | 2.492 |
+| 29 | v1.5 | 2.664 |
+| 30 | v1.2 | 2.079 |
 | 31 | v1.1 | 2.356 |
 | 32 | v1.1 | 2.420 |
-| 33 | v1.2 | 2.015 |
+| 33 | v1.3 | 2.037 |
 | 34 | v1.3 | 2.260 |
 | 35 | v2.7 | 3.966 |
 | 36 | v2.1 | 3.315 |
@@ -60,9 +60,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 47 | v1.2 | 1.918 |
 | 48 | v1.1 | 2.354 |
 | 49 | v1.2 | 2.081 |
-| 50 | v2.2 | 2.960 |
+| 50 | v2.3 | 2.984 |
 | 51 | v1.2 | 2.148 |
-| 52 | v1.2 | 3.133 |
+| 52 | v1.3 | 3.160 |
 | 53 | v1.3 | 2.548 |
 | 54 | v1.2 | 2.862 |
 | 55 | v1.2 | 2.060 |
@@ -73,12 +73,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.2 | 2.488 |
 | 61 | v1.3 | 2.395 |
 | 62 | v1.4 | 2.173 |
-| 63 | v1.3 | 2.137 |
+| 63 | v1.4 | 2.193 |
 | 64 | v1.3 | 2.310 |
 | 65 | v1.3 | 2.182 |
 | 66 | v1.2 | 2.123 |
 | 67 | v1.1 | 2.560 |
-| 68 | v1.0 | 2.459 |
+| 68 | v1.1 | 2.504 |
 
 ---
 
@@ -4269,7 +4269,7 @@ She put her hand down without looking away from the window and left it in his ha
 ---
 
 # Book Two · Chapter 21: Tidily
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Thirteen · Monday 4 May
 
@@ -4371,6 +4371,8 @@ The room was very quiet.
 
 "You have not been running a clean house for five months," he said. "You have been running the same house tidily."
 
+Nobody in that building had ever said it to him, because everybody in that building had thought he was the improvement.
+
 Mr Hwang stood with one hand on the edge of the table for what was probably eight seconds.
 
 "Say the rest of it," he said. "You did not come here to give me a lecture on obligations. There is a fifth thing and you have been holding it since you came through the door."
@@ -4424,6 +4426,8 @@ Mr Hwang sat on the crate with his forearms on his knees and did not move.
 "I did the job," he said.
 
 "You did the job. That is the part I cannot get past, and I have been trying since the twenty-third of April." Georgij waited for him to look up. "Nobody in the whole of this took a single won. Not you. Not me. Not her. Everybody involved did what they thought was correct and a woman of fifty-eight is going to be selling two trucks on Thursday."
+
+That is the arithmetic he has been carrying since April, and there is nobody in it to be angry with.
 
 Nobody said anything for a while.
 
@@ -5652,7 +5656,7 @@ That is the whole of what happened in that room on the twenty-seventh of May.
 ---
 
 # Book Two · Chapter 28: He keeps everything
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Thirty-Seven · Thursday 28 May
 
@@ -5731,6 +5735,8 @@ Mr Hwang turned back to the table and moved the box file about an inch to the le
 "She came up here on the ninth of January." Mr Hwang put both hands flat on the table. "She sat where you are standing, because there was a chair there then, and she had a school exercise book with her that she had bought herself. She said she had been keeping a list."
 
 The room was very cold.
+
+She had bought the book herself and carried it up three floors to the one man in that building who would have known what it was.
 
 "Of what," said Georgij.
 
@@ -5883,7 +5889,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6045,6 +6051,8 @@ Mrs Jeon looked at the closed cover under her hands.
 
 "I did it anyway."
 
+He had handed her the one line that could end the house he lives in, because she deals in entries and he had nothing else that would clear.
+
 Mrs Jeon sat back in the chair for the first time since he came in.
 
 "Why."
@@ -6089,6 +6097,8 @@ She pushed the book about two inches across the table towards him and took her h
 
 "Not to keep," she said. "Copy it and bring it back. I have had it for twenty-three years and I would like it in this flat."
 
+She had given him everything in it and kept the object, which is the only part of it that was ever hers.
+
 "I will bring it back on Tuesday."
 
 At the door she said one more thing.
@@ -6114,7 +6124,7 @@ He is going to have to go into the small room tonight and say so.
 ---
 
 # Book Two · Chapter 30: A person with nothing
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6263,6 +6273,8 @@ Annie held his eye and took none of the weight off it.
 "On the fourth of October."
 
 "On the fourth of October, at about ten past nine in the evening, for a sum I am not going to say out loud in a room you are sitting in." She said it without any weight at all. "You were the most dangerous thing in that building and you had nothing, and I have never once pretended to myself that those were two separate facts."
+
+She had answered a question about a clerk in Gwangyang with the price she paid for him, and nobody had asked her for either.
 
 The room was very quiet.
 
@@ -6849,7 +6861,7 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 ---
 
 # Book Two · Chapter 33: A door with no name on it
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -6920,6 +6932,8 @@ Annie looked at the notebook, open on the desk, and did not read it upside down,
 Something in her face did not move and something behind it did.
 
 "That is the first time you have said that sentence in this house," said Annie.
+
+He had said that he has a name, and he had said it as a hazard and not as a possession.
 
 "I know."
 
@@ -10454,7 +10468,7 @@ And underneath, because he had promised himself in June that the page would hold
 ---
 
 # Book Two · Chapter 50: The one he kept
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Ninety-Eight · Tuesday 28 July
 
@@ -10643,6 +10657,8 @@ He took about ninety seconds, and when he came back he came back all at once, wh
 "Yes."
 
 "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Baek had gone entirely grey around the mouth. "Somebody has been having me pay the rates on a flat belonging to a person who was bought, so that the person would go on existing on paper."
+
+A solicitor got to it in ninety seconds out of one page and a utility bill, and it had taken Georgij five months.
 
 "I do not know that yet," said Georgij, "and I am not going to let you have it as a fact from me when it is a reading. I have two documents and a quantity of groceries."
 
@@ -10880,7 +10896,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 52: Against her return
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -11065,6 +11081,8 @@ Sim put one hand flat on the table beside the page and left it there.
 "I have not said that."
 
 "You have not said a great many things this evening and I have understood every one of them." It came out level and it did not stay level all the way to the end. "Somebody arrived. Everything that was described to me as an illness arrived in the same month as the somebody. I put two of those things there myself, and I was glad to, and I have just said so out loud in front of you."
+
+He had arranged that household for eleven years and had never once been given a reason to ask, and it took one page and nine minutes.
 
 "You were not slow," said Georgij.
 
@@ -13191,7 +13209,7 @@ He waited.
 ---
 
 # Book Two · Chapter 63: One sentence
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
 
@@ -13351,6 +13369,8 @@ Georgij did not write that part down.
 
 "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle place doesn't, and she's the one who buys the thing." He put the cloth down. "I've never said it out loud to a living person until just now, because there's nothing in it. It's a thing my sister said outside a door on a Tuesday."
 
+He had spent seven minutes looking for the one thing he owns that nobody could have taken off him, and it is a sentence about a pot.
+
 * * *
 
 "And she will hear the rest of it," said Georgij.
@@ -13366,6 +13386,8 @@ Georgij did not write that part down.
 Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was not four seconds either.
 
 "She'll be furious," he said. "That's fine. She's been furious with me since she was nine."
+
+He had just been told that four years of not stopping might not be welcome, and he answered it with a fact from when she was nine.
 
 * * *
 
@@ -14262,7 +14284,7 @@ Georgij sat in a car in Mapo with a notebook shut on his knee, and did not write
 ---
 
 # Book Two · Chapter 68: What he was for
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Thirty-Nine · Monday 7 September
 
@@ -14372,6 +14394,8 @@ Georgij sat in a chair in Jongno and did not move.
 
 "I was the best there was, and I still am, and I am sitting here in a room with four things on a plate that I put out for you before you arrived." He said it without any self-pity whatsoever, which made it worse. "You will notice that I am doing it now. I did it on the first of August and I did it four seconds ago, and I am not going to be able to stop." He looked at the plate. "It has never once been a technique. That is what makes it work."
 
+A man had found out at sixty-three what he was for, and he said it in the same voice he uses about the tea.
+
 * * *
 
 Neither of them said anything for a while.
@@ -14445,6 +14469,8 @@ Sim did not answer straight away.
 "Which two."
 
 "The word only, and the word just." Georgij held his eye. "Both of them would have made it smaller and both of them would have been for me."
+
+He had spent a weekend on one sentence, and the work was the two words he did not use.
 
 * * *
 
