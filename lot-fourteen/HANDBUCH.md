@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 196.728 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 196.925 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -1716,8 +1716,8 @@ kommt Pyo darum nicht mehr vor. Gesagt wird es einmal, in Kapitel 2. In der Aukt
 
 Er ist deutlich besser als sein Vorgänger, und Georgij behandelt ihn mit ehrlichem Respekt, was im Haus mehr Unruhe stiftet als das Auge.
 
-Aus dem Rohmaterial übernehmbar: Er meldet die Flucht über die Mauer bei den Rosen. Er koordiniert die Verfolgung vom Beifahrersitz. Am Flussufer holt er auf Georgijs Bitte den Sake, und als Georgij ihm einschenkt, weiß er nicht, wohin mit sich, weil er sein Leben lang für Leute gearbeitet hat, die Personal nicht ansprechen.
-*Vorschlag, ab Block B.*
+**Geschrieben, Kapitel 22 und 23, und anders als hier geplant.** Georgij geht bei den alten Rosen über die Mauer, in voller Sicht von Kamera vierundzwanzig. **Es gibt keine Verfolgung und keinen Beifahrersitz** - Jang findet ihn auf der Brücke, stellt sich vier Meter entfernt hin und geht von sich aus den Laden holen. Am Fluss holt er den Sake, und als Georgij ihm einschenkt, weiß er nicht, wohin mit sich, weil er sein Leben lang für Leute gearbeitet hat, die Personal nicht ansprechen.
+*Kanon. Band 1 ab Kapitel 5, tragend in 22 und 23; in Band 2 in achtzehn Kapiteln.*
 
 **Der Mann am Telefon** - Namenlos, taucht nie auf. Mrs Seo ruft ihn in der Kaufnacht von der Auffahrt aus an. Unter einer Minute, keine Adresse, weil er die Adresse hat. Ein Krankenwagen käme mit einer Meldung, eine penetrierende Augenverletzung ist aktenkundig, und dann steht die Polizei am Tor einer Frau, die an diesem Abend auf einer illegalen Auktion einen Menschen gekauft hat.
 **Kanonisch gesetzt:** Der Wachmann überlebt. Georgijs Begründung in Kapitel 2, dass eine Leiche ein Vorfall und ein Einäugiger eine Referenz ist, hängt daran. Für Georgij bleibt in Kapitel 3 offen, welche der beiden Möglichkeiten zutrifft. Für uns nicht.
@@ -1766,7 +1766,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 ---
 
 **Familie Lee** - Der lose Faden. Schuldner, verwundbar, ausgenutzt. Annie hält ihre Schulden. Sang-hoon schnüffelt seit Monaten um ihr Land herum.
-*Vorschlag.*
+*Vorschlag - und **in neunundneunzig Kapiteln nie benutzt**, nachgesehen am 25.08. Der Name kommt in keinem einzigen Kapitel vor. Entweder er wird gebraucht oder er faellt.*
 
 **Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
 **Zeitspannen, vereinheitlicht am 22.08.** Hana kennt sie seit **zwanzig Jahren** und hat sie in dieser Zeit **vierzehnmal** eingeladen; **zweimal** ist sie gekommen, und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Nicht verwechseln: Die **zwoelf** Jahre gehoeren **Annie** (Kapitel 9 und 28), nicht Ye-rin. In Kapitel 27 und 28 standen zwischenzeitlich zwoelf, zwanzig und vierundzwanzig Jahre nebeneinander, dazu ein *since you were both thirty-four*, das siebzehn ergaebe und ausserdem falsch ist, weil die beiden drei Jahre auseinander sind.
@@ -1807,14 +1807,15 @@ Leute weitergibt.
 
 **Kim Do-yun** - **Bis Kapitel 32** Sang-hoons rechte Hand und selbst ein Kim, also Verrat in der eigenen Familie. **Seit dem 22. Dezember nicht mehr.** Er steht am Türrahmen, während die anderen acht unterschreiben, und gibt Georgij sechs Tage statt der vierzehn, die er hätte geben müssen. **In Kapitel 33 bleibt er im Wagen**, weil er formal noch Sang-hoons Mann ist, und sieht seinen Arbeitgeber nach zwei Stunden herauskommen, ohne bekommen zu haben, wofür er gekommen ist. Das ist derselbe Wagen und dieselbe Stelle wie am 27. November in Kapitel 22, wo ein Mann darin sitzen bleibt und nicht benannt wird. Wer ihn nach 32 als überzeugten Sang-hoon-Mann schreibt, schreibt gegen den Text. Auf der Gala steht er mitten unter den Kims, die vollzählig und gut gelaunt da sind, weil eine Familie unter Zollermittlung genau das tun muss. Muss mit auf den Tisch, wenn Georgij mit der Familie spricht, sonst ist Annies Geld am ersten Tag verloren. Wäscht Geld über das Schulgeld seiner Kinder, was Hana über Nacht herausfindet. Isst mit Kang Ji-hoon zu Abend und spricht dabei über Incheon.
 **Zum Namen:** Ich habe ihn bewusst Kim gelassen. Der Nachname trägt hier Gewicht, denn er ist der Grund, warum die Schiffsroute Annie nicht nur Sang-hoon kostet, sondern die ganze Familie Kim in die Hand gibt. Mit dem Sicherheitschef als Jang gibt es keine Verwechslung mehr, es bleiben nur noch Do-yun und seine Familie, und die sollen dasselbe bedeuten. Wenn Du ihn trotzdem umbenennen willst, muss der Hebel auf die Familie neu begründet werden.
-*Vorschlag.*
+*Kanon. Band 1, Kapitel 14, 15, 16, 26, 29 bis 33.* Der Absatz zum Namen bleibt Autorennotiz.
 
 **Minister Min-ho** - Der Preis. Käuflich und wird bereits umworben. Sein Büro ist über Choi mit Sang-hoons Betrieb verbunden.
-*Vorschlag.*
+*Kanon, aber duenn: **ein einziger Auftritt**, Band 1, Kapitel 9, auf der Terrasse. Seither in neunzig Kapiteln nicht mehr.*
 
 **Kang Ji-hoon** - Beamter mittlerer Ebene, Ministerium für Land, Infrastruktur und Verkehr. Hat letztes Jahr die Umwidmung des Incheon-Lagerhauses gezeichnet. Sanft, geübt, misst statt zuzuhören. Prinzip: Man baut die Mauer, bevor sich der erste Stein bewegt. Mag Neugier mehr als Bescheidenheit. Spielt beide Seiten.
-Die schwarze Karte: Donnerstag, Shilla, neun Uhr.
-*Vorschlag.*
+*Kanon. Band 1, Kapitel 9, 10, 11, 21, 29 und 31.*
+
+Die schwarze Karte: Donnerstag, Shilla, neun Uhr. *Vorschlag, und in neunundneunzig Kapiteln nie benutzt - das Shilla kommt nirgends vor.*
 
 **Choi Dae-ho** - Der Fixer, die Bruecke. **Und ab Band 2 der Gegner dahinter,
 weil er Georgijs Spiegel ist.** Ueber Georgij steht in `doc/07-next.md`: *"Er
@@ -1838,8 +1839,8 @@ Unterschrift.** In Band 2, Kapitel 1 faengt es an: auf *"Did you meet him?"*
 sagt sie *"Ask me something else."*
  **Erster Auftritt als Name in Kapitel 7**, aus Hongs Mund, an dritter Stelle und damit an der Stelle, an der man den lässt, den man wirklich meint. **Er ist nicht auf der Gala** und war in neunzehn Jahren nie dort. Hong dazu: Er sitzt in nichts, steht auf keinem Aufsichtsrat, ist in keinem Geschäftsbericht zu finden und damit für einen Mann, der liest, nutzlos. Er gibt Abendessen.
 
-**Der eigentliche Punkt ist Georgijs Methode.** Choi steht auf keiner seiner Listen, und das beweist nichts, weil seine vierhundertdreißig Namen aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung stammen. Das ist keine Liste der Anwesenden, sondern eine Liste derer, die beim Hineingehen eine Spur hinterlassen haben. Wer selbst fährt, an keinem Tisch sitzt und nichts trinkt, kommt darin nicht vor. Nach vierzehn Minuten im Gebäude bekommt Georgij in einem Satz und aus Versehen die genaue Form dessen geliefert, was sein Instrument nicht sehen kann. Ehemaliger Staatsanwalt, vorzeitig und unter unklaren Umständen im Ruhestand, jetzt Direktor einer Private-Equity-Firma in Hongkong über eine Anwaltskette in Singapur. Kein Financier. Hat in sechs Monaten mehrere private Abendessen gegeben, bei denen jedes Mal entweder ein Lee oder ein Mann aus Sang-hoons Logistik am Tisch saß. Verbindet Min-hos Büro mit Sang-hoons Betrieb, und zwar persönlich, nicht nur finanziell.
-*Vorschlag.*
+**Der eigentliche Punkt ist Georgijs Methode.** Choi steht auf keiner seiner Listen, und das beweist nichts, weil seine vierhundertdreißig Namen aus einem Fahrdienst, einem Floristen und einer Korkgeldrechnung stammen. Das ist keine Liste der Anwesenden, sondern eine Liste derer, die beim Hineingehen eine Spur hinterlassen haben. Wer selbst fährt, an keinem Tisch sitzt und nichts trinkt, kommt darin nicht vor. Nach siebzehn Minuten im Gebäude bekommt Georgij in einem Satz und aus Versehen die genaue Form dessen geliefert, was sein Instrument nicht sehen kann. Ehemaliger Staatsanwalt, vorzeitig und unter unklaren Umständen im Ruhestand, jetzt Direktor einer Private-Equity-Firma in Hongkong über eine Anwaltskette in Singapur. Kein Financier. Hat in sechs Monaten mehrere private Abendessen gegeben, bei denen jedes Mal entweder ein Lee oder ein Mann aus Sang-hoons Logistik am Tisch saß. Verbindet Min-hos Büro mit Sang-hoons Betrieb, und zwar persönlich, nicht nur finanziell.
+*Kanon. Band 1, Kapitel 7 (der Name aus Hongs Mund); in Band 2 der Gegner des Bandes, in vierzehn Kapiteln von 3 bis 62.*
 
 ---
 
@@ -1944,13 +1945,16 @@ nichts Neues gibt.
 **Der Vorname ist bewusst androgyn.** Im Schriftverkehr wird sie fuer einen Mann
 gehalten, und das ist brauchbar.
 
-**Ob sie ueberlebt, ist nicht vorher entschieden** - siehe `doc/07-next.md` unter
-"Was NICHT vorher entschieden ist". Annies Vetorecht ueber Routen erdrosselt
+**Entschieden, und zwar im Text, nachgetragen am 25.08.** Ihr erster Raum ist
+Band 2, Kapitel 15, der 23. April: vier dafuer, eine dagegen, Cho enthaelt sich.
+Nach Kapitel 22 kommt sie in Band 2 nicht mehr vor. Siehe `doc/02-leads.md`. Annies Vetorecht ueber Routen erdrosselt
 sie seit Januar. Wer nur eine Lane hat, macht keine Triage, sondern
 Verzweiflung - **der genaue Gegenentwurf zu Sang-hoon, der Information nie
 ausgibt.** Sie gibt alles am Tag aus, an dem sie es bekommt, und deshalb ist
-nichts, was sie erfaehrt, zurueckkaufbar. **Und sie luegt**, weil sie ertrinkt.
-*Vorschlag, noch nicht im Text.*
+nichts, was sie erfaehrt, zurueckkaufbar. **Und sie luegt nicht** - das war der
+Plan und ist verworfen; zwanzig Zeilen weiter unten steht in dieser Datei
+*"Nam Byung-hee luegt nicht"*, und der Text gibt ihr recht.
+*Geplant war das Gegenteil, geaendert am 25.08.*
 
 **Die Regel zur Wahrheit in Band 2**, und sie ersetzt die Symmetrie aus Band 1:
 **Luegen ist Aufwand, und wer sich seines Sieges sicher ist, treibt keinen.**
