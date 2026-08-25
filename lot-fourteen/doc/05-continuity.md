@@ -2655,6 +2655,71 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     er hat aufgehoert mitzuzaehlen, was im Text steht.
 
 
+- **Band 2, Kapitel 60** *Somebody's daughter* (v1.0) - **Tag 322, Fr 21. August. Annies vierte Frage, drei Tage spaeter.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Der Fehler, den Georgij an sich selbst findet:** fuenf Monate Feldzug, jede
+    einzelne Zeile davon naehert sich dem Haus **von Chois Seite**. Er hat die
+    Frau am Sauerstoff behandelt wie das ganze Gewerbe sie behandelt, naemlich als
+    etwas, das Choi hat. **Niemand hat je gefragt, wessen sie ist.** Das ist
+    woertlich derselbe Satz, den er im Juli ueber Mr Ahn geschrieben hat.
+  - **Der Zugriff:** eine Hochzeit hinterlaesst mehr Papier als ein Todesfall.
+    Ein Saal in Jung-gu fuehrt seit 1988 Buecher, und die Frau, die dort seit
+    neunzehn Jahren den Kalender macht, erinnert sich an die Absage, **weil die
+    Anzahlung nie abgeholt wurde.** Die Buchung lief auf den Familiennamen der
+    Braut. **Der Name steht noch nicht im Text.**
+  - **Und "October was her mother's month" ist kein Datum**, sondern eine Auskunft
+    ueber eine Lebenslage: wer Sim das gesagt hat, kannte die Mutter, also lebte
+    die Mutter, als die Sache eingerichtet wurde.
+  - **Die zweite Haelfte, und sie ist die schwerere:** Georgij weiss nicht, ob die
+    Frau herausgeholt werden will. Elf Jahre sind lang genug, um etwas entschieden
+    zu haben. Er beruft sich ausdruecklich auf den **1. Maerz** und *"Then it
+    stays on"*: wer damals in der Tuer gestanden haette, haette vier gute Gruende
+    gehabt, ihm das Halsband abzunehmen, und jeder davon waere falsch gewesen.
+  - **Woraus die Umkehrung des ganzen Bandes folgt:** fragen kann sie weder Annie
+    noch Georgij. Nur **Ahn Jung-hee**, die ihr seit vier Jahren das Fruehstueck
+    bringt. Damit liegt der Rest bei zwei Frauen ohne Geld, und der erste Zug ist
+    kein Zug, sondern *"a thing you do to a person"*: Ahn Jung-hee zu sagen, dass
+    ihr Bruder lebt.
+  - Annies eigentliche Frage am Ende: nicht der Saal und nicht die Familie,
+    sondern was er in der Nacht zum Donnerstag getan hat. Antwort: er hat gemerkt,
+    dass er sechs Wochen lang in eigener Handschrift einen Menschen **operating
+    cost** genannt hat, *"because it was tidier"*.
+  - **Woo telefoniert um zwanzig nach neun** und sagt es nicht am Telefon. Er
+    kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
+    him where he is."*
+
+- **Band 2, Kapitel 61** *The doorway* (v1.0) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.
+    **Choi ist elf Tage spaeter aus dem Dienst ausgeschieden.** Er ist 59, war
+    also 36. Deckt sich mit Kapitel 26 und mit Annies vierzehn Jahren.
+  - **Woo war nicht das Gekaufte. Er war die Tuer.** Man holt einen Staatsanwalt
+    von sechsunddreissig nicht mit Geld aus dem Dienst - man gibt ihm eine Sache
+    zu tun, die er nicht rueckgaengig machen kann, und dann geht er von selbst.
+    Choi hat einen Fall geschlossen, den er bereits gewonnen hatte.
+  - **DER NAME: Annies Vater.** Ein Mann aus Incheon, der von unten kam, keinen
+    Vertrag lesen konnte (Kapitel 30, B1: die Mutter las sie ihm nach dem Essen
+    vor) und in vier Sekunden richtig ueber Menschen urteilte. **Wer keinen
+    Vertrag lesen kann, braucht jemanden, der ihm sagt, wem er ja sagen soll.**
+    Er hat Woo im Fruehjahr 2002 bei einem Essen gesagt, er habe jemanden
+    gefunden, der es in einer Sekunde koenne. Ohne Namen.
+  - **Belegstaerke ist ausdruecklich dreigeteilt** und steht so im Text: der
+    Schreiber gibt nur "von ausserhalb des Dienstes" und "aus Incheon" her (vier
+    Woerter auf einem Korridor); der Rest ist Woos eigenes Urteil aus
+    einunddreissig Jahren; und Woo sagt selbst, dass er es deshalb nicht in ihrer
+    Gegenwart sagt.
+  - **Offen gelassen und ausdruecklich benannt:** nichts daran verlangt, dass ihr
+    Vater wusste, was er da baute. *"There is also nothing in it which requires
+    him not to have known."*
+  - **Woo gibt es nicht an Annie weiter.** Es gehoert Georgij. Und das Ungefragte
+    zum Schluss: Annie weiss seit sieben Jahren, dass an dem Tisch ihres Vaters
+    ein Mann falsch war, und hat **nie gefragt, wie er dorthin kam** - nicht
+    einmal Woo, der gefragt worden waere. *"You may not be the one who is about
+    to tell her anything."*
+
+
 ---
 
 ## Der Juli ist betreten

@@ -93,9 +93,36 @@ gekommen ist. Drei Dinge kommen daraus:
 sich aus zwei vom Tisch angerufen. Der Feldzug laeuft jetzt auch ohne Georgij,
 und das ist die Frage, mit der Kapitel 58 aufmacht.
 
-**Offen und faellig:** der Besteller, Mrs Sunwoo, Woos Rueckruf (wer die Akte
-schliessen liess), die uebrigen vom Tisch (als Wirkung schreiben, nicht als
-Aufzaehlung), Nam Byung-hee, das Haus beenden, das Geld (Baek, der Trust - **erst
+### Stand nach Kapitel 61 (Tag 324, Sonntag 23. August)
+
+**Der Besteller ist gefunden und es ist sie selbst.** Do Kyung-ae, der Name auf
+Sims Zettel, ist Ahn Jung-hee. Sie fuehrt den Haushalt, in dem sie gehalten
+wird. Belegt ueber neun auf dem Dienstplan gegen Essen fuer zehn (Kapitel 48)
+und darueber, dass niemand vom Dienstplan ueber ein zweites Bad entscheidet.
+
+**Die fuenfte Bitte ist gestellt und beantwortet** (Kapitel 59). Annie kauft die
+Konsignation, und das Instrument endet an dem Tag, an dem **Ahn Jung-hee** es
+sagt. Reihenfolge unveraendert: erst Baek und das Haus, dann sie.
+
+**Und der Band hat sich umgedreht** (Kapitel 60). Die Frau am Sauerstoff ist kein
+Kostenposten. Sie hat eine Familie, einen abgesagten Saal und eine nie abgeholte
+Anzahlung. Und niemand weiss, ob sie herausgeholt werden will. **Fragen kann sie
+weder Annie noch Georgij, sondern nur Ahn Jung-hee.** Damit liegt das Ende bei
+zwei Frauen ohne Geld, und der erste Zug ist, Ahn Jung-hee zu sagen, dass ihr
+Bruder lebt.
+
+**Woo hat den Grund** (Kapitel 61). Choi ist nicht unter einer Wolke gegangen.
+**Annies Vater hat ihn geholt** - ein Mann, der keinen Vertrag lesen konnte und
+jemanden brauchte, der ihm sagte, wem er ja sagen soll. Georgij hat das seit
+Sonntag und Annie hat es nicht, und Woo hat gesagt, dass sie es sich ohnehin
+selbst zusammensetzen wird.
+
+**Die naechsten drei Zuege stehen damit fest:** Annie erfaehrt es (oder sagt es
+selbst); Ahn Jung-hee wird angesprochen; und erst danach Baek, das Haus und das
+Geld. **Landung weiterhin bei ungefaehr 67.**
+
+**Offen und faellig:** Mrs Sunwoo, die uebrigen vom Tisch (als Wirkung schreiben,
+nicht als Aufzaehlung), Nam Byung-hee, das Haus beenden, das Geld (Baek, der Trust - **erst
 wenn Annie sie auffangen kann**), das Zimmer, wie Choi es erfaehrt, das
 Endgespraech, die Schlusszeile. **Etwa zwoelf Kapitel, Landung bei ungefaehr 67.**
 
