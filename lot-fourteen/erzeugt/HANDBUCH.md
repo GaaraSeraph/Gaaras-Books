@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 229.963 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 230.305 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -6693,8 +6693,6 @@ Kapitel 12 bis 16 haben Stoff hinzugefügt, den dieser Plan gar nicht kannte. Er
 
 ---
 
----
-
 ### Block A - Das Haus bei Nacht **[GESCHRIEBEN, Kapitel 3]**
 
 Direkt im Anschluss an das Auge. Dieselbe Nacht, nach eins.
@@ -6792,6 +6790,20 @@ Kapitel 12 bis 16 sind Stoff, den dieses Dokument nie enthalten hat und den die 
 - **Das Essen mit Sang-hoon, Tag 46.** Die vier Schweigen. Ulsan war Februar, Busan war März, zwei Jahre für eine Familie und achtzehn Monate, wenn jemand sie für ihn erschreckt. Der Biss geschieht mitten in einem Gespräch über eine Decke, und beide wissen es. Die neunzehn Seiten bleiben bei Sang-hoon.
 
 ### Die Lücke: Tag 45
+
+> **Am 25.08. nachgeprueft: die Luecke ist zu, und zwar durch Bericht statt
+> durch Szene.** Beides wird im Text als geschehen behandelt:
+>
+> 1. **Der Mietvorvertrag ist unterschrieben.** Band 1, Kapitel 21: *"Nothing.
+>    The lease was signed on Monday."*
+> 2. **Die zweite Abteilung ist gezogen und wird benutzt.** Hanas Belastungen
+>    sind ab da im Spiel: *"A charge is an asset. It is bought and it is sold. A
+>    regional bank in Incheon will let a position go at a discount"*, und
+>    spaeter zaehlt Annie sie zu dem auf, was er weiss: *"You know about
+>    Incheon, and about Hana's charges."*
+>
+> **Es fehlt also keine Handlung, sondern hoechstens eine Szene** - und die
+> wollte niemand.
 
 **Zwei Dinge sind kanonisch verabredet, aber nicht geschrieben**, und beide liegen am Montag, dem 17. November, also zwischen Kapitel 15 und Kapitel 16:
 
@@ -7009,6 +7021,23 @@ Antwort auf ihre Frage aus Block J.
 
 #### Der Ablauf
 
+> **Nachgeprueft am 25.08. Der Plan ist ausgefuehrt, aber nicht in allen vier
+> Schritten so, wie er hier steht - und Schritt 2 steht inzwischen gegen den
+> Kanon.**
+>
+> - **Schritt 1 ist geschrieben**, in Band 1, Kapitel 22, und knapper als hier:
+>   *"You broke it tonight, Mistress."*
+> - **Schritt 2 ist nicht geschrieben worden und darf es auch nicht.** Der Plan
+>   verlangt *zwei Finger unter die Vorderkante* und beruft sich auf den
+>   Schneider aus Kapitel 5. **`doc/10-naehe.md`, Register C, verbietet genau
+>   das:** *"Der Schneider legt in B1 5 zwei Finger unter die Vorderkante, um zu
+>   messen. Das ist nicht sie und darf nie mit ihr verwechselt werden."*
+> - **Der Text hat sich fuer die Regel entschieden.** Die Geste faellt, aber erst
+>   in **Band 2, Kapitel 35** (Do 4. Juni), zweihundert Tage spaeter und **an der
+>   Seite** statt an der Vorderkante: *"she reached over and put two fingers under
+>   the collar, at the side, where the skin is"*, und danach *"She has never done
+>   that."* Sie steht als Zeile 8 in Register C.
+
 **Der zweite Teil spielt spaeter, wenn sie allein auf dem Anwesen sind.**
 
 1. Er benennt es, praezise und ohne ein unwahres Wort: **"We had a deal. Quid pro quo. You broke it."** Das ist die Klausel aus Kapitel 1, die greift: *"Give me respect and you'll have my obedience. Give me the other thing, the way the four houses before you did, and I'll be exactly what my file says I am."* Es ist keine Auflehnung, sondern der Vertrag, der wie geschrieben funktioniert. Deshalb darf er gehen, und deshalb kann er zurueckkommen, ohne ihn zu erneuern.
@@ -7119,8 +7148,10 @@ Dass sie in der Schublade liegt, ist inzwischen über Kapitel 11 halb gesetzt. W
 
 ## Band 2 steht hier nicht, Stand 24.08.
 
-Dieses Dokument endet mit Block I und Kapitel 24 von Band 1. Band 2 hat
-fuenfundvierzig Kapitel und keinen einzigen Eintrag hier. Das ist kein Fehler -
+Dieses Dokument endet mit Block J und Kapitel 24 von Band 1. **Nachgezogen am
+25.08.:** hier stand *Block I* und *fuenfundvierzig Kapitel*. Es ist Block J
+(Mapo-Bruecke), und Band 2 hat inzwischen **achtundsechzig** Kapitel und keinen
+einzigen Eintrag hier. Das ist kein Fehler -
 `CLAUDE.md` sagt, dieses Dokument sei kein Kanon -, aber wer nach dem Stoff von
 Band 2 sucht, findet ihn nur in `doc/07-next.md` und in der Kapitelliste von
 `doc/05-continuity.md`, und beide sind dafuer nicht gebaut.
@@ -10938,7 +10969,7 @@ Halsband an und nie an das Halsband selbst.**
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
 | 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
-| 8 | **B2 35** | **Do 4. Juni** | Zwei Finger **unter** das Halsband, an der Seite, wo die Haut ist. Das erste Mal überhaupt. |
+| 8 | **B2 35** | **Do 4. Juni** | *"After a while she reached over and put two fingers **under** the collar, at the side, where the skin is."* Und der Text sagt es selbst: *"She has never done that."* |
 
 **Die drei, die B2 18 zaehlt.** *"which she has done perhaps three times since
 October"* geht genau auf, wenn man B1 33 und die zwei Februar-Male aus B1 34

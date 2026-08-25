@@ -133,7 +133,7 @@ Halsband an und nie an das Halsband selbst.**
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
 | 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
-| 8 | **B2 35** | **Do 4. Juni** | Zwei Finger **unter** das Halsband, an der Seite, wo die Haut ist. Das erste Mal überhaupt. |
+| 8 | **B2 35** | **Do 4. Juni** | *"After a while she reached over and put two fingers **under** the collar, at the side, where the skin is."* Und der Text sagt es selbst: *"She has never done that."* |
 
 **Die drei, die B2 18 zaehlt.** *"which she has done perhaps three times since
 October"* geht genau auf, wenn man B1 33 und die zwei Februar-Male aus B1 34
