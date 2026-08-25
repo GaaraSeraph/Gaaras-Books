@@ -165,3 +165,73 @@ once*, *the one who could carry it*). **Alle aus dem Kapitel selbst.**
   Durchgangs zeigt: **ein Erzaehlerkommentar erfindet ein Motiv, das die Figur
   nicht hat.**
 
+#### Block 2 - K05, K09, K12, K18, K20, K22, K23 (14 Kommentare)
+
+**Zuerst eine Korrektur an meiner eigenen Messung, weil sie den Zuschnitt des
+Durchgangs aendert.** Die Zahl aus dem Kopf dieses Blatts (Band 1 0,25 - Band 2
+0,02) misst eine **enge Satzform** (*It was a payment on account.*), nicht das
+Phaenomen. Breiter gemessen - Erzaehlerabsaetze ueber zwoelf Woertern, keine
+Rede - steht es **Band 1 13,4 : Band 2 12,4 je 1000 Woerter**. Der Erzaehler ist
+also **nicht verstummt**. Was auseinanderlaeuft, ist die Verteilung: Kapitel 1
+bis 3 von Band 2 liegen bei 24,2 / 17,0 / 27,5 und brauchen nichts, waehrend
+achtzehn Kapitel unter 8,0 liegen und zwei davon unter dem duennsten Kapitel von
+Band 1 (K27, 4,0).
+
+**Folge: keine Quote ueber 68 Kapitel.** Gearbeitet wird an den achtzehn duennen
+und danach an einzelnen Stellen. K01-K04 und K06 wurden gelesen und
+**absichtlich nicht angefasst** - sie benennen bereits (*"The trouble with a man
+who has never said anything untrue is that he has also never had to be
+believed."*, K04).
+
+**Meldung 2 - Zahl, Datum oder Dauer in einem eingesetzten Satz**
+
+| Kap | Eingesetzt | Woher |
+|---|---|---|
+| K18 | *"**Eight** of the **nine** lines described a man. The **ninth** described what he does."* | die neun Zeilen zaehlt das Kapitel selbst |
+| K20 | *"He had promised her that answer on the **third of April**..."* | b2 K12 ist Tag 182, Fr 3. April; Annie sagt im selben Kapitel *"since the third of April"* |
+| K23 | *"...**a woman of eighty-one**..."* → ersetzt, siehe unten | Mrs Sunwoo, im Kapitel |
+| K23 | *"...the rule she had put on him **in March**."* | b2 K05, 11. Maerz: *"The price, before it is paid."* |
+
+**Meldung 3 - Absoluta in eingesetzten Saetzen**
+
+| Kap | Eingesetzt | Deckung |
+|---|---|---|
+| K05 | *"It was **the only** asset he had **ever** had, and it was not anything he had done."* | Georgij zwei Zeilen davor: *"It is the only true thing I have that is worth anything to you."* |
+| K09 | *"She had corrected herself out loud in front of him, and **she does not do that**."* | die Korrektur steht auf der Seite (*"Do not look pleased."* → *"You are permitted to be pleased."*); die Gewohnheit ist Erzaehlerurteil |
+| K09 | *"It was **the only** thing she said **all evening** about how it felt..."* | im Kapitel nachpruefbar |
+| K12 | *"It was the nearest thing to a complaint he had **ever** made in that room..."* | **keine woertliche Deckung.** Siehe *Unsicher* |
+| K22 | *"It is **the one** part of that minute Mr Byun **never** understood..."* | Byun selbst: *"the part I did not understand and have not understood since"* |
+| K22 | *"...it makes **no difference whatever** to the man it is done to."* | Erzaehlersatz ohne Fakten. Siehe *Unsicher* |
+
+**Meldung 1 und 4:** keine. Nichts gestrichen, keine festgelegte Zeile beruehrt.
+
+**Gegenprobe `faktenspur.py --seit 3f274c2`:** fuenf Kapitel, alle oben
+aufgeloest. K05 und K09 meldet sie gar nicht - dort steht in keinem der vier
+Saetze eine Zahl.
+
+**Unsicher**
+
+- **K12** - *"the nearest thing to a complaint he had ever made in that room"*.
+  Ein Superlativ ueber sechs Monate Dialog, den ich nicht ausgezaehlt habe. Wenn
+  frueher eine deutlichere Klage steht, faellt der Satz.
+- **K22** - *"The difference is whether the man doing it wants to, and it makes
+  no difference whatever to the man it is done to."* **Der Satz beantwortet
+  genau das, was Georgij eine Zeile vorher ausdruecklich nicht erklaert**
+  (*"you have not got the first idea why, and I am not going to explain it to
+  you"*). Das kann gewollt sein - der Leser bekommt, was Byun nicht bekommt -
+  oder es nimmt der Verweigerung die Spitze. **Autorenentscheidung.**
+- **K18, beim Schreiben selbst gefangen und ersetzt.** Erste Fassung: *"...and he
+  had started running it before she finished the sentence."* Das widerspricht dem
+  spaeteren *"He went at it on the stairs afterwards and did not get anywhere."*
+  Jetzt: *"...and no way at all to check the answer."*
+- **K23, ebenso.** Erste Fassung: *"He had handed a man to a woman of eighty-one
+  ... Both halves were deliberate."* Damit haette der Erzaehler Mrs Sunwoos
+  Lesart (*"You are inviting me to do something"*) gegen Georgijs ausdrueckliches
+  Dementi bestaetigt. Jetzt steht nur, was auf der Seite steht: *"He had given
+  her the address and the daughter-in-law's family without being asked for
+  either."*
+
+**Beides ist dieselbe Fehlerklasse wie in Block 1: der Erzaehlerkommentar
+behauptet mehr, als die Szene hergibt.** Er wiegt schwerer als eine Figur, also
+faellt es nicht auf, wenn er es tut.
+
