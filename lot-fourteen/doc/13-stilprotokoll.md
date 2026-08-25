@@ -235,3 +235,62 @@ Saetze eine Zahl.
 behauptet mehr, als die Szene hergibt.** Er wiegt schwerer als eine Figur, also
 faellt es nicht auf, wenn er es tut.
 
+#### Block 3 - K32, K40, K42, K48, K59, K62, K64, K65, K67 (17 Kommentare)
+
+Damit sind **alle achtzehn Kapitel unter 8,0 durch** (K53 und K61 in Block 1,
+K05/K09/K12/K18/K20/K22/K23 in Block 2, diese neun hier).
+
+**Meldung 2 - Zahl, Datum oder Dauer in einem eingesetzten Satz**
+
+| Kap | Eingesetzt | Woher |
+|---|---|---|
+| K42 | *"He had put a firm down to a friend for **six years**..."* | Sang-hoon im selben Absatz: *"I have put it down to him for six years."* |
+| K59 | *"He was describing what had been done to him **in October**..."* | der vierte Oktober, sein eigenes Datum, quer durch beide Baende |
+| K64 | *"It is the only promise anybody has made her in **four years**..."* | Ahn Jung-hee ging vor vier Jahren in das Haus, im selben Kapitel gesagt |
+
+**Meldung 3 - Absoluta in eingesetzten Saetzen**
+
+| Kap | Eingesetzt | Deckung |
+|---|---|---|
+| K32 | *"It is **the only** thing he said all morning that he had not decided on the bus."* | Erzaehlerurteil, keine woertliche Deckung |
+| K32 | *"...kept back **the only** part of it that would have helped him."* | ihre eigene Zeile: *"and he does not get to have it"* |
+| K40 | *"It is **the only** thing he said all morning that was about himself..."* | im Kapitel nachpruefbar |
+| K48 | *"It was **the whole of** what he thought of the afternoon..."* | Erzaehlerurteil ueber Sang-hoon |
+| K62 | *"It is **the only** thing anybody has found that will work on him..."* | siehe *Unsicher* - Behauptung ueber die ganze Handlung |
+| K64 | *"It is **the only** promise anybody has made her in four years..."* | siehe *Unsicher* |
+| K65 | *"It is **the only** sentence anybody has said to him this year that he is not allowed to agree with."* | Erzaehlerurteil |
+| K67 | *"It is **the last thing** she is known to have decided..."* | siehe *Unsicher* - **die riskanteste von allen** |
+
+**Meldung 1 und 4:** keine.
+
+**Gegenprobe `faktenspur.py --seit 5579d07`:** acht Kapitel, jede Zeile oben
+aufgeloest. K32 meldet sie nicht - dort steht in keinem der beiden Saetze eine
+Zahl.
+
+**Unsicher**
+
+- **K67** - *"It is the last thing she is known to have decided, and it was
+  about flowers."* Das ist eine Behauptung ueber den **Zeitstrahl**, nicht ueber
+  die Szene: sie gilt nur, solange in keinem spaeteren Kapitel eine Entscheidung
+  von ihr belegt ist. **Bitte gegen den Kalender pruefen.** Faellt sie, wird
+  daraus *"It was the last thing she asked anybody for, and it was about
+  flowers"* - oder der Satz geht ganz raus.
+- **K62** - *"the only thing anybody has found that will work on him"*. Eine
+  Aussage ueber den Stand der Handlung, nicht ueber die Zeile. Wenn spaeter ein
+  zweiter Hebel auftaucht, ist der Satz falsch, ohne dass ihn jemand anfasst.
+- **K64** - *"the only promise anybody has made her in four years"*. Deckung ist
+  Sims eigenes *"She has never once asked me a question in four years"* plus die
+  Feststellung, dass niemand sie besucht. Streng genommen ist es ein Schluss und
+  kein Beleg.
+- **K48** und **K32** - beide Saetze behaupten, was eine andere Figur denkt
+  (Sang-hoon, Mrs Jeon). Innerhalb der Kameraregel liegen sie an der Kante.
+
+**Nebenbefund, nicht von mir und keine der vier Klassen - aber es ist die
+Klasse, die Euch am meisten kostet.** In `ch42`, an der Stelle
+*"Then find out whether the woman Jang has been watching is the same woman this
+trust was built for eleven years ago." Sang-hoon put one finger on the folder*:
+der Begleitsatz gibt die Zeile **Sang-hoon**. Jang ist Hauspersonal, und ob
+Sang-hoon dessen Namen kennt, steht nirgends. Die Zeile ist inhaltlich als
+Anweisung an Georgij lesbar, also **kein sicherer Fund** - ich habe nichts
+geaendert und trage sie hier ein.
+
