@@ -2996,8 +2996,8 @@ alle Geburtstage in den Juli, August oder September legen, weil das die einzige
 Strecke war, die nicht erzaehlt wird. Damit hatte jede Figur ueber beide Baende
 **genau eine** Altersangabe.
 
-**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 66 und
-dem **2. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
+**Der Einfall ist am 25.08. eingeholt worden.** Band 2 steht bei Kapitel 68 und
+dem **7. September**. Die Strecke, in der die Geburtstage geparkt waren, ist
 erzaehlte Zeit geworden - und drei Altersangaben standen prompt gegen ihren
 eigenen Geburtstag:
 
@@ -3018,19 +3018,43 @@ to spend the whole of it being sixty in a restaurant."* Montag, der 27. Juli. Er
 ist **seit dem 27. Juli sechzig**, und in Kapitel 48 am 20. Juli sagt er noch
 *"I am fifty-nine"* - beides stimmt und muss so bleiben.
 
-**Das Fenster ist jetzt der 3. September bis 3. Oktober, einunddreissig Tage,
-und es schrumpft im Wochentakt** - beim Schreiben dieses Absatzes stand Band 2
-auf Kapitel 65 und dem 1. September, eine Stunde spaeter lag Kapitel 66 auf dem
-2. September vor. **Mr Chaes Geburtstag, der 3. September, ist damit die
-naechste Stelle, an der es klemmt.** Wer ueber Anfang Oktober hinausschreibt,
-hat kein unerzaehltes Fenster mehr, und dann gibt es nur noch eine Moeglichkeit:
-**Alter werden mitgefuehrt statt geparkt**, und diese Tabelle bekommt eine
-Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
-*Geburtstag* als das, was sie immer war - eine Parkposition und keine Figurentatsache.
+**Das Fenster ist aufgebraucht, und das ist keine Warnung mehr, sondern der
+Befund.** Band 2 steht auf **Tag 339, Montag dem 7. September**. Uebrig sind
+**26 Tage bis zum 3. Oktober**, und **Tag 366 ist der 4. Oktober** - der
+Jahrestag der Auktion. Das Buch laeuft sichtbar darauf zu. Wer bis dahin
+schreibt, verbraucht das Fenster vollstaendig.
+
+**Zwei Geburtstage liegen bereits hinter der Front:** Mr Chae am 3. September
+(Tag 335) und Kim Do-yun am 6. September (Tag 338). **Kein Widerspruch** -
+beide kommen in den Kapiteln 66, 67 und 68 nicht vor. Aber ihre Parkposition
+ist verbraucht: die naechste Altersangabe zu ihnen ist die falsche.
+
+**Und was in den naechsten zehn erzaehlten Tagen faellt:**
+
+| Figur | Geburtstag | Tag | wird |
+|---|---|---|---|
+| Choi Dae-ho | Di 8. September | 340 | 60 |
+| Mr Hwang | Fr 11. September | 343 | 51 |
+| **Georgij** | **Sa 12. September** | **344** | **27** |
+
+**Georgij ist der ruhigste Fall von allen, und das ist gepruefte gute
+Nachricht.** Seine Sechsundzwanzig steht im ganzen Buch nur an zwei Stellen,
+und beide sind der Katalog vom 4. Oktober: *"Lot fourteen. Male,
+twenty-six."* und der Widerhall in Kapitel 2. Das sind **datierte Papiere**,
+keine laufenden Altersangaben - es gibt im Text kein *he is twenty-six* und
+kein *I am twenty-six*. **Er darf am 12. September siebenundzwanzig werden,
+ohne dass ein einziger Satz umgeschrieben werden muss.** Ab Tag 344 gilt
+siebenundzwanzig, und wer danach sechsundzwanzig schreibt, schreibt falsch.
+
+**Die Konsequenz fuer die Tabelle: geparkt wird nicht mehr.** Die Spalte
+*Geburtstag* war eine Buchhaltungshilfe fuer eine unerzaehlte Strecke, die es
+nicht mehr gibt. Ab hier gilt sie als Datum: **ab diesem Tag ist die Figur ein
+Jahr aelter**, und die Tabelle sagt es. Neue Figuren bekommen ihren Geburtstag
+weiterhin hinter der Front, damit ihre Zahl bis dahin stillsteht.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
-| **Georgij** | 26 | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
+| **Georgij** | 26, **ab Tag 344 (12. September) 27** | 12. September | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | 8. September | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |
@@ -3054,13 +3078,15 @@ Spalte, ab welchem Datum welche Zahl gilt. Bis dahin gilt die Spalte
 | **Kim Ye-rin** | 54 | 5. August | Band 1, Kapitel 26, 28 und 30 |
 | **Kang** | 43 | 25. August | Band 1, Kapitel 11 |
 | **Mr Chae** | 58 | 3. September | Band 1, Kapitel 25, aus seinem eigenen Mund |
+| **Sim** | 63 | **1. Oktober** | **Band 2, Kapitel 68, aus seinem eigenen Mund:** *"I am sixty-three. I have got one instrument and I have just found out what it was for."* Dazu im selben Kapitel *"a man of sixty-odd"*. Dreissig Jahre im Dienst |
+| **Mrs Ha** | 58 | **2. Oktober** | **Band 2, Kapitel 67, aus ihrem eigenen Mund:** *"I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."* Dreissig Jahre |
 | **Mrs Gwak** | etwa 70 | **offen** | Kapitel 31: *"about seventy"*. Schaetzung des Erzaehlers. Kein Geburtstag, solange die Zahl weich ist |
 | **Jang** | **offen** | **offen** | Dreissig Jahre im Gewerbe (12, 13, 40), kein Alter im Text |
 | **Mrs Seo** | **offen** | **offen** | Neun Jahre im Haus, kein Alter im Text |
 
 **Die Regel dazu.** Wer eine Altersangabe schreibt, holt sie hier. Wer eine
 aendert, aendert sie hier zuerst. Wer eine Figur neu einfuehrt und ihr eine Zahl
-gibt, traegt sie mit einem Geburtstag im Fenster **3. September bis 3. Oktober** ein,
+gibt, traegt sie mit einem Geburtstag hinter der Erzaehlfront ein - Stand 25.08.: **nach dem 7. September**,
 **bevor** die Zahl in einen Satz kommt - und prueft, ob das Fenster ueberhaupt
 noch existiert. Und wer ein Alter aus einer anderen Zahl ableitet -
 *"since I was twenty-four"*, *"eight years at that table"* - rechnet beide
