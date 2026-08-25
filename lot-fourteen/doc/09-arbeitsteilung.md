@@ -34,6 +34,19 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/13-zusagen.md` gehoert allen dreien und ist am 25.08. entstanden**, nachdem
+der Pruefer zwei ueberfaellige Zusagen gefunden hatte, die beide im Text standen
+und in keiner Liste: die fuenf Firmen aus Kapitel 12 (vier Monate erzaehlte Zeit)
+und Annies *"You will in about a month"* aus Kapitel 5 (sechs Monate). Beide sind
+in Kapitel 69 bezahlt.
+
+**Der Ablauf ist ab jetzt:** wer ein Kapitel schreibt, laeuft danach
+`python3 werkzeug/zusagen.py --neu` und traegt ein, was neu versprochen wurde.
+Wer prueft, laeuft `zusagen.py` ohne Argument und sieht, was ueberfaellig ist.
+**Beim ersten Lauf standen dort sofort zwei weitere Faelle**, die keiner von uns
+gefunden hatte: Mrs Jeons vier Monate Geld aus Kapitel 32 und Annies
+Wochen-Vorhersage aus Kapitel 59.
+
 **`doc/12-stimmen.md` gehoert allen dreien.** Neu am 25.08., nach dem Befund des
 Autors: *"Die Charaktere sind sehr austauschbar. Ausser mit Annie sind alle
 Dialoge gleich."* Nachgemessen und bestaetigt: sieben Sprecher liegen zwischen

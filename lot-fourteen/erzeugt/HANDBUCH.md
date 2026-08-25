@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 231.169 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 234.814 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -199,7 +199,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
   - [Mr Kwon (14 Repliken)](#mr-kwon-14-repliken)
   - [Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)](#mr-hong-10-repliken-61-jahre-neunzehn-jahre-derselbe-tisch)
-  - [Mrs Sunwoo (8 Repliken, 81 Jahre)](#mrs-sunwoo-8-repliken-81-jahre)
+  - [Mrs Sunwoo (81 Jahre)](#mrs-sunwoo-81-jahre)
   - [Mr Byun (11 Repliken)](#mr-byun-11-repliken)
   - [Kang Ji-hoon, Kim Do-yun (12 und 8 Repliken)](#kang-ji-hoon-kim-do-yun-12-und-8-repliken)
   - [Shin (4 Repliken)](#shin-4-repliken)
@@ -217,6 +217,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Nachtrag zur Pruefsitzung: meine eigenen Zahlen in doc/12](#nachtrag-zur-pruefsitzung-meine-eigenen-zahlen-in-doc-12)
   - [doc/12 gegengelesen, die gelesenen Blaetter zuerst](#doc-12-gegengelesen-die-gelesenen-blaetter-zuerst)
   - [doc/12 vollstaendig gegengelesen - zwoelf Blaetter, dreiundzwanzig Fehler](#doc-12-vollstaendig-gegengelesen-zwoelf-blaetter-dreiundzwanzig-fehler)
+  - [doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter](#doc-12-der-rest-die-regeln-die-achsen-der-index-die-gemessenen-blaetter)
+- [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -10445,6 +10447,19 @@ und `doc/08-decisions.md` gehoeren dem Inhalts-Chat. In `doc/07-next.md`
 schreibt der Schreibende vorn (was kommt) und der Pruefende hinten (was offen
 blieb).
 
+**`doc/13-zusagen.md` gehoert allen dreien und ist am 25.08. entstanden**, nachdem
+der Pruefer zwei ueberfaellige Zusagen gefunden hatte, die beide im Text standen
+und in keiner Liste: die fuenf Firmen aus Kapitel 12 (vier Monate erzaehlte Zeit)
+und Annies *"You will in about a month"* aus Kapitel 5 (sechs Monate). Beide sind
+in Kapitel 69 bezahlt.
+
+**Der Ablauf ist ab jetzt:** wer ein Kapitel schreibt, laeuft danach
+`python3 werkzeug/zusagen.py --neu` und traegt ein, was neu versprochen wurde.
+Wer prueft, laeuft `zusagen.py` ohne Argument und sieht, was ueberfaellig ist.
+**Beim ersten Lauf standen dort sofort zwei weitere Faelle**, die keiner von uns
+gefunden hatte: Mrs Jeons vier Monate Geld aus Kapitel 32 und Annies
+Wochen-Vorhersage aus Kapitel 59.
+
 **`doc/12-stimmen.md` gehoert allen dreien.** Neu am 25.08., nach dem Befund des
 Autors: *"Die Charaktere sind sehr austauschbar. Ausser mit Annie sind alle
 Dialoge gleich."* Nachgemessen und bestaetigt: sieben Sprecher liegen zwischen
@@ -12072,8 +12087,13 @@ weiß auf den Zentimeter genau, was die richtige Form ist. **Drei Rangfragen in
 einem Satz, und keine davon wird ausgesprochen.**
 
 Der Gegenfall ist der Beat, der nichts trägt: *"He did not soften it."* Der sagt
-über das Verhältnis im Raum nichts, und davon sind am 24.08. neununddreißig
-Stück verschwunden.
+über das Verhältnis im Raum nichts. Davon sind am 24.08. neununddreißig Stück
+verschwunden und am 25.08. noch einmal dreißig.
+
+**Nachgezählt am 25.08. steht die Familie aber weiter im Buch:** *did not
+soften* 15 Mal, *did not look away* 18 Mal, *without any … in it at all* 10 Mal.
+**Der Posten ist nicht erledigt**, er steht als Punkt 5 und 11 in
+`doc/09-arbeitsteilung.md`.
 
 **Die Regel:** In jeder Szene mit einem Rangunterschied trägt **mindestens ein
 Beat** die Rangfrage. Wer steht, wer sitzt, wer zuerst spricht, wer wem etwas
@@ -12094,6 +12114,19 @@ gegenübersteht?*
 Zeile steht. Das ist die Arbeitsliste für den Stil-Durchgang: **jede Figur mit
 einem Blatt kann repariert werden, jede ohne nicht.**
 
+**WARNUNG ZUR SPALTE *Repliken*, und sie hat schon zweimal getroffen.** In einem
+Zweipersonenstück läuft der Dialog **ohne Begleitsätze**, und diese Zählung
+findet dort fast nichts. Die Zahl misst dann Begleitsätze und nicht Text:
+
+> **Kim Ye-rin steht mit 17 in dieser Liste.** Allein die Terrassenszene in
+> b1 K30 hat 117 Redeabsätze im Wechsel, also rund **siebenundfünfzig** für sie.
+> **Mrs Sunwoo steht mit 8** - `stimmen.py` kennt sie gar nicht als Sprecherin.
+> **Mrs Bae steht mit 8**, sicher zugeordnet sind drei, und b2 K49 ist ihres.
+
+**Wer nach dieser Spalte entscheidet, wer eine Nebenfigur ist, irrt sich bei
+genau den Figuren, die ein eigenes Kapitel tragen.** Die Falle steht wörtlich in
+`CLAUDE.md` und hat trotzdem funktioniert.
+
 | Figur | Repliken | Kapitel | Die Maschine |
 |---|---|---|---|
 | **Georgij** | 585 | 95 | Aussage, Rechnung, Preis. Endet auf einem Preis |
@@ -12101,12 +12134,12 @@ einem Blatt kann repariert werden, jede ohne nicht.**
 | **Chairman Woo** | 105 | 26 | Korrigiert die Prämisse, statt zu antworten |
 | **Park Sang-hoon** | 101 | 26 | Das Lob mit der Klinge. Und er beendet Gespräche selbst |
 | **Hana Seo-yeon** | 58 | 13 | Die Anmerkung. Sie kommentiert den Raum, während er läuft |
-| **Jang** | 45 | 13 | Sicherheitsstufen: beobachtet, gehört, geraten. Mischt nie |
+| **Jang** | 45 | 13 | Übergibt keine Tatsache ohne Herkunft und Grenze, und nennt die Grenze zuerst |
 | **Sim** | 29 | 5 | Der andere. Angebote statt Aussagen |
 | **Mr Hwang** | 27 | 4 | Vorwegnahme. Sagt das Belastende zuerst |
 | **Mr Yeom** | 26 | 7 | Die Abkürzung. Nimmt dem anderen den Umweg ab |
-| **Mrs Jeon Mi-ja** | 23 | 8 | Der Vorgang, nie die Person |
-| **Mrs Seo** | 20 | 15 | Dienstplan. Rechnet alles in Haushaltsfolgen um |
+| **Mrs Jeon Mi-ja** | 23 | 8 | Die ausgerichtete Botschaft: *"You may tell him from me…"* |
+| **Mrs Seo** | 20 | 15 | Meldet die **Abweichung** von der Routine, und die Routine ist ihr Maß |
 | **Kim Ye-rin** | 17 | 8 | Berichtigt, wer was hat |
 | **Mr Chae** | 14 | 7 | Die Form. Struktur ja, Zweck nie |
 | **Mr Kwon** | 14 | 5 | Der flache Bericht ohne Weichmacher |
@@ -12139,12 +12172,21 @@ eins.
 ## Die Blätter
 
 ### Georgij
-Kurz und tragend, acht Wörter. Keine Kontraktionen in Band 2. Nennt über sich
+Kurz und tragend, **Ø 11,6 Wörter je Satz** (hier stand: acht). Nennt über sich
 selbst nie eine Zahl. Über andere präzise bis zur Grausamkeit. Endet auf dem
 Preis. Sagt nie etwas Unwahres.
 
+**Keine Kontraktionen in Band 2, und das ist nachgezählt und hart:** Band 1
+**34**, Band 2 **null**. Der Bruch liegt an der Bandgrenze und ist absolut.
+
 ### Annie
-Sieben Wörter, flach, Punkt statt Fragezeichen. **Erklärt ihn und nicht die
+**Ø 10,1 Wörter je Satz** (hier stand: sieben), flach, Punkt statt Fragezeichen.
+
+**Und sie tut dasselbe wie er, und es stand nirgends:** Annie hat in Band 1
+**18** Kontraktionen und in Band 2 **null**. Zwei Figuren, derselbe Bruch, an
+derselben Stelle - und niemand im Buch bemerkt es. **Wer ihr in Band 2 eine
+Kontraktion gibt, bricht eine Linie, die über zweitausendneunhundert Wörter
+hält.** **Erklärt ihn und nicht die
 Sache**, und ihr Beweismittel ist ein Datum. Befehle ohne Weichmacher: *"Sit
 down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
 entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
@@ -12157,14 +12199,16 @@ zweites Mal so schreibt, nimmt der ersten alles.
 ### Chairman Woo (78, seit 51 Jahren im Gewerbe)
 **Korrigiert die Prämisse, statt zu antworten.** Redet in Jahreszahlen und
 Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende
-jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
-Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
-a name."*
+jedes Treffens ungefragt etwas her - **und der Erzähler sagt es selbst**:
+*"Woo did the thing he has done **every time since October**"* (b2 K61). Hier
+stand *"dreimal belegt"*. Schüttelt keine Hände. Verweigert Dank: *"**Don't**
+thank me. I have not given you a name."* (hier stand *"Do not"*; er zieht an
+dieser Stelle zusammen, und es ist eine seiner zwei Kontraktionen im Buch).
 
 **Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
 keiner ist.**
 
-Woo hat **die dichteste Und-Kette im ganzen Buch: 3,3 je 1000 Wörter** - gegen
+Woo hat **die dichteste Und-Kette im ganzen Buch: 3,5 je 1000 Wörter** - gegen
 Georgijs 1,0. Nach Haustic 3 müsste das die schlimmste Stelle des Buchs sein.
 Sie ist es nicht, und der Grund gehört ins Blatt:
 
@@ -12192,9 +12236,11 @@ Der zweite ersetzt zugleich den selbstkommentierenden which-Satz durch das,
 was Woo statt einer Erklärung hat: **eine Regel des Gewerbes, flach hingelegt.**
 
 **Hana und Ye-rin brauchten am Text nichts.** Beider Blätter stehen bereits im
-Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung, Ye-rin kommt
-in allen fünf getaggten Repliken über Dritte. Kein Eingriff ist besser als ein
-erfundener.
+Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung. *(Hier stand
+ausserdem "Ye-rin kommt in allen fünf getaggten Repliken über Dritte". Ihr
+eigenes Blatt sagt inzwischen das Genauere: in der ersten Hälfte von b1 K30 ja,
+in der zweiten ausschliesslich aus sich selbst, und der Wechsel ist ihr Bogen.)*
+Kein Eingriff ist besser als ein erfundener.
 
 ### Sim (dreißig Jahre Fixer)
 **Sein Instrument ist die Freundlichkeit**, und er legt es nie ab. *"Tips the
@@ -12758,15 +12804,25 @@ diesem Haus nichts einbringt.**
 
 **Ihre Maschine ist der gedeckte Raum.** Sie erinnert Hochzeiten nicht als
 Ereignisse, sondern als Aufbauten: wie viele Tische, welche Farbe, was die Mutter
-wollte, wann geliefert wurde, wer bezahlt hat. Vierhundert Stueck in dreissig
-Jahren, und sie unterscheidet sie an den Auftraegen.
+wollte, wann geliefert wurde, wer bezahlt hat. **Vierhundertelf** in dreissig Jahren, und sie
+unterscheidet sie an den Auftraegen.
+
+*(Hier stand "vierhundert". Das ist Georgijs Zahl aus einer neun Jahre alten
+Seite, und **sie berichtigt ihn**: "Four hundred and eleven, and the four
+hundred and eleventh was in the November before last and it was a nephew and I
+did it for nothing." Die Berichtigung ist die Szene - wer die Zahl im Blatt auf
+vierhundert lässt, schreibt sie aus dem Kapitel heraus.)*
 
 **Ihr Anliegen hat mit dem Fall nichts zu tun: das Geschaeft, das sie vor vier
 Jahren verloren hat.** Sie kommt bei jedem dritten Satz darauf zurueck, und sie
 ist nicht wehleidig, sie ist **stolz**. Der Stolz ist das, was uebrig ist.
 
-**Sie zieht zusammen.** Sie ist die zweite Zivilistin im Buch nach der Frau mit
-der Giesskanne und darf so klingen.
+**Sie zieht zusammen**, 14,9 je 1000 Wörter - der zweithöchste Wert im Buch
+nach Mr Ahn, und weit hinter ihm.
+
+*(Hier stand "die zweite Zivilistin im Buch nach der Frau mit der Giesskanne".
+Vor ihr stehen Mrs Gwak, Mr Sohn, Mr Byun und Mr Koh. Was stimmt, ist der
+Kontraktionsrang, nicht die Reihenfolge des Auftretens.)*
 
 **Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
 gilt ihrem Gewerbe und nicht der Frau, um die es geht.
@@ -13116,14 +13172,29 @@ you say about it."*
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
 sollte** — Woo, Sunwoo und Choi.
 
-### Mrs Sunwoo (8 Repliken, 81 Jahre)
+### Mrs Sunwoo (81 Jahre)
+
+**Achtung bei der Zahl in der Überschrift.** `stimmen.py` kennt sie **gar nicht
+als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K23, b2 K65) sind
+Zweipersonenstücke im blossen Wechsel ohne Begleitsätze. Dieselbe Falle wie bei
+Ye-rin: eine niedrige Zahl heisst dort wenig Begleitsatz und nicht wenig Text.
 
 **Die Zahl zuerst.** *"Forty-one years."* Sie beginnt mit einer Dauer und macht
 sie dann zu einer Aussage. *"I have bought from that house for forty-one years
 and I have never once been given a reason to raise my voice in it."*
 
-**Sie beendet nie einen Satz ganz** — vierzig Jahre lang niemandem etwas ganz
-erzählt. Wer sie ausreden lässt, schreibt gegen Kapitel 3.
+**Hier stand: *"Sie beendet nie einen Satz ganz."* Das ist eine Fehllesung, und
+sie hätte ihr einen Tick gegeben, den sie nicht hat.** Der Satz im Buch ist Mr
+Hongs Charakterisierung in b1 K07:
+
+> *"Sunwoo, the one in the grey, who is charming and who has **never in forty
+> years told anybody the whole of anything**."*
+
+Und sie sagt es in b2 K10 über sich selbst: *"I have never in my life told
+anybody anything the whole way through."* **Das ist nicht Satzbau, das ist
+Auskunft.** Ihre Sätze sind vollständig und ruhig; was sie nie hergibt, ist die
+ganze Sache. Wer sie stockend schreibt, hat aus einer Frau, die Information
+zurückhält, eine gemacht, die den Faden verliert.
 
 ### Mr Byun (11 Repliken)
 
@@ -13276,6 +13347,16 @@ aufgefallen:
 vorhandenen. Findet sich dieselbe, gehört die Trennung in **beide** Blätter, mit
 einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
 
+**Nachgeprüft am 25.08., und alle vier halten:** in keinem Kapitel des Buchs
+sprechen zwei Figuren eines Paares. Gezählt wurde das **Sprechen**, nicht die
+Erwähnung.
+
+**Aber drei Kapitel stehen dicht an der Grenze**, weil dort beide *vorkommen*
+und nur einer redet: **b2 K34** und **b2 K41** (Sang-hoon und Yeom) sowie
+**b2 K41** (Jang und Mrs Bae). **Wer einer dieser Figuren dort eine Replik
+gibt, erzeugt die Kollision.** In K41 stehen beide Paare gleichzeitig an der
+Grenze.
+
 ---
 
 ---
@@ -13285,18 +13366,30 @@ einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
 **Gemessen mit `werkzeug/stimmen.py --tics`**, Haustics je 1000 Wörter, nur
 sicher zugeordnete Repliken.
 
-**Sauber, also ohne einen einzigen fremden Tic:** Yeom, Sim, Sohn, Hong, Kang,
-Ye-rin.
+**Neu gemessen am 25.08., nachdem der Kontraktionszaehler repariert war** (er
+zaehlte jeden Genitiv mit, siehe Regel 5). **Die halbe Tabelle sah dadurch
+anders aus, als sie ist.**
+
+**Sauber, also ohne einen einzigen Tic:** Yeom, Sim, Sohn, Hong, Kang, Ye-rin,
+**Hwang, Mrs Gwak, Mr Chae und Mrs Seo** - die letzten vier standen vorher mit
+einer Kontraktionszahl da, die es nicht gab.
 
 **Signatur sichtbar und richtig:**
 
-| Figur | Wert | Was das heisst |
-|---|---|---|
-| **Mr Ahn** | Kontraktion 106,7 | Der hoechste Wert im Buch, um Faktor sechs. Genau seine Signatur |
-| Mrs Seo | Kontraktion 17,9 | Zivilistin im eigenen Haus |
-| Jang | Kontraktion 13,8 | Und sonst nichts. Sauber |
-| Hana | Kontraktion 11,9 | Sie redet gesprochen, nicht gebaut |
-| Woo | Und-Kette 3,3, Selbstdiagnose 1,7 | Beides seins, siehe sein Blatt |
+| Figur | Wert | stand hier | Was das heisst |
+|---|---|---|---|
+| **Mr Ahn** | Kontraktion **72,1** | 106,7 | Weiterhin der hoechste Wert im Buch, und mit Abstand - der naechste liegt bei 14,9 |
+| Mrs Ha | Kontraktion 14,9 | - | die zweite, und weit dahinter |
+| Hana | Kontraktion **5,3** | 11,9 | Sie redet gesprochen, nicht gebaut |
+| Annie | Kontraktion 3,5 | - | mehr als Woo und Sang-hoon |
+| Jang | Kontraktion **3,4** | 13,8 | drei Stueck im ganzen Buch, alle in einem Wechsel |
+| **Mrs Seo** | **keine** | 17,9 | **null im ganzen Buch** |
+| Woo | Und-Kette 3,5, Selbstdiagnose 1,7 | 3,3 | Beides seins, siehe sein Blatt |
+
+**Die Reihenfolge selbst war der Fehler.** Vorher las sich die Tabelle als
+Standeslinie - Handwerk oben, Prinzipale unten. Tatsaechlich steht **ein Mann**
+oben und darunter Rauschen, und Georgij (2,5) liegt ueber Woo (1,7) und
+Sang-hoon (1,1).
 
 **Noch offen, mit Zahl, fuer den Stil-Durchgang:**
 
@@ -14315,6 +14408,258 @@ wird in hundert Kapitel geschrieben. **Ein Superlativ in einem Stimmblatt brauch
 die Rangfolge daneben, nicht nur eine Fundstelle** - sonst ist er nur noch nicht
 widerlegt. Und **jede Zahl braucht den Befehl daneben**, mit dem man sie
 nachrechnet.
+
+---
+
+### doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter
+
+Damit ist das Dokument ganz durch. **Achtzehn weitere Fehler**, und der schwerste
+steht nicht in einem Blatt, sondern in einer Regel.
+
+#### Der schwerste: sechs Anreden, die es angeblich nicht gibt
+
+Achse 3 sagte: *"Er bekommt keinen einzigen Titel zurueck - es gibt im ganzen
+Buch kein Rangwort fuer ihn."*
+
+**Es gibt sechs, und sie stehen alle in den letzten fuenf Kapiteln von Band 1:**
+
+| | wer |
+|---|---|
+| b1 K30 | **Kim Ye-rin**, an der Tuer - die erste |
+| b1 K31 | **Hana**, *"Go home, Mr Georgij."* |
+| b1 K32 | **Kim Ye-rin**, in der Auffahrt |
+| b1 K33 | **Park Sang-hoon**, direkt nach Georgijs *"Chairman Park."* |
+| b1 K33 | **Park Sang-hoon**, an der Tuer |
+| b1 K34 | **Mr Chae** |
+
+**Das ist ein Bogen und kein Ausrutscher.** Er faengt bei K30 an - bei der Frau,
+die ihn zwanzig Minuten lang gar nicht angeredet hat - und danach tun es alle.
+**Der Text macht laengst, was das Blatt als Aufgabe auswies**, und ein Durchgang
+nach dem alten Eintrag haette alle sechs gestrichen. Jetzt festgelegt.
+
+**Offene Frage an den Autor:** in Band 2 steht keine einzige mehr. Gewollt oder
+abgerissen?
+
+#### Der zweitschwerste: eine Figur stand verkehrt herum
+
+Regel 2 sagte: *"Annie haelt nichts zurueck und das ist ihr Kennzeichen."*
+
+Sie haelt **am meisten** zurueck von allen, und die Handlung beider Baende haengt
+daran - der Name neunzehn Tage lang (b1 K12), die Weigerung (b1 K11, K34), die
+achtundsechzig Tage (b2 K27), *"the smallest piece I could get away with"*
+(b2 K18). **Ihr Kennzeichen ist nicht das Nichtzurueckhalten. Es ist, dass sie
+das Zurueckhalten ansagt** - mit Frist, mit Grund, ohne Entschuldigung.
+
+#### Ein Befund, der vorher nirgends stand
+
+**Annie hoert in Band 2 auf, Woerter zusammenzuziehen - genau wie Georgij.**
+
+| | Band 1 | Band 2 |
+|---|---|---|
+| Georgij | 34 | **0** |
+| Annie | 18 | **0** |
+
+Zwei Figuren, derselbe Bruch, an derselben Stelle, und keine Figur im Buch
+bemerkt es. Georgijs Haelfte stand im Blatt, Annies nicht.
+
+#### Die uebrigen
+
+| Ort | stand da | Befund |
+|---|---|---|
+| Regel 2 | Mrs Seo und der Umschlag | **zweiter Fundort derselben Erfindung** |
+| Regel 2 | Woo: *"Do not thank me"* | er sagt *"**Don't** thank me"* |
+| Regel 3 | *"Keine Figur sagt das Warme"* | eine Ausnahme: Sim, b2 K52, und er markiert sie selbst |
+| Regel 3 | Woo *"dreimal belegt"* | der Erzaehler sagt *"every time since October"* |
+| Regel 6 | Mrs Seo nimmt die Glaeser weg | **einmal im Buch.** Ihre Gewohnheit ist das Tablett um sieben, fuenfmal |
+| Achse 1 | *Kontraktionen wenige/viele* | aus dem defekten Zaehler. Der Haushalt zieht nirgends zusammen |
+| Achse 1 | 34 Szenen mit zwei Angestellten | 36 **Kapitel**, nicht Szenen |
+| Achse 2 | *Chairman* 24 Mal, immer von Georgij | **63 Mal**, auch von Jang und Kang |
+| Achse 3 | *Mistress* 89 Mal | **103** |
+| Achse 4 | die Ton-Beats *"sind verschwunden"* | *did not soften* steht 15 Mal, *did not look away* 18 Mal |
+| Messstand | halbe Tabelle | Kontraktionswerte aus dem defekten Zaehler, vier Figuren standen mit Zahlen da, die es nicht gibt |
+| Georgij | *"acht Woerter"* | Ø 11,6 |
+| Annie | *"sieben Woerter"* | Ø 10,1 |
+| Mrs Ha | *"vierhundert Hochzeiten"* | **411**, und ihre Berichtigung ist die Szene |
+| Mrs Ha | *"zweite Zivilistin im Buch"* | vor ihr Gwak, Sohn, Byun, Koh |
+| **Mrs Sunwoo** | *"Sie beendet nie einen Satz ganz"* | **Fehllesung.** Der Satz heisst *"never told anybody the whole of anything"* - das ist Auskunft, nicht Satzbau. Das Blatt haette ihr ein Stocken gegeben, das sie nicht hat |
+| Index | Jang, Mrs Jeon, Mrs Seo | trugen **drei Maschinen, die ihre eigenen Blaetter zurueckgenommen hatten** |
+| Index | Spalte *Repliken* | Warnung ergaenzt: in Zweipersonenstuecken misst sie Begleitsaetze und nicht Text |
+
+**Geprueft und bestaetigt**, damit es nicht zweimal geprueft wird: Woo schuettelt
+in elf *hand*-Stellen keine Hand (Sang-hoon gibt sie in b1 K16 ausdruecklich);
+Sims falsche Tramnummer steht in b2 K52; Mr Ahns Alterswiderspruch ist im Text
+selbst aufgeloest (*"he is never wrong about that by more than a year"*); Hongs
+drei Namen sind Woo, Sunwoo und Choi; **alle vier Kollisionspaare halten** - in
+keinem Kapitel sprechen beide.
+
+**Aber drei Kapitel stehen an der Grenze:** b2 K34 und b2 K41 (Sang-hoon und
+Yeom kommen beide vor, nur einer redet) und b2 K41 (Jang und Mrs Bae). **In K41
+stehen zwei Paare gleichzeitig an der Grenze.**
+
+#### Bilanz doc/12
+
+**Einundzwanzig Blaetter und Abschnitte geprueft, einundvierzig Fehler.** Drei
+davon hatten ins Buch gewirkt (Jangs und Mrs Seos Kontraktionen, zurueckgenommen).
+Zwei haetten beim naechsten Durchgang etwas geloescht, das der Text richtig macht
+(Ye-rins *"Mr Georgij."* und die sechs Anreden in Achse 3).
+
+**Und die haeufigste Ursache ist keine Schlamperei, sondern eine Bewegung:** eine
+richtige Beobachtung, die beim Aufschreiben eine Stufe zu weit geht. *Sie benutzt
+fast nie eine Anrede* wird zu *kein Titel, kein Name*. *Er spricht knapp* wird zu
+*der langsatzigste*. **Ein Stimmblatt ist genau da am gefaehrlichsten, wo es
+gut formuliert ist.**
+
+---
+
+# Das Schuldbuch
+
+Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
+geführt und mit `werkzeug/zusagen.py` gegen den Erzählkalender gerechnet.
+
+---
+
+## Warum es das gibt
+
+**Am 25.08. sind zwei Zusagen als überfällig gefunden worden, beide von Hand,
+beide Monate zu spät.**
+
+Die fünf Firmen aus Kapitel 12 (3. April): *„When it is over the other five will
+be yours, completely, not as customers and not as an arrangement."* Vier Monate
+erzählte Zeit überfällig. Der Verband kam in vierundvierzig Kapiteln nicht mehr
+vor.
+
+Annies *„You will in about a month"* aus Kapitel 5 (11. März), fällig Anfang
+April, offen bis September. Sechs Monate.
+
+**Beide standen im Text und in keiner Liste.** Das ist derselbe Fehlertyp wie die
+falschen Rückverweise, die zu `doc/10-naehe.md` geführt haben, und wie die
+behaupteten Stimmen, die zu `doc/12-stimmen.md` geführt haben: **was nicht
+gemessen wird, driftet.**
+
+---
+
+## Wie man es führt
+
+Eine Zeile je Zusage, und das Format ist maschinenlesbar. Wer es ändert, ändert
+den Ausdruck in `zusagen.py` mit.
+
+```
+- [OFFEN] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 210 · "Zitat" · —
+```
+
+- **Status**: `OFFEN`, `BEZAHLT` oder `VERFALLEN`. Verfallen heißt: die Figur hat
+  die Zusage gebrochen und **der Text weiß das**. Eine gebrochene Zusage, die der
+  Text nicht bemerkt, ist offen und nicht verfallen.
+- **Fälligkeit** in Erzähltagen, oder `offen`, wenn keine Frist genannt wurde.
+- **Eingelöst**: das Kapitel, das sie bezahlt, oder `—`.
+
+**Nach jedem geschriebenen Kapitel:**
+
+```bash
+python3 werkzeug/zusagen.py --neu
+```
+
+Das listet Zusagen mit Frist, die im Buch fehlen. Jede wird eingetragen oder es
+wird hier begründet, warum sie keine ist.
+
+**Und `zusagen.py` ohne Argument gibt den Stand.** Überfällig, offen, bezahlt.
+Es endet mit Rückgabewert 1, solange etwas überfällig ist.
+
+---
+
+## Was das Werkzeug nicht kann
+
+**Es entscheidet nicht, ob etwas eine Zusage ist.** Das ist Urteil und bleibt es.
+
+**Und `--neu` findet nur Zusagen mit einer Frist im selben Satz.** *„I am going to
+have him before the end of the year"* wird gefunden. *„I will not tell him"* nicht.
+Fristlose Zusagen kommen von Hand hier hinein, mit `faellig offen`.
+
+Das ist Absicht und folgt Regel 8 aus `doc/11-pruefen.md`: ein Detektor, der jeden
+Satz mit *I will* meldet, ist so wertlos wie einer, der nichts meldet. **Diese
+Fassung meldet lieber zu wenig und verlässt sich darauf, dass die Liste gepflegt
+wird.**
+
+---
+
+## Offen
+
+- [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
+- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 442 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · —
+- [OFFEN] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · —
+- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · —
+- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
+- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
+- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig offen · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · —
+- [OFFEN] **B2 60** Annie an Georgij · gesagt Tag 322 · faellig offen · "Put it in front of me on Friday. Not today." · —
+- [OFFEN] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · —
+- [OFFEN] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · —
+- [OFFEN] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · —
+- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · —
+- [OFFEN] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig offen · "I am going to say it again now to all six, in the same words, because I promised" · —
+
+## Bezahlt
+
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 69, 159 Tage zu spaet, und die Verspaetung ist der Inhalt des Kapitels
+- [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
+- [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
+- [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach
+- [BEZAHLT] **B1 24** Annie an Georgij · gesagt Tag 55 · faellig Tag 58 · "Monday. Named, capped, and it dies on the first of March." · B1 25
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 203 · "I want her. Not the letter, not the lane, not an apology, and not a settlement." · B2 19 und 20, Nam Byung-hee am 23. April
+- [BEZAHLT] **B2 09** Georgij an Annie · gesagt Tag 168 · faellig Tag 217 · "Mrs Jeon at the settlement desk, who is out in seven weeks anyway and who I am going to be able to do something about" · B2 32, sie gibt das Buch her und behaelt die Entscheidung
+- [BEZAHLT] **B2 57** Woo an Georgij · gesagt Tag 318 · faellig Tag 322 · "I will come to you." · B2 61, Sonntag im Haus
+
+---
+
+## Geprüft und keine Zusage
+
+**Das ist der wichtigste Abschnitt der Datei.** Ohne ihn meldet `--neu` dieselben
+dreizehn Fundstellen bis in alle Ewigkeit, und nach der zweiten Woche sieht
+niemand mehr hin. Wer eine Fundstelle hier ablegt, schreibt dazu, warum sie keine
+Zusage ist.
+
+- [KEINE] **B1 03** Mrs Seo an Georgij · gesagt Tag 1 · faellig offen · "Your room is on the first floor, east end. Ji-won will take you up. Breakfast is from seven" · Hausordnung, keine Zusage
+- [KEINE] **B1 21** Hana an Georgij · gesagt Tag 49 · faellig offen · "Not the second week, because everybody gives theirs in the second week and Ye-rin will already have said no" · Lagebeschreibung ueber Dritte
+- [KEINE] **B1 25** Georgij an Annie · gesagt Tag 59 · faellig offen · "It expires on the first of March at midnight. Not the second. There is no grace period" · Beschreibung eines Instruments, keine Zusage. Die Zusage dazu steht bei B1 24
+- [KEINE] **B2 08** Shin an Georgij · gesagt Tag 168 · faellig offen · "Not the twenty-sixth and not longer than the first. On the first I write" · Absicht eines Dritten in eigener Sache, nicht an Georgij gerichtet
+- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "You went into that building four times over seven weeks, and you gave up something on the third visit" · Beschreibung der Vergangenheit
+- [KEINE] **B2 09** Annie an Georgij · gesagt Tag 168 · faellig offen · "Say it again on the first, after that woman in Ulsan has written her letters" · Bedingung, keine Zusage
+- [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
+- [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
+- [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
+
+---
+
+## Was das Werkzeug beim ersten Lauf gefunden hat, das niemand hatte
+
+**Zwei, und beide sind offen.** Sie stehen oben in der Liste und hier steht,
+warum sie zaehlen.
+
+**Mrs Jeon, Kapitel 32 (2. Juni):** *"I have four months of money and a son who is
+going to offer next month, and I am going to take it."* Vier Monate Geld ab Juni,
+das Angebot des Sohnes im Juli. **Faellig etwa Tag 273 und seit siebzig Tagen
+offen.** Sie ist die Figur, die Georgij ausdruecklich als sein Spiegelbild im
+Kleinen gefuehrt wird (`doc/03-cast.md`), und der Text hat sie nach dem 2. Juni
+fallen lassen.
+
+**Annie, Kapitel 59 (18. August):** *"in about a week you will have found a way to
+make it about you and I would like to have said this first."* **Faellig Tag 326.**
+Sie sagt eine Sache voraus, die er tun wird, und sie hat sich bisher nicht
+gezeigt - was entweder heisst, dass sie unrecht hatte, oder dass es niemand
+aufgegriffen hat. Bei dieser Figur ist das erste unwahrscheinlich.
+
+---
+
+## Zwei Beobachtungen aus der ersten Fuellung
+
+**Erstens: Georgij macht kaum Zusagen mit Frist.** Das ist Figur und kein Mangel -
+er sagt, was er tut, während er es tut. Die drei, die er gemacht hat, sind alle
+gegenüber Annie, und **zwei davon hat er nicht gehalten.**
+
+**Zweitens: Annie macht Zusagen und hält sie ausnahmslos**, und sie datiert sie
+beim Sagen. Das ist dieselbe Maschine wie in `doc/12-stimmen.md`: ihr Beweismittel
+ist ein Datum. **Sie ist die einzige Figur im Buch, deren Zusagen sich mit einer
+Uhr prüfen lassen**, und das gehört zu ihr wie das Halsband zu ihm.
 
 ---
 

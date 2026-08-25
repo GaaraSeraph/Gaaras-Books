@@ -32,8 +32,20 @@ Danach:
 
 ```
 python3 werkzeug/check.py chapters/chNN_vX_Y_en.md
+python3 werkzeug/zusagen.py --neu
 python3 werkzeug/build.py
 ```
+
+**`werkzeug/zusagen.py` fuehrt das Schuldbuch in `doc/13-zusagen.md`:** jede
+Zusage aus dem Text, mit Faelligkeit in Erzaehltagen und Stand. Ohne Argument
+gibt es den Stand und endet mit Rueckgabewert 1, solange etwas ueberfaellig ist.
+Mit `--neu` listet es Zusagen mit Frist, die im Buch fehlen; jede wird eingetragen
+oder als `KEINE` mit Begruendung abgelegt.
+
+**Warum es das gibt:** am 25.08. sind zwei Zusagen ueberfaellig gefunden worden,
+von Hand, Monate zu spaet - die fuenf Firmen aus Kapitel 12 (vier Monate) und
+Annies *"You will in about a month"* aus Kapitel 5 (sechs). **Beim ersten Lauf
+fand das Skript sofort zwei weitere, die niemand hatte.**
 
 **Wie geprueft wird, steht in `doc/11-pruefen.md`.** Vier Schritte, um aus einem
 einzelnen Fund einen Streifzug zu machen, sieben Regeln mit je einem Fehler
@@ -275,6 +287,7 @@ scheint.
 | `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
+| `doc/13-zusagen.md` | Das Schuldbuch. Jede Zusage aus dem Text, mit Faelligkeit und Stand |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
