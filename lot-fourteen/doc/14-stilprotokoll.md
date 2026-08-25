@@ -1365,3 +1365,57 @@ zitiert, ist das Blatt veraltet** - unabhaengig davon, ob ein einziger Satz
 darin falsch ist. Bei Sim: 64 von 65.
 
 *Unsicher:* keiner.
+
+### Die Liste abgearbeitet: Ahn, Hwang, Byun, Sohn, Chae, Mrs Jeon, Yeom
+
+**Zuerst eine Berichtigung an meinem eigenen Test.** Der Veralterungs-Test aus
+dem Sim-Eintrag sucht in doc/12 nach dem Muster `b1 K12`. **Er misst damit, ob
+ein Blatt Kapitel *nennt*, nicht ob es sie *gelesen* hat.** Hwang und Yeom sind
+dadurch faelschlich als 100 % bzw. 56 % unzitiert gemeldet worden - Hwang
+zitiert seine Kapitel woertlich, nur ohne Nummer, und Yeom nennt sie in einer
+Aufzaehlung (*"b2 K24, K25, K34"*), von der das Muster nur den ersten Eintrag
+sieht. **Der Test taugt zur Triage und nicht als Befund.** Beide Blaetter haben
+jetzt die Nummern.
+
+| Figur | Befund |
+|---|---|
+| **Mr Ahn** | Alles belegt, auch das riskanteste: *"he is thirty-nine"* sagt Annie in b2 K74 woertlich. **Aber "zieht zusammen" ist zu klein**: 73,9 Kontraktionen je 1000 Woerter, naechstbester Hana mit 5,3 - **Faktor vierzehn, die staerkste Stimmenmarke im Buch.** Und die Werkbank-Geste ist keine Marotte in K56, sondern eine Geste ueber drei Kapitel mit einem Mass: Vierteldrehung (K56), vier Zentimeter (K63), vier Zentimeter (K73). K63/K70/K73 fehlten ganz |
+| **Ahn Jung-hee** | **Der Abschnitt widersprach sich selbst.** Kopf: *"hat im ganzen Buch noch nie gesprochen"*; Fliesstext dreissig Zeilen tiefer: beide Auftritte. Der Kopf war nie nachgezogen worden, und die beiden Auftritte standen in verkehrter Reihenfolge. **Der Kern stimmt schaerfer formuliert: es gibt kein einziges direktes Zitat von ihr**, beide Male gibt Sim sie wieder. Ausserdem sagt das Buch nicht *"viermal wiederholt"*, sondern **"four times, in four different ways"** - sie wiederholt nicht, sie formuliert um |
+| **Mr Hwang** | **Vorbildlich.** Jedes Zitat woertlich, der Superlativ haelt (Daten 16,3 / Uhrzeiten 13,6, beide Platz eins ueber der Schwelle), und das Blatt nennt die Schwelle von selbst. Nur die **Verfolgerliste** war nach drei Wochen falsch - Mr Ahn von 11,2 auf 7,9 gefallen. Rangliste durch den Befehl ersetzt |
+| **Mr Byun** | **Der Rang ist zum zweiten Mal gekippt.** Erst *"hoechster Wert im Buch"*, dann berichtigt zu *"zweithoechster, knapp hinter Mr Ahn mit 22,5"* - und weil Ahn inzwischen auf 15,8 steht, ist die **verworfene erste Fassung wieder richtig**. Byuns eigene 22,0 haben sich nie bewegt. Rang raus, Befehl rein |
+| **Mr Sohn** | **Ein zusammengezogenes Zitat.** Das Blatt fuehrte *"…a bill paid in cash by a man who left before the coffee"* als einen Satz. Es sind zwei Repliken, und die Fuge ist die Stelle, wo er aufhoert zu berichten und anfaengt zu urteilen: **"People do not do that."** Das Verschmelzen hat ihm seinen einzigen Meinungssatz genommen |
+| **Mr Chae** | **Beide Zahlen im Blatt falsch** - Kopf *14*, Text *7*. Von Hand sind es rund **siebzehn**: sieben in b1 K25, zehn in b1 K34 |
+| **Mrs Jeon** | **Das Blatt endete bei K32 und hat b2 K71 nicht gesehen - sechzehn Repliken, ihr groesstes Kapitel.** 25 Repliken standen da, es sind 41. Alles Zitierte stimmt |
+| **Mr Yeom** | **Eine erfundene Zahl:** *"ein Verkaeufer, der seit vierzig Jahren Leute an Tischen sitzen sieht."* **Yeoms Berufsdauer wird im Buch nirgends genannt.** Sie klang richtig, in einem Blatt, das sonst jede Zahl belegt |
+
+#### Ein Loch im Werkzeug, und es ist die Ursache von Chaes zwei falschen Zahlen
+
+`stimmen.py` sucht `said|asked|shrugged|added|repeated`. **Eine Replik mit
+einem Handlungs-Begleitsatz ist unsichtbar:**
+
+> *"That is what it was for." **Mr Chae closed the case** and did not open it
+> again.*
+
+In b1 K34 verliert Chae dadurch zehn Repliken. **Die Verbliste zu erweitern
+hilft nicht** - ein Handlungsverb neben einer Replik sagt nicht, dass der
+Handelnde spricht. Es gilt dasselbe wie bei Zweipersonenszenen: lesen, nicht
+zaehlen. **Als dritte Grenze in `werkzeug/stimmen.py` dokumentiert**, neben der
+Zuschreibungsfalle und den Zweipersonenszenen.
+
+#### Was diese sieben zusammen zeigen
+
+**Die haltbarsten Saetze sind die, die das Buch selbst formuliert** - *he is
+never wrong about that by more than a year*, *he is thirty-nine*, *four times,
+in four different ways*, *that puts him on the end of the sentence*. Kein
+einziger davon ist beim Gegenlesen gefallen.
+
+**Gefallen sind fast nur Zahlen, die einen Rang behaupten** - Byuns Platz
+zweimal, Hwangs Verfolger, Chaes Repliken zweimal, Mrs Jeons 25, Yeoms vierzig
+Jahre. **Ein Rang ist keine Eigenschaft der Figur, sondern eine Aussage ueber
+alle anderen**, und die anderen aendern sich mit jedem geschriebenen Kapitel.
+Deshalb steht in diesen Blaettern jetzt der Befehl, wo vorher die Ziffer stand.
+
+*Unsicher:* Chaes siebzehn Repliken sind von Hand gezaehlt und nicht vom
+Werkzeug bestaetigt - das Werkzeug kann es nicht. Bei einer Zweipersonenszene
+haengt die Zuordnung am Wechsel, und wenn ich mich um eine Replik verzaehlt
+habe, ist es diese.

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 252.768 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 254.481 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -196,7 +196,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Park Sang-hoon (101 Repliken, 26 Kapitel)](#park-sang-hoon-101-repliken-26-kapitel)
   - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
   - [Kim Ye-rin (17 Repliken im Index - tatsächlich über fünfzig allein in b1 K30)](#kim-ye-rin-17-repliken-im-index-tats-chlich-ber-f-nfzig-allein-in-b1-k30)
-  - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
+  - [Mr Chae (b1 K25 und b1 K34)](#mr-chae-b1-k25-und-b1-k34)
   - [Nam Byung-hee (58, eine Fahrspur aus Ulsan, zwanzig Jahre)](#nam-byung-hee-58-eine-fahrspur-aus-ulsan-zwanzig-jahre)
   - [Baek Jun-ho (63, Anwalt, elf Treuhandschaften, b2 K50)](#baek-jun-ho-63-anwalt-elf-treuhandschaften-b2-k50)
   - [Kim Sung-ho (61, der Vorsitzende der Familie, b1 K26 und K32)](#kim-sung-ho-61-der-vorsitzende-der-familie-b1-k26-und-k32)
@@ -235,6 +235,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Min-ho und Mrs Ryu gegengelesen: drei Fehler, und einer verdeckte den Beat](#min-ho-und-mrs-ryu-gegengelesen-drei-fehler-und-einer-verdeckte-den-beat)
   - [Choi Dae-ho gegengelesen - vier Fehler, einer davon umgedreht](#choi-dae-ho-gegengelesen-vier-fehler-einer-davon-umgedreht)
   - [Sim gegengelesen - eine neue Fehlerklasse: das Blatt hat aufgehoert zu lesen](#sim-gegengelesen-eine-neue-fehlerklasse-das-blatt-hat-aufgehoert-zu-lesen)
+  - [Die Liste abgearbeitet: Ahn, Hwang, Byun, Sohn, Chae, Mrs Jeon, Yeom](#die-liste-abgearbeitet-ahn-hwang-byun-sohn-chae-mrs-jeon-yeom)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -13216,8 +13217,13 @@ anderen, bevor der sie macht, und sagt sie laut.** Viermal belegt:
 
 Der letzte ist der schärfste: Er hat die Antwort schon gehabt und die Frage
 trotzdem gestellt, um zu sehen, ob der andere sie ehrlich beantwortet. **Das ist
-kein Verhör, das ist ein Verkäufer, der seit vierzig Jahren Leute an Tischen
-sitzen sieht.**
+kein Verhör, das ist ein Verkäufer, der Leute an Tischen sitzen sieht.**
+
+*(Hier stand "seit vierzig Jahren". **Die Zahl steht nirgends im Buch** - Yeoms
+Berufsdauer wird nie genannt, gesucht über K24, K25, K34, K41, K53, K54, K55.
+Sie klang richtig und war erfunden, in einem Blatt, das sonst jede Zahl belegt.
+Belegt sind Byuns sechsundzwanzig Jahre und Yeoms vier Jahre Ruhe - nicht seine
+Laufbahn.)*
 
 **Und er ersetzt Moral durch Rechnen, ausdrücklich:** *"you are going to think it
 was cowardice and it was not. **It was arithmetic.**"* Wer ihm eine moralische
@@ -13239,8 +13245,30 @@ Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
 
 **Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
-b2 K24, K25, K34, K41, K53, K54, K55; Sang-hoon in b1 K10, K16, K22, K33 und
-b2 K4, K26, K35, K36, K38, K39, K42, K43, K45, K48, K50. **Keine Überschneidung.**
+b2 K24, b2 K25, b2 K34, b2 K41, b2 K53, b2 K54, b2 K55; Sang-hoon in b1 K10,
+b1 K16, b1 K22, b1 K33 und b2 K04, b2 K26, b2 K35, b2 K36, b2 K38, b2 K39,
+b2 K42, b2 K43, b2 K45, b2 K48, b2 K50. **Keine Überschneidung.**
+
+#### Seine wichtigste Zeile steht in einem anderen Blatt
+
+**In b2 K25 gibt Yeom den Satz wieder, an dem der halbe zweite Band hängt**, und
+er gibt ihn als Empfänger wieder, nicht als Sprecher:
+
+> *"He said he was glad we had met," said Mr Yeom.*
+> *"And had you."*
+> *"**No. That is why I remember it.** I put the telephone down and I said to my
+> wife that a man had just told me it was nice to see me again and **I had never
+> laid eyes on him**."*
+
+**Für die Stimme heisst das:** er merkt sich einen Satz vier Jahre lang, **weil
+er nicht stimmte**, und er datiert die Erinnerung an einer häuslichen Szene
+(Telefon aufgelegt, zur Frau gesagt). Das ist dieselbe Maschine wie *"comfortable
+until May"* - **er speichert nicht Gefühle, sondern den Moment, an dem eine
+Rechnung nicht aufging.**
+
+Siehe *Choi Dae-ho*: dass Yeom hier Empfänger ist und nicht Überbringer, ist der
+Punkt, den b2 K38 ausdrücklich festhält - *"That puts him on the end of the
+sentence, not the one saying it."*
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
 
@@ -13282,19 +13310,29 @@ benutzen.
 
 **Nachgeprüft am 25.08. mit `stimmen.py`, und der Superlativ hält - mit einer
 Schwelle.** Unter allen Figuren mit mehr als 90 Wörtern eigener Rede ist er bei
-beiden der dichteste: Daten Hwang 16,3 · Yeom 10,9 · Mrs Jeon 9,1; Uhrzeiten
-Hwang 13,6 · Mr Ahn 11,2 · Mr Koh 9,0.
+beiden **Platz eins**, und mit Abstand: Daten 16,3 vor 10,9, Uhrzeiten 13,6 vor
+9,3.
 
-**Ohne Schwelle stünden Kang (33,3 bei Daten, aus 30 Wörtern) und Ye-rin (41,7
-bei Uhrzeiten, aus 24 Wörtern) darüber - beides eine einzige Nennung.** Wer aus
-dieser Tabelle zitiert, nennt die Schwelle mit, sonst gewinnt immer die Figur
-mit der kürzesten Rede.
+**Ohne Schwelle stünden Figuren mit zwei Dutzend Wörtern darüber - eine einzige
+Nennung reicht dann für den ersten Platz.** Wer aus dieser Tabelle zitiert,
+nennt die Schwelle mit.
+
+**Hier stand die volle Verfolgerliste mit Namen und Ziffern, und sie war nach
+drei Wochen falsch** (Mr Ahn stand bei Uhrzeiten auf 11,2 und steht auf 7,9,
+weil er in K73 viel geredet und dabei keine Uhrzeit genannt hat; bei den Daten
+ist er inzwischen an Mrs Jeon vorbei). **Hwangs eigene zwei Zahlen sind seine
+Identität und bleiben stehen. Die Rangliste dahinter gehört nicht ins Blatt,
+sondern in den Befehl:**
+
+```
+python3 werkzeug/stimmen.py            # Spalte "zaehlt am dichtesten"
+```
 
 **Er sagt das Belastende zuerst und ungefragt**, damit der andere es ihm nicht
 abnehmen muss: *"You are correct. I want to say that first so that we are not
-doing the part where you prove it to me."* Und er zieht die Frage vor, die
+doing the part where you prove it to me."* (b2 K21) Und er zieht die Frage vor, die
 kommen wird: *"You want something. **You have not asked for it yet and you have
-been in this room for twenty minutes.**"*
+been in this room for twenty minutes.**"* (b2 K21)
 
 **Aber das Material, mit dem er vorwegnimmt, ist immer die Akte - und das ist
 der Unterschied zu Yeom.** Yeom kennt Menschen, weil er ihnen gegenübergesessen
@@ -13302,7 +13340,7 @@ hat. Hwang kennt sie, **weil sie ein Formular ausgefüllt haben**:
 
 > *"There is a bus every twenty minutes from the station and it is the fourth
 > stop. **I know that because she wrote it on her application when she came and
-> nobody has ever asked her for a new one.**"*
+> nobody has ever asked her for a new one.**"* (b2 K28)
 
 Ein Mann, der die Busverbindung einer Sachbearbeiterin kennt, weil sie
 dreiundzwanzig Jahre alt in einem Ordner steht. **Jede Nähe, die er zu einem
@@ -13311,14 +13349,14 @@ Menschen hat, ist dokumentarisch**, und er nennt die Fundstelle mit.
 **Warm: die Wärme ist ein Schriftstück, und er misst sie in Seiten.**
 
 > *"I wrote her one. **It is two pages and every sentence in it is true and I
-> have never written a better one about anybody.**"*
+> have never written a better one about anybody.**"* (b2 K28)
 
 Er sagt nicht, dass er sie schätzt. Er sagt, wie lang das Zeugnis ist und dass
 jeder Satz darin wahr ist - was bei ihm dasselbe bedeutet und mehr kostet.
 
 **Unter Druck** wird er **verfahrensförmig**: Er sagt, in welchem Zustand das
 Verfahren ist und was daraus folgt - *"the house was in wind-up, and that
-reopening a matter in wind-up requires the administrator's consent."* Keine
+reopening a matter in wind-up requires the administrator's consent."* (b2 K28) Keine
 Rechtfertigung, eine Rechtslage.
 
 **Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
@@ -13328,7 +13366,12 @@ Rechtfertigung, eine Rechtslage.
 
 ### Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)
 
-**25 Repliken, 328 Wörter.** Zählt Daten 9,1 und Monate 6,1.
+**41 Repliken.** Zählt Daten und Monate dichter als fast jede andere Figur -
+Rang und Zahl mit `python3 werkzeug/stimmen.py` holen, nicht von hier zitieren.
+
+*(Hier stand "25 Repliken, 328 Wörter". **Das Blatt hat b2 K71 nicht gesehen,
+und das sind sechzehn Repliken - ihr grösstes Kapitel.** Alles Zitierte
+unten stimmt; es endete nur bei K32.)*
 
 **Korrektur am ersten Blatt.** Dort stand *"der Vorgang, nie die Person"*. Über
 fünfundzwanzig Repliken gelesen stimmt das nicht - sie tut zweimal ausdrücklich
@@ -13370,6 +13413,43 @@ Kenntnis nimmt.
 will say where it came from is the one thing I know how to be afraid of."*
 
 **Keine Rechtfertigung, keine Bitte.** Und sie setzt Leute hin: *"Sit down."*
+(b2 K32)
+
+#### Was in b2 K71 dazukommt
+
+**Der Imperativ kehrt wieder und wird schärfer.** Aus *"Sit down."* wird:
+
+> *"**So sit down and be told what it was on this end**, and do not tell me you
+> deserve it, **because that is the same trick with the sleeves rolled up**."*
+
+**Und daraus wird ihr eigentliches Instrument: sie schreibt vor, in welcher
+Form geredet wird.** Sie beurteilt nicht den Inhalt, sondern die Reihenfolge -
+was bei einer Frau mit dreiundzwanzig Jahren Abrechnung nichts anderes ist als
+die Prüfung eines Belegs:
+
+> *"**Say it in the order it happens**," said Mrs Jeon, "**and do not put the
+> reason first.**"*
+
+**Wer ihr eine Zeile schreibt, kann ihr das geben: sie darf jederzeit die
+Erzählweise des anderen berichtigen.** Das ist bei ihr keine Schroffheit,
+sondern ihr Beruf.
+
+**Und K71 beantwortet, was das Blatt bis dahin als offen führte.** In K32 sagt
+sie, sie werde das Angebot ihres Sohnes annehmen. In K71 steht, was daraus
+wurde, und sie rechnet es gegen sich selbst auf:
+
+> *"I said in this room that I was going to take it. **I took the half of it
+> that let me stay where I am.** I have spent six weeks working out whether that
+> is honest and **I have not got anywhere**."*
+
+> *"And you remembered it, and you did not come back for fourteen weeks. **Both
+> of those are true. I am too old to pretend that the first one settles the
+> second.**"*
+
+**Das ist ihre Abrechnung auf sich selbst angewandt:** zwei Posten, beide wahr,
+kein Saldo. Sie verrechnet nicht - sie lässt beide stehen. **Wer ihr eine
+Versöhnung schreibt, in der das eine das andere aufhebt, hat diese Zeile nicht
+gelesen.**
 
 ### Mrs Gwak (Blumenladen, Hyoja-dong)
 **Zivilistin, aber nicht wie die Gießerin.** Sie redet über ihren Mann und seine
@@ -13395,7 +13475,13 @@ taucht bei den Jahren gar nicht unter den ersten fünf auf.)*
 **Er erinnert sich an Bestellungen, nicht an Menschen.** Zimmer, Datum, Flasche,
 Tisch für zwei. Wenn man ihn nach einem Menschen fragt, antwortet er mit dem, was
 der Mensch bestellt hat. *"I know a party of two, a very good bottle, and a bill
-paid in cash by a man who left before the coffee."*
+paid in cash."* - *"And a man who left before the coffee. **People do not do
+that.**"*
+
+*(Hier stand beides als **ein** Satz, zusammengezogen. Es sind zwei Repliken,
+und die Fuge ist die Stelle, wo er aufhört zu berichten und anfängt zu
+urteilen: **People do not do that.** Wer die beiden verschmilzt, nimmt ihm den
+einzigen Satz, in dem er eine Meinung hat.)*
 
 **Gegengelesen, acht Repliken.** Zwei Ergänzungen, und eine Berichtigung:
 
@@ -13788,16 +13874,30 @@ Unterschied zwischen ihnen ist der ganze Handel.
 
 ---
 
-### Mr Chae (14 Repliken)
+### Mr Chae (b1 K25 und b1 K34)
 
 **Der Zeichner der Instrumente. Struktur ja, Zweck nie.** Er fragt, wofür etwas
 ist, schreibt die Antwort auf und stellt keine zweite Frage. Annie über ihn:
 *"Mr Chae will not be told why and he will not enjoy it."* **Das ist seine
 Charakterisierung und er weiß nichts davon.**
 
-**Dazu gemessen, sieben zugeordnete Repliken:**
+**Die Zahl in diesem Blatt war zweimal falsch, und beide Male aus demselben
+Grund.** Im Kopf stand *14*, im Text *7 zugeordnete Repliken*. **Von Hand
+nachgezählt sind es rund siebzehn** - sieben in b1 K25, zehn in b1 K34.
 
-**7 Repliken, und er hatte kein Blatt.**
+**`stimmen.py` sieht die zehn nicht, und das ist ein Loch im Werkzeug, nicht in
+der Figur.** Zwei Ursachen greifen hier zusammen:
+
+1. **b1 K34 ist eine Zweipersonenszene.** Der Dialog läuft im blossen Wechsel,
+   die meisten Repliken haben überhaupt keinen Begleitsatz.
+2. **Wo einer steht, ist es ein Handlungsverb und kein Sprechverb:**
+   *"That is what it was for." **Mr Chae closed the case** and did not open it
+   again."* Das Werkzeug sucht `said|asked|shrugged|added|repeated` und geht
+   daran vorbei.
+
+**Für Chae heisst das: das Kapitel wird gelesen und nicht gezählt.** Die
+Messwerte in der Gesamttabelle (112 Wörter) sind entsprechend nur der
+K25-Anteil und taugen nicht für einen Vergleich.
 
 **Die Maschine: er markiert die Grenze seiner eigenen Nachforschung, bevor
 jemand fragt.**
@@ -13821,7 +13921,12 @@ das Mandat.
 on a Sunday."*
 
 **Körper.** Er hat den Koffer und macht ihn zu, wenn er fertig ist - und die
-Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe.
+Reihenfolge der zwei Verschlüsse ist in zwei Kapiteln dieselbe. **Der Text sagt
+es selbst**, b1 K34: *"Georgij watched him square the case and close the two
+catches **in the order he had closed them in December**."* Und zwei Absätze
+später wird die Geste zu dem, worauf sich Georgijs ganze Bewegung richtet:
+*"It was aimed at **a lawyer's two catches** and at nothing else in that room,
+and Mr Chae did not see it."*
 
 ---
 
@@ -14055,11 +14160,15 @@ zwanzig Jahre, und er sagt sie als Zeitangabe und nicht als Anspruch.
 **Dazu gemessen, elf zugeordnete Repliken:**
 
 **11 Repliken, 182 Wörter, und er hatte kein Blatt.** Er zählt Personen mit
-**22,0 je 1000 Wörtern - der zweithöchste Wert im Buch**, knapp hinter Mr Ahn
-mit 22,5, weil er sich in einer Reihe von Menschen sieht.
+**22,0 je 1000 Wörtern**, weil er sich in einer Reihe von Menschen sieht.
 
-*(Hier stand "der höchste Wert im ganzen Buch". Um ein halbes Zehntel falsch,
-und das ist die Sorte Superlativ, die niemand nachrechnet.)*
+*(Dieser Platz ist zweimal gekippt. Zuerst stand hier "der höchste Wert im
+ganzen Buch", dann - berichtigt - "der zweithöchste, knapp hinter Mr Ahn mit
+22,5". **Am 25.08. ist Mr Ahn auf 15,8 gefallen**, weil er in K73 viel geredet
+und dabei kaum von Menschen gesprochen hat, und damit ist die erste, verworfene
+Fassung wieder richtig. **Byuns eigene 22,0 haben sich nie bewegt. Der Rang um
+ihn herum bewegt sich dauernd** - deshalb steht er hier nicht mehr, sondern
+wird geholt:* `python3 werkzeug/stimmen.py`*.)*
 
 **Die Maschine: er verteidigt sich, indem er sich in eine Erbfolge stellt.**
 
@@ -16044,6 +16153,60 @@ zitiert, ist das Blatt veraltet** - unabhaengig davon, ob ein einziger Satz
 darin falsch ist. Bei Sim: 64 von 65.
 
 *Unsicher:* keiner.
+
+### Die Liste abgearbeitet: Ahn, Hwang, Byun, Sohn, Chae, Mrs Jeon, Yeom
+
+**Zuerst eine Berichtigung an meinem eigenen Test.** Der Veralterungs-Test aus
+dem Sim-Eintrag sucht in doc/12 nach dem Muster `b1 K12`. **Er misst damit, ob
+ein Blatt Kapitel *nennt*, nicht ob es sie *gelesen* hat.** Hwang und Yeom sind
+dadurch faelschlich als 100 % bzw. 56 % unzitiert gemeldet worden - Hwang
+zitiert seine Kapitel woertlich, nur ohne Nummer, und Yeom nennt sie in einer
+Aufzaehlung (*"b2 K24, K25, K34"*), von der das Muster nur den ersten Eintrag
+sieht. **Der Test taugt zur Triage und nicht als Befund.** Beide Blaetter haben
+jetzt die Nummern.
+
+| Figur | Befund |
+|---|---|
+| **Mr Ahn** | Alles belegt, auch das riskanteste: *"he is thirty-nine"* sagt Annie in b2 K74 woertlich. **Aber "zieht zusammen" ist zu klein**: 73,9 Kontraktionen je 1000 Woerter, naechstbester Hana mit 5,3 - **Faktor vierzehn, die staerkste Stimmenmarke im Buch.** Und die Werkbank-Geste ist keine Marotte in K56, sondern eine Geste ueber drei Kapitel mit einem Mass: Vierteldrehung (K56), vier Zentimeter (K63), vier Zentimeter (K73). K63/K70/K73 fehlten ganz |
+| **Ahn Jung-hee** | **Der Abschnitt widersprach sich selbst.** Kopf: *"hat im ganzen Buch noch nie gesprochen"*; Fliesstext dreissig Zeilen tiefer: beide Auftritte. Der Kopf war nie nachgezogen worden, und die beiden Auftritte standen in verkehrter Reihenfolge. **Der Kern stimmt schaerfer formuliert: es gibt kein einziges direktes Zitat von ihr**, beide Male gibt Sim sie wieder. Ausserdem sagt das Buch nicht *"viermal wiederholt"*, sondern **"four times, in four different ways"** - sie wiederholt nicht, sie formuliert um |
+| **Mr Hwang** | **Vorbildlich.** Jedes Zitat woertlich, der Superlativ haelt (Daten 16,3 / Uhrzeiten 13,6, beide Platz eins ueber der Schwelle), und das Blatt nennt die Schwelle von selbst. Nur die **Verfolgerliste** war nach drei Wochen falsch - Mr Ahn von 11,2 auf 7,9 gefallen. Rangliste durch den Befehl ersetzt |
+| **Mr Byun** | **Der Rang ist zum zweiten Mal gekippt.** Erst *"hoechster Wert im Buch"*, dann berichtigt zu *"zweithoechster, knapp hinter Mr Ahn mit 22,5"* - und weil Ahn inzwischen auf 15,8 steht, ist die **verworfene erste Fassung wieder richtig**. Byuns eigene 22,0 haben sich nie bewegt. Rang raus, Befehl rein |
+| **Mr Sohn** | **Ein zusammengezogenes Zitat.** Das Blatt fuehrte *"…a bill paid in cash by a man who left before the coffee"* als einen Satz. Es sind zwei Repliken, und die Fuge ist die Stelle, wo er aufhoert zu berichten und anfaengt zu urteilen: **"People do not do that."** Das Verschmelzen hat ihm seinen einzigen Meinungssatz genommen |
+| **Mr Chae** | **Beide Zahlen im Blatt falsch** - Kopf *14*, Text *7*. Von Hand sind es rund **siebzehn**: sieben in b1 K25, zehn in b1 K34 |
+| **Mrs Jeon** | **Das Blatt endete bei K32 und hat b2 K71 nicht gesehen - sechzehn Repliken, ihr groesstes Kapitel.** 25 Repliken standen da, es sind 41. Alles Zitierte stimmt |
+| **Mr Yeom** | **Eine erfundene Zahl:** *"ein Verkaeufer, der seit vierzig Jahren Leute an Tischen sitzen sieht."* **Yeoms Berufsdauer wird im Buch nirgends genannt.** Sie klang richtig, in einem Blatt, das sonst jede Zahl belegt |
+
+#### Ein Loch im Werkzeug, und es ist die Ursache von Chaes zwei falschen Zahlen
+
+`stimmen.py` sucht `said|asked|shrugged|added|repeated`. **Eine Replik mit
+einem Handlungs-Begleitsatz ist unsichtbar:**
+
+> *"That is what it was for." **Mr Chae closed the case** and did not open it
+> again.*
+
+In b1 K34 verliert Chae dadurch zehn Repliken. **Die Verbliste zu erweitern
+hilft nicht** - ein Handlungsverb neben einer Replik sagt nicht, dass der
+Handelnde spricht. Es gilt dasselbe wie bei Zweipersonenszenen: lesen, nicht
+zaehlen. **Als dritte Grenze in `werkzeug/stimmen.py` dokumentiert**, neben der
+Zuschreibungsfalle und den Zweipersonenszenen.
+
+#### Was diese sieben zusammen zeigen
+
+**Die haltbarsten Saetze sind die, die das Buch selbst formuliert** - *he is
+never wrong about that by more than a year*, *he is thirty-nine*, *four times,
+in four different ways*, *that puts him on the end of the sentence*. Kein
+einziger davon ist beim Gegenlesen gefallen.
+
+**Gefallen sind fast nur Zahlen, die einen Rang behaupten** - Byuns Platz
+zweimal, Hwangs Verfolger, Chaes Repliken zweimal, Mrs Jeons 25, Yeoms vierzig
+Jahre. **Ein Rang ist keine Eigenschaft der Figur, sondern eine Aussage ueber
+alle anderen**, und die anderen aendern sich mit jedem geschriebenen Kapitel.
+Deshalb steht in diesen Blaettern jetzt der Befehl, wo vorher die Ziffer stand.
+
+*Unsicher:* Chaes siebzehn Repliken sind von Hand gezaehlt und nicht vom
+Werkzeug bestaetigt - das Werkzeug kann es nicht. Bei einer Zweipersonenszene
+haengt die Zuordnung am Wechsel, und wenn ich mich um eine Replik verzaehlt
+habe, ist es diese.
 
 ---
 

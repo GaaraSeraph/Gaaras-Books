@@ -1286,8 +1286,13 @@ anderen, bevor der sie macht, und sagt sie laut.** Viermal belegt:
 
 Der letzte ist der schärfste: Er hat die Antwort schon gehabt und die Frage
 trotzdem gestellt, um zu sehen, ob der andere sie ehrlich beantwortet. **Das ist
-kein Verhör, das ist ein Verkäufer, der seit vierzig Jahren Leute an Tischen
-sitzen sieht.**
+kein Verhör, das ist ein Verkäufer, der Leute an Tischen sitzen sieht.**
+
+*(Hier stand "seit vierzig Jahren". **Die Zahl steht nirgends im Buch** - Yeoms
+Berufsdauer wird nie genannt, gesucht über K24, K25, K34, K41, K53, K54, K55.
+Sie klang richtig und war erfunden, in einem Blatt, das sonst jede Zahl belegt.
+Belegt sind Byuns sechsundzwanzig Jahre und Yeoms vier Jahre Ruhe - nicht seine
+Laufbahn.)*
 
 **Und er ersetzt Moral durch Rechnen, ausdrücklich:** *"you are going to think it
 was cowardice and it was not. **It was arithmetic.**"* Wer ihm eine moralische
@@ -1309,8 +1314,30 @@ Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
 
 **Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
-b2 K24, K25, K34, K41, K53, K54, K55; Sang-hoon in b1 K10, K16, K22, K33 und
-b2 K4, K26, K35, K36, K38, K39, K42, K43, K45, K48, K50. **Keine Überschneidung.**
+b2 K24, b2 K25, b2 K34, b2 K41, b2 K53, b2 K54, b2 K55; Sang-hoon in b1 K10,
+b1 K16, b1 K22, b1 K33 und b2 K04, b2 K26, b2 K35, b2 K36, b2 K38, b2 K39,
+b2 K42, b2 K43, b2 K45, b2 K48, b2 K50. **Keine Überschneidung.**
+
+#### Seine wichtigste Zeile steht in einem anderen Blatt
+
+**In b2 K25 gibt Yeom den Satz wieder, an dem der halbe zweite Band hängt**, und
+er gibt ihn als Empfänger wieder, nicht als Sprecher:
+
+> *"He said he was glad we had met," said Mr Yeom.*
+> *"And had you."*
+> *"**No. That is why I remember it.** I put the telephone down and I said to my
+> wife that a man had just told me it was nice to see me again and **I had never
+> laid eyes on him**."*
+
+**Für die Stimme heisst das:** er merkt sich einen Satz vier Jahre lang, **weil
+er nicht stimmte**, und er datiert die Erinnerung an einer häuslichen Szene
+(Telefon aufgelegt, zur Frau gesagt). Das ist dieselbe Maschine wie *"comfortable
+until May"* - **er speichert nicht Gefühle, sondern den Moment, an dem eine
+Rechnung nicht aufging.**
+
+Siehe *Choi Dae-ho*: dass Yeom hier Empfänger ist und nicht Überbringer, ist der
+Punkt, den b2 K38 ausdrücklich festhält - *"That puts him on the end of the
+sentence, not the one saying it."*
 
 ### Mrs Bae (zweiundzwanzig Jahre am Empfang)
 
@@ -1408,7 +1435,12 @@ Rechtfertigung, eine Rechtslage.
 
 ### Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)
 
-**25 Repliken, 328 Wörter.** Zählt Daten 9,1 und Monate 6,1.
+**41 Repliken.** Zählt Daten und Monate dichter als fast jede andere Figur -
+Rang und Zahl mit `python3 werkzeug/stimmen.py` holen, nicht von hier zitieren.
+
+*(Hier stand "25 Repliken, 328 Wörter". **Das Blatt hat b2 K71 nicht gesehen,
+und das sind sechzehn Repliken - ihr grösstes Kapitel.** Alles Zitierte
+unten stimmt; es endete nur bei K32.)*
 
 **Korrektur am ersten Blatt.** Dort stand *"der Vorgang, nie die Person"*. Über
 fünfundzwanzig Repliken gelesen stimmt das nicht - sie tut zweimal ausdrücklich
@@ -1450,6 +1482,43 @@ Kenntnis nimmt.
 will say where it came from is the one thing I know how to be afraid of."*
 
 **Keine Rechtfertigung, keine Bitte.** Und sie setzt Leute hin: *"Sit down."*
+(b2 K32)
+
+#### Was in b2 K71 dazukommt
+
+**Der Imperativ kehrt wieder und wird schärfer.** Aus *"Sit down."* wird:
+
+> *"**So sit down and be told what it was on this end**, and do not tell me you
+> deserve it, **because that is the same trick with the sleeves rolled up**."*
+
+**Und daraus wird ihr eigentliches Instrument: sie schreibt vor, in welcher
+Form geredet wird.** Sie beurteilt nicht den Inhalt, sondern die Reihenfolge -
+was bei einer Frau mit dreiundzwanzig Jahren Abrechnung nichts anderes ist als
+die Prüfung eines Belegs:
+
+> *"**Say it in the order it happens**," said Mrs Jeon, "**and do not put the
+> reason first.**"*
+
+**Wer ihr eine Zeile schreibt, kann ihr das geben: sie darf jederzeit die
+Erzählweise des anderen berichtigen.** Das ist bei ihr keine Schroffheit,
+sondern ihr Beruf.
+
+**Und K71 beantwortet, was das Blatt bis dahin als offen führte.** In K32 sagt
+sie, sie werde das Angebot ihres Sohnes annehmen. In K71 steht, was daraus
+wurde, und sie rechnet es gegen sich selbst auf:
+
+> *"I said in this room that I was going to take it. **I took the half of it
+> that let me stay where I am.** I have spent six weeks working out whether that
+> is honest and **I have not got anywhere**."*
+
+> *"And you remembered it, and you did not come back for fourteen weeks. **Both
+> of those are true. I am too old to pretend that the first one settles the
+> second.**"*
+
+**Das ist ihre Abrechnung auf sich selbst angewandt:** zwei Posten, beide wahr,
+kein Saldo. Sie verrechnet nicht - sie lässt beide stehen. **Wer ihr eine
+Versöhnung schreibt, in der das eine das andere aufhebt, hat diese Zeile nicht
+gelesen.**
 
 ### Mrs Gwak (Blumenladen, Hyoja-dong)
 **Zivilistin, aber nicht wie die Gießerin.** Sie redet über ihren Mann und seine
