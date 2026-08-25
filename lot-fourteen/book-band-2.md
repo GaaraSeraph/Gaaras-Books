@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.612 Woerter.
+Book Two, 68 Kapitel, 168.616 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -50,7 +50,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 37 | v2.3 | 3.914 |
 | 38 | v2.4 | 2.977 |
 | 39 | v2.3 | 2.943 |
-| 40 | v2.5 | 2.831 |
+| 40 | v2.6 | 2.835 |
 | 41 | v2.3 | 3.902 |
 | 42 | v2.4 | 3.414 |
 | 43 | v2.0 | 2.816 |
@@ -8588,7 +8588,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 40: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8614,7 +8614,7 @@ Annie had a notepad open and had written nothing on it since Jang sat down. It i
 
 "How many people does that feed," said Annie.
 
-"Between six and ten, depending how careful the kitchen is," said Jang. "That's a guess and I'm telling you it's a guess."
+"Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess and I am telling you it is a guess."
 
 Georgij looked at the map.
 
@@ -8684,7 +8684,7 @@ Annie looked at the map on the desk without touching it.
 
 "You are not going in," she said. "Not through the tradesman's route, not through the old man, not through anything. Not yet."
 
-"I wasn't going to ask, ma'am," said Jang.
+"I was not going to ask, ma'am," said Jang.
 
 "I know you were not. I am saying it so that Georgij hears me say it to you and not only to him." She looked at Georgij directly. "The next step is not a road. It is a name on a registry, and that is Sang-hoon's road to walk, not ours, because he has people who can walk it without either of your faces attached to it."
 
