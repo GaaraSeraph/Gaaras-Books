@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.316 Woerter.
+Book One, 34 Kapitel, 101.315 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -43,7 +43,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 30 | v1.10 | 3.526 |
 | 31 | v1.8 | 3.262 |
 | 32 | v1.3 | 2.583 |
-| 33 | v1.13 | 3.346 |
+| 33 | v1.14 | 3.345 |
 | 34 | v1.10 | 4.295 |
 
 ---
@@ -9301,7 +9301,7 @@ Then she got into the car, and the car went down the hill, and that was the whol
 ---
 
 # Book One · Chapter 33: That is five
-*Lot Fourteen* · Version 1.13 · EN
+*Lot Fourteen* · Version 1.14 · EN
 
 ## Day Eighty-Seven · Monday 29 December
 
@@ -9401,7 +9401,7 @@ He sat back in the chair he had not been offered, and put one hand on each knee,
 
 The house made no noise whatever for about two seconds.
 
-"That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you have just told me it is untrue before you use it, which means it is not untrue, which means you have thought about this for some time."
+"That is the first untrue thing you have ever built out of me," said Sang-hoon, "and you have just told me it is untrue before you use it. That is not how a lie works. You have thought about this for some time."
 
 "Thirty-seven days."
 

@@ -52,7 +52,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 39 | v2.2 | 2.940 |
 | 40 | v2.3 | 2.783 |
 | 41 | v2.3 | 3.902 |
-| 42 | v2.2 | 3.354 |
+| 42 | v2.3 | 3.354 |
 | 43 | v2.0 | 2.816 |
 | 44 | v2.1 | 2.516 |
 | 45 | v1.1 | 2.176 |
@@ -8960,7 +8960,7 @@ He wrote one more line before he put the notebook away for the night.
 ---
 
 # Book Two · Chapter 42: The evenings he lost nothing at
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Seventy · Tuesday 30 June
 
@@ -9164,7 +9164,7 @@ Georgij took the folder and did not open it at the table.
 
 "You have been looking for what he actually owns behind the lawyers in Singapore," he said. "This is not Singapore."
 
-"No," said Sang-hoon. "This is the part he thought was far enough from Singapore that nobody would ever put the two together. I have not found the Singapore end yet. I found this because I was looking somewhere he did not expect anybody to look, which is a description of everything useful I have ever done in this business."
+"No," said Sang-hoon. "This is the part he thought was far enough from Singapore that nobody would ever put the two together. I have not found the Singapore end yet. I found this because I was looking somewhere he did not expect anybody to look. That is everything useful I have ever done in this business, in one sentence."
 
 "Then find out whether the woman Jang has been watching is the same woman this trust was built for eleven years ago." Sang-hoon put one finger on the folder and left it there. "Before you find out anything else, because those are two different questions and I have watched you let one stand in for the other."
 
