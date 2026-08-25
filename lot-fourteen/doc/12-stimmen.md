@@ -1046,6 +1046,23 @@ in einem Haus lebt, in dem er nichts entscheiden darf, entscheidet über alles,
 worüber er darf, und redet nur darüber. **Sie fragt nichts, weil Fragen in
 diesem Haus nichts einbringt.**
 
+### Mrs Ha (dreissig Jahre Blumen und Waesche in Saele, Kapitel 67)
+
+**Ihre Maschine ist der gedeckte Raum.** Sie erinnert Hochzeiten nicht als
+Ereignisse, sondern als Aufbauten: wie viele Tische, welche Farbe, was die Mutter
+wollte, wann geliefert wurde, wer bezahlt hat. Vierhundert Stueck in dreissig
+Jahren, und sie unterscheidet sie an den Auftraegen.
+
+**Ihr Anliegen hat mit dem Fall nichts zu tun: das Geschaeft, das sie vor vier
+Jahren verloren hat.** Sie kommt bei jedem dritten Satz darauf zurueck, und sie
+ist nicht wehleidig, sie ist **stolz**. Der Stolz ist das, was uebrig ist.
+
+**Sie zieht zusammen.** Sie ist die zweite Zivilistin im Buch nach der Frau mit
+der Giesskanne und darf so klingen.
+
+**Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
+gilt ihrem Gewerbe und nicht der Frau, um die es geht.
+
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
 Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,

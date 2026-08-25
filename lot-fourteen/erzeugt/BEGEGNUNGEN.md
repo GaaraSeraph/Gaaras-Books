@@ -22,7 +22,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 216 | 35 (b1ch07-b2ch63) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 137 | 33 (b1ch05-b2ch66) | 2 | 60 |
+| Jang | 143 | 34 (b1ch05-b2ch67) | 2 | 60 |
 | Mrs Seo | 91 | 41 (b1ch03-b2ch66) | 1 | 74 |
 | Mr Hwang | 72 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Sim | 69 | 13 (b2ch31-b2ch66) | 2 | 45 |
@@ -41,6 +41,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Choi Dae-ho | 26 | 16 (b1ch07-b2ch66) | 2 | 61 |
 | Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
+| Mrs Ha | 23 | 2 (b2ch66-b2ch67) | 37 | 39 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
@@ -54,7 +55,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
-| Mrs Ha | 4 | 1 (b2ch66) | 37 | 37 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Moon Hae-sook | 2 | 1 (b2ch66) | 37 | 37 |
@@ -2044,7 +2044,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-137 Nennungen in 33 Kapiteln.
+143 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2185,6 +2185,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:74 | "That is what Jang said, in those words, and he made me repeat it back to him before he .. |
 | 22 | b2ch58:130 | Then he got the July folder out, and the June one, and Jang's second report, and put the.. |
 | 37 | b2ch66:298 | "Jang goes with you to Mapo and sits in the car, and I am not discussing it, and you are.. |
+| 39 | b2ch67:6 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
+| 39 | b2ch67:18 | "If she telephones while you are in there, you will not know." Jang had both hands on th.. |
+| 39 | b2ch67:394 | He got into the car at eleven minutes past twelve and Jang did not start the engine. |
+| 39 | b2ch67:398 | "Well," said Jang. |
+| 39 | b2ch67:414 | Jang started the car. |
+| 39 | b2ch67:430 | Jang did not say anything, because he had never been given the name. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2257,6 +2263,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch48:34` (Tag 2) - eight, eleven, one, three
 - `b2ch48:74` (Tag 2) - four, one
 - `b2ch58:130` (Tag 22) - one
+- `b2ch67:6` (Tag 39) - forty, two
+- `b2ch67:394` (Tag 39) - eleven, twelve
 
 ---
 
@@ -3658,6 +3666,51 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Ha
+
+23 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:100 | The fourth is a woman called Mrs Ha. |
+| 37 | b2ch66:104 | Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty ye.. |
+| 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
+| 37 | b2ch66:306 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
+| 39 | b2ch67:34 | Mrs Ha is in her sixties and answered the door herself and looked at his coat before she.. |
+| 39 | b2ch67:58 | "Say what you want," said Mrs Ha. |
+| 39 | b2ch67:114 | Mrs Ha put both hands flat on her knees. |
+| 39 | b2ch67:146 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
+| 39 | b2ch67:154 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
+| 39 | b2ch67:178 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
+| 39 | b2ch67:186 | "I asked her whether it might be later in the year," said Mrs Ha. |
+| 39 | b2ch67:202 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
+| 39 | b2ch67:210 | "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday." |
+| 39 | b2ch67:222 | Mrs Ha went completely still. |
+| 39 | b2ch67:238 | "Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting." |
+| 39 | b2ch67:246 | Mrs Ha got up again and this time she did not go to the window. |
+| 39 | b2ch67:270 | "He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that .. |
+| 39 | b2ch67:298 | "I understood that a family had had a bad month and would be grateful if it were not dis.. |
+| 39 | b2ch67:318 | "And now a foreigner in a good coat comes up my stairs and asks me one question, and I f.. |
+| 39 | b2ch67:334 | "I lost the business four years ago," said Mrs Ha. |
+| 39 | b2ch67:350 | Mrs Ha laughed, once, and it was not a laugh. |
+| 39 | b2ch67:378 | Mrs Ha looked at him for a long moment. |
+| 39 | b2ch67:390 | "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe." |
+
+### Zahlen in der Naehe von Mrs Ha
+
+- `b2ch66:104` (Tag 37) - four hundred, thirty
+- `b2ch66:138` (Tag 37) - eleven
+- `b2ch66:306` (Tag 37) - eleven, one
+- `b2ch67:154` (Tag 39) - four hundred and eleven, thirty
+- `b2ch67:178` (Tag 39) - four, hundred, one
+- `b2ch67:202` (Tag 39) - one
+- `b2ch67:210` (Tag 39) - eleven
+- `b2ch67:270` (Tag 39) - two
+- `b2ch67:318` (Tag 39) - four, one
+- `b2ch67:334` (Tag 39) - four
+
+---
+
 ## Mr Koh
 
 21 Nennungen in 4 Kapiteln.
@@ -4063,25 +4116,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch08:220` (Tag 22) - eight, one, two
 - `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
-
----
-
-## Mrs Ha
-
-4 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 37 | b2ch66:100 | The fourth is a woman called Mrs Ha. |
-| 37 | b2ch66:104 | Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty ye.. |
-| 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
-| 37 | b2ch66:306 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
-
-### Zahlen in der Naehe von Mrs Ha
-
-- `b2ch66:104` (Tag 37) - four hundred, thirty
-- `b2ch66:138` (Tag 37) - eleven
-- `b2ch66:306` (Tag 37) - eleven, one
 
 ---
 

@@ -2755,7 +2755,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 
 <<<<<<< HEAD
-- **Band 2, Kapitel 63** *One sentence* (v1.1) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.2) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 =======
 - **Band 2, Kapitel 63** *One sentence* (v1.2) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 >>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
@@ -2885,6 +2885,49 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Faellig: Mrs Ha, Mrs Sunwoos vier und Moon Hae-sook gehoeren in
     `doc/03-cast.md`, und Mrs Ha braucht ein Blatt in `doc/12-stimmen.md`, bevor
     Kapitel 67 sie sprechen laesst.**
+
+
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.0) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
+    Vierhundertelf Hochzeiten in dreissig Jahren, Blumen und Waesche, seit vier
+    Jahren zu. Ihr Blatt steht in `doc/12-stimmen.md`.
+  - **Die Absage kam am 10. Maerz**, telefonisch vom Saal und nicht von der
+    Familie, was normal ist. **Nicht normal:** niemand hat um Geld gestritten. In
+    dreissig Jahren hat sie bei dreihundert von vierhundertelf gestritten. Diese
+    eine hat binnen einer Woche alles bezahlt und die Waesche nie zurueckverlangt.
+  - **MOON HAE-SOOK KAM SELBST**, am Montag darauf, allein, in dieses Buero, und
+    hat sich bei der Lieferantin entschuldigt. In dreissig Jahren ist nie eine
+    Familie in dieses Buero gekommen. Sie war **die ruhigste Person im Raum**, und
+    Mrs Ha unterscheidet ausdruecklich: nicht tapfer. *"She had decided something
+    and she'd finished deciding it."*
+  - **Ihre Worte, und sie sind ab jetzt Kanon:** auf die Frage, ob es spaeter im
+    Jahr werde, sagt sie nicht das Uebliche. *"There is not going to be a later."*
+    Dann bedankt sie sich fuer die Waesche und laesst die bezahlten Blumen ins
+    Krankenhaus in Mapo bringen, weil sie existieren und jemand sie haben soll.
+    **Elf Tische voll, Mrs Ha hat sie am Dienstag selbst gefahren.**
+  - **DIE ENTSCHEIDUNG, DIE GEGENGEPRUEFT WERDEN MUSS:** eine Woche spaeter kam
+    ein Mann in dieses Buero. Er hat **um nichts gebeten**, kannte ihr Gewerbe im
+    Detail, war zwanzig Minuten freundlich zu ihr - und **sagte einer Frau, die er
+    nie gesehen hatte, es sei gut, sie wiederzusehen.**
+    **Das ist Sims Signatur, viermal im Buch belegt** (Kapitel 31, 41, 49, 52).
+    Georgij erkennt sie am Ende des Kapitels und schreibt sie nicht auf.
+    **Damit ist der Mann, der ihm seit dem 1. August hilft, der Mann, der vor elf
+    Jahren vier Leute besucht hat.** Er weiss nicht, dass Georgij es weiss, und
+    Georgij weiss nicht, ob Sim weiss, was er getan hat.
+    **Falls das zu weit geht, faellt es mit dem Absatz am Kapitelende und dem
+    Schlussvermerk wieder heraus.**
+  - **Und die Auslegung, die Mrs Ha selbst liefert:** *"That isn't kindness.
+    That's a job."* Alle vier haben elf Jahre lang geglaubt, sie seien die
+    Einzigen, die anstaendig sind.
+  - **Ihr Druckmittel ist mit dem Geschaeft gegangen** und niemand ist in vier
+    Jahren nachsehen gekommen. *"Thirty years, and the useful thing about me is
+    that I've got nothing left."*
+  - **Georgij bittet sie ausdruecklich nicht um Schweigen:** *"if you do, you will
+    not be doing anything wrong, and I am not going to ask you not to."* Jang
+    schaetzt zum Schluss, ob sie telefoniert hat - sechzig Prozent, ausdruecklich
+    als Schaetzung markiert, nach seiner eigenen Regel.
 
 
 ---

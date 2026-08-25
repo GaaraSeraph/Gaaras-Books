@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 13 Dokumente am Stueck plus das Begegnungsregister. 209.078 Woerter.
+Alle 13 Dokumente am Stueck plus das Begegnungsregister. 210.244 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -184,6 +184,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Gwak (Blumenladen, Hyoja-dong)](#mrs-gwak-blumenladen-hyoja-dong)
   - [Mr Sohn (kocht ohne Schild)](#mr-sohn-kocht-ohne-schild)
   - [Ahn Jung-hee - NOCH KEINE STIMME, und das ist die wichtigste offene Frage](#ahn-jung-hee-noch-keine-stimme-und-das-ist-die-wichtigste-offene-frage)
+  - [Mrs Ha (dreissig Jahre Blumen und Waesche in Saele, Kapitel 67)](#mrs-ha-dreissig-jahre-blumen-und-waesche-in-saele-kapitel-67)
   - [Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)](#zivilisten-die-gie-erin-nachbarn-ladenpersonal)
   - [Park Sang-hoon (101 Repliken, 26 Kapitel)](#park-sang-hoon-101-repliken-26-kapitel)
   - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
@@ -223,6 +224,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Nam Byung-hee](#nam-byung-hee)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Baek](#mr-baek)
+  - [Mrs Ha](#mrs-ha)
   - [Mr Koh](#mr-koh)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
@@ -236,7 +238,6 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Eun-ju](#eun-ju)
   - [Mr Noh](#mr-noh)
   - [Chef Bang](#chef-bang)
-  - [Mrs Ha](#mrs-ha)
   - [Mrs Jeon Mi-ja](#mrs-jeon-mi-ja)
   - [Minister Min-ho](#minister-min-ho)
   - [Moon Hae-sook](#moon-hae-sook)
@@ -5463,7 +5464,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
 
 <<<<<<< HEAD
-- **Band 2, Kapitel 63** *One sentence* (v1.1) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.2) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 =======
 - **Band 2, Kapitel 63** *One sentence* (v1.2) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 >>>>>>> 95dc7eb (Nachgemessen mit stimmen.py: Tic 2 gehoert Annie, und vier Figuren repariert)
@@ -5593,6 +5594,49 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Faellig: Mrs Ha, Mrs Sunwoos vier und Moon Hae-sook gehoeren in
     `doc/03-cast.md`, und Mrs Ha braucht ein Blatt in `doc/12-stimmen.md`, bevor
     Kapitel 67 sie sprechen laesst.**
+
+
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.0) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
+    Vierhundertelf Hochzeiten in dreissig Jahren, Blumen und Waesche, seit vier
+    Jahren zu. Ihr Blatt steht in `doc/12-stimmen.md`.
+  - **Die Absage kam am 10. Maerz**, telefonisch vom Saal und nicht von der
+    Familie, was normal ist. **Nicht normal:** niemand hat um Geld gestritten. In
+    dreissig Jahren hat sie bei dreihundert von vierhundertelf gestritten. Diese
+    eine hat binnen einer Woche alles bezahlt und die Waesche nie zurueckverlangt.
+  - **MOON HAE-SOOK KAM SELBST**, am Montag darauf, allein, in dieses Buero, und
+    hat sich bei der Lieferantin entschuldigt. In dreissig Jahren ist nie eine
+    Familie in dieses Buero gekommen. Sie war **die ruhigste Person im Raum**, und
+    Mrs Ha unterscheidet ausdruecklich: nicht tapfer. *"She had decided something
+    and she'd finished deciding it."*
+  - **Ihre Worte, und sie sind ab jetzt Kanon:** auf die Frage, ob es spaeter im
+    Jahr werde, sagt sie nicht das Uebliche. *"There is not going to be a later."*
+    Dann bedankt sie sich fuer die Waesche und laesst die bezahlten Blumen ins
+    Krankenhaus in Mapo bringen, weil sie existieren und jemand sie haben soll.
+    **Elf Tische voll, Mrs Ha hat sie am Dienstag selbst gefahren.**
+  - **DIE ENTSCHEIDUNG, DIE GEGENGEPRUEFT WERDEN MUSS:** eine Woche spaeter kam
+    ein Mann in dieses Buero. Er hat **um nichts gebeten**, kannte ihr Gewerbe im
+    Detail, war zwanzig Minuten freundlich zu ihr - und **sagte einer Frau, die er
+    nie gesehen hatte, es sei gut, sie wiederzusehen.**
+    **Das ist Sims Signatur, viermal im Buch belegt** (Kapitel 31, 41, 49, 52).
+    Georgij erkennt sie am Ende des Kapitels und schreibt sie nicht auf.
+    **Damit ist der Mann, der ihm seit dem 1. August hilft, der Mann, der vor elf
+    Jahren vier Leute besucht hat.** Er weiss nicht, dass Georgij es weiss, und
+    Georgij weiss nicht, ob Sim weiss, was er getan hat.
+    **Falls das zu weit geht, faellt es mit dem Absatz am Kapitelende und dem
+    Schlussvermerk wieder heraus.**
+  - **Und die Auslegung, die Mrs Ha selbst liefert:** *"That isn't kindness.
+    That's a job."* Alle vier haben elf Jahre lang geglaubt, sie seien die
+    Einzigen, die anstaendig sind.
+  - **Ihr Druckmittel ist mit dem Geschaeft gegangen** und niemand ist in vier
+    Jahren nachsehen gekommen. *"Thirty years, and the useful thing about me is
+    that I've got nothing left."*
+  - **Georgij bittet sie ausdruecklich nicht um Schweigen:** *"if you do, you will
+    not be doing anything wrong, and I am not going to ask you not to."* Jang
+    schaetzt zum Schluss, ob sie telefoniert hat - sechzig Prozent, ausdruecklich
+    als Schaetzung markiert, nach seiner eigenen Regel.
 
 
 ---
@@ -11745,6 +11789,23 @@ in einem Haus lebt, in dem er nichts entscheiden darf, entscheidet über alles,
 worüber er darf, und redet nur darüber. **Sie fragt nichts, weil Fragen in
 diesem Haus nichts einbringt.**
 
+### Mrs Ha (dreissig Jahre Blumen und Waesche in Saele, Kapitel 67)
+
+**Ihre Maschine ist der gedeckte Raum.** Sie erinnert Hochzeiten nicht als
+Ereignisse, sondern als Aufbauten: wie viele Tische, welche Farbe, was die Mutter
+wollte, wann geliefert wurde, wer bezahlt hat. Vierhundert Stueck in dreissig
+Jahren, und sie unterscheidet sie an den Auftraegen.
+
+**Ihr Anliegen hat mit dem Fall nichts zu tun: das Geschaeft, das sie vor vier
+Jahren verloren hat.** Sie kommt bei jedem dritten Satz darauf zurueck, und sie
+ist nicht wehleidig, sie ist **stolz**. Der Stolz ist das, was uebrig ist.
+
+**Sie zieht zusammen.** Sie ist die zweite Zivilistin im Buch nach der Frau mit
+der Giesskanne und darf so klingen.
+
+**Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
+gilt ihrem Gewerbe und nicht der Frau, um die es geht.
+
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
 Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,
@@ -12283,7 +12344,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 216 | 35 (b1ch07-b2ch63) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 137 | 33 (b1ch05-b2ch66) | 2 | 60 |
+| Jang | 143 | 34 (b1ch05-b2ch67) | 2 | 60 |
 | Mrs Seo | 91 | 41 (b1ch03-b2ch66) | 1 | 74 |
 | Mr Hwang | 72 | 15 (b2ch07-b2ch54) | 3 | 59 |
 | Sim | 69 | 13 (b2ch31-b2ch66) | 2 | 45 |
@@ -12302,6 +12363,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Nam Byung-hee | 28 | 10 (b2ch03-b2ch22) | 1 | 56 |
 | Choi Dae-ho | 26 | 16 (b1ch07-b2ch66) | 2 | 61 |
 | Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
+| Mrs Ha | 23 | 2 (b2ch66-b2ch67) | 37 | 39 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 19 | 2 (b2ch22-b2ch23) | 17 | 24 |
@@ -12315,7 +12377,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
-| Mrs Ha | 4 | 1 (b2ch66) | 37 | 37 |
 | Mrs Jeon Mi-ja | 4 | 3 (b2ch28-b2ch37) | 39 | 57 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Moon Hae-sook | 2 | 1 (b2ch66) | 37 | 37 |
@@ -14305,7 +14366,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-137 Nennungen in 33 Kapiteln.
+143 Nennungen in 34 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -14446,6 +14507,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:74 | "That is what Jang said, in those words, and he made me repeat it back to him before he .. |
 | 22 | b2ch58:130 | Then he got the July folder out, and the June one, and Jang's second report, and put the.. |
 | 37 | b2ch66:298 | "Jang goes with you to Mapo and sits in the car, and I am not discussing it, and you are.. |
+| 39 | b2ch67:6 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
+| 39 | b2ch67:18 | "If she telephones while you are in there, you will not know." Jang had both hands on th.. |
+| 39 | b2ch67:394 | He got into the car at eleven minutes past twelve and Jang did not start the engine. |
+| 39 | b2ch67:398 | "Well," said Jang. |
+| 39 | b2ch67:414 | Jang started the car. |
+| 39 | b2ch67:430 | Jang did not say anything, because he had never been given the name. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -14518,6 +14585,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch48:34` (Tag 2) - eight, eleven, one, three
 - `b2ch48:74` (Tag 2) - four, one
 - `b2ch58:130` (Tag 22) - one
+- `b2ch67:6` (Tag 39) - forty, two
+- `b2ch67:394` (Tag 39) - eleven, twelve
 
 ---
 
@@ -15919,6 +15988,51 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mrs Ha
+
+23 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:100 | The fourth is a woman called Mrs Ha. |
+| 37 | b2ch66:104 | Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty ye.. |
+| 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
+| 37 | b2ch66:306 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
+| 39 | b2ch67:34 | Mrs Ha is in her sixties and answered the door herself and looked at his coat before she.. |
+| 39 | b2ch67:58 | "Say what you want," said Mrs Ha. |
+| 39 | b2ch67:114 | Mrs Ha put both hands flat on her knees. |
+| 39 | b2ch67:146 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
+| 39 | b2ch67:154 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
+| 39 | b2ch67:178 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
+| 39 | b2ch67:186 | "I asked her whether it might be later in the year," said Mrs Ha. |
+| 39 | b2ch67:202 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
+| 39 | b2ch67:210 | "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday." |
+| 39 | b2ch67:222 | Mrs Ha went completely still. |
+| 39 | b2ch67:238 | "Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting." |
+| 39 | b2ch67:246 | Mrs Ha got up again and this time she did not go to the window. |
+| 39 | b2ch67:270 | "He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that .. |
+| 39 | b2ch67:298 | "I understood that a family had had a bad month and would be grateful if it were not dis.. |
+| 39 | b2ch67:318 | "And now a foreigner in a good coat comes up my stairs and asks me one question, and I f.. |
+| 39 | b2ch67:334 | "I lost the business four years ago," said Mrs Ha. |
+| 39 | b2ch67:350 | Mrs Ha laughed, once, and it was not a laugh. |
+| 39 | b2ch67:378 | Mrs Ha looked at him for a long moment. |
+| 39 | b2ch67:390 | "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe." |
+
+### Zahlen in der Naehe von Mrs Ha
+
+- `b2ch66:104` (Tag 37) - four hundred, thirty
+- `b2ch66:138` (Tag 37) - eleven
+- `b2ch66:306` (Tag 37) - eleven, one
+- `b2ch67:154` (Tag 39) - four hundred and eleven, thirty
+- `b2ch67:178` (Tag 39) - four, hundred, one
+- `b2ch67:202` (Tag 39) - one
+- `b2ch67:210` (Tag 39) - eleven
+- `b2ch67:270` (Tag 39) - two
+- `b2ch67:318` (Tag 39) - four, one
+- `b2ch67:334` (Tag 39) - four
+
+---
+
 ### Mr Koh
 
 21 Nennungen in 4 Kapiteln.
@@ -16324,25 +16438,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch08:220` (Tag 22) - eight, one, two
 - `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
-
----
-
-### Mrs Ha
-
-4 Nennungen in 1 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 37 | b2ch66:100 | The fourth is a woman called Mrs Ha. |
-| 37 | b2ch66:104 | Mrs Ha ran a business that put flowers and linen into halls, for weddings, for thirty ye.. |
-| 37 | b2ch66:138 | *If I go to Mrs Ha, and she is still frightened, she telephones the person she was told .. |
-| 37 | b2ch66:306 | *Friday, eleven o'clock, Mapo. Mrs Ha. I will ask her one question about April eleven ye.. |
-
-### Zahlen in der Naehe von Mrs Ha
-
-- `b2ch66:104` (Tag 37) - four hundred, thirty
-- `b2ch66:138` (Tag 37) - eleven
-- `b2ch66:306` (Tag 37) - eleven, one
 
 ---
 
