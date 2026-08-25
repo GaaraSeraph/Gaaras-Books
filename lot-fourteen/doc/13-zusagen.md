@@ -89,7 +89,7 @@ wird.**
 
 - [OFFEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · —
 - [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 442 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · —
-- [OFFEN] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · —
+- [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
 - [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig offen · "After the fourteenth I am finished." · —
 - [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig offen · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · —
 - [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig offen · "Somebody is going to stand underneath her before anybody takes the floor away." · —
@@ -101,7 +101,9 @@ wird.**
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig offen · "There will be four people in the world who can read that instrument to her" - sie nimmt die erste Stunde an · —
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · —
+- [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
+- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · —
+- [OFFEN] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · —
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · —
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig offen · "You will tell me her name before I am in the room with her" - er hat ihn noch nicht · —

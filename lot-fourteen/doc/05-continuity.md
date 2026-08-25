@@ -3178,6 +3178,52 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
+- **Band 2, Kapitel 72** *The fourteenth* (v1.0) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
+    vor dem Anruf drei Erwartungen aufschreiben, datiert und unterschrieben, und
+    legt das Blatt den ganzen Tag unter die Loeschblattecke. *"Inside four seconds
+    you will have a version of yourself that expected it. It is the cheapest thing
+    you do and it is the only one you do not know about."*
+  - **Zwei von drei falsch.** Sie wurde geholt, binnen einer Minute. Sie hat drei
+    Dinge gesagt, die nicht vom Dach handeln, und alle drei in Saetzen, die davon
+    handeln. **Richtig war nur die dritte, und aus dem falschen Grund:** er dachte,
+    sie duerfe nicht fragen. Sie hat nichts mehr zu fragen.
+  - **NEUER KANON, das Datum:** *"There is no need to start the shed roof. It will
+    not have to last past November."* Zweimal, in zwei Fassungen, den Monat beide
+    Male drin. **Das Haus wird vor dem Winter geschlossen, nicht zu Weihnachten.**
+  - **Zweitens:** die Betreuung des Hauses wird Ende des Monats gewechselt, es kann
+    danach eine andere Nummer geben, und sie sagt es ihm, damit er nichts
+    hineinliest, wenn die Nummer aufhoert. Das ist die einzige Freundlichkeit, die
+    ihr zur Verfuegung steht.
+  - **Drittens, und es ist das schlimmste:** *"Thank you for telephoning about it,
+    Mr Sim."* **In vier Jahren hat sie seinen Namen nie benutzt.** Sims Auslegung,
+    nach zwei Stunden im Regen: *"People do not thank you for a thing that is going
+    to go on. They thank you for a thing that is finished."*
+  - **Georgijs Befund:** das ist keine Frau, die darauf wartet, herausgeholt zu
+    werden. Das ist eine Frau, die ihre Buecher schliesst. Sie hat den Monat an den
+    einzigen Menschen ausserhalb des Gebaeudes gegeben, der ihn tragen kann.
+  - **NEUER KANON, Mr Tak**, seit Ende August im Haus: er gab seinen Nachnamen
+    ungefragt, nannte sie zweimal *"the lady"*, im Zimmer lief ein Radio, und
+    **niemand hat den Anruf unterbrochen.** Sechsundzwanzig Minuten, wo in vier
+    Jahren neunzehn das Laengste waren. **Sims Schluss: es hat aufgehoert, eine
+    Rolle zu spielen, was sie am Telefon sagt.**
+  - **Sim entscheidet zum ersten Mal selbst:** er telefoniert am 28. September
+    wieder, ungefragt, gestuetzt auf seinen eigenen Satz vom 27. August ueber das
+    Wetter. *"Nobody has asked me to do anything since Monday of last week and that
+    is the point of it."*
+  - **Und der Schluss des Gespraechs ist Sims Instrument, zum ersten Mal fuer
+    niemanden benutzt:** er fragt, ob Georgij gegessen hat, verbietet ihm die
+    Antwort, richtet eine Nachricht ueber Suppe aus und will die letzten
+    zweihundert Won in einer Telefonzelle verbringen, ohne jemandem zu gehoeren.
+  - **Annie verschiebt nichts am selben Abend**, und begruendet es: *"I have never
+    once made a good decision on a date that somebody else set, and I have made
+    four bad ones."* **Entschieden wird am Freitag, dem 18. September, in diesem
+    Raum.**
+  - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
+    nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
+
 
 ---
 

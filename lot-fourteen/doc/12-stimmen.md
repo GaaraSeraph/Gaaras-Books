@@ -1355,6 +1355,16 @@ Haushalt, den sie nicht bestellt hat, und sie hat die Bestellungen übernommen,
 weil es sonst niemand tat. Sie hat ihrem Bruder das Schlimmste erst im Korridor
 gesagt.
 
+**Am 14. September hat sie ein zweites Mal gesprochen** (Kapitel 72), wieder ueber
+Sim, wieder ueberwacht, und es ist dieselbe Maschine in einer schaerferen Fassung:
+drei Mitteilungen, alle drei in Saetzen versteckt, die vom Dach handeln. Ein Monat
+(*"It will not have to last past November"*), eine Warnung ueber die Nummer, und
+ein Name. **Was daraus feststeht und nicht mehr Vorschlag ist:** sie sagt nie, was
+sie meint, sondern immer eine wahre Sache, unter der es liegt. Wer ihr eine
+direkte Zeile gibt, solange sie in dem Haus ist, hat beide Auftritte nicht
+gelesen. **Die Frage, wie sie frei redet, ist damit weiter offen** und wird erst
+in der ersten Stunde nach der Uebergabe beantwortet, vor Mrs Jeon.
+
 **Sie hat am 27. August zum ersten Mal gesprochen** (Kapitel 64), und es war ein
 einziger Satz, viermal wiederholt, ueber neunzehn Minuten: *"The shed roof should
 be done properly or not at all."* **Das ist ihre Stimme unter Aufsicht** und nicht
