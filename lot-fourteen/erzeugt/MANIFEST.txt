@@ -103,6 +103,7 @@ b2  ch66  v1.3       2096 Woerter  ch66_v1_3_en.md
 b2  ch67  v1.3       2493 Woerter  ch67_v1_3_en.md
 b2  ch68  v1.2       2447 Woerter  ch68_v1_2_en.md
 b2  ch69  v1.1       2945 Woerter  ch69_v1_1_en.md
+b2  ch70  v1.0       2275 Woerter  ch70_v1_0_en.md
 
-Gesamt: 2 Baende, 103 Kapitel, 271258 Woerter
+Gesamt: 2 Baende, 104 Kapitel, 273533 Woerter
 Handbuch: 16 Dokumente

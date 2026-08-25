@@ -3090,6 +3090,42 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     zweiunddreissig Jahre (hier zum ersten Mal beziffert).
 
 
+- **Band 2, Kapitel 70** *Nothing to bring* (v1.0) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Die eine Sache, die er trotzdem bringt**, und er entscheidet auf dem Huegel,
+    dass Zurueckgeben nicht Mitbringen ist: der Satz wurde gesagt, am 27. August.
+  - **Und Mr Ahn liest ihn richtig, was Georgij in vierzehn Tagen nicht geschafft
+    hat.** *"The shed roof should be done properly or not at all"* ist kein Dach.
+    Es ist dreierlei in einem: sag es noch einmal richtig oder gar nicht; ich habe
+    es gehoert und kann es nicht sagen; und wenn ihr das macht, dann ganz.
+    Begruendung aus der Familie: *"She always said one thing four ways when she
+    couldn't say it once. She did it to our mother for about nine years."*
+  - **Ihre Frage am Schluss ist fuer ihn der eigentliche Befund:** *"Then she's
+    coming out."* Vier Jahre hat sie niemanden um etwas gebeten, weil sie das nie
+    tut, und jetzt hat sie einen Mann am Telefon gefragt, ob er wieder anruft.
+  - **DIE ZUSAGE AUS KAPITEL 59 IST HIER BEZAHLT.** Annie hatte am 18. August
+    vorhergesagt, dass er binnen einer Woche einen Weg finden wuerde, es um sich
+    gehen zu lassen. **Es hat drei Wochen gedauert, und nicht sie sagt es ihm,
+    sondern Mr Ahn:** *"You've been in here eleven minutes and you've told me
+    three things and asked me nothing."*
+  - **Und was der Auftrag "bring nichts" wirklich hiess:** nicht *bring ihm kein
+    Ergebnis*, sondern **bring Dir selbst keine Aufgabe**. Mr Ahn benennt es:
+    *"You want me to ask you something so you've got a job. There isn't one.
+    That's what the woman meant."*
+  - **Vierzig Minuten haelt er ein Geblaesegehaeuse schraeg**, waehrend Mr Ahn
+    ueber den Topf vor der Tuer, ein falsch geliefertes Lager und die
+    Schwiegerfamilie am Sonntag redet. **Das laengste, was Georgij dieses Jahr in
+    einem Raum verbracht hat, ohne zu wissen, wofuer der Raum ist.**
+  - **Neue Zusage, und sie ist die kleinste im Buch:** *"It will be ready
+    Tuesday."* Es ist sein eigener Ventilator, aus der Zeit, als die beiden sich
+    eine Wohnung teilten und sie im August davorsass. **Faellig Tag 347.**
+  - Zum Schluss gibt Georgij ihm den Satz aus dem August zurueck, korrigiert: er
+    hat nicht versagt, es bei seiner Schwester zu sehen. **Er war der, dem sie es
+    entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
+    worse. I'll be up with it."*
+
+
 ---
 
 ## Der Juli ist betreten
