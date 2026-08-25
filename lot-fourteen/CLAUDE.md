@@ -40,6 +40,16 @@ einzelnen Fund einen Streifzug zu machen, sieben Regeln mit je einem Fehler
 dahinter, und der Katalog der Fehlerklassen, die es bisher gibt. Wer einen neuen
 Durchgang plant, faengt dort an und nicht bei Null.
 
+`werkzeug/stimmen.py` misst, wie verschieden die Figuren tatsaechlich reden -
+Zeilen, Satzlaenge, was jede Figur zaehlt, welche Haustics in ihren Repliken
+stehen und wer wen wie anredet. `python3 werkzeug/stimmen.py Jang` gibt alle
+sicher zugeordneten Zeilen einer Figur aus. **Zwei Fallen stehen im
+Kopfkommentar**, und beide haben mich erwischt: ein Begleitsatz kann innerhalb
+einer fremden Replik stehen, weil eine Figur eine andere zitiert - so sind
+Georgijs Saetze zweimal in fremde Blaetter geraten. Und in Zweipersonenszenen
+laeuft der Dialog ohne Begleitsaetze, eine niedrige Zahl heisst dort also wenig
+Begleitsatz und nicht wenig Text.
+
 `zuschreibung.py` sucht **Zuschreibungsfehler**: eine Tat oder ein Satz, der
 der falschen Person zugeschrieben ist. Es **eicht sich zuerst selbst** an einem
 bekannten Fund und meldet gar nichts, wenn die Eichung durchfaellt. Der
