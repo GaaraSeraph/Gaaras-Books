@@ -308,20 +308,26 @@ sie anwendbar ist:
 
 ### 5. Die Kontraktion ist die Standeslinie, und sie funktioniert schon
 
-**Gemessen am 25.08., Kontraktionen je 1000 Wörter eigener Rede.** Das ist der
-einzige Trenner im Buch, der bereits sauber arbeitet - er stand nur nirgends
-aufgeschrieben, und der nächste mechanische Durchgang hätte ihn eingeebnet:
+**Kontraktionen je 1000 Wörter eigener Rede.** Das ist der einzige Trenner im
+Buch, der bereits sauber arbeitet - er stand nur nirgends aufgeschrieben, und
+der nächste mechanische Durchgang hätte ihn eingeebnet.
+
+**Nachgemessen am 25.08. mit `python3 werkzeug/stimmen.py --tics`.** Die Zahlen
+wandern, wenn Kapitel dazukommen; zwei von ihnen waren seit dem ersten Eintrag
+gedriftet. **Wer sie zitiert, misst vorher nach** - der Befehl steht hier, damit
+das eine Minute kostet und nicht eine Entscheidung:
 
 | | je 1000 W |
 |---|---|
-| **Mr Ahn** (Handwerker) | **96,6** |
+| **Mr Ahn** (Handwerker) | **106,7** |
 | **Mrs Seo** (Haushalt) | 17,9 |
+| **Mrs Ha** (Zivilistin) | 14,9 |
 | **Jang** (unter Vertrag) | 13,8 |
 | **Hana** | 11,9 |
 | **Mrs Gwak** (Zivilistin) | 10,2 |
 | Mr Chae | 8,9 |
 | **Annie** | 6,3 |
-| Woo, Sang-hoon | 4,1 · 3,8 |
+| Woo, Sang-hoon | 4,2 · 3,8 |
 | **Georgij** | **3,4** |
 
 **Oben Handwerk, Haushalt und Zivilisten. Unten die Prinzipale. Ganz unten

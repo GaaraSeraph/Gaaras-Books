@@ -683,3 +683,96 @@ die vier neu geschriebenen Kapitel die **naechste** Nummer und nicht die
 uebernaechste: ein Zwischenschritt, den nie jemand lesen sollte, gehoert nicht
 ins Archiv, weil `faktenspur.py` und `belege.py` beide gegen alte Fassungen
 vergleichen.
+
+---
+
+### Band 1 vollstaendig durchgegangen - und das Ergebnis ist ein Nicht-Ergebnis
+
+Auftrag: Band 1 genauso wie Band 2. Alle vierunddreissig Kapitel gelesen oder
+gemessen. **Ergebnis: die vier bereits angefassten Kapitel waren die richtigen
+vier, und es kommt keines dazu.**
+
+Das ist keine Bequemlichkeit, sondern steht auf drei unabhaengigen Proben.
+
+#### Probe 1: worauf landet die laengste reine Dialogkette
+
+Fuer jedes Kapitel die laengste Folge aufeinanderfolgender Redeabsaetze ohne
+einen einzigen Erzaehlerabsatz dazwischen - dort ist der Leser wirklich allein -
+und dann der Absatz, der sie beendet.
+
+**Vierunddreissig von vierunddreissig landen auf Erzaehlung.** Kein einziges
+Kapitel laesst den Leser aus einer Dialogstrecke ins naechste fallen. Die
+laengste Kette des Bandes ist fuenfzehn Repliken (K19), der Median acht - Band 2
+hat neunzehn und sieben. **Strukturell sind die beiden Baende fast gleich.**
+
+#### Probe 2: tragende Erzaehlerabsaetze
+
+Absaetze ueber zwanzig Woertern, keine Rede - also die Saetze, die etwas
+benennen statt einen Beat zu setzen.
+
+| | tragende Absaetze | je 1000 Woerter | Kapitel ohne einen |
+|---|---|---|---|
+| Band 1 | 948 | **9,48** | keines |
+| Band 2 | 1391 | 8,60 | keines |
+
+**Und die sechs duennsten Band-1-Kapitel sind K27 (2,0), K28 (4,2), K15 (4,3),
+K19 (5,0), K30 (5,1), K21 (5,9).** Vier davon sind genau die vier, die schon
+angefasst sind - unabhaengig gefunden, ueber eine andere Messung als beim ersten
+Mal. K19 und K21 sind zweimal gelesen worden und tragen sich.
+
+#### Probe 3: gelesen
+
+K01, K02, K03, K04, K06, K11-K15, K17-K20, K22-K28, K30, K32 ganz gelesen, der
+Rest ueber Probe 1 und 2 geprueft. Beispiele fuer das, was dort ohnehin steht:
+
+> K12: *"...the most carefully constructed sentence he had heard since the
+> auctioneer said the word **unverifiable**."*
+> K17: *"Somebody else had heard the difference before he did."*
+> K20: *"He had been in eleven houses and had never once been unable to read a
+> woman across a desk, and the difference now was not that she had become harder
+> to read. It was that he had stopped assuming he could."*
+> K23: *"A man who demonstrates that he can leave, and cannot, has demonstrated
+> one thing only, and it is not the thing he meant."*
+
+**Danebenzuschreiben waere in jedem dieser Faelle Polsterung gewesen.**
+
+#### Bilanz des ganzen Durchgangs
+
+**102 Kapitel gemessen, 33 angefasst, 71 Saetze im Buch.**
+
+| | Kapitel | angefasst | Saetze |
+|---|---|---|---|
+| Band 2 | 68 | 29 | 65 |
+| Band 1 | 34 | 4 | 6 |
+
+---
+
+### Nachtrag zur Pruefsitzung: meine eigenen Zahlen in doc/12
+
+Der Einwand aus der Pruefsitzung ist angekommen und er trifft mich: **ein
+falsches Blatt wird im Durchgang in hundert Kapitel geschrieben.** Bei Hana ist
+genau das beinahe passiert.
+
+Meine Beitraege zu `doc/12` sind groesstenteils **gemessen** und damit
+mechanisch nachpruefbar. Nachgemessen am 25.08.:
+
+| | stand da | misst jetzt |
+|---|---|---|
+| Mr Ahn, Kontraktionen je 1000 W | 96,6 | **106,7** |
+| Woo, Kontraktionen je 1000 W | 4,1 | **4,2** |
+| Mrs Ha | fehlte | **14,9** |
+
+Beide Abweichungen kommen daher, dass seither Kapitel dazugekommen sind. **Der
+Befehl steht jetzt neben der Tabelle** (`stimmen.py --tics`), damit
+Nachmessen eine Minute kostet und keine Entscheidung ist.
+
+**Was daran allgemein ist, und es ist eine dritte Sorte neben Zitat und
+Behauptung:** eine **Messung** ist wahr zum Zeitpunkt der Messung und driftet
+danach von selbst, ohne dass jemand etwas Falsches tut. `belege.py` findet sie
+nicht, weil kein englisches Zitat darin steht. Die einzige Abwehr ist, den
+Befehl danebenzuschreiben.
+
+**Die riskanten Stellen in meinen Blaettern sind die *gelesenen*, nicht die
+gemessenen** - Ye-rins Blatt steht ausdruecklich auf *"aus Band 1, Kapitel 30
+gelesen und nicht gezaehlt"*, weil `stimmen.py` bei ihr nur fuenf Repliken
+findet. Wer `doc/12` durchgeht, faengt dort an und nicht bei den Tabellen.
