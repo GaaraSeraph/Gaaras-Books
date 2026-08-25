@@ -170,9 +170,9 @@ ist Georgijs Maschine mit Blumentöpfen darin.
 
 ---
 
-## Fünf Regeln, die für jede Figur gelten
+## Sechs Regeln, die für jede Figur gelten
 
-Die drei Regeln oben sagen, **dass** jede Figur anders sein muss. Diese fünf
+Die drei Regeln oben sagen, **dass** jede Figur anders sein muss. Diese sechs
 sagen, **woran man das schreibt.** Sie gelten für den Hauptcast wie für eine
 Frau mit einer Gießkanne.
 
@@ -257,7 +257,40 @@ sie anwendbar ist:
 | **Mrs Seo** | sie sagt die Folge für den Haushalt, nicht das Gefühl |
 | **Zivilisten** | schneller, lauter, noch weiter weg vom Thema |
 
-### 5. Jede Figur hat eine Körpergewohnheit, und sie ersetzt das Gefühlswort
+### 5. Die Kontraktion ist die Standeslinie, und sie funktioniert schon
+
+**Gemessen am 25.08., Kontraktionen je 1000 Wörter eigener Rede.** Das ist der
+einzige Trenner im Buch, der bereits sauber arbeitet - er stand nur nirgends
+aufgeschrieben, und der nächste mechanische Durchgang hätte ihn eingeebnet:
+
+| | je 1000 W |
+|---|---|
+| **Mr Ahn** (Handwerker) | **96,6** |
+| **Mrs Seo** (Haushalt) | 17,9 |
+| **Jang** (unter Vertrag) | 13,8 |
+| **Hana** | 11,9 |
+| **Mrs Gwak** (Zivilistin) | 10,2 |
+| Mr Chae | 8,9 |
+| **Annie** | 6,3 |
+| Woo, Sang-hoon | 4,1 · 3,8 |
+| **Georgij** | **3,4** |
+
+**Oben Handwerk, Haushalt und Zivilisten. Unten die Prinzipale. Ganz unten
+Georgij**, dessen Regel ab Kapitel 17 ohnehin lautet, dass er keine mehr
+benutzt.
+
+**Die Regel:** Wer nicht im Gewerbe ist, zieht zusammen, und zwar reichlich. Wer
+Geld hat, tut es sparsam. **Und wenn eine Nebenfigur in Band 2 aufhört, Wörter
+zusammenzuziehen, ist das kein Stilfortschritt, sondern Georgijs Register, das
+auf sie übergelaufen ist.** Genau daran war Jang in Band 2 zu erkennen, bevor er
+es zurückbekommen hat.
+
+**Vorsicht bei jeder mechanischen Prüfung.** `doc/01-craft.md`, Abschnitt 2c
+zählt Kontraktionen, aber die Regel dort gilt **ausschließlich für Georgij**.
+Eine Zählung über alle Sprecher meldet Mr Ahn als schlimmsten Fall des Buchs -
+und er ist der einzige, der es richtig macht.
+
+### 6. Jede Figur hat eine Körpergewohnheit, und sie ersetzt das Gefühlswort
 
 Eine, nicht drei, und sie kommt wieder. Jang steht und spricht zum Gegenstand.
 Woo schüttelt keine Hände. Sim bezahlt vorher, im Umschlag, und nimmt keine
