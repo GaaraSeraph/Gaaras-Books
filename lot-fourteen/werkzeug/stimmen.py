@@ -60,7 +60,13 @@ EINHEITEN = {
 }
 
 TICS = {
-    "which-Satz":      r",\s*which (is|was|means|is not|is what|is how)\b",
+    # Der Ausdruck stand bis zum 25.08. auf
+    #   r",\s*which (is|was|means|is not|is what|is how)"
+    # und hat damit genau die Beispiele nicht gefunden, die doc/12 als Beleg
+    # zitiert: Mrs Seos *"which she does not do"* und Mr Chaes *"which I did
+    # not enquire into"*. Ein Tic-Zaehler, der die zitierten Faelle uebersieht,
+    # meldet Null, wo der Tic steht. Gezaehlt wird jeder nachgestellte which-Satz.
+    "which-Satz":      r",\s*which\b",
     "Und-Kette":       r"\band\b[^.,]{3,40},?\s*\band\b[^.,]{3,40},?\s*\band\b",
     "Negativ-Def":     r"\bNot [a-z][^.]{0,30}\.\s+Not \b",
     "Selbstdiagnose":  r"\bI have (stopped|never been able to|got as far as|"

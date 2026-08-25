@@ -1739,10 +1739,17 @@ einzige Mächtige im Buch, der **Angst zugibt**.
 **Er darf:** die Und-Kette, die Negativ-Definition - er sortiert damit Beweise
 wie ein Prüfer. Zahlen über Menschen und Jahre.
 
-**Er darf nicht:** die Selbstdiagnose. **Und Vorsicht beim which-Satz:** Er hat
-mit 3,3 je 1000 Wörtern die **höchste Rate im Buch**, zehnmal Georgijs 0,3.
-Der Tic in Haustic-Liste Nummer zwei ist in der direkten Rede seiner, nicht
-Georgijs. Zwei bis drei je Kapitel, nicht mehr.
+**Er darf nicht:** die Selbstdiagnose - **gemessen null im ganzen Buch, die
+Regel hält sich von selbst.** **Und Vorsicht beim which-Satz:** er ist bei ihm
+dreimal so häufig wie bei Georgij und trägt bei ihm Beweislast statt Anmerkung.
+
+*(Hier stand: "Er hat mit 3,3 je 1000 Wörtern die **höchste Rate im Buch**,
+zehnmal Georgijs 0,3." **Beide Zahlen und der Superlativ sind falsch, und dieses
+Dokument widerlegt sich damit selbst** - wenige Abschnitte weiter steht Mr Byuns
+which-Satz 5,5 als "höchster Wert im Buch". Breit gemessen am 25.08.: Chae 8,9 ·
+Mrs Seo 8,8 · Byun 5,5 · Mr Ahn 2,6 · Sang-hoon 2,2 · Mrs Jeon 1,9 · Annie 1,9 ·
+Georgij 0,7. **Sang-hoon ist der höchste unter den Vielrednern**, und das ist die
+haltbare Aussage.)*
 
 **Körper.** Er nimmt einen Tisch und kein Zimmer. Er stellt das Glas ab, bevor
 er etwas Teures sagt.
@@ -2178,13 +2185,13 @@ dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
 
 ---
 
-### Mr Kwon (14 Repliken)
+### Mr Kwon (18 Repliken)
 
 **Der flache Bericht, aus dem der Weichmacher entfernt ist.** Er spricht aus
 Türrahmen und sagt Dinge zu Ende. *"Not a second. Not one of those things where a
 person takes a breath first."* Er stellt fest, wann etwas **nicht** passiert ist.
 
-### Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)
+### Mr Hong (7 zugeordnete Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)
 
 **Die Führung.** Er stellt Menschen über ihre Schwächen vor, herzlich, in einem
 Zug, und merkt nicht, dass er das tut. *"Chairman Woo, who you have already met,
@@ -2587,6 +2594,11 @@ anders aus, als sie ist.**
 einer Kontraktionszahl da, die es nicht gab.
 
 **Signatur sichtbar und richtig:**
+
+**Diese Tabelle ist eine Momentaufnahme vom 25.08. und kein laufender Stand.**
+Sie hält fest, *was berichtigt wurde*; die Werte selbst wandern mit jedem
+geschriebenen Kapitel (Mr Ahn steht inzwischen bei 73,9, Annie bei 2,9). Für
+einen aktuellen Wert: `python3 werkzeug/stimmen.py --tics`.
 
 | Figur | Wert | stand hier | Was das heisst |
 |---|---|---|---|

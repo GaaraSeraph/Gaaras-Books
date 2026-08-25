@@ -1419,3 +1419,65 @@ Deshalb steht in diesen Blaettern jetzt der Befehl, wo vorher die Ziffer stand.
 Werkzeug bestaetigt - das Werkzeug kann es nicht. Bei einer Zweipersonenszene
 haengt die Zuordnung am Wechsel, und wenn ich mich um eine Replik verzaehlt
 habe, ist es diese.
+
+## Durchgang: geschriebene Rede gegen die Stimmblaetter
+
+**Auftrag, wie ich ihn verstanden habe:** nicht die Blaetter am Text pruefen
+(das war der Lauf davor), sondern **den geschriebenen Text an den Blaettern** -
+jede schon geschriebene Replik soll so klingen, wie doc/12 die Figur beschreibt.
+Vereinbart: Messbares und ausdruecklich Verbotenes ziehe ich still nach, alles
+Inhaltliche wird gemeldet. Reihenfolge: Nebenfiguren zuerst.
+
+### Das Ergebnis zuerst, weil es kurz ist
+
+**Kein einziges der ausdruecklichen Verbote wird im geschriebenen Text
+gebrochen.** Geprueft gegen ihr eigenes Blatt: Jang, Mrs Seo, Mrs Bae, Hwang,
+Sang-hoon, Hana, Ye-rin, Nam Byung-hee, Baek, Sung-ho, Byun, Koh, Kwon, Mrs Ha,
+Mrs Gwak, Kang, Hong, Sunwoo, Chae, Sohn, Woo.
+
+| Verbot | geprueft | Befund |
+|---|---|---|
+| Hwang: kein which-Satz, keine Und-Kette | 24 Repliken | **null** |
+| Hana: keine Negativ-Def, kein which, keine Selbstdiagnose | 63 | **null von dreien** |
+| Sang-hoon: keine Selbstdiagnose | 116 | **null** |
+| Ye-rin: keine Kontraktion, kein which, keine Und-Kette | 5 + ungetaggt | **null** |
+| Nam Byung-hee, Baek: keine Kontraktionen, keine Tics | 10 / 14 | **null** |
+| Koh: kein which-Satz | 7 | **null** - die vier which-Saetze in K37 gehoeren dem **Erzaehler**, nicht ihm |
+| Mrs Seo: keine Negativ-Definition | 13 | **null**. Ihr which-Satz *"which she does not do"* ist von ihrem Blatt ausdruecklich erlaubt |
+| Byun: keine Moral ohne Erbfolge | 11 | haelt. *"Nobody was hurt"* steht nackt und wird nicht ausgebaut |
+| Sung-ho: begruendet nicht | 3 | haelt |
+| Kwon: Negativ-Definition | 18 | **erlaubt** - *"Er stellt fest, wann etwas nicht passiert ist"* ist laut Blatt seine Maschine |
+| Jang: Kontraktionen | 40 | die drei im Buch stehen alle im Kies-Wechsel b1 K05, wie das Blatt sagt |
+
+**Damit ist an keiner geschriebenen Replik etwas zu aendern gewesen.** Die
+Abweichungen sitzen alle auf der anderen Seite - in der Buchhaltung der
+Blaetter.
+
+### Was dabei doch zu berichtigen war
+
+| Ort | Befund |
+|---|---|
+| **`stimmen.py`, which-Zaehler** | Das Muster war `,\s*which (is\|was\|means\|...)` und **hat genau die Beispiele nicht gefunden, die doc/12 als Beleg zitiert** - Mrs Seos *"which she does not do"*, Chaes *"which I did not enquire into"*. Beide standen mit "keine Tics" in der Tabelle, waehrend ihr Blatt den Tic als ihre Maschine zitiert. Verbreitert auf jeden nachgestellten which-Satz |
+| **Park Sang-hoon** | *"3,3 je 1000 Woertern, die hoechste Rate im Buch, zehnmal Georgijs 0,3"* - **falsch, und doc/12 widerlegt sich selbst**: wenige Abschnitte weiter steht Byuns 5,5 als "hoechster Wert im Buch". Breit gemessen: Chae 8,9 · Mrs Seo 8,8 · Byun 5,5 · Ahn 2,6 · Sang-hoon 2,2 · Georgij 0,7. Haltbar ist: **der hoechste unter den Vielrednern** |
+| **Mr Kwon** | Kopf sagte 14 Repliken, es sind **18** (b2 K69 ist dazugekommen) |
+| **Mr Hong** | Kopf sagte 10 Repliken, zugeordnet sind **7** |
+| **Tic-Tabelle** | Als **Momentaufnahme vom 25.08.** gekennzeichnet. Sie haelt fest, was berichtigt wurde; die Werte selbst wandern (Ahn 72,1 → 73,9, Annie 3,5 → 2,9) |
+
+### Zwei Sachfragen an den Inhalts-Chat, nicht von mir zu entscheiden
+
+1. **b2 K34** benutzt dieselbe Wendung zweimal mit verschiedenem Bezug:
+   *"…two people who had never met Choi Dae-ho in their lives"* (die
+   **Empfaenger**) und vierzig Zeilen weiter *"Two people, four years and one
+   telephone number apart, **who each told** a stranger…"* (die **Sprecher**).
+   Der zweite Absatz ist Georgijs Zerlegung bei halbem Wissen und darf das -
+   aber die gleiche Formel mit gedrehtem Bezug ist eine Stolperstelle.
+2. **Mr Byun** hat mit 5,5 den zweithoechsten which-Wert unter den
+   Nebenfiguren, und **sein Blatt erwaehnt den Tic mit keinem Wort.** Entweder
+   gehoert er ihm (dann ins Blatt) oder nicht (dann ist es ein Eingriff in
+   Inhalt und Haltung, den ich nicht allein mache).
+
+*Unsicher:* Mrs Bae hat nur drei zugeordnete Repliken; ihr Auftritt in b2 K10
+laeuft als Zweipersonenszene ohne Begleitsaetze. Ihr Verbot (sich
+rechtfertigen, um Verstaendnis bitten, Gefuehlswort) haelt in dem, was
+zugeordnet ist - die ungetaggten Zeilen habe ich gelesen und nichts gefunden,
+aber gezaehlt ist es nicht.
