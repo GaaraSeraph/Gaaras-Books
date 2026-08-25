@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 260.169 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 260.456 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -16674,6 +16674,46 @@ laufen lassen"* verleitet dazu, im Rebase pauschal `git add -A` zu tippen. Das
 ist nur fuer `erzeugt/` und `read/` richtig. **Bei jedem anderen Konflikt erst
 `git status --short | grep '^UU'` lesen** - und wenn eine Datei dabei ist, die
 niemand erzeugt, von Hand entscheiden, wessen Inhalt gilt.
+
+## Takt und Szene: der Strich gehoert nur an den Szenenwechsel
+
+**Der Autor am 25.08.:** ein Takt ist leerer Platz, ein Strich gehoert an den
+vollstaendigen Szenenwechsel. **Der Quelltext war bereits richtig** - er
+unterscheidet die beiden sauber. **Falsch waren die zwei Renderer**, und beide
+haben aus dem Takt eine sichtbare Marke gemacht:
+
+| Quelle | Lesefassung vorher | Einfuegefassung vorher | jetzt |
+|---|---|---|---|
+| `---` Takt | `· · ·`, drei zentrierte Punkte | `* * *` | **Weissraum, keine Marke** |
+| `* * *` Szene | 1px-Linie | `———` | unveraendert |
+
+**Das waren 579 Marken in Band 1 und 2972 in Band 2**, an jeder Stelle, an der
+nur eine Atempause stehen sollte.
+
+**Und die Abstufung stand auf dem Kopf.** Mit dem Ornament mass der Takt 6,0rem
+und der vollstaendige Szenenwechsel 5,3rem - **der Beat riss weiter auf als der
+Szenenwechsel.** Jetzt im Browser nachgemessen:
+
+| | |
+|---|---|
+| Absatz | 18,4 px |
+| **Takt** | **38,4 px** - reiner Weissraum, `height:0`, kein `::after` |
+| **Szene** | **85,8 px** plus die 1px-Linie |
+
+**Kein einziges Kapitel angefasst.** `faktenspur.py` meldet null bewegte Zahlen,
+Daten und Namen; geaendert haben sich nur `werkzeug/reader.py`,
+`werkzeug/build.py` und die daraus erzeugten Fassungen. **Das ist der ganze
+Punkt: es war nie ein Textfehler, sondern zweimal dieselbe Entscheidung im
+Werkzeug.**
+
+**Sicherung gegen den Rueckfall.** `to_paste()` hatte in seinem Selbsttest eine
+Ausnahme fuer `* * *`. Die war nach dieser Aenderung nicht nur tot - sie haette
+eine wieder auftauchende Takt-Marke stillschweigend durchgelassen. Ausnahme
+gestrichen: **faellt in der Einfuegefassung noch ein Sternchen an, bricht der
+Build.** Gegengeprueft - eine echte Szene laeuft durch, eine verrutschte Marke
+bricht.
+
+*Unsicher:* keiner. Die Sache ist im Browser nachgemessen und nicht geschaetzt.
 
 ---
 

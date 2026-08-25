@@ -84,15 +84,16 @@ blockquote{
 blockquote p{ margin:0 0 0.85rem; }
 blockquote p:last-child{ margin-bottom:0; }
 em{ font-style:italic; }
-hr{ border:0; height:1.9rem; margin:2rem 0 2.1rem; position:relative; }
+/* Der Takt ist Weissraum und keine Marke. Bis zum 25.08. trug er hier drei
+   zentrierte Punkte, und damit stand alle paar Absaetze ein Zeichen, wo
+   nichts stehen sollte. Ein Strich gehoert nur an den vollstaendigen
+   Szenenwechsel, und den traegt hr.scene. */
+/* Absatz 1,15rem - Takt 2,4rem - Szene 5,3rem plus Linie. Die Abstufung war
+   verkehrt herum: mit dem Ornament stand der Takt auf 6,0rem und damit weiter
+   auseinander als der vollstaendige Szenenwechsel. */
+hr{ border:0; height:0; margin:1.2rem 0; }
 hr.scene{ height:0; border-top:1px solid var(--rule); margin:2.6rem auto 2.7rem;
   width:38%; }
-hr.scene::after{ content:none; }
-hr::after{
-  content:"\\00B7 \\00B7 \\00B7"; position:absolute; inset:0; display:flex;
-  align-items:center; justify-content:center; letter-spacing:0.75em;
-  color:var(--rule); font-size:0.9rem; text-indent:0.75em;
-}
 footer{
   margin-top:clamp(2.4rem, 1.4rem + 3vw, 4rem); padding-top:1rem;
   border-top:1px solid var(--rule); display:flex; flex-wrap:wrap;

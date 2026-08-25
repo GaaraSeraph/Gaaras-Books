@@ -153,17 +153,26 @@ def to_paste(md):
     t = re.sub(r"\*\*([^*\n]+)\*\*", r"\1", t)
     t = re.sub(r"^\*(.+)\*$", r"\1", t, flags=re.M)
     t = re.sub(r"\*([^*\n]+)\*", r"\1", t)
-    t = t.replace("\n---\n", "\n* * *\n")
-    # Der Takt bekommt * * *, die Szene einen laengeren Strich, damit die
-    # Einfuegefassung die Unterscheidung nicht einebnet.
+    # Der Takt ist Weissraum. Bis zum 25.08. wurde er hier zu "* * *", und
+    # damit stand in der Einfuegefassung an jedem Takt eine sichtbare Marke:
+    # in Band 1 an 579 Stellen, in Band 2 an 2972. Ein Trenner gehoert nur an
+    # den vollstaendigen Szenenwechsel. Die Leerzeile traegt den Takt.
+    t = "\n".join(z for z in t.split("\n") if z.strip() != "---")
+    while "\n\n\n" in t:
+        t = t.replace("\n\n\n", "\n\n")
+    # Die Szene bekommt den langen Strich und ist jetzt die einzige, die
+    # ueberhaupt einen bekommt.
     t = t.replace(SZENE, "\u2014\u2014\u2014")
     # Blockzitate: der Text eines Briefes, ohne die Markdown-Markierung.
     t = re.sub(r"^> ?", "", t, flags=re.M)
     # Kein Test auf ">": die Ersetzung darueber hat jedes davon entfernt.
     # Eine Klausel dafuer koennte hier nie ausloesen und saehe nur nach
     # Abdeckung aus.
-    left = [l for l in t.split("\n")
-            if ("*" in l or l.startswith("#")) and l.strip() != "* * *"]
+    # Kein "* * *" mehr in der Einfuegefassung: die Szene traegt den langen
+    # Strich, der Takt gar keine Marke. Bis zum 25.08. stand hier eine
+    # Ausnahme fuer "* * *" - die ist jetzt nicht nur tot, sie wuerde einen
+    # Rueckfall durchlassen. Faellt die Marke wieder an, bricht der Build.
+    left = [l for l in t.split("\n") if "*" in l or l.startswith("#")]
     if left:
         raise ValueError("Markdown-Rest in der Paste-Fassung: " + left[0][:60])
     return t.rstrip() + "\n"
