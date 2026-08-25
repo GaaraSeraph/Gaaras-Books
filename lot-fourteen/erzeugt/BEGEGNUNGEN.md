@@ -451,7 +451,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:378 | Annie was quiet for about eight seconds. |
 | 5 | b2ch06:414 | "On the eleventh I told you that I would not say a thing twice and that you were not to .. |
 | 5 | b2ch06:430 | "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not c.. |
-| 5 | b2ch06:446 | Annie put her hand along the side of his face, cool from the room, the heel of it just u.. |
+| 5 | b2ch06:450 | Annie looked at him from where she was for a moment and did not tell him to move. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |

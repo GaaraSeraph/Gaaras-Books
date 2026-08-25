@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 75 Kapitel, 187.349 Woerter.
+Book Two, 75 Kapitel, 187.396 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.3 | 2.016 |
 | 04 | v1.9 | 2.734 |
 | 05 | v1.9 | 2.833 |
-| 06 | v1.6 | 3.498 |
+| 06 | v1.7 | 3.545 |
 | 07 | v1.5 | 2.305 |
 | 08 | v1.8 | 3.155 |
 | 09 | v2.6 | 2.525 |
@@ -1127,7 +1127,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1447,9 +1447,13 @@ Georgij did not say anything at all.
 
 * * *
 
-He went round the desk and down onto the carpet at her feet.
+He went round the desk.
 
-Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone.
+He did not go to the side of it where he sits. He went down in front of her, where she was standing, which is a different place and which he has never done.
+
+Annie looked at him from where she was for a moment and did not tell him to move.
+
+Then she put her hand along the side of his face, cool from the room, the heel of it just under the bone.
 
 He turned his head into it about an inch, which was the whole of what he did, and he did not say anything.
 
