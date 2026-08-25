@@ -42,17 +42,37 @@ Kapitel 52 fängt vollkommen richtig an:
 > *"The soup is the reason to come. I have ordered it for both of us and you are
 > under no obligation to touch it."*
 
-Zwanzig Zeilen später, sobald die Rechnung auf dem Tisch liegt:
+Zwanzig Zeilen später, sobald die Rechnung auf dem Tisch lag, stand da:
 
 > *"A woman who is ill. A house in the country with staff in it. A man who does
 > not want it known that he pays for it, which is not unusual and is not always
 > shameful."*
 
-Das ist Georgij. **Jede Figur startet in ihrer eigenen Stimme und endet in
-seiner, sobald es zählt** - und das ist genau verkehrt herum. Je ernster die
+Das war Georgij. **Jede Figur startete in ihrer eigenen Stimme und endete in
+seiner, sobald es zählte** - und das ist genau verkehrt herum. Je ernster die
 Szene, desto **mehr** Register, nicht weniger. Ein Mann, der dreißig Jahre lang
 freundlich war, wird im schlimmsten Moment seines Lebens nicht nüchtern. Er wird
 noch freundlicher, und das ist das Grauen.
+
+#### Nachgeprüft am 25.08.: an dieser Stelle ist es behoben
+
+**Die zitierte Zeile steht in keiner lebenden Fassung mehr.** Sie stammt aus
+b2 K52 v1.0; der Kanon ist v1.4, und dort steht an derselben Stelle Sims
+eigenes Register - der Gastgeber, der unter Druck nicht nüchtern wird, sondern
+um Zeugenschaft bittet:
+
+> *"Twice in four years I was told she was worse. Both times by letter… **I was
+> glad to. I would like you to have heard me say that part.**"*
+
+> *"I have never once asked myself why a woman who has been in a house in the
+> country for eleven years would have a flat that was added to the arrangement
+> seven years after she went there."*
+
+**Der Befund oben bleibt als Diagnose stehen, weil er die Regel erklärt. Als
+Fundstelle ist er erledigt.** Und der Durchgang vom 25.08., der jede Figur mit
+einem Verbot gegen ihre sämtlichen Repliken gemessen hat, hat **keinen
+einzigen** verbliebenen Fall dieser Sorte gefunden: kein Sprecher rutscht an
+seiner ernstesten Stelle in Georgijs Tics.
 
 ---
 
@@ -569,7 +589,7 @@ hat.
 **Die sechs sind damit festgelegt und werden nicht angefasst.**
 
 **Am 25.08. vom Autor entschieden: es war Drift, keine Absicht.** In Band 2 stand
-keine einzige mehr, obwohl **Sang-hoon in elf Kapiteln spricht** - und er ist
+keine einzige mehr, obwohl **Sang-hoon in fünfzehn Kapiteln spricht** - und er ist
 der, der sie zweimal gesagt hat. (Ye-rin und Mr Chae kommen in Band 2 gar nicht
 mehr zu Wort, Hana nur in K03.)
 

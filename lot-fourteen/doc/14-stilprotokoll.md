@@ -1481,3 +1481,75 @@ laeuft als Zweipersonenszene ohne Begleitsaetze. Ihr Verbot (sich
 rechtfertigen, um Verstaendnis bitten, Gefuehlswort) haelt in dem, was
 zugeordnet ist - die ungetaggten Zeilen habe ich gelesen und nichts gefunden,
 aber gezaehlt ist es nicht.
+
+### Der Durchgang fortgesetzt: alle uebrigen Figuren
+
+Georgij und Annie sind vom Autor freigegeben. Geprueft wurden alle anderen -
+Blatt-Maschine gegen die tatsaechlichen Repliken, nicht nur die Verbote.
+
+#### Der eine Textbefund, und er ist eine Entscheidung des Autors
+
+**Dieselbe Wechselrede steht zweimal, als Echo ueber die Bandgrenze, und sie ist
+nicht identisch:**
+
+| | |
+|---|---|
+| b1 K13 | *"Thank you, Chairman." / "**Don't** thank me. I have not given you a name."* |
+| b2 K57 | *"Thank you, Chairman." / "**Do not** thank me. I have not given you a name."* |
+
+Gleicher Stichsatz, gleiche Antwort, **eine Kontraktion Unterschied**. Beide
+Lesarten sind vertretbar: b1 K13 ist Woos einziges Kapitel mit Kontraktionen
+(drei Stueck, alle dort), in b2 K57 zieht er kein einziges Mal zusammen - das
+kann Register sein oder Versehen. **Ein wiederholter Satz ist keine Marotte,
+darum nicht angefasst.** Entscheidung liegt beim Autor.
+
+#### Zwei Stellen, an denen die mechanische Regel Schaden angerichtet haette
+
+**1. Woos Negativdefinition in b2 K57 muss stehen bleiben.** Sein Blatt sagt
+"gehoert ihm nicht", zwei Stellen wurden ersetzt - und die Messung zeigt noch
+0,9. Das ist kein Rueckfall:
+
+> *"He asked me who I would telephone if it went badly." **Woo said it exactly,
+> in the way of a man repeating something he has repeated to himself.** "Not who
+> I had told. Not who knew. Who I would telephone."*
+
+**Das ist Choi Dae-hos Frage in Woos Mund**, und der Begleitsatz sagt es. Wer
+die Regel mechanisch anwendet, loescht die einzige belegte Frage Chois, die
+nicht nach einem Geschaeft fragt. Als Ausnahme ins Blatt geschrieben.
+
+**2. Sang-hoons Und-Kette.** Sein Blatt sagte oben *"Verboten: die Und-Kette"*
+und drei Absaetze weiter *"Er darf: die Und-Kette - er sortiert damit Beweise"*.
+**Der Text gibt der zweiten Fassung recht.** Er hat genau zwei im Buch, und
+beide tun dasselbe: drei Sachen aufzaehlen und dann den Augenblick datieren, in
+dem sie zusammenkamen (*"and I have never once put those three facts in a row
+until this minute"*). Ein Durchgang nach der alten Regel haette beide
+gestrichen - also die zwei Stellen, an denen der Mann merkt, was er acht Jahre
+nicht gesehen hat. Verbot gestrichen.
+
+#### Weitere Blattfehler, alle ohne Folgen im Text
+
+| Ort | Befund |
+|---|---|
+| **doc/12, Eingangsdiagnose** | Das Beispiel fuer *"jede Figur endet in Georgijs Stimme"* zitiert **b2 K52 v1.0**. Der Kanon ist v1.4, und dort steht Sims eigenes Register: *"I was glad to. **I would like you to have heard me say that part.**"* **Die Stelle ist im Buch laengst repariert**; die Diagnose stand noch als offener Befund |
+| **Sang-hoon** | Kopf sagte *101 Repliken, 26 Kapitel* - es sind **116 in 15**. Und das Protokoll-Zitat *"I would like it on the record that I gave you the chance"* **gibt es nicht**: es ist eine Zusammenfassung, als Zitat gesetzt. Die echte Zeile ist haerter, weil sie die Ablehnung mitprotokolliert - *"…that I gave it to you and that you did not."* |
+| **Sang-hoon, zweite Kollision** | Die Protokoll-Formel gehoert ihm nicht allein: **Georgij benutzt sie ebenfalls zweimal** (b2 K40, b2 K41). Trennung: Sang-hoon protokolliert eine **gegebene Gelegenheit**, Georgij **sein eigenes Bemerken** |
+| **Woo** | *"eine seiner zwei Kontraktionen"* - es sind **drei**, alle in b1 K13. `stimmen.py` sieht *"Don't thank me"* nicht, weil die Replik ohne Begleitsatz dasteht |
+| **Anredeabschnitt** | *"Sang-hoon spricht in elf Kapiteln"* → **fuenfzehn** |
+
+#### Was gehalten hat
+
+**Woo schuettelt in beiden Baenden keine einzige Hand** - jede Fundstelle ist
+seine eigene Hand auf Tisch, Stuhl oder Autodach. **Baeks Jahre-Dichte 22,5 ist
+Platz eins** ueber der Schwelle. **Sung-ho stellt in seinen drei Repliken keine
+Frage. Mr Ku hat genau eine. Koh hat keine Kontraktion. Jang hat keine
+Und-Kette.** Hana zieht zusammen und zaehlt Menschen, wie ihr Blatt es
+verlangt, und benutzt keine der drei ihr verbotenen Formen.
+
+**Und der Zitatpruefer gibt fuer doc/12 null unbelegte Zitate.** Die vier aus
+ueberholten Fassungen sind jetzt alle vier ausdruecklich als Geschichte
+markiert.
+
+**Moon Hae-sook und Mr Tak sprechen noch nicht** - ihre Blaetter sind vorab
+geschrieben. Da ist nichts anzugleichen, solange keine Replik existiert.
+
+*Unsicher:* keiner.
