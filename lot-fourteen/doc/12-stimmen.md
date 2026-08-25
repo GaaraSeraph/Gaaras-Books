@@ -230,20 +230,30 @@ Frau mit einer Gießkanne.
 **Gemessen am 25.08., Nennungen je 1000 Wörter eigener Rede.** Das ist keine
 Erfindung, das steht schon halb im Text und war nur nie festgeschrieben:
 
-| Figur | zählt am dichtesten | dann |
-|---|---|---|
-| **Sim** | **Jahre 18,3** | Personen 6,1 |
-| **Mrs Seo** | **Personen 20,5** | Dienstjahre 10,3 |
-| **Woo** | **Jahre 8,3** | Minuten 6,7 |
-| **Sang-hoon** | Jahre 8,0 | Wochen 2,3 |
-| **Georgij** | **Daten 7,9** | Jahre 4,5, Personen 3,8 |
-| **Annie** | Daten 5,6 | **Tage 4,2, Minuten 3,7** |
-| **Jang** | Personen 4,6 | Tage 3,0 |
+**Nachgemessen am 25.08. mit `python3 werkzeug/stimmen.py`. Die alten Werte
+standen daneben und sind in der dritten Spalte aufgehoben:**
 
-Mrs Seo nennt Personen **fünfmal so dicht wie Georgij**, weil ein Kopf für sie
-eine Arbeitsmenge ist. Woo und Sim rechnen in Jahren, weil beide ihr Leben in
-einem Gewerbe verbracht haben und das ihre einzige Währung ist. Annie zählt
-**Minuten und Tage an ihm** - sie misst nicht die Sache, sie misst ihn.
+| Figur | zählt am dichtesten | dann | stand hier |
+|---|---|---|---|
+| **Mrs Seo** | **Personen 17,5** | Jahre 8,8 | Personen 20,5 |
+| **Sim** | **Personen 14,6** | Jahre 8,4 | Jahre 18,3 |
+| **Woo** | Personen 11,7 | Jahre 7,5 | Jahre 8,3 |
+| **Sang-hoon** | Personen 8,6 | Jahre 8,1 | Jahre 8,0 |
+| **Georgij** | Personen 9,4 | Daten 7,6 | Daten 7,9 |
+| **Annie** | Personen 8,6 | Daten 5,6 | Daten 5,6 |
+| **Jang** | Personen 6,8 | Minuten 6,8 | Personen 4,6 |
+
+**Die Korrektur trifft das Argument und nicht nur die Ziffern.** Hier stand
+*"Sim: Jahre 18,3"* - er liegt bei **8,4** und zählt in Wahrheit Personen.
+Und Mrs Seo nennt Personen **doppelt** so dicht wie Georgij, nicht fünfmal.
+
+**Was hält:** jede Figur hat eine Einheit, und Woo und Sim rechnen tatsächlich
+mehr in Jahren als die Prinzipale unter ihnen. Annie zählt **Minuten und Tage an
+ihm** - sie misst nicht die Sache, sie misst ihn.
+
+**Was nicht hält, ist die Rangfolge:** *Personen* steht bei fast jeder Figur an
+erster Stelle, weil das Buch von Menschen handelt. **Die Einheit einer Figur
+erkennt man an der zweiten Spalte, nicht an der ersten.**
 
 **Die Regel:** Wer eine Figur schreibt, gibt ihr ihre Einheit, auch in einem
 Satz, in dem es um etwas anderes geht. Eine Figur, die in der falschen Einheit
@@ -391,12 +401,20 @@ unterbleibt, ist das die Szene.
 **Gezählt am 25.08. über beide Bände.** Die Anrede verortet im Buch jeden
 Sprecher genau, und sie tut es in einem Wort:
 
-| Anrede | Wer | Band 1 | Band 2 |
-|---|---|---|---|
-| *Mistress* | Georgij, und nur er | 64 | 34 |
-| *Chairman* | an Woo, von allen | 87 | 16 |
-| *ma'am* | **der Haushalt**: der Wachmann, Mrs Seo, Ji-won | 7 | **0** |
-| *ma'am* | **Jang** an Annie. Nichts an Georgij | wird gesetzt | wird gesetzt |
+**Gezählt wird nur, was in Anführungszeichen steht** - *"said Chairman Woo"* ist
+eine Sprecherangabe und keine Anrede. Der alte Wert für *Chairman* zählte die
+Erzählung mit und war deshalb doppelt so hoch.
+
+| Anrede | Wer | Band 1 | Band 2 | stand hier |
+|---|---|---|---|---|
+| *Mistress* | Georgij, und nur er | 64 | 39 | 64 / 34 |
+| *Chairman* | an Woo, von allen | **44** | 19 | 87 / 16 |
+| *ma'am* | **der Haushalt**: der Wachmann, Mrs Seo, Ji-won | **6** | **3** | 7 / 0 |
+
+**Die drei in Band 2 stehen alle in K40 und sind alle aus diesem Durchgang.**
+Der Fund unten - *das eigene Wort des Haushalts kommt in Band 2 gar nicht mehr
+vor* - war richtig, **und er ist durch die Reparatur erledigt**, nicht widerlegt.
+Wer die Null wieder messen will, muss b2 K40 wegdenken.
 
 **Die dritte Zeile ist ein Fund.** Das eigene Wort des Haushalts kommt in Band 2
 kein einziges Mal mehr vor. Mrs Seo und Ji-won reden weiter, aber sie reden nicht
