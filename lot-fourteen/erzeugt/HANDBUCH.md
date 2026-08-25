@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 235.299 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 235.721 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -6012,6 +6012,51 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## OFFEN: Kapitel 20 zaehlt fuenf Mitteilungen, von denen vier noch nicht
+stattgefunden haben koennen (25.08.)
+
+**Gefunden beim Nachpruefen der Kapitel 20 (v1.8) und 69 (v1.1), beide am
+25.08. neu.** Die Zusage vom 3. April ist damit eingeloest, und das haelt - der
+Doppelbeleg steht unten. Ein Absatz in Kapitel 20 zaehlt aber gegen sich selbst.
+
+**Kapitel 20 spielt am Donnerstag, dem 30. April.** In demselben Bericht steht:
+
+| | |
+|---|---|
+| **Vergangenheit** | *"Every one of the five was told who asked Chairman Woo, individually, by me, **on the day he signed**... I drove to four yards and a kitchen and I said the same sentence in the same words **five times**."* |
+| **Zukunft, elf Zeilen vorher** | *"Mr Kwon signed on the twenty-seventh. **The other four sign Chairman Woo's paper in the first week of May.**"* |
+
+**Am 30. April hat also genau einer von fuenfen unterschrieben.** Vier
+Unterschriften liegen eine Woche in der Zukunft, und mit ihnen vier der fuenf
+Mitteilungen - die er im Perfekt und mit Zahl berichtet.
+
+**Die entlastende Lesart traegt nicht.** Man koennte *"the day he signed"* auf
+**Woo** beziehen und alle fuenf Besuche auf einen Tag legen. Dagegen steht
+zweierlei: der Text datiert Woos eigene Unterschrift **nirgends**, und Kapitel
+69 verankert es an der Firma - Mr Kwon: *"On the **twenty-seventh** of April
+you drove into my yard and told me who had asked Chairman Woo"*, und der 27.
+ist laut Kapitel 20 **Kwons** Unterschriftstag. Jede Mitteilung faellt also auf
+den Unterschriftstag der jeweiligen Firma.
+
+**Zwei Wege hinaus, und es ist eine Autorenentscheidung:**
+
+1. **Die Zahl an den Kalender anpassen** - nur Kwon ist unterrichtet, die
+   uebrigen vier bekommen denselben Satz in der ersten Maiwoche. **Das ist die
+   kleinere Aenderung und sie macht Kapitel 69 schaerfer:** Annies Anweisung
+   *"Go back and tell all five that they do not owe me anything"* betrifft dann
+   vier Leute, die er ohnehin noch sehen muss - und er faehrt trotzdem nicht.
+2. **Die vier Unterschriften vorziehen**, dann stimmt das Perfekt. Kostet
+   allerdings den Satz ueber die erste Maiwoche und die Kette dahinter.
+
+**Was davon unberuehrt bleibt und geprueft ist:** die Zusage selbst. Kapitel 12
+(v1.8) traegt **beide** Haelften, die 20 und 69 einzeln zitieren - *"the other
+five will be yours, completely, not as customers and not as an arrangement"* und
+*"in about three weeks they are going to be extremely grateful to somebody. That
+somebody can be you."* Kein Widerspruch zwischen den beiden Kapiteln.
+**Siebenundzwanzig Tage** vom 3. auf den 30. April gehen auf.
 
 ---
 
