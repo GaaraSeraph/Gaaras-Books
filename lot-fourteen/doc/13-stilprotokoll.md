@@ -956,3 +956,103 @@ wird in hundert Kapitel geschrieben. **Ein Superlativ in einem Stimmblatt brauch
 die Rangfolge daneben, nicht nur eine Fundstelle** - sonst ist er nur noch nicht
 widerlegt. Und **jede Zahl braucht den Befehl daneben**, mit dem man sie
 nachrechnet.
+
+---
+
+### doc/12, der Rest: die Regeln, die Achsen, der Index, die gemessenen Blaetter
+
+Damit ist das Dokument ganz durch. **Achtzehn weitere Fehler**, und der schwerste
+steht nicht in einem Blatt, sondern in einer Regel.
+
+#### Der schwerste: sechs Anreden, die es angeblich nicht gibt
+
+Achse 3 sagte: *"Er bekommt keinen einzigen Titel zurueck - es gibt im ganzen
+Buch kein Rangwort fuer ihn."*
+
+**Es gibt sechs, und sie stehen alle in den letzten fuenf Kapiteln von Band 1:**
+
+| | wer |
+|---|---|
+| b1 K30 | **Kim Ye-rin**, an der Tuer - die erste |
+| b1 K31 | **Hana**, *"Go home, Mr Georgij."* |
+| b1 K32 | **Kim Ye-rin**, in der Auffahrt |
+| b1 K33 | **Park Sang-hoon**, direkt nach Georgijs *"Chairman Park."* |
+| b1 K33 | **Park Sang-hoon**, an der Tuer |
+| b1 K34 | **Mr Chae** |
+
+**Das ist ein Bogen und kein Ausrutscher.** Er faengt bei K30 an - bei der Frau,
+die ihn zwanzig Minuten lang gar nicht angeredet hat - und danach tun es alle.
+**Der Text macht laengst, was das Blatt als Aufgabe auswies**, und ein Durchgang
+nach dem alten Eintrag haette alle sechs gestrichen. Jetzt festgelegt.
+
+**Offene Frage an den Autor:** in Band 2 steht keine einzige mehr. Gewollt oder
+abgerissen?
+
+#### Der zweitschwerste: eine Figur stand verkehrt herum
+
+Regel 2 sagte: *"Annie haelt nichts zurueck und das ist ihr Kennzeichen."*
+
+Sie haelt **am meisten** zurueck von allen, und die Handlung beider Baende haengt
+daran - der Name neunzehn Tage lang (b1 K12), die Weigerung (b1 K11, K34), die
+achtundsechzig Tage (b2 K27), *"the smallest piece I could get away with"*
+(b2 K18). **Ihr Kennzeichen ist nicht das Nichtzurueckhalten. Es ist, dass sie
+das Zurueckhalten ansagt** - mit Frist, mit Grund, ohne Entschuldigung.
+
+#### Ein Befund, der vorher nirgends stand
+
+**Annie hoert in Band 2 auf, Woerter zusammenzuziehen - genau wie Georgij.**
+
+| | Band 1 | Band 2 |
+|---|---|---|
+| Georgij | 34 | **0** |
+| Annie | 18 | **0** |
+
+Zwei Figuren, derselbe Bruch, an derselben Stelle, und keine Figur im Buch
+bemerkt es. Georgijs Haelfte stand im Blatt, Annies nicht.
+
+#### Die uebrigen
+
+| Ort | stand da | Befund |
+|---|---|---|
+| Regel 2 | Mrs Seo und der Umschlag | **zweiter Fundort derselben Erfindung** |
+| Regel 2 | Woo: *"Do not thank me"* | er sagt *"**Don't** thank me"* |
+| Regel 3 | *"Keine Figur sagt das Warme"* | eine Ausnahme: Sim, b2 K52, und er markiert sie selbst |
+| Regel 3 | Woo *"dreimal belegt"* | der Erzaehler sagt *"every time since October"* |
+| Regel 6 | Mrs Seo nimmt die Glaeser weg | **einmal im Buch.** Ihre Gewohnheit ist das Tablett um sieben, fuenfmal |
+| Achse 1 | *Kontraktionen wenige/viele* | aus dem defekten Zaehler. Der Haushalt zieht nirgends zusammen |
+| Achse 1 | 34 Szenen mit zwei Angestellten | 36 **Kapitel**, nicht Szenen |
+| Achse 2 | *Chairman* 24 Mal, immer von Georgij | **63 Mal**, auch von Jang und Kang |
+| Achse 3 | *Mistress* 89 Mal | **103** |
+| Achse 4 | die Ton-Beats *"sind verschwunden"* | *did not soften* steht 15 Mal, *did not look away* 18 Mal |
+| Messstand | halbe Tabelle | Kontraktionswerte aus dem defekten Zaehler, vier Figuren standen mit Zahlen da, die es nicht gibt |
+| Georgij | *"acht Woerter"* | Ø 11,6 |
+| Annie | *"sieben Woerter"* | Ø 10,1 |
+| Mrs Ha | *"vierhundert Hochzeiten"* | **411**, und ihre Berichtigung ist die Szene |
+| Mrs Ha | *"zweite Zivilistin im Buch"* | vor ihr Gwak, Sohn, Byun, Koh |
+| **Mrs Sunwoo** | *"Sie beendet nie einen Satz ganz"* | **Fehllesung.** Der Satz heisst *"never told anybody the whole of anything"* - das ist Auskunft, nicht Satzbau. Das Blatt haette ihr ein Stocken gegeben, das sie nicht hat |
+| Index | Jang, Mrs Jeon, Mrs Seo | trugen **drei Maschinen, die ihre eigenen Blaetter zurueckgenommen hatten** |
+| Index | Spalte *Repliken* | Warnung ergaenzt: in Zweipersonenstuecken misst sie Begleitsaetze und nicht Text |
+
+**Geprueft und bestaetigt**, damit es nicht zweimal geprueft wird: Woo schuettelt
+in elf *hand*-Stellen keine Hand (Sang-hoon gibt sie in b1 K16 ausdruecklich);
+Sims falsche Tramnummer steht in b2 K52; Mr Ahns Alterswiderspruch ist im Text
+selbst aufgeloest (*"he is never wrong about that by more than a year"*); Hongs
+drei Namen sind Woo, Sunwoo und Choi; **alle vier Kollisionspaare halten** - in
+keinem Kapitel sprechen beide.
+
+**Aber drei Kapitel stehen an der Grenze:** b2 K34 und b2 K41 (Sang-hoon und
+Yeom kommen beide vor, nur einer redet) und b2 K41 (Jang und Mrs Bae). **In K41
+stehen zwei Paare gleichzeitig an der Grenze.**
+
+#### Bilanz doc/12
+
+**Einundzwanzig Blaetter und Abschnitte geprueft, einundvierzig Fehler.** Drei
+davon hatten ins Buch gewirkt (Jangs und Mrs Seos Kontraktionen, zurueckgenommen).
+Zwei haetten beim naechsten Durchgang etwas geloescht, das der Text richtig macht
+(Ye-rins *"Mr Georgij."* und die sechs Anreden in Achse 3).
+
+**Und die haeufigste Ursache ist keine Schlamperei, sondern eine Bewegung:** eine
+richtige Beobachtung, die beim Aufschreiben eine Stufe zu weit geht. *Sie benutzt
+fast nie eine Anrede* wird zu *kein Titel, kein Name*. *Er spricht knapp* wird zu
+*der langsatzigste*. **Ein Stimmblatt ist genau da am gefaehrlichsten, wo es
+gut formuliert ist.**

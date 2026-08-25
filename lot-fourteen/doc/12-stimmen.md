@@ -635,8 +635,13 @@ weiß auf den Zentimeter genau, was die richtige Form ist. **Drei Rangfragen in
 einem Satz, und keine davon wird ausgesprochen.**
 
 Der Gegenfall ist der Beat, der nichts trägt: *"He did not soften it."* Der sagt
-über das Verhältnis im Raum nichts, und davon sind am 24.08. neununddreißig
-Stück verschwunden.
+über das Verhältnis im Raum nichts. Davon sind am 24.08. neununddreißig Stück
+verschwunden und am 25.08. noch einmal dreißig.
+
+**Nachgezählt am 25.08. steht die Familie aber weiter im Buch:** *did not
+soften* 15 Mal, *did not look away* 18 Mal, *without any … in it at all* 10 Mal.
+**Der Posten ist nicht erledigt**, er steht als Punkt 5 und 11 in
+`doc/09-arbeitsteilung.md`.
 
 **Die Regel:** In jeder Szene mit einem Rangunterschied trägt **mindestens ein
 Beat** die Rangfrage. Wer steht, wer sitzt, wer zuerst spricht, wer wem etwas
@@ -657,6 +662,19 @@ gegenübersteht?*
 Zeile steht. Das ist die Arbeitsliste für den Stil-Durchgang: **jede Figur mit
 einem Blatt kann repariert werden, jede ohne nicht.**
 
+**WARNUNG ZUR SPALTE *Repliken*, und sie hat schon zweimal getroffen.** In einem
+Zweipersonenstück läuft der Dialog **ohne Begleitsätze**, und diese Zählung
+findet dort fast nichts. Die Zahl misst dann Begleitsätze und nicht Text:
+
+> **Kim Ye-rin steht mit 17 in dieser Liste.** Allein die Terrassenszene in
+> b1 K30 hat 117 Redeabsätze im Wechsel, also rund **siebenundfünfzig** für sie.
+> **Mrs Sunwoo steht mit 8** - `stimmen.py` kennt sie gar nicht als Sprecherin.
+> **Mrs Bae steht mit 8**, sicher zugeordnet sind drei, und b2 K49 ist ihres.
+
+**Wer nach dieser Spalte entscheidet, wer eine Nebenfigur ist, irrt sich bei
+genau den Figuren, die ein eigenes Kapitel tragen.** Die Falle steht wörtlich in
+`CLAUDE.md` und hat trotzdem funktioniert.
+
 | Figur | Repliken | Kapitel | Die Maschine |
 |---|---|---|---|
 | **Georgij** | 585 | 95 | Aussage, Rechnung, Preis. Endet auf einem Preis |
@@ -664,12 +682,12 @@ einem Blatt kann repariert werden, jede ohne nicht.**
 | **Chairman Woo** | 105 | 26 | Korrigiert die Prämisse, statt zu antworten |
 | **Park Sang-hoon** | 101 | 26 | Das Lob mit der Klinge. Und er beendet Gespräche selbst |
 | **Hana Seo-yeon** | 58 | 13 | Die Anmerkung. Sie kommentiert den Raum, während er läuft |
-| **Jang** | 45 | 13 | Sicherheitsstufen: beobachtet, gehört, geraten. Mischt nie |
+| **Jang** | 45 | 13 | Übergibt keine Tatsache ohne Herkunft und Grenze, und nennt die Grenze zuerst |
 | **Sim** | 29 | 5 | Der andere. Angebote statt Aussagen |
 | **Mr Hwang** | 27 | 4 | Vorwegnahme. Sagt das Belastende zuerst |
 | **Mr Yeom** | 26 | 7 | Die Abkürzung. Nimmt dem anderen den Umweg ab |
-| **Mrs Jeon Mi-ja** | 23 | 8 | Der Vorgang, nie die Person |
-| **Mrs Seo** | 20 | 15 | Dienstplan. Rechnet alles in Haushaltsfolgen um |
+| **Mrs Jeon Mi-ja** | 23 | 8 | Die ausgerichtete Botschaft: *"You may tell him from me…"* |
+| **Mrs Seo** | 20 | 15 | Meldet die **Abweichung** von der Routine, und die Routine ist ihr Maß |
 | **Kim Ye-rin** | 17 | 8 | Berichtigt, wer was hat |
 | **Mr Chae** | 14 | 7 | Die Form. Struktur ja, Zweck nie |
 | **Mr Kwon** | 14 | 5 | Der flache Bericht ohne Weichmacher |
@@ -702,12 +720,21 @@ eins.
 ## Die Blätter
 
 ### Georgij
-Kurz und tragend, acht Wörter. Keine Kontraktionen in Band 2. Nennt über sich
+Kurz und tragend, **Ø 11,6 Wörter je Satz** (hier stand: acht). Nennt über sich
 selbst nie eine Zahl. Über andere präzise bis zur Grausamkeit. Endet auf dem
 Preis. Sagt nie etwas Unwahres.
 
+**Keine Kontraktionen in Band 2, und das ist nachgezählt und hart:** Band 1
+**34**, Band 2 **null**. Der Bruch liegt an der Bandgrenze und ist absolut.
+
 ### Annie
-Sieben Wörter, flach, Punkt statt Fragezeichen. **Erklärt ihn und nicht die
+**Ø 10,1 Wörter je Satz** (hier stand: sieben), flach, Punkt statt Fragezeichen.
+
+**Und sie tut dasselbe wie er, und es stand nirgends:** Annie hat in Band 1
+**18** Kontraktionen und in Band 2 **null**. Zwei Figuren, derselbe Bruch, an
+derselben Stelle - und niemand im Buch bemerkt es. **Wer ihr in Band 2 eine
+Kontraktion gibt, bricht eine Linie, die über zweitausendneunhundert Wörter
+hält.** **Erklärt ihn und nicht die
 Sache**, und ihr Beweismittel ist ein Datum. Befehle ohne Weichmacher: *"Sit
 down." "Say it." "Go and eat something."* Sie fragt nie um Erlaubnis und
 entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
@@ -720,14 +747,16 @@ zweites Mal so schreibt, nimmt der ersten alles.
 ### Chairman Woo (78, seit 51 Jahren im Gewerbe)
 **Korrigiert die Prämisse, statt zu antworten.** Redet in Jahreszahlen und
 Bauwerken. Nennt sein Alter selbst und benutzt es als Argument. Gibt am Ende
-jedes Treffens ungefragt etwas her - dreimal belegt (Oktober, April, August).
-Schüttelt keine Hände. Verweigert Dank: *"Do not thank me. I have not given you
-a name."*
+jedes Treffens ungefragt etwas her - **und der Erzähler sagt es selbst**:
+*"Woo did the thing he has done **every time since October**"* (b2 K61). Hier
+stand *"dreimal belegt"*. Schüttelt keine Hände. Verweigert Dank: *"**Don't**
+thank me. I have not given you a name."* (hier stand *"Do not"*; er zieht an
+dieser Stelle zusammen, und es ist eine seiner zwei Kontraktionen im Buch).
 
 **Dazu gemessen, 80 Repliken und 1193 Wörter, und ein Befund, der aussieht wie ein Fehler und
 keiner ist.**
 
-Woo hat **die dichteste Und-Kette im ganzen Buch: 3,3 je 1000 Wörter** - gegen
+Woo hat **die dichteste Und-Kette im ganzen Buch: 3,5 je 1000 Wörter** - gegen
 Georgijs 1,0. Nach Haustic 3 müsste das die schlimmste Stelle des Buchs sein.
 Sie ist es nicht, und der Grund gehört ins Blatt:
 
@@ -755,9 +784,11 @@ Der zweite ersetzt zugleich den selbstkommentierenden which-Satz durch das,
 was Woo statt einer Erklärung hat: **eine Regel des Gewerbes, flach hingelegt.**
 
 **Hana und Ye-rin brauchten am Text nichts.** Beider Blätter stehen bereits im
-Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung, Ye-rin kommt
-in allen fünf getaggten Repliken über Dritte. Kein Eingriff ist besser als ein
-erfundener.
+Buch - Hana zählt Personen 13,2 und nennt ihre eigene Rechnung. *(Hier stand
+ausserdem "Ye-rin kommt in allen fünf getaggten Repliken über Dritte". Ihr
+eigenes Blatt sagt inzwischen das Genauere: in der ersten Hälfte von b1 K30 ja,
+in der zweiten ausschliesslich aus sich selbst, und der Wechsel ist ihr Bogen.)*
+Kein Eingriff ist besser als ein erfundener.
 
 ### Sim (dreißig Jahre Fixer)
 **Sein Instrument ist die Freundlichkeit**, und er legt es nie ab. *"Tips the
@@ -1321,15 +1352,25 @@ diesem Haus nichts einbringt.**
 
 **Ihre Maschine ist der gedeckte Raum.** Sie erinnert Hochzeiten nicht als
 Ereignisse, sondern als Aufbauten: wie viele Tische, welche Farbe, was die Mutter
-wollte, wann geliefert wurde, wer bezahlt hat. Vierhundert Stueck in dreissig
-Jahren, und sie unterscheidet sie an den Auftraegen.
+wollte, wann geliefert wurde, wer bezahlt hat. **Vierhundertelf** in dreissig Jahren, und sie
+unterscheidet sie an den Auftraegen.
+
+*(Hier stand "vierhundert". Das ist Georgijs Zahl aus einer neun Jahre alten
+Seite, und **sie berichtigt ihn**: "Four hundred and eleven, and the four
+hundred and eleventh was in the November before last and it was a nephew and I
+did it for nothing." Die Berichtigung ist die Szene - wer die Zahl im Blatt auf
+vierhundert lässt, schreibt sie aus dem Kapitel heraus.)*
 
 **Ihr Anliegen hat mit dem Fall nichts zu tun: das Geschaeft, das sie vor vier
 Jahren verloren hat.** Sie kommt bei jedem dritten Satz darauf zurueck, und sie
 ist nicht wehleidig, sie ist **stolz**. Der Stolz ist das, was uebrig ist.
 
-**Sie zieht zusammen.** Sie ist die zweite Zivilistin im Buch nach der Frau mit
-der Giesskanne und darf so klingen.
+**Sie zieht zusammen**, 14,9 je 1000 Wörter - der zweithöchste Wert im Buch
+nach Mr Ahn, und weit hinter ihm.
+
+*(Hier stand "die zweite Zivilistin im Buch nach der Frau mit der Giesskanne".
+Vor ihr stehen Mrs Gwak, Mr Sohn, Mr Byun und Mr Koh. Was stimmt, ist der
+Kontraktionsrang, nicht die Reihenfolge des Auftretens.)*
 
 **Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
 gilt ihrem Gewerbe und nicht der Frau, um die es geht.
@@ -1679,14 +1720,29 @@ you say about it."*
 gestellt hat. **Und er hat Georgij die drei Namen gegeben, denen man ausweichen
 sollte** — Woo, Sunwoo und Choi.
 
-### Mrs Sunwoo (8 Repliken, 81 Jahre)
+### Mrs Sunwoo (81 Jahre)
+
+**Achtung bei der Zahl in der Überschrift.** `stimmen.py` kennt sie **gar nicht
+als Sprecherin** - ihre drei Szenen (b1 K07, b2 K10, b2 K23, b2 K65) sind
+Zweipersonenstücke im blossen Wechsel ohne Begleitsätze. Dieselbe Falle wie bei
+Ye-rin: eine niedrige Zahl heisst dort wenig Begleitsatz und nicht wenig Text.
 
 **Die Zahl zuerst.** *"Forty-one years."* Sie beginnt mit einer Dauer und macht
 sie dann zu einer Aussage. *"I have bought from that house for forty-one years
 and I have never once been given a reason to raise my voice in it."*
 
-**Sie beendet nie einen Satz ganz** — vierzig Jahre lang niemandem etwas ganz
-erzählt. Wer sie ausreden lässt, schreibt gegen Kapitel 3.
+**Hier stand: *"Sie beendet nie einen Satz ganz."* Das ist eine Fehllesung, und
+sie hätte ihr einen Tick gegeben, den sie nicht hat.** Der Satz im Buch ist Mr
+Hongs Charakterisierung in b1 K07:
+
+> *"Sunwoo, the one in the grey, who is charming and who has **never in forty
+> years told anybody the whole of anything**."*
+
+Und sie sagt es in b2 K10 über sich selbst: *"I have never in my life told
+anybody anything the whole way through."* **Das ist nicht Satzbau, das ist
+Auskunft.** Ihre Sätze sind vollständig und ruhig; was sie nie hergibt, ist die
+ganze Sache. Wer sie stockend schreibt, hat aus einer Frau, die Information
+zurückhält, eine gemacht, die den Faden verliert.
 
 ### Mr Byun (11 Repliken)
 
@@ -1839,6 +1895,16 @@ aufgefallen:
 vorhandenen. Findet sich dieselbe, gehört die Trennung in **beide** Blätter, mit
 einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
 
+**Nachgeprüft am 25.08., und alle vier halten:** in keinem Kapitel des Buchs
+sprechen zwei Figuren eines Paares. Gezählt wurde das **Sprechen**, nicht die
+Erwähnung.
+
+**Aber drei Kapitel stehen dicht an der Grenze**, weil dort beide *vorkommen*
+und nur einer redet: **b2 K34** und **b2 K41** (Sang-hoon und Yeom) sowie
+**b2 K41** (Jang und Mrs Bae). **Wer einer dieser Figuren dort eine Replik
+gibt, erzeugt die Kollision.** In K41 stehen beide Paare gleichzeitig an der
+Grenze.
+
 ---
 
 ---
@@ -1848,18 +1914,30 @@ einem Satz, und die Zusatzregel dazu: **nie beide im selben Kapitel.**
 **Gemessen mit `werkzeug/stimmen.py --tics`**, Haustics je 1000 Wörter, nur
 sicher zugeordnete Repliken.
 
-**Sauber, also ohne einen einzigen fremden Tic:** Yeom, Sim, Sohn, Hong, Kang,
-Ye-rin.
+**Neu gemessen am 25.08., nachdem der Kontraktionszaehler repariert war** (er
+zaehlte jeden Genitiv mit, siehe Regel 5). **Die halbe Tabelle sah dadurch
+anders aus, als sie ist.**
+
+**Sauber, also ohne einen einzigen Tic:** Yeom, Sim, Sohn, Hong, Kang, Ye-rin,
+**Hwang, Mrs Gwak, Mr Chae und Mrs Seo** - die letzten vier standen vorher mit
+einer Kontraktionszahl da, die es nicht gab.
 
 **Signatur sichtbar und richtig:**
 
-| Figur | Wert | Was das heisst |
-|---|---|---|
-| **Mr Ahn** | Kontraktion 106,7 | Der hoechste Wert im Buch, um Faktor sechs. Genau seine Signatur |
-| Mrs Seo | Kontraktion 17,9 | Zivilistin im eigenen Haus |
-| Jang | Kontraktion 13,8 | Und sonst nichts. Sauber |
-| Hana | Kontraktion 11,9 | Sie redet gesprochen, nicht gebaut |
-| Woo | Und-Kette 3,3, Selbstdiagnose 1,7 | Beides seins, siehe sein Blatt |
+| Figur | Wert | stand hier | Was das heisst |
+|---|---|---|---|
+| **Mr Ahn** | Kontraktion **72,1** | 106,7 | Weiterhin der hoechste Wert im Buch, und mit Abstand - der naechste liegt bei 14,9 |
+| Mrs Ha | Kontraktion 14,9 | - | die zweite, und weit dahinter |
+| Hana | Kontraktion **5,3** | 11,9 | Sie redet gesprochen, nicht gebaut |
+| Annie | Kontraktion 3,5 | - | mehr als Woo und Sang-hoon |
+| Jang | Kontraktion **3,4** | 13,8 | drei Stueck im ganzen Buch, alle in einem Wechsel |
+| **Mrs Seo** | **keine** | 17,9 | **null im ganzen Buch** |
+| Woo | Und-Kette 3,5, Selbstdiagnose 1,7 | 3,3 | Beides seins, siehe sein Blatt |
+
+**Die Reihenfolge selbst war der Fehler.** Vorher las sich die Tabelle als
+Standeslinie - Handwerk oben, Prinzipale unten. Tatsaechlich steht **ein Mann**
+oben und darunter Rauschen, und Georgij (2,5) liegt ueber Woo (1,7) und
+Sang-hoon (1,1).
 
 **Noch offen, mit Zahl, fuer den Stil-Durchgang:**
 
