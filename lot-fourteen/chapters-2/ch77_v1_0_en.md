@@ -1,0 +1,236 @@
+# Chapter 77: The room at the back
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Sixty · Monday 28 September
+
+He gave Sim the number of the repair shop on the Friday, in nine words, and did not explain why he would be there.
+
+Sim said that he would use it at about six and that he hoped somebody in that building owned a chair.
+
+* * *
+
+He went up the hill at half past nine with nothing.
+
+Mr Ahn looked at him for about two seconds, worked out what the day was, and did not say any of it.
+
+"There is a compressor in the back and it has been in the back since June," he said instead. "It weighs about forty kilos and I have been putting it off because it is a two-man lift and I have not had a second man since March."
+
+"Then I am the second man."
+
+"You are the second man until six o'clock and then you are something else, and I want that said at half past nine and not at ten to."
+
+Georgij took his coat off.
+
+* * *
+
+They got the compressor out at about eleven and stripped it on the floor because it would not go on the bench.
+
+It is a long job with a great many small parts and it wants two people, one of whom does not have to know anything, and Mr Ahn talked for most of it.
+
+He talked about his wife's family, who came on the Sunday after all and were less bad than he had said they would be. He talked about the noodle place and the woman who owns it. She has decided that the pot by the door is doing well because of something she did and not because of anything he did, and she is entirely right and does not know it. He talked about a customer who has been bringing in the same failing pump every eight weeks for two years and about how much of that pump is now his own work rather than the manufacturer's.
+
+At about half past one he said that his mother's boiler had gone in the end, in the year the house was sold, and that a man had come out and looked at it and laughed.
+
+Georgij held a bracket at an angle and did not say anything at all, which is a thing he has got better at since the tenth.
+
+* * *
+
+The fan runs in the corner.
+
+It has run since the fifteenth, every day the shop is open, and Mr Ahn has said nothing about it since the day he put it there and neither has anybody else.
+
+At about three Georgij noticed that the shop is warm in a way it was not in July. A fan in a corner of a room that size moves the air over the bench. A man who has been mending motors for twenty years would have known that when he set it down.
+
+He did not say that either.
+
+* * *
+
+At four Mr Ahn stopped being able to work and did not admit it.
+
+He put the last four bolts in twice and took them out both times. Then he stood at the bench with the cloth in his hand and looked at the road through the window, which is not a view.
+
+"Ten past five," he said.
+
+"Ten past five. It runs about twenty minutes."
+
+"And then he goes and finds a box and puts money in it."
+
+"Yes."
+
+Mr Ahn put the cloth down.
+
+"I have thought all week about what I want out of this and I have got two answers and I do not like either of them," he said. "The first is that I want him to be wrong about her being finished. The second is that if he is wrong, then she is working, and a woman who is working in that house has been working in it for four years, and I have been down here mending pumps."
+
+"That is not the same thing."
+
+"It is exactly the same thing and you know it is, and I would rather you did not do that."
+
+Georgij stood by the bench.
+
+"You are right and I am sorry," he said. "I have four people this month who have handed me something true and I have handed three of them a soft version back inside a minute."
+
+"Then do not do it to me at ten past four with an hour left."
+
+* * *
+
+The telephone in the back of the shop went at twelve minutes past six.
+
+Mr Ahn did not go near it.
+
+Georgij picked it up and said the shop's name, which is what a man does in a shop.
+
+Sim said that this was the first time in thirty years he had telephoned a business and been answered by the person he was looking for.
+
+"Say it in the order it happened," said Georgij.
+
+"I telephoned at ten past five. The number worked."
+
+"Go on."
+
+"Mr Tak answered again and told me three things before I had asked for any of them." Sim was entirely level. "The arrangements change on Wednesday. He does not know what the number will be afterwards. And he has been told he is finished on the second." He let that stand. "He gave me all of it the way a man tells you about his own week."
+
+"And she was brought."
+
+"She was brought in about forty seconds."
+
+Georgij put one hand flat on the bench.
+
+Across the shop Mr Ahn was standing with his back to him doing nothing at all.
+
+* * *
+
+"Say the whole of what she said," said Georgij.
+
+"She said the shed roof should be left. She said that in the first minute and she did not say it again, which is not her, and I want that on the record because it is the only part of this I would argue with myself about."
+
+"It is on the record."
+
+"Then the rest of it." Sim did not hurry any of it. "She talked about the gutters for a while, and about a firm in Wonju, and about whether the ground behind the house needs anything before the frost. Nine or ten minutes of that. It is what we do."
+
+"And then."
+
+"And then she said that the room at the back is being cleared."
+
+The shop did what a shop does at ten past six.
+
+"Say it again."
+
+"She said that the room at the back is being cleared, and that it will be easier to see the state of the ceiling in there once it is empty. And that I might want to know that before the spring."
+
+* * *
+
+Georgij did not say anything for about four seconds.
+
+"You know what that is," said Sim.
+
+"I know what you think it is and I want it from you and not from me."
+
+"Three years ago in November there was a question about a boiler and it took eleven minutes, and at the end of it I asked her whether the house was warm enough where she slept." Sim's voice did not change anywhere. "She said it was fine. And then she said that the room at the back gets the sun in the afternoon."
+
+"And you wrote guttering in your book."
+
+"I wrote guttering in my book."
+
+Neither of them said anything.
+
+"There are perhaps four people alive who could have caught that," said Georgij, "and three of them do not know she exists."
+
+"There is one," said Sim. "I am the one. That is what I have been for eleven years and it is the first time it has been worth anything."
+
+* * *
+
+"Say what you did with it," said Georgij, "because you did something and you are working out how to tell me."
+
+"I asked her whether the ceiling had been looked at recently."
+
+"That is a question."
+
+"It is the second question anybody has asked her on that telephone in four years and both of them were mine." Sim let it sit for a moment. "She said that a man had been in the roof space on the twenty-second with a torch and had been up there about half an hour. And that he had been sent by whoever is dealing with the house now, and not by anybody local."
+
+"That is a survey."
+
+"That is a survey," said Sim. "You do not put a man in a roof space with a torch for half an hour to keep a house. You do it to sell one."
+
+* * *
+
+There was a coin going into the box.
+
+"There is a last thing and it is not information," said Sim.
+
+"Go on."
+
+"At the end of it she said thank you again. The same as the fourteenth, and the same words, and my name in it." He was entirely courteous about it and it was worse than if he had not been. "I have had a fortnight to decide what I think about the first one and I decided on Thursday that you were right and that it was not a goodbye. Then she said it again tonight and I have nothing left to put against it."
+
+"Then have mine, and it is not comfortable."
+
+"I will take that over the other kind."
+
+"A woman who has decided to go quiet does not hand a man a date, a survey and a room in one call," said Georgij. "She has said thank you twice because she has been given something twice, and she does not have any other way of saying so on that telephone."
+
+Sim did not answer straight away.
+
+"That is a better answer than mine and I am going to take it home with me," he said. "I am going to have my supper now, and I am going to be sixty-three about it, and I will telephone that number on Thursday to find out whether it still exists."
+
+"Nobody has asked you to."
+
+"I know. It is becoming a habit and I have decided not to look at it."
+
+* * *
+
+Georgij put the receiver down and stood with his hand on it. Then he gave Mr Ahn the whole of it in the order it had come, and did not soften one part of it, and did not stop anywhere to see how it was going.
+
+Mr Ahn listened standing up, with the cloth over his shoulder, and did not touch anything on the bench for the whole of it, which is the first time.
+
+At the end he sat down on the stool.
+
+"Say the sentence again," he said. "Her one."
+
+"That the room at the back is being cleared, and that it will be easier to see the state of the ceiling once it is empty, and that you might want to know that before the spring."
+
+"She is not telling him about a ceiling."
+
+"No."
+
+"She is telling him that they are emptying the room she sleeps in. She has put it into a sentence about a job that gets done in the spring, so that whoever is standing next to her hears a woman being sensible about a house." Mr Ahn had both hands on his knees. "And the man on the other end has to work out that there is no spring."
+
+* * *
+
+"That is what I have," said Georgij.
+
+"Then I was right on the fifteenth and I would give a great deal to have been wrong."
+
+"Yes."
+
+"It is worse being right." He said it without any weight on it. "I have had a fortnight of thinking that if I was right she was working, and that if she was working there was something to do. And what she has done is get a date and a survey and her own room out through a man who telephones about drainpipes, and there is still nothing for me to do."
+
+Georgij did not offer him anything.
+
+"There is one thing and it is small and it is the whole of it," he said. "On Wednesday that number changes. She knew that on the fourteenth and she told him then so that he would not read anything into it. Tonight she gave him a survey and a room, and she gave it to him three days before the door shuts."
+
+Mr Ahn looked at the floor.
+
+"She was clearing her desk," he said.
+
+"She was clearing her desk."
+
+* * *
+
+He came down the hill at about seven and did not write anything in the car.
+
+He wrote it at the house at nine, and it took one attempt, and it is four lines.
+
+*Twenty-second of September. A man in a roof space with a torch, half an hour, sent from outside the district.*
+
+*The room she sleeps in is being emptied.*
+
+*The line closes on Wednesday.*
+
+*She has known for a fortnight that it would, and she spent the last call before it on us.*
+
+He took it up at twenty past nine and Annie read the four lines twice and put the sheet down on the blotter and did not pick it up again.
+
+"That is a survey and a date and a room," she said, "and it is four weeks earlier than the earliest thing I have been planning for."
+
+"Yes, Mistress."
+
+"Then I am not going to have the two things I named on the twenty-first. I am going to have all three, and the third one is the one I promised to somebody else, and I am going to have to go and see him about it in person." She put one hand flat on the blotter. "I will tell you on Friday who he is."

@@ -110,6 +110,7 @@ b2  ch73  v1.0       2175 Woerter  ch73_v1_0_en.md
 b2  ch74  v1.1       3471 Woerter  ch74_v1_1_en.md
 b2  ch75  v1.0       2539 Woerter  ch75_v1_0_en.md
 b2  ch76  v1.0       2056 Woerter  ch76_v1_0_en.md
+b2  ch77  v1.0       2325 Woerter  ch77_v1_0_en.md
 
-Gesamt: 2 Baende, 110 Kapitel, 290587 Woerter
+Gesamt: 2 Baende, 111 Kapitel, 292912 Woerter
 Handbuch: 16 Dokumente

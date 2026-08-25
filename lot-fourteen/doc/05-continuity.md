@@ -3526,6 +3526,64 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
+- **Band 2, Kapitel 77** *The room at the back* (v1.0) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
+    Auftrag aus 74 (*"go and hold something"*), ist den ganzen Tag in der
+    Werkstatt und nimmt den Anruf dort entgegen. **Mr Ahn hoert zum ersten Mal
+    einen Bericht, waehrend er stattfindet**, und fasst dabei nichts auf der
+    Werkbank an, was er sonst immer tut.
+  - Vormittags ein Kompressor am Boden, ein Zwei-Mann-Heben, das Mr Ahn seit Juni
+    aufschiebt und seit Maerz nicht machen konnte. **Mr Ahns Bedingung, um halb
+    zehn gestellt:** *"You are the second man until six o'clock and then you are
+    something else."*
+  - **Der Ventilator laeuft seit dem fuenfzehnten**, jeden Tag, den der Laden auf
+    hat. Georgij begreift um drei, dass ein Ventilator in dieser Ecke die Luft
+    ueber die Werkbank schiebt und dass ein Mann mit zwanzig Jahren Motoren das
+    gewusst hat, als er ihn abstellte. **Er sagt es nicht.**
+  - **Mr Ahns zwei Antworten, und er mag beide nicht:** er will, dass Sim sich
+    irrt; und wenn Sim sich irrt, arbeitet sie, und dann arbeitet sie seit vier
+    Jahren, *"and I have been down here mending pumps"*. Georgij gibt ihm eine
+    weiche Fassung und wird dafuer gestellt, und nimmt es an: *"I have four people
+    this month who have handed me something true and I have handed three of them a
+    soft version back inside a minute."*
+  - **DER ANRUF, zwoelf nach sechs im Laden.** Die Nummer geht noch. Mr Tak gibt
+    ungefragt drei Dinge her: **die Betreuung wechselt am Mittwoch**, er weiss
+    nicht, welche Nummer danach gilt, und **er selbst ist am zweiten fertig.**
+    Sie wird in **etwa vierzig Sekunden** geholt, also wieder, was Mr Ahns Lesart
+    aus 73 bestaetigt.
+  - **NEUER KANON, und es ist der Fund des Kapitels:** *"the room at the back is
+    being cleared... it will be easier to see the state of the ceiling in there
+    once it is empty... I might want to know that before the spring."*
+  - **Warum nur ein Mensch auf der Welt das fangen konnte:** vor drei Jahren im
+    November hat Sim sie gefragt, ob es warm genug ist, wo sie schlaeft, und sie
+    hat gesagt, **das Zimmer hinten bekomme nachmittags Sonne** (Kanon aus
+    Kapitel 64). *"And you wrote guttering in your book." - "I wrote guttering in
+    my book."* **Sie raeumen das Zimmer aus, in dem sie schlaeft.**
+  - **Sim stellt die zweite Frage seines Lebens an diese Frau** und bekommt eine
+    Antwort: am 22. September war ein Mann eine halbe Stunde mit einer Taschenlampe
+    im Dachraum, geschickt von dem, der das Haus jetzt abwickelt, und nicht von
+    jemandem aus der Gegend. **Sims Schluss:** *"You do not put a man in a roof
+    space with a torch for half an hour to keep a house. You do it to sell one."*
+  - **Sie bedankt sich zum zweiten Mal**, mit Namen. Sim hat seine Deutung vom
+    14. am Donnerstag aufgegeben und faellt zurueck; Georgij haelt dagegen und
+    zwar ohne Trost: *"A woman who has decided to go quiet does not hand a man a
+    date, a survey and a room in one call. She has said thank you twice because
+    she has been given something twice."*
+  - **Mr Ahns Befund, und er ist bitterer als Rechthaben:** *"It is worse being
+    right... what she has done is get a date and a survey and her own room out
+    through a man who telephones about drainpipes, and there is still nothing for
+    me to do."* Dann der Satz, der das Kapitel schliesst: **"She was clearing her
+    desk."** Drei Tage bevor die Nummer wechselt.
+  - **Und das verschiebt Annies Rechnung ein zweites Mal.** Vier Wochen frueher
+    als alles, was sie geplant hatte. **Sie gibt jetzt alle drei Dinge her**, auch
+    das versprochene, und muss dafuer zu jemandem hinfahren. **Wer das ist, sagt
+    sie am Freitag** (Tag 364).
+  - Sim kuendigt ungefragt den naechsten Anruf fuer **Donnerstag** an, um
+    herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
+    have decided not to look at it."*
+
 
 
 ---

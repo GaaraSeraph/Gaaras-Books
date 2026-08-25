@@ -110,13 +110,15 @@ wird.**
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an, ohne dass ihr jemand ein Datum nennen kann · -
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · -
+- [BEZAHLT] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · B2 76, am Montag, in vierzig Sekunden auf dem Weg zum Wagen: der Kuehlhausanteil in Gunsan und der Grund hinter der Werkstatt. **Das dritte nennt sie nicht**
+- [OFFEN] **B2 77** Annie an Georgij · gesagt Tag 360 · faellig Tag 364 · "I will tell you on Friday who he is." - der Mann, dem das dritte Ding versprochen ist · -
+- [OFFEN] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · -
 - [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
 - [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 410 · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · -
 - [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · -
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig bei Ahn Jung-hees Rueckkehr · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · -
 - [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
-- [OFFEN] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." - von ihm selbst, ungefragt · -
+- [BEZAHLT] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." · B2 77, am Tag, zehn nach fuenf, und er kuendigt im selben Gespraech den naechsten fuer Donnerstag an
 - [BEZAHLT] **B2 72** Annie an Georgij · gesagt Tag 346 · faellig Tag 350 · "It will be decided on Friday and it will be decided in this room." · B2 74, am Freitag um neun, in vier Teilen und mit einer Zahl
 - [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · -
 - [OFFEN] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · -
