@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 75 Kapitel, 187.396 Woerter.
+Book Two, 75 Kapitel, 187.314 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.3 | 2.016 |
 | 04 | v1.9 | 2.734 |
 | 05 | v1.9 | 2.833 |
-| 06 | v1.7 | 3.545 |
+| 06 | v1.9 | 3.463 |
 | 07 | v1.5 | 2.305 |
 | 08 | v1.8 | 3.155 |
 | 09 | v2.6 | 2.525 |
@@ -1127,7 +1127,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1341,8 +1341,6 @@ Georgij stopped just inside the door.
 
 "On the sixteenth of December I told you that I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "It is the moment. Ask me for something."
 
-* * *
-
 He did not go round the desk.
 
 He has gone down onto that carpet every evening for five days without a word being said about it. He stayed on his feet, because a man who asks for a thing from the floor is not asking for it.
@@ -1352,8 +1350,6 @@ He has gone down onto that carpet every evening for five days without a word bei
 "You did."
 
 "I have had it every day since and it has not once got smaller."
-
-* * *
 
 Annie sat back.
 
@@ -1365,8 +1361,6 @@ Annie sat back.
 
 "Now you can do it on a Tuesday, in a hall, between two other things, and it is finished before you get to the end of the sentence."
 
-* * *
-
 The small room did what a room does at half past nine.
 
 "You paid seven weeks for that," said Georgij, "and four mornings in that building, and the third one was not about money. You did not know that was what you were buying." He did not soften any of it. "I knew on the morning you told me, and I said the cheap half of it and let you off, and I have let you off for fifteen days."
@@ -1376,8 +1370,6 @@ Annie did not help him.
 "Then ask."
 
 "Take Tuesday off me."
-
-* * *
 
 "That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on."
 
@@ -1389,8 +1381,6 @@ Georgij stood in the middle of a small room and did the only thing left.
 
 "No, and that is the whole of what I am asking for."
 
-* * *
-
 Annie did not move at all.
 
 "In December I could not ask you," said Georgij. "You owned me. It would have been a slave asking not to be sold, and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
@@ -1399,8 +1389,6 @@ Annie did not move at all.
 
 "Tonight there is no paper on either side and I can walk out of this house on any morning I choose." He held her eye. "If you say it now, it is a thing you decided."
 
-* * *
-
 "There is a price in it and I am going to say it, because you would say it to me."
 
 "Say it."
@@ -1408,8 +1396,6 @@ Annie did not move at all.
 "You have never in your life agreed to a thing you could not close. There is a date on it, or a cap, or a named counterparty, and usually all three." Georgij did not stop anywhere. "I am asking for the one that has none of them, in a form that cannot be enforced and cannot be shown to anybody, so that you carry the whole of it and I carry none of it."
 
 Annie was quiet for about eight seconds.
-
-* * *
 
 "There is a second half of that price and you have not said it," she said, and there was no accusation anywhere in it. "A man who is free and stays can afterwards stand in any room he likes and say that this house kept him. Since February there is no document on earth that would contradict him."
 
@@ -1423,8 +1409,6 @@ Annie was quiet for about eight seconds.
 
 "I have no answer to that which is not an argument," said Georgij, "and you would hear an argument. So I am not going to make one."
 
-* * *
-
 She got up.
 
 She did not come round the desk, and she did not go to the window, and she did nothing at all with her hands.
@@ -1435,8 +1419,6 @@ She did not come round the desk, and she did not go to the window, and she did n
 
 "You are mine."
 
-* * *
-
 Georgij did not say anything at all.
 
 "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not changed anywhere in the whole of it. "And I am not going to say it in a way that lets either of us call it something else in August. Build on this one."
@@ -1444,8 +1426,6 @@ Georgij did not say anything at all.
 "Yes, Mistress."
 
 "Now come here."
-
-* * *
 
 He went round the desk.
 
@@ -1461,11 +1441,7 @@ She has done that once before in her life. It was the twenty-ninth of December, 
 
 After a while her thumb went once along his cheekbone and stopped, and neither of them said anything for some time, and the house did the things a house does at ten in the evening.
 
-* * *
-
 He went downstairs at about eleven and worked until twenty past one, because that was what the rest of the evening was for and neither of them was going to pretend otherwise.
-
-* * *
 
 What he did afterwards, on the Monday night, was the other half.
 

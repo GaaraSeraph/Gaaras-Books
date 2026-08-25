@@ -3663,7 +3663,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.7) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.9) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -17004,15 +17004,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:206 | "So no," said Annie. |
 | 5 | b2ch06:228 | "And it uses the corridor," said Annie. |
 | 5 | b2ch06:246 | He did it that evening. It took seven minutes. It cost precisely what he had said it wou.. |
-| 5 | b2ch06:254 | "It is the sixteenth of March," said Annie. |
-| 5 | b2ch06:290 | Annie sat back. |
-| 5 | b2ch06:318 | Annie did not help him. |
-| 5 | b2ch06:330 | "That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on." |
-| 5 | b2ch06:350 | Annie did not move at all. |
-| 5 | b2ch06:378 | Annie was quiet for about eight seconds. |
-| 5 | b2ch06:414 | "On the eleventh I told you that I would not say a thing twice and that you were not to .. |
-| 5 | b2ch06:430 | "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not c.. |
-| 5 | b2ch06:450 | Annie looked at him from where she was for a moment and did not tell him to move. |
+| 5 | b2ch06:252 | "It is the sixteenth of March," said Annie. |
+| 5 | b2ch06:270 | Annie sat back. |
+| 5 | b2ch06:284 | Annie did not help him. |
+| 5 | b2ch06:290 | "That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on." |
+| 5 | b2ch06:300 | Annie did not move at all. |
+| 5 | b2ch06:314 | Annie was quiet for about eight seconds. |
+| 5 | b2ch06:332 | "On the eleventh I told you that I would not say a thing twice and that you were not to .. |
+| 5 | b2ch06:340 | "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not c.. |
+| 5 | b2ch06:350 | Annie looked at him from where she was for a moment and did not tell him to move. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |
@@ -17553,8 +17553,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch05:242` (Tag 60) - four
 - `b2ch05:258` (Tag 60) - one
 - `b2ch06:246` (Tag 5) - seven
-- `b2ch06:378` (Tag 5) - eight
-- `b2ch06:430` (Tag 5) - one
+- `b2ch06:314` (Tag 5) - eight
+- `b2ch06:340` (Tag 5) - one
 - `b2ch07:82` (Tag 7) - one
 - `b2ch07:162` (Tag 7) - one
 - `b2ch09:38` (Tag 9) - one, two

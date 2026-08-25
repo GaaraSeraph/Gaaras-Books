@@ -1,5 +1,5 @@
 # Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -249,227 +249,115 @@ He did it that evening. It took seven minutes. It cost precisely what he had sai
 
 She was still in the small room when he came back, which she had no reason to be.
 
----
-
 "It is the sixteenth of March," said Annie.
-
----
 
 Georgij stopped just inside the door.
 
----
-
 "Yes, Mistress."
-
----
 
 "On the sixteenth of December I told you that I would ask you again, and that you would not be able to say it was not the moment." She did not get up. "It is the moment. Ask me for something."
 
-* * *
-
 He did not go round the desk.
-
----
 
 He has gone down onto that carpet every evening for five days without a word being said about it. He stayed on his feet, because a man who asks for a thing from the floor is not asking for it.
 
----
-
 "On the first of March I told you I was afraid of Tuesdays," he said.
-
----
 
 "You did."
 
----
-
 "I have had it every day since and it has not once got smaller."
-
-* * *
 
 Annie sat back.
 
----
-
 "You gave me half of it on the first and I could not answer the half you gave me," she said. "Give me the rest."
-
----
 
 "Before the nineteenth of February, being finished with me would have cost you weeks." He kept his hands at his sides. "A price. A room. People who would have had to be in it and a man like the one who was here at ten. Nine mornings of watching it happen, and somewhere around the ninth you might have found that you did not want to."
 
----
-
 "And now there is nothing to sell."
-
----
 
 "Now you can do it on a Tuesday, in a hall, between two other things, and it is finished before you get to the end of the sentence."
 
-* * *
-
 The small room did what a room does at half past nine.
-
----
 
 "You paid seven weeks for that," said Georgij, "and four mornings in that building, and the third one was not about money. You did not know that was what you were buying." He did not soften any of it. "I knew on the morning you told me, and I said the cheap half of it and let you off, and I have let you off for fifteen days."
 
----
-
 Annie did not help him.
-
----
 
 "Then ask."
 
----
-
 "Take Tuesday off me."
-
-* * *
 
 "That is a feeling and I do not buy those," said Annie. "Put it in a form I can act on."
 
----
-
 Georgij stood in the middle of a small room and did the only thing left.
-
----
 
 "Say that I am yours."
 
----
-
 "There is nothing to write that on."
-
----
 
 "No, and that is the whole of what I am asking for."
 
-* * *
-
 Annie did not move at all.
-
----
 
 "In December I could not ask you," said Georgij. "You owned me. It would have been a slave asking not to be sold, and you would have had to answer it as one, and whatever you said afterwards would have been mine and not yours."
 
----
-
 "And tonight."
-
----
 
 "Tonight there is no paper on either side and I can walk out of this house on any morning I choose." He held her eye. "If you say it now, it is a thing you decided."
 
-* * *
-
 "There is a price in it and I am going to say it, because you would say it to me."
-
----
 
 "Say it."
 
----
-
 "You have never in your life agreed to a thing you could not close. There is a date on it, or a cap, or a named counterparty, and usually all three." Georgij did not stop anywhere. "I am asking for the one that has none of them, in a form that cannot be enforced and cannot be shown to anybody, so that you carry the whole of it and I carry none of it."
-
----
 
 Annie was quiet for about eight seconds.
 
-* * *
-
 "There is a second half of that price and you have not said it," she said, and there was no accusation anywhere in it. "A man who is free and stays can afterwards stand in any room he likes and say that this house kept him. Since February there is no document on earth that would contradict him."
-
----
 
 "That is correct."
 
----
-
 "You are asking me to hand you that and then trust you with it."
-
----
 
 "Yes."
 
----
-
 "Say why I would."
-
----
 
 "I have no answer to that which is not an argument," said Georgij, "and you would hear an argument. So I am not going to make one."
 
-* * *
-
 She got up.
-
----
 
 She did not come round the desk, and she did not go to the window, and she did nothing at all with her hands.
 
----
-
 "On the eleventh I told you that I would not say a thing twice and that you were not to build anything on it," said Annie.
-
----
 
 "I remember it."
 
----
-
 "You are mine."
-
-* * *
 
 Georgij did not say anything at all.
 
----
-
 "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not changed anywhere in the whole of it. "And I am not going to say it in a way that lets either of us call it something else in August. Build on this one."
-
----
 
 "Yes, Mistress."
 
----
-
 "Now come here."
-
-* * *
 
 He went round the desk.
 
----
-
 He did not go to the side of it where he sits. He went down in front of her, where she was standing, which is a different place and which he has never done.
-
----
 
 Annie looked at him from where she was for a moment and did not tell him to move.
 
----
-
 Then she put her hand along the side of his face, cool from the room, the heel of it just under the bone.
-
----
 
 He turned his head into it about an inch, which was the whole of what he did, and he did not say anything.
 
----
-
 She has done that once before in her life. It was the twenty-ninth of December, in a hall, on her way past, and neither of them has ever mentioned it since.
-
----
 
 After a while her thumb went once along his cheekbone and stopped, and neither of them said anything for some time, and the house did the things a house does at ten in the evening.
 
-* * *
-
 He went downstairs at about eleven and worked until twenty past one, because that was what the rest of the evening was for and neither of them was going to pretend otherwise.
-
-* * *
 
 What he did afterwards, on the Monday night, was the other half.
 
@@ -477,13 +365,9 @@ A settlement that never happened is still a fact about somebody. A house that do
 
 The house has an owner. The owner is a fund, and the fund is four companies deep, and the fourth one is registered at an address in Jung-gu that also holds nine others.
 
----
-
 He knew the shape of it before he was through the second layer.
 
 He had seen it twice in the autumn, both times from underneath, both times without anybody's name at the end of it. It is not the ordinary kind of nesting. Somebody had built it to be dull, and had gone to a great deal of trouble to make each individual step look like the sort of thing a lazy accountant does.
-
----
 
 So he stopped.
 
