@@ -132,6 +132,7 @@ Halsband an und nie an das Halsband selbst.**
 | 1 | B1 33 | Mo 29. Dezember | **Das wirklich erste Mal, und es fehlte hier.** *"It came round and settled along the side of his face, cool from the room, the heel of it just under the bone."* |
 | 2 | B1 34 | Februar | Zusammenfassend, keine Szene. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
 | 3 | B1 34 | So 1. März | Am Fenster, nachdem er von sich aus heruntergegangen ist. *"Annie's hand came down on the back of his head and stayed there."* |
+| 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
@@ -202,10 +203,14 @@ sehen, wie selten es ist.
 | | Kapitel | Tag | Was |
 |---|---|---|---|
 | 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
-| 2 | **B2 6** | **Mo 16. März** | **Er nimmt zum ersten Mal ihre Hand.** *"Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there."* Der Text zählt es selbst gegen den 1. März: *"nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either."* Ihre Antwort ist ein Daumen über den Wangenknochen, einmal. |
 
-**Zwei in sechs Monaten, und beide nach dem teuersten Satz der jeweiligen
-Szene.** Wer eine dritte schreibt, muss wissen, dass sie die dritte ist.
+**Es gibt genau einen Eintrag, und das ist die Regel.** In einer Zwischenfassung
+von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
+sie nicht an, sie fasst ihn an.** Was er tut, ist hineindrehen - einen Zoll, und
+nicht mehr (Register C 3b).
+
+**Wer je eine zweite schreibt, schreibt die zweite in zwei Bänden**, und sie muss
+so viel wiegen wie der 1. März.
 
 ---
 

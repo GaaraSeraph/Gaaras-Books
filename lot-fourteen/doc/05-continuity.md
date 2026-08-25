@@ -852,7 +852,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.5) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.6) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -922,12 +922,16 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   - **Register A 3b:** er bittet **im Stehen** und geht erst hinunter, als sie
     *"Now come here"* sagt. Das ist die Umkehrung von Register A 9 am 4. Juni, wo
     **sie** vor der Antwort heruntergeht.
-  - **REGISTER F, NEU:** danach nimmt er ihre Hand vom Sessel und legt die Seite
-    seines Gesichts hinein. **Es ist erst das zweite Mal in sechs Monaten, dass er
-    von sich aus etwas tut** - das erste war der 1. Maerz auf dem Boden am
-    Fenster, und der Text zaehlt es selbst gegen jenen Abend. Ihre Antwort ist
-    ein Daumen ueber den Wangenknochen, einmal. **In der ersten Fassung fasste sie
-    ihn nicht an, und das war meine Zurueckhaltung und nicht seine.**
+  - **REGISTER C 3b:** danach legt **sie** ihre Hand an die Seite seines
+    Gesichts, *"cool from the room, the heel of it just under the bone"* - und das
+    ist woertlich der **29. Dezember**, drei Monate nach dem Gespraech, das sie
+    hier einloest. Der Text zaehlt es selbst: *"She has done that once before in
+    her life... and neither of them has ever mentioned it since."* Er dreht den
+    Kopf um etwa einen Zoll hinein, mehr nicht.
+  - **Zwei Fassungen sind vorher verworfen worden, beide vom Autor:** in v1.4
+    fasste sie ihn ueberhaupt nicht an (*"and that was correct"*) - das war meine
+    Zurueckhaltung und nicht seine. In v1.5 nahm **er** ihre Hand - **und er fasst
+    sie nicht an.** Die Bewegung gehoert ihr, immer; er dreht sich hinein.
   - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
     Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
   - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.

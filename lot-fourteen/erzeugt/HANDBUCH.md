@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 256.925 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 257.023 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -3662,7 +3662,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist koerperlich und ohne Preis.** Er geht um den Schreibtisch und auf den Teppich, *"which has stopped needing a word between them"*, und ihre Hand bleibt diesmal liegen. Und die Zeile, die auf der Treppe faellt: **Sie hat ihn nicht gefragt, ob er es ihr gesagt haette, wenn Jang in der Kueche gewesen waere.** Sie hat entschieden, es nicht herauszufinden.
 
-- **Band 2, Kapitel 6** *I have to ask* (v1.5) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
+- **Band 2, Kapitel 6** *I have to ask* (v1.6) - **Tag 164, Mo 16. Maerz. Vier Szenen: die Vorbereitung rueckblickend, das Auktionshaus, das Haus am Abend, und die Nacht.**
 
   **Er benutzt die Tuer aus Kapitel 4, und der Ort ist geladen.** Das Haus ist das Gebaeude am Fluss, in dem er im Oktober **im Keller** stand, vier Stunden, mit einer Nummer an sich. Er kommt zum ersten Mal vorne herein. Und es ist der eine Ort der Stadt, an dem ein Schreiber mit einem Terminal in unter einer Minute nachsehen kann, was hinter dem Halsband steht - **naemlich nichts.** *"He went in anyway. There was no version of the month in which he did not."*
 
@@ -3732,12 +3732,16 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   - **Register A 3b:** er bittet **im Stehen** und geht erst hinunter, als sie
     *"Now come here"* sagt. Das ist die Umkehrung von Register A 9 am 4. Juni, wo
     **sie** vor der Antwort heruntergeht.
-  - **REGISTER F, NEU:** danach nimmt er ihre Hand vom Sessel und legt die Seite
-    seines Gesichts hinein. **Es ist erst das zweite Mal in sechs Monaten, dass er
-    von sich aus etwas tut** - das erste war der 1. Maerz auf dem Boden am
-    Fenster, und der Text zaehlt es selbst gegen jenen Abend. Ihre Antwort ist
-    ein Daumen ueber den Wangenknochen, einmal. **In der ersten Fassung fasste sie
-    ihn nicht an, und das war meine Zurueckhaltung und nicht seine.**
+  - **REGISTER C 3b:** danach legt **sie** ihre Hand an die Seite seines
+    Gesichts, *"cool from the room, the heel of it just under the bone"* - und das
+    ist woertlich der **29. Dezember**, drei Monate nach dem Gespraech, das sie
+    hier einloest. Der Text zaehlt es selbst: *"She has done that once before in
+    her life... and neither of them has ever mentioned it since."* Er dreht den
+    Kopf um etwa einen Zoll hinein, mehr nicht.
+  - **Zwei Fassungen sind vorher verworfen worden, beide vom Autor:** in v1.4
+    fasste sie ihn ueberhaupt nicht an (*"and that was correct"*) - das war meine
+    Zurueckhaltung und nicht seine. In v1.5 nahm **er** ihre Hand - **und er fasst
+    sie nicht an.** Die Bewegung gehoert ihr, immer; er dreht sich hinein.
   - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
     Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
   - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.
@@ -11613,6 +11617,7 @@ Halsband an und nie an das Halsband selbst.**
 | 1 | B1 33 | Mo 29. Dezember | **Das wirklich erste Mal, und es fehlte hier.** *"It came round and settled along the side of his face, cool from the room, the heel of it just under the bone."* |
 | 2 | B1 34 | Februar | Zusammenfassend, keine Szene. *"a woman who refused him gently, twice, about work, and then put her hand on the back of his neck in an empty hall on her way past."* |
 | 3 | B1 34 | So 1. März | Am Fenster, nachdem er von sich aus heruntergegangen ist. *"Annie's hand came down on the back of his head and stayed there."* |
+| 3b | **B2 6** | **Mo 16. März** | **Die Dezembergeste zum zweiten und bisher letzten Mal**, nach *"Build on this one"*. *"Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone."* Wörtlich der 29. Dezember, und der Text zählt es selbst: *"She has done that once before in her life... and neither of them has ever mentioned it since."* Er dreht den Kopf um etwa einen Zoll hinein, mehr nicht. |
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* — **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
@@ -11683,10 +11688,14 @@ sehen, wie selten es ist.
 | | Kapitel | Tag | Was |
 |---|---|---|---|
 | 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
-| 2 | **B2 6** | **Mo 16. März** | **Er nimmt zum ersten Mal ihre Hand.** *"Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there."* Der Text zählt es selbst gegen den 1. März: *"nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either."* Ihre Antwort ist ein Daumen über den Wangenknochen, einmal. |
 
-**Zwei in sechs Monaten, und beide nach dem teuersten Satz der jeweiligen
-Szene.** Wer eine dritte schreibt, muss wissen, dass sie die dritte ist.
+**Es gibt genau einen Eintrag, und das ist die Regel.** In einer Zwischenfassung
+von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
+sie nicht an, sie fasst ihn an.** Was er tut, ist hineindrehen - einen Zoll, und
+nicht mehr (Register C 3b).
+
+**Wer je eine zweite schreibt, schreibt die zweite in zwei Bänden**, und sie muss
+so viel wiegen wie der 1. März.
 
 ---
 
@@ -16835,7 +16844,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch06:378 | Annie was quiet for about eight seconds. |
 | 5 | b2ch06:414 | "On the eleventh I told you that I would not say a thing twice and that you were not to .. |
 | 5 | b2ch06:430 | "It has no end on it and there is no Tuesday in it," said Annie, and her voice had not c.. |
-| 5 | b2ch06:454 | Annie let him. |
+| 5 | b2ch06:446 | Annie put her hand along the side of his face, cool from the room, the heel of it just u.. |
 | 7 | b2ch07:82 | Annie was standing behind the desk with her arms folded and she did not say anything at .. |
 | 7 | b2ch07:116 | "Who gave it to her," said Annie. |
 | 7 | b2ch07:140 | "I said something about her on the seventh," said Annie. |

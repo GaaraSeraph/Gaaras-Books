@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 75 Kapitel, 187.354 Woerter.
+Book Two, 75 Kapitel, 187.349 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v1.3 | 2.016 |
 | 04 | v1.9 | 2.734 |
 | 05 | v1.9 | 2.833 |
-| 06 | v1.5 | 3.503 |
+| 06 | v1.6 | 3.498 |
 | 07 | v1.5 | 2.305 |
 | 08 | v1.8 | 3.155 |
 | 09 | v2.6 | 2.525 |
@@ -1127,7 +1127,7 @@ She had decided not to find out. On the eleventh of March, about a man who has n
 ---
 
 # Book Two · Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -1449,11 +1449,11 @@ Georgij did not say anything at all.
 
 He went round the desk and down onto the carpet at her feet.
 
-Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there.
+Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone.
 
-He did not do anything else with it and he did not say anything, and nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either.
+He turned his head into it about an inch, which was the whole of what he did, and he did not say anything.
 
-Annie let him.
+She has done that once before in her life. It was the twenty-ninth of December, in a hall, on her way past, and neither of them has ever mentioned it since.
 
 After a while her thumb went once along his cheekbone and stopped, and neither of them said anything for some time, and the house did the things a house does at ten in the evening.
 

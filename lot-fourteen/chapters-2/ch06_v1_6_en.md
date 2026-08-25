@@ -1,5 +1,5 @@
 # Chapter 6: I have to ask
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day One Hundred and Sixty-Four · Monday 16 March
 
@@ -443,15 +443,15 @@ He went round the desk and down onto the carpet at her feet.
 
 ---
 
-Then he took her hand off the arm of the chair and put the side of his face against the palm of it and held it there.
+Annie put her hand along the side of his face, cool from the room, the heel of it just under the bone.
 
 ---
 
-He did not do anything else with it and he did not say anything, and nobody in that room had asked for it. The last time he did a thing of that kind was the first of March, on a floor at a window, and nobody had asked for that either.
+He turned his head into it about an inch, which was the whole of what he did, and he did not say anything.
 
 ---
 
-Annie let him.
+She has done that once before in her life. It was the twenty-ninth of December, in a hall, on her way past, and neither of them has ever mentioned it since.
 
 ---
 
