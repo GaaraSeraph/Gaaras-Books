@@ -2494,24 +2494,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 8 | b2ch53:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
 | 8 | b2ch53:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
-| 8 | b2ch53:58 | Mr Yeom put down what he was holding. |
-| 8 | b2ch53:82 | "That is not what I expected you to say," said Mr Yeom. |
-| 8 | b2ch53:98 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
-| 8 | b2ch53:122 | Mr Yeom did not move at all. |
-| 8 | b2ch53:142 | Mr Yeom looked at the table for a long moment. |
-| 8 | b2ch53:174 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
-| 8 | b2ch53:194 | Mr Yeom looked at him. |
-| 8 | b2ch53:210 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
-| 8 | b2ch53:230 | Mr Yeom went very still. |
-| 8 | b2ch53:246 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
-| 8 | b2ch53:270 | Mr Yeom stood up. |
-| 8 | b2ch53:302 | Mr Yeom put one hand on the window frame. |
-| 8 | b2ch53:330 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
-| 8 | b2ch53:338 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
-| 8 | b2ch53:354 | Mr Yeom looked at him. |
-| 8 | b2ch53:366 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
-| 8 | b2ch53:386 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
-| 8 | b2ch53:398 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
+| 8 | b2ch53:54 | Mr Yeom put down what he was holding. |
+| 8 | b2ch53:78 | "That is not what I expected you to say," said Mr Yeom. |
+| 8 | b2ch53:94 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
+| 8 | b2ch53:114 | Mr Yeom did not move at all. |
+| 8 | b2ch53:134 | Mr Yeom looked at the table for a long moment. |
+| 8 | b2ch53:166 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
+| 8 | b2ch53:186 | Mr Yeom looked at him. |
+| 8 | b2ch53:198 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
+| 8 | b2ch53:218 | Mr Yeom went very still. |
+| 8 | b2ch53:234 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
+| 8 | b2ch53:254 | Mr Yeom stood up. |
+| 8 | b2ch53:286 | Mr Yeom put one hand on the window frame. |
+| 8 | b2ch53:310 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
+| 8 | b2ch53:318 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
+| 8 | b2ch53:334 | Mr Yeom looked at him. |
+| 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
+| 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
+| 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
 | 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
 | 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
@@ -2537,10 +2537,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:80` (Tag 46) - thirty
 - `b2ch41:164` (Tag 5) - four
 - `b2ch53:14` (Tag 8) - four
-- `b2ch53:210` (Tag 8) - three
-- `b2ch53:302` (Tag 8) - one
-- `b2ch53:330` (Tag 8) - one, two
-- `b2ch53:338` (Tag 8) - four
+- `b2ch53:198` (Tag 8) - three
+- `b2ch53:286` (Tag 8) - one
+- `b2ch53:310` (Tag 8) - one, two
+- `b2ch53:318` (Tag 8) - four
 - `b2ch54:154` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:142` (Tag 16) - four, seven
@@ -2582,24 +2582,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch53:6 | On the seventeenth of June he had written down that Mr Yeom would be told. Not that week.. |
 | 8 | b2ch53:14 | And the thing that had made the whole of it impossible in June has gone, because there i.. |
 | 8 | b2ch53:22 | Mr Yeom was in the same room as in May, with the same table, and he did not look surpris.. |
-| 8 | b2ch53:58 | Mr Yeom put down what he was holding. |
-| 8 | b2ch53:82 | "That is not what I expected you to say," said Mr Yeom. |
-| 8 | b2ch53:98 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
-| 8 | b2ch53:122 | Mr Yeom did not move at all. |
-| 8 | b2ch53:142 | Mr Yeom looked at the table for a long moment. |
-| 8 | b2ch53:174 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
-| 8 | b2ch53:194 | Mr Yeom looked at him. |
-| 8 | b2ch53:210 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
-| 8 | b2ch53:230 | Mr Yeom went very still. |
-| 8 | b2ch53:246 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
-| 8 | b2ch53:270 | Mr Yeom stood up. |
-| 8 | b2ch53:302 | Mr Yeom put one hand on the window frame. |
-| 8 | b2ch53:330 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
-| 8 | b2ch53:338 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
-| 8 | b2ch53:354 | Mr Yeom looked at him. |
-| 8 | b2ch53:366 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
-| 8 | b2ch53:386 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
-| 8 | b2ch53:398 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
+| 8 | b2ch53:54 | Mr Yeom put down what he was holding. |
+| 8 | b2ch53:78 | "That is not what I expected you to say," said Mr Yeom. |
+| 8 | b2ch53:94 | Mr Yeom sat with both hands flat on either side of his plate for a while. |
+| 8 | b2ch53:114 | Mr Yeom did not move at all. |
+| 8 | b2ch53:134 | Mr Yeom looked at the table for a long moment. |
+| 8 | b2ch53:166 | Mr Yeom did not answer that, and then he pushed his plate an inch away from himself, whi.. |
+| 8 | b2ch53:186 | Mr Yeom looked at him. |
+| 8 | b2ch53:198 | "There was a third thing," said Mr Yeom, after a while. "You said three." |
+| 8 | b2ch53:218 | Mr Yeom went very still. |
+| 8 | b2ch53:234 | Mr Yeom did not say anything for a long time, and when he did his voice was not what it .. |
+| 8 | b2ch53:254 | Mr Yeom stood up. |
+| 8 | b2ch53:286 | Mr Yeom put one hand on the window frame. |
+| 8 | b2ch53:310 | "So I am going to do the other thing." Mr Yeom put both hands on the table. "I took a po.. |
+| 8 | b2ch53:318 | "I did not ask why they wanted the house," said Mr Yeom. "I have told you that already a.. |
+| 8 | b2ch53:334 | Mr Yeom looked at him. |
+| 8 | b2ch53:342 | At the door, Georgij stopped, and it was Mr Yeom who spoke first. |
+| 8 | b2ch53:362 | "You were in this house in May and you had a rule and you kept it, and today you came ba.. |
+| 8 | b2ch53:374 | "Yes," said Mr Yeom. "I know. I only wanted to hear whether you would say so." |
 | 10 | b2ch54:154 | He telephoned Mr Yeom at four in the afternoon and did not go, and did not eat anything,.. |
 | 10 | b2ch54:174 | "Change *supply* to *furnish*," said Mr Yeom. |
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
@@ -2621,10 +2621,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:80` (Tag 46) - thirty
 - `b2ch41:164` (Tag 5) - four
 - `b2ch53:14` (Tag 8) - four
-- `b2ch53:210` (Tag 8) - three
-- `b2ch53:302` (Tag 8) - one
-- `b2ch53:330` (Tag 8) - one, two
-- `b2ch53:338` (Tag 8) - four
+- `b2ch53:198` (Tag 8) - three
+- `b2ch53:286` (Tag 8) - one
+- `b2ch53:310` (Tag 8) - one, two
+- `b2ch53:318` (Tag 8) - four
 - `b2ch54:154` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:142` (Tag 16) - four, seven
@@ -2817,7 +2817,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:110 | "He asked Mrs Bae one question, and it was what I looked like. If a man in that position.. |
 | 5 | b2ch52:26 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 5 | b2ch52:338 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
-| 8 | b2ch53:170 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
+| 8 | b2ch53:162 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
 
 ### Zahlen in der Naehe von Bae
 
@@ -2836,7 +2836,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch51:110` (Tag 3) - one, twelve
 - `b2ch52:26` (Tag 5) - ten
 - `b2ch52:338` (Tag 5) - thirty
-- `b2ch53:170` (Tag 8) - forty, four, one, two
+- `b2ch53:162` (Tag 8) - forty, four, one, two
 
 ---
 
