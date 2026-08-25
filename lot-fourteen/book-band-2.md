@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 80 Kapitel, 198.357 Woerter.
+Book Two, 80 Kapitel, 198.416 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -72,7 +72,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 59 | v1.4 | 2.177 |
 | 60 | v1.3 | 2.443 |
 | 61 | v1.4 | 2.327 |
-| 62 | v1.7 | 2.440 |
+| 62 | v1.8 | 2.499 |
 | 63 | v1.5 | 2.136 |
 | 64 | v1.5 | 2.246 |
 | 65 | v1.5 | 2.130 |
@@ -13244,7 +13244,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13390,9 +13390,7 @@ Annie did not sit back again.
 
 "And you have. Five months later, in a chair, while I was telling you what I had done to you." She let that stand where it was. "You could not have picked a worse afternoon for it and you did not pick it at all, which is why I am still sitting here."
 
-She turned the pen a quarter turn on the desk and left it where it was.
-
-"I said it with no end on it and no Tuesday in it. I said I would not have either of us calling it something else in August." Her voice was where it had been all evening. "It is the twenty-third."
+"I said it with no end on it and no Tuesday in it. I said I would not have either of us calling it something else in August." Her hands had not moved anywhere. "It is the twenty-third."
 
 "I know what the date is," said Georgij.
 
@@ -13400,13 +13398,19 @@ She turned the pen a quarter turn on the desk and left it where it was.
 
 Georgij did not move.
 
-"But you have answered a question about permission," said Annie, "and I did not ask one."
+"You have answered a question about permission," said Annie, "and I did not ask one."
 
 "No, Mistress."
 
-"I have never once wondered whether I was allowed to use you." She said it without any weight on it at all. "You were in this and you did not know you were in it, and there is nothing I said in March that covers that. You have just gone looking for a sentence that would, which is the first time you have done my work for me."
+"In March you asked me for it because you were free, and you said that was the whole of what made it worth having. It was a thing you decided." She came forward in the chair. "Nobody decides a thing nobody has told him."
 
-Neither of them said anything for a while.
+Georgij looked at the edge of the desk.
+
+"So it does not reach this, and you have spent the last minute looking for a sentence that would, which is my work and not yours."
+
+She stopped there and did not go straight on.
+
+"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in five months. I had twenty-three years and a chair at it."
 
 Somewhere below them a door was shut carefully by somebody who did not want to be heard shutting it.
 
