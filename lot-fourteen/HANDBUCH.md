@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 12 Dokumente am Stueck plus das Begegnungsregister. 193.903 Woerter.
+Alle 12 Dokumente am Stueck plus das Begegnungsregister. 194.081 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2240,7 +2240,8 @@ Er beschafft die Liste selbst und legt die Datei auf dieser Maschine ab. Wer kom
 
 ### Die Pipeline
 
-**Kanon ab Kapitel 6, aber im Text noch nicht ausgesprochen.**
+**Kanon ab Kapitel 6. Seit dem 2. Maerz im Text ausgesprochen** - siehe den
+Nachtrag am Ende dieses Abschnitts.
 
 Annie hat den Jungen gekauft. Sie hat auch den Namen des Garanten geholt, weil Georgij ihr gesagt hat, dass das Fenster drei Wochen offen steht, und sie verschwendet nichts. Das erklärt rückwirkend, warum sie ihm die Gästeliste verweigern kann und trotzdem vorne liegt: Sie prüft seine Arbeit gegen etwas, das sie längst besitzt.
 
@@ -2250,7 +2251,25 @@ Annie hat den Jungen gekauft. Sie hat auch den Namen des Garanten geholt, weil G
 
 **Wichtig: Georgij hat sich nicht verzählt.** Die Leute in der Vorbereitung sind nicht auf dem Anwesen. Er hat an Tag sechs richtig gezählt, was da war. Woher jemand vorher kam, steht in keinem Haushalt an der Wand, und danach fragt man nicht. Der einzige Mensch, der in drei Wochen überhaupt nach dem Vorher gefragt hat, ist Eun-ju, und zwar ihn, zweimal.
 
-**Was der Text bisher zeigt:** Der neue Katalog am Morgen der Gala führt dreiundzwanzig Lose und den Jungen nicht. Zurückgezogen oder verkauft, und ein Katalog druckt weder das eine noch das andere. Annie sagt dazu ein einziges Wort, und das Wort ist "No".
+**Was der Text in Band 1 zeigte:** Der neue Katalog am Morgen der Gala führt dreiundzwanzig Lose und den Jungen nicht. Zurückgezogen oder verkauft, und ein Katalog druckt weder das eine noch das andere. Annie sagt dazu ein einziges Wort, und das Wort ist "No".
+
+**Ausgesprochen, nachgetragen am 25.08.** Der Abschnitt oben stand fuenf Monate
+Erzaehlzeit lang auf *noch nicht ausgesprochen*. Das gilt seit **Band 2, Kapitel 1,
+dem 2. Maerz**: auf der letzten Seite des aufgeraeumten Katalogs findet Georgij
+**elf und vierzehn, vier Zeilen auseinander**, mit denselben drei Worten dagegen.
+Annie bestaetigt es in demselben Gespraech mit *"I know which two they are."*
+Ganz offen liegt es in **Kapitel 29**: *"There is a woman who bought two people on
+the fourth of October."*
+
+**Die Anweisung von damals hat gehalten.** *Wenn er es erfaehrt, darf das keine
+Erleichterung sein* - und es ist keine. Er sagt die zwei Nummern, sie sagt, dass
+sie weiss welche, und beide gehen sofort dazu ueber, was die Seite gefaehrlich
+macht. Kein einziger Satz ueber den Jungen.
+
+**Der Faden ist deshalb nicht geschlossen, sondern erst offen.** Er laeuft weiter
+bis mindestens **Kapitel 53, dem 4. August**: *"The boy," said Georgij. "Lot
+eleven, in October. Byun came to you in February about that one because it
+frightened him."*
 
 ---
 
