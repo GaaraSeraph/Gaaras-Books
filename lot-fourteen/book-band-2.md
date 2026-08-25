@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 68 Kapitel, 168.616 Woerter.
+Book Two, 68 Kapitel, 168.618 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -19,7 +19,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 06 | v1.2 | 2.421 |
 | 07 | v1.4 | 2.319 |
 | 08 | v1.7 | 3.175 |
-| 09 | v2.4 | 2.549 |
+| 09 | v2.5 | 2.551 |
 | 10 | v2.2 | 2.218 |
 | 11 | v2.4 | 2.525 |
 | 12 | v1.7 | 2.945 |
@@ -1807,7 +1807,7 @@ He got home at twenty past eleven and stood in the doorway of the small room. He
 ---
 
 # Book Two · Chapter 9: What you paid for
-*Lot Fourteen* · Version 2.4 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day One Hundred and Sixty-Eight · Friday 20 March
 
@@ -1995,7 +1995,7 @@ Annie sat down again.
 
 "I am going to be able to do something about a clerk. I am not going to be able to do anything about the man."
 
-He had counted the people it would cost before he counted what it would win, and he had counted them out loud.
+She had counted the people it would cost, and he had made the number larger, out loud, before she asked him for the names.
 
 "You have not put the woman in Ulsan on that list," said Annie.
 

@@ -957,7 +957,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
-- **Band 2, Kapitel 9** *What you paid for* (v2.4) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+- **Band 2, Kapitel 9** *What you paid for* (v2.5) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
 
   **Fassung 1 wurde am 23.08. verworfen, und der Grund gilt fuer 9 bis 11 zusammen.** Elf Kapitel lang endete keines damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben Muster: zahlen, die Haelfte bekommen, dafuer geprueft werden. **Das ist kein Bogen, das ist eine Ratsche.** Und es widerspricht der Praemisse - er hat in Band 1 Park Sang-hoon geschlagen. Die Regel aus 2h heisst, dass **das Repertoire** stumpf wird, nicht der Mann.
 
@@ -3109,6 +3109,88 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Die Erzaehlerkommentare, Band 2 und Band 1 - inhaltlich durch (25.08.)
+
+Die Stilsitzung hat in beide Baende **Erzaehlerkommentare** eingesetzt: Saetze,
+die benennen, was eine Szene zurueckhaelt. **Jeder davon ist eine neue
+Tatsachenbehauptung des Erzaehlers**, und der Erzaehler wiegt schwerer als eine
+Figur - was eine Figur sagt, darf ungenau sein, was der Erzaehler sagt, ist im
+Buch wahr.
+
+**Grundlage war nicht das Protokoll, sondern der Diff.** Ausgangsstand
+`14a893e`, jede lebende Fassung dagegen gehalten: **56 eingesetzte Saetze** in
+29 Kapiteln. Vier Fehlerarten geprueft: falsche Zahl, erfundenes Motiv,
+unmoegliches Wissen, falsche Zuschreibung.
+
+### Ein Fund, und er ist doppelt falsch
+
+**Band 2, Kapitel 9** (Fr 20. Maerz). Eingesetzt stand:
+
+> *"He had counted the people it would cost before he counted what it would
+> win, and he had counted them out loud."*
+
+Die Szene laeuft andersherum, und sie laeuft ueber eine andere Person:
+
+1. Annie: *"Say the target."*
+2. Georgij zaehlt **den Gewinn** - das Haus ist bis Ende April erledigt, Mrs
+   Sunwoo, *"Inside a season"*, die Seite als *"a photocopy of an allegation"*.
+3. **Erst danach, und von ihr:** *"There are two people who are going to be
+   hurt by this who have not done anything,"* said Annie.
+4. Georgij: *"Three."* - und er benennt sie.
+
+Also: **Gewinn zuerst, Kosten danach**, und **sie** faengt die Zaehlung an; er
+setzt die Zahl nur hoch. Vor Zeile 196 zaehlt niemand Kosten, die Reihenfolge
+laesst sich nirgends retten. Steht jetzt (v2.5):
+
+> *"She had counted the people it would cost, and he had made the number
+> larger, out loud, before she asked him for the names."*
+
+Der Beat bleibt - er korrigiert nach oben und gegen sich selbst -, er steht nur
+nicht mehr auf einer verkehrten Szene.
+
+### Zwei eigene Meldungen, die durch die Gegenpruefung gefallen sind
+
+**Kapitel 61, Woos vier Tage.** Der Erzaehler sagt, Woo habe *"four days
+deciding which of the two people in this house he was entitled to hurt"*
+verbracht; Woo selbst sagt *"I did not telephone you for four days because I
+was waiting for the rest of it."* Das sah nach erfundenem Motiv aus und ist
+keines: **die beiden Saetze messen Verschiedenes.** Woo begruendet, warum er
+nicht *anrief*; der Erzaehler sagt, was die Tage ihn *gekostet* haben - und das
+deckt Woo im selben Kapitel: *"they have been the worst four days I have had
+since my wife"*, dazu *"I am not going to walk into a woman's house and take
+her father off her on a Sunday."* Damit steht auch **die Wahl**: er hat
+Georgij gewaehlt.
+
+**Kapitel 53, das Absolutum.** *"He had never given anybody a date about
+himself."* Dagegen steht Kapitel 35, zu Annie: *"On the first of March I sat
+at a window against your legs... and it was the best evening I have had since I
+was nine years old."* Faellt trotzdem: Kapitel 53 legt die Wendung selbst fest
+- gemeint ist ein **identifizierendes** Datum, *"I am the February one"*. Der
+Satz aus Kapitel 35 ist ein geteilter Abend, kein Ausweis.
+
+### Was die Gegenpruefung sonst umgeworfen hat
+
+Sechs Rohfunde, **einer** hat gehalten. Die fuenf Widerlegungen laufen alle
+ueber dieselbe Mechanik - zwei Angaben, die dasselbe Wort tragen und
+Verschiedenes zaehlen: K23 (*wonach gefragt wurde* gegen *was er gab*), K50
+(*die Kopie heute hertragen* gegen *ihm die Seite gebracht haben*, vor vier
+Jahren), K61, K68 und K53.
+
+### Und die Zahlenketten, die tragen
+
+Die dichteste ist **Kapitel 12 nach Kapitel 20**: er verspricht am 3. April
+*"it will be the true answer and not the one that is easier to say in this
+room"*, und Kapitel 20 sagt *"He had promised her that answer on the third of
+April, and he had brought back the version that cost him something."*
+Ebenfalls belegt: *"In March he told her that his one asset is that other men
+want him"* (K05, 11. Maerz, ihr Satz und seine Bestaetigung) mit *"I mind it
+when the hand is not yours"*; *"In March she told him she had never in her
+life told anybody anything the whole way through"* (K10, 24. Maerz); die neun
+Zeilen in K18; Sims Alter in K68; die sieben Minuten in K63 (Rueckbezug in
+derselben Szene: *"it was not the seven minutes"*).
 
 ---
 

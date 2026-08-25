@@ -2132,7 +2132,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
 | 3 | b2ch40:38 | "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij the sixteen d.. |
 | 3 | b2ch40:42 | "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, m.. |
-| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That's a guess .. |
+| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess.. |
 | 3 | b2ch40:74 | Jang put his finger on a second mark, further up the road. "There is a bus stop with a s.. |
 | 3 | b2ch40:82 | "That the place used to have a sign, years ago, and stopped having one. That the staff a.. |
 | 3 | b2ch40:94 | "He does not know an age. He said older, and he said it the way a man of seventy says ol.. |
@@ -2144,7 +2144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:152 | Georgij looked at the map, still folded, still in Jang's hands. |
 | 3 | b2ch40:160 | "Above the middle of it," said Jang. "Not anywhere near the top." He looked at the folde.. |
 | 3 | b2ch40:172 | "It is both," said Jang. "In this kind of work it is almost always both. The second of t.. |
-| 3 | b2ch40:188 | "I wasn't going to ask, ma'am," said Jang. |
+| 3 | b2ch40:188 | "I was not going to ask, ma'am," said Jang. |
 | 3 | b2ch40:208 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:212 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:262 | Then he turned to Jang, who had sat through all of it with the folded map in both hands... |

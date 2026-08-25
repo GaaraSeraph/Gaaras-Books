@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 14 Dokumente am Stueck plus das Begegnungsregister. 219.611 Woerter.
+Alle 14 Dokumente am Stueck plus das Begegnungsregister. 222.808 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -83,6 +83,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Festgelegte Zeile: das best-made thing](#festgelegte-zeile-das-best-made-thing)
   - [Festgelegte Zeile: was nicht Arbeit war](#festgelegte-zeile-was-nicht-arbeit-war)
   - [Festgelegte Zeile: die zwei Haende, die sich nicht bewegen](#festgelegte-zeile-die-zwei-haende-die-sich-nicht-bewegen)
+  - [Ein Fund, und er ist doppelt falsch](#ein-fund-und-er-ist-doppelt-falsch)
+  - [Zwei eigene Meldungen, die durch die Gegenpruefung gefallen sind](#zwei-eigene-meldungen-die-durch-die-gegenpruefung-gefallen-sind)
+  - [Was die Gegenpruefung sonst umgeworfen hat](#was-die-gegenpruefung-sonst-umgeworfen-hat)
+  - [Und die Zahlenketten, die tragen](#und-die-zahlenketten-die-tragen)
 - [Stoffbloecke](#stoffbloecke)  ·  `doc/06-plot.md`
   - [Blockübersicht gegen den Kanon](#block-bersicht-gegen-den-kanon)
   - [Block A - Das Haus bei Nacht **[GESCHRIEBEN, Kapitel 3]**](#block-a-das-haus-bei-nacht-geschrieben-kapitel-3)
@@ -189,7 +193,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)](#zivilisten-die-gie-erin-nachbarn-ladenpersonal)
   - [Park Sang-hoon (101 Repliken, 26 Kapitel)](#park-sang-hoon-101-repliken-26-kapitel)
   - [Hana Seo-yeon (58 Repliken)](#hana-seo-yeon-58-repliken)
-  - [Kim Ye-rin (17 Repliken)](#kim-ye-rin-17-repliken)
+  - [Kim Ye-rin (17 Repliken im Index - tatsächlich über fünfzig allein in b1 K30)](#kim-ye-rin-17-repliken-im-index-tats-chlich-ber-f-nfzig-allein-in-b1-k30)
   - [Mr Chae (14 Repliken)](#mr-chae-14-repliken)
   - [Mr Kwon (14 Repliken)](#mr-kwon-14-repliken)
   - [Mr Hong (10 Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)](#mr-hong-10-repliken-61-jahre-neunzehn-jahre-derselbe-tisch)
@@ -207,6 +211,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Durchgang Erzaehlerkommentare, Band 1 - Ausgangsstand `6c70e36`](#durchgang-erzaehlerkommentare-band-1-ausgangsstand-6c70e36)
   - [Nachtrag: zwei Entscheidungen des Autors, und eine davon ist ein belegter Fehler](#nachtrag-zwei-entscheidungen-des-autors-und-eine-davon-ist-ein-belegter-fehler)
   - [Alle Unsicher-Punkte durchgeprueft](#alle-unsicher-punkte-durchgeprueft)
+  - [Band 1 vollstaendig durchgegangen - und das Ergebnis ist ein Nicht-Ergebnis](#band-1-vollstaendig-durchgegangen-und-das-ergebnis-ist-ein-nicht-ergebnis)
+  - [Nachtrag zur Pruefsitzung: meine eigenen Zahlen in doc/12](#nachtrag-zur-pruefsitzung-meine-eigenen-zahlen-in-doc-12)
+  - [doc/12 gegengelesen, die gelesenen Blaetter zuerst](#doc-12-gegengelesen-die-gelesenen-blaetter-zuerst)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -3674,7 +3681,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Schluss ist die Rechnung, die nicht aufgeht.** Sie laesst ihn seinen Namen auf die Ecke eines Lieferblocks schreiben, ohne Titel, ohne Haus, ohne Telefonnummer, reisst die Ecke ab und steckt sie in die Manteltasche. **Sie hat seit dem 14. Maerz eine Kopie der Rueckseite mit Los vierzehn darauf. Sie weiss nicht, dass das dasselbe ist.** Und: *"the sort of person who found her in the first place does not do that once and then leave the rest to chance. And on the day she is told, she will remember that she asked for it."*
 
-- **Band 2, Kapitel 9** *What you paid for* (v2.4) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
+- **Band 2, Kapitel 9** *What you paid for* (v2.5) - **Tag 168, Fr 20. Maerz, nachts. Eine Szene, das kleine Zimmer, unmittelbar an Kapitel 8 anschliessend.**
 
   **Fassung 1 wurde am 23.08. verworfen, und der Grund gilt fuer 9 bis 11 zusammen.** Elf Kapitel lang endete keines damit, dass Georgij etwas gewonnen hatte. Jedes lief nach demselben Muster: zahlen, die Haelfte bekommen, dafuer geprueft werden. **Das ist kein Bogen, das ist eine Ratsche.** Und es widerspricht der Praemisse - er hat in Band 1 Park Sang-hoon geschlagen. Die Regel aus 2h heisst, dass **das Repertoire** stumpf wird, nicht der Mann.
 
@@ -4579,7 +4586,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.5) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.6) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -5826,6 +5833,88 @@ entscheidet. Alle drei stehen jetzt auf elf.
 
 **Wer das rueckgaengig machen will, aendert die festgelegte Zeile mit**, sonst
 steht der Widerspruch am selben Abend wieder da.
+
+---
+
+## Die Erzaehlerkommentare, Band 2 und Band 1 - inhaltlich durch (25.08.)
+
+Die Stilsitzung hat in beide Baende **Erzaehlerkommentare** eingesetzt: Saetze,
+die benennen, was eine Szene zurueckhaelt. **Jeder davon ist eine neue
+Tatsachenbehauptung des Erzaehlers**, und der Erzaehler wiegt schwerer als eine
+Figur - was eine Figur sagt, darf ungenau sein, was der Erzaehler sagt, ist im
+Buch wahr.
+
+**Grundlage war nicht das Protokoll, sondern der Diff.** Ausgangsstand
+`14a893e`, jede lebende Fassung dagegen gehalten: **56 eingesetzte Saetze** in
+29 Kapiteln. Vier Fehlerarten geprueft: falsche Zahl, erfundenes Motiv,
+unmoegliches Wissen, falsche Zuschreibung.
+
+### Ein Fund, und er ist doppelt falsch
+
+**Band 2, Kapitel 9** (Fr 20. Maerz). Eingesetzt stand:
+
+> *"He had counted the people it would cost before he counted what it would
+> win, and he had counted them out loud."*
+
+Die Szene laeuft andersherum, und sie laeuft ueber eine andere Person:
+
+1. Annie: *"Say the target."*
+2. Georgij zaehlt **den Gewinn** - das Haus ist bis Ende April erledigt, Mrs
+   Sunwoo, *"Inside a season"*, die Seite als *"a photocopy of an allegation"*.
+3. **Erst danach, und von ihr:** *"There are two people who are going to be
+   hurt by this who have not done anything,"* said Annie.
+4. Georgij: *"Three."* - und er benennt sie.
+
+Also: **Gewinn zuerst, Kosten danach**, und **sie** faengt die Zaehlung an; er
+setzt die Zahl nur hoch. Vor Zeile 196 zaehlt niemand Kosten, die Reihenfolge
+laesst sich nirgends retten. Steht jetzt (v2.5):
+
+> *"She had counted the people it would cost, and he had made the number
+> larger, out loud, before she asked him for the names."*
+
+Der Beat bleibt - er korrigiert nach oben und gegen sich selbst -, er steht nur
+nicht mehr auf einer verkehrten Szene.
+
+### Zwei eigene Meldungen, die durch die Gegenpruefung gefallen sind
+
+**Kapitel 61, Woos vier Tage.** Der Erzaehler sagt, Woo habe *"four days
+deciding which of the two people in this house he was entitled to hurt"*
+verbracht; Woo selbst sagt *"I did not telephone you for four days because I
+was waiting for the rest of it."* Das sah nach erfundenem Motiv aus und ist
+keines: **die beiden Saetze messen Verschiedenes.** Woo begruendet, warum er
+nicht *anrief*; der Erzaehler sagt, was die Tage ihn *gekostet* haben - und das
+deckt Woo im selben Kapitel: *"they have been the worst four days I have had
+since my wife"*, dazu *"I am not going to walk into a woman's house and take
+her father off her on a Sunday."* Damit steht auch **die Wahl**: er hat
+Georgij gewaehlt.
+
+**Kapitel 53, das Absolutum.** *"He had never given anybody a date about
+himself."* Dagegen steht Kapitel 35, zu Annie: *"On the first of March I sat
+at a window against your legs... and it was the best evening I have had since I
+was nine years old."* Faellt trotzdem: Kapitel 53 legt die Wendung selbst fest
+- gemeint ist ein **identifizierendes** Datum, *"I am the February one"*. Der
+Satz aus Kapitel 35 ist ein geteilter Abend, kein Ausweis.
+
+### Was die Gegenpruefung sonst umgeworfen hat
+
+Sechs Rohfunde, **einer** hat gehalten. Die fuenf Widerlegungen laufen alle
+ueber dieselbe Mechanik - zwei Angaben, die dasselbe Wort tragen und
+Verschiedenes zaehlen: K23 (*wonach gefragt wurde* gegen *was er gab*), K50
+(*die Kopie heute hertragen* gegen *ihm die Seite gebracht haben*, vor vier
+Jahren), K61, K68 und K53.
+
+### Und die Zahlenketten, die tragen
+
+Die dichteste ist **Kapitel 12 nach Kapitel 20**: er verspricht am 3. April
+*"it will be the true answer and not the one that is easier to say in this
+room"*, und Kapitel 20 sagt *"He had promised her that answer on the third of
+April, and he had brought back the version that cost him something."*
+Ebenfalls belegt: *"In March he told her that his one asset is that other men
+want him"* (K05, 11. Maerz, ihr Satz und seine Bestaetigung) mit *"I mind it
+when the hand is not yours"*; *"In March she told him she had never in her
+life told anybody anything the whole way through"* (K10, 24. Maerz); die neun
+Zeilen in K18; Sims Alter in K68; die sieben Minuten in K63 (Rueckbezug in
+derselben Szene: *"it was not the seven minutes"*).
 
 ---
 
@@ -11218,31 +11307,66 @@ sie anwendbar ist:
 
 ### 5. Die Kontraktion ist die Standeslinie, und sie funktioniert schon
 
-**Gemessen am 25.08., Kontraktionen je 1000 Wörter eigener Rede.** Das ist der
-einzige Trenner im Buch, der bereits sauber arbeitet - er stand nur nirgends
-aufgeschrieben, und der nächste mechanische Durchgang hätte ihn eingeebnet:
+**AM 25.08. VOLLSTÄNDIG ZURÜCKGENOMMEN. Was hier stand, war ein Messfehler,
+und der Fehler war meiner.**
 
-| | je 1000 W |
-|---|---|
-| **Mr Ahn** (Handwerker) | **96,6** |
-| **Mrs Seo** (Haushalt) | 17,9 |
-| **Jang** (unter Vertrag) | 13,8 |
-| **Hana** | 11,9 |
-| **Mrs Gwak** (Zivilistin) | 10,2 |
-| Mr Chae | 8,9 |
-| **Annie** | 6,3 |
-| Woo, Sang-hoon | 4,1 · 3,8 |
-| **Georgij** | **3,4** |
+Der Kontraktionszähler in `stimmen.py` stand auf `\w+'(?:s|t|re|ve|ll|d|m)`
+und traf damit **jeden Genitiv**: *Woo's*, *brother's*, *somebody's mother*. Wer
+viel über fremdes Eigentum redet, sah aus wie jemand, der zusammenzieht - und
+diese Tabelle war genau eine Aussage darüber, wer zusammenzieht. Der Zähler ist
+repariert und eicht sich jetzt an acht Proben.
 
-**Oben Handwerk, Haushalt und Zivilisten. Unten die Prinzipale. Ganz unten
-Georgij**, dessen Regel ab Kapitel 17 ohnehin lautet, dass er keine mehr
-benutzt.
+**Was die Tabelle sagte und was tatsächlich dasteht:**
 
-**Die Regel:** Wer nicht im Gewerbe ist, zieht zusammen, und zwar reichlich. Wer
-Geld hat, tut es sparsam. **Und wenn eine Nebenfigur in Band 2 aufhört, Wörter
-zusammenzuziehen, ist das kein Stilfortschritt, sondern Georgijs Register, das
-auf sie übergelaufen ist.** Genau daran war Jang in Band 2 zu erkennen, bevor er
-es zurückbekommen hat.
+| | stand hier | misst wirklich |
+|---|---|---|
+| **Mr Ahn** | 106,7 | **78,7** |
+| **Mrs Seo** | 17,9 | **0** |
+| **Mrs Ha** | 14,9 | 14,9 |
+| **Jang** | 13,8 | **3,4** |
+| **Hana** | 11,9 | **5,3** |
+| **Mrs Gwak** | 10,2 | **0** |
+| **Mr Chae** | 8,9 | **0** |
+| **Annie** | 6,3 | 3,5 |
+| **Woo** | 4,1 | 1,7 |
+| **Sang-hoon** | 3,8 | 1,1 |
+| **Georgij** | 3,4 | 2,5 |
+
+**Damit fällt die Regel, die darauf stand, und zwar ganz.** Sie hiess *"wer
+nicht im Gewerbe ist, zieht zusammen"*. Mrs Seo führt einen Haushalt und zieht
+**null** Mal zusammen. Mrs Gwak hat einen Blumenladen: **null**. Mr Chae ist
+Anwalt: **null**. Und **Georgij zieht öfter zusammen als Woo und als
+Sang-hoon** - in der alten Tabelle stand er ganz unten.
+
+**Ein Durchgang nach der alten Regel hätte drei Figuren ein Register erfunden,
+das sie nicht haben.** Genau das ist bei Jang bereits passiert und ist am 25.08.
+zurückgenommen worden (b2 K40).
+
+#### Was statt dessen wahr ist, und es ist brauchbarer
+
+**Die Kontraktion ist keine Standeslinie. Sie ist ein Mann.**
+
+> **Mr Ahn 78,7.** Eine Größenordnung über allen anderen. Danach kommt lange
+> nichts: Mrs Ha 14,9, Hana 5,3, Annie 3,5, Jang 3,4, Georgij 2,5, Woo 1,7,
+> Sang-hoon 1,1.
+
+Zwischen Annie (3,5) und Georgij (2,5) und Woo (1,7) liegt **kein Stand**,
+sondern Rauschen. Nur der Abstand von Mr Ahn zu allen anderen ist ein Befund.
+
+**Und die eigentlich verwendbare Zahl ist die Null.** Elf benannte Figuren
+ziehen **kein einziges Mal** zusammen, quer über beide Bände:
+
+> Sim (479 W) · Yeom (382) · Hwang (334) · Mrs Jeon (328) · Mr Baek (267) ·
+> Mr Kwon (217) · Mr Byun (182) · Mr Chae (112) · Mr Koh (111) · Mr Sohn (108) ·
+> Mrs Gwak (98) · Mrs Seo · Nam Byung-hee (93)
+
+**Das ist ein Verbot und keine Tendenz.** Wer einer dieser Figuren eine
+Kontraktion in den Mund legt, erfindet, und es ist an einer Stelle nachweisbar.
+
+**Nachgemessen mit `python3 werkzeug/stimmen.py --tics`. Wer die Zahlen
+zitiert, misst vorher nach** - sie wandern, wenn Kapitel dazukommen, und
+`--tics` zeigt eine Figur ohne Kontraktion gar nicht erst an, die Null muss man
+also aus der Figurenliste holen und nicht aus der Ausgabe.
 
 **Vorsicht bei jeder mechanischen Prüfung.** `doc/01-craft.md`, Abschnitt 2c
 zählt Kontraktionen, aber die Regel dort gilt **ausschließlich für Georgij**.
@@ -11538,10 +11662,18 @@ Kälte, sondern dass die Wärme weiterläuft, wenn sie nichts mehr zu tun hat.
 
 ### Jang (58, acht Familien, dreißig Jahre)
 
-**Gemessen am 25.08. über 45 zugeordnete Repliken aus neun Szenen, 721 Wörter.**
-Ø 12,2 Wörter je Satz, längster Satz 37, zehn Prozent über 25 Wörtern.
-**Er ist damit der langsatzigste Sprecher des Buchs** - alle anderen liegen bei
-sieben bis acht. Seine Stimme ist nicht abwesend, sie ist unfertig.
+**Nachgemessen am 25.08.: 40 zugeordnete Repliken, 585 Wörter, Ø 11,2 Wörter je
+Satz, 8 Prozent über 25.**
+
+**Hier stand: *"Er ist damit der langsatzigste Sprecher des Buchs - alle anderen
+liegen bei sieben bis acht."* Das ist falsch und war es auch beim Schreiben.**
+Gemessen liegen Hwang bei 11,9, Georgij und Sang-hoon bei 11,6, Yeom bei 11,4,
+Jang bei 11,2, Woo bei 11,0. Bei sieben bis acht liegen Mr Ahn, Mrs Ha, Mrs Seo,
+Mr Sohn und Mr Hong - also die kurzen Nebenrollen und nicht *alle anderen*.
+**Jang steht im Mittelfeld, und die Satzlänge ist kein Merkmal von ihm.**
+
+Was von dem Absatz übrig bleibt und trägt: seine Stimme ist nicht abwesend, sie
+ist unfertig - aber das steht auf der Maschine unten und nicht auf einer Zahl.
 
 **Die Maschine.** Nicht die drei Stufen, die sind nur die Oberfläche. Darunter:
 **Er übergibt keine Tatsache ohne ihre Herkunft und ihre Grenze, und die Grenze
@@ -11565,9 +11697,28 @@ a reason either time."* Deshalb bittet er in Kapitel 40 um den ganzen Vormittag,
 und deshalb zählt der Text extra, dass Annies Notizblock leer bleibt.
 
 **Er darf:** verneinen über Beweise. Zahlen mit Methode. Dienstjahre über sich
-selbst, nie Gefühle. Aufzählungen mit Komma statt mit *und*. **Er zieht
-zusammen, in beiden Bänden** - er hat keinen Grund, formeller zu werden,
-während Georgij den Boden unter sich verliert.
+selbst, nie Gefühle. Aufzählungen mit Komma statt mit *und*.
+
+**Hier stand: *"Er zieht zusammen, in beiden Bänden."* Auch das ist falsch, und
+es ist der teuerste Satz dieses Blatts, weil er einen Eingriff getragen hat.**
+Nachgezählt hat Jang im ganzen Buch **drei** Kontraktionen, und alle drei stehen
+in **einem** Wechsel in b1 K05, über Kies:
+
+> *"The gravel's been raked twice and there's still a stain under the second
+> layer." Jang shrugged. "It's gravel. You can rake it for a year."*
+
+Sonst nirgends. Überall, wo eine natürlich wäre, steht die volle Form: *"I am
+not going to ask you why"* · *"it was not because you did not know about the
+corner"* · *"I read the file before I took the job."*
+
+**Auf die falsche Behauptung hin sind in b2 K40 zwei Kontraktionen in seine
+Repliken geschrieben worden. Sie sind am 25.08. zurückgenommen worden** (ch40
+v2.6). Danach stand das Buch wieder auf drei, und alle drei da, wo sie hingehören.
+
+**Die eine Stelle ist übrigens gut und bleibt:** ein Mann, der über Kies redet,
+zieht zusammen; derselbe Mann, der über ein Haus in Gangwon-do berichtet, tut es
+nicht. **Das ist kein Register, das ist ein Gefälle**, und es hat genau einen
+Beleg.
 
 **Er darf nicht:** den which-Satz, die Und-Kette mit drei Gliedern, die
 Negativ-Definition über **Bedeutung**, die Selbstdiagnose. Der Unterschied bei
@@ -11577,8 +11728,15 @@ hergibt. *"Not the number. Not who knew."* wäre Georgij, das grenzt ab, was
 etwas bedeutet.
 
 **Körper.** Er steht. Sitzt er, dreht er den Stuhl, statt aufzustehen. Er
-spricht zum Gegenstand - zur Karte, zum Wasser, zum Bericht. Er lässt sich
-nicht einschenken.
+spricht zum Gegenstand - zur Karte, zum Wasser, zum Bericht.
+
+**Hier stand *"Er lässt sich nicht einschenken."* Das ist falsch, und die
+richtige Fassung ist besser.** In b1 K23 kauft er die Flasche, schenkt sich
+selbst nach und bietet sie nicht an - und als Georgij ihm mit beiden Händen
+einschenkt, wie man es für einen Älteren tut, sagt er *"You should not do
+that."* und **trinkt es dann**. Er nimmt es an und markiert, dass es falsch
+herum war. **Er schenkt sich selbst ein und lässt sich einmal einschenken, und
+die eine Ausnahme ist die Szene.**
 
 #### Wie er mit wem redet
 
@@ -12183,29 +12341,43 @@ zurück, wenn sie etwas hergibt.
 
 ---
 
-### Kim Ye-rin (17 Repliken)
+### Kim Ye-rin (17 Repliken im Index - tatsächlich über fünfzig allein in b1 K30)
 
-**Sie berichtigt, wer was hat.** Kurz, absolut, immer über Besitz und Stellung.
-*"Her brother has the title. She has the family."* Kein Wort über Gefühle, keine
-Frage, die sie nicht selbst beantwortet.
+**Die Zahl in der Überschrift ist eine Falle und steht so in `CLAUDE.md`:** in
+einer Zweipersonenszene läuft der Dialog ohne Begleitsätze. Der Index zählt
+siebzehn, `stimmen.py` findet fünf. Die Terrassenszene in b1 K30 hat **117
+Redeabsätze im Wechsel**, also **rund siebenundfünfzig für sie** - in einem
+Kapitel. Wer sie nach der Überschrift für eine Nebenfigur hält, hat den
+Angelpunkt von Band 1 für eine Nebenfigur gehalten.
 
-**Dazu gemessen, aus Band 1, Kapitel 30 gelesen:**
+**Sie berichtigt, wer was hat.** Kurz, absolut, meist über Besitz und Stellung.
+*"Her brother has the title. She has the family."*
 
-**Nur fünf getaggte Repliken - und ein ganzes Kapitel im bloßen Wechsel.**
-`stimmen.py` findet sie deshalb kaum; ihr Blatt ist aus Band 1, Kapitel 30
-gelesen und nicht gezählt.
+**Gegengelesen am 25.08. an b1 K30. Fünf Behauptungen dieses Blatts waren falsch
+und stehen unten korrigiert; die Fundstellen sind in `doc/13` aufgeführt.**
 
-**Die Maschine: sie spricht nie zuerst aus sich selbst.** Sie kommt über
-Dritte - was man ihr gesagt hat, was ihr Bruder tut, was die meisten Männer
-täten:
+**Sie sagt sehr wohl Gefühlswörter - flach, als Tatsache, ohne etwas dafür zu
+wollen.** *"I have disliked everything so far. Go on."* · *"You are very bad at
+selling things."* Das ist nicht dasselbe wie keine Gefühle. Es ist ein Gefühl,
+hingelegt wie eine Zahl, und niemand darf darauf antworten.
+
+**Die Maschine, und sie dreht sich mitten im Kapitel um.** In der ersten Hälfte
+kommt sie ausschließlich über Dritte - was man ihr gesagt hat, was ihr Bruder
+tut, was die meisten Männer täten:
 
 > *"They tell me you are hers."*
 > *"And that she paid a great deal."*
 > *"Most men would have found a way not to answer that."*
 > *"My brother's people have never found any of it."*
 
-**Sie misst den Menschen vor sich gegen eine Klasse**, nie gegen sich. Und die
-Umkehrung ist ihr stärkster Zug:
+**In der zweiten Hälfte, nachdem sie entschieden hat, spricht sie nur noch aus
+sich selbst** - *"Because unwritten power dies with the person who has it"* ·
+*"I have carried six adults for twenty years"* · *"My father built that."*
+**Der Wechsel ist ihr Bogen und nicht ihr Register.** Wer sie durchgehend über
+Dritte sprechen lässt, nimmt dem Kapitel seinen Umschlag.
+
+**Sie misst den Menschen vor sich gegen eine Klasse**, meist nicht gegen sich.
+Und die Umkehrung ist ihr stärkster Zug:
 
 > *"I read it twice on Saturday and once more last night, and I have decided
 > what I think about it, **and I am not going to tell you what that is**."*
@@ -12218,8 +12390,27 @@ lang hat ihr niemand geschrieben, man telefoniert mit ihrem Bruder. Die Karte
 ist der Grund, warum sie überhaupt auf der Terrasse steht.
 
 **Wie mit wem.** Zu Georgij: nackte Forderungen mit Punkt - *"How much."* ·
-*"Which six."* · *"How long did it take."* Kein Titel, kein Name. Über ihren
-Bruder redet sie in der dritten Person, auch wenn er im Haus ist.
+*"Which six."* · *"How long did it take."* Über ihren Bruder redet sie in der
+dritten Person, auch wenn er im selben Haus ist.
+
+**Und die Anrede ist FESTGELEGT, weil dieses Blatt sie einmal falsch hatte.**
+Hier stand *"Kein Titel, kein Name."* Das ist falsch. Sie benutzt die ganze
+Szene hindurch keine Anrede - und dann, an der Tür, nach dem letzten Satz und
+unmittelbar vor den zweiundzwanzig Minuten, **einmal**:
+
+> *"**Mr Georgij**."*
+> *"Mrs Kim."*
+> *"Twenty-two minutes," said Kim Ye-rin. "I told my driver twenty."*
+
+**Diese eine Anrede ist der Schluss des Kapitels und wird nicht angefasst.** Ein
+Stildurchgang, der dem alten Blatt gefolgt wäre, hätte sie gestrichen, weil das
+Blatt sie verboten hat. **Sie ist die Wärme, und sie ist die einzige.**
+
+**Ebenso falsch war:** *"keine Frage, die sie nicht selbst beantwortet."* Sie
+stellt in K30 mindestens acht Fragen und Georgij beantwortet die meisten. Wahr
+ist der eine Fall, und er ist der beste: auf *"Then tell me why I would ever
+agree to it"* antwortet er *"I cannot think of a reason and you can"* - und dann
+liefert **sie** die Antwort. Einmal, und es ist der Wendepunkt.
 
 **Warm, und es ist die reinste Fassung der Regel im ganzen Buch:**
 
@@ -12236,7 +12427,13 @@ Haus, geht vier Schritte am Geländer entlang, legt die Hand auf die Tür und
 Selbsterklärung. **Sie darf:** die dritte Person für Anwesende, die nackte
 Forderung, und den Satz, der ihr Urteil ausdrücklich einbehält.
 
-**Körper.** Sie dreht sich nicht um. Wenn sie sich umdreht, ist das die Szene.
+**Körper.** Das Umdrehen ist ihr Instrument, und es steht in K30 **fünfmal**
+markiert da: *"She still had not turned round."* · *"That got her round."* ·
+*"She turned back to the rail."* · *"She did not turn round for it."* ·
+*"She turned round. 'You have just offered me the first one.'"* **Zwei davon
+sind Ereignisse und nicht Beats** - das zweite und das letzte. Hier stand
+*"wenn sie sich umdreht, ist das die Szene"*, im Singular; es sind zwei, und der
+Unterschied zwischen ihnen ist der ganze Handel.
 
 #### Ein Beispiel, ruhig
 
@@ -13223,6 +13420,200 @@ die vier neu geschriebenen Kapitel die **naechste** Nummer und nicht die
 uebernaechste: ein Zwischenschritt, den nie jemand lesen sollte, gehoert nicht
 ins Archiv, weil `faktenspur.py` und `belege.py` beide gegen alte Fassungen
 vergleichen.
+
+---
+
+### Band 1 vollstaendig durchgegangen - und das Ergebnis ist ein Nicht-Ergebnis
+
+Auftrag: Band 1 genauso wie Band 2. Alle vierunddreissig Kapitel gelesen oder
+gemessen. **Ergebnis: die vier bereits angefassten Kapitel waren die richtigen
+vier, und es kommt keines dazu.**
+
+Das ist keine Bequemlichkeit, sondern steht auf drei unabhaengigen Proben.
+
+#### Probe 1: worauf landet die laengste reine Dialogkette
+
+Fuer jedes Kapitel die laengste Folge aufeinanderfolgender Redeabsaetze ohne
+einen einzigen Erzaehlerabsatz dazwischen - dort ist der Leser wirklich allein -
+und dann der Absatz, der sie beendet.
+
+**Vierunddreissig von vierunddreissig landen auf Erzaehlung.** Kein einziges
+Kapitel laesst den Leser aus einer Dialogstrecke ins naechste fallen. Die
+laengste Kette des Bandes ist fuenfzehn Repliken (K19), der Median acht - Band 2
+hat neunzehn und sieben. **Strukturell sind die beiden Baende fast gleich.**
+
+#### Probe 2: tragende Erzaehlerabsaetze
+
+Absaetze ueber zwanzig Woertern, keine Rede - also die Saetze, die etwas
+benennen statt einen Beat zu setzen.
+
+| | tragende Absaetze | je 1000 Woerter | Kapitel ohne einen |
+|---|---|---|---|
+| Band 1 | 948 | **9,48** | keines |
+| Band 2 | 1391 | 8,60 | keines |
+
+**Und die sechs duennsten Band-1-Kapitel sind K27 (2,0), K28 (4,2), K15 (4,3),
+K19 (5,0), K30 (5,1), K21 (5,9).** Vier davon sind genau die vier, die schon
+angefasst sind - unabhaengig gefunden, ueber eine andere Messung als beim ersten
+Mal. K19 und K21 sind zweimal gelesen worden und tragen sich.
+
+#### Probe 3: gelesen
+
+K01, K02, K03, K04, K06, K11-K15, K17-K20, K22-K28, K30, K32 ganz gelesen, der
+Rest ueber Probe 1 und 2 geprueft. Beispiele fuer das, was dort ohnehin steht:
+
+> K12: *"...the most carefully constructed sentence he had heard since the
+> auctioneer said the word **unverifiable**."*
+> K17: *"Somebody else had heard the difference before he did."*
+> K20: *"He had been in eleven houses and had never once been unable to read a
+> woman across a desk, and the difference now was not that she had become harder
+> to read. It was that he had stopped assuming he could."*
+> K23: *"A man who demonstrates that he can leave, and cannot, has demonstrated
+> one thing only, and it is not the thing he meant."*
+
+**Danebenzuschreiben waere in jedem dieser Faelle Polsterung gewesen.**
+
+#### Bilanz des ganzen Durchgangs
+
+**102 Kapitel gemessen, 33 angefasst, 71 Saetze im Buch.**
+
+| | Kapitel | angefasst | Saetze |
+|---|---|---|---|
+| Band 2 | 68 | 29 | 65 |
+| Band 1 | 34 | 4 | 6 |
+
+---
+
+### Nachtrag zur Pruefsitzung: meine eigenen Zahlen in doc/12
+
+Der Einwand aus der Pruefsitzung ist angekommen und er trifft mich: **ein
+falsches Blatt wird im Durchgang in hundert Kapitel geschrieben.** Bei Hana ist
+genau das beinahe passiert.
+
+Meine Beitraege zu `doc/12` sind groesstenteils **gemessen** und damit
+mechanisch nachpruefbar. Nachgemessen am 25.08.:
+
+| | stand da | misst jetzt |
+|---|---|---|
+| Mr Ahn, Kontraktionen je 1000 W | 96,6 | **106,7** |
+| Woo, Kontraktionen je 1000 W | 4,1 | **4,2** |
+| Mrs Ha | fehlte | **14,9** |
+
+Beide Abweichungen kommen daher, dass seither Kapitel dazugekommen sind. **Der
+Befehl steht jetzt neben der Tabelle** (`stimmen.py --tics`), damit
+Nachmessen eine Minute kostet und keine Entscheidung ist.
+
+**Was daran allgemein ist, und es ist eine dritte Sorte neben Zitat und
+Behauptung:** eine **Messung** ist wahr zum Zeitpunkt der Messung und driftet
+danach von selbst, ohne dass jemand etwas Falsches tut. `belege.py` findet sie
+nicht, weil kein englisches Zitat darin steht. Die einzige Abwehr ist, den
+Befehl danebenzuschreiben.
+
+**Die riskanten Stellen in meinen Blaettern sind die *gelesenen*, nicht die
+gemessenen** - Ye-rins Blatt steht ausdruecklich auf *"aus Band 1, Kapitel 30
+gelesen und nicht gezaehlt"*, weil `stimmen.py` bei ihr nur fuenf Repliken
+findet. Wer `doc/12` durchgeht, faengt dort an und nicht bei den Tabellen.
+
+---
+
+### doc/12 gegengelesen, die gelesenen Blaetter zuerst
+
+Auftrag des Autors, nachdem die Pruefsitzung an Hanas Blatt eine erfundene
+Selbstaussage gefunden hatte. Bisher zwei Blaetter durch - **Ye-rin und Jang -
+und beide waren falsch, Jang auf eine Art, die bereits ins Buch geschrieben
+worden war.**
+
+#### Der schwerste Fund: ein Defekt in `stimmen.py`, und das Werkzeug ist meins
+
+Der Kontraktionszaehler stand auf `\w+'(?:s|t|re|ve|ll|d|m)` und traf
+**jeden Genitiv** - *Woo's*, *brother's*, *somebody's mother*. Wer viel ueber
+fremdes Eigentum redet, sah aus wie jemand, der zusammenzieht.
+
+**Die Standeslinie in `doc/12` war genau eine Aussage darueber, wer zusammenzieht,
+und sie stand vollstaendig auf diesem Zaehler.**
+
+| | stand in doc/12 | misst wirklich |
+|---|---|---|
+| Mr Ahn | 106,7 | **78,7** |
+| **Mrs Seo** | **17,9** | **0** |
+| Jang | 13,8 | **3,4** |
+| Hana | 11,9 | 5,3 |
+| **Mrs Gwak** | **10,2** | **0** |
+| **Mr Chae** | **8,9** | **0** |
+| Annie | 6,3 | 3,5 |
+| Woo | 4,1 | 1,7 |
+| Sang-hoon | 3,8 | 1,1 |
+| Georgij | 3,4 | **2,5** |
+
+**Drei Figuren standen bei zehn bis achtzehn und ziehen kein einziges Mal
+zusammen.** Und Georgij zieht oefter zusammen als Woo und Sang-hoon - in der
+alten Tabelle stand er ganz unten.
+
+**Die Regel, die darauf stand, ist gefallen:** *"Wer nicht im Gewerbe ist, zieht
+zusammen."* Mrs Seo fuehrt einen Haushalt, Mrs Gwak hat einen Blumenladen, beide
+null. **Ein Durchgang nach dieser Regel haette drei Figuren ein Register
+erfunden.**
+
+**Was statt dessen dasteht und brauchbarer ist:** Mr Ahn 78,7, eine
+Groessenordnung ueber allen; danach Rauschen; und **dreizehn benannte Figuren
+bei exakt null**, quer ueber beide Baende. Die Null ist ein Verbot und keine
+Tendenz.
+
+`stimmen.py` ist repariert und eicht sich an acht Proben, darunter *the gravel's
+been raked* gegen *the gravel's colour*.
+
+#### Jang: vier Behauptungen, vier falsch - und eine hatte schon gewirkt
+
+| Behauptung | Befund |
+|---|---|
+| *"Er zieht zusammen, in beiden Baenden."* | **Drei Kontraktionen im ganzen Buch**, alle drei in **einem** Wechsel ueber Kies in b1 K05. Sonst nirgends |
+| *"Er ist der langsatzigste Sprecher des Buchs, alle anderen liegen bei sieben bis acht."* | Hwang 11,9 · Georgij und Sang-hoon 11,6 · Yeom 11,4 · **Jang 11,2** · Woo 11,0. Mittelfeld |
+| *"Er laesst sich nicht einschenken."* | b1 K23: Georgij schenkt ihm mit beiden Haenden ein, er sagt *"You should not do that."* - **und trinkt es** |
+| 45 Repliken, 721 Woerter, Ø 12,2, laengster 37 | jetzt 40 Repliken, 585 Woerter, Ø 11,2, 8 Prozent ueber 25 |
+
+**Die erste hat bereits ins Buch gewirkt.** Auf sie hin sind in b2 K40 zwei
+Kontraktionen in Jangs Repliken geschrieben worden. **Damit hat sich die
+Behauptung selbst gemessen:** das Blatt sagte, er ziehe zusammen; ich machte ihn
+zusammenziehen; das Werkzeug meldete danach, dass er zusammenzieht.
+**Zurueckgenommen in ch40 v2.6.** Das *ma'am* bleibt - das ist die Entscheidung
+des Autors und nicht meine Ableitung.
+
+#### Ye-rin: fuenf Behauptungen, fuenf falsch
+
+| Behauptung | Befund |
+|---|---|
+| *"Kein Titel, kein Name."* | Sie sagt **"Mr Georgij."** - einmal, an der Tuer, unmittelbar vor den zweiundzwanzig Minuten |
+| *"Kein Wort ueber Gefuehle."* | *"I have disliked everything so far."* · *"You are very bad at selling things."* |
+| *"keine Frage, die sie nicht selbst beantwortet"* | Sie stellt in b1 K30 mindestens acht und Georgij beantwortet die meisten |
+| *"sie spricht nie zuerst aus sich selbst"* | In der zweiten Haelfte des Kapitels ausschliesslich aus sich selbst. **Der Wechsel ist ihr Bogen** |
+| *"Wenn sie sich umdreht, ist das die Szene."* | Fuenfmal markiert, **zwei** davon Ereignisse |
+
+**Die erste ist die gefaehrlichste, die dieser Durchgang gefunden hat.** Ein
+Stildurchgang, der dem Blatt gefolgt waere, haette **"Mr Georgij." gestrichen** -
+die einzige Anrede, die sie im ganzen Buch benutzt, und der Schluss des Kapitels.
+Sie steht jetzt im Blatt als **festgelegt**.
+
+Dazu die Ueberschrift: *"Kim Ye-rin (17 Repliken)"*. Die Terrassenszene in b1 K30
+hat **117 Redeabsaetze im Wechsel**, also rund siebenundfuenfzig fuer sie - in
+einem Kapitel. Die Falle steht woertlich in `CLAUDE.md` und hat trotzdem
+funktioniert.
+
+#### Was das ueber die Blaetter sagt
+
+**Zwei gelesene Blaetter, neun falsche Behauptungen.** Keine davon war eine
+Erfindung aus dem Nichts - jede war eine **Verallgemeinerung aus einer richtigen
+Beobachtung**: Ye-rin benutzt fast nie eine Anrede, also *"kein Titel, kein
+Name"*; Jang spricht knapp, also *"der langsatzigste"* (im Kopf gedreht und nie
+nachgezaehlt).
+
+**Die Fehlerklasse ist damit dieselbe wie bei den Erzaehlerkommentaren, und der
+Massstab auch:** ein Blatt darf ueber die Szene hinausgreifen, aber jeder Griff
+muss belegt sein. **Der Unterschied ist der Preis.** Ein falscher
+Erzaehlerkommentar steht an einer Stelle. Ein falsches Blatt wird in hundert
+Kapitel geschrieben, und bei Jang ist genau das schon passiert.
+
+**Noch offen:** Mrs Seo, Yeom, Hwang, Mrs Jeon, Mrs Bae, Mrs Gwak, Mr Sohn,
+Mr Koh, Mr Byun, Mr Chae, Sang-hoon, Hana.
 
 ---
 
@@ -15360,7 +15751,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:30 | Annie had a notepad open and had written nothing on it since Jang sat down. It is a thin.. |
 | 3 | b2ch40:38 | "Sixteen is what I watched," said Jang, to Georgij, because it was Georgij the sixteen d.. |
 | 3 | b2ch40:42 | "The building takes deliveries twice a week," said Jang. "Tuesdays, a laundry service, m.. |
-| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That's a guess .. |
+| 3 | b2ch40:50 | "Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess.. |
 | 3 | b2ch40:74 | Jang put his finger on a second mark, further up the road. "There is a bus stop with a s.. |
 | 3 | b2ch40:82 | "That the place used to have a sign, years ago, and stopped having one. That the staff a.. |
 | 3 | b2ch40:94 | "He does not know an age. He said older, and he said it the way a man of seventy says ol.. |
@@ -15372,7 +15763,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch40:152 | Georgij looked at the map, still folded, still in Jang's hands. |
 | 3 | b2ch40:160 | "Above the middle of it," said Jang. "Not anywhere near the top." He looked at the folde.. |
 | 3 | b2ch40:172 | "It is both," said Jang. "In this kind of work it is almost always both. The second of t.. |
-| 3 | b2ch40:188 | "I wasn't going to ask, ma'am," said Jang. |
+| 3 | b2ch40:188 | "I was not going to ask, ma'am," said Jang. |
 | 3 | b2ch40:208 | "I did not ask because I already know," said Annie. "You would take the tradesman's rout.. |
 | 3 | b2ch40:212 | Jang did not say anything to that, which is its own kind of agreement, and Georgij notic.. |
 | 3 | b2ch40:262 | Then he turned to Jang, who had sat through all of it with the folded map in both hands... |
