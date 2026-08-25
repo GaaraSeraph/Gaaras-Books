@@ -527,7 +527,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
   **Und Hanas letzte Regel vor neun:** *"If she comes up that drive, do not go out to the car. She will not want to be met. She will want to walk in and find the room already happening."*
 
   **Ye-rin kommt um zwei vor neun.** Der Wagen haelt vor der Tuer, sie oeffnet die Tuer selbst, gibt ihren Mantel ab, sieht den Raum an - Bruder, Cousin, zwei Neffen, der alte Mann im Sessel mit dem Stock ueber den Knien - und dreht dann den Kopf um etwa fuenfzehn Grad zu der Ecke, in der ein Mann steht, den sie nie getroffen hat und der genau dort steht, wo vier Zeilen auf einer Karte es angekuendigt haben.
-- **Kapitel 28** *A woman in a room can be asked* (v1.7) - Zweite Haelfte des Freitags, ohne Zeitsprung.
+- **Kapitel 28** *A woman in a room can be asked* (v1.8) - Zweite Haelfte des Freitags, ohne Zeitsprung.
 
   **Ye-rin weiss seit Montag alles**, weil Sung-hos neunzehn Minuten am Telefon in Kapitel 26 ein Anruf bei ihr waren. Sie kennt Datum, Haus und Woos Ankunft um sieben, hat es geprueft, die Familie geschickt und sich selbst herausgehalten. Hanas Lesart: *"That is not a no. If it were a no she would have kept them home."*
 
@@ -553,7 +553,7 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 
   Annies Antwort holt Kapitel 1 zurueck: *"You have. You had one in October. You stood in a cellar with a number pinned on you for four hours and could not do anything about that either."* - *"That is not the same."* - *"It is exactly the same, and it came out well."*
 
-- **Kapitel 27** *Not out of your account* (v3.6) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
+- **Kapitel 27** *Not out of your account* (v3.7) - Drei Tage. Georgij bittet Annie um sechs Stunden ihrer Zeit **fuer jemand anderen**, zum ersten Mal, und begruendet es kaufmaennisch: Hanas ganzer Wert haengt an einer Widmung, und damit ist sie das weiche Stueck in Annies eigener Anordnung. Annies Bedingung: *"Do not do it as a gift. Because she will not be able to accept it, and then you will have spent six hours making her poorer and more careful, and I will have lost the only person in this city who tells me things."*
 
   **Die Flaechen kollidieren nicht, und der Text rechnet es vor.** Annies Mietvorvertrag aus Kapitel 15 lautet woertlich *"Twenty years, rent fixed, the buildings named"* und tritt in Kraft, sobald ihr Kapital in die Logistiksparte fliesst; er verfaellt, wenn das bis Ende Maerz nicht geschehen ist. **Er nennt Gebaeude, nicht die Flaeche.** Ihre vier sind die ueberdachten auf der Nordgrenze, weil ihre Vorprodukte Dach, Temperatur und eine Zollverschlusslinie brauchen; das sind etwa fuenftausend der sechzehntausend Quadratmeter.
 
@@ -1033,7 +1033,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.6) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.7) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -1525,7 +1525,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
 
-- **Band 2, Kapitel 28** *He keeps everything* (v1.3) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
+- **Band 2, Kapitel 28** *He keeps everything* (v1.4) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 
   **Der Titel ist Mrs Jeons Satz ueber Hwang aus Kapitel 7**, und er kommt zurueck, um sie zu finden: *"He keeps everything. Every note, every release, every letter that has ever come into this house about anything. He is proud of that too."*
 
@@ -1571,7 +1571,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *The rest of what I know* (v1.5) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
+- **Band 2, Kapitel 29** *The rest of what I know* (v1.6) - **Tag 238, Fr 29. Mai. Eine Szene, zweiter Stock, ein Zimmer und eine Kueche, vier Haltestellen draussen.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -1706,7 +1706,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Neu im Personal:** Mrs Gwak (Laden), Min-a (Aushilfe), Mr Han (Fahrer, achtzehn Jahre, schreibt auf alles). **Und Sim**, der Besteller, der bis hierhin nur eine Handschrift im Eckfeld und ein Satz am Telefon ist.
 
-- **Band 2, Kapitel 32** *Where the name goes* (v1.1) - **Tag 242, Di 2. Juni. Eine Szene, dieselbe Kueche vier Haltestellen draussen, bis halb zwoelf.**
+- **Band 2, Kapitel 32** *Where the name goes* (v1.2) - **Tag 242, Di 2. Juni. Eine Szene, dieselbe Kueche vier Haltestellen draussen, bis halb zwoelf.**
 
   **Drei datierte Faeden laufen an einem Tisch zusammen:** das Heft kommt zurueck wie am Freitag versprochen, der Brief aus Gwangyang liegt seit Samstag da, und Annies Ansage *"in about four days"* wird faellig.
 
@@ -1862,7 +1862,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Der Abend in der Bibliothek zieht die schwerste Vermutung des Fadens bisher, und Annie haelt sie ausdruecklich fuer unbewiesen:** ein Mann, der im April eine Kueche zweimal pruefen laesst, ueberlaesst eine so grosse Sache nicht dem Zufall - **entweder er hat Sang-hoon nicht kommen sehen, was zu nichts sonst passt, oder er hat es kommen sehen und geschehen lassen**, weil ein langsames Lecken durch einen Mann, ueber den er acht Jahre Hebel haelt, ihn weniger kostet als ein Fremder, der ihn kalt erwischt. *"He let Sang-hoon find out on purpose."* **Keine Bestaetigung, nur die erste Aussprache eines Verdachts, den beide schon getragen haben.**
 
-- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.4) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
+- **Band 2, Kapitel 40** *Somebody who did not arrive in a car* (v2.5) - **Tag 261, So 21. Juni. Das Zimmer neben der Bibliothek, der ganze Vormittag.**
 
   **Jangs Bericht nach sechzehn Beobachtungstagen, und Annie gibt ihm dafuer den ganzen Vormittag - ungewoehnlich fuer einen Bericht, den man im Stehen abliefern koennte.** Er hat das Grundstueck nicht betreten: *"I have not been onto the property. I have not spoken to anybody who works there ... I do not go past a line I have not been given."*
 
@@ -2515,7 +2515,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.3) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.4) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2725,7 +2725,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.4) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.5) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -2781,7 +2781,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Mr Ahn spricht hier durchgehend nach `doc/12-stimmen.md`: Fristen, Bauteile,
     Kontraktionen, und bei jeder schweren Antwort etwas auf der Werkbank.
 
-- **Band 2, Kapitel 64** *The one who orders* (v1.3) - **Tag 328, Do 27. August. Der Anruf.**
+- **Band 2, Kapitel 64** *The one who orders* (v1.4) - **Tag 328, Do 27. August. Der Anruf.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Sims Buero in Jongno, neunzehn Jahre, vier Menschen je dort gewesen.
@@ -2812,7 +2812,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     er steht.**
 
 
-- **Band 2, Kapitel 65** *No story at all* (v1.3) - **Tag 333, Di 1. September. Mrs Sunwoo, nach fuenf Monaten.**
+- **Band 2, Kapitel 65** *No story at all* (v1.4) - **Tag 333, Di 1. September. Mrs Sunwoo, nach fuenf Monaten.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er kommt, um sie zu warnen, und will nichts.** Die Klausel elf wirkt fuer

@@ -568,15 +568,27 @@ keine Bitte, sondern eine Anweisung (*"send them to the hospital in Mapo"*).
 
 #### Was das fuer die Fehlerklasse heisst
 
-Bisher hiess sie: *der Erzaehlerkommentar behauptet mehr, als die Szene
-hergibt.* Sie ist jetzt schaerfer:
+**Erster Anlauf, und er war falsch.** Ich hatte geschrieben: *ein
+Erzaehlerkommentar darf nichts behaupten, was ausserhalb seiner eigenen Szene
+liegt.* **Vom Autor zurueckgewiesen, und zu Recht:**
 
-> **Ein Erzaehlerkommentar darf nichts behaupten, was ausserhalb seiner eigenen
-> Szene liegt.** Nicht ueber ein anderes Kapitel, nicht ueber die Jahre davor
-> oder danach, nicht ueber ein Gebaeude, nicht ueber die Handlung als ganze.
-> Alles davon ist ungeprueft und wird geglaubt.
+> *"Ein Kommentar darf Sachen behaupten, die ausserhalb seiner Szene liegen.
+> Das ist der Charme dieses Buchs. Er darf nichts behaupten, was nicht stimmt,
+> und claims muessen verifiziert sein gegenueber Sachen im Buch."*
 
-Die sieben Faelle dieses Durchgangs passen ausnahmslos in diesen Satz.
+Das ist auch die einzige Regel, die zu diesem Buch passt. Der Erzaehler greift
+seit Kapitel 1 aus - *"the third time he has written his name in a book at a
+door in eight weeks"*, *"which she has done perhaps three times since October
+and never once in that room"*. **Der Griff ist das Mittel. Die Grenze ist nicht
+seine Reichweite, sondern sein Beleg.** Also:
+
+> **Ein Erzaehlerkommentar darf so weit ausgreifen, wie er will - ueber
+> Kapitel, ueber Jahre, ueber die ganze Handlung. Jeder Griff muss am Text
+> belegbar sein, und der Beleg gehoert in dieses Blatt.**
+
+Der Unterschied ist praktisch und nicht akademisch: nach der falschen Regel
+waeren zwei richtige Saetze gestrichen worden, und vier weitere waeren zu
+Beobachtungen ohne Reichweite geschrumpft.
 `faktenspur.py` hat keinen davon gefunden, `check.py` keinen, `belege.py`
 keinen. Gefunden wurden sechs beim Belegen fuer dieses Blatt und **einer vom
 Autor beim Lesen des Blatts** - was der eigentliche Zweck des Blatts ist.
@@ -594,3 +606,80 @@ nicht wirkt. Wer markiert, schreibt das Wort in die **letzte** Zeile vor dem
 Zitat - oder `vorlauf` merkt sich die Marke bis zur naechsten Leerzeile.
 
 **Nicht von mir geaendert**, `belege.py` gehoert der Pruefsitzung.
+
+---
+
+### Alle Unsicher-Punkte durchgeprueft
+
+Auftrag des Autors. Massstab ist die korrigierte Regel: **nicht innerhalb der
+Szene bleiben, sondern belegbar sein.** Vierzehn Stellen, drei Ergebnisse.
+
+#### A. Haelt und bleibt, weil belegt
+
+| Kap | Satz | Beleg |
+|---|---|---|
+| b2 K21 | *"**Nobody** in that building had **ever** said it to him, because **everybody** in that building had thought he was the improvement."* | Mrs Jeon, b2 K07: *"He is the most honest person I have ever worked for ... he has spent five months making them not a disgrace, and he is proud of it, and he has every right to be."* Georgij, b2 K10: *"That page exists because somebody made the house honest. **Nobody in it has understood that yet.**"* |
+| b2 K05 | *"It was the **only asset he had ever had**, and it was not anything he had done."* | `CLAUDE.md` Grundregel 2 (er besitzt nichts); seine eigene Zeile im selben Wechsel: *"It is the only true thing I have that is worth anything to you."* |
+| b2 K48 | *"It was **the whole of** what he thought of the afternoon..."* | Praezedenz im Buch fuer dieselbe Kamerafreiheit: b2 K42, *"Sang-hoon took that better than Georgij had expected, and worse than he let it show."* |
+| b2 K09 | *"...and **she does not do that**."* | Hausformel des Erzaehlers, quer durch beide Baende (*"which she does perhaps twice a month"*, *"which is not a thing he does"*) |
+| b2 K53 | *"...and it was **the largest one** the man had."* | **vom Autor abgenommen** |
+
+**Beide zurueckgestellten Saetze waren vorher gestrichen worden** - unter der
+falschen Regel. Sie stehen wieder drin.
+
+#### B. Neu geschrieben: greift jetzt weiter aus als vorher **und** ist belegt
+
+| Kap | vorher | jetzt | Beleg |
+|---|---|---|---|
+| b2 K12 | *"the nearest thing to a complaint he had ever made in that room"* - unbelegbarer Superlativ ueber acht Monate | *"**In March** he told her that his one asset is that other men want him. **Three weeks later** he told her whose hand he wants on it."* | b2 K05 ist der 11. Maerz, b2 K12 der 3. April - dreiundzwanzig Tage |
+| b2 K64 | *"the only promise anybody has made her in four years"* - behauptet Kenntnis von allem, was ihr in vier Jahren gesagt wurde | *"It is the answer to **the first question she has asked him in four years**, and it is about a roof."* | Sim im selben Kapitel: *"She has never once asked me a question in four years ... she asked me one."* |
+| b2 K65 | *"the only sentence anybody has said to him this year"* | *"**In March** she told him she had **never in her life told anybody anything the whole way through**. She had just done it, and she had done it to him."* | Mrs Sunwoo, b2 K10, woertlich |
+| b1 K28 | *"people have been covering for him all year"* - es sind zehn Wochen, kein Jahr | *"He has been counting what everything costs **since October**, and she had just told him he has been counting **one side of it**."* | er kam am 4. Oktober; b1 K27, Tag davor: *"Ten on Saturday."* |
+
+**Das ist der eigentliche Ertrag der Pruefung.** Die vier Saetze sind nicht
+kleiner geworden, sondern groesser: drei von ihnen greifen jetzt ueber ein
+anderes Kapitel hinweg, und jeder Griff hat eine Fundstelle.
+
+#### C. Bleibt korrigiert, weil der alte Satz **nicht stimmte**
+
+| Kap | falscher Satz | woran er scheitert |
+|---|---|---|
+| b2 K28 | *"...to **the one man in that building** who would have known what it was."* | Am 9. Januar sass **Mr Byun** noch in dem Gebaeude - sechsundzwanzig Jahre Register, er haette es besser gewusst als Hwang. Jetzt: *"to the man who keeps everything"* (Kapiteltitel, und Georgijs eigene Zeile) |
+| b2 K29 | *"...**the only part of it** that was ever hers."* | Der Inhalt ist auch ihrer - sie hat ihn geschrieben. Jetzt: *"kept the book, which she had bought herself"* (ihre eigene Zeile) |
+| b2 K32 | *"the only thing he said all morning that he had **not decided on the bus**"* | Der Bus steht im Kapitel, das Entscheiden darauf ist **erfunden** |
+| b2 K32 | *"kept back the only part of it **that would have helped him**"* | Mr Hwang sagt ausdruecklich *"Not for him."* |
+| b2 K40 | *"the **only** thing he said all morning that was about himself"* | Jang sagt im selben Gespraech *"Thirty years in this work ... I have stood outside two other buildings like this one."* |
+| b2 K40 | *"...a different refusal from the one **on a landing**."* | Kein Sachfehler, ein Handwerksfehler: **Georgij sagt *landing* vierunddreissig Zeilen spaeter selbst**, und seine Zeile ist die bessere. Der Erzaehler nahm sie ihm vorweg |
+| b2 K50 | *"...and it had taken **Georgij five months**."* | Georgij ist dort **nicht** angekommen: *"I do not know that yet ... I have two documents and a quantity of groceries."* |
+| b2 K62 | *"the only thing anybody has found that will work on him"* | Widerspricht Georgij selbst in b2 K50: *"There is exactly one thing on this earth that will move that man ... It is finding out what the kind version was covering."* Das Abendessen ist die Folge, nicht der Hebel |
+| b1 K28 | *"a thing he has **never told anybody**"* | Nicht pruefbar. Jetzt: *"He had given her two things and called it one, and she counted them"* - was Hana tatsaechlich tut, und es fuellt zugleich die Beat-Luecke |
+| b1 K27 | *"...which is not how the rest of the year has gone."* | **Kein Wahrheitsproblem, ein Platzproblem:** der Satz stand hinter der letzten Zeile des Kapitels, und die ist eine Figurenpointe. Ersatzlos raus, nach demselben Befund, der fuer die elf Band-1-Schluesse gilt |
+
+#### Bilanz
+
+**Vierzehn geprueft: fuenf halten, vier sind groesser geworden, acht waren
+falsch und sind es nicht mehr, einer ist aus Platzgruenden raus.**
+
+Von den acht Fehlern hat **kein einziger** an einer Zahl gehangen, die
+`faktenspur.py` sehen kann. Sechs hingen an einem **Superlativ** (*only*,
+*never*, *nobody*, *the one*), einer an einer **erfundenen Handlung** (der Bus),
+einer an einem **Widerspruch zu einer anderen Figur** (Hwangs *"Not for him"*).
+
+**Daraus die Arbeitsregel, und sie ist enger als jede Zaehlung:** Steht in einem
+Erzaehlerkommentar ein Superlativ, gehoert die Fundstelle daneben, bevor der
+Satz ins Buch geht. Steht keine da, ist der Superlativ noch nicht wahr - er ist
+nur noch nicht widerlegt.
+
+**Gegenprobe `faktenspur.py --seit 1c9dde2`:** acht Kapitel. Aufgeloest: b1 K28
+`october` +1, `one` +2, `two` +1 (*since October*, *one side of it*, *two
+things*); b2 K12 `march` +1, `three` +1 (*In March ... Three weeks later*); b2
+K64 `first` +1 (*the first question*); b2 K65 `march` +1 (*In March*); b2 K28,
+K40, K62 je eine Zahl **weniger**, weil dort ein falscher Superlativ
+verschwunden ist; b2 K50 tauscht *five months* und *ninety seconds* gegen
+*thirty years*. **b2 K05 und K21 meldet sie gar nicht** - dort steht wieder
+genau der Satz, der vorher schon dastand, und die beiden Zwischenfassungen aus
+der falschen Regel sind geloescht statt committet. Aus demselben Grund tragen
+die vier neu geschriebenen Kapitel die **naechste** Nummer und nicht die
+uebernaechste: ein Zwischenschritt, den nie jemand lesen sollte, gehoert nicht
+ins Archiv, weil `faktenspur.py` und `belege.py` beide gegen alte Fassungen
+vergleichen.
