@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 65 Kapitel, 160.565 Woerter.
+Book Two, 65 Kapitel, 160.577 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -32,7 +32,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 19 | v1.3 | 2.151 |
 | 20 | v1.5 | 2.126 |
 | 21 | v1.5 | 2.568 |
-| 22 | v1.3 | 2.001 |
+| 22 | v1.4 | 2.001 |
 | 23 | v1.4 | 1.998 |
 | 24 | v1.3 | 2.050 |
 | 25 | v1.2 | 2.128 |
@@ -44,29 +44,29 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 31 | v1.1 | 2.356 |
 | 32 | v1.0 | 2.379 |
 | 33 | v1.2 | 2.015 |
-| 34 | v1.2 | 2.261 |
+| 34 | v1.3 | 2.260 |
 | 35 | v2.7 | 3.966 |
 | 36 | v2.1 | 3.315 |
-| 37 | v2.1 | 3.913 |
+| 37 | v2.2 | 3.912 |
 | 38 | v2.4 | 2.977 |
-| 39 | v2.1 | 2.940 |
-| 40 | v2.2 | 2.769 |
+| 39 | v2.2 | 2.940 |
+| 40 | v2.3 | 2.783 |
 | 41 | v2.3 | 3.902 |
 | 42 | v2.2 | 3.354 |
 | 43 | v2.0 | 2.816 |
 | 44 | v2.1 | 2.516 |
 | 45 | v1.1 | 2.176 |
-| 46 | v1.1 | 2.599 |
+| 46 | v1.2 | 2.599 |
 | 47 | v1.2 | 1.918 |
 | 48 | v1.0 | 2.326 |
-| 49 | v1.1 | 2.081 |
+| 49 | v1.2 | 2.081 |
 | 50 | v2.2 | 2.960 |
 | 51 | v1.2 | 2.148 |
 | 52 | v1.2 | 3.133 |
 | 53 | v1.2 | 2.484 |
 | 54 | v1.2 | 2.862 |
 | 55 | v1.2 | 2.060 |
-| 56 | v1.2 | 2.328 |
+| 56 | v1.3 | 2.328 |
 | 57 | v1.1 | 2.882 |
 | 58 | v1.1 | 2.379 |
 | 59 | v1.0 | 2.237 |
@@ -4459,7 +4459,7 @@ He wrote the time in the second column of the visitors' book on the way out, bec
 ---
 
 # Book Two · Chapter 22: I did not offer you anything
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Two Hundred and Fifteen · Wednesday 6 May
 
@@ -4599,7 +4599,7 @@ The flat was very quiet.
 
 "You wrote something down," said Georgij.
 
-"How do you know that."
+"How do you know that?"
 
 "Because you were frightened, and a frightened man of that kind writes one line and puts it somewhere and then does not look at it for four years."
 
@@ -4633,7 +4633,7 @@ Georgij stopped with his hand on the door and did not turn round.
 
 "Mr Byun."
 
-"What."
+"What?"
 
 "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carried the word round with her ever since like a receipt." He said it perfectly evenly. "She is eighty-one. When I told her in March that it had not been done, she rang a bell and had a catalogue brought out of a drawer. She found the line with one finger and did not need to be shown which one."
 
@@ -7013,7 +7013,7 @@ Georgij stood in the kitchen on his own and poured a cup he had been told to hav
 ---
 
 # Book Two · Chapter 34: The best company in the room
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7145,7 +7145,7 @@ Mrs Seo came in with coffee he had not asked for and put it down without comment
 
 "No."
 
-"Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things than for people who tell me half of them." She looked at him for a moment on her way to the door. "Drink it before it goes cold. You did that yesterday as well."
+"Good," said Mrs Seo. "It's easier to run a house for people who do not tell me things than for people who tell me half of them." She looked at him for a moment on her way to the door. "Drink it before it goes cold. You did that yesterday as well."
 
 She went out and left him with the cup and the notebook.
 
@@ -7798,7 +7798,7 @@ There is no version of the next four weeks in which he does not leave the same t
 ---
 
 # Book Two · Chapter 37: The one who asked a question
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Two Hundred and Fifty-One · Thursday 11 June
 
@@ -7952,7 +7952,7 @@ Georgij looked at it. His own name, block letters, no return address, a Gwangyan
 
 "Today is the fifteenth," he said.
 
-"Yes," said Mrs Seo. "It is also a Monday, if that means anything to you."
+"Yes," said Mrs Seo. "It's also a Monday, if that means anything to you."
 
 It meant a great deal to him, more than the date alone could account for, and he did not say so.
 
@@ -8318,7 +8318,7 @@ He wanted to be sure of it for a day before he handed it to anybody, including h
 ---
 
 # Book Two · Chapter 39: The man kitchens talk to
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Two Hundred and Fifty-Nine · Friday 19 June
 
@@ -8340,7 +8340,7 @@ The new owner was a woman of about forty with a headset and a tablet, and she wa
 
 "He did not leave a book," she said. "He left me a coffee machine that does not work and a very good exhaust fan. If he kept a reservation diary, it went with him."
 
-"Do you have a name for him."
+"Do you have a name for him?"
 
 "Mr Sohn. I have not spoken to him since the day I signed. My solicitor has an address for the deposit return and I do not know if it is current." She looked at him properly for the first time. "You are the second person to ask me about a private dinner from before my time. The first one asked in April and I told him the same thing I am telling you."
 
@@ -8378,7 +8378,7 @@ Mr Sohn considered that the way a man considers a dish he cooked once, a long ti
 
 "Older. Pleasant. He complimented the wine and asked what went into the sauce, and I told him, and he thanked me by name, which is unusual, because most men in a private room never learn a cook's name at all." He wiped his hands on the apron he was not wearing, out of habit. "He left before the coffee too. I remember thinking it was strange that neither of them wanted it, on a night that cold."
 
-"Did he eat."
+"Did he eat?"
 
 Mr Sohn looked at him properly for the first time in the conversation.
 
@@ -8394,7 +8394,7 @@ The man he is looking for does not eat in front of anybody he is working on. Who
 
 That was worth having, even cold. Whoever suggested the cards was somebody Choi Dae-ho trusted to sit at a table and be pleasant on his behalf, which meant there was at least one more person in this than Georgij had been counting.
 
-"Which one left first."
+"Which one left first?"
 
 "The older one. About ten minutes before the other, on his own, no goodbye that carried through the wall." Mr Sohn shrugged. "I did not think anything of it. People leave dinners in whatever order they leave them."
 
@@ -8498,7 +8498,7 @@ The room did what it does.
 
 "Yes."
 
-"Are you going to walk it."
+"Are you going to walk it?"
 
 "Yes," said Georgij. "Somebody walked into that woman's restaurant in April and left again as soon as he was satisfied it was empty. That is what happens to the rooms I am slow about, and I am not going to be careful at the expense of the next kitchen he gets to first and call it discipline."
 
@@ -8539,7 +8539,7 @@ Page two is longer than it was on Tuesday. Page one is not.
 ---
 
 # Book Two · Chapter 40: Somebody who did not arrive in a car
-*Lot Fourteen* · Version 2.2 · EN
+*Lot Fourteen* · Version 2.3 · EN
 
 ## Day Two Hundred and Sixty-One · Sunday 21 June
 
@@ -8547,7 +8547,7 @@ Jang asked for the whole morning, and Annie gave it to him, which is not a thing
 
 They sat in the room off the library, the three of them, and Jang put a folded map on the desk before he said anything at all.
 
-"I have not been onto the property," he said. "I have not spoken to anybody who works there. I have not used the route I had ready, because nobody told me to, and I do not go past a line I have not been given."
+"I have not been onto the property, ma'am," he said. "I have not spoken to anybody who works there. I have not used the route I had ready, because nobody told me to, and I do not go past a line I have not been given."
 
 "Say what you have got instead," said Annie.
 
@@ -8565,13 +8565,13 @@ Annie had a notepad open and had written nothing on it since Jang sat down. It i
 
 "How many people does that feed," said Annie.
 
-"Between six and ten, depending how careful the kitchen is," said Jang. "That is a guess and I am telling you it is a guess."
+"Between six and ten, depending how careful the kitchen is," said Jang. "That's a guess and I'm telling you it's a guess."
 
 Georgij looked at the map.
 
 "Staff."
 
-"Four cars in the morning, four out in the evening, six days a week, which is a rota, not a family living there. One car stays overnight on Wednesdays only, and I do not know why Wednesday and not another day."
+"Four cars in the morning, four out in the evening, six days a week. That is a rota. I counted it every morning I was there and it did not vary once. One car stays overnight on Wednesdays only, and I don't know why Wednesday and not another day."
 
 "Guess," said Annie.
 
@@ -8611,11 +8611,11 @@ Nobody said anything for a while.
 
 Jang put both hands flat on the desk, either side of the folded map.
 
-"Thirty years in this work," he said. "I have stood outside two other buildings like this one, for two other families, and both times the answer turned out to be worse than a window and a bus stop. I am not telling you it is not bad." He kept his hands flat on the desk. "I am telling you that a person who is allowed to stand at a window and choose when the light goes off has more left than most of what I have seen in this line of work. I have seen enough of it to have a scale."
+"Thirty years in this work, ma'am," he said. "I have stood outside two other buildings like this one, for two other families, and both times the answer turned out to be worse than a window and a bus stop. I am not telling you it is not bad." He kept his hands flat on the desk. "I am telling you that a person who is allowed to stand at a window and choose when the light goes off has more left than most of what I have seen in this line of work. I have seen enough of it to have a scale."
 
 "And if you are wrong."
 
-"Then I am wrong, and you will have spent sixteen days of my time finding that out gently instead of finding it out the other way." Jang said it without any defensiveness in it at all. "I would rather be wrong that way round."
+"Then I am wrong, and you will have spent sixteen days of my time finding that out gently instead of finding it out the other way." He said it to the map. "I would rather be wrong that way round."
 
 Georgij looked at the map, still folded, still in Jang's hands.
 
@@ -8627,13 +8627,13 @@ Nobody in the room said anything for a while.
 
 "That is either the kindest thing anybody has told me about this in four years," said Georgij, "or it is the worst, and I have not decided which."
 
-"It is both," said Jang. "In this kind of work it is almost always both, and I have stopped expecting otherwise."
+"It is both," said Jang. "In this kind of work it is almost always both. The second of the two buildings is still standing, and I take the long way past it."
 
 Annie looked at the map on the desk without touching it.
 
 "You are not going in," she said. "Not through the tradesman's route, not through the old man, not through anything. Not yet."
 
-"I was not going to ask," said Jang.
+"I wasn't going to ask, ma'am," said Jang.
 
 "I know you were not. I am saying it so that Georgij hears me say it to you and not only to him." She looked at Georgij directly. "The next step is not a road. It is a name on a registry, and that is Sang-hoon's road to walk, not ours, because he has people who can walk it without either of your faces attached to it."
 
@@ -9683,7 +9683,7 @@ He finished the line. Annie came off the edge of the desk and sat down on the fl
 ---
 
 # Book Two · Chapter 46: The post still comes
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Eighty-Three · Monday 13 July
 
@@ -9729,7 +9729,7 @@ Georgij put his hands where she could see them, which costs nothing and buys abo
 
 Georgij stood in a doorway in Seodaemun and let a woman water four pots.
 
-"How many is everybody."
+"How many is everybody?"
 
 "How many is what?"
 
@@ -9741,15 +9741,15 @@ Georgij stood in a doorway in Seodaemun and let a woman water four pots.
 
 "The post still comes, mind. That's the thing." She was saying it to the pot. "Every week, near enough. It falls out when the box gets full and I put it back through, because who else is going to."
 
-"Who empties it."
+"Who empties it?"
 
 "He does."
 
-"Say who."
+"Who is he?"
 
 "A man! Three times a year. Four." The can went down at last. "Not young. He's got the key to the box and none for the door, which is how I ever met him at all. Stood out there in the rain the first time, waiting for somebody to come out, and I was the somebody. I said you'll catch your death standing about like that. He said he'd been colder."
 
-"Say what he was like when you let him in."
+"What was he like when you let him in?"
 
 She thought about that in a way that told him nobody had asked her a question about it in four years.
 
@@ -9759,7 +9759,7 @@ Georgij stood in a stairwell doorway in Seodaemun on a Monday morning and did no
 
 "It had died," she said. "He was sorry. Properly sorry, you could see it on him. A man who remembers a plant. There's not many come through that door I'd say that about."
 
-"Has he been recently."
+"Has he been recently?"
 
 "Not since the spring. March, was it. It was still cold." She looked at him properly for the first time since he had come in. "You've gone a funny colour. Do you want to sit down? There's a chair just inside the door."
 
@@ -10228,7 +10228,7 @@ He did not write anything in either page that night, for the first time since th
 ---
 
 # Book Two · Chapter 49: What he asked her
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Two Hundred and Ninety-Two · Wednesday 22 July
 
@@ -10290,7 +10290,7 @@ She almost smiled at that and did not, and put the cup down.
 
 "Now ask me the question you came for, because you have been in my chair for six minutes and you have not asked it, and I know what it is."
 
-"What did he say."
+"What did he say?"
 
 Mrs Bae took a moment, and when it came it came in order, the way it does from somebody who has been over it.
 
@@ -10328,7 +10328,7 @@ Mrs Bae took that without flinching.
 
 "There is."
 
-"Is she alive."
+"Is she alive?"
 
 Georgij did not answer straight away, and the not answering went across the desk exactly as it was.
 
@@ -10392,7 +10392,7 @@ Annie let that stand in the room for a moment.
 
 "Write it down," she said.
 
-"Which part."
+"Which part?"
 
 "That sentence, in those words, tonight, before you have had time to make it sound better." She picked her pen up and did not use it. "You have started writing the tidy version again. Twice this month. I am not going to keep noticing it out loud for you."
 
@@ -11703,7 +11703,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 ---
 
 # Book Two · Chapter 56: Four streets
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -11805,7 +11805,7 @@ Mr Ahn did not answer straight away.
 
 "Say it properly," he said, "because you have been careful with me for six minutes and you can stop."
 
-"Did you know what the house was."
+"Did you know what the house was?"
 
 "Yes."
 
@@ -11863,7 +11863,7 @@ He has taken six people's explanations off them since June and every one of them
 
 Mr Ahn stood up from the stool and did not come round the bench.
 
-"Is she alive."
+"Is she alive?"
 
 Georgij took the length of time it deserved.
 

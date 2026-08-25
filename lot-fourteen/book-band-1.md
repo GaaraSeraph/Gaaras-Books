@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.309 Woerter.
+Book One, 34 Kapitel, 101.316 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,7 +16,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v2.9 | 3.378 |
 | 04 | v1.10 | 2.445 |
 | 05 | v5.12 | 4.336 |
-| 06 | v1.8 | 2.070 |
+| 06 | v1.9 | 2.077 |
 | 07 | v6.6 | 3.860 |
 | 08 | v3.8 | 2.691 |
 | 09 | v3.5 | 3.120 |
@@ -1462,7 +1462,7 @@ He stopped.
 ---
 
 # Book One · Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1618,7 +1618,7 @@ She walked round him once. She took something off the shoulder that he could not
 
 Then she stood in front of him and straightened nothing at all, which is what people do when they have run out of reasons to keep looking.
 
-"Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that with her. Not one person."
+"Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that with her. You are the first shoulder I have brushed for it."
 
 "No."
 
