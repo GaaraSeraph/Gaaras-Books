@@ -96,6 +96,8 @@ b2  ch59  v1.0       2237 Woerter  ch59_v1_0_en.md
 b2  ch60  v1.0       2534 Woerter  ch60_v1_0_en.md
 b2  ch61  v1.0       2344 Woerter  ch61_v1_0_en.md
 b2  ch62  v1.0       2154 Woerter  ch62_v1_0_en.md
+b2  ch63  v1.0       2151 Woerter  ch63_v1_0_en.md
+b2  ch64  v1.0       2290 Woerter  ch64_v1_0_en.md
 
-Gesamt: 2 Baende, 96 Kapitel, 254863 Woerter
+Gesamt: 2 Baende, 98 Kapitel, 259304 Woerter
 Handbuch: 13 Dokumente

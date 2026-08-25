@@ -281,6 +281,12 @@ Haushalt, den sie nicht bestellt hat, und sie hat die Bestellungen übernommen,
 weil es sonst niemand tat. Sie hat ihrem Bruder das Schlimmste erst im Korridor
 gesagt.
 
+**Sie hat am 27. August zum ersten Mal gesprochen** (Kapitel 64), und es war ein
+einziger Satz, viermal wiederholt, ueber neunzehn Minuten: *"The shed roof should
+be done properly or not at all."* **Das ist ihre Stimme unter Aufsicht** und nicht
+ihre Stimme. Wenn sie zum ersten Mal frei redet, muss der Unterschied hoerbar
+sein.
+
 **Vorschlag, aber nicht entschieden:** ihre Maschine ist **die erledigte Sache**.
 Sie spricht in abgeschlossenen Vorgängen und nie in Absichten - was gemacht ist,
 wann es gemacht wurde, was als Nächstes fällig ist. Ein Mensch, der vier Jahre

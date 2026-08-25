@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 62 Kapitel, 153.554 Woerter.
+Book Two, 64 Kapitel, 157.995 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -73,6 +73,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 60 | v1.0 | 2.534 |
 | 61 | v1.0 | 2.344 |
 | 62 | v1.0 | 2.154 |
+| 63 | v1.0 | 2.151 |
+| 64 | v1.0 | 2.290 |
 
 ---
 
@@ -13193,3 +13195,465 @@ She came away from the window and stopped about a metre from him, which is where
 He waited.
 
 "I have not changed my mind," said Annie. "I want you to have heard me say that on the day I found out where he came from, and not next week, when it would be easier and would mean less."
+
+---
+
+# Book Two · Chapter 63: One sentence
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Twenty-Six · Tuesday 25 August
+
+He went up the hill on foot again, because it is ten minutes and it is uphill in one direction, and he wanted the ten minutes.
+
+He had written the rule out again in the car, the same one, in the same words, and had then written a second line under it that had not been there in August.
+
+*I am not going to take his story off him.*
+
+*And I am about to ask him for the only thing he has left.*
+
+* * *
+
+The bell went and Mr Ahn looked up and did not stand.
+
+There was a pump on the bench this time, in pieces, with the impeller out and set beside it on a cloth.
+
+"You," he said.
+
+"Yes."
+
+"Eleven days." He put the screwdriver down. "I've been telling myself a fortnight. It's eleven days. I've counted every one of them and I'd have told you fourteen if you'd asked me at the door."
+
+Georgij stayed inside the door, where he stood in July.
+
+"Come in properly," said Mr Ahn. "You stood there last time and I let you, and I've thought about that since and I'd rather you didn't."
+
+* * *
+
+Georgij came in properly and sat on the stool at the end of the bench, which put him lower than the man who owned the shop, and did that on purpose.
+
+"I am going to say four things," he said. "The first two are what you have been waiting four years for. The third one is going to be difficult. The fourth one is a question and you can say no to it."
+
+"Say the first."
+
+"She is alive."
+
+Mr Ahn did not move at all.
+
+The shop did what a shop does. Somewhere behind the wall a compressor came on and ran and stopped.
+
+"Say it again."
+
+"Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything has changed since Friday." Georgij did not soften any of it. "I have not seen her. I have not spoken to her. I am telling you what I can prove and I am going to tell you exactly how I can prove it, because you have had four years of people telling you nothing."
+
+Mr Ahn put both hands flat on the bench either side of the pump.
+
+"Go on then."
+
+* * *
+
+"There is a house with nine people working a rota and food delivered every week for ten," said Georgij. "The order went up by one in the summer four years ago and it has never come back down. There is a person in that house who does not go home."
+
+"That could be anybody."
+
+"It could, and that is why I have not offered it as the proof." He kept both hands where the other man could see them. "The proof is what that person does. She takes the telephone calls about the heating and the plumbing, and she decides what gets ordered, and she has been doing it for about three and a half years."
+
+"She worked in an office."
+
+"Nine years."
+
+Mr Ahn looked at the pump.
+
+"She'd have taken it over," he said. "Somebody's got to and nobody was, so she would." He turned the impeller over once. "You haven't found anything clever. You've found her."
+
+"No," said Georgij. "It took me sixteen days, and I had it in my coat the whole time."
+
+* * *
+
+"The second thing," said Mr Ahn. "You said four."
+
+"The second thing is that somebody is going to stand underneath her before anybody takes the floor away." Georgij said it plainly. "There is a woman on the river who agreed to it and did not need persuading. I am not going to explain the mechanism today, because you would not sleep and it is not a thing you can help with."
+
+"And you are not asking me for money."
+
+"You do not have any."
+
+"No." Mr Ahn almost got something out that was not quite a laugh. "That's the first pleasant thing anybody's said to me about it. Everybody else has been careful."
+
+* * *
+
+"The third thing," said Georgij.
+
+He took the time it needed, because Woo had done that for him on a Sunday and he had understood in about four seconds afterwards what it had been for.
+
+"I know where the house is," he said. "I have known since the sixth of July. I am not going to tell you, and I am not going to tell you today or next month, and I want to say the reason out loud rather than let you build a worse one."
+
+Mr Ahn had gone very still.
+
+"Say it."
+
+"You would go." Georgij did not look away. "Not this week. You would sit here for eleven days and count them, and on the twelfth you would shut the shop and get on a bus, and you would be right to and it would end her."
+
+"You do not know that."
+
+"I know that a man walked up a hill four years ago and let his sister go into a building, and has not had one hour since in which he did not think about walking back down it." He said it level. "You would not survive knowing and not going. I would not either. Nobody would."
+
+The compressor came on again behind the wall.
+
+"That's the cruellest thing anybody's said to me in four years," said Mr Ahn.
+
+"Yes."
+
+"And it's right." He picked the impeller up off the cloth and put it down again about four centimetres away. "I'd have been on a bus by Friday. I'd have told myself I was only going to look at the road."
+
+* * *
+
+Neither of them said anything for a while.
+
+"Then what's the fourth," said Mr Ahn.
+
+"Somebody has to get one sentence to her," said Georgij. "It goes down a telephone line into a house that is not hers, through a man she has spoken to four times a year for four years about the heating." He did not hurry. "It has to be a sentence he can say without knowing what it means, and that nobody else in that building understands."
+
+Mr Ahn understood it before the end.
+
+"You want something only she'd know."
+
+"Yes."
+
+"From me."
+
+"From you." Georgij did not hurry. "It has to be small. It cannot be a name and it cannot be a date and it cannot be anything a person could look up. If it sounds like a message it is worse than useless, because she will hear that somebody is doing something and she will not know who, and a frightened person in that house tells the house."
+
+"So it has to sound like nothing."
+
+"It has to sound like a man making conversation on a telephone, and it has to go through her like a train."
+
+* * *
+
+Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again.
+
+"Give me a minute."
+
+"Take four."
+
+He took about seven.
+
+He did not pace and he did not look at the ceiling. He picked things up off the bench and put them down in slightly different places. Once he opened the drawer under it and looked in and shut it again without taking anything out. Georgij sat on the stool and did not help.
+
+Then he stopped, with one hand on the pump.
+
+"Have you got a pen."
+
+* * *
+
+He did not write it. He said it, and made Georgij write it, and then made him read it back twice.
+
+"The one by the door is doing better this year."
+
+Georgij looked at the page.
+
+"Say what it is."
+
+"There's a pot outside my door. There's been one outside that door since before I had the shop, and it's not mine, it's the woman from the noodle place, and it dies every winter and she puts another one in." Mr Ahn had his hand flat on the bench. "Jung-hee said to me once, and it was about eleven years ago and it was nothing, that she'd stopped feeling sorry for it. She said it's not the same plant. It's the same pot."
+
+Georgij did not write that part down.
+
+"Nobody knows that," said Mr Ahn. "Not my wife's family. Not the woman from the noodle place." He put the cloth down. "I've never said it out loud to a living person until just now, because there's nothing in it. It's a thing my sister said outside a door on a Tuesday."
+
+* * *
+
+"And she will hear the rest of it," said Georgij.
+
+"She'll hear the whole of it in about a second and a half." Mr Ahn said it without any pride in it at all. "She'll hear that somebody is standing in front of that pot. And there's only one person who'd be standing in front of that pot."
+
+"There is one more thing you should decide before I take it."
+
+"Say it."
+
+"If she works it out, she will know that you are looking for her." Georgij held his eye. "That is four years of a man not stopping, delivered to a woman who arranged her own consignment in four days so that he would not have to carry it. She may not be glad."
+
+Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was not four seconds either.
+
+"She'll be furious," he said. "That's fine. She's been furious with me since she was nine."
+
+* * *
+
+At the door, Georgij stopped, and it was not the same door and not the same stop.
+
+"You have not asked me the question," he said.
+
+"Which one."
+
+"The one you asked me in July."
+
+Mr Ahn looked at him.
+
+"Is she alive." He picked the screwdriver up. "You led with it. Nobody's ever led with anything in my life."
+
+"You have not asked me the other one."
+
+The shop was quiet for a moment.
+
+"How long," said Mr Ahn.
+
+"I do not know. Weeks, if everything holds. Longer if it does not." Georgij said it without any decoration. "There is a version in which it does not work and she stays where she is, and you are hearing that from me today and not in November." He did not soften it. "I am not giving you a number to hold on to. I have watched what a number does to a man who is waiting."
+
+"Then give me something that isn't a number."
+
+Georgij stood in the door of a repair shop on a corner.
+
+"Somebody in Seoul knows her name," he said. "That has been true for eleven days and it was not true for four years, and it is not going to stop being true."
+
+* * *
+
+He walked back down the hill and it took eight minutes.
+
+He wrote the sentence out again in the car, on a clean page, in block capitals, because he had noticed his own handwriting doing something on the first one.
+
+*THE ONE BY THE DOOR IS DOING BETTER THIS YEAR.*
+
+Then he sat with the notebook shut on his knee for a while, in a parked car in a street four streets from a flat on a fourth floor, with the engine off.
+
+*Sim has said one true sentence to that woman every three months for four years, about heating and plumbing and whether a second bathroom is worth doing, and he has never once known who he was talking to.*
+
+*Now I am going to hand him a sentence and not tell him what is in it. He is going to say it in his own voice, and it will be the only dishonest thing that man has done in eleven years.*
+
+He wrote the last line standing outside the car, because he could not do it sitting down.
+
+*He will say yes. That is the part I have to be able to live with. He will say yes because I asked, and he will not ask me what it means, and I have known that since about four o'clock this afternoon.*
+
+---
+
+# Book Two · Chapter 64: The one who orders
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Twenty-Eight · Thursday 27 August
+
+Sim chose the room, which Georgij had expected, and it was not a restaurant.
+
+It was an office on the second floor of a building in Jongno with three doors off a corridor and a plate on none of them. Two chairs, a desk, a filing cabinet with a lock that works, and a window that looks at the back of a bank.
+
+"I have had this for nineteen years," said Sim, "and I have brought four people to it, and you are the fourth, and one of the other three is dead."
+
+"Thank you."
+
+"Do not thank me for the room. Thank me for the tea, which is better than it needs to be, and which I have made myself, because there is nobody here and there has never been anybody here."
+
+* * *
+
+He had made the tea before Georgij arrived, and it was at the right temperature, which meant he had timed it.
+
+"You have not slept," said Sim.
+
+"No."
+
+"You are going to ask me for something and you have decided it is the worst thing you have asked anybody for this year." He sat down. "I want you to know before you start that I worked that out on Tuesday, when you telephoned, from the length of the pause after I said yes."
+
+"That is accurate."
+
+"Then get it out of your mouth and let me have it. You have been carrying it since Tuesday and I have been carrying it since Tuesday, and mine is worse, because I have not known what it is."
+
+* * *
+
+Georgij took the notebook out and did not open it.
+
+"There is one sentence," he said. "I need it said to a person in that house, on a telephone, by somebody whose telephoning is ordinary. It is nine words long and it sounds like nothing."
+
+Sim did not move.
+
+"You want me to be the post."
+
+"Yes."
+
+"And you have not opened the book, which means you were intending to give it to me on a piece of paper without the rest of it." He was entirely courteous about it. "Say whether that is right, because I would rather have it from you than work it out later. I have got very good at working things out later."
+
+"That is right," said Georgij. "That is what I came here intending to do, and I decided against it in the corridor outside your door about ninety seconds ago, and not one minute before that."
+
+Sim looked at him for a moment.
+
+"Then we are both having an honest afternoon," he said. "Sit down properly. You are going to be here a while and that chair is worse than it looks."
+
+* * *
+
+"Ask me the question," said Georgij.
+
+"I know the question. I am deciding whether I want it answered." Sim turned his cup a quarter turn on the desk and left it. "For thirty years I have been the man who does not ask. Nobody should mistake that for a virtue. It is how the work is done and it is also how I got here. On the first of August you put a piece of paper in front of me and let me read it, and I have not been the same since."
+
+"I know."
+
+"Then you know what you are about to take off me, and I would like you to say it out loud, because you are the only person who ever has."
+
+Georgij put both hands flat on his knees.
+
+"If I tell you what is in the sentence, you cannot go on being a man who did not know," he said. "You have had eleven years of that and it has cost you a great deal and it has also held you together. And if I do not tell you, then I am the eleventh person to hand you something sealed, and I would be doing it four weeks after telling you that nobody should."
+
+"That is the whole of it."
+
+"That is the whole of it."
+
+Sim sat back.
+
+"Tell me," he said.
+
+* * *
+
+Georgij told him all of it and it took eleven minutes.
+
+The nine on the rota and the food for ten. The person who does not go home. The heating and the second bathroom, and what those two things mean about who is in that building on the day the men come.
+
+Then the name, and then the other name.
+
+"Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for nine years. She has a brother four streets from her flat who repairs small motors, and she went into that house four years ago in February to settle a debt that was his."
+
+Sim did not say anything at all.
+
+"She is the person you have been telephoning about the heating," said Georgij.
+
+* * *
+
+The office on the second floor did what a room does at four in the afternoon.
+
+Sim sat with both hands on the arms of his chair and did not move them, and Georgij watched a man of sixty-odd go through four years in about a minute and a half.
+
+"I asked her about her winter," he said, eventually.
+
+"Say that again."
+
+"In November, three years ago. There was a question about the boiler and it took eleven minutes, and at the end of it I asked her whether the house was warm enough where she slept." He was looking at the desk. "I asked it because I ask people things. It is what I do instead of being interesting."
+
+Georgij did not say anything.
+
+"She said it was fine." Sim put one hand flat on the desk. "And then she said that the room at the back gets the sun in the afternoon, and I said that was worth having, and we went on to the guttering."
+
+"That is not nothing."
+
+"It is not nothing at all." His voice did not change. "That is a woman who was bought four years ago telling a man she has never met which room gets the sun. And the man wrote guttering in his book and rang off."
+
+* * *
+
+"There is a second half," said Georgij, "and it is worse than the first one, and you are going to have it now."
+
+"Then say it."
+
+"The doctor you added four years ago has never once billed for the woman on the oxygen." He did not soften it. "Every piece of medical attention that has ever left a mark in that building has a lot number in the patient box. You did not add a doctor to a household. You added a doctor to her."
+
+Sim went very still.
+
+"Say what you think that is for," he said.
+
+"I do not know."
+
+"Say the version you have not written down."
+
+Georgij looked at him.
+
+"I am not going to," he said. "Not because I am protecting you. Because I cannot prove it, and if I say it in this room you will carry it for the rest of your life whether it is true or not, and I have made that mistake once this month already."
+
+Sim was quiet for a long moment.
+
+"That is the second time you have refused to give me something comfortable," he said, "and both times it has been the more expensive answer, and I have noticed both times."
+
+* * *
+
+"Now the sentence," said Sim.
+
+Georgij opened the notebook and turned it round.
+
+*THE ONE BY THE DOOR IS DOING BETTER THIS YEAR.*
+
+Sim read it twice, the way he reads.
+
+"That is a plant."
+
+"It is a pot outside her brother's shop. There has been one outside that door since before he had the shop. It dies every winter and the woman from the noodle place puts another one in."
+
+"And she said something about it once."
+
+"Eleven years ago. To him. Outside a door." Georgij did not embellish it. "He has never said it out loud to a living person and he said it to me on Tuesday, and it took him seven minutes to find it."
+
+Sim put one finger on the edge of the page and did not touch the writing.
+
+"She will know in a second and a half," he said.
+
+"That is what he said. In those words."
+
+* * *
+
+"I have a question and it is not the one you are braced for," said Sim.
+
+"Go on."
+
+"When she hears it, she is going to be alone in a corridor in a house in Gangwon-do with a telephone in her hand, and something is going to happen to her face." He said it without any weight at all. "Who is with her."
+
+Georgij did not answer straight away.
+
+"Nobody," he said.
+
+"No." Sim looked at the window. "That is what I thought, and I wanted it said in this room by one of us, because a man who arranges things for a living should be able to say out loud when he is arranging something badly."
+
+"There is no version with somebody in the corridor."
+
+"I know there is not. I have been through it four times since you said the word telephone." He turned his cup back a quarter turn. "Then I am going to do the only thing available, which is to be slow. I am going to talk to her about the gutters for eleven minutes and say it at the end. Then I am not going to ring off. I am going to keep talking about nothing at all for as long as she wants me to."
+
+Georgij sat in an office in Jongno and had nothing whatsoever to add to that.
+
+* * *
+
+"You have not asked me whether I will do it," said Sim.
+
+"No."
+
+"Say why not."
+
+"Because you said yes on Tuesday, on the telephone, before you knew what it was." Georgij held his eye. "And because the whole of this afternoon has been me making certain that you get to say it again knowing."
+
+* * *
+
+He made the call at twenty past five, because that is when the house takes calls, and he made it from the desk with Georgij in the room and did not ask him to leave.
+
+He talked about the gutters, and about a firm in Wonju that had been recommended to him and that he did not trust, and about whether the work could wait until spring.
+
+He asked her whether her knee had been better since the wet week. Georgij had not known there was a knee.
+
+At about the eleventh minute he said the nine words, in the same voice, in the middle of a sentence about the shed roof.
+
+Then he stopped talking.
+
+The line did not go dead. Georgij could hear that it did not, from a metre and a half away, because a dead line and an open one do not sound the same and he has known that since he was nineteen.
+
+Nobody said anything on either end of it for a long time.
+
+Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, and that the gutters could certainly wait until spring.
+
+He was on that telephone for another nineteen minutes.
+
+* * *
+
+He put it down at ten to six and sat with his hand on it.
+
+"Say what she said," said Georgij.
+
+"She said the shed roof should be done properly or not at all." Sim did not take his hand off the receiver. "She said it four times, in four different ways, over nineteen minutes, and it was the only thing she said."
+
+Georgij sat very still.
+
+"Say what you think it means."
+
+"I think it means she heard it." Sim looked up at last, and his face had not changed at all, which is what it is for. "And I think a woman who has been in that house four years does not get to say anything else on that telephone." He did not look away. "She found the only sentence available that is about doing a thing properly or not at all, and she said it to me four times."
+
+Neither of them said anything.
+
+"There is one more thing," said Sim, "and you will not like it."
+
+"Go on."
+
+"She has never once asked me a question in four years." He put the receiver straight in its cradle, which it already was. "At the end of that call, before she rang off, she asked me one."
+
+"Say it."
+
+"She asked whether I would be telephoning again about the roof."
+
+Georgij put one hand flat on the arm of the chair.
+
+"And you said."
+
+"I said I would telephone on the fourteenth of September, because that is when a man telephones about a roof." Sim was entirely level. "And then I said that if the weather turned before that, I would telephone sooner."

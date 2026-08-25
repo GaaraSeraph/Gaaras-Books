@@ -2756,6 +2756,57 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
+- **Band 2, Kapitel 63** *One sentence* (v1.0) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
+    sagt ihm nicht, wo das Haus ist**, und begruendet das laut (*"You would go …
+    and you would be right to and it would end her"*); und er bittet um einen Satz.
+  - **Der Satz, und er ist Kanon:** *"The one by the door is doing better this
+    year."* Es geht um einen Topf vor der Werkstatttuer, der nicht Mr Ahn gehoert,
+    sondern der Frau vom Nudelladen, und der jeden Winter eingeht. Jung-hee hat
+    vor elf Jahren dazu gesagt, sie habe aufgehoert, ihn zu bedauern - **es sei
+    nicht dieselbe Pflanze, es sei derselbe Topf.** Mr Ahn hat das nie einem
+    lebenden Menschen erzaehlt und brauchte sieben Minuten, um es zu finden.
+  - **Und der Preis, den Georgij benennt:** wenn sie es versteht, weiss sie, dass
+    ihr Bruder nicht aufgehoert hat zu suchen - vier Jahre nachdem sie die Sache
+    in vier Tagen so eingerichtet hat, dass er sie nicht tragen muss. Mr Ahn:
+    *"She'll be furious. That's fine. She's been furious with me since she was
+    nine."*
+  - Mr Ahn spricht hier durchgehend nach `doc/12-stimmen.md`: Fristen, Bauteile,
+    Kontraktionen, und bei jeder schweren Antwort etwas auf der Werkbank.
+
+- **Band 2, Kapitel 64** *The one who orders* (v1.0) - **Tag 328, Do 27. August. Der Anruf.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - Sims Buero in Jongno, neunzehn Jahre, vier Menschen je dort gewesen.
+  - **Georgij haette den Satz versiegelt uebergeben koennen und tut es nicht**,
+    und er sagt, dass er das erst neunzig Sekunden vorher entschieden hat. Der
+    Grund im Text: sonst waere er der elfte Mensch, der Sim etwas Verschlossenes
+    in die Hand drueckt, vier Wochen nachdem er ihm gesagt hat, dass das niemand
+    tun sollte.
+  - **Sim erfaehrt, mit wem er vier Jahre telefoniert hat.** Und er erinnert sich
+    an einen November vor drei Jahren, in dem er sie am Ende eines
+    Elf-Minuten-Gespraechs ueber den Kessel gefragt hat, ob es warm genug sei, wo
+    sie schlaeft. Sie hat geantwortet, das hintere Zimmer bekomme nachmittags
+    Sonne. **Er hat "Regenrinne" in sein Buch geschrieben und aufgelegt.**
+  - **Der zweite Schlag:** der Arzt, den er hinzugefuegt hat, hat nie fuer die
+    Frau am Sauerstoff abgerechnet. *"You did not add a doctor to a household. You
+    added a doctor to her."* Georgij weigert sich ausdruecklich, die unbeweisbare
+    Fassung dazu auszusprechen.
+  - **Sims eigener Zug, und er ist der beste in dem Kapitel:** er fragt, wer bei
+    ihr im Korridor steht, wenn sie es hoert. Niemand. Also redet er vorher elf
+    Minuten ueber Regenrinnen, sagt es am Ende, **legt nicht auf** und redet
+    danach neunzehn Minuten weiter ueber nichts.
+  - **Ihre Antwort, und es ist das erste Mal, dass Ahn Jung-hee im Buch spricht:**
+    *"The shed roof should be done properly or not at all."* Viermal, auf vier
+    verschiedene Arten, ueber neunzehn Minuten. Es ist das Einzige, was sie sagt.
+  - **Und ganz am Schluss stellt sie eine Frage**, was sie in vier Jahren nie
+    getan hat: ob er wieder wegen des Dachs anrufen werde. Sim: am **14.
+    September**, und frueher, wenn das Wetter umschlaegt. **Das ist ein Termin und
+    er steht.**
+
+
 ---
 
 ## Der Juli ist betreten
