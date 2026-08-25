@@ -1278,7 +1278,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Damit steht Annies zweite Bedingung vom 3. April offen und geladen** - er soll zurueckkommen und sagen, ob es ihm gefallen hat, und die Wahrheit darueber sagen. **Eine Fremde hat die Frage vier Stunden frueher gestellt.**
 
-- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.7) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
+- **Band 2, Kapitel 20** *Cheaper than deciding* (v1.8) - **Tag 209, Do 30. April, zwanzig nach elf. Eine Szene, das kleine Zimmer, und die Tuer ist zu.**
 
   **Er haelt den Termin, den er am 3. April genannt und am 1. April auf ihr Verlangen wiederholt hat.** Der Bericht ueber den Monat dauert vier Minuten. **Annie sagt zu keinem Teil davon irgendetwas**, weil sie niemanden beglueckwuenscht und es ihr nie eingefallen ist, dass jemand das wollen koennte.
 
@@ -1307,6 +1307,25 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Der Schluss gehoert dem Haushalt, der seit Kapitel 13 fast verschwunden war.** Vier Menschen haben gemerkt, dass er seit dem 18. Maerz nicht richtig schlaeft, **und einer davon hat etwas gesagt** - Mr Ku auf der Autobahn am 14. April - und hat sich danach vierzehn Tage lang Sorgen gemacht, ob er gedurft hat. *"Tell him it was the most useful thing anybody said to me all month."* - **"Tell him yourself. He is on the early rota."**
 
   Und die Hand im Haar, wie in Kapitel 5 und Kapitel 9, **nur dass er diesmal gewusst hat, dass die Schultern oben waren.**
+  **v1.8 am 25.08.: der Sofortgewinn steht jetzt hier und nicht im September.**
+  Der Autor: *"Kapitel 69 ist ein bisschen spaet. Das sollte als immediate win
+  dastehen, nachdem ich fertig bin mit der Dame mit vier Trucks."*
+  - **Die Zusage aus Kapitel 12 war nie Eigentum**, sondern Dankbarkeit:
+    *"in about three weeks they are going to be extremely grateful to somebody.
+    That somebody can be you and it will cost you nothing you have not already
+    spent."* Ich hatte sie als Uebereignung gelesen und deshalb in Kapitel 69
+    bezahlt. Falsch.
+  - **Jetzt im Bericht vom 30. April, als letzter Punkt:** *"The five are yours."*
+    Jeder der fuenf wurde am Tag seiner Unterschrift einzeln aufgesucht, nicht
+    telefonisch und nicht ueber den Verband, mit **denselben elf Woertern**.
+    Kosten fuer Annie: null. Siebenundzwanzig Tage nach der Zusage, drei vor der
+    Frist.
+  - **Und die Anschlusszusage, die daraus faellt und offen bleibt:** Annie:
+    *"Go back and tell all five that they do not owe me anything."* Ihr Grund
+    steht im Text und ist taktisch: *"A man who thinks he owes you is a man
+    somebody else can collect from. Not me. Somebody."* Georgij: *"It will keep."*
+    **Das ist der Faden, der zu Kapitel 69 fuehrt.**
+
 
 - **Band 2, Kapitel 21** *Tidily* (v1.7) - **Tag 213, Mo 4. Mai. Eine Szene, ein Raum mit drei Kisten darin, in einem Gebaeude, das aufgeloest wird.**
 
@@ -3020,7 +3039,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 69** *The call he did not take* (v1.0) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+- **Band 2, Kapitel 69** *The call he did not take* (v1.1) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
   auf zwei Funde des Pruefers hin.

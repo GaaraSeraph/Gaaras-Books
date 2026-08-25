@@ -11,9 +11,25 @@ geführt und mit `werkzeug/zusagen.py` gegen den Erzählkalender gerechnet.
 beide Monate zu spät.**
 
 Die fünf Firmen aus Kapitel 12 (3. April): *„When it is over the other five will
-be yours, completely, not as customers and not as an arrangement."* Vier Monate
-erzählte Zeit überfällig. Der Verband kam in vierundvierzig Kapiteln nicht mehr
-vor.
+be yours, completely, not as customers and not as an arrangement."* Der Verband
+kam in vierundvierzig Kapiteln nicht mehr vor.
+
+**Und beim Bezahlen ist der zweite Fehler aufgefallen, der schlimmer war als der
+erste.** Ich hatte die Zusage zuerst in Kapitel 69 eingelöst, im September. Der
+Autor: *„Kapitel 69 ist ein bisschen spät, meinst Du nicht? Das sollte als
+immediate win dastehen, nachdem ich fertig bin mit der Dame mit vier Trucks."*
+
+Er hat recht, und die Zusage sagt es selbst: *„in about three weeks they are going
+to be extremely grateful to somebody. That somebody can be you and it will cost
+you nothing you have not already spent."* **Das ist Dankbarkeit, sofort, umsonst**
+- und keine Eigentumsübertragung. Sie gehört an den 30. April, in denselben
+Bericht wie Nam Byung-hees Ende. **Jetzt steht sie in Kapitel 20**, siebenundzwanzig
+Tage nach der Zusage und drei vor der Frist.
+
+**Was in Kapitel 69 übrigbleibt, ist die kleinere und wahrere Schuld:** Annies
+Anschlussauftrag vom selben Abend, den Georgij mit *„It will keep"* verschoben hat.
+Fünf Männer, denen niemand gesagt hat, dass sie nichts schulden. Kwon fährt im
+September vier Stunden, um zu fragen, was der Preis ist.
 
 Annies *„You will in about a month"* aus Kapitel 5 (11. März), fällig Anfang
 April, offen bis September. Sechs Monate.
@@ -87,7 +103,8 @@ wird.**
 
 ## Bezahlt
 
-- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 69, 159 Tage zu spaet, und die Verspaetung ist der Inhalt des Kapitels
+- [BEZAHLT] **B2 12** Georgij an Annie · gesagt Tag 182 · faellig Tag 216 · "When it is over the other five will be yours, completely, not as customers and not as an arrangement." · B2 20, am 30. April, siebenundzwanzig Tage nach der Zusage und drei vor der Frist
+- [OFFEN] **B2 20** Annie an Georgij · gesagt Tag 209 · faellig offen · "Go back and tell all five that they do not owe me anything." · B2 69 an Mr Kwon, aber die anderen vier stehen aus
 - [BEZAHLT] **B2 05** Annie an Georgij · gesagt Tag 159 · faellig Tag 190 · "You do not yet. You will in about a month." · B2 69, 151 Tage zu spaet, von ihr selbst und mit Begruendung fuer die Wartezeit
 - [BEZAHLT] **B1 24** Georgij an Annie · gesagt Tag 55 · faellig Tag 149 · "on the second of March I will hand it back to you" · B2 01, am zweiten Maerz, auf den Tag
 - [BEZAHLT] **B1 09** Hana an Georgij · gesagt Tag 22 · faellig Tag 52 · "In about a month she and I are going to need each other rather badly" · B1 20, neunzehn Tage spaeter, und Georgij zaehlt sie im Text nach

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 69 Kapitel, 169.413 Woerter.
+Book Two, 69 Kapitel, 169.848 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -30,7 +30,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 17 | v1.3 | 1.972 |
 | 18 | v1.4 | 2.033 |
 | 19 | v1.4 | 2.120 |
-| 20 | v1.7 | 2.129 |
+| 20 | v1.8 | 2.643 |
 | 21 | v1.7 | 2.574 |
 | 22 | v1.7 | 1.986 |
 | 23 | v1.6 | 2.014 |
@@ -79,7 +79,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 66 | v1.3 | 2.096 |
 | 67 | v1.3 | 2.493 |
 | 68 | v1.2 | 2.447 |
-| 69 | v1.0 | 3.024 |
+| 69 | v1.1 | 2.945 |
 
 ---
 
@@ -4077,7 +4077,7 @@ He thought about that on the platform for twenty minutes and on the train for fo
 ---
 
 # Book Two · Chapter 20: Cheaper than deciding
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Two Hundred and Nine · Thursday 30 April
 
@@ -4108,6 +4108,70 @@ The five halves come onto the market between the middle of May and the middle of
 Mr Ok is a hand and was frightened on Monday and nothing else has happened to him or will. The second copy went into his own filing on the twelfth of March and he can put his hand on it in twenty minutes, which is the only thing this month that has turned out smaller than it looked.
 
 The man who chose her has nine lines of description and a sentence and no name.
+
+"You have left one out."
+
+"I have not left it out. I put it last because it is the only part of the month that is finished, and I did not want it standing in front of the parts that are not."
+
+"Then say it."
+
+"The five are yours."
+
+* * *
+
+Annie put the pen down, which she does not do in the middle of a report.
+
+"Say that so that I can check it."
+
+"Every one of the five was told who asked Chairman Woo, individually, by me, on the day he signed." Georgij did not decorate any of it. "Not by telephone and not through the association. I drove to four yards and a kitchen and I said the same sentence in the same words five times."
+
+"Say the sentence."
+
+"That a woman on the river wanted a lane out of Ulsan. That Chairman Woo was asked. That he then made his own decision about his own quay with his own money."
+
+"And what did it cost me."
+
+"Nothing." He did not soften it. "Not one won. Not one hour. Not one telephone call, and there is nothing coming later that I have not put in front of you tonight."
+
+* * *
+
+Annie sat with that for a moment.
+
+"On the third of April you stood in this room and told me that in about three weeks five frightened men were going to be extremely grateful to somebody, and that the somebody could be me."
+
+"I did."
+
+"It is the thirtieth."
+
+"Twenty-seven days," said Georgij.
+
+Annie almost smiled at that, and it did not get anywhere near her face, and she did not say the thing that goes there.
+
+"Then there is one more instruction and you are not going to like it," she said.
+
+"Go on."
+
+"Go back and tell all five that they do not owe me anything."
+
+* * *
+
+Georgij did not answer straight away.
+
+"That is the part that is worth having," he said.
+
+"I know what it is worth. I have had gratitude in this business for twenty years and I can price it in about four seconds." Annie had not raised her voice. "A man who thinks he owes you is a man somebody else can collect from. Not me. Somebody. And he will pay, because he has been waiting a year to feel better."
+
+"They will not believe it."
+
+"Then say it twice."
+
+"I will say it once and properly." He did not look away. "I am not driving back down there this week. Five men who have just signed seven years do not want to see me again in April." He said it in the flat voice. "It will keep."
+
+"It will keep," said Annie.
+
+She picked the pen back up, and it was the only thing she let go of that evening without finishing, and neither of them noticed at the time.
+
+* * *
 
 "That is the month," said Georgij.
 
@@ -14550,7 +14614,7 @@ He sat with the pen in his hand for a while.
 ---
 
 # Book Two · Chapter 69: The call he did not take
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Forty-One · Wednesday 9 September
 
@@ -14592,29 +14656,29 @@ Mr Kwon did not say anything for a moment.
 
 "Say what you came for."
 
-"I will. I am going to do it standing here because I did not come to be given a chair." He put one hand on the roof of his own car. "In April I got seven years of work on the same paper as a terminal on Yeongjong, and so did four other men who were finished in January and knew it. Not one of us asked for it. It arrived."
+"I will. I am going to do it standing here because I did not come to be given a chair." He put one hand on the roof of his own car. "On the twenty-seventh of April you drove into my yard and told me who had asked Chairman Woo. You said it in about eleven words and then you left."
 
 "Yes."
 
-"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive." Mr Kwon's voice did not go up anywhere. "So I spent about a fortnight being grateful to Chairman Woo, and then I sat down with the paper and read it properly, and it is not his idea."
+"You did the same at four other places on four other days. I know that because we compared it in May, and every one of us got the same eleven words." Mr Kwon's voice did not go up anywhere. "Nobody has ever done that in this trade. A man who arranges a thing that size comes back and stands in the yard until somebody thanks him properly."
 
 Georgij stood in a drive and did not help him.
 
-"It is nobody's idea," said Mr Kwon. "That is what is wrong with it. A man of seventy-eight does not wake up in April and decide to underwrite five small hauliers on a lane he does not use." He took his hand off the roof. "Somebody put it in front of him. Somebody made it easy to say yes to."
+"You did not come back," said Mr Kwon. "That is the whole reason I am here, and it has taken me four months to be able to put it in one sentence."
 
 * * *
 
-"Then say what you have been telephoning about," said Georgij.
+"Then put it," said Georgij.
 
-"Who to thank."
+"What do we owe her."
 
 Neither of them said anything.
 
-"That is the whole of it and it has taken me four months and four hundred kilometres." Mr Kwon still had his hand on the roof. "I do not want it undone. I am not asking what it cost and I am not after a favour. I have five men behind me who were given the next seven years of their lives by somebody. Every one of them has been thanking the wrong man in the wrong office. I have known since about June that we were doing it wrong."
+"I am fifty-four and I have been doing this since I was twenty-two, and work does not arrive." He took his hand off the roof. "Five of us have seven years each and not one of us has been told the price. A haulier who does not know what he is carrying does not sleep. I have had four months of that and so have the other four."
 
 "You could have asked Chairman Woo."
 
-"I did. In June." Mr Kwon said it flatly. "He said that if a man wants to know who to thank, he should go and ask the person who did not take his telephone call."
+"I did. In June." Mr Kwon said it flatly. "He said the price was not his to quote, and that I should go and ask the man who did not take my telephone call."
 
 * * *
 
@@ -14642,7 +14706,7 @@ Annie was at the desk with the ledger open and looked up once.
 
 Annie put the pen down.
 
-"He has driven four hours to find out who arranged the seven years, because he has worked out that it was not Chairman Woo's idea and he does not want to go on thanking the wrong man." Georgij did not look at either of them. "It was arranged in this room on the third of April. I told you at the time that the lane would be yours and I did not deliver one hour of that, and Mr Kwon has been telephoning me since May and I did not take one of the calls."
+"He has driven four hours to find out what the five of them owe you." Georgij did not look at either of them. "On the thirtieth of April you gave me one instruction in this room, which was to go back and tell them that they owe you nothing, and I said it would keep. Mr Kwon has been telephoning me since May and I did not take one of the calls."
 
 He stopped, because that was four.
 
@@ -14660,17 +14724,17 @@ Then she stood up, which she does not do, and came round the desk.
 
 He sat down.
 
-"You have driven a long way to be correct about something," said Annie. "I am going to be correct back at you and it will take a minute. The seven years are Chairman Woo's paper and Chairman Woo's money and Chairman Woo's risk, and if that quay stops working it is his problem and not mine. You have been thanking the right man for the right thing."
+"You have driven a long way to ask a question with a number in it," said Annie. "I am going to answer it in one word, and then you are going to make me say it again, so I will say it twice and we will be finished. Nothing."
 
-"Then what is the wrong thing."
+"That is not an answer a man can take home."
 
-"That nobody has ever told you why he was asked." She did not soften it. "The reason is that a woman in this house wanted a lane out of Ulsan. She wanted it because a woman on that lane wrote a letter in March about a person in this room, and that person is standing behind you."
+"It is the only one there is, and I gave it to him in April and he did not bring it to you." She did not soften it. "Nothing. Not a load, not a rate, not a name in a room in four years. There is no second half of this arrangement and there was never going to be one."
 
 * * *
 
 Mr Kwon did not turn round.
 
-"I heard the letter part," he said. "In April. Not from you and not from him."
+"I heard the letter part," he said. "In April, in my own yard, in eleven words."
 
 "Say what you heard."
 
@@ -14692,9 +14756,9 @@ Annie sat back against the edge of her own desk, which is not sitting.
 
 Mr Kwon was quiet for about four seconds.
 
-"Then who do I thank."
+"Then what do I tell the other four."
 
-"Nobody, and that is what I am giving you." Annie did not blink. "You do not owe anybody in this house one hour of anything. If you go home believing that you do, somebody will ask you for it inside a year and you will not be able to say no. I have watched that happen to better men than either of us."
+"That the debt does not exist, and that is what I am giving you." Annie did not blink. "You do not owe anybody in this house one hour of anything. If you go home believing that you do, somebody will ask you for it inside a year and you will not be able to say no. I have watched that happen to better men than either of us."
 
 "That is a strange thing to give a man."
 

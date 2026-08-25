@@ -1,5 +1,5 @@
 # Chapter 20: Cheaper than deciding
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Two Hundred and Nine · Thursday 30 April
 
@@ -37,7 +37,121 @@ Mr Ok is a hand and was frightened on Monday and nothing else has happened to hi
 
 The man who chose her has nine lines of description and a sentence and no name.
 
+"You have left one out."
+
+---
+
+"I have not left it out. I put it last because it is the only part of the month that is finished, and I did not want it standing in front of the parts that are not."
+
+---
+
+"Then say it."
+
+---
+
+"The five are yours."
+
+* * *
+
+Annie put the pen down, which she does not do in the middle of a report.
+
+---
+
+"Say that so that I can check it."
+
+---
+
+"Every one of the five was told who asked Chairman Woo, individually, by me, on the day he signed." Georgij did not decorate any of it. "Not by telephone and not through the association. I drove to four yards and a kitchen and I said the same sentence in the same words five times."
+
+---
+
+"Say the sentence."
+
+---
+
+"That a woman on the river wanted a lane out of Ulsan. That Chairman Woo was asked. That he then made his own decision about his own quay with his own money."
+
+---
+
+"And what did it cost me."
+
+---
+
+"Nothing." He did not soften it. "Not one won. Not one hour. Not one telephone call, and there is nothing coming later that I have not put in front of you tonight."
+
+* * *
+
+Annie sat with that for a moment.
+
+---
+
+"On the third of April you stood in this room and told me that in about three weeks five frightened men were going to be extremely grateful to somebody, and that the somebody could be me."
+
+---
+
+"I did."
+
+---
+
+"It is the thirtieth."
+
+---
+
+"Twenty-seven days," said Georgij.
+
+---
+
+Annie almost smiled at that, and it did not get anywhere near her face, and she did not say the thing that goes there.
+
+---
+
+"Then there is one more instruction and you are not going to like it," she said.
+
+---
+
+"Go on."
+
+---
+
+"Go back and tell all five that they do not owe me anything."
+
+* * *
+
+Georgij did not answer straight away.
+
+---
+
+"That is the part that is worth having," he said.
+
+---
+
+"I know what it is worth. I have had gratitude in this business for twenty years and I can price it in about four seconds." Annie had not raised her voice. "A man who thinks he owes you is a man somebody else can collect from. Not me. Somebody. And he will pay, because he has been waiting a year to feel better."
+
+---
+
+"They will not believe it."
+
+---
+
+"Then say it twice."
+
+---
+
+"I will say it once and properly." He did not look away. "I am not driving back down there this week. Five men who have just signed seven years do not want to see me again in April." He said it in the flat voice. "It will keep."
+
+---
+
+"It will keep," said Annie.
+
+---
+
+She picked the pen back up, and it was the only thing she let go of that evening without finishing, and neither of them noticed at the time.
+
+* * *
+
 "That is the month," said Georgij.
+
+---
 
 "That is the month."
 
