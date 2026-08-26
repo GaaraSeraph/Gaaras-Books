@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 220.113 Woerter.
+Book Two, 90 Kapitel, 220.115 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v1.0 | 2.128 |
 | 85 | v1.1 | 2.040 |
 | 86 | v1.0 | 2.148 |
-| 87 | v1.0 | 2.014 |
+| 87 | v1.1 | 2.016 |
 | 88 | v1.0 | 1.998 |
 | 89 | v1.0 | 2.085 |
 | 90 | v1.1 | 1.699 |
@@ -19409,7 +19409,7 @@ Annie did not say anything for a moment.
 ---
 
 # Book Two · Chapter 87: The first hour
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -19599,7 +19599,7 @@ Georgij took his time over it, which he has not done since March.
 
 "Say the difference."
 
-"Until two o'clock this afternoon he was a man who does nothing and cannot be taken hold of anywhere, and I have spent eight months finding that out in eleven different ways." He did not soften it. "At two o'clock a solicitor put on a table the one thing that man has ever done that has his intention in it." He did not soften it. "It has been in a drawer in Yeouido since March eleven years ago, and it is the only document in the world with his reasoning on it."
+"Until two o'clock this afternoon he was a man who does nothing and cannot be taken hold of anywhere, and I have spent eight months finding that out in eleven different ways." He did not soften it. "At two o'clock a solicitor put on a table the one thing that man has ever done that has his intention in it." He kept both hands on his knees. "It has been in a drawer in Yeouido since March eleven years ago, and it is the only document in the world with his reasoning on it."
 
 Annie stood at the window for a moment.
 
