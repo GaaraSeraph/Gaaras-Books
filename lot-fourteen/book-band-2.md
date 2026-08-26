@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 88 Kapitel, 219.764 Woerter.
+Book Two, 82 Kapitel, 217.525 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -26,8 +26,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 13 | v1.8 | 2.173 |
 | 14 | v1.7 | 2.408 |
 | 15 | v1.5 | 2.001 |
-| 16 | v1.4 | 2.045 |
-| 17 | v1.5 | 1.975 |
+| 17 | v1.6 | 2.034 |
 | 18 | v1.5 | 2.033 |
 | 19 | v1.5 | 2.120 |
 | 20 | v1.11 | 2.640 |
@@ -38,12 +37,10 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.5 | 2.099 |
 | 26 | v1.8 | 3.886 |
 | 28 | v1.8 | 2.444 |
-| 29 | v1.8 | 2.608 |
-| 30 | v1.4 | 2.026 |
+| 29 | v1.9 | 4.550 |
 | 31 | v1.3 | 2.317 |
 | 32 | v1.5 | 2.352 |
-| 33 | v1.6 | 1.985 |
-| 34 | v1.6 | 2.240 |
+| 33 | v1.7 | 4.211 |
 | 35 | v2.10 | 3.878 |
 | 36 | v2.3 | 3.249 |
 | 37 | v2.6 | 3.856 |
@@ -52,8 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 40 | v2.9 | 2.775 |
 | 41 | v2.5 | 3.854 |
 | 42 | v2.7 | 3.327 |
-| 43 | v2.4 | 2.768 |
-| 44 | v2.2 | 2.497 |
+| 43 | v2.5 | 5.175 |
 | 45 | v1.5 | 2.162 |
 | 46 | v1.4 | 2.551 |
 | 47 | v1.5 | 1.889 |
@@ -67,8 +63,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 55 | v1.3 | 2.042 |
 | 56 | v1.8 | 2.653 |
 | 57 | v1.9 | 2.942 |
-| 58 | v1.7 | 2.336 |
-| 59 | v1.7 | 2.174 |
+| 58 | v1.9 | 4.456 |
 | 60 | v1.4 | 2.442 |
 | 61 | v1.8 | 2.338 |
 | 62 | v1.13 | 2.429 |
@@ -76,8 +71,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 64 | v1.9 | 2.279 |
 | 65 | v1.7 | 2.128 |
 | 66 | v1.4 | 2.096 |
-| 67 | v1.11 | 2.560 |
-| 68 | v1.5 | 2.442 |
+| 67 | v1.12 | 4.991 |
 | 69 | v1.6 | 2.942 |
 | 70 | v1.3 | 2.276 |
 | 71 | v1.4 | 3.649 |
@@ -3469,173 +3463,18 @@ Annie did not answer for a moment.
 
 ---
 
-# Book Two · Chapter 16: A hand
-*Lot Fourteen* · Version 1.4 · EN
-
-## Day Two Hundred and Four · Saturday 25 April
-
-The house on the river stopped taking new consignments on the twentieth of April.
-
-There was no announcement, because a firm of that kind does not announce anything. It tells the fourth person who telephones that the spring sale is under review, and by the eighth person it has stopped being a rumour.
-
-Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March.
-
-Georgij knows the number because it is in a diary that a woman of eighty-one has never in her life hidden from anybody. He has looked at it twice and both times felt something he decided not to name.
-
-Two of the people she has eaten with are on the mailing list, and one of those two is on the port authority's January list as well. He did not do anything with that. A coincidence in a city of that size is not a fact, and a man who forgets that ends up with the wrong person.
-
-Three names, and two of them came off on the Friday evening without anything clever being done to them at all.
-
-The first is a man who owns two feeder vessels and has been trying to buy small operators on that coast for six years, and everybody in the trade knows it, including the small operators. He asks about lanes the way a man with a bag asks about houses. If he had put a page in front of Nam Byung-hee she would have telephoned four people about it before dinner.
-
-The second sits on the port authority's own committee and has done since 2014, which means he was at that lunch because it is his lunch. A man who is at a thing because it belongs to him does not use it to ask a question he wants nobody to remember.
-
-The third is Mr Ok.
-
-He is fifty-six. He runs a marine insurance brokerage that his father ran before him, from two floors of a building in Jung-gu that the family owns and does not let. Eleven staff. He has bought at that house since 2003, mostly ceramics, occasionally a scroll, never anything anybody would talk about.
-
-He has no interest in coastal feeder capacity. He does not broker it, insure much of it, or own any of it. There is no lane in this country that his business would be better or worse off for.
-
-He was at the lunch because somebody at the port authority puts the same forty people on the same list every January, and he goes because his father went.
-
-That is the whole of it and it took Georgij about an hour to establish, and it is not evidence of anything.
-
-A man is allowed to ask a question at a lunch.
-
-What he did on the Saturday morning is the thing he has not done properly since October, and he had been putting it off for a week without admitting that was what he was doing.
-
-He is not going to write down how, and it does not matter.
-
-A brokerage of eleven people that has been in the same two floors since 1978 keeps everything in one place, because that is what a firm does when nobody has ever forced it to think about the question. There is a machine in the corridor that scans, copies and sends. It has been there since 2019. It keeps a log, because everything of that kind keeps a log, and nobody in that building has ever once looked at it.
-
-It took him fifty minutes and most of that was reading.
-
-The catalogue came into that office on the third of March, because the mailing bureau's list has the office address on it and not the house.
-
-On the twelfth of March at four forty in the afternoon, one page was put on the glass of the machine in the corridor and copied twice.
-
-The log says the page was copied. It does not say what happened to the copies after that, because a machine in a corridor does not follow paper out of a building.
-
-Somebody put one of them in an envelope. That is in no log anywhere and it never will be, and it is the reason a page arrives in Ulsan and a man in Jung-gu has no idea that he has done anything at all.
-
-Twice.
-
-He sat with that for a moment, because two copies is a fact and one copy is an errand.
-
-The account the machine was signed in under belongs to a woman who has done the filing in that office since 2004.
-
-She copied it at four forty on a Thursday, in a corridor, on the machine everybody uses. She did not think about it for one second. A person who is asked to copy a page copies the page.
-
-Georgij went back through the log for six months either side and found nothing else that was not invoices, survey reports and one birthday card.
-
-Then he went and looked at what else that office holds, which took the rest of the morning, and the finding is an absence and it is the whole chapter.
-
-There is no instruction anywhere.
-
-No message, no note, no letter, no entry in a diary. Nothing on the eleventh, nothing on the tenth, nothing in the week before it. There is no lunch in the calendar that is not one of the four he has every month with the same three men. There is no telephone number in that building that received a call it should not have.
-
-The page went on the glass at four forty on the twelfth of March and nothing at all happened in that office before it.
-
-Georgij sat back from the desk at about half past one on the Saturday and understood what he had.
-
-In the small room on the third of April he had said it out loud to Annie, and she had made him say it twice.
-
-*A man who is carrying a thing gets rid of it on the day he is told to. Somebody sat down with a calendar. Nobody sits down with a calendar on somebody else's behalf.*
-
-There is no calendar in that office.
-
-Mr Ok did not choose the week. Mr Ok did not choose the page and did not choose Nam Byung-hee and almost certainly could not tell you today what an association chair is. Somebody asked him at a lunch in January whether he knew that coast, and he said what a man says. Nine weeks later somebody asked him for a favour that cost a woman in his corridor about four minutes.
-
-He is a hand.
-
-Georgij sat with that for a long time and did not enjoy any of it.
-
-He had wanted a man to take apart. He had said so in that room, in front of her, in the flattest voice he owns, and he had been carrying it since the eighteenth of March, and it had been the shape of his whole month.
-
-What he has is a broker of fifty-six who buys ceramics and does what he is asked by somebody at a lunch.
-
-He wrote it down at about two, because a thing that is not written down has to be carried and he has been carrying enough.
-
-*Ok. A hand. Nothing before the twelfth. Frightened only.*
-
-He looked at the last two words for a while and then did not change them.
-
-That is his own rule and he made it in front of her before he knew who it was going to protect, which is the only condition under which a rule is worth anything at all.
-
-If he takes that man apart now, he is a man who said a thing in a room and meant it right up until it was inconvenient. He has watched forty people do that since October and he has used every single one of them.
-
-There is a second thing in it and it took him until about three to see it, and it is worse than the first.
-
-Two copies.
-
-A page that is copied twice at four forty on a Thursday afternoon is a page that goes to two places.
-
-One of them was on a desk in Ulsan on the fourteenth.
-
-And a man who makes two copies of a thing is a man who does not expect the first one to be enough.
-
-Whatever he thought he was setting off in Ulsan, he had already decided in March that she might not do it, and that it would not particularly matter if she did not.
-
-He does not know where the other one went.
-
-He does not know whether it has been used or is going to be. It may be sitting in a drawer in a house somewhere in this country, belonging to somebody who has been waiting since March for a reason to open it.
-
-That is the first thing in eight weeks that has actually frightened him.
-
-* * *
-
-He went down at about six and stood in the doorway of the small room, and Annie looked up and saw his face and put down what she was holding before he had said anything at all.
-
-"Say the bad one first," she said.
-
-"There is a second copy," said Georgij. "It was made on the same afternoon on the same machine and I do not know where it is."
-
-Annie did not move for a moment.
-
-"And the good one."
-
-"There is no good one. There is a smaller one." He came into the room. "I have the man who made the copies. He is a broker in Jung-gu who buys porcelain and he did not choose anything. There is no instruction in that building anywhere, and there is nothing in his calendar, and by my own test he is a hand."
-
-"By your own test that you gave me on the third of April."
-
-"Yes."
-
-"Say what you are going to do about him."
-
-"Frighten him," said Georgij. "Nothing else. Not his firm, not his family and not one won."
-
-Annie looked at him for a while.
-
-"You have wanted somebody for five weeks."
-
-"I have wanted somebody for five weeks and I have got a man who copies pages in a corridor. If I take him apart because I have been carrying something since March, then I am doing it for me, and I told you on the third of April that I would tell you the truth about that afterwards. This is the afterwards arriving early."
-
-She did not say anything for a moment.
-
-"Then that is the second thing you have brought me in a month that I did not have to ask for," said Annie. "Sit down. Tell me about the second copy from the beginning, and do not leave out the part where you are frightened, because I would rather have it from you than watch you carry it around the house for a fortnight."
-
-He sat down on the floor at the side of the desk, which is where he sits, and told her the whole of it, including that part.
-
-And somewhere in the middle of it, without stopping, he understood what the second copy actually means, and he did not say it out loud until he had gone through it twice.
-
-The man who chose the week did not want one page delivered.
-
-He wanted two, from a machine in a corridor in a building he has never entered, by a woman who will never be able to say who asked her, on a Thursday afternoon in March.
-
-One of them went to a woman in Ulsan who was drowning and who does not lie.
-
-The other one is somewhere, and it has been somewhere for six weeks, and it did not have to be used yet.
-
----
-
 # Book Two · Chapter 17: Four minutes of somebody's time
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Six · Monday 27 April
 
 Mr Ok leaves his building at twenty past six and walks to the corner and waits for a car that is always eight minutes late. The driver takes his own mother somewhere at six and has done for four years, and Mr Ok has never once mentioned it.
 
 That is the second most useful thing Georgij learned about him and he learned it on the Sunday.
+
+The first is that there is no calendar in that office. Mr Ok did not choose the week and did not choose the page, and on Saturday Georgij had written four words down about him and had looked at the last two for a while and not changed them.
+
+*Ok. A hand. Nothing before the twelfth. Frightened only.*
 
 He was on the corner at ten past.
 
@@ -6071,8 +5910,8 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 
 ---
 
-# Book Two · Chapter 29: The rest of what I know
-*Lot Fourteen* · Version 1.8 · EN
+# Book Two · Chapter 29: A person with nothing
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6298,18 +6137,7 @@ The call was made. It was refused in the first minute it was possible to refuse 
 
 He also has a woman four stops out of a station he had never used, sitting at a table in front of a window with eleven blocks in it. She can put her hand on a piece of paper that would take Annie apart.
 
-He worked it through twice on the bus and got the same answer both times, which is that she will not, and that he is right about that, and that being right about it is not the point.
-
-Nobody gave him leave to do it.
-
-He is going to have to go into the small room tonight and say so.
-
----
-
-# Book Two · Chapter 30: A person with nothing
-*Lot Fourteen* · Version 1.4 · EN
-
-## Day Two Hundred and Thirty-Eight · Friday 29 May
+* * *
 
 He got back to the house at twenty past seven and went straight in.
 
@@ -7043,8 +6871,8 @@ He thought about a woman going to lunch, four years ago, after she had put a bil
 
 ---
 
-# Book Two · Chapter 33: A door with no name on it
-*Lot Fourteen* · Version 1.6 · EN
+# Book Two · Chapter 33: The best company in the room
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Two Hundred and Forty-Three · Wednesday 3 June
 
@@ -7242,10 +7070,7 @@ Jang looked at him for a moment the way a man looks at a colleague he has decide
 
 Georgij stood in the kitchen on his own and poured a cup he had been told to have, and it was, in fact, nearly cold.
 
----
-
-# Book Two · Chapter 34: The best company in the room
-*Lot Fourteen* · Version 1.6 · EN
+* * *
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -9433,8 +9258,8 @@ Deciding that too early was the mistake he had already promised himself, twice t
 
 ---
 
-# Book Two · Chapter 43: A shape the size of a person
-*Lot Fourteen* · Version 2.4 · EN
+# Book Two · Chapter 43: Somebody in Seoul pays for it
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9608,10 +9433,7 @@ He did not take that as a reason to stop. He took it as a description of the wor
 
 *Two anchors now instead of one. The distance between them is not an accident, and I do not think the distance to K will be either, once I find where to start counting from.*
 
----
-
-# Book Two · Chapter 44: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.2 · EN
+* * *
 
 ## Day Two Hundred and Seventy-Six · Monday 6 July
 
@@ -9645,11 +9467,7 @@ Georgij read it twice and then sat back from the desk, because the useful part o
 
 An address that stores oxygen is a fact about a building. A company that delivers it is a fact about a trade. Neither of them is a fact about a person, and the person is the entire thing.
 
-He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it.
-
-Industrial gas is licensed and the licences are published by province, because a firm that puts pressurised cylinders in private houses is a firm the fire authority wants to be able to name. The company on the filing is one of six in that province, and the only one of the six with medical certification. Its own advertising says so on the front page, because certification is a thing a firm boasts about rather than hides.
-
-That took forty minutes and it produced nothing he had not already had at ten past nine.
+He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it, and at the end of the hour he had nothing he had not already had at ten past nine.
 
 Because a company has customers, and a customer has an account, and an account has a person on it who is billed and a person who telephones. Neither of those is public anywhere in the world. There is no register of who buys oxygen. There is no annual list, no provincial filing, no ministry that publishes it once a year so that anybody can check.
 
@@ -12454,8 +12272,8 @@ He went and ate something first.
 
 ---
 
-# Book Two · Chapter 58: The tenth plate
-*Lot Fourteen* · Version 1.7 · EN
+# Book Two · Chapter 58: Buy her
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -12529,11 +12347,7 @@ He went down to the small room and put the four characters on the desk in front 
 
 Then he got the July folder out, and the June one, and Jang's second report, and put them in the order they had been given to him rather than the order that would have been tidy.
 
-Nine people work that building on a rota. Four cars, two of them carrying two, counted on eleven separate mornings across six weeks by a man who never went through the gate.
-
-The grocer delivers a standing order every Friday. It feeds ten.
-
-He had written both of those down on the twentieth of July, on the same page, four lines apart, and he had said them out loud to Sang-hoon in the same afternoon.
+Both numbers were already there and had been since the twentieth of July, on the same page, four lines apart. He had said them out loud to Sang-hoon in the same afternoon and neither of them had put them next to each other.
 
 Nine on the rota.
 
@@ -12637,12 +12451,7 @@ There was no light under her door, because it was daylight, and he stood outside
 
 Then he knocked.
 
----
-
-# Book Two · Chapter 59: Buy her
-*Lot Fourteen* · Version 1.7 · EN
-
-## Day Three Hundred and Nineteen · Tuesday 18 August
+* * *
 
 She said come in before he had finished knocking, which means she had heard him on the stairs and had heard which stairs.
 
@@ -14267,8 +14076,8 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 
 ---
 
-# Book Two · Chapter 67: Four hundred and one
-*Lot Fourteen* · Version 1.11 · EN
+# Book Two · Chapter 67: What he was for
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14528,10 +14337,7 @@ Georgij sat in a car in Mapo with a notebook shut on his knee, and did not write
 
 *And I have got about a day to decide whether he knows that he did it.*
 
----
-
-# Book Two · Chapter 68: What he was for
-*Lot Fourteen* · Version 1.5 · EN
+* * *
 
 ## Day Three Hundred and Thirty-Nine · Monday 7 September
 

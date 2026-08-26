@@ -138,7 +138,7 @@ Wer einen neuen Durchgang plant, fängt hier an statt bei Null.
 | **Falscher Sprecher** | ein *he said*, dessen Träger nicht auszumachen ist | B2 42 (der Anwalt) |
 | **Rückbezug auf den falschen Tag** | *„you told me on the…"* | B1 19 (die Einladung), B1 22 (Tisch statt Tür), B2 20 |
 | **Ein Dokument, das das Buch aus dem Gedächtnis zitiert** | ein Register, das eine Zeile führt, die es im Text nicht gibt | `doc/10-naehe.md` (der zweite Satz über den Stuhl) |
-| **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register - typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 44, und schrieb sie Annie statt Sang-hoon zu |
+| **Richtiges Zitat, falsches Kapitel** | die Zeile steht im Buch, aber unter einer anderen Nummer als im Register - typisch nach einer Umnummerierung | `doc/05` führte eine Zeile aus B2 42 unter B2 43, und schrieb sie Annie statt Sang-hoon zu |
 | **Ein Alter, das seinen eigenen Geburtstag überholt** | eine Zahl im Text gegen die Geburtstagstabelle, sobald die geparkte Strecke erzählt wird | Yeom, Woo, Mrs Sunwoo und Annie am 25.08. |
 | **Eine Spanne, die sich selbst aufhebt** | *since I was X*, wo X das heutige Alter der Figur ist | B2 62: Annie sagt *since I was thirty-seven* und ist siebenunddreißig |
 
@@ -252,7 +252,7 @@ verteilten sich auf vier Gründe, die keinen Topf haben:
 | Klasse | Woran man sie erkennt | Exemplar |
 |---|---|---|
 | **Ein Plan, der im Kanondokument als Bestand steht** | `doc/05` zitiert einen Satz mit einer Behauptung darüber (*"der einzige Satz in zwei Bänden"*), und der Satz steht in `doc/07` unter *was kommt* | `doc/05` Z938, das Bandende, korrigiert am 26.08. |
-| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K34 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
+| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K33 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
 
 **Und eine Lücke im Werkzeugkasten, die keine Klasse ist:** alle zwölf Prüfungen
 der Batterie messen **eine Figur gegen den Text**, keine misst **eine Figur gegen

@@ -90,7 +90,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
 | 7 | B2 26 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
-| 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
+| 8 | B2 29 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
 | 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
 | 11 | B2 70/71 | Do 10. Sept | **Sie schickt ihn zum ersten Mal ausdruecklich runter**, und das ist die Umkehrung von 7. *"Sit down," said Annie. He looked at the chair. "Not there."* Er fragt nicht, wofuer, und sie benennt genau das: *"Six weeks ago you would have wanted to know what it was for."* |
@@ -109,13 +109,13 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 1 | B2 9 | Fr 20. März | *"Somewhere in the middle of it she put her hand down without looking away from the page and left it in his hair."* |
 | 2 | B2 20 | Do 30. April | *"She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up."* |
 | 3 | B2 26 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
-| 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
+| 4 | B2 29 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
 | 10 | **B2 90** | **So 22. Nov** | **Die letzte des Bandes, und sie steht zweimal in derselben Szene.** Vorher, waehrend sie arbeitet: *"at some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Und nach der Schlusszeile, wortlos: *"Annie put her hand back into his hair."* |
 | 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
 | 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
-| 7 | B2 59 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
+| 7 | B2 58 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 
 **Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste,
 59 das siebte, 72 das achte, 76 das neunte, **90 das zehnte und letzte des
@@ -139,7 +139,7 @@ Halsband an und nie an das Halsband selbst.**
 | 4 | B2 3 | Sa 7. März | *"She went past him and put her hand on the back of his neck on the way, the way she had twice in February, and went straight on to whatever she had been going to."* - **belegt zwei Februar-Male**, beide im Nacken. Die Seite ist B1 33, im Dezember. |
 | 5 | B2 5 | Mi 11. März | Das erste, bei dem sie bleibt. *"This time she did not go past him and did not go on to anything else."* |
 | 6 | B2 18 | Mo 27. April | *"She put her hand flat on the side of his neck above the collar, which she has done perhaps three times since October and never once in that room."* Danach: *"Go to bed."* |
-| 7 | B2 30 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
+| 7 | B2 29 | Fr 29. Mai | *"she put her hand up and took hold of the back of his neck, above the collar, and did not say anything for about six seconds."* |
 | 8 | **B2 35** | **Do 4. Juni** | *"After a while she reached over and put two fingers **under** the collar, at the side, where the skin is."* Und der Text sagt es selbst: *"She has never done that."* |
 
 **Die drei, die B2 18 zaehlt.** *"which she has done perhaps three times since
@@ -181,7 +181,7 @@ Zu dünn. Hier wird nachgelegt, nicht in den großen Szenen.
 | B1 5, 28 | *"Go to bed, Georgij."* **Zweimal** mit Namen. In B1 31 steht die kurze Form *"Go to bed."* ohne ihn, was etwas anderes ist. |
 | B1 23 / 24 | *"Have you eaten?"* - die Frage, die dem Kapitel den Titel gibt. |
 | B2 18 | *"Go to bed,"* mit der Hand an seinem Hals, im falschen Zimmer dafür. |
-| B2 30 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
+| B2 29 | Sie merkt an seiner Atmung, dass er eingeschlafen ist, und liest weiter. |
 | B2 31 | *"a coat over him that is not his."* Sie sagt nie, dass sie es war. |
 | B2 35 | *"Go and eat something. You have been running on coffee since one o'clock this morning."* |
 | B2 55 | *"You have not slept properly since the eighteenth of July."* Sie führt dieses Datum mit. |

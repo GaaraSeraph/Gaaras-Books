@@ -120,7 +120,7 @@ auf HALTEN korrigiert worden.**
 | **13** | *What it costs him* | **Tragend.** Der Ursprung des ganzen Choi-Fadens: das Hafenbehoerden-Essen im Januar, die fuenf Namen am Wagen und der Schluss auf der Bruecke, dass er nicht jemanden suchte, dem etwas angetan worden war | HALTEN |
 | **14** | *Ask her* | **Tragend.** Erstauftritt Mr Kwon und Mr Kus einziger echter Auftritt im Buch (`doc/12-stimmen.md`: eine einzige Replik, *"No"*, und die Erzaehlung ueber Gimhae, die in 20 zurueckkommt) | HALTEN |
 | **15** | *One word, and it was true* | **Tragend.** Nams *"She said yes"* und *"She said no"* in eineinhalb Sekunden, Kwons Aussenbeleg fuer ihre Ehrlichkeit (*"She does not lie | HALTEN |
-| **16** | *A hand* | **Tragend.** Naehe-Register A 5 (*"which is where he sits"*, doc/10-naehe.md fuehrt B2 16 namentlich), Mr Oks Erstauftritt und einziger Steckbrief (*"He is fifty-six"*, elf Angestellte, seit 2003 im Haus | HALTEN |
+| **16** | *A hand* | **Tragend.** Naehe-Register A 5 (*"which is where he sits"*, doc/10-naehe.md fuehrt B2 17 namentlich), Mr Oks Erstauftritt und einziger Steckbrief (*"He is fifty-six"*, elf Angestellte, seit 2003 im Haus | HALTEN |
 | **17** | *Four minutes of somebody's time* | **Tragend.** Mr Oks und Mrs Uhms einziger Auftritt im ganzen Buch und der bisher einzige Augenzeuge des Versenders, mit Chois Signatur (*"he was glad we had finally met"* | HALTEN |
 | **18** | *The face on it* | **Tragend.** Drei Naehe-Register an einem Abend (A 6, die Ausnahme, an der er nicht runtergeht; C 6 | HALTEN |
 | **19** | *The third time* | **Tragend.** Die einzige offene Zusage des Blocks (*"I am going to have him before the end of the year"*, Schuldbuch B2 19) | HALTEN |

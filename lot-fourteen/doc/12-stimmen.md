@@ -1094,7 +1094,7 @@ Höflichkeit, und seit b2 K52 auch, was sie ihn kostet.
 > b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
 > more than I need, so do not talk quickly on my account.**"*
 
-> b2 K68: *"You will not want these." … "**I have brought them anyway.** A man
+> b2 K67: *"You will not want these." … "**I have brought them anyway.** A man
 > who puts nothing on a table is telling the other man how long the conversation
 > will be, and I did not want to tell you that before you sat down."*
 
@@ -1641,7 +1641,7 @@ Gefühl.
 **Beide Beispiele standen bis zum 25.08. mit sieben Kontraktionen da** - *I'll*,
 *it's*, *There's*, *you'll*, *That's*, *isn't*, *isn't*. **Mrs Seo hat im
 ganzen Buch keine.** Die zwei, die im Text standen, waren aus diesem Durchgang
-und sind zurückgenommen (b2 K34 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihre
+und sind zurückgenommen (b2 K33 v1.4, b2 K37 v2.4). Ohne sie klingt sie wie ihre
 eigene Zeile: *"It is easier to run a house for people who do not tell me
 things."*
 
@@ -1777,7 +1777,7 @@ Yeom benotet und sagt dann, warum er gefragt hat.** Höchstens einmal je Szene,
 und nie beide im selben Kapitel.
 
 **Nachgeprüft am 25.08. und die Regel hält bisher von selbst:** Yeom steht in
-b2 K24, b2 K25, b2 K34, b2 K41, b2 K53, b2 K54, b2 K55; Sang-hoon in b1 K10,
+b2 K24, b2 K25, b2 K33, b2 K41, b2 K53, b2 K54, b2 K55; Sang-hoon in b1 K10,
 b1 K16, b1 K22, b1 K33 und b2 K04, b2 K26, b2 K35, b2 K36, b2 K38, b2 K39,
 b2 K42, b2 K43, b2 K45, b2 K48, b2 K50. **Keine Überschneidung.**
 
@@ -3253,7 +3253,7 @@ sprechen zwei Figuren eines Paares. Gezählt wurde das **Sprechen**, nicht die
 Erwähnung.
 
 **Aber drei Kapitel stehen dicht an der Grenze**, weil dort beide *vorkommen*
-und nur einer redet: **b2 K34** und **b2 K41** (Sang-hoon und Yeom) sowie
+und nur einer redet: **b2 K33** und **b2 K41** (Sang-hoon und Yeom) sowie
 **b2 K41** (Jang und Mrs Bae). **Wer einer dieser Figuren dort eine Replik
 gibt, erzeugt die Kollision.** In K41 stehen beide Paare gleichzeitig an der
 Grenze.

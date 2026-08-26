@@ -491,6 +491,12 @@ def build_reader(root, chapters):
 # Luecken erlaubt - aber angemeldet, sonst faellt eine vergessene Datei nicht
 # mehr auf. Begruendung in doc/15-kuerzen.md unter "Das Verfahren".
 GESTRICHEN = {
+    (2, 68): "am 26.08. mit 67 zusammengelegt",
+    (2, 44): "am 26.08. mit 43 zusammengelegt",
+    (2, 16): "am 26.08. aufgeloest, zwei Absaetze in 17",
+    (2, 30): "am 26.08. mit 29 zusammengelegt",
+    (2, 59): "am 26.08. mit 58 zusammengelegt",
+    (2, 34): "am 26.08. mit 33 zusammengelegt",
     (2, 27): "am 26.08. mit 26 zusammengelegt",
     (2, 79): "am 26.08. mit 78 zusammengelegt",
 }

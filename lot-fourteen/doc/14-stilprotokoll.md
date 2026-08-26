@@ -890,7 +890,7 @@ hatten bereits ins Buch gewirkt und sind zurueckgenommen.
 | Blatt | Behauptung | Was daraus im Buch wurde |
 |---|---|---|
 | Jang | *"Er zieht zusammen, in beiden Baenden"* | zwei Kontraktionen in b2 K40, von mir. **Zurueckgenommen, ch40 v2.6** |
-| Mrs Seo | Standeslinie 17,9 | zwei Kontraktionen in b2 K34 und K37, von mir. **Zurueckgenommen, v1.4 und v2.4** |
+| Mrs Seo | Standeslinie 17,9 | zwei Kontraktionen in b2 K33 und K37, von mir. **Zurueckgenommen, v1.4 und v2.4** |
 
 **Beide Male hat sich die Behauptung selbst gemessen:** das Blatt sagte, die
 Figur ziehe zusammen; ich machte sie zusammenziehen; das Werkzeug meldete danach,
@@ -1040,7 +1040,7 @@ selbst aufgeloest (*"he is never wrong about that by more than a year"*); Hongs
 drei Namen sind Woo, Sunwoo und Choi; **alle vier Kollisionspaare halten** - in
 keinem Kapitel sprechen beide.
 
-**Aber drei Kapitel stehen an der Grenze:** b2 K34 und b2 K41 (Sang-hoon und
+**Aber drei Kapitel stehen an der Grenze:** b2 K33 und b2 K41 (Sang-hoon und
 Yeom kommen beide vor, nur einer redet) und b2 K41 (Jang und Mrs Bae). **In K41
 stehen zwei Paare gleichzeitig an der Grenze.**
 
@@ -1465,7 +1465,7 @@ Blaetter.
 
 ### Zwei Sachfragen an den Inhalts-Chat, nicht von mir zu entscheiden
 
-1. **b2 K34** benutzt dieselbe Wendung zweimal mit verschiedenem Bezug:
+1. **b2 K33** benutzt dieselbe Wendung zweimal mit verschiedenem Bezug:
    *"…two people who had never met Choi Dae-ho in their lives"* (die
    **Empfaenger**) und vierzig Zeilen weiter *"Two people, four years and one
    telephone number apart, **who each told** a stranger…"* (die **Sprecher**).

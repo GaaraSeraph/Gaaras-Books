@@ -306,6 +306,6 @@ wiederhergestellt (b2 K21, b2 K05).
 5. **Die Testbatterie selbst (C0)** - ob die zwölf Prüfungen die richtigen
    Fragen stellen, und ob das Streichen von Test 5 voreilig war. Ein Verfahren,
    das die falschen Fragen stellt, liefert lauter richtige Antworten auf nichts.
-6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K34 benutzt dieselbe
+6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K33 benutzt dieselbe
    Wendung *"Two people, four years and one telephone number apart"* zweimal mit
    verschiedenem Bezug - einmal die **Empfänger**, einmal die **Sprecher**.

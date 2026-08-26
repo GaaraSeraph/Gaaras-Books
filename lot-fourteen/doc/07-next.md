@@ -2276,7 +2276,7 @@ fuer *umgestellt ist Forderung*. Nur der Beleg gehoert richtiggestellt.
 **3. A5, Mrs Ha - noch keine Maschine, sondern eine Hypothese aus einer einzigen
 Szene.** Die drei Belege stehen woertlich da und sind richtig zitiert (b2 K67
 Z96, Z144, Z168). **Alle drei stehen in demselben Kapitel, und Mrs Ha hat nur
-dieses eine.** In b2 K66 wird sie viermal genannt, in b2 K68 einmal, gesprochen
+dieses eine.** In b2 K66 wird sie viermal genannt, in b2 K67 einmal, gesprochen
 hat sie ausserhalb von K67 nicht.
 
 Damit traegt die Messung *"drei Treffer bei ihr, null Prozent bei Georgij, Annie,
@@ -2349,7 +2349,7 @@ kleinen Figuren, und ob man sie zuordnen kann. Sim gegen Sohn, Koh gegen Hong.
 Die ungezaehlte Probe (*"Streiche jeden Satz ueber den Fall"*) prueft die
 **Tiefe** einer Figur, nicht ihre **Unterscheidbarkeit**.
 
-**6. b2 K34, dieselbe Wendung mit zwei Bezuegen - bestaetigt, und es ist die
+**6. b2 K33, dieselbe Wendung mit zwei Bezuegen - bestaetigt, und es ist die
 Stelle, an der der ganze Choi-Schluss haengt.** Sechs Zeilen auseinander:
 
 > Z42: *"It was **two people** who had never met Choi Dae-ho in their lives,
@@ -2391,7 +2391,7 @@ Zahl sinkt, bis jeder verbleibende Fund einzeln erklaerbar ist).
    zugeschrieben.** `doc/05` Z2032: *"Georgij nennt es beim Namen: 'a man standing
    still on a road for a piece of information that had been sitting in a
    provincial licence register the entire time.'"* Der Text sagt es in der
-   Erzaehlung und ganz anders (b2 K44 Z69).
+   Erzaehlung und ganz anders (b2 K43 Z69).
 3. **Woos Anweisung geglaettet und umgehaengt.** `doc/05` Z3125 schrieb Woo
    direkt zu: *"he should go and ask the person who did not take his telephone
    call."* Im Text ist es **Kwons Bericht** (b2 K69 Z114) und lautet *"He said
@@ -2862,7 +2862,7 @@ Zehn neu geschriebene Zeilen aus fünf Commits gegen den Korpus gemessen:
 
 - Sims fünf Ersatzzeilen (`bf973d7`, `12c876e`) tragen **keine neue Anleihe**.
   *"the last of it,"* und *"getting ready for"* stehen im ganzen Buch nur bei
-  ihm; *"is mine and not"* ist sein eigener Zug aus b2 K68. *"I am going to give
+  ihm; *"is mine and not"* ist sein eigener Zug aus b2 K67. *"I am going to give
   it to you"* steht bei Annie, Georgij und Sim - Hausgut, keine Leihgabe.
 - **Mrs Has neue Zeile hat einen Fund.** *"Ask what you like now. **I've stopped
   counting.**"* (b2 K67 Z118). Der Vorabtest suchte nach Wendungen, **die
@@ -2870,7 +2870,7 @@ Zehn neu geschriebene Zeilen aus fünf Commits gegen den Korpus gemessen:
   Buch, und **zweimal davon ist es der Erzähler über Georgij**:
   > b1 K2 Z172: *"With the part of his mind that had **never once stopped
   > counting** he took an inventory…"*
-  > b2 K59 Z238: *"**He has stopped counting them.** He noticed at some point in
+  > b2 K58 Z238: *"**He has stopped counting them.** He noticed at some point in
   > July that he had stopped…"*
   Dazu Mrs Jeon (b2 K6 Z154) und Mr Ahn (b2 K70 Z26). **Der Vorabtest hält
   wörtlich** - Georgij *sagt* es nirgends. Die Lücke ist, dass die Erzählung in
@@ -3172,7 +3172,7 @@ Trennung nach dem Sprechen ist richtig gezählt.)*
 
 Sein Blatt sagt *"Er spricht aus Türrahmen"*. Gemessen über 124 Kapitel steht
 das Türrahmen-Motiv **25-mal** und gehört mindestens sechs Figuren: **Annie
-dreimal** (b2 K16 Z168, b2 K35 Z478, b2 K55 Z200), Georgij dreimal, dazu Jang,
+dreimal** (b2 K17 Z168, b2 K35 Z478, b2 K55 Z200), Georgij dreimal, dazu Jang,
 Sang-hoon, Mrs Seo. Kwon hat zwei davon. **Das ist der Vorgabe-Beat, den Regel 6
 seit dem 26.08. benennt, und er steht in dem einzigen Körpersatz, den die Figur
 hat.**
@@ -3384,7 +3384,7 @@ diesem Blatt schreibt, gibt Sim Chois Biographie.
 
 **Fertiger Ersatz für die Zeile:**
 
-> | **Woher er kommt** | **Steht nicht im Buch.** Belegt sind sein Alter (63), dreissig Jahre im Gewerbe und elf Jahre bei diesem Auftraggeber (b2 K68). *(Hier stand „mit sechsunddreissig aus einem Dienst herausgeholt (K75)" - das ist Choi Dae-hos Herkunft und gehört Sim nicht. Berichtigt am 26.08.)* |
+> | **Woher er kommt** | **Steht nicht im Buch.** Belegt sind sein Alter (63), dreissig Jahre im Gewerbe und elf Jahre bei diesem Auftraggeber (b2 K67). *(Hier stand „mit sechsunddreissig aus einem Dienst herausgeholt (K75)" - das ist Choi Dae-hos Herkunft und gehört Sim nicht. Berichtigt am 26.08.)* |
 
 ---
 
