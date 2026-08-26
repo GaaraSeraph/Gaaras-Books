@@ -466,6 +466,57 @@ Gewohnheit** - und wenn sie einmal unterbleibt, ist das die Szene.
 
 ---
 
+
+#### Der Vorgabe-Beat, gemessen am 26.08.
+
+**Regel 6 sagt, jede Figur hat eine Körpergewohnheit und sie gehört ihr. Fünf
+Wendungen tragen im ganzen Buch 437 Beats, und keine davon gehört jemandem.**
+
+| Beat | Anzahl | in Kapiteln (von 114) |
+|---|---|---|
+| *looked at … for N seconds* | **141** | **90** |
+| *hands flat* | **112** | **74** |
+| *did not answer straight away* / *did not say anything for* | 77 | 53 |
+| *sat back* | 54 | 46 |
+| *did not move* | 53 | 44 |
+
+**Bei *hands flat* sind mindestens vierzehn Figuren beteiligt** - Georgij 19,
+Annie 11, Sim 4, Mrs Jeon 3, Hwang 3, Mr Ahn 3, dazu Woo, Hana, Jang, Yeom,
+Baek, Nam Byung-hee, Mrs Ha, Sang-hoon. **Eine Geste, die vierzehn Leuten
+gehört, kennzeichnet keinen Sprecher.**
+
+**Und die Ursache steht in `CLAUDE.md`, Regel 5:** *"Zwischen zwei Redeblöcken
+derselben Figur steht immer etwas Körperliches."* Die Regel ist richtig, aber
+sie erzeugt einen **Bedarf**, und der Bedarf wird aus einem Vorrat von fünf
+Wendungen gedeckt. **Eine Regel, die einen Beat verlangt, produziert einen
+Vorgabe-Beat, wenn niemand nachzählt.**
+
+**Zweimal weiss der Text es selbst**, und beide Stellen sind gut - sie machen
+die Geste zur Aussage, statt sie zu benutzen:
+
+> *"She sat with both hands flat on the desk, **which is his posture and not
+> hers**."*
+> *"Then she put both hands flat on the desk, **which she does before she signs
+> something**."*
+
+**Genau das ist der Unterschied.** Eine Geste trägt, wenn der Text sagt, wem sie
+gehört oder was sie ankündigt. Sie trägt nicht, wenn sie nur die Lücke zwischen
+zwei Repliken füllt.
+
+**Was daraus folgt, und es ist keine Streichliste.** Die 437 einzeln zu ersetzen
+wäre dieselbe Sorte Arbeit wie die 2742 Takt-Trenner - viel Bewegung, wenig
+Gewinn, und am Ende fünf neue Vorgabe-Beats. **Die Regel ist die Sperre:**
+
+> **Eine Körpergewohnheit kommt erst in ein Blatt, wenn sie über das ganze Buch
+> gemessen ist.** Wer nur die Kapitel der Figur liest, hält den Hausbestand für
+> ihren Besitz. Am 26.08. sind mir so **drei von vier** Körperdetails in Sims
+> Blatt geraten, die ihm nicht gehören.
+
+> **Und beim Schreiben: wenn der Beat aus diesen fünf kommt, ist er noch keiner.**
+> Er wird einer, sobald der Satz dazusagt, wem die Geste gehört oder was sie
+> ankündigt.
+
+
 ## Das Anredesystem, und dass es zerfallen ist
 
 **Gezählt am 25.08. über beide Bände.** Die Anrede verortet im Buch jeden
@@ -805,8 +856,8 @@ entschuldigt sich nie. Ihr einziges Weichwerden ist körperlich, nie sprachlich
 (siehe `doc/10-naehe.md`).
 
 **Und das ist der Grund, warum Kapitel 6 kein Bruch ist**, obwohl dort der
-groesste Satz steht, den sie im Buch ueber die beiden sagt. *"You are mine... It
-has no end on it. Build on this one."* enthaelt **kein einziges weiches Wort**,
+groesste Satz steht, den sie im Buch ueber die beiden sagt. *"You are mine."* und, zwei Zeilen
+weiter, *"It has no end on it and there is no Tuesday in it"* enthaelt **kein einziges weiches Wort**,
 keine Begruendung ueber sich selbst und keinen Zusatz. Es ist eine Feststellung
 und ein Befehl, also genau ihr Grundregister, angewandt auf den teuersten
 Gegenstand, den es gibt. **Wer die Stelle waermer schreibt, macht sie zu einer
@@ -1126,32 +1177,32 @@ aussprechen, wie es eingerichtet ist.
 
 #### Körper
 
-**Flache Hände, die stehen bleiben.** Das ist der Grundzustand, und der Text
-zählt ausdrücklich mit, wenn sie sich **nicht** bewegen:
+**Hier stand am 26.08. Falsches, und der Fehler ist lehrreich: von vier
+Körperdetails, die ich ihm gegeben habe, gehören ihm zwei.** Ich hatte nur seine
+Kapitel gelesen und daraus geschlossen, es seien seine Gesten.
 
-> *"Sim put both hands flat on the table on either side of the page."* (K52)
-> *"Sim put one hand flat on the table beside the page **and left it there**."* (K52)
-> *"Sim had both hands flat on the desk."* · *"**Sim's hands had not moved.**"* (K68)
+| stand hier | gemessen über das ganze Buch |
+|---|---|
+| *"Flache Hände, die stehen bleiben - das ist der Grundzustand"* | **112 Vorkommen in 74 Kapiteln, bei mindestens vierzehn Figuren.** Das ist der Vorgabe-Beat des Buchs und gehört niemandem |
+| *"Eine Innentasche, und alles kommt aus ihr"* | **Georgijs Tasche.** Er hat sie rund zwölfmal, Sim viermal, Shin einmal |
+| Papier geraderichten, ohne es zu merken | bleibt, aber schwach - die Geste ist zu allgemein, um zu tragen |
 
-**Er richtet Papier gerade, ohne es zu merken** - dieselbe Einrichtungsgeste wie
-in seiner Rede, nur stumm: *"squared it with the edge **without appearing to know
-that he was doing it**"* · *"He straightened the page again, a fraction, with one
-finger."*
+**Was ihm wirklich gehört, sind zwei Sachen, und beide sind stark:**
 
-**Eine Innentasche, und alles kommt aus ihr.** Der Umschlag, dann der Stift -
-und der Text macht die Verbindung selbst: *"Sim took a pen out of his inside
-pocket, **which is where the envelope had been**."* Am Ende geht die Seite
-dorthin zurück.
+**Der Teller, den er nicht anfasst.** *"Sim looked at the plate with the four
+small things on it and did not touch it."* (K68) Und das Buch stellt die
+Verbindung selbst her, b2 K52: *"There is one other man in this story who does
+not eat in front of the person he is working on."* - **siehe Choi Dae-ho.** Das
+ist keine Marotte, sondern die Landkarte.
 
-**Was er nicht anfasst, ist das Essen** - und das ist kein Tick, sondern die
-Landkarte: *"Sim looked at the plate with the four small things on it and did not
-touch it."* (K68) Siehe *Choi Dae-ho*: **b2 K52 stellt die beiden ausdrücklich
-nebeneinander** - *"There is one other man in this story who does not eat in
-front of the person he is working on."*
+**Der Stuhl, den er nicht anschiebt.** Zweimal im Buch, beide Male er: er steht
+auf, legt beide Hände auf die Lehne **und schiebt nicht an.** Ein Mann, der
+dreißig Jahre lang jeden Raum hinter sich aufgeräumt hat, lässt einmal etwas
+stehen.
 
-**Und die eine Geste, die den Bruch trägt:** er steht auf, legt beide Hände auf
-die Stuhllehne **und schiebt den Stuhl nicht an.** Ein Mann, der dreißig Jahre
-lang jeden Raum hinter sich aufgeräumt hat, lässt einmal etwas stehen.
+**Die Lehre, und sie gilt für jedes Blatt:** eine Körpergewohnheit wird über das
+**ganze Buch** gemessen, bevor sie in ein Blatt kommt - genau wie eine Wendung.
+Wer nur die Kapitel der Figur liest, hält den Hausbestand für ihren Besitz.
 
 #### Unter Druck
 
@@ -1520,8 +1571,10 @@ things."*
 
 ### Mr Ahn (39, repariert Kleinmotoren) - 35 Repliken
 **Misst alles in Fristen und Durchlaufzeiten**, auch Dinge, die keine haben.
-Steht schon in seiner ersten Zeile (b2 K56 Z28): *"It will be Tuesday. Whatever
-it is."* Und derselbe Satz, der ihre Entführung an einer Lieferzeit misst:
+Steht schon in seiner ersten Zeile (b2 K56 Z28): *"It will be Tuesday," he
+said. "Whatever it is."* - **zwei Teile mit dem Begleitsatz dazwischen, und die
+Fuge gehört dazu**; wer sie zusammenzieht, nimmt ihm die Pause vor dem
+*whatever*. Und derselbe Satz, der ihre Entführung an einer Lieferzeit misst:
 *"Four days. **I've had a bearing take longer than four days to come in.** And
 she never asked me."*
 
