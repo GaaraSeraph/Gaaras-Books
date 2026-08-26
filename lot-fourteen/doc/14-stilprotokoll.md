@@ -368,7 +368,7 @@ Erzaehlerabsatz**, und zwar auf einem guten -
 
 > b2 K15: *"A man who says a true thing in a room and then does not act on it
 > has made himself feel better and changed nothing whatever."*
-> b2 K27: *"There was nothing available that was both true and small enough to
+> b2 K26: *"There was nothing available that was both true and small enough to
 > survive being said."*
 > b2 K07: *"There is no fault anywhere in that sentence. That is what makes it
 > the worst one he has had all month."*
@@ -994,7 +994,7 @@ Regel 2 sagte: *"Annie haelt nichts zurueck und das ist ihr Kennzeichen."*
 
 Sie haelt **am meisten** zurueck von allen, und die Handlung beider Baende haengt
 daran - der Name neunzehn Tage lang (b1 K12), die Weigerung (b1 K11, K34), die
-achtundsechzig Tage (b2 K27), *"the smallest piece I could get away with"*
+achtundsechzig Tage (b2 K26), *"the smallest piece I could get away with"*
 (b2 K18). **Ihr Kennzeichen ist nicht das Nichtzurueckhalten. Es ist, dass sie
 das Zurueckhalten ansagt** - mit Frist, mit Grund, ohne Entschuldigung.
 

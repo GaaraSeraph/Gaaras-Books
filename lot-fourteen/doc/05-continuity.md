@@ -1602,7 +1602,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Dazu Georgijs einziger Rat an Yeom, und er ist ernst gemeint:** *"Do not say the rest of that out loud in this room. ... you have just told me you do not know who you did it for, and that is the only thing keeping you comfortable, and it is a great deal safer than knowing."*
 
-- **Band 2, Kapitel 26** *The third name on a list of three* (v1.7) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
+- **Band 2, Kapitel 26** *What he collects* (v1.8) - **Tag 236, Mi 27. Mai. Ein Tag in zwei Haelften, am 26.08. aus 26 und 27 zusammengelegt: der Stapellauf am Nachmittag und das kleine Zimmer um zehn nach acht.**
 
   **Der Grund, es im Maerz nicht zu tun, ist am 15. Mai um zwanzig nach neun in ein Registeramt gegangen.** Deshalb geht er jetzt hin. Das Korridorangebot aus Kapitel 4 wird zum ersten Mal so benutzt, wie es gemeint war, **und Sang-hoon kommt durch vierzig Leute selbst herueber**: *"There is never a corridor. It is a figure of speech and you knew what I meant in March."*
 
@@ -1630,7 +1630,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt den Abend scharf:** er muss in das kleine Zimmer gehen und einen Namen aussprechen, **den sie seit Dezember haelt** - und sie muss dabeistehen und hoeren, wie er ihn sagt, **bekommen von einem Mann, der ihn kaufen wollte, bei einem Stapellauf, umsonst.** *"Neither of them chose the afternoon."*
 
-- **Band 2, Kapitel 27** *What he collects* (v1.7) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
+  **Der zweite Teil, bis 26.08. Kapitel 27:** *What he collects* (frueher v1.7) - **Tag 236, Mi 27. Mai, zehn nach acht. Eine Szene, das kleine Zimmer, und die Aufloesung des laengsten Fadens des Buches.**
 
   **Er hat vier Stunden Rueckfahrt und verbringt drei davon damit, sich Fassungen zu bauen, und nimmt auf der Bruecke alle wieder auseinander.** *"A man who arranges the sentence has decided in advance what the other person is going to feel about it."* Also zwei Woerter, nichts an beiden Enden, **und dann steht er da und laesst sie es in der Form haben, in der es kommt.**
 
@@ -1663,6 +1663,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   **Und der Weg zu ihr geht ueber den Mann, den er am 4. Mai auseinandergenommen hat:** *"He does not know where she lives and he has never asked, and there is exactly one person in this country who would have written it down. Mr Hwang keeps everything."*
 
   **Und die Stunde auf dem Boden ist die Romanze dieses Kapitels und besteht aus Schweigen.** *"Then come and sit on the floor for an hour before you start."* Kein Wort die ganze Stunde, die Hand im Haar, der Kopf zurueck an die Seite des Schreibtischs.
+
 
 - **Band 2, Kapitel 28** *He keeps everything* (v1.8) - **Tag 237, Do 28. Mai. Eine Szene, dritter Stock im Haus am Fluss, zwei Kisten und ein Tisch.**
 

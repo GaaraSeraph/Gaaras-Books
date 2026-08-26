@@ -389,7 +389,7 @@ Zurückhalten wird sichtbar gemacht**, nicht verschwiegen:
   > b2 K18: *"Do not thank me for that. I have been sitting on the whole of it
   > since December and I have just given you the smallest piece I could get
   > away with, and both of us are aware of it."*
-  > b2 K27: *"I have spent sixty-eight days arranging for it to be later."*
+  > b2 K26: *"I have spent sixty-eight days arranging for it to be later."*
 
   **Ihr Kennzeichen ist nicht, dass sie nichts zurückhält. Es ist, dass sie das
   Zurückhalten ansagt** - mit Frist, mit Grund und ohne Entschuldigung. Wer

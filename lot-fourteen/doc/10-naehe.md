@@ -37,7 +37,7 @@ gegen den dieses Dokument geschrieben wurde:
   Satz stand nur hier. **Er ist gut und er ist ungeschrieben** - wer ihn haben
   will, schreibt ihn ins Kapitel und traegt ihn dann hier ein, in dieser
   Reihenfolge und nicht umgekehrt.
-- **Register A 7** stand auf B2 23 / 13. Mai. Die Zeile steht in **B2 27**,
+- **Register A 7** stand auf B2 23 / 13. Mai. Die Zeile steht in **B2 26**,
   Mittwoch, dem 27. Mai. Kapitel 23 enthaelt sie nicht.
 - **Register A 5** fuehrte *"which is where he sits"* fuer 15, 16, 20 **und 30**.
   In 30 steht es nicht.
@@ -89,7 +89,7 @@ Wer wann unten war. Das ist die Kette, die am häufigsten falsch zitiert wird.
 | 4 | B2 9 | Fr 20. März | Der Platz bekommt seinen Namen. *"he ended up on the floor at the side of the desk with his back against it, which is where he sits."* |
 | 5 | B2 15, 16, 20 | | *"which is where he sits"* wiederholt sich wörtlich. In 20: *"She sat on the arm of the reading chair, which is not sitting."* |
 | 6 | B2 18 | Mo 27. April | Die Ausnahme, die zählt: *"He came in at about half past seven with the notebook and did not sit down on the floor."* |
-| 7 | B2 27 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
+| 7 | B2 26 | Mi 27. Mai | Sie schickt ihn hoch (und im selben Kapitel ist er wieder unten, Register B 3): *"Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of you."* |
 | 8 | B2 30 | Fr 29. Mai | Er schläft dort ein. *"He was asleep with his head against the side of the desk and one hand still open on his knee."* |
 | 9 | **B2 35** | **Do 4. Juni** | **Sie kommt zum ersten Mal runter, und zwar von sich aus.** Er hat sie nicht darum gebeten und wird es nie - er bittet um etwas anderes (siehe Register E). Sie kommt runter, **bevor** sie ihm antwortet, und das ist die Antwort. *"Then she came down onto the floor beside him, without any of the noise a person makes doing that."* |
 | 10 | B2 45 | Do 9. Juli | Sie tut es wieder, ohne dass jemand etwas sagt. *"Annie came off the edge of the desk and sat down on the floor at the end of it, her back against the drawers, on his side."* |
@@ -108,7 +108,7 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 |---|---|---|---|
 | 1 | B2 9 | Fr 20. März | *"Somewhere in the middle of it she put her hand down without looking away from the page and left it in his hair."* |
 | 2 | B2 20 | Do 30. April | *"She put her hand down without looking away from the window and left it in his hair, and after a while his shoulders came down about an inch, and he had known this time that they were up."* |
-| 3 | B2 27 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
+| 3 | B2 26 | Mi 27. Mai | *"At some point in the middle of it she put her hand down into his hair and left it there, and he put his head back against the side of the desk."* |
 | 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |

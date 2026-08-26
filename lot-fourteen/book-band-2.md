@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.870 Woerter.
+Book Two, 88 Kapitel, 219.764 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -36,8 +36,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 23 | v1.7 | 2.011 |
 | 24 | v1.6 | 2.033 |
 | 25 | v1.5 | 2.099 |
-| 26 | v1.7 | 1.995 |
-| 27 | v1.7 | 1.997 |
+| 26 | v1.8 | 3.886 |
 | 28 | v1.8 | 2.444 |
 | 29 | v1.8 | 2.608 |
 | 30 | v1.4 | 2.026 |
@@ -5456,8 +5455,8 @@ Both of those are facts. Only one of them is a fact about Georgij, and he does n
 
 ---
 
-# Book Two · Chapter 26: The third name on a list of three
-*Lot Fourteen* · Version 1.7 · EN
+# Book Two · Chapter 26: What he collects
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Two Hundred and Thirty-Six · Wednesday 27 May
 
@@ -5639,20 +5638,7 @@ Not the name. He does not need to write down the name.
 
 *Hong. 25 Oct. Third of three. Ask who put him at that table.*
 
-There is a thing he has to do this evening and he worked out on the bridge that there is no good way of doing it.
-
-He is going to walk into the small room and say a name out loud that she has been holding since December.
-
-She is going to have to stand there and hear him say it, from a man who wanted to buy him, at a launch, for nothing.
-
-Neither of them chose the afternoon.
-
----
-
-# Book Two · Chapter 27: What he collects
-*Lot Fourteen* · Version 1.7 · EN
-
-## Day Two Hundred and Thirty-Six · Wednesday 27 May
+* * *
 
 He had four hours between the shed and the drive and he spent about three of them deciding how to say it.
 

@@ -19,7 +19,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
 | Annie | 907 | 98 (b1ch01-b2ch90) | 1 | 74 |
-| Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
+| Park Sang-hoon | 275 | 41 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 249 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
@@ -34,7 +34,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Kwon | 45 | 7 (b2ch14-b2ch74) | 4 | 53 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Baek | 38 | 12 (b1ch05-b2ch87) | 2 | 55 |
-| Choi Dae-ho | 36 | 20 (b1ch07-b2ch88) | 2 | 61 |
+| Choi Dae-ho | 36 | 19 (b1ch07-b2ch88) | 2 | 61 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mr Ku | 35 | 23 (b1ch05-b2ch78) | 3 | 60 |
 | Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
@@ -565,18 +565,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:242 | He went down at about eight and told Annie all of it in order, and she listened to the w.. |
 | 26 | b2ch24:250 | Annie looked at the window for a moment. |
 | 26 | b2ch24:256 | "Because after Thursday one of two things will be true," said Annie. "Either you have fo.. |
-| 38 | b2ch27:20 | Annie was at the desk with a pen in her hand and she did not put it down. |
-| 38 | b2ch27:34 | "Then he is a better man than I have ever been prepared to say," said Annie, "and I am g.. |
-| 38 | b2ch27:50 | Annie stood at the window with the curtain not drawn and the drive dark behind the glass. |
-| 38 | b2ch27:62 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
-| 38 | b2ch27:80 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
-| 38 | b2ch27:110 | Annie watched him not move and did not mistake it for one second. |
-| 38 | b2ch27:122 | "I did the arithmetic while you were still talking," said Annie, "and then I asked you a.. |
-| 38 | b2ch27:126 | "Sixty-eight days," said Annie. |
-| 38 | b2ch27:140 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
-| 38 | b2ch27:154 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
-| 38 | b2ch27:184 | Annie stood in the middle of her own room. |
-| 38 | b2ch27:200 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
+| 38 | b2ch26:248 | Annie was at the desk with a pen in her hand and she did not put it down. |
+| 38 | b2ch26:262 | "Then he is a better man than I have ever been prepared to say," said Annie, "and I am g.. |
+| 38 | b2ch26:278 | Annie stood at the window with the curtain not drawn and the drive dark behind the glass. |
+| 38 | b2ch26:290 | "Sit down," said Annie. "Not on the floor. In the chair, where I can see the whole of yo.. |
+| 38 | b2ch26:308 | "In December I gave you a reason for holding his name and it was a true one," said Annie.. |
+| 38 | b2ch26:338 | Annie watched him not move and did not mistake it for one second. |
+| 38 | b2ch26:350 | "I did the arithmetic while you were still talking," said Annie, "and then I asked you a.. |
+| 38 | b2ch26:354 | "Sixty-eight days," said Annie. |
+| 38 | b2ch26:368 | "There is a person somewhere who was bought at that house four years ago by a man who do.. |
+| 38 | b2ch26:382 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch26:412 | Annie stood in the middle of her own room. |
+| 38 | b2ch26:428 | "He is four years gone," said Annie. "Out of a book, off a page, with no bill and no nam.. |
 | 40 | b2ch29:306 | He also has a woman four stops out of a station he had never used, sitting at a table in.. |
 | 40 | b2ch30:18 | Annie was standing at the side of the desk with a folder open in her hand. |
 | 40 | b2ch30:32 | Annie put the folder down on the desk and squared it with two fingers, which is not a th.. |
@@ -1105,12 +1105,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch24:220` (Tag 26) - one, twenty
 - `b2ch24:242` (Tag 26) - eight
 - `b2ch24:256` (Tag 26) - one, two
-- `b2ch27:80` (Tag 38) - one, twenty
-- `b2ch27:110` (Tag 38) - one
-- `b2ch27:126` (Tag 38) - sixty-eight
-- `b2ch27:140` (Tag 38) - four
-- `b2ch27:154` (Tag 38) - sixty-eight
-- `b2ch27:200` (Tag 38) - four, sixty-eight
+- `b2ch26:308` (Tag 38) - one, twenty
+- `b2ch26:338` (Tag 38) - one
+- `b2ch26:354` (Tag 38) - sixty-eight
+- `b2ch26:368` (Tag 38) - four
+- `b2ch26:382` (Tag 38) - sixty-eight
+- `b2ch26:428` (Tag 38) - four, sixty-eight
 - `b2ch29:306` (Tag 40) - eleven, four
 - `b2ch30:32` (Tag 40) - two
 - `b2ch30:170` (Tag 40) - one
@@ -1243,7 +1243,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Park Sang-hoon
 
-275 Nennungen in 42 Kapiteln.
+275 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1374,8 +1374,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:194 | "What are you going to do," said Sang-hoon. |
 | 38 | b2ch26:204 | Park Sang-hoon picked his glass back up and did not drink out of it. |
 | 38 | b2ch26:210 | "I have four decisions I cannot account for," said Sang-hoon. "You will find out what al.. |
-| 38 | b2ch27:28 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
-| 38 | b2ch27:154 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
+| 38 | b2ch26:256 | "Park Sang-hoon. This afternoon, at a launch, in the second room. He gave it to me witho.. |
+| 38 | b2ch26:382 | "I did not want you to find out that it is also a description of somebody who is not," s.. |
 | 45 | b2ch33:168 | "There is also Sang-hoon's four," she said. "He gave you a task in a shed last week and .. |
 | 46 | b2ch34:60 | Sang-hoon: eight years of dinners with a man who has never eaten in front of him and fou.. |
 | 46 | b2ch34:150 | "You are not to tell Sang-hoon that any of this has gone further than it had in the shed.. |
@@ -1578,7 +1578,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch26:72` (Tag 38) - four
 - `b2ch26:148` (Tag 38) - four
 - `b2ch26:210` (Tag 38) - four
-- `b2ch27:154` (Tag 38) - sixty-eight
+- `b2ch26:382` (Tag 38) - sixty-eight
 - `b2ch33:168` (Tag 45) - four
 - `b2ch34:60` (Tag 46) - eight, four
 - `b2ch34:206` (Tag 46) - two
@@ -2978,8 +2978,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 15 | b2ch21:256 | "Mr Hwang." |
 | 26 | b2ch24:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:194 | Either Hwang told him, which is entirely possible and which Georgij would not hold again.. |
-| 38 | b2ch27:234 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
-| 38 | b2ch27:248 | Mr Hwang keeps everything. |
+| 38 | b2ch26:462 | Byun wrote it and took it out and has spent four years being comfortable. Hwang found th.. |
+| 38 | b2ch26:476 | Mr Hwang keeps everything. |
 | 39 | b2ch28:28 | Mr Hwang was on the third floor in a room with two crates and a table and nothing else. |
 | 39 | b2ch28:32 | "You," said Mr Hwang. |
 | 39 | b2ch28:38 | Mr Hwang put the page he was holding face down on the table, squared it, and turned round. |
@@ -3074,7 +3074,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch21:204` (Tag 15) - twenty
 - `b2ch21:230` (Tag 15) - fifteen
 - `b2ch21:246` (Tag 15) - five, four, twenty
-- `b2ch27:234` (Tag 38) - four
+- `b2ch26:462` (Tag 38) - four
 - `b2ch28:28` (Tag 39) - two
 - `b2ch28:50` (Tag 39) - one
 - `b2ch28:76` (Tag 39) - eleven, one, twelve
@@ -3969,7 +3969,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Choi Dae-ho
 
-36 Nennungen in 20 Kapiteln.
+36 Nennungen in 19 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3979,7 +3979,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 38 | b2ch26:142 | "Choi Dae-ho," he said. |
 | 38 | b2ch26:152 | "Choi Dae-ho. Fifty-nine. Former prosecutor, out early and nobody says why. He is a dire.. |
 | 38 | b2ch26:160 | Woo. Sunwoo. Choi Dae-ho. |
-| 38 | b2ch27:14 | "Choi Dae-ho," he said. |
+| 38 | b2ch26:242 | "Choi Dae-ho," he said. |
 | 45 | b2ch33:38 | "A man who orders flowers by telephone for people he has never met, and tells florists i.. |
 | 46 | b2ch34:42 | What sat on the table in front of him at one in the morning was not a name. It was two p.. |
 | 46 | b2ch34:72 | That groove is the first piece of Choi Dae-ho that has ever left a mark somewhere other .. |
