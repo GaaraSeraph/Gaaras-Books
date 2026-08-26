@@ -1996,3 +1996,49 @@ naechste Ueberschrift genommen statt der in ihrem Abschnitt. Mit
 eine Ueberschrift sucht, muss die Grenzen des Abschnitts kennen.**
 
 *Unsicher:* keiner.
+
+### Berichtigung und der Eingriff in b2 K67
+
+**Zuerst eine Berichtigung an mir selbst: sie fragt doch.** Am Schluss, an der
+Tuer - *"Is she alive."* - und der Erzaehler markiert es sogar: *"At the door
+she asked the question he had been waiting for since the boxes."* Mein
+Fragemuster hatte `Is it|Is that`, aber nicht `Is she`. **Zum dritten Mal in
+dieser Sitzung war ein Befund ein Messfehler**, und zum dritten Mal war es
+meiner.
+
+**Was bleibt, ist praeziser:** sie fragt nach **der Frau** und kein einziges Mal
+nach **ihm**. In 39 Repliken geht eine Frage ueber ihr Gegenueber, und die
+handelt von ihr selbst (*"Do you know how many I've done."*).
+
+**Die Stelle lag offen da** - sie schenkt ihm die Extrafragen, statt sie zu
+berechnen: *"You said one and then you asked four, and I'm going to let you."*
+Jetzt (ch67 v1.4) nimmt sie Georgijs eigenes Angebot an und laesst ihn zahlen:
+
+> *"…and I'm going to let you, because it's the first interesting afternoon
+> I've had since February." **She did not sit back. "You also said you'd answer
+> anything I asked. I'll have mine now and not at the door. Who pays you?"***
+>
+> ***"A woman in Seoul," said Georgij. "I am not going to give you her name, and
+> that is the only thing I am keeping from you today."***
+>
+> ***"Then she's getting her money's worth."*** *Mrs Ha sat back. "She was the
+> calmest person in this room…"*
+
+Gemessen ueber die Szene: Fragen ueber ihn **1 → 2**, und die neue kostet ihn
+etwas. `faktenspur.py` meldet nur *Georgij 18 → 19* - das ist der neue
+Begleitsatz und keine bewegte Tatsache.
+
+**Ist sie damit ein BG3-NPC? Nicht durch eine Zeile.** Was sie schon hatte:
+sie urteilt ueber den Wortwechsel, sie verlangt, sie wechselt im Lauf der Szene
+die Position, sie hat einen eigenen Einsatz. Was gefehlt hat, war der
+**Rueckkanal** - der ist jetzt da.
+
+**Was weiter fehlt, und es ist benennbar:** in BG3 aendert *deine Antwort*, was
+du bekommst. Hier verdient Georgijs Antwort ein Lob (*"Then she's getting her
+money's worth"*), aber sie aendert nicht, **was Mrs Ha danach hergibt**. Der
+naechste Schritt waere, dass eine schlechtere Antwort ihr eine Auskunft
+gekostet haette.
+
+*Unsicher:* ob *"A woman in Seoul"* Georgij zu viel preisgibt - er haelt Annie
+sonst streng zurueck. Der Name bleibt drin nicht drin, aber die Existenz einer
+Auftraggeberin ist neu gesagt. **Das gehoert vom Inhalts-Chat geprueft.**

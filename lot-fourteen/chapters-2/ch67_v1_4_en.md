@@ -1,7 +1,7 @@
-Book Two · Chapter 67: Four hundred and one
-Lot Fourteen · Version 1.3 · EN
+# Chapter 67: Four hundred and one
+*Lot Fourteen* · Version 1.4 · EN
 
-Day Three Hundred and Thirty-Six · Friday 4 September
+## Day Three Hundred and Thirty-Six · Friday 4 September
 
 Jang put the car where he puts cars, which is forty metres past the place and facing the way out, and did not turn the engine off for the first two minutes.
 
@@ -15,9 +15,11 @@ Jang put the car where he puts cars, which is forty metres past the place and fa
 
 "You do not, because nobody does until the third time." He put the handbrake on. "I will be here. I have got a street and a coffee and I am fifty-eight, and I have wanted a street since June."
 
-———
+* * *
 
 She is in two rooms above a shop that sells bathroom fittings, and the stair is on the outside. There is a laminated card by the bell with her name on it, in a font that was expensive in about 2011.
+
+---
 
 Mrs Ha is in her sixties and answered the door herself and looked at his coat before she looked at his face.
 
@@ -27,9 +29,11 @@ Mrs Ha is in her sixties and answered the door herself and looked at his coat be
 
 "Then you can come in, and you can sit on the good chair, because the other one has been broken since March and I have not had it seen to." She went ahead of him. "Mind the boxes. That is a wedding from 2019 that never got collected and I am not throwing it out on principle."
 
-———
+* * *
 
 The room is stacked to the ceiling on two walls with boxes that have hall names written on them in marker.
+
+---
 
 She sat down opposite him and did not offer him anything, which she would have done for a customer, and both of them understood that.
 
@@ -41,9 +45,11 @@ She sat down opposite him and did not offer him anything, which she would have d
 
 "The Moon wedding. The second week of April, eleven years ago. It did not happen."
 
-———
+* * *
 
 She did not move for about four seconds.
+
+---
 
 Then she got up and went to the window and looked at the street, which is a thing people do when they are deciding whether to be angry.
 
@@ -57,13 +63,15 @@ Then she got up and went to the window and looked at the street, which is a thin
 
 "Four hundred and eleven, and the four hundred and eleventh was in the November before last and it was a nephew and I did it for nothing." She did not turn round. "And I can tell you the linen on every one of them, and the tables, and what the mother wanted and what she got instead. That is thirty years. That is what I've got, and it's in boxes, and nobody has asked me about any of it since the day I shut."
 
-———
+* * *
 
 "I am not here about the business," said Georgij.
 
 "I know you're not. Nobody is." She came back and sat down. "Ask it properly, then. You said one question and you gave me a date."
 
 "What happened at the hall."
+
+---
 
 Mrs Ha put both hands flat on her knees.
 
@@ -73,11 +81,13 @@ Mrs Ha put both hands flat on her knees.
 
 "The hall, not the family. That's normal and it means nothing. Halls do the telephoning." She looked at the boxes. "What isn't normal is that nobody argued about the money. In thirty years I have had four hundred and eleven weddings and I have argued about money on three hundred of them, and this one paid the whole thing inside a week and never asked for the linen back."
 
-———
+* * *
 
 "And then," said Georgij.
 
 "And then she came here."
+
+---
 
 Georgij did not move at all.
 
@@ -89,7 +99,7 @@ Georgij did not move at all.
 
 "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and eleven weddings, nobody's family has ever come to my office. Not once. They send a card at best and mostly they send nothing, and I have never thought worse of anybody for it, because it is a bad month and I am a supplier."
 
-———
+* * *
 
 "What was she like," said Georgij.
 
@@ -97,15 +107,25 @@ Georgij did not move at all.
 
 "It is."
 
-"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She sat back. "She was the calmest person in this room, and I include myself, and I was not upset about anything."
+"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She did not sit back. "You also said you'd answer anything I asked. I'll have mine now and not at the door. Who pays you?"
+
+---
+
+"A woman in Seoul," said Georgij. "I am not going to give you her name, and that is the only thing I am keeping from you today."
+
+---
+
+"Then she's getting her money's worth." Mrs Ha sat back. "She was the calmest person in this room, and I include myself, and I was not upset about anything."
 
 "Say what you mean by calm."
 
 "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell you in four seconds." Mrs Ha did not look away. "She had decided something and she'd finished deciding it. There was nothing left in her about it at all. I have seen that twice in my life and the other one was my mother."
 
+---
+
 Georgij sat in a room stacked with boxes and did not let anything happen on his face.
 
-———
+* * *
 
 "I asked her whether it might be later in the year," said Mrs Ha.
 
@@ -117,19 +137,27 @@ Georgij sat in a room stacked with boxes and did not let anything happen on his 
 
 "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest of it. "Then she thanked me for the linen. Then she asked what had happened to the flowers." She put one hand on the arm of the chair. "I said they were ordered and paid for and sitting in a cold room. She said send them to the hospital in Mapo. Somebody should have them."
 
+---
+
 Neither of them said anything.
 
 "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday."
 
+---
+
 She had finished deciding before she came up those stairs, and the only thing she had left to arrange was where the flowers went.
 
-———
+* * *
 
 Georgij let a moment go past before he asked it, because there was no version in which it was not the next question.
 
 "And then somebody came to see you," he said.
 
+---
+
 Mrs Ha went completely still.
+
+---
 
 The room did what a room above a shop does on a Friday morning.
 
@@ -141,9 +169,11 @@ The room did what a room above a shop does on a Friday morning.
 
 "Yes."
 
-———
+* * *
 
 Mrs Ha got up again and this time she did not go to the window.
+
+---
 
 She went to the boxes on the left wall and put one hand on the third one down, which has a hall name on it in marker and a year, and left it there.
 
@@ -153,9 +183,13 @@ She went to the boxes on the left wall and put one hand on the third one down, w
 
 "He was pleasant." She was looking at the box. "He was the most pleasant man who has ever been in this office and I've had brides' fathers in here."
 
+---
+
 Georgij did not move.
 
 "He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that used me and he knew I'd just taken on the girl, and he said something about my linen that only somebody who'd looked at it would say." Mrs Ha's hand had not come off the box. "And he said it was good to see me again."
+
+---
 
 The floor of that room went a long way down.
 
@@ -163,7 +197,7 @@ The floor of that room went a long way down.
 
 "I had never seen him in my life."
 
-———
+* * *
 
 "What did he ask you for," said Georgij.
 
@@ -177,7 +211,7 @@ The floor of that room went a long way down.
 
 "For eleven years." She came back and sat down. "And I want you to understand what I thought I was doing, because I've had eleven years to be wrong about it. I thought I was being decent. I thought a woman had had the worst month of her life and a man who cared about her had come round to ask people to be kind."
 
-———
+* * *
 
 Georgij sat with that.
 
@@ -189,6 +223,8 @@ Georgij sat with that.
 
 "That isn't kindness. That's a job." She put one hand on the arm of the chair. "I've been in a trade for thirty years where somebody has to go round and see four people quietly. I know what it looks like. I have just never once been one of the four."
 
+---
+
 Neither of them said anything for a while.
 
 "I lost the business four years ago," said Mrs Ha.
@@ -199,13 +235,17 @@ Neither of them said anything for a while.
 
 "Whatever he had on the four of you, he had it because you all had something to lose." Georgij did not look away. "Yours went in a bad year with two halls closing and it had nothing to do with him. And nobody has been back in four years to check whether you were still worth visiting."
 
+---
+
 Mrs Ha laughed, once, and it was not a laugh.
 
 "Thirty years," she said, "and the useful thing about me is that I've got nothing left."
 
+---
+
 She had got to it in one sentence, and she had got to it against herself.
 
-———
+* * *
 
 At the door she asked the question he had been waiting for since the boxes.
 
@@ -217,6 +257,8 @@ At the door she asked the question he had been waiting for since the boxes.
 
 "There is one thing that has kept her alive for eleven years and it is that a small number of people know where she is." He held her eye. "I am about to take that apart, and until it is in pieces, every person who knows anything is a person somebody can reach for. You have been reached for once already and you did not know it was happening."
 
+---
+
 Mrs Ha looked at him for a long moment.
 
 "You're going to tell me you'd rather I telephoned him."
@@ -225,7 +267,7 @@ Mrs Ha looked at him for a long moment.
 
 "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe."
 
-———
+* * *
 
 He got into the car at eleven minutes past twelve and Jang did not start the engine.
 
@@ -237,20 +279,30 @@ He got into the car at eleven minutes past twelve and Jang did not start the eng
 
 "Sixty per cent, and I am telling you the number because it is a guess and I am telling you it is a guess." Georgij put the notebook on his knee and did not open it. "She has had eleven years of thinking she was being decent. A woman does not go straight to the telephone from that."
 
+---
+
 Jang started the car.
 
 "And the man who came to see her."
+
+---
 
 Georgij looked out of the window for about four seconds.
 
 "Sixty-odd," he said. "Pleasant. Knew her trade before he sat down. Told a woman he had never met that it was good to see her again."
 
+---
+
 Jang did not say anything, because he had never been given the name.
+
+---
 
 Georgij sat in a car in Mapo with a notebook shut on his knee, and did not write the sentence down, and had it anyway, in the flattest possible words, in his own voice.
 
-The man who has been helping me since the first of August is the man who went round and saw four people in March eleven years ago.
+---
 
-He does not know that I know.
+*The man who has been helping me since the first of August is the man who went round and saw four people in March eleven years ago.*
 
-And I have got about a day to decide whether he knows that he did it.
+*He does not know that I know.*
+
+*And I have got about a day to decide whether he knows that he did it.*

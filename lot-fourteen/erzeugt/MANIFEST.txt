@@ -100,7 +100,7 @@ b2  ch63  v1.5       2136 Woerter  ch63_v1_5_en.md
 b2  ch64  v1.6       2248 Woerter  ch64_v1_6_en.md
 b2  ch65  v1.5       2130 Woerter  ch65_v1_5_en.md
 b2  ch66  v1.3       2096 Woerter  ch66_v1_3_en.md
-b2  ch67  v1.3       2493 Woerter  ch67_v1_3_en.md
+b2  ch67  v1.4       2554 Woerter  ch67_v1_4_en.md
 b2  ch68  v1.2       2447 Woerter  ch68_v1_2_en.md
 b2  ch69  v1.3       2944 Woerter  ch69_v1_3_en.md
 b2  ch70  v1.0       2275 Woerter  ch70_v1_0_en.md
@@ -118,5 +118,5 @@ b2  ch81  v1.0       2510 Woerter  ch81_v1_0_en.md
 b2  ch82  v1.0       2447 Woerter  ch82_v1_0_en.md
 b2  ch83  v1.0       2434 Woerter  ch83_v1_0_en.md
 
-Gesamt: 2 Baende, 117 Kapitel, 307056 Woerter
+Gesamt: 2 Baende, 117 Kapitel, 307117 Woerter
 Handbuch: 17 Dokumente

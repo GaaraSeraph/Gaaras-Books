@@ -41,7 +41,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Choi Dae-ho | 29 | 18 (b1ch07-b2ch80) | 2 | 61 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
-| Mrs Ha | 24 | 3 (b2ch66-b2ch68) | 37 | 42 |
+| Mrs Ha | 25 | 3 (b2ch66-b2ch68) | 37 | 42 |
 | Ahn Jung-hee | 21 | 12 (b2ch56-b2ch83) | 4 | 53 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
@@ -2403,10 +2403,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 37 | b2ch66:244 | "Jang goes with you to Mapo and sits in the car, and I am not discussing it, and you are.. |
 | 39 | b2ch67:6 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
 | 39 | b2ch67:12 | "If she telephones while you are in there, you will not know." Jang had both hands on th.. |
-| 39 | b2ch67:264 | He got into the car at eleven minutes past twelve and Jang did not start the engine. |
-| 39 | b2ch67:266 | "Well," said Jang. |
-| 39 | b2ch67:276 | Jang started the car. |
-| 39 | b2ch67:288 | Jang did not say anything, because he had never been given the name. |
+| 39 | b2ch67:272 | He got into the car at eleven minutes past twelve and Jang did not start the engine. |
+| 39 | b2ch67:274 | "Well," said Jang. |
+| 39 | b2ch67:284 | Jang started the car. |
+| 39 | b2ch67:296 | Jang did not say anything, because he had never been given the name. |
 | 53 | b2ch74:528 | "None of the five. Not asked, not telephoned, not driven past. Not by you, not by Jang, .. |
 | 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
 | 10 | b2ch79:200 | "Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes t.. |
@@ -2485,7 +2485,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch48:52` (Tag 2) - four, one
 - `b2ch58:98` (Tag 22) - one
 - `b2ch67:6` (Tag 39) - forty, two
-- `b2ch67:264` (Tag 39) - eleven, twelve
+- `b2ch67:272` (Tag 39) - eleven, twelve
 - `b2ch74:528` (Tag 53) - five
 - `b2ch75:394` (Tag 53) - four, twenty-six
 - `b2ch80:6` (Tag 12) - two
@@ -4222,7 +4222,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Ha
 
-24 Nennungen in 3 Kapiteln.
+25 Nennungen in 3 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4235,20 +4235,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:76 | Mrs Ha put both hands flat on her knees. |
 | 39 | b2ch67:96 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
 | 39 | b2ch67:100 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
-| 39 | b2ch67:114 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
-| 39 | b2ch67:122 | "I asked her whether it might be later in the year," said Mrs Ha. |
-| 39 | b2ch67:130 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
-| 39 | b2ch67:136 | "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday." |
-| 39 | b2ch67:150 | Mrs Ha went completely still. |
-| 39 | b2ch67:160 | "Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting." |
-| 39 | b2ch67:166 | Mrs Ha got up again and this time she did not go to the window. |
-| 39 | b2ch67:182 | "He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that .. |
-| 39 | b2ch67:200 | "I understood that a family had had a bad month and would be grateful if it were not dis.. |
-| 39 | b2ch67:212 | "And now a foreigner in a good coat comes up my stairs and asks me one question, and I f.. |
-| 39 | b2ch67:222 | "I lost the business four years ago," said Mrs Ha. |
-| 39 | b2ch67:232 | Mrs Ha laughed, once, and it was not a laugh. |
-| 39 | b2ch67:254 | Mrs Ha looked at him for a long moment. |
-| 39 | b2ch67:260 | "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe." |
+| 39 | b2ch67:118 | "Then she's getting her money's worth." Mrs Ha sat back. "She was the calmest person in .. |
+| 39 | b2ch67:122 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
+| 39 | b2ch67:130 | "I asked her whether it might be later in the year," said Mrs Ha. |
+| 39 | b2ch67:138 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
+| 39 | b2ch67:144 | "I did," said Mrs Ha. "Eleven tables' worth. I put them in the van myself on the Tuesday." |
+| 39 | b2ch67:158 | Mrs Ha went completely still. |
+| 39 | b2ch67:168 | "Which is a lie," said Mrs Ha. "She was at the fitting. I did the fitting." |
+| 39 | b2ch67:174 | Mrs Ha got up again and this time she did not go to the window. |
+| 39 | b2ch67:190 | "He knew what I did. Not vaguely, properly. He knew about the two halls in Jung-gu that .. |
+| 39 | b2ch67:208 | "I understood that a family had had a bad month and would be grateful if it were not dis.. |
+| 39 | b2ch67:220 | "And now a foreigner in a good coat comes up my stairs and asks me one question, and I f.. |
+| 39 | b2ch67:230 | "I lost the business four years ago," said Mrs Ha. |
+| 39 | b2ch67:240 | Mrs Ha laughed, once, and it was not a laugh. |
+| 39 | b2ch67:262 | Mrs Ha looked at him for a long moment. |
+| 39 | b2ch67:268 | "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe." |
 | 42 | b2ch68:40 | Mrs Ha, four hundred and eleven weddings, thirty years, and the boxes to the ceiling wit.. |
 
 ### Zahlen in der Naehe von Mrs Ha
@@ -4257,12 +4258,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch66:138` (Tag 37) - eleven
 - `b2ch66:252` (Tag 37) - eleven, one
 - `b2ch67:100` (Tag 39) - four hundred and eleven, thirty
-- `b2ch67:114` (Tag 39) - four, hundred, one
-- `b2ch67:130` (Tag 39) - one
-- `b2ch67:136` (Tag 39) - eleven
-- `b2ch67:182` (Tag 39) - two
-- `b2ch67:212` (Tag 39) - four, one
-- `b2ch67:222` (Tag 39) - four
+- `b2ch67:122` (Tag 39) - four, hundred, one
+- `b2ch67:138` (Tag 39) - one
+- `b2ch67:144` (Tag 39) - eleven
+- `b2ch67:190` (Tag 39) - two
+- `b2ch67:220` (Tag 39) - four, one
+- `b2ch67:230` (Tag 39) - four
 - `b2ch68:40` (Tag 42) - four hundred and eleven, thirty
 
 ---

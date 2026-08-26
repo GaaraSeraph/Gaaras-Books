@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 83 Kapitel, 205.839 Woerter.
+Book Two, 83 Kapitel, 205.900 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -77,7 +77,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 64 | v1.6 | 2.248 |
 | 65 | v1.5 | 2.130 |
 | 66 | v1.3 | 2.096 |
-| 67 | v1.3 | 2.493 |
+| 67 | v1.4 | 2.554 |
 | 68 | v1.2 | 2.447 |
 | 69 | v1.3 | 2.944 |
 | 70 | v1.0 | 2.275 |
@@ -14292,7 +14292,7 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 ---
 
 # Book Two · Chapter 67: Four hundred and one
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14390,7 +14390,11 @@ Georgij did not move at all.
 
 "It is."
 
-"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She sat back. "She was the calmest person in this room, and I include myself, and I was not upset about anything."
+"You said one and then you asked four, and I'm going to let you, because it's the first interesting afternoon I've had since February." She did not sit back. "You also said you'd answer anything I asked. I'll have mine now and not at the door. Who pays you?"
+
+"A woman in Seoul," said Georgij. "I am not going to give you her name, and that is the only thing I am keeping from you today."
+
+"Then she's getting her money's worth." Mrs Ha sat back. "She was the calmest person in this room, and I include myself, and I was not upset about anything."
 
 "Say what you mean by calm."
 
