@@ -1939,3 +1939,60 @@ Probe wird erst scharf, wenn sie ein zweites Mal auftritt - und genau dafuer
 steht sie jetzt schon da.
 
 *Unsicher:* keiner.
+
+## Mrs Ha: der Skyrim-Test, und warum meine erste Messung ein Artefakt war
+
+**Der Autor: *"Aktuell ist die eine Fragenbeantwortungsmaschine, die nach einer
+KI klingt aus 2016"*, spaeter praeziser: *"sie klingt wie ein NPC aus Skyrim.
+Sie soll klingen wie ein NPC aus Baldur's Gate 3."***
+
+**ALTE ERGEBNISSE** (auf dem Index, 16 Repliken):
+
+| | Mrs Ha | Hong | Woo | Sang-hoon | Sim |
+|---|---|---|---|---|---|
+| spricht den Anwesenden an | **12 %** | 57 % | 40 % | 38 % | 32 % |
+| steht in der Gegenwart | **25 %** | 43 % | 51 % | 65 % | 51 % |
+
+**Das war falsch, und zwar systematisch.** `stimmen.py` kennt 16 ihrer
+Repliken; **die Szene hat 39**. Die 16 sind die mit Begleitsatz - und **eine
+Replik mit Begleitsatz ist ueberdurchschnittlich oft eine schlichte Antwort**,
+weil die lebendigen Zeilen im blossen Wechsel ohne Tag laufen.
+
+**NEUE ERGEBNISSE** (ueber die ganze Szene, 39 Repliken): Anrede **41 %**,
+Gegenwart **44 %**, Urteil 31 %, Raum 28 %. Mittelfeld, nicht Schlusslicht.
+**Wer eine Zweipersonenszene ueber den Index misst, misst systematisch das
+flachste Drittel der Figur.**
+
+### Was dann wirklich fehlt
+
+Auch nach Drittelung der Szene liess sich nichts finden - die Mitte ist so gut
+wie der Anfang (*"You said one and then you asked four, and I'm going to let
+you, because it's the first interesting afternoon I've had since February"*).
+**Der Befund kam erst mit dem Bild des Autors.**
+
+**In 39 Repliken stellt sie genau eine Frage, und die geht ueber sie selbst**
+(*"Do you know how many I've done."*). Sie fragt ihn **kein einziges Mal**, wer
+er ist, warum ihn das angeht, was er damit vorhat oder was jetzt mit der Frau
+geschieht.
+
+**Und das Kapitel legt ihr die Gelegenheit ausdruecklich hin.** Georgijs erster
+Satz im Zimmer: *"…and **then I am going to answer any question you ask me**, and
+then I am going to go."* **Sie nimmt das Angebot nie an.**
+
+**Das ist der Unterschied in einer Zeile:** der Dialogbaum bietet den
+Rueckkanal an, und der NPC benutzt ihn nicht. Sie urteilt ueber ihn, sie
+verlangt von ihm, sie wechselt die Position - **sie befragt ihn nur nicht.**
+
+### Was daraus im Werkzeug steht
+
+Ihre Anwesenheitsprobe hat jetzt **befragt ihn zurueck** als scharfe Zeile, und
+`anwesenheit.py` meldet sie mit **0 Treffern**. Dazu die Warnung zur
+Index-Verzerrung, die fuer jede Zweipersonenszene gilt.
+
+**Ein eigener Fehler dabei:** meine Einfuegung ist zuerst in **Sims** Abschnitt
+gelandet und hat dessen Probe ueberschrieben - mein Suchkriterium hat die
+naechste Ueberschrift genommen statt der in ihrem Abschnitt. Mit
+`git checkout` zurueckgesetzt und sauber wiederholt. **Eine Einfuegung, die
+eine Ueberschrift sucht, muss die Grenzen des Abschnitts kennen.**
+
+*Unsicher:* keiner.
