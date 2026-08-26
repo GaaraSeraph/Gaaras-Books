@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.555 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 321.433 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -311,6 +311,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Drei Stellen, an denen das Heft jetzt arbeitet](#drei-stellen-an-denen-das-heft-jetzt-arbeitet)
   - [Die Regel, damit es nicht wieder wächst](#die-regel-damit-es-nicht-wieder-w-chst)
   - [Was offen bleibt, und es ist ehrlich viel](#was-offen-bleibt-und-es-ist-ehrlich-viel)
+  - [1. Fünf Kapitel liegen über der Spanne, und eines davon deutlich](#1-f-nf-kapitel-liegen-ber-der-spanne-und-eines-davon-deutlich)
+  - [2. Elf Kapitel tragen keins der vier Merkmale](#2-elf-kapitel-tragen-keins-der-vier-merkmale)
+  - [3. Zwei Muster, die messbar übrig sind](#3-zwei-muster-die-messbar-brig-sind)
+  - [4. Was ich ausdrücklich nicht kürzen würde](#4-was-ich-ausdr-cklich-nicht-k-rzen-w-rde)
+  - [Reihenfolge, wenn jemand weitermacht](#reihenfolge-wenn-jemand-weitermacht)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
@@ -12265,17 +12270,41 @@ mechanisch prüfbare Merkmal, das die Leseprobe vorwegnimmt.
 
 **Kapitel geändert: keines. Blätter geändert: keines.**
 
-## Offen seit dem 26.08.: Annies zweites Los
+## Annies zweites Los ist Los elf, und es gehoert in Band 3
 
-In B2 90 steht, dass Annie **zwei Lose** in dem Haus am Fluss gekauft und
-Byun zweimal fuer das Streichen zweier Zeilen bezahlt hat. **Das erste ist
-Georgij.** Das zweite wird an keiner Stelle des Buches genannt.
+In B2 90 steht, dass Annie **zwei Lose** in dem Haus am Fluss gekauft und Byun
+zweimal fuer das Streichen zweier Zeilen bezahlt hat. Das erste ist Georgij,
+Los vierzehn, am 4. Oktober.
 
-Das ist mit Absicht so stehen geblieben und nicht vergessen worden. Wer es
-spaeter einloest, hat einen Faden, der bis in Band 1 Kapitel 1 zurueckreicht;
-wer es nicht einloest, hat einen Satz, der eine Frau groesser macht, als der
-Leser sie kannte. **Beides ist zulaessig, ein drittes nicht: es darf nicht
-beilaeufig widerrufen werden.**
+**Das zweite ist Los elf, und der Autor hat am 27.08. bestaetigt, dass es in
+Band 3 eingeloest wird.**
+
+**Der Text von Band 1, Kapitel 1 legt es vollstaendig aus**, und zwar bevor
+irgendjemand wusste, wozu:
+
+> *Lot eleven was a boy. The file said sixteen. He was fourteen at the outside,
+> and files rounded upward when it suited the seller. He went for eighty
+> million won to a man in the second row.*
+
+Und nachdem Georgij den Mann in der zweiten Reihe mit einem wahren Satz
+erledigt hat:
+
+> *He would not be collecting anything tonight. By Friday he would be
+> explaining himself to people who did not accept explanations, and lot eleven
+> would go back into next month's catalogue, which was not a good outcome.*
+> **It was a better one.**
+
+**Damit ist der Faden schon geknuepft und braucht in Band 2 nichts mehr.** Der
+Junge geht zurueck in den Katalog des Folgemonats, und Annie kauft im November
+ein zweites Mal. Georgijs einzige Gnade an diesem Abend hat ihn in eine zweite
+Versteigerung gebracht, und die Frau, die ihn dort gekauft hat, ist dieselbe,
+die vier Stunden vorher Georgij gekauft hat.
+
+**Was Band 2 dazu tun muss: nichts.** Was es nicht tun darf: den Satz aus K90
+beilaeufig widerrufen oder das zweite Los im Vorbeigehen erklaeren. **Er steht
+da, damit er in Band 3 aufgemacht werden kann**, und die einzige Stelle, an der
+er im Buch auftaucht, ist eine Nebenbemerkung ueber eine Zahlung an einen
+Registerfuehrer.
 
 ---
 
@@ -21667,6 +21696,92 @@ Auftrag.**
 
 Die Kandidaten mit der größten Ablage und ohne jede Entnahme, aus `heft.py`:
 **K66 (fünf), K81 (acht, jetzt behoben), K46, K53, K69.**
+
+---
+
+## Was jetzt noch zu kürzen ist, gemessen am 27.08.
+
+**Stand:** 116 Kapitel, 320 091 Wörter. Band 1 hat 34 und 101 196, Band 2 hat
+82 und 218 895.
+
+### 1. Fünf Kapitel liegen über der Spanne, und eines davon deutlich
+
+| Kapitel | Wörter | über 4300 um |
+|---|---|---|
+| **B2 43** *Somebody in Seoul pays for it* | 5174 | **+874** |
+| **B2 67** *What he was for* | 4993 | **+693** |
+| B2 29 *A person with nothing* | 4550 | +250 |
+| B2 58 *Buy her* | 4472 | +172 |
+| B1 05 *The east side* | 4327 | +27 |
+
+Die ersten vier sind Zusammenlegungen vom 26.08. **Das ist der einzige Posten
+auf dieser Liste, der mechanisch entscheidbar ist**, und er ist der erste, der
+gemacht werden sollte. Bei 43 nennt der Abschnitt weiter oben selbst rund 1800
+Wörter; gefallen sind bisher achtzig.
+
+Drei Kapitel liegen unter 2000, und alle drei nur knapp: B2 47 mit 1889, B2 22
+mit 1985, B1 29 mit 1992. **Das ist kein Problem und wird keins.**
+
+### 2. Elf Kapitel tragen keins der vier Merkmale
+
+`kuerzen.py`, Stand nach den Zusammenlegungen: **11 von 116, zusammen 28 037
+Wörter.** Vorher waren es 17 von 124.
+
+| | Wörter | |
+|---|---|---|
+| B1 02 *Quid pro Quo* | 3160 | |
+| B1 04 *Count again* | 2438 | |
+| B1 17 *I have never put it down* | 2726 | |
+| B1 18 *On account* | 2954 | |
+| **B1 27** *Not out of your account* | 3122 | **siehe unten** |
+| B1 29 *The ones who came at seven* | 1989 | |
+| B2 12 *Sixteen days* | 2900 | |
+| B2 13 *What it costs him* | 2170 | |
+| B2 46 *The post still comes* | 2548 | |
+| B2 47 *Twelve white stems* | 1886 | |
+| B2 51 *The sixth one* | 2109 | oben schon als STRAFFEN vermerkt |
+
+**Und B1 27 ist der Beweis, dass diese Liste eine Leseliste ist und keine
+Streichliste.** Es ist das Kapitel, in dem Georgij Hana und Woo zusammenbringt,
+in dem steht, dass die Ostseite Hana gehört, und in dem der Satz fällt, an dem
+sich am 26.08. der ganze Ostseiten-Strang aufgehängt hat: *"I am not going to
+sell the same ground twice, and I am certainly not going to sell yours."*
+**Es trägt null von vier Merkmalen und ist unverzichtbar.** Wer die zehn
+anderen streicht, ohne sie zu lesen, streicht vermutlich noch drei davon.
+
+### 3. Zwei Muster, die messbar übrig sind
+
+**Die kursive Selbstnotiz am Kapitelende: 23 von 116, also zwanzig Prozent.**
+Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen K38 und K56
+enden elf von neunzehn Kapiteln so. Das ist der Rest des Befunds, den der
+Inhaltsprüfer *"das Nähern wird als Buchführung erzählt"* genannt hat. **Die
+Zahl ist seit der Heft-Arbeit besser als sie war und immer noch die häufigste
+Schlussform des Bandes.**
+
+**Vierundfünfzig Prozent der Kapitel enden bei Annie**, gemessen daran, ob die
+letzten zwölfhundert Zeichen ihren Namen oder *Mistress* enthalten. Bei 63 von
+116. Das ist die dritte der drei Eingriffe von oben, *Abendbericht wird
+Halbsatz*, und sie ist am wenigsten ausgeführt.
+
+### 4. Was ich ausdrücklich nicht kürzen würde
+
+**Die sechs verbliebenen Nester** aus `doppelt.py`. Alle sechs sind geprüfte
+Motive, und die Liste steht oben mit Begründung.
+
+**Die einundzwanzig wörtlichen Paare** bei Überlappung 0.95. Sie sind
+durchgesehen; was übrig ist, sagt selbst, dass es ein Rückruf ist.
+
+**Die 28 037 Wörter aus Punkt 2 als Block.** Siehe B1 27.
+
+### Reihenfolge, wenn jemand weitermacht
+
+1. **B2 43 und B2 67** auf die Spanne bringen. Zusammen rund 1600 Wörter, und
+   beide haben in ihrer zweiten Hälfte Material, das die erste schon hatte.
+2. **B2 29 und B2 58**, zusammen rund 400 Wörter.
+3. **Die elf lesen**, nicht streichen, und die Bewertung je Kapitel in die
+   Tabellen oben eintragen.
+4. **Der Abendbericht.** Drei bis fünf davon können ein Halbsatz am Anfang des
+   nächsten Kapitels sein.
 
 ---
 

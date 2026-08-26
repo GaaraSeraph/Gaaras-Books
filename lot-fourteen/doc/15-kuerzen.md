@@ -1100,3 +1100,89 @@ Auftrag.**
 Die Kandidaten mit der größten Ablage und ohne jede Entnahme, aus `heft.py`:
 **K66 (fünf), K81 (acht, jetzt behoben), K46, K53, K69.**
 
+---
+
+## Was jetzt noch zu kürzen ist, gemessen am 27.08.
+
+**Stand:** 116 Kapitel, 320 091 Wörter. Band 1 hat 34 und 101 196, Band 2 hat
+82 und 218 895.
+
+### 1. Fünf Kapitel liegen über der Spanne, und eines davon deutlich
+
+| Kapitel | Wörter | über 4300 um |
+|---|---|---|
+| **B2 43** *Somebody in Seoul pays for it* | 5174 | **+874** |
+| **B2 67** *What he was for* | 4993 | **+693** |
+| B2 29 *A person with nothing* | 4550 | +250 |
+| B2 58 *Buy her* | 4472 | +172 |
+| B1 05 *The east side* | 4327 | +27 |
+
+Die ersten vier sind Zusammenlegungen vom 26.08. **Das ist der einzige Posten
+auf dieser Liste, der mechanisch entscheidbar ist**, und er ist der erste, der
+gemacht werden sollte. Bei 43 nennt der Abschnitt weiter oben selbst rund 1800
+Wörter; gefallen sind bisher achtzig.
+
+Drei Kapitel liegen unter 2000, und alle drei nur knapp: B2 47 mit 1889, B2 22
+mit 1985, B1 29 mit 1992. **Das ist kein Problem und wird keins.**
+
+### 2. Elf Kapitel tragen keins der vier Merkmale
+
+`kuerzen.py`, Stand nach den Zusammenlegungen: **11 von 116, zusammen 28 037
+Wörter.** Vorher waren es 17 von 124.
+
+| | Wörter | |
+|---|---|---|
+| B1 02 *Quid pro Quo* | 3160 | |
+| B1 04 *Count again* | 2438 | |
+| B1 17 *I have never put it down* | 2726 | |
+| B1 18 *On account* | 2954 | |
+| **B1 27** *Not out of your account* | 3122 | **siehe unten** |
+| B1 29 *The ones who came at seven* | 1989 | |
+| B2 12 *Sixteen days* | 2900 | |
+| B2 13 *What it costs him* | 2170 | |
+| B2 46 *The post still comes* | 2548 | |
+| B2 47 *Twelve white stems* | 1886 | |
+| B2 51 *The sixth one* | 2109 | oben schon als STRAFFEN vermerkt |
+
+**Und B1 27 ist der Beweis, dass diese Liste eine Leseliste ist und keine
+Streichliste.** Es ist das Kapitel, in dem Georgij Hana und Woo zusammenbringt,
+in dem steht, dass die Ostseite Hana gehört, und in dem der Satz fällt, an dem
+sich am 26.08. der ganze Ostseiten-Strang aufgehängt hat: *"I am not going to
+sell the same ground twice, and I am certainly not going to sell yours."*
+**Es trägt null von vier Merkmalen und ist unverzichtbar.** Wer die zehn
+anderen streicht, ohne sie zu lesen, streicht vermutlich noch drei davon.
+
+### 3. Zwei Muster, die messbar übrig sind
+
+**Die kursive Selbstnotiz am Kapitelende: 23 von 116, also zwanzig Prozent.**
+Alle dreiundzwanzig stehen in Band 2, und sie ballen sich: zwischen K38 und K56
+enden elf von neunzehn Kapiteln so. Das ist der Rest des Befunds, den der
+Inhaltsprüfer *"das Nähern wird als Buchführung erzählt"* genannt hat. **Die
+Zahl ist seit der Heft-Arbeit besser als sie war und immer noch die häufigste
+Schlussform des Bandes.**
+
+**Vierundfünfzig Prozent der Kapitel enden bei Annie**, gemessen daran, ob die
+letzten zwölfhundert Zeichen ihren Namen oder *Mistress* enthalten. Bei 63 von
+116. Das ist die dritte der drei Eingriffe von oben, *Abendbericht wird
+Halbsatz*, und sie ist am wenigsten ausgeführt.
+
+### 4. Was ich ausdrücklich nicht kürzen würde
+
+**Die sechs verbliebenen Nester** aus `doppelt.py`. Alle sechs sind geprüfte
+Motive, und die Liste steht oben mit Begründung.
+
+**Die einundzwanzig wörtlichen Paare** bei Überlappung 0.95. Sie sind
+durchgesehen; was übrig ist, sagt selbst, dass es ein Rückruf ist.
+
+**Die 28 037 Wörter aus Punkt 2 als Block.** Siehe B1 27.
+
+### Reihenfolge, wenn jemand weitermacht
+
+1. **B2 43 und B2 67** auf die Spanne bringen. Zusammen rund 1600 Wörter, und
+   beide haben in ihrer zweiten Hälfte Material, das die erste schon hatte.
+2. **B2 29 und B2 58**, zusammen rund 400 Wörter.
+3. **Die elf lesen**, nicht streichen, und die Bewertung je Kapitel in die
+   Tabellen oben eintragen.
+4. **Der Abendbericht.** Drei bis fünf davon können ein Halbsatz am Anfang des
+   nächsten Kapitels sein.
+
