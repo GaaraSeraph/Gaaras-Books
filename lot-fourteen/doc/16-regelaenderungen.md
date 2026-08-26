@@ -137,7 +137,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 7 | **Veralterung** - zitiert das Blatt die Kapitel, in denen sie spricht? | Sims Blatt endete bei K41, 64 von 65 Repliken stehen danach |
 | 8 | **Index-Verzerrung** - getaggte gegen tatsächliche Repliken | Mrs Ha 16 statt 39, Chae 7 statt 17, Woo 87 statt rund 172 |
 
-**Vier nur durch Lesen:**
+**Fünf nur durch Lesen** (die fünfte kam am 26.08. dazu, siehe C9):
 
 | # | Test | Fund |
 |---|---|---|
@@ -145,6 +145,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
 | 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
 | 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
+| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/K79 gefunden, **von keiner der zwölf Prüfungen** |
 
 **Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
 (13) und `faktenspur.py` plus `check.py` vor jedem Push (14).
@@ -199,6 +200,82 @@ Mechanik macht eine Figur bedienbar, nicht bewohnt.**
 | C8 | **Die Frage, ob eine Figur einen eigenen Charakter hat, ist nicht zählbar.** | Der Anteil der Repliken, die die Fall-Streichung überleben, sagt das Gegenteil: Sim behält 71 Prozent, Woo 52 - und Woo ist der mit dem Charakter |
 
 ---
+
+## C9. Die Batterie ist blind für die Welt - und `faktenspur.py` hat mir das verdeckt
+
+**Am 26.08. hat ein Prüfgespräch über Grundstückspreise in Incheon einen Fehler
+gefunden, den keine meiner zwölf Prüfungen finden kann und nie hätte finden
+können.** Das gehört hierher, weil es die Batterie an ihrer Wurzel betrifft.
+
+### Der unangenehmste Teil zuerst
+
+**`faktenspur.py` meldet *"0 Kapitel haben eine Zahl, ein Datum oder einen Namen
+bewegt"*. Ich habe diesen Satz in dieser Sitzung etwa fünfzehnmal als Beleg
+dafür geschrieben, dass ein Eingriff sauber war.**
+
+**Er heisst das nicht.** Er heisst: *die Zahlen haben sich nicht geändert.* Eine
+falsche Zahl, die niemand anfasst, besteht ihn für immer. **Es ist dieselbe
+Fehlerart wie meine drei Messfehler an den Figuren** - das Werkzeug misst das
+Messbare, und ich lese es, als messe es die Sache.
+
+**Ab jetzt gilt:** *"faktenspur: null bewegte Zahlen"* darf nur noch als das
+zitiert werden, was es ist - **eine Aussage über meinen Eingriff, keine über den
+Text.**
+
+### Was die zwölf Prüfungen alle gemeinsam haben
+
+**Sie fragen ausnahmslos, *wie* jemand spricht.** Anleihen, Tics, Fragenquote,
+Anwesenheit, Rückkanal, Zustand - alles Stimme. **Keine fragt, ob das Gesagte in
+der Welt möglich ist.** Eine Figur kann vollkommen in ihrer Stimme stehen und
+dabei etwas sagen, das nicht sein kann. Genau das ist passiert.
+
+`check.py` prüft Form. `belege.py` prüft, ob ein Zitat existiert. `zusagen.py`
+prüft Fristen. `zuschreibung.py` prüft, wer etwas getan hat. **Nichts im ganzen
+Werkzeugkasten prüft eine Grössenordnung.**
+
+### Und der eigentliche Fund war kein Zahlenfehler
+
+Die Rechnung war nur der Einstieg. Was sie freigelegt hat, ist eine Kette von
+**Handlungslücken**:
+
+- Warum kauft er die Fläche nicht, wenn sie ihm mehr wert ist als jedem anderen?
+- Warum beleiht sie ein erstklassig besichertes Grundstück nicht, statt es unter
+  Wert abzugeben?
+- Warum gibt Woo ihr das Geld nicht, wenn er weiss, dass es gegen Choi geht?
+
+**Das sind keine Wirtschaftsfragen, das sind Figurenfragen.** Jede davon
+beschreibt eine kompetente Figur, die das Naheliegende nicht tut, ohne dass der
+Text sagt, warum. **Ein Plot, der darauf beruht, dass der Leser nicht
+nachrechnet, ist kein Plot.**
+
+### Daraus folgen zwei neue Regeln
+
+**Leseprobe 13 - und sie gehört in die Batterie:**
+
+> **Warum tut die Figur nicht das Naheliegende?** Wo jemand mit Mitteln,
+> Wissen oder Macht die offensichtliche Handlung unterlässt, **muss der Text den
+> Grund nennen**. Nicht andeuten - nennen. Fehlt er, ist es keine Zurückhaltung
+> der Figur, sondern eine Lücke im Bau.
+
+**Und die Sperre dazu:**
+
+> **Jede Zahl, die eine Menge, einen Preis oder eine Fläche behauptet, wird
+> einmal gegen die Welt gehalten und nicht nur gegen den Text.** Innere
+> Konsistenz ist kein Beleg: eine Zahl, die in allen zwölf Kapiteln dieselbe
+> ist, ist zwölfmal dieselbe Zahl und nicht einmal die richtige.
+
+### Was gebraucht wird und nicht mir gehört
+
+**`doc/04-world.md` hat Flächen und einzelne Beträge, aber keinen
+Grössenordnungsrahmen.** Ohne ihn wird jede Zahl je Szene neu erfunden und
+driftet, und niemand merkt es, weil alle Prüfungen nur *Veränderung* messen.
+
+**Vorschlag an den Inhalts-Chat:** eine Tabelle in `doc/04` mit den Grössen, an
+denen sich alles misst - was ein Quadratmeter Hafenfläche in Incheon kostet, in
+welchen Grössenordnungen die Sechs rechnen, was für Annie viel Geld ist und was
+Kleingeld. **Vier Zeilen würden reichen, und sie hätten diesen Fehler
+verhindert.**
+
 
 ## D. Verworfene Regel
 

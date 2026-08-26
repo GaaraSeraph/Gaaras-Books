@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 298.661 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 303.738 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -131,6 +131,15 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was NICHT vorher entschieden ist](#was-nicht-vorher-entschieden-ist)
   - [Faelliges mit Datum](#faelliges-mit-datum)
   - [Bekannte Baustellen - angelegt nach Kapitel 17, seither weitergepflegt](#bekannte-baustellen-angelegt-nach-kapitel-17-seither-weitergepflegt)
+  - [Der Beleg, den `doc/16` anführt, ist die Überschrift eines Abschnitts, dessen eigener Text sie einschränkt](#der-beleg-den-doc-16-anf-hrt-ist-die-berschrift-eines-abschnitts-dessen-eigener-text-sie-einschr-nkt)
+  - [`CLAUDE.md` verbietet das Verfahren wörtlich](#claude-md-verbietet-das-verfahren-w-rtlich)
+  - [Was aus den Beispielen geworden ist, die `CLAUDE.md` als Hausregister druckt](#was-aus-den-beispielen-geworden-ist-die-claude-md-als-hausregister-druckt)
+  - [Die Quote, gemessen auf `check.py`s eigener Klasse](#die-quote-gemessen-auf-check-py-s-eigener-klasse)
+  - [Dreiundzwanzig Einzelurteile vom 24.08. sind gedreht](#dreiundzwanzig-einzelurteile-vom-24-08-sind-gedreht)
+  - [Die neun, die stehen blieben, blieben wegen einer Wortliste](#die-neun-die-stehen-blieben-blieben-wegen-einer-wortliste)
+  - [Und der Ausdruck verlangt, dass die ganze Zeile die Replik ist](#und-der-ausdruck-verlangt-dass-die-ganze-zeile-die-replik-ist)
+  - [Und `faktenspur.py` kann diese Änderung nicht sehen](#und-faktenspur-py-kann-diese-nderung-nicht-sehen)
+  - [Fertiger Ersatztext](#fertiger-ersatztext)
 - [Entscheidungen und Verworfenes](#entscheidungen-und-verworfenes)  ·  `doc/08-decisions.md`
   - [Was aus Kapitel 2 gestrichen wurde und nicht zurückkommt](#was-aus-kapitel-2-gestrichen-wurde-und-nicht-zur-ckkommt)
   - [Im Keller gilt kein Handyverbot](#im-keller-gilt-kein-handyverbot)
@@ -284,6 +293,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was ich vorgeschlagen hatte](#was-ich-vorgeschlagen-hatte)
   - [Was der Autor daran geändert hat](#was-der-autor-daran-ge-ndert-hat)
   - [Und die Probe darüber, die keine Nummer hat](#und-die-probe-dar-ber-die-keine-nummer-hat)
+  - [Der unangenehmste Teil zuerst](#der-unangenehmste-teil-zuerst)
+  - [Was die zwölf Prüfungen alle gemeinsam haben](#was-die-zw-lf-pr-fungen-alle-gemeinsam-haben)
+  - [Und der eigentliche Fund war kein Zahlenfehler](#und-der-eigentliche-fund-war-kein-zahlenfehler)
+  - [Daraus folgen zwei neue Regeln](#daraus-folgen-zwei-neue-regeln)
+  - [Was gebraucht wird und nicht mir gehört](#was-gebraucht-wird-und-nicht-mir-geh-rt)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -11033,6 +11047,516 @@ Fassungen**.
 
 ---
 
+# Prüfung der Regeländerungen vom 26.08. (`doc/16`), zweiter Durchgang
+
+Geprüft wurde der **Beleg**, nicht die Begründung: jedes Zitat aus `doc/16` im
+Kanon nachgeschlagen, jede Zahl neu gemessen, jede geänderte Textstelle aus dem
+Commit rekonstruiert. Kein Kapitel angefasst. Der Prüfumfang steht am Schluss.
+
+---
+
+## B1 - Fragezeichen, 150 gesetzt: **HÄLT NICHT**
+
+Das ist der schwerste Fund, und er ist nicht, dass einzelne Zeichen falsch
+sitzen. Der Durchgang hat **die Entscheidung vom 24.08. ausgeführt, die an
+demselben Tag ausdrücklich verworfen worden war**, und zwar auf die Ziffer
+genau.
+
+**`doc/09-arbeitsteilung.md` Z127, geschrieben am 24.08.:**
+
+> *"Gegen die Grammatik entschieden, und das ausdrücklich: **Frage ist Frage,
+> Zeichen dahinter** hätte **159 Stellen** umgedreht, davon **116 im fertigen
+> Band 2**, und den Abschnitt *Punkt oder Fragezeichen* aus `CLAUDE.md`
+> entfernt."*
+
+**Rekonstruiert aus Commit `c3c9184` (26.08., 08:20):** 154 Zeichenwechsel,
+**116 in Band 2** und 38 in Band 1. Sonst wurde nichts angefasst - die übrigen
+72 Diff-Zeilen sind Versionskopfzeilen.
+
+### Der Beleg, den `doc/16` anführt, ist die Überschrift eines Abschnitts, dessen eigener Text sie einschränkt
+
+`doc/16` zitiert als unveränderte Regel `doc/01-craft.md` Z577:
+
+> *"Steht er in Fragesyntax oder ist er eine verkürzte Frage, kommt ein
+> Fragezeichen hin, egal wie kalt er ist."*
+
+**Vier Zeilen darunter, in `doc/01` Z581, steht die Einschränkung, und sie
+verweist auf `CLAUDE.md` als volle Fassung:**
+
+> *"Umgestelltes Hilfsverb, **aber nur wo um etwas gebeten wird** … Hier stand
+> bis zum 23.08. das umgestellte Hilfsverb allein als Kriterium, **und das war
+> falsch und widersprach dem Kanon**: *"Was I useful."*, *"Was it worth it."*
+> und *"How long did it take."* sind alle umgestellt und haben alle einen
+> Punkt. Entscheidend ist nicht der Satzbau, sondern ob der andere nein sagen
+> darf. **Die volle Fassung der Regel steht in `CLAUDE.md`.**"*
+
+Die Zeile Z577 steht seit dem Import vom 22.08. dort (`git log -S`) - sie ist
+nicht die Regel vom 24.08., sondern die Fassung, die am 23./24.08. korrigiert
+wurde.
+
+### `CLAUDE.md` verbietet das Verfahren wörtlich
+
+> *"**`check.py` entscheidet das nicht und darf es nicht.** Es meldet
+> Verdachtsfälle als Hinweis, weil die Machtlage nicht mechanisch lesbar ist.
+> **Ein Hinweis auf *"What do you want."* ist deshalb kein Fund**, sondern die
+> Prüfung, die ihre Arbeit tut."*
+
+`doc/14-stilprotokoll.md` beschreibt das Verfahren so: *"Gearbeitet wurde auf
+`check.py`s eigener Liste."* Das ist genau die Liste, die `CLAUDE.md` als
+Nicht-Fundliste bezeichnet.
+
+### Was aus den Beispielen geworden ist, die `CLAUDE.md` als Hausregister druckt
+
+`CLAUDE.md` führt sie als *"Der Punkt gehört dem, der nicht bittet"*:
+
+| Beispiel aus `CLAUDE.md` | mit Punkt im Kanon | mit Zeichen |
+|---|---|---|
+| *"What do you want."* | **0** | 2 |
+| *"How much."* | 1 | 3 |
+| *"Why not."* | 1 | **12** |
+| *"Why did you not."* | **0** | 2 |
+| *"How long did it take."* | **0** | 1 |
+| *"Was it worth it."* | 1 | 0 |
+
+**Fünf der sechs gedruckten Beispiele stehen so nicht mehr im Buch.**
+
+### Die Quote, gemessen auf `check.py`s eigener Klasse
+
+Repliken, die ganz aus einer Frageform bestehen:
+
+| Stand | Band 1 | Band 2 |
+|---|---|---|
+| vor dem 24.08. | 86,1 % Marken (n=115) | 19,2 % (n=99) |
+| nach dem 24.08. *(„die Forderung bekommt den Punkt")* | 62,6 % | 19,2 % |
+| vor dem 26.08. | 62,6 % | 24,7 % (n=150) |
+| **jetzt** | **95,7 %** | **98,7 % (2 von 151)** |
+
+`doc/09` hatte den Abstand ausdrücklich als gewollt festgehalten: *"Der Abstand
+zu Band 2 bleibt gross - 72 gegen 24 - **und das ist richtig so**: in Band 1 ist
+Georgij neu und fragt fast pausenlos nach oben, in Band 2 hat er Stand und wird
+gefragt."* **Der Abstand ist weg: 95,7 gegen 98,7.**
+
+### Dreiundzwanzig Einzelurteile vom 24.08. sind gedreht
+
+Commit `80a632f` (24.08., 18:03, *„Band 1: die Forderung bekommt den Punkt"*)
+setzte 32 Punkte, jeden einzeln gegen die Machtlage geprüft. **Dreiundzwanzig
+davon sind am 26.08. wieder Zeichen.** Beispiel, und es ist keine Randstelle:
+
+> b2 K12 Z144. `doc/09` Punkt 8 hatte diese Zeile am 24.08. **als Hausform
+> hergestellt**: *"aus *"What do I get," she said.* wird *"What do I get.""*
+> Der Text: *Annie went back round the desk, which took her about four seconds,
+> and he understood that she was buying them.* / **"What do I get?"** / *"The
+> lane."*
+> Annie hinter ihrem eigenen Schreibtisch, beim Kaufen. `CLAUDE.md`: *"Wer in
+> dem Raum die Macht hat, fordert und bekommt den Punkt: **Annie**, Sang-hoon,
+> Ye-rin."*
+
+### Die neun, die stehen blieben, blieben wegen einer Wortliste
+
+`check.py` Z141: `QWORD = (?:Why|What|Who|When|Where|How|May I|Do you|Does|Can|
+Is|Are|Did|Would you|Then why|Have you|Will you)`. Es fehlen **Which**, **Was**,
+**Could**. Genau deshalb überlebten *"Which is sixteen."*, *"Which three."*,
+*"Was that instructed."* und *"Could you have written it if it had not been
+true."* Nicht das Urteil hat sie gerettet, sondern die Liste.
+
+### Und der Ausdruck verlangt, dass die ganze Zeile die Replik ist
+
+Damit blieben **58 fragegeformte Forderungen mit Komma-Mittel** unberührt, weil
+ein Begleitsatz danebensteht. Das Buch trägt jetzt beide Register nebeneinander,
+in einem Fall vier Zeilen auseinander:
+
+> b2 K83 Z60: *"How much," said Georgij.*
+> b2 K83 Z64: **"Have you told him?"**
+>
+> b2 K79 Z46: *"How much of it," said Woo.* · Z120: *"Why," said Woo.*
+
+**Ob eine Forderung ihren Punkt behalten hat, hängt jetzt davon ab, ob zufällig
+ein Redebegleitsatz danebenstand.** `doc/09` Punkt 8 begründet das Komma-Mittel
+ausdrücklich als *"den mechanischen Preis des Punkt-Registers"* - ohne dieses
+Register sind die 58 eine Marotte ohne Grund.
+
+### Und `faktenspur.py` kann diese Änderung nicht sehen
+
+`doc/14` führt als Prüfung an: *"`faktenspur.py`: null bewegte Zahlen, Daten und
+Namen."* Ein reiner Zeichenwechsel bewegt per Bauart keine Zahl. Das ist ein
+Detektor, der hier nicht durchfallen **kann**, und damit kein Beleg.
+
+### Fertiger Ersatztext
+
+**1. `doc/01-craft.md` Z577** - die Überschrift muss ihre eigene Einschränkung
+tragen, sonst wird sie wieder allein zitiert:
+
+> Steht er in **Fragesyntax** oder ist er eine **verkürzte Frage**, kommt ein
+> Fragezeichen hin, egal wie kalt er ist - **es sei denn, der Sprecher fordert
+> und der andere muss liefern. Dann behält er den Punkt, und das entscheidet
+> die Machtlage und nicht der Satzbau; die volle Fassung steht in `CLAUDE.md`
+> unter „Punkt oder Fragezeichen". Die Liste, die `check.py` ausgibt, ist eine
+> Liste von Verdachtsfällen und keine Arbeitsliste.**
+
+**2. `doc/16` B1, Zeile „Regel"** - ersetzen durch:
+
+> **Regel:** unverändert, aber die maßgebliche Fassung ist `CLAUDE.md`, *„Punkt
+> oder Fragezeichen"*, nicht die Überschrift in `doc/01` Z577. **Verfahren:
+> `check.py`s Liste ist die Verdachtsliste; jede Stelle wird einzeln gegen die
+> Machtlage entschieden.**
+
+**3. Band 1 - 23 Zeilen, die am 24.08. einzeln geprüft worden waren, verbatim
+zurück:**
+
+| # | Stelle | jetzt | ersetzen durch |
+|---|---|---|---|
+| 1 | b1 K1 Z120 | "When?" | **"When."** |
+| 2 | b1 K1 Z158 | "Do you know what you cost me?" | **"Do you know what you cost me."** |
+| 3 | b1 K11 Z56 | "How long?" | **"How long."** |
+| 4 | b1 K11 Z174 | "What did you tell him?" | **"What did you tell him."** |
+| 5 | b1 K12 Z144 | "Is it a technique?" | **"Is it a technique."** |
+| 6 | b1 K14 Z94 | "How much?" | **"How much."** |
+| 7 | b1 K14 Z170 | "Does it work because it is true?" | **"Does it work because it is true."** |
+| 8 | b1 K17 Z48 | "When does he move?" | **"When does he move."** |
+| 9 | b1 K18 Z106 | "How long?" | **"How long."** |
+| 10 | b1 K18 Z138 | "How does it lose?" | **"How does it lose."** |
+| 11 | b1 K18 Z192 | "Is any of that in your pages?" | **"Is any of that in your pages."** |
+| 12 | b1 K18 Z258 | "What does it cost me?" | **"What does it cost me."** |
+| 13 | b1 K18 Z262 | "How much authority?" | **"How much authority."** |
+| 14 | b1 K18 Z266 | "Why?" | **"Why."** |
+| 15 | b1 K20 Z44 | "How far inside?" | **"How far inside."** |
+| 16 | b1 K20 Z66 | "How did you get in the door?" | **"How did you get in the door."** |
+| 17 | b1 K20 Z80 | "What did he say?" | **"What did he say."** |
+| 18 | b1 K22 Z238 | "Where?" | **"Where."** |
+| 19 | b1 K24 Z110 | "How many next ones?" | **"How many next ones."** |
+| 20 | b1 K26 Z48 | "How long have you had it ready?" | **"How long have you had it ready."** |
+| 21 | b1 K27 Z52 | "How much does it cost me?" | **"How much does it cost me."** |
+| 22 | b1 K30 Z366 | "Why did you not?" | **"Why did you not."** |
+| 23 | b1 K30 Z404 | "Is there anything else you have and have not used?" | **"Is there anything else you have and have not used."** |
+
+**4. Band 2 - 16 Stellen, die ich einzeln im Kontext gelesen habe und bei denen
+der Gefragte liefern muss:**
+
+| # | Stelle | wer fordert | jetzt | ersetzen durch |
+|---|---|---|---|---|
+| 1 | b2 K2 Z144 | Annie | "What else?" | **"What else."** |
+| 2 | b2 K2 Z154 | Annie | "How many are there like him?" | **"How many are there like him."** |
+| 3 | b2 K3 Z158 | Annie | "What have you been doing since Thursday afternoon?" | **"… afternoon."** |
+| 4 | b2 K3 Z170 | Annie | "Is it going to cost me anything?" | **"Is it going to cost me anything."** |
+| 5 | b2 K5 Z46 | Annie | "What did you pay Park Sang-hoon with?" | **"… with."** |
+| 6 | b2 K5 Z62 | Annie | "How long?" | **"How long."** |
+| 7 | b2 K5 Z90 | Annie | "How many men were near enough to hear you?" | **"… hear you."** |
+| 8 | b2 K7 Z164 | Annie | "How long did you need?" | **"How long did you need."** |
+| 9 | b2 K9 Z34 | Annie | "Why did you spend it?" | **"Why did you spend it."** |
+| 10 | b2 K9 Z174 | Annie | "How?" | **"How."** |
+| 11 | b2 K11 Z58 | Annie | "What are you going to answer?" | **"What are you going to answer."** |
+| 12 | b2 K12 Z144 | Annie | "What do I get?" | **"What do I get."** |
+| 13 | b2 K12 Z208 | Annie | "How long?" | **"How long."** |
+| 14 | b2 K13 Z114 | Woo | "Are you going to tell me it is not?" | **"… it is not."** |
+| 15 | b2 K35 Z316 | Sang-hoon | "Whose four days?" | **"Whose four days."** |
+| 16 | b2 K42 Z84 | Georgij, und Sang-hoon liefert | "How many times have you eaten at a table with that man?" | **"… with that man."** |
+
+**Die übrigen rund hundert kann ich nicht als Liste liefern, und das ist kein
+Ausweichen, sondern die Regel selbst:** *"Die Probe wird pro Replik gestellt und
+nicht pro Figur."* Ein Sammelrückbau wäre derselbe Fehler mit umgekehrtem
+Vorzeichen. Unter den gelesenen 159 Fundstellen sind Zeichen, die **richtig**
+sitzen und bleiben müssen - b2 K52 Z336 (*"May I ask you one thing that is
+nothing to do with any of it," he said.* / *"You may ask."* / **"Are you all
+right?"**), b2 K63 Z174 (*"Have you got a pen?"*), b2 K15 Z218 (Annie bietet an,
+Georgij sagt *"No, Mistress"*).
+
+---
+
+## A4 - Sim, Anwesenheitspflicht: **HÄLT NICHT** (der Beleg ist falsch)
+
+Der Beleg lautet: *"In 71 Repliken **keine einzige Frage**."*
+
+**Sim stellt eine Frage, und sie ist die beste Zeile, die er hat.** b2 K52, ab
+Z332:
+
+> *At the doorway he stopped, with the folded screen beside him, and he did the
+> thing that Georgij had written down on Friday night and had not been able to
+> prepare for.*
+> *"May I ask you one thing that is nothing to do with any of it," he said.*
+> *"You may ask."*
+> **"Are you all right?"**
+> … *"No," he said.* / *"No," said Sim. "I did not think so."*
+
+**Sie war dem Zähler zweimal unsichtbar**, und beide Male aus einem Grund, der
+in `doc/16` selbst steht:
+
+1. **Kein Begleitsatz an der Fragezeile** - das ist C5, die Index-Verzerrung.
+2. **Kein Fragezeichen**: bis 08:20 desselben Morgens stand dort *"Are you all
+   right."* Die Zeile steht in der Änderungsliste von `c3c9184`.
+
+**Damit ist die Reihenfolge des Vormittags die Pointe:** um 07:51 wurde
+gemessen, Sim stelle keine Frage, und daraufhin ein Verbotsersatz und ein neuer
+K74-Auftakt geschrieben (`b0218cb`). Um 08:20 bekam Sims vorhandene Frage ihr
+Fragezeichen. **Die Regel wurde auf eine Messung gestellt, die eine halbe Stunde
+später von derselben Sitzung widerlegt wurde.** `anwesenheit.py` steht heute bei
+**Sim 1,3 Fragen je 100 Repliken**, nicht bei 0.
+
+**Und der Zähler steht auf dem Index, den C5 für ungültig erklärt.**
+`werkzeug/anwesenheit.py` Z47: `from stimmen import zeilen_je_figur`. Die
+Tabelle weist **Mrs Ha 16, Woo 87, Chae 7** aus - exakt die drei Zahlen, die C5
+als falsch benennt (39, ~172, 17). C5 sagt außerdem: *"Eine Replik mit
+Begleitsatz ist überdurchschnittlich oft eine schlichte Antwort."* Eine schlichte
+Antwort ist keine Frage - **die Verzerrung läuft also in die Richtung des
+Befunds.** C5 ist als Regel aufgeschrieben und im Werkzeug nicht umgesetzt.
+
+**Fertiger Ersatztext, Belegzeile in `doc/16` A4 und im Blatt:**
+
+> **Beleg:** Sim stellt im ganzen Buch **eine** Frage, b2 K52 an der Tür:
+> *"May I ask you one thing that is nothing to do with any of it," he said.* -
+> *"You may ask."* - *"Are you all right?"* **Sie ist die Ausnahme, auf die die
+> Regel zuläuft, und sie darf nicht verschwinden.** Die Zahl 0 kam aus
+> `anwesenheit.py`, das auf `stimmen.py`s Index läuft: die Zeile trägt keinen
+> Begleitsatz und trug bis zum 26.08. kein Fragezeichen. **Die Quote ist erst
+> vergleichbar, wenn der Index nach C5 korrigiert ist.**
+
+---
+
+## A3 - Sim, vier verbotene Rahmen: **HÄLT ZUR HÄLFTE**
+
+Der Beleg lautet: *"Vier-Wort-Wendungen, die im ganzen Buch **nur Georgij und
+Sim** benutzen und sonst niemand."* Nachgezählt auf dem Stand, auf dem gemessen
+wurde (`bf973d7^`):
+
+| Wendung | Befund | Urteil |
+|---|---|---|
+| *"There is one more thing and it is"* | 4 Stellen: b1 K31, b2 K21 (Georgij), b2 K72 (Sim), b2 K73 (Georgij) | **hält** |
+| *"and it is not the one"* | 3 Stellen: b2 K42, b2 K48 (Georgij), b2 K64 (Sim) | **hält** |
+| *"There is a second …"* | **14 Stellen**, darunter zweimal **Annie** und einmal **Mr Koh** | **hält nicht** |
+| *"neither of them was"* | 5 Stellen: zweimal **Erzähler**, **Mr Ahn**, **Mrs Jeon**, Sim. **Georgij benutzt sie gar nicht** | **hält nicht** |
+
+Die Gegenbelege wörtlich:
+
+> b2 K6 Z316, **Annie**: *"There is a second half of that price and you have not
+> said it," she said.*
+> b2 K80 Z144, **Annie**: *"There is a second wall and you have not put it on
+> the desk either," she said.*
+> b2 K37 Z112/114, **Mr Koh**: *"You said you came to tell me something. That is
+> one thing. There is a second."*
+> b2 K71 Z462, **Mrs Jeon**: *"Both of them were kind and neither of them was
+> asked for."*
+> b2 K56 Z312, **Mr Ahn**: *"… and you have not once told me the whole of
+> anything."* / *"neither of them was …"*
+
+**Und die Zuordnung dreht sich bei der ersten Wendung um.** Sims gestrichene
+Zeile war b2 K74 Z102: *"There is a second half **and you have not asked for
+it**," said Sim.* Georgijs Fassung ist *"There is a second half, **und it is
+worse**"* (b2 K60, b2 K64). Die Konstruktion *„zweite Hälfte + du hast nicht
+danach gefragt"* gehört **Annie** (b2 K6, b2 K80). Wenn Sim geliehen hat, dann
+bei ihr und nicht bei ihm.
+
+**Fertiger Ersatztext für die Verbotszeile im Blatt:**
+
+> **Verboten:** *"There is one more thing and it is …"* und *"… and it is not
+> the one …"* - beide gehören Georgij und stehen sonst bei niemandem.
+> **Nicht verboten:** *"There is a second …"* (14 Stellen, darunter zweimal
+> Annie und einmal Mr Koh) und *"neither of them was"* (5 Stellen, zweimal
+> Erzähler, dazu Mr Ahn und Mrs Jeon - **Georgij benutzt sie nicht**). Wer die
+> zweite Liste mechanisch anwendet, streicht Mrs Jeons und Mr Ahns Zeilen mit.
+
+---
+
+## A6 - Ahn Jung-hee, „NOCH KEIN DIREKTES ZITAT": **HÄLT NICHT MEHR**
+
+Der Beleg lautet: *"Ein direktes Zitat von ihr existiert nicht."* Am 26.08. um
+09:30 stimmte das. Am selben Abend nicht mehr:
+
+> **b2 K90 Z22:** *"You did not get out of the car," said Ahn Jung-hee.*
+
+Es ist eine ganze Szene: Z26 *"I spent that evening working out which of the
+three of you had decided it, and I decided it was the woman in the front, and I
+was wrong."* · Z30 *"Then say why you did not."* Dazu b2 K89 Z26 in indirekter
+Rede.
+
+**Das ist Falle 3 in Reinform, und zwar an der Änderung, die Falle 3 behebt** -
+A6 korrigierte eine überholte Überschrift und ist nach elf Stunden selbst
+überholt.
+
+**Fertiger Ersatztext für die Blattüberschrift:**
+
+> **Ahn Jung-hee (31, Kapitel 89 und 90) - erste eigene Zeile b2 K90 Z22:**
+> *"You did not get out of the car," said Ahn Jung-hee.* Bis b2 K88 wird sie
+> ausschließlich von Sim am Telefon wiedergegeben (b2 K64, b2 K72); ihr
+> Register ist erst ab K90 direkt greifbar.
+
+---
+
+## C7 - „Der Verbotstest ist gestrichen, bleibt Sperre in `check.py`": **HÄLT NICHT**
+
+`check.py` hat eine Sperre - `WRONG_PHRASES`, Z113 bis Z125. Sie enthält
+**zwei** Einträge, und beide sind Sachverbote aus der Inhaltsprüfung:
+*„forty-one point four per cent"* und *„three weeks into this"*. **Keines der
+figurenspezifischen Verbote aus `doc/12` steht darin** - auch nicht die vier,
+die A3 am selben Tag für Sim aufgestellt hat.
+
+Dazu die Begründung fürs Streichen: *"Null Verstöße in der ganzen Besetzung."*
+Der Lauf war `stimmen.py --tics`. Das Programm hat **keine Eichung** (anders als
+`zuschreibung.py`, `belege.py`, `faktenspur.py`, `anwesenheit.py`) und gibt eine
+**Dichtetabelle der fünf Haustics** aus; es kennt weder den Begriff *Verstoß*
+noch eine Schwelle noch die Blattverbote. Es weist außerdem **Woo mit
+*Negativ-Def 0,8*** aus, also ungleich null, für genau die Figur, der A2 die
+Negativdefinition abspricht.
+
+**Fertiger Ersatztext für C7:**
+
+> **C7. Der Verbotstest bleibt, bis er einmal gelaufen ist.** Gestrichen wurde
+> er auf ein Nullergebnis von `stimmen.py --tics` - einem Lauf ohne Eichung, der
+> Haustic-Dichten misst und die Blattverbote nicht kennt. Es gibt keine Sperre
+> in `check.py`: `WRONG_PHRASES` führt zwei Sachverbote und keine Figurenverbote.
+> **Solange beides so ist, ist der Test weder grün noch rot, sondern nicht
+> gelaufen.**
+
+---
+
+## A2 - Woos geschützte Ausnahme: **HÄLT**, mit einer Lücke daneben
+
+Beide Ersatzzeilen stehen wörtlich im Kanon: b1 K13 Z246 *"…you are asking the
+wrong question. Ask who is going to be standing there with an open hand…"* und
+b1 K19 Z244 *"And you did it after I signed. Men pay before."*
+
+Die Ausnahme in b2 K57 Z158 hält: der Begleitsatz markiert sie im Text selbst -
+*"Woo said it exactly, in the way of a man repeating something he has repeated to
+himself."* Sie öffnet keine Hintertür, weil kein zweiter Woo-Satz sich auf sie
+berufen kann.
+
+**Die Gefahr liegt auf der anderen Seite.** `doc/12` Z876 sagt *"Eine
+Negativdefinition steht noch da"*. Ein an b2 K57 geeichter Detektor auf *zwei
+aufeinanderfolgende Sätze, beide mit „Not " beginnend* findet 20 Stellen im Buch,
+und eine ist Woos, ungeschützt:
+
+> **b1 K19 Z190, Woo:** *"Get me a room with that family in it and somebody who
+> can actually sign. **Not the ones who talk. Not the nephew.**"*
+
+Das ist keine Negativdefinition im Sinn der Regel - er bestimmt keinen Begriff
+durch seine Verneinung, sondern **streicht Posten von einer Liste**, und das ist
+das Hauptbuch, das sein Blatt ihm ausdrücklich lässt.
+
+**Fertiger Ersatztext für die Ausnahmezeile:**
+
+> **Ausnahme, und sie heißt nicht „b2 K57":** Woo darf **ausschließen, was auf
+> einer Liste nichts zu suchen hat** (b1 K19 Z190, *"Not the ones who talk. Not
+> the nephew."* - das ist seine Buchführung). Was ihm nicht gehört, ist die
+> **Bestimmung einer Sache durch ihre Verneinung**. Dazu geschützt: b2 K57 Z158,
+> weil der Begleitsatz sie als fremde Worte markiert.
+
+---
+
+## A5 - Mrs Ha, „stellt die Urheberschaft richtig": **UNSICHER, und das Werkzeug sagt es selbst**
+
+Die drei Belege stehen wörtlich da: b2 K67 Z96 *"Not the mother, not a cousin,
+not the hall. Her."*, Z144 *"I put them in the van myself on the Tuesday."*,
+Z168 *"She was at the fitting. I did the fitting."*
+
+**Alle drei stehen in einem Kapitel, und Mrs Ha hat nur dieses eine** (K66 vier
+Namensnennungen, K68 eine, gesprochen wird außerhalb K67 nicht). `anwesenheit.py`
+druckt es in der eigenen Zeile aus:
+
+> `stellt die Urheberschaft richtig    3 Treffer, **1/1 Kapitel**`
+
+Bei einem Nenner von eins ist *„null Prozent bei neun anderen"* keine Messung -
+jede Wendung aus K67 bekäme dieselbe Zahl. **Und der Zug fällt mit dem Gegenstand
+der Szene zusammen:** sie wird gefragt, wer was getan hat.
+
+Dieselbe Ausgabe zeigt außerdem, dass zwei ihrer vier Blattzüge in ihrem
+einzigen Kapitel weiterhin **fehlen** (*befragt ihn zurück* 0, *urteilt über den
+Wortwechsel* 0). Der ehrliche Stand ist **Vorschlag**, entscheidbar beim zweiten
+Auftritt - das ist Test 6 der Batterie.
+
+**Nebenbefund, nicht Mrs Ha:** b2 K60 Z250 lässt **Annie** sagen *"Not the family
+and not the hall. That."*, sieben Kapitel vor Mrs Has *"Not the mother, not a
+cousin, not the hall."* Gleiche Form, zwei derselben drei Substantive. Nicht
+angefasst.
+
+---
+
+## Falle 4, die neuen Zeilen: **im Wesentlichen sauber, ein Fund**
+
+Zehn neu geschriebene Zeilen aus fünf Commits gegen den Korpus gemessen:
+
+- Sims fünf Ersatzzeilen (`bf973d7`, `12c876e`) tragen **keine neue Anleihe**.
+  *"the last of it,"* und *"getting ready for"* stehen im ganzen Buch nur bei
+  ihm; *"is mine and not"* ist sein eigener Zug aus b2 K68. *"I am going to give
+  it to you"* steht bei Annie, Georgij und Sim - Hausgut, keine Leihgabe.
+- **Mrs Has neue Zeile hat einen Fund.** *"Ask what you like now. **I've stopped
+  counting.**"* (b2 K67 Z118). Der Vorabtest suchte nach Wendungen, **die
+  Georgij benutzt** - also in seiner Rede. *"stopped counting"* steht fünfmal im
+  Buch, und **zweimal davon ist es der Erzähler über Georgij**:
+  > b1 K2 Z172: *"With the part of his mind that had **never once stopped
+  > counting** he took an inventory…"*
+  > b2 K59 Z238: *"**He has stopped counting them.** He noticed at some point in
+  > July that he had stopped…"*
+  Dazu Mrs Jeon (b2 K6 Z154) und Mr Ahn (b2 K70 Z26). **Der Vorabtest hält
+  wörtlich** - Georgij *sagt* es nirgends. Die Lücke ist, dass die Erzählung in
+  diesem Buch sein Register ist, und die Probe sie nicht liest. Ergebnis: die
+  Wendung steht jetzt bei **drei** Nebenfiguren plus zweimal in der Erzählung
+  über ihn.
+
+  **Vorschlag, wenn es weg soll:** *"Ask what you like now. I've lost count."* -
+  steht im ganzen Buch nicht, und sie ist die Figur, die zählt (*„zählt in Ware
+  und Wochentagen", 4 Treffer*), also ist das Verlieren der Zählung bei ihr die
+  stärkere Aussage.
+
+---
+
+## Was ohne Einwand hält
+
+- **A1, Sang-hoons Und-Kette.** Beide Zitate stehen (b2 K42 Z116, b2 K45 Z140).
+  Die Regelumkehr ist richtig. **Falle 3: die Zahl „zwei" stimmt schon nicht
+  mehr** - mit b2 K4 Z160 (*"I know the report was true. I know the board could
+  not sell, and I…"*) sind es mindestens drei. Das stützt die Änderung.
+- **A7, Choi.** *"He eats a great deal, and he enjoys it … He does not eat in
+  front of people he is working on"* steht in b2 K18 Z146 und wird in b2 K24 und
+  b2 K26 wieder aufgenommen. Vier Fragen in Mr Oks Bericht b2 K17 nachgezählt.
+- **B2, Gedankenstriche.** Nachgemessen: **0** in allen 124 Kanonkapiteln, **0**
+  in `doc/*.md` und `CLAUDE.md`.
+- **B3, Takt und Szene.** Die Änderung steht in `build.py` Z147-173 und
+  `reader.py` Z87-91, kein Kapitel angefasst. Die Abstufung stimmt: 1,15rem /
+  2,4rem / 5,3rem = 18,4 / 38,4 / 84,8 px.
+- **D, verworfene Regel.** Die zwei wiederhergestellten Sätze stehen in b2 K21
+  und b2 K5.
+- **Die Zitate selbst.** `belege.py -v` prüft `doc/*.md` mit, **doc/16 taucht in
+  keinem der drei Töpfe auf**: jedes englische Zitat in `doc/16` steht in einer
+  lebenden Fassung. Der Streit geht nie um den Wortlaut, immer um den Schluss.
+
+---
+
+## Zu C0, der Batterie, und der Frage nach Test 5
+
+Test 5 wurde auf ein Nullergebnis gestrichen - siehe C7 oben: der Lauf hat nicht
+gemessen, was der Test heißt. Dazu eine Lücke in der Batterie als Ganzes: **alle
+zwölf Prüfungen messen eine Figur gegen den Text, keine misst eine Figur gegen
+eine andere.** Test 1 vergleicht ausdrücklich nur gegen Georgij. Der Befund, der
+das ganze Stimmenwerk ausgelöst hat, war aber *"außer mit Annie sind alle Dialoge
+gleich"* - eine Aussage über **zwei** Figuren. Was fehlt, ist die Blindprobe:
+zwei Repliken ohne Namen aus zwei kleinen Figuren, und ob man sie zuordnen kann.
+Sim gegen Sohn, Koh gegen Hong.
+
+**Und A4 ist der Beweis, dass Falle 1 die Batterie schon erwischt hat:** Test 4
+(Fragenquote) und Test 6 (Anwesenheitsprobe) laufen beide über
+`anwesenheit.py`, und das läuft über `stimmen.py`s Index. **C5 muss vor Test 4
+und 6 stehen, nicht neben ihnen.**
+
+---
+
+## Prüfumfang
+
+| | |
+|---|---|
+| Kanonkapitel im Zugriff, höchste Fassung je Kapitel | **124** (Band 1: 34, Band 2: 90) |
+| Regeländerungen in `doc/16` geprüft | **13** (A1-A7, B1-B3, C0, C1-C8, D) |
+| Zitate aus `doc/16` im Kanon nachgeschlagen | **21** |
+| Zeichenwechsel aus `c3c9184` rekonstruiert und mit Kontext gelesen | **154 / 159 Fundstellen** |
+| Gegenstellen aus `80a632f` (24.08.) rekonstruiert | **32**, davon **23** gedreht |
+| Komma-Mittel-Forderungen gezählt, die unberührt blieben | **58** |
+| Fundstellen der vier A3-Wendungen mit Sprecher bestimmt | **26** |
+| Neu geschriebene Zeilen gegen den Korpus gemessen (Falle 4) | **10** aus 5 Commits, gegen 7 n-Gramme |
+| Markenquote neu gemessen, vier Zeitstände × zwei Bände | **8 Messungen**, n=115 und n=151 |
+| Werkzeuge gelaufen, alle Eichungen bestanden | **6** (`check.py`, `belege.py -v`, `zusagen.py`, `stimmen.py Sim`, `anwesenheit.py`, `faktenspur.py --seit`) |
+| Eigene Detektoren gebaut und an bekanntem Exemplar geeicht | **2** (Negativdefinition an b2 K57; Zeichenwechsel-Rekonstruktion an `80a632f`) |
+
+**Kapitel geändert: keines.**
+
+---
+
 # Entscheidungen und Verworfenes
 
 ## Das Projektverzeichnis haelt nur noch die zwei Lesefassungen, 25.08.
@@ -19560,7 +20084,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 7 | **Veralterung** - zitiert das Blatt die Kapitel, in denen sie spricht? | Sims Blatt endete bei K41, 64 von 65 Repliken stehen danach |
 | 8 | **Index-Verzerrung** - getaggte gegen tatsächliche Repliken | Mrs Ha 16 statt 39, Chae 7 statt 17, Woo 87 statt rund 172 |
 
-**Vier nur durch Lesen:**
+**Fünf nur durch Lesen** (die fünfte kam am 26.08. dazu, siehe C9):
 
 | # | Test | Fund |
 |---|---|---|
@@ -19568,6 +20092,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
 | 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
 | 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
+| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/K79 gefunden, **von keiner der zwölf Prüfungen** |
 
 **Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
 (13) und `faktenspur.py` plus `check.py` vor jedem Push (14).
@@ -19622,6 +20147,82 @@ Mechanik macht eine Figur bedienbar, nicht bewohnt.**
 | C8 | **Die Frage, ob eine Figur einen eigenen Charakter hat, ist nicht zählbar.** | Der Anteil der Repliken, die die Fall-Streichung überleben, sagt das Gegenteil: Sim behält 71 Prozent, Woo 52 - und Woo ist der mit dem Charakter |
 
 ---
+
+## C9. Die Batterie ist blind für die Welt - und `faktenspur.py` hat mir das verdeckt
+
+**Am 26.08. hat ein Prüfgespräch über Grundstückspreise in Incheon einen Fehler
+gefunden, den keine meiner zwölf Prüfungen finden kann und nie hätte finden
+können.** Das gehört hierher, weil es die Batterie an ihrer Wurzel betrifft.
+
+### Der unangenehmste Teil zuerst
+
+**`faktenspur.py` meldet *"0 Kapitel haben eine Zahl, ein Datum oder einen Namen
+bewegt"*. Ich habe diesen Satz in dieser Sitzung etwa fünfzehnmal als Beleg
+dafür geschrieben, dass ein Eingriff sauber war.**
+
+**Er heisst das nicht.** Er heisst: *die Zahlen haben sich nicht geändert.* Eine
+falsche Zahl, die niemand anfasst, besteht ihn für immer. **Es ist dieselbe
+Fehlerart wie meine drei Messfehler an den Figuren** - das Werkzeug misst das
+Messbare, und ich lese es, als messe es die Sache.
+
+**Ab jetzt gilt:** *"faktenspur: null bewegte Zahlen"* darf nur noch als das
+zitiert werden, was es ist - **eine Aussage über meinen Eingriff, keine über den
+Text.**
+
+### Was die zwölf Prüfungen alle gemeinsam haben
+
+**Sie fragen ausnahmslos, *wie* jemand spricht.** Anleihen, Tics, Fragenquote,
+Anwesenheit, Rückkanal, Zustand - alles Stimme. **Keine fragt, ob das Gesagte in
+der Welt möglich ist.** Eine Figur kann vollkommen in ihrer Stimme stehen und
+dabei etwas sagen, das nicht sein kann. Genau das ist passiert.
+
+`check.py` prüft Form. `belege.py` prüft, ob ein Zitat existiert. `zusagen.py`
+prüft Fristen. `zuschreibung.py` prüft, wer etwas getan hat. **Nichts im ganzen
+Werkzeugkasten prüft eine Grössenordnung.**
+
+### Und der eigentliche Fund war kein Zahlenfehler
+
+Die Rechnung war nur der Einstieg. Was sie freigelegt hat, ist eine Kette von
+**Handlungslücken**:
+
+- Warum kauft er die Fläche nicht, wenn sie ihm mehr wert ist als jedem anderen?
+- Warum beleiht sie ein erstklassig besichertes Grundstück nicht, statt es unter
+  Wert abzugeben?
+- Warum gibt Woo ihr das Geld nicht, wenn er weiss, dass es gegen Choi geht?
+
+**Das sind keine Wirtschaftsfragen, das sind Figurenfragen.** Jede davon
+beschreibt eine kompetente Figur, die das Naheliegende nicht tut, ohne dass der
+Text sagt, warum. **Ein Plot, der darauf beruht, dass der Leser nicht
+nachrechnet, ist kein Plot.**
+
+### Daraus folgen zwei neue Regeln
+
+**Leseprobe 13 - und sie gehört in die Batterie:**
+
+> **Warum tut die Figur nicht das Naheliegende?** Wo jemand mit Mitteln,
+> Wissen oder Macht die offensichtliche Handlung unterlässt, **muss der Text den
+> Grund nennen**. Nicht andeuten - nennen. Fehlt er, ist es keine Zurückhaltung
+> der Figur, sondern eine Lücke im Bau.
+
+**Und die Sperre dazu:**
+
+> **Jede Zahl, die eine Menge, einen Preis oder eine Fläche behauptet, wird
+> einmal gegen die Welt gehalten und nicht nur gegen den Text.** Innere
+> Konsistenz ist kein Beleg: eine Zahl, die in allen zwölf Kapiteln dieselbe
+> ist, ist zwölfmal dieselbe Zahl und nicht einmal die richtige.
+
+### Was gebraucht wird und nicht mir gehört
+
+**`doc/04-world.md` hat Flächen und einzelne Beträge, aber keinen
+Grössenordnungsrahmen.** Ohne ihn wird jede Zahl je Szene neu erfunden und
+driftet, und niemand merkt es, weil alle Prüfungen nur *Veränderung* messen.
+
+**Vorschlag an den Inhalts-Chat:** eine Tabelle in `doc/04` mit den Grössen, an
+denen sich alles misst - was ein Quadratmeter Hafenfläche in Incheon kostet, in
+welchen Grössenordnungen die Sechs rechnen, was für Annie viel Geld ist und was
+Kleingeld. **Vier Zeilen würden reichen, und sie hätten diesen Fehler
+verhindert.**
+
 
 ## D. Verworfene Regel
 
