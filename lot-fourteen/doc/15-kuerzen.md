@@ -269,6 +269,7 @@ gegengeprüft.*
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
 | **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |
 | **87** | *The first hour* | **Tragend.** Die erste Stunde, und Choi Dae-ho ist der Errichter der Treuhandschaft | HALTEN |
+| **88** | *The invitation* | **Tragend. Chois einzige Repliken im ganzen Buch.** Und er gibt Moon Hae-sook her, ohne Bedingung und ohne Gegenleistung | HALTEN |
 
 ---
 
