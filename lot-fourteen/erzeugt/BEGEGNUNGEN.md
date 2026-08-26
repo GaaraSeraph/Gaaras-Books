@@ -20,7 +20,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 |---|---|---|---|---|
 | Annie | 907 | 98 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 252 | 43 (b1ch07-b2ch90) | 1 | 74 |
+| Chairman Woo | 249 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
 | Sim | 143 | 23 (b2ch31-b2ch89) | 2 | 53 |
@@ -40,7 +40,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
+| Mrs Bae | 29 | 7 (b2ch41-b2ch53) | 3 | 10 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Mrs Ha | 28 | 4 (b2ch66-b2ch89) | 13 | 42 |
 | Baek Jun-ho | 22 | 7 (b2ch42-b2ch88) | 2 | 12 |
@@ -230,7 +230,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 41 | b1ch15:434 | "The eighteenth," said Annie, when the door had closed. |
 | 41 | b1ch15:446 | "Four thousand two hundred," said Annie. "Do not lose that figure. I am going to ask you.. |
 | 46 | b1ch16:12 | That had been Annie's instruction and Georgij had intended to follow it anyway, because .. |
-| 46 | b1ch16:140 | He had pulled the second section on her sixteen thousand square metres the previous afte.. |
+| 46 | b1ch16:140 | He had pulled the second section on her ground the previous afternoon. The instruction h.. |
 | 46 | b1ch16:160 | "I know what I have just told you," said Georgij. "I told you it existed. You had alread.. |
 | 46 | b1ch16:208 | Pyeongtaek was February. Busan was March, one director at a time, four hundred kilometre.. |
 | 46 | b1ch16:314 | Mr Pyo had the car at the kerb with the heater on. The two drivers went week and week ab.. |
@@ -809,20 +809,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch62:28 | Annie was at the desk with nothing in front of her at all, which he has seen twice. |
 | 27 | b2ch62:42 | "Say what he told you," said Annie. |
 | 27 | b2ch62:64 | Annie did not move at all. |
-| 27 | b2ch62:92 | Annie sat with that. |
-| 27 | b2ch62:114 | Annie almost smiled at that, and it did not get anywhere near her face. |
-| 27 | b2ch62:128 | "I did not understand what he was until I was thirty," said Annie, "and what I understoo.. |
-| 27 | b2ch62:136 | "They did not ask because my father had brought him, and nobody in that house ever asked.. |
-| 27 | b2ch62:146 | Annie did not answer for a while. |
-| 27 | b2ch62:158 | Annie did not pretend not to know what he meant. |
-| 27 | b2ch62:170 | Annie held his eye for a long moment. |
-| 27 | b2ch62:188 | Annie did not sit back again. |
-| 27 | b2ch62:208 | "You have answered a question about permission," said Annie, "and I did not ask one." |
-| 27 | b2ch62:224 | "I have sat at that table since I was fourteen," said Annie, "in the same room, with the.. |
-| 27 | b2ch62:238 | Annie looked at him. |
-| 27 | b2ch62:252 | Annie got up and went to the window, and stood with her back to the room. |
-| 27 | b2ch62:264 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
-| 27 | b2ch62:298 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
+| 27 | b2ch62:84 | Annie sat with that. |
+| 27 | b2ch62:106 | Annie almost smiled at that, and it did not get anywhere near her face. |
+| 27 | b2ch62:120 | "I did not understand what he was until I was thirty," said Annie, "and what I understoo.. |
+| 27 | b2ch62:128 | "They did not ask because my father had brought him, and nobody in that house ever asked.. |
+| 27 | b2ch62:138 | Annie did not answer for a while. |
+| 27 | b2ch62:150 | Annie did not pretend not to know what he meant. |
+| 27 | b2ch62:162 | Annie held his eye for a long moment. |
+| 27 | b2ch62:180 | Annie did not sit back again. |
+| 27 | b2ch62:200 | "You have answered a question about permission," said Annie, "and I did not ask one." |
+| 27 | b2ch62:216 | "I have sat at that table since I was fourteen," said Annie, "in the same room, with the.. |
+| 27 | b2ch62:230 | Annie looked at him. |
+| 27 | b2ch62:244 | Annie got up and went to the window, and stood with her back to the room. |
+| 27 | b2ch62:256 | "There is one more thing," said Annie, "and it is the only part of this that is genuinel.. |
+| 27 | b2ch62:290 | "I have not changed my mind," said Annie. "I want you to have heard me say that on the d.. |
 | 37 | b2ch66:166 | Annie was at the desk with the folder from Yeouido open and did not close it, which she .. |
 | 37 | b2ch66:172 | Annie put the pen down. |
 | 37 | b2ch66:184 | Annie did not say anything for a moment. |
@@ -925,7 +925,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 7 | b2ch78:136 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
 | 7 | b2ch78:160 | Annie stood in the passage with the sheet in her hand. |
 | 10 | b2ch78:188 | "I am here to tell you why I am not going to," said Annie. "And there is a thing before .. |
-| 10 | b2ch78:198 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
+| 10 | b2ch78:198 | "On the twenty-third of August you came to my house on a Sunday and asked me to leave my.. |
 | 10 | b2ch78:232 | Annie did not defend it. |
 | 10 | b2ch78:270 | Annie let a moment go past. |
 | 10 | b2ch78:290 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
@@ -1025,7 +1025,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch15:386` (Tag 41) - four, one, two
 - `b1ch15:446` (Tag 41) - four thousand two hundred
 - `b1ch16:12` (Tag 46) - two
-- `b1ch16:140` (Tag 46) - five, sixteen thousand
+- `b1ch16:140` (Tag 46) - five
 - `b1ch16:160` (Tag 46) - one, two
 - `b1ch16:208` (Tag 46) - four hundred, one
 - `b1ch16:314` (Tag 46) - one, two
@@ -1186,11 +1186,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch60:140` (Tag 25) - seven
 - `b2ch60:146` (Tag 25) - eleven, three
 - `b2ch60:168` (Tag 25) - eleven, four
-- `b2ch62:128` (Tag 27) - thirty
-- `b2ch62:136` (Tag 27) - four hundred, thirty, two
-- `b2ch62:208` (Tag 27) - one
-- `b2ch62:224` (Tag 27) - five, fourteen, one, seven, twenty-four
-- `b2ch62:264` (Tag 27) - one
+- `b2ch62:120` (Tag 27) - thirty
+- `b2ch62:128` (Tag 27) - four hundred, thirty, two
+- `b2ch62:200` (Tag 27) - one
+- `b2ch62:216` (Tag 27) - five, fourteen, one, seven, twenty-four
+- `b2ch62:256` (Tag 27) - one
 - `b2ch66:240` (Tag 37) - one
 - `b2ch69:190` (Tag 44) - one
 - `b2ch69:250` (Tag 44) - one
@@ -1208,7 +1208,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch74:536` (Tag 53) - one
 - `b2ch74:544` (Tag 53) - five
 - `b2ch74:596` (Tag 53) - six, twenty
-- `b2ch74:648` (Tag 53) - twenty, twenty-five
+- `b2ch74:648` (Tag 53) - twenty, twenty-six
 - `b2ch75:78` (Tag 53) - one
 - `b2ch75:282` (Tag 53) - nine
 - `b2ch75:306` (Tag 53) - five, four, one
@@ -1223,7 +1223,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:68` (Tag 6) - one
 - `b2ch78:112` (Tag 7) - four, one, six
 - `b2ch78:136` (Tag 7) - one, two
-- `b2ch78:198` (Tag 10) - fifty, twenty, twenty-five
+- `b2ch78:198` (Tag 10) - fifty, twenty, twenty-six
 - `b2ch78:290` (Tag 10) - four, one, seventy-eight
 - `b2ch80:20` (Tag 12) - one, seventy-eight
 - `b2ch80:80` (Tag 4) - eight
@@ -1654,7 +1654,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-252 Nennungen in 43 Kapiteln.
+249 Nennungen in 43 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1871,10 +1871,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:234 | "No," said Woo. "I do not think she has either. And I would like you to consider, before.. |
 | 27 | b2ch62:14 | *Woo said I have until she asks. He also said I may not be the one telling her anything... |
 | 27 | b2ch62:54 | He gave it to her the way Woo had given it to him. The clerk of seventy-four and the she.. |
-| 27 | b2ch62:78 | "How much of that is Woo," she said. |
-| 27 | b2ch62:80 | "He divided it himself, without being asked, and he divided it three ways. The clerk had.. |
-| 27 | b2ch62:88 | "Your father told him he had spent forty years being right about people in four seconds .. |
-| 27 | b2ch62:140 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
+| 27 | b2ch62:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
 | 29 | b2ch63:102 | He took the time it needed, because Woo had done that for him on a Sunday and he had und.. |
 | 44 | b2ch69:74 | "I will. I am going to do it standing here because I did not come to be given a chair." .. |
 | 44 | b2ch69:110 | "You could have asked Chairman Woo." |
@@ -1897,7 +1894,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch78:208 | "How much of it," said Woo. |
 | 10 | b2ch78:218 | Woo looked at the table for a while. |
 | 10 | b2ch78:228 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
-| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Somebody decided in the twenty-fiv.. |
+| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Somebody decided in the twenty-six.. |
 | 10 | b2ch78:256 | "Yes," said Woo. "It was." |
 | 10 | b2ch78:266 | "Then I will say the useful part and we will get on to what you came for." Woo did not r.. |
 | 10 | b2ch78:274 | Woo put one hand flat. |
@@ -2040,16 +2037,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch61:234` (Tag 27) - one
 - `b2ch62:14` (Tag 27) - one, two
 - `b2ch62:54` (Tag 27) - eleven, fifty, seventy-four, thirty-six, two thousand and two
-- `b2ch62:80` (Tag 27) - four, thirty-one, three
-- `b2ch62:88` (Tag 27) - forty, four, one, two thousand and two
-- `b2ch62:140` (Tag 27) - nineteen, one
+- `b2ch62:132` (Tag 27) - nineteen, one
 - `b2ch63:102` (Tag 29) - four
 - `b2ch69:74` (Tag 44) - eleven, one, twenty
 - `b2ch69:126` (Tag 44) - five
 - `b2ch69:130` (Tag 44) - five, seven
 - `b2ch69:344` (Tag 44) - five, one
 - `b2ch69:372` (Tag 44) - five, one
-- `b2ch74:648` (Tag 53) - twenty, twenty-five
+- `b2ch74:648` (Tag 53) - twenty, twenty-six
 - `b2ch75:14` (Tag 53) - two
 - `b2ch75:26` (Tag 53) - twenty-four
 - `b2ch75:42` (Tag 53) - thirty-six, two thousand and two
@@ -2059,7 +2054,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch76:24` (Tag 56) - five, one, seven
 - `b2ch76:50` (Tag 59) - one, three
 - `b2ch78:228` (Tag 10) - four
-- `b2ch78:240` (Tag 10) - twenty-five
+- `b2ch78:240` (Tag 10) - twenty-six
 - `b2ch78:266` (Tag 10) - one
 - `b2ch78:274` (Tag 10) - one
 - `b2ch78:338` (Tag 10) - four, twenty-four
@@ -2238,8 +2233,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 1 | b2ch11:126 | "Three people outside this house have known since the autumn and none of them has ever s.. |
 | 59 | b2ch38:150 | "That is the second time," she said. "The first was Hana, at that desk, in December. You.. |
 | 59 | b2ch38:156 | "I have respected a great many more," he said. "Hwang. Mrs Jeon. Byun, at the end, a lit.. |
-| 27 | b2ch62:140 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
-| 27 | b2ch62:254 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
+| 27 | b2ch62:132 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
+| 27 | b2ch62:246 | "I have been doing this since I was thirty and I do not think I have ever been read that.. |
 
 ### Zahlen in der Naehe von Hana
 
@@ -2306,8 +2301,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch03:122` (Tag 56) - one
 - `b2ch11:126` (Tag 1) - three, twenty
 - `b2ch38:156` (Tag 59) - one, three
-- `b2ch62:140` (Tag 27) - nineteen, one
-- `b2ch62:254` (Tag 27) - thirty
+- `b2ch62:132` (Tag 27) - nineteen, one
+- `b2ch62:246` (Tag 27) - thirty
 
 ---
 
@@ -2655,7 +2650,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:198 | "It is not a decision. It is a thing that has happened to me and I am describing it." Si.. |
 | 42 | b2ch68:212 | Sim did not answer straight away. |
 | 42 | b2ch68:228 | Sim stood up, which he had not done, and put one hand on the back of his own chair. |
-| 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
+| 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was the second time and not th.. |
 | 49 | b2ch72:114 | "It is a box in Jongno and it is raining on me," said Sim, "and I have put in more than .. |
 | 49 | b2ch72:138 | "You will want the voice before anything else," said Sim. "Four years, two voices on tha.. |
 | 49 | b2ch72:146 | "Everything he had, and I did not ask him one question." Sim said it without any pleasur.. |
@@ -3217,7 +3212,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
 | 27 | b2ch61:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
 | 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
-| 27 | b2ch62:288 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
+| 27 | b2ch62:280 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
 | 37 | b2ch66:144 | He sat with that from about seven until Mrs Seo came past at twenty to eight and told hi.. |
 | 44 | b2ch69:14 | Mrs Seo found him in the small room at half past eight on the Wednesday with the folder .. |
 | 44 | b2ch69:258 | "It is the only thing worth giving." She straightened up. "You are going to eat somethin.. |
@@ -3353,7 +3348,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch70:174 | Mr Ahn wiped his hands, which did not need doing. |
 | 45 | b2ch70:186 | "You came up that hill in July and took nothing off me. Then you came in August and took.. |
 | 45 | b2ch70:206 | "No. And that's your business and I'm not owed it." Mr Ahn turned the fan housing a quar.. |
-| 45 | b2ch70:226 | "You want me to ask you something so you've got a job." Mr Ahn almost got something out .. |
+| 45 | b2ch70:226 | "You want me to ask you something so you've got a job." Mr Ahn looked at the ceiling of .. |
 | 45 | b2ch70:234 | "Hold that," said Mr Ahn. |
 | 45 | b2ch70:246 | Mr Ahn talked, on and off, and none of it was about his sister. |
 | 45 | b2ch70:278 | At the end Mr Ahn took the housing off him and set it on the bench and looked at it rath.. |
@@ -3769,7 +3764,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 26 | b2ch24:78 | Mr Kwon's partner, sixty-three, sold his half at a price that was arrived at in one meet.. |
 | 26 | b2ch24:80 | He is going to live about forty minutes from his daughter. Mr Kwon telephoned Georgij ab.. |
 | 44 | b2ch69:26 | "He would not give it to Mr Ku and he gave it to me, because I asked him properly." She .. |
-| 44 | b2ch69:30 | Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid prope.. |
+| 44 | b2ch69:30 | Mr Kwon still has the nine trucks and the apron that was laid properly. |
 | 44 | b2ch69:62 | Mr Kwon did not say anything for a moment. |
 | 44 | b2ch69:82 | "You did the same at four other places on four other days. I know that because we compar.. |
 | 44 | b2ch69:90 | "You did not come back," said Mr Kwon. "That is the whole reason I am here, and it has t.. |
@@ -4000,7 +3995,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | b2ch60:56 | Every hour of it has gone at Choi. The lot number, the invoice, the fire filing, the flo.. |
 | 25 | b2ch60:64 | He has treated the woman on the oxygen the way the whole of that trade treats her, which.. |
 | 27 | b2ch61:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
-| 27 | b2ch62:166 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
+| 27 | b2ch62:158 | "You gave it to a man with no telephone." His hands stayed on his knees. "Not because I .. |
 | 37 | b2ch66:180 | "And if the arrangement still holds, she will telephone somebody, and inside a day Choi .. |
 | 53 | b2ch75:106 | "And that is Choi Dae-ho." |
 | 53 | b2ch75:110 | "That is Choi Dae-ho." |
@@ -4194,7 +4189,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
 | 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
+| 27 | b2ch62:232 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
 | 29 | b2ch63:184 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 31 | b2ch64:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
@@ -4227,7 +4222,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:40` (Tag 22) - nine, three
 - `b2ch60:188` (Tag 25) - four
 - `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-four
+- `b2ch62:232` (Tag 27) - eleven, twenty-four
 - `b2ch63:58` (Tag 29) - four
 - `b2ch63:184` (Tag 29) - eleven, one
 - `b2ch64:90` (Tag 31) - four, nine, thirty-five
@@ -4356,7 +4351,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Bae
 
-30 Nennungen in 8 Kapiteln.
+29 Nennungen in 7 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4389,7 +4384,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch52:24 | He is not quite as old as the cook had said and not as tall as Mrs Bae's hands had sugge.. |
 | 5 | b2ch52:322 | "Yes." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and.. |
 | 8 | b2ch53:110 | "It held for four years, and it did not hold today, and those are two separate facts and.. |
-| 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
 
 ### Zahlen in der Naehe von Mrs Bae
 
@@ -4406,7 +4400,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch52:24` (Tag 5) - ten
 - `b2ch52:322` (Tag 5) - thirty
 - `b2ch53:110` (Tag 8) - forty, four, one, two
-- `b2ch68:238` (Tag 42) - one
 
 ---
 

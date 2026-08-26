@@ -1088,3 +1088,23 @@ sich selbst irren. Ueber Sachverhalte nicht mehr, ueber die eigene Lage schon.
 In 74 haelt er sich vier Tage lang faelschlich fuer die Ursache von November,
 und Annie widerlegt ihn mit einem Datum. **Diese Sorte darf bis zum letzten
 Kapitel vorkommen**, weil sie nichts mit Koennen zu tun hat.
+
+## Weg C: Kapitel 62 gibt die Form und nicht den Namen (26.08.)
+
+**Entschieden vom Autor**, nachdem beim Kuerzen ein Widerspruch aufgefallen war:
+Kapitel 62 liess Georgij am selben Abend erzaehlen, was 74, 75 und 78 als
+sechsundzwanzig Tage Schweigen behandeln. Gewaehlt wurde Weg C von dreien -
+nicht streichen, sondern **die Auskunft um eine Frage verschieben**.
+
+**Drei Regeln daraus:**
+
+1. **Annie weiss ab dem 23. August die Form und nicht den Namen.** Sie kann ihn
+   sich denken, und sie fragt nicht. Wer spaeter eine Szene zwischen dem
+   23. August und dem 18. September schreibt, schreibt eine Frau, die es
+   ausrechnen koennte und es laesst.
+2. **Woos Besuch ist Sonntag, der 23. August, und die Frist ist
+   sechsundzwanzig Tage.** Der Fliesstext sagte viermal den 24. und neunmal
+   fuenfundzwanzig; die Kopfzeile und `doc/13` hatten recht.
+3. **Der Name, die Dreiteilung und das Mittagessen gehoeren in 61 und 75 und
+   nirgendwo sonst.**
+

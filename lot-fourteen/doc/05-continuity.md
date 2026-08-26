@@ -724,11 +724,11 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** stand bis zum 23.08. auf *"He told me what that is"* und schrieb damit Woo die Mechanik zu, die Georgij eine Woche vorher **vor Annie** vorgetragen hatte. Sie war im Raum, sie haette es gewusst. Jetzt: *"He told me what it makes you"*, und Georgij sagt von sich aus dazu, wo er den Satz zuerst benutzt hat und wofuer. **Damit traegt Annies Schweigen danach etwas**, statt nur dazustehen.
 - **26, 30 und 32** sind Weitergaben an neue Zuhoerer und bleiben. **31 wurde gekuerzt**: dort trug Georgij Annie eine Formel vor, die sie seit November hat. Kapitel 32 bleibt ausdruecklich woertlich, weil Sung-ho danach fragt und weil das Versprechen aus Kapitel 14 *in those words* lautet.
 
-- **Kapitel 20** *I came back with a favour* (v1.10) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
+- **Kapitel 20** *I came back with a favour* (v1.11) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.17) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.12) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
 - **Kapitel 17** *I have never put it down* (v12.18) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
-- **Kapitel 16** *Where the walls are* (v1.20) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
+- **Kapitel 16** *Where the walls are* (v1.21) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.13) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.10) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
@@ -1548,7 +1548,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und das zweite Stueck vom Regal, und Annie zaehlt selbst mit:** der Mann, den er sucht, **besitzt an dieser Adresse ebenfalls nichts.** Keine Anteile, an keiner der zehn, nie. *"He is the reason ten companies with no staff are on the third floor of a building in Jung-gu, and there is no document anywhere in this country that says so, and there never will be, and that is what you are proposing to walk towards."*
 
-- **Band 2, Kapitel 24** *Ten minutes on a Friday* (v1.5) - **Tag 224 bis 228, Fr 15. bis Di 19. Mai.**
+- **Band 2, Kapitel 24** *Ten minutes on a Friday* (v1.6) - **Tag 224 bis 228, Fr 15. bis Di 19. Mai.**
 
   **Die schwerste Entscheidung des Bandes faellt, und sie ist Papierkram.** Ein Registerauszug, zehn Minuten, ein Formular und eine Gebuehr, *"done about four thousand times a day by clerks who are thinking about lunch"*. Und: **"He put his own name on it, because there is nobody else's he could have used."**
 
@@ -1602,7 +1602,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Dazu Georgijs einziger Rat an Yeom, und er ist ernst gemeint:** *"Do not say the rest of that out loud in this room. ... you have just told me you do not know who you did it for, and that is the only thing keeping you comfortable, and it is a great deal safer than knowing."*
 
-- **Band 2, Kapitel 26** *The third name on a list of three* (v1.6) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
+- **Band 2, Kapitel 26** *The third name on a list of three* (v1.7) - **Tag 236, Mi 27. Mai. Eine Szene, zweiter Raum einer Werfthalle bei einem Stapellauf.**
 
   **Der Grund, es im Maerz nicht zu tun, ist am 15. Mai um zwanzig nach neun in ein Registeramt gegangen.** Deshalb geht er jetzt hin. Das Korridorangebot aus Kapitel 4 wird zum ersten Mal so benutzt, wie es gemeint war, **und Sang-hoon kommt durch vierzig Leute selbst herueber**: *"There is never a corridor. It is a figure of speech and you knew what I meant in March."*
 
@@ -2741,7 +2741,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.8) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.9) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2826,7 +2826,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Annie: *"this stops being a campaign and starts being weather."*
   - Mrs Seo und Annie sprechen hier zum ersten Mal nach `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 59** *Buy her* (v1.6) - **Tag 319, Di 18. August, derselbe Tag. Die fuenfte Bitte.**
+- **Band 2, Kapitel 59** *Buy her* (v1.7) - **Tag 319, Di 18. August, derselbe Tag. Die fuenfte Bitte.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Die Zaehlung:** vier Bitten in acht Monaten (Papier, ein Raum ohne andere,
@@ -2913,7 +2913,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.11) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.13) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -3122,7 +3122,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.4) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.5) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
@@ -3160,7 +3160,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 69** *The call he did not take* (v1.5) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+- **Band 2, Kapitel 69** *The call he did not take* (v1.6) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
   auf zwei Funde des Pruefers hin.
@@ -3212,7 +3212,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     zweiunddreissig Jahre (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 70** *Nothing to bring* (v1.2) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
+- **Band 2, Kapitel 70** *Nothing to bring* (v1.3) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Die eine Sache, die er trotzdem bringt**, und er entscheidet auf dem Huegel,
@@ -3391,7 +3391,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.7) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.8) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -3476,7 +3476,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eine Notiz im Wagen. **Zwei Maenner lesen das als Abschied, und keiner von
     beiden war am siebten in dem Zimmer.**
 
-- **Band 2, Kapitel 75** *The man at the table* (v1.1) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
+- **Band 2, Kapitel 75** *The man at the table* (v1.2) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er gibt es in Woos Reihenfolge und verbessert nichts daran.** Woo als Tuer;
@@ -3641,7 +3641,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The only line out* (v1.4) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+- **Band 2, Kapitel 78** *The only line out* (v1.5) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
 
   **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
   Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst

@@ -1,5 +1,5 @@
 # Chapter 59: Buy her
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -177,7 +177,7 @@ He had asked her to do properly a thing that had been done to him badly, and he 
 
 ---
 
-She went back to the desk and sat down and pulled the pad towards her, which is what she does instead of agreeing to things out loud.
+She went back to the desk and sat down and pulled the pad towards her, and did not write on it.
 
 "Four questions," she said. "Answer them badly and I will know."
 

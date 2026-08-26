@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.206 Woerter.
+Book One, 34 Kapitel, 101.201 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -26,11 +26,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 13 | v2.10 | 2.822 |
 | 14 | v7.10 | 2.601 |
 | 15 | v2.13 | 4.225 |
-| 16 | v1.20 | 3.271 |
+| 16 | v1.21 | 3.268 |
 | 17 | v12.18 | 2.739 |
 | 18 | v2.12 | 2.957 |
 | 19 | v1.17 | 3.191 |
-| 20 | v1.10 | 2.056 |
+| 20 | v1.11 | 2.054 |
 | 21 | v1.13 | 4.099 |
 | 22 | v1.5 | 2.588 |
 | 23 | v3.9 | 2.653 |
@@ -4364,7 +4364,7 @@ She went out to her car.
 ---
 
 # Book One · Chapter 16: Where the walls are
-*Lot Fourteen* · Version 1.20 · EN
+*Lot Fourteen* · Version 1.21 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4490,7 +4490,7 @@ That one cost him more than any of the others and he did not show a second of it
 
 Hana had put it on a table herself, in a room with three people in it, and it was not his to move.
 
-He had pulled the second section on her sixteen thousand square metres the previous afternoon. The instruction had come from her, at her own table and in front of Annie, and she had not asked him what he expected to find. What was charged against that land, and who held the paper, made this refusal considerably more expensive than it would have been five days ago.
+He had pulled the second section on her ground the previous afternoon. The instruction had come from her, at her own table and in front of Annie, and she had not asked him what he expected to find. What was charged against that land, and who held the paper, made this refusal considerably more expensive than it would have been five days ago.
 
 "She does," said Sang-hoon, to nobody in particular, and ate.
 
@@ -5546,7 +5546,7 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5688,7 +5688,7 @@ Annie sat back in the chair.
 
 "Go on."
 
-"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered. I said shares, security and a veto over routes, because it is true and because he would have had it out of a filing inside a week."
+"He asked me what you take from the Kims, and he had ruled out the lorries himself before I answered. I gave him the three of them, because it is true and because he would have had it out of a filing inside a week."
 
 "And he told you what that is."
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.991 Woerter.
+Book Two, 89 Kapitel, 219.899 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -34,9 +34,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 21 | v1.9 | 2.583 |
 | 22 | v1.8 | 1.985 |
 | 23 | v1.7 | 2.011 |
-| 24 | v1.5 | 2.035 |
+| 24 | v1.6 | 2.033 |
 | 25 | v1.5 | 2.099 |
-| 26 | v1.6 | 1.995 |
+| 26 | v1.7 | 1.995 |
 | 27 | v1.7 | 1.997 |
 | 28 | v1.8 | 2.444 |
 | 29 | v1.8 | 2.608 |
@@ -67,28 +67,28 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 54 | v1.4 | 2.824 |
 | 55 | v1.3 | 2.042 |
 | 56 | v1.8 | 2.653 |
-| 57 | v1.8 | 2.938 |
+| 57 | v1.9 | 2.942 |
 | 58 | v1.7 | 2.336 |
-| 59 | v1.6 | 2.180 |
+| 59 | v1.7 | 2.174 |
 | 60 | v1.4 | 2.442 |
 | 61 | v1.8 | 2.338 |
-| 62 | v1.11 | 2.504 |
+| 62 | v1.13 | 2.429 |
 | 63 | v1.9 | 2.145 |
 | 64 | v1.9 | 2.279 |
 | 65 | v1.7 | 2.128 |
 | 66 | v1.4 | 2.096 |
 | 67 | v1.11 | 2.560 |
-| 68 | v1.4 | 2.448 |
-| 69 | v1.5 | 2.947 |
-| 70 | v1.2 | 2.278 |
+| 68 | v1.5 | 2.442 |
+| 69 | v1.6 | 2.942 |
+| 70 | v1.3 | 2.276 |
 | 71 | v1.4 | 3.649 |
 | 72 | v1.5 | 2.302 |
 | 73 | v1.2 | 2.168 |
-| 74 | v1.7 | 3.557 |
-| 75 | v1.1 | 2.539 |
+| 74 | v1.8 | 3.557 |
+| 75 | v1.2 | 2.539 |
 | 76 | v1.1 | 2.006 |
 | 77 | v1.3 | 2.317 |
-| 78 | v1.4 | 4.048 |
+| 78 | v1.5 | 4.048 |
 | 80 | v1.2 | 2.060 |
 | 81 | v1.4 | 2.588 |
 | 82 | v1.3 | 2.448 |
@@ -5069,13 +5069,13 @@ She was naming the price before she paid it, which is the rule she had put on hi
 ---
 
 # Book Two · Chapter 24: Ten minutes on a Friday
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Twenty-Four · Friday 15 May
 
 He did it at twenty past nine on the Friday morning, at the desk with the east window, and it took ten minutes.
 
-There was nobody in the room. Nobody had put a ceiling on it, nobody was going to audit it, and there was no room he had to walk into afterwards and say what it had cost.
+There was nobody in the room, and there was still no ceiling on it and nobody to audit it, and no room he had to walk into afterwards and say what it had cost.
 
 That is what Annie meant on the thirtieth of April and he had not understood the size of it until he was doing it.
 
@@ -5457,7 +5457,7 @@ Both of those are facts. Only one of them is a fact about Georgij, and he does n
 ---
 
 # Book Two · Chapter 26: The third name on a list of three
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Two Hundred and Thirty-Six · Wednesday 27 May
 
@@ -5487,7 +5487,7 @@ Sang-hoon came over himself, through about forty people, and two of them tried t
 
 He gave the nine lines.
 
-About sixty or a little less. Not tall. Pleasant, quiet, the sort of man who has been in rooms. Sits on nothing, is in no report, gives dinners. Is introduced in a way that does not carry a name. Arranges two people into a room and goes home.
+About sixty or a little less. Not tall. Pleasant and quiet, and the description has not moved since August. Sits on nothing, is in no report, gives dinners. Is introduced in a way that does not carry a name. Arranges two people into a room and goes home.
 
 He did not give the ninth one yet.
 
@@ -12228,7 +12228,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 57: Nobody paid
-*Lot Fourteen* · Version 1.8 · EN
+*Lot Fourteen* · Version 1.9 · EN
 
 ## Day Three Hundred and Eighteen · Monday 17 August
 
@@ -12252,7 +12252,7 @@ Chairman Woo came out to the car himself, which is the third time.
 
 * * *
 
-The office at the end of the shed has the sea on three sides of it. There is one photograph on the wall and it is of fourteen metres of concrete that is not there.
+The office at the end of the shed has not changed and does not look as though it ever will. There is one photograph on the wall and it is of fourteen metres of concrete that is not there.
 
 Georgij did not sit down.
 
@@ -12654,7 +12654,7 @@ Then he knocked.
 ---
 
 # Book Two · Chapter 59: Buy her
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -12788,7 +12788,7 @@ Annie was quiet for a moment.
 
 He had asked her to do properly a thing that had been done to him badly, and he had not noticed that was what he was doing.
 
-She went back to the desk and sat down and pulled the pad towards her, which is what she does instead of agreeing to things out loud.
+She went back to the desk and sat down and pulled the pad towards her, and did not write on it.
 
 "Four questions," she said. "Answer them badly and I will know."
 
@@ -13249,7 +13249,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13293,25 +13293,19 @@ He did not stop at the end of that part and did not look for permission to go on
 
 Annie did not move at all.
 
-"Say the name," she said.
+There is one more thing in it and they both knew where it was. It sits on the other side of a single question, and the question is four words long, and a person asks it or does not ask it inside about a second.
 
-"Your father."
-
-The room did nothing whatsoever.
+She did not ask it.
 
 She did not stand up, and she did not look away, and she did not do the thing with the ring on the wrong hand that she does when a number is bad.
 
-"How much of that is Woo," she said.
+"He would not say it in this house with me in the room," she said.
 
-"He divided it himself, without being asked, and he divided it three ways. The clerk had four words on a corridor, which are outside the service and Incheon. The judgement is Woo's own, out of thirty-one years and a lunch in the spring of that year. And the third part is that he would not say it in your house with you in the room, and he told me that was the reason."
+"No. He told me that was the reason he came, and he said it in those words."
 
 "That is exactly what he would do."
 
 "Yes."
-
-"And the lunch."
-
-"Your father told him he had spent forty years being right about people in four seconds and had found a man who could do it in one. He did not give a name. Woo did not ask for one, because in the spring of two thousand and two there was no reason on earth to ask."
 
 Annie sat with that.
 
@@ -13417,7 +13411,7 @@ She stopped there and did not go straight on.
 
 "I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in five months. I had twenty-four years and a chair at it."
 
-Somewhere below them a door was shut carefully by somebody who did not want to be heard shutting it.
+Somewhere below them a door was shut, and it was the second time that evening.
 
 "May I say the part you are not going to like," said Georgij.
 
@@ -14551,7 +14545,7 @@ Georgij sat in a car in Mapo with a notebook shut on his knee, and did not write
 ---
 
 # Book Two · Chapter 68: What he was for
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Thirty-Nine · Monday 7 September
 
@@ -14751,7 +14745,7 @@ Sim stood up, which he had not done, and put one hand on the back of his own cha
 
 "Then it was worth building."
 
-"It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "The fourteenth is a Monday. I will telephone you afterwards, and I will do it from a box and not from this room, because after the fourteenth I would like there to be one thing I have done that nobody arranged."
+"It was worth building." Sim almost smiled at him, and it was the second time and not the front desk one. "The fourteenth is a Monday. I will telephone you afterwards, and I will do it from a box and not from this room, because after the fourteenth I would like there to be one thing I have done that nobody arranged."
 
 * * *
 
@@ -14774,7 +14768,7 @@ He sat with the pen in his hand for a while.
 ---
 
 # Book Two · Chapter 69: The call he did not take
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Forty-One · Wednesday 9 September
 
@@ -14792,7 +14786,7 @@ Mrs Seo found him in the small room at half past eight on the Wednesday with the
 
 * * *
 
-Mr Kwon has nine trucks and no debt and a yard with a concrete apron that was laid properly.
+Mr Kwon still has the nine trucks and the apron that was laid properly.
 
 He was standing by the car with his hands at his sides and he did not put one out.
 
@@ -15053,7 +15047,7 @@ Georgij stood in her room for a while.
 ---
 
 # Book Two · Chapter 70: Nothing to bring
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Forty-Two · Thursday 10 September
 
@@ -15183,7 +15177,7 @@ Georgij sat down on the stool at the end of the bench, which put him lower than 
 
 "What you mean."
 
-"You want me to ask you something so you've got a job." Mr Ahn almost got something out that was not quite a laugh. "You've been in here eleven minutes and you've been looking for one since the door. There isn't one. That's what the woman meant."
+"You want me to ask you something so you've got a job." Mr Ahn looked at the ceiling of his own shop. "You've been in here eleven minutes and you've been looking for one since the door. There isn't one. That's what the woman meant."
 
 The compressor came on behind the wall and ran and stopped.
 
@@ -16357,7 +16351,7 @@ He wrote that in the car and drove back with the windows down, and he did not de
 ---
 
 # Book Two · Chapter 74: Forty-one seconds
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Forty-Eight · Wednesday 16 September
 
@@ -16761,11 +16755,11 @@ The house did the things a house does at ten in the morning.
 
 * * *
 
-"Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that was the twenty-fourth of August, and you came down those stairs afterwards and you have been faultless for twenty-five days."
+"Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that was the twenty-third of August, and you came down those stairs afterwards and you have been faultless for twenty-six days."
 
 Georgij said nothing at all.
 
-"I have left it alone for seven years and I left it alone for twenty-five days," she said, "and I would have gone on leaving it alone, and now I have to price a man."
+"I have left it alone for seven years and I left it alone for twenty-six days," she said, "and I would have gone on leaving it alone, and now I have to price a man."
 
 * * *
 
@@ -16776,7 +16770,7 @@ She stood up.
 ---
 
 # Book Two · Chapter 75: The man at the table
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Fifty · Friday 18 September
 
@@ -16898,7 +16892,7 @@ Georgij did not answer straight away.
 
 Annie went round the desk and stood at the window with her back to the room.
 
-"The twenty-fourth of August," she said.
+"The twenty-third of August," she said.
 
 "Yes."
 
@@ -16928,7 +16922,7 @@ Georgij did not take any time over it at all.
 
 Annie turned round.
 
-"Then here is the thing I am going to say once and not again," she said. "You waited for me to be ready. That is a kindness, and it was one, and I know exactly what it cost you to hold it for twenty-five days."
+"Then here is the thing I am going to say once and not again," she said. "You waited for me to be ready. That is a kindness, and it was one, and I know exactly what it cost you to hold it for twenty-six days."
 
 "Yes, Mistress."
 
@@ -17058,7 +17052,7 @@ Annie put the pen down across the top of the first letter.
 
 "Say it."
 
-"You have had it since the twenty-fourth of August and you have not said it in the last twenty minutes. It is the only unkind sentence in the whole of this, and I would rather have it from you than find it at four in the morning."
+"You have had it since the twenty-third of August and you have not said it in the last twenty minutes. It is the only unkind sentence in the whole of this, and I would rather have it from you than find it at four in the morning."
 
 Georgij did not look away from her.
 
@@ -17094,7 +17088,7 @@ He stopped at the door.
 
 * * *
 
-"The twenty-five days were not the wrong decision," she said. "They were the wrong decision made kindly, and I have watched a man make one of those before, at that table, when I was fourteen, and I did not know what I was looking at either."
+"The twenty-six days were not the wrong decision," she said. "They were the wrong decision made kindly, and I have watched a man make one of those before, at that table, when I was fourteen, and I did not know what I was looking at either."
 
 "No."
 
@@ -17511,7 +17505,7 @@ He took it up at twenty past nine and Annie read the four lines twice and put th
 ---
 
 # Book Two · Chapter 78: The only line out
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Sixty-Three · Thursday 1 October
 
@@ -17707,7 +17701,7 @@ He waited until she was in a chair and then sat down himself, slowly, and put bo
 
 "I am at my best for about an hour," he said, "and then I am not."
 
-"On the twenty-fourth of August you came to my house on a Sunday and asked me to leave my own study," said Annie. "You were in there for about fifty minutes with a man who belongs to me. When you had gone he came down the stairs and was faultless for twenty-five days."
+"On the twenty-third of August you came to my house on a Sunday and asked me to leave my own study," said Annie. "You were in there for about fifty minutes with a man who belongs to me. When you had gone he came down the stairs and was faultless for twenty-six days."
 
 Woo did not move at all.
 
@@ -17749,7 +17743,7 @@ Annie did not defend it.
 
 "Neither of us decided anything on the eighteenth. He answered a question I asked."
 
-"That is not what I asked you." Woo turned his head. "Somebody decided in the twenty-five days before that, because somebody did, and I gave him the terms myself and I would like to hear what he did with them."
+"That is not what I asked you." Woo turned his head. "Somebody decided in the twenty-six days before that, because somebody did, and I gave him the terms myself and I would like to hear what he did with them."
 
 Georgij was standing by the window because nobody had told him to sit.
 
@@ -17759,9 +17753,9 @@ Georgij was standing by the window because nobody had told him to sit.
 
 "You have as long as it takes, and do not be modest about the arithmetic."
 
-"You told me on the twenty-fourth that I had until she asked, and that it was not long, and that I was going to spend it deciding what sort of man I was and not what to say." Georgij did not look away from him. "I decided that I would answer the first question she put to me that touched it and that I would not raise it myself. Then I did not raise it for twenty-five days, and I knew by about the fourth what that was, and I went on doing it."
+"You told me on the twenty-third that I had until she asked, and that it was not long, and that I was going to spend it deciding what sort of man I was and not what to say." Georgij did not look away from him. "I decided that I would answer the first question she put to me that touched it and that I would not raise it myself. Then I did not raise it for twenty-six days, and I knew by about the fourth what that was, and I went on doing it."
 
-"It has a name and you have had twenty-five days to find it."
+"It has a name and you have had twenty-six days to find it."
 
 "It was me choosing the morning."
 
@@ -17877,7 +17871,7 @@ Annie looked out of the window for a while.
 
 "Mistress."
 
-"He was right about the twenty-five days and I have not said so, and I am not going to say it twice." She did not turn her head. "I have been doing the same thing to you since the second of March and I did it for six months longer than you did it to me."
+"He was right about the twenty-six days and I have not said so, and I am not going to say it twice." She did not turn her head. "I have been doing the same thing to you since the second of March and I did it for six months longer than you did it to me."
 
 ---
 

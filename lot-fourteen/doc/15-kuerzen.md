@@ -814,3 +814,90 @@ python3 werkzeug/doppelt.py --ketten
 python3 werkzeug/doppelt.py --schwelle 0.62
 ```
 
+---
+
+## Ausgeführt am 26.08.: Auftrag 3, und ein Fund, der größer war als der Auftrag
+
+### Der Fund: Kapitel 62 hat Kapitel 74, 75 und 78 unmöglich gemacht
+
+Beim Nachsehen des Nests `b2 61 / 62 / 75` stellte sich heraus, dass es kein
+Redundanzproblem war, sondern ein Widerspruch:
+
+- **Kapitel 61**, Tag 324, Sonntag 23. August: Woo erzählt es Georgij.
+  *"Then you have until she asks."*
+- **Kapitel 62**, **derselbe Tag**: *"He gave it until six."* Er ging hinauf und
+  erzählte ihr alles, einschließlich *"Say the name." / "Your father."*
+- **Kapitel 74, 75, 78** stehen auf fünfundzwanzig Tagen Schweigen und darauf,
+  dass sie es am 18. September zum ersten Mal hört.
+
+**Sie wusste es seit dem 23. August.** Und Kapitel 75 war damit eine
+Wiederholung von 62, mit zwei Satzpaaren bei Überlappung 1.00.
+
+Dazu ein Datumsfehler: die Kopfzeile von 61 sagt **Sonntag, 23. August**, und
+der Fließtext sagte viermal **den 24.** und neunmal **fünfundzwanzig Tage**.
+`doc/13-zusagen.md` hatte es die ganze Zeit richtig: **sechsundzwanzig**.
+Genau die Fehlerklasse aus `CLAUDE.md` - die Datumszeilen werden geprüft und
+stimmen, die Zahlen im Fließtext werden nicht geprüft und driften.
+
+### Weg C, vom Autor gewählt: die Auskunft wird um eine Frage verschoben
+
+**Nichts wird gestrichen.** In Kapitel 62 gibt Georgij ihr den Staatsanwalt, die
+elf Tage und den Mann aus der Schifffahrt in Incheon, der keinen Vertrag lesen
+konnte. Danach steht genau eine Frage im Raum:
+
+> There is one more thing in it and they both knew where it was. It sits on the
+> other side of a single question, and the question is four words long, and a
+> person asks it or does not ask it inside about a second.
+>
+> **She did not ask it.**
+
+Das ist stärker als die alte Fassung, weil es aus Kapitel 74 einen wahren Satz
+macht: *"I have left it alone for seven years and I left it alone for
+twenty-six days."* Der Name, die Dreiteilung und das Mittagessen stehen jetzt
+nur noch in 61 und 75.
+
+### Was sonst gekürzt wurde
+
+| Nest | vorher | jetzt |
+|---|---|---|
+| *corporate services company in Jung-gu with six employees* | viermal ausgeschrieben | einmal, danach *the company in Jung-gu* |
+| *sixteen thousand square metres* | viermal | zweimal, danach *her ground* |
+| Woos Erklärung des Routen-Vetos | in K19 und wörtlich noch einmal in K20 | einmal, K20 sagt nur noch, **dass es dieselben Wörter sind** |
+| *shares, security and a veto over routes* | viermal | dreimal, K20 sagt *the three of them* |
+| Das Büro am Ende des Schuppens mit der See auf drei Seiten | dreimal wörtlich | zweimal |
+| Mr Ahns *not quite a laugh* | dreimal | zweimal, und K73 ruft K63 mit bestimmtem Artikel zurück |
+
+**Der Stahl unter dem Kragen wird nicht gekürzt, sondern differenziert.** Er ist
+das zentrale Bild des Buches, aber drei der vier Nennungen sagten wörtlich *"sat
+where it always sat"* und entwerteten die vierte, die etwas tut. K16 führt ein,
+K22 lässt ihn arbeiten, K21 hat ihn jetzt warm, und K24 ist die Umkehrung von
+K22: **er tut nichts, und Georgij merkt es.**
+
+Dazu sechs wörtliche Paare bei Überlappung 1.00, die keine Rückrufe waren: die
+zugeschlagene Tür, die Decke, die Beschreibung Chois, Sims Lächeln, der Block
+auf dem Schreibtisch und Mr Kwons Hof.
+
+**Die Trennung, nach der entschieden wurde:** ein Rückruf sagt, dass er einer
+ist. Sims Lächeln in K68 nennt Mrs Baes Empfangstheke, damit der Leser sich
+erinnert. Die Tür in K62 nannte nichts und stand einfach zweimal da.
+
+### Was stehen bleibt, und warum
+
+`doppelt.py --nester` fällt von **13 auf 6**, `--schwelle 0.95` von **26 Paaren
+auf 21**. Was übrig ist, ist geprüfte Absicht:
+
+- **Das Steinbord mit der flachen Schale** (b1 05, 15, 17, 22, 25). Fünf Kapitel,
+  und jedes Mal liegt etwas anderes daneben oder eben nicht.
+- **Drei Türen an einem Korridor, ein Schild an keiner** (b2 64, 68, 74, 89).
+  K89 sagt selbst *"for the last time in this book"*.
+- **Das Lächeln, das eine Viertelsekunde zu spät ankommt** (b1 07, b1 17, b2 37).
+- **Der Auktionsraum drei Stockwerke unter dem leeren Einkaufszentrum**
+  (b1 01, b1 13, b2 56).
+- **Der Teppich neben dem Schreibtisch** (b2 71, b2 90), Nähe-Register B.
+- **Der Mann im Dachraum mit der Taschenlampe** (b2 77, 81, 83). Der einzige
+  Grenzfall: drei Erzählungen an drei verschiedene Zuhörer, von denen jeder die
+  Tatsache braucht. **Das ist die Form, in der dieses Buch Wissen weitergibt**,
+  und wer sie streicht, streicht das Verfahren und nicht die Wiederholung.
+- **Woos Bericht in K61 gegen Georgijs Wiedergabe in K75**, weil der Text dort
+  ausdrücklich sagt *"I am not going to improve any of it"*.
+
