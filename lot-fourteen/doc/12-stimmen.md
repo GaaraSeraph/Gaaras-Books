@@ -3111,7 +3111,7 @@ was zitiert werden kann.
 
 1. **Er bekommt bis zum Endgespräch keine einzige Replik.** Keine Rückblende, kein
    Telefonat, kein wiedergegebener Satz aus zweiter Hand, der als Zitat gebaut
-   ist. Wer ihm vorher eine Zeile gibt, gibt neunundneunzig Kapitel Aufbau her.
+   ist. Wer ihm vorher eine Zeile gibt, gibt 116 Kapitel Aufbau her.
 2. **Und wenn er dann spricht, muss die Stimme bereits im Buch sein.** Sie steht
    da, in fremden Mündern, und ist über vier Bände Fundstellen konsistent:
 

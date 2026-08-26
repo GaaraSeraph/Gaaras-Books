@@ -4345,29 +4345,50 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
 
 **Georgij ist an beiden Enden des Buches sechsundzwanzig:**
 
-  - **NEU am 26.08.: die neun Anrufe.** Zwischen dem 9. und dem 19. November
-    telefoniert **Annie** neunmal aus dem kleinen Zimmer, um vier Uhr
-    nachmittags, und sagt es ihm nicht. Sie erzaehlt jedem Einzelnen, **was ihm
-    angetan wurde**, und verlangt nichts dafuer. Sang-hoon zuerst, wegen der
-    vier Entscheidungen an Chois Tischen, die er nie hat erklaeren koennen;
-    dann Woo, Mr Yeom, Mr Hwang, Baek Jun-ho und vier, die im Buch nicht
-    vorkommen, zwei davon im Ministerium.
-  - **Das Verfahren ist Georgijs eigenes aus Kapitel 36**, wo es seit Mai
-    unbenutzt stand: *"I go to them one at a time and I tell them what was done
-    to them. I do not accuse him of anything."* Annie benennt das auch:
-    *"I did not invent it. You did it to a man in a yard in Gimpo in March and
-    to a man with three flatbeds in September."*
-  - **Warum sie und nicht er:** Regel 2. Er besitzt nichts, hat kein Telefon
-    und keinen Namen. Sie hat den Stand.
-  - **Sein gebrochenes Versprechen bleibt gebrochen.** *"You did not have him
-    and you are not going to."* Der VERFALLEN-Eintrag in `doc/13` steht
-    unveraendert. Was danach mit Choi geschieht, gehoert neun anderen Leuten.
+  - **NEU am 26.08.: die neun Anrufe, und sie sind seine.** Zwischen dem 9. und
+    dem 19. November telefoniert **Georgij** neunmal, aus dem Gang hinter der
+    Kueche, nachmittags, und sagt ihr am Vorabend jeweils, wer als naechstes
+    dran ist. Er erzaehlt jedem Einzelnen, **was ihm angetan wurde**, und
+    verlangt nichts dafuer. Sang-hoon zuerst, wegen der vier Entscheidungen an
+    Chois Tischen, die er nie hat erklaeren koennen; dann Woo, Mr Yeom,
+    Mr Hwang, Baek Jun-ho und vier, die im Buch nicht vorkommen, zwei davon im
+    Ministerium.
+  - **Regel 2 steht dem nicht entgegen.** Sie sagt, dass er nichts besitzt,
+    nicht dass er nichts tun kann. Der Apparat im Gang gehoert ihm nicht und
+    muss es auch nicht; er benutzt ihn seit Band 1, Kapitel 21.
+  - **Das Verfahren ist sein eigenes aus Kapitel 36**, wo es seit Mai unbenutzt
+    stand: *"I go to them one at a time and I tell them what was done to them.
+    I do not accuse him of anything, because he has never once claimed
+    anything."* **Damit ist es zugleich die groesste Heft-Entnahme des Buches**
+    - ein Plan, im Mai abgelegt und im November geholt.
+  - **DAS VERSPRECHEN VOM 23. APRIL IST GEHALTEN.** In K88 dreht er die
+    Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts
+    **abzunehmen**, und Annies Einwand bleibt richtig. **Wegzunehmen** sind ihm
+    die neun Leute, die nicht wissen, was er ihnen angetan hat. Auf ihre Frage
+    am 20. November: *"I have had him."* Der Eintrag in `doc/13` steht auf
+    **BEZAHLT**, und das Buch hat damit **keine gebrochene Zusage mehr**.
   - **Choi erfaehrt in keinem Gespraech, wer davon weiss.** Seine einzige Szene
     ist der 6. November, die Anrufe fangen am neunten an. *"He will not know
-    that there is a where."*
-  - **Und Annie nennt es beim Namen:** *"That is the only cruel thing I have
-    done this year. I would like it said out loud in this room that I know it
-    is. In about a month I will have stopped noticing."*
+    that there is a where."* Ausdrueckliche Vorgabe des Autors.
+  - **Und Annie nennt es beim Namen:** *"That is the cruellest thing anybody in
+    this house has done this year, and I want it said out loud in this room
+    that both of us know it is."*
+  - **Die Wiedererkennung am Schluss:** es ist derselbe Zug wie am 4. Oktober
+    des Vorjahres auf der Rampe. *"The only difference is that in October I did
+    not know I was doing it."*
+  - **Mr Byun, und die Regel dahinter** (`doc/04`): vier Zahlungen, drei
+    Kaeufer, und **Annie ist eine der drei**. Sie hat zweimal fuer das
+    Streichen zweier Zeilen bezahlt und er hat beide Male genommen und nichts
+    gestrichen. Seit Mai nimmt sie saemtliche ehemaligen Angestellten des
+    Hauses auf, **ausser einem**, und Byun ist seit Mai nicht gesehen worden.
+    **Der Text sagt nicht, was geschehen ist**, und der Satz, der es fuer den
+    Leser schliesst, ist die einzige Stelle im Buch, an der das Heft mit
+    Absicht leer bleibt.
+  - **Mr Hwangs Angebot im Oktober** loest den Satz aus B2 21 vom 4. Mai ein:
+    *"You are going to be given work by somebody eventually and it is going to
+    be beneath you."* Er hat nicht geantwortet und es ist nicht zurueckgezogen.
+  - **Offener Faden, mit Absicht:** Annie hat **zwei** Lose in dem Haus gekauft.
+    Das erste ist Georgij. Das zweite wird nirgends genannt. Siehe `doc/07`.
 
 - **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
 - ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text

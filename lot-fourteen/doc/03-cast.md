@@ -41,7 +41,7 @@ die beim Planen zaehlt.
 
 | Figur | Was | Auftritt | Stand |
 |---|---|---|---|
-| **Choi Dae-ho** | Neunundfuenfzig. Ehemaliger Staatsanwalt, sitzt in nichts, gibt Abendessen | B1 13 | **Das Ziel des Bandes** |
+| **Choi Dae-ho** | Neunundfuenfzig. Ehemaliger Staatsanwalt, sitzt in nichts, gibt Abendessen | B1 13 | **Erledigt.** B2 88 und 90: neun Anrufe, und er ueberlebt das Ende nicht |
 | **Nam Byung-hee** | Vier Lastwagen und ein Neffe | B2 13 | Offen und faellig |
 | **Kang Ji-hoon** | Ministerium | B1 10 | Ruht |
 | **Kim Do-yun** | Gesicht, das nichts tut | B1 31 | Ruht |
@@ -66,7 +66,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
 | **Mr Tak** | Seit Ende August im Haus in Gangwon-do, der erste neue Wachmann in vier Jahren | B2 72 (nur berichtet) | Gibt seinen Nachnamen ungefragt her und nennt sie *"the lady"* |
 | **Mrs Jeon Mi-ja** | Einundfuenfzig, dreiundzwanzig Jahre Abrechnung, seit dem 12. Mai draussen | B2 6 | **Ab 1. Oktober in Gwangyang, und im Maerz liest sie Ahn Jung-hee die erste Stunde vor (B2 71)** |
-| **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | Erledigt seit Mai |
+| **Mr Byun** | Sechsundzwanzig Jahre im Haus. *"I did what was done."* | B2 22 | **Seit Mai nicht mehr gesehen.** B2 90, und der Text sagt nicht mehr als das |
 | **Mrs Bae** | Zweiundzwanzig Jahre am Empfang, fuehrt das Buch mit Bleistift. **Nicht Bae aus Band 1** | B2 41 | Gegeben, was sie hatte |
 | **Mr Sohn** | Kocht ohne Schild fuer Stammgaeste. Hat im August ein Essen abgesagt, zu dem er neun Jahre ging | B2 39 | **Wirkung des Feldzugs, sichtbar** |
 | **Mrs Gwak** | Blumenladen in Hyoja-dong, fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
@@ -271,7 +271,7 @@ Ihre Formel für Hanseong: die Korrupten sind das Skalpell, die Loyalisten sind 
 ---
 
 **Familie Lee** - Der lose Faden. Schuldner, verwundbar, ausgenutzt. Annie hält ihre Schulden. Sang-hoon schnüffelt seit Monaten um ihr Land herum.
-*Vorschlag - und **in neunundneunzig Kapiteln nie benutzt**, nachgesehen am 25.08. Der Name kommt in keinem einzigen Kapitel vor. Entweder er wird gebraucht oder er faellt.*
+*Vorschlag - und **in allen 116 Kapiteln nie benutzt**, nachgesehen am 25.08. Der Name kommt in keinem einzigen Kapitel vor. Entweder er wird gebraucht oder er faellt.*
 
 **Kim Ye-rin** - Vierundfünfzig. Kein Sitz in einem Gremium, keine Unterschrift unter einer Meldung, kein Titel in irgendeinem Dokument. Ihr Bruder hat den Titel, sie hat die Familie. In sechzehn von dreiundzwanzig Aufnahmen der Gala steht sie so, dass sie die Türen sieht, und in vier Minuten sagt sie kein Wort, während sich zweimal jemand nach ihr umsieht, bevor er weiterredet, ohne es zu merken.
 **Zeitspannen, vereinheitlicht am 22.08.** Hana kennt sie seit **zwanzig Jahren** und hat sie in dieser Zeit **vierzehnmal** eingeladen; **zweimal** ist sie gekommen, und beide Male hatte Hana etwas in der Hand, das den Abend wert war. Nicht verwechseln: Die **zwoelf** Jahre gehoeren **Annie** (Kapitel 9 und 28), nicht Ye-rin. In Kapitel 27 und 28 standen zwischenzeitlich zwoelf, zwanzig und vierundzwanzig Jahre nebeneinander, dazu ein *since you were both thirty-four*, das siebzehn ergaebe und ausserdem falsch ist, weil die beiden drei Jahre auseinander sind.
@@ -315,12 +315,12 @@ Leute weitergibt.
 *Kanon. Band 1, Kapitel 14, 15, 16, 26, 29 bis 33.* Der Absatz zum Namen bleibt Autorennotiz.
 
 **Minister Min-ho** - Der Preis. Käuflich und wird bereits umworben. Sein Büro ist über Choi mit Sang-hoons Betrieb verbunden.
-*Kanon, aber duenn: **ein einziger Auftritt**, Band 1, Kapitel 9, auf der Terrasse. Seither in neunzig Kapiteln nicht mehr.*
+*Kanon, aber duenn: **ein einziger Auftritt**, Band 1, Kapitel 9, auf der Terrasse. Seither in den uebrigen 115 Kapiteln nicht mehr.*
 
 **Kang Ji-hoon** - Beamter mittlerer Ebene, Ministerium für Land, Infrastruktur und Verkehr. Hat letztes Jahr die Umwidmung des Incheon-Lagerhauses gezeichnet. Sanft, geübt, misst statt zuzuhören. Prinzip: Man baut die Mauer, bevor sich der erste Stein bewegt. Mag Neugier mehr als Bescheidenheit. Spielt beide Seiten.
 *Kanon. Band 1, Kapitel 9, 10, 11, 21, 29 und 31.*
 
-Die schwarze Karte: Donnerstag, Shilla, neun Uhr. *Vorschlag, und in neunundneunzig Kapiteln nie benutzt - das Shilla kommt nirgends vor.*
+Die schwarze Karte: Donnerstag, Shilla, neun Uhr. *Vorschlag, und in allen 116 Kapiteln nie benutzt - das Shilla kommt nirgends vor.*
 
 **Choi Dae-ho** - Der Fixer, die Bruecke. **Und ab Band 2 der Gegner dahinter,
 weil er Georgijs Spiegel ist.** Ueber Georgij steht in `doc/07-next.md`: *"Er

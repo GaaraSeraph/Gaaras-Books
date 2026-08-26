@@ -97,6 +97,13 @@ und die alte Fassung nicht gelöscht hat.
 
 ## Band 2, Kapitel 1 bis 60
 
+> **Hinweis vom 26.08.:** acht Kapitel dieses Bandes sind seither zusammengelegt
+> oder aufgeloest worden, und ihre Zeilen sind unten mit einem Vermerk
+> versehen. **Die Bewertungen selbst bleiben gueltig** - was ein Kapitel
+> traegt, traegt es auch als zweite Haelfte eines anderen. Nur die Datei gibt
+> es nicht mehr. Die freien Nummern stehen in `werkzeug/build.py` unter
+> `GESTRICHEN`.
+
 *Nachgetragen am 26.08. Alle sechzig Kapitel wurden in der hoechsten Fassung
 gelesen, nicht nur `doc/05` referiert; der Pruefumfang steht unten. Jedes Urteil
 ausser HALTEN ist von einem zweiten Durchgang angegriffen worden, der beweisen
@@ -120,7 +127,7 @@ auf HALTEN korrigiert worden.**
 | **13** | *What it costs him* | **Tragend.** Der Ursprung des ganzen Choi-Fadens: das Hafenbehoerden-Essen im Januar, die fuenf Namen am Wagen und der Schluss auf der Bruecke, dass er nicht jemanden suchte, dem etwas angetan worden war | HALTEN |
 | **14** | *Ask her* | **Tragend.** Erstauftritt Mr Kwon und Mr Kus einziger echter Auftritt im Buch (`doc/12-stimmen.md`: eine einzige Replik, *"No"*, und die Erzaehlung ueber Gimhae, die in 20 zurueckkommt) | HALTEN |
 | **15** | *One word, and it was true* | **Tragend.** Nams *"She said yes"* und *"She said no"* in eineinhalb Sekunden, Kwons Aussenbeleg fuer ihre Ehrlichkeit (*"She does not lie | HALTEN |
-| **16** | *A hand* | **Tragend.** Naehe-Register A 5 (*"which is where he sits"*, doc/10-naehe.md fuehrt B2 17 namentlich), Mr Oks Erstauftritt und einziger Steckbrief (*"He is fifty-six"*, elf Angestellte, seit 2003 im Haus | HALTEN |
+| **16** *(aufgeloest, zwei Absaetze in 17)* | *A hand* | **Tragend.** Naehe-Register A 5 (*"which is where he sits"*, doc/10-naehe.md fuehrt B2 17 namentlich), Mr Oks Erstauftritt und einziger Steckbrief (*"He is fifty-six"*, elf Angestellte, seit 2003 im Haus | HALTEN |
 | **17** | *Four minutes of somebody's time* | **Tragend.** Mr Oks und Mrs Uhms einziger Auftritt im ganzen Buch und der bisher einzige Augenzeuge des Versenders, mit Chois Signatur (*"he was glad we had finally met"* | HALTEN |
 | **18** | *The face on it* | **Tragend.** Drei Naehe-Register an einem Abend (A 6, die Ausnahme, an der er nicht runtergeht; C 6 | HALTEN |
 | **19** | *The third time* | **Tragend.** Die einzige offene Zusage des Blocks (*"I am going to have him before the end of the year"*, Schuldbuch B2 19) | HALTEN |
@@ -131,14 +138,14 @@ auf HALTEN korrigiert worden.**
 | **24** | *Ten minutes on a Friday* | **Tragend.** Erstauftritt Mr Yeom (als Stimme am Telefon), die groesste Entscheidung des Bandes als zehn Minuten Papierkram mit dem eigenen Namen auf dem Formular und damit die Einloesung von Annies Lektion vom | HALTEN |
 | **25** | *Four people who could see us* | **Tragend.** Yeom isst und ist damit als Einziger ausgeschlossen, er hat die vierte Gebuehr selbst bezahlt und begruendet das Nichtfragen als Arithmetik statt als Feigheit | HALTEN |
 | **26** | *The third name on a list of three* | **Tragend.** Der Name Choi Dae-ho faellt zum ersten Mal in Band 2 und wird ungefragt hergegeben, Sang-hoons Befund aus acht Jahren (*"And I have never once seen him put anything in his mouth."*) | HALTEN |
-| **27** | *What he collects* | **Tragend.** Naehe-Register A 7 und B 3 (sie schickt ihn in den Sessel, spaeter die Hand im Haar), dazu der Satz, um den das Buch gebaut ist (*"He collects."*) | HALTEN |
+| **27** *(jetzt zweite Haelfte von 26)* | *What he collects* | **Tragend.** Naehe-Register A 7 und B 3 (sie schickt ihn in den Sessel, spaeter die Hand im Haar), dazu der Satz, um den das Buch gebaut ist (*"He collects."*) | HALTEN |
 | **28** | *He keeps everything* | Tragend. Hwangs einzige Bitte wird hier und nur hier gegeben ('I would like there to be a piece of paper somewhere in the world that says she did.') und Kapitel 81 bezahlt sie unter Nennung genau dieses Datums | HALTEN |
 | **29** | *The rest of what I know* | **Tragend.** Das Heft wird aufgeschlagen und gibt Los sechs her samt der vier Posten, die dagegen abgerechnet haben (Blumen zweimal, ein Fahrer, und ein Arzt im Juli) | HALTEN |
-| **30** | *A person with nothing* | **Tragend.** Drei Naehe-Register-Zeilen auf einmal (A 8, B 4, C 7) samt der ersten Stelle in zwei Baenden, an der er in ihrer Gegenwart etwas nicht kontrolliert und einschlaeft | HALTEN |
+| **30** *(jetzt zweite Haelfte von 29)* | *A person with nothing* | **Tragend.** Drei Naehe-Register-Zeilen auf einmal (A 8, B 4, C 7) samt der ersten Stelle in zwei Baenden, an der er in ihrer Gegenwart etwas nicht kontrolliert und einschlaeft | HALTEN |
 | **31** | *Nobody hides flowers* | **Tragend.** Mrs Gwaks einziger Auftritt im ganzen Buch (ihr Blatt in doc/12 besteht vollstaendig aus diesem Kapitel), Sims erster Beleg im Eckfeld der beiden Durchschlaege | HALTEN |
 | **32** | *Where the name goes* | **Tragend.** Bezahlt die Zusage aus B2 09 (Mrs Jeon, *"who I am going to be able to do something about"*), setzt die beiden Zusagen, die B2 71 einloest, und enthaelt den Fund | HALTEN |
 | **33** | *A door with no name on it* | **Tragend.** Die Zusage, die doc/02-leads.md als "die Zusage aus Kapitel 33" fuehrt und die ab hier den Band regiert | HALTEN |
-| **34** | *The best company in the room* | **Tragend.** Die Zwei-Zeugen-Probe (*"is not a coincidence twice"\*), der einzige Beleg fuer Choi Dae-ho ausserhalb von Annies Gedaechtnis, die Vier-Tage-Frist, an der 35 und 36 haengen | HALTEN |
+| **34** *(jetzt zweite Haelfte von 33)* | *The best company in the room* | **Tragend.** Die Zwei-Zeugen-Probe (*"is not a coincidence twice"\*), der einzige Beleg fuer Choi Dae-ho ausserhalb von Annies Gedaechtnis, die Vier-Tage-Frist, an der 35 und 36 haengen | HALTEN |
 | **35** | *Everything I am allowed to say* | **Tragend.** Vier Naehe-Eintraege auf einmal: Register A 9 (sie kommt zum ersten Mal auf den Boden, und zwar bevor sie antwortet), Register B 5, Register C 8 (die einzige Stelle im ganzen Buch | HALTEN |
 | **36** | *An empty table* | **Tragend.** Annies drei Ergebnisse (das Pflegeheim bei Wonju ueber vier Eigentuemer, die elf mit unerklaerten Wendepunkten, die Hochzeit vor elf Jahren) | HALTEN |
 | **37** | *The one who asked a question* | **Tragend.** Mr Kohs einziger Auftritt im ganzen Buch (doc/03-cast.md: Auftritt B2 37, in 57 und 58 nur berichtet) und die einzige ausgefuehrte Ansprache aus Annies einunddreissig Namen | HALTEN |
@@ -148,7 +155,7 @@ auf HALTEN korrigiert worden.**
 | **41** | *The name he books under* | **Tragend.** Erstauftritt Mrs Bae, die in 47 von sich aus Sim anruft, in 49 ein ganzes Kapitel traegt und deren Angaben 47 und 53 woertlich zurueckholen (*"kept a book in pencil for twenty-two years"* | HALTEN |
 | **42** | *The evenings he lost nothing at* | **Tragend.** Der Trust und der Name Baek Jun-ho, Sang-hoons Umkehrung *"Four is the number of times I lost something"* mit dem Namen Im, und eine der genau zwei Und-Ketten | HALTEN |
 | **43** | *A shape the size of a person* | **Tragend.** Die Einloesung von Sang-hoons Bitte aus 26 (S und H datiert, K als ehrliches Nichts) und Jangs Zusage *"Two more weeks and I can give you the other word"*, die 48 mit *"Certain"* bezahlt | HALTEN |
-| **44** | *Somebody in Seoul pays for it* | **Tragend.** Die Rechnungsadresse in Seoul, aus der 46 bis 52 das ganze Seodaemun-Kapitel, Baeks *"The flat in Seodaemun is hers. Not the woman who is being cared for | HALTEN |
+| **44** *(jetzt zweite Haelfte von 43)* | *Somebody in Seoul pays for it* | **Tragend.** Die Rechnungsadresse in Seoul, aus der 46 bis 52 das ganze Seodaemun-Kapitel, Baeks *"The flat in Seodaemun is hers. Not the woman who is being cared for | HALTEN |
 | **45** | *The line above it* | **Tragend.** Naehe-Register A 10 (*"Annie came off the edge of the desk and sat down on the floor at the end of it"*), K datiert auf drei Februartage statt drei Jahre | HALTEN |
 | **46** | *The post still comes* | **Tragend.** Der einzige Auftritt der Frau mit der Giesskanne, die `doc/12-stimmen.md` als Musterfall der Zivilistenstimme fuehrt, die Wohnung in ihrem Namen | HALTEN |
 | **47** | *Twelve white stems* | **Tragend.** Der erste Zug der Gegenseite - zwoelf weisse Stiele ohne Karte an ihrem Tor -, der Preis fuer Kapitel 46, und die Naht, auf die 49 und der Endkampf zaehlen: er meldet es nicht nach oben. | HALTEN |
@@ -163,7 +170,7 @@ auf HALTEN korrigiert worden.**
 | **56** | *Four streets* | **Tragend.** Einziger und erster Auftritt von Mr Ahn, der Name der vierten Zeile (Ahn Jung-hee, einunddreissig damals, fuenfunddreissig jetzt) | HALTEN |
 | **57** | *Nobody paid* | **Tragend.** Woos Kanon in seinem eigenen Register: der Staatsanwalt von fuenfunddreissig oder sechsunddreissig | HALTEN |
 | **58** | *The tenth plate* | **Tragend.** Der zehnte Teller und die Aufloesung des Zettels aus Sims Tasche, Do Kyung-ae ist Ahn Jung-hee | ZUSAMMENZIEHEN mit 59 |
-| **59** | *Buy her* | **Tragend.** Naehe-Register B 7 und die Stelle, an der er aufgehoert hat mitzuzaehlen, die fuenfte Bitte in acht Monaten und die erste, die nicht ihn betrifft (*"Buy her."*) | HALTEN |
+| **59** *(jetzt zweite Haelfte von 58)* | *Buy her* | **Tragend.** Naehe-Register B 7 und die Stelle, an der er aufgehoert hat mitzuzaehlen, die fuenfte Bitte in acht Monaten und die erste, die nicht ihn betrifft (*"Buy her."*) | HALTEN |
 | **60** | *Somebody's daughter* | **Tragend.** Bezahlt Annies *"Put it in front of me on Friday. Not today."* am Tag, dreht die Lesart des ganzen Bandes um (nicht was Choi hat, sondern wessen sie ist) | HALTEN |
 
 **Das Ergebnis ist 58 mal HALTEN, einmal STRAFFEN, einmal ZUSAMMENZIEHEN, kein
@@ -263,7 +270,7 @@ gegengeprüft.*
 | **65** | *No story at all* | Mrs Sunwoo, und ihre Bedingung als offener Posten | STRAFFEN |
 | **66** | *What silence costs* | **Tragend.** Moon Hae-sooks Name, der Oktober der Mutter, die Entscheidung, sichtbar zu werden | HALTEN |
 | **67** | *Four hundred and one* | Mapo, Mrs Ha | ZUSAMMENZIEHEN mit 68 |
-| **68** | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
+| **68** *(jetzt zweite Haelfte von 67)* | *What he was for* | **Tragend.** Sims Wende, sein Ausstieg, der 14. September | HALTEN |
 | **69** | *The call he did not take* | **Tragend.** Zwei überfällige Zusagen bezahlt, Kwon in der Auffahrt, Annies Diagnose | HALTEN |
 | **70** | *Nothing to bring* | **Tragend.** Mr Ahn liest den Satz, die Zusage aus 59 bezahlt, der Ventilator angelegt | HALTEN |
 | **71** | *The page in the drawer* | **Tragend.** Mrs Jeon bezahlt, die Seite vom 14. Juni, die erste Stunde vergeben | STRAFFEN |
@@ -961,7 +968,7 @@ wird nicht umnummeriert.**
 
 | neu | aus | Tag | Wörter | Titel |
 |---|---|---|---|---|
-| **16** | - | - | - | **frei.** Aufgelöst, zwei Absätze in 17 |
+| **16** *(aufgeloest, zwei Absaetze in 17)* | - | - | - | **frei.** Aufgelöst, zwei Absätze in 17 |
 | **26** | 26+27 | 236, ein Tag | 3886 | *What he collects* |
 | **29** | 29+30 | 238, ein Tag | 4550 | *A person with nothing* |
 | **33** | 33+34 | 243 und 244 | 4211 | *The best company in the room* |
