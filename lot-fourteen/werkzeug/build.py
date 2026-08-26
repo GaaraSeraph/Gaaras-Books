@@ -484,6 +484,15 @@ def build_reader(root, chapters):
     return len(quads)
 
 
+# Gestrichene Kapitel, Nummer -> Grund. **Es wird nicht umnummeriert**, und das
+# hat der Autor am 26.08. entschieden: jede Umnummerierung zieht Dateinamen,
+# Kopfzeilen und alle Kapitelverweise in sechs Dokumenten hinter sich her, und
+# diese Arbeit wird einmal gemacht, am Ende des Kuerzungslaufs. Bis dahin sind
+# Luecken erlaubt - aber angemeldet, sonst faellt eine vergessene Datei nicht
+# mehr auf. Begruendung in doc/15-kuerzen.md unter "Das Verfahren".
+GESTRICHEN = {}
+
+
 def main():
     root = sys.argv[1] if len(sys.argv) > 1 else "."
     if not os.path.isdir(os.path.join(root, "chapters")):
@@ -513,9 +522,17 @@ def main():
             chapters.append((band, blabel, num, ver,
                              os.path.basename(path), text.rstrip()))
         missing = sorted(set(range(1, max(best) + 1)) - set(best))
-        if missing:
+        # Eine Luecke aus GESTRICHEN ist Absicht und bricht den Build nicht.
+        # Der Rest schon, denn eine unangekuendigte Luecke heisst fast immer,
+        # dass jemand eine Datei umbenannt und die alte nicht geloescht hat.
+        for n in [n for n in missing if (band, n) in GESTRICHEN]:
+            print(f"  Hinweis: Band {band}, Kapitel {n:02d} ist gestrichen "
+                  f"({GESTRICHEN[(band, n)]}). Nummer bleibt frei.")
+        versehen = [n for n in missing if (band, n) not in GESTRICHEN]
+        if versehen:
             problems.append(f"Band {band}: fehlende Kapitel "
-                            + ", ".join(f"{n:02d}" for n in missing))
+                            + ", ".join(f"{n:02d}" for n in versehen)
+                            + " (Absicht? Dann in GESTRICHEN eintragen)")
 
     if problems:
         print("BUILD ABGEBROCHEN")

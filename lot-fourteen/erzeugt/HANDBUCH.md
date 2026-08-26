@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 303.738 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 304.312 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -19446,6 +19446,20 @@ Nach jedem geschriebenen Kapitel eine Zeile hier, mit drei Angaben:
 `ERSETZEN` heißt: das Kapitel fällt weg und sein Inhalt steht als Absatz oder
 Satz woanders.
 
+**Und die Regel über allen anderen, vom Autor am 26.08. festgelegt: es wird
+nicht umnummeriert.** Fällt ein Kapitel weg, bleibt seine Nummer frei. Eine
+Lücke in der Zählung ist ein erlaubter Zwischenzustand und kein Fehler. Der
+Grund ist Aufwand: jede Umnummerierung zieht Dateinamen, Kopfzeilen und
+sämtliche Kapitelverweise in sechs Dokumenten hinter sich her. **Diese Arbeit
+wird einmal gemacht, ganz am Ende des Kürzungslaufs**, und nicht bei jedem
+einzelnen Wegfall. Der Autor dazu: *"Diese Arbeit will ich nicht mehrfach
+haben."*
+
+Wer eine Lücke findet, prüft sie gegen die Tabelle `GESTRICHEN` in
+`werkzeug/build.py` und lässt sie stehen. Steht sie dort nicht, ist sie ein
+Versehen und der Build bricht ab - meistens, weil jemand eine Datei umbenannt
+und die alte Fassung nicht gelöscht hat.
+
 ---
 
 ## Band 2, Kapitel 1 bis 60
@@ -19942,6 +19956,59 @@ keine Kategorie brachte; sie steht hier nicht.
 
 - **Offen bleibt Band 1.** Vierunddreißig Kapitel, nicht Teil des Auftrags vom
   26.08.
+
+---
+
+## Offen: trägt Kapitel 79 seinen Platz?
+
+**Nicht ausgeführt. Das ist ein Befund und eine Frage an den Autor, keine
+beschlossene Streichung.** Stand 26.08. abends.
+
+**Der Anlass war ein anderer und ist erledigt.** Der Autor hat am 26.08.
+gemeldet, dass der Konflikt über die Ladefläche nicht aufgeht: die Hartfläche
+gehört Hana, nicht Annie, und 481 Millionen Won sind für dieses Haus kein
+Engpass. Das ist in `fd3e401` repariert worden - Annie verkauft nichts mehr, und
+79 handelt jetzt von **vier Fragen, die sie Woo nicht stellt**, weil die
+Antworten ihn den Rest seines Lebens kosten würden. Diese Fassung ist
+ökonomisch sauber und dramaturgisch stärker als die alte.
+
+**Der zweite Befund des Autors ist damit aber nicht erledigt:** *"Ich verstehe
+weder den Inhalt noch die Relevanz."* Und er stand schon vor der Ladeflächen-
+Sache.
+
+**Die Maschine des Endspurts sind drei Unterschriften:** der Verwalter
+(Kapitel 81), der Halter (85) und der Einlieferer (84). Wer sie nicht alle drei
+hat, bekommt Ahn Jung-hee nicht heraus. **Jedes Kapitel zwischen 74 und 90
+bedient eine davon - 79 bedient keine.** Es ist das einzige Kapitel des Blocks,
+in dem sich die Rettung um keinen Zentimeter bewegt. Das gilt für die reparierte
+Fassung genauso wie für die alte, weil es an der Stellung im Bau liegt und nicht
+am Inhalt.
+
+**Dazu zwei kleinere Sachen aus demselben Lesen:**
+
+- **78 heißt *The number* und meint damit zwei Drittel lang eine Telefonnummer
+  und im letzten Drittel etwas ganz anderes.** Ein Wort, zwei Bedeutungen, ein
+  Kapitel. Das kostet den Leser den Faden, unabhängig davon, was im letzten
+  Drittel steht.
+- **79 verstößt gegen `doc/08`**, wonach Kapitel 73 die letzte Stelle ist, an
+  der jemand eine Lesart von Georgij umdreht. In 79 dreht Woo Georgijs Lesart
+  seiner eigenen fünfundzwanzig Tage um (*"It was me choosing the morning"*),
+  und das ist eine zweite Belehrung über eine Lektion, die 73 und 74 schon
+  erledigt hatten.
+
+**Was dagegen spricht zu streichen, und es ist nicht wenig:** Woo besteht die
+Fall-Streichungsprobe aus `doc/12` als einzige Nebenfigur ganz, und die
+reparierte Fassung gibt ihm seine beste Szene - *"You have made me expensive to
+consult, and that is a thing you do to an old man once."* Wer 79 streicht,
+verliert die.
+
+**Wenn gestrichen wird**, fällt 79 ganz und 78 auf den ersten Erzähltag, die
+Nummer 79 bleibt frei, und in 80, 85 und 90 sind je ein bis zwei Absätze zu
+ändern. **Eine ausgeführte Fassung davon liegt fertig auf dem Zweig
+`woo-streichung-79`** (Commit `93113b4`), gebaut auf dem Stand vor der
+Geldreparatur. Sie ist nicht gemergt und sie ist nicht aktuell - wer sie nimmt,
+muss die Geldreparatur aus `fd3e401` darüberlegen. **Sie liegt da, damit die
+Arbeit nicht zweimal gemacht wird, falls die Entscheidung so ausfällt.**
 
 ---
 
