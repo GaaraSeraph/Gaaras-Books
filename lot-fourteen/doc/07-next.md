@@ -2211,3 +2211,9 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
   habe ich angesehen und **stehen gelassen**: `check.py` meldet ihn als
   Tonetikette, aber die Laenge der Pause ist hier der Inhalt, und die naechste
   Replik loest sie ein. Ein Hinweis, der seine Arbeit tut, ist kein Fund.
+
+- **26.08., allgemeine Prüfung: `doc/16-regelaenderungen.md`, Abschnitt E.**
+  Die sechs Punkte, die die Stilsitzung ausdrücklich zur Gegenprüfung hingelegt
+  hat, gegen den Text. Kein Kapitel wird dabei umgeschrieben, ausser wo ein
+  Beleg fällt. Danach die sieben Zitate ohne Beleg aus `belege.py`.
+  Arbeitsbaum: eigener Klon, nicht der von Schreiben oder Stil.
