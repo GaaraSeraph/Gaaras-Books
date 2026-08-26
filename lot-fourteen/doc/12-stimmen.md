@@ -381,7 +381,7 @@ sie anwendbar ist:
 **AM 25.08. VOLLSTÄNDIG ZURÜCKGENOMMEN. Was hier stand, war ein Messfehler,
 und der Fehler war meiner.**
 
-Der Kontraktionszähler in `stimmen.py` stand auf `\w+'(?:s|t|re|ve|ll|d|m)`
+Der Kontraktionszähler in `stimmen.py` stand auf `\b\w+'(?:s|t|re|ve|ll|d|m)\b`
 und traf damit **jeden Genitiv**: *Woo's*, *brother's*, *somebody's mother*. Wer
 viel über fremdes Eigentum redet, sah aus wie jemand, der zusammenzieht - und
 diese Tabelle war genau eine Aussage darüber, wer zusammenzieht. Der Zähler ist
@@ -1069,6 +1069,22 @@ die Umstände des anderen, nicht sein Fall.
 Georgijs Haltung.** Sim stellt sie auch, aber er stellt sie **nach** der
 Höflichkeit und nie an ihrer Stelle. Wer ihm eine Szene schreibt, die mit einer
 Diagnose aufmacht, hat einen Fixer geschrieben und keinen Gastgeber.
+
+#### Anwesenheitsprobe
+
+**Maschinenlesbar.** `python3 werkzeug/anwesenheit.py Sim` liest diese Tabelle
+und meldet, in welchen Kapiteln der Zug in **seiner eigenen Rede** fehlt. Die
+Muster sind aus dem Text geholt, nicht erfunden.
+
+| Zug | Muster | mind. |
+|---|---|---|
+| fragt nach einer konkreten Sache | `(?:^|(?<=[.?!]) )(Have you|How is|How are|Is that|Is it|Did you|Are you)\b` | 1 |
+| richtet vorher ein | `\bI have (ordered|brought|put in|made|paid|taken)\b` | 1 |
+| benennt die Einrichtung | `(so do not|under no obligation|I did not want to tell you|that is not generosity)` | 0 |
+| wartet zu geben | `you have not asked` | 0 |
+
+**Die erste Zeile ist die scharfe.** Sie stand am 26.08. in **jedem** seiner
+Kapitel auf null - das ist der Befund, der diese Probe ausgeloest hat.
 
 **Wo es im Text fehlt, gemessen an dieser Probe:** b2 K74 macht mit *"You have
 come with something and you are not going to make me guess"* auf - keine Frage,
