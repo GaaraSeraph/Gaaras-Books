@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 304.755 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 304.800 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -19693,8 +19693,8 @@ gegengeprüft.*
 | **75** | *The man at the table* | **Tragend.** Die Antwort, die vier Briefe, die Wand (er war nicht gekauft, er wurde gegeben) | HALTEN |
 | **76** | *What came back* | **Tragend.** Der zurückgeschickte Brief, Register B 9. **Und das Formmuster für alles Kürzen** | HALTEN |
 | **77** | *The room at the back* | **Tragend.** Das Zimmer wird ausgeräumt, der Dachraum am 22. | STRAFFEN |
-| **78** | *The number* | Die Leitung ist tot, Sim kommt heraus, das dritte Ding heißt Woo | ZUSAMMENZIEHEN mit 79 |
-| **79** | *What it is worth* | **Tragend.** Woo, der einzige VERFALLEN-Eintrag des Buches, der Käufer in der Halle | HALTEN |
+| **78** | *The number* (v1.1) | **Tragend.** Die Leitung ist tot und Sim kommt zum ersten Mal heraus; dazu ihr Entschluss, Woo vier Fragen **nicht** zu stellen | ZUSAMMENZIEHEN mit 79 |
+| **79** | *What it is worth* (v1.2) | **Tragend.** Woos beste Szene im Buch, und die einzige Zusage mit einem Termin, den niemand nachschlagen kann | **offene Frage, siehe unten** |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
@@ -19733,10 +19733,12 @@ Annie. **Sieben von elf.** Mindestens drei davon können ein Halbsatz am Anfang
 des nächsten Kapitels sein. Kandidaten sind 71, 77 und 78, weil dort der Bericht
 nichts hinzufügt, was der Leser nicht schon hat.
 
-**5. Und der Vorbehalt, der über allem steht:** Kapitel 78 und 79 hängen an einer
-Setzung von mir, die der Autor am 25.08. noch prüft (das dritte Ding gehört
-Chairman Woo). **Wenn diese Setzung fällt, fällt 79 ganz und 78 zur Hälfte**,
-und dieser Abschnitt wird neu geschrieben und nicht gekürzt.
+**5. Der Vorbehalt zu 78 und 79 ist am 26.08. eingetreten - aber anders als
+hier erwartet.** Die Setzung ist gefallen: die Hartfläche gehört Hana, nicht
+Annie. **Gestrichen wurde deswegen nichts**, sondern ersetzt: in `fd3e401` sind
+78, 79, 80, 85 und 90 auf vier Fragen umgestellt, die Annie Woo nicht stellt.
+Die Punkte 2 und 4 oben gelten für 78 unverändert weiter. Was von dem Vorbehalt
+übrig ist, steht unten unter *Offen: trägt Kapitel 79 seinen Platz?*
 
 ---
 
