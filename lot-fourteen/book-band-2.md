@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.870 Woerter.
+Book Two, 89 Kapitel, 219.869 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -97,7 +97,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 85 | v1.1 | 2.040 |
 | 86 | v1.0 | 2.148 |
 | 87 | v1.2 | 2.016 |
-| 88 | v1.1 | 1.998 |
+| 88 | v1.2 | 1.997 |
 | 89 | v1.0 | 2.085 |
 | 90 | v1.1 | 1.699 |
 
@@ -19576,7 +19576,7 @@ Annie stood at the window for a moment.
 ---
 
 # Book Two · Chapter 88: The invitation
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Ninety-Nine · Friday 6 November
 
@@ -19626,7 +19626,7 @@ Choi Dae-ho stood up when they came in, which a man of fifty-nine at his own tab
 
 He is not tall. He has good hands and he does not use them much, and he was the only person in that room not holding a glass.
 
-"You came," he said. "It has been very good to see you again."
+"You came," he said. "It has been good to see you again."
 
 Annie did not correct him.
 

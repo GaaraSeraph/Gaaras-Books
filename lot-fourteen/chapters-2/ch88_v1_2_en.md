@@ -1,7 +1,7 @@
-Book Two · Chapter 88: The invitation
-Lot Fourteen · Version 1.1 · EN
+# Chapter 88: The invitation
+*Lot Fourteen* · Version 1.2 · EN
 
-Day Three Hundred and Ninety-Nine · Friday 6 November
+## Day Three Hundred and Ninety-Nine · Friday 6 November
 
 The invitation came on the Thursday morning and it was for the Friday.
 
@@ -11,7 +11,7 @@ It said that there would be six people, and that two of them had asked after her
 
 She had never met the man. Neither had he.
 
-———
+* * *
 
 "He knows," said Annie.
 
@@ -21,7 +21,7 @@ She had never met the man. Neither had he.
 
 "There will be two, and they will both have asked after you, and neither of them will have been told anything." He did not soften it. "That is not a lie. It has never once been a lie. That is the whole of the difficulty."
 
-———
+* * *
 
 They went.
 
@@ -33,7 +33,7 @@ The first is that Moon Hae-sook is in a building that is being emptied and there
 
 "He has never in his life had to ask anybody for anything, and I am going to walk into a room and ask him for something in front of two witnesses." Annie did not blink. "That is worth more to him than the dinner and I know it, and I am going anyway, and I want that said in this room before we get in the car."
 
-———
+* * *
 
 There were six people.
 
@@ -43,17 +43,17 @@ Nobody in that room said one word about a house in Gangwon-do, a consignment, a 
 
 It was, from beginning to end, an extremely good evening.
 
-———
+* * *
 
 Choi Dae-ho stood up when they came in, which a man of fifty-nine at his own table does not have to do.
 
 He is not tall. He has good hands and he does not use them much, and he was the only person in that room not holding a glass.
 
-"You came," he said. "It has been very good to see you again."
+"You came," he said. "It has been good to see you again."
 
 Annie did not correct him.
 
-———
+* * *
 
 That is the sentence.
 
@@ -61,7 +61,7 @@ It is the one Sim used at four doors in the first month eleven years ago. It is 
 
 Georgij stood behind her and to the left and heard a man say it in the original.
 
-———
+* * *
 
 He seated her on his right and Georgij on the far side, which is where the man who works for somebody sits, and did it without any of it being noticeable.
 
@@ -73,7 +73,7 @@ He told it as a compliment about her father.
 
 Every word of it was true.
 
-———
+* * *
 
 At half past nine the other four had gone or were at the far end of the room. It was the three of them at that end of the table, and it had been arranged that way without anybody arranging it.
 
@@ -83,7 +83,7 @@ Annie put both hands on the table.
 
 "Of course," said Choi Dae-ho.
 
-———
+* * *
 
 She said the whole of it and it took nine minutes.
 
@@ -93,7 +93,7 @@ And then the second woman. Eleven years. The oxygen. The trust. The forty-four p
 
 She did not say Baek Jun-ho's name and she did not need to.
 
-———
+* * *
 
 Choi Dae-ho listened without moving and did not interrupt once.
 
@@ -105,7 +105,7 @@ Annie did not say anything.
 
 "It is better than the one she is in," said Choi Dae-ho. "I would have said so in August if anybody had asked me."
 
-———
+* * *
 
 Georgij sat at the far side of a table and understood the whole of it at once and could do nothing with it.
 
@@ -113,7 +113,7 @@ August is before the twenty-seventh. August is before the letter, before the for
 
 It was arranged before it could be asked for. It is always arranged before it can be asked for.
 
-———
+* * *
 
 "Then I am going to ask you anyway," said Annie.
 
@@ -125,7 +125,7 @@ Choi Dae-ho looked at the table for a moment.
 
 "You may have her," he said.
 
-———
+* * *
 
 The room was very quiet at that end and not at all quiet at the other.
 
@@ -137,7 +137,7 @@ The room was very quiet at that end and not at all quiet at the other.
 
 "The trust will go on paying, because I cannot stop it, and I arranged that in 2015 and I have not regretted it once." He turned his glass a quarter turn and did not drink from it. "You will find that awkward and there is nothing I can do about it. It was not built for this."
 
-———
+* * *
 
 Annie sat with her hands on the table.
 
@@ -149,7 +149,7 @@ Annie sat with her hands on the table.
 
 "That is very nearly true and it is the part people get wrong about me." Choi Dae-ho did not raise his voice anywhere, and had not, all evening. "I have never asked anybody in this trade for a single thing in thirty-one years. I have not needed to, and that is not a boast, and I would rather you did not hear it as one."
 
-———
+* * *
 
 Then he turned his head, and it was the first time all evening, and he spoke to Georgij.
 
@@ -159,13 +159,13 @@ Georgij did not say anything.
 
 "You are the first person in a very long time who has arrived at the right week." He was entirely pleasant about it. "It has been good to see you again."
 
-———
+* * *
 
 He did not say it as a threat and it was not one, and there is no arrangement in this book under which it could be made into one.
 
 He said it the way a man says a thing to somebody he is pleased with.
 
-———
+* * *
 
 They were in the car at twenty past ten.
 
@@ -181,7 +181,7 @@ Neither of them said anything until the bridge.
 
 "Then say it, because you have had it since half past nine and you are waiting for me to be ready."
 
-———
+* * *
 
 "There is nothing to take off him," said Georgij. "Not tonight, not in December, not in nine years. He does not own anything. He has never given an instruction that anybody can repeat. He has never asked for a thing, so there is nothing anybody can decline. He built the one instrument in his life so that he could not switch it off, and I have spent eight months looking for the document and the document is a kindness."
 
@@ -189,7 +189,7 @@ Neither of them said anything until the bridge.
 
 "On the twenty-third of April I told a woman in a room in Yeouido that I was going to have him before the end of the year." He did not look away from the windscreen. "It is the sixth of November. I am not going to have him. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something else by it."
 
-———
+* * *
 
 Annie looked out of the window for a while.
 

@@ -3829,7 +3829,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.1) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.2) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
@@ -4165,7 +4165,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.1) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *The invitation* (v1.2) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
@@ -4535,6 +4535,38 @@ five will be yours, completely, not as customers and not as an arrangement"* und
 *"in about three weeks they are going to be extremely grateful to somebody. That
 somebody can be you."* Kein Widerspruch zwischen den beiden Kapiteln.
 **Siebenundzwanzig Tage** vom 3. auf den 30. April gehen auf.
+
+---
+
+## Der Satz, der durch das Buch laeuft, hatte am Zielpunkt ein Wort zu viel (26.08.)
+
+**Gefunden beim Lesen von Kapitel 88, Chois einzigem Auftritt im ganzen Buch.**
+
+Der Kanonwortlaut steht in **Kapitel 31**, und das Kapitel verlangt dort
+ausdruecklich Genauigkeit:
+
+> *"Say the sentence exactly."*
+>
+> *"It has been good to see you again."* She got it out flat.
+
+Bestaetigt in **Kapitel 53**: *"The man who told you it was good to see you
+again, and you had never met him."*
+
+**Kapitel 88 hatte ihn zweimal, und die beiden waren nicht gleich.** Die
+Begruessung an Annie lautete *"It has been **very** good to see you again"*,
+zwanzig Zeilen spaeter sagt Choi zu Georgij *"It has been good to see you
+again"* - die genaue Form.
+
+**Warum das eine Wort teuer ist:** Kapitel 88 stellt genau diese Stelle als den
+Zielpunkt des Motivs hin - *"That is the sentence"* und *"Georgij stood behind
+her and to the left and heard a man say it in the original."* Ein Satz, der
+**in the original** genannt wird und vom Original abweicht, hebt die Identitaet
+auf, auf der das ganze Motiv steht: derselbe Satz aus vier Muendern, und keiner
+der vier wusste voneinander.
+
+**Das *very* ist entfernt** (v1.2). Beide Vorkommen in Kapitel 88 stehen jetzt
+auf dem Wortlaut aus Kapitel 31, nachgezaehlt: zweimal die genaue Form, keinmal
+die andere.
 
 ---
 
