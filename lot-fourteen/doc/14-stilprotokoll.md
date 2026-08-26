@@ -1728,3 +1728,31 @@ zusammen mit dem geliehenen Rahmen weg, und es gibt im Kapitel keine
 Rueckbindung darauf.
 
 *Unsicher:* keiner.
+
+### Nachtrag: der Rahmen kommt von selbst zurueck, und ich habe ihn selbst einmal ersetzt
+
+**Zwei Dinge in der Gegenprobe nach dem Eingriff.**
+
+**1. Kapitel 77 ist waehrend der Arbeit dazugekommen, und es steht schon wieder
+drin:** *"There is a last thing and it is not information," said Sim.* /
+*"Go on."* - derselbe Rahmen wie Georgijs *"There is one more thing and it is
+not an argument"* (b2 K21). **Das ist kein Aufraeumen, das ist eine Sperre, die
+gefehlt hat**; sie steht jetzt in Sims Blatt. Berichtigt zu *"The last of it is
+not information."* (ch77 v1.1)
+
+**2. Meine eigene Ersetzung war die naechste Anleihe.** Fuer K72 hatte ich
+*"What is left is mine and not hers"* geschrieben - und **`what is left is` ist
+Georgijs Wendung**, zweimal belegt (b1 K28, b2 K10). Ich habe einen
+Georgij-Rahmen gegen einen anderen getauscht und es erst in der Gegenprobe
+gesehen. Berichtigt zu *"The next part is mine and not hers."* (ch72 v1.2)
+
+**Die Lehre, und sie gilt fuer jede weitere Figur:** nach einem Stiltausch wird
+die Messung **noch einmal** gefahren, gegen die neue Fassung. Ein Ersatz, der
+aus demselben Kopf kommt wie das Problem, ist wahrscheinlich dasselbe Problem.
+
+**Stand jetzt:** von vier geliehenen Wendungen ist **eine** uebrig,
+*"it to you because"* - und die steht in einer Zeile, die ich nicht angefasst
+habe (*"I am going to give it to you, because I have spent two days working out
+why it has been sitting on me"*, K74). Der Wortlaut ist geteilt, der Zug nicht:
+Georgij gibt her, was **schlimmer** ist, Sim gibt her, was er **schuldet**.
+Bleibt stehen. `faktenspur.py` meldet **null** bewegte Zahlen, Daten und Namen.

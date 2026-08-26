@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 269.483 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 269.755 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -245,6 +245,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die Maschine, die dort haette stehen muessen](#die-maschine-die-dort-haette-stehen-muessen)
   - [Die vier Zeilen im Text](#die-vier-zeilen-im-text)
   - [Ein Beinahe-Schaden, und er gehoert protokolliert](#ein-beinahe-schaden-und-er-gehoert-protokolliert)
+  - [Nachtrag: der Rahmen kommt von selbst zurueck, und ich habe ihn selbst einmal ersetzt](#nachtrag-der-rahmen-kommt-von-selbst-zurueck-und-ich-habe-ihn-selbst-einmal-ersetzt)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -6070,7 +6071,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
-- **Band 2, Kapitel 72** *The fourteenth* (v1.1) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+- **Band 2, Kapitel 72** *The fourteenth* (v1.2) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
@@ -6353,7 +6354,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 77** *The room at the back* (v1.0) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+- **Band 2, Kapitel 77** *The room at the back* (v1.1) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
@@ -17223,6 +17224,34 @@ Rueckbindung darauf.
 
 *Unsicher:* keiner.
 
+### Nachtrag: der Rahmen kommt von selbst zurueck, und ich habe ihn selbst einmal ersetzt
+
+**Zwei Dinge in der Gegenprobe nach dem Eingriff.**
+
+**1. Kapitel 77 ist waehrend der Arbeit dazugekommen, und es steht schon wieder
+drin:** *"There is a last thing and it is not information," said Sim.* /
+*"Go on."* - derselbe Rahmen wie Georgijs *"There is one more thing and it is
+not an argument"* (b2 K21). **Das ist kein Aufraeumen, das ist eine Sperre, die
+gefehlt hat**; sie steht jetzt in Sims Blatt. Berichtigt zu *"The last of it is
+not information."* (ch77 v1.1)
+
+**2. Meine eigene Ersetzung war die naechste Anleihe.** Fuer K72 hatte ich
+*"What is left is mine and not hers"* geschrieben - und **`what is left is` ist
+Georgijs Wendung**, zweimal belegt (b1 K28, b2 K10). Ich habe einen
+Georgij-Rahmen gegen einen anderen getauscht und es erst in der Gegenprobe
+gesehen. Berichtigt zu *"The next part is mine and not hers."* (ch72 v1.2)
+
+**Die Lehre, und sie gilt fuer jede weitere Figur:** nach einem Stiltausch wird
+die Messung **noch einmal** gefahren, gegen die neue Fassung. Ein Ersatz, der
+aus demselben Kopf kommt wie das Problem, ist wahrscheinlich dasselbe Problem.
+
+**Stand jetzt:** von vier geliehenen Wendungen ist **eine** uebrig,
+*"it to you because"* - und die steht in einer Zeile, die ich nicht angefasst
+habe (*"I am going to give it to you, because I have spent two days working out
+why it has been sitting on me"*, K74). Der Wortlaut ist geteilt, der Zug nicht:
+Georgij gibt her, was **schlimmer** ist, Sim gibt her, was er **schuldet**.
+Bleibt stehen. `faktenspur.py` meldet **null** bewegte Zahlen, Daten und Namen.
+
 ---
 
 # Kürzen: was jedes Kapitel trägt
@@ -19971,7 +20000,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "What is left is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "The next part is mine and not hers," said Sim. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -19994,7 +20023,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch77:138 | "There is one," said Sim. "I am the one. That is what I have been for eleven years and i.. |
 | 3 | b2ch77:148 | "It is the second question anybody has asked her on that telephone in four years and bot.. |
 | 3 | b2ch77:152 | "That is a survey," said Sim. "You do not put a man in a roof space with a torch for hal.. |
-| 3 | b2ch77:158 | "There is a last thing and it is not information," said Sim. |
+| 3 | b2ch77:158 | "The last of it is not information," said Sim. |
 | 3 | b2ch77:170 | Sim did not answer straight away. |
 | 6 | b2ch78:18 | Sim telephoned the house in Gangwon-do at ten past five, three days after he had last do.. |
 | 6 | b2ch78:52 | Sim straightened his cuff, which he does. |

@@ -2599,7 +2599,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "What is left is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "The next part is mine and not hers," said Sim. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -2622,7 +2622,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch77:138 | "There is one," said Sim. "I am the one. That is what I have been for eleven years and i.. |
 | 3 | b2ch77:148 | "It is the second question anybody has asked her on that telephone in four years and bot.. |
 | 3 | b2ch77:152 | "That is a survey," said Sim. "You do not put a man in a roof space with a torch for hal.. |
-| 3 | b2ch77:158 | "There is a last thing and it is not information," said Sim. |
+| 3 | b2ch77:158 | "The last of it is not information," said Sim. |
 | 3 | b2ch77:170 | Sim did not answer straight away. |
 | 6 | b2ch78:18 | Sim telephoned the house in Gangwon-do at ten past five, three days after he had last do.. |
 | 6 | b2ch78:52 | Sim straightened his cuff, which he does. |

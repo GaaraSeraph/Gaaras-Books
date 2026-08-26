@@ -3243,7 +3243,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
-- **Band 2, Kapitel 72** *The fourteenth* (v1.1) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+- **Band 2, Kapitel 72** *The fourteenth* (v1.2) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
@@ -3526,7 +3526,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 77** *The room at the back* (v1.0) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+- **Band 2, Kapitel 77** *The room at the back* (v1.1) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
