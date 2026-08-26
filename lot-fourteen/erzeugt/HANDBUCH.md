@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 316.475 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 316.560 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -7225,7 +7225,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.1) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.2) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
@@ -7339,8 +7339,8 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
 - **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
 - ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text
   gefallen**, siehe unten.
-- **Tag 415**, er selbst, im letzten Kapitel: *"I am twenty-six and it has taken
-  me eight months."*
+- **Tag 415**, er selbst, im letzten Kapitel: seit 26.08. *"I am **twenty-seven**
+  and it has taken me eight months."*
 
 **Dazwischen liegen dreizehn Monate.** Ein Mensch kann nicht an beiden Enden
 sechsundzwanzig sein, und **kein Geburtstagsdatum rettet das**, weil jedes
@@ -7358,7 +7358,14 @@ falsch, sondern **unbrauchbar**.
    Katalog, die Loeschung, die nie ausgefuehrt wurde -, und es macht aus einem
    Rechenfehler eine Pointe. Kostet aber eine Stelle, an der es jemand bemerkt.
 
-**Der 28. Juni entscheidet die Frage nicht, er schaerft sie.** Er faellt in
+**ENTSCHIEDEN am 26.08.** Der Autor: *"am Anfang so wie es in der Auktion
+gesagt wird."* Damit gilt **Weg 1**: der Katalog stimmt, er ist sechsundzwanzig
+an Tag 1, und er wird am 28. Juni des zweiten Erzaehljahres siebenundzwanzig.
+**Kapitel 90 ist auf *twenty-seven* geaendert** - ein Wort, und es war das
+einzige, weil Woos *"You are twenty-six"* am selben Tag aus dem Text gefallen
+ist. Der Fall ist geschlossen; was darunter steht, ist die Herleitung.
+
+**Der 28. Juni entscheidet die Frage nicht allein, er schaerft sie.** Er faellt in
 beide Erzaehljahre hinein, also wird Georgij waehrend des Buches genau einmal
 ein Jahr aelter, am 28. Juni des zweiten Jahres, zwischen Tag 268 und Tag 269.
 Was offen bleibt, ist die Anfangszahl:
@@ -7396,7 +7403,7 @@ Folgen, beide Wege betreffend:
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
-| **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni** | **28. Juni, vom Autor am 26.08. gesetzt** | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
+| **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni des zweiten Jahres** | **28. Juni**, vom Autor am 26.08. gesetzt, und der Katalog gilt | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |

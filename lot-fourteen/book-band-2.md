@@ -99,7 +99,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v1.3 | 2.013 |
 | 88 | v1.2 | 1.997 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.1 | 1.699 |
+| 90 | v1.2 | 1.699 |
 
 ---
 
@@ -19982,7 +19982,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -20086,7 +20086,7 @@ He did not answer for about eight seconds.
 
 Annie's hand did not move.
 
-"I have known that since the third of April and I have said it twice, both times as a fact, and I have been perfectly calm about it both times." He was looking at the leg of the desk. "And I have not slept for three weeks and it is that, and I have only just got to it, and I am twenty-six and it has taken me eight months."
+"I have known that since the third of April and I have said it twice, both times as a fact, and I have been perfectly calm about it both times." He was looking at the leg of the desk. "And I have not slept for three weeks and it is that, and I have only just got to it, and I am twenty-seven and it has taken me eight months."
 
 * * *
 
