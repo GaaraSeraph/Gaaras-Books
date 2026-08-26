@@ -3412,3 +3412,16 @@ mechanisch prüfbare Merkmal, das die Leseprobe vorwegnimmt.
 | Werkzeuge gelaufen, alle Eichungen bestanden | **3** (`anwesenheit.py --offen`, `stimmen.py` dreimal, `belege.py -v`) |
 
 **Kapitel geändert: keines. Blätter geändert: keines.**
+
+## Offen seit dem 26.08.: Annies zweites Los
+
+In B2 90 steht, dass Annie **zwei Lose** in dem Haus am Fluss gekauft und
+Byun zweimal fuer das Streichen zweier Zeilen bezahlt hat. **Das erste ist
+Georgij.** Das zweite wird an keiner Stelle des Buches genannt.
+
+Das ist mit Absicht so stehen geblieben und nicht vergessen worden. Wer es
+spaeter einloest, hat einen Faden, der bis in Band 1 Kapitel 1 zurueckreicht;
+wer es nicht einloest, hat einen Satz, der eine Frau groesser macht, als der
+Leser sie kannte. **Beides ist zulaessig, ein drittes nicht: es darf nicht
+beilaeufig widerrufen werden.**
+

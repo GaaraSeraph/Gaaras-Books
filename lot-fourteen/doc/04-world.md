@@ -432,23 +432,40 @@ reicht, dass die Geschaedigten noch leben und ein Telefon haben.
 ### Die beiden Faelle im Buch
 
 **Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, **vier Zahlungen
-von drei Kaeufern** - die Frau zweimal, der Mann der alten Dame mit dem
-Umschlag, und der vierte, den Georgij nie hatte. **Ein Mann und zwei Frauen.**
-Im November ist er gegangen, weil er nicht fuer die neuen Leute arbeiten
-wollte. In B2 22 kuendigt Georgij ihm keine Drohung an, sondern eine Tatsache:
-die drei werden informiert, mit Namen, Betrag und Datum.
+von drei Kaeufern**, und der Autor hat am 26.08. festgelegt, wer die drei sind:
+**Annie, ein Mann und eine Frau.** Damit ist *"the woman twice"* aus K22 sie.
 
-**In B2 90 wird abgerechnet, und die Form ist das Kaelteste an der Regel.** Eine
-der beiden Frauen will nicht bestaetigt haben, dass sie zwei Lose in dem Haus
-gekauft hat. Sie nimmt deshalb saemtliche ehemaligen Angestellten bei sich auf,
-innerhalb von vierzehn Tagen, ohne je zu sagen warum - **ausser einem, und der
-eine ist der, um den der Anruf ging.**
+**Was sie zweimal bezahlt hat, ist das Streichen von zwei Zeilen aus einem
+Register**, und Byun hat beide Male genommen und nichts gestrichen. Eine der
+beiden Zeilen hat eine Nummer, die noch getragen wird - Band 1, Kapitel 24:
+*"There is a register with your number in it in a building I do not own."*
+**Und dass sie zwei Lose gekauft hat, ist ein offener Faden: das zweite wird
+nirgends genannt.**
 
-**Sie bestraft ihn nicht. Sie schliesst ihn nur nicht ein.** Niemand droht,
-niemand arrangiert etwas, und der Mann, der sechsundzwanzig Jahre lang von
-einem Haus gedeckt war, ist am Ende der einzige, den niemand mehr deckt. Die
-Wohnung in Seongdong ist im Juli weg, und niemand in diesem Buch weiss, wer sie
-jetzt hat.
+**Die Abrechnung in B2 90, und die Form ist das Kaelteste an der Regel.** Annie
+will nicht bestaetigt haben, dass sie zwei Lose in dem Haus gekauft hat. Seit
+Mai nimmt sie deshalb saemtliche ehemaligen Angestellten bei sich auf,
+innerhalb von vierzehn Tagen, ohne je zu sagen warum. **Ausser einem.**
+
+**Mr Hwang** bekommt im Oktober ein Angebot, das weit unter seiner Wuerde ist.
+Er hat nicht geantwortet und es ist nicht zurueckgezogen, und er ist der
+einzige, der schliessen kann, was von dem Haus uebrig ist. **Beide wissen
+beides.**
+
+**Und was der Text ausdruecklich nicht sagt.** Der Autor am 26.08.: *"Schliesst
+ihn nicht ein ist eine nette Beschreibung fuer sie hat einige Auftragsmoerder
+angerufen und seine Leiche beseitigen lassen."* **Das steht nicht im Buch und
+darf nicht darin stehen.** Der Erzaehler sitzt dicht an Georgij, Georgij war
+nicht dabei, und dieses Buch behauptet nichts, das niemand belegen kann. Was
+dasteht, ist die Rechnung: alle ausser einem, seit Mai nicht gesehen, die
+Wohnung im Juli weg.
+
+**Der Satz, der es fuer den Leser schliesst, ohne es zu sagen:** *"Georgij
+worked out what the exception meant on the afternoon he heard about it, and it
+took him about four seconds, and it is the one thing this year that he has not
+written down."* **Das ist die einzige Stelle im Buch, an der das Heft mit
+Absicht leer bleibt**, und sie ist damit das Gegenstueck zu allem, was in
+`doc/15` ueber die Bilanz steht.
 
 **Choi Dae-ho**, gross und am Schluss. Er besitzt nichts, unterschreibt nichts
 und verlangt nichts, und genau deshalb ist ihm nichts abzunehmen. **Was er
