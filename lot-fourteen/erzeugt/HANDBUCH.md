@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 319.221 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 319.573 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -73,6 +73,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Benannte Firmen und Orte, die nur im Text standen](#benannte-firmen-und-orte-die-nur-im-text-standen)
   - [Der Köder: Hanseong](#der-k-der-hanseong)
   - [Was Geld in diesem Buch bedeutet](#was-geld-in-diesem-buch-bedeutet)
+  - [Die beiden Faelle im Buch](#die-beiden-faelle-im-buch)
+  - [Was die Regel fuer das Schreiben heisst](#was-die-regel-fuer-das-schreiben-heisst)
 - [Kontinuitaet](#kontinuitaet)  ·  `doc/05-continuity.md`
   - [Das Jahr](#das-jahr)
   - [Kalender](#kalender)
@@ -364,9 +366,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mrs Ha](#mrs-ha)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Baek Jun-ho](#baek-jun-ho)
+  - [Mr Byun](#mr-byun)
   - [Mr Koh](#mr-koh)
   - [Ji-won](#ji-won)
-  - [Mr Byun](#mr-byun)
   - [Shin](#shin)
   - [Moon Hae-sook](#moon-hae-sook)
   - [Mrs Gwak](#mrs-gwak)
@@ -2977,6 +2979,48 @@ der Eintrag geht in eine **fortlaufende Serie**, die Serie geht in ein Archiv,
 und in etwa neun Jahren liest sie jemand aus einem anderen Grund. Kein Agent,
 keine Gesellschaft, kein Strohmann verbessert, wie das dann aussieht. **Der Preis
 ist ihr Name auf einem Blatt, das nicht zurueckgenommen werden kann.**
+
+## Wer sich mit Macht anlegt und seinen Schutz verliert
+
+**Regel dieser Welt, vom Autor am 26.08. festgelegt:** *"Sich mit Macht
+anzulegen darf hier nicht konsequenzlos sein, erst Recht wenn man seinen Schutz
+und seine Macht verliert. Spiele mit dem Feuer und Du verbrennst Dich."*
+
+**Die Regel hat zwei Haelften und nur die zweite ist interessant.** Wer
+maechtige Leute prellt, taeuscht oder benutzt, kommt damit durch, **solange
+eine Institution hinter ihm steht.** Das Haus deckt den Registerfuehrer, weil
+das Register des Hauses ist. Der Ruf deckt den Vermittler. Die Stellung deckt
+den Mann am Tisch.
+
+**In dem Augenblick, in dem der Schutz weg ist, ist die Rechnung wieder offen**,
+und zwar rueckwirkend und vollstaendig. Niemand muss etwas arrangieren. Es
+reicht, dass die Geschaedigten noch leben und ein Telefon haben.
+
+### Die beiden Faelle im Buch
+
+**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, vier Kaeufer
+geprellt, im November gegangen, weil er nicht fuer die neuen Leute arbeiten
+wollte. In B2 22 kuendigt Georgij ihm keine Drohung an, sondern eine Tatsache:
+die vier werden informiert, mit Namen, Betrag und Datum. **In B2 90 ist er seit
+Mai nicht mehr gesehen worden**, die Wohnung in Seongdong ist im Juli weg, und
+niemand in diesem Buch weiss, wer sie jetzt hat.
+
+**Choi Dae-ho**, gross und am Schluss. Er besitzt nichts, unterschreibt nichts
+und verlangt nichts, und genau deshalb ist ihm nichts abzunehmen. **Was er
+angehaeuft hat, sind neun Leute, die zwischen ihm und dem Rest seines Lebens
+stehen und nicht wissen, was er ihnen angetan hat.** Neun Telefonate im
+November, und keines davon verlangt etwas.
+
+### Was die Regel fuer das Schreiben heisst
+
+**Ein Mann, der in diesem Buch Macht betrogen hat, darf nicht unbehelligt
+alt werden**, sobald sein Schutz weg ist. Wer eine solche Figur einfuehrt,
+schuldet dem Leser, dass die Rechnung irgendwann faellt - nicht als Rache und
+nicht als Gerechtigkeit, sondern als Mechanik.
+
+**Und die Gegenprobe:** wer noch Schutz hat, bleibt unbehelligt, auch wenn er
+es verdient haette. Das ist kein Zynismus, das ist die Bedingung, unter der die
+Regel ueberhaupt etwas bedeutet.
 
 ---
 
@@ -7125,7 +7169,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.2) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *The invitation* (v1.3) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
@@ -7216,7 +7260,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.4) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.6) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
@@ -13281,7 +13325,7 @@ das nie wieder geholt wird.
 Entnahme. Wer eine schreibt, notiert wo. `werkzeug/heft.py` misst das
 Verhaeltnis, und es ist ab jetzt eine Zahl, die man nennen kann.
 
-## Choi ueberlebt das Ende nicht, und Georgij hat ihn trotzdem nicht gehabt (26.08.)
+## Choi ueberlebt das Ende nicht, und Georgij hat ihn (26.08.)
 
 **Vom Autor:** *"sorgen wir noch dafuer, dass alle wissen, dass Choi das Ende
 NICHT ueberleben kann. Er hat zu viele maechtige Leute manipuliert. Er soll
@@ -13293,13 +13337,22 @@ manipuliert. Alleine der sorgt schon fuer ein bye bye bye."*
 **Ausgefuehrt in B2 90 als neun Anrufe von Annie.** Drei Dinge daran sind
 Regeln und keine Szene:
 
-1. **Annie telefoniert, nicht Georgij.** Regel 2: er besitzt nichts, hat kein
-   Telefon und keinen Namen. Sie hat den Stand, und nur sie kann jemanden in
-   ihre Schuld setzen.
-2. **Das gebrochene Versprechen bleibt gebrochen.** Der VERFALLEN-Eintrag zu
-   *"I am going to have him before the end of the year"* steht unveraendert.
-   Wer spaeter versucht, Georgij den Sturz zuzuschreiben, hebt den ganzen
-   Schluss auf.
+1. **Er nimmt ihm nicht etwas ab, er nimmt ihm etwas weg**, und das ist nicht
+   dasselbe Wort. Choi besitzt nichts, unterschreibt nichts und verlangt
+   nichts. Was er angehaeuft hat, sind neun Leute, die nicht wissen, was er
+   ihnen angetan hat. **Wer diesen Unterschied einebnet, macht den ganzen
+   Schluss unmoeglich**, weil Annies Einwand in 88 richtig bleibt: abzunehmen
+   ist ihm nichts.
+2. **KORRIGIERT am selben Abend, und die Korrektur ist die Entscheidung.**
+   Der Autor: *"Natuerlich gehoert er mir. Ich habe ihm alles genommen... genau
+   wie in Band 1 Kapitel 1 habe ich das Ende des Lebens eines Mannes
+   eingeleitet, ohne selber einen Mord zu begehen."* **Und der Beleg steht
+   wirklich in Kapitel 1:** er steht mit einer Nummer an sich auf einer Rampe
+   und sagt einem Saal einen wahren Satz ueber den Mann in der zweiten Reihe.
+   Er fasst ihn nicht an, er luegt nicht, der Saal erledigt den Rest.
+   **Kapitel 88 ist umgeschrieben, das Versprechen vom 23. April ist gehalten,
+   und der Eintrag in `doc/13` steht auf BEZAHLT.** Georgij telefoniert selbst;
+   Regel 2 sagt, dass er nichts besitzt, nicht dass er nichts tun kann.
 3. **Choi erfaehrt nie, wer davon weiss.** Seine einzige Szene liegt am
    6. November, die Anrufe fangen am neunten an. *"He will not know that there
    is a where."* Das ist ausdrueckliche Vorgabe des Autors und keine
@@ -18141,7 +18194,7 @@ wird.**
 - [KEINE] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Keine Zusage, sondern eine Auskunft ueber den Stand eines fremden Verfahrens. Der Termin selbst steht als eigener Posten im Buch
 
 
-- [VERFALLEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · **Gebrochen, und der Text weiss es, und er bleibt gebrochen.** B2 88, im Wagen, am 6. November, mit dem Datum daneben: *"I am not going to have him. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something else by it."* · **Nachtrag 26.08.:** in B2 90 telefoniert Annie neunmal und Choi ueberlebt das Ende nicht. **Das aendert den Eintrag nicht.** Sie sagt es selbst: *"You did not have him and you are not going to."* Er hat ihn nicht gehabt, und das ist der ganze Punkt
+- [BEZAHLT] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · **B2 88 und B2 90, und der Weg dahin ist die ganze Frage.** Am 6. November im Wagen dreht er die Bedeutung von *nehmen*: Choi besitzt nichts, also ist ihm nichts **abzunehmen** - aber er hat neun Leute angehaeuft, die nicht wissen, was er ihnen angetan hat, und die sind ihm **wegzunehmen**. *"I am going to have him."* Bezahlt zwischen dem 9. und dem 19. November mit neun Telefonaten aus dem Gang hinter der Kueche. **Am 20. November, auf ihre Frage: *"I have had him."***
 - [BEZAHLT] **B2 88** Choi Dae-ho an Annie · gesagt Tag 399 · faellig Tag 404 · "You will send somebody on the eleventh and they will bring her." · B2 89, am Mittwoch, und es hat den ganzen Tag gedauert
 - [BEZAHLT] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig bei dem Ende des Feldzugs gegen Choi · "you will tell me the whole of it and not the comfortable part" · B2 89, am 19. November, fuenfzig Minuten. **Sie hat fuenfzig Minuten auf die Stelle gewartet, an der jemand klug war, und es gibt keine**
 - [BEZAHLT] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · B2 89, am Freitag in Jongno, eine Stunde zehn, und der Tee stand bereit
@@ -22113,7 +22166,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 906 | 93 (b1ch01-b2ch90) | 1 | 74 |
+| Annie | 904 | 93 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 276 | 40 (b1ch10-b2ch90) | 1 | 74 |
 | Chairman Woo | 250 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -22121,7 +22174,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Sim | 144 | 22 (b2ch31-b2ch89) | 2 | 53 |
 | Mrs Jeon | 113 | 21 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 107 | 22 (b2ch07-b2ch90) | 3 | 59 |
-| Mrs Seo | 105 | 48 (b1ch03-b2ch90) | 1 | 74 |
+| Mrs Seo | 104 | 48 (b1ch03-b2ch90) | 1 | 74 |
 | Mr Ahn | 103 | 13 (b2ch56-b2ch88) | 3 | 53 |
 | Mr Yeo | 57 | 11 (b1ch05-b2ch90) | 5 | 46 |
 | Mrs Sunwoo | 55 | 17 (b1ch07-b2ch89) | 1 | 60 |
@@ -22139,9 +22192,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mrs Ha | 28 | 3 (b2ch66-b2ch89) | 13 | 42 |
 | Nam Byung-hee | 27 | 10 (b2ch03-b2ch69) | 1 | 56 |
 | Baek Jun-ho | 23 | 8 (b2ch42-b2ch90) | 2 | 19 |
+| Mr Byun | 21 | 3 (b2ch22-b2ch90) | 17 | 24 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
-| Mr Byun | 20 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
 | Moon Hae-sook | 16 | 8 (b2ch66-b2ch89) | 4 | 53 |
 | Mrs Gwak | 16 | 4 (b2ch31-b2ch88) | 12 | 51 |
@@ -22166,7 +22219,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-906 Nennungen in 93 Kapiteln.
+904 Nennungen in 93 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -23062,20 +23115,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch88:132 | "Say the terms," said Annie. |
 | 12 | b2ch88:142 | Annie sat with her hands on the table. |
 | 12 | b2ch88:174 | "He has never met either of us," said Annie. |
-| 12 | b2ch88:194 | Annie looked out of the window for a while. |
+| 12 | b2ch88:194 | Annie did not move. |
+| 12 | b2ch88:218 | "That is the worst sentence anybody has said to me this year," said Annie. |
 | 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
 | 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
 | 19 | b2ch90:16 | The second time she stayed four hours and came back with oil on the sleeve of a coat tha.. |
-| 19 | b2ch90:64 | Annie made nine telephone calls between the ninth of November and the nineteenth. |
-| 19 | b2ch90:88 | "I asked him for nothing, and that is the whole of the mechanism, and I did not invent i.. |
-| 19 | b2ch90:106 | "Yes. And none of them will telephone the others, because none of them will want to be t.. |
-| 19 | b2ch90:118 | "That is the only cruel thing I have done this year," said Annie. "I would like it said .. |
-| 19 | b2ch90:140 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
-| 19 | b2ch90:156 | "You have not slept since the second," said Annie. |
-| 19 | b2ch90:174 | Annie's hand did not move. |
-| 19 | b2ch90:182 | "Then say the rest of it," said Annie. |
-| 19 | b2ch90:202 | Annie did not say anything. |
-| 19 | b2ch90:226 | Annie put her hand back into his hair. |
+| 19 | b2ch90:106 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
+| 19 | b2ch90:154 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
+| 19 | b2ch90:170 | "You have not slept since the second," said Annie. |
+| 19 | b2ch90:188 | Annie's hand did not move. |
+| 19 | b2ch90:196 | "Then say the rest of it," said Annie. |
+| 19 | b2ch90:216 | Annie did not say anything. |
+| 19 | b2ch90:240 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -23330,10 +23381,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:148` (Tag 15) - one
 - `b2ch90:16` (Tag 19) - four, one
-- `b2ch90:64` (Tag 19) - nine
-- `b2ch90:88` (Tag 19) - three
-- `b2ch90:106` (Tag 19) - nine, one, two
-- `b2ch90:140` (Tag 19) - three
+- `b2ch90:154` (Tag 19) - three
 
 ---
 
@@ -23618,7 +23666,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:162 | Sang-hoon did not say anything for long enough that Georgij could hear the yard behind h.. |
 | 3 | b2ch51:180 | "That is the answer I expected and I still wish it were the other one." Sang-hoon let it.. |
 | 22 | b2ch58:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
-| 19 | b2ch90:76 | "Nine," she said. "Park Sang-hoon first, because he is the one who matters, and because .. |
+| 19 | b2ch90:80 | Park Sang-hoon first, because he is the one who matters and because he has four decision.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -23746,7 +23794,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch50:306` (Tag 10) - four, one
 - `b2ch51:180` (Tag 3) - one
 - `b2ch58:102` (Tag 22) - four
-- `b2ch90:76` (Tag 19) - four, nine, one
+- `b2ch90:80` (Tag 19) - four, one
 
 ---
 
@@ -24005,7 +24053,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
 | 19 | b2ch90:58 | Woo has not been in that house since the fifth of October. |
-| 19 | b2ch90:94 | "Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why.. |
+| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -24158,7 +24206,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:274` (Tag 10) - one
 - `b2ch78:338` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
-- `b2ch90:94` (Tag 19) - eleven, four, two
+- `b2ch90:86` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25159,7 +25207,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
 | 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 8 | b2ch86:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 19 | b2ch90:94 | "Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why.. |
+| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -25217,13 +25265,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:40` (Tag 9) - four
 - `b2ch85:6` (Tag 12) - eleven, four, twenty
 - `b2ch85:134` (Tag 3) - four, three
-- `b2ch90:94` (Tag 19) - eleven, four, two
+- `b2ch90:86` (Tag 19) - eleven, four, two
 
 ---
 
 ### Mrs Seo
 
-105 Nennungen in 48 Kapiteln.
+104 Nennungen in 48 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -25331,7 +25379,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch89:36 | Mrs Seo went and got a roll and put it against the door before anybody else in the room .. |
 | 13 | b2ch89:52 | It was at about eleven in the morning and it was to Georgij. He had been in that part of.. |
 | 19 | b2ch90:8 | The kitchen makes four dinners now instead of two and one of them is soft food and goes .. |
-| 19 | b2ch90:70 | He found out on the twentieth, from Mrs Seo, who mentioned that the small room had been .. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -25398,7 +25445,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:52` (Tag 13) - eleven, four
 - `b2ch90:8` (Tag 19) - four, twenty, two and one
-- `b2ch90:70` (Tag 19) - eleven, four
 
 ---
 
@@ -25619,7 +25665,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:94 | "Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why.. |
+| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
@@ -25648,7 +25694,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:94` (Tag 19) - eleven, four, two
+- `b2ch90:86` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25807,7 +25853,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:94 | "Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why.. |
+| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -25832,7 +25878,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:94` (Tag 19) - eleven, four, two
+- `b2ch90:86` (Tag 19) - eleven, four, two
 
 ---
 
@@ -26644,7 +26690,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch87:126 | Baek Jun-ho looked at the case. |
 | 10 | b2ch87:158 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
 | 12 | b2ch88:94 | She did not say Baek Jun-ho's name and she did not need to. |
-| 19 | b2ch90:94 | "Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why.. |
+| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -26657,7 +26703,49 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:92` (Tag 10) - two
 - `b2ch87:112` (Tag 10) - eleven, one, twenty, two
 - `b2ch87:158` (Tag 10) - four, one
-- `b2ch90:94` (Tag 19) - eleven, four, two
+- `b2ch90:86` (Tag 19) - eleven, four, two
+
+---
+
+### Mr Byun
+
+21 Nennungen in 3 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
+| 17 | b2ch22:16 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
+| 17 | b2ch22:34 | Mr Byun sat down on his own sofa and looked at him. |
+| 17 | b2ch22:44 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
+| 17 | b2ch22:64 | "I took money for a service that this house had been selling since before I sat down in .. |
+| 17 | b2ch22:68 | "Nobody was hurt," said Mr Byun. |
+| 17 | b2ch22:78 | Mr Byun looked politely interested. |
+| 17 | b2ch22:92 | Mr Byun did not move for about four seconds. |
+| 17 | b2ch22:112 | Mr Byun stood there. |
+| 17 | b2ch22:128 | Mr Byun went and stood at the window. |
+| 17 | b2ch22:136 | "He is not like the others," said Mr Byun. "I want that considered. I want it taken into.. |
+| 17 | b2ch22:142 | Mr Byun said it anyway. |
+| 17 | b2ch22:162 | "He said there was a lot going out that evening and there would be no invoice for it. I .. |
+| 17 | b2ch22:166 | "He gave me the money. In the room. From his own pocket, in an envelope that had already.. |
+| 17 | b2ch22:174 | It is the one part of that minute Mr Byun never understood, and it is the part Georgij c.. |
+| 17 | b2ch22:184 | Mr Byun went into another room and was gone for about two minutes, and came back with a .. |
+| 17 | b2ch22:200 | Mr Byun stood in the middle of his sitting room. |
+| 17 | b2ch22:210 | "Twenty-six years," said Mr Byun, behind him. "Do you know what that building was like w.. |
+| 17 | b2ch22:220 | "Mr Byun." |
+| 24 | b2ch23:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
+| 19 | b2ch90:64 | Mr Byun has not been seen in that trade since May. |
+
+### Zahlen in der Naehe von Mr Byun
+
+- `b2ch22:6` (Tag 17) - ten, twenty-six
+- `b2ch22:16` (Tag 17) - one, three
+- `b2ch22:44` (Tag 17) - four, one
+- `b2ch22:92` (Tag 17) - four
+- `b2ch22:166` (Tag 17) - one, twenty-six
+- `b2ch22:174` (Tag 17) - one
+- `b2ch22:184` (Tag 17) - two
+- `b2ch22:210` (Tag 17) - twenty-six
+- `b2ch23:16` (Tag 24) - one, three
 
 ---
 
@@ -26741,47 +26829,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch20:12` (Tag 49) - seven
 - `b1ch20:16` (Tag 49) - nine
-
----
-
-### Mr Byun
-
-20 Nennungen in 2 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 17 | b2ch22:6 | Mr Byun kept the register of that house for twenty-six years and left it at the end of F.. |
-| 17 | b2ch22:16 | "You are from the fund," said Mr Byun. "You are the fourth one and I have told the other.. |
-| 17 | b2ch22:34 | Mr Byun sat down on his own sofa and looked at him. |
-| 17 | b2ch22:44 | "The February one," said Mr Byun eventually. "That was a woman. Very direct. She came fo.. |
-| 17 | b2ch22:64 | "I took money for a service that this house had been selling since before I sat down in .. |
-| 17 | b2ch22:68 | "Nobody was hurt," said Mr Byun. |
-| 17 | b2ch22:78 | Mr Byun looked politely interested. |
-| 17 | b2ch22:92 | Mr Byun did not move for about four seconds. |
-| 17 | b2ch22:112 | Mr Byun stood there. |
-| 17 | b2ch22:128 | Mr Byun went and stood at the window. |
-| 17 | b2ch22:136 | "He is not like the others," said Mr Byun. "I want that considered. I want it taken into.. |
-| 17 | b2ch22:142 | Mr Byun said it anyway. |
-| 17 | b2ch22:162 | "He said there was a lot going out that evening and there would be no invoice for it. I .. |
-| 17 | b2ch22:166 | "He gave me the money. In the room. From his own pocket, in an envelope that had already.. |
-| 17 | b2ch22:174 | It is the one part of that minute Mr Byun never understood, and it is the part Georgij c.. |
-| 17 | b2ch22:184 | Mr Byun went into another room and was gone for about two minutes, and came back with a .. |
-| 17 | b2ch22:200 | Mr Byun stood in the middle of his sitting room. |
-| 17 | b2ch22:210 | "Twenty-six years," said Mr Byun, behind him. "Do you know what that building was like w.. |
-| 17 | b2ch22:220 | "Mr Byun." |
-| 24 | b2ch23:16 | That is not a technicality and he is not going to let himself have it as one. He said a .. |
-
-### Zahlen in der Naehe von Mr Byun
-
-- `b2ch22:6` (Tag 17) - ten, twenty-six
-- `b2ch22:16` (Tag 17) - one, three
-- `b2ch22:44` (Tag 17) - four, one
-- `b2ch22:92` (Tag 17) - four
-- `b2ch22:166` (Tag 17) - one, twenty-six
-- `b2ch22:174` (Tag 17) - one
-- `b2ch22:184` (Tag 17) - two
-- `b2ch22:210` (Tag 17) - twenty-six
-- `b2ch23:16` (Tag 24) - one, three
 
 ---
 

@@ -1,7 +1,7 @@
-Book Two · Chapter 88: The invitation
-Lot Fourteen · Version 1.2 · EN
+# Chapter 88: The invitation
+*Lot Fourteen* · Version 1.3 · EN
 
-Day Three Hundred and Ninety-Nine · Friday 6 November
+## Day Three Hundred and Ninety-Nine · Friday 6 November
 
 The invitation came on the Thursday morning and it was for the Friday.
 
@@ -11,7 +11,7 @@ It said that there would be six people, and that two of them had asked after her
 
 She had never met the man. Neither had he.
 
-———
+* * *
 
 "He knows," said Annie.
 
@@ -21,7 +21,7 @@ She had never met the man. Neither had he.
 
 "There will be two, and they will both have asked after you, and neither of them will have been told anything." He did not soften it. "That is not a lie. It has never once been a lie. That is the whole of the difficulty."
 
-———
+* * *
 
 They went.
 
@@ -33,7 +33,7 @@ The first is that Moon Hae-sook is in a building that is being emptied and there
 
 "He has never in his life had to ask anybody for anything, and I am going to walk into a room and ask him for something in front of two witnesses." Annie did not blink. "That is worth more to him than the dinner and I know it, and I am going anyway, and I want that said in this room before we get in the car."
 
-———
+* * *
 
 There were six people.
 
@@ -43,7 +43,7 @@ Nobody in that room said one word about a house in Gangwon-do, a consignment, a 
 
 It was, from beginning to end, an extremely good evening.
 
-———
+* * *
 
 Choi Dae-ho stood up when they came in, which a man of fifty-nine at his own table does not have to do.
 
@@ -53,7 +53,7 @@ He is not tall. He has good hands and he does not use them much, and he was the 
 
 Annie did not correct him.
 
-———
+* * *
 
 That is the sentence.
 
@@ -61,7 +61,7 @@ It is the one Sim used at four doors in the first month eleven years ago. It is 
 
 Georgij stood behind her and to the left and heard a man say it in the original.
 
-———
+* * *
 
 He seated her on his right and Georgij on the far side, which is where the man who works for somebody sits, and did it without any of it being noticeable.
 
@@ -73,7 +73,7 @@ He told it as a compliment about her father.
 
 Every word of it was true.
 
-———
+* * *
 
 At half past nine the other four had gone or were at the far end of the room. It was the three of them at that end of the table, and it had been arranged that way without anybody arranging it.
 
@@ -83,7 +83,7 @@ Annie put both hands on the table.
 
 "Of course," said Choi Dae-ho.
 
-———
+* * *
 
 She said the whole of it and it took nine minutes.
 
@@ -93,7 +93,7 @@ And then the second woman. Eleven years. The oxygen. The trust. The forty-four p
 
 She did not say Baek Jun-ho's name and she did not need to.
 
-———
+* * *
 
 Choi Dae-ho listened without moving and did not interrupt once.
 
@@ -105,7 +105,7 @@ Annie did not say anything.
 
 "It is better than the one she is in," said Choi Dae-ho. "I would have said so in August if anybody had asked me."
 
-———
+* * *
 
 Georgij sat at the far side of a table and understood the whole of it at once and could do nothing with it.
 
@@ -113,7 +113,7 @@ August is before the twenty-seventh. August is before the letter, before the for
 
 It was arranged before it could be asked for. It is always arranged before it can be asked for.
 
-———
+* * *
 
 "Then I am going to ask you anyway," said Annie.
 
@@ -125,7 +125,7 @@ Choi Dae-ho looked at the table for a moment.
 
 "You may have her," he said.
 
-———
+* * *
 
 The room was very quiet at that end and not at all quiet at the other.
 
@@ -137,7 +137,7 @@ The room was very quiet at that end and not at all quiet at the other.
 
 "The trust will go on paying, because I cannot stop it, and I arranged that in 2015 and I have not regretted it once." He turned his glass a quarter turn and did not drink from it. "You will find that awkward and there is nothing I can do about it. It was not built for this."
 
-———
+* * *
 
 Annie sat with her hands on the table.
 
@@ -149,7 +149,7 @@ Annie sat with her hands on the table.
 
 "That is very nearly true and it is the part people get wrong about me." Choi Dae-ho did not raise his voice anywhere, and had not, all evening. "I have never asked anybody in this trade for a single thing in thirty-one years. I have not needed to, and that is not a boast, and I would rather you did not hear it as one."
 
-———
+* * *
 
 Then he turned his head, and it was the first time all evening, and he spoke to Georgij.
 
@@ -159,13 +159,13 @@ Georgij did not say anything.
 
 "You are the first person in a very long time who has arrived at the right week." He was entirely pleasant about it. "It has been good to see you again."
 
-———
+* * *
 
 He did not say it as a threat and it was not one, and there is no arrangement in this book under which it could be made into one.
 
 He said it the way a man says a thing to somebody he is pleased with.
 
-———
+* * *
 
 They were in the car at twenty past ten.
 
@@ -181,26 +181,48 @@ Neither of them said anything until the bridge.
 
 "Then say it, because you have had it since half past nine and you are waiting for me to be ready."
 
-———
+* * *
 
 "There is nothing to take off him," said Georgij. "Not tonight, not in December, not in nine years. He does not own anything. He has never given an instruction that anybody can repeat. He has never asked for a thing, so there is nothing anybody can decline. He built the one instrument in his life so that he could not switch it off, and I have spent eight months looking for the document and the document is a kindness."
 
 "Say the rest of it."
 
-"On the twenty-third of April I told a woman in a room in Yeouido that I was going to have him before the end of the year." He did not look away from the windscreen. "It is the sixth of November. I am not going to have him. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something else by it."
+"Nothing can be taken off him. Something can be taken away from him, and it is not the same word." He did not look away from the windscreen. "He has nine people standing between him and the rest of his life, and not one of them knows what he did to them. That is the whole of what he has ever accumulated. He has never had to defend it once, because in thirty years nobody has gone and told them."
 
-———
+---
 
-Annie looked out of the window for a while.
+Annie did not move.
 
-"You will not have him," she said, "and you have taken two women out of an arrangement he made. One of them was on his books and one of them was not on anybody's, and both of them are going to be in my house by the twelfth."
+"And you are going to."
 
-"That is not the same thing."
+"On the twenty-third of April I told a woman in a room in Yeouido that I was going to have him before the end of the year." He said it with no weight on it at all. "It is the sixth of November. I am going to have him."
 
-"It is not the same thing and it is what there is." She did not turn her head. "And you will spend the rest of your life knowing that he could have been asked in August and would have said yes, and that nobody asked. That is the entire mechanism, and there is no version of it in which he is at fault for it."
+* * *
+
+The car went along the river and neither of them did anything about it.
+
+"Say how, and do not make it sound better than it is."
+
+"The way I did it on the fourth of October last year, three floors under an empty shopping centre, with a number pinned on me and nothing in the world in my name." Georgij kept his hands where they were. "I put one true sentence in front of the only people who can act on it, and then I stop talking, and I am not in the room for the rest of it."
+
+---
+
+"You will not touch him."
+
+"I will not touch him. I will not shoot him and I will not poison him and I will never be in a building he is in again." He turned his head then, which he does not do in a car. "And his life is going to end by my hand. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something softer by it."
+
+* * *
 
 The car went over the bridge.
 
-"That is the worst sentence anybody has said to me this year," said Georgij.
+"That is the worst sentence anybody has said to me this year," said Annie.
 
-"I know. You would have got to it by about Tuesday."
+"I know."
+
+"No. It is the best one, and that is what is wrong with it." She did not turn her head. "You have spent eight months finding out that you are the man who was standing on that platform. I have known it since about March."
+
+---
+
+"And the two women."
+
+"Are going to be in my house by the twelfth, and neither of them is a payment for this, and you are not going to let yourself put them on the same page." She looked out of the window. "One of them was on his books and one of them was not on anybody's, and that is the only sentence in this car tonight that I am pleased about."

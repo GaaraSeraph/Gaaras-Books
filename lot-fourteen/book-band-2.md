@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 218.283 Woerter.
+Book Two, 82 Kapitel, 218.660 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -90,9 +90,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 85 | v1.2 | 2.037 |
 | 86 | v1.1 | 2.147 |
 | 87 | v1.3 | 2.013 |
-| 88 | v1.2 | 1.997 |
+| 88 | v1.3 | 2.229 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.4 | 2.349 |
+| 90 | v1.6 | 2.494 |
 
 ---
 
@@ -19346,7 +19346,7 @@ Annie stood at the window for a moment.
 ---
 
 # Book Two · Chapter 88: The invitation
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Ninety-Nine · Friday 6 November
 
@@ -19534,23 +19534,39 @@ Neither of them said anything until the bridge.
 
 "Say the rest of it."
 
-"On the twenty-third of April I told a woman in a room in Yeouido that I was going to have him before the end of the year." He did not look away from the windscreen. "It is the sixth of November. I am not going to have him. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something else by it."
+"Nothing can be taken off him. Something can be taken away from him, and it is not the same word." He did not look away from the windscreen. "He has nine people standing between him and the rest of his life, and not one of them knows what he did to them. That is the whole of what he has ever accumulated. He has never had to defend it once, because in thirty years nobody has gone and told them."
+
+Annie did not move.
+
+"And you are going to."
+
+"On the twenty-third of April I told a woman in a room in Yeouido that I was going to have him before the end of the year." He said it with no weight on it at all. "It is the sixth of November. I am going to have him."
 
 * * *
 
-Annie looked out of the window for a while.
+The car went along the river and neither of them did anything about it.
 
-"You will not have him," she said, "and you have taken two women out of an arrangement he made. One of them was on his books and one of them was not on anybody's, and both of them are going to be in my house by the twelfth."
+"Say how, and do not make it sound better than it is."
 
-"That is not the same thing."
+"The way I did it on the fourth of October last year, three floors under an empty shopping centre, with a number pinned on me and nothing in the world in my name." Georgij kept his hands where they were. "I put one true sentence in front of the only people who can act on it, and then I stop talking, and I am not in the room for the rest of it."
 
-"It is not the same thing and it is what there is." She did not turn her head. "And you will spend the rest of your life knowing that he could have been asked in August and would have said yes, and that nobody asked. That is the entire mechanism, and there is no version of it in which he is at fault for it."
+"You will not touch him."
+
+"I will not touch him. I will not shoot him and I will not poison him and I will never be in a building he is in again." He turned his head then, which he does not do in a car. "And his life is going to end by my hand. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something softer by it."
+
+* * *
 
 The car went over the bridge.
 
-"That is the worst sentence anybody has said to me this year," said Georgij.
+"That is the worst sentence anybody has said to me this year," said Annie.
 
-"I know. You would have got to it by about Tuesday."
+"I know."
+
+"No. It is the best one, and that is what is wrong with it." She did not turn her head. "You have spent eight months finding out that you are the man who was standing on that platform. I have known it since about March."
+
+"And the two women."
+
+"Are going to be in my house by the twelfth, and neither of them is a payment for this, and you are not going to let yourself put them on the same page." She looked out of the window. "One of them was on his books and one of them was not on anybody's, and that is the only sentence in this car tonight that I am pleased about."
 
 ---
 
@@ -19766,7 +19782,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -19828,61 +19844,67 @@ He telephoned once, on the third of November, and asked one question and rang of
 
 * * *
 
-Annie made nine telephone calls between the ninth of November and the nineteenth.
+Mr Byun has not been seen in that trade since May.
 
-She made them from the desk in the small room, at four in the afternoon, and she did not tell him that she was going to make any of them.
+In May four buyers were told what he had taken off them, with the amount and the date on each, and that his own hand was still on the entry. Nobody threatened him with anything and nobody needed to. The flat on the eighth floor in Seongdong with the view of the river went in July, and nobody in this book knows who has it now.
 
-He found out on the twentieth, from Mrs Seo, who mentioned that the small room had been wanted at four every day for a fortnight and that this had not happened in eleven years.
-
-* * *
-
-She did not pretend it had not happened.
-
-"Nine," she said. "Park Sang-hoon first, because he is the one who matters, and because he has four decisions behind him that he has never once been able to explain to himself."
-
-"And you told him."
-
-"Where they were made, and who was at the table, and in what order." She had both hands flat on the desk. "Not what I think of it. Not what I would like him to do about it. He has run eleven thousand people for nine years on the understanding that he decides things, and I have just told him about four afternoons on which he did not."
-
-Georgij stood where he stands.
-
-"And you asked him for nothing."
-
-"I asked him for nothing, and that is the whole of the mechanism, and I did not invent it." Annie turned a page over. "You did it to a man in a yard in Gimpo in March and to a man with three flatbeds in September. I watched both of them and I took notes."
-
-"The other eight."
-
-"Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why there was a fourth. Mr Hwang, who is finished and therefore has nothing left to be careful with. Baek Jun-ho, who has eleven years of it in a case." She did not look up. "And four who are not in this book and do not need to be, and two of those are in the ministry."
+He was protected for twenty-six years by a house. In November he stopped being protected, and the four men he had taken money off were still alive and still had telephones.
 
 * * *
 
-Georgij did the arithmetic and got no pleasure out of any of it.
+Georgij made nine telephone calls between the ninth of November and the nineteenth.
 
-"None of them can pay you," he said.
+He made them from the telephone in the passage behind the kitchen, in the afternoons, and he told her the night before each one who it was going to be.
 
-"No."
+Park Sang-hoon first, because he is the one who matters and because he has four decisions behind him that he has never once been able to explain to himself. Where each of them was made. Who was at the table. In what order.
 
-"So each of them is going to find something he can do that looks like his own idea."
+Not what Georgij thinks of it. Not what he would like done about it. A man who has run eleven thousand people for nine years on the understanding that he decides things, told about four afternoons on which he did not.
 
-"Yes. And none of them will telephone the others, because none of them will want to be the second man to have thought of it." Annie put the pen down. "It will not arrive as one thing. Nine things over about two years, from nine directions, and there is no room in this country that has all nine of them in it at once."
+Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why there was a fourth. Mr Hwang, who is finished and therefore has nothing left to be careful with. Baek Jun-ho, who has eleven years of it in a case. And four who are not in this book and do not need to be, and two of those are in the ministry.
 
-"And he will not know where it came from."
-
-"He will not know that there is a where."
+He asked none of them for anything at all.
 
 * * *
 
-The clock in the hall did the thing it does at the quarter.
+She had him in the small room on the twentieth and did not pretend it had not happened.
 
-"That is the only cruel thing I have done this year," said Annie. "I would like it said out loud in this room that I know it is. In about a month I will have stopped noticing."
+"None of them can pay you," she said.
 
-"You did not do it for me."
+"No. So each of them is going to find something he can do that looks like his own idea." He did not hurry it. "And none of them is going to telephone the others, because none of them wants to be the second man to have thought of it."
 
-"No. I did not do it for you and I am not giving it to you, and what you said on the twenty-third of April stands." She looked at him then. "You did not have him and you are not going to. I did it because a man who kept a woman in a house for eleven years does not get to finish in a chair by a window with everybody being polite to him."
+"It will not arrive as one thing."
 
-"He is fifty-nine."
+"It will arrive as nine things over about two years, from nine directions, and there is no room in this country that has all nine of them in it at once." Georgij kept his hands where she could see them. "And he will not know that there is a where."
 
-"He is fifty-nine and he has about twenty years in him." She went back to the page. "He is not going to get them. I have not arranged that, and I am not going to be able to say afterwards that I did not."
+Annie let that stand for a moment before she took it apart, which is the difference between her and everybody else in this book.
+
+"That is the cruellest thing anybody in this house has done this year," she said, "and I want it said out loud in this room that both of us know it is."
+
+"It is said, Mistress."
+
+* * *
+
+"On the twenty-third of April you told me you were going to have him before the end of the year."
+
+"I did."
+
+"It is the twentieth of November." She put the pen down. "Say it as a fact and not as a boast, because I am going to remember which one of those it was."
+
+"I have had him."
+
+He is fifty-nine and he has about twenty years in him, and he is not going to get them. The man who did that has never owned anything and has never once said a thing that was not true.
+
+* * *
+
+He worked out what it was that he recognised, and it took him until the top of the stairs.
+
+On the fourth of October last year he stood on a platform under an empty shopping centre with a number pinned on him. He said one true thing to a room about a man in the second row. That lot eleven had gone to him at eighty, and that no runner from settlement had been to his seat.
+
+He did not touch him. He did not say one untrue word. He put it in front of the only people who could act on it and then he stopped talking, and the room did the rest of it.
+
+*It is the same move.*
+
+*A cellar with a number on me, and a telephone in a passage behind a kitchen, and eight months in between looking for a document that was never going to exist. The only difference is that in October I did not know I was doing it.*
 
 * * *
 

@@ -412,3 +412,46 @@ der Eintrag geht in eine **fortlaufende Serie**, die Serie geht in ein Archiv,
 und in etwa neun Jahren liest sie jemand aus einem anderen Grund. Kein Agent,
 keine Gesellschaft, kein Strohmann verbessert, wie das dann aussieht. **Der Preis
 ist ihr Name auf einem Blatt, das nicht zurueckgenommen werden kann.**
+
+## Wer sich mit Macht anlegt und seinen Schutz verliert
+
+**Regel dieser Welt, vom Autor am 26.08. festgelegt:** *"Sich mit Macht
+anzulegen darf hier nicht konsequenzlos sein, erst Recht wenn man seinen Schutz
+und seine Macht verliert. Spiele mit dem Feuer und Du verbrennst Dich."*
+
+**Die Regel hat zwei Haelften und nur die zweite ist interessant.** Wer
+maechtige Leute prellt, taeuscht oder benutzt, kommt damit durch, **solange
+eine Institution hinter ihm steht.** Das Haus deckt den Registerfuehrer, weil
+das Register des Hauses ist. Der Ruf deckt den Vermittler. Die Stellung deckt
+den Mann am Tisch.
+
+**In dem Augenblick, in dem der Schutz weg ist, ist die Rechnung wieder offen**,
+und zwar rueckwirkend und vollstaendig. Niemand muss etwas arrangieren. Es
+reicht, dass die Geschaedigten noch leben und ein Telefon haben.
+
+### Die beiden Faelle im Buch
+
+**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, vier Kaeufer
+geprellt, im November gegangen, weil er nicht fuer die neuen Leute arbeiten
+wollte. In B2 22 kuendigt Georgij ihm keine Drohung an, sondern eine Tatsache:
+die vier werden informiert, mit Namen, Betrag und Datum. **In B2 90 ist er seit
+Mai nicht mehr gesehen worden**, die Wohnung in Seongdong ist im Juli weg, und
+niemand in diesem Buch weiss, wer sie jetzt hat.
+
+**Choi Dae-ho**, gross und am Schluss. Er besitzt nichts, unterschreibt nichts
+und verlangt nichts, und genau deshalb ist ihm nichts abzunehmen. **Was er
+angehaeuft hat, sind neun Leute, die zwischen ihm und dem Rest seines Lebens
+stehen und nicht wissen, was er ihnen angetan hat.** Neun Telefonate im
+November, und keines davon verlangt etwas.
+
+### Was die Regel fuer das Schreiben heisst
+
+**Ein Mann, der in diesem Buch Macht betrogen hat, darf nicht unbehelligt
+alt werden**, sobald sein Schutz weg ist. Wer eine solche Figur einfuehrt,
+schuldet dem Leser, dass die Rechnung irgendwann faellt - nicht als Rache und
+nicht als Gerechtigkeit, sondern als Mechanik.
+
+**Und die Gegenprobe:** wer noch Schutz hat, bleibt unbehelligt, auch wenn er
+es verdient haette. Das ist kein Zynismus, das ist die Bedingung, unter der die
+Regel ueberhaupt etwas bedeutet.
+

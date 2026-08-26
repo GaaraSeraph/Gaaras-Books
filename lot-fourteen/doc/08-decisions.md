@@ -1122,7 +1122,7 @@ das nie wieder geholt wird.
 Entnahme. Wer eine schreibt, notiert wo. `werkzeug/heft.py` misst das
 Verhaeltnis, und es ist ab jetzt eine Zahl, die man nennen kann.
 
-## Choi ueberlebt das Ende nicht, und Georgij hat ihn trotzdem nicht gehabt (26.08.)
+## Choi ueberlebt das Ende nicht, und Georgij hat ihn (26.08.)
 
 **Vom Autor:** *"sorgen wir noch dafuer, dass alle wissen, dass Choi das Ende
 NICHT ueberleben kann. Er hat zu viele maechtige Leute manipuliert. Er soll
@@ -1134,13 +1134,22 @@ manipuliert. Alleine der sorgt schon fuer ein bye bye bye."*
 **Ausgefuehrt in B2 90 als neun Anrufe von Annie.** Drei Dinge daran sind
 Regeln und keine Szene:
 
-1. **Annie telefoniert, nicht Georgij.** Regel 2: er besitzt nichts, hat kein
-   Telefon und keinen Namen. Sie hat den Stand, und nur sie kann jemanden in
-   ihre Schuld setzen.
-2. **Das gebrochene Versprechen bleibt gebrochen.** Der VERFALLEN-Eintrag zu
-   *"I am going to have him before the end of the year"* steht unveraendert.
-   Wer spaeter versucht, Georgij den Sturz zuzuschreiben, hebt den ganzen
-   Schluss auf.
+1. **Er nimmt ihm nicht etwas ab, er nimmt ihm etwas weg**, und das ist nicht
+   dasselbe Wort. Choi besitzt nichts, unterschreibt nichts und verlangt
+   nichts. Was er angehaeuft hat, sind neun Leute, die nicht wissen, was er
+   ihnen angetan hat. **Wer diesen Unterschied einebnet, macht den ganzen
+   Schluss unmoeglich**, weil Annies Einwand in 88 richtig bleibt: abzunehmen
+   ist ihm nichts.
+2. **KORRIGIERT am selben Abend, und die Korrektur ist die Entscheidung.**
+   Der Autor: *"Natuerlich gehoert er mir. Ich habe ihm alles genommen... genau
+   wie in Band 1 Kapitel 1 habe ich das Ende des Lebens eines Mannes
+   eingeleitet, ohne selber einen Mord zu begehen."* **Und der Beleg steht
+   wirklich in Kapitel 1:** er steht mit einer Nummer an sich auf einer Rampe
+   und sagt einem Saal einen wahren Satz ueber den Mann in der zweiten Reihe.
+   Er fasst ihn nicht an, er luegt nicht, der Saal erledigt den Rest.
+   **Kapitel 88 ist umgeschrieben, das Versprechen vom 23. April ist gehalten,
+   und der Eintrag in `doc/13` steht auf BEZAHLT.** Georgij telefoniert selbst;
+   Regel 2 sagt, dass er nichts besitzt, nicht dass er nichts tun kann.
 3. **Choi erfaehrt nie, wer davon weiss.** Seine einzige Szene liegt am
    6. November, die Anrufe fangen am neunten an. *"He will not know that there
    is a where."* Das ist ausdrueckliche Vorgabe des Autors und keine

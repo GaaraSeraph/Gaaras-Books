@@ -4143,7 +4143,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.2) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *The invitation* (v1.3) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
@@ -4234,7 +4234,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.4) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.6) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es

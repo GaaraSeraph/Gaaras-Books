@@ -1,7 +1,7 @@
-Book Two · Chapter 90: The weapon
-Lot Fourteen · Version 1.4 · EN
+# Chapter 90: The weapon
+*Lot Fourteen* · Version 1.6 · EN
 
-Day Four Hundred and Fifteen · Sunday 22 November
+## Day Four Hundred and Fifteen · Sunday 22 November
 
 There are two more people in that house and it has changed the whole of it, and nobody has said so.
 
@@ -15,7 +15,7 @@ Ahn Jung-hee has been to Gangnam-gu twice.
 
 The second time she stayed four hours and came back with oil on the sleeve of a coat that is not hers. Neither of them has said one word about it to anybody in that house, and Georgij is not going to ask, and Annie has not either.
 
-———
+* * *
 
 On the Sunday morning she came and found him in the passage outside the small office, which is where he is when there is nothing to do.
 
@@ -29,7 +29,7 @@ On the Sunday morning she came and found him in the passage outside the small of
 
 "Then say why you did not."
 
-———
+* * *
 
 He did not dress it.
 
@@ -45,9 +45,9 @@ Ahn Jung-hee looked at the wall for a moment, which is a thing she does.
 
 "It is noted."
 
-———
+* * *
 
-———
+* * *
 
 It has not been a good three weeks for the woman who paid, either, and none of it shows.
 
@@ -59,65 +59,91 @@ Woo has not been in that house since the fifth of October.
 
 He telephoned once, on the third of November, and asked one question and rang off. The question was whether the woman was out.
 
-———
+* * *
 
-Annie made nine telephone calls between the ninth of November and the nineteenth.
+Mr Byun has not been seen in that trade since May.
 
-She made them from the desk in the small room, at four in the afternoon, and she did not tell him that she was going to make any of them.
+In May four buyers were told what he had taken off them, with the amount and the date on each, and that his own hand was still on the entry. Nobody threatened him with anything and nobody needed to. The flat on the eighth floor in Seongdong with the view of the river went in July, and nobody in this book knows who has it now.
 
-He found out on the twentieth, from Mrs Seo, who mentioned that the small room had been wanted at four every day for a fortnight and that this had not happened in eleven years.
+---
 
-———
+He was protected for twenty-six years by a house. In November he stopped being protected, and the four men he had taken money off were still alive and still had telephones.
 
-She did not pretend it had not happened.
+* * *
 
-"Nine," she said. "Park Sang-hoon first, because he is the one who matters, and because he has four decisions behind him that he has never once been able to explain to himself."
+Georgij made nine telephone calls between the ninth of November and the nineteenth.
 
-"And you told him."
+He made them from the telephone in the passage behind the kitchen, in the afternoons, and he told her the night before each one who it was going to be.
 
-"Where they were made, and who was at the table, and in what order." She had both hands flat on the desk. "Not what I think of it. Not what I would like him to do about it. He has run eleven thousand people for nine years on the understanding that he decides things, and I have just told him about four afternoons on which he did not."
+---
 
-Georgij stood where he stands.
+Park Sang-hoon first, because he is the one who matters and because he has four decisions behind him that he has never once been able to explain to himself. Where each of them was made. Who was at the table. In what order.
 
-"And you asked him for nothing."
+Not what Georgij thinks of it. Not what he would like done about it. A man who has run eleven thousand people for nine years on the understanding that he decides things, told about four afternoons on which he did not.
 
-"I asked him for nothing, and that is the whole of the mechanism, and I did not invent it." Annie turned a page over. "You did it to a man in a yard in Gimpo in March and to a man with three flatbeds in September. I watched both of them and I took notes."
+---
 
-"The other eight."
+Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why there was a fourth. Mr Hwang, who is finished and therefore has nothing left to be careful with. Baek Jun-ho, who has eleven years of it in a case. And four who are not in this book and do not need to be, and two of those are in the ministry.
 
-"Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why there was a fourth. Mr Hwang, who is finished and therefore has nothing left to be careful with. Baek Jun-ho, who has eleven years of it in a case." She did not look up. "And four who are not in this book and do not need to be, and two of those are in the ministry."
+---
 
-———
+He asked none of them for anything at all.
 
-Georgij did the arithmetic and got no pleasure out of any of it.
+* * *
 
-"None of them can pay you," he said.
+She had him in the small room on the twentieth and did not pretend it had not happened.
 
-"No."
+"None of them can pay you," she said.
 
-"So each of them is going to find something he can do that looks like his own idea."
+"No. So each of them is going to find something he can do that looks like his own idea." He did not hurry it. "And none of them is going to telephone the others, because none of them wants to be the second man to have thought of it."
 
-"Yes. And none of them will telephone the others, because none of them will want to be the second man to have thought of it." Annie put the pen down. "It will not arrive as one thing. Nine things over about two years, from nine directions, and there is no room in this country that has all nine of them in it at once."
+"It will not arrive as one thing."
 
-"And he will not know where it came from."
+"It will arrive as nine things over about two years, from nine directions, and there is no room in this country that has all nine of them in it at once." Georgij kept his hands where she could see them. "And he will not know that there is a where."
 
-"He will not know that there is a where."
+---
 
-———
+Annie let that stand for a moment before she took it apart, which is the difference between her and everybody else in this book.
 
-The clock in the hall did the thing it does at the quarter.
+"That is the cruellest thing anybody in this house has done this year," she said, "and I want it said out loud in this room that both of us know it is."
 
-"That is the only cruel thing I have done this year," said Annie. "I would like it said out loud in this room that I know it is. In about a month I will have stopped noticing."
+"It is said, Mistress."
 
-"You did not do it for me."
+* * *
 
-"No. I did not do it for you and I am not giving it to you, and what you said on the twenty-third of April stands." She looked at him then. "You did not have him and you are not going to. I did it because a man who kept a woman in a house for eleven years does not get to finish in a chair by a window with everybody being polite to him."
+"On the twenty-third of April you told me you were going to have him before the end of the year."
 
-"He is fifty-nine."
+"I did."
 
-"He is fifty-nine and he has about twenty years in him." She went back to the page. "He is not going to get them. I have not arranged that, and I am not going to be able to say afterwards that I did not."
+"It is the twentieth of November." She put the pen down. "Say it as a fact and not as a boast, because I am going to remember which one of those it was."
 
-———
+---
+
+"I have had him."
+
+---
+
+He is fifty-nine and he has about twenty years in him, and he is not going to get them. The man who did that has never owned anything and has never once said a thing that was not true.
+
+* * *
+
+He worked out what it was that he recognised, and it took him until the top of the stairs.
+
+---
+
+On the fourth of October last year he stood on a platform under an empty shopping centre with a number pinned on him. He said one true thing to a room about a man in the second row. That lot eleven had gone to him at eighty, and that no runner from settlement had been to his seat.
+
+---
+
+He did not touch him. He did not say one untrue word. He put it in front of the only people who could act on it and then he stopped talking, and the room did the rest of it.
+
+---
+
+*It is the same move.*
+
+*A cellar with a number on me, and a telephone in a passage behind a kitchen, and eight months in between looking for a document that was never going to exist. The only difference is that in October I did not know I was doing it.*
+
+* * *
 
 It has been a bad three weeks for Georgij and the reason is not any of the things anybody would guess.
 
@@ -127,7 +153,7 @@ He has not slept properly since the second of November.
 
 He noticed on the Thursday that this had gone past three weeks, and he did not do anything about it, and Annie noticed on the Wednesday and did not say anything until the Sunday.
 
-———
+* * *
 
 She said it at about nine, at the desk, without looking up.
 
@@ -139,7 +165,7 @@ She worked for about twenty minutes and he did not say anything and did not do a
 
 It is the tenth time since March and he has not counted one of them since July.
 
-———
+* * *
 
 "You have not slept since the second," said Annie.
 
@@ -153,7 +179,7 @@ He sat with that for a while.
 
 "That is the one that is easiest to say at nine o'clock, and it is not the reason."
 
-———
+* * *
 
 He did not answer for about eight seconds.
 
@@ -163,7 +189,7 @@ Annie's hand did not move.
 
 "I have known that since the third of April and I have said it twice, both times as a fact, and I have been perfectly calm about it both times." He was looking at the leg of the desk. "And I have not slept for three weeks and it is that, and I have only just got to it, and I am twenty-seven and it has taken me eight months."
 
-———
+* * *
 
 She took her hand out of his hair and put it on the arm of the chair.
 
@@ -173,7 +199,7 @@ He got up off the floor, which he does not do without being told.
 
 He stood in front of the desk and did not put his hands anywhere.
 
-———
+* * *
 
 "Somebody pointed a weapon at you," he said. "That the weapon was me is one half of why it was personal."
 
@@ -185,7 +211,7 @@ He stopped, because he had heard it go and it was not accurate.
 
 "If the world points anything at you at all, I will burn the world down."
 
-———
+* * *
 
 Annie did not say anything.
 
@@ -193,7 +219,7 @@ The house did the things a house does at half past nine, and one of them, since 
 
 She did not look away and she did not fill it and she did not make it smaller.
 
-———
+* * *
 
 He went round the desk.
 
@@ -205,7 +231,7 @@ It is not the thing he did in a ballroom last November, in front of four or five
 
 Her fingers were cool from the room.
 
-———
+* * *
 
 After a while he sat back on his heels.
 
@@ -213,9 +239,9 @@ After a while he sat back on his heels.
 
 Annie put her hand back into his hair.
 
-———
+* * *
 
-———
+* * *
 
 He went down at about eleven and did not work.
 
@@ -225,7 +251,7 @@ Then he stood in the passage at the back of the house for a minute, outside a do
 
 Then he went to bed and slept about nine hours, which is the first time since the second of November.
 
-———
+* * *
 
 Downstairs somebody moved a chair.
 
