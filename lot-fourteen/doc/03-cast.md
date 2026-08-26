@@ -61,7 +61,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Sim** | Chois Haende. Dreissig Jahre Fixer, und sein Instrument ist die Freundlichkeit | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
 | **Mr Yeom** | Dritte Etage in Jung-gu, zehn Firmen ohne Personal. Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
 | **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | Solicitor in Yeouido, verwaltet den Trust seit elf Jahren | B2 42 | **Faellig, aber zuletzt.** Das Geld ist der Sauerstoff |
+| **Baek Jun-ho** | Solicitor in Yeouido, dreiundsechzig, elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
 | **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Cha Tae-seong** | Gimpo, seit Juni knapp an Hoffläche, hat Geld, das dieses Jahr weg muss | B2 79 (nur genannt) | **Woos ungefragte Gabe:** zahlt ein Fuenftel mehr und in neun Tagen |
 | **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |

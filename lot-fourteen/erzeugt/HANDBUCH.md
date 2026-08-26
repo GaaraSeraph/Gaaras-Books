@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 271.961 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 273.140 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -267,20 +267,20 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kim Ye-rin](#kim-ye-rin)
   - [Mr Hong](#mr-hong)
   - [Mr Ku](#mr-ku)
+  - [Mr Baek](#mr-baek)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
   - [Mrs Bae](#mrs-bae)
   - [Choi Dae-ho](#choi-dae-ho)
   - [Nam Byung-hee](#nam-byung-hee)
-  - [Mr Baek](#mr-baek)
   - [Mrs Ha](#mrs-ha)
   - [Mr Koh](#mr-koh)
   - [Ji-won](#ji-won)
   - [Mr Byun](#mr-byun)
   - [Ahn Jung-hee](#ahn-jung-hee)
   - [Shin](#shin)
-  - [Mrs Gwak](#mrs-gwak)
   - [Baek Jun-ho](#baek-jun-ho)
+  - [Mrs Gwak](#mrs-gwak)
   - [Mr Sohn](#mr-sohn)
   - [Mr Pyo](#mr-pyo)
   - [Moon Hae-sook](#moon-hae-sook)
@@ -1722,7 +1722,7 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Sim** | Chois Haende. Dreissig Jahre Fixer, und sein Instrument ist die Freundlichkeit | B2 31 | **Gedreht, nicht umgedreht.** Ruft am 14. September wieder an |
 | **Mr Yeom** | Dritte Etage in Jung-gu, zehn Firmen ohne Personal. Kennt Sims Namen und gibt ihn nicht her | B2 24 | Aktiv, liest vier Jahre Quartalsmappen |
 | **Mr Hwang** | **Der Sanierer.** Fuehrt das Auktionshaus seit dem Todesjahr seines Vaters und war nie auf der Flaeche | B2 1 | Aktiv. Das Haus wird ueber ihn beendet |
-| **Baek Jun-ho** | Solicitor in Yeouido, verwaltet den Trust seit elf Jahren | B2 42 | **Faellig, aber zuletzt.** Das Geld ist der Sauerstoff |
+| **Baek Jun-ho** | Solicitor in Yeouido, dreiundsechzig, elf Treuhandschaften, verwaltet diese seit elf Jahren | B2 42 | **Eingeloest in B2 82: das Geld IST der Sauerstoff.** Vierundvierzig Zahlungen an eine Adresse in Gangwon-do, ohne Namen, mit seiner Unterschrift |
 | **Mr Koh** | Der Erste von Annies einunddreissig Namen. **Hiess bis 25.08. Mr Ryu** | B2 37 | **Laeuft ohne Auftrag weiter.** Hat am 11. und 13. August zwei weitere angerufen |
 | **Cha Tae-seong** | Gimpo, seit Juni knapp an Hoffläche, hat Geld, das dieses Jahr weg muss | B2 79 (nur genannt) | **Woos ungefragte Gabe:** zahlt ein Fuenftel mehr und in neun Tagen |
 | **Mr Pyeon** | Einer der fünf. Yangsan, drei Pritschenwagen, die Tochter macht die Rechnungen | B2 76 (spricht nicht) | **Schickt den Brief am selben Tag zurück.** Sechs Wörter in Bleistift auf der Rückseite: *"Understood. Please do not send another."* |
@@ -6627,8 +6627,70 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Frist: eine Woche** (Tag 384), weil die platzierende Partei das Haus vor
     Ende November raeumt. Und der Name auf der vierten Seite **in ihrer eigenen
     Handschrift**, kein getippter.
-  - **Offen und beim Autor:** ob Annie den Eintrag in der permanenten Reihe
-    annimmt. Das ist die Entscheidung, die Kapitel 82 traegt.
+  - **Entschieden am 25.08. (Autor):** sie sucht erst sieben Tage nach einem Weg
+    daran vorbei. Siehe Kapitel 82.
+
+- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.0) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Ihre erste Reaktion ist kein Ja und kein Nein**, sondern ein Auftrag:
+    *"Find me the way round it... and do not come back and tell me you looked."*
+    Neunzehn Jahre nicht neben etwas auf Papier zu stehen ist **die ganze Art,
+    wie dieses Haus aus fremder Arithmetik herausgeblieben ist.**
+  - **BAEK JUN-HO WIRD EINGELOEST**, seit Kapitel 50 als *faellig, aber zuletzt*
+    im Cast. Er antwortet in drei Teilen und kuendigt das an.
+  - **Erstens:** keine Versiegelung, keine Ruecknahme, und keine allgemeine
+    Vollmacht in der Urkunde, die ein Gericht als eine lesen wuerde. Und seine
+    Maschine dazu, unveraendert: *"I would like to be exact about the size of my
+    professional admiration. It is considerable and it is entirely unhelpful to
+    you."*
+  - **Zweitens:** eine Gesellschaft ist schlimmer als ein Vertreter. *"A name in
+    a sequence is a fact and a reader has to decide what to do with it. A
+    structure in a sequence is a decision."* In einunddreissig Jahren hat er nie
+    gesehen, dass eine Treuhaenderloesung hinterher besser aussah, **und er hat
+    elf davon gebaut.**
+  - **Drittens, und es ist die Stelle des Kapitels:** das Formular verlangt eine
+    benannte natuerliche Person und sagt nicht, welche. *"There is a natural
+    person sitting in this room who is not on any of it."* **Er nimmt es vier
+    Sekunden spaeter selbst zurueck** und beziffert, was er daran mindet: es war
+    fachlich richtig, es hat unter einer Sekunde gedauert, und in dieser Sekunde
+    ist ihm nicht eingefallen, **was er da vorgeschlagen hat, dass ein bestimmter
+    Mann besitzen soll.**
+  - **Und es scheitert vorher an Regel 2** (`CLAUDE.md`), was Georgij selbst
+    zuerst sagt: kein Geld, kein Konto, nie etwas gehalten, zwei Dokumente
+    darueber, was er darf. Baek: *"That is the correct order to have said those
+    two things in, and I noticed the order."*
+  - **DIE ANTWORT AUF MOON HAE-SOOK, UND SIE KIPPT KAPITEL 81:** *"The
+    administrator looked in the wrong building."* Seit der zweiten Maerzwoche vor
+    elf Jahren zahlt eine Daueranweisung auf einer seiner Treuhandschaften
+    vierteljaehrlich an einen Lieferanten fuer medizinische Gase und monatlich an
+    eine Privatpraxis, gegen **eine** Adresse in Gangwon-do. Kein Name, nie einer.
+    **Vierundvierzig Unterschriften in elf Jahren.**
+  - **Und was das ist:** *"A lot number is a house saying that a person is a
+    thing it holds. This is a solicitor saying that somebody at an address has
+    needed oxygen every quarter for eleven years, and that somebody has paid for
+    it without ever writing down who they are."* **Sie hat keine Zeile im
+    Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte.**
+  - **Baek beziffert seine eigene Mitwisserschaft ungefragt:** die ersten vier
+    Zahlungen ohne zu fragen, die naechsten vierzig, nachdem er beschlossen
+    hatte, nicht zu fragen, seit etwa neun Jahren geglaubt, es sei eine
+    Familiensache, **und seit dem 2. Juni weiss er es besser und hat vier weitere
+    unterschrieben.**
+  - **Den Namen des Errichters gibt er nicht her**, und die Begruendung ist die
+    Regel des Bandes von der anderen Seite: *"The moment I do, you will go and do
+    something with it... That is a rule I made this month, and you are the first
+    person it applies to."* Er will es am Tag nach ihrem Herauskommen hoeren, und
+    auch dann, wenn es schiefgeht.
+  - **ANNIE SAGT AM DONNERSTAG JA**, sieben Tage nach der Frage, um zwanzig nach
+    acht, in der Tuer des kleinen Bueros, was sie nie tut. Und sie laesst sich das
+    Lob nicht: *"write the part you are going to leave out, which is that I looked
+    for the way round for seven days and that I would have taken it... in about
+    nine years the sequence will not know the difference either."*
+  - **Georgijs Eintrag am Schluss, und er ist der Befund ueber ihn selbst:** zwei
+    Menschen haben ihm diesen Monat die schlimmste Fassung ihres eigenen
+    Verhaltens ungefragt gegeben, bevor er sie finden konnte. *"I have not once
+    managed that. Every time it has been said about me in this house, it has been
+    said by somebody else first."*
 
 
 
@@ -15515,7 +15577,8 @@ wird.**
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Donnerstag neun Uhr bei Mr Hwang, und **er geht allein** · B2 81, zwei Minuten vor neun
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Mr Hwang wird **in derselben Stunde** auch nach Moon Hae-sook gefragt · B2 81, im Stehen, bevor er geht. **Die Antwort ist: nichts.** Kein Los, keine Nummer, kein Eintrag im ganzen Haus
 - [BEZAHLT] **B2 32** Mr Hwang an Georgij · gesagt Tag 238 · faellig bei dem Tag, an dem die Seite existiert · Er moechte, dass irgendwo auf der Welt ein Blatt existiert, das sagt, dass sie das Buch hingehalten hat und er es nicht genommen hat · B2 81: **Georgij sagt ihm, dass es existiert, und weigert sich, ihm eine Zeile daraus vorzulesen**, weil Mrs Jeon es an die Bedingung geknuepft hat, es nicht zu benutzen
-- [OFFEN] **B2 81** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · -
+- [BEZAHLT] **B2 81** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · B2 82, am Donnerstag um zwanzig nach acht, sieben Tage nach der Frage. **Die Antwort ist ja, in einem Wort und ungeschmueckt**
+- [OFFEN] **B2 82** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters der Treuhandschaft **erst danach**, und er erfaehrt es auch, wenn es schiefgeht, und am selben Tag · -
 - [OFFEN] **B2 81** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind, **und die vierte traegt ihren Namen in ihrer Handschrift** · -
 - [BEZAHLT] **B2 78** Annie an Georgij · gesagt Tag 364 · faellig Tag 367 · "Monday... at ten, and I am going to him... And you are going to be in the room." · B2 79, vier Minuten vor zehn, und sie nimmt nichts mit
 - [BEZAHLT] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · B2 78, dreimal an einem Abend: einundvierzig Klingelzeichen, dann nichts, dann der Ton. **Die Nummer ist weg**
@@ -17505,6 +17568,7 @@ gegengeprüft.*
 | **79** | *What it is worth* | **Tragend.** Woo, der einzige VERFALLEN-Eintrag des Buches, der Käufer in der Halle | HALTEN |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
+| **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
 
 ---
 
@@ -17573,7 +17637,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 867 | 92 (b1ch01-b2ch80) | 1 | 74 |
+| Annie | 870 | 93 (b1ch01-b2ch82) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 250 | 42 (b1ch07-b2ch80) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
@@ -17590,23 +17654,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
+| Mr Baek | 34 | 11 (b1ch05-b2ch82) | 2 | 55 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Choi Dae-ho | 29 | 18 (b1ch07-b2ch80) | 2 | 61 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
-| Mr Baek | 26 | 10 (b1ch05-b2ch60) | 2 | 55 |
 | Mrs Ha | 24 | 3 (b2ch66-b2ch68) | 37 | 42 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 20 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Ahn Jung-hee | 19 | 11 (b2ch56-b2ch81) | 4 | 53 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
+| Baek Jun-ho | 16 | 5 (b2ch42-b2ch82) | 2 | 10 |
 | Mrs Gwak | 15 | 3 (b2ch31-b2ch36) | 41 | 51 |
-| Baek Jun-ho | 13 | 4 (b2ch42-b2ch51) | 2 | 10 |
 | Mr Sohn | 12 | 2 (b2ch39-b2ch58) | 22 | 61 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
-| Moon Hae-sook | 8 | 5 (b2ch66-b2ch81) | 4 | 53 |
+| Moon Hae-sook | 9 | 6 (b2ch66-b2ch82) | 4 | 53 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
@@ -17624,7 +17688,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-867 Nennungen in 92 Kapiteln.
+870 Nennungen in 93 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -18495,6 +18559,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch80:114 | "It is the whole of it and it is what he is owed, and it is also the only difference bet.. |
 | 4 | b2ch80:130 | "On the twenty-second there will be four hundred and eighty-one million won in an accoun.. |
 | 4 | b2ch80:160 | Annie stood at the window for a while. |
+| 10 | b2ch82:10 | "Find me the way round it," said Annie. |
+| 7 | b2ch82:158 | "Say the sentence back to me," said Annie. |
+| 7 | b2ch82:186 | Annie looked at him for slightly longer than she needed to. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -21405,6 +21472,75 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Mr Baek
+
+34 Nennungen in 11 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
+| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
+| 2 | b2ch42:178 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 10 | b2ch50:84 | "It is a set of instructions and a bank account, and nothing else. My job is to do what .. |
+| 10 | b2ch50:92 | "In eleven years I have never met anybody connected with it, been to the property, or sp.. |
+| 10 | b2ch50:102 | Baek thought about that. |
+| 10 | b2ch50:106 | "Four years ago the instructions were amended," said Baek. "That is the part Mr Park ask.. |
+| 10 | b2ch50:114 | "I wrote once, in the ordinary way. I received a very courteous letter explaining that t.. |
+| 10 | b2ch50:146 | "You have not asked me a question yet," said Baek. |
+| 10 | b2ch50:170 | "I paid it because it was properly rendered and inside the instructions," said Baek, "an.. |
+| 10 | b2ch50:180 | "You want it," said Baek. |
+| 10 | b2ch50:194 | Baek looked at him for a long moment. |
+| 10 | b2ch50:226 | "It is not a name, a hospital number or an insurance number," said Baek. "I have looked .. |
+| 10 | b2ch50:246 | "I would like to sit for a moment," said Baek. |
+| 10 | b2ch50:258 | "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Ba.. |
+| 10 | b2ch50:266 | "Do not do that." Baek said it quite sharply, and it was the first time his voice had do.. |
+| 10 | b2ch50:276 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
+| 10 | b2ch50:282 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
+| 22 | b2ch58:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
+| 22 | b2ch58:270 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
+| 22 | b2ch59:196 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
+| 25 | b2ch60:214 | Baek and the trust cannot be touched first, because the money is the oxygen. The house c.. |
+| 5 | b2ch82:40 | "An agent is out and he has told you that himself. A company is worse than an agent." Ba.. |
+| 5 | b2ch82:54 | "The third part is that the form requires the buyer to be a natural person who is named... |
+| 5 | b2ch82:60 | Baek waited about four seconds and then did the thing that a man of sixty-three does whe.. |
+| 5 | b2ch82:98 | "I am going to need a minute," said Baek. |
+| 5 | b2ch82:110 | "Since the second week of March eleven years ago, a standing instruction on one of my tr.. |
+| 5 | b2ch82:122 | "It is a record." Baek said it without any relief in it at all. "You have told me that t.. |
+| 5 | b2ch82:134 | "The settlor of the trust instructed it in the second week of March eleven years ago, in.. |
+| 5 | b2ch82:148 | "The day after she is out of that building, whichever way it goes, and I want to hear it.. |
+
+### Zahlen in der Naehe von Mr Baek
+
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch24:46` (Tag 55) - eight, one
+- `b2ch01:18` (Tag 51) - four, six
+- `b2ch42:178` (Tag 2) - one
+- `b2ch50:92` (Tag 10) - eleven
+- `b2ch50:106` (Tag 10) - four
+- `b2ch50:114` (Tag 10) - four
+- `b2ch50:170` (Tag 10) - eleven
+- `b2ch50:226` (Tag 10) - thirty, three
+- `b2ch50:258` (Tag 10) - one
+- `b2ch50:266` (Tag 10) - four
+- `b2ch50:276` (Tag 10) - one
+- `b2ch50:282` (Tag 10) - eleven
+- `b2ch58:66` (Tag 22) - eight, one
+- `b2ch58:270` (Tag 22) - one
+- `b2ch59:196` (Tag 22) - eleven
+- `b2ch82:40` (Tag 5) - four, nine, one, two
+- `b2ch82:54` (Tag 5) - two
+- `b2ch82:60` (Tag 5) - four, sixty-three
+- `b2ch82:110` (Tag 5) - eleven, four, one, two
+- `b2ch82:122` (Tag 5) - eleven, forty-four, one, two
+- `b2ch82:134` (Tag 5) - eleven, five, twenty
+
+---
+
 ### Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -21687,61 +21823,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-### Mr Baek
-
-26 Nennungen in 10 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:24 | Mr Baek sent up something with a great deal of salt in it, which Georgij suspected was a.. |
-| 41 | b1ch15:214 | Mr Baek's salt cooled on the table. Somewhere below them a door closed and somebody went.. |
-| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 51 | b2ch01:18 | The staff table was laid for four and sat six. The boy from the kitchens ate standing at.. |
-| 2 | b2ch42:178 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 10 | b2ch50:84 | "It is a set of instructions and a bank account, and nothing else. My job is to do what .. |
-| 10 | b2ch50:92 | "In eleven years I have never met anybody connected with it, been to the property, or sp.. |
-| 10 | b2ch50:102 | Baek thought about that. |
-| 10 | b2ch50:106 | "Four years ago the instructions were amended," said Baek. "That is the part Mr Park ask.. |
-| 10 | b2ch50:114 | "I wrote once, in the ordinary way. I received a very courteous letter explaining that t.. |
-| 10 | b2ch50:146 | "You have not asked me a question yet," said Baek. |
-| 10 | b2ch50:170 | "I paid it because it was properly rendered and inside the instructions," said Baek, "an.. |
-| 10 | b2ch50:180 | "You want it," said Baek. |
-| 10 | b2ch50:194 | Baek looked at him for a long moment. |
-| 10 | b2ch50:226 | "It is not a name, a hospital number or an insurance number," said Baek. "I have looked .. |
-| 10 | b2ch50:246 | "I would like to sit for a moment," said Baek. |
-| 10 | b2ch50:258 | "The flat in Seodaemun is hers. Not the woman who is being cared for. The other one." Ba.. |
-| 10 | b2ch50:266 | "Do not do that." Baek said it quite sharply, and it was the first time his voice had do.. |
-| 10 | b2ch50:276 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
-| 10 | b2ch50:282 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
-| 22 | b2ch58:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 22 | b2ch58:270 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
-| 22 | b2ch59:196 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
-| 25 | b2ch60:214 | Baek and the trust cannot be touched first, because the money is the oxygen. The house c.. |
-
-### Zahlen in der Naehe von Mr Baek
-
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch24:46` (Tag 55) - eight, one
-- `b2ch01:18` (Tag 51) - four, six
-- `b2ch42:178` (Tag 2) - one
-- `b2ch50:92` (Tag 10) - eleven
-- `b2ch50:106` (Tag 10) - four
-- `b2ch50:114` (Tag 10) - four
-- `b2ch50:170` (Tag 10) - eleven
-- `b2ch50:226` (Tag 10) - thirty, three
-- `b2ch50:258` (Tag 10) - one
-- `b2ch50:266` (Tag 10) - four
-- `b2ch50:276` (Tag 10) - one
-- `b2ch50:282` (Tag 10) - eleven
-- `b2ch58:66` (Tag 22) - eight, one
-- `b2ch58:270` (Tag 22) - one
-- `b2ch59:196` (Tag 22) - eleven
-
----
-
 ### Mrs Ha
 
 24 Nennungen in 3 Kapiteln.
@@ -21998,6 +22079,40 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Baek Jun-ho
+
+16 Nennungen in 5 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 2 | b2ch42:178 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
+| 2 | b2ch42:182 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
+| 2 | b2ch42:246 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
+| 2 | b2ch48:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
+| 10 | b2ch50:20 | "This is Baek Jun-ho," said Sang-hoon. |
+| 10 | b2ch50:38 | Baek Jun-ho did not move at all. |
+| 10 | b2ch50:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
+| 10 | b2ch50:136 | Baek Jun-ho did not move. |
+| 10 | b2ch50:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
+| 10 | b2ch50:202 | Baek Jun-ho opened the case. |
+| 10 | b2ch50:236 | Baek Jun-ho sat very still. |
+| 10 | b2ch50:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
+| 3 | b2ch51:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
+| 5 | b2ch82:26 | Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he ar.. |
+| 5 | b2ch82:82 | Baek Jun-ho looked at him for a moment. |
+| 5 | b2ch82:92 | Baek Jun-ho did not say anything. |
+
+### Zahlen in der Naehe von Baek Jun-ho
+
+- `b2ch42:178` (Tag 2) - one
+- `b2ch42:182` (Tag 2) - nineteen
+- `b2ch42:246` (Tag 2) - eleven
+- `b2ch48:128` (Tag 2) - eleven
+- `b2ch50:78` (Tag 10) - eleven, one
+- `b2ch82:26` (Tag 5) - fifty
+
+---
+
 ### Mrs Gwak
 
 15 Nennungen in 3 Kapiteln.
@@ -22028,36 +22143,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch34:80` (Tag 46) - thirty
 - `b2ch34:140` (Tag 46) - eleven
 - `b2ch36:50` (Tag 51) - eight, eleven, one
-
----
-
-### Baek Jun-ho
-
-13 Nennungen in 4 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 2 | b2ch42:178 | "Mr Baek Jun-ho. Not the cook. A different Baek, and before you ask, I checked, because .. |
-| 2 | b2ch42:182 | "He was investigated once. Nineteen years ago, for a different client entirely, and he w.. |
-| 2 | b2ch42:246 | "Nothing, yet. I want to know who else Baek Jun-ho has ever administered a trust for, go.. |
-| 2 | b2ch48:128 | "You do the thing you are the only person who can do, and it is not the house." Georgij .. |
-| 10 | b2ch50:20 | "This is Baek Jun-ho," said Sang-hoon. |
-| 10 | b2ch50:38 | Baek Jun-ho did not move at all. |
-| 10 | b2ch50:78 | Baek Jun-ho has administered eleven trusts for a firm in Yeouido for most of his working.. |
-| 10 | b2ch50:136 | Baek Jun-ho did not move. |
-| 10 | b2ch50:160 | Baek Jun-ho put both hands on the document case beside his chair, which had been there t.. |
-| 10 | b2ch50:202 | Baek Jun-ho opened the case. |
-| 10 | b2ch50:236 | Baek Jun-ho sat very still. |
-| 10 | b2ch50:296 | Baek Jun-ho nodded once, the way a man does when something he has half known has been sa.. |
-| 3 | b2ch51:136 | "And Baek Jun-ho does not find out that a copy left this house until after Saturday, bec.. |
-
-### Zahlen in der Naehe von Baek Jun-ho
-
-- `b2ch42:178` (Tag 2) - one
-- `b2ch42:182` (Tag 2) - nineteen
-- `b2ch42:246` (Tag 2) - eleven
-- `b2ch48:128` (Tag 2) - eleven
-- `b2ch50:78` (Tag 10) - eleven, one
 
 ---
 
@@ -22126,7 +22211,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Moon Hae-sook
 
-8 Nennungen in 5 Kapiteln.
+9 Nennungen in 6 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -22138,6 +22223,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch80:148 | "Moon Hae-sook." |
 | 4 | b2ch80:150 | "Moon Hae-sook. Say it in one sentence and use the word." |
 | 10 | b2ch81:134 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 5 | b2ch82:90 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 
 ### Zahlen in der Naehe von Moon Hae-sook
 
@@ -22145,6 +22231,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch68:208` (Tag 42) - eleven, four, one
 - `b2ch80:150` (Tag 4) - one
 - `b2ch81:134` (Tag 10) - eleven, four
+- `b2ch82:90` (Tag 5) - eleven, three
 
 ---
 

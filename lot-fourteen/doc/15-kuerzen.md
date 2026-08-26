@@ -96,6 +96,7 @@ gegengeprüft.*
 | **79** | *What it is worth* | **Tragend.** Woo, der einzige VERFALLEN-Eintrag des Buches, der Käufer in der Halle | HALTEN |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
+| **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
 
 ---
 

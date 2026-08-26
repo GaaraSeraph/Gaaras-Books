@@ -3798,8 +3798,70 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Frist: eine Woche** (Tag 384), weil die platzierende Partei das Haus vor
     Ende November raeumt. Und der Name auf der vierten Seite **in ihrer eigenen
     Handschrift**, kein getippter.
-  - **Offen und beim Autor:** ob Annie den Eintrag in der permanenten Reihe
-    annimmt. Das ist die Entscheidung, die Kapitel 82 traegt.
+  - **Entschieden am 25.08. (Autor):** sie sucht erst sieben Tage nach einem Weg
+    daran vorbei. Siehe Kapitel 82.
+
+- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.0) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Ihre erste Reaktion ist kein Ja und kein Nein**, sondern ein Auftrag:
+    *"Find me the way round it... and do not come back and tell me you looked."*
+    Neunzehn Jahre nicht neben etwas auf Papier zu stehen ist **die ganze Art,
+    wie dieses Haus aus fremder Arithmetik herausgeblieben ist.**
+  - **BAEK JUN-HO WIRD EINGELOEST**, seit Kapitel 50 als *faellig, aber zuletzt*
+    im Cast. Er antwortet in drei Teilen und kuendigt das an.
+  - **Erstens:** keine Versiegelung, keine Ruecknahme, und keine allgemeine
+    Vollmacht in der Urkunde, die ein Gericht als eine lesen wuerde. Und seine
+    Maschine dazu, unveraendert: *"I would like to be exact about the size of my
+    professional admiration. It is considerable and it is entirely unhelpful to
+    you."*
+  - **Zweitens:** eine Gesellschaft ist schlimmer als ein Vertreter. *"A name in
+    a sequence is a fact and a reader has to decide what to do with it. A
+    structure in a sequence is a decision."* In einunddreissig Jahren hat er nie
+    gesehen, dass eine Treuhaenderloesung hinterher besser aussah, **und er hat
+    elf davon gebaut.**
+  - **Drittens, und es ist die Stelle des Kapitels:** das Formular verlangt eine
+    benannte natuerliche Person und sagt nicht, welche. *"There is a natural
+    person sitting in this room who is not on any of it."* **Er nimmt es vier
+    Sekunden spaeter selbst zurueck** und beziffert, was er daran mindet: es war
+    fachlich richtig, es hat unter einer Sekunde gedauert, und in dieser Sekunde
+    ist ihm nicht eingefallen, **was er da vorgeschlagen hat, dass ein bestimmter
+    Mann besitzen soll.**
+  - **Und es scheitert vorher an Regel 2** (`CLAUDE.md`), was Georgij selbst
+    zuerst sagt: kein Geld, kein Konto, nie etwas gehalten, zwei Dokumente
+    darueber, was er darf. Baek: *"That is the correct order to have said those
+    two things in, and I noticed the order."*
+  - **DIE ANTWORT AUF MOON HAE-SOOK, UND SIE KIPPT KAPITEL 81:** *"The
+    administrator looked in the wrong building."* Seit der zweiten Maerzwoche vor
+    elf Jahren zahlt eine Daueranweisung auf einer seiner Treuhandschaften
+    vierteljaehrlich an einen Lieferanten fuer medizinische Gase und monatlich an
+    eine Privatpraxis, gegen **eine** Adresse in Gangwon-do. Kein Name, nie einer.
+    **Vierundvierzig Unterschriften in elf Jahren.**
+  - **Und was das ist:** *"A lot number is a house saying that a person is a
+    thing it holds. This is a solicitor saying that somebody at an address has
+    needed oxygen every quarter for eleven years, and that somebody has paid for
+    it without ever writing down who they are."* **Sie hat keine Zeile im
+    Auktionshaus und elf Jahre Zeilen in einer Anwaltsakte.**
+  - **Baek beziffert seine eigene Mitwisserschaft ungefragt:** die ersten vier
+    Zahlungen ohne zu fragen, die naechsten vierzig, nachdem er beschlossen
+    hatte, nicht zu fragen, seit etwa neun Jahren geglaubt, es sei eine
+    Familiensache, **und seit dem 2. Juni weiss er es besser und hat vier weitere
+    unterschrieben.**
+  - **Den Namen des Errichters gibt er nicht her**, und die Begruendung ist die
+    Regel des Bandes von der anderen Seite: *"The moment I do, you will go and do
+    something with it... That is a rule I made this month, and you are the first
+    person it applies to."* Er will es am Tag nach ihrem Herauskommen hoeren, und
+    auch dann, wenn es schiefgeht.
+  - **ANNIE SAGT AM DONNERSTAG JA**, sieben Tage nach der Frage, um zwanzig nach
+    acht, in der Tuer des kleinen Bueros, was sie nie tut. Und sie laesst sich das
+    Lob nicht: *"write the part you are going to leave out, which is that I looked
+    for the way round for seven days and that I would have taken it... in about
+    nine years the sequence will not know the difference either."*
+  - **Georgijs Eintrag am Schluss, und er ist der Befund ueber ihn selbst:** zwei
+    Menschen haben ihm diesen Monat die schlimmste Fassung ihres eigenen
+    Verhaltens ungefragt gegeben, bevor er sie finden konnte. *"I have not once
+    managed that. Every time it has been said about me in this house, it has been
+    said by somebody else first."*
 
 
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 81 Kapitel, 200.936 Woerter.
+Book Two, 82 Kapitel, 203.383 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -92,6 +92,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 79 | v1.0 | 2.166 |
 | 80 | v1.0 | 2.083 |
 | 81 | v1.0 | 2.510 |
+| 82 | v1.0 | 2.447 |
 
 ---
 
@@ -18313,3 +18314,216 @@ He wrote four lines in the car and did not start the engine while he wrote them.
 *There is no line anywhere on the other woman. Not one. That is not an oversight and it is not carelessness.*
 
 *A man who keeps somebody without a line has decided in advance that nobody will ever be able to ask.*
+
+---
+
+# Book Two · Chapter 82: Eleven years of paying for it
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Three Hundred and Seventy-Seven · Thursday 15 October
+
+He was back at the house by half past eleven and he gave it to her standing.
+
+She heard the whole of it without saying anything, which she does perhaps twice a year, and when he had finished she did not say yes and she did not say no.
+
+"Find me the way round it," said Annie.
+
+"There may not be one."
+
+"Then find me that, and find it in a form I can look at, and do not come back and tell me you looked." She had both hands flat on the desk. "I have been in this trade for nineteen years and I have never once been on a piece of paper next to a thing I own. That is the whole of how this house has stayed out of other people's arithmetic, and I am not going to give it away in an afternoon because a man in Gangnam wrote a good clause in 2011."
+
+"Who do I take it to."
+
+"Somebody who has read a permanent series and knows what happens to one." She did not take any time over it. "A man who has administered something for a long time and has watched an archive swallow it."
+
+Georgij did not need to be told the name.
+
+* * *
+
+## Day Three Hundred and Eighty-Two · Tuesday 20 October
+
+Baek Jun-ho gave him fifty minutes on the Tuesday and had read the question before he arrived, because Georgij had put it in writing on the Friday and had put the clause in with it.
+
+He is sixty-three and he has eleven trusts and he has had four of them for longer than Georgij has been alive.
+
+"I am going to answer this in three parts and the third one is the one you have come for," he said. "The first two are short and you will not like the shape of them."
+
+"Go on."
+
+"There is no application to seal an entry in that series and none to withdraw one. I have read the terms twice since Friday, and there is no general power in the deed that a court would read as one either." He had the terms in front of him and one finger on the page. "The man who drafted it in 2011 was thorough in a way that people were not being thorough in 2011, and I would like to be exact about the size of my professional admiration. It is considerable and it is entirely unhelpful to you."
+
+* * *
+
+"And the second part," said Georgij.
+
+"An agent is out and he has told you that himself. A company is worse than an agent." Baek turned the page over. "A corporate buyer goes into the series as a corporate buyer. One with a registered office and a single director is a thing any competent person unwinds in about four hours, and the unwinding then sits on a record of its own. You would be swapping one entry for two, and the second one would look like concealment, and concealment reads differently in nine years than a name does."
+
+"Say what you mean by differently."
+
+"A name in a sequence is a fact and a reader has to decide what to do with it. A structure in a sequence is a decision, and a reader does not have to decide anything about a decision, because it has already told him what somebody thought about it at the time." He put both hands on the desk. "In thirty-one years I have never once seen a nominee arrangement improve how a thing looks afterwards. Not once, and I have been asked to build eleven of them."
+
+* * *
+
+Neither of them said anything.
+
+Out in the outer office a telephone rang twice and stopped.
+
+"Then the third part," said Georgij.
+
+"The third part is that the form requires the buyer to be a natural person who is named. It does not say whose." Baek said it in exactly the voice he had used for the other two. "There is a natural person sitting in this room who is not on any of it."
+
+* * *
+
+Georgij did not move at all.
+
+Baek waited about four seconds and then did the thing that a man of sixty-three does when he has heard his own sentence land in a room and has understood the size of it late.
+
+"I withdraw that," he said.
+
+"You do not have to withdraw it. It was correct."
+
+"It is correct in the way that a great many correct things are, and I have been doing this since 1994 and I know exactly what I have just said out loud." He put one hand flat. "I am going to say the size of it and then we will leave it. It was a technically sound answer, it took me under a second, and it did not occur to me for the whole of that second what I was proposing that a particular man should own."
+
+"It occurred to me."
+
+"I am aware that it did. That is the part I mind."
+
+* * *
+
+Georgij put both hands on his knees.
+
+"It also fails," he said, "and it fails before it gets to any of that, and I would rather it failed on the mechanics than on the other thing."
+
+"Say the mechanics."
+
+"I have no money. I have no account. I have never held anything and there is nothing in my name anywhere on this earth except two documents about what I am permitted to do." He said it flatly and completely. "A named natural person who cannot produce four hundred and eighty-one million won is not a buyer. One who produces somebody else's is a nominee, and you have just spent four minutes explaining to me what those look like in nine years."
+
+Baek Jun-ho looked at him for a moment.
+
+"That is the correct order to have said those two things in," he said, "and I noticed the order, and I am going to leave it there."
+
+* * *
+
+Georgij took the second thing out then, because he had decided on the Friday that it would go in this hour and not in a fortnight.
+
+"There is a woman in that building who has been there eleven years and is on oxygen," he said. "Her name is Moon Hae-sook. I asked the administrator of the house on Thursday what the house holds on her, and the answer is nothing. No lot, no reference, no entry, no slip, no commission. He has read the whole series three times."
+
+Baek Jun-ho did not say anything.
+
+"Say what you know," said Georgij.
+
+* * *
+
+"I am going to need a minute," said Baek.
+
+He got up and went to the cabinet behind his desk and unlocked it and did not take anything out of it. He stood there with his hand on the open door for longer than a man needs to find a file whose position he has known for eleven years.
+
+Then he came back and sat down and put nothing on the desk at all.
+
+"The administrator looked in the wrong building," he said.
+
+* * *
+
+"Say it properly."
+
+"Since the second week of March eleven years ago, a standing instruction on one of my trusts has paid two sums against one address in Gangwon-do. A quarterly one to a supplier of medical gas and a monthly one to a private practice." Baek had both hands flat. "There is no name on either instruction. There has never been a name. There is an address, a reference of my own devising, and my signature four times a year for eleven years."
+
+"Forty-four."
+
+"Forty-four, and the first four I signed without asking anything, and the next forty I signed having decided not to." He did not look away. "I would like to be exact about the size of that. I have never once believed the arrangement was clean. I believed for about nine years that it was somebody's dependent relative and that the discretion was a family matter. I have known better since the second of June, and I have signed four more since the second of June."
+
+* * *
+
+Georgij sat very still.
+
+"Say what that is," he said.
+
+"It is a record." Baek said it without any relief in it at all. "You have told me that the woman does not exist in the house on the river. She exists here. Forty-four payments, eleven years, two suppliers, one address, one signature, and a file that has been in that cabinet since before the trust was moved to this office."
+
+"And it is not a lot number."
+
+"It is the opposite of a lot number." He put one finger on the desk. "A lot number is a house saying that a person is a thing it holds. This is a solicitor saying that somebody at an address has needed oxygen every quarter for eleven years, and that somebody has paid for it without ever writing down who they are."
+
+* * *
+
+Neither of them said anything for some time.
+
+"Who instructed it," said Georgij.
+
+"The settlor of the trust instructed it in the second week of March eleven years ago, in person, in the office I had then, and he was in that room for about twenty minutes." Baek looked at the desk. "I am not going to say the name in this room today. The moment I do, you will go and do something with it, and I have spent five days working out what I am prepared to be responsible for."
+
+"Then say when you will."
+
+"When you tell me what you are going to do with the other woman, and when it has happened." He straightened nothing, because there was nothing on the desk. "I have watched a man come into this office in March and tell me a thing about my own file that I should have found in 2016. I am not going to hand you the rest of it and find out in December that I gave a good reason to somebody at the wrong moment. That is a rule I made this month, and you are the first person it applies to."
+
+* * *
+
+"That is the correct rule," said Georgij.
+
+"You are not going to argue."
+
+"No. I have spent the last three weeks watching that exact thing done to four people and I did two of them myself." He stood up. "Say the date you want."
+
+"The day after she is out of that building, whichever way it goes, and I want to hear it from you and not from the newspaper." Baek got up as well, which he had not done in March. "And if it goes the other way, I want to hear that too, and I would like it on the same day."
+
+* * *
+
+## Day Three Hundred and Eighty-Four · Thursday 22 October
+
+She had the whole of it by Tuesday evening and she did not say anything about it on the Wednesday.
+
+On the Thursday morning she came down to the small office at twenty past eight, which she has never done, and stood in the doorway with the terms of business in her hand.
+
+"Say the sentence back to me," said Annie.
+
+"An assignment out of a wind-up goes into the permanent series at its own entry, with the date and the two parties, and it cannot be sealed or withdrawn."
+
+"And the two parties are the placing party and the buyer."
+
+"Yes."
+
+"So it will say his name and it will say mine, on one line, with a number between them." She had not raised her voice. "And in about nine years a person I will never meet will read that line and know exactly what I did. I will be sixty-one, and there will be no version of it in which I can explain myself to them."
+
+"Yes, Mistress."
+
+* * *
+
+She stood in the doorway for a moment.
+
+"Then take the answer to the fifteenth of October back to him this morning," she said, "and the answer is yes, and I want it said in one word and not dressed."
+
+Georgij did not move yet.
+
+"There is a thing I am going to say once," he said, "and then I will go."
+
+"Say it."
+
+"On the ninth of October you stood in that room and said out loud what the money was for, with the date in it, so that you could not decide in November that it had been something else." He held her eye. "You have spent seven days looking for the way round and there was not one, and you have taken thirteen days between the two and you have not moved once. I would like that noticed by somebody in this house other than you, and there is nobody else, so it is me."
+
+* * *
+
+Annie looked at him for slightly longer than she needed to.
+
+"That is very nearly a compliment," she said.
+
+"It is exactly a compliment. It is also an entry."
+
+"Then put it in your book and not in mine." She turned to go and then did not. "And Georgij."
+
+"Mistress."
+
+"When you write it, write the part you are going to leave out, which is that I looked for the way round for seven days and that I would have taken it." Her voice did not change anywhere. "I did not find one. That is not the same as not wanting one, and in about nine years the sequence will not know the difference either, and neither of those things is an excuse."
+
+She went upstairs.
+
+* * *
+
+He wrote it in the book at nine, before he went, and it took one attempt.
+
+*She looked for seven days and would have taken it. She says so herself and nobody made her.*
+
+*A man in an office in Yeouido has signed forty-four payments in eleven years and stopped believing it was clean about nine years ago, and he says that himself as well.*
+
+*Two people this month have told me the worst version of their own conduct without being asked, and both of them did it before I could find it.*
+
+*I have not once managed that. Every time it has been said about me in this house, it has been said by somebody else first.*
