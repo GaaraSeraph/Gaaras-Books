@@ -1,0 +1,782 @@
+# Chapter 71: The page in the drawer
+*Lot Fourteen* · Version 1.4 · EN
+
+## Day Three Hundred and Forty-Two · Thursday 10 September
+
+He looked at the chair.
+
+---
+
+"Not there."
+
+---
+
+He went round the desk and down onto the carpet at the side of it with his back against the drawers, which is where he sits.
+
+---
+
+The last time she told him where to sit it went the other way. That was the twenty-seventh of May and she wanted the whole of him in front of her.
+
+* * *
+
+"Six weeks ago you would have wanted to know what it was for," said Annie.
+
+---
+
+"Yes."
+
+---
+
+"You did not ask."
+
+---
+
+"No."
+
+---
+
+She let that stand for a moment and then went back to what she had been doing, which is how most things in that room end.
+
+* * *
+
+"There were six on the list yesterday," said Georgij.
+
+---
+
+"Five, and one I kept back."
+
+---
+
+"I am going to go to all of them."
+
+---
+
+Annie put the pen down.
+
+---
+
+"By Friday," she said.
+
+---
+
+Georgij did not answer straight away, because the answer was Friday.
+
+* * *
+
+"Say the route," said Annie.
+
+---
+
+"Byun at nine, because his office opens at half past eight and he is on his own until ten. Mr Hwang at eleven. Seodaemun in the afternoon, because the woman with the can is out on that landing between four and five." He said it flatly, since there was nothing to be gained by softening a timetable. "The four hauliers on Saturday and Sunday, which is six hundred kilometres, and the fifth of them on Monday morning."
+
+---
+
+"And Monday is the fourteenth."
+
+---
+
+"Yes."
+
+---
+
+"So you have put a man's four months in a slot before a telephone call," said Annie, "and you built the whole of it between my drive and my stairs."
+
+* * *
+
+"I did," said Georgij.
+
+---
+
+"I told you yesterday what you would do with it and you have brought it back to me in nineteen hours with a route in it."
+
+---
+
+"Yes, Mistress."
+
+---
+
+"You have five people in three days and there is not one hour anywhere in that where nothing happens."
+
+---
+
+Georgij sat with his back against the drawers and did not defend any part of it.
+
+* * *
+
+"Then what I should do instead," he said.
+
+---
+
+"I am not going to name one."
+
+---
+
+He looked up at her.
+
+---
+
+"That is the last thing I am going to do for you this year," said Annie. "If I pick, you will go and do it beautifully and you will have learned that I pick. Pick."
+
+* * *
+
+He took longer over it than he has taken over anything since April.
+
+---
+
+"Mrs Jeon," he said.
+
+---
+
+"Why?"
+
+---
+
+"Because the others stopped because the work stopped." He was looking at the leg of the desk. "With her the work stopped and I told myself a reason, and I said it out loud in her own room, and she wrote it down in her face and let me have it."
+
+---
+
+"Say the reason."
+
+---
+
+"That the less of it that was in her, the better that was for her."
+
+* * *
+
+Annie did not say anything for a while.
+
+---
+
+"Was it true," she said.
+
+---
+
+"It was true." Georgij did not move. "It was also the most comfortable true thing available to me at that table, and I took it, and I have not been out on that bus since the second of June."
+
+---
+
+"Fourteen weeks."
+
+---
+
+"Fourteen weeks."
+
+* * *
+
+"Tomorrow, then," said Annie. "Not in the morning."
+
+---
+
+"Why."
+
+---
+
+"Because a woman who has been given a desk should not be visited at it," she said, "and because if you go at nine you will be back here by one and you will have got through her."
+
+---
+
+"Yes, Mistress."
+
+---
+
+"Go in the evening and stay until she has finished talking. That is the whole of the instruction and there is nothing clever in it."
+
+## Day Three Hundred and Forty-Three · Friday 11 September
+
+The bus takes fifty minutes and he had nothing in his inside pocket.
+
+---
+
+He noticed that at about the thirtieth minute and did not do anything with it.
+
+---
+
+The tape is still over the name on the bell.
+
+* * *
+
+She opened the door about a third of the way and stood in it.
+
+---
+
+"It is September," said Mrs Jeon.
+
+---
+
+"Yes."
+
+---
+
+"You came out here twice in five days in the spring and then you did not come out here for fourteen weeks."
+
+---
+
+"Fourteen weeks and two days."
+
+---
+
+Mrs Jeon looked at him for a moment. Then she opened the door the whole way and went back into the room without waiting for him, which is what she did on the second of June and did not do on the twenty-ninth of May.
+
+* * *
+
+He came in and did not sit down.
+
+---
+
+The table is the same table. There is nothing on it.
+
+---
+
+"What have you brought," she said.
+
+---
+
+"Nothing."
+
+---
+
+"Then there is a thing you want, because you have never once come out here without wanting a thing, and I would rather have it in the first minute than the fortieth."
+
+* * *
+
+Georgij stood in the middle of the room and understood that he had eleven minutes to lose.
+
+---
+
+"I put a line through you in June," he said.
+
+---
+
+Mrs Jeon stopped with her hand on the back of the chair.
+
+---
+
+"With the date in it."
+
+---
+
+"On the second of June you offered me an address and I would not take it, and I told you the reason was that the less of this that was in you the better that was for you." He did not look away from her. "That was true. I have had fourteen weeks to notice that it was also the last thing I needed from you, and that I have never in my life gone back to a room after I had what was in it."
+
+* * *
+
+She pulled the chair out and sat down in it.
+
+---
+
+"That is a very tidy confession," she said.
+
+---
+
+"It is."
+
+---
+
+"I have been read the tidy ones for twenty-three years. Somebody comes in with the whole of it written out. The writing out is the apology. Then they go away and the thing is still on my desk."
+
+---
+
+"Yes."
+
+---
+
+"So sit down and be told what it was on this end," said Mrs Jeon, "and do not tell me you deserve it, because that is the same trick with the sleeves rolled up."
+
+* * *
+
+He sat down.
+
+---
+
+"I did not want the address given to anybody," she said. "You were right about that and I have not once thought you were wrong. It is a separate item and it has been open since June."
+
+---
+
+"There is more."
+
+---
+
+"You came out here on a Friday and I gave you four years of my working life across this table. You came back on the Tuesday and gave me a firm in Gwangyang and a book back. Then there was nothing." She had both hands flat on the wood. "I am fifty-one. I have been settled with. That is a thing I have done to about nine hundred people and it had never once been done to me."
+
+* * *
+
+Georgij did not say any of the four things that came to him.
+
+---
+
+"And the rest," he said.
+
+---
+
+"There is no rest. That is the whole of it, and it took me until the middle of July to be able to put it in one sentence." Mrs Jeon got up. "And you have come out here in September to tell me you noticed, and the honest thing for me to say is that I had stopped waiting on the fourth of August."
+
+* * *
+
+She went to the dresser and opened the second drawer and took out one sheet of paper.
+
+---
+
+She put it on the table in front of him and did not push it across.
+
+---
+
+"That is the fourteenth of June," she said.
+
+---
+
+It is one page. It is signed at the bottom and it is dated at the bottom and there is no envelope with it.
+
+* * *
+
+"You said you would write it," said Georgij.
+
+---
+
+"I said I would write it and sign it and put the date on it and that it would go to you. It has been in that drawer for eighty-nine days."
+
+---
+
+"Why you did not post it."
+
+---
+
+"Because I told you on the second of June that it goes to you because you are the one who came out here." Mrs Jeon stayed standing. "And I meant the coming out here. A page like that is handed across a table. There has to be somebody on the other side of the table, and for eighty-nine days there was not."
+
+* * *
+
+Georgij put two fingers on the edge of the page and did not turn it round.
+
+---
+
+"I am going to say something and it is not a kindness," he said.
+
+---
+
+"Then it is not a kindness."
+
+---
+
+"You could have posted it and you did not, and you have just given me the reason, and the reason is that you were owed a visit." He held her eye. "You have been sitting in this flat since June being owed something by a man who does not come back. I am not going to make that lighter by taking the whole of it onto myself, because that would be me doing the work again."
+
+---
+
+Mrs Jeon sat down.
+
+* * *
+
+"That is not tidy," she said.
+
+---
+
+"No."
+
+---
+
+"That is the first thing you have said in this room in three visits that was not tidy."
+
+* * *
+
+He read the page then, because she had put it there to be read and not to be received.
+
+---
+
+It is nine lines. It says where she was on the ninth of January, and what she held out, and what was not taken. The man who did not take it is named in the fourth line. She writes that she is putting it down because he asked for it to exist, and that it is not being sent to him.
+
+---
+
+The ninth line is: *I am not writing this so that anybody is forgiven. I am writing it because it happened and because I was in the room.*
+
+* * *
+
+"I will keep it," said Georgij.
+
+---
+
+"You will keep it and you will not use it."
+
+---
+
+"Yes."
+
+---
+
+"And you are going to hear the rest of my summer now, because you have sat down and you have not looked at the door once, and I am not going to get a third opportunity this year."
+
+* * *
+
+She told him the rest of her summer.
+
+---
+
+Her son offered on the third of July, which was a Friday, and he offered a room, and he offered it properly, with his wife standing in the doorway agreeing to it in front of her.
+
+---
+
+She said she would think about it and she did not take the room. What she took instead was the rent on this flat, which he has paid since the first of August and which is nine days of his month.
+
+---
+
+"I said in this room that I was going to take it," said Mrs Jeon. "I took the half of it that let me stay where I am. I have spent six weeks working out whether that is honest and I have not got anywhere."
+
+* * *
+
+"And Gwangyang," said Georgij.
+
+---
+
+"I have not gone."
+
+---
+
+He waited.
+
+---
+
+"The start date was mine to choose and I have not chosen it since the thirtieth of May." She turned her hand over on the table. "There is a firm four hundred kilometres from here with a settlement function in it and my name against it, and every four weeks somebody very polite telephones to say that there is no hurry."
+
+---
+
+"How many times?"
+
+---
+
+"Four."
+
+* * *
+
+"What is holding it," said Georgij.
+
+---
+
+"Nothing is holding it. That is the difficulty."
+
+---
+
+"Then the other way round."
+
+---
+
+Mrs Jeon looked at the wall for a while, which she also did on the second of June.
+
+---
+
+"I have had two things given to me since May," she said. "A room from my son and a firm from a woman I have met once. Both of them were kind and neither of them was asked for. I have taken half of one and none of the other, and I am beginning to think that I cannot take anything that arrives on its own."
+
+* * *
+
+"Because taking is not being asked," said Georgij.
+
+---
+
+"I said that to you in this room."
+
+---
+
+"On the second of June. You said you would like it understood by somebody."
+
+---
+
+"And you remembered it," said Mrs Jeon, "and you did not come back for fourteen weeks. Both of those are true. I am too old to pretend that the first one settles the second."
+
+* * *
+
+He had decided on the bus that he would not ask her for anything.
+
+---
+
+He had decided it at about the twentieth minute and had been fairly pleased with it.
+
+---
+
+He sat at her table for eleven more minutes. He heard four calls in four weeks and a room offered with a wife standing in a doorway. And he understood that he had come out here with the wrong rule, and that the wrong rule had been the comfortable one for the second time in ten days.
+
+* * *
+
+"There is one thing," he said. "I had decided not to say it."
+
+---
+
+"Then you have wasted a bus fare."
+
+---
+
+"It is not for now and I cannot tell you when it is."
+
+---
+
+"The order it happens in," said Mrs Jeon, "and do not put the reason first."
+
+* * *
+
+"A woman is going to be bought," said Georgij.
+
+---
+
+Mrs Jeon did not move at all.
+
+---
+
+"She has been in a house since January four years ago and she has a lot number and a reference of six characters, and the house she is in will be finished before Christmas. The only way anybody gets her out of that building alive is to buy her out of it, and it will be bought and paid for like a consignment, because that is what the paperwork will say."
+
+---
+
+"Whose money?"
+
+---
+
+"Hers, on paper, in a form, with a price on it."
+
+* * *
+
+"And then," said Mrs Jeon.
+
+---
+
+"On the first day that woman can hold a pen there will be an instrument. It gives her the whole of it, and it ends on the day she says it ends, and no part of it needs anybody's permission."
+
+---
+
+"And."
+
+---
+
+"And she has to be told that in the first hour," said Georgij. "Not the week after. Not when somebody has the time. In the first hour, by a person who is not the woman who paid and is not me."
+
+* * *
+
+Neither of them said anything.
+
+---
+
+The pipes did the thing they do in that building at about half past seven.
+
+---
+
+"Why me," said Mrs Jeon.
+
+---
+
+"There is a kind version."
+
+---
+
+"No."
+
+* * *
+
+"Because you sat at a desk four years ago and you read six characters in the box where the name goes, and you put it through, and you went to lunch," said Georgij.
+
+---
+
+Mrs Jeon's hands stayed exactly where they were.
+
+---
+
+"There will be four people in the world who can read that instrument to her," he said. "Three of them will be very good at it. You are the only one who will know, inside the hour, what the paper in her hand is worth. You are the only one who has been at the other end of that arithmetic and gone to lunch afterwards."
+
+* * *
+
+"That is the worst thing anybody has ever asked me for," said Mrs Jeon.
+
+---
+
+"Yes."
+
+---
+
+"And you asked."
+
+---
+
+"I asked."
+
+---
+
+"Then the difference between what you have just done and what a firm in Gwangyang did to me on a Friday night in May," she said, "and say it in one sentence, because I already know it and I want to hear whether you do."
+
+* * *
+
+"They gave you a thing you did not have to earn," said Georgij. "I have given you a job that nobody else can do."
+
+---
+
+Mrs Jeon put both hands flat on the table and pushed herself up out of the chair.
+
+---
+
+"Yes," she said.
+
+* * *
+
+She stood at the window for a while with her back to him.
+
+---
+
+"Now the date," she said.
+
+---
+
+"I do not have one."
+
+---
+
+"Then give me the nearest thing you have to one, and I will tell you what it is worth."
+
+* * *
+
+"The house she is in will be finished before Christmas, and everything I know about the timing of it comes out of that one fact," said Georgij. "If you made me put a month on it I would say the early part of next year, and I would be guessing, and you would write it down."
+
+---
+
+Mrs Jeon turned round.
+
+---
+
+"I have had twenty-three years of men giving me a month because a woman across a table wanted a month," she said. "You are the first one who has said he was guessing before I asked him."
+
+---
+
+"It would be in a box on a form by Friday and it would be wrong."
+
+* * *
+
+Mrs Jeon sat down at her own table.
+
+---
+
+"Then there is no date and I am not going to be given one," she said, "and I have spent twenty-three years watching people behave badly about exactly that."
+
+---
+
+"Yes."
+
+---
+
+"I am not going to sit in this flat waiting for a date that belongs to somebody else. I have done four years of that once."
+
+---
+
+"No."
+
+---
+
+"I will telephone Gwangyang on Monday," said Mrs Jeon. "The start date will be the first of October. I will do the work properly from the first day, and when you give me the fourteen days I will put it down in the middle of whatever I am holding and get on a train."
+
+* * *
+
+"They will have had you eleven weeks," said Georgij.
+
+---
+
+"Then they will have had eleven good ones."
+
+* * *
+
+"There is a condition," she said.
+
+---
+
+"It is yours to set."
+
+---
+
+"You will tell me her name before I am in the room with her. Not the reference. The name, and how it is written, and which part of it her mother used."
+
+---
+
+Georgij stood up.
+
+---
+
+"I do not have it yet," he said.
+
+---
+
+"Then that is the first thing you get," said Mrs Jeon, "and I do not want to hear about the rest of the arrangement until you have."
+
+* * *
+
+At the door she said one more thing.
+
+---
+
+"You will come out here before it happens, whenever it is."
+
+---
+
+"Yes."
+
+---
+
+"That is not me being owed. I have given that up." She had one hand on the door. "It is that a man who comes to a table twice and takes what is on it is a man doing a job. A man who comes a fourth time is something else. I am fifty-one and I have very little of the second kind."
+
+---
+
+"I will come in October."
+
+---
+
+"With a date on it."
+
+---
+
+"The twenty-third," said Georgij.
+
+---
+
+"Then I will be here on the twenty-third. The kettle will be on and you will still have brought nothing."
+
+* * *
+
+He went down two flights and past the chemist and stood at the stop with one page folded once in his inside pocket.
+
+---
+
+It is the second time in two days that somebody has taken a thing off him that he did not know he was carrying.
+
+---
+
+*She kept it in a drawer for eighty-nine days rather than post it.*
+
+*I have been telling myself since June that I left her alone out of consideration.*
+
+*I left her alone because there was nothing left in the room for me.*
+
+* * *
+
+He got home at ten past nine.
+
+---
+
+There was food on the side in the kitchen, still warm, from the place on the road that does the soup he eats and not the one he says he likes.
+
+---
+
+Nobody was in the kitchen and nobody said anything about it at any point that evening.
+
+---
+
+He ate the whole of it standing up.
+
+* * *
+
+He went up at half past nine and she was at the desk.
+
+---
+
+"She is going to Gwangyang on the first of October," said Georgij.
+
+---
+
+"Say what you gave her."
+
+---
+
+"Work."
+
+---
+
+Annie looked at him for slightly longer than she needed to and then went back to the page.
+
+---
+
+"Then that was the right one," she said.

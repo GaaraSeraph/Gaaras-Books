@@ -3122,7 +3122,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.3) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.4) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
@@ -3160,7 +3160,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 69** *The call he did not take* (v1.4) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+- **Band 2, Kapitel 69** *The call he did not take* (v1.5) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
   auf zwei Funde des Pruefers hin.
@@ -3212,7 +3212,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     zweiunddreissig Jahre (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 70** *Nothing to bring* (v1.1) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
+- **Band 2, Kapitel 70** *Nothing to bring* (v1.2) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Die eine Sache, die er trotzdem bringt**, und er entscheidet auf dem Huegel,
@@ -3247,7 +3247,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
 
-- **Band 2, Kapitel 71** *The page in the drawer* (v1.2) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.4) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat
@@ -3300,7 +3300,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
-- **Band 2, Kapitel 72** *The fourteenth* (v1.4) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+- **Band 2, Kapitel 72** *The fourteenth* (v1.5) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
@@ -3346,7 +3346,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
     nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
 
-- **Band 2, Kapitel 73** *What the month is for* (v1.1) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
+- **Band 2, Kapitel 73** *What the month is for* (v1.2) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Georgij bringt November hoch und macht es nicht leichter.** Er gibt die drei
@@ -3391,7 +3391,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.5) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.6) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -3583,7 +3583,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 77** *The room at the back* (v1.2) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+- **Band 2, Kapitel 77** *The room at the back* (v1.3) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
@@ -3641,7 +3641,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The only line out* (v1.3) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+- **Band 2, Kapitel 78** *The only line out* (v1.4) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
 
   **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
   Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst
@@ -3772,7 +3772,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Millionen Won sind fuer sie kein Betrag, fuer den man Grundbesitz abstoesst.
     **Siehe `doc/04-world.md`, "Was Geld in diesem Buch bedeutet".**
 
-- **Band 2, Kapitel 80** *The only door* (v1.1) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
+- **Band 2, Kapitel 80** *The only door* (v1.2) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Von Woo kommt nichts**, weder am Dienstag noch am Mittwoch, und Georgij
@@ -3829,7 +3829,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.2) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.4) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
@@ -3884,7 +3884,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Entschieden am 25.08. (Autor):** sie sucht erst sieben Tage nach einem Weg
     daran vorbei. Siehe Kapitel 82.
 
-- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.1) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
+- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.2) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Ihre erste Reaktion ist kein Ja und kein Nein**, sondern ein Auftrag:
@@ -3946,7 +3946,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     managed that. Every time it has been said about me in this house, it has been
     said by somebody else first."*
 
-- **Band 2, Kapitel 83** *Twenty-three days* (v1.1) - **Tag 385, Fr 23. Oktober, Gwangyang. Er faehrt vierhundert Kilometer, um einen Namen richtig zu sagen und ihr eine Stelle zu kosten.**
+- **Band 2, Kapitel 83** *Twenty-three days* (v1.2) - **Tag 385, Fr 23. Oktober, Gwangyang. Er faehrt vierhundert Kilometer, um einen Namen richtig zu sagen und ihr eine Stelle zu kosten.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal wieder ein anderer Gang:** eine Reise, ein Ort, kein Verhoer. 57
@@ -3993,7 +3993,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     they had. The two who are being paid have given up nothing at all."*
   - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
 
-- **Band 2, Kapitel 84** *The consignor of record* (v1.1) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
+- **Band 2, Kapitel 84** *The consignor of record* (v1.2) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang telefoniert am Samstag um neun**, was er seit 2019 nicht getan hat,
@@ -4041,7 +4041,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eleven feet, and it is the only decision in this whole arrangement that I have
     not been standing next to when it was made."*
 
-- **Band 2, Kapitel 85** *They did not argue about it* (v1.1) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
+- **Band 2, Kapitel 85** *They did not argue about it* (v1.2) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Annie schreibt ihren Namen auf die vierte Seite, in ihrer Handschrift, in
@@ -4076,7 +4076,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Jangs Bedingung fuer den Sonntag, in seiner Ordnung, mit Herkunft und Grenze:
     er will die Strasse zweimal fahren und wissen, wo ein Wagen halten kann.
 
-- **Band 2, Kapitel 86** *The second of November* (v1.0) - **Tag 394 und 395, So 1. und Mo 2. November. Der Tag. Und Moon Hae-sook bleibt in dem Haus.**
+- **Band 2, Kapitel 86** *The second of November* (v1.1) - **Tag 394 und 395, So 1. und Mo 2. November. Der Tag. Und Moon Hae-sook bleibt in dem Haus.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **32 Prozent Dialog**, der zweitniedrigste Wert des Bandes nach Kapitel 76.
@@ -4109,7 +4109,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
-- **Band 2, Kapitel 87** *The first hour* (v1.2) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
+- **Band 2, Kapitel 87** *The first hour* (v1.3) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**

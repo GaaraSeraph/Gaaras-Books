@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 315.777 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 315.772 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -6087,7 +6087,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.3) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.4) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
@@ -6125,7 +6125,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Sim ist 63 (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 69** *The call he did not take* (v1.4) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
+- **Band 2, Kapitel 69** *The call he did not take* (v1.5) - **Tag 341, Mi 9. September. ZWEI UEBERFAELLIGE ZUSAGEN BEZAHLT.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt,
   auf zwei Funde des Pruefers hin.
@@ -6177,7 +6177,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     zweiunddreissig Jahre (hier zum ersten Mal beziffert).
 
 
-- **Band 2, Kapitel 70** *Nothing to bring* (v1.1) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
+- **Band 2, Kapitel 70** *Nothing to bring* (v1.2) - **Tag 342, Do 10. September. Er faehrt hoch und hat nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Die eine Sache, die er trotzdem bringt**, und er entscheidet auf dem Huegel,
@@ -6212,7 +6212,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     entschieden hatte nicht zu sagen.** Mr Ahn: *"That's not a kindness. It's
     worse. I'll be up with it."*
 
-- **Band 2, Kapitel 71** *The page in the drawer* (v1.2) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
+- **Band 2, Kapitel 71** *The page in the drawer* (v1.4) - **Tag 342/343, Do 10. und Fr 11. September. Die zweite auf Annies Liste, und diesmal waehlt er selbst.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Der Abend auf dem Boden schliesst direkt an 70 an** (*"Not there."*). Er hat
@@ -6265,7 +6265,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
-- **Band 2, Kapitel 72** *The fourteenth* (v1.4) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+- **Band 2, Kapitel 72** *The fourteenth* (v1.5) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
@@ -6311,7 +6311,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
     nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
 
-- **Band 2, Kapitel 73** *What the month is for* (v1.1) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
+- **Band 2, Kapitel 73** *What the month is for* (v1.2) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Georgij bringt November hoch und macht es nicht leichter.** Er gibt die drei
@@ -6356,7 +6356,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.5) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.6) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -6548,7 +6548,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 77** *The room at the back* (v1.2) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+- **Band 2, Kapitel 77** *The room at the back* (v1.3) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
@@ -6606,7 +6606,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The only line out* (v1.3) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+- **Band 2, Kapitel 78** *The only line out* (v1.4) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
 
   **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
   Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst
@@ -6737,7 +6737,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Millionen Won sind fuer sie kein Betrag, fuer den man Grundbesitz abstoesst.
     **Siehe `doc/04-world.md`, "Was Geld in diesem Buch bedeutet".**
 
-- **Band 2, Kapitel 80** *The only door* (v1.1) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
+- **Band 2, Kapitel 80** *The only door* (v1.2) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Von Woo kommt nichts**, weder am Dienstag noch am Mittwoch, und Georgij
@@ -6794,7 +6794,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.2) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.4) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
@@ -6849,7 +6849,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Entschieden am 25.08. (Autor):** sie sucht erst sieben Tage nach einem Weg
     daran vorbei. Siehe Kapitel 82.
 
-- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.1) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
+- **Band 2, Kapitel 82** *Eleven years of paying for it* (v1.2) - **Tag 377, 382 und 384, Do 15. bis Do 22. Oktober. Sie sucht sieben Tage nach dem Weg daran vorbei, und Baek Jun-ho wird eingeloest.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Ihre erste Reaktion ist kein Ja und kein Nein**, sondern ein Auftrag:
@@ -6911,7 +6911,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     managed that. Every time it has been said about me in this house, it has been
     said by somebody else first."*
 
-- **Band 2, Kapitel 83** *Twenty-three days* (v1.1) - **Tag 385, Fr 23. Oktober, Gwangyang. Er faehrt vierhundert Kilometer, um einen Namen richtig zu sagen und ihr eine Stelle zu kosten.**
+- **Band 2, Kapitel 83** *Twenty-three days* (v1.2) - **Tag 385, Fr 23. Oktober, Gwangyang. Er faehrt vierhundert Kilometer, um einen Namen richtig zu sagen und ihr eine Stelle zu kosten.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal wieder ein anderer Gang:** eine Reise, ein Ort, kein Verhoer. 57
@@ -6958,7 +6958,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     they had. The two who are being paid have given up nothing at all."*
   - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
 
-- **Band 2, Kapitel 84** *The consignor of record* (v1.1) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
+- **Band 2, Kapitel 84** *The consignor of record* (v1.2) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang telefoniert am Samstag um neun**, was er seit 2019 nicht getan hat,
@@ -7006,7 +7006,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eleven feet, and it is the only decision in this whole arrangement that I have
     not been standing next to when it was made."*
 
-- **Band 2, Kapitel 85** *They did not argue about it* (v1.1) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
+- **Band 2, Kapitel 85** *They did not argue about it* (v1.2) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Annie schreibt ihren Namen auf die vierte Seite, in ihrer Handschrift, in
@@ -7041,7 +7041,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Jangs Bedingung fuer den Sonntag, in seiner Ordnung, mit Herkunft und Grenze:
     er will die Strasse zweimal fahren und wissen, wo ein Wagen halten kann.
 
-- **Band 2, Kapitel 86** *The second of November* (v1.0) - **Tag 394 und 395, So 1. und Mo 2. November. Der Tag. Und Moon Hae-sook bleibt in dem Haus.**
+- **Band 2, Kapitel 86** *The second of November* (v1.1) - **Tag 394 und 395, So 1. und Mo 2. November. Der Tag. Und Moon Hae-sook bleibt in dem Haus.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **32 Prozent Dialog**, der zweitniedrigste Wert des Bandes nach Kapitel 76.
@@ -7074,7 +7074,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
-- **Band 2, Kapitel 87** *The first hour* (v1.2) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
+- **Band 2, Kapitel 87** *The first hour* (v1.3) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**
@@ -23541,7 +23541,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch78:208 | "How much of it," said Woo. |
 | 10 | b2ch78:218 | Woo looked at the table for a while. |
 | 10 | b2ch78:228 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
-| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
+| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Somebody decided in the twenty-fiv.. |
 | 10 | b2ch78:256 | "Yes," said Woo. "It was." |
 | 10 | b2ch78:266 | "Then I will say the useful part and we will get on to what you came for." Woo did not r.. |
 | 10 | b2ch78:274 | Woo put one hand flat. |
@@ -24313,7 +24313,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
-| 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
+| 50 | b2ch73:416 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "Have you eaten today?" asked Sim, and he had the cup out before he had finished asking .. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
@@ -24402,7 +24402,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:250` (Tag 49) - one, two
 - `b2ch72:270` (Tag 49) - one, three, twenty
 - `b2ch72:306` (Tag 49) - one
-- `b2ch73:420` (Tag 50) - six, thirty
+- `b2ch73:416` (Tag 50) - six, thirty
 - `b2ch74:66` (Tag 51) - thirty
 - `b2ch74:74` (Tag 51) - eleven, four, one, six, sixteen, ten
 - `b2ch74:102` (Tag 51) - two
@@ -24496,15 +24496,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b2ch71:218 | Mrs Jeon looked at him for a moment. Then she opened the door the whole way and went bac.. |
 | 46 | b2ch71:250 | Mrs Jeon stopped with her hand on the back of the chair. |
 | 46 | b2ch71:282 | "So sit down and be told what it was on this end," said Mrs Jeon, "and do not tell me yo.. |
-| 46 | b2ch71:310 | "There is no going on. That is the whole of it, and it took me until the middle of July .. |
+| 46 | b2ch71:310 | "There is no rest. That is the whole of it, and it took me until the middle of July to b.. |
 | 46 | b2ch71:342 | "Because I told you on the second of June that it goes to you because you are the one wh.. |
 | 46 | b2ch71:362 | Mrs Jeon sat down. |
 | 46 | b2ch71:418 | "I said in this room that I was going to take it," said Mrs Jeon. "I took the half of it.. |
 | 46 | b2ch71:458 | Mrs Jeon looked at the wall for a while, which she also did on the second of June. |
 | 46 | b2ch71:478 | "And you remembered it," said Mrs Jeon, "and you did not come back for fourteen weeks. B.. |
-| 46 | b2ch71:506 | "Say it in the order it happens," said Mrs Jeon, "and do not put the reason first." |
+| 46 | b2ch71:506 | "The order it happens in," said Mrs Jeon, "and do not put the reason first." |
 | 46 | b2ch71:514 | Mrs Jeon did not move at all. |
-| 46 | b2ch71:530 | "Go on," said Mrs Jeon. |
+| 46 | b2ch71:530 | "And then," said Mrs Jeon. |
 | 46 | b2ch71:554 | "Why me," said Mrs Jeon. |
 | 46 | b2ch71:570 | Mrs Jeon's hands stayed exactly where they were. |
 | 46 | b2ch71:578 | "That is the worst thing anybody has ever asked me for," said Mrs Jeon. |
@@ -24524,7 +24524,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch83:162 | "Then yes," said Mrs Jeon. |
 | 8 | b2ch83:178 | "I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, wi.. |
 | 8 | b2ch83:194 | "I told you that on the eleventh of September, about a flat in Incheon, and it was a dif.. |
-| 4 | b2ch85:148 | "Say the day of the week," said Mrs Jeon. |
+| 4 | b2ch85:148 | "The day of the week," said Mrs Jeon. |
 | 7 | b2ch86:14 | Mrs Jeon came up from Gwangyang on the Sunday afternoon and did not stay in the house. |
 | 8 | b2ch86:28 | Jang drove. Mrs Jeon sat in the front, because she said so and because nobody argued. Ge.. |
 | 8 | b2ch86:60 | Mrs Jeon got out, and Jang stayed at the wheel with the engine running, which they had a.. |
@@ -24694,7 +24694,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch81:150 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
 | 10 | b2ch81:160 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
 | 10 | b2ch81:168 | Mr Hwang did not move at all. |
-| 10 | b2ch81:176 | "Say the ninth line," said Mr Hwang. |
+| 10 | b2ch81:176 | "The ninth line," said Mr Hwang. |
 | 10 | b2ch81:186 | Mr Hwang put the sheet down on the desk and left his hand off it. |
 | 9 | b2ch84:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
 | 9 | b2ch84:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
@@ -25006,24 +25006,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch70:338 | Mr Ahn did not say anything for a long moment. |
 | 50 | b2ch73:18 | "Tuesday," said Mr Ahn. |
 | 50 | b2ch73:38 | Mr Ahn looked at him for about two seconds and then put both hands on the edge of it. |
-| 50 | b2ch73:58 | Mr Ahn did not move at all. |
-| 50 | b2ch73:78 | "Say what the man on the telephone made of it," said Mr Ahn. |
-| 50 | b2ch73:94 | Mr Ahn picked the cloth up and put it down again without using it. |
-| 50 | b2ch73:110 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
-| 50 | b2ch73:138 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
-| 50 | b2ch73:154 | "There's a second one and you'll have had it already," said Mr Ahn. |
-| 50 | b2ch73:182 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
-| 50 | b2ch73:218 | Mr Ahn did not say anything for a moment. |
-| 50 | b2ch73:230 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
-| 50 | b2ch73:246 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
-| 50 | b2ch73:282 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
-| 50 | b2ch73:290 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
-| 50 | b2ch73:302 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
-| 50 | b2ch73:314 | "It's not for you," said Mr Ahn. "Don't make it that." |
-| 50 | b2ch73:338 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
-| 50 | b2ch73:358 | Mr Ahn plugged the fan in at the wall. |
-| 50 | b2ch73:382 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
-| 50 | b2ch73:402 | Mr Ahn almost got out the thing that is not quite a laugh. |
+| 50 | b2ch73:54 | Mr Ahn did not move at all. |
+| 50 | b2ch73:74 | "And what the man on the telephone made of it," said Mr Ahn. |
+| 50 | b2ch73:90 | Mr Ahn picked the cloth up and put it down again without using it. |
+| 50 | b2ch73:106 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
+| 50 | b2ch73:134 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
+| 50 | b2ch73:150 | "There's a second one and you'll have had it already," said Mr Ahn. |
+| 50 | b2ch73:178 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
+| 50 | b2ch73:214 | Mr Ahn did not say anything for a moment. |
+| 50 | b2ch73:226 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
+| 50 | b2ch73:242 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
+| 50 | b2ch73:278 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
+| 50 | b2ch73:286 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
+| 50 | b2ch73:298 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
+| 50 | b2ch73:310 | "It's not for you," said Mr Ahn. "Don't make it that." |
+| 50 | b2ch73:334 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
+| 50 | b2ch73:354 | Mr Ahn plugged the fan in at the wall. |
+| 50 | b2ch73:378 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
+| 50 | b2ch73:398 | Mr Ahn almost got out the thing that is not quite a laugh. |
 | 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
 | 53 | b2ch74:580 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
 | 3 | b2ch77:14 | Mr Ahn looked at him for about two seconds, worked out what the day was, and did not say.. |
@@ -25078,11 +25078,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch70:186` (Tag 45) - sixteen
 - `b2ch70:226` (Tag 45) - eleven, one
 - `b2ch73:38` (Tag 50) - two
-- `b2ch73:138` (Tag 50) - eighteen, four, one, twenty
-- `b2ch73:154` (Tag 50) - one
-- `b2ch73:282` (Tag 50) - four, one
-- `b2ch73:302` (Tag 50) - eight, four, one, three, two
-- `b2ch73:338` (Tag 50) - four
+- `b2ch73:134` (Tag 50) - eighteen, four, one, twenty
+- `b2ch73:150` (Tag 50) - one
+- `b2ch73:278` (Tag 50) - four, one
+- `b2ch73:298` (Tag 50) - eight, four, one, three, two
+- `b2ch73:334` (Tag 50) - four
 - `b2ch74:180` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
 - `b2ch74:580` (Tag 53) - four, thirty-nine
 - `b2ch77:14` (Tag 3) - two
