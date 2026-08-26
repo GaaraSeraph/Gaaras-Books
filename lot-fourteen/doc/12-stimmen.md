@@ -240,6 +240,93 @@ ist Georgijs Maschine mit Blumentöpfen darin.
 
 ---
 
+
+---
+
+## Woher eine Redeart kommt - vier Quellen und drei Sperren
+
+**Stand 26.08. Das ist das Regelwerk, mit dem eine Figur eine eigene Redeart
+bekommt.** Es ist aus den sechs Figuren abgeleitet, die schon eine haben:
+Georgij, Annie, Park Sang-hoon, Chairman Woo, Jang und die Frau mit der
+Gießkanne. **Wer eine Redeart baut, holt alle vier Quellen aus dem Text. Was
+nicht im Text steht, wird geschrieben und nicht erfunden.**
+
+### Die vier Quellen. Fehlt eine, ist es keine Figur.
+
+**1. Ein Anliegen, das der Fall nicht braucht.**
+Die Gießkanne will über den Reinigungsdienst und über ihren Sohn reden, und die
+vierte Etage interessiert sie nicht. Jang will ein Mann sein, dessen Berichte
+gelesen werden. Woo hat seit 2011 nichts Heißes genossen, hat einunddreißig
+Jahre einen Mann gekannt, der ihn zweimal geschlagen hat, und trägt einen Raum
+mit sich, in dem ein Name schlecht ausgesprochen wurde. **Keines davon gehört
+der Handlung. Genau deshalb tragen sie.**
+
+**2. Eine Maßeinheit. Jede Figur zählt etwas anderes.**
+Jang zählt Herkunft und Grenze - keine Zahl ohne Methode. Mr Ahn zählt Fristen
+und Durchlaufzeiten. Mrs Ha zählt Ware und Wochentage. Sim zählt die Ausgänge,
+die er anderen gebaut hat. Hwang zählt Daten und Uhrzeiten. **Die Einheit ist
+nicht Schmuck, sie ist das Weltbild in einer Zahl.**
+
+**3. Ein Zug. Wie kommt sie von A nach B.**
+Woo korrigiert die Prämisse, statt zu antworten. Sang-hoon benotet die Äußerung,
+bevor er auf sie antwortet. Mrs Ha stellt richtig, wer die Arbeit getan hat.
+Jang übergibt keine Tatsache ohne ihre Herkunft und ihre Grenze. Sim richtet
+die Bequemlichkeit im Voraus ein und benennt die Einrichtung dann laut.
+**Der Zug ist ein Verfahren, keine Stimmung.**
+
+**4. Ein Bruch. Was unter Druck passiert.**
+**Das Register wird stärker, nicht schwächer.** Bei Jang heißt das feinere
+Körnung: von der Stufe zur Uhrzeit, von der Uhrzeit zur Wiederholung. Bei Sim
+heißt es gastgeberischer, und die Genauigkeit springt von der Sache auf den
+Zustand des anderen. Bei Woo bricht die Selbstauskunft durch, die er
+dreiundzwanzig Jahre nicht gegeben hat. **Wer im schlimmsten Moment nüchtern
+wird, ist Georgij.**
+
+### Die drei Sperren
+
+**5. Kein Schluss, der Georgijs ist.**
+Kein Syllogismus, keine Rechnung, keine vorweggenommene zweite Hälfte. Der
+Musterfall sagt es am schärfsten: *"Das ist Georgijs Maschine mit Blumentöpfen
+darin."*
+
+**6. Die Körpergewohnheit wird über das ganze Buch gemessen.**
+*hands flat* steht 112 mal bei vierzehn Figuren. Wer nur die Kapitel der Figur
+liest, hält den Hausbestand für ihren Besitz.
+
+**7. Neutral ist keine Stimme.**
+Georgij herauszunehmen ist die halbe Arbeit. Eine Zeile, die keinen fremden Zug
+mehr trägt und auch keinen eigenen, ist nicht repariert.
+
+### Die Probe darüber
+
+> **Streiche jeden Satz, der etwas über den Fall sagt. Bleibt eine Person
+> übrig?**
+
+**Nicht zählbar.** Sim behält 71 Prozent seiner Repliken, Woo 52, und Woo ist
+der mit dem Charakter. Es zählt, was dasteht, nicht wie viel.
+
+### Wie eine einzelne Figur ihre Redeart bekommt
+
+1. **Alle ihre Repliken lesen, über den Wechsel gezählt und nicht über den
+   Index.** `stimmen.py` sieht nur die mit Begleitsatz, und das ist
+   überdurchschnittlich oft die schlichte Antwort.
+2. **Die vier Quellen im Text suchen.** Jede mit Fundstelle.
+3. **Fehlt eine, ist das der Befund** - dann wird sie geschrieben, an einer
+   Stelle, an der die Szene ohnehin atmet, und nicht überall verteilt.
+4. **Blatt in der Form von Jang.** Maschine, Anliegen, darf/darf nicht, Körper,
+   wie mit wem, warm, unter Druck, vier Beispiele, Probe.
+5. **Anwesenheitsprobe deklarieren**, maschinenlesbar, Muster aus dem Text.
+6. **Batterie laufen lassen** (doc/16, C0), dann die Fall-Streichung lesen.
+
+### Der Stand
+
+| | |
+|---|---|
+| **haben eine Redeart** | Georgij · Annie · Park Sang-hoon · Chairman Woo · Jang · die Frau mit der Gießkanne |
+| **durchgearbeitet, mit Probe** | Sim · Mrs Ha |
+| **offen** | Hana · Mrs Jeon · Mr Ahn · Hwang · Yeom · Baek · Kwon · Mrs Seo · Byun · Nam Byung-hee · Sohn · Sunwoo · Koh · Hong · Chae · Mrs Gwak · Kang · Ye-rin |
+
+
 ## Sechs Regeln, die für jede Figur gelten
 
 Die drei Regeln oben sagen, **dass** jede Figur anders sein muss. Diese sechs
