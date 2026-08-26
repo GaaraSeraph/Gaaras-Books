@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 292.331 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 292.769 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -56,6 +56,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Verbuendete](#verbuendete)
   - [Die Gegenseite](#die-gegenseite)
   - [Der Feldzug in Band 2](#der-feldzug-in-band-2)
+  - [Ohne Namen, und das ist Absicht](#ohne-namen-und-das-ist-absicht)
   - [Einmalige, und sie bleiben es](#einmalige-und-sie-bleiben-es)
   - [Im Haus](#im-haus)
   - [Zwei laengere Fassungen](#zwei-laengere-fassungen)
@@ -322,6 +323,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Mr Noh](#mr-noh)
   - [Mrs Jeon Mi-ja](#mrs-jeon-mi-ja)
   - [Chef Bang](#chef-bang)
+  - [Mr Pyeon](#mr-pyeon)
+  - [Cha Tae-seong](#cha-tae-seong)
   - [Minister Min-ho](#minister-min-ho)
   - [Mr Im](#mr-im)
   - [Mrs Ahn](#mrs-ahn)
@@ -1767,6 +1770,20 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mrs Gwak** | Blumenladen in Hyoja-dong, fuehrt das Durchschreibebuch ihres Mannes weiter | B2 31 | Gegeben, was sie hatte |
 | **Mrs Sunwoo** | Einundachtzig, einundvierzig Jahre Kaeuferin in dem Haus. Eine der vier Zeilen | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
 | **Mrs Uhm** | Ablage bei Yeom seit 2004 | B2 17 | Wird von niemandem behelligt werden |
+
+### Ohne Namen, und das ist Absicht
+
+| Figur | Was | Auftritt |
+|---|---|---|
+| **Der Neffe** | Vierunddreissig, fuehrt die Spedition in Gwangyang, die er geerbt hat, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
+| **Der Vertreter** | Etwa fuenfzig, mit Mappe, wickelt fuer die Gegenseite den Hof ab. Nicht Mr Tak und in keiner Akte | B2 86 |
+| **Die Pflegerin** | Fuer einen Tag aus einer Agentur in Chuncheon. Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
+
+**Warum sie keine Namen haben:** in jedem dieser drei Faelle ist die Namenlosigkeit
+die Aussage. Der Neffe ist der Mann, dessen Firma Mrs Jeon rettet, ohne dass ihn
+das Buch je in den Vordergrund laesst. Der Vertreter ist austauschbar, und das
+ist der Punkt an ihm. Die Pflegerin bekommt genau eine Zeile Lob und
+verschwindet, weil sie nichts erfahren durfte.
 
 ### Einmalige, und sie bleiben es
 
@@ -19105,6 +19122,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Mrs Jeon Mi-ja | 5 | 4 (b2ch28-b2ch86) | 8 | 57 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
+| Mr Pyeon | 4 | 1 (b2ch76) | 59 | 59 |
+| Cha Tae-seong | 3 | 2 (b2ch79-b2ch80) | 10 | 12 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mr Im | 2 | 2 (b1ch05-b2ch76) | 6 | 59 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
@@ -24006,6 +24025,42 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch08:220` (Tag 22) - eight, one, two
 - `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
+
+---
+
+### Mr Pyeon
+
+4 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 59 | b2ch76:52 | Inside it, folded once and put back the way it came out, was the letter to Mr Pyeon. |
+| 59 | b2ch76:124 | She had Mr Pyeon's letter burned in the grate in the small room, in front of her, that a.. |
+| 59 | b2ch76:150 | *Mr Pyeon read nine lines and understood the whole of the danger in the time it takes to.. |
+| 59 | b2ch76:174 | Whether that is because the other three understood it exactly as Mr Pyeon did, or becaus.. |
+
+### Zahlen in der Naehe von Mr Pyeon
+
+- `b2ch76:124` (Tag 59) - one, twenty
+- `b2ch76:150` (Tag 59) - nine
+- `b2ch76:174` (Tag 59) - three
+
+---
+
+### Cha Tae-seong
+
+3 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 10 | b2ch79:172 | "You will sell it inside three weeks and you will sell it badly, because a seller who ca.. |
+| 10 | b2ch79:200 | "Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes t.. |
+| 12 | b2ch80:26 | Georgij wrote it in the book and underneath it wrote *Cha Tae-seong, Gimpo, nine days qu.. |
+
+### Zahlen in der Naehe von Cha Tae-seong
+
+- `b2ch79:172` (Tag 10) - nine, one, three
+- `b2ch80:26` (Tag 12) - nine, six
 
 ---
 

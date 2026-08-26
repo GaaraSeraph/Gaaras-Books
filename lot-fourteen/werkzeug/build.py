@@ -273,6 +273,9 @@ FIGURES = {
     "Mrs Jeon Mi-ja": [r"Jeon Mi-ja", r"Mi-ja"],
     "Moon Hae-sook": [r"Moon Hae-sook", r"Hae-sook"],
     "Mrs Ha": [r"Mrs Ha"],
+    # Cha steht neben Mr Chae im Buch, deshalb die Wortgrenze.
+    "Cha Tae-seong": [r"Cha Tae-seong"],
+    "Mr Pyeon": [r"Mr Pyeon", r"Pyeon"],
 }
 
 DATELINE = re.compile(r"Days? ([A-Za-z0-9\- ]+?) ·")

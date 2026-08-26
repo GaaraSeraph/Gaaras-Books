@@ -57,6 +57,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Noh | 5 | 1 (b1ch05) | 4 | 6 |
 | Mrs Jeon Mi-ja | 5 | 4 (b2ch28-b2ch86) | 8 | 57 |
 | Chef Bang | 4 | 1 (b1ch08) | 22 | 22 |
+| Mr Pyeon | 4 | 1 (b2ch76) | 59 | 59 |
+| Cha Tae-seong | 3 | 2 (b2ch79-b2ch80) | 10 | 12 |
 | Minister Min-ho | 3 | 1 (b1ch09) | 22 | 22 |
 | Mr Im | 2 | 2 (b1ch05-b2ch76) | 6 | 59 |
 | Mrs Ahn | 2 | 2 (b1ch05-b1ch25) | 6 | 59 |
@@ -4958,6 +4960,42 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 - `b1ch08:220` (Tag 22) - eight, one, two
 - `b1ch08:230` (Tag 22) - eight hundred, sixty, sixty-two
+
+---
+
+## Mr Pyeon
+
+4 Nennungen in 1 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 59 | b2ch76:52 | Inside it, folded once and put back the way it came out, was the letter to Mr Pyeon. |
+| 59 | b2ch76:124 | She had Mr Pyeon's letter burned in the grate in the small room, in front of her, that a.. |
+| 59 | b2ch76:150 | *Mr Pyeon read nine lines and understood the whole of the danger in the time it takes to.. |
+| 59 | b2ch76:174 | Whether that is because the other three understood it exactly as Mr Pyeon did, or becaus.. |
+
+### Zahlen in der Naehe von Mr Pyeon
+
+- `b2ch76:124` (Tag 59) - one, twenty
+- `b2ch76:150` (Tag 59) - nine
+- `b2ch76:174` (Tag 59) - three
+
+---
+
+## Cha Tae-seong
+
+3 Nennungen in 2 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 10 | b2ch79:172 | "You will sell it inside three weeks and you will sell it badly, because a seller who ca.. |
+| 10 | b2ch79:200 | "Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes t.. |
+| 12 | b2ch80:26 | Georgij wrote it in the book and underneath it wrote *Cha Tae-seong, Gimpo, nine days qu.. |
+
+### Zahlen in der Naehe von Cha Tae-seong
+
+- `b2ch79:172` (Tag 10) - nine, one, three
+- `b2ch80:26` (Tag 12) - nine, six
 
 ---
 

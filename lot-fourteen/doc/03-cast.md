@@ -74,6 +74,20 @@ dann der Tisch, dann Vehikel und Haus, dann das Geld, dann das Zimmer.
 | **Mrs Sunwoo** | Einundachtzig, einundvierzig Jahre Kaeuferin in dem Haus. Eine der vier Zeilen | B1 1 / B2 3 | **Offen und faellig seit dem 27. Mai** |
 | **Mrs Uhm** | Ablage bei Yeom seit 2004 | B2 17 | Wird von niemandem behelligt werden |
 
+### Ohne Namen, und das ist Absicht
+
+| Figur | Was | Auftritt |
+|---|---|---|
+| **Der Neffe** | Vierunddreissig, fuehrt die Spedition in Gwangyang, die er geerbt hat, und hat Angst vor dem Hafen. **Fragt Mrs Jeon als erster Mensch seit 1998, was sie denkt** | B2 83, B2 90 |
+| **Der Vertreter** | Etwa fuenfzig, mit Mappe, wickelt fuer die Gegenseite den Hof ab. Nicht Mr Tak und in keiner Akte | B2 86 |
+| **Die Pflegerin** | Fuer einen Tag aus einer Agentur in Chuncheon. Bekam die Adresse und sonst nichts und war sehr gut | B2 89 |
+
+**Warum sie keine Namen haben:** in jedem dieser drei Faelle ist die Namenlosigkeit
+die Aussage. Der Neffe ist der Mann, dessen Firma Mrs Jeon rettet, ohne dass ihn
+das Buch je in den Vordergrund laesst. Der Vertreter ist austauschbar, und das
+ist der Punkt an ihm. Die Pflegerin bekommt genau eine Zeile Lob und
+verschwindet, weil sie nichts erfahren durfte.
+
 ### Einmalige, und sie bleiben es
 
 | Figur | Was | Auftritt |
