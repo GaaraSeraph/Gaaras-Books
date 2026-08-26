@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 269.755 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 270.016 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -13421,6 +13421,35 @@ K68 legt er sie ganz ab.
 **Wer ihn warm schreiben will, gibt ihm nichts Freundliches zu sagen** - er gibt
 ihm etwas einzurichten, das niemand bestellt hat, und lässt ihn danach
 aussprechen, wie es eingerichtet ist.
+
+#### Körper
+
+**Flache Hände, die stehen bleiben.** Das ist der Grundzustand, und der Text
+zählt ausdrücklich mit, wenn sie sich **nicht** bewegen:
+
+> *"Sim put both hands flat on the table on either side of the page."* (K52)
+> *"Sim put one hand flat on the table beside the page **and left it there**."* (K52)
+> *"Sim had both hands flat on the desk."* · *"**Sim's hands had not moved.**"* (K68)
+
+**Er richtet Papier gerade, ohne es zu merken** - dieselbe Einrichtungsgeste wie
+in seiner Rede, nur stumm: *"squared it with the edge **without appearing to know
+that he was doing it**"* · *"He straightened the page again, a fraction, with one
+finger."*
+
+**Eine Innentasche, und alles kommt aus ihr.** Der Umschlag, dann der Stift -
+und der Text macht die Verbindung selbst: *"Sim took a pen out of his inside
+pocket, **which is where the envelope had been**."* Am Ende geht die Seite
+dorthin zurück.
+
+**Was er nicht anfasst, ist das Essen** - und das ist kein Tick, sondern die
+Landkarte: *"Sim looked at the plate with the four small things on it and did not
+touch it."* (K68) Siehe *Choi Dae-ho*: **b2 K52 stellt die beiden ausdrücklich
+nebeneinander** - *"There is one other man in this story who does not eat in
+front of the person he is working on."*
+
+**Und die eine Geste, die den Bruch trägt:** er steht auf, legt beide Hände auf
+die Stuhllehne **und schiebt den Stuhl nicht an.** Ein Mann, der dreißig Jahre
+lang jeden Raum hinter sich aufgeräumt hat, lässt einmal etwas stehen.
 
 #### Unter Druck
 
