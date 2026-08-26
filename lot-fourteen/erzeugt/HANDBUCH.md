@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 285.705 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 286.204 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -258,6 +258,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und darueber die Probe, die seit Langem im Dokument stand und nie lief](#und-darueber-die-probe-die-seit-langem-im-dokument-stand-und-nie-lief)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
   - [Das Naeherkommen wird als Buchfuehrung erzaehlt](#das-naeherkommen-wird-als-buchfuehrung-erzaehlt)
+  - [Die Korrektur des Autors, 26.08.: das Heft bleibt, es muss nur eingeloest werden](#die-korrektur-des-autors-26-08-das-heft-bleibt-es-muss-nur-eingeloest-werden)
+  - [Kapitel 45 ist der Modellfall, und es gibt nur diesen einen](#kapitel-45-ist-der-modellfall-und-es-gibt-nur-diesen-einen)
   - [Zwei Messungen, die die Deutung oben einschraenken](#zwei-messungen-die-die-deutung-oben-einschraenken)
   - [Pruefumfang](#pruefumfang)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
@@ -18162,6 +18164,10 @@ ist.
 > Gleichverteilung ist die **Folge**, nicht die Ursache. Das Näherkommen an Choi
 > wird als **Buchführung** erzählt - von Kapitel 36 bis 56 enden **17 von 21**
 > Kapiteln damit, dass Georgij allein notiert, wie weit er gekommen ist.
+> **Der Autor hat das am 26.08. präzisiert und mir in einem Punkt
+> widersprochen:** das Heft ist legitim, weil sie einen Mann suchen, der nichts
+> hinterlässt. Es ist nur **einseitig** - **35 Kapitel schreiben hinein, zwei
+> holen heraus.**
 > **Und der Autor hat am 26.08. präzisiert, dass es nicht um die Länge geht**,
 > sondern darum, dass der Choi-Strang repetitiv und zäh wirkt. Was unten steht,
 > gilt; was hier steht, ist die Messung, aus der es hervorging.
@@ -18510,6 +18516,61 @@ passiert.** Dort wird der eine Faden gefunden, der Choi wirklich erreicht -
 *"everything traced to Choi Dae-ho stopped one hand before it reached him.
 Except one thing. A property holding company in Gangwon-do, four owners deep"* -
 und der Fund geht am Schluss trotzdem ins Heft.
+
+### Die Korrektur des Autors, 26.08.: das Heft bleibt, es muss nur eingeloest werden
+
+**Der Autor hat dem Befund oben in einem Punkt widersprochen, und er hat recht.**
+Das Hineinschreiben ins Buch ist nicht der Fehler:
+
+> *Wir suchen hier nach einem Mann, der nichts hinterlaesst, und diese Spuren
+> zusammenzufassen ist legitim. Es fasst es fuer den Leser zusammen. Diese Notizen
+> sollten aber irgendwann verwendet werden fuer die Detektivarbeit.*
+
+**Damit ist die Diagnose praeziser als meine.** Nicht die Bilanz ist zu viel.
+Sie ist **einseitig**. Nachgezaehlt ueber Band 2:
+
+| | Kapitel |
+|---|---|
+| Das Heft kommt vor und es wird **hineingeschrieben** | **35** |
+| Das Heft wird **herausgeholt und benutzt** | **2** |
+
+*(Die Rohzaehlung ergab sieben; fuenf davon sind Falschmeldungen - K35 und K37
+sind Annie an ihren Papieren, K63 schreibt wieder, K07 und K28 haben bei der
+Nachpruefung gar keinen Treffer. Es bleiben K34 und K45.)*
+
+**Dreiunddreissig Kapitel legen etwas ab, das nie wieder geholt wird.** Genau
+das ist der Grund, aus dem die Arbeit sich nutzlos anfuehlt, obwohl sie es nicht
+ist: der Leser sieht ein Konto wachsen, von dem nie abgehoben wird.
+
+### Kapitel 45 ist der Modellfall, und es gibt nur diesen einen
+
+Dort wird eine Notiz zum Fund, und sie wendet sich gegen ihn:
+
+> *"There was nothing else on the desk, so he read his own four lines again, and
+> this time he looked at them **as a document rather than as a source**."*
+>
+> *"Four entries, one under another, in one hand, one pen, one sitting. He had
+> taken them off pages that were months and years apart and set them down as a
+> list. The list was tidy, and it was his."*
+>
+> *"Two weeks ago he had written down Jang's rota and Jang's grocery numbers in
+> the order Jang had given them to him. He had put the reason beside them, which
+> was that **the order a thing is noticed in is worth more than a tidy one
+> imposed afterward**."*
+
+**Das ist die Form, die der Autor meint**, und sie ist im Buch schon einmal
+geschrieben: das Heft ist nicht Gedaechtnis, sondern **Beweismittel**, und der
+eigene Ordnungssinn wird zum Fehler. Der Fund kommt nicht von draussen, sondern
+aus seiner eigenen Abschrift.
+
+**Was daraus fuer die Strecke K36 bis K56 folgt, und es ist keine Kuerzung:**
+Von den siebzehn Kapiteln, die dort mit einer Notiz enden, muss ein Teil spaeter
+**eingeloest** werden - nicht als Erinnerung, sondern so, dass eine alte Zeile
+eine neue Tatsache hergibt. **Jede Notiz, die nie wieder aufgeschlagen wird, ist
+ein Versprechen an den Leser, das nicht bezahlt wird** - dieselbe Buchhaltung
+wie in `doc/13-zusagen.md`, nur fuer Erkenntnis statt fuer Zusagen.
+
+---
 
 ### Zwei Messungen, die die Deutung oben einschraenken
 
