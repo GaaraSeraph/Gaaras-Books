@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 286.204 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 286.948 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -273,6 +273,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [B1. Fragezeichen - 150 gesetzt](#b1-fragezeichen-150-gesetzt)
   - [B2. Gedankenstriche - gilt jetzt auch für die Dokumente](#b2-gedankenstriche-gilt-jetzt-auch-f-r-die-dokumente)
   - [B3. Takt und Szene - der Strich gehört nur an den Szenenwechsel](#b3-takt-und-szene-der-strich-geh-rt-nur-an-den-szenenwechsel)
+  - [Was ich vorgeschlagen hatte](#was-ich-vorgeschlagen-hatte)
+  - [Was der Autor daran geändert hat](#was-der-autor-daran-ge-ndert-hat)
+  - [Und die Probe darüber, die keine Nummer hat](#und-die-probe-dar-ber-die-keine-nummer-hat)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -18742,6 +18745,79 @@ Der laufende Bericht steht in `doc/14-stilprotokoll.md`, die Blätter in
 
 ---
 
+## C0. Die Testbatterie - Vorschlag und beschlossene Fassung
+
+**Auch das gehört geprüft**, nicht nur die geänderten Regeln: ein Verfahren, das
+die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
+
+### Was ich vorgeschlagen hatte
+
+**Vier automatisch**, ohne Aufwand je Figur - jeder mit dem Fund, der ihn belegt:
+
+| # | Test | hat in dieser Sitzung gefunden |
+|---|---|---|
+| 1 | **Anleihen** - Vier-Wort-Wendungen, die nur diese Figur und Georgij benutzen und sonst niemand | Sims vier Rahmen, Mrs Has Konterfaktisches, **zwei meiner eigenen Ersatzzeilen** |
+| 2 | **Superlative** - jeder Rang und jede Zahl im Blatt neu gemessen | rund zehn veraltete Ranglisten |
+| 3 | **Zitate** (`belege.py`) - steht jedes Zitat in einer lebenden Fassung? | drei erfundene bzw. verschmolzene Zitate |
+| 4 | **Fragenquote** je 100 Repliken gegen die Besetzung | Sim: 0 von 71 |
+| ~~5~~ | ~~**Verbotstest** (`stimmen.py --tics`)~~ | **null Verstöße in der ganzen Besetzung** |
+
+**Drei mit einmaliger Handarbeit je Figur:**
+
+| # | Test | Fund |
+|---|---|---|
+| 6 | **Anwesenheitsprobe** (`anwesenheit.py`) - kommen ihre eigenen Züge in **ihrer** Rede vor, Kapitel für Kapitel? | Sims fehlende Höflichkeit, Mrs Has Rückkanal auf null |
+| 7 | **Veralterung** - zitiert das Blatt die Kapitel, in denen sie spricht? | Sims Blatt endete bei K41, 64 von 65 Repliken stehen danach |
+| 8 | **Index-Verzerrung** - getaggte gegen tatsächliche Repliken | Mrs Ha 16 statt 39, Chae 7 statt 17, Woo 87 statt rund 172 |
+
+**Vier nur durch Lesen:**
+
+| # | Test | Fund |
+|---|---|---|
+| 9 | **Berichtet oder gesprochen** - steht der Zug lebendig in der Szene oder nur in Erzählung, indirekter Rede, ihrem eigenen Rückblick? | Sims Gastfreundschaft existiert fast nur als Bericht |
+| 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
+| 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
+| 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
+
+**Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
+(13) und `faktenspur.py` plus `check.py` vor jedem Push (14).
+
+### Was der Autor daran geändert hat
+
+| | mein Vorschlag | beschlossen |
+|---|---|---|
+| **kleine Figuren** (5-19 Repliken, 14 Stück) | reduzierter Satz: 1-4, 6, 8 und **ein** Lesetest | **volles Programm, alle elf** - auch Rückkanal und Zustand, weil Mrs Ha, Koh, Hong, Chae und Sohn eigene Szenen haben |
+| **bei einem Fund** | - | **schreiben und vorlegen:** ich schreibe die Zeile, messe sie vorab, zeige vorher/nachher. Jede Änderung ist im Bericht sichtbar und kippbar |
+
+### Und die Probe darüber, die keine Nummer hat
+
+**Sie stand seit Langem am Ende von `doc/12` und war nie gelaufen:**
+
+> *"Streiche jeden Satz, der etwas über den Fall sagt. **Bleibt eine Person
+> übrig?**"*
+
+**Am 26.08. zum ersten Mal ausgeführt.** Die zwölf Prüfungen oben können melden,
+dass etwas Fremdes dasteht oder dass ein Zug fehlt. **Keine kann melden, dass
+unter der Figur niemand ist.**
+
+| | was ohne den Fall übrig bleibt | Person? |
+|---|---|---|
+| **Woo** | *"I have not enjoyed anything hot since 2011."* · *"I was not the thing that was being bought. I was the door."* · *"…and I am too old to mind."* | **ja, ganz** |
+| Jang | *"It's gravel. You can rake it for a year."* | ja |
+| **Sim** | *"I thought that was probably the shape of it."* | **nein - er arbeitet weiter** |
+| **Mrs Ha** | *"The bride came to this office."* | **nein - sie sagt weiter aus** |
+
+**Und sie ist nicht zählbar** - siehe C8. Das ist der Grund, warum sie keine
+Nummer bekommt: sie ist keine Prüfung, sondern die Frage, auf die die Prüfungen
+zuarbeiten.
+
+**Was die Batterie ausdrücklich nicht abdeckt:** Rückkanal, Zustand und das
+Nicht-Aussprechen der Regel lassen sich an eine leere Figur anschrauben. **Die
+Mechanik macht eine Figur bedienbar, nicht bewohnt.**
+
+---
+
+
 ## C. Regeln über das Verfahren
 
 | # | Regel | woher sie kommt |
@@ -18783,7 +18859,10 @@ wiederhergestellt (b2 K21, b2 K05).
    *"A woman in Seoul"* über seine Auftraggeberin. Den Namen hält er zurück,
    aber die **Existenz** einer Auftraggeberin räumt er hier zum ersten Mal so
    ein. Er ist mit Annie sonst streng.
-5. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K34 benutzt dieselbe
+5. **Die Testbatterie selbst (C0)** - ob die zwölf Prüfungen die richtigen
+   Fragen stellen, und ob das Streichen von Test 5 voreilig war. Ein Verfahren,
+   das die falschen Fragen stellt, liefert lauter richtige Antworten auf nichts.
+6. **Ein Widerspruch, den ich nicht angefasst habe:** b2 K34 benutzt dieselbe
    Wendung *"Two people, four years and one telephone number apart"* zweimal mit
    verschiedenem Bezug - einmal die **Empfänger**, einmal die **Sprecher**.
 
