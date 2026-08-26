@@ -2938,3 +2938,473 @@ und 6 stehen, nicht neben ihnen.**
 | Eigene Detektoren gebaut und an bekanntem Exemplar geeicht | **2** (Negativdefinition an b2 K57; Zeichenwechsel-Rekonstruktion an `80a632f`) |
 
 **Kapitel geändert: keines.**
+
+---
+
+# Die Vorlage angewandt: Hwang, Yeom, Kwon (26.08., dritter Prüfdurchgang)
+
+**Was ich gemacht habe:** die zehnteilige Vorlage aus dem Jang-Blatt auf drei
+nicht umgebaute Figuren angewandt, so wie sie dasteht, und dabei nur den Text
+benutzt. Acht Kapitel ganz gelesen, drei in Auszügen. Keine Zahl aus einem
+Dokument übernommen.
+
+**Falle 1 zuerst, weil sonst alles Folgende falsch ist.** Über den Wechsel
+gezählt statt über den Index:
+
+| | `stimmen.py` | Dialogzeilen in seinen Szenen | seine Hälfte (Zweipersonenszene) |
+|---|---|---|---|
+| Hwang | 30 | 293 (K21 72, K28 62, K81 57, K84 53, K80 49) | **b2 K21 allein 35**, von Hand nachgezählt |
+| Yeom | 25 | 215 (K24 35, K25 54, K53 67, K39 59) | **K25 ~26, K53 ~33** |
+| Kwon | 18 | 171 (K14 47, K15 46, K69 78) | **K14 ~21, K15 ~22, K69 ~20** |
+
+**Der Index sieht bei allen dreien weniger als die Hälfte, bei Kwon weniger als
+ein Drittel.** Jedes Urteil über diese drei, das aus `stimmen.py` kommt, ist ein
+Urteil über ihr flachstes Drittel.
+
+---
+
+# 1. Erzeugen die Regeln eine Person?
+
+## Kurzantwort
+
+**Bei allen dreien erzeugt die Vorlage zuverlässig die Maschine und die Manier.
+Bei keinem der drei erzeugt sie die Person. Die Person steht in allen drei
+Fällen im Text, in ein bis drei Sätzen, und kein Feld der Vorlage fragt nach
+ihnen.**
+
+Und der Beweis steht schon im Dokument, nur nicht als Aussage über die Vorlage:
+
+> `doc/12`, *Die Probe*: **Woo** ja, ganz · **Jang** ja, klein und da · **Hwang**
+> ja, als Manier · **Sim** *nein - er arbeitet weiter* · **Mrs Ha** *nein - sie
+> sagt weiter aus*
+
+**Sim und Mrs Ha sind genau die zwei Blätter, die nach der Vorlage umgebaut
+wurden, und sie sind die zwei, die durchfallen.** Woo und Jang, die bestehen,
+sind vor der Vorlage entstanden. Das ist kein Zufall und kein Vorwurf an die
+zwei Blätter - es ist die Aussage über das Verfahren, und sie ist gemessen.
+
+## Wo der Unterschied sichtbar wird, Figur für Figur
+
+### Mr Kwon - die Vorlage erzeugt drei Sätze, der Text erzeugt einen Mann
+
+**Was im Blatt steht** (`doc/12` Z2684, vollständig): *"Der flache Bericht, aus
+dem der Weichmacher entfernt ist. Er spricht aus Türrahmen und sagt Dinge zu
+Ende. Er stellt fest, wann etwas nicht passiert ist."*
+
+**Was die Vorlage daraus macht:** Maschine = der ungeglättete Bericht in der
+Reihenfolge des Geschehens. Das ist richtig und belegt - b2 K15 Z90: *"Straight
+away," said Mr Kwon. "Not a second. Not one of those things where a person takes
+a breath first."* Auch die Steigerung ist da, b2 K69 Z226: *"I am not being
+clever. I have run nine trucks for thirty-two years. A haulier who cannot tell
+the difference between being the reason and being the change goes under in about
+two years."*
+
+**Was durch jedes Feld der Vorlage fällt** - Kwons zweite Szene ist eine
+Telefonzelle für eine fremde Katastrophe, und seine dritte ist eine
+Vierhundert-Kilometer-Fahrt wegen einer Schuld, die niemanden interessiert:
+
+> b2 K14 Z122: *"My partner wants out," he said. "He has wanted out since his
+> wife died and he cannot go, because there is nobody on this coast to sell his
+> half to."*
+> b2 K69 Z306: *"**He is all right.** That is what I was ringing to tell you in
+> May, and it took me until August to work out that you thought it was going to
+> be a complaint."*
+> b2 K69 Z314: *"He is forty minutes from the girl. **He has a boat that does
+> not go anywhere and he telephones me on Sundays about the yard, and I let him,
+> because it costs me eleven minutes** and he was my partner for…"*
+
+**Das ist der ganze Mann, und es ist kein Feld der Vorlage.** Es ist nicht seine
+Maschine, nicht sein Anliegen im Sinn der Regel 1 (er will nichts von Georgij),
+nicht Körper, nicht Wärme im Sinn des Jang-Blatts. Es ist ein Leben, das der
+Fall nicht ausgeben kann.
+
+**Probe am Schluss, Fall gestrichen:** *"I am fifty-four and I have been doing
+this since I was twenty-two, and work does not arrive."* (K69 Z106) · *"I do not
+want to be thanked by you."* (K15 Z170) · *"I will take the seven years and I
+will not take the thanks, and I would like that to be the arrangement between us
+from now on."* (K15 Z174) · der Sonntagsanruf. **Person, vollständig.**
+
+### Mr Yeom - die Vorlage füllt sich glatt, und lässt die drei Sätze liegen
+
+Sein Blatt ist das ausführlichste der drei und füllt Maschine, Anliegen, Wärme,
+Kollision. Es hat **kein Körperfeld** und **kein Feld, in das die folgenden drei
+Sätze passen**:
+
+> b2 K25 Z16: *"You came," he said. "**I told my wife you would and she said you
+> would not, and she is right about people about seventy per cent of the time**,
+> so I am going to enjoy this for a moment."*
+> b2 K53 Z180: *"**My father's house.** He ran it for thirty years and I have run
+> it since the year he died, **and I never once went down to the floor.**"*
+> b2 K53 Z96: *"I have worked for seven people in my life and I have never handed
+> one of them to anybody."*
+
+Der mittlere ist der wichtigste und steht in **keinem** Dokument: Yeom hat das
+Haus geerbt und ist in dreissig Jahren nie in den Saal hinuntergegangen. **Das
+ist die Erklärung für alles, was sein Blatt als Maschine beschreibt**, und es
+ist zugleich unverwertbar - keine Szene braucht es.
+
+**Probe, Fall gestrichen: Person, vollständig.** Und das Blatt hat davon nichts.
+
+### Mr Hwang - der einzige, bei dem die Vorlage etwas erzeugt, und `doc/12` benotet es selbst als *Manier*
+
+Sein Blatt ist aus b2 K21 und K28 geschrieben, und dort liefert die Vorlage
+sauber: Maschine (*"You are correct. I want to say that first so that we are not
+doing the part where you prove it to me."* b2 K21 Z46), das dokumentarische
+Verhältnis zu Menschen (*"I know that because she wrote it on her application
+when she came and nobody has ever asked her for a new one."* b2 K28 Z164),
+Wärme als Schriftstück (*"It is two pages and every sentence in it is true and I
+have never written a better one about anybody."* b2 K28 Z170).
+
+**Und `doc/12` selbst benotet ihn als *"ja, als Manier"*.** Zu Recht: das oben
+ist alles Betrieb. Die Person steht drei Kapitel weiter und ist im Blatt nicht
+angekommen, weil das Blatt vor K81 und K84 geschrieben wurde:
+
+> b2 K28 Z224: *"**She sat in this room with a school exercise book that she
+> bought with her own money, and she held it out to a man who was proud of
+> keeping everything.**"*
+> b2 K84 Z8: *"**I do not telephone people at the weekend and I have not done it
+> since 2019**, he said."*
+> b2 K81 Z10: *Mr Hwang was already behind it, with a sheet of paper in his
+> hand, **which is how that man is always found.***
+> b2 K81 Z72: *Then he turned it over, face down, **which is the first time
+> Georgij has seen him let go of a piece of paper.***
+
+**Die letzten zwei sind das beste Beispiel für Regel 6 im ganzen Buch** - die
+Geste, deren Eigentümer der Text selbst benennt, und das eine Mal, an dem sie
+unterbleibt. **Die Regel steht in `doc/12`, das Muster steht in b2 K81, und
+zwischen beiden gibt es keine Verbindung**, weil kein Verfahren die neuen
+Kapitel gegen die alten Blätter hält.
+
+## Wo der Unterschied sichtbar ist, in einem Satz
+
+**Regelkonformität erkennt man daran, dass jeder Satz der Figur im Dienst der
+Szene steht - auch der private.** Sims *"I have got one instrument and I have
+just found out what it was for"* ist tief und **gehört dem Fall**. Mrs Has
+*"Thirty years, and the useful thing about me is that I've got nothing left"* ist
+gut und **gehört dem Fall**.
+
+**Eine Person erkennt man an dem Satz, den die Szene nicht ausgeben kann.**
+Woos 2011, Yeoms Frau mit ihren siebzig Prozent, Kwons Boot, das nirgendwohin
+fährt, Hwangs Wochenende seit 2019. Keiner davon bewegt irgendetwas.
+
+---
+
+# 2. Was trägt, was ist Zierrat
+
+Angewandt auf drei Figuren, Teil für Teil.
+
+| Teil der Vorlage | Urteil | woran es sichtbar wurde |
+|---|---|---|
+| **Die Maschine** | **hält** | erzeugte bei allen dreien sofort eine eigene, aus dem Text belegbare |
+| **Das Anliegen** | **hält nicht** | siehe unten - es liefert das Szenenmotiv und nicht das Leben |
+| **Er darf / darf nicht** | **hält, mit Auflage** | trägt nur, wenn der Eigentümer der verbotenen Wendung genannt und **gemessen** ist. Bei Yeom ist er falsch genannt, siehe unten |
+| **Körper** | **hält nur mit der Ganzbuch-Messung** | angewandt fällt Kwons einzige Körperzeile durch, siehe unten |
+| **Wie er mit wem redet** | **Zierrat bei zwei von drei** | Hwang spricht im ganzen Buch mit einer Person, Kwon mit zweien. Das Feld lässt sich nur durch Erfinden füllen |
+| **Was passiert, wenn er warm wird** | **hält, und ist der stärkste Teil** | lieferte bei allen dreien eine belegte, nicht ausgesprochene Wärme |
+| **Unter Druck** | **Zierrat** | bei allen dreien eine Ableitung aus der Maschine, kein eigener Befund. *"Das eigene Register verstärkt sich"* ist eine Folgerung, kein Feld |
+| **Vier Beispiele** | **hält nicht** | siehe unten - bei einer Figur mit sechzig Repliken ist das Erfinden die Fehlerquelle selbst |
+| **Die Probe (Markertabelle)** | **hält** | der einzige mechanisch prüfbare Teil, und `anwesenheit.py` liest ihn |
+| **Die Messwerte im Kopf** | **hält nur unter C1** | Hwangs *"Daten 16,3, Minuten 13,6"* sind figureneigen und damit zulässig |
+
+## Streichliste, fertig
+
+**1. *Unter Druck* wird gestrichen und in *Die Maschine* eingegliedert.** Der
+Satz, der bleibt, gehört ans Ende der Maschine:
+
+> **Unter Druck ändert sich die Maschine nicht, sie wird feiner.** Bei Jang von
+> der Stufe zur Uhrzeit, bei Hwang vom Datum zur Rechtslage, bei Kwon vom
+> Bericht zur Reihenfolge. **Wenn hier etwas anderes steht als eine Verfeinerung
+> des Feldes darüber, ist eines von beiden falsch.**
+
+**2. *Wie er mit wem redet* bekommt eine Schwelle:**
+
+> **Nur ausfüllen, wenn die Figur im Buch mit mindestens drei Personen spricht.**
+> Sonst entfällt das Feld - ein erfundenes Gegenüber erzeugt eine erfundene
+> Stimme. Hwang spricht mit einer Person, Kwon mit zweien, Yeom mit einer.
+
+**3. *Vier Beispiele* wird ersetzt durch *Vier Belege*:**
+
+> **Vier Stellen aus dem Text, mit Kapitel und Zeile:** ruhig · unter Druck ·
+> schlimmster Moment · warm. **Erfundene Muster nur bei Figuren unter zehn
+> Repliken**, und dann als *Vorschlag* markiert (Regel 10 in `doc/11`).
+> **Grund:** eine Figur mit sechzig Repliken hat die vier Stellen schon, und das
+> Erfinden ist genau der Modus, in dem am 26.08. zwei Sim-Ersatzzeilen und eine
+> Mrs-Ha-Zeile entstanden sind, die alle drei zurückgenommen werden mussten
+> (C2, C3). `belege.py` trägt dafür 27 Vorschlagszitate allein in `doc/12`.
+
+Für die drei Geprüften stehen die Belege bereit, es muss nichts erfunden werden:
+Kwon ruhig b2 K14 Z46, unter Druck b2 K69 Z82, schlimmster Moment b2 K15 Z156,
+warm b2 K69 Z314. Hwang ruhig b2 K21 Z46, unter Druck b2 K28 Z122, schlimmster
+Moment b2 K28 Z128, warm b2 K28 Z170. Yeom ruhig b2 K24 Z120, unter Druck b2 K25
+Z146, schlimmster Moment b2 K53 Z100, warm b2 K53 Z212.
+
+## Zwei Fehler, die beim Anwenden herausfielen
+
+### Die Kollisionsprobe, Zeile 1: **hält nicht**
+
+`doc/12` Z3053: *"Die Äußerung benoten | gehört **Sang-hoon** | kollidiert mit
+**Yeom**"*, und Yeoms Blatt sagt *"das ist **Sang-hoons Signatur**"*.
+
+**Nachgezählt über beide Bände, 21 Fundstellen: Sang-hoon hat keine einzige.**
+Die Signatur gehört **Annie** (sechs, u. a. b1 K9 Z270 *"That's very good," she
+said.* · b2 K5 Z140 · b2 K10 Z54) und **Georgij** (drei: b2 K21 Z88 *"That is a
+very good sentence," said Georgij.* · b2 K37 Z82 · b2 K52 Z64). Yeom hat zwei
+(b2 K24 Z142, b2 K53 Z56).
+
+**Damit schützt die Regel vor einer Kollision, die es nicht gibt, und übersieht
+die, die es gibt:** Yeom benotet in b2 K24 Z142 wörtlich so wie Georgij drei
+Kapitel davor in b2 K21 Z88. Und die Zusatzregel *"nie beide im selben Kapitel"*
+ist gegen Georgij nicht anwendbar.
+
+**Fertiger Ersatz für die Zeile:**
+
+> | Die Äußerung benoten | **Annie und Georgij** | **Yeom** | Annie benotet und stellt die bessere Frage; Georgij benotet und nimmt den Satz danach auseinander (*"I would like to take it apart"*); **Yeom benotet und sagt danach, warum er gefragt hat** (*"I am going to think about it later"* · *"I only wanted to hear whether you would say so"*). Höchstens einmal je Szene. Die Zusatzregel *nie beide im selben Kapitel* entfällt hier, weil Georgij in jedem Kapitel steht |
+
+*(Der zweite Teil der Yeom-Zeile hält: **Yeom spricht in b2 K38 und b2 K39 in
+null Zeilen**, obwohl er dort einundzwanzig- bzw. fünfmal genannt wird. Die
+Trennung nach dem Sprechen ist richtig gezählt.)*
+
+### Kwons einzige Körperzeile: **hält nicht**
+
+Sein Blatt sagt *"Er spricht aus Türrahmen"*. Gemessen über 124 Kapitel steht
+das Türrahmen-Motiv **25-mal** und gehört mindestens sechs Figuren: **Annie
+dreimal** (b2 K16 Z168, b2 K35 Z478, b2 K55 Z200), Georgij dreimal, dazu Jang,
+Sang-hoon, Mrs Seo. Kwon hat zwei davon. **Das ist der Vorgabe-Beat, den Regel 6
+seit dem 26.08. benennt, und er steht in dem einzigen Körpersatz, den die Figur
+hat.**
+
+**Fertiger Ersatz:**
+
+> **Körper.** Nicht der Türrahmen - der steht 25-mal im Buch bei sechs Figuren,
+> Annie allein dreimal. **Seiner ist der abgelehnte Stuhl, und er nennt den
+> Grund dazu:** *"I will. I am going to do it standing here **because I did not
+> come to be given a chair**."* (b2 K69 Z74), wiederholt Z138. **Und die eine
+> Ausnahme ist die Szene:** *"Mr Kwon," she said. "Sit down, and do not tell me
+> you would rather stand, because you have been in a car since four."* - *"I have
+> been in a car since four."* - *"Then sit down."* - *He sat down.* (b2 K69
+> Z174-186) Das ist Regel 6 in ihrer zweiten Hälfte: die Gewohnheit unterbleibt,
+> und das Unterbleiben ist der Wendepunkt der Szene.
+>
+> **Kollision, in beide Blätter:** Hwang gibt den Stuhl ebenfalls weg und bleibt
+> stehen (b2 K21 Z40), und beide legen die Unterarme auf (Kwon b2 K14 Z54, Hwang
+> b2 K21 Z140 und Z190). **Trennung:** Hwang steht aus seinem Körper heraus
+> (*"I have been standing since seven and if I sit down now I will not get up
+> again"*), Kwon aus Verweigerung der Gastfreundschaft. Kein Dritter im Buch hat
+> beide Details.
+
+---
+
+# 3. Die sechs Mechanismen des Musterfalls, Punkt für Punkt
+
+| # | Mechanismus | angekommen? | wo |
+|---|---|---|---|
+| 1 | **Eigenes Anliegen** | **teilweise** | als *Regel 1* und als Blattfeld *Anliegen* - aber verengt, siehe unten |
+| 2 | **Sie rekrutiert ihn** (*"You hear that?"*) | **nein** | steht in `doc/12` **nur** in der Musterfall-Liste (Z229) und in *Drei Werkzeuge* (Z194). **Kein Blatt verlangt es, keine Probe misst es** |
+| 3 | **Sie geht woanders hin und bleibt dort** | **nein** | steht **nur** in Z230. Kein Blatt erlaubt Abschweifen, keines verlangt es |
+| 4 | **Ausrufezeichen** | **nur für Zivilisten** | Z193 und das Zivilisten-Blatt Z2119 |
+| 5 | **Kein einziger Schluss** | **nur für Zivilisten** | *Regel 2*, Zeile *Zivilisten*: *"Assoziation statt Argument. Sie schließen nicht."* |
+| 6 | **Status und Sorge** (Hanyang gegen Ajou) | **nein** | steht **nur** in Z235 |
+
+**Drei von sechs sind nie aus dem Musterfall herausgekommen.** Sie stehen in der
+Aufzählung, die erklärt, warum die Stelle funktioniert, und in keiner Regel, in
+keinem Blattfeld und in keiner der zwölf Prüfungen.
+
+## Und die drei sind genau die, die bei meinen drei Figuren am Werk sind
+
+**Mechanismus 2, rekrutieren.** Alle drei tun es, und jedes Mal ist es der
+schärfste Satz der Szene:
+
+> Kwon, b2 K69 Z322: *"I would have driven up in June if anybody had said one
+> sentence to me. **I want that on record, because you are a man who keeps
+> records.**"*
+> Hwang, b2 K81 Z158: *"It is not enough to be noted. **Write it down somewhere
+> that is not this building.**"*
+> Yeom, b2 K25 Z142: *"…and **I would like you to understand exactly why not**,
+> because you are going to think it was cowardice and it was not."*
+
+Das ist nicht Rückfragen. Es ist die Forderung, dass der andere die eigene Sache
+mitträgt. **Die Batterie hat dafür kein Muster** - Mrs Has *befragt ihn zurück*
+misst etwas anderes.
+
+**Mechanismus 3, woanders hingehen und dort bleiben.** Bei allen dreien ist die
+Abschweifung die Szene:
+
+> Yeom, b2 K25: von der Registerabfrage zur Frau, die zu siebzig Prozent recht
+> hat, und in K53 vom Namen zum Vaterhaus, an dessen Boden er nie war.
+> Kwon, b2 K14: von den sieben Jahren zum Partner, dessen Frau gestorben ist -
+> und Georgij *"did not say anything to that at all"*, weil nichts verfügbar war,
+> das wahr **und** nützlich gewesen wäre.
+> Hwang, b2 K28: von der Adresse zum Schulheft.
+
+**In allen drei Fällen fällt die Auskunft dabei ab, und der Leser sieht Georgij
+sie einsammeln** - das ist wörtlich die Beschreibung aus Regel 1. **Der
+Mechanismus, der Regel 1 überhaupt funktionieren lässt, steht nicht in Regel 1.**
+
+**Mechanismus 6, Status und Sorge.** Kwon hat ihn zweimal und in vier Wörtern,
+wie die Gießkanne:
+
+> b2 K14 Z80: *"**You came in a car that costs more than my house.** You knew
+> about my apron before you knew about my trucks."*
+> b2 K69 Z106: *"I am fifty-four and I have been doing this since I was
+> twenty-two, and **work does not arrive**."*
+
+Yeom hat ihn als Besitz statt als Sorge (derselbe Tisch seit 2016, die
+Reservierungskarte, die viele Male benutzt worden ist). **Hwang hat ihn nicht -
+und das ist genau der Grund, warum `doc/12` ihn mit *"als Manier"* benotet.**
+
+## Und der Punkt, an dem Mechanismus 1 verengt worden ist
+
+Regel 1 fragt: *"Was will diese Figur **in dieser Szene**, das nichts mit dem
+Fall zu tun hat?"* Der Musterfall ist schärfer: die Frau **beantwortet die Frage
+gar nicht mehr** und hat die vierte Etage am Ende vergessen.
+
+**In den Blättern ist daraus das Motiv geworden, mit dem die Figur in die Szene
+kommt** - Jang will, dass seine Berichte gelesen werden; Sim will Zeugenschaft.
+Beides ist ein Wollen **gegenüber Georgij** und damit im Fall drin. Deshalb
+bestehen beide die Vorlage und Sim die Schlussprobe nicht.
+
+**Fertiger Ersatz, das Feld wird geteilt:**
+
+> **Das Anliegen.** Was die Figur **in dieser Szene** will, das mit dem Fall
+> nichts zu tun hat - und woran man sieht, dass sie darüber die Frage vergisst.
+>
+> **Das Leben daneben.** Ein bis drei Sätze **aus dem Text**, die keine Szene
+> ausgeben kann: kein Hebel, keine Auskunft, kein Motiv, nichts, das jemand
+> braucht. Wer keinen findet, hat die Lücke gefunden und schreibt das hin.
+> Beleg: Woos *"I have not enjoyed anything hot since 2011."*
+> Hwang: *"I do not telephone people at the weekend and I have not done it since
+> 2019."* (b2 K84 Z8)
+> Yeom: *"I told my wife you would and she said you would not, and she is right
+> about people about seventy per cent of the time."* (b2 K25 Z16)
+> Kwon: *"He has a boat that does not go anywhere and he telephones me on
+> Sundays about the yard, and I let him, because it costs me eleven minutes."*
+> (b2 K69 Z314)
+
+## Nebenbefund zu Mechanismus 4, und er ist eine Zahl im Dokument
+
+`doc/12` Z28 und Z193: *"null Ausrufezeichen in 240.000 Wörtern"* · *"Null in
+beiden Bänden."* **Nachgezählt über 124 Kapitel: vier - und alle vier stehen in
+b2 K46**, also im Musterfall selbst (Z66, Z72, Z96, Z104).
+
+Das ist keine Kleinigkeit: **das Mittel existiert im ganzen Buch genau an der
+einen Stelle, die als Maßstab dient.** Wer die Zahl null im Kopf hat, hält es für
+verboten. Fertiger Ersatz für beide Stellen: *"Vier Ausrufezeichen in 240.000
+Wörtern, alle vier in b2 K46. Das Mittel ist nicht verboten, es ist einmal
+benutzt worden, und zwar von der einzigen Figur, die nicht im Gewerbe ist."*
+
+---
+
+# 4. Was verhindert, dass man die Trias an eine leere Figur schraubt?
+
+**Nichts, ausser der Leseprobe am Schluss. Und das ist belegbar, weil beide
+Umbauten am 26.08. genau das getan haben.**
+
+`doc/12` sagt es selbst: *"Rückkanal, Zustand und das Nicht-Aussprechen der
+Regel lassen sich an eine leere Figur anschrauben… Die Mechanik macht eine Figur
+bedienbar, nicht bewohnt."* Was fehlt, ist die Folgerung daraus.
+
+**Der Beweis aus dem eigenen Protokoll:**
+
+- Mrs Ha fehlte der Rückkanal. `doc/12` selbst: *"Das ist die Lücke, und **sie
+  ist eine Zeile gross**."* Sie wurde geschlossen (`0ec41ae`, `3d17947`). **Sie
+  fällt in der Schlussprobe weiterhin durch.**
+- Sim fehlte die Frage nach einer konkreten Sache. Die Lücke wurde mit einer
+  neuen Zeile im K74-Auftakt geschlossen (`b0218cb`). **Er fällt in der
+  Schlussprobe weiterhin durch.**
+
+**Zweimal wurde ein Zug nachgerüstet, zweimal hat `anwesenheit.py` danach grün
+gemeldet, und zweimal blieb die Antwort auf die Frage *bleibt eine Person übrig*
+nein.** Das ist kein Versagen der Werkzeuge - es ist ihre Bauart. Jeder der
+zwölf Tests fragt nach der **Anwesenheit eines Zuges**, und ein Zug ist ein
+regulärer Ausdruck, und ein regulärer Ausdruck lässt sich mit einer Zeile
+erfüllen.
+
+## Warum die Schlussprobe nicht reicht
+
+Sie kommt **zuletzt** und sie ist **nicht mechanisierbar** (C8, und das stimmt).
+Damit steht am Ende des Verfahrens ein Urteil, das nichts davor vorbereitet hat.
+Und wer den Befund bekommt *"nein, es bleibt keine Person übrig"*, hat keine
+Handlungsanweisung: es fehlt kein Zug, den man nachrüsten könnte.
+
+## Fertiger Vorschlag: eine Sperre, die vor der Mechanik greift
+
+> **Der unverwertbare Satz - das erste Feld jedes Blattes, vor der Maschine.**
+>
+> Jedes Blatt nennt **einen Satz aus dem Text über diese Figur, den keine Szene
+> ausgeben kann.** Kein Hebel, keine Auskunft, kein Motiv, keine Erklärung ihres
+> Verhaltens im Fall. Er wird zitiert, mit Kapitel und Zeile.
+>
+> **Die Sperre:** Wer keinen findet, schreibt kein Blatt. Er schreibt die Zeile
+> *„Kein unverwertbarer Satz vorhanden"* hin, und das ist der Befund. **Es ist
+> die einzige Lücke im ganzen Verfahren, die sich nicht mit einer Zeile in der
+> laufenden Szene schließen lässt** - denn sobald der Satz der Szene nützt, ist
+> er keiner mehr.
+>
+> **Geeicht an den fünf Figuren, die die Schlussprobe schon durchlaufen haben:**
+> Woo drei (2011, der Mann, der ihn zweimal geschlagen hat, der Raum mit dem
+> schlecht gesagten Namen) · Jang einer (*"It's gravel. You can rake it for a
+> year."*) · Hwang einer, aber erst ab b2 K84 · **Sim keiner - und die Zeile, in
+> der einer stehen müsste, trägt die Biographie einer anderen Figur (siehe
+> unten)** · **Mrs Ha einer, und er steht in ihrem Blatt als Zahlenkorrektur
+> statt als Leben:** *"the four hundred and eleventh was in the November before
+> last and it was a nephew and I did it for nothing."* (b2 K67 Z64)
+>
+> **Die Eichung geht auf.** Die drei mit Satz bestehen die Schlussprobe, der ohne
+> fällt durch, und bei der fünften zeigt die Probe, wo das Material liegt: der
+> Neffe, für den sie umsonst gearbeitet hat, tut in ihrer Szene nichts und wird
+> deshalb im Blatt als Ziffer geführt.
+
+## Und der Fund, der genau an dieser Stelle herausfiel
+
+**Sims Blatt, Tabelle *Was das Blatt nicht hatte*, `doc/12` Z1279:**
+
+> | **Woher er kommt** | Mit **sechsunddreissig** aus einem Dienst herausgeholt (K75) |
+
+**Sim kommt in b2 K75 nicht vor - null Nennungen im ganzen Kapitel.** Der Mann
+von sechsunddreissig, den man aus einem Dienst herausgeholt hat, ist **Choi
+Dae-ho**:
+
+> b2 K75 Z42: *"There was a prosecutor of thirty-six who had read a file and gone
+> out to a yard and asked a question nobody had thought to ask."*
+> b2 K80 Z88: *"Your father did it to a prosecutor of thirty-six in the spring of
+> two thousand and two. **Choi did it to a man who…**"*
+
+Die Altersrechnung sagt dasselbe: der Prosecutor war 2002 sechsunddreissig und
+ist heute etwa sechzig - Chois Alter, wie Woo ihn in b2 K57 Z148 beschreibt.
+**Sim ist dreiundsechzig und wäre 2002 neununddreissig gewesen.**
+
+**Das ist Klasse *Falsche Person* aus `doc/11`, und die Stelle ist die
+schlimmstmögliche:** die einzige Zeile in Sims Blatt, die nach einem Leben
+neben dem Fall fragt, ist mit der Herkunft des Gegenspielers gefüllt. Wer nach
+diesem Blatt schreibt, gibt Sim Chois Biographie.
+
+**Fertiger Ersatz für die Zeile:**
+
+> | **Woher er kommt** | **Steht nicht im Buch.** Belegt sind sein Alter (63), dreissig Jahre im Gewerbe und elf Jahre bei diesem Auftraggeber (b2 K68). *(Hier stand „mit sechsunddreissig aus einem Dienst herausgeholt (K75)" - das ist Choi Dae-hos Herkunft und gehört Sim nicht. Berichtigt am 26.08.)* |
+
+---
+
+**Das ist die Antwort auf Frage 4:** die Trias lässt sich anschrauben, weil alle
+zwölf Prüfungen nach Verhalten fragen. Ein Satz, der nichts tut, lässt sich
+nicht anschrauben - er muss vorher da gewesen sein. Er ist damit das einzige
+mechanisch prüfbare Merkmal, das die Leseprobe vorwegnimmt.
+
+---
+
+# Prüfumfang
+
+| | |
+|---|---|
+| Figuren mit der vollständigen Vorlage durchgearbeitet | **3** (Hwang, Yeom, Kwon) |
+| Kapitel ganz gelesen | **8** (b2 K14, K15, K21, K24, K25, K28, K53, K69) |
+| Kapitel in Auszügen gelesen | **3** (b2 K80, K81, K84) |
+| Dialogzeilen in diesen Szenen gezählt | **679** |
+| Repliken über den Wechsel gegen den Index gestellt | **3 Figuren**, Abweichung Faktor 2 bis 3,5 |
+| Teile der Vorlage einzeln beurteilt | **10**, dazu Regel 6, die Kollisionsprobe und die Schlussprobe |
+| Mechanismen des Musterfalls einzeln nachverfolgt | **6**, jeder gegen die 3197 Zeilen von `doc/12` |
+| Körpergewohnheiten über alle 124 Kapitel gemessen | **4** (Papier, Türrahmen, abgelehnter Stuhl, Unterarme) |
+| Signaturen gegengemessen | **1** (das Benoten, 21 Fundstellen, über beide Bände) |
+| Ausrufezeichen über alle 124 Kapitel gezählt | **4**, alle in b2 K46 |
+| Werkzeuge gelaufen, alle Eichungen bestanden | **3** (`anwesenheit.py --offen`, `stimmen.py` dreimal, `belege.py -v`) |
+
+**Kapitel geändert: keines. Blätter geändert: keines.**
