@@ -2553,6 +2553,10 @@ in einem Fall vier Zeilen auseinander:
 > b2 K83 Z64: **"Have you told him?"**
 >
 > b2 K79 Z46: *"How much of it," said Woo.* · Z120: *"Why," said Woo.*
+>
+> **Nachtrag 26.08.:** 79 ist mit 78 zusammengelegt worden. Beide Stellen
+> stehen unveraendert im Montagsteil von **K78** (*The only line out*), nur
+> die Zeilennummern sind andere. Der Befund selbst ist davon nicht beruehrt.
 
 **Ob eine Forderung ihren Punkt behalten hat, hängt jetzt davon ab, ob zufällig
 ein Redebegleitsatz danebenstand.** `doc/09` Punkt 8 begründet das Komma-Mittel

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 312.897 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 313.432 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -7323,7 +7323,8 @@ Geburtstag und nicht der Text.
 **Georgij ist an beiden Enden des Buches sechsundzwanzig:**
 
 - **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
-- **Tag 367**, Woo: *"You are twenty-six."*
+- ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text
+  gefallen**, siehe unten.
 - **Tag 415**, er selbst, im letzten Kapitel: *"I am twenty-six and it has taken
   me eight months."*
 
@@ -7334,9 +7335,9 @@ falsch, sondern **unbrauchbar**.
 
 **Zwei Wege, und beide sind Autorenentscheidungen:**
 
-1. **Er wird siebenundzwanzig.** Zwei Woerter aendern sich, in K79 und K90.
-   Der Schlusssatz des Buches hiesse dann *"I am twenty-seven and it has taken
-   me eight months."*
+1. **Er wird siebenundzwanzig.** Seit dem 26.08. aendert sich **ein** Wort und
+   nicht zwei, naemlich nur in K90. Der Schlusssatz des Buches hiesse dann
+   *"I am twenty-seven and it has taken me eight months."*
 2. **Der Katalog irrt sich um ein Jahr.** Er ist bei der Auktion
    fuenfundzwanzig, wird waehrend des Buches sechsundzwanzig, und der Katalog
    hat ihn falsch gefuehrt. **Das ist das Thema des Buches** - der aufgeraeumte
@@ -7345,6 +7346,28 @@ falsch, sondern **unbrauchbar**.
 
 **Bis das entschieden ist, bleibt der 12. September in der Tabelle stehen und
 ist ausdruecklich als unbrauchbar markiert.**
+
+**Nachtrag 26.08., und er verschiebt die Rechnung.** Beim Zusammenlegen von 78
+und 79 ist ein Drittel von Woos Belehrung gefallen, und darin stand
+*"You do not know it in the way you are going to know it. **You are
+twenty-six.**"* Gestrichen wurde es wegen `doc/08` - Kapitel 73 ist die letzte
+Stelle, an der jemand eine Lesart von Georgij umdreht -, und **dass die Zeile
+hier verbucht war, wusste ich beim Streichen nicht.**
+
+Folgen, beide Wege betreffend:
+
+- **Der Widerspruch bleibt bestehen.** Er lag nie zwischen Tag 367 und Tag 415,
+  sondern zwischen dem Katalog an Tag 1 und dem Schlusskapitel an Tag 415.
+  Dreizehn Monate, zweimal sechsundzwanzig.
+- **Weg 1 ist billiger geworden:** ein Wort statt zwei.
+- **Weg 2 hat seinen Preis schon bezahlt, ungewollt.** Der Einwand gegen ihn
+  war, er koste *"eine Stelle, an der es jemand bemerkt"*. Woos Satz **war**
+  diese Stelle, und zwar die einzige im ganzen Buch, an der ein anderer Mensch
+  Georgijs Alter in einer Szene ausspricht. Sie ist jetzt weg. Wer Weg 2 nimmt,
+  zahlt nichts mehr dafuer.
+- **Rueckholbar.** Die Altershaelfte des Satzes laesst sich ohne die
+  Belehrungshaelfte wieder einsetzen, wenn der Autor die Beobachtung behalten
+  will. Das ist eine Zeile Arbeit und kein Eingriff in den Bau.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
@@ -11193,6 +11216,10 @@ in einem Fall vier Zeilen auseinander:
 > b2 K83 Z64: **"Have you told him?"**
 >
 > b2 K79 Z46: *"How much of it," said Woo.* · Z120: *"Why," said Woo.*
+>
+> **Nachtrag 26.08.:** 79 ist mit 78 zusammengelegt worden. Beide Stellen
+> stehen unveraendert im Montagsteil von **K78** (*The only line out*), nur
+> die Zeilennummern sind andere. Der Befund selbst ist davon nicht beruehrt.
 
 **Ob eine Forderung ihren Punkt behalten hat, hängt jetzt davon ab, ob zufällig
 ein Redebegleitsatz danebenstand.** `doc/09` Punkt 8 begründet das Komma-Mittel
@@ -16214,7 +16241,34 @@ Rechtfertigung, eine Rechtslage.
 **Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
 **Er darf nicht:** den which-Satz, die Und-Kette, Adjektive über Menschen.
 
-**Körper.** Er hat das Papier in der Hand, bevor er darüber spricht.
+**Körper.** Er hat das Papier in der Hand, bevor er darüber spricht - *"with a
+sheet of paper in his hand, which is how that man is always found"* (b2 K81).
+Und er **richtet es gerade**. Wenn er es nicht tut, ist etwas los: b2 K84 legt er
+es zum ersten Mal um, mit der Schrift nach unten.
+
+#### Der Zug, der ihm nicht schmeichelt
+
+**Bis zum 26.08. hatte er keinen, und das war sein ganzes Problem.** Er war
+korrekt, genau, selbstanklagend - *"So I have been a man who knows and files"* -
+und **jede Zeile davon war würdig**. Ein Mann, dessen Fehler elegant sind, ist
+eine Funktion.
+
+**Neu in b2 K81 v1.2**, beiläufig, vor dem Geschäft, und es hält nichts auf:
+
+> *"Before me this house kept its lots in four systems. One of them is a book
+> that somebody ruled by hand, and the lines are not straight, **and I have
+> looked at it more often than I have needed to**." He did not square it this
+> time. "I have never been told whose hand it was and I have not asked,
+> **because I would rather go on being annoyed with him**."*
+
+**Was daran arbeitet:** er ist nachtragend gegenüber einem Menschen, den er nie
+getroffen hat, wegen krummer Linien in einem Buch, das er nicht mehr braucht.
+Er weiß es und **behält es absichtlich**. Es nützt der Handlung nichts, es macht
+ihn kleiner, und es wird mit keinem Satz entschuldigt.
+
+**Und der Beat vollzieht den Aussetzer:** eine Zeile vorher richtet er das Blatt
+gerade, hier lässt er es. **Der Mann, der aufräumt, räumt eine Sekunde lang
+nicht auf, weil er sich gerade über etwas Krummes ärgert.**
 
 ### Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)
 
@@ -20910,7 +20964,7 @@ die falschen Fragen stellt, produziert lauter richtige Antworten auf nichts.
 | 10 | **Rückkanal** - fragt sie je nach dem Gegenüber? Nimmt sie ein Angebot an, das die Szene ihr hinlegt? | Mrs Ha nimmt Georgijs *"I will answer any question you ask me"* nie an |
 | 11 | **Zustand** - ändert die Antwort des anderen, **was sie danach hergibt**? | Mrs Has Szene hatte eine Reihenfolge, keinen Zustand |
 | 12 | **Erklärt sie die Regel?** - spricht sie die Mechanik des Gesprächs aus? | **meine eigene Zeile**, nicht die des Buchs |
-| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/K79 gefunden, **von keiner der zwölf Prüfungen** |
+| 13 | **Warum tut sie nicht das Naheliegende?** - unterlässt eine Figur mit Mitteln die offensichtliche Handlung, ohne dass der Text den Grund nennt? | am 26.08. an der Hafenfläche in b2 K78/K79 gefunden (seit demselben Tag **ein** Kapitel, K78), **von keiner der zwölf Prüfungen** |
 
 **Zwei Sperren, keine Tests:** der Vorab-Test jeder Ersatzzeile gegen den Korpus
 (13) und `faktenspur.py` plus `check.py` vor jedem Push (14).

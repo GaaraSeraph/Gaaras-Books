@@ -4365,7 +4365,8 @@ Geburtstag und nicht der Text.
 **Georgij ist an beiden Enden des Buches sechsundzwanzig:**
 
 - **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
-- **Tag 367**, Woo: *"You are twenty-six."*
+- ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text
+  gefallen**, siehe unten.
 - **Tag 415**, er selbst, im letzten Kapitel: *"I am twenty-six and it has taken
   me eight months."*
 
@@ -4376,9 +4377,9 @@ falsch, sondern **unbrauchbar**.
 
 **Zwei Wege, und beide sind Autorenentscheidungen:**
 
-1. **Er wird siebenundzwanzig.** Zwei Woerter aendern sich, in K79 und K90.
-   Der Schlusssatz des Buches hiesse dann *"I am twenty-seven and it has taken
-   me eight months."*
+1. **Er wird siebenundzwanzig.** Seit dem 26.08. aendert sich **ein** Wort und
+   nicht zwei, naemlich nur in K90. Der Schlusssatz des Buches hiesse dann
+   *"I am twenty-seven and it has taken me eight months."*
 2. **Der Katalog irrt sich um ein Jahr.** Er ist bei der Auktion
    fuenfundzwanzig, wird waehrend des Buches sechsundzwanzig, und der Katalog
    hat ihn falsch gefuehrt. **Das ist das Thema des Buches** - der aufgeraeumte
@@ -4387,6 +4388,28 @@ falsch, sondern **unbrauchbar**.
 
 **Bis das entschieden ist, bleibt der 12. September in der Tabelle stehen und
 ist ausdruecklich als unbrauchbar markiert.**
+
+**Nachtrag 26.08., und er verschiebt die Rechnung.** Beim Zusammenlegen von 78
+und 79 ist ein Drittel von Woos Belehrung gefallen, und darin stand
+*"You do not know it in the way you are going to know it. **You are
+twenty-six.**"* Gestrichen wurde es wegen `doc/08` - Kapitel 73 ist die letzte
+Stelle, an der jemand eine Lesart von Georgij umdreht -, und **dass die Zeile
+hier verbucht war, wusste ich beim Streichen nicht.**
+
+Folgen, beide Wege betreffend:
+
+- **Der Widerspruch bleibt bestehen.** Er lag nie zwischen Tag 367 und Tag 415,
+  sondern zwischen dem Katalog an Tag 1 und dem Schlusskapitel an Tag 415.
+  Dreizehn Monate, zweimal sechsundzwanzig.
+- **Weg 1 ist billiger geworden:** ein Wort statt zwei.
+- **Weg 2 hat seinen Preis schon bezahlt, ungewollt.** Der Einwand gegen ihn
+  war, er koste *"eine Stelle, an der es jemand bemerkt"*. Woos Satz **war**
+  diese Stelle, und zwar die einzige im ganzen Buch, an der ein anderer Mensch
+  Georgijs Alter in einer Szene ausspricht. Sie ist jetzt weg. Wer Weg 2 nimmt,
+  zahlt nichts mehr dafuer.
+- **Rueckholbar.** Die Altershaelfte des Satzes laesst sich ohne die
+  Belehrungshaelfte wieder einsetzen, wenn der Autor die Beobachtung behalten
+  will. Das ist eine Zeile Arbeit und kein Eingriff in den Bau.
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
