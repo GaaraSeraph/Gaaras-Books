@@ -950,3 +950,75 @@ Auftrag 4 ist kein Kürzungsauftrag, sondern ein Schreibauftrag, und er ist
 unberührt. **Fünfunddreißig Kapitel schreiben ins Heft hinein, zwei holen etwas
 heraus.** Der Modellfall existiert genau einmal, in K45.
 
+---
+
+## Ausgeführt am 26.08.: die sieben Zusammenlegungen
+
+**Band 2 fällt von 90 auf 82 Kapitel.** 26+27, 29+30, 33+34, 43+44, 58+59,
+67+68 und 78+79 sind je ein Kapitel; 16 ist aufgelöst und hat zwei Befunde an
+17 abgegeben. **Sieben freie Nummern, alle in `build.py` angemeldet, und es
+wird nicht umnummeriert.**
+
+| neu | aus | Tag | Wörter | Titel |
+|---|---|---|---|---|
+| **16** | - | - | - | **frei.** Aufgelöst, zwei Absätze in 17 |
+| **26** | 26+27 | 236, ein Tag | 3886 | *What he collects* |
+| **29** | 29+30 | 238, ein Tag | 4550 | *A person with nothing* |
+| **33** | 33+34 | 243 und 244 | 4211 | *The best company in the room* |
+| **43** | 43+44 | 273 und 276 | 5175 | *Somebody in Seoul pays for it* |
+| **58** | 58+59 | 356, ein Tag | 4453 | *Buy her* |
+| **67** | 67+68 | 336 und 339 | 4991 | *What he was for* |
+| **78** | 78+79 | 363 bis 367 | 4030 | *The only line out* |
+
+### Was der Schnitt jeweils war
+
+**Vier der Paare standen auf demselben Erzähltag**, mit einem Kapitelschnitt
+mitten hinein. Drei davon endeten mit einer Vorwegnahme dessen, was das nächste
+Kapitel dann tat:
+
+- **26** endete damit, dass Georgij auf der Brücke ausrechnet, wie er es ihr
+  sagen wird; **27** fing damit an, dass er auf der Brücke ausrechnet, wie er
+  es ihr sagen wird.
+- **29** endete auf *"Nobody gave him leave to do it."* und **30** hat drei
+  Absätze später *"Nobody gave me leave to do it."* **Die Vorwegnahme fällt,
+  die Replik bleibt.**
+- **58** endete auf *"Then he knocked."* und **59** fing an mit *"She said come
+  in before he had finished knocking."*
+
+**K16 ist kein Zusammenlegen, sondern ERSETZEN.** Es baute über ein Drittel
+seiner Länge eine Spannung um die zweite Kopie auf, die K17 achtundvierzig
+Stunden später in zwei Repliken abräumt, und es war das einzige Kapitel seines
+Blocks, das in keiner der vier Traglastspalten von `kuerzen.py` steht.
+Mitgenommen sind zwei Befunde, die keine Szene brauchen.
+
+**In K44 fällt die Stunde, die das Kapitel selbst als nichts benennt:** *"That
+took forty minutes and it produced nothing he had not already had at ten past
+nine."* Eine Stunde, in der ein Mann etwas tut, von dem er weiß, dass es nichts
+bringt, muss der Leser nicht mitmachen. Er muss nur wissen, dass sie
+stattgefunden hat.
+
+### Drei Lehren, und die dritte ist neu
+
+**1. Beim Auflösen eines Kapitels müssen ALLE seine Fassungen weg**, nicht nur
+die höchste. `build.py` nimmt sonst die nächstältere und das Kapitel steht
+weiter im Buch. Beim ersten Lauf ist genau das passiert und die Wortzahl ist
+gestiegen statt zu fallen.
+
+**2. Jeder bandgebundene Verweis auf die frei gewordene Nummer wird umgehängt.**
+Über die sieben Zusammenlegungen waren das **sechsunddreißig Verweise in neun
+Dokumenten**, darunter fünf Zeilen im Nähe-Register und sieben im Schuldbuch.
+Umgehängt werden nur `B2 n`, `b2 n`, `b2chn` und `b2 Kn`. **Ein bloßes „Kapitel
+n" bleibt stehen**, weil Band 1 dieselben Nummern hat.
+
+**3. Eine Quote je Kapitel wird verletzt, sobald zwei Kapitel eins werden.**
+K67 und K68 hatten je ein *would rather*, zusammen zwei, und die Quote ist
+eins. **Nach jeder Zusammenlegung laufen die Quoten noch einmal.**
+
+### Offen: drei Kapitel liegen über der Wortspanne
+
+29 mit 4550, 58 mit 4453 und vor allem **43 mit 5175** gegen eine Obergrenze
+von 4300. Das ist ein Hinweis und kein Fehler, und es ist der nächste
+Arbeitsgang: die Zusammenlegung war die Strukturentscheidung, das Straffen ist
+der zweite Durchgang. **Bei 43 nennt das Dokument selbst rund 1800 Wörter**,
+und bisher sind achtzig davon gefallen.
+

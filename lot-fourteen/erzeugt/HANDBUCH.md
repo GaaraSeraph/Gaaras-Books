@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 317.013 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 317.632 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -303,6 +303,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Erledigt](#erledigt)
   - [Nicht ausgeführt, weil es Autorenentscheidungen sind](#nicht-ausgef-hrt-weil-es-autorenentscheidungen-sind)
   - [Offen und größer als alles andere: das Heft](#offen-und-gr-er-als-alles-andere-das-heft)
+  - [Was der Schnitt jeweils war](#was-der-schnitt-jeweils-war)
+  - [Drei Lehren, und die dritte ist neu](#drei-lehren-und-die-dritte-ist-neu)
+  - [Offen: drei Kapitel liegen über der Wortspanne](#offen-drei-kapitel-liegen-ber-der-wortspanne)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
@@ -4993,7 +4996,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.7) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
+- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.6) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -6034,7 +6037,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *What he was for* (v1.12) - **Tag 336 und 339, Fr 4. und Mo 7. September. Am 26.08. aus 67 und 68 zusammengelegt: Mrs Ha in Mapo, und drei Tage spaeter die Aufloesung in Jongno.**
+- **Band 2, Kapitel 67** *What he was for* (v1.13) - **Tag 336 und 339, Fr 4. und Mo 7. September. Am 26.08. aus 67 und 68 zusammengelegt: Mrs Ha in Mapo, und drei Tage spaeter die Aufloesung in Jongno.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
@@ -21312,6 +21315,78 @@ Lauf.
 Auftrag 4 ist kein Kürzungsauftrag, sondern ein Schreibauftrag, und er ist
 unberührt. **Fünfunddreißig Kapitel schreiben ins Heft hinein, zwei holen etwas
 heraus.** Der Modellfall existiert genau einmal, in K45.
+
+---
+
+## Ausgeführt am 26.08.: die sieben Zusammenlegungen
+
+**Band 2 fällt von 90 auf 82 Kapitel.** 26+27, 29+30, 33+34, 43+44, 58+59,
+67+68 und 78+79 sind je ein Kapitel; 16 ist aufgelöst und hat zwei Befunde an
+17 abgegeben. **Sieben freie Nummern, alle in `build.py` angemeldet, und es
+wird nicht umnummeriert.**
+
+| neu | aus | Tag | Wörter | Titel |
+|---|---|---|---|---|
+| **16** | - | - | - | **frei.** Aufgelöst, zwei Absätze in 17 |
+| **26** | 26+27 | 236, ein Tag | 3886 | *What he collects* |
+| **29** | 29+30 | 238, ein Tag | 4550 | *A person with nothing* |
+| **33** | 33+34 | 243 und 244 | 4211 | *The best company in the room* |
+| **43** | 43+44 | 273 und 276 | 5175 | *Somebody in Seoul pays for it* |
+| **58** | 58+59 | 356, ein Tag | 4453 | *Buy her* |
+| **67** | 67+68 | 336 und 339 | 4991 | *What he was for* |
+| **78** | 78+79 | 363 bis 367 | 4030 | *The only line out* |
+
+### Was der Schnitt jeweils war
+
+**Vier der Paare standen auf demselben Erzähltag**, mit einem Kapitelschnitt
+mitten hinein. Drei davon endeten mit einer Vorwegnahme dessen, was das nächste
+Kapitel dann tat:
+
+- **26** endete damit, dass Georgij auf der Brücke ausrechnet, wie er es ihr
+  sagen wird; **27** fing damit an, dass er auf der Brücke ausrechnet, wie er
+  es ihr sagen wird.
+- **29** endete auf *"Nobody gave him leave to do it."* und **30** hat drei
+  Absätze später *"Nobody gave me leave to do it."* **Die Vorwegnahme fällt,
+  die Replik bleibt.**
+- **58** endete auf *"Then he knocked."* und **59** fing an mit *"She said come
+  in before he had finished knocking."*
+
+**K16 ist kein Zusammenlegen, sondern ERSETZEN.** Es baute über ein Drittel
+seiner Länge eine Spannung um die zweite Kopie auf, die K17 achtundvierzig
+Stunden später in zwei Repliken abräumt, und es war das einzige Kapitel seines
+Blocks, das in keiner der vier Traglastspalten von `kuerzen.py` steht.
+Mitgenommen sind zwei Befunde, die keine Szene brauchen.
+
+**In K44 fällt die Stunde, die das Kapitel selbst als nichts benennt:** *"That
+took forty minutes and it produced nothing he had not already had at ten past
+nine."* Eine Stunde, in der ein Mann etwas tut, von dem er weiß, dass es nichts
+bringt, muss der Leser nicht mitmachen. Er muss nur wissen, dass sie
+stattgefunden hat.
+
+### Drei Lehren, und die dritte ist neu
+
+**1. Beim Auflösen eines Kapitels müssen ALLE seine Fassungen weg**, nicht nur
+die höchste. `build.py` nimmt sonst die nächstältere und das Kapitel steht
+weiter im Buch. Beim ersten Lauf ist genau das passiert und die Wortzahl ist
+gestiegen statt zu fallen.
+
+**2. Jeder bandgebundene Verweis auf die frei gewordene Nummer wird umgehängt.**
+Über die sieben Zusammenlegungen waren das **sechsunddreißig Verweise in neun
+Dokumenten**, darunter fünf Zeilen im Nähe-Register und sieben im Schuldbuch.
+Umgehängt werden nur `B2 n`, `b2 n`, `b2chn` und `b2 Kn`. **Ein bloßes „Kapitel
+n" bleibt stehen**, weil Band 1 dieselben Nummern hat.
+
+**3. Eine Quote je Kapitel wird verletzt, sobald zwei Kapitel eins werden.**
+K67 und K68 hatten je ein *would rather*, zusammen zwei, und die Quote ist
+eins. **Nach jeder Zusammenlegung laufen die Quoten noch einmal.**
+
+### Offen: drei Kapitel liegen über der Wortspanne
+
+29 mit 4550, 58 mit 4453 und vor allem **43 mit 5175** gegen eine Obergrenze
+von 4300. Das ist ein Hinweis und kein Fehler, und es ist der nächste
+Arbeitsgang: die Zusammenlegung war die Strukturentscheidung, das Straffen ist
+der zweite Durchgang. **Bei 43 nennt das Dokument selbst rund 1800 Wörter**,
+und bisher sind achtzig davon gefallen.
 
 ---
 

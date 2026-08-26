@@ -2017,7 +2017,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.5) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
+- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.6) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -3058,7 +3058,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *What he was for* (v1.12) - **Tag 336 und 339, Fr 4. und Mo 7. September. Am 26.08. aus 67 und 68 zusammengelegt: Mrs Ha in Mapo, und drei Tage spaeter die Aufloesung in Jongno.**
+- **Band 2, Kapitel 67** *What he was for* (v1.13) - **Tag 336 und 339, Fr 4. und Mo 7. September. Am 26.08. aus 67 und 68 zusammengelegt: Mrs Ha in Mapo, und drei Tage spaeter die Aufloesung in Jongno.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.

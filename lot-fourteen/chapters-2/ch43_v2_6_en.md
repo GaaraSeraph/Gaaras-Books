@@ -1,5 +1,5 @@
 # Chapter 43: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -312,7 +312,7 @@ An address that stores oxygen is a fact about a building. A company that deliver
 
 ---
 
-He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it, and at the end of the hour he had nothing he had not already had at ten past nine.
+He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it. At the end of the hour he had nothing he had not already had at ten past nine.
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 217.525 Woerter.
+Book Two, 82 Kapitel, 217.526 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 40 | v2.9 | 2.775 |
 | 41 | v2.5 | 3.854 |
 | 42 | v2.7 | 3.327 |
-| 43 | v2.5 | 5.175 |
+| 43 | v2.6 | 5.174 |
 | 45 | v1.5 | 2.162 |
 | 46 | v1.4 | 2.551 |
 | 47 | v1.5 | 1.889 |
@@ -71,7 +71,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 64 | v1.9 | 2.279 |
 | 65 | v1.7 | 2.128 |
 | 66 | v1.4 | 2.096 |
-| 67 | v1.12 | 4.991 |
+| 67 | v1.13 | 4.993 |
 | 69 | v1.6 | 2.942 |
 | 70 | v1.3 | 2.276 |
 | 71 | v1.4 | 3.649 |
@@ -9259,7 +9259,7 @@ Deciding that too early was the mistake he had already promised himself, twice t
 ---
 
 # Book Two · Chapter 43: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.5 · EN
+*Lot Fourteen* · Version 2.6 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9467,7 +9467,7 @@ Georgij read it twice and then sat back from the desk, because the useful part o
 
 An address that stores oxygen is a fact about a building. A company that delivers it is a fact about a trade. Neither of them is a fact about a person, and the person is the entire thing.
 
-He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it, and at the end of the hour he had nothing he had not already had at ten past nine.
+He went at it anyway for another hour, in the way a man does when he already knows the answer and wants to have earned it. At the end of the hour he had nothing he had not already had at ten past nine.
 
 Because a company has customers, and a customer has an account, and an account has a person on it who is billed and a person who telephones. Neither of those is public anywhere in the world. There is no register of who buys oxygen. There is no annual list, no provincial filing, no ministry that publishes it once a year so that anybody can check.
 
@@ -14077,7 +14077,7 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 ---
 
 # Book Two · Chapter 67: What he was for
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14301,7 +14301,7 @@ At the door she asked the question he had been waiting for since the boxes.
 
 Mrs Ha looked at him for a long moment.
 
-"You're going to tell me you'd rather I telephoned him."
+"You're going to tell me it should be me that telephones him."
 
 "No," said Georgij. "I am going to tell you that if you do, you will not be doing anything wrong, and I am not going to ask you not to. You have had eleven years of a man being pleasant at you and I am not going to spend this morning being pleasant at you too."
 
