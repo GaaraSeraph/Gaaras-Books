@@ -139,7 +139,11 @@ wird.**
 - [BEZAHLT] **B2 85** Georgij an Mrs Jeon · gesagt Tag 391 · faellig Tag 394 · Die vier Seiten am Sonntagabend, in einem Raum mit Licht, zwei Stunden, niemand in der Tuer · B2 86, um sieben abgegeben, und um zehn nach neun ruft sie an: zwei Woerter im dritten Absatz, die man im Lesen falsch nehmen kann
 - [BEZAHLT] **B2 84** Mr Ahn an Georgij · gesagt Tag 388 · faellig bei dem Tag, an dem sie geholt wird · "whoever is in the car has about four minutes... and it had better not be a man" · B2 86: Mrs Jeon spricht als Erste und Georgij steigt nicht aus
 - [BEZAHLT] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · B2 86, am 2. November, elf Uhr, und die Raeumung hatte am Donnerstag angefangen
-- [OFFEN] **B2 86** Mrs Jeon an Ahn Jung-hee · gesagt Tag 395 · faellig Tag 397 · "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." · -
+- [BEZAHLT] **B2 86** Mrs Jeon an Ahn Jung-hee · gesagt Tag 395 · faellig Tag 397 · "One, tomorrow or the day after. I will read it to you first and I will read the third paragraph twice." · B2 87, am Mittwoch um zehn, fuenfzig Minuten, und der dritte Absatz zweimal
+- [BEZAHLT] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "she is told that in the first hour by somebody who is not you and not me" · B2 87: zwei Menschen im Raum, Annie eine Etage hoeher mit offener Tuer, Georgij am Ende des Gangs ausser Hoerweite
+- [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an · B2 87, und sie liest nichts zusammen und sagt an keiner Stelle, was es bedeutet
+- [BEZAHLT] **B2 82** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 87: am Tag danach angerufen, und Baek kommt am Mittwoch um zwei persoenlich
+- [OFFEN] **B2 87** Georgij an Annie · gesagt Tag 397 · faellig offen · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · -
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt

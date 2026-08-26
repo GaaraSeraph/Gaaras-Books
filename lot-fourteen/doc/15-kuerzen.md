@@ -268,6 +268,7 @@ gegengeprüft.*
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
 | **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |
+| **87** | *The first hour* | **Tragend.** Die erste Stunde, und Choi Dae-ho ist der Errichter der Treuhandschaft | HALTEN |
 
 ---
 
