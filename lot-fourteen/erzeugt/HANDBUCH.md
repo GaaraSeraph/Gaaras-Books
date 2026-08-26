@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 273.140 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 274.307 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -247,6 +247,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Ein Beinahe-Schaden, und er gehoert protokolliert](#ein-beinahe-schaden-und-er-gehoert-protokolliert)
   - [Nachtrag: der Rahmen kommt von selbst zurueck, und ich habe ihn selbst einmal ersetzt](#nachtrag-der-rahmen-kommt-von-selbst-zurueck-und-ich-habe-ihn-selbst-einmal-ersetzt)
   - [Nachgefragt: war es distinktiv genug? Nein, und die Probe hat es gezeigt](#nachgefragt-war-es-distinktiv-genug-nein-und-die-probe-hat-es-gezeigt)
+  - [Was die Anwesenheitspruefung sofort findet](#was-die-anwesenheitspruefung-sofort-findet)
+  - [Und die Hoeflichkeit ist da - aber nicht in seinem Mund](#und-die-hoeflichkeit-ist-da-aber-nicht-in-seinem-mund)
+  - [Was daraus folgt](#was-daraus-folgt)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -6163,7 +6166,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.2) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.3) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -13508,6 +13511,68 @@ gleich, der Zug ist der umgekehrte.
 which-Satz, keine Und-Kette, keine Kontraktion, keine Negativdefinition, keine
 Selbstdiagnose. Das ist bei ihm kein Mangel, sondern die Kontrolle selbst.
 
+#### Was bei ihm ANWESEND sein muss - und meistens fehlt
+
+**Der Autor am 26.08.: *"seine Höflichkeit fehlt mir irgendwie und seine Fragen
+nach dem Wohlergehen, konkreten Sachen."* Nachgemessen, und er hat recht.** Die
+Prüfungen auf diesem Blatt fragen bis hierher alle nach **Abwesenheit** - bricht
+er ein Verbot, borgt er eine Wendung. **Keine davon kann melden, dass ein
+eigener Zug fehlt.**
+
+**Die Zahl zuerst.** In 71 zugeordneten Repliken stellt Sim **keine einzige
+Frage** - weder mit Zeichen noch in Fragesyntax mit Punkt, wie das Buch sie
+sonst schreibt. Zum Vergleich, Fragen je 100 Repliken: Koh, Hong und Mr Chae
+14,3 · Mrs Ha und Mr Sohn 12,5 · Woo und Mr Ahn 5,7 · Annie 4,9 · Georgij 4,0 ·
+**Sim 0,0**. **Der Mann, dessen Methode das Fragen ist, steht als Einziger bei
+null.**
+
+**Und die Höflichkeit ist da - aber fast immer erzählt oder berichtet und nicht
+gesprochen.** Vier Belege, und drei davon sind nicht seine Rede:
+
+| Stelle | Form |
+|---|---|
+| b2 K52 *"He had asked her about the walk from the station and had said the wrong tram number on purpose"* | **Erzählung** |
+| b2 K52 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** über vier Jahre Telefonate |
+| b2 K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
+| b2 K77 *"Sim said that he would use it at about six and that he hoped somebody in that building owned a chair."* | **indirekte Rede** |
+
+**Lebendig, an den Anwesenden gerichtet und konkret ist es genau zweimal im
+ganzen Buch:**
+
+> b2 K52: *"The soup is the reason to come. **I have ordered it for both of us
+> and you are under no obligation to touch it.**"*
+> b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
+> more than I need, so do not talk quickly on my account.**"*
+
+Dazu die eine Stelle, an der das Kapitel es richtig macht, b2 K64: *"Do not
+thank me for the room. **Thank me for the tea, which is better than it needs to
+be, and which I have made myself**"* - und der Erzähler daneben: *"He had made
+the tea before Georgij arrived, and it was at the right temperature, **which
+meant he had timed it.**"*
+
+#### Die Anwesenheitsprobe
+
+**Eine Sim-Szene, in der er nicht mindestens einmal nach einer konkreten Sache
+fragt oder eine anbietet, ist keine Sim-Szene.** Konkret heißt: der Körper und
+die Umstände des anderen, nicht sein Fall.
+
+| gehört ihm | gehört ihm nicht |
+|---|---|
+| *"Have you eaten."* · *"How is the chest."* · *"Is that roof holding."* | *"You have not slept."* |
+| *"There is tea and I made it myself."* | *"You are going to ask me for something."* |
+| *"Sit closer to the heater, it only works on that side."* | *"You have come with something."* |
+
+**Die rechte Spalte ist nicht falsch - sie ist Diagnose, und Diagnose ist
+Georgijs Haltung.** Sim stellt sie auch, aber er stellt sie **nach** der
+Höflichkeit und nie an ihrer Stelle. Wer ihm eine Szene schreibt, die mit einer
+Diagnose aufmacht, hat einen Fixer geschrieben und keinen Gastgeber.
+
+**Wo es im Text fehlt, gemessen an dieser Probe:** b2 K74 macht mit *"You have
+come with something and you are not going to make me guess"* auf - keine Frage,
+kein Angebot, kein Blick auf den Mann, der eben den Hügel heruntergekommen ist.
+**Das ist die Stelle, an der der Autor die Höflichkeit vermisst hat.**
+
+
 #### Das Anliegen
 
 **Nicht Absolution. Zeugenschaft.** Er will, dass jemand gehört hat, dass er
@@ -17468,6 +17533,78 @@ ich nicht geschrieben habe.
 *Unsicher:* keiner. Die Marker sind alle am Text belegt und stehen als Tabelle
 auf Sims Blatt.
 
+## Der Methodenfehler: ich habe nur auf Abwesenheit geprueft
+
+**Der Autor am 26.08.: *"du konzentrierst Dich bei den Markern zu sehr auf
+Abwesenheit und uebersiehst mangelnde Anwesenheit von Charakterzuegen."*** Das
+ist der Fehler unter allen anderen. Jede Pruefung in diesem Protokoll fragt
+bisher: **steht hier etwas Fremdes** - ein gebrochenes Verbot, eine geliehene
+Wendung, ein Tic, der nicht ihrer ist. **Keine davon kann melden, dass ein
+eigener Zug fehlt.** Deshalb konnte Sim bei mir "sauber" sein und trotzdem
+falsch klingen.
+
+### Was die Anwesenheitspruefung sofort findet
+
+**In 71 zugeordneten Repliken stellt Sim keine einzige Frage.** Weder mit
+Zeichen noch in Fragesyntax mit Punkt, wie das Buch sie sonst schreibt. Fragen
+je 100 Repliken:
+
+| | |
+|---|---|
+| Koh, Hong, Mr Chae | 14,3 |
+| Mrs Ha, Mr Sohn | 12,5 |
+| Woo, Mr Ahn | 5,7 |
+| Annie 4,9 · Georgij 4,0 | |
+| **Sim** | **0,0** |
+
+**Der Mann, dessen Methode das Fragen ist, steht als Einziger bei null.**
+
+### Und die Hoeflichkeit ist da - aber nicht in seinem Mund
+
+| Stelle | Form |
+|---|---|
+| K52 *"He had asked her about the walk from the station…"* | **Erzaehlung** |
+| K52 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** |
+| K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
+| K77 *"…he hoped somebody in that building owned a chair."* | **indirekte Rede** |
+
+**Lebendig, an den Anwesenden gerichtet und konkret ist es genau zweimal:** die
+Suppe in K52 (*"I have ordered it for both of us and you are under no obligation
+to touch it"*) und die Telefonzelle in K72 (*"I have put in more than I need, so
+do not talk quickly on my account"*). Dazu der Tee in K64, den der Erzaehler
+mittraegt: *"it was at the right temperature, which meant he had timed it."*
+
+**In der lebendigen Rede diagnostiziert er stattdessen** - *"You have not
+slept." "You will not want these." "You have come with something."* Das ist
+nicht falsch, aber es ist **Georgijs Haltung**, und meine Berichtigungen haben
+sie noch verstaerkt. Ich habe eine Messgroesse optimiert und die Figur verloren.
+
+### Was daraus folgt
+
+**Sims Blatt hat jetzt eine Anwesenheitsprobe:** eine Sim-Szene, in der er nicht
+mindestens einmal nach einer konkreten Sache fragt oder eine anbietet, ist keine
+Sim-Szene. Konkret heisst der Koerper und die Umstaende des anderen, nicht sein
+Fall. Mit einer Zwei-Spalten-Tabelle, was ihm gehoert und was Diagnose ist.
+
+**Und die Stelle, an der der Autor es vermisst hat, ist gefunden und behoben.**
+b2 K74 machte auf mit *"You have come with something and you are not going to
+make me guess"* - keine Frage, kein Angebot, kein Blick auf den Mann. Jetzt
+(ch74 v1.3):
+
+> *"Have you eaten today." **Sim had the cup out before he had finished asking,
+> and he did not wait for the answer.** "You have come with something and you are
+> not going to make me guess."*
+
+Die Diagnose bleibt - sie steht jetzt **hinter** der Hoeflichkeit und nicht an
+ihrer Stelle. `faktenspur.py` meldet null bewegte Zahlen, `check.py` keinen
+Fragezeichen-Hinweis auf die neue Zeile.
+
+**Fuer jede weitere Figur gilt ab jetzt beides:** was darf nicht drinstehen -
+und **was muss drinstehen**. Die zweite Frage ist die schwerere und die, die
+zaehlt.
+
+*Unsicher:* keiner.
+
 ---
 
 # Kürzen: was jedes Kapitel trägt
@@ -20224,7 +20361,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
-| 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
+| 51 | b2ch74:14 | "Have you eaten today." Sim had the cup out before he had finished asking, and he did no.. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
 | 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |

@@ -1014,6 +1014,68 @@ gleich, der Zug ist der umgekehrte.
 which-Satz, keine Und-Kette, keine Kontraktion, keine Negativdefinition, keine
 Selbstdiagnose. Das ist bei ihm kein Mangel, sondern die Kontrolle selbst.
 
+#### Was bei ihm ANWESEND sein muss - und meistens fehlt
+
+**Der Autor am 26.08.: *"seine Höflichkeit fehlt mir irgendwie und seine Fragen
+nach dem Wohlergehen, konkreten Sachen."* Nachgemessen, und er hat recht.** Die
+Prüfungen auf diesem Blatt fragen bis hierher alle nach **Abwesenheit** - bricht
+er ein Verbot, borgt er eine Wendung. **Keine davon kann melden, dass ein
+eigener Zug fehlt.**
+
+**Die Zahl zuerst.** In 71 zugeordneten Repliken stellt Sim **keine einzige
+Frage** - weder mit Zeichen noch in Fragesyntax mit Punkt, wie das Buch sie
+sonst schreibt. Zum Vergleich, Fragen je 100 Repliken: Koh, Hong und Mr Chae
+14,3 · Mrs Ha und Mr Sohn 12,5 · Woo und Mr Ahn 5,7 · Annie 4,9 · Georgij 4,0 ·
+**Sim 0,0**. **Der Mann, dessen Methode das Fragen ist, steht als Einziger bei
+null.**
+
+**Und die Höflichkeit ist da - aber fast immer erzählt oder berichtet und nicht
+gesprochen.** Vier Belege, und drei davon sind nicht seine Rede:
+
+| Stelle | Form |
+|---|---|
+| b2 K52 *"He had asked her about the walk from the station and had said the wrong tram number on purpose"* | **Erzählung** |
+| b2 K52 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** über vier Jahre Telefonate |
+| b2 K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
+| b2 K77 *"Sim said that he would use it at about six and that he hoped somebody in that building owned a chair."* | **indirekte Rede** |
+
+**Lebendig, an den Anwesenden gerichtet und konkret ist es genau zweimal im
+ganzen Buch:**
+
+> b2 K52: *"The soup is the reason to come. **I have ordered it for both of us
+> and you are under no obligation to touch it.**"*
+> b2 K72: *"It is a box in Jongno and it is raining on me, **and I have put in
+> more than I need, so do not talk quickly on my account.**"*
+
+Dazu die eine Stelle, an der das Kapitel es richtig macht, b2 K64: *"Do not
+thank me for the room. **Thank me for the tea, which is better than it needs to
+be, and which I have made myself**"* - und der Erzähler daneben: *"He had made
+the tea before Georgij arrived, and it was at the right temperature, **which
+meant he had timed it.**"*
+
+#### Die Anwesenheitsprobe
+
+**Eine Sim-Szene, in der er nicht mindestens einmal nach einer konkreten Sache
+fragt oder eine anbietet, ist keine Sim-Szene.** Konkret heißt: der Körper und
+die Umstände des anderen, nicht sein Fall.
+
+| gehört ihm | gehört ihm nicht |
+|---|---|
+| *"Have you eaten."* · *"How is the chest."* · *"Is that roof holding."* | *"You have not slept."* |
+| *"There is tea and I made it myself."* | *"You are going to ask me for something."* |
+| *"Sit closer to the heater, it only works on that side."* | *"You have come with something."* |
+
+**Die rechte Spalte ist nicht falsch - sie ist Diagnose, und Diagnose ist
+Georgijs Haltung.** Sim stellt sie auch, aber er stellt sie **nach** der
+Höflichkeit und nie an ihrer Stelle. Wer ihm eine Szene schreibt, die mit einer
+Diagnose aufmacht, hat einen Fixer geschrieben und keinen Gastgeber.
+
+**Wo es im Text fehlt, gemessen an dieser Probe:** b2 K74 macht mit *"You have
+come with something and you are not going to make me guess"* auf - keine Frage,
+kein Angebot, kein Blick auf den Mann, der eben den Hügel heruntergekommen ist.
+**Das ist die Stelle, an der der Autor die Höflichkeit vermisst hat.**
+
+
 #### Das Anliegen
 
 **Nicht Absolution. Zeugenschaft.** Er will, dass jemand gehört hat, dass er

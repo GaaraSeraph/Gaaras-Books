@@ -2605,7 +2605,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
-| 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
+| 51 | b2ch74:14 | "Have you eaten today." Sim had the cup out before he had finished asking, and he did no.. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
 | 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |

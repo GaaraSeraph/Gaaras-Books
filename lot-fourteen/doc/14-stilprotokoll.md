@@ -1801,3 +1801,75 @@ ich nicht geschrieben habe.
 
 *Unsicher:* keiner. Die Marker sind alle am Text belegt und stehen als Tabelle
 auf Sims Blatt.
+
+## Der Methodenfehler: ich habe nur auf Abwesenheit geprueft
+
+**Der Autor am 26.08.: *"du konzentrierst Dich bei den Markern zu sehr auf
+Abwesenheit und uebersiehst mangelnde Anwesenheit von Charakterzuegen."*** Das
+ist der Fehler unter allen anderen. Jede Pruefung in diesem Protokoll fragt
+bisher: **steht hier etwas Fremdes** - ein gebrochenes Verbot, eine geliehene
+Wendung, ein Tic, der nicht ihrer ist. **Keine davon kann melden, dass ein
+eigener Zug fehlt.** Deshalb konnte Sim bei mir "sauber" sein und trotzdem
+falsch klingen.
+
+### Was die Anwesenheitspruefung sofort findet
+
+**In 71 zugeordneten Repliken stellt Sim keine einzige Frage.** Weder mit
+Zeichen noch in Fragesyntax mit Punkt, wie das Buch sie sonst schreibt. Fragen
+je 100 Repliken:
+
+| | |
+|---|---|
+| Koh, Hong, Mr Chae | 14,3 |
+| Mrs Ha, Mr Sohn | 12,5 |
+| Woo, Mr Ahn | 5,7 |
+| Annie 4,9 · Georgij 4,0 | |
+| **Sim** | **0,0** |
+
+**Der Mann, dessen Methode das Fragen ist, steht als Einziger bei null.**
+
+### Und die Hoeflichkeit ist da - aber nicht in seinem Mund
+
+| Stelle | Form |
+|---|---|
+| K52 *"He had asked her about the walk from the station…"* | **Erzaehlung** |
+| K52 *"About the heating. About whether the second bathroom was worth doing."* | **sein Bericht** |
+| K72 *"I told her the weather might turn. I told her the gutters."* | **sein Bericht** |
+| K77 *"…he hoped somebody in that building owned a chair."* | **indirekte Rede** |
+
+**Lebendig, an den Anwesenden gerichtet und konkret ist es genau zweimal:** die
+Suppe in K52 (*"I have ordered it for both of us and you are under no obligation
+to touch it"*) und die Telefonzelle in K72 (*"I have put in more than I need, so
+do not talk quickly on my account"*). Dazu der Tee in K64, den der Erzaehler
+mittraegt: *"it was at the right temperature, which meant he had timed it."*
+
+**In der lebendigen Rede diagnostiziert er stattdessen** - *"You have not
+slept." "You will not want these." "You have come with something."* Das ist
+nicht falsch, aber es ist **Georgijs Haltung**, und meine Berichtigungen haben
+sie noch verstaerkt. Ich habe eine Messgroesse optimiert und die Figur verloren.
+
+### Was daraus folgt
+
+**Sims Blatt hat jetzt eine Anwesenheitsprobe:** eine Sim-Szene, in der er nicht
+mindestens einmal nach einer konkreten Sache fragt oder eine anbietet, ist keine
+Sim-Szene. Konkret heisst der Koerper und die Umstaende des anderen, nicht sein
+Fall. Mit einer Zwei-Spalten-Tabelle, was ihm gehoert und was Diagnose ist.
+
+**Und die Stelle, an der der Autor es vermisst hat, ist gefunden und behoben.**
+b2 K74 machte auf mit *"You have come with something and you are not going to
+make me guess"* - keine Frage, kein Angebot, kein Blick auf den Mann. Jetzt
+(ch74 v1.3):
+
+> *"Have you eaten today." **Sim had the cup out before he had finished asking,
+> and he did not wait for the answer.** "You have come with something and you are
+> not going to make me guess."*
+
+Die Diagnose bleibt - sie steht jetzt **hinter** der Hoeflichkeit und nicht an
+ihrer Stelle. `faktenspur.py` meldet null bewegte Zahlen, `check.py` keinen
+Fragezeichen-Hinweis auf die neue Zeile.
+
+**Fuer jede weitere Figur gilt ab jetzt beides:** was darf nicht drinstehen -
+und **was muss drinstehen**. Die zweite Frage ist die schwerere und die, die
+zaehlt.
+
+*Unsicher:* keiner.
