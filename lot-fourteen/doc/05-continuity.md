@@ -33,21 +33,33 @@ Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 ("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
 Lebensjahr Geschaefte macht.
 
-**ZWEI JAHRESANGABEN IM TEXT WIDERSPRECHEN DEM KALENDER, und zwar beide um genau
-ein Jahr und beide in dieselbe Richtung:**
+**ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER UM GENAU EIN JAHR, und beide sind
+am 26.08. nachgezogen worden:**
 
-1. **"Twenty-three years ago" fuer 2002.** Gesagt im August und November **2026**,
-   also vierundzwanzig Jahre her. Fuenf Stellen: Kapitel 57 (zweimal), 61, 62
-   (zweimal).
+1. **"Twenty-three years ago" fuer 2002** war von 2026 aus vierundzwanzig.
+   **Vierzehn Stellen in acht Kapiteln** (34, 57 sechsmal, 61 zweimal, 62 zweimal,
+   75, 79, 87), nicht die sechs, die beim ersten Durchgang gefunden wurden -
+   die erste Suche hatte nur *"twenty-three years ago"* erfasst und Woos
+   Zeitspannen uebersehen (*"I have believed for twenty-three years"*).
 2. **"I arranged that in 2014"** fuer den Trust, den Kapitel 87 auf *"eleven years
-   ago"* datiert. Von 2026 aus waeren elf Jahre **2015**, und 2014 waeren zwoelf.
-   Eine Stelle: Kapitel 88.
+   ago"* datiert, steht jetzt auf **2015**. Eine Stelle: Kapitel 88. Geaendert
+   wurde das Jahr und nicht die elf, weil die elf Jahre an fuenf Stellen haengen
+   (42, 44, 45, 87, 88) und das Jahr nur an einer.
 
-**Beide lesen sich, als haette jemand vom Startjahr 2025 aus gerechnet statt vom
-laufenden Handlungsjahr.** Der Kalender ist das staerkere Fundament, weil an ihm
-124 gepruefte Datumszeilen haengen und an den beiden Angaben nur sechs Saetze.
-**Noch nicht geaendert, weil "vierundzwanzig" anders klingt als "dreiundzwanzig"
-und die Zahl in Dialogzeilen steht.**
+**Beide lasen sich, als haette jemand vom Startjahr 2025 aus gerechnet statt vom
+laufenden Handlungsjahr.** Der Kalender hat entschieden, weil an ihm 124
+gepruefte Datumszeilen haengen.
+
+**NICHT ANGETASTET: Mrs Jeons dreiundzwanzig Jahre im Settlement.** Die Zahl
+kommt ueber dreissigmal vor (Kapitel 6, 7, 27 bis 34, 71, 78, 83) und hat mit
+2002 nichts zu tun. **Wer hier je wieder sucht, muss die beiden Bestaende
+trennen, bevor er ersetzt.**
+
+**OFFEN GEBLIEBEN, weil es an Annies Alter haengt und nicht am Kalender:**
+Kapitel 61 und 62 sagen, sie habe *"seven years"* gewusst, dass ein Mann am
+Tisch ihres Vaters falsch war, und sie habe es **mit dreissig** verstanden. Bei
+Geburtsjahr 1987/88 waere das 2017/18 und damit **acht** Jahre. Nicht geaendert,
+weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
 
 ### Kalender
 
@@ -1904,7 +1916,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
 
-- **Band 2, Kapitel 34** *The best company in the room* (v1.5) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
+- **Band 2, Kapitel 34** *The best company in the room* (v1.6) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
   **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
@@ -2729,7 +2741,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.5) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.6) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2870,7 +2882,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
     him where he is."*
 
-- **Band 2, Kapitel 61** *The doorway* (v1.5) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 61** *The doorway* (v1.6) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.
@@ -2901,7 +2913,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.9) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.10) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -3464,7 +3476,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eine Notiz im Wagen. **Zwei Maenner lesen das als Abschied, und keiner von
     beiden war am siebten in dem Zimmer.**
 
-- **Band 2, Kapitel 75** *The man at the table* (v1.0) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
+- **Band 2, Kapitel 75** *The man at the table* (v1.1) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er gibt es in Woos Reihenfolge und verbessert nichts daran.** Woo als Tuer;
@@ -3680,7 +3692,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
     Siehe Kapitel 79.
 
-- **Band 2, Kapitel 79** *What it is worth* (v1.1) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
+- **Band 2, Kapitel 79** *What it is worth* (v1.2) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit
@@ -4087,7 +4099,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
-- **Band 2, Kapitel 87** *The first hour* (v1.1) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
+- **Band 2, Kapitel 87** *The first hour* (v1.2) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**
@@ -4143,7 +4155,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.0) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *The invitation* (v1.1) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten

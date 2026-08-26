@@ -1,7 +1,7 @@
-Book Two · Chapter 87: The first hour
-Lot Fourteen · Version 1.1 · EN
+# Chapter 87: The first hour
+*Lot Fourteen* · Version 1.2 · EN
 
-Day Three Hundred and Ninety-Six · Tuesday 3 November
+## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
 She slept about fourteen hours and nobody woke her.
 
@@ -15,9 +15,9 @@ Baek Jun-ho did not say anything for a moment.
 
 "I will come tomorrow at two," he said. "I am not going to do this on a telephone and I am not going to do it in this office."
 
-———
+* * *
 
-Day Three Hundred and Ninety-Seven · Wednesday 4 November
+## Day Three Hundred and Ninety-Seven · Wednesday 4 November
 
 The first hour was at ten and it lasted fifty minutes.
 
@@ -25,7 +25,7 @@ It happened in the small room downstairs with the door shut, and there were two 
 
 Annie was in her own study on the first floor with the door open and a page in front of her that she did not turn over in fifty minutes. Georgij was in the passage at the far end, which is out of earshot, and he had been told to be there by nobody and had put himself there at twenty to ten.
 
-———
+* * *
 
 Mrs Jeon read it to her.
 
@@ -33,7 +33,7 @@ She read the whole instrument out loud, in order, and she read the third paragra
 
 Then she gave her the pages and let her hold them for as long as she wanted, which was about nine minutes.
 
-———
+* * *
 
 The instrument does four things.
 
@@ -47,7 +47,7 @@ And the third paragraph says that nothing in the document creates any obligation
 
 That is the paragraph Mrs Jeon read twice.
 
-———
+* * *
 
 She signed it at seven minutes past eleven, in the older way, with her father's character.
 
@@ -59,7 +59,7 @@ Then she asked one question, which is the second she has asked in four years, an
 
 "That I did not know, and that I was not going to guess, and that if the answer turned out to be yes then it would be a request and not an arrangement." She had both hands flat on her knees. "And she said that she would like to know which it was in advance. I told her that she is now a person who can ask that question of anybody in this house and get a straight answer, and that this is the whole of what she had just signed."
 
-———
+* * *
 
 Georgij did not say anything.
 
@@ -73,7 +73,7 @@ Georgij did not say anything.
 
 "That I did not know what he found and that he had not told me, and that he sat in a car for eleven minutes in that yard and did not get out." Mrs Jeon looked at him. "She said that she had noticed that, and that she had spent Monday evening working out which of the three of us had decided it, and that she had got it wrong."
 
-———
+* * *
 
 Annie came down at noon and did not go into the small room.
 
@@ -87,7 +87,7 @@ Then she asked the fourth one.
 
 "Then it is a request." Annie did not raise her voice anywhere. "Tell her that it can be any day or no day, and if it is no day I will not be told a reason. And the person telling her so is going to be you and not anybody who lives here."
 
-———
+* * *
 
 Baek Jun-ho came at two.
 
@@ -95,7 +95,7 @@ He came by taxi and he had a case with him and he did not open it in the hall.
 
 He asked, before anything else, whether the woman was in the building and whether she was well, and he asked it standing, and he did not sit down until Georgij had answered both.
 
-———
+* * *
 
 Then he put the case on the table and did not open it.
 
@@ -107,7 +107,7 @@ Then he put the case on the table and did not open it.
 
 "Say it."
 
-———
+* * *
 
 "The trust was settled in the second week of March eleven years ago," said Baek Jun-ho. "The settlor came to my office in person and was there for about twenty minutes." Baek did not look away. "He did not bring a lawyer and he did not need one. He had read the draft and he had two corrections, and both of them were about the discretion and not about the money."
 
@@ -115,7 +115,7 @@ Then he put the case on the table and did not open it.
 
 "Choi Dae-ho."
 
-———
+* * *
 
 The room did what a room does at two in the afternoon.
 
@@ -127,7 +127,7 @@ Baek Jun-ho looked at the case.
 
 "He wanted it made clear that the trustee could not be required to disclose the beneficiary to the beneficiary." He did not soften it. "And he wanted it made clear that the payments could not be stopped by him."
 
-———
+* * *
 
 Neither of them said anything for a while.
 
@@ -139,7 +139,7 @@ Neither of them said anything for a while.
 
 "I have been asked that question about a document perhaps four hundred times in thirty-one years and I have always been able to answer it." Baek did not look away. "I have had eleven years on this one and I cannot. It is either the only decent thing that man has ever done, or the most complete thing I have ever seen one person do to another." He put one hand flat. "It is possible that there is no difference. That is the part I have not been able to sleep about since the second of June."
 
-———
+* * *
 
 He opened the case then and put the file on the table and did not push it across.
 
@@ -157,7 +157,7 @@ Georgij put one hand flat on the table.
 
 "The woman on the oxygen was somewhere else until then, and I have had that fact in a drawer for four years, and it is the single worst thing in this file." Baek Jun-ho stood up. "She was moved into that building in the same month as the other one. Somebody put them under one roof to save on a heating bill."
 
-———
+* * *
 
 Georgij took it up at seven and gave her the whole of it standing, and it took nine minutes.
 
@@ -169,9 +169,9 @@ Annie heard the settlor's name and did not react to it, and heard the two correc
 
 She got up and went to the window.
 
-———
+* * *
 
-"My father took a man out of a service by giving him one thing he could not undo," she said. "That is Chairman Woo's sentence and it is twenty-three years old and I have had it in my head since the eighteenth of September."
+"My father took a man out of a service by giving him one thing he could not undo," she said. "That is Chairman Woo's sentence and it is twenty-four years old and I have had it in my head since the eighteenth of September."
 
 "Yes."
 
@@ -181,7 +181,7 @@ She got up and went to the window.
 
 "Then say whether that makes him better."
 
-———
+* * *
 
 Georgij took his time over it, which he has not done since March.
 

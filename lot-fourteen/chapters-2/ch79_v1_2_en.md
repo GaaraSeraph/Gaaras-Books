@@ -1,7 +1,7 @@
-Book Two · Chapter 79: What it is worth
-Lot Fourteen · Version 1.1 · EN
+# Chapter 79: What it is worth
+*Lot Fourteen* · Version 1.2 · EN
 
-Day Three Hundred and Sixty-Seven · Monday 5 October
+## Day Three Hundred and Sixty-Seven · Monday 5 October
 
 She did not take anything with her.
 
@@ -9,7 +9,7 @@ No folder, no plan, and not the sheet with the three numbers on it, which she ha
 
 Mr Ku had them there at four minutes to ten.
 
-———
+* * *
 
 The house is older than the road it stands on and has been added to twice, both times badly, and Chairman Woo has lived in it since 1979.
 
@@ -25,7 +25,7 @@ He looked at Georgij for slightly longer than a host looks at anybody.
 
 "I am here to tell you why I am not going to," said Annie. "And there is a thing before that which is worse, and you have worked that out in the hall, and I want to do the rest of it sitting down."
 
-———
+* * *
 
 The room he uses has four chairs in it and one of them is his, and there is a table with nothing on it.
 
@@ -39,7 +39,7 @@ Woo did not move at all.
 
 "On the eighteenth of September I asked him what you had said, and he told me, and he told me the whole of it in your order and improved nothing." She had both hands flat on the arms of the chair. "So I have had it for seventeen days, and you have not known that I have had it, and I am not going to sit in your house and ask you for a favour while that is true."
 
-———
+* * *
 
 The room did what an old room does at ten in the morning.
 
@@ -51,7 +51,7 @@ The room did what an old room does at ten in the morning.
 
 "He gave me all of it."
 
-———
+* * *
 
 Woo looked at the table for a while.
 
@@ -65,7 +65,7 @@ Nobody said anything.
 
 "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of you have done it to me, and you have done it more thoroughly, because I only had four days of it and I did it on my own."
 
-———
+* * *
 
 Annie did not defend it.
 
@@ -81,7 +81,7 @@ Georgij was standing by the window because nobody had told him to sit.
 
 "I decided," he said.
 
-———
+* * *
 
 "Say the whole of it and do not be modest about the arithmetic."
 
@@ -93,7 +93,7 @@ Georgij was standing by the window because nobody had told him to sit.
 
 "Yes," said Woo. "It was."
 
-———
+* * *
 
 He sat with his hands on his knees and did not soften anything.
 
@@ -103,7 +103,7 @@ He sat with his hands on his knees and did not soften anything.
 
 "You do not know it in the way you are going to know it. You are twenty-six." Woo did not raise his voice anywhere. "I am going to say the useful part and then we are going to talk about ground. You did not do a wrong thing. You did a thing that is only distinguishable from the wrong one by what you did on the day she asked. You did that part correctly. That is the whole of what stands between you and the man in that woman's father's photographs."
 
-———
+* * *
 
 Annie let a moment go past.
 
@@ -121,7 +121,7 @@ The room was very quiet.
 
 "Because you would answer them."
 
-———
+* * *
 
 Woo looked at her properly for the first time since the hall.
 
@@ -135,7 +135,7 @@ Woo looked at her properly for the first time since the hall.
 
 "And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would not have done."
 
-———
+* * *
 
 Annie did not answer that.
 
@@ -151,7 +151,7 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 "It is meant to be."
 
-———
+* * *
 
 He got up, which took him a moment, and went to the window and stood next to Georgij and looked out at the same nothing.
 
@@ -161,7 +161,7 @@ He turned round.
 
 "That is what it was for and now you know, and I would have told you afterwards in one sentence and been pleased with myself about it."
 
-———
+* * *
 
 At the door, with the car already turned round, he did the thing he has done every time since October.
 
@@ -175,9 +175,9 @@ Annie stood in the hall.
 
 "Why would you do that," she said.
 
-"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-three years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
+"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-four years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
-———
+* * *
 
 They were in the car by twenty to eleven.
 

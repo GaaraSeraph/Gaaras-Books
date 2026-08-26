@@ -44,7 +44,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 31 | v1.3 | 2.317 |
 | 32 | v1.4 | 2.353 |
 | 33 | v1.5 | 1.984 |
-| 34 | v1.5 | 2.240 |
+| 34 | v1.6 | 2.240 |
 | 35 | v2.9 | 3.880 |
 | 36 | v2.2 | 3.251 |
 | 37 | v2.5 | 3.850 |
@@ -67,12 +67,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 54 | v1.3 | 2.826 |
 | 55 | v1.3 | 2.042 |
 | 56 | v1.6 | 2.655 |
-| 57 | v1.5 | 2.940 |
+| 57 | v1.6 | 2.940 |
 | 58 | v1.6 | 2.337 |
 | 59 | v1.5 | 2.177 |
 | 60 | v1.3 | 2.443 |
-| 61 | v1.5 | 2.327 |
-| 62 | v1.9 | 2.499 |
+| 61 | v1.6 | 2.327 |
+| 62 | v1.10 | 2.499 |
 | 63 | v1.6 | 2.136 |
 | 64 | v1.6 | 2.248 |
 | 65 | v1.6 | 2.130 |
@@ -85,11 +85,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 72 | v1.4 | 2.308 |
 | 73 | v1.1 | 2.175 |
 | 74 | v1.5 | 3.557 |
-| 75 | v1.0 | 2.539 |
+| 75 | v1.1 | 2.539 |
 | 76 | v1.1 | 2.006 |
 | 77 | v1.2 | 2.327 |
 | 78 | v1.1 | 2.169 |
-| 79 | v1.1 | 2.177 |
+| 79 | v1.2 | 2.177 |
 | 80 | v1.1 | 2.057 |
 | 81 | v1.1 | 2.510 |
 | 82 | v1.1 | 2.447 |
@@ -97,8 +97,8 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 84 | v1.0 | 2.128 |
 | 85 | v1.1 | 2.040 |
 | 86 | v1.0 | 2.148 |
-| 87 | v1.1 | 2.016 |
-| 88 | v1.0 | 1.998 |
+| 87 | v1.2 | 2.016 |
+| 88 | v1.1 | 1.998 |
 | 89 | v1.0 | 2.085 |
 | 90 | v1.1 | 1.699 |
 
@@ -7260,7 +7260,7 @@ Georgij stood in the kitchen on his own and poured a cup he had been told to hav
 ---
 
 # Book Two · Chapter 34: The best company in the room
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Two Hundred and Forty-Four · Thursday 4 June
 
@@ -7338,7 +7338,7 @@ Annie sat with both hands flat on the desk.
 
 "Say what it actually gets us," she said, "because I do not want to sit here being moved by it before I know what it does."
 
-"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-three years that is not only your word."
+"It gets us two witnesses outside this house who can independently describe the same man, without either of them knowing the other exists." Georgij kept his hands where she could see them. "It gets us two addresses and a doctor who was paid through a lot number, and none of that was written down by you or by me. It does not get us a court. It gets us the first thing in twenty-four years that is not only your word."
 
 "Yes."
 
@@ -12233,7 +12233,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 57: Nobody paid
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Eighteen · Monday 17 August
 
@@ -12329,7 +12329,7 @@ Georgij stood absolutely still.
 
 "I have never told anybody about the other one," said Woo.
 
-Twenty-three years ago there was a customs matter.
+Twenty-four years ago there was a customs matter.
 
 Two containers, a declaration that had been made by a man who no longer worked for him, and a set of dates that did not sit together. Woo described the paperwork for slightly longer than the story needed, in the way of a man who has decided to be accurate because the rest of it is going to be difficult.
 
@@ -12337,7 +12337,7 @@ Two containers, a declaration that had been made by a man who no longer worked f
 
 "Go on."
 
-"A young man came out to the yard. On his own, in his own car, on a Wednesday in April." Woo's hands had not moved. "Thirty-five or thirty-six. He had one folder and he had read it. We put lunch in front of him because that is what you do. He sat with it for an hour and forty minutes and did not eat any of it. I have thought about that more often in twenty-three years than I have thought about the containers."
+"A young man came out to the yard. On his own, in his own car, on a Wednesday in April." Woo's hands had not moved. "Thirty-five or thirty-six. He had one folder and he had read it. We put lunch in front of him because that is what you do. He sat with it for an hour and forty minutes and did not eat any of it. I have thought about that more often in twenty-four years than I have thought about the containers."
 
 Georgij's face did not do anything at all.
 
@@ -12363,11 +12363,11 @@ Woo got there on his own, and it took him perhaps twenty seconds, and Georgij wa
 
 "No."
 
-"He wanted to know who I had." Woo said it flatly and then he said the rest of it more slowly. "I have believed for twenty-three years that one of those three men paid somebody for me. I have never been able to work out which, and I have never been able to ask, and two of them are dead now and I went to both funerals wondering."
+"He wanted to know who I had." Woo said it flatly and then he said the rest of it more slowly. "I have believed for twenty-four years that one of those three men paid somebody for me. I have never been able to work out which, and I have never been able to ask, and two of them are dead now and I went to both funerals wondering."
 
 "And the third."
 
-"The third is alive. I have not had a real conversation with him since my wife died." Woo looked at the photograph of the fourteen metres. "Nobody paid. That is what you have just brought into my office. Nobody paid, and I have spent twenty-three years being quietly grateful to three men for a thing none of them did."
+"The third is alive. I have not had a real conversation with him since my wife died." Woo looked at the photograph of the fourteen metres. "Nobody paid. That is what you have just brought into my office. Nobody paid, and I have spent twenty-four years being quietly grateful to three men for a thing none of them did."
 
 "I am spending the three hours," said Woo.
 
@@ -12425,7 +12425,7 @@ There were four things available and every one of them would have made the old m
 
 "Say it the long way."
 
-"I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-three years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
+"I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-four years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
 
 Woo took his hand off the roof of the car.
 
@@ -12437,7 +12437,7 @@ The road back off the island is twelve kilometres of bridge and there is nothing
 
 Georgij had the notebook open on his knee before the toll.
 
-*Chairman Woo has been telling himself for twenty-three years that one of three men paid for him.*
+*Chairman Woo has been telling himself for twenty-four years that one of three men paid for him.*
 
 *Nobody paid for him. He was shown to a man who wanted to know who he would telephone, and the man took the answer away and never used it, and never had to. That is what having somebody means. It does not have to be spent. It has to be known.*
 
@@ -13049,7 +13049,7 @@ Georgij stood in the hall of a house on the river with the receiver still warm i
 ---
 
 # Book Two · Chapter 61: The doorway
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13109,7 +13109,7 @@ Georgij did not say anything.
 
 "That is the part you already had," said Woo, "and I could have said it on a telephone, and I did not telephone you for four days because I was waiting for the rest of it."
 
-"I have believed for twenty-three years that somebody paid for me," said Woo.
+"I have believed for twenty-four years that somebody paid for me," said Woo.
 
 "You told me that on Monday."
 
@@ -13231,7 +13231,7 @@ At the door, in the hall, with the car already turned round, Woo did the thing h
 
 "Chairman."
 
-"Two thousand and two is twenty-three years ago and she was fourteen." Woo had one hand on the frame. "You told me in April that she noticed at fourteen that a man at her father's table did not eat, and that she understood it at thirty. I have been turning that over since Thursday."
+"Two thousand and two is twenty-four years ago and she was fourteen." Woo had one hand on the frame. "You told me in April that she noticed at fourteen that a man at her father's table did not eat, and that she understood it at thirty. I have been turning that over since Thursday."
 
 "Go on."
 
@@ -13254,7 +13254,7 @@ Upstairs, a door did not open.
 ---
 
 # Book Two · Chapter 62: At thirty
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13420,7 +13420,7 @@ Georgij looked at the edge of the desk.
 
 She stopped there and did not go straight on.
 
-"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in five months. I had twenty-three years and a chair at it."
+"I have sat at that table since I was fourteen," said Annie, "in the same room, with the same people, and I have spent seven of those years knowing that one of them was wrong and not knowing how he got there." Her voice was where it had been all evening. "You found it out in five months. I had twenty-four years and a chair at it."
 
 Somewhere below them a door was shut carefully by somebody who did not want to be heard shutting it.
 
@@ -13432,7 +13432,7 @@ Somewhere below them a door was shut carefully by somebody who did not want to b
 
 Annie looked at him.
 
-"Your father brought a man to a table twenty-three years ago and was pleased with himself about it, and he has been dead for twenty-three years," said Georgij. "Everything that man has done since is his own. The room eleven years ago is his. The woman on the oxygen is his. The lot number in the box where the name goes is his, and Ahn Jung-hee is his, and none of it is a debt that came down to you."
+"Your father brought a man to a table twenty-four years ago and was pleased with himself about it, and he has been dead for twenty-four years," said Georgij. "Everything that man has done since is his own. The room eleven years ago is his. The woman on the oxygen is his. The lot number in the box where the name goes is his, and Ahn Jung-hee is his, and none of it is a debt that came down to you."
 
 "And the part I am not going to like."
 
@@ -16789,7 +16789,7 @@ She stood up.
 ---
 
 # Book Two · Chapter 75: The man at the table
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Fifty · Friday 18 September
 
@@ -16807,7 +16807,7 @@ Georgij stood up off the floor, because it is not a thing to say from down there
 
 * * *
 
-"Chairman Woo has believed for twenty-three years that somebody paid for him," said Georgij.
+"Chairman Woo has believed for twenty-four years that somebody paid for him," said Georgij.
 
 Annie did not move.
 
@@ -17723,7 +17723,7 @@ Annie stood in the passage with the sheet in her hand.
 ---
 
 # Book Two · Chapter 79: What it is worth
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Sixty-Seven · Monday 5 October
 
@@ -17899,7 +17899,7 @@ Annie stood in the hall.
 
 "Why would you do that," she said.
 
-"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-three years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
+"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-four years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
 * * *
 
@@ -19409,7 +19409,7 @@ Annie did not say anything for a moment.
 ---
 
 # Book Two · Chapter 87: The first hour
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Ninety-Six · Tuesday 3 November
 
@@ -19581,7 +19581,7 @@ She got up and went to the window.
 
 * * *
 
-"My father took a man out of a service by giving him one thing he could not undo," she said. "That is Chairman Woo's sentence and it is twenty-three years old and I have had it in my head since the eighteenth of September."
+"My father took a man out of a service by giving him one thing he could not undo," she said. "That is Chairman Woo's sentence and it is twenty-four years old and I have had it in my head since the eighteenth of September."
 
 "Yes."
 
@@ -19612,7 +19612,7 @@ Annie stood at the window for a moment.
 ---
 
 # Book Two · Chapter 88: The invitation
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Ninety-Nine · Friday 6 November
 
@@ -19748,7 +19748,7 @@ The room was very quiet at that end and not at all quiet at the other.
 
 "And the trust."
 
-"The trust will go on paying, because I cannot stop it, and I arranged that in 2014 and I have not regretted it once." He turned his glass a quarter turn and did not drink from it. "You will find that awkward and there is nothing I can do about it. It was not built for this."
+"The trust will go on paying, because I cannot stop it, and I arranged that in 2015 and I have not regretted it once." He turned his glass a quarter turn and did not drink from it. "You will find that awkward and there is nothing I can do about it. It was not built for this."
 
 * * *
 

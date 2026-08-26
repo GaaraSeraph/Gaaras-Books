@@ -1190,7 +1190,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch62:128` (Tag 27) - thirty
 - `b2ch62:136` (Tag 27) - four hundred, thirty, two
 - `b2ch62:208` (Tag 27) - one
-- `b2ch62:224` (Tag 27) - five, fourteen, one, seven, twenty-three
+- `b2ch62:224` (Tag 27) - five, fourteen, one, seven, twenty-four
 - `b2ch62:264` (Tag 27) - one
 - `b2ch66:240` (Tag 37) - one
 - `b2ch69:190` (Tag 44) - one
@@ -1837,7 +1837,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 21 | b2ch57:238 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
 | 21 | b2ch57:254 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
 | 21 | b2ch57:264 | Woo took his hand off the roof of the car. |
-| 21 | b2ch57:278 | *Chairman Woo has been telling himself for twenty-three years that one of three men paid.. |
+| 21 | b2ch57:278 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
 | 25 | b2ch60:260 | "Chairman Woo," she said. "He asked after you by name and he said the words please and t.. |
 | 25 | b2ch60:266 | "I have it," said Woo. |
 | 25 | b2ch60:278 | "And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Someb.. |
@@ -1848,7 +1848,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:58 | "The man I telephoned is seventy-four and he was a clerk in that office in the nineties,.. |
 | 27 | b2ch61:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
 | 27 | b2ch61:72 | "That is the part you already had," said Woo, "and I could have said it on a telephone, .. |
-| 27 | b2ch61:74 | "I have believed for twenty-three years that somebody paid for me," said Woo. |
+| 27 | b2ch61:74 | "I have believed for twenty-four years that somebody paid for me," said Woo. |
 | 27 | b2ch61:82 | "I was not the thing that was being bought." Woo looked at him properly. "I was the door." |
 | 27 | b2ch61:90 | "A prosecutor of thirty-six who has read a file and gone out to a yard and asked a quest.. |
 | 27 | b2ch61:94 | "He closed my case. He had it. He would have had a third of what was coming and he had e.. |
@@ -1868,7 +1868,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:202 | "It has been yours since Friday night and you knew it on the telephone." Woo stood up, w.. |
 | 27 | b2ch61:208 | "She is going to find out," said Woo. "Not from you and not from me. From the shape of i.. |
 | 27 | b2ch61:216 | At the door, in the hall, with the car already turned round, Woo did the thing he has do.. |
-| 27 | b2ch61:222 | "Two thousand and two is twenty-three years ago and she was fourteen." Woo had one hand .. |
+| 27 | b2ch61:222 | "Two thousand and two is twenty-four years ago and she was fourteen." Woo had one hand o.. |
 | 27 | b2ch61:234 | "No," said Woo. "I do not think she has either. And I would like you to consider, before.. |
 | 27 | b2ch62:14 | *Woo said I have until she asks. He also said I may not be the one telling her anything... |
 | 27 | b2ch62:54 | He gave it to her the way Woo had given it to him. The clerk of seventy-four and the she.. |
@@ -1885,7 +1885,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:372 | "You have had none of it. You have had a very good afternoon for Chairman Woo and five h.. |
 | 53 | b2ch74:648 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
 | 53 | b2ch75:14 | "I am going to give it to you in the order Chairman Woo gave it to me, and I am not goin.. |
-| 53 | b2ch75:26 | "Chairman Woo has believed for twenty-three years that somebody paid for him," said Geor.. |
+| 53 | b2ch75:26 | "Chairman Woo has believed for twenty-four years that somebody paid for him," said Georg.. |
 | 53 | b2ch75:42 | "There was a prosecutor of thirty-six who had read a file and gone out to a yard and ask.. |
 | 53 | b2ch75:62 | "No. Chairman Woo said that too, and in nearly those words. You do not get a man of thir.. |
 | 53 | b2ch75:154 | "That is the whole of the second part," said Georgij, "and I want to be exact about it. .. |
@@ -2008,25 +2008,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:128` (Tag 21) - fifty-one, four hundred, one, two
 - `b2ch57:134` (Tag 21) - one
 - `b2ch57:142` (Tag 21) - two
-- `b2ch57:148` (Tag 21) - forty, one, thirty-five, thirty-six, twenty-three
+- `b2ch57:148` (Tag 21) - forty, one, thirty-five, thirty-six, twenty-four
 - `b2ch57:154` (Tag 21) - one
 - `b2ch57:166` (Tag 21) - four, six, three
 - `b2ch57:178` (Tag 21) - seventy-eight, twenty
-- `b2ch57:184` (Tag 21) - one, three, twenty-three, two
-- `b2ch57:188` (Tag 21) - fourteen, three, twenty-three
+- `b2ch57:184` (Tag 21) - one, three, twenty-four, two
+- `b2ch57:188` (Tag 21) - fourteen, three, twenty-four
 - `b2ch57:190` (Tag 21) - three
 - `b2ch57:194` (Tag 21) - three
 - `b2ch57:208` (Tag 21) - seventy-eight, two, two thousand and two
 - `b2ch57:234` (Tag 21) - nine hundred, one, six, ten
 - `b2ch57:238` (Tag 21) - four, one
 - `b2ch57:254` (Tag 21) - one
-- `b2ch57:278` (Tag 21) - one, three, twenty-three
+- `b2ch57:278` (Tag 21) - one, three, twenty-four
 - `b2ch60:260` (Tag 25) - nine
 - `b2ch61:14` (Tag 27) - nine, one
 - `b2ch61:58` (Tag 27) - eleven, seventy-four
 - `b2ch61:66` (Tag 27) - eleven, one, two thousand and two
 - `b2ch61:72` (Tag 27) - four
-- `b2ch61:74` (Tag 27) - twenty-three
+- `b2ch61:74` (Tag 27) - twenty-four
 - `b2ch61:90` (Tag 27) - nine, one, thirty-six
 - `b2ch61:94` (Tag 27) - eleven
 - `b2ch61:110` (Tag 27) - two
@@ -2037,7 +2037,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch61:158` (Tag 27) - forty, four, nine, one, ten, thirty-one, two thousand and two
 - `b2ch61:198` (Tag 27) - four, seventy-eight
 - `b2ch61:208` (Tag 27) - fourteen
-- `b2ch61:222` (Tag 27) - fourteen, one, thirty, twenty-three, two thousand and two
+- `b2ch61:222` (Tag 27) - fourteen, one, thirty, twenty-four, two thousand and two
 - `b2ch61:234` (Tag 27) - one
 - `b2ch62:14` (Tag 27) - one, two
 - `b2ch62:54` (Tag 27) - eleven, fifty, seventy-four, thirty-six, two thousand and two
@@ -2052,7 +2052,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:372` (Tag 44) - five, one
 - `b2ch74:648` (Tag 53) - twenty, twenty-five
 - `b2ch75:14` (Tag 53) - two
-- `b2ch75:26` (Tag 53) - twenty-three
+- `b2ch75:26` (Tag 53) - twenty-four
 - `b2ch75:42` (Tag 53) - thirty-six, two thousand and two
 - `b2ch75:62` (Tag 53) - thirty-six
 - `b2ch75:154` (Tag 53) - four, one, seventy-eight, two
@@ -2063,8 +2063,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:78` (Tag 10) - twenty-five
 - `b2ch79:104` (Tag 10) - one, twenty-six
 - `b2ch79:112` (Tag 10) - one
-- `b2ch79:178` (Tag 10) - four, twenty-three
-- `b2ch87:174` (Tag 10) - one, twenty-three
+- `b2ch79:178` (Tag 10) - four, twenty-four
+- `b2ch87:174` (Tag 10) - one, twenty-four
 
 ---
 
@@ -4193,7 +4193,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
 | 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 27 | b2ch62:240 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
 | 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
@@ -4226,7 +4226,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:40` (Tag 22) - nine, three
 - `b2ch60:188` (Tag 25) - four
 - `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-three
+- `b2ch62:240` (Tag 27) - eleven, twenty-four
 - `b2ch63:58` (Tag 29) - four
 - `b2ch63:188` (Tag 29) - eleven, one
 - `b2ch64:92` (Tag 31) - four, nine, thirty-five

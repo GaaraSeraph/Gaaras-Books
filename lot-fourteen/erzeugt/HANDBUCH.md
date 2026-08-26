@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 298.531 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 298.661 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2963,21 +2963,33 @@ Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
 ("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
 Lebensjahr Geschaefte macht.
 
-**ZWEI JAHRESANGABEN IM TEXT WIDERSPRECHEN DEM KALENDER, und zwar beide um genau
-ein Jahr und beide in dieselbe Richtung:**
+**ZWEI JAHRESANGABEN WIDERSPRACHEN DEM KALENDER UM GENAU EIN JAHR, und beide sind
+am 26.08. nachgezogen worden:**
 
-1. **"Twenty-three years ago" fuer 2002.** Gesagt im August und November **2026**,
-   also vierundzwanzig Jahre her. Fuenf Stellen: Kapitel 57 (zweimal), 61, 62
-   (zweimal).
+1. **"Twenty-three years ago" fuer 2002** war von 2026 aus vierundzwanzig.
+   **Vierzehn Stellen in acht Kapiteln** (34, 57 sechsmal, 61 zweimal, 62 zweimal,
+   75, 79, 87), nicht die sechs, die beim ersten Durchgang gefunden wurden -
+   die erste Suche hatte nur *"twenty-three years ago"* erfasst und Woos
+   Zeitspannen uebersehen (*"I have believed for twenty-three years"*).
 2. **"I arranged that in 2014"** fuer den Trust, den Kapitel 87 auf *"eleven years
-   ago"* datiert. Von 2026 aus waeren elf Jahre **2015**, und 2014 waeren zwoelf.
-   Eine Stelle: Kapitel 88.
+   ago"* datiert, steht jetzt auf **2015**. Eine Stelle: Kapitel 88. Geaendert
+   wurde das Jahr und nicht die elf, weil die elf Jahre an fuenf Stellen haengen
+   (42, 44, 45, 87, 88) und das Jahr nur an einer.
 
-**Beide lesen sich, als haette jemand vom Startjahr 2025 aus gerechnet statt vom
-laufenden Handlungsjahr.** Der Kalender ist das staerkere Fundament, weil an ihm
-124 gepruefte Datumszeilen haengen und an den beiden Angaben nur sechs Saetze.
-**Noch nicht geaendert, weil "vierundzwanzig" anders klingt als "dreiundzwanzig"
-und die Zahl in Dialogzeilen steht.**
+**Beide lasen sich, als haette jemand vom Startjahr 2025 aus gerechnet statt vom
+laufenden Handlungsjahr.** Der Kalender hat entschieden, weil an ihm 124
+gepruefte Datumszeilen haengen.
+
+**NICHT ANGETASTET: Mrs Jeons dreiundzwanzig Jahre im Settlement.** Die Zahl
+kommt ueber dreissigmal vor (Kapitel 6, 7, 27 bis 34, 71, 78, 83) und hat mit
+2002 nichts zu tun. **Wer hier je wieder sucht, muss die beiden Bestaende
+trennen, bevor er ersetzt.**
+
+**OFFEN GEBLIEBEN, weil es an Annies Alter haengt und nicht am Kalender:**
+Kapitel 61 und 62 sagen, sie habe *"seven years"* gewusst, dass ein Mann am
+Tisch ihres Vaters falsch war, und sie habe es **mit dreissig** verstanden. Bei
+Geburtsjahr 1987/88 waere das 2017/18 und damit **acht** Jahre. Nicht geaendert,
+weil "seven" auch als runde Angabe eines Menschen ueber sich selbst lesbar ist.
 
 ### Kalender
 
@@ -4834,7 +4846,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Neu im Personal, nur benannt:** ein Angestellter namens **Jang**, Sicherheitschef, wird zum ersten Mal in Band 2 mit einer eigenen Aufgabe betraut, ausserhalb von Georgijs Blick.
 
-- **Band 2, Kapitel 34** *The best company in the room* (v1.5) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
+- **Band 2, Kapitel 34** *The best company in the room* (v1.6) - **Tag 244, Do 4. Juni. Nacht bis halb sieben morgens, der Schreibtisch.**
 
   **Korrigiert am 24.08.** Die erste Fassung liess Georgij den Namen Choi Dae-ho in dieser Nacht zum ersten Mal herleiten und Annie davon ueberrascht sein - **das widersprach Kapitel 27 direkt**, wo Sang-hoon ihm den Namen bereits am 27. Mai gegeben hat und Annie ihn seit ihrem vierzehnten Jahr kennt. Die Fassung unten ist die korrigierte.
 
@@ -5659,7 +5671,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.5) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.6) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -5800,7 +5812,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
     him where he is."*
 
-- **Band 2, Kapitel 61** *The doorway* (v1.5) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 61** *The doorway* (v1.6) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.
@@ -5831,7 +5843,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.9) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.10) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -6394,7 +6406,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eine Notiz im Wagen. **Zwei Maenner lesen das als Abschied, und keiner von
     beiden war am siebten in dem Zimmer.**
 
-- **Band 2, Kapitel 75** *The man at the table* (v1.0) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
+- **Band 2, Kapitel 75** *The man at the table* (v1.1) - **Tag 350, Fr 18. September, unmittelbar weiter. Er sagt es ihr, weil sie gefragt hat.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er gibt es in Woos Reihenfolge und verbessert nichts daran.** Woo als Tuer;
@@ -6610,7 +6622,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
     Siehe Kapitel 79.
 
-- **Band 2, Kapitel 79** *What it is worth* (v1.1) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
+- **Band 2, Kapitel 79** *What it is worth* (v1.2) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit
@@ -7017,7 +7029,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
     going to stand underneath her before anybody takes the floor away"*).
 
-- **Band 2, Kapitel 87** *The first hour* (v1.1) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
+- **Band 2, Kapitel 87** *The first hour* (v1.2) - **Tag 396 und 397, Di 3. und Mi 4. November. Die erste Stunde, und am Nachmittag faellt der Name.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die erste Stunde hat zwei Menschen darin und keiner davon wohnt in dem Haus.**
@@ -7073,7 +7085,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     him legible."* Zum ersten Mal in acht Monaten liegt ein Dokument auf einem
     Tisch, in dem Chois **Absicht** steht.
 
-- **Band 2, Kapitel 88** *The invitation* (v1.0) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
+- **Band 2, Kapitel 88** *The invitation* (v1.1) - **Tag 399, Fr 6. November. Sechs Leute an einem Tisch in Seongbuk, und keiner von ihnen sagt ein Wort ueber irgendetwas.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Die Einladung kommt per Hand**, vier Zeilen, ohne Absender, fuer den naechsten
@@ -20838,7 +20850,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch62:128` (Tag 27) - thirty
 - `b2ch62:136` (Tag 27) - four hundred, thirty, two
 - `b2ch62:208` (Tag 27) - one
-- `b2ch62:224` (Tag 27) - five, fourteen, one, seven, twenty-three
+- `b2ch62:224` (Tag 27) - five, fourteen, one, seven, twenty-four
 - `b2ch62:264` (Tag 27) - one
 - `b2ch66:240` (Tag 37) - one
 - `b2ch69:190` (Tag 44) - one
@@ -21485,7 +21497,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 21 | b2ch57:238 | "A man who has been dead four years, and he invited me the way you invite somebody to a .. |
 | 21 | b2ch57:254 | "Did you know," said Woo. "When you got out of the car this morning. Did you know I had .. |
 | 21 | b2ch57:264 | Woo took his hand off the roof of the car. |
-| 21 | b2ch57:278 | *Chairman Woo has been telling himself for twenty-three years that one of three men paid.. |
+| 21 | b2ch57:278 | *Chairman Woo has been telling himself for twenty-four years that one of three men paid .. |
 | 25 | b2ch60:260 | "Chairman Woo," she said. "He asked after you by name and he said the words please and t.. |
 | 25 | b2ch60:266 | "I have it," said Woo. |
 | 25 | b2ch60:278 | "And Georgij." Woo did not hurry it. "He did not leave that service under a cloud. Someb.. |
@@ -21496,7 +21508,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:58 | "The man I telephoned is seventy-four and he was a clerk in that office in the nineties,.. |
 | 27 | b2ch61:66 | "The file on my company was closed on the eleventh of April in two thousand and two. The.. |
 | 27 | b2ch61:72 | "That is the part you already had," said Woo, "and I could have said it on a telephone, .. |
-| 27 | b2ch61:74 | "I have believed for twenty-three years that somebody paid for me," said Woo. |
+| 27 | b2ch61:74 | "I have believed for twenty-four years that somebody paid for me," said Woo. |
 | 27 | b2ch61:82 | "I was not the thing that was being bought." Woo looked at him properly. "I was the door." |
 | 27 | b2ch61:90 | "A prosecutor of thirty-six who has read a file and gone out to a yard and asked a quest.. |
 | 27 | b2ch61:94 | "He closed my case. He had it. He would have had a third of what was coming and he had e.. |
@@ -21516,7 +21528,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch61:202 | "It has been yours since Friday night and you knew it on the telephone." Woo stood up, w.. |
 | 27 | b2ch61:208 | "She is going to find out," said Woo. "Not from you and not from me. From the shape of i.. |
 | 27 | b2ch61:216 | At the door, in the hall, with the car already turned round, Woo did the thing he has do.. |
-| 27 | b2ch61:222 | "Two thousand and two is twenty-three years ago and she was fourteen." Woo had one hand .. |
+| 27 | b2ch61:222 | "Two thousand and two is twenty-four years ago and she was fourteen." Woo had one hand o.. |
 | 27 | b2ch61:234 | "No," said Woo. "I do not think she has either. And I would like you to consider, before.. |
 | 27 | b2ch62:14 | *Woo said I have until she asks. He also said I may not be the one telling her anything... |
 | 27 | b2ch62:54 | He gave it to her the way Woo had given it to him. The clerk of seventy-four and the she.. |
@@ -21533,7 +21545,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 44 | b2ch69:372 | "You have had none of it. You have had a very good afternoon for Chairman Woo and five h.. |
 | 53 | b2ch74:648 | "Woo came here on a Sunday and asked me to leave my own study," said Annie, "and that wa.. |
 | 53 | b2ch75:14 | "I am going to give it to you in the order Chairman Woo gave it to me, and I am not goin.. |
-| 53 | b2ch75:26 | "Chairman Woo has believed for twenty-three years that somebody paid for him," said Geor.. |
+| 53 | b2ch75:26 | "Chairman Woo has believed for twenty-four years that somebody paid for him," said Georg.. |
 | 53 | b2ch75:42 | "There was a prosecutor of thirty-six who had read a file and gone out to a yard and ask.. |
 | 53 | b2ch75:62 | "No. Chairman Woo said that too, and in nearly those words. You do not get a man of thir.. |
 | 53 | b2ch75:154 | "That is the whole of the second part," said Georgij, "and I want to be exact about it. .. |
@@ -21656,25 +21668,25 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:128` (Tag 21) - fifty-one, four hundred, one, two
 - `b2ch57:134` (Tag 21) - one
 - `b2ch57:142` (Tag 21) - two
-- `b2ch57:148` (Tag 21) - forty, one, thirty-five, thirty-six, twenty-three
+- `b2ch57:148` (Tag 21) - forty, one, thirty-five, thirty-six, twenty-four
 - `b2ch57:154` (Tag 21) - one
 - `b2ch57:166` (Tag 21) - four, six, three
 - `b2ch57:178` (Tag 21) - seventy-eight, twenty
-- `b2ch57:184` (Tag 21) - one, three, twenty-three, two
-- `b2ch57:188` (Tag 21) - fourteen, three, twenty-three
+- `b2ch57:184` (Tag 21) - one, three, twenty-four, two
+- `b2ch57:188` (Tag 21) - fourteen, three, twenty-four
 - `b2ch57:190` (Tag 21) - three
 - `b2ch57:194` (Tag 21) - three
 - `b2ch57:208` (Tag 21) - seventy-eight, two, two thousand and two
 - `b2ch57:234` (Tag 21) - nine hundred, one, six, ten
 - `b2ch57:238` (Tag 21) - four, one
 - `b2ch57:254` (Tag 21) - one
-- `b2ch57:278` (Tag 21) - one, three, twenty-three
+- `b2ch57:278` (Tag 21) - one, three, twenty-four
 - `b2ch60:260` (Tag 25) - nine
 - `b2ch61:14` (Tag 27) - nine, one
 - `b2ch61:58` (Tag 27) - eleven, seventy-four
 - `b2ch61:66` (Tag 27) - eleven, one, two thousand and two
 - `b2ch61:72` (Tag 27) - four
-- `b2ch61:74` (Tag 27) - twenty-three
+- `b2ch61:74` (Tag 27) - twenty-four
 - `b2ch61:90` (Tag 27) - nine, one, thirty-six
 - `b2ch61:94` (Tag 27) - eleven
 - `b2ch61:110` (Tag 27) - two
@@ -21685,7 +21697,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch61:158` (Tag 27) - forty, four, nine, one, ten, thirty-one, two thousand and two
 - `b2ch61:198` (Tag 27) - four, seventy-eight
 - `b2ch61:208` (Tag 27) - fourteen
-- `b2ch61:222` (Tag 27) - fourteen, one, thirty, twenty-three, two thousand and two
+- `b2ch61:222` (Tag 27) - fourteen, one, thirty, twenty-four, two thousand and two
 - `b2ch61:234` (Tag 27) - one
 - `b2ch62:14` (Tag 27) - one, two
 - `b2ch62:54` (Tag 27) - eleven, fifty, seventy-four, thirty-six, two thousand and two
@@ -21700,7 +21712,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch69:372` (Tag 44) - five, one
 - `b2ch74:648` (Tag 53) - twenty, twenty-five
 - `b2ch75:14` (Tag 53) - two
-- `b2ch75:26` (Tag 53) - twenty-three
+- `b2ch75:26` (Tag 53) - twenty-four
 - `b2ch75:42` (Tag 53) - thirty-six, two thousand and two
 - `b2ch75:62` (Tag 53) - thirty-six
 - `b2ch75:154` (Tag 53) - four, one, seventy-eight, two
@@ -21711,8 +21723,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:78` (Tag 10) - twenty-five
 - `b2ch79:104` (Tag 10) - one, twenty-six
 - `b2ch79:112` (Tag 10) - one
-- `b2ch79:178` (Tag 10) - four, twenty-three
-- `b2ch87:174` (Tag 10) - one, twenty-three
+- `b2ch79:178` (Tag 10) - four, twenty-four
+- `b2ch87:174` (Tag 10) - one, twenty-four
 
 ---
 
@@ -23841,7 +23853,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
 | 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 27 | b2ch62:240 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
 | 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
 | 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
@@ -23874,7 +23886,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch59:40` (Tag 22) - nine, three
 - `b2ch60:188` (Tag 25) - four
 - `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-three
+- `b2ch62:240` (Tag 27) - eleven, twenty-four
 - `b2ch63:58` (Tag 29) - four
 - `b2ch63:188` (Tag 29) - eleven, one
 - `b2ch64:92` (Tag 31) - four, nine, thirty-five
