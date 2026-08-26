@@ -267,6 +267,7 @@ gegengeprüft.*
 | **83** | *Twenty-three days* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis, den Mrs Jeon dafuer zahlt | HALTEN |
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
 | **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
+| **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |
 
 ---
 

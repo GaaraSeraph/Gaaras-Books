@@ -3958,6 +3958,70 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eleven feet, and it is the only decision in this whole arrangement that I have
     not been standing next to when it was made."*
 
+- **Band 2, Kapitel 85** *They did not argue about it* (v1.0) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - Annie schreibt ihren Namen auf die vierte Seite, in ihrer Handschrift, in
+    einem Zug und ohne Probe auf einem anderen Blatt.
+  - **SECHSUNDZWANZIG STUNDEN UND FUENFZIG MINUTEN, davon sechs eine Nacht.** Kein
+    Gegenangebot, keine Rueckfrage, keine Frage nach dem Kaeufer. Hwang hat in
+    sechs Jahren neunhundert davon zugestellt, **der Schnitt ist elf Tage und der
+    Rekord war vier.**
+  - **Woraus folgt, was nicht mehr rueckgaengig zu machen ist:** sie haetten ein
+    Drittel genommen. Sie rechnet es in zehn Minuten aus. *"That is correct and I
+    want it said again in about a fortnight when I have decided it was avoidable."*
+  - **DAS FAHRANGEBOT.** Vier Zeilen, kostenlos, ab dem 2. November, zwei Tage
+    Vorlauf, unterschrieben von einem Vertreter in einer Handschrift, die niemand
+    kennt. **Choi hat weiterhin keine Replik und braucht keine:** *"There is no
+    instruction in this and there is no name... the helpful thing is arranged
+    before you have thought to ask for it, and then you are the sort of person who
+    was helped."*
+  - **Warum es abgelehnt wird:** die Bedingung aus Kapitel 84. Wenn sie sie
+    bringen, gibt es keinen Wagen und keine vier Minuten. Und der Preis der
+    Ablehnung wird ausgesprochen: sie erfahren, dass die Kaeuferin sich um die
+    Art kuemmert und nicht nur um das Papier. *"Then he learns it. He is not also
+    getting the drive."*
+  - **Termin: Montag, der 2. November, elf Uhr.** Die Antwort darauf sind zwei
+    Woerter und eine Uhrzeit.
+  - Der Anruf nach Gwangyang vierzig Minuten spaeter loest die Zusage aus Kapitel
+    83 ein. *"I have had about four hundred people say that sentence to me and I
+    have had it kept twice, and the other one was in 2006."*
+  - Jangs Bedingung fuer den Sonntag, in seiner Ordnung, mit Herkunft und Grenze:
+    er will die Strasse zweimal fahren und wissen, wo ein Wagen halten kann.
+
+- **Band 2, Kapitel 86** *The second of November* (v1.0) - **Tag 394 und 395, So 1. und Mo 2. November. Der Tag. Und Moon Hae-sook bleibt in dem Haus.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **32 Prozent Dialog**, der zweitniedrigste Wert des Bandes nach Kapitel 76.
+    Der Tag wird erzaehlt und nicht verhandelt.
+  - **Mr Ahn faehrt nicht mit**, und die Entscheidung ist seine, im Stehen, in vier
+    Sekunden: *"She comes out of a door and the first thing she sees is her
+    brother, who signed the form that put her in there, standing in a yard with
+    three strangers and a car."* Er will vier Woerter von der zweiten Tankstelle.
+  - **Georgij steigt nicht aus**, den ganzen Termin nicht, und legt kein einziges
+    Mal die Hand an die Tuer. **Das Schwerste, was er seit Maerz getan hat.**
+  - **Die Raeumung hat am Donnerstag begonnen.** Drei Fahrzeuge, zwei Lieferwagen
+    mit offenen Tueren, und im dritten Wartemomente traegt ein Mann einen
+    aufgerollten Teppich heraus.
+  - **AHN JUNG-HEE SPRICHT ZUM ERSTEN MAL FREI**, und die Entscheidung darueber ist
+    hier gefallen: **kein Code mehr, aber auch keine Erleichterung.** Ihr erster
+    Satz nach vier Jahren ist eine erledigte Sache ueber jemand anderen: *"The
+    kettle is on the second shelf. I moved it on Thursday because they took the
+    counter."* Drei ihrer vier Aeusserungen an dem Tag handeln von Moon Hae-sook.
+  - **Und die vierte ist die erste Frage, die sie im ganzen Buch stellt:** ob sie
+    etwas unterschreiben muss. Sie hat seit Februar vor vier Jahren nichts
+    unterschrieben.
+  - **Mrs Jeon berichtigt den Vertreter im Hof**, und das ist ihre Einloesung:
+    *"She is not a consignment out here. She is out here."*
+  - **DIE WUNDE DES TAGES:** sie nehmen eine aus einem Haus, das ausgeraeumt wird,
+    und lassen eine darin. *"The kettle is on the second shelf and a man has
+    written it on a folder."*
+  - Annie ist nicht auf der Treppe und nicht in der Halle, auf eigene Anweisung am
+    Morgen, die niemand in dem Haus erklaert bekommen musste.
+  - **Zwei Zusagen eingeloest:** Mr Ahns Bedingung aus 84 (die erste wahre Zeile
+    kommt nicht von einem Mann) und Georgijs Zusage aus Kapitel 63 (*"Somebody is
+    going to stand underneath her before anybody takes the floor away"*).
+
 
 
 ---
