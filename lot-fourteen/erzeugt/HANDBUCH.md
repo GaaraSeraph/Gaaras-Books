@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 282.802 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 282.961 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -18093,7 +18093,17 @@ ist.
 
 ---
 
-## Warum das Buch zäh ist, gemessen am 25.08.
+## Warum das Buch zäh ist, gemessen am 25.08. - und was das Lesen davon übrig lässt
+
+> **Achtung, am 26.08. nachgetragen: dieser Abschnitt ist aus Zahlen geschrieben
+> und nicht aus dem Lesen, und er ist überholt.** Nach sechzig gelesenen
+> Kapiteln steht der Befund unter **Befund aus dem Lesen** weiter unten: die
+> Gleichverteilung ist die **Folge**, nicht die Ursache. Das Näherkommen an Choi
+> wird als **Buchführung** erzählt - von Kapitel 36 bis 56 enden **17 von 21**
+> Kapiteln damit, dass Georgij allein notiert, wie weit er gekommen ist.
+> **Und der Autor hat am 26.08. präzisiert, dass es nicht um die Länge geht**,
+> sondern darum, dass der Choi-Strang repetitiv und zäh wirkt. Was unten steht,
+> gilt; was hier steht, ist die Messung, aus der es hervorging.
 
 Nicht die Inkompetenz, nicht das Ermitteln. Der Befund ist die Gleichverteilung.
 
@@ -18234,7 +18244,7 @@ Urteilsspalte.**
 
 ---
 
-## Die konkreten Vorschlaege aus diesem Block
+## Die konkreten Vorschlaege aus Kapitel 1 bis 60
 
 Alle Wortzahlen sind aus den Kapiteldateien addiert, nicht geschaetzt.
 
@@ -18340,7 +18350,7 @@ gegengeprüft.*
 
 ---
 
-## Die konkreten Vorschläge aus diesem Block
+## Die konkreten Vorschläge aus Kapitel 61 bis 80
 
 **1. Die vier Werkstattkapitel sind drei zu viel für ihre Form.**
 70, 73 und 77 spielen alle in derselben Werkstatt, alle mit demselben Bau: er
@@ -18479,15 +18489,19 @@ keine Kategorie brachte; sie steht hier nicht.
 
 ## Offen
 
-- **Kapitel 1 bis 60 sind hier noch nicht erfasst.** Das ist die eigentliche
-  Arbeit, und sie gehört nicht in diese Sitzung, weil ich diese Kapitel nicht
-  geschrieben habe und ihre Tragfähigkeit nicht aus dem Kopf beurteilen kann.
-  **Der Weg dorthin geht über `doc/05-continuity.md`**, das je Kapitel bereits
-  sagt, woraus es besteht.
-- **Die Gegenprobe fehlt und ist mechanisch machbar:** ein Kapitel, das in
-  `doc/13-zusagen.md` keine Zusage bezahlt, in `doc/10-naehe.md` keinen Eintrag
-  hat und keinen Erstauftritt enthält, ist ein Kandidat. Das lässt sich zählen
-  und tut es noch nicht.
+- ~~**Kapitel 1 bis 60 sind hier noch nicht erfasst.**~~ **Erledigt am 26.08.**,
+  und nicht über `doc/05`, sondern durch Lesen: sechzig von sechzig Kapiteln in
+  der höchsten Fassung. Die Tabelle steht oben, der Prüfumfang unter *Befund aus
+  dem Lesen*.
+- ~~**Die Gegenprobe fehlt und ist mechanisch machbar.**~~ **Sie existiert als
+  `werkzeug/kuerzen.py` - und sie hat in Kapitel 1 bis 60 acht Kandidaten
+  ausgewiesen, von denen bei der Lektüre alle acht etwas tragen.** Zwei Gründe,
+  beide unter *Befund aus dem Lesen* belegt: das Schuldbuch deckt K21-60 mit
+  drei von vierzig Kapiteln ab, und es zählt **bezahlte** Zusagen und nicht
+  **gegebene**. Die Gegenprobe taugt als Hinweis, nicht als Streichliste.
+
+- **Offen bleibt Band 1.** Vierunddreißig Kapitel, nicht Teil des Auftrags vom
+  26.08.
 
 ---
 
