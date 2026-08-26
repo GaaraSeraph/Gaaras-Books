@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 320.555 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 321.094 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -176,6 +176,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Und der zweite Uebergabepunkt: das Stilprotokoll](#und-der-zweite-uebergabepunkt-das-stilprotokoll)
   - [Und der Uebergabepunkt](#und-der-uebergabepunkt)
 - [Nähe: das Register](#n-he-das-register)  ·  `doc/10-naehe.md`
+  - [1. Die Initiative gehoert ihr](#1-die-initiative-gehoert-ihr)
+  - [2. Was er sagt, kommt aus der Erschoepfung](#2-was-er-sagt-kommt-aus-der-erschoepfung)
+  - [Was aus beiden zusammen fuers Planen folgt](#was-aus-beiden-zusammen-fuers-planen-folgt)
   - [B1 24 · Do 27. November · Die Brücke](#b1-24-do-27-november-die-br-cke)
   - [B1 34 · So 1. März · Der Boden neben ihr](#b1-34-so-1-m-rz-der-boden-neben-ihr)
   - [B2 35 · Do 4. Juni · Die Nacht mit leeren Händen](#b2-35-do-4-juni-die-nacht-mit-leeren-h-nden)
@@ -14092,6 +14095,73 @@ Die kleinen Dinge sind der Unterschied zwischen einer Beziehung und drei Szenen.
 Sie stehen unten in ihrem eigenen Register und sind bisher zu dünn gesät.
 
 **Der Anlauf auf die Schlusszeile läuft über Erschöpfung, nie über Ruhe.**
+
+---
+
+## Die zwei Regeln, nach denen dieser Strang laeuft
+
+**Vom Autor am 26.08. benannt, nachdem sie zwei Baende lang eingehalten worden
+sind, ohne dass sie irgendwo standen.** Genau das ist die gefaehrliche Sorte
+Regel: Der naechste Schreibdurchgang bricht sie, ohne zu merken, dass es eine
+war. Alles darunter im Dokument zaehlt, **was** passiert ist. Hier steht, **wer
+anfaengt** und **wann er redet**.
+
+### 1. Die Initiative gehoert ihr
+
+Jede Eskalation zwischen den beiden geht von Annie aus. Er geht durch Tueren,
+**sie macht sie auf.**
+
+- *"You are mine. … Build on this one."* (B2 6) - ungefragt, und er hatte im
+  Stehen um etwas voellig anderes gebeten.
+- *"Now come here."* (B2 6). *"Sit down." … "Not there."* (B2 71). *"Say it."*
+  (B2 35). *"Sit down and do not talk to me for a while."* (B2 76).
+- **Die Hand im Haar: zehnmal in zwei Baenden, jedes Mal ihre** (Register B).
+- **Der Boden:** sie kommt herunter, und zwar **bevor** sie antwortet
+  (B2 35, Register A 9).
+- **Register F hat in zwei Baenden zwei Eintraege.** Das ist die Zahl. Der zweite
+  ist die Schlussgeste des Bandes.
+
+**Die Probe:** Wer hat in dieser Szene die Bewegung angefangen? Ist es er, ist die
+Szene falsch - es sei denn, sie wiegt so viel wie der 1. Maerz.
+
+**Und der Grund, warum das keine Ziererei ist:** Er kann nicht anfangen. Ein Mann,
+der ihr gehoert, kann nichts einleiten, ohne dass es eine Bitte um Erlaubnis
+waere, und eine Bitte um Erlaubnis ist an dieser Stelle das Gegenteil von dem,
+was die Szene braucht. Deshalb ist jede Bewegung von ihr eine **Entscheidung**,
+und jede von ihm waere eine **Forderung**. In einer Zwischenfassung von B2 6 nahm
+er ihre Hand vom Sessel; der Autor hat es gestrichen, und das ist derselbe Befund
+von der anderen Seite.
+
+### 2. Was er sagt, kommt aus der Erschoepfung
+
+Nicht nur der Anlauf auf die Schlusszeile. **Das gilt fuer jeden Satz, den er
+sonst nicht sagen wuerde.**
+
+**Ausgeruht lobt Georgij indirekt.** Ueber Arbeit, ueber Dritte, ueber Preise -
+seine Maschine endet in jedem Satz auf einer Rechnung (`doc/12-stimmen.md`).
+
+**Erschoepft wird er direkt**, und es faellt etwas heraus, das er nuechtern
+weggerechnet haette:
+
+- **Drei Wochen ohne Schlaf**, am Schreibtisch, halb zehn abends: der einzige
+  Satz seines Lebens ohne Preis darin, und danach *"You are such a beautiful,
+  strong woman."* (B2 90)
+- **Seit ein Uhr morgens auf Kaffee**, mit leeren Haenden die Treppe hoch: die
+  vierte Bitte in acht Monaten und der Name (B2 35).
+
+**Die Probe:** Sagt er hier etwas Direktes - hat der Text vorher gezeigt, was es
+ihn gekostet hat, so weit zu kommen? Wenn nicht, ist es geschenkt, und geschenkt
+wiegt es nichts. **Ein ausgeruhter Georgij, der ein Kompliment macht, ist ein
+Fehler und kein Fortschritt.**
+
+### Was aus beiden zusammen fuers Planen folgt
+
+Die Handlung liefert die Erschoepfung. Die Erschoepfung macht ihn auf. **Und dann
+entscheidet sie, was daraus wird.** Der Strang braucht deshalb keine geplante
+Landung und bekommt keine: **in den Dokumenten steht immer nur der naechste Beat,
+nie das Ende** - auch wenn beide Seiten des Schreibtischs wissen, worauf es
+hinauslaeuft. Wer die Landung aufschreibt, schreibt ab jetzt auf sie zu, und man
+sieht es dem Text an.
 
 ---
 
