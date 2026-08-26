@@ -67,6 +67,14 @@ der falschen Person zugeschrieben ist. Es **eicht sich zuerst selbst** an einem
 bekannten Fund und meldet gar nichts, wenn die Eichung durchfaellt. Der
 Kopfkommentar erklaert, wie man aus einem einzelnen Fund einen Streifzug macht.
 
+`kuerzen.py` beantwortet die eine Frage, die beim Kuerzen mechanisch
+beantwortbar ist: **traegt dieses Kapitel etwas, das nirgends sonst steht?**
+Vier Kriterien aus `doc/15-kuerzen.md` - es bezahlt eine Zusage, es steht im
+Naehe-Register, es traegt einen Stimmbefund, es enthaelt einen Erstauftritt.
+**Ein Kapitel ohne alle vier ist ein Kandidat und keine Streichung**; die
+Entscheidung ist Urteil und steht in `doc/15-kuerzen.md`. `--kandidaten` zeigt
+nur die Liste, `--form` die Formzahlen je Kapitel.
+
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
 Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
