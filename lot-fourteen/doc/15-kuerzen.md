@@ -270,6 +270,7 @@ gegengeprüft.*
 | **86** | *The second of November* | **Tragend. Der Tag.** Ahn Jung-hee spricht zum ersten Mal frei, und Moon Hae-sook bleibt im Haus | HALTEN |
 | **87** | *The first hour* | **Tragend.** Die erste Stunde, und Choi Dae-ho ist der Errichter der Treuhandschaft | HALTEN |
 | **88** | *The invitation* | **Tragend. Chois einzige Repliken im ganzen Buch.** Und er gibt Moon Hae-sook her, ohne Bedingung und ohne Gegenleistung | HALTEN |
+| **89** | *What became of them* | **Tragend.** Moon Hae-sook spricht zum ersten Mal, und drei alte Zusagen werden in einer Woche bezahlt | HALTEN |
 
 ---
 

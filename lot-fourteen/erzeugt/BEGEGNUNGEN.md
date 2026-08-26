@@ -18,19 +18,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 896 | 97 (b1ch01-b2ch88) | 1 | 74 |
+| Annie | 898 | 98 (b1ch01-b2ch89) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 251 | 43 (b1ch07-b2ch87) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 158 | 40 (b1ch05-b2ch86) | 2 | 60 |
-| Sim | 137 | 22 (b2ch31-b2ch88) | 2 | 53 |
+| Jang | 159 | 41 (b1ch05-b2ch89) | 2 | 60 |
+| Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
 | Mrs Jeon | 112 | 23 (b2ch06-b2ch87) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
+| Mrs Seo | 103 | 48 (b1ch03-b2ch89) | 1 | 74 |
 | Mr Ahn | 102 | 13 (b2ch56-b2ch88) | 3 | 53 |
-| Mrs Seo | 99 | 47 (b1ch03-b2ch87) | 1 | 74 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
+| Mrs Sunwoo | 56 | 18 (b1ch07-b2ch89) | 1 | 60 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
-| Mrs Sunwoo | 52 | 17 (b1ch07-b2ch66) | 1 | 60 |
 | Mr Kwon | 45 | 7 (b2ch14-b2ch74) | 4 | 53 |
 | Kim Ye-rin | 44 | 11 (b1ch14-b1ch34) | 5 | 74 |
 | Mr Baek | 38 | 12 (b1ch05-b2ch87) | 2 | 55 |
@@ -39,18 +39,18 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
+| Ahn Jung-hee | 30 | 15 (b2ch56-b2ch89) | 4 | 53 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
-| Ahn Jung-hee | 28 | 14 (b2ch56-b2ch87) | 4 | 53 |
-| Mrs Ha | 25 | 3 (b2ch66-b2ch68) | 37 | 42 |
+| Mrs Ha | 28 | 4 (b2ch66-b2ch89) | 13 | 42 |
 | Baek Jun-ho | 22 | 7 (b2ch42-b2ch88) | 2 | 12 |
 | Mr Koh | 21 | 4 (b2ch37-b2ch58) | 21 | 59 |
 | Ji-won | 20 | 7 (b1ch03-b1ch20) | 1 | 49 |
 | Mr Byun | 20 | 2 (b2ch22-b2ch23) | 17 | 24 |
 | Shin | 18 | 1 (b2ch02) | 53 | 53 |
+| Moon Hae-sook | 16 | 8 (b2ch66-b2ch89) | 4 | 53 |
 | Mrs Gwak | 16 | 4 (b2ch31-b2ch88) | 12 | 51 |
 | Mr Sohn | 12 | 2 (b2ch39-b2ch58) | 22 | 61 |
-| Moon Hae-sook | 11 | 7 (b2ch66-b2ch88) | 4 | 53 |
 | Mr Pyo | 11 | 8 (b1ch05-b2ch02) | 1 | 74 |
 | Bae | 6 | 3 (b1ch03-b1ch14) | 1 | 34 |
 | Eun-ju | 5 | 4 (b1ch05-b2ch58) | 6 | 34 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-896 Nennungen in 97 Kapiteln.
+898 Nennungen in 98 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -969,6 +969,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch88:142 | Annie sat with her hands on the table. |
 | 12 | b2ch88:174 | "He has never met either of us," said Annie. |
 | 12 | b2ch88:194 | Annie looked out of the window for a while. |
+| 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
+| 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1219,6 +1221,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:26` (Tag 10) - fifty, ten, twenty
 - `b2ch87:164` (Tag 10) - two
 - `b2ch88:34` (Tag 12) - two
+- `b2ch89:12` (Tag 8) - one
+- `b2ch89:148` (Tag 15) - one
 
 ---
 
@@ -2294,7 +2298,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Jang
 
-158 Nennungen in 40 Kapiteln.
+159 Nennungen in 41 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2456,6 +2460,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch86:140 | At the lay-by Jang slowed without being asked and said it to the windscreen. There was a.. |
 | 8 | b2ch86:146 | She got out and stood at the edge of it with her arms at her sides and looked at nothing.. |
 | 8 | b2ch86:152 | At the second petrol station Jang went in and telephoned a repair shop and said four wor.. |
+| 8 | b2ch89:8 | Jang drove and there was a nurse in the back, hired for the day from an agency in Chunch.. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -2544,7 +2549,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Sim
 
-137 Nennungen in 22 Kapiteln.
+142 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2685,6 +2690,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:110 | "That is what he did to Sim for eleven years," she said. |
 | 3 | b2ch85:112 | "That is what he did to Sim for eleven years, and Sim has spent eight weeks trying to fi.. |
 | 12 | b2ch88:60 | It is the one Sim used at four doors in the first month eleven years ago. It is the one .. |
+| 15 | b2ch89:162 | Sim had the tea ready, because he had said in October that he would, and he had it ready.. |
+| 15 | b2ch89:170 | Sim did not say anything for a long time. |
+| 15 | b2ch89:186 | "Was I good at it," said Sim. |
+| 15 | b2ch89:192 | "No," said Sim. "It is the bill." |
+| 15 | b2ch89:204 | *Mrs Ha wanted to be asked after. Mrs Sunwoo wanted somebody to come back afterwards. Si.. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -3100,6 +3110,183 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Seo
+
+103 Nennungen in 48 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 1 | b1ch03:34 | "I am Mrs Seo. I run the house." |
+| 1 | b1ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
+| 1 | b1ch03:52 | Mrs Seo looked at him for a moment. |
+| 1 | b1ch03:56 | "Of course. Forgive me." He let it go where she had put it, and did not go back for it. .. |
+| 1 | b1ch03:76 | "At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being aske.. |
+| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
+| 1 | b1ch03:164 | "Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anyth.. |
+| 1 | b1ch03:166 | "Then that will do." Georgij put his hands in his pockets, which took him out of the doo.. |
+| 1 | b1ch03:246 | "I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She.. |
+| 1 | b1ch03:282 | She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywh.. |
+| 2 | b1ch04:20 | He went down at five to seven, because Mrs Seo had said seven. |
+| 2 | b1ch04:34 | She looked at Mrs Seo, who did not look up from the stove. |
+| 2 | b1ch04:36 | "Anywhere at that end," Mrs Seo said. |
+| 2 | b1ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
+| 2 | b1ch04:58 | "Good morning, ma'am," said Mrs Seo, after a pause of about half a second that Georgij w.. |
+| 2 | b1ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
+| 2 | b1ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
+| 2 | b1ch04:74 | Mrs Seo wiped the same part of the counter twice. Then she said, without turning round a.. |
+| 4 | b1ch05:130 | That evening Mrs Seo sent a fresh pot down to the small office off the garage passage wi.. |
+| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
+| 6 | b1ch05:146 | Breakfast was the one place the money did not show, and only because Mrs Seo had taken t.. |
+| 9 | b1ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
+| 9 | b1ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
+| 22 | b1ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
+| 22 | b1ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
+| 22 | b1ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
+| 22 | b1ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
+| 22 | b1ch06:170 | Mrs Seo stepped back. |
+| 22 | b1ch06:174 | "Yes, Mrs Seo." |
+| 22 | b1ch11:280 | Mrs Seo had left the hall light on and gone to bed. |
+| 23 | b1ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
+| 27 | b1ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
+| 27 | b1ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
+| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
+| 41 | b1ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
+| 46 | b1ch17:208 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
+| 49 | b1ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
+| 49 | b1ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
+| 55 | b1ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
+| 55 | b1ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
+| 55 | b1ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
+| 55 | b1ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
+| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
+| 55 | b1ch24:366 | Mrs Seo had the small room off the long one laid for two. |
+| 59 | b1ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
+| 1 | b1ch28:236 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
+| 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
+| 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
+| 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
+| 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
+| 51 | b2ch01:60 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
+| 51 | b2ch01:130 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
+| 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
+| 7 | b2ch07:74 | Mrs Seo met him in the hall at ten past two, which she does not. |
+| 9 | b2ch08:52 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
+| 9 | b2ch08:304 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
+| 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
+| 1 | b2ch11:148 | He went to find Mrs Seo about the train and did not have to ask her anything. |
+| 11 | b2ch19:36 | Mrs Seo left the envelope on the table outside his room on the Wednesday night without b.. |
+| 11 | b2ch20:330 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
+| 11 | b2ch20:334 | "He said something to you on an expressway on the fourteenth of April about a yard in Gi.. |
+| 26 | b2ch24:94 | At twenty to three on the Tuesday afternoon the telephone in the small room rang, which .. |
+| 26 | b2ch24:106 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
+| 26 | b2ch24:246 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
+| 46 | b2ch34:186 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
+| 46 | b2ch34:192 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
+| 47 | b2ch35:360 | Mrs Seo passed with a tray and did not stop. |
+| 57 | b2ch37:200 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
+| 57 | b2ch37:210 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
+| 11 | b2ch45:164 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
+| 5 | b2ch46:164 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
+| 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
+| 10 | b2ch47:22 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
+| 3 | b2ch51:6 | The second delivery came on the Thursday, at the same hour as the first, to the same gat.. |
+| 3 | b2ch51:226 | Mrs Seo put the second twelve stems in water beside the first twelve, without being told.. |
+| 10 | b2ch54:62 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
+| 10 | b2ch54:246 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
+| 10 | b2ch54:338 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
+| 21 | b2ch57:302 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
+| 21 | b2ch57:308 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
+| 22 | b2ch58:46 | Mrs Seo caught him at ten past seven with the coffee already poured, which is not a cour.. |
+| 22 | b2ch58:56 | "I would not." Mrs Seo looked at him properly for about a second. "There's a plate for y.. |
+| 22 | b2ch59:244 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
+| 25 | b2ch60:10 | Mrs Seo did not mention it and did not need to. |
+| 25 | b2ch60:258 | Mrs Seo brought it through rather than calling him, which she has done twice in nine mon.. |
+| 27 | b2ch61:10 | Mrs Seo had the door open before he was out of it. |
+| 27 | b2ch61:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
+| 27 | b2ch61:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
+| 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
+| 27 | b2ch62:288 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
+| 37 | b2ch66:144 | He sat with that from about seven until Mrs Seo came past at twenty to eight and told hi.. |
+| 44 | b2ch69:14 | Mrs Seo found him in the small room at half past eight on the Wednesday with the folder .. |
+| 44 | b2ch69:258 | "It is the only thing worth giving." She straightened up. "You are going to eat somethin.. |
+| 44 | b2ch69:262 | He ate at the long table in the kitchen with the staff at half past nine, which Mrs Seo .. |
+| 49 | b2ch72:78 | At about eleven Mrs Seo came through with a message that had come in on the house line a.. |
+| 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
+| 56 | b2ch76:18 | Mrs Seo took them in her own handbag and posted them from four different places over abo.. |
+| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
+| 9 | b2ch87:8 | Mrs Seo put food outside the door at eight and at one. She took the first tray away unto.. |
+| 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
+| 8 | b2ch89:18 | The room she is going into is on the ground floor at the back, because of the stairs. Mr.. |
+| 8 | b2ch89:36 | Mrs Seo went and got a roll and put it against the door before anybody else in the room .. |
+| 13 | b2ch89:52 | It was at about eleven in the morning and it was to Georgij. He had been in that part of.. |
+
+### Zahlen in der Naehe von Mrs Seo
+
+- `b1ch03:44` (Tag 1) - one, seven, two
+- `b1ch03:56` (Tag 1) - four
+- `b1ch03:150` (Tag 1) - forty
+- `b1ch03:166` (Tag 1) - one, three, two
+- `b1ch04:20` (Tag 2) - five, seven
+- `b1ch04:62` (Tag 2) - one
+- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
+- `b1ch05:146` (Tag 6) - nine, one
+- `b1ch05:196` (Tag 9) - nine, seven
+- `b1ch05:198` (Tag 9) - eight, two
+- `b1ch06:6` (Tag 22) - nine
+- `b1ch06:18` (Tag 22) - seven, six
+- `b1ch06:160` (Tag 22) - six, twenty
+- `b1ch06:166` (Tag 22) - nine
+- `b1ch12:8` (Tag 23) - four, nine
+- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
+- `b1ch15:22` (Tag 41) - one, three
+- `b1ch20:16` (Tag 49) - nine
+- `b1ch21:12` (Tag 49) - six
+- `b1ch22:38` (Tag 55) - two
+- `b1ch22:280` (Tag 55) - eleven
+- `b1ch24:46` (Tag 55) - eight, one
+- `b1ch24:366` (Tag 55) - one, two
+- `b1ch25:8` (Tag 59) - one, two
+- `b1ch28:236` (Tag 1) - one
+- `b1ch31:68` (Tag 74) - one, three
+- `b1ch33:422` (Tag 7) - six
+- `b2ch01:16` (Tag 51) - seven
+- `b2ch01:60` (Tag 51) - nine, one, six
+- `b2ch01:130` (Tag 51) - three, two
+- `b2ch07:74` (Tag 7) - ten, two
+- `b2ch08:52` (Tag 9) - nine
+- `b2ch08:304` (Tag 9) - two
+- `b2ch20:330` (Tag 11) - four, one
+- `b2ch24:94` (Tag 26) - six, three, twenty
+- `b2ch24:106` (Tag 26) - nine
+- `b2ch24:246` (Tag 26) - nine
+- `b2ch37:200` (Tag 57) - nine, one
+- `b2ch45:164` (Tag 11) - nine
+- `b2ch47:6` (Tag 10) - nine, ten
+- `b2ch47:22` (Tag 10) - nineteen
+- `b2ch51:6` (Tag 3) - twelve
+- `b2ch51:226` (Tag 3) - twelve
+- `b2ch54:62` (Tag 10) - nine, ten
+- `b2ch54:246` (Tag 10) - nine, ten
+- `b2ch54:338` (Tag 10) - nine, ten
+- `b2ch58:46` (Tag 22) - seven, ten
+- `b2ch58:56` (Tag 22) - nine, six
+- `b2ch59:244` (Tag 22) - nine, one, six
+- `b2ch60:258` (Tag 25) - nine
+- `b2ch61:14` (Tag 27) - nine, one
+- `b2ch61:36` (Tag 27) - seventy-eight
+- `b2ch62:18` (Tag 27) - six, ten
+- `b2ch66:144` (Tag 37) - eight, forty, seven, twenty
+- `b2ch69:14` (Tag 44) - eight
+- `b2ch69:262` (Tag 44) - nine, ninety
+- `b2ch72:78` (Tag 49) - eleven, ten, twenty
+- `b2ch75:394` (Tag 53) - four, twenty-six
+- `b2ch76:18` (Tag 56) - five, four
+- `b2ch87:8` (Tag 9) - eight, one
+- `b2ch89:12` (Tag 8) - one
+- `b2ch89:52` (Tag 13) - eleven, four
+
+---
+
 ## Mr Ahn
 
 102 Nennungen in 13 Kapiteln.
@@ -3254,177 +3441,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Mrs Seo
-
-99 Nennungen in 47 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 1 | b1ch03:34 | "I am Mrs Seo. I run the house." |
-| 1 | b1ch03:44 | In the car Annie had said he would eat what she ate. Mrs Seo had just put him in the kit.. |
-| 1 | b1ch03:52 | Mrs Seo looked at him for a moment. |
-| 1 | b1ch03:56 | "Of course. Forgive me." He let it go where she had put it, and did not go back for it. .. |
-| 1 | b1ch03:76 | "At night. Mrs Seo sleeps behind the kitchen and I'm above it." The relief of being aske.. |
-| 1 | b1ch03:150 | "Bae." He didn't offer anything with it. He looked past Georgij into the kitchen, and th.. |
-| 1 | b1ch03:164 | "Mrs Seo." A beat. "Nobody else has said anything. There isn't anybody else to say anyth.. |
-| 1 | b1ch03:166 | "Then that will do." Georgij put his hands in his pockets, which took him out of the doo.. |
-| 1 | b1ch03:246 | "I asked Mrs Seo downstairs whether anybody had called an ambulance," Georgij said. "She.. |
-| 1 | b1ch03:282 | She did not tell him to go to bed, or to stay away from the kitchen door, or to be anywh.. |
-| 2 | b1ch04:20 | He went down at five to seven, because Mrs Seo had said seven. |
-| 2 | b1ch04:34 | She looked at Mrs Seo, who did not look up from the stove. |
-| 2 | b1ch04:36 | "Anywhere at that end," Mrs Seo said. |
-| 2 | b1ch04:40 | In the car Annie had told him he would eat what she ate. He had thought about that for a.. |
-| 2 | b1ch04:58 | "Good morning, ma'am," said Mrs Seo, after a pause of about half a second that Georgij w.. |
-| 2 | b1ch04:62 | Ji-won put the plates down and then had to be told twice where the second one went. Mrs .. |
-| 2 | b1ch04:70 | "Ji-won," said Mrs Seo. "The stairs." |
-| 2 | b1ch04:74 | Mrs Seo wiped the same part of the counter twice. Then she said, without turning round a.. |
-| 4 | b1ch05:130 | That evening Mrs Seo sent a fresh pot down to the small office off the garage passage wi.. |
-| 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
-| 6 | b1ch05:146 | Breakfast was the one place the money did not show, and only because Mrs Seo had taken t.. |
-| 9 | b1ch05:196 | Mrs Seo's tray went up at seven as it had for nine years, and a place was laid at the en.. |
-| 9 | b1ch05:198 | Nobody had said a word about any of it. Annie had made her point in front of the whole s.. |
-| 22 | b1ch06:6 | The envelope came at nine in the morning by a courier who did not ask anybody to sign fo.. |
-| 22 | b1ch06:18 | "The car is at seven," Annie said. "You'll come down at half past six and let Mrs Seo lo.. |
-| 22 | b1ch06:160 | At six he shaved, and at twenty past he dressed, and at half past he went down and let M.. |
-| 22 | b1ch06:166 | "Nine years," Mrs Seo said, "and she has never once taken anybody into a room like that .. |
-| 22 | b1ch06:170 | Mrs Seo stepped back. |
-| 22 | b1ch06:174 | "Yes, Mrs Seo." |
-| 22 | b1ch11:280 | Mrs Seo had left the hall light on and gone to bed. |
-| 23 | b1ch12:8 | Mrs Seo put a plate in front of him and took the tray up at four minutes past, the way s.. |
-| 27 | b1ch13:10 | Mrs Seo said good morning without turning round and went on with the eggs, and the whole.. |
-| 27 | b1ch13:32 | He said it entirely pleasantly, and sat back down at the end of the long table, and Mrs .. |
-| 34 | b1ch14:206 | "If she comes to this house, thirty people know that Hana had dinner here. Mrs Seo, who .. |
-| 41 | b1ch15:22 | They ate in the small room off the long one. Mrs Seo had laid it for three without being.. |
-| 46 | b1ch17:208 | The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it always w.. |
-| 49 | b1ch20:16 | "Mrs Seo says the gardeners are coming at nine and it will be loud." Ji-won shrugged. "S.. |
-| 49 | b1ch21:12 | "I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." .. |
-| 55 | b1ch22:32 | Mrs Seo took his coat. Jang was at the inner door and did the thing Jang did, which was .. |
-| 55 | b1ch22:38 | Then he went through to the long room, and Annie stood up, and the two of them were in t.. |
-| 55 | b1ch22:156 | Mrs Seo took the glasses. Jang came in from the inner door, looked at the room once, and.. |
-| 55 | b1ch22:280 | There was the corner by the garages, where the camera on the drive turns away for eleven.. |
-| 55 | b1ch24:46 | "Mrs Seo puts the hall lamp on and leaves the passage one off, and nobody told her to do.. |
-| 55 | b1ch24:366 | Mrs Seo had the small room off the long one laid for two. |
-| 59 | b1ch25:8 | He worked. She worked. Mrs Seo laid breakfast for one at the usual hour and for two on t.. |
-| 1 | b1ch28:236 | He put them in the fire in the small room off the long one, because Mrs Seo lays that fi.. |
-| 74 | b1ch31:68 | Nobody had told Mrs Seo to do that in the second week of October and nobody has told her.. |
-| 74 | b1ch31:72 | Mrs Seo lays that fire on Saturdays. It was Tuesday. |
-| 7 | b1ch33:422 | Mrs Seo came in at six and made up the fire, which she does not do on a Monday, and nobo.. |
-| 51 | b2ch01:16 | Mrs Seo's tray went up at seven, the way it has gone up at seven since October. |
-| 51 | b2ch01:60 | "Then I will give one to Mrs Seo." Annie sat back. "Nine years in this house. She runs t.. |
-| 51 | b2ch01:130 | Mrs Seo put it on the desk in the small room with three other things. It lay there until.. |
-| 56 | b2ch03:46 | He did it at the desk in his own room, which has a window on the east side and a lamp th.. |
-| 7 | b2ch07:74 | Mrs Seo met him in the hall at ten past two, which she does not. |
-| 9 | b2ch08:52 | He went to find Mrs Seo at about nine and asked her how a person gets to Ulsan. |
-| 9 | b2ch08:304 | He wrote that down on the back of the card Mrs Seo had put in the envelope. It was the m.. |
-| 1 | b2ch11:22 | The letter came on the Wednesday morning with the ordinary post and Mrs Seo brought it u.. |
-| 1 | b2ch11:148 | He went to find Mrs Seo about the train and did not have to ask her anything. |
-| 11 | b2ch19:36 | Mrs Seo left the envelope on the table outside his room on the Wednesday night without b.. |
-| 11 | b2ch20:330 | "You have not slept properly since the eighteenth of March, and neither has anybody in t.. |
-| 11 | b2ch20:334 | "He said something to you on an expressway on the fourteenth of April about a yard in Gi.. |
-| 26 | b2ch24:94 | At twenty to three on the Tuesday afternoon the telephone in the small room rang, which .. |
-| 26 | b2ch24:106 | "He gave a name and a company and both of them are real, because I asked him to spell th.. |
-| 26 | b2ch24:246 | "He telephoned this house and asked for me by name and did not ask for you, and Mrs Seo .. |
-| 46 | b2ch34:186 | Mrs Seo came in with coffee he had not asked for and put it down without comment. It is .. |
-| 46 | b2ch34:192 | "Good," said Mrs Seo. "It is easier to run a house for people who do not tell me things .. |
-| 47 | b2ch35:360 | Mrs Seo passed with a tray and did not stop. |
-| 57 | b2ch37:200 | Mrs Seo brought the post in at nine and put one envelope apart from the rest, on the cor.. |
-| 57 | b2ch37:210 | "Yes," said Mrs Seo. "It is also a Monday, if that means anything to you." |
-| 11 | b2ch45:164 | He brought it up to her at nine, and she had the door open before he reached it, which m.. |
-| 5 | b2ch46:164 | Annie had the door of the small room open when he got back, which meant Mrs Seo had told.. |
-| 10 | b2ch47:6 | Mrs Seo brought them into the small room at ten past nine in the morning, holding them s.. |
-| 10 | b2ch47:22 | "That they were for the house." Mrs Seo did not put them down. "He was a delivery boy on.. |
-| 3 | b2ch51:6 | The second delivery came on the Thursday, at the same hour as the first, to the same gat.. |
-| 3 | b2ch51:226 | Mrs Seo put the second twelve stems in water beside the first twelve, without being told.. |
-| 10 | b2ch54:62 | He asked Mrs Seo for the key at ten past nine and she gave it to him without asking why,.. |
-| 10 | b2ch54:246 | "I have never opened that drawer, and I opened it at ten past nine this morning. Mrs Seo.. |
-| 10 | b2ch54:338 | *Mrs Seo, since ten past nine this morning, and she is not on this page because she foun.. |
-| 21 | b2ch57:302 | Mrs Seo met him in the hall with the look she uses when something has been left where he.. |
-| 21 | b2ch57:308 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
-| 22 | b2ch58:46 | Mrs Seo caught him at ten past seven with the coffee already poured, which is not a cour.. |
-| 22 | b2ch58:56 | "I would not." Mrs Seo looked at him properly for about a second. "There's a plate for y.. |
-| 22 | b2ch59:244 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
-| 25 | b2ch60:10 | Mrs Seo did not mention it and did not need to. |
-| 25 | b2ch60:258 | Mrs Seo brought it through rather than calling him, which she has done twice in nine mon.. |
-| 27 | b2ch61:10 | Mrs Seo had the door open before he was out of it. |
-| 27 | b2ch61:14 | "You are Mrs Seo and you have run this house for nine years," said Woo. "I have been in .. |
-| 27 | b2ch61:36 | "It sounds like a man being careful with somebody," she said. "The small room is on the .. |
-| 27 | b2ch62:18 | At ten past six Mrs Seo put her head round the door. |
-| 27 | b2ch62:288 | "Go and eat something," she said. "Mrs Seo has held it once and she does not hold anythi.. |
-| 37 | b2ch66:144 | He sat with that from about seven until Mrs Seo came past at twenty to eight and told hi.. |
-| 44 | b2ch69:14 | Mrs Seo found him in the small room at half past eight on the Wednesday with the folder .. |
-| 44 | b2ch69:258 | "It is the only thing worth giving." She straightened up. "You are going to eat somethin.. |
-| 44 | b2ch69:262 | He ate at the long table in the kitchen with the staff at half past nine, which Mrs Seo .. |
-| 49 | b2ch72:78 | At about eleven Mrs Seo came through with a message that had come in on the house line a.. |
-| 53 | b2ch75:394 | "About four months of my life if it goes wrong, and I have been avoiding writing somethi.. |
-| 56 | b2ch76:18 | Mrs Seo took them in her own handbag and posted them from four different places over abo.. |
-| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
-| 9 | b2ch87:8 | Mrs Seo put food outside the door at eight and at one. She took the first tray away unto.. |
-
-### Zahlen in der Naehe von Mrs Seo
-
-- `b1ch03:44` (Tag 1) - one, seven, two
-- `b1ch03:56` (Tag 1) - four
-- `b1ch03:150` (Tag 1) - forty
-- `b1ch03:166` (Tag 1) - one, three, two
-- `b1ch04:20` (Tag 2) - five, seven
-- `b1ch04:62` (Tag 2) - one
-- `b1ch05:144` (Tag 6) - eight, eleven, four, nine, six, ten, three, two, two and two
-- `b1ch05:146` (Tag 6) - nine, one
-- `b1ch05:196` (Tag 9) - nine, seven
-- `b1ch05:198` (Tag 9) - eight, two
-- `b1ch06:6` (Tag 22) - nine
-- `b1ch06:18` (Tag 22) - seven, six
-- `b1ch06:160` (Tag 22) - six, twenty
-- `b1ch06:166` (Tag 22) - nine
-- `b1ch12:8` (Tag 23) - four, nine
-- `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
-- `b1ch15:22` (Tag 41) - one, three
-- `b1ch20:16` (Tag 49) - nine
-- `b1ch21:12` (Tag 49) - six
-- `b1ch22:38` (Tag 55) - two
-- `b1ch22:280` (Tag 55) - eleven
-- `b1ch24:46` (Tag 55) - eight, one
-- `b1ch24:366` (Tag 55) - one, two
-- `b1ch25:8` (Tag 59) - one, two
-- `b1ch28:236` (Tag 1) - one
-- `b1ch31:68` (Tag 74) - one, three
-- `b1ch33:422` (Tag 7) - six
-- `b2ch01:16` (Tag 51) - seven
-- `b2ch01:60` (Tag 51) - nine, one, six
-- `b2ch01:130` (Tag 51) - three, two
-- `b2ch07:74` (Tag 7) - ten, two
-- `b2ch08:52` (Tag 9) - nine
-- `b2ch08:304` (Tag 9) - two
-- `b2ch20:330` (Tag 11) - four, one
-- `b2ch24:94` (Tag 26) - six, three, twenty
-- `b2ch24:106` (Tag 26) - nine
-- `b2ch24:246` (Tag 26) - nine
-- `b2ch37:200` (Tag 57) - nine, one
-- `b2ch45:164` (Tag 11) - nine
-- `b2ch47:6` (Tag 10) - nine, ten
-- `b2ch47:22` (Tag 10) - nineteen
-- `b2ch51:6` (Tag 3) - twelve
-- `b2ch51:226` (Tag 3) - twelve
-- `b2ch54:62` (Tag 10) - nine, ten
-- `b2ch54:246` (Tag 10) - nine, ten
-- `b2ch54:338` (Tag 10) - nine, ten
-- `b2ch58:46` (Tag 22) - seven, ten
-- `b2ch58:56` (Tag 22) - nine, six
-- `b2ch59:244` (Tag 22) - nine, one, six
-- `b2ch60:258` (Tag 25) - nine
-- `b2ch61:14` (Tag 27) - nine, one
-- `b2ch61:36` (Tag 27) - seventy-eight
-- `b2ch62:18` (Tag 27) - six, ten
-- `b2ch66:144` (Tag 37) - eight, forty, seven, twenty
-- `b2ch69:14` (Tag 44) - eight
-- `b2ch69:262` (Tag 44) - nine, ninety
-- `b2ch72:78` (Tag 49) - eleven, ten, twenty
-- `b2ch75:394` (Tag 53) - four, twenty-six
-- `b2ch76:18` (Tag 56) - five, four
-- `b2ch87:8` (Tag 9) - eight, one
-
----
-
 ## Mr Yeo
 
 56 Nennungen in 10 Kapiteln.
@@ -3518,6 +3534,105 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Mrs Sunwoo
+
+56 Nennungen in 18 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
+| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
+| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
+| 60 | b2ch05:30 | "Sunwoo," said Annie. |
+| 9 | b2ch09:186 | "Sunwoo." |
+| 9 | b2ch09:188 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
+| 9 | b2ch09:252 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
+| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
+| 3 | b2ch10:68 | Mrs Sunwoo did not move. |
+| 3 | b2ch10:78 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
+| 3 | b2ch10:94 | "Forty-one years," said Mrs Sunwoo. |
+| 3 | b2ch10:108 | Mrs Sunwoo looked at the closed catalogue. |
+| 3 | b2ch10:128 | Mrs Sunwoo did not say anything for a moment. |
+| 3 | b2ch10:164 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
+| 3 | b2ch10:194 | Mrs Sunwoo picked up the bell and did not ring it. |
+| 3 | b2ch10:242 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
+| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
+| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
+| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
+| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
+| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
+| 11 | b2ch20:30 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
+| 17 | b2ch22:50 | "One of them was Mrs Sunwoo." |
+| 17 | b2ch22:88 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
+| 17 | b2ch22:114 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
+| 17 | b2ch22:224 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
+| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
+| 24 | b2ch23:32 | Mrs Sunwoo sat very still. |
+| 24 | b2ch23:58 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
+| 24 | b2ch23:78 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
+| 24 | b2ch23:92 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
+| 24 | b2ch23:104 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
+| 38 | b2ch26:160 | Woo. Sunwoo. Choi Dae-ho. |
+| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
+| 16 | b2ch55:62 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
+| 36 | b2ch65:8 | "Five months," said Mrs Sunwoo. |
+| 36 | b2ch65:26 | Mrs Sunwoo did not move at all. |
+| 36 | b2ch65:36 | "Then say the part you came for," said Mrs Sunwoo. |
+| 36 | b2ch65:50 | Mrs Sunwoo sat with that for a while. |
+| 36 | b2ch65:66 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
+| 36 | b2ch65:82 | "Now my turn," said Mrs Sunwoo. |
+| 36 | b2ch65:110 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
+| 36 | b2ch65:132 | "There was no story," said Mrs Sunwoo. |
+| 36 | b2ch65:148 | "All four, and two of them were women who have never changed a subject in their lives." .. |
+| 36 | b2ch65:188 | Mrs Sunwoo looked at him for a long moment. |
+| 36 | b2ch65:210 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
+| 37 | b2ch66:34 | Her father's firm made fittings for ships and sold up in the nineties. Her mother was at.. |
+| 37 | b2ch66:54 | Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at .. |
+| 37 | b2ch66:62 | They were withdrawn in the second week of March, by a card. It gave no reason and did no.. |
+| 37 | b2ch66:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
+| 37 | b2ch66:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
+| 37 | b2ch66:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
+| 15 | b2ch89:134 | He went to Seodaemun on the Thursday and told Mrs Sunwoo the whole of it, which he promi.. |
+| 15 | b2ch89:138 | Mrs Sunwoo is eighty-one and she listened to the whole of it with her hands on the arms .. |
+| 15 | b2ch89:144 | "No," said Mrs Sunwoo. "There is not, and I have been waiting for it for fifty minutes, .. |
+| 15 | b2ch89:204 | *Mrs Ha wanted to be asked after. Mrs Sunwoo wanted somebody to come back afterwards. Si.. |
+
+### Zahlen in der Naehe von Mrs Sunwoo
+
+- `b1ch07:192` (Tag 22) - ten
+- `b1ch07:274` (Tag 22) - forty, one
+- `b1ch07:292` (Tag 22) - twelve
+- `b2ch09:188` (Tag 9) - eighty-one, one, three
+- `b2ch10:52` (Tag 3) - eighty-one
+- `b2ch10:78` (Tag 3) - one
+- `b2ch10:94` (Tag 3) - forty-one
+- `b2ch10:164` (Tag 3) - one
+- `b2ch10:242` (Tag 3) - one
+- `b2ch15:38` (Tag 4) - one
+- `b2ch16:12` (Tag 6) - twenty
+- `b2ch19:32` (Tag 11) - three
+- `b2ch20:30` (Tag 11) - three
+- `b2ch22:50` (Tag 17) - one
+- `b2ch22:88` (Tag 17) - four, one
+- `b2ch22:114` (Tag 17) - eleven
+- `b2ch22:224` (Tag 17) - eighty-one, one, three
+- `b2ch23:78` (Tag 24) - three
+- `b2ch23:104` (Tag 24) - four, two
+- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
+- `b2ch55:62` (Tag 16) - forty
+- `b2ch65:8` (Tag 36) - five
+- `b2ch65:148` (Tag 36) - forty-one, four, one, two
+- `b2ch66:34` (Tag 37) - thirty
+- `b2ch66:54` (Tag 37) - eleven, one
+- `b2ch66:62` (Tag 37) - eleven
+- `b2ch66:96` (Tag 37) - nine
+- `b2ch66:112` (Tag 37) - nine, twenty
+- `b2ch89:134` (Tag 15) - fifty, one
+- `b2ch89:138` (Tag 15) - eighty-one
+- `b2ch89:144` (Tag 15) - fifty
+
+---
+
 ## Mr Yeom
 
 52 Nennungen in 8 Kapiteln.
@@ -3600,98 +3715,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-
----
-
-## Mrs Sunwoo
-
-52 Nennungen in 17 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 22 | b1ch07:192 | The lady by the pillar was called Mrs Sunwoo and she came at him from the left at the te.. |
-| 22 | b1ch07:274 | "Chairman Woo, who you have already met, and who will invite you to Yeongjong and then b.. |
-| 22 | b1ch07:292 | Woo was on the twelve. Sunwoo was the lady by the pillar and had been on the list since .. |
-| 60 | b2ch05:30 | "Sunwoo," said Annie. |
-| 9 | b2ch09:186 | "Sunwoo." |
-| 9 | b2ch09:188 | "Mrs Sunwoo. Eighty-one, careful since before either of us was born, and on that list. S.. |
-| 9 | b2ch09:252 | "I want the paper in the drawer extended," said Georgij, "and I want Mrs Sunwoo added to.. |
-| 3 | b2ch10:52 | Mrs Sunwoo is eighty-one and stands up when somebody comes into a room, still, and made .. |
-| 3 | b2ch10:68 | Mrs Sunwoo did not move. |
-| 3 | b2ch10:78 | Then she rang a bell that is on the table, an actual bell, and the woman from the gate c.. |
-| 3 | b2ch10:94 | "Forty-one years," said Mrs Sunwoo. |
-| 3 | b2ch10:108 | Mrs Sunwoo looked at the closed catalogue. |
-| 3 | b2ch10:128 | Mrs Sunwoo did not say anything for a moment. |
-| 3 | b2ch10:164 | For the first time, Mrs Sunwoo smiled at him, and it was not the ballroom one. |
-| 3 | b2ch10:194 | Mrs Sunwoo picked up the bell and did not ring it. |
-| 3 | b2ch10:242 | She listened to the end and then asked one question, which was not about Mrs Sunwoo. |
-| 1 | b2ch11:14 | Mrs Sunwoo had lunch twice in the last week of March. |
-| 3 | b2ch12:8 | Mrs Sunwoo is having lunch with people and does not need him. Cargo is moving on a lane .. |
-| 4 | b2ch15:38 | Of the rest, one is Annie. One is Mrs Sunwoo. One is a woman in Daegu who has bought por.. |
-| 6 | b2ch16:12 | Mrs Sunwoo has had a dozen lunches since the twenty-fourth of March. |
-| 11 | b2ch19:32 | Mrs Sunwoo has three more lunches in the diary for May. |
-| 11 | b2ch20:30 | The house on the river closed to the public yesterday. Mrs Sunwoo has three more lunches.. |
-| 17 | b2ch22:50 | "One of them was Mrs Sunwoo." |
-| 17 | b2ch22:88 | "The four buyers are going to be told." He did not raise his voice at any point. "By nam.. |
-| 17 | b2ch22:114 | "You cannot do that. I live here. My daughter-in-law's family is in this building." He h.. |
-| 17 | b2ch22:224 | "Mrs Sunwoo paid you to take an evening out of a book three years ago, and she has carri.. |
-| 24 | b2ch23:22 | Mrs Sunwoo received him in the same room, at the same time of day, with the same lamp on. |
-| 24 | b2ch23:32 | Mrs Sunwoo sat very still. |
-| 24 | b2ch23:58 | "That is exactly what you said in March," said Mrs Sunwoo, "and it was true in March as .. |
-| 24 | b2ch23:78 | Mrs Sunwoo wrote three names in the diary in a hand that has not changed since 1971. |
-| 24 | b2ch23:92 | He told Annie on the Thursday, in the small room, standing, in the same form he had used.. |
-| 24 | b2ch23:104 | "Because you are two of the four," said Georgij. "October and February. If I tell Mrs Su.. |
-| 38 | b2ch26:160 | Woo. Sunwoo. Choi Dae-ho. |
-| 10 | b2ch54:42 | Mrs Sunwoo told him about the series in October, in a ballroom, without any idea what sh.. |
-| 16 | b2ch55:62 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
-| 36 | b2ch65:8 | "Five months," said Mrs Sunwoo. |
-| 36 | b2ch65:26 | Mrs Sunwoo did not move at all. |
-| 36 | b2ch65:36 | "Then say the part you came for," said Mrs Sunwoo. |
-| 36 | b2ch65:50 | Mrs Sunwoo sat with that for a while. |
-| 36 | b2ch65:66 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
-| 36 | b2ch65:82 | "Now my turn," said Mrs Sunwoo. |
-| 36 | b2ch65:110 | Mrs Sunwoo went perfectly still, in the way of a person who has just heard the thing the.. |
-| 36 | b2ch65:132 | "There was no story," said Mrs Sunwoo. |
-| 36 | b2ch65:148 | "All four, and two of them were women who have never changed a subject in their lives." .. |
-| 36 | b2ch65:188 | Mrs Sunwoo looked at him for a long moment. |
-| 36 | b2ch65:210 | "I have not said it to a living soul and I am not going to." Mrs Sunwoo put her hand fla.. |
-| 37 | b2ch66:34 | Her father's firm made fittings for ships and sold up in the nineties. Her mother was at.. |
-| 37 | b2ch66:54 | Eleven tables. Mrs Sunwoo has the number because she was asked whether she would sit at .. |
-| 37 | b2ch66:62 | They were withdrawn in the second week of March, by a card. It gave no reason and did no.. |
-| 37 | b2ch66:88 | The first was a man of her own age who has since died, and who changed the subject by lo.. |
-| 37 | b2ch66:96 | *She was at the fitting. Mrs Sunwoo has written the word fitting and then written it aga.. |
-| 37 | b2ch66:112 | Mrs Sunwoo did not know that when she wrote the pages, because the pages are nine years .. |
-
-### Zahlen in der Naehe von Mrs Sunwoo
-
-- `b1ch07:192` (Tag 22) - ten
-- `b1ch07:274` (Tag 22) - forty, one
-- `b1ch07:292` (Tag 22) - twelve
-- `b2ch09:188` (Tag 9) - eighty-one, one, three
-- `b2ch10:52` (Tag 3) - eighty-one
-- `b2ch10:78` (Tag 3) - one
-- `b2ch10:94` (Tag 3) - forty-one
-- `b2ch10:164` (Tag 3) - one
-- `b2ch10:242` (Tag 3) - one
-- `b2ch15:38` (Tag 4) - one
-- `b2ch16:12` (Tag 6) - twenty
-- `b2ch19:32` (Tag 11) - three
-- `b2ch20:30` (Tag 11) - three
-- `b2ch22:50` (Tag 17) - one
-- `b2ch22:88` (Tag 17) - four, one
-- `b2ch22:114` (Tag 17) - eleven
-- `b2ch22:224` (Tag 17) - eighty-one, one, three
-- `b2ch23:78` (Tag 24) - three
-- `b2ch23:104` (Tag 24) - four, two
-- `b2ch54:42` (Tag 10) - four, nineteen, one, thirty
-- `b2ch55:62` (Tag 16) - forty
-- `b2ch65:8` (Tag 36) - five
-- `b2ch65:148` (Tag 36) - forty-one, four, one, two
-- `b2ch66:34` (Tag 37) - thirty
-- `b2ch66:54` (Tag 37) - eleven, one
-- `b2ch66:62` (Tag 37) - eleven
-- `b2ch66:96` (Tag 37) - nine
-- `b2ch66:112` (Tag 37) - nine, twenty
 
 ---
 
@@ -4249,6 +4272,69 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Ahn Jung-hee
+
+30 Nennungen in 15 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
+| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
+| 18 | b2ch56:100 | "Ahn Jung-hee." |
+| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
+| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
+| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
+| 22 | b2ch58:14 | *Do Kyung-ae.* |
+| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
+| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
+| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
+| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
+| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
+| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
+| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
+| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
+| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
+| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
+| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
+| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
+| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
+| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
+| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
+| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
+| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
+| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
+| 8 | b2ch89:10 | Ahn Jung-hee went with them. |
+| 8 | b2ch89:26 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
+
+### Zahlen in der Naehe von Ahn Jung-hee
+
+- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
+- `b2ch56:96` (Tag 18) - thirty-five
+- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
+- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
+- `b2ch58:176` (Tag 22) - three
+- `b2ch59:40` (Tag 22) - nine, three
+- `b2ch60:188` (Tag 25) - four
+- `b2ch60:220` (Tag 25) - four
+- `b2ch62:240` (Tag 27) - eleven, twenty-three
+- `b2ch63:58` (Tag 29) - four
+- `b2ch63:188` (Tag 29) - eleven, one
+- `b2ch64:92` (Tag 31) - four, nine, thirty-five
+- `b2ch74:340` (Tag 53) - four, one, two
+- `b2ch80:152` (Tag 4) - eleven, six
+- `b2ch81:52` (Tag 10) - four, nine, thirty-five
+- `b2ch83:82` (Tag 8) - four, thirty-five
+- `b2ch83:92` (Tag 8) - eleven, forty
+- `b2ch86:104` (Tag 8) - four, one
+- `b2ch86:114` (Tag 8) - eleven, four
+- `b2ch87:152` (Tag 10) - four
+- `b2ch89:26` (Tag 8) - two
+
+---
+
 ## Mrs Bae
 
 30 Nennungen in 8 Kapiteln.
@@ -4362,69 +4448,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
-## Ahn Jung-hee
-
-28 Nennungen in 14 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
-| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
-| 18 | b2ch56:100 | "Ahn Jung-hee." |
-| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
-| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
-| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
-| 22 | b2ch58:14 | *Do Kyung-ae.* |
-| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
-| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
-| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
-| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
-| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
-| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
-| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
-| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
-| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
-| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
-| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
-| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
-| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
-| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
-| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
-| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
-| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
-
-### Zahlen in der Naehe von Ahn Jung-hee
-
-- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
-- `b2ch56:96` (Tag 18) - thirty-five
-- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
-- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
-- `b2ch58:176` (Tag 22) - three
-- `b2ch59:40` (Tag 22) - nine, three
-- `b2ch60:188` (Tag 25) - four
-- `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-three
-- `b2ch63:58` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch64:92` (Tag 31) - four, nine, thirty-five
-- `b2ch74:340` (Tag 53) - four, one, two
-- `b2ch80:152` (Tag 4) - eleven, six
-- `b2ch81:52` (Tag 10) - four, nine, thirty-five
-- `b2ch83:82` (Tag 8) - four, thirty-five
-- `b2ch83:92` (Tag 8) - eleven, forty
-- `b2ch86:104` (Tag 8) - four, one
-- `b2ch86:114` (Tag 8) - eleven, four
-- `b2ch87:152` (Tag 10) - four
-
----
-
 ## Mrs Ha
 
-25 Nennungen in 3 Kapiteln.
+28 Nennungen in 4 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4453,6 +4479,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:262 | Mrs Ha looked at him for a long moment. |
 | 39 | b2ch67:268 | "That," said Mrs Ha, "is the only thing anybody has said to me about this that I believe." |
 | 42 | b2ch68:40 | Mrs Ha, four hundred and eleven weddings, thirty years, and the boxes to the ceiling wit.. |
+| 13 | b2ch89:86 | "Her name is Mrs Ha. She had a business in Mapo that put flowers and linen into halls, a.. |
+| 15 | b2ch89:118 | Mrs Ha heard it standing in her own doorway with a tea towel in her hand, and she made h.. |
+| 15 | b2ch89:204 | *Mrs Ha wanted to be asked after. Mrs Sunwoo wanted somebody to come back afterwards. Si.. |
 
 ### Zahlen in der Naehe von Mrs Ha
 
@@ -4467,6 +4496,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch67:220` (Tag 39) - four, one
 - `b2ch67:230` (Tag 39) - four
 - `b2ch68:40` (Tag 42) - four hundred and eleven, thirty
+- `b2ch89:86` (Tag 13) - four, nine, thirty
 
 ---
 
@@ -4676,6 +4706,43 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Moon Hae-sook
+
+16 Nennungen in 8 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 37 | b2ch66:30 | Moon Hae-sook. |
+| 37 | b2ch66:266 | *Nobody has looked at Moon Hae-sook for eleven years except the man who pays for her.* |
+| 42 | b2ch68:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
+| 42 | b2ch68:208 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
+| 53 | b2ch74:324 | "Moon Hae-sook." |
+| 4 | b2ch80:148 | "Moon Hae-sook." |
+| 4 | b2ch80:150 | "Moon Hae-sook. Say it in one sentence and use the word." |
+| 10 | b2ch81:134 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 5 | b2ch82:90 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
+| 12 | b2ch88:30 | The first is that Moon Hae-sook is in a building that is being emptied and there is no f.. |
+| 12 | b2ch88:112 | August is before the twenty-seventh. August is before the letter, before the form, befor.. |
+| 8 | b2ch89:30 | Moon Hae-sook is fifty-two. |
+| 13 | b2ch89:80 | One is still in Seoul and has everything she had and two things more, and Georgij said t.. |
+| 13 | b2ch89:88 | Moon Hae-sook looked at the wall of the kitchen garden. |
+| 13 | b2ch89:106 | "I want her told that I asked," said Moon Hae-sook. |
+| 15 | b2ch89:130 | He took it and did not open it in the stairwell, and gave it to Moon Hae-sook on the Thu.. |
+
+### Zahlen in der Naehe von Moon Hae-sook
+
+- `b2ch66:266` (Tag 37) - eleven
+- `b2ch68:208` (Tag 42) - eleven, four, one
+- `b2ch80:150` (Tag 4) - one
+- `b2ch81:134` (Tag 10) - eleven, four
+- `b2ch82:90` (Tag 5) - eleven, three
+- `b2ch88:30` (Tag 12) - one
+- `b2ch88:112` (Tag 12) - eight, twenty
+- `b2ch89:30` (Tag 8) - fifty-two
+- `b2ch89:80` (Tag 13) - one, two
+
+---
+
 ## Mrs Gwak
 
 16 Nennungen in 4 Kapiteln.
@@ -4740,36 +4807,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch39:276` (Tag 61) - four
 - `b2ch58:66` (Tag 22) - eight, one
 - `b2ch58:70` (Tag 22) - nine
-
----
-
-## Moon Hae-sook
-
-11 Nennungen in 7 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 37 | b2ch66:30 | Moon Hae-sook. |
-| 37 | b2ch66:266 | *Nobody has looked at Moon Hae-sook for eleven years except the man who pays for her.* |
-| 42 | b2ch68:44 | Moon Hae-sook coming up an outside staircase on her own on the Monday to apologise to a .. |
-| 42 | b2ch68:208 | "You did not do it to her." He did not soften it. "You went to four people and you were .. |
-| 53 | b2ch74:324 | "Moon Hae-sook." |
-| 4 | b2ch80:148 | "Moon Hae-sook." |
-| 4 | b2ch80:150 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 10 | b2ch81:134 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
-| 5 | b2ch82:90 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
-| 12 | b2ch88:30 | The first is that Moon Hae-sook is in a building that is being emptied and there is no f.. |
-| 12 | b2ch88:112 | August is before the twenty-seventh. August is before the letter, before the form, befor.. |
-
-### Zahlen in der Naehe von Moon Hae-sook
-
-- `b2ch66:266` (Tag 37) - eleven
-- `b2ch68:208` (Tag 42) - eleven, four, one
-- `b2ch80:150` (Tag 4) - one
-- `b2ch81:134` (Tag 10) - eleven, four
-- `b2ch82:90` (Tag 5) - eleven, three
-- `b2ch88:30` (Tag 12) - one
-- `b2ch88:112` (Tag 12) - eight, twenty
 
 ---
 
