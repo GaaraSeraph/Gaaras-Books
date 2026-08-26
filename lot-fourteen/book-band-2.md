@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 217.526 Woerter.
+Book Two, 82 Kapitel, 217.633 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -42,7 +42,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 32 | v1.5 | 2.352 |
 | 33 | v1.7 | 4.211 |
 | 35 | v2.10 | 3.878 |
-| 36 | v2.3 | 3.249 |
+| 36 | v2.5 | 3.288 |
 | 37 | v2.6 | 3.856 |
 | 38 | v2.7 | 2.933 |
 | 39 | v2.6 | 2.888 |
@@ -63,7 +63,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 55 | v1.3 | 2.042 |
 | 56 | v1.8 | 2.653 |
 | 57 | v1.9 | 2.942 |
-| 58 | v1.9 | 4.456 |
+| 58 | v1.11 | 4.472 |
 | 60 | v1.4 | 2.442 |
 | 61 | v1.8 | 2.338 |
 | 62 | v1.13 | 2.429 |
@@ -83,7 +83,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 77 | v1.3 | 2.317 |
 | 78 | v1.5 | 4.048 |
 | 80 | v1.2 | 2.060 |
-| 81 | v1.4 | 2.588 |
+| 81 | v1.5 | 2.640 |
 | 82 | v1.3 | 2.448 |
 | 83 | v1.2 | 2.428 |
 | 84 | v1.2 | 2.132 |
@@ -7600,7 +7600,7 @@ Georgij stood in the cooling garage a moment longer before he went in to find so
 ---
 
 # Book Two · Chapter 36: An empty table
-*Lot Fourteen* · Version 2.3 · EN
+*Lot Fourteen* · Version 2.5 · EN
 
 ## Day Two Hundred and Forty-Nine · Tuesday 9 June
 
@@ -7851,6 +7851,8 @@ There is no version of the next four weeks in which he does not leave the same t
 *Page one is what I have. Page two is what I have spent.*
 
 *I have never kept the second page before, and it was not because there was nothing on it.*
+
+He put the book away without any pleasure in it. For ten months he has been writing the way a man writes who expects to be asked one day, by somebody, for the whole of it at once.
 
 ---
 
@@ -12273,7 +12275,7 @@ He went and ate something first.
 ---
 
 # Book Two · Chapter 58: Buy her
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 ## Day Three Hundred and Nineteen · Tuesday 18 August
 
@@ -12345,9 +12347,11 @@ Georgij stood at the side of her desk and did not sit down on the floor.
 
 He went down to the small room and put the four characters on the desk in front of him and looked at them for a long time.
 
-Then he got the July folder out, and the June one, and Jang's second report, and put them in the order they had been given to him rather than the order that would have been tidy.
+Then he did the thing he has done exactly once before, at one in the morning in June, which is to open the notebook at a page that was already full.
 
-Both numbers were already there and had been since the twentieth of July, on the same page, four lines apart. He had said them out loud to Sang-hoon in the same afternoon and neither of them had put them next to each other.
+The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lines apart. He had heard both of them in the same afternoon and written them down inside the same hour, and said them out loud to Sang-hoon before the light went.
+
+They have been sitting there for four weeks with nothing between them but a rule about margins.
 
 Nine on the rota.
 
@@ -17841,7 +17845,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 81: The permanent series
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -17891,7 +17895,9 @@ He did not use any of it.
 
 * * *
 
-He gave it to him and it took eleven minutes.
+He gave it to him and it took eleven minutes, and he read most of it off the page.
+
+He has never opened that book in front of anybody. He opened it on that table, at the January pages, and went forward, and about a third of what he read out had been written down before he knew what it was for.
 
 The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four years in a house near Wonju under the name Do Kyung-ae. A brother four streets from her flat who repairs small motors and who signed. A man who telephoned that house four times a year about a shed roof and did not know what he was for until the seventh of September.
 

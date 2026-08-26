@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 317.632 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 318.297 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -306,6 +306,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was der Schnitt jeweils war](#was-der-schnitt-jeweils-war)
   - [Drei Lehren, und die dritte ist neu](#drei-lehren-und-die-dritte-ist-neu)
   - [Offen: drei Kapitel liegen über der Wortspanne](#offen-drei-kapitel-liegen-ber-der-wortspanne)
+  - [Drei Stellen, an denen das Heft jetzt arbeitet](#drei-stellen-an-denen-das-heft-jetzt-arbeitet)
+  - [Die Regel, damit es nicht wieder wächst](#die-regel-damit-es-nicht-wieder-w-chst)
+  - [Was offen bleibt, und es ist ehrlich viel](#was-offen-bleibt-und-es-ist-ehrlich-viel)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
@@ -4907,7 +4910,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *An empty table* (v2.3) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *An empty table* (v2.5) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -5756,7 +5759,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   ein Wort. Nicht von mir geaendert.
 
 
-- **Band 2, Kapitel 58** *Buy her* (v1.9) - **Tag 356, Di 18. August. Am 26.08. aus 58 und 59 zusammengelegt: der zehnte Teller am Nachmittag, und am selben Abend die fuenfte Bitte im selben Zimmer.**
+- **Band 2, Kapitel 58** *Buy her* (v1.11) - **Tag 356, Di 18. August. Am 26.08. aus 58 und 59 zusammengelegt: der zehnte Teller am Nachmittag, und am selben Abend die fuenfte Bitte im selben Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon:**
@@ -6786,7 +6789,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.4) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.5) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
@@ -13239,6 +13242,20 @@ nicht streichen, sondern **die Auskunft um eine Frage verschieben**.
    fuenfundzwanzig; die Kopfzeile und `doc/13` hatten recht.
 3. **Der Name, die Dreiteilung und das Mittagessen gehoeren in 61 und 75 und
    nirgendwo sonst.**
+
+## Das Heft wird benutzt und nicht nur gefuehrt (26.08.)
+
+**Vom Autor:** *"Wir suchen hier nach einem Mann, der nichts hinterlaesst, und
+diese Spuren zusammenzufassen ist legitim. Es fasst es fuer den Leser zusammen.
+Diese Notizen sollten aber irgendwann verwendet werden fuer die Detektivarbeit."*
+
+**Damit ist die Bilanz nicht der Fehler, die Einseitigkeit ist es.** Gemessen
+am 26.08.: 167 Ablagen, 13 Entnahmen. Dreiunddreissig Kapitel legen etwas ab,
+das nie wieder geholt wird.
+
+**Die Regel fuer alles Weitere:** jede neue Ablage braucht eine spaetere
+Entnahme. Wer eine schreibt, notiert wo. `werkzeug/heft.py` misst das
+Verhaeltnis, und es ist ab jetzt eine Zahl, die man nennen kann.
 
 ---
 
@@ -21390,6 +21407,77 @@ und bisher sind achtzig davon gefallen.
 
 ---
 
+## Auftrag 4: das Heft, angefangen am 26.08.
+
+**Gemessen mit `werkzeug/heft.py`**, das für diesen Auftrag gebaut wurde. Es
+zählt nicht, wie oft das Heft vorkommt, sondern **das Verhältnis**: wie oft
+etwas hineingelegt wird und wie oft etwas herausgeholt.
+
+| | vorher | nachher |
+|---|---|---|
+| Ablegen | 167 Stellen in 80 Kapiteln | unverändert |
+| Holen | 13 Stellen in 10 Kapiteln | **19 in 15** |
+| Verhältnis | **12,8 zu 1** | **8,8 zu 1** |
+
+Ein Teil des Gewinns ist Messung und nicht Text: der Detektor kannte nur
+*"read the notebook"* und ähnliche Verbformen. Im Buch steht das Holen öfter
+als Handlung da. **Ein Detektor, der nur seine eigenen Formulierungen findet,
+misst den Autor und nicht das Buch.**
+
+### Drei Stellen, an denen das Heft jetzt arbeitet
+
+**K58, der zehnte Teller.** Die beste Stelle des Buches dafür, weil der Fund
+dort schon darin besteht, dass zwei Zahlen vier Zeilen auseinander stehen und
+niemand sie nebeneinandergelegt hat. Bisher holte er dafür Ordner. Jetzt holt
+er das Heft:
+
+> Then he did the thing he has done exactly once before, at one in the morning
+> in June, which is to open the notebook at a page that was already full.
+>
+> The twentieth of July. Jang's rota and Jang's grocery numbers, in his own
+> hand, four lines apart. [...]
+>
+> **They have been sitting there for four weeks with nothing between them but a
+> rule about margins.**
+
+Der Verweis auf die Juninacht ist Absicht: **damit sind K33 und K58 ein Paar
+und nicht zwei Zufälle.**
+
+**K81, Mr Hwang.** Die größte Ablage des Buches - acht Stellen hinein, keine
+heraus - und dabei ist die Szene selbst der Beweis, wofür das Heft da war. Elf
+Minuten, in denen zehn Monate Notizen zu genau der Auskunft werden, die ein
+Verwalter braucht. Der Text sagt das jetzt: *"He has never opened that book in
+front of anybody. He opened it on that table, at the January pages, and went
+forward, and about a third of what he read out had been written down before he
+knew what it was for."*
+
+**K36**, der Fall, den der Inhaltsprüfer als Beleg genannt hat. Die zwei Seiten
+bleiben, weil sie das Motiv des Kapitels sind. Dazu kommt der Satz, der aus der
+Ablage einen Vorsatz macht: er schreibt seit zehn Monaten so, **wie ein Mann
+schreibt, der damit rechnet, eines Tages nach dem Ganzen auf einmal gefragt zu
+werden.**
+
+### Die Regel, damit es nicht wieder wächst
+
+**Jede neue Ablage braucht eine spätere Entnahme, und wer eine schreibt, notiert
+wo.** Ein Heft, in das nur hineingeschrieben wird, ist eine Bilanz, und eine
+Bilanz kann nicht spannend sein, egal wie gut die Zahlen sind.
+
+### Was offen bleibt, und es ist ehrlich viel
+
+**8,8 zu 1 ist besser als 12,8 und immer noch eine Bilanz.** Drei Szenen ändern
+das Verhältnis, nicht das Verfahren. Was das Buch bräuchte, sind fünf bis acht
+weitere Stellen, an denen eine Antwort schon seit Monaten in seiner eigenen
+Handschrift stand - und die lassen sich nicht mechanisch finden, weil dafür
+jemand wissen muss, was in Kapitel 61 gebraucht wird und in Kapitel 12 schon
+dastand. **Das ist Lesearbeit über den ganzen Band und der nächste große
+Auftrag.**
+
+Die Kandidaten mit der größten Ablage und ohne jede Entnahme, aus `heft.py`:
+**K66 (fünf), K81 (acht, jetzt behoben), K46, K53, K69.**
+
+---
+
 # Geänderte Regeln, zur Gegenprüfung
 
 **Stand 26.08., aus dem Stil-Durchgang.** Jede Zeile nennt Ort, alten Wortlaut,
@@ -22729,19 +22817,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch58:60 | Annie was at the desk in the small room and the page from the hall was in front of her, .. |
 | 22 | b2ch58:78 | "That is a man being frightened, and he is frightened of a room and not of a person, and.. |
 | 22 | b2ch58:90 | "Weather does not stop when you want it to." Annie looked at him then. "Every man Koh te.. |
-| 22 | b2ch58:306 | "You did not eat," said Annie. |
-| 22 | b2ch58:332 | Annie did not say anything at all. |
-| 22 | b2ch58:338 | Annie got up and went to the window and did not look out of it. |
-| 22 | b2ch58:354 | Annie turned round. |
-| 22 | b2ch58:378 | Annie waited. |
-| 22 | b2ch58:382 | "Say the mechanism," said Annie. |
-| 22 | b2ch58:420 | Annie did not move. |
-| 22 | b2ch58:428 | Annie came away from the window. |
-| 22 | b2ch58:450 | "And on the day after that," said Annie, "she will be living in a property belonging to .. |
-| 22 | b2ch58:460 | Annie was quiet for a moment. |
-| 22 | b2ch58:494 | Annie wrote one word on the pad. |
-| 22 | b2ch58:510 | Annie put the pen down. |
-| 22 | b2ch58:534 | "You have not eaten since yesterday," said Annie, above him. |
+| 22 | b2ch58:310 | "You did not eat," said Annie. |
+| 22 | b2ch58:336 | Annie did not say anything at all. |
+| 22 | b2ch58:342 | Annie got up and went to the window and did not look out of it. |
+| 22 | b2ch58:358 | Annie turned round. |
+| 22 | b2ch58:382 | Annie waited. |
+| 22 | b2ch58:386 | "Say the mechanism," said Annie. |
+| 22 | b2ch58:424 | Annie did not move. |
+| 22 | b2ch58:432 | Annie came away from the window. |
+| 22 | b2ch58:454 | "And on the day after that," said Annie, "she will be living in a property belonging to .. |
+| 22 | b2ch58:464 | Annie was quiet for a moment. |
+| 22 | b2ch58:498 | Annie wrote one word on the pad. |
+| 22 | b2ch58:514 | Annie put the pen down. |
+| 22 | b2ch58:538 | "You have not eaten since yesterday," said Annie, above him. |
 | 25 | b2ch60:20 | He had asked for none of them. Annie had said Friday on Tuesday morning and had not rais.. |
 | 25 | b2ch60:140 | He put all of it in front of Annie at seven on the Friday evening, and he did not sit do.. |
 | 25 | b2ch60:146 | "You have had three days and a hall in Jung-gu and eleven hours on a Thursday." Annie pu.. |
@@ -23129,7 +23217,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch57:312` (Tag 21) - eleven
 - `b2ch58:60` (Tag 22) - two
 - `b2ch58:78` (Tag 22) - eleven, one, two
-- `b2ch58:494` (Tag 22) - one
+- `b2ch58:498` (Tag 22) - one
 - `b2ch60:140` (Tag 25) - seven
 - `b2ch60:146` (Tag 25) - eleven, three
 - `b2ch60:168` (Tag 25) - eleven, four
@@ -23468,7 +23556,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:144 | He telephoned Sang-hoon on the Friday morning, because a man who has been told something.. |
 | 3 | b2ch51:162 | Sang-hoon did not say anything for long enough that Georgij could hear the yard behind h.. |
 | 3 | b2ch51:180 | "That is the answer I expected and I still wish it were the other one." Sang-hoon let it.. |
-| 22 | b2ch58:102 | Both numbers were already there and had been since the twentieth of July, on the same pa.. |
+| 22 | b2ch58:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -24394,7 +24482,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 2 | b2ch48:18 | Jang had said one thing more on the telephone and had made a point of saying it slowly. |
 | 2 | b2ch48:28 | "I have had three weeks and I have an answer, and it is not the one you asked me for." G.. |
 | 2 | b2ch48:52 | "That is what Jang said, in those words, and he made me repeat it back to him before he .. |
-| 22 | b2ch58:98 | Then he got the July folder out, and the June one, and Jang's second report, and put the.. |
+| 22 | b2ch58:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
 | 37 | b2ch66:244 | "Jang goes with you to Mapo and sits in the car, and I am not discussing it, and you are.. |
 | 39 | b2ch67:6 | Jang put the car where he puts cars, which is forty metres past the place and facing the.. |
 | 39 | b2ch67:12 | "If she telephones while you are in there, you will not know." Jang had both hands on th.. |
@@ -24486,7 +24574,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch48:18` (Tag 2) - one
 - `b2ch48:28` (Tag 2) - eight, eleven, one, three
 - `b2ch48:52` (Tag 2) - four, one
-- `b2ch58:98` (Tag 22) - one
+- `b2ch58:102` (Tag 22) - four
 - `b2ch67:6` (Tag 39) - forty, two
 - `b2ch67:272` (Tag 39) - eleven, twelve
 - `b2ch74:544` (Tag 53) - five
@@ -24544,9 +24632,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch52:344 | "No," said Sim. "I did not think so." |
 | 22 | b2ch58:10 | Sim wrote it in a small room at the back of a restaurant at about a quarter to eleven, w.. |
 | 22 | b2ch58:38 | *A working name. He has been given one the way Sim has been given one. That is the whole.. |
-| 22 | b2ch58:206 | She is the person Sim telephones about the heating. |
-| 22 | b2ch58:262 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
-| 22 | b2ch58:322 | A name on a piece of paper that Sim wrote out at a quarter to eleven at night, with a pe.. |
+| 22 | b2ch58:210 | She is the person Sim telephones about the heating. |
+| 22 | b2ch58:266 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
+| 22 | b2ch58:326 | A name on a piece of paper that Sim wrote out at a quarter to eleven at night, with a pe.. |
 | 25 | b2ch60:102 | *Sim has been sending flowers to that house twice a year for eleven years, in April and .. |
 | 25 | b2ch60:114 | *Somebody told Sim that October was her mother's month. That means somebody knew her mot.. |
 | 29 | b2ch63:270 | *Sim has said one true sentence to that woman every three months for four years, about h.. |
@@ -24668,8 +24756,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch52:322` (Tag 5) - thirty
 - `b2ch58:10` (Tag 22) - eleven
 - `b2ch58:38` (Tag 22) - one
-- `b2ch58:262` (Tag 22) - one
-- `b2ch58:322` (Tag 22) - eleven, three
+- `b2ch58:266` (Tag 22) - one
+- `b2ch58:326` (Tag 22) - eleven, three
 - `b2ch60:102` (Tag 25) - eleven
 - `b2ch63:270` (Tag 29) - four, one, three
 - `b2ch64:12` (Tag 31) - four, nineteen, one, three
@@ -24983,19 +25071,19 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch81:14 | "The eleventh of June," said Mr Hwang. "That was the last time you were in this building.. |
 | 10 | b2ch81:26 | "The fourth line on that page you asked about in August is a woman. She is on our books .. |
 | 10 | b2ch81:38 | "It is the rule and it is also true. I have looked for the other answer for nine weeks a.. |
-| 10 | b2ch81:60 | Mr Hwang had not moved his hand. |
-| 10 | b2ch81:68 | "I did," said Mr Hwang. |
-| 10 | b2ch81:72 | Mr Hwang looked at the sheet on his desk for a while. |
-| 10 | b2ch81:82 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
-| 10 | b2ch81:96 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
-| 10 | b2ch81:108 | "For as long as the series exists, and the series goes to an archive when this house is .. |
-| 10 | b2ch81:122 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
-| 10 | b2ch81:138 | Mr Hwang did not reach for anything. |
-| 10 | b2ch81:150 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
-| 10 | b2ch81:160 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
-| 10 | b2ch81:168 | Mr Hwang did not move at all. |
-| 10 | b2ch81:176 | "The ninth line," said Mr Hwang. |
-| 10 | b2ch81:186 | Mr Hwang put the sheet down on the desk and left his hand off it. |
+| 10 | b2ch81:62 | Mr Hwang had not moved his hand. |
+| 10 | b2ch81:70 | "I did," said Mr Hwang. |
+| 10 | b2ch81:74 | Mr Hwang looked at the sheet on his desk for a while. |
+| 10 | b2ch81:84 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
+| 10 | b2ch81:98 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
+| 10 | b2ch81:110 | "For as long as the series exists, and the series goes to an archive when this house is .. |
+| 10 | b2ch81:124 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
+| 10 | b2ch81:140 | Mr Hwang did not reach for anything. |
+| 10 | b2ch81:152 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
+| 10 | b2ch81:162 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
+| 10 | b2ch81:170 | Mr Hwang did not move at all. |
+| 10 | b2ch81:178 | "The ninth line," said Mr Hwang. |
+| 10 | b2ch81:188 | Mr Hwang put the sheet down on the desk and left his hand off it. |
 | 9 | b2ch84:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
 | 9 | b2ch84:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
 | 9 | b2ch84:32 | "He signs a form that says the house may transfer a lot he placed to a person who is buy.. |
@@ -25052,12 +25140,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch81:14` (Tag 10) - nineteen, twenty, two
 - `b2ch81:26` (Tag 10) - nine, six
 - `b2ch81:38` (Tag 10) - four, nine, one
-- `b2ch81:82` (Tag 10) - four, three
-- `b2ch81:96` (Tag 10) - fourteen
-- `b2ch81:108` (Tag 10) - nine, one
-- `b2ch81:122` (Tag 10) - four hundred and eighty-one million, two
-- `b2ch81:150` (Tag 10) - eleven
-- `b2ch81:160` (Tag 10) - one
+- `b2ch81:84` (Tag 10) - four, three
+- `b2ch81:98` (Tag 10) - fourteen
+- `b2ch81:110` (Tag 10) - nine, one
+- `b2ch81:124` (Tag 10) - four hundred and eighty-one million, two
+- `b2ch81:152` (Tag 10) - eleven
+- `b2ch81:162` (Tag 10) - one
 - `b2ch84:6` (Tag 9) - nine
 - `b2ch84:32` (Tag 9) - four, one
 - `b2ch84:40` (Tag 9) - four
@@ -25154,7 +25242,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 21 | b2ch57:308 | "She said to leave it where you would see it and not to bring it up to you," said Mrs Se.. |
 | 22 | b2ch58:46 | Mrs Seo caught him at ten past seven with the coffee already poured, which is not a cour.. |
 | 22 | b2ch58:56 | "I would not." Mrs Seo looked at him properly for about a second. "There's a plate for y.. |
-| 22 | b2ch58:538 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
+| 22 | b2ch58:542 | "Mrs Seo has a plate for you at half past six on Thursday whether you are in it or not, .. |
 | 25 | b2ch60:10 | Mrs Seo did not mention it and did not need to. |
 | 25 | b2ch60:258 | Mrs Seo brought it through rather than calling him, which she has done twice in nine mon.. |
 | 27 | b2ch61:10 | Mrs Seo had the door open before he was out of it. |
@@ -25227,7 +25315,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:338` (Tag 10) - nine, ten
 - `b2ch58:46` (Tag 22) - seven, ten
 - `b2ch58:56` (Tag 22) - nine, six
-- `b2ch58:538` (Tag 22) - nine, one, six
+- `b2ch58:542` (Tag 22) - nine, one, six
 - `b2ch60:258` (Tag 25) - nine
 - `b2ch61:14` (Tag 27) - nine, one
 - `b2ch61:36` (Tag 27) - seventy-eight
@@ -25864,8 +25952,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch50:276 | There was one more thing, and it was Baek who raised it, standing, with the case under h.. |
 | 10 | b2ch50:282 | "Then you know something I have wondered about for eleven years, and I am going to ask i.. |
 | 22 | b2ch58:66 | "And then you went to bed at one, which is the third time in eight days." She did not lo.. |
-| 22 | b2ch58:262 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
-| 22 | b2ch58:490 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
+| 22 | b2ch58:266 | Baek pays and cannot be touched until she is safe. The house can be finished and finishi.. |
+| 22 | b2ch58:494 | "Not until Baek is finished and not until the house is. If she goes first, the man in Se.. |
 | 25 | b2ch60:214 | Baek and the trust cannot be touched first, because the money is the oxygen. The house c.. |
 | 5 | b2ch82:40 | "An agent is out and he has told you that himself. A company is worse than an agent." Ba.. |
 | 5 | b2ch82:54 | "The third part is that the form requires the buyer to be a natural person who is named... |
@@ -25897,8 +25985,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch50:276` (Tag 10) - one
 - `b2ch50:282` (Tag 10) - eleven
 - `b2ch58:66` (Tag 22) - eight, one
-- `b2ch58:262` (Tag 22) - one
-- `b2ch58:490` (Tag 22) - eleven
+- `b2ch58:266` (Tag 22) - one
+- `b2ch58:494` (Tag 22) - eleven
 - `b2ch82:40` (Tag 5) - four, nine, one, two
 - `b2ch82:54` (Tag 5) - two
 - `b2ch82:60` (Tag 5) - four, sixty-three
@@ -26131,9 +26219,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
 | 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
 | 22 | b2ch58:14 | *Do Kyung-ae.* |
-| 22 | b2ch58:168 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
-| 22 | b2ch58:216 | Ahn Jung-hee runs that household. |
-| 22 | b2ch58:334 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
+| 22 | b2ch58:172 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
+| 22 | b2ch58:220 | Ahn Jung-hee runs that household. |
+| 22 | b2ch58:338 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
 | 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
 | 27 | b2ch62:232 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
@@ -26142,7 +26230,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
 | 4 | b2ch80:144 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
-| 10 | b2ch81:54 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 10 | b2ch81:56 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
 | 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
@@ -26165,8 +26253,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch56:96` (Tag 18) - thirty-five
 - `b2ch56:344` (Tag 18) - thirty-five, thirty-one
 - `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
-- `b2ch58:168` (Tag 22) - three
-- `b2ch58:334` (Tag 22) - nine, three
+- `b2ch58:172` (Tag 22) - three
+- `b2ch58:338` (Tag 22) - nine, three
 - `b2ch60:188` (Tag 25) - four
 - `b2ch60:220` (Tag 25) - four
 - `b2ch62:232` (Tag 27) - eleven, twenty-four
@@ -26175,7 +26263,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:90` (Tag 31) - four, nine, thirty-five
 - `b2ch74:340` (Tag 53) - four, one, two
 - `b2ch80:144` (Tag 4) - eleven, six
-- `b2ch81:54` (Tag 10) - four, nine, thirty-five
+- `b2ch81:56` (Tag 10) - four, nine, thirty-five
 - `b2ch83:82` (Tag 8) - four, thirty-five
 - `b2ch83:92` (Tag 8) - eleven, forty
 - `b2ch86:104` (Tag 8) - four, one
@@ -26674,7 +26762,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch74:324 | "Moon Hae-sook." |
 | 4 | b2ch80:140 | "Moon Hae-sook." |
 | 4 | b2ch80:142 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 10 | b2ch81:136 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 10 | b2ch81:138 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 5 | b2ch82:90 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 | 12 | b2ch88:30 | The first is that Moon Hae-sook is in a building that is being emptied and there is no f.. |
 | 12 | b2ch88:112 | August is before the twenty-seventh. August is before the letter, before the form, befor.. |
@@ -26689,7 +26777,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch66:266` (Tag 37) - eleven
 - `b2ch67:516` (Tag 42) - eleven, four, one
 - `b2ch80:142` (Tag 4) - one
-- `b2ch81:136` (Tag 10) - eleven, four
+- `b2ch81:138` (Tag 10) - eleven, four
 - `b2ch82:90` (Tag 5) - eleven, three
 - `b2ch88:30` (Tag 12) - one
 - `b2ch88:112` (Tag 12) - eight, twenty

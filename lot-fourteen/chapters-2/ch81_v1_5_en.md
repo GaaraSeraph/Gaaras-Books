@@ -1,5 +1,5 @@
 # Chapter 81: The permanent series
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -49,7 +49,9 @@ He did not use any of it.
 
 * * *
 
-He gave it to him and it took eleven minutes.
+He gave it to him and it took eleven minutes, and he read most of it off the page.
+
+He has never opened that book in front of anybody. He opened it on that table, at the January pages, and went forward, and about a third of what he read out had been written down before he knew what it was for.
 
 The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four years in a house near Wonju under the name Do Kyung-ae. A brother four streets from her flat who repairs small motors and who signed. A man who telephoned that house four times a year about a shed roof and did not know what he was for until the seventh of September.
 

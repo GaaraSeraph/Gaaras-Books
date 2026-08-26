@@ -86,6 +86,13 @@ Gespraechsfolgen, die sich wiederholen. **Es entscheidet nicht, ob eine
 Wiederholung schaedlich ist** - das Steinbord in Band 1 steht in fuenf Kapiteln
 und soll es. Der Befund vom 26.08. steht in `doc/15-kuerzen.md`.
 
+`heft.py` misst das Verhaeltnis, das den Choi-Strang zaeh gemacht hat: **wie oft
+wird ins Notizbuch gelegt, und wie oft wird etwas herausgeholt?** Am 26.08.
+stand es 167 zu 13. Der Leser sieht sonst ein Konto wachsen, von dem nie
+abgehoben wird, und deshalb fuehlt sich die Arbeit nutzlos an, obwohl sie es
+nicht ist. **Regel daraus: jede neue Ablage braucht eine spaetere Entnahme, und
+wer eine schreibt, notiert wo.**
+
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
 Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile

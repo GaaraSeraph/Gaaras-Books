@@ -1022,3 +1022,74 @@ Arbeitsgang: die Zusammenlegung war die Strukturentscheidung, das Straffen ist
 der zweite Durchgang. **Bei 43 nennt das Dokument selbst rund 1800 Wörter**,
 und bisher sind achtzig davon gefallen.
 
+---
+
+## Auftrag 4: das Heft, angefangen am 26.08.
+
+**Gemessen mit `werkzeug/heft.py`**, das für diesen Auftrag gebaut wurde. Es
+zählt nicht, wie oft das Heft vorkommt, sondern **das Verhältnis**: wie oft
+etwas hineingelegt wird und wie oft etwas herausgeholt.
+
+| | vorher | nachher |
+|---|---|---|
+| Ablegen | 167 Stellen in 80 Kapiteln | unverändert |
+| Holen | 13 Stellen in 10 Kapiteln | **19 in 15** |
+| Verhältnis | **12,8 zu 1** | **8,8 zu 1** |
+
+Ein Teil des Gewinns ist Messung und nicht Text: der Detektor kannte nur
+*"read the notebook"* und ähnliche Verbformen. Im Buch steht das Holen öfter
+als Handlung da. **Ein Detektor, der nur seine eigenen Formulierungen findet,
+misst den Autor und nicht das Buch.**
+
+### Drei Stellen, an denen das Heft jetzt arbeitet
+
+**K58, der zehnte Teller.** Die beste Stelle des Buches dafür, weil der Fund
+dort schon darin besteht, dass zwei Zahlen vier Zeilen auseinander stehen und
+niemand sie nebeneinandergelegt hat. Bisher holte er dafür Ordner. Jetzt holt
+er das Heft:
+
+> Then he did the thing he has done exactly once before, at one in the morning
+> in June, which is to open the notebook at a page that was already full.
+>
+> The twentieth of July. Jang's rota and Jang's grocery numbers, in his own
+> hand, four lines apart. [...]
+>
+> **They have been sitting there for four weeks with nothing between them but a
+> rule about margins.**
+
+Der Verweis auf die Juninacht ist Absicht: **damit sind K33 und K58 ein Paar
+und nicht zwei Zufälle.**
+
+**K81, Mr Hwang.** Die größte Ablage des Buches - acht Stellen hinein, keine
+heraus - und dabei ist die Szene selbst der Beweis, wofür das Heft da war. Elf
+Minuten, in denen zehn Monate Notizen zu genau der Auskunft werden, die ein
+Verwalter braucht. Der Text sagt das jetzt: *"He has never opened that book in
+front of anybody. He opened it on that table, at the January pages, and went
+forward, and about a third of what he read out had been written down before he
+knew what it was for."*
+
+**K36**, der Fall, den der Inhaltsprüfer als Beleg genannt hat. Die zwei Seiten
+bleiben, weil sie das Motiv des Kapitels sind. Dazu kommt der Satz, der aus der
+Ablage einen Vorsatz macht: er schreibt seit zehn Monaten so, **wie ein Mann
+schreibt, der damit rechnet, eines Tages nach dem Ganzen auf einmal gefragt zu
+werden.**
+
+### Die Regel, damit es nicht wieder wächst
+
+**Jede neue Ablage braucht eine spätere Entnahme, und wer eine schreibt, notiert
+wo.** Ein Heft, in das nur hineingeschrieben wird, ist eine Bilanz, und eine
+Bilanz kann nicht spannend sein, egal wie gut die Zahlen sind.
+
+### Was offen bleibt, und es ist ehrlich viel
+
+**8,8 zu 1 ist besser als 12,8 und immer noch eine Bilanz.** Drei Szenen ändern
+das Verhältnis, nicht das Verfahren. Was das Buch bräuchte, sind fünf bis acht
+weitere Stellen, an denen eine Antwort schon seit Monaten in seiner eigenen
+Handschrift stand - und die lassen sich nicht mechanisch finden, weil dafür
+jemand wissen muss, was in Kapitel 61 gebraucht wird und in Kapitel 12 schon
+dastand. **Das ist Lesearbeit über den ganzen Band und der nächste große
+Auftrag.**
+
+Die Kandidaten mit der größten Ablage und ohne jede Entnahme, aus `heft.py`:
+**K66 (fünf), K81 (acht, jetzt behoben), K46, K53, K69.**
+

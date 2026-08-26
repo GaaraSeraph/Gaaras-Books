@@ -1108,3 +1108,17 @@ nicht streichen, sondern **die Auskunft um eine Frage verschieben**.
 3. **Der Name, die Dreiteilung und das Mittagessen gehoeren in 61 und 75 und
    nirgendwo sonst.**
 
+## Das Heft wird benutzt und nicht nur gefuehrt (26.08.)
+
+**Vom Autor:** *"Wir suchen hier nach einem Mann, der nichts hinterlaesst, und
+diese Spuren zusammenzufassen ist legitim. Es fasst es fuer den Leser zusammen.
+Diese Notizen sollten aber irgendwann verwendet werden fuer die Detektivarbeit."*
+
+**Damit ist die Bilanz nicht der Fehler, die Einseitigkeit ist es.** Gemessen
+am 26.08.: 167 Ablagen, 13 Entnahmen. Dreiunddreissig Kapitel legen etwas ab,
+das nie wieder geholt wird.
+
+**Die Regel fuer alles Weitere:** jede neue Ablage braucht eine spaetere
+Entnahme. Wer eine schreibt, notiert wo. `werkzeug/heft.py` misst das
+Verhaeltnis, und es ist ab jetzt eine Zahl, die man nennen kann.
+

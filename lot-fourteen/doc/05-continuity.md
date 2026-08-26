@@ -1928,7 +1928,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Kein Fortschritt im Choi-Dae-ho-Faden selbst** - das Kapitel haelt die Vier-Tage-Frist bewusst offen und zeigt stattdessen, was das Halten kostet: eine Luege, die nicht gesagt wird, ein Sicherheitschef, der ohne Erklaerung vertraut, und ein Mann, der zum ersten Mal seit acht Monaten nicht selbst entscheidet, wann eine Tuer sich oeffnet.
 
-- **Band 2, Kapitel 36** *An empty table* (v2.3) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
+- **Band 2, Kapitel 36** *An empty table* (v2.5) - **Tag 249, Di 9. Juni. Zwei Szenen: die Bibliothek am Montagabend, ein Privatraum ueber einem Restaurant am Dienstag im Regen.**
 
   **Annies drei Ergebnisse, wortgenau gehalten:**
   1. **Einunddreissig Namen bis Sonntag, elf davon mit unerklaerten Wendepunkten.** Georgij bekommt keinen davon - Annie haelt acht lebende Betroffene bewusst zurueck: *"I am not going to hand you eight more people to feel responsible for on top of the ones you already have."*
@@ -2777,7 +2777,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   ein Wort. Nicht von mir geaendert.
 
 
-- **Band 2, Kapitel 58** *Buy her* (v1.9) - **Tag 356, Di 18. August. Am 26.08. aus 58 und 59 zusammengelegt: der zehnte Teller am Nachmittag, und am selben Abend die fuenfte Bitte im selben Zimmer.**
+- **Band 2, Kapitel 58** *Buy her* (v1.11) - **Tag 356, Di 18. August. Am 26.08. aus 58 und 59 zusammengelegt: der zehnte Teller am Nachmittag, und am selben Abend die fuenfte Bitte im selben Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon:**
@@ -3807,7 +3807,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
-- **Band 2, Kapitel 81** *The permanent series* (v1.4) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+- **Band 2, Kapitel 81** *The permanent series* (v1.5) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
