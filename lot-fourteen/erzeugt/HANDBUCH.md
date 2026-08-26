@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 286.948 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 287.396 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -15899,7 +15899,8 @@ wird.**
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 363 · "The start date will be the first of October." · B2 78, am Donnerstag. **Niemand in dem Haus weiss etwas ueber den Tag ausser dem Datum**, und Georgij telefoniert absichtlich nicht
 - [BEZAHLT] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig Tag 385 · "I will come in October." - "Say the date." - "The twenty-third." · B2 83, am Tag, mit dem ersten Zug, vierhundert Kilometer, und wieder ohne etwas
 - [BEZAHLT] **B2 71** Georgij an Mrs Jeon · gesagt Tag 343 · faellig bei dem Tag, an dem er den Namen hat · "You will tell me her name before I am in the room with her. Not the reference. The name, and how it is written, and which part of it her mother used." · B2 83, alle drei Teile. **Den dritten hat Mr Ahn am Dienstagabend gegeben und vierzig Sekunden dafuer gebraucht**
-- [OFFEN] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei dem Tag, an dem er den Tag hat · "I will telephone you with the day, and it will be the day I have it and not the day after." · -
+- [BEZAHLT] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei dem Tag, an dem er den Tag hat · "I will telephone you with the day, and it will be the day I have it and not the day after." · B2 85, vierzig Minuten nach der Bestaetigung. **Sie sagt, sie habe diesen Satz seit 1998 etwa vierhundertmal gehoert und zweimal gehalten bekommen**
+- [OFFEN] **B2 85** Georgij an Mrs Jeon · gesagt Tag 391 · faellig Tag 394 · Die vier Seiten am Sonntagabend, in einem Raum mit Licht, zwei Stunden, niemand in der Tuer · -
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
@@ -18418,6 +18419,7 @@ gegengeprüft.*
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
 | **83** | *Twenty-three days* | **Tragend.** Zwei Zusagen aus 71 bezahlt, der Name in drei Teilen, und der Preis, den Mrs Jeon dafuer zahlt | HALTEN |
 | **84** | *The consignor of record* | **Tragend.** Mr Ahn ist der Einzige, der unterschreiben kann, und tut es auf der Rueckseite seiner eigenen Unterschrift von vor vier Jahren | HALTEN |
+| **85** | *They did not argue about it* | **Tragend.** Die Annahme in unter einem Tag, das Fahrangebot und seine Ablehnung, der Termin | HALTEN |
 
 ---
 
@@ -18888,16 +18890,16 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 870 | 93 (b1ch01-b2ch82) | 1 | 74 |
+| Annie | 876 | 94 (b1ch01-b2ch85) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
 | Chairman Woo | 250 | 42 (b1ch07-b2ch80) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
-| Jang | 148 | 38 (b1ch05-b2ch80) | 2 | 60 |
-| Sim | 134 | 20 (b2ch31-b2ch80) | 2 | 53 |
-| Mr Hwang | 102 | 20 (b2ch07-b2ch84) | 3 | 59 |
-| Mr Ahn | 99 | 10 (b2ch56-b2ch84) | 3 | 53 |
+| Jang | 150 | 39 (b1ch05-b2ch85) | 2 | 60 |
+| Sim | 136 | 21 (b2ch31-b2ch85) | 2 | 53 |
+| Mr Hwang | 105 | 21 (b2ch07-b2ch85) | 3 | 59 |
+| Mr Ahn | 100 | 11 (b2ch56-b2ch85) | 3 | 53 |
 | Mrs Seo | 97 | 45 (b1ch03-b2ch76) | 1 | 74 |
-| Mrs Jeon | 91 | 20 (b2ch06-b2ch83) | 2 | 59 |
+| Mrs Jeon | 92 | 21 (b2ch06-b2ch85) | 2 | 59 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
 | Mrs Sunwoo | 52 | 17 (b1ch07-b2ch66) | 1 | 60 |
@@ -18939,7 +18941,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-870 Nennungen in 93 Kapiteln.
+876 Nennungen in 94 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -19813,6 +19815,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch82:10 | "Find me the way round it," said Annie. |
 | 7 | b2ch82:158 | "Say the sentence back to me," said Annie. |
 | 7 | b2ch82:186 | Annie looked at him for slightly longer than she needed to. |
+| 12 | b2ch85:8 | Annie wrote her name on the fourth page at eight o'clock at the desk in the small room, .. |
+| 3 | b2ch85:50 | "They took the first number," said Annie. |
+| 3 | b2ch85:86 | Annie came away from the window. |
+| 3 | b2ch85:108 | Annie stood with both hands on the back of the reading chair. |
+| 3 | b2ch85:122 | "Refuse it," said Annie. |
+| 3 | b2ch85:130 | "Then he learns it." Annie did not blink. "I have paid four hundred and eighty-one milli.. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -20057,6 +20065,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:36` (Tag 10) - fifty, twenty, twenty-five
 - `b2ch80:88` (Tag 4) - eight
 - `b2ch80:130` (Tag 4) - four hundred and eighty-one million, one, three, twenty
+- `b2ch85:8` (Tag 12) - eight, one
+- `b2ch85:130` (Tag 3) - four hundred and eighty-one million
 
 ---
 
@@ -21130,7 +21140,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Jang
 
-148 Nennungen in 38 Kapiteln.
+150 Nennungen in 39 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21282,6 +21292,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch79:200 | "Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes t.. |
 | 12 | b2ch80:6 | Jang went to Gimpo on the Wednesday morning and was back before two. |
 | 12 | b2ch80:14 | "I did not see money. He talked about money the way a man does who has it, and I have be.. |
+| 4 | b2ch85:168 | Jang was at the far end of it with his coat still on. He had come in at eight with the S.. |
+| 4 | b2ch85:172 | "Eleven at the house." Jang did not move. "Then I want the Sunday. I want to drive that .. |
 
 ### Zahlen in der Naehe von Jang
 
@@ -21360,12 +21372,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:394` (Tag 53) - four, twenty-six
 - `b2ch80:6` (Tag 12) - two
 - `b2ch80:14` (Tag 12) - thirty
+- `b2ch85:168` (Tag 4) - eight
+- `b2ch85:172` (Tag 4) - eleven
 
 ---
 
 ### Sim
 
-134 Nennungen in 20 Kapiteln.
+136 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21503,6 +21517,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
 | 6 | b2ch78:86 | Sim stood on the step for a moment. |
 | 4 | b2ch80:178 | *The last time I built a sentence for a man over four days it was for Sim. I took it apa.. |
+| 3 | b2ch85:110 | "That is what he did to Sim for eleven years," she said. |
+| 3 | b2ch85:112 | "That is what he did to Sim for eleven years, and Sim has spent eight weeks trying to fi.. |
 
 ### Zahlen in der Naehe von Sim
 
@@ -21574,12 +21590,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:18` (Tag 6) - five, ten, three
 - `b2ch78:74` (Tag 6) - thirty, two
 - `b2ch80:178` (Tag 4) - four, two
+- `b2ch85:110` (Tag 3) - eleven
+- `b2ch85:112` (Tag 3) - eight, eleven, one
 
 ---
 
 ### Mr Hwang
 
-102 Nennungen in 20 Kapiteln.
+105 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21685,6 +21703,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch84:40 | "It is the same form. It is the reverse of the same form, and it is printed on the rever.. |
 | 11 | b2ch84:80 | "You get nothing. Not a won, not a fee, not a share of it, and you are not a party to th.. |
 | 11 | b2ch84:158 | "The form goes to the house tomorrow morning. The house serves it on the holder with the.. |
+| 12 | b2ch85:6 | The four pages went in on the Tuesday morning and Mr Hwang served them on the holder at .. |
+| 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
+| 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -21740,12 +21761,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:6` (Tag 9) - nine
 - `b2ch84:32` (Tag 9) - four, one
 - `b2ch84:40` (Tag 9) - four
+- `b2ch85:6` (Tag 12) - eleven, four, twenty
+- `b2ch85:134` (Tag 3) - four, three
 
 ---
 
 ### Mr Ahn
 
-99 Nennungen in 10 Kapiteln.
+100 Nennungen in 11 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21848,6 +21871,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 11 | b2ch84:176 | Mr Ahn put one hand flat on the bench beside the paper. |
 | 11 | b2ch84:182 | "I want to say the thing I am not going to be able to say afterwards," said Mr Ahn, "and.. |
 | 11 | b2ch84:202 | Mr Ahn nodded once. |
+| 3 | b2ch85:90 | "On the twenty-sixth Mr Ahn said that whoever is in the car has about four minutes." Geo.. |
 
 ### Zahlen in der Naehe von Mr Ahn
 
@@ -21889,6 +21913,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:138` (Tag 11) - one
 - `b2ch84:176` (Tag 11) - one
 - `b2ch84:182` (Tag 11) - eleven
+- `b2ch85:90` (Tag 3) - four, three, twenty
 
 ---
 
@@ -22062,7 +22087,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-91 Nennungen in 20 Kapiteln.
+92 Nennungen in 21 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -22157,6 +22182,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch83:162 | "Then yes," said Mrs Jeon. |
 | 8 | b2ch83:178 | "I said it to her on the ninth," said Mrs Jeon. "In the corridor, badly, on a Friday, wi.. |
 | 8 | b2ch83:194 | "I told you that on the eleventh of September, about a flat in Incheon, and it was a dif.. |
+| 4 | b2ch85:148 | "Say the day of the week," said Mrs Jeon. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
