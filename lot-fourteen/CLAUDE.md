@@ -24,6 +24,9 @@ Danach:
 5. **Bei jeder Szene mit einer Nebenfigur: `doc/12-stimmen.md`.** Dort steht,
    was diese Figur will, das mit dem Fall nichts zu tun hat, und wie sie von A
    nach B kommt. Ohne das schreibt man Georgij mit einem anderen Namen davor.
+   **Bei einer neuen Nebenfigur zuerst `doc/17-figurenleben.md`** - dort steht,
+   woraus eine Figur gebaut wird, und der erste Punkt ist der, der am meisten
+   fehlt: ein Zug, der ihr nicht schmeichelt.
 6. Bei jeder Szene, in der die beiden einander anfassen: `doc/10-naehe.md`.
    Jede Ruecksicht auf eine fruehere Beruehrung wird dort gegriffen und nicht
    aus dem Gedaechtnis geschrieben.
@@ -295,6 +298,7 @@ scheint.
 | `doc/09-arbeitsteilung.md` | Wer Stil prueft und wer Inhalt, und was jeweils offen ist |
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
+| `doc/17-figurenleben.md` | **Wie man eine Figur baut.** Uebertragbar, gilt fuer jedes Buch |
 | `doc/13-zusagen.md` | Das Schuldbuch. Jede Zusage aus dem Text, mit Faelligkeit und Stand |
 | `doc/15-kuerzen.md` | Was jedes Kapitel traegt und was davon kuerzbar ist. **Beim Schreiben zu fuehren, nicht danach** |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
