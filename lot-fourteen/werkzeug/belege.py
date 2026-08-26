@@ -161,13 +161,42 @@ def englisch(q):
 
 
 def zitate_aus(txt):
-    for m in QUOTE.finditer(txt):
-        q = m.group(1)
-        if "|" in q or "###" in q or "](" in q:
-            continue
-        if not englisch(q):
-            continue
-        yield txt.count("\n", 0, m.start()) + 1, q
+    """Zitate blockweise suchen, nicht ueber das ganze Dokument.
+
+    Anfuehrungszeichen paaren sich sonst ueber eine Blockgrenze hinweg: steht in
+    einem Zitatblock erst *"Take the coat off," said Annie.* und in der naechsten
+    Zeile *"He took the coat off..."*, dann faellt das schliessende Zeichen der
+    ersten Zeile mit dem oeffnenden der zweiten zusammen, und dazwischen steht
+    deutscher Fliesstext. Am 26.08. hat das in `doc/15-kuerzen.md` einen Fund
+    gemeldet, obwohl beide Zitate echt sind und im richtigen Kapitel stehen.
+    Eine Leerzeile, eine Ueberschrift oder ein leerer Zitatstrich trennt jetzt.
+    """
+    zeilen = txt.split(chr(10))
+
+    def aus_block(block, start):
+        if not block:
+            return
+        roh = chr(10).join(block)
+        for m in QUOTE.finditer(roh):
+            q = m.group(1)
+            if "|" in q or "###" in q or "](" in q:
+                continue
+            if not englisch(q):
+                continue
+            yield start + roh.count(chr(10), 0, m.start()) + 1, q
+
+    block, start = [], 0
+    for i, l in enumerate(zeilen):
+        if not l.strip() or l.strip() == ">" or l.startswith("#"):
+            for x in aus_block(block, start):
+                yield x
+            block, start = [], i + 1
+        else:
+            if not block:
+                start = i
+            block.append(l)
+    for x in aus_block(block, start):
+        yield x
 
 
 def vorschlagszeilen(txt):

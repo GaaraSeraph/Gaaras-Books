@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 287.396 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 288.112 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -257,6 +257,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Berichtigung: meine eigene Zeile war geklaut und war NPC-Gelaber](#berichtigung-meine-eigene-zeile-war-geklaut-und-war-npc-gelaber)
   - [Und darueber die Probe, die seit Langem im Dokument stand und nie lief](#und-darueber-die-probe-die-seit-langem-im-dokument-stand-und-nie-lief)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
+  - [Stufe 1: die Naht liegt mitten in einer Bewegung](#stufe-1-die-naht-liegt-mitten-in-einer-bewegung)
+  - [Stufe 2: der Schnitt erzeugt eine Doppelung, und die ist billiger zu loeschen als zu verschmelzen](#stufe-2-der-schnitt-erzeugt-eine-doppelung-und-die-ist-billiger-zu-loeschen-als-zu-verschmelzen)
+  - [Stufe 3: das zweite Kapitel ist der angekuendigte Bericht](#stufe-3-das-zweite-kapitel-ist-der-angekuendigte-bericht)
+  - [Stufe 4: eine Bewegung ueber zwei Tage](#stufe-4-eine-bewegung-ueber-zwei-tage)
+  - [Was dabei herauskommt](#was-dabei-herauskommt)
   - [Das Naeherkommen wird als Buchfuehrung erzaehlt](#das-naeherkommen-wird-als-buchfuehrung-erzaehlt)
   - [Die Korrektur des Autors, 26.08.: das Heft bleibt, es muss nur eingeloest werden](#die-korrektur-des-autors-26-08-das-heft-bleibt-es-muss-nur-eingeloest-werden)
   - [Kapitel 45 ist der Modellfall, und es gibt nur diesen einen](#kapitel-45-ist-der-modellfall-und-es-gibt-nur-diesen-einen)
@@ -18451,6 +18456,99 @@ nichts hinzufügt, was der Leser nicht schon hat.
 Setzung von mir, die der Autor am 25.08. noch prüft (das dritte Ding gehört
 Chairman Woo). **Wenn diese Setzung fällt, fällt 79 ganz und 78 zur Hälfte**,
 und dieser Abschnitt wird neu geschrieben und nicht gekürzt.
+
+---
+
+## Welche Kapitel man zusammenlegen kann
+
+*Nachgetragen am 26.08. auf Frage des Autors. **Die Probe ist nicht der
+Kalendertag, sondern die Naht:** schliesst der Anfang des zweiten Kapitels
+direkt an das Ende des ersten an? Dreiundzwanzig Nachbarpaare in Band 2 liegen
+null oder einen Tag auseinander; die neun unten sind die, bei denen die Naht
+mitten in einer Bewegung liegt. Wortzahlen aus den Kapiteldateien addiert.*
+
+### Stufe 1: die Naht liegt mitten in einer Bewegung
+
+**K04 + K05, derselbe Tag, 5487 Woerter.** Der Kapitelschnitt faellt zwischen
+einen Befehl und seine Ausfuehrung:
+
+> K04 endet: *"Take the coat off," said Annie.*
+>
+> K05 beginnt: *He took the coat off and put it over the arm of the chair by the door.*
+
+**K58 + K59, derselbe Tag, 4384 Woerter.** Der Schnitt faellt mitten in ein
+Klopfen, und an diesem Tag stehen zwei Annie-Szenen im selben Zimmer:
+
+> K58 endet: *Then he knocked.*
+>
+> K59 beginnt: *She said come in before he had finished knocking.*
+
+**K70 + K71, derselbe Tag, 5483 Woerter.** *"Not there."* / *He looked at the
+chair.* Steht in der Tabelle oben schon als STRAFFEN bei 71.
+
+### Stufe 2: der Schnitt erzeugt eine Doppelung, und die ist billiger zu loeschen als zu verschmelzen
+
+**K34 + K35.** Hier ist die Naht keine Zusammenlegung wert, sondern eine
+Streichung von etwa vierzig Woertern. **Derselbe Satz steht zweimal:**
+
+> K34 endet: *He did not mean Annie when he wrote it, and he sat with that for a
+> while before he let himself notice which woman he had meant instead.*
+> K35 beginnt: *He had written the line at about eleven and sat with it for a
+> quarter of an hour before he let himself notice which woman he had meant.*
+
+**Und daraus folgt eine Warnung:** K33, K34 und K35 sind zusammen eine Bewegung
+ueber drei Tage, aber **7902 Woerter**. Wer 33+34 verschmilzt, kann nicht auch
+34+35 verschmelzen. Eines von beiden, nicht beides.
+
+### Stufe 3: das zweite Kapitel ist der angekuendigte Bericht
+
+**K29 + K30, derselbe Tag 238, 4519 Woerter.** Das Ende von 29 sagt woertlich
+an, was 30 ist:
+
+> K29 endet: *He is going to have to go into the small room tonight and say so.*
+>
+> K30 beginnt: *He got back to the house at twenty past seven and went straight in.*
+
+**K26 + K27, derselbe Tag 236, 3933 Woerter.** Dieselbe Bauweise: 26 kuendigt
+den Bericht an, 27 sind vier Stunden Fahrt und der Bericht.
+
+**K08 + K09 und K19 + K20** haben dieselbe Naht - er faehrt heim, das naechste
+Kapitel faengt bei der Ankunft an -, **aber sie werden nicht verschmolzen.** K09
+traegt Naehe-Register A 4 und B 1, K20 bezahlt die Fuenf-Firmen-Zusage. Dort
+gehoert gestrafft und nicht zusammengelegt, und zwar am **ersten** Stueck: K08
+endet mit rund neunhundert Woertern Rueckfahrt-Arithmetik, die K09 in Annies
+Zimmer noch einmal aufzaehlt.
+
+### Stufe 4: eine Bewegung ueber zwei Tage
+
+**K33 + K34, 4119 Woerter.** Nachbartage, dasselbe Zimmer, dieselbe Person,
+derselbe Bau - und **K33 ist das einzige Kapitel des Bandteils, das in allen
+vier Traglastspalten leer steht.** Mitwandern muessen Annies *"Not asking.
+Telling."* und der Auftrag an Jang, sonst steht K40 ohne Ursache da.
+
+**K16 + K17, 3924 Woerter.** Die Hand finden, zur Hand gehen, zwei Tage
+auseinander, derselbe Mann. **K17 ist unantastbar** (Mr Oks und Mrs Uhms
+einziger Auftritt); aus K16 muessen zwei Absaetze mit, *"Frightened only"* und
+*"There is no calendar in that office."*
+
+**K43 + K44, 5153 Woerter.** Der zehnte Mensch im Haus wird in 43 als
+Essensmenge gefunden, in 44 als Sauerstoffmeldung, in 48 wird daraus *certain*.
+Drei Kapitel, ein Befund. K44 benennt sein eigenes Ergebnis selbst als nichts:
+*"That took forty minutes and it produced nothing he had not already had at ten
+past nine."*
+
+### Was dabei herauskommt
+
+| Stufe | Paare | Ersparnis |
+|---|---|---|
+| 1, Naht in der Bewegung | K04+05, K58+59, K70+71 | etwa 2500 |
+| 2, Doppelung streichen | K34/K35 | etwa 40 |
+| 3, angekuendigter Bericht | K26+27, K29+30 | etwa 2500 |
+| 4, eine Bewegung, zwei Tage | K33+34, K16+17, K43+44 | etwa 4700 |
+
+**Zusammen etwa 9700 Woerter und sieben Kapitel weniger.** Das ist die
+Buchhaltung. **Was es nicht ist, steht im naechsten Abschnitt:** eine Antwort
+darauf, warum die Strecke sich zaeh liest.
 
 ---
 
