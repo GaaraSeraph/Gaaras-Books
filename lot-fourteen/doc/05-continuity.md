@@ -2608,6 +2608,132 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   Koerperliches aufeinander folgten. Dass Annies Zeile schon so dastand, ist
   aufgefallen, nachdem er geschrieben war.
 
+---
+
+## Der Umschlag bei Woos Anwalt: die vier Fragen und die vier Antworten
+
+**Angelegt am 26.08. auf Anweisung des Autors.** Der Faden hat einen Termin, den
+niemand nachschlagen kann, und zwischen heute und dem Tag, an dem er faellig
+wird, liegt mindestens ein Band. **Wer die Oeffnungsszene schreibt, ohne dass
+das hier steht, erfindet vier Fragen, die zum Aufbau nicht passen.**
+
+### Was im Text tatsaechlich steht, und es ist erschreckend wenig
+
+**Die vier Fragen werden in beiden Baenden kein einziges Mal benannt.**
+Nachgesehen am 26.08. ueber alle 116 Kapiteldateien: Der Erstauftritt ist
+**B2 78, Freitag der 2. Oktober**, und zwar in demselben Satz, in dem beschlossen
+wird, sie nicht zu stellen - *"there are four questions I could put to him that
+nobody else alive can answer, and I am not going to put any of them."* Danach
+kommen sie viermal in demselben Kapitel vor und einmal in B2 90 als *"an envelope
+with four answers in it in an old man's handwriting, and a date on the outside
+that is not a date anybody can look up."* Inhalt: nirgends.
+
+**Was der Text ausserdem festlegt und was gilt:**
+
+- **Woo hat sie seit August sortiert.** *"I have had the four of them lined up in
+  the order I would want them in."* Die Reihenfolge ist seine und nicht ihre.
+- **Er schreibt sie in der Nacht zum 6. Oktober.** Annie sagt es im Wagen: *"He is
+  going to write them tonight. He has had them in order since August and he will
+  not sleep until they are on paper."* **Sie existieren also seit dem 5. Oktober
+  fertig.** Sie sind nicht offen, sie sind ungelesen.
+- **Der Anwalt haelt den Umschlag**, und er geht an Annie *"on the day I am dead
+  and not one hour before."*
+- **Annies Grund, nicht zu fragen**, ist die Bedingung, die jede Antwort erfuellen
+  muss: er waere danach *"a man of seventy-eight who has been told what was done
+  in his own case and cannot un-know it."*
+
+### Die vier Bedingungen an jede Antwort
+
+1. **Nur Woo kann sie beantworten.** Neunzehn Jahre an dem Tisch, einunddreissig
+   Jahre Freundschaft, und sein eigener Fall. Was in einer Akte steht oder was
+   drei Lebende sagen wuerden, ist ausdruecklich die *andere* Sorte - Georgij hat
+   die drei Sorten am 2. Oktober selbst sortiert und die dritte nach oben gelegt.
+2. **Die Antwort muss ihn etwas kosten.** Sonst traegt der ganze Vorgang nicht.
+3. **Sie darf B2 62 nicht umwerfen.** Georgij dort: *"Everything that man has done
+   since is his own... none of it is a debt that came down to you."* **Der Vater
+   haftet nicht nachtraeglich fuer das, was aus Choi geworden ist.** Die Antworten
+   duerfen sagen, was der Vater **selbst** getan hat, und nichts darueber hinaus.
+   Wer den Vater zum Urheber der spaeteren dreiundzwanzig Jahre macht, schreibt
+   gegen diese Szene.
+4. **Keine Szene und kein Gestaendnis.** Es kommt als Papier in einer fremden
+   Handschrift, so wie in diesem Buch alles kommt.
+
+### Die vier, in Woos Reihenfolge
+
+**Vorschlag vom 26.08., noch nicht vom Autor abgenommen.** Der Wortlaut gehoert
+dem Schreib-Chat; hier steht die Substanz.
+
+1. **Wofuer hat mein Vater ihn geholt?**
+   *Antwort:* Fuer nichts Bestimmtes. Er hat vierzig Jahre lang selbst in vier
+   Sekunden ueber Menschen entschieden (**B2 61**, aus seinem eigenen Mund bei
+   dem Mittagessen) und wollte jemanden, der es in einer kann. Er hat ihn nicht
+   fuer eine Aufgabe geholt, sondern **um ihn zu haben**. Das ist die haesslichste
+   der vier Antworten, weil sie keinen Zweck nennt.
+
+2. **Wen hat er auf ihn angesetzt, solange er lebte?**
+   *Antwort:* Wenige, und nichts davon war ein Verbrechen. Woo sass neunzehn Jahre
+   daneben und hat zugesehen, wie ein Instrument eingespielt wird.
+
+3. **Warst Du einer davon?**
+   *Antwort:* Ja - die elf Tage. Die Einstellung im Fruehjahr 2002, und elf Tage
+   spaeter steht derselbe Mann im Haus ihres Vaters. **Und der Preis, den Choi
+   dafuer genommen hat, war kein Geld, sondern die Antwort auf die Frage, wen Woo
+   anrufen wuerde, wenn es schiefgeht** (B2 57).
+   *Was es ihn kostet, und darum geht es:* Woo **hat** diese Theorie, er hat sie
+   Georgij am 23. August selbst geliefert, samt dem Verfahren - *"You give him one
+   thing to do that he cannot undo, and then he leaves on his own"* (B2 75) - und
+   er hat ausdruecklich dazugesagt, wie duenn die Beleglage ist. **Er hat es nie
+   als Tatsache ausgesprochen.** Sie zu beantworten heisst, eine Konstruktion in
+   eine Ueberzeugung ueber einen Freund von einunddreissig Jahren zu verwandeln,
+   und das ist der Vorgang, der nicht rueckgaengig zu machen ist. Einundfuenfzig
+   Jahre Laufbahn stehen danach auf einem Geschenk, von dem er nichts wusste, und
+   der Geber ist der Mann, der ihn zweimal auf Boden geschlagen hat, den er haette
+   haben muessen.
+
+4. **Wer hat ihn behalten, als mein Vater tot war?**
+   *Antwort, empfohlen:* **Niemand.** Der Vater starb im selben Jahr, in dem er ihn
+   geholt hat, Annie war vierzehn, und der Platz wurde nicht geraeumt, weil ihn
+   niemand geraeumt hat. Das steht bereits im Kanon und muss nicht erfunden
+   werden: *"nobody in that house ever asked my father about anything"* und *"That
+   family has spent thirty years agreeing that he was right about everything."*
+   **Dreiundzwanzig Jahre Choi Dae-ho sind ein Stuhl, den niemand weggestellt
+   hat**, und das ist ein Urteil ueber eine Familie und kein neuer Gegner.
+
+   *Die Alternative, ausdruecklich offengelassen:* An dieser Stelle steht statt
+   *niemand* ein **Name**. Das ist die Tuer zu einem spaeteren Band und sie darf
+   offenbleiben - **aber sie wird beim Schreiben von 4 entschieden und nicht beim
+   Oeffnen des Umschlags.** Wer den Namen will, traegt ihn hier ein, bevor die
+   Antwort im Text steht.
+
+### Zwei Regeln fuer das Oeffnen
+
+- **Der Umschlag geht an sie und nicht an ihn.** Georgij liest ihn nicht, es sei
+  denn, sie gibt ihn her. Woo hat ihn ausdruecklich ihr vermacht, und er hat den
+  Grund dazugesagt: *"I am not doing it for you... I have given myself a date."*
+- **Die Antworten sind seine Handschrift.** Wenn eine davon im Text auftaucht,
+  taucht sie als abgedrucktes Dokument auf und nicht als Rede - dieselbe Form wie
+  der Brief in B2 76, und aus demselben Grund.
+
+### Und die Baustelle in B2 78, die davor liegt
+
+**Solange die vier Fragen im Kapitel selbst voellig unbenannt bleiben, traegt die
+Szene nicht**, weil der Leser vierzig Zeilen nach der Einfuehrung mitleiden soll,
+dass eine Kiste nicht geoeffnet wird, deren Inhalt er nicht kennt. Empfehlung:
+**Frage 3 faellt im Text**, und zwar aus Annies Mund bei Woo, als Begruendung
+dafuer, dass sie nicht fragt. Das ist grausamer und ehrlicher als die abstrakte
+Fassung - sie gibt ihm damit die Haelfte ohnehin -, es erklaert die Heftigkeit
+seiner Reaktion, und es macht seinen Gegenzug zur Antwort auf etwas Konkretes.
+Die anderen drei tragen dann ungenannt mit, weil der Leser die **Sorte** kennt.
+
+**Zu pruefen ist ausserdem die Zahl.** In dieser Strecke ist alles vier: vier
+Briefe (76), vier Entscheidungen an Chois Tischen, vier Woerter im Korridor, die
+vierte Zeile, vier Anrufe von Kwon. Und Woo selbst sagt in **B2 61** ueber Annie
+*"A woman who asks four questions a minute has left **one** alone for seven
+years."* **Die urspruengliche Zahl war eins, und sie war staerker.** Wenn die vier
+nur deshalb vier sind, weil hier alles vier ist, ist das eine Entscheidung, die
+noch aussteht.
+
+---
 
 - **Band 2, Kapitel 46** *The post still comes* (v1.4) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
 
@@ -3741,6 +3867,11 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     beim Anwalt, faellig an seinem Todestag. **Er ist damit der einzige Faden im
     Buch mit einem Termin, den niemand nachschlagen kann.** Kapitel 90 bestaetigt,
     dass es ihn gibt, und mehr nicht.
+    **Inhalt, Bedingungen und die Baustelle davor stehen seit dem 26.08. weiter
+    oben unter "Der Umschlag bei Woos Anwalt: die vier Fragen und die vier
+    Antworten".** Wer die Oeffnungsszene schreibt, faengt dort an - die vier
+    Fragen werden in beiden Baenden nirgends benannt, und ohne diesen Abschnitt
+    werden sie beim Oeffnen erfunden.
   - **Korrigiert am 26.08. (v1.1).** Die erste Fassung liess Annie hier die
     Hartflaeche auf der Ostseite verkaufen, um Geld aufzutreiben. **Beides war
     falsch:** die Flaeche gehoert **Hana** (B1 15 und 27, sechzehntausend
