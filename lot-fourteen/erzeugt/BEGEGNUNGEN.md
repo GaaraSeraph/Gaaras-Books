@@ -2148,7 +2148,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 46 | b1ch16:130 | The second was about Hana, and Georgij had not expected it to come from that direction. |
 | 46 | b1ch16:138 | Hana had put it on a table herself, in a room with three people in it, and it was not hi.. |
 | 46 | b1ch17:98 | "The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the seco.. |
-| 49 | b1ch20:168 | "He said a veto over routes decides which box goes on which sailing when a sailing is fu.. |
+| 49 | b1ch20:168 | "He said what a veto over routes does, and he said it in the words I used at this table .. |
 | 49 | b1ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
 | 49 | b1ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
 | 49 | b1ch21:52 | "There will be a reason," said Hana, "and then I will decide whether to be insulted." |
@@ -2267,8 +2267,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch15:370` (Tag 41) - twenty
 - `b1ch15:374` (Tag 41) - ten
 - `b1ch16:138` (Tag 46) - three
-- `b1ch17:98` (Tag 46) - one, sixteen thousand
-- `b1ch20:168` (Tag 49) - four, nine
+- `b1ch17:98` (Tag 46) - one
+- `b1ch20:168` (Tag 49) - four
 - `b1ch21:36` (Tag 49) - four
 - `b1ch21:88` (Tag 49) - nine
 - `b1ch21:124` (Tag 49) - fourteen, two

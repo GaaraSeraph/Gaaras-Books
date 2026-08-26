@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.250 Woerter.
+Book One, 34 Kapitel, 101.206 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -25,19 +25,19 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 12 | v1.12 | 2.354 |
 | 13 | v2.10 | 2.822 |
 | 14 | v7.10 | 2.601 |
-| 15 | v2.12 | 4.230 |
+| 15 | v2.13 | 4.225 |
 | 16 | v1.20 | 3.271 |
-| 17 | v12.17 | 2.742 |
+| 17 | v12.18 | 2.739 |
 | 18 | v2.12 | 2.957 |
-| 19 | v1.16 | 3.198 |
-| 20 | v1.9 | 2.101 |
-| 21 | v1.12 | 4.086 |
+| 19 | v1.17 | 3.191 |
+| 20 | v1.10 | 2.056 |
+| 21 | v1.13 | 4.099 |
 | 22 | v1.5 | 2.588 |
 | 23 | v3.9 | 2.653 |
-| 24 | v1.9 | 2.661 |
+| 24 | v1.10 | 2.667 |
 | 25 | v1.7 | 2.555 |
 | 26 | v1.10 | 2.407 |
-| 27 | v3.11 | 3.130 |
+| 27 | v3.12 | 3.127 |
 | 28 | v1.11 | 2.706 |
 | 29 | v1.5 | 1.992 |
 | 30 | v1.15 | 3.555 |
@@ -3933,7 +3933,7 @@ Annie looked at him for a moment.
 ---
 
 # Book One · Chapter 15: Four thousand two hundred
-*Lot Fourteen* · Version 2.12 · EN
+*Lot Fourteen* · Version 2.13 · EN
 
 ## Day Forty-One · Thursday 13 November
 
@@ -4115,7 +4115,7 @@ He put both hands on the cloth.
 
 "Do-yun."
 
-The hire car in the ramp. Three hours forty, nobody in the back, nobody collected. A corporate services company in Jung-gu with six employees. Four block bookings in fourteen months on the same account.
+The hire car in the ramp. Three hours forty, nobody in the back, nobody collected. The company in Jung-gu. Four block bookings in fourteen months on the same account.
 
 "Somebody who waits outside buildings," said Georgij.
 
@@ -4709,7 +4709,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.17 · EN
+*Lot Fourteen* · Version 12.18 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4799,7 +4799,7 @@ Georgij did not answer straight away.
 
 "Be pleased with it in this car and nowhere else. You got it because a man was showing off to somebody he had decided was nobody." She turned back to the window. "If you look pleased in a room, he stops showing off."
 
-"The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the second section on Hana's sixteen thousand square metres. It is on your desk. She told me to pull it, at your table, in front of you."
+"The last one is not from tonight," said Georgij. "Yesterday afternoon I pulled the second section on Hana's ground. It is on your desk. She told me to pull it, at your table, in front of you."
 
 "Say what is in it."
 
@@ -5243,7 +5243,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.16 · EN
+*Lot Fourteen* · Version 1.17 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5435,7 +5435,7 @@ Georgij took the folded sheet out of his own pocket and put it on the desk.
 
 Chairman Woo unfolded the sheet.
 
-There was an account number on it, and the name of a corporate services company in Jung-gu with six employees, and three dates.
+There was an account number on it, and the name of the company in Jung-gu, and three dates.
 
 "That company exists so that other companies do not appear on dockets," said Georgij. "Behind it there will be another one, and behind that a third, and I am not going to get to the end of it that way. I have tried since October."
 
@@ -5489,7 +5489,7 @@ The room went on being a room.
 
 "He waits," said Georgij.
 
-"He waits." The old man sat back. "What does she take from the Kims. Not the lorries. Say it."
+"He waits." The old man sat back. "What does she take from the Kims. Not the lorries."
 
 "Shares, security and a veto over routes."
 
@@ -5546,7 +5546,7 @@ At the gate he stopped.
 ---
 
 # Book One · Chapter 20: I came back with a favour
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5652,7 +5652,7 @@ She did not say whether that was right.
 
 "I did."
 
-"I gave him the account number of the corporate services company in Jung-gu, and three of the four dates from the block bookings. After he signed, and not before, so that it did not pay for anything."
+"I gave him the account number of the company in Jung-gu, and three of the four dates from the block bookings. After he signed, and not before, so that it did not pay for anything."
 
 Annie's hand stopped on the edge of the desk.
 
@@ -5696,7 +5696,7 @@ Annie sat back in the chair.
 
 Annie looked up.
 
-"He said a veto over routes decides which box goes on which sailing when a sailing is full, and that on those lanes it is full nine months of the year. He said you never have to refuse anybody and never have to explain why a man's cargo went on Thursday instead of Tuesday." Georgij's eyes went to the second page of the contract and came back. "I said all of that at this table on the thirteenth, with Hana four feet from me, and I said it as a reason to do it."
+"He said what a veto over routes does, and he said it in the words I used at this table on the thirteenth, with Hana four feet from me." Georgij's eyes went to the second page of the contract and came back. "I said it as a reason to do it."
 
 "You did."
 
@@ -5773,7 +5773,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Book One · Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -6111,7 +6111,7 @@ He was putting his coat on in the hall when she said it.
 
 "It is not kind at all, it is a report." Hana did not move off the frame. "I have a house with nobody in it on Fridays, and I am fifty-one, and I stopped being careful about saying things out loud a long time ago. So I am going to say one, and you are not going to have to do anything with it."
 
-Under the collar of his shirt the steel sat where it always sat.
+Under the collar of his shirt the steel had gone warm, which it does by that hour of the afternoon and which he has stopped noticing.
 
 He had not thought about it since the gravel.
 
@@ -6706,7 +6706,7 @@ Twice in one night, with the same woman, on facts he was holding.
 ---
 
 # Book One · Chapter 24: Have you eaten
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 *Day 55 · Thursday 27 November*
 
@@ -6916,7 +6916,7 @@ She did not say anything about it.
 
 Georgij looked at it lying there and did not reach for it, and understood in the same moment that this was not a test, and that it would have been one if he had.
 
-Under the collar of his shirt the steel sat where it always sat.
+Under the collar of his shirt the steel did nothing at all, and he noticed that it did nothing.
 
 Neither of them pretended otherwise.
 
@@ -7589,7 +7589,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.11 · EN
+*Lot Fourteen* · Version 3.12 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7613,7 +7613,7 @@ Annie put the pen down.
 
 "Go on."
 
-"On the seventeenth of November I pulled the second section on her sixteen thousand square metres, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
+"On the seventeenth of November I pulled the second section on her ground, and I told you what was in it on the expressway," said Georgij. "Three charges, a little over two thirds, and the third one registered in March against the uplift. You said the word yourself and it was the right one. She is not rich. She is leveraged."
 
 "On the one thing she is asking us to protect."
 
