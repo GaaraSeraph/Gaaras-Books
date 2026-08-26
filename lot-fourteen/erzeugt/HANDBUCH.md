@@ -260,7 +260,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Das Naeherkommen wird als Buchfuehrung erzaehlt](#das-naeherkommen-wird-als-buchfuehrung-erzaehlt)
   - [Zwei Messungen, die die Deutung oben einschraenken](#zwei-messungen-die-die-deutung-oben-einschraenken)
   - [Pruefumfang](#pruefumfang)
-- [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/15-regelaenderungen.md`
+- [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
   - [A3. Sim: neues Verbot - Georgijs Enthüllungsrahmen](#a3-sim-neues-verbot-georgijs-enth-llungsrahmen)
