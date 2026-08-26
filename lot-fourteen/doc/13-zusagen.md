@@ -178,6 +178,95 @@ Zusage ist.
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
 - [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
+- [KEINE] **B2 06** Georgij an Mrs Jeon · gesagt Tag 164 · faellig offen · "I am not going to stand here and promise you a thing I do not own." · **Die wichtigste Nicht-Zusage des Buches.** Sie nennt als Preis einen Namen, er verspricht ihn ausdruecklich nicht. Siehe den Abschnitt "Mrs Jeons Name aus dem Maerz" weiter unten
+- [KEINE] **B2 06** Mrs Jeon an Georgij · gesagt Tag 164 · faellig bei dem Tag, an dem er den Namen hat · "Come back when you have your name, and I will tell you the rest of what I know" · **Der Ausloeser ist nie eingetreten**, weil es den Namen nie gab. Sie hat in B2 29 trotzdem geliefert, gegen etwas anderes
+
+---
+
+## Mrs Jeons Name aus dem Maerz, und warum er in keiner Liste stand
+
+**Angelegt am 26.08., nachdem der Autor beim Lesen von Kapitel 83 den Eindruck
+hatte, die Figur fordere zum dritten Mal etwas.** Sie tut das nicht. Was fehlt,
+ist ein Posten, den dieses Buch nie gefuehrt hat, weil er nach den eigenen Regeln
+der Datei kein Posten ist.
+
+### Was sie verlangt hat
+
+**B2 06, Montag der 16. Maerz, am Schalter.** Er sagt *"Say the price."* Der Preis
+ist ein Name - **aber eine Referenz und keine Stelle**:
+
+> *"Anybody's, so long as it is not out of this trade. In eight weeks I go out of
+> that door with twenty-three years that I cannot put on a single piece of paper.
+> There is no reference from this house that is worth anything anywhere. What I
+> need is one person who will take a telephone call and say one sentence about
+> me, and be somebody whose sentence carries."*
+
+**Ein Mensch, der fuer sie buergt, damit sie sich selbst etwas suchen kann.**
+
+### Warum es nie eine Zusage wurde
+
+Weil er sie ausdruecklich verweigert hat, und das ist der ganze Sinn der Szene:
+*"I am not going to stand here and promise you a thing I do not own."* Er haette
+mit einem Ja in unter einer Minute alles bekommen und hat stattdessen gesagt,
+dass er fragen muss. **Damit steht der Vorgang in keiner Liste** - `zusagen.py`
+sucht Zusagen, und hier steht die Weigerung, eine zu geben.
+
+### Was daraus geworden ist
+
+**Der Name ist nie gekommen, und Georgij sagt es selbst**, B2 29:
+
+> *"Because you asked me for a name in March and I have not got one and I am
+> never going to have one. The only thing I have that a person in settlement
+> would accept is a line on a page. You deal in entries. I have given you mine.
+> It is not a favour and I have not made you a present of anything, and if you
+> use it I will have nobody to blame."*
+
+**Bezahlt wurde also in einer anderen Waehrung: mit seiner eigenen Zeile.** Los
+vierzehn, und eine Frau, die am 4. Oktober zwei Menschen gekauft hat. Er legt ihr
+hin, was ihn vernichten kann, weil er das nicht hatte, wonach sie gefragt hat.
+
+**Die Stelle in Gwangyang ist nicht die Bezahlung**, und wer sie dafuer haelt,
+liest die Figur falsch. Sie kommt von **Annie**, aus eigenem Kalkuel, nachdem sie
+am 18. Mai die Haelfte der Firma gekauft hat (B2 29), und sie ist bewusst
+transparent gebaut: Mrs Jeon soll auf der ersten Seite lesen, wem die Haelfte
+gehoert, und dass ihr Name aufkam, weil ein Mann aus diesem Haus an ihrem Tisch
+sass. **Georgij hat sie nicht besorgt.**
+
+Und genau deshalb liegt das Angebot vier Monate unangetreten: *"I have had two
+things given to me since May. Both of them were kind and neither of them was
+asked for... I am beginning to think that I cannot take anything that arrives on
+its own."* (B2 71)
+
+### Der Bogen, der im Text vorhanden ist und nirgends gezeigt wird
+
+**Das Wort *reference* traegt in diesem Buch zwei Bedeutungen, und sie lebt in
+beiden.**
+
+| Wann | Was |
+|---|---|
+| B2 06, 16. Maerz | Sie will eine *reference* - jemanden, der fuer sie buergt. Sie bekommt keine |
+| B2 32, 2. Juni | Sie sagt, was eine *reference* in ihrem Gewerbe ist: **sechs Zeichen in dem Kaestchen, wo der Name hingehoert.** *"I looked at that box and I read six characters and I put it through and I went to lunch"* |
+| B2 71, 11. Sept | Ihre Bedingung: **"Not the reference. The name, and how it is written, and which part of it her mother used"** |
+
+**Es ist derselbe Satz wie im Maerz, nur andersherum.** Eine Frau, die einen Namen
+fuer sich verlangt hat und keinen bekam - die mit dreiundzwanzig Jahren aus einer
+Tuer ging, ohne dass ein Blatt ihre Existenz bestaetigte -, weigert sich, einen
+Raum zu betreten, ohne den Namen einer Fremden zu kennen, die unter sechs Zeichen
+gefuehrt wird. **Sie fordert nicht zum dritten Mal. Sie zahlt an eine Fremde
+zurueck, was ihr selbst verweigert wurde.**
+
+### Und was daraus folgt
+
+**Der Reim steht im Text und wird an keiner Stelle sichtbar gemacht.** Niemand
+legt die beiden Saetze nebeneinander, in B2 83 faellt das Wort *reference* gar
+nicht mehr. Wer das Buch schreibt, verliert ihn nach zwei Baenden - der Autor hat
+ihn am 26.08. verloren -, und dann bleibt genau der Eindruck uebrig, gegen den
+dieser Abschnitt geschrieben ist.
+
+**Vorschlag, noch nicht abgenommen: eine halbe Zeile in B2 83.** Zwei Fassungen
+stehen in `doc/07-next.md` ganz oben unter "Offen und klein: Mrs Jeon,
+der Maerz-Posten in B2 83". Beide zeigen nur
+und erklaeren nichts.
 
 ---
 

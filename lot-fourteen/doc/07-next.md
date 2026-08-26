@@ -4,6 +4,69 @@ Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen
 
 ---
 
+## Offen und klein: Mrs Jeon, der Maerz-Posten in B2 83
+
+**Vom Autor am 26.08. ausgeloest, Fassung waehlen und einbauen.** Der Befund steht
+ganz in `doc/13-zusagen.md` unter "Mrs Jeons Name aus dem Maerz". Kurz: Sie
+verlangt in **B2 06** als Preis einen Namen - **eine Referenz**, jemanden, der
+einen Anruf annimmt und einen Satz sagt, der traegt. Sie bekommt ihn nie, und
+Georgij sagt das in **B2 29** selbst. Bezahlt wird mit seiner eigenen Zeile. Die
+Stelle in Gwangyang kommt von **Annie** und ist nicht die Bezahlung.
+
+**Damit ist ihre Bedingung in B2 71 - *"Not the reference. The name"* - derselbe
+Satz wie im Maerz, nur andersherum.** Der Reim steht im Text und wird an keiner
+Stelle sichtbar. Wer das Buch schreibt, verliert ihn; **der Autor hat ihn
+verloren**, und dann liest sich die Figur in B2 83 als jemand, der zum dritten Mal
+Bedingungen stellt, statt als jemand, der eine alte Rechnung an eine Fremde
+zurueckzahlt.
+
+**Beide Fassungen zeigen nur und erklaeren nichts. Genau eine wird eingebaut.**
+
+### Fassung A - der Posten kommt in ihre eigene Aufzaehlung
+
+Sie zaehlt im Kapitel ihr Jahr in vier Posten auf. Der Maerz fehlt darin, und er
+ist der erste. Aus vier werden fuenf, und die Zahlen dahinter ruecken mit.
+
+> *"I have had five things happen to me this year," said Mrs Jeon. "In January I
+> was told I had twenty-three years and eight weeks. In March a man came to my
+> counter and I told him what I wanted, and it was one name that was not out of
+> this trade, and he did not get it and he said so. In May I went out of that
+> door. In June a firm four hundred kilometres away offered me a desk and I did
+> not go for three months because I could not take a thing that arrived on its
+> own. In October I came, and in three weeks I have found a levy from 2011 and
+> been asked what I think."*
+>
+> *"Yes."*
+>
+> *"And now a man has come down on the first train to say a name that is not mine,
+> and to tell me that the sixth thing is in November and that it will cost me the
+> fifth."*
+
+**Das ist die staerkere Fassung**, weil der Maerz in **ihrer** Buchfuehrung steht
+und nicht in seiner, und weil *"a name that is not mine"* den Bogen schliesst,
+ohne dass jemand darauf zeigt. **Kosten: die Zaehlung im Kapitel muss durchgezogen
+werden** - vier wird fuenf, fuenftes wird sechstes, viertes wird fuenftes.
+
+### Fassung B - eine Zeile oben an der Aussentreppe
+
+Billiger, keine Zaehlung zu aendern, und sie faellt beim Abschied. In ihre
+bestehende Replik eingesetzt, vor *"That is not nothing"*:
+
+> *"You have come four hundred kilometres to say a name properly, and to tell me a
+> date that costs me a job, and to say a condition back to me that I could have
+> recited myself. **In March I asked you for a name and you never got it, and you
+> have brought me a different woman's.** That is not nothing. I am fifty-one and I
+> can tell the difference."*
+
+**Empfehlung: A.** Der Autor hat die Figur als fordernd gelesen; A stellt sie als
+Buchfuehrerin dar, und das ist, was sie ist. B ist der Rueckfall, wenn die
+Zaehlung im Kapitel nicht sauber durchzuziehen ist.
+
+**Nicht anfassen:** die drei Zeilen im Zug und die vierte darunter. Wer den Maerz
+auch dort noch aufschreibt, erklaert ihn.
+
+---
+
 ## Uebergabe an den naechsten Schreib-Chat
 
 *Geschrieben am 25.08. am Ende einer langen Sitzung, in der Band 2 von 46 auf 56

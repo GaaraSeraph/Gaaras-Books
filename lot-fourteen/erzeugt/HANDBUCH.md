@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 322.366 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 323.898 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -113,6 +113,8 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Block I - Die Mauer **[GESCHRIEBEN, Kapitel 22]**](#block-i-die-mauer-geschrieben-kapitel-22)
   - [Block J - Mapo-Bruecke **[GESCHRIEBEN, Kapitel 23]**](#block-j-mapo-bruecke-geschrieben-kapitel-23)
 - [Naechste Schritte und offene Faeden](#naechste-schritte-und-offene-faeden)  ·  `doc/07-next.md`
+  - [Fassung A - der Posten kommt in ihre eigene Aufzaehlung](#fassung-a-der-posten-kommt-in-ihre-eigene-aufzaehlung)
+  - [Fassung B - eine Zeile oben an der Aussentreppe](#fassung-b-eine-zeile-oben-an-der-aussentreppe)
   - [Was in dieser Sitzung diagnostiziert wurde, und es traegt alles Weitere](#was-in-dieser-sitzung-diagnostiziert-wurde-und-es-traegt-alles-weitere)
   - [Die drei stehenden Proben, alle in `doc/02-leads.md`](#die-drei-stehenden-proben-alle-in-doc-02-leads-md)
   - [Wo der Band steht (Stand Kapitel 56, Tag 315, Freitag 14. August)](#wo-der-band-steht-stand-kapitel-56-tag-315-freitag-14-august)
@@ -252,6 +254,11 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Zwei Fehler, die der Lauf gekostet hat, und was daraus folgt](#zwei-fehler-die-der-lauf-gekostet-hat-und-was-daraus-folgt)
   - [Der Befund, der die Arbeit billig gemacht hat](#der-befund-der-die-arbeit-billig-gemacht-hat)
 - [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
+  - [Was sie verlangt hat](#was-sie-verlangt-hat)
+  - [Warum es nie eine Zusage wurde](#warum-es-nie-eine-zusage-wurde)
+  - [Was daraus geworden ist](#was-daraus-geworden-ist)
+  - [Der Bogen, der im Text vorhanden ist und nirgends gezeigt wird](#der-bogen-der-im-text-vorhanden-ist-und-nirgends-gezeigt-wird)
+  - [Und was daraus folgt](#und-was-daraus-folgt)
 - [Stilprotokoll](#stilprotokoll)  ·  `doc/14-stilprotokoll.md`
   - [Durchgang Erzaehlerkommentare, Band 2 - Ausgangsstand `14a893e`](#durchgang-erzaehlerkommentare-band-2-ausgangsstand-14a893e)
   - [Stand des Durchgangs](#stand-des-durchgangs)
@@ -8992,6 +8999,69 @@ Band 2 sucht, findet ihn nur in `doc/07-next.md` und in der Kapitelliste von
 # Naechste Schritte und offene Faeden
 
 Die kleinste Datei und die wichtigste. In jeder Sitzung zuerst und zuletzt lesen.
+
+---
+
+## Offen und klein: Mrs Jeon, der Maerz-Posten in B2 83
+
+**Vom Autor am 26.08. ausgeloest, Fassung waehlen und einbauen.** Der Befund steht
+ganz in `doc/13-zusagen.md` unter "Mrs Jeons Name aus dem Maerz". Kurz: Sie
+verlangt in **B2 06** als Preis einen Namen - **eine Referenz**, jemanden, der
+einen Anruf annimmt und einen Satz sagt, der traegt. Sie bekommt ihn nie, und
+Georgij sagt das in **B2 29** selbst. Bezahlt wird mit seiner eigenen Zeile. Die
+Stelle in Gwangyang kommt von **Annie** und ist nicht die Bezahlung.
+
+**Damit ist ihre Bedingung in B2 71 - *"Not the reference. The name"* - derselbe
+Satz wie im Maerz, nur andersherum.** Der Reim steht im Text und wird an keiner
+Stelle sichtbar. Wer das Buch schreibt, verliert ihn; **der Autor hat ihn
+verloren**, und dann liest sich die Figur in B2 83 als jemand, der zum dritten Mal
+Bedingungen stellt, statt als jemand, der eine alte Rechnung an eine Fremde
+zurueckzahlt.
+
+**Beide Fassungen zeigen nur und erklaeren nichts. Genau eine wird eingebaut.**
+
+### Fassung A - der Posten kommt in ihre eigene Aufzaehlung
+
+Sie zaehlt im Kapitel ihr Jahr in vier Posten auf. Der Maerz fehlt darin, und er
+ist der erste. Aus vier werden fuenf, und die Zahlen dahinter ruecken mit.
+
+> *"I have had five things happen to me this year," said Mrs Jeon. "In January I
+> was told I had twenty-three years and eight weeks. In March a man came to my
+> counter and I told him what I wanted, and it was one name that was not out of
+> this trade, and he did not get it and he said so. In May I went out of that
+> door. In June a firm four hundred kilometres away offered me a desk and I did
+> not go for three months because I could not take a thing that arrived on its
+> own. In October I came, and in three weeks I have found a levy from 2011 and
+> been asked what I think."*
+>
+> *"Yes."*
+>
+> *"And now a man has come down on the first train to say a name that is not mine,
+> and to tell me that the sixth thing is in November and that it will cost me the
+> fifth."*
+
+**Das ist die staerkere Fassung**, weil der Maerz in **ihrer** Buchfuehrung steht
+und nicht in seiner, und weil *"a name that is not mine"* den Bogen schliesst,
+ohne dass jemand darauf zeigt. **Kosten: die Zaehlung im Kapitel muss durchgezogen
+werden** - vier wird fuenf, fuenftes wird sechstes, viertes wird fuenftes.
+
+### Fassung B - eine Zeile oben an der Aussentreppe
+
+Billiger, keine Zaehlung zu aendern, und sie faellt beim Abschied. In ihre
+bestehende Replik eingesetzt, vor *"That is not nothing"*:
+
+> *"You have come four hundred kilometres to say a name properly, and to tell me a
+> date that costs me a job, and to say a condition back to me that I could have
+> recited myself. **In March I asked you for a name and you never got it, and you
+> have brought me a different woman's.** That is not nothing. I am fifty-one and I
+> can tell the difference."*
+
+**Empfehlung: A.** Der Autor hat die Figur als fordernd gelesen; A stellt sie als
+Buchfuehrerin dar, und das ist, was sie ist. B ist der Rueckfall, wenn die
+Zaehlung im Kapitel nicht sauber durchzuziehen ist.
+
+**Nicht anfassen:** die drei Zeilen im Zug und die vierte darunter. Wer den Maerz
+auch dort noch aufschreibt, erklaert ihn.
 
 ---
 
@@ -18558,6 +18628,95 @@ Zusage ist.
 - [KEINE] **B2 11** Georgij an Mr Hwang · gesagt Tag 180 · faellig offen · "If she uses it, I will not be able to protect you from most of what follows" · Warnung, und ausdruecklich das Gegenteil einer Zusage
 - [KEINE] **B2 14** Georgij an Mr Kwon · gesagt Tag 193 · faellig offen · "Because there is nothing I could offer you that you will not do for your own reasons inside a week" · Begruendung, kein Versprechen
 - [KEINE] **B2 69** Annie an Mr Kwon · gesagt Tag 341 · faellig offen · "You do not owe anybody in this house one hour of anything" · Entlastung. Sie nimmt eine Schuld weg, statt eine einzugehen
+- [KEINE] **B2 06** Georgij an Mrs Jeon · gesagt Tag 164 · faellig offen · "I am not going to stand here and promise you a thing I do not own." · **Die wichtigste Nicht-Zusage des Buches.** Sie nennt als Preis einen Namen, er verspricht ihn ausdruecklich nicht. Siehe den Abschnitt "Mrs Jeons Name aus dem Maerz" weiter unten
+- [KEINE] **B2 06** Mrs Jeon an Georgij · gesagt Tag 164 · faellig bei dem Tag, an dem er den Namen hat · "Come back when you have your name, and I will tell you the rest of what I know" · **Der Ausloeser ist nie eingetreten**, weil es den Namen nie gab. Sie hat in B2 29 trotzdem geliefert, gegen etwas anderes
+
+---
+
+## Mrs Jeons Name aus dem Maerz, und warum er in keiner Liste stand
+
+**Angelegt am 26.08., nachdem der Autor beim Lesen von Kapitel 83 den Eindruck
+hatte, die Figur fordere zum dritten Mal etwas.** Sie tut das nicht. Was fehlt,
+ist ein Posten, den dieses Buch nie gefuehrt hat, weil er nach den eigenen Regeln
+der Datei kein Posten ist.
+
+### Was sie verlangt hat
+
+**B2 06, Montag der 16. Maerz, am Schalter.** Er sagt *"Say the price."* Der Preis
+ist ein Name - **aber eine Referenz und keine Stelle**:
+
+> *"Anybody's, so long as it is not out of this trade. In eight weeks I go out of
+> that door with twenty-three years that I cannot put on a single piece of paper.
+> There is no reference from this house that is worth anything anywhere. What I
+> need is one person who will take a telephone call and say one sentence about
+> me, and be somebody whose sentence carries."*
+
+**Ein Mensch, der fuer sie buergt, damit sie sich selbst etwas suchen kann.**
+
+### Warum es nie eine Zusage wurde
+
+Weil er sie ausdruecklich verweigert hat, und das ist der ganze Sinn der Szene:
+*"I am not going to stand here and promise you a thing I do not own."* Er haette
+mit einem Ja in unter einer Minute alles bekommen und hat stattdessen gesagt,
+dass er fragen muss. **Damit steht der Vorgang in keiner Liste** - `zusagen.py`
+sucht Zusagen, und hier steht die Weigerung, eine zu geben.
+
+### Was daraus geworden ist
+
+**Der Name ist nie gekommen, und Georgij sagt es selbst**, B2 29:
+
+> *"Because you asked me for a name in March and I have not got one and I am
+> never going to have one. The only thing I have that a person in settlement
+> would accept is a line on a page. You deal in entries. I have given you mine.
+> It is not a favour and I have not made you a present of anything, and if you
+> use it I will have nobody to blame."*
+
+**Bezahlt wurde also in einer anderen Waehrung: mit seiner eigenen Zeile.** Los
+vierzehn, und eine Frau, die am 4. Oktober zwei Menschen gekauft hat. Er legt ihr
+hin, was ihn vernichten kann, weil er das nicht hatte, wonach sie gefragt hat.
+
+**Die Stelle in Gwangyang ist nicht die Bezahlung**, und wer sie dafuer haelt,
+liest die Figur falsch. Sie kommt von **Annie**, aus eigenem Kalkuel, nachdem sie
+am 18. Mai die Haelfte der Firma gekauft hat (B2 29), und sie ist bewusst
+transparent gebaut: Mrs Jeon soll auf der ersten Seite lesen, wem die Haelfte
+gehoert, und dass ihr Name aufkam, weil ein Mann aus diesem Haus an ihrem Tisch
+sass. **Georgij hat sie nicht besorgt.**
+
+Und genau deshalb liegt das Angebot vier Monate unangetreten: *"I have had two
+things given to me since May. Both of them were kind and neither of them was
+asked for... I am beginning to think that I cannot take anything that arrives on
+its own."* (B2 71)
+
+### Der Bogen, der im Text vorhanden ist und nirgends gezeigt wird
+
+**Das Wort *reference* traegt in diesem Buch zwei Bedeutungen, und sie lebt in
+beiden.**
+
+| Wann | Was |
+|---|---|
+| B2 06, 16. Maerz | Sie will eine *reference* - jemanden, der fuer sie buergt. Sie bekommt keine |
+| B2 32, 2. Juni | Sie sagt, was eine *reference* in ihrem Gewerbe ist: **sechs Zeichen in dem Kaestchen, wo der Name hingehoert.** *"I looked at that box and I read six characters and I put it through and I went to lunch"* |
+| B2 71, 11. Sept | Ihre Bedingung: **"Not the reference. The name, and how it is written, and which part of it her mother used"** |
+
+**Es ist derselbe Satz wie im Maerz, nur andersherum.** Eine Frau, die einen Namen
+fuer sich verlangt hat und keinen bekam - die mit dreiundzwanzig Jahren aus einer
+Tuer ging, ohne dass ein Blatt ihre Existenz bestaetigte -, weigert sich, einen
+Raum zu betreten, ohne den Namen einer Fremden zu kennen, die unter sechs Zeichen
+gefuehrt wird. **Sie fordert nicht zum dritten Mal. Sie zahlt an eine Fremde
+zurueck, was ihr selbst verweigert wurde.**
+
+### Und was daraus folgt
+
+**Der Reim steht im Text und wird an keiner Stelle sichtbar gemacht.** Niemand
+legt die beiden Saetze nebeneinander, in B2 83 faellt das Wort *reference* gar
+nicht mehr. Wer das Buch schreibt, verliert ihn nach zwei Baenden - der Autor hat
+ihn am 26.08. verloren -, und dann bleibt genau der Eindruck uebrig, gegen den
+dieser Abschnitt geschrieben ist.
+
+**Vorschlag, noch nicht abgenommen: eine halbe Zeile in B2 83.** Zwei Fassungen
+stehen in `doc/07-next.md` ganz oben unter "Offen und klein: Mrs Jeon,
+der Maerz-Posten in B2 83". Beide zeigen nur
+und erklaeren nichts.
 
 ---
 
