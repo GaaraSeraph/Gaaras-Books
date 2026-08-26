@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.799 Woerter.
+Book Two, 89 Kapitel, 219.870 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -90,7 +90,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 77 | v1.2 | 2.327 |
 | 78 | v1.2 | 4.030 |
 | 80 | v1.1 | 2.057 |
-| 81 | v1.1 | 2.510 |
+| 81 | v1.2 | 2.581 |
 | 82 | v1.1 | 2.447 |
 | 83 | v1.1 | 2.434 |
 | 84 | v1.0 | 2.128 |
@@ -18077,7 +18077,7 @@ He sat with the pen and then wrote one more line.
 ---
 
 # Book Two · Chapter 81: The permanent series
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Seventy-Seven · Thursday 15 October
 
@@ -18094,6 +18094,8 @@ Georgij was at the desk at two minutes to nine and Mr Hwang was already behind i
 "Yes."
 
 "You have come at nine because there is nobody in this building until ten, and there has been nobody in it until ten since the second week of August." He put the sheet down on the desk in front of him and squared it. "I am going to say the useful thing first so that we are not doing the part where you work out how much I know."
+
+"Before me this house kept its lots in four systems. One of them is a book that somebody ruled by hand, and the lines are not straight, and I have looked at it more often than I have needed to." He did not square it this time. "I have never been told whose hand it was and I have not asked, because I would rather go on being annoyed with him."
 
 Georgij sat down.
 

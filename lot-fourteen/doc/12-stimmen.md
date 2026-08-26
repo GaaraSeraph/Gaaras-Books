@@ -1894,7 +1894,34 @@ Rechtfertigung, eine Rechtslage.
 **Er darf:** Daten und Uhrzeiten in jeder Menge, Aktenverweise, die Vorwegnahme.
 **Er darf nicht:** den which-Satz, die Und-Kette, Adjektive über Menschen.
 
-**Körper.** Er hat das Papier in der Hand, bevor er darüber spricht.
+**Körper.** Er hat das Papier in der Hand, bevor er darüber spricht - *"with a
+sheet of paper in his hand, which is how that man is always found"* (b2 K81).
+Und er **richtet es gerade**. Wenn er es nicht tut, ist etwas los: b2 K84 legt er
+es zum ersten Mal um, mit der Schrift nach unten.
+
+#### Der Zug, der ihm nicht schmeichelt
+
+**Bis zum 26.08. hatte er keinen, und das war sein ganzes Problem.** Er war
+korrekt, genau, selbstanklagend - *"So I have been a man who knows and files"* -
+und **jede Zeile davon war würdig**. Ein Mann, dessen Fehler elegant sind, ist
+eine Funktion.
+
+**Neu in b2 K81 v1.2**, beiläufig, vor dem Geschäft, und es hält nichts auf:
+
+> *"Before me this house kept its lots in four systems. One of them is a book
+> that somebody ruled by hand, and the lines are not straight, **and I have
+> looked at it more often than I have needed to**." He did not square it this
+> time. "I have never been told whose hand it was and I have not asked,
+> **because I would rather go on being annoyed with him**."*
+
+**Was daran arbeitet:** er ist nachtragend gegenüber einem Menschen, den er nie
+getroffen hat, wegen krummer Linien in einem Buch, das er nicht mehr braucht.
+Er weiß es und **behält es absichtlich**. Es nützt der Handlung nichts, es macht
+ihn kleiner, und es wird mit keinem Satz entschuldigt.
+
+**Und der Beat vollzieht den Aussetzer:** eine Zeile vorher richtet er das Blatt
+gerade, hier lässt er es. **Der Mann, der aufräumt, räumt eine Sekunde lang
+nicht auf, weil er sich gerade über etwas Krummes ärgert.**
 
 ### Mrs Jeon Mi-ja (51, dreiundzwanzig Jahre Abrechnung)
 

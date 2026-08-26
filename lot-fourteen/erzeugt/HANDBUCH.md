@@ -24362,21 +24362,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 4 | b2ch80:146 | "So on the day Mr Hwang signs, one of them is a transaction and the other one is a woman.. |
 | 10 | b2ch81:10 | Georgij was at the desk at two minutes to nine and Mr Hwang was already behind it, with .. |
 | 10 | b2ch81:14 | "The eleventh of June," said Mr Hwang. "That was the last time you were in this building.. |
-| 10 | b2ch81:24 | "The fourth line on that page you asked about in August is a woman. She is on our books .. |
-| 10 | b2ch81:36 | "It is the rule and it is also true. I have looked for the other answer for nine weeks a.. |
-| 10 | b2ch81:58 | Mr Hwang had not moved his hand. |
-| 10 | b2ch81:66 | "I did," said Mr Hwang. |
-| 10 | b2ch81:70 | Mr Hwang looked at the sheet on his desk for a while. |
-| 10 | b2ch81:80 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
-| 10 | b2ch81:94 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
-| 10 | b2ch81:106 | "For as long as the series exists, and the series goes to an archive when this house is .. |
-| 10 | b2ch81:120 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
-| 10 | b2ch81:136 | Mr Hwang did not reach for anything. |
-| 10 | b2ch81:148 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
-| 10 | b2ch81:158 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
-| 10 | b2ch81:166 | Mr Hwang did not move at all. |
-| 10 | b2ch81:174 | "Say the ninth line," said Mr Hwang. |
-| 10 | b2ch81:184 | Mr Hwang put the sheet down on the desk and left his hand off it. |
+| 10 | b2ch81:26 | "The fourth line on that page you asked about in August is a woman. She is on our books .. |
+| 10 | b2ch81:38 | "It is the rule and it is also true. I have looked for the other answer for nine weeks a.. |
+| 10 | b2ch81:60 | Mr Hwang had not moved his hand. |
+| 10 | b2ch81:68 | "I did," said Mr Hwang. |
+| 10 | b2ch81:72 | Mr Hwang looked at the sheet on his desk for a while. |
+| 10 | b2ch81:82 | "I am going to be exact, because you have been exact and because you will otherwise leav.. |
+| 10 | b2ch81:96 | "On the sixth of August you used a clause in our terms of business. You asked in writing.. |
+| 10 | b2ch81:108 | "For as long as the series exists, and the series goes to an archive when this house is .. |
+| 10 | b2ch81:122 | "I know it is. You had four hundred and eighty-one million and a month and no idea what .. |
+| 10 | b2ch81:138 | Mr Hwang did not reach for anything. |
+| 10 | b2ch81:150 | "It means she was never bought." Mr Hwang put both hands flat. "Everything in this trade.. |
+| 10 | b2ch81:160 | "It is not enough to be noted. Write it down somewhere that is not this building." Mr Hw.. |
+| 10 | b2ch81:168 | Mr Hwang did not move at all. |
+| 10 | b2ch81:176 | "Say the ninth line," said Mr Hwang. |
+| 10 | b2ch81:186 | Mr Hwang put the sheet down on the desk and left his hand off it. |
 | 9 | b2ch84:6 | Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that.. |
 | 9 | b2ch84:28 | "He receives nothing," said Mr Hwang. "I want you to be exact about that when you say it.. |
 | 9 | b2ch84:32 | "He signs a form that says the house may transfer a lot he placed to a person who is buy.. |
@@ -24431,14 +24431,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch80:146` (Tag 4) - one
 - `b2ch81:10` (Tag 10) - nine, two
 - `b2ch81:14` (Tag 10) - nineteen, twenty, two
-- `b2ch81:24` (Tag 10) - nine, six
-- `b2ch81:36` (Tag 10) - four, nine, one
-- `b2ch81:80` (Tag 10) - four, three
-- `b2ch81:94` (Tag 10) - fourteen
-- `b2ch81:106` (Tag 10) - nine, one
-- `b2ch81:120` (Tag 10) - four hundred and eighty-one million, two
-- `b2ch81:148` (Tag 10) - eleven
-- `b2ch81:158` (Tag 10) - one
+- `b2ch81:26` (Tag 10) - nine, six
+- `b2ch81:38` (Tag 10) - four, nine, one
+- `b2ch81:82` (Tag 10) - four, three
+- `b2ch81:96` (Tag 10) - fourteen
+- `b2ch81:108` (Tag 10) - nine, one
+- `b2ch81:122` (Tag 10) - four hundred and eighty-one million, two
+- `b2ch81:150` (Tag 10) - eleven
+- `b2ch81:160` (Tag 10) - one
 - `b2ch84:6` (Tag 9) - nine
 - `b2ch84:32` (Tag 9) - four, one
 - `b2ch84:40` (Tag 9) - four
@@ -25524,7 +25524,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
 | 4 | b2ch80:144 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
-| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 10 | b2ch81:54 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
 | 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
 | 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
 | 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
@@ -25557,7 +25557,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:92` (Tag 31) - four, nine, thirty-five
 - `b2ch74:340` (Tag 53) - four, one, two
 - `b2ch80:144` (Tag 4) - eleven, six
-- `b2ch81:52` (Tag 10) - four, nine, thirty-five
+- `b2ch81:54` (Tag 10) - four, nine, thirty-five
 - `b2ch83:82` (Tag 8) - four, thirty-five
 - `b2ch83:92` (Tag 8) - eleven, forty
 - `b2ch86:104` (Tag 8) - four, one
@@ -26062,7 +26062,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch74:324 | "Moon Hae-sook." |
 | 4 | b2ch80:140 | "Moon Hae-sook." |
 | 4 | b2ch80:142 | "Moon Hae-sook. Say it in one sentence and use the word." |
-| 10 | b2ch81:134 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
+| 10 | b2ch81:136 | "There is a woman in the same building who has been there eleven years and is on oxygen... |
 | 5 | b2ch82:90 | "There is a woman in that building who has been there eleven years and is on oxygen," he.. |
 | 12 | b2ch88:30 | The first is that Moon Hae-sook is in a building that is being emptied and there is no f.. |
 | 12 | b2ch88:112 | August is before the twenty-seventh. August is before the letter, before the form, befor.. |
@@ -26077,7 +26077,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch66:266` (Tag 37) - eleven
 - `b2ch68:208` (Tag 42) - eleven, four, one
 - `b2ch80:142` (Tag 4) - one
-- `b2ch81:134` (Tag 10) - eleven, four
+- `b2ch81:136` (Tag 10) - eleven, four
 - `b2ch82:90` (Tag 5) - eleven, three
 - `b2ch88:30` (Tag 12) - one
 - `b2ch88:112` (Tag 12) - eight, twenty
