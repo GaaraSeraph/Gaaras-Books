@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 203.403 Woerter.
+Book Two, 82 Kapitel, 203.405 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -84,7 +84,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 71 | v1.1 | 3.650 |
 | 72 | v1.3 | 2.308 |
 | 73 | v1.0 | 2.175 |
-| 74 | v1.3 | 3.489 |
+| 74 | v1.4 | 3.491 |
 | 75 | v1.0 | 2.539 |
 | 76 | v1.0 | 2.056 |
 | 77 | v1.2 | 2.327 |
@@ -16358,7 +16358,7 @@ He wrote that in the car and drove back with the windows down, and he did not de
 ---
 
 # Book Two · Chapter 74: Forty-one seconds
-*Lot Fourteen* · Version 1.3 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Three Hundred and Forty-Eight · Wednesday 16 September
 
@@ -16368,7 +16368,7 @@ Three doors off a corridor and a plate on none of them.
 
 * * *
 
-"Have you eaten today." Sim had the cup out before he had finished asking, and he did not wait for the answer. "You have come with something and you are not going to make me guess."
+"Have you eaten today?" asked Sim, and he had the cup out before he had finished asking and did not wait for the answer. "You have come with something and you are not going to make me guess."
 
 "I have come with one question and it is not mine. It was given to me yesterday by a man in a repair shop and I did not think of it myself."
 

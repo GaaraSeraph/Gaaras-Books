@@ -1986,6 +1986,49 @@ Kontraktionsrang, nicht die Reihenfolge des Auftretens.)*
 **Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
 gilt ihrem Gewerbe und nicht der Frau, um die es geht.
 
+#### Die Maschine darunter: sie stellt richtig, wer die Arbeit getan hat
+
+**Der gedeckte Raum ist das Material. Der Zug ist die Berichtigung der
+Urheberschaft** - und gemessen am 26.08. ist er der distinktivste Marker, den
+bisher eine Figur in diesem Dokument hat: **drei Treffer bei ihr, null Prozent
+bei Georgij, Annie, Sang-hoon, Woo, Sim, Hana, Mrs Jeon, Jang und Mr Ahn.**
+
+> *"The bride came to this office." … "On the Monday. **Not the mother, not a
+> cousin, not the hall. Her.** She came up those stairs on her own…"*
+> *"She was at the fitting. **I did the fitting.**"*
+> *"Eleven tables' worth. **I put them in the van myself** on the Tuesday."*
+
+**Jede Berichtigung dreht sich um dieselbe Frage: wer hat es wirklich gemacht.**
+Bei einer Frau, der das Geschäft weggenommen wurde und deren Arbeit unter
+fremdem Namen weiterlief, ist das nicht Eitelkeit, sondern das Einzige, was
+sich noch richtigstellen lässt. **Ihr Anliegen und ihre Maschine sind dieselbe
+Sache** - deshalb kommt sie bei jedem dritten Satz darauf zurück.
+
+**Und sie markiert eine Lüge als Lüge, statt sie zu umgehen:** *"Which is a
+lie,"* - einmal, und es steht mitten in ihrer eigenen Aussage.
+
+#### Anwesenheitsprobe
+
+**Maschinenlesbar.** `python3 werkzeug/anwesenheit.py "Mrs Ha"`.
+
+| Zug | Muster | mind. |
+|---|---|---|
+| stellt die Urheberschaft richtig | `(\bI (did|put|made|drove)\b.{0,30}\bmyself\b|\bI did the \w+|Not the \w+, not )` | 1 |
+| zaehlt in Ware und Wochentagen | `\b(tables|linen|flowers|van|fitting|stairs|chair|boxes)\b` | 1 |
+| gibt woertliche Rede weiter | `\b(She said|He said|she asked|she thanked)\b` | 1 |
+| benennt die Luege | `\b(is a lie)\b` | 0 |
+| zieht zusammen | `\b\w+'(t|s|ve|ll|d|re|m)\b` | 0 |
+
+**Die erste Zeile ist die scharfe.** Eine Mrs-Ha-Szene, in der niemand
+richtiggestellt wird, ist keine Mrs-Ha-Szene.
+
+**Grenze dieser Probe, und sie gehoert dazu:** Mrs Ha spricht bisher in **einem
+einzigen Kapitel**. Die Spalte *mind.* misst je Kapitel, in dem die Figur
+auftritt - bei ihr ist das eine Stichprobe von eins. **Die Probe wird erst
+scharf, wenn sie ein zweites Mal auftritt**, und genau dafuer steht sie jetzt
+schon da.
+
+
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
 Fragen, eigenes Anliegen, kein Schluss. **Sie sind die einzigen Menschen im Buch,

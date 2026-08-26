@@ -1873,3 +1873,69 @@ und **was muss drinstehen**. Die zweite Frage ist die schwerere und die, die
 zaehlt.
 
 *Unsicher:* keiner.
+
+## Der Mechanismus: werkzeug/anwesenheit.py
+
+**Auf die Frage des Autors am 26.08. - *"Hast Du einen Mechanismus
+festgezurrt, damit eigener Charakter bei den anderen auch aufgebaut wird?"* -
+war die ehrliche Antwort nein.** Die Anwesenheitspruefung stand als Prosa auf
+Sims Blatt, und Prosa rechnet niemand nach. Jetzt steht sie im Werkzeug.
+
+**Wie eine Figur eine Probe bekommt.** Ihr Abschnitt in `doc/12-stimmen.md`
+bekommt eine Tabelle unter `#### Anwesenheitsprobe`:
+
+    | Zug | Muster | mind. |
+    |---|---|---|
+    | stellt die Urheberschaft richtig | `...regex...` | 1 |
+
+`anwesenheit.py` liest sie, misst gegen die **eigene Rede** der Figur und
+meldet, in welchen Kapiteln der Zug fehlt. `--offen` listet die Blaetter, die
+noch keine Probe haben, nach Textmenge.
+
+**Geeicht auf sechs Frage- und fuenf Gegenproben aus dem Buch.** Die erste
+Fassung der Eichung prueфte, ob Sim null Fragen hat - und schlug fehl, sobald
+ich ihm eine gab. **Eine Eichung, die eine Reparatur als Fehler meldet, misst
+die Reparatur und nicht das Werkzeug.** Ersetzt durch feste Proben.
+
+**Drei eigene Fehler beim Bau, alle gefunden, weil die Eichung lief:**
+
+| Fehler | Symptom |
+|---|---|
+| `\b` als Steuerzeichen in die Datei geschrieben | sechs Muster trafen nichts |
+| Tabellenzeile an `\|` zerlegt, waehrend der Regex selbst Pipes enthaelt | Mindestzahl war Unsinn |
+| `FRAGE` ohne `re.I` und ohne fuehrende Konjunktion | *"And where were you educated?"* fiel durch - **das haette bei jeder Figur zu wenig gezaehlt** |
+
+### Erster Testfall: Mrs Ha, vorher und nachher
+
+**Vorher** - ihr Blatt hatte Maschine, Anliegen und den Kontraktionsrang, aber
+keine Probe. Das Werkzeug konnte ueber sie genau eine Zahl sagen: 6,2 Fragen je
+100 Repliken.
+
+**Nachher** - und der Befund ist besser als erwartet. **Ihr distinktivster Zug
+stand nicht auf ihrem Blatt:**
+
+| Zug | Mrs Ha | Georgij, Annie, Sang-hoon, Woo, Sim, Hana, Mrs Jeon, Jang, Ahn |
+|---|---|---|
+| **stellt die Urheberschaft richtig** | **3 Treffer** | **alle 0 %** |
+| gibt woertliche Rede weiter | 3 | 0-3 % |
+| benennt die Luege | 1 | 0-1 % |
+| zaehlt in Ware und Wochentagen | 4 | 0-2 % |
+
+> *"On the Monday. **Not the mother, not a cousin, not the hall. Her.**"*
+> *"She was at the fitting. **I did the fitting.**"*
+> *"Eleven tables' worth. **I put them in the van myself** on the Tuesday."*
+
+**Jede Berichtigung dreht sich um dieselbe Frage: wer hat es wirklich gemacht.**
+Bei einer Frau, der das Geschaeft weggenommen wurde und deren Arbeit unter
+fremdem Namen weiterlief, sind Anliegen und Maschine **dieselbe Sache**. Das
+stand nirgends und steht jetzt auf ihrem Blatt.
+
+**Alle fuenf Zuege sind bei ihr anwesend, 1/1 Kapitel.** Sie ist der Gegenfall
+zu Sim: eine Figur, die ihre eigene Probe von selbst besteht.
+
+**Grenze, und sie gehoert in den Bericht:** Mrs Ha spricht bisher in **einem**
+Kapitel. `mind.` misst je Kapitel, also ist das eine Stichprobe von eins. Die
+Probe wird erst scharf, wenn sie ein zweites Mal auftritt - und genau dafuer
+steht sie jetzt schon da.
+
+*Unsicher:* keiner.

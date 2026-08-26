@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 274.307 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 275.283 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -250,6 +250,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was die Anwesenheitspruefung sofort findet](#was-die-anwesenheitspruefung-sofort-findet)
   - [Und die Hoeflichkeit ist da - aber nicht in seinem Mund](#und-die-hoeflichkeit-ist-da-aber-nicht-in-seinem-mund)
   - [Was daraus folgt](#was-daraus-folgt)
+  - [Erster Testfall: Mrs Ha, vorher und nachher](#erster-testfall-mrs-ha-vorher-und-nachher)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -6166,7 +6167,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.3) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.4) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -12878,7 +12879,7 @@ sie anwendbar ist:
 **AM 25.08. VOLLSTÄNDIG ZURÜCKGENOMMEN. Was hier stand, war ein Messfehler,
 und der Fehler war meiner.**
 
-Der Kontraktionszähler in `stimmen.py` stand auf `\w+'(?:s|t|re|ve|ll|d|m)`
+Der Kontraktionszähler in `stimmen.py` stand auf `\b\w+'(?:s|t|re|ve|ll|d|m)\b`
 und traf damit **jeden Genitiv**: *Woo's*, *brother's*, *somebody's mother*. Wer
 viel über fremdes Eigentum redet, sah aus wie jemand, der zusammenzieht - und
 diese Tabelle war genau eine Aussage darüber, wer zusammenzieht. Der Zähler ist
@@ -13566,6 +13567,22 @@ die Umstände des anderen, nicht sein Fall.
 Georgijs Haltung.** Sim stellt sie auch, aber er stellt sie **nach** der
 Höflichkeit und nie an ihrer Stelle. Wer ihm eine Szene schreibt, die mit einer
 Diagnose aufmacht, hat einen Fixer geschrieben und keinen Gastgeber.
+
+#### Anwesenheitsprobe
+
+**Maschinenlesbar.** `python3 werkzeug/anwesenheit.py Sim` liest diese Tabelle
+und meldet, in welchen Kapiteln der Zug in **seiner eigenen Rede** fehlt. Die
+Muster sind aus dem Text geholt, nicht erfunden.
+
+| Zug | Muster | mind. |
+|---|---|---|
+| fragt nach einer konkreten Sache | `(?:^|(?<=[.?!]) )(Have you|How is|How are|Is that|Is it|Did you|Are you)\b` | 1 |
+| richtet vorher ein | `\bI have (ordered|brought|put in|made|paid|taken)\b` | 1 |
+| benennt die Einrichtung | `(so do not|under no obligation|I did not want to tell you|that is not generosity)` | 0 |
+| wartet zu geben | `you have not asked` | 0 |
+
+**Die erste Zeile ist die scharfe.** Sie stand am 26.08. in **jedem** seiner
+Kapitel auf null - das ist der Befund, der diese Probe ausgeloest hat.
 
 **Wo es im Text fehlt, gemessen an dieser Probe:** b2 K74 macht mit *"You have
 come with something and you are not going to make me guess"* auf - keine Frage,
@@ -14466,6 +14483,49 @@ Kontraktionsrang, nicht die Reihenfolge des Auftretens.)*
 
 **Und sie ist nicht dankbar, dass jemand fragt.** Sie ist wuetend, und die Wut
 gilt ihrem Gewerbe und nicht der Frau, um die es geht.
+
+#### Die Maschine darunter: sie stellt richtig, wer die Arbeit getan hat
+
+**Der gedeckte Raum ist das Material. Der Zug ist die Berichtigung der
+Urheberschaft** - und gemessen am 26.08. ist er der distinktivste Marker, den
+bisher eine Figur in diesem Dokument hat: **drei Treffer bei ihr, null Prozent
+bei Georgij, Annie, Sang-hoon, Woo, Sim, Hana, Mrs Jeon, Jang und Mr Ahn.**
+
+> *"The bride came to this office." … "On the Monday. **Not the mother, not a
+> cousin, not the hall. Her.** She came up those stairs on her own…"*
+> *"She was at the fitting. **I did the fitting.**"*
+> *"Eleven tables' worth. **I put them in the van myself** on the Tuesday."*
+
+**Jede Berichtigung dreht sich um dieselbe Frage: wer hat es wirklich gemacht.**
+Bei einer Frau, der das Geschäft weggenommen wurde und deren Arbeit unter
+fremdem Namen weiterlief, ist das nicht Eitelkeit, sondern das Einzige, was
+sich noch richtigstellen lässt. **Ihr Anliegen und ihre Maschine sind dieselbe
+Sache** - deshalb kommt sie bei jedem dritten Satz darauf zurück.
+
+**Und sie markiert eine Lüge als Lüge, statt sie zu umgehen:** *"Which is a
+lie,"* - einmal, und es steht mitten in ihrer eigenen Aussage.
+
+#### Anwesenheitsprobe
+
+**Maschinenlesbar.** `python3 werkzeug/anwesenheit.py "Mrs Ha"`.
+
+| Zug | Muster | mind. |
+|---|---|---|
+| stellt die Urheberschaft richtig | `(\bI (did|put|made|drove)\b.{0,30}\bmyself\b|\bI did the \w+|Not the \w+, not )` | 1 |
+| zaehlt in Ware und Wochentagen | `\b(tables|linen|flowers|van|fitting|stairs|chair|boxes)\b` | 1 |
+| gibt woertliche Rede weiter | `\b(She said|He said|she asked|she thanked)\b` | 1 |
+| benennt die Luege | `\b(is a lie)\b` | 0 |
+| zieht zusammen | `\b\w+'(t|s|ve|ll|d|re|m)\b` | 0 |
+
+**Die erste Zeile ist die scharfe.** Eine Mrs-Ha-Szene, in der niemand
+richtiggestellt wird, ist keine Mrs-Ha-Szene.
+
+**Grenze dieser Probe, und sie gehoert dazu:** Mrs Ha spricht bisher in **einem
+einzigen Kapitel**. Die Spalte *mind.* misst je Kapitel, in dem die Figur
+auftritt - bei ihr ist das eine Stichprobe von eins. **Die Probe wird erst
+scharf, wenn sie ein zweites Mal auftritt**, und genau dafuer steht sie jetzt
+schon da.
+
 
 ### Zivilisten (die Gießerin, Nachbarn, Ladenpersonal)
 Siehe Musterfall. Lang und tragfrei, Assoziation, Ausrufezeichen, soziale
@@ -17605,6 +17665,72 @@ zaehlt.
 
 *Unsicher:* keiner.
 
+## Der Mechanismus: werkzeug/anwesenheit.py
+
+**Auf die Frage des Autors am 26.08. - *"Hast Du einen Mechanismus
+festgezurrt, damit eigener Charakter bei den anderen auch aufgebaut wird?"* -
+war die ehrliche Antwort nein.** Die Anwesenheitspruefung stand als Prosa auf
+Sims Blatt, und Prosa rechnet niemand nach. Jetzt steht sie im Werkzeug.
+
+**Wie eine Figur eine Probe bekommt.** Ihr Abschnitt in `doc/12-stimmen.md`
+bekommt eine Tabelle unter `#### Anwesenheitsprobe`:
+
+    | Zug | Muster | mind. |
+    |---|---|---|
+    | stellt die Urheberschaft richtig | `...regex...` | 1 |
+
+`anwesenheit.py` liest sie, misst gegen die **eigene Rede** der Figur und
+meldet, in welchen Kapiteln der Zug fehlt. `--offen` listet die Blaetter, die
+noch keine Probe haben, nach Textmenge.
+
+**Geeicht auf sechs Frage- und fuenf Gegenproben aus dem Buch.** Die erste
+Fassung der Eichung prueфte, ob Sim null Fragen hat - und schlug fehl, sobald
+ich ihm eine gab. **Eine Eichung, die eine Reparatur als Fehler meldet, misst
+die Reparatur und nicht das Werkzeug.** Ersetzt durch feste Proben.
+
+**Drei eigene Fehler beim Bau, alle gefunden, weil die Eichung lief:**
+
+| Fehler | Symptom |
+|---|---|
+| `\b` als Steuerzeichen in die Datei geschrieben | sechs Muster trafen nichts |
+| Tabellenzeile an `\|` zerlegt, waehrend der Regex selbst Pipes enthaelt | Mindestzahl war Unsinn |
+| `FRAGE` ohne `re.I` und ohne fuehrende Konjunktion | *"And where were you educated?"* fiel durch - **das haette bei jeder Figur zu wenig gezaehlt** |
+
+### Erster Testfall: Mrs Ha, vorher und nachher
+
+**Vorher** - ihr Blatt hatte Maschine, Anliegen und den Kontraktionsrang, aber
+keine Probe. Das Werkzeug konnte ueber sie genau eine Zahl sagen: 6,2 Fragen je
+100 Repliken.
+
+**Nachher** - und der Befund ist besser als erwartet. **Ihr distinktivster Zug
+stand nicht auf ihrem Blatt:**
+
+| Zug | Mrs Ha | Georgij, Annie, Sang-hoon, Woo, Sim, Hana, Mrs Jeon, Jang, Ahn |
+|---|---|---|
+| **stellt die Urheberschaft richtig** | **3 Treffer** | **alle 0 %** |
+| gibt woertliche Rede weiter | 3 | 0-3 % |
+| benennt die Luege | 1 | 0-1 % |
+| zaehlt in Ware und Wochentagen | 4 | 0-2 % |
+
+> *"On the Monday. **Not the mother, not a cousin, not the hall. Her.**"*
+> *"She was at the fitting. **I did the fitting.**"*
+> *"Eleven tables' worth. **I put them in the van myself** on the Tuesday."*
+
+**Jede Berichtigung dreht sich um dieselbe Frage: wer hat es wirklich gemacht.**
+Bei einer Frau, der das Geschaeft weggenommen wurde und deren Arbeit unter
+fremdem Namen weiterlief, sind Anliegen und Maschine **dieselbe Sache**. Das
+stand nirgends und steht jetzt auf ihrem Blatt.
+
+**Alle fuenf Zuege sind bei ihr anwesend, 1/1 Kapitel.** Sie ist der Gegenfall
+zu Sim: eine Figur, die ihre eigene Probe von selbst besteht.
+
+**Grenze, und sie gehoert in den Bericht:** Mrs Ha spricht bisher in **einem**
+Kapitel. `mind.` misst je Kapitel, also ist das eine Stichprobe von eins. Die
+Probe wird erst scharf, wenn sie ein zweites Mal auftritt - und genau dafuer
+steht sie jetzt schon da.
+
+*Unsicher:* keiner.
+
 ---
 
 # Kürzen: was jedes Kapitel trägt
@@ -20361,7 +20487,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
-| 51 | b2ch74:14 | "Have you eaten today." Sim had the cup out before he had finished asking, and he did no.. |
+| 51 | b2ch74:14 | "Have you eaten today?" asked Sim, and he had the cup out before he had finished asking .. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
 | 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |
