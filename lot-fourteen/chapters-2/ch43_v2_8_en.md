@@ -1,5 +1,5 @@
 # Chapter 43: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -15,11 +15,7 @@ The reservation book gave him tables, not names. A table booked under one initia
 
 ---
 
-He had already found Y in it, a fortnight ago, sitting at a table with a companion who ate while Choi Dae-ho never came at all. That one was finished. Yeom had been cleared, and the companion still had no name.
-
----
-
-Three letters remained, and he had spent the whole of Thursday on the first two.
+Y was finished a fortnight ago. Three letters remained, and he had spent the whole of Thursday on the first two.
 
 ---
 
@@ -27,11 +23,7 @@ Three letters remained, and he had spent the whole of Thursday on the first two.
 
 ---
 
-He had written that line in May and left it alone since, because a single date without a second one to check it against was not a fact. It was a guess dressed as one, and he had learned this year what that costs.
-
----
-
-The second date changed it from a guess into something he could stand behind.
+He had written that line in May and left it alone since, because one date without a second one to check it against is a guess dressed as a fact.
 
 ---
 
@@ -47,11 +39,7 @@ Byun's sheet was the reason he trusted the second line at all. A single word on 
 
 ---
 
-Four years ago in March. Three years after that in August. Two tables, two hours, and between them the exact stretch of time it had taken the house's secret to outgrow what Sang-hoon could carry alone. By October it needed a stranger's hands on it.
-
----
-
-He did not think that was a coincidence. He had spent enough of this year finding out what a coincidence actually looks like to know the difference, and this was not one. This was two ends of the same rope, and he had been holding both without noticing they were already tied together.
+Two tables and two hours, and between them the exact stretch of time it took the house's secret to outgrow what Sang-hoon could carry on his own.
 
 ---
 
@@ -60,10 +48,6 @@ K gave him nothing at all.
 ---
 
 He went through the reservation book twice more, once by initial and once by table number, and found no third letter in the same hand at the same restaurant in the four years the book covered. Either K had eaten somewhere else entirely, or K had not eaten anywhere.
-
----
-
-He wrote that down as well, because a list that only shows what was found is a worse list than one that shows what was looked for and was not there. Mrs Jeon had taught him that too, without meaning to, the first time he saw forty lines in an exercise book that were records and not accusations.
 
 ---
 
@@ -233,11 +217,7 @@ He wrote it down before he sat, because the sentence was better than anything he
 
 ---
 
-He thought about the two dates he had already closed, and about how neither of them had needed him to walk into a room and demand anything. A reservation book, a folded sheet, a delivery record nobody had thought worth protecting. Small paper, kept honestly by people who had no reason to lie about a table number, had done more than a single confrontation ever could have.
-
----
-
-K would not be like that, and he understood why the moment Annie said it aloud. A golf course keeps a membership list and a tee time, not a conversation. A private room keeps a booking and a bill for the towels, not the four sentences said inside it. Whatever K had decided, it had been decided in a place built precisely so that being there proved nothing at all.
+A golf course keeps a membership list and a tee time, not a conversation. A private room keeps a booking and a bill for the towels, not the four sentences said inside it. Whatever K decided, it was decided in a place built so that being there proves nothing.
 
 ---
 
@@ -282,10 +262,6 @@ Nothing.
 ---
 
 He checked the year before that as well, and the year before that, going backward until he had covered all eleven years the trust had existed.
-
----
-
-One filing, two years before the one he was looking for, gave him a false start. A different address on the same street, a different building entirely, registered for a wall-mounted heater rather than anything medical. He crossed it off within a minute of reading it properly. He wrote the minute down anyway, because a minute spent ruling something out was still a minute spent, and the book he was keeping did not distinguish between the two kinds of time.
 
 ---
 
@@ -400,7 +376,7 @@ It took him until three in the morning, and most of that was reading rather than
 
 ---
 
-Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system, along with about two hundred other small suppliers, from a company in Bundang that sells scheduling software to anybody with vans. The company in Bundang publishes an installation manual on its own website so that its customers can set the software up themselves. On page seven of that manual is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
+Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system from a company in Bundang that sells scheduling software to anybody with vans, and the company in Bundang publishes the installation manual on its own website. On page seven is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
 
 ---
 

@@ -1186,3 +1186,72 @@ durchgesehen; was übrig ist, sagt selbst, dass es ein Rückruf ist.
 4. **Der Abendbericht.** Drei bis fünf davon können ein Halbsatz am Anfang des
    nächsten Kapitels sein.
 
+---
+
+## Gekürzt am 27.08.
+
+**521 Wörter, und die Regel, die vier Kapitel von der Liste genommen hat.**
+
+### Die Regel zuerst, weil sie die Hälfte der Arbeit erledigt hat
+
+Die Spanne 2000 bis 4300 wurde festgelegt, **als jedes Kapitel genau einen
+Erzähltag hatte** - eine Bewegung, ein Kapitel. Seit den Zusammenlegungen vom
+26.08. tragen vier Kapitel zwei Tage, und die alte Obergrenze meldete sie als
+zu lang, obwohl sie genau so lang sind, wie zwei Bewegungen sein müssen.
+
+**`check.py` rechnet jetzt mit Erzähltagen: plus 900 je zusätzlichem Tag.** Die
+Untergrenze bleibt, wo sie ist. Kurz ist kurz, egal wie viele Tage darin sind.
+
+Damit fallen **B2 43 und B2 67** aus der Liste, ohne dass ein guter Satz dafür
+sterben musste. Ein Kapitel auf eine Zahl zu stutzen, die für einen anderen Bau
+gemacht wurde, wäre die falsche Reihenfolge.
+
+### Was tatsächlich geschnitten wurde
+
+**B2 43, 390 Wörter, drei Schnitte an derselben Sorte Stelle.** Die zwei
+geschlossenen Daten wurden im kleinen Zimmer vollständig ausgelegt und tausend
+Wörter später Sang-hoon im Restaurant noch einmal, wo sie außerdem eine
+Reaktion bekommen. Der Schnitt gehört an die erste Stelle, weil die zweite das
+Urteil trägt. Dazu ein Fehlstart mit einer falschen Adresse, der ausdrücklich
+nichts ergibt, in einem Kapitel, das schon eine Stunde hat, die ausdrücklich
+nichts ergibt. Und drei aufeinanderfolgende Absätze, die dreimal sagen, dass K
+an einem Ort entschieden wurde, der keine Bücher führt.
+
+**B2 29, 131 Wörter, beide an der Bilanz.** Die Zwischenbilanz auf dem Rückweg
+fällt ganz: vier Absätze, die aufzählen, was er hat, zwanzig Zeilen bevor er es
+Annie sagt und sie darauf antwortet. Und im Abendbericht bleibt von seinen
+Repliken nur das Neue. **Annies Antworten stehen vollständig da**,
+einschließlich der besten Regieanweisung des Kapitels: *"She turned round at the
+doctor."*
+
+**Dazu ein Doppler aus `doppelt.py`:** *"a list that only shows what was found
+is a worse list ... Mrs Jeon had taught him that too"* stand fast wortgleich in
+K41 und K43. K41 ist die erste und behält sie.
+
+### Was ich nicht geschnitten habe, und warum
+
+**B2 58 (4472) und B2 29 (4419) liegen weiter knapp über der Spanne**, und
+beide sind Eintageskapitel mit zwei vollen Szenen. Bei 58 wäre der einzige
+verbliebene Kandidat Mrs Seos Wäscherei-Absatz, und darin steht der Satz *"they
+think nobody in this house reads the second page"*, der das ganze Buch in acht
+Wörtern hat. **Hundertsiebzig Wörter sind das nicht wert.**
+
+**B1 05 liegt siebenundzwanzig Wörter drüber.** Das ist keine Kürzung, das ist
+Rauschen.
+
+**Die drei Kapitel unter 2000** bleiben unangetastet. B2 47 mit 1889 ist das
+kürzeste des Buches und erzählt zwölf weiße Stiele. Es ist fertig.
+
+**Und die elf Kapitel ohne Traglastmerkmal bleiben als Block stehen.** Der
+Grund steht im Abschnitt darüber und heißt B1 27.
+
+### Stand danach
+
+116 Kapitel, **319 574 Wörter**. Fünf Kapitel über der Spanne, davon drei aus
+Gründen, die im Text und nicht im Zähler liegen.
+
+**Was als Nächstes tatsächlich Wörter bringt, ist nicht Kürzen, sondern der
+Abendbericht:** 63 von 116 Kapiteln enden bei Annie. Drei bis fünf davon können
+ein Halbsatz am Anfang des nächsten Kapitels sein, und das sind rund tausend
+Wörter, die niemand vermissen wird.
+

@@ -333,9 +333,21 @@ def check(path):
     if not days:
         warns.append("Keine Datumszeile gefunden.")
 
+    # Die Spanne rechnet mit Erzaehltagen. Sie wurde festgelegt, als jedes
+    # Kapitel genau einen Tag hatte - eine Bewegung, ein Kapitel. Seit den
+    # Zusammenlegungen vom 26.08. tragen vier Kapitel zwei Tage, und die alte
+    # Obergrenze meldete sie als zu lang, obwohl sie genau so lang sind, wie
+    # zwei Bewegungen sein muessen. **Ein Kapitel auf 4300 zu stutzen, weil die
+    # Regel fuer einen anderen Bau gemacht wurde, waere die falsche Reihenfolge.**
+    # Die Untergrenze bleibt: kurz ist kurz, egal wie viele Tage darin sind.
     n = len(t.split())
-    if n < 2000 or n > 4300:
-        warns.append(f"{n} Woerter, ausserhalb der Spanne 2000 bis 4300.")
+    tage = max(1, len(days))
+    obergrenze = 4300 + 900 * (tage - 1)
+    if n < 2000 or n > obergrenze:
+        wie = f"2000 bis {obergrenze}"
+        if tage > 1:
+            wie += f" (bei {tage} Erzaehltagen)"
+        warns.append(f"{n} Woerter, ausserhalb der Spanne {wie}.")
 
     paste = os.path.join(os.path.dirname(os.path.dirname(path)) or ".", "paste",
                          f"band-{band_of(path)}",

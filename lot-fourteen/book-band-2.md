@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 218.895 Woerter.
+Book Two, 82 Kapitel, 218.378 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -37,7 +37,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 25 | v1.5 | 2.099 |
 | 26 | v1.8 | 3.886 |
 | 28 | v1.8 | 2.444 |
-| 29 | v1.9 | 4.550 |
+| 29 | v1.10 | 4.419 |
 | 31 | v1.3 | 2.317 |
 | 32 | v1.5 | 2.352 |
 | 33 | v1.7 | 4.211 |
@@ -49,7 +49,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 40 | v2.9 | 2.775 |
 | 41 | v2.5 | 3.854 |
 | 42 | v2.7 | 3.327 |
-| 43 | v2.6 | 5.174 |
+| 43 | v2.8 | 4.788 |
 | 45 | v1.5 | 2.162 |
 | 46 | v1.4 | 2.551 |
 | 47 | v1.5 | 1.889 |
@@ -5911,7 +5911,7 @@ Then he got the notebook out, under the date, and wrote two lines that he has no
 ---
 
 # Book Two · Chapter 29: A person with nothing
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Two Hundred and Thirty-Eight · Friday 29 May
 
@@ -6129,13 +6129,7 @@ At the door she said one more thing.
 
 Georgij went down two flights and out past the chemist and stood at the stop for a quarter of an hour.
 
-He has a lot number, a season, and four cleared invoices against it.
-
-He also has the answer to a question he did not ask anybody for ten weeks.
-
 The call was made. It was refused in the first minute it was possible to refuse it, and she was right to refuse it, and nobody would have had to explain any of that to him if he had asked once in April.
-
-He also has a woman four stops out of a station he had never used, sitting at a table in front of a window with eleven blocks in it. She can put her hand on a piece of paper that would take Annie apart.
 
 * * *
 
@@ -6157,7 +6151,7 @@ She closed it.
 
 "What did you tell her?"
 
-"That two of the four references on that back page are the fourth of October. Lot eleven and lot fourteen. That I was in the room for both of them and that I was the second one."
+"That I was in the room for both of the October references, and that I was the second one."
 
 Annie put the folder down on the desk and squared it with two fingers, which is not a thing she does.
 
@@ -6183,7 +6177,7 @@ She did not sit. She went as far as the window and stood with her back to the ro
 
 "What did you get for it?"
 
-"Lot six," said Georgij. "The spring auction, four years ago. It was in the book from the January before until the September after, and it went out of the book in the spring after that, and while it was in there four things cleared against it through her desk."
+"Lot six," said Georgij. "Four things cleared against it through her desk while it was in the book."
 
 Annie did not turn round.
 
@@ -6195,7 +6189,7 @@ She turned round at the doctor.
 
 Neither of them said anything for a while.
 
-"She passed the invoice herself," said Georgij. "It was a proper invoice from a proper practice. She did not think about it for four years and she has thought about it every day since the ninth of January."
+"She passed the invoice herself," said Georgij. "She did not think about it for four years and she has thought about it every day since the ninth of January."
 
 Annie came back and sat down at the desk after all, which she had not been going to do.
 
@@ -9261,7 +9255,7 @@ Deciding that too early was the mistake he had already promised himself, twice t
 ---
 
 # Book Two · Chapter 43: Somebody in Seoul pays for it
-*Lot Fourteen* · Version 2.6 · EN
+*Lot Fourteen* · Version 2.8 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9271,15 +9265,11 @@ Georgij spread three things across the small room's desk before Annie was even a
 
 The reservation book gave him tables, not names. A table booked under one initial, a time, and sometimes a note about who had paid and who had not.
 
-He had already found Y in it, a fortnight ago, sitting at a table with a companion who ate while Choi Dae-ho never came at all. That one was finished. Yeom had been cleared, and the companion still had no name.
-
-Three letters remained, and he had spent the whole of Thursday on the first two.
+Y was finished a fortnight ago. Three letters remained, and he had spent the whole of Thursday on the first two.
 
 *S. 8pm. March, four years ago. The same spring, Georgij now saw, as the auction where lot six was kept open until midnight with no clearing behind it.*
 
-He had written that line in May and left it alone since, because a single date without a second one to check it against was not a fact. It was a guess dressed as one, and he had learned this year what that costs.
-
-The second date changed it from a guess into something he could stand behind.
+He had written that line in May and left it alone since, because one date without a second one to check it against is a guess dressed as a fact.
 
 *H. 7:30. A late August, three years later. Six weeks before Hwang was brought into a house that was already dying and did not know it yet.*
 
@@ -9287,15 +9277,11 @@ He sat back and read the two lines together, the way Mrs Jeon had taught him to 
 
 Byun's sheet was the reason he trusted the second line at all. A single word on it, half the name of a delivery firm, matched a line in the reservation book he had not been looking for. It named a driver sent to the same address, that same October. Two documents that had never been meant to sit next to each other agreed anyway. That was the closest thing to proof he was going to get without asking somebody who could still be hurt by the answer.
 
-Four years ago in March. Three years after that in August. Two tables, two hours, and between them the exact stretch of time it had taken the house's secret to outgrow what Sang-hoon could carry alone. By October it needed a stranger's hands on it.
-
-He did not think that was a coincidence. He had spent enough of this year finding out what a coincidence actually looks like to know the difference, and this was not one. This was two ends of the same rope, and he had been holding both without noticing they were already tied together.
+Two tables and two hours, and between them the exact stretch of time it took the house's secret to outgrow what Sang-hoon could carry on his own.
 
 K gave him nothing at all.
 
 He went through the reservation book twice more, once by initial and once by table number, and found no third letter in the same hand at the same restaurant in the four years the book covered. Either K had eaten somewhere else entirely, or K had not eaten anywhere.
-
-He wrote that down as well, because a list that only shows what was found is a worse list than one that shows what was looked for and was not there. Mrs Jeon had taught him that too, without meaning to, the first time he saw forty lines in an exercise book that were records and not accusations.
 
 *K. Nothing in the book, in four years of it. Try somewhere that keeps no book at all.*
 
@@ -9425,9 +9411,7 @@ Annie was in the small room when he came back, going through a delivery ledger o
 
 He wrote it down before he sat, because the sentence was better than anything he could have improved by waiting.
 
-He thought about the two dates he had already closed, and about how neither of them had needed him to walk into a room and demand anything. A reservation book, a folded sheet, a delivery record nobody had thought worth protecting. Small paper, kept honestly by people who had no reason to lie about a table number, had done more than a single confrontation ever could have.
-
-K would not be like that, and he understood why the moment Annie said it aloud. A golf course keeps a membership list and a tee time, not a conversation. A private room keeps a booking and a bill for the towels, not the four sentences said inside it. Whatever K had decided, it had been decided in a place built precisely so that being there proved nothing at all.
+A golf course keeps a membership list and a tee time, not a conversation. A private room keeps a booking and a bill for the towels, not the four sentences said inside it. Whatever K decided, it was decided in a place built so that being there proves nothing.
 
 He did not take that as a reason to stop. He took it as a description of the work still ahead: no single document would settle K, the way one line each had settled S and H. He would need two or three small facts, unconnected on paper, that turned out to agree with each other by accident. Byun's driver and Sang-hoon's dinner had done exactly that, agreeing with each other before either paper knew the other one existed, and he did not see why the same patience would fail him a third time.
 
@@ -9454,8 +9438,6 @@ He found the district's compliance list for the year of the doctor's July visit 
 Nothing.
 
 He checked the year before that as well, and the year before that, going backward until he had covered all eleven years the trust had existed.
-
-One filing, two years before the one he was looking for, gave him a false start. A different address on the same street, a different building entirely, registered for a wall-mounted heater rather than anything medical. He crossed it off within a minute of reading it properly. He wrote the minute down anyway, because a minute spent ruling something out was still a minute spent, and the book he was keeping did not distinguish between the two kinds of time.
 
 The filing appeared exactly once, in July, four years ago. Not before it. Not after it, either, which told him the equipment had never been removed once it arrived.
 
@@ -9535,7 +9517,7 @@ Annie looked at him for what felt like a long time and was probably three second
 
 It took him until three in the morning, and most of that was reading rather than getting in.
 
-Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system, along with about two hundred other small suppliers, from a company in Bundang that sells scheduling software to anybody with vans. The company in Bundang publishes an installation manual on its own website so that its customers can set the software up themselves. On page seven of that manual is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
+Getting in was a door somebody else had left open, which is what it usually is. The firm rents its system from a company in Bundang that sells scheduling software to anybody with vans, and the company in Bundang publishes the installation manual on its own website. On page seven is the support account it creates during installation, with the password it uses and an instruction to change it afterwards.
 
 Georgij read the manual first, in full, which took twenty minutes and was the only part of the night he enjoyed.
 

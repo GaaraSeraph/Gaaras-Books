@@ -1686,7 +1686,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und der Schluss stellt das naechste Kapitel scharf:** am 16. Maerz hat sie ihren Preis genannt, und der Preis war ein Name. **"He is going to arrive at her door without one."**
 
-- **Band 2, Kapitel 29** *A person with nothing* (v1.9) - **Tag 238, Fr 29. Mai. Am 26.08. aus 29 und 30 zusammengelegt: der Kuechentisch vier Haltestellen draussen, und am selben Abend das kleine Zimmer.**
+- **Band 2, Kapitel 29** *A person with nothing* (v1.10) - **Tag 238, Fr 29. Mai. Am 26.08. aus 29 und 30 zusammengelegt: der Kuechentisch vier Haltestellen draussen, und am selben Abend das kleine Zimmer.**
 
   **Der Titel ist ihr eigener Satz vom 16. Maerz**, an dem der Preis haengt: *"Come back when you have your name, and I will tell you the rest of what I know, which is not very much and is worth having."*
 
@@ -2017,7 +2017,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.6) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
+- **Band 2, Kapitel 43** *Somebody in Seoul pays for it* (v2.8) - **Tag 273 und 276, Fr 3. und Mo 6. Juli. Am 26.08. aus 43 und 44 zusammengelegt: die Form in der Groesse eines Menschen, und drei Tage spaeter die Sauerstoffmeldung.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
