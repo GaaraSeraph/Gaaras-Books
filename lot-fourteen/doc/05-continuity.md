@@ -3746,6 +3746,61 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     nobody."*
   - **Faellig: Donnerstag, der 15. Oktober, neun Uhr** (Tag 377).
 
+- **Band 2, Kapitel 81** *The permanent series* (v1.0) - **Tag 377, Do 15. Oktober, neun Uhr. Er sagt ja in vierzig Sekunden, und der Preis ist nicht das Geld.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mr Hwang nimmt vorweg, wie immer**, mit Datum und Uhrzeit: der 11. Juni,
+    zwanzig nach zwei, neunzehn Minuten. Und dann sagt er das Belastende zuerst
+    und ungefragt: **er weiss seit dem 12. August, dass die vierte Zeile eine
+    Person ist**, weil er die Antwort auf die Provenienzanfrage selbst geschrieben
+    hat. *"That is nine weeks and I have done nothing."*
+  - **Warum nicht:** ein Verwalter kann nichts gegen ein Los tun, das platziert
+    und laufend ist. *"I can answer questions about it and I did. I cannot go and
+    get her."* **Und er nennt es selbst das zweite Mal**, nach dem 9. Januar.
+  - **Georgij hatte sechs Tage an dem Satz gebaut und benutzt nichts davon.** Er
+    gibt es in Annies Reihenfolge, elf Minuten, alles vor der Antwort.
+  - **Hwang sagt ja**, und dreht dabei zum ersten Mal ein Blatt um und laesst es
+    los. Was er unterschreibt: eine Abtretung einer laufenden Konsignation aus
+    einem Haus in Abwicklung an einen **benannten** Kaeufer. Weisung der
+    platzierenden Partei, ein Preis, vier Seiten. **Die vierte hat ein Namensfeld
+    und es darf kein Vertreter sein.**
+  - **DER PREIS, UND HWANG NENNT IHN UNGEFRAGT, BEVOR GEORGIJ IHN FINDET.** Die
+    Provenienzklausel hat **er** 2011 geschrieben und war vierzehn Jahre stolz
+    darauf. Sie arbeitet in beide Richtungen: eine Abtretung aus einer Abwicklung
+    geht in dieselbe **permanente Reihe**, an eigener Stelle, mit Datum und beiden
+    Parteien. *"It cannot be sealed and it cannot be withdrawn and there is no
+    application for either, because I did not write one in."*
+  - **Also ist der Preis nicht das Geld.** *"In about nine years somebody will
+    read the sequence for a different reason and they will find an entry from
+    November with a woman's name on one side and a woman's name on the other."*
+    Eine Frau, die seit neunzehn Jahren neben nichts auf Papier steht.
+  - **Und Georgij entscheidet es nicht.** Hwang stellt ihn ausdruecklich vor die
+    Wahl und hilft nicht: heute zurueckbringen, oder jetzt behaupten, sie habe
+    schon entschieden. *"She has not decided. She does not know."* - *"Then that
+    is the correct answer and it took you about a second and a half."*
+  - **MOON HAE-SOOK: NICHTS.** Kein Los, keine Nummer, kein Eintrag, kein
+    Abrechnungsbeleg, keine Provision, keine Zeile mit diesem Namen im ganzen
+    Haus. Hwang hat die Reihe seit April dreimal gelesen, das dritte Mal mit
+    dieser Frage im Kopf. **Sie wurde nie gekauft. Sie wird gehalten**, und wer
+    jemanden ohne Zeile haelt, hat vorher entschieden, dass nie jemand fragen
+    kann.
+  - **Und was Hwang daran an sich selbst sieht:** *"It has never in fourteen years
+    occurred to me that the useful question might be about somebody who is not
+    one, and I would like that noted as well."* Darauf: *"It is not enough to be
+    noted. Write it down somewhere that is not this building."*
+  - **DIE SEITE AUS KAPITEL 71, UND ES IST DIE STELLE DES KAPITELS.** Georgij sagt
+    ihm, dass das Blatt existiert, unterschrieben, datiert auf den 14. Juni, neun
+    Zeilen. Und weigert sich, ihm eine Zeile daraus vorzulesen, weil Mrs Jeon es
+    an die Bedingung geknuepft hat, es nicht zu benutzen. **Elf Minuten nachdem
+    Hwang zugesagt hat, waere Vorlesen Benutzen.** Hwangs Antwort: *"you have just
+    told me the thing I wanted and refused to hand it to me... Do not be. The
+    second half is the reason I believe the first."*
+  - **Frist: eine Woche** (Tag 384), weil die platzierende Partei das Haus vor
+    Ende November raeumt. Und der Name auf der vierten Seite **in ihrer eigenen
+    Handschrift**, kein getippter.
+  - **Offen und beim Autor:** ob Annie den Eintrag in der permanenten Reihe
+    annimmt. Das ist die Entscheidung, die Kapitel 82 traegt.
+
 
 
 ---
