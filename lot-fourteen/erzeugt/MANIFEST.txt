@@ -123,6 +123,7 @@ b2  ch86  v1.0       2148 Woerter  ch86_v1_0_en.md
 b2  ch87  v1.0       2014 Woerter  ch87_v1_0_en.md
 b2  ch88  v1.0       1998 Woerter  ch88_v1_0_en.md
 b2  ch89  v1.0       2085 Woerter  ch89_v1_0_en.md
+b2  ch90  v1.0       1704 Woerter  ch90_v1_0_en.md
 
-Gesamt: 2 Baende, 123 Kapitel, 319536 Woerter
+Gesamt: 2 Baende, 124 Kapitel, 321240 Woerter
 Handbuch: 18 Dokumente

@@ -18,15 +18,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 898 | 98 (b1ch01-b2ch89) | 1 | 74 |
+| Annie | 905 | 99 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 251 | 43 (b1ch07-b2ch87) | 1 | 74 |
+| Chairman Woo | 253 | 44 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 159 | 41 (b1ch05-b2ch89) | 2 | 60 |
 | Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
-| Mrs Jeon | 112 | 23 (b2ch06-b2ch87) | 2 | 59 |
+| Mrs Jeon | 113 | 24 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
-| Mrs Seo | 103 | 48 (b1ch03-b2ch89) | 1 | 74 |
+| Mrs Seo | 104 | 49 (b1ch03-b2ch90) | 1 | 74 |
 | Mr Ahn | 102 | 13 (b2ch56-b2ch88) | 3 | 53 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mrs Sunwoo | 56 | 18 (b1ch07-b2ch89) | 1 | 60 |
@@ -37,9 +37,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 36 | 20 (b1ch07-b2ch88) | 2 | 61 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
+| Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Ahn Jung-hee | 30 | 15 (b2ch56-b2ch89) | 4 | 53 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Mrs Ha | 28 | 4 (b2ch66-b2ch89) | 13 | 42 |
@@ -69,7 +69,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-898 Nennungen in 98 Kapiteln.
+905 Nennungen in 99 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -971,6 +971,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch88:194 | Annie looked out of the window for a while. |
 | 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
 | 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
+| 19 | b2ch90:16 | The second time she stayed four hours and came back with oil on the sleeve of a coat tha.. |
+| 19 | b2ch90:70 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
+| 19 | b2ch90:86 | "You have not slept since the second," said Annie. |
+| 19 | b2ch90:104 | Annie's hand did not move. |
+| 19 | b2ch90:112 | "Then say the rest of it," said Annie. |
+| 19 | b2ch90:132 | Annie did not say anything. |
+| 19 | b2ch90:156 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -1223,6 +1230,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch88:34` (Tag 12) - two
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:148` (Tag 15) - one
+- `b2ch90:16` (Tag 19) - four, one
+- `b2ch90:70` (Tag 19) - three
 
 ---
 
@@ -1639,7 +1648,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-251 Nennungen in 43 Kapiteln.
+253 Nennungen in 44 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1894,6 +1903,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch80:24 | It went through on the Friday morning at a fifth over the best of the three numbers Geor.. |
 | 12 | b2ch80:28 | Then, because it was true, he wrote *Woo was right about the price and right about the m.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
+| 19 | b2ch90:56 | There is a man at Gimpo with a piece of drained ground and a gate, and in about six year.. |
+| 19 | b2ch90:58 | Woo has not been in that house since the fifth of October. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -2049,6 +2060,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:178` (Tag 10) - four
 - `b2ch80:24` (Tag 12) - eight, three
 - `b2ch87:174` (Tag 10) - one, twenty-three
+- `b2ch90:56` (Tag 19) - six
 
 ---
 
@@ -2774,7 +2786,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Jeon
 
-112 Nennungen in 23 Kapiteln.
+113 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2890,6 +2902,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch87:66 | "There is a second thing and it is not from the hour," said Mrs Jeon. "It is from the co.. |
 | 10 | b2ch87:74 | "That I did not know what he found and that he had not told me, and that he sat in a car.. |
 | 10 | b2ch87:80 | She stood in the hall with Mrs Jeon for about four minutes and asked her three things ab.. |
+| 19 | b2ch90:10 | Mrs Jeon went back to Gwangyang on the seventh and has telephoned twice since, both time.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -3112,7 +3125,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mrs Seo
 
-103 Nennungen in 48 Kapiteln.
+104 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -3219,6 +3232,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch89:18 | The room she is going into is on the ground floor at the back, because of the stairs. Mr.. |
 | 8 | b2ch89:36 | Mrs Seo went and got a roll and put it against the door before anybody else in the room .. |
 | 13 | b2ch89:52 | It was at about eleven in the morning and it was to Georgij. He had been in that part of.. |
+| 19 | b2ch90:8 | The kitchen makes four dinners now instead of two and one of them is soft food and goes .. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -3284,6 +3298,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:8` (Tag 9) - eight, one
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:52` (Tag 13) - eleven, four
+- `b2ch90:8` (Tag 19) - four, twenty, two and one
 
 ---
 
@@ -4161,6 +4176,73 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+## Ahn Jung-hee
+
+34 Nennungen in 16 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
+| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
+| 18 | b2ch56:100 | "Ahn Jung-hee." |
+| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
+| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
+| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
+| 22 | b2ch58:14 | *Do Kyung-ae.* |
+| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
+| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
+| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
+| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
+| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
+| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
+| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
+| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
+| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
+| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
+| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
+| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
+| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
+| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
+| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
+| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
+| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
+| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
+| 8 | b2ch89:10 | Ahn Jung-hee went with them. |
+| 8 | b2ch89:26 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
+| 19 | b2ch90:10 | Mrs Jeon went back to Gwangyang on the seventh and has telephoned twice since, both time.. |
+| 19 | b2ch90:14 | Ahn Jung-hee has been to Gangnam-gu twice. |
+| 19 | b2ch90:22 | "You did not get out of the car," said Ahn Jung-hee. |
+| 19 | b2ch90:38 | Ahn Jung-hee looked at the wall for a moment, which is a thing she does. |
+
+### Zahlen in der Naehe von Ahn Jung-hee
+
+- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
+- `b2ch56:96` (Tag 18) - thirty-five
+- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
+- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
+- `b2ch58:176` (Tag 22) - three
+- `b2ch59:40` (Tag 22) - nine, three
+- `b2ch60:188` (Tag 25) - four
+- `b2ch60:220` (Tag 25) - four
+- `b2ch62:240` (Tag 27) - eleven, twenty-three
+- `b2ch63:58` (Tag 29) - four
+- `b2ch63:188` (Tag 29) - eleven, one
+- `b2ch64:92` (Tag 31) - four, nine, thirty-five
+- `b2ch74:340` (Tag 53) - four, one, two
+- `b2ch80:152` (Tag 4) - eleven, six
+- `b2ch81:52` (Tag 10) - four, nine, thirty-five
+- `b2ch83:82` (Tag 8) - four, thirty-five
+- `b2ch83:92` (Tag 8) - eleven, forty
+- `b2ch86:104` (Tag 8) - four, one
+- `b2ch86:114` (Tag 8) - eleven, four
+- `b2ch87:152` (Tag 10) - four
+- `b2ch89:26` (Tag 8) - two
+
+---
+
 ## Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -4269,69 +4351,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:22` (Tag ?) - eleven
 - `b1ch32:160` (Tag ?) - one, six, twenty-nine
 - `b1ch32:242` (Tag ?) - two
-
----
-
-## Ahn Jung-hee
-
-30 Nennungen in 15 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
-| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
-| 18 | b2ch56:100 | "Ahn Jung-hee." |
-| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
-| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
-| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
-| 22 | b2ch58:14 | *Do Kyung-ae.* |
-| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
-| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
-| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
-| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
-| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
-| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
-| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
-| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
-| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
-| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
-| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
-| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
-| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
-| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
-| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
-| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
-| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
-| 8 | b2ch89:10 | Ahn Jung-hee went with them. |
-| 8 | b2ch89:26 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
-
-### Zahlen in der Naehe von Ahn Jung-hee
-
-- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
-- `b2ch56:96` (Tag 18) - thirty-five
-- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
-- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
-- `b2ch58:176` (Tag 22) - three
-- `b2ch59:40` (Tag 22) - nine, three
-- `b2ch60:188` (Tag 25) - four
-- `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-three
-- `b2ch63:58` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch64:92` (Tag 31) - four, nine, thirty-five
-- `b2ch74:340` (Tag 53) - four, one, two
-- `b2ch80:152` (Tag 4) - eleven, six
-- `b2ch81:52` (Tag 10) - four, nine, thirty-five
-- `b2ch83:82` (Tag 8) - four, thirty-five
-- `b2ch83:92` (Tag 8) - eleven, forty
-- `b2ch86:104` (Tag 8) - four, one
-- `b2ch86:114` (Tag 8) - eleven, four
-- `b2ch87:152` (Tag 10) - four
-- `b2ch89:26` (Tag 8) - two
 
 ---
 

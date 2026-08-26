@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 218.319 Woerter.
+Book Two, 90 Kapitel, 220.023 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -100,6 +100,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v1.0 | 2.014 |
 | 88 | v1.0 | 1.998 |
 | 89 | v1.0 | 2.085 |
+| 90 | v1.0 | 1.704 |
 
 ---
 
@@ -20019,3 +20020,184 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 *And a woman in a chair by a kitchen garden wanted to know what became of sixty-two people who were invited to a wedding eleven years ago.*
 
 *I had four of them. The other fifty-eight are in the back of the book and I am going to be at this for years.*
+
+---
+
+# Book Two · Chapter 90: The weapon
+*Lot Fourteen* · Version 1.0 · EN
+
+## Day Four Hundred and Fifteen · Sunday 22 November
+
+There are two more people in that house and it has changed the whole of it, and nobody has said so.
+
+The kitchen makes four dinners now instead of two and one of them is soft food and goes on a tray. Mrs Seo has been getting up twenty minutes earlier since the eleventh and has not mentioned it. There is a second delivery on the second Tuesday and the man who brings it knocks twice and comes in, because somebody told the house in the car on the second of November that this is what he does.
+
+Mrs Jeon went back to Gwangyang on the seventh and has telephoned twice since, both times on a Sunday, and both times she has asked for Ahn Jung-hee and not for anybody else in the building.
+
+The nephew has had the levy for four weeks now and has stopped believing he owes her for it. She said that would happen in January and it happened in November, and she reported it on the second call in one sentence and did not seem to mind.
+
+Ahn Jung-hee has been to Gangnam-gu twice.
+
+The second time she stayed four hours and came back with oil on the sleeve of a coat that is not hers. Neither of them has said one word about it to anybody in that house, and Georgij is not going to ask, and Annie has not either.
+
+* * *
+
+On the Sunday morning she came and found him in the passage outside the small office, which is where he is when there is nothing to do.
+
+"You did not get out of the car," said Ahn Jung-hee.
+
+"No."
+
+"I spent that evening working out which of the three of you had decided it, and I decided it was the woman in the front, and I was wrong." She has her brother's way of standing, with the weight on one side. "I have had three weeks to say that to you and I have not, and I am saying it in a passage because I have worked out that there is not going to be a better place."
+
+"There is not."
+
+"Then say why you did not."
+
+* * *
+
+He did not dress it.
+
+"A man in a workshop told me on the twenty-sixth of October that the first true sentence you heard had better not come from a man," he said. "And I had spent eight months being the person who arrives with something. There was one thing left that I could do about that and it was to not be in the yard."
+
+Ahn Jung-hee looked at the wall for a moment, which is a thing she does.
+
+"My brother said that," she said.
+
+"Yes."
+
+"He has never in his life said a thing like that out loud." She shifted her weight to the other side. "I would like it noted by somebody that he did, and there is nobody in this house who would know that it was unusual, so it is going to have to be you."
+
+"It is noted."
+
+* * *
+
+* * *
+
+It has not been a good three weeks for the woman who paid, either, and none of it shows.
+
+The cold store at Gunsan went on the twelfth of October and the ground behind the workshop on the nineteenth. The east side went to Gimpo on the ninth. She has not walked to the end of the lane since. That was a thing she did about twice a week for four years and she stopped on the tenth of November and has not said why and nobody has asked.
+
+There is a man at Gimpo with a piece of drained ground and a gate, and in about six years he is going to be right about it. It will not be Chairman Woo who was right about it.
+
+Woo has not been in that house since the fifth of October.
+
+He telephoned once, on the third of November, and asked one question and rang off. The question was whether the woman was out.
+
+* * *
+
+It has been a bad three weeks for Georgij and the reason is not any of the things anybody would guess.
+
+There is nothing left to build. There is no route, no room, no name to get, no man to be in front of, no sentence to take apart over four days. There is a woman in a chair by a kitchen garden with fifty-eight names still to find. That will take years. It cannot be done at speed, and there is no version of it that gets faster if he does not sleep.
+
+He has not slept properly since the second of November.
+
+He noticed on the Thursday that this had gone past three weeks, and he did not do anything about it, and Annie noticed on the Wednesday and did not say anything until the Sunday.
+
+* * *
+
+She said it at about nine, at the desk, without looking up.
+
+"Sit down."
+
+He went round the desk and down onto the carpet at the side of it, with his back against the drawers, which is where he sits.
+
+She worked for about twenty minutes and he did not say anything and did not do anything, and at some point in the middle of it her hand came down into his hair, at the back, and stayed there.
+
+It is the tenth time since March and he has not counted one of them since July.
+
+* * *
+
+"You have not slept since the second," said Annie.
+
+"No."
+
+"Say why, and do not say it is the fifty-eight."
+
+He sat with that for a while.
+
+"On the twenty-third of April I told a woman in Yeouido that I was going to have him," he said. "I have said out loud in a car that I am not going to, with the date on it, and I meant it, and I have not once been able to put it down."
+
+"That is the one that is easiest to say at nine o'clock, and it is not the reason."
+
+* * *
+
+He did not answer for about eight seconds.
+
+"There was a fortnight in March," he said, "when a woman with four trucks picked something up and pointed it at you, and the thing she picked up was me."
+
+Annie's hand did not move.
+
+"I have known that since the third of April and I have said it twice, both times as a fact, and I have been perfectly calm about it both times." He was looking at the leg of the desk. "And I have not slept for three weeks and it is that, and I have only just got to it, and I am twenty-six and it has taken me eight months."
+
+* * *
+
+She took her hand out of his hair and put it on the arm of the chair.
+
+"Then say the rest of it," said Annie.
+
+He got up off the floor, which he does not do without being told.
+
+He stood in front of the desk and did not put his hands anywhere.
+
+* * *
+
+"Somebody pointed a weapon at you," he said. "That the weapon was me is one half of why it was personal."
+
+He stopped, because he had heard it go and it was not accurate.
+
+"That is not half. It is a great deal less than half, and I could give you the number, and I am not going to, because giving you the number would be the fourth cleverest thing I have done this year."
+
+"Then give me the rest of it."
+
+"If the world points anything at you at all, I will burn the world down."
+
+* * *
+
+Annie did not say anything.
+
+The house did the things a house does at half past nine, and one of them, since the eleventh, is the sound of a machine in a room at the back that runs for four minutes in every hour.
+
+She did not look away and she did not fill it and she did not make it smaller.
+
+* * *
+
+He went round the desk.
+
+Her hand was on the arm of the chair where she had put it, and he went down at the side of the desk again, and he did not take hold of it.
+
+He put his mouth against the ends of her fingers and stayed there.
+
+It is not the thing he did in a ballroom last November, in front of four or five people who used the word inside the week. There is nothing in it that anybody could describe afterwards and nothing that would work in a room.
+
+Her fingers were cool from the room.
+
+* * *
+
+After a while he sat back on his heels.
+
+"You are such a beautiful, strong woman," said Georgij. "Thank you for buying me."
+
+Annie put her hand back into his hair.
+
+* * *
+
+* * *
+
+He went down at about eleven and did not work.
+
+He opened the book at the back, where the fifty-eight are, and looked at the first eleven of them for a while. He did not write anything. He put the cap on the pen and left it on the desk.
+
+Then he stood in the passage at the back of the house for a minute, outside a door with a roll of cloth against the bottom of it, and listened to a machine run for four minutes and stop.
+
+Then he went to bed and slept about nine hours, which is the first time since the second of November.
+
+* * *
+
+Downstairs somebody moved a chair.
+
+At the back of the house a machine ran for four minutes and stopped.
+
+In a workshop on a hill a fan has been running in a corner since the fifteenth of September, and nobody has switched it off.
+
+The woman it was mended for has been in that room twice and has not mentioned it either.

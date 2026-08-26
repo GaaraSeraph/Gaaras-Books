@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 292.191 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 292.331 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -302,9 +302,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Choi Dae-ho](#choi-dae-ho)
   - [Mr Hong](#mr-hong)
   - [Mr Ku](#mr-ku)
+  - [Ahn Jung-hee](#ahn-jung-hee)
   - [Kang Ji-hoon](#kang-ji-hoon)
   - [Kim Do-yun](#kim-do-yun)
-  - [Ahn Jung-hee](#ahn-jung-hee)
   - [Mrs Bae](#mrs-bae)
   - [Nam Byung-hee](#nam-byung-hee)
   - [Mrs Ha](#mrs-ha)
@@ -12255,12 +12255,14 @@ Das ist die Geste, die der Autor als die vermisste benannt hat.
 | 4 | B2 30 | Fr 29. Mai | *"Annie put her hand down into his hair without looking, which she has done three times since March and which is becoming a thing that happens."* |
 | 5 | **B2 35** | **Do 4. Juni** | Zum ersten Mal, während sie nichts anderes tut. *"She has done that four times since March and every one of them happened while she was looking at something else. This time there was nothing in front of her."* |
 | 6 | B2 55 | Mi 12. Aug | Nach zehn Wochen. *"She has not done that since the fourth of June, which is ten weeks, and he has counted them without ever once deciding to."* |
+| 10 | **B2 90** | **So 22. Nov** | **Die letzte des Bandes, und sie steht zweimal in derselben Szene.** Vorher, waehrend sie arbeitet: *"at some point in the middle of it her hand came down into his hair, at the back, and stayed there."* Und nach der Schlusszeile, wortlos: *"Annie put her hand back into his hair."* |
 | 9 | B2 76 | Do 24. Sept | Abends, sie sitzt ohne Lampe am Fenster und arbeitet nicht. *"After about ten minutes she put her hand down into his hair without looking away from the window and left it there."* Der Text zählt mit und er nicht: *"That is the ninth time since March, and he has not counted one of them since July, and he did not count this one either."* |
 | 8 | B2 72 | Mo 14. Sept | **Der Beleg dafuer, dass er wirklich aufgehoert hat mitzuzaehlen.** *"Annie put her hand down into his hair and left it there, and he could not have said afterwards at what point in it she had done that."* Nach Sims Anruf, waehrend keiner von beiden redet. |
 | 7 | B2 59 | Di 18. Aug | Sechs Tage spaeter, ohne Anlass, waehrend sie liest. *"She put her hand down into his hair without looking away from the page, at the back, and left it there."* Und: **er hat aufgehoert mitzuzaehlen.** *"He noticed at some point in July that he had stopped, and could not say when, and has decided not to work it out."* |
 
 **Der Zähler:** 9, 20, 27, 30 sind vier. 35 ist das fünfte, 55 das sechste,
-59 das siebte, 72 das achte, 76 das neunte. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
+59 das siebte, 72 das achte, 76 das neunte, **90 das zehnte und letzte des
+Bandes**. Wer eine neue schreibt, zählt hier weiter und schreibt keine Zahl
 aus dem Kopf. **Ab 59 zählt Georgij selbst nicht mehr mit**, und das ist eine
 Figurenentwicklung und keine Erlaubnis, die Kette zu vergessen.
 
@@ -12348,7 +12350,9 @@ sehen, wie selten es ist.
 |---|---|---|---|
 | 1 | B1 34 | So 1. März | **Er geht zu ihr herunter**, ohne dass es jemand verlangt hat. *"which took about two seconds and which nobody in that room had asked for"* |
 
-**Es gibt genau einen Eintrag, und das ist die Regel.** In einer Zwischenfassung
+| 2 | **B2 90** | **So 22. Nov** | **Die Schlussgeste des Bandes, vom Autor am 25.08. festgelegt.** Nach *"If the world points anything at you at all, I will burn the world down"*. Er geht wieder hinunter, **nimmt ihre Hand nicht**, und legt den Mund an die Enden ihrer Finger. *"There is nothing in it that anybody could describe afterwards and nothing that would work in a room."* Der Text kommentiert es nicht. |
+
+**Es gab bis zum 25.08. genau einen Eintrag, und das war die Regel.** In einer Zwischenfassung
 von B2 6 nahm er ihre Hand vom Sessel. Der Autor hat das gestrichen: **er fasst
 sie nicht an, sie fasst ihn an.** Was er tut, ist hineindrehen - einen Zoll, und
 nicht mehr (Register C 3b).
@@ -15927,45 +15931,38 @@ wird.**
 
 ## Offen
 
-- [OFFEN] **B2 84** Mr Ahn an Georgij · gesagt Tag 388 · faellig bei dem Tag, an dem sie geholt wird · "whoever is in the car has about four minutes to be the first person in four years who says a true sentence to her, and it had better not be a man" · -
+- [KEINE] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig bei nichts · "I will have to buy a consignment from a house that is going to be finished by Christmas" · Dieselbe Zusage steht weiter unten als BEZAHLT. `--neu` meldet sie noch einmal, weil sie im Kapitel mit einem Komma endet und der Wortlaut im Buch ohne eines steht
+- [KEINE] **B2 83** Georgij an Mrs Jeon · gesagt Tag 385 · faellig bei nichts · "I will have a day when the placing party has the form" · Keine Zusage, sondern eine Auskunft ueber den Stand eines fremden Verfahrens. Der Termin selbst steht als eigener Posten im Buch
+
 
 - [VERFALLEN] **B2 19** Georgij an Sang-hoon · gesagt Tag 209 · faellig Tag 453 · "I am going to have him before the end of the year." · **Gebrochen, und der Text weiss es.** B2 88, im Wagen, am 6. November, mit dem Datum daneben: *"I am not going to have him. I would like that said out loud in this car, tonight, with the date on it, so that I cannot decide in January that I meant something else by it."*
 - [BEZAHLT] **B2 88** Choi Dae-ho an Annie · gesagt Tag 399 · faellig Tag 404 · "You will send somebody on the eleventh and they will bring her." · B2 89, am Mittwoch, und es hat den ganzen Tag gedauert
 - [BEZAHLT] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig bei dem Ende des Feldzugs gegen Choi · "you will tell me the whole of it and not the comfortable part" · B2 89, am 19. November, fuenfzig Minuten. **Sie hat fuenfzig Minuten auf die Stelle gewartet, an der jemand klug war, und es gibt keine**
 - [BEZAHLT] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · B2 89, am Freitag in Jongno, eine Stunde zehn, und der Tee stand bereit
 - [BEZAHLT] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig bei dem Tag, an dem die Frau in Gangwon-do ihn nicht mehr braucht · "After the fourteenth I am finished." · B2 89: die Leitung ist seit dem 30. September tot, sie ist seit dem 2. November heraus, und er hat keinen Auftrag mehr angenommen
-- [OFFEN] **B2 89** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig offen · Die uebrigen achtundfuenfzig Eingeladenen. **Steht hinten im Buch und wird Jahre dauern** · -
-- [OFFEN] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 405 · "I will have to buy a consignment from a house that is going to be finished by Christmas" · **Frist am Tag 350 nach vorn gerueckt:** Kapitel 72 hat November statt Weihnachten ergeben, Kapitel 74 setzt den Kauf auf vor Ende Oktober
+- [OFFEN] **B2 89** Georgij an Moon Hae-sook · gesagt Tag 409 · faellig bei jedem einzelnen der achtundfuenfzig · Was aus den Eingeladenen geworden ist. **Am Bandende offen, und der Text weiss es** - B2 90, in seiner eigenen Rechnung am Schluss: *"The other fifty-eight are in the back of the book and I am going to be at this for years."*
 - [BEZAHLT] **B2 68** Georgij an Sim · gesagt Tag 339 · faellig Tag 346 · "There is a difference. You will not be able to hear it and she will." · B2 72: sie sagt am 14. seinen Namen, zum ersten Mal in vier Jahren. **Sim und Mr Ahn lesen es als Abschied, und keiner von beiden war am siebten in dem Zimmer** (Notiz im Wagen, B2 74 v1.1)
 - [BEZAHLT] **B2 68** Sim an Georgij · gesagt Tag 339 · faellig Tag 346 · "I am going to make it because on the fourteenth of September a woman in a house in Gangwon-do will be waiting for a telephone to ring." · B2 72, am Tag, zehn nach fuenf, sechsundzwanzig Minuten
-- [OFFEN] **B2 68** Sim an sich selbst · gesagt Tag 339 · faellig bei dem Tag, an dem die Frau in Gangwon-do ihn nicht mehr braucht · "After the fourteenth I am finished." · **Kein Bruch, und das steht schon in 68:** auf *"Say the whole of it"* praezisiert er auf *"when the woman in Gangwon-do does not need me any more"*. Der Anruf am 28. September (B2 72) ist die Erfuellung und nicht der Verstoss
-- [OFFEN] **B2 65** Georgij an Mrs Sunwoo · gesagt Tag 333 · faellig bei dem Ende des Feldzugs gegen Choi · "When you know what happened, you will come to this house and tell me, and you will tell me the whole of it and not the comfortable part." · -
-- [OFFEN] **B2 63** Georgij an Mr Ahn · gesagt Tag 326 · faellig bei der Raeumung des Hauses · "Somebody is going to stand underneath her before anybody takes the floor away." · -
 - [BEZAHLT] **B2 70** Mr Ahn an Georgij · gesagt Tag 342 · faellig Tag 347 · "It will be ready Tuesday." · B2 73, am Dienstag, mit Kabel aufgerollt und Tuch runter
-- [OFFEN] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "Whatever the instrument is, it ends the day she says it ends, and she is told that in the first hour by somebody who is not you and not me." · Die Person ist seit B2 71 benannt und hat zugesagt: Mrs Jeon. Die Zusage selbst steht bis zur ersten Stunde offen
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 322 · "Put it in front of me on Friday. Not today." · B2 60: *"He put all of it in front of Annie at seven on the Friday evening"* - am Tag. **Stand bis zum 25.08. falsch als offen und mit falschem Kapitel und Tag im Buch.**
 - [BEZAHLT] **B2 69** Annie an Georgij · gesagt Tag 341 · faellig Tag 342 · "You are going tomorrow, and you are not going with anything." · B2 70, am naechsten Morgen
 - [BEZAHLT] **B2 61** Woo an Georgij · gesagt Tag 324 · faellig offen · "You have until she asks." · B2 74: **die Frist ist am Tag 350 abgelaufen.** Sechsundzwanzig Tage. Sie fragt am Ende des Kapitels, und zwar weil sie einen Mann bepreisen muss und nicht weil sie etwas gemerkt hat
 - [BEZAHLT] **B2 32** Mrs Jeon an Georgij · gesagt Tag 242 · faellig Tag 273 · "I have four months of money and a son who is going to offer next month, and I am going to take it." · B2 71, siebzig Tage spaet: der Sohn hat am 3. Juli angeboten, sie hat die Haelfte genommen (die Miete, nicht das Zimmer) und sagt selbst, dass sie nicht weiss, ob das ehrlich ist
 - [BEZAHLT] **B2 59** Annie an Georgij · gesagt Tag 319 · faellig Tag 326 · "in about a week you will have found a way to make it about you and I would like to have said this first" · B2 70, sechzehn Tage spaet, und nicht sie sagt es ihm, sondern Mr Ahn
-- [OFFEN] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an, ohne dass ihr jemand ein Datum nennen kann · -
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
 - [BEZAHLT] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · "Two things I like and one I have promised somebody else. I will say which on Monday." · B2 76, am Montag, in vierzig Sekunden auf dem Weg zum Wagen: der Kuehlhausanteil in Gunsan und der Grund hinter der Werkstatt. **Das dritte nennt sie nicht**
 - [BEZAHLT] **B2 77** Annie an Georgij · gesagt Tag 360 · faellig Tag 364 · "I will tell you on Friday who he is." · B2 78, am Freitag um neun, im Stehen: **Chairman Woo**, und es ist die Hartflaeche auf der Ostseite
 - [VERFALLEN] **B2 78** Annie an Chairman Woo · gesagt Tag 209 (April) · faellig bei dem Tag, an dem er sie haben will · "it was his when he wanted it and there would be no paper until there needed to be" · **Gebrochen am Tag 367, ins Gesicht und vor dem Verkauf, und der Text weiss es.** Sie nennt es in B2 78 selbst so, bevor sie hinfaehrt. **Der einzige VERFALLEN-Eintrag im ganzen Buch**
 - [BEZAHLT] **B2 79** Annie an Georgij · gesagt Tag 367 · faellig Tag 371 · "Wednesday... it goes through Jang and it is done by Friday." · B2 80: Jang am Mittwoch, die Bank am Donnerstag, durch am Freitagmorgen, **ein Fuenftel ueber der besten der drei Zahlen** und damit genau da, wo Woo es gesagt hatte
-- [OFFEN] **B2 80** Georgij an Annie · gesagt Tag 371 · faellig bei einer Absage von Mr Hwang · "If he refuses after that, we do not go back." - dreimal gesagt, das dritte Mal als Vorsatz fuer vier Uhr morgens · -
+- [KEINE] **B2 80** Georgij an Annie · gesagt Tag 371 · faellig bei einer Absage von Mr Hwang · "If he refuses after that, we do not go back." · **Der Ausloeser ist nie eingetreten:** Hwang hat in B2 81 in etwa vierzig Sekunden zugesagt. Die Selbstbindung steht damit ungeprueft im Buch, und das ist ihr Zustand und kein Versaeumnis
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Donnerstag neun Uhr bei Mr Hwang, und **er geht allein** · B2 81, zwei Minuten vor neun
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Mr Hwang wird **in derselben Stunde** auch nach Moon Hae-sook gefragt · B2 81, im Stehen, bevor er geht. **Die Antwort ist: nichts.** Kein Los, keine Nummer, kein Eintrag im ganzen Haus
 - [BEZAHLT] **B2 32** Mr Hwang an Georgij · gesagt Tag 238 · faellig bei dem Tag, an dem die Seite existiert · Er moechte, dass irgendwo auf der Welt ein Blatt existiert, das sagt, dass sie das Buch hingehalten hat und er es nicht genommen hat · B2 81: **Georgij sagt ihm, dass es existiert, und weigert sich, ihm eine Zeile daraus vorzulesen**, weil Mrs Jeon es an die Bedingung geknuepft hat, es nicht zu benutzen
 - [BEZAHLT] **B2 81** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · B2 82, am Donnerstag um zwanzig nach acht, sieben Tage nach der Frage. **Die Antwort ist ja, in einem Wort und ungeschmueckt**
-- [OFFEN] **B2 82** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters der Treuhandschaft **erst danach**, und er erfaehrt es auch, wenn es schiefgeht, und am selben Tag · -
-- [OFFEN] **B2 81** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind, **und die vierte traegt ihren Namen in ihrer Handschrift** · -
+- [BEZAHLT] **B2 81** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind · B2 86: gegengezeichnet am Freitag, dem 30. Oktober, an seinem eigenen Schreibtisch, mit niemandem im Gebaeude
 - [BEZAHLT] **B2 78** Annie an Georgij · gesagt Tag 364 · faellig Tag 367 · "Monday... at ten, and I am going to him... And you are going to be in the room." · B2 79, vier Minuten vor zehn, und sie nimmt nichts mit
 - [BEZAHLT] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · B2 78, dreimal an einem Abend: einundvierzig Klingelzeichen, dann nichts, dann der Ton. **Die Nummer ist weg**
 - [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
-- [OFFEN] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 410 · "None of the five. Not asked, not telephoned, not driven past." - haelt mindestens bis zum 17. November, weil sie es Kwon am 9. September zugesagt hat · -
-- [OFFEN] **B2 74** Georgij an Sim · gesagt Tag 348 · faellig bei dem Ende des Feldzugs gegen Choi · "You will be told, and you will not be told the comfortable part of it." · -
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig bei Ahn Jung-hees Rueckkehr · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · -
 - [BEZAHLT] **B2 73** Georgij an Mr Ahn · gesagt Tag 347 · faellig offen · Er soll Sim fragen, wie lange es sonst dauert, sie ans Telefon zu holen · B2 74, am naechsten Morgen in Jongno: Schnitt sechs Minuten, kuerzeste vier zehn, laengste elf am 27. August, und am 14. September einundvierzig Sekunden
 - [BEZAHLT] **B2 72** Sim an Georgij · gesagt Tag 346 · faellig Tag 360 · "I am telephoning that house again on the twenty-eighth." · B2 77, am Tag, zehn nach fuenf, und er kuendigt im selben Gespraech den naechsten fuer Donnerstag an
@@ -15981,7 +15978,7 @@ wird.**
 - [BEZAHLT] **B2 59** Georgij an Annie · gesagt Tag 319 · faellig bei der ersten Stunde nach der Uebergabe · "she is told that in the first hour by somebody who is not you and not me" · B2 87: zwei Menschen im Raum, Annie eine Etage hoeher mit offener Tuer, Georgij am Ende des Gangs ausser Hoerweite
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig bei der ersten Stunde nach der Uebergabe · Sie nimmt sie an · B2 87, und sie liest nichts zusammen und sagt an keiner Stelle, was es bedeutet
 - [BEZAHLT] **B2 82** Georgij an Baek Jun-ho · gesagt Tag 382 · faellig bei dem Tag nach Ahn Jung-hees Herauskommen · Er erfaehrt den Namen des Errichters erst danach · B2 87: am Tag danach angerufen, und Baek kommt am Mittwoch um zwei persoenlich
-- [OFFEN] **B2 87** Georgij an Annie · gesagt Tag 397 · faellig offen · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · -
+- [OFFEN] **B2 87** Georgij an Annie · gesagt Tag 397 · faellig bei dem Tag, an dem Baek die Urkunde herausgibt · Datum und Wortlaut der zweiten Korrektur, ohne Umschreibung · **Am Bandende offen, und der Text weiss es**
 - [BEZAHLT] **B1 32** Georgij an die sechs · gesagt Tag 80 · faellig Tag 80 · "I am going to say it again now to all six, in the same words, because I promised" · B1 32 selbst: der Satz **ist** die Einloesung, er sagt es im selben Atemzug an alle sechs. **Stand bis zum 25.08. als aeltester offener Posten im Buch und war nie einer.**
 
 ## Bezahlt
@@ -18505,6 +18502,7 @@ gegengeprüft.*
 | **87** | *The first hour* | **Tragend.** Die erste Stunde, und Choi Dae-ho ist der Errichter der Treuhandschaft | HALTEN |
 | **88** | *The invitation* | **Tragend. Chois einzige Repliken im ganzen Buch.** Und er gibt Moon Hae-sook her, ohne Bedingung und ohne Gegenleistung | HALTEN |
 | **89** | *What became of them* | **Tragend.** Moon Hae-sook spricht zum ersten Mal, und drei alte Zusagen werden in einer Woche bezahlt | HALTEN |
+| **90** | *The weapon* | **Tragend. Das Bandende.** Die festgeschriebene Rede, die Fingerspitzen und die Schlusszeile | HALTEN |
 
 ---
 
@@ -19068,15 +19066,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 898 | 98 (b1ch01-b2ch89) | 1 | 74 |
+| Annie | 905 | 99 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 251 | 43 (b1ch07-b2ch87) | 1 | 74 |
+| Chairman Woo | 253 | 44 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 159 | 41 (b1ch05-b2ch89) | 2 | 60 |
 | Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
-| Mrs Jeon | 112 | 23 (b2ch06-b2ch87) | 2 | 59 |
+| Mrs Jeon | 113 | 24 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
-| Mrs Seo | 103 | 48 (b1ch03-b2ch89) | 1 | 74 |
+| Mrs Seo | 104 | 49 (b1ch03-b2ch90) | 1 | 74 |
 | Mr Ahn | 102 | 13 (b2ch56-b2ch88) | 3 | 53 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mrs Sunwoo | 56 | 18 (b1ch07-b2ch89) | 1 | 60 |
@@ -19087,9 +19085,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Choi Dae-ho | 36 | 20 (b1ch07-b2ch88) | 2 | 61 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
 | Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
+| Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
-| Ahn Jung-hee | 30 | 15 (b2ch56-b2ch89) | 4 | 53 |
 | Mrs Bae | 30 | 8 (b2ch41-b2ch68) | 3 | 42 |
 | Nam Byung-hee | 29 | 11 (b2ch03-b2ch69) | 1 | 56 |
 | Mrs Ha | 28 | 4 (b2ch66-b2ch89) | 13 | 42 |
@@ -19119,7 +19117,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-898 Nennungen in 98 Kapiteln.
+905 Nennungen in 99 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -20021,6 +20019,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch88:194 | Annie looked out of the window for a while. |
 | 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
 | 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
+| 19 | b2ch90:16 | The second time she stayed four hours and came back with oil on the sleeve of a coat tha.. |
+| 19 | b2ch90:70 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
+| 19 | b2ch90:86 | "You have not slept since the second," said Annie. |
+| 19 | b2ch90:104 | Annie's hand did not move. |
+| 19 | b2ch90:112 | "Then say the rest of it," said Annie. |
+| 19 | b2ch90:132 | Annie did not say anything. |
+| 19 | b2ch90:156 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -20273,6 +20278,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch88:34` (Tag 12) - two
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:148` (Tag 15) - one
+- `b2ch90:16` (Tag 19) - four, one
+- `b2ch90:70` (Tag 19) - three
 
 ---
 
@@ -20689,7 +20696,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-251 Nennungen in 43 Kapiteln.
+253 Nennungen in 44 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -20944,6 +20951,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch80:24 | It went through on the Friday morning at a fifth over the best of the three numbers Geor.. |
 | 12 | b2ch80:28 | Then, because it was true, he wrote *Woo was right about the price and right about the m.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
+| 19 | b2ch90:56 | There is a man at Gimpo with a piece of drained ground and a gate, and in about six year.. |
+| 19 | b2ch90:58 | Woo has not been in that house since the fifth of October. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -21099,6 +21108,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch79:178` (Tag 10) - four
 - `b2ch80:24` (Tag 12) - eight, three
 - `b2ch87:174` (Tag 10) - one, twenty-three
+- `b2ch90:56` (Tag 19) - six
 
 ---
 
@@ -21824,7 +21834,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Jeon
 
-112 Nennungen in 23 Kapiteln.
+113 Nennungen in 24 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21940,6 +21950,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch87:66 | "There is a second thing and it is not from the hour," said Mrs Jeon. "It is from the co.. |
 | 10 | b2ch87:74 | "That I did not know what he found and that he had not told me, and that he sat in a car.. |
 | 10 | b2ch87:80 | She stood in the hall with Mrs Jeon for about four minutes and asked her three things ab.. |
+| 19 | b2ch90:10 | Mrs Jeon went back to Gwangyang on the seventh and has telephoned twice since, both time.. |
 
 ### Zahlen in der Naehe von Mrs Jeon
 
@@ -22162,7 +22173,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mrs Seo
 
-103 Nennungen in 48 Kapiteln.
+104 Nennungen in 49 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -22269,6 +22280,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch89:18 | The room she is going into is on the ground floor at the back, because of the stairs. Mr.. |
 | 8 | b2ch89:36 | Mrs Seo went and got a roll and put it against the door before anybody else in the room .. |
 | 13 | b2ch89:52 | It was at about eleven in the morning and it was to Georgij. He had been in that part of.. |
+| 19 | b2ch90:8 | The kitchen makes four dinners now instead of two and one of them is soft food and goes .. |
 
 ### Zahlen in der Naehe von Mrs Seo
 
@@ -22334,6 +22346,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:8` (Tag 9) - eight, one
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:52` (Tag 13) - eleven, four
+- `b2ch90:8` (Tag 19) - four, twenty, two and one
 
 ---
 
@@ -23211,6 +23224,73 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ---
 
+### Ahn Jung-hee
+
+34 Nennungen in 16 Kapiteln.
+
+| Tag | Fundstelle | Zeile |
+|---|---|---|
+| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
+| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
+| 18 | b2ch56:100 | "Ahn Jung-hee." |
+| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
+| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
+| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
+| 22 | b2ch58:14 | *Do Kyung-ae.* |
+| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
+| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
+| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
+| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
+| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
+| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
+| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
+| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
+| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
+| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
+| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
+| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
+| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
+| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
+| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
+| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
+| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
+| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
+| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
+| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
+| 8 | b2ch89:10 | Ahn Jung-hee went with them. |
+| 8 | b2ch89:26 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
+| 19 | b2ch90:10 | Mrs Jeon went back to Gwangyang on the seventh and has telephoned twice since, both time.. |
+| 19 | b2ch90:14 | Ahn Jung-hee has been to Gangnam-gu twice. |
+| 19 | b2ch90:22 | "You did not get out of the car," said Ahn Jung-hee. |
+| 19 | b2ch90:38 | Ahn Jung-hee looked at the wall for a moment, which is a thing she does. |
+
+### Zahlen in der Naehe von Ahn Jung-hee
+
+- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
+- `b2ch56:96` (Tag 18) - thirty-five
+- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
+- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
+- `b2ch58:176` (Tag 22) - three
+- `b2ch59:40` (Tag 22) - nine, three
+- `b2ch60:188` (Tag 25) - four
+- `b2ch60:220` (Tag 25) - four
+- `b2ch62:240` (Tag 27) - eleven, twenty-three
+- `b2ch63:58` (Tag 29) - four
+- `b2ch63:188` (Tag 29) - eleven, one
+- `b2ch64:92` (Tag 31) - four, nine, thirty-five
+- `b2ch74:340` (Tag 53) - four, one, two
+- `b2ch80:152` (Tag 4) - eleven, six
+- `b2ch81:52` (Tag 10) - four, nine, thirty-five
+- `b2ch83:82` (Tag 8) - four, thirty-five
+- `b2ch83:92` (Tag 8) - eleven, forty
+- `b2ch86:104` (Tag 8) - four, one
+- `b2ch86:114` (Tag 8) - eleven, four
+- `b2ch87:152` (Tag 10) - four
+- `b2ch89:26` (Tag 8) - two
+
+---
+
 ### Kang Ji-hoon
 
 32 Nennungen in 8 Kapiteln.
@@ -23319,69 +23399,6 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch32:22` (Tag ?) - eleven
 - `b1ch32:160` (Tag ?) - one, six, twenty-nine
 - `b1ch32:242` (Tag ?) - two
-
----
-
-### Ahn Jung-hee
-
-30 Nennungen in 15 Kapiteln.
-
-| Tag | Fundstelle | Zeile |
-|---|---|---|
-| 18 | b2ch56:74 | "Ahn Jung-hee," said Mr Ahn. "My sister. Four years under me. She was thirty-one when sh.. |
-| 18 | b2ch56:96 | Ahn Jung-hee. Thirty-five. |
-| 18 | b2ch56:100 | "Ahn Jung-hee." |
-| 18 | b2ch56:332 | "Ahn Jung-hee has not been forgotten by anybody except the people who arranged it, and t.. |
-| 18 | b2ch56:344 | *Ahn Jung-hee. Thirty-one when she went in. Thirty-five now.* |
-| 21 | b2ch57:64 | A woman called Ahn Jung-hee. Thirty-five. She was thirty-one in the February of four yea.. |
-| 22 | b2ch58:14 | *Do Kyung-ae.* |
-| 22 | b2ch58:176 | He had spent three days proving that Do Kyung-ae has no lease, no telephone, no vehicle,.. |
-| 22 | b2ch58:224 | Ahn Jung-hee runs that household. |
-| 22 | b2ch59:40 | "Do Kyung-ae is Ahn Jung-hee," said Georgij. "She runs that household. She has run it fo.. |
-| 25 | b2ch60:188 | "The person who has been in that building with her for four years and has no reason on e.. |
-| 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
-| 27 | b2ch62:240 | "Your father brought a man to a table twenty-three years ago and was pleased with himsel.. |
-| 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
-| 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
-| 4 | b2ch80:152 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
-| 10 | b2ch81:52 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
-| 8 | b2ch83:82 | "Her name is Ahn Jung-hee," he said. "She is thirty-five. In the house she has been Do K.. |
-| 8 | b2ch83:92 | "Jung-hee-ya, until she was about eleven, and then Jung-hee, and after she went to work .. |
-| 8 | b2ch86:96 | Ahn Jung-hee did not say anything. |
-| 8 | b2ch86:104 | Then Ahn Jung-hee shifted the strap of the bag from one shoulder to the other, which too.. |
-| 8 | b2ch86:114 | "The woman upstairs. She has a cup at eleven and at four and nobody else in this buildin.. |
-| 8 | b2ch86:176 | Mrs Seo took Ahn Jung-hee upstairs and did not talk to her on the way. |
-| 10 | b2ch87:40 | It gives Ahn Jung-hee everything that was bought on the second of November, without cond.. |
-| 10 | b2ch87:46 | And the third paragraph says that nothing in the document creates any obligation on Ahn .. |
-| 10 | b2ch87:152 | "February four years ago is the month Ahn Jung-hee went into that house," he said. |
-| 8 | b2ch89:10 | Ahn Jung-hee went with them. |
-| 8 | b2ch89:26 | That took about two minutes and nobody helped her and nobody offered to, because Ahn Jun.. |
-
-### Zahlen in der Naehe von Ahn Jung-hee
-
-- `b2ch56:74` (Tag 18) - four, thirty-five, thirty-one
-- `b2ch56:96` (Tag 18) - thirty-five
-- `b2ch56:344` (Tag 18) - thirty-five, thirty-one
-- `b2ch57:64` (Tag 21) - four, thirty-five, thirty-one
-- `b2ch58:176` (Tag 22) - three
-- `b2ch59:40` (Tag 22) - nine, three
-- `b2ch60:188` (Tag 25) - four
-- `b2ch60:220` (Tag 25) - four
-- `b2ch62:240` (Tag 27) - eleven, twenty-three
-- `b2ch63:58` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch64:92` (Tag 31) - four, nine, thirty-five
-- `b2ch74:340` (Tag 53) - four, one, two
-- `b2ch80:152` (Tag 4) - eleven, six
-- `b2ch81:52` (Tag 10) - four, nine, thirty-five
-- `b2ch83:82` (Tag 8) - four, thirty-five
-- `b2ch83:92` (Tag 8) - eleven, forty
-- `b2ch86:104` (Tag 8) - four, one
-- `b2ch86:114` (Tag 8) - eleven, four
-- `b2ch87:152` (Tag 10) - four
-- `b2ch89:26` (Tag 8) - two
 
 ---
 

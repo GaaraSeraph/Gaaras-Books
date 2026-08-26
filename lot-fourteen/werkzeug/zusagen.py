@@ -151,10 +151,16 @@ def stand(alle=False):
           f"({letzte[-1][0]} Kapitel {letzte[-1][1]})\n")
 
     ueberfaellig, offen, bezahlt, ereignis, ohne = [], [], [], [], []
+    verfallen = []
     for e in eintraege:
         if e["status"] == "KEINE":
             continue
-        if e["status"] == "BEZAHLT":
+        # Eine gebrochene Zusage, die der Text kennt, ist ein Zustand und kein
+        # offener Posten. Bis zum 25.08. lief sie in die Faelligkeitsrechnung
+        # und stand am Bandende als ueberfaellig da, obwohl sie erledigt ist.
+        if e["status"] == "VERFALLEN":
+            verfallen.append(e)
+        elif e["status"] == "BEZAHLT":
             bezahlt.append(e)
         elif e["faellig"] and e["faellig"] < heute:
             ueberfaellig.append(e)
@@ -194,6 +200,13 @@ def stand(alle=False):
               f"Jede davon bekommt eins oder wird geloescht.")
         for e in ohne:
             print(f"  Zeile {e['zeile']:4d}  {e['band']} {e['kap']:2d}  {e['wer']}")
+        print()
+
+    if verfallen:
+        print(f"VERFALLEN ({len(verfallen)}) - gebrochen, und der Text weiss es")
+        for e in verfallen:
+            print(f"  {e['band']} {e['kap']:2d}  {e['wer']}")
+            print(f"          \"{e['zitat'][:96]}\"")
         print()
 
     print(f"BEZAHLT ({len(bezahlt)})")
