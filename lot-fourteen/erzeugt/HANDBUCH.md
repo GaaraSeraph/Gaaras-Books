@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 298.143 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 298.447 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -74,6 +74,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Der Köder: Hanseong](#der-k-der-hanseong)
   - [Was Geld in diesem Buch bedeutet](#was-geld-in-diesem-buch-bedeutet)
 - [Kontinuitaet](#kontinuitaet)  ·  `doc/05-continuity.md`
+  - [Das Jahr](#das-jahr)
   - [Kalender](#kalender)
   - [Die Fahrerwoche](#die-fahrerwoche)
   - [Geprueft und stehengelassen](#geprueft-und-stehengelassen)
@@ -2937,6 +2938,46 @@ Kalender, Kapitelstand, wiederkehrende Bilder, woertlich festgelegte Zeilen. Die
 
 Tag 1 ist Samstag, der 4. Oktober. Jede Datumszeile laesst sich daraus
 nachrechnen, und `check.py` tut das automatisch.
+
+### Das Jahr
+
+**Ermittelt am 26.08. Das Jahr stand bis dahin in keinem Dokument, obwohl es
+seit Band 1 im Werkzeug festgeschrieben ist.**
+
+**`DAY1 = 2025-10-04` in `werkzeug/check.py`.** Daraus:
+
+| | Tag | Datum |
+|---|---|---|
+| **Band 1, Kapitel 1** - die Auktion | 1 | Sa **4. Oktober 2025** |
+| Band 1, Ende | 149 | So 1. Maerz 2026 |
+| **Band 2, Kapitel 1** | 150 | Mo 2. Maerz 2026 |
+| **Band 2, Kapitel 90** - Bandende | 415 | So **22. November 2026** |
+
+**Band 1 spielt also im Herbst und Winter 2025/26, Band 2 fast vollstaendig im
+Jahr 2026.** Die Wochentage sind ueber alle 124 Kapitel geprueft und stimmen:
+Kapitel 62 sagt *"Sunday 23 August"*, der Kalender sagt Sonntag; Kapitel 90 sagt
+*"Sunday 22 November"*, der Kalender sagt Sonntag.
+
+**Annie ist damit achtunddreissig.** Woo sagt in Band 2, Kapitel 61, dass sie
+2002 vierzehn war; das ergibt Geburtsjahr 1987 oder 1988. Passt zu `doc/03-cast.md`
+("Ende dreissig") und zu Kapitel 62, in dem sie seit ihrem dreissigsten
+Lebensjahr Geschaefte macht.
+
+**ZWEI JAHRESANGABEN IM TEXT WIDERSPRECHEN DEM KALENDER, und zwar beide um genau
+ein Jahr und beide in dieselbe Richtung:**
+
+1. **"Twenty-three years ago" fuer 2002.** Gesagt im August und November **2026**,
+   also vierundzwanzig Jahre her. Fuenf Stellen: Kapitel 57 (zweimal), 61, 62
+   (zweimal).
+2. **"I arranged that in 2014"** fuer den Trust, den Kapitel 87 auf *"eleven years
+   ago"* datiert. Von 2026 aus waeren elf Jahre **2015**, und 2014 waeren zwoelf.
+   Eine Stelle: Kapitel 88.
+
+**Beide lesen sich, als haette jemand vom Startjahr 2025 aus gerechnet statt vom
+laufenden Handlungsjahr.** Der Kalender ist das staerkere Fundament, weil an ihm
+124 gepruefte Datumszeilen haengen und an den beiden Angaben nur sechs Saetze.
+**Noch nicht geaendert, weil "vierundzwanzig" anders klingt als "dreiundzwanzig"
+und die Zahl in Dialogzeilen steht.**
 
 ### Kalender
 
