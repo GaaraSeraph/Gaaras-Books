@@ -3339,7 +3339,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Ahn Jung-hee ist **fuenfunddreissig** (Kapitel 56, hier bestaetigt durch
     *"thirty-five years of her"*).
 
-- **Band 2, Kapitel 74** *Forty-one seconds* (v1.4) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
+- **Band 2, Kapitel 74** *Forty-one seconds* (v1.5) - **Tag 348 und 350, Mi 16. und Fr 18. September. Die Entscheidung, und am Ende fragt sie.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -3480,7 +3480,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Choi Dae-ho spricht weiterhin nicht** und ist am Ende von 75 zum ersten Mal
     im Buch etwas anderes als ein Gegner: ein Gegenstand, den jemand gemacht hat.
 
-- **Band 2, Kapitel 76** *What came back* (v1.0) - **Tag 353 bis 356, Mo 21. bis Do 24. September. Ein Dokument, eine Woche, und der teuerste Brief ihres Lebens kommt zurueck.**
+- **Band 2, Kapitel 76** *What came back* (v1.1) - **Tag 353 bis 356, Mo 21. bis Do 24. September. Ein Dokument, eine Woche, und der teuerste Brief ihres Lebens kommt zurueck.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal ein Bruch, und zwar mit Absicht.** Gemessen am 25.08.: die Kapitel
@@ -3492,12 +3492,12 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Der Brief steht im Text**, neun Zeilen, ihre Handschrift, kein Briefkopf,
     keine Anrede, keine Bitte, keine Absenderadresse. Letzte Zeile: *This should
     have reached you in April.*
-  - **Die zwei Dinge sind benannt** (Zusage aus 74, faellig Tag 353): ein Anteil
-    an einem Kuehlhaus in Gunsan, seit sie einunddreissig ist, und **der Grund
-    hinter der Werkstatt**, den sie in vier Jahren dreimal nicht verkauft hat, ohne
-    je zu sagen warum. Sie nennt beides in vierzig Sekunden auf dem Weg zum Wagen
-    und sagt nicht, welches von beiden sie mehr kostet. **Das dritte, das sie
-    jemandem versprochen hat, nennt sie nicht, und er fragt nicht.**
+  - **Das Konto ist eingerichtet** (Zusage aus 74, faellig Tag 353): eine Bank,
+    die sie sonst nicht benutzt, ihr eigener Name darauf, sonst nichts darin und
+    nichts anderes hinein. Sie sagt in vierzig Sekunden auf dem Weg zum Wagen das
+    Datum, an dem das Geld dort liegt, und **nicht, woher es kommt.** Georgij
+    fragt nicht, und der Text sagt warum: es gaebe keine Fassung dieser Frage,
+    die von der Frau in Gangwon-do handelt statt von Annie.
   - **MR PYEON SCHICKT SEINEN ZURUECK**, am Tag des Empfangs, Poststempel Dienstag
     vierzehn Uhr zwoelf, etwa einen Kilometer von seinem Tor. Sechs Woerter in
     Bleistift auf der Rueckseite: *"Understood. Please do not send another."*
@@ -3589,7 +3589,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The number* (v1.0) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, ein Versprechen zu brechen.**
+- **Band 2, Kapitel 78** *The number* (v1.1) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, vier Fragen nicht zu stellen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Jeon faengt in Gwangyang an**, und der Text weiss ueber den Tag nichts
@@ -3613,15 +3613,18 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der sie ohne Rueckversicherung gibt: er hat ihren Namen beide Male
     zurueckgesagt, am 14. und am 28., vor dem Aufhaengen, und wusste es nicht.
     *"Then it was answered."*
-  - **DAS DRITTE DING HAT EINEN NAMEN: Chairman Woo**, und es ist **die
-    Hartflaeche auf der Ostseite**, elftausend Quadratmeter entwaessertes Gelaende
-    mit Tor. Im April versprochen, ohne Papier, auf Abruf, fuer den Fruehling.
-    *"He said that was the best kind."*
+  - **DIE VIER FRAGEN.** Annie hat seit Dienstag vier Fragen aufgeschrieben, die
+    nur **Chairman Woo** beantworten kann - der einzige lebende Mann, der
+    neunzehn Jahre an ihres Vaters Tisch sass und noch ans Telefon geht.
+    **Sie wird keine davon stellen.**
   - **UND SIE BENENNT, WAS SIE DAMIT TUT.** Georgij haelt ihr ihren eigenen Satz
-    vom 18. September vor (*"A promise you keep until it is expensive is not
-    one"*), und sie nimmt nichts davon zurueck: *"I am going to break a promise to
-    a man of seventy-eight because it has got expensive... That is what I am.
-    There is no second half to that sentence."* **Er bietet ihr keine an.**
+    vom 18. September vor (*"A thing you only do when it is free is not a
+    principle"*), und sie nimmt nichts davon zurueck: *"I would get four answers
+    and he would get the rest of his life. There is no second half to that
+    sentence."* **Er bietet ihr keine an.**
+  - **Georgij benennt den wahren Grund der Fahrt**, und sie bestaetigt ihn mit
+    einem Wort: sie faehrt nicht hin, um Woo zu schonen, sondern damit es eine
+    **Entscheidung** wird und nicht etwas, wozu sie nie gekommen ist.
   - **Der Brief als Ausweg wird ausdruecklich auf den Tisch gelegt und verworfen**,
     und der Grund ist Kapitel 76: *"I sent four letters a fortnight ago and one of
     them came back with six words on it, and I am not going to learn that lesson
@@ -3630,20 +3633,21 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     sagt den zweiten laut und einmal: *"I do not know what he will say when I take
     it back, and I have never in my life needed a second person in a room for that
     reason."*
-  - Der Bodenwert ist **drei Zahlen**, und er legt die dritte nach oben: was das
-    Gelaende wert ist, was **dieses** Gelaende wert ist, und was es einem Mann wert
-    ist, der binnen drei Wochen verkaufen muss und nicht sagen kann, warum.
+  - Sein Auftrag ist **drei Sorten Antwort**, und er legt die dritte nach oben:
+    was irgendwo geschrieben steht, was drei noch lebende Menschen sagen wuerden,
+    und **was ein Mann ueber einen Raum erinnert, in dem er war, und was an dem
+    Tag aufhoert zu existieren, an dem er es tut.**
   - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
     Siehe Kapitel 79.
 
-- **Band 2, Kapitel 79** *What it is worth* (v1.0) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, und er verliert das Gelaende.**
+- **Band 2, Kapitel 79** *What it is worth* (v1.1) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit
-    den drei Zahlen. Georgij braucht elf Kilometer, um zu begreifen, dass sie
-    nichts auf einen Tisch legen koennen will.
-  - **Woo liest den Raum an der Tuer:** *"You have brought him. Then it is not
-    about ground."*
+    den drei Sorten Antwort. Georgij braucht elf Kilometer, um zu begreifen, dass
+    sie nichts auf einen Tisch legen koennen will.
+  - **Woo liest den Raum an der Tuer:** *"You have brought him. Then you are not
+    here to ask me anything."*
   - **DIE REIHENFOLGE IST DER PREIS.** Sie sagt es in der ersten Minute, vor
     jeder Bitte, mit Datum: der 24. August, fuenfzig Minuten, ihr eigenes
     Arbeitszimmer, und seit dem 18. September hat sie es. *"I am not going to sit
@@ -3662,54 +3666,66 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     man keeping the last decision for himself... You did not do a wrong thing. You
     did a thing that is only distinguishable from the wrong one by what you did on
     the day she asked."*
-  - **Sie sagt nicht, wofuer sie das Geld braucht**, und benennt selbst, was das
-    ist: *"I have taken away your reason to believe me on a Monday morning and
-    then I have asked you to believe me anyway."* **Woos Antwort darauf ist der
-    schlimmste Satz, den sie an dem Tag hoert:** *"That is the first thing this
-    morning that your father would have done."*
-  - **Er gibt es her, ohne Bedingungen, und sagt, warum das schlimmer ist:**
-    *"A promise with no paper is worth exactly what the person holding it says it
-    is worth on the morning it is tested. You have told me this morning what mine
-    is worth."*
-  - **Was er damit wollte, sagt er erst danach und ans Fenster:** Container, vier
-    Jahre lang jede Hartflaeche an dem Abschnitt geprueft, drei von vier
-    ueberschwemmen. Bauen wollte er nichts. *"I was going to have it and let
-    somebody younger find out in about six years that I had been right."*
+  - **SIE STELLT DIE VIER FRAGEN NICHT** und sagt ihm ins Gesicht, warum:
+    *"You would answer all four and you would do it well, and then you would be a
+    man of seventy-eight who has been told what was done in his own case and
+    cannot un-know it. I would have four answers by lunch. You would have the rest
+    of it."* Woo widerspricht sofort: **"That is not your decision."** Sie gibt es
+    zu und tut es trotzdem. **Woos Antwort ist der schlimmste Satz, den sie an dem
+    Tag hoert:** *"That is the first thing this morning that your father would not
+    have done."*
+  - **Was sie ihm damit nimmt, sagt er selbst, und es ist schlimmer als eine
+    Bitte:** *"I am seventy-eight and I have four answers in my head that nobody
+    else on this earth has. You have just sat in my house and told me I am to die
+    with them rather than be made uncomfortable. You have made me expensive to
+    consult, and that is a thing you do to an old man once."*
+  - **Was er erwartet hatte, sagt er erst danach und ans Fenster:** Er wartet seit
+    August darauf, gefragt zu werden, hat die vier in der Reihenfolge sortiert, in
+    der er sie beantworten wollte. *"I am not a man who is asked things any more,
+    and that was going to be the last time."*
   - **DIE UNGEFRAGTE GABE AN DER TUER**, wie jedes Mal seit Oktober, und sie ist
-    diesmal eine Ohrfeige: **Cha Tae-seong in Gimpo**, seit Juni knapp an
-    Hoffläche, zahlt ein Fuenftel mehr und in neun Tagen. *"I am not doing it for
-    you... And you are not going to thank me, because I have not given you
-    anything. I have given the ground a price."*
-  - **Georgijs Lesart der Halle**, im Wagen: Woo hat es acht Minuten nach dem
-    Verlust getan, **in der Halle und nicht im Zimmer**, damit es nicht Teil des
-    Gespraechs ueber ihren Vater werden kann.
+    diesmal eine Ohrfeige: **Er schreibt alle vier Antworten auf**, in eigener
+    Hand, sein Anwalt haelt den Umschlag, und sie geht an sie **am Tag seines
+    Todes und keine Stunde frueher.** *"I am not doing it for you... And you are
+    not going to thank me, because I have not given you anything. I have given
+    myself a date."*
+  - **Georgijs Lesart der Halle**, im Wagen: Woo hat ihr die Entscheidung wieder
+    abgenommen und ihr den Teil gelassen, mit dem sie leben kann, **in der Halle
+    und nicht im Zimmer**, damit es nicht Teil des Gespraechs ueber ihren Vater
+    werden kann.
   - **Und Annies letzter Satz, den sie einmal sagt:** *"He was right about the
     twenty-five days and I have not said so... I have been doing the same thing to
     you since the second of March and I did it for six months longer than you did
     it to me."*
-  - **NEUER KANON: Cha Tae-seong**, Gimpo. **Er spricht nicht** und steht deshalb
-    nur im Cast. Der Name hiess beim Schreiben zuerst **Ryu Tae-seong** und wurde
-    noch am selben Tag geaendert, weil *Ryu* in b2 K38 vorkommt und **Mr Ryu
-    bereits einmal aus demselben Grund zu Mr Koh** geworden ist.
-  - **Schuldbuch:** die Aprilzusage an Woo ist der **erste und bisher einzige
-    VERFALLEN-Eintrag des Buches.** Verfallen und nicht offen, weil der Text es
-    weiss und sie es selbst so nennt, bevor sie hinfaehrt.
+  - **NEUER OFFENER FADEN: der Umschlag.** Vier Antworten in Woos Handschrift,
+    beim Anwalt, faellig an seinem Todestag. **Er ist damit der einzige Faden im
+    Buch mit einem Termin, den niemand nachschlagen kann.** Kapitel 90 bestaetigt,
+    dass es ihn gibt, und mehr nicht.
+  - **Korrigiert am 26.08. (v1.1).** Die erste Fassung liess Annie hier die
+    Hartflaeche auf der Ostseite verkaufen, um Geld aufzutreiben. **Beides war
+    falsch:** die Flaeche gehoert **Hana** (B1 15 und 27, sechzehntausend
+    Quadratmeter auf ihren eigenen Namen), Woo hat sie seit Dezember **gemietet**,
+    und Hana verkauft grundsaetzlich nicht (*"You do not let out the thing you are
+    going to bring to the table"*). Und Annie ist Chaebol - vierhunderteinundachtzig
+    Millionen Won sind fuer sie kein Betrag, fuer den man Grundbesitz abstoesst.
+    **Siehe `doc/04-world.md`, "Was Geld in diesem Buch bedeutet".**
 
-- **Band 2, Kapitel 80** *The only door* (v1.0) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
+- **Band 2, Kapitel 80** *The only door* (v1.1) - **Tag 369 bis 371, Mi 7. bis Fr 9. Oktober. Das Geld ist da, und es gibt genau einen Weg hinein.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
-  - **Jang berichtet in seiner Ordnung** (Tatsache, Herkunft, Grenze): Cha nimmt
-    es, gesagt in den ersten vier Minuten; **aber** Jang hat kein Geld gesehen und
-    sagt das ausdruecklich, mit seiner eigenen Fehlerquote dazu. Und zum Grund,
-    warum das Geld dieses Jahr weg muss: *"He did not say and I did not ask,
-    because asking would have made it a thing I was interested in."*
-  - **Verkauft am Freitagmorgen, ein Fuenftel ueber der besten der drei Zahlen**,
-    also genau da, wo Woo es acht Minuten nach dem Verlust in seiner Halle gesagt
-    hatte. Georgij schreibt es auf: *"Woo was right about the price and right
-    about the man, and neither of us has earned that."*
+  - **Von Woo kommt nichts**, weder am Dienstag noch am Mittwoch, und Georgij
+    rechnet aus, dass genau das die Bestaetigung ist: ein Mann, der angekuendigt
+    hat, vier Antworten aufzuschreiben und zu versiegeln, ruft darueber nicht an.
+    Er schreibt es auf: *"He took the decision back off her in about nine seconds
+    and made it look like an old man being stubborn. Neither of us has earned
+    that."*
+  - **Und der zweite Gedanke, den er nicht aufschreibt:** ein
+    Achtundsiebzigjaehriger, der sich gerade etwas zu erledigen gegeben hat, wird
+    es mit dem Rest nicht eilig haben. **Annie ist hingefahren, um ihm etwas
+    abzunehmen, und hat ihm etwas aufgeladen.**
   - **Die Zahl steht: 481 Millionen Won, liquide am 22. Oktober.** Unteres Ende
-    der Spanne vom 18. September, und **es gibt nichts mehr zu verkaufen, das
-    nicht auffiele.**
+    der Spanne vom 18. September, **und es hat sie einen Telefonanruf gekostet.**
+    Niemand im Haus musste etwas erfahren.
   - **ES GIBT GENAU EINE TUER, UND SIE HEISST MR HWANG.** Die Frau in dem Haus
     ist eine Konsignation auf einem Buch, das einem Haus gehoert, das abgewickelt
     wird. Wer das Papier unterschreibt, ist der Mann, der die Abwicklung fuehrt.
@@ -3963,7 +3979,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     eleven feet, and it is the only decision in this whole arrangement that I have
     not been standing next to when it was made."*
 
-- **Band 2, Kapitel 85** *They did not argue about it* (v1.0) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
+- **Band 2, Kapitel 85** *They did not argue about it* (v1.1) - **Tag 389 bis 391, Di 27. bis Do 29. Oktober. Die Gegenseite nimmt in sechsundzwanzig Stunden an und bietet an, sie zu fahren.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Annie schreibt ihren Namen auf die vierte Seite, in ihrer Handschrift, in
@@ -3975,6 +3991,10 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Woraus folgt, was nicht mehr rueckgaengig zu machen ist:** sie haetten ein
     Drittel genommen. Sie rechnet es in zehn Minuten aus. *"That is correct and I
     want it said again in about a fortnight when I have decided it was avoidable."*
+  - **Und Georgij benennt, was der Preis tatsaechlich war**, weil es nie das Geld
+    gewesen ist: *"You have put your own name into a sequence that gets read in
+    nine years, and you did it for a figure they would have halved. The money was
+    never the price and both of us knew that in September."*
   - **DAS FAHRANGEBOT.** Vier Zeilen, kostenlos, ab dem 2. November, zwei Tage
     Vorlauf, unterschrieben von einem Vertreter in einer Handschrift, die niemand
     kennt. **Choi hat weiterhin keine Replik und braucht keine:** *"There is no

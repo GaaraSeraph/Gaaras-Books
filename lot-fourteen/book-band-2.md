@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 220.023 Woerter.
+Book Two, 90 Kapitel, 220.113 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -84,23 +84,23 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 71 | v1.2 | 3.650 |
 | 72 | v1.4 | 2.308 |
 | 73 | v1.1 | 2.175 |
-| 74 | v1.4 | 3.491 |
+| 74 | v1.5 | 3.557 |
 | 75 | v1.0 | 2.539 |
-| 76 | v1.0 | 2.056 |
+| 76 | v1.1 | 2.006 |
 | 77 | v1.2 | 2.327 |
-| 78 | v1.0 | 2.077 |
-| 79 | v1.0 | 2.166 |
-| 80 | v1.0 | 2.083 |
+| 78 | v1.1 | 2.169 |
+| 79 | v1.1 | 2.177 |
+| 80 | v1.1 | 2.057 |
 | 81 | v1.1 | 2.510 |
 | 82 | v1.1 | 2.447 |
 | 83 | v1.1 | 2.434 |
 | 84 | v1.0 | 2.128 |
-| 85 | v1.0 | 2.038 |
+| 85 | v1.1 | 2.040 |
 | 86 | v1.0 | 2.148 |
 | 87 | v1.0 | 2.014 |
 | 88 | v1.0 | 1.998 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.0 | 1.704 |
+| 90 | v1.1 | 1.699 |
 
 ---
 
@@ -16370,7 +16370,7 @@ He wrote that in the car and drove back with the windows down, and he did not de
 ---
 
 # Book Two · Chapter 74: Forty-one seconds
-*Lot Fourteen* · Version 1.4 · EN
+*Lot Fourteen* · Version 1.5 · EN
 
 ## Day Three Hundred and Forty-Eight · Wednesday 16 September
 
@@ -16650,11 +16650,19 @@ Annie let that sit for a while, which she does not usually do.
 
 "I do not have the figure. You do."
 
-"Then have it. It is between four hundred and sixty and five hundred and ten million won, and the width of that is the part I do not like." She said it flatly. "A house that is running still has a price list. A house that is being wound up has a man in a hurry. I am going to be dealing with the first one and paying the second one's premium, and I will be doing it in September with money I was going to have in February."
+"Then have it. It is between four hundred and sixty and five hundred and ten million won, and the width of that is the part I do not like." She said it flatly. "A house that is running still has a price list. A house that is being wound up has a man in a hurry. I am going to be dealing with the first one and paying the second one's premium."
 
-"Say what has to come out to make it."
+"Say what it costs you."
 
-"Two things I like and one I have promised somebody else," said Annie. "I will say which on Monday, and not before, because I want to be sure I am not choosing the one that hurts least."
+Annie put the pen down on the far side of the blotter and left it there.
+
+"That is the part you are not going to like," she said. "Nothing. It comes out of one account into another and there is no month of this year in which I would notice it had gone."
+
+Georgij did not answer that straight away.
+
+"Then say why you said the number flatly."
+
+"Because I have just told you what a person costs and the answer is that it costs me nothing." She was not looking at him. "I have been sitting with that since Thursday and I have not got anywhere with it. You may as well know that instead of assuming I have."
 
 * * *
 
@@ -17108,17 +17116,13 @@ He stopped at the door.
 ---
 
 # Book Two · Chapter 76: What came back
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Fifty-Three · Monday 21 September
 
-She named the two things on the Monday, as she had said she would, and she did it in about forty seconds on her way out to the car.
+The account was opened on the Monday and it took her about forty seconds to say so, on her way out to the car.
 
-The first was a holding in a cold store at Gunsan that she has had since she was thirty-one and that pays for itself twice over. The second was the ground behind the workshop, which is not worth what the cold store is worth and which she has refused to sell three times in four years for reasons she has never given anybody.
-
-She did not say which of the two she minded. She said the dates by which each would be gone and she got into the car.
-
-The third thing, the one she had promised to somebody else, she did not name, and Georgij did not ask for it, and that was the whole of the transaction.
+One account, at a bank she has never used for anything else, her own name on it, nothing else in it and nothing else going into it. She said the date by which the money would be in there and got into the car without saying where it was coming from. Georgij did not ask. There was no version of that question that was about the woman in Gangwon-do rather than about Annie herself.
 
 * * *
 
@@ -17520,7 +17524,7 @@ He took it up at twenty past nine and Annie read the four lines twice and put th
 ---
 
 # Book Two · Chapter 78: The number
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Sixty-Three · Thursday 1 October
 
@@ -17620,23 +17624,23 @@ She said it at nine in the morning in the small room and she said it standing up
 
 Georgij put the folder down.
 
-"The east side."
+"You are going to ask him."
 
-"The hard standing on the east side. Eleven thousand square metres of drained open ground with a gate, which is the only thing on this river he has wanted from me in four years, and which he has never once asked for twice." She had both hands flat on the desk. "I told him in April that it was his when he wanted it and that there would be no paper until there needed to be. He said that was the best kind and that he would want it in the spring."
+"I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years. He is the only man alive who was in those rooms and will still answer a telephone, and there are four questions I could put to him that nobody else on this earth can answer."
 
-"And now it goes on the market."
+"And now."
 
-"Now it goes to whoever pays first, and it pays for about a fifth of what I have to find, and there is no version of this in which he is not told to his face."
+"Now I am not going to ask him any of them, and I am going to go out there on Monday and tell him so to his face, because he is owed that and a letter is not it."
 
 * * *
 
 Georgij stood in the middle of the room and did the arithmetic he did not want to do.
 
-"On the eighteenth of September you told me that a promise you keep until it is expensive is not one," he said.
+"On the eighteenth of September you told me that a thing you only do when it is free is not a principle," he said.
 
 "I did."
 
-"And this one has become expensive."
+"And asking him has stopped being free."
 
 "Yes."
 
@@ -17644,7 +17648,7 @@ Georgij stood in the middle of the room and did the arithmetic he did not want t
 
 Annie did not take any time over it.
 
-"I am going to break a promise to a man of seventy-eight because it has got expensive," she said, "and I have spent this month telling you that this is the one thing a person does not do, and I was right when I said it and I am not going to unsay it. That is what I am. There is no second half to that sentence."
+"If I ask him those four questions, he answers them, and then he is a man of seventy-eight who has been told what happened in his own case and cannot un-know it," she said. "He would sit with that for whatever he has left. I would get four answers and he would get the rest of his life. There is no second half to that sentence."
 
 Georgij did not offer her one.
 
@@ -17657,6 +17661,18 @@ Georgij did not offer her one.
 "I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
 "That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. It is a thing said in a room. I sent four letters a fortnight ago and one of them came back with six words on it, and I am not going to learn that lesson twice at somebody else's expense."
+
+* * *
+
+"There is a thing you have not said," said Georgij, "and I am going to say it badly, and you can correct the wording."
+
+"Say it."
+
+"You are not going out there to spare him. You are going out there because if you sat in this house and simply did not ask, you would never be certain that was the reason." He kept his hands at his sides. "You want it done in front of somebody so that it is a decision and not a thing you failed to get round to."
+
+Annie looked at him for a moment longer than she usually does.
+
+"Yes," she said.
 
 "Then when."
 
@@ -17676,17 +17692,17 @@ Georgij stood very still.
 
 "It is noted, Mistress."
 
-"Then go and find out what eleven thousand metres of drained ground with a gate is worth this month, and do not be gentle about the number, and have it on my desk by six."
+"Then go and find out which of those four questions can be answered by somebody who is not him, and do not be kind about it, and have it on my desk by six."
 
 * * *
 
-It took him until half past four and most of it was telephone work, and he did it from the small office and not from a car, because he is off the road.
+It took him until half past four and most of it was paper, and he did it from the small office and not from a car, because he is off the road.
 
-The number is not one number. It is three, and they are a long way apart, and the distance between them is the whole of the problem.
+The four questions do not sort into four answers. They sort into three kinds, and the distance between the kinds is the whole of the problem.
 
-There is what the ground is worth to somebody who wants ground. There is what it is worth to somebody who wants that ground, on that river, with that gate, in a month when two of the four operators on the reach are short of yard space. And there is what it is worth to a man who has to sell inside three weeks and cannot say why.
+There is what is written down somewhere and can be got at by anybody patient. There is what two men and one woman still living would say if they were asked properly and had a reason to answer. And there is the third kind, which is what one man remembers about a room he was in, and which stops existing on the day he does.
 
-He wrote all three on one sheet with the dates he had got them from, and he put the third one at the top, because that is the one that is true.
+He wrote all three on one sheet with what each would cost to get, and he put the third one at the top, because that is the one that is true.
 
 He put it on the blotter at ten to six and did not stay in the room while she read it.
 
@@ -17698,7 +17714,7 @@ She came out at about seven and found him at the far end of the passage doing no
 
 "You put it at the top."
 
-"It is the one that is true. The other two are what the ground is worth and neither of them is available to you."
+"It is the one that is true. The other two are what you can have without him, and neither of them is what you actually wanted to know."
 
 Annie stood in the passage with the sheet in her hand.
 
@@ -17707,7 +17723,7 @@ Annie stood in the passage with the sheet in her hand.
 ---
 
 # Book Two · Chapter 79: What it is worth
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Sixty-Seven · Monday 5 October
 
@@ -17729,9 +17745,9 @@ He looked at Georgij for slightly longer than a host looks at anybody.
 
 "I have."
 
-"Then it is not about ground."
+"Then you are not here to ask me anything."
 
-"It is about ground," said Annie. "It is not only about ground, and you have worked that out in the hall, and I would rather do the rest of it sitting down."
+"I am here to tell you why I am not going to," said Annie. "And there is a thing before that which is worse, and you have worked that out in the hall, and I want to do the rest of it sitting down."
 
 * * *
 
@@ -17815,19 +17831,19 @@ He sat with his hands on his knees and did not soften anything.
 
 Annie let a moment go past.
 
-"Now the ground," she said.
+"Now the other thing," she said.
 
 Woo put one hand flat.
 
 "Go on."
 
-"In April I told you that the hard standing on the east side was yours when you wanted it and that there would be no paper until there needed to be. You said that was the best kind and that you would want it in the spring." She did not take her eyes off him. "I am selling it. It goes on the market inside three weeks and it goes to whoever pays first, and I am telling you before I do it and not afterwards."
+"I came out here with four questions. I have had them written down since Tuesday and I have read them about nine times, and you are the only man alive who can answer any of them." She did not take her eyes off him. "I am not going to ask them. I am telling you that in your own room because I am not going to have you find out in six months that I was here and did not."
 
 The room was very quiet.
 
 "Why," said Woo.
 
-"I am not going to tell you."
+"Because you would answer them."
 
 * * *
 
@@ -17835,13 +17851,13 @@ Woo looked at her properly for the first time since the hall.
 
 "Say that again with the whole of it in it."
 
-"I need a great deal of money faster than I can decently raise it, and I am not going to tell you what for, and I am aware of what I am asking you to accept." Annie did not blink. "I have taken away your reason to believe me on a Monday morning and then I have asked you to believe me anyway. There is no version of that which is not what it looks like."
+"You would answer all four and you would do it well, and then you would be a man of seventy-eight who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
 
-"There is not."
+"That is not your decision."
 
-"No."
+"No. It is not." She did not move. "I have made it anyway and I am not going to pretend that is different from what it is."
 
-"And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it going badly." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would have done."
+"And you knew that in the drive and you came anyway, and you brought him so that there would be a witness to it." Woo said it without any cruelty in it at all. "That is the first thing this morning that your father would not have done."
 
 * * *
 
@@ -17849,13 +17865,13 @@ Annie did not answer that.
 
 Georgij, at the window, watched an old man decide something and did not move.
 
-"You will have it," said Woo.
+"You have taken something off me," said Woo.
 
-"Say the terms."
+"Say what."
 
-"There are no terms. That is the point of it and you are going to sit there and take the whole of it." He straightened one hand on his knee. "A promise with no paper is worth exactly what the person holding it says it is worth on the morning it is tested. You have told me this morning what mine is worth. I am not going to make you pay for that as well, because then it would be a transaction, and I have spent four years not making it one."
+"The last useful thing I had." He straightened one hand on his knee. "I am seventy-eight and I have four answers in my head that nobody else on this earth has. You have just sat in my house and told me I am to die with them rather than be made uncomfortable. You have made me expensive to consult, and that is a thing you do to an old man once."
 
-"That is worse than terms."
+"That is worse than being asked."
 
 "It is meant to be."
 
@@ -17863,11 +17879,11 @@ Georgij, at the window, watched an old man decide something and did not move.
 
 He got up, which took him a moment, and went to the window and stood next to Georgij and looked out at the same nothing.
 
-"I wanted it for containers," he said, to the glass. "Eleven thousand metres of drained ground with a gate on the east side, and I have looked at every piece of hard standing on that reach since 2019 and there are four and three of them flood. I am seventy-eight. I was not going to build anything on it. I was going to have it and let somebody younger find out in about six years that I had been right about where the boxes were going."
+"I have been waiting to be asked since August," he said, to the glass. "I went to that house on a Sunday and sat in her study with you for fifty minutes. Every week since, I have thought she would come out here and put it to me straight. I have had the four of them lined up in the order I would want them in. I am not a man who is asked things any more, and that was going to be the last time."
 
 He turned round.
 
-"That is what it was for and now you know, and I would have told you in the spring in one sentence and been pleased with myself about it."
+"That is what it was for and now you know, and I would have told you afterwards in one sentence and been pleased with myself about it."
 
 * * *
 
@@ -17877,13 +17893,13 @@ At the door, with the car already turned round, he did the thing he has done eve
 
 "Chairman."
 
-"You will sell it inside three weeks and you will sell it badly, because a seller who cannot say why is a seller who takes the second offer." He had one hand on the frame. "There is a man at Gimpo called Cha Tae-seong. He has been short of yard space since June and he has money that has to be spent this year for a reason that is his own business. He will pay about a fifth more than anybody else on that reach and he will do it in nine days."
+"You will decide in about three weeks that you were wrong this morning, and you will not come back, because you will have made it into a principle by then." He had one hand on the frame. "So I am going to write them down. All four, in my hand, and my solicitor will hold the envelope, and it goes to you on the day I am dead and not one hour before."
 
 Annie stood in the hall.
 
 "Why would you do that," she said.
 
-"I am not doing it for you." Woo did not put his hand out. "I have looked at that ground for four years and I am not going to stand at a window in December and watch it go for less than it is worth to somebody who cannot count. And you are not going to thank me, because I have not given you anything. I have given the ground a price."
+"I am not doing it for you." Woo did not put his hand out. "I have carried those four for twenty-three years. They are not going into a box at a crematorium because a woman half my age decided in October that I was too old to hear about my own life. And you are not going to thank me, because I have not given you anything. I have given myself a date."
 
 * * *
 
@@ -17893,11 +17909,11 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 "Say what he did in the hall," said Annie.
 
-"He named a buyer who will pay a fifth more, and he did it eight minutes after finding out that you had taken the ground off him."
+"He took the decision back off you and left you the part you can live with, and he did it eight minutes after you told him he was to take the whole of it to his grave."
 
 "Say why."
 
-"Because the alternative was watching a thing he had wanted for four years go cheap," said Georgij, "and a man of seventy-eight who has been right about a piece of ground since 2019 would sooner be robbed properly than robbed badly."
+"Because you decided what an old man could carry without asking him," said Georgij, "and a man of seventy-eight who has been right about most things since 2002 would sooner name his own date than have one chosen for him by somebody being kind."
 
 "That is not the whole of it."
 
@@ -17905,7 +17921,7 @@ She did not say anything for the first eleven kilometres, which is the same elev
 
 Annie looked out of the window for a while.
 
-"Cha Tae-seong at Gimpo," she said. "Wednesday. You are still off the road, so it goes through Jang and it is done by Friday."
+"He is going to write them tonight," she said. "He has had them in order since August and he will not sleep until they are on paper."
 
 "Yes, Mistress."
 
@@ -17918,33 +17934,25 @@ Annie looked out of the window for a while.
 ---
 
 # Book Two · Chapter 80: The only door
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Sixty-Nine · Wednesday 7 October
 
-Jang went to Gimpo on the Wednesday morning and was back before two.
+Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and neither of them said anything about it, which is its own kind of saying something.
 
-He does not report the way other people report. He came in, stood, and gave it in the order he has given everything since March, which is the fact, then where the fact came from, then what the fact does not cover.
+Georgij worked out on the Wednesday afternoon that nothing was going to come, and that this was correct. A man who has announced that he will write four answers down and seal them does not then telephone about it.
 
-"He will take it," he said. "He said it in the first four minutes and then spent forty more telling me why, which is a man who has decided and wants to be understood about it. That is what I heard and I was in the room for it."
+He wrote it in the book. *He is not going to ring. He said the whole of it in the hall and there is nothing to add to it, and adding to it would make it a negotiation.*
 
-"And what you did not hear," said Annie.
-
-"I did not see money. He talked about money the way a man does who has it, and I have been wrong about that twice in thirty years, and both times it was a man who talked exactly like that." Jang did not move. "The bank will tell you inside a day. I cannot."
-
-"And the reason it has to be spent this year."
-
-"He did not say and I did not ask, because asking would have made it a thing I was interested in." He put his hands behind his back. "It is a reason that suits us and I would not go near it."
+Then, because it was true, he wrote *He took the decision back off her in about nine seconds and made it look like an old man being stubborn. Neither of us has earned that.*
 
 * * *
 
-The bank told them inside a day.
+He thought about the envelope twice more that week and did not write either of those down.
 
-It went through on the Friday morning at a fifth over the best of the three numbers Georgij had put on the sheet, which is exactly what Chairman Woo had said, in the hall, eight minutes after losing it.
+The first thought was that Woo would be dead before Annie ever read it. That is the whole arrangement and it is not a thing to be sad about. The man built it for exactly that, and he built it in a hallway in under a minute.
 
-Georgij wrote it in the book and underneath it wrote *Cha Tae-seong, Gimpo, nine days quoted, six taken.*
-
-Then, because it was true, he wrote *Woo was right about the price and right about the man, and neither of us has earned that.*
+The second thought was worse and he put it away from him. A man of seventy-eight who has just given himself something to finish is not going to be in a hurry about the rest of it. Annie had gone out there on Monday to take a weight off him and had handed him one instead. That is what happens every time somebody decides in advance what another person can carry.
 
 * * *
 
@@ -17952,7 +17960,7 @@ Then, because it was true, he wrote *Woo was right about the price and right abo
 
 She had him in the small room at six with everything on the desk at once, which she does about four times a year.
 
-The cold store at Gunsan. The ground behind the workshop. The east side, sold. Two smaller things he had not known about, one of which she has held since before he came into that house.
+One account with her name on it and one sheet from the bank confirming what would be in it and when. Nothing else on the desk had a figure on it at all.
 
 "Say the number," said Annie.
 
@@ -17962,7 +17970,7 @@ The cold store at Gunsan. The ground behind the workshop. The east side, sold. T
 
 "Four hundred and sixty to five hundred and ten."
 
-"So I am inside it at the bottom and I have nothing left to sell that would not be noticed," she said. "That is the whole of the money and there is no more of it. Now say the part you have been carrying since Monday, because you have carried it up those stairs four times this week and taken it down again."
+"So I am inside it at the bottom, and it took one instruction on a Monday and nobody in this house has had to be told anything," she said. "That is the whole of the money and it cost me a telephone call. Now say the part you have been carrying since Monday, because you have carried it up those stairs four times this week and taken it down again."
 
 * * *
 
@@ -18983,7 +18991,7 @@ He came down the hill and it took eight minutes and he did the arithmetic in the
 ---
 
 # Book Two · Chapter 85: They did not argue about it
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
@@ -18993,7 +19001,7 @@ Annie wrote her name on the fourth page at eight o'clock at the desk in the smal
 
 She did it once, without a rehearsal on another sheet, and she did not look at it afterwards.
 
-The price on the schedule is four hundred and eighty-one million and the figure that follows it. It is the whole of what she has. It is the number Georgij put at the top of a sheet on the ninth of October, and the number she has been building towards since the eighteenth of September.
+The price on the schedule is four hundred and eighty-one million and the figure that follows it. It is the number Georgij put at the top of a sheet on the ninth of October. It is not a great deal of money to her and both of them know it, and she writes it out in full anyway, in words, because the form asks for words.
 
 She wrote it in the box before she wrote her name, which is the order the form asks for, and she wrote the name last and did not blot it.
 
@@ -19037,7 +19045,7 @@ She was standing at the window with the note in her hand and she did not turn ro
 
 "Say it."
 
-"You sold a holding you have had since you were thirty-one and a piece of ground you have refused to sell three times in four years." Georgij did not soften any of it. "And you broke a promise to a man of seventy-eight to his face on a Monday morning. And the other side did not spend one hour deciding, and would have taken less, and there is no version of the last six weeks in which anybody could have found that out first."
+"You have put your own name into a sequence that gets read in nine years, and you did it for a figure they would have halved." Georgij did not soften any of it. "The money was never the price and both of us knew that in September. The other side did not spend one hour deciding, and there is no version of the last six weeks in which anybody could have found that out first."
 
 "That is correct and I want it said again in about a fortnight when I have decided it was avoidable."
 
@@ -20024,7 +20032,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -20076,9 +20084,9 @@ Ahn Jung-hee looked at the wall for a moment, which is a thing she does.
 
 It has not been a good three weeks for the woman who paid, either, and none of it shows.
 
-The cold store at Gunsan went on the twelfth of October and the ground behind the workshop on the nineteenth. The east side went to Gimpo on the ninth. She has not walked to the end of the lane since. That was a thing she did about twice a week for four years and she stopped on the tenth of November and has not said why and nobody has asked.
+The money went out of the account on the twenty-seventh and the account was closed on the thirtieth and neither of those took anybody in that house four minutes. She has not walked to the end of the lane since. That was a thing she did about twice a week for four years and she stopped on the tenth of November and has not said why and nobody has asked.
 
-There is a man at Gimpo with a piece of drained ground and a gate, and in about six years he is going to be right about it. It will not be Chairman Woo who was right about it.
+Somewhere in a solicitor's office there is an envelope with four answers in it in an old man's handwriting, and a date on the outside that is not a date anybody can look up.
 
 Woo has not been in that house since the fifth of October.
 

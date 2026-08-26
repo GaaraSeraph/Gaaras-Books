@@ -107,23 +107,23 @@ b2  ch70  v1.1       2275 Woerter  ch70_v1_1_en.md
 b2  ch71  v1.2       3650 Woerter  ch71_v1_2_en.md
 b2  ch72  v1.4       2308 Woerter  ch72_v1_4_en.md
 b2  ch73  v1.1       2175 Woerter  ch73_v1_1_en.md
-b2  ch74  v1.4       3491 Woerter  ch74_v1_4_en.md
+b2  ch74  v1.5       3557 Woerter  ch74_v1_5_en.md
 b2  ch75  v1.0       2539 Woerter  ch75_v1_0_en.md
-b2  ch76  v1.0       2056 Woerter  ch76_v1_0_en.md
+b2  ch76  v1.1       2006 Woerter  ch76_v1_1_en.md
 b2  ch77  v1.2       2327 Woerter  ch77_v1_2_en.md
-b2  ch78  v1.0       2077 Woerter  ch78_v1_0_en.md
-b2  ch79  v1.0       2166 Woerter  ch79_v1_0_en.md
-b2  ch80  v1.0       2083 Woerter  ch80_v1_0_en.md
+b2  ch78  v1.1       2169 Woerter  ch78_v1_1_en.md
+b2  ch79  v1.1       2177 Woerter  ch79_v1_1_en.md
+b2  ch80  v1.1       2057 Woerter  ch80_v1_1_en.md
 b2  ch81  v1.1       2510 Woerter  ch81_v1_1_en.md
 b2  ch82  v1.1       2447 Woerter  ch82_v1_1_en.md
 b2  ch83  v1.1       2434 Woerter  ch83_v1_1_en.md
 b2  ch84  v1.0       2128 Woerter  ch84_v1_0_en.md
-b2  ch85  v1.0       2038 Woerter  ch85_v1_0_en.md
+b2  ch85  v1.1       2040 Woerter  ch85_v1_1_en.md
 b2  ch86  v1.0       2148 Woerter  ch86_v1_0_en.md
 b2  ch87  v1.0       2014 Woerter  ch87_v1_0_en.md
 b2  ch88  v1.0       1998 Woerter  ch88_v1_0_en.md
 b2  ch89  v1.0       2085 Woerter  ch89_v1_0_en.md
-b2  ch90  v1.0       1704 Woerter  ch90_v1_0_en.md
+b2  ch90  v1.1       1699 Woerter  ch90_v1_1_en.md
 
-Gesamt: 2 Baende, 124 Kapitel, 321240 Woerter
+Gesamt: 2 Baende, 124 Kapitel, 321330 Woerter
 Handbuch: 18 Dokumente

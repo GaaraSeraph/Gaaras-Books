@@ -362,3 +362,53 @@ Ihr Name steht offen in der ersten Abteilung. Sie hat nichts versteckt, und es g
 **Er sieht die Wand vorher.** In Kapitel 16 fragt er von sich aus, ob ein Vorstand, der nicht mehr tagt, eine Veräußerung überhaupt genehmigen kann, Seite vierzehn. Er stellt also genau die Frage, an der er scheitern wird, und beißt trotzdem. Das ist keine Dummheit, sondern seine eine Eigenschaft.
 
 **Der Bericht ist wahr.** Hanseong blutet tatsächlich, der Vorstand ist tatsächlich zerstritten. Die Täuschung liegt nicht im Inhalt, sondern darin, warum er auf dem Tisch liegt. Deshalb kann Georgij es tun, ohne seine Regel zu brechen, und deshalb ist es das Unangenehmste, was er bisher getan hat: Er lügt kein einziges Mal und ruiniert damit einen Mann.
+
+---
+
+### Was Geld in diesem Buch bedeutet
+
+**Festgelegt am 26.08., nachdem der Geldfaden in B2 74 bis 90 daran zerbrochen
+war.** Die Zahlen im Buch sind nicht kaputt. Was kaputtgeht, ist jede Szene, die
+eine davon fuer viel Geld haelt.
+
+**Die Groessenordnung des Geschaefts steht seit Band 1, Kapitel 18:** die
+neunzehn Seiten sind *"worth several hundred billion won"*. Das ist die Ebene,
+auf der Annie, Hana, Sang-hoon und die Kims rechnen.
+
+**Die Groessenordnung eines Menschen liegt drei Stellen darunter, und das ist
+der Punkt:**
+
+| | Won | Anteil an dreihundert Milliarden |
+|---|---|---|
+| Los elf (B1 1) | 80 Mio | 0,03 % |
+| **Georgij** (B1 16, 30, 33, 34) | 220 Mio | 0,07 % |
+| **Die Frau in Gangwon-do** (B2 74 ff.) | 481 Mio | 0,16 % |
+| Sang-hoons Gebot auf Georgij (B2 33) | 2,2 Mrd | 0,7 % |
+
+**220 Millionen Won sind ungefaehr eine mittlere Wohnung in Seoul.** Das ist die
+entwuerdigendste Zahl, die sich hinschreiben laesst, und sie ist Absicht:
+`doc/08-decisions.md` verwirft ausdruecklich die 10 und 60 Millionen des
+Rohverlaufs zugunsten der 220.
+
+**Daraus folgen drei Regeln, und die dritte ist die, an der schon einmal vier
+Kapitel gescheitert sind:**
+
+1. **Menschenpreise bleiben klein.** Wer sie erhoeht, damit der Kauf schwerer
+   wiegt, zerstoert genau das, was er wiegen laesst.
+2. **Wer Chaebol ist, rechnet in Milliarden. Wer es nicht ist, nicht.**
+   **Chairman Woo ist kein Chaebol.** Er ist Logistiker an der Spitze seines
+   Fachs, und fuer ihn sind vierhundert Millionen eine spuerbare Summe. Fuer
+   Annie und Hana sind sie es nicht. Ein Chaebol bittet einen Logistiker
+   ausserdem nicht um Geld - das ist keine Finanz-, sondern eine Standesfrage.
+3. **Annie kann nie in Geldnot sein.** Sie ist Chair, sie verfuegt allein, es
+   gibt keine Instanz ueber ihr, und ein Haus dieser Groesse haelt fuer stille
+   Zahlungen ohnehin Konten auf fremde Namen. **Jede Szene, in der sie Vermoegen
+   abstossen muss, um eine dreistellige Millionensumme aufzubringen, ist ein
+   Fehler.** Was ihr Handeln kostet, kostet es nie in Won.
+
+**Was den Kauf der Frau tatsaechlich teuer macht, steht in B2 81 und 82 und hat
+mit Geld nichts zu tun:** das Formular verlangt eine benannte natuerliche Person,
+der Eintrag geht in eine **fortlaufende Serie**, die Serie geht in ein Archiv,
+und in etwa neun Jahren liest sie jemand aus einem anderen Grund. Kein Agent,
+keine Gesellschaft, kein Strohmann verbessert, wie das dann aussieht. **Der Preis
+ist ihr Name auf einem Blatt, das nicht zurueckgenommen werden kann.**

@@ -1,7 +1,7 @@
-Book Two · Chapter 85: They did not argue about it
-Lot Fourteen · Version 1.0 · EN
+# Chapter 85: They did not argue about it
+*Lot Fourteen* · Version 1.1 · EN
 
-Day Three Hundred and Eighty-Nine · Tuesday 27 October
+## Day Three Hundred and Eighty-Nine · Tuesday 27 October
 
 The four pages went in on the Tuesday morning and Mr Hwang served them on the holder at twenty past eleven.
 
@@ -9,7 +9,7 @@ Annie wrote her name on the fourth page at eight o'clock at the desk in the smal
 
 She did it once, without a rehearsal on another sheet, and she did not look at it afterwards.
 
-The price on the schedule is four hundred and eighty-one million and the figure that follows it. It is the whole of what she has. It is the number Georgij put at the top of a sheet on the ninth of October, and the number she has been building towards since the eighteenth of September.
+The price on the schedule is four hundred and eighty-one million and the figure that follows it. It is the number Georgij put at the top of a sheet on the ninth of October. It is not a great deal of money to her and both of them know it, and she writes it out in full anyway, in words, because the form asks for words.
 
 She wrote it in the box before she wrote her name, which is the order the form asks for, and she wrote the name last and did not blot it.
 
@@ -19,9 +19,9 @@ Then she put the cap on the pen and sat with both hands flat on the desk on eith
 
 He took it.
 
-———
+* * *
 
-Day Three Hundred and Ninety · Wednesday 28 October
+## Day Three Hundred and Ninety · Wednesday 28 October
 
 The answer came back at ten past two on the Wednesday.
 
@@ -31,7 +31,7 @@ They accepted the price.
 
 They did not counter, they did not query the assignment, they did not ask who the buyer was or what she wanted it for, and they did not ask for anything to be added to the schedule.
 
-———
+* * *
 
 Mr Hwang telephoned it through and did not dress it.
 
@@ -41,7 +41,7 @@ Mr Hwang telephoned it through and did not dress it.
 
 "That they were never going to argue about it, and that the figure could have been a third of what it is." He did not hurry any of it. "You will both work that out by about six this evening and there is nothing I can do about it. I am telling you at ten past two so that you have it from me and not from the arithmetic."
 
-———
+* * *
 
 She worked it out at about twenty past two, which is ten minutes and not four hours.
 
@@ -53,13 +53,13 @@ She was standing at the window with the note in her hand and she did not turn ro
 
 "Say it."
 
-"You sold a holding you have had since you were thirty-one and a piece of ground you have refused to sell three times in four years." Georgij did not soften any of it. "And you broke a promise to a man of seventy-eight to his face on a Monday morning. And the other side did not spend one hour deciding, and would have taken less, and there is no version of the last six weeks in which anybody could have found that out first."
+"You have put your own name into a sequence that gets read in nine years, and you did it for a figure they would have halved." Georgij did not soften any of it. "The money was never the price and both of us knew that in September. The other side did not spend one hour deciding, and there is no version of the last six weeks in which anybody could have found that out first."
 
 "That is correct and I want it said again in about a fortnight when I have decided it was avoidable."
 
 "I will say it again in a fortnight."
 
-———
+* * *
 
 There is a second sheet with the acceptance and it is four lines long and it is not a contract.
 
@@ -67,7 +67,7 @@ It says that the holder is content to arrange conveyance of the consignment from
 
 It is signed by an agent for the holder, in a hand nobody in that house has seen before, and it is dated the twenty-eighth.
 
-———
+* * *
 
 Georgij read it three times and put it face down on the blotter.
 
@@ -81,7 +81,7 @@ Georgij read it three times and put it face down on the blotter.
 
 "Yes, Mistress."
 
-———
+* * *
 
 Annie came away from the window.
 
@@ -93,7 +93,7 @@ Annie came away from the window.
 
 "That is the practical half."
 
-———
+* * *
 
 "Then the other one."
 
@@ -103,7 +103,7 @@ Annie came away from the window.
 
 "Nothing that anybody could point at. That is the cost." He did not stop anywhere. "In four years, when somebody asks how she came out, the answer will be that the house that held her put her in a car and brought her. That will be true, and there will be no way to say the other thing without sounding as though you are complaining about being helped."
 
-———
+* * *
 
 Annie stood with both hands on the back of the reading chair.
 
@@ -115,7 +115,7 @@ Annie stood with both hands on the back of the reading chair.
 
 "Yes."
 
-———
+* * *
 
 She was quiet for what was probably eight seconds.
 
@@ -129,7 +129,7 @@ She was quiet for what was probably eight seconds.
 
 "Then he learns it." Annie did not blink. "I have paid four hundred and eighty-one million won this afternoon to a man who would have taken a third of it. He is not also getting the drive."
 
-———
+* * *
 
 The refusal went back through Mr Hwang at four o'clock and it was three lines and it gave no reason, because a reason is a thing that can be read.
 
@@ -137,9 +137,9 @@ The house named the second of November.
 
 The holder replied at nine the next morning with two words and a time, and the two words were the address as it appears on their own file, and the time was eleven o'clock.
 
-———
+* * *
 
-Day Three Hundred and Ninety-One · Thursday 29 October
+## Day Three Hundred and Ninety-One · Thursday 29 October
 
 He telephoned Gwangyang at ten past nine, which is forty minutes after the time and the two words came in, and he had been standing next to the telephone for thirty of them.
 
@@ -153,7 +153,7 @@ He telephoned Gwangyang at ten past nine, which is forty minutes after the time 
 
 "You will have them on the Sunday evening."
 
-———
+* * *
 
 There was a pause on the line and it was hers and not his.
 
@@ -161,7 +161,7 @@ There was a pause on the line and it was hers and not his.
 
 "It was not difficult."
 
-———
+* * *
 
 He put the receiver down and stood in the passage.
 
@@ -177,18 +177,20 @@ Jang was at the far end of it with his coat still on. He had come in at eight wi
 
 "It was not difficult and it is still twice." She rang off the way she does, without a word for it.
 
-———
+* * *
 
 Georgij wrote it in the book on the Thursday evening and sat with it for a while before he wrote the second half.
 
-Twenty-six hours and fifty minutes, and about six of those were a night.
+*Twenty-six hours and fifty minutes, and about six of those were a night.*
 
-Nine hundred of these in six years and the record was four days.
+*Nine hundred of these in six years and the record was four days.*
 
-She was never worth arguing about to him. She has been in that building for four years and has cost him a heating bill, a doctor and eleven thousand won a month for a telephone. This afternoon somebody offered him four hundred and eighty-one million for her and he did not think about it over lunch.
+*She was never worth arguing about to him. She has been in that building for four years and has cost him a heating bill, a doctor and eleven thousand won a month for a telephone. This afternoon somebody offered him four hundred and eighty-one million for her and he did not think about it over lunch.*
 
-And then he offered to drive her.
+---
 
-I have spent eight months looking for the thing that would take him apart, and I have been looking for a document. There is no document. There is a man who has never in his life said a sentence that anybody can repeat, and the whole of what he is is that the arrangement is always already made.
+*And then he offered to drive her.*
 
-On the second of November we are going to take one thing out of an arrangement he made. That is not the same as taking him apart and I am going to write that down so that I do not confuse the two on the drive home.
+*I have spent eight months looking for the thing that would take him apart, and I have been looking for a document. There is no document. There is a man who has never in his life said a sentence that anybody can repeat, and the whole of what he is is that the arrangement is always already made.*
+
+*On the second of November we are going to take one thing out of an arrangement he made. That is not the same as taking him apart and I am going to write that down so that I do not confuse the two on the drive home.*
