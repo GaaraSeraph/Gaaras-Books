@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 314.923 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 315.747 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -233,6 +233,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Wer nur genannt wird und nie spricht](#wer-nur-genannt-wird-und-nie-spricht)
   - [Was die Messung beim Schreiben tatsaechlich gefangen hat](#was-die-messung-beim-schreiben-tatsaechlich-gefangen-hat)
   - [Eine Fehlmeldungsklasse, und sie ist wichtig](#eine-fehlmeldungsklasse-und-sie-ist-wichtig)
+  - [Wer ihn behält](#wer-ihn-beh-lt)
+  - [Georgij: er benennt die Sache, statt den Menschen zu bestellen](#georgij-er-benennt-die-sache-statt-den-menschen-zu-bestellen)
+  - [Die anderen: je ein eigener Weg](#die-anderen-je-ein-eigener-weg)
+  - [Wie das geprüft wird](#wie-das-gepr-ft-wird)
 - [Das Schuldbuch](#das-schuldbuch)  ·  `doc/13-zusagen.md`
 - [Stilprotokoll](#stilprotokoll)  ·  `doc/14-stilprotokoll.md`
   - [Durchgang Erzaehlerkommentare, Band 2 - Ausgangsstand `14a893e`](#durchgang-erzaehlerkommentare-band-2-ausgangsstand-14a893e)
@@ -3693,14 +3697,14 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 15** *Four thousand two hundred* (v2.11) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.10) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.11) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 12** *You are better when you don't know* (v1.12) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.12) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.6) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.8) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.10) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.13) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 5** *Seven Letters* (v5.14) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.11) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
@@ -4114,7 +4118,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.9) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.10) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -5000,7 +5004,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *A shape the size of a person* (v2.1) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *A shape the size of a person* (v2.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -5623,7 +5627,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.5) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.6) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
@@ -5665,7 +5669,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.6) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.7) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -5910,7 +5914,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
-- **Band 2, Kapitel 63** *One sentence* (v1.6) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.7) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
@@ -5930,7 +5934,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Mr Ahn spricht hier durchgehend nach `doc/12-stimmen.md`: Fristen, Bauteile,
     Kontraktionen, und bei jeder schweren Antwort etwas auf der Werkbank.
 
-- **Band 2, Kapitel 64** *The one who orders* (v1.6) - **Tag 328, Do 27. August. Der Anruf.**
+- **Band 2, Kapitel 64** *The one who orders* (v1.7) - **Tag 328, Do 27. August. Der Anruf.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Sims Buero in Jongno, neunzehn Jahre, vier Menschen je dort gewesen.
@@ -6040,7 +6044,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *Four hundred and one* (v1.7) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.8) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
@@ -6083,7 +6087,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.2) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.3) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
@@ -6954,7 +6958,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     they had. The two who are being paid have given up nothing at all."*
   - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
 
-- **Band 2, Kapitel 84** *The consignor of record* (v1.0) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
+- **Band 2, Kapitel 84** *The consignor of record* (v1.1) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang telefoniert am Samstag um neun**, was er seit 2019 nicht getan hat,
@@ -17780,6 +17784,93 @@ Raum mit sich herum, in dem ein Name schlecht ausgesprochen wurde.
 
 ---
 
+## Der Sprechbefehl: wem er gehört, und was die anderen stattdessen bekommen
+
+**Gemessen am 26.08.** mit `werkzeug/sprechbefehl.py`: 672 Repliken im Buch
+fangen mit einem Befehl zum Sprechen an - *"Say it"*, *"Say the whole of it"*,
+*"Say why"*, *"Go on"*, *"Tell me"* - verteilt über 114 von 123 Kapiteln. **Alle
+Figuren benutzen denselben Befehl.** Das ist genau der Fehler, den dieses
+Dokument bei Nebenfiguren sonst jagt: eine Figur, die redet wie Georgij mit
+einem anderen Namen davor.
+
+**Entscheidung des Autors, 26.08.: *"Annie und Sang-hoon behalten ihn, mach den
+Rest."*** Bei diesen beiden trägt die Machtlage den Befehl - sie fordern, und
+der andere liefert. Bei allen anderen wird er ersetzt.
+
+**Die Regel dahinter, und sie ist die Punkt-oder-Fragezeichen-Regel aus
+`CLAUDE.md` einen Schritt weitergedacht:** wer befehlen darf, befiehlt. Wer
+nicht befehlen darf, muss einen eigenen Weg haben, an eine Auskunft zu kommen,
+und **dieser Weg ist die Figur.**
+
+### Wer ihn behält
+
+| Figur | Stellen | Warum |
+|---|---|---|
+| **Annie** | 200 in 63 Kapiteln | Ihr Grundregister. Sie fordert und bekommt |
+| **Park Sang-hoon** | 29 in 12 Kapiteln | Elftausend Leute. Er fragt niemanden um Erlaubnis |
+
+### Georgij: er benennt die Sache, statt den Menschen zu bestellen
+
+**131 Stellen in 67 Kapiteln, der größte Einzelblock.** Und der falscheste: er
+besitzt nichts und befiehlt niemandem. Was er hat, ist Genauigkeit.
+
+**Sein Ersatz ist die bloße Nominalphrase mit Punkt.** Das Buch kann das
+bereits - *"How much."*, *"Why."*, *"Why not."* - und die Nominalphrase ist
+deren Geschwister. Kälter als der Befehl, kürzer, und sie richtet sich auf die
+Sache statt auf die Person.
+
+| bisher | wird |
+|---|---|
+| *"Say the rest."* | *"The rest."* |
+| *"Say the number."* | *"The number."* |
+| *"Say what that was."* | *"What that was."* |
+| *"Say why you did it."* | *"Why you did it."* |
+| *"Say that again."* | *"Again."* |
+| *"Say the whole of it."* | *"The whole of it."* |
+
+**Die zwei bloßen Formen sind der schwierige Teil**, weil sie zusammen 34 der
+131 Stellen ausmachen und sich nicht in eine Nominalphrase drehen lassen:
+
+- ***"Say it."* (20 Stellen): fällt ersatzlos weg.** Der Beat davor trägt die
+  Aufforderung schon, das ist Regel 5. Wo kein Beat steht, kommt einer hin -
+  und ein Beat ist billiger als eine Replik.
+- ***"Go on."* (14 Stellen): fällt ebenfalls weg**, außer wo der andere
+  tatsächlich mitten im Satz abbricht. Dort *"And."*
+
+**Was ausdrücklich nicht passiert:** ein neuer Einheitsersatz. *"I am
+listening."* an zwanzig Stellen wäre derselbe Fehler noch einmal.
+
+### Die anderen: je ein eigener Weg
+
+Kein zweiter bekommt denselben. Das ist der Sinn der Übung.
+
+| Figur | Stellen | Ihr Weg an die Auskunft |
+|---|---|---|
+| **Chairman Woo** | 17 in 7 Kapiteln | **Er setzt eine Frist statt eines Befehls.** Kann er schon: *"Say it before the tea comes. Tea makes it polite and then it takes an hour."* Daraus wird die Regel - er sagt, bis wann, und der andere füllt die Zeit |
+| **Sim** | 12 in 3 Kapiteln | **Er nennt den Preis des Nichtwissens.** Steht schon fast so da: *"I would rather have it from you than work it out later."* Er befiehlt nie, er begründet, warum er fragt |
+| **Hana** | 10 in 3 Kapiteln | **Sie sagt, was sie mit der Antwort tun wird.** *"Say what is wrong with Kang."* wird zu *"I will have to put what is wrong with Kang in front of a man at two o'clock."* Vierundzwanzig Jahre Vermittlung: sie fragt nie ohne Verwendungszweck |
+| **Mr Ahn** | 7 in 3 Kapiteln | **Er wiederholt das letzte Wort des anderen.** Neununddreißig, Pumpen, Kontraktionen. Der kürzeste Weg, den ein Mensch hat, der nicht gern redet |
+| **Jang** | 6 in 5 Kapiteln | **Er benennt die Lücke im Bericht.** Seine Ordnung ist Tatsache, Herkunft, Grenze - er fragt, indem er sagt, welches der drei fehlt |
+| **Mrs Sunwoo, Mr Hwang, Baek, Mr Koh, Mr Yeom, Mrs Jeon, und die Einzelfälle** | je 1 bis 6 | **Einzeln entscheiden, beim Anfassen des Kapitels.** Wer eine einzige Stelle hat, braucht keine Regel, sondern einen Satz |
+
+### Wie das geprüft wird
+
+```
+python3 werkzeug/sprechbefehl.py            Verteilung je Figur
+python3 werkzeug/sprechbefehl.py --figur X  jede Stelle dieser Figur
+```
+
+**Das Skript zählt, es urteilt nicht.** Es kann nicht wissen, ob ein Ersatz die
+Figur trifft. Was es kann, ist melden, dass jemand außer Annie und Sang-hoon
+den Befehl noch benutzt - und **das ist ab dem 26.08. ein Fund und kein
+Hinweis.**
+
+**Der Stand am 26.08.:** 229 Stellen gehören Annie und Sang-hoon und bleiben,
+214 sind zugeordnet und zu ersetzen, 229 sind noch nicht zugeordnet und werden
+beim Anfassen des jeweiligen Kapitels mitentschieden.
+
+---
+
 # Das Schuldbuch
 
 Jede Zusage, die im Text gemacht wird, mit Fälligkeit und Stand. Wird von Hand
@@ -21576,11 +21667,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 252 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
-| Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
+| Sim | 143 | 23 (b2ch31-b2ch89) | 2 | 53 |
 | Mrs Jeon | 113 | 24 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
 | Mrs Seo | 104 | 49 (b1ch03-b2ch90) | 1 | 74 |
-| Mr Ahn | 102 | 13 (b2ch56-b2ch88) | 3 | 53 |
+| Mr Ahn | 103 | 13 (b2ch56-b2ch88) | 3 | 53 |
 | Mr Yeo | 56 | 10 (b1ch05-b2ch69) | 5 | 46 |
 | Mrs Sunwoo | 56 | 18 (b1ch07-b2ch89) | 1 | 60 |
 | Mr Yeom | 52 | 8 (b2ch24-b2ch69) | 5 | 46 |
@@ -23428,7 +23519,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 27 | b2ch62:80 | "He divided it himself, without being asked, and he divided it three ways. The clerk had.. |
 | 27 | b2ch62:88 | "Your father told him he had spent forty years being right about people in four seconds .. |
 | 27 | b2ch62:140 | "I have never said any of it out loud." She said it without any self-pity at all, which .. |
-| 29 | b2ch63:104 | He took the time it needed, because Woo had done that for him on a Sunday and he had und.. |
+| 29 | b2ch63:102 | He took the time it needed, because Woo had done that for him on a Sunday and he had und.. |
 | 44 | b2ch69:74 | "I will. I am going to do it standing here because I did not come to be given a chair." .. |
 | 44 | b2ch69:110 | "You could have asked Chairman Woo." |
 | 44 | b2ch69:126 | *Because it is not about the five firms and it is not about Woo.* |
@@ -23596,7 +23687,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch62:80` (Tag 27) - four, thirty-one, three
 - `b2ch62:88` (Tag 27) - forty, four, one, two thousand and two
 - `b2ch62:140` (Tag 27) - nineteen, one
-- `b2ch63:104` (Tag 29) - four
+- `b2ch63:102` (Tag 29) - four
 - `b2ch69:74` (Tag 44) - eleven, one, twenty
 - `b2ch69:126` (Tag 44) - five
 - `b2ch69:130` (Tag 44) - five, seven
@@ -24112,7 +24203,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-142 Nennungen in 23 Kapiteln.
+143 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -24141,6 +24232,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 5 | b2ch52:178 | "I know you have. She told me." Sim did look up then. "She told me exactly what you look.. |
 | 5 | b2ch52:188 | Sim put both hands flat on the table on either side of the page. |
 | 5 | b2ch52:196 | "It is not hers," said Sim. |
+| 5 | b2ch52:224 | Sim straightened his cuff. |
 | 5 | b2ch52:230 | Sim did not move for a long moment. |
 | 5 | b2ch52:242 | Sim put one hand flat on the table beside the page and left it there. |
 | 5 | b2ch52:266 | Sim was quiet for about four seconds. |
@@ -24159,7 +24251,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 22 | b2ch59:28 | A name on a piece of paper that Sim wrote out at a quarter to eleven at night, with a pe.. |
 | 25 | b2ch60:102 | *Sim has been sending flowers to that house twice a year for eleven years, in April and .. |
 | 25 | b2ch60:114 | *Somebody told Sim that October was her mother's month. That means somebody knew her mot.. |
-| 29 | b2ch63:274 | *Sim has said one true sentence to that woman every three months for four years, about h.. |
+| 29 | b2ch63:270 | *Sim has said one true sentence to that woman every three months for four years, about h.. |
 | 31 | b2ch64:6 | Sim chose the room, which Georgij had expected, and it was not a restaurant. |
 | 31 | b2ch64:12 | "I have had this for nineteen years," said Sim. "Four people have sat where you are sitt.. |
 | 31 | b2ch64:22 | "You have not slept," said Sim. |
@@ -24167,23 +24259,23 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:52 | Sim looked at him for a moment. |
 | 31 | b2ch64:58 | "I know the question. I am deciding whether I want it answered." Sim turned his cup a qu.. |
 | 31 | b2ch64:76 | Sim sat back. |
-| 31 | b2ch64:96 | Sim did not say anything at all. |
-| 31 | b2ch64:106 | Sim sat with both hands on the arms of his chair and did not move them, and Georgij watc.. |
-| 31 | b2ch64:118 | "She said it was fine." Sim put one hand flat on the desk. "And then she said that the r.. |
-| 31 | b2ch64:132 | Sim went very still. |
-| 31 | b2ch64:148 | Sim was quiet for a long moment. |
-| 31 | b2ch64:152 | "Now the sentence," said Sim. |
-| 31 | b2ch64:164 | Sim read it twice, the way he reads. |
-| 31 | b2ch64:176 | Sim put one finger on the edge of the page and did not touch the writing. |
-| 31 | b2ch64:182 | "You have been getting ready for a different question," said Sim. |
-| 31 | b2ch64:194 | "No." Sim looked at the window. "That is what I thought, and I wanted it said in this ro.. |
-| 31 | b2ch64:204 | "You have not asked me whether I will do it," said Sim. |
-| 31 | b2ch64:242 | There was nobody in the corridor. Sim had said so himself an hour earlier, and then he h.. |
-| 31 | b2ch64:246 | Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, .. |
-| 31 | b2ch64:258 | "She said the shed roof should be done properly or not at all." Sim did not take his han.. |
-| 31 | b2ch64:266 | "I think it means she heard it." Sim looked up at last, and his face had not changed at .. |
-| 31 | b2ch64:272 | "You will not like the last of it," said Sim, "and I am going to give it to you anyway." |
-| 31 | b2ch64:288 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
+| 31 | b2ch64:94 | Sim did not say anything at all. |
+| 31 | b2ch64:104 | Sim sat with both hands on the arms of his chair and did not move them, and Georgij watc.. |
+| 31 | b2ch64:116 | "She said it was fine." Sim put one hand flat on the desk. "And then she said that the r.. |
+| 31 | b2ch64:130 | Sim went very still. |
+| 31 | b2ch64:146 | Sim was quiet for a long moment. |
+| 31 | b2ch64:150 | "Now the sentence," said Sim. |
+| 31 | b2ch64:162 | Sim read it twice, the way he reads. |
+| 31 | b2ch64:174 | Sim put one finger on the edge of the page and did not touch the writing. |
+| 31 | b2ch64:180 | "You have been getting ready for a different question," said Sim. |
+| 31 | b2ch64:192 | "No." Sim looked at the window. "That is what I thought, and I wanted it said in this ro.. |
+| 31 | b2ch64:202 | "You have not asked me whether I will do it," said Sim. |
+| 31 | b2ch64:240 | There was nobody in the corridor. Sim had said so himself an hour earlier, and then he h.. |
+| 31 | b2ch64:244 | Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, .. |
+| 31 | b2ch64:256 | "She said the shed roof should be done properly or not at all." Sim did not take his han.. |
+| 31 | b2ch64:264 | "I think it means she heard it." Sim looked up at last, and his face had not changed at .. |
+| 31 | b2ch64:270 | "You will not like the last of it," said Sim, "and I am going to give it to you anyway." |
+| 31 | b2ch64:286 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
 | 37 | b2ch66:42 | *Sim has been putting flowers in a house twice a year for eleven years. April, because i.. |
 | 42 | b2ch68:20 | He telephoned on the Monday morning and Sim said the same room and the same hour without.. |
 | 42 | b2ch68:26 | "You will not want these," said Sim. "I have brought them anyway. A man who puts nothing.. |
@@ -24194,7 +24286,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:78 | "I have remembered all four hundred, near enough. Nobody should call that a virtue. It i.. |
 | 42 | b2ch68:84 | "That a family had had a very bad month, and that they would be grateful if it were not .. |
 | 42 | b2ch68:88 | "I did not believe it," said Sim. "I never got as far as believing anything. It was a de.. |
-| 42 | b2ch68:94 | "Say it," said Sim. |
+| 42 | b2ch68:94 | "You have it and you are not saying it," said Sim. |
 | 42 | b2ch68:102 | Sim looked at the plate with the four small things on it and did not touch it. |
 | 42 | b2ch68:112 | "Not one. Eleven years and I have not found a single sentence that is untrue." Sim did n.. |
 | 42 | b2ch68:120 | "There is a thing I have understood since Friday and I am going to say it out loud once,.. |
@@ -24280,15 +24372,15 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch58:270` (Tag 22) - one
 - `b2ch59:28` (Tag 22) - eleven, three
 - `b2ch60:102` (Tag 25) - eleven
-- `b2ch63:274` (Tag 29) - four, one, three
+- `b2ch63:270` (Tag 29) - four, one, three
 - `b2ch64:12` (Tag 31) - four, nineteen, one, three
 - `b2ch64:58` (Tag 31) - thirty
-- `b2ch64:106` (Tag 31) - four, sixty
-- `b2ch64:118` (Tag 31) - one
-- `b2ch64:176` (Tag 31) - one
-- `b2ch64:194` (Tag 31) - one
-- `b2ch64:258` (Tag 31) - four, nineteen
-- `b2ch64:266` (Tag 31) - four
+- `b2ch64:104` (Tag 31) - four, sixty
+- `b2ch64:116` (Tag 31) - one
+- `b2ch64:174` (Tag 31) - one
+- `b2ch64:192` (Tag 31) - one
+- `b2ch64:256` (Tag 31) - four, nineteen
+- `b2ch64:264` (Tag 31) - four
 - `b2ch66:42` (Tag 37) - eleven
 - `b2ch68:52` (Tag 42) - thirty
 - `b2ch68:70` (Tag 42) - eleven, four
@@ -24855,7 +24947,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ahn
 
-102 Nennungen in 13 Kapiteln.
+103 Nennungen in 13 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -24880,20 +24972,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 29 | b2ch63:36 | "Come in properly," said Mr Ahn. "You stood there last time. I let you." He put the clot.. |
 | 29 | b2ch63:50 | Mr Ahn did not move at all. |
 | 29 | b2ch63:62 | Mr Ahn put both hands flat on the bench either side of the pump. |
-| 29 | b2ch63:80 | Mr Ahn looked at the pump. |
-| 29 | b2ch63:88 | "The second thing," said Mr Ahn. "You said four." |
-| 29 | b2ch63:96 | "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first plea.. |
-| 29 | b2ch63:110 | Mr Ahn had gone very still. |
-| 29 | b2ch63:124 | "That's the cruellest thing anybody's said to me in four years," said Mr Ahn. |
-| 29 | b2ch63:134 | "Then what's the fourth," said Mr Ahn. |
-| 29 | b2ch63:140 | Mr Ahn understood it before the end. |
-| 29 | b2ch63:156 | Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 29 | b2ch63:194 | "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle pla.. |
-| 29 | b2ch63:204 | "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any p.. |
-| 29 | b2ch63:214 | Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was.. |
-| 29 | b2ch63:234 | Mr Ahn looked at him. |
-| 29 | b2ch63:244 | "How long," said Mr Ahn. |
+| 29 | b2ch63:78 | Mr Ahn looked at the pump. |
+| 29 | b2ch63:86 | "The second thing," said Mr Ahn. "You said four." |
+| 29 | b2ch63:94 | "No." Mr Ahn almost got something out that was not quite a laugh. "That's the first plea.. |
+| 29 | b2ch63:108 | Mr Ahn had gone very still. |
+| 29 | b2ch63:120 | "That's the cruellest thing anybody's said to me in four years," said Mr Ahn. |
+| 29 | b2ch63:130 | "Then what's the fourth," said Mr Ahn. |
+| 29 | b2ch63:136 | Mr Ahn understood it before the end. |
+| 29 | b2ch63:152 | Mr Ahn wiped his hands on the cloth, which did not need doing, and then he did it again. |
+| 29 | b2ch63:184 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 29 | b2ch63:190 | "Nobody knows that," said Mr Ahn. "My wife's family don't. The woman from the noodle pla.. |
+| 29 | b2ch63:200 | "She'll hear the whole of it in about a second and a half." Mr Ahn said it without any p.. |
+| 29 | b2ch63:204 | Mr Ahn wiped his hands on the cloth. |
+| 29 | b2ch63:210 | Mr Ahn thought about that for a long moment, and it was not the seven minutes and it was.. |
+| 29 | b2ch63:230 | Mr Ahn looked at him. |
+| 29 | b2ch63:240 | "How long," said Mr Ahn. |
 | 44 | b2ch69:468 | "Mr Ahn," said Annie. "You went up a hill and you took nothing off him and you were righ.. |
 | 45 | b2ch70:14 | The bell went and Mr Ahn looked up and put the screwdriver down before he had finished t.. |
 | 45 | b2ch70:38 | Mr Ahn stood absolutely still with the cloth in his hand. |
@@ -24975,12 +25068,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch56:302` (Tag 18) - one
 - `b2ch56:312` (Tag 18) - twenty
 - `b2ch60:68` (Tag 25) - four
-- `b2ch63:88` (Tag 29) - four
-- `b2ch63:124` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch63:194` (Tag 29) - one
-- `b2ch63:204` (Tag 29) - one
-- `b2ch63:214` (Tag 29) - four, seven
+- `b2ch63:86` (Tag 29) - four
+- `b2ch63:120` (Tag 29) - four
+- `b2ch63:184` (Tag 29) - eleven, one
+- `b2ch63:190` (Tag 29) - one
+- `b2ch63:200` (Tag 29) - one
+- `b2ch63:210` (Tag 29) - four, seven
 - `b2ch70:94` (Tag 45) - four, nine, one
 - `b2ch70:186` (Tag 45) - sixteen
 - `b2ch70:226` (Tag 45) - eleven, one
@@ -25747,8 +25840,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 25 | b2ch60:220 | "Which means the first move in the whole of the rest of this is telling Ahn Jung-hee tha.. |
 | 27 | b2ch62:240 | "Your father brought a man to a table twenty-four years ago and was pleased with himself.. |
 | 29 | b2ch63:58 | "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything.. |
-| 29 | b2ch63:188 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
-| 31 | b2ch64:92 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
+| 29 | b2ch63:184 | "There's a pot outside my door. There's been one outside that door since before I had th.. |
+| 31 | b2ch64:90 | "Do Kyung-ae is Ahn Jung-hee," he said. "She is thirty-five. She was in an office for ni.. |
 | 53 | b2ch74:340 | "Because Ahn Jung-hee is the one I am working on." Georgij did not soften any of it. "Sh.. |
 | 4 | b2ch80:144 | "There is nothing to buy." He said it flatly, because dressing it would have been worse... |
 | 10 | b2ch81:54 | The name, and the other name. Ahn Jung-hee, thirty-five, nine years in an office, four y.. |
@@ -25780,8 +25873,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch60:220` (Tag 25) - four
 - `b2ch62:240` (Tag 27) - eleven, twenty-four
 - `b2ch63:58` (Tag 29) - four
-- `b2ch63:188` (Tag 29) - eleven, one
-- `b2ch64:92` (Tag 31) - four, nine, thirty-five
+- `b2ch63:184` (Tag 29) - eleven, one
+- `b2ch64:90` (Tag 31) - four, nine, thirty-five
 - `b2ch74:340` (Tag 53) - four, one, two
 - `b2ch80:144` (Tag 4) - eleven, six
 - `b2ch81:54` (Tag 10) - four, nine, thirty-five

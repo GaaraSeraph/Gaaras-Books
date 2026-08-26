@@ -1,7 +1,7 @@
-Book Two · Chapter 84: The consignor of record
-Lot Fourteen · Version 1.0 · EN
+# Chapter 84: The consignor of record
+*Lot Fourteen* · Version 1.1 · EN
 
-Day Three Hundred and Eighty-Six · Saturday 24 October
+## Day Three Hundred and Eighty-Six · Saturday 24 October
 
 Mr Hwang telephoned the house on the Saturday morning at nine, which is not a thing that man does, and said so himself in the first sentence.
 
@@ -17,7 +17,7 @@ Georgij stood in the passage with the receiver against his ear.
 
 "You know who it is. You sat in his workshop in July."
 
-———
+* * *
 
 He got the rest of it in about four minutes and he wrote none of it down, because he did not need to.
 
@@ -31,7 +31,7 @@ The consignor does not own the lot and has not owned it since the day of the pla
 
 "He signs a form that says the house may transfer a lot he placed to a person who is buying it." Mr Hwang was entirely level. "It is one page and it has four lines on it and one of them is the lot reference."
 
-———
+* * *
 
 Neither of them said anything for a moment.
 
@@ -43,9 +43,9 @@ Neither of them said anything for a moment.
 
 "It can be avoided by me typing out a fresh sheet, which is not the form, and which the holder's people will look at for four seconds and reject." He stopped. "I have thought about it since seven this morning and there is no version. I am sorry about that and being sorry is worth nothing."
 
-———
+* * *
 
-Day Three Hundred and Eighty-Eight · Monday 26 October
+## Day Three Hundred and Eighty-Eight · Monday 26 October
 
 He went up the hill on the Monday with the form in his inside pocket, which is the first time he has gone up there carrying anything at all.
 
@@ -53,7 +53,7 @@ He noticed that at the third street and did not do anything with it.
 
 The fan is running in the corner.
 
-———
+* * *
 
 Mr Ahn looked at his coat, and then at his face, and put the screwdriver down.
 
@@ -69,7 +69,7 @@ Mr Ahn wiped his hands on the cloth.
 
 "Then talk," he said.
 
-———
+* * *
 
 He talked for six minutes.
 
@@ -81,11 +81,11 @@ The house consents. The money exists and is in one place. The holder will be pai
 
 "It took less than that."
 
-———
+* * *
 
 "There is a second thing about the form," said Georgij, "and I would rather you had it from me standing here than found it in about four seconds at that bench."
 
-"Go on."
+"Standing here is fine."
 
 "It is printed on the back of the consignment form. The same sheet. Somebody in that house decided in 2003 that it was tidier and nobody has changed it." He did not look away. "You will turn it over and your own signature from February will be on the other side of it."
 
@@ -93,7 +93,7 @@ Mr Ahn did not say anything at all for about five seconds.
 
 Then he put the cloth down on the bench and held his hand out.
 
-———
+* * *
 
 Georgij took the form out and put it on the bench, face up, and went and stood by the door, which is eleven feet away and is as far as that room goes.
 
@@ -103,7 +103,7 @@ He read the four lines on the front twice, with both hands flat on the bench on 
 
 Then he turned it over.
 
-———
+* * *
 
 He looked at the back of it for a long time.
 
@@ -117,7 +117,7 @@ The shop did what a shop does on a Monday morning, which is compressor, and then
 
 Georgij stayed by the door.
 
-———
+* * *
 
 "Come here," said Mr Ahn.
 
@@ -133,7 +133,7 @@ They are not dramatic. They say that the undersigned, being the consignor of rec
 
 He read them again.
 
-———
+* * *
 
 "That's a better sentence than the one on the back," said Mr Ahn.
 
@@ -145,7 +145,7 @@ He read them again.
 
 "Then somebody in 2003 was cleverer than they knew, and I'm going to be grateful to a dead stationery decision for the rest of my life."
 
-———
+* * *
 
 He signed it.
 
@@ -161,11 +161,11 @@ Then he sat down on the stool, which he had not done, and put both hands on his 
 
 "Yes."
 
-———
+* * *
 
 Mr Ahn looked at the form on the bench and did not pick it up.
 
-"Say what she is told when they come," he said. "Not by us. By them."
+"I want the words she gets when they come," he said. "Not ours. Theirs."
 
 "I do not know and I have thought about it since the fifteenth. There is no version in which somebody in that house sits down with her and explains an assignment."
 
@@ -177,7 +177,7 @@ Mr Ahn put one hand flat on the bench beside the paper.
 
 "Then whoever is in the car has about four minutes to be the first person in four years who says a true sentence to her," he said, "and it had better not be a man."
 
-———
+* * *
 
 "I want to say the thing I am not going to be able to say afterwards," said Mr Ahn, "and I am going to say it now, at eleven o'clock on a Monday, because afterwards there will be too much of it and it will come out wrong."
 
@@ -189,7 +189,7 @@ Mr Ahn put one hand flat on the bench beside the paper.
 
 "I know that. It isn't going to help me at four in the morning and it's true." He looked up. "Say the other thing. The one you have been holding since you came in."
 
-———
+* * *
 
 Georgij put both hands at his sides.
 
@@ -205,14 +205,16 @@ Mr Ahn nodded once.
 
 "No."
 
-———
+* * *
 
 He came down the hill and it took eight minutes and he did the arithmetic in the car with the engine off.
 
-Four years and eleven weeks, and the whole of it turned on a man who has been forty feet from a signature the entire time.
+*Four years and eleven weeks, and the whole of it turned on a man who has been forty feet from a signature the entire time.*
 
-He did not sign it because he was persuaded.
+*He did not sign it because he was persuaded.*
 
-He signed it because a clerk in 2003 printed the second form on the back of the first one, and because he read four lines twice and worked out what they said.
+*He signed it because a clerk in 2003 printed the second form on the back of the first one, and because he read four lines twice and worked out what they said.*
 
-And I stood by the door for that, which is eleven feet, and it is the only decision in this whole arrangement that I have not been standing next to when it was made.
+---
+
+*And I stood by the door for that, which is eleven feet, and it is the only decision in this whole arrangement that I have not been standing next to when it was made.*

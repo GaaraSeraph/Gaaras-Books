@@ -3381,3 +3381,91 @@ Fall** - und das ist bei Woo dreierlei, ohne dass eines davon je erklärt wird:
 er hat seit 2011 nichts Heißes genossen, er hat einunddreißig Jahre lang einen
 Mann gekannt und gemocht, der ihn zweimal geschlagen hat, und er trägt einen
 Raum mit sich herum, in dem ein Name schlecht ausgesprochen wurde.
+
+---
+
+## Der Sprechbefehl: wem er gehört, und was die anderen stattdessen bekommen
+
+**Gemessen am 26.08.** mit `werkzeug/sprechbefehl.py`: 672 Repliken im Buch
+fangen mit einem Befehl zum Sprechen an - *"Say it"*, *"Say the whole of it"*,
+*"Say why"*, *"Go on"*, *"Tell me"* - verteilt über 114 von 123 Kapiteln. **Alle
+Figuren benutzen denselben Befehl.** Das ist genau der Fehler, den dieses
+Dokument bei Nebenfiguren sonst jagt: eine Figur, die redet wie Georgij mit
+einem anderen Namen davor.
+
+**Entscheidung des Autors, 26.08.: *"Annie und Sang-hoon behalten ihn, mach den
+Rest."*** Bei diesen beiden trägt die Machtlage den Befehl - sie fordern, und
+der andere liefert. Bei allen anderen wird er ersetzt.
+
+**Die Regel dahinter, und sie ist die Punkt-oder-Fragezeichen-Regel aus
+`CLAUDE.md` einen Schritt weitergedacht:** wer befehlen darf, befiehlt. Wer
+nicht befehlen darf, muss einen eigenen Weg haben, an eine Auskunft zu kommen,
+und **dieser Weg ist die Figur.**
+
+### Wer ihn behält
+
+| Figur | Stellen | Warum |
+|---|---|---|
+| **Annie** | 200 in 63 Kapiteln | Ihr Grundregister. Sie fordert und bekommt |
+| **Park Sang-hoon** | 29 in 12 Kapiteln | Elftausend Leute. Er fragt niemanden um Erlaubnis |
+
+### Georgij: er benennt die Sache, statt den Menschen zu bestellen
+
+**131 Stellen in 67 Kapiteln, der größte Einzelblock.** Und der falscheste: er
+besitzt nichts und befiehlt niemandem. Was er hat, ist Genauigkeit.
+
+**Sein Ersatz ist die bloße Nominalphrase mit Punkt.** Das Buch kann das
+bereits - *"How much."*, *"Why."*, *"Why not."* - und die Nominalphrase ist
+deren Geschwister. Kälter als der Befehl, kürzer, und sie richtet sich auf die
+Sache statt auf die Person.
+
+| bisher | wird |
+|---|---|
+| *"Say the rest."* | *"The rest."* |
+| *"Say the number."* | *"The number."* |
+| *"Say what that was."* | *"What that was."* |
+| *"Say why you did it."* | *"Why you did it."* |
+| *"Say that again."* | *"Again."* |
+| *"Say the whole of it."* | *"The whole of it."* |
+
+**Die zwei bloßen Formen sind der schwierige Teil**, weil sie zusammen 34 der
+131 Stellen ausmachen und sich nicht in eine Nominalphrase drehen lassen:
+
+- ***"Say it."* (20 Stellen): fällt ersatzlos weg.** Der Beat davor trägt die
+  Aufforderung schon, das ist Regel 5. Wo kein Beat steht, kommt einer hin -
+  und ein Beat ist billiger als eine Replik.
+- ***"Go on."* (14 Stellen): fällt ebenfalls weg**, außer wo der andere
+  tatsächlich mitten im Satz abbricht. Dort *"And."*
+
+**Was ausdrücklich nicht passiert:** ein neuer Einheitsersatz. *"I am
+listening."* an zwanzig Stellen wäre derselbe Fehler noch einmal.
+
+### Die anderen: je ein eigener Weg
+
+Kein zweiter bekommt denselben. Das ist der Sinn der Übung.
+
+| Figur | Stellen | Ihr Weg an die Auskunft |
+|---|---|---|
+| **Chairman Woo** | 17 in 7 Kapiteln | **Er setzt eine Frist statt eines Befehls.** Kann er schon: *"Say it before the tea comes. Tea makes it polite and then it takes an hour."* Daraus wird die Regel - er sagt, bis wann, und der andere füllt die Zeit |
+| **Sim** | 12 in 3 Kapiteln | **Er nennt den Preis des Nichtwissens.** Steht schon fast so da: *"I would rather have it from you than work it out later."* Er befiehlt nie, er begründet, warum er fragt |
+| **Hana** | 10 in 3 Kapiteln | **Sie sagt, was sie mit der Antwort tun wird.** *"Say what is wrong with Kang."* wird zu *"I will have to put what is wrong with Kang in front of a man at two o'clock."* Vierundzwanzig Jahre Vermittlung: sie fragt nie ohne Verwendungszweck |
+| **Mr Ahn** | 7 in 3 Kapiteln | **Er wiederholt das letzte Wort des anderen.** Neununddreißig, Pumpen, Kontraktionen. Der kürzeste Weg, den ein Mensch hat, der nicht gern redet |
+| **Jang** | 6 in 5 Kapiteln | **Er benennt die Lücke im Bericht.** Seine Ordnung ist Tatsache, Herkunft, Grenze - er fragt, indem er sagt, welches der drei fehlt |
+| **Mrs Sunwoo, Mr Hwang, Baek, Mr Koh, Mr Yeom, Mrs Jeon, und die Einzelfälle** | je 1 bis 6 | **Einzeln entscheiden, beim Anfassen des Kapitels.** Wer eine einzige Stelle hat, braucht keine Regel, sondern einen Satz |
+
+### Wie das geprüft wird
+
+```
+python3 werkzeug/sprechbefehl.py            Verteilung je Figur
+python3 werkzeug/sprechbefehl.py --figur X  jede Stelle dieser Figur
+```
+
+**Das Skript zählt, es urteilt nicht.** Es kann nicht wissen, ob ein Ersatz die
+Figur trifft. Was es kann, ist melden, dass jemand außer Annie und Sang-hoon
+den Befehl noch benutzt - und **das ist ab dem 26.08. ein Fund und kein
+Hinweis.**
+
+**Der Stand am 26.08.:** 229 Stellen gehören Annie und Sang-hoon und bleiben,
+214 sind zugeordnet und zu ersetzen, 229 sind noch nicht zugeordnet und werden
+beim Anfassen des jeweiligen Kapitels mitentschieden.
+

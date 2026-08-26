@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.217 Woerter.
+Book One, 34 Kapitel, 101.223 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -15,14 +15,14 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 02 | v11.12 | 3.163 |
 | 03 | v2.9 | 3.378 |
 | 04 | v1.11 | 2.441 |
-| 05 | v5.13 | 4.324 |
+| 05 | v5.14 | 4.327 |
 | 06 | v1.10 | 2.068 |
 | 07 | v6.6 | 3.860 |
 | 08 | v3.8 | 2.691 |
 | 09 | v3.5 | 3.120 |
 | 10 | v2.6 | 2.985 |
 | 11 | v2.12 | 2.722 |
-| 12 | v1.11 | 2.351 |
+| 12 | v1.12 | 2.354 |
 | 13 | v2.10 | 2.822 |
 | 14 | v7.10 | 2.601 |
 | 15 | v2.11 | 4.227 |
@@ -1109,7 +1109,7 @@ He went up the stairs, past the shelf and the bowl and the small dark thing lyin
 ---
 
 # Book One · Chapter 5: Seven Letters
-*Lot Fourteen* · Version 5.13 · EN
+*Lot Fourteen* · Version 5.14 · EN
 
 ## Day Four · Tuesday 7 October
 
@@ -1143,7 +1143,7 @@ Georgij went down at half past eleven and knocked on the open door.
 
 Jang looked at him.
 
-"Say that again."
+"I did not hear that properly."
 
 "When I chose the eye instead of the throat, part of the reason was that the next man through that gate would hear the whole thing before he got out of his car. I didn't know there was already a man coming, or that Mr Noh was going at the end of the month. That part is luck and I won't claim it. But the rest was deliberate, and I'd rather you had it from me now than worked it out in a month and wondered why I hadn't said so."
 
@@ -3182,7 +3182,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Book One · Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3232,7 +3232,7 @@ Georgij looked at him.
 
 "No, you don't. I am about to say something that will annoy you."
 
-"Say it."
+"Then it will annoy me."
 
 "That is a better piece of work than anything I did between seven and midnight," said Georgij, "and I was working the entire time."
 

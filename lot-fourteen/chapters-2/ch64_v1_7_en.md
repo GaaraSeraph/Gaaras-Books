@@ -1,5 +1,5 @@
 # Chapter 64: The one who orders
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
 
@@ -43,7 +43,7 @@ Sim did not move.
 
 "Yes."
 
-"And you have not opened the book, which means you were intending to give it to me on a piece of paper without the rest of it." He was entirely courteous about it. "Say whether that is right, because I would rather have it from you than work it out later. I have got very good at working things out later."
+"And you have not opened the book, which means you were intending to give it to me on a piece of paper without the rest of it." He was entirely courteous about it. "I would rather have that from you than work it out later. I have got very good at working things out later."
 
 "That is right," said Georgij. "That is what I came here intending to do, and I decided against it in the corridor outside your door about ninety seconds ago, and not one minute before that."
 
@@ -74,8 +74,6 @@ Georgij put both hands flat on his knees.
 ---
 
 Sim sat back.
-
-"Tell me," he said.
 
 ---
 
@@ -123,7 +121,7 @@ Georgij did not say anything.
 
 "There is a second half," said Georgij, "and it is worse than the first one, and you are going to have it now."
 
-"Then say it."
+"Then I will have it now."
 
 "The doctor you added four years ago has never once billed for the woman on the oxygen. Every piece of medical attention that has ever left a mark in that building has a lot number in the patient box. You did not add a doctor to a household. You added a doctor to her."
 
@@ -131,11 +129,11 @@ Georgij did not say anything.
 
 Sim went very still.
 
-"Say what you think that is for," he said.
+"You will have a view about what that is for," he said, "and I would like it before I build my own."
 
 "I do not know."
 
-"Say the version you have not written down."
+"You have not written one down, and that is the one I am asking for."
 
 ---
 
@@ -205,7 +203,7 @@ Georgij sat in an office in Jongno and had nothing whatsoever to add to that.
 
 "No."
 
-"Say why not."
+"There will be a reason for that, and I am going to sit here until I have it."
 
 "Because you said yes on Tuesday, on the telephone, before you knew what it was." Georgij held his eye. "And because the whole of this afternoon has been me making certain that you get to say it again knowing."
 

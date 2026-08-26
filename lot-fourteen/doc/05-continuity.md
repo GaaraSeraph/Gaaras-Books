@@ -732,14 +732,14 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 15** *Four thousand two hundred* (v2.11) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.10) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.11) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 12** *You are better when you don't know* (v1.12) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.12) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.6) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.8) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
 - **Kapitel 6** *Withdrawn or sold* (v1.10) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
-- **Kapitel 5** *Seven Letters* (v5.13) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
+- **Kapitel 5** *Seven Letters* (v5.14) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.11) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
 
@@ -1153,7 +1153,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **Und die letzte Zeile ist neu und zeigt weiter:** *"By the time she did, the house on the river had stopped taking new consignments, and it was not to Georgij."*
 
-- **Band 2, Kapitel 12** *Sixteen days* (v1.9) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
+- **Band 2, Kapitel 12** *Sixteen days* (v1.10) - **Tag 182, Fr 3. April. Zwei Szenen: das kleine Zimmer, dann die Garagen.**
 
   **Der Ausloeser ist eine Leere.** Mrs Sunwoo braucht ihn nicht, die Ladung faehrt, die Vollmacht ist seit Dienstag weg. **Zum ersten Mal seit dem 2. Maerz steht er in dem Raum ohne Bericht** - und Annie kann ihn dadurch zum ersten Mal ansehen.
 
@@ -2039,7 +2039,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
 ---
 
-- **Band 2, Kapitel 43** *A shape the size of a person* (v2.1) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
+- **Band 2, Kapitel 43** *A shape the size of a person* (v2.2) - **Tag 273, Fr 3. Juli. Zwei Szenen: das kleine Zimmer am Vormittag, dann dasselbe Restaurant wie Kapitel 42.**
 
   **Georgij loest die eigene, aeltere Schuld ein: Sang-hoons vier Entscheidungen, zugesagt in Kapitel 26.** Y ist seit Kapitel 39 erledigt (Yeom). Aus dem Restaurant-Reservierungsbuch und Byuns Zettel bekommt er jetzt zwei Daten mehr, ohne Namen: **S. 8pm, Maerz, vor vier Jahren** - derselbe Fruehling wie die Auktion mit Los sechs. **H. 7:30, Oktober, drei Jahre nach S** - also gut neun Monate vor der aktuellen Kapitelzeit, **sechs Wochen bevor Hwang ins Haus kam.** K bleibt vollstaendig offen: nichts im Reservierungsbuch in vier Jahren, keine dritte Initiale.
 
@@ -2662,7 +2662,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.5) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.6) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
@@ -2704,7 +2704,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.6) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.7) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -2949,7 +2949,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
-- **Band 2, Kapitel 63** *One sentence* (v1.6) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.7) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
@@ -2969,7 +2969,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Mr Ahn spricht hier durchgehend nach `doc/12-stimmen.md`: Fristen, Bauteile,
     Kontraktionen, und bei jeder schweren Antwort etwas auf der Werkbank.
 
-- **Band 2, Kapitel 64** *The one who orders* (v1.6) - **Tag 328, Do 27. August. Der Anruf.**
+- **Band 2, Kapitel 64** *The one who orders* (v1.7) - **Tag 328, Do 27. August. Der Anruf.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Sims Buero in Jongno, neunzehn Jahre, vier Menschen je dort gewesen.
@@ -3079,7 +3079,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *Four hundred and one* (v1.7) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.8) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
@@ -3122,7 +3122,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     als Schaetzung markiert, nach seiner eigenen Regel.
 
 
-- **Band 2, Kapitel 68** *What he was for* (v1.2) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
+- **Band 2, Kapitel 68** *What he was for* (v1.3) - **Tag 339, Mo 7. September, Jongno. Die Aufloesung zu 67.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sim wusste es nicht.** Er hat es vier Sekunden nach dem Wort Mapo begriffen
@@ -3993,7 +3993,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     they had. The two who are being paid have given up nothing at all."*
   - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
 
-- **Band 2, Kapitel 84** *The consignor of record* (v1.0) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
+- **Band 2, Kapitel 84** *The consignor of record* (v1.1) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mr Hwang telefoniert am Samstag um neun**, was er seit 2019 nicht getan hat,

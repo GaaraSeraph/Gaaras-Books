@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.869 Woerter.
+Book Two, 89 Kapitel, 219.920 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -22,7 +22,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 09 | v2.7 | 2.525 |
 | 10 | v2.4 | 2.202 |
 | 11 | v2.6 | 2.510 |
-| 12 | v1.9 | 2.905 |
+| 12 | v1.10 | 2.902 |
 | 13 | v1.6 | 2.168 |
 | 14 | v1.6 | 2.406 |
 | 15 | v1.4 | 1.999 |
@@ -53,7 +53,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 40 | v2.8 | 2.776 |
 | 41 | v2.4 | 3.856 |
 | 42 | v2.6 | 3.332 |
-| 43 | v2.1 | 2.777 |
+| 43 | v2.2 | 2.771 |
 | 44 | v2.2 | 2.497 |
 | 45 | v1.4 | 2.163 |
 | 46 | v1.3 | 2.549 |
@@ -62,23 +62,23 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 49 | v1.3 | 2.023 |
 | 50 | v2.6 | 2.914 |
 | 51 | v1.3 | 2.103 |
-| 52 | v1.5 | 3.073 |
+| 52 | v1.6 | 3.096 |
 | 53 | v1.4 | 2.481 |
 | 54 | v1.3 | 2.826 |
 | 55 | v1.3 | 2.042 |
-| 56 | v1.6 | 2.655 |
+| 56 | v1.7 | 2.651 |
 | 57 | v1.6 | 2.940 |
 | 58 | v1.6 | 2.337 |
 | 59 | v1.5 | 2.177 |
 | 60 | v1.3 | 2.443 |
 | 61 | v1.6 | 2.327 |
 | 62 | v1.10 | 2.499 |
-| 63 | v1.6 | 2.136 |
-| 64 | v1.6 | 2.248 |
+| 63 | v1.7 | 2.139 |
+| 64 | v1.7 | 2.276 |
 | 65 | v1.6 | 2.130 |
 | 66 | v1.3 | 2.096 |
-| 67 | v1.7 | 2.562 |
-| 68 | v1.2 | 2.447 |
+| 67 | v1.8 | 2.567 |
+| 68 | v1.3 | 2.451 |
 | 69 | v1.4 | 2.944 |
 | 70 | v1.1 | 2.275 |
 | 71 | v1.2 | 3.650 |
@@ -93,7 +93,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 81 | v1.2 | 2.581 |
 | 82 | v1.1 | 2.447 |
 | 83 | v1.1 | 2.434 |
-| 84 | v1.0 | 2.128 |
+| 84 | v1.1 | 2.129 |
 | 85 | v1.1 | 2.040 |
 | 86 | v1.0 | 2.148 |
 | 87 | v1.2 | 2.016 |
@@ -2591,7 +2591,7 @@ By the time she did, the house on the river had stopped taking new consignments,
 ---
 
 # Book Two · Chapter 12: Sixteen days
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day One Hundred and Eighty-Two · Friday 3 April
 
@@ -2851,7 +2851,7 @@ Jang heard him not say it, and put the log back in the drawer, and neither of th
 
 "No."
 
-"Say why not. I have had two men in thirty years tell me no to that question and both of them were wrong, and one of them was me."
+"I have had two men in thirty years tell me no to that question, and both of them were wrong, and one of them was me."
 
 "Because nothing that happens to her will be done by anybody who can be traced back to this house," said Georgij. "The people who take it off her will be her own six, and they will be right to, and they will believe it was their own idea because it will have been. And a woman who has just lost everything to the people she has written to on the first of every month for twenty years does not get in a car and drive four hours to stand at a gate."
 
@@ -9452,7 +9452,7 @@ Deciding that too early was the mistake he had already promised himself, twice t
 ---
 
 # Book Two · Chapter 43: A shape the size of a person
-*Lot Fourteen* · Version 2.1 · EN
+*Lot Fourteen* · Version 2.2 · EN
 
 ## Day Two Hundred and Seventy-Three · Friday 3 July
 
@@ -9522,7 +9522,7 @@ Neither of them said anything for a moment. Georgij could hear a road behind Jan
 
 "I know what it is."
 
-"Then say it back to me, because I have been standing here for two hours deciding whether to telephone at all, and I would like to hear that you have it in the right size."
+"I have been standing here for two hours deciding whether to telephone at all, and what I do not have is whether you have it in the right size."
 
 Georgij put his hand flat on the wall beside the telephone.
 
@@ -11095,7 +11095,7 @@ She did not throw them out either, and nobody in the house had told her not to, 
 ---
 
 # Book Two · Chapter 52: Against her return
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Two · Saturday 1 August
 
@@ -11151,7 +11151,7 @@ Sim sat back.
 
 "I am not going to ask you anything."
 
-"Say why not."
+"Then the reason. I have thirty years of men not giving me one."
 
 "Because everything I would ask you, you would have to decide whether to answer, and then we are two men negotiating over a table. I have done a great deal of that this year and it has never once got me the true version of anything." Georgij had both hands where the other man could see them. "I have brought one thing with me. I am going to put it down and I am going to say nothing at all, and you may read it or not read it."
 
@@ -11259,7 +11259,7 @@ Georgij did not say that out loud. He wrote it on the back of the envelope after
 
 "There is one more thing," said Georgij, "and then you have everything I have."
 
-"Go on."
+Sim straightened his cuff.
 
 "That house had no oxygen in it until the July on that invoice." He said it without arranging it at all. "A tank in a private house has to be told to the fire authority. The filing is one event. There is nothing before it. It has never been renewed as new and it has never been cancelled."
 
@@ -11289,7 +11289,7 @@ He had arranged that household for eleven years and had never once been given a 
 
 "I am going to, and then I will stop." He did not soften any of it. "A man who is told she is worse has an explanation for a doctor, a tank, four more staff and a flat. It covers every fact he can see. It is the only one he was ever offered."
 
-"Say the rest of it."
+"Then I will have the rest of it, because half of this is worse than none."
 
 "You did not fail to work it out. You were answered before you had a question."
 
@@ -11971,7 +11971,7 @@ And underneath, on its own, because he sat and looked at the page for a while be
 ---
 
 # Book Two · Chapter 56: Four streets
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Fifteen · Friday 14 August
 
@@ -12107,7 +12107,7 @@ Neither of them said anything.
 
 Mr Ahn did not answer straight away.
 
-"Say it properly," he said, "because you have been careful with me for six minutes and you can stop."
+"You have been careful with me for six minutes," he said, "and you can stop."
 
 "Did you know what the house was?"
 
@@ -13482,7 +13482,7 @@ He waited.
 ---
 
 # Book Two · Chapter 63: One sentence
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Six · Tuesday 25 August
 
@@ -13516,7 +13516,7 @@ Georgij came in properly and sat on the stool at the end of the bench, which put
 
 "I am going to say four things," he said. "The first two are what you have been waiting four years for. The third one is going to be difficult. The fourth one is a question and you can say no to it."
 
-"Say the first."
+"The first two, then."
 
 "She is alive."
 
@@ -13524,13 +13524,11 @@ Mr Ahn did not move at all.
 
 The shop did what a shop does. Somewhere behind the wall a compressor came on and ran and stopped.
 
-"Say it again."
+"You said she's alive."
 
 "Ahn Jung-hee is alive. She was alive last Friday and I have no reason to think anything has changed since Friday. I have not seen her. I have not spoken to her. I am telling you what I can prove and I am going to tell you exactly how I can prove it, because you have had four years of people telling you nothing."
 
 Mr Ahn put both hands flat on the bench either side of the pump.
-
-"Go on then."
 
 * * *
 
@@ -13571,8 +13569,6 @@ He took the time it needed, because Woo had done that for him on a Sunday and he
 "I know where the house is," he said. "I have known since the sixth of July. I am not going to tell you, and I am not going to tell you today or next month, and I want to say the reason out loud rather than let you build a worse one."
 
 Mr Ahn had gone very still.
-
-"Say it."
 
 "You would go." Georgij did not look away. "Not this week. You would sit here for eleven days and count them, and on the twelfth you would shut the shop and get on a bus, and you would be right to and it would end her."
 
@@ -13652,7 +13648,7 @@ He had spent seven minutes looking for the one thing he owns that nobody could h
 
 "There is one more thing you should decide before I take it."
 
-"Say it."
+Mr Ahn wiped his hands on the cloth.
 
 "If she works it out, she will know that you are looking for her." Georgij held his eye. "That is four years of a man not stopping, delivered to a woman who arranged her own consignment in four days so that he would not have to carry it. She may not be glad."
 
@@ -13711,7 +13707,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 ---
 
 # Book Two · Chapter 64: The one who orders
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
 
@@ -13747,7 +13743,7 @@ Sim did not move.
 
 "Yes."
 
-"And you have not opened the book, which means you were intending to give it to me on a piece of paper without the rest of it." He was entirely courteous about it. "Say whether that is right, because I would rather have it from you than work it out later. I have got very good at working things out later."
+"And you have not opened the book, which means you were intending to give it to me on a piece of paper without the rest of it." He was entirely courteous about it. "I would rather have that from you than work it out later. I have got very good at working things out later."
 
 "That is right," said Georgij. "That is what I came here intending to do, and I decided against it in the corridor outside your door about ninety seconds ago, and not one minute before that."
 
@@ -13772,8 +13768,6 @@ Georgij put both hands flat on his knees.
 "That is the whole of it."
 
 Sim sat back.
-
-"Tell me," he said.
 
 Georgij told him all of it and it took eleven minutes.
 
@@ -13807,17 +13801,17 @@ Georgij did not say anything.
 
 "There is a second half," said Georgij, "and it is worse than the first one, and you are going to have it now."
 
-"Then say it."
+"Then I will have it now."
 
 "The doctor you added four years ago has never once billed for the woman on the oxygen. Every piece of medical attention that has ever left a mark in that building has a lot number in the patient box. You did not add a doctor to a household. You added a doctor to her."
 
 Sim went very still.
 
-"Say what you think that is for," he said.
+"You will have a view about what that is for," he said, "and I would like it before I build my own."
 
 "I do not know."
 
-"Say the version you have not written down."
+"You have not written one down, and that is the one I am asking for."
 
 Georgij looked at him.
 
@@ -13871,7 +13865,7 @@ Georgij sat in an office in Jongno and had nothing whatsoever to add to that.
 
 "No."
 
-"Say why not."
+"There will be a reason for that, and I am going to sit here until I have it."
 
 "Because you said yes on Tuesday, on the telephone, before you knew what it was." Georgij held his eye. "And because the whole of this afternoon has been me making certain that you get to say it again knowing."
 
@@ -14298,7 +14292,7 @@ Then he wrote the last line, which is not evidence and is not for anybody, and w
 ---
 
 # Book Two · Chapter 67: Four hundred and one
-*Lot Fourteen* · Version 1.7 · EN
+*Lot Fourteen* · Version 1.8 · EN
 
 ## Day Three Hundred and Thirty-Six · Friday 4 September
 
@@ -14536,7 +14530,7 @@ He got into the car at eleven minutes past twelve and Jang did not start the eng
 
 "She has not telephoned anybody yet."
 
-"Say how sure."
+"Without a number that is not worth anything."
 
 "Sixty per cent, and I am telling you the number because it is a guess and I am telling you it is a guess." Georgij put the notebook on his knee and did not open it. "She has had eleven years of thinking she was being decent. A woman does not go straight to the telephone from that."
 
@@ -14561,7 +14555,7 @@ Georgij sat in a car in Mapo with a notebook shut on his knee, and did not write
 ---
 
 # Book Two · Chapter 68: What he was for
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Thirty-Nine · Monday 7 September
 
@@ -14633,7 +14627,7 @@ Georgij sat very still.
 
 Georgij did not say anything.
 
-"Say it," said Sim.
+"You have it and you are not saying it," said Sim.
 
 "You were not sent to be kind to them. You were sent because you are the only instrument that works on four people at once and leaves them thinking well of you."
 
@@ -14685,7 +14679,7 @@ Neither of them said anything for a while.
 
 "I am not going to." Georgij put both hands where the other man could see them. "I came here with the question and I have had it in my mouth since about the eleventh minute, and I am not going to ask it, because it is not mine to ask."
 
-"Say what it is anyway, so that we both have it in the room."
+"It can still be in the room, so that we both have it."
 
 "Whether you will still make the telephone call." He held his eye. "And I want it on record that I sat on it for four minutes and then decided not to spend it." He did not look away. "A man who has just found out what he has been does not need to be asked for a favour in the same hour."
 
@@ -14761,7 +14755,7 @@ Sim stood up, which he had not done, and put one hand on the back of his own cha
 
 "Then it was worth building."
 
-"It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "Go on. The fourteenth is a Monday. I will telephone you afterwards, and I will do it from a box and not from this room, because after the fourteenth I would like there to be one thing I have done that nobody arranged."
+"It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae's front desk, and it was not a performance either. "The fourteenth is a Monday. I will telephone you afterwards, and I will do it from a box and not from this room, because after the fourteenth I would like there to be one thing I have done that nobody arranged."
 
 * * *
 
@@ -18734,7 +18728,7 @@ He looked at the three lines for a while and then wrote one more underneath.
 ---
 
 # Book Two · Chapter 84: The consignor of record
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Eighty-Six · Saturday 24 October
 
@@ -18820,7 +18814,7 @@ The house consents. The money exists and is in one place. The holder will be pai
 
 "There is a second thing about the form," said Georgij, "and I would rather you had it from me standing here than found it in about four seconds at that bench."
 
-"Go on."
+"Standing here is fine."
 
 "It is printed on the back of the consignment form. The same sheet. Somebody in that house decided in 2003 that it was tidier and nobody has changed it." He did not look away. "You will turn it over and your own signature from February will be on the other side of it."
 
@@ -18900,7 +18894,7 @@ Then he sat down on the stool, which he had not done, and put both hands on his 
 
 Mr Ahn looked at the form on the bench and did not pick it up.
 
-"Say what she is told when they come," he said. "Not by us. By them."
+"I want the words she gets when they come," he said. "Not ours. Theirs."
 
 "I do not know and I have thought about it since the fifteenth. There is no version in which somebody in that house sits down with her and explains an assignment."
 
