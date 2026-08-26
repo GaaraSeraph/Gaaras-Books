@@ -4360,7 +4360,10 @@ Geburtstag und nicht der Text.
 | Mrs Sunwoo | einundachtzig | K89, 11. November | 29. September | **17. November** |
 | Choi Dae-ho | neunundfuenfzig | K88, 6. November | 8. September | **18. November** |
 
-**Und einer laesst sich so nicht loesen. Er gehoert dem Autor.**
+**Und einer hat dem Autor gehoert, und er hat ihn am 26.08. entschieden:
+Georgijs Geburtstag ist der 28. Juni.** Der Widerspruch selbst ist damit
+allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
+**wann** er ein Jahr aelter wird, aber nicht, **mit welcher Zahl** er anfaengt.
 
 **Georgij ist an beiden Enden des Buches sechsundzwanzig:**
 
@@ -4386,8 +4389,19 @@ falsch, sondern **unbrauchbar**.
    Katalog, die Loeschung, die nie ausgefuehrt wurde -, und es macht aus einem
    Rechenfehler eine Pointe. Kostet aber eine Stelle, an der es jemand bemerkt.
 
-**Bis das entschieden ist, bleibt der 12. September in der Tabelle stehen und
-ist ausdruecklich als unbrauchbar markiert.**
+**Der 28. Juni entscheidet die Frage nicht, er schaerft sie.** Er faellt in
+beide Erzaehljahre hinein, also wird Georgij waehrend des Buches genau einmal
+ein Jahr aelter, am 28. Juni des zweiten Jahres, zwischen Tag 268 und Tag 269.
+Was offen bleibt, ist die Anfangszahl:
+
+- **Weg 1:** der Katalog stimmt, er ist 26 bei der Auktion und wird am
+  28. Juni siebenundzwanzig. **Dann ist K90 falsch und ein Wort aendert sich.**
+- **Weg 2:** der Katalog hat ihn falsch gefuehrt, er ist 25 bei der Auktion und
+  wird am 28. Juni sechsundzwanzig. **Dann ist K90 richtig und Band 1 Kapitel 1
+  ist die Luege**, was das Thema des Buches ist.
+
+**In beiden Faellen ist der 28. Juni derselbe Tag, und in beiden Faellen liegt
+er im Buch.** Es steht bisher an keiner Stelle, dass er Geburtstag hat.
 
 **Nachtrag 26.08., und er verschiebt die Rechnung.** Beim Zusammenlegen von 78
 und 79 ist ein Drittel von Woos Belehrung gefallen, und darin stand
@@ -4413,7 +4427,7 @@ Folgen, beide Wege betreffend:
 
 | Figur | Alter | Geburtstag | Beleg |
 |---|---|---|---|
-| **Georgij** | **26 am ganzen Buch entlang, und das geht nicht auf** | ~~12. September~~ **unbrauchbar, siehe oben** | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
+| **Georgij** | 26 bei der Auktion, **27 ab dem 28. Juni** | **28. Juni, vom Autor am 26.08. gesetzt** | Band 1, Kapitel 1, aus dem Mund des Auktionators: *"Lot fourteen. Male, twenty-six."* Dazu *"nine years old"* und *"seventeen years"* |
 | **Annie** | 37 | **18. September** (war 3. August) | **Abgeleitet, nirgends genannt, und das bleibt so.** Kapitel 27: *"I was fourteen."* Kapitel 34: *"the first thing in twenty-three years that is not only your word."* Nebenproben: *"about thirty"* (27), *"since I was twenty-six"* (23), *"I was twenty-two"* (9). **Band 2, Kapitel 61 rechnet sie aus:** *"Two thousand and two is twenty-three years ago and she was fourteen"* - vierzehn plus dreiundzwanzig |
 | **Park Sang-hoon** | 59 bis 26.07., **ab 27.07. 60** | 27. Juli, **im Text** | Band 2, Kapitel 50: *"It was my birthday... being sixty"*, Montag, der 27. Juli. Kapitel 48 am 20. Juli: *"I am fifty-nine"* |
 | **Choi Dae-ho** | 59 | **18. November** (war 8. September) | Kapitel 26, aus Sang-hoons Mund. Mr Oks Schaetzung *"Sixty, perhaps a little less"* (17) passt und legt nichts fest |

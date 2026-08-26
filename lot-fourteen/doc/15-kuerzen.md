@@ -688,3 +688,127 @@ von Georgij umdreht. Woos Urteil über die fünfundzwanzig Tage bleibt, weil
 Georgij es selbst ausspricht (*"It was me choosing the morning"*) und Woo es nur
 bestätigt. Das ist keine Umdrehung.
 
+---
+
+## Gemessen am 26.08.: was mehrfach behauptet wird, und welcher Gesprächszug immer gleich läuft
+
+**Auftrag des Autors:** *"guck was mehrfach behauptet wird und damit redundant
+wird, und welche Gesprächspassagen redundant sind."* Das sind zwei Fragen und
+sie brauchen zwei Messungen. Beide stehen jetzt in `werkzeug/doppelt.py`.
+
+`check.py` fand bisher nur **wörtliche** Doubletten **innerhalb** eines
+Kapitels. Das ist die harmloseste Sorte. Was dieses Buch zäh macht, ist die
+Behauptung, die in 61 aufgestellt, in 62 wiederholt und in 75 noch einmal
+erklärt wird, jedes Mal mit anderen Wörtern. Wörtlich stimmt keine Zeile mit
+einer anderen überein, und der Leser hat es trotzdem dreimal gelesen.
+
+### 1. Behauptungen: 13 Nester, 121 Paare
+
+Verglichen werden die Inhaltswörter jedes Satzes, ohne die 300 häufigsten
+Wortformen. Ab 0.62 Überlappung ist es dieselbe Aussage. **Ein Nest ist eine
+Behauptung, die in drei oder mehr Kapiteln steht.**
+
+**Die Trennung, die das Skript ausdrücklich nicht macht:** ein Motiv soll
+wiederkehren. Ein Bericht soll es nicht. Nach dem Lesen der 13 Nester:
+
+**Motiv, bleibt** - fünf davon, und sie sind das Beste an der Liste:
+
+| Nest | Kapitel | Was |
+|---|---|---|
+| Das Steinbord und die flache Schale | b1 05, 15, 17, 22, 25 | **Fünf Kapitel, und jedes Mal liegt etwas anderes daneben oder eben nicht.** Der Ort trägt die Veränderung, das ist der Zweck |
+| Der Stahl unter dem Kragen | b1 16, 21, 22, 24 | Dreimal *"sat where it always sat"*, einmal *"did what it was built to do"*. **Die vierte ist die einzige, die etwas tut** |
+| Das Lächeln, das eine Viertelsekunde zu spät ankommt | b1 07, b1 17, b2 37 | Über zwei Bände hinweg, zuletzt bei Choi. Absicht |
+| Drei Türen an einem Korridor, ein Schild an keiner | b2 64, 68, 74, 89 | Sims Büro. **89 sagt selbst dazu *"for the last time in this book"*** |
+| Drei Stockwerke unter einem leeren Einkaufszentrum | b1 01, b1 13, b2 56 | Der Auktionsraum. Absicht |
+
+**Bericht über einen Bericht, kürzbar** - acht davon:
+
+| Nest | Kapitel | Wie oft dieselbe Tatsache |
+|---|---|---|
+| *shares, security and a veto over routes* | b1 14, 19, 20, 26 | **plus ein zweites Nest** (b1 15, 19, 20) mit der Erklärung dazu. Der Deal wird **sechsmal** buchstabiert |
+| Die sechzehntausend Quadratmeter und der zweite Abschnitt | b1 15, 16, 17, 27 | fünf Sätze, vier Kapitel |
+| Die Firma in Jung-gu mit sechs Angestellten | b1 13, 15, 19, 20 | viermal, davon zweimal als Aufzählung |
+| Der Mann im Dachraum mit der Taschenlampe am 22. | b2 77, 81, 83 | dreimal, und 81 und 83 fügen nichts hinzu |
+| Die vier Wörter des Sachbearbeiters | b2 61, 62, 75 | dreimal |
+| Mr Ahns *"almost got something out that was not quite a laugh"* | b2 63, 70, 73 | **dreimal fast wörtlich.** Das ist kein Motiv, das ist ein Tic |
+| Das Büro am Ende des Schuppens mit der See auf drei Seiten | b2 01, 13, 57 | dreimal |
+| 2002, der Staatsanwalt von sechsunddreißig | b2 61, 75 | Paar, aber **b2 75 wiederholt vier Sätze aus 61 fast wörtlich**, siehe unten |
+
+**Der schlimmste Einzelfall steht nicht in den Nestern, sondern in den Paaren:
+Band 1, Kapitel 30 und 31.** Vier Satzpaare mit Überlappung 1.00 zwischen zwei
+benachbarten Kapiteln - *"when they are told what this is, I am the one who
+tells them"*, *"the six bind their forty-one per cent into one block"*, *"every
+one of those six will be dead or useless in fifteen years"*, *"the only thing
+anybody can point at in 2045"*. **Kapitel 31 sagt Kapitel 30 noch einmal.**
+Dasselbe Muster, schwächer, bei b2 61 → b2 75.
+
+### 2. Gesprächszüge: das Buch hat ein Verhörverb
+
+**10.555 Repliken im ganzen Buch. 577 davon fangen mit einem Befehl zum
+Sprechen an, das sind 5,5 Prozent, und sie stehen in 113 von 123 Kapiteln.**
+
+| Anfang | Repliken | in wievielen Kapiteln |
+|---|---|---|
+| *"Say it ..."* | 146 | 79 |
+| *"Say the ..."* | 110 | 74 |
+| *"Say what ..."* | 105 | 61 |
+| *"Go on ..."* | 93 | 61 |
+| *"Then say ..."* | 70 | 52 |
+| *"Say why ..."* | 54 | 45 |
+
+**Das ist kein Sprachzug mehr, das ist ein Geräusch.** Und es ist nicht auf eine
+Figur beschränkt: Annie, Woo, Sang-hoon, Mr Ahn und Georgij benutzen alle
+denselben Befehl, was genau der Fehler ist, den `doc/12` bei Nebenfiguren
+sonst jagt.
+
+**Darunter liegt ein zweites, größeres Muster.** Die vier häufigsten
+Replikanfänge sind Kopula-Sätze:
+
+| *"That is ..."* | 434 Repliken | 108 Kapitel |
+| *"I have ..."* | 316 | 107 |
+| *"It is ..."* | 265 | 96 |
+| *"I am ..."* | 247 | 100 |
+
+Zusammen **1262 Repliken, zwölf Prozent**, und jeder dieser vier Anfänge kommt
+in mindestens 96 der 123 Kapitel vor. Der Standardschlagabtausch dieses Buches
+ist: Behauptung, Berichtigung, Gegenbehauptung, alle drei in der Form *X ist Y*.
+
+**Und das lässt sich als Kette nachweisen.** `--ketten` reduziert jede Replik auf
+ihre ersten zwei Wörter und sucht Folgen, die in mehreren Kapiteln gleich
+laufen:
+
+- *"That is ..."* → *"It is ..."* → *"You have ..."* in **7 Kapiteln**
+- *"I have ..."* → *"That is ..."* → *"It is ..."* in **7 Kapiteln**
+- *"That is ..."* → *"It is ..."* → *"I have ..."* in **5 Kapiteln**
+- *"I am ..."* → *"That is ..."* → *"It is ..."* in **5 Kapiteln**
+
+Die vier häufigsten Ketten des Buches bestehen aus denselben vier Bauteilen in
+vier Reihenfolgen.
+
+### Was daraus folgt, und was ausdrücklich nicht
+
+**Nicht:** eine automatische Streichung. Ein Werkzeug, das hier selbständig
+kürzt, erwischt zuerst das Steinbord und den Stahl unter dem Kragen, also genau
+die fünf Stellen, die bleiben sollen.
+
+**Sondern drei Aufträge für den Kürzungslauf:**
+
+1. **Die acht Berichtsnester zusammenstreichen** auf je eine ausführliche und
+   eine verkürzende Nennung. Bei *veto over routes* sind das vier gesparte
+   Buchstabierungen.
+2. **b1 30/31 und b2 61/75 als Paare lesen**, nicht als Einzelkapitel. Beide
+   Male sagt das zweite Kapitel das erste noch einmal.
+3. **Den Sprechbefehl auf ein Viertel senken.** 577 ist keine Handschrift.
+   Vorschlag zur Prüfung: nur noch Annie und Sang-hoon dürfen ihn benutzen,
+   weil bei ihnen die Machtlage ihn trägt, und Mr Ahn, Sim und Mrs Jeon
+   bekommen je einen eigenen Weg, eine Auskunft zu verlangen.
+
+**Die Zahlen sind jederzeit nachzurechnen:**
+
+```
+python3 werkzeug/doppelt.py --nester
+python3 werkzeug/doppelt.py --oeffner
+python3 werkzeug/doppelt.py --ketten
+python3 werkzeug/doppelt.py --schwelle 0.62
+```
+

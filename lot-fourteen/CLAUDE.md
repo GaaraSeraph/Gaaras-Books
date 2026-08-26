@@ -78,6 +78,14 @@ Naehe-Register, es traegt einen Stimmbefund, es enthaelt einen Erstauftritt.
 Entscheidung ist Urteil und steht in `doc/15-kuerzen.md`. `--kandidaten` zeigt
 nur die Liste, `--form` die Formzahlen je Kapitel.
 
+`doppelt.py` beantwortet die zwei Fragen, die `check.py` nicht stellt, weil sie
+ueber Kapitelgrenzen gehen: **was wird mehrfach behauptet, und welcher
+Gespraechszug laeuft immer gleich?** `--nester` zeigt Behauptungen, die in drei
+oder mehr Kapiteln stehen, `--oeffner` womit Repliken anfangen, `--ketten`
+Gespraechsfolgen, die sich wiederholen. **Es entscheidet nicht, ob eine
+Wiederholung schaedlich ist** - das Steinbord in Band 1 steht in fuenf Kapiteln
+und soll es. Der Befund vom 26.08. steht in `doc/15-kuerzen.md`.
+
 `check.py` prueft alles Mechanische: Satzlaenge, Gedankenstriche, Tics,
 Datumszeilen, Versionsnummern. `build.py` erzeugt `paste/`, `read/`, `book-band-1.md`, `book-band-2.md`,
 `HANDBUCH.md` und `MANIFEST.txt` neu und bricht ab, wenn Dateiname und Kopfzeile
