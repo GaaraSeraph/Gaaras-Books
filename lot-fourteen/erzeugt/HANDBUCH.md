@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 278.110 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 278.927 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -255,6 +255,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was daraus im Werkzeug steht](#was-daraus-im-werkzeug-steht)
   - [Berichtigung und der Eingriff in b2 K67](#berichtigung-und-der-eingriff-in-b2-k67)
   - [Berichtigung: meine eigene Zeile war geklaut und war NPC-Gelaber](#berichtigung-meine-eigene-zeile-war-geklaut-und-war-npc-gelaber)
+  - [Und darueber die Probe, die seit Langem im Dokument stand und nie lief](#und-darueber-die-probe-die-seit-langem-im-dokument-stand-und-nie-lief)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -15664,6 +15665,34 @@ Wer das nicht kann, hat Georgij geschrieben.
 Zweite Probe, für Nebenfiguren: **Streiche jeden Satz, der etwas über den Fall
 sagt. Bleibt eine Person übrig?**
 
+**Am 26.08. zum ersten Mal ausgeführt, und sie ist die Probe über allen anderen.**
+Die zwölf mechanischen Prüfungen können melden, dass etwas Fremdes dasteht oder
+dass ein Zug fehlt. **Keine kann melden, dass unter der Figur niemand ist.**
+
+**Und sie lässt sich nicht in eine Zahl übersetzen. Ich habe es versucht.** Der
+Anteil der Repliken, die die Streichung überleben, sagt das Gegenteil des
+Richtigen: **Sim behält 71 Prozent, Woo nur 52** - und Woo ist der mit dem
+Charakter. Was zählt, ist was dasteht, nicht wie viel.
+
+| | was ohne den Fall übrig bleibt | Person? |
+|---|---|---|
+| **Woo** | *"I will drink it. I will not enjoy it. **I have not enjoyed anything hot since 2011.**"* · *"I was not the thing that was being bought. **I was the door.**"* · *"…and **I am too old to mind**."* · *"**I have been in one room in my life where a name was said badly and I have never got it out of me.**"* | **ja, ganz** |
+| Jang | *"It's gravel. You can rake it for a year."* | ja, klein und da |
+| Hwang | *"I want to say that first **so that we are not doing the part where you prove it to me**."* | ja, als Manier |
+| **Sim** | *"I thought that was probably the shape of it."* · *"You have been in five kitchens."* | **nein - er arbeitet weiter** |
+| **Mrs Ha** | *"The bride came to this office."* · *"I asked her whether it might be later in the year."* | **nein - sie sagt weiter aus** |
+
+**Das erklärt, was die BG3-Analogie nicht abdeckt.** Rückkanal, Zustand und das
+Nicht-Aussprechen der Regel lassen sich an eine leere Figur anschrauben: man
+kann jemanden fragen und die Position wechseln lassen, und darunter ist trotzdem
+niemand. **Die Mechanik macht eine Figur bedienbar, nicht bewohnt.**
+
+**Wer diese Probe nicht besteht, dem fehlt kein Zug, sondern ein Leben neben dem
+Fall** - und das ist bei Woo dreierlei, ohne dass eines davon je erklärt wird:
+er hat seit 2011 nichts Heißes genossen, er hat einunddreißig Jahre lang einen
+Mann gekannt und gemocht, der ihn zweimal geschlagen hat, und er trägt einen
+Raum mit sich herum, in dem ein Name schlecht ausgesprochen wurde.
+
 ---
 
 # Das Schuldbuch
@@ -17996,6 +18025,59 @@ Wendung, die Georgij benutzt. `faktenspur.py`: null bewegte Zahlen.
 **Die Lehre, zum zweiten Mal notiert und diesmal hoffentlich behalten:** ein
 Ersatz wird gemessen, **bevor** er ins Kapitel geht. Und: **wenn eine Figur die
 Regel des Gespraechs ausspricht, ist es keine Figur mehr.**
+
+## Die Testbatterie, festgelegt am 26.08.
+
+**Vom Autor entschieden: volles Programm fuer alle 25 sprechenden Figuren** (11
+mit 20+ Repliken, 14 mit 5-19), und bei jedem Fund schreibe ich die Zeile,
+messe sie vorab und lege vorher/nachher vor.
+
+**Vier automatisch, ohne Aufwand je Figur:**
+
+| # | Test | hat gefunden |
+|---|---|---|
+| 1 | **Anleihen** - Vier-Wort-Wendungen, die nur diese Figur und Georgij benutzen | Sims vier Rahmen, Mrs Has Konterfaktisches, **zwei meiner eigenen Ersatzzeilen** |
+| 2 | **Superlative** - jeder Rang und jede Zahl neu gemessen | ~10 veraltete Ranglisten |
+| 3 | **Zitate** (`belege.py`) | drei erfundene bzw. verschmolzene Zitate |
+| 4 | **Fragenquote** je 100 Repliken | Sim: 0 von 71 |
+
+**Drei mit einmaliger Handarbeit:** Anwesenheitsprobe (`anwesenheit.py`),
+Veralterung (zitiert das Blatt ihre Kapitel?), **Index-Verzerrung - und die
+laeuft zuerst**, sonst messen alle anderen auf einer verzerrten Stichprobe.
+
+**Vier nur durch Lesen:** berichtet oder gesprochen · Rueckkanal · Zustand ·
+erklaert sie die Regel des Gespraechs.
+
+**Zwei Sperren:** Vorab-Test jeder Ersatzzeile gegen den Korpus · `faktenspur`
+und `check.py` vor jedem Push.
+
+**Test 5 gestrichen** (Verbotstest `--tics`): er hat in der ganzen Besetzung
+**null** Verstoesse gefunden, und Test 1 faengt dasselbe schaerfer. Bleibt als
+Sperre, nicht als Durchgang.
+
+### Und darueber die Probe, die seit Langem im Dokument stand und nie lief
+
+**Der Autor: *"nur durch Lesen zu finden: hat diese Figur einen eigenen
+Charakter?"* - und genau das steht am Ende von `doc/12`:** *"Streiche jeden
+Satz, der etwas ueber den Fall sagt. Bleibt eine Person uebrig?"*
+
+**Am 26.08. zum ersten Mal ausgefuehrt.** Ergebnis fuer Woo: **er besteht sie
+ganz.** Ohne den Fall bleiben stehen: *"I have not enjoyed anything hot since
+2011."* · *"I was not the thing that was being bought. I was the door."* ·
+*"…and I am too old to mind."* · *"I have been in one room in my life where a
+name was said badly and I have never got it out of me."*
+
+**Und ich habe wieder versucht, sie in eine Zahl zu uebersetzen - der Anteil
+ueberlebender Repliken sagt das Gegenteil des Richtigen.** Sim behaelt 71
+Prozent, Woo 52, und Woo ist der mit dem Charakter. **Was zaehlt, ist was
+dasteht, nicht wie viel.** Sims Ueberlebende sind Berufsbeobachtungen (*"I
+thought that was probably the shape of it"*), Mrs Has sind Aussage (*"The bride
+came to this office"*).
+
+**Das erklaert, was die BG3-Analogie nicht abdeckt.** Rueckkanal, Zustand und
+das Nicht-Aussprechen der Regel lassen sich an eine leere Figur anschrauben.
+**Die Mechanik macht eine Figur bedienbar, nicht bewohnt.** Wer die Probe nicht
+besteht, dem fehlt kein Zug, sondern ein Leben neben dem Fall.
 
 ---
 

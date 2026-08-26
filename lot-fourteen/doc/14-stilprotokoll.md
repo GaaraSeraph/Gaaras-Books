@@ -2120,3 +2120,56 @@ Wendung, die Georgij benutzt. `faktenspur.py`: null bewegte Zahlen.
 **Die Lehre, zum zweiten Mal notiert und diesmal hoffentlich behalten:** ein
 Ersatz wird gemessen, **bevor** er ins Kapitel geht. Und: **wenn eine Figur die
 Regel des Gespraechs ausspricht, ist es keine Figur mehr.**
+
+## Die Testbatterie, festgelegt am 26.08.
+
+**Vom Autor entschieden: volles Programm fuer alle 25 sprechenden Figuren** (11
+mit 20+ Repliken, 14 mit 5-19), und bei jedem Fund schreibe ich die Zeile,
+messe sie vorab und lege vorher/nachher vor.
+
+**Vier automatisch, ohne Aufwand je Figur:**
+
+| # | Test | hat gefunden |
+|---|---|---|
+| 1 | **Anleihen** - Vier-Wort-Wendungen, die nur diese Figur und Georgij benutzen | Sims vier Rahmen, Mrs Has Konterfaktisches, **zwei meiner eigenen Ersatzzeilen** |
+| 2 | **Superlative** - jeder Rang und jede Zahl neu gemessen | ~10 veraltete Ranglisten |
+| 3 | **Zitate** (`belege.py`) | drei erfundene bzw. verschmolzene Zitate |
+| 4 | **Fragenquote** je 100 Repliken | Sim: 0 von 71 |
+
+**Drei mit einmaliger Handarbeit:** Anwesenheitsprobe (`anwesenheit.py`),
+Veralterung (zitiert das Blatt ihre Kapitel?), **Index-Verzerrung - und die
+laeuft zuerst**, sonst messen alle anderen auf einer verzerrten Stichprobe.
+
+**Vier nur durch Lesen:** berichtet oder gesprochen · Rueckkanal · Zustand ·
+erklaert sie die Regel des Gespraechs.
+
+**Zwei Sperren:** Vorab-Test jeder Ersatzzeile gegen den Korpus · `faktenspur`
+und `check.py` vor jedem Push.
+
+**Test 5 gestrichen** (Verbotstest `--tics`): er hat in der ganzen Besetzung
+**null** Verstoesse gefunden, und Test 1 faengt dasselbe schaerfer. Bleibt als
+Sperre, nicht als Durchgang.
+
+### Und darueber die Probe, die seit Langem im Dokument stand und nie lief
+
+**Der Autor: *"nur durch Lesen zu finden: hat diese Figur einen eigenen
+Charakter?"* - und genau das steht am Ende von `doc/12`:** *"Streiche jeden
+Satz, der etwas ueber den Fall sagt. Bleibt eine Person uebrig?"*
+
+**Am 26.08. zum ersten Mal ausgefuehrt.** Ergebnis fuer Woo: **er besteht sie
+ganz.** Ohne den Fall bleiben stehen: *"I have not enjoyed anything hot since
+2011."* · *"I was not the thing that was being bought. I was the door."* ·
+*"…and I am too old to mind."* · *"I have been in one room in my life where a
+name was said badly and I have never got it out of me."*
+
+**Und ich habe wieder versucht, sie in eine Zahl zu uebersetzen - der Anteil
+ueberlebender Repliken sagt das Gegenteil des Richtigen.** Sim behaelt 71
+Prozent, Woo 52, und Woo ist der mit dem Charakter. **Was zaehlt, ist was
+dasteht, nicht wie viel.** Sims Ueberlebende sind Berufsbeobachtungen (*"I
+thought that was probably the shape of it"*), Mrs Has sind Aussage (*"The bride
+came to this office"*).
+
+**Das erklaert, was die BG3-Analogie nicht abdeckt.** Rueckkanal, Zustand und
+das Nicht-Aussprechen der Regel lassen sich an eine leere Figur anschrauben.
+**Die Mechanik macht eine Figur bedienbar, nicht bewohnt.** Wer die Probe nicht
+besteht, dem fehlt kein Zug, sondern ein Leben neben dem Fall.

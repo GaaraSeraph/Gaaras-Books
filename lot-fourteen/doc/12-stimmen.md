@@ -3114,3 +3114,31 @@ Wer das nicht kann, hat Georgij geschrieben.
 
 Zweite Probe, für Nebenfiguren: **Streiche jeden Satz, der etwas über den Fall
 sagt. Bleibt eine Person übrig?**
+
+**Am 26.08. zum ersten Mal ausgeführt, und sie ist die Probe über allen anderen.**
+Die zwölf mechanischen Prüfungen können melden, dass etwas Fremdes dasteht oder
+dass ein Zug fehlt. **Keine kann melden, dass unter der Figur niemand ist.**
+
+**Und sie lässt sich nicht in eine Zahl übersetzen. Ich habe es versucht.** Der
+Anteil der Repliken, die die Streichung überleben, sagt das Gegenteil des
+Richtigen: **Sim behält 71 Prozent, Woo nur 52** - und Woo ist der mit dem
+Charakter. Was zählt, ist was dasteht, nicht wie viel.
+
+| | was ohne den Fall übrig bleibt | Person? |
+|---|---|---|
+| **Woo** | *"I will drink it. I will not enjoy it. **I have not enjoyed anything hot since 2011.**"* · *"I was not the thing that was being bought. **I was the door.**"* · *"…and **I am too old to mind**."* · *"**I have been in one room in my life where a name was said badly and I have never got it out of me.**"* | **ja, ganz** |
+| Jang | *"It's gravel. You can rake it for a year."* | ja, klein und da |
+| Hwang | *"I want to say that first **so that we are not doing the part where you prove it to me**."* | ja, als Manier |
+| **Sim** | *"I thought that was probably the shape of it."* · *"You have been in five kitchens."* | **nein - er arbeitet weiter** |
+| **Mrs Ha** | *"The bride came to this office."* · *"I asked her whether it might be later in the year."* | **nein - sie sagt weiter aus** |
+
+**Das erklärt, was die BG3-Analogie nicht abdeckt.** Rückkanal, Zustand und das
+Nicht-Aussprechen der Regel lassen sich an eine leere Figur anschrauben: man
+kann jemanden fragen und die Position wechseln lassen, und darunter ist trotzdem
+niemand. **Die Mechanik macht eine Figur bedienbar, nicht bewohnt.**
+
+**Wer diese Probe nicht besteht, dem fehlt kein Zug, sondern ein Leben neben dem
+Fall** - und das ist bei Woo dreierlei, ohne dass eines davon je erklärt wird:
+er hat seit 2011 nichts Heißes genossen, er hat einunddreißig Jahre lang einen
+Mann gekannt und gemocht, der ihn zweimal geschlagen hat, und er trägt einen
+Raum mit sich herum, in dem ein Name schlecht ausgesprochen wurde.
