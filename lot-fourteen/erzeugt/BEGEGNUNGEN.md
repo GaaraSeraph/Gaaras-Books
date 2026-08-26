@@ -2555,14 +2555,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:152 | "Now the sentence," said Sim. |
 | 31 | b2ch64:164 | Sim read it twice, the way he reads. |
 | 31 | b2ch64:176 | Sim put one finger on the edge of the page and did not touch the writing. |
-| 31 | b2ch64:182 | "I have a question and it is not the one you are braced for," said Sim. |
+| 31 | b2ch64:182 | "You have been getting ready for a different question," said Sim. |
 | 31 | b2ch64:194 | "No." Sim looked at the window. "That is what I thought, and I wanted it said in this ro.. |
 | 31 | b2ch64:204 | "You have not asked me whether I will do it," said Sim. |
 | 31 | b2ch64:242 | There was nobody in the corridor. Sim had said so himself an hour earlier, and then he h.. |
 | 31 | b2ch64:246 | Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, .. |
 | 31 | b2ch64:258 | "She said the shed roof should be done properly or not at all." Sim did not take his han.. |
 | 31 | b2ch64:266 | "I think it means she heard it." Sim looked up at last, and his face had not changed at .. |
-| 31 | b2ch64:272 | "There is one more thing," said Sim, "and you will not like it." |
+| 31 | b2ch64:272 | "You will not like the last of it," said Sim, "and I am going to give it to you anyway." |
 | 31 | b2ch64:288 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
 | 37 | b2ch66:42 | *Sim has been putting flowers in a house twice a year for eleven years. April, because i.. |
 | 42 | b2ch68:20 | He telephoned on the Monday morning and Sim said the same room and the same hour without.. |
@@ -2589,7 +2589,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:228 | Sim stood up, which he had not done, and put one hand on the back of his own chair. |
 | 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
 | 49 | b2ch72:114 | "It is a box in Jongno and it is raining on me," said Sim, "and I have put in more than .. |
-| 49 | b2ch72:138 | "In four years there have been two voices on that telephone and neither of them was his,.. |
+| 49 | b2ch72:138 | "In four years that telephone has had two voices on it, and I had not heard this one bef.. |
 | 49 | b2ch72:146 | "Everything he had, and I did not ask him one question." Sim said it without any pleasur.. |
 | 49 | b2ch72:162 | "There was a radio on in that room," said Sim. "There has never been a radio on in that .. |
 | 49 | b2ch72:170 | "He was not careful at all, and that is the piece I would like you to sit down for." Sim.. |
@@ -2599,7 +2599,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "There is one more thing and it is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "What is left is mine and not hers," said Sim. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -2607,7 +2607,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
 | 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |
 | 51 | b2ch74:74 | "The shortest of the sixteen was four minutes and about ten seconds, and that was the se.. |
-| 51 | b2ch74:102 | "There is a second half and you have not asked for it," said Sim, "and I am going to giv.. |
+| 51 | b2ch74:102 | "You have not asked me for the rest of it," said Sim, "and I am going to give it to you,.. |
 | 51 | b2ch74:118 | "I did not put it in on Monday because I did not know it was a thing." Sim said it witho.. |
 | 51 | b2ch74:126 | Sim stood up and put the cup and the saucer on the tray, which nobody had asked him to do. |
 | 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
@@ -2658,11 +2658,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:106` (Tag 31) - four, sixty
 - `b2ch64:118` (Tag 31) - one
 - `b2ch64:176` (Tag 31) - one
-- `b2ch64:182` (Tag 31) - one
 - `b2ch64:194` (Tag 31) - one
 - `b2ch64:258` (Tag 31) - four, nineteen
 - `b2ch64:266` (Tag 31) - four
-- `b2ch64:272` (Tag 31) - one
 - `b2ch66:42` (Tag 37) - eleven
 - `b2ch68:52` (Tag 42) - thirty
 - `b2ch68:70` (Tag 42) - eleven, four
@@ -2677,13 +2675,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch68:198` (Tag 42) - one, sixty-three, thirty
 - `b2ch68:228` (Tag 42) - one
 - `b2ch68:238` (Tag 42) - one
-- `b2ch72:138` (Tag 49) - four, two
+- `b2ch72:138` (Tag 49) - four, one, two
 - `b2ch72:146` (Tag 49) - one
 - `b2ch72:170` (Tag 49) - four, nineteen, twenty-six
 - `b2ch72:242` (Tag 49) - four, one
 - `b2ch72:250` (Tag 49) - one, two
 - `b2ch72:270` (Tag 49) - one, three, twenty
-- `b2ch72:274` (Tag 49) - one
 - `b2ch72:306` (Tag 49) - one
 - `b2ch73:420` (Tag 50) - six, thirty
 - `b2ch74:66` (Tag 51) - thirty

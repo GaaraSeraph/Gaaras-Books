@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 80 Kapitel, 198.416 Woerter.
+Book Two, 80 Kapitel, 198.414 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -74,7 +74,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 61 | v1.4 | 2.327 |
 | 62 | v1.8 | 2.499 |
 | 63 | v1.5 | 2.136 |
-| 64 | v1.5 | 2.246 |
+| 64 | v1.6 | 2.248 |
 | 65 | v1.5 | 2.130 |
 | 66 | v1.3 | 2.096 |
 | 67 | v1.3 | 2.493 |
@@ -82,9 +82,9 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 69 | v1.3 | 2.944 |
 | 70 | v1.0 | 2.275 |
 | 71 | v1.1 | 3.650 |
-| 72 | v1.0 | 2.300 |
+| 72 | v1.1 | 2.298 |
 | 73 | v1.0 | 2.175 |
-| 74 | v1.1 | 3.471 |
+| 74 | v1.2 | 3.469 |
 | 75 | v1.0 | 2.539 |
 | 76 | v1.0 | 2.056 |
 | 77 | v1.0 | 2.325 |
@@ -13702,7 +13702,7 @@ He wrote the last line standing outside the car, because he could not do it sitt
 ---
 
 # Book Two · Chapter 64: The one who orders
-*Lot Fourteen* · Version 1.5 · EN
+*Lot Fourteen* · Version 1.6 · EN
 
 ## Day Three Hundred and Twenty-Eight · Thursday 27 August
 
@@ -13840,7 +13840,7 @@ Sim put one finger on the edge of the page and did not touch the writing.
 
 "That is what he said. In those words."
 
-"I have a question and it is not the one you are braced for," said Sim.
+"You have been getting ready for a different question," said Sim.
 
 "Go on."
 
@@ -13902,7 +13902,7 @@ Georgij sat very still.
 
 Neither of them said anything.
 
-"There is one more thing," said Sim, "and you will not like it."
+"You will not like the last of it," said Sim, "and I am going to give it to you anyway."
 
 "Go on."
 
@@ -15794,7 +15794,7 @@ Annie looked at him for slightly longer than she needed to and then went back to
 ---
 
 # Book Two · Chapter 72: The fourteenth
-*Lot Fourteen* · Version 1.0 · EN
+*Lot Fourteen* · Version 1.1 · EN
 
 ## Day Three Hundred and Forty-Six · Monday 14 September
 
@@ -15882,7 +15882,7 @@ Georgij put his hand flat on the arm of the chair.
 
 * * *
 
-"In four years there have been two voices on that telephone and neither of them was his," said Sim. "He gave me his surname before I had asked him for it. Mr Tak."
+"In four years that telephone has had two voices on it, and I had not heard this one before," said Sim. "He gave me his surname before I had asked him for it. Mr Tak."
 
 "Say what else he gave you."
 
@@ -15964,7 +15964,7 @@ Georgij closed his eyes for about two seconds, which he does not do.
 
 * * *
 
-"There is one more thing and it is mine and not hers," said Sim.
+"What is left is mine and not hers," said Sim.
 
 "Go on."
 
@@ -16356,7 +16356,7 @@ He wrote that in the car and drove back with the windows down, and he did not de
 ---
 
 # Book Two · Chapter 74: Forty-one seconds
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Forty-Eight · Wednesday 16 September
 
@@ -16422,7 +16422,7 @@ Neither of them said anything.
 
 * * *
 
-"There is a second half and you have not asked for it," said Sim, "and I am going to give it to you, because I have spent two days working out why it has been sitting on me."
+"You have not asked me for the rest of it," said Sim, "and I am going to give it to you, because I have spent two days working out why it has been sitting on me."
 
 "Go on."
 

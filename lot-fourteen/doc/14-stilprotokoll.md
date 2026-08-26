@@ -1620,7 +1620,7 @@ haben aus dem Takt eine sichtbare Marke gemacht:
 | Quelle | Lesefassung vorher | Einfuegefassung vorher | jetzt |
 |---|---|---|---|
 | `---` Takt | `· · ·`, drei zentrierte Punkte | `* * *` | **Weissraum, keine Marke** |
-| `* * *` Szene | 1px-Linie | `———` | unveraendert |
+| `* * *` Szene | 1px-Linie | drei Geviertstriche | unveraendert |
 
 **Das waren 579 Marken in Band 1 und 2972 in Band 2**, an jeder Stelle, an der
 nur eine Atempause stehen sollte.
@@ -1649,3 +1649,82 @@ Build.** Gegengeprueft - eine echte Szene laeuft durch, eine verrutschte Marke
 bricht.
 
 *Unsicher:* keiner. Die Sache ist im Browser nachgemessen und nicht geschaetzt.
+
+## Sim: Verhalten und Satzbau ausgearbeitet, nach dem Jang-Muster
+
+**Der Autor am 26.08.: *"Sim klingt immer noch wie Georgij."* Er hat recht, und
+mein Durchgang davor konnte das gar nicht finden.** Ich hatte geprueft, ob eine
+Figur ein **ausdrueckliches Verbot** aus ihrem Blatt bricht. Sim hat in seinem
+Blatt kein Verbot, und die Tic-Messung meldet bei ihm eine leere Zeile. **Er ist
+durch den Test gefallen, ohne dass der Test etwas an ihm gemessen haette.**
+"Kein Verstoss" hiess bei ihm nur "nichts zu pruefen".
+
+### Der Nachweis
+
+Gemessen wurde, welche Vier-Wort-Wendungen im ganzen Buch **nur Georgij und Sim**
+benutzen und sonst niemand. Vier Treffer, alle in Sims neuesten Kapiteln:
+
+| Georgij | Sim, geliehen |
+|---|---|
+| b2 K18 *"And there is a second half"* | b2 K74 *"There is a second half and you have not asked for it"* |
+| b2 K21 *"There is one more thing and it is not an argument"* | b2 K72 *"There is one more thing and it is mine and not hers"* |
+| b2 K19 *"neither of them is a comfort"* | b2 K72 *"two voices … and neither of them was his"* |
+| b2 K19 *"he is not the one who wrote the letter"* | b2 K64 *"a question and it is not the one you are braced for"* |
+
+**Drei der vier eroeffnen einen Takt und werden mit *"Go on."* beantwortet.**
+Das ist der Rhythmus eines Mannes, der Auskunft dosiert - und **Sim dosiert
+nicht**, das ist seine ganze Figur.
+
+**Dieselbe Diagnose steht seit dem 25.08. im Musterfall dieses Dokuments**, ueber
+die Frau mit der Giesskanne: *"Das ist Georgijs Maschine mit Blumentoepfen
+darin."* Bei Sim war es Georgijs Maschine mit einem Blumenstrauss in der Hand.
+
+### Die Maschine, die dort haette stehen muessen
+
+**Er richtet dem anderen die Bequemlichkeit im Voraus ein, ungefragt, und
+benennt die Einrichtung dann laut - damit sie keine Schuld wird.**
+
+> *"It is a box in Jongno and it is raining on me, and I have put in more than I
+> need, so do not talk quickly on my account."* (K72)
+> *"I gave her three places to. … She did not take one of them."* (K72)
+
+Er zaehlt **die Ausgaenge, die er anderen gebaut hat**, nicht Jahre und nicht
+Daten. Sein Blatt hat jetzt Maschine, Anliegen, Georgij-Abgrenzung, Koerper,
+Wie-mit-wem, warm, unter Druck, vier Beispiele und eine Probe - nach dem Muster
+von Jang.
+
+### Die vier Zeilen im Text
+
+| Kapitel | vorher | jetzt |
+|---|---|---|
+| b2 K64 v1.6 | *"I have a question and it is not the one you are braced for"* | *"You have been getting ready for a different question"* |
+| b2 K64 v1.6 | *"There is one more thing," … "and you will not like it."* | *"You will not like the last of it," … "and I am going to give it to you anyway."* |
+| b2 K72 v1.1 | *"…two voices on that telephone and neither of them was his"* | *"…that telephone has had two voices on it, and I had not heard this one before"* |
+| b2 K72 v1.1 | *"There is one more thing and it is mine and not hers"* | *"What is left is mine and not hers"* |
+| b2 K74 v1.2 | *"There is a second half and you have not asked for it"* | *"You have not asked me for the rest of it"* |
+
+*"you have not asked"* bleibt ueberall stehen. Bei Georgij markiert es, dass er
+etwas **hat**; bei Sim, dass er wartet, geben zu duerfen. Gleicher Wortlaut,
+umgekehrter Zug.
+
+### Ein Beinahe-Schaden, und er gehoert protokolliert
+
+Meine erste Fassung fuer K72 lautete *"This was a third."* **`faktenspur.py` hat
+`third 2 -> 3` gemeldet, und die Meldung war kein Rauschen.** In demselben
+Kapitel, achtzig Zeilen spaeter, ist *"the third"* die **dritte Nachricht von
+Ahn Jung-hee**, und Georgij leitet ihre Existenz daraus ab, dass Sim sie noch
+nicht gesagt hat:
+
+> *"And the third." / "Say why you think there is a third." / "Because you have
+> not said it yet and you have said everything else in the order it happened."*
+
+Eine zweite, konkurrierende Dritte davor haette die Ableitung stumpf gemacht.
+Zurueckgenommen; K72 bewegt jetzt **keine einzige Zahl**. **Die Lehre: ein
+Stiltausch, der ein Zahlwort einfuehrt, ist kein Stiltausch.**
+
+Die zwei verbliebenen Meldungen sind geprueft und harmlos: in K64 fallen zwei
+*one* weg, beide Pronomen bzw. Mengenwort; in K74 fallen *second* und *half*
+zusammen mit dem geliehenen Rahmen weg, und es gibt im Kapitel keine
+Rueckbindung darauf.
+
+*Unsicher:* keiner.

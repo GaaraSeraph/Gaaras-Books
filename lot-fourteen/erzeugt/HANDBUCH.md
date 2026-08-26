@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 15 Dokumente am Stueck plus das Begegnungsregister. 267.485 Woerter.
+Alle 15 Dokumente am Stueck plus das Begegnungsregister. 268.231 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -241,6 +241,10 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Zwei Sachfragen an den Inhalts-Chat, nicht von mir zu entscheiden](#zwei-sachfragen-an-den-inhalts-chat-nicht-von-mir-zu-entscheiden)
   - [Der Durchgang fortgesetzt: alle uebrigen Figuren](#der-durchgang-fortgesetzt-alle-uebrigen-figuren)
   - [Gedankenstriche: 69 ersetzt, und die Regel stand laengst da](#gedankenstriche-69-ersetzt-und-die-regel-stand-laengst-da)
+  - [Der Nachweis](#der-nachweis)
+  - [Die Maschine, die dort haette stehen muessen](#die-maschine-die-dort-haette-stehen-muessen)
+  - [Die vier Zeilen im Text](#die-vier-zeilen-im-text)
+  - [Ein Beinahe-Schaden, und er gehoert protokolliert](#ein-beinahe-schaden-und-er-gehoert-protokolliert)
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
   - [Annie](#annie)
@@ -12471,7 +12475,7 @@ Nicht anderes Vokabular. Eine andere **rhetorische Maschine**.
 |---|---|---|
 | **Georgij** | Aussage, dann die Rechnung dahinter, dann was es kostet. Endet auf einem Preis | Ja, vollständig |
 | **Annie** | Sie erklärt nie die Sache, sie erklärt **ihn**. Beweismittel ist immer ein **Datum** | Nein, sie stellt eine bessere |
-| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** — siehe `doc/08-decisions.md` | |
+| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** - siehe `doc/08-decisions.md` | |
 | **Woo** | **Korrektur der Prämisse.** *"Then it is a business." - "No. Hear the whole of it."* | Nein, er berichtigt |
 | **Sim** | **Der andere.** Keine Aussagen über die Welt, sondern Angebote. Information kommt als Höflichkeit verpackt | Er beantwortet die Frage, die er dem anderen gern gestellt hätte |
 | **Jang** | **Sicherheitsstufen.** Sortiert vor der Übergabe in beobachtet / gehört / geraten und mischt nie | Ja, aber ausdrücklich sortiert |
@@ -17109,7 +17113,7 @@ haben aus dem Takt eine sichtbare Marke gemacht:
 | Quelle | Lesefassung vorher | Einfuegefassung vorher | jetzt |
 |---|---|---|---|
 | `---` Takt | `· · ·`, drei zentrierte Punkte | `* * *` | **Weissraum, keine Marke** |
-| `* * *` Szene | 1px-Linie | `———` | unveraendert |
+| `* * *` Szene | 1px-Linie | drei Geviertstriche | unveraendert |
 
 **Das waren 579 Marken in Band 1 und 2972 in Band 2**, an jeder Stelle, an der
 nur eine Atempause stehen sollte.
@@ -17138,6 +17142,85 @@ Build.** Gegengeprueft - eine echte Szene laeuft durch, eine verrutschte Marke
 bricht.
 
 *Unsicher:* keiner. Die Sache ist im Browser nachgemessen und nicht geschaetzt.
+
+## Sim: Verhalten und Satzbau ausgearbeitet, nach dem Jang-Muster
+
+**Der Autor am 26.08.: *"Sim klingt immer noch wie Georgij."* Er hat recht, und
+mein Durchgang davor konnte das gar nicht finden.** Ich hatte geprueft, ob eine
+Figur ein **ausdrueckliches Verbot** aus ihrem Blatt bricht. Sim hat in seinem
+Blatt kein Verbot, und die Tic-Messung meldet bei ihm eine leere Zeile. **Er ist
+durch den Test gefallen, ohne dass der Test etwas an ihm gemessen haette.**
+"Kein Verstoss" hiess bei ihm nur "nichts zu pruefen".
+
+### Der Nachweis
+
+Gemessen wurde, welche Vier-Wort-Wendungen im ganzen Buch **nur Georgij und Sim**
+benutzen und sonst niemand. Vier Treffer, alle in Sims neuesten Kapiteln:
+
+| Georgij | Sim, geliehen |
+|---|---|
+| b2 K18 *"And there is a second half"* | b2 K74 *"There is a second half and you have not asked for it"* |
+| b2 K21 *"There is one more thing and it is not an argument"* | b2 K72 *"There is one more thing and it is mine and not hers"* |
+| b2 K19 *"neither of them is a comfort"* | b2 K72 *"two voices … and neither of them was his"* |
+| b2 K19 *"he is not the one who wrote the letter"* | b2 K64 *"a question and it is not the one you are braced for"* |
+
+**Drei der vier eroeffnen einen Takt und werden mit *"Go on."* beantwortet.**
+Das ist der Rhythmus eines Mannes, der Auskunft dosiert - und **Sim dosiert
+nicht**, das ist seine ganze Figur.
+
+**Dieselbe Diagnose steht seit dem 25.08. im Musterfall dieses Dokuments**, ueber
+die Frau mit der Giesskanne: *"Das ist Georgijs Maschine mit Blumentoepfen
+darin."* Bei Sim war es Georgijs Maschine mit einem Blumenstrauss in der Hand.
+
+### Die Maschine, die dort haette stehen muessen
+
+**Er richtet dem anderen die Bequemlichkeit im Voraus ein, ungefragt, und
+benennt die Einrichtung dann laut - damit sie keine Schuld wird.**
+
+> *"It is a box in Jongno and it is raining on me, and I have put in more than I
+> need, so do not talk quickly on my account."* (K72)
+> *"I gave her three places to. … She did not take one of them."* (K72)
+
+Er zaehlt **die Ausgaenge, die er anderen gebaut hat**, nicht Jahre und nicht
+Daten. Sein Blatt hat jetzt Maschine, Anliegen, Georgij-Abgrenzung, Koerper,
+Wie-mit-wem, warm, unter Druck, vier Beispiele und eine Probe - nach dem Muster
+von Jang.
+
+### Die vier Zeilen im Text
+
+| Kapitel | vorher | jetzt |
+|---|---|---|
+| b2 K64 v1.6 | *"I have a question and it is not the one you are braced for"* | *"You have been getting ready for a different question"* |
+| b2 K64 v1.6 | *"There is one more thing," … "and you will not like it."* | *"You will not like the last of it," … "and I am going to give it to you anyway."* |
+| b2 K72 v1.1 | *"…two voices on that telephone and neither of them was his"* | *"…that telephone has had two voices on it, and I had not heard this one before"* |
+| b2 K72 v1.1 | *"There is one more thing and it is mine and not hers"* | *"What is left is mine and not hers"* |
+| b2 K74 v1.2 | *"There is a second half and you have not asked for it"* | *"You have not asked me for the rest of it"* |
+
+*"you have not asked"* bleibt ueberall stehen. Bei Georgij markiert es, dass er
+etwas **hat**; bei Sim, dass er wartet, geben zu duerfen. Gleicher Wortlaut,
+umgekehrter Zug.
+
+### Ein Beinahe-Schaden, und er gehoert protokolliert
+
+Meine erste Fassung fuer K72 lautete *"This was a third."* **`faktenspur.py` hat
+`third 2 -> 3` gemeldet, und die Meldung war kein Rauschen.** In demselben
+Kapitel, achtzig Zeilen spaeter, ist *"the third"* die **dritte Nachricht von
+Ahn Jung-hee**, und Georgij leitet ihre Existenz daraus ab, dass Sim sie noch
+nicht gesagt hat:
+
+> *"And the third." / "Say why you think there is a third." / "Because you have
+> not said it yet and you have said everything else in the order it happened."*
+
+Eine zweite, konkurrierende Dritte davor haette die Ableitung stumpf gemacht.
+Zurueckgenommen; K72 bewegt jetzt **keine einzige Zahl**. **Die Lehre: ein
+Stiltausch, der ein Zahlwort einfuehrt, ist kein Stiltausch.**
+
+Die zwei verbliebenen Meldungen sind geprueft und harmlos: in K64 fallen zwei
+*one* weg, beide Pronomen bzw. Mengenwort; in K74 fallen *second* und *half*
+zusammen mit dem geliehenen Rahmen weg, und es gibt im Kapitel keine
+Rueckbindung darauf.
+
+*Unsicher:* keiner.
 
 ---
 
@@ -19698,14 +19781,14 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 31 | b2ch64:152 | "Now the sentence," said Sim. |
 | 31 | b2ch64:164 | Sim read it twice, the way he reads. |
 | 31 | b2ch64:176 | Sim put one finger on the edge of the page and did not touch the writing. |
-| 31 | b2ch64:182 | "I have a question and it is not the one you are braced for," said Sim. |
+| 31 | b2ch64:182 | "You have been getting ready for a different question," said Sim. |
 | 31 | b2ch64:194 | "No." Sim looked at the window. "That is what I thought, and I wanted it said in this ro.. |
 | 31 | b2ch64:204 | "You have not asked me whether I will do it," said Sim. |
 | 31 | b2ch64:242 | There was nobody in the corridor. Sim had said so himself an hour earlier, and then he h.. |
 | 31 | b2ch64:246 | Then Sim said, quite gently, that there was no hurry at all, and that he would hold on, .. |
 | 31 | b2ch64:258 | "She said the shed roof should be done properly or not at all." Sim did not take his han.. |
 | 31 | b2ch64:266 | "I think it means she heard it." Sim looked up at last, and his face had not changed at .. |
-| 31 | b2ch64:272 | "There is one more thing," said Sim, "and you will not like it." |
+| 31 | b2ch64:272 | "You will not like the last of it," said Sim, "and I am going to give it to you anyway." |
 | 31 | b2ch64:288 | "I said I would telephone on the fourteenth of September, because that is when a man tel.. |
 | 37 | b2ch66:42 | *Sim has been putting flowers in a house twice a year for eleven years. April, because i.. |
 | 42 | b2ch68:20 | He telephoned on the Monday morning and Sim said the same room and the same hour without.. |
@@ -19732,7 +19815,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:228 | Sim stood up, which he had not done, and put one hand on the back of his own chair. |
 | 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
 | 49 | b2ch72:114 | "It is a box in Jongno and it is raining on me," said Sim, "and I have put in more than .. |
-| 49 | b2ch72:138 | "In four years there have been two voices on that telephone and neither of them was his,.. |
+| 49 | b2ch72:138 | "In four years that telephone has had two voices on it, and I had not heard this one bef.. |
 | 49 | b2ch72:146 | "Everything he had, and I did not ask him one question." Sim said it without any pleasur.. |
 | 49 | b2ch72:162 | "There was a radio on in that room," said Sim. "There has never been a radio on in that .. |
 | 49 | b2ch72:170 | "He was not careful at all, and that is the piece I would like you to sit down for." Sim.. |
@@ -19742,7 +19825,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "There is one more thing and it is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "What is left is mine and not hers," said Sim. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -19750,7 +19833,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
 | 51 | b2ch74:66 | "Thirty years of standing in doorways being delighted to be there," said Sim. "A man who.. |
 | 51 | b2ch74:74 | "The shortest of the sixteen was four minutes and about ten seconds, and that was the se.. |
-| 51 | b2ch74:102 | "There is a second half and you have not asked for it," said Sim, "and I am going to giv.. |
+| 51 | b2ch74:102 | "You have not asked me for the rest of it," said Sim, "and I am going to give it to you,.. |
 | 51 | b2ch74:118 | "I did not put it in on Monday because I did not know it was a thing." Sim said it witho.. |
 | 51 | b2ch74:126 | Sim stood up and put the cup and the saucer on the tray, which nobody had asked him to do. |
 | 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
@@ -19801,11 +19884,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch64:106` (Tag 31) - four, sixty
 - `b2ch64:118` (Tag 31) - one
 - `b2ch64:176` (Tag 31) - one
-- `b2ch64:182` (Tag 31) - one
 - `b2ch64:194` (Tag 31) - one
 - `b2ch64:258` (Tag 31) - four, nineteen
 - `b2ch64:266` (Tag 31) - four
-- `b2ch64:272` (Tag 31) - one
 - `b2ch66:42` (Tag 37) - eleven
 - `b2ch68:52` (Tag 42) - thirty
 - `b2ch68:70` (Tag 42) - eleven, four
@@ -19820,13 +19901,12 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch68:198` (Tag 42) - one, sixty-three, thirty
 - `b2ch68:228` (Tag 42) - one
 - `b2ch68:238` (Tag 42) - one
-- `b2ch72:138` (Tag 49) - four, two
+- `b2ch72:138` (Tag 49) - four, one, two
 - `b2ch72:146` (Tag 49) - one
 - `b2ch72:170` (Tag 49) - four, nineteen, twenty-six
 - `b2ch72:242` (Tag 49) - four, one
 - `b2ch72:250` (Tag 49) - one, two
 - `b2ch72:270` (Tag 49) - one, three, twenty
-- `b2ch72:274` (Tag 49) - one
 - `b2ch72:306` (Tag 49) - one
 - `b2ch73:420` (Tag 50) - six, thirty
 - `b2ch74:66` (Tag 51) - thirty

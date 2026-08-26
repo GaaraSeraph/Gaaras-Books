@@ -101,7 +101,7 @@ Nicht anderes Vokabular. Eine andere **rhetorische Maschine**.
 |---|---|---|
 | **Georgij** | Aussage, dann die Rechnung dahinter, dann was es kostet. Endet auf einem Preis | Ja, vollständig |
 | **Annie** | Sie erklärt nie die Sache, sie erklärt **ihn**. Beweismittel ist immer ein **Datum** | Nein, sie stellt eine bessere |
-| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** — siehe `doc/08-decisions.md` | |
+| | **Ausnahme, vom Autor gesetzt am 25.08.:** in **Kapitel 62** erklärt sie sich selbst. Sie ist aufgebracht, und der Regelbruch ist dort die Figur. **Nicht reparieren** - siehe `doc/08-decisions.md` | |
 | **Woo** | **Korrektur der Prämisse.** *"Then it is a business." - "No. Hear the whole of it."* | Nein, er berichtigt |
 | **Sim** | **Der andere.** Keine Aussagen über die Welt, sondern Angebote. Information kommt als Höflichkeit verpackt | Er beantwortet die Frage, die er dem anderen gern gestellt hätte |
 | **Jang** | **Sicherheitsstufen.** Sortiert vor der Übergabe in beobachtet / gehört / geraten und mischt nie | Ja, aber ausdrücklich sortiert |
