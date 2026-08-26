@@ -282,6 +282,20 @@ Zustand des anderen. Bei Woo bricht die Selbstauskunft durch, die er
 dreiundzwanzig Jahre nicht gegeben hat. **Wer im schlimmsten Moment nüchtern
 wird, ist Georgij.**
 
+**5. Eine Satzform. Und die ist das Hörbare.**
+Kwon baut vier kurze Sätze und dann einen langen, der die Rechnung trägt.
+Jang stellt die Grenze vor die Tatsache. Woo dreht den Satz des anderen um.
+Mrs Ha setzt drei Verneinungen vor ein Pronomen. Die Frau mit der Gießkanne
+redet in Bruchstücken, mit Ausrufezeichen und ohne ein einziges Prädikat, wo
+sie eins weglassen kann. **Gemessen wird sie an Satzlänge, Fragmentanteil,
+Satzanfang und Interpunktion** - und die vier stehen im Blatt, nicht im Gefühl.
+
+*(Diese Quelle hat bis zum 26.08. gefehlt, und ihr Fehlen ist der Grund, warum
+die Figuren austauschbar klangen: Anliegen, Maßeinheit und Zug sind alle drei
+**semantisch**. Man kann sie erfüllen und trotzdem den Satzbau des Hauses
+schreiben. Gemessen liegen achtzehn von neunzehn Figuren zwischen 7,6 und 11,6
+Wörtern je Satz und fangen mit *I* oder *You* an.)*
+
 ### Die drei Sperren
 
 **5. Kein Schluss, der Georgijs ist.**
@@ -325,6 +339,64 @@ der mit dem Charakter. Es zählt, was dasteht, nicht wie viel.
 | **haben eine Redeart** | Georgij · Annie · Park Sang-hoon · Chairman Woo · Jang · die Frau mit der Gießkanne |
 | **durchgearbeitet, mit Probe** | Sim · Mrs Ha |
 | **offen** | Hana · Mrs Jeon · Mr Ahn · Hwang · Yeom · Baek · Kwon · Mrs Seo · Byun · Nam Byung-hee · Sohn · Sunwoo · Koh · Hong · Chae · Mrs Gwak · Kang · Ye-rin |
+
+
+
+---
+
+## Dieselbe Tatsache in fünf Mündern
+
+**Erfundene Muster, nicht im Text.** Sie stehen hier, weil ein Regelwerk, das
+man nicht hören kann, keins ist. Die Tatsache ist bei allen fünf dieselbe:
+*jemand hat im April dreimal in dem Haus angerufen, und niemand ist
+drangegangen.*
+
+**Mr Kwon** - Zuschreibung vor Inhalt, Datum vorn, kurze Reihe und dann der eine
+lange Satz, der die Rechnung trägt:
+
+> "I telephoned in April. Three times. Nobody picked it up." He did not sit
+> down. "I have got the dates written down, because I write down the ones that
+> do not get answered, and that is four months of a habit I did not have before
+> April."
+
+**Jang** - keine Tatsache ohne Herkunft und Grenze, und die Grenze zuerst:
+
+> "Three calls in April. I have that from the exchange record and not from
+> anybody in the house." He stayed on his feet. "I have not asked whether they
+> heard it ring, because asking puts it in somebody's head, and I have not been
+> told to put it there."
+
+**Chairman Woo** - er korrigiert die Prämisse, statt zu antworten, und legt eine
+Regel des Gewerbes flach hin:
+
+> "You are asking who telephoned." Woo turned his hand over on the desk. "Ask
+> who was in that house in April to pick it up. A house that does not answer in
+> April is a house that has been emptied and not a house that is out."
+
+**Mrs Ha** - sie stellt richtig, wer es getan hat, und zählt in ihrer Ware:
+
+> "Not the office. Not a girl. Me." She had the book open in front of her. "I
+> dialled it three times in April, between the linen and the flowers, and I
+> stood there while it rang, and the third time I counted it out to forty."
+
+**Sim** - er richtet die Bequemlichkeit im Voraus ein und benennt die
+Einrichtung, damit sie keine Schuld wird:
+
+> "Sit down first, and have that while it is hot." He did not sit down himself.
+> "I telephoned three times in April. I am going to tell you what I heard, and I
+> have put you nearest the heater, because the part after it takes a while and
+> you have been in the rain."
+
+**Die Probe an dieser Probe:** decke die Namen ab. Wer die fünf nicht
+auseinanderhalten kann, dem hat das Regelwerk nicht geholfen - dann ist es
+falsch und nicht der Text.
+
+**Und was hier sichtbar wird und in keinem Blattfeld stand:** der Unterschied
+liegt zu einem guten Teil in der **Satzform**. Kwon baut vier kurze und einen
+langen. Jang stellt die Grenze vor die Tatsache. Woo dreht den Satz des anderen
+um. Mrs Ha setzt drei Verneinungen vor ein Pronomen. Sim stellt einen Imperativ
+für den anderen vor die eigene Auskunft. **Fünf verschiedene Bauweisen für einen
+Sachverhalt** - und keine davon ergibt sich aus Anliegen, Maßeinheit oder Zug.
 
 
 ## Sechs Regeln, die für jede Figur gelten
@@ -1363,7 +1435,7 @@ bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 |---|---|
 | **Wofür das Instrument da war** | *"I have been sent to be liked, **four hundred times**, by a man who has understood since before I met him that being liked is the only thing that goes into a house and stays there."* (K68) |
 | **Wie es endet** | *"I am sixty-three. **I have got one instrument and I have just found out what it was for.** I would rather have nothing than go on being it, and it turns out that a man can arrive at that in one afternoon after thirty years."* (K68) |
-| **Woher er kommt** | Mit **sechsunddreißig** aus einem Dienst herausgeholt (K75) |
+| **Woher er kommt** | **Hier stand *"mit sechsunddreißig aus einem Dienst herausgeholt (K75)"*. Falsch: Sim kommt in b2 K75 null Mal vor.** Der Mann von sechsunddreißig ist der Staatsanwalt - **Choi**, von Annies Vater gemacht. b2 K80: *"Your father did it to a prosecutor of thirty-six in the spring of two thousand and two. **Choi did it to a man who telephones about drainpipes for eleven years.**"* Der Mann mit den Regenrohren ist Sim, und **das** ist seine Herkunft: von Choi gemacht, auf dieselbe Weise |
 | **Was er nicht ist** | *"I have never been sent anywhere to be unpleasant to anybody." … "Not a raised voice, not a threat, not a bill produced on a table."* (K68) |
 
 ### Jang (58, acht Familien, dreißig Jahre)
@@ -2768,11 +2840,94 @@ dritte Replik gibt, muss dafür einen Grund im Kapitel haben.
 
 ---
 
-### Mr Kwon (18 Repliken)
+### Mr Kwon (63 Repliken über den Wechsel, b2 K14, K15, K69)
 
-**Der flache Bericht, aus dem der Weichmacher entfernt ist.** Er spricht aus
-Türrahmen und sagt Dinge zu Ende. *"Not a second. Not one of those things where a
-person takes a breath first."* Er stellt fest, wann etwas **nicht** passiert ist.
+**Hier standen drei Sätze. Das Blatt hat ihn nicht beschrieben, sondern nur
+nicht gestört.**
+
+#### Die Satzform - und die ist das Hörbare an ihm
+
+**Er redet, als würde mitgeschrieben.** Nicht steif - protokollarisch. Drei
+Formmerkmale, alle aus dem Text, alle an ihm messbar:
+
+**1. Zuschreibung vor Inhalt. Immer.** *"She said yes."* · *"She said no."* ·
+*"That is all she said."* · *"He said that she had written to six people on the
+first."* · *"He said the price was not his to quote."* Bei ihm kommt nie zuerst,
+was gesagt wurde, sondern **wer es gesagt hat**.
+
+**2. Kurze Feststellungen in Reihe, dann ein langer Satz, der die Rechnung
+trägt.** So baut er jeden wichtigen Abschnitt:
+
+> *"She said yes."* / *"Straight away. Not a second. Not one of those things
+> where a person takes a breath first."* / *"She said no."* / *"That is all she
+> said. One word. She could have said it was association business and none of us
+> would have been able to prove otherwise for a month, and by then it would have
+> been over."*
+
+**Vier kurze, dann einer, der alles zusammenzieht.** Wer ihm gleichmäßige Sätze
+schreibt, hat ihn verloren.
+
+**3. Das Datum steht vorn, nicht die Person.** *"On the twenty-seventh of April
+you drove into my yard."* · *"I telephoned in May. I telephoned in June, twice."*
+· *"I have done that road eleven times this year and never once at four."*
+
+#### Der Zug: er führt Protokoll, auch über sich
+
+**Er berichtet eine Sitzung als Sitzung** - wer den Vorsitz hatte, wer den
+Antrag verlas, wer sprach, wer sich enthielt, wer nicht stimmte. Und er
+markiert seine eigene Rolle darin wie eine Zeile im Protokoll:
+
+> *"Somebody has to say the words, so I said them."*
+> *"And then he abstained. He said the words and then he put his hand down and
+> did not vote."*
+
+**Sein Anliegen ist der Gegenschlag dazu:** über ihn hat niemand Protokoll
+geführt. *"You did not come back. That is the whole reason I am here, and it has
+taken me four months to be able to put it in one sentence."*
+
+#### Der unverwertbare Satz
+
+**Er hat einen, und er ist der beste Beleg dafür, dass unter ihm jemand ist:**
+
+> b2 K69: *"He is forty minutes from the girl. **He has a boat that does not go
+> anywhere and he telephones me on Sundays about the yard, and I let him,
+> because it costs me eleven minutes.**"*
+
+Sein Partner, dessen Frau gestorben ist. **Keine Szene braucht das.** Und es
+sagt alles: ein Mann, der die elf Minuten zählt und sie trotzdem gibt.
+
+#### Körper
+
+**Hier stand *"Er spricht aus Türrahmen".* Das ist der Vorgabe-Beat des Hauses**
+- 25 Fundstellen bei sechs Figuren, Annie allein dreimal.
+
+**Seiner ist der abgelehnte Stuhl**, zweimal in b2 K69: *"I am going to do it
+standing here because I did not come to be given a chair."* und *"I said I did
+not come to be given a chair."* **Und die Ausnahme ist die Szene:** als Georgij
+es nicht mehr anbietet, sondern anordnet - *"Sit down, and do not tell me you
+would rather stand"* - setzt er sich.
+
+#### Er darf nicht
+
+Die Negativdefinition **gehört ihm** (*"Not a second. Not one of those things
+where a person takes a breath first."*) - das ist die einzige Stelle, an der er
+das Buchtempo bricht, und sie ist protokollarisch: er schließt Lesarten aus, wie
+man einen Einwand zu Protokoll gibt.
+
+**Verboten ist der Schluss.** Er berichtet und rechnet auf; er folgert nicht.
+*"I have been thinking about it for two hours and I cannot decide whether…"* -
+**er hält das Nichtwissen fest, statt es aufzulösen.** Wer ihm eine Deutung
+gibt, macht Georgij aus ihm.
+
+#### Anwesenheitsprobe
+
+| Zug | Muster | mind. |
+|---|---|---|
+| Zuschreibung vor Inhalt | `\b(She|He|They) said\b` | 1 |
+| Datum oder Zahl am Satzanfang | `(?:^|(?<=[.?!]) )(On the \w+|I telephoned|Four hours|In (May|June|April))` | 1 |
+| kurze Reihe vor dem langen Satz | `\.\s+[A-Z][^.]{1,22}\.\s+[A-Z][^.]{1,22}\.` | 1 |
+| führt Protokoll über sich | `(I said them|I did not come to be given|to put it in one sentence)` | 0 |
+
 
 ### Mr Hong (7 zugeordnete Repliken, 61 Jahre, neunzehn Jahre derselbe Tisch)
 
