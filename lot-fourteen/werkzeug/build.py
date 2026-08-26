@@ -490,7 +490,9 @@ def build_reader(root, chapters):
 # diese Arbeit wird einmal gemacht, am Ende des Kuerzungslaufs. Bis dahin sind
 # Luecken erlaubt - aber angemeldet, sonst faellt eine vergessene Datei nicht
 # mehr auf. Begruendung in doc/15-kuerzen.md unter "Das Verfahren".
-GESTRICHEN = {}
+GESTRICHEN = {
+    (2, 79): "am 26.08. mit 78 zusammengelegt",
+}
 
 
 def main():

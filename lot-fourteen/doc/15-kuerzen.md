@@ -273,8 +273,8 @@ gegengeprüft.*
 | **75** | *The man at the table* | **Tragend.** Die Antwort, die vier Briefe, die Wand (er war nicht gekauft, er wurde gegeben) | HALTEN |
 | **76** | *What came back* | **Tragend.** Der zurückgeschickte Brief, Register B 9. **Und das Formmuster für alles Kürzen** | HALTEN |
 | **77** | *The room at the back* | **Tragend.** Das Zimmer wird ausgeräumt, der Dachraum am 22. | STRAFFEN |
-| **78** | *The number* (v1.1) | **Tragend.** Die Leitung ist tot und Sim kommt zum ersten Mal heraus; dazu ihr Entschluss, Woo vier Fragen **nicht** zu stellen | ZUSAMMENZIEHEN mit 79 |
-| **79** | *What it is worth* (v1.2) | **Tragend.** Woos beste Szene im Buch, und die einzige Zusage mit einem Termin, den niemand nachschlagen kann | **offene Frage, siehe unten** |
+| **78** | *The only line out* (v1.2) | **Tragend, und am 26.08. mit 79 zusammengelegt.** Die Leitung ist tot, Sim kommt heraus, und am Montag verschliesst sie Woo. 4030 Wörter | **AUSGEFÜHRT** |
+| **79** | - | **AUSGEFÜHRT 26.08.: in 78 aufgegangen.** Nummer bleibt frei | ERSETZT |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
@@ -594,10 +594,12 @@ keine Kategorie brachte; sie steht hier nicht.
 
 ---
 
-## Offen: trägt Kapitel 79 seinen Platz?
+## Erledigt am 26.08.: 79 trug seinen Platz nicht, und ist jetzt die zweite Hälfte von 78
 
-**Nicht ausgeführt. Das ist ein Befund und eine Frage an den Autor, keine
-beschlossene Streichung.** Stand 26.08. abends.
+**Ausgeführt am 26.08. abends.** Nicht als Streichung, sondern als
+Zusammenlegung: 79 ist die zweite Hälfte von Kapitel 78 geworden, die Nummer 79
+bleibt frei, und **kein Satz von Woo ist verloren gegangen**. Der Befund, der
+dazu geführt hat, steht unverändert unten.
 
 **Der Anlass war ein anderer und ist erledigt.** Der Autor hat am 26.08.
 gemeldet, dass der Konflikt über die Ladefläche nicht aufgeht: die Hartfläche
@@ -644,4 +646,45 @@ Nummer 79 bleibt frei, und in 80, 85 und 90 sind je ein bis zwei Absätze zu
 Geldreparatur. Sie ist nicht gemergt und sie ist nicht aktuell - wer sie nimmt,
 muss die Geldreparatur aus `fd3e401` darüberlegen. **Sie liegt da, damit die
 Arbeit nicht zweimal gemacht wird, falls die Entscheidung so ausfällt.**
+
+### Was die Zusammenlegung tatsächlich gemacht hat
+
+**Streichen wäre falsch gewesen**, weil Woos Szene in der reparierten Fassung
+das Beste ist, was diese Figur im Buch hat. **Stehenlassen wäre auch falsch
+gewesen**, weil ein eigenes Kapitel eine eigene Bewegung verspricht und diese
+hier keine hat. Die dritte Möglichkeit kostet nichts von beidem.
+
+**Der inhaltliche Grund, und er ist besser als der strukturelle:** beide Hälften
+tun dasselbe. Am Donnerstag wird die letzte Leitung zu Ahn Jung-hee gekappt, von
+jemand anderem. Am Montag wird der letzte Mann verschlossen, der noch etwas
+beantworten könnte, und das tut Annie selbst. Zwei Türen gehen zu, und eine
+davon zieht sie zu. Als zwei Kapitel liest sich das als Nachricht und dann als
+Abschweifung. Als eines liest es sich als das, was es ist.
+
+**Neuer Titel: *The only line out*.** Aus dem Text, Annie zu Sim über Ahn
+Jung-hee: *"She spent her last one on you because you were the only line out."*
+Er trägt beide Hälften. *The number* trug nur die erste.
+
+**Gespart: rund achthundert Wörter, alle am Freitag.** Annie hatte ihre vier
+Fragen und ihre Begründung zweimal gesagt, einmal zu Georgij am Freitag und
+einmal zu Woo am Montag, in fast denselben Worten (*"a man of seventy-eight who
+has been told what happened in his own case and cannot un-know it"*). Sie sagt
+es jetzt bei Woo, weil dort jemand antworten kann. Der Freitag behält, was der
+Montag nicht wiederholt: Georgijs *"You are not going out there to spare him"*,
+die beiden Gründe, warum er im Raum sein soll, und das Blatt mit den drei Arten.
+
+**Zwei Fehler nebenbei behoben, beide Reste der gestrichenen Ostseite:**
+
+- Der Montag sprach von *"the sheet with the three numbers on it"*. Seit der
+  Geldreparatur trägt das Blatt drei **Arten** von Antwort und keine Zahlen.
+- Woo sagte mitten in der Belehrung *"and then we are going to talk about
+  ground"*. Es gibt kein Grundstück mehr. Steht jetzt *"and we will get on to
+  what you came for"*.
+
+**Und ein Drittel der Belehrung ist weg**, nämlich *"You do not know it in the
+way you are going to know it. You are twenty-six."* Das war die Stelle, an der
+79 gegen `doc/08` verstieß: Kapitel 73 ist die letzte, an der jemand eine Lesart
+von Georgij umdreht. Woos Urteil über die fünfundzwanzig Tage bleibt, weil
+Georgij es selbst ausspricht (*"It was me choosing the morning"*) und Woo es nur
+bestätigt. Das ist keine Umdrehung.
 

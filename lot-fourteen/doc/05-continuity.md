@@ -3641,7 +3641,17 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The number* (v1.1) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, vier Fragen nicht zu stellen.**
+- **Band 2, Kapitel 78** *The only line out* (v1.2) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+
+  **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
+  Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst
+  Annie den letzten Mann, der noch etwas beantworten koennte. Gespart wurden
+  rund achthundert Woerter am Freitag, wo der Text den Montag vorwegnahm - die
+  vier Fragen und ihre Begruendung standen zweimal da, einmal zu Georgij und
+  einmal zu Woo. **Sie stehen jetzt bei Woo, weil dort jemand antworten kann.**
+  Titel neu, weil er beide Haelften traegt: Annie zu Sim, ueber Ahn Jung-hee,
+  *"you were the only line out"*. Begruendung in `doc/15-kuerzen.md`.
+  **Die Nummer 79 bleibt frei und es wird nicht umnummeriert.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Jeon faengt in Gwangyang an**, und der Text weiss ueber den Tag nichts
@@ -3690,9 +3700,9 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und **was ein Mann ueber einen Raum erinnert, in dem er war, und was an dem
     Tag aufhoert zu existieren, an dem er es tut.**
   - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
-    Siehe Kapitel 79.
+    Siehe den Montag weiter unten im selben Kapitel.
 
-- **Band 2, Kapitel 79** *What it is worth* (v1.2) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
+  **Der Montag, bis 26.08. Kapitel 79** *What it is worth* - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit

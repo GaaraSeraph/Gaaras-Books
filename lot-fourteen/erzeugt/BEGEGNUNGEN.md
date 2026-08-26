@@ -18,9 +18,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 908 | 99 (b1ch01-b2ch90) | 1 | 74 |
+| Annie | 907 | 98 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 252 | 44 (b1ch07-b2ch90) | 1 | 74 |
+| Chairman Woo | 252 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
 | Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
@@ -36,7 +36,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Baek | 38 | 12 (b1ch05-b2ch87) | 2 | 55 |
 | Choi Dae-ho | 36 | 20 (b1ch07-b2ch88) | 2 | 61 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
-| Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
+| Mr Ku | 35 | 23 (b1ch05-b2ch78) | 3 | 60 |
 | Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -71,7 +71,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Annie
 
-908 Nennungen in 99 Kapiteln.
+907 Nennungen in 98 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -919,21 +919,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:56 | Annie looked at him for slightly longer than she needed to. |
 | 6 | b2ch78:68 | "You did not know. She did." Annie did not blink. "She spent her last one on you because.. |
 | 6 | b2ch78:82 | Georgij was standing behind Annie in the hall and did not look at her before he answered.. |
-| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
-| 7 | b2ch78:124 | Annie did not take any time over it. |
-| 7 | b2ch78:138 | "That is the second time this month you have done that to me and I want it to go on happ.. |
-| 7 | b2ch78:148 | Annie looked at him for a moment longer than she usually does. |
-| 7 | b2ch78:162 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
-| 7 | b2ch78:194 | Annie stood in the passage with the sheet in her hand. |
-| 10 | b2ch79:26 | "I am here to tell you why I am not going to," said Annie. "And there is a thing before .. |
-| 10 | b2ch79:36 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
-| 10 | b2ch79:70 | Annie did not defend it. |
-| 10 | b2ch79:108 | Annie let a moment go past. |
-| 10 | b2ch79:130 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
-| 10 | b2ch79:140 | Annie did not answer that. |
-| 10 | b2ch79:174 | Annie stood in the hall. |
-| 10 | b2ch79:186 | "Say what he did in the hall," said Annie. |
-| 10 | b2ch79:198 | Annie looked out of the window for a while. |
+| 7 | b2ch78:100 | "Chairman Woo," said Annie. |
+| 7 | b2ch78:112 | "That is the second time this month you have done that to me and I want it to go on happ.. |
+| 7 | b2ch78:122 | Annie looked at him for a moment longer than she usually does. |
+| 7 | b2ch78:136 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
+| 7 | b2ch78:160 | Annie stood in the passage with the sheet in her hand. |
+| 10 | b2ch78:188 | "I am here to tell you why I am not going to," said Annie. "And there is a thing before .. |
+| 10 | b2ch78:198 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
+| 10 | b2ch78:232 | Annie did not defend it. |
+| 10 | b2ch78:270 | Annie let a moment go past. |
+| 10 | b2ch78:292 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
+| 10 | b2ch78:302 | Annie did not answer that. |
+| 10 | b2ch78:336 | Annie stood in the hall. |
+| 10 | b2ch78:348 | "Say what he did in the hall," said Annie. |
+| 10 | b2ch78:360 | Annie looked out of the window for a while. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 12 | b2ch80:20 | The second thought was worse and he put it away from him. A man of seventy-eight who has.. |
 | 4 | b2ch80:30 | "Say the number," said Annie. |
@@ -1222,10 +1221,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:230` (Tag 3) - four, nine, twenty
 - `b2ch78:36` (Tag 6) - eight, eleven, twenty
 - `b2ch78:68` (Tag 6) - one
-- `b2ch78:138` (Tag 7) - four, one, six
-- `b2ch78:162` (Tag 7) - one, two
-- `b2ch79:36` (Tag 10) - fifty, twenty, twenty-five
-- `b2ch79:130` (Tag 10) - four, one, seventy-eight
+- `b2ch78:112` (Tag 7) - four, one, six
+- `b2ch78:136` (Tag 7) - one, two
+- `b2ch78:198` (Tag 10) - fifty, twenty, twenty-five
+- `b2ch78:292` (Tag 10) - four, one, seventy-eight
 - `b2ch80:20` (Tag 12) - one, seventy-eight
 - `b2ch80:80` (Tag 4) - eight
 - `b2ch80:122` (Tag 4) - four hundred and eighty-one million, one, three, twenty
@@ -1655,7 +1654,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Chairman Woo
 
-252 Nennungen in 44 Kapiteln.
+252 Nennungen in 43 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -1892,21 +1891,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
 | 56 | b2ch76:24 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
 | 59 | b2ch76:50 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
-| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
-| 10 | b2ch79:14 | The house is older than the road it stands on and has been added to twice, both times ba.. |
-| 10 | b2ch79:38 | Woo did not move at all. |
-| 10 | b2ch79:46 | "How much of it," said Woo. |
-| 10 | b2ch79:56 | Woo looked at the table for a while. |
-| 10 | b2ch79:66 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
-| 10 | b2ch79:78 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
-| 10 | b2ch79:94 | "Yes," said Woo. "It was." |
-| 10 | b2ch79:104 | "You do not know it in the way you are going to know it. You are twenty-six." Woo did no.. |
-| 10 | b2ch79:112 | Woo put one hand flat. |
-| 10 | b2ch79:120 | "Why," said Woo. |
-| 10 | b2ch79:126 | Woo looked at her properly for the first time since the hall. |
-| 10 | b2ch79:136 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
-| 10 | b2ch79:144 | "You have taken something off me," said Woo. |
-| 10 | b2ch79:178 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
+| 7 | b2ch78:100 | "Chairman Woo," said Annie. |
+| 10 | b2ch78:176 | The house is older than the road it stands on and has been added to twice, both times ba.. |
+| 10 | b2ch78:200 | Woo did not move at all. |
+| 10 | b2ch78:208 | "How much of it," said Woo. |
+| 10 | b2ch78:218 | Woo looked at the table for a while. |
+| 10 | b2ch78:228 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
+| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
+| 10 | b2ch78:256 | "Yes," said Woo. "It was." |
+| 10 | b2ch78:266 | "Then I will say the useful part and we will get on to what you came for." Woo did not r.. |
+| 10 | b2ch78:274 | Woo put one hand flat. |
+| 10 | b2ch78:282 | "Why," said Woo. |
+| 10 | b2ch78:288 | Woo looked at her properly for the first time since the hall. |
+| 10 | b2ch78:298 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
+| 10 | b2ch78:306 | "You have taken something off me," said Woo. |
+| 10 | b2ch78:340 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
 | 12 | b2ch80:6 | Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and nei.. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
@@ -2059,11 +2058,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
 - `b2ch76:24` (Tag 56) - five, one, seven
 - `b2ch76:50` (Tag 59) - one, three
-- `b2ch79:66` (Tag 10) - four
-- `b2ch79:78` (Tag 10) - twenty-five
-- `b2ch79:104` (Tag 10) - one, twenty-six
-- `b2ch79:112` (Tag 10) - one
-- `b2ch79:178` (Tag 10) - four, twenty-four
+- `b2ch78:228` (Tag 10) - four
+- `b2ch78:240` (Tag 10) - twenty-five
+- `b2ch78:266` (Tag 10) - one
+- `b2ch78:274` (Tag 10) - one
+- `b2ch78:340` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
 
 ---
@@ -4109,7 +4108,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Mr Ku
 
-35 Nennungen in 24 Kapiteln.
+35 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -4147,7 +4146,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:36 | Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask.. |
 | 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
 | 6 | b2ch78:80 | Mr Ku had the car door open on the drive and had been standing beside it for four minute.. |
-| 10 | b2ch79:10 | Mr Ku had them there at four minutes to ten. |
+| 10 | b2ch78:172 | Mr Ku had them there at four minutes to ten. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -4171,7 +4170,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:36` (Tag 6) - eight, eleven, twenty
 - `b2ch78:74` (Tag 6) - thirty, two
 - `b2ch78:80` (Tag 6) - four
-- `b2ch79:10` (Tag 10) - four, ten
+- `b2ch78:172` (Tag 10) - four, ten
 
 ---
 

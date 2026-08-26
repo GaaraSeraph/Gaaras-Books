@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 17 Dokumente am Stueck plus das Begegnungsregister. 304.800 Woerter.
+Alle 17 Dokumente am Stueck plus das Begegnungsregister. 305.316 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -279,6 +279,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Kapitel 45 ist der Modellfall, und es gibt nur diesen einen](#kapitel-45-ist-der-modellfall-und-es-gibt-nur-diesen-einen)
   - [Zwei Messungen, die die Deutung oben einschraenken](#zwei-messungen-die-die-deutung-oben-einschraenken)
   - [Pruefumfang](#pruefumfang)
+  - [Was die Zusammenlegung tatsächlich gemacht hat](#was-die-zusammenlegung-tats-chlich-gemacht-hat)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
@@ -6585,7 +6586,17 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     herauszufinden, ob es die Nummer noch gibt. *"It is becoming a habit and I
     have decided not to look at it."*
 
-- **Band 2, Kapitel 78** *The number* (v1.1) - **Tag 363 und 364, Do 1. und Fr 2. Oktober. Die Leitung wird gekappt, und sie entscheidet, vier Fragen nicht zu stellen.**
+- **Band 2, Kapitel 78** *The only line out* (v1.2) - **Tag 363, 364 und 367, Do 1. bis Mo 5. Oktober. Zwei Leitungen werden gekappt, und die zweite kappt sie selbst.**
+
+  **Am 26.08. aus 78 und 79 zusammengelegt.** Beide Haelften tun dasselbe: am
+  Donnerstag faellt die letzte Leitung zu Ahn Jung-hee, am Montag verschliesst
+  Annie den letzten Mann, der noch etwas beantworten koennte. Gespart wurden
+  rund achthundert Woerter am Freitag, wo der Text den Montag vorwegnahm - die
+  vier Fragen und ihre Begruendung standen zweimal da, einmal zu Georgij und
+  einmal zu Woo. **Sie stehen jetzt bei Woo, weil dort jemand antworten kann.**
+  Titel neu, weil er beide Haelften traegt: Annie zu Sim, ueber Ahn Jung-hee,
+  *"you were the only line out"*. Begruendung in `doc/15-kuerzen.md`.
+  **Die Nummer 79 bleibt frei und es wird nicht umnummeriert.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Jeon faengt in Gwangyang an**, und der Text weiss ueber den Tag nichts
@@ -6634,9 +6645,9 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und **was ein Mann ueber einen Raum erinnert, in dem er war, und was an dem
     Tag aufhoert zu existieren, an dem er es tut.**
   - **Entschieden am 25.08. (Autor):** sie sagt es ihm, und zwar **zuerst**.
-    Siehe Kapitel 79.
+    Siehe den Montag weiter unten im selben Kapitel.
 
-- **Band 2, Kapitel 79** *What it is worth* (v1.2) - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
+  **Der Montag, bis 26.08. Kapitel 79** *What it is worth* - **Tag 367, Mo 5. Oktober, bei Woo. Erst das Wissen, dann die Bitte, die sie nicht stellt, und er nimmt ihr die Entscheidung wieder ab.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Sie nimmt nichts mit.** Keine Mappe, kein Plan, nicht einmal das Blatt mit
@@ -17141,15 +17152,15 @@ wird.**
 - [BEZAHLT] **B2 71** Mrs Jeon an Georgij · gesagt Tag 343 · faellig Tag 346 · "I will telephone Gwangyang on Monday." · B2 72, am Montag um zwanzig nach zehn und nicht am Abend
 - [BEZAHLT] **B2 74** Annie an Georgij · gesagt Tag 350 · faellig Tag 353 · das Geld soll bis zum Zweiundzwanzigsten auf einem eigenen Konto liegen · B2 76, am Montag, in vierzig Sekunden auf dem Weg zum Wagen: ein Konto bei einer Bank, die sie sonst nicht benutzt, ihr Name darauf, sonst nichts darin. **Woher es kommt, sagt sie nicht, und er fragt nicht**
 - [BEZAHLT] **B2 77** Annie an Georgij · gesagt Tag 360 · faellig Tag 364 · "I will tell you on Friday who he is." · B2 78, am Freitag um neun, im Stehen: **Chairman Woo**, und es sind vier Fragen, die sie ihm nicht stellen wird
-- [OFFEN] **B2 79** Chairman Woo an Annie · gesagt Tag 367 · faellig **am Tag seines Todes** · vier Antworten in seiner Handschrift, beim Anwalt, versiegelt, "and not one hour before" · **Die einzige Zusage im Buch mit einem Termin, den niemand nachschlagen kann.** B2 90 bestaetigt nur, dass der Umschlag existiert
-- [BEZAHLT] **B2 79** Annie an Georgij · gesagt Tag 367 · faellig Tag 369 · "He is going to write them tonight." · B2 80: am Mittwoch kommt nichts und am Donnerstag auch nicht, und Georgij rechnet aus, dass genau das die Bestaetigung ist
+- [OFFEN] **B2 78** Chairman Woo an Annie · gesagt Tag 367 · faellig bei seinem Tod · vier Antworten in seiner Handschrift, beim Anwalt, versiegelt, "and not one hour before" · **Die einzige Zusage im Buch mit einem Termin, den niemand nachschlagen kann.** B2 90 bestaetigt nur, dass der Umschlag existiert
+- [BEZAHLT] **B2 78** Annie an Georgij · gesagt Tag 367 · faellig Tag 369 · "He is going to write them tonight." · B2 80: am Mittwoch kommt nichts und am Donnerstag auch nicht, und Georgij rechnet aus, dass genau das die Bestaetigung ist
 - [KEINE] **B2 80** Georgij an Annie · gesagt Tag 371 · faellig bei einer Absage von Mr Hwang · "If he refuses after that, we do not go back." · **Der Ausloeser ist nie eingetreten:** Hwang hat in B2 81 in etwa vierzig Sekunden zugesagt. Die Selbstbindung steht damit ungeprueft im Buch, und das ist ihr Zustand und kein Versaeumnis
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Donnerstag neun Uhr bei Mr Hwang, und **er geht allein** · B2 81, zwei Minuten vor neun
 - [BEZAHLT] **B2 80** Annie an Georgij · gesagt Tag 371 · faellig Tag 377 · Mr Hwang wird **in derselben Stunde** auch nach Moon Hae-sook gefragt · B2 81, im Stehen, bevor er geht. **Die Antwort ist: nichts.** Kein Los, keine Nummer, kein Eintrag im ganzen Haus
 - [BEZAHLT] **B2 32** Mr Hwang an Georgij · gesagt Tag 238 · faellig bei dem Tag, an dem die Seite existiert · Er moechte, dass irgendwo auf der Welt ein Blatt existiert, das sagt, dass sie das Buch hingehalten hat und er es nicht genommen hat · B2 81: **Georgij sagt ihm, dass es existiert, und weigert sich, ihm eine Zeile daraus vorzulesen**, weil Mrs Jeon es an die Bedingung geknuepft hat, es nicht zu benutzen
 - [BEZAHLT] **B2 81** Georgij an Mr Hwang · gesagt Tag 377 · faellig Tag 384 · "Come back with an answer about the series and do not take longer than a week about it." · B2 82, am Donnerstag um zwanzig nach acht, sieben Tage nach der Frage. **Die Antwort ist ja, in einem Wort und ungeschmueckt**
 - [BEZAHLT] **B2 81** Mr Hwang an Georgij · gesagt Tag 377 · faellig bei dem Tag, an dem das Formular kommt · Er unterschreibt die Abtretung, sobald Weisung, Preis und vier Seiten da sind · B2 86: gegengezeichnet am Freitag, dem 30. Oktober, an seinem eigenen Schreibtisch, mit niemandem im Gebaeude
-- [BEZAHLT] **B2 78** Annie an Georgij · gesagt Tag 364 · faellig Tag 367 · "Monday... at ten, and I am going to him... And you are going to be in the room." · B2 79, vier Minuten vor zehn, und sie nimmt nichts mit
+- [BEZAHLT] **B2 78** Annie an Georgij · gesagt Tag 364 · faellig Tag 367 · "Monday, at ten... And you are going to be in the room." · **im selben Kapitel**, seit der Zusammenlegung: vier Minuten vor zehn, und sie nimmt nichts mit
 - [BEZAHLT] **B2 77** Sim an Georgij · gesagt Tag 360 · faellig Tag 363 · "I will telephone that number on Thursday to find out whether it still exists." · B2 78, dreimal an einem Abend: einundvierzig Klingelzeichen, dann nichts, dann der Ton. **Die Nummer ist weg**
 - [KEINE] **B2 75** Annie an die vier Spediteure · gesagt Tag 350 · faellig offen · "if anybody ever tells them otherwise they are to be shown the letter" · **Keine Zusage mit Faelligkeit, sondern eine Buergschaft ohne Ablauf.** Eingeloest in dem Moment, in dem der Brief existiert, und nie faellig
 - [OFFEN] **B2 73** Mr Ahn an sich selbst · gesagt Tag 347 · faellig bei Ahn Jung-hees Rueckkehr · "It goes in that corner and it stays there... until she comes in here and switches it off herself." · -
@@ -19693,8 +19704,8 @@ gegengeprüft.*
 | **75** | *The man at the table* | **Tragend.** Die Antwort, die vier Briefe, die Wand (er war nicht gekauft, er wurde gegeben) | HALTEN |
 | **76** | *What came back* | **Tragend.** Der zurückgeschickte Brief, Register B 9. **Und das Formmuster für alles Kürzen** | HALTEN |
 | **77** | *The room at the back* | **Tragend.** Das Zimmer wird ausgeräumt, der Dachraum am 22. | STRAFFEN |
-| **78** | *The number* (v1.1) | **Tragend.** Die Leitung ist tot und Sim kommt zum ersten Mal heraus; dazu ihr Entschluss, Woo vier Fragen **nicht** zu stellen | ZUSAMMENZIEHEN mit 79 |
-| **79** | *What it is worth* (v1.2) | **Tragend.** Woos beste Szene im Buch, und die einzige Zusage mit einem Termin, den niemand nachschlagen kann | **offene Frage, siehe unten** |
+| **78** | *The only line out* (v1.2) | **Tragend, und am 26.08. mit 79 zusammengelegt.** Die Leitung ist tot, Sim kommt heraus, und am Montag verschliesst sie Woo. 4030 Wörter | **AUSGEFÜHRT** |
+| **79** | - | **AUSGEFÜHRT 26.08.: in 78 aufgegangen.** Nummer bleibt frei | ERSETZT |
 | **80** | *The only door* | Das Geld, Mr Hwang als einzige Tür, die Regel des Bandes | STRAFFEN |
 | **81** | *The permanent series* | **Tragend.** Hwangs Zusage, der Preis in der permanenten Reihe, und die Antwort auf Moon Hae-sook: nichts | HALTEN |
 | **82** | *Eleven years of paying for it* | **Tragend.** Baek Jun-hos Einloesung, die vierundvierzig Zahlungen, Annies Ja nach sieben Tagen Suche | HALTEN |
@@ -20014,10 +20025,12 @@ keine Kategorie brachte; sie steht hier nicht.
 
 ---
 
-## Offen: trägt Kapitel 79 seinen Platz?
+## Erledigt am 26.08.: 79 trug seinen Platz nicht, und ist jetzt die zweite Hälfte von 78
 
-**Nicht ausgeführt. Das ist ein Befund und eine Frage an den Autor, keine
-beschlossene Streichung.** Stand 26.08. abends.
+**Ausgeführt am 26.08. abends.** Nicht als Streichung, sondern als
+Zusammenlegung: 79 ist die zweite Hälfte von Kapitel 78 geworden, die Nummer 79
+bleibt frei, und **kein Satz von Woo ist verloren gegangen**. Der Befund, der
+dazu geführt hat, steht unverändert unten.
 
 **Der Anlass war ein anderer und ist erledigt.** Der Autor hat am 26.08.
 gemeldet, dass der Konflikt über die Ladefläche nicht aufgeht: die Hartfläche
@@ -20064,6 +20077,47 @@ Nummer 79 bleibt frei, und in 80, 85 und 90 sind je ein bis zwei Absätze zu
 Geldreparatur. Sie ist nicht gemergt und sie ist nicht aktuell - wer sie nimmt,
 muss die Geldreparatur aus `fd3e401` darüberlegen. **Sie liegt da, damit die
 Arbeit nicht zweimal gemacht wird, falls die Entscheidung so ausfällt.**
+
+### Was die Zusammenlegung tatsächlich gemacht hat
+
+**Streichen wäre falsch gewesen**, weil Woos Szene in der reparierten Fassung
+das Beste ist, was diese Figur im Buch hat. **Stehenlassen wäre auch falsch
+gewesen**, weil ein eigenes Kapitel eine eigene Bewegung verspricht und diese
+hier keine hat. Die dritte Möglichkeit kostet nichts von beidem.
+
+**Der inhaltliche Grund, und er ist besser als der strukturelle:** beide Hälften
+tun dasselbe. Am Donnerstag wird die letzte Leitung zu Ahn Jung-hee gekappt, von
+jemand anderem. Am Montag wird der letzte Mann verschlossen, der noch etwas
+beantworten könnte, und das tut Annie selbst. Zwei Türen gehen zu, und eine
+davon zieht sie zu. Als zwei Kapitel liest sich das als Nachricht und dann als
+Abschweifung. Als eines liest es sich als das, was es ist.
+
+**Neuer Titel: *The only line out*.** Aus dem Text, Annie zu Sim über Ahn
+Jung-hee: *"She spent her last one on you because you were the only line out."*
+Er trägt beide Hälften. *The number* trug nur die erste.
+
+**Gespart: rund achthundert Wörter, alle am Freitag.** Annie hatte ihre vier
+Fragen und ihre Begründung zweimal gesagt, einmal zu Georgij am Freitag und
+einmal zu Woo am Montag, in fast denselben Worten (*"a man of seventy-eight who
+has been told what happened in his own case and cannot un-know it"*). Sie sagt
+es jetzt bei Woo, weil dort jemand antworten kann. Der Freitag behält, was der
+Montag nicht wiederholt: Georgijs *"You are not going out there to spare him"*,
+die beiden Gründe, warum er im Raum sein soll, und das Blatt mit den drei Arten.
+
+**Zwei Fehler nebenbei behoben, beide Reste der gestrichenen Ostseite:**
+
+- Der Montag sprach von *"the sheet with the three numbers on it"*. Seit der
+  Geldreparatur trägt das Blatt drei **Arten** von Antwort und keine Zahlen.
+- Woo sagte mitten in der Belehrung *"and then we are going to talk about
+  ground"*. Es gibt kein Grundstück mehr. Steht jetzt *"and we will get on to
+  what you came for"*.
+
+**Und ein Drittel der Belehrung ist weg**, nämlich *"You do not know it in the
+way you are going to know it. You are twenty-six."* Das war die Stelle, an der
+79 gegen `doc/08` verstieß: Kapitel 73 ist die letzte, an der jemand eine Lesart
+von Georgij umdreht. Woos Urteil über die fünfundzwanzig Tage bleibt, weil
+Georgij es selbst ausspricht (*"It was me choosing the morning"*) und Woo es nur
+bestätigt. Das ist keine Umdrehung.
 
 ---
 
@@ -20401,9 +20455,9 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 | Figur | Nennungen | Kapitel | erster Tag | letzter Tag |
 |---|---|---|---|---|
-| Annie | 908 | 99 (b1ch01-b2ch90) | 1 | 74 |
+| Annie | 907 | 98 (b1ch01-b2ch90) | 1 | 74 |
 | Park Sang-hoon | 275 | 42 (b1ch10-b2ch58) | 1 | 74 |
-| Chairman Woo | 252 | 44 (b1ch07-b2ch90) | 1 | 74 |
+| Chairman Woo | 252 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
 | Sim | 142 | 23 (b2ch31-b2ch89) | 2 | 53 |
@@ -20419,7 +20473,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Mr Baek | 38 | 12 (b1ch05-b2ch87) | 2 | 55 |
 | Choi Dae-ho | 36 | 20 (b1ch07-b2ch88) | 2 | 61 |
 | Mr Hong | 36 | 11 (b1ch07-b2ch36) | 22 | 55 |
-| Mr Ku | 35 | 24 (b1ch05-b2ch79) | 3 | 60 |
+| Mr Ku | 35 | 23 (b1ch05-b2ch78) | 3 | 60 |
 | Ahn Jung-hee | 34 | 16 (b2ch56-b2ch90) | 4 | 53 |
 | Kang Ji-hoon | 32 | 8 (b1ch09-b1ch31) | 22 | 74 |
 | Kim Do-yun | 31 | 9 (b1ch14-b1ch33) | 6 | 74 |
@@ -20454,7 +20508,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Annie
 
-908 Nennungen in 99 Kapiteln.
+907 Nennungen in 98 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -21302,21 +21356,20 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:56 | Annie looked at him for slightly longer than she needed to. |
 | 6 | b2ch78:68 | "You did not know. She did." Annie did not blink. "She spent her last one on you because.. |
 | 6 | b2ch78:82 | Georgij was standing behind Annie in the hall and did not look at her before he answered.. |
-| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
-| 7 | b2ch78:124 | Annie did not take any time over it. |
-| 7 | b2ch78:138 | "That is the second time this month you have done that to me and I want it to go on happ.. |
-| 7 | b2ch78:148 | Annie looked at him for a moment longer than she usually does. |
-| 7 | b2ch78:162 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
-| 7 | b2ch78:194 | Annie stood in the passage with the sheet in her hand. |
-| 10 | b2ch79:26 | "I am here to tell you why I am not going to," said Annie. "And there is a thing before .. |
-| 10 | b2ch79:36 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
-| 10 | b2ch79:70 | Annie did not defend it. |
-| 10 | b2ch79:108 | Annie let a moment go past. |
-| 10 | b2ch79:130 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
-| 10 | b2ch79:140 | Annie did not answer that. |
-| 10 | b2ch79:174 | Annie stood in the hall. |
-| 10 | b2ch79:186 | "Say what he did in the hall," said Annie. |
-| 10 | b2ch79:198 | Annie looked out of the window for a while. |
+| 7 | b2ch78:100 | "Chairman Woo," said Annie. |
+| 7 | b2ch78:112 | "That is the second time this month you have done that to me and I want it to go on happ.. |
+| 7 | b2ch78:122 | Annie looked at him for a moment longer than she usually does. |
+| 7 | b2ch78:136 | "Two reasons and you will only like the first one." Annie did not look away from the win.. |
+| 7 | b2ch78:160 | Annie stood in the passage with the sheet in her hand. |
+| 10 | b2ch78:188 | "I am here to tell you why I am not going to," said Annie. "And there is a thing before .. |
+| 10 | b2ch78:198 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
+| 10 | b2ch78:232 | Annie did not defend it. |
+| 10 | b2ch78:270 | Annie let a moment go past. |
+| 10 | b2ch78:292 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
+| 10 | b2ch78:302 | Annie did not answer that. |
+| 10 | b2ch78:336 | Annie stood in the hall. |
+| 10 | b2ch78:348 | "Say what he did in the hall," said Annie. |
+| 10 | b2ch78:360 | Annie looked out of the window for a while. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 12 | b2ch80:20 | The second thought was worse and he put it away from him. A man of seventy-eight who has.. |
 | 4 | b2ch80:30 | "Say the number," said Annie. |
@@ -21605,10 +21658,10 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch77:230` (Tag 3) - four, nine, twenty
 - `b2ch78:36` (Tag 6) - eight, eleven, twenty
 - `b2ch78:68` (Tag 6) - one
-- `b2ch78:138` (Tag 7) - four, one, six
-- `b2ch78:162` (Tag 7) - one, two
-- `b2ch79:36` (Tag 10) - fifty, twenty, twenty-five
-- `b2ch79:130` (Tag 10) - four, one, seventy-eight
+- `b2ch78:112` (Tag 7) - four, one, six
+- `b2ch78:136` (Tag 7) - one, two
+- `b2ch78:198` (Tag 10) - fifty, twenty, twenty-five
+- `b2ch78:292` (Tag 10) - four, one, seventy-eight
 - `b2ch80:20` (Tag 12) - one, seventy-eight
 - `b2ch80:80` (Tag 4) - eight
 - `b2ch80:122` (Tag 4) - four hundred and eighty-one million, one, three, twenty
@@ -22038,7 +22091,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Chairman Woo
 
-252 Nennungen in 44 Kapiteln.
+252 Nennungen in 43 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -22275,21 +22328,21 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 53 | b2ch75:466 | "He was not taken in by a clever man and he did not make a mistake. He spent forty years.. |
 | 56 | b2ch76:24 | *In April this house arranged seven years of work on the Ulsan lane for five haulage fir.. |
 | 59 | b2ch76:50 | He is the one at Yangsan with the three flatbeds and the daughter who does his invoices... |
-| 7 | b2ch78:98 | "Chairman Woo," said Annie. |
-| 10 | b2ch79:14 | The house is older than the road it stands on and has been added to twice, both times ba.. |
-| 10 | b2ch79:38 | Woo did not move at all. |
-| 10 | b2ch79:46 | "How much of it," said Woo. |
-| 10 | b2ch79:56 | Woo looked at the table for a while. |
-| 10 | b2ch79:66 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
-| 10 | b2ch79:78 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
-| 10 | b2ch79:94 | "Yes," said Woo. "It was." |
-| 10 | b2ch79:104 | "You do not know it in the way you are going to know it. You are twenty-six." Woo did no.. |
-| 10 | b2ch79:112 | Woo put one hand flat. |
-| 10 | b2ch79:120 | "Why," said Woo. |
-| 10 | b2ch79:126 | Woo looked at her properly for the first time since the hall. |
-| 10 | b2ch79:136 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
-| 10 | b2ch79:144 | "You have taken something off me," said Woo. |
-| 10 | b2ch79:178 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
+| 7 | b2ch78:100 | "Chairman Woo," said Annie. |
+| 10 | b2ch78:176 | The house is older than the road it stands on and has been added to twice, both times ba.. |
+| 10 | b2ch78:200 | Woo did not move at all. |
+| 10 | b2ch78:208 | "How much of it," said Woo. |
+| 10 | b2ch78:218 | Woo looked at the table for a while. |
+| 10 | b2ch78:228 | "That is exactly the thing I refused to do to you in August," said Woo, "and the pair of.. |
+| 10 | b2ch78:240 | "That is not what I asked you." Woo turned his head. "Say who decided in the twenty-five.. |
+| 10 | b2ch78:256 | "Yes," said Woo. "It was." |
+| 10 | b2ch78:266 | "Then I will say the useful part and we will get on to what you came for." Woo did not r.. |
+| 10 | b2ch78:274 | Woo put one hand flat. |
+| 10 | b2ch78:282 | "Why," said Woo. |
+| 10 | b2ch78:288 | Woo looked at her properly for the first time since the hall. |
+| 10 | b2ch78:298 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
+| 10 | b2ch78:306 | "You have taken something off me," said Woo. |
+| 10 | b2ch78:340 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
 | 12 | b2ch80:6 | Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and nei.. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
@@ -22442,11 +22495,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch75:466` (Tag 53) - forty, four, one, thirty-six
 - `b2ch76:24` (Tag 56) - five, one, seven
 - `b2ch76:50` (Tag 59) - one, three
-- `b2ch79:66` (Tag 10) - four
-- `b2ch79:78` (Tag 10) - twenty-five
-- `b2ch79:104` (Tag 10) - one, twenty-six
-- `b2ch79:112` (Tag 10) - one
-- `b2ch79:178` (Tag 10) - four, twenty-four
+- `b2ch78:228` (Tag 10) - four
+- `b2ch78:240` (Tag 10) - twenty-five
+- `b2ch78:266` (Tag 10) - one
+- `b2ch78:274` (Tag 10) - one
+- `b2ch78:340` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
 
 ---
@@ -24492,7 +24545,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Mr Ku
 
-35 Nennungen in 24 Kapiteln.
+35 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -24530,7 +24583,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b2ch78:36 | Mr Ku fetched him from the bus at Namyangju, because Georgij asked and Annie did not ask.. |
 | 6 | b2ch78:74 | At the door he did the thing he has done at every door in thirty years. He asked Mr Ku a.. |
 | 6 | b2ch78:80 | Mr Ku had the car door open on the drive and had been standing beside it for four minute.. |
-| 10 | b2ch79:10 | Mr Ku had them there at four minutes to ten. |
+| 10 | b2ch78:172 | Mr Ku had them there at four minutes to ten. |
 
 ### Zahlen in der Naehe von Mr Ku
 
@@ -24554,7 +24607,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:36` (Tag 6) - eight, eleven, twenty
 - `b2ch78:74` (Tag 6) - thirty, two
 - `b2ch78:80` (Tag 6) - four
-- `b2ch79:10` (Tag 10) - four, ten
+- `b2ch78:172` (Tag 10) - four, ten
 
 ---
 

@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 90 Kapitel, 220.115 Woerter.
+Book Two, 89 Kapitel, 219.799 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -88,8 +88,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 75 | v1.1 | 2.539 |
 | 76 | v1.1 | 2.006 |
 | 77 | v1.2 | 2.327 |
-| 78 | v1.1 | 2.169 |
-| 79 | v1.2 | 2.177 |
+| 78 | v1.2 | 4.030 |
 | 80 | v1.1 | 2.057 |
 | 81 | v1.1 | 2.510 |
 | 82 | v1.1 | 2.447 |
@@ -17523,8 +17522,8 @@ He took it up at twenty past nine and Annie read the four lines twice and put th
 
 ---
 
-# Book Two · Chapter 78: The number
-*Lot Fourteen* · Version 1.1 · EN
+# Book Two · Chapter 78: The only line out
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Sixty-Three · Thursday 1 October
 
@@ -17616,6 +17615,8 @@ Sim stood on the step for a moment.
 
 * * *
 
+* * *
+
 ## Day Three Hundred and Sixty-Four · Friday 2 October
 
 She said it at nine in the morning in the small room and she said it standing up, which is how she does the ones she has decided about overnight.
@@ -17626,41 +17627,13 @@ Georgij put the folder down.
 
 "You are going to ask him."
 
-"I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years. He is the only man alive who was in those rooms and will still answer a telephone, and there are four questions I could put to him that nobody else on this earth can answer."
-
-"And now."
-
-"Now I am not going to ask him any of them, and I am going to go out there on Monday and tell him so to his face, because he is owed that and a letter is not it."
+"I was going to ask him. I have had it written down since Tuesday and I have read it about nine times." She had both hands flat on the desk. "He sat at my father's table for nineteen years, and there are four questions I could put to him that nobody else alive can answer, and I am not going to put any of them. I am going out there on Monday to tell him so to his face, because he is owed that and a letter is not it."
 
 * * *
 
-Georgij stood in the middle of the room and did the arithmetic he did not want to do.
+"There is a version where you do not go," said Georgij. "You send the letter and it is correct and nobody could fault it. I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
 
-"On the eighteenth of September you told me that a thing you only do when it is free is not a principle," he said.
-
-"I did."
-
-"And asking him has stopped being free."
-
-"Yes."
-
-"Then say the whole of it and do not let me say it for you, because I would make it kinder and you would let me."
-
-Annie did not take any time over it.
-
-"If I ask him those four questions, he answers them, and then he is a man of seventy-eight who has been told what happened in his own case and cannot un-know it," she said. "He would sit with that for whatever he has left. I would get four answers and he would get the rest of his life. There is no second half to that sentence."
-
-Georgij did not offer her one.
-
-* * *
-
-"There is a version where you do not go," he said. "You send a letter and it is correct and he is entitled to be told in writing and nobody could fault it."
-
-"There is."
-
-"I am not recommending it. I am putting it on the table because if I do not, you will decide in an hour that you thought of it and dismissed it, and you will not have."
-
-"That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. It is a thing said in a room. I sent four letters a fortnight ago and one of them came back with six words on it, and I am not going to learn that lesson twice at somebody else's expense."
+"That is the second time this month you have done that to me and I want it to go on happening." Annie picked up the pen and put it down again. "No. I sent four letters a fortnight ago and one of them came back with six words on it, and I am not going to learn that lesson twice at somebody else's expense."
 
 * * *
 
@@ -17674,9 +17647,9 @@ Annie looked at him for a moment longer than she usually does.
 
 "Yes," she said.
 
-"Then when."
+She went to the window.
 
-"Monday. He is seventy-eight and he does not do afternoons well, so it will be at ten, and I am going to him and he is not coming here." She looked at the window. "And you are going to be in the room."
+"Monday, at ten. He is seventy-eight and he does not do afternoons well, and I am going to him and he is not coming here. And you are going to be in the room."
 
 * * *
 
@@ -17696,40 +17669,29 @@ Georgij stood very still.
 
 * * *
 
-It took him until half past four and most of it was paper, and he did it from the small office and not from a car, because he is off the road.
+It took him until half past four, and the four questions do not sort into four answers.
 
-The four questions do not sort into four answers. They sort into three kinds, and the distance between the kinds is the whole of the problem.
+They sort into three kinds. There is what is written down somewhere and can be got at by anybody patient. There is what two men and one woman still living would say if they were asked properly and had a reason to answer. And there is what one man remembers about a room he was in, which stops existing on the day he does.
 
-There is what is written down somewhere and can be got at by anybody patient. There is what two men and one woman still living would say if they were asked properly and had a reason to answer. And there is the third kind, which is what one man remembers about a room he was in, and which stops existing on the day he does.
-
-He wrote all three on one sheet with what each would cost to get, and he put the third one at the top, because that is the one that is true.
-
-He put it on the blotter at ten to six and did not stay in the room while she read it.
+He put the third kind at the top, because that is the one that is true. The sheet went on the blotter at ten to six, and he did not stay in the room while she read it.
 
 She came out at about seven and found him at the far end of the passage doing nothing.
 
-"The third one," she said.
+"You put the third one at the top," she said.
 
-"Yes, Mistress."
-
-"You put it at the top."
-
-"It is the one that is true. The other two are what you can have without him, and neither of them is what you actually wanted to know."
+"It is the one that is true, Mistress. The other two are what you can have without him, and neither of them is what you actually wanted to know."
 
 Annie stood in the passage with the sheet in her hand.
 
 "You have got better at that than I would like," she said, and went upstairs, and that was the end of the week.
 
----
-
-# Book Two · Chapter 79: What it is worth
-*Lot Fourteen* · Version 1.2 · EN
+* * *
 
 ## Day Three Hundred and Sixty-Seven · Monday 5 October
 
 She did not take anything with her.
 
-No folder, no plan, and not the sheet with the three numbers on it, which she had read on the Friday evening and had not mentioned since. Georgij noticed it in the drive at twenty past nine and decided in about a second not to ask about it. He spent the first eleven kilometres working out that she had left it behind so that she would have nothing to put on a table.
+No folder, no plan, and not the sheet with the three kinds on it, which she had read on the Friday evening and had not mentioned since. Georgij noticed it in the drive at twenty past nine and decided in about a second not to ask about it. He spent the first eleven kilometres working out that she had left it behind so that she would have nothing to put on a table.
 
 Mr Ku had them there at four minutes to ten.
 
@@ -17821,11 +17783,11 @@ Georgij was standing by the window because nobody had told him to sit.
 
 He sat with his hands on his knees and did not soften anything.
 
-"I have been in this trade for fifty-one years and I have watched a great many men be kind in that particular way," he said. "It looks like restraint from inside. From outside it is a man keeping the last decision for himself and telling himself he is being careful with somebody. There is not one of us who has not done it, and that includes me, on a Sunday in August, in that woman's own study."
+"I have been in this trade for fifty-one years and I have watched a great many men be kind in that particular way," he said. "It looks like restraint from inside. From outside it is a man keeping the last decision for himself. There is not one of us who has not done it, and that includes me, on a Sunday in August, in that woman's own study."
 
 "I know."
 
-"You do not know it in the way you are going to know it. You are twenty-six." Woo did not raise his voice anywhere. "I am going to say the useful part and then we are going to talk about ground. You did not do a wrong thing. You did a thing that is only distinguishable from the wrong one by what you did on the day she asked. You did that part correctly. That is the whole of what stands between you and the man in that woman's father's photographs."
+"Then I will say the useful part and we will get on to what you came for." Woo did not raise his voice anywhere. "You did not do a wrong thing. You did a thing that is only distinguishable from the wrong one by what you did on the day she asked, and you did that part correctly. That is the whole of what stands between you and the man in that woman's father's photographs."
 
 * * *
 
@@ -17837,7 +17799,7 @@ Woo put one hand flat.
 
 "Go on."
 
-"I came out here with four questions. I have had them written down since Tuesday and I have read them about nine times, and you are the only man alive who can answer any of them." She did not take her eyes off him. "I am not going to ask them. I am telling you that in your own room because I am not going to have you find out in six months that I was here and did not."
+"I came out here with four questions, and you are the only man alive who can answer any of them." She did not take her eyes off him. "I am not going to ask them. I am telling you that in your own room because I am not going to have you find out in six months that I was here and did not."
 
 The room was very quiet.
 
