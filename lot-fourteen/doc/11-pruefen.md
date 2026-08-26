@@ -207,3 +207,57 @@ eine Zahl-Konstante mit einem anderen Subjekt; die Begründung steht in `doc/05`
 2. Ist die Zahl gezählt oder geschätzt?
 3. Habe ich versucht, meinen eigenen Fund umzuwerfen?
 4. Wenn nichts gefunden wurde: **war der Detektor geeicht?**
+
+---
+
+## Drei Lehren vom 26.08., aus der Gegenprüfung von `doc/16`
+
+**11. Ein Test, der nichts findet, wird nicht gestrichen, bevor zwei Fragen
+beantwortet sind: ist der Detektor geeicht, und misst er, was sein Name sagt?**
+Die Testbatterie hat ihren Test 5 (*Verbotstest*) auf ein Nullergebnis gestrichen.
+`stimmen.py --tics` hat keine Eichung und gibt eine Dichtetabelle der fünf
+Haustics aus - es kennt weder den Begriff *Verstoß* noch die figurenspezifischen
+Verbote aus `doc/12`. Der Test war nicht grün, er war nie gelaufen. **Die Probe
+vor jedem Bericht hatte die halbe Frage schon** (*war der Detektor geeicht?*); die
+andere Hälfte fehlte, und sie ist die billigere: **einmal laufen lassen und die
+Ausgabe ansehen, bevor man ihr glaubt.** Die Tabelle wies Woo mit *Negativ-Def
+0,8* aus - ungleich null für genau die Figur, der die geprüfte Regel die
+Negativdefinition abspricht.
+
+**12. Eine Zahl, die eine Figur mit einer Szene gegen Figuren mit achtzig stellt,
+ist keine Messung.** Mrs Has Zug maß *drei Treffer bei ihr, null Prozent bei neun
+anderen* - und sie hat genau ein Kapitel. Jede beliebige Wendung aus b2 K67 hätte
+dieselbe Zahl bekommen. **Und wo der Zug mit dem Gegenstand der Szene
+zusammenfällt** - sie wird gefragt, wer was getan hat, und stellt richtig, wer die
+Arbeit getan hat -, ist er nicht von der Szene zu trennen. Der ehrliche Stand ist
+*Vorschlag* und wird beim zweiten Auftritt entschieden.
+
+**13. Ein Detektor braucht so viele Töpfe, wie es Gründe gibt, warum ein Zitat
+nicht im Text steht.** `belege.py` hat drei (*ohne Beleg*, *alte Fassung*,
+*Vorschlag*). Von vierzehn Meldungen am 26.08. waren drei echt; die elf anderen
+verteilten sich auf vier Gründe, die keinen Topf haben:
+
+- **Auslassung:** das Zitat steht da, mit `...` zusammengezogen (b2 K6, drei
+  Meldungen für ein Zitat).
+- **Redebegleitsatz:** das Zitat steht da, unterbrochen von *he said* (b2 K56).
+- **Gestrichene Fassung:** das Dokument zitiert ausdrücklich, was **entfernt
+  wurde** - nicht überholt, sondern weg. Fünf Meldungen, alle legitim.
+- **Unmarkierter Vorschlag:** *"Eine Zeile wie ..."* fehlt in der Wortliste, und
+  `doc/06-plot.md` ist von Haus aus ein Plandokument.
+
+---
+
+**Zwei Klassen, die die Tabelle oben noch nicht hatte:**
+
+| Klasse | Woran man sie erkennt | Exemplar |
+|---|---|---|
+| **Ein Plan, der im Kanondokument als Bestand steht** | `doc/05` zitiert einen Satz mit einer Behauptung darüber (*"der einzige Satz in zwei Bänden"*), und der Satz steht in `doc/07` unter *was kommt* | `doc/05` Z938, das Bandende, korrigiert am 26.08. |
+| **Dieselbe Wendung, zwei Bezüge, wenige Zeilen auseinander** | eine auffällige Formel läuft zweimal gleich an und meint zweimal etwas anderes - der Leser liest die zweite als Wiederaufnahme | b2 K34 Z42 gegen Z48: dieselben *"Two people"* sind einmal die Empfänger und einmal die Anrufer |
+
+**Und eine Lücke im Werkzeugkasten, die keine Klasse ist:** alle zwölf Prüfungen
+der Batterie messen **eine Figur gegen den Text**, keine misst **eine Figur gegen
+eine andere**. Test 1 vergleicht nur gegen Georgij. Der Befund, der das ganze
+Stimmenwerk ausgelöst hat, lautete aber *"außer mit Annie sind alle Dialoge
+gleich"* - und das ist eine Aussage über zwei Figuren und nicht über eine. Was
+fehlt, ist die Blindprobe: zwei Repliken ohne Namen, aus zwei kleinen Figuren,
+und ob man sie zuordnen kann.

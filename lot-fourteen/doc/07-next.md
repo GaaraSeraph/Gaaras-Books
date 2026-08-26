@@ -2217,3 +2217,213 @@ ein, bevor er anfaengt, und streicht ihn, wenn er fertig ist.
   hat, gegen den Text. Kein Kapitel wird dabei umgeschrieben, ausser wo ein
   Beleg fällt. Danach die sieben Zitate ohne Beleg aus `belege.py`.
   Arbeitsbaum: eigener Klon, nicht der von Schreiben oder Stil.
+
+---
+
+## Gegenpruefung von `doc/16`, Abschnitt E (26.08., allgemeine Pruefung)
+
+Die Stilsitzung hat sechs Punkte zur Gegenpruefung hingelegt. Jede Antwort unten
+steht mit Kapitel und Wortlaut da; wo sie den Punkt umwirft, steht der Beleg
+dafuer und nicht meine Begruendung.
+
+**1. A2, Woos geschuetzte Ausnahme - richtig abgegrenzt, aber die Gefahr liegt
+auf der anderen Seite.** Die Ausnahme in b2 K57 haelt: der Begleitsatz *"Woo said
+it exactly, in the way of a man repeating something he has repeated to himself"*
+markiert die Zeile im Text selbst als Wiederholung fremder Worte. Sie macht keine
+Hintertuer auf, weil kein zweiter Woo-Satz sich auf sie berufen kann.
+
+**Aber `doc/12` sagt *"Eine Negativdefinition steht noch da"*, und das stimmt
+nicht.** Ein Detektor auf die Signatur *zwei aufeinanderfolgende Saetze, beide
+beginnend mit "Not "*, geeicht an b2 K57 Z158, findet ueber beide Baende zwanzig
+Stellen. Eine davon ist Woos, unberuehrt und ungeschuetzt:
+
+> b1 K19 Z190, Woo: *"Get me a room with that family in it and somebody who can
+> actually sign. **Not the ones who talk. Not the nephew.**"*
+
+Das ist keine Negativdefinition im Sinn der Regel - er definiert keinen Begriff
+durch das, was er nicht ist, sondern **streicht Posten von einer Liste**, und das
+ist genau das Hauptbuch, das sein Blatt ihm ausdruecklich laesst. **Die Ausnahme
+muesste also nicht "b2 K57" heissen, sondern die Unterscheidung nennen:** Woo darf
+ausschliessen, was auf der Liste nichts zu suchen hat; was ihm nicht gehoert, ist
+die Bestimmung einer Sache durch ihre Verneinung. Sonst faellt b1 K19 beim
+naechsten mechanischen Durchgang, und mit ihr die einzige Stelle, an der ein
+Achtundsiebzigjaehriger Bedingungen stellt.
+
+**Nebenbefund:** die Signatur ist keine Marotte einer Figur. Zwanzig Stellen in
+vielen Muendern, darunter der Erzaehler selbst (b1 K8, b1 K10).
+
+**2. B1, die sechs stehen gelassenen Fragezeichen - es sind die richtigen sechs,
+aber der Beleg in `doc/01` nennt den falschen Sprecher.** Alle fuenf
+Aussagesaetze mit Fragewort sind nachgesehen: b1 K24 und b1 K26 und b2 K18 sind
+Pseudo-Cleftsaetze (*"What she wants is shares"*), b1 K1 Z122 und b1 K9 Z164 sind
+Bruchstuecke als **Antwort** auf eine Frage (*"When?"* - *"When he bought the
+boy."* / *"Reading what?"* - *"Whatever I was given."*). Keiner ist eine Frage.
+
+**b1 K34 haelt ebenfalls**, und die Gegenprobe steht wirklich im selben Kapitel,
+drei Seiten auseinander (Z208 gegen Z334). **`doc/01-craft.md` Zeile 594 schreibt
+*"Is that all of it."* aber Annie zu, "mit dem Blatt vor sich auf dem Tisch".
+Der Satz ist Georgijs.** Die Sprecherkette ab Z328: *"I thought it was the
+schedule."* (Georgij) - *"I know what you thought."* (Annie, und dort liegt das
+Blatt) - *"Is that all of it."* - *"It is all of it that has a figure in it."* -
+und dann Z340 *"Georgij did not thank her for it."*
+
+Die Regel selbst wird davon nicht beruehrt, im Gegenteil: dass der Fordernde hier
+**nach oben** fordert und eine halbe Antwort bekommt, ist das bessere Beispiel
+fuer *umgestellt ist Forderung*. Nur der Beleg gehoert richtiggestellt.
+**`doc/01` gehoert der Stilsitzung, ich habe es nicht angefasst.**
+
+**3. A5, Mrs Ha - noch keine Maschine, sondern eine Hypothese aus einer einzigen
+Szene.** Die drei Belege stehen woertlich da und sind richtig zitiert (b2 K67
+Z96, Z144, Z168). **Alle drei stehen in demselben Kapitel, und Mrs Ha hat nur
+dieses eine.** In b2 K66 wird sie viermal genannt, in b2 K68 einmal, gesprochen
+hat sie ausserhalb von K67 nicht.
+
+Damit traegt die Messung *"drei Treffer bei ihr, null Prozent bei Georgij, Annie,
+Sang-hoon, Woo, Sim, Hana, Mrs Jeon, Jang und Mr Ahn"* nicht, was sie tragen
+soll: sie vergleicht eine Figur mit einer Szene gegen Figuren mit achtzig. Jede
+Wendung aus K67 kaeme auf dieselbe Zahl. **Und der Zug faellt mit dem Gegenstand
+der Szene zusammen** - Mrs Ha wird in K67 gefragt, wer was getan hat; dass sie
+richtigstellt, wer die Arbeit getan hat, kann die Figur sein oder die Frage.
+
+Die Batterie hat den Test dafuer schon: **Nummer 6, die Anwesenheitsprobe** - ob
+der Zug in *mehreren* ihrer Auftritte vorkommt. Bei einem Auftritt ist sie nicht
+entscheidbar. Der ehrliche Stand ist *Vorschlag*, nicht *Maschine*, und er wird
+beim naechsten Mrs-Ha-Kapitel entschieden und nicht vorher.
+
+**Offen, und es ist nicht Mrs Ha:** b2 K60 Z250 laesst **Annie** sagen *"Not the
+family and not the hall. That."*, sieben Kapitel vor Mrs Has *"Not the mother,
+not a cousin, not the hall. Her."* Dieselbe Form und zwei derselben drei
+Substantive. Ob das ein gewollter Widerhall ist, weiss ich nicht, und deshalb
+steht es hier und ist nicht angefasst.
+
+**4. b2 K67, *"A woman in Seoul"* - umgeworfen. Es ist nicht das erste Mal, und
+es ist die vagste der vier.** Georgij raeumt die Existenz seiner Auftraggeberin
+vor K67 schon zweimal gegenueber Fremden ein, beide Male **genauer**:
+
+> b2 K37 Z38, zu Mr Koh: *"I work for a woman on the river. She has no interest
+> in you and no business with you, and you will not hear from her."*
+>
+> b2 K56 Z40, zu Mr Ahn: *"My name is Georgij. I work for a woman on the river
+> and I am not here for her."*
+
+Dazu b2 K63 Z90 (*"There is a woman on the river who agreed to it"*) und b2 K70
+Z154 (*"Because a woman on the river told me to come"*). **Vier Stellen mit *on
+the river*, die sie im Gewerbe verorten, gegen eine mit *in Seoul*, die nichts
+verortet** - K67 spielt in Mapo, er sagt einer Frau in Seoul, seine Auftraggeberin
+sei eine Frau in Seoul. Seine Strenge gilt dem **Namen**, und den haelt er auch
+hier zurueck: *"I am not going to give you her name, and that is the only thing I
+am keeping from you today."* Kein Bruch.
+
+**5. Die Testbatterie - Test 5 ist zu frueh gestrichen, und zwar aus dem Grund,
+den `doc/11` als Fehler fuehrt.** Er ist auf ein **Nullergebnis** gestrichen
+worden (*"null Verstoesse in der ganzen Besetzung"*). Die Probe vor jedem
+Bericht, Punkt 4, lautet: *wenn nichts gefunden wurde - war der Detektor
+geeicht?* `stimmen.py` hat **keine Eichung**, anders als `zuschreibung.py`,
+`belege.py` und `faktenspur.py`.
+
+**Und er misst nicht, was der Test heisst.** `stimmen.py --tics` gibt eine
+Dichtetabelle der **fuenf Haustics je 1000 Woerter** aus - which-Satz, Und-Kette,
+Negativ-Def, Selbstdiagnose, Kontraktion. Es gibt darin keinen Begriff von
+*Verstoss* und keine Schwelle. Die **figurenspezifischen Verbote** aus `doc/12` -
+etwa die vier Rahmen, die A3 heute fuer Sim verboten hat - kommen darin nicht vor.
+**Der Verbotstest ist also nie gelaufen**, weder gruen noch rot.
+
+Die Tabelle beweist es selbst: sie weist **Woo mit *Negativ-Def 0,8*** aus, also
+ungleich null, fuer genau die Figur, der A2 die Negativdefinition abspricht. Ein
+Verbotstest muesste das melden oder die Ausnahme kennen; die Tabelle druckt die
+Zahl.
+
+Dazu kommt, dass Test 5 ein **Regressionstest** ist und kein Fundtest. Sein Wert
+liegt nach dem naechsten Durchgang, genau dann, wenn nach der beschlossenen
+Fassung *"bei einem Fund: schreiben und vorlegen"* neue Zeilen entstehen. Test 13
+sichert die neue Zeile gegen **Anleihen** ab, nicht gegen Verbote.
+
+**Und die Luecke in der Batterie als Ganzes, weil danach gefragt war:** alle zwoelf
+Pruefungen messen **eine Figur gegen den Text**. Keine misst **eine Figur gegen
+eine andere**. Test 1 kommt am naechsten und vergleicht ausdruecklich nur gegen
+**Georgij**. Damit kann die ganze Besetzung alle zwoelf bestehen und weiter das
+sein, was der Befund des Autors war: *"Ausser mit Annie sind alle Dialoge
+gleich."* Was fehlt, ist die Blindprobe - zwei Repliken ohne Namen aus zwei
+kleinen Figuren, und ob man sie zuordnen kann. Sim gegen Sohn, Koh gegen Hong.
+Die ungezaehlte Probe (*"Streiche jeden Satz ueber den Fall"*) prueft die
+**Tiefe** einer Figur, nicht ihre **Unterscheidbarkeit**.
+
+**6. b2 K34, dieselbe Wendung mit zwei Bezuegen - bestaetigt, und es ist die
+Stelle, an der der ganze Choi-Schluss haengt.** Sechs Zeilen auseinander:
+
+> Z42: *"It was **two people** who had never met Choi Dae-ho in their lives,
+> four years and one telephone **call** apart, describing the same six words"* -
+> das sind die **Empfaenger**, der Florist und der Geschaeftsmann.
+>
+> Z48: *"**Two people**, four years and one telephone **number** apart, who each
+> told a stranger they had never met that it was good to see them again."* - das
+> sind die **Anrufer**, und der naechste Satz sagt es: *"A habit shared by two
+> different men is a coincidence."*
+
+Beide Verwendungen sind fuer sich richtig, und die zweite ist sogar noetig: der
+Absatz ist der skeptische Gegenlauf, und dort **muessen** die Anrufer zwei
+Personen sein, weil das die Annahme ist, die er umwirft. Falsch ist nur, dass die
+Formel identisch anlaeuft. Der Leser liest den zweiten Satz als Wiederaufnahme
+des ersten - und die Verwechslung von Anrufer und Empfaenger ist genau die
+Verwechslung, gegen die Georgij hier argumentiert. **Ein Wort reicht:** *Two
+callers* statt *Two people* in Z48. Ich habe es nicht angefasst, weil es Prosa im
+Kanon ist und der Satz nicht falsch, sondern nur missverstehbar ist.
+
+---
+
+## Und die vierzehn Zitate ohne Beleg (26.08.)
+
+`belege.py` meldete vierzehn. **Drei sind echt, elf sind erklaerbar**, und die elf
+sind das Interessantere, weil jede eine Luecke im Detektor benennt (Regel 8: die
+Zahl sinkt, bis jeder verbleibende Fund einzeln erklaerbar ist).
+
+**Die drei echten, alle in `doc/05` und alle am 26.08. korrigiert:**
+
+1. **Ein geplanter Satz stand im Kanondokument als bestehender.** `doc/05` Z938
+   fuehrte *"If the world points anything at you at all, I will burn the world
+   down"* mit der Behauptung, er sei *"der einzige Satz in zwei Baenden ohne
+   Preis darin"*. Das Wort *burn* kommt im ganzen Kanon in diesem Sinn nicht vor.
+   Der Satz ist ein **Entwurf fuer das Bandende** und steht in `doc/07-next.md`
+   Z518, wo er hingehoert. **Das ist die gefaehrlichste Sorte**, weil `doc/05`
+   der Uebergabepunkt ist, den die Schreibsitzung vor dem Anfangen liest.
+2. **Eine Paraphrase des Dokuments, in Anfuehrungszeichen und einer Figur
+   zugeschrieben.** `doc/05` Z2032: *"Georgij nennt es beim Namen: 'a man standing
+   still on a road for a piece of information that had been sitting in a
+   provincial licence register the entire time.'"* Der Text sagt es in der
+   Erzaehlung und ganz anders (b2 K44 Z69).
+3. **Woos Anweisung geglaettet und umgehaengt.** `doc/05` Z3125 schrieb Woo
+   direkt zu: *"he should go and ask the person who did not take his telephone
+   call."* Im Text ist es **Kwons Bericht** (b2 K69 Z114) und lautet *"He said
+   the price was not his to quote, and that I should go and ask **the man** who
+   did not take **my** telephone call."* - *person* fuer *man*, und die Klausel
+   ueber den Preis weg. Regel 9, woertlich: die Erinnerung ist glatter als das
+   Original.
+
+Danach steht `doc/05` bei vier statt acht, und die vier sind Zitate **geloeschter
+Fassungen**.
+
+**Die elf erklaerbaren, nach Sorte - und was der Detektor daraus lernen kann:**
+
+- **Zitat ueber eine Auslassung hinweg (3 Meldungen, alle dasselbe Zitat).**
+  *"You are mine... It has no end on it. Build on this one."* steht vollstaendig
+  in b2 K6, Z336 bis Z340. Die drei Punkte sind eine Auslassung und werden nicht
+  als solche gelesen.
+- **Zitat ueber einen Redebegleitsatz hinweg (1).** `doc/12` Z1523 zitiert Mr Ahns
+  erste Zeile als *"It will be Tuesday. Whatever it is."* und nennt Kapitel und
+  Zeile richtig. Im Text steht *"It will be Tuesday," he said. "Whatever it is."*
+  **Vermutlich eine Folge der Blockgrenzen-Aenderung von heute frueh** - richtig
+  fuer ihren Zweck, aber sie trennt jetzt auch innerhalb eines Absatzes.
+- **Zitate geloeschter Fassungen (5).** `doc/05` Z785 zweimal, Z839, Z1685, und
+  eine in `doc/01`. Das Dokument zitiert ausdruecklich, was **entfernt wurde**
+  (*"Die erste Fassung hatte an zwei Stellen genau das"*, *"Die drei
+  gescheiterten Fassungen"*). Der Topf *alte Fassung* trifft sie nicht, weil die
+  Fassung nicht ueberholt, sondern weg ist. **Das ist ein vierter Topf:
+  *gestrichene Fassung*.**
+- **Unmarkierte Vorschlaege (2).** `doc/02` Z233 leitet mit *"Eine Zeile wie ..."*
+  ein - ein Muster und kein Zitat. `doc/06` Z382 ist das **Plandokument**: die
+  Zeile *"We had a deal. Quid pro quo. You broke it."* ist geplant und nicht
+  geschrieben. Regel 10 sagt, wer Vorschlaege schreibt, markiert sie; *"Eine Zeile
+  wie"* fehlt in der Wortliste, und `doc/06` ist von Haus aus ein
+  Vorschlagsdokument.
+- **Zeichensalat (1).** `doc/13` Z85 meldet ein Zitat, in dem ein Zeichen kaputt
+  ist.
