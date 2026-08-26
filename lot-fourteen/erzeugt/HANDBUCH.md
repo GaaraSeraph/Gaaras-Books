@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 277.839 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 278.110 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -254,6 +254,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Was dann wirklich fehlt](#was-dann-wirklich-fehlt)
   - [Was daraus im Werkzeug steht](#was-daraus-im-werkzeug-steht)
   - [Berichtigung und der Eingriff in b2 K67](#berichtigung-und-der-eingriff-in-b2-k67)
+  - [Berichtigung: meine eigene Zeile war geklaut und war NPC-Gelaber](#berichtigung-meine-eigene-zeile-war-geklaut-und-war-npc-gelaber)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -5859,7 +5860,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *Four hundred and one* (v1.6) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.7) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.
@@ -17964,6 +17965,38 @@ I've had since February."*
 *Unsicher:* weiterhin nur *"A woman in Seoul"* - dass Georgij die Existenz einer
 Auftraggeberin ueberhaupt einraeumt, gehoert vom Inhalts-Chat geprueft.
 
+### Berichtigung: meine eigene Zeile war geklaut und war NPC-Gelaber
+
+**Der Autor zu meiner Fassung *"If you'd said insurance, you'd have had the
+wedding and the door"*: NPC-Gelaber, geklaut von Georgij.** Beides stimmt, und
+beides haette ich vor dem Schreiben gemessen, wenn ich meine eigene Regel
+befolgt haette.
+
+**Geklaut:** das Konterfaktische *"haettest du X, dann haettest du Y"* gehoert
+Georgij - **10 der 13 Vorkommen im ganzen Buch**, darunter b2 K06 *"you would
+have had to answer it as one"*. Ich habe Sim vier solcher Anleihen ausgetrieben
+und Mrs Ha am selben Tag eine neue gegeben.
+
+**NPC-Gelaber, und das ist der schwerere Fehler:** die Zeile **erklaert den
+Mechanismus, statt ihn zu vollziehen**. Ein BG3-NPC sagt nicht, was du bei
+schlechterer Antwort bekommen haettest - er gibt dir einfach mehr. Wer den
+Zweig ausspricht, hat den Dialogbaum sichtbar gemacht.
+
+**Jetzt (ch67 v1.7) wird er vollzogen.** Die Szene zaehlt seine Fragen von
+Anfang an mit - *"One question."* · *"That's your second question."* · *"You
+said one and then you asked four"* - und nach seiner geraden Antwort:
+
+> *"Then she's getting her money's worth." Mrs Ha sat back. **"Ask what you like
+> now. I've stopped counting.** She was the calmest person in this room…"*
+
+**Sie hoert auf zu zaehlen. Das ist der Zustandswechsel, und es steht kein Wort
+darueber da.** Vorab gemessen: keine der vier Kandidatenfassungen enthaelt eine
+Wendung, die Georgij benutzt. `faktenspur.py`: null bewegte Zahlen.
+
+**Die Lehre, zum zweiten Mal notiert und diesmal hoffentlich behalten:** ein
+Ersatz wird gemessen, **bevor** er ins Kapitel geht. Und: **wenn eine Figur die
+Regel des Gespraechs ausspricht, ist es keine Figur mehr.**
+
 ---
 
 # Kürzen: was jedes Kapitel trägt
@@ -22351,7 +22384,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 39 | b2ch67:76 | Mrs Ha put both hands flat on her knees. |
 | 39 | b2ch67:96 | "The bride came to this office." Mrs Ha said it flatly. "On the Monday. Not the mother, .. |
 | 39 | b2ch67:100 | "For the trouble." Mrs Ha's mouth did something. "In thirty years and four hundred and e.. |
-| 39 | b2ch67:118 | "Then she's getting her money's worth." Mrs Ha sat back. "If you'd said insurance, you'd.. |
+| 39 | b2ch67:118 | "Then she's getting her money's worth." Mrs Ha sat back. "Ask what you like now. I've st.. |
 | 39 | b2ch67:122 | "Not brave. Brave is a face people put on and I've seen a hundred of them and I can tell.. |
 | 39 | b2ch67:130 | "I asked her whether it might be later in the year," said Mrs Ha. |
 | 39 | b2ch67:138 | "There is not going to be a later." Mrs Ha said it exactly, and then she said the rest o.. |
