@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 317.381 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 317.836 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -300,6 +300,9 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Weg C, vom Autor gewählt: die Auskunft wird um eine Frage verschoben](#weg-c-vom-autor-gew-hlt-die-auskunft-wird-um-eine-frage-verschoben)
   - [Was sonst gekürzt wurde](#was-sonst-gek-rzt-wurde)
   - [Was stehen bleibt, und warum](#was-stehen-bleibt-und-warum)
+  - [Erledigt](#erledigt)
+  - [Nicht ausgeführt, weil es Autorenentscheidungen sind](#nicht-ausgef-hrt-weil-es-autorenentscheidungen-sind)
+  - [Offen und größer als alles andere: das Heft](#offen-und-gr-er-als-alles-andere-das-heft)
 - [Geänderte Regeln, zur Gegenprüfung](#ge-nderte-regeln-zur-gegenpr-fung)  ·  `doc/16-regelaenderungen.md`
   - [A1. Sang-hoon: die Und-Kette war verboten und ist erlaubt](#a1-sang-hoon-die-und-kette-war-verboten-und-ist-erlaubt)
   - [A2. Woo: die Negativdefinition gehört ihm nicht - mit einer Ausnahme](#a2-woo-die-negativdefinition-geh-rt-ihm-nicht-mit-einer-ausnahme)
@@ -3700,18 +3703,18 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** *I came back with a favour* (v1.11) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.17) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.12) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.18) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *I have never put it down* (v12.19) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.21) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.13) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.10) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.12) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 12** *You are better when you don't know* (v1.13) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.13) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.6) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.9) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
-- **Kapitel 6** *Withdrawn or sold* (v1.10) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
+- **Kapitel 6** *Withdrawn or sold* (v1.11) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.14) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.11) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
@@ -6319,7 +6322,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
     nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
 
-- **Band 2, Kapitel 73** *What the month is for* (v1.2) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
+- **Band 2, Kapitel 73** *What the month is for* (v1.3) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Georgij bringt November hoch und macht es nicht leichter.** Er gibt die drei
@@ -21285,6 +21288,55 @@ auf 21**. Was übrig ist, ist geprüfte Absicht:
 
 ---
 
+## Stand der Kürzungsaufträge, 26.08. abends
+
+### Erledigt
+
+**Auftrag 3 ganz** (die Berichtsnester und die wörtlichen Paare), dazu der
+Widerspruch zwischen K62 und K74/75/78, der dabei aufgefallen ist. Siehe den
+Abschnitt darüber.
+
+**Aus Auftrag 2**, Punkt 1 und 2: der Anruf vom vierzehnten stand dreimal im
+Buch, in K72 als Sims Bericht und in K73 noch einmal wörtlich an Mr Ahn. **Der
+Bericht in K73 ist jetzt ein Absatz Erzählung**, weil das, was das Kapitel
+trägt, erst danach anfängt: Mr Ahns Lesart des Monats. Was er sagt, steht
+vollständig da.
+
+**Drei wörtliche Wiederholungen aus Band 1**, die die Messung gefunden hat und
+die Leseliste nicht: die Regel über das Kinn (K05/K06), Mr Yeos Blick auf den
+Hals (K05/K12) und der Korridor im ersten Stock (K03/K17). Alle drei waren
+Wiederaufnahmen, die vergessen hatten zu sagen, dass sie welche sind.
+
+### Nicht ausgeführt, weil es Autorenentscheidungen sind
+
+Diese Punkte stehen im Dokument ausdrücklich als Vorschlag und nicht als
+Urteil. Sie kosten je ein ganzes Kapitel oder eine Zusammenlegung, und keiner
+lässt sich mechanisch belegen:
+
+| Punkt | Was | Ersparnis |
+|---|---|---|
+| A1 #2 | **K16 und K17 zusammenlegen.** K17 ist unantastbar, aus K16 müssen zwei Absätze mit | ~1400 von 1992 |
+| A1 #4 | **K26+K27 und K29+K30.** Je Ankündigung und Bericht am selben Erzähltag. **Beide tragen zusammen fünf Zeilen des Nähe-Registers**, und die Regel sagt dann HALTEN | ~2500 von 8452 |
+| A1 #5 | **K33 und K34.** Nachbartage, gleiches Zimmer, gleiche Person | ~1500 von 4119 |
+| A1 #6 | **K43 mit K44.** Der zehnte Mensch wird dreimal gefunden | ~1800 von 5153 |
+| A1 #8 | **K58 und K59.** Ein Tag, zwei Annie-Szenen im selben Zimmer | ~900 |
+| A2 #3 | **K67 und K68 zusammenlegen.** Zusammen 4996 Wörter, also **über der Spanne** - eine Zusammenlegung verlangt hier zusätzlich rund 700 Wörter Schnitt | - |
+
+**Und zwei, die sich beim Nachmessen nicht bestätigt haben.** Auftrag 1, Punkt 1
+nennt K3/K5 und K8/K9 als dieselbe Sache zweimal erzählt. `doppelt.py` findet
+zwischen diesen Kapiteln **keine einzige Überschneidung über 0.5**. Der Befund
+stammt aus dem Lesen und meint die Struktur, nicht die Sätze; er kann stimmen,
+aber er ist nicht mechanisch belegbar und braucht deshalb ein Urteil und keinen
+Lauf.
+
+### Offen und größer als alles andere: das Heft
+
+Auftrag 4 ist kein Kürzungsauftrag, sondern ein Schreibauftrag, und er ist
+unberührt. **Fünfunddreißig Kapitel schreiben ins Heft hinein, zwei holen etwas
+heraus.** Der Modellfall existiert genau einmal, in K45.
+
+---
+
 # Geänderte Regeln, zur Gegenprüfung
 
 **Stand 26.08., aus dem Stil-Durchgang.** Jede Zeile nennt Ort, alten Wortlaut,
@@ -21871,7 +21923,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 249 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
-| Sim | 143 | 23 (b2ch31-b2ch89) | 2 | 53 |
+| Sim | 144 | 23 (b2ch31-b2ch89) | 2 | 53 |
 | Mrs Jeon | 113 | 24 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
 | Mrs Seo | 104 | 49 (b1ch03-b2ch90) | 1 | 74 |
@@ -24402,7 +24454,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ### Sim
 
-143 Nennungen in 23 Kapiteln.
+144 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -24512,7 +24564,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
-| 50 | b2ch73:416 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
+| 50 | b2ch73:50 | He gave it to him in the order it had happened and did not soften any of it. The shed ro.. |
+| 50 | b2ch73:404 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "Have you eaten today?" asked Sim, and he had the cup out before he had finished asking .. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
@@ -24601,7 +24654,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:250` (Tag 49) - one, two
 - `b2ch72:270` (Tag 49) - one, three, twenty
 - `b2ch72:306` (Tag 49) - one
-- `b2ch73:416` (Tag 50) - six, thirty
+- `b2ch73:50` (Tag 50) - four
+- `b2ch73:404` (Tag 50) - six, thirty
 - `b2ch74:66` (Tag 51) - thirty
 - `b2ch74:74` (Tag 51) - eleven, four, one, six, sixteen, ten
 - `b2ch74:102` (Tag 51) - two
@@ -25205,24 +25259,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch70:338 | Mr Ahn did not say anything for a long moment. |
 | 50 | b2ch73:18 | "Tuesday," said Mr Ahn. |
 | 50 | b2ch73:38 | Mr Ahn looked at him for about two seconds and then put both hands on the edge of it. |
-| 50 | b2ch73:54 | Mr Ahn did not move at all. |
-| 50 | b2ch73:74 | "And what the man on the telephone made of it," said Mr Ahn. |
-| 50 | b2ch73:90 | Mr Ahn picked the cloth up and put it down again without using it. |
-| 50 | b2ch73:106 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
-| 50 | b2ch73:134 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
-| 50 | b2ch73:150 | "There's a second one and you'll have had it already," said Mr Ahn. |
-| 50 | b2ch73:178 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
-| 50 | b2ch73:214 | Mr Ahn did not say anything for a moment. |
-| 50 | b2ch73:226 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
-| 50 | b2ch73:242 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
-| 50 | b2ch73:278 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
-| 50 | b2ch73:286 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
-| 50 | b2ch73:298 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
-| 50 | b2ch73:310 | "It's not for you," said Mr Ahn. "Don't make it that." |
-| 50 | b2ch73:334 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
-| 50 | b2ch73:354 | Mr Ahn plugged the fan in at the wall. |
-| 50 | b2ch73:378 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
-| 50 | b2ch73:398 | Mr Ahn almost got out the thing that is not quite a laugh. |
+| 50 | b2ch73:54 | Mr Ahn did not move once in the whole of it. |
+| 50 | b2ch73:62 | "And what the man on the telephone made of it," said Mr Ahn. |
+| 50 | b2ch73:78 | Mr Ahn picked the cloth up and put it down again without using it. |
+| 50 | b2ch73:94 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
+| 50 | b2ch73:122 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
+| 50 | b2ch73:138 | "There's a second one and you'll have had it already," said Mr Ahn. |
+| 50 | b2ch73:166 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
+| 50 | b2ch73:202 | Mr Ahn did not say anything for a moment. |
+| 50 | b2ch73:214 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
+| 50 | b2ch73:230 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
+| 50 | b2ch73:266 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
+| 50 | b2ch73:274 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
+| 50 | b2ch73:286 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
+| 50 | b2ch73:298 | "It's not for you," said Mr Ahn. "Don't make it that." |
+| 50 | b2ch73:322 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
+| 50 | b2ch73:342 | Mr Ahn plugged the fan in at the wall. |
+| 50 | b2ch73:366 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
+| 50 | b2ch73:386 | Mr Ahn almost got out the thing that is not quite a laugh. |
 | 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
 | 53 | b2ch74:580 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
 | 3 | b2ch77:14 | Mr Ahn looked at him for about two seconds, worked out what the day was, and did not say.. |
@@ -25277,11 +25331,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch70:186` (Tag 45) - sixteen
 - `b2ch70:226` (Tag 45) - eleven, one
 - `b2ch73:38` (Tag 50) - two
-- `b2ch73:134` (Tag 50) - eighteen, four, one, twenty
-- `b2ch73:150` (Tag 50) - one
-- `b2ch73:278` (Tag 50) - four, one
-- `b2ch73:298` (Tag 50) - eight, four, one, three, two
-- `b2ch73:334` (Tag 50) - four
+- `b2ch73:122` (Tag 50) - eighteen, four, one, twenty
+- `b2ch73:138` (Tag 50) - one
+- `b2ch73:266` (Tag 50) - four, one
+- `b2ch73:286` (Tag 50) - eight, four, one, three, two
+- `b2ch73:322` (Tag 50) - four
 - `b2ch74:180` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
 - `b2ch74:580` (Tag 53) - four, thirty-nine
 - `b2ch77:14` (Tag 3) - two
@@ -25308,7 +25362,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
 | 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee and did the thing with his eyes that he has.. |
 | 26 | b2ch24:130 | "You are not going to ask me how I know it was you," said Mr Yeom. |
 | 26 | b2ch24:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:152 | Mr Yeom laughed at that. |

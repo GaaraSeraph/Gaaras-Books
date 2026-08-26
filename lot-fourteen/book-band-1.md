@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.201 Woerter.
+Book One, 34 Kapitel, 101.196 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -16,18 +16,18 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 03 | v2.9 | 3.378 |
 | 04 | v1.11 | 2.441 |
 | 05 | v5.14 | 4.327 |
-| 06 | v1.10 | 2.068 |
+| 06 | v1.11 | 2.065 |
 | 07 | v6.6 | 3.860 |
 | 08 | v3.9 | 2.690 |
 | 09 | v3.5 | 3.120 |
 | 10 | v2.6 | 2.985 |
 | 11 | v2.13 | 2.721 |
-| 12 | v1.12 | 2.354 |
+| 12 | v1.13 | 2.362 |
 | 13 | v2.10 | 2.822 |
 | 14 | v7.10 | 2.601 |
 | 15 | v2.13 | 4.225 |
 | 16 | v1.21 | 3.268 |
-| 17 | v12.18 | 2.739 |
+| 17 | v12.19 | 2.729 |
 | 18 | v2.12 | 2.957 |
 | 19 | v1.17 | 3.191 |
 | 20 | v1.11 | 2.054 |
@@ -1462,7 +1462,7 @@ He stopped.
 ---
 
 # Book One · Chapter 6: Withdrawn or sold
-*Lot Fourteen* · Version 1.10 · EN
+*Lot Fourteen* · Version 1.11 · EN
 
 *Day 22 · Saturday 25 October*
 
@@ -1578,7 +1578,7 @@ Georgij stood in front of the glass in the east room for slightly longer than th
 
 He kept his chin level.
 
-Not up. Level. Men lift the chin when there is something at the throat, and then everybody looks at the throat.
+Not up. Level. He was told why on the second morning and he has not needed telling twice.
 
 "Sir," said the assistant, from the floor. "The cuff will be right by six."
 
@@ -3182,7 +3182,7 @@ Then, a few seconds later, he heard a drawer.
 ---
 
 # Book One · Chapter 12: You are better when you don't know
-*Lot Fourteen* · Version 1.12 · EN
+*Lot Fourteen* · Version 1.13 · EN
 
 ## Day Twenty-Three · Sunday 26 October
 
@@ -3202,7 +3202,7 @@ Ji-won came in at ten past and said good morning and then said, in the manner of
 
 "That's the collar," said Georgij, and Ji-won laughed before she had decided whether she was allowed to, and then went and did the flowers.
 
-Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly too long, and took the coffee outside.
+Mr Yeo came in at twenty past for his coffee and did the thing with his eyes that he has done every morning since the first, and took the coffee outside.
 
 Eun-ju arrived at eight and had clearly also seen the photograph, and did not mention it once in eight hours, which Georgij found considerably more interesting than if she had.
 
@@ -4709,7 +4709,7 @@ He put the notebook back in his pocket and turned his head.
 ---
 
 # Book One · Chapter 17: I have never put it down
-*Lot Fourteen* · Version 12.18 · EN
+*Lot Fourteen* · Version 12.19 · EN
 
 *Day 46 · Tuesday 18 November*
 
@@ -4905,7 +4905,7 @@ The hall light was on and Mrs Seo had gone to bed. The stone shelf was where it 
 
 Annie went up the stairs without saying anything, and he went up after her, because she had not sent him anywhere else.
 
-On the first floor the corridor ran east to west and crossed the one that went back into the north side of the house, and there was a chair at the crossing.
+On the first floor the corridor was exactly as he had first walked it, and the chair was still at the crossing.
 
 She stopped there and did not go west.
 

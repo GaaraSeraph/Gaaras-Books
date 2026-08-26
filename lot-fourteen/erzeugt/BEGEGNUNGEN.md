@@ -23,7 +23,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | Chairman Woo | 249 | 43 (b1ch07-b2ch90) | 1 | 74 |
 | Hana | 167 | 20 (b1ch09-b2ch62) | 1 | 74 |
 | Jang | 156 | 39 (b1ch05-b2ch89) | 2 | 60 |
-| Sim | 143 | 23 (b2ch31-b2ch89) | 2 | 53 |
+| Sim | 144 | 23 (b2ch31-b2ch89) | 2 | 53 |
 | Mrs Jeon | 113 | 24 (b2ch06-b2ch90) | 2 | 59 |
 | Mr Hwang | 106 | 22 (b2ch07-b2ch86) | 3 | 59 |
 | Mrs Seo | 104 | 49 (b1ch03-b2ch90) | 1 | 74 |
@@ -2554,7 +2554,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 
 ## Sim
 
-143 Nennungen in 23 Kapiteln.
+144 Nennungen in 23 Kapiteln.
 
 | Tag | Fundstelle | Zeile |
 |---|---|---|
@@ -2664,7 +2664,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
 | 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
-| 50 | b2ch73:416 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
+| 50 | b2ch73:50 | He gave it to him in the order it had happened and did not soften any of it. The shed ro.. |
+| 50 | b2ch73:404 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "Have you eaten today?" asked Sim, and he had the cup out before he had finished asking .. |
 | 51 | b2ch74:30 | Sim did not answer straight away, and it was not because he did not know. |
 | 51 | b2ch74:46 | Sim put his cup down on the saucer and lined it up, which he does. |
@@ -2753,7 +2754,8 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch72:250` (Tag 49) - one, two
 - `b2ch72:270` (Tag 49) - one, three, twenty
 - `b2ch72:306` (Tag 49) - one
-- `b2ch73:416` (Tag 50) - six, thirty
+- `b2ch73:50` (Tag 50) - four
+- `b2ch73:404` (Tag 50) - six, thirty
 - `b2ch74:66` (Tag 51) - thirty
 - `b2ch74:74` (Tag 51) - eleven, four, one, six, sixteen, ten
 - `b2ch74:102` (Tag 51) - two
@@ -3357,24 +3359,24 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 45 | b2ch70:338 | Mr Ahn did not say anything for a long moment. |
 | 50 | b2ch73:18 | "Tuesday," said Mr Ahn. |
 | 50 | b2ch73:38 | Mr Ahn looked at him for about two seconds and then put both hands on the edge of it. |
-| 50 | b2ch73:54 | Mr Ahn did not move at all. |
-| 50 | b2ch73:74 | "And what the man on the telephone made of it," said Mr Ahn. |
-| 50 | b2ch73:90 | Mr Ahn picked the cloth up and put it down again without using it. |
-| 50 | b2ch73:106 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
-| 50 | b2ch73:134 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
-| 50 | b2ch73:150 | "There's a second one and you'll have had it already," said Mr Ahn. |
-| 50 | b2ch73:178 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
-| 50 | b2ch73:214 | Mr Ahn did not say anything for a moment. |
-| 50 | b2ch73:226 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
-| 50 | b2ch73:242 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
-| 50 | b2ch73:278 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
-| 50 | b2ch73:286 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
-| 50 | b2ch73:298 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
-| 50 | b2ch73:310 | "It's not for you," said Mr Ahn. "Don't make it that." |
-| 50 | b2ch73:334 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
-| 50 | b2ch73:354 | Mr Ahn plugged the fan in at the wall. |
-| 50 | b2ch73:378 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
-| 50 | b2ch73:398 | Mr Ahn almost got out the thing that is not quite a laugh. |
+| 50 | b2ch73:54 | Mr Ahn did not move once in the whole of it. |
+| 50 | b2ch73:62 | "And what the man on the telephone made of it," said Mr Ahn. |
+| 50 | b2ch73:78 | Mr Ahn picked the cloth up and put it down again without using it. |
+| 50 | b2ch73:94 | "My sister has never in her life said that a thing wouldn't have to last." Mr Ahn's voic.. |
+| 50 | b2ch73:122 | "A person who's finished doesn't tell you when." Mr Ahn was looking straight at him now... |
+| 50 | b2ch73:138 | "There's a second one and you'll have had it already," said Mr Ahn. |
+| 50 | b2ch73:166 | "Then don't." Mr Ahn wiped his hands, which did not need doing. "But I want the other ha.. |
+| 50 | b2ch73:202 | Mr Ahn did not say anything for a moment. |
+| 50 | b2ch73:214 | "A house that's being kept doesn't change its people at the end of August," said Mr Ahn... |
+| 50 | b2ch73:230 | "Whoever's in that room is bored." Mr Ahn said it without any weight at all. "You don't .. |
+| 50 | b2ch73:266 | "Four years of that telephone and I know exactly one thing about it, because it's the on.. |
+| 50 | b2ch73:274 | "So either she was already standing next to it, and she never has been," said Mr Ahn, "o.. |
+| 50 | b2ch73:286 | "Then that's the thing to go and ask, and it's the only one of the four that can't be re.. |
+| 50 | b2ch73:298 | "It's not for you," said Mr Ahn. "Don't make it that." |
+| 50 | b2ch73:322 | Mr Ahn nodded once and did not ask any of the four things a man is entitled to ask at th.. |
+| 50 | b2ch73:342 | Mr Ahn plugged the fan in at the wall. |
+| 50 | b2ch73:366 | "Until she comes in here and switches it off herself." Mr Ahn carried it over and set it.. |
+| 50 | b2ch73:386 | Mr Ahn almost got out the thing that is not quite a laugh. |
 | 53 | b2ch74:180 | He gave her Sim's sixteen calls and the four minutes ten and the six and the eleven and .. |
 | 53 | b2ch74:580 | "Second. Mr Ahn does not do anything on his own. He has a month and a van in his head an.. |
 | 3 | b2ch77:14 | Mr Ahn looked at him for about two seconds, worked out what the day was, and did not say.. |
@@ -3429,11 +3431,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch70:186` (Tag 45) - sixteen
 - `b2ch70:226` (Tag 45) - eleven, one
 - `b2ch73:38` (Tag 50) - two
-- `b2ch73:134` (Tag 50) - eighteen, four, one, twenty
-- `b2ch73:150` (Tag 50) - one
-- `b2ch73:278` (Tag 50) - four, one
-- `b2ch73:298` (Tag 50) - eight, four, one, three, two
-- `b2ch73:334` (Tag 50) - four
+- `b2ch73:122` (Tag 50) - eighteen, four, one, twenty
+- `b2ch73:138` (Tag 50) - one
+- `b2ch73:266` (Tag 50) - four, one
+- `b2ch73:286` (Tag 50) - eight, four, one, three, two
+- `b2ch73:322` (Tag 50) - four
 - `b2ch74:180` (Tag 53) - eleven, forty-one, four, six, sixteen, ten
 - `b2ch74:580` (Tag 53) - four, thirty-nine
 - `b2ch77:14` (Tag 3) - two
@@ -3460,7 +3462,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 6 | b1ch05:144 | **The house.** Mrs Seo, nine years, lives behind the kitchen, runs the staff, the accoun.. |
 | 6 | b1ch05:172 | **Mr Yeo.** Head gardener, twenty-six years on the property, older than Mr Noh and consi.. |
 | 6 | b1ch05:178 | **Tae-min.** Nineteen, under Mr Yeo, and frightened of Mr Yeo. Does the east lawn on Mon.. |
-| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee, looked at Georgij's throat for slightly to.. |
+| 23 | b1ch12:22 | Mr Yeo came in at twenty past for his coffee and did the thing with his eyes that he has.. |
 | 26 | b2ch24:130 | "You are not going to ask me how I know it was you," said Mr Yeom. |
 | 26 | b2ch24:142 | "That is a very good answer," said Mr Yeom. "I am going to think about it later. Now. Yo.. |
 | 26 | b2ch24:152 | Mr Yeom laughed at that. |

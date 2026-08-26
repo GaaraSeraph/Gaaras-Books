@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.899 Woerter.
+Book Two, 89 Kapitel, 219.870 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -83,7 +83,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 70 | v1.3 | 2.276 |
 | 71 | v1.4 | 3.649 |
 | 72 | v1.5 | 2.302 |
-| 73 | v1.2 | 2.168 |
+| 73 | v1.3 | 2.139 |
 | 74 | v1.8 | 3.557 |
 | 75 | v1.2 | 2.539 |
 | 76 | v1.1 | 2.006 |
@@ -16078,7 +16078,7 @@ Annie looked at him for slightly longer than she needed to.
 ---
 
 # Book Two · Chapter 73: What the month is for
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Forty-Seven · Tuesday 15 September
 
@@ -16110,17 +16110,9 @@ Mr Ahn looked at him for about two seconds and then put both hands on the edge o
 
 "And what she said."
 
-"That there is no need to start the shed roof, because it will not have to last past November." Georgij did not soften any of it. "She said it twice, in two shapes, and put the month in both times."
+He gave it to him in the order it had happened and did not soften any of it. The shed roof, which will not have to last past November, said twice and with the month in both. The arrangements changing at the end of the month and the number that may stop. And at the end of it she had thanked Sim by name, which in four years she has never done.
 
-Mr Ahn did not move at all.
-
-* * *
-
-"And then she said the arrangements for the house are being changed at the end of the month and there may be a different number afterwards. She said she was telling him so that he would not read anything into it if the number stopped."
-
-"And."
-
-"And she thanked him by name. In four years she has never used it."
+Mr Ahn did not move once in the whole of it.
 
 * * *
 

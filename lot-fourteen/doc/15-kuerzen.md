@@ -901,3 +901,52 @@ auf 21**. Was übrig ist, ist geprüfte Absicht:
 - **Woos Bericht in K61 gegen Georgijs Wiedergabe in K75**, weil der Text dort
   ausdrücklich sagt *"I am not going to improve any of it"*.
 
+---
+
+## Stand der Kürzungsaufträge, 26.08. abends
+
+### Erledigt
+
+**Auftrag 3 ganz** (die Berichtsnester und die wörtlichen Paare), dazu der
+Widerspruch zwischen K62 und K74/75/78, der dabei aufgefallen ist. Siehe den
+Abschnitt darüber.
+
+**Aus Auftrag 2**, Punkt 1 und 2: der Anruf vom vierzehnten stand dreimal im
+Buch, in K72 als Sims Bericht und in K73 noch einmal wörtlich an Mr Ahn. **Der
+Bericht in K73 ist jetzt ein Absatz Erzählung**, weil das, was das Kapitel
+trägt, erst danach anfängt: Mr Ahns Lesart des Monats. Was er sagt, steht
+vollständig da.
+
+**Drei wörtliche Wiederholungen aus Band 1**, die die Messung gefunden hat und
+die Leseliste nicht: die Regel über das Kinn (K05/K06), Mr Yeos Blick auf den
+Hals (K05/K12) und der Korridor im ersten Stock (K03/K17). Alle drei waren
+Wiederaufnahmen, die vergessen hatten zu sagen, dass sie welche sind.
+
+### Nicht ausgeführt, weil es Autorenentscheidungen sind
+
+Diese Punkte stehen im Dokument ausdrücklich als Vorschlag und nicht als
+Urteil. Sie kosten je ein ganzes Kapitel oder eine Zusammenlegung, und keiner
+lässt sich mechanisch belegen:
+
+| Punkt | Was | Ersparnis |
+|---|---|---|
+| A1 #2 | **K16 und K17 zusammenlegen.** K17 ist unantastbar, aus K16 müssen zwei Absätze mit | ~1400 von 1992 |
+| A1 #4 | **K26+K27 und K29+K30.** Je Ankündigung und Bericht am selben Erzähltag. **Beide tragen zusammen fünf Zeilen des Nähe-Registers**, und die Regel sagt dann HALTEN | ~2500 von 8452 |
+| A1 #5 | **K33 und K34.** Nachbartage, gleiches Zimmer, gleiche Person | ~1500 von 4119 |
+| A1 #6 | **K43 mit K44.** Der zehnte Mensch wird dreimal gefunden | ~1800 von 5153 |
+| A1 #8 | **K58 und K59.** Ein Tag, zwei Annie-Szenen im selben Zimmer | ~900 |
+| A2 #3 | **K67 und K68 zusammenlegen.** Zusammen 4996 Wörter, also **über der Spanne** - eine Zusammenlegung verlangt hier zusätzlich rund 700 Wörter Schnitt | - |
+
+**Und zwei, die sich beim Nachmessen nicht bestätigt haben.** Auftrag 1, Punkt 1
+nennt K3/K5 und K8/K9 als dieselbe Sache zweimal erzählt. `doppelt.py` findet
+zwischen diesen Kapiteln **keine einzige Überschneidung über 0.5**. Der Befund
+stammt aus dem Lesen und meint die Struktur, nicht die Sätze; er kann stimmen,
+aber er ist nicht mechanisch belegbar und braucht deshalb ein Urteil und keinen
+Lauf.
+
+### Offen und größer als alles andere: das Heft
+
+Auftrag 4 ist kein Kürzungsauftrag, sondern ein Schreibauftrag, und er ist
+unberührt. **Fünfunddreißig Kapitel schreiben ins Heft hinein, zwei holen etwas
+heraus.** Der Modellfall existiert genau einmal, in K45.
+

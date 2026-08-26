@@ -727,18 +727,18 @@ der Spanne. Nach `doc/01-craft.md` Punkt 0 wird dafuer nicht gekuerzt.
 - **Kapitel 20** *I came back with a favour* (v1.11) - Der Bericht ueber Yeongjong, die vierzehn Meter, das gefaltete Blatt und der vierte Termin, den keiner nennt, Woos Satz ueber das Vetorecht und Annies Schweigen dazu, ihre eine Frage, und die Suche nach einem Haus.
 - **Kapitel 19** *What happens on the Tuesday* (v1.17) - Yeongjong. Die vierzehn Meter, Woo nennt seinen eigenen Preis und bekommt ihn unterschrieben, der leere Tarif, "Can you fill it?", die drei Daten und ein Mittwoch im September, und was er sich selbst dabei ausrechnet.
 - **Kapitel 18** *On account* (v2.12) - Die neunzehn Seiten kommen zurueck, vier Bleistiftnotizen, die Abschlagszahlung, die Uhr auf vierzehn Tage, und im Arbeitszimmer zwei Bitten: das Scheingebot auf Hanseong und zehn Jahre Ladung fuer Woos Terminal.
-- **Kapitel 17** *I have never put it down* (v12.18) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
+- **Kapitel 17** *I have never put it down* (v12.19) - Der Bericht auf der Schnellstraße, die Angst als billigste Ware, die Falle im Vorstand, Hanas Belastungen, die Abtrennung, die festgelegte Zeile, ihre Antwort an der Flurkreuzung.
 - **Kapitel 16** *Where the walls are* (v1.21) - Das Essen mit Sang-hoon, die vier Wände, der Biss über dem Gespräch über die Decke, das best-made thing.
 - **Kapitel 15** *Four thousand two hundred* (v2.13) - Das Essen zu dritt, Ye-rin, das Vetorecht, der Mietvorvertrag, die viertausendzweihundert.
 - **Kapitel 14** *In the same size type* (v7.10) - Die Gesichter, der Irrtum über Do-yun, Hanseong, der Plan in drei Teilen, das erste Lächeln.
 - **Kapitel 13** *The man with the open hand* (v2.10) - Das Ja ohne Bedingung, der Mietwagen und das vierte Datum, das Essen mit Woo.
-- **Kapitel 12** *You are better when you don't know* (v1.12) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
+- **Kapitel 12** *You are better when you don't know* (v1.13) - Jangs Bericht und der vierte Wagen, Kangs Anruf, Annies Bitte.
 - **Kapitel 11** *Thank you for telling me* (v2.13) - Die Heimfahrt, vollständige Offenlegung, der gemeldete Regelbruch, die Namensfrage.
 - **Kapitel 10** *What did she pay for you* (v2.6) - Woos Einladung und die abgewiesene Frage, Kang und der zweite Griff, der Blickwechsel, Sang-hoon am Tisch.
 - **Kapitel 9** *The friendly ones* (v3.5) - Hana, die Terrasse mit Min-ho, Kang an den Türen, die dreifache Frage, der Handkuss, der Ausrutscher.
 - **Kapitel 8** *Something to do with my hands* (v3.9) - Das Glas, die Frau von der Stiftung, die zwei Direktoren und der Name aus Busan, Woos Prüfung, die Frau in Dunkelrot, die Versteigerung.
 - **Kapitel 7** *Where were you educated* (v6.6) - Die Fahrt, die Ankunft, die ersten fünfzehn Minuten, die Legende, der Schnitt.
-- **Kapitel 6** *Withdrawn or sold* (v1.10) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
+- **Kapitel 6** *Withdrawn or sold* (v1.11) - Der Katalog ohne den Jungen, die drei aus dem Keller, der Kragen, Jang vor dem Abend, Mrs Seo, die Fernbedienung in die Clutch.
 - **Kapitel 5** *Seven Letters* (v5.14) - Vier datierte Szenen, darunter die Inventur des Haushalts an Tag sechs: Jang an Tag vier, der Schneider an Tag neun samt verschwundener Fernbedienung, die Datei auf ihrem Rechner an Tag neunzehn.
 - **Kapitel 4** *Count again* (v1.11) - Der erste Morgen, die Küche, Laptop und Telefon, die verweigerte Gästeliste, die zwei fehlenden Kameras, Los elf.
 - **Kapitel 3** *Dead angles* (v2.9) - Mrs Seo, Ji-won, Bae, die Inspektion, die Kamerawinkel, "There are no exits" und seine vier.
@@ -3346,7 +3346,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Register B 8 (`doc/10-naehe.md`): die Hand im Haar, und er koennte hinterher
     nicht sagen, wann sie angefangen hat. Das ist der Beleg zu Kapitel 59.
 
-- **Band 2, Kapitel 73** *What the month is for* (v1.2) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
+- **Band 2, Kapitel 73** *What the month is for* (v1.3) - **Tag 347, Di 15. September. Der Bruder liest den Anruf gegen Sim und gegen Georgij, und er dreht ihn um.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Georgij bringt November hoch und macht es nicht leichter.** Er gibt die drei
