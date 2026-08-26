@@ -3863,6 +3863,53 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     managed that. Every time it has been said about me in this house, it has been
     said by somebody else first."*
 
+- **Band 2, Kapitel 83** *Twenty-three days* (v1.0) - **Tag 385, Fr 23. Oktober, Gwangyang. Er faehrt vierhundert Kilometer, um einen Namen richtig zu sagen und ihr eine Stelle zu kosten.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Formal wieder ein anderer Gang:** eine Reise, ein Ort, kein Verhoer. 57
+    Prozent Dialog gegen 67 in Kapitel 82.
+  - **ZWEI ZUSAGEN AUS KAPITEL 71 SIND BEZAHLT.** Der 23. Oktober, am Tag, mit dem
+    ersten Zug, und wieder ohne etwas mitzubringen. Und der Name in allen drei
+    Teilen, die sie am 11. September verlangt hat.
+  - **Der dritte Teil kommt von Mr Ahn** und hat ihn vierzig Sekunden gekostet,
+    was fuer ihn lange ist: *"Nobody has said it in front of me since the February
+    she went. I have to hear it first."* **Ahn Jung-hee war Jung-hee-ya bis etwa
+    elf**, dann Jung-hee, und nach ihrem Weggang nach Seoul benutzte die Mutter
+    Jung-hee-ya wieder am Telefon und nie in einem Raum.
+  - **NEUER KANON, Mrs Jeon in Gwangyang:** eine Etage ueber einem Reifenladen,
+    Aussentreppe, ein Raum mit vier Schreibtischen. Ihrer steht als einziger zur
+    Wand. Das Schild *Settlement* haengt seit dem 9. Oktober, mit der Schere
+    geschnitten.
+  - **Was sie in drei Wochen gefunden hat:** die Firma zahlt seit 2011 eine
+    Abgabe, die 2011 weggefallen ist, und niemand hat je nachgesehen, weil der
+    Mann, der den Plan aufgesetzt hat, 2013 gestorben ist. **Die Zahl gibt sie
+    nicht her**, weil sie der Firma gehoert und nicht ihr. Gefunden hat sie es,
+    weil sie elf Tage lang die Kisten in Ordnung gebracht hat.
+  - **Und der Satz, der das Kapitel traegt:** der Neffe hat sie am Dienstag
+    gefragt, was sie tun sollte. *"I have been in offices since 1998 and no man
+    has ever asked me that."*
+  - **DER PREIS.** Der Maerz ist weg, die erste Stunde faellt in den November, und
+    es gibt keine Fassung, in der sie im November in dem Raum und im November hier
+    ist. Georgij bietet ausdruecklich nicht an, es zu regeln, weil Regeln hiesse,
+    dass jemand an dieser Kueste etwas ueber sie erfaehrt. *"That is correct and I
+    would have refused it."*
+  - **Ihre eigene Aufstellung des Jahres, in vier Posten**, und dann: *"I want you
+    to know that I have understood that completely, and that you have not tricked
+    me, and that I am about to say yes."*
+  - **Wie sie es haelt, und es ist ihre Maschine:** sie sagt es dem Neffen am
+    Montag, ohne zu sagen wofuer, und er sagt ja, weil er sich fuer die Abgabe in
+    ihrer Schuld glaubt. *"In January, when he has stopped thinking that, we will
+    find out what I am actually worth here."* Dazu: *"I would sooner be needed here
+    for a levy than liked here for a fortnight."*
+  - **Der Kreuzverweis, den er zieht und nicht kommentiert:** ihre Art, unangenehme
+    Dinge zu sagen (im Korridor, schlecht, am Freitag, mit etwas anderem als
+    Anlass) ist woertlich Annies Selbstbeschreibung aus dem Oktober des Vorjahres.
+    *"Then she is right and so am I, and neither of us invented it."*
+  - **Und der Schlusseintrag im Zug, der die Bilanz des Monats zieht:** *"Every
+    person in this arrangement who is not being paid has now given up something
+    they had. The two who are being paid have given up nothing at all."*
+  - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
+
 
 
 ---
