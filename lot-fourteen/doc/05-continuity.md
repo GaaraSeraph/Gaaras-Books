@@ -2061,7 +2061,7 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
 
   **K bleibt vollstaendig offen, jetzt mit einem ausgeschlossenen Ansatz:** Golfclub-Mitgliederlisten sind fuer Nicht-Mitglieder nicht zugaenglich, und Georgij lehnt es ab, fuer eine Namensliste beizutreten. **Faellig: ein anderes Dokument fuer K, und wer bei der Frau in Wonju taeglich nach dem Tank sieht - ueber die Gasfirma, nicht ueber das Tor.**
 
-- **Band 2, Kapitel 45** *The line above it* (v1.4) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
+- **Band 2, Kapitel 45** *The line above it* (v1.5) - **Tag 279, Do 9. Juli. Drei Szenen: der Schreibtisch am Vormittag, das Buch am Nachmittag, der Bericht um neun.**
 
   **Zwei Tage an K ergeben nichts**, und der Fund kommt nicht von draussen, sondern aus seiner eigenen Abschrift. Er hat Sang-hoons Kalender in der ersten Juniwoche kopiert und dabei vier Zeilen herausgenommen und alles stehen lassen, wonebem sie standen. *"K has no date because I did not copy one, which is not the same as there having been none."* Drei Tage vorher hat er Jangs Lieferwagen ausdruecklich in der Reihenfolge notiert, in der Jang ihn bemerkt hat, mit der Begruendung dazu - und die eigene Liste nie umgedreht.
 
@@ -2630,7 +2630,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   aufgefallen, nachdem er geschrieben war.
 
 
-- **Band 2, Kapitel 46** *The post still comes* (v1.3) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
+- **Band 2, Kapitel 46** *The post still comes* (v1.4) - **Tag 283, Mo 13. Juli. Eine Woche Abstand, mit Begruendung am Montagabend aufgeschrieben.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt, waehrend die Inhaltspruefung in Band 1 stand. Der Inhaltssatz stammt aus der ersten Zeile und nicht aus einem Durchgang.
   **v1.1 am 25.08.: die Frau mit den Pflanzen nach `doc/12-stimmen.md`.** Sie ist
@@ -2642,7 +2642,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   nebenbei ab. Die Vorlage stammt vom Autor und steht in `doc/12-stimmen.md`.
 
 
-- **Band 2, Kapitel 47** *Twelve white stems* (v1.4) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
+- **Band 2, Kapitel 47** *Twelve white stems* (v1.5) - **Tag 288, Sa 18. Juli. Mrs Seo bringt sie um zehn nach neun in das kleine Zimmer.**
 
   **Noch nicht inhaltlich geprueft.** Wie 46.
 
@@ -2650,19 +2650,19 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 49** *What he asked her* (v1.3) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
+- **Band 2, Kapitel 49** *What he asked her* (v1.4) - **Day Two Hundred and Ninety-Two · Wednesday 22 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 50** *The one he kept* (v2.6) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
+- **Band 2, Kapitel 50** *The one he kept* (v2.7) - **Day Two Hundred and Ninety-Eight · Tuesday 28 July.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 51** *The sixth one* (v1.3) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
+- **Band 2, Kapitel 51** *The sixth one* (v1.4) - **Tag 300, Do 30. Juli. Die Karte und die sechste Kueche.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 52** *Against her return* (v1.7) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
+- **Band 2, Kapitel 52** *Against her return* (v1.8) - **Tag 302, Sa 1. August. Sim wird gedreht und gibt Choi ausdruecklich nicht her. Georgij isst nichts.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **v1.2 am 25.08.: Kausalitaet und Register.** Der Autor: *"Reicht ihm ein
@@ -2690,11 +2690,11 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Dazu Sims Register durchgehalten, wo es ernst wird. Siehe `doc/12-stimmen.md`.
 
 
-- **Band 2, Kapitel 53** *The one I did not say in May* (v1.4) - **Tag 305, Di 4. August. "I am the February one."**
+- **Band 2, Kapitel 53** *The one I did not say in May* (v1.5) - **Tag 305, Di 4. August. "I am the February one."**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
-- **Band 2, Kapitel 54** *Clause eleven* (v1.3) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
+- **Band 2, Kapitel 54** *Clause eleven* (v1.4) - **Tag 307, Do 6. August. Annies Oktoberakte und die Provenienzklausel.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
 
@@ -2704,7 +2704,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   v1.1 am 25.08.: das Datum in *"She has not done that since ..."* stand auf dem
   30. April und war falsch. Siehe `doc/10-naehe.md`, Register B.
 
-- **Band 2, Kapitel 56** *Four streets* (v1.7) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
+- **Band 2, Kapitel 56** *Four streets* (v1.8) - **Tag 315, Fr 14. August. Mr Ahn. Die vierte Zeile hat einen Namen: Ahn Jung-hee, fuenfunddreissig.**
   **v1.2 am 25.08.: Mr Ahn nach `doc/12-stimmen.md`**, und eine Zahl aufgeloest.
   Er misst jetzt durchgehend in Fristen (*"I've had a bearing take longer than
   four days"*), zieht zusammen und fasst bei jeder schweren Antwort etwas auf der
@@ -2741,7 +2741,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     und ob die Hausprovision irgendwo auftauchen muss.
 
 
-- **Band 2, Kapitel 57** *Nobody paid* (v1.7) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
+- **Band 2, Kapitel 57** *Nobody paid* (v1.8) - **Tag 318, Mo 17. August. Yeongjong. Woo gibt die drei Stunden aus, ungefragt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon in diesem Kapitel, bitte gegenpruefen:**
@@ -2798,7 +2798,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   ein Wort. Nicht von mir geaendert.
 
 
-- **Band 2, Kapitel 58** *The tenth plate* (v1.6) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
+- **Band 2, Kapitel 58** *The tenth plate* (v1.7) - **Tag 319, Di 18. August. Der Zettel aus Sims Tasche, sechzehn Tage alt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   **Neuer Kanon:**
@@ -2826,7 +2826,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Annie: *"this stops being a campaign and starts being weather."*
   - Mrs Seo und Annie sprechen hier zum ersten Mal nach `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 59** *Buy her* (v1.5) - **Tag 319, Di 18. August, derselbe Tag. Die fuenfte Bitte.**
+- **Band 2, Kapitel 59** *Buy her* (v1.6) - **Tag 319, Di 18. August, derselbe Tag. Die fuenfte Bitte.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Die Zaehlung:** vier Bitten in acht Monaten (Papier, ein Raum ohne andere,
@@ -2848,7 +2848,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     er hat aufgehoert mitzuzaehlen, was im Text steht.
 
 
-- **Band 2, Kapitel 60** *Somebody's daughter* (v1.3) - **Tag 322, Fr 21. August. Annies vierte Frage, drei Tage spaeter.**
+- **Band 2, Kapitel 60** *Somebody's daughter* (v1.4) - **Tag 322, Fr 21. August. Annies vierte Frage, drei Tage spaeter.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Der Fehler, den Georgij an sich selbst findet:** fuenf Monate Feldzug, jede
@@ -2882,7 +2882,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     kommt am Sonntag. *"He did not leave that service under a cloud. Somebody put
     him where he is."*
 
-- **Band 2, Kapitel 61** *The doorway* (v1.7) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 61** *The doorway* (v1.8) - **Tag 324, So 23. August. Woo kommt ins Haus. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Woos Zollakte wurde am **11. April 2002** geschlossen, ohne Begruendung.
@@ -2913,7 +2913,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     to tell her anything."*
 
 
-- **Band 2, Kapitel 62** *At thirty* (v1.10) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
+- **Band 2, Kapitel 62** *At thirty* (v1.11) - **Tag 324, So 23. August, derselbe Abend. Annie wusste es.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij gibt Woos Befund weiter, ungeordnet und mit der Dreiteilung der
@@ -2949,7 +2949,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
      **Im Text steht jetzt kein Sterbedatum.**
 
 
-- **Band 2, Kapitel 63** *One sentence* (v1.8) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
+- **Band 2, Kapitel 63** *One sentence* (v1.9) - **Tag 326, Di 25. August. Zurueck in die Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Georgij sagt Mr Ahn vier Dinge: sie lebt; jemand stellt sich unter sie; **er
@@ -2969,7 +2969,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - Mr Ahn spricht hier durchgehend nach `doc/12-stimmen.md`: Fristen, Bauteile,
     Kontraktionen, und bei jeder schweren Antwort etwas auf der Werkbank.
 
-- **Band 2, Kapitel 64** *The one who orders* (v1.8) - **Tag 328, Do 27. August. Der Anruf.**
+- **Band 2, Kapitel 64** *The one who orders* (v1.9) - **Tag 328, Do 27. August. Der Anruf.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - Sims Buero in Jongno, neunzehn Jahre, vier Menschen je dort gewesen.
@@ -3000,7 +3000,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     er steht.**
 
 
-- **Band 2, Kapitel 65** *No story at all* (v1.6) - **Tag 333, Di 1. September. Mrs Sunwoo, nach fuenf Monaten.**
+- **Band 2, Kapitel 65** *No story at all* (v1.7) - **Tag 333, Di 1. September. Mrs Sunwoo, nach fuenf Monaten.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Er kommt, um sie zu warnen, und will nichts.** Die Klausel elf wirkt fuer
@@ -3033,7 +3033,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     **Nachgetragen: er faellt in Kapitel 66.**
 
 
-- **Band 2, Kapitel 66** *What silence costs* (v1.3) - **Tag 334, Mi 2. September. Der zweite Name faellt, und er entscheidet, sichtbar zu werden.**
+- **Band 2, Kapitel 66** *What silence costs* (v1.4) - **Tag 334, Mi 2. September. Der zweite Name faellt, und er entscheidet, sichtbar zu werden.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **NEUER KANON, Name: die Frau am Sauerstoff heisst Moon Hae-sook.** Vaters
@@ -3079,7 +3079,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     Figuren.
 
 
-- **Band 2, Kapitel 67** *Four hundred and one* (v1.9) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
+- **Band 2, Kapitel 67** *Four hundred and one* (v1.10) - **Tag 336, Fr 4. September, Mapo. GROSSER KANON, bitte gegenpruefen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Mrs Ha**, Anfang sechzig, zwei Zimmer ueber einem Sanitaergeschaeft.

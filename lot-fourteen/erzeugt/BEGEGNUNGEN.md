@@ -3592,7 +3592,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:62 | Mrs Sunwoo said it in a ballroom in October and he has quoted it to himself perhaps fort.. |
 | 36 | b2ch65:8 | "Five months," said Mrs Sunwoo. |
 | 36 | b2ch65:26 | Mrs Sunwoo did not move at all. |
-| 36 | b2ch65:36 | "Then say the part you came for," said Mrs Sunwoo. |
+| 36 | b2ch65:36 | "You have not come about a clause," said Mrs Sunwoo. |
 | 36 | b2ch65:50 | Mrs Sunwoo sat with that for a while. |
 | 36 | b2ch65:66 | Mrs Sunwoo picked up the bell that is on the table and did not ring it. |
 | 36 | b2ch65:82 | "Now my turn," said Mrs Sunwoo. |
