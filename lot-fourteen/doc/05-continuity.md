@@ -935,8 +935,12 @@ anfangen. `check.py` liest beide Formen; ohne Praefix ist Band 1 gemeint.
   - **Kein Bruch ihres Registers** (`doc/12-stimmen.md`): kein weiches Wort, keine
     Begruendung ueber sich selbst, kein Zusatz. Feststellung und Befehl.
   - **Und das Bandende bleibt unangetastet:** die Bitte hat einen Preis im Satz.
-    *"If the world points anything at you at all, I will burn the world down"*
-    bleibt der **einzige** Satz in zwei Baenden ohne Preis darin.
+    Der Satz ohne Preis darin ist **noch nicht geschrieben**: er steht als
+    Entwurf in `doc/07-next.md` (*"If the world points anything at you at all, I
+    will burn the world down"*) und in keiner Kapitelfassung. **Korrigiert am
+    26.08.:** hier stand er bis dahin als bestehender Satz, mit der Behauptung,
+    er sei der einzige ohne Preis *in zwei Baenden*. Ein geplanter Satz im
+    Kanondokument ist genau der Stand, gegen den eine Schreibsitzung schreibt.
 
 - **Band 2, Kapitel 7** *Not the first* (v1.6) - **Tag 166, Mi 18. Maerz. Zwei Szenen an einem Tag, und die zweite macht die erste wertlos.**
 
@@ -2029,7 +2033,7 @@ und *"A removed line is the loudest thing in a log."* Gefunden mit
 `werkzeug/belege.py --kapitel`, das jedes Zitat dem Kapitel zuordnet, in dem es
 wirklich steht. Offen bleibt nur die alte Kopfzeile: Alte Kopfzeile: **Tag 280, Fr 10. Juli. Drei Szenen: der Schreibtisch am Vormittag, das kleine Zimmer um sieben, die Nacht bis drei.**
 
-  **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Georgij nennt es beim Namen: *"a man standing still on a road for a piece of information that had been sitting in a provincial licence register the entire time."* Jang bleibt trotzdem am Haus.
+  **Die Gasfirma steht in einer Provinzliste und war nie versteckt.** Aus Jangs drei Schriftzeichen werden sechs Firmen und daraus eine, und es dauert eine Stunde. Damit faellt die Beobachtung am 16. Juli aus - der Termin stammt aus Kapitel 44, sechster Juli plus zehn Tage. Der Text sagt es in der Erzaehlung und nicht in Georgijs Mund (b2 K44 Z69): *"Industrial gas is licensed and the licences are published by province"* - die Firma ist eine von sechs in der Provinz. **Korrigiert am 26.08.:** hier stand bis dahin ein zugespitzter Satz in Anfuehrungszeichen, Georgij zugeschrieben, den es nirgends gibt. Jang bleibt trotzdem am Haus.
 
   **Und damit ist die Papierstrasse zu Ende.** Wer ein Konto haelt und wer anruft, steht in keinem Register der Welt.
 
@@ -3122,8 +3126,9 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
   - **Mr Kwon faehrt am 9. September vier Stunden hoch und steht am Tor.** Er will
     nichts rueckgaengig machen und um nichts bitten. Er will **wissen, wem er
     danken soll**, und hat vier Monate dafuer gebraucht. Woo hatte ihn im Juni
-    weitergeschickt: *"he should go and ask the person who did not take his
-    telephone call."*
+    weitergeschickt - im Text steht es als Kwons Bericht und nicht als Woos
+    Rede (b2 K69 Z114): *"He said the price was not his to quote, and that I
+    should go and ask the man who did not take my telephone call."*
   - **Annies Antwort ist die eigentliche Bezahlung, und sie gibt ihm nichts:**
     *"Nothing was arranged for the five of you. You were arranged for."* Und dann:
     *"You do not owe anybody in this house one hour of anything… If you go home
