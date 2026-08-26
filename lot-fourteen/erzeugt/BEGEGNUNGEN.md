@@ -928,11 +928,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch78:198 | "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave m.. |
 | 10 | b2ch78:232 | Annie did not defend it. |
 | 10 | b2ch78:270 | Annie let a moment go past. |
-| 10 | b2ch78:292 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
-| 10 | b2ch78:302 | Annie did not answer that. |
-| 10 | b2ch78:336 | Annie stood in the hall. |
-| 10 | b2ch78:348 | "Say what he did in the hall," said Annie. |
-| 10 | b2ch78:360 | Annie looked out of the window for a while. |
+| 10 | b2ch78:290 | "You would answer all four and you would do it well, and then you would be a man of seve.. |
+| 10 | b2ch78:300 | Annie did not answer that. |
+| 10 | b2ch78:334 | Annie stood in the hall. |
+| 10 | b2ch78:346 | "Say what he did in the hall," said Annie. |
+| 10 | b2ch78:358 | Annie looked out of the window for a while. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 12 | b2ch80:20 | The second thought was worse and he put it away from him. A man of seventy-eight who has.. |
 | 4 | b2ch80:30 | "Say the number," said Annie. |
@@ -1224,7 +1224,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:112` (Tag 7) - four, one, six
 - `b2ch78:136` (Tag 7) - one, two
 - `b2ch78:198` (Tag 10) - fifty, twenty, twenty-five
-- `b2ch78:292` (Tag 10) - four, one, seventy-eight
+- `b2ch78:290` (Tag 10) - four, one, seventy-eight
 - `b2ch80:20` (Tag 12) - one, seventy-eight
 - `b2ch80:80` (Tag 4) - eight
 - `b2ch80:122` (Tag 4) - four hundred and eighty-one million, one, three, twenty
@@ -1788,7 +1788,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 9 | b2ch13:88 | Woo sat back and looked at him. |
 | 9 | b2ch13:108 | Woo did not say anything for a while. |
 | 9 | b2ch13:124 | "That is either the most honest thing anybody has said to me this year or it is the most.. |
-| 9 | b2ch13:128 | "Now tell me what it is for," said Woo, "because five firms do not need work in the midd.. |
+| 9 | b2ch13:128 | "And there is a reason for it," said Woo, "because five firms do not need work in the mi.. |
 | 9 | b2ch13:140 | Woo listened to the whole of it without moving. |
 | 9 | b2ch13:154 | "I am seventy-eight," said Woo. "I have finished four men in my life and I remember the .. |
 | 9 | b2ch13:158 | "Yes." Woo pulled a pad towards him. "Seven years." |
@@ -1901,11 +1901,11 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch78:256 | "Yes," said Woo. "It was." |
 | 10 | b2ch78:266 | "Then I will say the useful part and we will get on to what you came for." Woo did not r.. |
 | 10 | b2ch78:274 | Woo put one hand flat. |
-| 10 | b2ch78:282 | "Why," said Woo. |
-| 10 | b2ch78:288 | Woo looked at her properly for the first time since the hall. |
-| 10 | b2ch78:298 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
-| 10 | b2ch78:306 | "You have taken something off me," said Woo. |
-| 10 | b2ch78:340 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
+| 10 | b2ch78:280 | "Why," said Woo. |
+| 10 | b2ch78:286 | Woo looked at her properly for the first time since the hall. |
+| 10 | b2ch78:296 | "And you knew that in the drive and you came anyway, and you brought him so that there w.. |
+| 10 | b2ch78:304 | "You have taken something off me," said Woo. |
+| 10 | b2ch78:338 | "I am not doing it for you." Woo did not put his hand out. "I have carried those four fo.. |
 | 12 | b2ch80:6 | Nothing came from Chairman Woo on the Tuesday and nothing came on the Wednesday, and nei.. |
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
@@ -2062,7 +2062,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:240` (Tag 10) - twenty-five
 - `b2ch78:266` (Tag 10) - one
 - `b2ch78:274` (Tag 10) - one
-- `b2ch78:340` (Tag 10) - four, twenty-four
+- `b2ch78:338` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
 
 ---
@@ -2151,7 +2151,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b1ch20:168 | "He said a veto over routes decides which box goes on which sailing when a sailing is fu.. |
 | 49 | b1ch21:8 | Hana picked up on the third ring and said her own name into it, which almost nobody of t.. |
 | 49 | b1ch21:36 | "There is no staff on Fridays," said Hana. "There is a woman who comes Monday and Thursd.. |
-| 49 | b1ch21:52 | "Say what for," said Hana, "and then I will decide whether to be insulted." |
+| 49 | b1ch21:52 | "There will be a reason," said Hana, "and then I will decide whether to be insulted." |
 | 49 | b1ch21:58 | Hana sat down. |
 | 49 | b1ch21:74 | Hana looked at the ceiling for a moment. |
 | 49 | b1ch21:88 | "It costs you your house on an evening when nine people under customs investigation are .. |
@@ -3253,7 +3253,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b1ch14:206` (Tag 34) - five, four, fourteen, one, thirty, two
 - `b1ch15:22` (Tag 41) - one, three
 - `b1ch20:16` (Tag 49) - nine
-- `b1ch21:12` (Tag 49) - six
+- `b1ch21:12` (Tag 49) - six, two
 - `b1ch22:38` (Tag 55) - two
 - `b1ch22:280` (Tag 55) - eleven
 - `b1ch24:46` (Tag 55) - eight, one

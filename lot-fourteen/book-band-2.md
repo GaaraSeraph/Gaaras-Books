@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 89 Kapitel, 219.926 Woerter.
+Book Two, 89 Kapitel, 219.955 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -23,7 +23,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 10 | v2.4 | 2.202 |
 | 11 | v2.6 | 2.510 |
 | 12 | v1.10 | 2.902 |
-| 13 | v1.6 | 2.168 |
+| 13 | v1.7 | 2.172 |
 | 14 | v1.6 | 2.406 |
 | 15 | v1.4 | 1.999 |
 | 16 | v1.4 | 2.045 |
@@ -67,11 +67,11 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 54 | v1.3 | 2.826 |
 | 55 | v1.3 | 2.042 |
 | 56 | v1.7 | 2.651 |
-| 57 | v1.6 | 2.940 |
+| 57 | v1.7 | 2.938 |
 | 58 | v1.6 | 2.337 |
 | 59 | v1.5 | 2.177 |
 | 60 | v1.3 | 2.443 |
-| 61 | v1.6 | 2.327 |
+| 61 | v1.7 | 2.333 |
 | 62 | v1.10 | 2.499 |
 | 63 | v1.8 | 2.146 |
 | 64 | v1.8 | 2.278 |
@@ -88,7 +88,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 75 | v1.1 | 2.539 |
 | 76 | v1.1 | 2.006 |
 | 77 | v1.2 | 2.327 |
-| 78 | v1.2 | 4.030 |
+| 78 | v1.3 | 4.051 |
 | 80 | v1.1 | 2.057 |
 | 81 | v1.2 | 2.581 |
 | 82 | v1.1 | 2.447 |
@@ -2868,7 +2868,7 @@ Jang thought about that for a moment and did not appear to enjoy it.
 ---
 
 # Book Two · Chapter 13: What it costs him
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day One Hundred and Eighty-Eight · Thursday 9 April
 
@@ -2926,7 +2926,7 @@ That is the part he could not have faked and did not have to.
 
 "Yes."
 
-"Say it."
+"Then it can stop being well-mannered."
 
 "There is an association of six independent shippers on one lane out of Ulsan," said Georgij. "Five of them are going to need work from the middle of this month and they are going to need it from somebody who does not care what the sixth one thinks. I would like it to be you."
 
@@ -2978,7 +2978,7 @@ Georgij did not move from where he was standing.
 
 "It is both. They are not in competition."
 
-"Now tell me what it is for," said Woo, "because five firms do not need work in the middle of April unless somebody has decided that the sixth one is not going to have any."
+"And there is a reason for it," said Woo, "because five firms do not need work in the middle of April unless somebody has decided that the sixth one is not going to have any."
 
 Georgij told him.
 
@@ -12232,7 +12232,7 @@ He put the notebook away without writing the last line, and wrote it that night 
 ---
 
 # Book Two · Chapter 57: Nobody paid
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Eighteen · Monday 17 August
 
@@ -12274,7 +12274,7 @@ Woo stopped with his hand on the back of his own chair.
 
 Woo sat down.
 
-"Then say the rest of it standing up," he said. "I have not been spoken to like that since nineteen ninety-four and I am not going to interrupt it with furniture."
+"Then stay standing," he said. "I have not been spoken to like that since nineteen ninety-four and I am not going to interrupt it with furniture."
 
 Georgij gave him the whole of it, in order, and did not arrange any of it to land.
 
@@ -12422,7 +12422,7 @@ There were four things available and every one of them would have made the old m
 
 "No."
 
-"Say it the long way."
+"We have the time for the long way."
 
 "I have a list of thirty-one names and you are not on it, and the list came from a woman who has been collecting it since June, and I read it four times." Georgij held his eye. "I did not come out here to find that. I came out here because you are the only man alive who was at the top of this trade twenty-four years ago and would tell me the truth about it. I was not going to ask you for that with a favour in my hand."
 
@@ -13048,7 +13048,7 @@ Georgij stood in the hall of a house on the river with the receiver still warm i
 ---
 
 # Book Two · Chapter 61: The doorway
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Three Hundred and Twenty-Four · Sunday 23 August
 
@@ -13168,7 +13168,7 @@ Behind him Woo did not fill the silence, because a man of seventy-eight who has 
 
 "How certain," said Georgij, at the glass.
 
-"Say the question properly."
+"That is half a question."
 
 "How certain are you, and how much of it is the clerk and how much of it is you."
 
@@ -13188,7 +13188,7 @@ He had spent four days deciding which of the two people in this house he was ent
 
 "He did not know," said Georgij, still at the glass.
 
-"Say what you mean."
+"I will wait for the rest of that sentence."
 
 "He was a man who could not read a contract and he found somebody who could read a room, and he took him, and he was pleased about it, and he told you so at a lunch." Georgij turned round. "There is nothing in any of that which requires him to have known what he was making."
 
@@ -17517,7 +17517,7 @@ He took it up at twenty past nine and Annie read the four lines twice and put th
 ---
 
 # Book Two · Chapter 78: The only line out
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Sixty-Three · Thursday 1 October
 
@@ -17711,7 +17711,7 @@ The room he uses has four chairs in it and one of them is his, and there is a ta
 
 He waited until she was in a chair and then sat down himself, slowly, and put both hands on his knees.
 
-"Say it," he said.
+"I am at my best for about an hour," he said, "and then I am not."
 
 "On the twenty-fourth of August you came to my house on a Sunday and asked me to leave my own study," said Annie. "You were in there for about fifty minutes with a man who belongs to me. When you had gone he came down the stairs and was faultless for twenty-five days."
 
@@ -17763,11 +17763,11 @@ Georgij was standing by the window because nobody had told him to sit.
 
 * * *
 
-"Say the whole of it and do not be modest about the arithmetic."
+"You have as long as it takes, and do not be modest about the arithmetic."
 
 "You told me on the twenty-fourth that I had until she asked, and that it was not long, and that I was going to spend it deciding what sort of man I was and not what to say." Georgij did not look away from him. "I decided that I would answer the first question she put to me that touched it and that I would not raise it myself. Then I did not raise it for twenty-five days, and I knew by about the fourth what that was, and I went on doing it."
 
-"Say what it was."
+"It has a name and you have had twenty-five days to find it."
 
 "It was me choosing the morning."
 
@@ -17791,8 +17791,6 @@ Annie let a moment go past.
 
 Woo put one hand flat.
 
-"Go on."
-
 "I came out here with four questions, and you are the only man alive who can answer any of them." She did not take her eyes off him. "I am not going to ask them. I am telling you that in your own room because I am not going to have you find out in six months that I was here and did not."
 
 The room was very quiet.
@@ -17805,7 +17803,7 @@ The room was very quiet.
 
 Woo looked at her properly for the first time since the hall.
 
-"Say that again with the whole of it in it."
+"There is more of that, and I have the morning."
 
 "You would answer all four and you would do it well, and then you would be a man of seventy-eight who has been told what was done in his own case and cannot un-know it." Annie did not blink. "I would have four answers by lunch. You would have the rest of it, however long that is. I have looked at that trade twice this week and it is not one I am willing to make."
 

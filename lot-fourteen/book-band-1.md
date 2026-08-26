@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book One, 34 Kapitel, 101.223 Woerter.
+Book One, 34 Kapitel, 101.241 Woerter.
 
 Kanon sind die Dateien in `chapters/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -29,16 +29,16 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 16 | v1.19 | 3.271 |
 | 17 | v12.16 | 2.743 |
 | 18 | v2.12 | 2.957 |
-| 19 | v1.14 | 3.197 |
+| 19 | v1.15 | 3.197 |
 | 20 | v1.9 | 2.101 |
-| 21 | v1.11 | 4.072 |
+| 21 | v1.12 | 4.078 |
 | 22 | v1.5 | 2.588 |
 | 23 | v3.8 | 2.654 |
 | 24 | v1.8 | 2.664 |
 | 25 | v1.6 | 2.555 |
 | 26 | v1.9 | 2.410 |
-| 27 | v3.9 | 3.108 |
-| 28 | v1.9 | 2.710 |
+| 27 | v3.10 | 3.123 |
+| 28 | v1.10 | 2.707 |
 | 29 | v1.5 | 1.992 |
 | 30 | v1.13 | 3.551 |
 | 31 | v1.10 | 3.258 |
@@ -5243,7 +5243,7 @@ It was the shape of the door the name walks through, and it had cost Annie nothi
 ---
 
 # Book One · Chapter 19: What happens on the Tuesday
-*Lot Fourteen* · Version 1.14 · EN
+*Lot Fourteen* · Version 1.15 · EN
 
 *Day 48 · Thursday 20 November*
 
@@ -5307,7 +5307,7 @@ They went into the office at the end of the shed, which had a heater, one desk, 
 
 "I do."
 
-"Say it before the tea comes. Tea makes it polite and then it takes an hour."
+"Before the tea comes, then. Tea makes it polite and then it takes an hour."
 
 "I want you to stand next to the Kim family." Georgij put the folder on the desk and did not open it. "In public, on paper, and before the end of the year. Your name beside theirs on something ordinary, so that the people who have left them can see it and come back."
 
@@ -5371,7 +5371,7 @@ There it was, and it had come in four words, and Georgij had known since the car
 
 "Not with hers alone."
 
-"Say the number."
+"Then there is a number."
 
 "At the volumes she moves now she is about a third of your book, and a third is not a terminal. She is scheduled and she is regular and she has been for eleven years, which is worth more to you than the tonnage is, because it is the part a bank will look at. But she does not fill this quay."
 
@@ -5503,7 +5503,7 @@ The room went on being a room.
 
 "I noticed."
 
-"Say why."
+"Why."
 
 "Because the other thing is certain and this one is only likely," said Georgij. "When you die, a third of this belongs to Park Sang-hoon, and there is nothing you can do about it. What I have brought you is a worse man with a longer arm, and you can see her, and you cannot see him."
 
@@ -5773,7 +5773,7 @@ Then he went back up to the east room and picked up the telephone, which was her
 ---
 
 # Book One · Chapter 21: The ones who come at nine
-*Lot Fourteen* · Version 1.11 · EN
+*Lot Fourteen* · Version 1.12 · EN
 
 *Day 49 · Friday 21 November*
 
@@ -5783,7 +5783,7 @@ Hana picked up on the third ring and said her own name into it, which almost nob
 
 "This is Georgij."
 
-"I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "Say it."
+"I know. Mrs Seo's number comes up as a laundry in Mapo and it has done for six years." A cup went down on a saucer somewhere on her side. "It will be mine by two o'clock either way."
 
 "I would like an hour of your afternoon, and I would like it to be somewhere that is not this house."
 
@@ -5821,7 +5821,7 @@ He counted the doors before he sat down. Three, and one of them went out to a te
 
 "I am."
 
-"Say what for," said Hana, "and then I will decide whether to be insulted."
+"There will be a reason," said Hana, "and then I will decide whether to be insulted."
 
 "I need a house with a family in it, before the end of the year," said Georgij. "Not a hotel and not a restaurant. Somewhere the Kims can be in the same room as Chairman Woo without either of them having driven to a meeting."
 
@@ -5845,7 +5845,7 @@ Hana looked at the ceiling for a moment.
 
 "Yes."
 
-"Say the rest of it, because there is a rest of it, and I would like the whole thing at two o'clock instead of half of it now and the other half in the hall at four."
+"And I would like the whole of it at two o'clock, not half of it now and the other half in the hall at four."
 
 "There is a rest of it."
 
@@ -5901,7 +5901,7 @@ He had been saying nothing all afternoon and had been good at it, and this was t
 
 "There is what?"
 
-"You went somewhere for about a quarter of a second." She was entirely pleasant about it. "Say what is wrong with Kang."
+"You went somewhere for about a quarter of a second." She was entirely pleasant about it. "Whatever is wrong with Kang, I will have to seat him."
 
 "Nothing is wrong with Kang."
 
@@ -6007,7 +6007,7 @@ Georgij did not say anything to that.
 
 "One more, and then I will let you have your afternoon back."
 
-"Go on."
+"My afternoon can wait for one."
 
 "When she comes, I have one conversation with her and I will not get a second. It cannot happen in a room with thirty people in it, and it cannot happen anywhere that looks like it was arranged."
 
@@ -7589,7 +7589,7 @@ He did not know that. He would not know it until the sixteenth. He had just writ
 ---
 
 # Book One · Chapter 27: Not out of your account
-*Lot Fourteen* · Version 3.9 · EN
+*Lot Fourteen* · Version 3.10 · EN
 
 ## Day Sixty-Seven · Tuesday 9 December
 
@@ -7723,13 +7723,13 @@ He went out to her at four and it was already going dark.
 
 Hana had the fire lit in the long room at the back and a stack of cards on the table beside her, forty of them, addressed in her own hand.
 
-"Four days," she said. "Tell me nothing is broken."
+"Four days," she said. "I would like to go on writing these."
 
 "Nothing is broken. Woo is coming at seven and the Kims are coming, all of them except one brother-in-law, and I have been told not to ask why."
 
 Hana put the pen down.
 
-"Say how you got that."
+"That changes my table, and I would like to know how you got it."
 
 "Sung-ho heard me out, and then he stood up and said he had to make a telephone call, and he went out of the room and was gone nineteen minutes." Georgij said it in the order it had happened. "He came back and sat down and said they would come. All of them. And that nothing about shares or security or routes is decided by anybody in that building."
 
@@ -7761,7 +7761,7 @@ Hana sat back.
 
 "No."
 
-"Then say what is left, because you have plainly worked it out and you are being polite about it."
+"Then there is something left, because you have plainly worked it out and you are being polite about it."
 
 Hana looked at the cards.
 
@@ -7859,7 +7859,7 @@ Hana was quiet for a long time.
 
 "I saw your gutter in November and I did not do anything about it in November."
 
-"Then say what changed."
+"Then something changed between November and now."
 
 "You did," said Georgij. "On the twenty-first, in that chair, when you asked me what the evening was for and then took the question back because of a man on your own guest list. You gave up the only thing you have never given anybody, which is knowing what your own sentences are doing."
 
@@ -7904,7 +7904,7 @@ She pulled the folder across the table at last and opened it and read the first 
 ---
 
 # Book One · Chapter 28: A woman in a room can be asked
-*Lot Fourteen* · Version 1.9 · EN
+*Lot Fourteen* · Version 1.10 · EN
 
 ## Day Seventy · Friday 12 December
 
@@ -7936,7 +7936,7 @@ She turned one of the cards over again and left it face down.
 
 "What is left is the reason she does not go anywhere," said Georgij.
 
-"Say it, then. I have known her for twenty years and I have never heard anybody say it out loud."
+"I have known her for twenty years and I have never heard anybody say it out loud."
 
 "A woman in a room can be asked."
 

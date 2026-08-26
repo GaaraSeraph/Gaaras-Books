@@ -3446,7 +3446,7 @@ Kein zweiter bekommt denselben. Das ist der Sinn der Übung.
 
 | Figur | Stellen | Ihr Weg an die Auskunft |
 |---|---|---|
-| **Chairman Woo** | 17 in 7 Kapiteln | **Er setzt eine Frist statt eines Befehls.** Kann er schon: *"Say it before the tea comes. Tea makes it polite and then it takes an hour."* Daraus wird die Regel - er sagt, bis wann, und der andere füllt die Zeit |
+| **Chairman Woo** | 17 in 7 Kapiteln | **Er setzt eine Frist statt eines Befehls.** Kann er schon, Band 1 Kapitel 19: *"Before the tea comes, then. Tea makes it polite and then it takes an hour."* Der Befehl davor ist am 26.08. gefallen, die Frist dahinter war immer das Verfahren. Daraus wird die Regel - er sagt, bis wann, und der andere füllt die Zeit |
 | **Sim** | 12 in 3 Kapiteln | **Er nennt den Preis des Nichtwissens.** Steht schon fast so da: *"I would rather have it from you than work it out later."* Er befiehlt nie, er begründet, warum er fragt |
 | **Hana** | 10 in 3 Kapiteln | **Sie sagt, was sie mit der Antwort tun wird.** *"Say what is wrong with Kang."* wird zu *"I will have to put what is wrong with Kang in front of a man at two o'clock."* Vierundzwanzig Jahre Vermittlung: sie fragt nie ohne Verwendungszweck |
 | **Mr Ahn** | 7 in 3 Kapiteln | **Er wiederholt das letzte Wort des anderen.** Neununddreißig, Pumpen, Kontraktionen. Der kürzeste Weg, den ein Mensch hat, der nicht gern redet |
