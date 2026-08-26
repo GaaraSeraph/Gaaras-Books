@@ -351,7 +351,7 @@ man nicht hören kann, keins ist. Die Tatsache ist bei allen fünf dieselbe:
 *jemand hat im April dreimal in dem Haus angerufen, und niemand ist
 drangegangen.*
 
-**Mr Kwon** - Zuschreibung vor Inhalt, Datum vorn, kurze Reihe und dann der eine
+**Mr Kwon**, erfundenes Muster - Zuschreibung vor Inhalt, Datum vorn, kurze Reihe und dann der eine
 lange Satz, der die Rechnung trägt:
 
 > "I telephoned in April. Three times. Nobody picked it up." He did not sit
@@ -359,27 +359,27 @@ lange Satz, der die Rechnung trägt:
 > do not get answered, and that is four months of a habit I did not have before
 > April."
 
-**Jang** - keine Tatsache ohne Herkunft und Grenze, und die Grenze zuerst:
+**Jang**, erfundenes Muster - keine Tatsache ohne Herkunft und Grenze, und die Grenze zuerst:
 
 > "Three calls in April. I have that from the exchange record and not from
 > anybody in the house." He stayed on his feet. "I have not asked whether they
 > heard it ring, because asking puts it in somebody's head, and I have not been
 > told to put it there."
 
-**Chairman Woo** - er korrigiert die Prämisse, statt zu antworten, und legt eine
+**Chairman Woo**, erfundenes Muster - er korrigiert die Prämisse, statt zu antworten, und legt eine
 Regel des Gewerbes flach hin:
 
 > "You are asking who telephoned." Woo turned his hand over on the desk. "Ask
 > who was in that house in April to pick it up. A house that does not answer in
 > April is a house that has been emptied and not a house that is out."
 
-**Mrs Ha** - sie stellt richtig, wer es getan hat, und zählt in ihrer Ware:
+**Mrs Ha**, erfundenes Muster - sie stellt richtig, wer es getan hat, und zählt in ihrer Ware:
 
 > "Not the office. Not a girl. Me." She had the book open in front of her. "I
 > dialled it three times in April, between the linen and the flowers, and I
 > stood there while it rang, and the third time I counted it out to forty."
 
-**Sim** - er richtet die Bequemlichkeit im Voraus ein und benennt die
+**Sim**, erfundenes Muster - er richtet die Bequemlichkeit im Voraus ein und benennt die
 Einrichtung, damit sie keine Schuld wird:
 
 > "Sit down first, and have that while it is hot." He did not sit down himself.
