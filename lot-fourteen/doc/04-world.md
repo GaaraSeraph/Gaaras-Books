@@ -431,12 +431,24 @@ reicht, dass die Geschaedigten noch leben und ein Telefon haben.
 
 ### Die beiden Faelle im Buch
 
-**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, vier Kaeufer
-geprellt, im November gegangen, weil er nicht fuer die neuen Leute arbeiten
+**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, **vier Zahlungen
+von drei Kaeufern** - die Frau zweimal, der Mann der alten Dame mit dem
+Umschlag, und der vierte, den Georgij nie hatte. **Ein Mann und zwei Frauen.**
+Im November ist er gegangen, weil er nicht fuer die neuen Leute arbeiten
 wollte. In B2 22 kuendigt Georgij ihm keine Drohung an, sondern eine Tatsache:
-die vier werden informiert, mit Namen, Betrag und Datum. **In B2 90 ist er seit
-Mai nicht mehr gesehen worden**, die Wohnung in Seongdong ist im Juli weg, und
-niemand in diesem Buch weiss, wer sie jetzt hat.
+die drei werden informiert, mit Namen, Betrag und Datum.
+
+**In B2 90 wird abgerechnet, und die Form ist das Kaelteste an der Regel.** Eine
+der beiden Frauen will nicht bestaetigt haben, dass sie zwei Lose in dem Haus
+gekauft hat. Sie nimmt deshalb saemtliche ehemaligen Angestellten bei sich auf,
+innerhalb von vierzehn Tagen, ohne je zu sagen warum - **ausser einem, und der
+eine ist der, um den der Anruf ging.**
+
+**Sie bestraft ihn nicht. Sie schliesst ihn nur nicht ein.** Niemand droht,
+niemand arrangiert etwas, und der Mann, der sechsundzwanzig Jahre lang von
+einem Haus gedeckt war, ist am Ende der einzige, den niemand mehr deckt. Die
+Wohnung in Seongdong ist im Juli weg, und niemand in diesem Buch weiss, wer sie
+jetzt hat.
 
 **Choi Dae-ho**, gross und am Schluss. Er besitzt nichts, unterschreibt nichts
 und verlangt nichts, und genau deshalb ist ihm nichts abzunehmen. **Was er

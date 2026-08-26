@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 18 Dokumente am Stueck plus das Begegnungsregister. 319.573 Woerter.
+Alle 18 Dokumente am Stueck plus das Begegnungsregister. 319.688 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -2998,12 +2998,24 @@ reicht, dass die Geschaedigten noch leben und ein Telefon haben.
 
 ### Die beiden Faelle im Buch
 
-**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, vier Kaeufer
-geprellt, im November gegangen, weil er nicht fuer die neuen Leute arbeiten
+**Mr Byun**, klein und frueh. Sechsundzwanzig Jahre Register, **vier Zahlungen
+von drei Kaeufern** - die Frau zweimal, der Mann der alten Dame mit dem
+Umschlag, und der vierte, den Georgij nie hatte. **Ein Mann und zwei Frauen.**
+Im November ist er gegangen, weil er nicht fuer die neuen Leute arbeiten
 wollte. In B2 22 kuendigt Georgij ihm keine Drohung an, sondern eine Tatsache:
-die vier werden informiert, mit Namen, Betrag und Datum. **In B2 90 ist er seit
-Mai nicht mehr gesehen worden**, die Wohnung in Seongdong ist im Juli weg, und
-niemand in diesem Buch weiss, wer sie jetzt hat.
+die drei werden informiert, mit Namen, Betrag und Datum.
+
+**In B2 90 wird abgerechnet, und die Form ist das Kaelteste an der Regel.** Eine
+der beiden Frauen will nicht bestaetigt haben, dass sie zwei Lose in dem Haus
+gekauft hat. Sie nimmt deshalb saemtliche ehemaligen Angestellten bei sich auf,
+innerhalb von vierzehn Tagen, ohne je zu sagen warum - **ausser einem, und der
+eine ist der, um den der Anruf ging.**
+
+**Sie bestraft ihn nicht. Sie schliesst ihn nur nicht ein.** Niemand droht,
+niemand arrangiert etwas, und der Mann, der sechsundzwanzig Jahre lang von
+einem Haus gedeckt war, ist am Ende der einzige, den niemand mehr deckt. Die
+Wohnung in Seongdong ist im Juli weg, und niemand in diesem Buch weiss, wer sie
+jetzt hat.
 
 **Choi Dae-ho**, gross und am Schluss. Er besitzt nichts, unterschreibt nichts
 und verlangt nichts, und genau deshalb ist ihm nichts abzunehmen. **Was er
@@ -7260,7 +7272,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.6) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.7) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
@@ -23120,13 +23132,13 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 8 | b2ch89:12 | She asked to on the Monday, standing in the hall, and she asked Mrs Seo and not anybody .. |
 | 15 | b2ch89:148 | Annie asked him about it that evening and asked it in one sentence. |
 | 19 | b2ch90:16 | The second time she stayed four hours and came back with oil on the sleeve of a coat tha.. |
-| 19 | b2ch90:106 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
-| 19 | b2ch90:154 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
-| 19 | b2ch90:170 | "You have not slept since the second," said Annie. |
-| 19 | b2ch90:188 | Annie's hand did not move. |
-| 19 | b2ch90:196 | "Then say the rest of it," said Annie. |
-| 19 | b2ch90:216 | Annie did not say anything. |
-| 19 | b2ch90:240 | Annie put her hand back into his hair. |
+| 19 | b2ch90:118 | Annie let that stand for a moment before she took it apart, which is the difference betw.. |
+| 19 | b2ch90:166 | He noticed on the Thursday that this had gone past three weeks, and he did not do anythi.. |
+| 19 | b2ch90:182 | "You have not slept since the second," said Annie. |
+| 19 | b2ch90:200 | Annie's hand did not move. |
+| 19 | b2ch90:208 | "Then say the rest of it," said Annie. |
+| 19 | b2ch90:228 | Annie did not say anything. |
+| 19 | b2ch90:252 | Annie put her hand back into his hair. |
 
 ### Zahlen in der Naehe von Annie
 
@@ -23381,7 +23393,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch89:12` (Tag 8) - one
 - `b2ch89:148` (Tag 15) - one
 - `b2ch90:16` (Tag 19) - four, one
-- `b2ch90:154` (Tag 19) - three
+- `b2ch90:166` (Tag 19) - three
 
 ---
 
@@ -23666,7 +23678,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch51:162 | Sang-hoon did not say anything for long enough that Georgij could hear the yard behind h.. |
 | 3 | b2ch51:180 | "That is the answer I expected and I still wish it were the other one." Sang-hoon let it.. |
 | 22 | b2ch58:102 | The twentieth of July. Jang's rota and Jang's grocery numbers, in his own hand, four lin.. |
-| 19 | b2ch90:80 | Park Sang-hoon first, because he is the one who matters and because he has four decision.. |
+| 19 | b2ch90:92 | Park Sang-hoon first, because he is the one who matters and because he has four decision.. |
 
 ### Zahlen in der Naehe von Park Sang-hoon
 
@@ -23794,7 +23806,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch50:306` (Tag 10) - four, one
 - `b2ch51:180` (Tag 3) - one
 - `b2ch58:102` (Tag 22) - four
-- `b2ch90:80` (Tag 19) - four, one
+- `b2ch90:92` (Tag 19) - four, one
 
 ---
 
@@ -24053,7 +24065,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 12 | b2ch80:18 | The first thought was that Woo would be dead before Annie ever read it. That is the whol.. |
 | 10 | b2ch87:174 | "My father took a man out of a service by giving him one thing he could not undo," she s.. |
 | 19 | b2ch90:58 | Woo has not been in that house since the fifth of October. |
-| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:98 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Chairman Woo
 
@@ -24206,7 +24218,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch78:274` (Tag 10) - one
 - `b2ch78:338` (Tag 10) - four, twenty-four
 - `b2ch87:174` (Tag 10) - one, twenty-four
-- `b2ch90:86` (Tag 19) - eleven, four, two
+- `b2ch90:98` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25207,7 +25219,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch85:36 | Mr Hwang telephoned it through and did not dress it. |
 | 3 | b2ch85:134 | The refusal went back through Mr Hwang at four o'clock and it was three lines and it gav.. |
 | 8 | b2ch86:66 | The agent had a copy of the assignment and Mrs Jeon had the original and the schedule. T.. |
-| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:98 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Hwang
 
@@ -25265,7 +25277,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch84:40` (Tag 9) - four
 - `b2ch85:6` (Tag 12) - eleven, four, twenty
 - `b2ch85:134` (Tag 3) - four, three
-- `b2ch90:86` (Tag 19) - eleven, four, two
+- `b2ch90:98` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25665,7 +25677,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:98 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeo
 
@@ -25694,7 +25706,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:86` (Tag 19) - eleven, four, two
+- `b2ch90:98` (Tag 19) - eleven, four, two
 
 ---
 
@@ -25853,7 +25865,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 16 | b2ch55:6 | It took three days, exactly as Mr Yeom had said it would, and then it took two more beca.. |
 | 16 | b2ch55:136 | *Somebody filled in a form and gave an address four streets from her own. The house took.. |
 | 44 | b2ch69:420 | "That a struck line is a record." Georgij did not look away. "And I found that out in Ap.. |
-| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:98 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Mr Yeom
 
@@ -25878,7 +25890,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch54:198` (Tag 10) - four, nine
 - `b2ch55:6` (Tag 16) - three, two
 - `b2ch55:136` (Tag 16) - four, seven
-- `b2ch90:86` (Tag 19) - eleven, four, two
+- `b2ch90:98` (Tag 19) - eleven, four, two
 
 ---
 
@@ -26690,7 +26702,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 10 | b2ch87:126 | Baek Jun-ho looked at the case. |
 | 10 | b2ch87:158 | "The woman on the oxygen was somewhere else until then, and I have had that fact in a dr.. |
 | 12 | b2ch88:94 | She did not say Baek Jun-ho's name and she did not need to. |
-| 19 | b2ch90:86 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
+| 19 | b2ch90:98 | Then Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told.. |
 
 ### Zahlen in der Naehe von Baek Jun-ho
 
@@ -26703,7 +26715,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 - `b2ch87:92` (Tag 10) - two
 - `b2ch87:112` (Tag 10) - eleven, one, twenty, two
 - `b2ch87:158` (Tag 10) - four, one
-- `b2ch90:86` (Tag 19) - eleven, four, two
+- `b2ch90:98` (Tag 19) - eleven, four, two
 
 ---
 

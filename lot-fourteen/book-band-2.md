@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 218.660 Woerter.
+Book Two, 82 Kapitel, 218.744 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -92,7 +92,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v1.3 | 2.013 |
 | 88 | v1.3 | 2.229 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.6 | 2.494 |
+| 90 | v1.7 | 2.578 |
 
 ---
 
@@ -19782,7 +19782,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.6 · EN
+*Lot Fourteen* · Version 1.7 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -19846,9 +19846,19 @@ He telephoned once, on the third of November, and asked one question and rang of
 
 Mr Byun has not been seen in that trade since May.
 
-In May four buyers were told what he had taken off them, with the amount and the date on each, and that his own hand was still on the entry. Nobody threatened him with anything and nobody needed to. The flat on the eighth floor in Seongdong with the view of the river went in July, and nobody in this book knows who has it now.
+In May the three of them were told what he had taken off them, with the amount and the date on each, and that his own hand was still on the entry. Four payments and three buyers, and two of the three are women.
 
-He was protected for twenty-six years by a house. In November he stopped being protected, and the four men he had taken money off were still alive and still had telephones.
+One of the two does not want it confirmed anywhere that she bought two lots at that house.
+
+She has taken on every one of the former employees of it and given them work that none of them asked for, and she did it inside a fortnight, and she has never once said why.
+
+Except one.
+
+The one the telephone call had been about.
+
+Nobody threatened him with anything and nobody needed to. The flat on the eighth floor in Seongdong with the view of the river went in July, and nobody in this book knows who has it now.
+
+He was protected for twenty-six years by a house. In November he stopped being protected, and in May three people who were still alive and still had telephones found out what he had done to them.
 
 * * *
 
