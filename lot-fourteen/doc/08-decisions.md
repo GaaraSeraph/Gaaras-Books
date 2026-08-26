@@ -1122,3 +1122,33 @@ das nie wieder geholt wird.
 Entnahme. Wer eine schreibt, notiert wo. `werkzeug/heft.py` misst das
 Verhaeltnis, und es ist ab jetzt eine Zahl, die man nennen kann.
 
+## Choi ueberlebt das Ende nicht, und Georgij hat ihn trotzdem nicht gehabt (26.08.)
+
+**Vom Autor:** *"sorgen wir noch dafuer, dass alle wissen, dass Choi das Ende
+NICHT ueberleben kann. Er hat zu viele maechtige Leute manipuliert. Er soll
+nicht erfahren, wer davon weiss im Gespraech. Aber einige Anrufe werden schon
+dafuer sorgen, dass sie in meiner Schuld stehen und ihn sehr ungerne
+ungestraft am Leben lassen wuerden."* Und dazu: *"er hat Sang-Hoon
+manipuliert. Alleine der sorgt schon fuer ein bye bye bye."*
+
+**Ausgefuehrt in B2 90 als neun Anrufe von Annie.** Drei Dinge daran sind
+Regeln und keine Szene:
+
+1. **Annie telefoniert, nicht Georgij.** Regel 2: er besitzt nichts, hat kein
+   Telefon und keinen Namen. Sie hat den Stand, und nur sie kann jemanden in
+   ihre Schuld setzen.
+2. **Das gebrochene Versprechen bleibt gebrochen.** Der VERFALLEN-Eintrag zu
+   *"I am going to have him before the end of the year"* steht unveraendert.
+   Wer spaeter versucht, Georgij den Sturz zuzuschreiben, hebt den ganzen
+   Schluss auf.
+3. **Choi erfaehrt nie, wer davon weiss.** Seine einzige Szene liegt am
+   6. November, die Anrufe fangen am neunten an. *"He will not know that there
+   is a where."* Das ist ausdrueckliche Vorgabe des Autors und keine
+   Kunstfertigkeit.
+
+**Und das Verfahren ist nicht neu.** Es steht seit Kapitel 36 im Buch und ist
+seither nie benutzt worden: *"I go to them one at a time and I tell them what
+was done to them. I do not accuse him of anything, because he has never once
+claimed anything."* **Damit ist es zugleich die groesste Heft-Entnahme des
+Buches** - ein Plan, der im Mai abgelegt und im November geholt wird.
+

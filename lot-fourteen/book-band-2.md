@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 82 Kapitel, 217.633 Woerter.
+Book Two, 82 Kapitel, 218.283 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -92,7 +92,7 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 87 | v1.3 | 2.013 |
 | 88 | v1.2 | 1.997 |
 | 89 | v1.0 | 2.085 |
-| 90 | v1.2 | 1.699 |
+| 90 | v1.4 | 2.349 |
 
 ---
 
@@ -19766,7 +19766,7 @@ Georgij came down the stairs of a building in Jongno with three doors off a corr
 ---
 
 # Book Two · Chapter 90: The weapon
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.4 · EN
 
 ## Day Four Hundred and Fifteen · Sunday 22 November
 
@@ -19825,6 +19825,64 @@ Somewhere in a solicitor's office there is an envelope with four answers in it i
 Woo has not been in that house since the fifth of October.
 
 He telephoned once, on the third of November, and asked one question and rang off. The question was whether the woman was out.
+
+* * *
+
+Annie made nine telephone calls between the ninth of November and the nineteenth.
+
+She made them from the desk in the small room, at four in the afternoon, and she did not tell him that she was going to make any of them.
+
+He found out on the twentieth, from Mrs Seo, who mentioned that the small room had been wanted at four every day for a fortnight and that this had not happened in eleven years.
+
+* * *
+
+She did not pretend it had not happened.
+
+"Nine," she said. "Park Sang-hoon first, because he is the one who matters, and because he has four decisions behind him that he has never once been able to explain to himself."
+
+"And you told him."
+
+"Where they were made, and who was at the table, and in what order." She had both hands flat on the desk. "Not what I think of it. Not what I would like him to do about it. He has run eleven thousand people for nine years on the understanding that he decides things, and I have just told him about four afternoons on which he did not."
+
+Georgij stood where he stands.
+
+"And you asked him for nothing."
+
+"I asked him for nothing, and that is the whole of the mechanism, and I did not invent it." Annie turned a page over. "You did it to a man in a yard in Gimpo in March and to a man with three flatbeds in September. I watched both of them and I took notes."
+
+"The other eight."
+
+"Chairman Woo. Mr Yeom, who paid the fourth fee himself and has never once been told why there was a fourth. Mr Hwang, who is finished and therefore has nothing left to be careful with. Baek Jun-ho, who has eleven years of it in a case." She did not look up. "And four who are not in this book and do not need to be, and two of those are in the ministry."
+
+* * *
+
+Georgij did the arithmetic and got no pleasure out of any of it.
+
+"None of them can pay you," he said.
+
+"No."
+
+"So each of them is going to find something he can do that looks like his own idea."
+
+"Yes. And none of them will telephone the others, because none of them will want to be the second man to have thought of it." Annie put the pen down. "It will not arrive as one thing. Nine things over about two years, from nine directions, and there is no room in this country that has all nine of them in it at once."
+
+"And he will not know where it came from."
+
+"He will not know that there is a where."
+
+* * *
+
+The clock in the hall did the thing it does at the quarter.
+
+"That is the only cruel thing I have done this year," said Annie. "I would like it said out loud in this room that I know it is. In about a month I will have stopped noticing."
+
+"You did not do it for me."
+
+"No. I did not do it for you and I am not giving it to you, and what you said on the twenty-third of April stands." She looked at him then. "You did not have him and you are not going to. I did it because a man who kept a woman in a house for eleven years does not get to finish in a chair by a window with everybody being polite to him."
+
+"He is fifty-nine."
+
+"He is fifty-nine and he has about twenty years in him." She went back to the page. "He is not going to get them. I have not arranged that, and I am not going to be able to say afterwards that I did not."
 
 * * *
 

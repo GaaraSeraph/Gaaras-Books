@@ -4234,7 +4234,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     had spent eight months building."* **Achtundfuenfzig Namen stehen hinten im
     Buch und das wird Jahre dauern.**
 
-- **Band 2, Kapitel 90** *The weapon* (v1.2) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
+- **Band 2, Kapitel 90** *The weapon* (v1.4) - **Tag 415, So 22. November. Der Schluss des Bandes, und die Zeile steht.**
 
   **Nachgetragen und inhaltlich geprueft am 26.08.**
   - **Zwei Menschen mehr im Haus, und es hat alles veraendert, und niemand hat es
@@ -4344,6 +4344,30 @@ allerdings noch nicht weg, siehe die zwei Wege unten - ein Geburtstag sagt,
 **wann** er ein Jahr aelter wird, aber nicht, **mit welcher Zahl** er anfaengt.
 
 **Georgij ist an beiden Enden des Buches sechsundzwanzig:**
+
+  - **NEU am 26.08.: die neun Anrufe.** Zwischen dem 9. und dem 19. November
+    telefoniert **Annie** neunmal aus dem kleinen Zimmer, um vier Uhr
+    nachmittags, und sagt es ihm nicht. Sie erzaehlt jedem Einzelnen, **was ihm
+    angetan wurde**, und verlangt nichts dafuer. Sang-hoon zuerst, wegen der
+    vier Entscheidungen an Chois Tischen, die er nie hat erklaeren koennen;
+    dann Woo, Mr Yeom, Mr Hwang, Baek Jun-ho und vier, die im Buch nicht
+    vorkommen, zwei davon im Ministerium.
+  - **Das Verfahren ist Georgijs eigenes aus Kapitel 36**, wo es seit Mai
+    unbenutzt stand: *"I go to them one at a time and I tell them what was done
+    to them. I do not accuse him of anything."* Annie benennt das auch:
+    *"I did not invent it. You did it to a man in a yard in Gimpo in March and
+    to a man with three flatbeds in September."*
+  - **Warum sie und nicht er:** Regel 2. Er besitzt nichts, hat kein Telefon
+    und keinen Namen. Sie hat den Stand.
+  - **Sein gebrochenes Versprechen bleibt gebrochen.** *"You did not have him
+    and you are not going to."* Der VERFALLEN-Eintrag in `doc/13` steht
+    unveraendert. Was danach mit Choi geschieht, gehoert neun anderen Leuten.
+  - **Choi erfaehrt in keinem Gespraech, wer davon weiss.** Seine einzige Szene
+    ist der 6. November, die Anrufe fangen am neunten an. *"He will not know
+    that there is a where."*
+  - **Und Annie nennt es beim Namen:** *"That is the only cruel thing I have
+    done this year. I would like it said out loud in this room that I know it
+    is. In about a month I will have stopped noticing."*
 
 - **Tag 1**, der Katalog: *"Lot fourteen. Male, twenty-six."*
 - ~~**Tag 367**, Woo: *"You are twenty-six."*~~ - **am 26.08. aus dem Text
