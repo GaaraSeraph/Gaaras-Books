@@ -116,4 +116,4 @@ b2  ch79  v1.0       2166 Woerter  ch79_v1_0_en.md
 b2  ch80  v1.0       2083 Woerter  ch80_v1_0_en.md
 
 Gesamt: 2 Baende, 114 Kapitel, 299631 Woerter
-Handbuch: 16 Dokumente
+Handbuch: 17 Dokumente

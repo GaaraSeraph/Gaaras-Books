@@ -288,6 +288,7 @@ scheint.
 | `doc/10-naehe.md` | Jede koerperliche Szene zwischen den beiden, mit der Zeile, die im Buch steht |
 | `doc/12-stimmen.md` | Wer wie spricht. Maschine, Anliegen und Verbote je Figur |
 | `doc/13-zusagen.md` | Das Schuldbuch. Jede Zusage aus dem Text, mit Faelligkeit und Stand |
+| `doc/15-kuerzen.md` | Was jedes Kapitel traegt und was davon kuerzbar ist. **Beim Schreiben zu fuehren, nicht danach** |
 | `erzeugt/HANDBUCH.md` | **Erzeugt.** Alle Dokumente am Stueck, mit Inhaltsverzeichnis |
 
 ## Dateinamen
