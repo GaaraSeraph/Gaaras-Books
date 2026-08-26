@@ -1,13 +1,13 @@
-Book Two · Chapter 77: The room at the back
-Lot Fourteen · Version 1.1 · EN
+# Chapter 77: The room at the back
+*Lot Fourteen* · Version 1.2 · EN
 
-Day Three Hundred and Sixty · Monday 28 September
+## Day Three Hundred and Sixty · Monday 28 September
 
 He gave Sim the number of the repair shop on the Friday, in nine words, and did not explain why he would be there.
 
 Sim said that he would use it at about six and that he hoped somebody in that building owned a chair.
 
-———
+* * *
 
 He went up the hill at half past nine with nothing.
 
@@ -21,7 +21,7 @@ Mr Ahn looked at him for about two seconds, worked out what the day was, and did
 
 Georgij took his coat off.
 
-———
+* * *
 
 They got the compressor out at about eleven and stripped it on the floor because it would not go on the bench.
 
@@ -33,7 +33,7 @@ At about half past one he said that his mother's boiler had gone in the end, in 
 
 Georgij held a bracket at an angle and did not say anything at all, which is a thing he has got better at since the tenth.
 
-———
+* * *
 
 The fan runs in the corner.
 
@@ -43,7 +43,7 @@ At about three Georgij noticed that the shop is warm in a way it was not in July
 
 He did not say that either.
 
-———
+* * *
 
 At four Mr Ahn stopped being able to work and did not admit it.
 
@@ -71,7 +71,7 @@ Georgij stood by the bench.
 
 "Then do not do it to me at ten past four with an hour left."
 
-———
+* * *
 
 The telephone in the back of the shop went at twelve minutes past six.
 
@@ -97,7 +97,7 @@ Georgij put one hand flat on the bench.
 
 Across the shop Mr Ahn was standing with his back to him doing nothing at all.
 
-———
+* * *
 
 "Say the whole of what she said," said Georgij.
 
@@ -117,7 +117,7 @@ The shop did what a shop does at ten past six.
 
 "She said that the room at the back is being cleared, and that it will be easier to see the state of the ceiling in there once it is empty. And that I might want to know that before the spring."
 
-———
+* * *
 
 Georgij did not say anything for about four seconds.
 
@@ -137,7 +137,7 @@ Neither of them said anything.
 
 "There is one," said Sim. "I am the one. That is what I have been for eleven years and it is the first time it has been worth anything."
 
-———
+* * *
 
 "Say what you did with it," said Georgij, "because you did something and you are working out how to tell me."
 
@@ -151,11 +151,11 @@ Neither of them said anything.
 
 "That is a survey," said Sim. "You do not put a man in a roof space with a torch for half an hour to keep a house. You do it to sell one."
 
-———
+* * *
 
 There was a coin going into the box.
 
-"The last of it is not information," said Sim.
+"The last of it is not information. I am telling you anyway," said Sim.
 
 "Go on."
 
@@ -175,7 +175,7 @@ Sim did not answer straight away.
 
 "I know. It is becoming a habit and I have decided not to look at it."
 
-———
+* * *
 
 Georgij put the receiver down and stood with his hand on it. Then he gave Mr Ahn the whole of it in the order it had come, and did not soften one part of it, and did not stop anywhere to see how it was going.
 
@@ -193,7 +193,7 @@ At the end he sat down on the stool.
 
 "She is telling him that they are emptying the room she sleeps in. She has put it into a sentence about a job that gets done in the spring, so that whoever is standing next to her hears a woman being sensible about a house." Mr Ahn had both hands on his knees. "And the man on the other end has to work out that there is no spring."
 
-———
+* * *
 
 "That is what I have," said Georgij.
 
@@ -213,19 +213,19 @@ Mr Ahn looked at the floor.
 
 "She was clearing her desk."
 
-———
+* * *
 
 He came down the hill at about seven and did not write anything in the car.
 
 He wrote it at the house at nine, and it took one attempt, and it is four lines.
 
-Twenty-second of September. A man in a roof space with a torch, half an hour, sent from outside the district.
+*Twenty-second of September. A man in a roof space with a torch, half an hour, sent from outside the district.*
 
-The room she sleeps in is being emptied.
+*The room she sleeps in is being emptied.*
 
-The line closes on Wednesday.
+*The line closes on Wednesday.*
 
-She has known for a fortnight that it would, and she spent the last call before it on us.
+*She has known for a fortnight that it would, and she spent the last call before it on us.*
 
 He took it up at twenty past nine and Annie read the four lines twice and put the sheet down on the blotter and did not pick it up again.
 

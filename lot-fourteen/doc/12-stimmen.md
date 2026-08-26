@@ -1115,10 +1115,30 @@ nicht.
 > made most of them myself, and I would like to know what one feels like from
 > this side."
 
-**Die Probe.** In allen vieren steht **eine Einrichtung, die er vorher getroffen
-hat**, und **ein Satz, der sie benennt, damit sie keine Schuld wird**. Kein Tic,
-keine Zahl über sich selbst, und **nichts, was er zurückhält, um es gleich
-darauf freizugeben.**
+**Die Probe, und sie ist asymmetrisch.** In den **ersten drei** steht eine
+**Einrichtung, die er vorher getroffen hat**, und ein **Satz, der sie benennt,
+damit sie keine Schuld wird**. Kein Tic, keine Zahl über sich selbst, und
+nichts, was er zurückhält, um es gleich darauf freizugeben.
+
+**Im vierten steht nichts davon, und genau das macht ihn zum schlimmsten
+Moment.** Keine Einrichtung, keine Erklärung, keine Fürsorge für den anderen -
+er hört auf zu wirten. Wer die Probe mechanisch über alle vier laufen lässt,
+meldet das vierte als Fehler. **Es ist der Beweis.**
+
+**Die Marker, an denen die Probe hängt** (aus dem Text, nicht erfunden):
+
+| | Beleg |
+|---|---|
+| Einrichtung vorher | *"I have put in more than I need"* · *"I have brought them anyway"* |
+| benennt die Gabe | *"so do not talk quickly on my account"* · *"I did not want to tell you that before you sat down"* |
+| Zustand des anderen | *"You will not want these"* · *"You have not slept"* |
+| wartet zu geben | *"you have not asked anything, and I have been waiting for it since the door"* |
+| gebaute Ausgänge | *"I gave her three places to. … She did not take one of them"* |
+
+**Eine Zeile ohne einen dieser Marker ist nicht falsch - sie ist nur nicht
+seine.** Am 26.08. hat diese Probe zwei meiner eigenen Berichtigungen in b2 K72
+durchfallen lassen: sie hatten Georgijs Rahmen verloren und nichts von Sim
+bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 
 
 #### Was das Blatt nicht hatte

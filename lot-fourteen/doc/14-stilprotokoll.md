@@ -1756,3 +1756,48 @@ habe (*"I am going to give it to you, because I have spent two days working out
 why it has been sitting on me"*, K74). Der Wortlaut ist geteilt, der Zug nicht:
 Georgij gibt her, was **schlimmer** ist, Sim gibt her, was er **schuldet**.
 Bleibt stehen. `faktenspur.py` meldet **null** bewegte Zahlen, Daten und Namen.
+
+### Nachgefragt: war es distinktiv genug? Nein, und die Probe hat es gezeigt
+
+**Der Autor am 26.08.: *"ist das immer schon distinktiv genug, was Du gemacht
+hast?"*** Ich habe die Probe, die ich fuer Sims Blatt geschrieben hatte, gegen
+**meine eigenen Berichtigungen** laufen lassen. Ergebnis im ersten Anlauf:
+
+| Ort | meine Zeile | Sim-Marker |
+|---|---|---|
+| K64 | *"You have been getting ready for a different question"* | Zustand des anderen |
+| K64 | *"…and I am going to give it to you anyway"* | benennt die Gabe |
+| K72 | *"…that telephone has had two voices on it, and I had not heard this one before"* | **KEINER** |
+| K72 | *"The next part is mine and not hers"* | **KEINER** |
+| K74 | *"You have not asked me for the rest of it"* | wartet zu geben |
+
+**Zwei von fuenf trugen nichts.** Ich hatte Georgij herausgenommen und nichts
+von Sim hineingesetzt - neutral statt geliehen, und neutral ist keine Stimme.
+**Georgij herausnehmen ist die halbe Arbeit**; dieser Satz steht jetzt in der
+Probe auf seinem Blatt.
+
+**Nachgebessert, und diesmal die Kandidaten vorher gemessen statt hinterher:**
+
+| Ort | jetzt | Marker |
+|---|---|---|
+| K72 | *"You will want the voice before anything else"* | Zustand des anderen |
+| K72 | *"…and I have thought about whether to bring it"* | Einrichtung vorher |
+| K77 | *"The last of it is not information. I am telling you anyway"* | benennt die Gabe |
+
+**6 von 6 tragen jetzt einen im Text belegten Marker.** Geteilt mit Georgij ist
+noch **eine** Wendung, *"it to you because"* - und die steht in einer Zeile, die
+ich nicht geschrieben habe.
+
+**Zwei Lehren fuer die uebrigen Figuren.**
+
+1. **Der Vorab-Test.** Ein Ersatzsatz wird gegen den Korpus gemessen, **bevor**
+   er ins Kapitel geht: welche seiner Vier-Wort-Wendungen benutzt Georgij und
+   sonst niemand. Mein erster Ersatz *"What is left is mine and not hers"* war
+   selbst Georgij, mein zweiter brachte *"and you will not"* zurueck. Beide
+   haette der Vorab-Test gestoppt.
+2. **Die grobe Messung taugt nicht.** Gegen Georgijs 13 000 Woerter trifft fast
+   jede gaengige Wortfolge. Gezaehlt wird nur, was **Georgij benutzt und sonst
+   kein Sprecher** - das ist das Signal, alles andere ist Englisch.
+
+*Unsicher:* keiner. Die Marker sind alle am Text belegt und stehen als Tabelle
+auf Sims Blatt.

@@ -2,7 +2,7 @@
 
 *Erzeugt aus `doc/` und `chapters/`. Wird nicht bearbeitet.*
 
-Alle 16 Dokumente am Stueck plus das Begegnungsregister. 271.342 Woerter.
+Alle 16 Dokumente am Stueck plus das Begegnungsregister. 271.961 Woerter.
 Geaendert wird die Quelldatei in `doc/`, danach `python3 build.py`.
 Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
 
@@ -246,6 +246,7 @@ Das Register wird nirgends bearbeitet, es kommt aus den Kapiteln.
   - [Die vier Zeilen im Text](#die-vier-zeilen-im-text)
   - [Ein Beinahe-Schaden, und er gehoert protokolliert](#ein-beinahe-schaden-und-er-gehoert-protokolliert)
   - [Nachtrag: der Rahmen kommt von selbst zurueck, und ich habe ihn selbst einmal ersetzt](#nachtrag-der-rahmen-kommt-von-selbst-zurueck-und-ich-habe-ihn-selbst-einmal-ersetzt)
+  - [Nachgefragt: war es distinktiv genug? Nein, und die Probe hat es gezeigt](#nachgefragt-war-es-distinktiv-genug-nein-und-die-probe-hat-es-gezeigt)
 - [Kürzen: was jedes Kapitel trägt](#k-rzen-was-jedes-kapitel-tr-gt)  ·  `doc/15-kuerzen.md`
 - [Begegnungsregister](#begegnungsregister)  ·  `BEGEGNUNGEN.md`, **erzeugt**
   - [Uebersicht](#uebersicht)
@@ -6071,7 +6072,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     der Suppe, die er isst, und nicht aus dem, von dem er sagt, dass er ihn mag.
     **Niemand sagt an diesem Abend ein Wort darueber.**
 
-- **Band 2, Kapitel 72** *The fourteenth* (v1.2) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
+- **Band 2, Kapitel 72** *The fourteenth* (v1.3) - **Tag 346, Mo 14. September. Der Anruf, und der Kalender des ganzen Bandes verschiebt sich um sechs Wochen.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Annies Werkzeug gegen das nachtraegliche Recht-Gehabt-Haben:** sie laesst ihn
@@ -6354,7 +6355,7 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     spricht im ganzen Kapitel nicht** und steht deshalb im Cast und nicht in
     `doc/12-stimmen.md`.
 
-- **Band 2, Kapitel 77** *The room at the back* (v1.1) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
+- **Band 2, Kapitel 77** *The room at the back* (v1.2) - **Tag 360, Mo 28. September. Sims eigener Anruf, und Georgij hoert ihn in einer Werkstatt.**
 
   **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
   - **Formal:** kein Warten im Haus wie in 72. Georgij erfuellt Annies zweiten
@@ -13546,10 +13547,30 @@ nicht.
 > made most of them myself, and I would like to know what one feels like from
 > this side."
 
-**Die Probe.** In allen vieren steht **eine Einrichtung, die er vorher getroffen
-hat**, und **ein Satz, der sie benennt, damit sie keine Schuld wird**. Kein Tic,
-keine Zahl über sich selbst, und **nichts, was er zurückhält, um es gleich
-darauf freizugeben.**
+**Die Probe, und sie ist asymmetrisch.** In den **ersten drei** steht eine
+**Einrichtung, die er vorher getroffen hat**, und ein **Satz, der sie benennt,
+damit sie keine Schuld wird**. Kein Tic, keine Zahl über sich selbst, und
+nichts, was er zurückhält, um es gleich darauf freizugeben.
+
+**Im vierten steht nichts davon, und genau das macht ihn zum schlimmsten
+Moment.** Keine Einrichtung, keine Erklärung, keine Fürsorge für den anderen -
+er hört auf zu wirten. Wer die Probe mechanisch über alle vier laufen lässt,
+meldet das vierte als Fehler. **Es ist der Beweis.**
+
+**Die Marker, an denen die Probe hängt** (aus dem Text, nicht erfunden):
+
+| | Beleg |
+|---|---|
+| Einrichtung vorher | *"I have put in more than I need"* · *"I have brought them anyway"* |
+| benennt die Gabe | *"so do not talk quickly on my account"* · *"I did not want to tell you that before you sat down"* |
+| Zustand des anderen | *"You will not want these"* · *"You have not slept"* |
+| wartet zu geben | *"you have not asked anything, and I have been waiting for it since the door"* |
+| gebaute Ausgänge | *"I gave her three places to. … She did not take one of them"* |
+
+**Eine Zeile ohne einen dieser Marker ist nicht falsch - sie ist nur nicht
+seine.** Am 26.08. hat diese Probe zwei meiner eigenen Berichtigungen in b2 K72
+durchfallen lassen: sie hatten Georgijs Rahmen verloren und nichts von Sim
+bekommen. **Georgij herausnehmen ist die halbe Arbeit.**
 
 
 #### Was das Blatt nicht hatte
@@ -17339,6 +17360,51 @@ why it has been sitting on me"*, K74). Der Wortlaut ist geteilt, der Zug nicht:
 Georgij gibt her, was **schlimmer** ist, Sim gibt her, was er **schuldet**.
 Bleibt stehen. `faktenspur.py` meldet **null** bewegte Zahlen, Daten und Namen.
 
+### Nachgefragt: war es distinktiv genug? Nein, und die Probe hat es gezeigt
+
+**Der Autor am 26.08.: *"ist das immer schon distinktiv genug, was Du gemacht
+hast?"*** Ich habe die Probe, die ich fuer Sims Blatt geschrieben hatte, gegen
+**meine eigenen Berichtigungen** laufen lassen. Ergebnis im ersten Anlauf:
+
+| Ort | meine Zeile | Sim-Marker |
+|---|---|---|
+| K64 | *"You have been getting ready for a different question"* | Zustand des anderen |
+| K64 | *"…and I am going to give it to you anyway"* | benennt die Gabe |
+| K72 | *"…that telephone has had two voices on it, and I had not heard this one before"* | **KEINER** |
+| K72 | *"The next part is mine and not hers"* | **KEINER** |
+| K74 | *"You have not asked me for the rest of it"* | wartet zu geben |
+
+**Zwei von fuenf trugen nichts.** Ich hatte Georgij herausgenommen und nichts
+von Sim hineingesetzt - neutral statt geliehen, und neutral ist keine Stimme.
+**Georgij herausnehmen ist die halbe Arbeit**; dieser Satz steht jetzt in der
+Probe auf seinem Blatt.
+
+**Nachgebessert, und diesmal die Kandidaten vorher gemessen statt hinterher:**
+
+| Ort | jetzt | Marker |
+|---|---|---|
+| K72 | *"You will want the voice before anything else"* | Zustand des anderen |
+| K72 | *"…and I have thought about whether to bring it"* | Einrichtung vorher |
+| K77 | *"The last of it is not information. I am telling you anyway"* | benennt die Gabe |
+
+**6 von 6 tragen jetzt einen im Text belegten Marker.** Geteilt mit Georgij ist
+noch **eine** Wendung, *"it to you because"* - und die steht in einer Zeile, die
+ich nicht geschrieben habe.
+
+**Zwei Lehren fuer die uebrigen Figuren.**
+
+1. **Der Vorab-Test.** Ein Ersatzsatz wird gegen den Korpus gemessen, **bevor**
+   er ins Kapitel geht: welche seiner Vier-Wort-Wendungen benutzt Georgij und
+   sonst niemand. Mein erster Ersatz *"What is left is mine and not hers"* war
+   selbst Georgij, mein zweiter brachte *"and you will not"* zurueck. Beide
+   haette der Vorab-Test gestoppt.
+2. **Die grobe Messung taugt nicht.** Gegen Georgijs 13 000 Woerter trifft fast
+   jede gaengige Wortfolge. Gezaehlt wird nur, was **Georgij benutzt und sonst
+   kein Sprecher** - das ist das Signal, alles andere ist Englisch.
+
+*Unsicher:* keiner. Die Marker sind alle am Text belegt und stehen als Tabelle
+auf Sims Blatt.
+
 ---
 
 # Kürzen: was jedes Kapitel trägt
@@ -20078,7 +20144,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:228 | Sim stood up, which he had not done, and put one hand on the back of his own chair. |
 | 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
 | 49 | b2ch72:114 | "It is a box in Jongno and it is raining on me," said Sim, "and I have put in more than .. |
-| 49 | b2ch72:138 | "In four years that telephone has had two voices on it, and I had not heard this one bef.. |
+| 49 | b2ch72:138 | "You will want the voice before anything else," said Sim. "Four years, two voices on tha.. |
 | 49 | b2ch72:146 | "Everything he had, and I did not ask him one question." Sim said it without any pleasur.. |
 | 49 | b2ch72:162 | "There was a radio on in that room," said Sim. "There has never been a radio on in that .. |
 | 49 | b2ch72:170 | "He was not careful at all, and that is the piece I would like you to sit down for." Sim.. |
@@ -20088,7 +20154,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "The next part is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -20111,7 +20177,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch77:138 | "There is one," said Sim. "I am the one. That is what I have been for eleven years and i.. |
 | 3 | b2ch77:148 | "It is the second question anybody has asked her on that telephone in four years and bot.. |
 | 3 | b2ch77:152 | "That is a survey," said Sim. "You do not put a man in a roof space with a torch for hal.. |
-| 3 | b2ch77:158 | "The last of it is not information," said Sim. |
+| 3 | b2ch77:158 | "The last of it is not information. I am telling you anyway," said Sim. |
 | 3 | b2ch77:170 | Sim did not answer straight away. |
 | 6 | b2ch78:18 | Sim telephoned the house in Gangwon-do at ten past five, three days after he had last do.. |
 | 6 | b2ch78:52 | Sim straightened his cuff, which he does. |

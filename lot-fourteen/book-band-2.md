@@ -2,7 +2,7 @@
 
 *Lesefassung eines Bandes. Wird nicht bearbeitet.*
 
-Book Two, 81 Kapitel, 200.921 Woerter.
+Book Two, 81 Kapitel, 200.936 Woerter.
 
 Kanon sind die Dateien in `chapters-2/`.
 Je Kapitel wird automatisch die hoechste Versionsnummer genommen und
@@ -82,12 +82,12 @@ Kapiteldatei** - sie kommt aus dem Ordner und wird hier eingesetzt.
 | 69 | v1.3 | 2.944 |
 | 70 | v1.0 | 2.275 |
 | 71 | v1.1 | 3.650 |
-| 72 | v1.2 | 2.298 |
+| 72 | v1.3 | 2.308 |
 | 73 | v1.0 | 2.175 |
 | 74 | v1.2 | 3.469 |
 | 75 | v1.0 | 2.539 |
 | 76 | v1.0 | 2.056 |
-| 77 | v1.1 | 2.322 |
+| 77 | v1.2 | 2.327 |
 | 78 | v1.0 | 2.077 |
 | 79 | v1.0 | 2.166 |
 | 80 | v1.0 | 2.083 |
@@ -15795,7 +15795,7 @@ Annie looked at him for slightly longer than she needed to and then went back to
 ---
 
 # Book Two · Chapter 72: The fourteenth
-*Lot Fourteen* · Version 1.2 · EN
+*Lot Fourteen* · Version 1.3 · EN
 
 ## Day Three Hundred and Forty-Six · Monday 14 September
 
@@ -15883,7 +15883,7 @@ Georgij put his hand flat on the arm of the chair.
 
 * * *
 
-"In four years that telephone has had two voices on it, and I had not heard this one before," said Sim. "He gave me his surname before I had asked him for it. Mr Tak."
+"You will want the voice before anything else," said Sim. "Four years, two voices on that telephone, and this one was new. He gave me his surname before I had asked him for it. Mr Tak."
 
 "Say what else he gave you."
 
@@ -15965,7 +15965,7 @@ Georgij closed his eyes for about two seconds, which he does not do.
 
 * * *
 
-"The next part is mine and not hers," said Sim.
+"The next part is mine and not hers, and I have thought about whether to bring it," said Sim.
 
 "Go on."
 
@@ -17268,7 +17268,7 @@ Whether that is because the other three understood it exactly as Mr Pyeon did, o
 ---
 
 # Book Two · Chapter 77: The room at the back
-*Lot Fourteen* · Version 1.1 · EN
+*Lot Fourteen* · Version 1.2 · EN
 
 ## Day Three Hundred and Sixty · Monday 28 September
 
@@ -17424,7 +17424,7 @@ Neither of them said anything.
 
 There was a coin going into the box.
 
-"The last of it is not information," said Sim.
+"The last of it is not information. I am telling you anyway," said Sim.
 
 "Go on."
 

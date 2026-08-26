@@ -2589,7 +2589,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 42 | b2ch68:228 | Sim stood up, which he had not done, and put one hand on the back of his own chair. |
 | 42 | b2ch68:238 | "It was worth building." Sim almost smiled at him, and it was not the smile from Mrs Bae.. |
 | 49 | b2ch72:114 | "It is a box in Jongno and it is raining on me," said Sim, "and I have put in more than .. |
-| 49 | b2ch72:138 | "In four years that telephone has had two voices on it, and I had not heard this one bef.. |
+| 49 | b2ch72:138 | "You will want the voice before anything else," said Sim. "Four years, two voices on tha.. |
 | 49 | b2ch72:146 | "Everything he had, and I did not ask him one question." Sim said it without any pleasur.. |
 | 49 | b2ch72:162 | "There was a radio on in that room," said Sim. "There has never been a radio on in that .. |
 | 49 | b2ch72:170 | "He was not careful at all, and that is the piece I would like you to sit down for." Sim.. |
@@ -2599,7 +2599,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 49 | b2ch72:242 | "She said, thank you for telephoning about it, Mr Sim." He was entirely level. "That is .. |
 | 49 | b2ch72:250 | "I have had two hours in the rain to get it wrong in every direction and I keep arriving.. |
 | 49 | b2ch72:270 | "I gave her three places to." Sim said it flatly. "I told her the weather might turn. I .. |
-| 49 | b2ch72:274 | "The next part is mine and not hers," said Sim. |
+| 49 | b2ch72:274 | "The next part is mine and not hers, and I have thought about whether to bring it," said.. |
 | 49 | b2ch72:306 | "Then the answer is nothing, and you can have that in writing if it makes the evening ea.. |
 | 50 | b2ch73:420 | *Sim has thirty years and I have six months and neither of us has ever had a sister.* |
 | 51 | b2ch74:14 | "You have come with something and you are not going to make me guess," said Sim. |
@@ -2622,7 +2622,7 @@ an einer anderen, Mrs Ryu vier Minuten im Dokument und sechs im Text.
 | 3 | b2ch77:138 | "There is one," said Sim. "I am the one. That is what I have been for eleven years and i.. |
 | 3 | b2ch77:148 | "It is the second question anybody has asked her on that telephone in four years and bot.. |
 | 3 | b2ch77:152 | "That is a survey," said Sim. "You do not put a man in a roof space with a torch for hal.. |
-| 3 | b2ch77:158 | "The last of it is not information," said Sim. |
+| 3 | b2ch77:158 | "The last of it is not information. I am telling you anyway," said Sim. |
 | 3 | b2ch77:170 | Sim did not answer straight away. |
 | 6 | b2ch78:18 | Sim telephoned the house in Gangwon-do at ten past five, three days after he had last do.. |
 | 6 | b2ch78:52 | Sim straightened his cuff, which he does. |
