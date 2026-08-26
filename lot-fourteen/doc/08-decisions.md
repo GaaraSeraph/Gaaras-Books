@@ -1047,3 +1047,44 @@ Kapitel, dieselbe Quelle.
 **Und die Probe, die dazugehoert:** Die Zahl der `* * *` in einem Kapitel muss
 der Szenenzahl aus diesem Dokument minus eins entsprechen. Das laesst sich
 maschinell pruefen und tut es noch nicht.
+
+
+---
+
+## Georgij hoert im Endspurt auf, Fehler zu machen, entschieden am 25.08.
+
+**Anlass war eine Frage des Autors:** ob Georgij weiterhin inkompetent ist oder
+kompetenter wird. Nachgesehen, Kapitel fuer Kapitel:
+
+**Bis Kapitel 73 wird er fuenfmal hintereinander korrigiert.** Annie diagnostiziert
+ihn in 69. Mr Ahn liest in 70 den Satz richtig, an dem er vierzehn Tage
+gescheitert ist. Mrs Jeon sagt ihm in 71, was er getan hat. In 72 schreibt er drei
+Erwartungen auf und hat zwei falsch. In 73 dreht Mr Ahn seine und Sims Lesart um.
+
+**Kapitel 73 ist die letzte Stelle, an der jemand eine Deutung von ihm
+umstoesst.** Ab 74 kommen die Korrekturen von ihm selbst: die zweite Frau in 74,
+Mr Pyeon in 76 (*"He is right and we are wrong"*), die harte Fassung fuer Mr Ahn
+und die haltende Lesart gegen Sim in 77, der vorgelegte Briefweg und die drei
+Zahlen in 78, die einzige Tuer und der eigene Interessenkonflikt in 80.
+
+**Entscheidung des Autors:** das bleibt so, und es darf so bleiben. *"Wir sind im
+Endspurt, es ist ok wenn er langsam aufhoert Fehler zu machen."*
+
+**Woraus zwei Regeln fuer den Rest des Bandes folgen:**
+
+1. **Niemand baut ihm rueckwirkend neue Fehler ein**, um die Kurve zu
+   verflachen. Wer ab 74 eine Stelle findet, an der er zu gut aussieht, laesst
+   sie stehen.
+2. **Die Kurve laeuft aber nicht auf Unfehlbarkeit zu, sondern durch die
+   Kompetenz hindurch.** Das steht schon in Kapitel 80: die Methode bei Sim hat
+   funktioniert, weil er nichts von der Form des Satzes hatte, und bei Mr Hwang
+   hat er alles davon. **Die Gefahr im Endspurt ist nicht mehr, dass er etwas
+   falsch liest, sondern dass er es richtig liest und benutzt.** Das ist
+   dieselbe Regel, die er in 80 selbst ausspricht: jemand wird gemacht, indem
+   man ihm im falschen Moment einen guten Grund gibt.
+
+**Und die eine Fehlerklasse, die bleiben muss:** er darf sich weiterhin ueber
+sich selbst irren. Ueber Sachverhalte nicht mehr, ueber die eigene Lage schon.
+In 74 haelt er sich vier Tage lang faelschlich fuer die Ursache von November,
+und Annie widerlegt ihn mit einem Datum. **Diese Sorte darf bis zum letzten
+Kapitel vorkommen**, weil sie nichts mit Koennen zu tun hat.
