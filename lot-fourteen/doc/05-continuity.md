@@ -3910,6 +3910,54 @@ steckt in ihrem eigenen Satz. Er braucht den Raum, sie nicht.
     they had. The two who are being paid have given up nothing at all."*
   - **Offen:** er telefoniert mit dem Tag, sobald er ihn hat.
 
+- **Band 2, Kapitel 84** *The consignor of record* (v1.0) - **Tag 386 und 388, Sa 24. und Mo 26. Oktober. Es fehlt eine dritte Unterschrift, und es gibt genau einen Menschen, der sie leisten kann.**
+
+  **Noch nicht inhaltlich geprueft.** Am 25.08. von der Schreibsitzung angelegt.
+  - **Mr Hwang telefoniert am Samstag um neun**, was er seit 2019 nicht getan hat,
+    und sagt das selbst im ersten Satz. Er hat die Akte richtig gelesen und einen
+    Punkt gefunden, den am Donnerstag **beide vorausgesetzt** hatten.
+  - **DREI DINGE, NICHT ZWEI.** Der Verwalter stimmt zu. Der Halter nimmt das
+    Geld. **Und der Einlieferer von Amts wegen weist das Haus an**, und dafuer gibt
+    es in den Geschaeftsbedingungen keinen Ersatz.
+  - **Der Einlieferer ist Mr Ahn** und war es immer: er hat im Februar vor vier
+    Jahren das Konsignationsformular unterschrieben (Kanon aus b2 K56, *"I signed
+    the form"*). **Vier Jahre lang war er vierzig Fuss von der einzigen
+    Unterschrift entfernt, die sie bewegen kann.**
+  - **Er bekommt nichts**, und Hwang verlangt ausdruecklich, dass Georgij darin
+    genau ist: kein Won, keine Gebuehr, kein Anteil, er ist nicht Partei des
+    Preises und erfaehrt ihn nie. **Mr Ahn nimmt das Gegenteil in unter einer
+    Sekunde an, wie vorhergesagt.**
+  - **DIE GRAUSAMKEIT IST EINE PAPIERENTSCHEIDUNG VON 2003:** die Anweisung ist
+    auf die **Rueckseite** des Konsignationsformulars gedruckt, weil das damals
+    jemandem ordentlicher vorkam. Er dreht das Blatt um und findet seine eigene
+    Unterschrift vom Februar. Hwang hat seit sieben Uhr morgens nach einer Fassung
+    gesucht und keine gefunden: *"I am sorry about that and being sorry is worth
+    nothing."*
+  - **Georgij bringt zum ersten Mal etwas den Huegel hinauf** und bemerkt es an der
+    dritten Strasse. Er legt das Blatt auf die Werkbank und **stellt sich elf Fuss
+    weg an die Tuer**, was die ganze Weite des Raums ist.
+  - **Mr Ahn braucht neunzig Sekunden fuer vier Zeilen** und dreht dann um. *"I was
+    thirty-five... I remember the pen. It was a house pen and it was chained to
+    the desk."*
+  - **Und die Umdeutung, die ihn unterschreiben laesst, ist seine eigene:** *"The
+    one on the back says I'm placing her. This one says the house is to give
+    effect to something. It isn't me doing it. It's me telling them to stop being
+    in the way."* Dazu: *"somebody in 2003 was cleverer than they knew."*
+  - **Er unterschreibt mit einem Kugelschreiber aus der Dose**, in der elf stecken,
+    ohne hinzusehen, und es dauert zwei Sekunden.
+  - **Sein Satz zum Schluss, den er ausdruecklich vorzieht**, weil es hinterher zu
+    viel davon geben wird: vier Jahre lang recht gehabt zu haben, dass es nichts
+    zu tun gab, und dass es genau eine Sache gab, die niemand haette wissen
+    koennen.
+  - **NEUE ZUSAGE, und sie ist die Bedingung fuer den Tag der Abholung:**
+    *"whoever is in the car has about four minutes to be the first person in four
+    years who says a true sentence to her, and it had better not be a man."*
+    **Damit ist Mrs Jeon nicht mehr nur die erste Stunde, sondern die erste
+    Minute.**
+  - **Und Georgijs Eintrag im Wagen:** *"I stood by the door for that, which is
+    eleven feet, and it is the only decision in this whole arrangement that I have
+    not been standing next to when it was made."*
+
 
 
 ---
